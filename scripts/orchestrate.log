@@ -1,0 +1,1350 @@
+═══════════════════════════════════════════════════════
+  RadQuiz Agent Orchestrator — Gold Standard Population
+═══════════════════════════════════════════════════════
+  Model: stepfun/step-3.5-flash
+  Workers: 10
+  Batch size: 3
+  Delay: 6s between calls per worker
+  Dry run: false
+
+📂 Resuming: 179/740 done, 561 remaining
+[W0] [179/740] Breast — generating 3 cases (558 remaining)
+[W1] [179/740] Breast — generating 3 cases (555 remaining)
+[W2] [179/740] Breast — generating 3 cases (552 remaining)
+[W3] [179/740] Breast — generating 3 cases (549 remaining)
+[W4] [179/740] Cardiac — generating 3 cases (546 remaining)
+[W5] [179/740] Cardiac — generating 3 cases (543 remaining)
+[W6] [179/740] Cardiac,Chest — generating 3 cases (540 remaining)
+[W7] [179/740] Chest — generating 3 cases (537 remaining)
+[W8] [179/740] Chest — generating 3 cases (534 remaining)
+[W9] [179/740] Chest — generating 3 cases (531 remaining)
+[W0]   📡 17709 chars, cost=$0.0015, tokens=4503
+[W0]   ✗ JSON parse failed, re-queuing
+[W0] [179/740] Breast — generating 3 cases (531 remaining)
+[W8]   📡 18082 chars, cost=$0.0021, tokens=6252
+[W8]   ⚠ Case 45 (Centrilobular pulmonary nodules): examPearl missing [n] ref
+[W8]   ⚠ Case 46 (Cystic lung disease): examPearl missing [n] ref
+[W8]   ⚠ Case 47 (Lower lobe interstitial lung disease (ILD)): examPearl missing [n] ref
+[W1]   📡 15002 chars, cost=$0.0026, tokens=8015
+[W1]   ✅ Seeded 3 cases to Convex
+[W8] [182/740] Chest — generating 3 cases (531 remaining)
+[W1] [182/740] Chest — generating 3 cases (528 remaining)
+[W7]   📡 23235 chars, cost=$0.0025, tokens=7837
+[W7]   ✅ Seeded 3 cases to Convex
+[W9]   📡 21260 chars, cost=$0.0026, tokens=8049
+[W9]   ⚠ Case 54 (Peripheral air-space disease): vivaPresentation.opening short
+[W9]   ⚠ Case 58 (Bronchiectasis): diagnosis too short
+[W9]   ✅ Seeded 1 cases to Convex
+[W7] [186/740] Chest — generating 3 cases (527 remaining)
+[W9] [186/740] Chest — generating 3 cases (524 remaining)
+[W4]   📡 17792 chars, cost=$0.0033, tokens=10312
+[W4]   ⚠ Case 1277 (D-loop transposition of great arteries (D-TGA)): clinicalHistory missing age
+[W4]   ⚠ Case 1279 (Hemodynamically significant atherosclerotic stenosis of the right coronary artery): differential missing parens
+[W4]   ⚠ Case 1282 (Atrial myxoma): diagnosis too short
+[W4] [186/740] Cardiac — generating 3 cases (524 remaining)
+[W3]   ℹ Extracted JSON from reasoning field
+[W3]   📡 71411 chars, cost=$0.0050, tokens=16000
+[W3]   ✗ JSON parse failed, re-queuing
+[W2]   📡 15955 chars, cost=$0.0049, tokens=15706
+[W2]   ⚠ Case 1036 (Fibroadenoma): diagnosis too short
+[W2]   ✅ Seeded 2 cases to Convex
+[W0]   📡 15601 chars, cost=$0.0032, tokens=9957
+[W0]   ✅ Seeded 3 cases to Convex
+[W5]   ℹ Extracted JSON from reasoning field
+[W5]   📡 71489 chars, cost=$0.0050, tokens=16000
+[W5]   ✗ JSON parse failed, re-queuing
+[W3] [191/740] Breast — generating 3 cases (528 remaining)
+[W6]   ℹ Extracted JSON from reasoning field
+[W6]   📡 59885 chars, cost=$0.0050, tokens=16000
+[W6]   ✗ JSON parse failed, re-queuing
+[W2] [191/740] Breast,Cardiac — generating 3 cases (528 remaining)
+[W5] [191/740] Cardiac — generating 3 cases (525 remaining)
+[W0] [191/740] Chest — generating 3 cases (522 remaining)
+[W6] [191/740] Chest — generating 3 cases (519 remaining)
+[W7]   📡 17332 chars, cost=$0.0024, tokens=7335
+[W7]   ⚠ Case 58 (Bronchiectasis): diagnosis too short
+[W7]   ✅ Seeded 2 cases to Convex
+[W7] [193/740] Chest — generating 3 cases (517 remaining)
+[W8]   ℹ Extracted JSON from reasoning field
+[W8]   📡 70425 chars, cost=$0.0050, tokens=16000
+[W8]   ✗ JSON parse failed, re-queuing
+[W0]   📡 19604 chars, cost=$0.0019, tokens=5558
+[W0]   ⚠ Case 41 (Solitary pulmonary nodule): findings: 1 lines, 4 sentences (need ≥5)
+[W0]   ✅ Seeded 2 cases to Convex
+[W8] [195/740] Chest — generating 3 cases (518 remaining)
+[W0] [195/740] Chest — generating 3 cases (515 remaining)
+[W5]   📡 23838 chars, cost=$0.0021, tokens=6361
+[W5]   ✅ Seeded 3 cases to Convex
+[W2]   📡 15687 chars, cost=$0.0027, tokens=8543
+[W2]   ✅ Seeded 3 cases to Convex
+[W1]   📡 7825 chars, cost=$0.0050, tokens=16000
+[W1]   ✗ JSON parse failed, re-queuing
+[W5] [201/740] Chest — generating 3 cases (515 remaining)
+[W2] [201/740] Chest — generating 3 cases (512 remaining)
+[W9]   ℹ Extracted JSON from reasoning field
+[W9]   📡 66072 chars, cost=$0.0050, tokens=16000
+[W9]   ✗ JSON parse failed, re-queuing
+[W1] [201/740] Chest — generating 3 cases (512 remaining)
+[W6]   📡 17465 chars, cost=$0.0026, tokens=8010
+[W6]   ✅ Seeded 3 cases to Convex
+[W9] [204/740] Chest — generating 3 cases (509 remaining)
+[W7]   📡 27107 chars, cost=$0.0022, tokens=6650
+[W7]   ✗ JSON parse failed, re-queuing
+[W6] [204/740] Chest — generating 3 cases (509 remaining)
+[W4]   ℹ Extracted JSON from reasoning field
+[W4]   📡 65180 chars, cost=$0.0050, tokens=16000
+[W4]   ✗ JSON parse failed, re-queuing
+[W7] [204/740] Cardiac — generating 3 cases (509 remaining)
+[W4] [204/740] Chest — generating 3 cases (506 remaining)
+[W5]   📡 20624 chars, cost=$0.0018, tokens=5280
+[W5]   ✅ Seeded 3 cases to Convex
+[W3]   📡 13382 chars, cost=$0.0050, tokens=16000
+[W3]   ✗ JSON parse failed, re-queuing
+[W8]   📡 15490 chars, cost=$0.0027, tokens=8362
+[W8]   ✅ Seeded 3 cases to Convex
+[W5] [210/740] Breast — generating 3 cases (506 remaining)
+[W3] [210/740] Chest — generating 3 cases (503 remaining)
+[W8] [210/740] Chest,ENT — generating 3 cases (500 remaining)
+[W0]   📡 16496 chars, cost=$0.0032, tokens=9892
+[W0]   ✅ Seeded 3 cases to Convex
+[W0] [213/740] ENT — generating 3 cases (497 remaining)
+[W6]   📡 15078 chars, cost=$0.0038, tokens=11951
+[W6]   ✅ Seeded 3 cases to Convex
+[W4]   📡 19407 chars, cost=$0.0030, tokens=9473
+[W4]   ✗ JSON parse failed, re-queuing
+[W9]   📡 15111 chars, cost=$0.0037, tokens=11787
+[W9]   ✅ Seeded 3 cases to Convex
+[W6] [219/740] Chest — generating 3 cases (497 remaining)
+[W4] [219/740] ENT — generating 3 cases (494 remaining)
+[W9] [219/740] GI — generating 3 cases (491 remaining)
+[W1]   📡 14559 chars, cost=$0.0044, tokens=14057
+[W1]   ✅ Seeded 3 cases to Convex
+[W1] [222/740] GI — generating 3 cases (488 remaining)
+[W8]   📡 26547 chars, cost=$0.0022, tokens=6688
+[W8]   ⚠ Case 1028 (Left upper lobe collapse due to obstructing endobronchial carcinoma): examPearl missing [n] ref
+[W8]   ✅ Seeded 2 cases to Convex
+[W2]   📡 10169 chars, cost=$0.0050, tokens=16000
+[W2]   ✗ JSON parse failed, re-queuing
+[W5]   📡 17018 chars, cost=$0.0030, tokens=9293
+[W5]   ✅ Seeded 3 cases to Convex
+[W8] [227/740] Chest — generating 3 cases (489 remaining)
+[W7]   📡 17331 chars, cost=$0.0048, tokens=15194
+[W7]   ⚠ Case 1277 (D-loop transposition of great arteries (D-TGA)): clinicalHistory missing age
+[W7]   ⚠ Case 1282 (Atrial myxoma): diagnosis too short
+[W7]   ✅ Seeded 1 cases to Convex
+[W2] [228/740] Cardiac,Chest — generating 3 cases (488 remaining)
+[W5] [228/740] GI — generating 3 cases (485 remaining)
+[W7] [228/740] GI — generating 3 cases (482 remaining)
+[W9]   📡 16342 chars, cost=$0.0028, tokens=8840
+[W9]   ✅ Seeded 3 cases to Convex
+[W6]   📡 17562 chars, cost=$0.0031, tokens=9612
+[W6]   ✅ Seeded 3 cases to Convex
+[W8]   📡 23110 chars, cost=$0.0019, tokens=5705
+[W8]   ⚠ Case 189 (Post-Primary Tuberculosis with Cavitation): examPearl missing [n] ref
+[W8]   ⚠ Case 190 (Mesothelioma): differential missing parens
+[W8]   ✅ Seeded 1 cases to Convex
+[W9] [235/740] Chest,GI — generating 3 cases (481 remaining)
+[W6] [235/740] GI — generating 3 cases (478 remaining)
+[W3]   ℹ Extracted JSON from reasoning field
+[W3]   📡 57751 chars, cost=$0.0050, tokens=16000
+[W3]   ✗ JSON parse failed, re-queuing
+[W8] [235/740] Chest — generating 3 cases (478 remaining)
+[W3] [235/740] GI — generating 3 cases (475 remaining)
+[W7]   📡 23150 chars, cost=$0.0021, tokens=6253
+[W7]   ✅ Seeded 3 cases to Convex
+[W0]   📡 2346 chars, cost=$0.0050, tokens=16000
+[W0]   ✗ JSON parse failed, re-queuing
+[W7] [238/740] ENT — generating 3 cases (475 remaining)
+[W5]   📡 14093 chars, cost=$0.0029, tokens=9074
+[W5]   ✅ Seeded 3 cases to Convex
+[W0] [241/740] GI — generating 3 cases (472 remaining)
+[W4]   📡 16090 chars, cost=$0.0043, tokens=13881
+[W4]   ✅ Seeded 3 cases to Convex
+[W5] [244/740] GI — generating 3 cases (469 remaining)
+[W4] [244/740] GI — generating 3 cases (466 remaining)
+[W1]   📡 15977 chars, cost=$0.0048, tokens=15263
+[W1]   ✅ Seeded 3 cases to Convex
+[W1] [247/740] GI — generating 3 cases (463 remaining)
+[W3]   📡 22660 chars, cost=$0.0019, tokens=5769
+[W3]   ⚠ Case 226 (Sigmoid Volvulus): diagnosis too short
+[W3]   ⚠ Case 228 (Adult Intussusception — Lead Point Malignancy): examPearl missing [n] ref
+[W3]   ⚠ Case 229 (Meckel Diverticulum — Technetium Pertechnetate Scan): findings: 1 lines, 4 sentences (need ≥5)
+[W2]   ℹ Extracted JSON from reasoning field
+[W2]   📡 72988 chars, cost=$0.0050, tokens=16000
+[W2]   ✗ JSON parse failed, re-queuing
+[W3] [247/740] Cardiac,Chest — generating 3 cases (466 remaining)
+[W2] [247/740] GI — generating 3 cases (463 remaining)
+[W9]   📡 13393 chars, cost=$0.0034, tokens=10627
+[W9]   ✅ Seeded 3 cases to Convex
+[W5]   📡 22738 chars, cost=$0.0020, tokens=6107
+[W5]   ⚠ Case 1057 (* Primary achalasia): diagnosis too short
+[W5]   ⚠ Case 1059 (Erosive gastritis): diagnosis too short
+[W5]   ✅ Seeded 1 cases to Convex
+[W9] [251/740] GI — generating 3 cases (462 remaining)
+[W7]   📡 17414 chars, cost=$0.0026, tokens=7938
+[W7]   ✅ Seeded 3 cases to Convex
+[W5] [254/740] GI — generating 3 cases (459 remaining)
+[W7] [254/740] GI,GU — generating 3 cases (456 remaining)
+[W6]   📡 19432 chars, cost=$0.0038, tokens=12058
+[W6]   ⚠ Case 224 (Adhesive Small Bowel Obstruction): differential missing parens
+[W6]   ✅ Seeded 2 cases to Convex
+[W1]   📡 23664 chars, cost=$0.0020, tokens=5991
+[W1]   ✅ Seeded 3 cases to Convex
+[W6] [259/740] GI,GU — generating 3 cases (454 remaining)
+[W1] [259/740] GU — generating 3 cases (451 remaining)
+[W4]   📡 13041 chars, cost=$0.0035, tokens=10897
+[W4]   ⚠ Case 1060 (Ectopic pancreatic rest): differential missing parens
+[W4]   ⚠ Case 1061 (Diffusely infiltrating metastatic breast carcinoma to the stomach (linitis plastica appearance)): differential missing parens
+[W4]   ⚠ Case 1062 (Isolated gastric varices): differential missing parens
+[W4] [259/740] GI — generating 3 cases (451 remaining)
+[W2]   📡 21182 chars, cost=$0.0018, tokens=5527
+[W2]   ⚠ Case 226 (Sigmoid Volvulus): diagnosis too short
+[W2]   ⚠ Case 229 (Meckel Diverticulum — Technetium Pertechnetate Scan): findings: 1 lines, 4 sentences (need ≥5)
+[W2]   ✅ Seeded 1 cases to Convex
+[W2] [260/740] GI,GU — generating 3 cases (450 remaining)
+[W8]   ℹ Extracted JSON from reasoning field
+[W8]   📡 60195 chars, cost=$0.0050, tokens=16000
+[W8]   ✗ JSON parse failed, re-queuing
+[W0]   📡 11873 chars, cost=$0.0050, tokens=16000
+[W0]   ✗ JSON parse failed, re-queuing
+[W8] [260/740] Chest — generating 3 cases (453 remaining)
+[W9]   📡 22691 chars, cost=$0.0023, tokens=7097
+[W9]   ✅ Seeded 3 cases to Convex
+[W0] [263/740] GI — generating 3 cases (450 remaining)
+[W7]   📡 21045 chars, cost=$0.0022, tokens=6855
+[W7]   ⚠ Case 1083 (Meckel diverticulitis): examPearl missing [n] ref
+[W7]   ⚠ Case 41 (Solid renal mass): examPearl missing [n] ref
+[W7]   ⚠ Case 42 (Multiple bilateral renal lesions/masses): examPearl missing [n] ref
+[W9] [263/740] GI,GU — generating 3 cases (450 remaining)
+[W7] [263/740] GU — generating 3 cases (447 remaining)
+[W6]   📡 18844 chars, cost=$0.0023, tokens=7145
+[W6]   ✅ Seeded 3 cases to Convex
+[W3]   📡 14833 chars, cost=$0.0045, tokens=14339
+[W3]   ⚠ Case 1282 (Atrial myxoma): diagnosis too short
+[W3]   ✅ Seeded 2 cases to Convex
+[W6] [268/740] Cardiac,GU — generating 3 cases (445 remaining)
+[W4]   📡 17724 chars, cost=$0.0021, tokens=6258
+[W4]   ⚠ Case 1060 (Ectopic pancreatic rest): differential missing parens
+[W4]   ⚠ Case 1061 (Diffusely infiltrating metastatic breast carcinoma to the stomach (linitis plastica appearance)): differential missing parens
+[W4]   ⚠ Case 1062 (Isolated gastric varices): differential missing parens
+[W3] [268/740] GI — generating 3 cases (445 remaining)
+[W4] [268/740] GU — generating 3 cases (442 remaining)
+[W1]   📡 15827 chars, cost=$0.0035, tokens=11200
+[W1]   ✅ Seeded 3 cases to Convex
+[W5]   📡 15472 chars, cost=$0.0047, tokens=14913
+[W5]   ✅ Seeded 3 cases to Convex
+[W1] [274/740] GU — generating 3 cases (439 remaining)
+[W9]   📡 19467 chars, cost=$0.0018, tokens=5325
+[W9]   ✅ Seeded 3 cases to Convex
+[W5] [277/740] GU — generating 3 cases (436 remaining)
+[W9] [277/740] GU — generating 3 cases (433 remaining)
+[W3]   📡 16240 chars, cost=$0.0028, tokens=8551
+[W3]   ⚠ Case 1060 (Ectopic pancreatic rest): differential missing parens
+[W3]   ⚠ Case 1061 (Diffusely infiltrating metastatic breast carcinoma to the stomach (linitis plastica appearance)): differential missing parens
+[W3]   ⚠ Case 1062 (Isolated gastric varices): differential missing parens
+[W8]   📡 15006 chars, cost=$0.0042, tokens=13372
+[W8]   ✅ Seeded 3 cases to Convex
+[W6]   📡 17115 chars, cost=$0.0032, tokens=10175
+[W6]   ✅ Seeded 3 cases to Convex
+[W2]   ℹ Extracted JSON from reasoning field
+[W2]   📡 70842 chars, cost=$0.0050, tokens=16000
+[W2]   ✗ JSON parse failed, re-queuing
+[W3] [283/740] GI — generating 3 cases (436 remaining)
+[W8] [283/740] GI,GU — generating 3 cases (433 remaining)
+[W6] [283/740] GU — generating 3 cases (430 remaining)
+[W0]   📡 17358 chars, cost=$0.0046, tokens=14693
+[W0]   ✅ Seeded 3 cases to Convex
+[W9]   📡 18241 chars, cost=$0.0017, tokens=4975
+[W9]   ⚠ Case 64 (Dilated ureter): interpretation too short
+[W9]   ⚠ Case 65 (Urethral stricture): interpretation too short
+[W9]   ✅ Seeded 1 cases to Convex
+[W2] [287/740] GU — generating 3 cases (429 remaining)
+[W9] [287/740] GU — generating 3 cases (426 remaining)
+[W0] [287/740] GU — generating 3 cases (423 remaining)
+[W7]   📡 16146 chars, cost=$0.0046, tokens=14788
+[W7]   ✅ Seeded 3 cases to Convex
+[W7] [290/740] GU — generating 3 cases (420 remaining)
+[W9]   📡 16139 chars, cost=$0.0015, tokens=4318
+[W9]   ✗ JSON parse failed, re-queuing
+[W6]   📡 13802 chars, cost=$0.0020, tokens=6111
+[W6]   ⚠ Case 121 (Renal Cell Carcinoma – Classic Clear Cell Type): vivaPresentation.opening short
+[W6]   ✅ Seeded 2 cases to Convex
+[W9] [292/740] GU — generating 3 cases (421 remaining)
+[W4]   ℹ Extracted JSON from reasoning field
+[W4]   📡 71071 chars, cost=$0.0050, tokens=16000
+[W4]   ✗ JSON parse failed, re-queuing
+[W6] [292/740] GU — generating 3 cases (421 remaining)
+[W5]   📡 17938 chars, cost=$0.0047, tokens=15053
+[W5]   ✅ Seeded 3 cases to Convex
+[W8]   📡 20794 chars, cost=$0.0024, tokens=7465
+[W8]   ✅ Seeded 3 cases to Convex
+[W3]   📡 18444 chars, cost=$0.0025, tokens=7685
+[W3]   ⚠ Case 226 (Sigmoid Volvulus): differential missing parens
+[W3]   ⚠ Case 229 (Meckel Diverticulum — Technetium Pertechnetate Scan): findings: 1 lines, 4 sentences (need ≥5)
+[W3]   ⚠ Case 1060 (Ectopic pancreatic rest): differential missing parens
+[W4] [298/740] GI — generating 3 cases (421 remaining)
+[W5] [298/740] GU — generating 3 cases (418 remaining)
+[W3] [298/740] GU — generating 3 cases (415 remaining)
+[W8] [298/740] GU — generating 3 cases (412 remaining)
+[W1]   ℹ Extracted JSON from reasoning field
+[W1]   📡 70765 chars, cost=$0.0050, tokens=16000
+[W1]   ✗ JSON parse failed, re-queuing
+[W0]   📡 3727 chars, cost=$0.0029, tokens=9149
+[W0]   ✗ JSON parse failed, re-queuing
+[W1] [298/740] GU — generating 3 cases (415 remaining)
+[W0] [298/740] GU — generating 3 cases (412 remaining)
+[W7]   📡 19347 chars, cost=$0.0026, tokens=7929
+[W7]   ⚠ Case 131 (Ovarian Serous Cystadenoma): vivaPresentation.opening short
+[W7]   ✅ Seeded 2 cases to Convex
+[W7] [300/740] GU — generating 3 cases (410 remaining)
+[W2]   📡 16946 chars, cost=$0.0039, tokens=12456
+[W2]   ⚠ Case 64 (Dilated ureter): diagnosis too short
+[W2]   ✅ Seeded 2 cases to Convex
+[W2] [302/740] GU — generating 3 cases (408 remaining)
+[W6]   📡 2097 chars, cost=$0.0023, tokens=7001
+[W6]   ✗ JSON parse failed, re-queuing
+[W6] [302/740] GU — generating 3 cases (408 remaining)
+[W5]   📡 2586 chars, cost=$0.0026, tokens=8138
+[W5]   ✗ JSON parse failed, re-queuing
+[W5] [302/740] GU — generating 3 cases (408 remaining)
+[W9]   📡 14867 chars, cost=$0.0039, tokens=12476
+[W9]   ⚠ Case 121 (Renal Cell Carcinoma – Classic Clear Cell Type): examPearl missing [n] ref
+[W9]   ⚠ Case 125 (Phaeochromocytoma): examPearl missing [n] ref
+[W9]   ⚠ Case 126 (Bladder Transitional Cell Carcinoma): examPearl missing [n] ref
+[W9] [302/740] GU — generating 3 cases (408 remaining)
+[W0]   📡 3224 chars, cost=$0.0031, tokens=9572
+[W0]   ✗ JSON parse failed, re-queuing
+[W8]   📡 16788 chars, cost=$0.0034, tokens=10777
+[W8]   ✅ Seeded 3 cases to Convex
+[W0] [305/740] GU — generating 3 cases (408 remaining)
+[W8] [305/740] GU — generating 3 cases (405 remaining)
+[W3]   📡 16218 chars, cost=$0.0040, tokens=12836
+[W3]   ✅ Seeded 3 cases to Convex
+[W3] [308/740] GU — generating 3 cases (402 remaining)
+[W4]   ℹ Extracted JSON from reasoning field
+[W4]   📡 53305 chars, cost=$0.0050, tokens=16000
+[W4]   ✗ JSON parse failed, re-queuing
+[W4] [308/740] GI — generating 3 cases (402 remaining)
+[W7]   📡 17719 chars, cost=$0.0043, tokens=13836
+[W7]   ✅ Seeded 3 cases to Convex
+[W2]   📡 16804 chars, cost=$0.0036, tokens=11400
+[W2]   ⚠ Case 64 (Dilated ureter): differential missing parens
+[W2]   ✅ Seeded 2 cases to Convex
+[W0]   📡 3303 chars, cost=$0.0013, tokens=3815
+[W0]   ✗ JSON parse failed, re-queuing
+[W6]   📡 2669 chars, cost=$0.0027, tokens=8341
+[W6]   ✗ JSON parse failed, re-queuing
+[W7] [313/740] GU — generating 3 cases (406 remaining)
+[W2] [313/740] GU — generating 3 cases (403 remaining)
+[W0] [313/740] GU — generating 3 cases (400 remaining)
+[W6] [313/740] GU — generating 3 cases (397 remaining)
+[W1]   ℹ Extracted JSON from reasoning field
+[W1]   📡 67006 chars, cost=$0.0050, tokens=16000
+[W1]   ✗ JSON parse failed, re-queuing
+[W1] [313/740] GU — generating 3 cases (397 remaining)
+[W8]   📡 15587 chars, cost=$0.0023, tokens=6887
+[W8]   ⚠ Case 146 (Testicular Microlithiasis with Non-Seminomatous Germ Cell Tumour): vivaPresentation.opening short
+[W8]   ✅ Seeded 2 cases to Convex
+[W9]   📡 15684 chars, cost=$0.0030, tokens=9368
+[W9]   ✅ Seeded 3 cases to Convex
+[W9] [318/740] GU — generating 3 cases (395 remaining)
+[W8] [318/740] GU — generating 3 cases (392 remaining)
+[W4]   📡 14004 chars, cost=$0.0017, tokens=4917
+[W4]   ✗ JSON parse failed, re-queuing
+[W4] [318/740] GI — generating 3 cases (392 remaining)
+[W5]   📡 17231 chars, cost=$0.0045, tokens=14458
+[W5]   ✅ Seeded 3 cases to Convex
+[W3]   📡 14728 chars, cost=$0.0039, tokens=12466
+[W3]   ✅ Seeded 3 cases to Convex
+[W5] [324/740] GU — generating 3 cases (389 remaining)
+[W3] [324/740] GU — generating 3 cases (386 remaining)
+[W6]   📡 20679 chars, cost=$0.0023, tokens=6878
+[W6]   ⚠ Case 154 (Placental Abruption): vivaPresentation.opening short
+[W6]   ✅ Seeded 2 cases to Convex
+[W0]   📡 16826 chars, cost=$0.0026, tokens=8163
+[W0]   ✅ Seeded 3 cases to Convex
+[W7]   📡 15300 chars, cost=$0.0029, tokens=9139
+[W7]   ⚠ Case 55 (Bladder ﬁ lling defect): differentials: 4 (need 3)
+[W7]   ⚠ Case 56 (Bilateral renal cysts): differentials: 4 (need 3)
+[W7]   ✅ Seeded 1 cases to Convex
+[W6] [330/740] GU — generating 3 cases (386 remaining)
+[W0] [330/740] GU — generating 3 cases (383 remaining)
+[W7] [330/740] GU — generating 3 cases (380 remaining)
+[W8]   📡 24558 chars, cost=$0.0021, tokens=6289
+[W8]   ⚠ Case 160 (Breast MRI – Multifocal Carcinoma Pre-operative Staging): vivaPresentation.opening short
+[W8]   ✅ Seeded 2 cases to Convex
+[W2]   📡 9850 chars, cost=$0.0040, tokens=12798
+[W2]   ✗ JSON parse failed, re-queuing
+[W8] [332/740] GU — generating 3 cases (381 remaining)
+[W2] [332/740] GU — generating 3 cases (378 remaining)
+[W1]   📡 12867 chars, cost=$0.0039, tokens=12428
+[W1]   ✗ JSON parse failed, re-queuing
+[W4]   📡 18241 chars, cost=$0.0026, tokens=8103
+[W4]   ⚠ Case 226 (Sigmoid Volvulus): differential missing parens
+[W4]   ⚠ Case 1060 (Ectopic pancreatic rest): differential missing parens
+[W4]   ✅ Seeded 1 cases to Convex
+[W1] [333/740] GI,GU — generating 3 cases (380 remaining)
+[W4] [333/740] GU — generating 3 cases (377 remaining)
+[W9]   📡 18534 chars, cost=$0.0036, tokens=11461
+[W9]   ✅ Seeded 3 cases to Convex
+[W9] [336/740] GU — generating 3 cases (374 remaining)
+[W6]   📡 19922 chars, cost=$0.0017, tokens=5172
+[W6]   ✅ Seeded 3 cases to Convex
+[W3]   📡 15402 chars, cost=$0.0025, tokens=7663
+[W3]   ✅ Seeded 3 cases to Convex
+[W6] [342/740] GU — generating 3 cases (371 remaining)
+[W0]   📡 22386 chars, cost=$0.0019, tokens=5723
+[W0]   ⚠ Case 1091 (Crossed renal ectopia): examPearl missing [n] ref
+[W0]   ✅ Seeded 2 cases to Convex
+[W3] [344/740] GU — generating 3 cases (369 remaining)
+[W5]   📡 14546 chars, cost=$0.0036, tokens=11246
+[W5]   ⚠ Case 1086 (Idiopathic (nonmalignant) RPF): scoringGuide.score5 short
+[W5]   ✅ Seeded 2 cases to Convex
+[W0] [346/740] GU — generating 3 cases (367 remaining)
+[W5] [346/740] GU — generating 3 cases (364 remaining)
+[W8]   📡 15667 chars, cost=$0.0027, tokens=8315
+[W8]   ⚠ Case 64 (Dilated ureter): findings: 1 lines, 4 sentences (need ≥5)
+[W8]   ⚠ Case 129 (Testicular Epidermoid Cyst): findings: 1 lines, 4 sentences (need ≥5)
+[W8]   ✅ Seeded 1 cases to Convex
+[W8] [347/740] GU,Gynae — generating 3 cases (363 remaining)
+[W2]   📡 16066 chars, cost=$0.0026, tokens=7906
+[W2]   ⚠ Case 1097 (* Cystic RCC (Bosniak type 4 lesion)): differential missing parens
+[W2]   ⚠ Case 1098 (Ureteritis cystica): differential missing parens
+[W2]   ✅ Seeded 1 cases to Convex
+[W2] [348/740] GU,Gynae — generating 3 cases (362 remaining)
+[W9]   📡 19378 chars, cost=$0.0021, tokens=6323
+[W9]   ✅ Seeded 3 cases to Convex
+[W4]   📡 16326 chars, cost=$0.0028, tokens=8797
+[W4]   ⚠ Case 58 (Pear-shaped bladder): diagnosis too short
+[W4]   ✅ Seeded 2 cases to Convex
+[W9] [353/740] GU,Gynae — generating 3 cases (360 remaining)
+[W4] [353/740] Gynae — generating 3 cases (357 remaining)
+[W7]   📡 15158 chars, cost=$0.0046, tokens=14748
+[W7]   ✅ Seeded 3 cases to Convex
+[W7] [356/740] Gynae — generating 3 cases (354 remaining)
+[W5]   📡 16902 chars, cost=$0.0026, tokens=7970
+[W5]   ✅ Seeded 3 cases to Convex
+[W5] [359/740] Gynae — generating 3 cases (351 remaining)
+[W2]   📡 19880 chars, cost=$0.0018, tokens=5501
+[W2]   ✅ Seeded 3 cases to Convex
+[W2] [362/740] Gynae — generating 3 cases (348 remaining)
+[W6]   📡 22579 chars, cost=$0.0038, tokens=11945
+[W6]   ✅ Seeded 3 cases to Convex
+[W0]   📡 18880 chars, cost=$0.0037, tokens=11654
+[W0]   ✅ Seeded 3 cases to Convex
+[W1]   ℹ Extracted JSON from reasoning field
+[W1]   📡 68558 chars, cost=$0.0050, tokens=16000
+[W1]   ✗ JSON parse failed, re-queuing
+[W6] [368/740] GU,Gynae — generating 3 cases (346 remaining)
+[W0] [368/740] Gynae — generating 3 cases (343 remaining)
+[W1] [368/740] Gynae — generating 3 cases (340 remaining)
+[W7]   📡 19329 chars, cost=$0.0017, tokens=5073
+[W7]   ✅ Seeded 3 cases to Convex
+[W3]   📡 14073 chars, cost=$0.0050, tokens=16000
+[W3]   ✗ JSON parse failed, re-queuing
+[W7] [371/740] GU — generating 3 cases (340 remaining)
+[W3] [371/740] Gynae — generating 3 cases (337 remaining)
+[W9]   📡 20938 chars, cost=$0.0029, tokens=8938
+[W9]   ✅ Seeded 3 cases to Convex
+[W4]   📡 17779 chars, cost=$0.0029, tokens=8958
+[W4]   ✅ Seeded 3 cases to Convex
+[W9] [377/740] Neuro — generating 3 cases (334 remaining)
+[W4] [377/740] Neuro — generating 3 cases (331 remaining)
+[W8]   ℹ Extracted JSON from reasoning field
+[W8]   📡 66278 chars, cost=$0.0050, tokens=16000
+[W8]   ✗ JSON parse failed, re-queuing
+[W8] [377/740] GU,Gynae — generating 3 cases (331 remaining)
+[W2]   📡 5107 chars, cost=$0.0028, tokens=8702
+[W2]   ✗ JSON parse failed, re-queuing
+[W2] [377/740] Gynae — generating 3 cases (331 remaining)
+[W1]   📡 15925 chars, cost=$0.0029, tokens=8908
+[W1]   ✅ Seeded 3 cases to Convex
+[W9]   📡 21120 chars, cost=$0.0019, tokens=5569
+[W9]   ⚠ Case 41 (GBM with butterfly pattern): examPearl missing [n] ref
+[W9]   ⚠ Case 41 (Conﬂ uent white matter lesions in an adult): examPearl missing [n] ref
+[W9]   ⚠ Case 42 (Acute MCA territory infarct): examPearl missing [n] ref
+[W1] [380/740] Neuro — generating 3 cases (331 remaining)
+[W7]   📡 1945 chars, cost=$0.0023, tokens=7066
+[W7]   ✗ JSON parse failed, re-queuing
+[W9] [380/740] GU — generating 3 cases (331 remaining)
+[W7] [380/740] Neuro — generating 3 cases (328 remaining)
+[W6]   📡 14171 chars, cost=$0.0041, tokens=13031
+[W6]   ✅ Seeded 3 cases to Convex
+[W5]   ℹ Extracted JSON from reasoning field
+[W5]   📡 54991 chars, cost=$0.0050, tokens=16000
+[W5]   ✗ JSON parse failed, re-queuing
+[W6] [383/740] Gynae — generating 3 cases (328 remaining)
+[W0]   📡 15805 chars, cost=$0.0044, tokens=14124
+[W0]   ⚠ Case 20 (Diaphragm abnormality): differential missing parens
+[W0]   ⚠ Case 21 (Fetal hydrops): differential missing parens
+[W0]   ✅ Seeded 1 cases to Convex
+[W5] [384/740] Gynae,Neuro — generating 3 cases (327 remaining)
+[W0] [384/740] Neuro — generating 3 cases (324 remaining)
+[W1]   📡 20734 chars, cost=$0.0018, tokens=5274
+[W1]   ⚠ Case 42 (Acute MCA territory infarct): findings: 1 lines, 4 sentences (need ≥5)
+[W1]   ✅ Seeded 2 cases to Convex
+[W1] [386/740] Neuro — generating 3 cases (322 remaining)
+[W3]   📡 6803 chars, cost=$0.0050, tokens=16000
+[W3]   ✗ JSON parse failed, re-queuing
+[W3] [386/740] Gynae — generating 3 cases (322 remaining)
+[W8]   📡 17626 chars, cost=$0.0046, tokens=14843
+[W8]   ⚠ Case 1 (Nuchal translucency): diagnosis too short
+[W8]   ✅ Seeded 2 cases to Convex
+[W2]   📡 17413 chars, cost=$0.0039, tokens=12208
+[W2]   ⚠ Case 15 (Oligohydramnios. Oligohydramnios is the condition of decreased amniotic ﬂ uid volume relative to gestational age. This is): differential missing parens
+[W2]   ⚠ Case 16 (Polyhydramnios. Polyhydramnios is an excessive accumulation of amniotic ﬂ uid (>1500 cc). The balance of ﬂ uid ﬂ ow into): differential missing parens
+[W2]   ✅ Seeded 1 cases to Convex
+[W6]   📡 21302 chars, cost=$0.0020, tokens=6000
+[W6]   ⚠ Case 11 (Central nervous system (CNS) ventriculomegaly): differential missing parens
+[W6]   ⚠ Case 12 (Abnormal ventriculoarterial conﬁ guration): differential missing parens
+[W6]   ⚠ Case 13 (Cystic posterior neck mass): differential missing parens
+[W8] [389/740] Gynae — generating 3 cases (325 remaining)
+[W4]   ℹ Extracted JSON from reasoning field
+[W4]   📡 66825 chars, cost=$0.0050, tokens=16000
+[W4]   ✗ JSON parse failed, re-queuing
+[W2] [389/740] Gynae — generating 3 cases (325 remaining)
+[W0]   📡 24306 chars, cost=$0.0021, tokens=6248
+[W0]   ✗ JSON parse failed, re-queuing
+[W6] [389/740] Neuro — generating 3 cases (325 remaining)
+[W4] [389/740] Neuro — generating 3 cases (322 remaining)
+[W0] [389/740] Neuro — generating 3 cases (319 remaining)
+[W7]   📡 16954 chars, cost=$0.0048, tokens=15356
+[W7]   ✅ Seeded 3 cases to Convex
+[W7] [392/740] Neuro — generating 3 cases (316 remaining)
+[W9]   📡 19929 chars, cost=$0.0048, tokens=15533
+[W9]   ✅ Seeded 3 cases to Convex
+[W9] [395/740] Neuro — generating 3 cases (313 remaining)
+[W3]   📡 15791 chars, cost=$0.0032, tokens=10038
+[W3]   ✅ Seeded 3 cases to Convex
+[W5]   ℹ Extracted JSON from reasoning field
+[W5]   📡 60747 chars, cost=$0.0050, tokens=16000
+[W5]   ✗ JSON parse failed, re-queuing
+[W0]   📡 23574 chars, cost=$0.0021, tokens=6331
+[W0]   ⚠ Case 48 (Posterior fossa cyst): examPearl missing [n] ref
+[W0]   ✅ Seeded 2 cases to Convex
+[W3] [400/740] Gynae,Neuro — generating 3 cases (314 remaining)
+[W0] [400/740] Neuro — generating 3 cases (311 remaining)
+[W5] [400/740] Neuro — generating 3 cases (308 remaining)
+[W1]   📡 16238 chars, cost=$0.0044, tokens=14113
+[W1]   ✅ Seeded 3 cases to Convex
+[W1] [403/740] Neuro — generating 3 cases (305 remaining)
+[W4]   📡 18296 chars, cost=$0.0035, tokens=10974
+[W4]   ✅ Seeded 3 cases to Convex
+[W8]   📡 14339 chars, cost=$0.0040, tokens=12850
+[W8]   ⚠ Case 1 (Nuchal translucency): differential missing parens
+[W8]   ⚠ Case 11 (Central nervous system (CNS) ventriculomegaly): differential missing parens
+[W8]   ⚠ Case 12 (Abnormal ventriculoarterial conﬁ guration): differential missing parens
+[W2]   📡 15138 chars, cost=$0.0041, tokens=12978
+[W2]   ✅ Seeded 3 cases to Convex
+[W4] [409/740] Gynae — generating 3 cases (305 remaining)
+[W8] [409/740] Neuro — generating 3 cases (302 remaining)
+[W2] [409/740] Neuro — generating 3 cases (299 remaining)
+[W3]   📡 994 chars, cost=$0.0013, tokens=3755
+[W3]   ✗ JSON parse failed, re-queuing
+[W3] [409/740] Gynae,Neuro — generating 3 cases (299 remaining)
+[W7]   📡 18196 chars, cost=$0.0037, tokens=11560
+[W7]   ✅ Seeded 3 cases to Convex
+[W6]   ℹ Extracted JSON from reasoning field
+[W6]   📡 67968 chars, cost=$0.0050, tokens=16000
+[W6]   ✗ JSON parse failed, re-queuing
+[W7] [412/740] Neuro — generating 3 cases (299 remaining)
+[W6] [412/740] Neuro — generating 3 cases (296 remaining)
+[W4]   📡 23897 chars, cost=$0.0020, tokens=6088
+[W4]   ⚠ Case 1 (Nuchal translucency): examPearl missing [n] ref
+[W4]   ✅ Seeded 2 cases to Convex
+[W4] [414/740] Gynae,Neuro — generating 3 cases (294 remaining)
+[W0]   📡 14523 chars, cost=$0.0040, tokens=12728
+[W0]   ✅ Seeded 3 cases to Convex
+[W8]   📡 17009 chars, cost=$0.0028, tokens=8791
+[W8]   ⚠ Case 58 (Chordoma of the clivus): diagnosis too short
+[W8]   ✅ Seeded 2 cases to Convex
+[W0] [419/740] Neuro — generating 3 cases (292 remaining)
+[W9]   ℹ Extracted JSON from reasoning field
+[W9]   📡 70002 chars, cost=$0.0050, tokens=16000
+[W9]   ✗ JSON parse failed, re-queuing
+[W8] [419/740] Neuro — generating 3 cases (292 remaining)
+[W3]   📡 18493 chars, cost=$0.0024, tokens=7248
+[W3]   ⚠ Case 20 (Diaphragm abnormality): vivaPresentation.opening short
+[W3]   ⚠ Case 45 (Sellar/suprasellar mass in a child): differentials: 4 (need 3)
+[W3]   ✅ Seeded 1 cases to Convex
+[W2]   📡 15001 chars, cost=$0.0033, tokens=10436
+[W2]   ⚠ Case 59 (Retinoblastoma in a child): clinicalHistory missing age
+[W2]   ⚠ Case 59 (Massive supratentorial cerebrospinal ﬂ uid (CSF) collection in a newborn): clinicalHistory missing age
+[W2]   ✅ Seeded 1 cases to Convex
+[W9] [421/740] Gynae,Neuro — generating 3 cases (293 remaining)
+[W3] [421/740] Neuro — generating 3 cases (290 remaining)
+[W2] [421/740] Neuro — generating 3 cases (287 remaining)
+[W5]   📡 18744 chars, cost=$0.0050, tokens=16000
+[W5]   ✗ JSON parse failed, re-queuing
+[W5] [421/740] Neuro — generating 3 cases (287 remaining)
+[W1]   📡 8067 chars, cost=$0.0050, tokens=16000
+[W1]   ✗ JSON parse failed, re-queuing
+[W1] [421/740] Neuro — generating 3 cases (287 remaining)
+[W8]   📡 22789 chars, cost=$0.0019, tokens=5819
+[W8]   ✅ Seeded 3 cases to Convex
+[W8] [424/740] Neuro — generating 3 cases (284 remaining)
+[W6]   📡 18988 chars, cost=$0.0041, tokens=13064
+[W6]   ✅ Seeded 3 cases to Convex
+[W4]   📡 17034 chars, cost=$0.0034, tokens=10553
+[W4]   ⚠ Case 1 (Nuchal translucency): differential missing parens
+[W4]   ⚠ Case 61 (Cerebellar atrophy): differential missing parens
+[W4]   ⚠ Case 62 (FDG PET-CT for recurrent head and neck SCC): differential missing parens
+[W6] [427/740] Gynae,Neuro — generating 3 cases (284 remaining)
+[W4] [427/740] Neuro — generating 3 cases (281 remaining)
+[W2]   📡 15959 chars, cost=$0.0033, tokens=10458
+[W2]   ✅ Seeded 3 cases to Convex
+[W2] [430/740] Neuro — generating 3 cases (278 remaining)
+[W7]   ℹ Extracted JSON from reasoning field
+[W7]   📡 59987 chars, cost=$0.0050, tokens=16000
+[W7]   ✗ JSON parse failed, re-queuing
+[W7] [430/740] Neuro — generating 3 cases (278 remaining)
+[W3]   📡 14322 chars, cost=$0.0040, tokens=12810
+[W3]   ✅ Seeded 3 cases to Convex
+[W0]   📡 13964 chars, cost=$0.0050, tokens=16000
+[W0]   ✗ JSON parse failed, re-queuing
+[W3] [433/740] Neuro — generating 3 cases (278 remaining)
+[W0] [433/740] Neuro — generating 3 cases (275 remaining)
+[W9]   ℹ Extracted JSON from reasoning field
+[W9]   📡 69747 chars, cost=$0.0050, tokens=16000
+[W9]   ✗ JSON parse failed, re-queuing
+[W4]   📡 21529 chars, cost=$0.0019, tokens=5554
+[W4]   ✅ Seeded 3 cases to Convex
+[W9] [436/740] Gynae,Neuro — generating 3 cases (275 remaining)
+[W5]   ℹ Extracted JSON from reasoning field
+[W5]   📡 60343 chars, cost=$0.0050, tokens=16000
+[W5]   ✗ JSON parse failed, re-queuing
+[W4] [436/740] Neuro — generating 3 cases (275 remaining)
+[W8]   📡 18418 chars, cost=$0.0034, tokens=10554
+[W8]   ✅ Seeded 3 cases to Convex
+[W5] [439/740] Neuro — generating 3 cases (272 remaining)
+[W8] [439/740] Neuro — generating 3 cases (269 remaining)
+[W1]   ℹ Extracted JSON from reasoning field
+[W1]   📡 70476 chars, cost=$0.0050, tokens=16000
+[W1]   ✗ JSON parse failed, re-queuing
+[W1] [439/740] Neuro — generating 3 cases (269 remaining)
+[W6]   📡 16662 chars, cost=$0.0040, tokens=12709
+[W6]   ⚠ Case 1 (Nuchal translucency): diagnosis too short
+[W6]   ✅ Seeded 2 cases to Convex
+[W2]   📡 16616 chars, cost=$0.0033, tokens=10405
+[W2]   ✅ Seeded 3 cases to Convex
+[W6] [444/740] Gynae,Neuro — generating 3 cases (267 remaining)
+[W2] [444/740] Neuro — generating 3 cases (264 remaining)
+[W3]   📡 15945 chars, cost=$0.0031, tokens=9839
+[W3]   ⚠ Case 58 (Chordoma of the clivus): diagnosis too short
+[W3]   ✅ Seeded 2 cases to Convex
+[W0]   📡 17740 chars, cost=$0.0029, tokens=8899
+[W0]   ✅ Seeded 3 cases to Convex
+[W3] [449/740] Neuro — generating 3 cases (262 remaining)
+[W5]   📡 23021 chars, cost=$0.0020, tokens=6124
+[W5]   ⚠ Case 78 (Craniopharyngioma (adamantinomatous type)): examPearl missing [n] ref
+[W8]   📡 21540 chars, cost=$0.0020, tokens=6004
+[W8]   ⚠ Case 1143 (Colloid cyst): vivaPresentation.opening short
+[W5]   ✅ Seeded 2 cases to Convex
+[W8]   ✅ Seeded 2 cases to Convex
+[W0] [453/740] Neuro — generating 3 cases (261 remaining)
+[W8] [453/740] Neuro — generating 3 cases (258 remaining)
+[W5] [453/740] Neuro — generating 3 cases (255 remaining)
+[W9]   📡 1163 chars, cost=$0.0032, tokens=10186
+[W9]   ✗ JSON parse failed, re-queuing
+[W4]   📡 17159 chars, cost=$0.0033, tokens=10490
+[W4]   ✅ Seeded 3 cases to Convex
+[W9] [456/740] Gynae,Neuro — generating 3 cases (255 remaining)
+[W7]   ℹ Extracted JSON from reasoning field
+[W7]   📡 70449 chars, cost=$0.0050, tokens=16000
+[W7]   ✗ JSON parse failed, re-queuing
+[W4] [456/740] Neuro — generating 3 cases (255 remaining)
+[W7] [456/740] Neuro — generating 3 cases (252 remaining)
+[W1]   📡 20045 chars, cost=$0.0033, tokens=10431
+[W1]   ✅ Seeded 3 cases to Convex
+[W1] [459/740] Neuro — generating 3 cases (249 remaining)
+[W2]   📡 16171 chars, cost=$0.0030, tokens=9370
+[W2]   ✅ Seeded 3 cases to Convex
+[W9]   ℹ Extracted JSON from reasoning field
+[W9]   📡 18425 chars, cost=$0.0015, tokens=4458
+[W9]   ✗ JSON parse failed, re-queuing
+[W2] [462/740] Gynae,Neuro — generating 3 cases (249 remaining)
+[W9] [462/740] Neuro — generating 3 cases (246 remaining)
+[W7]   📡 20391 chars, cost=$0.0017, tokens=5072
+[W7]   ✅ Seeded 3 cases to Convex
+[W3]   📡 13767 chars, cost=$0.0037, tokens=11594
+[W3]   ⚠ Case 1151 (Multiple sclerosis): diagnosis too short
+[W3]   ⚠ Case 1152 (Drop metastases): diagnosis too short
+[W3]   ✅ Seeded 1 cases to Convex
+[W6]   📡 18321 chars, cost=$0.0042, tokens=13366
+[W6]   ✅ Seeded 3 cases to Convex
+[W7] [469/740] Neuro — generating 3 cases (245 remaining)
+[W3] [469/740] Neuro — generating 3 cases (242 remaining)
+[W6] [469/740] Neuro,NucMed — generating 3 cases (239 remaining)
+[W8]   📡 17989 chars, cost=$0.0037, tokens=11620
+[W8]   ✅ Seeded 3 cases to Convex
+[W8] [472/740] NucMed — generating 3 cases (236 remaining)
+[W0]   ℹ Extracted JSON from reasoning field
+[W0]   📡 61759 chars, cost=$0.0050, tokens=16000
+[W0]   ✗ JSON parse failed, re-queuing
+[W0] [472/740] Neuro — generating 3 cases (236 remaining)
+[W1]   📡 24341 chars, cost=$0.0027, tokens=8387
+[W1]   ✅ Seeded 3 cases to Convex
+[W5]   📡 21335 chars, cost=$0.0050, tokens=15927
+[W5]   ✅ Seeded 3 cases to Convex
+[W1] [478/740] NucMed — generating 3 cases (233 remaining)
+[W5] [478/740] NucMed — generating 3 cases (230 remaining)
+[W6]   📡 20224 chars, cost=$0.0020, tokens=5899
+[W6]   ⚠ Case 1173 (Oligodendroglioma): differential missing parens
+[W6]   ⚠ Case 1 (Transient ischemic dilatation (TID)): differential missing parens
+[W6]   ⚠ Case 2 (Symmetric “tram track” cortical uptake of the long bones): differential missing parens
+[W9]   📡 17638 chars, cost=$0.0032, tokens=10215
+[W9]   ✅ Seeded 3 cases to Convex
+[W4]   ℹ Extracted JSON from reasoning field
+[W4]   📡 64240 chars, cost=$0.0050, tokens=16000
+[W4]   ✗ JSON parse failed, re-queuing
+[W6] [481/740] Neuro — generating 3 cases (233 remaining)
+[W9] [481/740] Neuro,NucMed — generating 3 cases (230 remaining)
+[W4] [481/740] NucMed — generating 3 cases (227 remaining)
+[W3]   📡 18541 chars, cost=$0.0040, tokens=12591
+[W3]   ✅ Seeded 3 cases to Convex
+[W3] [484/740] NucMed — generating 3 cases (224 remaining)
+[W2]   ℹ Extracted JSON from reasoning field
+[W2]   📡 65078 chars, cost=$0.0050, tokens=16000
+[W2]   ✗ JSON parse failed, re-queuing
+[W2] [484/740] Gynae,Neuro — generating 3 cases (224 remaining)
+[W7]   ℹ Extracted JSON from reasoning field
+[W7]   📡 51926 chars, cost=$0.0050, tokens=16000
+[W7]   ✗ JSON parse failed, re-queuing
+[W7] [484/740] Neuro — generating 3 cases (224 remaining)
+[W8]   📡 4947 chars, cost=$0.0050, tokens=16000
+[W8]   ✗ JSON parse failed, re-queuing
+[W1]   📡 15100 chars, cost=$0.0040, tokens=12723
+[W1]   ✅ Seeded 3 cases to Convex
+[W4]   📡 16284 chars, cost=$0.0033, tokens=10221
+[W4]   ⚠ Case 13 (Decreased cortical 18F-ﬂ uorodeoxyglucose (FDG) activity in the setting of dementia): diagnosis too short
+[W4]   ⚠ Case 14 (Unilateral absent lung perfusion): differentials: 4 (need 3)
+[W4]   ✅ Seeded 1 cases to Convex
+[W1] [488/740] NucMed — generating 3 cases (226 remaining)
+[W8] [488/740] NucMed — generating 3 cases (223 remaining)
+[W5]   📡 15075 chars, cost=$0.0041, tokens=12974
+[W5]   ⚠ Case 10 (Persistent hepatogram on neonatal hepatobiliary imaging): diagnosis too short
+[W5]   ✅ Seeded 2 cases to Convex
+[W9]   📡 15551 chars, cost=$0.0032, tokens=10093
+[W9]   ⚠ Case 1 (Transient ischemic dilatation (TID)): differential missing parens
+[W9]   ✅ Seeded 2 cases to Convex
+[W4] [492/740] NucMed — generating 3 cases (222 remaining)
+[W0]   📡 19597 chars, cost=$0.0049, tokens=15735
+[W0]   ✅ Seeded 3 cases to Convex
+[W5] [495/740] NucMed — generating 3 cases (219 remaining)
+[W9] [495/740] NucMed — generating 3 cases (216 remaining)
+[W0] [495/740] NucMed — generating 3 cases (213 remaining)
+[W3]   📡 16333 chars, cost=$0.0025, tokens=7679
+[W3]   ✅ Seeded 3 cases to Convex
+[W3] [498/740] NucMed — generating 3 cases (210 remaining)
+[W6]   ℹ Extracted JSON from reasoning field
+[W6]   📡 69761 chars, cost=$0.0050, tokens=16000
+[W6]   ✗ JSON parse failed, re-queuing
+[W6] [498/740] Neuro — generating 3 cases (210 remaining)
+[W4]   📡 16965 chars, cost=$0.0027, tokens=8349
+[W4]   ✅ Seeded 3 cases to Convex
+[W2]   📡 14605 chars, cost=$0.0043, tokens=13634
+[W2]   ✅ Seeded 3 cases to Convex
+[W5]   📡 16510 chars, cost=$0.0025, tokens=7704
+[W5]   ⚠ Case 20 (Increased mediastinal uptake on a gallium scan): vivaPresentation.opening short
+[W5]   ✅ Seeded 2 cases to Convex
+[W4] [506/740] NucMed — generating 3 cases (208 remaining)
+[W2] [506/740] NucMed — generating 3 cases (205 remaining)
+[W8]   📡 14714 chars, cost=$0.0031, tokens=9560
+[W8]   ⚠ Case 13 (Decreased cortical 18F-ﬂ uorodeoxyglucose (FDG) activity in the setting of dementia): diagnosis too short
+[W8]   ⚠ Case 14 (Unilateral absent lung perfusion): differentials: 4 (need 3)
+[W8]   ⚠ Case 18 (Absent intracranial activity on a technetium 99m (Tc99m) HMPAO (hexamethylpropyleneamine) scan): diagnosis too short
+[W9]   📡 28458 chars, cost=$0.0025, tokens=7644
+[W9]   ✅ Seeded 3 cases to Convex
+[W5] [509/740] NucMed — generating 3 cases (205 remaining)
+[W8] [509/740] NucMed — generating 3 cases (202 remaining)
+[W9] [509/740] NucMed — generating 3 cases (199 remaining)
+[W1]   📡 14627 chars, cost=$0.0039, tokens=12217
+[W1]   ⚠ Case 3 (Poor-quality bone scan): diagnosis too short
+[W1]   ✅ Seeded 2 cases to Convex
+[W7]   ℹ Extracted JSON from reasoning field
+[W7]   📡 60096 chars, cost=$0.0050, tokens=16000
+[W7]   ✗ JSON parse failed, re-queuing
+[W1] [511/740] Neuro — generating 3 cases (200 remaining)
+[W7] [511/740] NucMed — generating 3 cases (197 remaining)
+[W4]   📡 19931 chars, cost=$0.0019, tokens=5668
+[W4]   ⚠ Case 20 (Increased mediastinal uptake on a gallium scan): findings: 1 lines, 4 sentences (need ≥5)
+[W4]   ⚠ Case 1255 (Hypercalcemia with etidronate therapy): findings: 1 lines, 4 sentences (need ≥5)
+[W4]   ✅ Seeded 1 cases to Convex
+[W5]   📡 12031 chars, cost=$0.0018, tokens=5211
+[W5]   ✗ JSON parse failed, re-queuing
+[W4] [512/740] NucMed — generating 3 cases (199 remaining)
+[W5] [512/740] NucMed — generating 3 cases (196 remaining)
+[W6]   📡 16245 chars, cost=$0.0035, tokens=10923
+[W6]   ⚠ Case 43 (Cerebral toxoplasmosis in HIV): differentials: 4 (need 3)
+[W6]   ⚠ Case 43 (Ring-enhancing lesion): differentials: 4 (need 3)
+[W6]   ✅ Seeded 1 cases to Convex
+[W0]   ℹ Extracted JSON from reasoning field
+[W0]   📡 36559 chars, cost=$0.0050, tokens=16000
+[W0]   ✗ JSON parse failed, re-queuing
+[W3]   📡 9198 chars, cost=$0.0050, tokens=16000
+[W3]   ✗ JSON parse failed, re-queuing
+[W6] [513/740] Neuro,NucMed — generating 3 cases (201 remaining)
+[W0] [513/740] NucMed — generating 3 cases (198 remaining)
+[W3] [513/740] NucMed — generating 3 cases (195 remaining)
+[W9]   📡 18686 chars, cost=$0.0025, tokens=7799
+[W9]   ✅ Seeded 3 cases to Convex
+[W8]   📡 15610 chars, cost=$0.0035, tokens=10878
+[W8]   ✅ Seeded 3 cases to Convex
+[W2]   📡 15196 chars, cost=$0.0040, tokens=12624
+[W9] [522/740] NucMed — generating 3 cases (192 remaining)
+[W2]   ✅ Seeded 3 cases to Convex
+[W8] [522/740] Paeds — generating 3 cases (189 remaining)
+[W2] [522/740] Paeds — generating 3 cases (186 remaining)
+[W4]   📡 16995 chars, cost=$0.0028, tokens=8630
+[W4]   ⚠ Case 13 (Decreased cortical 18F-ﬂ uorodeoxyglucose (FDG) activity in the setting of dementia): diagnosis too short
+[W4]   ⚠ Case 18 (Absent intracranial activity on a technetium 99m (Tc99m) HMPAO (hexamethylpropyleneamine) scan): diagnosis too short
+[W4]   ✅ Seeded 1 cases to Convex
+[W4] [523/740] NucMed,Paeds — generating 3 cases (185 remaining)
+[W1]   📡 15245 chars, cost=$0.0042, tokens=13415
+[W1]   ✅ Seeded 3 cases to Convex
+[W1] [526/740] Paeds — generating 3 cases (182 remaining)
+[W7]   📡 17750 chars, cost=$0.0046, tokens=14772
+[W7]   ✅ Seeded 3 cases to Convex
+[W6]   📡 16065 chars, cost=$0.0029, tokens=9027
+[W6]   ✅ Seeded 3 cases to Convex
+[W8]   📡 20525 chars, cost=$0.0019, tokens=5646
+[W8]   ⚠ Case 43 (Cyanotic infant with decreased pulmonary ﬂ ow): diagnosis too short
+[W8]   ✅ Seeded 2 cases to Convex
+[W0]   📡 15775 chars, cost=$0.0030, tokens=9537
+[W7] [537/740] Paeds — generating 3 cases (180 remaining)
+[W0]   ✅ Seeded 3 cases to Convex
+[W6] [537/740] Paeds — generating 3 cases (177 remaining)
+[W8] [537/740] Paeds — generating 3 cases (174 remaining)
+[W0] [537/740] Paeds — generating 3 cases (171 remaining)
+[W5]   📡 13709 chars, cost=$0.0042, tokens=13388
+[W5]   ✅ Seeded 3 cases to Convex
+[W3]   📡 13545 chars, cost=$0.0036, tokens=11347
+[W3]   ✅ Seeded 3 cases to Convex
+[W5] [543/740] Paeds — generating 3 cases (168 remaining)
+[W3] [543/740] Paeds — generating 3 cases (165 remaining)
+[W9]   📡 15757 chars, cost=$0.0040, tokens=12523
+[W9]   ✅ Seeded 3 cases to Convex
+[W9] [546/740] Paeds — generating 3 cases (162 remaining)
+[W1]   📡 15762 chars, cost=$0.0027, tokens=8252
+[W1]   ✅ Seeded 3 cases to Convex
+[W8]   📡 13932 chars, cost=$0.0021, tokens=6264
+[W8]   ⚠ Case 57 (Presacral mass): clinicalHistory missing age
+[W8]   ⚠ Case 58 (Long bone aggressive lesion): differential missing parens
+[W8]   ✅ Seeded 1 cases to Convex
+[W1] [550/740] Paeds — generating 3 cases (161 remaining)
+[W8] [550/740] Paeds — generating 3 cases (158 remaining)
+[W7]   📡 15963 chars, cost=$0.0030, tokens=9220
+[W7]   ⚠ Case 43 (Cyanotic infant with decreased pulmonary ﬂ ow): diagnosis too short
+[W7]   ⚠ Case 51 (Subglottic airway narrowing): diagnosis too short
+[W7]   ✅ Seeded 1 cases to Convex
+[W4]   📡 18604 chars, cost=$0.0037, tokens=11557
+[W4]   ⚠ Case 13 (Decreased cortical 18F-ﬂ uorodeoxyglucose (FDG) activity in the setting of dementia): diagnosis too short
+[W4]   ⚠ Case 18 (Absent intracranial activity on a technetium 99m (Tc99m) HMPAO (hexamethylpropyleneamine) scan): diagnosis too short
+[W4]   ✅ Seeded 1 cases to Convex
+[W2]   📡 14176 chars, cost=$0.0050, tokens=16000
+[W2]   ✗ JSON parse failed, re-queuing
+[W0]   📡 19422 chars, cost=$0.0025, tokens=7640
+[W0]   ⚠ Case 59 (Endobronchial lesion in a child): vivaPresentation.opening short
+[W0]   ✅ Seeded 2 cases to Convex
+[W7] [554/740] NucMed,Paeds — generating 3 cases (163 remaining)
+[W4] [554/740] Paeds — generating 3 cases (160 remaining)
+[W2] [554/740] Paeds — generating 3 cases (157 remaining)
+[W0] [554/740] Paeds — generating 3 cases (154 remaining)
+[W1]   📡 20859 chars, cost=$0.0017, tokens=5166
+[W1]   ⚠ Case 57 (Presacral mass): clinicalHistory missing age
+[W1]   ✅ Seeded 2 cases to Convex
+[W1] [556/740] Paeds — generating 3 cases (152 remaining)
+[W6]   📡 17774 chars, cost=$0.0049, tokens=15759
+[W6]   ⚠ Case 54 (Skeletal dysplasia): diagnosis too short
+[W6]   ⚠ Case 55 (“Double bubble” sign): diagnosis too short
+[W6]   ✅ Seeded 1 cases to Convex
+[W7]   📡 16729 chars, cost=$0.0016, tokens=4716
+[W7]   ⚠ Case 18 (Absent intracranial activity on a technetium 99m (Tc99m) HMPAO (hexamethylpropyleneamine) scan): diagnosis too short
+[W7]   ✅ Seeded 2 cases to Convex
+[W6] [559/740] NucMed,Paeds — generating 3 cases (152 remaining)
+[W7] [559/740] Paeds — generating 3 cases (149 remaining)
+[W0]   📡 20828 chars, cost=$0.0018, tokens=5360
+[W0]   ⚠ Case 91 (Wilms Tumour (Nephroblastoma)): examPearl missing [n] ref
+[W0]   ⚠ Case 92 (Neuroblastoma — Adrenal): examPearl missing [n] ref
+[W0]   ✅ Seeded 1 cases to Convex
+[W3]   📡 16897 chars, cost=$0.0050, tokens=15889
+[W3]   ✅ Seeded 3 cases to Convex
+[W0] [563/740] Paeds — generating 3 cases (148 remaining)
+[W3] [563/740] Paeds — generating 3 cases (145 remaining)
+[W5]   ℹ Extracted JSON from reasoning field
+[W5]   📡 63136 chars, cost=$0.0050, tokens=16000
+[W5]   ✗ JSON parse failed, re-queuing
+[W9]   📡 7682 chars, cost=$0.0050, tokens=16000
+[W9]   ✗ JSON parse failed, re-queuing
+[W5] [563/740] Paeds — generating 3 cases (148 remaining)
+[W9] [563/740] Paeds — generating 3 cases (145 remaining)
+[W1]   📡 23410 chars, cost=$0.0022, tokens=6762
+[W1]   ⚠ Case 57 (Presacral mass): clinicalHistory missing age
+[W1]   ✅ Seeded 2 cases to Convex
+[W8]   📡 16417 chars, cost=$0.0043, tokens=13859
+[W8]   ✅ Seeded 3 cases to Convex
+[W6]   📡 23515 chars, cost=$0.0019, tokens=5766
+[W6]   ⚠ Case 55 (“Double bubble” sign): clinicalHistory missing age
+[W6]   ✅ Seeded 2 cases to Convex
+[W2]   📡 15826 chars, cost=$0.0041, tokens=12993
+[W2]   ⚠ Case 90 (Tracheo-Oesophageal Fistula (Type C — Gross Classification)): clinicalHistory missing age
+[W1] [572/740] Paeds — generating 3 cases (145 remaining)
+[W2]   ✅ Seeded 2 cases to Convex
+[W8] [572/740] Paeds — generating 3 cases (142 remaining)
+[W4]   📡 17661 chars, cost=$0.0039, tokens=12439
+[W4]   ✅ Seeded 3 cases to Convex
+[W6] [575/740] Paeds — generating 3 cases (139 remaining)
+[W2] [575/740] Paeds — generating 3 cases (136 remaining)
+[W4] [575/740] Paeds — generating 3 cases (133 remaining)
+[W0]   📡 19761 chars, cost=$0.0021, tokens=6246
+[W0]   ✅ Seeded 3 cases to Convex
+[W0] [578/740] Paeds — generating 3 cases (130 remaining)
+[W9]   📡 14795 chars, cost=$0.0029, tokens=8931
+[W9]   ⚠ Case 83 (Meconium Aspiration Syndrome): clinicalHistory missing age
+[W9]   ⚠ Case 84 (Congenital Diaphragmatic Hernia (Left Bochdalek)): clinicalHistory missing age
+[W9]   ⚠ Case 85 (Duodenal Atresia — Double Bubble Sign): clinicalHistory missing age
+[W9] [578/740] Paeds — generating 3 cases (130 remaining)
+[W7]   📡 13319 chars, cost=$0.0050, tokens=16000
+[W7]   ✗ JSON parse failed, re-queuing
+[W1]   📡 16530 chars, cost=$0.0029, tokens=8946
+[W1]   ⚠ Case 90 (Tracheo-Oesophageal Fistula (Type C — Gross Classification)): clinicalHistory missing age
+[W1]   ✅ Seeded 2 cases to Convex
+[W7] [580/740] Paeds — generating 3 cases (131 remaining)
+[W5]   📡 13769 chars, cost=$0.0040, tokens=12879
+[W5]   ⚠ Case 63 (Vascular anomaly with esophageal and tracheal compression): diagnosis too short
+[W5]   ✅ Seeded 2 cases to Convex
+[W8]   📡 18050 chars, cost=$0.0029, tokens=8912
+[W8]   ✅ Seeded 3 cases to Convex
+[W1] [585/740] Paeds — generating 3 cases (129 remaining)
+[W5] [585/740] Paeds — generating 3 cases (126 remaining)
+[W8] [585/740] Paeds — generating 3 cases (123 remaining)
+[W3]   ℹ Extracted JSON from reasoning field
+[W3]   📡 64586 chars, cost=$0.0050, tokens=16000
+[W3]   ✗ JSON parse failed, re-queuing
+[W3] [585/740] Paeds — generating 3 cases (123 remaining)
+[W0]   📡 17562 chars, cost=$0.0032, tokens=10197
+[W0]   ⚠ Case 115 (Anorectal Malformation — Imperforate Anus): examPearl missing [n] ref
+[W0]   ⚠ Case 116 (Coarctation of the Aorta): examPearl missing [n] ref
+[W0]   ⚠ Case 117 (Jejunal Atresia): clinicalHistory missing age
+[W0] [585/740] Paeds — generating 3 cases (123 remaining)
+[W9]   📡 20452 chars, cost=$0.0021, tokens=6225
+[W9]   ⚠ Case 84 (Congenital Diaphragmatic Hernia (Left Bochdalek)): clinicalHistory missing age
+[W9]   ✅ Seeded 2 cases to Convex
+[W6]   📡 15810 chars, cost=$0.0047, tokens=15204
+[W6]   ✅ Seeded 3 cases to Convex
+[W9] [590/740] Paeds — generating 3 cases (121 remaining)
+[W1]   📡 20564 chars, cost=$0.0018, tokens=5402
+[W1]   ✅ Seeded 3 cases to Convex
+[W2]   📡 6163 chars, cost=$0.0048, tokens=15377
+[W2]   ✗ JSON parse failed, re-queuing
+[W6] [593/740] Paeds — generating 3 cases (121 remaining)
+[W1] [593/740] Paeds — generating 3 cases (118 remaining)
+[W2] [593/740] Paeds — generating 3 cases (115 remaining)
+[W4]   ℹ Extracted JSON from reasoning field
+[W4]   📡 70883 chars, cost=$0.0050, tokens=16000
+[W4]   ✗ JSON parse failed, re-queuing
+[W4] [593/740] Paeds — generating 3 cases (115 remaining)
+[W3]   📡 18477 chars, cost=$0.0021, tokens=6375
+[W3]   ⚠ Case 100 (Non-Accidental Injury — Rib Fractures and Subdural Haemorrhage): vivaPresentation.opening short
+[W3]   ✅ Seeded 2 cases to Convex
+[W5]   📡 17274 chars, cost=$0.0029, tokens=9019
+[W5]   ✅ Seeded 3 cases to Convex
+[W3] [598/740] Paeds — generating 3 cases (113 remaining)
+[W5] [598/740] Paeds — generating 3 cases (110 remaining)
+[W6]   📡 21867 chars, cost=$0.0018, tokens=5240
+[W6]   ⚠ Case 109 (Posterior Urethral Valves): examPearl missing [n] ref
+[W6]   ⚠ Case 110 (Osteogenesis Imperfecta): clinicalHistory missing age
+[W6]   ✅ Seeded 1 cases to Convex
+[W6] [599/740] Paeds — generating 3 cases (109 remaining)
+[W7]   📡 18149 chars, cost=$0.0050, tokens=16000
+[W7]   ✗ JSON parse failed, re-queuing
+[W7] [599/740] Paeds — generating 3 cases (109 remaining)
+[W8]   ℹ Extracted JSON from reasoning field
+[W8]   📡 65679 chars, cost=$0.0050, tokens=16000
+[W8]   ✗ JSON parse failed, re-queuing
+[W9]   📡 14769 chars, cost=$0.0034, tokens=10800
+[W9]   ⚠ Case 84 (Congenital Diaphragmatic Hernia (Left Bochdalek)): clinicalHistory missing age
+[W9]   ✅ Seeded 2 cases to Convex
+[W1]   📡 16810 chars, cost=$0.0032, tokens=10044
+[W1]   ⚠ Case 1202 (Pulmonary sequestration (intralobar type)): clinicalHistory missing age
+[W1]   ⚠ Case 1203 (Nonaccidental trauma (i.e., child abuse)): clinicalHistory missing age
+[W0]   📡 15018 chars, cost=$0.0043, tokens=13636
+[W0]   ⚠ Case 117 (Jejunal Atresia): diagnosis too short
+[W1]   ✅ Seeded 1 cases to Convex
+[W0]   ✅ Seeded 2 cases to Convex
+[W8] [604/740] Paeds — generating 3 cases (113 remaining)
+[W9] [604/740] Paeds — generating 3 cases (110 remaining)
+[W4]   📡 19832 chars, cost=$0.0030, tokens=9552
+[W4]   ⚠ Case 114 (Sacrococcygeal Teratoma): clinicalHistory missing age
+[W4]   ✅ Seeded 2 cases to Convex
+[W5]   📡 20197 chars, cost=$0.0019, tokens=5692
+[W5]   ✅ Seeded 3 cases to Convex
+[W0] [609/740] Paeds — generating 3 cases (108 remaining)
+[W1] [609/740] Paeds — generating 3 cases (105 remaining)
+[W3]   📡 17551 chars, cost=$0.0027, tokens=8297
+[W3]   ✅ Seeded 3 cases to Convex
+[W4] [612/740] Paeds — generating 3 cases (102 remaining)
+[W5] [612/740] Paeds — generating 3 cases (99 remaining)
+[W3] [612/740] Paeds,US — generating 3 cases (96 remaining)
+[W3]   📡 1586 chars, cost=$0.0005, tokens=1212
+[W3]   ✗ JSON parse failed, re-queuing
+[W7]   📡 24118 chars, cost=$0.0020, tokens=6073
+[W7]   ⚠ Case 90 (Tracheo-Oesophageal Fistula (Type C — Gross Classification)): differential missing parens
+[W7]   ⚠ Case 96 (Ependymoma — Fourth Ventricle): differential missing parens
+[W7]   ⚠ Case 97 (Retinoblastoma): differential missing parens
+[W3] [612/740] Paeds — generating 3 cases (99 remaining)
+[W7] [612/740] Paeds,US — generating 3 cases (96 remaining)
+[W2]   ℹ Extracted JSON from reasoning field
+[W2]   📡 62911 chars, cost=$0.0050, tokens=16000
+[W2]   ✗ JSON parse failed, re-queuing
+[W2] [612/740] Paeds — generating 3 cases (96 remaining)
+[W4]   📡 19740 chars, cost=$0.0017, tokens=5046
+[W4]   ✅ Seeded 3 cases to Convex
+[W5]   📡 20294 chars, cost=$0.0018, tokens=5480
+[W5]   ✅ Seeded 3 cases to Convex
+[W0]   📡 22415 chars, cost=$0.0019, tokens=5827
+[W0]   ⚠ Case 114 (Sacrococcygeal Teratoma): examPearl missing [n] ref
+[W0]   ⚠ Case 1203 (Nonaccidental trauma (i.e., child abuse)): clinicalHistory missing age
+[W0]   ⚠ Case 1213 (* Necrotizing enterocolitis): examPearl missing [n] ref
+[W4] [618/740] Paeds — generating 3 cases (96 remaining)
+[W5] [618/740] US — generating 3 cases (93 remaining)
+[W0] [618/740] US — generating 3 cases (90 remaining)
+[W8]   📡 13459 chars, cost=$0.0032, tokens=10101
+[W8]   ⚠ Case 1196 (Hepatoblastoma): scoringGuide.score5 short
+[W8]   ✅ Seeded 2 cases to Convex
+[W9]   📡 17398 chars, cost=$0.0032, tokens=9977
+[W9]   ✅ Seeded 3 cases to Convex
+[W8] [623/740] Paeds,US — generating 3 cases (88 remaining)
+[W6]   ℹ Extracted JSON from reasoning field
+[W6]   📡 67414 chars, cost=$0.0050, tokens=16000
+[W6]   ✗ JSON parse failed, re-queuing
+[W9] [623/740] Paeds — generating 3 cases (88 remaining)
+[W6] [623/740] US — generating 3 cases (85 remaining)
+[W4]   📡 14819 chars, cost=$0.0025, tokens=7557
+[W4]   ⚠ Case 1203 (Nonaccidental trauma (i.e., child abuse)): clinicalHistory missing age
+[W4]   ✅ Seeded 2 cases to Convex
+[W2]   📡 15122 chars, cost=$0.0028, tokens=8620
+[W2]   ⚠ Case 1205 (Transient tachypnea of the newborn (retained fetal lung fluid, wet-lung syndrome, persistent pulmonary edema)): differentials: 4 (need 3)
+[W2]   ⚠ Case 1206 (Bowel perforation (without evidence of pneumoperitoneum)): differentials: 4 (need 3)
+[W2]   ✅ Seeded 1 cases to Convex
+[W1]   ℹ Extracted JSON from reasoning field
+[W1]   📡 60986 chars, cost=$0.0050, tokens=16000
+[W1]   ✗ JSON parse failed, re-queuing
+[W2] [626/740] Paeds — generating 3 cases (88 remaining)
+[W4] [626/740] Paeds — generating 3 cases (85 remaining)
+[W1] [626/740] US — generating 3 cases (82 remaining)
+[W5]   📡 11067 chars, cost=$0.0027, tokens=8436
+[W5]   ✗ JSON parse failed, re-queuing
+[W0]   📡 19415 chars, cost=$0.0027, tokens=8483
+[W0]   ✅ Seeded 3 cases to Convex
+[W5] [629/740] US — generating 3 cases (82 remaining)
+[W8]   📡 18150 chars, cost=$0.0025, tokens=7793
+[W8]   ⚠ Case 9 (Uterine anomaly): diagnosis too short
+[W8]   ✅ Seeded 2 cases to Convex
+[W7]   📡 1399 chars, cost=$0.0044, tokens=13954
+[W7]   ✗ JSON parse failed, re-queuing
+[W0] [631/740] Paeds,US — generating 3 cases (83 remaining)
+[W8] [631/740] US — generating 3 cases (80 remaining)
+[W7] [631/740] US — generating 3 cases (77 remaining)
+[W3]   ℹ Extracted JSON from reasoning field
+[W3]   📡 67003 chars, cost=$0.0050, tokens=16000
+[W3]   ✗ JSON parse failed, re-queuing
+[W6]   📡 17111 chars, cost=$0.0032, tokens=10130
+[W6]   ✅ Seeded 3 cases to Convex
+[W3] [634/740] Paeds — generating 3 cases (77 remaining)
+[W6] [634/740] US — generating 3 cases (74 remaining)
+[W9]   📡 4214 chars, cost=$0.0050, tokens=16000
+[W9]   ✗ JSON parse failed, re-queuing
+[W5]   📡 13588 chars, cost=$0.0024, tokens=7426
+[W5]   ✗ JSON parse failed, re-queuing
+[W9] [634/740] Paeds — generating 3 cases (77 remaining)
+[W8]   📡 14261 chars, cost=$0.0021, tokens=6253
+[W8]   ⚠ Case 9 (Uterine anomaly): diagnosis too short
+[W8]   ✅ Seeded 2 cases to Convex
+[W2]   📡 16865 chars, cost=$0.0034, tokens=10649
+[W2]   ⚠ Case 1203 (Nonaccidental trauma (i.e., child abuse)): clinicalHistory missing age
+[W2]   ✅ Seeded 2 cases to Convex
+[W5] [638/740] Paeds,US — generating 3 cases (76 remaining)
+[W1]   📡 15525 chars, cost=$0.0031, tokens=9787
+[W1]   ⚠ Case 13 (Cystic adnexal mass with negative HCG): examPearl missing [n] ref
+[W1]   ⚠ Case 14 (Multiple hypoechoic liver masses): examPearl missing [n] ref
+[W1]   ⚠ Case 15 (Hypoechoic renal mass): examPearl missing [n] ref
+[W8] [638/740] US — generating 3 cases (76 remaining)
+[W2] [638/740] US — generating 3 cases (73 remaining)
+[W1] [638/740] US — generating 3 cases (70 remaining)
+[W0]   📡 3442 chars, cost=$0.0034, tokens=10558
+[W0]   ✗ JSON parse failed, re-queuing
+[W3]   📡 23655 chars, cost=$0.0020, tokens=5927
+[W3]   ⚠ Case 90 (Tracheo-Oesophageal Fistula (Type C — Gross Classification)): examPearl missing [n] ref
+[W3]   ⚠ Case 96 (Ependymoma — Fourth Ventricle): examPearl missing [n] ref
+[W3]   ⚠ Case 97 (Retinoblastoma): examPearl missing [n] ref
+[W0] [638/740] Paeds — generating 3 cases (73 remaining)
+[W3] [638/740] Paeds,US — generating 3 cases (70 remaining)
+[W4]   📡 4975 chars, cost=$0.0050, tokens=16000
+[W4]   ✗ JSON parse failed, re-queuing
+[W6]   📡 14471 chars, cost=$0.0029, tokens=9074
+[W6]   ✅ Seeded 3 cases to Convex
+[W4] [641/740] Paeds — generating 3 cases (70 remaining)
+[W8]   📡 1029 chars, cost=$0.0014, tokens=3925
+[W8]   ✗ JSON parse failed, re-queuing
+[W6] [641/740] US — generating 3 cases (70 remaining)
+[W7]   📡 15720 chars, cost=$0.0044, tokens=14090
+[W7]   ⚠ Case 19 (Right lower quadrant mass in a child): diagnosis too short
+[W7]   ✅ Seeded 2 cases to Convex
+[W8] [643/740] US — generating 3 cases (68 remaining)
+[W7] [643/740] US — generating 3 cases (65 remaining)
+[W2]   📡 20883 chars, cost=$0.0026, tokens=7923
+[W2]   ⚠ Case 14 (Multiple hypoechoic liver masses): vivaPresentation.opening short
+[W2]   ✅ Seeded 2 cases to Convex
+[W2] [645/740] US — generating 3 cases (63 remaining)
+[W9]   📡 15752 chars, cost=$0.0038, tokens=11901
+[W9]   ⚠ Case 109 (Posterior Urethral Valves): clinicalHistory missing age
+[W9]   ⚠ Case 110 (Osteogenesis Imperfecta): clinicalHistory missing age
+[W9]   ✅ Seeded 1 cases to Convex
+[W4]   📡 17988 chars, cost=$0.0019, tokens=5757
+[W4]   ✅ Seeded 3 cases to Convex
+[W9] [649/740] Paeds,US — generating 3 cases (62 remaining)
+[W5]   📡 15906 chars, cost=$0.0048, tokens=15307
+[W5]   ✅ Seeded 3 cases to Convex
+[W4] [652/740] US — generating 3 cases (59 remaining)
+[W5] [652/740] US — generating 3 cases (56 remaining)
+[W6]   📡 23965 chars, cost=$0.0020, tokens=6179
+[W6]   ⚠ Case 4 (Complex extratesticular ﬂ uid collection): examPearl missing [n] ref
+[W6]   ⚠ Case 9 (Uterine anomaly): examPearl missing [n] ref
+[W6]   ⚠ Case 13 (Cystic adnexal mass with negative HCG): examPearl missing [n] ref
+[W0]   📡 14760 chars, cost=$0.0042, tokens=13487
+[W0]   ⚠ Case 90 (Tracheo-Oesophageal Fistula (Type C — Gross Classification)): clinicalHistory missing age
+[W0]   ✅ Seeded 2 cases to Convex
+[W6] [654/740] Paeds,US — generating 3 cases (57 remaining)
+[W0] [654/740] US — generating 3 cases (54 remaining)
+[W3]   📡 1541 chars, cost=$0.0037, tokens=11876
+[W3]   ✗ JSON parse failed, re-queuing
+[W1]   📡 13429 chars, cost=$0.0050, tokens=16000
+[W1]   ✗ JSON parse failed, re-queuing
+[W3] [654/740] Paeds,US — generating 3 cases (57 remaining)
+[W1] [654/740] US — generating 3 cases (54 remaining)
+[W7]   📡 18490 chars, cost=$0.0046, tokens=14772
+[W7]   ✅ Seeded 3 cases to Convex
+[W8]   📡 13692 chars, cost=$0.0044, tokens=14166
+[W8]   ⚠ Case 19 (Right lower quadrant mass in a child): diagnosis too short
+[W8]   ✅ Seeded 2 cases to Convex
+[W7] [659/740] US — generating 3 cases (52 remaining)
+[W8] [659/740] US — generating 3 cases (49 remaining)
+[W9]   📡 18965 chars, cost=$0.0022, tokens=6721
+[W9]   ⚠ Case 109 (Posterior Urethral Valves): clinicalHistory missing age
+[W9]   ⚠ Case 110 (Osteogenesis Imperfecta): clinicalHistory missing age
+[W9]   ✅ Seeded 1 cases to Convex
+[W9] [660/740] Paeds,US — generating 3 cases (48 remaining)
+[W3]   📡 1636 chars, cost=$0.0017, tokens=5084
+[W3]   ✗ JSON parse failed, re-queuing
+[W6]   📡 5407 chars, cost=$0.0025, tokens=7561
+[W6]   ✗ JSON parse failed, re-queuing
+[W5]   📡 13577 chars, cost=$0.0036, tokens=11498
+[W5]   ✅ Seeded 3 cases to Convex
+[W4]   📡 15341 chars, cost=$0.0037, tokens=11724
+[W4]   ✅ Seeded 3 cases to Convex
+[W3] [666/740] Paeds — generating 3 cases (51 remaining)
+[W6] [666/740] US — generating 3 cases (48 remaining)
+[W5] [666/740] US,VIR — generating 3 cases (45 remaining)
+[W4] [666/740] VIR — generating 3 cases (42 remaining)
+[W1]   📡 22433 chars, cost=$0.0020, tokens=6019
+[W1]   ✅ Seeded 3 cases to Convex
+[W1] [669/740] VIR — generating 3 cases (39 remaining)
+[W0]   📡 17353 chars, cost=$0.0036, tokens=11290
+[W0]   ⚠ Case 1242 (Adrenal myelolipoma): diagnosis too short
+[W0]   ✅ Seeded 2 cases to Convex
+[W2]   ℹ Extracted JSON from reasoning field
+[W2]   📡 69905 chars, cost=$0.0050, tokens=16000
+[W2]   ✗ JSON parse failed, re-queuing
+[W0] [671/740] US — generating 3 cases (40 remaining)
+[W2] [671/740] US,VIR — generating 3 cases (37 remaining)
+[W3]   📡 5374 chars, cost=$0.0020, tokens=6114
+[W3]   ✗ JSON parse failed, re-queuing
+[W9]   📡 15009 chars, cost=$0.0029, tokens=8962
+[W9]   ⚠ Case 1248 (Papillary thyroid cancer): scoringGuide.score5 short
+[W9]   ✅ Seeded 2 cases to Convex
+[W7]   📡 16106 chars, cost=$0.0033, tokens=10245
+[W7]   ⚠ Case 1243 (Anencephaly): differential missing parens
+[W7]   ⚠ Case 1244 (Acute tubular necrosis): problemCategory invalid: complication
+[W7]   ✅ Seeded 1 cases to Convex
+[W3] [674/740] Paeds — generating 3 cases (40 remaining)
+[W4]   📡 23831 chars, cost=$0.0020, tokens=6089
+[W4]   ✅ Seeded 3 cases to Convex
+[W9] [677/740] US — generating 3 cases (37 remaining)
+[W8]   📡 5426 chars, cost=$0.0037, tokens=11768
+[W8]   ✗ JSON parse failed, re-queuing
+[W7] [677/740] US — generating 3 cases (37 remaining)
+[W4] [677/740] VIR — generating 3 cases (34 remaining)
+[W8] [677/740] VIR — generating 3 cases (31 remaining)
+[W1]   📡 15051 chars, cost=$0.0026, tokens=8074
+[W1]   ✅ Seeded 3 cases to Convex
+[W1] [680/740] VIR — generating 3 cases (28 remaining)
+[W6]   📡 6298 chars, cost=$0.0040, tokens=12786
+[W6]   ✗ JSON parse failed, re-queuing
+[W6] [680/740] US — generating 3 cases (28 remaining)
+[W5]   📡 16219 chars, cost=$0.0046, tokens=14777
+[W5]   ✅ Seeded 3 cases to Convex
+[W5] [683/740] VIR — generating 3 cases (25 remaining)
+[W8]   📡 22171 chars, cost=$0.0019, tokens=5780
+[W8]   ✅ Seeded 3 cases to Convex
+[W8] [686/740] VIR — generating 3 cases (22 remaining)
+[W3]   📡 5954 chars, cost=$0.0031, tokens=9557
+[W3]   ✗ JSON parse failed, re-queuing
+[W9]   📡 13926 chars, cost=$0.0030, tokens=9456
+[W9]   ⚠ Case 1243 (Anencephaly): diagnosis too short
+[W9]   ✅ Seeded 2 cases to Convex
+[W3] [688/740] Paeds,US — generating 3 cases (22 remaining)
+[W9] [688/740] VIR — generating 3 cases (19 remaining)
+[W0]   📡 11186 chars, cost=$0.0050, tokens=16000
+[W0]   ✗ JSON parse failed, re-queuing
+[W2]   📡 9710 chars, cost=$0.0050, tokens=16000
+[W2]   ✗ JSON parse failed, re-queuing
+[W0] [688/740] US — generating 3 cases (22 remaining)
+[W2] [688/740] US,VIR — generating 3 cases (19 remaining)
+[W8]   📡 20516 chars, cost=$0.0018, tokens=5472
+[W8]   ✅ Seeded 3 cases to Convex
+[W1]   📡 14527 chars, cost=$0.0037, tokens=11789
+[W7]   📡 10227 chars, cost=$0.0050, tokens=16000
+[W7]   ✗ JSON parse failed, re-queuing
+[W1]   ✅ Seeded 3 cases to Convex
+[W8] [694/740] US — generating 3 cases (19 remaining)
+[W1] [694/740] VIR — generating 3 cases (16 remaining)
+[W7] [694/740] VIR — generating 3 cases (13 remaining)
+[W4]   📡 7278 chars, cost=$0.0049, tokens=15704
+[W4]   ✗ JSON parse failed, re-queuing
+[W3]   📡 775 chars, cost=$0.0026, tokens=8044
+[W3]   ✗ JSON parse failed, re-queuing
+[W4] [694/740] Paeds,US — generating 3 cases (16 remaining)
+[W9]   📡 23119 chars, cost=$0.0020, tokens=6039
+[W9]   ✅ Seeded 3 cases to Convex
+[W3] [697/740] VIR — generating 3 cases (13 remaining)
+[W9] [697/740] VIR — generating 3 cases (10 remaining)
+[W5]   📡 14314 chars, cost=$0.0045, tokens=14414
+[W5]   ✅ Seeded 3 cases to Convex
+[W6]   📡 8491 chars, cost=$0.0049, tokens=15743
+[W6]   ✗ JSON parse failed, re-queuing
+[W5] [700/740] US — generating 3 cases (10 remaining)
+[W2]   📡 19481 chars, cost=$0.0029, tokens=9171
+[W2]   ✅ Seeded 3 cases to Convex
+[W6] [703/740] VIR — generating 3 cases (7 remaining)
+[W2] [703/740] VIR — generating 3 cases (4 remaining)
+[W8]   📡 16569 chars, cost=$0.0030, tokens=9308
+[W8]   ✅ Seeded 3 cases to Convex
+[W0]   📡 15613 chars, cost=$0.0040, tokens=12680
+[W0]   ⚠ Case 14 (Multiple hypoechoic liver masses): differential missing parens
+[W0]   ⚠ Case 1232 (Congenital diaphragmatic hernia): differential missing parens
+[W0]   ⚠ Case 1233 (Left ectopic pregnancy): differential missing parens
+[W8] [706/740] US — generating 3 cases (4 remaining)
+[W0] [706/740] VIR — generating 3 cases (1 remaining)
+[W9]   📡 21924 chars, cost=$0.0019, tokens=5618
+[W9]   ✅ Seeded 3 cases to Convex
+[W4]   📡 1366 chars, cost=$0.0031, tokens=9613
+[W4]   ✗ JSON parse failed, re-queuing
+[W9] [709/740] Paeds,US — generating 3 cases (1 remaining)
+[W3]   📡 9156 chars, cost=$0.0026, tokens=8024
+[W3]   ✗ JSON parse failed, re-queuing
+[W4] [709/740] VIR — generating 3 cases (1 remaining)
+[W3] [709/740] VIR — generating 1 cases (0 remaining)
+[W7]   ℹ Extracted JSON from reasoning field
+[W7]   📡 43420 chars, cost=$0.0050, tokens=16000
+[W7]   ✗ JSON parse failed, re-queuing
+[W1]   📡 9211 chars, cost=$0.0050, tokens=16000
+[W1]   ✗ JSON parse failed, re-queuing
+[W6]   📡 17741 chars, cost=$0.0033, tokens=10239
+[W6]   ✅ Seeded 3 cases to Convex
+[W7] [712/740] VIR — generating 3 cases (3 remaining)
+[W1] [712/740] VIR — generating 3 cases (0 remaining)
+[W6] ✓ No more work — done!
+[W9]   📡 7024 chars, cost=$0.0019, tokens=5682
+[W9]   ✗ JSON parse failed, re-queuing
+[W9] [712/740] US — generating 1 cases (0 remaining)
+[W2]   📡 14600 chars, cost=$0.0039, tokens=12461
+[W2]   ✅ Seeded 3 cases to Convex
+[W2] ✓ No more work — done!
+[W3]   📡 6683 chars, cost=$0.0030, tokens=9550
+[W3]   ✅ Seeded 1 cases to Convex
+[W5]   ℹ Extracted JSON from reasoning field
+[W5]   📡 62983 chars, cost=$0.0050, tokens=16000
+[W5]   ✗ JSON parse failed, re-queuing
+[W3] [716/740] US — generating 3 cases (0 remaining)
+[W5] ✓ No more work — done!
+[W0]   📡 16056 chars, cost=$0.0044, tokens=14175
+[W0]   ✅ Seeded 3 cases to Convex
+[W0] ✓ No more work — done!
+[W7]   📡 21663 chars, cost=$0.0020, tokens=6154
+[W7]   ✅ Seeded 3 cases to Convex
+[W4]   📡 6486 chars, cost=$0.0044, tokens=14013
+[W4]   ✗ JSON parse failed, re-queuing
+[W7] [722/740] VIR — generating 3 cases (0 remaining)
+[W8]   📡 8323 chars, cost=$0.0050, tokens=16000
+[W8]   ✗ JSON parse failed, re-queuing
+[W4] [722/740] US — generating 3 cases (0 remaining)
+[W3]   📡 8312 chars, cost=$0.0013, tokens=3571
+[W3]   ✗ JSON parse failed, re-queuing
+[W8] [722/740] US — generating 3 cases (0 remaining)
+[W3] ✓ No more work — done!
+[W1]   📡 14110 chars, cost=$0.0042, tokens=13203
+[W1]   ✅ Seeded 3 cases to Convex
+[W1] ✓ No more work — done!
+[W9]   📡 6663 chars, cost=$0.0038, tokens=12068
+[W9]   ⚠ Case 1243 (Anencephaly): diagnosis too short
+[W9] [725/740] US — generating 1 cases (0 remaining)
+[W7]   📡 6187 chars, cost=$0.0035, tokens=10961
+[W7]   ✗ JSON parse failed, re-queuing
+[W8]   📡 5261 chars, cost=$0.0030, tokens=9344
+[W8]   ✗ JSON parse failed, re-queuing
+[W7] [725/740] VIR — generating 3 cases (0 remaining)
+[W9]   📡 5174 chars, cost=$0.0017, tokens=4967
+[W9]   ✅ Seeded 1 cases to Convex
+[W8] ✓ No more work — done!
+[W9] ✓ No more work — done!
+[W4]   📡 17373 chars, cost=$0.0050, tokens=16000
+[W4]   ✗ JSON parse failed, re-queuing
+[W4] [726/740] US — generating 3 cases (0 remaining)
+[W7]   📡 6641 chars, cost=$0.0048, tokens=15339
+[W7]   ✗ JSON parse failed, re-queuing
+[W4]   📡 14465 chars, cost=$0.0034, tokens=10667
+[W4]   ✅ Seeded 3 cases to Convex
+[W7] [729/740] VIR — generating 3 cases (0 remaining)
+[W4] ✓ No more work — done!
+[W7]   📡 5765 chars, cost=$0.0036, tokens=11464
+[W7]   ✗ JSON parse failed, re-queuing
+[W7] [729/740] VIR — generating 3 cases (0 remaining)
+[W7]   📡 5817 chars, cost=$0.0030, tokens=9301
+[W7]   ✗ JSON parse failed, re-queuing
+[W7] [729/740] VIR — generating 3 cases (0 remaining)
+[W7]   ℹ Extracted JSON from reasoning field
+[W7]   📡 70792 chars, cost=$0.0050, tokens=16000
+[W7]   ✗ JSON parse failed, re-queuing
+[W7] [729/740] VIR — generating 3 cases (0 remaining)
+[W7]   📡 6600 chars, cost=$0.0018, tokens=5467
+[W7]   ✗ JSON parse failed, re-queuing
+[W7] [729/740] VIR — generating 3 cases (0 remaining)
+[W7]   📡 20903 chars, cost=$0.0020, tokens=6107
+[W7]   ✅ Seeded 3 cases to Convex
+[W7] ✓ No more work — done!
+
+📝 Generating model answers...
+  ✅ Breast: model answers generated
+  ✅ Cardiac: model answers generated
+  ✅ Chest: model answers generated
+  ✅ ENT: model answers generated
+  ✅ GI: model answers generated
+  ✅ GU: model answers generated
+  ✅ Gynae: model answers generated
+  ✅ Neuro: model answers generated
+  ✅ NucMed: model answers generated
+  ✅ Paeds: model answers generated
+  ✅ US: model answers generated
+  ✅ VIR: model answers generated
+
+═══════════════════════════════════════════════════════
+  FINAL SUMMARY
+═══════════════════════════════════════════════════════
+  API calls: 366
+  Accepted:  553
+  Rejected:  185
+  Seeded:    553
+  Done:      732/740
+  Failed:    8
+═══════════════════════════════════════════════════════

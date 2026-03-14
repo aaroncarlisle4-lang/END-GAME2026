@@ -1,0 +1,4076 @@
+[
+  {
+    "_id": "k578nwhwn5bt9fmcfmr4078tjn821dj3",
+    "pattern": "Solitary pulmonary nodule",
+    "diagnosis": "Hamartoma",
+    "top3": [
+      "Granuloma",
+      "Neoplasm",
+      "Hamartoma"
+    ],
+    "obrienCaseNumber": 1,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57b2c42011acmwcc1zhz6whrh820vyt",
+    "pattern": "Multiple pulmonary nodules",
+    "diagnosis": "Metastatic disease",
+    "top3": [
+      "Metastatic disease",
+      "Granulomatous disease (tubercular or fungal)",
+      "Septic emboli"
+    ],
+    "obrienCaseNumber": 2,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57f1kds0961at3aqymxrpy53x821193",
+    "pattern": "Cavitary pulmonary mass",
+    "diagnosis": "Reactivation TB",
+    "top3": [
+      "Tuberculosis (TB)",
+      "Fungal disease",
+      "Squamous cell carcinoma (primary or metastatic)"
+    ],
+    "obrienCaseNumber": 3,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57bd336tdzwfpf9h08dybksc9820pmn",
+    "pattern": "Miliary pulmonary nodules",
+    "diagnosis": "Fungal disease (Coccidioidomycosis)",
+    "top3": [
+      "Tuberculosis (TB)",
+      "Fungal disease",
+      "Metastastic disease"
+    ],
+    "obrienCaseNumber": 4,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k579a8k7z9p4d69aqh18s514p5821ntn",
+    "pattern": "Centrilobular pulmonary nodules",
+    "diagnosis": "Hypersensitivity pneumonitis",
+    "top3": [
+      "Hypersensitivity pneumonitis (HP)",
+      "Endobronchial spread of tumor"
+    ],
+    "obrienCaseNumber": 5,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57052yeb7d3nc6ra45yhmybt5820pqf",
+    "pattern": "Cystic lung disease",
+    "diagnosis": "Lymphangioleiomyomatosis",
+    "top3": [
+      "Emphysema",
+      "Lymphangioleiomyomatosis (LAM)",
+      "Pulmonary Langerhans cell histiocytosis (LCH)"
+    ],
+    "obrienCaseNumber": 6,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k572gp7vw83tjdvb1fr10nymnn821tay",
+    "pattern": "Lower lobe interstitial lung disease (ILD)",
+    "diagnosis": "Connective tissue disorder (scleroderma)",
+    "top3": [
+      "Usual interstitial pneumonia (UIP)",
+      "Collagen vascular diseases",
+      "Asbestos-related disease"
+    ],
+    "obrienCaseNumber": 7,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57c23kggye38mrx15pb5b5rcn820k9f",
+    "pattern": "Upper lobe interstitial lung disease",
+    "diagnosis": "Complicated silicosis",
+    "top3": [
+      "Postprimary tuberculosis (TB)",
+      "Sarcoidosis",
+      "Cystic ﬁ brosis (CF)"
+    ],
+    "obrienCaseNumber": 8,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57fvxkkc23j3vt0xdc0yav1js820t50",
+    "pattern": "Hyperlucent lung",
+    "diagnosis": "Chest wall abnormality (Poland syndrome)",
+    "top3": [
+      "Chest wall abnormality",
+      "Swyer-James syndrome",
+      "Acute asthmatic attack"
+    ],
+    "obrienCaseNumber": 9,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k578wvwqdq2sjswgwn2pvrqpw9821zj2",
+    "pattern": "Anterior mediastinal mass",
+    "diagnosis": "Thyroid lesion (goiter)",
+    "top3": [
+      "Lymphoma",
+      "Thymic lesion",
+      "Thyroid lesion"
+    ],
+    "obrienCaseNumber": 10,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57e6bjqb74z4bfa2v5snm9ngx821wqy",
+    "pattern": "Middle mediastinal mass",
+    "diagnosis": "Congenital cyst (bronchogenic)",
+    "top3": [
+      "Lymphadenopathy",
+      "Vascular abnormality",
+      "Congenital cyst"
+    ],
+    "obrienCaseNumber": 11,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k573371gbz99d474m32sx76rcn820tzq",
+    "pattern": "Posterior mediastinal mass",
+    "diagnosis": "Neurogenic tumor (neuroblastoma)",
+    "top3": [
+      "Neurogenic tumor",
+      "Lymphoma",
+      "Developmental cyst"
+    ],
+    "obrienCaseNumber": 12,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k571c6w95rwz8nzkc82h1a5bxd820tyt",
+    "pattern": "Chronic air-space disease",
+    "diagnosis": "Bronchioloalveolar adenocarcinoma",
+    "top3": [
+      "Cryptogenic organizing pneumonia (COP)",
+      "Pulmonary alveolar proteinosis (PAP)",
+      "Bronchioloalveolar carcinoma (BAC)"
+    ],
+    "obrienCaseNumber": 13,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k577tnxjqd0dq276deqxzw8ndx8213tm",
+    "pattern": "Peripheral air-space disease",
+    "diagnosis": "Eosinophilic pneumonia",
+    "top3": [
+      "Cryptogenic organizing pneumonia (COP)",
+      "Eosinophilic pneumonia",
+      "Pulmonary infarct"
+    ],
+    "obrienCaseNumber": 14,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k571te5vh0emxxe68jm6bkd67s8205wh",
+    "pattern": "Ground-glass opaciﬁ cation",
+    "diagnosis": "Acute respiratory distress syndrome",
+    "top3": [
+      "Pulmonary edema",
+      "Atypical infection",
+      "Pulmonary hemorrhage"
+    ],
+    "obrienCaseNumber": 15,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k577n3nm1ncz70h23tt0aw2v7h821vjg",
+    "pattern": "Mediastinal/hilar lymphadenopathy",
+    "diagnosis": "Sarcoidosis",
+    "top3": [
+      "Infection",
+      "Lymphoma",
+      "Sarcoidosis"
+    ],
+    "obrienCaseNumber": 16,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57eqbsyjhwknfbpjxxfcg7a0s821r07",
+    "pattern": "Calciﬁ ed pleural disease",
+    "diagnosis": "Fibrothorax (secondary to prior tuberculous pleuritis)",
+    "top3": [
+      "Asbestos-related pleural disease",
+      "Fibrothorax secondary to infection or hemorrhage",
+      "Iatrogenic (pleurodesis)"
+    ],
+    "obrienCaseNumber": 17,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57698prr6hzatbc9cd857b6wx820d4m",
+    "pattern": "Bronchiectasis",
+    "diagnosis": "Cystic ﬁ brosis",
+    "top3": [
+      "Postinfectious",
+      "Cystic ﬁ brosis",
+      "Allergic bronchopulmonary aspergillosis (ABPA)"
+    ],
+    "obrienCaseNumber": 18,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57ennt5vrj48tra1497e8c7nd821zbb",
+    "pattern": "Perilymphatic pulmonary nodules",
+    "diagnosis": "Sarcoidosis",
+    "top3": [
+      "Sarcoidosis",
+      "Lymphangitic spread of tumor",
+      "Pneumoconiosis"
+    ],
+    "obrienCaseNumber": 19,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57dcd5xq9nxx85ddd2s28de418217h5",
+    "pattern": "Pleural-based mass",
+    "diagnosis": "Pleural metastases",
+    "top3": [
+      "Pleural metastases",
+      "Empyema",
+      "Mesothelioma"
+    ],
+    "obrienCaseNumber": 20,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57fj0nwctsc526c7zps7qe9ns820kv2",
+    "pattern": "Parenchymal disease in a patient with HIV",
+    "diagnosis": "Pneumocystis carinii ( jiroveci ) pneumonia",
+    "top3": [
+      "Pneumocystis carinii ( jiroveci ) pneumonia (PCP)",
+      "Tuberculosis (TB)",
+      "Fungal infection"
+    ],
+    "obrienCaseNumber": 21,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k572abq3x5frhp70eqn2w8ca958215jq",
+    "pattern": "Abnormal left ventricular contour",
+    "diagnosis": "True ventricular aneurysm",
+    "top3": [
+      "True left ventricular aneurysm",
+      "False left ventricular aneurysm",
+      "Pericardial cyst/mass"
+    ],
+    "obrienCaseNumber": 22,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k577hn4g0p7m8btzfhdt6zxc45820qt7",
+    "pattern": "Cardiac mass",
+    "diagnosis": "Thrombus",
+    "top3": [
+      "Thrombus",
+      "Metastases",
+      "Benign primary cardiac neoplasm"
+    ],
+    "obrienCaseNumber": 23,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k573jmswcnvzpjf9gv43bn9krd820xgj",
+    "pattern": "Delayed myocardial enhancement",
+    "diagnosis": "Infarction/scar",
+    "top3": [
+      "Infarction/sca r",
+      "Myocarditis"
+    ],
+    "obrienCaseNumber": 24,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k57fnk1psjc4tyssh061p5h5m9820h7g",
+    "pattern": "Cardiac wall fat",
+    "diagnosis": "Lipomatous hypertrophy of the intra-atrial septum (LHIS)",
+    "top3": [
+      "Lipoma",
+      "Lipomatous hypertrophy of the interatrial septum",
+      "Arrhythmogenic right ventricular dysplasia (ARVD)"
+    ],
+    "obrienCaseNumber": 25,
+    "status": "done",
+    "attempts": 0
+  },
+  {
+    "_id": "k570bkaawyx6z0jt9xx767j4mx821950",
+    "pattern": "Hyperdense liver",
+    "diagnosis": "Amiodarone therapy",
+    "top3": [
+      "Iron deposition",
+      "Amiodarone therapy",
+      "Glycogen storage disease"
+    ],
+    "obrienCaseNumber": 26,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573zcnf6aedvr2ws6xdym3sds820xtb",
+    "pattern": "Nodular liver contour",
+    "diagnosis": "Treated breast metastases (pseudocirrhosis)",
+    "top3": [
+      "Cirrhosis",
+      "Treated metastases",
+      "Budd–Chiari syndrome"
+    ],
+    "obrienCaseNumber": 27,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575n2s37esq8vwbb45x4b95hh821krh",
+    "pattern": "Esophageal diverticulum",
+    "diagnosis": "Proximal esophageal pulsion diverticulum (Zenker diverticulum)",
+    "top3": [
+      "Proximal esophageal pulsion diverticulum",
+      "Distal esophageal pulsion diverticulum",
+      "Midesophageal traction diverticulum"
+    ],
+    "obrienCaseNumber": 28,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574t4rtm9g084e6ng0gx9fxwx821whc",
+    "pattern": "Solitary hypodense, hypovascular liver mass",
+    "diagnosis": "Hepatic abscess (pyogenic)",
+    "top3": [
+      "Hepatic cyst",
+      "Solitary metastasis",
+      "Hepatic abscess"
+    ],
+    "obrienCaseNumber": 29,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57eyr1j217afdcc7aaep0jjd98215cd",
+    "pattern": "Multiple hypoattenuating hepatic lesions",
+    "diagnosis": "Metastatic disease (angiosarcoma)",
+    "top3": [
+      "Hepatic cysts",
+      "Metastatic disease",
+      "Multiple hepatic abscesses"
+    ],
+    "obrienCaseNumber": 30,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ehsbydgmqmdtzyhg5x66ejx821xgb",
+    "pattern": "Right upper quadrant cystic mass in a child",
+    "diagnosis": "Choledochal anomaly (type 1)",
+    "top3": [
+      "Choledochal anomaly",
+      "Pancreatic pseudocyst",
+      "Gastrointestinal (GI) duplication cyst/diverticulum"
+    ],
+    "obrienCaseNumber": 31,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5705pgt2c1fdx6e9fnnqy28gn820w6q",
+    "pattern": "Esophageal submucosal masses/thickened folds",
+    "diagnosis": "Esophageal varices",
+    "top3": [
+      "Varices",
+      "Reﬂ ux esophagitis",
+      "Varicoid esophageal carcinoma"
+    ],
+    "obrienCaseNumber": 32,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cw4m074w55h474ssz34jxe1821bn9",
+    "pattern": "Esophageal dilatation",
+    "diagnosis": "Achalasia",
+    "top3": [
+      "Achalasia",
+      "Scleroderma",
+      "Esophageal/gastric carcinoma"
+    ],
+    "obrienCaseNumber": 33,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a1r1f5mbeyx1ytpw9k75mhs821vkt",
+    "pattern": "Esophageal pseudodiverticula",
+    "diagnosis": "Candida esophagitis",
+    "top3": [
+      "Reﬂ ux esophagitis",
+      "Candida esophagitis",
+      "Superﬁ cial spreading carcinoma"
+    ],
+    "obrienCaseNumber": 34,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579sbyw2zsgctgpqcrhs84wbd821bfc",
+    "pattern": "Esophageal ulcers",
+    "diagnosis": "Viral esophagitis (CMV)",
+    "top3": [
+      "Reﬂ ux esophagitis",
+      "Drug-induced esophagitis"
+    ],
+    "obrienCaseNumber": 35,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574p5e781cn7hqhymc8b2xkg5820wh3",
+    "pattern": "Solid pancreatic mass",
+    "diagnosis": "Islet cell tumor",
+    "top3": [
+      "Pancreatic adenocarcinoma",
+      "Islet cell tumor",
+      "Solid and papillary epithelial neoplasm (SPEN)"
+    ],
+    "obrienCaseNumber": 36,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57655rfdftxfzx0vfwyxdd2sh8206q9",
+    "pattern": "Linitis plastica",
+    "diagnosis": "Metastatic disease (breast cancer)",
+    "top3": [
+      "Gastric carcinoma",
+      "Metastatic disease",
+      "Lymphoma"
+    ],
+    "obrienCaseNumber": 37,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576hk44mky1d1efbv5aje7c7d820jeg",
+    "pattern": "Gastric ulcer",
+    "diagnosis": "Peptic ulcer disease",
+    "top3": [
+      "Peptic ulcer disease",
+      "Gastric carcinoma",
+      "Lymphoma"
+    ],
+    "obrienCaseNumber": 38,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57awxada6dsrd0png3h4802ch821s2n",
+    "pattern": "Gastric fold thickening",
+    "diagnosis": "Ménétrier disease",
+    "top3": [
+      "Gastritis",
+      "Gastric carcinoma",
+      "Lymphoma"
+    ],
+    "obrienCaseNumber": 39,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578nc7a363nbw45hty1qrcke5820bzk",
+    "pattern": "Cecal mass",
+    "diagnosis": "Mucocele of the appendix",
+    "top3": [
+      "Appendicitis/appendiceal abscess",
+      "Cecal/appendiceal carcinoma",
+      "Mucocele of the appendix"
+    ],
+    "obrienCaseNumber": 40,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5707r7mjcr28zdy1e297tqsc9821dsd",
+    "pattern": "Mesenteric mass",
+    "diagnosis": "Carcinoid tumor",
+    "top3": [
+      "Metastatic disease",
+      "Carcinoid tumor",
+      "Desmoid tumor/ﬁ brosing mesenteritis"
+    ],
+    "obrienCaseNumber": 41,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576e3zbx54vctx9ga5ppw5tpx8203d9",
+    "pattern": "Terminal ileal wall thickening",
+    "diagnosis": "Crohn disease",
+    "top3": [
+      "Inﬂ ammatory bowel disease",
+      "Infection",
+      "Lymphoma"
+    ],
+    "obrienCaseNumber": 42,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57e9txekw2fd74bxpkp0n4ckx8201zk",
+    "pattern": "Colonic wall thickening",
+    "diagnosis": "Infectious colitis",
+    "top3": [
+      "Infectious colitis",
+      "Inﬂ ammatory bowel disease",
+      "Colon carcinoma"
+    ],
+    "obrienCaseNumber": 43,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57dxgmjwkvn42s44mcnx84t75821x48",
+    "pattern": "Small bowel wall thickening",
+    "diagnosis": "Lymphoma",
+    "top3": [
+      "Crohn disease",
+      "Lymphoma",
+      "Small bowel hemorrhage"
+    ],
+    "obrienCaseNumber": 44,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fb28hfrc0j3wr9ndhmkzy35820n0v",
+    "pattern": "Esophageal stricture",
+    "diagnosis": "Iatrogenic stricture from a nasogastric tube",
+    "top3": [],
+    "obrienCaseNumber": 45,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576s830ryh6rmdry9rvth38m98203zr",
+    "pattern": "Small bowel dilatation",
+    "diagnosis": "Celiac sprue",
+    "top3": [
+      "Small bowel obstruction",
+      "Adynamic ileus",
+      "Celiac sprue"
+    ],
+    "obrienCaseNumber": 46,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k572rz8b7jh7v9pxx834eqgyq1820n1v",
+    "pattern": "Cystic pancreatic mass",
+    "diagnosis": "Microcystic (serous) cystadenoma",
+    "top3": [
+      "Pancreatic pseudocyst",
+      "Mucinous cystadenoma",
+      "Serous cystadenoma"
+    ],
+    "obrienCaseNumber": 47,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5787d84jwsgv115qayp38geqn820p50",
+    "pattern": "Hypervascular liver mass",
+    "diagnosis": "Focal nodular hyperplasia",
+    "top3": [
+      "Hemangioma",
+      "Focal nodular hyperplasia (FNH)",
+      "Hepatocellular carcinoma (HCC)"
+    ],
+    "obrienCaseNumber": 48,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k570vk23rqg7qppq6mh52w8drh820bhc",
+    "pattern": "Multiple splenic nodules",
+    "diagnosis": "Microabscesses",
+    "top3": [
+      "Metastases",
+      "Lymphoma/leukemia",
+      "Microabscesses"
+    ],
+    "obrienCaseNumber": 49,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573nfz7bwpyg4m2nd1fwsqfys820x86",
+    "pattern": "Intrahepatic biliary ductal strictures",
+    "diagnosis": "Primary sclerosing cholangitis",
+    "top3": [
+      "Primary sclerosing cholangitis (PSC)",
+      "Ascending cholangitis"
+    ],
+    "obrienCaseNumber": 50,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571n858bjxn32xbbhs0c24k4n821tt1",
+    "pattern": "Solid renal mass",
+    "diagnosis": "Renal cell carcinoma",
+    "top3": [
+      "Renal cell carcinoma (RCC)",
+      "Oncocytoma",
+      "Angiomyolipoma (AML)"
+    ],
+    "obrienCaseNumber": 51,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cp3bqssbsv0rwvt49hs51mh820bh4",
+    "pattern": "Multiple bilateral renal lesions/masses",
+    "diagnosis": "Lymphoma",
+    "top3": [
+      "Lymphoma",
+      "Renal infection",
+      "Renal cell carcinoma (RCC)"
+    ],
+    "obrienCaseNumber": 52,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576trkhneerycsrct7zke67sn8204ww",
+    "pattern": "Cystic renal mass",
+    "diagnosis": "Multilocular cystic nephroma",
+    "top3": [
+      "Complex renal cysts",
+      "Cystic neoplasm",
+      "Multilocular cystic nephroma (MLCN)"
+    ],
+    "obrienCaseNumber": 53,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57be652f9276sgxxctc3hythh8212fh",
+    "pattern": "Retroperitoneal mass",
+    "diagnosis": "Retroperitoneal hemorrhage (intramuscular hematoma with active extravasation)",
+    "top3": [
+      "Retroperitoneal hemorrhage",
+      "Lymphadenopathy",
+      "Retroperitoneal abscess"
+    ],
+    "obrienCaseNumber": 54,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573khe99ph1fd3wv04t9q6rtn820rnd",
+    "pattern": "Cortical nephrocalcinosis",
+    "diagnosis": "Oxalosis",
+    "top3": [
+      "Acute renal cortical necrosis",
+      "Chronic glomerulonephritis",
+      "Oxalosis"
+    ],
+    "obrienCaseNumber": 55,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57agvrjeyp3v4pvyxj29jg0118217h4",
+    "pattern": "Medullary nephrocalcinosis",
+    "diagnosis": "Medullary sponge kidney",
+    "top3": [
+      "Hypercalcemia",
+      "Medullary sponge kidney (MSK)",
+      "Renal tubular acidosis"
+    ],
+    "obrienCaseNumber": 56,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57c2ebdxme7pjn6d3q1xh5qq9821pxx",
+    "pattern": "Striated nephrogram",
+    "diagnosis": "Bilateral acute pyelonephritis",
+    "top3": [
+      "Pyelonephritis",
+      "Urinary obstruction",
+      "Renal vein thrombosis (RVT)"
+    ],
+    "obrienCaseNumber": 57,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k572ds5a5m0xs03nrpqcdky19x8208h8",
+    "pattern": "Papillary necrosis",
+    "diagnosis": "Pyelonephritis (TB)",
+    "top3": [
+      "Diabetes",
+      "Analgesic nephropathy",
+      "Pyelonephritis"
+    ],
+    "obrienCaseNumber": 58,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57d1azcj7c5hbjgy8tsm5w6ed820kg1",
+    "pattern": "Staghorn calculus",
+    "diagnosis": "XGP in a horseshoe kidney",
+    "top3": [
+      "Xanthogranulomatous pyelonephritis (XGP)",
+      "Pyonephrosis with obstructing stone",
+      "Calciﬁ ed neoplasm"
+    ],
+    "obrienCaseNumber": 59,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571pnmqjta68djgzb2j4mar298203ww",
+    "pattern": "Renal cortical defect",
+    "diagnosis": "Chronic pyelonephritis",
+    "top3": [
+      "Reﬂ ux nephropathy",
+      "Chronic pyelonephritis",
+      "Renal infarct"
+    ],
+    "obrienCaseNumber": 60,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k577jj1jjsf0zykb2c8wdz2qrs821ddk",
+    "pattern": "Renal pelvic mass",
+    "diagnosis": "Transitional cell carcinoma",
+    "top3": [
+      "Transitional cell carcinoma (TCC)",
+      "Multilocular cystic nephroma (MLCN)",
+      "Medullary carcinoma"
+    ],
+    "obrienCaseNumber": 61,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cnjw4bx9va60ej2gh4n07m9820faj",
+    "pattern": "Medial deviation of the ureters",
+    "diagnosis": "Retroperitoneal ﬁ brosis",
+    "top3": [
+      "Retroperitoneal ﬁ brosis",
+      "Psoas muscle hypertrophy",
+      "Pelvic lipomatosis"
+    ],
+    "obrienCaseNumber": 62,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a36v540xx8ys3pxsqym5kf5821tm2",
+    "pattern": "Ureteral ﬁ lling defects",
+    "diagnosis": "Pyeloureteritis cystica",
+    "top3": [
+      "Transitional cell carcinoma (TCC)",
+      "Radiolucent calculi",
+      "Pyeloureteritis cystica"
+    ],
+    "obrienCaseNumber": 63,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57365wxfs8q54d12p5bgh9xss820p5f",
+    "pattern": "Renal migration anomaly",
+    "diagnosis": "Cross-fused ectopia",
+    "top3": [
+      "Horseshoe kidney",
+      "Cross-fused ectopia",
+      "Ectopic kidney"
+    ],
+    "obrienCaseNumber": 64,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k577rgpm3vqt9735a21xb0kab5821251",
+    "pattern": "Bladder ﬁ lling defect",
+    "diagnosis": "Transitional cell carcinoma",
+    "top3": [
+      "Transitional cell carcinoma (TCC)",
+      "Fungus ball",
+      "Blood clot"
+    ],
+    "obrienCaseNumber": 65,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k570v7s8fpjytrv9n5ar9mfjph821zw0",
+    "pattern": "Bilateral renal cysts",
+    "diagnosis": "ADPKD",
+    "top3": [
+      "End-stage renal disease (hemodialysis)",
+      "Von Hippel–Lindau (VHL) disease"
+    ],
+    "obrienCaseNumber": 66,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5766xytz7knz1sarmqf6peb4h820ac4",
+    "pattern": "Perinephric ﬂ uid collection",
+    "diagnosis": "Urinary leak (forniceal rupture from an obstructed ureter)",
+    "top3": [
+      "Perinephric hemorrhage",
+      "Urine leak/urinary extravasation",
+      "Pyelonephritis/perinephric infection"
+    ],
+    "obrienCaseNumber": 67,
+    "status": "done",
+    "attempts": 2
+  },
+  {
+    "_id": "k575ejrkke397ert1922p1rghx821d3x",
+    "pattern": "Pear-shaped bladder",
+    "diagnosis": "Pelvic lipomatosis",
+    "top3": [
+      "Pelvic hematoma",
+      "Lymphadenopathy",
+      "Pelvic lipomatosis"
+    ],
+    "obrienCaseNumber": 68,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571vw7h2krdajd8aghdbe1nw9820ec9",
+    "pattern": "Prostate enlargement",
+    "diagnosis": "Prostate adenocarcinoma",
+    "top3": [
+      "Prostate adenocarcinoma",
+      "Benign prostatic hypertrophy (BPH)",
+      "Prostatitis"
+    ],
+    "obrienCaseNumber": 69,
+    "status": "done",
+    "attempts": 2
+  },
+  {
+    "_id": "k575t4j5se39j0tw7dgatqbgwd820k4r",
+    "pattern": "Bladder rupture",
+    "diagnosis": "Intra- and extraperitoneal bladder rupture",
+    "top3": [
+      "Extraperitoneal bladder rupture",
+      "Intraperitoneal bladder rupture",
+      "Intra- and extraperitoneal bladder rupture"
+    ],
+    "obrienCaseNumber": 70,
+    "status": "done",
+    "attempts": 2
+  },
+  {
+    "_id": "k57bnenfmfjdxdjq3pz057wvj18214yh",
+    "pattern": "Bladder wall calciﬁ cations",
+    "diagnosis": "Schistosomiasis",
+    "top3": [
+      "Transitional cell carcinoma (TCC)",
+      "Schistosomiasis",
+      "Cystitis"
+    ],
+    "obrienCaseNumber": 71,
+    "status": "done",
+    "attempts": 2
+  },
+  {
+    "_id": "k574d7078hevk4mrmxw4b78d5n821ztf",
+    "pattern": "Adrenal mass",
+    "diagnosis": "Adrenocortical carcinoma",
+    "top3": [
+      "Adrenal adenoma",
+      "Metastases",
+      "Hemorrhage"
+    ],
+    "obrienCaseNumber": 72,
+    "status": "done",
+    "attempts": 2
+  },
+  {
+    "_id": "k57346xn8qbgdpftpwdgqkbxn182078a",
+    "pattern": "Fatty retroperitoneal mass",
+    "diagnosis": "Adrenal myelolipoma (complicated by prior hemorrhage)",
+    "top3": [
+      "Angiomyolipoma (AML)",
+      "Adrenal myelolipoma",
+      "Retroperitoneal liposarcoma"
+    ],
+    "obrienCaseNumber": 73,
+    "status": "done",
+    "attempts": 2
+  },
+  {
+    "_id": "k571feg5h5mrgbnew8ww7gty4n8219yp",
+    "pattern": "Dilated ureter",
+    "diagnosis": "Primary megaureter",
+    "top3": [
+      "Ureteral obstruction",
+      "Reﬂ ux",
+      "Primary megaureter"
+    ],
+    "obrienCaseNumber": 74,
+    "status": "done",
+    "attempts": 2
+  },
+  {
+    "_id": "k5722b4m7kb5b99pxvktnq8q5s8206vk",
+    "pattern": "Urethral stricture",
+    "diagnosis": "Postinfectious stricture (gonococcal urethritis)",
+    "top3": [
+      "Urethral trauma",
+      "Postinfectious/postinﬂ ammatory stricture",
+      "Urethral carcinoma"
+    ],
+    "obrienCaseNumber": 75,
+    "status": "done",
+    "attempts": 2
+  },
+  {
+    "_id": "k578tbgpkc9fh1jaqyv8h4jzgs8204d5",
+    "pattern": "Multiple lytic foci",
+    "diagnosis": "Multiple myeloma",
+    "top3": [
+      "Metastases",
+      "Multiple myeloma",
+      "Lymphoma"
+    ],
+    "obrienCaseNumber": 76,
+    "status": "done",
+    "attempts": 3
+  },
+  {
+    "_id": "k573r4d87dy15ac17d6zqe3cr18219nm",
+    "pattern": "Sequestrum",
+    "diagnosis": "Osteomyelitis",
+    "top3": [
+      "Osteomyelitis",
+      "Langerhans cell histiocytosis (LCH)",
+      "Osteoid osteoma"
+    ],
+    "obrienCaseNumber": 77,
+    "status": "done",
+    "attempts": 3
+  },
+  {
+    "_id": "k5732ywas88rk9dnfmmkxbcrn182073n",
+    "pattern": "Periosteal reaction in a newborn/infant",
+    "diagnosis": "Physiologic periosteal reaction",
+    "top3": [
+      "Physiologic periosteal reaction",
+      "Trauma",
+      "Infection"
+    ],
+    "obrienCaseNumber": 78,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574v1g25gvh44ha809w0key3n820e4f",
+    "pattern": "“Rugger jersey” appearance of the spine",
+    "diagnosis": "Renal osteodystrophy",
+    "top3": [
+      "Renal osteodystrophy",
+      "Osteopetrosis",
+      "Paget disease"
+    ],
+    "obrienCaseNumber": 79,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575dw2j50phdm9vahkrces74s820bxs",
+    "pattern": "Sacroiliitis",
+    "diagnosis": "Ankylosing spondylitis",
+    "top3": [],
+    "obrienCaseNumber": 80,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5707dfdwabyda6w5yxva501js820a9a",
+    "pattern": "Proximal arthropathy ḁ ecting primarily the metacarpophalangeal (MCP) joints",
+    "diagnosis": "Rheumatoid arthritis",
+    "top3": [
+      "Rheumatoid arthritis (RA)",
+      "Crystalline arthropathy"
+    ],
+    "obrienCaseNumber": 81,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cw038ng0q35x5m8f8vk5q2d821jpq",
+    "pattern": "Distal arthropathy ḁ ecting primarily the interphalangeal joints",
+    "diagnosis": "Erosive osteoarthritis",
+    "top3": [
+      "Osteoarthritis",
+      "Erosive osteoarthritis",
+      "Psoriatic arthritis"
+    ],
+    "obrienCaseNumber": 82,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579hj2w85ax2sgg5eg7s1e3dh821tt9",
+    "pattern": "Erosive arthropathy involving the foot",
+    "diagnosis": "Gout",
+    "top3": [
+      "Rheumatoid arthritis (RA)",
+      "Gout",
+      "Reactive arthritis"
+    ],
+    "obrienCaseNumber": 83,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57e046erpdgvfvbdtag01h8x5821hqd",
+    "pattern": "Chondrocalcinosis",
+    "diagnosis": "CPPD arthropathy",
+    "top3": [
+      "Calcium pyrophosphate dehydrate  (CPPD) arthropathy",
+      "Hyperparathyroidism",
+      "Hemochromatosis"
+    ],
+    "obrienCaseNumber": 84,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k572dyt2fz0qgrfkpb3jcyvbcd821bky",
+    "pattern": "Vertebra plana in a child",
+    "diagnosis": "Langerhans cell histiocytosis",
+    "top3": [
+      "Langerhans cell histiocytosis (LCH)",
+      "Leukemia/lymphoma",
+      "Osteomyelitis"
+    ],
+    "obrienCaseNumber": 85,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578frxg17fb4q7jp93fjfweyn8202tc",
+    "pattern": "Wormian bones",
+    "diagnosis": "Cleidocranial dysostosis",
+    "top3": [
+      "Idiopathic",
+      "Osteogenesis imperfecta (OI)",
+      "Cleidocranial dysostosis"
+    ],
+    "obrienCaseNumber": 86,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575ymndprrhgjnnkhrx9qt67s821xyk",
+    "pattern": "Madelung deformity",
+    "diagnosis": "Idiopathic Madelung deformity",
+    "top3": [
+      "Idiopathic Madelung deformity",
+      "Turner syndrome",
+      "Skeletal dysplasia"
+    ],
+    "obrienCaseNumber": 87,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579x7png25z8rayhnh3bf0d3n820c4v",
+    "pattern": "Lucent metaphyseal bands",
+    "diagnosis": "Leukemia (ALL)",
+    "top3": [
+      "Leukemia",
+      "Rickets",
+      "Osteomyelitis"
+    ],
+    "obrienCaseNumber": 88,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cebt9hw463spsactedxmvq582010q",
+    "pattern": "Medullary/chondroid lesion",
+    "diagnosis": "Enchondroma",
+    "top3": [
+      "Enchondroma",
+      "Bone infarct",
+      "Chondrosarcoma"
+    ],
+    "obrienCaseNumber": 89,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57f7v23jxdj4pfjyt7abv7w89820aw1",
+    "pattern": "Acro-osteolysis",
+    "diagnosis": "Scleroderma",
+    "top3": [
+      "Hyperparathyroidism"
+    ],
+    "obrienCaseNumber": 90,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57d7zkg176f0y2qjkdd7ztksh8212s9",
+    "pattern": "Dense joint e̥ usion",
+    "diagnosis": "Hemarthrosis secondary to trauma",
+    "top3": [
+      "Hemarthrosis (hemophilia, posttraumatic)",
+      "Juvenile chronic arthritis (JCA)"
+    ],
+    "obrienCaseNumber": 91,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57c9nm8fkqjr4knk6mz2br965820cye",
+    "pattern": "Loose bodies with erosions",
+    "diagnosis": "Synovial (osteo)chondromatosis",
+    "top3": [
+      "Synovial (osteo)chondromatosis",
+      "Pigmented villonodular synovitis (PVNS)",
+      "Rheumatoid arthritis (RA)"
+    ],
+    "obrienCaseNumber": 92,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57e5c4est9gdgcqr3wyy2kevd820c9x",
+    "pattern": "Expansile rib lesion in a child",
+    "diagnosis": "Enchondroma",
+    "top3": [
+      "Fibrous dysplasia",
+      "Bone cyst",
+      "Enchondroma"
+    ],
+    "obrienCaseNumber": 93,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57bxc1hdk26d9da9mfp9r4w0n820b40",
+    "pattern": "Posterior element lytic lesion",
+    "diagnosis": "Aneurysmal bone cyst",
+    "top3": [
+      "Aneurysmal bone cyst (ABC)",
+      "Osteoblastoma",
+      "Infection (tuberculosis [TB])"
+    ],
+    "obrienCaseNumber": 94,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5757ne0c7avk23mbt6gvw5kxs821cvt",
+    "pattern": "Carpal dislocation",
+    "diagnosis": "Lunate dislocation",
+    "top3": [
+      "Perilunate dislocation",
+      "Lunate dislocation",
+      "Midcarpal dislocation"
+    ],
+    "obrienCaseNumber": 95,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57b0ya9k0h5b3gqy3wx41zka58210sm",
+    "pattern": "Periarticular soft tissue calciﬁ cations",
+    "diagnosis": "Hemangioma",
+    "top3": [
+      "Hemangioma",
+      "Scleroderma",
+      "Myositis ossiﬁ cans"
+    ],
+    "obrienCaseNumber": 96,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571bgcd19ry90mps02ba8182x82048r",
+    "pattern": "Benign expansile lytic lesion",
+    "diagnosis": "Aneurysmal bone cyst",
+    "top3": [
+      "Fibrous dysplasia",
+      "Unicameral bone cyst",
+      "Aneurysmal bone cyst (ABC)"
+    ],
+    "obrienCaseNumber": 97,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57bvq0b48nq293rvb2bx6w61s821r10",
+    "pattern": "Multiple sclerotic foci in the pelvis",
+    "diagnosis": "Osteopoikilosis",
+    "top3": [
+      "Osteopoikilosis",
+      "Metastatic disease",
+      "Paget disease"
+    ],
+    "obrienCaseNumber": 98,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5761rw4ms3vv7e66kmb6mg9y1820hf6",
+    "pattern": "Vertebral body wedge fracture",
+    "diagnosis": "Pathologic fracture (metastatic disease)",
+    "top3": [
+      "Traumatic fracture",
+      "Insu̧  ciency fracture",
+      "Pathologic fracture"
+    ],
+    "obrienCaseNumber": 99,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5737v678t7baj9zwrv7r9c8kx820cqc",
+    "pattern": "Epiphyseal equivalent lucent lesion",
+    "diagnosis": "Chondroblastoma",
+    "top3": [
+      "Chondroblastoma",
+      "Giant cell tumor",
+      "Langerhans cell histiocytosis (LCH)"
+    ],
+    "obrienCaseNumber": 100,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573njfxc7svx0t46d502ez6kn820v14",
+    "pattern": "Enhancing orbital mass",
+    "diagnosis": "Orbital hemangioma",
+    "top3": [
+      "Hemangioma",
+      "Lymphangioma",
+      "Meningioma"
+    ],
+    "obrienCaseNumber": 101,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57602zvb3tr62k1y1r177fd618209e8",
+    "pattern": "Orbital rim fracture",
+    "diagnosis": "Tripod fracture",
+    "top3": [
+      "Orbital wall blowout fracture",
+      "Tripod fracture",
+      "Le Fort fracture"
+    ],
+    "obrienCaseNumber": 102,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57c84s726pj5kfmkn3c1yvhgd82125t",
+    "pattern": "Cavernous sinus mass/enhancement",
+    "diagnosis": "Cavernous sinus meningioma",
+    "top3": [
+      "Meningioma",
+      "Schwannoma",
+      "Carotid-cavernous ﬁ stula (CCF)"
+    ],
+    "obrienCaseNumber": 103,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57b2p6hhbq0qqyc0k305ahd5s820c01",
+    "pattern": "Aggressive sinus disease with bony destruction",
+    "diagnosis": "Wegener granulomatosis",
+    "top3": [
+      "Invasive fungal sinusitis",
+      "Wegener granulomatosis",
+      "Sinonasal carcinoma"
+    ],
+    "obrienCaseNumber": 104,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cm5dws97r09n4ksas3pkmth821yy0",
+    "pattern": "Unilateral parotid mass",
+    "diagnosis": "Pleomorphic adenoma",
+    "top3": [
+      "Pleomorphic adenoma",
+      "Warthin tumor",
+      "Parotid carcinoma"
+    ],
+    "obrienCaseNumber": 105,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57429mren0q4nxjjb06g14xdn820kz4",
+    "pattern": "Bilateral parotid masses",
+    "diagnosis": "Sjögren syndrome",
+    "top3": [
+      "Lymphoepithelial lesions",
+      "Sjögren syndrome",
+      "Warthin tumors"
+    ],
+    "obrienCaseNumber": 106,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a954vq5wdbtkcgy3yey20mh821ny9",
+    "pattern": "Orbital muscle enlargement",
+    "diagnosis": "Thyroid-associated orbitopathy",
+    "top3": [
+      "Thyroid-associated orbitopathy (TAO)",
+      "Orbital pseudotumor",
+      "Lymphoma"
+    ],
+    "obrienCaseNumber": 107,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5739bngxest4yxq5fjn8k5tbx82092w",
+    "pattern": "Pharyngeal mucosal mass",
+    "diagnosis": "Nasopharyngeal squamous cell carcinoma",
+    "top3": [
+      "Squamous cell carcinoma (SCC)",
+      "Lymphoma",
+      "Infection/abscess"
+    ],
+    "obrienCaseNumber": 108,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576czkqk3njf5r05xht3xe6x5821jpj",
+    "pattern": "Masticator space mass",
+    "diagnosis": "Sarcoma (osteosarcoma)",
+    "top3": [
+      "Infection/abscess",
+      "Sarcoma",
+      "Venolymphatic malformation"
+    ],
+    "obrienCaseNumber": 109,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57dfjhze93p5mpnrakhm80e4s821m7m",
+    "pattern": "Carotid space mass",
+    "diagnosis": "Nerve sheath tumor (vagus schwannoma)",
+    "top3": [
+      "Paraganglioma",
+      "Nerve sheath tumor",
+      "Vascular abnormality"
+    ],
+    "obrienCaseNumber": 110,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57dfkzy521jm23e0y7vvh4tfd820wm9",
+    "pattern": "Retropharyngeal mass",
+    "diagnosis": "Nodal metastases (SCC involving the lateral retropharyngeal node of Rouvière)",
+    "top3": [
+      "Infection/abscess",
+      "Nodal metastases",
+      "Lymphoma"
+    ],
+    "obrienCaseNumber": 111,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578936d37872dfjgbgfq4qxy18214by",
+    "pattern": "Clival mass",
+    "diagnosis": "Invasive pituitary macroadenoma",
+    "top3": [
+      "Metastases",
+      "Chordoma",
+      "Chondrosarcoma"
+    ],
+    "obrienCaseNumber": 112,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571pxfrdzy2grmd026yrsv2ks820gc7",
+    "pattern": "Vascular injury to the neck",
+    "diagnosis": "Pseudoaneurysm",
+    "top3": [
+      "Dissection",
+      "Pseudoaneurysm",
+      "Arteriovenous ﬁ stula (AVF)"
+    ],
+    "obrienCaseNumber": 113,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5760qcse6yc2493t0z8k50y8n820qeh",
+    "pattern": "Globe lesion in a child",
+    "diagnosis": "Retinoblastoma",
+    "top3": [
+      "Retinoblastoma",
+      "Persistent hyperplastic primary vitreous (PHPV)",
+      "Coats disease"
+    ],
+    "obrienCaseNumber": 114,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5777a5vpxf91bk20jayqxy571820pjq",
+    "pattern": "Optic nerve enlargement and enhancement",
+    "diagnosis": "Optic neuritis",
+    "top3": [
+      "Optic nerve glioma",
+      "Optic neuritis",
+      "Optic nerve sheath meningioma"
+    ],
+    "obrienCaseNumber": 115,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578cmvqm4kev0qh1kcd0zkec5821kws",
+    "pattern": "Pachymeningeal (dural) enhancement",
+    "diagnosis": "Intracranial hypotension",
+    "top3": [
+      "Intracranial hypotension",
+      "Metastases",
+      "Pachymeningitis"
+    ],
+    "obrienCaseNumber": 116,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57adqdnbyfg608dpw4b2b8scs821ejx",
+    "pattern": "Middle ear mass",
+    "diagnosis": "Acquired cholesteatoma",
+    "top3": [
+      "Acquired cholesteatoma",
+      "Facial nerve schwannoma",
+      "Glomus tympanicum"
+    ],
+    "obrienCaseNumber": 117,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5766kgxmye9fdkkh3ryra6mex82002k",
+    "pattern": "Temporal bone trauma with mastoid ﬂ uid",
+    "diagnosis": "Longitudinal temporal bone fracture",
+    "top3": [
+      "Longitudinal temporal bone fracture",
+      "Transverse temporal bone fracture",
+      "Mixed temporal bone fracture"
+    ],
+    "obrienCaseNumber": 118,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ejjey7em9g6ymgkz938meax820tvk",
+    "pattern": "Inner ear congenital malformation",
+    "diagnosis": "Large vestibular aqueduct syndrome with associated cochlear and vestibule deformities",
+    "top3": [
+      "Large vestibular aqueduct syndrome (LVAS)",
+      "Cystic cochleovestibular anomaly",
+      "Cystic common cavity"
+    ],
+    "obrienCaseNumber": 119,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573x0r6s0pwexdasj98p3hq0x820bp5",
+    "pattern": "Floor of the mouth mass",
+    "diagnosis": "Ranula (plunging)",
+    "top3": [
+      "Squamous cell carcinoma (SCC)",
+      "Infection/abscess",
+      "Ranula"
+    ],
+    "obrienCaseNumber": 120,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5748fjapyv4kvx11fzyg92s3x821xy9",
+    "pattern": "Aggressive nasal mass in an adolescent",
+    "diagnosis": "Juvenile angioﬁ broma",
+    "top3": [
+      "Juvenile angioﬁ broma (JAF)",
+      "Enthesioneuroblastoma (ENB)",
+      "Hemangioma"
+    ],
+    "obrienCaseNumber": 121,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cb3brezyxfm3r9pk3j4va1s820ty8",
+    "pattern": "Cystic neck mass",
+    "diagnosis": "Branchial cleft cyst (type 2)",
+    "top3": [
+      "Congenital cyst",
+      "Abscess",
+      "Cystic lymph node"
+    ],
+    "obrienCaseNumber": 122,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57bkt683apsdxsbdjnqpw5ycx820sgx",
+    "pattern": "Jugular foramen mass",
+    "diagnosis": "Paraganglioma (glomus jugulare)",
+    "top3": [
+      "Meningioma",
+      "Schwannoma",
+      "Paraganglioma"
+    ],
+    "obrienCaseNumber": 123,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575399c1zty7esqjbv0gwcxmx8215s8",
+    "pattern": "Petrous apex lesion",
+    "diagnosis": "Cholesterol granuloma",
+    "top3": [
+      "Cholesterol granuloma",
+      "Mucocele",
+      "Congenital cholesteatoma"
+    ],
+    "obrienCaseNumber": 124,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5751f26692p8y6tvvb5atczw5821j78",
+    "pattern": "Leptomeningeal enhancement",
+    "diagnosis": "Meningitis",
+    "top3": [
+      "Leptomeningeal carcinomatosis",
+      "Meningitis",
+      "Neurosarcoidosis"
+    ],
+    "obrienCaseNumber": 125,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a6wmccb4nzt2wn858rw0gv5820qyp",
+    "pattern": "Conﬂ uent white matter lesions in an adult",
+    "diagnosis": "Progressive multifocal leukoencephalopathy (patient with human immunodeﬁ ciency virus)",
+    "top3": [
+      "Demyelinating disease",
+      "Neoplasm",
+      "Progressive multifocal leukoencephalopathy (PML)"
+    ],
+    "obrienCaseNumber": 126,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578bndhj3j6zm6s0kcvvwtje5820fm6",
+    "pattern": "Conﬂ uent white matter lesions in a child",
+    "diagnosis": "Dysmyelinating disease (adrenoleukodystrophy)",
+    "top3": [
+      "Acute disseminating encephalomyelitis (ADEM)",
+      "Multiple sclerosis",
+      "Dysmyelinating disease (leukodystrophy)"
+    ],
+    "obrienCaseNumber": 127,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57aw529hjxhp30zza5yhb49j98208wn",
+    "pattern": "Ring-enhancing lesion",
+    "diagnosis": "Toxoplasmosis abscess",
+    "top3": [
+      "Neoplasm",
+      "Demyelinating disease",
+      "Abscess"
+    ],
+    "obrienCaseNumber": 128,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571x2smf0k4mnv6cxpey3ha4x821yp0",
+    "pattern": "Pineal region mass",
+    "diagnosis": "Pineal germinoma",
+    "top3": [
+      "Pineal cyst",
+      "Germ cell tumor (GCT)",
+      "Pineal cell tumor"
+    ],
+    "obrienCaseNumber": 129,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573c210c00c0v6pt0yn0vmcqn820axy",
+    "pattern": "Sellar/suprasellar mass in a child",
+    "diagnosis": "Craniopharyngioma",
+    "top3": [
+      "Craniopharyngioma",
+      "Germ cell tumor (GCT)",
+      "Rathke cleft cyst"
+    ],
+    "obrienCaseNumber": 130,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576g3yq2v8448kz8axyy7kqx9821pa9",
+    "pattern": "Posterior fossa mass in a child",
+    "diagnosis": "Medulloblastoma",
+    "top3": [
+      "Medulloblastoma",
+      "Juvenile pilocytic astrocytoma (JPA)",
+      "Ependymoma"
+    ],
+    "obrienCaseNumber": 131,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a9xxdtaxdrtza2jesrp0ta1820ty0",
+    "pattern": "Posterior fossa mass in an adult",
+    "diagnosis": "Subacute PICA territory infarct",
+    "top3": [
+      "Infarction",
+      "Metastatic disease",
+      "Hemangioblastoma"
+    ],
+    "obrienCaseNumber": 132,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57e1d3ncnha2mmfrw4zkxhzg18209rr",
+    "pattern": "Posterior fossa cyst",
+    "diagnosis": "Arachnoid cyst",
+    "top3": [
+      "Mega cisterna magna",
+      "Arachnoid cyst",
+      "Dandy–Walker malformation"
+    ],
+    "obrienCaseNumber": 133,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57dyjfztyv7146kan52ts10xn8206ry",
+    "pattern": "Cerebellopontine angle (CPA) mass",
+    "diagnosis": "Bilateral vestibular schwannomas (NF2)",
+    "top3": [
+      "Vestibular schwannoma",
+      "Meningioma",
+      "Arachnoid cyst"
+    ],
+    "obrienCaseNumber": 134,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57135pd76860hwrt639jm9b0d820gnn",
+    "pattern": "Cerebellar tonsillar herniation",
+    "diagnosis": "Chiari I malformation",
+    "top3": [
+      "Arnold–Chiari malformation",
+      "Ependymoma",
+      "Posterior fossa mass"
+    ],
+    "obrienCaseNumber": 135,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5778x7m63gb2kyf8vad6079z1821r3p",
+    "pattern": "Cerebrospinal ﬂ uid (CSF)–lined cortical cleft",
+    "diagnosis": "Schizencephaly (type II, open lip)",
+    "top3": [
+      "Prior infarct with encephalomalacia",
+      "Schizencephaly",
+      "Porencephalic cyst"
+    ],
+    "obrienCaseNumber": 136,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fzskzhv0p9wmbt0tx68cs298213rn",
+    "pattern": "Enhancing intramedullary spinal mass",
+    "diagnosis": "Metastatic disease (breast cancer)",
+    "top3": [
+      "Ependymoma",
+      "Astrocytoma",
+      "Hemangioblastoma"
+    ],
+    "obrienCaseNumber": 137,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573t6yeetzst6tf29bje7sphh820aph",
+    "pattern": "Intradural extramedullary spinal mass",
+    "diagnosis": "Drop metastasis (astrocytoma)",
+    "top3": [
+      "Nerve sheath tumor"
+    ],
+    "obrienCaseNumber": 138,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576586k9nsq86x7ayhfs3v6z1820129",
+    "pattern": "Di̥ use temporal lobe mass",
+    "diagnosis": "Herpes encephalitis",
+    "top3": [
+      "Herpes encephalitis",
+      "Ischemia/infarction",
+      "Gliomatosis cerebri"
+    ],
+    "obrienCaseNumber": 139,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5729ayp23w9a3gqw14d20wy6x8213z5",
+    "pattern": "Increased T2 signal intensity in basal ganglia/thalami in a child",
+    "diagnosis": "Hypoxic-ischemic insult (near-drowning episode)",
+    "top3": [
+      "Ischemia",
+      "Carbon monoxide poisoning",
+      "Wilson disease"
+    ],
+    "obrienCaseNumber": 140,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57e1be9sktx7nbps7bxn85ah9821ppx",
+    "pattern": "Intraparenchymal hemorrhage",
+    "diagnosis": "Hemorrhagic infarct (venous infarct secondary to sagittal sinus thrombosis)",
+    "top3": [
+      "Vascular malformation",
+      "Hemorrhagic infarct",
+      "Hemorrhagic neoplasm"
+    ],
+    "obrienCaseNumber": 141,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57agawwtgtces5xtgs3mvykph821v3r",
+    "pattern": "Corpus callosal lesion",
+    "diagnosis": "CNS lymphoma",
+    "top3": [
+      "Glioblastoma multiforme (GBM)",
+      "Lymphoma",
+      "Demyelinating disease"
+    ],
+    "obrienCaseNumber": 142,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fsyrtzsak61hkf69pfrcsx5821zb6",
+    "pattern": "Subependymal nodules",
+    "diagnosis": "Tuberous sclerosis",
+    "top3": [
+      "Tuberous sclerosis (TS)",
+      "Heterotopic gray matter",
+      "(S)TORCH infection"
+    ],
+    "obrienCaseNumber": 143,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k577pj6z4na9gwymkg5hkr7x418203mc",
+    "pattern": "Massive supratentorial cerebrospinal ﬂ uid (CSF) collection in a newborn",
+    "diagnosis": "Alobar holoprosencephaly",
+    "top3": [
+      "Massive hydrocephalus",
+      "Hydranencephaly",
+      "Alobar holoprosencephaly"
+    ],
+    "obrienCaseNumber": 144,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a097wgb8qb50xw2yrhvs3wx821bgn",
+    "pattern": "Intraventricular mass",
+    "diagnosis": "Choroid plexus tumor (papilloma)",
+    "top3": [
+      "Meningioma",
+      "Choroid plexus tumor",
+      "Central neurocytoma"
+    ],
+    "obrienCaseNumber": 145,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571yrbjt38b46zvze6kzpdzrs821ngt",
+    "pattern": "Cerebellar atrophy",
+    "diagnosis": "Anticonvulsant therapy (long-term phenytoin use)",
+    "top3": [
+      "Alcohol abuse",
+      "Anticonvulsant therapy",
+      "Paraneoplastic syndrome"
+    ],
+    "obrienCaseNumber": 146,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57dptwfp0qhfmdc6nh6d941pd820x6s",
+    "pattern": "Spinal cord signal abnormality",
+    "diagnosis": "Demyelinating disease (ADEM)",
+    "top3": [
+      "Demyelinating disease",
+      "Cord contusion",
+      "Intramedullary neoplasm"
+    ],
+    "obrienCaseNumber": 147,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57egscvpvpc9w6p79ynkbmw7d82000d",
+    "pattern": "Cortically based enhancing neoplasm",
+    "diagnosis": "Astrocytoma",
+    "top3": [
+      "Oligodendroglioma",
+      "Astrocytoma",
+      "Ganglioglioma"
+    ],
+    "obrienCaseNumber": 148,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fa46v6apv7cedcp824jh041821t4p",
+    "pattern": "Epidural spinal mass",
+    "diagnosis": "Synovial cyst",
+    "top3": [
+      "Disk extrusion",
+      "Epidural hematoma",
+      "Epidural abscess"
+    ],
+    "obrienCaseNumber": 149,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575damedmzevsfzkw3k2h7a6s821720",
+    "pattern": "Prominent periventricular/basal ganglia cystic lesions",
+    "diagnosis": "Infection (cryptococcosis in a patient with AIDS)",
+    "top3": [
+      "Virchow–Robin (VR) spaces",
+      "Lacunar infarct",
+      "Infection"
+    ],
+    "obrienCaseNumber": 150,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5734wdqfh1keewgb00tyhmytn820cyj",
+    "pattern": "Neonatal lung disease with low lung volumes",
+    "diagnosis": "Surfactant deﬁ ciency",
+    "top3": [
+      "Surfactant deﬁ ciency",
+      "Beta-hemolytic streptococcal pneumonia",
+      "Pulmonary hypoplasia"
+    ],
+    "obrienCaseNumber": 151,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ftajwxshwq47ecxbjz1g8d1820nrr",
+    "pattern": "Neonatal lung disease with increased lung volumes",
+    "diagnosis": "Transient tachypnea of the newborn",
+    "top3": [
+      "Transient tachypnea of the newborn (TTN)",
+      "Meconium aspiration",
+      "Neonatal pneumonia"
+    ],
+    "obrienCaseNumber": 152,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574njk7qpqx9dev03q0wz3az9820zje",
+    "pattern": "Cyanotic infant with decreased pulmonary ﬂ ow",
+    "diagnosis": "Tetralogy of Fallot",
+    "top3": [
+      "Tetralogy of Fallot",
+      "Pulmonary atresia",
+      "Tricuspid atresia"
+    ],
+    "obrienCaseNumber": 153,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cyfryhvkvn185qjmyg905cn8205t2",
+    "pattern": "Cyanotic infant with increased pulmonary vascularity",
+    "diagnosis": "Total anomalous pulmonary venous return",
+    "top3": [
+      "Transposition of the great arteries",
+      "Truncus arteriosus",
+      "Total anomalous pulmonary venous return (TAPVR)"
+    ],
+    "obrienCaseNumber": 154,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576rwx3edcxv9rzr0eyw10wxh8207yx",
+    "pattern": "Shunt vascularity",
+    "diagnosis": "Atrioventricular canal defect",
+    "top3": [
+      "Ventricular septal defect (VSD)",
+      "Atrial septal defect (ASD)",
+      "Patent ductus arteriosus (PDA)"
+    ],
+    "obrienCaseNumber": 155,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574kc71wnjcktzhe3bmm7hjnx821br1",
+    "pattern": "Solid pulmonary mass",
+    "diagnosis": "Congenital cystic adenomatoid malformation, mixed types II and III",
+    "top3": [
+      "Round pneumonia",
+      "Congenital cystic adenomatoid malformation (CCAM)",
+      "Sequestration"
+    ],
+    "obrienCaseNumber": 156,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a53y7a3sq9s5wbfezaxjcx5820zq1",
+    "pattern": "Liver mass in an infant",
+    "diagnosis": "Hepatoblastoma",
+    "top3": [
+      "Hepatoblastoma",
+      "Hemangioendothelioma",
+      "Mesenchymal hamartoma"
+    ],
+    "obrienCaseNumber": 157,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fzj8pmdg9kp0bknzkc5wm3s821kwa",
+    "pattern": "Suprarenal mass in a child",
+    "diagnosis": "Pheochromocytoma",
+    "top3": [
+      "Neuroblastoma",
+      "Adrenal hemorrhage",
+      "Pheochromocytoma"
+    ],
+    "obrienCaseNumber": 158,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ej39f9jp3wxdtjr4y35mb458218zs",
+    "pattern": "Solid renal mass",
+    "diagnosis": "Wilms tumor",
+    "top3": [
+      "Wilms tumor",
+      "Mesoblastic nephroma",
+      "Nephroblastomatosis"
+    ],
+    "obrienCaseNumber": 159,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573nfkfjnbfvw1sacnj9n9sd9821ta5",
+    "pattern": "Cystic renal lesion",
+    "diagnosis": "Multicystic dysplastic kidney",
+    "top3": [
+      "Hydronephrosis",
+      "Multicystic dysplastic kidney (MCDK)",
+      "Multilocular cystic nephroma (MLCN)"
+    ],
+    "obrienCaseNumber": 160,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57as49cgdx15svpp776101vp5820xwh",
+    "pattern": "Subglottic airway narrowing",
+    "diagnosis": "Croup",
+    "top3": [
+      "Laryngotracheobronchitis (croup)",
+      "Epiglottitis",
+      "Retropharyngeal abscess"
+    ],
+    "obrienCaseNumber": 161,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57328305fa0f5t5rnk7myg9h18216mb",
+    "pattern": "Distal bowel obstruction pattern in a neonate",
+    "diagnosis": "Functional immaturity of the colon",
+    "top3": [
+      "Functional immaturity of the colon",
+      "Hirschsprung disease",
+      "Ileal atresia/stenosis"
+    ],
+    "obrienCaseNumber": 162,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576dwdh86b1hn6a3n6ts81rv1821chf",
+    "pattern": "Bowel wall thickening in an immunocompromised child",
+    "diagnosis": "Neutropenic colitis",
+    "top3": [
+      "Pseudomembranous colitis",
+      "Neutropenic colitis/typhlitis",
+      "Graft-versus-host disease (GVHD)"
+    ],
+    "obrienCaseNumber": 163,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57e8s9c5b1gbd797ha0vpkm45820sz8",
+    "pattern": "Skeletal dysplasia",
+    "diagnosis": "Achondroplasia",
+    "top3": [
+      "Achondroplasia",
+      "Thanatophoric dysplasia",
+      "Jeune syndrome"
+    ],
+    "obrienCaseNumber": 164,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a28v3fays0yd2g897ey3emd821x1j",
+    "pattern": "“Double bubble” sign",
+    "diagnosis": "Duodenal atresia",
+    "top3": [
+      "Malrotation with midgut volvulus",
+      "Duodenal atresia/stenosis",
+      "Annular pancreas"
+    ],
+    "obrienCaseNumber": 165,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k577xhveccfxhjst1syjch84kn82007q",
+    "pattern": "Posterior vertebral body scalloping",
+    "diagnosis": "Mucopolysaccharidosis (Hurler syndrome)",
+    "top3": [
+      "Dural ectasia",
+      "Mucopolysaccharidosis",
+      "Dwarﬁ sm/achondroplasia"
+    ],
+    "obrienCaseNumber": 166,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k570j6xjz5g2k6ndfv0cf1ca75820gyr",
+    "pattern": "Presacral mass",
+    "diagnosis": "Sacrococcygeal teratoma",
+    "top3": [
+      "Sacrococcygeal teratoma",
+      "Anterior meningocele",
+      "Rectal duplication cyst"
+    ],
+    "obrienCaseNumber": 167,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ccxf9kmz5n0getsgax0t8v5821j4r",
+    "pattern": "Long bone aggressive lesion",
+    "diagnosis": "Osteosarcoma",
+    "top3": [
+      "Osteosarcoma",
+      "Ewing sarcoma",
+      "Osteomyelitis"
+    ],
+    "obrienCaseNumber": 168,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fzm6qe7wjfe428twbtjvjph821x3b",
+    "pattern": "Endobronchial lesion in a child",
+    "diagnosis": "Carcinoid tumor",
+    "top3": [
+      "Foreign body",
+      "Papilloma",
+      "Carcinoid tumor"
+    ],
+    "obrienCaseNumber": 169,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576n9z2m1cpwsxmh76mg9pch1821s7e",
+    "pattern": "Erlenmeyer ﬂ ask deformity",
+    "diagnosis": "Diagnosis unknown; the patient was lost to follow-up.",
+    "top3": [
+      "Osteopetrosis",
+      "Fibrous dysplasia",
+      "Gaucher disease"
+    ],
+    "obrienCaseNumber": 170,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576xs64p7nyxchgzsjv7tcbz1820pr9",
+    "pattern": "Lytic skull lesion in a child",
+    "diagnosis": "Langerhans cell histiocytosis",
+    "top3": [
+      "Langerhans cell histiocytosis (LCH)",
+      "Epidermoid cyst",
+      "Neoplasm"
+    ],
+    "obrienCaseNumber": 171,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57erdb1atzrx9z4a5kwd0yffx820ngm",
+    "pattern": "Avascular necrosis (AVN) of the femoral head",
+    "diagnosis": "Sickle cell disease",
+    "top3": [
+      "Legg–Calvé–Perthes (LCP) disease",
+      "Traumatic injury",
+      "Sickle cell disease"
+    ],
+    "obrienCaseNumber": 172,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57b9m7efpd2fnpjxc12mqsqrs8208mb",
+    "pattern": "Vascular anomaly with esophageal and tracheal compression",
+    "diagnosis": "Double aortic arch",
+    "top3": [
+      "Aberrant right subclavian artery (RSCA)",
+      "Double aortic arch"
+    ],
+    "obrienCaseNumber": 173,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k570y98spz5npwg0p3jb7h0yah820w4b",
+    "pattern": "Cystic pulmonary mass",
+    "diagnosis": "Congenital diaphragmatic hernia",
+    "top3": [
+      "Congenital lobar emphysema (CLE)",
+      "Congenital cystic adenomatoid malformation (CCAM)",
+      "Congenital diaphragmatic hernia"
+    ],
+    "obrienCaseNumber": 174,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57f1sqxwxkzq5jqv206twr78d821rhn",
+    "pattern": "Esophageal obstruction in a neonate",
+    "diagnosis": "Esophageal atresia without ﬁ stula",
+    "top3": [
+      "Tracheoesophageal (TE) ﬁ stula/esophageal atresia",
+      "Foreign body",
+      "Esophageal duplication cyst"
+    ],
+    "obrienCaseNumber": 175,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576hfh5fbcffzy7ff31j3cq2n821h7g",
+    "pattern": "Implant defect",
+    "diagnosis": "Left breast: intra- and extracapsular rupture; right breast: radial folds",
+    "top3": [
+      "Intracapsular rupture",
+      "Extracapsular rupture",
+      "Radial fold"
+    ],
+    "obrienCaseNumber": 276,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57bdmfyqfnqcg84jmbvap4nrs820mav",
+    "pattern": "Magnetic resonance imaging (MRI) enhancement patterns",
+    "diagnosis": "Poorly di̥ erentiated invasive ductal carcinoma with types 1, 2, and 3 kinetic curves",
+    "top3": [
+      "Type 1 persistent kinetics",
+      "Type 2 plateau kinetics",
+      "Type 3 wash-out kinetics"
+    ],
+    "obrienCaseNumber": 277,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ehss9kvk29m1agkwdz3rpzn821vh7",
+    "pattern": "Complex cystic mass in a lactating woman",
+    "diagnosis": "Galactocele",
+    "top3": [
+      "Galactocele",
+      "Abscess",
+      "Fibroadenoma"
+    ],
+    "obrienCaseNumber": 278,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57e99qbfkw2t72daramhjm3f9820m4b",
+    "pattern": "Coarse calciﬁ cations in a partially circumscribed mass",
+    "diagnosis": "Degenerating ﬁ broadenoma",
+    "top3": [
+      "Degenerating ﬁ broadenoma",
+      "Fat necrosis",
+      "Oil cyst"
+    ],
+    "obrienCaseNumber": 279,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57aw190e9kaqc69vg4a2n8ym1821fjp",
+    "pattern": "Benign-appearing calciﬁ cations: rim, punctate, and round forms",
+    "diagnosis": "Calciﬁ ed oil cysts",
+    "top3": [
+      "Calciﬁ ed oil cyst",
+      "Dystrophic calciﬁ cations",
+      "Dermal calciﬁ cations"
+    ],
+    "obrienCaseNumber": 280,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57bea2fgyrw0am7k4tr9xbych820nym",
+    "pattern": "Malignant-appearing calciﬁ cations; linear, branching forms",
+    "diagnosis": "Ductal carcinoma in situ, high grade",
+    "top3": [
+      "Vascular calciﬁ cations",
+      "Secretory calciﬁ cations"
+    ],
+    "obrienCaseNumber": 281,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fjpeqwbv4qjj8m05n7jpg2s820rwk",
+    "pattern": "Fatty breast lesion",
+    "diagnosis": "Hamartoma (ﬁ broadenolipoma)",
+    "top3": [
+      "Hamartoma (ﬁ broadenolipoma)",
+      "Lipoma",
+      "Galactocele"
+    ],
+    "obrienCaseNumber": 282,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578j8220e5r1tfey42exxysgd820qaq",
+    "pattern": "Well-circumscribed mass in a premenopausal woman",
+    "diagnosis": "Simple cyst",
+    "top3": [
+      "Fibroadenoma",
+      "Cyst",
+      "Intramammary lymph node"
+    ],
+    "obrienCaseNumber": 283,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571gqx192nzbxn3ag7ceaa46x821fa7",
+    "pattern": "Unilateral skin thickening",
+    "diagnosis": "Inﬂ ammatory breast carcinoma",
+    "top3": [
+      "Inﬂ ammatory breast cancer",
+      "Mastitis",
+      "Invasive breast cancer"
+    ],
+    "obrienCaseNumber": 284,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57eff285ae29jrph45801v5098213gh",
+    "pattern": "Axillary lymphadenopathy",
+    "diagnosis": "Breast cancer with axillary lymph node spread",
+    "top3": [
+      "Breast cancer with lymph node spread",
+      "Lymphoma",
+      "Reactive lymphadenopathy"
+    ],
+    "obrienCaseNumber": 285,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57bfe24yx8zk1exry0s3fhpb9821n32",
+    "pattern": "Mass with central lucency",
+    "diagnosis": "Radial scar",
+    "top3": [
+      "Radial scar",
+      "Invasive ductal carcinoma",
+      "Tubular carcinoma"
+    ],
+    "obrienCaseNumber": 286,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574pxg1xv8tjzssw4b05n10jn821ew5",
+    "pattern": "Well-circumscribed solid breast mass",
+    "diagnosis": "Fibroadenoma",
+    "top3": [
+      "Fibroadenoma",
+      "Intramammary lymph node",
+      "Hamartoma (ﬁ broadenolipoma)"
+    ],
+    "obrienCaseNumber": 287,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57b7zn6c58dsz9wt45rnvjaf18212hw",
+    "pattern": "Well-circumscribed cystic breast mass",
+    "diagnosis": "Papilloma (intracystic)",
+    "top3": [
+      "Papilloma/papillary carcinoma",
+      "Seroma",
+      "Cyst with debris"
+    ],
+    "obrienCaseNumber": 288,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fg4zj5z4zazh2r2ac0vk7kx820t98",
+    "pattern": "Ductal mass",
+    "diagnosis": "Intraductal papilloma",
+    "top3": [
+      "Intraductal papilloma",
+      "Intracystic papillary carcinoma",
+      "Ductal carcinoma in situ (DCIS)"
+    ],
+    "obrienCaseNumber": 289,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5768j24x9yja4by4m9y67f0258212wg",
+    "pattern": "Postoperative changes",
+    "diagnosis": "Postsurgical architectural distortion",
+    "top3": [
+      "Postsurgical architectural distortion",
+      "Recurrent cancer",
+      "Fat necrosis"
+    ],
+    "obrienCaseNumber": 290,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579vbt4z308yasmatga3nqhts821g82",
+    "pattern": "Bilateral skin thickening",
+    "diagnosis": "Congestive heart failure",
+    "top3": [
+      "Congestive heart failure",
+      "Superior vena cava (SVC) obstruction",
+      "Bilateral lymphedema"
+    ],
+    "obrienCaseNumber": 291,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578bzb1npn4474h3r0n7wx43s8219vv",
+    "pattern": "Breast lesion in a man",
+    "diagnosis": "Gynecomastia",
+    "top3": [
+      "Gynecomastia",
+      "Breast cancer",
+      "Lipoma"
+    ],
+    "obrienCaseNumber": 292,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5700h2dk2j8z05krbyvmhnjd5821g3j",
+    "pattern": "Well-circumscribed breast cancer",
+    "diagnosis": "Mucinous carcinoma",
+    "top3": [
+      "Mucinous carcinoma",
+      "Medullary carcinoma"
+    ],
+    "obrienCaseNumber": 293,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a8zy80zcebdg3pw6rfwcd55821cbv",
+    "pattern": "Developing asymmetry",
+    "diagnosis": "Invasive ductal carcinoma, moderately di̥ erentiated",
+    "top3": [
+      "Invasive ductal carcinoma",
+      "Invasive lobular carcinoma",
+      "Pseudoangiomatous stromal hyperplasia (PASH)"
+    ],
+    "obrienCaseNumber": 294,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fw916a7b9r3s1grmcfr4dbx821mzv",
+    "pattern": "Ill-deﬁ ned, inﬁ ltrative breast mass",
+    "diagnosis": "Invasive ductal carcinoma (multifocal and poorly di̥ erentiated)",
+    "top3": [
+      "Invasive ductal carcinoma",
+      "Invasive lobular carcinoma",
+      "Postsurgical scar"
+    ],
+    "obrienCaseNumber": 295,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ef035j5694zwtaxt6zgcse5821c5k",
+    "pattern": "Breast lesion with nipple discharge",
+    "diagnosis": "Intraductal papilloma",
+    "top3": [
+      "Intraductal papilloma",
+      "Mammary duct ectasia",
+      "Breast carcinoma (ductal or papillary)"
+    ],
+    "obrienCaseNumber": 296,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ajban3tcajd27bcb7rz219n820mxa",
+    "pattern": "Unilateral nipple/skin changes",
+    "diagnosis": "Paget disease of the nipple",
+    "top3": [
+      "Paget disease of the nipple",
+      "Mastitis",
+      "Inﬂ ammatory breast carcinoma"
+    ],
+    "obrienCaseNumber": 297,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574cwcfkvd5g7vj0dvs5qthgh821fnf",
+    "pattern": "Superﬁ cial breast mass",
+    "diagnosis": "Sebaceous cyst",
+    "top3": [
+      "Sebaceous cyst",
+      "Epidermal inclusion cyst",
+      "Focal infection"
+    ],
+    "obrienCaseNumber": 298,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5704j67ehvhgd9cfwsdt6zny5820pxt",
+    "pattern": "Large breast mass",
+    "diagnosis": "Phyllodes tumor",
+    "top3": [
+      "Phyllodes tumor",
+      "Fibroadenoma",
+      "Circumscribed breast carcinoma"
+    ],
+    "obrienCaseNumber": 299,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5746wkz7rxmnkfqw8v8qqq7e1821tjq",
+    "pattern": "Complex cystic mass",
+    "diagnosis": "Abscess",
+    "top3": [
+      "Abscess",
+      "Hematoma",
+      "Cystic neoplasm"
+    ],
+    "obrienCaseNumber": 300,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578en988c2ez6wvvscdm6ykwh821acv",
+    "pattern": "Enlarged ovary",
+    "diagnosis": "Ovarian torsion",
+    "top3": [
+      "Ovarian torsion",
+      "Ovarian neoplasm",
+      "Pelvic inﬂ ammatory disease (PID)/tubo-ovarian abscess"
+    ],
+    "obrienCaseNumber": 176,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579qezanpx8fv0x2esg8jyxex821xwh",
+    "pattern": "Enlarged ovary with multiple peripheral follicles",
+    "diagnosis": "Polycystic ovarian syndrome",
+    "top3": [
+      "Ovarian torsion",
+      "Polycystic ovarian syndrome (PCOS)",
+      "Ovarian hyperstimulation syndrome (OHS)"
+    ],
+    "obrienCaseNumber": 177,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574y7j8n4z9dv0spqgabctfhd820naw",
+    "pattern": "Hyperechoic liver mass",
+    "diagnosis": "Hemangioma",
+    "top3": [
+      "Hemangioma",
+      "Focal fatty inﬁ ltration",
+      "Hepatocellular carcinoma (HCC)"
+    ],
+    "obrienCaseNumber": 178,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579q7pyf32ve0r34hdzdb45fn8212vr",
+    "pattern": "Complex extratesticular ﬂ uid collection",
+    "diagnosis": "Hematocele (iatrogenic)",
+    "top3": [
+      "Varicocele",
+      "Hematocele",
+      "Pyocele"
+    ],
+    "obrienCaseNumber": 179,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574jvqpwqk86swsvy40d5g61d820smj",
+    "pattern": "Hyperechoic renal mass",
+    "diagnosis": "Angiomyolipoma",
+    "top3": [
+      "Angiomyolipoma (AML)",
+      "Renal cell carcinoma",
+      "Complex cyst"
+    ],
+    "obrienCaseNumber": 180,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ez7qqb9c9x9kxjyeg3a9hzn820ppj",
+    "pattern": "Complex cystic adnexal mass with positive HCG",
+    "diagnosis": "Ectopic pregnancy",
+    "top3": [
+      "Ectopic pregnancy",
+      "Corpus luteal cyst"
+    ],
+    "obrienCaseNumber": 181,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576hqsc17mkcs04c2k8rdxmn582100r",
+    "pattern": "Enlarged heterogeneous uterus",
+    "diagnosis": "Adenomyosis",
+    "top3": [
+      "Di̦ use leiomyomas",
+      "Adenomyosis",
+      "Endometrial carcinoma"
+    ],
+    "obrienCaseNumber": 182,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k570etdqq866xd9m0833xr46ax8217gp",
+    "pattern": "Thickened endometrial stripe",
+    "diagnosis": "Endometrial polyp",
+    "top3": [
+      "Endometrial hyperplasia",
+      "Endometrial polyps",
+      "Endometrial carcinoma"
+    ],
+    "obrienCaseNumber": 183,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k572skeehwg5hczk1rqbpm5hcd8209jw",
+    "pattern": "Uterine anomaly",
+    "diagnosis": "Bicornuate uterus",
+    "top3": [
+      "Bicornuate uterus",
+      "Didelphus uterus",
+      "Septated uterus"
+    ],
+    "obrienCaseNumber": 184,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57axcbedthtbhcbm36v6c7bd1821kbt",
+    "pattern": "“Starry sky” liver",
+    "diagnosis": "Acute hepatitis",
+    "top3": [
+      "Acute hepatitis",
+      "Hepatic congestion",
+      "Inﬁ ltrating neoplasm"
+    ],
+    "obrienCaseNumber": 185,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57d3mjcjw5n9j84g13dp8mgnx8202r2",
+    "pattern": "“Target” lesions in the liver",
+    "diagnosis": "Metastatic disease (breast cancer)",
+    "top3": [
+      "Hepatocellular carcinoma (HCC)",
+      "Metastatic disease",
+      "Lymphoma"
+    ],
+    "obrienCaseNumber": 186,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k570kygr5ymrvmetkmrw0tdkvd8201wh",
+    "pattern": "Portal vein thrombosis",
+    "diagnosis": "Tumor thrombus (hepatocellular carcinoma) in the portal vein",
+    "top3": [
+      "Tumor thrombus"
+    ],
+    "obrienCaseNumber": 187,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57dc3mx7t53mr5zjray8phs0582072f",
+    "pattern": "Cystic adnexal mass with negative HCG",
+    "diagnosis": "Ovarian neoplasm (mucinous cystadenoma)",
+    "top3": [
+      "Ovarian neoplasm",
+      "Hemorrhagic cyst",
+      "Tubo-ovarian abscess"
+    ],
+    "obrienCaseNumber": 188,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573zg3cd5z0wb9bjk0h01na4d820htt",
+    "pattern": "Multiple hypoechoic liver masses",
+    "diagnosis": "Neoplasm (lymphoma)",
+    "top3": [
+      "Neoplasm",
+      "Multifocal abscesses",
+      "Candidiasis"
+    ],
+    "obrienCaseNumber": 189,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k577svdqx6vcjneyh8pzzdzjj1820085",
+    "pattern": "Hypoechoic renal mass",
+    "diagnosis": "Renal lymphoma",
+    "top3": [
+      "Simple or complex renal cyst",
+      "Lymphoma",
+      "Renal abscess"
+    ],
+    "obrienCaseNumber": 190,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57777kav04pbx1zy1wwt0wcps821hk6",
+    "pattern": "Hyperechoic foci in the gallbladder wall",
+    "diagnosis": "Porcelain gallbladder",
+    "top3": [
+      "Porcelain gallbladder",
+      "Emphysematous cholecystitis (EC)",
+      "Adenomyomatosis"
+    ],
+    "obrienCaseNumber": 191,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579s0e4de45p6rzj5qqryaz8d820nxf",
+    "pattern": "Enlarged painful testicle",
+    "diagnosis": "Testicular torsion (left side)",
+    "top3": [
+      "Testicular torsion",
+      "Epididymo-orchitis",
+      "Testicular hematoma/fracture"
+    ],
+    "obrienCaseNumber": 192,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k572v941kb19jwhkx73063ht7h820ycc",
+    "pattern": "Gallbladder wall thickening",
+    "diagnosis": "Gallbladder wall edema (congestive heart failure)",
+    "top3": [
+      "Acute cholecystitis",
+      "Gallbladder wall edema",
+      "Secondary inﬂ ammation"
+    ],
+    "obrienCaseNumber": 193,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5734mjfvdqyapzx9xvjv48wyn820hkr",
+    "pattern": "Right lower quadrant mass in a child",
+    "diagnosis": "Acute appendicitis",
+    "top3": [
+      "Appendicitis",
+      "Intussusception",
+      "Enteric duplication cyst"
+    ],
+    "obrienCaseNumber": 194,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578711184qwd11vn9eef34s1x82159k",
+    "pattern": "Thyroid mass",
+    "diagnosis": "Papillary thyroid carcinoma",
+    "top3": [
+      "Benign thyroid nodule",
+      "Thyroid malignancy",
+      "Parathyroid adenoma"
+    ],
+    "obrienCaseNumber": 195,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575p47y2j4f0z9n5ktkarhnkx8212mk",
+    "pattern": "Multiple splenic hypoechoic foci",
+    "diagnosis": "Granulomatous disease (miliary tuberculosis)",
+    "top3": [
+      "Fungal abscess (candidiasis)",
+      "Di̦ use lymphoma",
+      "Granulomatous disease"
+    ],
+    "obrienCaseNumber": 196,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fj8mfyc28hs52ej326mazqx8214kk",
+    "pattern": "Periventricular cysts",
+    "diagnosis": "Periventricular leukomalacia",
+    "top3": [
+      "Periventricular leukomalacia (PVL)",
+      "Subependymal cysts",
+      "Infection"
+    ],
+    "obrienCaseNumber": 197,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57d4k6131jvdsmy1bjrqq5vmh8218gv",
+    "pattern": "Periventricular hyperechoic foci",
+    "diagnosis": "Germinal matrix hemorrhage ( grade 1)",
+    "top3": [
+      "Germinal matrix hemorrhage (GMH)",
+      "Intraventricular/intraparenchymal hemorrhage",
+      "Early periventricular leukomalacia (PVL)"
+    ],
+    "obrienCaseNumber": 198,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578gqe2g8n665e7p0xeyqrvsn8202a1",
+    "pattern": "Common bile duct (CBD) dilatation",
+    "diagnosis": "Malignancy (pancreatic adenocarcinoma)",
+    "top3": [
+      "Choledocholithiasis",
+      "Malignancy",
+      "Chronic pancreatitis"
+    ],
+    "obrienCaseNumber": 199,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k572d79f3gdfbckrf598zcjzeh820zey",
+    "pattern": "Enlarged painless testicle",
+    "diagnosis": "",
+    "top3": [],
+    "obrienCaseNumber": 200,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576y5zr720r8585f64s9yzm6d821s37",
+    "pattern": "Nuchal translucency",
+    "diagnosis": "Trisomy 21",
+    "top3": [
+      "Trisomy 21",
+      "Turner syndrome",
+      "Trisomy 18"
+    ],
+    "obrienCaseNumber": 201,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fmy36nm0eg8xtqsmag741t9821qjk",
+    "pattern": "Sacral mass",
+    "diagnosis": "Sacrococcygeal teratoma",
+    "top3": [
+      "Sacrococcygeal teratoma",
+      "Myelomeningocele and variants",
+      "Rhabdomyosarcoma"
+    ],
+    "obrienCaseNumber": 202,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ds5b0vr8q4p2avbhjh3nxbx821ehs",
+    "pattern": "Posterior fossa malformation",
+    "diagnosis": "Chiari malformation",
+    "top3": [
+      "Chiari malformation",
+      "Dandy–Walker malformation",
+      "Joubert syndrome"
+    ],
+    "obrienCaseNumber": 203,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579vkbhgtw0062wss2h2syemn821rhe",
+    "pattern": "Hyperechoic thoracic mass",
+    "diagnosis": "Congenital pulmonary airway malformation",
+    "top3": [
+      "Congenital pulmonary airway malformation (CPAM)",
+      "Pulmonary sequestration",
+      "Congenital lobar emphysema (CLE)"
+    ],
+    "obrienCaseNumber": 204,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5739zm7y5jgbhmbypeeetqqc5821xka",
+    "pattern": "Twin development (chorionicity)",
+    "diagnosis": "Dichorionic/diamnionic twin pregnancy",
+    "top3": [
+      "Dichorionic/diamnionic twin pregnancy",
+      "Monochorionic/diamnionic twin pregnancy",
+      "Monochorionic/monoamnionic twin pregnancy"
+    ],
+    "obrienCaseNumber": 205,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574hztg94qsbw3c3882w3j9nd821cdw",
+    "pattern": "Twin pregnancy with asymmetric fetal sizes",
+    "diagnosis": "Twin-to-twin transfusion syndrome",
+    "top3": [
+      "Twin-to-twin transfusion syndrome (TTTS)",
+      "Fetal demise",
+      "Normal variation"
+    ],
+    "obrienCaseNumber": 206,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fv08tvpqpq582kxz9qazcds820ep2",
+    "pattern": "Enlarged bladder (megacystis)",
+    "diagnosis": "Posterior urethral valves",
+    "top3": [
+      "Posterior urethral valves (PUVs)",
+      "Prune-belly syndrome"
+    ],
+    "obrienCaseNumber": 207,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575d31fgdvsaczgh89gy0zm2s821msp",
+    "pattern": "Umbilical cord vascular abnormality",
+    "diagnosis": "Two-vessel cord",
+    "top3": [
+      "Two-vessel cord"
+    ],
+    "obrienCaseNumber": 208,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573ayxy544v0qd3bqbnqd3es1820846",
+    "pattern": "“Double bubble” sign",
+    "diagnosis": "Congenital duodenal obstruction (duodenal atresia)",
+    "top3": [
+      "Annular pancreas",
+      "Intestinal malrotation with volvulus"
+    ],
+    "obrienCaseNumber": 209,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5744q0dyvm61frz3rk0g0zxvs820j5w",
+    "pattern": "Hyperechoic intracardiac focus",
+    "diagnosis": "Echogenic intracardiac focus/papillary muscle calciﬁ cation",
+    "top3": [
+      "Rhabdomyoma",
+      "Fibroma"
+    ],
+    "obrienCaseNumber": 210,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573yzfr5g2g9xe58knk07n4ss821tf3",
+    "pattern": "Central nervous system (CNS) ventriculomegaly",
+    "diagnosis": "Congenital aqueductal stenosis",
+    "top3": [
+      "Ventriculomegaly",
+      "Congenital aqueductal stenosis",
+      "Chiari malformation"
+    ],
+    "obrienCaseNumber": 211,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575kcprq6q5gcwg2tc4aat00982071m",
+    "pattern": "Abnormal ventriculoarterial conﬁ guration",
+    "diagnosis": "Transposition of the great arteries",
+    "top3": [
+      "Tetralogy of Fallot",
+      "Transposition of the great arteries (TGA)",
+      "Truncus arteriosus"
+    ],
+    "obrienCaseNumber": 212,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57609pc5q7xha5s032jts0z59820ze7",
+    "pattern": "Cystic posterior neck mass",
+    "diagnosis": "Cystic hygroma",
+    "top3": [
+      "Cystic hygroma",
+      "Occipital encephalocele and cervical myelomeningocele",
+      "Cystic teratoma"
+    ],
+    "obrienCaseNumber": 213,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574yq7z9ak2yp6vp81fbq6qzh821ax0",
+    "pattern": "Enlarged hyperechoic kidneys",
+    "diagnosis": "Autosomal recessive polycystic kidney disease",
+    "top3": [
+      "Trisomy 13",
+      "Meckel–Gruber syndrome"
+    ],
+    "obrienCaseNumber": 214,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574b3hcmb7zav61zzmtvfedf98210q8",
+    "pattern": "Oligohydramnios. Oligohydramnios is the condition of decreased amniotic ﬂ uid volume relative to gestational age. This is",
+    "diagnosis": "Premature rupture of membranes",
+    "top3": [
+      "Bilateral renal failure or outlet obstruction",
+      "Premature rupture of membranes (PROM)",
+      "Intrauterine growth restriction"
+    ],
+    "obrienCaseNumber": 215,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k572md0x438wck2qkcmwbktp19821s7x",
+    "pattern": "Polyhydramnios. Polyhydramnios is an excessive accumulation of amniotic ﬂ uid (>1500 cc). The balance of ﬂ uid ﬂ ow into",
+    "diagnosis": "Fetal GI anomaly (esophageal atresia)",
+    "top3": [
+      "Fetal gastrointestinal (GI) anomalies",
+      "Fetal central nervous system (CNS) anomalies",
+      "Maternal diabetes mellitus"
+    ],
+    "obrienCaseNumber": 216,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cwpfybcff92p2dj739yr5ms8202eb",
+    "pattern": "Placental location abnormality",
+    "diagnosis": "Placenta previa",
+    "top3": [
+      "Placenta previa",
+      "Placenta accreta/increta/percreta",
+      "Marginal insertion of the cord"
+    ],
+    "obrienCaseNumber": 217,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5789z0hrxfea6mafcdzyxjqc5820p9p",
+    "pattern": "Abdominal wall defect",
+    "diagnosis": "Omphalocele",
+    "top3": [
+      "Omphalocele",
+      "Gastroschisis",
+      "Limb–body wall complex"
+    ],
+    "obrienCaseNumber": 218,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57djh9zajfhvqf08dbqh2fbx5821w4k",
+    "pattern": "Cranial/calvarial defect",
+    "diagnosis": "Anencephaly",
+    "top3": [
+      "Anencephaly",
+      "Acrania",
+      "Amniotic band syndrome"
+    ],
+    "obrienCaseNumber": 219,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a62rw2qgdw19yfrhnb5twk9821emw",
+    "pattern": "Diaphragm abnormality",
+    "diagnosis": "Congenital diaphragmatic hernia",
+    "top3": [
+      "Congenital diaphragmatic hernia (CDH)",
+      "Congenital pulmonary airway malformation (CPAM)",
+      "Pulmonary sequestration"
+    ],
+    "obrienCaseNumber": 220,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57c6p3qk7ess5t1gzenxkz6bn8219xz",
+    "pattern": "Fetal hydrops",
+    "diagnosis": "Chromosomal abnormality (Turner syndrome)",
+    "top3": [
+      "Cardiac anomalies",
+      "Chromosomal abnormalities",
+      "Infection"
+    ],
+    "obrienCaseNumber": 221,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574ytc8b92jkj639ahgx567bn8217d3",
+    "pattern": "Linear echoes within the amniotic ﬂ uid",
+    "diagnosis": "Amniotic band syndrome",
+    "top3": [
+      "Amniotic band syndrome",
+      "Synechiae (or amniotic shelves)",
+      "Chorioamniotic separation"
+    ],
+    "obrienCaseNumber": 222,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57egpjt3yfda1q1j9vnkcg2rs820j34",
+    "pattern": "Placental abnormality/mass",
+    "diagnosis": "Subchorionic hematoma",
+    "top3": [
+      "Subchorionic/retroplacental hematoma",
+      "Placental venous lakes",
+      "Circumvallate placenta"
+    ],
+    "obrienCaseNumber": 223,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573e943yj0mr87j4my94rzt49820yjh",
+    "pattern": "Choroid plexus cyst",
+    "diagnosis": "Trisomy 18 (Edward syndrome)",
+    "top3": [
+      "Incidental ﬁ nding",
+      "Trisomy 18 (Edward syndrome)",
+      "Trisomy 21 (Down syndrome)"
+    ],
+    "obrienCaseNumber": 224,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57540ddsmbbxz1p3yc0sykhbn821dek",
+    "pattern": "Ventricular septal defect",
+    "diagnosis": "Ventricular septal defect",
+    "top3": [
+      "Ventricular septal defect (VSD)",
+      "Endocardial cushion defect",
+      "Normal foramen ovale"
+    ],
+    "obrienCaseNumber": 225,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57175q1mjkgbtygk38fqjkc3182178h",
+    "pattern": "Postprocedure arterial abnormality",
+    "diagnosis": "Pseudoaneurysm",
+    "top3": [
+      "Hematoma",
+      "Pseudoaneurysm",
+      "Arteriovenous ﬁ stula"
+    ],
+    "obrienCaseNumber": 226,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57d8pn9gav0ascee7k0yhdntn8214wn",
+    "pattern": "Carotid artery stenosis",
+    "diagnosis": "Fibromuscular dysplasia",
+    "top3": [
+      "Atherosclerosis",
+      "Fibromuscular dysplasia (FMD)",
+      "Dissection"
+    ],
+    "obrienCaseNumber": 227,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cz8dzqgwbjygzz67v42swyx820h34",
+    "pattern": "Failing renal transplant with abnormal Doppler examination",
+    "diagnosis": "Renal artery stenosis",
+    "top3": [
+      "Acute tubular necrosis (ATN)",
+      "Renal artery stenosis (RAS)",
+      "Urinary obstruction"
+    ],
+    "obrienCaseNumber": 228,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57as527xa1wvqgngx96899bd58200da",
+    "pattern": "Digital artery occlusion/ischemia",
+    "diagnosis": "Thoracic outlet syndrome",
+    "top3": [
+      "Raynaud disease",
+      "Vasculitis",
+      "Embolic disease"
+    ],
+    "obrienCaseNumber": 229,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57ambq08vxrpz50yqf7nzy9k98219m8",
+    "pattern": "Subclavian vein occlusion",
+    "diagnosis": "Paget–von Schroetter syndrome",
+    "top3": [
+      "Prior instrumentation/catheter placement",
+      "Hypercoagulability",
+      "Paget–von Schroetter syndrome/e̦ ort thrombosis"
+    ],
+    "obrienCaseNumber": 230,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57dsf7e3v0ccx3bvzc05wv6nn8207rn",
+    "pattern": "Great vessel stenosis",
+    "diagnosis": "Vasculitis (Takayasu arteritis)",
+    "top3": [
+      "Atherosclerosis",
+      "Vasculitis",
+      "Dissection"
+    ],
+    "obrienCaseNumber": 231,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578ghmc0gpk7wvkf2q3xde4nh82014f",
+    "pattern": "Renal artery stenosis",
+    "diagnosis": "Atherosclerosis",
+    "top3": [
+      "Atherosclerosis",
+      "Fibromuscular dysplasia (FMD)",
+      "Dissection"
+    ],
+    "obrienCaseNumber": 232,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578j8y5y7a2h436xcgzk80m01820s5k",
+    "pattern": "Intraparenchymal renal artery aneurysms",
+    "diagnosis": "Vasculitis (polyarteritis nodosa)",
+    "top3": [
+      "Vasculitis",
+      "Mycotic/septic emboli",
+      "Trauma"
+    ],
+    "obrienCaseNumber": 233,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k572nmwvd7rb8v3xd5233zkqx1820879",
+    "pattern": "Hypervascular pulmonary mass",
+    "diagnosis": "Arteriovenous malformation",
+    "top3": [
+      "Arteriovenous malformation (AVM)",
+      "Bronchogenic carcinoma",
+      "Hypervascular metastasis"
+    ],
+    "obrienCaseNumber": 234,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576mnx04k6pz3md2t6w3817k1821xkm",
+    "pattern": "Infrarenal aortic occlusion",
+    "diagnosis": "Atherosclerosis",
+    "top3": [
+      "Atherosclerosis",
+      "Thrombus/embolus",
+      "Vasculitis  (Takayasu arteritis)"
+    ],
+    "obrienCaseNumber": 235,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fkmsamn9vkz8jycvpk6178582184b",
+    "pattern": "Popliteal artery occlusion",
+    "diagnosis": "Trauma (posterior knee dislocation)",
+    "top3": [
+      "Atherosclerosis",
+      "Embolism",
+      "Trauma"
+    ],
+    "obrienCaseNumber": 236,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k577wwpk6cc12fq6v8k1kf3eqs8216ya",
+    "pattern": "Extratesticular mass",
+    "diagnosis": "Varicocele",
+    "top3": [
+      "Varicocele",
+      "Pyocele/hematocele",
+      "Hydrocele"
+    ],
+    "obrienCaseNumber": 237,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57e6ewgsmds8j1qk58723sd69821j1g",
+    "pattern": "Inferior vena cava (IVC) vascular anomaly/abnormality",
+    "diagnosis": "Circumaortic left renal vein",
+    "top3": [
+      "Circumaortic/retroaortic left renal vein",
+      "Megacava",
+      "Duplicated inferior vena cava"
+    ],
+    "obrienCaseNumber": 238,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57cchq2vh5281v7j54pdn6c5n8202k1",
+    "pattern": "Hypervascular renal mass",
+    "diagnosis": "Renal cell carcinoma",
+    "top3": [
+      "Renal cell carcinoma (RCC)",
+      "Angiomyolipoma",
+      "Oncocytoma"
+    ],
+    "obrienCaseNumber": 239,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574f03r4d4xe8pyqtvsmjv0wn820y7n",
+    "pattern": "Prominent paraspinal ﬂ ow voids",
+    "diagnosis": "Dural arteriovenous ﬁ stula (type I)",
+    "top3": [
+      "Dural arteriovenous ﬁ stula (AVF)",
+      "Spinal cord arteriovenous malformation (AVM)"
+    ],
+    "obrienCaseNumber": 240,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fsd8m8jncb1rpb9br6qrwzs8206ct",
+    "pattern": "Suprasellar mass in an adult",
+    "diagnosis": "Aneurysm (partially thrombosed)",
+    "top3": [
+      "Pituitary macroadenoma",
+      "Craniopharyngioma",
+      "Aneurysm"
+    ],
+    "obrienCaseNumber": 241,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k570zse590qh5egt7gg402t40h820q1m",
+    "pattern": "Hypervascular cerebral mass/abnormality",
+    "diagnosis": "Arteriovenous malformation",
+    "top3": [
+      "Arteriovenous malformation (AVM)",
+      "Hypervascular tumor",
+      "Aneurysm"
+    ],
+    "obrienCaseNumber": 242,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k577h0sjq9a8m4a6dgcd5xvex9820626",
+    "pattern": "Aortic dissection",
+    "diagnosis": "Annuloaortic ectasia (Marfan syndrome)",
+    "top3": [
+      "Hypertension",
+      "Trauma",
+      "Connective tissue disease"
+    ],
+    "obrienCaseNumber": 243,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576trf8pbypbrewgtdcz2s9398216wb",
+    "pattern": "Lower GI bleeding",
+    "diagnosis": "Diverticulosis",
+    "top3": [
+      "Diverticulosis",
+      "Neoplasm",
+      "Angiodysplasia"
+    ],
+    "obrienCaseNumber": 244,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576s43sqchfy125hjcbf8xbxs82024p",
+    "pattern": "Vascular ring/sling",
+    "diagnosis": "Right aortic arch with aberrant left subclavian artery",
+    "top3": [
+      "Aberrant right subclavian artery",
+      "Double aortic arch",
+      "Right arch with aberrant left subclavian artery"
+    ],
+    "obrienCaseNumber": 245,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57968knp4nscs5dmm6v6ep485821a2y",
+    "pattern": "Urinary obstruction",
+    "diagnosis": "Nephrolithiasis (with superimposed infection)",
+    "top3": [
+      "Nephrolithiasis",
+      "Neoplasm",
+      "Blood clot"
+    ],
+    "obrienCaseNumber": 246,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k577dpcpztdhazpx1b7n540jrn821nr9",
+    "pattern": "TIPS dysfunction",
+    "diagnosis": "Technical error (portal venous injury)",
+    "top3": [
+      "Neointimal hyperplasia",
+      "Thrombosis",
+      "Technical error"
+    ],
+    "obrienCaseNumber": 247,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57djqxthpdmn9047gnzt2xcf5821xvh",
+    "pattern": "Biliary duct obstruction",
+    "diagnosis": "Choledocholithiasis",
+    "top3": [
+      "Choledocholithiasis",
+      "Cholangiocarcinoma",
+      "Pancreatic adenocarcinoma"
+    ],
+    "obrienCaseNumber": 248,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fxk5ng271683m4fqc5kpkan820n1e",
+    "pattern": "Traumatic aortic injury",
+    "diagnosis": "Aortic pseudoaneurysm",
+    "top3": [
+      "Pseudoaneurysm",
+      "Aortic dissection",
+      "Intramural hematoma"
+    ],
+    "obrienCaseNumber": 249,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5703m0qsrtaxkcjw7basv67bs821gkj",
+    "pattern": "Celiac axis stenosis/occlusion",
+    "diagnosis": "Median arcuate ligament syndrome",
+    "top3": [
+      "Atherosclerosis",
+      "Thromboembolism",
+      "Vasculitis"
+    ],
+    "obrienCaseNumber": 250,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57absc0m6kdk1xj8fx65yrwf9821tht",
+    "pattern": "Transient ischemic dilatation (TID)",
+    "diagnosis": "Multivessel coronary artery disease",
+    "top3": [
+      "Multivessel coronary artery disease",
+      "Subendocardial ischemia",
+      "Systolic dysfunction"
+    ],
+    "obrienCaseNumber": 251,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571aahabm735zekdr2rwnaxnd8212wv",
+    "pattern": "Symmetric “tram track” cortical uptake of the long bones",
+    "diagnosis": "Hypertrophic osteoarthropathy (secondary to lung carcinoma)",
+    "top3": [
+      "Hypertrophic osteoarthropathy",
+      "Shin/quadriceps splints",
+      "Chronic venous stasis"
+    ],
+    "obrienCaseNumber": 252,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576r5hzbf30xsx0j2v5vwr3bx821hq3",
+    "pattern": "Poor-quality bone scan",
+    "diagnosis": "O̥ -peak bone scan",
+    "top3": [
+      "O̦ -peak gamma camera",
+      "Incorrect radiopharmaceutical administration",
+      "Poor radiopharmaceutical preparation"
+    ],
+    "obrienCaseNumber": 253,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k570zcnx1fyq8vtr2313k1vf2s820bzy",
+    "pattern": "Extrapulmonary activity on a lung perfusion scan",
+    "diagnosis": "Right-to-left shunt (intracardiac)",
+    "top3": [
+      "Free technetium 99m (Tc99m)",
+      "Right-to-left shunt",
+      "Retained activity from a di̦ erent radiotracer study"
+    ],
+    "obrienCaseNumber": 254,
+    "status": "done",
+    "attempts": 1751
+  },
+  {
+    "_id": "k579b4a1rzwm99r2rvxy56wvq5821zaf",
+    "pattern": "Superscan",
+    "diagnosis": "Renal osteodystrophy",
+    "top3": [
+      "Metastatic disease",
+      "Metabolic disease",
+      "Paget disease"
+    ],
+    "obrienCaseNumber": 255,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573333q4n2czm1pykf2v4s2a9821kwf",
+    "pattern": "Increased activity and osseous expansion in the pelvis",
+    "diagnosis": "Paget disease",
+    "top3": [],
+    "obrienCaseNumber": 256,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576pecvsvpk0w9f6c94ndhsmd820ggh",
+    "pattern": "Three-phase positive bone scan",
+    "diagnosis": "Reﬂ ex sympathetic dystrophy",
+    "top3": [
+      "Trauma",
+      "Osteomyelitis",
+      "Bone tumor"
+    ],
+    "obrienCaseNumber": 257,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k570y7ef1wxg6444k4b9dchyt5820eaw",
+    "pattern": "Nonvisualization of the gallbladder on hepatobiliary imaging",
+    "diagnosis": "Acute gangrenous cholecystitis",
+    "top3": [
+      "Acute cholecystitis",
+      "Chronic cholecystitis",
+      "Inadequate patient preparation"
+    ],
+    "obrienCaseNumber": 258,
+    "status": "done",
+    "attempts": 1267
+  },
+  {
+    "_id": "k57b4pbmbc8xh5r55xag4a01rn820agq",
+    "pattern": "Focal intra-abdominal activity on pertechnetate imaging",
+    "diagnosis": "Meckel diverticulum",
+    "top3": [
+      "Meckel diverticulum",
+      "Physiologic renal/urinary activity"
+    ],
+    "obrienCaseNumber": 259,
+    "status": "done",
+    "attempts": 969
+  },
+  {
+    "_id": "k5759rgymtd6kds65vfc5h4hgs821phf",
+    "pattern": "Persistent hepatogram on neonatal hepatobiliary imaging",
+    "diagnosis": "Biliary atresia",
+    "top3": [
+      "Biliary atresia",
+      "Neonatal hepatitis"
+    ],
+    "obrienCaseNumber": 260,
+    "status": "done",
+    "attempts": 505
+  },
+  {
+    "_id": "k574x14bt2bxd3q674jdj3xv8s821at1",
+    "pattern": "Persistent focal cervical uptake on delayed sestamibi imaging",
+    "diagnosis": "Parathyroid adenoma",
+    "top3": [
+      "Parathyroid adenoma",
+      "Thyroid adenoma or carcinoma",
+      "Metastatic lymphadenopathy"
+    ],
+    "obrienCaseNumber": 261,
+    "status": "done",
+    "attempts": 138
+  },
+  {
+    "_id": "k572p9h53n0ggwtm731d7q7t1d821a24",
+    "pattern": "Intra-abdominal activity on technetium 99m (Tc99m) labeled red blood cell (RBC) scan",
+    "diagnosis": "Active lower gastrointestinal (cecal) bleed",
+    "top3": [
+      "Active gastrointestinal (GI) bleed",
+      "Neoplasm or inﬂ ammatory bowel disease",
+      "Genitourinary activity"
+    ],
+    "obrienCaseNumber": 262,
+    "status": "done",
+    "attempts": 21
+  },
+  {
+    "_id": "k573xs9wfvg0wa1c6sp1wx53jh821re3",
+    "pattern": "Decreased cortical 18F-ﬂ uorodeoxyglucose (FDG) activity in the setting of dementia",
+    "diagnosis": "Alzheimer disease",
+    "top3": [
+      "Alzheimer disease (AD)",
+      "Pick disease",
+      "Multi-infarct dementia (MID)"
+    ],
+    "obrienCaseNumber": 263,
+    "status": "done",
+    "attempts": 3
+  },
+  {
+    "_id": "k57adkyh2k4gbgafekytrf6me9820bqw",
+    "pattern": "Unilateral absent lung perfusion",
+    "diagnosis": "Extrinsic compression (left hilar malignancy)",
+    "top3": [],
+    "obrienCaseNumber": 264,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57bgywtk11a5k7fy74msncdrn82123h",
+    "pattern": "Worsening renal function on mercapto-acetyltriglycine 3 (MAG 3) renal scan following Captopril administration",
+    "diagnosis": "Renal artery stenosis (right-sided)",
+    "top3": [
+      "Renal artery stenosis (RAS)",
+      "Unilateral urinary obstruction"
+    ],
+    "obrienCaseNumber": 265,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k577xz2gabxy4bn5kgbtbb543x821tms",
+    "pattern": "Cold nodule on an iodine 123 (I123) thyroid scan",
+    "diagnosis": "Thyroid cancer",
+    "top3": [
+      "Thyroid carcinoma",
+      "Colloid cyst",
+      "Nonfunctioning adenoma"
+    ],
+    "obrienCaseNumber": 266,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fe1vtyx7r1xcfkne8r1bpfd821553",
+    "pattern": "Focal abdominal uptake on indium 111 (In111) pentreotide scan (Ostreoscan)",
+    "diagnosis": "Neuroendocrine tumor (carcinoid)",
+    "top3": [
+      "Neuroendocrine tumor",
+      "Metastatic disease",
+      "Granulomatous disease"
+    ],
+    "obrienCaseNumber": 267,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k574pvjpc08sw0eym0cf42m9qh820kdj",
+    "pattern": "Absent intracranial activity on a technetium 99m (Tc99m) HMPAO (hexamethylpropyleneamine) scan",
+    "diagnosis": "Brain death",
+    "top3": [],
+    "obrienCaseNumber": 268,
+    "status": "done",
+    "attempts": 2
+  },
+  {
+    "_id": "k5731r86wnzqtbf1ys6g378pyx820jzh",
+    "pattern": "Focal neck uptake on an I131 postablation scan",
+    "diagnosis": "Residual or remnant thyroid bed activity",
+    "top3": [
+      "Residual thyroid tissue",
+      "Cervical nodal metastases",
+      "Physiologic pharyngeal/esophageal activity"
+    ],
+    "obrienCaseNumber": 269,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579ynzp341cj10hhr5yvzs3x9821kky",
+    "pattern": "Increased mediastinal uptake on a gallium scan",
+    "diagnosis": "Malignancy (Hodgkin lymphoma)",
+    "top3": [
+      "Malignancy",
+      "Granulomatous disease",
+      "Nonspeciﬁ c inﬂ ammatory/infectious process"
+    ],
+    "obrienCaseNumber": 270,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571b9b2dnkr41hz9bmnzv55xx82082k",
+    "pattern": "Focal increased hepatic uptake on a sulfur colloid scan",
+    "diagnosis": "Focal nodular hyperplasia",
+    "top3": [
+      "Focal nodular hyperplasia (FNH)",
+      "Regenerating nodular cirrhosis",
+      "Budd–Chiari syndrome"
+    ],
+    "obrienCaseNumber": 271,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579rtjreckny564adxg8hyn71821b2e",
+    "pattern": "Focal bowel uptake on an indium 111 (In111)–labeled WBC scan",
+    "diagnosis": "Inﬂ ammatory bowel disease (Crohn disease)",
+    "top3": [
+      "Infectious enteritis/colitis",
+      "Inﬂ ammatory bowel disease (IBD)",
+      "Gastrointestinal bleeding"
+    ],
+    "obrienCaseNumber": 272,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575qx618zcj5r80dd5de3nzcn820j0t",
+    "pattern": "Focal defect on QC images",
+    "diagnosis": "PMT failure ( Fig. 273.1A ); dented collimator ( Fig. 273.1B ); cracked crystal ( Fig.  273.1C ); electronic artifact ( Fig. 273.1D )",
+    "top3": [
+      "Photomultiplier tube failure",
+      "Crystal defect",
+      "Collimator defect"
+    ],
+    "obrienCaseNumber": 273,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k579dsrfx4xe3w2tws24qm2p2x821rx8",
+    "pattern": "Focal increased activity within an extremity on a bone scan",
+    "diagnosis": "Neoplasm (osteoid osteoma)",
+    "top3": [
+      "Stress fracture",
+      "Osteomyelitis",
+      "Neoplasm (benign and malignant)"
+    ],
+    "obrienCaseNumber": 274,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576jay7e4pjsq8p9n32p6ednd821fpj",
+    "pattern": "Solitary hypermetabolic pulmonary lesion on a positron emission tomography (PET) scan",
+    "diagnosis": "Malignancy (bronchogenic carcinoma)",
+    "top3": [
+      "Malignancy",
+      "Active granulomatous disease",
+      "Pulmonary infection/inﬂ ammation"
+    ],
+    "obrienCaseNumber": 275,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fxdgegeark9jfc0gnw316hd820jtq",
+    "pattern": "Veil-like opaciﬁ cation involving the left lung with volume loss",
+    "diagnosis": "•  Left upper lobe collapse. Lobar collapse (atelectasis)",
+    "top3": [],
+    "obrienCaseNumber": 301,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578kev4c6pqtezmk93rgfzafd821hhw",
+    "pattern": "Pleural-based lesion adjacent to pleural thickening with volume loss",
+    "diagnosis": "•  Round atelectasis. Round atelectasis is a chronic focal",
+    "top3": [],
+    "obrienCaseNumber": 302,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k573kwtz3cpkqvn1hakjvnbpvs820ysj",
+    "pattern": "Right lung volume loss with a curvilinear opacity descending below the diaphragm",
+    "diagnosis": "•  Scimitar syndrome. Scimitar syndrome, also known as",
+    "top3": [],
+    "obrienCaseNumber": 303,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57f79z3kr7vpkmzxakk11jyzn821jw7",
+    "pattern": "Dilated, gas-ﬁ lled cecum pointing toward the left upper quadrant of the abdomen",
+    "diagnosis": "•  Cecal volvulus. Cecal volvulus occurs less commonly than",
+    "top3": [],
+    "obrienCaseNumber": 304,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575dfphp7zmybwfczp66dj7wh820457",
+    "pattern": "Inﬂ ammatory fatty focus within the RLQ of the abdomen",
+    "diagnosis": "•  Epiploic appendagitis. Epiploic appendagitis is a condi-",
+    "top3": [],
+    "obrienCaseNumber": 305,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fdrjvn0ym544nm56hgh4gz5821ach",
+    "pattern": "Pneumatosis and portal venous gas in a premature infant",
+    "diagnosis": "•  Necrotizing enterocolitis (NEC). NEC is the most com-",
+    "top3": [],
+    "obrienCaseNumber": 306,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k578kd1nknpwbmx5x20rt45bdd820b4v",
+    "pattern": "Gastric outlet obstruction with enlarged pylorus",
+    "diagnosis": "•  Hypertrophic pyloric stenosis (HPS). HPS develops in",
+    "top3": [],
+    "obrienCaseNumber": 307,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k572tcfwhg790s1nvy8kfxf4r1821d5j",
+    "pattern": "Multiple high-speciﬁ city fractures and injuries of varying ages",
+    "diagnosis": "•  Nonaccidental trauma. Over 3 million cases of child abuse",
+    "top3": [],
+    "obrienCaseNumber": 308,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575n4smmnr537sh45m39kzqdx82180w",
+    "pattern": "Intraluminal mass with bowel signature on ultrasound",
+    "diagnosis": "•  Intussusception. Intussusception is a common and impor-",
+    "top3": [],
+    "obrienCaseNumber": 309,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57asf84n74jnf5hqc0sbwr57h820mqz",
+    "pattern": "Left subclavian artery occlusion with retrograde ﬁ lling distally from the vertebral artery",
+    "diagnosis": "•  Subclavian steal. Subclavian steal is a phenomenon that",
+    "top3": [],
+    "obrienCaseNumber": 310,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57a0wdxdm2qgsrx5rn3e6mqe5820h5e",
+    "pattern": "Gas within the bladder wall",
+    "diagnosis": "•  Emphysematous cystitis. Emphysematous cystitis is an",
+    "top3": [],
+    "obrienCaseNumber": 311,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57dztq3ndwh5rkg57xfnd4yk9821539",
+    "pattern": "Multiple small diverticula ḁ ecting the proximal portion of the fallopian tube",
+    "diagnosis": "•  Salpingitis isthmica nodosa (SIN). SIN, or tubal diver-",
+    "top3": [],
+    "obrienCaseNumber": 312,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57dm26ygz3vaec34p6163kgvh821x5z",
+    "pattern": "Hyperdense middle cerebral artery (MCA) (with additional ﬁ ndings consistent with infarction)",
+    "diagnosis": "•  Middle cerebral artery distribution cerebral infarction.",
+    "top3": [],
+    "obrienCaseNumber": 313,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57fh50nvct89cmtn28ptk869h82076x",
+    "pattern": "“Tram track” calciﬁ cations, pial angiomatosis, and cerebral parenchymal atrophy",
+    "diagnosis": "•  Sturge–Weber syndrome. Sturge–Weber syndrome or",
+    "top3": [],
+    "obrienCaseNumber": 314,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k571db1d5589nfw5n8x1qyr14n821f8j",
+    "pattern": "Left cerebellopontine angle (CPA) mass with similar signal to cerebrospinal ﬂ uid (CSF) and restricted di̥ usion on di̥ usion-",
+    "diagnosis": "•  Epidermoid. Epidermoid tumor is the third most com-",
+    "top3": [],
+    "obrienCaseNumber": 315,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5717jzksd5zxp1vmkxatb5pjn8204e6",
+    "pattern": "Atrophy and increased T2-weighted signal intensity of the mesial temporal lobe",
+    "diagnosis": "•  Mesial temporal sclerosis (MTS). MTS is a condition that",
+    "top3": [],
+    "obrienCaseNumber": 316,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576rx1qcdx1czgf0pmysk4t2s82012q",
+    "pattern": "Ovarian cystic mass with the “tip of the iceberg” sign and macroscopic fat",
+    "diagnosis": "•  Ovarian dermoid. Ovarian dermoid or teratoma is the",
+    "top3": [],
+    "obrienCaseNumber": 317,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k576rrq4etqj49aw7vbpnrxzrn821dr3",
+    "pattern": "Wall-echo-shadow (WES) sign",
+    "diagnosis": "•  Cholelithiasis. The WES sign is characterized by two cur-",
+    "top3": [],
+    "obrienCaseNumber": 318,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57aeertf0z4emdkkeqebptcf98208v0",
+    "pattern": "Adnexal mass with increased through transmission and homogeneous low-level echoes.",
+    "diagnosis": "•  Endometrioma. Endometriomas are cysts that contain",
+    "top3": [],
+    "obrienCaseNumber": 319,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575twq89pq6289k7kszj9kg358215ak",
+    "pattern": "Disruption of the anterior cruciate ligament (ACL) with “kissing contusions”",
+    "diagnosis": "•  Anterior cruciate ligament tear. The ACL attaches to the",
+    "top3": [],
+    "obrienCaseNumber": 320,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k5756xekyvgm4nvnk26avdyhjh821h6x",
+    "pattern": "Posterior displacement and ﬁ xed internal rotation of the humeral head",
+    "diagnosis": "•  Posterior dislocation of the shoulder. Posterior shoulder",
+    "top3": [],
+    "obrienCaseNumber": 321,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57d4afhc0v0y6yp45zqj21sc98215cf",
+    "pattern": "Double posterior cruciate ligament (PCL) sign",
+    "diagnosis": "•  “Bucket handle” tear of the medial meniscus. The dou-",
+    "top3": [],
+    "obrienCaseNumber": 322,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k575wp2wbm2rmvt8yr97qg7ck1821my9",
+    "pattern": "Intense sacral uptake in an  H-shaped conﬁ guration on a bone scan",
+    "diagnosis": "•   Sacral insu̧  ciency fracture. Sacral insu̦  ciency frac-",
+    "top3": [],
+    "obrienCaseNumber": 323,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k577gee9r2fwxjf6f6r7tkj60h821txk",
+    "pattern": "18F-ﬂ uorodeoxyglucose (FDG) uptake in supraclavicular fat",
+    "diagnosis": "•  Brown fat. There are two types of adipose tissue in the",
+    "top3": [],
+    "obrienCaseNumber": 324,
+    "status": "done",
+    "attempts": 1
+  },
+  {
+    "_id": "k57afgsx9exzq11a9amswxjcr9821gj8",
+    "pattern": "Amorphous calciﬁ cations on the craniocaudal (CC) view that appear crescentic on the lateral view",
+    "diagnosis": "•  Milk of calcium. Milk of calcium is a descriptor used",
+    "top3": [],
+    "obrienCaseNumber": 325,
+    "status": "done",
+    "attempts": 1
+  }
+]
