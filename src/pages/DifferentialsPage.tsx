@@ -1,15 +1,17 @@
-import { useState, useMemo } from "react";
-import { useQuery } from "convex/react";
+import { useState, useMemo, useCallback } from "react";
+import { useQuery, useMutation } from "convex/react";
 import { api } from "../../convex/_generated/api";
-import { Doc } from "../../convex/_generated/dataModel";
+import { Doc, Id } from "../../convex/_generated/dataModel";
 import { getCategoryMeta } from "../lib/categoryConfig";
-import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info } from "lucide-react";
+import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target } from "lucide-react";
 import { HighlightableText } from "../components/ui/HighlightableText";
 import { useKnowledge } from "../lib/knowledgeContext";
 import { KnowledgeTrigger } from "../components/ui/KnowledgeTrigger";
 import { InlineDiscriminators } from "../components/case/InlineDiscriminators";
 import { ImageDropZone } from "../components/images/ImageDropZone";
 import { RapidImageViewer } from "../components/images/RapidImageViewer";
+import { useTextIngestion } from "../hooks/useTextIngestion";
+import { TextReviewModal } from "../components/text/TextReviewModal";
 
 interface DifferentialPattern {
   _id: string;
@@ -56,7 +58,19 @@ const CATEGORY_ORDER = [
   "Paeds", "US", "Gynae", "VIR", "NucMed", "Breast", "Cardiac"
 ];
 
-function PatternCard({ dp, discriminator }: { dp: DifferentialPattern; discriminator?: Doc<"discriminators"> | null }) {
+function PatternCard({ 
+  dp, 
+  discriminator,
+  discriminatorOpen,
+  setDiscriminatorOpen,
+  onViewImages
+}: { 
+  dp: DifferentialPattern; 
+  discriminator?: Doc<"discriminators"> | null;
+  discriminatorOpen?: boolean;
+  setDiscriminatorOpen?: (open: boolean) => void;
+  onViewImages?: () => void;
+}) {
   const [expanded, setExpanded] = useState(false);
   const meta = getCategoryMeta(dp.categoryAbbreviation);
   const highlightKey = `pattern_${dp._id}`;
@@ -144,14 +158,31 @@ function PatternCard({ dp, discriminator }: { dp: DifferentialPattern; discrimin
 
       {discriminator && (
         <div className="px-5 py-3 border-t border-gray-50 bg-slate-50/50">
-          <InlineDiscriminators discriminator={discriminator} />
+          <InlineDiscriminators 
+            discriminator={discriminator} 
+            externalOpen={discriminatorOpen}
+            setExternalOpen={setDiscriminatorOpen}
+            onViewImages={onViewImages}
+          />
         </div>
       )}
     </div>
   );
 }
 
-function MnemonicCard({ m, discriminator }: { m: Mnemonic; discriminator?: Doc<"discriminators"> | null }) {
+function MnemonicCard({ 
+  m, 
+  discriminator,
+  discriminatorOpen,
+  setDiscriminatorOpen,
+  onViewImages
+}: { 
+  m: Mnemonic; 
+  discriminator?: Doc<"discriminators"> | null;
+  discriminatorOpen?: boolean;
+  setDiscriminatorOpen?: (open: boolean) => void;
+  onViewImages?: () => void;
+}) {
   const [expanded, setExpanded] = useState(false);
   const meta = getCategoryMeta(m.categoryAbbreviation);
   const highlightKey = `mnemonic_${m._id}`;
@@ -239,14 +270,31 @@ function MnemonicCard({ m, discriminator }: { m: Mnemonic; discriminator?: Doc<"
 
       {discriminator && (
         <div className="px-5 py-3 border-t border-gray-50 bg-slate-50/50">
-          <InlineDiscriminators discriminator={discriminator} />
+          <InlineDiscriminators 
+            discriminator={discriminator} 
+            externalOpen={discriminatorOpen}
+            setExternalOpen={setDiscriminatorOpen}
+            onViewImages={onViewImages}
+          />
         </div>
       )}
     </div>
   );
 }
 
-function ChapmanCard({ c, discriminator }: { c: ChapmanACE; discriminator?: Doc<"discriminators"> | null }) {
+function ChapmanCard({ 
+  c, 
+  discriminator,
+  discriminatorOpen,
+  setDiscriminatorOpen,
+  onViewImages
+}: { 
+  c: ChapmanACE; 
+  discriminator?: Doc<"discriminators"> | null;
+  discriminatorOpen?: boolean;
+  setDiscriminatorOpen?: (open: boolean) => void;
+  onViewImages?: () => void;
+}) {
   const [expanded, setExpanded] = useState(false);
   const meta = getCategoryMeta(c.categoryAbbreviation);
   const highlightKey = `chapman_${c._id}`;
@@ -254,7 +302,7 @@ function ChapmanCard({ c, discriminator }: { c: ChapmanACE; discriminator?: Doc<
   return (
     <div className={`group rounded-2xl border ${meta.accentBorder} bg-white hover:shadow-xl transition-all duration-300 overflow-hidden flex flex-col`}>
       <div className={`h-1.5 w-full ${meta.accent}`} />
-      
+
       <div className="flex-1 flex flex-col">
         <div
           role="button"
@@ -295,7 +343,7 @@ function ChapmanCard({ c, discriminator }: { c: ChapmanACE; discriminator?: Doc<
               {c.families.map((f, i) => (
                 <div key={i} className="relative pl-4 border-l-2 border-slate-100">
                   <div className="absolute -left-[9px] top-0 w-4 h-4 rounded-full bg-white border-2 border-slate-200" />
-                  
+
                   <h4 className="text-[10px] font-black text-slate-400 uppercase tracking-widest mb-3 flex items-center gap-2">
                     {f.familyName}
                     <span className="h-px flex-1 bg-slate-100" />
@@ -318,7 +366,7 @@ function ChapmanCard({ c, discriminator }: { c: ChapmanACE; discriminator?: Doc<
                   </ul>
                 </div>
               ))}
-              
+
               {c.additionalNotes && (
                 <div className="mt-4 p-3 bg-amber-50/50 rounded-xl border border-amber-100/50 flex gap-2 items-start">
                   <Info className="w-3.5 h-3.5 text-amber-500 mt-0.5 shrink-0" />
@@ -334,7 +382,12 @@ function ChapmanCard({ c, discriminator }: { c: ChapmanACE; discriminator?: Doc<
 
       {discriminator && (
         <div className="px-5 py-4 border-t border-gray-50 bg-slate-50/50">
-          <InlineDiscriminators discriminator={discriminator} />
+          <InlineDiscriminators 
+            discriminator={discriminator} 
+            externalOpen={discriminatorOpen}
+            setExternalOpen={setDiscriminatorOpen}
+            onViewImages={onViewImages}
+          />
         </div>
       )}
     </div>
@@ -342,7 +395,8 @@ function ChapmanCard({ c, discriminator }: { c: ChapmanACE; discriminator?: Doc<
 }
 
 export function DifferentialsPage() {
-  const [activeTab, setActiveTab] = useState<"patterns" | "mnemonics" | "chapman">("patterns");
+  const [activeTab, setActiveTab] = useState<"highyield" | "patterns" | "mnemonics" | "chapman">("highyield");
+  const allHighYield = useQuery(api.highYield.getHighYieldClusters);
   const allPatterns = useQuery(api.differentialPatterns.list) as DifferentialPattern[] | undefined;
   const allMnemonics = useQuery(api.mnemonics.list) as Mnemonic[] | undefined;
   const allChapman = useQuery(api.chapman.list) as ChapmanACE[] | undefined;
@@ -360,6 +414,67 @@ export function DifferentialsPage() {
     sourceId: string;
     title: string;
   } | null>(null);
+
+  const [openDiscriminatorId, setOpenDiscriminatorId] = useState<string | null>(null);
+
+  // Text ingestion state
+  const [textTarget, setTextTarget] = useState<{
+    discriminatorId: Id<"discriminators">;
+    pattern: string;
+  } | null>(null);
+
+  const {
+    processText,
+    refineSuggestion,
+    approveSuggestion,
+    approveAll,
+    dismissSuggestion,
+    dismissAll,
+    reset: resetIngestion,
+    suggestions,
+    isProcessing: isTextProcessing,
+    error: textError,
+  } = useTextIngestion(textTarget?.discriminatorId ?? null);
+
+  const patchField = useMutation(api.discriminators.patchDifferentialField);
+
+  const handleTextDrop = useCallback(
+    (text: string, discriminator: Doc<"discriminators"> | undefined) => {
+      if (!discriminator) {
+        // No toast library — use alert as fallback
+        alert("No discriminator table for this pattern");
+        return;
+      }
+      setTextTarget({ discriminatorId: discriminator._id, pattern: discriminator.pattern });
+      // Small delay to ensure state is set before calling action
+      setTimeout(() => processText(text), 0);
+    },
+    [processText]
+  );
+
+  const handleTextModalClose = useCallback(() => {
+    setTextTarget(null);
+    resetIngestion();
+  }, [resetIngestion]);
+
+  const handleOverride = useCallback(
+    async (differentialIndex: number, field: string, value: string) => {
+      if (!textTarget) return;
+      await patchField({
+        id: textTarget.discriminatorId,
+        differentialIndex,
+        field,
+        value,
+      });
+    },
+    [textTarget, patchField]
+  );
+
+  // Get differential names for the override form
+  const textTargetDiscriminator = useMemo(() => {
+    if (!textTarget || !allDiscriminators) return null;
+    return allDiscriminators.find((d) => d._id === textTarget.discriminatorId) ?? null;
+  }, [textTarget, allDiscriminators]);
 
   // Batch image counts for each tab
   const patternIds = useMemo(() => allPatterns?.map((p) => p._id) ?? [], [allPatterns]);
@@ -477,6 +592,29 @@ export function DifferentialsPage() {
     return results;
   }, [allChapman, selectedCategory, searchQuery]);
 
+  const filteredHighYield = useMemo(() => {
+    if (!allHighYield) return [];
+    let results = allHighYield;
+    if (selectedCategory) results = results.filter((hy) => hy.category === selectedCategory);
+    if (searchQuery.trim()) {
+      const q = searchQuery.toLowerCase();
+      results = results.filter((hy) => {
+        const matchName = hy.clusterName.toLowerCase().includes(q);
+        if (matchName) return true;
+        if (hy.populatedData) {
+          const pd = hy.populatedData as any;
+          if (pd.pattern && pd.pattern.toLowerCase().includes(q)) return true;
+          if (pd.diagnosis && pd.diagnosis.toLowerCase().includes(q)) return true;
+          if (pd.top3 && pd.top3.some((t: string) => t.toLowerCase().includes(q))) return true;
+          if (pd.mnemonic && pd.mnemonic.toLowerCase().includes(q)) return true;
+          if (pd.differentials && pd.differentials.some((d: any) => d.condition.toLowerCase().includes(q))) return true;
+        }
+        return false;
+      });
+    }
+    return results;
+  }, [allHighYield, selectedCategory, searchQuery]);
+
   const groupedPatterns = useMemo(() => {
     const map = new Map<string, DifferentialPattern[]>();
     for (const dp of filteredPatterns) {
@@ -498,18 +636,34 @@ export function DifferentialsPage() {
     return entries;
   }, [filteredPatterns, groupBy]);
 
+  const groupedHighYield = useMemo(() => {
+    const map = new Map<string, typeof filteredHighYield>();
+    for (const hy of filteredHighYield) {
+      const arr = map.get(hy.category) || [];
+      arr.push(hy);
+      map.set(hy.category, arr);
+    }
+    const entries = Array.from(map.entries());
+    entries.sort((a, b) => {
+      const ai = CATEGORY_ORDER.indexOf(a[0]);
+      const bi = CATEGORY_ORDER.indexOf(b[0]);
+      return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
+    });
+    return entries;
+  }, [filteredHighYield]);
+
   const availableCategories = useMemo(() => {
-    const currentList = activeTab === "patterns" ? allPatterns : activeTab === "mnemonics" ? allMnemonics : allChapman;
+    const currentList = activeTab === "highyield" ? allHighYield : activeTab === "patterns" ? allPatterns : activeTab === "mnemonics" ? allMnemonics : allChapman;
     if (!currentList) return [];
-    const cats = Array.from(new Set(currentList.map((x: any) => x.categoryAbbreviation)));
+    const cats = Array.from(new Set(currentList.map((x: any) => x.categoryAbbreviation || x.category)));
     return cats.sort((a, b) => {
       const ai = CATEGORY_ORDER.indexOf(a);
       const bi = CATEGORY_ORDER.indexOf(b);
       return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
     });
-  }, [allPatterns, allMnemonics, allChapman, activeTab]);
+  }, [allPatterns, allMnemonics, allChapman, allHighYield, activeTab]);
 
-  if (allPatterns === undefined || allMnemonics === undefined || allChapman === undefined) {
+  if (allPatterns === undefined || allMnemonics === undefined || allChapman === undefined || allHighYield === undefined) {
     return (
       <div className="space-y-4">
         <div className="h-8 w-72 bg-gray-100 rounded animate-pulse" />
@@ -528,7 +682,9 @@ export function DifferentialsPage() {
           </h1>
           <p className="text-sm font-medium text-gray-500 mt-1.5 flex items-center gap-2">
             <span className="w-1.5 h-1.5 rounded-full bg-emerald-500 animate-pulse" />
-            {activeTab === "patterns"
+            {activeTab === "highyield"
+              ? `Exploring 60 Highest-Yield Case Clusters`
+              : activeTab === "patterns"
               ? `Exploring ${allPatterns.length} O'Brien High-Yield Patterns`
               : activeTab === "mnemonics"
               ? `Mastering ${allMnemonics.length} Viva Mnemonics`
@@ -538,6 +694,7 @@ export function DifferentialsPage() {
 
         <div className="flex bg-slate-100 p-1.5 rounded-2xl w-fit shadow-inner border border-slate-200">
           {[
+            { id: "highyield", label: "Highest Yield", icon: Target },
             { id: "patterns", label: "Top 3 Patterns", icon: ListTree },
             { id: "mnemonics", label: "Mnemonics", icon: Lightbulb },
             { id: "chapman", label: "ACE Differentials", icon: BookOpen }
@@ -565,7 +722,9 @@ export function DifferentialsPage() {
             <input
               type="text"
               placeholder={
-                activeTab === "patterns" 
+                activeTab === "highyield"
+                  ? "Search high-yield clusters..."
+                  : activeTab === "patterns" 
                   ? "Search O'Brien patterns..." 
                   : activeTab === "mnemonics" 
                   ? "Search viva mnemonics..." 
@@ -634,6 +793,89 @@ export function DifferentialsPage() {
       </div>
 
       <div className="relative">
+        {activeTab === "highyield" && (
+          <div className="space-y-12">
+            {groupedHighYield.map(([groupName, clusters]) => (
+              <div key={groupName} className="animate-in fade-in duration-500">
+                <div className="flex items-end gap-3 mb-6 border-b border-slate-100 pb-2">
+                  <h2 className="text-xl font-black text-slate-900 uppercase tracking-tight">{groupName}</h2>
+                  <span className="text-[10px] font-black bg-slate-100 text-slate-500 px-2 py-1 rounded-md mb-1.5">
+                    {clusters.length} CLUSTERS
+                  </span>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
+                  {clusters
+                    .sort((a, b) => a.sortOrder - b.sortOrder)
+                    .map((hy) => {
+                      if (!hy.populatedData) return null;
+
+                      if (hy.sourceType === "pattern") {
+                        const dp = hy.populatedData as DifferentialPattern;
+                        const discriminator = obrienMap.get(dp.obrienCaseNumber) || patternMap.get(dp.pattern.toLowerCase().trim());
+                        return (
+                          <div key={hy._id} className="relative">
+                            <div className="absolute -top-3 left-4 z-10 bg-teal-500 text-white px-2 py-0.5 rounded shadow-sm text-[10px] font-black uppercase tracking-widest border border-teal-600">
+                              {hy.clusterName}
+                            </div>
+                            <div className="pt-2">
+                              <ImageDropZone
+                                sourceType="differentialPattern"
+                                sourceId={dp._id}
+                                imageCount={patternImageCounts?.[dp._id] ?? 0}
+                                onViewImages={() => handleViewImages("differentialPattern", dp._id, dp.pattern)}
+                                onTextDrop={(text) => handleTextDrop(text, discriminator ?? undefined)}
+                              >
+                                <PatternCard 
+                                  dp={dp} 
+                                  discriminator={discriminator} 
+                                  discriminatorOpen={openDiscriminatorId === dp._id}
+                                  setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? dp._id : null)}
+                                  onViewImages={() => handleViewImages("differentialPattern", dp._id, dp.pattern)}
+                                />
+                              </ImageDropZone>
+                            </div>
+                          </div>
+                        );
+                      } else {
+                        const m = hy.populatedData as Mnemonic;
+                        const discriminator = mnemonicMap.get(m.mnemonic) || patternMap.get(m.pattern.toLowerCase().trim());
+                        return (
+                          <div key={hy._id} className="relative">
+                            <div className="absolute -top-3 left-4 z-10 bg-indigo-500 text-white px-2 py-0.5 rounded shadow-sm text-[10px] font-black uppercase tracking-widest border border-indigo-600">
+                              {hy.clusterName}
+                            </div>
+                            <div className="pt-2">
+                              <ImageDropZone
+                                sourceType="mnemonic"
+                                sourceId={m._id}
+                                imageCount={mnemonicImageCounts?.[m._id] ?? 0}
+                                onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
+                              >
+                                <MnemonicCard 
+                                  m={m} 
+                                  discriminator={discriminator} 
+                                  discriminatorOpen={openDiscriminatorId === m._id}
+                                  setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? m._id : null)}
+                                  onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
+                                />
+                              </ImageDropZone>
+                            </div>
+                          </div>
+                        );
+                      }
+                    })}
+                </div>
+              </div>
+            ))}
+            {groupedHighYield.length === 0 && (
+              <div className="text-center py-24 bg-white rounded-[3rem] border-2 border-dashed border-slate-100">
+                <Target className="w-12 h-12 text-slate-200 mx-auto mb-4" />
+                <p className="text-lg font-bold text-slate-400">No matching high-yield clusters found</p>
+              </div>
+            )}
+          </div>
+        )}
+
         {activeTab === "patterns" && (
           <div className="space-y-12">
             {groupedPatterns.map(([groupName, patterns]) => (
@@ -656,8 +898,15 @@ export function DifferentialsPage() {
                           sourceId={dp._id}
                           imageCount={patternImageCounts?.[dp._id] ?? 0}
                           onViewImages={() => handleViewImages("differentialPattern", dp._id, dp.pattern)}
+                          onTextDrop={(text) => handleTextDrop(text, discriminator ?? undefined)}
                         >
-                          <PatternCard dp={dp} discriminator={discriminator} />
+                          <PatternCard 
+                            dp={dp} 
+                            discriminator={discriminator} 
+                            discriminatorOpen={openDiscriminatorId === dp._id}
+                            setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? dp._id : null)}
+                            onViewImages={() => handleViewImages("differentialPattern", dp._id, dp.pattern)}
+                          />
                         </ImageDropZone>
                       );
                     })}
@@ -687,7 +936,13 @@ export function DifferentialsPage() {
                     imageCount={mnemonicImageCounts?.[m._id] ?? 0}
                     onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
                   >
-                    <MnemonicCard m={m} discriminator={discriminator} />
+                    <MnemonicCard 
+                      m={m} 
+                      discriminator={discriminator} 
+                      discriminatorOpen={openDiscriminatorId === m._id}
+                      setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? m._id : null)}
+                      onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
+                    />
                   </ImageDropZone>
                 );
               })}
@@ -719,7 +974,13 @@ export function DifferentialsPage() {
                     imageCount={chapmanImageCounts?.[c._id] ?? 0}
                     onViewImages={() => handleViewImages("chapman", c._id, c.pattern)}
                   >
-                    <ChapmanCard c={c} discriminator={discriminator} />
+                    <ChapmanCard 
+                      c={c} 
+                      discriminator={discriminator} 
+                      discriminatorOpen={openDiscriminatorId === c._id}
+                      setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? c._id : null)}
+                      onViewImages={() => handleViewImages("chapman", c._id, c.pattern)}
+                    />
                   </ImageDropZone>
                 );
               })}
@@ -743,6 +1004,19 @@ export function DifferentialsPage() {
         images={viewerImages ?? []}
         isLoading={viewerOpen && viewerImages === undefined}
         title={viewerTarget?.title ?? ""}
+        hasDiscriminator={!!(
+          viewerTarget && (
+            (viewerTarget.sourceType === "differentialPattern" && (allPatterns?.some(p => p._id === viewerTarget.sourceId && (obrienMap.get(p.obrienCaseNumber) || patternMap.get(p.pattern.toLowerCase().trim()))))) ||
+            (viewerTarget.sourceType === "mnemonic" && (allMnemonics?.some(m => m._id === viewerTarget.sourceId && (mnemonicMap.get(m.mnemonic) || patternMap.get(m.pattern.toLowerCase().trim()))))) ||
+            (viewerTarget.sourceType === "chapman" && (allChapman?.some(c => c._id === viewerTarget.sourceId && patternMap.get(c.pattern.toLowerCase().trim()))))
+          )
+        )}
+        onViewDiscriminators={() => {
+          if (viewerTarget) {
+            setOpenDiscriminatorId(viewerTarget.sourceId);
+            setViewerOpen(false);
+          }
+        }}
       />
     </div>
   );

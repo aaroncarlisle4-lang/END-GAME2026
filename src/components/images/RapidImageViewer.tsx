@@ -11,17 +11,21 @@ import {
   Trash2,
   Loader2,
   ImageOff,
+  GitBranch,
+  Sparkles,
 } from "lucide-react";
 import { useMutation } from "convex/react";
 import { api } from "../../../convex/_generated/api";
 import type { Id } from "../../../convex/_generated/dataModel";
 
 interface StudyImage {
-  _id: Id<"studyImages">;
+  _id: string;
   url?: string;
   caption?: string;
   caseGroup?: string;
   attribution?: string;
+  _source?: "individual" | "manifest";
+  _manifestId?: string;
 }
 
 interface RapidImageViewerProps {
@@ -31,6 +35,8 @@ interface RapidImageViewerProps {
   isLoading?: boolean;
   initialIndex?: number;
   title: string;
+  onViewDiscriminators?: () => void;
+  hasDiscriminator?: boolean;
 }
 
 interface CaseCluster {
@@ -46,9 +52,12 @@ export function RapidImageViewer({
   isLoading = false,
   initialIndex = 0,
   title,
+  onViewDiscriminators,
+  hasDiscriminator = false,
 }: RapidImageViewerProps) {
   const deleteImage = useMutation(api.studyImages.deleteImage);
   const deleteStack = useMutation(api.studyImages.deleteStack);
+  const deleteManifest = useMutation(api.studyImages.deleteManifest);
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [dragOverCenter, setDragOverCenter] = useState(false);
 
@@ -234,14 +243,22 @@ export function RapidImageViewer({
   const handleDelete = async () => {
     if (!currentCase) return;
 
+    // Check if this case is manifest-sourced (all images in a manifest share the same _manifestId)
+    const manifestId = currentCase.images[0]?._manifestId;
+    const isManifest = currentCase.images[0]?._source === "manifest" && manifestId;
+
     // If current item is a stack (multiple slices), delete the entire stack
     if (currentCase.images.length > 1) {
       if (!confirmDelete) {
         setConfirmDelete(true);
         return;
       }
-      const ids = currentCase.images.map((img) => img._id);
-      await deleteStack({ ids });
+      if (isManifest) {
+        await deleteManifest({ id: manifestId as Id<"studyManifests"> });
+      } else {
+        const ids = currentCase.images.map((img) => img._id as Id<"studyImages">);
+        await deleteStack({ ids });
+      }
       setConfirmDelete(false);
       // Move to next case or close if none left
       if (cases.length <= 1) {
@@ -254,7 +271,11 @@ export function RapidImageViewer({
     } else {
       // Single image — delete directly
       if (!currentImage) return;
-      await deleteImage({ id: currentImage._id });
+      if (isManifest) {
+        await deleteManifest({ id: manifestId as Id<"studyManifests"> });
+      } else {
+        await deleteImage({ id: currentImage._id as Id<"studyImages"> });
+      }
       if (images.length <= 1) {
         onClose();
       }
@@ -335,6 +356,16 @@ export function RapidImageViewer({
                 </div>
 
                 <div className="flex items-center gap-2 shrink-0">
+                  {hasDiscriminator && onViewDiscriminators && (
+                    <button
+                      onClick={onViewDiscriminators}
+                      className="flex items-center gap-2 px-3 py-1.5 bg-teal-600 hover:bg-teal-500 text-white rounded-lg shadow-lg shadow-teal-900/40 transition-all active:scale-95 mr-2"
+                    >
+                      <GitBranch className="w-3.5 h-3.5" />
+                      <span className="text-[10px] font-black uppercase tracking-widest">Compare</span>
+                      <Sparkles className="w-2.5 h-2.5 text-teal-200" />
+                    </button>
+                  )}
                   <button
                     onClick={() => setAutoPlay((p) => !p)}
                     className={`p-1.5 rounded-lg transition-colors ${

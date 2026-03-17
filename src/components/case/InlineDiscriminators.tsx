@@ -13,6 +13,7 @@ interface Props {
   discriminator: Doc<"discriminators">;
   externalOpen?: boolean;
   setExternalOpen?: (open: boolean) => void;
+  onViewImages?: () => void;
 }
 
 // ── Helpers ──
@@ -177,7 +178,7 @@ export function FormattedMedicalText({ text, isCorrect }: { text: string; isCorr
   );
 }
 
-export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen }: Props) {
+export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen, onViewImages }: Props) {
   const [internalOpen, setInternalOpen] = useState(false);
   
   const open = externalOpen !== undefined ? (externalOpen as boolean) : internalOpen;
@@ -391,6 +392,16 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
                   </div>
 
                   <div className="hidden lg:flex items-center gap-4 relative z-10">
+                    <button
+                      onClick={() => {
+                        setOpen(false);
+                        if (onViewImages) onViewImages();
+                      }}
+                      className="flex items-center gap-2 px-4 py-2 rounded-xl bg-teal-500/20 hover:bg-teal-500/30 text-teal-400 text-[11px] font-black uppercase tracking-widest transition-all border border-teal-500/20 shadow-inner"
+                    >
+                      <MonitorDot className="w-4 h-4" />
+                      {onViewImages ? "Image Viewer" : "DICOM Viewer"}
+                    </button>
                     {discriminator.mnemonicRef && (
                       <div className="bg-white/5 border border-white/10 rounded-xl px-4 py-2 flex flex-col items-end">
                         <span className="text-[9px] font-black text-slate-500 uppercase tracking-widest mb-0.5">Acronym Sequence</span>
@@ -611,20 +622,11 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
 
                 {/* ── Footer ── */}
                 <div className="px-8 py-4 bg-white border-t border-slate-100 flex items-center justify-between flex-shrink-0">
-                  <div className="flex items-center gap-4">
-                    <button
-                      onClick={() => setOpen(false)}
-                      className="flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-[11px] font-black uppercase tracking-widest transition-all"
-                    >
-                      <MonitorDot className="w-4 h-4" />
-                      Back to DICOM Viewer
-                    </button>
-                    <div className="flex items-center gap-2">
-                      <div className="w-2 h-2 rounded-full bg-teal-500 animate-pulse" />
-                      <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">
-                        Radiology AI-Enhanced Comparison Grid
-                      </span>
-                    </div>
+                  <div className="flex items-center gap-2">
+                    <div className="w-2 h-2 rounded-full bg-teal-500 animate-pulse" />
+                    <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">
+                      Radiology AI-Enhanced Comparison Grid
+                    </span>
                   </div>
                   <button
                     onClick={() => setOpen(false)}
