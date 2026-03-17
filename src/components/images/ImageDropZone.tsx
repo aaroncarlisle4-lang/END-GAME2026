@@ -1,5 +1,5 @@
 import { useState, useCallback, useMemo, useEffect, type DragEvent, type ReactNode } from "react";
-import { Upload, Camera, Layers, Loader2, Bookmark, FileText } from "lucide-react";
+import { Upload, Camera, Layers, Loader2, Bookmark, FileText, X } from "lucide-react";
 import { useImageUpload } from "../../hooks/useImageUpload";
 
 /**
