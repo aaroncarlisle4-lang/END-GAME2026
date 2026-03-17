@@ -157,14 +157,16 @@ export function ImageDropZone({
   }, [parsedStackUrls]);
 
   const handleStackImport = async () => {
-    if (parsedStackUrls.length === 0 || !stackLabel.trim()) return;
+    if (parsedStackUrls.length === 0) return;
+    
+    // Default label if none provided
+    const finalLabel = stackLabel.trim() || "Image Stack";
+    const bucket = selectedDifferential || "General";
     
     // Unique caseGroup per import, but prefixed with differential for "Bucketing"
-    const uniqueGroup = selectedDifferential 
-      ? `${selectedDifferential} - ${stackLabel.trim()} [${Date.now()}]`
-      : `${stackLabel.trim()} [${Date.now()}]`;
+    const uniqueGroup = `${bucket} - ${finalLabel} [${Date.now()}]`;
 
-    await addByUrlBatch(parsedStackUrls, uniqueGroup, stackLabel.trim(), stackAttribution || undefined);
+    await addByUrlBatch(parsedStackUrls, uniqueGroup, finalLabel, stackAttribution || undefined);
     setStackUrls("");
     setStackLabel("");
     setStackAttribution("");
@@ -248,112 +250,101 @@ export function ImageDropZone({
       {/* Stack import popover */}
       {showStackImport && (
         <div
-          className="absolute bottom-10 right-2 z-20 bg-white rounded-xl shadow-xl border border-slate-200 p-3 w-80"
+          className="absolute bottom-10 right-2 z-20 bg-white rounded-2xl shadow-2xl border border-slate-200 p-4 w-80 animate-in fade-in zoom-in duration-200"
           onClick={(e) => e.stopPropagation()}
         >
-          <p className="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">
-            Import Image Stack
-          </p>
+          <div className="flex items-center justify-between mb-4">
+            <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest">
+              Import Image Stack
+            </p>
+            <button 
+              onClick={() => setShowStackImport(false)}
+              className="p-1 hover:bg-slate-100 rounded-full text-slate-400 transition-colors"
+            >
+              <X className="w-4 h-4" />
+            </button>
+          </div>
 
-          {differentialOptions.length > 0 && (
-            <div className="mb-3">
-              <label className="block text-[10px] font-black text-teal-600 uppercase tracking-widest mb-1.5">
-                Map to Differential
+          <div className="mb-4">
+            <label className="block text-[10px] font-black text-teal-600 uppercase tracking-widest mb-2">
+              Map to Differential (Required)
+            </label>
+            <div className="flex flex-wrap gap-1.5">
+              <button
+                onClick={() => setSelectedDifferential("")}
+                className={`px-3 py-1.5 rounded-lg text-[10px] font-bold transition-all border ${
+                  !selectedDifferential
+                    ? "bg-slate-900 border-slate-900 text-white shadow-md"
+                    : "bg-slate-50 border-slate-200 text-slate-500 hover:bg-slate-100"
+                }`}
+              >
+                General
+              </button>
+              {differentialOptions.map((opt) => (
+                <button
+                  key={opt}
+                  onClick={() => setSelectedDifferential(opt)}
+                  className={`px-3 py-1.5 rounded-lg text-[10px] font-bold transition-all border ${
+                    selectedDifferential === opt
+                      ? "bg-teal-500 border-teal-600 text-white shadow-md"
+                      : "bg-slate-50 border-slate-200 text-slate-500 hover:bg-slate-100"
+                  }`}
+                >
+                  {opt}
+                </button>
+              ))}
+            </div>
+          </div>
+
+          <div className="space-y-3">
+            <div>
+              <label className="block text-[10px] font-semibold text-slate-500 mb-1">
+                Paste slice URLs (Required)
               </label>
-              <div className="flex flex-wrap gap-1">
-                {differentialOptions.map((opt) => (
-                  <button
-                    key={opt}
-                    onClick={() => setSelectedDifferential(opt)}
-                    className={`px-2 py-1 rounded text-[9px] font-bold transition-all border ${
-                      selectedDifferential === opt
-                        ? "bg-teal-500 border-teal-600 text-white shadow-sm"
-                        : "bg-slate-50 border-slate-200 text-slate-500 hover:bg-slate-100"
-                    }`}
-                  >
-                    {opt}
-                  </button>
-                ))}
+              <textarea
+                value={stackUrls}
+                onChange={(e) => handleStackUrlsChange(e.target.value)}
+                placeholder={"Paste URLs here..."}
+                rows={4}
+                className="w-full text-xs px-3 py-2 rounded-xl border border-slate-200 focus:ring-2 focus:ring-teal-500/20 focus:border-teal-400 font-mono resize-none"
+                autoFocus
+              />
+            </div>
+
+            <div className="grid grid-cols-2 gap-2">
+              <div>
+                <label className="block text-[10px] font-semibold text-slate-500 mb-1">
+                  Label (Optional)
+                </label>
+                <input
+                  type="text"
+                  value={stackLabel}
+                  onChange={(e) => setStackLabel(e.target.value)}
+                  placeholder="e.g. Axial CT"
+                  className="w-full text-xs px-3 py-2 rounded-lg border border-slate-200 focus:border-teal-400"
+                />
+              </div>
+              <div>
+                <label className="block text-[10px] font-semibold text-slate-500 mb-1">
+                  Credit (Optional)
+                </label>
+                <input
+                  type="text"
+                  value={stackAttribution}
+                  onChange={(e) => setStackAttribution(e.target.value)}
+                  placeholder="Courtesy of..."
+                  className="w-full text-xs px-3 py-2 rounded-lg border border-slate-200 focus:border-teal-400"
+                />
               </div>
             </div>
-          )}
-
-          <label className="block text-[10px] font-semibold text-slate-500 mb-1">
-            Stack Label
-          </label>
-          <input
-            type="text"
-            value={stackLabel}
-            onChange={(e) => setStackLabel(e.target.value)}
-            placeholder="e.g. CT Brain Axial"
-            className="w-full text-xs px-3 py-2 rounded-lg border border-slate-200 focus:ring-2 focus:ring-teal-500/20 focus:border-teal-400 mb-2"
-            autoFocus
-          />
-
-          {/* Bookmarklet tip */}
-          <div className="mb-2 p-2 bg-teal-50 rounded-lg border border-teal-100">
-            <p className="text-[10px] text-teal-700">
-              <Bookmark className="w-3 h-3 inline mr-1" />
-              <strong>One-click import:</strong> Use the{" "}
-              <span className="font-mono bg-teal-100 px-1 rounded">RadQuiz Grab</span>{" "}
-              bookmarklet on any Radiopaedia case page. It copies all slice URLs to your clipboard — just paste here.
-            </p>
           </div>
-
-          <label className="block text-[10px] font-semibold text-slate-500 mb-1">
-            Paste image URLs (comma or newline separated)
-          </label>
-          <textarea
-            value={stackUrls}
-            onChange={(e) => handleStackUrlsChange(e.target.value)}
-            placeholder={"Use bookmarklet on Radiopaedia, then paste here.\nOr paste URLs manually, comma or newline separated."}
-            rows={5}
-            className="w-full text-xs px-3 py-2 rounded-lg border border-slate-200 focus:ring-2 focus:ring-teal-500/20 focus:border-teal-400 font-mono resize-y"
-          />
-
-          <div className="mt-2 space-y-1">
-            {parsedStackUrls.length > 0 && (
-              <p className="text-[10px] text-teal-600 font-medium">
-                {parsedStackUrls.length} valid URL{parsedStackUrls.length !== 1 ? "s" : ""} detected
-              </p>
-            )}
-            {nonImageUrls.length > 0 && (
-              <p className="text-[10px] text-amber-600 font-medium bg-amber-50 px-2 py-1 rounded">
-                {nonImageUrls.length} URL{nonImageUrls.length !== 1 ? "s" : ""} don't look like direct image links
-              </p>
-            )}
-          </div>
-
-          <label className="block text-[10px] font-semibold text-slate-500 mb-1 mt-2">
-            Credit (paste from RQ Credit bookmarklet)
-          </label>
-          <input
-            type="text"
-            value={stackAttribution}
-            onChange={(e) => setStackAttribution(e.target.value)}
-            placeholder="Case courtesy of..."
-            className="w-full text-xs px-3 py-2 rounded-lg border border-slate-200 focus:ring-2 focus:ring-teal-500/20 focus:border-teal-400"
-          />
-          {stackAttribution && (
-            <p className="text-[10px] text-teal-600 mt-1 italic">{stackAttribution}</p>
-          )}
-
-          {error && (
-            <p className="text-[10px] text-red-600 font-medium bg-red-50 px-2 py-1 rounded mt-1">
-              {error}
-            </p>
-          )}
 
           <button
             onClick={handleStackImport}
-            disabled={
-              parsedStackUrls.length === 0 || !stackLabel.trim() || isUploading
-            }
-            className="w-full mt-2 px-3 py-2 bg-teal-500 text-white text-xs font-bold rounded-lg hover:bg-teal-600 disabled:opacity-40 transition-colors"
+            disabled={parsedStackUrls.length === 0 || isUploading}
+            className="w-full mt-4 px-4 py-3 bg-slate-900 text-white text-xs font-black uppercase tracking-widest rounded-xl hover:bg-black disabled:opacity-40 transition-all shadow-lg active:scale-95"
           >
-            {isUploading
-              ? "Importing..."
-              : `Import ${parsedStackUrls.length} Image${parsedStackUrls.length !== 1 ? "s" : ""}`}
+            {isUploading ? "Importing..." : `Import ${parsedStackUrls.length} Slices`}
           </button>
         </div>
       )}
@@ -361,12 +352,20 @@ export function ImageDropZone({
       {/* Text paste popover */}
       {showTextPaste && onTextDrop && (
         <div
-          className="absolute bottom-10 right-2 z-20 bg-white rounded-xl shadow-xl border border-violet-200 p-3 w-80"
+          className="absolute bottom-10 right-2 z-20 bg-white rounded-xl shadow-xl border border-violet-200 p-4 w-80 animate-in fade-in zoom-in duration-200"
           onClick={(e) => e.stopPropagation()}
         >
-          <p className="text-[10px] font-bold text-violet-500 uppercase tracking-wider mb-2">
-            Paste Textbook Text
-          </p>
+          <div className="flex items-center justify-between mb-4">
+            <p className="text-[10px] font-black text-violet-500 uppercase tracking-widest">
+              Paste Textbook Text
+            </p>
+            <button 
+              onClick={() => setShowTextPaste(false)}
+              className="p-1 hover:bg-violet-50 rounded-full text-violet-400 transition-colors"
+            >
+              <X className="w-4 h-4" />
+            </button>
+          </div>
           <textarea
             value={pasteText}
             onChange={(e) => setPasteText(e.target.value)}
@@ -399,12 +398,20 @@ export function ImageDropZone({
       {/* URL import popover */}
       {showUrlInput && (
         <div
-          className="absolute bottom-10 right-2 z-20 bg-white rounded-xl shadow-xl border border-slate-200 p-3 w-72"
+          className="absolute bottom-10 right-2 z-20 bg-white rounded-2xl shadow-2xl border border-slate-200 p-4 w-72 animate-in fade-in zoom-in duration-200"
           onClick={(e) => e.stopPropagation()}
         >
-          <p className="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">
-            Paste Image URL
-          </p>
+          <div className="flex items-center justify-between mb-4">
+            <p className="text-[10px] font-black text-slate-400 uppercase tracking-widest">
+              Import Image URL
+            </p>
+            <button 
+              onClick={() => setShowUrlInput(false)}
+              className="p-1 hover:bg-slate-100 rounded-full text-slate-400 transition-colors"
+            >
+              <X className="w-4 h-4" />
+            </button>
+          </div>
 
           {differentialOptions.length > 0 && (
             <div className="mb-3">

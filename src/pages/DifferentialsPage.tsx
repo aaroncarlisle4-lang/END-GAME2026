@@ -102,12 +102,13 @@ function PatternCard({
           </div>
 
           <div className="mt-3 space-y-1.5">
-            {dp.top3.map((dx, i) => (
+            {(expanded ? [...dp.top3, ...dp.additional] : dp.top3).map((dx, i) => (
               <div key={i} className="flex items-start gap-2">
                 <span className={`shrink-0 w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-bold ${
                   i === 0 ? "bg-amber-100 text-amber-700" :
                   i === 1 ? "bg-slate-100 text-slate-600" :
-                  "bg-orange-50 text-orange-600"
+                  i === 2 ? "bg-orange-50 text-orange-600" :
+                  "bg-blue-50 text-blue-600"
                 }`}>
                   {i + 1}
                 </span>
@@ -139,19 +140,6 @@ function PatternCard({
                 <HighlightableText id={highlightKey} text={dp.diagnosis} className="text-sm font-bold text-gray-900" />
               </KnowledgeTrigger>
             </div>
-
-            {dp.additional.length > 0 && (
-              <div>
-                <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">Extended Differentials</p>
-                <div className="flex flex-wrap gap-1.5 mt-1">
-                  {dp.additional.map((a, i) => (
-                    <KnowledgeTrigger key={i} query={a}>
-                      <HighlightableText id={highlightKey} text={a} className="text-[11px] bg-slate-50 text-slate-600 px-2 py-1 rounded-md border border-slate-100 font-medium" />
-                    </KnowledgeTrigger>
-                  ))}
-                </div>
-              </div>
-            )}
           </div>
         )}
       </div>

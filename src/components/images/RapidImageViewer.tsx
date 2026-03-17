@@ -480,9 +480,12 @@ export function RapidImageViewer({
 
               {/* Main content: sidebar + image */}
               <div className="flex-1 flex min-h-0">
-                {/* Bucket Navigation Layer (Vertical Strip) */}
+                {/* Bucket Navigation Layer (Vertical Strip - Now wider for full text) */}
                 {buckets.length > 1 && (
-                  <div className="w-12 shrink-0 bg-slate-900 border-r border-slate-800 flex flex-col items-center py-4 gap-4 overflow-y-auto scrollbar-none">
+                  <div className="w-48 shrink-0 bg-slate-900 border-r border-slate-800 flex flex-col py-4 gap-1 overflow-y-auto scrollbar-none">
+                    <div className="px-4 mb-2">
+                      <p className="text-[10px] font-black text-slate-500 uppercase tracking-[0.2em]">Differential</p>
+                    </div>
                     {buckets.map((bucket, idx) => (
                       <button
                         key={bucket.name}
@@ -492,20 +495,16 @@ export function RapidImageViewer({
                           setSliceIndex(0);
                           setExpanded(false);
                         }}
-                        className={`group relative w-8 h-8 rounded-xl flex items-center justify-center transition-all ${
+                        className={`group relative px-4 py-3 flex items-center gap-3 transition-all ${
                           activeBucketIndex === idx
-                            ? "bg-teal-500 text-white shadow-lg shadow-teal-500/20"
-                            : "bg-slate-800 text-slate-500 hover:bg-slate-700 hover:text-slate-300"
+                            ? "bg-teal-500/10 border-r-4 border-teal-500"
+                            : "hover:bg-slate-800/50"
                         }`}
-                        title={bucket.name}
                       >
-                        <span className="text-[10px] font-black uppercase">
-                          {bucket.name.charAt(0)}
-                        </span>
-                        {/* Tooltip on hover */}
-                        <div className="absolute left-full ml-2 px-2 py-1 bg-slate-800 text-white text-[9px] font-bold uppercase tracking-widest rounded whitespace-nowrap opacity-0 group-hover:opacity-100 pointer-events-none transition-opacity z-[80] shadow-xl border border-slate-700">
+                        <div className={`w-2 h-2 rounded-full shrink-0 ${activeBucketIndex === idx ? 'bg-teal-500 shadow-[0_0_8px_rgba(20,184,166,0.8)]' : 'bg-slate-700'}`} />
+                        <span className={`text-[11px] font-black uppercase tracking-tight text-left leading-tight ${activeBucketIndex === idx ? 'text-white' : 'text-slate-500 group-hover:text-slate-300'}`}>
                           {bucket.name}
-                        </div>
+                        </span>
                       </button>
                     ))}
                   </div>
@@ -515,14 +514,14 @@ export function RapidImageViewer({
                 {cases.length > 0 && (
                   <div
                     ref={sidebarRef}
-                    className="w-32 shrink-0 bg-slate-800/60 border-r border-slate-700/50 overflow-y-auto py-2 px-2 flex flex-col gap-2"
+                    className="w-40 shrink-0 bg-slate-800/40 border-r border-slate-700/30 overflow-y-auto py-2 px-2 flex flex-col gap-2"
                   >
                     {/* Bucket Caption */}
-                    <div className="px-1 py-1">
-                      <p className="text-[8px] font-black text-teal-500 uppercase tracking-widest leading-tight">
-                        FOLDER:
+                    <div className="px-2 py-2 mb-2 bg-slate-900/40 rounded-xl border border-white/5">
+                      <p className="text-[8px] font-black text-teal-500 uppercase tracking-widest leading-tight mb-1">
+                        VIEWING:
                       </p>
-                      <p className="text-[10px] font-bold text-slate-300 leading-tight line-clamp-2">
+                      <p className="text-[11px] font-black text-white leading-snug">
                         {activeBucket.name}
                       </p>
                     </div>
@@ -588,7 +587,7 @@ export function RapidImageViewer({
                 {/* Image area — fills remaining space */}
                 <div
                   ref={imageAreaRef}
-                  className={`flex-1 relative flex items-center justify-center min-h-0 min-w-0 p-4 transition-colors ${
+                  className={`flex-1 relative flex items-center justify-center min-h-0 min-w-0 p-2 transition-colors ${
                     dragOverCenter ? "bg-teal-500/5 ring-2 ring-inset ring-teal-400/20" : ""
                   }`}
                   onDragOver={(e) => {
