@@ -1,7 +1,13 @@
-import { useState, useMemo, Fragment } from "react";
+import { useState, useMemo, Fragment, useRef } from "react";
 import { Dialog, DialogPanel, DialogTitle, Transition, TransitionChild } from "@headlessui/react";
-import type { Doc } from "../../../convex/_generated/dataModel";
-import { GitBranch, X, CheckCircle2, AlertTriangle, Fingerprint, MapPin, Activity, UserSquare2, Info, Sparkles } from "lucide-react";
+import { useMutation } from "convex/react";
+import { api } from "../../../convex/_generated/api";
+import type { Doc, Id } from "../../../convex/_generated/dataModel";
+import { 
+  GitBranch, X, CheckCircle2, AlertTriangle, Fingerprint, MapPin, 
+  Activity, UserSquare2, Info, Sparkles, Edit2, Save, Type, 
+  Highlighter, Underline as UnderlineIcon, Check, RotateCcw
+} from "lucide-react";
 
 interface Props {
   discriminator: Doc<"discriminators">;
@@ -9,48 +15,61 @@ interface Props {
 
 // ── Helpers ──
 
-const ROW_CONFIG: Record<string, { label: string; icon: any; color: string; bg: string; aliases: string[] }> = {
+const ROW_CONFIG: Record<string, { label: string; icon: any; color: string; bg: string; aliases: string[]; dbField: string }> = {
   dominantImagingFactor: { 
     label: "DOMINANT IMAGING FACTOR", 
     icon: Fingerprint, 
     color: "text-blue-700",
     bg: "bg-blue-50",
-    aliases: ["dominantImagingFinding", "keyImagingPattern"]
+    aliases: ["dominantImagingFinding", "keyImagingPattern"],
+    dbField: "dominantImagingFinding"
   },
   distributionLocation: { 
     label: "DISTRIBUTION & LOCATION", 
     icon: MapPin, 
     color: "text-emerald-700",
     bg: "bg-emerald-50",
-    aliases: ["distribution"]
+    aliases: ["distribution"],
+    dbField: "distributionLocation"
   },
   demographicsClinicalContext: { 
     label: "DEMOGRAPHICS & CLINICAL", 
     icon: UserSquare2, 
     color: "text-purple-700",
     bg: "bg-purple-50",
-    aliases: ["clinicalContext"]
+    aliases: ["clinicalContext"],
+    dbField: "demographicsClinicalContext"
   },
   associatedFindings: { 
     label: "ASSOCIATED FINDINGS", 
     icon: Activity, 
     color: "text-amber-700",
     bg: "bg-amber-50",
-    aliases: []
+    aliases: [],
+    dbField: "associatedFindings"
   },
   keyDiscriminatingFactors: { 
     label: "KEY DISCRIMINATING FACTORS", 
     icon: CheckCircle2, 
     color: "text-teal-700",
     bg: "bg-teal-50",
-    aliases: ["discriminatingKeyFeature", "keyDiscriminator"]
+    aliases: ["discriminatingKeyFeature", "keyDiscriminator"],
+    dbField: "discriminatingKeyFeature"
+  },
+  complicationsSeriousAlternatives: {
+    label: "COMPLICATIONS & ALTS",
+    icon: AlertTriangle,
+    color: "text-rose-700",
+    bg: "bg-rose-50",
+    aliases: [],
+    dbField: "complicationsSeriousAlternatives"
   },
 };
 
 /**
  * Intelligent medical text parser for rich formatting
  */
-function FormattedMedicalText({ text, isCorrect }: { text: string; isCorrect: boolean }) {
+export function FormattedMedicalText({ text, isCorrect }: { text: string; isCorrect: boolean }) {
   // Regex for keywords that deserve highlighting (no capturing groups to avoid split double-splicing)
   const highlights = {
     critical: /\b(?:MALIGNANT|CANCER|CARCINOMA|SERIOUS|URGENT|ACUTE|EMERGENCY|DEATH|FATAL)\b/gi,
@@ -62,10 +81,10 @@ function FormattedMedicalText({ text, isCorrect }: { text: string; isCorrect: bo
     <div className="space-y-2">
       {text.split(". ").map((sentence, sIdx) => {
         if (!sentence.trim()) return null;
-        
+
         let content = sentence.trim();
         let label = "";
-        
+
         // Detect "Label: content"
         if (content.includes(":")) {
           const parts = content.split(":");
@@ -75,8 +94,37 @@ function FormattedMedicalText({ text, isCorrect }: { text: string; isCorrect: bo
 
         const format = (str: string) => {
           let elements: (string | JSX.Element)[] = [str];
-          
-          // Apply highlights
+
+          // 1. Handle Manual Markers first (<u> and ==)
+          const manualMarkers = [
+            { type: 'manualUnderline', regex: /<u>(.*?)<\/u>/gi, style: 'underline decoration-2 decoration-teal-500 underline-offset-2' },
+            { type: 'manualHighlight', regex: /==([^=]+)==/g, style: 'bg-yellow-200 px-0.5 rounded text-slate-900' }
+          ];
+
+          manualMarkers.forEach(marker => {
+            const newElements: (string | JSX.Element)[] = [];
+            elements.forEach(el => {
+              if (typeof el !== 'string') {
+                newElements.push(el);
+                return;
+              }
+              const parts = el.split(marker.regex);
+              parts.forEach((part, i) => {
+                if (i % 2 === 0) {
+                  newElements.push(part);
+                } else {
+                  newElements.push(
+                    <span key={`${marker.type}-${i}`} className={marker.style}>
+                      {part}
+                    </span>
+                  );
+                }
+              });
+            });
+            elements = newElements;
+          });
+
+          // 2. Apply automatic highlights
           Object.entries(highlights).forEach(([type, regex]) => {
             const newElements: (string | JSX.Element)[] = [];
             elements.forEach(el => {
@@ -86,7 +134,7 @@ function FormattedMedicalText({ text, isCorrect }: { text: string; isCorrect: bo
               }
               const split = el.split(regex);
               const matches = el.match(regex);
-              
+
               split.forEach((part, i) => {
                 newElements.push(part);
                 if (matches && matches[i]) {
@@ -129,19 +177,32 @@ function FormattedMedicalText({ text, isCorrect }: { text: string; isCorrect: bo
 
 export function InlineDiscriminators({ discriminator }: Props) {
   const [open, setOpen] = useState(false);
+  const patchField = useMutation(api.discriminators.patchDifferentialField);
+
+  // State for editing
+  const [editingCell, setEditingCell] = useState<{ 
+    originalIndex: number; 
+    key: string; 
+    dbField: string;
+    text: string;
+  } | null>(null);
+  const textareaRef = useRef<HTMLTextAreaElement>(null);
 
   // ── Sorting Logic: Order differentials by the Mnemonic Sequence ──
   const sortedDiffs = useMemo(() => {
+    // Keep track of original index for patching
+    const diffsWithIndex = discriminator.differentials.map((d, i) => ({ ...d, originalIndex: i }));
+
     // If we have an explicit sortOrder from the sync, use it
     const hasSortOrder = discriminator.differentials.some(d => d.sortOrder !== undefined);
-    
+
     if (hasSortOrder) {
-      return [...discriminator.differentials].sort((a, b) => 
+      return [...diffsWithIndex].sort((a, b) => 
         (a.sortOrder ?? 999) - (b.sortOrder ?? 999)
       );
     }
 
-    if (!discriminator.mnemonicRef?.expandedLetters) return discriminator.differentials;
+    if (!discriminator.mnemonicRef?.expandedLetters) return diffsWithIndex;
 
     // Fallback: Get the acronym sequence order
     const acronymOrder = discriminator.mnemonicRef.expandedLetters
@@ -153,23 +214,71 @@ export function InlineDiscriminators({ discriminator }: Props) {
       .filter(Boolean) as string[];
 
     // Sort by mnemonic letter
-    return [...discriminator.differentials].sort((a, b) => {
+    return [...diffsWithIndex].sort((a, b) => {
       const aLetter = a.mnemonicLetter?.toUpperCase();
       const bLetter = b.mnemonicLetter?.toUpperCase();
-      
+
       const aIndex = aLetter ? acronymOrder.indexOf(aLetter) : -1;
       const bIndex = bLetter ? acronymOrder.indexOf(bLetter) : -1;
-      
+
       if (aIndex === -1 || bIndex === -1) {
         return 0;
       }
-      
+
       return aIndex - bIndex;
     });
   }, [discriminator]);
 
   const diffs = sortedDiffs;
   const rows = Object.keys(ROW_CONFIG);
+
+  // ── Editing Handlers ──
+  const handleSave = async () => {
+    if (!editingCell) return;
+    try {
+      await patchField({
+        id: discriminator._id,
+        differentialIndex: editingCell.originalIndex,
+        field: editingCell.dbField,
+        value: editingCell.text
+      });
+      setEditingCell(null);
+    } catch (err) {
+      console.error("Failed to save cell update:", err);
+      alert("Error saving changes");
+    }
+  };
+
+  const applyFormat = (type: 'capitalize' | 'highlight' | 'underline') => {
+    if (!textareaRef.current) return;
+    const start = textareaRef.current.selectionStart;
+    const end = textareaRef.current.selectionEnd;
+    const currentText = editingCell?.text || "";
+    const selected = currentText.substring(start, end);
+
+    let newText = currentText;
+    let newCursorPos = end;
+
+    if (type === 'capitalize') {
+      newText = currentText.substring(0, start) + selected.toUpperCase() + currentText.substring(end);
+    } else if (type === 'highlight') {
+      newText = currentText.substring(0, start) + `==${selected}==` + currentText.substring(end);
+      newCursorPos = end + 4;
+    } else if (type === 'underline') {
+      newText = currentText.substring(0, start) + `<u>${selected}</u>` + currentText.substring(end);
+      newCursorPos = end + 7;
+    }
+
+    if (editingCell) {
+      setEditingCell({ ...editingCell, text: newText });
+      setTimeout(() => {
+        if (textareaRef.current) {
+          textareaRef.current.focus();
+          textareaRef.current.setSelectionRange(newCursorPos, newCursorPos);
+        }
+      }, 0);
+    }
+  };
 
   return (
     <>
@@ -208,7 +317,7 @@ export function InlineDiscriminators({ discriminator }: Props) {
                 {/* ── Header ── */}
                 <div className="bg-slate-900 px-8 py-5 flex-shrink-0 flex items-center justify-between border-b border-white/10 relative overflow-hidden">
                   <div className="absolute top-0 right-0 w-96 h-96 bg-teal-500/5 rounded-full blur-[100px] -mr-48 -mt-48" />
-                  
+
                   <div className="flex items-center gap-4 relative z-10">
                     <div className="p-2 rounded-xl bg-teal-500/20 text-teal-400 border border-teal-500/20 shadow-inner">
                       <GitBranch className="w-5 h-5" />
@@ -311,19 +420,96 @@ export function InlineDiscriminators({ discriminator }: Props) {
                                     : null;
                                   const cellText = primaryValue || aliasValue;
 
+                                  const isEditing = editingCell?.originalIndex === d.originalIndex && editingCell?.key === key;
+
                                   return (
                                     <td
                                       key={i}
-                                      className={`px-6 py-6 align-top border-r last:border-r-0 border-slate-100 ${
+                                      className={`px-6 py-6 align-top border-r last:border-r-0 border-slate-100 group relative ${
                                         d.isCorrectDiagnosis
                                           ? isKeyFactors ? "bg-teal-50/40" : "bg-teal-50/20"
                                           : ""
                                       } transition-colors hover:bg-slate-100/50`}
                                     >
-                                      <FormattedMedicalText
-                                        text={cellText || "No data provided"}
-                                        isCorrect={d.isCorrectDiagnosis || false}
-                                      />
+                                      {isEditing ? (
+                                        <div className="flex flex-col gap-2 min-w-[200px]">
+                                          {/* Toolbar */}
+                                          <div className="flex items-center gap-1 bg-slate-100 p-1 rounded-lg border border-slate-200">
+                                            <button 
+                                              onClick={() => applyFormat('capitalize')}
+                                              className="p-1.5 hover:bg-white rounded text-slate-600 transition-colors"
+                                              title="Capitalize Selection"
+                                            >
+                                              <Type className="w-3.5 h-3.5" />
+                                            </button>
+                                            <button 
+                                              onClick={() => applyFormat('highlight')}
+                                              className="p-1.5 hover:bg-white rounded text-slate-600 transition-colors"
+                                              title="Highlight Selection"
+                                            >
+                                              <Highlighter className="w-3.5 h-3.5" />
+                                            </button>
+                                            <button 
+                                              onClick={() => applyFormat('underline')}
+                                              className="p-1.5 hover:bg-white rounded text-slate-600 transition-colors"
+                                              title="Underline Selection"
+                                            >
+                                              <UnderlineIcon className="w-3.5 h-3.5" />
+                                            </button>
+                                            <div className="flex-1" />
+                                            <button 
+                                              onClick={() => setEditingCell(null)}
+                                              className="p-1.5 hover:bg-rose-50 rounded text-rose-600 transition-colors"
+                                              title="Cancel"
+                                            >
+                                              <RotateCcw className="w-3.5 h-3.5" />
+                                            </button>
+                                            <button 
+                                              onClick={handleSave}
+                                              className="p-1.5 bg-teal-600 hover:bg-teal-700 rounded text-white transition-colors"
+                                              title="Save"
+                                            >
+                                              <Save className="w-3.5 h-3.5" />
+                                            </button>
+                                          </div>
+
+                                          <textarea
+                                            ref={textareaRef}
+                                            value={editingCell.text}
+                                            onChange={(e) => setEditingCell({ ...editingCell, text: e.target.value })}
+                                            className="w-full h-32 p-3 text-xs bg-white border-2 border-teal-500 rounded-xl focus:outline-none focus:ring-2 focus:ring-teal-500/20 font-medium text-slate-900 leading-relaxed shadow-inner resize-none"
+                                            autoFocus
+                                          />
+
+                                          <div className="flex justify-between items-center text-[10px] font-bold uppercase tracking-widest text-slate-400">
+                                            <span>Edit Mode</span>
+                                            <div className="flex gap-2">
+                                              <span className="flex items-center gap-1"><kbd className="px-1 py-0.5 bg-slate-200 rounded">==</kbd> Highlight</span>
+                                              <span className="flex items-center gap-1"><kbd className="px-1 py-0.5 bg-slate-200 rounded">&lt;u&gt;</kbd> Underline</span>
+                                            </div>
+                                          </div>
+                                        </div>
+                                      ) : (
+                                        <>
+                                          <button
+                                            onClick={() => setEditingCell({ 
+                                              originalIndex: d.originalIndex, 
+                                              key, 
+                                              dbField: config.dbField,
+                                              text: cellText || "" 
+                                            })}
+                                            className="absolute top-2 right-2 p-1.5 rounded-lg bg-white shadow-sm border border-slate-200 text-slate-400 hover:text-teal-600 hover:border-teal-200 opacity-0 group-hover:opacity-100 transition-all z-10"
+                                            title="Edit this section"
+                                          >
+                                            <Edit2 className="w-3 h-3" />
+                                          </button>
+
+                                          <FormattedMedicalText
+                                            text={cellText || "No data provided"}
+                                            isCorrect={d.isCorrectDiagnosis || false}
+                                          />
+                                        </>
+                                      )}
                                     </td>
                                   );
                                 })}
@@ -378,3 +564,4 @@ export function InlineDiscriminators({ discriminator }: Props) {
     </>
   );
 }
+

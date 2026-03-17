@@ -1,6 +1,7 @@
 import type { Doc } from "../../../convex/_generated/dataModel";
 import { ContentComingSoon } from "../ui/ContentComingSoon";
 import { GitBranch, CheckCircle2 } from "lucide-react";
+import { FormattedMedicalText } from "../case/InlineDiscriminators";
 
 type Discriminator = Doc<"discriminators">;
 
@@ -68,7 +69,10 @@ export function VivaDiscriminators({ discriminator }: { discriminator: Discrimin
                   <p className="text-[10px] font-semibold uppercase tracking-widest text-gray-400 mb-0.5">
                     {label}
                   </p>
-                  <p className="text-xs text-gray-700 leading-snug">{value}</p>
+                  <FormattedMedicalText
+                    text={value || "No data provided"}
+                    isCorrect={d.isCorrectDiagnosis || false}
+                  />
                 </div>
               ))}
 
@@ -76,9 +80,12 @@ export function VivaDiscriminators({ discriminator }: { discriminator: Discrimin
                 <p className="text-[10px] font-semibold uppercase tracking-widest text-teal-600 mb-0.5">
                   Key Discriminator
                 </p>
-                <p className="text-xs font-semibold text-teal-800 leading-snug">
-                  {d.discriminatingKeyFeature}
-                </p>
+                <div className="text-xs font-semibold text-teal-800 leading-snug">
+                  <FormattedMedicalText
+                    text={d.discriminatingKeyFeature || "No data"}
+                    isCorrect={true}
+                  />
+                </div>
               </div>
             </div>
           </div>
