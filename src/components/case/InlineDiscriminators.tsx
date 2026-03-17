@@ -267,11 +267,25 @@ export function InlineDiscriminators({ discriminator }: Props) {
     if (type === 'capitalize') {
       newText = currentText.substring(0, start) + selected.toUpperCase() + currentText.substring(end);
     } else if (type === 'highlight') {
-      newText = currentText.substring(0, start) + `==${selected}==` + currentText.substring(end);
-      newCursorEnd = end + 4;
+      // Toggle logic
+      if (selected.startsWith('==') && selected.endsWith('==')) {
+        const inner = selected.substring(2, selected.length - 2);
+        newText = currentText.substring(0, start) + inner + currentText.substring(end);
+        newCursorEnd = end - 4;
+      } else {
+        newText = currentText.substring(0, start) + `==${selected}==` + currentText.substring(end);
+        newCursorEnd = end + 4;
+      }
     } else if (type === 'underline') {
-      newText = currentText.substring(0, start) + `<u>${selected}</u>` + currentText.substring(end);
-      newCursorEnd = end + 7;
+      // Toggle logic
+      if (selected.toLowerCase().startsWith('<u>') && selected.toLowerCase().endsWith('</u>')) {
+        const inner = selected.substring(3, selected.length - 4);
+        newText = currentText.substring(0, start) + inner + currentText.substring(end);
+        newCursorEnd = end - 7;
+      } else {
+        newText = currentText.substring(0, start) + `<u>${selected}</u>` + currentText.substring(end);
+        newCursorEnd = end + 7;
+      }
     }
 
     if (editingCell) {
@@ -439,72 +453,97 @@ export function InlineDiscriminators({ discriminator }: Props) {
                                       } transition-colors hover:bg-slate-100/50`}
                                     >
                                       {isEditing ? (
-                                        <div className="flex flex-col gap-2 min-w-[200px]">
+                                        <div className="flex flex-col gap-3 min-w-[500px]">
                                           {/* Toolbar */}
-                                          <div className="flex items-center gap-1 bg-slate-100 p-1 rounded-lg border border-slate-200">
-                                            <button 
-                                              onMouseDown={(e) => e.preventDefault()}
-                                              onClick={() => applyFormat('capitalize')}
-                                              className="p-1.5 hover:bg-white hover:text-teal-600 rounded text-slate-600 transition-colors flex items-center gap-1.5 px-2"
-                                              title="Capitalize Selection"
-                                            >
-                                              <Type className="w-3.5 h-3.5" />
-                                              <span className="text-[9px] font-bold text-slate-400">CAPS</span>
-                                            </button>
-                                            <button 
-                                              onMouseDown={(e) => e.preventDefault()}
-                                              onClick={() => applyFormat('highlight')}
-                                              className="p-1.5 hover:bg-white hover:text-amber-600 rounded text-slate-600 transition-colors flex items-center gap-1.5 px-2"
-                                              title="Highlight Selection"
-                                            >
-                                              <Highlighter className="w-3.5 h-3.5" />
-                                              <span className="text-[9px] font-bold text-slate-400">MARK</span>
-                                            </button>
-                                            <button 
-                                              onMouseDown={(e) => e.preventDefault()}
-                                              onClick={() => applyFormat('underline')}
-                                              className="p-1.5 hover:bg-white hover:text-blue-600 rounded text-slate-600 transition-colors flex items-center gap-1.5 px-2"
-                                              title="Underline Selection"
-                                            >
-                                              <UnderlineIcon className="w-3.5 h-3.5" />
-                                              <span className="text-[9px] font-bold text-slate-400">LINE</span>
-                                            </button>
-                                            <div className="flex-1" />
-                                            <button 
-                                              onClick={() => setEditingCell(null)}
-                                              className="p-1.5 hover:bg-rose-50 rounded text-rose-600 transition-colors"
-                                              title="Cancel"
-                                            >
-                                              <RotateCcw className="w-3.5 h-3.5" />
-                                            </button>
-                                            <button 
-                                              onClick={handleSave}
-                                              className="p-2 bg-teal-600 hover:bg-teal-700 rounded-lg text-white transition-colors flex items-center gap-2 px-3"
-                                              title="Save Changes"
-                                            >
-                                              <Save className="w-4 h-4" />
-                                              <span className="text-[10px] font-black uppercase tracking-widest">Save</span>
-                                            </button>
+                                          <div className="flex items-center gap-1 bg-slate-100 p-1.5 rounded-xl border border-slate-200 shadow-sm">
+                                            <div className="flex items-center gap-1">
+                                              <button 
+                                                onMouseDown={(e) => e.preventDefault()}
+                                                onClick={() => applyFormat('capitalize')}
+                                                className="p-1.5 hover:bg-white hover:text-teal-600 rounded-lg text-slate-600 transition-colors flex items-center gap-1.5 px-2.5 border border-transparent hover:border-teal-100 shadow-sm hover:shadow"
+                                                title="Capitalize Selection"
+                                              >
+                                                <Type className="w-3.5 h-3.5" />
+                                                <span className="text-[9px] font-black tracking-tighter">CAPS</span>
+                                              </button>
+                                              <button 
+                                                onMouseDown={(e) => e.preventDefault()}
+                                                onClick={() => applyFormat('highlight')}
+                                                className="p-1.5 hover:bg-white hover:text-amber-600 rounded-lg text-slate-600 transition-colors flex items-center gap-1.5 px-2.5 border border-transparent hover:border-amber-100 shadow-sm hover:shadow"
+                                                title="Highlight Selection"
+                                              >
+                                                <Highlighter className="w-3.5 h-3.5" />
+                                                <span className="text-[9px] font-black tracking-tighter">MARK</span>
+                                              </button>
+                                              <button 
+                                                onMouseDown={(e) => e.preventDefault()}
+                                                onClick={() => applyFormat('underline')}
+                                                className="p-1.5 hover:bg-white hover:text-blue-600 rounded-lg text-slate-600 transition-colors flex items-center gap-1.5 px-2.5 border border-transparent hover:border-blue-100 shadow-sm hover:shadow"
+                                                title="Underline Selection"
+                                              >
+                                                <UnderlineIcon className="w-3.5 h-3.5" />
+                                                <span className="text-[9px] font-black tracking-tighter">LINE</span>
+                                              </button>
+                                            </div>
+
+                                            <div className="flex-1 border-x border-slate-200 mx-2 px-2 hidden sm:flex items-center justify-center">
+                                              <span className="text-[8px] font-black text-slate-400 uppercase tracking-widest">
+                                                Select text to format
+                                              </span>
+                                            </div>
+
+                                            <div className="flex items-center gap-1">
+                                              <button 
+                                                onClick={() => setEditingCell(null)}
+                                                className="p-1.5 hover:bg-rose-50 rounded-lg text-rose-600 transition-colors flex items-center gap-1.5 px-2.5 border border-transparent hover:border-rose-100"
+                                                title="Discard Changes"
+                                              >
+                                                <RotateCcw className="w-3.5 h-3.5" />
+                                              </button>
+                                              <button 
+                                                onClick={handleSave}
+                                                className="p-2 bg-teal-600 hover:bg-teal-700 rounded-lg text-white transition-all flex items-center gap-2 px-4 shadow-lg shadow-teal-600/20 active:scale-95"
+                                                title="Save Changes"
+                                              >
+                                                <Save className="w-4 h-4" />
+                                                <span className="text-[10px] font-black uppercase tracking-widest">Save</span>
+                                              </button>
+                                            </div>
                                           </div>
 
-                                          <textarea
-                                            ref={textareaRef}
-                                            value={editingCell.text}
-                                            onChange={(e) => setEditingCell({ ...editingCell, text: e.target.value })}
-                                            className="w-full h-32 p-3 text-xs bg-white border-2 border-teal-500 rounded-xl focus:outline-none focus:ring-2 focus:ring-teal-500/20 font-medium text-slate-900 leading-relaxed shadow-inner resize-none"
-                                            autoFocus
-                                          />
+                                          <div className="grid grid-cols-2 gap-3">
+                                            <div className="flex flex-col gap-1.5">
+                                              <div className="flex items-center justify-between px-1">
+                                                <span className="text-[9px] font-black text-slate-400 uppercase tracking-widest">Write Source</span>
+                                                <div className="flex gap-2">
+                                                  <span className="text-[8px] font-bold text-slate-300">==highlight==</span>
+                                                  <span className="text-[8px] font-bold text-slate-300">&lt;u&gt;underline&lt;/u&gt;</span>
+                                                </div>
+                                              </div>
+                                              <textarea
+                                                ref={textareaRef}
+                                                value={editingCell.text}
+                                                onChange={(e) => setEditingCell({ ...editingCell, text: e.target.value })}
+                                                className="w-full h-40 p-4 text-xs bg-white border-2 border-slate-200 rounded-2xl focus:border-teal-500 focus:outline-none transition-all font-mono text-slate-700 leading-relaxed shadow-inner resize-none"
+                                                placeholder="Enter clinical data..."
+                                                autoFocus
+                                              />
+                                            </div>
 
-                                          <div className="flex justify-between items-center text-[10px] font-bold uppercase tracking-widest text-slate-400">
-                                            <span>Edit Mode</span>
-                                            <div className="flex gap-2">
-                                              <span className="flex items-center gap-1"><kbd className="px-1 py-0.5 bg-slate-200 rounded">==</kbd> Highlight</span>
-                                              <span className="flex items-center gap-1"><kbd className="px-1 py-0.5 bg-slate-200 rounded">&lt;u&gt;</kbd> Underline</span>
+                                            <div className="flex flex-col gap-1.5">
+                                              <div className="flex items-center px-1">
+                                                <span className="text-[9px] font-black text-teal-600 uppercase tracking-widest">Real-time Preview</span>
+                                              </div>
+                                              <div className="w-full h-40 p-4 bg-slate-50 border-2 border-slate-100 rounded-2xl overflow-auto shadow-inner">
+                                                <FormattedMedicalText
+                                                  text={editingCell.text || "Type to see preview..."}
+                                                  isCorrect={d.isCorrectDiagnosis || false}
+                                                />
+                                              </div>
                                             </div>
                                           </div>
                                         </div>
-                                      ) : (
-                                        <>
+                                      ) : (                                        <>
                                           <button
                                             onClick={() => setEditingCell({ 
                                               originalIndex: d.originalIndex, 
