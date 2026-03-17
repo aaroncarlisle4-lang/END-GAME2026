@@ -131,10 +131,19 @@ export function RapidImageViewer({
   const activeBucket = buckets[activeBucketIndex] || buckets[0];
   const cases = activeBucket?.clusters || [];
 
-  // Reset on open or bucket change
+  // Use a ref to track if we've already initialized this "open" session
+  // This prevents background data updates from resetting the user's expanded state or position.
+  const sessionInitializedRef = useRef<string | null>(null);
+
   useEffect(() => {
-    if (open) {
-      // Find which bucket the initialIndex lands in
+    if (!open) {
+      sessionInitializedRef.current = null;
+      return;
+    }
+
+    // Only run initialization logic if the viewer just opened or the target case/index changed significantly
+    const sessionKey = `${title}-${initialIndex}`;
+    if (sessionInitializedRef.current !== sessionKey && buckets.length > 0) {
       let cumulative = 0;
       let found = false;
       for (let b = 0; b < buckets.length; b++) {
@@ -151,15 +160,18 @@ export function RapidImageViewer({
         }
         if (found) break;
       }
+      
       if (!found) {
         setActiveBucketId(0);
         setCaseIndex(0);
         setSliceIndex(0);
       }
+      
       setExpanded(false);
       setAutoPlay(false);
+      sessionInitializedRef.current = sessionKey;
     }
-  }, [open, initialIndex, buckets]);
+  }, [open, initialIndex, buckets, title]);
 
   const [imgError, setImgError] = useState(false);
   const autoPlayRef = useRef(autoPlay);
@@ -274,9 +286,13 @@ export function RapidImageViewer({
     function handleWheel(e: WheelEvent) {
       e.preventDefault();
       const delta = e.deltaY > 0 ? 1 : -1;
+      
       if (expanded && currentCase) {
+        // LOCK TO STACK: When expanded, scrolling ONLY moves through slices of this stack.
+        // It will not jump to the next case automatically.
         setSliceIndex((i) => Math.max(0, Math.min(currentCase.images.length - 1, i + delta)));
-      } else if (cases.length > 1 || buckets.length > 1) {
+      } else if (!expanded && (cases.length > 1 || buckets.length > 1)) {
+        // GALLERY MODE: Scroll between cases/buckets
         if (delta > 0) goNextCase();
         else goPrevCase();
       }
@@ -482,9 +498,10 @@ export function RapidImageViewer({
               <div className="flex-1 flex min-h-0">
                 {/* Bucket Navigation Layer (Vertical Strip - Now wider for full text) */}
                 {buckets.length > 1 && (
-                  <div className="w-48 shrink-0 bg-slate-900 border-r border-slate-800 flex flex-col py-4 gap-1 overflow-y-auto scrollbar-none">
-                    <div className="px-4 mb-2">
-                      <p className="text-[10px] font-black text-slate-500 uppercase tracking-[0.2em]">Differential</p>
+                  <div className="w-64 shrink-0 bg-slate-900 border-r border-slate-800 flex flex-col py-4 gap-1 overflow-y-auto scrollbar-none">
+                    <div className="px-5 mb-4">
+                      <p className="text-[10px] font-black text-slate-500 uppercase tracking-[0.2em] mb-1">Differential Folders</p>
+                      <div className="h-1 w-8 bg-teal-500/30 rounded-full" />
                     </div>
                     {buckets.map((bucket, idx) => (
                       <button
@@ -495,14 +512,20 @@ export function RapidImageViewer({
                           setSliceIndex(0);
                           setExpanded(false);
                         }}
-                        className={`group relative px-4 py-3 flex items-center gap-3 transition-all ${
+                        className={`group relative px-5 py-4 flex items-center gap-4 transition-all ${
                           activeBucketIndex === idx
                             ? "bg-teal-500/10 border-r-4 border-teal-500"
                             : "hover:bg-slate-800/50"
                         }`}
                       >
-                        <div className={`w-2 h-2 rounded-full shrink-0 ${activeBucketIndex === idx ? 'bg-teal-500 shadow-[0_0_8px_rgba(20,184,166,0.8)]' : 'bg-slate-700'}`} />
-                        <span className={`text-[11px] font-black uppercase tracking-tight text-left leading-tight ${activeBucketIndex === idx ? 'text-white' : 'text-slate-500 group-hover:text-slate-300'}`}>
+                        <div className={`w-2.5 h-2.5 rounded-full shrink-0 transition-transform duration-300 ${
+                          activeBucketIndex === idx 
+                            ? 'bg-teal-500 shadow-[0_0_12px_rgba(20,184,166,0.9)] scale-110' 
+                            : 'bg-slate-700 group-hover:bg-slate-500'
+                        }`} />
+                        <span className={`text-[12px] font-black uppercase tracking-normal text-left leading-tight transition-colors ${
+                          activeBucketIndex === idx ? 'text-white' : 'text-slate-500 group-hover:text-slate-300'
+                        }`}>
                           {bucket.name}
                         </span>
                       </button>
@@ -514,14 +537,14 @@ export function RapidImageViewer({
                 {cases.length > 0 && (
                   <div
                     ref={sidebarRef}
-                    className="w-40 shrink-0 bg-slate-800/40 border-r border-slate-700/30 overflow-y-auto py-2 px-2 flex flex-col gap-2"
+                    className="w-44 shrink-0 bg-slate-800/20 border-r border-slate-700/20 overflow-y-auto py-2 px-2 flex flex-col gap-2"
                   >
                     {/* Bucket Caption */}
-                    <div className="px-2 py-2 mb-2 bg-slate-900/40 rounded-xl border border-white/5">
+                    <div className="px-3 py-3 mb-2 bg-slate-900/40 rounded-xl border border-white/5 shadow-inner">
                       <p className="text-[8px] font-black text-teal-500 uppercase tracking-widest leading-tight mb-1">
-                        VIEWING:
+                        CURRENT FOLDER:
                       </p>
-                      <p className="text-[11px] font-black text-white leading-snug">
+                      <p className="text-[11px] font-black text-white leading-snug uppercase tracking-tight">
                         {activeBucket.name}
                       </p>
                     </div>
