@@ -13,6 +13,8 @@ import {
   ImageOff,
   GitBranch,
   Sparkles,
+  ZoomIn,
+  ZoomOut,
 } from "lucide-react";
 import { useMutation } from "convex/react";
 import { api } from "../../../convex/_generated/api";
@@ -128,6 +130,30 @@ export function RapidImageViewer({
   const [expanded, setExpanded] = useState(false);
   const [autoPlay, setAutoPlay] = useState(false);
   
+  // Zoom & Pan state
+  const [zoom, setZoom] = useState(1);
+  const [pan, setPan] = useState({ x: 0, y: 0 });
+  const [isPanning, setIsPanning] = useState(false);
+  const lastMousePos = useRef({ x: 0, y: 0 });
+
+  const resetZoom = useCallback(() => {
+    setZoom(1);
+    setPan({ x: 0, y: 0 });
+  }, []);
+
+  // Reset on image change
+  useEffect(() => {
+    resetZoom();
+  }, [caseIndex, sliceIndex, expanded, resetZoom]);
+
+  const toggleZoom = useCallback(() => {
+    if (zoom > 1) {
+      resetZoom();
+    } else {
+      setZoom(2.5);
+    }
+  }, [zoom, resetZoom]);
+
   const activeBucket = buckets[activeBucketIndex] || buckets[0];
   const cases = activeBucket?.clusters || [];
 
@@ -227,6 +253,10 @@ export function RapidImageViewer({
 
     function handleKey(e: KeyboardEvent) {
       if (e.key === "Escape") {
+        if (zoom > 1) {
+          resetZoom();
+          return;
+        }
         if (expanded) {
           setExpanded(false);
           setSliceIndex(0);
@@ -265,7 +295,35 @@ export function RapidImageViewer({
 
     window.addEventListener("keydown", handleKey);
     return () => window.removeEventListener("keydown", handleKey);
-  }, [open, expanded, currentCase, hasMultipleSlices, goNextCase, goPrevCase, onClose]);
+  }, [open, expanded, currentCase, hasMultipleSlices, goNextCase, goPrevCase, onClose, zoom, resetZoom, toggleZoom]);
+
+  // Handle Pan dragging
+  const handleMouseDown = (e: React.MouseEvent) => {
+    // Middle click (button 1) to toggle zoom
+    if (e.button === 1) {
+      e.preventDefault();
+      toggleZoom();
+      return;
+    }
+
+    if (zoom > 1 && e.button === 0) {
+      setIsPanning(true);
+      lastMousePos.current = { x: e.clientX, y: e.clientY };
+    }
+  };
+
+  const handleMouseMove = (e: React.MouseEvent) => {
+    if (isPanning && zoom > 1) {
+      const dx = e.clientX - lastMousePos.current.x;
+      const dy = e.clientY - lastMousePos.current.y;
+      setPan((p) => ({ x: p.x + dx, y: p.y + dy }));
+      lastMousePos.current = { x: e.clientX, y: e.clientY };
+    }
+  };
+
+  const handleMouseUp = () => {
+    setIsPanning(false);
+  };
 
   // Auto-play timer
   useEffect(() => {
@@ -441,6 +499,32 @@ export function RapidImageViewer({
                 </div>
 
                 <div className="flex items-center gap-2 shrink-0">
+                  {/* Zoom Controls */}
+                  <div className="flex items-center bg-slate-700/50 rounded-lg p-0.5 mr-2">
+                    <button
+                      onClick={() => setZoom(z => Math.max(1, z - 0.5))}
+                      className="p-1.5 rounded-md text-slate-400 hover:text-white hover:bg-slate-600 transition-colors"
+                      title="Zoom Out"
+                    >
+                      <ZoomOut className="w-4 h-4" />
+                    </button>
+                    <button
+                      onClick={toggleZoom}
+                      className={`px-2 py-1 rounded-md text-[10px] font-black transition-colors ${
+                        zoom > 1 ? 'bg-teal-500 text-white' : 'text-slate-400 hover:text-white hover:bg-slate-600'
+                      }`}
+                    >
+                      {Math.round(zoom * 100)}%
+                    </button>
+                    <button
+                      onClick={() => setZoom(z => Math.min(5, z + 0.5))}
+                      className="p-1.5 rounded-md text-slate-400 hover:text-white hover:bg-slate-600 transition-colors"
+                      title="Zoom In"
+                    >
+                      <ZoomIn className="w-4 h-4" />
+                    </button>
+                  </div>
+
                   {hasDiscriminator && onViewDiscriminators && (
                     <button
                       onClick={onViewDiscriminators}
@@ -610,7 +694,13 @@ export function RapidImageViewer({
                 {/* Image area — fills remaining space */}
                 <div
                   ref={imageAreaRef}
-                  className={`flex-1 relative flex items-center justify-center min-h-0 min-w-0 p-0 bg-black transition-colors ${
+                  onMouseDown={handleMouseDown}
+                  onMouseMove={handleMouseMove}
+                  onMouseUp={handleMouseUp}
+                  onMouseLeave={handleMouseUp}
+                  className={`flex-1 relative flex items-center justify-center min-h-0 min-w-0 p-0 bg-black transition-colors cursor-default ${
+                    zoom > 1 ? 'cursor-move' : ''
+                  } ${
                     dragOverCenter ? "bg-teal-500/10 ring-2 ring-inset ring-teal-400/20" : ""
                   }`}
                   onDragOver={(e) => {
@@ -668,14 +758,18 @@ export function RapidImageViewer({
                       )}
 
                       {/* Image — uses every pixel of available space */}
-                      <div className="relative h-full w-full flex items-center justify-center">
+                      <div className="relative h-full w-full flex items-center justify-center overflow-hidden">
                         {currentUrl && !imgError ? (
                           <>
                             <img
                               key={currentUrl}
                               src={currentUrl}
                               alt={currentImage?.caption || "Study image"}
-                              className="max-h-full max-w-full object-contain select-none"
+                              style={{
+                                transform: `translate(${pan.x}px, ${pan.y}px) scale(${zoom})`,
+                                transition: isPanning ? 'none' : 'transform 0.2s cubic-bezier(0.2, 0, 0.2, 1)',
+                              }}
+                              className="max-h-full max-w-full object-contain select-none will-change-transform"
                               draggable={false}
                               onError={() => setImgError(true)}
                             />
