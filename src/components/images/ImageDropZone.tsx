@@ -196,81 +196,53 @@ export function ImageDropZone({
       )}
 
       {/* Action buttons */}
-      <div className="absolute bottom-2 right-2 z-10 flex flex-col items-end gap-2 group-hover:opacity-100 transition-opacity">
-        {/* Differential Quick-Map Toolbar (Horizontal) */}
-        {differentialOptions.length > 0 && (
-          <div className="flex bg-white/95 backdrop-blur rounded-full border border-slate-200 p-1 shadow-lg gap-1">
-            <div className="px-2 flex items-center border-r border-slate-100 mr-1">
-              <span className="text-[8px] font-black text-slate-400 uppercase tracking-widest">Map To:</span>
-            </div>
-            {differentialOptions.slice(0, 4).map((opt) => (
-              <button
-                key={opt}
-                onClick={(e) => {
-                  e.stopPropagation();
-                  setSelectedDifferential(opt);
-                }}
-                className={`px-2 py-1 rounded-full text-[9px] font-bold transition-all whitespace-nowrap ${
-                  selectedDifferential === opt
-                    ? "bg-teal-500 text-white shadow-sm"
-                    : "text-slate-500 hover:bg-slate-100"
-                }`}
-                title={`Map dropped images to ${opt}`}
-              >
-                {opt}
-              </button>
-            ))}
-          </div>
+      <div className="absolute bottom-2 right-2 z-10 flex items-center gap-1 opacity-0 group-hover:opacity-100 transition-opacity">
+        {isUploading && (
+          <Loader2 className="w-4 h-4 text-teal-500 animate-spin" />
         )}
-
-        <div className="flex items-center gap-1">
-          {isUploading && (
-            <Loader2 className="w-4 h-4 text-teal-500 animate-spin" />
-          )}
-          {batchProgress && (
-            <span className="text-[10px] text-teal-600 font-medium bg-white/80 px-1.5 py-0.5 rounded border border-teal-100">
-              {batchProgress.done}/{batchProgress.total}
-            </span>
-          )}
-          {onTextDrop && (
-            <button
-              onClick={(e) => {
-                e.stopPropagation();
-                setShowTextPaste((v) => !v);
-                setShowUrlInput(false);
-                setShowStackImport(false);
-              }}
-              className="w-7 h-7 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-violet-600 hover:border-violet-300 flex items-center justify-center transition-colors shadow-sm"
-              title="Paste text for AI classification"
-            >
-              <FileText className="w-3.5 h-3.5" />
-            </button>
-          )}
+        {batchProgress && (
+          <span className="text-[10px] text-teal-600 font-medium bg-white/80 px-1.5 py-0.5 rounded border border-teal-100">
+            {batchProgress.done}/{batchProgress.total}
+          </span>
+        )}
+        {onTextDrop && (
           <button
             onClick={(e) => {
               e.stopPropagation();
-              setShowStackImport((v) => !v);
+              setShowTextPaste((v) => !v);
               setShowUrlInput(false);
-              setShowTextPaste(false);
-            }}
-            className="w-7 h-7 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-teal-600 hover:border-teal-300 flex items-center justify-center transition-colors shadow-sm"
-            title="Import image stack"
-          >
-            <Layers className="w-3.5 h-3.5" />
-          </button>
-          <button
-            onClick={(e) => {
-              e.stopPropagation();
-              setShowUrlInput((v) => !v);
               setShowStackImport(false);
-              setShowTextPaste(false);
             }}
-            className="w-7 h-7 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-teal-600 hover:border-teal-300 flex items-center justify-center transition-colors shadow-sm"
-            title="Import image URL"
+            className="w-7 h-7 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-violet-600 hover:border-violet-300 flex items-center justify-center transition-colors shadow-sm"
+            title="Paste text for AI classification"
           >
-            <Camera className="w-3.5 h-3.5" />
+            <FileText className="w-3.5 h-3.5" />
           </button>
-        </div>
+        )}
+        <button
+          onClick={(e) => {
+            e.stopPropagation();
+            setShowStackImport((v) => !v);
+            setShowUrlInput(false);
+            setShowTextPaste(false);
+          }}
+          className="w-7 h-7 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-teal-600 hover:border-teal-300 flex items-center justify-center transition-colors shadow-sm"
+          title="Import image stack"
+        >
+          <Layers className="w-3.5 h-3.5" />
+        </button>
+        <button
+          onClick={(e) => {
+            e.stopPropagation();
+            setShowUrlInput((v) => !v);
+            setShowStackImport(false);
+            setShowTextPaste(false);
+          }}
+          className="w-7 h-7 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-teal-600 hover:border-teal-300 flex items-center justify-center transition-colors shadow-sm"
+          title="Import image URL"
+        >
+          <Camera className="w-3.5 h-3.5" />
+        </button>
       </div>
 
       {/* Stack import popover */}
