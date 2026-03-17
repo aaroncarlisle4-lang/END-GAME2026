@@ -18,6 +18,7 @@ export function CaseViewPage() {
   const { caseId } = useParams<{ caseId: string }>();
   const [showAnswer, setShowAnswer] = useState(false);
   const [vivaOpen, setVivaOpen] = useState(false);
+  const [discriminatorOpen, setDiscriminatorOpen] = useState(false);
 
   const caseData = useQuery(
     api.longCases.get,
@@ -34,6 +35,7 @@ export function CaseViewPage() {
   useEffect(() => {
     setShowAnswer(false);
     setVivaOpen(false);
+    setDiscriminatorOpen(false);
   }, [caseId]);
 
   if (caseData === undefined) {
@@ -60,7 +62,11 @@ export function CaseViewPage() {
       <div className="grid grid-cols-1 lg:grid-cols-[44fr_56fr] gap-5 items-start">
         {/* ── LEFT: DICOM viewer + (when revealed) scoring / explanation ── */}
         <div className="space-y-4 sticky top-4">
-          <DicomPlaceholder modality={caseData.modality} />
+          <DicomPlaceholder 
+            modality={caseData.modality} 
+            onViewDiscriminators={() => setDiscriminatorOpen(true)}
+            hasDiscriminator={!!discriminator}
+          />
 
           {showAnswer && (
             <>
@@ -108,6 +114,8 @@ export function CaseViewPage() {
               caseData={caseData}
               discriminator={discriminator ?? null}
               onOpenViva={() => setVivaOpen(true)}
+              discriminatorOpen={discriminatorOpen}
+              setDiscriminatorOpen={setDiscriminatorOpen}
             />
           )}
         </div>

@@ -6,11 +6,13 @@ import type { Doc, Id } from "../../../convex/_generated/dataModel";
 import { 
   GitBranch, X, CheckCircle2, AlertTriangle, Fingerprint, MapPin, 
   Activity, UserSquare2, Info, Sparkles, Edit2, Save, Type, 
-  Highlighter, Underline as UnderlineIcon, Check, RotateCcw
+  Highlighter, Underline as UnderlineIcon, Check, RotateCcw, MonitorDot
 } from "lucide-react";
 
 interface Props {
   discriminator: Doc<"discriminators">;
+  externalOpen?: boolean;
+  setExternalOpen?: (open: boolean) => void;
 }
 
 // ── Helpers ──
@@ -175,8 +177,18 @@ export function FormattedMedicalText({ text, isCorrect }: { text: string; isCorr
   );
 }
 
-export function InlineDiscriminators({ discriminator }: Props) {
-  const [open, setOpen] = useState(false);
+export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen }: Props) {
+  const [internalOpen, setInternalOpen] = useState(false);
+  
+  const open = externalOpen !== undefined ? (externalOpen as boolean) : internalOpen;
+  const setOpen = (val: boolean) => {
+    if (setExternalOpen) {
+      setExternalOpen(val);
+    } else {
+      setInternalOpen(val);
+    }
+  };
+
   const patchField = useMutation(api.discriminators.patchDifferentialField);
 
   // State for editing
@@ -599,11 +611,20 @@ export function InlineDiscriminators({ discriminator }: Props) {
 
                 {/* ── Footer ── */}
                 <div className="px-8 py-4 bg-white border-t border-slate-100 flex items-center justify-between flex-shrink-0">
-                  <div className="flex items-center gap-2">
-                    <div className="w-2 h-2 rounded-full bg-teal-500 animate-pulse" />
-                    <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">
-                      Radiology AI-Enhanced Comparison Grid
-                    </span>
+                  <div className="flex items-center gap-4">
+                    <button
+                      onClick={() => setOpen(false)}
+                      className="flex items-center gap-2 px-4 py-2 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 text-[11px] font-black uppercase tracking-widest transition-all"
+                    >
+                      <MonitorDot className="w-4 h-4" />
+                      Back to DICOM Viewer
+                    </button>
+                    <div className="flex items-center gap-2">
+                      <div className="w-2 h-2 rounded-full bg-teal-500 animate-pulse" />
+                      <span className="text-[10px] font-black text-slate-400 uppercase tracking-widest">
+                        Radiology AI-Enhanced Comparison Grid
+                      </span>
+                    </div>
                   </div>
                   <button
                     onClick={() => setOpen(false)}

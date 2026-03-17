@@ -58,10 +58,14 @@ export function IdealAnswerPanel({
   caseData,
   discriminator,
   onOpenViva,
+  discriminatorOpen,
+  setDiscriminatorOpen,
 }: {
   caseData: LongCase;
   discriminator: Discriminator | null;
   onOpenViva: () => void;
+  discriminatorOpen?: boolean;
+  setDiscriminatorOpen?: (open: boolean) => void;
 }) {
   const shell = isShellCase(caseData);
   const caseId = caseData._id;
@@ -170,7 +174,11 @@ export function IdealAnswerPanel({
           <SectionHeader icon={GitBranch} title="Discriminators" />
           <div className="pl-6">
             {discriminator ? (
-              <InlineDiscriminators discriminator={discriminator} />
+              <InlineDiscriminators 
+                discriminator={discriminator} 
+                externalOpen={discriminatorOpen}
+                setExternalOpen={setDiscriminatorOpen}
+              />
             ) : (
               <ContentComingSoon label="No discriminator data linked" />
             )}
