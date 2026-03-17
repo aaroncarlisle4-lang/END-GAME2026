@@ -239,6 +239,10 @@ export function RapidCardsView({ categoryId, abbrev }: { categoryId: Id<"categor
             <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
               {groupCases.map(c => {
                 const discriminator = patternMap.get((c.title || c.keyFinding || "").toLowerCase().trim());
+                const options = discriminator 
+                  ? Array.from(new Set([c.diagnosis, ...discriminator.differentials.map(d => d.diagnosis)]))
+                  : [c.diagnosis];
+
                 return (
                   <ImageDropZone
                     key={c._id}
@@ -246,6 +250,7 @@ export function RapidCardsView({ categoryId, abbrev }: { categoryId: Id<"categor
                     sourceId={c._id}
                     imageCount={imageCounts?.[c._id] ?? 0}
                     onViewImages={() => handleViewImages(c._id, c.title || c.keyFinding)}
+                    differentialOptions={options}
                   >
                     <RapidCard 
                       caseData={c} 

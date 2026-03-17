@@ -824,6 +824,7 @@ export function DifferentialsPage() {
                                 imageCount={patternImageCounts?.[dp._id] ?? 0}
                                 onViewImages={() => handleViewImages("differentialPattern", dp._id, dp.pattern)}
                                 onTextDrop={(text) => handleTextDrop(text, discriminator ?? undefined)}
+                                differentialOptions={[dp.diagnosis, ...dp.top3, ...dp.additional]}
                               >
                                 <PatternCard 
                                   dp={dp} 
@@ -850,6 +851,7 @@ export function DifferentialsPage() {
                                 sourceId={m._id}
                                 imageCount={mnemonicImageCounts?.[m._id] ?? 0}
                                 onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
+                                differentialOptions={[m.pattern, ...m.differentials.map(d => d.condition)]}
                               >
                                 <MnemonicCard 
                                   m={m} 
@@ -899,6 +901,7 @@ export function DifferentialsPage() {
                           imageCount={patternImageCounts?.[dp._id] ?? 0}
                           onViewImages={() => handleViewImages("differentialPattern", dp._id, dp.pattern)}
                           onTextDrop={(text) => handleTextDrop(text, discriminator ?? undefined)}
+                          differentialOptions={[dp.diagnosis, ...dp.top3, ...dp.additional]}
                         >
                           <PatternCard 
                             dp={dp} 
@@ -935,6 +938,7 @@ export function DifferentialsPage() {
                     sourceId={m._id}
                     imageCount={mnemonicImageCounts?.[m._id] ?? 0}
                     onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
+                    differentialOptions={[m.pattern, ...m.differentials.map(d => d.condition)]}
                   >
                     <MnemonicCard 
                       m={m} 
@@ -973,6 +977,7 @@ export function DifferentialsPage() {
                     sourceId={c._id}
                     imageCount={chapmanImageCounts?.[c._id] ?? 0}
                     onViewImages={() => handleViewImages("chapman", c._id, c.pattern)}
+                    differentialOptions={[c.pattern, ...c.families.flatMap(f => f.diagnoses)]}
                   >
                     <ChapmanCard 
                       c={c} 

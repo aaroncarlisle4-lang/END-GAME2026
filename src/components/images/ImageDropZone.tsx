@@ -1,5 +1,5 @@
-import { useState, useCallback, useMemo, type DragEvent, type ReactNode } from "react";
-import { Upload, Camera, Layers, Loader2, Bookmark } from "lucide-react";
+import { useState, useCallback, useMemo, useEffect, type DragEvent, type ReactNode } from "react";
+import { Upload, Camera, Layers, Loader2, Bookmark, FileText } from "lucide-react";
 import { useImageUpload } from "../../hooks/useImageUpload";
 
 /**
@@ -12,7 +12,7 @@ function parseUrls(text: string): string[] {
     .filter((s) => s.startsWith("https://"));
 }
 
-type SourceType = "differentialPattern" | "mnemonic" | "chapman";
+type SourceType = "differentialPattern" | "mnemonic" | "chapman" | "rapidCase";
 
 const ACCEPTED_TYPES = ["image/jpeg", "image/png", "image/webp"];
 const MAX_SIZE = 10 * 1024 * 1024; // 10MB
@@ -23,6 +23,8 @@ interface ImageDropZoneProps {
   imageCount: number;
   onViewImages: () => void;
   children: ReactNode;
+  onTextDrop?: (text: string) => void;
+  differentialOptions?: string[];
 }
 
 export function ImageDropZone({
@@ -31,21 +33,33 @@ export function ImageDropZone({
   imageCount,
   onViewImages,
   children,
+  onTextDrop,
+  differentialOptions = [],
 }: ImageDropZoneProps) {
   const { uploadFile, addByUrl, addByUrlBatch, isUploading, batchProgress, error } =
     useImageUpload(sourceType, sourceId);
   const [isDragging, setIsDragging] = useState(false);
   const [showUrlInput, setShowUrlInput] = useState(false);
   const [showStackImport, setShowStackImport] = useState(false);
+  const [showTextPaste, setShowTextPaste] = useState(false);
+  const [pasteText, setPasteText] = useState("");
   const [urlValue, setUrlValue] = useState("");
   const [stackLabel, setStackLabel] = useState("");
   const [stackUrls, setStackUrls] = useState("");
   const [stackAttribution, setStackAttribution] = useState("");
+  const [selectedDifferential, setSelectedDifferential] = useState<string>("");
+
+  // Initialize selected differential when options change
+  useEffect(() => {
+    if (differentialOptions.length > 0 && !selectedDifferential) {
+      setSelectedDifferential(differentialOptions[0]);
+    }
+  }, [differentialOptions, selectedDifferential]);
 
   const handleDragEnter = useCallback((e: DragEvent) => {
     e.preventDefault();
     e.stopPropagation();
-    if (e.dataTransfer.types.includes("Files")) {
+    if (e.dataTransfer.types.includes("Files") || e.dataTransfer.types.includes("text/plain")) {
       setIsDragging(true);
     }
   }, []);
@@ -80,15 +94,20 @@ export function ImageDropZone({
       for (const file of files) {
         if (!ACCEPTED_TYPES.includes(file.type)) continue;
         if (file.size > MAX_SIZE) continue;
-        await uploadFile(file);
+        await uploadFile(file, selectedDifferential || undefined);
       }
 
       const text = e.dataTransfer.getData("text/plain");
-      if (text && text.startsWith("https://")) {
-        await addByUrl(text, text.split("/").pop());
+      if (text) {
+        if (text.startsWith("https://")) {
+          const group = selectedDifferential || text.split("/").pop() || "Image";
+          await addByUrl(text, text.split("/").pop(), group);
+        } else if (onTextDrop && text.trim().length > 0) {
+          onTextDrop(text);
+        }
       }
     },
-    [uploadFile, addByUrl]
+    [uploadFile, addByUrl, onTextDrop, selectedDifferential]
   );
 
   const isDirectImageUrl = (url: string) =>
@@ -97,7 +116,8 @@ export function ImageDropZone({
 
   const handleUrlSubmit = async () => {
     if (!urlValue.startsWith("https://")) return;
-    await addByUrl(urlValue, urlValue.split("/").pop());
+    const group = selectedDifferential || urlValue.split("/").pop() || "Image";
+    await addByUrl(urlValue, urlValue.split("/").pop(), group);
     setUrlValue("");
     setShowUrlInput(false);
   };
@@ -138,8 +158,12 @@ export function ImageDropZone({
 
   const handleStackImport = async () => {
     if (parsedStackUrls.length === 0 || !stackLabel.trim()) return;
-    // Unique caseGroup per import so multiple stacks stay separate
-    const uniqueGroup = `${stackLabel.trim()} [${Date.now()}]`;
+    
+    // Unique caseGroup per import, but prefixed with differential for "Bucketing"
+    const uniqueGroup = selectedDifferential 
+      ? `${selectedDifferential} - ${stackLabel.trim()} [${Date.now()}]`
+      : `${stackLabel.trim()} [${Date.now()}]`;
+
     await addByUrlBatch(parsedStackUrls, uniqueGroup, stackLabel.trim(), stackAttribution || undefined);
     setStackUrls("");
     setStackLabel("");
@@ -149,7 +173,7 @@ export function ImageDropZone({
 
   return (
     <div
-      className="relative"
+      className="relative group"
       onDragEnter={handleDragEnter}
       onDragOver={handleDragOver}
       onDragLeave={handleDragLeave}
@@ -172,37 +196,81 @@ export function ImageDropZone({
       )}
 
       {/* Action buttons */}
-      <div className="absolute bottom-2 right-2 z-10 flex items-center gap-1">
-        {isUploading && (
-          <Loader2 className="w-4 h-4 text-teal-500 animate-spin" />
+      <div className="absolute bottom-2 right-2 z-10 flex flex-col items-end gap-2 group-hover:opacity-100 transition-opacity">
+        {/* Differential Quick-Map Toolbar (Horizontal) */}
+        {differentialOptions.length > 0 && (
+          <div className="flex bg-white/95 backdrop-blur rounded-full border border-slate-200 p-1 shadow-lg gap-1">
+            <div className="px-2 flex items-center border-r border-slate-100 mr-1">
+              <span className="text-[8px] font-black text-slate-400 uppercase tracking-widest">Map To:</span>
+            </div>
+            {differentialOptions.slice(0, 4).map((opt) => (
+              <button
+                key={opt}
+                onClick={(e) => {
+                  e.stopPropagation();
+                  setSelectedDifferential(opt);
+                }}
+                className={`px-2 py-1 rounded-full text-[9px] font-bold transition-all whitespace-nowrap ${
+                  selectedDifferential === opt
+                    ? "bg-teal-500 text-white shadow-sm"
+                    : "text-slate-500 hover:bg-slate-100"
+                }`}
+                title={`Map dropped images to ${opt}`}
+              >
+                {opt}
+              </button>
+            ))}
+          </div>
         )}
-        {batchProgress && (
-          <span className="text-[10px] text-teal-600 font-medium">
-            {batchProgress.done}/{batchProgress.total}
-          </span>
-        )}
-        <button
-          onClick={(e) => {
-            e.stopPropagation();
-            setShowStackImport((v) => !v);
-            setShowUrlInput(false);
-          }}
-          className="w-6 h-6 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-teal-600 hover:border-teal-300 flex items-center justify-center transition-colors shadow-sm"
-          title="Import image stack"
-        >
-          <Layers className="w-3 h-3" />
-        </button>
-        <button
-          onClick={(e) => {
-            e.stopPropagation();
-            setShowUrlInput((v) => !v);
-            setShowStackImport(false);
-          }}
-          className="w-6 h-6 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-teal-600 hover:border-teal-300 flex items-center justify-center transition-colors shadow-sm"
-          title="Import image URL"
-        >
-          <Camera className="w-3 h-3" />
-        </button>
+
+        <div className="flex items-center gap-1">
+          {isUploading && (
+            <Loader2 className="w-4 h-4 text-teal-500 animate-spin" />
+          )}
+          {batchProgress && (
+            <span className="text-[10px] text-teal-600 font-medium bg-white/80 px-1.5 py-0.5 rounded border border-teal-100">
+              {batchProgress.done}/{batchProgress.total}
+            </span>
+          )}
+          {onTextDrop && (
+            <button
+              onClick={(e) => {
+                e.stopPropagation();
+                setShowTextPaste((v) => !v);
+                setShowUrlInput(false);
+                setShowStackImport(false);
+              }}
+              className="w-7 h-7 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-violet-600 hover:border-violet-300 flex items-center justify-center transition-colors shadow-sm"
+              title="Paste text for AI classification"
+            >
+              <FileText className="w-3.5 h-3.5" />
+            </button>
+          )}
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              setShowStackImport((v) => !v);
+              setShowUrlInput(false);
+              setShowTextPaste(false);
+            }}
+            className="w-7 h-7 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-teal-600 hover:border-teal-300 flex items-center justify-center transition-colors shadow-sm"
+            title="Import image stack"
+          >
+            <Layers className="w-3.5 h-3.5" />
+          </button>
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              setShowUrlInput((v) => !v);
+              setShowStackImport(false);
+              setShowTextPaste(false);
+            }}
+            className="w-7 h-7 rounded-full bg-white/90 border border-slate-200 text-slate-400 hover:text-teal-600 hover:border-teal-300 flex items-center justify-center transition-colors shadow-sm"
+            title="Import image URL"
+          >
+            <Camera className="w-3.5 h-3.5" />
+          </button>
+        </div>
       </div>
 
       {/* Stack import popover */}
@@ -214,6 +282,29 @@ export function ImageDropZone({
           <p className="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">
             Import Image Stack
           </p>
+
+          {differentialOptions.length > 0 && (
+            <div className="mb-3">
+              <label className="block text-[10px] font-black text-teal-600 uppercase tracking-widest mb-1.5">
+                Map to Differential
+              </label>
+              <div className="flex flex-wrap gap-1">
+                {differentialOptions.map((opt) => (
+                  <button
+                    key={opt}
+                    onClick={() => setSelectedDifferential(opt)}
+                    className={`px-2 py-1 rounded text-[9px] font-bold transition-all border ${
+                      selectedDifferential === opt
+                        ? "bg-teal-500 border-teal-600 text-white shadow-sm"
+                        : "bg-slate-50 border-slate-200 text-slate-500 hover:bg-slate-100"
+                    }`}
+                  >
+                    {opt}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
 
           <label className="block text-[10px] font-semibold text-slate-500 mb-1">
             Stack Label
@@ -295,6 +386,44 @@ export function ImageDropZone({
         </div>
       )}
 
+      {/* Text paste popover */}
+      {showTextPaste && onTextDrop && (
+        <div
+          className="absolute bottom-10 right-2 z-20 bg-white rounded-xl shadow-xl border border-violet-200 p-3 w-80"
+          onClick={(e) => e.stopPropagation()}
+        >
+          <p className="text-[10px] font-bold text-violet-500 uppercase tracking-wider mb-2">
+            Paste Textbook Text
+          </p>
+          <textarea
+            value={pasteText}
+            onChange={(e) => setPasteText(e.target.value)}
+            placeholder="Paste text from Dahnert, Radiopaedia, or any radiology source..."
+            rows={5}
+            className="w-full text-xs px-3 py-2 rounded-lg border border-slate-200 focus:ring-2 focus:ring-violet-500/20 focus:border-violet-400 resize-y"
+            autoFocus
+          />
+          {pasteText.trim() && (
+            <p className="text-[10px] text-slate-400 mt-1">
+              {pasteText.trim().split(/\s+/).length} words
+            </p>
+          )}
+          <button
+            onClick={() => {
+              if (pasteText.trim()) {
+                onTextDrop(pasteText.trim());
+                setPasteText("");
+                setShowTextPaste(false);
+              }
+            }}
+            disabled={!pasteText.trim()}
+            className="w-full mt-2 px-3 py-2 bg-violet-500 text-white text-xs font-bold rounded-lg hover:bg-violet-600 disabled:opacity-40 transition-colors"
+          >
+            Process with AI
+          </button>
+        </div>
+      )}
+
       {/* URL import popover */}
       {showUrlInput && (
         <div
@@ -304,6 +433,30 @@ export function ImageDropZone({
           <p className="text-[10px] font-bold text-slate-400 uppercase tracking-wider mb-2">
             Paste Image URL
           </p>
+
+          {differentialOptions.length > 0 && (
+            <div className="mb-3">
+              <label className="block text-[10px] font-black text-teal-600 uppercase tracking-widest mb-1.5">
+                Map to Differential
+              </label>
+              <div className="flex flex-wrap gap-1">
+                {differentialOptions.map((opt) => (
+                  <button
+                    key={opt}
+                    onClick={() => setSelectedDifferential(opt)}
+                    className={`px-2 py-1 rounded text-[9px] font-bold transition-all border ${
+                      selectedDifferential === opt
+                        ? "bg-teal-500 border-teal-600 text-white shadow-sm"
+                        : "bg-slate-50 border-slate-200 text-slate-500 hover:bg-slate-100"
+                    }`}
+                  >
+                    {opt}
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
+
           <div className="flex gap-2">
             <input
               type="text"
@@ -350,9 +503,9 @@ export function ImageDropZone({
       {isDragging && (
         <div className="absolute inset-0 z-20 rounded-xl border-2 border-dashed border-teal-400 bg-teal-50/80 flex flex-col items-center justify-center pointer-events-none">
           <Upload className="w-8 h-8 text-teal-500 mb-2" />
-          <p className="text-sm font-bold text-teal-700">Drop image here</p>
+          <p className="text-sm font-bold text-teal-700">Drop image or text here</p>
           <p className="text-[10px] text-teal-500 mt-1">
-            JPEG, PNG, WebP up to 10MB
+            {onTextDrop ? "Images (JPEG/PNG/WebP) or plain text for AI classification" : "JPEG, PNG, WebP up to 10MB"}
           </p>
         </div>
       )}

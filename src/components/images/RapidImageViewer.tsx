@@ -45,6 +45,11 @@ interface CaseCluster {
   caseGroup?: string;
 }
 
+interface Bucket {
+  name: string;
+  clusters: CaseCluster[];
+}
+
 export function RapidImageViewer({
   open,
   onClose,
@@ -61,8 +66,8 @@ export function RapidImageViewer({
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [dragOverCenter, setDragOverCenter] = useState(false);
 
-  // Group images into cases
-  const cases = useMemo<CaseCluster[]>(() => {
+  // 1. Group images into CaseClusters (stacks/standalone)
+  const allClusters = useMemo<CaseCluster[]>(() => {
     const grouped = new Map<string, StudyImage[]>();
     const standalone: StudyImage[] = [];
 
@@ -89,32 +94,77 @@ export function RapidImageViewer({
     return result;
   }, [images]);
 
+  // 2. Group CaseClusters into Differential Buckets
+  const buckets = useMemo<Bucket[]>(() => {
+    const bucketMap = new Map<string, CaseCluster[]>();
+    const unbucketed: CaseCluster[] = [];
+
+    for (const cluster of allClusters) {
+      // Look for "Differential - Label" pattern in caseGroup
+      const match = cluster.caseGroup?.match(/^(.+?)\s*-\s*.*\[\d+\]$/) || cluster.caseGroup?.match(/^(.+?)\s*-\s*.*$/);
+      if (match) {
+        const bucketName = match[1].trim();
+        const arr = bucketMap.get(bucketName) || [];
+        arr.push(cluster);
+        bucketMap.set(bucketName, arr);
+      } else {
+        unbucketed.push(cluster);
+      }
+    }
+
+    const result: Bucket[] = [];
+    for (const [name, clusters] of bucketMap) {
+      result.push({ name, clusters });
+    }
+    if (unbucketed.length > 0) {
+      result.push({ name: "General / Uncategorized", clusters: unbucketed });
+    }
+    return result;
+  }, [allClusters]);
+
+  const [activeBucketIndex, setActiveBucketId] = useState(0);
   const [caseIndex, setCaseIndex] = useState(0);
   const [sliceIndex, setSliceIndex] = useState(0);
   const [expanded, setExpanded] = useState(false);
   const [autoPlay, setAutoPlay] = useState(false);
+  
+  const activeBucket = buckets[activeBucketIndex] || buckets[0];
+  const cases = activeBucket?.clusters || [];
+
+  // Reset on open or bucket change
+  useEffect(() => {
+    if (open) {
+      // Find which bucket the initialIndex lands in
+      let cumulative = 0;
+      let found = false;
+      for (let b = 0; b < buckets.length; b++) {
+        for (let c = 0; c < buckets[b].clusters.length; c++) {
+          const cluster = buckets[b].clusters[c];
+          if (cumulative + cluster.images.length > initialIndex) {
+            setActiveBucketId(b);
+            setCaseIndex(c);
+            setSliceIndex(initialIndex - cumulative);
+            found = true;
+            break;
+          }
+          cumulative += cluster.images.length;
+        }
+        if (found) break;
+      }
+      if (!found) {
+        setActiveBucketId(0);
+        setCaseIndex(0);
+        setSliceIndex(0);
+      }
+      setExpanded(false);
+      setAutoPlay(false);
+    }
+  }, [open, initialIndex, buckets]);
+
   const [imgError, setImgError] = useState(false);
   const autoPlayRef = useRef(autoPlay);
   autoPlayRef.current = autoPlay;
   const sidebarRef = useRef<HTMLDivElement>(null);
-
-  // Reset on open
-  useEffect(() => {
-    if (open) {
-      let cumulative = 0;
-      for (let i = 0; i < cases.length; i++) {
-        if (cumulative + cases[i].images.length > initialIndex) {
-          setCaseIndex(i);
-          setSliceIndex(initialIndex - cumulative);
-          break;
-        }
-        cumulative += cases[i].images.length;
-      }
-      setExpanded(false);
-      setAutoPlay(false);
-      setImgError(false);
-    }
-  }, [open, initialIndex, cases]);
 
   // Reset error state when image changes
   const currentCase = cases[caseIndex] || cases[0];
@@ -130,16 +180,34 @@ export function RapidImageViewer({
   const hasMultipleSlices = currentCase && currentCase.images.length > 1;
 
   const goNextCase = useCallback(() => {
-    setCaseIndex((i) => (i + 1) % cases.length);
+    if (caseIndex < cases.length - 1) {
+      setCaseIndex(caseIndex + 1);
+    } else if (activeBucketIndex < buckets.length - 1) {
+      setActiveBucketId(activeBucketIndex + 1);
+      setCaseIndex(0);
+    } else {
+      setActiveBucketId(0);
+      setCaseIndex(0);
+    }
     setSliceIndex(0);
     setExpanded(false);
-  }, [cases.length]);
+  }, [caseIndex, cases.length, activeBucketIndex, buckets.length]);
 
   const goPrevCase = useCallback(() => {
-    setCaseIndex((i) => (i - 1 + cases.length) % cases.length);
+    if (caseIndex > 0) {
+      setCaseIndex(caseIndex - 1);
+    } else if (activeBucketIndex > 0) {
+      const prevBucketIdx = activeBucketIndex - 1;
+      setActiveBucketId(prevBucketIdx);
+      setCaseIndex(buckets[prevBucketIdx].clusters.length - 1);
+    } else {
+      const lastBucketIdx = buckets.length - 1;
+      setActiveBucketId(lastBucketIdx);
+      setCaseIndex(buckets[lastBucketIdx].clusters.length - 1);
+    }
     setSliceIndex(0);
     setExpanded(false);
-  }, [cases.length]);
+  }, [caseIndex, activeBucketIndex, buckets]);
 
   // Keyboard navigation
   useEffect(() => {
@@ -208,7 +276,7 @@ export function RapidImageViewer({
       const delta = e.deltaY > 0 ? 1 : -1;
       if (expanded && currentCase) {
         setSliceIndex((i) => Math.max(0, Math.min(currentCase.images.length - 1, i + delta)));
-      } else if (cases.length > 1) {
+      } else if (cases.length > 1 || buckets.length > 1) {
         if (delta > 0) goNextCase();
         else goPrevCase();
       }
@@ -216,20 +284,22 @@ export function RapidImageViewer({
 
     el.addEventListener("wheel", handleWheel, { passive: false });
     return () => el.removeEventListener("wheel", handleWheel);
-  }, [open, expanded, currentCase, cases.length, goNextCase, goPrevCase]);
+  }, [open, expanded, currentCase, cases.length, buckets.length, goNextCase, goPrevCase]);
 
   // Preload adjacent images
   useEffect(() => {
-    if (!open || cases.length === 0) return;
-    const nextCase = cases[(caseIndex + 1) % cases.length];
-    const prevCase = cases[(caseIndex - 1 + cases.length) % cases.length];
+    if (!open || buckets.length === 0) return;
+    // Current, Next, Prev cluster logic
+    const nextCase = cases[caseIndex + 1] || buckets[(activeBucketIndex + 1) % buckets.length]?.clusters[0];
+    const prevCase = cases[caseIndex - 1] || buckets[(activeBucketIndex - 1 + buckets.length) % buckets.length]?.clusters.slice(-1)[0];
+    
     [nextCase?.images[0]?.url, prevCase?.images[0]?.url].forEach((url) => {
       if (url) {
         const img = new Image();
         img.src = url;
       }
     });
-  }, [open, caseIndex, cases]);
+  }, [open, caseIndex, activeBucketIndex, buckets, cases]);
 
   // Auto-scroll sidebar to keep active thumbnail visible
   useEffect(() => {
@@ -243,11 +313,9 @@ export function RapidImageViewer({
   const handleDelete = async () => {
     if (!currentCase) return;
 
-    // Check if this case is manifest-sourced (all images in a manifest share the same _manifestId)
     const manifestId = currentCase.images[0]?._manifestId;
     const isManifest = currentCase.images[0]?._source === "manifest" && manifestId;
 
-    // If current item is a stack (multiple slices), delete the entire stack
     if (currentCase.images.length > 1) {
       if (!confirmDelete) {
         setConfirmDelete(true);
@@ -260,37 +328,33 @@ export function RapidImageViewer({
         await deleteStack({ ids });
       }
       setConfirmDelete(false);
-      // Move to next case or close if none left
-      if (cases.length <= 1) {
-        onClose();
-      } else {
-        setCaseIndex((i) => Math.min(i, cases.length - 2));
-        setSliceIndex(0);
-        setExpanded(false);
-      }
+      
+      // Since data will refetch, the buckets useMemo will update.
+      // We don't need complex state management here as Convex handles reactivity.
     } else {
-      // Single image — delete directly
       if (!currentImage) return;
       if (isManifest) {
         await deleteManifest({ id: manifestId as Id<"studyManifests"> });
       } else {
         await deleteImage({ id: currentImage._id as Id<"studyImages"> });
       }
-      if (images.length <= 1) {
-        onClose();
-      }
     }
   };
 
-  // Reset confirm state when navigating away
   useEffect(() => {
     setConfirmDelete(false);
   }, [caseIndex, sliceIndex]);
 
-  const displayLabel = (label: string) =>
-    label.replace(/\s*\[\d{13,}\]$/, "");
+  const displayLabel = (label: string) => {
+    // Remove the suffix [timestamp] if it exists
+    let clean = label.replace(/\s*\[\d{13,}\]$/, "");
+    // Remove the bucket prefix if it exists (Differential - Label)
+    if (activeBucket.name !== "General / Uncategorized") {
+      clean = clean.replace(new RegExp(`^${activeBucket.name}\\s*-\\s*`), "");
+    }
+    return clean;
+  };
 
-  // Find attribution for current case (stored on first image in group)
   const currentAttribution = currentCase?.images.find((img) => img.attribution)?.attribution;
 
   const thumbnailItems = expanded
@@ -329,6 +393,11 @@ export function RapidImageViewer({
                   <h2 className="text-sm font-bold text-white truncate max-w-xs">
                     {title}
                   </h2>
+                  {buckets.length > 0 && (
+                    <span className="text-[10px] bg-teal-500/20 text-teal-400 px-2 py-0.5 rounded font-black uppercase tracking-widest border border-teal-500/20">
+                      {activeBucket.name}
+                    </span>
+                  )}
                   {cases.length > 0 && (
                     <span className="text-xs text-slate-400 font-mono shrink-0">
                       {expanded
@@ -411,12 +480,53 @@ export function RapidImageViewer({
 
               {/* Main content: sidebar + image */}
               <div className="flex-1 flex min-h-0">
+                {/* Bucket Navigation Layer (Vertical Strip) */}
+                {buckets.length > 1 && (
+                  <div className="w-12 shrink-0 bg-slate-900 border-r border-slate-800 flex flex-col items-center py-4 gap-4 overflow-y-auto scrollbar-none">
+                    {buckets.map((bucket, idx) => (
+                      <button
+                        key={bucket.name}
+                        onClick={() => {
+                          setActiveBucketId(idx);
+                          setCaseIndex(0);
+                          setSliceIndex(0);
+                          setExpanded(false);
+                        }}
+                        className={`group relative w-8 h-8 rounded-xl flex items-center justify-center transition-all ${
+                          activeBucketIndex === idx
+                            ? "bg-teal-500 text-white shadow-lg shadow-teal-500/20"
+                            : "bg-slate-800 text-slate-500 hover:bg-slate-700 hover:text-slate-300"
+                        }`}
+                        title={bucket.name}
+                      >
+                        <span className="text-[10px] font-black uppercase">
+                          {bucket.name.charAt(0)}
+                        </span>
+                        {/* Tooltip on hover */}
+                        <div className="absolute left-full ml-2 px-2 py-1 bg-slate-800 text-white text-[9px] font-bold uppercase tracking-widest rounded whitespace-nowrap opacity-0 group-hover:opacity-100 pointer-events-none transition-opacity z-[80] shadow-xl border border-slate-700">
+                          {bucket.name}
+                        </div>
+                      </button>
+                    ))}
+                  </div>
+                )}
+
                 {/* Left sidebar — thumbnail navigation */}
                 {cases.length > 0 && (
                   <div
                     ref={sidebarRef}
                     className="w-32 shrink-0 bg-slate-800/60 border-r border-slate-700/50 overflow-y-auto py-2 px-2 flex flex-col gap-2"
                   >
+                    {/* Bucket Caption */}
+                    <div className="px-1 py-1">
+                      <p className="text-[8px] font-black text-teal-500 uppercase tracking-widest leading-tight">
+                        FOLDER:
+                      </p>
+                      <p className="text-[10px] font-bold text-slate-300 leading-tight line-clamp-2">
+                        {activeBucket.name}
+                      </p>
+                    </div>
+
                     {thumbnailItems.map((img, i) => {
                       if (!img) return null;
                       const isActive = expanded
@@ -512,7 +622,7 @@ export function RapidImageViewer({
                         Loading images...
                       </p>
                     </div>
-                  ) : cases.length === 0 ? (
+                  ) : buckets.length === 0 ? (
                     <div className="flex flex-col items-center gap-3">
                       <ImageOff className="w-10 h-10 text-slate-600" />
                       <p className="text-sm text-slate-400 font-medium">
@@ -522,7 +632,7 @@ export function RapidImageViewer({
                   ) : (
                     <>
                       {/* Left arrow */}
-                      {(expanded ? currentCase.images.length > 1 : cases.length > 1) && (
+                      {(expanded ? currentCase.images.length > 1 : (cases.length > 1 || buckets.length > 1)) && (
                         <button
                           onClick={
                             expanded
@@ -536,33 +646,51 @@ export function RapidImageViewer({
                       )}
 
                       {/* Image — uses nearly all available space */}
-                      {currentUrl && !imgError ? (
-                        <img
-                          key={currentUrl}
-                          src={currentUrl}
-                          alt={currentImage?.caption || "Study image"}
-                          className="max-h-full max-w-full object-contain select-none"
-                          draggable={false}
-                          onError={() => setImgError(true)}
-                        />
-                      ) : (
-                        <div className="flex flex-col items-center gap-3 text-slate-500">
-                          <div className="w-16 h-16 rounded-full bg-slate-800 flex items-center justify-center">
-                            <ImageOff className="w-8 h-8 text-slate-600" />
-                          </div>
-                          <p className="text-sm font-medium">
-                            {imgError ? "Image failed to load" : "No image URL"}
-                          </p>
-                          {imgError && currentUrl && (
-                            <p className="text-[10px] text-slate-600 max-w-md text-center break-all">
-                              {currentUrl}
+                      <div className="relative h-full w-full flex items-center justify-center">
+                        {currentUrl && !imgError ? (
+                          <>
+                            <img
+                              key={currentUrl}
+                              src={currentUrl}
+                              alt={currentImage?.caption || "Study image"}
+                              className="max-h-full max-w-full object-contain select-none"
+                              draggable={false}
+                              onError={() => setImgError(true)}
+                            />
+                            
+                            {/* Prominent Caption Overlay */}
+                            {(currentImage?.caption || activeBucket.name) && (
+                              <div className="absolute top-4 left-1/2 -translate-x-1/2 flex flex-col items-center gap-1 pointer-events-none">
+                                <div className="px-3 py-1.5 bg-slate-900/80 backdrop-blur border border-white/10 rounded-full shadow-2xl flex items-center gap-2">
+                                  <span className="text-[10px] font-black text-teal-400 uppercase tracking-widest border-r border-white/10 pr-2">
+                                    {activeBucket.name}
+                                  </span>
+                                  <span className="text-xs font-bold text-white max-w-[300px] truncate">
+                                    {currentImage?.caption || "Clinical Image"}
+                                  </span>
+                                </div>
+                              </div>
+                            )}
+                          </>
+                        ) : (
+                          <div className="flex flex-col items-center gap-3 text-slate-500">
+                            <div className="w-16 h-16 rounded-full bg-slate-800 flex items-center justify-center">
+                              <ImageOff className="w-8 h-8 text-slate-600" />
+                            </div>
+                            <p className="text-sm font-medium">
+                              {imgError ? "Image failed to load" : "No image URL"}
                             </p>
-                          )}
-                        </div>
-                      )}
+                            {imgError && currentUrl && (
+                              <p className="text-[10px] text-slate-600 max-w-md text-center break-all">
+                                {currentUrl}
+                              </p>
+                            )}
+                          </div>
+                        )}
+                      </div>
 
                       {/* Right arrow */}
-                      {(expanded ? currentCase.images.length > 1 : cases.length > 1) && (
+                      {(expanded ? currentCase.images.length > 1 : (cases.length > 1 || buckets.length > 1)) && (
                         <button
                           onClick={
                             expanded
