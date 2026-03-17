@@ -253,30 +253,37 @@ export function InlineDiscriminators({ discriminator }: Props) {
     if (!textareaRef.current) return;
     const start = textareaRef.current.selectionStart;
     const end = textareaRef.current.selectionEnd;
+    
+    // If no selection, do nothing or handle differently
+    if (start === end) return;
+
     const currentText = editingCell?.text || "";
     const selected = currentText.substring(start, end);
 
     let newText = currentText;
-    let newCursorPos = end;
+    let newCursorStart = start;
+    let newCursorEnd = end;
 
     if (type === 'capitalize') {
       newText = currentText.substring(0, start) + selected.toUpperCase() + currentText.substring(end);
     } else if (type === 'highlight') {
       newText = currentText.substring(0, start) + `==${selected}==` + currentText.substring(end);
-      newCursorPos = end + 4;
+      newCursorEnd = end + 4;
     } else if (type === 'underline') {
       newText = currentText.substring(0, start) + `<u>${selected}</u>` + currentText.substring(end);
-      newCursorPos = end + 7;
+      newCursorEnd = end + 7;
     }
 
     if (editingCell) {
       setEditingCell({ ...editingCell, text: newText });
-      setTimeout(() => {
+      
+      // Maintain selection and focus
+      requestAnimationFrame(() => {
         if (textareaRef.current) {
           textareaRef.current.focus();
-          textareaRef.current.setSelectionRange(newCursorPos, newCursorPos);
+          textareaRef.current.setSelectionRange(newCursorStart, newCursorEnd);
         }
-      }, 0);
+      });
     }
   };
 
@@ -436,25 +443,31 @@ export function InlineDiscriminators({ discriminator }: Props) {
                                           {/* Toolbar */}
                                           <div className="flex items-center gap-1 bg-slate-100 p-1 rounded-lg border border-slate-200">
                                             <button 
+                                              onMouseDown={(e) => e.preventDefault()}
                                               onClick={() => applyFormat('capitalize')}
-                                              className="p-1.5 hover:bg-white rounded text-slate-600 transition-colors"
+                                              className="p-1.5 hover:bg-white hover:text-teal-600 rounded text-slate-600 transition-colors flex items-center gap-1.5 px-2"
                                               title="Capitalize Selection"
                                             >
                                               <Type className="w-3.5 h-3.5" />
+                                              <span className="text-[9px] font-bold text-slate-400">CAPS</span>
                                             </button>
                                             <button 
+                                              onMouseDown={(e) => e.preventDefault()}
                                               onClick={() => applyFormat('highlight')}
-                                              className="p-1.5 hover:bg-white rounded text-slate-600 transition-colors"
+                                              className="p-1.5 hover:bg-white hover:text-amber-600 rounded text-slate-600 transition-colors flex items-center gap-1.5 px-2"
                                               title="Highlight Selection"
                                             >
                                               <Highlighter className="w-3.5 h-3.5" />
+                                              <span className="text-[9px] font-bold text-slate-400">MARK</span>
                                             </button>
                                             <button 
+                                              onMouseDown={(e) => e.preventDefault()}
                                               onClick={() => applyFormat('underline')}
-                                              className="p-1.5 hover:bg-white rounded text-slate-600 transition-colors"
+                                              className="p-1.5 hover:bg-white hover:text-blue-600 rounded text-slate-600 transition-colors flex items-center gap-1.5 px-2"
                                               title="Underline Selection"
                                             >
                                               <UnderlineIcon className="w-3.5 h-3.5" />
+                                              <span className="text-[9px] font-bold text-slate-400">LINE</span>
                                             </button>
                                             <div className="flex-1" />
                                             <button 
@@ -466,10 +479,11 @@ export function InlineDiscriminators({ discriminator }: Props) {
                                             </button>
                                             <button 
                                               onClick={handleSave}
-                                              className="p-1.5 bg-teal-600 hover:bg-teal-700 rounded text-white transition-colors"
-                                              title="Save"
+                                              className="p-2 bg-teal-600 hover:bg-teal-700 rounded-lg text-white transition-colors flex items-center gap-2 px-3"
+                                              title="Save Changes"
                                             >
-                                              <Save className="w-3.5 h-3.5" />
+                                              <Save className="w-4 h-4" />
+                                              <span className="text-[10px] font-black uppercase tracking-widest">Save</span>
                                             </button>
                                           </div>
 
