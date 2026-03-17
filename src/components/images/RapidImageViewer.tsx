@@ -141,10 +141,10 @@ export function RapidImageViewer({
     setPan({ x: 0, y: 0 });
   }, []);
 
-  // Reset on image change
+  // Reset on study/bucket change, but NOT on slice scroll
   useEffect(() => {
     resetZoom();
-  }, [caseIndex, sliceIndex, expanded, resetZoom]);
+  }, [caseIndex, activeBucketIndex, expanded, resetZoom]);
 
   const toggleZoom = useCallback(() => {
     if (zoom > 1) {
