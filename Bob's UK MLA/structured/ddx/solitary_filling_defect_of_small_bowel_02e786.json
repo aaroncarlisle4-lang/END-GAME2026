@@ -1,0 +1,37 @@
+{
+  "finding": "Solitary Filling Defect of Small Bowel",
+  "slug": "solitary_filling_defect_of_small_bowel_02e786",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/solitary_filling_defect_of_small_bowel_02e786.md",
+  "quality_score": 0.733,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "INTRINSIC TO BOWEL WALL (a)  benign neoplasm: leiomyoma (97%), adenoma, lipoma, hemangioma, neurofibroma (b)  malignant primary: adenocarcinoma, lymphoma (desmoplastic response), sarcoma, carcinoid (c)  metastases: ← melanoma, lung, kidney, breast",
+      "raw": "INTRINSIC TO BOWEL WALL (a)  benign neoplasm: leiomyoma (97%), adenoma, lipoma, hemangioma, neurofibroma (b)  malignant primary: adenocarcinoma, lymphoma (desmoplastic response), sarcoma, carcinoid (c)  metastases: ← melanoma, lung, kidney, breast",
+      "frequency": "97%"
+    },
+    {
+      "name": "EXTRINSIC TO BOWEL WALL",
+      "raw": "EXTRINSIC TO BOWEL WALL",
+      "frequency": null
+    },
+    {
+      "name": "Duplication cyst",
+      "raw": "Duplication cyst",
+      "frequency": null
+    },
+    {
+      "name": "Endometrioma",
+      "raw": "Endometrioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "INTRINSIC TO BOWEL WALL (a)  benign neoplasm: leiomyoma (97%), adenoma, lipoma, hemangioma, neurofibroma (b)  malignant primary: adenocarcinoma, lymphoma (desmoplastic response), sarcoma, carcinoid (c)  metastases: ← melanoma, lung, kidney, breast": [],
+    "EXTRINSIC TO BOWEL WALL": [],
+    "Duplication cyst": [],
+    "Endometrioma": []
+  },
+  "context": "(d)  inflammation: inflammatory pseudotumor (e)  infection: parasites"
+}

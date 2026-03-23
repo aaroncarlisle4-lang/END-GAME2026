@@ -1,0 +1,27 @@
+{
+  "finding": "A. SMALL CISTERNA MAGNA + \"banana\" sign",
+  "slug": "a_small_cisterna_magna_banana_sign_8bba12",
+  "chapter": "Abnormal Cisterna Magna",
+  "source_file": "processed_clusters/abnormal_cisterna_magna/a_small_cisterna_magna_banana_sign_8bba12.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chiari II malformation",
+      "raw": "Chiari II malformation (with myelomeningocele)",
+      "frequency": null
+    },
+    {
+      "name": "Occipital cephalocele",
+      "raw": "Occipital cephalocele",
+      "frequency": null
+    },
+    {
+      "name": "Severe hydrocephalus",
+      "raw": "Severe hydrocephalus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

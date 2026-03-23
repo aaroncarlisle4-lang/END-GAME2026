@@ -1,0 +1,35 @@
+{
+  "name": "BLADDER EXSTROPHY",
+  "slug": "bladder_exstrophy",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/bladder_exstrophy.md",
+  "definition": "EPISPADIA-EXSTROPHY COMPLEX failure of lower abdominal wall + anterior bladder wall to close normally persistent large cloacal membrane without rupture",
+  "demographics": {
+    "Prevalence": "1÷30,000 to 1÷40,000 live births; M > F",
+    "Etiology": "incomplete retraction of cloacal membrane prevents normal midline migration of"
+  },
+  "dominant_finding": "persistently \"absent\" urinary bladder (HALLMARK) → urine is released immediately into amniotic cavity",
+  "distribution": "irregular thickening of everted posterior bladder wall ← inflammation of exposed mucosa",
+  "discriminating_features": [
+    "persistently \"absent\" urinary bladder (HALLMARK) → urine is released immediately into amniotic cavity",
+    "irregular thickening of everted posterior bladder wall ← inflammation of exposed mucosa",
+    "ventral defect of infraumbilical abdominal wall",
+    "low position of umbilicus",
+    "pubic diastasis = widening of pubic symphysis"
+  ],
+  "other_features": {
+    "general": [
+      "persistently \"absent\" urinary bladder (HALLMARK) → urine is released immediately into amniotic cavity",
+      "irregular thickening of everted posterior bladder wall ← inflammation of exposed mucosa",
+      "ventral defect of infraumbilical abdominal wall",
+      "low position of umbilicus",
+      "pubic diastasis = widening of pubic symphysis",
+      "infraumbilical musculoskeletal defect",
+      "subcutaneous position of bladder"
+    ]
+  },
+  "clinical": {
+    "Cx": "urinary incontinence, infertility, pyelonephritis, bladder carcinoma (4%)",
+    "Rx": "primary closure, bladder excision with urinary diversion"
+  }
+}

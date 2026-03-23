@@ -1,0 +1,33 @@
+{
+  "name": "VASCULAR TUMORS & MALFORMATIONS",
+  "slug": "vascular_tumors_malformations",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_cardiovascular_disorders/vascular_tumors_malformations.md",
+  "definition": "true neoplastic lesion with cellular proliferation and hyperplasia characterized by rapid error of vascular morphogenesis → collection of dysplastic abnormally dilated arteries,",
+  "demographics": {
+    "Frequency": "10% of malformations in extremities"
+  },
+  "dominant_finding": "absence of flow voids on SE images",
+  "distribution": "",
+  "discriminating_features": [
+    "absence of flow voids on SE images",
+    "presence of signal voids demonstrating enhancement and high-signal-intensity foci on",
+    "NO blood flow = lymphatic malformation",
+    "venous flow ONLY:",
+    "WITH phlebolith = venous malformation"
+  ],
+  "other_features": {
+    "general": [
+      "absence of flow voids on SE images",
+      "presence of signal voids demonstrating enhancement and high-signal-intensity foci on",
+      "NO blood flow = lymphatic malformation",
+      "venous flow ONLY:",
+      "WITH phlebolith = venous malformation",
+      "NO phlebolith = low-flow vascular malformation",
+      "arterial flow:"
+    ]
+  },
+  "clinical": {
+    "Rx": "sclerotherapy"
+  }
+}

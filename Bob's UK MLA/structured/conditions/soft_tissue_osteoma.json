@@ -1,0 +1,26 @@
+{
+  "name": "SOFT-TISSUE OSTEOMA",
+  "slug": "soft_tissue_osteoma",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/soft_tissue_osteoma.md",
+  "definition": "OSTEOMA OF SOFT PARTS (extremely rare)",
+  "demographics": {
+    "Histo": "mature lamellar bone with well-defined haversian system; bone marrow, myxoid,",
+    "Location": "head (usually posterior part of tongue), thigh"
+  },
+  "dominant_finding": "intense tracer accumulation, greater than adjacent bone",
+  "distribution": "head (usually posterior part of tongue), thigh",
+  "discriminating_features": [
+    "ossified mass",
+    "intense tracer accumulation, greater than adjacent bone"
+  ],
+  "other_features": {
+    "general": [
+      "ossified mass"
+    ],
+    "NUC": [
+      "intense tracer accumulation, greater than adjacent bone"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Calcifications of Female Genital Tract",
+  "slug": "calcifications_of_female_genital_tract_72f2ee",
+  "chapter": "E. CONSTITUTIONAL DELAY (10%",
+  "source_file": "processed_clusters/e_constitutional_delay_10/calcifications_of_female_genital_tract_72f2ee.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "UTERUS",
+      "raw": "UTERUS",
+      "frequency": null
+    },
+    {
+      "name": "Uterine fibroid",
+      "raw": "Uterine fibroid",
+      "frequency": null
+    },
+    {
+      "name": "Arcuate arteries",
+      "raw": "Arcuate arteries",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

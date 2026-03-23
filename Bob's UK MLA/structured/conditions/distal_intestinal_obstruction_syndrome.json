@@ -1,0 +1,39 @@
+{
+  "name": "DISTAL INTESTINAL OBSTRUCTION SYNDROME",
+  "slug": "distal_intestinal_obstruction_syndrome",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/distal_intestinal_obstruction_syndrome.md",
+  "definition": "DIOS = MECONIUM ILEUS EQUIVALENT accumulation and impaction of viscid fecal material adherent to intestinal wall in distal part",
+  "demographics": {
+    "Prevalence": "10-24%% of older child / young adult with cystic fibrosis; 2% in patients < 5",
+    "Age": "2nd-3rd decade of life",
+    "Location": "cecum > ascending colon > transverse colon > descending colon (contiguous"
+  },
+  "dominant_finding": "mural striation (50%)",
+  "distribution": "cecum > ascending colon > transverse colon > descending colon (contiguous",
+  "discriminating_features": [
+    "bubbly granular ileocecal soft-tissue mass in RLQ",
+    "partial / complete small bowel obstruction ← puttylike fecal material in terminal ileum / right",
+    "thickening of mucosal folds",
+    "cystic fibrosis of lung",
+    "diffuse colonic thickening"
+  ],
+  "other_features": {
+    "general": [
+      "bubbly granular ileocecal soft-tissue mass in RLQ",
+      "partial / complete small bowel obstruction ← puttylike fecal material in terminal ileum / right",
+      "thickening of mucosal folds",
+      "cystic fibrosis of lung"
+    ],
+    "CT": [
+      "diffuse colonic thickening",
+      "mural striation (50%)",
+      "mesenteric soft-tissue infiltration (100%)",
+      "increased pericolonic fat (60%)"
+    ]
+  },
+  "clinical": {
+    "Cx": "intussusception, volvulus, perforation, ischemia",
+    "Rx": "rehydration, stool softeners, oral polyethylene glycol-electrolyte solution (GoLYTELY®),"
+  }
+}

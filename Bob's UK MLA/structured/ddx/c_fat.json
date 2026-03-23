@@ -1,0 +1,47 @@
+{
+  "finding": "C. FAT",
+  "slug": "c_fat",
+  "chapter": "B. CHEST",
+  "source_file": "processed_clusters/b_chest/c_fat.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Subdiaphragmatic intraperitoneal fat",
+      "raw": "Subdiaphragmatic intraperitoneal fat",
+      "frequency": null
+    },
+    {
+      "name": "Interposition of omental fat between liver + diaphragm",
+      "raw": "Interposition of omental fat between liver + diaphragm",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic rupture: usually duodenum",
+      "raw": "Traumatic rupture: usually duodenum",
+      "frequency": null
+    },
+    {
+      "name": "Perforation of duodenal ulcer",
+      "raw": "Perforation of duodenal ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Gas abscess of pancreas",
+      "raw": "Gas abscess of pancreas (usually extends into lesser sac)",
+      "frequency": null
+    },
+    {
+      "name": "Urinary tract gas: trauma, infection",
+      "raw": "Urinary tract gas: trauma, infection",
+      "frequency": null
+    },
+    {
+      "name": "Dissected mediastinal air",
+      "raw": "Dissected mediastinal air",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Pneumoretroperitoneum Cause: √  kidney outlined by gas √  outline of psoas margin ± gas streaks in muscle bundles Pneumatosis Intestinalis =  PNEUMATOSIS CYSTOIDES INTESTINALIS = BULLOUS EMPHYSEMA OF THE INTESTINE ="
+}

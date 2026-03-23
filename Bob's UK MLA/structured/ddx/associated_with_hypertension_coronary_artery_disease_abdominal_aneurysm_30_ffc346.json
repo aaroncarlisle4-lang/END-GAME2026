@@ -1,0 +1,122 @@
+{
+  "finding": "Associated with: hypertension, coronary artery disease, abdominal aneurysm (30%",
+  "slug": "associated_with_hypertension_coronary_artery_disease_abdominal_aneurysm_30_ffc346",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/cardiovascular_disorders/associated_with_hypertension_coronary_artery_disease_abdominal_aneurysm_30_ffc346.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "substernal / back / shoulder pain",
+      "raw": "substernal / back / shoulder pain (26%)",
+      "frequency": "26%"
+    },
+    {
+      "name": "SVC syndrome ← venous compression)",
+      "raw": "SVC syndrome ← venous compression)",
+      "frequency": null
+    },
+    {
+      "name": "dysphagia ← esophageal compression)",
+      "raw": "dysphagia ← esophageal compression)",
+      "frequency": null
+    },
+    {
+      "name": "stridor, dyspnea ← tracheobronchial compression)",
+      "raw": "stridor, dyspnea ← tracheobronchial compression)",
+      "frequency": null
+    },
+    {
+      "name": "hoarseness ← recurrent laryngeal nerve compression)",
+      "raw": "hoarseness ← recurrent laryngeal nerve compression)",
+      "frequency": null
+    },
+    {
+      "name": "Rupture into mediastinum, pericardium, either pleural cavity, airway, esophagus",
+      "raw": "Rupture into mediastinum, pericardium, either pleural cavity, airway, esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Aortobronchopulmonary fistula",
+      "raw": "Aortobronchopulmonary fistula",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic (14%)",
+      "frequency": "14%"
+    },
+    {
+      "name": "cardiac murmur (57%), dyspnea (56%), chest pain",
+      "raw": "cardiac murmur (57%), dyspnea (56%), chest pain",
+      "frequency": "57%"
+    },
+    {
+      "name": "insidiously progressive heart failure ← volume overload",
+      "raw": "insidiously progressive heart failure ← volume overload",
+      "frequency": null
+    },
+    {
+      "name": "origin above aortic annulus",
+      "raw": "origin above aortic annulus",
+      "frequency": null
+    },
+    {
+      "name": "saccular shape",
+      "raw": "saccular shape",
+      "frequency": null
+    },
+    {
+      "name": "normal dimensions of adjacent aortic root and ascending aorta!",
+      "raw": "normal dimensions of adjacent aortic root and ascending aorta!",
+      "frequency": null
+    },
+    {
+      "name": "Aortic regurgitation",
+      "raw": "Aortic regurgitation (in 30-50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Aortocardiac shunt with RV (56%), RA (30%), RVOT (9%), LV (2%), interventricular septum (2%), LA (1%), extracardiac space (rare) (b)  mass effect:",
+      "raw": "Aortocardiac shunt with RV (56%), RA (30%), RVOT (9%), LV (2%), interventricular septum (2%), LA (1%), extracardiac space (rare) (b)  mass effect:",
+      "frequency": "56%"
+    },
+    {
+      "name": "Aortic regurgitation",
+      "raw": "Aortic regurgitation",
+      "frequency": null
+    },
+    {
+      "name": "Impaired function of tricuspid / mitral valve",
+      "raw": "Impaired function of tricuspid / mitral valve",
+      "frequency": null
+    },
+    {
+      "name": "Occluded / partially obstructed RVOT",
+      "raw": "Occluded / partially obstructed RVOT",
+      "frequency": null
+    },
+    {
+      "name": "Dissection into interventricular septum",
+      "raw": "Dissection into interventricular septum",
+      "frequency": null
+    },
+    {
+      "name": "Compression / occlusion of a coronary artery → myocardial ischemia",
+      "raw": "Compression / occlusion of a coronary artery → myocardial ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Progressive enlargement",
+      "raw": "Progressive enlargement",
+      "frequency": null
+    },
+    {
+      "name": "Rupture",
+      "raw": "Rupture (even years after insult)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Mean age:  65 years; M÷F = 3÷1 Location:   arch > descending aorta √  mediastinal mass with proximity to aorta √  wide tortuous aorta: √  annual growth rate of 0.07-0.42 cm √  curvilinear peripheral calcifications (75%) √  circumferential / crescentic mural thrombus N.B.:     Angio may show normal caliber ← mural thrombus! Cx: Median size at rupture-dissection: 5.9 cm for ascending aorta, 7.2 cm for descending aorta √  high-attenuation fluid √  consolidation of lung adjacent to aneurysm ◊  Most aneurysms rupture when > 10 cm in size Prognosis:  1-year survival 57%; 3-year survival 26%; 5-year"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Diaphragm — Adult (DDx)",
+  "slug": "diaphragm_adult_ddx",
+  "chapter": "Diaphragm",
+  "source_file": "processed_clusters/diaphragm/diaphragm_adult_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "peritoneal implant",
+      "raw": "peritoneal implant",
+      "frequency": null
+    },
+    {
+      "name": "lymph node",
+      "raw": "lymph node",
+      "frequency": null
+    },
+    {
+      "name": "mass",
+      "raw": "mass",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "right dome of diaphragm at level of anterior 6th rib | left dome of diaphragm at level of anterior 7th rib (= one intercostal space lower) | right dome at 9.7 ± 0.8 (range, 7.4-11.3) thoracic vertebral levels below the top of 1st | left dome at 10.2 +/- 0.8 (range, 8.1-11.8) thoracic vertebral levels below the top of 1st"
+}

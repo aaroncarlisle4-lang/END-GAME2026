@@ -1,0 +1,79 @@
+{
+  "finding": "Abdominal Wall Calcifications",
+  "slug": "abdominal_wall_calcifications",
+  "chapter": "C. INGESTED FOREIGN BODIES",
+  "source_file": "processed_clusters/c_ingested_foreign_bodies/abdominal_wall_calcifications.md",
+  "quality_score": 0.767,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "IN SOFT TISSUES",
+      "raw": "IN SOFT TISSUES",
+      "frequency": null
+    },
+    {
+      "name": "Hypercalcemic states",
+      "raw": "Hypercalcemic states",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic calcinosis",
+      "raw": "Idiopathic calcinosis",
+      "frequency": null
+    },
+    {
+      "name": "IN MUSCLE (a)  parasites:",
+      "raw": "IN MUSCLE (a)  parasites:",
+      "frequency": null
+    },
+    {
+      "name": "Cysticercosis = Taenia solium",
+      "raw": "Cysticercosis = Taenia solium",
+      "frequency": null
+    },
+    {
+      "name": "Guinea worm = dracunculiasis",
+      "raw": "Guinea worm = dracunculiasis",
+      "frequency": null
+    },
+    {
+      "name": "IN SKIN",
+      "raw": "IN SKIN",
+      "frequency": null
+    },
+    {
+      "name": "Soft-tissue nodules: papilloma, neurofibroma, melanoma, nevi",
+      "raw": "Soft-tissue nodules: papilloma, neurofibroma, melanoma, nevi",
+      "frequency": null
+    },
+    {
+      "name": "Scar:",
+      "raw": "Scar:",
+      "frequency": null
+    },
+    {
+      "name": "Colostomy / ileostomy",
+      "raw": "Colostomy / ileostomy",
+      "frequency": null
+    },
+    {
+      "name": "Tattoo markings",
+      "raw": "Tattoo markings",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "IN SOFT TISSUES": [],
+    "Hypercalcemic states": [],
+    "Idiopathic calcinosis": [],
+    "IN MUSCLE (a)  parasites:": [],
+    "Cysticercosis = Taenia solium": [],
+    "Guinea worm = dracunculiasis": [],
+    "IN SKIN": [],
+    "Soft-tissue nodules: papilloma, neurofibroma, melanoma, nevi": [],
+    "Scar:": [],
+    "Colostomy / ileostomy": [],
+    "Tattoo markings": []
+  },
+  "context": "√  round / slightly elongated calcifications √  stringlike calcifications up to 12 cm long (b)  injection sites from quinine, bismuth, calcium gluconate, calcium penicillin (c)  myositis ossificans √  linear density"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Hydro- / Hematometrocolpos (DDx)",
+  "slug": "hydro_hematometrocolpos_ddx",
+  "chapter": "Hydro- / Hematometrocolpos",
+  "source_file": "processed_clusters/hydro_hematometrocolpos/hydro_hematometrocolpos_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ovarian cyst",
+      "raw": "ovarian cyst",
+      "frequency": null
+    },
+    {
+      "name": "duplication cyst",
+      "raw": "duplication cyst",
+      "frequency": null
+    },
+    {
+      "name": "meconium cyst",
+      "raw": "meconium cyst",
+      "frequency": null
+    },
+    {
+      "name": "mesenteric cyst",
+      "raw": "mesenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "rectovesical fistula",
+      "raw": "rectovesical fistula",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "bladder often not identified (compressed by distended vagina) | endometrial cavity + upper part of vagina distended by blood products: | fluid of hyperintense SI on T1WI | less hyperintense than urine on T2WI"
+}

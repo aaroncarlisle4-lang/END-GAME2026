@@ -1,0 +1,27 @@
+{
+  "finding": "Pyelonephritis (DDx)",
+  "slug": "pyelonephritis_ddx",
+  "chapter": "Pyelonephritis",
+  "source_file": "processed_clusters/pyelonephritis/pyelonephritis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "emphysematous pyelitis (gas in collecting system but not in parenchyma",
+      "raw": "emphysematous pyelitis (gas in collecting system but not in parenchyma",
+      "frequency": null
+    },
+    {
+      "name": "diabetes in 50%",
+      "raw": "diabetes in 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "less grave prognosis)",
+      "raw": "less grave prognosis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "extensive involvement of kidney + perinephric space | air extending through Gerota fascia into retroperitoneal space | occasionally gas in renal veins | signal void on T1WI + T2WI (DDx: renal calculi, rapidly flowing blood)"
+}

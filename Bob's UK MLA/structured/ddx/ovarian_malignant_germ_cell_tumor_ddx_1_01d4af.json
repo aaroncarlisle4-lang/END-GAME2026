@@ -1,0 +1,22 @@
+{
+  "finding": "Ovarian Malignant Germ Cell Tumor (DDx)",
+  "slug": "ovarian_malignant_germ_cell_tumor_ddx_1_01d4af",
+  "chapter": "Ovarian Malignant Germ Cell Tumor",
+  "source_file": "processed_clusters/ovarian_malignant_germ_cell_tumor/ovarian_malignant_germ_cell_tumor_ddx_1_01d4af.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "gestational choriocarcinoma (concomitant / proximate gestation",
+      "raw": "gestational choriocarcinoma (concomitant / proximate gestation",
+      "frequency": null
+    },
+    {
+      "name": "no other germ cell tumor component)",
+      "raw": "no other germ cell tumor component)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "enhancing highly vascular solid mass | abnormal large signal voids on T2WI ← vascular structures + small cystic cavities | high-signal-intensity foci in solid portions on T1WI ← hemorrhage | substantial uptake of contrast material in solid portions ← highly vascularized tumor"
+}

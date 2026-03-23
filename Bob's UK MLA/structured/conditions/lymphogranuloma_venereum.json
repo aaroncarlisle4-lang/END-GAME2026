@@ -1,0 +1,31 @@
+{
+  "name": "LYMPHOGRANULOMA VENEREUM",
+  "slug": "lymphogranuloma_venereum",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/lymphogranuloma_venereum.md",
+  "definition": "LGV = sexually transmitted disease caused by virus Chlamydia trachomatis producing a",
+  "demographics": {
+    "Location": "rectum ± extension to sigmoid + descending colon"
+  },
+  "dominant_finding": "narrowing + shortening + straightening of rectosigmoid",
+  "distribution": "rectum ± extension to sigmoid + descending colon",
+  "discriminating_features": [
+    "narrowing + shortening + straightening of rectosigmoid",
+    "widening of retrorectal space",
+    "irregularity of mucosa + ulcerations",
+    "paracolic abscess",
+    "fistula to pericolic area, rectum, vagina (common)"
+  ],
+  "other_features": {
+    "general": [
+      "narrowing + shortening + straightening of rectosigmoid",
+      "widening of retrorectal space",
+      "irregularity of mucosa + ulcerations",
+      "paracolic abscess",
+      "fistula to pericolic area, rectum, vagina (common)"
+    ]
+  },
+  "clinical": {
+    "Rx": "tetracyclines effective in acute phase before scarring has occurred"
+  }
+}

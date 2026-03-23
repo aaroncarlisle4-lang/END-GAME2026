@@ -1,0 +1,27 @@
+{
+  "finding": "Traumatic Aortic Injury (DDx)",
+  "slug": "traumatic_aortic_injury_ddx",
+  "chapter": "Traumatic Aortic Injury",
+  "source_file": "processed_clusters/traumatic_aortic_injury/traumatic_aortic_injury_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ductus diverticulum",
+      "raw": "ductus diverticulum (in 10% of normals)",
+      "frequency": "10%"
+    },
+    {
+      "name": "aortic spindle",
+      "raw": "aortic spindle",
+      "frequency": null
+    },
+    {
+      "name": "infundibula of",
+      "raw": "infundibula of",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "posttraumatic coarctation | transmural laceration: | contained extravasation = traumatic false aneurysm | free extravasation = aortic rupture"
+}

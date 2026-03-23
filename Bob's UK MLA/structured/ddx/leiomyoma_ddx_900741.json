@@ -1,0 +1,25 @@
+{
+  "finding": "Leiomyoma (DDx)",
+  "slug": "leiomyoma_ddx_900741",
+  "chapter": "Leiomyoma",
+  "source_file": "processed_clusters/leiomyoma/leiomyoma_ddx_900741.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "GIST",
+      "raw": "GIST",
+      "frequency": null
+    },
+    {
+      "name": "schwannoma",
+      "raw": "schwannoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "GIST": [],
+    "schwannoma": []
+  },
+  "context": "low-attenuation mass with endoluminal growth pattern | central ulceration for tumor > 2 cm in diameter"
+}

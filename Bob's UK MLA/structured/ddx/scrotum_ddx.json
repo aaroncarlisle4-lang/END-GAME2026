@@ -1,0 +1,32 @@
+{
+  "finding": "Scrotum (DDx)",
+  "slug": "scrotum_ddx",
+  "chapter": "Scrotum",
+  "source_file": "processed_clusters/scrotum/scrotum_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hematoma",
+      "raw": "hematoma",
+      "frequency": null
+    },
+    {
+      "name": "inflammation",
+      "raw": "inflammation",
+      "frequency": null
+    },
+    {
+      "name": "seminoma",
+      "raw": "seminoma",
+      "frequency": null
+    },
+    {
+      "name": "Leydig cell tumor",
+      "raw": "Leydig cell tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "collection with low-level echoes, shaggy irregular wall, occasionally | avascular hypoechoic mass | in combination with solid elements"
+}

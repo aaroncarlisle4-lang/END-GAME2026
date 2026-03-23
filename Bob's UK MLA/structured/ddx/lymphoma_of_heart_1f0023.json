@@ -1,0 +1,47 @@
+{
+  "finding": "LYMPHOMA OF HEART",
+  "slug": "lymphoma_of_heart_1f0023",
+  "chapter": "LYMPHATIC DYSPLASIA",
+  "source_file": "processed_clusters/lymphatic_dysplasia/lymphoma_of_heart_1f0023.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastasis: lung cancer, malignant melanoma",
+      "raw": "Metastasis: lung cancer, malignant melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac angiosarcoma",
+      "raw": "Cardiac angiosarcoma (involving large areas of heart, more aggressive with penetration of valves + great vessels, central necrosis, prominent enhancement)",
+      "frequency": null
+    },
+    {
+      "name": "Mean age:  60 (range, 13-90) years",
+      "raw": "Mean age:  60 (range, 13-90) years",
+      "frequency": null
+    },
+    {
+      "name": "Predisposed:   immunocompromised patients, esp. AIDS",
+      "raw": "Predisposed:   immunocompromised patients, esp. AIDS",
+      "frequency": null
+    },
+    {
+      "name": "Path:  multiple firm nodules; contiguous invasion of pericardium",
+      "raw": "Path:  multiple firm nodules; contiguous invasion of pericardium",
+      "frequency": null
+    },
+    {
+      "name": "chest pain; unresponsive rapidly progressive heart failure",
+      "raw": "chest pain; unresponsive rapidly progressive heart failure",
+      "frequency": null
+    },
+    {
+      "name": "cardiac tamponade, SVC syndrome Location:   RA > RV > LV > LA > atrial septum > ventricular septum; > 1 chamber (75%) When infiltration beyond the myocardium occurs, the right atrium is most commonly involved, with subsequent venous extension leading to SVC / IVC thrombosis.",
+      "raw": "cardiac tamponade, SVC syndrome Location:   RA > RV > LV > LA > atrial septum > ventricular septum; > 1 chamber (75%) When infiltration beyond the myocardium occurs, the right atrium is most commonly involved, with subsequent venous extension leading to SVC / IVC thrombosis.",
+      "frequency": "75%"
+    }
+  ],
+  "criteria": {},
+  "context": "PET: √  difficult to differentiate from normal myocardial uptake DDx: Secondary Cardiac Lymphoma Prevalence:   in 16-28% on autopsy for NHL; pericardial involvement more frequent than for primary; more common in immunocompromised patients Secondary cardiac involvement by lymphoma, either through direct extension or via hematogenous spread, is more common than primary cardiac lymphoma. Primary Cardiac Lymphoma =  lymphoma that involves only heart ± pericardium at time of diagnosis (extremely rare) Histo:  typically NHL: well-differentiated B-cell lymphoma, follicular center cell lymphoma, diffu"
+}

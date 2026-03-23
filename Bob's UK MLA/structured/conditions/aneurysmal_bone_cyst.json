@@ -1,0 +1,55 @@
+{
+  "name": "ANEURYSMAL BONE CYST",
+  "slug": "aneurysmal_bone_cyst",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/aneurysmal_bone_cyst.md",
+  "definition": "expansile pathologically benign lytic lesion of bone containing thin-walled cystic cavities",
+  "demographics": {
+    "Incidence": "1.4-2.3% of primary bone tumors",
+    "Histo": "lack of anaplasia",
+    "Peak age": "peak age 16 (range, 10-30) years; in 75% < 20 years; F > M"
+  },
+  "dominant_finding": "\"blood-filled sponge\" = fluid-fluid / hematocrit levels ← blood sedimentation (in 10-",
+  "distribution": "low-SI rim ← intact thickened periosteal membrane",
+  "discriminating_features": [
+    "\"blood-filled sponge\" = fluid-fluid / hematocrit levels ← blood sedimentation (in 10-",
+    "± mineralized chondroidlike material when abundant",
+    "multiple cysts of different SI representing different stages of blood by-products:",
+    "heterogeneous fluid-fluid levels within loculations ← hemorrhage with sedimentation",
+    "↑ signal intensity on T1WI ← methemoglobin"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "\"blood-filled sponge\" = fluid-fluid / hematocrit levels ← blood sedimentation (in 10-",
+      "± mineralized chondroidlike material when abundant"
+    ],
+    "MR": [
+      "multiple cysts of different SI representing different stages of blood by-products:",
+      "heterogeneous fluid-fluid levels within loculations ← hemorrhage with sedimentation",
+      "↑ signal intensity on T1WI ← methemoglobin",
+      "low-SI rim ← intact thickened periosteal membrane",
+      "heterogeneous enhancement:",
+      "smooth enhancement of internal septa"
+    ],
+    "NUC": [
+      "\"doughnut\" sign = moderate to intense radiotracer accumulation at lesion periphery (64%)"
+    ],
+    "ANGIO": [
+      "hypervascularity in lesion periphery (in 75%)"
+    ],
+    "pelvis": [
+      "purely lytic eccentric radiolucency",
+      "aggressive expansile ballooning lesion of \"soap-bubble\" pattern + thin internal septations +",
+      "rapid progression within 6 weeks to 3 months",
+      "sclerotic inner portion",
+      "almost invisible thin cortex (CT shows integrity)",
+      "tumor respects epiphyseal plate",
+      "no periosteal reaction (except when fractured)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "20-30% recurrence rate",
+    "Rx": "preoperative embolotherapy; complete resection; radiation therapy (subsequent sarcoma"
+  }
+}

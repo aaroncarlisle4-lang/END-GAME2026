@@ -1,0 +1,82 @@
+{
+  "finding": "B. BILATERAL",
+  "slug": "b_bilateral_0a0c7d",
+  "chapter": "ABNORMAL NEPHROGRAM",
+  "source_file": "processed_clusters/abnormal_nephrogram/b_bilateral_0a0c7d.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute pyelonephritis",
+      "raw": "Acute pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Intratubular obstruction: Tamm-Horsfall proteinuria, rhabdomyolysis with myoglobinuria",
+      "raw": "Intratubular obstruction: Tamm-Horsfall proteinuria, rhabdomyolysis with myoglobinuria",
+      "frequency": null
+    },
+    {
+      "name": "Systemic hypotension",
+      "raw": "Systemic hypotension",
+      "frequency": null
+    },
+    {
+      "name": "Autosomal recessive PCKD",
+      "raw": "Autosomal recessive PCKD",
+      "frequency": null
+    },
+    {
+      "name": "Medullary sponge kidney",
+      "raw": "Medullary sponge kidney",
+      "frequency": null
+    },
+    {
+      "name": "Medullary cystic disease",
+      "raw": "Medullary cystic disease",
+      "frequency": null
+    },
+    {
+      "name": "Contusion",
+      "raw": "Contusion",
+      "frequency": null
+    },
+    {
+      "name": "Hypotension",
+      "raw": "Hypotension (systemic)",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction (ureteral)",
+      "frequency": null
+    },
+    {
+      "name": "Intratubular obstruction",
+      "raw": "Intratubular obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Renal vein thrombosis",
+      "raw": "Renal vein thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial nephritis",
+      "raw": "Bacterial nephritis (acute)",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction (ureteral) - it is so common!",
+      "raw": "Obstruction (ureteral) - it is so common!",
+      "frequency": "common"
+    },
+    {
+      "name": "Yes, also cystic diseases: infantile PCKD, medullary cystic disease, medullary sponge kidney",
+      "raw": "Yes, also cystic diseases: infantile PCKD, medullary cystic disease, medullary sponge kidney",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

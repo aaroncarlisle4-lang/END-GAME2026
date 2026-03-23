@@ -1,0 +1,32 @@
+{
+  "finding": "A. PRIMARY TUMOR",
+  "slug": "a_primary_tumor_c17dc6",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/a_primary_tumor_c17dc6.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pituitary adenoma",
+      "raw": "Pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma: hyperostosis",
+      "raw": "Meningioma: hyperostosis",
+      "frequency": null
+    },
+    {
+      "name": "Optic glioma: J-shaped sella",
+      "raw": "Optic glioma: J-shaped sella",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

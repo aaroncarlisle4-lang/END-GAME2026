@@ -1,0 +1,27 @@
+{
+  "finding": "Heterogeneous Fat-containing Retroperitoneal Mass",
+  "slug": "heterogeneous_fat_containing_retroperitoneal_mass",
+  "chapter": "RETROPERITONEUM",
+  "source_file": "processed_clusters/retroperitoneum/heterogeneous_fat_containing_retroperitoneal_mass.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dedifferentiated Liposarcoma",
+      "raw": "Dedifferentiated Liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Myelolipoma",
+      "raw": "Myelolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  positive for erythroid elements on 99mTc-sulfur colloid"
+}

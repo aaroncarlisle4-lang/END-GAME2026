@@ -1,0 +1,27 @@
+{
+  "finding": "D. INHALATIONAL DISORDER",
+  "slug": "d_inhalational_disorder_147379",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/d_inhalational_disorder_147379.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Asbestos exposure: lower lateral chest wall; basilar interstitial disease (< 25%);",
+      "raw": "Asbestos exposure: lower lateral chest wall; basilar interstitial disease (< 25%);",
+      "frequency": "25%"
+    },
+    {
+      "name": "Silicosis",
+      "raw": "Silicosis (advanced disease)",
+      "frequency": null
+    },
+    {
+      "name": "Talcosis",
+      "raw": "Talcosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thickening of parietal pleura + typically sparing of visceral pleura"
+}

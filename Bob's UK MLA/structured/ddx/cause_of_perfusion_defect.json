@@ -1,0 +1,167 @@
+{
+  "finding": "Cause of Perfusion Defect",
+  "slug": "cause_of_perfusion_defect",
+  "chapter": "Organism: Pseudomonas aeruginosa, Gram-negative",
+  "source_file": "processed_clusters/organism_pseudomonas_aeruginosa_gram_negative/cause_of_perfusion_defect.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "VASCULAR DISEASE (a)  Acute / previous pulmonary embolus",
+      "raw": "VASCULAR DISEASE (a)  Acute / previous pulmonary embolus",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary thromboembolic disease",
+      "raw": "Pulmonary thromboembolic disease",
+      "frequency": null
+    },
+    {
+      "name": "Fat embolism",
+      "raw": "Fat embolism",
+      "frequency": null
+    },
+    {
+      "name": "Air embolism",
+      "raw": "Air embolism",
+      "frequency": null
+    },
+    {
+      "name": "Embolus of tumor / cotton wool / balloon for occlusion of AVM / obstruction by",
+      "raw": "Embolus of tumor / cotton wool / balloon for occlusion of AVM / obstruction by",
+      "frequency": null
+    },
+    {
+      "name": "Dirofilaria immitis (dog heartworm): clumps of heartworms break off cardiac wall + embolize pulmonary arterial tree",
+      "raw": "Dirofilaria immitis (dog heartworm): clumps of heartworms break off cardiac wall + embolize pulmonary arterial tree",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease (b)  Vasculitis",
+      "raw": "Sickle cell disease (b)  Vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "Collagen vascular disease: sarcoidosis",
+      "raw": "Collagen vascular disease: sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "IV drug abuse",
+      "raw": "IV drug abuse",
+      "frequency": null
+    },
+    {
+      "name": "Previous radiation therapy:",
+      "raw": "Previous radiation therapy:",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis (c)  Vascular compression",
+      "raw": "Tuberculosis (c)  Vascular compression",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic carcinoma:",
+      "raw": "Bronchogenic carcinoma:",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / lymph node enlargement",
+      "raw": "Lymphoma / lymph node enlargement",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary artery sarcoma",
+      "raw": "Pulmonary artery sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosing mediastinitis ← histoplasmosis",
+      "raw": "Fibrosing mediastinitis ← histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic pulmonary fibrosis:",
+      "raw": "Idiopathic pulmonary fibrosis:",
+      "frequency": null
+    },
+    {
+      "name": "Aortic aneurysm",
+      "raw": "Aortic aneurysm (large saccular / dissecting)",
+      "frequency": null
+    },
+    {
+      "name": "Intrathoracic stomach (d)  Altered pulmonary circulation",
+      "raw": "Intrathoracic stomach (d)  Altered pulmonary circulation",
+      "frequency": null
+    },
+    {
+      "name": "Absence / hypoplasia of pulmonary artery",
+      "raw": "Absence / hypoplasia of pulmonary artery",
+      "frequency": null
+    },
+    {
+      "name": "Peripheral pulmonary artery stenosis",
+      "raw": "Peripheral pulmonary artery stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Bronchopulmonary sequestration",
+      "raw": "Bronchopulmonary sequestration",
+      "frequency": null
+    },
+    {
+      "name": "Primary pulmonary hypertension",
+      "raw": "Primary pulmonary hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary venoocclusive disease",
+      "raw": "Pulmonary venoocclusive disease",
+      "frequency": null
+    },
+    {
+      "name": "Mitral valve disease",
+      "raw": "Mitral valve disease",
+      "frequency": null
+    },
+    {
+      "name": "Congestive heart failure",
+      "raw": "Congestive heart failure",
+      "frequency": null
+    },
+    {
+      "name": "AIRWAY DISEASE ◊  Nearly all pulmonary disease produces decreased pulmonary blood flow to affected lung zones = autoregulatory reflexive vasoconstriction!",
+      "raw": "AIRWAY DISEASE ◊  Nearly all pulmonary disease produces decreased pulmonary blood flow to affected lung zones = autoregulatory reflexive vasoconstriction!",
+      "frequency": null
+    },
+    {
+      "name": "Asthma, chronic bronchitis, bronchospasm, mucus plugging",
+      "raw": "Asthma, chronic bronchitis, bronchospasm, mucus plugging",
+      "frequency": null
+    },
+    {
+      "name": "Bronchiectasis",
+      "raw": "Bronchiectasis (bronchiolar destruction)",
+      "frequency": null
+    },
+    {
+      "name": "Emphysema",
+      "raw": "Emphysema (bulla / cyst)",
+      "frequency": null
+    },
+    {
+      "name": "Pneumonia / lung abscess",
+      "raw": "Pneumonia / lung abscess",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangitic carcinomatosis",
+      "raw": "Lymphangitic carcinomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  nonsegmental perfusion defect √  characteristic decortication appearance in uppermost portion on perfusion scintigraphy Swan-Ganz catheter, other foreign body √  defect localized to radiation port √  perfusion defect depending on tumor size + location √  small subsegmental defects in both lungs √  upward redistribution + large hilar defects √  multiple small peripheral perfusion defects √  predilection for right middle lobe + superior segments of lower lobes √  diffuse nonsegmental V/Q mismatch √  enlargement of cardiac silhouette + perihilar regions √  reversed distribution: more activity"
+}

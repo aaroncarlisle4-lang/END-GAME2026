@@ -1,0 +1,28 @@
+{
+  "name": "AUTOSOMAL DOMINANT POLYCYSTIC DISEASE",
+  "slug": "autosomal_dominant_polycystic_disease",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/autosomal_dominant_polycystic_disease.md",
+  "definition": "POLYCYSTIC LIVER DISEASE part of spectrum of fibropolycystic liver disease",
+  "demographics": {
+    "Etiology": "biliary ductal plate malformation at the level of the small intrahepatic bile ducts with",
+    "Associated with": "polycystic kidney disease (in 50%)"
+  },
+  "dominant_finding": "enlarged diffusely cystic liver: cysts of 1 mm - 12 cm in diameter",
+  "distribution": "± diffuse dilatation of intra- and extrahepatic bile ducts",
+  "discriminating_features": [
+    "enlarged diffusely cystic liver: cysts of 1 mm - 12 cm in diameter",
+    "calcifications of cyst wall ← hemorrhage / infection",
+    "± diffuse dilatation of intra- and extrahepatic bile ducts"
+  ],
+  "other_features": {
+    "general": [
+      "enlarged diffusely cystic liver: cysts of 1 mm - 12 cm in diameter",
+      "calcifications of cyst wall ← hemorrhage / infection",
+      "± diffuse dilatation of intra- and extrahepatic bile ducts"
+    ]
+  },
+  "clinical": {
+    "Cx": "infection, compression, bleeding, rupture of cysts"
+  }
+}

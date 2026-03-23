@@ -1,0 +1,28 @@
+{
+  "name": "ANTRAL-MUCOSAL DIAPHRAGM",
+  "slug": "antral_mucosal_diaphragm",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/antral_mucosal_diaphragm.md",
+  "definition": "ANTRAL WEB",
+  "demographics": {
+    "Associated with": "gastric ulcer (30-50%)",
+    "Location": "usually 1.5 cm from pylorus (range 0-7 cm)"
+  },
+  "dominant_finding": "constant symmetric band of 2-3 mm thickness traversing the antrum perpendicular to long axis",
+  "distribution": "usually 1.5 cm from pylorus (range 0-7 cm)",
+  "discriminating_features": [
+    "constant symmetric band of 2-3 mm thickness traversing the antrum perpendicular to long axis",
+    "\"double bulb\" appearance (in profile)",
+    "concentric / eccentric orifice",
+    "normal peristaltic activity"
+  ],
+  "other_features": {
+    "general": [
+      "constant symmetric band of 2-3 mm thickness traversing the antrum perpendicular to long axis",
+      "\"double bulb\" appearance (in profile)",
+      "concentric / eccentric orifice",
+      "normal peristaltic activity"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,77 @@
+{
+  "finding": "Rico, Middle East",
+  "slug": "rico_middle_east_19b573",
+  "chapter": "RETROPERITONEAL TERATOMA",
+  "source_file": "processed_clusters/retroperitoneal_teratoma/rico_middle_east_19b573.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Schistosoma japonicum",
+      "raw": "Schistosoma japonicum",
+      "frequency": null
+    },
+    {
+      "name": "Endemic to:   east Asia, China, Philippines",
+      "raw": "Endemic to:   east Asia, China, Philippines",
+      "frequency": null
+    },
+    {
+      "name": "Path:  eggs deposited in peripheral small portal veins",
+      "raw": "Path:  eggs deposited in peripheral small portal veins",
+      "frequency": null
+    },
+    {
+      "name": "Intermediate host:   snail",
+      "raw": "Intermediate host:   snail",
+      "frequency": null
+    },
+    {
+      "name": "Splenomegaly with siderotic nodules",
+      "raw": "Splenomegaly with siderotic nodules",
+      "frequency": null
+    },
+    {
+      "name": "Portal vein thrombosis with collateral circulation → gastrointestinal hemorrhage",
+      "raw": "Portal vein thrombosis with collateral circulation → gastrointestinal hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Portal cholangiopathy → cavernous transformation of portal vein → biliary obstruction with jaundice",
+      "raw": "Portal cholangiopathy → cavernous transformation of portal vein → biliary obstruction with jaundice",
+      "frequency": null
+    },
+    {
+      "name": "Portal hypertension → eggs shunted from portal system into pulmonary vasculature @   GI tract",
+      "raw": "Portal hypertension → eggs shunted from portal system into pulmonary vasculature @   GI tract",
+      "frequency": null
+    },
+    {
+      "name": "shortness of breath, wheezing, dry cough",
+      "raw": "shortness of breath, wheezing, dry cough",
+      "frequency": null
+    },
+    {
+      "name": "eosinophilia ← immunologic type 3 reaction",
+      "raw": "eosinophilia ← immunologic type 3 reaction",
+      "frequency": null
+    },
+    {
+      "name": "Katayama fever = pulmonary symptoms coincide with febrile illness ← immunologic reaction to parasite eggs",
+      "raw": "Katayama fever = pulmonary symptoms coincide with febrile illness ← immunologic reaction to parasite eggs",
+      "frequency": null
+    },
+    {
+      "name": "dyspnea, chest pain, fatigue, palpitations, cough",
+      "raw": "dyspnea, chest pain, fatigue, palpitations, cough",
+      "frequency": null
+    },
+    {
+      "name": "right-sided heart failure",
+      "raw": "right-sided heart failure (late)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Path:  eggs deposited along large portal veins of liver hilum Life cycle: (a)  within snail : miracidia mature into cercariae → released into water + swim → penetrate skin / intestinal wall of human host (b)  within human: in mesenteric veins ›  migration via blood + lymph vessels into lung → afterward liver → eggs released into portal circulation ›  adult worm inhabits inferior mesenteric + portal veins ›  eggs excreted in human feces → reach water → hatching of miracidia → infection of snails Path: (a)   intestinal schistosomiasis: ›  exudative granulomatous response (proctocolitis) → format"
+}

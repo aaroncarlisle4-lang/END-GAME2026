@@ -1,0 +1,47 @@
+{
+  "finding": "B. OBSTRUCTION (a) primary obstruction",
+  "slug": "b_obstruction_a_primary_obstruction_2fcca1",
+  "chapter": "D. COMPRESSION",
+  "source_file": "processed_clusters/d_compression/b_obstruction_a_primary_obstruction_2fcca1.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intrinsic ureteral obstruction: stone, stricture, tumor",
+      "raw": "Intrinsic ureteral obstruction: stone, stricture, tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic ureter",
+      "raw": "Ectopic ureter",
+      "frequency": null
+    },
+    {
+      "name": "Ureterocele",
+      "raw": "Ureterocele",
+      "frequency": null
+    },
+    {
+      "name": "Ureteral duplication",
+      "raw": "Ureteral duplication",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal obstruction: tumor, fibrosis, aortic aneurysm",
+      "raw": "Retroperitoneal obstruction: tumor, fibrosis, aortic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Bladder wall mass",
+      "raw": "Bladder wall mass",
+      "frequency": null
+    },
+    {
+      "name": "Bladder outlet obstruction: eg, prostatic enlargement",
+      "raw": "Bladder outlet obstruction: eg, prostatic enlargement",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  tortuous dilated ureter of upper moiety (b)  secondary obstruction"
+}

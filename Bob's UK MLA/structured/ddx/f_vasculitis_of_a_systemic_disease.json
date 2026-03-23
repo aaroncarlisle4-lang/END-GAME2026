@@ -1,0 +1,37 @@
+{
+  "finding": "F. VASCULITIS OF A SYSTEMIC DISEASE",
+  "slug": "f_vasculitis_of_a_systemic_disease",
+  "chapter": "D. VARIABLE-SIZED-VESSEL VASCULITIS",
+  "source_file": "processed_clusters/d_variable_sized_vessel_vasculitis/f_vasculitis_of_a_systemic_disease.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus (SLE)",
+      "frequency": null
+    },
+    {
+      "name": "Sjögren syndrome",
+      "raw": "Sjögren syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "APLA (antiphospholipid antibody) syndrome",
+      "raw": "APLA (antiphospholipid antibody) syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

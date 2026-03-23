@@ -1,0 +1,37 @@
+{
+  "finding": "A. TUMOR",
+  "slug": "a_tumor_2_c0614f",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/a_tumor_2_c0614f.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trigeminal schwannoma",
+      "raw": "Trigeminal schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary adenoma",
+      "raw": "Pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Parasellar meningioma",
+      "raw": "Parasellar meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Parasellar metastasis",
+      "raw": "Parasellar metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Invasion by tumor of skull base",
+      "raw": "Invasion by tumor of skull base",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,117 @@
+{
+  "finding": "Pediatric Neck Lesions",
+  "slug": "pediatric_neck_lesions_953f46",
+  "chapter": "D. NEUROLOGIC",
+  "source_file": "processed_clusters/d_neurologic/pediatric_neck_lesions_953f46.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Teratoma @    Visceral",
+      "raw": "Teratoma @    Visceral",
+      "frequency": null
+    },
+    {
+      "name": "Retropharyngeal cellulitis",
+      "raw": "Retropharyngeal cellulitis",
+      "frequency": null
+    },
+    {
+      "name": "GI duplication cyst",
+      "raw": "GI duplication cyst",
+      "frequency": null
+    },
+    {
+      "name": "Thyroglossal duct cyst",
+      "raw": "Thyroglossal duct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Goiter",
+      "raw": "Goiter",
+      "frequency": null
+    },
+    {
+      "name": "Laryngocele",
+      "raw": "Laryngocele",
+      "frequency": null
+    },
+    {
+      "name": "Lymphadenopathy @    Prevertebral space",
+      "raw": "Lymphadenopathy @    Prevertebral space",
+      "frequency": null
+    },
+    {
+      "name": "Descending necrotizing mediastinitis @    Carotid space",
+      "raw": "Descending necrotizing mediastinitis @    Carotid space",
+      "frequency": null
+    },
+    {
+      "name": "Lemierre syndrome @    Parotid space",
+      "raw": "Lemierre syndrome @    Parotid space",
+      "frequency": null
+    },
+    {
+      "name": "Acute parotitis",
+      "raw": "Acute parotitis",
+      "frequency": null
+    },
+    {
+      "name": "HIV parotitis @    Submandibular space",
+      "raw": "HIV parotitis @    Submandibular space",
+      "frequency": null
+    },
+    {
+      "name": "2nd branchial cyst",
+      "raw": "2nd branchial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Thyroglossal duct cyst @    Masticator space",
+      "raw": "Thyroglossal duct cyst @    Masticator space",
+      "frequency": null
+    },
+    {
+      "name": "Venous malformation @    Parapharyngeal space",
+      "raw": "Venous malformation @    Parapharyngeal space",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma @    Posterior cervical space",
+      "raw": "Rhabdomyosarcoma @    Posterior cervical space",
+      "frequency": null
+    },
+    {
+      "name": "Lymphatic malformation @    Perivertebral space",
+      "raw": "Lymphatic malformation @    Perivertebral space",
+      "frequency": null
+    },
+    {
+      "name": "Cervical sporadic Burkitt lymphoma",
+      "raw": "Cervical sporadic Burkitt lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Cervical neuroblastoma",
+      "raw": "Cervical neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Cervical dermal sinus @    Sternocleidomastoid muscle space",
+      "raw": "Cervical dermal sinus @    Sternocleidomastoid muscle space",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis colli @    Multiple spaces",
+      "raw": "Fibromatosis colli @    Multiple spaces",
+      "frequency": null
+    },
+    {
+      "name": "Cervical lymphadenitis",
+      "raw": "Cervical lymphadenitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "@    Superficial"
+}

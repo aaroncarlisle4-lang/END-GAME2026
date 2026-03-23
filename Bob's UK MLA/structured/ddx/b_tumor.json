@@ -1,0 +1,32 @@
+{
+  "finding": "B. TUMOR",
+  "slug": "b_tumor",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/b_tumor.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (a)  from mucinous-producing adenocarcinoma (b)  hemorrhagic metastases: melanoma, choriocarcinoma, hypernephroma, bronchogenic carcinoma, breast carcinoma (rarely)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "B. METAPHYSEAL LESION",
+  "slug": "b_metaphyseal_lesion_08d34a",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/myeloproliferative_disorders/b_metaphyseal_lesion_08d34a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma (close to growth plate)",
+      "frequency": null
+    },
+    {
+      "name": "Chondromyxoid fibroma",
+      "raw": "Chondromyxoid fibroma (abutting growth plate)",
+      "frequency": null
+    },
+    {
+      "name": "Solitary bone cyst",
+      "raw": "Solitary bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Osteochondroma",
+      "raw": "Osteochondroma",
+      "frequency": null
+    },
+    {
+      "name": "Brodie abscess",
+      "raw": "Brodie abscess",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenic sarcoma, chondrosarcoma",
+      "raw": "Osteogenic sarcoma, chondrosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Patchy Airspace Consolidations",
+  "slug": "patchy_airspace_consolidations",
+  "chapter": "E. BRONCHIECTASIS",
+  "source_file": "processed_clusters/e_bronchiectasis/patchy_airspace_consolidations.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pneumonia",
+      "raw": "Pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Bronchiolitis obliterans organizing pneumonia",
+      "raw": "Bronchiolitis obliterans organizing pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

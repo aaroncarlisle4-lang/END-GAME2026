@@ -1,0 +1,92 @@
+{
+  "finding": "Destruction of Sella",
+  "slug": "destruction_of_sella",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/destruction_of_sella.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pituitary adenoma",
+      "raw": "Pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Suprasellar tumor",
+      "raw": "Suprasellar tumor",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma of sphenoid + posterior ethmoid sinus",
+      "raw": "Carcinoma of sphenoid + posterior ethmoid sinus",
+      "frequency": null
+    },
+    {
+      "name": "Nasopharyngeal carcinoma (a)  squamous cell carcinoma (b)  lymphoepithelioma = Schmincke tumor = nonkeratinizing form of squamous cell carcinoma",
+      "raw": "Nasopharyngeal carcinoma (a)  squamous cell carcinoma (b)  lymphoepithelioma = Schmincke tumor = nonkeratinizing form of squamous cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis to sphenoid: from breast, kidney, thyroid, colon, prostate, lung, esophagus",
+      "raw": "Metastasis to sphenoid: from breast, kidney, thyroid, colon, prostate, lung, esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Primary tumor of sphenoid bone (rare): osteogenic sarcoma, giant cell tumor, plasmacytoma",
+      "raw": "Primary tumor of sphenoid bone (rare): osteogenic sarcoma, giant cell tumor, plasmacytoma",
+      "frequency": "rare"
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucocele of sphenoid sinus",
+      "raw": "Mucocele of sphenoid sinus (uncommon)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Enlarged 3rd ventricle aqueductal stenosis ← infratentorial mass, maldevelopment",
+      "raw": "Enlarged 3rd ventricle aqueductal stenosis ← infratentorial mass, maldevelopment",
+      "frequency": null
+    },
+    {
+      "name": "Chronic hydrocephalus",
+      "raw": "Chronic hydrocephalus",
+      "frequency": null
+    },
+    {
+      "name": "Optic glioma, Osteogenesis imperfecta",
+      "raw": "Optic glioma, Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Mucopolysaccharidosis",
+      "raw": "Mucopolysaccharidosis",
+      "frequency": null
+    },
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Normal variant",
+      "raw": "Normal variant",
+      "frequency": null
+    },
+    {
+      "name": "Enlarged Sella",
+      "raw": "Enlarged Sella",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  opacification of sinus + destruction of walls √  associated with nasopharyngeal mass (common) √  sclerosis of adjacent bone J-shaped Sella mnemonic:   \"CONMAN\""
+}

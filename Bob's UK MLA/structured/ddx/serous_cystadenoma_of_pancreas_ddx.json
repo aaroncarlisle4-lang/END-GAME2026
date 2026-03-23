@@ -1,0 +1,27 @@
+{
+  "finding": "Serous Cystadenoma Of Pancreas (DDx)",
+  "slug": "serous_cystadenoma_of_pancreas_ddx",
+  "chapter": "Serous Cystadenoma Of Pancreas",
+  "source_file": "processed_clusters/serous_cystadenoma_of_pancreas/serous_cystadenoma_of_pancreas_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "malignant mucinous cystic neoplasm (younger age",
+      "raw": "malignant mucinous cystic neoplasm (younger age",
+      "frequency": null
+    },
+    {
+      "name": "body + tail of pancreas",
+      "raw": "body + tail of pancreas",
+      "frequency": null
+    },
+    {
+      "name": "> 10 cm large at presentation)",
+      "raw": "> 10 cm large at presentation)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "late enhancement of thin fibrous septa | signal void in central scar ← coarse calcifications | delayed enhancement of scar on contrast-enhanced FLASH | hypervascular mass with dilated feeding arteries, dense tumor blush, prominent draining"
+}

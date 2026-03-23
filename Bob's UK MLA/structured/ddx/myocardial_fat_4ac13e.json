@@ -1,0 +1,47 @@
+{
+  "finding": "Myocardial Fat",
+  "slug": "myocardial_fat_4ac13e",
+  "chapter": "C. MYOCARDIAL / INTRAMURAL",
+  "source_file": "processed_clusters/c_myocardial_intramural/myocardial_fat_4ac13e.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Physiologic fat: ↑ in degree with age",
+      "raw": "Physiologic fat: ↑ in degree with age",
+      "frequency": null
+    },
+    {
+      "name": "Healed myocardial infarct =  replacement of scar by fat; usually > 6 months after MI",
+      "raw": "Healed myocardial infarct =  replacement of scar by fat; usually > 6 months after MI",
+      "frequency": null
+    },
+    {
+      "name": "Arrhythmogenic RV cardiomyopathy",
+      "raw": "Arrhythmogenic RV cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac lipoma",
+      "raw": "Cardiac lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipomatous hypertrophy of interatrial septum",
+      "raw": "Lipomatous hypertrophy of interatrial septum",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis complex",
+      "raw": "Tuberous sclerosis complex",
+      "frequency": null
+    },
+    {
+      "name": "Dilated cardiomyopathy",
+      "raw": "Dilated cardiomyopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  focal area of attenuation < 20 HU / fat-suppression on MR Prevalence:   16-43% on CT; 85% on autopsy; ↑ with age Location:   anterolateral free wall + RVOT Site:   outer half of RV wall → extension toward endocardium sparing subendocardium √  increase of total myocardial thickness: RV > LV Physiologic RV myocardial fat is most frequent on anterolateral free wall, i.e. basal superior wall > middle superior wall > RVOT! Prevalence:   22-62% with history of MI Location:   subendocardial region of culprit coronary a. √  thin linear / curvilinear configuration"
+}

@@ -1,0 +1,62 @@
+{
+  "finding": "E. DYSTROPHIC CALCIFICATION",
+  "slug": "e_dystrophic_calcification_51d24e",
+  "chapter": "D. URINARY STASIS",
+  "source_file": "processed_clusters/d_urinary_stasis/e_dystrophic_calcification_51d24e.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal papillary necrosis ← especially analgesic nephropathy",
+      "raw": "Renal papillary necrosis ← especially analgesic nephropathy",
+      "frequency": null
+    },
+    {
+      "name": "Chronic pyelonephritis",
+      "raw": "Chronic pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease",
+      "raw": "Sickle cell disease",
+      "frequency": null
+    },
+    {
+      "name": "Renal tuberculosis",
+      "raw": "Renal tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Acidosis",
+      "raw": "Acidosis (renal tubular)",
+      "frequency": null
+    },
+    {
+      "name": "Medullary sponge kidney",
+      "raw": "Medullary sponge kidney",
+      "frequency": null
+    },
+    {
+      "name": "Hypercalcemia / hypercalciuria (sarcoidosis, milk-alkali syndrome, hypervitaminosis",
+      "raw": "Hypercalcemia / hypercalciuria (sarcoidosis, milk-alkali syndrome, hypervitaminosis",
+      "frequency": null
+    },
+    {
+      "name": "D)",
+      "raw": "D)",
+      "frequency": null
+    },
+    {
+      "name": "Oxalosis",
+      "raw": "Oxalosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Papillary necrosis √  normal-sized / occasionally enlarged kidneys (medullary sponge kidney) √  small poorly defined / large coarse granular calcifications in renal pyramids: √  uniform deposition: hyperparathyroidism / distal renal tubular acidosis (type 1) √  asymmetric deposition in dilated collecting ducts within papillary tips: medullary sponge kidney US: √  absence of hypoechoic papillary structures (earliest sign) √  hyperechoic rim at corticomedullary junction + around tip and sides of pyramids √  solitary focus of hyperechogenicity at tip of pyramid near fornix √  increased echogenici"
+}

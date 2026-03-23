@@ -1,0 +1,97 @@
+{
+  "finding": "Benign Lesion of Finger",
+  "slug": "benign_lesion_of_finger_03cab9",
+  "chapter": "FINGER",
+  "source_file": "processed_clusters/finger/benign_lesion_of_finger_03cab9.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "Enchondromatosis",
+      "raw": "Enchondromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Periosteal / juxtacortical chondroma",
+      "raw": "Periosteal / juxtacortical chondroma",
+      "frequency": null
+    },
+    {
+      "name": "Chondromyxoid fibroma",
+      "raw": "Chondromyxoid fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Chondroblastoma (b)  bone matrix",
+      "raw": "Chondroblastoma (b)  bone matrix",
+      "frequency": null
+    },
+    {
+      "name": "Osteochondroma",
+      "raw": "Osteochondroma",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary multiple exostoses",
+      "raw": "Hereditary multiple exostoses",
+      "frequency": null
+    },
+    {
+      "name": "Subungual exostosis",
+      "raw": "Subungual exostosis",
+      "frequency": null
+    },
+    {
+      "name": "Florid Reactive Periostitis",
+      "raw": "Florid Reactive Periostitis",
+      "frequency": null
+    },
+    {
+      "name": "Bizarre parosteal osteochondromatous proliferation",
+      "raw": "Bizarre parosteal osteochondromatous proliferation",
+      "frequency": null
+    },
+    {
+      "name": "Osteoid osteoma",
+      "raw": "Osteoid osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor (b)  mimics of primary osseous lesion",
+      "raw": "Giant cell tumor (b)  mimics of primary osseous lesion",
+      "frequency": null
+    },
+    {
+      "name": "Glomus tumor",
+      "raw": "Glomus tumor",
+      "frequency": null
+    },
+    {
+      "name": "Epidermal inclusion cyst",
+      "raw": "Epidermal inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Systemic disease: sarcoidosis, tophaceous gout, brown tumor of hyperparathyroidism, rheumatoid arthritis ± pressure erosion from overlying rheumatoid nodule",
+      "raw": "Systemic disease: sarcoidosis, tophaceous gout, brown tumor of hyperparathyroidism, rheumatoid arthritis ± pressure erosion from overlying rheumatoid nodule",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  cartilage matrix"
+}

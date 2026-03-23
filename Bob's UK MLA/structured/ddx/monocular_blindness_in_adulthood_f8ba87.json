@@ -1,0 +1,32 @@
+{
+  "finding": "Monocular Blindness In Adulthood",
+  "slug": "monocular_blindness_in_adulthood_f8ba87",
+  "chapter": "ANOPIA",
+  "source_file": "processed_clusters/anopia/monocular_blindness_in_adulthood_f8ba87.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Optic neuritis",
+      "raw": "Optic neuritis",
+      "frequency": null
+    },
+    {
+      "name": "Vascular ischemia (a)  Amaurosis fugax = cholesterol emboli from ICA occluding central retinal artery and its branches (b)  Occult cerebrovascular malformation affecting the optic nerve",
+      "raw": "Vascular ischemia (a)  Amaurosis fugax = cholesterol emboli from ICA occluding central retinal artery and its branches (b)  Occult cerebrovascular malformation affecting the optic nerve",
+      "frequency": null
+    },
+    {
+      "name": "Temporal arteritis",
+      "raw": "Temporal arteritis",
+      "frequency": null
+    },
+    {
+      "name": "Malignant optic glioma of adulthood",
+      "raw": "Malignant optic glioma of adulthood",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

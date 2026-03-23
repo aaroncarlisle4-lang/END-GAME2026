@@ -1,0 +1,32 @@
+{
+  "finding": "D. CYSTIC NEOPLASM",
+  "slug": "d_cystic_neoplasm_a123f2",
+  "chapter": "SPLEEN",
+  "source_file": "processed_clusters/spleen/d_cystic_neoplasm_a123f2.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cavernous hemangioma ◊  Most common primary neoplasm of the spleen!",
+      "raw": "Cavernous hemangioma ◊  Most common primary neoplasm of the spleen!",
+      "frequency": "most common"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (most common malignant neoplasm!)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Lymphangioma / lymphangiomatosis",
+      "raw": "Lymphangioma / lymphangiomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Necrotic metastasis:",
+      "raw": "Necrotic metastasis:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  hyperdense lesion √  splenomegaly √  multiple small / large masses √  multiple septated subcapsular cystic lesions malignant melanoma (in 50%), breast, lung, ovarian, pancreatic, endometrial, colonic, prostatic, carcinoma; chondrosarcoma ◊  In 7% of patients with widespread metastasis!"
+}

@@ -1,0 +1,207 @@
+{
+  "finding": "AMYLOIDOSIS",
+  "slug": "amyloidosis",
+  "chapter": "AIDS",
+  "source_file": "processed_clusters/aids/amyloidosis.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "AL amyloidosis",
+      "raw": "AL amyloidosis (A = amyloidosis, L = light chain immunoglobulin)",
+      "frequency": null
+    },
+    {
+      "name": "monoclonal protein in serum + urine",
+      "raw": "monoclonal protein in serum + urine",
+      "frequency": null
+    },
+    {
+      "name": "occurs in primary amyloidosis + myeloma-associated amyloidosis",
+      "raw": "occurs in primary amyloidosis + myeloma-associated amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "SAA amyloidosis",
+      "raw": "SAA amyloidosis (S = secondary, AA = amyloid A)",
+      "frequency": null
+    },
+    {
+      "name": "occurs in secondary = reactive amyloidosis",
+      "raw": "occurs in secondary = reactive amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "cardiomyopathy with restrictive ventricular filling",
+      "raw": "cardiomyopathy with restrictive ventricular filling",
+      "frequency": null
+    },
+    {
+      "name": "AF amyloidosis",
+      "raw": "AF amyloidosis (A = amyloid, F = familial)",
+      "frequency": null
+    },
+    {
+      "name": "AF prealbumin as precursor of fibrils",
+      "raw": "AF prealbumin as precursor of fibrils",
+      "frequency": null
+    },
+    {
+      "name": "occurs in familial amyloidosis",
+      "raw": "occurs in familial amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "AS amyloidosis",
+      "raw": "AS amyloidosis (A = amyloid, S = senile)",
+      "frequency": null
+    },
+    {
+      "name": "AS prealbumin as precursor of fibrils",
+      "raw": "AS prealbumin as precursor of fibrils",
+      "frequency": null
+    },
+    {
+      "name": "occurs in senile amyloidosis",
+      "raw": "occurs in senile amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "AH amyloidosis",
+      "raw": "AH amyloidosis (A = amyloid, H = hemodialysis)",
+      "frequency": null
+    },
+    {
+      "name": "β2 microglobulin as precursor of fibrils",
+      "raw": "β2 microglobulin as precursor of fibrils",
+      "frequency": null
+    },
+    {
+      "name": "AE amyloidosis",
+      "raw": "AE amyloidosis (A = amyloid, E = endocrine)",
+      "frequency": null
+    },
+    {
+      "name": "calcitonin produced by medullary thyroid carcinoma is precursor of fibrils",
+      "raw": "calcitonin produced by medullary thyroid carcinoma is precursor of fibrils",
+      "frequency": null
+    },
+    {
+      "name": "Transthyretin (ATTR)-related hereditary amyloidosis",
+      "raw": "Transthyretin (ATTR)-related hereditary amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "cardiomyopathy with restrictive ventricular filling",
+      "raw": "cardiomyopathy with restrictive ventricular filling",
+      "frequency": null
+    },
+    {
+      "name": "β2-microglobulin (Abeta2M)-derived dialysis-related amyloidosis",
+      "raw": "β2-microglobulin (Abeta2M)-derived dialysis-related amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Primary = idiopathic amyloidosis =  amyloid immunoglobulin light chain",
+      "raw": "Primary = idiopathic amyloidosis =  amyloid immunoglobulin light chain (AL) disease =  probably autosomal dominant inheritance with immunologically determined dysfunction of plasma cells (clonal B-cell dyscrasia)",
+      "frequency": null
+    },
+    {
+      "name": "absence of discernible preceding / concurrent disease Location:   (predominant involvement of connective tissues + mesenchymal organs): heart (90%), lung (30-70%), liver (35%), spleen (40%), kidneys (35%), adrenals, tongue (40%), GI tract (70%), skin + subcutis (25%), skeletal muscle, joints",
+      "raw": "absence of discernible preceding / concurrent disease Location:   (predominant involvement of connective tissues + mesenchymal organs): heart (90%), lung (30-70%), liver (35%), spleen (40%), kidneys (35%), adrenals, tongue (40%), GI tract (70%), skin + subcutis (25%), skeletal muscle, joints",
+      "frequency": "90%"
+    },
+    {
+      "name": "Secondary amyloidosis (most common form) =  amyloid-associated disease",
+      "raw": "Secondary amyloidosis (most common form) =  amyloid-associated disease",
+      "frequency": "most common"
+    },
+    {
+      "name": "following / coexistent with prolonged infectious / inflammatory processes Cause:   rheumatoid arthritis (in 20%), Still disease, TB, chronic osteomyelitis, leprosy, chronic pyelonephritis, bronchiectasis, ulcerative colitis, Crohn disease, familial",
+      "raw": "following / coexistent with prolonged infectious / inflammatory processes Cause:   rheumatoid arthritis (in 20%), Still disease, TB, chronic osteomyelitis, leprosy, chronic pyelonephritis, bronchiectasis, ulcerative colitis, Crohn disease, familial",
+      "frequency": "20%"
+    },
+    {
+      "name": "Amyloidosis associated with multiple myeloma",
+      "raw": "Amyloidosis associated with multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "may precede development of multiple myeloma",
+      "raw": "may precede development of multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Tumor-forming / organ-limited amyloidosis",
+      "raw": "Tumor-forming / organ-limited amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "related to primary type",
+      "raw": "related to primary type (a)  hereditary = familial amyloidosis (b)  senile amyloidosis (limited to heart / brain / pancreas / spleen)",
+      "frequency": null
+    },
+    {
+      "name": "Localized (organ-limited) amyloidosis (10-20%) =  deposition of abnormal proteins in one organ Cause:   usually primary (rarely secondary) form of amyloidosis; attributed to tissue-based immunocyte dyscrasia",
+      "raw": "Localized (organ-limited) amyloidosis (10-20%) =  deposition of abnormal proteins in one organ Cause:   usually primary (rarely secondary) form of amyloidosis; attributed to tissue-based immunocyte dyscrasia",
+      "frequency": "20%"
+    },
+    {
+      "name": "NO monoclonal protein in serum / urine",
+      "raw": "NO monoclonal protein in serum / urine",
+      "frequency": null
+    },
+    {
+      "name": "negative bone marrow biopsy",
+      "raw": "negative bone marrow biopsy",
+      "frequency": null
+    },
+    {
+      "name": "NO evidence of systemic involvement",
+      "raw": "NO evidence of systemic involvement",
+      "frequency": null
+    },
+    {
+      "name": "Systemic amyloidosis (80-90%) =  deposition of abnormal proteins in wide variety of organs",
+      "raw": "Systemic amyloidosis (80-90%) =  deposition of abnormal proteins in wide variety of organs",
+      "frequency": "90%"
+    },
+    {
+      "name": "bioptic proof of amyloid deposits in subcutaneous fat / rectal mucosa / bone marrow",
+      "raw": "bioptic proof of amyloid deposits in subcutaneous fat / rectal mucosa / bone marrow",
+      "frequency": null
+    },
+    {
+      "name": "monoclonal protein in urine, serum ◊  GI involvement more common in primary than in secondary amyloidosis!",
+      "raw": "monoclonal protein in urine, serum ◊  GI involvement more common in primary than in secondary amyloidosis!",
+      "frequency": "common"
+    },
+    {
+      "name": "malabsorption (diarrhea, protein loss); occult GI bleeding",
+      "raw": "malabsorption (diarrhea, protein loss); occult GI bleeding",
+      "frequency": null
+    },
+    {
+      "name": "intestinal pseudo-obstruction; macroglossia @   Esophagus",
+      "raw": "intestinal pseudo-obstruction; macroglossia @   Esophagus (11%)",
+      "frequency": "11%"
+    },
+    {
+      "name": "postprandial epigastric pain + heartburn",
+      "raw": "postprandial epigastric pain + heartburn",
+      "frequency": null
+    },
+    {
+      "name": "acute erosive hemorrhagic gastritis (a)  diffuse infiltrative form",
+      "raw": "acute erosive hemorrhagic gastritis (a)  diffuse infiltrative form",
+      "frequency": null
+    },
+    {
+      "name": "hepatic function usually preserved",
+      "raw": "hepatic function usually preserved",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  group of heterogeneous disorders caused by interstitial deposits of an insoluble fibrillar protein-polysaccharide in various organs impairing tissue function → hypoxia, mucosal edema, hemorrhage, ulceration, mucosal atrophy, muscle atrophy Cause: (a)   prolonged antigenic stimulation of RES by chronic infection (b)  disorder of immunoincompetence (c)  aging (d)  idiopathic Histo:   amorphous eosinophilic hyaline material deposited around terminal blood vessels, stains with Congo red + crystal violet; green birefringence under polarizing light; amyloid fibrils have β-pleated sheet structure"
+}

@@ -1,0 +1,52 @@
+{
+  "finding": "Cause: trauma, inflammation, parasitic infestation, neoplasia",
+  "slug": "cause_trauma_inflammation_parasitic_infestation_neoplasia_65cfcf",
+  "chapter": "GALLBLADDER TORSION",
+  "source_file": "processed_clusters/gallbladder_torsion/cause_trauma_inflammation_parasitic_infestation_neoplasia_65cfcf.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "CONGENITAL HEPATIC CYST Cause:   defective development of aberrant / obstructed intrahepatic bile ducts; ? derived from bile duct hamartoma",
+      "raw": "CONGENITAL HEPATIC CYST Cause:   defective development of aberrant / obstructed intrahepatic bile ducts; ? derived from bile duct hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Polycystic kidney disease",
+      "raw": "Polycystic kidney disease (25-33% have liver cysts)",
+      "frequency": "33%"
+    },
+    {
+      "name": "Polycystic liver disease: autosomal dominant",
+      "raw": "Polycystic liver disease: autosomal dominant",
+      "frequency": null
+    },
+    {
+      "name": "simple cyst: almost always asymptomatic",
+      "raw": "simple cyst: almost always asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "hepatomegaly (40%); pain (33%); jaundice (9%) Size of cyst:   range from microscopic to huge (average 1.2 cm; in 25% (40%) largest cyst < 1 (> 4) cm; maximal size of 20 cm) Number of cysts:   multiple cysts spread throughout liver (in 60%) / solitary cyst ◊  Consider polycystic liver disease if > 10 cysts",
+      "raw": "hepatomegaly (40%); pain (33%); jaundice (9%) Size of cyst:   range from microscopic to huge (average 1.2 cm; in 25% (40%) largest cyst < 1 (> 4) cm; maximal size of 20 cm) Number of cysts:   multiple cysts spread throughout liver (in 60%) / solitary cyst ◊  Consider polycystic liver disease if > 10 cysts",
+      "frequency": "40%"
+    },
+    {
+      "name": "Metastatic neuroendocrine tumor",
+      "raw": "Metastatic neuroendocrine tumor (can be very cystic ± very bright on T2WI)",
+      "frequency": null
+    },
+    {
+      "name": "Cystic metastasis (in cystic primary tumor) Rare Cx:   infection, rupture, torsion, hemorrhage, malignant transformation into adenocarcinoma",
+      "raw": "Cystic metastasis (in cystic primary tumor) Rare Cx:   infection, rupture, torsion, hemorrhage, malignant transformation into adenocarcinoma",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   liver cysts detected at autopsy in 50%; in 22% detected during life Age of detection:   5th-8th decade Path:   no communication with biliary tree Histo:   cyst surrounded by fibrous capsule + lined by columnar epithelium, related to bile ducts within portal triads; NO communication with bile duct Associated with: √  well-circumscribed round / ovoid unilocular lesion: √  imperceptible wall ± rim calcification √  anechoic with posterior acoustic enhancement √  very bright on T2WI √  water attenuation (-20 to +20 HU) √  no enhancement √  hypointense on T1WI, hyperintense on T2WI √  \""
+}

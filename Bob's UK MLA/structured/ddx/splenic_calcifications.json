@@ -1,0 +1,27 @@
+{
+  "finding": "Splenic Calcifications",
+  "slug": "splenic_calcifications",
+  "chapter": "SPLEEN",
+  "source_file": "processed_clusters/spleen/splenic_calcifications.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "DISSEMINATED",
+      "raw": "DISSEMINATED",
+      "frequency": null
+    },
+    {
+      "name": "Phlebolith: visceral angiomatosis",
+      "raw": "Phlebolith: visceral angiomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma (most common): histoplasmosis, TB, brucellosis",
+      "raw": "Granuloma (most common): histoplasmosis, TB, brucellosis",
+      "frequency": "most common"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

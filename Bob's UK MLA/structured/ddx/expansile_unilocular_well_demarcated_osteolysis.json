@@ -1,0 +1,47 @@
+{
+  "finding": "Expansile Unilocular Well-demarcated Osteolysis",
+  "slug": "expansile_unilocular_well_demarcated_osteolysis",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/expansile_unilocular_well_demarcated_osteolysis.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Simple unicameral bone cyst",
+      "raw": "Simple unicameral bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Juxtacortical chondroma",
+      "raw": "Juxtacortical chondroma",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Brown tumor of HPT",
+      "raw": "Brown tumor of HPT",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,51 @@
+{
+  "name": "STURGE-WEBER-DIMITRI SYNDROME",
+  "slug": "sturge_weber_dimitri_syndrome",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/sturge_weber_dimitri_syndrome.md",
+  "definition": "ENCEPHALOTRIGEMINAL ANGIOMATOSIS = MENINGOFACIAL ANGIOMATOSIS vascular malformation with capillary venous angiomas in distribution of trigeminal nerve with",
+  "demographics": {
+    "Location": "parietal > occipital > frontal lobes"
+  },
+  "dominant_finding": "capillary blush",
+  "distribution": "parietal > occipital > frontal lobes",
+  "discriminating_features": [
+    "capillary blush",
+    "abnormally large veins in subependymal + periventricular regions",
+    "abnormal deep medullary veins draining into internal cerebral vein (= venous shunt)",
+    "failure to opacify superficial cortical veins in calcified region ← markedly slow blood",
+    "leptomeningeal venous angiomas confined to pia mater"
+  ],
+  "other_features": {
+    "general": [],
+    "ANGIO": [
+      "capillary blush",
+      "abnormally large veins in subependymal + periventricular regions",
+      "abnormal deep medullary veins draining into internal cerebral vein (= venous shunt)",
+      "failure to opacify superficial cortical veins in calcified region ← markedly slow blood"
+    ],
+    "CNS MANIFESTATION": [
+      "leptomeningeal venous angiomas confined to pia mater",
+      "cortical hemiatrophy beneath meningeal angioma ← anoxia (steal)",
+      "\"tram track\" gyriform cortical calcifications > 2 years of age; in layers 2-3 (-4-5) of",
+      "subjacent white matter hypodense on CT",
+      "slight prolongation of T1 + T2 relaxation times (gliosis)",
+      "choroid plexus enlargement ipsilateral to angiomatosis",
+      "ipsilateral thickening of skull + orbit ← bone apposition as result of subdural hematoma",
+      "elevation of sphenoid wing + petrous ridge",
+      "enlarged ipsilateral paranasal sinuses + mastoid air cells",
+      "thickened calvarium (= widening of diploic space)"
+    ],
+    "ORBITAL MANIFESTATION": [
+      "choroidal hemangioma (71%)",
+      "dilatation and tortuosity of conjunctival + episcleral + iris + retinal vessels",
+      "buphthalmos"
+    ],
+    "VISCERAL MANIFESTATION": [
+      "localized / diffuse angiomatous malformation"
+    ]
+  },
+  "clinical": {
+    "Cx": "retinal detachment"
+  }
+}

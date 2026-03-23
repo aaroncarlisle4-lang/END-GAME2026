@@ -1,0 +1,27 @@
+{
+  "finding": "E. RETICULAR-MOSAIC PATTERN",
+  "slug": "e_reticular_mosaic_pattern",
+  "chapter": "LIVER CIRCULATION",
+  "source_file": "processed_clusters/liver_circulation/e_reticular_mosaic_pattern.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cirrhosis",
+      "raw": "Cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary hemorrhagic telangiectasia",
+      "raw": "Hereditary hemorrhagic telangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic vein obstruction",
+      "raw": "Hepatic vein obstruction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Arterioportal Shunt =  organic / functional communication between high-pressure hepatic arterial branch + low- pressure portal venous system at level of trunk / sinusoids / peribiliary venules √  small nodular peripheral nonspherical focus isoattenuating with aorta during arterial phase → isoattenuating to liver during portal phase √  for peripheral arterioportal shunt transient wedge-shaped subsegmental area of enhancement during arterial phase → normal parenchymal attenuation during portal venous phase Pathophysiology: (a)  shunted contrast material enhances a focal area of liver parenchyma"
+}

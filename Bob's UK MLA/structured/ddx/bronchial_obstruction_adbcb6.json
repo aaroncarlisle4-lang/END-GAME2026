@@ -1,0 +1,77 @@
+{
+  "finding": "Bronchial Obstruction",
+  "slug": "bronchial_obstruction_adbcb6",
+  "chapter": "TRACHEA & BRONCHI",
+  "source_file": "processed_clusters/trachea_bronchi/bronchial_obstruction_adbcb6.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Foreign body: most commonly in young children",
+      "raw": "Foreign body: most commonly in young children",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease: granuloma formation in bronchial wall / extrinsic compression by lymphadenopathy",
+      "raw": "Granulomatous disease: granuloma formation in bronchial wall / extrinsic compression by lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Broncholith",
+      "raw": "Broncholith",
+      "frequency": null
+    },
+    {
+      "name": "Stenosis / atresia",
+      "raw": "Stenosis / atresia",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm (a)  Bronchogenic carcinoma (b)  Adenoid cystic carcinoma (c)  Mucoepidermoid tumor (d)  Hamartoma",
+      "raw": "Neoplasm (a)  Bronchogenic carcinoma (b)  Adenoid cystic carcinoma (c)  Mucoepidermoid tumor (d)  Hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucus plug",
+      "raw": "Mucus plug",
+      "frequency": null
+    },
+    {
+      "name": "Endobronchial granulomatous disease",
+      "raw": "Endobronchial granulomatous disease",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body",
+      "raw": "Foreign body",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid, Atresia",
+      "raw": "Amyloid, Atresia (bronchial)",
+      "frequency": null
+    },
+    {
+      "name": "Cancer",
+      "raw": "Cancer (primary)",
+      "frequency": null
+    },
+    {
+      "name": "Endobronchial metastasis",
+      "raw": "Endobronchial metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

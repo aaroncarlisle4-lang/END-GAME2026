@@ -1,0 +1,27 @@
+{
+  "name": "CHAGAS DISEASE",
+  "slug": "chagas_disease",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/chagas_disease.md",
+  "definition": "damage of ganglion cells by neurotoxin liberated from protozoa Trypanosoma cruzi resulting",
+  "demographics": {
+    "Histo": "decreased number of cells in medullary dorsal motor nucleus + Wallerian degeneration",
+    "Peak age": "30-50 years; M÷F = 1÷1"
+  },
+  "dominant_finding": "severe cardiomegaly ← dilated cardiomyopathy",
+  "distribution": "",
+  "discriminating_features": [
+    "severe cardiomegaly ← dilated cardiomyopathy",
+    "pulmonary edema, septal lines, pleural effusion ← chronic heart failure"
+  ],
+  "other_features": {
+    "general": [],
+    "Esophagus: changes as in achalasia": [
+      "severe cardiomegaly ← dilated cardiomyopathy",
+      "pulmonary edema, septal lines, pleural effusion ← chronic heart failure"
+    ]
+  },
+  "clinical": {
+    "Cx": "impacted feces, sigmoid volvulus"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "A. NEOPLASTIC",
+  "slug": "a_neoplastic_3_d957d0",
+  "chapter": "D. PETROUS APEX",
+  "source_file": "processed_clusters/d_petrous_apex/a_neoplastic_3_d957d0.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acoustic schwannoma",
+      "raw": "Acoustic schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying hemangioma",
+      "raw": "Ossifying hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

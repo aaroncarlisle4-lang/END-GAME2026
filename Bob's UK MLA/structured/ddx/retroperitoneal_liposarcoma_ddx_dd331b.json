@@ -1,0 +1,32 @@
+{
+  "finding": "Retroperitoneal Liposarcoma (DDx)",
+  "slug": "retroperitoneal_liposarcoma_ddx_dd331b",
+  "chapter": "Retroperitoneal Liposarcoma",
+  "source_file": "processed_clusters/retroperitoneal_liposarcoma/retroperitoneal_liposarcoma_ddx_dd331b.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "malignant fibrous histiocytoma",
+      "raw": "malignant fibrous histiocytoma",
+      "frequency": null
+    },
+    {
+      "name": "leiomyosarcoma",
+      "raw": "leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "desmoid tumor",
+      "raw": "desmoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "encapsulated fat necrosis",
+      "raw": "encapsulated fat necrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intermediate SI on T2WI; more hyperintense for myxoid type ← mucopolysaccharide | loss of fat signal intensity on fat-suppressed sequence | enhancing thick irregular nodular septa | hypovascular without vessel dilatation / capillary staining / laking"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "ENDOCERVICAL POLYP",
+  "slug": "endocervical_polyp",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/endocervical_polyp.md",
+  "definition": "most common benign cervical growth",
+  "demographics": {
+    "Incidence": "up to 4%",
+    "Age": "multiparous women in their 30s and 40s",
+    "Histo": "connective-tissue stalk with focal hyperplasia of glandular columnar epithelium ±"
+  },
+  "dominant_finding": "may undergo cystic change → confusion with nabothian cyst",
+  "distribution": "",
+  "discriminating_features": [
+    "typically slightly hyperechoic polyp compared with normal mucosa",
+    "may undergo cystic change → confusion with nabothian cyst",
+    "may be mobile at dynamic imaging with transducer pressure",
+    "± vascular stalk arising from endocervical mucosa (Doppler US)",
+    "coexisting endometrial polyp (in 25%)"
+  ],
+  "other_features": {
+    "general": [
+      "typically slightly hyperechoic polyp compared with normal mucosa",
+      "may undergo cystic change → confusion with nabothian cyst",
+      "may be mobile at dynamic imaging with transducer pressure",
+      "± vascular stalk arising from endocervical mucosa (Doppler US)",
+      "coexisting endometrial polyp (in 25%)"
+    ]
+  },
+  "clinical": {
+    "Rx": "management of prolapsed lesions tends to be more complicated ← more extensive blood supply",
+    "Cx": "malignancy / dysplasia (in 0.2-1.5%)"
+  }
+}

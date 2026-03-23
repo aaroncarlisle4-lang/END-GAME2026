@@ -1,0 +1,32 @@
+{
+  "finding": "Malignant Optic Glioma of Adulthood",
+  "slug": "malignant_optic_glioma_of_adulthood_14ca8e",
+  "chapter": "OPTIC PATHWAY GLIOMA",
+  "source_file": "processed_clusters/optic_pathway_glioma/malignant_optic_glioma_of_adulthood_14ca8e.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "rapidly progressive monocular visual loss culminating in monocular blindness within a few weeks",
+      "raw": "rapidly progressive monocular visual loss culminating in monocular blindness within a few weeks",
+      "frequency": null
+    },
+    {
+      "name": "with retrograde tumor extension: contralateral temporal hemianopia, polyuria, polydipsia",
+      "raw": "with retrograde tumor extension: contralateral temporal hemianopia, polyuria, polydipsia",
+      "frequency": null
+    },
+    {
+      "name": "Perioptic meningioma",
+      "raw": "Perioptic meningioma (hypointense on T2WI, stippled calcifications, hyperostosis)",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis, lymphoma, orbital pseudotumor",
+      "raw": "Sarcoidosis, lymphoma, orbital pseudotumor (moderately / markedly hypointense on T2WI)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   extremely rare; 30 cases in this century Mean age:  6th decade; M÷F = 1.3÷1.0 Histo:  anaplastic astrocytoma / glioblastoma multiforme √  focal / diffuse enlargement of optic nerve √  hypo- to isointense on T1WI + hyperintense on T2WI √  obliteration of subarachnoid space around affected portion of nerve √  diffuse intense enhancement of optic nerve √  thickening + abnormal enhancement of optic nerve sheath Tumor extension:   optic chiasm, hypothalamus, basal ganglia, brain stem, medial temporal lobes, leptomeninges, ependyma Prognosis:  < 1-year survival despite aggressive thera"
+}

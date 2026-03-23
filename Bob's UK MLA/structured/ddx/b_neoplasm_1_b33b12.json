@@ -1,0 +1,32 @@
+{
+  "finding": "B. NEOPLASM",
+  "slug": "b_neoplasm_1_b33b12",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/b_neoplasm_1_b33b12.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Paraganglioma = glomus tumor",
+      "raw": "Paraganglioma = glomus tumor",
+      "frequency": null
+    },
+    {
+      "name": "Nerve sheath tumor = neuroma",
+      "raw": "Nerve sheath tumor = neuroma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Vascular metastasis",
+      "raw": "Vascular metastasis (renal / thyroid cancer)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Testicular Cancer (DDx)",
+  "slug": "testicular_cancer_ddx",
+  "chapter": "Testicular Cancer",
+  "source_file": "processed_clusters/testicular_cancer/testicular_cancer_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "epididymo-orchitis (tender",
+      "raw": "epididymo-orchitis (tender",
+      "frequency": null
+    },
+    {
+      "name": "improvement on Rx)",
+      "raw": "improvement on Rx)",
+      "frequency": null
+    },
+    {
+      "name": "sarcoid",
+      "raw": "sarcoid (African-American)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "testis replaced by tissue hypointense on T1WI + T2WI | low-level enhancement less than normal testis | one / more focal masses | frequent extension outside testis into epididymis"
+}

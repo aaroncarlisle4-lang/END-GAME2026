@@ -1,0 +1,102 @@
+{
+  "finding": "Inflammatory Enterocolitis",
+  "slug": "inflammatory_enterocolitis",
+  "chapter": "ENTEROCOLITIS",
+  "source_file": "processed_clusters/enterocolitis/inflammatory_enterocolitis.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PRIMARY: inflammatory bowel disease (ulcerative colitis, Crohn disease), vasculitis",
+      "raw": "PRIMARY: inflammatory bowel disease (ulcerative colitis, Crohn disease), vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "SECONDARY: chemotherapy, radiation therapy, graft versus host disease, angiotensin- converting enzyme inhibitor-induced enteritis",
+      "raw": "SECONDARY: chemotherapy, radiation therapy, graft versus host disease, angiotensin- converting enzyme inhibitor-induced enteritis",
+      "frequency": null
+    },
+    {
+      "name": "tenesmus, diarrhea, weight loss",
+      "raw": "tenesmus, diarrhea, weight loss",
+      "frequency": null
+    },
+    {
+      "name": "extraintestinal features: large joint arthritis, erythema nodosum, pyoderma gangrenosum",
+      "raw": "extraintestinal features: large joint arthritis, erythema nodosum, pyoderma gangrenosum",
+      "frequency": null
+    },
+    {
+      "name": "feeding intolerance, abdominal distension, bilious emesis",
+      "raw": "feeding intolerance, abdominal distension, bilious emesis",
+      "frequency": null
+    },
+    {
+      "name": "blood-streaked stools (in 50%); explosive diarrhea",
+      "raw": "blood-streaked stools (in 50%); explosive diarrhea",
+      "frequency": "50%"
+    },
+    {
+      "name": "mild respiratory distress, generalized sepsis with shock Location:  usually in terminal ileum (most commonly involved), cecum, right colon; rarely in stomach, upper bowel",
+      "raw": "mild respiratory distress, generalized sepsis with shock Location:  usually in terminal ileum (most commonly involved), cecum, right colon; rarely in stomach, upper bowel",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory stricture after healing in 10-30%, in 30% multiple, in 80% in left colon",
+      "raw": "Inflammatory stricture after healing in 10-30%, in 30% multiple, in 80% in left colon (BE follow-up in survivors)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Bowel perforation in 12-32%",
+      "raw": "Bowel perforation in 12-32%",
+      "frequency": "32%"
+    },
+    {
+      "name": "abdominal pain, may be localized to RLQ",
+      "raw": "abdominal pain, may be localized to RLQ",
+      "frequency": null
+    },
+    {
+      "name": "watery / bloody diarrhea; fullness / palpable mass in RLQ",
+      "raw": "watery / bloody diarrhea; fullness / palpable mass in RLQ",
+      "frequency": null
+    },
+    {
+      "name": "fever, neutropenia; hematochezia / occult blood Location:  right colon (cecum + appendix + ascending colon); distal ileum + transverse colon may become secondarily involved The length of cecum and right colon involved by typhlitis is generally much greater than that associated with appendicitis.",
+      "raw": "fever, neutropenia; hematochezia / occult blood Location:  right colon (cecum + appendix + ascending colon); distal ileum + transverse colon may become secondarily involved The length of cecum and right colon involved by typhlitis is generally much greater than that associated with appendicitis.",
+      "frequency": null
+    },
+    {
+      "name": "Abscess formation",
+      "raw": "Abscess formation",
+      "frequency": null
+    },
+    {
+      "name": "Early aggressive medical support (high doses of antibiotics + IV fluids), bowel rest, total parenteral nutrition, electrolyte replacement prior to development of transmural necrosis",
+      "raw": "Early aggressive medical support (high doses of antibiotics + IV fluids), bowel rest, total parenteral nutrition, electrolyte replacement prior to development of transmural necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Surgery for uncontrollable GI bleeding, obstruction, abscess, transmural necrosis, free perforation, uncontrollable sepsis",
+      "raw": "Surgery for uncontrollable GI bleeding, obstruction, abscess, transmural necrosis, free perforation, uncontrollable sepsis",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis with periappendicular abscess",
+      "raw": "Appendicitis with periappendicular abscess (normal cecal wall thickness)",
+      "frequency": null
+    },
+    {
+      "name": "Diverticulitis",
+      "raw": "Diverticulitis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory bowel disease",
+      "raw": "Inflammatory bowel disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Age:     teen, young adult; 2nd peak in adulthood Necrotizing Enterocolitis =  NEC = ischemic bowel disease ← hypoxia, perinatal stress, infection (endotoxin), congenital heart disease Frequency:   most common GI emergency in premature infants in 1-5% of neonates in ICU; in 10% of neonates weighing < 1500 g; in 10% of full-term neonates with CHD Age:     in 90% within first 10 days of life Pathophysiology: prematurity → mucosal injury consisting of mucosal ulceration + widespread transmural necrosis → infection, immature immunity, release of vasoconstrictors, inflammatory mediators → passage o"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Echinococcal Disease — Vertebra (DDx)",
+  "slug": "echinococcal_disease_vertebra_ddx_16f883",
+  "chapter": "Echinococcal Disease",
+  "source_file": "processed_clusters/echinococcal_disease/echinococcal_disease_vertebra_ddx_16f883.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "benign liver cyst",
+      "raw": "benign liver cyst",
+      "frequency": null
+    },
+    {
+      "name": "cystadenoma",
+      "raw": "cystadenoma",
+      "frequency": null
+    },
+    {
+      "name": "cystadenocarcinoma",
+      "raw": "cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "hydatid disease √  small calcified lesion",
+      "raw": "hydatid disease √  small calcified lesion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "scattered foci of calcifications | pseudocyst with large area of central necrosis surrounded by an irregular ringlike | \"hailstorm pattern\" = echogenic geographic ill-defined single / multiple hemangioma-like | pseudocyst with massive necrosis"
+}

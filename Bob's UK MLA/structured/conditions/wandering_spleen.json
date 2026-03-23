@@ -1,0 +1,40 @@
+{
+  "name": "WANDERING SPLEEN",
+  "slug": "wandering_spleen",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/wandering_spleen.md",
+  "definition": "ABERRANT / FLOATING / PTOTIC / DRIFTING / DYSTOPIC / DISPLACED / PROLAPSED SPLEEN excessively mobile spleen on an elongated pedicle displaced from its usual position in LUQ",
+  "demographics": {
+    "Incidence": "< 0.2% / year",
+    "Age": "any (higher frequency in women of childbearing age)"
+  },
+  "dominant_finding": "low attenuation with heterogeneous enhancement",
+  "distribution": "empty splenic fossa + associated soft-tissue mass in center of abdomen / pelvis",
+  "discriminating_features": [
+    "empty splenic fossa + associated soft-tissue mass in center of abdomen / pelvis",
+    "inverted malpositioned stomach",
+    "splenic hilum often located anteriorly",
+    "displaced large spleen ← congestion during torsion",
+    "ectopic location + increased size"
+  ],
+  "other_features": {
+    "general": [
+      "empty splenic fossa + associated soft-tissue mass in center of abdomen / pelvis",
+      "inverted malpositioned stomach",
+      "splenic hilum often located anteriorly",
+      "displaced large spleen ← congestion during torsion",
+      "ectopic location + increased size",
+      "abnormal ovoid / round contour of spleen",
+      "whorled appearance of twisted splenic pedicle",
+      "adjacent inflammatory changes + free fluid"
+    ],
+    "CT": [
+      "low attenuation with heterogeneous enhancement"
+    ],
+    "US": [
+      "NO flow within spleen on Doppler US",
+      "elevated resistive index in proximal splenic artery"
+    ]
+  },
+  "clinical": {}
+}

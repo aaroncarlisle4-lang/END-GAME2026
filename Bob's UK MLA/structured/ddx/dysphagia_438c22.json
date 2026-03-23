@@ -1,0 +1,127 @@
+{
+  "finding": "DYSPHAGIA",
+  "slug": "dysphagia_438c22",
+  "chapter": "E. HYDROPS FETALIS",
+  "source_file": "processed_clusters/e_hydrops_fetalis/dysphagia_438c22.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cerebrovascular accident: stroke (most common cause in adults), cerebral palsy,",
+      "raw": "Cerebrovascular accident: stroke (most common cause in adults), cerebral palsy,",
+      "frequency": "most common"
+    },
+    {
+      "name": "Brain tumor",
+      "raw": "Brain tumor",
+      "frequency": null
+    },
+    {
+      "name": "Neuromuscular disease: myasthenia gravis, Eaton-Lambert syndrome, amyotrophic lateral sclerosis, muscular dystrophy, myotonic dystrophy, oculopharyngeal muscular dystrophy",
+      "raw": "Neuromuscular disease: myasthenia gravis, Eaton-Lambert syndrome, amyotrophic lateral sclerosis, muscular dystrophy, myotonic dystrophy, oculopharyngeal muscular dystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Neurodegenerative disorder: Parkinson disease, Alzheimer disease, aging-related changes, Huntington disease, progressive supranuclear palsy",
+      "raw": "Neurodegenerative disorder: Parkinson disease, Alzheimer disease, aging-related changes, Huntington disease, progressive supranuclear palsy",
+      "frequency": null
+    },
+    {
+      "name": "Demyelinating diseases: multiple sclerosis",
+      "raw": "Demyelinating diseases: multiple sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Connective tissue disease: dermatomyositis, polymyositis, Sjögren syndrome, lupus erythematosus, rheumatoid arthritis, scleroderma",
+      "raw": "Connective tissue disease: dermatomyositis, polymyositis, Sjögren syndrome, lupus erythematosus, rheumatoid arthritis, scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Metabolic disorder: hyperthyroidism, hypothyroidism, diabetes mellitus",
+      "raw": "Metabolic disorder: hyperthyroidism, hypothyroidism, diabetes mellitus",
+      "frequency": null
+    },
+    {
+      "name": "infection: poliomyelitis, neurosyphilis, encephalitis, meningitis, sarcoidosis",
+      "raw": "infection: poliomyelitis, neurosyphilis, encephalitis, meningitis, sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "GI disorder:",
+      "raw": "GI disorder:",
+      "frequency": null
+    },
+    {
+      "name": "Trauma: head and neck surgery, radiation therapy, spinal cord injury, traumatic brain injury",
+      "raw": "Trauma: head and neck surgery, radiation therapy, spinal cord injury, traumatic brain injury",
+      "frequency": null
+    },
+    {
+      "name": "Medications",
+      "raw": "Medications",
+      "frequency": null
+    },
+    {
+      "name": "weight loss, slow eating, change in dietary habits",
+      "raw": "weight loss, slow eating, change in dietary habits",
+      "frequency": null
+    },
+    {
+      "name": "recurrent pneumonia",
+      "raw": "recurrent pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "coughing / choking before / during / after swallow → aspiration pneumonia (b)  soft-palate insufficiency",
+      "raw": "coughing / choking before / during / after swallow → aspiration pneumonia (b)  soft-palate insufficiency",
+      "frequency": null
+    },
+    {
+      "name": "nasal voice / nasal regurgitation (c)  abnormal oral phase of swallowing",
+      "raw": "nasal voice / nasal regurgitation (c)  abnormal oral phase of swallowing",
+      "frequency": null
+    },
+    {
+      "name": "food dribbling, difficulty in chewing (d)  cricopharyngeal dysfunction",
+      "raw": "food dribbling, difficulty in chewing (d)  cricopharyngeal dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "\"wet\" voice during / after meal",
+      "raw": "\"wet\" voice during / after meal",
+      "frequency": null
+    },
+    {
+      "name": "increased oral secretions, drooling",
+      "raw": "increased oral secretions, drooling",
+      "frequency": null
+    },
+    {
+      "name": "chronic low-level secretions: esp. bronchial, chest",
+      "raw": "chronic low-level secretions: esp. bronchial, chest",
+      "frequency": null
+    },
+    {
+      "name": "difficulty initiating a swallow, hoarseness, dyspnea Cx:     respiratory problems, malnutrition, dehydration, bronchial spasms, airway obstruction",
+      "raw": "difficulty initiating a swallow, hoarseness, dyspnea Cx:     respiratory problems, malnutrition, dehydration, bronchial spasms, airway obstruction",
+      "frequency": null
+    },
+    {
+      "name": "sensation of food sticking in chest / throat",
+      "raw": "sensation of food sticking in chest / throat",
+      "frequency": null
+    },
+    {
+      "name": "dysphagia primarily for solids",
+      "raw": "dysphagia primarily for solids",
+      "frequency": null
+    },
+    {
+      "name": "oral or pharyngeal regurgitation",
+      "raw": "oral or pharyngeal regurgitation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  OROPHARYNGEAL IMPAIRMENT = SWALLOWING DYSFUNCTION Prevalence:   22% in adult primary care population, M÷F = 1÷4; 13% in general population; in up to 50% of nursing home residents Predisposed:   gastroesophageal reflux disease (GERD), stroke, Alzheimer disease, multiple sclerosis, amyotrophic lateral sclerosis, Parkinson disease Neuromuscular disorders and structural abnormalities increase with age. Look for a cause of dysphagia in elderly patients. Cause: Wallenberg syndrome (lateral medullary syndrome) ◊  29-64% of stroke patients become dysphagic; 20% die from aspiration pneumonia ›  esop"
+}

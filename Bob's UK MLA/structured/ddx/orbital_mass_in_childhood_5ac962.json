@@ -1,0 +1,97 @@
+{
+  "finding": "Orbital Mass in Childhood",
+  "slug": "orbital_mass_in_childhood_5ac962",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/orbital_mass_in_childhood_5ac962.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dermoid cyst 46%",
+      "raw": "Dermoid cyst 46%",
+      "frequency": "46%"
+    },
+    {
+      "name": "Inflammatory lesion 16%",
+      "raw": "Inflammatory lesion 16%",
+      "frequency": "16%"
+    },
+    {
+      "name": "Dermolipoma 7%",
+      "raw": "Dermolipoma 7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "Capillary hemangioma 4%",
+      "raw": "Capillary hemangioma 4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Rhabdomyosarcoma 4%",
+      "raw": "Rhabdomyosarcoma 4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Leukemia / lymphoma 2%",
+      "raw": "Leukemia / lymphoma 2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Optic nerve glioma 2%",
+      "raw": "Optic nerve glioma 2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Lymphangioma 2%",
+      "raw": "Lymphangioma 2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Cavernous hemangioma   1%",
+      "raw": "Cavernous hemangioma   1%",
+      "frequency": "1%"
+    },
+    {
+      "name": "Leukemia, Lymphoma",
+      "raw": "Leukemia, Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Optic nerve glioma",
+      "raw": "Optic nerve glioma",
+      "frequency": null
+    },
+    {
+      "name": "Vascular malformation: hemangioma, lymphangioma",
+      "raw": "Vascular malformation: hemangioma, lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation",
+      "raw": "Inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma: ie, rhabdomyosarcoma",
+      "raw": "Sarcoma: ie, rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytosis",
+      "raw": "Histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Orbital pseudotumor, Osteoma",
+      "raw": "Orbital pseudotumor, Osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

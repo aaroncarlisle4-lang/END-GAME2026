@@ -1,0 +1,42 @@
+{
+  "finding": "Aortic Arch Branching Patterns",
+  "slug": "aortic_arch_branching_patterns_43a27f",
+  "chapter": "Inferior Vena Cava",
+  "source_file": "processed_clusters/inferior_vena_cava/aortic_arch_branching_patterns_43a27f.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "\"Standard\" branching pattern (65-75%) brachiocephalic trunk, left CCA, left subclavian",
+      "raw": "\"Standard\" branching pattern (65-75%) brachiocephalic trunk, left CCA, left subclavian",
+      "frequency": "75%"
+    },
+    {
+      "name": "Common origin of brachiocephalic trunk + left CCA",
+      "raw": "Common origin of brachiocephalic trunk + left CCA (13%)",
+      "frequency": "13%"
+    },
+    {
+      "name": "Bovine aortic arch (9%) =  origin of left CCA from brachiocephalic trunk",
+      "raw": "Bovine aortic arch (9%) =  origin of left CCA from brachiocephalic trunk",
+      "frequency": "9%"
+    },
+    {
+      "name": "Vertebral artery",
+      "raw": "Vertebral artery (usually left) arising from aortic arch (3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Left and right brachiocephalic trunks",
+      "raw": "Left and right brachiocephalic trunks (1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Aberrant right subclavian artery as the last branch of the aortic arch",
+      "raw": "Aberrant right subclavian artery as the last branch of the aortic arch (< 1%)",
+      "frequency": "1%"
+    }
+  ],
+  "criteria": {},
+  "context": "artery"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "INTERRUPTION OF PULMONARY ARTERY",
+  "slug": "interruption_of_pulmonary_artery",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/interruption_of_pulmonary_artery.md",
+  "definition": "pulmonary trunk continues only as one large artery to one lung while systemic aortic",
+  "demographics": {
+    "Associated with": "CHD (particularly if interruption on left side):",
+    "Location": "usually opposite from aortic arch; R > L pulmonary artery"
+  },
+  "dominant_finding": "reconstitution of more peripheral pulmonary arteries ← collateral vessels",
+  "distribution": "usually opposite from aortic arch; R > L pulmonary artery",
+  "discriminating_features": [
+    "affected pulmonary artery completely absent / terminates within 1 cm of its origin",
+    "reconstitution of more peripheral pulmonary arteries ← collateral vessels",
+    "multiple linear opacities perpendicular to pleural surface (= transpleural systemic",
+    "serrated pleural thickening (= enlarged intercostal + transpleural arteries)",
+    "absent perfusion with normal aeration"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "hypoplastic ipsilateral lung",
+      "lung opacity similar to normal lung / slightly increased",
+      "volume loss of affected hemithorax:",
+      "small ipsilateral chest",
+      "mediastinal shift toward involved lung",
+      "ipsilateral shift of anterior junction line",
+      "± elevation of ipsilateral hemidiaphragm",
+      "ipsilateral narrowed intercostal spaces",
+      "absent / diminutive appearance of pulmonary hilum with \"comma-shaped\" small",
+      "occasionally rib notching",
+      "hyperexpanded + hyperlucent contralateral lung with herniation into smaller hemithorax",
+      "asymmetry of pulmonary vascularity",
+      "normal respiratory motion (normal aeration of hypoplastic lung)"
+    ],
+    "CECT": [
+      "affected pulmonary artery completely absent / terminates within 1 cm of its origin",
+      "reconstitution of more peripheral pulmonary arteries ← collateral vessels",
+      "multiple linear opacities perpendicular to pleural surface (= transpleural systemic",
+      "serrated pleural thickening (= enlarged intercostal + transpleural arteries)"
+    ],
+    "NUC": [
+      "absent perfusion with normal aeration"
+    ],
+    "ANGIO": [
+      "absent pulmonary artery"
+    ]
+  },
+  "clinical": {
+    "Cx": "recurrent pulmonary infection, hemorrhage, hemoptysis (10%), mild exertional dyspnea,",
+    "Rx": "Surgical anastomosis between proximal + distal pulmonary artery (to prevent progressive"
+  }
+}

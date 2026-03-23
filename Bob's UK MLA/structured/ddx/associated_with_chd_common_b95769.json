@@ -1,0 +1,62 @@
+{
+  "finding": "Associated with: CHD (common",
+  "slug": "associated_with_chd_common_b95769",
+  "chapter": "CHONDRODYSPLASIA PUNCTATA",
+  "source_file": "processed_clusters/chondrodysplasia_punctata/associated_with_chd_common_b95769.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "craniofacial dysmorphism = flat face with small saddle nose",
+      "raw": "craniofacial dysmorphism = flat face with small saddle nose",
+      "frequency": null
+    },
+    {
+      "name": "congenital cataracts",
+      "raw": "congenital cataracts",
+      "frequency": null
+    },
+    {
+      "name": "severe mental retardation, spastic tetraplegia",
+      "raw": "severe mental retardation, spastic tetraplegia",
+      "frequency": null
+    },
+    {
+      "name": "thermoregulatory instability",
+      "raw": "thermoregulatory instability",
+      "frequency": null
+    },
+    {
+      "name": "cleft palate",
+      "raw": "cleft palate",
+      "frequency": null
+    },
+    {
+      "name": "Conradi-Hünermann-Happle Syndrome =  NONRHIZOMELIC TYPE more common milder nonlethal variety",
+      "raw": "Conradi-Hünermann-Happle Syndrome =  NONRHIZOMELIC TYPE more common milder nonlethal variety",
+      "frequency": "common"
+    },
+    {
+      "name": "normal intelligence",
+      "raw": "normal intelligence",
+      "frequency": null
+    },
+    {
+      "name": "Cretinism",
+      "raw": "Cretinism (may show epiphyseal fragmentation, much larger calcifications within epiphysis)",
+      "frequency": null
+    },
+    {
+      "name": "Warfarin embryopathy",
+      "raw": "Warfarin embryopathy",
+      "frequency": null
+    },
+    {
+      "name": "Zellweger syndrome",
+      "raw": "Zellweger syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  multiple small punctate calcifications of varying size in epiphyses (knee, hip, shoulder, wrist), base of skull, posterior elements of vertebrae, respiratory cartilage and soft tissues (neck, rib ends) before appearance of ossification centers √  prominent symmetrical shortening of femur + humerus (rarely all limbs symmetrically affected) √  congenital dislocation of hip √  multiple flexion (joint) contractures of extremities √  clubfeet √  metaphyseal splaying of proximal tubular bones (in particular about knee) √  thickening of diaphyses √  prominent vertebral + paravertebral calcificatio"
+}

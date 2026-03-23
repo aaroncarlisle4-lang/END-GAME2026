@@ -1,0 +1,49 @@
+{
+  "name": "CALCIUM PYROPHOSPHATE DIHYDRATE DEPOSITION DISEASE",
+  "slug": "calcium_pyrophosphate_dihydrate_deposition_disease",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/calcium_pyrophosphate_dihydrate_deposition_disease.md",
+  "definition": "CPPD = PSEUDOGOUT = FAMILIAL CHONDROCALCINOSIS metabolic arthropathy characterized by deposition of calcium pyrophosphate dihydrate",
+  "demographics": {
+    "Prevalence": "widespread in older population; increasing with age; M÷F = 3÷2",
+    "Distribution": "1 CMC; 2nd + 3rd MCP joints; bilateral symmetric"
+  },
+  "dominant_finding": "large subchondral cyst (HALLMARK)",
+  "distribution": "1 CMC; 2nd + 3rd MCP joints; bilateral symmetric",
+  "discriminating_features": [
+    "large subchondral cyst (HALLMARK)",
+    "polyarticular chondrocalcinosis (in fibro- and hyaline cartilage)",
+    "numerous intraarticular bodies (fragmentation of subchondral bone)",
+    "coalescing CPPD crystals → tophus-like deposits (rare) → significant articular destruction",
+    "joint space narrowing + extensive subchondral sclerosis"
+  ],
+  "other_features": {
+    "general": [
+      "polyarticular chondrocalcinosis (in fibro- and hyaline cartilage)",
+      "large subchondral cyst (HALLMARK)",
+      "numerous intraarticular bodies (fragmentation of subchondral bone)",
+      "coalescing CPPD crystals → tophus-like deposits (rare) → significant articular destruction",
+      "joint space narrowing + extensive subchondral sclerosis"
+    ],
+    "Hand": [
+      "resembling degenerative joint disease (without DIP and PIP involvement)",
+      "small hook-like osteophytes at radial aspect of metacarpal heads 2 & 3"
+    ],
+    "Wrist": [
+      "calcification (chondrocalcinosis) of triangular fibrocartilage",
+      "extensive narrowing / obliteration of joint space between distal radius + scaphoid →",
+      "incorporation of scaphoid into articular surface of radius",
+      "prominent cysts",
+      "scapholunate separation (= ligament tear) → scapholunate advanced collapse (SLAC"
+    ],
+    "Knee": [
+      "medial femorotibial + patellofemoral compartments commonly involved simultaneously",
+      "disproportionate narrowing of patellofemoral joint"
+    ],
+    "Spine": [
+      "chondrocalcinosis / calcifications of outer fibers of annulus fibrosus of lumbar spine",
+      "vertical radiodense line in symphysis pubis"
+    ]
+  },
+  "clinical": {}
+}

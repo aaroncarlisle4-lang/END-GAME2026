@@ -1,0 +1,47 @@
+{
+  "finding": "Acute Obstructive / Ascending Cholangitis",
+  "slug": "acute_obstructive_ascending_cholangitis_5e8527",
+  "chapter": "CHOLANGITIS",
+  "source_file": "processed_clusters/cholangitis/acute_obstructive_ascending_cholangitis_5e8527.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Stricture from prior surgery (36%) after bile duct exploration / bilioenteric anastomosis",
+      "raw": "Stricture from prior surgery (36%) after bile duct exploration / bilioenteric anastomosis",
+      "frequency": "36%"
+    },
+    {
+      "name": "Calculi",
+      "raw": "Calculi (30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Sclerosing cholangitis",
+      "raw": "Sclerosing cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Obstructed drainage catheter",
+      "raw": "Obstructed drainage catheter",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic infestation (liver fluke) (b)  malignant disease:",
+      "raw": "Parasitic infestation (liver fluke) (b)  malignant disease:",
+      "frequency": null
+    },
+    {
+      "name": "Ampullary carcinoma",
+      "raw": "Ampullary carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "bile remains clear, patient nontoxic",
+      "raw": "bile remains clear, patient nontoxic (b)  Subacute nonsuppurative cholangitis =  Cholangitis lenta = nonacute response of liver to systemic bacterial / fungal infection ◊  Important cause of liver failure + mortality with OLT (c)  Acute suppurative ascending cholangitis (14%)",
+      "frequency": "14%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  biliary duct obstruction associated with bacterial overgrowth Cause: (a)  benign disease: Types: (a)  Acute nonsuppurative ascending cholangitis"
+}

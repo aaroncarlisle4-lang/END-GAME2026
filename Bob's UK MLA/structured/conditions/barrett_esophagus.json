@@ -1,0 +1,39 @@
+{
+  "name": "BARRETT ESOPHAGUS",
+  "slug": "barrett_esophagus",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/barrett_esophagus.md",
+  "definition": "BARRETT SYNDROME progressive replacement of stratified squamous epithelium by metaplastic columnar",
+  "demographics": {
+    "Age": "0-15 years and 40-88 years (mean of 55 years); M > F; mainly among Whites",
+    "Location": "middle to lower esophagus",
+    "Distribution": "circumferential / focal"
+  },
+  "dominant_finding": "thickened irregular mucosal folds (28-86%)",
+  "distribution": "middle to lower esophagus",
+  "discriminating_features": [
+    "fine reticular / granular mucosal pattern (3-30%) resembling areae gastricae of the stomach",
+    "netlike web of thin linear / intersecting barium-filled grooves or crevices surrounding",
+    "thickened irregular mucosal folds (28-86%)",
+    "large deep wide-mouthed peptic ulcer (= Barrett ulcer) at upwardly displaced",
+    "uptake of 99mTc-pertechnetate by columnar epithelium"
+  ],
+  "other_features": {
+    "general": [
+      "fine reticular / granular mucosal pattern (3-30%) resembling areae gastricae of the stomach",
+      "netlike web of thin linear / intersecting barium-filled grooves or crevices surrounding",
+      "thickened irregular mucosal folds (28-86%)",
+      "large deep wide-mouthed peptic ulcer (= Barrett ulcer) at upwardly displaced",
+      "uptake of 99mTc-pertechnetate by columnar epithelium",
+      "several-cm-long stricture (71%) in lower esophagus (60%) or upper to midesophagus",
+      "ringlike constrictions / smooth tapered segments of concentric narrowing in",
+      "hiatal hernia (75-94%)",
+      "gastroesophageal reflux (45-63%)",
+      "distal esophageal widening (34-66%) ← abnormal motility",
+      "plaquelike / focal irregularity / nodularity / sessile polyps"
+    ]
+  },
+  "clinical": {
+    "N.B.": "the squamocolumnar junction is irregular and lies > 2-3 cm orad from the"
+  }
+}

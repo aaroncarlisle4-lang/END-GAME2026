@@ -1,0 +1,22 @@
+{
+  "finding": "Trichuriasis (DDx)",
+  "slug": "trichuriasis_ddx_c634d7",
+  "chapter": "Trichuriasis",
+  "source_file": "processed_clusters/trichuriasis/trichuriasis_ddx_c634d7.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lymphoid hyperplasia",
+      "raw": "lymphoid hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "aphthous ulcers",
+      "raw": "aphthous ulcers",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intramural dissection / fistula formation → sinus tract formation | small elongated filling defects"
+}

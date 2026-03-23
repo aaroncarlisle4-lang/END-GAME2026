@@ -1,0 +1,59 @@
+{
+  "name": "SOFT TISSUES",
+  "slug": "soft_tissues",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/myeloproliferative_disorders/soft_tissues.md",
+  "definition": "inflammation / infection of cutis + subcutis without gross suppuration wide range of clinicopathologic conditions with benign proliferation of fibrous tissue tumor with abundance of extracellular mucoid material deposit of calcium salts in normal tissue deposit of calcium salts in tissue damaged by injury / inflammation (with local progressive disease of unknown origin formation of trabecular bone CTD = [COLLAGEN VASCULAR DISEASE] heterogeneous group of immunologically mediated systemic inflammatory disorders that",
+  "demographics": {
+    "Incidence": "300÷100,000 / year; benign÷malignant = 100÷1",
+    "Frequency": "1% of all cancers in adults, increasing with age",
+    "Location": "shoulder > hip > elbow > wrist > knee",
+    "Age": "children + young adults",
+    "Associated with": "poly- and dermatomyositis"
+  },
+  "dominant_finding": "homogeneous fluidlike signal intensity",
+  "distribution": "shoulder > hip > elbow > wrist > knee",
+  "discriminating_features": [
+    "homogeneous fluidlike signal intensity",
+    "thickened skin with reticulated fluidlike SI",
+    "fascial thickening + enhancement",
+    "intermediate SI on non-fat-suppressed T2WI",
+    "fluidlike signal intensity + rim of enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "homogeneous fluidlike signal intensity",
+      "thickened skin with reticulated fluidlike SI",
+      "fascial thickening + enhancement",
+      "intermediate SI on non-fat-suppressed T2WI",
+      "fluidlike signal intensity + rim of enhancement",
+      "73% have tissue attenuation less than muscle",
+      "mimicker of cysts ← high water content",
+      "perilesional edema + rim of fat",
+      "communication with joint / tendon sheath",
+      "communication with joint / tendon sheath",
+      "\"entering-and-exiting-nerve\" sign",
+      "intralesional fat",
+      "internal chondroid matrix",
+      "incomplete peripheral ossification",
+      "cloudlike \"cumulus\" type of calcification",
+      "arcs and rings, spicules and floccules of calcification",
+      "central sandlike calcifications (84%)",
+      "peripheral ossification (20%)",
+      "activity in mouth (saliva), salivary glands, thyroid, stomach (mucus-producing",
+      "diffuse activity in liver + spleen"
+    ],
+    "Vessels: calcified wall, calcified thrombus": [
+      "diffuse plaque- / sheetlike calcium deposits in skin and subcutis; sometimes in tendons +",
+      "NO true bone formation",
+      "higher than water + lower than fat on T1WI",
+      "much lower than water + fat on T2WI",
+      "nodules with central star-shaped area of fibrosis surrounded by granuloma",
+      "muscle hyperintensity on STIR images"
+    ]
+  },
+  "clinical": {
+    "Cx": "renal damage from myoglobulinemia, tetany, compartment syndrome",
+    "Rx": "urgent fasciotomy"
+  }
+}

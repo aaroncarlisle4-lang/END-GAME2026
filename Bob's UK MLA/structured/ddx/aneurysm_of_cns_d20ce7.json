@@ -1,0 +1,67 @@
+{
+  "finding": "ANEURYSM OF CNS",
+  "slug": "aneurysm_of_cns_d20ce7",
+  "chapter": "ANENCEPHALY",
+  "source_file": "processed_clusters/anencephaly/aneurysm_of_cns_d20ce7.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Family history for aneurysms in 1st- / 2nd-degree relatives",
+      "raw": "Family history for aneurysms in 1st- / 2nd-degree relatives",
+      "frequency": null
+    },
+    {
+      "name": "Female gender",
+      "raw": "Female gender",
+      "frequency": null
+    },
+    {
+      "name": "Oral contraceptives / pregnancy",
+      "raw": "Oral contraceptives / pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Advanced age > 50 years",
+      "raw": "Advanced age > 50 years",
+      "frequency": null
+    },
+    {
+      "name": "Hypertension",
+      "raw": "Hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Cigarette smoking",
+      "raw": "Cigarette smoking",
+      "frequency": null
+    },
+    {
+      "name": "Cerebral arteriovenous malformation",
+      "raw": "Cerebral arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Vasculitis",
+      "raw": "Vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "Connective tissue disorder: Marfan syndrome, Ehlers-Danlos syndrome type IV, autosomal dominant polycystic renal disease, pseudoxanthoma elasticum, neurofibromatosis type 1",
+      "raw": "Connective tissue disorder: Marfan syndrome, Ehlers-Danlos syndrome type IV, autosomal dominant polycystic renal disease, pseudoxanthoma elasticum, neurofibromatosis type 1",
+      "frequency": null
+    },
+    {
+      "name": "Asymmetry of circle of Willis Pathogenesis:   arterial wall deficient in tunica media + external elastic lamina",
+      "raw": "Asymmetry of circle of Willis Pathogenesis:   arterial wall deficient in tunica media + external elastic lamina (natural occurrence with advancing age)",
+      "frequency": null
+    },
+    {
+      "name": "Saccular =  berry- / bleb-like outpouching",
+      "raw": "Saccular =  berry- / bleb-like outpouching",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Etiology: (a)  congenital (97%) = \"berry aneurysm\" in 2% of population (in 20% multiple); associated with aortic coarctation and adult polycystic kidney disease (b)  infectious (3%) = mycotic aneurysm (c)  arteriosclerotic: fusiform shape (d)  traumatic (e)  neoplastic (f)  fibromuscular disease Risk factors: Aneurysm by shape:"
+}

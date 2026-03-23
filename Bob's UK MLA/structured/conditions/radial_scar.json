@@ -1,0 +1,39 @@
+{
+  "name": "RADIAL SCAR",
+  "slug": "radial_scar",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/radial_scar.md",
+  "definition": "SCLEROSING DUCT HYPERPLASIA = INDURATIVE MASTOPATHY = FOCAL FIBROUS DISEASE = benign proliferative breast lesion (malignant potential is controversial) unrelated to prior",
+  "demographics": {
+    "Prevalence": "0.1-2.0÷1,000 screening mammograms; in 2-16% of mastectomy specimens",
+    "Path": "\"scar\" = sclerotic center composed of acellular connective tissue (= fibrosis) and"
+  },
+  "dominant_finding": "slight to moderate uptake with nonspecific curve",
+  "distribution": "typically no central mass (BUT: irregular noncalcified mass often with architectural distortion)",
+  "discriminating_features": [
+    "slight to moderate uptake with nonspecific curve",
+    "no characteristic finding",
+    "mean diameter of 0.33 cm (range, 0.1-0.6 cm)",
+    "typically no central mass (BUT: irregular noncalcified mass often with architectural distortion)",
+    "variable appearance in different projections (= radial scars are typically planar in"
+  ],
+  "other_features": {
+    "general": [
+      "mean diameter of 0.33 cm (range, 0.1-0.6 cm)",
+      "typically no central mass (BUT: irregular noncalcified mass often with architectural distortion)",
+      "variable appearance in different projections (= radial scars are typically planar in",
+      "oval / circular translucent areas at center",
+      "very thin long spicules, clumped together centrally",
+      "radiolucent linear structures (= fat) paralleling spicules (\"black star\" appearance)",
+      "no skin thickening / retraction"
+    ],
+    "MR": [
+      "stellate lesion with SI equal to parenchyma (difficult / impossible to visualize within",
+      "slight to moderate uptake with nonspecific curve",
+      "no characteristic finding"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical excision required for definitive diagnosis"
+  }
+}

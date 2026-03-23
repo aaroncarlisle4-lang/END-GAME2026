@@ -1,0 +1,32 @@
+{
+  "name": "HEART VALVES",
+  "slug": "heart_valves",
+  "chapter": "LYMPH FLOW DISORDERS",
+  "source_file": "processed_clusters/disease_entries/lymph_flow_disorders/heart_valves.md",
+  "definition": "separates LV outflow tract from ascending aorta by a valve composed of annulus, bicuspid valve (= 2 leaflets) anchored on mitral valve annulus + connected to LV papillary D-shaped ring within L atrioventricular groove; imbedded within myocardium as part of separates RV outflow tract from main pulmonary artery by a semilunar valve composed of 3 right atrioventricular valve separating RA from RV; anchored on tricuspid valve annulus +",
+  "demographics": {},
+  "dominant_finding": "pulmonic valve just inferior to left mainstem bronchus",
+  "distribution": "aortic valve resides in profile superior to this line overlying the thoracic spine",
+  "discriminating_features": [
+    "aortic valve resides in profile superior to this line overlying the thoracic spine",
+    "pulmonic valve just inferior to left mainstem bronchus",
+    "mitral valve resides inferior to this line centrally located within cardiac silhouette",
+    "tricuspid valve inferior to this line more basilar and midline",
+    "aortic valve resides superior to this line"
+  ],
+  "other_features": {
+    "general": [
+      "aortic valve resides in profile superior to this line overlying the thoracic spine",
+      "pulmonic valve just inferior to left mainstem bronchus",
+      "mitral valve resides inferior to this line centrally located within cardiac silhouette",
+      "tricuspid valve inferior to this line more basilar and midline",
+      "aortic valve resides superior to this line",
+      "pulmonic valve anterior + superior to aortic valve",
+      "mitral valve resides inferoposteriorly to this line",
+      "tricuspid valve inferior to this line anteriorly"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "vulnerable to ischemia + rupture"
+  }
+}

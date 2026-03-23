@@ -1,0 +1,47 @@
+{
+  "name": "CARDIAC HEMANGIOMA",
+  "slug": "cardiac_hemangioma",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/cardiac_hemangioma.md",
+  "definition": "rare benign vascular tumor of the heart",
+  "demographics": {
+    "Prevalence": "5-10% of benign cardiac tumors",
+    "Path": "predominantly intramural spongy mass / well-circumscribed endocardial-based soft",
+    "Histo": "capillary (= small capillary-like vessels); cavernous (= multiple thin-walled dilated",
+    "Location": "any chamber"
+  },
+  "dominant_finding": "heterogeneous intensely enhancing mass",
+  "distribution": "any chamber",
+  "discriminating_features": [
+    "mass-occupying lesion impinging upon cardiac cavities",
+    "± pericardial effusion",
+    "heterogeneous intensely enhancing mass",
+    "heterogeneously iso- / hypointense on T1WI",
+    "hyperintense / occasionally hypointense on T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "mass-occupying lesion impinging upon cardiac cavities",
+      "± pericardial effusion"
+    ],
+    "US": [
+      "hyperechoic mass"
+    ],
+    "CT": [
+      "heterogeneous intensely enhancing mass"
+    ],
+    "MR": [
+      "heterogeneously iso- / hypointense on T1WI",
+      "hyperintense / occasionally hypointense on T2WI",
+      "inhomogeneous hyperintense enhancement pattern"
+    ],
+    "ANGIO": [
+      "vascular blush in capillary + arteriovenous type",
+      "no enhancement for cavernous type"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "spontaneous regression possible",
+    "Rx": "surgical resection (for symptomatic lesion)"
+  }
+}

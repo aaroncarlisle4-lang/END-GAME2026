@@ -1,0 +1,27 @@
+{
+  "finding": "Adenomatous Polyposis Syndromes",
+  "slug": "adenomatous_polyposis_syndromes",
+  "chapter": "Prolonged Contrast Coating of Bowel Wall",
+  "source_file": "processed_clusters/prolonged_contrast_coating_of_bowel_wall/adenomatous_polyposis_syndromes.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Familial (multiple) polyposis",
+      "raw": "Familial (multiple) polyposis",
+      "frequency": null
+    },
+    {
+      "name": "Gardner syndrome",
+      "raw": "Gardner syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Turcot syndrome",
+      "raw": "Turcot syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

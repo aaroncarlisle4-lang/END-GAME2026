@@ -1,0 +1,22 @@
+{
+  "finding": "Epidural Hematoma Of Brain (DDx)",
+  "slug": "epidural_hematoma_of_brain_ddx_7369c9",
+  "chapter": "Epidural Hematoma Of Brain",
+  "source_file": "processed_clusters/epidural_hematoma_of_brain/epidural_hematoma_of_brain_ddx_7369c9.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic subdural hematoma (may have similar biconvex shape",
+      "raw": "Chronic subdural hematoma (may have similar biconvex shape",
+      "frequency": null
+    },
+    {
+      "name": "crosses suture lines",
+      "raw": "crosses suture lines",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "low intensity of fibrous dura mater allows differentiation of epidural from subdural blood | meningeal arteries displaced away from inner table of skull | pseudoaneurysm = extravasation of contrast material | arteriovenous fistula at fracture line"
+}

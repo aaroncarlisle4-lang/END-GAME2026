@@ -1,0 +1,27 @@
+{
+  "finding": "Echinococcal Disease — Vertebra (DDx)",
+  "slug": "echinococcal_disease_vertebra_ddx_2",
+  "chapter": "Echinococcal Disease",
+  "source_file": "processed_clusters/echinococcal_disease/echinococcal_disease_vertebra_ddx_2.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cholangiocarcinoma",
+      "raw": "cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "biliary cystadenoma + cystadeno- carcinoma",
+      "raw": "biliary cystadenoma + cystadeno- carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "hepatocellular",
+      "raw": "hepatocellular",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intrahepatic arterial tapering + obstruction"
+}

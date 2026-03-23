@@ -1,0 +1,24 @@
+{
+  "name": "MALE BREAST DISEASE",
+  "slug": "male_breast_disease",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/disease_entries/breast_lesion/male_breast_disease.md",
+  "definition": "",
+  "demographics": {
+    "Incidence": "0.17% of all male breast cancers",
+    "Mean age": "59 years"
+  },
+  "dominant_finding": "microcalcifications in only 13-30%",
+  "distribution": "axillary lymphadenopathy: unilateral in primary / bilateral in secondary breast",
+  "discriminating_features": [
+    "microcalcifications in only 13-30%",
+    "axillary lymphadenopathy: unilateral in primary / bilateral in secondary breast"
+  ],
+  "other_features": {
+    "general": [
+      "microcalcifications in only 13-30%",
+      "axillary lymphadenopathy: unilateral in primary / bilateral in secondary breast"
+    ]
+  },
+  "clinical": {}
+}

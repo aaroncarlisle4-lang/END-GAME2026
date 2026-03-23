@@ -1,0 +1,37 @@
+{
+  "finding": "Risk factor: frequent / severe bouts of acute rejection, gastroesophageal reflux",
+  "slug": "risk_factor_frequent_severe_bouts_of_acute_rejection_gastroesophageal_reflux",
+  "chapter": "HARD-METAL PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/risk_factor_frequent_severe_bouts_of_acute_rejection_gastroesophageal_reflux.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "persistent coughing and wheezing",
+      "raw": "persistent coughing and wheezing",
+      "frequency": null
+    },
+    {
+      "name": "slowly worsening exertional dyspnea",
+      "raw": "slowly worsening exertional dyspnea",
+      "frequency": null
+    },
+    {
+      "name": "physiologic airflow obstruction + decline in forced expiratory volume at 1 second",
+      "raw": "physiologic airflow obstruction + decline in forced expiratory volume at 1 second",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial dehiscence",
+      "raw": "Bronchial dehiscence (2-8%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Airway stricture / stenosis",
+      "raw": "Airway stricture / stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Path:  obliterative bronchiolitis (36%), interstitial pneumonitis, rejection-mediated vasculopathy Time of onset:   3-6-75 months after transplantation CXR: √  frequently normal √  increased lung volumes (= hyperinflation) √  regional volume contraction √  diminished peripheral lung markings (= decreased peripheral vascularity) √  thin irregular areas of increased opacity (= subsegmental atelectasis) √  bronchiectasis √  pleural thickening √  nodular / reticular opacities associated with peribronchial thickening HRCT: √  air trapping on expiratory HRCT (HALLMARK) √  mosaic lung attenuation (="
+}

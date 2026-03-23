@@ -1,0 +1,42 @@
+{
+  "finding": "C. MALIGNANCY ◊ 24% of all testicular tumors have a cystic component!",
+  "slug": "c_malignancy_24_of_all_testicular_tumors_have_a_cystic_component_15f623",
+  "chapter": "Cause: obstruction + dilatation of efferent ductal system",
+  "source_file": "processed_clusters/cause_obstruction_dilatation_of_efferent_ductal_system/c_malignancy_24_of_all_testicular_tumors_have_a_cystic_component_15f623.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "palpable",
+      "raw": "palpable",
+      "frequency": null
+    },
+    {
+      "name": "Epididymoorchitis",
+      "raw": "Epididymoorchitis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  in combination with solid elements DDx:  hematoma, inflammation, seminoma, Leydig cell tumor Infiltrative Process of Testis and Epididymis"
+}

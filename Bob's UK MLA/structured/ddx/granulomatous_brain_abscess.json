@@ -1,0 +1,27 @@
+{
+  "finding": "Granulomatous Brain Abscess",
+  "slug": "granulomatous_brain_abscess",
+  "chapter": "NERVOUS SYSTEM DISORDERS",
+  "source_file": "processed_clusters/nervous_system_disorders/granulomatous_brain_abscess.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculoma",
+      "raw": "Tuberculoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoid abscess",
+      "raw": "Sarcoid abscess",
+      "frequency": null
+    },
+    {
+      "name": "Fungal abscess: coccidioidomycosis, mucormycosis (in diabetics), aspergillosis, cryptococcus",
+      "raw": "Fungal abscess: coccidioidomycosis, mucormycosis (in diabetics), aspergillosis, cryptococcus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Predisposed:   immunocompromised host (candida, aspergillus) √  enhancement of leptomeningeal surface √  nodular / ring-enhancing parenchymal lesion Cx:     Communicating hydrocephalus ← thick exudate blocks basal cisterns"
+}

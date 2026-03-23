@@ -1,0 +1,45 @@
+{
+  "name": "INTRAMURAL AORTIC HEMATOMA (3-13%",
+  "slug": "intramural_aortic_hematoma_3_13",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/intramural_aortic_hematoma_3_13.md",
+  "definition": "ATYPICAL AORTIC DISSECTION = IMH aortic dissection without demonstrable intimal flap / penetrating aortic ulcer",
+  "demographics": {},
+  "dominant_finding": "predictors of outcome:",
+  "distribution": "",
+  "discriminating_features": [
+    "NO intimal tear / flap at initial imaging",
+    "NO penetrating atherosclerotic ulcer",
+    "DIAGNOSTIC eccentric cuff / crescent of aortic wall > 7 mm thick with a density of 60-70",
+    "attenuation identical to intraluminal blood after 1 week",
+    "decreased thickness within a few weeks"
+  ],
+  "other_features": {
+    "general": [
+      "NO intimal tear / flap at initial imaging",
+      "NO penetrating atherosclerotic ulcer",
+      "DIAGNOSTIC eccentric cuff / crescent of aortic wall > 7 mm thick with a density of 60-70",
+      "attenuation identical to intraluminal blood after 1 week",
+      "decreased thickness within a few weeks",
+      "complete resolution within 1 year",
+      "displacement of intimal calcifications maintaining a semicircular / circular curvilinear"
+    ],
+    "CECT": [
+      "nonenhancing mural region of low attenuation with smooth border maintaining a constant",
+      "predictors of outcome:"
+    ],
+    "MR": [
+      "crescent-shaped eccentric wall thickening",
+      "T2 white blood imaging:",
+      "hyperintense signal (< 7 days of age)",
+      "intermediate signal intensity (≥ 7 days)",
+      "subacute / chronic hematoma on T1 black blood imaging:",
+      "subacute isointense (= oxyhemoglobin)",
+      "hyperintense hematoma (= methemoglobin)",
+      "tiny intimal orifice ± connection with intercostal / lumbar artery"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "good"
+  }
+}

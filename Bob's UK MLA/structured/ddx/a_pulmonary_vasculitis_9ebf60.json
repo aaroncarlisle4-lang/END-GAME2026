@@ -1,0 +1,27 @@
+{
+  "finding": "A. PULMONARY VASCULITIS",
+  "slug": "a_pulmonary_vasculitis_9ebf60",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/a_pulmonary_vasculitis_9ebf60.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing sarcoid granulomatosis",
+      "raw": "Necrotizing sarcoid granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Bronchocentric granulomatosis",
+      "raw": "Bronchocentric granulomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

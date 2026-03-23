@@ -1,0 +1,45 @@
+{
+  "finding": "B. CARDIAC LESION",
+  "slug": "b_cardiac_lesion",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/b_cardiac_lesion.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Congenital absence of pericardium = pericardial defect",
+      "raw": "Congenital absence of pericardium = pericardial defect",
+      "frequency": null
+    },
+    {
+      "name": "OTHERS",
+      "raw": "OTHERS",
+      "frequency": null
+    },
+    {
+      "name": "Mass of lung, pleura, diaphragm, abdomen",
+      "raw": "Mass of lung, pleura, diaphragm, abdomen",
+      "frequency": null
+    },
+    {
+      "name": "Cardiophrenic angle varices",
+      "raw": "Cardiophrenic angle varices",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Aneurysm": [],
+    "Congenital absence of pericardium = pericardial defect": [],
+    "OTHERS": [],
+    "Mass of lung, pleura, diaphragm, abdomen": [
+      "lucency between aorta + main pulmonary artery caused by interposed lung"
+    ],
+    "Cardiophrenic angle varices": []
+  },
+  "context": "√  apparent elevation of cardiac apex √  prominent pulmonary artery segment √  lucency between aorta + main pulmonary artery caused by interposed lung"
+}

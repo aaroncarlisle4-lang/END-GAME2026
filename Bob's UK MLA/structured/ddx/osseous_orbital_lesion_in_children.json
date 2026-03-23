@@ -1,0 +1,57 @@
+{
+  "finding": "Osseous Orbital Lesion in Children",
+  "slug": "osseous_orbital_lesion_in_children",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/osseous_orbital_lesion_in_children.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dermoid inclusion cyst",
+      "raw": "Dermoid inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid inclusion cyst (b)  primary bone lesions",
+      "raw": "Epidermoid inclusion cyst (b)  primary bone lesions",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile ossifying fibroma",
+      "raw": "Juvenile ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Cementifying fibroma",
+      "raw": "Cementifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis (c)  malignant tumors involving multiple sites",
+      "raw": "Langerhans cell histiocytosis (c)  malignant tumors involving multiple sites",
+      "frequency": null
+    },
+    {
+      "name": "Granulocytic sarcoma",
+      "raw": "Granulocytic sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Hematogenous metastasis: neuroblastoma (most common primary tumor to involve orbit) (d)  primary malignant bone tumor",
+      "raw": "Hematogenous metastasis: neuroblastoma (most common primary tumor to involve orbit) (d)  primary malignant bone tumor",
+      "frequency": "most common"
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  development of the osseous orbit"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Eosinophilic Gastroenteropathy — Stomach (80%; almost always limited to antrum) (DDx)",
+  "slug": "eosinophilic_gastroenteropathy_stomach_80_almost_always_limited_to_antrum_ddx",
+  "chapter": "Eosinophilic Gastroenteropathy",
+  "source_file": "processed_clusters/eosinophilic_gastroenteropathy/eosinophilic_gastroenteropathy_stomach_80_almost_always_limited_to_antrum_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hypertrophic gastritis",
+      "raw": "hypertrophic gastritis",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "carcinoma",
+      "raw": "carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "enlarged gastric rugae / cobblestone nodules / polyps | ulcers (rare) | thickened + rigid wall with narrowed gastric antrum / pylorus | bulky intraluminal mass up to 9 cm in size"
+}

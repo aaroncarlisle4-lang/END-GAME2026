@@ -1,0 +1,47 @@
+{
+  "finding": "C. THORACOABDOMINAL TYPE (7%) = in pentalogy of Cantrell",
+  "slug": "c_thoracoabdominal_type_7_in_pentalogy_of_cantrell",
+  "chapter": "ECTOPIA CORDIS",
+  "source_file": "processed_clusters/ectopia_cordis/c_thoracoabdominal_type_7_in_pentalogy_of_cantrell.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "CERVICAL TYPE (3%) =  displacement of heart into cervical region",
+      "raw": "CERVICAL TYPE (3%) =  displacement of heart into cervical region",
+      "frequency": "3%"
+    },
+    {
+      "name": "Facial deformities",
+      "raw": "Facial deformities",
+      "frequency": null
+    },
+    {
+      "name": "Skeletal deformities",
+      "raw": "Skeletal deformities",
+      "frequency": null
+    },
+    {
+      "name": "Ventral wall defects",
+      "raw": "Ventral wall defects",
+      "frequency": null
+    },
+    {
+      "name": "CNS malformations: meningocele, encephalocele",
+      "raw": "CNS malformations: meningocele, encephalocele",
+      "frequency": null
+    },
+    {
+      "name": "Intracardiac anomalies: tetralogy of Fallot, TGA",
+      "raw": "Intracardiac anomalies: tetralogy of Fallot, TGA",
+      "frequency": null
+    },
+    {
+      "name": "Amniotic band syndrome Prognosis:   stillbirth / death within first hour / death within first days of life in most case",
+      "raw": "Amniotic band syndrome Prognosis:   stillbirth / death within first hour / death within first days of life in most case",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Associated with:"
+}

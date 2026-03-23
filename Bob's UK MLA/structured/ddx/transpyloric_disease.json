@@ -1,0 +1,47 @@
+{
+  "finding": "Transpyloric Disease",
+  "slug": "transpyloric_disease",
+  "chapter": "C. INFILTRATIVE PROCESS",
+  "source_file": "processed_clusters/c_infiltrative_process/transpyloric_disease.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma: in up to 40% of patients with lymphoma",
+      "raw": "Lymphoma: in up to 40% of patients with lymphoma",
+      "frequency": "40%"
+    },
+    {
+      "name": "Gastric carcinoma: in 5-25%, but 50 x more common than lymphoma",
+      "raw": "Gastric carcinoma: in 5-25%, but 50 x more common than lymphoma",
+      "frequency": "25%"
+    },
+    {
+      "name": "Peptic ulcer disease",
+      "raw": "Peptic ulcer disease",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis: in 10% of gastric TB",
+      "raw": "Tuberculosis: in 10% of gastric TB",
+      "frequency": "10%"
+    },
+    {
+      "name": "Crohn disease: pseudo-Billroth-I pattern",
+      "raw": "Crohn disease: pseudo-Billroth-I pattern",
+      "frequency": null
+    },
+    {
+      "name": "Strongyloidiasis",
+      "raw": "Strongyloidiasis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic gastroenteritis Transpyloric spread by itself does not make a diagnosis of lymphoma because of the higher incidence of gastric cancer!",
+      "raw": "Eosinophilic gastroenteritis Transpyloric spread by itself does not make a diagnosis of lymphoma because of the higher incidence of gastric cancer!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  LESIONS INVOLVING STOMACH AND DUODENUM"
+}

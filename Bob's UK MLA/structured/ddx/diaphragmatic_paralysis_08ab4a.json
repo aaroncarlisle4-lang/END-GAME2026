@@ -1,0 +1,32 @@
+{
+  "finding": "Diaphragmatic Paralysis",
+  "slug": "diaphragmatic_paralysis_08ab4a",
+  "chapter": "DIAPHRAGM",
+  "source_file": "processed_clusters/diaphragm/diaphragmatic_paralysis_08ab4a.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "PHRENIC NERVE INJURY",
+      "raw": "PHRENIC NERVE INJURY",
+      "frequency": null
+    },
+    {
+      "name": "Birth trauma",
+      "raw": "Birth trauma",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac surgery",
+      "raw": "Cardiac surgery",
+      "frequency": null
+    },
+    {
+      "name": "Resection of thoracic tumor",
+      "raw": "Resection of thoracic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

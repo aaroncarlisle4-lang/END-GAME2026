@@ -1,0 +1,47 @@
+{
+  "finding": "Cavoatrial Tumor Extension",
+  "slug": "cavoatrial_tumor_extension",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/cavoatrial_tumor_extension.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatocellular carcinoma extension into hepatic veins / IVC",
+      "raw": "Hepatocellular carcinoma extension into hepatic veins / IVC (7.5%), into RA (4%)",
+      "frequency": "7.5%"
+    },
+    {
+      "name": "RCC invasion of renal vein / IVC",
+      "raw": "RCC invasion of renal vein / IVC (5-15%), into RA (1%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Wilms tumor into renal veins / IVC",
+      "raw": "Wilms tumor into renal veins / IVC (4-10%), into RA (1%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Adrenocortical carcinoma",
+      "raw": "Adrenocortical carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Uterine leiomyoma",
+      "raw": "Uterine leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma of IVC",
+      "raw": "Leiomyosarcoma of IVC",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenic sarcoma of pelvis N.B.:   sudden death may occur when tumor in RA intermittently obstructs tricuspid valve leading to low cardiac output",
+      "raw": "Osteogenic sarcoma of pelvis N.B.:   sudden death may occur when tumor in RA intermittently obstructs tricuspid valve leading to low cardiac output",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  neoplasm arising in infradiaphragmatic sites"
+}

@@ -41,7 +41,7 @@ if (fs.existsSync(envPath)) {
 
 // ─── Config ──────────────────────────────────────────────────────────────────
 
-const CONVEX_URL = process.env.CONVEX_URL || process.env.VITE_CONVEX_URL || "https://lovable-goat-91.eu-west-1.convex.cloud";
+const CONVEX_URL = process.env.CONVEX_URL || process.env.VITE_CONVEX_URL || "https://reminiscent-seal-853.convex.cloud";
 const API_KEYS = (process.env.OPENROUTER_KEYS || "").split(",").filter(Boolean);
 const DRY_RUN = process.argv.includes("--dry-run");
 const MAX_RETRIES = 5;

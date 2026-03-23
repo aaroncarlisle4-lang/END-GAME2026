@@ -1,0 +1,32 @@
+{
+  "finding": "Sarcoidosis — pleural disease (1-4%) by CT: (DDx)",
+  "slug": "sarcoidosis_pleural_disease_1_4_by_ct_ddx",
+  "chapter": "Sarcoidosis",
+  "source_file": "processed_clusters/sarcoidosis/sarcoidosis_pleural_disease_1_4_by_ct_ddx.md",
+  "quality_score": 0.65,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "mycobacterial / fungal infection",
+      "raw": "mycobacterial / fungal infection",
+      "frequency": null
+    },
+    {
+      "name": "malignancy",
+      "raw": "malignancy",
+      "frequency": null
+    },
+    {
+      "name": "pneumoconiosis (silicosis",
+      "raw": "pneumoconiosis (silicosis",
+      "frequency": null
+    },
+    {
+      "name": "berylliosis)",
+      "raw": "berylliosis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

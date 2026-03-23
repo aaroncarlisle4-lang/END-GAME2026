@@ -1,0 +1,57 @@
+{
+  "finding": "IVC Obstruction",
+  "slug": "ivc_obstruction",
+  "chapter": "VENA CAVA",
+  "source_file": "processed_clusters/vena_cava/ivc_obstruction.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INTRINSIC OBSTRUCTION",
+      "raw": "INTRINSIC OBSTRUCTION (a)  neoplastic (most frequent)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Renal cell carcinoma (in 10%), Wilms tumor",
+      "raw": "Renal cell carcinoma (in 10%), Wilms tumor",
+      "frequency": "10%"
+    },
+    {
+      "name": "Adrenal carcinoma, pheochromocytoma",
+      "raw": "Adrenal carcinoma, pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic carcinoma, hepatic adenocarcinoma",
+      "raw": "Pancreatic carcinoma, hepatic adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic disease to retroperitoneal lymph nodes (carcinoma of ovary, cervix, prostate) (b)  nonneoplastic",
+      "raw": "Metastatic disease to retroperitoneal lymph nodes (carcinoma of ovary, cervix, prostate) (b)  nonneoplastic",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Proximally extending thrombus from femoroiliac veins",
+      "raw": "Proximally extending thrombus from femoroiliac veins",
+      "frequency": null
+    },
+    {
+      "name": "Systemic disorders: coagulopathy, Budd-Chiari syndrome, dehydration, infection (pelvic inflammatory disease), sepsis, CHF",
+      "raw": "Systemic disorders: coagulopathy, Budd-Chiari syndrome, dehydration, infection (pelvic inflammatory disease), sepsis, CHF",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative / traumatic phlebitis, ligation, plication, clip, cava filter, severe exertion",
+      "raw": "Postoperative / traumatic phlebitis, ligation, plication, clip, cava filter, severe exertion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

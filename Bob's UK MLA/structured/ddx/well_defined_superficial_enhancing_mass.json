@@ -1,0 +1,37 @@
+{
+  "finding": "Well-defined Superficial Enhancing Mass",
+  "slug": "well_defined_superficial_enhancing_mass",
+  "chapter": "Mycobacteria, Nocardia, Actinomyces, Listeria",
+  "source_file": "processed_clusters/mycobacteria_nocardia_actinomyces_listeria/well_defined_superficial_enhancing_mass.md",
+  "quality_score": 0.533,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "EXTRAAXIAL DURA-BASED TUMOR",
+      "raw": "EXTRAAXIAL DURA-BASED TUMOR",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (prostate, breast, melanoma, RCC)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "EXTRAAXIAL DURA-BASED TUMOR": [],
+    "Meningioma": [],
+    "Metastasis": [],
+    "Lymphoma": []
+  },
+  "context": "√  displacement of underlying cortex √  adjacent dural thickening √  reactive bone changes √  supply by dural arteries"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Doughnut Sign of Bone Lesion",
+  "slug": "doughnut_sign_of_bone_lesion_c10644",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/doughnut_sign_of_bone_lesion_c10644.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Telangiectatic osteosarcoma",
+      "raw": "Telangiectatic osteosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  radiotracer accumulation at periphery of bone lesion with little activity at its center"
+}

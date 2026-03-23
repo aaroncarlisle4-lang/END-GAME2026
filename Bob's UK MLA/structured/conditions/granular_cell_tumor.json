@@ -1,0 +1,52 @@
+{
+  "name": "GRANULAR CELL TUMOR",
+  "slug": "granular_cell_tumor",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/granular_cell_tumor.md",
+  "definition": "GRANULAR CELL MYOBLASTOMA (misnomer coined in 1926, thought to derive from muscle rare mostly benign neoplasm, occasionally locally invasive + metastasizing",
+  "demographics": {
+    "Path": "infiltrative margins",
+    "Histo": "nests of ovoid / polygonal cells with small dark regular nuclei and abundant cytoplasm",
+    "Age": "5th decade; M < F",
+    "Location": "tongue (most common), subcutaneous tissue (6-8%), oropharynx, GI tract (5-8%),",
+    "Size": "mostly small tumors < 2 cm incidentally discovered at autopsy / endoscopy",
+    "Prevalence": "1÷1,000 of primary breast tumors; 5-8% of all granular cell tumors; 78% in",
+    "Mean age": "34 (range, 20-59) years; M÷F = 1÷9"
+  },
+  "dominant_finding": "endobronchial lesion in major bronchi",
+  "distribution": "tongue (most common), subcutaneous tissue (6-8%), oropharynx, GI tract (5-8%),",
+  "discriminating_features": [
+    "small subepithelial mass; hypoechoic on US",
+    "moderately enhancing soft-tissue mass with thickening of esophageal wall + partially",
+    "endobronchial lesion in major bronchi",
+    "round well-demarcated mass / indistinct density / spiculated mass",
+    "± calcifications (rare)"
+  ],
+  "other_features": {
+    "general": [
+      "small subepithelial mass; hypoechoic on US"
+    ],
+    "CT": [
+      "moderately enhancing soft-tissue mass with thickening of esophageal wall + partially",
+      "endobronchial lesion in major bronchi",
+      "round well-demarcated mass / indistinct density / spiculated mass",
+      "± calcifications (rare)"
+    ],
+    "US": [
+      "well-circumscribed / angular / ill-defined spiculated mass",
+      "posterior acoustic enhancement / shadowing",
+      "stellate extensions ← tumor insinuating itself into surrounding breast tissue:",
+      "± associated skin thickening / retraction (with dermal location)",
+      "surrounding hyperechoic halo ← infiltrative growth pattern"
+    ],
+    "MR": [
+      "low to high SI on T2WI + low to intermediate SI on T1WI",
+      "hyperintense rim on T2WI",
+      "homogeneous enhancement of varying kinetics / rapid peripheral enhancement"
+    ]
+  },
+  "clinical": {
+    "Cx": "malignant degeneration (1-3%)",
+    "Rx": "endoscopic / surgical removal if > 1 cm in size"
+  }
+}

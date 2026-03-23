@@ -1,0 +1,22 @@
+{
+  "finding": "Renal Cell Carcinoma (DDx)",
+  "slug": "renal_cell_carcinoma_ddx_1",
+  "chapter": "Renal Cell Carcinoma",
+  "source_file": "processed_clusters/renal_cell_carcinoma/renal_cell_carcinoma_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "renal cyst (enhancement of < 10 HU / pseudoenhancement",
+      "raw": "renal cyst (enhancement of < 10 HU / pseudoenhancement",
+      "frequency": null
+    },
+    {
+      "name": "cyst by US + MR)",
+      "raw": "cyst by US + MR)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "high-grade eosinophilic (type II) tumor: | complex tumor appearance ← hemorrhage + necrosis | enhancing papillary projections at periphery of cystic hemorrhagic mass | frequently hypoechoic mass"
+}

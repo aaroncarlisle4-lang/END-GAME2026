@@ -1,0 +1,27 @@
+{
+  "finding": "Pancreatitis — Pulmonary manifestations (DDx)",
+  "slug": "pancreatitis_pulmonary_manifestations_ddx_89fce1",
+  "chapter": "Pancreatitis",
+  "source_file": "processed_clusters/pancreatitis/pancreatitis_pulmonary_manifestations_ddx_89fce1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "adenocarcinoma (abrupt interruption of smoothly dilated pancreatic duct",
+      "raw": "adenocarcinoma (abrupt interruption of smoothly dilated pancreatic duct",
+      "frequency": null
+    },
+    {
+      "name": "upstream pancreatic gland atrophy",
+      "raw": "upstream pancreatic gland atrophy",
+      "frequency": null
+    },
+    {
+      "name": "gradual enhancement)",
+      "raw": "gradual enhancement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"duct penetrating\" sign = nondilated / smooth tapering of pancreatic + bile ducts coursing | irregularity of pancreatic duct | pancreatic calcifications"
+}

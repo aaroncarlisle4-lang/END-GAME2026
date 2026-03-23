@@ -1,0 +1,33 @@
+{
+  "name": "ADENOMATOUS COLONIC POLYP",
+  "slug": "adenomatous_colonic_polyp",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/adenomatous_colonic_polyp.md",
+  "definition": "EPITHELIAL POLYP",
+  "demographics": {
+    "Prevalence": "3% (10%) [26%] in 3rd (7th)) [9th]] decade",
+    "Location": "sigmoid (26-38%); rectum (21-34%); descending colon (6-18%); transverse colon"
+  },
+  "dominant_finding": "usually < 10 mm in diameter",
+  "distribution": "sigmoid (26-38%); rectum (21-34%); descending colon (6-18%); transverse colon",
+  "discriminating_features": [
+    "pedunculated polyp: stalk > 2 cm in length almost always indicative of a benign polyp",
+    "lacelike / reticular surface pattern CHARACTERISTIC for villous adenoma (occasionally in",
+    "usually < 10 mm in diameter",
+    "often pedunculated if > 10 mm",
+    "often > 20 mm in diameter with papillary surface"
+  ],
+  "other_features": {
+    "general": [
+      "usually < 10 mm in diameter",
+      "often pedunculated if > 10 mm",
+      "often > 20 mm in diameter with papillary surface",
+      "often broad-based sessile lesion",
+      "sessile flat / round polyp",
+      "pedunculated polyp: stalk > 2 cm in length almost always indicative of a benign polyp",
+      "suggestive of malignancy: irregular lobulated surface, broad base (= width of the base",
+      "lacelike / reticular surface pattern CHARACTERISTIC for villous adenoma (occasionally in"
+    ]
+  },
+  "clinical": {}
+}

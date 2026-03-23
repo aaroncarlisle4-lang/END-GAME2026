@@ -1,0 +1,27 @@
+{
+  "finding": "Anatomic Variants of SI Joint",
+  "slug": "anatomic_variants_of_si_joint",
+  "chapter": "NORMAL POSITION OF CONUS MEDULLARIS",
+  "source_file": "processed_clusters/normal_position_of_conus_medullaris/anatomic_variants_of_si_joint.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Accessory sacroiliac joint",
+      "raw": "Accessory sacroiliac joint (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Iliosacral complex =  iliac projection inserted into a complementary sacral recess",
+      "raw": "Iliosacral complex =  iliac projection inserted into a complementary sacral recess",
+      "frequency": null
+    },
+    {
+      "name": "Bipartite iliac bone plate",
+      "raw": "Bipartite iliac bone plate",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Site:   posterosuperior portion Site:   transition between ligamentous + synovial portion Site:   posteroinferior portion"
+}

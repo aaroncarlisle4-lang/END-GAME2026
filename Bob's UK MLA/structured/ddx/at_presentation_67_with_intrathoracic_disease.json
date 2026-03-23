@@ -1,0 +1,42 @@
+{
+  "finding": "At presentation: 67% with intrathoracic disease",
+  "slug": "at_presentation_67_with_intrathoracic_disease",
+  "chapter": "HARD-METAL PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/at_presentation_67_with_intrathoracic_disease.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymph nodes in mediastinum",
+      "raw": "Lymph nodes in mediastinum",
+      "frequency": null
+    },
+    {
+      "name": "Lymph nodes at bifurcation of 1st + 2nd order bronchi",
+      "raw": "Lymph nodes at bifurcation of 1st + 2nd order bronchi",
+      "frequency": null
+    },
+    {
+      "name": "Encapsulated lymphoid collections on thoracic surface deep to parietal pleura",
+      "raw": "Encapsulated lymphoid collections on thoracic surface deep to parietal pleura",
+      "frequency": null
+    },
+    {
+      "name": "Unencapsulated nodules at points of divisions of more distally situated bronchi, bronchioles, pulmonary vessels",
+      "raw": "Unencapsulated nodules at points of divisions of more distally situated bronchi, bronchioles, pulmonary vessels",
+      "frequency": null
+    },
+    {
+      "name": "Unencapsulated lymphoid aggregates within peribronchial connective tissue",
+      "raw": "Unencapsulated lymphoid aggregates within peribronchial connective tissue",
+      "frequency": null
+    },
+    {
+      "name": "Small accumulations of lymphocytes in interlobular septa + lymphatic channels",
+      "raw": "Small accumulations of lymphocytes in interlobular septa + lymphatic channels",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Sites of lymphoid aggregates:"
+}

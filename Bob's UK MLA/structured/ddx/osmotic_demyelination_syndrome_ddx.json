@@ -1,0 +1,27 @@
+{
+  "finding": "Osmotic Demyelination Syndrome (DDx)",
+  "slug": "osmotic_demyelination_syndrome_ddx",
+  "chapter": "Osmotic Demyelination Syndrome",
+  "source_file": "processed_clusters/osmotic_demyelination_syndrome/osmotic_demyelination_syndrome_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hypoxia",
+      "raw": "hypoxia",
+      "frequency": null
+    },
+    {
+      "name": "Leigh disease",
+      "raw": "Leigh disease",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "sparing of ventrolateral pons + pontine portions of corticospinal tracts | bilateral symmetric well-demarcated lesions in basal ganglia ± other extrapontine sites | ± restricted diffusion (24 hours after onset of symptoms) | no enhancement of lesions"
+}

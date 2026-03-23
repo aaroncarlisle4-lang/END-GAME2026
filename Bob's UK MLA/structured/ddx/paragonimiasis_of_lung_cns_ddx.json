@@ -1,0 +1,22 @@
+{
+  "finding": "Paragonimiasis Of Lung — CNS (DDx)",
+  "slug": "paragonimiasis_of_lung_cns_ddx",
+  "chapter": "Paragonimiasis Of Lung",
+  "source_file": "processed_clusters/paragonimiasis_of_lung/paragonimiasis_of_lung_cns_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tuberculosis (nodular slowly changing lesion",
+      "raw": "tuberculosis (nodular slowly changing lesion",
+      "frequency": null
+    },
+    {
+      "name": "residual fibrosis after treatment",
+      "raw": "residual fibrosis after treatment",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "adjacent bronchiectasis (35%) | cavity formation | high radiotracer uptake on PET | shell-like / soap-bubble-like calcifications of varying size (~ 50%)"
+}

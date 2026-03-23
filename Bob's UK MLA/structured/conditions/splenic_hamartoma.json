@@ -1,0 +1,30 @@
+{
+  "name": "SPLENIC HAMARTOMA",
+  "slug": "splenic_hamartoma",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/splenic_hamartoma.md",
+  "definition": "SPLENOMA rare typically single nonneoplastic lesion composed of a mixture of normal splenic elements",
+  "demographics": {
+    "Etiology": "congenital"
+  },
+  "dominant_finding": "attenuation equal to / hypodense to splenic tissue",
+  "distribution": "attenuation equal to / hypodense to splenic tissue",
+  "discriminating_features": [
+    "attenuation equal to / hypodense to splenic tissue",
+    "prolonged heterogeneous enhancement",
+    "heterogeneously hyperintense on T2WI",
+    "diffuse heterogeneous enhancement, more homogeneous on delayed images"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "attenuation equal to / hypodense to splenic tissue",
+      "prolonged heterogeneous enhancement"
+    ],
+    "MR": [
+      "heterogeneously hyperintense on T2WI",
+      "diffuse heterogeneous enhancement, more homogeneous on delayed images"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,257 @@
+{
+  "finding": "Acute Pyelonephritis",
+  "slug": "acute_pyelonephritis_c91a43",
+  "chapter": "PYELONEPHRITIS",
+  "source_file": "processed_clusters/pyelonephritis/acute_pyelonephritis_c91a43.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vesicoureteral reflux in children",
+      "raw": "Vesicoureteral reflux in children",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction, stasis, stone in adults",
+      "raw": "Obstruction, stasis, stone in adults (5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "fever, chills, flank pain + tenderness",
+      "raw": "fever, chills, flank pain + tenderness",
+      "frequency": null
+    },
+    {
+      "name": "pyuria, bacteriuria, positive urine culture",
+      "raw": "pyuria, bacteriuria, positive urine culture",
+      "frequency": null
+    },
+    {
+      "name": "± microscopic hematuria / bacteremia; leukocytosis",
+      "raw": "± microscopic hematuria / bacteremia; leukocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes",
+      "raw": "Diabetes",
+      "frequency": null
+    },
+    {
+      "name": "Analgesic abuse",
+      "raw": "Analgesic abuse",
+      "frequency": null
+    },
+    {
+      "name": "Neuropathic bladder",
+      "raw": "Neuropathic bladder",
+      "frequency": null
+    },
+    {
+      "name": "History of urinary tract stones",
+      "raw": "History of urinary tract stones",
+      "frequency": null
+    },
+    {
+      "name": "Atypical organism: eg, proteus",
+      "raw": "Atypical organism: eg, proteus",
+      "frequency": null
+    },
+    {
+      "name": "Poor response to antibiotics",
+      "raw": "Poor response to antibiotics",
+      "frequency": null
+    },
+    {
+      "name": "Frequent recurrences",
+      "raw": "Frequent recurrences",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Immunocompromise",
+      "raw": "Immunocompromise",
+      "frequency": null
+    },
+    {
+      "name": "Quick response to antibiotic treatment will leave no scars",
+      "raw": "Quick response to antibiotic treatment will leave no scars",
+      "frequency": null
+    },
+    {
+      "name": "Delayed treatment of acute pyelonephritis during first 3 years of life can severely affect renal function later in life → decreased renal function, hypertension",
+      "raw": "Delayed treatment of acute pyelonephritis during first 3 years of life can severely affect renal function later in life → decreased renal function, hypertension (33%), end-stage renal disease (10%)",
+      "frequency": "33%"
+    },
+    {
+      "name": "Renal abscess",
+      "raw": "Renal abscess (near-water density lesion without enhancement)",
+      "frequency": null
+    },
+    {
+      "name": "Scarring of affected renal lobes often in children + in up to 43% in adults",
+      "raw": "Scarring of affected renal lobes often in children + in up to 43% in adults",
+      "frequency": "43%"
+    },
+    {
+      "name": "Maternal septic shock",
+      "raw": "Maternal septic shock (3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Premature labor",
+      "raw": "Premature labor (17%)",
+      "frequency": "17%"
+    },
+    {
+      "name": "fever, flank pain, pyuria",
+      "raw": "fever, flank pain, pyuria",
+      "frequency": null
+    },
+    {
+      "name": "Organism:  Proteus, Klebsiella > E. coli",
+      "raw": "Organism:  Proteus, Klebsiella > E. coli",
+      "frequency": null
+    },
+    {
+      "name": "Predisposed:   diabetics",
+      "raw": "Predisposed:   diabetics (60%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "Emphysematous Pyelitis",
+      "raw": "Emphysematous Pyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Organism:  E. coli",
+      "raw": "Organism:  E. coli",
+      "frequency": null
+    },
+    {
+      "name": "Predisposed:   diabetes mellitus (50%); M÷F = 1÷3",
+      "raw": "Predisposed:   diabetes mellitus (50%); M÷F = 1÷3",
+      "frequency": "50%"
+    },
+    {
+      "name": "May be associated with:   emphysematous cystitis",
+      "raw": "May be associated with:   emphysematous cystitis (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "pyuria",
+      "raw": "pyuria",
+      "frequency": null
+    },
+    {
+      "name": "features of acute severe pyelonephritis (chills, fever, flank pain, lethargy, confusion) not responding to Rx",
+      "raw": "features of acute severe pyelonephritis (chills, fever, flank pain, lethargy, confusion) not responding to Rx",
+      "frequency": null
+    },
+    {
+      "name": "positive blood + urine cultures (in majority), urosepsis, shock",
+      "raw": "positive blood + urine cultures (in majority), urosepsis, shock",
+      "frequency": null
+    },
+    {
+      "name": "fever of unknown origin + NO localizing signs in 18%",
+      "raw": "fever of unknown origin + NO localizing signs in 18%",
+      "frequency": "18%"
+    },
+    {
+      "name": "multiple associated medical problems: uncontrolled hyperglycemia, acidosis, dehydration, electrolyte imbalance",
+      "raw": "multiple associated medical problems: uncontrolled hyperglycemia, acidosis, dehydration, electrolyte imbalance",
+      "frequency": null
+    },
+    {
+      "name": "Kidney may be completely obscured by large amount of gas in perinephric space",
+      "raw": "Kidney may be completely obscured by large amount of gas in perinephric space (DDx: surrounding bowel gas)",
+      "frequency": null
+    },
+    {
+      "name": "Gas may be confused with renal calculi",
+      "raw": "Gas may be confused with renal calculi",
+      "frequency": null
+    },
+    {
+      "name": "Fungal Pyelonephritis",
+      "raw": "Fungal Pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Organism:  Candida, Aspergillus, Mucor, Coccidioides, Cryptococcus, Actinomyces,",
+      "raw": "Organism:  Candida, Aspergillus, Mucor, Coccidioides, Cryptococcus, Actinomyces,",
+      "frequency": null
+    },
+    {
+      "name": "Nocardia, Torulopsis",
+      "raw": "Nocardia, Torulopsis",
+      "frequency": null
+    },
+    {
+      "name": "At risk:   diabetes, drug addiction, leukemia, debilitation, immunosuppression",
+      "raw": "At risk:   diabetes, drug addiction, leukemia, debilitation, immunosuppression",
+      "frequency": null
+    },
+    {
+      "name": "Organism:  Proteus mirabilis, E. coli, S. aureus",
+      "raw": "Organism:  Proteus mirabilis, E. coli, S. aureus",
+      "frequency": null
+    },
+    {
+      "name": "Risk factors:   female gender, diabetes",
+      "raw": "Risk factors:   female gender, diabetes",
+      "frequency": null
+    },
+    {
+      "name": "Associated with:   nephrolithiasis",
+      "raw": "Associated with:   nephrolithiasis (staghorn calculus in 50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "pyuria 95%",
+      "raw": "pyuria 95%",
+      "frequency": "95%"
+    },
+    {
+      "name": "flank pain 80%",
+      "raw": "flank pain 80%",
+      "frequency": "80%"
+    },
+    {
+      "name": "fever 70%",
+      "raw": "fever 70%",
+      "frequency": "70%"
+    },
+    {
+      "name": "palpable mass 50%",
+      "raw": "palpable mass 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "weight loss 50%",
+      "raw": "weight loss 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "microscopic hematuria 50%",
+      "raw": "microscopic hematuria 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "elevated ESR; reversible elevated liver function tests (50%) ← inflammation of portal triads ◊  Symptomatic for 6 months prior to diagnosis in 40%!",
+      "raw": "elevated ESR; reversible elevated liver function tests (50%) ← inflammation of portal triads ◊  Symptomatic for 6 months prior to diagnosis in 40%!",
+      "frequency": "50%"
+    },
+    {
+      "name": "DIFFUSE XGP (83-90%) =  massive renal enlargement, lithiasis, peripelvic fibrosis, hydronephrosis, lobulated masses replacing parenchyma",
+      "raw": "DIFFUSE XGP (83-90%) =  massive renal enlargement, lithiasis, peripelvic fibrosis, hydronephrosis, lobulated masses replacing parenchyma",
+      "frequency": "90%"
+    },
+    {
+      "name": "SEGMENTAL / FOCAL XGP (10-17%) =  tumefactive form ← obstructed single infundibulum / one moiety of duplex system",
+      "raw": "SEGMENTAL / FOCAL XGP (10-17%) =  tumefactive form ← obstructed single infundibulum / one moiety of duplex system",
+      "frequency": "17%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  episodic bacterial infection of kidney with acute inflammation, usually involving pyelocaliceal lining + renal parenchyma centrifugally along medullary rays Risk factors: Pathway of infection: (a)  ascending bacterial infection ← (usually) P-fimbriated E. coli (fimbriae facilitate adherence to mucosal surface): initial colonization of ureter in areas of turbulent flow → paralysis of ureteral smooth muscle → dilatation + functional obstruction of collecting system (b)  vesicoureteral reflux + pyelotubular backflow: P-fimbriated E. coli NOT necessary for infection (c)  hematogenous spread (12"
+}

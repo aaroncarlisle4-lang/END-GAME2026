@@ -1,0 +1,37 @@
+{
+  "finding": "C. POSTRENAL (a) collecting system: obstructive uropathy",
+  "slug": "c_postrenal_a_collecting_system_obstructive_uropathy",
+  "chapter": "B. LOSS OF PERFUSION",
+  "source_file": "processed_clusters/b_loss_of_perfusion/c_postrenal_a_collecting_system_obstructive_uropathy.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute pyelonephritis",
+      "raw": "Acute pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Renal vein thrombosis",
+      "raw": "Renal vein thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Obstructive uropathy",
+      "raw": "Obstructive uropathy",
+      "frequency": null
+    },
+    {
+      "name": "Miscellaneous",
+      "raw": "Miscellaneous (compensatory hypertrophy, duplication)",
+      "frequency": null
+    },
+    {
+      "name": "Arterial obstruction",
+      "raw": "Arterial obstruction (infarction)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

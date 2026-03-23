@@ -1,0 +1,67 @@
+{
+  "finding": "B. FOCAL",
+  "slug": "b_focal_c0a5e0",
+  "chapter": "Sutural Abnormalities",
+  "source_file": "processed_clusters/sutural_abnormalities/b_focal_c0a5e0.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Dyke-Davidoff-Mason syndrome",
+      "raw": "Dyke-Davidoff-Mason syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hyperostosis frontalis interna = dense hyperostosis of inner table of frontal bone; M < F",
+      "raw": "Hyperostosis frontalis interna = dense hyperostosis of inner table of frontal bone; M < F",
+      "frequency": null
+    },
+    {
+      "name": "Hyperostosis frontalis interna",
+      "raw": "Hyperostosis frontalis interna",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Anemia",
+      "raw": "Anemia (sickle cell disease, iron deficiency, thalassemia, spherocytosis)",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Congenitally Lucent Ribs",
+  "slug": "congenitally_lucent_ribs_eca763",
+  "chapter": "Slender Ribs",
+  "source_file": "processed_clusters/slender_ribs/congenitally_lucent_ribs_eca763.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Achondrogenesis",
+      "raw": "Achondrogenesis",
+      "frequency": null
+    },
+    {
+      "name": "Hypophosphatasia",
+      "raw": "Hypophosphatasia",
+      "frequency": null
+    },
+    {
+      "name": "Camptomelic dysplasia",
+      "raw": "Camptomelic dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

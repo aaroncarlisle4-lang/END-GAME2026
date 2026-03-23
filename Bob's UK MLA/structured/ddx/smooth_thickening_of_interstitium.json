@@ -1,0 +1,92 @@
+{
+  "finding": "Smooth Thickening of Interstitium",
+  "slug": "smooth_thickening_of_interstitium",
+  "chapter": "C. Pneumoconiosis",
+  "source_file": "processed_clusters/c_pneumoconiosis/smooth_thickening_of_interstitium.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphangitic tumor",
+      "raw": "Lymphangitic tumor",
+      "frequency": null
+    },
+    {
+      "name": "Edema",
+      "raw": "Edema",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (uncommon)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Respiratory bronchiolitis",
+      "raw": "Respiratory bronchiolitis",
+      "frequency": null
+    },
+    {
+      "name": "Respiratory bronchiolitis-interstitial lung disease (e)  idiopathic",
+      "raw": "Respiratory bronchiolitis-interstitial lung disease (e)  idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse panbronchiolitis in Asians",
+      "raw": "Diffuse panbronchiolitis in Asians",
+      "frequency": null
+    },
+    {
+      "name": "Follicular bronchiolitis (← lymphoid hyperplasia): rheumatoid arthritis, Sjögren syndrome",
+      "raw": "Follicular bronchiolitis (← lymphoid hyperplasia): rheumatoid arthritis, Sjögren syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Asthma",
+      "raw": "Asthma",
+      "frequency": null
+    },
+    {
+      "name": "Bronchiolitis obliterans = constrictive bronchiolitis",
+      "raw": "Bronchiolitis obliterans = constrictive bronchiolitis",
+      "frequency": null
+    },
+    {
+      "name": "Cryptogenic organizing pneumonia = bronchiolitis obliterans with organizing pneumonia (BOOP) = proliferative bronchiolitis",
+      "raw": "Cryptogenic organizing pneumonia = bronchiolitis obliterans with organizing pneumonia (BOOP) = proliferative bronchiolitis",
+      "frequency": null
+    },
+    {
+      "name": "DIRECT SIGNS",
+      "raw": "DIRECT SIGNS",
+      "frequency": null
+    },
+    {
+      "name": "INDIRECT SIGNS",
+      "raw": "INDIRECT SIGNS",
+      "frequency": null
+    },
+    {
+      "name": "Cystic lung disease",
+      "raw": "Cystic lung disease (thin septum surrounds area of air attenuation, central vessel not present)",
+      "frequency": null
+    },
+    {
+      "name": "Panlobular emphysema",
+      "raw": "Panlobular emphysema (distortion of vascular + septal architecture, bullae)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "HRCT of Bronchiolitis [CT findings are nonspecific and must be interpreted in the appropriate clinical context] Cause: (a)  infection via endobronchial spread (acute bronchiolitis): ◊  Most common cause of tree-in-bud appearance. ›  bacterial (most common) ›  mycobacterial: classic TB, M. avium-intracellulare ›  viral: acute infectious bronchiolitis in infants and young children due to RSV, adenovirus, mycoplasma ›  parasitic ›  fungal (b)  inhalation of organic / inorganic antigens: hypersensitivity pneumonitis, mineral dust airways disease (c)  immunologic deficiency or impaired host defense"
+}

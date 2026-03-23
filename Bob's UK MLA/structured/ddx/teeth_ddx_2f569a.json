@@ -1,0 +1,22 @@
+{
+  "finding": "Teeth (DDx)",
+  "slug": "teeth_ddx_2f569a",
+  "chapter": "Teeth",
+  "source_file": "processed_clusters/teeth/teeth_ddx_2f569a.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "odontoma",
+      "raw": "odontoma",
+      "frequency": null
+    },
+    {
+      "name": "hamartoma of odontogenic origin",
+      "raw": "hamartoma of odontogenic origin",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

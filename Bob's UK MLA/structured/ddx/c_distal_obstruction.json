@@ -1,0 +1,42 @@
+{
+  "finding": "C. DISTAL OBSTRUCTION",
+  "slug": "c_distal_obstruction",
+  "chapter": "B. LIVER",
+  "source_file": "processed_clusters/b_liver/c_distal_obstruction.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Midgut volvulus",
+      "raw": "Midgut volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Malrotation",
+      "raw": "Malrotation",
+      "frequency": null
+    },
+    {
+      "name": "Ladd bands / malrotation",
+      "raw": "Ladd bands / malrotation",
+      "frequency": null
+    },
+    {
+      "name": "Annular pancreas",
+      "raw": "Annular pancreas",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal atresia",
+      "raw": "Duodenal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Stenosis",
+      "raw": "Stenosis (duodenal)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

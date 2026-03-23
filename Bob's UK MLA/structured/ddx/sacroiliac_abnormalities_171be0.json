@@ -1,0 +1,48 @@
+{
+  "finding": "Sacroiliac Abnormalities",
+  "slug": "sacroiliac_abnormalities_171be0",
+  "chapter": "Endplate and Disk Abnormalities",
+  "source_file": "processed_clusters/endplate_and_disk_abnormalities/sacroiliac_abnormalities_171be0.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bertolotti syndrome",
+      "raw": "Bertolotti syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Sacroiliac joint syndrome [Sacral stress fracture]",
+      "raw": "Sacroiliac joint syndrome",
+      "frequency": null,
+      "sites": [
+        "Sacral stress fracture"
+      ]
+    },
+    {
+      "name": "OSSEOUS CAUSE (a)  mechanical instability",
+      "raw": "OSSEOUS CAUSE (a)  mechanical instability",
+      "frequency": null
+    },
+    {
+      "name": "Spondylolisthesis",
+      "raw": "Spondylolisthesis",
+      "frequency": null
+    },
+    {
+      "name": "Pseudarthrosis (b)  osseous stenosis [Central stenosis]",
+      "raw": "Pseudarthrosis (b)  osseous stenosis",
+      "frequency": null,
+      "sites": [
+        "Central stenosis"
+      ]
+    },
+    {
+      "name": "Foraminal stenosis",
+      "raw": "Foraminal stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Lumbosacral Postsurgical Syndrome =  FAILED BACK SURGERY SYNDROME =  signs of dysfunction and disability + pain and paresthesia following surgery ◊  Interpretation in immediate postoperative period difficult, stabilization of findings occurs in 2-6 months Frequency:   failure of improvement in 5-15%"
+}

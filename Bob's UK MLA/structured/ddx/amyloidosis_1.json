@@ -1,0 +1,42 @@
+{
+  "finding": "AMYLOIDOSIS",
+  "slug": "amyloidosis_1",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/cardiovascular_disorders/amyloidosis_1.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "asymptomatic / fatigue, weakness",
+      "raw": "asymptomatic / fatigue, weakness",
+      "frequency": null
+    },
+    {
+      "name": "angina, CHF (diastolic dysfunction ⇉ restrictive cardiomyopathy), arrhythmia",
+      "raw": "angina, CHF (diastolic dysfunction ⇉ restrictive cardiomyopathy), arrhythmia",
+      "frequency": null
+    },
+    {
+      "name": "Dx:   endomyocardial Bx with potential for severe complications",
+      "raw": "Dx:   endomyocardial Bx with potential for severe complications",
+      "frequency": null
+    },
+    {
+      "name": "ANOMALOUS (INNOMINATE) BRACHIOCEPHALIC ARTERY COMPRESSION",
+      "raw": "ANOMALOUS (INNOMINATE) BRACHIOCEPHALIC ARTERY COMPRESSION",
+      "frequency": null
+    },
+    {
+      "name": "SYNDROME",
+      "raw": "SYNDROME",
+      "frequency": null
+    },
+    {
+      "name": "ablation of right radial pulse by rigid endoscopic pressure",
+      "raw": "ablation of right radial pulse by rigid endoscopic pressure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  extracellular deposits of insoluble fibrillar protein (most commonly amyloid AL = light chain) in myocardial interstitium Incidence:   AL amyloidosis (50%); AA amyloidosis (2%); isolated myocardial amyloid deposition (in 25% of autopsied patients > 85 years of age) Path:   commonly involvement of all 4 chambers CXR: √   normal / generalized cardiomegaly √   pulmonary congestion √   pulmonary deposits of amyloid NUC: √   striking uptake of 99mTc-pyrophosphate greater than bone (50-90%) ECHO: √   granular sparkling appearance of myocardium √   LV wall thickening √   decreased LV systolic + di"
+}

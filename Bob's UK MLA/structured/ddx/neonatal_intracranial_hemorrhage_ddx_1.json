@@ -1,0 +1,25 @@
+{
+  "finding": "Neonatal Intracranial Hemorrhage (DDx)",
+  "slug": "neonatal_intracranial_hemorrhage_ddx_1",
+  "chapter": "Neonatal Intracranial Hemorrhage",
+  "source_file": "processed_clusters/neonatal_intracranial_hemorrhage/neonatal_intracranial_hemorrhage_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "subdural hemorrhage",
+      "raw": "subdural hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "cerebral parenchymal hemorrhage [posterior fossa lesion]",
+      "raw": "cerebral parenchymal hemorrhage",
+      "frequency": null,
+      "sites": [
+        "posterior fossa lesion"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "central hypoechogenicity (liquefying hematoma after 10-14 days) | retracted clot settles to dependent position (3-4 weeks) | complete resolution by 8-10 weeks results in anechoic area (= porencephalic cyst) | hyperdense bleed only visible up to 7 days before it becomes isodense"
+}

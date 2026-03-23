@@ -1,0 +1,27 @@
+{
+  "finding": "Myelolipoma (DDx)",
+  "slug": "myelolipoma_ddx_212c6c",
+  "chapter": "Myelolipoma",
+  "source_file": "processed_clusters/myelolipoma/myelolipoma_ddx_212c6c.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "adrenocortical carcinoma with lipomatous metaplasia",
+      "raw": "adrenocortical carcinoma with lipomatous metaplasia",
+      "frequency": null
+    },
+    {
+      "name": "adrenal lipoma",
+      "raw": "adrenal lipoma",
+      "frequency": null
+    },
+    {
+      "name": "adrenal teratoma",
+      "raw": "adrenal teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "nodules hypointense relative to liver on T1WI | hyperintense relative to liver on T2WI | contrast enhancement on T1WI | uptake of 99mTc-sulfur colloid in erythropoietic elements"
+}

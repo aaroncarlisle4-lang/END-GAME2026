@@ -1,0 +1,32 @@
+{
+  "finding": "Neuroblastoma — Skeletal metastases: (DDx)",
+  "slug": "neuroblastoma_skeletal_metastases_ddx",
+  "chapter": "Neuroblastoma",
+  "source_file": "processed_clusters/neuroblastoma/neuroblastoma_skeletal_metastases_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "rhabdomyosarcoma",
+      "raw": "rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "leukemia",
+      "raw": "leukemia",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma @   Intracranial + maxillofacial metastases:",
+      "raw": "lymphoma @   Intracranial + maxillofacial metastases:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "vertical linear radiolucent streaks in metadiaphysis of long bones | pathologic fracture | vertebral collapse | sclerotic lesions ← healing"
+}

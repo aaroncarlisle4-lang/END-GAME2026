@@ -1,0 +1,32 @@
+{
+  "finding": "URETER",
+  "slug": "ureter_ba7549",
+  "chapter": "ANATOMY AND FUNCTION OF UROGENITAL TRACT",
+  "source_file": "processed_clusters/anatomy_and_function_of_urogenital_tract/ureter_ba7549.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Origin:   ureteropelvic junction at intra / extrarenal pelvis",
+      "raw": "Origin:   ureteropelvic junction at intra / extrarenal pelvis",
+      "frequency": null
+    },
+    {
+      "name": "Terminus:   ureterovesical junction",
+      "raw": "Terminus:   ureterovesical junction",
+      "frequency": null
+    },
+    {
+      "name": "Length:   ~ 25 cm",
+      "raw": "Length:   ~ 25 cm",
+      "frequency": null
+    },
+    {
+      "name": "Diameter:   < 3 mm",
+      "raw": "Diameter:   < 3 mm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  retroperitoneal muscular conduit that carries urine from renal pelvis to urinary bladder Histo: (a) inner cell layer of watertight urothelium surrounded by (b) outer layer of smooth muscle → coordinated contraction"
+}

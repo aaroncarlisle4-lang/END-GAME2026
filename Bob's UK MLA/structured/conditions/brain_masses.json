@@ -1,0 +1,26 @@
+{
+  "name": "BRAIN MASSES",
+  "slug": "brain_masses",
+  "chapter": "TRIGEMINAL NEUROPATHY",
+  "source_file": "processed_clusters/disease_entries/trigeminal_neuropathy/brain_masses.md",
+  "definition": "peripherally located cortical neoplasms serving as a seizure focus",
+  "demographics": {
+    "Incidence": "9% of all primary neoplasms (5th most common primary neoplasm); 5-",
+    "Age": "first 2-3 years of life"
+  },
+  "dominant_finding": "nonenhancing tumor extension (common)",
+  "distribution": "",
+  "discriminating_features": [
+    "nonenhancing tumor extension (common)",
+    "increased relative cerebral blood volume (rCBV) in zone of edema on perfusion-",
+    "reduced relative cerebral blood volume (rCBV) in zone of edema on perfusion-"
+  ],
+  "other_features": {
+    "general": [
+      "nonenhancing tumor extension (common)",
+      "increased relative cerebral blood volume (rCBV) in zone of edema on perfusion-",
+      "reduced relative cerebral blood volume (rCBV) in zone of edema on perfusion-"
+    ]
+  },
+  "clinical": {}
+}

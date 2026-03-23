@@ -1,0 +1,22 @@
+{
+  "finding": "Fibrous Nodule Of Breast (DDx)",
+  "slug": "fibrous_nodule_of_breast_ddx",
+  "chapter": "Fibrous Nodule Of Breast",
+  "source_file": "processed_clusters/fibrous_nodule_of_breast/fibrous_nodule_of_breast_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibroadenoma",
+      "raw": "fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "malignancy",
+      "raw": "malignancy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "circumscribed (55%) / indistinct (32%) margin | suggestive of malignancy (11%): irregular shape, spiculated margin, posterior acoustic"
+}

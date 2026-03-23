@@ -1,0 +1,150 @@
+{
+  "finding": "B. Diffuse form = distortion of tissue architecture",
+  "slug": "b_diffuse_form_distortion_of_tissue_architecture",
+  "chapter": "HARD-METAL PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/b_diffuse_form_distortion_of_tissue_architecture.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Well-differentiated lymphocytic",
+      "raw": "Well-differentiated lymphocytic (WDL)",
+      "frequency": null
+    },
+    {
+      "name": "Intermediate-differentiated lymphocytic",
+      "raw": "Intermediate-differentiated lymphocytic (IDL)",
+      "frequency": null
+    },
+    {
+      "name": "Poorly differentiated lymphocytic",
+      "raw": "Poorly differentiated lymphocytic (PDL)",
+      "frequency": null
+    },
+    {
+      "name": "Mixed lymphocytic / histiocytic large cell (histiocytic) (DLCL); undifferentiated Burkitt lymphoma; undifferentiated non-Burkitt lymphoma (pleiomorphic); lymphoblastic (LBL); unclassified",
+      "raw": "Mixed lymphocytic / histiocytic large cell (histiocytic) (DLCL); undifferentiated Burkitt lymphoma; undifferentiated non-Burkitt lymphoma (pleiomorphic); lymphoblastic (LBL); unclassified",
+      "frequency": null
+    },
+    {
+      "name": "Low grade",
+      "raw": "Low grade",
+      "frequency": null
+    },
+    {
+      "name": "Small lymphocytic",
+      "raw": "Small lymphocytic (3.6%)",
+      "frequency": "3.6%"
+    },
+    {
+      "name": "Follicular, small cleaved cell",
+      "raw": "Follicular, small cleaved cell (22.5%)",
+      "frequency": "22.5%"
+    },
+    {
+      "name": "Follicular, mixed",
+      "raw": "Follicular, mixed (7.7%)",
+      "frequency": "7.7%"
+    },
+    {
+      "name": "Intermediate grade",
+      "raw": "Intermediate grade",
+      "frequency": null
+    },
+    {
+      "name": "Follicular, large cell",
+      "raw": "Follicular, large cell (3.8%)",
+      "frequency": "3.8%"
+    },
+    {
+      "name": "Diffuse, small cleaved cell",
+      "raw": "Diffuse, small cleaved cell (6.9%)",
+      "frequency": "6.9%"
+    },
+    {
+      "name": "Diffuse, mixed",
+      "raw": "Diffuse, mixed (6.7%)",
+      "frequency": "6.7%"
+    },
+    {
+      "name": "Diffuse, large cell",
+      "raw": "Diffuse, large cell (19.7%)",
+      "frequency": "19.7%"
+    },
+    {
+      "name": "High grade",
+      "raw": "High grade",
+      "frequency": null
+    },
+    {
+      "name": "Large cell, immunoblastic",
+      "raw": "Large cell, immunoblastic (7.9%)",
+      "frequency": "7.9%"
+    },
+    {
+      "name": "Lymphoblastic",
+      "raw": "Lymphoblastic (4.2%)",
+      "frequency": "4.2%"
+    },
+    {
+      "name": "Small noncleaved cell",
+      "raw": "Small noncleaved cell (5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Miscellaneous (12%) composite, mycosis fungoides, histiocytic, extramedullary plasmacytoma",
+      "raw": "Miscellaneous (12%) composite, mycosis fungoides, histiocytic, extramedullary plasmacytoma",
+      "frequency": "12%"
+    },
+    {
+      "name": "B-cell",
+      "raw": "B-cell",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse large B-cell lymphoma ◊  The largest subtype of NHL Prognosis:   extranodal involvement frequent at presentation, rapid spread to nodes, curable in < 50%",
+      "raw": "Diffuse large B-cell lymphoma ◊  The largest subtype of NHL Prognosis:   extranodal involvement frequent at presentation, rapid spread to nodes, curable in < 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "Mantle cell lymphoma ◊  4-8% of all NHL",
+      "raw": "Mantle cell lymphoma ◊  4-8% of all NHL",
+      "frequency": "8%"
+    },
+    {
+      "name": "Follicular lymphoma",
+      "raw": "Follicular lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Burkitt Lymphoma [Denis Parsons Burkitt (1911-1993), Irish surgeon who served with the Royal Army",
+      "raw": "Burkitt Lymphoma [Denis Parsons Burkitt (1911-1993), Irish surgeon who served with the Royal Army",
+      "frequency": null
+    },
+    {
+      "name": "Mucosa-associated lymphoid tissue (MALT) ◊  Subtype related to chronic inflammation and autoimmune disease",
+      "raw": "Mucosa-associated lymphoid tissue (MALT) ◊  Subtype related to chronic inflammation and autoimmune disease",
+      "frequency": null
+    },
+    {
+      "name": "T-cell",
+      "raw": "T-cell",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoblastic lymphoma [Peripheral T-cell lymphoma]",
+      "raw": "Lymphoblastic lymphoma",
+      "frequency": null,
+      "sites": [
+        "Peripheral T-cell lymphoma"
+      ]
+    },
+    {
+      "name": "Adult T-cell lymphoma-leukemia Geography:   Japan (Kyushu region), Caribbean, Central African Republic, Central &",
+      "raw": "Adult T-cell lymphoma-leukemia Geography:   Japan (Kyushu region), Caribbean, Central African Republic, Central &",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Working Formulation Classification (Kiel / Lennert): =  categorization by grade Luke and Collins Classification: =  categorization by morphologic characteristics of cell + cell of origin (T cell, B cell, non-B, non-T cell) Histologic types: √  extranodal involvement of GI tract + bone marrow Prognosis:   poor FDG PET reliable for staging + follow-up (98% sensitive, 94% specific, 95% PPV, 98% NPV) √  potential for upstaging in a high number of patients with apparent early-stage disease Prognosis:   good response to initial therapy, pattern of repeated relapses, tendency to progress to diffuse l"
+}

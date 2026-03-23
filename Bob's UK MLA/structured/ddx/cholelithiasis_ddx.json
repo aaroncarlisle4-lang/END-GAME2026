@@ -1,0 +1,27 @@
+{
+  "finding": "Cholelithiasis (DDx)",
+  "slug": "cholelithiasis_ddx",
+  "chapter": "Cholelithiasis",
+  "source_file": "processed_clusters/cholelithiasis/cholelithiasis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hemobilia with blood clot",
+      "raw": "hemobilia with blood clot",
+      "frequency": null
+    },
+    {
+      "name": "parasitic infestation",
+      "raw": "parasitic infestation",
+      "frequency": null
+    },
+    {
+      "name": "mucus",
+      "raw": "mucus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "nonshadowing homogeneously echogenic material: | fluid-sludge level | \"sludge ball\" = tumefactive sludge: | slowly shifting with repositioning of patient"
+}

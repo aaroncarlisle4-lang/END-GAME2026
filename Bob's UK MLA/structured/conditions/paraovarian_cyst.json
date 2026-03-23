@@ -1,0 +1,36 @@
+{
+  "name": "PARAOVARIAN CYST",
+  "slug": "paraovarian_cyst",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/paraovarian_cyst.md",
+  "definition": "vestigial remnant of wolffian duct in mesovarium",
+  "demographics": {
+    "Frequency": "10-20% of all adnexal masses",
+    "Mean age": "3rd-4th decade",
+    "Location": "at lateral edge of uterus and vagina extending from broad ligament to vestibule",
+    "Size": "mean diameter of 8 cm → up to 18 cm"
+  },
+  "dominant_finding": "≥ 1 vesicle(s) attached to fringes of tube + filled with clear serous fluid",
+  "distribution": "at lateral edge of uterus and vagina extending from broad ligament to vestibule",
+  "discriminating_features": [
+    "≥ 1 vesicle(s) attached to fringes of tube + filled with clear serous fluid",
+    "thin-walled unilocular cyst separate from ovary WITHOUT change over time",
+    "may indent ovary mimicking exophytic ovarian cyst",
+    "may arise out of pelvis (if pedunculated + mobile)",
+    "± low-level internal echoes ← hemorrhage"
+  ],
+  "other_features": {
+    "general": [
+      "≥ 1 vesicle(s) attached to fringes of tube + filled with clear serous fluid",
+      "thin-walled unilocular cyst separate from ovary WITHOUT change over time",
+      "may indent ovary mimicking exophytic ovarian cyst",
+      "may arise out of pelvis (if pedunculated + mobile)",
+      "± low-level internal echoes ← hemorrhage",
+      "occasionally multiple; rarely bilateral"
+    ]
+  },
+  "clinical": {
+    "N.B.": "separable by pressure exerted by transvaginal transducer",
+    "Cx": "torsion (2-16%), hemorrhage, rupture, infection, neoplastic transformation (3%)"
+  }
+}

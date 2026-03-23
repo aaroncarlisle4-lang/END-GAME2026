@@ -1,0 +1,135 @@
+{
+  "finding": "Renal Tubular Acidosis",
+  "slug": "renal_tubular_acidosis",
+  "chapter": "Dialysis-associated Disorders",
+  "source_file": "processed_clusters/dialysis_associated_disorders/renal_tubular_acidosis.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "systemic acidosis, bone lesions",
+      "raw": "systemic acidosis, bone lesions",
+      "frequency": null
+    },
+    {
+      "name": "NO nephrocalcinosis",
+      "raw": "NO nephrocalcinosis (b)  Butler-Albright syndrome (severe form)",
+      "frequency": null
+    },
+    {
+      "name": "nephrocalcinosis",
+      "raw": "nephrocalcinosis",
+      "frequency": null
+    },
+    {
+      "name": "coli",
+      "raw": "coli",
+      "frequency": null
+    },
+    {
+      "name": "morning stiffness for ≥ 1 hour before improvement",
+      "raw": "morning stiffness for ≥ 1 hour before improvement",
+      "frequency": null
+    },
+    {
+      "name": "swelling of ≥ 3 joints, particularly of wrist / metacarpo-phalangeal / proximal interphalangeal joints for > 6 weeks",
+      "raw": "swelling of ≥ 3 joints, particularly of wrist / metacarpo-phalangeal / proximal interphalangeal joints for > 6 weeks",
+      "frequency": null
+    },
+    {
+      "name": "symmetric swelling",
+      "raw": "symmetric swelling",
+      "frequency": null
+    },
+    {
+      "name": "typical radiographic changes on PA views of hand & wrist",
+      "raw": "typical radiographic changes on PA views of hand & wrist",
+      "frequency": null
+    },
+    {
+      "name": "subcutaneous rheumatoid nodules",
+      "raw": "subcutaneous rheumatoid nodules",
+      "frequency": null
+    },
+    {
+      "name": "positive test for rheumatoid factor",
+      "raw": "positive test for rheumatoid factor",
+      "frequency": null
+    },
+    {
+      "name": "morning stiffness; fatigue, weight loss, anemia [carpal tunnel syndrome]",
+      "raw": "morning stiffness; fatigue, weight loss, anemia",
+      "frequency": null,
+      "sites": [
+        "carpal tunnel syndrome"
+      ]
+    },
+    {
+      "name": "rheumatoid factor (positive in 85-94%) = IgM-antibody =  agglutination of sensitized sheep RBCs closely correlating with disease severity False positive:   normal (5%), asbestos workers with fibrosing alveolitis (25%), viral / bacterial / parasitic infection, other inflammatory diseases",
+      "raw": "rheumatoid factor (positive in 85-94%) = IgM-antibody =  agglutination of sensitized sheep RBCs closely correlating with disease severity False positive:   normal (5%), asbestos workers with fibrosing alveolitis (25%), viral / bacterial / parasitic infection, other inflammatory diseases",
+      "frequency": "94%"
+    },
+    {
+      "name": "human leukocyte antigen",
+      "raw": "human leukocyte antigen (HLA)-DR4 (positive in 70%)",
+      "frequency": "70%"
+    },
+    {
+      "name": "antinuclear antibodies",
+      "raw": "antinuclear antibodies (positive in many)",
+      "frequency": null
+    },
+    {
+      "name": "LE cells (positive in some); positive latex flocculation test",
+      "raw": "LE cells (positive in some); positive latex flocculation test",
+      "frequency": null
+    },
+    {
+      "name": "hormonal influence:",
+      "raw": "hormonal influence:",
+      "frequency": null
+    },
+    {
+      "name": "hoarseness, sense of pharyngeal fullness in throat",
+      "raw": "hoarseness, sense of pharyngeal fullness in throat (26%)",
+      "frequency": "26%"
+    },
+    {
+      "name": "dyspnea, stridor, dysphagia, odynophagia",
+      "raw": "dyspnea, stridor, dysphagia, odynophagia",
+      "frequency": null
+    },
+    {
+      "name": "pain radiating into ears, pain with speech",
+      "raw": "pain radiating into ears, pain with speech",
+      "frequency": null
+    },
+    {
+      "name": "sinus tarsi syndrome = compression of tibial nerve",
+      "raw": "sinus tarsi syndrome = compression of tibial nerve",
+      "frequency": null
+    },
+    {
+      "name": "Acute viral polyarthritis: Parvovirus B19, Rubella, Hepatitis B",
+      "raw": "Acute viral polyarthritis: Parvovirus B19, Rubella, Hepatitis B",
+      "frequency": null
+    },
+    {
+      "name": "Seronegative spondyloarthropathies: psoriasis, reactive arthritis, inflammatory bowel disease, ankylosing spondylitis",
+      "raw": "Seronegative spondyloarthropathies: psoriasis, reactive arthritis, inflammatory bowel disease, ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Connective tissue disease: SLE, primary Sjögren syndrome, mixed connective tissue disease, scleroderma, dermatomyositis-polymyositis",
+      "raw": "Connective tissue disease: SLE, primary Sjögren syndrome, mixed connective tissue disease, scleroderma, dermatomyositis-polymyositis",
+      "frequency": null
+    },
+    {
+      "name": "Crystal disease: gout, CPPD, osteoarthritis",
+      "raw": "Crystal disease: gout, CPPD, osteoarthritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  rickets, osteomalacia, pseudofractures, nephrocalcinosis, osteitis fibrosa (rare) (a)  Lightwood syndrome = salt-losing nephritis (transient self-limited form) RHEUMATOID ARTHRITIS =  chronic systemic connective tissue disease =  type III (delayed) hypersensitivity =  immune complex disease (= formation of antigen-antibody complexes with complement fixation) with T-cell-mediated autoreactivity against synovium Prevalence:   1-2% of world's population Cause:   genetic predisposition; ? reaction to antigen from Epstein-Barr virus / certain strains of Peak age:   45-65 years; M÷F = 1÷3 if < 40"
+}

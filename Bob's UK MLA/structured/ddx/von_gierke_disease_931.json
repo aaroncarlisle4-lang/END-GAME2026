@@ -1,0 +1,43 @@
+{
+  "finding": "Von Gierke disease 931",
+  "slug": "von_gierke_disease_931",
+  "chapter": "S",
+  "source_file": "processed_clusters/s/von_gierke_disease_931.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Lindau disease 408 tumor, retina 408",
+      "raw": "Lindau disease 408 tumor, retina 408",
+      "frequency": null
+    },
+    {
+      "name": "Von Meyenburg complex 956",
+      "raw": "Von Meyenburg complex 956",
+      "frequency": null
+    },
+    {
+      "name": "Von Rosen view 82",
+      "raw": "Von Rosen view 82",
+      "frequency": null
+    },
+    {
+      "name": "Voorhoeve disease 172",
+      "raw": "Voorhoeve disease 172",
+      "frequency": null
+    },
+    {
+      "name": "V/Q",
+      "raw": "V/Q",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Lindau disease 408 tumor, retina 408": [],
+    "Von Meyenburg complex 956": [],
+    "Von Rosen view 82": [],
+    "Voorhoeve disease 172": [],
+    "V/Q": []
+  },
+  "context": "Von Hippel inequality 569 mismatch 657 scan correlation with chest x-ray 659 effect of clinical probability 659 interpretation criteria 659 rationale 657 V sign of Naclerio 1085 Boerhaave syndrome 1056 pneumomediastinum 551"
+}

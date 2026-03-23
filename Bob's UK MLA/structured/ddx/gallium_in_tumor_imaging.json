@@ -1,0 +1,42 @@
+{
+  "finding": "Gallium in Tumor Imaging",
+  "slug": "gallium_in_tumor_imaging",
+  "chapter": "Indications for Non-organ-specific Whole Body Imaging",
+  "source_file": "processed_clusters/indications_for_non_organ_specific_whole_body_imaging/gallium_in_tumor_imaging.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "USEFUL CATEGORY",
+      "raw": "USEFUL CATEGORY",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma a:   Hodgkin disease: 74-88% sensitivity b:   NHL: sensitivity varies ›  histiocytic form: 85-90% sensitivity ›  lymphocytic well-diff.: 55-70% sensitivity 95% sensitivity for mediastinal disease, 80% sensitivity for cervical + superficial lesions; poor sensitivity below diaphragm",
+      "raw": "Lymphoma a:   Hodgkin disease: 74-88% sensitivity b:   NHL: sensitivity varies ›  histiocytic form: 85-90% sensitivity ›  lymphocytic well-diff.: 55-70% sensitivity 95% sensitivity for mediastinal disease, 80% sensitivity for cervical + superficial lesions; poor sensitivity below diaphragm",
+      "frequency": "88%"
+    },
+    {
+      "name": "Burkitt lymphoma: almost 100% sensitivity",
+      "raw": "Burkitt lymphoma: almost 100% sensitivity",
+      "frequency": "100%"
+    },
+    {
+      "name": "Rhabdomyosarcoma: >95% sensitivity",
+      "raw": "Rhabdomyosarcoma: >95% sensitivity",
+      "frequency": "95%"
+    },
+    {
+      "name": "Hepatoma: 85-95% sensitivity",
+      "raw": "Hepatoma: 85-95% sensitivity",
+      "frequency": "95%"
+    },
+    {
+      "name": "Melanoma: 69-79% sensitivity",
+      "raw": "Melanoma: 69-79% sensitivity",
+      "frequency": "79%"
+    }
+  ],
+  "criteria": {},
+  "context": "Particularly useful in evaluating extent of known tumor disease + in detection of tumor recurrence"
+}

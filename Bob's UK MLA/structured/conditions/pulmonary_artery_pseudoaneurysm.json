@@ -1,0 +1,29 @@
+{
+  "name": "PULMONARY ARTERY PSEUDOANEURYSM",
+  "slug": "pulmonary_artery_pseudoaneurysm",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/pulmonary_artery_pseudoaneurysm.md",
+  "definition": "tear / disruption of layers of vessel wall with extravasation of blood contained by adventitia /",
+  "demographics": {
+    "Prevalence": "rare",
+    "Associated with": "patent ductus arteriosus"
+  },
+  "dominant_finding": "enhancing round lung mass isointense to central pulmonary a.",
+  "distribution": "enhancing round lung mass isointense to central pulmonary a.",
+  "discriminating_features": [
+    "enhancing round lung mass isointense to central pulmonary a.",
+    "stable / increasing focal lung mass"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "stable / increasing focal lung mass"
+    ],
+    "CT": [
+      "enhancing round lung mass isointense to central pulmonary a."
+    ]
+  },
+  "clinical": {
+    "Cx": "100% mortality with rupture"
+  }
+}

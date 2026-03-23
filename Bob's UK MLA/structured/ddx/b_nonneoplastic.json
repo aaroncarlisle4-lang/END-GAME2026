@@ -1,0 +1,37 @@
+{
+  "finding": "B. NONNEOPLASTIC",
+  "slug": "b_nonneoplastic",
+  "chapter": "D. PETROUS APEX",
+  "source_file": "processed_clusters/d_petrous_apex/b_nonneoplastic.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Meningitis",
+      "raw": "Meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Postmeningitic / postcraniotomy fibrosis",
+      "raw": "Postmeningitic / postcraniotomy fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Vascular loop of anterior inferior cerebellar artery",
+      "raw": "Vascular loop of anterior inferior cerebellar artery",
+      "frequency": null
+    },
+    {
+      "name": "Syphilis",
+      "raw": "Syphilis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

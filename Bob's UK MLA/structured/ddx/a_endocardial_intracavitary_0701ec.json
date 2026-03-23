@@ -1,0 +1,27 @@
+{
+  "finding": "A. ENDOCARDIAL / INTRACAVITARY",
+  "slug": "a_endocardial_intracavitary_0701ec",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/a_endocardial_intracavitary_0701ec.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myxoma",
+      "raw": "Myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Thrombus",
+      "raw": "Thrombus",
+      "frequency": null
+    },
+    {
+      "name": "Myofibroblastic sarcomas",
+      "raw": "Myofibroblastic sarcomas (MFH, leiomyo- sarcoma, fibrosarcoma, myxosarcoma)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,36 @@
+{
+  "finding": "Langerhans Cell Histiocytosis — Bone — Vertebral body (DDx)",
+  "slug": "langerhans_cell_histiocytosis_bone_vertebral_body_ddx_9bca84",
+  "chapter": "Langerhans Cell Histiocytosis",
+  "source_file": "processed_clusters/langerhans_cell_histiocytosis/langerhans_cell_histiocytosis_bone_vertebral_body_ddx_9bca84.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "leukemia",
+      "raw": "leukemia",
+      "frequency": null
+    },
+    {
+      "name": "metastatic neuroblastoma",
+      "raw": "metastatic neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "aneurysmal bone cyst",
+      "raw": "aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma ›  Long bone: most commonly femur [humerus] [tibia]",
+      "raw": "Ewing sarcoma ›  Long bone: most commonly femur",
+      "frequency": null,
+      "sites": [
+        "humerus",
+        "tibia"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "soft-tissue component : T1-isointense + T2-hyperintense + enhancement; isoechoic | \"floating teeth\" = destruction of alveolar ridge | lytic lesion in early disease | vertebra plana = symmetric uniform vertebral collapse + preservation of intervertebral"
+}

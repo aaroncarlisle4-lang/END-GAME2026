@@ -1,0 +1,72 @@
+{
+  "finding": "A. Benign",
+  "slug": "a_benign_4_8c8f6a",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/a_benign_4_8c8f6a.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiolipoma",
+      "raw": "Angiolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Seroma",
+      "raw": "Seroma",
+      "frequency": null
+    },
+    {
+      "name": "Fat necrosis",
+      "raw": "Fat necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Silicone granuloma",
+      "raw": "Silicone granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Sebaceous / epidermal inclusion cyst",
+      "raw": "Sebaceous / epidermal inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "PASH",
+      "raw": "PASH",
+      "frequency": null
+    },
+    {
+      "name": "Galactocele / lactating adenoma",
+      "raw": "Galactocele / lactating adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Ductal ectasia",
+      "raw": "Ductal ectasia",
+      "frequency": null
+    },
+    {
+      "name": "Apocrine metaplasia An echogenic mass that correlates with a well-delineated radiolucent mass at mammo is benign!",
+      "raw": "Apocrine metaplasia An echogenic mass that correlates with a well-delineated radiolucent mass at mammo is benign!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

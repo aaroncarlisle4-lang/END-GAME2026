@@ -1,0 +1,47 @@
+{
+  "finding": "E. Marfan disease",
+  "slug": "e_marfan_disease_a58307",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/e_marfan_disease_a58307.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Juvenile rheumatoid arthritis",
+      "raw": "Juvenile rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Psoriatic arthritis",
+      "raw": "Psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Lupus erythematosus",
+      "raw": "Lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "Accident",
+      "raw": "Accident (trauma)",
+      "frequency": null
+    },
+    {
+      "name": "Retropharyngeal abscess, Rheumatoid arthritis",
+      "raw": "Retropharyngeal abscess, Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Down syndrome",
+      "raw": "Down syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Pseudosubluxation of Cervical Spine =  ligamentous laxity in infants allows for movement of the vertebral bodies on each other, esp. C2 on C3"
+}

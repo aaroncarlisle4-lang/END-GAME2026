@@ -1,0 +1,52 @@
+{
+  "name": "PSORIATIC ARTHRITIS",
+  "slug": "psoriatic_arthritis",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/psoriatic_arthritis.md",
+  "definition": "uncommon autoimmune disease involving synovium + ligamentous attachments (=",
+  "demographics": {
+    "Frequency": "20% of patients with psoriasis (peripheral arthritis in 5%, sacroiliitis in 29%,",
+    "Path": "synovial inflammation (less prominent than in rheumatoid arthritis) with early fibrosis of",
+    "Location": "lower cervical, thoracic, upper lumbar spine; asymmetric / unilateral"
+  },
+  "dominant_finding": "marginal erosions in joints",
+  "distribution": "lower cervical, thoracic, upper lumbar spine; asymmetric / unilateral",
+  "discriminating_features": [
+    "CLASSIC \"sausage digit\" (40%) = nodular / irregular soft-tissue swelling of tendon sheath of entire",
+    "NO / minimal juxtaarticular osteoporosis (early stage); frequent osteoporosis (later stages)",
+    "marginal erosions in joints",
+    "periarticular new bone formation (frequent)",
+    "intraarticular osseous excrescences"
+  ],
+  "other_features": {
+    "general": [
+      "NO / minimal juxtaarticular osteoporosis (early stage); frequent osteoporosis (later stages)",
+      "marginal erosions in joints",
+      "periarticular new bone formation (frequent)",
+      "intraarticular osseous excrescences",
+      "enthesitis (especially of calcaneus)"
+    ],
+    "Hand + foot": [
+      "CLASSIC \"sausage digit\" (40%) = nodular / irregular soft-tissue swelling of tendon sheath of entire",
+      "increased tenosynovial fluid",
+      "solid hyperemic nodules at color Doppler",
+      "destruction of interphalangeal joint of 1st toe with exuberant periosteal reaction + bony",
+      "destruction of distal interphalangeal joints (erosive polyarthritis) + osseous resorption",
+      "\"pencil-in-cup\" deformity = erosions with ill-defined margins + adjacent proliferation of",
+      "bony ankylosis (10%)",
+      "ivory phalanx = sclerosis of terminal phalanx (28%)",
+      "poorly defined diffuse new bone formation at attachment of Achilles tendon + plantar",
+      "erosions at superior / posterior margin of calcaneus (20%)",
+      "acroosteolysis (occasionally)"
+    ],
+    "Axial skeleton": [
+      "\"floating\" osteophyte = large bulky vertically oriented paravertebral soft-tissue",
+      "ill-defined excrescence sweeping across the diskovertebral junction from midportion",
+      "squaring of vertebrae in lumbar region",
+      "sacroiliitis (40%) = (most commonly) bilateral + asymmetric sacroiliac joint widening,",
+      "apophyseal joint narrowing + sclerosis",
+      "atlantoaxial subluxation + odontoid abnormalities"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Cause: partial / complete obliteration of efferent ductules",
+  "slug": "cause_partial_complete_obliteration_of_efferent_ductules_0cd7e2",
+  "chapter": "Cause: obstruction + dilatation of efferent ductal system",
+  "source_file": "processed_clusters/cause_obstruction_dilatation_of_efferent_ductal_system/cause_partial_complete_obliteration_of_efferent_ductules_0cd7e2.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "nonpalpable",
+      "raw": "nonpalpable",
+      "frequency": null
+    },
+    {
+      "name": "Intratesticular spermatocele =  cyst containing mature spermatozoa",
+      "raw": "Intratesticular spermatocele =  cyst containing mature spermatozoa",
+      "frequency": null
+    },
+    {
+      "name": "Intratesticular varicocele",
+      "raw": "Intratesticular varicocele",
+      "frequency": null
+    },
+    {
+      "name": "± pain ← related to passive congestion",
+      "raw": "± pain ← related to passive congestion",
+      "frequency": null
+    },
+    {
+      "name": "Intratesticular abscess",
+      "raw": "Intratesticular abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Age:   > 55 years Often associated with:   spermatocele Location:   mediastinum testis, frequently asymmetrically bilateral √  elliptical hypoechoic branching tubular structures ± cysts √  ± epididymal cysts / spermatoceles MR: √  hypointense on T1WI √  iso- to hyperintense on T2WI DDx:   teratoma Location:   attached to mediastinum testis √  multiple anechoic serpiginous tubules √  characteristic venous flow pattern increasing with Valsalva on Doppler Infrequently associated with: extratesticular varicocele"
+}

@@ -1,0 +1,72 @@
+{
+  "finding": "Crazy-paving Pattern",
+  "slug": "crazy_paving_pattern",
+  "chapter": "Ground-glass Opacities & Interlobular Septal Lines",
+  "source_file": "processed_clusters/ground_glass_opacities_interlobular_septal_lines/crazy_paving_pattern.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pulmonary alveolar proteinosis",
+      "raw": "Pulmonary alveolar proteinosis",
+      "frequency": null
+    },
+    {
+      "name": "Pneumocystis carinii pneumonia",
+      "raw": "Pneumocystis carinii pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous bronchioloalveolar cell carcinoma",
+      "raw": "Mucinous bronchioloalveolar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Nonspecific interstitial pneumonia",
+      "raw": "Nonspecific interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Organizing pneumonia",
+      "raw": "Organizing pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Exogenous lipoid pneumonia",
+      "raw": "Exogenous lipoid pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "ARDS",
+      "raw": "ARDS",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary hemorrhage syndromes",
+      "raw": "Pulmonary hemorrhage syndromes",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial pneumonia",
+      "raw": "Bacterial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Acute eosinophilic pneumonia",
+      "raw": "Acute eosinophilic pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Cardiogenic edema",
+      "raw": "Cardiogenic edema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  smooth thickening of interlobular septa + intralobular lines superimposed on a background of patchy ground-glass opacities in a geographic distribution"
+}

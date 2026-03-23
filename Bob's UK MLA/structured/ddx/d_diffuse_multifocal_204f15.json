@@ -1,0 +1,37 @@
+{
+  "finding": "D. DIFFUSE / MULTIFOCAL",
+  "slug": "d_diffuse_multifocal_204f15",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/d_diffuse_multifocal_204f15.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hematopoietic hyperplasia (a)  chronic anemia: sickle cell disease, thalassemia, hereditary spherocytosis (b)  chronic illness: HIV (c)  heavy smoking (d)  obesity (e)  drugs: granulocyte-colony-stimulating factor, erythropoietin",
+      "raw": "Hematopoietic hyperplasia (a)  chronic anemia: sickle cell disease, thalassemia, hereditary spherocytosis (b)  chronic illness: HIV (c)  heavy smoking (d)  obesity (e)  drugs: granulocyte-colony-stimulating factor, erythropoietin",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Renal osteodystrophy",
+      "raw": "Renal osteodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Systemic inflammation: sarcoidosis, gout, spondyloarthropathy",
+      "raw": "Systemic inflammation: sarcoidosis, gout, spondyloarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Hematologic malignancy: myelofibrosis. mastocytosis",
+      "raw": "Hematologic malignancy: myelofibrosis. mastocytosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  avid enhancement"
+}

@@ -1,0 +1,80 @@
+{
+  "finding": "Thoracic Inlet Lesion",
+  "slug": "thoracic_inlet_lesion",
+  "chapter": "MEDIASTINUM",
+  "source_file": "processed_clusters/mediastinum/thoracic_inlet_lesion.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thyroid mass 1-3% of all thyroidectomies have a mediastinal component; ⅓ of goiters are intrathoracic",
+      "raw": "Thyroid mass 1-3% of all thyroidectomies have a mediastinal component; ⅓ of goiters are intrathoracic",
+      "frequency": "3%"
+    },
+    {
+      "name": "Cystic hygroma 3-10% involve mediastinum; childhood",
+      "raw": "Cystic hygroma 3-10% involve mediastinum; childhood",
+      "frequency": "10%"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Other tumors: adenoma, carcinoma, ectopic thymoma",
+      "raw": "Other tumors: adenoma, carcinoma, ectopic thymoma",
+      "frequency": null
+    },
+    {
+      "name": "Aberrant right subclavian artery",
+      "raw": "Aberrant right subclavian artery",
+      "frequency": null
+    },
+    {
+      "name": "Aberrant left subclavian a. with right aortic arch",
+      "raw": "Aberrant left subclavian a. with right aortic arch",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm [Posterior descending goiter]",
+      "raw": "Aneurysm",
+      "frequency": null,
+      "sites": [
+        "Posterior descending goiter"
+      ]
+    },
+    {
+      "name": "Enlarged lymph node",
+      "raw": "Enlarged lymph node",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal mass / duplication cyst",
+      "raw": "Esophageal mass / duplication cyst",
+      "frequency": null
+    },
+    {
+      "name": "Thymoma",
+      "raw": "Thymoma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid tumor / goiter",
+      "raw": "Thyroid tumor / goiter",
+      "frequency": null
+    },
+    {
+      "name": "Terrible lymphoma",
+      "raw": "Terrible lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   anterior (80%) / posterior (20%) mediastinum √  displacement of trachea posteriorly and laterally ← anterior goiter √  displacement of trachea anteriorly and laterally + esophagus posteriorly ← posterior goiter √  inhomogeneous density ← cystic spaces + high-density iodine contents of > 100 HU √  focal calcifications (common) √  marked + prolonged contrast enhancement √  connection to thyroid gland √  vascular displacement + compression NUC (rarely helpful as thyroid tissue may be nonfunctioning): √  ± uptake on 123I / 131I scan (pertechnetate is sufficient with modern gamma camera"
+}

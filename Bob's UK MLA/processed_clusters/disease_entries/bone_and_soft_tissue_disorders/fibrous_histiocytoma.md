@@ -1,0 +1,83 @@
+# Disease: FIBROUS HISTIOCYTOMA
+
+**Source section:** BONE AND SOFT-TISSUE DISORDERS
+
+## Definition
+
+MFH = UNDIFFERENTIATED PLEOMORPHIC SARCOMA MALIGNANT FIBROUS XANTHOMA XANTHOSARCOMA = MALIGNANT HISTIOCYTOMA FIBROSARCOMA VARIANT
+
+## Key Facts
+
+- **Frequency:** 0.1% of all bone tumors
+- **Histo:** interlacing bundles of fibrous tissue in storiform pattern (whorled / woven)
+- **Age:** 23-60 years
+- **Location:** long bone, pelvis, vertebra (rare)
+- **Mean age:** 50 (range, 10-90) years; peak prevalence in 5th decade; more frequent in
+- **Size:** usually 5-10 cm → increasing over months / years
+- **Prevalence:** 5% of all primary malignant bone tumors
+
+## Imaging Findings
+
+### General
+
+- well-defined radiolucent lesion with septa / soap-bubble appearance / no definable matrix
+- may have reactive sclerotic rim
+- narrow transition zone (= nonaggressive lesion)
+- no periosteal reaction
+- lytic defect with irregular edges
+- poorly defined curvilinear / punctate peripheral calcifications / ossifications (in 5-20%)
+- commonly cortical erosion of adjacent bone (HIGHLY SUGGESTIVE FEATURE)
+
+### CT
+
+- well-defined large lobulated soft-tissue mass with attenuation similar to that of
+- central hypodense area = myxoid MFH (DDx: hemorrhage, necrosis, leiomyosarcoma
+- enhancement of solid components
+- invasion of adjacent organs
+- mass of muscle density with hypodense areas (necrosis)
+- invasion of abdominal musculature, but not IVC / renal veins (DDx to renal cell
+
+### MR
+
+- inhomogeneous poorly defined lesion:
+- low to intermediate SI similar to muscle on T1WI
+- heterogeneously intermediate to high SI on T2WI
+- contrast enhancement more pronounced in periphery than at center ← central location
+- myxoid tumor component similar to fluid
+- nodular + peripheral enhancement of nonmyxomatous cellular region
+- radiolucent defect with ill-defined margins
+- extensive mineralization / small areas of focal metaplastic calcification
+- permeation + cortical destruction
+- expansion in smaller bones (ribs, sternum, fibula, clavicle)
+- occasionally lamellated periosteal reaction (especially in presence of pathologic
+- soft-tissue extension
+- solitary pulmonary nodule without calcification
+- diffuse infiltrate
+
+### NUC
+
+- increased uptake of 99mTc-MDP (mechanism not understood)
+- increased uptake of 67Ga-citrate
+
+### US
+
+- well-defined mass with hyperechoic + hypoechoic (necrotic) areas
+
+### ANGIO
+
+- hypervascularity + early venous return
+
+## Clinical
+
+- **Rx:** curettage
+- **Prognosis:** may metastasize
+- **Cx:** pathologic fracture (30-50%)
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

@@ -1,0 +1,106 @@
+# Disease: DEGENERATIVE DISK DISEASE
+
+**Source section:** SKULL AND SPINE DISORDERS
+
+## Definition
+
+linear signal alterations paralleling adjacent endplates concentric smooth expansion of softened disk material beyond the confines of endplates HNP = protrusion of disk material > 3 mm beyond margins of adjacent vertebral endplates prominent focal extension of disk material through the annulus with only an isthmus of FREE FRAGMENT HERNIATION complete separation of disk material from parent disk with rupture through posterior separated disk material travels above / below intervertebral disk space
+
+## Key Facts
+
+- **Age:** common finding in individuals > 40 years of age
+- **Location:** L4-5, L5-S1, C5-6, C6-7
+- **Peak age:** 3rd-4th decade
+- **Prevalence:** 1% of all disk herniations
+
+## Imaging Findings
+
+### General
+
+- intervertebral osteochondrosis = disease of nucleus pulposus (= desiccation = loss of
+- narrowing of disk space
+- vacuum disk phenomenon
+- disk calcification
+- bone sclerosis of adjacent vertebral bodies
+- spondylosis deformans = degeneration of the outer fibers of the annulus fibrosus:
+- endplate osteophytosis growing initially horizontally and then vertically several
+- enlargement of uncinate processes
+- osteoarthritis = degenerative disease of synovium-lined apophyseal / costovertebral
+- degenerative spondylolisthesis
+- cartilaginous node = intraosseous disk herniation
+- delineation of thecal sac, spinal cord, exiting nerve roots
+- facet joint disease (marginal sclerosis, joint narrowing, cyst formation, bony overgrowth)
+- uncovertebral joint disease of cervical spine (osteophytes project into lateral spinal canal
+
+### MR
+
+- scalloping of cord (T2WI FSE / GRE images):
+- anterior encroachment by disk / spondylosis
+- posterior encroachment by ligamentum flavum hypertrophy
+- loss of disk signal ← desiccation ←decrease in water-binding proteoglycans + increase in
+- annular tear:
+- gap near middle of annulus
+- cleft of high SI in a normally hypointense outer annulus on T2WI
+- contrast enhancement ← granulation tissue / hyperemia / inflammation
+- reduction in disk height (late):
+- Schmorl's node
+- moderate linear uniform enhancement on T1WI
+- vacuum phenomenon with low signal on T1WI
+- endplate + marrow changes (Modic & DeRoos):
+- hypointense on T1WI + hyperintense on T2WI
+- contrast-enhancement of marrow
+- hyperintense marrow signal on T1WI
+- iso- to mildly hyperintense on T2WI
+- hypointense on STIR
+- hypointense marrow signal on T1WI + T2WI
+- juxtaarticular synovial cyst in posterolateral spinal canal (most frequently at L4-5):
+- smooth well-defined extradural mass adjacent to facet joint
+- variable signal pattern ← serous, mucinous, gelatinous fluid components, air, hemorrhage
+- contrast-enhancing hypointense perimeter ← fibrous capsule with calcium + hemosiderin
+- nucleus pulposus hypointense on T1WI + hyperintense on T2WI ← desiccation (= water
+- sharply angular indentation on lateral aspect of thecal sac with extension above / below
+- asymmetry of posterior disk margin
+- double contour ← superimposed normal + abnormal side (horizontal beam lateral view)
+- narrowing of intervertebral disk space (most commonly a sign of disk degeneration)
+- deviation of nerve root / root sleeve
+- enlargement of nerve root ("trumpet" sign) ← edema
+- amputated / truncated nerve root (= nonfilling of root sleeve)
+- herniated disk material of low SI displaces the posterior longitudinal ligament and
+- "squeezed toothpaste" effect = hourglass appearance of herniated disk at posterior disk
+- asymmetry of posterior disk margin on axial image
+- triangular shape of herniation with a base wider than the radius of its depth
+- 25-50% of disk circumference
+- triangular shape of herniation with a base wider than the radius of its depth
+- < 25% of disk circumference
+- mushroom-shaped herniation with base narrower than the radius of its depth
+- "toothpaste" sign
+- migration superiorly / inferiorly away from disk space with compression of nerve root
+- disk material > 9 mm away from intervertebral disk space = NO continuity
+- soft-tissue density with higher value than thecal sac
+- ± continuity
+- calcification of disk fragments + parent disk (frequent)
+
+### NUC
+
+- eccentrically placed increased uptake on either side of an intervertebral space
+- dynamic slip > 3 mm on flexion-extension
+- static slip > 4.5 mm
+- traction spurs
+- vacuum phenomenon
+- rounded symmetric defect localized to disk space level
+- smooth concave indentation of anterior thecal sac
+- encroachment on inferior portion of neuroforamen
+- accentuated by upright myelography
+
+## Clinical
+
+- **Cx:** (1)   spinal stenosis mild = < ⅓
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

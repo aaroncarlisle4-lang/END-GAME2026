@@ -1,0 +1,82 @@
+{
+  "finding": "Separation of Bowel Loops",
+  "slug": "separation_of_bowel_loops",
+  "chapter": "C. INFLAMMATION",
+  "source_file": "processed_clusters/c_inflammation/separation_of_bowel_loops.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INFILTRATION OF BOWEL WALL / MESENTERY (a)  inflammation / infection",
+      "raw": "INFILTRATION OF BOWEL WALL / MESENTERY (a)  inflammation / infection",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "TB",
+      "raw": "TB",
+      "frequency": null
+    },
+    {
+      "name": "Radiation injury",
+      "raw": "Radiation injury",
+      "frequency": null
+    },
+    {
+      "name": "Retractile mesenteritis",
+      "raw": "Retractile mesenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Intraperitoneal abscess (b)  deposits",
+      "raw": "Intraperitoneal abscess (b)  deposits",
+      "frequency": null
+    },
+    {
+      "name": "Intestinal hemorrhage / mesenteric vascular occlusion",
+      "raw": "Intestinal hemorrhage / mesenteric vascular occlusion",
+      "frequency": null
+    },
+    {
+      "name": "Whipple disease",
+      "raw": "Whipple disease",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis (c)  tumor",
+      "raw": "Amyloidosis (c)  tumor",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor: local release of serotonin responsible for muscular thickening + fibroplastic proliferation = desmoplastic reaction",
+      "raw": "Carcinoid tumor: local release of serotonin responsible for muscular thickening + fibroplastic proliferation = desmoplastic reaction",
+      "frequency": null
+    },
+    {
+      "name": "Primary carcinoma of small bowel",
+      "raw": "Primary carcinoma of small bowel (unusual presentation)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "ASCITES / INTRAPERITONEAL BLEEDING hepatic cirrhosis (75%), peritonitis, peritoneal carcinomatosis, congestive heart failure, constrictive pericarditis, primary / metastatic lymphatic disease",
+      "raw": "ASCITES / INTRAPERITONEAL BLEEDING hepatic cirrhosis (75%), peritonitis, peritoneal carcinomatosis, congestive heart failure, constrictive pericarditis, primary / metastatic lymphatic disease",
+      "frequency": "75%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

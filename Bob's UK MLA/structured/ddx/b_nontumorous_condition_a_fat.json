@@ -1,0 +1,42 @@
+{
+  "finding": "B. NONTUMOROUS CONDITION (a) fat",
+  "slug": "b_nontumorous_condition_a_fat",
+  "chapter": "C. INFILTRATION",
+  "source_file": "processed_clusters/c_infiltration/b_nontumorous_condition_a_fat.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sinus lipomatosis (b)  fluid",
+      "raw": "Sinus lipomatosis (b)  fluid",
+      "frequency": null
+    },
+    {
+      "name": "Renal sinus cyst",
+      "raw": "Renal sinus cyst",
+      "frequency": null
+    },
+    {
+      "name": "Urinoma (c)  vessels",
+      "raw": "Urinoma (c)  vessels",
+      "frequency": null
+    },
+    {
+      "name": "Renal artery aneurysm",
+      "raw": "Renal artery aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous communication",
+      "raw": "Arteriovenous communication",
+      "frequency": null
+    },
+    {
+      "name": "Renal varix",
+      "raw": "Renal varix",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  annular calcifications in > 50% DDx:   renal calculus"
+}

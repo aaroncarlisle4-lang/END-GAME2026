@@ -1,0 +1,77 @@
+{
+  "finding": "Advantage: more precise anatomic localization of ectopic mediastinal",
+  "slug": "advantage_more_precise_anatomic_localization_of_ectopic_mediastinal_e9f383",
+  "chapter": "B. 99mTc DTPA",
+  "source_file": "processed_clusters/b_99mtc_dtpa/advantage_more_precise_anatomic_localization_of_ectopic_mediastinal_e9f383.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Solitary thyroid adenoma",
+      "raw": "Solitary thyroid adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Nodule in multinodular goiter",
+      "raw": "Nodule in multinodular goiter",
+      "frequency": null
+    },
+    {
+      "name": "Tumor: breast, lung, head & neck carcinoma, bronchial carcinoid",
+      "raw": "Tumor: breast, lung, head & neck carcinoma, bronchial carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis to lymph node and bone",
+      "raw": "Metastasis to lymph node and bone",
+      "frequency": null
+    },
+    {
+      "name": "Differentiated thyroid malignancy",
+      "raw": "Differentiated thyroid malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Primary thyroid lymphoma",
+      "raw": "Primary thyroid lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymph node metastasis from papillary thyroid ca.",
+      "raw": "Lymph node metastasis from papillary thyroid ca.",
+      "frequency": null
+    },
+    {
+      "name": "Reactive lymph node",
+      "raw": "Reactive lymph node",
+      "frequency": null
+    },
+    {
+      "name": "Remnant thymus",
+      "raw": "Remnant thymus",
+      "frequency": null
+    },
+    {
+      "name": "PTH-secreting paraganglioma",
+      "raw": "PTH-secreting paraganglioma",
+      "frequency": null
+    },
+    {
+      "name": "Enlarged submandibular gland",
+      "raw": "Enlarged submandibular gland",
+      "frequency": null
+    },
+    {
+      "name": "Double parathyroid adenomas",
+      "raw": "Double parathyroid adenomas",
+      "frequency": null
+    },
+    {
+      "name": "Four-gland hyperplasia ◊  Small gland less likely detected than large gland!",
+      "raw": "Four-gland hyperplasia ◊  Small gland less likely detected than large gland!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "parathyroid adenomas False positive scintigraphic findings: Delayed wash-out in neck region: False negative scintigraphic findings:"
+}

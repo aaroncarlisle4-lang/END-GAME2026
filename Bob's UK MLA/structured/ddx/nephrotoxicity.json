@@ -1,0 +1,82 @@
+{
+  "finding": "NEPHROTOXICITY",
+  "slug": "nephrotoxicity",
+  "chapter": "CONTROL OF HEART RATE",
+  "source_file": "processed_clusters/control_of_heart_rate/nephrotoxicity.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "IODINATED CONTRAST AGENTS",
+      "raw": "IODINATED CONTRAST AGENTS",
+      "frequency": null
+    },
+    {
+      "name": "Age > 60 years",
+      "raw": "Age > 60 years",
+      "frequency": null
+    },
+    {
+      "name": "History of kidney disease as an adult, including tumor / transplant",
+      "raw": "History of kidney disease as an adult, including tumor / transplant",
+      "frequency": null
+    },
+    {
+      "name": "Family history of kidney failure",
+      "raw": "Family history of kidney failure",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes treated with insulin / other prescribed meds",
+      "raw": "Diabetes treated with insulin / other prescribed meds",
+      "frequency": null
+    },
+    {
+      "name": "Hypertension",
+      "raw": "Hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Paraproteinemia syndromes / diseases",
+      "raw": "Paraproteinemia syndromes / diseases (eg, myeloma)",
+      "frequency": null
+    },
+    {
+      "name": "Current use of nephrotoxic medications (eg, chemotherapeutic agents, chronic use of",
+      "raw": "Current use of nephrotoxic medications (eg, chemotherapeutic agents, chronic use of",
+      "frequency": null
+    },
+    {
+      "name": "GADOLINIUM-BASED CONTRAST AGENTS",
+      "raw": "GADOLINIUM-BASED CONTRAST AGENTS",
+      "frequency": null
+    },
+    {
+      "name": "Age > 60 years",
+      "raw": "Age > 60 years",
+      "frequency": null
+    },
+    {
+      "name": "History of kidney disease as an adult, including tumor / transplant",
+      "raw": "History of kidney disease as an adult, including tumor / transplant",
+      "frequency": null
+    },
+    {
+      "name": "Single kidney / kidney surgery",
+      "raw": "Single kidney / kidney surgery",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes treated with insulin / other prescribed meds",
+      "raw": "Diabetes treated with insulin / other prescribed meds",
+      "frequency": null
+    },
+    {
+      "name": "Hypertension requiring medical therapy",
+      "raw": "Hypertension requiring medical therapy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  CONTRAST-INDUCED NEPHROTOXICITY (CIN) =  sudden deterioration of renal function after recent IV administration of contrast media in the absence of another nephrotoxic event Indications for Obtaining Creatinine Levels NSAIDs)"
+}

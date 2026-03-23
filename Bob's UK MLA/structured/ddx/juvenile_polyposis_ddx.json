@@ -1,0 +1,22 @@
+{
+  "finding": "Juvenile Polyposis (DDx)",
+  "slug": "juvenile_polyposis_ddx",
+  "chapter": "Juvenile Polyposis",
+  "source_file": "processed_clusters/juvenile_polyposis/juvenile_polyposis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "familial adenomatous polyposis",
+      "raw": "familial adenomatous polyposis",
+      "frequency": null
+    },
+    {
+      "name": "Peutz-Jeghers syndrome",
+      "raw": "Peutz-Jeghers syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intussusception"
+}

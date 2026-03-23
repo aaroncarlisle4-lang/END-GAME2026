@@ -1,0 +1,27 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_15_77aa52",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/b_malignant_15_77aa52.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Desmoid tumor",
+      "raw": "Desmoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

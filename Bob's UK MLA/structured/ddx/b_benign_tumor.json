@@ -1,0 +1,47 @@
+{
+  "finding": "B. BENIGN TUMOR",
+  "slug": "b_benign_tumor",
+  "chapter": "Gallbladder Wall Thickening",
+  "source_file": "processed_clusters/gallbladder_wall_thickening/b_benign_tumor.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenoma: glandular elements",
+      "raw": "Adenoma: glandular elements (0.2%)",
+      "frequency": "0.2%"
+    },
+    {
+      "name": "Papilloma: fingerlike projections",
+      "raw": "Papilloma: fingerlike projections (0.2%)",
+      "frequency": "0.2%"
+    },
+    {
+      "name": "Villous hyperplasia",
+      "raw": "Villous hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Fibroadenoma",
+      "raw": "Fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystadenoma: ? premalignant",
+      "raw": "Cystadenoma: ? premalignant",
+      "frequency": null
+    },
+    {
+      "name": "Neurinoma, hemangioma",
+      "raw": "Neurinoma, hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

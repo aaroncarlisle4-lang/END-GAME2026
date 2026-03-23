@@ -1,0 +1,22 @@
+{
+  "finding": "Maxilla And Mandible (DDx)",
+  "slug": "maxilla_and_mandible_ddx_1_22241a",
+  "chapter": "Maxilla And Mandible",
+  "source_file": "processed_clusters/maxilla_and_mandible/maxilla_and_mandible_ddx_1_22241a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "periapical granuloma",
+      "raw": "periapical granuloma",
+      "frequency": null
+    },
+    {
+      "name": "periapical abscess",
+      "raw": "periapical abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "round / pear-shaped unilocular well-defined periapical lucent lesion, usually < 1 cm in | bordered by thin sclerotic rim of cortical bone | ± displacement of adjacent teeth | ± mild root resorption"
+}

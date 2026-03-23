@@ -1,0 +1,27 @@
+{
+  "finding": "Bacterial Endocarditis — Parenchymal Neurobehçet (DDx)",
+  "slug": "bacterial_endocarditis_parenchymal_neurobehcet_ddx",
+  "chapter": "Bacterial Endocarditis",
+  "source_file": "processed_clusters/bacterial_endocarditis/bacterial_endocarditis_parenchymal_neurobehcet_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "multiple sclerosis",
+      "raw": "multiple sclerosis (smaller + less extensive lesions)",
+      "frequency": null
+    },
+    {
+      "name": "brainstem infarction",
+      "raw": "brainstem infarction",
+      "frequency": null
+    },
+    {
+      "name": "dilated perivenular spaces",
+      "raw": "dilated perivenular spaces",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multiple discrete punched-out ulcers throughout colon mimicking Crohn disease | isolated / confluent irregular T2 hyperintense foci of circular / linear / crescent shape"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Concentric Left Ventricular Hypertrophy",
+  "slug": "concentric_left_ventricular_hypertrophy_fd430f",
+  "chapter": "Bronchial Situs",
+  "source_file": "processed_clusters/bronchial_situs/concentric_left_ventricular_hypertrophy_fd430f.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Symmetric hypertrophic cardiomyopathy",
+      "raw": "Symmetric hypertrophic cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac sarcoidosis",
+      "raw": "Cardiac sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Athlete's heart",
+      "raw": "Athlete's heart",
+      "frequency": null
+    },
+    {
+      "name": "Fabry disease =  rare X-linked autosomal recessive metabolic storage disorder caused by lysosomal a- galactosidase",
+      "raw": "Fabry disease =  rare X-linked autosomal recessive metabolic storage disorder caused by lysosomal a- galactosidase",
+      "frequency": "rare"
+    },
+    {
+      "name": "Adaptive LV hypertrophy: hypertension, aortic stenosis",
+      "raw": "Adaptive LV hypertrophy: hypertension, aortic stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  ↑ LV mass, ↑ LV diastolic cavity dimension, ↑ LV wall thickness √  lack of areas of delayed myocardial hyperenhancement Dx (80% sensitive, 99% specific): LV Thicknessdiastole ÷ Volumeend-diastole (corrected to body surface area) < 0.15 mm/m2/mL √  concentric thickening of LV wall √  delayed hyperenhancement of LV midwall on CEMR"
+}

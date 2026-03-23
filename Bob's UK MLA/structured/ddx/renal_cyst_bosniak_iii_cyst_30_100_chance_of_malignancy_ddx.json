@@ -1,0 +1,37 @@
+{
+  "finding": "Renal Cyst — Bosniak III cyst (30-100% chance of malignancy) (DDx)",
+  "slug": "renal_cyst_bosniak_iii_cyst_30_100_chance_of_malignancy_ddx",
+  "chapter": "Renal Cyst",
+  "source_file": "processed_clusters/renal_cyst/renal_cyst_bosniak_iii_cyst_30_100_chance_of_malignancy_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "RCC",
+      "raw": "RCC",
+      "frequency": null
+    },
+    {
+      "name": "cystic nephroma",
+      "raw": "cystic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "mixed epithelial and stromal tumor",
+      "raw": "mixed epithelial and stromal tumor (MEST)",
+      "frequency": null
+    },
+    {
+      "name": "benign",
+      "raw": "benign",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "RCC": [],
+    "cystic nephroma": [],
+    "mixed epithelial and stromal tumor": [],
+    "benign": []
+  },
+  "context": "smooth thickening of cyst wall | nonenhancing hyperattenuating (> 20 HU) cyst > 3 cm ± completely intrarenal | thick irregular walls ± numerous septa with measurable enhancement | ± thick nodular calcifications in cyst wall and septa"
+}

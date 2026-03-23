@@ -1,0 +1,47 @@
+{
+  "finding": "B. NONPROGRESSIVE SWELLING (a) congenital midfacial mass",
+  "slug": "b_nonprogressive_swelling_a_congenital_midfacial_mass_c05e4c",
+  "chapter": "FACE",
+  "source_file": "processed_clusters/face/b_nonprogressive_swelling_a_congenital_midfacial_mass_c05e4c.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "broad nasal bridge, glabellar swelling, hypertelorism",
+      "raw": "broad nasal bridge, glabellar swelling, hypertelorism",
+      "frequency": null
+    },
+    {
+      "name": "Frontoethmoidal cephalocele",
+      "raw": "Frontoethmoidal cephalocele",
+      "frequency": null
+    },
+    {
+      "name": "Nasal glioma",
+      "raw": "Nasal glioma",
+      "frequency": null
+    },
+    {
+      "name": "Nasal dermoid / epidermoid cyst (b)  developmental",
+      "raw": "Nasal dermoid / epidermoid cyst (b)  developmental",
+      "frequency": null
+    },
+    {
+      "name": "Dacryocystocele",
+      "raw": "Dacryocystocele",
+      "frequency": null
+    },
+    {
+      "name": "Orbital dermoid",
+      "raw": "Orbital dermoid",
+      "frequency": null
+    },
+    {
+      "name": "First branchial cleft cyst",
+      "raw": "First branchial cleft cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

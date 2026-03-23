@@ -1,0 +1,67 @@
+{
+  "finding": "ABSCESS OF BRAIN",
+  "slug": "abscess_of_brain",
+  "chapter": "NERVOUS SYSTEM DISORDERS",
+  "source_file": "processed_clusters/nervous_system_disorders/abscess_of_brain.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Extension from paranasal sinus infection (41%) / mastoiditis / otitis media (5%) / facial soft-tissue infection / dental abscess",
+      "raw": "Extension from paranasal sinus infection (41%) / mastoiditis / otitis media (5%) / facial soft-tissue infection / dental abscess",
+      "frequency": "41%"
+    },
+    {
+      "name": "Generalized septicemia (32%):",
+      "raw": "Generalized septicemia (32%):",
+      "frequency": "32%"
+    },
+    {
+      "name": "Penetrating trauma or surgery",
+      "raw": "Penetrating trauma or surgery",
+      "frequency": null
+    },
+    {
+      "name": "Cryptogenic (25%) Predisposed:   diabetes mellitus, patients on steroids / immunosuppressive drugs, congenital / acquired immunologic deficiency Organism:  anaerobic streptococcus (most common), bacteroides, staphylococcus; in 20% multiple organisms; in 25% sterile contents",
+      "raw": "Cryptogenic (25%) Predisposed:   diabetes mellitus, patients on steroids / immunosuppressive drugs, congenital / acquired immunologic deficiency Organism:  anaerobic streptococcus (most common), bacteroides, staphylococcus; in 20% multiple organisms; in 25% sterile contents",
+      "frequency": "25%"
+    },
+    {
+      "name": "intraventricular rupture",
+      "raw": "intraventricular rupture",
+      "frequency": null
+    },
+    {
+      "name": "headache, drowsiness, confusion, seizure",
+      "raw": "headache, drowsiness, confusion, seizure",
+      "frequency": null
+    },
+    {
+      "name": "focal neurologic deficit",
+      "raw": "focal neurologic deficit",
+      "frequency": null
+    },
+    {
+      "name": "fever, leukocytosis",
+      "raw": "fever, leukocytosis (resolves with encapsulation)",
+      "frequency": null
+    },
+    {
+      "name": "Rupture into ventricular system / subarachnoid space (thinner capsule formation on medial wall of abscess related to relative hypovascularity) → ventriculitis ± meningitis",
+      "raw": "Rupture into ventricular system / subarachnoid space (thinner capsule formation on medial wall of abscess related to relative hypovascularity) → ventriculitis ± meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Subacute infarction",
+      "raw": "Subacute infarction",
+      "frequency": null
+    },
+    {
+      "name": "Resolving hematoma",
+      "raw": "Resolving hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Pyogenic Brain Abscess =  focal area of necrosis beginning in area of cerebritis with formation of surrounding membrane Prevalence:   0.4-0.9÷100,000 Cause: (a)  lung (most common): bronchiectasis, empyema, lung abscess, bronchopleural fistula, pneumonia (b)  heart (less common): CHD with R-L shunt (in children > 60%), AVM, bacterial endocarditis (c)  osteomyelitis Pathophysiologic stages: 1   Early cerebritis = vascular congestion, petechial hemorrhage, edema ← neutrophilic response to invasive organism √  ill-defined hypoattenuation on NECT √  absent / variable enhancement on CECT 2   Late c"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Congenital Ureteral Abnormalities",
+  "slug": "congenital_ureteral_abnormalities_1",
+  "chapter": "ANATOMY AND FUNCTION OF UROGENITAL TRACT",
+  "source_file": "processed_clusters/anatomy_and_function_of_urogenital_tract/congenital_ureteral_abnormalities_1.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "URETERAL DUPLICATION",
+      "raw": "URETERAL DUPLICATION",
+      "frequency": null
+    },
+    {
+      "name": "Complete ureteral duplication",
+      "raw": "Complete ureteral duplication",
+      "frequency": null
+    },
+    {
+      "name": "Partial ureteral duplication",
+      "raw": "Partial ureteral duplication",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

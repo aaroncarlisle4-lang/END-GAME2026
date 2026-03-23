@@ -1,0 +1,32 @@
+{
+  "finding": "Breast Lesion with Halo Sign",
+  "slug": "breast_lesion_with_halo_sign",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/breast_lesion_with_halo_sign.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "HIGH-DENSITY LESION =  vessels + parenchymal elements not visible in superimposed lesion",
+      "raw": "HIGH-DENSITY LESION =  vessels + parenchymal elements not visible in superimposed lesion",
+      "frequency": null
+    },
+    {
+      "name": "Cyst",
+      "raw": "Cyst",
+      "frequency": null
+    },
+    {
+      "name": "Sebaceous cyst",
+      "raw": "Sebaceous cyst",
+      "frequency": null
+    },
+    {
+      "name": "Wart",
+      "raw": "Wart",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

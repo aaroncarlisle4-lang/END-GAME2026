@@ -1,0 +1,42 @@
+{
+  "finding": "D. Acute toxic poisoning = impairment of mitochondrial cellular respiratory enzymes",
+  "slug": "d_acute_toxic_poisoning_impairment_of_mitochondrial_cellular_respiratory_enzymes",
+  "chapter": "BASAL GANGLIA",
+  "source_file": "processed_clusters/basal_ganglia/d_acute_toxic_poisoning_impairment_of_mitochondrial_cellular_respiratory_enzymes.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "acute cognitive impairment, coma",
+      "raw": "acute cognitive impairment, coma",
+      "frequency": null
+    },
+    {
+      "name": "Carbon monoxide poisoning",
+      "raw": "Carbon monoxide poisoning",
+      "frequency": null
+    },
+    {
+      "name": "Hydrogen sulfide",
+      "raw": "Hydrogen sulfide",
+      "frequency": null
+    },
+    {
+      "name": "Cyanide poisoning",
+      "raw": "Cyanide poisoning",
+      "frequency": null
+    },
+    {
+      "name": "Methanol poisoning",
+      "raw": "Methanol poisoning",
+      "frequency": null
+    },
+    {
+      "name": "optic neuritis",
+      "raw": "optic neuritis (initial symptom)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Action:   inhibition of electron transport Site:   preferentially affects globus pallidus (a)  acute phase √  foci of T2-hyperintensity √  restricted diffusion (b)  delayed √  delayed leukoencephalopathy in deep white matter √  T1 shortening in globus pallidus rare in children: Action:   blockage of trivalent iron in respiratory chain √  hemorrhagic necrosis in putamen √  hemorrhagic necrosis in putamen √  ± white matter edema √  hypoattenuating areas in lentiform nuclei + corpus callosum + subcortical deep white matter in frontal and parietooccipital regions"
+}

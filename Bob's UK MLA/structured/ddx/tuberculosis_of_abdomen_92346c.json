@@ -1,0 +1,27 @@
+{
+  "finding": "TUBERCULOSIS OF ABDOMEN",
+  "slug": "tuberculosis_of_abdomen_92346c",
+  "chapter": "STRONGYLOIDIASIS",
+  "source_file": "processed_clusters/strongyloidiasis/tuberculosis_of_abdomen_92346c.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endemic in:   sub-Saharan Africa and Southeast Asia",
+      "raw": "Endemic in:   sub-Saharan Africa and Southeast Asia",
+      "frequency": null
+    },
+    {
+      "name": "Organism:   M. tuberculosis, M. bovis, M. avium-intracellulare",
+      "raw": "Organism:   M. tuberculosis, M. bovis, M. avium-intracellulare",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous Abdominal Lymphadenopathy",
+      "raw": "Tuberculous Abdominal Lymphadenopathy (55-66%)",
+      "frequency": "66%"
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Most common manifestation of extrapulmonary tuberculosis (solid viscera > GI tract) Frequency:   55-66% of patients with abdominal TB Location:   mesenteric, peripancreatic, omental, retroperitoneal √  enlarged node with hypoattenuating center (40-60%) + hyperattenuating enhancing rim ← caseous necrosis √  conglomerate lymph node masses of mixed attenuation √  enlarged lymph nodes of homogeneous attenuation √  > 3 normal / mildly enlarged homogeneous lymph nodes √  NO obstruction of bile ducts / GI tract, / urinary tract (if present consider alternative diagnosis) Tuberculous Peritonitis (3"
+}

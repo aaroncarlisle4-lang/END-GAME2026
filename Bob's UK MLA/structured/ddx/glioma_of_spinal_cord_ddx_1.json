@@ -1,0 +1,37 @@
+{
+  "finding": "Glioma Of Spinal Cord (DDx)",
+  "slug": "glioma_of_spinal_cord_ddx_1",
+  "chapter": "Glioma Of Spinal Cord",
+  "source_file": "processed_clusters/glioma_of_spinal_cord/glioma_of_spinal_cord_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "astrocytoma (pediatric tumor",
+      "raw": "astrocytoma (pediatric tumor",
+      "frequency": null
+    },
+    {
+      "name": "eccentric location",
+      "raw": "eccentric location",
+      "frequency": null
+    },
+    {
+      "name": "ill defined",
+      "raw": "ill defined",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhage uncommon",
+      "raw": "hemorrhage uncommon",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "patchy irregular enhancement)",
+      "raw": "patchy irregular enhancement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hyper- / isointense on T2WI | \"cap\" sign = extremely hypointense rim at the tumor poles on T2WI (in 20-33%) due to | cord edema (60%) | mostly intense homogeneous enhancement (84%) with well-defined margins (89%)"
+}

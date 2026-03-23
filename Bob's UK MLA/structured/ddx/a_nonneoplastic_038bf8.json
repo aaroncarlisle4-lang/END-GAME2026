@@ -1,0 +1,47 @@
+{
+  "finding": "A. NONNEOPLASTIC",
+  "slug": "a_nonneoplastic_038bf8",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/a_nonneoplastic_038bf8.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital hepatic cyst",
+      "raw": "Congenital hepatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Echinococcal cyst",
+      "raw": "Echinococcal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Liver abscess",
+      "raw": "Liver abscess",
+      "frequency": null
+    },
+    {
+      "name": "Fibropolycystic liver disease",
+      "raw": "Fibropolycystic liver disease",
+      "frequency": null
+    },
+    {
+      "name": "Intrahepatic pseudocyst",
+      "raw": "Intrahepatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Biloma",
+      "raw": "Biloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

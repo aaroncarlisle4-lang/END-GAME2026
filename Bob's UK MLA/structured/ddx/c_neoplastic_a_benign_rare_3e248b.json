@@ -1,0 +1,42 @@
+{
+  "finding": "C. NEOPLASTIC (a) benign (rare",
+  "slug": "c_neoplastic_a_benign_rare_3e248b",
+  "chapter": "ORAL CAVITY",
+  "source_file": "processed_clusters/oral_cavity/c_neoplastic_a_benign_rare_3e248b.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rhabdomyoma",
+      "raw": "Rhabdomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma, plexiform neurofibroma (b)  malignant (rare) ◊  More aggressive than cancers of oral tongue",
+      "raw": "Neurofibroma, plexiform neurofibroma (b)  malignant (rare) ◊  More aggressive than cancers of oral tongue",
+      "frequency": "rare"
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma (5% of oral rhabdomyosa.)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Alveolar soft part sarcoma",
+      "raw": "Alveolar soft part sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

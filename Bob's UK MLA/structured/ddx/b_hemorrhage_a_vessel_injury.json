@@ -1,0 +1,82 @@
+{
+  "finding": "B. HEMORRHAGE (a) vessel injury",
+  "slug": "b_hemorrhage_a_vessel_injury",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/b_hemorrhage_a_vessel_injury.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ischemia",
+      "raw": "Ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Infarction",
+      "raw": "Infarction",
+      "frequency": null
+    },
+    {
+      "name": "Trauma (b)  vasculitis",
+      "raw": "Trauma (b)  vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "Connective tissue disease",
+      "raw": "Connective tissue disease",
+      "frequency": null
+    },
+    {
+      "name": "Henoch-Schönlein purpura",
+      "raw": "Henoch-Schönlein purpura",
+      "frequency": null
+    },
+    {
+      "name": "Thrombangiitis obliterans, irradiation",
+      "raw": "Thrombangiitis obliterans, irradiation",
+      "frequency": null
+    },
+    {
+      "name": "Hemophilia",
+      "raw": "Hemophilia",
+      "frequency": null
+    },
+    {
+      "name": "Anticoagulant therapy",
+      "raw": "Anticoagulant therapy",
+      "frequency": null
+    },
+    {
+      "name": "Hypofibrinogemia",
+      "raw": "Hypofibrinogemia",
+      "frequency": null
+    },
+    {
+      "name": "Circulating anticoagulants",
+      "raw": "Circulating anticoagulants",
+      "frequency": null
+    },
+    {
+      "name": "Fibrinolytic system activation",
+      "raw": "Fibrinolytic system activation",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic thrombocytopenic purpura",
+      "raw": "Idiopathic thrombocytopenic purpura",
+      "frequency": null
+    },
+    {
+      "name": "Coagulation defects: leukemia, lymphoma, multiple myeloma, metastatic carcinoma",
+      "raw": "Coagulation defects: leukemia, lymphoma, multiple myeloma, metastatic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hypoprothrombinemia",
+      "raw": "Hypoprothrombinemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(c)  hypocoagulability"
+}

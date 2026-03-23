@@ -1,0 +1,37 @@
+{
+  "finding": "D. PRIMARY NEOPLASM",
+  "slug": "d_primary_neoplasm",
+  "chapter": "G. POSTTRAUMATIC",
+  "source_file": "processed_clusters/g_posttraumatic/d_primary_neoplasm.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aggressive angiomyxoma",
+      "raw": "Aggressive angiomyxoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Plexiform neurofibroma",
+      "raw": "Plexiform neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Anal adenocarcinoma",
+      "raw": "Anal adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

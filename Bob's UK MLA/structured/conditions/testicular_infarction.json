@@ -1,0 +1,35 @@
+{
+  "name": "TESTICULAR INFARCTION",
+  "slug": "testicular_infarction",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/testicular_infarction.md",
+  "definition": "extremely rare",
+  "demographics": {
+    "Age": "20-40 years",
+    "Location": "often in periphery with extension to capsule"
+  },
+  "dominant_finding": "may have high SI on T1WI ← hemorrhage",
+  "distribution": "often in periphery with extension to capsule",
+  "discriminating_features": [
+    "focal hypoechoic wedge-shaped region without flow (most common)",
+    "hyperechoic regions ← hemorrhage / fibrosis",
+    "decrease in testicular size over time ← fibrosis",
+    "diffusely hypoechoic small testis",
+    "hypo- / (typically) isointense to normal testis on T1WI:"
+  ],
+  "other_features": {
+    "general": [
+      "focal hypoechoic wedge-shaped region without flow (most common)",
+      "hyperechoic regions ← hemorrhage / fibrosis",
+      "decrease in testicular size over time ← fibrosis",
+      "diffusely hypoechoic small testis"
+    ],
+    "MR": [
+      "hypo- / (typically) isointense to normal testis on T1WI:",
+      "may have high SI on T1WI ← hemorrhage",
+      "hypointense to normal testis on T2WI",
+      "avascular area + enhancing rim on contrast administration"
+    ]
+  },
+  "clinical": {}
+}

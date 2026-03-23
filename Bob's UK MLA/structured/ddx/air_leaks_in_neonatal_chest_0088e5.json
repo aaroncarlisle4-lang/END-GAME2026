@@ -1,0 +1,42 @@
+{
+  "finding": "Air Leaks in Neonatal Chest",
+  "slug": "air_leaks_in_neonatal_chest_0088e5",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/air_leaks_in_neonatal_chest_0088e5.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pulmonary interstitial emphysema",
+      "raw": "Pulmonary interstitial emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Pneumomediastinum",
+      "raw": "Pneumomediastinum",
+      "frequency": null
+    },
+    {
+      "name": "Pneumothorax",
+      "raw": "Pneumothorax",
+      "frequency": null
+    },
+    {
+      "name": "Gas below visceral pleura",
+      "raw": "Gas below visceral pleura",
+      "frequency": null
+    },
+    {
+      "name": "Pneumopericardium",
+      "raw": "Pneumopericardium",
+      "frequency": null
+    },
+    {
+      "name": "Gas embolus to cardiac chambers / blood vessels",
+      "raw": "Gas embolus to cardiac chambers / blood vessels",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  intrathoracic extra-alveolar gas √  gas at lung base / against fissure"
+}

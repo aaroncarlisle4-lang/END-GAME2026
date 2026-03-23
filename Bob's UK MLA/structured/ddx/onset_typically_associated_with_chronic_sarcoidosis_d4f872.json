@@ -1,0 +1,62 @@
+{
+  "finding": "Onset: typically associated with chronic sarcoidosis",
+  "slug": "onset_typically_associated_with_chronic_sarcoidosis_d4f872",
+  "chapter": "RHEUMATOID LUNG",
+  "source_file": "processed_clusters/rheumatoid_lung/onset_typically_associated_with_chronic_sarcoidosis_d4f872.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "characteristic \"apple jelly\" color on diascopy",
+      "raw": "characteristic \"apple jelly\" color on diascopy (= pressure applied with glass slide)",
+      "frequency": null
+    },
+    {
+      "name": "skin plaques / scars",
+      "raw": "skin plaques / scars",
+      "frequency": null
+    },
+    {
+      "name": "mild symptoms in spite of extensive radiographic changes (DIAGNOSTICALLY SIGNIFICANT):",
+      "raw": "mild symptoms in spite of extensive radiographic changes (DIAGNOSTICALLY SIGNIFICANT):",
+      "frequency": null
+    },
+    {
+      "name": "dry cough, dyspnea, hyperreactivity",
+      "raw": "dry cough, dyspnea, hyperreactivity",
+      "frequency": null
+    },
+    {
+      "name": "fatigue, night sweats, weight loss, erythema nodosum",
+      "raw": "fatigue, night sweats, weight loss, erythema nodosum",
+      "frequency": null
+    },
+    {
+      "name": "pulmonary arterial hypertension",
+      "raw": "pulmonary arterial hypertension (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "cardiomegaly ← cor pulmonale",
+      "raw": "cardiomegaly ← cor pulmonale (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "aspergilloma formation in apical bulla",
+      "raw": "aspergilloma formation in apical bulla",
+      "frequency": null
+    },
+    {
+      "name": "palpable peripheral lymphadenopathy",
+      "raw": "palpable peripheral lymphadenopathy (⅓): discrete, nontender and movable @  Ophthalmic sarcoidosis (25-80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "typically bilateral uveitis, photophobia, blurred vision, glaucoma",
+      "raw": "typically bilateral uveitis, photophobia, blurred vision, glaucoma (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   face, posterior neck, previous trauma site Thoracic Sarcoidosis (90%) ◊  Extrathoracic manifestations without intrathoracic involvement in < 10%! Silzbach CXR stage versus percentage at presentation: 0   normal chest radiograph 5-10% 1   hilar + mediastinal lymphadenopathy only 50% 2   lymphadenopathy + parenchymal disease 25-30% 3   diffuse parenchymal disease only 10-12% 4   pulmonary fibrosis 5% ◊  Progression to pulmonary fibrosis in 25%! Spontaneous remissions versus Siltzbach stage: 60-90%  for stage 1 disease 40-70%  for stage 2 disease 10-20%  for stage 3 disease 0%  for st"
+}

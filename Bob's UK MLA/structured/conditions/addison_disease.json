@@ -1,0 +1,25 @@
+{
+  "name": "ADDISON DISEASE",
+  "slug": "addison_disease",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/addison_disease.md",
+  "definition": "PRIMARY ADRENAL INSUFFICIENCY ADDISONIAN CRISIS = ADRENAL APOPLEXY",
+  "demographics": {},
+  "dominant_finding": "calcifications (in 25% of chronic course)",
+  "distribution": "bilateral adrenal enlargement with areas of increased attenuation",
+  "discriminating_features": [
+    "bilateral adrenal enlargement with areas of increased attenuation",
+    "diminutive glands ← idiopathic atrophy + chronic inflammation",
+    "calcifications (in 25% of chronic course)"
+  ],
+  "other_features": {
+    "general": [
+      "bilateral adrenal enlargement with areas of increased attenuation",
+      "diminutive glands ← idiopathic atrophy + chronic inflammation",
+      "calcifications (in 25% of chronic course)"
+    ]
+  },
+  "clinical": {
+    "Cx": "catastrophic hypotension + shock"
+  }
+}

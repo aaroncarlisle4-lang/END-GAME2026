@@ -1,0 +1,62 @@
+{
+  "finding": "B. Infection",
+  "slug": "b_infection_1",
+  "chapter": "Opacification of Maxillary Sinus",
+  "source_file": "processed_clusters/opacification_of_maxillary_sinus/b_infection_1.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Actinomycosis",
+      "raw": "Actinomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Rhinoscleroma",
+      "raw": "Rhinoscleroma",
+      "frequency": null
+    },
+    {
+      "name": "Yaws",
+      "raw": "Yaws",
+      "frequency": null
+    },
+    {
+      "name": "Blastomycosis",
+      "raw": "Blastomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Leprosy",
+      "raw": "Leprosy",
+      "frequency": null
+    },
+    {
+      "name": "Rhinosporidiosis",
+      "raw": "Rhinosporidiosis",
+      "frequency": null
+    },
+    {
+      "name": "Syphilis",
+      "raw": "Syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Leishmaniasis",
+      "raw": "Leishmaniasis",
+      "frequency": null
+    },
+    {
+      "name": "Glanders",
+      "raw": "Glanders",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

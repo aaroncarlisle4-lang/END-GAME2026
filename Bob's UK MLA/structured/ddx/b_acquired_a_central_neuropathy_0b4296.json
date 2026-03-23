@@ -1,0 +1,91 @@
+{
+  "finding": "B. Acquired (a) central neuropathy",
+  "slug": "b_acquired_a_central_neuropathy_0b4296",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/neuropathic_osteoarthropathy/b_acquired_a_central_neuropathy_0b4296.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Injury to brain / spinal cord",
+      "raw": "Injury to brain / spinal cord",
+      "frequency": null
+    },
+    {
+      "name": "Syringomyelia (in ⅓ of patients): shoulder, elbow",
+      "raw": "Syringomyelia (in ⅓ of patients): shoulder, elbow",
+      "frequency": null
+    },
+    {
+      "name": "Neurosyphilis = tabes dorsalis (in 15-20% of patients): hip, knee, ankle, tarsals",
+      "raw": "Neurosyphilis = tabes dorsalis (in 15-20% of patients): hip, knee, ankle, tarsals",
+      "frequency": "20%"
+    },
+    {
+      "name": "Spinal cord tumors / infection",
+      "raw": "Spinal cord tumors / infection",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic compression of spinal cord",
+      "raw": "Extrinsic compression of spinal cord",
+      "frequency": null
+    },
+    {
+      "name": "Multiple sclerosis",
+      "raw": "Multiple sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Alcoholism (b)  peripheral neuropathy",
+      "raw": "Alcoholism (b)  peripheral neuropathy",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus (most common cause, although incidence low): midfoot, tarsometatarsal joints (middle cuneiform + base of 2nd metatarsal bone first affected), intertarsal joints, subtalar joints, metatarsophalangeal joints, ankle [Peripheral nerve injury] [Peripheral nerve tumor]",
+      "raw": "Diabetes mellitus (most common cause, although incidence low): midfoot, tarsometatarsal joints (middle cuneiform + base of 2nd metatarsal bone first affected), intertarsal joints, subtalar joints, metatarsophalangeal joints, ankle",
+      "frequency": "most common",
+      "sites": [
+        "Peripheral nerve injury",
+        "Peripheral nerve tumor"
+      ]
+    },
+    {
+      "name": "Leprosy",
+      "raw": "Leprosy (Hansen disease)",
+      "frequency": null
+    },
+    {
+      "name": "Poliomyelitis (c)  others",
+      "raw": "Poliomyelitis (c)  others",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma, Raynaud disease, Ehlers-Danlos syndrome",
+      "raw": "Scleroderma, Raynaud disease, Ehlers-Danlos syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis, psoriasis",
+      "raw": "Rheumatoid arthritis, psoriasis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid infiltration of nerves, adrenal hypercorticism",
+      "raw": "Amyloid infiltration of nerves, adrenal hypercorticism",
+      "frequency": null
+    },
+    {
+      "name": "Uremia",
+      "raw": "Uremia",
+      "frequency": null
+    },
+    {
+      "name": "Pernicious anemia",
+      "raw": "Pernicious anemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

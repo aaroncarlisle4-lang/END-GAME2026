@@ -1,0 +1,32 @@
+{
+  "finding": "Multiple Bone Lesions with Soft-tissue Tumor",
+  "slug": "multiple_bone_lesions_with_soft_tissue_tumor_2d5928",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/multiple_bone_lesions_with_soft_tissue_tumor_2d5928.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neurofibromatosis & fibroxanthomas",
+      "raw": "Neurofibromatosis & fibroxanthomas",
+      "frequency": null
+    },
+    {
+      "name": "Maffucci syndrome = enchondromatosis & hemangioma",
+      "raw": "Maffucci syndrome = enchondromatosis & hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Mazabraud syndrome = fibrous dysplasia & myxoma",
+      "raw": "Mazabraud syndrome = fibrous dysplasia & myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  Multiple myeloma (b)  Malignant melanoma (c)  Lymphoma"
+}

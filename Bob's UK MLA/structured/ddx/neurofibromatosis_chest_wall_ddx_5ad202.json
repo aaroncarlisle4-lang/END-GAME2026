@@ -1,0 +1,22 @@
+{
+  "finding": "Neurofibromatosis — Chest wall (DDx)",
+  "slug": "neurofibromatosis_chest_wall_ddx_5ad202",
+  "chapter": "Neurofibromatosis",
+  "source_file": "processed_clusters/neurofibromatosis/neurofibromatosis_chest_wall_ddx_5ad202.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tuberous sclerosis",
+      "raw": "tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "fibrous dysplasia",
+      "raw": "fibrous dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "increased intensity on T2WI if chiasm and visual pathway involved"
+}

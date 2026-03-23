@@ -1,0 +1,32 @@
+{
+  "finding": "Uptake of Superparamagnetic Iron Oxide Particles",
+  "slug": "uptake_of_superparamagnetic_iron_oxide_particles_cfb538",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/uptake_of_superparamagnetic_iron_oxide_particles_cfb538.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Focal nodular hyperplasia",
+      "raw": "Focal nodular hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Well-differentiated HCC",
+      "raw": "Well-differentiated HCC",
+      "frequency": null
+    },
+    {
+      "name": "Dysplastic nodule",
+      "raw": "Dysplastic nodule",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic adenoma",
+      "raw": "Hepatic adenoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Action:   preferential entrapment by Kupffer cells"
+}

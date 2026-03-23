@@ -1,0 +1,37 @@
+{
+  "finding": "A. PNEUMONIA",
+  "slug": "a_pneumonia",
+  "chapter": "Segmental & Lobar Densities",
+  "source_file": "processed_clusters/segmental_lobar_densities/a_pneumonia.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lobar pneumonia",
+      "raw": "Lobar pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Lobular pneumonia",
+      "raw": "Lobular pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Acute interstitial pneumonia",
+      "raw": "Acute interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration pneumonia",
+      "raw": "Aspiration pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Primary tuberculosis",
+      "raw": "Primary tuberculosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

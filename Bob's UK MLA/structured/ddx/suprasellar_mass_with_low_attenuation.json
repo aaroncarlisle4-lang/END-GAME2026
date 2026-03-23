@@ -1,0 +1,42 @@
+{
+  "finding": "Suprasellar Mass with Low Attenuation",
+  "slug": "suprasellar_mass_with_low_attenuation",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/suprasellar_mass_with_low_attenuation.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid / epidermoid",
+      "raw": "Dermoid / epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Simple pituitary cyst",
+      "raw": "Simple pituitary cyst",
+      "frequency": null
+    },
+    {
+      "name": "Glioma of hypothalamus",
+      "raw": "Glioma of hypothalamus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

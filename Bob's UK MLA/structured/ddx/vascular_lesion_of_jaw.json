@@ -1,0 +1,27 @@
+{
+  "finding": "Vascular Lesion of Jaw",
+  "slug": "vascular_lesion_of_jaw",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/vascular_lesion_of_jaw.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Central giant cell granuloma",
+      "raw": "Central giant cell granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Brown tumor of hyperparathyroidism",
+      "raw": "Brown tumor of hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous Malformation of jaw",
+      "raw": "Arteriovenous Malformation of jaw",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,25 @@
+{
+  "name": "SALIVARY GLANDS",
+  "slug": "salivary_glands",
+  "chapter": "NECK",
+  "source_file": "processed_clusters/disease_entries/neck/salivary_glands.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "90-95% occur in parotid gland, 5% in submandibular + sublingual glands; only"
+  },
+  "dominant_finding": "hypoechoic enlargement of gland",
+  "distribution": "",
+  "discriminating_features": [
+    "hypoechoic enlargement of gland",
+    "multiple small oval hypoechoic areas",
+    "enlarged lymph nodes with increased blood flow"
+  ],
+  "other_features": {
+    "general": [
+      "hypoechoic enlargement of gland",
+      "multiple small oval hypoechoic areas",
+      "enlarged lymph nodes with increased blood flow"
+    ]
+  },
+  "clinical": {}
+}

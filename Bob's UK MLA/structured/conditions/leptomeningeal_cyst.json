@@ -1,0 +1,31 @@
+{
+  "name": "LEPTOMENINGEAL CYST",
+  "slug": "leptomeningeal_cyst",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/leptomeningeal_cyst.md",
+  "definition": "\"Growing\" fracture = loculation of CSF into / through skull",
+  "demographics": {
+    "Prevalence": "1% of all pediatric skull fractures"
+  },
+  "dominant_finding": "cyst isointense with CSF + communicating with subarachnoid space",
+  "distribution": "",
+  "discriminating_features": [
+    "skull defect with indistinct scalloped margins",
+    "CSF-density cyst adjacent to / in skull, may contain cerebral tissue",
+    "cyst isointense with CSF + communicating with subarachnoid space",
+    "area of encephalomalacia underlying fracture (frequent)",
+    "intracranial tissue extending between edges of bone"
+  ],
+  "other_features": {
+    "general": [
+      "skull defect with indistinct scalloped margins",
+      "CSF-density cyst adjacent to / in skull, may contain cerebral tissue"
+    ],
+    "MR": [
+      "cyst isointense with CSF + communicating with subarachnoid space",
+      "area of encephalomalacia underlying fracture (frequent)",
+      "intracranial tissue extending between edges of bone"
+    ]
+  },
+  "clinical": {}
+}

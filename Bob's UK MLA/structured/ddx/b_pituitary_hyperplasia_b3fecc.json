@@ -1,0 +1,47 @@
+{
+  "finding": "B. PITUITARY HYPERPLASIA",
+  "slug": "b_pituitary_hyperplasia_b3fecc",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/b_pituitary_hyperplasia_b3fecc.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypothyroidism",
+      "raw": "Hypothyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Hypogonadism",
+      "raw": "Hypogonadism",
+      "frequency": null
+    },
+    {
+      "name": "Nelson syndrome =  rapid enlargement of pre-existing ACTH-secreting pituitary adenoma",
+      "raw": "Nelson syndrome =  rapid enlargement of pre-existing ACTH-secreting pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "CSF SPACE",
+      "raw": "CSF SPACE",
+      "frequency": null
+    },
+    {
+      "name": "Enlarged 3rd ventricle",
+      "raw": "Enlarged 3rd ventricle",
+      "frequency": null
+    },
+    {
+      "name": "Hydrocephalus",
+      "raw": "Hydrocephalus",
+      "frequency": null
+    },
+    {
+      "name": "Empty sella",
+      "raw": "Empty sella",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   in 7% of patients after removal of both adrenal glands Cause:   absence of negative feedback of cortisol on production of ACTH"
+}

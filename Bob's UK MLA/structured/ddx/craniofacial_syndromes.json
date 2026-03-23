@@ -1,0 +1,37 @@
+{
+  "finding": "Craniofacial Syndromes",
+  "slug": "craniofacial_syndromes",
+  "chapter": "Absence of Innominate Line",
+  "source_file": "processed_clusters/absence_of_innominate_line/craniofacial_syndromes.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Midfacial clefts",
+      "raw": "Midfacial clefts",
+      "frequency": null
+    },
+    {
+      "name": "Goldenhar syndrome",
+      "raw": "Goldenhar syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Apert syndrome",
+      "raw": "Apert syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Crouzon syndrome",
+      "raw": "Crouzon syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Treacher-Collins syndrome",
+      "raw": "Treacher-Collins syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  developmental malformations of the face + skull associated with CNS malformations"
+}

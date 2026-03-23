@@ -1,0 +1,22 @@
+{
+  "finding": "Schwannoma Of Adrenal Gland (DDx)",
+  "slug": "schwannoma_of_adrenal_gland_ddx",
+  "chapter": "Schwannoma Of Adrenal Gland",
+  "source_file": "processed_clusters/schwannoma_of_adrenal_gland/schwannoma_of_adrenal_gland_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pheochromocytoma",
+      "raw": "pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "malignant tumor",
+      "raw": "malignant tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "heterogeneously enhancing hypoattenuating mass | marked variability depending on degree of degeneration | isointense signal to muscle on T1WI | hyperintensity on T2WI"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Trabeculated Bone Lesion",
+  "slug": "trabeculated_bone_lesion",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/trabeculated_bone_lesion.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Giant cell tumor:",
+      "raw": "Giant cell tumor:",
+      "frequency": null
+    },
+    {
+      "name": "Chondromyxoid fibroma: coarse thick trabeculae",
+      "raw": "Chondromyxoid fibroma: coarse thick trabeculae",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma:",
+      "raw": "Nonossifying fibroma:",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst:",
+      "raw": "Aneurysmal bone cyst:",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma:",
+      "raw": "Hemangioma:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "delicate thin trabeculae lobulated delicate, horizontally oriented trabeculae striated radiating trabeculae"
+}

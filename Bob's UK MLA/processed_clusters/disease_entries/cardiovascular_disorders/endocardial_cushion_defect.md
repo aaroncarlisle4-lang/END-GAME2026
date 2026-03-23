@@ -1,0 +1,60 @@
+# Disease: ENDOCARDIAL CUSHION DEFECT
+
+**Source section:** CARDIOVASCULAR DISORDERS
+
+## Definition
+
+ECD = ATRIOVENTRICULAR SEPTAL DEFECT PERSISTENT OSTIUM ATRIOVENTRICULARE COMMUNE PERSISTENT COMMON ATRIOVENTRICULAR CANAL persistence of primitive atrioventricular canal + anomalies of AV valves ← interruption of
+
+## Key Facts
+
+- **Frequency:** 4% of all cases of CHD
+
+## Imaging Findings
+
+### General
+
+- left atrioventricular valve usually has 3 leaflets with a wide cleft between anterior +
+- "gooseneck" deformity on LV angiography = concavity of IVS below MV + elongation
+- communication between LA-RA or LV-RA, occasionally LV-RV
+- right atrioventricular valve usually normal
+- common atrioventricular orifice
+- oval septal defect consisting of a low ASD + high VSD
+- atrial septum secundum usually spared ("common atrium" if absent)
+- frequently associated with mesocardia / dextrocardia
+
+### CXR
+
+- increased pulmonary vascularity (= shunt vascularity)
+- redistribution of pulmonary blood flow (mitral regurgitation)
+- enlarged pulmonary artery
+- diminutive aorta ← L-to-R shunt
+- cardiac enlargement out of proportion to pulmonary vascularity ← L-to-R shunt + mitral
+- enlarged RV + LV
+- enlarged RA ← LV blood shunted to RA
+- normal-sized LA ← ASD
+- visualization of ASD + VSD + valve + site of insertion of chordae tendineae
+- paradoxical anterior septal motion ← ASD
+- atrioventricular insufficiency + shunts identified by Doppler ultrasound
+
+### ANGIO
+
+- "gooseneck deformity" (in diastole) ← deficiency of conus and sinus portion of
+- cleft in anterior leaflet of mitral valve (in systole)
+- mitral regurgitation
+- best view to demonstrate LV-RA shunt
+- best view to demonstrate VSD (inflow tract + posterior portion of interventricular
+- irregular appearance of superior segment of anterior mitral valve leaflet over LVOT
+
+## Clinical
+
+- **Prognosis:** 54% survival rate at 6 months, 35% at 12 months, 15% at 24 months, 4% at 5 years;
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

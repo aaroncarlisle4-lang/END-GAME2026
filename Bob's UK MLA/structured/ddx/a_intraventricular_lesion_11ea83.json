@@ -1,0 +1,32 @@
+{
+  "finding": "A. INTRAVENTRICULAR LESION",
+  "slug": "a_intraventricular_lesion_11ea83",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/a_intraventricular_lesion_11ea83.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Colloid cyst",
+      "raw": "Colloid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Choroid plexus neoplasm / granuloma",
+      "raw": "Choroid plexus neoplasm / granuloma",
+      "frequency": null
+    },
+    {
+      "name": "AVM of septal, thalamostriate, internal cerebral v.",
+      "raw": "AVM of septal, thalamostriate, internal cerebral v.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

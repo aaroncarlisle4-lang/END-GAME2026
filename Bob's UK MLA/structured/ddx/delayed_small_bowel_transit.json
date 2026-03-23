@@ -1,0 +1,52 @@
+{
+  "finding": "Delayed Small Bowel Transit",
+  "slug": "delayed_small_bowel_transit",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/delayed_small_bowel_transit.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Potassium",
+      "raw": "Potassium (hypokalemia)",
+      "frequency": null
+    },
+    {
+      "name": "Anxiety",
+      "raw": "Anxiety",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid",
+      "raw": "Thyroid (hypothyroidism)",
+      "frequency": null
+    },
+    {
+      "name": "Sprue",
+      "raw": "Sprue",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes",
+      "raw": "Diabetes (poorly controlled)",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Drugs",
+      "raw": "Drugs (opiates, atropine, phenothiazine)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  transit time > 6 hr"
+}

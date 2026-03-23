@@ -1,0 +1,32 @@
+{
+  "finding": "Hyperechoic Adrenal Gland in Fetus",
+  "slug": "hyperechoic_adrenal_gland_in_fetus_4a3a5b",
+  "chapter": "B. LIVER",
+  "source_file": "processed_clusters/b_liver/hyperechoic_adrenal_gland_in_fetus_4a3a5b.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute adrenal hemorrhage",
+      "raw": "Acute adrenal hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Exophytic renal tumor: mesoblastic nephroma",
+      "raw": "Exophytic renal tumor: mesoblastic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Subdiaphragmatic extralobar sequestration",
+      "raw": "Subdiaphragmatic extralobar sequestration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "seen routinely on US > 30-32 weeks GA"
+}

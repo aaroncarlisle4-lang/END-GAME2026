@@ -1,0 +1,42 @@
+{
+  "finding": "CT Angiogram Sign",
+  "slug": "ct_angiogram_sign_c86a65",
+  "chapter": "Air-space Opacification in Trauma",
+  "source_file": "processed_clusters/air_space_opacification_in_trauma/ct_angiogram_sign_c86a65.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lobar bronchioloalveolar cell carcinoma",
+      "raw": "Lobar bronchioloalveolar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lobar pneumonia",
+      "raw": "Lobar pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary lymphoma",
+      "raw": "Pulmonary lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic lipid pneumonia",
+      "raw": "Extrinsic lipid pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary infarction",
+      "raw": "Pulmonary infarction",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary edema",
+      "raw": "Pulmonary edema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  homogeneous low attenuation of lung consolidation, which allows vessels to be clearly seen"
+}

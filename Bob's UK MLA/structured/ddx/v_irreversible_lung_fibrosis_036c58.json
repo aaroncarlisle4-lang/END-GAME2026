@@ -1,0 +1,67 @@
+{
+  "finding": "V irreversible lung fibrosis",
+  "slug": "v_irreversible_lung_fibrosis_036c58",
+  "chapter": "AMYLOIDOSIS OF THE CHEST",
+  "source_file": "processed_clusters/amyloidosis_of_the_chest/v_irreversible_lung_fibrosis_036c58.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ACUTE ABPA Type I reaction = immediate hypersensitivity",
+      "raw": "ACUTE ABPA Type I reaction = immediate hypersensitivity (IgE-mediated mast cell degranulation)",
+      "frequency": null
+    },
+    {
+      "name": "bronchoconstriction, mucus production",
+      "raw": "bronchoconstriction, mucus production",
+      "frequency": null
+    },
+    {
+      "name": "bronchial wall edema ← ⇑ vascular permeability",
+      "raw": "bronchial wall edema ← ⇑ vascular permeability",
+      "frequency": null
+    },
+    {
+      "name": "CHRONIC ABPA",
+      "raw": "CHRONIC ABPA",
+      "frequency": null
+    },
+    {
+      "name": "flulike symptoms: fever, headache, malaise, weight loss, fleeting pleuritic chest pain",
+      "raw": "flulike symptoms: fever, headache, malaise, weight loss, fleeting pleuritic chest pain",
+      "frequency": null
+    },
+    {
+      "name": "wheezing, expectoration of brown mucous plugs",
+      "raw": "wheezing, expectoration of brown mucous plugs",
+      "frequency": null
+    },
+    {
+      "name": "positive skin test to A. fumigatus; peripheral eosinophilia",
+      "raw": "positive skin test to A. fumigatus; peripheral eosinophilia",
+      "frequency": null
+    },
+    {
+      "name": "elevated IgE level correlates well with disease activity!",
+      "raw": "elevated IgE level correlates well with disease activity!",
+      "frequency": null
+    },
+    {
+      "name": "hematogenous dissemination from distant pulmonary infection",
+      "raw": "hematogenous dissemination from distant pulmonary infection",
+      "frequency": null
+    },
+    {
+      "name": "angiotropic / perineural spread from paranasal sinus / orbital infection",
+      "raw": "angiotropic / perineural spread from paranasal sinus / orbital infection (rhinocerebral disease)",
+      "frequency": null
+    },
+    {
+      "name": "direct traumatic implantation",
+      "raw": "direct traumatic implantation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Histo:  alveoli filled with eosinophils Type III reaction = delayed immune complex response = Arthus reaction (IgG- mediated) Histo:  bronchocentric granulomas + mucoid impaction; fungal hyphae without tissue invasion CXR: √  initial CXR normal in up to 50% √  NORMAL peripheral bronchi √  hyperinflation ← bronchospasm / emphysema (a)  early stage: √  migratory pneumonitis = ill-defined homogeneous transient recurrent \"fleeting\" alveolar patchy subsegmental / lobar opacities (in up to 90%) Location:   upper lobes (50%), lower lobes (20%), middle lobe (7%); both lungs (65%) Duration:   may persi"
+}

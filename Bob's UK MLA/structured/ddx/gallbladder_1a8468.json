@@ -1,0 +1,107 @@
+{
+  "finding": "GALLBLADDER",
+  "slug": "gallbladder_1a8468",
+  "chapter": "Size of Liver",
+  "source_file": "processed_clusters/size_of_liver/gallbladder_1a8468.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Wall thickness:   2-3 mm",
+      "raw": "Wall thickness:   2-3 mm",
+      "frequency": null
+    },
+    {
+      "name": "Width:   2.0-3.5 cm",
+      "raw": "Width:   2.0-3.5 cm",
+      "frequency": null
+    },
+    {
+      "name": "Capacity:   30-50 mL",
+      "raw": "Capacity:   30-50 mL",
+      "frequency": null
+    },
+    {
+      "name": "Bile volume:   250-1,000 mL/d secreted by hepatocytes",
+      "raw": "Bile volume:   250-1,000 mL/d secreted by hepatocytes",
+      "frequency": null
+    },
+    {
+      "name": "Gallbladder Function",
+      "raw": "Gallbladder Function",
+      "frequency": null
+    },
+    {
+      "name": "HIDA scintigraphy",
+      "raw": "HIDA scintigraphy",
+      "frequency": null
+    },
+    {
+      "name": "MR cholangiography with mangafodipir trisodium = MnDPDP = manganese",
+      "raw": "MR cholangiography with mangafodipir trisodium = MnDPDP = manganese (II) DPDP [N,N′-dipyridoxylethylenediamine-N,N′-diacetate 5,5′-bis(phosphate)]",
+      "frequency": null
+    },
+    {
+      "name": "MR cholangiography with gadolinium BenzylOxyPropionicTetraAcetate (Gd-BOPTA) =",
+      "raw": "MR cholangiography with gadolinium BenzylOxyPropionicTetraAcetate (Gd-BOPTA) =",
+      "frequency": null
+    },
+    {
+      "name": "↑ sensitivity of study for acute (acalculous) cholecystitis",
+      "raw": "↑ sensitivity of study for acute (acalculous) cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "in patients with abdominal pain and no cholelithiasis",
+      "raw": "in patients with abdominal pain and no cholelithiasis",
+      "frequency": null
+    },
+    {
+      "name": "to establish that gallstones are the primary cause of abdominal pain",
+      "raw": "to establish that gallstones are the primary cause of abdominal pain",
+      "frequency": null
+    },
+    {
+      "name": "Discontinue opioids for > 24 hours",
+      "raw": "Discontinue opioids for > 24 hours",
+      "frequency": null
+    },
+    {
+      "name": "Select ROI over GB",
+      "raw": "Select ROI over GB",
+      "frequency": null
+    },
+    {
+      "name": "Administer Sincalide 1 hour post HIDA in a dose of 0.02 µg/kg body weight IV over 30 minutes",
+      "raw": "Administer Sincalide 1 hour post HIDA in a dose of 0.02 µg/kg body weight IV over 30 minutes (with infusion pump)",
+      "frequency": null
+    },
+    {
+      "name": "Image acquisition for 20 more minutes post infusion to detect paradoxical filling of gallbladder in sphincter of Oddi dysfunction",
+      "raw": "Image acquisition for 20 more minutes post infusion to detect paradoxical filling of gallbladder in sphincter of Oddi dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "LONGITUDINAL SEPTA",
+      "raw": "LONGITUDINAL SEPTA",
+      "frequency": null
+    },
+    {
+      "name": "Bilobed gallbladder = duplication of gallbladder =  two separate lumina + two cystic ducts",
+      "raw": "Bilobed gallbladder = duplication of gallbladder =  two separate lumina + two cystic ducts",
+      "frequency": null
+    },
+    {
+      "name": "Bifid gallbladder = double gallbladder =  two separate lumina with one cystic duct",
+      "raw": "Bifid gallbladder = double gallbladder =  two separate lumina with one cystic duct",
+      "frequency": null
+    },
+    {
+      "name": "Triple gallbladder",
+      "raw": "Triple gallbladder (extremely rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Size & Capacity & Wall Thickness Physiologic distension:   optimal after 8-12 hours of fasting GB function:   concentration of bile through absorption of 90% of water Wall layers: (a)   mucosa (b)   lamina propria (c)   muscularis propria (d)   serosa N.B.:   The GB has NO muscularis mucosa / submucosa Length: (a)  infant < 1 year old:  1.5-3.0 cm (b)  older child:  3-7 cm (c)  adult:  7-10 cm =  evaluation of volume and ejection fraction following ingestion of a fatty meal / infusion of cholecystokinin Methods: Dose:  0.5 mL/kg of MnDPDP up to 35-50 mL »  slow IV injection for 1-2 minutes »"
+}

@@ -1,0 +1,122 @@
+{
+  "finding": "Skeletal Metastases in Children",
+  "slug": "skeletal_metastases_in_children",
+  "chapter": "MACRODYSTROPHIA LIPOMATOSA",
+  "source_file": "processed_clusters/macrodystrophia_lipomatosa/skeletal_metastases_in_children.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neuroblastoma (most often): diffuse / focal",
+      "raw": "Neuroblastoma (most often): diffuse / focal",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Retinoblastoma",
+      "raw": "Retinoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatoma",
+      "raw": "Hepatoma",
+      "frequency": null
+    },
+    {
+      "name": "Colon",
+      "raw": "Colon",
+      "frequency": null
+    },
+    {
+      "name": "Breast",
+      "raw": "Breast",
+      "frequency": null
+    },
+    {
+      "name": "Lung",
+      "raw": "Lung",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Kidney",
+      "raw": "Kidney",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid",
+      "raw": "Thyroid",
+      "frequency": null
+    },
+    {
+      "name": "Prostate",
+      "raw": "Prostate",
+      "frequency": null
+    },
+    {
+      "name": "Role of Bone Scintigraphy in Bone Metastases",
+      "raw": "Role of Bone Scintigraphy in Bone Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Role of Bone Scintigraphy in Prostate Cancer",
+      "raw": "Role of Bone Scintigraphy in Prostate Cancer",
+      "frequency": null
+    },
+    {
+      "name": "Stage B:   5%  with skeletal metastases",
+      "raw": "Stage B:   5%  with skeletal metastases",
+      "frequency": "5%"
+    },
+    {
+      "name": "Stage C:   10%  with skeletal metastases",
+      "raw": "Stage C:   10%  with skeletal metastases",
+      "frequency": "10%"
+    },
+    {
+      "name": "Stage D:   20%  with skeletal metastases",
+      "raw": "Stage D:   20%  with skeletal metastases",
+      "frequency": "20%"
+    },
+    {
+      "name": "Focal lytic lesion (usual):",
+      "raw": "Focal lytic lesion (usual):",
+      "frequency": null
+    },
+    {
+      "name": "Focal sclerotic lesion (eg, medulloblastoma, retinoblastoma):",
+      "raw": "Focal sclerotic lesion (eg, medulloblastoma, retinoblastoma):",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse heterogeneous lesions (eg, neuroblastoma):",
+      "raw": "Diffuse heterogeneous lesions (eg, neuroblastoma):",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse homogeneous lesions:",
+      "raw": "Diffuse homogeneous lesions:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Skeletal Metastases in Adult mnemonic:   Common Bone Lesions Can Kill The Patient Pathophysiology:   accumulation of tracer at sites of reactive bone formation False-negative scan:   very aggressive metastases False-positive scan:   degeneration, healing fractures, metabolic disorders Baseline bone scan: (a)  high sensitivity for many metastatic tumors to bone (particularly carcinoma of breast, lung, prostate); 5% of metastases have normal scan; 5-40% occur in appendicular skeleton (b)  substantially less sensitive than radiographs in infiltrative marrow lesions (multiple myeloma, neuroblastom"
+}

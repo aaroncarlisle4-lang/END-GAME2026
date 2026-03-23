@@ -1,0 +1,72 @@
+{
+  "finding": "Eosinophilic Diseases with Cardiac Involvement",
+  "slug": "eosinophilic_diseases_with_cardiac_involvement",
+  "chapter": "VENA CAVA",
+  "source_file": "processed_clusters/vena_cava/eosinophilic_diseases_with_cardiac_involvement.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Eosinophilic heart disease",
+      "raw": "Eosinophilic heart disease",
+      "frequency": null
+    },
+    {
+      "name": "Churg-Strauss syndrome",
+      "raw": "Churg-Strauss syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Early giant cell myocarditis",
+      "raw": "Early giant cell myocarditis",
+      "frequency": null
+    },
+    {
+      "name": "Drug-induced hypersensitivity reaction",
+      "raw": "Drug-induced hypersensitivity reaction",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic infection",
+      "raw": "Parasitic infection",
+      "frequency": null
+    },
+    {
+      "name": "Tropical endomyocardial fibrosis",
+      "raw": "Tropical endomyocardial fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy",
+      "raw": "Malignancy",
+      "frequency": null
+    },
+    {
+      "name": "LARGE-VESSEL VASCULITIS",
+      "raw": "LARGE-VESSEL VASCULITIS",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell arteritis",
+      "raw": "Giant cell arteritis (= temporal arteritis)",
+      "frequency": null
+    },
+    {
+      "name": "Takayasu arteritis",
+      "raw": "Takayasu arteritis",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Reiter syndrome",
+      "raw": "Reiter syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Vasculitis =  inflammation and necrosis of vessel wall"
+}

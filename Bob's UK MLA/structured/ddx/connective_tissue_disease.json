@@ -1,0 +1,52 @@
+{
+  "finding": "Connective Tissue Disease",
+  "slug": "connective_tissue_disease",
+  "chapter": "GENERALIZED CALCINOSIS",
+  "source_file": "processed_clusters/generalized_calcinosis/connective_tissue_disease.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Features:",
+      "raw": "Features:",
+      "frequency": null
+    },
+    {
+      "name": "Laboratory findings:",
+      "raw": "Laboratory findings:",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis positive rheumatoid factor, prominent morning stiffness, symmetric erosive arthritis",
+      "raw": "Rheumatoid arthritis positive rheumatoid factor, prominent morning stiffness, symmetric erosive arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus malar rash, photosensitivity, serositis, renal disorders with hemolytic anemia, leukopenia, lymphopenia, thrombocytopenia, positive ANA",
+      "raw": "Systemic lupus erythematosus malar rash, photosensitivity, serositis, renal disorders with hemolytic anemia, leukopenia, lymphopenia, thrombocytopenia, positive ANA",
+      "frequency": null
+    },
+    {
+      "name": "Sjögren syndrome dry eyes + mouth, abnormal Schirmer test",
+      "raw": "Sjögren syndrome dry eyes + mouth, abnormal Schirmer test",
+      "frequency": null
+    },
+    {
+      "name": "Progressive systemic sclerosis",
+      "raw": "Progressive systemic sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Polymyositis, dermatomyositis heliotrope rash over eyes, proximal muscle weakness, elevated muscle enzymes, inflammation at muscle biopsy",
+      "raw": "Polymyositis, dermatomyositis heliotrope rash over eyes, proximal muscle weakness, elevated muscle enzymes, inflammation at muscle biopsy",
+      "frequency": null
+    },
+    {
+      "name": "Mixed connective tissue disease",
+      "raw": "Mixed connective tissue disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  CTD = [COLLAGEN VASCULAR DISEASE] =  heterogeneous group of immunologically mediated systemic inflammatory disorders that may affect various organs but share a number of clinical + laboratory features (a)  relatively specific: arthritis, myositis, Raynaud phenomenon with digital ulceration, tethered skin in extremities + trunk, malar rash sparing nasolabial folds, morning stiffness (b)  relatively nonspecific: polyarthralgias (most common initial symptom), myalgias, mottling of extremities, muscle weakness + tenderness (a)  relatively specific: ANA in peripheral rim / nucleolar pattern, ant"
+}

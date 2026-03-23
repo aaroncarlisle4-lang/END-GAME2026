@@ -1,0 +1,27 @@
+{
+  "finding": "Enhancement of Normal Parenchyma on MR",
+  "slug": "enhancement_of_normal_parenchyma_on_mr_96f97a",
+  "chapter": "BREAST ANATOMY",
+  "source_file": "processed_clusters/breast_anatomy/enhancement_of_normal_parenchyma_on_mr_96f97a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "varies among women + within same woman over time",
+      "raw": "varies among women + within same woman over time",
+      "frequency": null
+    },
+    {
+      "name": "Falsely positive ← focal / regional / asymmetric background parenchymal enhancement",
+      "raw": "Falsely positive ← focal / regional / asymmetric background parenchymal enhancement",
+      "frequency": null
+    },
+    {
+      "name": "Falsely negative ← moderate / marked BPE",
+      "raw": "Falsely negative ← moderate / marked BPE",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  Background Parenchymal Enhancement (BPE) ◊  Breast enhancement does NOT correlate with breast density Proper enhancement present if: ›  veins contrasted on MIP ›  both internal mammary arteries depicted ›  nipple enhances Common pattern of enhancement: √  bilateral symmetric diffuse enhancement: √  slow minimal / early enhancement √  persistent delayed enhancement √  linear patchy enhancement √  confluent enhancement on late dynamic scan Distribution of enhancement: √  bilateral symmetric enhancement with (a)  moderate / marked degree of BPE (b)  diffuse / regional distribution (c)  homogen"
+}

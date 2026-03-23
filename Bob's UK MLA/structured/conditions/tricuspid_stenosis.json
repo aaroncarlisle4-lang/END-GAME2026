@@ -1,0 +1,41 @@
+{
+  "name": "TRICUSPID STENOSIS",
+  "slug": "tricuspid_stenosis",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/tricuspid_stenosis.md",
+  "definition": "thickening + fusion of tricuspid valve apparatus",
+  "demographics": {},
+  "dominant_finding": "narrowed valve annulus",
+  "distribution": "enlargement of superior + inferior venae cavae",
+  "discriminating_features": [
+    "often accompanied by mitral + aortic valve disease",
+    "NO valve calcifications",
+    "thickened tricuspid valve leaflets: shortening of chordae tendineae + fusion of edges of",
+    "narrowed valve annulus",
+    "RA dilatation"
+  ],
+  "other_features": {
+    "general": [
+      "often accompanied by mitral + aortic valve disease",
+      "NO valve calcifications"
+    ],
+    "CXR": [
+      "RA enlargement + dilatation of both venae cavae",
+      "normal pulmonary arteries",
+      "mean transvalvular pressure gradient of > 5 mmHg (clinically most relevant)",
+      "inflow time-velocity integral > 60 cm",
+      "pressure half-time > 190 msec",
+      "valve area by continuity equation of < 1 cm2"
+    ],
+    "CT": [
+      "thickened tricuspid valve leaflets: shortening of chordae tendineae + fusion of edges of",
+      "narrowed valve annulus",
+      "RA dilatation",
+      "enlargement of superior + inferior venae cavae",
+      "hepatic venous congestion"
+    ]
+  },
+  "clinical": {
+    "Cx": "often coexisting tricuspid regurgitation exacerbating RA enlargement → increasing risk for"
+  }
+}

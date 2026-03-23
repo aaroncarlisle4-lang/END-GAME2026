@@ -1,0 +1,37 @@
+{
+  "finding": "Narrowing of Stomach",
+  "slug": "narrowing_of_stomach",
+  "chapter": "Gastric Atony",
+  "source_file": "processed_clusters/gastric_atony/narrowing_of_stomach.md",
+  "quality_score": 0.533,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "MALIGNANCY",
+      "raw": "MALIGNANCY",
+      "frequency": null
+    },
+    {
+      "name": "Scirrhous gastric carcinoma",
+      "raw": "Scirrhous gastric carcinoma (involving portion / all of stomach)",
+      "frequency": null
+    },
+    {
+      "name": "Hodgkin lymphoma, NHL",
+      "raw": "Hodgkin lymphoma, NHL",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic involvement ← carcinoma of breast, pancreatic carcinoma, colonic carcinoma",
+      "raw": "Metastatic involvement ← carcinoma of breast, pancreatic carcinoma, colonic carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "MALIGNANCY": [],
+    "Scirrhous gastric carcinoma": [],
+    "Hodgkin lymphoma, NHL": [],
+    "Metastatic involvement ← carcinoma of breast, pancreatic carcinoma, colonic carcinoma": []
+  },
+  "context": "=  linitis plastica type of stenosis"
+}

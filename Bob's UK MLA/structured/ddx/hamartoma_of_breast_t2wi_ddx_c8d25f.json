@@ -1,0 +1,22 @@
+{
+  "finding": "Hamartoma Of Breast — T2WI (DDx)",
+  "slug": "hamartoma_of_breast_t2wi_ddx_c8d25f",
+  "chapter": "Hamartoma Of Breast",
+  "source_file": "processed_clusters/hamartoma_of_breast/hamartoma_of_breast_t2wi_ddx_c8d25f.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "liposarcoma",
+      "raw": "liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Cowden disease",
+      "raw": "Cowden disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "low intensity for cystic component | no / strong enhancement in parenchymal component with continuous postinitial increase | intermediate intensity for parenchymal + lipomatous components | high intensity for cystic component"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "B. Secondary tumor",
+  "slug": "b_secondary_tumor_46d370",
+  "chapter": "B. HERNIA",
+  "source_file": "processed_clusters/b_hernia/b_secondary_tumor_46d370.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoproliferative tumor: leukemia, lymphoma",
+      "raw": "Lymphoproliferative tumor: leukemia, lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Solid tumor: Wilms, neuroblastoma, rhabdomyosarcoma, retinoblastoma",
+      "raw": "Solid tumor: Wilms, neuroblastoma, rhabdomyosarcoma, retinoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Others: sinus histiocytosis, Langerhans cell histiocytosis, tuberculous orchitis",
+      "raw": "Others: sinus histiocytosis, Langerhans cell histiocytosis, tuberculous orchitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Paratesticular Mass ◊  Only 4% of all scrotal tumors! paratesticular =   group of extratesticular lesions not readily identified as originating from a particular tissue"
+}

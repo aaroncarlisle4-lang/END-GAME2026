@@ -1,0 +1,22 @@
+{
+  "finding": "Osteofibrous Dysplasia (DDx)",
+  "slug": "osteofibrous_dysplasia_ddx_284b34",
+  "chapter": "Osteofibrous Dysplasia",
+  "source_file": "processed_clusters/osteofibrous_dysplasia/osteofibrous_dysplasia_ddx_284b34.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibrous dysplasia",
+      "raw": "fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cortex thin / invisible | periosteal expansion | sclerotic margin (DDx: nonosteogenic fibroma, chondromyxoid fibroma) | spontaneous regression in ⅓"
+}

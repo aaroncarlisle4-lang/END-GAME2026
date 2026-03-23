@@ -1,0 +1,28 @@
+{
+  "name": "NABOTHIAN CYST",
+  "slug": "nabothian_cyst",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/nabothian_cyst.md",
+  "definition": "most common benign masslike lesion of cervix",
+  "demographics": {
+    "Incidence": "in women during reproductive years",
+    "Size": "< 1 cm (majority); may enlarge to become symptomatic"
+  },
+  "dominant_finding": "may increase in echogenicity ← proteinaceous / hemorrhagic content",
+  "distribution": "",
+  "discriminating_features": [
+    "simple anechoic cyst without vascularity (incidentally detected at imaging)",
+    "may increase in echogenicity ← proteinaceous / hemorrhagic content",
+    "\"tunnel cluster\" (in up to 8%) = multicystic dilatation of endocervical glands mimicking"
+  ],
+  "other_features": {
+    "general": [
+      "simple anechoic cyst without vascularity (incidentally detected at imaging)",
+      "may increase in echogenicity ← proteinaceous / hemorrhagic content",
+      "\"tunnel cluster\" (in up to 8%) = multicystic dilatation of endocervical glands mimicking"
+    ]
+  },
+  "clinical": {
+    "Rx": "none (unless symptomatic)"
+  }
+}

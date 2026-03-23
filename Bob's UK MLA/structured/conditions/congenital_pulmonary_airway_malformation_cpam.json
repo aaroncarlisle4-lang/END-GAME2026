@@ -1,0 +1,70 @@
+{
+  "name": "CONGENITAL PULMONARY AIRWAY MALFORMATION (CPAM",
+  "slug": "congenital_pulmonary_airway_malformation_cpam",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/congenital_pulmonary_airway_malformation_cpam.md",
+  "definition": "CONGENITAL CYSTIC ADENOMATOID MALFORMATION (CCAM) congenital abnormality of the lung characterized by an intralobar mass of disorganized ACINAR DYSPLASIA OF THE LUNG (previous designation) severe global arrest of lung development",
+  "demographics": {
+    "Prevalence": "1÷25,000-35,000 pregnancies; 25% of congenital lung disorders; 30-40% of all",
+    "Path": "proliferation of bronchial structures at the expense of alveolar saccular development;",
+    "Histo": "acinar dysgenesis / dysplasia = no cysts / very small ones (<0.5 cm)",
+    "Location": "in any lobe"
+  },
+  "dominant_finding": "surrounding focal emphysematous changes",
+  "distribution": "in any lobe",
+  "discriminating_features": [
+    "almost always unilateral expansile mass with well-defined margins (80%) ← retained fetal",
+    "numerous variable-sized anechoic spaces of 1-10 cm in diameter intermixed with",
+    "hyperintense uni- / multilocular lesion with discrete walls on T2WI",
+    "mass of variable density ± mediastinal shift on postnatal radiograph",
+    "round soft-tissue mass gradually filling with air on neonatal radiographs ← delayed"
+  ],
+  "other_features": {
+    "general": [
+      "numerous variable-sized anechoic spaces of 1-10 cm in diameter intermixed with",
+      "hyperintense uni- / multilocular lesion with discrete walls on T2WI",
+      "mass of variable density ± mediastinal shift on postnatal radiograph",
+      "round soft-tissue mass gradually filling with air on neonatal radiographs ← delayed",
+      "solitary well-defined air-filled cyst with thin wall",
+      "multiple air-filled cysts of varying sizes",
+      "± air fluid levels",
+      "well-defined air-filled spaces on CT",
+      "± abnormal systemic arterial supply",
+      "echogenic mass with multiple small 5-20 mm cysts",
+      "variable appearance with cystic + solid T2 components",
+      "heterogeneous intrapulmonary mass with small air-filled cystic areas on postnatal",
+      "± abnormal systemic arterial supply = hybrid lesion demonstrating features of CPAM +",
+      "large homogeneously echogenic mass compared with liver WITHOUT discernible cystic",
+      "homogeneously hyperintense solid mass on T2WI",
+      "ill-defined area of increased attenuation on CT",
+      "large cyst up to 10 cm in diameter indistinguishable from a low-grade cystic"
+    ],
+    "CXR": [
+      "may appear normal due to prenatal regression",
+      "almost always unilateral expansile mass with well-defined margins (80%) ← retained fetal",
+      "multiple air-filled cysts ← progressive expansion of cysts ← communication with",
+      "effects of compression of adjacent lung:",
+      "contralateral shift of mediastinum (87%)",
+      "ipsilateral hypoplasia of uninvolved lung",
+      "proper position of abdominal viscera",
+      "spontaneous pneumothorax (late sign)"
+    ],
+    "CT": [
+      "solitary / multiple thin-walled cysts filled with fluid / air ± air-fluid / gas-liquid levels",
+      "surrounding focal emphysematous changes",
+      "lesion with single large / multiple large / multiple small cysts",
+      "echogenic (= nondiscernible microcystic) solid mass",
+      "rapid growth at 20-26 weeks GA followed by stabilization",
+      "contralateral mediastinal shift (89%)",
+      "polyhydramnios (25-75%) ? ← compression of esophagus / increased fluid production by",
+      "normal amniotic fluid (28%) / oligohydramnios (6%)",
+      "fetal ascites (62-71%)",
+      "fetal hydrops in 33-81% ← ⇓ venous return ← compression of heart / vena cava (= most"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "excellent following resection",
+    "Cx": "ipsi- / bilateral pulmonary hypoplasia",
+    "Rx": "(1)  Thoracoamniotic shunting for single large cyst with fetal hydrops"
+  }
+}

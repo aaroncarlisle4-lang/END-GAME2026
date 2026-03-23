@@ -1,0 +1,72 @@
+{
+  "finding": "Cortical Nephrocalcinosis (5%",
+  "slug": "cortical_nephrocalcinosis_5",
+  "chapter": "D. URINARY STASIS",
+  "source_file": "processed_clusters/d_urinary_stasis/cortical_nephrocalcinosis_5.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute cortical necrosis",
+      "raw": "Acute cortical necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic glomerulonephritis",
+      "raw": "Chronic glomerulonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Alport syndrome",
+      "raw": "Alport syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Congenital oxalosis, primary hyperoxaluria",
+      "raw": "Congenital oxalosis, primary hyperoxaluria",
+      "frequency": null
+    },
+    {
+      "name": "Chronic paraneoplastic hypercalcemia",
+      "raw": "Chronic paraneoplastic hypercalcemia",
+      "frequency": null
+    },
+    {
+      "name": "Toxic: ethylene glycol, methoxyflurane",
+      "raw": "Toxic: ethylene glycol, methoxyflurane",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease",
+      "raw": "Sickle cell disease",
+      "frequency": null
+    },
+    {
+      "name": "Rejected renal transplant",
+      "raw": "Rejected renal transplant",
+      "frequency": null
+    },
+    {
+      "name": "Cortical necrosis",
+      "raw": "Cortical necrosis (acute)",
+      "frequency": null
+    },
+    {
+      "name": "Oxalosis",
+      "raw": "Oxalosis",
+      "frequency": null
+    },
+    {
+      "name": "Alport syndrome",
+      "raw": "Alport syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Glomerulonephritis",
+      "raw": "Glomerulonephritis (chronic)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  calcium deposition in renal cortex Frequency:   5% of all nephrocalcinoses Cause: √  thin rim of calcification with a \"tramline\" appearance √  spotty appearance (= preferential deposition in necrotic glomeruli) US: √  homogeneously increased echogenicity of renal parenchyma > liver echogenicity"
+}

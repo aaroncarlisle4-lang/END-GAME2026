@@ -1,0 +1,27 @@
+{
+  "finding": "Sarcoma Of Breast (DDx)",
+  "slug": "sarcoma_of_breast_ddx_83f76a",
+  "chapter": "Sarcoma Of Breast",
+  "source_file": "processed_clusters/sarcoma_of_breast/sarcoma_of_breast_ddx_83f76a.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "phylloides tumor",
+      "raw": "phylloides tumor",
+      "frequency": null
+    },
+    {
+      "name": "lactating breast",
+      "raw": "lactating breast",
+      "frequency": null
+    },
+    {
+      "name": "juvenile hypertrophy",
+      "raw": "juvenile hypertrophy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "pronounced early arterial enhancement with higher pathologic tumor grade | prolonged enhancement ← blood-filled vascular spaces | small focus of enhancement in irradiated thickened skin | FDG-avid"
+}

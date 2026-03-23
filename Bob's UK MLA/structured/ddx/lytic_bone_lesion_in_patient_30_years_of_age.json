@@ -1,0 +1,42 @@
+{
+  "finding": "Lytic Bone Lesion in Patient < 30 Years of Age",
+  "slug": "lytic_bone_lesion_in_patient_30_years_of_age",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/lytic_bone_lesion_in_patient_30_years_of_age.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chondroblastoma",
+      "raw": "Chondroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Solitary bone cyst",
+      "raw": "Solitary bone cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

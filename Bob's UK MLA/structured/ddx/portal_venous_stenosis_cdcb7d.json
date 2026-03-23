@@ -1,0 +1,32 @@
+{
+  "finding": "Portal Venous Stenosis",
+  "slug": "portal_venous_stenosis_cdcb7d",
+  "chapter": "D. PERSISTENT DUCTUS VENOSUS",
+  "source_file": "processed_clusters/d_persistent_ductus_venosus/portal_venous_stenosis_cdcb7d.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tumor encasement: locally recurrent periampullary cancers = pancreatic carcinoma, hepatocellular carcinoma, cholangiocarcinoma, metastasis",
+      "raw": "Tumor encasement: locally recurrent periampullary cancers = pancreatic carcinoma, hepatocellular carcinoma, cholangiocarcinoma, metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation: acute pancreatitis",
+      "raw": "Inflammation: acute pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Surgical complication: liver transplantation (1%), partial hepatectomy, pancreaticoduodenectomy",
+      "raw": "Surgical complication: liver transplantation (1%), partial hepatectomy, pancreaticoduodenectomy",
+      "frequency": "1%"
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause: √  focal segment of vessel narrowing ± poststenotic dilatation √  inhomogeneous peripheral subcapsular increase in arterial inflow during hepatic arterial phase √  secondary portal hypertension → increased number and size of collaterals US: √  focal color aliasing √  accelerated flow across stenosis = 4-fold velocity gradient √  spectral broadening of waveform (= poststenotic turbulence) Cx:     portal venous hypertension with massive intractable ascites + recurrent variceal bleeding Rx:     balloon angioplasty, stent placement Portal Venous Gas ◊  Should be considered a life-threatenin"
+}

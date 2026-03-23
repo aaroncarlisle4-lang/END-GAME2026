@@ -1,0 +1,37 @@
+{
+  "finding": "Pilomatricoma (DDx)",
+  "slug": "pilomatricoma_ddx",
+  "chapter": "Pilomatricoma",
+  "source_file": "processed_clusters/pilomatricoma/pilomatricoma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "calcified lymph node",
+      "raw": "calcified lymph node",
+      "frequency": null
+    },
+    {
+      "name": "ossifying hematoma",
+      "raw": "ossifying hematoma",
+      "frequency": null
+    },
+    {
+      "name": "hemangioma with phlebolith",
+      "raw": "hemangioma with phlebolith",
+      "frequency": null
+    },
+    {
+      "name": "granuloma annulare",
+      "raw": "granuloma annulare",
+      "frequency": null
+    },
+    {
+      "name": "dermatofibrosarcoma protuberans",
+      "raw": "dermatofibrosarcoma protuberans",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "homogeneous intermediate signal intensity on T1WI | heterogeneous intermediate signal intensity on T2WI | peritumoral edema / inflammation | enhancement of connective tissue capsule but not center"
+}

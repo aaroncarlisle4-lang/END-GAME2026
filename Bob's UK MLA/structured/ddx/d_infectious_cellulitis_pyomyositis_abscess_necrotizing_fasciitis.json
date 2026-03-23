@@ -1,0 +1,27 @@
+{
+  "finding": "D. INFECTIOUS cellulitis, pyomyositis, abscess, necrotizing fasciitis",
+  "slug": "d_infectious_cellulitis_pyomyositis_abscess_necrotizing_fasciitis",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/d_infectious_cellulitis_pyomyositis_abscess_necrotizing_fasciitis.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Actinomycosis",
+      "raw": "Actinomycosis (parenchymal infiltrate, pleural effusion, chest wall mass, rib destruction, cutaneous fistulas)",
+      "frequency": null
+    },
+    {
+      "name": "Aspergillosis, nocardiosis, blastomycosis, tuberculosis",
+      "raw": "Aspergillosis, nocardiosis, blastomycosis, tuberculosis (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Pyogenic: Staphylococcus, Klebsiella",
+      "raw": "Pyogenic: Staphylococcus, Klebsiella",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

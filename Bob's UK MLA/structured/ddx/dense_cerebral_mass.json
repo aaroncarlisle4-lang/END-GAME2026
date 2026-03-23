@@ -1,0 +1,37 @@
+{
+  "finding": "Dense Cerebral Mass",
+  "slug": "dense_cerebral_mass",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/dense_cerebral_mass.md",
+  "quality_score": 0.533,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "VESSEL",
+      "raw": "VESSEL",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformation",
+      "raw": "Arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma (acute / subacute)",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "VESSEL": [],
+    "Aneurysm": [],
+    "Arteriovenous malformation": [],
+    "Hematoma": []
+  },
+  "context": "Substrate:   calcification / hemorrhage / dense protein"
+}

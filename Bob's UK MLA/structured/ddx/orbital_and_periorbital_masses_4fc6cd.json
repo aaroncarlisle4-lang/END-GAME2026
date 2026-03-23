@@ -1,0 +1,35 @@
+{
+  "finding": "Orbital and Periorbital Masses",
+  "slug": "orbital_and_periorbital_masses_4fc6cd",
+  "chapter": "Abnormal Cisterna Magna",
+  "source_file": "processed_clusters/abnormal_cisterna_magna/orbital_and_periorbital_masses_4fc6cd.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dacryocystocele [Anterior encephalocele]",
+      "raw": "Dacryocystocele",
+      "frequency": null,
+      "sites": [
+        "Anterior encephalocele"
+      ]
+    },
+    {
+      "name": "Glioma",
+      "raw": "Glioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Cystic Lesions of Epididymis",
+  "slug": "cystic_lesions_of_epididymis_592513",
+  "chapter": "Enlargement and Hyperemia of Epididymis",
+  "source_file": "processed_clusters/enlargement_and_hyperemia_of_epididymis/cystic_lesions_of_epididymis_592513.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epididymal cyst",
+      "raw": "Epididymal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Spermatocele",
+      "raw": "Spermatocele",
+      "frequency": null
+    },
+    {
+      "name": "Cystic degeneration of epididymis",
+      "raw": "Cystic degeneration of epididymis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   in up to 40% May be associated with:   intratesticular tubular ectasia √  single / multiple / bilateral DDx:   loculated hydrocele √  may contain low-level echoes"
+}

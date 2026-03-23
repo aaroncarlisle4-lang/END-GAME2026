@@ -1,0 +1,57 @@
+{
+  "finding": "Periportal Lymphedema",
+  "slug": "periportal_lymphedema_e9b914",
+  "chapter": "LIVER CIRCULATION",
+  "source_file": "processed_clusters/liver_circulation/periportal_lymphedema_e9b914.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute hepatitis",
+      "raw": "Acute hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Cirrhosis",
+      "raw": "Cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic venoocclusive disease",
+      "raw": "Hepatic venoocclusive disease",
+      "frequency": null
+    },
+    {
+      "name": "Liver / bone marrow transplant",
+      "raw": "Liver / bone marrow transplant",
+      "frequency": null
+    },
+    {
+      "name": "Overhydration",
+      "raw": "Overhydration",
+      "frequency": null
+    },
+    {
+      "name": "Blunt abdominal trauma ± liver injuries",
+      "raw": "Blunt abdominal trauma ± liver injuries",
+      "frequency": null
+    },
+    {
+      "name": "Chronic congestive heart failure",
+      "raw": "Chronic congestive heart failure",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac tamponade",
+      "raw": "Cardiac tamponade",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy: hepatic / retroperitoneal",
+      "raw": "Malignancy: hepatic / retroperitoneal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  ill-defined hypodensity at porta hepatis / hypodensity parallel to portal vein"
+}

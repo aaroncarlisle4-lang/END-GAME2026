@@ -1,0 +1,22 @@
+{
+  "finding": "Erdheim-Chester Disease — Retroperitoneum (DDx)",
+  "slug": "erdheim_chester_disease_retroperitoneum_ddx_cff6ad",
+  "chapter": "Erdheim-Chester Disease",
+  "source_file": "processed_clusters/erdheim_chester_disease/erdheim_chester_disease_retroperitoneum_ddx_cff6ad.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "retroperitoneal fibrosis √  low SI on T1WI + T2WI with minimal contrast enhancement",
+      "raw": "retroperitoneal fibrosis √  low SI on T1WI + T2WI with minimal contrast enhancement",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "coarsened trabecular pattern | patchy areas of T2-signal hyperintensity | sparing of epiphyses + hands and feet + axial skeleton | perirenal rind of soft tissue with a hairy appearance encasing kidneys, ureters ± aorta"
+}

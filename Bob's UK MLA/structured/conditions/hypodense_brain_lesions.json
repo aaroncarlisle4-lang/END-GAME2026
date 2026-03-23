@@ -1,0 +1,56 @@
+{
+  "name": "HYPODENSE BRAIN LESIONS",
+  "slug": "hypodense_brain_lesions",
+  "chapter": "TRIGEMINAL NEUROPATHY",
+  "source_file": "processed_clusters/disease_entries/trigeminal_neuropathy/hypodense_brain_lesions.md",
+  "definition": "increase in brain volume ← increased tissue-water content (80% for gray matter + 68% for",
+  "demographics": {
+    "Location": "in any compartment; most often in subdural space over frontal lobe"
+  },
+  "dominant_finding": "areas of hypodensity",
+  "distribution": "in any compartment; most often in subdural space over frontal lobe",
+  "discriminating_features": [
+    "decreased ADC value (dark)",
+    "lack of contrast enhancement means breakdown of blood-brain barrier is NOT the",
+    "increased ADC value (bright)",
+    "decreased distinction between gray + white matter",
+    "compressed slitlike lateral ventricles"
+  ],
+  "other_features": {
+    "general": [
+      "decreased ADC value (dark)",
+      "lack of contrast enhancement means breakdown of blood-brain barrier is NOT the",
+      "increased ADC value (bright)",
+      "decreased distinction between gray + white matter",
+      "compressed slitlike lateral ventricles",
+      "compression of cerebral sulci + perimesencephalic cisterns"
+    ],
+    "CT": [
+      "areas of hypodensity",
+      "mass effect: flattening of gyri, displacement + deformation of ventricles, midline shift",
+      "return to normal: from nonhemorrhagic edema / brain atrophy, from white matter shearing"
+    ],
+    "MR": [
+      "decreased intensity on T1WI",
+      "increased intensity on T2WI",
+      "enhancement with gadolinium"
+    ],
+    "US": [
+      "generalized / focal increase of parenchymal echogenicity with featureless appearance",
+      "decreased resistive indices",
+      "curvilinear margins",
+      "no detectable wall / associated soft-tissue mass",
+      "homogeneous signal intensity identical to CSF",
+      "absence of surrounding edema / gliosis",
+      "NO contrast enhancement",
+      "CSF density centrally",
+      "intrathecal contrast enters central cavity",
+      "abnormal contrast enhancement after 1 week",
+      "well-defined low-attenuation region without enhancement after 2-4 weeks",
+      "well-defined contrast enhancement"
+    ]
+  },
+  "clinical": {
+    "Cx": "(1)  CSF rhinorrhea (50%)"
+  }
+}

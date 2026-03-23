@@ -1,0 +1,57 @@
+{
+  "finding": "HOLOPROSENCEPHALY",
+  "slug": "holoprosencephaly",
+  "chapter": "HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS",
+  "source_file": "processed_clusters/hemophagocytic_lymphohistiocytosis/holoprosencephaly.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Anophthalmia",
+      "raw": "Anophthalmia",
+      "frequency": null
+    },
+    {
+      "name": "Microphthalmia",
+      "raw": "Microphthalmia",
+      "frequency": null
+    },
+    {
+      "name": "Aplasia of pituitary gland",
+      "raw": "Aplasia of pituitary gland",
+      "frequency": null
+    },
+    {
+      "name": "Olfactogenital dysplasia",
+      "raw": "Olfactogenital dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Septooptic dysplasia Prognosis:   not uniformly lethal depending on severity of brain and facial malformations, presence of chromosomal abnormalities, involvement of other organs, and presence of multiple anomaly syndrome",
+      "raw": "Septooptic dysplasia Prognosis:   not uniformly lethal depending on severity of brain and facial malformations, presence of chromosomal abnormalities, involvement of other organs, and presence of multiple anomaly syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Severe hydrocephalus",
+      "raw": "Severe hydrocephalus (roughly symmetrically thinned cortex)",
+      "frequency": null
+    },
+    {
+      "name": "Dandy-Walker cyst",
+      "raw": "Dandy-Walker cyst (normal supratentorial ventricular system)",
+      "frequency": null
+    },
+    {
+      "name": "Hydranencephaly",
+      "raw": "Hydranencephaly (frontal + parietal cortex most severely affected)",
+      "frequency": null
+    },
+    {
+      "name": "Agenesis of corpus callosum with midline cyst",
+      "raw": "Agenesis of corpus callosum with midline cyst (lateral ventricles widely separated with pointed superolateral margin)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  HPE = spectrum of congenital structural forebrain + midface anomalies characterized by failure of prosencephalon to divide (= cleavage disorder) → varying degrees of frontal lobe \"fusion\" (= noncleavage of cerebral hemispheres) Etiology:   multifactorial with environmental factors (maternal diabetes, ethyl alcohol, cigarette smoking, retinoic acid); chromosomal and genetic abnormalities; teratogen exposure; syndromic associations Classic holoprosencephaly is a primary defect of ventral induction and patterning → total / partial failure of separation of prosencephalon into 2 separate hemisph"
+}

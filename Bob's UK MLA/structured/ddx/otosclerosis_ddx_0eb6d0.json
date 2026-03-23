@@ -1,0 +1,27 @@
+{
+  "finding": "Otosclerosis (DDx)",
+  "slug": "otosclerosis_ddx_0eb6d0",
+  "chapter": "Otosclerosis",
+  "source_file": "processed_clusters/otosclerosis/otosclerosis_ddx_0eb6d0.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "osteogenesis imperfecta",
+      "raw": "osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "syphilis",
+      "raw": "syphilis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "widening of extracerebral space | compression of adjacent sulci"
+}

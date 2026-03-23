@@ -1,0 +1,97 @@
+{
+  "finding": "C. UNUSUAL ABNORMALITIES",
+  "slug": "c_unusual_abnormalities_0224ba",
+  "chapter": "G. INTUSSUSCEPTION",
+  "source_file": "processed_clusters/g_intussusception/c_unusual_abnormalities_0224ba.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ileocecal diverticulitis",
+      "raw": "Ileocecal diverticulitis (in 50% < age 30 years)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Solitary benign ulcer of the cecum",
+      "raw": "Solitary benign ulcer of the cecum",
+      "frequency": null
+    },
+    {
+      "name": "Adherent fecolith: eg, in cystic fibrosis",
+      "raw": "Adherent fecolith: eg, in cystic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Burkitt lymphoma",
+      "raw": "Burkitt lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma",
+      "raw": "Carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Enteritis",
+      "raw": "Enteritis",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Ulcerative colitis",
+      "raw": "Ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "Mucocele of appendix",
+      "raw": "Mucocele of appendix",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Intussusception",
+      "raw": "Intussusception",
+      "frequency": null
+    },
+    {
+      "name": "Periappendiceal abscess",
+      "raw": "Periappendiceal abscess",
+      "frequency": null
+    },
+    {
+      "name": "Stump of the appendix",
+      "raw": "Stump of the appendix",
+      "frequency": null
+    },
+    {
+      "name": "Ameboma",
+      "raw": "Ameboma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

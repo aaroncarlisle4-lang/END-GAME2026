@@ -1,0 +1,33 @@
+{
+  "name": "GLIOMATOSIS PERITONEI",
+  "slug": "gliomatosis_peritonei",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/gliomatosis_peritonei.md",
+  "definition": "benign mature glial implants throughout peritoneum",
+  "demographics": {
+    "Associated with": "solid / immature ovarian teratomas, ventriculoperitoneal shunts",
+    "Histo": "benign mature glial tissue with delicate fibrillar processes and scattered supporting"
+  },
+  "dominant_finding": "peritoneal nodules + masses of soft-tissue density",
+  "distribution": "",
+  "discriminating_features": [
+    "peritoneal nodules + masses of soft-tissue density",
+    "omental caking",
+    "ascites",
+    "adnexal / pelvic mass suggestive of teratoma",
+    "multilobular masses of homogeneously high SI on T2WI"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "peritoneal nodules + masses of soft-tissue density",
+      "omental caking",
+      "ascites",
+      "adnexal / pelvic mass suggestive of teratoma"
+    ],
+    "MR": [
+      "multilobular masses of homogeneously high SI on T2WI"
+    ]
+  },
+  "clinical": {}
+}

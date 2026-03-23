@@ -1,0 +1,200 @@
+{
+  "finding": "Acute Esophagitis",
+  "slug": "acute_esophagitis",
+  "chapter": "ESOPHAGITIS",
+  "source_file": "processed_clusters/esophagitis/acute_esophagitis.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Corrosives, Crohn disease",
+      "raw": "Corrosives, Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Reflux",
+      "raw": "Reflux",
+      "frequency": null
+    },
+    {
+      "name": "Infection, Intubation",
+      "raw": "Infection, Intubation",
+      "frequency": null
+    },
+    {
+      "name": "Epidermolysis bullosa",
+      "raw": "Epidermolysis bullosa",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "severe odynophagia",
+      "raw": "severe odynophagia (= painful swallowing from segmental spasm); dysphagia (= difficulty swallowing)",
+      "frequency": null
+    },
+    {
+      "name": "intense retro- / substernal pain",
+      "raw": "intense retro- / substernal pain",
+      "frequency": null
+    },
+    {
+      "name": "associated with thrush (= oropharyngeal moniliasis) in 20-50-80%",
+      "raw": "associated with thrush (= oropharyngeal moniliasis) in 20-50-80%",
+      "frequency": "80%"
+    },
+    {
+      "name": "Systemic candidiasis",
+      "raw": "Systemic candidiasis (\"microabscesses\" in liver, spleen, kidney)",
+      "frequency": null
+    },
+    {
+      "name": "Gastric bezoar ← large fungus ball",
+      "raw": "Gastric bezoar ← large fungus ball (after long-standing esophageal candidiasis)",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal / gastric perforation during ulcerative stage",
+      "raw": "Esophageal / gastric perforation during ulcerative stage",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma in injured segment",
+      "raw": "Squamous cell carcinoma in injured segment",
+      "frequency": null
+    },
+    {
+      "name": "history of taking medication with little / no water immediately before going to bed; severe odynophagia",
+      "raw": "history of taking medication with little / no water immediately before going to bed; severe odynophagia",
+      "frequency": null
+    },
+    {
+      "name": "rapid clinical improvement after withdrawal of offending agent Location:   midesophagus at site of normal extrinsic impressions by aortic arch / left mainstem bronchus / left atrium",
+      "raw": "rapid clinical improvement after withdrawal of offending agent Location:   midesophagus at site of normal extrinsic impressions by aortic arch / left mainstem bronchus / left atrium",
+      "frequency": null
+    },
+    {
+      "name": "Frequency of reflux",
+      "raw": "Frequency of reflux",
+      "frequency": null
+    },
+    {
+      "name": "Adequacy of clearing mechanism",
+      "raw": "Adequacy of clearing mechanism",
+      "frequency": null
+    },
+    {
+      "name": "Volume of refluxed material",
+      "raw": "Volume of refluxed material",
+      "frequency": null
+    },
+    {
+      "name": "Potency of refluxed material",
+      "raw": "Potency of refluxed material",
+      "frequency": null
+    },
+    {
+      "name": "Tissue resistance [Lower esophageal sphincter]",
+      "raw": "Tissue resistance",
+      "frequency": null,
+      "sites": [
+        "Lower esophageal sphincter"
+      ]
+    },
+    {
+      "name": "Phrenoesophageal membrane",
+      "raw": "Phrenoesophageal membrane",
+      "frequency": null
+    },
+    {
+      "name": "Length of subdiaphragmatic esophagus",
+      "raw": "Length of subdiaphragmatic esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Gastroesophageal angle of His (70-110°) May be associated with:   sliding hiatal hernia (in > 90%), scleroderma, nasogastric intubation",
+      "raw": "Gastroesophageal angle of His (70-110°) May be associated with:   sliding hiatal hernia (in > 90%), scleroderma, nasogastric intubation",
+      "frequency": "90%"
+    },
+    {
+      "name": "heartburn, epigastric discomfort, choking, globus hystericus",
+      "raw": "heartburn, epigastric discomfort, choking, globus hystericus",
+      "frequency": null
+    },
+    {
+      "name": "retrosternal pain, thoracic / cervical dysphagia Site:     usually lower ⅓ to lower ½ with continuous disease extending proximally from GE junction",
+      "raw": "retrosternal pain, thoracic / cervical dysphagia Site:     usually lower ⅓ to lower ½ with continuous disease extending proximally from GE junction",
+      "frequency": null
+    },
+    {
+      "name": "Reflux of barium in RPO position, may be elicited by coughing / deep respiratory movements / swallowing of saliva + water / anteflexion in erect position: only in 50% accurate",
+      "raw": "Reflux of barium in RPO position, may be elicited by coughing / deep respiratory movements / swallowing of saliva + water / anteflexion in erect position: only in 50% accurate",
+      "frequency": "50%"
+    },
+    {
+      "name": "Water-siphon test: in 5% false negative; large number of false positives",
+      "raw": "Water-siphon test: in 5% false negative; large number of false positives",
+      "frequency": "5%"
+    },
+    {
+      "name": "Tuttle test = measurement of esophageal pH: 96% accurate",
+      "raw": "Tuttle test = measurement of esophageal pH: 96% accurate",
+      "frequency": "96%"
+    },
+    {
+      "name": "Radionuclide gastroesophageal reflux test (typically combined with gastric emptying test):",
+      "raw": "Radionuclide gastroesophageal reflux test (typically combined with gastric emptying test):",
+      "frequency": null
+    },
+    {
+      "name": "Motility disturbance",
+      "raw": "Motility disturbance",
+      "frequency": null
+    },
+    {
+      "name": "Stricture",
+      "raw": "Stricture",
+      "frequency": null
+    },
+    {
+      "name": "Schatzki ring",
+      "raw": "Schatzki ring",
+      "frequency": null
+    },
+    {
+      "name": "Barrett esophagus",
+      "raw": "Barrett esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Iron-deficiency anemia",
+      "raw": "Iron-deficiency anemia",
+      "frequency": null
+    },
+    {
+      "name": "Reflux / peptic esophagitis (b)  from aspiration of gastric contents",
+      "raw": "Reflux / peptic esophagitis (b)  from aspiration of gastric contents",
+      "frequency": null
+    },
+    {
+      "name": "Acute aspiration pneumonia",
+      "raw": "Acute aspiration pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Mendelson syndrome",
+      "raw": "Mendelson syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary fibrosis",
+      "raw": "Pulmonary fibrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause: √  thickened > 3-mm wide folds with irregular lobulated contour √  mucosal nodularity ← multiple ulcers + intervening edema √  erosions √  vertically oriented ulcers usually 3-10 mm in length √  inflammatory esophagogastric polyp = proximal gastric fold extending across esophagogastric junction (rare) √  abnormal motility CT: √  diffuse esophageal thickening √  submucosal edema √  mucosal enhancement Candida Esophagitis =  MONILIASIS = CANDIDIASIS ◊  Most common cause of infectious esophagitis! Organism:  C. albicans, C. tropicalis; endogenous (majority) / transmitted by another human /"
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "Multiple Stenotic Lesions of Small Bowel",
+  "slug": "multiple_stenotic_lesions_of_small_bowel_10158e",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/multiple_stenotic_lesions_of_small_bowel_10158e.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "End-stage radiation enteritis",
+      "raw": "End-stage radiation enteritis",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic carcinoma",
+      "raw": "Metastatic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic gastroenteritis",
+      "raw": "Eosinophilic gastroenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Drug-induced",
+      "raw": "Drug-induced (eg, potassium chloride tablets, NSAIDs)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

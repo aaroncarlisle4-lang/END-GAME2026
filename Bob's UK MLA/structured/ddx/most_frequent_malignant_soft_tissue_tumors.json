@@ -1,0 +1,47 @@
+{
+  "finding": "Most Frequent Malignant Soft-tissue Tumors",
+  "slug": "most_frequent_malignant_soft_tissue_tumors",
+  "chapter": "D. Vascular",
+  "source_file": "processed_clusters/d_vascular/most_frequent_malignant_soft_tissue_tumors.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Undifferentiated pleomorphic sarcoma (= malignant fibrous histiocytoma) 29%",
+      "raw": "Undifferentiated pleomorphic sarcoma (= malignant fibrous histiocytoma) 29%",
+      "frequency": "29%"
+    },
+    {
+      "name": "Liposarcoma 14%",
+      "raw": "Liposarcoma 14%",
+      "frequency": "14%"
+    },
+    {
+      "name": "Nonspecific spindle cell sarcoma 12%",
+      "raw": "Nonspecific spindle cell sarcoma 12%",
+      "frequency": "12%"
+    },
+    {
+      "name": "Leiomyosarcoma 8%",
+      "raw": "Leiomyosarcoma 8%",
+      "frequency": "8%"
+    },
+    {
+      "name": "Malignant peripheral nerve sheath tumor 6%",
+      "raw": "Malignant peripheral nerve sheath tumor 6%",
+      "frequency": "6%"
+    },
+    {
+      "name": "Dermatofibroma protuberans 6%",
+      "raw": "Dermatofibroma protuberans 6%",
+      "frequency": "6%"
+    },
+    {
+      "name": "Synovial sarcoma 5%",
+      "raw": "Synovial sarcoma 5%",
+      "frequency": "5%"
+    }
+  ],
+  "criteria": {},
+  "context": "7 pathologic diagnoses make up 80% of all malignant tumors!"
+}

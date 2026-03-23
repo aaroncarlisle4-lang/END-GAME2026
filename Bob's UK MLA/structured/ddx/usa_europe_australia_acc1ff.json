@@ -1,0 +1,37 @@
+{
+  "finding": "USA, Europe, Australia",
+  "slug": "usa_europe_australia_acc1ff",
+  "chapter": "LYME ARTHRITIS",
+  "source_file": "processed_clusters/lyme_arthritis/usa_europe_australia_acc1ff.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "recurrent attacks of arthralgias within days to 2 years after tick bite (80%); history of erythema chronicum migrans",
+      "raw": "recurrent attacks of arthralgias within days to 2 years after tick bite (80%); history of erythema chronicum migrans",
+      "frequency": "80%"
+    },
+    {
+      "name": "Rheumatic fever",
+      "raw": "Rheumatic fever",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Gonococcal arthritis",
+      "raw": "Gonococcal arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Reiter syndrome",
+      "raw": "Reiter syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   mono- / oligoarthritis of large joints (especially knee) √  erosion of cartilage / bone (4%) √  no neuroimaging manifestations (frequent) √  painful meningoradiculitis (= Bannwarth syndrome) √  abnormal smooth leptomeningeal enhancement with cranial or spinal nerve involvement √  enhancing periventricular + callososeptal + infratentorial white matter lesions ← perivascular extension of lymphocytic inflammation (DDx: multiple sclerosis) Rx:   antibiotics Posttreatment Lyme disease (10-20%) = syndrome due to autoimmune effects of molecular mimicry and antigen cross-reactivity DDx:"
+}

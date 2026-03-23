@@ -1,0 +1,27 @@
+{
+  "finding": "Benign Vascular Breast Mass",
+  "slug": "benign_vascular_breast_mass_373b72",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/benign_vascular_breast_mass_373b72.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma =  extremely rare mass in child / young adult Histo:   dilated lymphatic channels filled with lymphatic fluid + lined with endothelial cells",
+      "raw": "Lymphangioma =  extremely rare mass in child / young adult Histo:   dilated lymphatic channels filled with lymphatic fluid + lined with endothelial cells",
+      "frequency": "rare"
+    },
+    {
+      "name": "Angiolipoma",
+      "raw": "Angiolipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   axilla / axillary tail of breast √  solitary lobulated mass with single cystic space (lymphangioma circumscriptum) / multicystic mass"
+}

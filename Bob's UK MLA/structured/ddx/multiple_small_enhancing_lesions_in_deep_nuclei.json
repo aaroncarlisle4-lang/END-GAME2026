@@ -1,0 +1,42 @@
+{
+  "finding": "Multiple Small Enhancing Lesions in Deep Nuclei",
+  "slug": "multiple_small_enhancing_lesions_in_deep_nuclei",
+  "chapter": "D. MALIGNANCY",
+  "source_file": "processed_clusters/d_malignancy/multiple_small_enhancing_lesions_in_deep_nuclei.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Primary CNS lymphoma",
+      "raw": "Primary CNS lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Disseminated infection",
+      "raw": "Disseminated infection",
+      "frequency": null
+    },
+    {
+      "name": "Noninfectious inflammatory process",
+      "raw": "Noninfectious inflammatory process",
+      "frequency": null
+    },
+    {
+      "name": "Subacute multifocal infarction",
+      "raw": "Subacute multifocal infarction",
+      "frequency": null
+    },
+    {
+      "name": "Vasculitis",
+      "raw": "Vasculitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

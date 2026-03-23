@@ -1,0 +1,57 @@
+{
+  "finding": "Mass in Superolateral Quadrant of Orbit",
+  "slug": "mass_in_superolateral_quadrant_of_orbit_697ea3",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/mass_in_superolateral_quadrant_of_orbit_697ea3.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lacrimal gland tumor",
+      "raw": "Lacrimal gland tumor",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (breast, prostate, lung)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Leukemic infiltration of lacrimal gland",
+      "raw": "Leukemic infiltration of lacrimal gland",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Pseudotumor",
+      "raw": "Pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Frontal sinus mucocele",
+      "raw": "Frontal sinus mucocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

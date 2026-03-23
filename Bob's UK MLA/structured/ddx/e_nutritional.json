@@ -1,0 +1,152 @@
+{
+  "finding": "E. NUTRITIONAL",
+  "slug": "e_nutritional",
+  "chapter": "Navaho, Pima, Chippewa Indians",
+  "source_file": "processed_clusters/navaho_pima_chippewa_indians/e_nutritional.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intestinal bypass",
+      "raw": "Intestinal bypass",
+      "frequency": null
+    },
+    {
+      "name": "Severe nonalcoholic steatosis + steatohepatitis ← obesity epidemic in USA (40 million adults, 6 million children) with 10-20% expected to develop cirrhosis",
+      "raw": "Severe nonalcoholic steatosis + steatohepatitis ← obesity epidemic in USA (40 million adults, 6 million children) with 10-20% expected to develop cirrhosis",
+      "frequency": "20%"
+    },
+    {
+      "name": "Abetalipoproteinemia",
+      "raw": "Abetalipoproteinemia",
+      "frequency": null
+    },
+    {
+      "name": "HEREDITARY",
+      "raw": "HEREDITARY",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "Alpha-1 antitrypsin deficiency",
+      "raw": "Alpha-1 antitrypsin deficiency",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile polycystic kidney disease",
+      "raw": "Juvenile polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Galactosemia",
+      "raw": "Galactosemia",
+      "frequency": null
+    },
+    {
+      "name": "Type IV glycogen storage disease",
+      "raw": "Type IV glycogen storage disease",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary fructose intolerance",
+      "raw": "Hereditary fructose intolerance",
+      "frequency": null
+    },
+    {
+      "name": "Tyrosinemia",
+      "raw": "Tyrosinemia",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary tetany",
+      "raw": "Hereditary tetany",
+      "frequency": null
+    },
+    {
+      "name": "Osler-Weber-Rendu syndrome",
+      "raw": "Osler-Weber-Rendu syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Familial cirrhosis",
+      "raw": "Familial cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "IDIOPATHIC / CRYPTOGENIC (15%) probably due to nonalcoholic steatohepatitis",
+      "raw": "IDIOPATHIC / CRYPTOGENIC (15%) probably due to nonalcoholic steatohepatitis",
+      "frequency": "15%"
+    },
+    {
+      "name": "anorexia, weakness, fatigue, weight loss, ascites",
+      "raw": "anorexia, weakness, fatigue, weight loss, ascites",
+      "frequency": null
+    },
+    {
+      "name": "jaundice, continuous low-grade fever",
+      "raw": "jaundice, continuous low-grade fever",
+      "frequency": null
+    },
+    {
+      "name": "bleeding from esophageal varices, hepatic encephalopathy",
+      "raw": "bleeding from esophageal varices, hepatic encephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Ascites: cause / contributor to death in 50%",
+      "raw": "Ascites: cause / contributor to death in 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "Portal hypertension → bland portal vein thrombosis",
+      "raw": "Portal hypertension → bland portal vein thrombosis (in 11-16%)",
+      "frequency": "16%"
+    },
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma (in 7-12%)",
+      "frequency": "12%"
+    },
+    {
+      "name": "Cholangiocarcinoma",
+      "raw": "Cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Pseudocirrhosis",
+      "raw": "Pseudocirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse metastatic disease with desmoplastic reaction: breast, melanoma",
+      "raw": "Diffuse metastatic disease with desmoplastic reaction: breast, melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Fulminant hepatic necrosis ± regeneration",
+      "raw": "Fulminant hepatic necrosis ± regeneration",
+      "frequency": null
+    },
+    {
+      "name": "Noncirrhotic intrahepatic portal hypertension: nodular regenerative hyperplasia, periportal fibrosis, hepatoportal sclerosis",
+      "raw": "Noncirrhotic intrahepatic portal hypertension: nodular regenerative hyperplasia, periportal fibrosis, hepatoportal sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Hypoenhancement during portal phase",
+      "raw": "Hypoenhancement during portal phase",
+      "frequency": null
+    },
+    {
+      "name": "Increased number of nontriadal arteries during arterial phase",
+      "raw": "Increased number of nontriadal arteries during arterial phase (= hypervascularity)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cirrhosis in children: chronic hepatitis, congenital hepatic fibrosis, cystic fibrosis, biliary atresia, alpha-1 antitrypsin deficiency, tyrosinemia, galactosemia, hemochromatosis, Wilson disease, schistosomiasis, total parenteral nutrition Associated with:   anemia, coagulopathy, hypoalbuminemia, cholelithiasis, pancreatitis, peptic ulcer disease, diarrhea, hypogonadism Path: Histo:   fibrotic bridges carving liver into regenerative nodules = HALLMARK of cirrhosis Path: The cirrhotic liver develops characteristic morphologic alterations such as (1) surface nodularity, (2) widening of fissures"
+}

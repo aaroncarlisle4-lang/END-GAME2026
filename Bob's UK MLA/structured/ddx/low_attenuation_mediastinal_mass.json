@@ -1,0 +1,47 @@
+{
+  "finding": "Low-attenuation Mediastinal Mass",
+  "slug": "low_attenuation_mediastinal_mass",
+  "chapter": "MEDIASTINUM",
+  "source_file": "processed_clusters/mediastinum/low_attenuation_mediastinal_mass.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "FLUID",
+      "raw": "FLUID",
+      "frequency": null
+    },
+    {
+      "name": "Foregut cyst",
+      "raw": "Foregut cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lymphocele",
+      "raw": "Lymphocele",
+      "frequency": null
+    },
+    {
+      "name": "Seroma",
+      "raw": "Seroma",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid disease",
+      "raw": "Hydatid disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

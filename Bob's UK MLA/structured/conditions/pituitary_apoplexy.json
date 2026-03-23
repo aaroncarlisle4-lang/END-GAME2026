@@ -1,0 +1,35 @@
+{
+  "name": "PITUITARY APOPLEXY",
+  "slug": "pituitary_apoplexy",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/pituitary_apoplexy.md",
+  "definition": "rare clinical syndrome of acute hemorrhagic / ischemic transformation of normal / tumorous necrosis of anterior pituitary gland ← postpartum infarct ← hemorrhagic",
+  "demographics": {},
+  "dominant_finding": "increased density ± fluid level",
+  "distribution": "",
+  "discriminating_features": [
+    "enlargement of pituitary gland",
+    "increased density ± fluid level",
+    "mass lesion of heterogeneous signal intensity:",
+    "sellar enlargement (= macroadenoma)",
+    "high signal on DWI (in acute stage) ← restricted diffusion"
+  ],
+  "other_features": {
+    "general": [
+      "enlargement of pituitary gland"
+    ],
+    "NECT": [
+      "increased density ± fluid level"
+    ],
+    "MR": [
+      "mass lesion of heterogeneous signal intensity:",
+      "sellar enlargement (= macroadenoma)",
+      "high signal on DWI (in acute stage) ← restricted diffusion",
+      "predominant T1 hyperintensity + predominant T2 hypointensity ← hemoglobin",
+      "intermediate SI on T1WI + T2WI ← deoxyhemoglobin",
+      "intratumoral fluid-debris level ← sedimentation of blood products (at later stage)",
+      "mucosal thickening of sphenoid sinus ← venous engorgement of acute stage"
+    ]
+  },
+  "clinical": {}
+}

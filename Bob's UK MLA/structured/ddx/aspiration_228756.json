@@ -1,0 +1,37 @@
+{
+  "finding": "ASPIRATION",
+  "slug": "aspiration_228756",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/aspiration_228756.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Alcoholism",
+      "raw": "Alcoholism (most common in adults)",
+      "frequency": "most common"
+    },
+    {
+      "name": "General anesthesia, loss of consciousness",
+      "raw": "General anesthesia, loss of consciousness",
+      "frequency": null
+    },
+    {
+      "name": "Structural abnormalities of pharynx / esophagus (congenital / acquired tracheoesophageal + tracheopulmonary fistula), laryngectomy",
+      "raw": "Structural abnormalities of pharynx / esophagus (congenital / acquired tracheoesophageal + tracheopulmonary fistula), laryngectomy",
+      "frequency": null
+    },
+    {
+      "name": "Neuromuscular disorders",
+      "raw": "Neuromuscular disorders",
+      "frequency": null
+    },
+    {
+      "name": "Deglutition abnormalities",
+      "raw": "Deglutition abnormalities",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  intake of solid / liquid materials into the airways and lungs Predisposing factors: Substrate: (a)  solids ›  foreign bodies ›  lentils (b)  liquids ›  gastric acid = Mendelson syndrome ›  water = near drowning ›  barium, water-soluble contrast material ›  liquid paraffin / petroleum = acute exogenous lipoid pneumonia / fire-eater pneumonia ›  mineral oil / cod liver oil = chronic exogenous lipoid pneumonia (c)  contaminated substances from oropharynx / GI tract"
+}

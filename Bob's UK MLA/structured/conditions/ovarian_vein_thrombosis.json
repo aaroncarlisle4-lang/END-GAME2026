@@ -1,0 +1,26 @@
+{
+  "name": "OVARIAN VEIN THROMBOSIS",
+  "slug": "ovarian_vein_thrombosis",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/ovarian_vein_thrombosis.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "1÷600-1÷2,000 deliveries",
+    "Location": "right [left] {both} ovarian veins in 80% [6%] {14%}"
+  },
+  "dominant_finding": "tubular structure in location of ovarian vein with low-density center + peripheral",
+  "distribution": "right [left] {both} ovarian veins in 80% [6%] {14%}",
+  "discriminating_features": [
+    "tubular structure in location of ovarian vein with low-density center + peripheral"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "tubular structure in location of ovarian vein with low-density center + peripheral"
+    ]
+  },
+  "clinical": {
+    "Cx": "IVC thrombosis; pulmonary embolism (25%); septicemia; metastatic abscess formation",
+    "Rx": "IV antibiotics + heparin; ligation of involved vessel at most proximal point of thrombosis"
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "finding": "Slowly / Nonenhancing Breast Cancer on MR",
+  "slug": "slowly_nonenhancing_breast_cancer_on_mr_dc31da",
+  "chapter": "Breast Cancer Evaluation",
+  "source_file": "processed_clusters/breast_cancer_evaluation/slowly_nonenhancing_breast_cancer_on_mr_dc31da.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lobular carcinoma",
+      "raw": "Lobular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Tubular carcinoma",
+      "raw": "Tubular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous carcinoma",
+      "raw": "Mucinous carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Grade I invasive ductal carcinoma",
+      "raw": "Grade I invasive ductal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Initial staging ◊  PET/CT is efficient for locally advanced + inflammatory breast cancer",
+      "raw": "Initial staging ◊  PET/CT is efficient for locally advanced + inflammatory breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Restaging ◊  PET/CT performs better than all other imaging",
+      "raw": "Restaging ◊  PET/CT performs better than all other imaging",
+      "frequency": null
+    },
+    {
+      "name": "Ranking: infiltrating ductal carcinoma > infiltrating lobular carcinoma > ductal carcinoma in situ",
+      "raw": "Ranking: infiltrating ductal carcinoma > infiltrating lobular carcinoma > ductal carcinoma in situ",
+      "frequency": null
+    },
+    {
+      "name": "Estrogen receptor-negative tumor",
+      "raw": "Estrogen receptor-negative tumor",
+      "frequency": null
+    },
+    {
+      "name": "Cancer with poor prognosis: triple negative breast tumor",
+      "raw": "Cancer with poor prognosis: triple negative breast tumor (negative for estrogen + progesterone receptors + HER2/neu overexpression)",
+      "frequency": null
+    },
+    {
+      "name": "Radial scar suspected",
+      "raw": "Radial scar suspected (in up to 28% associated with tubular carcinoma)",
+      "frequency": "28%"
+    },
+    {
+      "name": "Atypia / atypical hyperplasia",
+      "raw": "Atypia / atypical hyperplasia (in 49-61% associated with malignancy)",
+      "frequency": "61%"
+    },
+    {
+      "name": "Carcinoma in situ",
+      "raw": "Carcinoma in situ (in 9-20% associated with invasion)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Branching microcalcifications suggestive of DCIS with comedo necrosis",
+      "raw": "Branching microcalcifications suggestive of DCIS with comedo necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Invasive ductal carcinoma (NOS) + DCIS 85%",
+      "raw": "Invasive ductal carcinoma (NOS) + DCIS 85%",
+      "frequency": "85%"
+    },
+    {
+      "name": "Other types of malignancy 15% (a)  Invasive lobular carcinoma (ILC) (b)  Well-differentiated subtypes of IDC",
+      "raw": "Other types of malignancy 15% (a)  Invasive lobular carcinoma (ILC) (b)  Well-differentiated subtypes of IDC",
+      "frequency": "15%"
+    },
+    {
+      "name": "Tubular carcinoma",
+      "raw": "Tubular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous carcinoma",
+      "raw": "Mucinous carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Medullary carcinoma",
+      "raw": "Medullary carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Papillary carcinoma (c)  Cancers of stromal origin",
+      "raw": "Papillary carcinoma (c)  Cancers of stromal origin",
+      "frequency": null
+    },
+    {
+      "name": "Phyllodes tumor",
+      "raw": "Phyllodes tumor",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoid cystic carcinoma",
+      "raw": "Adenoid cystic carcinoma (d)  Metastatic disease (0.5-2.0%)",
+      "frequency": "2.0%"
+    },
+    {
+      "name": "NHL",
+      "raw": "NHL",
+      "frequency": null
+    },
+    {
+      "name": "Malignant melanoma",
+      "raw": "Malignant melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic carcinoma",
+      "raw": "Metastatic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Stage 0",
+      "raw": "Stage 0",
+      "frequency": null
+    },
+    {
+      "name": "TisN0M0",
+      "raw": "TisN0M0",
+      "frequency": null
+    },
+    {
+      "name": "Stage IA",
+      "raw": "Stage IA",
+      "frequency": null
+    },
+    {
+      "name": "T1N0M0",
+      "raw": "T1N0M0",
+      "frequency": null
+    },
+    {
+      "name": "Stage IB",
+      "raw": "Stage IB",
+      "frequency": null
+    },
+    {
+      "name": "T0-T1 with N1mi and M0",
+      "raw": "T0-T1 with N1mi and M0",
+      "frequency": null
+    },
+    {
+      "name": "Stage IIA",
+      "raw": "Stage IIA",
+      "frequency": null
+    },
+    {
+      "name": "T0-T1 with N1M0 / T2N0M0",
+      "raw": "T0-T1 with N1M0 / T2N0M0",
+      "frequency": null
+    },
+    {
+      "name": "Stage IIB",
+      "raw": "Stage IIB",
+      "frequency": null
+    },
+    {
+      "name": "T2N1M0 / T3N0M0.",
+      "raw": "T2N1M0 / T3N0M0.",
+      "frequency": null
+    },
+    {
+      "name": "Stage IIIA",
+      "raw": "Stage IIIA",
+      "frequency": null
+    },
+    {
+      "name": "Stage IIIB",
+      "raw": "Stage IIIB",
+      "frequency": null
+    },
+    {
+      "name": "T4 with N0-N2 and M0",
+      "raw": "T4 with N0-N2 and M0",
+      "frequency": null
+    },
+    {
+      "name": "Stage IIIC",
+      "raw": "Stage IIIC",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Role of PET/CT in Breast Cancer PET-CT useful ONLY in (a)  inflammatory breast cancer (b)  > 3 cm large breast cancer (c)  stage II/III breast cancer Staging of Breast Cancer √  40% of breast primaries NOT visualized √  61% sensitive + 80% specific for axillary nodes √  unsuspected disease detected in mediastinal / internal mammary lymph nodes in 30% √  92-100% sensitive for recurrence, 72-82% specific (changes with time interval since therapy) √  PET/CT may change clinical management in 36% High SUV Values in Breast Cancer Distant Metastases in Breast Cancer Soft-tissue lesion:   mediastinal"
+}

@@ -1,0 +1,36 @@
+{
+  "name": "BIOMECHANICS OF SPINAL COLUMN",
+  "slug": "biomechanics_of_spinal_column",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_skull_and_spine_disorders/biomechanics_of_spinal_column.md",
+  "definition": "primary structural support of human body (Francis Denis, 1983) vertebra retaining partial features of segments below and above; total number of vertebrae",
+  "demographics": {
+    "Incidence": "3-21% of population",
+    "Location": "thoracolumbar (4%) + lumbosacral (15%) junction"
+  },
+  "dominant_finding": "\"sacralized L5\" = L5 incorporated into sacrum",
+  "distribution": "thoracolumbar (4%) + lumbosacral (15%) junction",
+  "discriminating_features": [
+    "one side with a rib (= laterally downsloping osseous structure with articulation to",
+    "other side with a transverse process (= horizontal osseous structure without central",
+    "\"sacralized L5\" = L5 incorporated into sacrum",
+    "\"lumbarized S1\" = S1 incorporated into lumbar spine",
+    "uni- / bilateral dysplastic / enlarged transverse processes of lumbosacral transitional"
+  ],
+  "other_features": {
+    "general": [
+      "one side with a rib (= laterally downsloping osseous structure with articulation to",
+      "other side with a transverse process (= horizontal osseous structure without central",
+      "\"sacralized L5\" = L5 incorporated into sacrum",
+      "\"lumbarized S1\" = S1 incorporated into lumbar spine",
+      "uni- / bilateral dysplastic / enlarged transverse processes of lumbosacral transitional",
+      "\"squared\" morphology of transitional vertebra",
+      "decreased height of intervertebral lumbosacral disk",
+      "none / small residual / well-formed S1-2 disk",
+      "alteration of lumbosacral intervertebral disk angle"
+    ]
+  },
+  "clinical": {
+    "Cx": "confusion over labeling / assignment of vertebral levels during treatment planning"
+  }
+}

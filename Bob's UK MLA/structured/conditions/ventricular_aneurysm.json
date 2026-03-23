@@ -1,0 +1,40 @@
+{
+  "name": "VENTRICULAR ANEURYSM",
+  "slug": "ventricular_aneurysm",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/ventricular_aneurysm.md",
+  "definition": "circumscribed noncontractile outpouching of ventricular cavity with broad mouth + FALSE ANEURYSM left ventricular rupture contained by fused layers of visceral + parietal pericardium /",
+  "demographics": {
+    "Etiology": "trauma, myocardial infarction",
+    "Location": "typically at posterolateral / diaphragmatic wall of LV"
+  },
+  "dominant_finding": "bulge at left middle / upper cardiac border",
+  "distribution": "typically at posterolateral / diaphragmatic wall of LV",
+  "discriminating_features": [
+    "localized paradoxical expansion during systole (CHARACTERISTIC)",
+    "bulge at left middle / upper cardiac border",
+    "small + not visualized",
+    "heart greatly enlarged (from aortic insufficiency)",
+    "localized bulge of heart contour = \"squared-off\" appearance of mid left lateral margin of"
+  ],
+  "other_features": {
+    "general": [
+      "bulge at left middle / upper cardiac border",
+      "small + not visualized",
+      "heart greatly enlarged (from aortic insufficiency)",
+      "localized bulge of heart contour = \"squared-off\" appearance of mid left lateral margin of",
+      "localized paradoxical expansion during systole (CHARACTERISTIC)",
+      "rim of calcium in fibrotic wall (chronic), rare",
+      "akinetic / severely hypokinetic segment",
+      "left ventriculography in LAO, RAO is diagnostic",
+      "wide communication with heart chamber (NO neck)",
+      "left retrocardiac double density",
+      "diameter of mouth smaller than the largest diameter of the globular aneurysm",
+      "delayed filling"
+    ]
+  },
+  "clinical": {
+    "Cx": "wall thrombus with embolization",
+    "Prognosis": "rarely ruptures"
+  }
+}

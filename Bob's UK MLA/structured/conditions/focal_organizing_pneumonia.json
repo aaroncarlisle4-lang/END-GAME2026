@@ -1,0 +1,38 @@
+{
+  "name": "FOCAL ORGANIZING PNEUMONIA",
+  "slug": "focal_organizing_pneumonia",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/focal_organizing_pneumonia.md",
+  "definition": "unresolving pneumonia / pneumonia with incomplete resolution beyond 8 weeks",
+  "demographics": {
+    "Prevalence": "5-10% of all pneumonias (87% of pneumonias resolve within 4 weeks, 12%",
+    "Path": "intraalveolar exudate → transformed into connective tissue as nonspecific response to",
+    "Histo": "organizing fibroblastic plugs of tissue composed of spindle-shaped cells in a pale",
+    "Location": "within airspace, alveolar septa, bronchial mucosa, bronchioles"
+  },
+  "dominant_finding": "± satellite lesions (44%) + air bronchograms (22%)",
+  "distribution": "within airspace, alveolar septa, bronchial mucosa, bronchioles",
+  "discriminating_features": [
+    "ill-defined localized parenchymal abnormality with irregular margin:",
+    "solitary pulmonary nodule",
+    "focal area of consolidation / ground-glass opacity in peribronchial distribution",
+    "associated bronchiectasis / architectural distortion",
+    "\"reverse halo\" sign = focal area of ground-glass opacity surrounded by a complete ring of"
+  ],
+  "other_features": {
+    "general": [
+      "ill-defined localized parenchymal abnormality with irregular margin:",
+      "solitary pulmonary nodule",
+      "focal area of consolidation / ground-glass opacity in peribronchial distribution",
+      "associated bronchiectasis / architectural distortion",
+      "\"reverse halo\" sign = focal area of ground-glass opacity surrounded by a complete ring of",
+      "\"atoll\" sign = incomplete ring of denser consolidation",
+      "decrease in size of mass within 3-4 weeks"
+    ],
+    "HRCT": [
+      "flat / ovoid lesion with irregular margin in subpleural location / along bronchovascular",
+      "± satellite lesions (44%) + air bronchograms (22%)"
+    ]
+  },
+  "clinical": {}
+}

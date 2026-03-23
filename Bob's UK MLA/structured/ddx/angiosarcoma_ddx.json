@@ -1,0 +1,22 @@
+{
+  "finding": "Angiosarcoma (DDx)",
+  "slug": "angiosarcoma_ddx",
+  "chapter": "Angiosarcoma",
+  "source_file": "processed_clusters/angiosarcoma/angiosarcoma_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hemangioendothelioma",
+      "raw": "hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "hemangiopericytoma",
+      "raw": "hemangiopericytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "heterogeneously enhancing mass expanding involved vessel"
+}

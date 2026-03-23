@@ -1,0 +1,94 @@
+{
+  "name": "BUDD-CHIARI SYNDROME",
+  "slug": "budd_chiari_syndrome",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/budd_chiari_syndrome.md",
+  "definition": "syndrome of global / segmental hepatic venous outflow obstruction at level of hepatic veins / IVC diaphragm (believed to be a congenital web / acquired lesion from long-",
+  "demographics": {
+    "Age": "all ages; M < F"
+  },
+  "dominant_finding": "\"flip-flop\" pattern during portal venous phase:",
+  "distribution": "normal early enhancement of caudate lobe and central portion around IVC + decreased",
+  "discriminating_features": [
+    "PATHOGNOMONIC \"bicolored\" hepatic veins ← intrahepatic collateral pathways",
+    "gallbladder wall thickening > 6 mm",
+    "portal vein diameter > 12 mm (in adults), > 8 mm (in children)",
+    "normal early enhancement of caudate lobe and central portion around IVC + decreased",
+    "\"flip-flop\" pattern during portal venous phase:"
+  ],
+  "other_features": {
+    "general": [
+      "gallbladder wall thickening > 6 mm",
+      "portal vein diameter > 12 mm (in adults), > 8 mm (in children)"
+    ],
+    "MR": [
+      "reduction in caliber / complete absence of hepatic veins",
+      "\"comma\" sign = multiple comma-shaped intrahepatic flow voids ← intrahepatic collaterals",
+      "hyperintense thrombi",
+      "one / more major hepatic veins reduced in size to < 3 mm / filled with thrombus / not",
+      "stenoses of hepatic veins",
+      "communicating intrahepatic venous collaterals",
+      "decreased / absent / reversed blood flow in hepatic veins",
+      "flat flow / loss of cardiac modulation in hepatic veins",
+      "demodulated portal venous flow = disappearance of portal vein velocity variations with",
+      "slow flow of < 11 cm/sec / hepatofugal flow in portal vein",
+      "portal vein congestion index > 0.1 [cm • sec] (= ratio between cross-sectional area [cm2]",
+      "portal vein thrombosis (20%)",
+      "compression of IVC by enlarged liver / caudate lobe",
+      "sluggish / reversed / absent blood flow within IVC",
+      "hepatic artery resistive index > 0.75",
+      "central region of normal activity (= hot caudate lobe ← venous drainage of hypertrophied",
+      "colloid shift to spleen + bone marrow",
+      "wedge-shaped focal peripheral defects",
+      "absence of main hepatic veins",
+      "spider web pattern of collateral + recanalized veins",
+      "high-pressure gradient between infra- and suprahepatic portion of IVC ← enlarged liver",
+      "stretching + draping of intrahepatic arteries with hepatomegaly",
+      "inhomogeneous prolonged intense hepatogram with fine mottling",
+      "large lakes of sinusoidal contrast accumulation",
+      "central hepatic enhancement (normal hepatopetal flow)",
+      "reversed portal flow in liver periphery (supplied only by hepatic artery)",
+      "bidirectional / hepatofugal main portal vein flow",
+      "enlarged morphologically normal liver",
+      "splenomegaly",
+      "ascites (97%)",
+      "peripheral liver parenchyma of moderately low SI on T1WI + moderately high SI on",
+      "diminished + mottled peripheral enhancement",
+      "diffuse peripheral hypoattenuation ← hepatocellular necrosis + steatosis",
+      "dysmorphic liver:",
+      "nonsegmental / lobar atrophy of affected liver (← extensive fibrosis) with diminished",
+      "compensatory hypertrophy of caudate lobe (88%) + central parenchymal segments of",
+      "width of caudate ÷ right lobe ≥ 0.55 (DDx: cirrhosis)",
+      "visualization of collateral pathways",
+      "development of 1-4 cm regenerative nodules (in areas of adequate blood supply)",
+      "ascites",
+      "absence of flow within hepatic veins",
+      "minimal differences in SI between central and peripheral portions of liver",
+      "intrahepatic collateral vessels"
+    ],
+    "NECT": [
+      "diffusely hypoattenuating liver",
+      "IVC + hepatic veins:",
+      "narrowed lumina (without thrombus)",
+      "hyperattenuating lumina containing thrombus (in 18-53%)",
+      "enlarged inferior right hepatic vein (18%)"
+    ],
+    "CECT": [
+      "normal early enhancement of caudate lobe and central portion around IVC + decreased",
+      "\"flip-flop\" pattern during portal venous phase:",
+      "decreased attenuation (washout) of enhancing central areas",
+      "increasing patchy inhomogeneous enhancement in liver periphery ← contrast inflow",
+      "invisible IVC ± hepatic veins ← collapse / diminished flow rate:",
+      "nonvisualization of hepatic veins (75%) / vein diameter < 3 mm (measured 2 cm from",
+      "± narrowing / obstruction of intrahepatic IVC",
+      "progressive heterogeneous patchy enhancement radiating outward from major portal",
+      "\"reticulated mosaic\" enhancement = diffuse patchy lobular enhancement separated by",
+      "delayed homogeneous enhancement of entire liver after several minutes",
+      "reversed portal venous blood flow ← increased postsinusoidal pressure produced by",
+      "PATHOGNOMONIC \"bicolored\" hepatic veins ← intrahepatic collateral pathways"
+    ]
+  },
+  "clinical": {
+    "Rx": "control of ascites with diuretics + sodium restriction; anticoagulation, thrombolytic"
+  }
+}

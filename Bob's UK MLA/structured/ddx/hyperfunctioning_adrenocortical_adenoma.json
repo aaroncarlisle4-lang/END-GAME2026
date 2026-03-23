@@ -1,0 +1,37 @@
+{
+  "finding": "Hyperfunctioning Adrenocortical Adenoma",
+  "slug": "hyperfunctioning_adrenocortical_adenoma",
+  "chapter": "ABORTIVE CALYX",
+  "source_file": "processed_clusters/abortive_calyx/hyperfunctioning_adrenocortical_adenoma.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary hyperaldosteronism = Conn syndrome",
+      "raw": "Primary hyperaldosteronism = Conn syndrome (80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "Cushing syndrome",
+      "raw": "Cushing syndrome (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Virilization (a)  hirsutism + clitoromegaly in girls (b)  pseudopuberty in boys ◊  Most common type of hormone elevation in children!",
+      "raw": "Virilization (a)  hirsutism + clitoromegaly in girls (b)  pseudopuberty in boys ◊  Most common type of hormone elevation in children!",
+      "frequency": "most common"
+    },
+    {
+      "name": "elevated testosterone levels > 0.55 ng/mL",
+      "raw": "elevated testosterone levels > 0.55 ng/mL",
+      "frequency": null
+    },
+    {
+      "name": "Feminization",
+      "raw": "Feminization (estrogen production)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  contralateral adrenal atrophy ← suppression of pituitary ACTH by elevated cortisol levels Pathophysiology:   secretion of aldosterone by an adenoma is pulsatile √  ACTH infusion incites a dramatic increase in levels of cortisol + aldosterone for venous sampling √  contralateral atrophic gland ← ACTH suppression with autonomous adenoma √  unilateral focus of 131I NP-59 radioactivity + contralateral absence of iodocholesterol accumulation (DDx: hyperplasia [bilateral activity])"
+}

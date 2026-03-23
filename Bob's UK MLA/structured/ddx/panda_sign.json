@@ -1,0 +1,32 @@
+{
+  "finding": "Panda Sign",
+  "slug": "panda_sign",
+  "chapter": "Gallium in Lung Imaging",
+  "source_file": "processed_clusters/gallium_in_lung_imaging/panda_sign.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoidosis ◊  100% specific for sarcoidosis if lung infiltrates are present!",
+      "raw": "Sarcoidosis ◊  100% specific for sarcoidosis if lung infiltrates are present!",
+      "frequency": "100%"
+    },
+    {
+      "name": "Treated lymphoma",
+      "raw": "Treated lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "Sjögren syndrome",
+      "raw": "Sjögren syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  facial uptake of 67Ga in both parotid glands + both lacrimal glands + nose"
+}

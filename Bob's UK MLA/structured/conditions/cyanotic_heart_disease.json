@@ -1,0 +1,55 @@
+{
+  "name": "CYANOTIC HEART DISEASE",
+  "slug": "cyanotic_heart_disease",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_cardiovascular_disorders/cyanotic_heart_disease.md",
+  "definition": "PaO2 ≤ 85% ADMIXTURE LESIONS bidirectional shunt with 2 components: two components of",
+  "demographics": {},
+  "dominant_finding": "cardiomegaly",
+  "distribution": "left-sided SVC: vertical vein of TAPVR",
+  "discriminating_features": [
+    "cardiomegaly",
+    "increased pulmonary blood flow",
+    "concave main pulmonary artery:",
+    "PA segment absent = transposition",
+    "PA segment present:"
+  ],
+  "other_features": {
+    "general": [
+      "cardiomegaly",
+      "increased pulmonary blood flow",
+      "concave main pulmonary artery:",
+      "PA segment absent = transposition",
+      "PA segment present:",
+      "skeletal anomalies: Ellis-van Creveld syndrome (truncus / common atrium)",
+      "polysplenia: common atrium",
+      "R aortic arch: persistent truncus arteriosus",
+      "ductus infundibulum: aortic atresia",
+      "pulmonary trunk seen: supracardiac TAPVR; DORV; tricuspid atresia; common atrium",
+      "ascending aorta with leftward convexity: single ventricle",
+      "dilated azygos vein: common atrium + polysplenia + interrupted IVC; TAPVR to",
+      "left-sided SVC: vertical vein of TAPVR",
+      "\"waterfall\" right hilum: single ventricle + transposition",
+      "large left atrium (rules out TAPVR)",
+      "prominent L heart border: single ventricle with inverted rudimentary RV; levoposition",
+      "age of onset ≤ 2 days: aortic atresia",
+      "normal / decreased pulmonary blood flow",
+      "concave main pulmonary artery",
+      "cardiomegaly",
+      "restrictive intracardiac R-to-L shunt",
+      "prominent aorta with L / R aortic arch; inapparent pulmonary trunk",
+      "normal RA (without tricuspid regurgitation)",
+      "normal-sized heart ← escape mechanism into aorta",
+      "moderate to severe cardiomegaly",
+      "RA dilatation",
+      "RV enlargement ← massive tricuspid incompetence",
+      "inapparent aorta",
+      "left aortic arch",
+      "marked cardiomegaly",
+      "normal cardiac size"
+    ]
+  },
+  "clinical": {
+    "N.B.": "tricuspid atresia = the great mimicker"
+  }
+}

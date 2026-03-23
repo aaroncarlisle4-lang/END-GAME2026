@@ -1,0 +1,27 @@
+{
+  "finding": "Lymphoma Of Pancreas (DDx)",
+  "slug": "lymphoma_of_pancreas_ddx",
+  "chapter": "Lymphoma Of Pancreas",
+  "source_file": "processed_clusters/lymphoma_of_pancreas/lymphoma_of_pancreas_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pancreatic adenocarcinoma (gross dilatation of main pancreatic duct",
+      "raw": "pancreatic adenocarcinoma (gross dilatation of main pancreatic duct",
+      "frequency": null
+    },
+    {
+      "name": "no lymph nodes below level of renal vein",
+      "raw": "no lymph nodes below level of renal vein",
+      "frequency": null
+    },
+    {
+      "name": "vascular invasion common)",
+      "raw": "vascular invasion common)",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {},
+  "context": "envelopment of adjacent vessels WITHOUT vascular invasion / obstruction: | peripancreatic vessels displaced + stretched | uncommon dilatation of pancreatic + bile duct | direct extension from peripancreatic lymphadenopathy"
+}

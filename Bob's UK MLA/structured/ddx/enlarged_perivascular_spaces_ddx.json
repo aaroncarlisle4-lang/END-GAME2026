@@ -1,0 +1,22 @@
+{
+  "finding": "Enlarged Perivascular Spaces (DDx)",
+  "slug": "enlarged_perivascular_spaces_ddx",
+  "chapter": "Enlarged Perivascular Spaces",
+  "source_file": "processed_clusters/enlarged_perivascular_spaces/enlarged_perivascular_spaces_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "multiple lacunar infarcts",
+      "raw": "multiple lacunar infarcts (adjacent parenchymal hyperintensity)",
+      "frequency": null
+    },
+    {
+      "name": "cystic neoplasm (SI not",
+      "raw": "cystic neoplasm (SI not",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "occasionally central high SI on T1WI ← inflow effect | small 1-2-mm round lesions isointense to CSF | moderate 2-5 mm round lesions isointense to CSF | clusters of variably sized bizarre cystic spaces bordering ventricles / subarachnoid space"
+}

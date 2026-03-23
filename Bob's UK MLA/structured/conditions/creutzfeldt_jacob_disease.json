@@ -1,0 +1,39 @@
+{
+  "name": "CREUTZFELDT-JACOB DISEASE",
+  "slug": "creutzfeldt_jacob_disease",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/creutzfeldt_jacob_disease.md",
+  "definition": "rare subacutely progressive neurological disorder due to transmissible infectious disease",
+  "demographics": {
+    "Age": "older adults (57-73 years)",
+    "Histo": "classified as spongiform encephalopathy \"mad cow disease\"",
+    "Location": "cerebral cortex, basal ganglia (caudate nucleus), thalamus"
+  },
+  "dominant_finding": "usually normal",
+  "distribution": "cerebral cortex, basal ganglia (caudate nucleus), thalamus",
+  "discriminating_features": [
+    "usually normal",
+    "rapidly progressive atrophic changes",
+    "hyperintense T2 lesions in basal ganglia (head of caudate nucleus + putamen), occipital",
+    "high-SI lesions on DWI (← vacuolization of neutrophil leading to gliosis + astrocytosis and",
+    "restricted diffusion is more sensitive than T2-FLAIR, especially for cortical lesions ←"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "usually normal",
+      "rapidly progressive atrophic changes"
+    ],
+    "MR": [
+      "hyperintense T2 lesions in basal ganglia (head of caudate nucleus + putamen), occipital",
+      "high-SI lesions on DWI (← vacuolization of neutrophil leading to gliosis + astrocytosis and",
+      "restricted diffusion is more sensitive than T2-FLAIR, especially for cortical lesions ←",
+      "\"pulvinar\" sign / \"hockey stick\" sign = T2 prolongation + restricted diffusion in medial",
+      "NO gadolinium enhancement of lesions",
+      "NO white matter involvement"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "usually fatal within 2 year of onset of symptoms (mean, 8.8 months)"
+  }
+}

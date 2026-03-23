@@ -1,0 +1,37 @@
+{
+  "finding": "B. CENTERED IN VERTEBRAL BODY",
+  "slug": "b_centered_in_vertebral_body",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/b_centered_in_vertebral_body.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malignancy",
+      "raw": "Malignancy (metastasis, lymphoma, plasma cell dyscrasia, solitary plasmacytoma, multiple myeloma)",
+      "frequency": null
+    },
+    {
+      "name": "Fracture",
+      "raw": "Fracture",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma (rare presentation)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "CENTERED IN POSTERIOR ELEMENTS METASTASES, MYELOMA, LYMPHOMA,",
+      "raw": "CENTERED IN POSTERIOR ELEMENTS METASTASES, MYELOMA, LYMPHOMA,",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

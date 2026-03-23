@@ -1,0 +1,62 @@
+{
+  "finding": "Superficial Soft-tissue Mass",
+  "slug": "superficial_soft_tissue_mass_582192",
+  "chapter": "D. Vascular",
+  "source_file": "processed_clusters/d_vascular/superficial_soft_tissue_mass_582192.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "MESENCHYMAL TUMOR (a)  cutaneous",
+      "raw": "MESENCHYMAL TUMOR (a)  cutaneous",
+      "frequency": null
+    },
+    {
+      "name": "Dermatofibrosarcoma protuberans (b)  subcutaneous",
+      "raw": "Dermatofibrosarcoma protuberans (b)  subcutaneous",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma / liposarcoma",
+      "raw": "Lipoma / liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Angioma",
+      "raw": "Angioma (hemangioma, lymphangioma, mixed)",
+      "frequency": null
+    },
+    {
+      "name": "Peripheral nerve sheath tumor",
+      "raw": "Peripheral nerve sheath tumor",
+      "frequency": null
+    },
+    {
+      "name": "Malignant fibrous histiocytoma",
+      "raw": "Malignant fibrous histiocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma",
+      "raw": "Leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Epithelioid sarcoma (c)  fascial",
+      "raw": "Epithelioid sarcoma (c)  fascial",
+      "frequency": null
+    },
+    {
+      "name": "Nodular fasciitis",
+      "raw": "Nodular fasciitis",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis",
+      "raw": "Fibromatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

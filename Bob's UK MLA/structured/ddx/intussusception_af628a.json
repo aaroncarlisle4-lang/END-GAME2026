@@ -1,0 +1,212 @@
+{
+  "finding": "INTUSSUSCEPTION",
+  "slug": "intussusception_af628a",
+  "chapter": "INTESTINAL LYMPHANGIECTASIA",
+  "source_file": "processed_clusters/intestinal_lymphangiectasia/intussusception_af628a.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Idiopathic (over 95%): mucosal edema + lymphoid hyperplasia (= enlarged Peyer patches) following viral gastroenteritis; predominantly at ileocecal valve",
+      "raw": "Idiopathic (over 95%): mucosal edema + lymphoid hyperplasia (= enlarged Peyer patches) following viral gastroenteritis; predominantly at ileocecal valve",
+      "frequency": "95%"
+    },
+    {
+      "name": "Lead point (5%):",
+      "raw": "Lead point (5%):",
+      "frequency": "5%"
+    },
+    {
+      "name": "Henoch-Schönlein purpura",
+      "raw": "Henoch-Schönlein purpura",
+      "frequency": null
+    },
+    {
+      "name": "Duplication cyst",
+      "raw": "Duplication cyst",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic (= hypertrophied lymphoid tissue)",
+      "frequency": null
+    },
+    {
+      "name": "Meckel diverticulum",
+      "raw": "Meckel diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Polyp",
+      "raw": "Polyp",
+      "frequency": null
+    },
+    {
+      "name": "Lymphosarcoma Age:     peak incidence between 6 months and 2 years; 3-9 months (40%); < 1 [< 2] {> 3} years (50%) [75%] {< 10%}; M÷F = 2÷1",
+      "raw": "Lymphosarcoma Age:     peak incidence between 6 months and 2 years; 3-9 months (40%); < 1 [< 2] {> 3} years (50%) [75%] {< 10%}; M÷F = 2÷1",
+      "frequency": "40%"
+    },
+    {
+      "name": "classic triad:",
+      "raw": "classic triad:",
+      "frequency": null
+    },
+    {
+      "name": "Abrupt onset of acute colicky abdominal pain",
+      "raw": "Abrupt onset of acute colicky abdominal pain (94%)",
+      "frequency": "94%"
+    },
+    {
+      "name": "Red \"currant jelly\" stools / hematochezia (66%) usually only after > 48 hours duration",
+      "raw": "Red \"currant jelly\" stools / hematochezia (66%) usually only after > 48 hours duration",
+      "frequency": "66%"
+    },
+    {
+      "name": "Palpable abdominal mass",
+      "raw": "Palpable abdominal mass (59%) / vomiting (91%)",
+      "frequency": "59%"
+    },
+    {
+      "name": "diarrhea, restlessness, pallor, fever",
+      "raw": "diarrhea, restlessness, pallor, fever",
+      "frequency": null
+    },
+    {
+      "name": "3.5 feet",
+      "raw": "3.5 feet (105 cm) above table (= 120 mmHg)",
+      "frequency": null
+    },
+    {
+      "name": "3 attempts",
+      "raw": "3 attempts",
+      "frequency": null
+    },
+    {
+      "name": "3 minutes between attempts → delay allows venous congestion + edema to subside",
+      "raw": "3 minutes between attempts → delay allows venous congestion + edema to subside",
+      "frequency": null
+    },
+    {
+      "name": "1÷4 Gastrografin®-water solution raised to a height of 5 feet",
+      "raw": "1÷4 Gastrografin®-water solution raised to a height of 5 feet (150 cm)",
+      "frequency": null
+    },
+    {
+      "name": "Air (METHOD OF CHOICE): delivers higher intra-colonic pressures, faster, easier, less fluoroscopic time, barium-free colon in case of surgery, smaller tears, less contamination of peritoneal cavity",
+      "raw": "Air (METHOD OF CHOICE): delivers higher intra-colonic pressures, faster, easier, less fluoroscopic time, barium-free colon in case of surgery, smaller tears, less contamination of peritoneal cavity",
+      "frequency": null
+    },
+    {
+      "name": "Ultrasound-guided saline enema: NO limit to procedure time, low perforation rate",
+      "raw": "Ultrasound-guided saline enema: NO limit to procedure time, low perforation rate",
+      "frequency": null
+    },
+    {
+      "name": "Duration of symptoms > 48 hours",
+      "raw": "Duration of symptoms > 48 hours",
+      "frequency": null
+    },
+    {
+      "name": "Significant dehydration",
+      "raw": "Significant dehydration",
+      "frequency": null
+    },
+    {
+      "name": "Radiographic signs of small bowel obstruction",
+      "raw": "Radiographic signs of small bowel obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Patient age < 3 months or > 5 years",
+      "raw": "Patient age < 3 months or > 5 years",
+      "frequency": null
+    },
+    {
+      "name": "Fluid trapped between layers of intussusception by US",
+      "raw": "Fluid trapped between layers of intussusception by US",
+      "frequency": null
+    },
+    {
+      "name": "Absence of color flow within intussusception",
+      "raw": "Absence of color flow within intussusception",
+      "frequency": null
+    },
+    {
+      "name": "SPECIFIC CAUSE (80%):",
+      "raw": "SPECIFIC CAUSE (80%):",
+      "frequency": "80%"
+    },
+    {
+      "name": "Tumor: benign (⅓; lipoma, leiomyoma, adenomatous polyp), malignant (¹/5;",
+      "raw": "Tumor: benign (⅓; lipoma, leiomyoma, adenomatous polyp), malignant (¹/5;",
+      "frequency": null
+    },
+    {
+      "name": "Postsurgical changes (⅓): adhesions adjacent to sutures / submucosal bowel edema / discoordinated motility",
+      "raw": "Postsurgical changes (⅓): adhesions adjacent to sutures / submucosal bowel edema / discoordinated motility",
+      "frequency": null
+    },
+    {
+      "name": "Invaginated (= inverted) Meckel diverticulum",
+      "raw": "Invaginated (= inverted) Meckel diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Prolapsed gastric mucosa",
+      "raw": "Prolapsed gastric mucosa",
+      "frequency": null
+    },
+    {
+      "name": "Aberrant pancreas",
+      "raw": "Aberrant pancreas",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body, feeding tube",
+      "raw": "Foreign body, feeding tube",
+      "frequency": null
+    },
+    {
+      "name": "Chronic ulcer: TB, typhoid",
+      "raw": "Chronic ulcer: TB, typhoid",
+      "frequency": null
+    },
+    {
+      "name": "Prior gastroenteritis",
+      "raw": "Prior gastroenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Gastroenterostomy, trauma spontaneous without anatomic lead point:",
+      "raw": "Gastroenterostomy, trauma spontaneous without anatomic lead point:",
+      "frequency": null
+    },
+    {
+      "name": "IDIOPATHIC",
+      "raw": "IDIOPATHIC (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "recurrent episodes of colicky pain, nausea, vomiting",
+      "raw": "recurrent episodes of colicky pain, nausea, vomiting",
+      "frequency": null
+    },
+    {
+      "name": "abdominal tenderness, distension, change in bowel habits",
+      "raw": "abdominal tenderness, distension, change in bowel habits",
+      "frequency": null
+    },
+    {
+      "name": "palpable mass",
+      "raw": "palpable mass (in up to 50%), bloody stool (in majority)",
+      "frequency": "50%"
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  telescope-like invagination or prolapse of a segment of intestinal tract (= intussusceptum = donor loop) into the lumen of the adjacent intestinal segment (= intussuscipiens = receiving loop) ◊  The intussuscipiens contains the folded intussusceptum with entering limb + returning limb + their mesentery Classification by Location:   enteroenteric, ileocolic, ileocecal, colocolic Classification by Cause:   benign, malignant, idiopathic, ± lead point Intussusception in Children (94%) Prevalence:   2-4÷1,000 live births; most common abdominal emergency of early childhood ◊  Leading cause of acq"
+}

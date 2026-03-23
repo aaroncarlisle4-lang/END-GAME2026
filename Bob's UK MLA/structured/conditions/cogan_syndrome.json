@@ -1,0 +1,33 @@
+{
+  "name": "COGAN SYNDROME",
+  "slug": "cogan_syndrome",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/cogan_syndrome.md",
+  "definition": "AUTOIMMUNE INTERSTITIAL KERATITIS rare autoimmune multisystem disease characterized by nonsyphilitic interstitial keratitis +",
+  "demographics": {
+    "Age": "young white adult"
+  },
+  "dominant_finding": "membranous labyrinthine obliteration / narrowing",
+  "distribution": "necrotizing vasculitis → coronary / iliac / renal artery stenosis",
+  "discriminating_features": [
+    "aortitis → aortic insufficiency",
+    "necrotizing vasculitis → coronary / iliac / renal artery stenosis",
+    "membranous labyrinthine obliteration / narrowing",
+    "enhancement of membranous labyrinth",
+    "ischemic change or infarction, meningoencephalitis, cerebral venous sinus thrombosis,"
+  ],
+  "other_features": {
+    "general": [
+      "aortitis → aortic insufficiency",
+      "necrotizing vasculitis → coronary / iliac / renal artery stenosis"
+    ],
+    "MR": [
+      "membranous labyrinthine obliteration / narrowing",
+      "enhancement of membranous labyrinth"
+    ],
+    "CNS": [
+      "ischemic change or infarction, meningoencephalitis, cerebral venous sinus thrombosis,"
+    ]
+  },
+  "clinical": {}
+}

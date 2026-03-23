@@ -1,0 +1,87 @@
+{
+  "finding": "B. Malignant",
+  "slug": "b_malignant_105389",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/b_malignant_105389.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Invasive ductal carcinoma",
+      "raw": "Invasive ductal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Invasive lobular carcinoma",
+      "raw": "Invasive lobular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrocystic changes: adenosis, sclerosing adenosis, apocrine metaplasia, cyst formation ± rupture, ductal ectasia",
+      "raw": "Fibrocystic changes: adenosis, sclerosing adenosis, apocrine metaplasia, cyst formation ± rupture, ductal ectasia",
+      "frequency": null
+    },
+    {
+      "name": "Intraductal / intracystic papilloma",
+      "raw": "Intraductal / intracystic papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Fibroadenoma",
+      "raw": "Fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast varix (b)  atypical (high-risk) breast lesion",
+      "raw": "Breast varix (b)  atypical (high-risk) breast lesion",
+      "frequency": null
+    },
+    {
+      "name": "Atypical ductal hyperplasia",
+      "raw": "Atypical ductal hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Atypical papilloma",
+      "raw": "Atypical papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Lobular neoplasia (c)  malignant breast lesion",
+      "raw": "Lobular neoplasia (c)  malignant breast lesion",
+      "frequency": null
+    },
+    {
+      "name": "DCIS",
+      "raw": "DCIS",
+      "frequency": null
+    },
+    {
+      "name": "Infiltrating ductal carcinoma",
+      "raw": "Infiltrating ductal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Infiltrating lobular carcinoma",
+      "raw": "Infiltrating lobular carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Breast carcinoma is RARELY purely echogenic! Malignant Sonographic Characteristics ◊  Approximately 5 malignant features are found per cancer. The combination of 5 findings increases the sensitivity to 98.4%! √  spiculation = straight lines radiating perpendicularly from surface of tumor: √  coarse spiculation (less common) = hypoechoic lines (= fingers of invasive tumor / DCIS) alternating with hyperechoic lines (= interface between tumor and surrounding tissue) √  fine spiculation (more common): √  hyperechoic spicules in fatty tissue √  hypoechoic spicules in fibrous tissue √  thick echogen"
+}

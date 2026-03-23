@@ -1,0 +1,31 @@
+{
+  "name": "HYPERTROPHIC OSTEOARTHROPATHY",
+  "slug": "hypertrophic_osteoarthropathy",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/hypertrophic_osteoarthropathy.md",
+  "definition": "HYPERTROPHIC PULMONARY OSTEOARTHROPATHY (HPO) = MARIE- paraneoplastic syndrome",
+  "demographics": {},
+  "dominant_finding": "cortical thickening",
+  "distribution": "cortical thickening",
+  "discriminating_features": [
+    "cortical thickening",
+    "lamellar periosteal proliferation of new bone, at first smooth then undulating + rough",
+    "soft-tissue swelling (\"clubbing\") of distal phalanges",
+    "\"parallel track\" / \"double stripe\" / \"tramline\" sign = patchy linear diffusely increased",
+    "increased periarticular uptake ← synovitis"
+  ],
+  "other_features": {
+    "general": [
+      "cortical thickening",
+      "lamellar periosteal proliferation of new bone, at first smooth then undulating + rough",
+      "soft-tissue swelling (\"clubbing\") of distal phalanges",
+      "\"parallel track\" / \"double stripe\" / \"tramline\" sign = patchy linear diffusely increased",
+      "increased periarticular uptake ← synovitis",
+      "scapular involvement in ²/³",
+      "mandible ± maxilla abnormal in 40%"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "treatment of underlying condition leads to remission of symptoms often within 24"
+  }
+}

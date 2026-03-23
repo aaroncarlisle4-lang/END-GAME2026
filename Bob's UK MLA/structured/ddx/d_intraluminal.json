@@ -1,0 +1,27 @@
+{
+  "finding": "D. INTRALUMINAL",
+  "slug": "d_intraluminal",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/d_intraluminal.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gallstones",
+      "raw": "Gallstones",
+      "frequency": null
+    },
+    {
+      "name": "Foreign bodies, food particles, seeds, pills",
+      "raw": "Foreign bodies, food particles, seeds, pills",
+      "frequency": null
+    },
+    {
+      "name": "Parasites: ascariasis, strongyloidiasis, hookworm, tapeworm",
+      "raw": "Parasites: ascariasis, strongyloidiasis, hookworm, tapeworm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

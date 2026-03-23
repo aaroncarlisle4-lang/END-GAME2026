@@ -1,0 +1,42 @@
+{
+  "finding": "Rhabdomyosarcoma (DDx)",
+  "slug": "rhabdomyosarcoma_ddx_6eeeef",
+  "chapter": "Rhabdomyosarcoma",
+  "source_file": "processed_clusters/rhabdomyosarcoma/rhabdomyosarcoma_ddx_6eeeef.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibrosarcoma",
+      "raw": "fibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "hemangioma",
+      "raw": "hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "lymphangioma",
+      "raw": "lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "mastoiditis",
+      "raw": "mastoiditis",
+      "frequency": null
+    },
+    {
+      "name": "lymphadenopathy",
+      "raw": "lymphadenopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mild to moderate uniform diffuse contrast enhancement | poorly defined relatively homogeneous mass isodense to brain | expanded foramen / fissure | SI intermediate between muscle and fat on T1WI + hyperintense on T2WI"
+}

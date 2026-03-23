@@ -1,0 +1,109 @@
+# Disease: NEONATAL INTRACRANIAL HEMORRHAGE
+
+**Source section:** INTRAVENTRICULAR NEUROCYTOMA
+
+## Definition
+
+GERMINAL MATRIX-RELATED HEMORRHAGE periventricular venous infarction ← thrombosis of medullary veins WHITE MATTER INJURY OF PREMATURITY PVL = perinatal hypoxic-ischemic encephalopathy PRINCIPAL ischemic lesion of the premature infant characterized by areas of focal coagulation CYSTIC PERIVENTRICULAR LEUKOMALACIA leukoencephalopathy resulting from pre- / perinatal hypoxic-ischemic event more extensive brain damage than PVL; may include all of white matter in subcortex +
+
+## Key Facts
+
+- **Etiology:** hypoxia with loss of autoregulation
+- **Frequency:** 5-8%
+- **Location:** on side of largest amount of IVH, commonly lateral to frontal horns / in
+- **Incidence:** 16-21% of autopsies
+- **Histo:** edema, white matter necrosis, evolution of cysts + cavities / diminished myelin;
+- **Associated with:** the most severe cases of intraventricular hemorrhage
+- **Age:** peak occurrence on 4th postnatal day
+
+## Imaging Findings
+
+### General
+
+- well-defined ovoid area of increased echogenicity (= fibrin mesh within clot)
+- bulbous enlargement of caudothalamic groove anterior to termination of choroid
+- resolving bleed develops central sonolucency
+- outcome: (1) complete involution (2) thin echogenic scar (3) subependymal cyst
+- echogenic material filling a portion of lateral ventricles (acute phase) becoming
+- clot may gravitate into occipital horns
+- vertical band of echogenicity between thalami on coronal scans (blood in 3rd
+- irregular bulky choroid plexus (clot layered on surface of choroid plexus)
+- temporarily increased echogenicity of ventricular wall (= subependymal white halo
+- intraventricular cast of blood distending lateral ventricles
+- ± extension of hemorrhage into basal cisterns, cavum septi pellucidi
+- hemorrhage becomes progressively less echogenic
+- temporarily thickened echogenic walls of ventricles ("ventriculitis")
+- unilateral triangular hemorrhage
+- homogeneous highly echogenic intraparenchymal mass with irregular margins
+- central hypoechogenicity (liquefying hematoma after 10-14 days)
+- retracted clot settles to dependent position (3-4 weeks)
+- complete resolution by 8-10 weeks results in anechoic area (= porencephalic cyst)
+
+### CT
+
+- hyperdense bleed only visible up to 7 days before it becomes isodense
+- highest sensitivity for detecting small hemorrhages
+- useful for depicting periventricular venous infarction in grade 4 germinal matrix
+- thickened echogenic ventricular walls
+- ventricular dilatation, particularly affecting the occipital horns (amount of
+- echogenicity of choroid plexus same as hemorrhage
+- nodularity of choroid plexus
+- enlargement of choroid plexus > 12 mm in AP diameter
+- left-right asymmetry > 5 mm
+- intraventricular hemorrhage without subependymal hemorrhage
+- echogenicity of vermis same as hemorrhage
+- echogenic mass in less echogenic cerebellar hemisphere (coronal scan most useful)
+- nonvisualization / deformity of 4th ventricle
+- asymmetry in thickness of paratentorial echogenicity is a sign of subarachnoid hemorrhage
+- IVH usually clears within 7-14 days
+- increased periventricular echogenicity (PVE) (DDx: echogenic periventricular halo
+- bilateral often asymmetric zones, occasionally extending to cortex
+- infrequently accompanied by IVH
+- periventricular cystic PVL = cystic degeneration of ischemic areas (= multiple
+- brain atrophy ← thinning of periventricular white matter always at trigones,
+- ventriculomegaly (after disappearance of cysts) with irregular outline of body +
+- deep prominent sulci abutting ventricles with little / no interposed white matter
+- enlarged interhemispheric fissure
+- periventricular hypodensity (DDx: immature brain with increased water + incomplete
+- hypointense areas on T1WI
+- hyperintense periventricular signals on T2WI in peritrigonal region ← delay in
+- thinning of posterior body + splenium of corpus callosum (= degeneration of
+
+### US
+
+- unilateral / asymmetric bilateral triangular "fan-shaped" echodensities
+- extension from frontal to parietooccipital regions / localized (particularly in
+- single large cyst = porencephaly
+- bumpy ventricle / false accessory ventricle
+- small ventricles (← edema) with diffuse damage
+- increased parenchymal echogenicity making it difficult to define normal structures
+- decreased vascular pulsations
+- transcranial Doppler:
+- normal flow profile, normal velocities, normal resistive index
+- increase in peak-systolic + end-diastolic flow velocities + decreased resistive
+- reduced diastolic flow + decreased peak systolic and diastolic velocities +
+- ventricular enlargement + atrophy
+- extensive multicystic encephalomalacia with cysts often not communicating
+
+### MR
+
+- increased signal intensity in periventricular white matter on T2WI + FLAIR
+- marked loss of periventricular white matter (predominantly in periatrial region)
+- adjacent compensatory focal ventricular enlargement
+- secondary thinning of corpus callosum
+- relative sparing of overlying cortical mantle
+- surrounded by gliosis easily depicted on FLAIR
+
+## Clinical
+
+- **Cx:** intraventricular hemorrhage (25%)
+- **Prognosis:** poor + frequently fatal
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

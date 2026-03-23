@@ -1,0 +1,87 @@
+{
+  "finding": "Depression of Renal Margins",
+  "slug": "depression_of_renal_margins_780b09",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/depression_of_renal_margins_780b09.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fetal lobation",
+      "raw": "Fetal lobation",
+      "frequency": null
+    },
+    {
+      "name": "Splenic impression",
+      "raw": "Splenic impression",
+      "frequency": null
+    },
+    {
+      "name": "Chronic atrophic pyelonephritis",
+      "raw": "Chronic atrophic pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Renal infarct",
+      "raw": "Renal infarct",
+      "frequency": null
+    },
+    {
+      "name": "Chronic renal ischemia",
+      "raw": "Chronic renal ischemia",
+      "frequency": null
+    },
+    {
+      "name": "INFECTION (a)  from retroperitoneal organs",
+      "raw": "INFECTION (a)  from retroperitoneal organs",
+      "frequency": null
+    },
+    {
+      "name": "Renal infection",
+      "raw": "Renal infection",
+      "frequency": null
+    },
+    {
+      "name": "Complicated pancreatitis",
+      "raw": "Complicated pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative aortic graft infection (b)  from spine",
+      "raw": "Postoperative aortic graft infection (b)  from spine",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis / postoperative complication of bone surgery",
+      "raw": "Osteomyelitis / postoperative complication of bone surgery",
+      "frequency": null
+    },
+    {
+      "name": "Diskitis / postoperative complication ← disk surgery (c)  from GI tract",
+      "raw": "Diskitis / postoperative complication ← disk surgery (c)  from GI tract",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis (d)  others",
+      "raw": "Appendicitis (d)  others",
+      "frequency": null
+    },
+    {
+      "name": "Pelvic inflammatory disease / postpartum infection",
+      "raw": "Pelvic inflammatory disease / postpartum infection",
+      "frequency": null
+    },
+    {
+      "name": "Sepsis",
+      "raw": "Sepsis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  notching between normal calyces √  flattened upper outer margin of left kidney √  indentation over clubbed calyces √  normal calyces √  normal calyces Enlargement of Iliopsoas Compartment"
+}

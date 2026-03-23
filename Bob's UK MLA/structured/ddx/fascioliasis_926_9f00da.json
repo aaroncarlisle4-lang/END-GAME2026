@@ -1,0 +1,675 @@
+{
+  "finding": "Fascioliasis 926",
+  "slug": "fascioliasis_926_9f00da",
+  "chapter": "Symbols",
+  "source_file": "processed_clusters/symbols/fascioliasis_926_9f00da.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "containing adrenal mass 1156 breast lesion 685 liver mass 864 renal mass 1163 embolism 616 syndrome 199 halo sign 1024 herniation, lung 552 necrosis abdomen 1078, 1027 breast 720 retroperitoneum 1259",
+      "raw": "containing adrenal mass 1156 breast lesion 685 liver mass 864 renal mass 1163 embolism 616 syndrome 199 halo sign 1024 herniation, lung 552 necrosis abdomen 1078, 1027 breast 720 retroperitoneum 1259",
+      "frequency": null
+    },
+    {
+      "name": "pad sign, heart 747 pads, hip 46 ring sign, mesentery 1027, 1138",
+      "raw": "pad sign, heart 747 pads, hip 46 ring sign, mesentery 1027, 1138",
+      "frequency": null
+    },
+    {
+      "name": "spared area in liver 927 pancreas 964",
+      "raw": "spared area in liver 927 pancreas 964",
+      "frequency": null
+    },
+    {
+      "name": "stranding, pericecal 1019",
+      "raw": "stranding, pericecal 1019",
+      "frequency": null
+    },
+    {
+      "name": "Fatality 1427",
+      "raw": "Fatality 1427",
+      "frequency": null
+    },
+    {
+      "name": "Fatigue fracture 104",
+      "raw": "Fatigue fracture 104",
+      "frequency": null
+    },
+    {
+      "name": "Fatty",
+      "raw": "Fatty",
+      "frequency": null
+    },
+    {
+      "name": "meal sonography 875 neck mass 448 pancreas 878 pelvic mass 1313 replacement, pancreas 964 soft-tissue tumor 27 streak, intima 477",
+      "raw": "meal sonography 875 neck mass 448 pancreas 878 pelvic mass 1313 replacement, pancreas 964 soft-tissue tumor 27 streak, intima 477",
+      "frequency": null
+    },
+    {
+      "name": "FDG distribution 1397",
+      "raw": "FDG distribution 1397",
+      "frequency": null
+    },
+    {
+      "name": "Feeding vessel sign 670",
+      "raw": "Feeding vessel sign 670",
+      "frequency": null
+    },
+    {
+      "name": "Feigin tumor 357",
+      "raw": "Feigin tumor 357",
+      "frequency": null
+    },
+    {
+      "name": "Feline esophagus 1004",
+      "raw": "Feline esophagus 1004",
+      "frequency": null
+    },
+    {
+      "name": "Felty syndrome 189",
+      "raw": "Felty syndrome 189",
+      "frequency": null
+    },
+    {
+      "name": "Female",
+      "raw": "Female",
+      "frequency": null
+    },
+    {
+      "name": "Femoroacetabular impingement 96 [Femur length 1325]",
+      "raw": "Femoroacetabular impingement 96",
+      "frequency": null,
+      "sites": [
+        "Femur length 1325"
+      ]
+    },
+    {
+      "name": "Fencers bone 157",
+      "raw": "Fencers bone 157",
+      "frequency": null
+    },
+    {
+      "name": "Fenestral otosclerosis 496",
+      "raw": "Fenestral otosclerosis 496",
+      "frequency": null
+    },
+    {
+      "name": "Fenestration of falx 342",
+      "raw": "Fenestration of falx 342",
+      "frequency": null
+    },
+    {
+      "name": "Fentanyl 1437",
+      "raw": "Fentanyl 1437",
+      "frequency": null
+    },
+    {
+      "name": "Ferguson view 240",
+      "raw": "Ferguson view 240",
+      "frequency": null
+    },
+    {
+      "name": "Ferritin 363",
+      "raw": "Ferritin 363",
+      "frequency": null
+    },
+    {
+      "name": "Ferrocalcinosis, familial cerebrovascular 355",
+      "raw": "Ferrocalcinosis, familial cerebrovascular 355",
+      "frequency": null
+    },
+    {
+      "name": "Fetal",
+      "raw": "Fetal",
+      "frequency": null
+    },
+    {
+      "name": "Fibrin bodies, pleura 549",
+      "raw": "Fibrin bodies, pleura 549",
+      "frequency": null
+    },
+    {
+      "name": "Fibrinoid leukodystrophy 328",
+      "raw": "Fibrinoid leukodystrophy 328",
+      "frequency": null
+    },
+    {
+      "name": "Fibroadenolipoma, breast 724",
+      "raw": "Fibroadenolipoma, breast 724",
+      "frequency": null
+    },
+    {
+      "name": "Fibroadenoma",
+      "raw": "Fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibroadenomatoid mastopathy 723",
+      "raw": "Fibroadenomatoid mastopathy 723",
+      "frequency": null
+    },
+    {
+      "name": "Fibroadenomatosis, breast 722",
+      "raw": "Fibroadenomatosis, breast 722",
+      "frequency": null
+    },
+    {
+      "name": "Fibrochondrogenesis 97",
+      "raw": "Fibrochondrogenesis 97",
+      "frequency": null
+    },
+    {
+      "name": "Fibrocystic disease",
+      "raw": "Fibrocystic disease",
+      "frequency": null
+    },
+    {
+      "name": "Fibroelastoma, papillary, heart 834",
+      "raw": "Fibroelastoma, papillary, heart 834",
+      "frequency": null
+    },
+    {
+      "name": "Fibroelastosis, endocardial 815",
+      "raw": "Fibroelastosis, endocardial 815",
+      "frequency": null
+    },
+    {
+      "name": "Fibroepithelial polyp, ureter 1209",
+      "raw": "Fibroepithelial polyp, ureter 1209",
+      "frequency": null
+    },
+    {
+      "name": "Fibrogenesis imperfecta osseum 191",
+      "raw": "Fibrogenesis imperfecta osseum 191",
+      "frequency": null
+    },
+    {
+      "name": "Fibroid",
+      "raw": "Fibroid",
+      "frequency": null
+    },
+    {
+      "name": "Fibrolipomatosis, kidney 1229",
+      "raw": "Fibrolipomatosis, kidney 1229",
+      "frequency": null
+    },
+    {
+      "name": "Fibrolipomatous hamartoma, nerve 141",
+      "raw": "Fibrolipomatous hamartoma, nerve 141",
+      "frequency": null
+    },
+    {
+      "name": "Fibroma",
+      "raw": "Fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Fibromyxoma, kidney 1220",
+      "raw": "Fibromyxoma, kidney 1220",
+      "frequency": null
+    },
+    {
+      "name": "Fibronectin 665",
+      "raw": "Fibronectin 665",
+      "frequency": null
+    },
+    {
+      "name": "Fibro-osseous pseudotumor of digits 157",
+      "raw": "Fibro-osseous pseudotumor of digits 157",
+      "frequency": null
+    },
+    {
+      "name": "Fibropolycystic liver disease 864",
+      "raw": "Fibropolycystic liver disease 864",
+      "frequency": null
+    },
+    {
+      "name": "Fibroproductive tuberculosis 681",
+      "raw": "Fibroproductive tuberculosis 681",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosarcoma",
+      "raw": "Fibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrothecoma 1383",
+      "raw": "Fibrothecoma 1383",
+      "frequency": null
+    },
+    {
+      "name": "Fibrothorax 549",
+      "raw": "Fibrothorax 549",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous",
+      "raw": "Fibrous",
+      "frequency": null
+    },
+    {
+      "name": "Fibrovascular polyp, esophagus 1089",
+      "raw": "Fibrovascular polyp, esophagus 1089",
+      "frequency": null
+    },
+    {
+      "name": "Fibroxanthoma 160, 1106",
+      "raw": "Fibroxanthoma 160, 1106",
+      "frequency": null
+    },
+    {
+      "name": "Field uniformity, scintillation camera 1395",
+      "raw": "Field uniformity, scintillation camera 1395",
+      "frequency": null
+    },
+    {
+      "name": "Fifth ventricle 314",
+      "raw": "Fifth ventricle 314",
+      "frequency": null
+    },
+    {
+      "name": "Figure of",
+      "raw": "Figure of",
+      "frequency": null
+    },
+    {
+      "name": "Filshie® Clip 1362",
+      "raw": "Filshie® Clip 1362",
+      "frequency": null
+    },
+    {
+      "name": "Filtration rate, glomerulus 1187",
+      "raw": "Filtration rate, glomerulus 1187",
+      "frequency": null
+    },
+    {
+      "name": "Filum terminale",
+      "raw": "Filum terminale",
+      "frequency": null
+    },
+    {
+      "name": "Fimbrial cyst 1374",
+      "raw": "Fimbrial cyst 1374",
+      "frequency": null
+    },
+    {
+      "name": "Fine-needle aspiration biopsy, thyroid 451",
+      "raw": "Fine-needle aspiration biopsy, thyroid 451",
+      "frequency": null
+    },
+    {
+      "name": "Finger",
+      "raw": "Finger",
+      "frequency": null
+    },
+    {
+      "name": "in glove appearance 582",
+      "raw": "in glove appearance 582",
+      "frequency": null
+    },
+    {
+      "name": "in-glove sign 542",
+      "raw": "in-glove sign 542",
+      "frequency": null
+    },
+    {
+      "name": "like mucus plugging bronchial atresia 588 cystic fibrosis 606 lucent lesion 20 resorption of terminal tufts 21",
+      "raw": "like mucus plugging bronchial atresia 588 cystic fibrosis 606 lucent lesion 20 resorption of terminal tufts 21",
+      "frequency": null
+    },
+    {
+      "name": "Fingerized hypoplastic thumb 127",
+      "raw": "Fingerized hypoplastic thumb 127",
+      "frequency": null
+    },
+    {
+      "name": "Fire-eater pneumonia 630",
+      "raw": "Fire-eater pneumonia 630",
+      "frequency": null
+    },
+    {
+      "name": "First",
+      "raw": "First",
+      "frequency": null
+    },
+    {
+      "name": "degree heart block 1357",
+      "raw": "degree heart block 1357",
+      "frequency": null
+    },
+    {
+      "name": "pass extraction, thallium 1412 ventriculography 1409 trimester abnormal sonography 1297 bleeding 1296",
+      "raw": "pass extraction, thallium 1412 ventriculography 1409 trimester abnormal sonography 1297 bleeding 1296",
+      "frequency": null
+    },
+    {
+      "name": "Fish mouth vertebra 224",
+      "raw": "Fish mouth vertebra 224",
+      "frequency": null
+    },
+    {
+      "name": "Fishnet weave pattern, ovary 1370",
+      "raw": "Fishnet weave pattern, ovary 1370",
+      "frequency": null
+    },
+    {
+      "name": "Fissula ante fenestrum 496",
+      "raw": "Fissula ante fenestrum 496",
+      "frequency": null
+    },
+    {
+      "name": "Fissure",
+      "raw": "Fissure",
+      "frequency": null
+    },
+    {
+      "name": "Flared ilium 89",
+      "raw": "Flared ilium 89",
+      "frequency": null
+    },
+    {
+      "name": "Flare phenomenon 151",
+      "raw": "Flare phenomenon 151",
+      "frequency": null
+    },
+    {
+      "name": "Flat-topped bladder 1267",
+      "raw": "Flat-topped bladder 1267",
+      "frequency": null
+    },
+    {
+      "name": "Fleeting pulmonary opacities 523",
+      "raw": "Fleeting pulmonary opacities 523",
+      "frequency": null
+    },
+    {
+      "name": "Fleischner",
+      "raw": "Fleischner",
+      "frequency": null
+    },
+    {
+      "name": "Hand-Schüller-Christian 138",
+      "raw": "Hand-Schüller-Christian 138",
+      "frequency": null
+    },
+    {
+      "name": "Flocculation of barium 1139",
+      "raw": "Flocculation of barium 1139",
+      "frequency": null
+    },
+    {
+      "name": "Floor of mouth 457",
+      "raw": "Floor of mouth 457",
+      "frequency": null
+    },
+    {
+      "name": "Floppy",
+      "raw": "Floppy",
+      "frequency": null
+    },
+    {
+      "name": "volume loop, lung 569",
+      "raw": "volume loop, lung 569",
+      "frequency": null
+    },
+    {
+      "name": "Flowing candle wax 146",
+      "raw": "Flowing candle wax 146",
+      "frequency": null
+    },
+    {
+      "name": "Fluffy periosteal reaction 185",
+      "raw": "Fluffy periosteal reaction 185",
+      "frequency": null
+    },
+    {
+      "name": "Fluid",
+      "raw": "Fluid",
+      "frequency": null
+    },
+    {
+      "name": "Fluorine-18 fluorodeoxyglucose 1397",
+      "raw": "Fluorine-18 fluorodeoxyglucose 1397",
+      "frequency": null
+    },
+    {
+      "name": "Fluorosis 90",
+      "raw": "Fluorosis 90",
+      "frequency": null
+    },
+    {
+      "name": "Foam cyst, breast 718",
+      "raw": "Foam cyst, breast 718",
+      "frequency": null
+    },
+    {
+      "name": "Focal",
+      "raw": "Focal",
+      "frequency": null
+    },
+    {
+      "name": "Fogging phenomenon 371",
+      "raw": "Fogging phenomenon 371",
+      "frequency": null
+    },
+    {
+      "name": "Folded lung 580",
+      "raw": "Folded lung 580",
+      "frequency": null
+    },
+    {
+      "name": "Folds of Kerckring 1035",
+      "raw": "Folds of Kerckring 1035",
+      "frequency": null
+    },
+    {
+      "name": "Folic acid antagonists 1303",
+      "raw": "Folic acid antagonists 1303",
+      "frequency": null
+    },
+    {
+      "name": "Follicle, Graafian 1334",
+      "raw": "Follicle, Graafian 1334",
+      "frequency": null
+    },
+    {
+      "name": "Follicular",
+      "raw": "Follicular",
+      "frequency": null
+    },
+    {
+      "name": "Fong disease 158",
+      "raw": "Fong disease 158",
+      "frequency": null
+    },
+    {
+      "name": "Fontan procedure 759",
+      "raw": "Fontan procedure 759",
+      "frequency": null
+    },
+    {
+      "name": "Foot",
+      "raw": "Foot",
+      "frequency": null
+    },
+    {
+      "name": "Forced expiratory volume 569",
+      "raw": "Forced expiratory volume 569",
+      "frequency": null
+    },
+    {
+      "name": "Forearm fracture 107",
+      "raw": "Forearm fracture 107",
+      "frequency": null
+    },
+    {
+      "name": "Forebrain 311",
+      "raw": "Forebrain 311",
+      "frequency": null
+    },
+    {
+      "name": "Foregut",
+      "raw": "Foregut",
+      "frequency": null
+    },
+    {
+      "name": "Forestier disease 85",
+      "raw": "Forestier disease 85",
+      "frequency": null
+    },
+    {
+      "name": "Forked rib 18",
+      "raw": "Forked rib 18",
+      "frequency": null
+    },
+    {
+      "name": "Formation of testis 1184",
+      "raw": "Formation of testis 1184",
+      "frequency": null
+    },
+    {
+      "name": "Fossae lacunae 215",
+      "raw": "Fossae lacunae 215",
+      "frequency": null
+    },
+    {
+      "name": "Fossa of",
+      "raw": "Fossa of",
+      "frequency": null
+    },
+    {
+      "name": "Landzert 1102",
+      "raw": "Landzert 1102",
+      "frequency": null
+    },
+    {
+      "name": "Rosenmüller 462",
+      "raw": "Rosenmüller 462",
+      "frequency": null
+    },
+    {
+      "name": "Waldeyer 1102",
+      "raw": "Waldeyer 1102",
+      "frequency": null
+    },
+    {
+      "name": "Fossa ovalis 767",
+      "raw": "Fossa ovalis 767",
+      "frequency": null
+    },
+    {
+      "name": "Four",
+      "raw": "Four",
+      "frequency": null
+    },
+    {
+      "name": "chamber view 763 abnormal 1307",
+      "raw": "chamber view 763 abnormal 1307",
+      "frequency": null
+    },
+    {
+      "name": "quadrant bar pattern 1395",
+      "raw": "quadrant bar pattern 1395",
+      "frequency": null
+    },
+    {
+      "name": "Fragilitas ossium 167",
+      "raw": "Fragilitas ossium 167",
+      "frequency": null
+    },
+    {
+      "name": "Fragmentation of barium 1139",
+      "raw": "Fragmentation of barium 1139",
+      "frequency": null
+    },
+    {
+      "name": "Fragment-in-notch sign 149",
+      "raw": "Fragment-in-notch sign 149",
+      "frequency": null
+    },
+    {
+      "name": "Fränkel's white line 196",
+      "raw": "Fränkel's white line 196",
+      "frequency": null
+    },
+    {
+      "name": "Fraternal twins 1328",
+      "raw": "Fraternal twins 1328",
+      "frequency": null
+    },
+    {
+      "name": "Frayed metaphyses 7",
+      "raw": "Frayed metaphyses 7",
+      "frequency": null
+    },
+    {
+      "name": "Free",
+      "raw": "Free",
+      "frequency": null
+    },
+    {
+      "name": "basing 551 fragment, disk herniation 251",
+      "raw": "basing 551 fragment, disk herniation 251",
+      "frequency": null
+    },
+    {
+      "name": "Fresh-water drowning 644",
+      "raw": "Fresh-water drowning 644",
+      "frequency": null
+    },
+    {
+      "name": "Friedländer bacillus 630",
+      "raw": "Friedländer bacillus 630",
+      "frequency": null
+    },
+    {
+      "name": "Frontal",
+      "raw": "Frontal",
+      "frequency": null
+    },
+    {
+      "name": "Frostbite 115",
+      "raw": "Frostbite 115",
+      "frequency": null
+    },
+    {
+      "name": "Frozen hemithorax 642",
+      "raw": "Frozen hemithorax 642",
+      "frequency": null
+    },
+    {
+      "name": "Fulminant fasciitis 1209",
+      "raw": "Fulminant fasciitis 1209",
+      "frequency": null
+    },
+    {
+      "name": "Functional",
+      "raw": "Functional",
+      "frequency": null
+    },
+    {
+      "name": "like cardiomegaly 814",
+      "raw": "like cardiomegaly 814",
+      "frequency": null
+    },
+    {
+      "name": "Fürstenberg test 339",
+      "raw": "Fürstenberg test 339",
+      "frequency": null
+    },
+    {
+      "name": "Fused rib 18",
+      "raw": "Fused rib 18",
+      "frequency": null
+    },
+    {
+      "name": "Fusiform",
+      "raw": "Fusiform",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Fat infiltration muscle 32 pancreas 964 liver 926 intersex 1181 pseudohermaphroditism 1181 Femoral hernia 1101 triangle, contents 780 vein 778 abdomen, cystic mass 1308 acardia 1339 adrenal gland, echogenic 1308 age 1324 akinesia deformation sequence 1356 aortic flow volume 1364 ascites 1309 bowel, echogenic 1308 bradycardia 1306 cardiac anomalies 1306 dysrhythmia 1356 circulation, persistent 838 CNS anomalies 1303 death in utero 1357 echocardiography 1307 exposure to radiation 1335 gastrointestinal anomalies 1307 goiter 133 growth acceleration 1365 retardation 1362 hamartoma, benign 1220 head"
+}

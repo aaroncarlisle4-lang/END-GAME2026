@@ -1,0 +1,22 @@
+{
+  "finding": "Pseudoangiomatous Stromal Hyperplasia (DDx)",
+  "slug": "pseudoangiomatous_stromal_hyperplasia_ddx_ca06d8",
+  "chapter": "Pseudoangiomatous Stromal Hyperplasia",
+  "source_file": "processed_clusters/pseudoangiomatous_stromal_hyperplasia/pseudoangiomatous_stromal_hyperplasia_ddx_ca06d8.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibroadenoma; phyllodes tumor; angiosarcoma (slitlike spaces with atypical cell nuclei containing erythrocytes",
+      "raw": "fibroadenoma; phyllodes tumor; angiosarcoma (slitlike spaces with atypical cell nuclei containing erythrocytes",
+      "frequency": null
+    },
+    {
+      "name": "positive for CD31 + factor VIII)",
+      "raw": "positive for CD31 + factor VIII)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± circumscribed margins | ± small cystic component | usually no posterior phenomena | commonly persistent (type 1) or less frequently plateau (type 2) / washout (type 3)"
+}

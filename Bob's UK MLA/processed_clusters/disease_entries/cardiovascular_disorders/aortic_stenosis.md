@@ -1,0 +1,102 @@
+# Disease: AORTIC STENOSIS
+
+**Source section:** CARDIOVASCULAR DISORDERS
+
+## Definition
+
+SUBAORTIC STENOSIS fusion of commissures between cusps focal / diffuse narrowing of aorta starting at sinotubular junction + often involving entire
+
+## Key Facts
+
+- **Associated with:** cardiac defects in 50% (usually VSD)
+- **Genetics:** (rare) sporadic form / autosomal inherited: mutation of elastin gene on
+- **Path:** reduction + disorganization of elastin fibers within aortic media accompanied by
+
+## Imaging Findings
+
+### General
+
+- poststenotic dilatation of ascending aorta (in 90% of acquired, in 70% of congenital AS)
+- normal-sized / enlarged LV (small LV chamber with thick walls)
+
+### CT
+
+- thickening + calcification of cusps
+- reduction of aortic valve area
+- thickened + calcified aortic valve with multiple dense cusp echoes throughout cardiac
+- decreased separation of leaflets in systole with ↓ opening orifice: 13-14 mm = mild AS; 8-
+- ± doming in systole
+- dilated aortic root
+- increased thickness of LV wall ← concentric LV hypertrophy
+- hyperdynamic contraction of LV (in compensated state)
+- decreased mitral EF slope ← reduced LV compliance
+- LA enlargement
+- increased aortic valve gradient (Doppler)
+- decreased aortic valve area (unreliable)
+- no dilatation of ascending aorta
+- asymmetrically thicker ventricular septum than free wall of LV (95%)
+- normal / small left + right ventricular cavities (95%)
+- lucent subaortic filling defect in systole
+- focal convexity of left upper-mid cardiac margin = anterior aspect of ventricular septum
+- coarse systolic flutter of valve cusps
+- opening of leaflets followed by rapid inward move in mid systole, leaflets may remain in
+- systolic anterior motion of mitral valve
+- marked cardiomegaly ← thickened wall of LV
+- pulmonary venous hypertension
+- decreased ejection fraction
+- doming of thickened valve cusps
+- dilated ascending aorta
+
+### in adults > 30 years
+
+- calcification of aortic valve (best seen on RAO); indicates gradient > 50 mmHg:
+- severe aortic calcifications = "porcelain aorta" → technically difficult / impossible
+- ectasia / aneurysmal dilatation of ascending aorta ( NO correlation with severity of
+- calcification of mitral annulus
+- "left ventricular configuration" = concavity along mid left lateral heart border +
+
+### in children / young adults
+
+- prominent ascending aorta
+- left ventricular heart configuration
+
+### in infancy:
+
+- left ventricular stress syndrome
+
+### IN CHILD:
+
+- normal pulmonary vascularity
+- LV configuration with normal size of heart
+- large posterior noncoronary cusp, smaller fused right + left cusps
+- doming of thickened valve cusps
+- eccentric jet of contrast
+- poststenotic dilatation of ascending aorta
+
+### IN ADULT
+
+- valvular calcifications (in 60% of > 24 years of age)
+- increase in echoes from thickened deformed leaflets (maximal during diastole)
+- decrease in leaflet separation
+- small ascending thoracic aorta
+- dilatation + tortuosity of coronary arteries (may undergo early atherosclerotic degeneration
+- narrowing of supravalvular aortic area (normal root diameter: 20-37 mm)
+- normal movement of cusps
+- left ventricular myocardial hypertrophy
+- bicuspid aortic valve
+
+## Clinical
+
+- **N.B.:** Most common cause worldwide
+- **Prognosis:** depends on symptomatology (angina, syncope, CHF → 2-3 years average survival
+- **Cx:** aortic valve replacement (for symptomatic patient with substantial ventricular dysfunction)
+- **Rx:** emergency surgical dilatation
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

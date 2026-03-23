@@ -1,0 +1,147 @@
+{
+  "finding": "CEPHALOCELE",
+  "slug": "cephalocele_cff05b",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/central_neurocytoma/cephalocele_cff05b.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "faulty closure of neural tube",
+      "raw": "faulty closure of neural tube (without mesenchyme membranous cranial bone cannot develop)",
+      "frequency": null
+    },
+    {
+      "name": "failure of basilar ossification centers to unite @   Calvarium",
+      "raw": "failure of basilar ossification centers to unite @   Calvarium",
+      "frequency": null
+    },
+    {
+      "name": "defective induction of bone",
+      "raw": "defective induction of bone",
+      "frequency": null
+    },
+    {
+      "name": "pressure erosion of bone by intracranial mass / cyst",
+      "raw": "pressure erosion of bone by intracranial mass / cyst",
+      "frequency": null
+    },
+    {
+      "name": "Spina bifida",
+      "raw": "Spina bifida (7-30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Corpus callosum dys- / agenesis",
+      "raw": "Corpus callosum dys- / agenesis",
+      "frequency": null
+    },
+    {
+      "name": "Chiari malformation",
+      "raw": "Chiari malformation",
+      "frequency": null
+    },
+    {
+      "name": "Dandy-Walker malformation",
+      "raw": "Dandy-Walker malformation",
+      "frequency": null
+    },
+    {
+      "name": "Cerebellar hypoplasia",
+      "raw": "Cerebellar hypoplasia",
+      "frequency": null
+    },
+    {
+      "name": "Amniotic band syndrome: multiple irregular asymmetric off-midline encephaloceles",
+      "raw": "Amniotic band syndrome: multiple irregular asymmetric off-midline encephaloceles",
+      "frequency": null
+    },
+    {
+      "name": "Migrational abnormalities",
+      "raw": "Migrational abnormalities",
+      "frequency": null
+    },
+    {
+      "name": "Chromosomal anomalies in 44%",
+      "raw": "Chromosomal anomalies in 44% (trisomy 18)",
+      "frequency": "44%"
+    },
+    {
+      "name": "MS-AFP elevated in 3%",
+      "raw": "MS-AFP elevated in 3% (skin-covered in 60%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "CSF rhinorrhea; meningitis Prognosis:   dependent on associated malformations + size and content of lesion; 21% liveborn;",
+      "raw": "CSF rhinorrhea; meningitis Prognosis:   dependent on associated malformations + size and content of lesion; 21% liveborn;",
+      "frequency": "21%"
+    },
+    {
+      "name": "Meckel-Gruber syndrome = occipital encephalocele + microcephaly + cystic dysplastic kidneys + polydactyly",
+      "raw": "Meckel-Gruber syndrome = occipital encephalocele + microcephaly + cystic dysplastic kidneys + polydactyly",
+      "frequency": null
+    },
+    {
+      "name": "Dandy-Walker malformation",
+      "raw": "Dandy-Walker malformation",
+      "frequency": null
+    },
+    {
+      "name": "Chiari malformation",
+      "raw": "Chiari malformation",
+      "frequency": null
+    },
+    {
+      "name": "Callosal + migrational anomalies",
+      "raw": "Callosal + migrational anomalies",
+      "frequency": null
+    },
+    {
+      "name": "external occipital mass",
+      "raw": "external occipital mass",
+      "frequency": null
+    },
+    {
+      "name": "Nasofrontal (40-60%) =  herniation of dura mater through foramen cecum + fonticulus frontalis",
+      "raw": "Nasofrontal (40-60%) =  herniation of dura mater through foramen cecum + fonticulus frontalis",
+      "frequency": "60%"
+    },
+    {
+      "name": "Nasoethmoidal",
+      "raw": "Nasoethmoidal (30%) =  persistent herniation of dural diverticulum through foramen cecum into prenasal space Site:  between nasal bone + nasal cartilage (beneath nasal bone + above nasal septum)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Naso-orbital",
+      "raw": "Naso-orbital",
+      "frequency": null
+    },
+    {
+      "name": "obvious nonprogressive pulsatile mass",
+      "raw": "obvious nonprogressive pulsatile mass",
+      "frequency": null
+    },
+    {
+      "name": "broad nasal root, hypertelorism, nasal stuffiness, rhinorrhea",
+      "raw": "broad nasal root, hypertelorism, nasal stuffiness, rhinorrhea",
+      "frequency": null
+    },
+    {
+      "name": "change in size during crying / Valsalva maneuver",
+      "raw": "change in size during crying / Valsalva maneuver",
+      "frequency": null
+    },
+    {
+      "name": "positive Fürstenberg test = change in size during jugular compression",
+      "raw": "positive Fürstenberg test = change in size during jugular compression",
+      "frequency": null
+    },
+    {
+      "name": "Nasal glioma",
+      "raw": "Nasal glioma (no subarachnoid connection on cisternography)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  mesodermal defect of calvarial suture + dura with extracranial extension (= herniation) of intracranial structures and persistent connection to subarachnoid space Cranial meningocele: = herniation of meninges + CSF only Encephalocele = herniation of meninges (Meningoencephalocele)   + CSF + neural tissue Nomenclature:   based on origin of their roof + floor eg, frontonasal: frontal bone = roof, nasal bone = floor Prevalence: 1-4÷10,000 live births; 5-6-20% of all craniospinal malformations; predominant neural axis anomaly in fetuses spontaneously aborted < 20 weeks GA; 3% of fetal anomalies"
+}

@@ -1,0 +1,63 @@
+# Disease: ADRENAL HEMORRHAGE
+
+**Source section:** COLLECTING SYSTEM
+
+## Definition
+
+high concentration of intracellular deoxyhemoglobin with preferential T2 proton T1 shortening ← paramagnetic effect of free methemoglobin (Fe3+) ← produced by T2 proton relaxation enhancement ← hemosiderin deposition + presence of a fibrous
+
+## Key Facts
+
+- **Incidence:** in 1.8% (autopsy study)
+- **Location:** typically bilateral
+
+## Imaging Findings
+
+### General
+
+- round / oval mass displacing kidney inferiorly + IVC anteriorly
+- uniform adrenal enlargement gradually decreasing in size over 6-8 weeks (follow-up for 2-3
+- complete resolution with time:
+- ± rimlike curvilinear / eggshell calcifications > 1 year
+- no enhancement
+
+### acute stage (< 7 days):
+
+- round / oval mass (in 83%) located in medulla + stretching cortex around hematoma:
+- hyperattenuating (50-90 HU) similar to most neoplasms in acute stage → slowly
+- obliteration of gland by diffuse irregular hemorrhage (in 9%)
+- periadrenal fat stranding
+- asymmetric thickening of diaphragmatic crus ← periadrenal hemorrhage
+- isointense / slightly hypointense on T1WI
+- markedly hypointense on T2WI
+
+### chronic stage (> 7 weeks):
+
+- mass with hypoattenuating center ± calcifications = adrenal pseudocyst (DDx: adrenal
+- complex solid heterogeneously hyperechoic mass during early stage
+- mixed echogenicity with centrally hypoechoic region (as liquefaction occurs)
+- peripheral curvilinear hyperechoic calcifications appearing within 1-2 weeks
+- completely anechoic / cystlike in chronic stage
+- avascularity on color Doppler / power Doppler
+- hypointense rim on T1WI + T2WI
+- "blooming effect" (= magnetic susceptibility) of hemosiderin in gradient-echo imaging
+
+### subacute stage (7 days-7 weeks):
+
+- hyperintensity on T1WI and T2WI appearing in periphery with filling in (over several
+- hematoma may be multilocular, each locule with its own different signal intensity
+
+## Clinical
+
+- **N.B.:** Follow-up required to confirm regression!
+- **Rx:** supportive; prompt glucocorticoid administration with concomitant intravenous saline
+- **Prognosis:** (1) unilateral hematoma: spontaneous resolution without sequelae
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

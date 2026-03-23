@@ -6,6 +6,8 @@ import { VivaLanguagePage } from "./pages/VivaLanguagePage";
 import { SectionListPage } from "./pages/SectionListPage";
 import { PacketPage } from "./pages/PacketPage";
 import { CaseViewPage } from "./pages/CaseViewPage";
+import { DahnertConditionsPage } from "./pages/DahnertConditionsPage";
+import { DahnertDDxPage } from "./pages/DahnertDDxPage";
 import { KnowledgeProvider } from "./lib/knowledgeContext";
 import { TextbookKnowledgeDrawer } from "./components/case/TextbookKnowledgeDrawer";
 
@@ -20,6 +22,8 @@ export default function App() {
           <Route path="/category/:abbrev" element={<SectionListPage />} />
           <Route path="/category/:abbrev/:section" element={<PacketPage />} />
           <Route path="/case/:caseId" element={<CaseViewPage />} />
+          <Route path="/dahnert" element={<DahnertConditionsPage />} />
+          <Route path="/dahnert-ddx" element={<DahnertDDxPage />} />
         </Routes>
       </AppShell>
       <TextbookKnowledgeDrawer />

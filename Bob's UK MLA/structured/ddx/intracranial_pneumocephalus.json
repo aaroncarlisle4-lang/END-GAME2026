@@ -1,0 +1,51 @@
+{
+  "finding": "Intracranial Pneumocephalus",
+  "slug": "intracranial_pneumocephalus",
+  "chapter": "B. NEUROVASCULAR",
+  "source_file": "processed_clusters/b_neurovascular/intracranial_pneumocephalus.md",
+  "quality_score": 0.8,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "TRAUMA (74%):",
+      "raw": "TRAUMA (74%):",
+      "frequency": "74%"
+    },
+    {
+      "name": "NEOPLASM INVADING SINUS (13%):",
+      "raw": "NEOPLASM INVADING SINUS (13%):",
+      "frequency": "13%"
+    },
+    {
+      "name": "Osteoma of frontal / ethmoid sinus",
+      "raw": "Osteoma of frontal / ethmoid sinus",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary adenoma",
+      "raw": "Pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucocele, epidermoid",
+      "raw": "Mucocele, epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy of paranasal sinuses",
+      "raw": "Malignancy of paranasal sinuses",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "TRAUMA (74%):": [
+      "(a)  blunt trauma in 3% of all skull fractures; in 8% of fractures involving paranasal sinuses (frontal > ethmoid > sphenoid > mastoid) or base of skull (b)  penetrating injury"
+    ],
+    "NEOPLASM INVADING SINUS (13%):": [],
+    "Osteoma of frontal / ethmoid sinus": [],
+    "Pituitary adenoma": [],
+    "Mucocele, epidermoid": [],
+    "Malignancy of paranasal sinuses": []
+  },
+  "context": "(a)  blunt trauma in 3% of all skull fractures; in 8% of fractures involving paranasal sinuses (frontal > ethmoid > sphenoid > mastoid) or base of skull (b)  penetrating injury"
+}

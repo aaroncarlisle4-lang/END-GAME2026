@@ -1,0 +1,25 @@
+{
+  "name": "EPITHELOID SARCOMA",
+  "slug": "epitheloid_sarcoma",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/epitheloid_sarcoma.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "1-2% of all soft-tissue sarcomas",
+    "Age": "10-35 years; M>> F",
+    "Location": "forearm, hand, finger"
+  },
+  "dominant_finding": "soft-tissue mass ± speckled calcifications",
+  "distribution": "forearm, hand, finger",
+  "discriminating_features": [
+    "soft-tissue mass ± speckled calcifications",
+    "cortical thinning / osseous erosion"
+  ],
+  "other_features": {
+    "general": [
+      "soft-tissue mass ± speckled calcifications",
+      "cortical thinning / osseous erosion"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,55 @@
+{
+  "finding": "B. MALIGNANT LESION (a) primary",
+  "slug": "b_malignant_lesion_a_primary",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/b_malignant_lesion_a_primary.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Colonic carcinoma: annular / scirrhous",
+      "raw": "Colonic carcinoma: annular / scirrhous",
+      "frequency": null
+    },
+    {
+      "name": "Complication of ulcerative colitis + Crohn colitis (b)  metastatic:",
+      "raw": "Complication of ulcerative colitis + Crohn colitis (b)  metastatic:",
+      "frequency": null
+    },
+    {
+      "name": "EXTRINSIC PROCESS (a)  inflammation",
+      "raw": "EXTRINSIC PROCESS (a)  inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Retractile mesenteritis",
+      "raw": "Retractile mesenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Diverticulitis",
+      "raw": "Diverticulitis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis (b)  deposits",
+      "raw": "Pancreatitis (b)  deposits",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis [Pelvic lipomatosis]",
+      "raw": "Endometriosis",
+      "frequency": null,
+      "sites": [
+        "Pelvic lipomatosis"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "← prostate, cervix, uterus, kidney, stomach, pancreas, primary intraperitoneal sarcoma ›  hematogenous (eg, breast) ›  lymphangitic spread ›  peritoneal seeding"
+}

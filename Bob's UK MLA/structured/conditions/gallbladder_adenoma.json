@@ -1,0 +1,31 @@
+{
+  "name": "GALLBLADDER ADENOMA",
+  "slug": "gallbladder_adenoma",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/gallbladder_adenoma.md",
+  "definition": "",
+  "demographics": {
+    "Incidence": "0.15% of cholecystectomy specimens, 4-7% of all gallbladder polyps"
+  },
+  "dominant_finding": "up to 20 mm in size",
+  "distribution": "",
+  "discriminating_features": [
+    "sessile / pedunculated mass:",
+    "solitary (in ²/³); 2-5 in number (in ⅓)",
+    "up to 20 mm in size",
+    "internal vascularity at color Doppler interrogation",
+    "typically enhancing (DDx adenocarcinoma)"
+  ],
+  "other_features": {
+    "general": [
+      "sessile / pedunculated mass:",
+      "solitary (in ²/³); 2-5 in number (in ⅓)",
+      "up to 20 mm in size",
+      "internal vascularity at color Doppler interrogation",
+      "typically enhancing (DDx adenocarcinoma)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "dysplasia-to-carcinoma sequence"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Likely Benign Thyroid Nodule",
+  "slug": "likely_benign_thyroid_nodule",
+  "chapter": "B. BLOCKED ORGANIFICATION",
+  "source_file": "processed_clusters/b_blocked_organification/likely_benign_thyroid_nodule.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Entirely cystic nodule",
+      "raw": "Entirely cystic nodule",
+      "frequency": null
+    },
+    {
+      "name": "Predominantly cystic nodule < 2 cm, its solid part without flow / calcifications",
+      "raw": "Predominantly cystic nodule < 2 cm, its solid part without flow / calcifications",
+      "frequency": null
+    },
+    {
+      "name": "Honeycomb / spongiform nodule < 2 cm",
+      "raw": "Honeycomb / spongiform nodule < 2 cm",
+      "frequency": null
+    },
+    {
+      "name": "Pseudonodule of autoimmune thyroiditis",
+      "raw": "Pseudonodule of autoimmune thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "Mixed nodule with functioning solid component",
+      "raw": "Mixed nodule with functioning solid component",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

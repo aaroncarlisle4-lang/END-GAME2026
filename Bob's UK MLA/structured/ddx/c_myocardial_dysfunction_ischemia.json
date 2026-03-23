@@ -1,0 +1,37 @@
+{
+  "finding": "C. MYOCARDIAL DYSFUNCTION / ISCHEMIA",
+  "slug": "c_myocardial_dysfunction_ischemia",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/c_myocardial_dysfunction_ischemia.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nonobstructive cardiomyopathy",
+      "raw": "Nonobstructive cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Anomalous origin of LCA from pulmonary trunk",
+      "raw": "Anomalous origin of LCA from pulmonary trunk",
+      "frequency": null
+    },
+    {
+      "name": "Primary endocardial fibroelastosis",
+      "raw": "Primary endocardial fibroelastosis",
+      "frequency": null
+    },
+    {
+      "name": "Glycogen storage disease",
+      "raw": "Glycogen storage disease (Pompe disease)",
+      "frequency": null
+    },
+    {
+      "name": "Myocarditis",
+      "raw": "Myocarditis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

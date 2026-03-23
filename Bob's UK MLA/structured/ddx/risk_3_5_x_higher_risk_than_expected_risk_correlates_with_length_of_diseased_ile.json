@@ -1,0 +1,108 @@
+{
+  "finding": "Risk: 3-5 x higher risk than expected; risk correlates with length of diseased ileum /",
+  "slug": "risk_3_5_x_higher_risk_than_expected_risk_correlates_with_length_of_diseased_ile",
+  "chapter": "COLONIC ATRESIA",
+  "source_file": "processed_clusters/colonic_atresia/risk_3_5_x_higher_risk_than_expected_risk_correlates_with_length_of_diseased_ile.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute cholecystitis",
+      "raw": "Acute cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Primary sclerosing cholangitis (1%) + hepatoma",
+      "raw": "Primary sclerosing cholangitis (1%) + hepatoma",
+      "frequency": "1%"
+    },
+    {
+      "name": "Bile duct + gallbladder carcinoma",
+      "raw": "Bile duct + gallbladder carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis @   Genitourinary",
+      "raw": "Pancreatitis @   Genitourinary",
+      "frequency": null
+    },
+    {
+      "name": "Urolithiasis (5-10%): oxalate (steatorrhea → excess colonic absorption of oxalate) / urate stones",
+      "raw": "Urolithiasis (5-10%): oxalate (steatorrhea → excess colonic absorption of oxalate) / urate stones",
+      "frequency": "10%"
+    },
+    {
+      "name": "Hydronephrosis",
+      "raw": "Hydronephrosis",
+      "frequency": null
+    },
+    {
+      "name": "Renal amyloidosis",
+      "raw": "Renal amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Focal cystitis",
+      "raw": "Focal cystitis",
+      "frequency": null
+    },
+    {
+      "name": "Ileoureteral / ileovesical fistula (5-20%) @   Musculoskeletal",
+      "raw": "Ileoureteral / ileovesical fistula (5-20%) @   Musculoskeletal",
+      "frequency": "20%"
+    },
+    {
+      "name": "digital clubbing",
+      "raw": "digital clubbing (11-40%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "mild self-limiting seronegative peripheral migratory arthritis (15-22%): may precede bowel disease in 10%; severity + course correlates well with severity of intestinal disease; resection of diseased bowel leads to regression of symptoms",
+      "raw": "mild self-limiting seronegative peripheral migratory arthritis (15-22%): may precede bowel disease in 10%; severity + course correlates well with severity of intestinal disease; resection of diseased bowel leads to regression of symptoms",
+      "frequency": "22%"
+    },
+    {
+      "name": "Hypertrophic osteoarthropathy",
+      "raw": "Hypertrophic osteoarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis (in 3-16%) ◊  Axial skeletal involvement usually precedes onset of GI symptoms!",
+      "raw": "Ankylosing spondylitis (in 3-16%) ◊  Axial skeletal involvement usually precedes onset of GI symptoms!",
+      "frequency": "16%"
+    },
+    {
+      "name": "in severity / course unrelated to activity level of bowel disease [Peripheral erosive arthritis]",
+      "raw": "in severity / course unrelated to activity level of bowel disease",
+      "frequency": null,
+      "sites": [
+        "Peripheral erosive arthritis"
+      ]
+    },
+    {
+      "name": "Avascular necrosis of femoral head ← steroid Rx [Pelvic osteomyelitis]",
+      "raw": "Avascular necrosis of femoral head ← steroid Rx",
+      "frequency": null,
+      "sites": [
+        "Pelvic osteomyelitis"
+      ]
+    },
+    {
+      "name": "Septic arthritis",
+      "raw": "Septic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Muscle abscess",
+      "raw": "Muscle abscess",
+      "frequency": null
+    },
+    {
+      "name": "Retarded skeletal growth + maturation @   Erythema nodosum, uveitis",
+      "raw": "Retarded skeletal growth + maturation @   Erythema nodosum, uveitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "resected ileum / duration of disease Cause:   interrupted enterohepatic circulation with malabsorption of bile salts in terminal ileum √  symmetric bilateral sacroiliitis √  spondylitis with syndesmophytes √  small marginal erosions √  periostitis √  propensity for osseous ankylosis"
+}

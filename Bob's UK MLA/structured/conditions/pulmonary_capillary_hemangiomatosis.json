@@ -1,0 +1,40 @@
+{
+  "name": "PULMONARY CAPILLARY HEMANGIOMATOSIS",
+  "slug": "pulmonary_capillary_hemangiomatosis",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/pulmonary_capillary_hemangiomatosis.md",
+  "definition": "bilateral pulmonary disease behaving like a low-grade nonmetastatic vascular neoplasm with",
+  "demographics": {
+    "Histo": "sheets of thin-walled capillary blood vessels infiltrating pulmonary interstitium +",
+    "Age": "20-40 years"
+  },
+  "dominant_finding": "thickening + nodularity of interlobular septa + walls of pulmonary veins",
+  "distribution": "poorly defined centrilobular ground-glass nodules",
+  "discriminating_features": [
+    "thickening + nodularity of interlobular septa + walls of pulmonary veins",
+    "poorly defined centrilobular ground-glass nodules",
+    "pleural effusions",
+    "lymphadenopathy",
+    "diffuse reticulonodular pattern"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "diffuse reticulonodular pattern",
+      "focal areas of interstitial fibrosis (recurrent episodes of pulmonary hemorrhage +"
+    ],
+    "CT": [
+      "thickening + nodularity of interlobular septa + walls of pulmonary veins",
+      "poorly defined centrilobular ground-glass nodules",
+      "pleural effusions",
+      "lymphadenopathy"
+    ],
+    "ANGIO": [
+      "combination of increased flow (to hemangiomatous areas) + decreased flow (to regions of"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death after 2-12-year interval from onset of symptoms",
+    "Rx": "bilateral lung transplantation"
+  }
+}

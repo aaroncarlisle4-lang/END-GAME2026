@@ -1,0 +1,32 @@
+{
+  "finding": "C. INFLAMMATORY DISEASE",
+  "slug": "c_inflammatory_disease_b45d24",
+  "chapter": "Potter Classification",
+  "source_file": "processed_clusters/potter_classification/c_inflammatory_disease_b45d24.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Echinococcus",
+      "raw": "Echinococcus",
+      "frequency": null
+    },
+    {
+      "name": "Segmental XGP",
+      "raw": "Segmental XGP",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Malakoplakia",
+      "raw": "Malakoplakia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "B. MALIGNANT TUMORS ◊ 80% of esophageal neoplasms are malignant!",
+  "slug": "b_malignant_tumors_80_of_esophageal_neoplasms_are_malignant_5174f3",
+  "chapter": "B. INFLAMMATION",
+  "source_file": "processed_clusters/b_inflammation/b_malignant_tumors_80_of_esophageal_neoplasms_are_malignant_5174f3.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Esophageal cancer",
+      "raw": "Esophageal cancer",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma of cardia",
+      "raw": "Carcinoma of cardia (= gastric cancer)",
+      "frequency": null
+    },
+    {
+      "name": "Metastases: malignant melanoma, lymphoma (< 1% of gastrointestinal lymphomas), stomach, lung, breast",
+      "raw": "Metastases: malignant melanoma, lymphoma (< 1% of gastrointestinal lymphomas), stomach, lung, breast",
+      "frequency": "1%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

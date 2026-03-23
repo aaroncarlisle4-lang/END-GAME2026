@@ -1,0 +1,24 @@
+{
+  "name": "MYELOID DEPLETION",
+  "slug": "myeloid_depletion",
+  "chapter": "MORTON NEUROMA",
+  "source_file": "processed_clusters/disease_entries/morton_neuroma/myeloid_depletion.md",
+  "definition": "APLASTIC ANEMIA",
+  "demographics": {
+    "Path": "normal marrow replaced by fat cells"
+  },
+  "dominant_finding": "high signal intensity on T1WI",
+  "distribution": "",
+  "discriminating_features": [
+    "high signal intensity on T1WI",
+    "low signal intensity on fat-suppressed T2WI"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "high signal intensity on T1WI",
+      "low signal intensity on fat-suppressed T2WI"
+    ]
+  },
+  "clinical": {}
+}

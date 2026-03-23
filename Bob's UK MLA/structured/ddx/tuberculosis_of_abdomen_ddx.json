@@ -1,0 +1,27 @@
+{
+  "finding": "Tuberculosis Of Abdomen (DDx)",
+  "slug": "tuberculosis_of_abdomen_ddx",
+  "chapter": "Tuberculosis Of Abdomen",
+  "source_file": "processed_clusters/tuberculosis_of_abdomen/tuberculosis_of_abdomen_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "disseminated peritoneal malignancy",
+      "raw": "disseminated peritoneal malignancy",
+      "frequency": null
+    },
+    {
+      "name": "nontuberculous peritonitis",
+      "raw": "nontuberculous peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "mesothelioma",
+      "raw": "mesothelioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "loculated ascites (occasionally) | enhancing peritoneal thickening + caseous nodules | dense adhesions ← fibrous peritoneal reaction | smudged / caked / thickened / masslike omentum"
+}

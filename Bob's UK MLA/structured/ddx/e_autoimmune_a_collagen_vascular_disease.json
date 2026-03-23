@@ -1,0 +1,32 @@
+{
+  "finding": "E. AUTOIMMUNE (a) Collagen vascular disease",
+  "slug": "e_autoimmune_a_collagen_vascular_disease",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/e_autoimmune_a_collagen_vascular_disease.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "SLE",
+      "raw": "SLE",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma (b)  Vasculitis:",
+      "raw": "Scleroderma (b)  Vasculitis:",
+      "frequency": null
+    },
+    {
+      "name": "Periarteritis nodosa",
+      "raw": "Periarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "Henoch-Schönlein purpura",
+      "raw": "Henoch-Schönlein purpura",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

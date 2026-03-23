@@ -1,0 +1,32 @@
+{
+  "finding": "Organism: S. aureus, Haemophilus parainfluenzae, b-hemolytic Streptococcus",
+  "slug": "organism_s_aureus_haemophilus_parainfluenzae_b_hemolytic_streptococcus",
+  "chapter": "CT / MR",
+  "source_file": "processed_clusters/ct_mr/organism_s_aureus_haemophilus_parainfluenzae_b_hemolytic_streptococcus.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Reactive lymphadenopathy",
+      "raw": "Reactive lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Suppurative lymphadenitis",
+      "raw": "Suppurative lymphadenitis (common in childhood)",
+      "frequency": "common"
+    },
+    {
+      "name": "Retropharyngeal cellulitis",
+      "raw": "Retropharyngeal cellulitis",
+      "frequency": null
+    },
+    {
+      "name": "Retropharyngeal abscess",
+      "raw": "Retropharyngeal abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  nodes > 10 mm in diameter √  cystic change with peripheral enhancement √  retropharyngeal edema"
+}

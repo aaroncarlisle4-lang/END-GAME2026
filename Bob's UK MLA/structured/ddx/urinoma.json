@@ -1,0 +1,47 @@
+{
+  "finding": "URINOMA",
+  "slug": "urinoma",
+  "chapter": "URACHAL ANOMALIES",
+  "source_file": "processed_clusters/urachal_anomalies/urinoma.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NONOBSTRUCTIVE: blunt / penetrating trauma, surgery, infection, calculus erosion",
+      "raw": "NONOBSTRUCTIVE: blunt / penetrating trauma, surgery, infection, calculus erosion",
+      "frequency": null
+    },
+    {
+      "name": "OBSTRUCTIVE:",
+      "raw": "OBSTRUCTIVE:",
+      "frequency": null
+    },
+    {
+      "name": "Ureteral obstruction",
+      "raw": "Ureteral obstruction (calculus, surgical ligature, neoplasm)",
+      "frequency": null
+    },
+    {
+      "name": "Bladder outlet obstruction (posterior urethral valves) ◊  Augmented by sudden diuretic load of urographic contrast material!",
+      "raw": "Bladder outlet obstruction (posterior urethral valves) ◊  Augmented by sudden diuretic load of urographic contrast material!",
+      "frequency": null
+    },
+    {
+      "name": "pain, malaise, nausea, fever",
+      "raw": "pain, malaise, nausea, fever",
+      "frequency": null
+    },
+    {
+      "name": "hematuria (10-50%), fluctuant tender mass",
+      "raw": "hematuria (10-50%), fluctuant tender mass",
+      "frequency": "50%"
+    },
+    {
+      "name": "discharge from wound",
+      "raw": "discharge from wound (in early postoperative period)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  uriniferous perirenal pseudocyst ← tear in collecting system with continued renal function Etiology: Path:   fibroblastic cavity (in 5-12 days), dense connective tissue encapsulation (in 3-6 weeks) Location: √  cystic mass in perirenal space = localized perirenal urinoma (most common) √  cystic mass filling entire perirenal space = diffuse perirenal urinoma √  sickle-shaped collection = subcapsular urinoma √  encapsulated expanding intrarenal cystic mass separating renal tissue fragments = intrarenal urinoma Plain radiography: √  soft-tissue mass obliterating retroperitoneal structures √  s"
+}

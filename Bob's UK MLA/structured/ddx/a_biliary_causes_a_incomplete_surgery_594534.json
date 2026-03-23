@@ -1,0 +1,102 @@
+{
+  "finding": "A. BILIARY CAUSES (a) Incomplete surgery",
+  "slug": "a_biliary_causes_a_incomplete_surgery_594534",
+  "chapter": "PORCELAIN GALLBLADDER",
+  "source_file": "processed_clusters/porcelain_gallbladder/a_biliary_causes_a_incomplete_surgery_594534.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gallbladder / cystic duct remnant",
+      "raw": "Gallbladder / cystic duct remnant",
+      "frequency": null
+    },
+    {
+      "name": "Retained stone in cystic duct remnant",
+      "raw": "Retained stone in cystic duct remnant (1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Overlooked CBD stone (5%) (b)  Operative trauma",
+      "raw": "Overlooked CBD stone (5%) (b)  Operative trauma",
+      "frequency": "5%"
+    },
+    {
+      "name": "Bile duct stricture",
+      "raw": "Bile duct stricture",
+      "frequency": null
+    },
+    {
+      "name": "Bile peritonitis",
+      "raw": "Bile peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Suture granuloma of cystic duct remnant (c)  Bile duct pathology",
+      "raw": "Suture granuloma of cystic duct remnant (c)  Bile duct pathology",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosis of sphincter of Oddi",
+      "raw": "Fibrosis of sphincter of Oddi",
+      "frequency": null
+    },
+    {
+      "name": "Biliary dyskinesia",
+      "raw": "Biliary dyskinesia",
+      "frequency": null
+    },
+    {
+      "name": "Biliary fistula",
+      "raw": "Biliary fistula",
+      "frequency": null
+    },
+    {
+      "name": "Cystic duct mucocele (d)  Residual disease in neighboring structures",
+      "raw": "Cystic duct mucocele (d)  Residual disease in neighboring structures",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis",
+      "raw": "Pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Hepatitis",
+      "raw": "Hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Cholangitis (e)  Overlooked bile duct neoplasia",
+      "raw": "Cholangitis (e)  Overlooked bile duct neoplasia",
+      "frequency": null
+    },
+    {
+      "name": "EXTRABILIARY CAUSES (erroneous preoperative Dx) (a)  Other GI tract disease:",
+      "raw": "EXTRABILIARY CAUSES (erroneous preoperative Dx) (a)  Other GI tract disease:",
+      "frequency": null
+    },
+    {
+      "name": "Inadequate dentition",
+      "raw": "Inadequate dentition",
+      "frequency": null
+    },
+    {
+      "name": "Hiatus hernia",
+      "raw": "Hiatus hernia",
+      "frequency": null
+    },
+    {
+      "name": "Peptic ulcer",
+      "raw": "Peptic ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Spastic colon (b)  Anxiety state, air swallowing (c)  Abdominal angina (d)  Carcinoma outside gallbladder (e)  Coronary artery disease",
+      "raw": "Spastic colon (b)  Anxiety state, air swallowing (c)  Abdominal angina (d)  Carcinoma outside gallbladder (e)  Coronary artery disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

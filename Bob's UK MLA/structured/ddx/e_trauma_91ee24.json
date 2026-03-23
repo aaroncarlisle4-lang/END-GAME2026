@@ -1,0 +1,52 @@
+{
+  "finding": "E. Trauma",
+  "slug": "e_trauma_91ee24",
+  "chapter": "Musculoskeletal Fibromatoses",
+  "source_file": "processed_clusters/musculoskeletal_fibromatoses/e_trauma_91ee24.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Healing soft-tissue wounds",
+      "raw": "Healing soft-tissue wounds",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyolysis:",
+      "raw": "Rhabdomyolysis:",
+      "frequency": null
+    },
+    {
+      "name": "Intramuscular injection sites:",
+      "raw": "Intramuscular injection sites:",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic bowel infarction",
+      "raw": "Ischemic bowel infarction (late uptake)",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma: soft tissue, subdural",
+      "raw": "Hematoma: soft tissue, subdural",
+      "frequency": null
+    },
+    {
+      "name": "Heterotopic ossification",
+      "raw": "Heterotopic ossification",
+      "frequency": null
+    },
+    {
+      "name": "Myocardial contusion, defibrillation, unstable angina pectoris",
+      "raw": "Myocardial contusion, defibrillation, unstable angina pectoris",
+      "frequency": null
+    },
+    {
+      "name": "Lymphedema",
+      "raw": "Lymphedema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "crush injury, surgical trauma, electrical burns, frostbite, severe exercise, alcohol abuse especially Imferon® (= iron dextran) injections with resultant chemisorption; meperidine"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "LYMPHOMA OF BONE",
+  "slug": "lymphoma_of_bone_0a65f8",
+  "chapter": "LYMPHANGIOMATOSIS OF BONE",
+  "source_file": "processed_clusters/lymphangiomatosis_of_bone/lymphoma_of_bone_0a65f8.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "intermittent chronic dull pain; local swelling, palpable mass",
+      "raw": "intermittent chronic dull pain; local swelling, palpable mass",
+      "frequency": null
+    },
+    {
+      "name": "systemic symptoms such as weight loss and fever",
+      "raw": "systemic symptoms such as weight loss and fever",
+      "frequency": null
+    },
+    {
+      "name": "striking contrast between lesion size + patient's well-being Location:  lower femur (25%), upper tibia (40% about knee), humerus, pelvis, head & neck, vertebra (25%), scapula, ribs",
+      "raw": "striking contrast between lesion size + patient's well-being Location:  lower femur (25%), upper tibia (40% about knee), humerus, pelvis, head & neck, vertebra (25%), scapula, ribs",
+      "frequency": "25%"
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma (less medullary extension, younger patient)",
+      "frequency": null
+    },
+    {
+      "name": "Ewing tumor",
+      "raw": "Ewing tumor (systemic symptoms, debility, younger patient)",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic malignancy / secondary lymphoma",
+      "raw": "Metastatic malignancy / secondary lymphoma (multiple bones involved, more destructive, recognized by whole-body surveillance)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Primary Lymphoma of Bone =  RETICULUM CELL SARCOMA = OSTEOLYMPHOMA =  singular bone lesion without evidence of distal nodal /disseminated disease for at least 6 months after diagnosis (= stage E in Ann Arbor classification) N.B.:   presence of locoregional lymphadenopathy is not a criterion of exclusion Prevalence:   < 5% of all primary bone tumors; < 1% of all NHL; 5% of extranodal lymphomas; 2-6% of all primary malignant bone tumors in children Histo: (a)   NHL (94%): mostly diffuse large B-cell (80%) / T-cell category; sheets of reticulum cells, larger than those in Ewing sarcoma (DDx: myel"
+}

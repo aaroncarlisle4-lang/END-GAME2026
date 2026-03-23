@@ -1,0 +1,48 @@
+{
+  "name": "DEEP VEIN THROMBOSIS (DVT",
+  "slug": "deep_vein_thrombosis_dvt",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/deep_vein_thrombosis_dvt.md",
+  "definition": "temporary obstruction of venous outflow by pneumatic cuff around mid-thigh inflated above",
+  "demographics": {
+    "Incidence": "~ 600,000 new cases annually in USA; 1÷100 patients with DVT dies (= 15% of in-"
+  },
+  "dominant_finding": "intraluminal filling defect constant on all images",
+  "distribution": "absence of spontaneity (= any waveform recording): NOT RELIABLE in peripheral veins",
+  "discriminating_features": [
+    "intraluminal filling defect constant on all images",
+    "nonfilling of calf veins",
+    "inadequate filling of common femoral vein and external + common iliac veins",
+    "NO complete luminal collapse with venous compression (DDx: deformity + scarring",
+    "visualization of clot within vein (DDx: slow flowing blood; machine noise):"
+  ],
+  "other_features": {
+    "general": [
+      "intraluminal filling defect constant on all images",
+      "nonfilling of calf veins",
+      "inadequate filling of common femoral vein and external + common iliac veins",
+      "NO complete luminal collapse with venous compression (DDx: deformity + scarring",
+      "visualization of clot within vein (DDx: slow flowing blood; machine noise):",
+      "homogeneous poorly echogenic / anechoic substance within venous lumen",
+      "smooth border of thrombus",
+      "< 75% increase in diameter of common femoral vein during Valsalva",
+      "venous diameter at least twice that of adjacent artery suggests thrombus < 10 days old",
+      "echogenic material within venous lumen",
+      "irregular surface of thrombus",
+      "incomplete compressibility of vein",
+      "absence of spontaneity (= any waveform recording): NOT RELIABLE in peripheral veins",
+      "continuous venous signal = absence of phasicity (= no cyclic variation in flow velocity",
+      "attenuation / absence of augmentation (= no increase in flow velocity with distal",
+      "pulsatile venous flow is a sign of congestive heart failure / pericardial effusion / cardiac",
+      "high SI / absence of low SI flow within vein on true FISP sequence",
+      "low-signal-intensity filling defect in a high-signal-intensity patent vein on true FISP",
+      "absence of normal low-signal-intensity flow void in a patent vessel on T2WI",
+      "variable signal intensity on T1WI depending on age of luminal blood products",
+      "↓ initial rise in venous capacitance (= venous volume)",
+      "delay in venous outflow (= \"fall\" of curve) measured at 3 sec"
+    ]
+  },
+  "clinical": {
+    "N.B.": "limited by flow signal artifacts"
+  }
+}

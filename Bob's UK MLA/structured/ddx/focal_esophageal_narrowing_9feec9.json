@@ -1,0 +1,72 @@
+{
+  "finding": "Focal Esophageal Narrowing",
+  "slug": "focal_esophageal_narrowing_9feec9",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/focal_esophageal_narrowing_9feec9.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Esophageal web =  1-2-mm thick (vertical length) area of complete / incomplete circumferential narrowing",
+      "raw": "Esophageal web =  1-2-mm thick (vertical length) area of complete / incomplete circumferential narrowing",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal ring =  5-10-mm thick (vertical length) area of complete / incomplete circumferential narrowing",
+      "raw": "Esophageal ring =  5-10-mm thick (vertical length) area of complete / incomplete circumferential narrowing",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal stricture =  > 10 mm in vertical length",
+      "raw": "Esophageal stricture =  > 10 mm in vertical length",
+      "frequency": null
+    },
+    {
+      "name": "Lye ingestion",
+      "raw": "Lye ingestion",
+      "frequency": null
+    },
+    {
+      "name": "Esophagitis",
+      "raw": "Esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Tumor",
+      "raw": "Tumor",
+      "frequency": null
+    },
+    {
+      "name": "Tube",
+      "raw": "Tube (prolonged nasogastric intubation)",
+      "frequency": null
+    },
+    {
+      "name": "Epidermolysis bullosa",
+      "raw": "Epidermolysis bullosa",
+      "frequency": null
+    },
+    {
+      "name": "Radiation",
+      "raw": "Radiation",
+      "frequency": null
+    },
+    {
+      "name": "Surgery, Scleroderma",
+      "raw": "Surgery, Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Moniliasis",
+      "raw": "Moniliasis",
+      "frequency": null
+    },
+    {
+      "name": "Congenital",
+      "raw": "Congenital",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

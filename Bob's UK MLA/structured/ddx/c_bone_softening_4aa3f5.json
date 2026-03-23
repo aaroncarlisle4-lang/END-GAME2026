@@ -1,0 +1,120 @@
+{
+  "finding": "C. BONE SOFTENING",
+  "slug": "c_bone_softening_4aa3f5",
+  "chapter": "Posterior Scalloping of Vertebrae",
+  "source_file": "processed_clusters/posterior_scalloping_of_vertebrae/c_bone_softening_4aa3f5.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucopolysaccharidoses: Hurler, Morquio, Sanfilippo",
+      "raw": "Mucopolysaccharidoses: Hurler, Morquio, Sanfilippo",
+      "frequency": null
+    },
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly (lumbar vertebrae)",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis [Spinal cord tumor]",
+      "raw": "Ankylosing spondylitis (lax dura acting on osteoporotic vertebrae)",
+      "frequency": null,
+      "sites": [
+        "Spinal cord tumor"
+      ]
+    },
+    {
+      "name": "AchondroPlasia",
+      "raw": "AchondroPlasia",
+      "frequency": null
+    },
+    {
+      "name": "Mucopolysaccharidosis",
+      "raw": "Mucopolysaccharidosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid",
+      "raw": "Dermoid",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Marfan syndrome",
+      "raw": "Marfan syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Syringohydromyelia",
+      "raw": "Syringohydromyelia",
+      "frequency": null
+    },
+    {
+      "name": "Hydrocephalus",
+      "raw": "Hydrocephalus",
+      "frequency": null
+    },
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Mucopolysaccharidoses",
+      "raw": "Mucopolysaccharidoses",
+      "frequency": null
+    },
+    {
+      "name": "Ehlers-Danlos syndrome",
+      "raw": "Ehlers-Danlos syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mnemonic:   SALMON"
+}

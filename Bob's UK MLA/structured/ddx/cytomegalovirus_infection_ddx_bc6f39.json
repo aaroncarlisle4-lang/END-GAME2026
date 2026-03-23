@@ -1,0 +1,37 @@
+{
+  "finding": "Cytomegalovirus Infection (DDx)",
+  "slug": "cytomegalovirus_infection_ddx_bc6f39",
+  "chapter": "Cytomegalovirus Infection",
+  "source_file": "processed_clusters/cytomegalovirus_infection/cytomegalovirus_infection_ddx_bc6f39.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "toxoplasmosis",
+      "raw": "toxoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "teratoma",
+      "raw": "teratoma",
+      "frequency": null
+    },
+    {
+      "name": "tuberous sclerosis",
+      "raw": "tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Sturge-Weber syndrome",
+      "raw": "Sturge-Weber syndrome",
+      "frequency": null
+    },
+    {
+      "name": "venous sinus",
+      "raw": "venous sinus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hepatosplenomegaly (nontender) | ascites | hydrops | pneumonitis"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Blunt Chest Trauma (DDx)",
+  "slug": "blunt_chest_trauma_ddx",
+  "chapter": "Blunt Chest Trauma",
+  "source_file": "processed_clusters/blunt_chest_trauma/blunt_chest_trauma_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "aspiration",
+      "raw": "aspiration",
+      "frequency": null
+    },
+    {
+      "name": "pneumonia",
+      "raw": "pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "fat embolism",
+      "raw": "fat embolism (1-2 days after injury)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "complete clearing in 3-10 days | overlying rib fractures (frequent) | nonsegmental coarse ill-defined crescentic (50%) / amorphous (45%) opacification of | \"subpleural sparing\" = 1-2-mm rim of nonopacified clear lung between contusional"
+}

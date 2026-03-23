@@ -1,0 +1,87 @@
+{
+  "finding": "D. TUMORS",
+  "slug": "d_tumors_2da219",
+  "chapter": "Spectrum of Orbital Disorders",
+  "source_file": "processed_clusters/spectrum_of_orbital_disorders/d_tumors_2da219.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Optic nerve glioma",
+      "raw": "Optic nerve glioma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Retinoblastoma",
+      "raw": "Retinoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Optic glioma",
+      "raw": "Optic glioma",
+      "frequency": null
+    },
+    {
+      "name": "Pseudotumor",
+      "raw": "Pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Cellulitis",
+      "raw": "Cellulitis",
+      "frequency": null
+    },
+    {
+      "name": "Grave disease",
+      "raw": "Grave disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Intraconal lesion mnemonic:   Mel Met Rita Mending Hems On Poor Charlie's Grave"
+}

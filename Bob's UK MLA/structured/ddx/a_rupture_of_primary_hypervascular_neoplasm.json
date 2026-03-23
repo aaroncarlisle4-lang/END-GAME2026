@@ -1,0 +1,62 @@
+{
+  "finding": "A. RUPTURE OF PRIMARY HYPERVASCULAR NEOPLASM",
+  "slug": "a_rupture_of_primary_hypervascular_neoplasm",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/a_rupture_of_primary_hypervascular_neoplasm.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma  (86%)",
+      "frequency": "86%"
+    },
+    {
+      "name": "Hepatocellular adenoma",
+      "raw": "Hepatocellular adenoma  (6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Hepatic hemangioma",
+      "raw": "Hepatic hemangioma  (3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Hepatic metastasis: lung, RCC, melanoma",
+      "raw": "Hepatic metastasis: lung, RCC, melanoma  (1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Focal nodular hyperplasia",
+      "raw": "Focal nodular hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Peliosis hepatis",
+      "raw": "Peliosis hepatis",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma (b)  COAGULATION DISORDER",
+      "raw": "Angiomyolipoma (b)  COAGULATION DISORDER",
+      "frequency": null
+    },
+    {
+      "name": "Cirrhosis  (4%) (c)  SYNDROMIC HEMOLYSIS",
+      "raw": "Cirrhosis  (4%) (c)  SYNDROMIC HEMOLYSIS",
+      "frequency": "4%"
+    },
+    {
+      "name": "HELLP syndrome",
+      "raw": "HELLP syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

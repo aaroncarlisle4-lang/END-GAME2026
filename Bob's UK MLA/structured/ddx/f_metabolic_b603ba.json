@@ -1,0 +1,302 @@
+{
+  "finding": "F. Metabolic",
+  "slug": "f_metabolic_b603ba",
+  "chapter": "Musculoskeletal Fibromatoses",
+  "source_file": "processed_clusters/musculoskeletal_fibromatoses/f_metabolic_b603ba.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypercalcemia (eg, hyperparathyroidism):",
+      "raw": "Hypercalcemia (eg, hyperparathyroidism):",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse interstitial pulmonary calcifications: hyperparathyroidism, mitral stenosis",
+      "raw": "Diffuse interstitial pulmonary calcifications: hyperparathyroidism, mitral stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid deposits",
+      "raw": "Amyloid deposits",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia / necrosis with dystrophic soft-tissue calcifications @   Spleen: infarct (sickle cell anemia in 50%), microcalcifications ← lymphoma, thalassemia major, hemosiderosis, glucose-6-phosphate-dehydrogenase deficiency",
+      "raw": "Ischemia / necrosis with dystrophic soft-tissue calcifications @   Spleen: infarct (sickle cell anemia in 50%), microcalcifications ← lymphoma, thalassemia major, hemosiderosis, glucose-6-phosphate-dehydrogenase deficiency",
+      "frequency": "50%"
+    },
+    {
+      "name": "as a result of elevation of Ca x P product above 60-70",
+      "raw": "as a result of elevation of Ca x P product above 60-70",
+      "frequency": null
+    },
+    {
+      "name": "with normal Ca x P product after renal transplant Location:   lung (alveolar septa, bronchial wall, vessel wall), kidney, gastric mucosa, heart, peripheral vessels",
+      "raw": "with normal Ca x P product after renal transplant Location:   lung (alveolar septa, bronchial wall, vessel wall), kidney, gastric mucosa, heart, peripheral vessels",
+      "frequency": null
+    },
+    {
+      "name": "1° HPT",
+      "raw": "1° HPT",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic HPT production",
+      "raw": "Ectopic HPT production (lung / kidney tumor)",
+      "frequency": null
+    },
+    {
+      "name": "Renal osteodystrophy + 2° HPT",
+      "raw": "Renal osteodystrophy + 2° HPT",
+      "frequency": null
+    },
+    {
+      "name": "Hypoparathyroidism",
+      "raw": "Hypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Prolonged immobilization (b)  Massive bone destruction",
+      "raw": "Prolonged immobilization (b)  Massive bone destruction",
+      "frequency": null
+    },
+    {
+      "name": "Widespread bone metastases",
+      "raw": "Widespread bone metastases",
+      "frequency": null
+    },
+    {
+      "name": "Plasma cell myeloma",
+      "raw": "Plasma cell myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia (c)  Hypercalcemia",
+      "raw": "Leukemia (c)  Hypercalcemia",
+      "frequency": null
+    },
+    {
+      "name": "Primary hyperparathyroidism",
+      "raw": "Primary hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Hypervitaminosis D",
+      "raw": "Hypervitaminosis D",
+      "frequency": null
+    },
+    {
+      "name": "Milk-alkali syndrome",
+      "raw": "Milk-alkali syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Hydroxyapatite deposition disease",
+      "raw": "Hydroxyapatite deposition disease",
+      "frequency": null
+    },
+    {
+      "name": "IV administration of calcium salts (d)  Idiopathic hypercalcemia (e)  Hyperuricemia",
+      "raw": "IV administration of calcium salts (d)  Idiopathic hypercalcemia (e)  Hyperuricemia",
+      "frequency": null
+    },
+    {
+      "name": "Tophaceous gout",
+      "raw": "Tophaceous gout",
+      "frequency": null
+    },
+    {
+      "name": "Renal osteodystrophy with 2° HPT",
+      "raw": "Renal osteodystrophy with 2° HPT",
+      "frequency": null
+    },
+    {
+      "name": "Hypoparathyroidism",
+      "raw": "Hypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Pseudohypoparathyroidism",
+      "raw": "Pseudohypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Pseudopseudohypoparathyroidism",
+      "raw": "Pseudopseudohypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Gout",
+      "raw": "Gout",
+      "frequency": null
+    },
+    {
+      "name": "Pseudogout = chondrocalcinosis",
+      "raw": "Pseudogout = chondrocalcinosis",
+      "frequency": null
+    },
+    {
+      "name": "Ochronosis = alkaptonuria",
+      "raw": "Ochronosis = alkaptonuria",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus (b)   Connective tissue disorder",
+      "raw": "Diabetes mellitus (b)   Connective tissue disorder",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma = progressive systemic sclerosis",
+      "raw": "Scleroderma = progressive systemic sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Dermato- and polymyositis",
+      "raw": "Dermato- and polymyositis",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "Mixed connective tissue disorders (c)  Trauma",
+      "raw": "Mixed connective tissue disorders (c)  Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Neuropathic calcifications",
+      "raw": "Neuropathic calcifications",
+      "frequency": null
+    },
+    {
+      "name": "Frostbite",
+      "raw": "Frostbite",
+      "frequency": null
+    },
+    {
+      "name": "Myositis ossificans progressiva (d)  Infestation",
+      "raw": "Myositis ossificans progressiva (d)  Infestation",
+      "frequency": null
+    },
+    {
+      "name": "Cysticercosis",
+      "raw": "Cysticercosis",
+      "frequency": null
+    },
+    {
+      "name": "Dracunculosis",
+      "raw": "Dracunculosis (guinea worm)",
+      "frequency": null
+    },
+    {
+      "name": "Loiasis",
+      "raw": "Loiasis",
+      "frequency": null
+    },
+    {
+      "name": "Bancroft filariasis",
+      "raw": "Bancroft filariasis",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid disease",
+      "raw": "Hydatid disease",
+      "frequency": null
+    },
+    {
+      "name": "Leprosy (e)  Vascular disease",
+      "raw": "Leprosy (e)  Vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Atherosclerosis",
+      "raw": "Atherosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Media sclerosis",
+      "raw": "Media sclerosis (Mönckeberg)",
+      "frequency": null
+    },
+    {
+      "name": "Venous calcifications",
+      "raw": "Venous calcifications",
+      "frequency": null
+    },
+    {
+      "name": "Tissue infarction",
+      "raw": "Tissue infarction (eg, myocardial infarction)",
+      "frequency": null
+    },
+    {
+      "name": "Ehlers-Danlos syndrome",
+      "raw": "Ehlers-Danlos syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoxanthoma elasticum",
+      "raw": "Pseudoxanthoma elasticum",
+      "frequency": null
+    },
+    {
+      "name": "Werner syndrome = progeria",
+      "raw": "Werner syndrome = progeria",
+      "frequency": null
+    },
+    {
+      "name": "Calcinosis (circumscripta, universalis, tumoral calcinosis) (g)  Neoplastic disease",
+      "raw": "Calcinosis (circumscripta, universalis, tumoral calcinosis) (g)  Neoplastic disease",
+      "frequency": null
+    },
+    {
+      "name": "Synovial sarcoma",
+      "raw": "Synovial sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Necrotic tumor (h)  Degenerative disease",
+      "raw": "Necrotic tumor (h)  Degenerative disease",
+      "frequency": null
+    },
+    {
+      "name": "Calcium pyrophosphate deposition disease",
+      "raw": "Calcium pyrophosphate deposition disease",
+      "frequency": null
+    },
+    {
+      "name": "Calcific tendonitis",
+      "raw": "Calcific tendonitis (in 3% of adults)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Calcific bursitis (i)  Metaplasia",
+      "raw": "Calcific bursitis (i)  Metaplasia",
+      "frequency": null
+    },
+    {
+      "name": "Synovial osteochondromatosis",
+      "raw": "Synovial osteochondromatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  uptake enhanced by alkaline environment in stomach (gastric mucosa), lung (alveolar walls), kidneys (renal tubules) (b)  uptake with severe disease in myocardium, spleen, diaphragm, thyroid, skeletal muscle @   Liver: massive hepatic necrosis @   Heart: transmural myocardial infarction, valvular calcification, amyloid deposition @   Muscle: traumatic / ischemic skeletal muscle injury @   Brain: cerebral infarction (damage of blood-brain barrier) @   Kidney: nephrocalcinosis @   Vessels: calcified wall, calcified thrombus Soft-tissue Calcification Metastatic / Metabolic Calcification =  de"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "A. POSITION OF CARDIAC APEX",
+  "slug": "a_position_of_cardiac_apex_cb6e4a",
+  "chapter": "Bronchial Situs",
+  "source_file": "processed_clusters/bronchial_situs/a_position_of_cardiac_apex_cb6e4a.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Levocardia = apex directed leftward",
+      "raw": "Levocardia = apex directed leftward",
+      "frequency": null
+    },
+    {
+      "name": "Dextrocardia = apex directed rightward",
+      "raw": "Dextrocardia = apex directed rightward",
+      "frequency": null
+    },
+    {
+      "name": "Mesocardia = vertical / midline heart",
+      "raw": "Mesocardia = vertical / midline heart (usually with situs solitus)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  atrial septum characteristically bowed into LA in cardiac situs solitus with dextrocardia + cardiac situs inversus with levocardia (DDx: juxtapositioned atrial appendages) ◊  Does not imply a particular internal structure / specific location of other thoracoabdominal organs!"
+}

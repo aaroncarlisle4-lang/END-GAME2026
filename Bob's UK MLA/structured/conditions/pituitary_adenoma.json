@@ -1,0 +1,71 @@
+{
+  "name": "PITUITARY ADENOMA",
+  "slug": "pituitary_adenoma",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/pituitary_adenoma.md",
+  "definition": "benign slow-growing neoplasm arising from adenohypophysis (= anterior lobe); most tumor > 10 mm in size very small adenoma < 10 mm in size",
+  "demographics": {
+    "Prevalence": "5-10-18% of all intracranial neoplasms; < 3% of patients have underlying MEN 1",
+    "Age": "15-44 years (during childbearing age)",
+    "Histo": "(a)   densely granulated type",
+    "Incidence": "10% (= 70-80% of pituitary adenomas)"
+  },
+  "dominant_finding": "tumor isodense to brain tissue",
+  "distribution": "erosion of anterior + posterior clinoid processes",
+  "discriminating_features": [
+    "deviation of pituitary stalk (nonspecific + unreliable)",
+    "focal hypodensity (most specific for adenoma) before + after IV contrast administration",
+    "characteristic lateral location / anteriorly / inferiorly; variable in size",
+    "enlargement of sella + sloping of sella floor",
+    "erosion of anterior + posterior clinoid processes"
+  ],
+  "other_features": {
+    "general": [
+      "enlargement of sella + sloping of sella floor",
+      "erosion of anterior + posterior clinoid processes",
+      "erosion of dorsum sellae",
+      "calcification in < 10%",
+      "may present with mass in nasopharynx"
+    ],
+    "NECT": [
+      "upward convexity of gland",
+      "increased height > 10 mm",
+      "deviation of pituitary stalk (nonspecific + unreliable)",
+      "erosion of floor of sella with adenoma > 5 mm",
+      "gland asymmetry",
+      "focal hypodensity (most specific for adenoma) before + after IV contrast administration",
+      "\"pituitary tuft\" sign = displacement / compression of visualized capillary bed (sinusoids of",
+      "focus of low signal intensity on T1WI",
+      "focus of high-signal intensity on T2WI",
+      "focal hypointensity within normally enhancing gland",
+      "characteristic lateral location / anteriorly / inferiorly; variable in size",
+      "central location; posterior lobe; usually < 5 mm in size",
+      "blood sampling of inferior petrosal sinuses (95% diagnostic accuracy compared with",
+      "hypodense region, may be less well-defined, variable size",
+      "slow-growing often extending beyond sella",
+      "often large + invasive pituitary adenoma",
+      "slow-growing",
+      "occasionally tumor hemorrhage",
+      "lucent areas ← cysts / focal necrosis",
+      "invasion of cavernous sinus → encasement of carotid artery (SUREST sign)"
+    ],
+    "CT": [
+      "tumor isodense to brain tissue",
+      "erosion of bone (eg, floor of sella)",
+      "calcifications infrequent"
+    ],
+    "MR": [
+      "homogeneous enhancement",
+      "NO imaging features to distinguish between different types of adenomas",
+      "small nonenhancing mass of hypointensity on pre- and postcontrast T1WI",
+      "occasionally isointense on precontrast images + hyperintense on postcontrast images",
+      "enhancement on delayed images",
+      "focal bulge on surface of gland",
+      "focal depression of sellar floor",
+      "deviation of pituitary stalk"
+    ]
+  },
+  "clinical": {
+    "Rx": "bromocriptine"
+  }
+}

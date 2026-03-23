@@ -1,0 +1,32 @@
+{
+  "finding": "A. Congenital",
+  "slug": "a_congenital_5_04e574",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/neuropathic_osteoarthropathy/a_congenital_5_04e574.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myelomeningocele",
+      "raw": "Myelomeningocele",
+      "frequency": null
+    },
+    {
+      "name": "Congenital indifference to pain = asymbolia",
+      "raw": "Congenital indifference to pain = asymbolia",
+      "frequency": null
+    },
+    {
+      "name": "Familial dysautonomia",
+      "raw": "Familial dysautonomia (Riley-Day syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary sensory and motor neuropathy",
+      "raw": "Hereditary sensory and motor neuropathy (Charcot-Marie-Tooth disease)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

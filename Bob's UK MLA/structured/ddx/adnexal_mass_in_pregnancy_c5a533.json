@@ -1,0 +1,27 @@
+{
+  "finding": "Adnexal Mass in Pregnancy",
+  "slug": "adnexal_mass_in_pregnancy_c5a533",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/adnexal_mass_in_pregnancy_c5a533.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "RESOLVING BY 14-16 WEEKS EGA",
+      "raw": "RESOLVING BY 14-16 WEEKS EGA",
+      "frequency": null
+    },
+    {
+      "name": "Corpus luteum cyst",
+      "raw": "Corpus luteum cyst",
+      "frequency": null
+    },
+    {
+      "name": "Theca lutein cyst",
+      "raw": "Theca lutein cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   0.5-1.2%"
+}

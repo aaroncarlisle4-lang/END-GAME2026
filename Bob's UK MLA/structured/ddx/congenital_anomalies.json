@@ -1,0 +1,27 @@
+{
+  "finding": "Congenital Anomalies",
+  "slug": "congenital_anomalies",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF BREAST DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_breast_disorders/congenital_anomalies.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polythelia = more than normal number of nipples",
+      "raw": "Polythelia = more than normal number of nipples",
+      "frequency": null
+    },
+    {
+      "name": "Polymastia = more than normal number of breasts",
+      "raw": "Polymastia = more than normal number of breasts",
+      "frequency": null
+    },
+    {
+      "name": "Amastia = absence of mammary glands",
+      "raw": "Amastia = absence of mammary glands",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

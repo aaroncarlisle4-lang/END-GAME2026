@@ -1,0 +1,57 @@
+{
+  "finding": "Hirschsprüng disease, meconium ileus",
+  "slug": "hirschsprung_disease_meconium_ileus_571932",
+  "chapter": "ABNORMAL INTRAABDOMINAL AIR",
+  "source_file": "processed_clusters/abnormal_intraabdominal_air/hirschsprung_disease_meconium_ileus_571932.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ruptured pneumatosis cystoides intestinalis† with \"balanced pneumoperitoneum\"",
+      "raw": "Ruptured pneumatosis cystoides intestinalis† with \"balanced pneumoperitoneum\" (= free intraperitoneal air acts as tamponade of pneumatosis cysts thus maintaining a balance between intracystic air + pneumoperitoneum)",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic gastric perforation = spontaneous perforation in premature infants:",
+      "raw": "Idiopathic gastric perforation = spontaneous perforation in premature infants:",
+      "frequency": null
+    },
+    {
+      "name": "THROUGH PERITONEAL SURFACE (a)  transperitoneal manipulation",
+      "raw": "THROUGH PERITONEAL SURFACE (a)  transperitoneal manipulation",
+      "frequency": null
+    },
+    {
+      "name": "Abdominal needle biopsy / catheter placement",
+      "raw": "Abdominal needle biopsy / catheter placement",
+      "frequency": null
+    },
+    {
+      "name": "Mistaken thoracentesis / chest tube placement",
+      "raw": "Mistaken thoracentesis / chest tube placement",
+      "frequency": null
+    },
+    {
+      "name": "Endoscopic biopsy (b)  extension from chest†",
+      "raw": "Endoscopic biopsy (b)  extension from chest†",
+      "frequency": null
+    },
+    {
+      "name": "Pneumothorax: ventilation, chest injury",
+      "raw": "Pneumothorax: ventilation, chest injury",
+      "frequency": null
+    },
+    {
+      "name": "Dissection from pneumomediastinum: positive pressure breathing, rupture of bulla / bleb, chest surgery",
+      "raw": "Dissection from pneumomediastinum: positive pressure breathing, rupture of bulla / bleb, chest surgery",
+      "frequency": null
+    },
+    {
+      "name": "Bronchopleural fistula (c)  intraperitoneal rupture of urinary bladder with indwelling Foley catheter / retrograde cystography (d)  penetrating abdominal injury",
+      "raw": "Bronchopleural fistula (c)  intraperitoneal rupture of urinary bladder with indwelling Foley catheter / retrograde cystography (d)  penetrating abdominal injury",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "congenital gastric muscular wall defect"
+}

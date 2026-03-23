@@ -1,0 +1,33 @@
+{
+  "name": "GOODPASTURE SYNDROME",
+  "slug": "goodpasture_syndrome",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/goodpasture_syndrome.md",
+  "definition": "ANTI-GLOMERULAR BASEMENT MEMBRANE ANTIBODY DISEASE autoimmune disease characterized by",
+  "demographics": {},
+  "dominant_finding": "hepatosplenomegaly",
+  "distribution": "extensive bilateral air-space consolidation:",
+  "discriminating_features": [
+    "hepatosplenomegaly",
+    "extensive bilateral air-space consolidation:",
+    "symmetric consolidation of perihilar area + lung bases with sparing of lung apices",
+    "air bronchogram",
+    "consolidation replaced by interstitial pattern within 2-3 days → organization of"
+  ],
+  "other_features": {
+    "general": [
+      "hepatosplenomegaly"
+    ],
+    "Lung": [
+      "extensive bilateral air-space consolidation:",
+      "symmetric consolidation of perihilar area + lung bases with sparing of lung apices",
+      "air bronchogram",
+      "consolidation replaced by interstitial pattern within 2-3 days → organization of",
+      "hilar lymph nodes may be enlarged during acute episode"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death within 3 years (average 6 months) because of renal failure",
+    "Rx": "cytotoxic chemotherapy, plasmapheresis, bilateral nephrectomy"
+  }
+}

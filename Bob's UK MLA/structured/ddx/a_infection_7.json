@@ -1,0 +1,27 @@
+{
+  "finding": "A. INFECTION",
+  "slug": "a_infection_7",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/a_infection_7.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Chickenpox pneumonia",
+      "raw": "Chickenpox pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

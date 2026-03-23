@@ -1,0 +1,22 @@
+{
+  "finding": "Neuropathic Osteoarthropathy (DDx)",
+  "slug": "neuropathic_osteoarthropathy_ddx",
+  "chapter": "Neuropathic Osteoarthropathy",
+  "source_file": "processed_clusters/neuropathic_osteoarthropathy/neuropathic_osteoarthropathy_ddx.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "surgical amputation",
+      "raw": "surgical amputation",
+      "frequency": null
+    },
+    {
+      "name": "septic arthritis (b)  hypertrophic pattern (only sensory nerves affected):",
+      "raw": "septic arthritis (b)  hypertrophic pattern (only sensory nerves affected):",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

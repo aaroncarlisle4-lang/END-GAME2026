@@ -1,0 +1,39 @@
+{
+  "name": "PANCREATIC TRANSPLANTATION",
+  "slug": "pancreatic_transplantation",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/pancreatic_transplantation.md",
+  "definition": "major long-term cause of graft failure > first 6 months",
+  "demographics": {
+    "Path": "autoimmune vasculitis → small vessel occlusion (decreased perfusion) →",
+    "Frequency": "up to 35%"
+  },
+  "dominant_finding": "venous > arterial thrombosis",
+  "distribution": "",
+  "discriminating_features": [
+    "nonspecific enlargement + organ heterogeneity",
+    "venous > arterial thrombosis",
+    "all imaging modalities are unreliable",
+    "graft enlargement + heterogeneity",
+    "poor margination of transplant"
+  ],
+  "other_features": {
+    "general": [
+      "venous > arterial thrombosis",
+      "all imaging modalities are unreliable",
+      "graft enlargement + heterogeneity",
+      "poor margination of transplant",
+      "dilated pancreatic duct",
+      "resistive indices not helpful",
+      "shrunken / disappearing transplant",
+      "nonspecific enlargement + organ heterogeneity",
+      "peritransplant fluid",
+      "mural thickening of adjacent bowel"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "40% survival rate > 1 year",
+    "Rx": "prompt pancreatectomy",
+    "Cx": "multiple episodes culminate in chronic rejection"
+  }
+}

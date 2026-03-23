@@ -1,0 +1,57 @@
+{
+  "finding": "MYELOFIBROSIS",
+  "slug": "myelofibrosis_9b3d7f",
+  "chapter": "MUSCULOTENDINOUS INJURY",
+  "source_file": "processed_clusters/musculotendinous_injury/myelofibrosis_9b3d7f.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "extramedullary hematopoiesis",
+      "raw": "extramedullary hematopoiesis",
+      "frequency": null
+    },
+    {
+      "name": "progressive splenomegaly",
+      "raw": "progressive splenomegaly",
+      "frequency": null
+    },
+    {
+      "name": "anemia",
+      "raw": "anemia",
+      "frequency": null
+    },
+    {
+      "name": "variable changes in number of granulocytes + platelets; often predated by polycythemia vera",
+      "raw": "variable changes in number of granulocytes + platelets; often predated by polycythemia vera",
+      "frequency": null
+    },
+    {
+      "name": "dyspnea, weakness, fatigue, weight loss, hemorrhage",
+      "raw": "dyspnea, weakness, fatigue, weight loss, hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "normochromic normocytic anemia; polycythemia may precede myelosclerosis in 59%",
+      "raw": "normochromic normocytic anemia; polycythemia may precede myelosclerosis in 59%",
+      "frequency": "59%"
+    },
+    {
+      "name": "dry marrow aspirate Location:   red-marrow-containing bones in 40%",
+      "raw": "dry marrow aspirate Location:   red-marrow-containing bones in 40% (thoracic cage, pelvis, femora, humeral shafts, lumbar spine, skull, peripheral bones)",
+      "frequency": "40%"
+    },
+    {
+      "name": "With splenomegaly: chronic leukemia, lymphoma, mastocytosis",
+      "raw": "With splenomegaly: chronic leukemia, lymphoma, mastocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Without splenomegaly: osteoblastic metastases, fluorine poisoning, osteopetrosis, chronic renal disease",
+      "raw": "Without splenomegaly: osteoblastic metastases, fluorine poisoning, osteopetrosis, chronic renal disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  MYELOSCLEROSIS = AGNOGENIC MYELOID METAPLASIA = MYELO- PROLIFERATIVE SYNDROME = PSEUDOLEUKEMIA =  hematologic disorder of unknown etiology with gradual replacement of bone marrow elements by fibrotic tissue Characterized by: Cause: (a)  primary: rare in children (b)  secondary: radiation therapy / chemotherapy for leukemia or lymphoma or metastatic disease; Gaucher disease Age:   usually > 50 years Path:   fibrous / bony replacement of bone marrow; extramedullary hematopoiesis Associated with:   metastatic carcinoma, chemical poisoning, chronic infection (TB), acute myelogenous leukemia, po"
+}

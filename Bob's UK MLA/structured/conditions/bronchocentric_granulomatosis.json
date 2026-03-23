@@ -1,0 +1,30 @@
+{
+  "name": "BRONCHOCENTRIC GRANULOMATOSIS",
+  "slug": "bronchocentric_granulomatosis",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/bronchocentric_granulomatosis.md",
+  "definition": "rare disorder characterized by destructive necrotizing granulomatous inflammation of",
+  "demographics": {
+    "Peak age": "4th-7th decade",
+    "Location": "unilateral (75%); upper lung zones (60%)"
+  },
+  "dominant_finding": "solitary > multiple nodules / masses (in 60%)",
+  "distribution": "unilateral (75%); upper lung zones (60%)",
+  "discriminating_features": [
+    "branching opacities / atelectasis ← mucoid impaction",
+    "solitary > multiple nodules / masses (in 60%)",
+    "ill-defined parenchymal consolidation (in 27%)",
+    "± cavitation"
+  ],
+  "other_features": {
+    "general": [
+      "branching opacities / atelectasis ← mucoid impaction",
+      "solitary > multiple nodules / masses (in 60%)",
+      "ill-defined parenchymal consolidation (in 27%)",
+      "± cavitation"
+    ]
+  },
+  "clinical": {
+    "Rx": "corticosteroid therapy"
+  }
+}

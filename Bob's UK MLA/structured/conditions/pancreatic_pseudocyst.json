@@ -1,0 +1,49 @@
+{
+  "name": "PANCREATIC PSEUDOCYST",
+  "slug": "pancreatic_pseudocyst",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/pancreatic_pseudocyst.md",
+  "definition": "collection of pancreatic secretions / hemorrhagic fat necrosis encapsulated by granulation",
+  "demographics": {
+    "Frequency": "2-4% in acute pancreatitis;",
+    "Location": "²/³ within pancreas"
+  },
+  "dominant_finding": "fluid in pseudocyst (0-30 HU)",
+  "distribution": "²/³ within pancreas",
+  "discriminating_features": [
+    "smooth extrinsic indentation of posterior wall of stomach / inner duodenal sweep (80%)",
+    "indentation / displacement of splenic flexure / transverse colon (40%)",
+    "downward displacement of duodenojejunal junction",
+    "gastric outlet obstruction",
+    "splaying of renal collecting system / ureteral obstruction"
+  ],
+  "other_features": {
+    "general": [
+      "smooth extrinsic indentation of posterior wall of stomach / inner duodenal sweep (80%)",
+      "indentation / displacement of splenic flexure / transverse colon (40%)",
+      "downward displacement of duodenojejunal junction",
+      "gastric outlet obstruction",
+      "splaying of renal collecting system / ureteral obstruction",
+      "usually single + unilocular cyst",
+      "multilocular in 6%",
+      "fluid-debris level / internal echoes ← may contain sequester, blood clot, cellular debris",
+      "rare septations (= sign of infection / hemorrhage)",
+      "may increase in size ← hypertonicity of fluid, communication with pancreatic duct,",
+      "obstruction of pancreatic duct / CBD"
+    ],
+    "CT": [
+      "fluid in pseudocyst (0-30 HU)",
+      "cyst wall calcification (extremely rare)"
+    ],
+    "MR": [
+      "irregularly marginated (early) / well-circumscribed (after several weeks) fluid collection",
+      "thickened enhancing wall",
+      "hyperintense contents on T1WI ← blood products / necrotic or proteinaceous debris",
+      "hyperintense surrounding tissues on fat-suppressed T2WI ← chemical inflammation /",
+      "communication with pancreatic duct in up to 50-70%",
+      "gas bubbles (DDx: fistulous communication to GI tract)",
+      "increase in attenuation of fluid contents"
+    ]
+  },
+  "clinical": {}
+}

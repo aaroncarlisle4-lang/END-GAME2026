@@ -1,0 +1,45 @@
+{
+  "finding": "Syndesmotic Ligament Complex",
+  "slug": "syndesmotic_ligament_complex_e4c46d",
+  "chapter": "KNEE",
+  "source_file": "processed_clusters/knee/syndesmotic_ligament_complex_e4c46d.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Anterior-inferior tibiofibular (AITFL) Attachment:   slightly above talofibular ligaments = above level of talotibial joint line ◊  One of the most commonly injured ligaments in the ankle!",
+      "raw": "Anterior-inferior tibiofibular (AITFL) Attachment:   slightly above talofibular ligaments = above level of talotibial joint line ◊  One of the most commonly injured ligaments in the ankle!",
+      "frequency": null
+    },
+    {
+      "name": "Posteroinferior tibiofibular",
+      "raw": "Posteroinferior tibiofibular (PITFL)",
+      "frequency": null
+    },
+    {
+      "name": "Transverse tibiofibular ligament",
+      "raw": "Transverse tibiofibular ligament",
+      "frequency": null
+    },
+    {
+      "name": "Interosseous membrane",
+      "raw": "Interosseous membrane",
+      "frequency": null
+    },
+    {
+      "name": "Course:   behind superior extensor retinaculum [Posterior Ankle Tendons]",
+      "raw": "Course:   behind superior extensor retinaculum",
+      "frequency": null,
+      "sites": [
+        "Posterior Ankle Tendons"
+      ]
+    },
+    {
+      "name": "Achilles Tendon",
+      "raw": "Achilles Tendon",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "binding tibia + fibula Anterior Ankle Tendons Anterior Tibialis =  most medial and largest extensor of ankle with appearance of tendon at junction of middle to distal ⅓ Function:   80% of foot dorsiflexion; helps support longitudinal arch; aids in foot supination and inversion Origin:   proximal third of lateral tibia, lateral tibial condyle, interosseous membrane, deep fascia, intermuscular septum Insertion:   bifid = medial cuneiform (dominant slip) + 1st metatarsal base (thin slip) Tendon fixation:   superior + inferior extensor retinaculum (with oblique superomedial and oblique inferomedia"
+}

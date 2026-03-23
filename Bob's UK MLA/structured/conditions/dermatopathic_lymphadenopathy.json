@@ -1,0 +1,22 @@
+{
+  "name": "DERMATOPATHIC LYMPHADENOPATHY",
+  "slug": "dermatopathic_lymphadenopathy",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/dermatopathic_lymphadenopathy.md",
+  "definition": "benign reactive lymphadenopathy within breast associated with cutaneous rashes",
+  "demographics": {
+    "Histo": "follicular pattern retained, germinal centers enlarged, enlarged paracortical area with",
+    "Location": "often bilateral"
+  },
+  "dominant_finding": "regional subcentimeter masses with central / peripheral radiolucent notches",
+  "distribution": "often bilateral",
+  "discriminating_features": [
+    "regional subcentimeter masses with central / peripheral radiolucent notches"
+  ],
+  "other_features": {
+    "general": [
+      "regional subcentimeter masses with central / peripheral radiolucent notches"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,70 @@
+{
+  "finding": "Intervertebral Disk Calcification",
+  "slug": "intervertebral_disk_calcification",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/intervertebral_disk_calcification.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Amyloidosis, Acromegaly",
+      "raw": "Amyloidosis, Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Degenerative disk disease",
+      "raw": "Degenerative disk disease",
+      "frequency": null
+    },
+    {
+      "name": "Infection [Spinal fusion]",
+      "raw": "Infection",
+      "frequency": null,
+      "sites": [
+        "Spinal fusion"
+      ]
+    },
+    {
+      "name": "CPPD",
+      "raw": "CPPD",
+      "frequency": null
+    },
+    {
+      "name": "Spondylitis ankylosing",
+      "raw": "Spondylitis ankylosing",
+      "frequency": null
+    },
+    {
+      "name": "Ochronosis",
+      "raw": "Ochronosis",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "Hemochromatosis, Hyperparathyroidism, Homocystinuria",
+      "raw": "Hemochromatosis, Hyperparathyroidism, Homocystinuria",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic skeletal hyperostosis",
+      "raw": "Idiopathic skeletal hyperostosis",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic",
+      "raw": "Traumatic",
+      "frequency": null
+    },
+    {
+      "name": "Etceteras: Gout and other causes of chondrocalcinosis",
+      "raw": "Etceteras: Gout and other causes of chondrocalcinosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

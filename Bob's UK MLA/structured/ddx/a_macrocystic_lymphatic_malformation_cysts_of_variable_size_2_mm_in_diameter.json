@@ -1,0 +1,67 @@
+{
+  "finding": "A. MACROCYSTIC lymphatic malformation = cysts of variable size > 2 mm in diameter",
+  "slug": "a_macrocystic_lymphatic_malformation_cysts_of_variable_size_2_mm_in_diameter",
+  "chapter": "TRICUSPID REGURGITATION / INSUFFICIENCY",
+  "source_file": "processed_clusters/tricuspid_regurgitation_insufficiency/a_macrocystic_lymphatic_malformation_cysts_of_variable_size_2_mm_in_diameter.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "smooth translucent multiple masses beneath normal skin",
+      "raw": "smooth translucent multiple masses beneath normal skin",
+      "frequency": null
+    },
+    {
+      "name": "MICROCYSTIC lymphatic malformation = cysts of < 2 mm in size on background of solid matrix",
+      "raw": "MICROCYSTIC lymphatic malformation = cysts of < 2 mm in size on background of solid matrix",
+      "frequency": null
+    },
+    {
+      "name": "permeation of skin",
+      "raw": "permeation of skin",
+      "frequency": null
+    },
+    {
+      "name": "diffuse soft-tissue thickening + surrounding lymphedema",
+      "raw": "diffuse soft-tissue thickening + surrounding lymphedema",
+      "frequency": null
+    },
+    {
+      "name": "skin level: faint blue soft compressible nonpulsatile mass",
+      "raw": "skin level: faint blue soft compressible nonpulsatile mass",
+      "frequency": null
+    },
+    {
+      "name": "enlarging with Valsalva maneuver + in dependent position",
+      "raw": "enlarging with Valsalva maneuver + in dependent position",
+      "frequency": null
+    },
+    {
+      "name": "decreasing with elevation of extremity + local compression",
+      "raw": "decreasing with elevation of extremity + local compression",
+      "frequency": null
+    },
+    {
+      "name": "deep level: pain, impaired mobility, skeletal deformity",
+      "raw": "deep level: pain, impaired mobility, skeletal deformity",
+      "frequency": null
+    },
+    {
+      "name": "Blue rubber bleb nevus syndrome",
+      "raw": "Blue rubber bleb nevus syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Proteus syndrome",
+      "raw": "Proteus syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Maffucci syndrome",
+      "raw": "Maffucci syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  rim + septal enhancement without central filling of cystic structures √  NO significant enhancement √  occasionally diffuse enhancement ← septal enhancement of small nonperceptible cysts / venous component in mixed venous-lymphatic malformation Location:  neck (70-80%); axillary region (20%); extremities (rare) Site:     posterior cervical triangle MR: √  lobulated septated mass with intermediate to decreased SI on T1WI + increased signal intensity on T2WI + STIR √  internal fluid-fluid levels (common) Venous Malformation =  simple slow-flow malformation + abnormal venous network =  \"cavern"
+}

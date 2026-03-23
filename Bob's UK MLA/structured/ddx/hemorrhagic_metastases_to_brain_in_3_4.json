@@ -1,0 +1,72 @@
+{
+  "finding": "Hemorrhagic Metastases to Brain (in 3-4%",
+  "slug": "hemorrhagic_metastases_to_brain_in_3_4",
+  "chapter": "METACHROMATIC LEUKODYSTROPHY",
+  "source_file": "processed_clusters/metachromatic_leukodystrophy/hemorrhagic_metastases_to_brain_in_3_4.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malignant melanoma",
+      "raw": "Malignant melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast cancer",
+      "raw": "Breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Oat cell carcinoma of lung",
+      "raw": "Oat cell carcinoma of lung",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid carcinoma",
+      "raw": "Thyroid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid carcinoma",
+      "raw": "Thyroid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast carcinoma",
+      "raw": "Breast carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  hyperdense without contrast √  hypervascular with contrast"
+}

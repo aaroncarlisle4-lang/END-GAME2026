@@ -1,0 +1,67 @@
+{
+  "finding": "Posterior Mediastinal Mass",
+  "slug": "posterior_mediastinal_mass",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/posterior_mediastinal_mass.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NEOPLASM ›  NEUROGENIC TUMOR (largest group): 30% malignant (a)  tumor of peripheral nerve origin",
+      "raw": "NEOPLASM ›  NEUROGENIC TUMOR (largest group): 30% malignant (a)  tumor of peripheral nerve origin",
+      "frequency": "30%"
+    },
+    {
+      "name": "more common in adulthood",
+      "raw": "more common in adulthood",
+      "frequency": "common"
+    },
+    {
+      "name": "Schwannoma = neurilemmoma",
+      "raw": "Schwannoma = neurilemmoma (32%)",
+      "frequency": "32%"
+    },
+    {
+      "name": "Neurofibroma (10%): contains Schwann cells + nerve cells, 3rd + 4th decade",
+      "raw": "Neurofibroma (10%): contains Schwann cells + nerve cells, 3rd + 4th decade",
+      "frequency": "10%"
+    },
+    {
+      "name": "Malignant schwannoma (b)  tumor of sympathetic ganglia origin",
+      "raw": "Malignant schwannoma (b)  tumor of sympathetic ganglia origin",
+      "frequency": null
+    },
+    {
+      "name": "more common in childhood",
+      "raw": "more common in childhood",
+      "frequency": "common"
+    },
+    {
+      "name": "Ganglioneuroma (23-38%): second most common tumor of posterior mediastinum after neurofibroma",
+      "raw": "Ganglioneuroma (23-38%): second most common tumor of posterior mediastinum after neurofibroma",
+      "frequency": "38%"
+    },
+    {
+      "name": "Neuroblastoma (15%): highly malignant undifferentiated small round cell tumor originating in sympathetic ganglia, < 10 years of age",
+      "raw": "Neuroblastoma (15%): highly malignant undifferentiated small round cell tumor originating in sympathetic ganglia, < 10 years of age",
+      "frequency": "15%"
+    },
+    {
+      "name": "Ganglioneuroblastoma",
+      "raw": "Ganglioneuroblastoma (14%): both features, spontaneous maturation possible (c)  tumor of paraganglia origin (rare)",
+      "frequency": "14%"
+    },
+    {
+      "name": "Chemodectoma = paraganglioma",
+      "raw": "Chemodectoma = paraganglioma (4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  80% appear as a round mass with sulcus √  lower attenuation than muscle (in 73%) √  80% are elongated with tapered borders √  rib spreading, erosion, destruction √  enlargement of neural foramina (dumbbell lesion) √  scalloping of posterior aspect of vertebral body √  scoliosis CT: √  low-density soft-tissue mass (lipid contents) ›  SPINE TUMOR: metastasis (eg, bronchogenic carcinoma, multiple myeloma), ABC, chordoma, chondrosarcoma, Ewing sarcoma ›  LYMPHOMA ›  INVASIVE THYMOMA ›  MESENCHYMAL TUMOR: fibroma, lipoma, leiomyoma ›  HEMANGIOMA ›  LYMPHANGIOMA ›  THYROID TUMOR"
+}

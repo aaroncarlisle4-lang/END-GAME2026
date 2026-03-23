@@ -1,0 +1,57 @@
+{
+  "finding": "Thickened Folds of Stomach & Small Bowel",
+  "slug": "thickened_folds_of_stomach_small_bowel",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/thickened_folds_of_stomach_small_bowel.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic gastroenteritis",
+      "raw": "Eosinophilic gastroenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Zollinger-Ellison syndrome",
+      "raw": "Zollinger-Ellison syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ménétrier disease",
+      "raw": "Ménétrier disease",
+      "frequency": null
+    },
+    {
+      "name": "Cirrhosis = gastric varices + hypoproteinemia",
+      "raw": "Cirrhosis = gastric varices + hypoproteinemia",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Whipple disease",
+      "raw": "Whipple disease",
+      "frequency": null
+    },
+    {
+      "name": "Systemic sclerosis",
+      "raw": "Systemic sclerosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

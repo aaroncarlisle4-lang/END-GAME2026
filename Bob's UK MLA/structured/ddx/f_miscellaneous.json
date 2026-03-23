@@ -1,0 +1,47 @@
+{
+  "finding": "F. MISCELLANEOUS",
+  "slug": "f_miscellaneous",
+  "chapter": "D. POSTSURGICAL",
+  "source_file": "processed_clusters/d_postsurgical/f_miscellaneous.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endometriosis 3rd most common benign tumor",
+      "raw": "Endometriosis 3rd most common benign tumor",
+      "frequency": "most common"
+    },
+    {
+      "name": "may cause bleeding",
+      "raw": "may cause bleeding (after invasion of mucosa)",
+      "frequency": null
+    },
+    {
+      "name": "Localized amyloid deposition",
+      "raw": "Localized amyloid deposition",
+      "frequency": null
+    },
+    {
+      "name": "Suture granuloma",
+      "raw": "Suture granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Intussusception",
+      "raw": "Intussusception",
+      "frequency": null
+    },
+    {
+      "name": "Pseudotumor: ← adhesions, fibrous bands",
+      "raw": "Pseudotumor: ← adhesions, fibrous bands",
+      "frequency": null
+    },
+    {
+      "name": "Colitis cystica profunda",
+      "raw": "Colitis cystica profunda",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   sigmoid colon, rectosigmoid junction (at level of cul-de-sac)"
+}

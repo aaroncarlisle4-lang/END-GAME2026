@@ -1,0 +1,62 @@
+{
+  "finding": "Mesenteric Mass",
+  "slug": "mesenteric_mass_dbeb40",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/mesenteric_mass_dbeb40.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ROUND SOLID MASS ◊  Benign primary tumors >> malignant primary tumors ◊  Secondary neoplasms are more frequent than primary ◊  Cystic tumors are more common than solid tumors!",
+      "raw": "ROUND SOLID MASS ◊  Benign primary tumors >> malignant primary tumors ◊  Secondary neoplasms are more frequent than primary ◊  Cystic tumors are more common than solid tumors!",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Metastases: especially ← colon, ovary",
+      "raw": "Metastases: especially ← colon, ovary (most frequent neoplasm of mesentery)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma: more frequent than leiomyoma",
+      "raw": "Leiomyosarcoma: more frequent than leiomyoma",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Neural tumor : neurofibroma, ganglioneuroma",
+      "raw": "Neural tumor : neurofibroma, ganglioneuroma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma (uncommon), lipomatosis, liposarcoma",
+      "raw": "Lipoma (uncommon), lipomatosis, liposarcoma",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Fibrous histiocytoma",
+      "raw": "Fibrous histiocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Desmoid tumor",
+      "raw": "Desmoid tumor (most common primary)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Desmoplastic small round cell tumor of peritoneum",
+      "raw": "Desmoplastic small round cell tumor of peritoneum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Malignant solid tumors have a tendency to be located near root of mesentery, benign solid tumors in periphery near bowel!"
+}

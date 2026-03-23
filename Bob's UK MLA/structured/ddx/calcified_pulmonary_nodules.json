@@ -1,0 +1,97 @@
+{
+  "finding": "Calcified Pulmonary Nodules",
+  "slug": "calcified_pulmonary_nodules",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/calcified_pulmonary_nodules.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Histoplasmosis, Hamartoma",
+      "raw": "Histoplasmosis, Hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis, Alveolar microlithiasis",
+      "raw": "Amyloidosis, Alveolar microlithiasis",
+      "frequency": null
+    },
+    {
+      "name": "Mitral stenosis, Metastasis",
+      "raw": "Mitral stenosis, Metastasis (thyroid, osteosarcoma, mucinous carcinoma)",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Varicella",
+      "raw": "Varicella",
+      "frequency": null
+    },
+    {
+      "name": "Silicosis",
+      "raw": "Silicosis",
+      "frequency": null
+    },
+    {
+      "name": "◊  Central / laminated / popcorn / diffuse calcifications are characteristic of benign solitary",
+      "raw": "◊  Central / laminated / popcorn / diffuse calcifications are characteristic of benign solitary",
+      "frequency": null
+    },
+    {
+      "name": "lung nodules!",
+      "raw": "lung nodules!",
+      "frequency": null
+    },
+    {
+      "name": "### DENSE LUNG LESIONS",
+      "raw": "### DENSE LUNG LESIONS",
+      "frequency": null
+    },
+    {
+      "name": "Opacification of Hemithorax",
+      "raw": "Opacification of Hemithorax",
+      "frequency": null
+    },
+    {
+      "name": "mnemonic:   FAT CHANCE",
+      "raw": "mnemonic:   FAT CHANCE",
+      "frequency": null
+    },
+    {
+      "name": "Fibrothorax",
+      "raw": "Fibrothorax",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatoid malformation",
+      "raw": "Adenomatoid malformation",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma (ie, hematoma)",
+      "frequency": null
+    },
+    {
+      "name": "Collapse, Cardiomegaly",
+      "raw": "Collapse, Cardiomegaly",
+      "frequency": null
+    },
+    {
+      "name": "Hernia",
+      "raw": "Hernia",
+      "frequency": null
+    },
+    {
+      "name": "Agenesis of lung",
+      "raw": "Agenesis of lung",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

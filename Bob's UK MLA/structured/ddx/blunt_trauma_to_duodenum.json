@@ -1,0 +1,67 @@
+{
+  "finding": "Blunt Trauma to Duodenum",
+  "slug": "blunt_trauma_to_duodenum",
+  "chapter": "BEZOAR",
+  "source_file": "processed_clusters/bezoar/blunt_trauma_to_duodenum.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Duodenal contusion",
+      "raw": "Duodenal contusion",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma of the duodenal wall",
+      "raw": "Hematoma of the duodenal wall",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal perforation and disruption",
+      "raw": "Duodenal perforation and disruption",
+      "frequency": null
+    },
+    {
+      "name": "scar / fibrosis",
+      "raw": "scar / fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "splenic pseudocyst",
+      "raw": "splenic pseudocyst (20-30 HU)",
+      "frequency": null
+    },
+    {
+      "name": "Vascular injury: pseudoaneurysm, AV fistula",
+      "raw": "Vascular injury: pseudoaneurysm, AV fistula",
+      "frequency": null
+    },
+    {
+      "name": "delayed splenic rupture =  hemorrhage > 48 hours after trauma",
+      "raw": "delayed splenic rupture =  hemorrhage > 48 hours after trauma",
+      "frequency": null
+    },
+    {
+      "name": "Normal lobulation / splenic cleft",
+      "raw": "Normal lobulation / splenic cleft (smoothly contoured, medially located)",
+      "frequency": null
+    },
+    {
+      "name": "Adjacent unopacified jejunum simulating splenic tissue",
+      "raw": "Adjacent unopacified jejunum simulating splenic tissue",
+      "frequency": null
+    },
+    {
+      "name": "Early differential enhancement of red and white pulp",
+      "raw": "Early differential enhancement of red and white pulp (scan obtained within 20- 50 seconds)",
+      "frequency": null
+    },
+    {
+      "name": "Perisplenic fluid from ascites / urine / succus / bile / lavage",
+      "raw": "Perisplenic fluid from ascites / urine / succus / bile / lavage",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  retroperitoneal hematoma √  stranding of retroperitoneal fatty tissue √  thickening of duodenal wall √  edema / hematoma of the duodenal wall √  intramural gas accumulations √  focal duodenal wall thickening > 4 mm Rx:   conservative √  retroperitoneal collection of contrast (infrequent) √  extraluminal gas √  lack of continuity of duodenal wall Blunt Trauma to Spleen (40%) ◊  Most frequently injured intraperitoneal organ in blunt abdominal trauma (40% of abdominal organ injuries) Associated with:   other solid visceral / bowel injuries (29%); lower rib fractures in 44%, injury to left kidn"
+}

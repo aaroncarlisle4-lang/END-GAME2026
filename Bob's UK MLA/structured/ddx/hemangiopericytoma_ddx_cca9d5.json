@@ -1,0 +1,27 @@
+{
+  "finding": "Hemangiopericytoma (DDx)",
+  "slug": "hemangiopericytoma_ddx_cca9d5",
+  "chapter": "Hemangiopericytoma",
+  "source_file": "processed_clusters/hemangiopericytoma/hemangiopericytoma_ddx_cca9d5.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "meningioma (broad base of dural attachment",
+      "raw": "meningioma (broad base of dural attachment",
+      "frequency": null
+    },
+    {
+      "name": "sunburst\" stain of tumor blush",
+      "raw": "sunburst\" stain of tumor blush",
+      "frequency": null
+    },
+    {
+      "name": "low myo- inositol + positive alanine peak)",
+      "raw": "low myo- inositol + positive alanine peak)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "avid enhancement, sometimes heterogeneously | \"mushrooming\" into adjacent brain | lobulated / irregular borders | high myo-inositol peak at 3.56 ppm + lack of alanine"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Solitary Liver Lesion",
+  "slug": "solitary_liver_lesion",
+  "chapter": "D. MISCELLANEOUS",
+  "source_file": "processed_clusters/d_miscellaneous/solitary_liver_lesion.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Benign tumor",
+      "raw": "Benign tumor",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous hemangioma",
+      "raw": "Cavernous hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Focal nodular hyperplasia",
+      "raw": "Focal nodular hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Mesenchymal hamartoma",
+      "raw": "Mesenchymal hamartoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

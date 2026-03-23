@@ -1,0 +1,97 @@
+{
+  "finding": "B. BENIGN CONDITION (a) idiopathic",
+  "slug": "b_benign_condition_a_idiopathic_7ca637",
+  "chapter": "C. RBCs",
+  "source_file": "processed_clusters/c_rbcs/b_benign_condition_a_idiopathic_7ca637.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Focal interstitial fibrosis",
+      "raw": "Focal interstitial fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "BOOP (b)  infection",
+      "raw": "BOOP (b)  infection",
+      "frequency": null
+    },
+    {
+      "name": "Aspergillosis",
+      "raw": "Aspergillosis",
+      "frequency": null
+    },
+    {
+      "name": "Cryptococcus (c)  eosinophilic lung disease",
+      "raw": "Cryptococcus (c)  eosinophilic lung disease",
+      "frequency": null
+    },
+    {
+      "name": "Simple eosinophilic pneumonia",
+      "raw": "Simple eosinophilic pneumonia (Löffler syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic hypereosinophilic syndrome",
+      "raw": "Idiopathic hypereosinophilic syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Collagen vascular disease",
+      "raw": "Collagen vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic infection",
+      "raw": "Parasitic infection",
+      "frequency": null
+    },
+    {
+      "name": "Drug reaction (d)  hemorrhagic nodule",
+      "raw": "Drug reaction (d)  hemorrhagic nodule",
+      "frequency": null
+    },
+    {
+      "name": "Thoracic endometriosis",
+      "raw": "Thoracic endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Focal traumatic lung injury",
+      "raw": "Focal traumatic lung injury",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Henoch-Schönlein purpura",
+      "raw": "Henoch-Schönlein purpura",
+      "frequency": null
+    },
+    {
+      "name": "TECHNICAL",
+      "raw": "TECHNICAL (false positive + false negative)",
+      "frequency": null
+    },
+    {
+      "name": "Excessive noise due to low tube current",
+      "raw": "Excessive noise due to low tube current",
+      "frequency": null
+    },
+    {
+      "name": "Volume averaging",
+      "raw": "Volume averaging",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

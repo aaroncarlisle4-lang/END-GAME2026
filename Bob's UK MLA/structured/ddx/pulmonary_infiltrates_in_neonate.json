@@ -1,0 +1,37 @@
+{
+  "finding": "Pulmonary Infiltrates in Neonate",
+  "slug": "pulmonary_infiltrates_in_neonate",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/pulmonary_infiltrates_in_neonate.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infection",
+      "raw": "Infection (pneumonia)",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Edema",
+      "raw": "Edema",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration",
+      "raw": "Aspiration",
+      "frequency": null
+    },
+    {
+      "name": "Respiratory distress syndrome",
+      "raw": "Respiratory distress syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

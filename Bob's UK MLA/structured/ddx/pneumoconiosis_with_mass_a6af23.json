@@ -1,0 +1,37 @@
+{
+  "finding": "Pneumoconiosis with Mass",
+  "slug": "pneumoconiosis_with_mass_a6af23",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/pneumoconiosis_with_mass_a6af23.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma (histoplasmosis, TB, sarcoidosis)",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma (incidence same as in general population)",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Progressive massive fibrosis",
+      "raw": "Progressive massive fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Caplan syndrome",
+      "raw": "Caplan syndrome (rheumatoid nodules)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Anthracosilicosis with:"
+}

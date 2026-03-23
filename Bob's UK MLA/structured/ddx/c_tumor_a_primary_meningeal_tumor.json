@@ -1,0 +1,82 @@
+{
+  "finding": "C. TUMOR (a) Primary meningeal tumor",
+  "slug": "c_tumor_a_primary_meningeal_tumor",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/c_tumor_a_primary_meningeal_tumor.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Glioma: primary leptomeningeal glioblastomatosis / gliosarcomatosis",
+      "raw": "Glioma: primary leptomeningeal glioblastomatosis / gliosarcomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma / melanocytoma",
+      "raw": "Melanoma / melanocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma (b)  CSF-spread from primary CNS tumor",
+      "raw": "Lymphoma (b)  CSF-spread from primary CNS tumor",
+      "frequency": null
+    },
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Germinoma",
+      "raw": "Germinoma",
+      "frequency": null
+    },
+    {
+      "name": "Pineoblastoma (c)  Metastasis",
+      "raw": "Pineoblastoma (c)  Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Breast carcinoma",
+      "raw": "Breast carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / leukemia",
+      "raw": "Lymphoma / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Lung carcinoma",
+      "raw": "Lung carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant melanoma",
+      "raw": "Malignant melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Gastrointestinal carcinoma",
+      "raw": "Gastrointestinal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Genitourinary carcinoma",
+      "raw": "Genitourinary carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

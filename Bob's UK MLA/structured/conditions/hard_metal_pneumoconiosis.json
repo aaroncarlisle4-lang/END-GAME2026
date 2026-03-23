@@ -1,0 +1,25 @@
+{
+  "name": "HARD-METAL PNEUMOCONIOSIS",
+  "slug": "hard_metal_pneumoconiosis",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/hard_metal_pneumoconiosis.md",
+  "definition": "alloy of tungsten, carbon and cobalt",
+  "demographics": {
+    "Histo": "obliterative bronchiolitis (earliest manifestation), subacute fibrosing alveolitis (="
+  },
+  "dominant_finding": "diffuse small reticulonodular pattern + small cystic spaces",
+  "distribution": "diffuse small reticulonodular pattern + small cystic spaces",
+  "discriminating_features": [
+    "diffuse small reticulonodular pattern + small cystic spaces",
+    "panlobular bilateral ground-glass opacities / consolidation",
+    "parenchymal distortion, honeycombing, traction bronchiectasis"
+  ],
+  "other_features": {
+    "general": [
+      "diffuse small reticulonodular pattern + small cystic spaces",
+      "panlobular bilateral ground-glass opacities / consolidation",
+      "parenchymal distortion, honeycombing, traction bronchiectasis"
+    ]
+  },
+  "clinical": {}
+}

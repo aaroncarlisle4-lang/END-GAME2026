@@ -1,0 +1,32 @@
+{
+  "finding": "Osteosarcoma (DDx)",
+  "slug": "osteosarcoma_ddx",
+  "chapter": "Osteosarcoma",
+  "source_file": "processed_clusters/osteosarcoma/osteosarcoma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "benign fibro-osseous lesions (fibrous dysplasia",
+      "raw": "benign fibro-osseous lesions (fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "nonossifying fibroma",
+      "raw": "nonossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "desmoplastic fibroma",
+      "raw": "desmoplastic fibroma",
+      "frequency": null
+    },
+    {
+      "name": "chondromyxoid fibroma); chondrosarcoma",
+      "raw": "chondromyxoid fibroma); chondrosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "diffuse dense sclerosis (< 30%) | remodeling of bone | may have well-defined margins + sclerotic rim | subtle signs of aggressiveness: bone lysis, focally indistinct margin, cortical destruction,"
+}

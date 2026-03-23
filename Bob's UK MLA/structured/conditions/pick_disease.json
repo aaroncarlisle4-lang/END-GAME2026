@@ -1,0 +1,29 @@
+{
+  "name": "PICK DISEASE",
+  "slug": "pick_disease",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/pick_disease.md",
+  "definition": "FRONTOTEMPORAL DEMENTIA rare form of presenile dementia similar to Alzheimer disease; may be inherited with",
+  "demographics": {},
+  "dominant_finding": "hypometabolism in frontal + anterior temporal lobes + anterior cingulate gyrus",
+  "distribution": "focal cortical atrophy of anterior frontal + anterior temporal lobes",
+  "discriminating_features": [
+    "focal cortical atrophy of anterior frontal + anterior temporal lobes",
+    "dilatation of frontal + temporal horns of lateral ventricle",
+    "hypometabolism in frontal + anterior temporal lobes + anterior cingulate gyrus",
+    "temporal lobe involvement extends to anterior aspects (NOT in Alzheimer disease)",
+    "frontal-predominant form = sparing of temporal lobes"
+  ],
+  "other_features": {
+    "general": [
+      "focal cortical atrophy of anterior frontal + anterior temporal lobes",
+      "dilatation of frontal + temporal horns of lateral ventricle"
+    ],
+    "PET": [
+      "hypometabolism in frontal + anterior temporal lobes + anterior cingulate gyrus",
+      "temporal lobe involvement extends to anterior aspects (NOT in Alzheimer disease)",
+      "frontal-predominant form = sparing of temporal lobes"
+    ]
+  },
+  "clinical": {}
+}

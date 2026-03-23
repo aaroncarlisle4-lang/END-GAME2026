@@ -1,0 +1,57 @@
+{
+  "finding": "Congenital Malformation of Temporal Bone",
+  "slug": "congenital_malformation_of_temporal_bone",
+  "chapter": "TEMPORAL BONE",
+  "source_file": "processed_clusters/temporal_bone/congenital_malformation_of_temporal_bone.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "congenital hearing deficit Developmental malformations affecting the EAC + middle ear may cause conductive hearing loss.",
+      "raw": "congenital hearing deficit Developmental malformations affecting the EAC + middle ear may cause conductive hearing loss.",
+      "frequency": null
+    },
+    {
+      "name": "CHARGE syndrome",
+      "raw": "CHARGE syndrome (= Coloboma, Heart defect, Atresia of nasal choanae, Retardation of growth ± development, Genital ± urinary abnormalities, Ear abnormalities and deafness)",
+      "frequency": null
+    },
+    {
+      "name": "Klippel-Feil syndrome",
+      "raw": "Klippel-Feil syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Trisomy 21",
+      "raw": "Trisomy 21",
+      "frequency": null
+    },
+    {
+      "name": "Goldenhar syndrome",
+      "raw": "Goldenhar syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Crouzon syndrome",
+      "raw": "Crouzon syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Congenital atresia of EAC",
+      "raw": "Congenital atresia of EAC",
+      "frequency": null
+    },
+    {
+      "name": "Otic capsule dysplasia",
+      "raw": "Otic capsule dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Large vestibular aqueduct syndrome",
+      "raw": "Large vestibular aqueduct syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Those affecting the membranous + bony labyrinth may result in sensorineural hearing loss (SN HL). Cause: (a)  nongenetic (b)  genetic ›  isolated ›  associated with: Location:  external ear, middle ear, inner ear"
+}

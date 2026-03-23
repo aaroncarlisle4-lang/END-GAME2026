@@ -1,0 +1,37 @@
+{
+  "finding": "F. AIDS-ASSOCIATED NEOPLASMS",
+  "slug": "f_aids_associated_neoplasms_740872",
+  "chapter": "AIDS",
+  "source_file": "processed_clusters/aids/f_aids_associated_neoplasms_740872.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Non-Hodgkin lymphoma ◊  2nd most common AIDS-associated neoplasm",
+      "raw": "Non-Hodgkin lymphoma ◊  2nd most common AIDS-associated neoplasm",
+      "frequency": "most common"
+    },
+    {
+      "name": "at initial presentation widely disseminated disease often with extranodal involvement",
+      "raw": "at initial presentation widely disseminated disease often with extranodal involvement",
+      "frequency": null
+    },
+    {
+      "name": "Splenomegaly",
+      "raw": "Splenomegaly (31-45%) Cause:   nonspecific (most), lymphoma, infection (M. avium-intracellulare, P. carinii)",
+      "frequency": "45%"
+    },
+    {
+      "name": "Lymphadenopathy",
+      "raw": "Lymphadenopathy (21-60%)",
+      "frequency": "60%"
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   in 4-10% of AIDS patients (60 x higher risk compared with general population); occurs in all AIDS risk groups Histo:   multiclonal B-cell lymphoma of high / intermediate grade Location:   CNS, bone marrow, GI tract (stomach, small bowel) @   Stomach √  circumferential / focal wall thickening √  mural mass ± ulceration @   Small bowel √  diffuse / focal wall thickening √  excavated mass √  solitary / multiple liver lesions Differential diagnostic considerations:"
+}

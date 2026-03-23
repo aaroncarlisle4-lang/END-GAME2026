@@ -1,0 +1,32 @@
+{
+  "finding": "Gas in Vertebral Body",
+  "slug": "gas_in_vertebral_body_372e1f",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/gas_in_vertebral_body_372e1f.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteonecrosis = Kümmell disease",
+      "raw": "Osteonecrosis = Kümmell disease",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Intraosseous displacement of cartilaginous / Schmorl node",
+      "raw": "Intraosseous displacement of cartilaginous / Schmorl node",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy",
+      "raw": "Malignancy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  linear collection √  small gas bubbles ± extension into adjacent soft-tissues √  branching gas pattern"
+}

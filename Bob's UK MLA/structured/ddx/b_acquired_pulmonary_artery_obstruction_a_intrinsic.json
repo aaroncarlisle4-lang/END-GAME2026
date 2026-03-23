@@ -1,0 +1,27 @@
+{
+  "finding": "B. ACQUIRED PULMONARY ARTERY OBSTRUCTION (a) intrinsic",
+  "slug": "b_acquired_pulmonary_artery_obstruction_a_intrinsic",
+  "chapter": "D. FIBROSING MEDIASTINITIS",
+  "source_file": "processed_clusters/d_fibrosing_mediastinitis/b_acquired_pulmonary_artery_obstruction_a_intrinsic.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic thromboembolic disease",
+      "raw": "Chronic thromboembolic disease",
+      "frequency": null
+    },
+    {
+      "name": "Takayasu arteritis (b)  extrinsic",
+      "raw": "Takayasu arteritis (b)  extrinsic",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosing mediastinitis",
+      "raw": "Fibrosing mediastinitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

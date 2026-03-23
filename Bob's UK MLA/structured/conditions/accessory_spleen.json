@@ -1,0 +1,25 @@
+{
+  "name": "ACCESSORY SPLEEN",
+  "slug": "accessory_spleen",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/accessory_spleen.md",
+  "definition": "failure of coalescence of several small mesodermal buds in the dorsal mesogastrium that",
+  "demographics": {
+    "Prevalence": "10-30% of population; multiple (up to 6) in 10%"
+  },
+  "dominant_finding": "< 10% identified when normal spleen present",
+  "distribution": "",
+  "discriminating_features": [
+    "usually < 1 cm in diameter",
+    "< 10% identified when normal spleen present"
+  ],
+  "other_features": {
+    "general": [
+      "usually < 1 cm in diameter",
+      "< 10% identified when normal spleen present"
+    ]
+  },
+  "clinical": {
+    "Cx": "disease recurrence ← hypertrophy of accessory spleen after splenectomy for"
+  }
+}

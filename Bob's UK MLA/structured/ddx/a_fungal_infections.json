@@ -1,0 +1,27 @@
+{
+  "finding": "A. FUNGAL INFECTIONS",
+  "slug": "a_fungal_infections",
+  "chapter": "C. RIGHT UPPER LOBE",
+  "source_file": "processed_clusters/c_right_upper_lobe/a_fungal_infections.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aspergillosis",
+      "raw": "Aspergillosis",
+      "frequency": null
+    },
+    {
+      "name": "Nocardiosis",
+      "raw": "Nocardiosis",
+      "frequency": null
+    },
+    {
+      "name": "Mucormycosis",
+      "raw": "Mucormycosis (= phycomycosis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

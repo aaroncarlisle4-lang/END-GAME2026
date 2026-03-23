@@ -1,0 +1,32 @@
+{
+  "finding": "B. BENIGN TUMOR",
+  "slug": "b_benign_tumor_1",
+  "chapter": "CT / MR",
+  "source_file": "processed_clusters/ct_mr/b_benign_tumor_1.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Paraganglioma: carotid body tumor + glomus jugulare + glomus vagale",
+      "raw": "Paraganglioma: carotid body tumor + glomus jugulare + glomus vagale",
+      "frequency": null
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma of cranial nerves IX, X, XI",
+      "raw": "Neurofibroma of cranial nerves IX, X, XI",
+      "frequency": null
+    },
+    {
+      "name": "Branchial cleft cyst",
+      "raw": "Branchial cleft cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  displacement of carotid artery anteromedially + internal jugular vein posteriorly √  well-encapsulated mass"
+}

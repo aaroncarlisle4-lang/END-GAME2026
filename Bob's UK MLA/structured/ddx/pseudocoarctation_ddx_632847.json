@@ -1,0 +1,27 @@
+{
+  "finding": "Pseudocoarctation (DDx)",
+  "slug": "pseudocoarctation_ddx_632847",
+  "chapter": "Pseudocoarctation",
+  "source_file": "processed_clusters/pseudocoarctation/pseudocoarctation_ddx_632847.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "true coarctation",
+      "raw": "true coarctation",
+      "frequency": null
+    },
+    {
+      "name": "aneurysm",
+      "raw": "aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "mediastinal mass",
+      "raw": "mediastinal mass",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "shelflike lesion at any point along the aortic arch | poststenotic aortic dilatation | high position of aortic arch | \"figure 3\" sign = notch in descending aorta at attachment of short ligamentum arteriosum"
+}

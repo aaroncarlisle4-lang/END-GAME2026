@@ -1,0 +1,22 @@
+{
+  "finding": "Cholangiocarcinoma (DDx)",
+  "slug": "cholangiocarcinoma_ddx_20cd9b",
+  "chapter": "Cholangiocarcinoma",
+  "source_file": "processed_clusters/cholangiocarcinoma/cholangiocarcinoma_ddx_20cd9b.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "periportal lymphangitic metastasis (no ductal dilatation",
+      "raw": "periportal lymphangitic metastasis (no ductal dilatation",
+      "frequency": null
+    },
+    {
+      "name": "diffuse involvement of both",
+      "raw": "diffuse involvement of both",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "poor / absent tumor stain | displacement / encasement / occlusion of hepatic artery + portal vein"
+}

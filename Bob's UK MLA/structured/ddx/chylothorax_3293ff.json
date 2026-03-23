@@ -1,0 +1,42 @@
+{
+  "finding": "CHYLOTHORAX",
+  "slug": "chylothorax_3293ff",
+  "chapter": "CATAMENIAL PNEUMOTHORAX",
+  "source_file": "processed_clusters/catamenial_pneumothorax/chylothorax_3293ff.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Developmental defects",
+      "raw": "Developmental defects",
+      "frequency": null
+    },
+    {
+      "name": "Thoracic duct atresia",
+      "raw": "Thoracic duct atresia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiectasia",
+      "raw": "Lymphangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiomatosis (rare): mediastinal / thoracic cystic hygroma of neck growing into mediastinum",
+      "raw": "Lymphangiomatosis (rare): mediastinal / thoracic cystic hygroma of neck growing into mediastinum",
+      "frequency": "rare"
+    },
+    {
+      "name": "Lymphangioleiomyomatosis ± tuberous sclerosis",
+      "raw": "Lymphangioleiomyomatosis ± tuberous sclerosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  leakage of chyle (= lymph containing chylomicrons of suspended fat) from thoracic duct or its branches into pleural space ← obstruction / disruption of thoracic duct (in 2%) Etiology:"
+}

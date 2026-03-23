@@ -1,0 +1,32 @@
+{
+  "finding": "A. DECREASED CARPAL ANGLE (< 124°",
+  "slug": "a_decreased_carpal_angle_124_6f914f",
+  "chapter": "Carpal Angle",
+  "source_file": "processed_clusters/carpal_angle/a_decreased_carpal_angle_124_6f914f.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Turner syndrome",
+      "raw": "Turner syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hurler syndrome",
+      "raw": "Hurler syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Morquio syndrome",
+      "raw": "Morquio syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Madelung deformity",
+      "raw": "Madelung deformity",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

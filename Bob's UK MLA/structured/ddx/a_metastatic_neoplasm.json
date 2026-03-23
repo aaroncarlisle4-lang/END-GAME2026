@@ -1,0 +1,32 @@
+{
+  "finding": "A. METASTATIC NEOPLASM",
+  "slug": "a_metastatic_neoplasm",
+  "chapter": "PERITONEUM",
+  "source_file": "processed_clusters/peritoneum/a_metastatic_neoplasm.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Peritoneal metastases = carcinomatosis",
+      "raw": "Peritoneal metastases = carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomyxoma peritonei",
+      "raw": "Pseudomyxoma peritonei",
+      "frequency": null
+    },
+    {
+      "name": "Lymphomatosis = body cavity-based lymphoma",
+      "raw": "Lymphomatosis = body cavity-based lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcomatosis",
+      "raw": "Sarcomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,95 @@
+{
+  "finding": "Cysts and Bursae of the Ankle and Foot",
+  "slug": "cysts_and_bursae_of_the_ankle_and_foot",
+  "chapter": "KNEE",
+  "source_file": "processed_clusters/knee/cysts_and_bursae_of_the_ankle_and_foot.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malleolar bursa",
+      "raw": "Malleolar bursa",
+      "frequency": null
+    },
+    {
+      "name": "Retrocalcaneal bursa",
+      "raw": "Retrocalcaneal bursa",
+      "frequency": null
+    },
+    {
+      "name": "Tendo-Achilles bursa [Tarsal tunnel ganglion]",
+      "raw": "Tendo-Achilles bursa",
+      "frequency": null,
+      "sites": [
+        "Tarsal tunnel ganglion"
+      ]
+    },
+    {
+      "name": "Sinus tarsi bursa",
+      "raw": "Sinus tarsi bursa",
+      "frequency": null
+    },
+    {
+      "name": "Intermetatarsal bursae",
+      "raw": "Intermetatarsal bursae",
+      "frequency": null
+    },
+    {
+      "name": "Posterior (lateral) facet: larger articulation",
+      "raw": "Posterior (lateral) facet: larger articulation",
+      "frequency": null
+    },
+    {
+      "name": "Middle (medial) facet: sustentaculum",
+      "raw": "Middle (medial) facet: sustentaculum",
+      "frequency": null
+    },
+    {
+      "name": "tibiotalar joint",
+      "raw": "tibiotalar joint",
+      "frequency": null
+    },
+    {
+      "name": "posterior facet of posterior talocalcaneal (subtalar) joint ›  posterior process (a)  medial tubercle (b)  lateral tubercle »  elongated = Stieda process »  nonfused = os trigonum (prevalence of 2-50%) (c)  groove between both: for flexor hallucis longus tendon",
+      "raw": "posterior facet of posterior talocalcaneal (subtalar) joint ›  posterior process (a)  medial tubercle (b)  lateral tubercle »  elongated = Stieda process »  nonfused = os trigonum (prevalence of 2-50%) (c)  groove between both: for flexor hallucis longus tendon",
+      "frequency": "50%"
+    },
+    {
+      "name": "Anterior tibial (dorsalis pedis) artery",
+      "raw": "Anterior tibial (dorsalis pedis) artery",
+      "frequency": null
+    },
+    {
+      "name": "Posterior tibial artery → artery of tarsal canal",
+      "raw": "Posterior tibial artery → artery of tarsal canal",
+      "frequency": null
+    },
+    {
+      "name": "Peroneal a. → peroneal perforating branch / lateral tarsal artery → tarsal sinus artery",
+      "raw": "Peroneal a. → peroneal perforating branch / lateral tarsal artery → tarsal sinus artery",
+      "frequency": null
+    },
+    {
+      "name": "Anterior talar facet ›  supported by calcaneal beak ›  articulates with anterior talar facet",
+      "raw": "Anterior talar facet ›  supported by calcaneal beak ›  articulates with anterior talar facet",
+      "frequency": null
+    },
+    {
+      "name": "Middle talar facet ›  articulates with middle talar facet ›  supported by sustentaculum tali calcaneal sulcus =   groove between middle and posterior facet sinus tarsi =   canal between calcaneal sulcus and talus",
+      "raw": "Middle talar facet ›  articulates with middle talar facet ›  supported by sustentaculum tali calcaneal sulcus =   groove between middle and posterior facet sinus tarsi =   canal between calcaneal sulcus and talus",
+      "frequency": null
+    },
+    {
+      "name": "Posterior talar facet thalamic portion =   condensed cortical bone inferior to posterior facet (b)  anteriorly - calcaneocuboid joint",
+      "raw": "Posterior talar facet thalamic portion =   condensed cortical bone inferior to posterior facet (b)  anteriorly - calcaneocuboid joint",
+      "frequency": null
+    },
+    {
+      "name": "triangular cuboidal facet",
+      "raw": "triangular cuboidal facet",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Foot Compartments (a)  medial compartment Border:   medial septum (extending from plantar aponeurosis to navicular bone, medial cuneiform bone, plantar surface of 1st metatarsal bone) Content:   abductor hallucis muscle + flexor hallucis brevis muscle + flexor hallucis longus tendon (b)  lateral compartment Border:   lateral septum (extending from plantar aponeurosis to medial surface of 5th metatarsal bone) Content:   abductor muscle + short flexor muscle + opponens muscle of 5th toe (c)  central compartment Border:   medial + lateral septa; communicates directly with posterior compartment of"
+}

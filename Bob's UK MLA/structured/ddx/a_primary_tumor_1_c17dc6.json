@@ -1,0 +1,27 @@
+{
+  "finding": "A. PRIMARY TUMOR",
+  "slug": "a_primary_tumor_1_c17dc6",
+  "chapter": "Small Bowel Ulcer",
+  "source_file": "processed_clusters/small_bowel_ulcer/a_primary_tumor_1_c17dc6.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (exoenteric form)",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma",
+      "raw": "Leiomyosarcoma (exoenteric form)",
+      "frequency": null
+    },
+    {
+      "name": "Primary adenocarcinoma",
+      "raw": "Primary adenocarcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

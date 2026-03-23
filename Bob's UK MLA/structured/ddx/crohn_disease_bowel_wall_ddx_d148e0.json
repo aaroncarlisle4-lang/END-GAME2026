@@ -1,0 +1,32 @@
+{
+  "finding": "Crohn Disease — bowel wall: (DDx)",
+  "slug": "crohn_disease_bowel_wall_ddx_d148e0",
+  "chapter": "Crohn Disease",
+  "source_file": "processed_clusters/crohn_disease/crohn_disease_bowel_wall_ddx_d148e0.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "radiation enteritis",
+      "raw": "radiation enteritis",
+      "frequency": null
+    },
+    {
+      "name": "ischemia",
+      "raw": "ischemia",
+      "frequency": null
+    },
+    {
+      "name": "mesenteric venous thrombosis",
+      "raw": "mesenteric venous thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "acute pancreatitis",
+      "raw": "acute pancreatitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"target\" sign of active inflammation | mural stratification: | \"double halo\" configuration (50%) = trilaminar mural stratification = enhancing | water-density edema = active inflammation"
+}

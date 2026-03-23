@@ -1,0 +1,23 @@
+{
+  "name": "BRAIN VENTRICLES",
+  "slug": "brain_ventricles",
+  "chapter": "TRIGEMINAL NEUROPATHY",
+  "source_file": "processed_clusters/disease_entries/trigeminal_neuropathy/brain_ventricles.md",
+  "definition": "dilatation of trigones + occipital horns + posterior temporal horns of lateral ventricles",
+  "demographics": {
+    "Prevalence": "10% of all intracranial neoplasms"
+  },
+  "dominant_finding": "hydrocephalus ← (possibly intermittent) obstruction of aqueduct / foramen of",
+  "distribution": "",
+  "discriminating_features": [
+    "nonenhancing cyst of CSF density",
+    "hydrocephalus ← (possibly intermittent) obstruction of aqueduct / foramen of"
+  ],
+  "other_features": {
+    "general": [
+      "nonenhancing cyst of CSF density",
+      "hydrocephalus ← (possibly intermittent) obstruction of aqueduct / foramen of"
+    ]
+  },
+  "clinical": {}
+}

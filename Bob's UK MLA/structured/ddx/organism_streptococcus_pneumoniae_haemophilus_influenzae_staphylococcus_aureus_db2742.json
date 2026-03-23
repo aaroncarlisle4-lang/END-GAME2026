@@ -1,0 +1,77 @@
+{
+  "finding": "Organism: Streptococcus pneumoniae, Haemophilus influenzae, Staphylococcus aureus",
+  "slug": "organism_streptococcus_pneumoniae_haemophilus_influenzae_staphylococcus_aureus_db2742",
+  "chapter": "OTOMASTOIDITIS",
+  "source_file": "processed_clusters/otomastoiditis/organism_streptococcus_pneumoniae_haemophilus_influenzae_staphylococcus_aureus_db2742.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "retroauricular swelling + erythema, protrusion of auricle",
+      "raw": "retroauricular swelling + erythema, protrusion of auricle",
+      "frequency": null
+    },
+    {
+      "name": "history of recent otitis media",
+      "raw": "history of recent otitis media",
+      "frequency": null
+    },
+    {
+      "name": "Coalescent mastoiditis = empyema of mastoid Pathomechanism:   suppuration under pressure → local acidosis + ischemia → osseous decalcification + osteoclasis of pneumatic cell walls",
+      "raw": "Coalescent mastoiditis = empyema of mastoid Pathomechanism:   suppuration under pressure → local acidosis + ischemia → osseous decalcification + osteoclasis of pneumatic cell walls",
+      "frequency": null
+    },
+    {
+      "name": "Petrositis = petrous apicitis",
+      "raw": "Petrositis = petrous apicitis",
+      "frequency": null
+    },
+    {
+      "name": "Labyrinthitis",
+      "raw": "Labyrinthitis",
+      "frequency": null
+    },
+    {
+      "name": "vertigo, nystagmus",
+      "raw": "vertigo, nystagmus",
+      "frequency": null
+    },
+    {
+      "name": "Facial nerve paralysis",
+      "raw": "Facial nerve paralysis",
+      "frequency": null
+    },
+    {
+      "name": "Hearing loss",
+      "raw": "Hearing loss",
+      "frequency": null
+    },
+    {
+      "name": "Carotid artery involvement: arteritis, occlusion, pseudoaneurysm, rupture",
+      "raw": "Carotid artery involvement: arteritis, occlusion, pseudoaneurysm, rupture",
+      "frequency": null
+    },
+    {
+      "name": "Bezold abscess = inflammatory collection that may spread along plane of sternocleidomastoid muscle to lower neck Location:   inferior to mastoid tip + medial to insertion of posterior belly of digastric muscle",
+      "raw": "Bezold abscess = inflammatory collection that may spread along plane of sternocleidomastoid muscle to lower neck Location:   inferior to mastoid tip + medial to insertion of posterior belly of digastric muscle",
+      "frequency": null
+    },
+    {
+      "name": "Meningitis",
+      "raw": "Meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Epidural abscess ›  perisinus abscess = erosion of the cortical plate overlying the sigmoid sinus",
+      "raw": "Epidural abscess ›  perisinus abscess = erosion of the cortical plate overlying the sigmoid sinus",
+      "frequency": null
+    },
+    {
+      "name": "Dural sinus / Sigmoid sinus thrombophlebitis",
+      "raw": "Dural sinus / Sigmoid sinus thrombophlebitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Temporal bone CT (87%-100% sensitive): √  increased attenuation of the middle ear cavity (= middle ear effusion) √  increased attenuation of the mastoid cells √  ± fluid levels Intratemporal Cx: √  loss of internal bone septa of the mastoid air cells ← erosion of mastoid septa / cortex with periosteal reaction √  fluid or soft-tissue opacification of mastoid air cells √  subperiosteal abscess located postauricular / in external auditory canal / along zygomatic bone Rx:   myringotomy, mastoidectomy √  abnormal labyrinthine enhancement Cervical Cx: √  erosion of mastoid tip √  adjacent involveme"
+}

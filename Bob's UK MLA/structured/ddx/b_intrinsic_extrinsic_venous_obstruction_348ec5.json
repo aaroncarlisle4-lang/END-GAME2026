@@ -1,0 +1,37 @@
+{
+  "finding": "B. INTRINSIC / EXTRINSIC VENOUS OBSTRUCTION",
+  "slug": "b_intrinsic_extrinsic_venous_obstruction_348ec5",
+  "chapter": "LIVER CIRCULATION",
+  "source_file": "processed_clusters/liver_circulation/b_intrinsic_extrinsic_venous_obstruction_348ec5.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Budd-Chiari syndrome intrahepatic / suprahepatic obstruction",
+      "raw": "Budd-Chiari syndrome intrahepatic / suprahepatic obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic venoocclusive disease",
+      "raw": "Hepatic venoocclusive disease",
+      "frequency": null
+    },
+    {
+      "name": "Inferior vena cava obstruction",
+      "raw": "Inferior vena cava obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic compression of hepatic veins",
+      "raw": "Extrinsic compression of hepatic veins",
+      "frequency": null
+    },
+    {
+      "name": "Right-sided CHF",
+      "raw": "Right-sided CHF",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

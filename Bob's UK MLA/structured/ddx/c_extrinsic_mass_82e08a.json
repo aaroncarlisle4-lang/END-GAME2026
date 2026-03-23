@@ -1,0 +1,42 @@
+{
+  "finding": "C. EXTRINSIC MASS",
+  "slug": "c_extrinsic_mass_82e08a",
+  "chapter": "C. INFLAMMATION",
+  "source_file": "processed_clusters/c_inflammation/c_extrinsic_mass_82e08a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intraperitoneal spread of tumor: peritoneal mesothelioma, mesenteric tumors",
+      "raw": "Intraperitoneal spread of tumor: peritoneal mesothelioma, mesenteric tumors (fibroma, lipoma, fibrosarcoma, leiomyosarcoma, malignant mesenteric lymphoid tumor, metastases)",
+      "frequency": null
+    },
+    {
+      "name": "Interloop abscesses / loculated fluid collection",
+      "raw": "Interloop abscesses / loculated fluid collection",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Retractile mesenteritis",
+      "raw": "Retractile mesenteritis (fibrosis, fatty infiltration, panniculitis)",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric fat deposits",
+      "raw": "Mesenteric fat deposits",
+      "frequency": null
+    },
+    {
+      "name": "Fibrofatty proliferation: Crohn disease, mesenteric panniculitis",
+      "raw": "Fibrofatty proliferation: Crohn disease, mesenteric panniculitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

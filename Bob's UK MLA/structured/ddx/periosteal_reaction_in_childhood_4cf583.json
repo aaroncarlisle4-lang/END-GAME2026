@@ -1,0 +1,137 @@
+{
+  "finding": "Periosteal Reaction in Childhood",
+  "slug": "periosteal_reaction_in_childhood_4cf583",
+  "chapter": "BONE OVERGROWTH",
+  "source_file": "processed_clusters/bone_overgrowth/periosteal_reaction_in_childhood_4cf583.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Physiologic (up to 35%): symmetric involvement of diaphyses during first 1-6 months of life",
+      "raw": "Physiologic (up to 35%): symmetric involvement of diaphyses during first 1-6 months of life",
+      "frequency": "35%"
+    },
+    {
+      "name": "Nonaccidental trauma = battered child syndrome",
+      "raw": "Nonaccidental trauma = battered child syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Infantile cortical hyperostosis: < 6 months of age",
+      "raw": "Infantile cortical hyperostosis: < 6 months of age",
+      "frequency": null
+    },
+    {
+      "name": "Hypervitaminosis A",
+      "raw": "Hypervitaminosis A",
+      "frequency": null
+    },
+    {
+      "name": "Scurvy",
+      "raw": "Scurvy",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Congenital syphilis (b)  malignant",
+      "raw": "Congenital syphilis (b)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Multicentric osteosarcoma",
+      "raw": "Multicentric osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases from neuroblastoma + retinoblastoma",
+      "raw": "Metastases from neuroblastoma + retinoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Acute leukemia",
+      "raw": "Acute leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Physiologic, Prostaglandin",
+      "raw": "Physiologic, Prostaglandin",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Rickets",
+      "raw": "Rickets",
+      "frequency": null
+    },
+    {
+      "name": "Infantile cortical hyperostosis",
+      "raw": "Infantile cortical hyperostosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Scurvy",
+      "raw": "Scurvy",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "A-hypervitaminosis",
+      "raw": "A-hypervitaminosis",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia + neuroblastoma",
+      "raw": "Leukemia + neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Syphilis",
+      "raw": "Syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Child abuse",
+      "raw": "Child abuse",
+      "frequency": null
+    },
+    {
+      "name": "Kinky hair syndrome",
+      "raw": "Kinky hair syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease",
+      "raw": "Sickle cell disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  benign"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "RETAINED GASTRIC ANTRUM",
+  "slug": "retained_gastric_antrum",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/retained_gastric_antrum.md",
+  "definition": "",
+  "demographics": {
+    "Associated with": "gastric ulcers in 30-50%"
+  },
+  "dominant_finding": "duodenogastric reflux of barium through pylorus (DIAGNOSTIC)",
+  "distribution": "",
+  "discriminating_features": [
+    "duodenogastric reflux of barium through pylorus (DIAGNOSTIC)",
+    "giant marginal ulcer / several marginal ulcers usually on jejunal side of anastomosis (large",
+    "large amount of secretions",
+    "edematous mucosa of jejunal anastomotic segment",
+    "lacy / cobweblike small bowel pattern (hypersecretion)"
+  ],
+  "other_features": {
+    "general": [
+      "duodenogastric reflux of barium through pylorus (DIAGNOSTIC)",
+      "giant marginal ulcer / several marginal ulcers usually on jejunal side of anastomosis (large",
+      "large amount of secretions",
+      "edematous mucosa of jejunal anastomotic segment",
+      "lacy / cobweblike small bowel pattern (hypersecretion)"
+    ]
+  },
+  "clinical": {
+    "Cx": "gastrojejunocolic fistula"
+  }
+}

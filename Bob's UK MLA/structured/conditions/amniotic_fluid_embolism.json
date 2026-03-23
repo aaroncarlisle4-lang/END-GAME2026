@@ -1,0 +1,21 @@
+{
+  "name": "AMNIOTIC FLUID EMBOLISM",
+  "slug": "amniotic_fluid_embolism",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/amniotic_fluid_embolism.md",
+  "definition": "most common cause of maternal peripartum death",
+  "demographics": {},
+  "dominant_finding": "usually fatal before radiographs obtained",
+  "distribution": "",
+  "discriminating_features": [
+    "usually fatal before radiographs obtained",
+    "may demonstrate pulmonary edema"
+  ],
+  "other_features": {
+    "general": [
+      "usually fatal before radiographs obtained",
+      "may demonstrate pulmonary edema"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Interstitial Lung Disease (DDx)",
+  "slug": "interstitial_lung_disease_ddx_731955",
+  "chapter": "Interstitial Lung Disease",
+  "source_file": "processed_clusters/interstitial_lung_disease/interstitial_lung_disease_ddx_731955.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bronchiectasis",
+      "raw": "bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "cavitary metastases",
+      "raw": "cavitary metastases (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "honeycombing in 50% | severe volume loss in 45% | honeycombing in 12.5% | severe volume loss in 23%"
+}

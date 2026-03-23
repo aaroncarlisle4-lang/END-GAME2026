@@ -1,0 +1,33 @@
+{
+  "name": "LOW BACK PAIN",
+  "slug": "low_back_pain",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_skull_and_spine_disorders/low_back_pain.md",
+  "definition": "FAILED BACK SURGERY SYNDROME signs of dysfunction and disability + pain and paresthesia following surgery constellation of signs + symptoms resulting from compressive lesion in lower lumbar",
+  "demographics": {
+    "Age": "50% at 40 years; > 85% at 80 years",
+    "Frequency": "in 40% of pediatric + adolescent population; structural causes in 12-26%"
+  },
+  "dominant_finding": "no enhancement on early T1WI (appears enhanced ≥ 30 min post injection)",
+  "distribution": "",
+  "discriminating_features": [
+    "no enhancement on early T1WI (appears enhanced ≥ 30 min post injection)",
+    "deceased marrow signal intensity on T1WI",
+    "contrast enhancement of disk + adjacent vertebral bodies",
+    "enhancing epidural plaque / mass",
+    "heterogeneous enhancement on early T1WI (maximum at about 5 min post"
+  ],
+  "other_features": {
+    "general": [
+      "no enhancement on early T1WI (appears enhanced ≥ 30 min post injection)",
+      "deceased marrow signal intensity on T1WI",
+      "contrast enhancement of disk + adjacent vertebral bodies",
+      "enhancing epidural plaque / mass",
+      "heterogeneous enhancement on early T1WI (maximum at about 5 min post",
+      "thickened irregular clumped nerve roots",
+      "adhesion of roots to wall of thecal sac",
+      "abnormal enhancement of thickened meninges + matted nerve roots"
+    ]
+  },
+  "clinical": {}
+}

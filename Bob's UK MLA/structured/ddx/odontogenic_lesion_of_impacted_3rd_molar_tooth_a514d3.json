@@ -1,0 +1,27 @@
+{
+  "finding": "Odontogenic Lesion Of Impacted 3rd Molar Tooth",
+  "slug": "odontogenic_lesion_of_impacted_3rd_molar_tooth_a514d3",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/odontogenic_lesion_of_impacted_3rd_molar_tooth_a514d3.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dentigerous cyst",
+      "raw": "Dentigerous cyst (93%)",
+      "frequency": "93%"
+    },
+    {
+      "name": "Odontogenic keratocyst",
+      "raw": "Odontogenic keratocyst (7%)",
+      "frequency": "7%"
+    },
+    {
+      "name": "Ameloblastoma",
+      "raw": "Ameloblastoma (0.41%)",
+      "frequency": "0.41%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

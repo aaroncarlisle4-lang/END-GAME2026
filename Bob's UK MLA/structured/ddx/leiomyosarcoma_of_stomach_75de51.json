@@ -1,0 +1,27 @@
+{
+  "finding": "Leiomyosarcoma of Stomach",
+  "slug": "leiomyosarcoma_of_stomach_75de51",
+  "chapter": "LADD BANDS",
+  "source_file": "processed_clusters/ladd_bands/leiomyosarcoma_of_stomach_75de51.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "GI bleeding (from ulceration), obstruction",
+      "raw": "GI bleeding (from ulceration), obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Functioning extraadrenal paraganglioma",
+      "raw": "Functioning extraadrenal paraganglioma",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary chondroma",
+      "raw": "Pulmonary chondroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   0.1-3.0% of all gastric malignancies Age:     10-73 years; M > F Histo:  pleomorphism, hypercellularity, mitotic figures, cystic degeneration, necrosis Metastases: (a)  hematogenous to liver, lung, peritoneum; rarely to bone + soft tissue (b)  direct extension into omentum, retroperitoneum (c)  lymph nodes (rare) Location:  90% in fundus / body of stomach Site:     anterior / posterior wall; endo- / exogastric Average size:   12 cm √  intramural mass; large mass tends to be exogastric √  very frequently ulcerated √  may be pedunculated CT: √  lobulated irregular outline √  heterog"
+}

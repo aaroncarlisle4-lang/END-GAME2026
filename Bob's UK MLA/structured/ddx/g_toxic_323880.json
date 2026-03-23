@@ -1,0 +1,52 @@
+{
+  "finding": "G. TOXIC",
+  "slug": "g_toxic_323880",
+  "chapter": "D. MALIGNANCY",
+  "source_file": "processed_clusters/d_malignancy/g_toxic_323880.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carbon monoxide poisoning",
+      "raw": "Carbon monoxide poisoning",
+      "frequency": null
+    },
+    {
+      "name": "Lead intoxication",
+      "raw": "Lead intoxication",
+      "frequency": null
+    },
+    {
+      "name": "Nephrotic syndrome mnemonic:   \"BIRTH\"",
+      "raw": "Nephrotic syndrome mnemonic:   \"BIRTH\"",
+      "frequency": null
+    },
+    {
+      "name": "Birth anoxia",
+      "raw": "Birth anoxia",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic (most common), Infarct",
+      "raw": "Idiopathic (most common), Infarct",
+      "frequency": "most common"
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Toxoplasmosis / CMV",
+      "raw": "Toxoplasmosis / CMV",
+      "frequency": null
+    },
+    {
+      "name": "Hypoparathyroidism / pseudoHPT",
+      "raw": "Hypoparathyroidism / pseudoHPT",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

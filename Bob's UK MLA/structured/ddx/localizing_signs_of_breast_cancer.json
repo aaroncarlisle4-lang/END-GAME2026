@@ -1,0 +1,67 @@
+{
+  "finding": "Localizing Signs of Breast Cancer",
+  "slug": "localizing_signs_of_breast_cancer",
+  "chapter": "Breast Cancer Evaluation",
+  "source_file": "processed_clusters/breast_cancer_evaluation/localizing_signs_of_breast_cancer.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dominant mass seen on two views with (a)  Spiculation = stellate / star-burst appearance (= fine linear strands of tumor extension + desmoplastic response); \"scirrhus\" caused by:",
+      "raw": "Dominant mass seen on two views with (a)  Spiculation = stellate / star-burst appearance (= fine linear strands of tumor extension + desmoplastic response); \"scirrhus\" caused by:",
+      "frequency": null
+    },
+    {
+      "name": "infiltrating ductal carcinoma",
+      "raw": "infiltrating ductal carcinoma (75% of all invasive cancers)",
+      "frequency": "75%"
+    },
+    {
+      "name": "invasive lobular carcinoma",
+      "raw": "invasive lobular carcinoma (occasionally)",
+      "frequency": null
+    },
+    {
+      "name": "intracystic carcinoma (rare): subareolar area; bloody aspiration",
+      "raw": "intracystic carcinoma (rare): subareolar area; bloody aspiration",
+      "frequency": "rare"
+    },
+    {
+      "name": "medullary carcinoma: soft tumor",
+      "raw": "medullary carcinoma: soft tumor",
+      "frequency": null
+    },
+    {
+      "name": "mucinous / colloid carcinoma: soft tumor",
+      "raw": "mucinous / colloid carcinoma: soft tumor",
+      "frequency": null
+    },
+    {
+      "name": "papillary carcinoma",
+      "raw": "papillary carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "clinical size of mass > radiographic size",
+      "raw": "clinical size of mass > radiographic size (1951) (Leborgne's law) [Raul Alfredo Leborgne Fossemale (1907-1986), Uruguayan radiologist created the mammograph, discovered radiological signs and developed the first method of radiologically guided mammary biopsy]",
+      "frequency": null
+    },
+    {
+      "name": "Asymmetric density = star-shaped lesion",
+      "raw": "Asymmetric density = star-shaped lesion",
+      "frequency": null
+    },
+    {
+      "name": "Microcalcifications associated with malignant mass by mammogram in 40%, pathologically with special stains in 60%, on specimen radiography in 86% ◊  20% of clustered microcalcifications represent a malignant process!",
+      "raw": "Microcalcifications associated with malignant mass by mammogram in 40%, pathologically with special stains in 60%, on specimen radiography in 86% ◊  20% of clustered microcalcifications represent a malignant process!",
+      "frequency": "40%"
+    },
+    {
+      "name": "Architectural distortion",
+      "raw": "Architectural distortion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  PRIMARY SIGNS OF BREAST CANCER √  mass feels larger than its mammographic / sonographic size DDx:   prior biopsy / trauma / infection (b)  Smooth border √  \"telltale\" signs: lobulation, small comet tail, flattening of one side of the lesion, slight irregularity √  \"halo\" sign (= Mach band) may be present DDx:   cyst (sonographic evaluation) (c)  Lobulation appearance similar to fibroadenoma (only characteristic calcifications may exclude malignancy) ◊  The likelihood of malignancy increases with number of lobulations √  distinct central tumor mass with volumetric rather than planar appearan"
+}

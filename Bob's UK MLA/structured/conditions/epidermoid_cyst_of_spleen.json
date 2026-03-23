@@ -1,0 +1,30 @@
+{
+  "name": "EPIDERMOID CYST OF SPLEEN",
+  "slug": "epidermoid_cyst_of_spleen",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/epidermoid_cyst_of_spleen.md",
+  "definition": "EPITHELIAL CYST = PRIMARY CYST OF SPLEEN",
+  "demographics": {
+    "Frequency": "10% of all benign nonparasitic cysts",
+    "Age": "2nd-3rd decade (average age of 18 years)"
+  },
+  "dominant_finding": "peripheral septations / cyst wall trabeculations (in 86%)",
+  "distribution": "peripheral septations / cyst wall trabeculations (in 86%)",
+  "discriminating_features": [
+    "well-defined thin-walled anechoic lesion of water density",
+    "peripheral septations / cyst wall trabeculations (in 86%)",
+    "curvilinear calcification in wall (9-25%)",
+    "may contain cholesterol crystals, fat, blood"
+  ],
+  "other_features": {
+    "general": [
+      "well-defined thin-walled anechoic lesion of water density",
+      "peripheral septations / cyst wall trabeculations (in 86%)",
+      "curvilinear calcification in wall (9-25%)",
+      "may contain cholesterol crystals, fat, blood"
+    ]
+  },
+  "clinical": {
+    "Cx": "trauma, rupture, infection"
+  }
+}

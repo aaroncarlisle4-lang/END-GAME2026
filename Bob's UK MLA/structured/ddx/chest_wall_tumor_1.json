@@ -1,0 +1,77 @@
+{
+  "finding": "Chest Wall Tumor",
+  "slug": "chest_wall_tumor_1",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/chest_wall_tumor_1.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "OSSEOUS TUMOR (a)  secondary tumor",
+      "raw": "OSSEOUS TUMOR (a)  secondary tumor",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: most common type of skeletal tumor, particularly in older patients",
+      "raw": "Metastasis: most common type of skeletal tumor, particularly in older patients",
+      "frequency": "most common"
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma (33% of primary rib tumors)",
+      "frequency": "33%"
+    },
+    {
+      "name": "Myeloma",
+      "raw": "Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Parosteal osteosarcoma",
+      "raw": "Parosteal osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma (c)  primary benign",
+      "raw": "Ewing sarcoma (c)  primary benign",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia (in 30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "Osteochondroma",
+      "raw": "Osteochondroma",
+      "frequency": null
+    },
+    {
+      "name": "Chondroblastoma",
+      "raw": "Chondroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location of primary tumors:   ribs (95%) > sternum √  absence of mineralization (b)  primary malignant tumor Frequency:   5-8% of all skeletal masses √  arc-and-ring / flocculent / stippled chondroid mineralization √  absence of mineralization √  dense / cloudy / ivorylike osteoid mineralization greatest at center + least at periphery √  amorphous mineralization √  benign osteolytic lesion + chondroid calcification √  continuity of medullary cavity between lesion and affected bone"
+}

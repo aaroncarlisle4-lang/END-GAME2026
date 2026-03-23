@@ -1,0 +1,132 @@
+{
+  "finding": "Cantrell; DORV",
+  "slug": "cantrell_dorv",
+  "chapter": "MACROSOMIA",
+  "source_file": "processed_clusters/macrosomia/cantrell_dorv.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neural tube defects (4-39%): holoprosencephaly; encephalocele; cerebellar hypoplasia",
+      "raw": "Neural tube defects (4-39%): holoprosencephaly; encephalocele; cerebellar hypoplasia",
+      "frequency": "39%"
+    },
+    {
+      "name": "IUGR",
+      "raw": "IUGR (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Beckwith-Wiedemann syndrome",
+      "raw": "Beckwith-Wiedemann syndrome (5-10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "GI tract:",
+      "raw": "GI tract:",
+      "frequency": null
+    },
+    {
+      "name": "Limb-body wall deficiency; cystic hygroma",
+      "raw": "Limb-body wall deficiency; cystic hygroma",
+      "frequency": null
+    },
+    {
+      "name": "MS-AFP ≥ 2.5 in 40-70%",
+      "raw": "MS-AFP ≥ 2.5 in 40-70%",
+      "frequency": "70%"
+    },
+    {
+      "name": "Other anomalies",
+      "raw": "Other anomalies (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Membrane surrounding viscera",
+      "raw": "Membrane surrounding viscera",
+      "frequency": null
+    },
+    {
+      "name": "Perfectly midline",
+      "raw": "Perfectly midline",
+      "frequency": null
+    },
+    {
+      "name": "Heart anomalies",
+      "raw": "Heart anomalies",
+      "frequency": null
+    },
+    {
+      "name": "Ascites",
+      "raw": "Ascites",
+      "frequency": null
+    },
+    {
+      "name": "Liver commonly herniated",
+      "raw": "Liver commonly herniated",
+      "frequency": null
+    },
+    {
+      "name": "O for \"zero\" bowel complications",
+      "raw": "O for \"zero\" bowel complications",
+      "frequency": null
+    },
+    {
+      "name": "Chromosomal abnormalities",
+      "raw": "Chromosomal abnormalities (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Cx:",
+      "raw": "Cx:",
+      "frequency": null
+    },
+    {
+      "name": "(1)  Infection, inanition",
+      "raw": "(1)  Infection, inanition",
+      "frequency": null
+    },
+    {
+      "name": "",
+      "raw": "(2)  Immaturity (23%)",
+      "frequency": "23%"
+    },
+    {
+      "name": "Rupture of hernia sac",
+      "raw": "Rupture of hernia sac (in up to 15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Intestinal obstruction Mortality rate:   10% mortality if isolated abnormality; 80% with one / more concurrent malformations; ~ 100% with chromosomal + cardiovascular abnormalities",
+      "raw": "Intestinal obstruction Mortality rate:   10% mortality if isolated abnormality; 80% with one / more concurrent malformations; ~ 100% with chromosomal + cardiovascular abnormalities",
+      "frequency": "10%"
+    },
+    {
+      "name": "Congenital umbilical hernia",
+      "raw": "Congenital umbilical hernia (covered by intact skin and subcutaneous tissue)",
+      "frequency": null
+    },
+    {
+      "name": "Gastroschisis",
+      "raw": "Gastroschisis (usually right-sided defect)",
+      "frequency": null
+    },
+    {
+      "name": "Limb-body wall complex",
+      "raw": "Limb-body wall complex (usually left-sided defect)",
+      "frequency": null
+    },
+    {
+      "name": "Deformation of fetal abdomen by pressure with transducer coupled with an oblique scan orientation may give the appearance of an omphalocele",
+      "raw": "Deformation of fetal abdomen by pressure with transducer coupled with an oblique scan orientation may give the appearance of an omphalocele",
+      "frequency": null
+    },
+    {
+      "name": "Physiologic herniation of midgut into umbilical cord between 8th and 12th week of gestation",
+      "raw": "Physiologic herniation of midgut into umbilical cord between 8th and 12th week of gestation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intestinal atresia (vascular compromise); malrotation; abnormal fixation of liver; esophageal atresia; facial cleft; diaphragmatic hernia Sac contents:   primarily bowel, liver, other viscera (variable) √  herniation of abdominal viscera at base of umbilical cord: liver (27%) ± stomach ± bowel √  midline central defect at base of umbilical cord insertion: √  defect over entire ventral abdominal wall of variable size (mean, 2.5-5 cm) √  widened cord where it joins the skin of the abdomen √  covering amnioperitoneal membrane: √  inner layer = peritoneum; outer layer = amnion √  cord inserts at a"
+}

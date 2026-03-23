@@ -1,0 +1,25 @@
+{
+  "name": "RADIONUCLIDE CISTERNOGRAPHY",
+  "slug": "radionuclide_cisternography",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/radionuclide_cisternography.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "image lumbar region immediately after injection to ensure subarachnoid injection",
+  "distribution": "activity in basal cistern by 2-4 hours",
+  "discriminating_features": [
+    "image lumbar region immediately after injection to ensure subarachnoid injection",
+    "activity in basal cistern by 2-4 hours",
+    "activity at vertex by 24-48 hours",
+    "no / minimal lateral ventricular activity (may be transient in older patients)"
+  ],
+  "other_features": {
+    "general": [
+      "image lumbar region immediately after injection to ensure subarachnoid injection",
+      "activity in basal cistern by 2-4 hours",
+      "activity at vertex by 24-48 hours",
+      "no / minimal lateral ventricular activity (may be transient in older patients)"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,37 @@
+{
+  "name": "BIRTH TRAUMA",
+  "slug": "birth_trauma",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_skull_and_spine_disorders/birth_trauma.md",
+  "definition": "",
+  "demographics": {
+    "Location": "commonly at vertex",
+    "Frequency": "1% of all deliveries"
+  },
+  "dominant_finding": "T1- and T2-hyperintense lesion ← subacute hemorrhage",
+  "distribution": "commonly at vertex",
+  "discriminating_features": [
+    "crosses suture lines",
+    "crescent-shaped lesion adjacent to outer table of skull",
+    "will not cross cranial suture line",
+    "usually resolved by a few weeks to 3-4 months",
+    "may calcify / ossify causing thickening of diploe ← prolonged resorption (= chronic"
+  ],
+  "other_features": {
+    "general": [
+      "crosses suture lines",
+      "crescent-shaped lesion adjacent to outer table of skull",
+      "will not cross cranial suture line",
+      "usually resolved by a few weeks to 3-4 months",
+      "may calcify / ossify causing thickening of diploe ← prolonged resorption (= chronic"
+    ],
+    "MR": [
+      "T1- and T2-hyperintense lesion ← subacute hemorrhage",
+      "CT shows associated intracranial hemorrhage",
+      "extracerebral fluid collection accompanied by ventricular dilatation (= communicating"
+    ]
+  },
+  "clinical": {
+    "Cx": "infection"
+  }
+}

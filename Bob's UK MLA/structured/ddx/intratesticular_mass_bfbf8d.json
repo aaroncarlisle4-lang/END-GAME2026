@@ -1,0 +1,72 @@
+{
+  "finding": "Intratesticular Mass",
+  "slug": "intratesticular_mass_bfbf8d",
+  "chapter": "B. HERNIA",
+  "source_file": "processed_clusters/b_hernia/intratesticular_mass_bfbf8d.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Leydig cell hyperplasia",
+      "raw": "Leydig cell hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Intratesticular lipoma",
+      "raw": "Intratesticular lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Adrenal rest tumor (b)  potentially malignant",
+      "raw": "Adrenal rest tumor (b)  potentially malignant",
+      "frequency": null
+    },
+    {
+      "name": "Leydig cell tumor",
+      "raw": "Leydig cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Sertoli cell tumor (c)  malignant",
+      "raw": "Sertoli cell tumor (c)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Germ cell tumor",
+      "raw": "Germ cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma (d)  pseudotumor",
+      "raw": "Lymphoma (d)  pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Orchitis",
+      "raw": "Orchitis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Testicular infarction",
+      "raw": "Testicular infarction",
+      "frequency": null
+    },
+    {
+      "name": "Testicular hematoma",
+      "raw": "Testicular hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Postbiopsy defect",
+      "raw": "Postbiopsy defect",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  90-95% of testicular tumors are malignant! (a)  benign"
+}

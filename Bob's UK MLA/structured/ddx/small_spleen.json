@@ -1,0 +1,77 @@
+{
+  "finding": "Small Spleen",
+  "slug": "small_spleen",
+  "chapter": "SPLEEN",
+  "source_file": "processed_clusters/spleen/small_spleen.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infarction",
+      "raw": "Infarction",
+      "frequency": null
+    },
+    {
+      "name": "Celiac disease",
+      "raw": "Celiac disease",
+      "frequency": null
+    },
+    {
+      "name": "Congenital / hereditary hypoplasia of spleen ◊  Associated with recurrent bacterial infections!",
+      "raw": "Congenital / hereditary hypoplasia of spleen ◊  Associated with recurrent bacterial infections!",
+      "frequency": null
+    },
+    {
+      "name": "Fanconi anemia",
+      "raw": "Fanconi anemia",
+      "frequency": null
+    },
+    {
+      "name": "Irradiation",
+      "raw": "Irradiation",
+      "frequency": null
+    },
+    {
+      "name": "Partial splenectomy",
+      "raw": "Partial splenectomy",
+      "frequency": null
+    },
+    {
+      "name": "Polysplenia syndrome",
+      "raw": "Polysplenia syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Atrophy",
+      "raw": "Atrophy",
+      "frequency": null
+    },
+    {
+      "name": "CONGESTIVE SPLENOMEGALY heart failure, portal hypertension, cirrhosis, cystic fibrosis, portal / splenic vein thrombosis, acute splenic sequestration crisis of sickle cell anemia",
+      "raw": "CONGESTIVE SPLENOMEGALY heart failure, portal hypertension, cirrhosis, cystic fibrosis, portal / splenic vein thrombosis, acute splenic sequestration crisis of sickle cell anemia",
+      "frequency": null
+    },
+    {
+      "name": "NEOPLASM leukemia, lymphoma, lymphoproliferative disease, Langerhans cell histiocytosis, metastases, primary neoplasm",
+      "raw": "NEOPLASM leukemia, lymphoma, lymphoproliferative disease, Langerhans cell histiocytosis, metastases, primary neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "STORAGE DISEASE Gaucher disease, Niemann-Pick disease, mucopolysaccharidoses,",
+      "raw": "STORAGE DISEASE Gaucher disease, Niemann-Pick disease, mucopolysaccharidoses,",
+      "frequency": null
+    },
+    {
+      "name": "INFECTION (a)  bacterial: TB, subacute bacterial endocarditis, typhoid fever, syphilis, brucellosis (b)  viral: hepatitis, infectious mononucleosis (c)  protozoal: echinococcosis, malaria, kala azar, American leishmaniasis (d)  fungal: histoplasmosis",
+      "raw": "INFECTION (a)  bacterial: TB, subacute bacterial endocarditis, typhoid fever, syphilis, brucellosis (b)  viral: hepatitis, infectious mononucleosis (c)  protozoal: echinococcosis, malaria, kala azar, American leishmaniasis (d)  fungal: histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "HEMOLYTIC ANEMIA hemoglobinopathy, hereditary spherocytosis, primary neutropenia, thrombotic thrombocytopenic purpura, extracorporeal membrane oxygenation",
+      "raw": "HEMOLYTIC ANEMIA hemoglobinopathy, hereditary spherocytosis, primary neutropenia, thrombotic thrombocytopenic purpura, extracorporeal membrane oxygenation (← RBC damage)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Splenomegaly √  inferior tip of spleen extends below tip of right lobe of liver √  AP diameter of spleen > ²/³ of abdominal diameter gargoylism, amyloidosis, diabetes mellitus, hemochromatosis"
+}

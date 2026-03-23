@@ -1,0 +1,47 @@
+{
+  "finding": "Pericerebral Fluid Collection in Childhood",
+  "slug": "pericerebral_fluid_collection_in_childhood",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/pericerebral_fluid_collection_in_childhood.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ENLARGED SUBARACHNOID SPACE (a)  due to macrocephaly",
+      "raw": "ENLARGED SUBARACHNOID SPACE (a)  due to macrocephaly",
+      "frequency": null
+    },
+    {
+      "name": "Benign macrocephaly of infancy (b)  due to brain atrophy",
+      "raw": "Benign macrocephaly of infancy (b)  due to brain atrophy",
+      "frequency": null
+    },
+    {
+      "name": "SUBDURAL FLUID COLLECTION",
+      "raw": "SUBDURAL FLUID COLLECTION",
+      "frequency": null
+    },
+    {
+      "name": "Subdural hygroma",
+      "raw": "Subdural hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Subdural empyema / abscess ← meningitis",
+      "raw": "Subdural empyema / abscess ← meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Subdural hematoma",
+      "raw": "Subdural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Hyperdense = acute subdural hematoma",
+      "raw": "Hyperdense = acute subdural hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  superficial cortical veins cross subarachnoid space to reach superior sagittal sinus √  wide sulci, normal configuration of gyri √  normal / prominent size of ventricles √  superficial cortical veins are prevented from crossing the subarachnoid space by the presence of arachnoid / neomembrane √  wide interhemispheric fissure Subdural Fluid Collection"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Lymphoma and",
+  "slug": "lymphoma_and",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/lymphoma_and.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Diverticulitis: generally 3-6 cm in length",
+      "raw": "Diverticulitis: generally 3-6 cm in length",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease: generally > 10 cm",
+      "raw": "Crohn disease: generally > 10 cm",
+      "frequency": null
+    },
+    {
+      "name": "Ulcerative colitis",
+      "raw": "Ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "Primary carcinoma: wider + more irregular",
+      "raw": "Primary carcinoma: wider + more irregular",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Neurofibromatosis Double-tracking of Colon =  longitudinal extraluminal tracks paralleling the colon"
+}

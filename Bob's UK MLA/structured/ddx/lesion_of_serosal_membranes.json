@@ -1,0 +1,75 @@
+{
+  "finding": "Lesion of Serosal Membranes",
+  "slug": "lesion_of_serosal_membranes",
+  "chapter": "PERITONEUM",
+  "source_file": "processed_clusters/peritoneum/lesion_of_serosal_membranes.md",
+  "quality_score": 0.933,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "PRIMARY NEOPLASM (a)  malignant",
+      "raw": "PRIMARY NEOPLASM (a)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Malignant pleural mesothelioma",
+      "raw": "Malignant pleural mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant peritoneal mesothelioma",
+      "raw": "Malignant peritoneal mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Primary serous papillary carcinoma of peritoneum = serous cystadenocarcinoma of ovary (b)  benign",
+      "raw": "Primary serous papillary carcinoma of peritoneum = serous cystadenocarcinoma of ovary (b)  benign",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatoid tumor",
+      "raw": "Adenomatoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Benign multicystic mesothelioma",
+      "raw": "Benign multicystic mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Desmoplastic small round cell tumor",
+      "raw": "Desmoplastic small round cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Localized fibrous tumor of pleura",
+      "raw": "Localized fibrous tumor of pleura",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyomatosis peritonealis disseminata",
+      "raw": "Leiomyomatosis peritonealis disseminata",
+      "frequency": null
+    },
+    {
+      "name": "SECONDARY NEOPLASM",
+      "raw": "SECONDARY NEOPLASM (more common)",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {
+    "PRIMARY NEOPLASM (a)  malignant": [],
+    "Malignant pleural mesothelioma": [],
+    "Malignant peritoneal mesothelioma": [],
+    "Primary serous papillary carcinoma of peritoneum = serous cystadenocarcinoma of ovary (b)  benign": [
+      "Spread by:   direct extension from an adjacent visceral organ / transcoelomic dissemination / permeation of underlying lymphatics (a)  pleura: lung, breast, thymus, ovary, pancreas, thyroid, gastrointestinal tract, kidney (b)  peritoneum: pseudomyxoma peritonei"
+    ],
+    "Adenomatoid tumor": [],
+    "Benign multicystic mesothelioma": [],
+    "Desmoplastic small round cell tumor": [],
+    "Localized fibrous tumor of pleura": [],
+    "Leiomyomatosis peritonealis disseminata": [],
+    "SECONDARY NEOPLASM": []
+  },
+  "context": "Spread by:   direct extension from an adjacent visceral organ / transcoelomic dissemination / permeation of underlying lymphatics (a)  pleura: lung, breast, thymus, ovary, pancreas, thyroid, gastrointestinal tract, kidney (b)  peritoneum: pseudomyxoma peritonei"
+}

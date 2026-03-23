@@ -1,0 +1,32 @@
+{
+  "finding": "A. CARCINOMA",
+  "slug": "a_carcinoma_989572",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/a_carcinoma_989572.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Invasive ductal carcinoma",
+      "raw": "Invasive ductal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Papillary carcinoma",
+      "raw": "Papillary carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Invasive lobular carcinoma",
+      "raw": "Invasive lobular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoid cystic carcinoma",
+      "raw": "Adenoid cystic carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence:   0.17% of all male breast cancers Mean age:   59 years √  microcalcifications in only 13-30%"
+}

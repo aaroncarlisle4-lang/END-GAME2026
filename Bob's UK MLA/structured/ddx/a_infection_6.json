@@ -1,0 +1,32 @@
+{
+  "finding": "A. Infection",
+  "slug": "a_infection_6",
+  "chapter": "B. COPPER",
+  "source_file": "processed_clusters/b_copper/a_infection_6.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fitz-Hugh-Curtis syndrome",
+      "raw": "Fitz-Hugh-Curtis syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Perforated cholecystitis",
+      "raw": "Perforated cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Perforated hepatic abscess",
+      "raw": "Perforated hepatic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous peritonitis",
+      "raw": "Tuberculous peritonitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

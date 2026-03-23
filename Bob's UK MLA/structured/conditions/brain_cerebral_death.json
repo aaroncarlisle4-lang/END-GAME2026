@@ -1,0 +1,30 @@
+{
+  "name": "BRAIN / CEREBRAL DEATH",
+  "slug": "brain_cerebral_death",
+  "chapter": "NERVOUS SYSTEM DISORDERS",
+  "source_file": "processed_clusters/disease_entries/nervous_system_disorders/brain_cerebral_death.md",
+  "definition": "1st-line test for cerebral perfusion; can be performed at the ICU bed site",
+  "demographics": {
+    "Path": "severe brain edema, diffuse liquefactive necrosis"
+  },
+  "dominant_finding": "NO / faint activity in SSS on static image with 99mTc pentetic acid",
+  "distribution": "activity stops abruptly at the skull base = lack of activity in distribution of anterior and",
+  "discriminating_features": [
+    "activity stops abruptly at the skull base = lack of activity in distribution of anterior and",
+    "NO / faint activity in SSS on static image with 99mTc pentetic acid",
+    "absence of activity in cerebrum on delayed images with 99mTc bicisate / 99mTc",
+    "sagittal sinus not visualized",
+    "common carotid arteries must be clearly visualized on 1st pass which confirms a good"
+  ],
+  "other_features": {
+    "general": [
+      "activity stops abruptly at the skull base = lack of activity in distribution of anterior and",
+      "NO / faint activity in SSS on static image with 99mTc pentetic acid",
+      "absence of activity in cerebrum on delayed images with 99mTc bicisate / 99mTc",
+      "sagittal sinus not visualized",
+      "common carotid arteries must be clearly visualized on 1st pass which confirms a good",
+      "activity in face (\"hot nose\" sign) / scalp must not be mistaken as focal brain activity"
+    ]
+  },
+  "clinical": {}
+}

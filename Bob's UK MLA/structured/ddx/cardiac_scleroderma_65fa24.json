@@ -1,0 +1,62 @@
+{
+  "finding": "Cardiac Scleroderma",
+  "slug": "cardiac_scleroderma_65fa24",
+  "chapter": "PRESBYESOPHAGUS",
+  "source_file": "processed_clusters/presbyesophagus/cardiac_scleroderma_65fa24.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "arrhythmia",
+      "raw": "arrhythmia",
+      "frequency": null
+    },
+    {
+      "name": "abdominal pain, diarrhea",
+      "raw": "abdominal pain, diarrhea",
+      "frequency": null
+    },
+    {
+      "name": "multiple episodes of pseudoobstruction",
+      "raw": "multiple episodes of pseudoobstruction",
+      "frequency": null
+    },
+    {
+      "name": "dysphagia (50%), heartburn (30%) ›  functional:",
+      "raw": "dysphagia (50%), heartburn (30%) ›  functional:",
+      "frequency": "50%"
+    },
+    {
+      "name": "decreased small bowel motility with delayed intestinal transit time → stasis → bacterial overgrowth → diarrhea → malabsorption",
+      "raw": "decreased small bowel motility with delayed intestinal transit time → stasis → bacterial overgrowth → diarrhea → malabsorption",
+      "frequency": null
+    },
+    {
+      "name": "constipation (common), may alternate with diarrhea",
+      "raw": "constipation (common), may alternate with diarrhea",
+      "frequency": "common"
+    },
+    {
+      "name": "Dermatomyositis",
+      "raw": "Dermatomyositis (similar radiographic findings)",
+      "frequency": null
+    },
+    {
+      "name": "Sprue",
+      "raw": "Sprue (increased secretions, segmentation, fragmentation, dilatation most significant in midjejunum, normal motility)",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction (no esophageal changes, no pseudodiverticula)",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic intestinal pseudoobstruction",
+      "raw": "Idiopathic intestinal pseudoobstruction (usually in young people)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Histo:  sclerosis of cardiac muscle (= myocardial fibrosis) √  pericardial effusion (pericarditis) √  congestive heart failure Cx:     cor pulmonale Gastrointestinal Scleroderma (in 40-45%) ◊  3rd most common manifestation of scleroderma (after skin changes + Raynaud phenomenon) ◊  May precede other manifestations! Path:  collagen deposition primarily in tunica muscularis → smooth muscle atrophy + fibrosis √  hepatomegaly @   Esophagus (in 42-97%) ◊  First GI tract location to be involved! Site:   distal ²/³ (striated muscle in upper ⅓) √  hypotonia / atony + hypokinesia / aperistalsis in lowe"
+}

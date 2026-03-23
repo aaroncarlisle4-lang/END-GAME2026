@@ -1,0 +1,37 @@
+{
+  "finding": "Solid Neck Mass in Neonate",
+  "slug": "solid_neck_mass_in_neonate",
+  "chapter": "D. NEUROLOGIC",
+  "source_file": "processed_clusters/d_neurologic/solid_neck_mass_in_neonate.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic hygroma",
+      "raw": "Cystic hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis colli",
+      "raw": "Fibromatosis colli",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

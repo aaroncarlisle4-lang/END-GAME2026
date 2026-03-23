@@ -1,0 +1,27 @@
+{
+  "finding": "Fibrous Histiocytoma (DDx)",
+  "slug": "fibrous_histiocytoma_ddx_189410",
+  "chapter": "Fibrous Histiocytoma",
+  "source_file": "processed_clusters/fibrous_histiocytoma/fibrous_histiocytoma_ddx_189410.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "nonossifying fibroma (childhood / adolescence",
+      "raw": "nonossifying fibroma (childhood / adolescence",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "eccentric metaphyseal location)",
+      "raw": "eccentric metaphyseal location)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-defined radiolucent lesion with septa / soap-bubble appearance / no definable matrix | may have reactive sclerotic rim | narrow transition zone (= nonaggressive lesion) | no periosteal reaction"
+}

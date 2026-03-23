@@ -1,0 +1,131 @@
+# Disease: HODGKIN DISEASE
+
+**Source section:** ERDHEIM-CHESTER DISEASE
+
+## Definition
+
+HODGKIN LYMPHOMA disease of T cells 1÷1 rarely affecting GI tract → mostly 2ndary involvement by tumor extension from adjacent
+
+## Key Facts
+
+- **Frequency:** 0.75% of all cancers diagnosed each year; 40% of all lymphomas
+- **Age:** bimodal peaks at age 25-30 years and 75-80 years; very rare in children < 5 years; M÷F
+- **Histo:** Hodgkin and Reed-Sternberg cells = binucleate cells with prominent centrally located
+- **Location:** dorsolumbar spine > pelvis > ribs > femora > sternum
+- **Associated with:** splenic disease (almost invariably)
+
+## Imaging Findings
+
+### General
+
+- typically localized anterior mediastinal involvement
+- more commonly abdominal than mediastinal
+- disseminated advanced stage
+- coarse reticulonodular pattern contiguous with mediastinum = direct extension
+- nodular parenchymal lesions
+- miliary nodules
+- endobronchial involvement
+- lobar atelectasis ← endobronchial obstruction (rare)
+- cavitation ← necrosis (rare)
+- circumscribed subpleural masses
+- pleural effusion (20-50%) ← lymphatic obstruction
+- diffuse nonsegmental infiltrate (pneumonic type)
+- massive lobar infiltrates (30%)
+- homogeneous confluent infiltrates with shaggy borders
+- air bronchogram
+- multiple nodules < 1 cm in diameter (DDx: metastatic disease)
+- CXR: on initial film adenopathy identified in 50%
+- necrotic lymph nodes (commonly nodular sclerosing type)
+- lymph nodes may calcify following radiation / chemotherapy
+- sternal erosion
+- invasion of anterior chest wall
+- thymic enlargement (in 56%)
+- consolidation with bulging borders: necrotizing bacterial pneumonia
+- multiple nodular foci: aspergillosis + nocardiosis
+- bilateral diffuse consolidation: Pneumocystis carinii
+- rapidly developing cavitation within consolidation: anaerobes / fungus
+
+### NUC
+
+- solitary (33%) / polyostotic (66%) lesions:
+- usually wide ill-defined lesion edge / sclerotic margin
+- lamellated / "sunburst" periosteal reaction
+- predominantly osteolytic with blurred borders; rarely sclerotic / mixed lytic-
+- fractures occur rarely at presentation
+- vertebral osteolysis with collapse / patchy sclerosis / "ivory vertebra" / mixed lytic +
+- gouge defect of anterior vertebral body margin ← erosion by lymph nodes
+- osteolysis of sternum ← proximity to thoracic lymph ducts
+
+### MR
+
+- hypo- / isointense nodules on T1WI + hyperintense on T2WI
+- reduced enhancement compared with normal spleen
+
+### CT
+
+- concentric thickening of affected bowel wall
+- narrow rigid obstructive lesion (DDx: scirrhous ca.)
+- wall thickening + smoothly lobulated outer border
+- abundance of desmoplastic reaction (DDx from NHL)
+- infiltrating (60%); polypoid (26%); ulcerated (14%)
+- esophageal nodules / irregular narrowing
+
+### HEAD & NECK (< 1%)
+
+- thyroid mass as secondary involvement (2%)
+
+### CNS (uncommon)
+
+- leptomeningeal + choroid plexus masses
+- white matter mass, typically periventricular / basal ganglionic / cerebellar
+- paraneoplastic cerebellar atrophy
+- epidural mass with spinal cord compression (in 3.0-7.6%) from extension of
+- concomitant vertebral bone involvement (in 32-42%)
+
+### THYMUS (30-56%)
+
+- remains enlarged after treatment in 33% ← recurrent disease / rebound hyperplasia /
+
+### CHEST WALL (6.4%)
+
+- infiltration of parasternal soft tissues by direct extension from internal mammary nodes
+- mass beneath / between pectoralis muscles (rare)
+
+### HEART (7.5% at autopsy)
+
+- pericardial effusion (with large mediastinal mass)
+- invasion of pericardium + SVC
+- pericardial nodular mass
+
+### LIVER (6-20%)
+
+- discrete nodules (10%) = miliary lesions of < 10 mm
+- diffuse disease (87%) = patchy irregular infiltrates in portal areas
+
+### SPLEEN
+
+- diffuse involvement (not detectable by imaging) ± splenomegaly
+- hypoechoic hypoattenuating nodules with reduced contrast enhancement
+
+### GI TRACT (10-15%)
+
+- diffuse fold thickening / ulcerated mass in stomach
+- irregular luminal narrowing + nodularity in esophagus, small bowel, colon
+
+### GU TRACT (extremely rare)
+
+- perirenal / renal masses ← invasion from surrounding nodes
+
+## Clinical
+
+- **Prognosis:** good
+- **Cx:** focal stenosis, obstruction ← greater degree of fibrosis than lymphoma
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

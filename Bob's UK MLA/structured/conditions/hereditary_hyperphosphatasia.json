@@ -1,0 +1,35 @@
+{
+  "name": "HEREDITARY HYPERPHOSPHATASIA",
+  "slug": "hereditary_hyperphosphatasia",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/hereditary_hyperphosphatasia.md",
+  "definition": "\"JUVENILE PAGET DISEASE\" rare autosomal recessive disease with sustained elevation of serum alkaline phosphatase,",
+  "demographics": {
+    "Histo": "rapid turnover of lamellar bone without formation of cortical bone; immature woven",
+    "Age": "1st-3rd year; usually stillborn"
+  },
+  "dominant_finding": "deossification = decreased density of long bones with coarse trabecular pattern",
+  "distribution": "metaphyseal growth deficiency",
+  "discriminating_features": [
+    "deossification = decreased density of long bones with coarse trabecular pattern",
+    "metaphyseal growth deficiency",
+    "wide irregular epiphyseal lines (resembling rickets in childhood), persistent metaphyseal",
+    "bowing of long bones + fractures with irregular callus",
+    "widened medullary canal with cortical thinning (cortex modeled from trabecular bone)"
+  ],
+  "other_features": {
+    "general": [
+      "deossification = decreased density of long bones with coarse trabecular pattern",
+      "metaphyseal growth deficiency",
+      "wide irregular epiphyseal lines (resembling rickets in childhood), persistent metaphyseal",
+      "bowing of long bones + fractures with irregular callus",
+      "widened medullary canal with cortical thinning (cortex modeled from trabecular bone)",
+      "skull greatly thickened with wide tables, cotton wool appearance",
+      "vertebra plana",
+      "diagnosis suspected in utero in 20%"
+    ]
+  },
+  "clinical": {
+    "Cx": "pathologic fractures; vertebra plana universalis"
+  }
+}

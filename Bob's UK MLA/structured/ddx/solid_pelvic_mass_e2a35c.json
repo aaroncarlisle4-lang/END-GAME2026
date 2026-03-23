@@ -1,0 +1,37 @@
+{
+  "finding": "Solid Pelvic Mass",
+  "slug": "solid_pelvic_mass_e2a35c",
+  "chapter": "E. LITHOPEDION",
+  "source_file": "processed_clusters/e_lithopedion/solid_pelvic_mass_e2a35c.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pedunculated myoma",
+      "raw": "Pedunculated myoma (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Fibroma",
+      "raw": "Fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Adenofibroma",
+      "raw": "Adenofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Thecoma",
+      "raw": "Thecoma",
+      "frequency": null
+    },
+    {
+      "name": "Brenner tumor",
+      "raw": "Brenner tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

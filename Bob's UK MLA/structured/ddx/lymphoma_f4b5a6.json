@@ -1,0 +1,42 @@
+{
+  "finding": "LYMPHOMA",
+  "slug": "lymphoma_f4b5a6",
+  "chapter": "HARD-METAL PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/lymphoma_f4b5a6.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "chest / shoulder pain, dyspnea, dysphagia",
+      "raw": "chest / shoulder pain, dyspnea, dysphagia",
+      "frequency": null
+    },
+    {
+      "name": "CHF, hypotension, SVC syndrome",
+      "raw": "CHF, hypotension, SVC syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Nodular form = organized in clusters",
+      "raw": "Nodular form = organized in clusters",
+      "frequency": null
+    },
+    {
+      "name": "Poorly differentiated lymphocytic",
+      "raw": "Poorly differentiated lymphocytic (PDL)",
+      "frequency": null
+    },
+    {
+      "name": "Mixed lymphocytic / histiocytic",
+      "raw": "Mixed lymphocytic / histiocytic (mixed cell)",
+      "frequency": null
+    },
+    {
+      "name": "Large cell",
+      "raw": "Large cell (histiocytic)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  NON-HODGKIN LYMPHOMA (NHL) = MALIGNANT LYMPHOMA =  most common primary hematopoietic malignancy ◊  7th leading cause of death from cancer in USA Pathogenesis:   ? viral cause Frequency:   4.3% of all newly diagnosed cancers (2015); 3rd most common cancer in childhood (behind leukemia + CNS neoplasms); 4 times more common than Hodgkin disease Predisposed:   (40-100 times greater risk) congenital immuno-deficiency syndromes, immunosuppressed organ transplant recipients, patients with HIV infection, collagen vascular disease Age:   all ages; median age of 55 years; M÷F = 1.4÷1 Modified Rappapo"
+}

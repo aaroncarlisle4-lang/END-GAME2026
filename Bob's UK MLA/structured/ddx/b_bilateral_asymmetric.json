@@ -1,0 +1,27 @@
+{
+  "finding": "B. BILATERAL ASYMMETRIC",
+  "slug": "b_bilateral_asymmetric",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/b_bilateral_asymmetric.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Psoriatic arthritis",
+      "raw": "Psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Reiter syndrome",
+      "raw": "Reiter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile rheumatoid arthritis",
+      "raw": "Juvenile rheumatoid arthritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  large extensive erosion √  subchondral sclerosis + occasional ankylosis"
+}

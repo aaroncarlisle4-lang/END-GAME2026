@@ -1,0 +1,27 @@
+{
+  "finding": "C. COAGULATION DEFECT",
+  "slug": "c_coagulation_defect",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/gastrointestinal_hemorrhage/c_coagulation_defect.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Anticoagulant therapy",
+      "raw": "Anticoagulant therapy",
+      "frequency": null
+    },
+    {
+      "name": "Thrombocytopenia",
+      "raw": "Thrombocytopenia",
+      "frequency": null
+    },
+    {
+      "name": "Disseminated intravascular coagulation",
+      "raw": "Disseminated intravascular coagulation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

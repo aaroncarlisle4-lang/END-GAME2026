@@ -1,0 +1,32 @@
+{
+  "finding": "A. VASCULAR LESION",
+  "slug": "a_vascular_lesion_63dea2",
+  "chapter": "CT / MR",
+  "source_file": "processed_clusters/ct_mr/a_vascular_lesion_63dea2.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ectatic common / internal carotid artery",
+      "raw": "Ectatic common / internal carotid artery",
+      "frequency": "common"
+    },
+    {
+      "name": "Carotid artery aneurysm / pseudoaneurysm",
+      "raw": "Carotid artery aneurysm / pseudoaneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Asymmetric internal jugular vein",
+      "raw": "Asymmetric internal jugular vein",
+      "frequency": null
+    },
+    {
+      "name": "Jugular vein thrombosis, Lemierre syndrome",
+      "raw": "Jugular vein thrombosis, Lemierre syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

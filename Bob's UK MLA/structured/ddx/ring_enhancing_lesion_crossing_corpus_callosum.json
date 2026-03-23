@@ -1,0 +1,27 @@
+{
+  "finding": "Ring-enhancing Lesion Crossing Corpus Callosum",
+  "slug": "ring_enhancing_lesion_crossing_corpus_callosum",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/ring_enhancing_lesion_crossing_corpus_callosum.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Glioblastoma multiforme",
+      "raw": "Glioblastoma multiforme (butterfly glioma)",
+      "frequency": null
+    },
+    {
+      "name": "Astrocytoma",
+      "raw": "Astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

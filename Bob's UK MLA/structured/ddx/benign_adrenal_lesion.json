@@ -1,0 +1,72 @@
+{
+  "finding": "Benign Adrenal Lesion",
+  "slug": "benign_adrenal_lesion",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/benign_adrenal_lesion.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Myelolipoma",
+      "raw": "Myelolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Adrenal cyst",
+      "raw": "Adrenal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Adrenal hemorrhage",
+      "raw": "Adrenal hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioneuroma",
+      "raw": "Ganglioneuroma",
+      "frequency": null
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma of adrenal gland",
+      "raw": "Lymphangioma of adrenal gland",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatoid tumor",
+      "raw": "Adenomatoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Oncocytoma of adrenal gland",
+      "raw": "Oncocytoma of adrenal gland",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

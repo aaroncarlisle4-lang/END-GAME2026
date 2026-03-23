@@ -1,0 +1,54 @@
+{
+  "finding": "Radiographic Findings in Total Hip Arthroplasty",
+  "slug": "radiographic_findings_in_total_hip_arthroplasty_b8223e",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/radiographic_findings_in_total_hip_arthroplasty_b8223e.md",
+  "quality_score": 0.8,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "NORMAL",
+      "raw": "NORMAL",
+      "frequency": null
+    },
+    {
+      "name": "ABNORMAL",
+      "raw": "ABNORMAL",
+      "frequency": null
+    },
+    {
+      "name": "Bone Scintigraphy (high NPV):",
+      "raw": "Bone Scintigraphy (high NPV):",
+      "frequency": null
+    },
+    {
+      "name": "Sequential bone/gallium scintigraphy (60-80% accurate, modest improvement over bone scintigraphy alone):",
+      "raw": "Sequential bone/gallium scintigraphy (60-80% accurate, modest improvement over bone scintigraphy alone):",
+      "frequency": "80%"
+    },
+    {
+      "name": "Labeled leukocyte scintigraphy:",
+      "raw": "Labeled leukocyte scintigraphy:",
+      "frequency": null
+    },
+    {
+      "name": "Combined labeled leukocyte-marrow scintigraphy = WBC/sulfur colloid scintigraphy (study of choice):",
+      "raw": "Combined labeled leukocyte-marrow scintigraphy = WBC/sulfur colloid scintigraphy (study of choice):",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "NORMAL": [
+      "irregular cement-bone interface =  normal interdigitation of PMMA (polymethylmethacrylate) with adjacent bone remodeling providing a mechanical interlock ◊  PMMA is not a glue!"
+    ],
+    "ABNORMAL": [],
+    "Bone Scintigraphy (high NPV):": [
+      "thin lucent line along cement-bone interface =  0.1-1.5-mm thin connective tissue membrane (\"demarcation\") along cement-bone interface accompanied by thin line of bone sclerosis",
+      "wide lucent zone at cement-bone interface =  ≥ 2-mm lucent line along bone-cement interface due to granulomatous membrane Cause:   component loosening ± reaction to particulate debris (eg, PMMA, polyethylene)"
+    ],
+    "Sequential bone/gallium scintigraphy (60-80% accurate, modest improvement over bone scintigraphy alone):": [],
+    "Labeled leukocyte scintigraphy:": [],
+    "Combined labeled leukocyte-marrow scintigraphy = WBC/sulfur colloid scintigraphy (study of choice):": []
+  },
+  "context": "√  irregular cement-bone interface =  normal interdigitation of PMMA (polymethylmethacrylate) with adjacent bone remodeling providing a mechanical interlock ◊  PMMA is not a glue! √  thin lucent line along cement-bone interface =  0.1-1.5-mm thin connective tissue membrane (\"demarcation\") along cement-bone interface accompanied by thin line of bone sclerosis √  wide lucent zone at cement-bone interface =  ≥ 2-mm lucent line along bone-cement interface due to granulomatous membrane Cause:   component loosening ± reaction to particulate debris (eg, PMMA, polyethylene) √  lucent zone at metal-cem"
+}

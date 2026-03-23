@@ -1,0 +1,32 @@
+{
+  "finding": "B. INFLAMMATION",
+  "slug": "b_inflammation",
+  "chapter": "Small Bowel Ulcer",
+  "source_file": "processed_clusters/small_bowel_ulcer/b_inflammation.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease (22%)",
+      "frequency": "22%"
+    },
+    {
+      "name": "Behçet disease",
+      "raw": "Behçet disease",
+      "frequency": null
+    },
+    {
+      "name": "Reiter syndrome",
+      "raw": "Reiter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

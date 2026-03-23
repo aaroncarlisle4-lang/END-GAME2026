@@ -1,0 +1,21 @@
+{
+  "name": "CONTRAST NEPHROPATHY",
+  "slug": "contrast_nephropathy",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/contrast_nephropathy.md",
+  "definition": "CONTRAST-INDUCED RENAL FAILURE increase in serum creatinine of ≥ 1 mg/dL ± 25-50% of baseline creatinine level after",
+  "demographics": {},
+  "dominant_finding": "cortical attenuation > 140 HU on CT after 24-hour delay",
+  "distribution": "cortical attenuation > 140 HU on CT after 24-hour delay",
+  "discriminating_features": [
+    "persistent nephrogram on plain film",
+    "cortical attenuation > 140 HU on CT after 24-hour delay"
+  ],
+  "other_features": {
+    "general": [
+      "persistent nephrogram on plain film",
+      "cortical attenuation > 140 HU on CT after 24-hour delay"
+    ]
+  },
+  "clinical": {}
+}

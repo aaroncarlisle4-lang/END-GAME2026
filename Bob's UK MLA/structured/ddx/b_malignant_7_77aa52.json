@@ -1,0 +1,37 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_7_77aa52",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/b_malignant_7_77aa52.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Secondary CNS lymphoma",
+      "raw": "Secondary CNS lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases: breast, prostate, melanoma, RCC",
+      "raw": "Metastases: breast, prostate, melanoma, RCC",
+      "frequency": null
+    },
+    {
+      "name": "Infectious meningitis",
+      "raw": "Infectious meningitis (bacterial, viral, fungal)",
+      "frequency": null
+    },
+    {
+      "name": "Carcinomatous meningitis (a)  primary CNS tumor: medulloblastoma, ependymoma, glioblastoma, oligodendroglioma) (b)  secondary tumor: lymphoma, breast cancer",
+      "raw": "Carcinomatous meningitis (a)  primary CNS tumor: medulloblastoma, ependymoma, glioblastoma, oligodendroglioma) (b)  secondary tumor: lymphoma, breast cancer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Leptomeningeal Enhancement =  PIA-ARACHNOID ENHANCEMENT Site:     pial surface of brain Location:   subarachnoid spaces of sulci + cisterns √  gyriform / serpentine enhancement Cause:"
+}

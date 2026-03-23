@@ -1,0 +1,72 @@
+{
+  "finding": "Cysts and Bursae of the Knee",
+  "slug": "cysts_and_bursae_of_the_knee",
+  "chapter": "KNEE",
+  "source_file": "processed_clusters/knee/cysts_and_bursae_of_the_knee.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Suprapatellar bursa",
+      "raw": "Suprapatellar bursa",
+      "frequency": null
+    },
+    {
+      "name": "Popliteal bursa",
+      "raw": "Popliteal bursa",
+      "frequency": null
+    },
+    {
+      "name": "Pes anserine bursa",
+      "raw": "Pes anserine bursa",
+      "frequency": null
+    },
+    {
+      "name": "Semimembranosus-tibial collateral ligament bursa",
+      "raw": "Semimembranosus-tibial collateral ligament bursa",
+      "frequency": null
+    },
+    {
+      "name": "Prepatellar bursa",
+      "raw": "Prepatellar bursa",
+      "frequency": null
+    },
+    {
+      "name": "Infrapatellar bursa",
+      "raw": "Infrapatellar bursa",
+      "frequency": null
+    },
+    {
+      "name": "Tibial collateral ligament bursa",
+      "raw": "Tibial collateral ligament bursa",
+      "frequency": null
+    },
+    {
+      "name": "Tibiofibular joint cyst",
+      "raw": "Tibiofibular joint cyst",
+      "frequency": null
+    },
+    {
+      "name": "Popliteus bursa",
+      "raw": "Popliteus bursa",
+      "frequency": null
+    },
+    {
+      "name": "Meniscal cyst",
+      "raw": "Meniscal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cruciate ligament cyst",
+      "raw": "Cruciate ligament cyst",
+      "frequency": null
+    },
+    {
+      "name": "Ganglion",
+      "raw": "Ganglion (mucinous degeneration of ACL)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

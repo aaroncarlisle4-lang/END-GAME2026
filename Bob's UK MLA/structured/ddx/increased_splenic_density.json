@@ -1,0 +1,32 @@
+{
+  "finding": "Increased Splenic Density",
+  "slug": "increased_splenic_density",
+  "chapter": "SPLEEN",
+  "source_file": "processed_clusters/spleen/increased_splenic_density.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sickle cell anemia",
+      "raw": "Sickle cell anemia (in 5% of sicklers)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Hemochromatosis",
+      "raw": "Hemochromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Thorotrast exposure",
+      "raw": "Thorotrast exposure",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiography",
+      "raw": "Lymphangiography",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Liver Transplant — Hepatic artery (DDx)",
+  "slug": "liver_transplant_hepatic_artery_ddx",
+  "chapter": "Liver Transplant",
+  "source_file": "processed_clusters/liver_transplant/liver_transplant_hepatic_artery_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "normal in early post-transplantation period √  biliary dilatation",
+      "raw": "normal in early post-transplantation period √  biliary dilatation (← stricture)",
+      "frequency": null
+    },
+    {
+      "name": "infarction",
+      "raw": "infarction",
+      "frequency": null
+    },
+    {
+      "name": "biloma",
+      "raw": "biloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "marked focal increase in peak systolic velocity > 200-300 cm/sec or 2-3 x of | intrahepatic tardus et parvus waveform: | slowed systolic acceleration time (SAT > 70-80 msec) distal to stenosis (73% sensitive) | diminished pulsatility (RI < 0.55) ← ischemia"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "ABDOMINAL LYMPHADENOPATHY",
+  "slug": "abdominal_lymphadenopathy",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_hemorrhage/abdominal_lymphadenopathy.md",
+  "definition": "superior portion of lesser omentum suspending stomach from liver in porta hepatis extending down hepatoduodenal ligament, anterior + posterior to portal between duodenal sweep + pancreatic head anterior to IVC in splenic hilum periaortic, pericaval, interaortocaval preaortic nodes along ileocolic artery along common, external + internal iliac vessels ENLARGED LYMPH NODE WITH LOW-DENSITY CENTER",
+  "demographics": {},
+  "dominant_finding": "rim-enhancing nodules + central necrosis",
+  "distribution": "rim-enhancing nodules + central necrosis",
+  "discriminating_features": [
+    "rim-enhancing nodules + central necrosis"
+  ],
+  "other_features": {
+    "general": [],
+    "Pelvic nodes": [
+      "rim-enhancing nodules + central necrosis"
+    ]
+  },
+  "clinical": {
+    "Cx": "high extrahepatic biliary obstruction"
+  }
+}

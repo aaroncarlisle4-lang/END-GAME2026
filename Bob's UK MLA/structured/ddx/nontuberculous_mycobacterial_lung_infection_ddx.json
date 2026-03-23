@@ -1,0 +1,32 @@
+{
+  "finding": "Nontuberculous Mycobacterial Lung Infection (DDx)",
+  "slug": "nontuberculous_mycobacterial_lung_infection_ddx",
+  "chapter": "Nontuberculous Mycobacterial Lung Infection",
+  "source_file": "processed_clusters/nontuberculous_mycobacterial_lung_infection/nontuberculous_mycobacterial_lung_infection_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "M. tuberculosis",
+      "raw": "M. tuberculosis (bronchiectasis less common + less extensive)",
+      "frequency": "common"
+    },
+    {
+      "name": "bronchiolitis obliterans",
+      "raw": "bronchiolitis obliterans",
+      "frequency": null
+    },
+    {
+      "name": "sarcoidosis",
+      "raw": "sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "fungal disease",
+      "raw": "fungal disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "bronchial wall thickening (97%) | airspace disease (76%) | cavitation (21%), esp. in upper lobes | interlobular septal thickening (12%)"
+}

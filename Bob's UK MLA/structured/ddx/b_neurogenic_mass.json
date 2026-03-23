@@ -1,0 +1,32 @@
+{
+  "finding": "B. Neurogenic mass",
+  "slug": "b_neurogenic_mass",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/b_neurogenic_mass.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioneuroma",
+      "raw": "Ganglioneuroma",
+      "frequency": null
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

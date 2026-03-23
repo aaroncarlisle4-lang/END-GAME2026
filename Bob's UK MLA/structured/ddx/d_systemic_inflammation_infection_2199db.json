@@ -1,0 +1,37 @@
+{
+  "finding": "D. SYSTEMIC INFLAMMATION / INFECTION",
+  "slug": "d_systemic_inflammation_infection_2199db",
+  "chapter": "AGENESIS OF DORSAL PANCREAS",
+  "source_file": "processed_clusters/agenesis_of_dorsal_pancreas/d_systemic_inflammation_infection_2199db.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Inflammatory bowel disease",
+      "raw": "Inflammatory bowel disease",
+      "frequency": null
+    },
+    {
+      "name": "Behçet syndrome",
+      "raw": "Behçet syndrome",
+      "frequency": null
+    },
+    {
+      "name": "right upper quadrant pain, lower-extremity edema",
+      "raw": "right upper quadrant pain, lower-extremity edema",
+      "frequency": null
+    },
+    {
+      "name": "shortness of breath ← decreased cardiac return",
+      "raw": "shortness of breath ← decreased cardiac return",
+      "frequency": null
+    },
+    {
+      "name": "nonspecific elevated transaminases, jaundice",
+      "raw": "nonspecific elevated transaminases, jaundice",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Pathophysiology: hepatic venous thrombosis → elevation of sinusoidal pressure → diminished / reversed portal venous flow → centrilobular congestion → necrosis + atrophy (a)  acute form (= no time for development of collateral veins) → rapid development of hepatic necrosis (b)  subacute / chronic form (venous thrombosis incomplete) → peripheral atrophy + preservation of central region with caudate lobe hypertrophy (drained by accessory veins) In 25% associated with:  portal vein thrombosis Age:   all ages; M < F Location: Type I : occlusion of IVC ± hepatic veins Type II : occlusion of major he"
+}

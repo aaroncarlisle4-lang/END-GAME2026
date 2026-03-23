@@ -1,0 +1,57 @@
+{
+  "finding": "PNEUMONIA",
+  "slug": "pneumonia",
+  "chapter": "C. RIGHT UPPER LOBE",
+  "source_file": "processed_clusters/c_right_upper_lobe/pneumonia.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lobar distribution: Streptococcus pneumoniae",
+      "raw": "Lobar distribution: Streptococcus pneumoniae",
+      "frequency": null
+    },
+    {
+      "name": "Bulging fissure:",
+      "raw": "Bulging fissure:",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary edema: Viral / Pneumocystis pneumonia",
+      "raw": "Pulmonary edema: Viral / Pneumocystis pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Pneumatocele:",
+      "raw": "Pneumatocele:",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar nodules:",
+      "raw": "Alveolar nodules:",
+      "frequency": null
+    },
+    {
+      "name": "SEGMENTAL / LOBAR ›  Normal host: S. pneumoniae, Mycoplasma, virus ›  Compromised host: S. pneumoniae",
+      "raw": "SEGMENTAL / LOBAR ›  Normal host: S. pneumoniae, Mycoplasma, virus ›  Compromised host: S. pneumoniae",
+      "frequency": null
+    },
+    {
+      "name": "BRONCHOPNEUMONIA ›  Normal host: Mycoplasma, virus, Streptococcus, Staphylococcus, S. pneumoniae ›  Compromised host: gram-negative, Streptococcus, Staphylococcus ›  Nosocomial: gram-negative, Pseudomonas, Klebsiella, Staphylococcus ›  Immunosuppressed: gram-negative, Staphylococcus, Nocardia, Legionella, Aspergillus,",
+      "raw": "BRONCHOPNEUMONIA ›  Normal host: Mycoplasma, virus, Streptococcus, Staphylococcus, S. pneumoniae ›  Compromised host: gram-negative, Streptococcus, Staphylococcus ›  Nosocomial: gram-negative, Pseudomonas, Klebsiella, Staphylococcus ›  Immunosuppressed: gram-negative, Staphylococcus, Nocardia, Legionella, Aspergillus,",
+      "frequency": null
+    },
+    {
+      "name": "EXTENSIVE BILATERAL PNEUMONIA ›  Normal host: virus (eg, influenza), Legionella ›  Compromised host: candidiasis, Pneumocystis, TB",
+      "raw": "EXTENSIVE BILATERAL PNEUMONIA ›  Normal host: virus (eg, influenza), Legionella ›  Compromised host: candidiasis, Pneumocystis, TB",
+      "frequency": null
+    },
+    {
+      "name": "BILATERAL LOWER LOBE PNEUMONIA ›  Normal host: anaerobic",
+      "raw": "BILATERAL LOWER LOBE PNEUMONIA ›  Normal host: anaerobic (aspiration) ›  Compromised host: anaerobic (aspiration)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"Classic\" pneumonia pattern: Klebsiella Staphylococcus Varicella, bronchogenic spread of TB Distribution: Phycomycetes"
+}

@@ -1,0 +1,62 @@
+{
+  "finding": "C. nonreflux-nonobstructed MEGAURETER",
+  "slug": "c_nonreflux_nonobstructed_megaureter_4cd9c2",
+  "chapter": "D. COMPRESSION",
+  "source_file": "processed_clusters/d_compression/c_nonreflux_nonobstructed_megaureter_4cd9c2.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital primary megaureter = megaloureter",
+      "raw": "Congenital primary megaureter = megaloureter",
+      "frequency": null
+    },
+    {
+      "name": "Polyuria: eg, diabetes insipidus, acute diuresis",
+      "raw": "Polyuria: eg, diabetes insipidus, acute diuresis",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Ureter remaining wide after relief of obstruction mnemonic:   DiaPOUR",
+      "raw": "Ureter remaining wide after relief of obstruction mnemonic:   DiaPOUR",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes insipidus",
+      "raw": "Diabetes insipidus",
+      "frequency": null
+    },
+    {
+      "name": "Primary megaureter",
+      "raw": "Primary megaureter",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction (recent / old)",
+      "frequency": null
+    },
+    {
+      "name": "UVJ obstruction",
+      "raw": "UVJ obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Reflux",
+      "raw": "Reflux",
+      "frequency": null
+    },
+    {
+      "name": "Ureteral Stricture",
+      "raw": "Ureteral Stricture",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "A stricture is a fixed narrowing with proximal dilatation."
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Widened Retrogastric Space",
+  "slug": "widened_retrogastric_space_c60283",
+  "chapter": "C. ENDOCRINE ORGANS",
+  "source_file": "processed_clusters/c_endocrine_organs/widened_retrogastric_space_c60283.md",
+  "quality_score": 0.333,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "PANCREATIC MASS",
+      "raw": "PANCREATIC MASS (most common cause)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Acute + chronic pancreatitis",
+      "raw": "Acute + chronic pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic cystadenoma + carcinoma",
+      "raw": "Pancreatic cystadenoma + carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

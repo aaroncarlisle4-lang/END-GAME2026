@@ -1,0 +1,27 @@
+{
+  "finding": "Calcified Gastric Tumor",
+  "slug": "calcified_gastric_tumor_586f56",
+  "chapter": "C. ENDOCRINE ORGANS",
+  "source_file": "processed_clusters/c_endocrine_organs/calcified_gastric_tumor_586f56.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucinous adenocarcinoma:",
+      "raw": "Mucinous adenocarcinoma:",
+      "frequency": null
+    },
+    {
+      "name": "Stromal tumors:",
+      "raw": "Stromal tumors:",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma:",
+      "raw": "Hemangioma:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "miliary / punctate amorphous calcifications clusters of phleboliths"
+}

@@ -1,0 +1,66 @@
+{
+  "finding": "C. ISOSEXUAL PPP IN BOYS",
+  "slug": "c_isosexual_ppp_in_boys_c5dbce",
+  "chapter": "C. LEFT UPPER QUADRANT",
+  "source_file": "processed_clusters/c_left_upper_quadrant/c_isosexual_ppp_in_boys_c5dbce.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Sex cord-stromal tumor of testis",
+      "raw": "Sex cord-stromal tumor of testis",
+      "frequency": null
+    },
+    {
+      "name": "hCG-secreting tumors stimulating Leydig cells: hepatoblastoma, mediastinal teratoma, some testicular germ cell tumors, suprasellar germinoma",
+      "raw": "hCG-secreting tumors stimulating Leydig cells: hepatoblastoma, mediastinal teratoma, some testicular germ cell tumors, suprasellar germinoma",
+      "frequency": null
+    },
+    {
+      "name": "low gonadotropin levels after LHRH stimulation",
+      "raw": "low gonadotropin levels after LHRH stimulation",
+      "frequency": null
+    },
+    {
+      "name": "high serum estradiol level, low serum levels of FSH + LH",
+      "raw": "high serum estradiol level, low serum levels of FSH + LH",
+      "frequency": null
+    },
+    {
+      "name": "normal bone age; uterine bleeding ← withdrawal of estrogen stimulation upon cyst rupture",
+      "raw": "normal bone age; uterine bleeding ← withdrawal of estrogen stimulation upon cyst rupture",
+      "frequency": null
+    },
+    {
+      "name": "increased levels of adrenal androgens independent of stimulation by adrenocorticotropic hormone",
+      "raw": "increased levels of adrenal androgens independent of stimulation by adrenocorticotropic hormone (ACTH)",
+      "frequency": null
+    },
+    {
+      "name": "FEMALE FACTORS (55%):",
+      "raw": "FEMALE FACTORS (55%):",
+      "frequency": "55%"
+    },
+    {
+      "name": "MALE FACTORS",
+      "raw": "MALE FACTORS (40%)",
+      "frequency": "40%"
+    }
+  ],
+  "criteria": {
+    "Sex cord-stromal tumor of testis": [],
+    "hCG-secreting tumors stimulating Leydig cells: hepatoblastoma, mediastinal teratoma, some testicular germ cell tumors, suprasellar germinoma": [],
+    "low gonadotropin levels after LHRH stimulation": [],
+    "high serum estradiol level, low serum levels of FSH + LH": [],
+    "normal bone age; uterine bleeding ← withdrawal of estrogen stimulation upon cyst rupture": [
+      "asymmetric ovarian enlargement (one ovary 2.4-7 cm3) with macrocysts (> 9 mm)",
+      "± unilateral follicular ovarian cyst characterized by internal daughter cyst Isolated Premature Adrenarche =  axillary and pubic hair development ← action of adrenal androgens in girls 1-3 years of age",
+      "normal / slightly advanced bone age Isolated Premature Thelarche =  breast enlargement in girls 1-3 years of age ◊  May occur without endocrine abnormalities",
+      "normal / slightly advanced bone ag"
+    ],
+    "increased levels of adrenal androgens independent of stimulation by adrenocorticotropic hormone": [],
+    "FEMALE FACTORS (55%):": [],
+    "MALE FACTORS": []
+  },
+  "context": "√  prepubertal small uterus + ovaries √  asymmetric ovarian enlargement (one ovary 2.4-7 cm3) with macrocysts (> 9 mm) √  ± unilateral follicular ovarian cyst characterized by internal daughter cyst Isolated Premature Adrenarche =  axillary and pubic hair development ← action of adrenal androgens in girls 1-3 years of age √  prepubertal uterus + ovaries (0.1-1.0 cm3) √  normal / slightly advanced bone age Isolated Premature Thelarche =  breast enlargement in girls 1-3 years of age ◊  May occur without endocrine abnormalities √  prepubertal uterus + ovaries √  normal / slightly advanced bone ag"
+}

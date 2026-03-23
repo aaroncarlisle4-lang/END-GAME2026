@@ -1,0 +1,27 @@
+{
+  "name": "CONGENITAL RENAL HYPOPLASIA",
+  "slug": "congenital_renal_hypoplasia",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/congenital_renal_hypoplasia.md",
+  "definition": "miniaturization with reduction in number of renal lobes, number of calices and papillae,",
+  "demographics": {},
+  "dominant_finding": "unilateral small kidney",
+  "distribution": "unilateral small kidney",
+  "discriminating_features": [
+    "unilateral small kidney",
+    "decreased number of papillae + calices (5 or less)",
+    "hypertrophied contralateral kidney",
+    "absent renal artery",
+    "hypoplastic disorganized renal veins"
+  ],
+  "other_features": {
+    "general": [
+      "unilateral small kidney",
+      "decreased number of papillae + calices (5 or less)",
+      "hypertrophied contralateral kidney",
+      "absent renal artery",
+      "hypoplastic disorganized renal veins"
+    ]
+  },
+  "clinical": {}
+}

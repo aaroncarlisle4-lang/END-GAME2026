@@ -1,0 +1,82 @@
+{
+  "finding": "Chronic Infantile Hyperostosis",
+  "slug": "chronic_infantile_hyperostosis",
+  "chapter": "HYPOTHYROIDISM",
+  "source_file": "processed_clusters/hypothyroidism/chronic_infantile_hyperostosis.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "disease may persist or recur intermittently for years",
+      "raw": "disease may persist or recur intermittently for years",
+      "frequency": null
+    },
+    {
+      "name": "delayed muscular development, crippling deformities",
+      "raw": "delayed muscular development, crippling deformities",
+      "frequency": null
+    },
+    {
+      "name": "Hypervitaminosis A",
+      "raw": "Hypervitaminosis A (rarely < 1 year of age)",
+      "frequency": null
+    },
+    {
+      "name": "Periostitis of prematurity",
+      "raw": "Periostitis of prematurity",
+      "frequency": null
+    },
+    {
+      "name": "Healing rickets",
+      "raw": "Healing rickets",
+      "frequency": null
+    },
+    {
+      "name": "Scurvy",
+      "raw": "Scurvy (uncommon < 4 months of age)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Syphilis",
+      "raw": "Syphilis (focal destruction)",
+      "frequency": null
+    },
+    {
+      "name": "Child abuse",
+      "raw": "Child abuse",
+      "frequency": null
+    },
+    {
+      "name": "Prostaglandin administration",
+      "raw": "Prostaglandin administration (usually following 4-6 weeks of therapy)",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Kinky hair syndrome",
+      "raw": "Kinky hair syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary hyperphosphatasia",
+      "raw": "Hereditary hyperphosphatasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  bowing deformities, osseous bridging, diaphyseal expansion DDx:"
+}

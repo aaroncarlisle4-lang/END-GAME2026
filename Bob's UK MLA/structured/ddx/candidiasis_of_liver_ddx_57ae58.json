@@ -1,0 +1,42 @@
+{
+  "finding": "Candidiasis Of Liver (DDx)",
+  "slug": "candidiasis_of_liver_ddx_57ae58",
+  "chapter": "Candidiasis Of Liver",
+  "source_file": "processed_clusters/candidiasis_of_liver/candidiasis_of_liver_ddx_57ae58.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastases",
+      "raw": "metastases",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "leukemia",
+      "raw": "leukemia",
+      "frequency": null
+    },
+    {
+      "name": "sarcoidosis",
+      "raw": "sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "septic emboli",
+      "raw": "septic emboli",
+      "frequency": null
+    },
+    {
+      "name": "other infections (MAI",
+      "raw": "other infections (MAI",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"target\" / \"bull's-eye\" sign = multiple small hypoechoic / hypoattenuating masses with centers | hyperintense lesions on T2WI | uniform uptake / focal photopenic areas | diminished 67Ga uptake"
+}

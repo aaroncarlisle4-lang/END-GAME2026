@@ -1,0 +1,27 @@
+{
+  "finding": "Asbestos-Related Disease (DDx)",
+  "slug": "asbestos_related_disease_ddx_2",
+  "chapter": "Asbestos-Related Disease",
+  "source_file": "processed_clusters/asbestos_related_disease/asbestos_related_disease_ddx_2.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pleural thickening from parapneumonic effusion",
+      "raw": "pleural thickening from parapneumonic effusion",
+      "frequency": null
+    },
+    {
+      "name": "hemothorax",
+      "raw": "hemothorax",
+      "frequency": null
+    },
+    {
+      "name": "connective tissue disease",
+      "raw": "connective tissue disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "smooth (difficult to assess when viewed en face) | thickening of interlobar fissures | focally thickened diaphragm | obliterated costophrenic angles (minority of cases)"
+}

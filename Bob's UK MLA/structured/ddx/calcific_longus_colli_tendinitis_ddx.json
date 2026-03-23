@@ -1,0 +1,27 @@
+{
+  "finding": "Calcific Longus Colli Tendinitis (DDx)",
+  "slug": "calcific_longus_colli_tendinitis_ddx",
+  "chapter": "Calcific Longus Colli Tendinitis",
+  "source_file": "processed_clusters/calcific_longus_colli_tendinitis/calcific_longus_colli_tendinitis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "retropharyngeal abscess (similar clinical manifestation",
+      "raw": "retropharyngeal abscess (similar clinical manifestation",
+      "frequency": null
+    },
+    {
+      "name": "enhancing wall)",
+      "raw": "enhancing wall)",
+      "frequency": null
+    },
+    {
+      "name": "suppurative",
+      "raw": "suppurative",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "fluid originating in prevertebral space ± extension to retropharyngeal space: | retropharyngeal space smoothly expanded in all directions from C1 tapering inferiorly to | effusions may involve both lateral atlantoaxial joints | no rimlike enhancement"
+}

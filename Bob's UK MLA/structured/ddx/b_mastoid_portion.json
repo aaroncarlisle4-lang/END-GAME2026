@@ -1,0 +1,67 @@
+{
+  "finding": "B. MASTOID PORTION",
+  "slug": "b_mastoid_portion",
+  "chapter": "TEMPORAL BONE",
+  "source_file": "processed_clusters/temporal_bone/b_mastoid_portion.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mastoid antrum [mastos, Greek = woman's breast; eidos, Greek = form / shape]; [oeides, Greek = like;",
+      "raw": "Mastoid antrum [mastos, Greek = woman's breast; eidos, Greek = form / shape]; [oeides, Greek = like;",
+      "frequency": null
+    },
+    {
+      "name": "Aditus ad antrum connects epitympanum",
+      "raw": "Aditus ad antrum connects epitympanum (= attic) of middle ear cavity to mastoid antrum [ad + ire, Latin = to go to; aditus, Latin = entrance] [tympanum, Latin / tympanon, Greek = drum]",
+      "frequency": null
+    },
+    {
+      "name": "Körner septum =  small bony projection extending inferiorly from roof of mastoid antrum as part of petrosquamosal suture between lateral + medial mastoid air cells posteriorly from epitympanum",
+      "raw": "Körner septum =  small bony projection extending inferiorly from roof of mastoid antrum as part of petrosquamosal suture between lateral + medial mastoid air cells posteriorly from epitympanum",
+      "frequency": null
+    },
+    {
+      "name": "PETROUS PORTION = inner ear",
+      "raw": "PETROUS PORTION = inner ear",
+      "frequency": null
+    },
+    {
+      "name": "Tegmen tympani [tegmina, Latin (pl) = covering structure or roof] =  roof of tympanic cavity",
+      "raw": "Tegmen tympani [tegmina, Latin (pl) = covering structure or roof] =  roof of tympanic cavity",
+      "frequency": null
+    },
+    {
+      "name": "Arcuate eminence =  prominence of bone over superior semicircular canal",
+      "raw": "Arcuate eminence =  prominence of bone over superior semicircular canal",
+      "frequency": null
+    },
+    {
+      "name": "Internal auditory canal",
+      "raw": "Internal auditory canal (IAC)",
+      "frequency": null
+    },
+    {
+      "name": "Vestibular aqueduct",
+      "raw": "Vestibular aqueduct",
+      "frequency": null
+    },
+    {
+      "name": "Cochlear aqueduct",
+      "raw": "Cochlear aqueduct",
+      "frequency": null
+    },
+    {
+      "name": "Otic capsule = densest portion of temporal bone that surrounds osseous labyrinth",
+      "raw": "Otic capsule = densest portion of temporal bone that surrounds osseous labyrinth",
+      "frequency": null
+    },
+    {
+      "name": "Petrous apex =  separated from clivus by petrooccipital fissure + foramen lacerum",
+      "raw": "Petrous apex =  separated from clivus by petrooccipital fissure + foramen lacerum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mastoeides, Greek = resembling a nipple] [antron, Greek / antrum, Latin = cave]"
+}

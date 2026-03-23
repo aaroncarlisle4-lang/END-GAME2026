@@ -1,0 +1,43 @@
+{
+  "finding": "CIRRHOSIS",
+  "slug": "cirrhosis",
+  "chapter": "Navaho, Pima, Chippewa Indians",
+  "source_file": "processed_clusters/navaho_pima_chippewa_indians/cirrhosis.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "TOXIC / CHEMICAL",
+      "raw": "TOXIC / CHEMICAL",
+      "frequency": null
+    },
+    {
+      "name": "Ethanol in 75%",
+      "raw": "Ethanol in 75%",
+      "frequency": "75%"
+    },
+    {
+      "name": "Aflatoxin = product of fungus Aspergillus flavus in improperly stored grain and nuts",
+      "raw": "Aflatoxin = product of fungus Aspergillus flavus in improperly stored grain and nuts",
+      "frequency": null
+    },
+    {
+      "name": "Drug-induced: prolonged methotrexate, oxyphenisatin, alpha-methyldopa, nitrofurantoin, isoniazid",
+      "raw": "Drug-induced: prolonged methotrexate, oxyphenisatin, alpha-methyldopa, nitrofurantoin, isoniazid",
+      "frequency": null
+    },
+    {
+      "name": "Iron overload: hemochromatosis, hemosiderosis",
+      "raw": "Iron overload: hemochromatosis, hemosiderosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "TOXIC / CHEMICAL": [],
+    "Ethanol in 75%": [],
+    "Aflatoxin = product of fungus Aspergillus flavus in improperly stored grain and nuts": [],
+    "Drug-induced: prolonged methotrexate, oxyphenisatin, alpha-methyldopa, nitrofurantoin, isoniazid": [],
+    "Iron overload: hemochromatosis, hemosiderosis": []
+  },
+  "context": "=  chronic liver disease characterized by diffuse parenchymal necrosis, regeneration and scarring with abnormal reconstruction of preexisting lobular architecture Pathophysiology: single insult / repetitive liver injury → hepatocyte death → macromolecules in extracellular matrix → activation of hepatic stellate (collagen-producing) cells by fibrogenic cytokines → nodular regeneration + fibrotic scarring Liver fibrosis:   = excess deposition of collagen, proteoglycans, and other macromolecules in extracellular matrix in response to repetitive liver injury Etiology:"
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "Ribbonlike Small Bowel",
+  "slug": "ribbonlike_small_bowel",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/ribbonlike_small_bowel.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Graft-versus-host disease",
+      "raw": "Graft-versus-host disease",
+      "frequency": null
+    },
+    {
+      "name": "Celiac disease",
+      "raw": "Celiac disease",
+      "frequency": null
+    },
+    {
+      "name": "Small bowel infection: eg, viral enteritis",
+      "raw": "Small bowel infection: eg, viral enteritis",
+      "frequency": null
+    },
+    {
+      "name": "Injury from radiation / corrosive medication",
+      "raw": "Injury from radiation / corrosive medication",
+      "frequency": null
+    },
+    {
+      "name": "Allergy: eg, soybeans",
+      "raw": "Allergy: eg, soybeans",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia",
+      "raw": "Ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid, mastocytosis",
+      "raw": "Amyloid, mastocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma, pseudolymphoma",
+      "raw": "Lymphoma, pseudolymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  featureless / tubular nature of small bowel with effacement of folds"
+}

@@ -1,0 +1,41 @@
+# Disease: EMBRYONIC DEMISE
+
+**Source section:** OBSTETRIC AND GYNECOLOGIC DISORDERS
+
+## Key Facts
+
+- **Frequency:** 20-71% loss rate of one twin < 10 weeks
+
+## Imaging Findings
+
+### General
+
+- on endovaginal scan:
+- absence of cardiac activity with CRL of ≥ 5 mm / ≥ 6.5 weeks GA (repeat scan in 3
+- mean sac diameter of ≥ 16 mm without embryo
+- mean sac size of ≥ 8 mm without yolk sac (repeat scan in 3 days for confirmation)
+- > 1,000 mIU/mL (1st IRP) without gestational sac
+- > 7,200 mIU/mL (1st IRP) without yolk sac
+- > 10,800 mIU/mL (1st IRP) without embryo
+- bradycardia of 80-90 bpm
+- large subchorionic hematoma lifting much of placenta
+- yolk sac > 6 mm / abnormal shape
+- severe bradycardia < 80 bpm
+- small mean gestational sac size
+- mean gestational sac size too small for good clinical dates
+- gestational sac growth ≤ 0.7 mm/day (normal growth rate of daily 1.13 mm determines
+- sac position in lower uterine segment / cervix
+- stringlike / granular debris / fluid-fluid level within gestational sac ← intrasac bleeding
+- on endovaginal scan:
+- wrinkled collapsing amniotic membrane
+- irregular distorted shape of gestational sac
+- absence of double decidual sac = thin weakly hyperechoic / irregular choriodecidual
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

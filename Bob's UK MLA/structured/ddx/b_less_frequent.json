@@ -1,0 +1,55 @@
+{
+  "finding": "B. Less frequent*",
+  "slug": "b_less_frequent",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF OBSTETRIC AND GYNECOLOGIC",
+  "source_file": "processed_clusters/differential_diagnosis_of_obstetric_and_gynecologic/b_less_frequent.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Torsion of ovary",
+      "raw": "Torsion of ovary",
+      "frequency": null
+    },
+    {
+      "name": "Massive ovarian edema",
+      "raw": "Massive ovarian edema",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Degenerating fibroid [Pelvic congestion syndrome]",
+      "raw": "Degenerating fibroid",
+      "frequency": null,
+      "sites": [
+        "Pelvic congestion syndrome"
+      ]
+    },
+    {
+      "name": "Post partum",
+      "raw": "Post partum",
+      "frequency": null
+    },
+    {
+      "name": "Endometritis",
+      "raw": "Endometritis",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian vein thrombosis",
+      "raw": "Ovarian vein thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "β-hCG results influence options",
+      "raw": "β-hCG results influence options",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

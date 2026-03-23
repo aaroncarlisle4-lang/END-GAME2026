@@ -1,0 +1,22 @@
+{
+  "finding": "Synovial Cyst (DDx)",
+  "slug": "synovial_cyst_ddx",
+  "chapter": "Synovial Cyst",
+  "source_file": "processed_clusters/synovial_cyst/synovial_cyst_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fluid distention of paraarticular bursa",
+      "raw": "fluid distention of paraarticular bursa",
+      "frequency": null
+    },
+    {
+      "name": "synovial cyst",
+      "raw": "synovial cyst (differentiation from ganglion cyst radiologically not possible)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "single or multiple nodules / poorly defined infiltrative heterogeneous (92%) mass iso- / | marked contrast enhancement in 64% | ± subcutaneous edema"
+}

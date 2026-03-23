@@ -1,0 +1,27 @@
+{
+  "finding": "Langerhans Cell Histiocytosis — Mastoid process (DDx)",
+  "slug": "langerhans_cell_histiocytosis_mastoid_process_ddx",
+  "chapter": "Langerhans Cell Histiocytosis",
+  "source_file": "processed_clusters/langerhans_cell_histiocytosis/langerhans_cell_histiocytosis_mastoid_process_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "otomastoiditis",
+      "raw": "otomastoiditis",
+      "frequency": null
+    },
+    {
+      "name": "cholesteatoma",
+      "raw": "cholesteatoma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "partially / completely empty sella | threadlike narrowing of infundibulum (< 1 mm) | osseous destruction + soft-tissue mass extending into orbit / temporal fossa / forehead / | destructive lesion near mastoid antrum"
+}

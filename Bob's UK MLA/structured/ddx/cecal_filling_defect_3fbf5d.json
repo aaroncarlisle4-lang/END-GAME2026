@@ -1,0 +1,47 @@
+{
+  "finding": "Cecal Filling Defect",
+  "slug": "cecal_filling_defect_3fbf5d",
+  "chapter": "G. INTUSSUSCEPTION",
+  "source_file": "processed_clusters/g_intussusception/cecal_filling_defect_3fbf5d.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ABNORMALITIES OF THE APPENDIX",
+      "raw": "ABNORMALITIES OF THE APPENDIX",
+      "frequency": null
+    },
+    {
+      "name": "Acute appendicitis / appendiceal abscess",
+      "raw": "Acute appendicitis / appendiceal abscess",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Inverted appendiceal stump / appendiceal intussusception",
+      "raw": "Inverted appendiceal stump / appendiceal intussusception",
+      "frequency": null
+    },
+    {
+      "name": "Mucocele",
+      "raw": "Mucocele",
+      "frequency": null
+    },
+    {
+      "name": "Myxoglobulosis",
+      "raw": "Myxoglobulosis",
+      "frequency": null
+    },
+    {
+      "name": "Appendiceal neoplasm: carcinoid tumor (90%), leiomyoma, neuroma, lipoma, adenocarcinoma, metastasis",
+      "raw": "Appendiceal neoplasm: carcinoid tumor (90%), leiomyoma, neuroma, lipoma, adenocarcinoma, metastasis",
+      "frequency": "90%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,112 @@
+{
+  "finding": "Postpartum Uterus",
+  "slug": "postpartum_uterus_5e7dbe",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/postpartum_uterus_5e7dbe.md",
+  "quality_score": 0.7,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "after childbirth weight of uterus = 1 kg decreasing by 50% during following 24-48 hours √length of uterus: › 20.0 cm after birth › 11.2 cm at 3 weeks › 8.7 cm at 6 weeks",
+      "raw": "after childbirth weight of uterus = 1 kg decreasing by 50% during following 24-48 hours √length of uterus: › 20.0 cm after birth › 11.2 cm at 3 weeks › 8.7 cm at 6 weeks",
+      "frequency": "50%"
+    },
+    {
+      "name": "MENSTRUAL PHASE",
+      "raw": "MENSTRUAL PHASE (usually days 1-4)",
+      "frequency": null
+    },
+    {
+      "name": "PROLIFERATIVE PHASE",
+      "raw": "PROLIFERATIVE PHASE (days 5-13)",
+      "frequency": null
+    },
+    {
+      "name": "LATE PROLIFERATIVE + OVULATORY PHASE",
+      "raw": "LATE PROLIFERATIVE + OVULATORY PHASE (days 13-16)",
+      "frequency": null
+    },
+    {
+      "name": "PERIOVULATORY PHASE (days 8-20) =  uncertain days defined relative to day of ovulation N.B.:   day of luteinizing hormone surge extremely variable = ovulation occurs between day 8 and 20 of menstrual cycle",
+      "raw": "PERIOVULATORY PHASE (days 8-20) =  uncertain days defined relative to day of ovulation N.B.:   day of luteinizing hormone surge extremely variable = ovulation occurs between day 8 and 20 of menstrual cycle",
+      "frequency": null
+    },
+    {
+      "name": "SECRETORY PHASE",
+      "raw": "SECRETORY PHASE (days 16-28)",
+      "frequency": null
+    },
+    {
+      "name": "HORMONAL CONTRACEPTIVES",
+      "raw": "HORMONAL CONTRACEPTIVES",
+      "frequency": null
+    },
+    {
+      "name": "Definition:   amenorrhea for 12 months",
+      "raw": "Definition:   amenorrhea for 12 months",
+      "frequency": null
+    },
+    {
+      "name": "Onset:   51-53",
+      "raw": "Onset:   51-53 (range, 40-60) years (Western countries)",
+      "frequency": null
+    },
+    {
+      "name": "Affected by:   smoking, race, ethnicity, body mass index",
+      "raw": "Affected by:   smoking, race, ethnicity, body mass index",
+      "frequency": null
+    },
+    {
+      "name": "NO HORMONAL REPLACEMENT THERAPY",
+      "raw": "NO HORMONAL REPLACEMENT THERAPY",
+      "frequency": null
+    },
+    {
+      "name": "WITH HORMONE REPLACEMENT THERAPY (a)  cyclic estrogen + progestin therapy",
+      "raw": "WITH HORMONE REPLACEMENT THERAPY (a)  cyclic estrogen + progestin therapy",
+      "frequency": null
+    },
+    {
+      "name": "Rectouterine pouch = cul-de-sac",
+      "raw": "Rectouterine pouch = cul-de-sac",
+      "frequency": null
+    },
+    {
+      "name": "Rectovesical recess ◊  Most dependent portion of pelvis in men!",
+      "raw": "Rectovesical recess ◊  Most dependent portion of pelvis in men!",
+      "frequency": null
+    },
+    {
+      "name": "Vesicouterine recess",
+      "raw": "Vesicouterine recess",
+      "frequency": null
+    },
+    {
+      "name": "Inguinal fossa located between lateral + medial umbilical folds",
+      "raw": "Inguinal fossa located between lateral + medial umbilical folds",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "after childbirth weight of uterus = 1 kg decreasing by 50% during following 24-48 hours √length of uterus: › 20.0 cm after birth › 11.2 cm at 3 weeks › 8.7 cm at 6 weeks": [
+      "Puerperium = period 6-8 weeks after delivery [ puer = Latin, boy + parere , Latin = to bear; puerpera = a woman in childbed] ◊  Timing of uterine involution ›  prolonged in multiparous women ›  foreshortened in preterm delivery ›  not affected by birth weight / breast feeding",
+      "heterogeneous myometrium of higher echogenicity compared to nongravid uterus"
+    ],
+    "MENSTRUAL PHASE": [],
+    "PROLIFERATIVE PHASE": [],
+    "LATE PROLIFERATIVE + OVULATORY PHASE": [],
+    "PERIOVULATORY PHASE (days 8-20) =  uncertain days defined relative to day of ovulation N.B.:   day of luteinizing hormone surge extremely variable = ovulation occurs between day 8 and 20 of menstrual cycle": [],
+    "SECRETORY PHASE": [],
+    "HORMONAL CONTRACEPTIVES": [],
+    "Definition:   amenorrhea for 12 months": [],
+    "Onset:   51-53": [],
+    "Affected by:   smoking, race, ethnicity, body mass index": [],
+    "NO HORMONAL REPLACEMENT THERAPY": [],
+    "WITH HORMONE REPLACEMENT THERAPY (a)  cyclic estrogen + progestin therapy": [],
+    "Rectouterine pouch = cul-de-sac": [],
+    "Rectovesical recess ◊  Most dependent portion of pelvis in men!": [],
+    "Vesicouterine recess": [],
+    "Inguinal fossa located between lateral + medial umbilical folds": []
+  },
+  "context": "Puerperium = period 6-8 weeks after delivery [ puer = Latin, boy + parere , Latin = to bear; puerpera = a woman in childbed] ◊  Timing of uterine involution ›  prolonged in multiparous women ›  foreshortened in preterm delivery ›  not affected by birth weight / breast feeding √  heterogeneous myometrium of higher echogenicity compared to nongravid uterus √  increased diffuse / focal myometrial vascularity at site of placental insertion Endometrium by US Measurements refer to ›  AP diameter of both apposed endometrial layers (= bilayer thickness) excluding intrauterine fluid ›  the level of the"
+}

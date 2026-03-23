@@ -1,0 +1,52 @@
+{
+  "finding": "Diffuse Peritoneal Masses in Children",
+  "slug": "diffuse_peritoneal_masses_in_children",
+  "chapter": "PERITONEUM",
+  "source_file": "processed_clusters/peritoneum/diffuse_peritoneal_masses_in_children.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Desmoplastic small round cell tumor",
+      "raw": "Desmoplastic small round cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic germ cell tumor",
+      "raw": "Metastatic germ cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Gliomatosis peritonei",
+      "raw": "Gliomatosis peritonei",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic retroperitoneal tumor:",
+      "raw": "Metastatic retroperitoneal tumor:",
+      "frequency": null
+    },
+    {
+      "name": "Malignant mesothelioma",
+      "raw": "Malignant mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal carcinomatosis",
+      "raw": "Peritoneal carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal seeding of intracranial tumors through ventriculoperitoneal shunt",
+      "raw": "Peritoneal seeding of intracranial tumors through ventriculoperitoneal shunt",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  Neuroblastoma (b)  Wilms tumor"
+}

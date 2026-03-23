@@ -1,0 +1,41 @@
+{
+  "name": "IDIOPATHIC SPINAL CORD HERNIATION",
+  "slug": "idiopathic_spinal_cord_herniation",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/idiopathic_spinal_cord_herniation.md",
+  "definition": "spinal cord displacement through anterior / lateral dura mater defect → uncommon cause of",
+  "demographics": {
+    "Mean age": "51 (range, 21-78) years; M÷F = 2÷3"
+  },
+  "dominant_finding": "obliteration of CSF space ventral to cord",
+  "distribution": "acute anterior kink of thoracic spinal cord with enlargement of dorsal subarachnoid space",
+  "discriminating_features": [
+    "variable degree of cord deformity / kinking:",
+    "acute anterior kink of thoracic spinal cord with enlargement of dorsal subarachnoid space",
+    "free flow of contrast material (cannot completely exclude space-occupying lesion as in",
+    "\"nuclear trail\" sign = linear high-attenuation lesion in inferior endplate of adjacent vertebra",
+    "soft tissue extending from apex of cord displacement through dural defect into epidural"
+  ],
+  "other_features": {
+    "general": [
+      "variable degree of cord deformity / kinking:",
+      "acute anterior kink of thoracic spinal cord with enlargement of dorsal subarachnoid space",
+      "free flow of contrast material (cannot completely exclude space-occupying lesion as in",
+      "\"nuclear trail\" sign = linear high-attenuation lesion in inferior endplate of adjacent vertebra",
+      "soft tissue extending from apex of cord displacement through dural defect into epidural",
+      "± concomitant scalloping of vertebral body"
+    ],
+    "MR": [
+      "obliteration of CSF space ventral to cord",
+      "widened dorsal CSF space",
+      "absence of solid / cystic mass posterior to cord",
+      "small amount of extradural soft tissue extending from ventral apex of displaced cord into",
+      "NO enhancement",
+      "± cord atrophy and high T2 signal intensity"
+    ]
+  },
+  "clinical": {
+    "N.B.": "arachnoid cyst must be excluded!",
+    "Rx": "postoperatively improved neurologic symptoms (88%)"
+  }
+}

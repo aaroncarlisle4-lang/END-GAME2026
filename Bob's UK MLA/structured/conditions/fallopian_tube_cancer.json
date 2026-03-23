@@ -1,0 +1,34 @@
+{
+  "name": "FALLOPIAN TUBE CANCER",
+  "slug": "fallopian_tube_cancer",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/fallopian_tube_cancer.md",
+  "definition": "PRIMARY FALLOPIAN TUBE CARCINOMA",
+  "demographics": {
+    "Prevalence": "3.72÷1,000,000 women (likely underestimated); 0.9-17% of prophylactic",
+    "Age": "6th-7th decade",
+    "Path": "tumor produces large amount of serous secretions → painful distension of fallopian tube",
+    "Histo": "papillary serous carcinoma (most common)",
+    "Location": "ampulla of tube; bilateral in 20%"
+  },
+  "dominant_finding": "multilocular cystic mass with spoke-wheel appearance",
+  "distribution": "ampulla of tube; bilateral in 20%",
+  "discriminating_features": [
+    "fluid-filled tubular adnexal structure containing nodular / papillary solid components",
+    "multilocular cystic mass with spoke-wheel appearance",
+    "contrast enhancement of solid component",
+    "intrauterine fluid collection, peritumoral ascites",
+    "low vascular impedance (= resistive index of 0.29-0.40) in solid component on Doppler"
+  ],
+  "other_features": {
+    "general": [
+      "fluid-filled tubular adnexal structure containing nodular / papillary solid components",
+      "multilocular cystic mass with spoke-wheel appearance",
+      "contrast enhancement of solid component",
+      "intrauterine fluid collection, peritumoral ascites",
+      "low vascular impedance (= resistive index of 0.29-0.40) in solid component on Doppler",
+      "increased adnexal metabolic activity on PET"
+    ]
+  },
+  "clinical": {}
+}

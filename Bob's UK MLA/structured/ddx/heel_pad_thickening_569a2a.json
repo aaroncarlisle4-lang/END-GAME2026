@@ -1,0 +1,40 @@
+{
+  "finding": "Heel Pad Thickening",
+  "slug": "heel_pad_thickening_569a2a",
+  "chapter": "FOOT",
+  "source_file": "processed_clusters/foot/heel_pad_thickening_569a2a.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myxedema",
+      "raw": "Myxedema",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Dilantin therapy",
+      "raw": "Dilantin therapy",
+      "frequency": null
+    },
+    {
+      "name": "Callus",
+      "raw": "Callus",
+      "frequency": null
+    },
+    {
+      "name": "Obesity [Peripheral edema]",
+      "raw": "Obesity",
+      "frequency": null,
+      "sites": [
+        "Peripheral edema"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "=  heel pad thickening > 25 mm (normal < 21 mm)"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Intravertebral Gas",
+  "slug": "intravertebral_gas_c758ef",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/intravertebral_gas_c758ef.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Schmorl node = accumulation of gas from fissuring intravertebral disk",
+      "raw": "Schmorl node = accumulation of gas from fissuring intravertebral disk",
+      "frequency": null
+    },
+    {
+      "name": "Limbus vertebrae",
+      "raw": "Limbus vertebrae",
+      "frequency": null
+    },
+    {
+      "name": "Pneumatocyst",
+      "raw": "Pneumatocyst",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "Intravertebral vacuum cleft",
+      "raw": "Intravertebral vacuum cleft",
+      "frequency": null
+    },
+    {
+      "name": "Intraspinal gaseous cyst (a)  gas-containing intraspinal disk herniation (b)  gas expulsion through rent in annulus fibrosus",
+      "raw": "Intraspinal gaseous cyst (a)  gas-containing intraspinal disk herniation (b)  gas expulsion through rent in annulus fibrosus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause: √  rounded intravertebral gas with sclerotic rim √  intradiskal gas extends into vertebral cleft beneath superior / inferior ring apophysis Incidence:   9% (on CT) Location:   iliac bone, sacrum, humeral head, clavicle √  cystlike lesion of gas attenuation ± sclerotic rim ± communication with adjacent joint √  erosive defect in osteocartilaginous endplates → direct extension of gas into vertebra"
+}

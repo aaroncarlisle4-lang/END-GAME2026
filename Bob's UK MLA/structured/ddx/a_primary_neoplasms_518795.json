@@ -1,0 +1,32 @@
+{
+  "finding": "A. PRIMARY NEOPLASMS",
+  "slug": "a_primary_neoplasms_518795",
+  "chapter": "C. INFILTRATIVE PROCESS",
+  "source_file": "processed_clusters/c_infiltrative_process/a_primary_neoplasms_518795.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Leiomyoma, leiomyosarcoma",
+      "raw": "Leiomyoma, leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Primary carcinoma",
+      "raw": "Primary carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

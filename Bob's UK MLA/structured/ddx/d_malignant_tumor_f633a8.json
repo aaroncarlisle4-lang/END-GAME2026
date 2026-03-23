@@ -1,0 +1,42 @@
+{
+  "finding": "D. MALIGNANT TUMOR",
+  "slug": "d_malignant_tumor_f633a8",
+  "chapter": "E. MISCELLANEOUS",
+  "source_file": "processed_clusters/e_miscellaneous/d_malignant_tumor_f633a8.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "often long history of chronic suppurative otitis media = \"malignant otitis\"",
+      "raw": "often long history of chronic suppurative otitis media = \"malignant otitis\"",
+      "frequency": null
+    },
+    {
+      "name": "Basal cell carcinoma",
+      "raw": "Basal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma, adenocarcinoma, adenoid cystic carcinoma",
+      "raw": "Melanoma, adenocarcinoma, adenoid cystic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases (a)  hematogenous: breast, prostate, lung, kidney, thyroid (b)  direct spread: skin, parotid, nasopharynx, brain, meninges",
+      "raw": "Metastases (a)  hematogenous: breast, prostate, lung, kidney, thyroid (b)  direct spread: skin, parotid, nasopharynx, brain, meninges",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytosis X: in 15% of patients",
+      "raw": "Histiocytosis X: in 15% of patients",
+      "frequency": "15%"
+    }
+  ],
+  "criteria": {},
+  "context": "(c)  systemic: leukemia, lymphoma, myeloma"
+}

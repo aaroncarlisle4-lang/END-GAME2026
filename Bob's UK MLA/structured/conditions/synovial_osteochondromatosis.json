@@ -1,0 +1,47 @@
+{
+  "name": "SYNOVIAL OSTEOCHONDROMATOSIS",
+  "slug": "synovial_osteochondromatosis",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/synovial_osteochondromatosis.md",
+  "definition": "SYNOVIAL CHONDROMATOSIS = JOINT CHONDROMA benign self-limiting monoarticular disorder characterized by proliferation + metaplastic joint surface disintegration",
+  "demographics": {
+    "Histo": "foci of hyaline cartilage with mineralized chondroid matrix beneath synovial surface",
+    "Age": "3rd-5th decade; M÷F = 2÷1 - 4÷1"
+  },
+  "dominant_finding": "multiple calcified / ossified intraarticular bodies",
+  "distribution": "peripheral contrast enhancement of chondral lesions",
+  "discriminating_features": [
+    "pathognomonic multiple calcified / ossified loose bodies in a single joint (bony shell of",
+    "characteristically uniform size of nodules that may vary between a few mm and several cm",
+    "varying degrees of bone mineralization (25-30% of chondromas show no radiopacity)",
+    "marginal pressure erosion of adjacent bone in joints with tight capsule (eg, hip)",
+    "widening of joint space (from accumulation of loose bodies)"
+  ],
+  "other_features": {
+    "general": [
+      "pathognomonic multiple calcified / ossified loose bodies in a single joint (bony shell of",
+      "varying degrees of bone mineralization (25-30% of chondromas show no radiopacity)",
+      "characteristically uniform size of nodules that may vary between a few mm and several cm",
+      "marginal pressure erosion of adjacent bone in joints with tight capsule (eg, hip)",
+      "widening of joint space (from accumulation of loose bodies)",
+      "joint effusion uncommon",
+      "NO osteoporosis"
+    ],
+    "CT": [
+      "multiple calcified / ossified intraarticular bodies",
+      "intraarticular soft-tissue mass of near-water attenuation containing multiple small"
+    ],
+    "MR": [
+      "homogeneous lobulated intraarticular mass isointense to muscle on T1WI + hyperintense",
+      "osteochondral bodies:",
+      "multiple foci of low signal intensity ← calcifications",
+      "peripheral contrast enhancement of chondral lesions",
+      "intraarticular bodies with central area of high SI on T1WI = with fatty marrow",
+      "intraarticular bodies tend to be larger, less numerous, more varied in size compared to",
+      "prominent osteoarthritis"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical synovectomy with removal of loose bodies (recurrence is common)"
+  }
+}

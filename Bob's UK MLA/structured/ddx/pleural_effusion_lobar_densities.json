@@ -1,0 +1,57 @@
+{
+  "finding": "Pleural Effusion & Lobar Densities",
+  "slug": "pleural_effusion_lobar_densities",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/pleural_effusion_lobar_densities.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pneumonia with empyema",
+      "raw": "Pneumonia with empyema",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary embolism",
+      "raw": "Pulmonary embolism",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm: bronchogenic carcinoma > lymphoma",
+      "raw": "Neoplasm: bronchogenic carcinoma > lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "massive hemothorax = blood exceeding 1 L + clinical signs of shock and hypoperfusion",
+      "raw": "massive hemothorax = blood exceeding 1 L + clinical signs of shock and hypoperfusion",
+      "frequency": null
+    },
+    {
+      "name": "TRAUMA (a)  thoracic injury",
+      "raw": "TRAUMA (a)  thoracic injury",
+      "frequency": null
+    },
+    {
+      "name": "Closed / penetrating injury to lung, chest wall, heart, great vessels",
+      "raw": "Closed / penetrating injury to lung, chest wall, heart, great vessels",
+      "frequency": null
+    },
+    {
+      "name": "Surgery",
+      "raw": "Surgery",
+      "frequency": null
+    },
+    {
+      "name": "Interventional procedures: thoracentesis, pleural biopsy, catheter placement (b)  abdominal injury with diaphragmatic rupture: trauma to liver / spleen",
+      "raw": "Interventional procedures: thoracentesis, pleural biopsy, catheter placement (b)  abdominal injury with diaphragmatic rupture: trauma to liver / spleen",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Hemothorax =  blood in pleural space √  rapidly enlarging pleural effusion of 35-70 HU attenuation √  heterogeneous attenuation √  hyperattenuating areas of debris √  fluid-hematocrit level"
+}

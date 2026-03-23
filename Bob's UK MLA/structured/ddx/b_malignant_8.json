@@ -1,0 +1,47 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_8",
+  "chapter": "Average age: 4th decade; M > F",
+  "source_file": "processed_clusters/average_age_4th_decade_m_f/b_malignant_8.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid cyst, Hemangioma",
+      "raw": "Hydatid cyst, Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Osteoblastoma, Osteoid osteoma",
+      "raw": "Osteoblastoma, Osteoid osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

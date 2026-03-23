@@ -1,0 +1,22 @@
+{
+  "finding": "Chronic Sialadenitis (DDx)",
+  "slug": "chronic_sialadenitis_ddx",
+  "chapter": "Chronic Sialadenitis",
+  "source_file": "processed_clusters/chronic_sialadenitis/chronic_sialadenitis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "acute Sjögren syndrome",
+      "raw": "acute Sjögren syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multiple small hypoechoic foci scattered on a heterogeneous background of salivary | homogeneous attenuation | low to intermediate SI on T2WI | intermediate SI on T1WI + homogeneous enhancement"
+}

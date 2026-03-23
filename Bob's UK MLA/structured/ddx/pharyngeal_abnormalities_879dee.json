@@ -1,0 +1,87 @@
+{
+  "finding": "Pharyngeal Abnormalities",
+  "slug": "pharyngeal_abnormalities_879dee",
+  "chapter": "PHARYNX",
+  "source_file": "processed_clusters/pharynx/pharyngeal_abnormalities_879dee.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NONMALIGNANT (a)  congenital",
+      "raw": "NONMALIGNANT (a)  congenital",
+      "frequency": null
+    },
+    {
+      "name": "Branchial arch anomaly",
+      "raw": "Branchial arch anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Laryngeal cleft",
+      "raw": "Laryngeal cleft",
+      "frequency": null
+    },
+    {
+      "name": "Laryngeal cyst",
+      "raw": "Laryngeal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Tracheoesophageal fistula (b)  acquired",
+      "raw": "Tracheoesophageal fistula (b)  acquired",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body ingestion",
+      "raw": "Foreign body ingestion",
+      "frequency": null
+    },
+    {
+      "name": "Perforation",
+      "raw": "Perforation",
+      "frequency": null
+    },
+    {
+      "name": "Laryngocele",
+      "raw": "Laryngocele",
+      "frequency": null
+    },
+    {
+      "name": "Zenker diverticulum",
+      "raw": "Zenker diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Killian-Jamieson diverticulum (c)  infection / inflammation:",
+      "raw": "Killian-Jamieson diverticulum (c)  infection / inflammation:",
+      "frequency": null
+    },
+    {
+      "name": "Epiglottitis, pharyngitis",
+      "raw": "Epiglottitis, pharyngitis",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease: tuberculosis, sarcoidosis",
+      "raw": "Granulomatous disease: tuberculosis, sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Irradiation",
+      "raw": "Irradiation",
+      "frequency": null
+    },
+    {
+      "name": "MALIGNANT ◊  Squamous cell carcinoma in 90%!",
+      "raw": "MALIGNANT ◊  Squamous cell carcinoma in 90%!",
+      "frequency": "90%"
+    }
+  ],
+  "criteria": {},
+  "context": "@   Oropharynx Location:   tonsils (75-80%) > tongue base > valleculae > pharyngeal wall cancer @   Larynx Location:   glottic > supraglottic > subglottic cancer @   Hypopharynx Location:   piriform sinus > postcricoid > posterior pharyngeal wall cancer"
+}

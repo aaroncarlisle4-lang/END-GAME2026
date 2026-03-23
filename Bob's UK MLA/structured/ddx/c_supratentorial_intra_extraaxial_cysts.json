@@ -1,0 +1,42 @@
+{
+  "finding": "C. SUPRATENTORIAL INTRA- / EXTRAAXIAL CYSTS",
+  "slug": "c_supratentorial_intra_extraaxial_cysts",
+  "chapter": "B. NEUROVASCULAR",
+  "source_file": "processed_clusters/b_neurovascular/c_supratentorial_intra_extraaxial_cysts.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Schizencephaly",
+      "raw": "Schizencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Ventriculomegaly: hydrocephalus, brain atrophy",
+      "raw": "Ventriculomegaly: hydrocephalus, brain atrophy",
+      "frequency": null
+    },
+    {
+      "name": "Holoprosencephaly",
+      "raw": "Holoprosencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Supratentorial arachnoid cyst",
+      "raw": "Supratentorial arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous intracranial hematoma",
+      "raw": "Spontaneous intracranial hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Brain abscess",
+      "raw": "Brain abscess (uncommon)",
+      "frequency": "uncommon"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

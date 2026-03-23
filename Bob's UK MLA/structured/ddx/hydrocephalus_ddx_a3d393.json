@@ -1,0 +1,22 @@
+{
+  "finding": "Hydrocephalus (DDx)",
+  "slug": "hydrocephalus_ddx_a3d393",
+  "chapter": "Hydrocephalus",
+  "source_file": "processed_clusters/hydrocephalus/hydrocephalus_ddx_a3d393.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "osteoporotic sella (aging",
+      "raw": "osteoporotic sella (aging",
+      "frequency": null
+    },
+    {
+      "name": "excessive steroid hormone)",
+      "raw": "excessive steroid hormone)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "shortening of the dorsum sellae producing pointed appearance | erosion / thinning / discontinuity of floor of sella | depression of floor of sella with bulging into sphenoid sinus | enlargement of sella turcica"
+}

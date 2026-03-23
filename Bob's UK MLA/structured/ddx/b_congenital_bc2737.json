@@ -1,0 +1,40 @@
+{
+  "finding": "B. CONGENITAL",
+  "slug": "b_congenital_bc2737",
+  "chapter": "B. SMOOTH MUSCLE DYSFUNCTION",
+  "source_file": "processed_clusters/b_smooth_muscle_dysfunction/b_congenital_bc2737.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic vesicoureteral reflux [Posterior urethral valves]",
+      "raw": "Chronic vesicoureteral reflux",
+      "frequency": null,
+      "sites": [
+        "Posterior urethral valves"
+      ]
+    },
+    {
+      "name": "Megaloureter",
+      "raw": "Megaloureter",
+      "frequency": null
+    },
+    {
+      "name": "Prune-belly syndrome",
+      "raw": "Prune-belly syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic ureter",
+      "raw": "Ectopic ureter",
+      "frequency": null
+    },
+    {
+      "name": "Ureterocele",
+      "raw": "Ureterocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

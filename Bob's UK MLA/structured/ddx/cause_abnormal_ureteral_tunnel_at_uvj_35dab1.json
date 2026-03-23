@@ -1,0 +1,30 @@
+{
+  "finding": "Cause: abnormal ureteral tunnel at UVJ",
+  "slug": "cause_abnormal_ureteral_tunnel_at_uvj_35dab1",
+  "chapter": "D. COMPRESSION",
+  "source_file": "processed_clusters/d_compression/cause_abnormal_ureteral_tunnel_at_uvj_35dab1.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Prune belly syndrome (b)  secondary vesicoureteral reflux",
+      "raw": "Prune belly syndrome (b)  secondary vesicoureteral reflux",
+      "frequency": null
+    },
+    {
+      "name": "Hypertonic neurogenic bladder",
+      "raw": "Hypertonic neurogenic bladder",
+      "frequency": null
+    },
+    {
+      "name": "Bladder outlet obstruction [Posterior urethral valves]",
+      "raw": "Bladder outlet obstruction",
+      "frequency": null,
+      "sites": [
+        "Posterior urethral valves"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

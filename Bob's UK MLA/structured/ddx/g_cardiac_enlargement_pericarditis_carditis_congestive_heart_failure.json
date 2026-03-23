@@ -1,0 +1,33 @@
+{
+  "finding": "G. CARDIAC ENLARGEMENT (pericarditis + carditis / congestive heart failure",
+  "slug": "g_cardiac_enlargement_pericarditis_carditis_congestive_heart_failure",
+  "chapter": "RHEUMATOID LUNG",
+  "source_file": "processed_clusters/rheumatoid_lung/g_cardiac_enlargement_pericarditis_carditis_congestive_heart_failure.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "BONE ABNORMALITIES ON CXR",
+      "raw": "BONE ABNORMALITIES ON CXR",
+      "frequency": null
+    },
+    {
+      "name": "foreign body sensation, soreness / fullness in throat, hoarseness, dyspnea, pain radiating into ears, stridor, dysphagia, odynophagia, pain with speech",
+      "raw": "foreign body sensation, soreness / fullness in throat, hoarseness, dyspnea, pain radiating into ears, stridor, dysphagia, odynophagia, pain with speech",
+      "frequency": null
+    },
+    {
+      "name": "DRUG-INDUCED LUNG DISEASE",
+      "raw": "DRUG-INDUCED LUNG DISEASE",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "BONE ABNORMALITIES ON CXR": [],
+    "foreign body sensation, soreness / fullness in throat, hoarseness, dyspnea, pain radiating into ears, stridor, dysphagia, odynophagia, pain with speech": [
+      "vertebral body collapse ← steroid use"
+    ],
+    "DRUG-INDUCED LUNG DISEASE": []
+  },
+  "context": "√  erosive arthritis of acromioclavicular joint, sternoclavicular joint, shoulder joint: √  resorption of distal end of clavicles √  ankylosis of vertebral facet joints √  vertebral body collapse ← steroid use √  cricoarytenoid arthritis (frequently overlooked!) Gold, penicillamine:   diffuse alveolar damage, obliterative bronchiolitis Methotrexate:   pneumonitis"
+}

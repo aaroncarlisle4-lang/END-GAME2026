@@ -1,0 +1,32 @@
+{
+  "finding": "Fracture of Upper Thoracic Spine (T1 to T10",
+  "slug": "fracture_of_upper_thoracic_spine_t1_to_t10_164a1f",
+  "chapter": "Ossicular Injury",
+  "source_file": "processed_clusters/ossicular_injury/fracture_of_upper_thoracic_spine_t1_to_t10_164a1f.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Compression / axial loading fracture",
+      "raw": "Compression / axial loading fracture (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Burst fracture",
+      "raw": "Burst fracture (more severe compression fracture)",
+      "frequency": null
+    },
+    {
+      "name": "Sagittal slice fracture",
+      "raw": "Sagittal slice fracture",
+      "frequency": null
+    },
+    {
+      "name": "Anterior / posterior dislocation",
+      "raw": "Anterior / posterior dislocation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   in 3% of all blunt chest trauma Types: √  wedging of vertebral body √  retropulsion of bone fragments √  posttraumatic disk herniation √  associated fracture of posterior neural arch √  comminuted retropulsed bone fragments √  vertebra above telescopes into vertebra below, displacing it laterally √  torn anterior / posterior longitudinal ligament √  facet dislocation ◊  Relatively stable fractures due to rib cage + strong costovertebral ligaments + more horizontal orientation of facet joints! ◊  Only 51% detected on initial CXR! Often associated with:   fracture of sternum √  wide"
+}

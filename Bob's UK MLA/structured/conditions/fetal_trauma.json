@@ -1,0 +1,22 @@
+{
+  "name": "FETAL TRAUMA",
+  "slug": "fetal_trauma",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/fetal_trauma.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "7% of pregnant patients sustain accidental injury (greatest frequency during 3rd"
+  },
+  "dominant_finding": "evaluate fetal motion, breathing, heart rate, placenta",
+  "distribution": "",
+  "discriminating_features": [
+    "evaluate fetal motion, breathing, heart rate, placenta"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "evaluate fetal motion, breathing, heart rate, placenta"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "Extranodal Involvement in Lymphoma (NHL",
+  "slug": "extranodal_involvement_in_lymphoma_nhl",
+  "chapter": "HARD-METAL PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/extranodal_involvement_in_lymphoma_nhl.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "FOCAL / MULTIFOCAL SOLID ORGAN DISEASE",
+      "raw": "FOCAL / MULTIFOCAL SOLID ORGAN DISEASE",
+      "frequency": null
+    },
+    {
+      "name": "DIFFUSE SOLID ORGAN DISEASE",
+      "raw": "DIFFUSE SOLID ORGAN DISEASE",
+      "frequency": null
+    },
+    {
+      "name": "cranial nerve palsy / spinal cord compression @  Head and neck",
+      "raw": "cranial nerve palsy / spinal cord compression @  Head and neck (1.7%) @  Breast (1.2%)",
+      "frequency": "1.7%"
+    },
+    {
+      "name": "chest pain, back pain, cough, dyspnea, fever",
+      "raw": "chest pain, back pain, cough, dyspnea, fever",
+      "frequency": null
+    },
+    {
+      "name": "anorexia, weight loss, ± peripheral blood involvement",
+      "raw": "anorexia, weight loss, ± peripheral blood involvement",
+      "frequency": null
+    },
+    {
+      "name": "bone marrow involvement:",
+      "raw": "bone marrow involvement:",
+      "frequency": null
+    },
+    {
+      "name": "Hodgkin disease",
+      "raw": "Hodgkin disease (contiguous spread, nodes are site of origin)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Sites other than:   nodal (see below) Frequency:   NHL (in 20-40%); Hodgkin disease (4-5%) CT: √  discrete round well-defined homogeneous solid nodules in focal / multifocal disease √  ± heterogeneous appearance ← central necrosis √  mild uniform contrast enhancement US: √  homogeneously hypoechoic nodules resembling cysts √  ± bull's-eye appearance √  absence of posterior acoustic enhancement MR: √  nodules of low to intermediate SI on T1WI + moderately high SI on T2WI √  moderate uniform contrast enhancement DDx:   metastases, primary cancer, infection, granulomatous disease CT / MR: √  NO s"
+}

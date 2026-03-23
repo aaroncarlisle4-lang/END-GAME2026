@@ -1,0 +1,25 @@
+{
+  "name": "CONGENITAL HEART DISEASE",
+  "slug": "congenital_heart_disease",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_cardiovascular_disorders/congenital_heart_disease.md",
+  "definition": "congenital absence of thymus + parathyroid glands MONGOLISM = TRISOMY 21 UPPER LIMB-CARDIAC SYNDROME ARACHNODACTYLY OVARIAN DYSGENESIS IDIOPATHIC HYPERCALCEMIA",
+  "demographics": {
+    "Incidence": "0.02%"
+  },
+  "dominant_finding": "single atrium",
+  "distribution": "",
+  "discriminating_features": [
+    "single atrium",
+    "complex cardiac anomalies"
+  ],
+  "other_features": {
+    "general": [
+      "single atrium",
+      "complex cardiac anomalies"
+    ]
+  },
+  "clinical": {
+    "Cx": "early aortic stenosis, aneurysmal dilatation of ascending aorta"
+  }
+}

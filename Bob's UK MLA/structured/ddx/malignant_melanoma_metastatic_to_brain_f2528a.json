@@ -1,0 +1,32 @@
+{
+  "finding": "Malignant Melanoma Metastatic to Brain",
+  "slug": "malignant_melanoma_metastatic_to_brain_f2528a",
+  "chapter": "METACHROMATIC LEUKODYSTROPHY",
+  "source_file": "processed_clusters/metachromatic_leukodystrophy/malignant_melanoma_metastatic_to_brain_f2528a.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "variable degree of pigmentation",
+      "raw": "variable degree of pigmentation",
+      "frequency": null
+    },
+    {
+      "name": "Melanotic pattern",
+      "raw": "Melanotic pattern (in 24-54%)",
+      "frequency": "54%"
+    },
+    {
+      "name": "Amelanotic pattern (38%) ◊  Pattern similar to other brain neoplasm",
+      "raw": "Amelanotic pattern (38%) ◊  Pattern similar to other brain neoplasm",
+      "frequency": "38%"
+    },
+    {
+      "name": "Other patterns",
+      "raw": "Other patterns",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   39% at autopsy Location:   cerebrum > cerebellum; usually multiple lesions √  tendency for hemorrhage √  paramagnetic property of melanin → T1-shortening effect: √  hyperintense relative to cortex on T1WI √  iso- / hypointense relative to cortex on T2WI Cause:   free radicals in melanin + blood products ◊  NO clear consensus on contribution of paramagnetic effect of blood products versus melanin! √  hypo- / isointense on T1WI √  hyper- / isointense on T2WI √  isointense on T1WI √  hyperintense on T2WI Prognosis:  median survival of 113 days after discovery DDx:  primary malignant"
+}

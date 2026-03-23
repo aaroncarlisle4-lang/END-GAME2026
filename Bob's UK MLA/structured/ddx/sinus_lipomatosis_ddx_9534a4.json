@@ -1,0 +1,32 @@
+{
+  "finding": "Sinus Lipomatosis (DDx)",
+  "slug": "sinus_lipomatosis_ddx_9534a4",
+  "chapter": "Sinus Lipomatosis",
+  "source_file": "processed_clusters/sinus_lipomatosis/sinus_lipomatosis_ddx_9534a4.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "xanthogranulomatous pyelonephritis",
+      "raw": "xanthogranulomatous pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "lipoma",
+      "raw": "lipoma",
+      "frequency": null
+    },
+    {
+      "name": "angiomyolipoma",
+      "raw": "angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "liposarcoma (focal",
+      "raw": "liposarcoma (focal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "kidney enlarged by a fatty sinus mass and outlined by an extremely thin cortex: | fat characteristically distributed within renal sinus + perinephric space | staghorn calculus inside an enlarged renal outline | poorly functioning / nonfunctioning kidney"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "SUBDURAL HYGROMA",
+  "slug": "subdural_hygroma",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/subdural_hygroma.md",
+  "definition": "TRAUMATIC SUBDURAL EFFUSION localized CSF-fluid collection within subdural space",
+  "demographics": {
+    "Age": "most often in elderly + young children"
+  },
+  "dominant_finding": "isointense to CSF / hyperintense to CSF on T1WI (← increased protein content)",
+  "distribution": "",
+  "discriminating_features": [
+    "radiolucent crescent-shaped collection (as in acute subdural hematoma) of CSF density",
+    "NO evidence of blood products (DDx to subdural hematoma)",
+    "isointense to CSF / hyperintense to CSF on T1WI (← increased protein content)"
+  ],
+  "other_features": {
+    "general": [
+      "radiolucent crescent-shaped collection (as in acute subdural hematoma) of CSF density",
+      "NO evidence of blood products (DDx to subdural hematoma)"
+    ],
+    "MR": [
+      "isointense to CSF / hyperintense to CSF on T1WI (← increased protein content)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "often spontaneous resorption; may develop into a chronic subdural hematoma"
+  }
+}

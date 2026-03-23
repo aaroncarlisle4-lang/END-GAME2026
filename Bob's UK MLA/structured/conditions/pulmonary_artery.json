@@ -1,0 +1,25 @@
+{
+  "name": "PULMONARY ARTERY",
+  "slug": "pulmonary_artery",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_cardiovascular_disorders/pulmonary_artery.md",
+  "definition": "systemic pulmonary supply via aortic branches",
+  "demographics": {},
+  "dominant_finding": "diminished flow on left side (hypoplastic / stenotic pulmonary artery in 40%)",
+  "distribution": "",
+  "discriminating_features": [
+    "diminished flow on left side (hypoplastic / stenotic pulmonary artery in 40%)",
+    "diminished / increased blood flow to either lung",
+    "increased flow to left lung ← jet phenomenon",
+    "poststenotic dilatation of trunk + left pulmonary artery"
+  ],
+  "other_features": {
+    "general": [
+      "diminished flow on left side (hypoplastic / stenotic pulmonary artery in 40%)",
+      "diminished / increased blood flow to either lung",
+      "increased flow to left lung ← jet phenomenon",
+      "poststenotic dilatation of trunk + left pulmonary artery"
+    ]
+  },
+  "clinical": {}
+}

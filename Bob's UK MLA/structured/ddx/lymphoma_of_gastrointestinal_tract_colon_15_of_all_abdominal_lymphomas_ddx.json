@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoma Of Gastrointestinal Tract — Colon (1.5% of all abdominal lymphomas) (DDx)",
+  "slug": "lymphoma_of_gastrointestinal_tract_colon_15_of_all_abdominal_lymphomas_ddx",
+  "chapter": "Lymphoma Of Gastrointestinal Tract",
+  "source_file": "processed_clusters/lymphoma_of_gastrointestinal_tract/lymphoma_of_gastrointestinal_tract_colon_15_of_all_abdominal_lymphomas_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "neutropenic colitis (contiguous involvement of cecum + ascending colon",
+      "raw": "neutropenic colitis (contiguous involvement of cecum + ascending colon",
+      "frequency": null
+    },
+    {
+      "name": "mural stratification of affected segment)",
+      "raw": "mural stratification of affected segment)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "annular mass ± ulceration | paradoxical dilatation ← submucosal lymphoid infiltration weakens muscularis propria | slight enhancement | massive often absent regional + distant mesenteric + retroperitoneal adenopathy"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "IDIOPATHIC INTRACRANIAL HYPERTENSION",
+  "slug": "idiopathic_intracranial_hypertension",
+  "chapter": "HEAD TRAUMA",
+  "source_file": "processed_clusters/disease_entries/head_trauma/idiopathic_intracranial_hypertension.md",
+  "definition": "PSEUDOTUMOR CEREBRI = BENIGN INTRACRANIAL HYPERTENSION (BIH)",
+  "demographics": {},
+  "dominant_finding": "normal ventricular size / pinched ventricles",
+  "distribution": "",
+  "discriminating_features": [
+    "normal ventricular size / pinched ventricles",
+    "increased volume of subarachnoid space"
+  ],
+  "other_features": {
+    "general": [
+      "normal ventricular size / pinched ventricles",
+      "increased volume of subarachnoid space"
+    ]
+  },
+  "clinical": {}
+}

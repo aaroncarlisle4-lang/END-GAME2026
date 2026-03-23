@@ -1,0 +1,42 @@
+{
+  "finding": "E. Fixed subvalvular aortic stenosis",
+  "slug": "e_fixed_subvalvular_aortic_stenosis_eb6c04",
+  "chapter": "Bronchial Situs",
+  "source_file": "processed_clusters/bronchial_situs/e_fixed_subvalvular_aortic_stenosis_eb6c04.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypoplastic left / right ventricle, common ventricle",
+      "raw": "Hypoplastic left / right ventricle, common ventricle",
+      "frequency": "common"
+    },
+    {
+      "name": "Congestive cardiomyopathy",
+      "raw": "Congestive cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "ASD",
+      "raw": "ASD",
+      "frequency": null
+    },
+    {
+      "name": "Acute / chronic cor pulmonale (b)  pericardial abnormality:",
+      "raw": "Acute / chronic cor pulmonale (b)  pericardial abnormality:",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac tamponade",
+      "raw": "Cardiac tamponade (↑ pericardial pressure)",
+      "frequency": null
+    },
+    {
+      "name": "Constrictive pericarditis",
+      "raw": "Constrictive pericarditis (↓ pericardial compliance)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Right Atrial Enlargement Cause:    tricuspid stenosis / regurgitation, ASD, atrial fibrillation, dilated cardiomyopathy, Ebstein anomaly, pulmonary atresia ◊  RA enlarges in rightward + posterior direction PA CXR: √  prominent round superior border at junction with SVC √  > 5.5 cm from midline to most lateral RA margin √  > 2.5 cm from right vertebral margin √  > 50% vertical height of RA compared with cardiovascular mediastinal height (from top of aortic arch to base of heart) LAT CXR: √  sharp horizontal interface with lung above RV √  displacement of heart posterior to IVC mimicking LV enla"
+}

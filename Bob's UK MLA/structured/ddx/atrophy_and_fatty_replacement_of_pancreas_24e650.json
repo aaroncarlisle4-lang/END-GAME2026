@@ -1,0 +1,57 @@
+{
+  "finding": "Atrophy and Fatty Replacement of Pancreas",
+  "slug": "atrophy_and_fatty_replacement_of_pancreas_24e650",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/atrophy_and_fatty_replacement_of_pancreas_24e650.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Main pancreatic duct obstruction",
+      "raw": "Main pancreatic duct obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis ◊  Most common cause in childhood!",
+      "raw": "Cystic fibrosis ◊  Most common cause in childhood!",
+      "frequency": "most common"
+    },
+    {
+      "name": "Shwachman-Diamond syndrome",
+      "raw": "Shwachman-Diamond syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Johanson-Blizzard syndrome",
+      "raw": "Johanson-Blizzard syndrome (= pancreatic insufficiency, nasal alar hypoplasia, absence of permanent teeth, short stature, congenital deafness)",
+      "frequency": null
+    },
+    {
+      "name": "Hemochromatosis",
+      "raw": "Hemochromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Viral infection",
+      "raw": "Viral infection",
+      "frequency": null
+    },
+    {
+      "name": "Severe malnutrition",
+      "raw": "Severe malnutrition",
+      "frequency": null
+    },
+    {
+      "name": "Cushing syndrome, steroid therapy, obesity, elderly",
+      "raw": "Cushing syndrome, steroid therapy, obesity, elderly",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus",
+      "raw": "Diabetes mellitus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DDx of total fatty replacement of pancreas: pancreatic agenesis → absence of ductal system Uneven Pancreatic Lipomatosis √  commonly focal sparing of peribiliary region 1  sparing of uncinate process + peribiliary region 1a  replacement of head  35% 1b  replacement of head, neck, body  36% 2  sparing of peribiliary region only 2a  replacement of head + uncinate process  12% 2b  total replacement of pancreas  18%"
+}

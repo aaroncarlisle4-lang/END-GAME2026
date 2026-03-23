@@ -1,0 +1,57 @@
+{
+  "finding": "Syphilitic Aneurysm",
+  "slug": "syphilitic_aneurysm_d298ce",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/cardiovascular_disorders/syphilitic_aneurysm_d298ce.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Uncomplicated syphilitic aortitis",
+      "raw": "Uncomplicated syphilitic aortitis",
+      "frequency": null
+    },
+    {
+      "name": "Syphilitic aortic aneurysm",
+      "raw": "Syphilitic aortic aneurysm (mostly saccular)",
+      "frequency": null
+    },
+    {
+      "name": "Syphilitic aortic valvulitis",
+      "raw": "Syphilitic aortic valvulitis (aortic regurgitation)",
+      "frequency": null
+    },
+    {
+      "name": "Syphilitic coronary ostial stenosis",
+      "raw": "Syphilitic coronary ostial stenosis",
+      "frequency": null
+    },
+    {
+      "name": "positive venereal disease research laboratory (VDRL) test",
+      "raw": "positive venereal disease research laboratory (VDRL) test",
+      "frequency": null
+    },
+    {
+      "name": "positive microhemagglutination assay - Treponema pallidum",
+      "raw": "positive microhemagglutination assay - Treponema pallidum (MHA-TP) test Location:  ascending aorta (36-60%), aortic arch (34%), proximal descending aorta (25%), distal descending aorta (5%), aortic sinuses (< 1%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "Rx:     penicillin",
+      "raw": "Rx:     penicillin",
+      "frequency": null
+    },
+    {
+      "name": "Thoracic Aortic Aneurysm",
+      "raw": "Thoracic Aortic Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Most common vascular cause of mediastinal mass!",
+      "raw": "Most common vascular cause of mediastinal mass!",
+      "frequency": "most common"
+    }
+  ],
+  "criteria": {},
+  "context": "=  sexually transmitted chronic systemic infection caused by spirochete Treponema pallidum =  tertiary stage of syphilis consisting of neurosyphilis, gumma, cardiovascular involvement Spectrum: N.B.:   dissection (uncommon) ← scarring of media Frequency:   12% of patients with untreated syphilis Onset:  5-30 years after initial spirochete infection Histo:  chronic inflammation of vasa vasorum → obstruction of vasa vasorum → nutritional impairment of aortic media → focal destruction of aortic media with loss of elastic + smooth muscle fibers replaced by scar √  asymmetric enlargement of aortic"
+}

@@ -1,0 +1,85 @@
+{
+  "finding": "B. EXTRINSIC (a) liver disease",
+  "slug": "b_extrinsic_a_liver_disease_c65f80",
+  "chapter": "Gallbladder Wall Thickening",
+  "source_file": "processed_clusters/gallbladder_wall_thickening/b_extrinsic_a_liver_disease_c65f80.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatitis",
+      "raw": "Hepatitis (in 80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "Cirrhosis",
+      "raw": "Cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic venous obstruction",
+      "raw": "Hepatic venous obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Fitz-Hugh-Curtis syndrome (b)  fluid overload",
+      "raw": "Fitz-Hugh-Curtis syndrome (b)  fluid overload",
+      "frequency": null
+    },
+    {
+      "name": "Hypoalbuminemia",
+      "raw": "Hypoalbuminemia",
+      "frequency": null
+    },
+    {
+      "name": "Renal failure [Right heart failure]",
+      "raw": "Renal failure",
+      "frequency": null,
+      "sites": [
+        "Right heart failure"
+      ]
+    },
+    {
+      "name": "Systemic venous hypertension",
+      "raw": "Systemic venous hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Ascites",
+      "raw": "Ascites",
+      "frequency": null
+    },
+    {
+      "name": "Lymphatic obstruction (by portal nodes) (c)  others",
+      "raw": "Lymphatic obstruction (by portal nodes) (c)  others",
+      "frequency": null
+    },
+    {
+      "name": "Graft-versus-host disease",
+      "raw": "Graft-versus-host disease",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis (d)  drugs",
+      "raw": "Pancreatitis (d)  drugs",
+      "frequency": null
+    },
+    {
+      "name": "Chemoinfusion of hepatic artery",
+      "raw": "Chemoinfusion of hepatic artery (ischemia)",
+      "frequency": null
+    },
+    {
+      "name": "Treatment with interleukin",
+      "raw": "Treatment with interleukin",
+      "frequency": null
+    },
+    {
+      "name": "PHYSIOLOGIC =  contracted gallbladder after eating",
+      "raw": "PHYSIOLOGIC =  contracted gallbladder after eating",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

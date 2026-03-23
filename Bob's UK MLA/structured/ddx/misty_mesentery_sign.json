@@ -1,0 +1,37 @@
+{
+  "finding": "Misty Mesentery Sign",
+  "slug": "misty_mesentery_sign",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/misty_mesentery_sign.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Normalcy",
+      "raw": "Normalcy (common finding!)",
+      "frequency": "common"
+    },
+    {
+      "name": "Mesenteric panniculitis",
+      "raw": "Mesenteric panniculitis",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Edema",
+      "raw": "Edema",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy",
+      "raw": "Malignancy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  subtle increased attenuation in the mesentery at CT often associated with small borderline-sized lymph nodes"
+}

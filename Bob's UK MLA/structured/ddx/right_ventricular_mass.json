@@ -1,0 +1,32 @@
+{
+  "finding": "Right Ventricular Mass",
+  "slug": "right_ventricular_mass",
+  "chapter": "C. MYOCARDIAL / INTRAMURAL",
+  "source_file": "processed_clusters/c_myocardial_intramural/right_ventricular_mass.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thrombus",
+      "raw": "Thrombus",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyoma",
+      "raw": "Rhabdomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Secondary deposit",
+      "raw": "Secondary deposit",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

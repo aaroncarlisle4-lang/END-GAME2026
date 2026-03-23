@@ -1,0 +1,22 @@
+{
+  "finding": "Choriocarcinoma (DDx)",
+  "slug": "choriocarcinoma_ddx",
+  "chapter": "Choriocarcinoma",
+  "source_file": "processed_clusters/choriocarcinoma/choriocarcinoma_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ectopic pregnancy",
+      "raw": "ectopic pregnancy (frequently mistaken diagnosis!)",
+      "frequency": null
+    },
+    {
+      "name": "metastasis to ovary from gestational choriocarcinoma",
+      "raw": "metastasis to ovary from gestational choriocarcinoma (reproductive age)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "usually unilateral | vascular predominantly solid tumor with areas of hemorrhage + necrosis + cyst formation"
+}

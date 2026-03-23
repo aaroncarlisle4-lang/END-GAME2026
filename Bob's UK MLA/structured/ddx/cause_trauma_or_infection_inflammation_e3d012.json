@@ -1,0 +1,42 @@
+{
+  "finding": "Cause: trauma or infection / inflammation",
+  "slug": "cause_trauma_or_infection_inflammation_e3d012",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/cause_trauma_or_infection_inflammation_e3d012.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Calcified cataract",
+      "raw": "Calcified cataract",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma (hyperdense melanin)",
+      "frequency": null
+    },
+    {
+      "name": "Retinoblastoma",
+      "raw": "Retinoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Choroidal osteoma",
+      "raw": "Choroidal osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  small contracted / shrunken calcified / ossified disorganized nonfunctioning globe"
+}

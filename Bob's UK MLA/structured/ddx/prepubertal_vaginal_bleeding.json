@@ -1,0 +1,37 @@
+{
+  "finding": "Prepubertal Vaginal Bleeding",
+  "slug": "prepubertal_vaginal_bleeding",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/prepubertal_vaginal_bleeding.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vaginal foreign body Prevalence:   in 18% of children with vaginal bleeding + discharge; in 50% of children with vaginal bleeding + no discharge",
+      "raw": "Vaginal foreign body Prevalence:   in 18% of children with vaginal bleeding + discharge; in 50% of children with vaginal bleeding + no discharge",
+      "frequency": "18%"
+    },
+    {
+      "name": "Vaginal rhabdomyosarcoma",
+      "raw": "Vaginal rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Precocious puberty",
+      "raw": "Precocious puberty",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Vascular malformation",
+      "raw": "Vascular malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

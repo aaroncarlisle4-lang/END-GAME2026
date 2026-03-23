@@ -1,0 +1,72 @@
+{
+  "finding": "Path: complex multicystic mass = \"cluster of grapes\"",
+  "slug": "path_complex_multicystic_mass_cluster_of_grapes_a03f31",
+  "chapter": "HYDATIDIFORM MOLE",
+  "source_file": "processed_clusters/hydatidiform_mole/path_complex_multicystic_mass_cluster_of_grapes_a03f31.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "severe eclampsia prior to 24 weeks",
+      "raw": "severe eclampsia prior to 24 weeks",
+      "frequency": null
+    },
+    {
+      "name": "uterus too large for dates (in 50%); 1st trimester bleeding",
+      "raw": "uterus too large for dates (in 50%); 1st trimester bleeding",
+      "frequency": "50%"
+    },
+    {
+      "name": "marked elevation of β-hCG with hyperemesis",
+      "raw": "marked elevation of β-hCG with hyperemesis",
+      "frequency": null
+    },
+    {
+      "name": "passing of grapelike vesicles per vagina",
+      "raw": "passing of grapelike vesicles per vagina",
+      "frequency": null
+    },
+    {
+      "name": "hyperthyroidism ← thyroid-stimulating properties of β-hCG",
+      "raw": "hyperthyroidism ← thyroid-stimulating properties of β-hCG",
+      "frequency": null
+    },
+    {
+      "name": "anemia ← plasma volume expansion + vaginal bleeding",
+      "raw": "anemia ← plasma volume expansion + vaginal bleeding",
+      "frequency": null
+    },
+    {
+      "name": "Hydropic degeneration of the placenta",
+      "raw": "Hydropic degeneration of the placenta (associated with incomplete / missed abortions)",
+      "frequency": null
+    },
+    {
+      "name": "Degenerated uterine leiomyoma",
+      "raw": "Degenerated uterine leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Incomplete abortion = retained products with hemorrhage",
+      "raw": "Incomplete abortion = retained products with hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Loculated abruptio placentae",
+      "raw": "Loculated abruptio placentae",
+      "frequency": null
+    },
+    {
+      "name": "Hydropic changes of the placenta",
+      "raw": "Hydropic changes of the placenta",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Histo:  generalized hydropic swelling of all chorionic villi with prominent acellular space centrally; pronounced tropho- blastic proliferation of syncytio- and cytotrophoblast US: √  hyperechoic to moderately echogenic central uterine mass interspersed with punctate hypoechoic areas √  numerous discrete cystic spaces (= hydropic villi) within a central area of heterogeneous echotexture = \"snowstorm\" √  no identifiable fetal tissue √  increased vascularity with low-resistance waveforms in spiral arteries of uterus √  in 25% atypical appearance: √  large hyperechoic areas (= blood clot) + areas"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Nonosseous Lesion of Extraocular Orbit in Children",
+  "slug": "nonosseous_lesion_of_extraocular_orbit_in_children",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/nonosseous_lesion_of_extraocular_orbit_in_children.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Infantile hemangioma",
+      "raw": "Infantile hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Infantile fibromatosis",
+      "raw": "Infantile fibromatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

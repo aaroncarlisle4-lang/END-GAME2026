@@ -1,0 +1,32 @@
+{
+  "finding": "C. MALIGNANT TUMORS",
+  "slug": "c_malignant_tumors",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/c_malignant_tumors.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma (a)  primary lymphoma (rarely multiple) (b)  secondary lymphoma: GI involvement in 63% of disseminated disease; 19% in small intestine",
+      "raw": "Lymphoma (a)  primary lymphoma (rarely multiple) (b)  secondary lymphoma: GI involvement in 63% of disseminated disease; 19% in small intestine",
+      "frequency": "63%"
+    },
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Subepithelial metastases: melanoma > lung > breast > choriocarcinoma > kidney > stomach, uterus, ovary, pancreas",
+      "raw": "Subepithelial metastases: melanoma > lung > breast > choriocarcinoma > kidney > stomach, uterus, ovary, pancreas",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

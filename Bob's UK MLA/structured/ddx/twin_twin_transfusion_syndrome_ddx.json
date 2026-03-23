@@ -1,0 +1,22 @@
+{
+  "finding": "Twin-Twin Transfusion Syndrome (DDx)",
+  "slug": "twin_twin_transfusion_syndrome_ddx",
+  "chapter": "Twin-Twin Transfusion Syndrome",
+  "source_file": "processed_clusters/twin_twin_transfusion_syndrome/twin_twin_transfusion_syndrome_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "IUGR of one dizygotic twin (two separate placentas",
+      "raw": "IUGR of one dizygotic twin (two separate placentas",
+      "frequency": null
+    },
+    {
+      "name": "two different sexes)",
+      "raw": "two different sexes)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "fetal hydrops (10-25%): pericardial + pleural effusions, ascites, skin thickening | organomegaly | fetus papyraceus = macerated dead fetus | velamentous cord insertion (64%)"
+}

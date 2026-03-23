@@ -1,0 +1,24 @@
+{
+  "name": "SUPERNUMERARY KIDNEY",
+  "slug": "supernumerary_kidney",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/supernumerary_kidney.md",
+  "definition": "aberrant division of nephrogenic cord into two metanephric tails (rare)",
+  "demographics": {
+    "Associated with": "horseshoe kidney, vaginal atresia, duplicated female urethra, duplicated penis",
+    "Location": "most commonly on left side of abdomen caudal to normal kidney"
+  },
+  "dominant_finding": "supernumerary ureter may insert into ipsilateral kidney / directly into bladder / ectopic site",
+  "distribution": "most commonly on left side of abdomen caudal to normal kidney",
+  "discriminating_features": [
+    "supernumerary ureter may insert into ipsilateral kidney / directly into bladder / ectopic site"
+  ],
+  "other_features": {
+    "general": [
+      "supernumerary ureter may insert into ipsilateral kidney / directly into bladder / ectopic site"
+    ]
+  },
+  "clinical": {
+    "Cx": "hydronephrosis, pyonephrosis, pyelonephritis, cysts, calculi, carcinoma, papillary"
+  }
+}

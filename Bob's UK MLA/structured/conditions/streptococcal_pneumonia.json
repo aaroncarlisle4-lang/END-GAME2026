@@ -1,0 +1,28 @@
+{
+  "name": "STREPTOCOCCAL PNEUMONIA",
+  "slug": "streptococcal_pneumonia",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/streptococcal_pneumonia.md",
+  "definition": "Streptococcus pyogenes, Gram-positive cocci appearing in chains",
+  "demographics": {
+    "Frequency": "1-5% of bacterial pneumonias (rarely seen); most common in winter months",
+    "Associated with": "delayed onset of diaphragmatic hernia (in newborns)"
+  },
+  "dominant_finding": "patchy bronchopneumonia",
+  "distribution": "lower lobe predominance (similar to staphylococcus)",
+  "discriminating_features": [
+    "patchy bronchopneumonia",
+    "lower lobe predominance (similar to staphylococcus)",
+    "empyema"
+  ],
+  "other_features": {
+    "general": [
+      "patchy bronchopneumonia",
+      "lower lobe predominance (similar to staphylococcus)",
+      "empyema"
+    ]
+  },
+  "clinical": {
+    "Cx": "(1)  Residual pleural thickening (15%)"
+  }
+}

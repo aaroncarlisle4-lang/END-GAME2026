@@ -1,0 +1,22 @@
+{
+  "finding": "Necrotizing Sarcoid Granulomatosis (DDx)",
+  "slug": "necrotizing_sarcoid_granulomatosis_ddx",
+  "chapter": "Necrotizing Sarcoid Granulomatosis",
+  "source_file": "processed_clusters/necrotizing_sarcoid_granulomatosis/necrotizing_sarcoid_granulomatosis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "sarcoidosis (high prevalence of mediastinal + hilar lymphadenopathy",
+      "raw": "sarcoidosis (high prevalence of mediastinal + hilar lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "little propensity for cavitation)",
+      "raw": "little propensity for cavitation)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "numerous ill-defined parenchymal opacities | ± cavitation | hilar lymphadenopathy (8-79%) | pleural thickening"
+}

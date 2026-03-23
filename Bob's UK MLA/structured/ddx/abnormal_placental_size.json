@@ -1,0 +1,57 @@
+{
+  "finding": "Abnormal Placental Size",
+  "slug": "abnormal_placental_size",
+  "chapter": "PLACENTA",
+  "source_file": "processed_clusters/placenta/abnormal_placental_size.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ENLARGEMENT OF PLACENTA = Placentomegaly =  > 5 cm thick in sections obtained at right angles to long axis of placenta (a)  maternal disease",
+      "raw": "ENLARGEMENT OF PLACENTA = Placentomegaly =  > 5 cm thick in sections obtained at right angles to long axis of placenta (a)  maternal disease",
+      "frequency": null
+    },
+    {
+      "name": "Maternal diabetes ← villous edema",
+      "raw": "Maternal diabetes ← villous edema",
+      "frequency": null
+    },
+    {
+      "name": "Chronic intrauterine infections: eg, syphilis",
+      "raw": "Chronic intrauterine infections: eg, syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Maternal anemia: normal histology",
+      "raw": "Maternal anemia: normal histology",
+      "frequency": null
+    },
+    {
+      "name": "Alpha-thalassemia (b)  fetal disease",
+      "raw": "Alpha-thalassemia (b)  fetal disease",
+      "frequency": null
+    },
+    {
+      "name": "Hemolytic disease of the newborn ← villous edema + hyperplasia ← immunologic incompatibility including Rh sensitization",
+      "raw": "Hemolytic disease of the newborn ← villous edema + hyperplasia ← immunologic incompatibility including Rh sensitization",
+      "frequency": null
+    },
+    {
+      "name": "Umbilical vein obstruction",
+      "raw": "Umbilical vein obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Fetal high-output failure:",
+      "raw": "Fetal high-output failure:",
+      "frequency": null
+    },
+    {
+      "name": "Fetal malformation:",
+      "raw": "Fetal malformation:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Placental mass tends to reflect fetal mass! large chorioangioma, arteriovenous fistula"
+}

@@ -1,0 +1,182 @@
+{
+  "finding": "Bilateral Adrenal Masses",
+  "slug": "bilateral_adrenal_masses",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/bilateral_adrenal_masses.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastases",
+      "raw": "Metastases (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (50% of secondary lymphomas, 50% bilateral)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Myelolipoma",
+      "raw": "Myelolipoma (5-13%)",
+      "frequency": "13%"
+    },
+    {
+      "name": "Adrenocortical carcinoma",
+      "raw": "Adrenocortical carcinoma (2-6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous infection",
+      "raw": "Granulomatous infection (usually bilaterally asymmetric)",
+      "frequency": null
+    },
+    {
+      "name": "Hyperplasia",
+      "raw": "Hyperplasia (usually bilaterally symmetric)",
+      "frequency": null
+    },
+    {
+      "name": "Hodgkin disease",
+      "raw": "Hodgkin disease",
+      "frequency": null
+    },
+    {
+      "name": "Hyperplasia",
+      "raw": "Hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous Disease",
+      "raw": "Granulomatous Disease",
+      "frequency": null
+    },
+    {
+      "name": "Organism:   tuberculosis, histoplasmosis, blastomycosis",
+      "raw": "Organism:   tuberculosis, histoplasmosis, blastomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma (6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma (71%): functioning (1%)",
+      "frequency": "71%"
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Myelolipoma",
+      "raw": "Myelolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma (4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (2-3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Bilaterality of Adrenal Incidentaloma",
+      "raw": "Bilaterality of Adrenal Incidentaloma",
+      "frequency": null
+    },
+    {
+      "name": "Sensitivity for adenomas:   56-71%",
+      "raw": "Sensitivity for adenomas:   56-71%",
+      "frequency": "71%"
+    },
+    {
+      "name": "Specificity for adenomas:   98%",
+      "raw": "Specificity for adenomas:   98%",
+      "frequency": "98%"
+    },
+    {
+      "name": "False-positive rate:   4%",
+      "raw": "False-positive rate:   4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Results:   93-100% sensitive, 80-100% specific, 99% accurate",
+      "raw": "Results:   93-100% sensitive, 80-100% specific, 99% accurate",
+      "frequency": "100%"
+    },
+    {
+      "name": "ENDOCRINOLOGIC FUNCTION TEST IN INCIDENTALOMA",
+      "raw": "ENDOCRINOLOGIC FUNCTION TEST IN INCIDENTALOMA",
+      "frequency": null
+    },
+    {
+      "name": "Use:   recommended for lesions > 4 cm",
+      "raw": "Use:   recommended for lesions > 4 cm",
+      "frequency": null
+    },
+    {
+      "name": "Diagnostic accuracy:   83-96%",
+      "raw": "Diagnostic accuracy:   83-96%",
+      "frequency": "96%"
+    },
+    {
+      "name": "Insufficient material:   4-19%",
+      "raw": "Insufficient material:   4-19%",
+      "frequency": "19%"
+    },
+    {
+      "name": "Cx:   bleeding, pneumothorax, infection, tumor tracking in 8-12%",
+      "raw": "Cx:   bleeding, pneumothorax, infection, tumor tracking in 8-12%",
+      "frequency": "12%"
+    }
+  ],
+  "criteria": {},
+  "context": "mnemonic:   4 H PM Histoplasmosis / TB √  usually bilateral homogeneous adrenal enlargement in acute phase √  sometimes cystic / calcified adrenals in chronic phase Cx:  tuberculous adrenal atrophy → adrenal hypofunction → Addison disease Incidental Unilateral Adrenal Mass = Incidentaloma =  incidental discovery of a clinically silent adrenal mass of > 10 mm in a patient without known cancer Prevalence:   4-9% of all CT exams (in 0.2% of patients 20-29 years, in 7% of elderly); 1.0- 4.2% of population Concern for:   primary adrenal cortical carcinoma, metastasis, Cushing disease, pheochromocyt"
+}

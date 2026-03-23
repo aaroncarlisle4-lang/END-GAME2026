@@ -1,0 +1,35 @@
+{
+  "name": "EOSINOPHILIC HEART DISEASE",
+  "slug": "eosinophilic_heart_disease",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/eosinophilic_heart_disease.md",
+  "definition": "manifestation of hypereosinophilic syndrome",
+  "demographics": {},
+  "dominant_finding": "ventricular wall thickening",
+  "distribution": "",
+  "discriminating_features": [
+    "CHARACTERISTIC 3-layered appearance of ventricular wall:",
+    "ventricular wall thickening",
+    "regional wall motion abnormalities",
+    "extensive myocardial hyperintensity on T2WI",
+    "outer normal nulled (black) myocardium"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "ventricular wall thickening",
+      "regional wall motion abnormalities",
+      "extensive myocardial hyperintensity on T2WI",
+      "CHARACTERISTIC 3-layered appearance of ventricular wall:",
+      "outer normal nulled (black) myocardium",
+      "adjacent enhancing hyperintense subendocardium ← fibrosis",
+      "innermost nonenhancing mural thrombus",
+      "pericardial effusion with variable degree of pericardial enhancement ← pericarditis (rare)",
+      "endocardial thickening, cardiac mural thrombus",
+      "restrictive ventricular diastolic (filling) dysfunction ← reduced size, atrial enlargement,",
+      "nonenhancing intracardiac mural thrombus",
+      "fibrotic endocardial thickening"
+    ]
+  },
+  "clinical": {}
+}

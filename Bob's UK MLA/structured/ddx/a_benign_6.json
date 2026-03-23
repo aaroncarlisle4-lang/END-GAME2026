@@ -1,0 +1,32 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_6",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/a_benign_6.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Transient postoperative enhancement",
+      "raw": "Transient postoperative enhancement",
+      "frequency": null
+    },
+    {
+      "name": "Intracranial hypotension",
+      "raw": "Intracranial hypotension",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease of basilar meninges",
+      "raw": "Granulomatous disease of basilar meninges (sarcoidosis, tuberculosis, Wegener granulomatosis, luetic gumma, rheumatoid nodules, fungal disease)",
+      "frequency": null
+    },
+    {
+      "name": "Uncomplicated lumbar puncture",
+      "raw": "Uncomplicated lumbar puncture (in < 5%)",
+      "frequency": "5%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

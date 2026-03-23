@@ -1,0 +1,42 @@
+{
+  "finding": "Presacral Tumor",
+  "slug": "presacral_tumor_e31f63",
+  "chapter": "Enlarged Presacral Space",
+  "source_file": "processed_clusters/enlarged_presacral_space/presacral_tumor_e31f63.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "OSTEOCHONDRAL",
+      "raw": "OSTEOCHONDRAL",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma of spine",
+      "raw": "Osteosarcoma of spine",
+      "frequency": null
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  mass effect on posterior wall of rectum"
+}

@@ -1,0 +1,102 @@
+{
+  "finding": "Unexpected findings: in 37-43-65%",
+  "slug": "unexpected_findings_in_37_43_65_351930",
+  "chapter": "BEDSIDE CHEST RADIOGRAPHY",
+  "source_file": "processed_clusters/bedside_chest_radiography/unexpected_findings_in_37_43_65_351930.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "APPARATUS POSITION + COMPLICATIONS",
+      "raw": "APPARATUS POSITION + COMPLICATIONS",
+      "frequency": null
+    },
+    {
+      "name": "Malposition of tracheal tube",
+      "raw": "Malposition of tracheal tube (12%)",
+      "frequency": "12%"
+    },
+    {
+      "name": "Aspiration",
+      "raw": "Aspiration (in 8%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Disloding of teeth / fillings",
+      "raw": "Disloding of teeth / fillings",
+      "frequency": null
+    },
+    {
+      "name": "Malposition of central venous line (9%) into internal jugular vein, azygos arch, internal mammary vein, congenital anomaly (eg, persistent left SVC), artery",
+      "raw": "Malposition of central venous line (9%) into internal jugular vein, azygos arch, internal mammary vein, congenital anomaly (eg, persistent left SVC), artery",
+      "frequency": "9%"
+    },
+    {
+      "name": "Tip of CVC within extrapericardial portion of SVC, 2 cm from cavoatrial junction = 85% of distance from sternoclavicular junction to carina = 9 mm above carina",
+      "raw": "Tip of CVC within extrapericardial portion of SVC, 2 cm from cavoatrial junction = 85% of distance from sternoclavicular junction to carina = 9 mm above carina",
+      "frequency": "85%"
+    },
+    {
+      "name": "Tip of tunneled hemodialysis catheter at junction of SVC and right atrium / in",
+      "raw": "Tip of tunneled hemodialysis catheter at junction of SVC and right atrium / in",
+      "frequency": null
+    },
+    {
+      "name": "Tip of nontunneled upper extremity catheter at superior cavoatrial junction = 4 cm below carina",
+      "raw": "Tip of nontunneled upper extremity catheter at superior cavoatrial junction = 4 cm below carina",
+      "frequency": null
+    },
+    {
+      "name": "fibrin sheath occlusion is suspected when a well-positioned CVC fails to function normally",
+      "raw": "fibrin sheath occlusion is suspected when a well-positioned CVC fails to function normally (confirmed at conventional catheter venography)",
+      "frequency": null
+    },
+    {
+      "name": "Malposition of nasogastric tube ›  esophageal malposition ›  bronchial intubation ›  esophageal perforation",
+      "raw": "Malposition of nasogastric tube ›  esophageal malposition ›  bronchial intubation ›  esophageal perforation",
+      "frequency": null
+    },
+    {
+      "name": "Swan-Ganz line",
+      "raw": "Swan-Ganz line (= balloon-directed line)",
+      "frequency": null
+    },
+    {
+      "name": "25% of catheters malpositioned on initial CXR",
+      "raw": "25% of catheters malpositioned on initial CXR",
+      "frequency": "25%"
+    },
+    {
+      "name": "Thoracostomy tube",
+      "raw": "Thoracostomy tube",
+      "frequency": null
+    },
+    {
+      "name": "Tracheostomy ◊  Position NOT affected by flexion / extension of neck!",
+      "raw": "Tracheostomy ◊  Position NOT affected by flexion / extension of neck!",
+      "frequency": null
+    },
+    {
+      "name": "Intraaortic balloon pump",
+      "raw": "Intraaortic balloon pump (IABP)",
+      "frequency": null
+    },
+    {
+      "name": "tip of pump should be just distal to left subclavian artery in proximal descending aorta = 1-2 cm below top of aortic arch",
+      "raw": "tip of pump should be just distal to left subclavian artery in proximal descending aorta = 1-2 cm below top of aortic arch",
+      "frequency": null
+    },
+    {
+      "name": "Retained catheter / implantable cardioverter-defibrillator lead fragments",
+      "raw": "Retained catheter / implantable cardioverter-defibrillator lead fragments",
+      "frequency": null
+    },
+    {
+      "name": "Calcified fibrin sheath / calcified thrombus",
+      "raw": "Calcified fibrin sheath / calcified thrombus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Change in diagnostic approach / therapy: in 27% Indications: √  tip of tube 4-6 cm above carina with neck in neutral position: √  migration by 2 cm inferiorly with flexion √  migration by 2 cm superiorly with extension √  tube diameter should be ½ to ⅔ of tracheal lumen √  diameter of inflated balloon should be less than diameter of trachea Cx: (a)  Tracheal damage (stenosis / rupture) if ratio of cuff to tracheal lumen > 1.5 Cx:   placement into branch vein / anomalous vein (eg, persistent left SVC), intraarterial placement, extravascular placement FDA Recommendation: RA √  may not be on film"
+}

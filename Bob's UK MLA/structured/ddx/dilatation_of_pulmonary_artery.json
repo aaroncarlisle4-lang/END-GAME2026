@@ -1,0 +1,47 @@
+{
+  "finding": "Dilatation of Pulmonary Artery",
+  "slug": "dilatation_of_pulmonary_artery",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/dilatation_of_pulmonary_artery.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Idiopathic dilatation of pulmonary trunk",
+      "raw": "Idiopathic dilatation of pulmonary trunk",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonic valve stenosis",
+      "raw": "Pulmonic valve stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary regurgitation",
+      "raw": "Pulmonary regurgitation (a)  severe pulmonic valve insufficiency (b)  absence of pulmonic valve (may be associated with tetralogy)",
+      "frequency": null
+    },
+    {
+      "name": "Congenital L-to-R shunts",
+      "raw": "Congenital L-to-R shunts",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary arterial hypertension",
+      "raw": "Pulmonary arterial hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm: mycotic / traumatic",
+      "raw": "Aneurysm: mycotic / traumatic",
+      "frequency": null
+    },
+    {
+      "name": "Intravascular pulmonary metastases",
+      "raw": "Intravascular pulmonary metastases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  poststenotic dilatation of trunk + left pulmonary artery"
+}

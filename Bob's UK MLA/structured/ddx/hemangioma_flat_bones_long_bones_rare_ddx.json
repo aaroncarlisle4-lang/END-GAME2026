@@ -1,0 +1,22 @@
+{
+  "finding": "Hemangioma — Flat bones & long bones (rare) (DDx)",
+  "slug": "hemangioma_flat_bones_long_bones_rare_ddx",
+  "chapter": "Hemangioma",
+  "source_file": "processed_clusters/hemangioma/hemangioma_flat_bones_long_bones_rare_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "true hemangioma",
+      "raw": "true hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "glomus tumor",
+      "raw": "glomus tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-defined mildly to moderately echogenic mass containing small hypoechoic foci | prominent tumor vascularity with arterial waveform | lesion isointense on T1WI + hyperintense on T2WI | marked enhancement"
+}

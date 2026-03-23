@@ -1,0 +1,47 @@
+{
+  "finding": "Prenatal Risk Factors for Congenital Heart Disease",
+  "slug": "prenatal_risk_factors_for_congenital_heart_disease_c106a7",
+  "chapter": "F. TWINS",
+  "source_file": "processed_clusters/f_twins/prenatal_risk_factors_for_congenital_heart_disease_c106a7.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "FETAL RISK FACTORS",
+      "raw": "FETAL RISK FACTORS",
+      "frequency": null
+    },
+    {
+      "name": "Symmetric IUGR",
+      "raw": "Symmetric IUGR",
+      "frequency": null
+    },
+    {
+      "name": "Arrhythmias",
+      "raw": "Arrhythmias (a)  fixed fetal bradycardia (50%) ≤ 110 bpm (b)  tachycardia (low risk) (c)  irregular: PACs, PVCs (low risk)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Abnormal fetal karyotype: CHD in Down syndrome (40%); in trisomy 18 / 13 (> 90%);",
+      "raw": "Abnormal fetal karyotype: CHD in Down syndrome (40%); in trisomy 18 / 13 (> 90%);",
+      "frequency": "40%"
+    },
+    {
+      "name": "Extracardiac somatic anomalies by US: omphaloceles (20%), duodenal atresia, hydrocephaly, spina bifida, VACTERL",
+      "raw": "Extracardiac somatic anomalies by US: omphaloceles (20%), duodenal atresia, hydrocephaly, spina bifida, VACTERL",
+      "frequency": "20%"
+    },
+    {
+      "name": "Nonimmune hydrops",
+      "raw": "Nonimmune hydrops (30-35%)",
+      "frequency": "35%"
+    },
+    {
+      "name": "Oligo- / polyhydramnios",
+      "raw": "Oligo- / polyhydramnios",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "in Turner syndrome (35%)"
+}

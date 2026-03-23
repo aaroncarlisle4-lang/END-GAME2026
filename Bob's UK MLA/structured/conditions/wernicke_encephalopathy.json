@@ -1,0 +1,28 @@
+{
+  "name": "WERNICKE ENCEPHALOPATHY",
+  "slug": "wernicke_encephalopathy",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/wernicke_encephalopathy.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "symmetric T2 prolongation",
+  "distribution": "",
+  "discriminating_features": [
+    "symmetric T2 prolongation",
+    "petechial hemorrhage",
+    "diffusion restriction",
+    "contrast enhancement"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "symmetric T2 prolongation",
+      "petechial hemorrhage",
+      "diffusion restriction",
+      "contrast enhancement"
+    ]
+  },
+  "clinical": {
+    "Rx": "IV replacement of thiamine"
+  }
+}

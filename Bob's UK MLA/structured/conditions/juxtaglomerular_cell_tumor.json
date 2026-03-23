@@ -1,0 +1,49 @@
+{
+  "name": "JUXTAGLOMERULAR CELL TUMOR",
+  "slug": "juxtaglomerular_cell_tumor",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/juxtaglomerular_cell_tumor.md",
+  "definition": "RENINOMA very rare benign renin-secreting tumor",
+  "demographics": {
+    "Prevalence": "< 30 cases reported",
+    "Path": "small foci of hemorrhage + pseudocapsule",
+    "Histo": "tumor resembles hemangiopericytoma composed of sheets / trabeculae of round to",
+    "Mean age": "24 (range, 7-58) years; 50% < 21 years; M÷F = 1÷2",
+    "Location": "just beneath renal capsule",
+    "Size": "usually 2-3 (range, 0.8-6.5) cm"
+  },
+  "dominant_finding": "hypovascular mass on arterial phase ← renin-induced vascoconstriction",
+  "distribution": "just beneath renal capsule",
+  "discriminating_features": [
+    "well-circumscribed renal mass",
+    "hypovascular mass on arterial phase ← renin-induced vascoconstriction",
+    "moderate enhancement during delayed phase",
+    "hypointense mass relative to renal parenchyma on precontrast T1WI + T2WI",
+    "early low-level peripheral enhancement on T1WI"
+  ],
+  "other_features": {
+    "general": [
+      "well-circumscribed renal mass"
+    ],
+    "US": [
+      "echogenic mass ± areas of necrosis / hemorrhage",
+      "hypo- to isodense tumor"
+    ],
+    "CECT": [
+      "hypovascular mass on arterial phase ← renin-induced vascoconstriction",
+      "moderate enhancement during delayed phase"
+    ],
+    "MR": [
+      "hypointense mass relative to renal parenchyma on precontrast T1WI + T2WI",
+      "early low-level peripheral enhancement on T1WI",
+      "washout of contrast material from periphery + filling in of central tumor portion on delayed"
+    ],
+    "ANGIO": [
+      "(easily overlooked) hypo- / avascular tumor (in 43%)",
+      "renal vein sampling yields high renin level on affected side"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical excision"
+  }
+}

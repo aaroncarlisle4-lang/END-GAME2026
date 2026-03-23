@@ -1,0 +1,39 @@
+{
+  "name": "GRANULOCYTIC SARCOMA",
+  "slug": "granulocytic_sarcoma",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/granulocytic_sarcoma.md",
+  "definition": "CHLOROMA =  MYELOID SARCOMA = MYELOBLASTOMA uncommon extramedullary solid tumor consisting of primitive precursors of the granulocytic",
+  "demographics": {
+    "Peak age": "7-8 years; child > adult; M=F",
+    "Associated with": "chronic myeloid leukemia, myelodysplastic syndrome, essential",
+    "Location": "often multifocal"
+  },
+  "dominant_finding": "homogeneous enhancement on CT / MR (DDx to hematoma / abscess)",
+  "distribution": "often multifocal",
+  "discriminating_features": [
+    "soft-tissue mass infrequently with bone erosion / demineralization / periosteal reaction",
+    "generally homogeneously isoattenuating to slightly hyperattenuating relative to muscle /",
+    "homogeneous enhancement on CT / MR (DDx to hematoma / abscess)",
+    "iso- to hypointense relative to gray matter / bone marrow / muscle on T1WI",
+    "heterogeneously iso- to slightly hyperintense on T2WI"
+  ],
+  "other_features": {
+    "general": [],
+    "RADIOGRAPHY": [
+      "osteolysis with ill-defined margins"
+    ],
+    "CT": [
+      "soft-tissue mass infrequently with bone erosion / demineralization / periosteal reaction",
+      "generally homogeneously isoattenuating to slightly hyperattenuating relative to muscle /",
+      "homogeneous enhancement on CT / MR (DDx to hematoma / abscess)"
+    ],
+    "MR": [
+      "iso- to hypointense relative to gray matter / bone marrow / muscle on T1WI",
+      "heterogeneously iso- to slightly hyperintense on T2WI"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "poor outcome; resolution under chemotherapy ± radiation therapy; recurrence rate"
+  }
+}

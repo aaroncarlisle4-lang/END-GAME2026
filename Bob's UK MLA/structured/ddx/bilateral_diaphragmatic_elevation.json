@@ -1,0 +1,35 @@
+{
+  "finding": "Bilateral Diaphragmatic Elevation",
+  "slug": "bilateral_diaphragmatic_elevation",
+  "chapter": "DIAPHRAGM",
+  "source_file": "processed_clusters/diaphragm/bilateral_diaphragmatic_elevation.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Shallow inspiration",
+      "raw": "Shallow inspiration (most frequent)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Abdominal causes:",
+      "raw": "Abdominal causes:",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary causes [Bilateral atelectasis]",
+      "raw": "Pulmonary causes",
+      "frequency": null,
+      "sites": [
+        "Bilateral atelectasis"
+      ]
+    },
+    {
+      "name": "Restrictive pulmonary disease: SLE",
+      "raw": "Restrictive pulmonary disease: SLE",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "obesity, pregnancy, ascites, large abdominal mass"
+}

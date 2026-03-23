@@ -1,0 +1,29 @@
+{
+  "name": "BLADDER DIVERTICULUM",
+  "slug": "bladder_diverticulum",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/bladder_diverticulum.md",
+  "definition": "cavity formed by herniation of bladder mucosa through muscular wall, joined to bladder CONGENITAL / IDIOPATHIC DIVERTICULUM",
+  "demographics": {
+    "Prevalence": "1.7% in children"
+  },
+  "dominant_finding": "may appear complex ← thickened wall / debris / soft-tissue component",
+  "distribution": "",
+  "discriminating_features": [
+    "hypoechoic fluid-filled structure continuous with bladder wall",
+    "may appear complex ← thickened wall / debris / soft-tissue component",
+    "may contain calculi",
+    "in 3% single diverticulum",
+    "in 50% multiple diverticula"
+  ],
+  "other_features": {
+    "general": [
+      "hypoechoic fluid-filled structure continuous with bladder wall",
+      "may appear complex ← thickened wall / debris / soft-tissue component",
+      "may contain calculi",
+      "in 3% single diverticulum",
+      "in 50% multiple diverticula"
+    ]
+  },
+  "clinical": {}
+}

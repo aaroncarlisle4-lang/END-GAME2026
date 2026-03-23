@@ -1,0 +1,32 @@
+{
+  "finding": "Tolosa-Hunt Syndrome (DDx)",
+  "slug": "tolosa_hunt_syndrome_ddx",
+  "chapter": "Tolosa-Hunt Syndrome",
+  "source_file": "processed_clusters/tolosa_hunt_syndrome/tolosa_hunt_syndrome_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "perineural tumor spread",
+      "raw": "perineural tumor spread",
+      "frequency": null
+    },
+    {
+      "name": "fungal infection",
+      "raw": "fungal infection",
+      "frequency": null
+    },
+    {
+      "name": "schwannoma",
+      "raw": "schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "meningioma (no resolution with",
+      "raw": "meningioma (no resolution with",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "enhancement of dura, trigeminal n., facial n. (uncommon) | narrowing of carotid siphon | occlusion of superior ophthalmic vein | nonvisualization of cavernous sinus"
+}

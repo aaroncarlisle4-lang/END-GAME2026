@@ -1,0 +1,27 @@
+{
+  "name": "IRON DEFICIENCY ANEMIA",
+  "slug": "iron_deficiency_anemia",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/iron_deficiency_anemia.md",
+  "definition": "",
+  "demographics": {
+    "Age": "infant"
+  },
+  "dominant_finding": "widening of diploe + thinning of tables with sparing of occiput (no red marrow)",
+  "distribution": "",
+  "discriminating_features": [
+    "widening of diploe + thinning of tables with sparing of occiput (no red marrow)",
+    "hair-on-end appearance of skull",
+    "osteoporosis in long bones (most prominent in hands)",
+    "absence of facial bone involvement"
+  ],
+  "other_features": {
+    "general": [
+      "widening of diploe + thinning of tables with sparing of occiput (no red marrow)",
+      "hair-on-end appearance of skull",
+      "osteoporosis in long bones (most prominent in hands)",
+      "absence of facial bone involvement"
+    ]
+  },
+  "clinical": {}
+}

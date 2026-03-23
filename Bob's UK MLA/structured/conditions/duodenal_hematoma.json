@@ -1,0 +1,35 @@
+{
+  "name": "DUODENAL HEMATOMA",
+  "slug": "duodenal_hematoma",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/duodenal_hematoma.md",
+  "definition": "",
+  "demographics": {
+    "Age": "80% in children / young adults",
+    "Associated with": "pancreatic injury in 50-98%, mesenteric and abdominal wall hematoma,",
+    "Path": "mural hematoma with blood dissecting along submucosal compartment ← separation of",
+    "Location": "2nd / 3rd portion of duodenum"
+  },
+  "dominant_finding": "hyperattenuating (= acute trauma) thickened duodenal wall",
+  "distribution": "2nd / 3rd portion of duodenum",
+  "discriminating_features": [
+    "circumferential / eccentric duodenal narrowing ← extrinsic compression",
+    "large filling defect completely occupying + dilating lumen",
+    "hyperattenuating (= acute trauma) thickened duodenal wall",
+    "eccentric mass protruding into the bowel lumen"
+  ],
+  "other_features": {
+    "general": [
+      "circumferential / eccentric duodenal narrowing ← extrinsic compression",
+      "large filling defect completely occupying + dilating lumen"
+    ],
+    "CT": [
+      "hyperattenuating (= acute trauma) thickened duodenal wall",
+      "eccentric mass protruding into the bowel lumen"
+    ]
+  },
+  "clinical": {
+    "Cx": "bowel obstruction, perforation",
+    "Rx": "conservative"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "F. FATTY MASS",
+  "slug": "f_fatty_mass_b8d9bb",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/f_fatty_mass_b8d9bb.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bochdalek hernia",
+      "raw": "Bochdalek hernia",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal lipomatosis",
+      "raw": "Mediastinal lipomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Fat-containing tumors: lipoma, liposarcoma, teratoma",
+      "raw": "Fat-containing tumors: lipoma, liposarcoma, teratoma (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

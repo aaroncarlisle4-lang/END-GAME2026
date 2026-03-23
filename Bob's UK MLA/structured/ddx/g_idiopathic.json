@@ -1,0 +1,82 @@
+{
+  "finding": "G. IDIOPATHIC",
+  "slug": "g_idiopathic",
+  "chapter": "F. DRUG REACTIONS",
+  "source_file": "processed_clusters/f_drug_reactions/g_idiopathic.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Usual interstitial pneumonitis",
+      "raw": "Usual interstitial pneumonitis (UIP)",
+      "frequency": null
+    },
+    {
+      "name": "Desquamative interstitial pneumonitis",
+      "raw": "Desquamative interstitial pneumonitis (DIP)",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis: smooth muscle proliferation",
+      "raw": "Tuberous sclerosis: smooth muscle proliferation",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiomyomatosis",
+      "raw": "Lymphangiomyomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic pulmonary hemosiderosis",
+      "raw": "Idiopathic pulmonary hemosiderosis",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar proteinosis",
+      "raw": "Alveolar proteinosis (late complication)",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Interstitial calcification (chronic renal failure) mnemonic:   LIFE lines",
+      "raw": "Interstitial calcification (chronic renal failure) mnemonic:   LIFE lines",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangitic spread",
+      "raw": "Lymphangitic spread",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation / infection",
+      "raw": "Inflammation / infection",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosis",
+      "raw": "Fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Edema",
+      "raw": "Edema",
+      "frequency": null
+    },
+    {
+      "name": "Coarse Reticulations",
+      "raw": "Coarse Reticulations",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic carcinoma = scar carcinoma",
+      "raw": "Bronchogenic carcinoma = scar carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  architectural destruction of interstitium = end-stage scarring of lung = interstitial pulmonary fibrosis = honeycomb lung √  coarse reticular interstitial densities with intervening cystic spaces √  rounded radiolucencies < 1 cm in areas of increased lung density √  small lung volume (decreased compliance) Cx:   (1)   Intercurrent pneumothoraces Cause:"
+}

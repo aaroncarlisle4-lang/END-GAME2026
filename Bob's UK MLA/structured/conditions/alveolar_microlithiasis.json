@@ -1,0 +1,35 @@
+{
+  "name": "ALVEOLAR MICROLITHIASIS",
+  "slug": "alveolar_microlithiasis",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/alveolar_microlithiasis.md",
+  "definition": "very rare disease of unknown etiology characterized by myriad of calcospherites (=",
+  "demographics": {},
+  "dominant_finding": "thickening + micronodulation of interlobular septa ← innumerable microliths within",
+  "distribution": "diffuse involvement of both lungs",
+  "discriminating_features": [
+    "very fine, sharply defined, sandstorm-like micronodular (< 1 mm) pattern",
+    "diffuse involvement of both lungs",
+    "obscuration of mediastinal + diaphragmatic reflections",
+    "vertical linear radiolucency between ribs + lung parenchyma ← subpleural cystic changes",
+    "intense uptake on bone scan"
+  ],
+  "other_features": {
+    "general": [
+      "very fine, sharply defined, sandstorm-like micronodular (< 1 mm) pattern",
+      "diffuse involvement of both lungs",
+      "obscuration of mediastinal + diaphragmatic reflections",
+      "vertical linear radiolucency between ribs + lung parenchyma ← subpleural cystic changes",
+      "intense uptake on bone scan"
+    ],
+    "HRCT": [
+      "thickening + micronodulation of interlobular septa ← innumerable microliths within",
+      "thickened micronodular appearance of bronchovascular + subpleural interstitium",
+      "pleural calcifications",
+      "ground-glass appearance (of microliths < 1 mm) ± \"crazy paving\" pattern"
+    ]
+  },
+  "clinical": {
+    "Rx": "NO effective treatment aside from lung transplant"
+  }
+}

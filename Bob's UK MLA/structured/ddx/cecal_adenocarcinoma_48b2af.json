@@ -1,0 +1,42 @@
+{
+  "finding": "Cecal Adenocarcinoma",
+  "slug": "cecal_adenocarcinoma_48b2af",
+  "chapter": "COLONIC ATRESIA",
+  "source_file": "processed_clusters/colonic_atresia/cecal_adenocarcinoma_48b2af.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "often grow asymptomatic for a long time",
+      "raw": "often grow asymptomatic for a long time",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction (rare): often large tumor within capacious cecum",
+      "raw": "Obstruction (rare): often large tumor within capacious cecum",
+      "frequency": "rare"
+    },
+    {
+      "name": "Intussusception ← tumor as lead point",
+      "raw": "Intussusception ← tumor as lead point",
+      "frequency": null
+    },
+    {
+      "name": "gastrointestinal bleeding, change in bowel habit",
+      "raw": "gastrointestinal bleeding, change in bowel habit",
+      "frequency": null
+    },
+    {
+      "name": "liver metastasis ← via IMV + portal venous system / via endolymphatic spread along course of IMV",
+      "raw": "liver metastasis ← via IMV + portal venous system / via endolymphatic spread along course of IMV",
+      "frequency": null
+    },
+    {
+      "name": "lung metastasis ← via internal iliac veins + IVC",
+      "raw": "lung metastasis ← via internal iliac veins + IVC",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  often large polypoid bulky tumor √  marked wall thickening + mild pericolic infiltration √  involvement of distal ileum (10%) Cx: Signet Ring Carcinoma (2.6%) =  variant of mucin-secreting adenocarcinoma Age:     younger patients Histo:  > 50% of cells have a cell nucleus that is displaced to periphery by large amount of intracytoplasmic mucin Spread:   peritoneal surfaces + lymph nodes (more readily); hepatic parenchymal metastases (less frequent) √  often elongated infiltrating mass > 5 cm in length mimicking underlying colonic inflammatory process √  concentric rigid wall thickening of s"
+}

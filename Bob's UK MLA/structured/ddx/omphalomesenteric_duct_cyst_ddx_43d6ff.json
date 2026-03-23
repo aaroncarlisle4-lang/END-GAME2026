@@ -1,0 +1,22 @@
+{
+  "finding": "Omphalomesenteric Duct Cyst (DDx)",
+  "slug": "omphalomesenteric_duct_cyst_ddx_43d6ff",
+  "chapter": "Omphalomesenteric Duct Cyst",
+  "source_file": "processed_clusters/omphalomesenteric_duct_cyst/omphalomesenteric_duct_cyst_ddx_43d6ff.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "allantoic cyst",
+      "raw": "allantoic cyst",
+      "frequency": null
+    },
+    {
+      "name": "umbilical cord hematoma",
+      "raw": "umbilical cord hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "umbilical cord cyst up to 6 cm in diameter | beneath amniotic surface of cord (= eccentric)"
+}

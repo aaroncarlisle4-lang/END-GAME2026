@@ -1,0 +1,57 @@
+{
+  "finding": "Prominent Pyramidal Lobe",
+  "slug": "prominent_pyramidal_lobe",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/prominent_pyramidal_lobe.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Normal variant: present in 10%",
+      "raw": "Normal variant: present in 10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "Hyperthyroidism",
+      "raw": "Hyperthyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Thyroiditis",
+      "raw": "Thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "S/P thyroid surgery DDx:  esophageal activity from salivary excretion",
+      "raw": "S/P thyroid surgery DDx:  esophageal activity from salivary excretion (disappears after glass of water)",
+      "frequency": null
+    },
+    {
+      "name": "Papillary carcinoma 61%",
+      "raw": "Papillary carcinoma 61%",
+      "frequency": "61%"
+    },
+    {
+      "name": "Follicular carcinoma 26%",
+      "raw": "Follicular carcinoma 26%",
+      "frequency": "26%"
+    },
+    {
+      "name": "Undifferentiated carcinoma 13%",
+      "raw": "Undifferentiated carcinoma 13%",
+      "frequency": "13%"
+    },
+    {
+      "name": "Follicular adenoma",
+      "raw": "Follicular adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Hashimoto thyroiditis",
+      "raw": "Hashimoto thyroiditis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  distal remnant of thyroid descent tract Thyroid Calcifications (a)  microcalcifications = psammoma bodies √  punctate hyperechoic foci without acoustic shadowing (b)  large coarse calcifications = tissue necrosis √  spicules / fragmented plates / granular deposit within fibrous septa with posterior acoustic shadowing ◊  Common in multinodular goiter + medullary cancer ◊  Associated with 75% malignancy rate in solitary nodule (c)  peripheral calcifications √  alignment along periphery of lesion ◊  Common in multinodular goiter ± malignancy Psammoma Bodies =  10-100 µm round crystalline calci"
+}

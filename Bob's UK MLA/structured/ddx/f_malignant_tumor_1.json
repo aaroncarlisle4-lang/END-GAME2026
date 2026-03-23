@@ -1,0 +1,27 @@
+{
+  "finding": "F. MALIGNANT TUMOR",
+  "slug": "f_malignant_tumor_1",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/f_malignant_tumor_1.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteoblastic metastasis: prostate, breast",
+      "raw": "Osteoblastic metastasis: prostate, breast",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma: osteo-, chondro-, Ewing sarcoma",
+      "raw": "Sarcoma: osteo-, chondro-, Ewing sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

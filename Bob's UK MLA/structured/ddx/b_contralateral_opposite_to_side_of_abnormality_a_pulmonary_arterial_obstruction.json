@@ -1,0 +1,47 @@
+{
+  "finding": "B. CONTRALATERAL = opposite to side of abnormality (a) pulmonary arterial obstruction",
+  "slug": "b_contralateral_opposite_to_side_of_abnormality_a_pulmonary_arterial_obstruction",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/b_contralateral_opposite_to_side_of_abnormality_a_pulmonary_arterial_obstruction.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital absence / hypoplasia of pulmonary a.",
+      "raw": "Congenital absence / hypoplasia of pulmonary a.",
+      "frequency": null
+    },
+    {
+      "name": "Unilateral arterial obstruction",
+      "raw": "Unilateral arterial obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary thromboembolism (b)  loss of lung parenchyma",
+      "raw": "Pulmonary thromboembolism (b)  loss of lung parenchyma",
+      "frequency": null
+    },
+    {
+      "name": "Swyer-James syndrome",
+      "raw": "Swyer-James syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Unilateral emphysema",
+      "raw": "Unilateral emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Lobectomy",
+      "raw": "Lobectomy",
+      "frequency": null
+    },
+    {
+      "name": "Pleural disease",
+      "raw": "Pleural disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

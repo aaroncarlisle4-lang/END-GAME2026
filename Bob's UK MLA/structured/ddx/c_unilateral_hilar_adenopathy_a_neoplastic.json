@@ -1,0 +1,157 @@
+{
+  "finding": "C. UNILATERAL HILAR ADENOPATHY (a) neoplastic",
+  "slug": "c_unilateral_hilar_adenopathy_a_neoplastic",
+  "chapter": "C. DIAPHRAGM",
+  "source_file": "processed_clusters/c_diaphragm/c_unilateral_hilar_adenopathy_a_neoplastic.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases (lack of mediastinal involvement exceptional)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma (b)  inflammatory",
+      "raw": "Lymphoma (b)  inflammatory",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis (primary) in 80%",
+      "raw": "Tuberculosis (primary) in 80%",
+      "frequency": "80%"
+    },
+    {
+      "name": "Fungal infection: histoplasmosis, coccidioidomycosis, blastomycosis",
+      "raw": "Fungal infection: histoplasmosis, coccidioidomycosis, blastomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Viral infection: atypical measles",
+      "raw": "Viral infection: atypical measles",
+      "frequency": null
+    },
+    {
+      "name": "Infectious mononucleosis",
+      "raw": "Infectious mononucleosis",
+      "frequency": null
+    },
+    {
+      "name": "Drug reaction",
+      "raw": "Drug reaction",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (in 1-3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Bilateral lung abscess mnemonic:   Fat Hila Suck",
+      "raw": "Bilateral lung abscess mnemonic:   Fat Hila Suck",
+      "frequency": null
+    },
+    {
+      "name": "Fungus",
+      "raw": "Fungus",
+      "frequency": null
+    },
+    {
+      "name": "Hodgkin disease",
+      "raw": "Hodgkin disease",
+      "frequency": null
+    },
+    {
+      "name": "Squamous / oat cell carcinoma",
+      "raw": "Squamous / oat cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "BILATERAL HILAR ADENOPATHY ◊  Most common cause in the absence of specific symptoms / signs is sarcoidosis (in 75%) (a)  neoplastic",
+      "raw": "BILATERAL HILAR ADENOPATHY ◊  Most common cause in the absence of specific symptoms / signs is sarcoidosis (in 75%) (a)  neoplastic",
+      "frequency": "75%"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (in 50% Hodgkin disease)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Primary bronchogenic carcinoma",
+      "raw": "Primary bronchogenic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma (b)  inflammatory",
+      "raw": "Plasmacytoma (b)  inflammatory",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (in 70-90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Silicosis",
+      "raw": "Silicosis",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic pulmonary hemosiderosis",
+      "raw": "Idiopathic pulmonary hemosiderosis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic berylliosis (c)  infectious",
+      "raw": "Chronic berylliosis (c)  infectious",
+      "frequency": null
+    },
+    {
+      "name": "Rubella, ECHO virus, varicella, mononucleosis mnemonic:   Please Helen Lick My Popsicle Stick",
+      "raw": "Rubella, ECHO virus, varicella, mononucleosis mnemonic:   Please Helen Lick My Popsicle Stick",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Pneumoconiosis",
+      "raw": "Pneumoconiosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Primary TB Histoplasmosis"
+}

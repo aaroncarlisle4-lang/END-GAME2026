@@ -1,0 +1,27 @@
+{
+  "finding": "Cause of Absent Gas in Neonate",
+  "slug": "cause_of_absent_gas_in_neonate",
+  "chapter": "E. HYDROPS FETALIS",
+  "source_file": "processed_clusters/e_hydrops_fetalis/cause_of_absent_gas_in_neonate.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "GI obstruction",
+      "raw": "GI obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Mechanical ventilation in severe respiratory distress",
+      "raw": "Mechanical ventilation in severe respiratory distress",
+      "frequency": null
+    },
+    {
+      "name": "Continuous gastric suction",
+      "raw": "Continuous gastric suction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

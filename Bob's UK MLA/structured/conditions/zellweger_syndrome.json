@@ -1,0 +1,32 @@
+{
+  "name": "ZELLWEGER SYNDROME",
+  "slug": "zellweger_syndrome",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/zellweger_syndrome.md",
+  "definition": "CEREBROHEPATORENAL SYNDROME autosomal recessive peroxisomal disorder with disturbed myelination in oligodendrocytes",
+  "demographics": {
+    "Path": "⇑ very long-chain fatty acids in plasma and fibroblasts"
+  },
+  "dominant_finding": "hypomyelination",
+  "distribution": "diffuse microgyria + regions of pachygyria, lissencephaly",
+  "discriminating_features": [
+    "hypomyelination",
+    "diffuse microgyria + regions of pachygyria, lissencephaly",
+    "subependymal germinolytic cysts in caudothalamic groove",
+    "↑ lipid levels + ↓ N-acetylaspartate levels",
+    "renal cortical cysts"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "hypomyelination",
+      "diffuse microgyria + regions of pachygyria, lissencephaly",
+      "subependymal germinolytic cysts in caudothalamic groove",
+      "↑ lipid levels + ↓ N-acetylaspartate levels",
+      "renal cortical cysts"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death within 1st year of life"
+  }
+}

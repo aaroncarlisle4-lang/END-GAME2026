@@ -1,0 +1,43 @@
+{
+  "finding": "Bacterial Endocarditis — Joints (DDx)",
+  "slug": "bacterial_endocarditis_joints_ddx_7e13fd",
+  "chapter": "Bacterial Endocarditis",
+  "source_file": "processed_clusters/bacterial_endocarditis/bacterial_endocarditis_joints_ddx_7e13fd.md",
+  "quality_score": 0.75,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Reiter syndrome",
+      "raw": "Reiter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Stevens-Johnson syndrome",
+      "raw": "Stevens-Johnson syndrome",
+      "frequency": null
+    },
+    {
+      "name": "SLE",
+      "raw": "SLE",
+      "frequency": null
+    },
+    {
+      "name": "ulcerative colitis",
+      "raw": "ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "ankylosing spondylitis",
+      "raw": "ankylosing spondylitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Reiter syndrome": [],
+    "Stevens-Johnson syndrome": [],
+    "SLE": [],
+    "ulcerative colitis": [],
+    "ankylosing spondylitis": []
+  },
+  "context": "mild nondestructive arthritis"
+}

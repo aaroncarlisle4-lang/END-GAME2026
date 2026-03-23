@@ -1,0 +1,32 @@
+{
+  "name": "ABNORMAL INTRAABDOMINAL FLUID",
+  "slug": "abnormal_intraabdominal_fluid",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_hemorrhage/abnormal_intraabdominal_fluid.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "space between properitoneal fat and gut > 3 mm",
+  "distribution": "round central density in pelvis + ill-defined bladder top",
+  "discriminating_features": [
+    "round central density in pelvis + ill-defined bladder top",
+    "thickening of peritoneal flank stripe",
+    "space between properitoneal fat and gut > 3 mm",
+    "Hellmer sign = medial displacement of lateral liver margins",
+    "medial displacement of ascending + descending colon"
+  ],
+  "other_features": {
+    "general": [
+      "round central density in pelvis + ill-defined bladder top",
+      "thickening of peritoneal flank stripe",
+      "space between properitoneal fat and gut > 3 mm",
+      "Hellmer sign = medial displacement of lateral liver margins",
+      "medial displacement of ascending + descending colon",
+      "obliteration of hepatic + splenic angles",
+      "bulging flanks",
+      "gray abdomen",
+      "floating centralized loops",
+      "separation of loops"
+    ]
+  },
+  "clinical": {}
+}

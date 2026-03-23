@@ -1,0 +1,43 @@
+{
+  "finding": "D. INFECTION / INFLAMMATION",
+  "slug": "d_infection_inflammation",
+  "chapter": "PERIVENTRICULAR REGION",
+  "source_file": "processed_clusters/periventricular_region/d_infection_inflammation.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "HIV encephalitis:",
+      "raw": "HIV encephalitis:",
+      "frequency": null
+    },
+    {
+      "name": "Lyme encephalopathy",
+      "raw": "Lyme encephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Neurocysticercosis",
+      "raw": "Neurocysticercosis",
+      "frequency": null
+    },
+    {
+      "name": "Fungal disease: cryptococcosis",
+      "raw": "Fungal disease: cryptococcosis",
+      "frequency": null
+    },
+    {
+      "name": "Congenital CMV infection of CNS",
+      "raw": "Congenital CMV infection of CNS",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "HIV encephalitis:": [],
+    "Lyme encephalopathy": [],
+    "Neurocysticercosis": [],
+    "Fungal disease: cryptococcosis": [],
+    "Congenital CMV infection of CNS": []
+  },
+  "context": "√  well-defined \"patchy\" / ill-defined \"dirty white matter\" √  central atrophy"
+}

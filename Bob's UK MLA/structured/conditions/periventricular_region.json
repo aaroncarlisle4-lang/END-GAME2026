@@ -1,0 +1,32 @@
+{
+  "name": "PERIVENTRICULAR REGION",
+  "slug": "periventricular_region",
+  "chapter": "TRIGEMINAL NEUROPATHY",
+  "source_file": "processed_clusters/disease_entries/trigeminal_neuropathy/periventricular_region.md",
+  "definition": "\"blooming\" susceptibility artifacts on T2* GRE",
+  "demographics": {
+    "Associated with": "dilated ventricle, sulci, fissures",
+    "Histo": "reduced myelin, axonal loss, astrocytic gliosis"
+  },
+  "dominant_finding": "slightly denser than CSF",
+  "distribution": "central atrophy",
+  "discriminating_features": [
+    "slightly denser than CSF",
+    "CSF density",
+    "may show ring enhancement + compression of adjacent structures",
+    "mass effect + contrast enhancement",
+    "well-defined \"patchy\" / ill-defined \"dirty white matter\""
+  ],
+  "other_features": {
+    "general": [
+      "slightly denser than CSF",
+      "CSF density",
+      "may show ring enhancement + compression of adjacent structures",
+      "mass effect + contrast enhancement",
+      "well-defined \"patchy\" / ill-defined \"dirty white matter\"",
+      "central atrophy",
+      "smooth halo of even thickness"
+    ]
+  },
+  "clinical": {}
+}

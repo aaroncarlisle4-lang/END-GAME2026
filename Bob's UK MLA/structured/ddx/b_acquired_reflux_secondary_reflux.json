@@ -1,0 +1,52 @@
+{
+  "finding": "B. ACQUIRED REFLUX = SECONDARY REFLUX",
+  "slug": "b_acquired_reflux_secondary_reflux",
+  "chapter": "VESICOURETERIC REFLUX",
+  "source_file": "processed_clusters/vesicoureteric_reflux/b_acquired_reflux_secondary_reflux.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Paraureteric diverticulum = Hutch diverticulum",
+      "raw": "Paraureteric diverticulum = Hutch diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Duplication with ureterocele",
+      "raw": "Duplication with ureterocele",
+      "frequency": null
+    },
+    {
+      "name": "Cystitis",
+      "raw": "Cystitis (in 29-50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Urethral obstruction",
+      "raw": "Urethral obstruction (urethral valves)",
+      "frequency": null
+    },
+    {
+      "name": "Neurogenic bladder",
+      "raw": "Neurogenic bladder",
+      "frequency": null
+    },
+    {
+      "name": "Absence of abdominal musculature",
+      "raw": "Absence of abdominal musculature (prune belly syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Grade IV-V require surgery to avoid renal scarring + renal impairment + hypertension (except in infants",
+      "raw": "Grade IV-V require surgery to avoid renal scarring + renal impairment + hypertension (except in infants",
+      "frequency": null
+    },
+    {
+      "name": "Periureteral diverticulum requires surgery (grade of reflux not prognostic) ◊  Grade I-III resolve with maturation of the UV junction",
+      "raw": "Periureteral diverticulum requires surgery (grade of reflux not prognostic) ◊  Grade I-III resolve with maturation of the UV junction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cx:   renal scarring with UTI (30-60%) Estimated radiation dose to ovaries: (a)  usual fluoroscopy:                          300 mrad (c)  tailored low-dose fluoroscopy:       3 mrad (b)  radionuclide cystography:               2 mrad US (74% of kidneys with VUR may be normal by US): √  intermittent hydroureteronephrosis = variable size of collecting system √  redundant mucosa causing apparent thickening of renal pelvic wall √  large thin-walled bladder √  midline-to-orifice distance > 7-9 mm has high probability of vesicoureteric reflux Prognosis: All grades of reflux can be outgrown: ›  80%"
+}

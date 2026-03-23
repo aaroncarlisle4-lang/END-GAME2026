@@ -1,0 +1,27 @@
+{
+  "finding": "Drowned Lung (DDx)",
+  "slug": "drowned_lung_ddx",
+  "chapter": "Drowned Lung",
+  "source_file": "processed_clusters/drowned_lung/drowned_lung_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "resorptive atelectasis",
+      "raw": "resorptive atelectasis",
+      "frequency": null
+    },
+    {
+      "name": "obstructive pneumonitis",
+      "raw": "obstructive pneumonitis",
+      "frequency": null
+    },
+    {
+      "name": "endogenous \"golden\" lipoid pneumonia",
+      "raw": "endogenous \"golden\" lipoid pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mucus bronchogram = bronchi filled with low-attenuation material | delineates enhancing tumor + lymph nodes from consolidated lung of low attenuation (= | T2WI differentiates drowned lung from obstructing tumor | high tumor activity centrally"
+}

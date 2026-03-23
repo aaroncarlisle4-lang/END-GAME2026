@@ -1,0 +1,27 @@
+{
+  "name": "FOURNIER GANGRENE",
+  "slug": "fournier_gangrene",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/fournier_gangrene.md",
+  "definition": "FULMINANT NECROTIZING FASCIITIS uncommon potentially lethal polymicrobial necrotizing fasciitis of the perineal, perianal or",
+  "demographics": {
+    "Prevalence": "500 cases in literature",
+    "Path": "obliterative endarteritis with ensuing cutaneous + subcutaneous necrosis and gangrene,",
+    "Age": "newborn to elderly; M÷F = 10÷1"
+  },
+  "dominant_finding": "gas in scrotal wall + perineum",
+  "distribution": "",
+  "discriminating_features": [
+    "gas in scrotal wall + perineum",
+    "scrotal skin thickening + normal testes"
+  ],
+  "other_features": {
+    "general": [
+      "gas in scrotal wall + perineum",
+      "scrotal skin thickening + normal testes"
+    ]
+  },
+  "clinical": {
+    "Rx": "antibiotic therapy + debridement + hyperbaric oxygen"
+  }
+}

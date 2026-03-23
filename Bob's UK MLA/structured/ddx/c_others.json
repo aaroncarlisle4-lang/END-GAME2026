@@ -1,0 +1,92 @@
+{
+  "finding": "C. OTHERS",
+  "slug": "c_others",
+  "chapter": "DEMENTIA",
+  "source_file": "processed_clusters/dementia/c_others.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "MELAS",
+      "raw": "MELAS",
+      "frequency": null
+    },
+    {
+      "name": "Cortical venous thrombosis",
+      "raw": "Cortical venous thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Normal pressure hydrocephalus",
+      "raw": "Normal pressure hydrocephalus",
+      "frequency": null
+    },
+    {
+      "name": "Subdural hematoma",
+      "raw": "Subdural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Brain mass",
+      "raw": "Brain mass (CNS lymphoma + other neoplasms)",
+      "frequency": null
+    },
+    {
+      "name": "Alzheimer disease 60-70%",
+      "raw": "Alzheimer disease 60-70%",
+      "frequency": "70%"
+    },
+    {
+      "name": "Dementia with Lewy bodies 25%",
+      "raw": "Dementia with Lewy bodies 25%",
+      "frequency": "25%"
+    },
+    {
+      "name": "Frontotemporal dementia 5-10%",
+      "raw": "Frontotemporal dementia 5-10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "Vascular dementia ?%",
+      "raw": "Vascular dementia ?% (declining)",
+      "frequency": null
+    },
+    {
+      "name": "Mixed etiology 6%",
+      "raw": "Mixed etiology 6%",
+      "frequency": "6%"
+    },
+    {
+      "name": "Normal pressure hydrocephalus 1%",
+      "raw": "Normal pressure hydrocephalus 1%",
+      "frequency": "1%"
+    },
+    {
+      "name": "Depression 1%",
+      "raw": "Depression 1%",
+      "frequency": "1%"
+    },
+    {
+      "name": "Tumor 1%",
+      "raw": "Tumor 1%",
+      "frequency": "1%"
+    },
+    {
+      "name": "> 6 months of progressive dementia",
+      "raw": "> 6 months of progressive dementia",
+      "frequency": null
+    },
+    {
+      "name": "Comprehensive neurological exam",
+      "raw": "Comprehensive neurological exam",
+      "frequency": null
+    },
+    {
+      "name": "Diagnostic criteria for dementia have been met",
+      "raw": "Diagnostic criteria for dementia have been met",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "In order of frequency: PET in Dementia ◊  PET is replacing SPECT ← (1) better spatial resolution, (2) greater sensitivity for hypometabolism compared to perfusion and (3) ability to quantify changes! Rationale:  dementia diminishes the usually high metabolic rate of active neurons in a typical pattern of distribution Indication:   distinguish between Alzheimer disease and frontotemporal (Pick) dementia Requirements for PET imaging: √  sparing of sensorimotor cortex"
+}

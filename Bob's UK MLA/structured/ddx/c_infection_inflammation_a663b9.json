@@ -1,0 +1,47 @@
+{
+  "finding": "C. INFECTION / INFLAMMATION",
+  "slug": "c_infection_inflammation_a663b9",
+  "chapter": "SPLEEN",
+  "source_file": "processed_clusters/spleen/c_infection_inflammation_a663b9.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pyogenic abscess",
+      "raw": "Pyogenic abscess",
+      "frequency": null
+    },
+    {
+      "name": "fever, chills, LUQ pain",
+      "raw": "fever, chills, LUQ pain (in < 50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Microabscesses",
+      "raw": "Microabscesses",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous infection",
+      "raw": "Granulomatous infection",
+      "frequency": null
+    },
+    {
+      "name": "Pneumocystis carinii infection",
+      "raw": "Pneumocystis carinii infection",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic cyst",
+      "raw": "Parasitic cyst (Echinococcus)",
+      "frequency": null
+    },
+    {
+      "name": "Intrasplenic pancreatic pseudocyst",
+      "raw": "Intrasplenic pancreatic pseudocyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   0.1-0.7% Cause:   hematogenous spread in sepsis (75%), penetrating trauma (15%), infarction (10%) Predisposed:   endocarditis, drug abuse, penetrating trauma, neoplasm, sickle cell disease √  irregular borders without capsule √  gas bubbles within abscess √  rim enhancement Rx:   76% success rate for percutaneous drain Organism:   fungus (especially Candida, Aspergillus, Cryptococcus) Prevalence:   26% of splenic abscesses Predisposed:   immunocompromised patient √  hepatosplenomegaly √  multiple round hypoechoic / hypoattenuating \"target\" lesions of 5-10 mm often associated with"
+}

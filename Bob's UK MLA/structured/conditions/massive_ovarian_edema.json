@@ -1,0 +1,27 @@
+{
+  "name": "MASSIVE OVARIAN EDEMA",
+  "slug": "massive_ovarian_edema",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/massive_ovarian_edema.md",
+  "definition": "tumorlike condition with marked enlargement of one / both (occasionally) ovaries ←",
+  "demographics": {
+    "Prevalence": "rare; common in young woman during ovulation induction / pregnancy",
+    "Location": "right > left ovary",
+    "Age": "6-33 (average 21) years"
+  },
+  "dominant_finding": "solid / multicystic adnexal mass",
+  "distribution": "right > left ovary",
+  "discriminating_features": [
+    "solid / multicystic adnexal mass",
+    "ovarian diameter of 5-40 (mean 11.5) cm"
+  ],
+  "other_features": {
+    "general": [
+      "solid / multicystic adnexal mass",
+      "ovarian diameter of 5-40 (mean 11.5) cm"
+    ]
+  },
+  "clinical": {
+    "Rx": "oophorectomy / salpingo-oophorectomy / wedge resection with ovarian suspension"
+  }
+}

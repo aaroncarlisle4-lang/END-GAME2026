@@ -1,0 +1,97 @@
+{
+  "finding": "Associated with: pulmonary consolidation",
+  "slug": "associated_with_pulmonary_consolidation",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/chest_disorders/associated_with_pulmonary_consolidation.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "SYSTEMIC CONDITION (← extrapulmonary disease) =  sepsis, pancreatitis, severe trauma, blood transfusion → systemic biochemical cascade creating oxidating agents, inflammatory mediators, enzymes",
+      "raw": "SYSTEMIC CONDITION (← extrapulmonary disease) =  sepsis, pancreatitis, severe trauma, blood transfusion → systemic biochemical cascade creating oxidating agents, inflammatory mediators, enzymes",
+      "frequency": null
+    },
+    {
+      "name": "Disseminated intravascular coagulation",
+      "raw": "Disseminated intravascular coagulation",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Caught drowning",
+      "raw": "Caught drowning",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Inhalants: smoke, phosgene, NO2",
+      "raw": "Inhalants: smoke, phosgene, NO2",
+      "frequency": null
+    },
+    {
+      "name": "O2 toxicity",
+      "raw": "O2 toxicity",
+      "frequency": null
+    },
+    {
+      "name": "Narcotics + other drugs",
+      "raw": "Narcotics + other drugs",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration",
+      "raw": "Aspiration",
+      "frequency": null
+    },
+    {
+      "name": "Radiation",
+      "raw": "Radiation",
+      "frequency": null
+    },
+    {
+      "name": "Includes pancreatitis",
+      "raw": "Includes pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Emboli: amniotic fluid, fat",
+      "raw": "Emboli: amniotic fluid, fat",
+      "frequency": null
+    },
+    {
+      "name": "Shock: septic, hemorrhagic, cardiogenic, anaphylactic",
+      "raw": "Shock: septic, hemorrhagic, cardiogenic, anaphylactic",
+      "frequency": null
+    },
+    {
+      "name": "initially few / no symptoms",
+      "raw": "initially few / no symptoms",
+      "frequency": null
+    },
+    {
+      "name": "rapidly progressive dyspnea, tachypnea, cyanosis",
+      "raw": "rapidly progressive dyspnea, tachypnea, cyanosis",
+      "frequency": null
+    },
+    {
+      "name": "hypoxia unresponsive to oxygen therapy ← AV shunting",
+      "raw": "hypoxia unresponsive to oxygen therapy ← AV shunting",
+      "frequency": null
+    },
+    {
+      "name": "NO increase in pulmonary capillary pressure",
+      "raw": "NO increase in pulmonary capillary pressure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Associated with:   interstitial edema, alveolar collapse Histo: › up to 12 hr: fibrin + platelet microemboli › 12-24 hr: interstitial edema › 24-48 hr: capillary congestion, extensive interstitial + alveolar proteinaceous edema + hemorrhage, widespread microatelectasis, destruction of type I alveolar epithelial cells › 5-7 d: extensive hyaline membrane formation, hypertrophy + hyperplasia of type II alveolar lining cells › 7-14 d: extensive fibroblastic proliferation in interstitium + within alveoli, rapidly progressing collagen deposition + fibrosis; almost invariably associated with infectio"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Large Nonobstructed CBD",
+  "slug": "large_nonobstructed_cbd_bebca9",
+  "chapter": "B. NONPHYSIOLOGIC",
+  "source_file": "processed_clusters/b_nonphysiologic/large_nonobstructed_cbd_bebca9.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Passage of stone",
+      "raw": "Passage of stone (return to normal after days to weeks)",
+      "frequency": null
+    },
+    {
+      "name": "Common bile duct surgery",
+      "raw": "Common bile duct surgery (return to normal in 30-50 days)",
+      "frequency": "common"
+    },
+    {
+      "name": "Postcholecystectomy dilatation",
+      "raw": "Postcholecystectomy dilatation (in up to 16%)",
+      "frequency": "16%"
+    },
+    {
+      "name": "Intestinal hypomotility",
+      "raw": "Intestinal hypomotility",
+      "frequency": null
+    },
+    {
+      "name": "Normal variant (aging) Fatty-meal sonography (to differentiate from obstruction with 74% sensitivity, 100% specificity) Method:   peroral Lipomul® (1.5 mL/kg) followed by 100 mL of water [cholecystokinin",
+      "raw": "Normal variant (aging) Fatty-meal sonography (to differentiate from obstruction with 74% sensitivity, 100% specificity) Method:   peroral Lipomul® (1.5 mL/kg) followed by 100 mL of water [cholecystokinin",
+      "frequency": "74%"
+    }
+  ],
+  "criteria": {},
+  "context": "causes contraction of gallbladder, relaxation of sphincter of Oddi, increase in bile secretion], CBD measured before and 45 / 60 min after stimulation √  little change / decrease in size = normal response √  increase in size > 2 mm = partial obstruction"
+}

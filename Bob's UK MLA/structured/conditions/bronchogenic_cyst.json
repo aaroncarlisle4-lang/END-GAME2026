@@ -1,0 +1,41 @@
+{
+  "name": "BRONCHOGENIC CYST",
+  "slug": "bronchogenic_cyst",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/bronchogenic_cyst.md",
+  "definition": "CONGENITAL BRONCHOGENIC CYST fluid-filled blind pouch of ventral primitive foregut esophagus)",
+  "demographics": {
+    "Frequency": "most common intrathoracic foregut cyst (54-63% in surgical series)",
+    "Histo": "thin-walled cyst filled with mucinous material, lined by columnar respiratory",
+    "Location": "mediastinum (near carina) >> lung parenchyma > pleura > diaphragm",
+    "Associated with": "spinal abnormalities"
+  },
+  "dominant_finding": "cyst contents of water density (50%) / higher density (50%) ← proteinaceous-mucoid",
+  "distribution": "mediastinum (near carina) >> lung parenchyma > pleura > diaphragm",
+  "discriminating_features": [
+    "sharply outlined round / oval mass",
+    "may contain air-fluid level ← infection / communication with airway or GI tract",
+    "hypoattenuating lesion with smooth imperceptible wall",
+    "cyst contents of water density (50%) / higher density (50%) ← proteinaceous-mucoid",
+    "single unilocular fluid-filled pulmonary cyst in middle / posterior mediastinum"
+  ],
+  "other_features": {
+    "general": [
+      "sharply outlined round / oval mass",
+      "may contain air-fluid level ← infection / communication with airway or GI tract"
+    ],
+    "CT": [
+      "hypoattenuating lesion with smooth imperceptible wall",
+      "cyst contents of water density (50%) / higher density (50%) ← proteinaceous-mucoid",
+      "single unilocular fluid-filled pulmonary cyst in middle / posterior mediastinum",
+      "echogenic distended lung obstructed by bronchogenic cyst",
+      "hyperintense signal relative to lung + CSF on T2WI",
+      "occasionally hyperintense signal relative to lung on T1WI (mucoid / hemorrhagic content)",
+      "hyperintense obstructed lobe on T2WI",
+      "rarely communicates with tracheal lumen",
+      "may show esophageal compression",
+      "36% will eventually contain air"
+    ]
+  },
+  "clinical": {}
+}

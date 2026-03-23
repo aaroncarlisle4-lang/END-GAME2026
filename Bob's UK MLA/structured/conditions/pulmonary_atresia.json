@@ -1,0 +1,47 @@
+{
+  "name": "PULMONARY ATRESIA",
+  "slug": "pulmonary_atresia",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/pulmonary_atresia.md",
+  "definition": "CONGENITAL ABSENCE OF PULMONARY ARTERY atretic pulmonary valve with underdeveloped pulmonary artery distally AGENESIS OF PULMONARY ARTERY atresia of mediastinal portion of right / left pulmonary artery (usually opposite the side of part of spectrum of tetralogy of Fallot (TOF)",
+  "demographics": {
+    "Associated with": "ASD → R-to-L shunt"
+  },
+  "dominant_finding": "short pulmonary a. terminating within 1 cm of its origin",
+  "distribution": "complete absence of mediastinal portion of affected pulmonary artery",
+  "discriminating_features": [
+    "complete absence of mediastinal portion of affected pulmonary artery",
+    "short pulmonary a. terminating within 1 cm of its origin",
+    "hypoplastic ipsilateral lung + hyperinflated contralateral lung rotating across midline",
+    "abundant systemic collaterals to affected lung ← dilated bronchial arteries, subclavian",
+    "linear peripheral lung opacities = transpleural vascular collaterals"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "small hemithorax of normal radiodensity",
+      "mediastinal shift to affected side",
+      "elevation of ipsilateral diaphragm",
+      "reticular network of vessels on affected side ← systemic collateral circulation from",
+      "rib notching from prominence of intercostal arteries ← large transpleural collateral vessels",
+      "small / enlarged / normal right ventricle",
+      "progressive atrial enlargement ← tricuspid regurgitation",
+      "flow reversal in ductus arteriosus + main pulmonary artery (most reliable)"
+    ],
+    "CT": [
+      "complete absence of mediastinal portion of affected pulmonary artery",
+      "short pulmonary a. terminating within 1 cm of its origin",
+      "hypoplastic ipsilateral lung + hyperinflated contralateral lung rotating across midline",
+      "abundant systemic collaterals to affected lung ← dilated bronchial arteries, subclavian",
+      "linear peripheral lung opacities = transpleural vascular collaterals",
+      "moderately ↑ RA (depending on size of ASD)",
+      "massive enlargement of RA",
+      "cardiomegaly ← increase in size of LV + RA",
+      "concave / small pulmonary artery segment",
+      "diminished pulmonary vascularity"
+    ]
+  },
+  "clinical": {
+    "Rx": "prolonged infusion of prostaglandin E, stent placement into ductus, modified Blalock-"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "finding": "FORAMINA OF BASE OF SKULL",
+  "slug": "foramina_of_base_of_skull_4b6c2e",
+  "chapter": "SUTURES",
+  "source_file": "processed_clusters/sutures/foramina_of_base_of_skull_4b6c2e.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "artery of foramen rotundum",
+      "raw": "artery of foramen rotundum",
+      "frequency": null
+    },
+    {
+      "name": "emissary vv.",
+      "raw": "emissary vv.",
+      "frequency": null
+    },
+    {
+      "name": "V3",
+      "raw": "V3 (mandibular nerve)",
+      "frequency": null
+    },
+    {
+      "name": "lesser petrosal nerve (occasionally) (b) vessels:",
+      "raw": "lesser petrosal nerve (occasionally) (b) vessels:",
+      "frequency": null
+    },
+    {
+      "name": "accessory meningeal artery",
+      "raw": "accessory meningeal artery",
+      "frequency": null
+    },
+    {
+      "name": "emissary veins",
+      "raw": "emissary veins",
+      "frequency": null
+    },
+    {
+      "name": "recurrent meningeal branch of mandibular nerve",
+      "raw": "recurrent meningeal branch of mandibular nerve",
+      "frequency": null
+    },
+    {
+      "name": "lesser superficial petrosal nerve (b) vessels:",
+      "raw": "lesser superficial petrosal nerve (b) vessels:",
+      "frequency": null
+    },
+    {
+      "name": "middle meningeal artery",
+      "raw": "middle meningeal artery",
+      "frequency": null
+    },
+    {
+      "name": "middle meningeal vein",
+      "raw": "middle meningeal vein",
+      "frequency": null
+    },
+    {
+      "name": "medulla oblongata",
+      "raw": "medulla oblongata",
+      "frequency": null
+    },
+    {
+      "name": "CN XI (spinal accessory nerve) (b) vessels: [vertebral artery] [anterior spinal artery] [posterior spinal artery]",
+      "raw": "CN XI (spinal accessory nerve) (b) vessels:",
+      "frequency": null,
+      "sites": [
+        "vertebral artery",
+        "anterior spinal artery",
+        "posterior spinal artery"
+      ]
+    },
+    {
+      "name": "pharyngeal artery",
+      "raw": "pharyngeal artery",
+      "frequency": null
+    },
+    {
+      "name": "branches of meningeal artery [inferior petrosal sinus]",
+      "raw": "branches of meningeal artery",
+      "frequency": null,
+      "sites": [
+        "inferior petrosal sinus"
+      ]
+    },
+    {
+      "name": "meningeal branches of pharyngeal artery + occipital a.",
+      "raw": "meningeal branches of pharyngeal artery + occipital a.",
+      "frequency": null
+    },
+    {
+      "name": "cranial nerve IX",
+      "raw": "cranial nerve IX (glossopharyngeal nerve)",
+      "frequency": null
+    },
+    {
+      "name": "cranial nerve X",
+      "raw": "cranial nerve X (vagus nerve)",
+      "frequency": null
+    },
+    {
+      "name": "cranial nerve XI (spinal accessory nerve) (c)  posterior part: internal jugular vein",
+      "raw": "cranial nerve XI (spinal accessory nerve) (c)  posterior part: internal jugular vein",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "on inner aspect of middle cranial fossa 3 foramina are oriented along an oblique line in the greater sphenoidal wing from anteromedial behind the superior orbital fissure to posterolateral mnemonic:   \"rotos\" foramen rotundum foramen ovale foramen spinosum Foramen Rotundum =  canal within greater sphenoid wing connecting middle cranial fossa + pterygopalatine fossa Location: inferior and lateral to superior orbital fissure Course: extends obliquely forward + slightly inferiorly in a sagittal direction parallel to superior orbital fissure Contents: (a) nerves: V2 (maxillary nerve) (b) vessels:"
+}

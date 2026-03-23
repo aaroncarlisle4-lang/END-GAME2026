@@ -1,0 +1,23 @@
+{
+  "name": "LADD BANDS",
+  "slug": "ladd_bands",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/ladd_bands.md",
+  "definition": "PERITONEAL BANDS congenital fibrous stalk of peritoneal tissue",
+  "demographics": {
+    "Associated with": "malrotation"
+  },
+  "dominant_finding": "oblique termination of duodenal contrast column",
+  "distribution": "",
+  "discriminating_features": [
+    "oblique termination of duodenal contrast column"
+  ],
+  "other_features": {
+    "general": [
+      "oblique termination of duodenal contrast column"
+    ]
+  },
+  "clinical": {
+    "Cx": "duodenal obstruction at its 2nd portion (even without volvulus)"
+  }
+}

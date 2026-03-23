@@ -1,0 +1,52 @@
+{
+  "finding": "Intraconal Lesion without Optic Nerve Involvement",
+  "slug": "intraconal_lesion_without_optic_nerve_involvement_bef706",
+  "chapter": "Spectrum of Orbital Disorders",
+  "source_file": "processed_clusters/spectrum_of_orbital_disorders/intraconal_lesion_without_optic_nerve_involvement_bef706.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cavernous hemangioma",
+      "raw": "Cavernous hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Orbital varix",
+      "raw": "Orbital varix",
+      "frequency": null
+    },
+    {
+      "name": "Carotid-cavernous fistula",
+      "raw": "Carotid-cavernous fistula",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformation least common of orbital vascular malformations",
+      "raw": "Arteriovenous malformation least common of orbital vascular malformations (congenital, idiopathic, traumatic)",
+      "frequency": "common"
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Neurilemmoma",
+      "raw": "Neurilemmoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma (mostly extraconal)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  irregularly shaped intensely enhancing mass of enlarged vessels √  associated with dilated superior / inferior ophthalmic v. √  commonly adjacent to superior orbital fissure, inferior to optic nerve √  local bone erosion"
+}

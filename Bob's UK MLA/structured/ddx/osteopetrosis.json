@@ -1,0 +1,92 @@
+{
+  "finding": "OSTEOPETROSIS",
+  "slug": "osteopetrosis",
+  "chapter": "OSTEOPATHIA STRIATA",
+  "source_file": "processed_clusters/osteopathia_striata/osteopetrosis.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Crowding of marrow",
+      "raw": "Crowding of marrow (myelophthisic anemia + extramedullary hematopoiesis)",
+      "frequency": null
+    },
+    {
+      "name": "Frequently terminates in acute leukemia",
+      "raw": "Frequently terminates in acute leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Heavy metal poisoning",
+      "raw": "Heavy metal poisoning",
+      "frequency": null
+    },
+    {
+      "name": "Melorheostosis",
+      "raw": "Melorheostosis (limited to one extremity)",
+      "frequency": null
+    },
+    {
+      "name": "Hypervitaminosis D",
+      "raw": "Hypervitaminosis D",
+      "frequency": null
+    },
+    {
+      "name": "Pyknodysostosis",
+      "raw": "Pyknodysostosis",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia of skull / face",
+      "raw": "Fibrous dysplasia of skull / face",
+      "frequency": null
+    },
+    {
+      "name": "failure to thrive; lymphadenopathy",
+      "raw": "failure to thrive; lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "premature senile appearance of facies; severe dental caries",
+      "raw": "premature senile appearance of facies; severe dental caries",
+      "frequency": null
+    },
+    {
+      "name": "pancytopenia (= anemia, leukocytopenia, thrombocytopenia) ← severe marrow depression",
+      "raw": "pancytopenia (= anemia, leukocytopenia, thrombocytopenia) ← severe marrow depression",
+      "frequency": null
+    },
+    {
+      "name": "cranial nerve compression → optic atrophy, deafness",
+      "raw": "cranial nerve compression → optic atrophy, deafness",
+      "frequency": null
+    },
+    {
+      "name": "hepatosplenomegaly ← extramedullary hematopoiesis",
+      "raw": "hepatosplenomegaly ← extramedullary hematopoiesis",
+      "frequency": null
+    },
+    {
+      "name": "subarachnoid hemorrhage ← thrombocytopenia",
+      "raw": "subarachnoid hemorrhage ← thrombocytopenia",
+      "frequency": null
+    },
+    {
+      "name": "50% asymptomatic; recurrent fractures",
+      "raw": "50% asymptomatic; recurrent fractures",
+      "frequency": "50%"
+    },
+    {
+      "name": "mild anemia ← narrowed medullary canals",
+      "raw": "mild anemia ← narrowed medullary canals",
+      "frequency": null
+    },
+    {
+      "name": "occasionally cranial nerve palsy",
+      "raw": "occasionally cranial nerve palsy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  rare hereditary disorder Path:   normal / increased number of osteoclasts → defective acidification function of osteoclast required to dissolve bone matrix → failure of proper reabsorption and remodeling of primary spongiosa → bone sclerotic + thick but structurally weak + brittle Cx:    (1)  Usually transverse fractures (common because of brittle bones) with abundant callus + normal healing Rx:   bone marrow transplant DDx: Infantile Autosomal Recessive Osteopetrosis =  congenital more severe form / malignant subtype Cause:  defect on chromosome 11q13 Genetics: (a)  inactivation mutation o"
+}

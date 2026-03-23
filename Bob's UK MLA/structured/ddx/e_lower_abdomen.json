@@ -1,0 +1,47 @@
+{
+  "finding": "E. LOWER ABDOMEN",
+  "slug": "e_lower_abdomen",
+  "chapter": "C. LEFT UPPER QUADRANT",
+  "source_file": "processed_clusters/c_left_upper_quadrant/e_lower_abdomen.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fetal ovarian cyst",
+      "raw": "Fetal ovarian cyst (see below)",
+      "frequency": null
+    },
+    {
+      "name": "Hydrometrocolpos",
+      "raw": "Hydrometrocolpos",
+      "frequency": null
+    },
+    {
+      "name": "Meningocele",
+      "raw": "Meningocele",
+      "frequency": null
+    },
+    {
+      "name": "Sacrococcygeal teratoma",
+      "raw": "Sacrococcygeal teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Ureterocele",
+      "raw": "Ureterocele",
+      "frequency": null
+    },
+    {
+      "name": "Simple ovarian cyst",
+      "raw": "Simple ovarian cyst",
+      "frequency": null
+    },
+    {
+      "name": "Complex ovarian cyst",
+      "raw": "Complex ovarian cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Fetal Ovarian Cyst ◊  Most common intraabdominal mass in female fetus Incidence:   clinically significant ovarian cyst in 1÷2500 live births Time of development:   3rd trimester Cause:   elevated hormone levels ← fetal pituitary gonadotropins, placental human chorionic gonadotropins, maternal estrogens Prognosis:   < 5 cm cyst: spontaneous resolution (69%), > 5 cm cyst: spontaneous resolution (15%) Rx:   The most conservative postpartum approach is a period of observation because many cysts will regress spontaneously."
+}

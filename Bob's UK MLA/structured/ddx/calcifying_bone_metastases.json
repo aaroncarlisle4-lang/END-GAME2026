@@ -1,0 +1,42 @@
+{
+  "finding": "Calcifying Bone Metastases",
+  "slug": "calcifying_bone_metastases",
+  "chapter": "MACRODYSTROPHIA LIPOMATOSA",
+  "source_file": "processed_clusters/macrodystrophia_lipomatosa/calcifying_bone_metastases.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Breast",
+      "raw": "Breast",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Testicular",
+      "raw": "Testicular",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid",
+      "raw": "Thyroid",
+      "frequency": null
+    },
+    {
+      "name": "Ovary",
+      "raw": "Ovary",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous adenocarcinoma of GI tract",
+      "raw": "Mucinous adenocarcinoma of GI tract",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

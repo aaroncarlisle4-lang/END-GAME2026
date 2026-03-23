@@ -1,0 +1,32 @@
+{
+  "finding": "B. DECREASE IN PLACENTAL SIZE",
+  "slug": "b_decrease_in_placental_size_c5c30c",
+  "chapter": "PLACENTA",
+  "source_file": "processed_clusters/placenta/b_decrease_in_placental_size_c5c30c.md",
+  "quality_score": 0.333,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Preeclampsia: associated with placental infarcts in 33-60%",
+      "raw": "Preeclampsia: associated with placental infarcts in 33-60%",
+      "frequency": "60%"
+    },
+    {
+      "name": "IUGR",
+      "raw": "IUGR",
+      "frequency": null
+    },
+    {
+      "name": "Chromosomal abnormality",
+      "raw": "Chromosomal abnormality",
+      "frequency": null
+    },
+    {
+      "name": "Intrauterine infection",
+      "raw": "Intrauterine infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

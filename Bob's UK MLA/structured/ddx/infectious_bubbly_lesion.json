@@ -1,0 +1,37 @@
+{
+  "finding": "Infectious Bubbly Lesion",
+  "slug": "infectious_bubbly_lesion",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/infectious_bubbly_lesion.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Brodie abscess",
+      "raw": "Brodie abscess (Staph. aureus)",
+      "frequency": null
+    },
+    {
+      "name": "Coccidioidomycosis",
+      "raw": "Coccidioidomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Echinococcus",
+      "raw": "Echinococcus",
+      "frequency": null
+    },
+    {
+      "name": "Atypical mycobacterium",
+      "raw": "Atypical mycobacterium",
+      "frequency": null
+    },
+    {
+      "name": "Cystic tuberculosis",
+      "raw": "Cystic tuberculosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

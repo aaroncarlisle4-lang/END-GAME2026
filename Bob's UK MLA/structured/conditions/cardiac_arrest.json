@@ -1,0 +1,32 @@
+{
+  "name": "CARDIAC ARREST",
+  "slug": "cardiac_arrest",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/cardiac_arrest.md",
+  "definition": "sudden cessation of cardiac pump function",
+  "demographics": {},
+  "dominant_finding": "hematocrit effect ← sedimentation of RBCs",
+  "distribution": "contrast pooling in dependent portion of venous system (right atrium, hepatic veins)",
+  "discriminating_features": [
+    "layering of static blood within heart + great vessels",
+    "hematocrit effect ← sedimentation of RBCs",
+    "good depiction of cardiac anatomy ← NO cardiac motion",
+    "contrast pooling in dependent portion of venous system (right atrium, hepatic veins)",
+    "no contrast in pulmonary artery + left heart structures"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "layering of static blood within heart + great vessels",
+      "hematocrit effect ← sedimentation of RBCs",
+      "good depiction of cardiac anatomy ← NO cardiac motion"
+    ],
+    "CECT": [
+      "contrast pooling in dependent portion of venous system (right atrium, hepatic veins)",
+      "no contrast in pulmonary artery + left heart structures"
+    ]
+  },
+  "clinical": {
+    "Rx": "prompt cardiopulmonary resuscitation"
+  }
+}

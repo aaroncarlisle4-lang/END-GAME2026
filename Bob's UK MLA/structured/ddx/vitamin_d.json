@@ -1,0 +1,67 @@
+{
+  "finding": "Vitamin D",
+  "slug": "vitamin_d",
+  "chapter": "S",
+  "source_file": "processed_clusters/s/vitamin_d.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "dependent rickets 190 metabolism 36 musculoskeletal anomalies 91",
+      "raw": "dependent rickets 190 metabolism 36 musculoskeletal anomalies 91",
+      "frequency": null
+    },
+    {
+      "name": "resistant rickets 187",
+      "raw": "resistant rickets 187",
+      "frequency": null
+    },
+    {
+      "name": "Vitelline duct 1120",
+      "raw": "Vitelline duct 1120",
+      "frequency": null
+    },
+    {
+      "name": "Vitreitis 421",
+      "raw": "Vitreitis 421",
+      "frequency": null
+    },
+    {
+      "name": "Vitreous",
+      "raw": "Vitreous",
+      "frequency": null
+    },
+    {
+      "name": "Vitreus 430",
+      "raw": "Vitreus 430",
+      "frequency": null
+    },
+    {
+      "name": "Vocal cord paralysis 443",
+      "raw": "Vocal cord paralysis 443",
+      "frequency": null
+    },
+    {
+      "name": "Voiding dysfunction 1174",
+      "raw": "Voiding dysfunction 1174",
+      "frequency": null
+    },
+    {
+      "name": "Volkmann fracture 114",
+      "raw": "Volkmann fracture 114",
+      "frequency": null
+    },
+    {
+      "name": "Volutrauma 663",
+      "raw": "Volutrauma 663",
+      "frequency": null
+    },
+    {
+      "name": "Volvulus",
+      "raw": "Volvulus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "dense, in pediatric age group 415 detachment 427 hemorrhage 414 lymphoma 414 cecum 1065 midgut 1127 sigmoid 1066 stomach 1094 Von Brunn cell nests 1242"
+}

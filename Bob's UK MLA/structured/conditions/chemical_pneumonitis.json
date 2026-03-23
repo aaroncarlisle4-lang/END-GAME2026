@@ -1,0 +1,40 @@
+{
+  "name": "CHEMICAL PNEUMONITIS",
+  "slug": "chemical_pneumonitis",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/chemical_pneumonitis.md",
+  "definition": "inhalation of noxious chemical substances agricultural insecticides functioning as cholinesterase inhibitor (similar to agricultural herbicide irritant + chemical asphyxiant gas highly soluble corrosive gas acts as a mucosal irritant",
+  "demographics": {
+    "Path": "(a)   acute phase: intraalveolar, intrabronchial, peribronchial, interstitial accumulation"
+  },
+  "dominant_finding": "pulmonary edema",
+  "distribution": "bilateral diffuse areas of ground-glass attenuation evolving into consolidation with",
+  "discriminating_features": [
+    "pulmonary edema with respiratory failure",
+    "no abnormality",
+    "increased interstitial / granular opacities",
+    "pulmonary edema",
+    "pneumomediastinum"
+  ],
+  "other_features": {
+    "general": [
+      "pulmonary edema with respiratory failure",
+      "no abnormality",
+      "increased interstitial / granular opacities",
+      "pulmonary edema",
+      "pneumomediastinum"
+    ],
+    "HRCT": [
+      "bilateral diffuse areas of ground-glass attenuation evolving into consolidation with",
+      "pulmonary edema",
+      "pulmonary edema",
+      "uni- / bilateral consolidation, well-defined nodules",
+      "pneumatoceles (from coalescing areas of bronchiolar necrosis / partial obstruction of",
+      "perivascular haziness + fine reticular opacities",
+      "pulmonary interstitial fibrosis"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "complete recovery; bronchiectasis + bronchiolitis obliterans may develop"
+  }
+}

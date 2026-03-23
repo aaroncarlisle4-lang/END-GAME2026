@@ -1,0 +1,52 @@
+{
+  "finding": "Mitral Valve Mass",
+  "slug": "mitral_valve_mass",
+  "chapter": "C. MYOCARDIAL / INTRAMURAL",
+  "source_file": "processed_clusters/c_myocardial_intramural/mitral_valve_mass.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Idiopathic mitral annular calcification",
+      "raw": "Idiopathic mitral annular calcification (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Vegetation, usually infective (2nd most common) ← rheumatic disease / mitral valve prolapse / mitral valve prosthesis",
+      "raw": "Vegetation, usually infective (2nd most common) ← rheumatic disease / mitral valve prolapse / mitral valve prosthesis",
+      "frequency": "most common"
+    },
+    {
+      "name": "Thrombus",
+      "raw": "Thrombus",
+      "frequency": null
+    },
+    {
+      "name": "Papillary fibroelastoma (b)  rare:",
+      "raw": "Papillary fibroelastoma (b)  rare:",
+      "frequency": "rare"
+    },
+    {
+      "name": "Myxoma",
+      "raw": "Myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  frequent Cx:      caseous degeneration of annulus CT: √  well-defined peripherally calcified mass √  central region of variable attenuation MR: √  hypointense mass on all sequences"
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "Epiphyseal Overgrowth",
+  "slug": "epiphyseal_overgrowth",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/epiphyseal_overgrowth.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Juvenile rheumatoid arthritis",
+      "raw": "Juvenile rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Hemophilia",
+      "raw": "Hemophilia",
+      "frequency": null
+    },
+    {
+      "name": "Healed Legg-Perthes disease",
+      "raw": "Healed Legg-Perthes disease",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous arthritis",
+      "raw": "Tuberculous arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Pyogenic arthritis",
+      "raw": "Pyogenic arthritis (chronic)",
+      "frequency": null
+    },
+    {
+      "name": "Fungal arthritis",
+      "raw": "Fungal arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Epiphyseal dysplasia hemimelica",
+      "raw": "Epiphyseal dysplasia hemimelica",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia of epiphysis",
+      "raw": "Fibrous dysplasia of epiphysis",
+      "frequency": null
+    },
+    {
+      "name": "Winchester syndrome",
+      "raw": "Winchester syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

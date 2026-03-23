@@ -1,0 +1,32 @@
+{
+  "finding": "Primary Malignant Orbital Tumors",
+  "slug": "primary_malignant_orbital_tumors",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/primary_malignant_orbital_tumors.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Retinoblastoma 86.0%",
+      "raw": "Retinoblastoma 86.0%",
+      "frequency": "86.0%"
+    },
+    {
+      "name": "Rhabdomyosarcoma   8.1%",
+      "raw": "Rhabdomyosarcoma   8.1%",
+      "frequency": "8.1%"
+    },
+    {
+      "name": "Uveal melanoma 2.3%",
+      "raw": "Uveal melanoma 2.3%",
+      "frequency": "2.3%"
+    },
+    {
+      "name": "Sarcoma 1.7%",
+      "raw": "Sarcoma 1.7%",
+      "frequency": "1.7%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

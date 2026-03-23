@@ -1,0 +1,42 @@
+{
+  "finding": "B. Adnexal origin (a) ↑ T1WI without enhancement",
+  "slug": "b_adnexal_origin_a_t1wi_without_enhancement_d50213",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/b_adnexal_origin_a_t1wi_without_enhancement_d50213.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endometrioma",
+      "raw": "Endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "Hematosalpinx",
+      "raw": "Hematosalpinx",
+      "frequency": null
+    },
+    {
+      "name": "Fibroma",
+      "raw": "Fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrothecoma",
+      "raw": "Fibrothecoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystadenofibroma",
+      "raw": "Cystadenofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Struma ovarii",
+      "raw": "Struma ovarii",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(b)  ↓ T1WI with enhancement"
+}

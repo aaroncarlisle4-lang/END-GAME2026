@@ -1,0 +1,23 @@
+{
+  "name": "CHORIOAMNIONIC SEPARATION",
+  "slug": "chorioamnionic_separation",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/chorioamnionic_separation.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "membrane extends over fetal surface + stops at origin of umbilical cord",
+  "distribution": "",
+  "discriminating_features": [
+    "membrane extends over fetal surface + stops at origin of umbilical cord",
+    "elevated membrane thinner than chorionic membrane"
+  ],
+  "other_features": {
+    "general": [
+      "membrane extends over fetal surface + stops at origin of umbilical cord",
+      "elevated membrane thinner than chorionic membrane"
+    ]
+  },
+  "clinical": {
+    "Cx": "rupture of amniotic membrane → may lead to amniotic band syndrome"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Focal Organizing Pneumonia (DDx)",
+  "slug": "focal_organizing_pneumonia_ddx_92237d",
+  "chapter": "Focal Organizing Pneumonia",
+  "source_file": "processed_clusters/focal_organizing_pneumonia/focal_organizing_pneumonia_ddx_92237d.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "acute pneumonia",
+      "raw": "acute pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "pulmonary hemorrhage",
+      "raw": "pulmonary hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "lung cancer",
+      "raw": "lung cancer (organizing pneumonia may be adjacent to malignancy)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"atoll\" sign = incomplete ring of denser consolidation | decrease in size of mass within 3-4 weeks | flat / ovoid lesion with irregular margin in subpleural location / along bronchovascular | ± satellite lesions (44%) + air bronchograms (22%)"
+}

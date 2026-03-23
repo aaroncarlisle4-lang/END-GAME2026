@@ -1,0 +1,32 @@
+{
+  "name": "CONGENITAL HEPATIC FIBROSIS",
+  "slug": "congenital_hepatic_fibrosis",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/congenital_hepatic_fibrosis.md",
+  "definition": "congenital cirrhosis with rapid + fatal progression",
+  "demographics": {
+    "Histo": "fibrous tissue within hepatic parenchyma with excess numbers of distorted terminal",
+    "Age": "early childhood - 6th decade;"
+  },
+  "dominant_finding": "\"lollipop-tree\" = ectasia of peripheral biliary radicles",
+  "distribution": "\"lollipop-tree\" = ectasia of peripheral biliary radicles",
+  "discriminating_features": [
+    "\"lollipop-tree\" = ectasia of peripheral biliary radicles",
+    "atrophy of right lobe + normal / enlarged medial segment of left lobe + hypertrophy of left",
+    "splenomegaly",
+    "portosystemic varices",
+    "enlarged hepatic artery associated with large multiacinar regenerative nodules"
+  ],
+  "other_features": {
+    "general": [
+      "\"lollipop-tree\" = ectasia of peripheral biliary radicles",
+      "atrophy of right lobe + normal / enlarged medial segment of left lobe + hypertrophy of left",
+      "splenomegaly",
+      "portosystemic varices",
+      "enlarged hepatic artery associated with large multiacinar regenerative nodules"
+    ]
+  },
+  "clinical": {
+    "Cx": "cirrhosis, portal hypertension, hepatocellular carcinoma, cholangiocellular carcinoma"
+  }
+}

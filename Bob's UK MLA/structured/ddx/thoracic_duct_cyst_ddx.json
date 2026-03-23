@@ -1,0 +1,22 @@
+{
+  "finding": "Thoracic Duct Cyst (DDx)",
+  "slug": "thoracic_duct_cyst_ddx",
+  "chapter": "Thoracic Duct Cyst",
+  "source_file": "processed_clusters/thoracic_duct_cyst/thoracic_duct_cyst_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bronchogenic cyst",
+      "raw": "bronchogenic cyst (located adjacent to carina / in pulmonary parenchyma)",
+      "frequency": null
+    },
+    {
+      "name": "esophageal",
+      "raw": "esophageal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "enhancement of a smooth thin wall | homogeneous well-defined mass of water attenuation | variable SI on T1WI; mildly hyperintense ← increased lipids + proteins | variously heterogeneous hyperintense mass on T2WI"
+}

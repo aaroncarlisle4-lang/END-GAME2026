@@ -1,0 +1,47 @@
+{
+  "name": "NONOSSIFYING FIBROMA",
+  "slug": "nonossifying_fibroma",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/nonossifying_fibroma.md",
+  "definition": "FIBROXANTHOMA = NONOSTEOGENIC FIBROMA = XANTHOMA = nonossifying fibroma with extraskeletal manifestations in children",
+  "demographics": {
+    "Frequency": "up to 40% of all children > 2 years of age",
+    "Etiology": "lesion resulting from proliferative activity of a fibrous cortical defect that has",
+    "Histo": "interlacing whorled bundles of spindle-shaped fibroblasts + scattered multinucleated",
+    "Age": "8-20 years; 75% in 2nd decade of life",
+    "Associated with": "neurofibromatosis, fibrous dysplasia, Jaffé-Campanacci syndrome"
+  },
+  "dominant_finding": "20% hypointense on T1WI + hyperintense on T2WI ← massive aggregation of foamy",
+  "distribution": "no periosteal reaction",
+  "discriminating_features": [
+    "well-circumscribed multiloculated bubbly oval osteolytic area",
+    "alignment along long axis of bone, > 2 cm in length",
+    "scalloped sclerotic margin toward medulla; V- or U-shaped at one end",
+    "mild expansile remodeling = endosteal scalloping + thinning ± overlying bulge",
+    "no periosteal reaction"
+  ],
+  "other_features": {
+    "general": [
+      "well-circumscribed multiloculated bubbly oval osteolytic area",
+      "alignment along long axis of bone, > 2 cm in length",
+      "scalloped sclerotic margin toward medulla; V- or U-shaped at one end",
+      "mild expansile remodeling = endosteal scalloping + thinning ± overlying bulge",
+      "no periosteal reaction",
+      "migrates toward center of diaphysis",
+      "resolves with age"
+    ],
+    "NUC": [
+      "minimal / mild uptake on bone scan"
+    ],
+    "MR": [
+      "80% hypointense on T1WI + T2WI ← extensive hypocellular fibrous tissue, hemosiderin",
+      "20% hypointense on T1WI + hyperintense on T2WI ← massive aggregation of foamy",
+      "peripheral hypointense rim + internal septation ← marginal reactive sclerosis +",
+      "adjacent marrow edema generally absent",
+      "intense contrast enhancement (in 80%) / marginal septal enhancement (in 20%) on T1WI"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "spontaneous healing in most cases"
+  }
+}

@@ -1,0 +1,104 @@
+# Disease: EWING SARCOMA / TUMOR
+
+**Source section:** BONE AND SOFT-TISSUE DISORDERS
+
+## Definition
+
+aggressive tumor with high rate of recurrence
+
+## Key Facts
+
+- **Frequency:** 3% of all pediatric cancers; 2nd most common primary malignant bone tumor in
+- **Incidence:** 200 cases / year in USA; 1-3÷1,000,000 children
+- **Histo:** crowded sheets of small round cells (10-15 µm), uniformly sized + solidly packed
+- **Peak age:** 10-15 years (range, 5 months - 54 years); in 95% 4-25 years; in 30% < 10 years; in
+- **Prevalence:** 3.5-15%
+- **Mean age:** 19 years; M÷F = 3÷2
+- **Location:** sacrum (55%), lumbar (25%), thoracic > cervical; > 1 segment involved (8%)
+
+## Imaging Findings
+
+### General
+
+- 8-10 cm long aggressive lesion in shaft of long bone (62% lytic, 23% mixed density, 15%
+- mottled "moth-eaten" to permeative destructive lesion (76-82%) with wide zone of
+- geographic bone destruction with wide zone of transition (= poor margination) in 15%
+- penetration into soft tissue (56-80%) with preservation of tissue planes (DDx: osteomyelitis
+- early fusiform lamellated "onionskin" periosteal reaction (53-84%) / spiculated "sunburst" /
+- cortical thickening (21%) + saucerization (6%)
+- cortical destruction (19-42%) ± cortical sequestration
+- reactive sclerotic new bone (32-40%) of dense cloudlike osteoid appearance
+- pathologic fracture (15%)
+- expansile bone remodeling (13%)
+
+### CT
+
+- density of soft-tissue component similar to muscle (98%):
+- commonly homogeneous
+- frequently asymmetrically circumferential
+- linear channels of low attenuation extending through dense cortex ← tumor extension along
+- diffuse / peripheral nodular enhancement
+- homogeneous (73%) intermediate SI (95%) on T1WI
+- homogeneous (86%) low to intermediate (68%) SI on T2WI
+- heterogeneously high signal commonly in larger lesions ← hemorrhage + necrosis
+- marrow replacement (100%)
+- cortical destruction (92%)
+- associated asymmetrically circumferential soft-tissue mass (96%)
+- visible connection between medullary canal + soft-tissue component (74%)
+- diffuse / peripheral nodular enhancement
+- mass of muscle density (87%)
+- hypoattenuating areas ← hemorrhage + cellular necrosis
+
+### NUC
+
+- ↑ uptake on bone scintigraphy (blood flow, blood pool, delayed imaging)
+- ↑ uptake on gallium scintigraphy
+
+### PET
+
+- ↑ uptake of primary on PET with mean SUV of (a) 5.3 without metastases, (b) 11.3 with
+- depiction of osseous metastasis (37-88% sensitive)
+- ↑ uptake after injection with FDG
+
+### US
+
+- hypoechoic lesion
+
+### MR
+
+- heterogeneous mass of low to intermediate SI relative to muscle on T1WI
+- intermediate to high SI relative to muscle on T2WI
+- heterogeneous enhancement
+- serpentine hypointense high-flow vascular channels
+
+### Ewing sarcoma of vertebra:
+
+- large soft-tissue mass with invasion of spinal canal (91%)
+- disk spaces usually preserved
+
+### Ewing sarcoma of rib:
+
+- primarily lytic / sclerotic / mixture of lysis + sclerosis
+- disproportionately large inhomogeneous soft-tissue mass
+- large intrathoracic + minimal extrathoracic component
+- may spread into spinal canal via intervertebral foramen
+- 5-10 cm rapidly growing solitary soft-tissue tumor
+- well-defined pseudocapsule (35%), infiltrative growth (45%), neurovascular involvement
+- lesion calcification (25-30%)
+- extension to bone (25-42%): erosion of adjacent bone, cortical thickening, osseous
+- no replacement of fatty bone marrow by tumor
+- hypervascular lesion by angiography, CT, MR
+
+## Clinical
+
+- **Cx:** pathologic fracture (5-14%)
+- **Prognosis:** 60-75% 5-year survival
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

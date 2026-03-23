@@ -1,0 +1,27 @@
+{
+  "finding": "C. Joint tumor",
+  "slug": "c_joint_tumor",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/c_joint_tumor.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "PVNS",
+      "raw": "PVNS",
+      "frequency": null
+    },
+    {
+      "name": "Synovial chondromatosis",
+      "raw": "Synovial chondromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Articular hemangioma",
+      "raw": "Articular hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

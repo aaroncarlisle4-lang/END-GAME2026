@@ -1,0 +1,27 @@
+{
+  "finding": "Testicular Trauma (DDx)",
+  "slug": "testicular_trauma_ddx_e8864a",
+  "chapter": "Testicular Trauma",
+  "source_file": "processed_clusters/testicular_trauma/testicular_trauma_ddx_e8864a.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "laceration",
+      "raw": "laceration",
+      "frequency": null
+    },
+    {
+      "name": "contusion",
+      "raw": "contusion",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhage",
+      "raw": "hemorrhage",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thickened scrotal wall ← hematoma of scrotal wall | hematocele, may show thickening + calcification of tunica vaginalis if chronic | area of heterogeneously low SI on T2WI | interruption of hypointense fibrous tunica albuginea"
+}

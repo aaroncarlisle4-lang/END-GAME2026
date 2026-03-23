@@ -1,0 +1,25 @@
+{
+  "name": "PLACENTA PREVIA",
+  "slug": "placenta_previa",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/placenta_previa.md",
+  "definition": "abnormally low implantation of ovum with the placenta covering all / part of internal cervical",
+  "demographics": {
+    "Frequency": "0.5% of all deliveries; 3-5% of all pregnancies complicated by 3rd trimester"
+  },
+  "dominant_finding": "abnormal position of placenta infringing on cervical os",
+  "distribution": "",
+  "discriminating_features": [
+    "abnormal position of placenta infringing on cervical os"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "abnormal position of placenta infringing on cervical os"
+    ]
+  },
+  "clinical": {
+    "Cx": "secondary to premature detachment of placenta from lower uterine segment",
+    "Rx": "precludes vaginal delivery + pelvic examination"
+  }
+}

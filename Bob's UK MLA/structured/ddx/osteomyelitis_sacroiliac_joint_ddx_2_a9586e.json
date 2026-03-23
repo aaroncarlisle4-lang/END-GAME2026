@@ -1,0 +1,22 @@
+{
+  "finding": "Osteomyelitis — Sacroiliac joint (DDx)",
+  "slug": "osteomyelitis_sacroiliac_joint_ddx_2_a9586e",
+  "chapter": "Osteomyelitis",
+  "source_file": "processed_clusters/osteomyelitis/osteomyelitis_sacroiliac_joint_ddx_2_a9586e.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "osteoid osteoma",
+      "raw": "osteoid osteoma",
+      "frequency": null
+    },
+    {
+      "name": "stress fracture",
+      "raw": "stress fracture",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cortical destruction and gas | thick irregular sclerotic bone with radiolucencies, elevated periosteum, chronic draining | focal bulge of thickened cortex ← sclerosing periosteal reaction)"
+}

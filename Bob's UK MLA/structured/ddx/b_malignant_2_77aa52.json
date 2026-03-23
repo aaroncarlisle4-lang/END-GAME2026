@@ -1,0 +1,42 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_2_77aa52",
+  "chapter": "NOSE",
+  "source_file": "processed_clusters/nose/b_malignant_2_77aa52.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma (most common primary)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Adenocarcinoma, mucoepidermoid carcinoma, adenoid cystic carcinoma",
+      "raw": "Adenocarcinoma, mucoepidermoid carcinoma, adenoid cystic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma: head and neck most frequent site",
+      "raw": "Rhabdomyosarcoma: head and neck most frequent site",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Lymphoma, chloroma",
+      "raw": "Lymphoma, chloroma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Predisposed:   nickel workers"
+}

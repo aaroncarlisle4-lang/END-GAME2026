@@ -1,0 +1,32 @@
+{
+  "finding": "Eosinophilic Pneumonia (DDx)",
+  "slug": "eosinophilic_pneumonia_ddx_6fec71",
+  "chapter": "Eosinophilic Pneumonia",
+  "source_file": "processed_clusters/eosinophilic_pneumonia/eosinophilic_pneumonia_ddx_6fec71.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cryptogenic organizing pneumonia",
+      "raw": "cryptogenic organizing pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "pulmonary hemorrhage",
+      "raw": "pulmonary hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "multifocal pneumonia",
+      "raw": "multifocal pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "atypical infection",
+      "raw": "atypical infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "peripheral patchy migratory / fleeting (= transient and shifting) noncavitary pleural-based | NO associated lymphadenopathy, NO pleural effusion | peripheral ground-glass and/or airspace consolidation with upper and middle lobe | solitary / multiple pulmonary nodular opacities with surrounding ground-glass halo (rare)"
+}

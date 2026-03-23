@@ -1,0 +1,42 @@
+{
+  "finding": "D. SYNDROMES",
+  "slug": "d_syndromes_0eda03",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/d_syndromes_0eda03.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trisomies",
+      "raw": "Trisomies",
+      "frequency": null
+    },
+    {
+      "name": "Noonan disease",
+      "raw": "Noonan disease",
+      "frequency": null
+    },
+    {
+      "name": "Cornelia-de-Lange syndrome",
+      "raw": "Cornelia-de-Lange syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Cleidocranial dysplasia",
+      "raw": "Cleidocranial dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Lesch-Nyhan disease",
+      "raw": "Lesch-Nyhan disease",
+      "frequency": null
+    },
+    {
+      "name": "Metatropic dwarfism",
+      "raw": "Metatropic dwarfism",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

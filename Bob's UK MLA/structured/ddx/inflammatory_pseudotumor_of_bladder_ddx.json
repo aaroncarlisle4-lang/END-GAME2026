@@ -1,0 +1,22 @@
+{
+  "finding": "Inflammatory Pseudotumor Of Bladder (DDx)",
+  "slug": "inflammatory_pseudotumor_of_bladder_ddx",
+  "chapter": "Inflammatory Pseudotumor Of Bladder",
+  "source_file": "processed_clusters/inflammatory_pseudotumor_of_bladder/inflammatory_pseudotumor_of_bladder_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "rhabdomyosarcoma",
+      "raw": "rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "myxoid leiomyosarcoma",
+      "raw": "myxoid leiomyosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "locally aggressive single exophytic / polypoid 2-8 cm bladder mass ± ulceration | may invade through bladder wall with extravesical component | ringlike peripheral enhancement + poor central enhancement ← necrosis | heterogeneous mass with central hyperintense component surrounded by hypointense"
+}

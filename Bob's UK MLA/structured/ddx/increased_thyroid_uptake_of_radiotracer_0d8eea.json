@@ -1,0 +1,52 @@
+{
+  "finding": "Increased Thyroid Uptake of Radiotracer",
+  "slug": "increased_thyroid_uptake_of_radiotracer_0d8eea",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/increased_thyroid_uptake_of_radiotracer_0d8eea.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thyroiditis",
+      "raw": "Thyroiditis (early Hashimoto)",
+      "frequency": null
+    },
+    {
+      "name": "Hyperthyroidism",
+      "raw": "Hyperthyroidism (diffuse / nodular)",
+      "frequency": null
+    },
+    {
+      "name": "Rebound after withdrawal of antithyroid medication",
+      "raw": "Rebound after withdrawal of antithyroid medication",
+      "frequency": null
+    },
+    {
+      "name": "Iodine starvation",
+      "raw": "Iodine starvation",
+      "frequency": null
+    },
+    {
+      "name": "Low serum albumin",
+      "raw": "Low serum albumin",
+      "frequency": null
+    },
+    {
+      "name": "Lithium therapy",
+      "raw": "Lithium therapy",
+      "frequency": null
+    },
+    {
+      "name": "Enzyme defect",
+      "raw": "Enzyme defect",
+      "frequency": null
+    },
+    {
+      "name": "Cold / Hypofunctioning Thyroid Nodule",
+      "raw": "Cold / Hypofunctioning Thyroid Nodule",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

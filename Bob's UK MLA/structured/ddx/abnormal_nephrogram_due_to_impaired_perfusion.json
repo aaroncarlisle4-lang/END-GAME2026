@@ -1,0 +1,55 @@
+{
+  "finding": "Abnormal Nephrogram due to Impaired Perfusion",
+  "slug": "abnormal_nephrogram_due_to_impaired_perfusion",
+  "chapter": "Persistent Nephrogram",
+  "source_file": "processed_clusters/persistent_nephrogram/abnormal_nephrogram_due_to_impaired_perfusion.md",
+  "quality_score": 0.5,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "SYSTEMIC HYPOTENSIVE REACTION as a reaction to contrast material / cardiac failure / dehydration / shock",
+      "raw": "SYSTEMIC HYPOTENSIVE REACTION as a reaction to contrast material / cardiac failure / dehydration / shock",
+      "frequency": null
+    },
+    {
+      "name": "RENAL ARTERY STENOSIS",
+      "raw": "RENAL ARTERY STENOSIS",
+      "frequency": null
+    },
+    {
+      "name": "IMPAIRED PERFUSION OF SMALL ARTERIES",
+      "raw": "IMPAIRED PERFUSION OF SMALL ARTERIES",
+      "frequency": null
+    },
+    {
+      "name": "ACUTE VENOUS OUTFLOW OBSTRUCTION in renal vein thrombosis",
+      "raw": "ACUTE VENOUS OUTFLOW OBSTRUCTION in renal vein thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "EXTRARENAL: ureteric obstruction",
+      "raw": "EXTRARENAL: ureteric obstruction (eg, stone)",
+      "frequency": null
+    },
+    {
+      "name": "INTRARENAL (a)  segmental: limb of duplication system, caliceal obstruction, interstitial edema",
+      "raw": "INTRARENAL (a)  segmental: limb of duplication system, caliceal obstruction, interstitial edema",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "SYSTEMIC HYPOTENSIVE REACTION as a reaction to contrast material / cardiac failure / dehydration / shock": [
+      "Pathophysiology: drop in perfusion pressure after contrast reaches kidney → increased salt + water reabsorption and slowed tubular transit"
+    ],
+    "RENAL ARTERY STENOSIS": [
+      "decrease in renal size"
+    ],
+    "IMPAIRED PERFUSION OF SMALL ARTERIES": [],
+    "ACUTE VENOUS OUTFLOW OBSTRUCTION in renal vein thrombosis": [],
+    "EXTRARENAL: ureteric obstruction": [],
+    "INTRARENAL (a)  segmental: limb of duplication system, caliceal obstruction, interstitial edema": [
+      "hyperconcentration in collecting system"
+    ]
+  },
+  "context": "Pathophysiology: drop in perfusion pressure after contrast reaches kidney → increased salt + water reabsorption and slowed tubular transit √  prolonged bilateral dense nephrograms = persistent increasing nephrogram √  decrease in renal size √  loss of pyelogram after initial opacification NUC (use of glomerular filtration agent [eg, 99mTc-DTPA] preferred) √  prolonged cortical transit + reduced excretion √  decreased nephrographic opacity + rim nephrogram √  hyperconcentration in collecting system √  ureteral notching NUC (glomerular filtration agent [eg, 99mTc-DTPA] preferred): √  decreased p"
+}

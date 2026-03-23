@@ -1,0 +1,47 @@
+{
+  "finding": "D. NEOPLASM (a) malignant",
+  "slug": "d_neoplasm_a_malignant_71407f",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/d_neoplasm_a_malignant_71407f.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cholangiocarcinoma: irregular stricture, intraluminal polypoid mass",
+      "raw": "Cholangiocarcinoma: irregular stricture, intraluminal polypoid mass",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic tumor: colon, gallbladder, lung, breast, testis, prostate, pancreas, melanoma, lymphoma",
+      "raw": "Metastatic tumor: colon, gallbladder, lung, breast, testis, prostate, pancreas, melanoma, lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Others: ampullary carcinoma, hepatoma, hamartoma, carcinoid, embryonal rhabdomyosarcoma of biliary tree (b)  benign",
+      "raw": "Others: ampullary carcinoma, hepatoma, hamartoma, carcinoid, embryonal rhabdomyosarcoma of biliary tree (b)  benign",
+      "frequency": null
+    },
+    {
+      "name": "Papilloma: most common benign neoplasm",
+      "raw": "Papilloma: most common benign neoplasm",
+      "frequency": "most common"
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibroma, lipoma, neuroma",
+      "raw": "Fibroma, lipoma, neuroma",
+      "frequency": null
+    },
+    {
+      "name": "Granular cell myoblastoma (= Schwann-cell-derived biliary tumor) in young black woman",
+      "raw": "Granular cell myoblastoma (= Schwann-cell-derived biliary tumor) in young black woman",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Histo:   vascular connective tissue covered by single layer of columnar epithelium Histo:   epithelial glandular tissue surrounded by fibrous tissue"
+}

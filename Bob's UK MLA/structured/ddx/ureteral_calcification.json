@@ -1,0 +1,32 @@
+{
+  "finding": "Ureteral Calcification",
+  "slug": "ureteral_calcification",
+  "chapter": "D. COMPRESSION",
+  "source_file": "processed_clusters/d_compression/ureteral_calcification.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "URETERAL LUMEN",
+      "raw": "URETERAL LUMEN",
+      "frequency": null
+    },
+    {
+      "name": "Stone: migrated from kidney",
+      "raw": "Stone: migrated from kidney",
+      "frequency": null
+    },
+    {
+      "name": "Stone: in ureteral diverticulum / ureterocele",
+      "raw": "Stone: in ureteral diverticulum / ureterocele",
+      "frequency": null
+    },
+    {
+      "name": "Stone street = \"Steinstrasse\" = collection of stone fragments in distal ureter following lithotripsy",
+      "raw": "Stone street = \"Steinstrasse\" = collection of stone fragments in distal ureter following lithotripsy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

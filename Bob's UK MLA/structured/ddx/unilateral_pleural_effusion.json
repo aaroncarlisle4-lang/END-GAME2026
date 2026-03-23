@@ -1,0 +1,47 @@
+{
+  "finding": "Unilateral Pleural Effusion",
+  "slug": "unilateral_pleural_effusion",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/unilateral_pleural_effusion.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Infection: TB",
+      "raw": "Infection: TB",
+      "frequency": null
+    },
+    {
+      "name": "Collagen vascular disease",
+      "raw": "Collagen vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Subdiaphragmatic disease",
+      "raw": "Subdiaphragmatic disease",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary emboli",
+      "raw": "Pulmonary emboli",
+      "frequency": null
+    },
+    {
+      "name": "Trauma: fractured rib",
+      "raw": "Trauma: fractured rib",
+      "frequency": null
+    },
+    {
+      "name": "Chylothorax",
+      "raw": "Chylothorax",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  The majority of massive unilateral pleural effusions are malignant (lymphoma, metastatic, primary lung cancer)!"
+}

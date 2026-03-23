@@ -1,0 +1,57 @@
+{
+  "finding": "SINUSITIS",
+  "slug": "sinusitis",
+  "chapter": "SINONASAL POLYPOSIS",
+  "source_file": "processed_clusters/sinonasal_polyposis/sinusitis.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Obstruction of major ostia (a)  middle meatus draining frontal, maxillary, anterior ethmoid sinus (b)  sphenoethmoidal recess draining posterior ethmoid sphenoid sinus",
+      "raw": "Obstruction of major ostia (a)  middle meatus draining frontal, maxillary, anterior ethmoid sinus (b)  sphenoethmoidal recess draining posterior ethmoid sphenoid sinus",
+      "frequency": null
+    },
+    {
+      "name": "Ineffective mucociliary clearing ← contact of two mucosal surfaces",
+      "raw": "Ineffective mucociliary clearing ← contact of two mucosal surfaces",
+      "frequency": null
+    },
+    {
+      "name": "Greater degree of nasal septal deviation",
+      "raw": "Greater degree of nasal septal deviation",
+      "frequency": null
+    },
+    {
+      "name": "Horizontally oriented uncinate process NOT concha bullosa, paradoxical turbinate, Haller cells, uncinate pneumatization",
+      "raw": "Horizontally oriented uncinate process NOT concha bullosa, paradoxical turbinate, Haller cells, uncinate pneumatization",
+      "frequency": null
+    },
+    {
+      "name": "Infundibular pattern (26%) =  isolated obstruction of inferior infundibulum just above the maxillary sinus ostium",
+      "raw": "Infundibular pattern (26%) =  isolated obstruction of inferior infundibulum just above the maxillary sinus ostium",
+      "frequency": "26%"
+    },
+    {
+      "name": "Ostiomeatal unit pattern",
+      "raw": "Ostiomeatal unit pattern (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Sphenoethmoidal recess obstruction",
+      "raw": "Sphenoethmoidal recess obstruction (6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Sinonasal polyposis pattern",
+      "raw": "Sinonasal polyposis pattern",
+      "frequency": null
+    },
+    {
+      "name": "Acute sinusitis",
+      "raw": "Acute sinusitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence: most common paranasal sinus problem; most common chronic disease diagnosed in USA (31,000,000 persons per year); complicating common colds in 0.5% (3-4 colds per year in adults, 6-8 colds per year in children) Pathogenesis: viral infection → mucosal congestion → apposition of mucosal surfaces → retention of secretions → bacterial superinfection Predisposing anatomic variants: Location: √  limited maxillary sinus disease √  middle meatus opacification √  sphenoid / posterior ethmoid sinus inflammation √  enlargement of ostia, thinning of adjacent bone √  air-fluid levels Plain films"
+}

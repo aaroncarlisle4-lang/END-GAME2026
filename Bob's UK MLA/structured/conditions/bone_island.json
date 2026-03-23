@@ -1,0 +1,39 @@
+{
+  "name": "BONE ISLAND",
+  "slug": "bone_island",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/bone_island.md",
+  "definition": "ENOSTOSIS = ENDOSTEOMA = COMPACT ISLAND FOCAL SCLEROSIS = SCLEROTIC BONE ISLAND CALCIFIED MEDULLARY DEFECT focal lesion of densely sclerotic (compact) bone nesting within spongiosa",
+  "demographics": {
+    "Age": "any age (mostly 20-80 years of age); grows more rapidly in children",
+    "Histo": "nest of lamellar compacted bone with haversian system embedded within medullary",
+    "Size": "usually 2-10 mm; lesion > 2 cm in longest axis = giant bone island"
+  },
+  "dominant_finding": "low signal intensity at T1WI and T2WI",
+  "distribution": "NO involvement of cortex / radiolucencies / periosteal reaction",
+  "discriminating_features": [
+    "round / oval / oblong solitary osteoblastic lesion with abrupt transition to surrounding normal",
+    "\"brush border\" = \"thorny radiations\" = sharply demarcated margins with feathery",
+    "long axis of bone island parallels long axis of bone",
+    "may demonstrate slow growth / decrease in size (32%)",
+    "NO involvement of cortex / radiolucencies / periosteal reaction"
+  ],
+  "other_features": {
+    "general": [
+      "round / oval / oblong solitary osteoblastic lesion with abrupt transition to surrounding normal",
+      "\"brush border\" = \"thorny radiations\" = sharply demarcated margins with feathery",
+      "long axis of bone island parallels long axis of bone",
+      "may demonstrate slow growth / decrease in size (32%)",
+      "NO involvement of cortex / radiolucencies / periosteal reaction"
+    ],
+    "MR": [
+      "low signal intensity at T1WI and T2WI"
+    ],
+    "NUC": [
+      "may show activity on bone scan (< 10%), esp. if large"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "may increase to 8-12 cm over years (40%); may decrease / disappear"
+  }
+}

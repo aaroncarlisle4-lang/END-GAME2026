@@ -1,0 +1,32 @@
+{
+  "finding": "Acute Basal Ganglia Lesions",
+  "slug": "acute_basal_ganglia_lesions",
+  "chapter": "BASAL GANGLIA",
+  "source_file": "processed_clusters/basal_ganglia/acute_basal_ganglia_lesions.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Compromise of vascular supply",
+      "raw": "Compromise of vascular supply",
+      "frequency": null
+    },
+    {
+      "name": "Hemolytic-uremic syndrome →  microthrombosis of basal ganglia, thalami, hippocampi, cortex",
+      "raw": "Hemolytic-uremic syndrome →  microthrombosis of basal ganglia, thalami, hippocampi, cortex",
+      "frequency": null
+    },
+    {
+      "name": "Arterial occlusion",
+      "raw": "Arterial occlusion",
+      "frequency": null
+    },
+    {
+      "name": "Deep cerebral venous thrombosis",
+      "raw": "Deep cerebral venous thrombosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

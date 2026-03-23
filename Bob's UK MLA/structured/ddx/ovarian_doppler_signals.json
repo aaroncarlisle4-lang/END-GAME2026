@@ -1,0 +1,62 @@
+{
+  "finding": "Ovarian Doppler Signals",
+  "slug": "ovarian_doppler_signals",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/ovarian_doppler_signals.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NONFUNCTIONING OVARY",
+      "raw": "NONFUNCTIONING OVARY",
+      "frequency": null
+    },
+    {
+      "name": "FUNCTIONING OVARY ›  days 1-6:",
+      "raw": "FUNCTIONING OVARY ›  days 1-6:",
+      "frequency": null
+    },
+    {
+      "name": "FOLLICULAR PHASE = days 1-14",
+      "raw": "FOLLICULAR PHASE = days 1-14 (of a 28-day cycle)",
+      "frequency": null
+    },
+    {
+      "name": "a number of immature primordial follicles begin to mature in response to FSH",
+      "raw": "a number of immature primordial follicles begin to mature in response to FSH",
+      "frequency": null
+    },
+    {
+      "name": "2-3 follicles capture the most FSH and aromatize the most estradiol from their granulosa cells",
+      "raw": "2-3 follicles capture the most FSH and aromatize the most estradiol from their granulosa cells",
+      "frequency": null
+    },
+    {
+      "name": "OVULATORY PHASE = day 14",
+      "raw": "OVULATORY PHASE = day 14",
+      "frequency": null
+    },
+    {
+      "name": "\"Mittelschmerz\" = pain just prior to ovulation",
+      "raw": "\"Mittelschmerz\" = pain just prior to ovulation (pressure of graafian follicle distending ovarian capsule)",
+      "frequency": null
+    },
+    {
+      "name": "LUTEAL PHASE = days 15-28 =  remnant dominant follicle transforms into corpus luteum hemorrhagicum",
+      "raw": "LUTEAL PHASE = days 15-28 =  remnant dominant follicle transforms into corpus luteum hemorrhagicum",
+      "frequency": null
+    },
+    {
+      "name": "rapidly rising estradiol production triggers the hypothalamic arcuate nucleus to increase",
+      "raw": "rapidly rising estradiol production triggers the hypothalamic arcuate nucleus to increase",
+      "frequency": null
+    },
+    {
+      "name": "LH binds to ovarian receptors → releases cAMP from granulosa cells → halting granulosa cell mitosis + increasing peptidase, collagenase, growth factor, angiotensin, prostaglandin as the cause for follicular rupture + conversion to corpus luteum",
+      "raw": "LH binds to ovarian receptors → releases cAMP from granulosa cells → halting granulosa cell mitosis + increasing peptidase, collagenase, growth factor, angiotensin, prostaglandin as the cause for follicular rupture + conversion to corpus luteum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  high-impedance waveform √  high-impedance waveform with RI close to 1.0 ›  days 7-22 = midfollicular to midluteal phase =  developing dominant follicle + ovulation + corpus luteal phase: √  continuous diastolic flow with RI close to 0.5 ›  days 23-28 = late luteal phase: √  high-impedance waveform with RI close to 1.0 Ovarian Cycle √  multiple small cysts: (a)  unstimulated follicles are < 2 mm in size (b)  stimulated follicles grow > 2 mm in size √  2-3 follicles in each ovary of day 4 enlarge subsequently to ~ 10 mm √  follicles may be seen by 5-7 days √  single more ascendant / dominant"
+}

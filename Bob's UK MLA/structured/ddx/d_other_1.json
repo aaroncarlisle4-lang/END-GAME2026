@@ -1,0 +1,32 @@
+{
+  "finding": "D. OTHER",
+  "slug": "d_other_1",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/d_other_1.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Eosinophilic granuloma: \"floating tooth\"",
+      "raw": "Eosinophilic granuloma: \"floating tooth\"",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Osteocementoma",
+      "raw": "Osteocementoma",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying fibroma",
+      "raw": "Ossifying fibroma (very common)",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

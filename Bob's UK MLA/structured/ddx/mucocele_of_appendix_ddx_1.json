@@ -1,0 +1,37 @@
+{
+  "finding": "Mucocele Of Appendix (DDx)",
+  "slug": "mucocele_of_appendix_ddx_1",
+  "chapter": "Mucocele Of Appendix",
+  "source_file": "processed_clusters/mucocele_of_appendix/mucocele_of_appendix_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "inverted appendiceal stump",
+      "raw": "inverted appendiceal stump (of inversion-ligation technique)",
+      "frequency": null
+    },
+    {
+      "name": "acute appendicitis",
+      "raw": "acute appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "cecal carcinoma",
+      "raw": "cecal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "phleboliths",
+      "raw": "phleboliths",
+      "frequency": null
+    },
+    {
+      "name": "calcified lymph nodes",
+      "raw": "calcified lymph nodes",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multiple mobile 1-10-mm small rounded annular nonlaminated calcified spherules"
+}

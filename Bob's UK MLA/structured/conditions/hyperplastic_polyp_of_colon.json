@@ -1,0 +1,24 @@
+{
+  "name": "HYPERPLASTIC POLYP OF COLON",
+  "slug": "hyperplastic_polyp_of_colon",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/hyperplastic_polyp_of_colon.md",
+  "definition": "intestinal metaplasia consisting of mucous glands lined by a single layer of columnar",
+  "demographics": {
+    "Path": "infolding of epithelium into the glandular lumen",
+    "Location": "rectosigmoid"
+  },
+  "dominant_finding": "usually < 5 mm in diameter",
+  "distribution": "rectosigmoid",
+  "discriminating_features": [
+    "smooth rounded sessile elevation",
+    "usually < 5 mm in diameter"
+  ],
+  "other_features": {
+    "general": [
+      "smooth rounded sessile elevation",
+      "usually < 5 mm in diameter"
+    ]
+  },
+  "clinical": {}
+}

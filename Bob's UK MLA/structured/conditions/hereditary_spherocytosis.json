@@ -1,0 +1,29 @@
+{
+  "name": "HEREDITARY SPHEROCYTOSIS",
+  "slug": "hereditary_spherocytosis",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/hereditary_spherocytosis.md",
+  "definition": "autosomal dominant congenital hemolytic anemia",
+  "demographics": {
+    "Age": "anemia begins in early infancy to late adulthood"
+  },
+  "dominant_finding": "bone changes rare (← mild anemia); long bones rarely affected",
+  "distribution": "",
+  "discriminating_features": [
+    "bone changes rare (← mild anemia); long bones rarely affected",
+    "widening of diploe with displacement + thinning of outer table",
+    "hair-on-end appearance",
+    "improvement in skeletal changes following splenectomy"
+  ],
+  "other_features": {
+    "general": [
+      "bone changes rare (← mild anemia); long bones rarely affected",
+      "widening of diploe with displacement + thinning of outer table",
+      "hair-on-end appearance",
+      "improvement in skeletal changes following splenectomy"
+    ]
+  },
+  "clinical": {
+    "Rx": "splenectomy corrects anemia even though spherocytemia persists"
+  }
+}

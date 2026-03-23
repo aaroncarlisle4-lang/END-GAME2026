@@ -1,0 +1,57 @@
+{
+  "finding": "B. MICROCEPHALY",
+  "slug": "b_microcephaly",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/b_microcephaly.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "normal intraventricular pressure (a)  Primary failure of brain growth ›  dysgenesis",
+      "raw": "normal intraventricular pressure (a)  Primary failure of brain growth ›  dysgenesis",
+      "frequency": null
+    },
+    {
+      "name": "Holoprosencephaly",
+      "raw": "Holoprosencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Aneuploidy syndromes",
+      "raw": "Aneuploidy syndromes (trisomies)",
+      "frequency": null
+    },
+    {
+      "name": "Migrational (< 6 layers) ›  environment: alcohol, drugs, toxins ›  infection: TORCH (b)  Loss of brain mantle ›  infection: TORCH ›  vascular accident",
+      "raw": "Migrational (< 6 layers) ›  environment: alcohol, drugs, toxins ›  infection: TORCH (b)  Loss of brain mantle ›  infection: TORCH ›  vascular accident",
+      "frequency": null
+    },
+    {
+      "name": "Hydranencephaly",
+      "raw": "Hydranencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Schizencephaly",
+      "raw": "Schizencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Porencephaly ›  hemorrhage",
+      "raw": "Porencephaly ›  hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Porencephaly",
+      "raw": "Porencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Leukomalacia",
+      "raw": "Leukomalacia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,92 @@
+{
+  "finding": "Abnormal Esophageal Folds",
+  "slug": "abnormal_esophageal_folds",
+  "chapter": "A. PRIMARY MOTILITY DISORDERS",
+  "source_file": "processed_clusters/a_primary_motility_disorders/abnormal_esophageal_folds.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TRANSVERSE FOLDS",
+      "raw": "TRANSVERSE FOLDS",
+      "frequency": null
+    },
+    {
+      "name": "Feline esophagus frequently seen with gastroesophageal reflux; normally found in cats",
+      "raw": "Feline esophagus frequently seen with gastroesophageal reflux; normally found in cats",
+      "frequency": null
+    },
+    {
+      "name": "Fixed transverse folds ← scarring from reflux esophagitis",
+      "raw": "Fixed transverse folds ← scarring from reflux esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "LONGITUDINAL FOLDS normal:   1-2 mm wide, best seen in collapsed esophagus",
+      "raw": "LONGITUDINAL FOLDS normal:   1-2 mm wide, best seen in collapsed esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Gastroesophageal reflux",
+      "raw": "Gastroesophageal reflux",
+      "frequency": null
+    },
+    {
+      "name": "Opportunistic infection",
+      "raw": "Opportunistic infection",
+      "frequency": null
+    },
+    {
+      "name": "Caustic ingestion",
+      "raw": "Caustic ingestion",
+      "frequency": null
+    },
+    {
+      "name": "Irradiation",
+      "raw": "Irradiation",
+      "frequency": null
+    },
+    {
+      "name": "Varicoid carcinoma",
+      "raw": "Varicoid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "CONTACT INJURY (a)  reflux related",
+      "raw": "CONTACT INJURY (a)  reflux related",
+      "frequency": null
+    },
+    {
+      "name": "Peptic ulcer disease",
+      "raw": "Peptic ulcer disease",
+      "frequency": null
+    },
+    {
+      "name": "Barrett esophagus",
+      "raw": "Barrett esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma (patulous LES)",
+      "frequency": null
+    },
+    {
+      "name": "Nasogastric intubation (b)  caustic",
+      "raw": "Nasogastric intubation (b)  caustic",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body",
+      "raw": "Foreign body",
+      "frequency": null
+    },
+    {
+      "name": "Corrosives (c)  thermic habitual ingestion of excessively hot meals / liquids",
+      "raw": "Corrosives (c)  thermic habitual ingestion of excessively hot meals / liquids",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  transient contraction of longitudinally oriented muscularis mucosae √  stepladder appearance in distal esophagus √  > 3 mm with submucosal edema / inflammation DDx:   (1)   Varices √  tortuous / serpentine folds that can be effaced by esophageal distension √  fixed rigid folds with abrupt demarcation due to submucosal spread Esophageal Inflammation"
+}

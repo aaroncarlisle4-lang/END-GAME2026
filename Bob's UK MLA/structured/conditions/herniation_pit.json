@@ -1,0 +1,29 @@
+{
+  "name": "HERNIATION PIT",
+  "slug": "herniation_pit",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/herniation_pit.md",
+  "definition": "SYNOVIAL HERNIATION PIT = CONVERSION DEFECT ingrowth of fibrous + cartilaginous elements from adjacent joint through perforation in cortex",
+  "demographics": {
+    "Histo": "fibroalveolar tissue",
+    "Age": "usually in older individuals",
+    "Size": "usually < 1 cm in diameter; may enlarge over time"
+  },
+  "dominant_finding": "well-circumscribed round lucency",
+  "distribution": "",
+  "discriminating_features": [
+    "well-circumscribed round lucency",
+    "reactive thin sclerotic border",
+    "hyperintense area on T2WI (= fluid signal intensity)",
+    "bone scan may be positive"
+  ],
+  "other_features": {
+    "general": [
+      "well-circumscribed round lucency",
+      "reactive thin sclerotic border",
+      "hyperintense area on T2WI (= fluid signal intensity)",
+      "bone scan may be positive"
+    ]
+  },
+  "clinical": {}
+}

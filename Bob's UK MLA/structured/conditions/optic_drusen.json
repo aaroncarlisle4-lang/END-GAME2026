@@ -1,0 +1,29 @@
+{
+  "name": "OPTIC DRUSEN",
+  "slug": "optic_drusen",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/optic_drusen.md",
+  "definition": "accretions of hyaline material on / near surface of optic disc; often familial",
+  "demographics": {
+    "Age": "patient with macular degeneration; also in young patient",
+    "Location": "at junction of retina + optic nerve; bilateral in 75%"
+  },
+  "dominant_finding": "hyperattenuating small flat / round calcification",
+  "distribution": "at junction of retina + optic nerve; bilateral in 75%",
+  "discriminating_features": [
+    "hyperattenuating small flat / round calcification",
+    "hyperechoic lesions at papilla + acoustic shadowing"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "hyperechoic lesions at papilla + acoustic shadowing"
+    ],
+    "CT": [
+      "hyperattenuating small flat / round calcification"
+    ]
+  },
+  "clinical": {
+    "Cx": "atrophy of optic nerve"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Juvenile Polyposis (DDx)",
+  "slug": "juvenile_polyposis_ddx_1_c3e7c1",
+  "chapter": "Juvenile Polyposis",
+  "source_file": "processed_clusters/juvenile_polyposis/juvenile_polyposis_ddx_1_c3e7c1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "solitary juvenile polyps (< 5 polyps",
+      "raw": "solitary juvenile polyps (< 5 polyps",
+      "frequency": null
+    },
+    {
+      "name": "1% prevalence in children)",
+      "raw": "1% prevalence in children)",
+      "frequency": "1%"
+    }
+  ],
+  "criteria": {},
+  "context": "solitary polyp (75%); multiple polyps (⅓) of smooth round contour | lesion of pinpoint size / up to several cm in diameter | invariably on stalk of variable length"
+}

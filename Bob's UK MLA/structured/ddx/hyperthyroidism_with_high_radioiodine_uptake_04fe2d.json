@@ -1,0 +1,42 @@
+{
+  "finding": "Hyperthyroidism with High Radioiodine Uptake",
+  "slug": "hyperthyroidism_with_high_radioiodine_uptake_04fe2d",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/hyperthyroidism_with_high_radioiodine_uptake_04fe2d.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Graves disease (b)  autonomous production of thyroid hormone",
+      "raw": "Graves disease (b)  autonomous production of thyroid hormone",
+      "frequency": null
+    },
+    {
+      "name": "Toxic adenoma",
+      "raw": "Toxic adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Toxic multinodular goiter (c)  thyroid stimulation by endogenous hormones",
+      "raw": "Toxic multinodular goiter (c)  thyroid stimulation by endogenous hormones",
+      "frequency": null
+    },
+    {
+      "name": "Trophoblastic disease =  hydatidiform mole / choriocarcinoma / testicular trophoblastic carcinoma",
+      "raw": "Trophoblastic disease =  hydatidiform mole / choriocarcinoma / testicular trophoblastic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "stimulation of thyroid by hCG",
+      "raw": "stimulation of thyroid by hCG",
+      "frequency": null
+    },
+    {
+      "name": "TSH-mediated hyperthyroidism",
+      "raw": "TSH-mediated hyperthyroidism",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  stimulation of thyrotropin receptor by specific immunoglobulin"
+}

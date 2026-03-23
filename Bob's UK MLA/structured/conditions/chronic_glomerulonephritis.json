@@ -1,0 +1,37 @@
+{
+  "name": "CHRONIC GLOMERULONEPHRITIS",
+  "slug": "chronic_glomerulonephritis",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/chronic_glomerulonephritis.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "increased echogenicity",
+  "distribution": "cortical calcification (uncommon)",
+  "discriminating_features": [
+    "small smooth kidneys with wasted parenchyma",
+    "normal papillae + calices",
+    "patchy nephrogram with diminished density of contrast medium",
+    "cortical calcification (uncommon)",
+    "increased echogenicity"
+  ],
+  "other_features": {
+    "general": [
+      "small smooth kidneys with wasted parenchyma",
+      "normal papillae + calices",
+      "patchy nephrogram with diminished density of contrast medium",
+      "cortical calcification (uncommon)"
+    ],
+    "US": [
+      "increased echogenicity",
+      "small kidneys with vicarious sinus lipomatosis"
+    ],
+    "ANGIO": [
+      "marked reduction in renal blood flow",
+      "reflux of contrast material into aorta",
+      "severely pruned + tortuous interlobar and arcuate arteries",
+      "nonvisualization of interlobular arteries",
+      "delayed contrast clearance from interlobar arteries"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,28 @@
+{
+  "name": "MAY-THURNER SYNDROME",
+  "slug": "may_thurner_syndrome",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/may_thurner_syndrome.md",
+  "definition": "ILIAC VEIN COMPRESSION SYNDROME = ILEOCAVAL COMPRESSION SYNDROME = COCKETT obstruction of left common iliac vein caused by crossing of right common iliac artery",
+  "demographics": {
+    "Path": "spurlike projection in proximal left CIV in 22% (autopsy), in 49-62% of left",
+    "Incidence": "0.2% annually in patients evaluated for venous thrombosis of left lower extremity",
+    "Age": "2nd-4th decade; M < F"
+  },
+  "dominant_finding": "compression of left common iliac vein on CT / venography",
+  "distribution": "",
+  "discriminating_features": [
+    "compression of left common iliac vein on CT / venography",
+    "tortuous pelvic venous collaterals joining contralateral veins"
+  ],
+  "other_features": {
+    "general": [
+      "compression of left common iliac vein on CT / venography",
+      "tortuous pelvic venous collaterals joining contralateral veins"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "60% of individuals with May-Thurner syndrome develop postthrombotic syndrome",
+    "Cx": "deep vein thrombosis (L÷R = 5÷1), chronic venous stasis ulcer; pulmonary embolism;"
+  }
+}

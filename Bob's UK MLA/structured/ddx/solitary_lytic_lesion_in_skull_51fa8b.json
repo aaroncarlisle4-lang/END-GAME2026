@@ -1,0 +1,67 @@
+{
+  "finding": "Solitary Lytic Lesion in Skull",
+  "slug": "solitary_lytic_lesion_in_skull_51fa8b",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/solitary_lytic_lesion_in_skull_51fa8b.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid / dermoid",
+      "raw": "Epidermoid / dermoid",
+      "frequency": null
+    },
+    {
+      "name": "Leptomeningeal cyst",
+      "raw": "Leptomeningeal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Postop, Paget disease",
+      "raw": "Postop, Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis, Myeloma",
+      "raw": "Metastasis, Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Lambdoid defect",
+      "raw": "Lambdoid defect (neurofibromatosis)",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

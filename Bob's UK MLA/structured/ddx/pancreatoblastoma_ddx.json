@@ -1,0 +1,43 @@
+{
+  "finding": "Pancreatoblastoma (DDx)",
+  "slug": "pancreatoblastoma_ddx",
+  "chapter": "Pancreatoblastoma",
+  "source_file": "processed_clusters/pancreatoblastoma/pancreatoblastoma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "neuroblastoma",
+      "raw": "neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "hepatoblastoma",
+      "raw": "hepatoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "NHL",
+      "raw": "NHL",
+      "frequency": null
+    },
+    {
+      "name": "solid-pseudopapillary tumor",
+      "raw": "solid-pseudopapillary tumor (adolescent girl)",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "neuroblastoma": [],
+    "Wilms tumor": [],
+    "hepatoblastoma": [],
+    "NHL": [],
+    "solid-pseudopapillary tumor": []
+  },
+  "context": "heterogeneous high SI on T2WI | hyperattenuating liver metastases | regional lymphadenopathy difficult to detect due to large displacing mass | rarely vascular invasion"
+}

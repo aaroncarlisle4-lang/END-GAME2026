@@ -1,0 +1,31 @@
+{
+  "name": "FAMILIAL ADENOMATOUS POLYPOSIS",
+  "slug": "familial_adenomatous_polyposis",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/familial_adenomatous_polyposis.md",
+  "definition": "FAMILIAL MULTIPLE POLYPOSIS",
+  "demographics": {
+    "Frequency": "1÷7,000 to 1÷24,000 live births",
+    "Genetics": "autosomal dominant disease with 80% penetrance; gene localized on chromosome 5;",
+    "Path": "tubular / villotubular adenomatous polyps; usually about 1,000 adenomas",
+    "Age": "polyps appear around puberty"
+  },
+  "dominant_finding": "\"carpet of polyps\" = myriad of 2-3 mm (up to 2 cm) polypoid lesions",
+  "distribution": "",
+  "discriminating_features": [
+    "\"carpet of polyps\" = myriad of 2-3 mm (up to 2 cm) polypoid lesions",
+    "normal haustral pattern"
+  ],
+  "other_features": {
+    "general": [
+      "\"carpet of polyps\" = myriad of 2-3 mm (up to 2 cm) polypoid lesions"
+    ],
+    "Colon (100%): more numerous in distal colon; always affecting rectum": [
+      "normal haustral pattern"
+    ]
+  },
+  "clinical": {
+    "Cx": "malignant transformation of adenomas: colon > stomach > small bowel in 12% [30%]",
+    "Rx": "prophylactic total colectomy in late teens / early twenties before symptoms develop"
+  }
+}

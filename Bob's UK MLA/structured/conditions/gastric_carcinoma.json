@@ -1,0 +1,53 @@
+{
+  "name": "GASTRIC CARCINOMA",
+  "slug": "gastric_carcinoma",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/gastric_carcinoma.md",
+  "definition": "invasion limited to mucosa + submucosa (T1 lesion) regardless of lymph node involvement",
+  "demographics": {
+    "Prevalence": "declining with 24,000 cases annually in USA",
+    "Histo": "adenocarcinoma (95%); rarely squamous cell carcinoma / adenoacanthoma",
+    "Location": "mostly distal third of stomach + cardia; 60% on lesser curvature, 10% on greater"
+  },
+  "dominant_finding": "irregular nodular luminal surface",
+  "distribution": "mostly distal third of stomach + cardia; 60% on lesser curvature, 10% on greater",
+  "discriminating_features": [
+    "firmness, rigidity, reduced capacity of stomach, aperistalsis in involved area",
+    "granular / polypoid folds with encircling growth",
+    "patch of nodularity",
+    "little loss of elasticity",
+    "rigidity"
+  ],
+  "other_features": {
+    "general": [
+      "firmness, rigidity, reduced capacity of stomach, aperistalsis in involved area",
+      "granular / polypoid folds with encircling growth",
+      "patch of nodularity",
+      "little loss of elasticity",
+      "rigidity",
+      "filling defect",
+      "amputation of folds ± ulceration ± stenosis",
+      "miliary / punctate calcifications ← mucinous adenocarcinoma"
+    ],
+    "CT": [
+      "irregular nodular luminal surface",
+      "asymmetric thickening of folds",
+      "mass of uniform density / varying attenuation",
+      "wall thickness > 6 mm (with gas distension) and 13 mm (with positive contrast material",
+      "diffuse low attenuation in mucinous carcinoma",
+      "increased density in perigastric fat",
+      "enhancement exclusively in linitis plastica type",
+      "nodules of serosal surface ← dilated surface lymphatics",
+      "diameter of esophagus at gastroesophageal junction larger than adjacent aorta (DDx: hiatal",
+      "lymphadenopathy below level of renal pedicle (3%)",
+      "short-axis diameter of 8-10 mm",
+      "nearly round shape",
+      "central necrosis",
+      "marked / heterogeneous enhancement"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "mean survival time of 7-8 months",
+    "Cx": "perforation"
+  }
+}

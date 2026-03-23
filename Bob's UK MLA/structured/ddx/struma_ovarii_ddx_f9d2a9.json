@@ -1,0 +1,42 @@
+{
+  "finding": "Struma Ovarii (DDx)",
+  "slug": "struma_ovarii_ddx_f9d2a9",
+  "chapter": "Struma Ovarii",
+  "source_file": "processed_clusters/struma_ovarii/struma_ovarii_ddx_f9d2a9.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "mature cystic teratoma without fatty tissue",
+      "raw": "mature cystic teratoma without fatty tissue",
+      "frequency": null
+    },
+    {
+      "name": "cystadenoma",
+      "raw": "cystadenoma",
+      "frequency": null
+    },
+    {
+      "name": "cystadenocarcinoma",
+      "raw": "cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "endometriosis",
+      "raw": "endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "tuboovarian abscess",
+      "raw": "tuboovarian abscess",
+      "frequency": null
+    },
+    {
+      "name": "metastatic tumor",
+      "raw": "metastatic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cystic spaces with marked hypointensity on T2WI + intermediate intensity on T1WI (= thick | T1-hyperintense locules ← hemorrhage | SI drop-off with surrounding chemical shift artifact on opposed-phase T1WI ← | strong enhancement of solid component / thickened septa / cyst walls"
+}

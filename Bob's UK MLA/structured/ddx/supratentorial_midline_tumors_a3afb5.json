@@ -1,0 +1,62 @@
+{
+  "finding": "Supratentorial Midline Tumors",
+  "slug": "supratentorial_midline_tumors_a3afb5",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/supratentorial_midline_tumors_a3afb5.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Optic + hypothalamic glioma",
+      "raw": "Optic + hypothalamic glioma (39%)",
+      "frequency": "39%"
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Astrocytoma",
+      "raw": "Astrocytoma (9%)",
+      "frequency": "9%"
+    },
+    {
+      "name": "Pineoblastoma",
+      "raw": "Pineoblastoma (9%)",
+      "frequency": "9%"
+    },
+    {
+      "name": "Germinoma",
+      "raw": "Germinoma (6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma (6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma (3.5%)",
+      "frequency": "3.5%"
+    },
+    {
+      "name": "Pituitary adenoma",
+      "raw": "Pituitary adenoma (3.5%)",
+      "frequency": "3.5%"
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma (2%)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Choroid plexus papilloma",
+      "raw": "Choroid plexus papilloma (2%)",
+      "frequency": "2%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

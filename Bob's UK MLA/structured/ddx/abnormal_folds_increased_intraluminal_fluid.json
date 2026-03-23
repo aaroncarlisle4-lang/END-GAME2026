@@ -1,0 +1,42 @@
+{
+  "finding": "Abnormal Folds + Increased Intraluminal Fluid",
+  "slug": "abnormal_folds_increased_intraluminal_fluid",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/abnormal_folds_increased_intraluminal_fluid.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malabsorption syndrome",
+      "raw": "Malabsorption syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease, infectious enteritis",
+      "raw": "Crohn disease, infectious enteritis",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic infestation / giardiasis",
+      "raw": "Parasitic infestation / giardiasis",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia proximal to an obstruction",
+      "raw": "Ischemia proximal to an obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Zollinger-Ellison syndrome",
+      "raw": "Zollinger-Ellison syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiectasia, mesenteric lymphadenopathy",
+      "raw": "Lymphangiectasia, mesenteric lymphadenopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

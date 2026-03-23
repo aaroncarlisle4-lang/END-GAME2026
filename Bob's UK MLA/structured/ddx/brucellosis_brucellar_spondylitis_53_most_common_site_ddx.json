@@ -1,0 +1,22 @@
+{
+  "finding": "Brucellosis — Brucellar spondylitis (53% = most common site) (DDx)",
+  "slug": "brucellosis_brucellar_spondylitis_53_most_common_site_ddx",
+  "chapter": "Brucellosis",
+  "source_file": "processed_clusters/brucellosis/brucellosis_brucellar_spondylitis_53_most_common_site_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TB (paraspinal abscess",
+      "raw": "TB (paraspinal abscess",
+      "frequency": null
+    },
+    {
+      "name": "gibbus)",
+      "raw": "gibbus)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "facet joint involvement | obliteration of paraspinal muscle-fat planes | paraspinal abscess (smaller than in TB) | no / minimal epidural extension"
+}

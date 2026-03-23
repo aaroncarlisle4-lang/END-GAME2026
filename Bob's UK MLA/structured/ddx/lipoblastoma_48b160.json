@@ -1,0 +1,37 @@
+{
+  "finding": "LIPOBLASTOMA",
+  "slug": "lipoblastoma_48b160",
+  "chapter": "LEUKEMIA OF BONE",
+  "source_file": "processed_clusters/leukemia_of_bone/lipoblastoma_48b160.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "gradually increasing painless soft-tissue mass",
+      "raw": "gradually increasing painless soft-tissue mass",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma (calcifications)",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma (very rare in children)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Well-differentiated liposarcoma",
+      "raw": "Well-differentiated liposarcoma (no distinguishing imaging features, patient age < 3 years allows reliable differentiation)",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  rare rapidly growing benign tumor in children < 3 years of age (= postnatal proliferation) composed of mesenchymal cells ranging from prelipoblasts (spindle cells) to mature adipocytes Origin:   derived from fetal adipose tissue Frequency:   30% of adipocytic tumors in children Path:   encapsulated immature adipose tissue (embryonal fat) separated by septa into multiple lobules Histo:   uni- and multivacuolated lipoblasts interspersed between spindle / stellate mesenchymal cells + suspended in myxoid stroma Molecular features:   translocation involving 8q11-13 with rearrangement of Plag1 ge"
+}

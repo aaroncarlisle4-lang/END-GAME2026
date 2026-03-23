@@ -1,0 +1,34 @@
+{
+  "name": "IMPERFORATE ANUS",
+  "slug": "imperforate_anus",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/imperforate_anus.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "1÷5,000 live births"
+  },
+  "dominant_finding": "≤ 15 mm distance between anal dimple + distal rectal pouch on transperineal images →",
+  "distribution": "absence of anal characteristics (= hypoechoic circular rim with central echogenic stripe)",
+  "discriminating_features": [
+    "absence of anal characteristics (= hypoechoic circular rim with central echogenic stripe)",
+    "distance between rectal air and skin will not accurately outline the extent of atretic rectum and",
+    "≤ 15 mm distance between anal dimple + distal rectal pouch on transperineal images →",
+    "dilated colon in lower pelvis with U- / S-shaped configuration ± intraluminal calcifications",
+    "normal amniotic fluid (unless also TEF)"
+  ],
+  "other_features": {
+    "general": [
+      "distance between rectal air and skin will not accurately outline the extent of atretic rectum and"
+    ],
+    "US": [
+      "≤ 15 mm distance between anal dimple + distal rectal pouch on transperineal images →",
+      "dilated colon in lower pelvis with U- / S-shaped configuration ± intraluminal calcifications",
+      "normal amniotic fluid (unless also TEF)",
+      "absence of anal characteristics (= hypoechoic circular rim with central echogenic stripe)"
+    ]
+  },
+  "clinical": {
+    "Rx": "readily reparable",
+    "Cx": "associated malformations more common + more severe"
+  }
+}

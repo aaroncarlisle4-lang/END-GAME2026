@@ -1,0 +1,27 @@
+{
+  "finding": "Fracture (DDx)",
+  "slug": "fracture_ddx",
+  "chapter": "Fracture",
+  "source_file": "processed_clusters/fracture/fracture_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteoid osteoma (round nidus",
+      "raw": "Osteoid osteoma (round nidus",
+      "frequency": null
+    },
+    {
+      "name": "no cortical ridge",
+      "raw": "no cortical ridge",
+      "frequency": null
+    },
+    {
+      "name": "\"double-density\" sign on bone",
+      "raw": "\"double-density\" sign on bone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "infraction in the center of an area of cortical thickening | extensive bidirectional cortical thickening from endosteum to periosteum | focal cortical ridge | linear intense uptake of tracer"
+}

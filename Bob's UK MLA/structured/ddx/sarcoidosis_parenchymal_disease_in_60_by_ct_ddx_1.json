@@ -1,0 +1,37 @@
+{
+  "finding": "Sarcoidosis — parenchymal disease (in 60% by CT): (DDx)",
+  "slug": "sarcoidosis_parenchymal_disease_in_60_by_ct_ddx_1",
+  "chapter": "Sarcoidosis",
+  "source_file": "processed_clusters/sarcoidosis/sarcoidosis_parenchymal_disease_in_60_by_ct_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tuberculosis",
+      "raw": "tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "pneumoconiosis",
+      "raw": "pneumoconiosis",
+      "frequency": null
+    },
+    {
+      "name": "metastases",
+      "raw": "metastases",
+      "frequency": null
+    },
+    {
+      "name": "histoplasmosis",
+      "raw": "histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "chickenpox",
+      "raw": "chickenpox",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "honeycomb-like cysts | cavitation / pseudocavitation of parenchymal lesion (10% of end-stage sarcoidosis | mycetoma formation of stage 4 cystic sarcoidosis (1-3%) | miliary opacities (<1%)"
+}

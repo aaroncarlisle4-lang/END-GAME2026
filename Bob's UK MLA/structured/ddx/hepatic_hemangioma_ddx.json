@@ -1,0 +1,43 @@
+{
+  "finding": "Hepatic Hemangioma (DDx)",
+  "slug": "hepatic_hemangioma_ddx",
+  "chapter": "Hepatic Hemangioma",
+  "source_file": "processed_clusters/hepatic_hemangioma/hepatic_hemangioma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "HCC",
+      "raw": "HCC",
+      "frequency": null
+    },
+    {
+      "name": "cholangiocarcinoma",
+      "raw": "cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "hepatic adenoma",
+      "raw": "hepatic adenoma",
+      "frequency": null
+    },
+    {
+      "name": "FNH (smaller and less",
+      "raw": "FNH (smaller and less",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "metastasis": [],
+    "HCC": [],
+    "cholangiocarcinoma": [],
+    "hepatic adenoma": [],
+    "FNH (smaller and less": []
+  },
+  "context": "sharply marginated hypointense mass with cleftlike area of lower intensity on T1WI | large markedly hyperintense cleftlike area (← cystic degeneration / liquefaction) with | peripheral nodular enhancement | central cleftlike area remains hypointense"
+}

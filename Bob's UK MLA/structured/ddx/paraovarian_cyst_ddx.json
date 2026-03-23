@@ -1,0 +1,37 @@
+{
+  "finding": "Paraovarian Cyst (DDx)",
+  "slug": "paraovarian_cyst_ddx",
+  "chapter": "Paraovarian Cyst",
+  "source_file": "processed_clusters/paraovarian_cyst/paraovarian_cyst_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ovarian cyst (functional",
+      "raw": "ovarian cyst (functional",
+      "frequency": null
+    },
+    {
+      "name": "cystic teratoma",
+      "raw": "cystic teratoma",
+      "frequency": null
+    },
+    {
+      "name": "benign epithelial neoplasm)",
+      "raw": "benign epithelial neoplasm)",
+      "frequency": null
+    },
+    {
+      "name": "peritoneal inclusion cyst",
+      "raw": "peritoneal inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "hydrosalpinx",
+      "raw": "hydrosalpinx",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "may indent ovary mimicking exophytic ovarian cyst | may arise out of pelvis (if pedunculated + mobile) | ± low-level internal echoes ← hemorrhage | occasionally multiple; rarely bilateral"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Cause of Delayed Passage of Gas in Neonate",
+  "slug": "cause_of_delayed_passage_of_gas_in_neonate",
+  "chapter": "E. HYDROPS FETALIS",
+  "source_file": "processed_clusters/e_hydrops_fetalis/cause_of_delayed_passage_of_gas_in_neonate.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Traumatic delivery",
+      "raw": "Traumatic delivery",
+      "frequency": null
+    },
+    {
+      "name": "Septicemia",
+      "raw": "Septicemia",
+      "frequency": null
+    },
+    {
+      "name": "Hypoglycemia",
+      "raw": "Hypoglycemia",
+      "frequency": null
+    },
+    {
+      "name": "Brain damage",
+      "raw": "Brain damage",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

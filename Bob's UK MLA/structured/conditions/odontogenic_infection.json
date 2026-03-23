@@ -1,0 +1,24 @@
+{
+  "name": "ODONTOGENIC INFECTION",
+  "slug": "odontogenic_infection",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/odontogenic_infection.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "periodontal lucency with focal cortical break / fistula",
+  "distribution": "periodontal lucency with focal cortical break / fistula",
+  "discriminating_features": [
+    "periodontal lucency with focal cortical break / fistula",
+    "extraosseous fluid collection with rimlike enhancement"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "periodontal lucency with focal cortical break / fistula",
+      "extraosseous fluid collection with rimlike enhancement"
+    ]
+  },
+  "clinical": {
+    "Cx": "spread of infection into deep spaces of neck and orbit, airway compromise, internal"
+  }
+}

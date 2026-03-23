@@ -1,0 +1,72 @@
+{
+  "finding": "B. Disorders of renal tubular reabsorption of phosphate",
+  "slug": "b_disorders_of_renal_tubular_reabsorption_of_phosphate",
+  "chapter": "Dialysis-associated Disorders",
+  "source_file": "processed_clusters/dialysis_associated_disorders/b_disorders_of_renal_tubular_reabsorption_of_phosphate.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal tubular acidosis",
+      "raw": "Renal tubular acidosis (renal loss of alkali)",
+      "frequency": null
+    },
+    {
+      "name": "deToni-Debré-Fanconi syndrome = hypophosphatemia, glucosuria, aminoaciduria",
+      "raw": "deToni-Debré-Fanconi syndrome = hypophosphatemia, glucosuria, aminoaciduria",
+      "frequency": null
+    },
+    {
+      "name": "Vitamin D-resistant rickets",
+      "raw": "Vitamin D-resistant rickets",
+      "frequency": null
+    },
+    {
+      "name": "Cystinosis",
+      "raw": "Cystinosis",
+      "frequency": null
+    },
+    {
+      "name": "Tyrosinosis",
+      "raw": "Tyrosinosis",
+      "frequency": null
+    },
+    {
+      "name": "Lowe syndrome",
+      "raw": "Lowe syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ifosfamide nephrotoxicity",
+      "raw": "Ifosfamide nephrotoxicity (for the treatment of rhabdomyosarcoma, Wilms tumor)",
+      "frequency": null
+    },
+    {
+      "name": "Hypophosphatemia with nonendocrine tumors =  Oncogenic rickets = elaboration of humeral substance which inhibits tubular reabsorption of phosphates",
+      "raw": "Hypophosphatemia with nonendocrine tumors =  Oncogenic rickets = elaboration of humeral substance which inhibits tubular reabsorption of phosphates (paraneoplastic phenomenon)",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing hemangioma",
+      "raw": "Sclerosing hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying mesenchymal tumor",
+      "raw": "Ossifying mesenchymal tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

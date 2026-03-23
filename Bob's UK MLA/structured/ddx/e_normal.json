@@ -1,0 +1,122 @@
+{
+  "finding": "E. NORMAL",
+  "slug": "e_normal",
+  "chapter": "D. POSTSURGICAL",
+  "source_file": "processed_clusters/d_postsurgical/e_normal.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cannon point",
+      "raw": "Cannon point",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Actinomycosis",
+      "raw": "Actinomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation",
+      "raw": "Radiation",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Diverticulitis",
+      "raw": "Diverticulitis",
+      "frequency": null
+    },
+    {
+      "name": "Colitis",
+      "raw": "Colitis",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic lesion",
+      "raw": "Extrinsic lesion",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphogranuloma venereum",
+      "raw": "Lymphogranuloma venereum",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Entamoeba histolytica",
+      "raw": "Entamoeba histolytica",
+      "frequency": null
+    },
+    {
+      "name": "Microcolon",
+      "raw": "Microcolon",
+      "frequency": null
+    },
+    {
+      "name": "Meconium ileus, Meconium peritonitis",
+      "raw": "Meconium ileus, Meconium peritonitis (cystic fibrosis)",
+      "frequency": null
+    },
+    {
+      "name": "Ileal / jejunal atresia",
+      "raw": "Ileal / jejunal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Megacystis-microcolon-hypoperistalsis syndrome",
+      "raw": "Megacystis-microcolon-hypoperistalsis syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Colonic atresia",
+      "raw": "Colonic atresia (distal to atretic segment)",
+      "frequency": null
+    },
+    {
+      "name": "Aganglionosis",
+      "raw": "Aganglionosis (Hirschsprüng disease)",
+      "frequency": null
+    },
+    {
+      "name": "Colonic Filling Defects",
+      "raw": "Colonic Filling Defects",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Localized Colonic Narrowing mnemonic:   SCARED CELL-MATE mnemonic:   MIa MicroColicA"
+}

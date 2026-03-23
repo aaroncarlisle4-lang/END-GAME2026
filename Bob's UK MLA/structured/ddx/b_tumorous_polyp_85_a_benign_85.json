@@ -1,0 +1,47 @@
+{
+  "finding": "B. TUMOROUS POLYP (85%) (a) benign (85%",
+  "slug": "b_tumorous_polyp_85_a_benign_85",
+  "chapter": "GALLBLADDER POLYP",
+  "source_file": "processed_clusters/gallbladder_polyp/b_tumorous_polyp_85_a_benign_85.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma (84%)",
+      "frequency": "84%"
+    },
+    {
+      "name": "Fibroma, leiomyoma, lipoma, neurofibroma, neuroendocrine tumor",
+      "raw": "Fibroma, leiomyoma, lipoma, neurofibroma, neuroendocrine tumor (1%) (b)  malignant (15%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma (4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Squamous cell carcinoma, carcinosarcoma, small cell carcinoma, lymphoma",
+      "raw": "Squamous cell carcinoma, carcinosarcoma, small cell carcinoma, lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: melanoma (60%), RCC ◊  94% of benign lesions are < 10 mm; 88% of malignant lesions are > 10 mm ◊  Any polyp > 10 mm should be operated on ›  in a symptomatic patient ›  in a patient > 50 years of age ›  with coexisting gallstones or followed every 3-6 months for 1 year",
+      "raw": "Metastasis: melanoma (60%), RCC ◊  94% of benign lesions are < 10 mm; 88% of malignant lesions are > 10 mm ◊  Any polyp > 10 mm should be operated on ›  in a symptomatic patient ›  in a patient > 50 years of age ›  with coexisting gallstones or followed every 3-6 months for 1 year",
+      "frequency": "60%"
+    },
+    {
+      "name": "Adherent gallstone",
+      "raw": "Adherent gallstone",
+      "frequency": null
+    },
+    {
+      "name": "Adherent tumefactive sludge",
+      "raw": "Adherent tumefactive sludge",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DDx:"
+}

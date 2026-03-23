@@ -1,0 +1,42 @@
+{
+  "finding": "Tuberculosis (DDx)",
+  "slug": "tuberculosis_ddx_397e4e",
+  "chapter": "Tuberculosis",
+  "source_file": "processed_clusters/tuberculosis/tuberculosis_ddx_397e4e.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "varicella pneumonia",
+      "raw": "varicella pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "histoplasmosis",
+      "raw": "histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "metastases",
+      "raw": "metastases",
+      "frequency": null
+    },
+    {
+      "name": "sarcoidosis",
+      "raw": "sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "pneumoconiosis",
+      "raw": "pneumoconiosis",
+      "frequency": null
+    },
+    {
+      "name": "hemosiderosis",
+      "raw": "hemosiderosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "normal radiograph (in up to 15%) | one / more areas of homogeneously dense well-defined airspace consolidation of 1-7 | absent response to antibiotic Rx for \"pneumonia\" | fine discrete nodular areas of increased opacity"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "COARCTATION OF AORTA",
+  "slug": "coarctation_of_aorta",
+  "chapter": "CARDIOMYOPATHY",
+  "source_file": "processed_clusters/cardiomyopathy/coarctation_of_aorta.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bicuspid aortic valve (22-42%), which may result in calcific aortic valve stenosis (after 25 years of age) + bacterial endocarditis",
+      "raw": "Bicuspid aortic valve (22-42%), which may result in calcific aortic valve stenosis (after 25 years of age) + bacterial endocarditis",
+      "frequency": "42%"
+    },
+    {
+      "name": "Intracardiac malformations:",
+      "raw": "Intracardiac malformations:",
+      "frequency": null
+    },
+    {
+      "name": "Noncardiac malformations (13-15%): Turner syndrome",
+      "raw": "Noncardiac malformations (13-15%): Turner syndrome",
+      "frequency": "15%"
+    },
+    {
+      "name": "Intracranial berry aneurysms",
+      "raw": "Intracranial berry aneurysms (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Mycotic aneurysm distal to CoA",
+      "raw": "Mycotic aneurysm distal to CoA",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  CoA = JUXTADUCTAL COARCTATION =  short aortic narrowing at level of ligamentum arteriosum Former Classification: (a)  adult / postductal / localized type of aortic coarctation (b)  infantile / preductal / diffuse type of aortic coarctation Prevalence:   7% of congenital heart disease; M÷F = 1.5÷1; rare in Blacks Cause:   hemodynamic hypothesis (= abnormal preductal flow); ductal hypothesis (= ectopic ductal tissue extending into aorta) ◊  Usually solitary lesion (in 82%)! May be associated with: ›  PDA (33%), VSD (15%), ASD, TGV ›  aortic stenosis / insufficiency ›  ostium primum defect ›"
+}

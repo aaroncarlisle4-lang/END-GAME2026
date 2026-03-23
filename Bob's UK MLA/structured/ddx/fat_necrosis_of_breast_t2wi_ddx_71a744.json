@@ -1,0 +1,32 @@
+{
+  "finding": "Fat Necrosis Of Breast — T2WI (DDx)",
+  "slug": "fat_necrosis_of_breast_t2wi_ddx_71a744",
+  "chapter": "Fat Necrosis Of Breast",
+  "source_file": "processed_clusters/fat_necrosis_of_breast/fat_necrosis_of_breast_t2wi_ddx_71a744.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "breast cancer (indistinguishable from carcinoma if associated with distortion",
+      "raw": "breast cancer (indistinguishable from carcinoma if associated with distortion",
+      "frequency": null
+    },
+    {
+      "name": "skin thickening",
+      "raw": "skin thickening",
+      "frequency": null
+    },
+    {
+      "name": "retraction)",
+      "raw": "retraction)",
+      "frequency": null
+    },
+    {
+      "name": "breast abscess",
+      "raw": "breast abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "localized ill-defined area of moderate enhancement + continuous postinitial increase (= | rim-enhancement / no enhancement in late lesion / oil cyst | ill-defined hyperintense area (= reactive edema of fresh lesion) | round lesion with central SI of fat (in oil cyst)"
+}

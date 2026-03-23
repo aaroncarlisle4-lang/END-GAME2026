@@ -1,0 +1,32 @@
+{
+  "finding": "Calcified Sellar Lesion",
+  "slug": "calcified_sellar_lesion_061ab2",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/calcified_sellar_lesion_061ab2.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Cartilaginous tumor",
+      "raw": "Cartilaginous tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,67 @@
+{
+  "finding": "B. Metanephric tumor",
+  "slug": "b_metanephric_tumor_6284ca",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/b_metanephric_tumor_6284ca.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mesenchymal tumor (a)  benign:",
+      "raw": "Mesenchymal tumor (a)  benign:",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma of kidney",
+      "raw": "Leiomyoma of kidney",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma of kidney",
+      "raw": "Hemangioma of kidney",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma of kidney",
+      "raw": "Lymphangioma of kidney",
+      "frequency": null
+    },
+    {
+      "name": "Juxtaglomerular cell tumor",
+      "raw": "Juxtaglomerular cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Renomedullary interstitial cell tumor",
+      "raw": "Renomedullary interstitial cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Solitary fibrous tumor",
+      "raw": "Solitary fibrous tumor",
+      "frequency": null
+    },
+    {
+      "name": "others: lipoma, schwannoma (b)  malignant:",
+      "raw": "others: lipoma, schwannoma (b)  malignant:",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma of kidney",
+      "raw": "Leiomyosarcoma of kidney (50-60%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "Others: synovial sarcoma, osteosarcoma, fibrosarcoma, rhabdomyosarcoma, angiosarcoma, malignant fibrous histiocytoma, solitary fibrous tumor",
+      "raw": "Others: synovial sarcoma, osteosarcoma, fibrosarcoma, rhabdomyosarcoma, angiosarcoma, malignant fibrous histiocytoma, solitary fibrous tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Primary renal sarcomas account for 1-3% of all malignant renal tumors!"
+}

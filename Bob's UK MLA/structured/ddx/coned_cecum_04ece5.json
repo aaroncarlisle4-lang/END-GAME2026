@@ -1,0 +1,42 @@
+{
+  "finding": "Coned Cecum",
+  "slug": "coned_cecum_04ece5",
+  "chapter": "G. INTUSSUSCEPTION",
+  "source_file": "processed_clusters/g_intussusception/coned_cecum_04ece5.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INFLAMMATION",
+      "raw": "INFLAMMATION",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Ulcerative colitis",
+      "raw": "Ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis",
+      "raw": "Appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "Typhlitis",
+      "raw": "Typhlitis",
+      "frequency": null
+    },
+    {
+      "name": "Perforated cecal diverticulum",
+      "raw": "Perforated cecal diverticulum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  involvement of ascending colon + terminal ileum √  backwash ileitis (in 10%) √  gaping ileocecal valve"
+}

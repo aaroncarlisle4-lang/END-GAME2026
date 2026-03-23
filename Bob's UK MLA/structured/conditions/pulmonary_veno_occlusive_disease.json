@@ -1,0 +1,57 @@
+{
+  "name": "PULMONARY VENO-OCCLUSIVE DISEASE",
+  "slug": "pulmonary_veno_occlusive_disease",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/pulmonary_veno_occlusive_disease.md",
+  "definition": "fibrous narrowing / occlusion of pulmonary venules + small veins; the postcapillary",
+  "demographics": {
+    "Prevalence": "01.-0.2 per 1,000,000 persons",
+    "Age": "< 20 years in 30-50% (range, 9 days to 70 years); M÷F = 1÷1"
+  },
+  "dominant_finding": "markedly small central pulmonary veins",
+  "distribution": "markedly small central pulmonary veins",
+  "discriminating_features": [
+    "markedly small central pulmonary veins",
+    "dilated central pulmonary arteries",
+    "smoothly thickened interlobular septa",
+    "peribronchovascular thickening",
+    "diffuse / geographic / mosaic / perihilar / patchy / centrilobular ground-glass opacity"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "enlargement of main pulmonary artery (PAH)",
+      "prominent Kerley B lines",
+      "pulmonary veins of normal caliber",
+      "normal contours of LA + LV",
+      "± pleural effusions",
+      "diffuse interstitial ± alveolar pulmonary edema:",
+      "central and gravity-dependent parenchymal ground-glass attenuation",
+      "multifocal airspace consolidation ← parenchymal hemorrhage, pulmonary edema,",
+      "mediastinal lymphadenopathy ← vascular transformation of lymph node sinus with various"
+    ],
+    "CT": [
+      "markedly small central pulmonary veins",
+      "dilated central pulmonary arteries",
+      "smoothly thickened interlobular septa",
+      "peribronchovascular thickening",
+      "diffuse / geographic / mosaic / perihilar / patchy / centrilobular ground-glass opacity",
+      "right heart enlargement + normal-sized left atrium",
+      "pleural effusions"
+    ],
+    "NUC": [
+      "patchy distribution of 99mTc-MAA (of \"upstream\" pulmonary arterial hypertension)"
+    ],
+    "ANGIO": [
+      "enlarged right ventricle + central pulmonary arteries",
+      "prolonged parenchymal phase enhancement",
+      "delayed filling of normal pulmonary veins",
+      "normal to small left atrium"
+    ]
+  },
+  "clinical": {
+    "Cx": "potentially fatal pulmonary edema following administration of vasodilators for",
+    "Prognosis": "death within 3 years ← NO effective therapy",
+    "Rx": "lung / heart-lung transplant (only curative option); supportive diuretics, anticholinesterase"
+  }
+}

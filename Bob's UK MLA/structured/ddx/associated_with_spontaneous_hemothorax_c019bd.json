@@ -1,0 +1,82 @@
+{
+  "finding": "Associated with: spontaneous hemothorax",
+  "slug": "associated_with_spontaneous_hemothorax_c019bd",
+  "chapter": "RIBS",
+  "source_file": "processed_clusters/ribs/associated_with_spontaneous_hemothorax_c019bd.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis (eosinophilic granuloma)",
+      "frequency": null
+    },
+    {
+      "name": "age < 30 years",
+      "raw": "age < 30 years",
+      "frequency": null
+    },
+    {
+      "name": "Benign cortical defect",
+      "raw": "Benign cortical defect",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma of bone",
+      "raw": "Hemangioma of bone",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Osteoblastoma",
+      "raw": "Osteoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteoid osteoma",
+      "raw": "Osteoid osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Chondroblastoma",
+      "raw": "Chondroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Enostosis = bone island",
+      "raw": "Enostosis = bone island (0.4%)",
+      "frequency": "0.4%"
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Brown tumor of HPT",
+      "raw": "Brown tumor of HPT",
+      "frequency": null
+    },
+    {
+      "name": "Xanthogranuloma",
+      "raw": "Xanthogranuloma",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma = fibroxanthoma",
+      "raw": "Nonossifying fibroma = fibroxanthoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  \"black hole\" on CT of lower density √  aggressive features like periostitis + cortical breakthrough + soft-tissue mass √  low to intermediate SI on T1WI + T2WI √  lobulated septated mass with thin well-defined rim of low SI + fluid levels √  at costovertebral / costochondral junction √  eccentric intracortical location, smaller in size √  spontaneous regression with age"
+}

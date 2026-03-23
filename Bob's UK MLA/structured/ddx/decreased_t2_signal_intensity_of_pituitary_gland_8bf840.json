@@ -1,0 +1,42 @@
+{
+  "finding": "Decreased T2 Signal Intensity of Pituitary Gland",
+  "slug": "decreased_t2_signal_intensity_of_pituitary_gland_8bf840",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/decreased_t2_signal_intensity_of_pituitary_gland_8bf840.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemochromatosis",
+      "raw": "Hemochromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Malignant melanoma",
+      "raw": "Malignant melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary hemorrhage",
+      "raw": "Pituitary hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Flow void",
+      "raw": "Flow void (aneurysm)",
+      "frequency": null
+    },
+    {
+      "name": "Rathke cleft cyst",
+      "raw": "Rathke cleft cyst",
+      "frequency": null
+    },
+    {
+      "name": "Calcification",
+      "raw": "Calcification (craniopharyngioma, chordoma)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

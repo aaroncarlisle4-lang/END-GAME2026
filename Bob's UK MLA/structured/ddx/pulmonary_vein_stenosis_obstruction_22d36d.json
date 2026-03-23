@@ -1,0 +1,37 @@
+{
+  "finding": "Pulmonary Vein Stenosis / Obstruction",
+  "slug": "pulmonary_vein_stenosis_obstruction_22d36d",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/pulmonary_vein_stenosis_obstruction_22d36d.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Radiofrequency ablation for atrial fibrillation",
+      "raw": "Radiofrequency ablation for atrial fibrillation (1-10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Surgery: heart surgery, correction of APVR, lung transplantation",
+      "raw": "Surgery: heart surgery, correction of APVR, lung transplantation",
+      "frequency": null
+    },
+    {
+      "name": "Neoplastic infiltration: lung primary, atrial tumor, primary sarcoma",
+      "raw": "Neoplastic infiltration: lung primary, atrial tumor, primary sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosing mediastinitis",
+      "raw": "Fibrosing mediastinitis",
+      "frequency": null
+    },
+    {
+      "name": "Benign inflammatory process: sarcoidosis, tuberculosis",
+      "raw": "Benign inflammatory process: sarcoidosis, tuberculosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Mechanism:   extrinsic compression / invasion"
+}

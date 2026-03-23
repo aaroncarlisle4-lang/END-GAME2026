@@ -1,0 +1,77 @@
+{
+  "finding": "Cause: hemodynamic stress + repeated endothelial damage ← turbulent blood flow",
+  "slug": "cause_hemodynamic_stress_repeated_endothelial_damage_turbulent_blood_flow_d7924e",
+  "chapter": "ANENCEPHALY",
+  "source_file": "processed_clusters/anencephaly/cause_hemodynamic_stress_repeated_endothelial_damage_turbulent_blood_flow_d7924e.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fusiform =  circumferential involvement of wall",
+      "raw": "Fusiform =  circumferential involvement of wall",
+      "frequency": null
+    },
+    {
+      "name": "by autopsy:",
+      "raw": "by autopsy:",
+      "frequency": null
+    },
+    {
+      "name": "by CT: detection rate of aneurysms at pCom",
+      "raw": "by CT: detection rate of aneurysms at pCom (40%), aCom / MCA, basilar artery (80%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "by angiography",
+      "raw": "by angiography (= symptomatic aneurysms): pCom (38%) > aCom (36%) > MCA bifurcation (21%) > ICA bifurcation > tip of basilar artery (2.8%)",
+      "frequency": "38%"
+    },
+    {
+      "name": "by risk of bleeding: 1-2% per year aCom (70% bleed), pCom (2nd highest risk) ◊  Aneurysms at bifurcations / branching points are at greatest risk for rupture!",
+      "raw": "by risk of bleeding: 1-2% per year aCom (70% bleed), pCom (2nd highest risk) ◊  Aneurysms at bifurcations / branching points are at greatest risk for rupture!",
+      "frequency": "2%"
+    },
+    {
+      "name": "Death in 10% within 24 hours from concomitant intracerebral hemorrhage, extensive brain herniation, massive infarcts + hemorrhage within brainstem",
+      "raw": "Death in 10% within 24 hours from concomitant intracerebral hemorrhage, extensive brain herniation, massive infarcts + hemorrhage within brainstem",
+      "frequency": "10%"
+    },
+    {
+      "name": "Complete recovery in 58% of survivors",
+      "raw": "Complete recovery in 58% of survivors",
+      "frequency": "58%"
+    },
+    {
+      "name": "Cerebral ischemia + infarction",
+      "raw": "Cerebral ischemia + infarction",
+      "frequency": null
+    },
+    {
+      "name": "Rebleeding rate: 12-20% within 2 weeks, 11-22% within 30 days, up to 50% within 6 months (increased mortality); thereafter 1-2-4% risk/year",
+      "raw": "Rebleeding rate: 12-20% within 2 weeks, 11-22% within 30 days, up to 50% within 6 months (increased mortality); thereafter 1-2-4% risk/year",
+      "frequency": "20%"
+    },
+    {
+      "name": "progressive visual impairment",
+      "raw": "progressive visual impairment",
+      "frequency": null
+    },
+    {
+      "name": "cavernous sinus syndrome: trigeminal nerve pain, oculomotor nerve paralysis",
+      "raw": "cavernous sinus syndrome: trigeminal nerve pain, oculomotor nerve paralysis",
+      "frequency": null
+    },
+    {
+      "name": "visual disturbance; cranial nerve palsy; seizure",
+      "raw": "visual disturbance; cranial nerve palsy; seizure",
+      "frequency": null
+    },
+    {
+      "name": "TIA / infarct ← thromboemboli from aneurysm",
+      "raw": "TIA / infarct ← thromboemboli from aneurysm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Site:   circle of Willis (COW) in 90-95%, arterial bifurcation in 5-10% Location:   anterior circulation (90%), posterior circulation (10%), distal to COW (5%) Size:   2-3 mm small to giant >2.5 cm Cause:   predominantly atherosclerotic degeneration Location:   posterior circulation (a)  Serpentine =  partly thrombosed containing tortuous vascular channels Cause:   recurrent cycles of thrombosis + recanalization within fusiform aneurysm Location of aneurysm: (a)  circle of Willis (85%): aCom (25%), pCom (18%), MCA bifurcation (25%), distal ACA (5%), ICA at bifurcation (4%), ophthalmic a. (4%),"
+}

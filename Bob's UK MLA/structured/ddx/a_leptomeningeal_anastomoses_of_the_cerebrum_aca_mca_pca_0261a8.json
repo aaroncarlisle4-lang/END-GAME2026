@@ -1,0 +1,65 @@
+{
+  "finding": "A. Leptomeningeal anastomoses of the cerebrum: ACA ↔ MCA ↔ PCA",
+  "slug": "a_leptomeningeal_anastomoses_of_the_cerebrum_aca_mca_pca_0261a8",
+  "chapter": "VESTIBULOCOCHLEAR NERVE (CN VIII",
+  "source_file": "processed_clusters/vestibulocochlear_nerve_cn_viii/a_leptomeningeal_anastomoses_of_the_cerebrum_aca_mca_pca_0261a8.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Leptomeningeal anastomoses of the cerebellum: Superior cerebellar a. ↔ AICA ↔",
+      "raw": "Leptomeningeal anastomoses of the cerebellum: Superior cerebellar a. ↔ AICA ↔",
+      "frequency": null
+    },
+    {
+      "name": "Superior sagittal sinus (SSS) collects superficial cerebral veins that drain cerebral convexities [Inferior sagittal sinus]",
+      "raw": "Superior sagittal sinus (SSS) collects superficial cerebral veins that drain cerebral convexities",
+      "frequency": null,
+      "sites": [
+        "Inferior sagittal sinus"
+      ]
+    },
+    {
+      "name": "Straight sinus",
+      "raw": "Straight sinus (SS)",
+      "frequency": null
+    },
+    {
+      "name": "Occipital sinus small midline vein draining toward foramen magnum / into jugular fossa / suboccipital veins",
+      "raw": "Occipital sinus small midline vein draining toward foramen magnum / into jugular fossa / suboccipital veins",
+      "frequency": null
+    },
+    {
+      "name": "Transverse sinus (TS) receives blood from the temporal, parietal, and occipital lobes",
+      "raw": "Transverse sinus (TS) receives blood from the temporal, parietal, and occipital lobes",
+      "frequency": null
+    },
+    {
+      "name": "Sigmoid sinus",
+      "raw": "Sigmoid sinus",
+      "frequency": null
+    },
+    {
+      "name": "Confluence of sinuses (torcular herophili) formed by union of the SSS +SS + TS",
+      "raw": "Confluence of sinuses (torcular herophili) formed by union of the SSS +SS + TS",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous sinus complex",
+      "raw": "Cavernous sinus complex",
+      "frequency": null
+    },
+    {
+      "name": "Superior petrosal sinus ›  arising from junction of transverse with sigmoid sinus ›  extends along petrous ridge",
+      "raw": "Superior petrosal sinus ›  arising from junction of transverse with sigmoid sinus ›  extends along petrous ridge",
+      "frequency": null
+    },
+    {
+      "name": "Inferior petrosal sinus ›  arising from distal portion of sigmoid sinus / jugular bulb ›  extends along clivus",
+      "raw": "Inferior petrosal sinus ›  arising from distal portion of sigmoid sinus / jugular bulb ›  extends along clivus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "PICA Rete Mirabile ECA ↔ middle meningeal a. / superficial temporal a. ↔ leptomeningeal aa. ↔ ACA / MCA Cerebral Venous System Histo:  NO smooth muscle / venous valves → bidirectional flow Dural Venous Sinuses =  major drainage pathway from cerebral veins into internal jugular veins; enclosed by leaves of dura (a)  Superior group draining majority of brain + skull √  luminal surface of triangular shape √  traversed by septa → maintaining laminar flow + preventing venous reflux into cortical veins Location:   at attachment of falx cerebelli √  may replace an aplastic transverse sinus √  commonl"
+}

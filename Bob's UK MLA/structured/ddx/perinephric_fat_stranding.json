@@ -1,0 +1,42 @@
+{
+  "finding": "Perinephric Fat Stranding",
+  "slug": "perinephric_fat_stranding",
+  "chapter": "B. SMALL KIDNEY",
+  "source_file": "processed_clusters/b_small_kidney/perinephric_fat_stranding.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute obstructing renal calculus: ureteral colic",
+      "raw": "Acute obstructing renal calculus: ureteral colic",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Infarction",
+      "raw": "Infarction",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Renal vein thrombosis",
+      "raw": "Renal vein thrombosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  nonspecific perirenal cobwebs Pathophysiology:   engorged lymphatics, edema, fluid extravasation from pyelosinus"
+}

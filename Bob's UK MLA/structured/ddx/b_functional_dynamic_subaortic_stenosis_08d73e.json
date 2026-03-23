@@ -1,0 +1,52 @@
+{
+  "finding": "B. FUNCTIONAL / DYNAMIC SUBAORTIC STENOSIS",
+  "slug": "b_functional_dynamic_subaortic_stenosis_08d73e",
+  "chapter": "Cause: mural thrombus dispersed by delivery system",
+  "source_file": "processed_clusters/cause_mural_thrombus_dispersed_by_delivery_system/b_functional_dynamic_subaortic_stenosis_08d73e.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Asymmetric septal hypertrophy",
+      "raw": "Asymmetric septal hypertrophy (ASH)",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic hypertrophic subaortic stenosis",
+      "raw": "Idiopathic hypertrophic subaortic stenosis (IHSS)",
+      "frequency": null
+    },
+    {
+      "name": "Hypertrophic obstructive cardiomyopathy (HOCM) may occur in infants of diabetic mothers",
+      "raw": "Hypertrophic obstructive cardiomyopathy (HOCM) may occur in infants of diabetic mothers",
+      "frequency": null
+    },
+    {
+      "name": "Bicuspid / unicuspid (in 95%): in 0.7-2.0% of population; M > F; commonly associated with aortic coarctation ◊  Valve degenerates a decade earlier compared with tricuspid configuration!",
+      "raw": "Bicuspid / unicuspid (in 95%): in 0.7-2.0% of population; M > F; commonly associated with aortic coarctation ◊  Valve degenerates a decade earlier compared with tricuspid configuration!",
+      "frequency": "95%"
+    },
+    {
+      "name": "Tricuspid",
+      "raw": "Tricuspid (5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Dysplastic thickened aortic cusps @   IN INFANT with critical aortic stenosis:",
+      "raw": "Dysplastic thickened aortic cusps @   IN INFANT with critical aortic stenosis:",
+      "frequency": null
+    },
+    {
+      "name": "intractable CHF in first days / weeks of life with severe dyspnea; may simulate neonatal sepsis",
+      "raw": "intractable CHF in first days / weeks of life with severe dyspnea; may simulate neonatal sepsis",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic until late in life",
+      "raw": "asymptomatic until late in life",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  no dilatation of ascending aorta √  asymmetrically thicker ventricular septum than free wall of LV (95%) √  normal / small left + right ventricular cavities (95%) √  lucent subaortic filling defect in systole √  focal convexity of left upper-mid cardiac margin = anterior aspect of ventricular septum (rare) ECHO: √  coarse systolic flutter of valve cusps √  opening of leaflets followed by rapid inward move in mid systole, leaflets may remain in partially closed position through latter portion of systole (to appose borders of the flow jet) √  systolic anterior motion of mitral valve Cx:     m"
+}

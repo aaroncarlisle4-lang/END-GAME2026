@@ -1,0 +1,22 @@
+{
+  "finding": "Leiomyoma Of Kidney (DDx)",
+  "slug": "leiomyoma_of_kidney_ddx_721d8f",
+  "chapter": "Leiomyoma Of Kidney",
+  "source_file": "processed_clusters/leiomyoma_of_kidney/leiomyoma_of_kidney_ddx_721d8f.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "renal leiomyosarcoma",
+      "raw": "renal leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "renal cell carcinoma",
+      "raw": "renal cell carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "relatively homogeneous peripherally located hyperattenuating solid mass causing cortical | relatively homogeneous enhancement | homogeneously low SI on T1WI + T2WI | hypo- to hypervascular nonspecific mass"
+}

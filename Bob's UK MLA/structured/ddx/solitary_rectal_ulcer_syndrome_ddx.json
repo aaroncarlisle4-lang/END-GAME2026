@@ -1,0 +1,22 @@
+{
+  "finding": "Solitary Rectal Ulcer Syndrome (DDx)",
+  "slug": "solitary_rectal_ulcer_syndrome_ddx",
+  "chapter": "Solitary Rectal Ulcer Syndrome",
+  "source_file": "processed_clusters/solitary_rectal_ulcer_syndrome/solitary_rectal_ulcer_syndrome_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "invasive rectal carcinoma",
+      "raw": "invasive rectal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thickened valves of Houston without ulcer | stricture | failure of anorectal angle to open while straining | excessive perineal descent"
+}

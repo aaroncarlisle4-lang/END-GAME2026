@@ -1,0 +1,422 @@
+# Finding: C
+
+**Source section:** Symbols
+**Quality score:** 0.7
+**Differential count:** 396
+
+## Differentials
+
+- Kempe syndrome 68
+- Caisson disease 70
+- Cajal cells 1096, 1108
+- Cake kidney 1158
+- Calcaneal
+- Calcaneonavicular coalition 205
+- Calcaneus 25
+- Calcific
+- Caliber, normal bowel 1035
+- Calibrators 1394
+- Callus, exuberant 13
+- Calot triangle 886
+- Calvaria
+- Kümmel-Verneuil disease 65
+  - Legg-Perthes disease 66
+- Camalote sign, lung 923
+- Cameron lesion 988
+- Camptodactyly 1302
+- Camptomelic dysplasia 70
+- Campylobacter pylori 1099
+- Camurati-Engelmann disease 182
+- Canal of
+- Cloquet 430
+- Kovalevski 268
+- Nuck 1176
+- Schlemm 417
+- Canavan disease 338
+- Cancellous osteoid osteoma 169
+- Candelabra 320
+- Candidiasis
+- AIDS 1044
+- Candy cane appearance, GI tract 1000
+- Cantlie line 884
+- Capillary
+- Caplan syndrome 664
+- Capoten® 1419
+- Capsular retraction, liver 865
+- Capsuloma 1214
+- Captopril 1419
+- Caput
+- Carcinomatosis, peritoneal 1132
+- Carcinomatous meningitis 381
+- Carcinosarcoma, esophagus 1084
+- Cardiac
+- Cardiosplenic syndromes 818
+- CardioTec® 1413
+- Cardiothoracic ratio 741, 763
+- Carman meniscus sign 1094
+- Carmustine 514
+- Carney
+- cavernous sinus fistula 332 duplex ultrasound 477 siphon 319 space 464 mass 443
+- Carpenter syndrome 71
+- Carpentier-Edwards valve 760
+- Carpet
+- Peutz-Jeghers syndrome 1132
+- Carpus, ligaments + bones 43
+- Carrot-shaped trachea 781
+- Cartilage
+- containing giant cell tumor 71
+  - forming tumor 10
+- Cartilaginous node 275
+- Caruncle 1180
+- Case-control study 1430
+- Casoni skin test 921
+- Casting calcifications, breast 688
+- Castleman disease 599
+- Catamenial pneumothorax 600
+- Cataract
+- Caterpillar sign 1105
+- Cathartic colon 1061
+- Catheter-coiling sign, ureter 1277
+- Cat's eye 433
+- Cauda equina syndrome 214
+- Caudal
+- Caudate lobe, hot 900
+- Caudothalamic notch 384
+- Cauliflower ear
+- Cavoatrial tumor extension 744
+- Cavotricuspid isthmus 766
+- Cavum
+- CD4 lymphocyte count 574
+- Cebocephaly 365
+- Cecal
+- Cementoblastoma 246, 164
+- Cementoma 246
+- Cemento-osseous dysplasia 246
+- Center
+- edge angle of Wiberg 82 of rotation, SPECT 1396
+- Cephalic index 1324
+- Cephalocele 338
+- Cephalohematoma
+- Cerebritis 342
+- Cerebrocostomandibular syndrome 71
+- Cerebrofacial arteriovenous metameric syndrome 334
+- Cerebrohepatorenal syndrome 410
+- Cerebrospinal fluid 318
+- Ceretec® 1400
+- Ceroid granuloma, gallbladder 910
+- Ceruminoma 438
+- Cervical
+- Cervicitis 1375
+- Cervicomedullary kink 343
+- Cervicothoracic
+- Cesarean scar, ectopic pregnancy 1351
+- Cesium-137 1395
+- Chagas disease 1061
+- Chain cystography 1175
+- Chalasia 1061
+- Chalice sign 1277
+- Chamberlain line 235
+- Champagne glass
+- Chandler disease 66
+- CHAOS 602
+- Charcot
+- Leyden crystals 584 spine 160 triad, cholangitis 904
+- CHARGE syndrome 439
+- Chauffeur fracture 107
+- Chemical
+- ENT 497
+- Chemosis 422
+- Cherubism 100
+- Chest
+- Chiari malformation 342
+- Chiasmatic glioma 358
+- Chicago disease 585
+- Chicken wire calcification 71
+- Chief cells 1034
+- Chilaiditi syndrome 992
+- Child abuse 68
+- Childhood
+- Chimney-shaped aortic arch 840
+- Chinese liver fluke 919
+- Chlamydia trachomatis
+- Chokes 70
+- Cholangiocarcinoma 902
+- Cholangiohepatitis, oriental 907
+- Cholangiolithiasis 913
+- Cholangiopathy
+- AIDS 905
+- AIDS-related 1045
+- Cholelithiasis 912
+- Cholera, pancreatic 964
+- Cholestasis 912
+- Cholesteatoma
+- CNS 345
+- containing CNS lesions 294 cyst, ear 481 granuloma, ear 481 pneumonia 649 polyp, gallbladder 947 stone 912
+- Cholesterolosis 946
+- Chondral fracture 102
+- Chondroblastoma 71
+- Chondrocalcinosis, 15
+- Chondrodysplasia
+- Chondromalacia patellae 73
+- Chondromatosis, synovial 203
+- Chondromyxoid fibroma 73
+- Chopart fracture 114
+- Chorda tympani 318
+- Chordoma 246
+- Chorio
+- Chorion 1320
+- Chorionicity 1328
+- Chorionic villus sampling 1326
+- Choristoma
+- CNS 343
+- tree bladder 1175
+- Chrysotile 578
+- Churg-Strauss syndrome 808
+- Chylo
+- Chylous ascites 997
+- Cicatrizing atelectasis 540
+- Cigarettes, pulmonary disease 514
+- Cigarroa formula 1205
+- Cimetidine 1121, 1437
+- Cingulate herniation 289
+- Circle of Willis 320
+- Circulation, lung 568
+- Circulatory assist devices 563
+- Circum
+- Cirrhotic nodule 917
+- Cisterna chyli 573
+- Cisterna magna
+- Classic mole 1360
+- Classification
+- Altman 274
+- Amstutz 176
+- Ann Arbor 620
+- Astler-Coller 1065
+- Bailey 475
+- Blythe & Ockenden, APKD 1233
+- Bormann 1092
+- Bosniak 1251
+- Brooker 179
+- CNS anomalies 285
+- Collett & Edwards 856
+- DeBakey 790
+- Kimura 910
+- Lichtman 65
+- Luke and Collins 634
+- Michels 885
+- Mitchell 64
+- Ogden 113
+- Papile 384
+- Runyon 646
+- Salter-Harris 105
+- Schatzker 113
+- Stanford 790
+- Steinberg 64
+- Todani 876
+- Weber 113
+- Werner 422
+- Wiseman 608
+- Wolfe 699
+- Claw sign, renal cyst 1251
+- Clay shoveler's fracture 104, 257
+- Clearance phase, ventilation scan 1405
+- Clear cell
+- Cleidocranial dysostosis 75
+- Clenched hand 1302
+- Clinical epidemiology 1429
+- Clinodactyly 20
+- Clip injury 25
+- Clival line 235
+- Clivus
+- canal angle 235
+  - torcular line 325
+- Cloison of Bertin 1163
+- Clomiphene 1371, 1382
+- Clonorchiasis 919
+- Cloquet canal 430
+- Closed
+- loop obstruction midgut volvulus 1127 signs 1001
+- Closing volume, lung 569
+- Clostridium difficile disease 1061
+- Cloverleaf
+- Clubfoot 25
+- Clubhand 1302
+- Cluster
+- induced retinitis 419
+- Coarse reticulations, lung 527
+- Coast of
+- California, café-au-lait spots 389
+- Maine, café-au-lait spots 100
+- Coats disease 419
+- Cobalt-57 1395
+- Cobb angle 276
+- Cobblestone appearance
+- Cobra head ureter 1283
+- Cobwebs of aorta 791
+- Cocaine 843
+- Coccidioidomycosis
+- Cock-robin position 244
+- Cockscomb appearance, cervix 1348
+- Codman
+- on-edge vertebra 137
+- Colitis
+- AIDS 1045
+- CMV 1044
+- Collapsed cava sign 1052
+- Collapsing cord sign 280
+- Collarbutton
+- Colles fracture 107
+- Collett & Edwards classification 856
+- Colliculocentral point 323
+- Collision tumor 1156, 1221, 1383
+- Colloid
+- Colpocephaly 299
+- Columella 483
+- Column of Bertin, large 1163
+- Comb sign 1027
+- Crohn disease 1069
+- Comedo
+- tail artifact, liver and gallbladder 873 sign, gonadal vein 1289
+- shaped duodenum 1076 hilum interruption of pulmonary artery 821 truncus arteriosus 856 sign, liver 900
+- Community-acquired pneumonia 519
+- Compact island 69
+- Compartment syndrome
+- Concha bullosa 455
+- Condensed phosphates 1421
+- Condensing osteitis, tooth 248
+- Condyloma acuminata 1204
+- Condylus tertius 220
+- Coned cecum 1018
+- Confidence limit 1428
+- Confluent hepatic fibrosis 919
+- Congenital
+- Conglomerate anthracosilicosis 602
+- Congo red 60, 1046
+- Conidiophores 580
+- Conjoined
+- Conn syndrome 1204
+- Conradi-Hünermann syndrome 72
+- Conray® 1432
+- Consolidated lung 522
+- HRCT 529
+- Constancy, NucMed 1394
+- Constitutional sclerosing bone disease 2
+- Constricting lesion, small bowel 1017
+- Constrictive
+- Contained aortic rupture 786
+- Contamination, randomized trial 1430
+- Continuous
+- Conversion defect 127
+- Convolutional impressions 265
+- Convulsion, contrast reaction B
+- Cooley anemia 206
+- Copper
+- T, intrauterine device 1362
+- Copular point 323
+- Cor
+- Cordocentesis 1326
+- Corduroy vertebra 123
+- Cori disease 931
+- Corkscrew appearance
+- Park in scurvy 196
+- Salter fracture 106
+- Cornual ectopic pregnancy 1351
+- Coronal cleft, vertebra 221
+- Coronary
+- Cosmetic breast surgery 727
+- Costal osteoma 206
+- Costo
+- Cotton wool skull 178
+- Cough fracture 110
+- Coup 346
+- Courvoisier phenomenon 872
+- Cowden disease 1068
+- Cowley syndrome 1147
+- Cowper gland
+- Coxitis fugax 208
+- CPPD arthritis, hand 16
+- Cracked walnut appearance, Alzheimer disease 328
+- Cranial
+- Cranium bifidum 339
+- Crazy-paving pattern 533
+- Creeping fat 1070
+- Crepitus 158
+- Crescendo TIA 284
+- Crescent
+- in-doughnut sign 1108 line, hip 66 sign abdominal aorta 786 hip 65 lung 923
+- Cretinism 132
+- Creutzfeldt-Jakob disease 347
+- Cricopharyngeal achalasia 1068
+- Cricopharyngeus muscle 1033
+- Cri-du-chat syndrome 76
+- CHD 736
+- Crista
+- Critical dose, table 1393
+- Crocidolite 578
+- Crohn
+- Cronkhite-Canada syndrome 1071
+- Crossed renal ectopia 1157
+- Cross section
+- Croup 482
+- Crouzon syndrome 76
+- Crowded dentition 57
+- Crowe sign 389
+- Crow-foot sign
+- Crown-rump length 1324
+- Crucial angle of Gissane 114
+- Cruciate ligament
+- Cruveilhier-von Baumgarten syndrome 976
+- Crux, heart 767
+- Cryoglobulinemic vasculitis 757
+- Crypto
+- Cryptorchidism 1217
+- Crypts of Lieberkühn 1058
+- CSF
+- Cubitus valgus 211
+- Cul-de-sac, free fluid 1312
+- Cullen sign 966
+- Cumbo sign 923
+- Cumulus oophorus 1334
+- Cupid's bow vertebra 224
+- Cupola sign 993
+- Curled diaphragm sign 610
+- Curling
+- Silverman syndrome 17 triad 248, 263
+- Cutaneous leukocytoclastic angiitis 757
+- Cuticular overgrowth 80
+- Cutoff sign, colon 1019
+- Cuvier's duct 836
+- Cyanide poisoning 302
+- Cyanosis
+- Cyanotic heart disease 739
+- Cyclophosphamide 514
+- Cyclopia 365
+- Cyclosporine nephrotoxicity 1255
+- Cylindrical bronchiectasis 589
+- Cylindroma
+- like pulmonary lesions 545 liver 937 lung 544 mediastinum 552 meningeal 265 meniscal 147 mesentery 1027, 1126 mesothelial 1126 midline of brain 294 mucus retention 440 multiple pulmonary 544 tiny in CNS 294
+- Cysticercosis, CNS 347
+- Cystinuria 1287
+- Cystitis 1206
+- AIDS 1193
+- Cytokines, pulmonary edema 517
+- Cytomegalic inclusion disease 286
+- Cytomegalovirus
+- GI infection in AIDS 1043
+- Cytotoxic edema 293
+- Cytotrophoblast 1358
+
+## Context
+
+CA-125 1368 Café-au-lait spots coast of California 389 coast of Maine 100 tuberous sclerosis 405 Caffey disease 133 fracture 114 inclination angle 55 pitch 55 cochleitis 488 longus colli tendinitis 476 retropharyngeal tendinitis 476 uremic arteriolopathy 129 Calcification abdominal vascular 996 wall 996 adrenal 1157 alimentary tract 995 aorta 754 basal ganglia 302 bladder 1173 breast general 687 popcorn 688 calvarial, inadequate 215 cardiac 745 chicken wire 71 choroid plexus 295 coronary artery 746 dermal, breast 688 diffuse peritoneal 995 disk 229 dura 303 dystrophic 29 eggshell, lymph nodes 
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Convert ## Differentials into a comparison table.
+  2. Columns = each differential diagnosis.
+  3. Rows = Dominant finding | Demographics | Distribution |
+            Key discriminator | Other findings | Relative frequency.
+  4. Preserve any percentages or 'most common/rare' qualifiers.
+  5. Use ## Context paragraph for additional demographic / distribution clues.
+-->

@@ -1,0 +1,52 @@
+{
+  "finding": "Malignant Duodenal Tumors",
+  "slug": "malignant_duodenal_tumors",
+  "chapter": "G. GLANDULAR ENLARGEMENT",
+  "source_file": "processed_clusters/g_glandular_enlargement/malignant_duodenal_tumors.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Duodenal adenocarcinoma",
+      "raw": "Duodenal adenocarcinoma (73%)",
+      "frequency": "73%"
+    },
+    {
+      "name": "Periampullary carcinoma =  tumor arising within 1 cm from papilla of Vater",
+      "raw": "Periampullary carcinoma =  tumor arising within 1 cm from papilla of Vater",
+      "frequency": null
+    },
+    {
+      "name": "Malignant GIST (14%) most often beyond 1st portion of duodenum",
+      "raw": "Malignant GIST (14%) most often beyond 1st portion of duodenum",
+      "frequency": "14%"
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid (11%)",
+      "frequency": "11%"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (2%)",
+      "frequency": "2%"
+    },
+    {
+      "name": "APUDoma",
+      "raw": "APUDoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma",
+      "raw": "Leiomyosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Origin:   ampulla, pancreas, bile duct, duodenum At risk:   familial adenomatous polyposis √  may not be seen at CT / MR due to small size √  hypovascular polypoid mass at ampulla Associated with: \"double duct\" sign ← biliary and pancreatic ductal dilatation Prognosis:  ampullary ca. (best), pancreatic ca. (worst) √  up to 20 cm in size √  frequently ulcerated exophytic mass √  marked wall thickening √  bulky periduodenal lymphadenopathy"
+}

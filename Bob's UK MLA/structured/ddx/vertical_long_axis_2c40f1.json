@@ -1,0 +1,37 @@
+{
+  "finding": "Vertical Long Axis",
+  "slug": "vertical_long_axis_2c40f1",
+  "chapter": "HEART SIZE",
+  "source_file": "processed_clusters/heart_size/vertical_long_axis_2c40f1.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "LA and LV",
+      "raw": "LA and LV (relationship)",
+      "frequency": null
+    },
+    {
+      "name": "Inferior + anterior walls of LV myocardium",
+      "raw": "Inferior + anterior walls of LV myocardium",
+      "frequency": null
+    },
+    {
+      "name": "Bicuspid MV (structure & function) versus LV",
+      "raw": "Bicuspid MV (structure & function) versus LV",
+      "frequency": null
+    },
+    {
+      "name": "LV",
+      "raw": "LV (structure & function)",
+      "frequency": null
+    },
+    {
+      "name": "LA appendage and coronary sinus",
+      "raw": "LA appendage and coronary sinus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  parasagittal plane along long axis of LV Best assessment of:"
+}

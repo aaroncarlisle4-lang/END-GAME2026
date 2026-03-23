@@ -1,0 +1,62 @@
+{
+  "finding": "C. BENIGN TUMOR (a) from surface epithelium",
+  "slug": "c_benign_tumor_a_from_surface_epithelium",
+  "chapter": "TRACHEA & BRONCHI",
+  "source_file": "processed_clusters/trachea_bronchi/c_benign_tumor_a_from_surface_epithelium.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Squamous-cell papilloma",
+      "raw": "Squamous-cell papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Pleomorphic adenoma",
+      "raw": "Pleomorphic adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Oncocytoma",
+      "raw": "Oncocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucous gland adenoma (b)  from mesenchyme",
+      "raw": "Mucous gland adenoma (b)  from mesenchyme",
+      "frequency": null
+    },
+    {
+      "name": "Cartilaginous tumor",
+      "raw": "Cartilaginous tumor (hamartoma)",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibroma / lipoma",
+      "raw": "Fibroma / lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Granular cell myoblastoma",
+      "raw": "Granular cell myoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurogenic tumor",
+      "raw": "Neurogenic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

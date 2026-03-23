@@ -1,0 +1,32 @@
+{
+  "finding": "Amyloidosis Of The Chest (DDx)",
+  "slug": "amyloidosis_of_the_chest_ddx_abf007",
+  "chapter": "Amyloidosis Of The Chest",
+  "source_file": "processed_clusters/amyloidosis_of_the_chest/amyloidosis_of_the_chest_ddx_abf007.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastatic disease",
+      "raw": "metastatic disease",
+      "frequency": null
+    },
+    {
+      "name": "granulomatous disease (fungal",
+      "raw": "granulomatous disease (fungal",
+      "frequency": null
+    },
+    {
+      "name": "TB)",
+      "raw": "TB)",
+      "frequency": null
+    },
+    {
+      "name": "rheumatoid lung",
+      "raw": "rheumatoid lung",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "smooth lobulated / spiculated margins | cavitation (rare) | ± central calcification / ossification (in up to 50%) | mediastinal / hilar adenopathy"
+}

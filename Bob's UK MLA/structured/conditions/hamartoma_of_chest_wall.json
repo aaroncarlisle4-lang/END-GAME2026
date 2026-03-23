@@ -1,0 +1,31 @@
+{
+  "name": "HAMARTOMA OF CHEST WALL",
+  "slug": "hamartoma_of_chest_wall",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/hamartoma_of_chest_wall.md",
+  "definition": "MESENCHYMOMA (incorrect as it implies neoplasm) focal overgrowth of normal skeletal elements with a benign self-limited course; extremely",
+  "demographics": {
+    "Age": "1st year of life"
+  },
+  "dominant_finding": "moderate / large extrapleural well-circumscribed mass affecting one / more ribs",
+  "distribution": "",
+  "discriminating_features": [
+    "moderate / large extrapleural well-circumscribed mass affecting one / more ribs",
+    "ribs near center of mass partially / completely destroyed",
+    "ribs at periphery deformed / eroded",
+    "significant amount of calcification / ossification (DDx: aneurysmal bone cyst)",
+    "mass compresses underlying lung"
+  ],
+  "other_features": {
+    "general": [
+      "moderate / large extrapleural well-circumscribed mass affecting one / more ribs",
+      "ribs near center of mass partially / completely destroyed",
+      "ribs at periphery deformed / eroded",
+      "significant amount of calcification / ossification (DDx: aneurysmal bone cyst)",
+      "mass compresses underlying lung"
+    ]
+  },
+  "clinical": {
+    "Rx": "resection curative"
+  }
+}

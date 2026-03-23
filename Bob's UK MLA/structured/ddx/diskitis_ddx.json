@@ -1,0 +1,22 @@
+{
+  "finding": "Diskitis (DDx)",
+  "slug": "diskitis_ddx",
+  "chapter": "Diskitis",
+  "source_file": "processed_clusters/diskitis/diskitis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "neoplastic disease (no breach of endplate",
+      "raw": "neoplastic disease (no breach of endplate",
+      "frequency": null
+    },
+    {
+      "name": "disk space often intact)",
+      "raw": "disk space often intact)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "focal enhancement of involved disk + adjacent vertebral endplates ± bone marrow | positive before radiographs | increased uptake in vertebral endplate adjacent to disk | bone scan usually positive in adjacent vertebrae (until age 20) ← vascular supply via"
+}

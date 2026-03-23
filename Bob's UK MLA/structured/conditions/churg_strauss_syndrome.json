@@ -1,0 +1,59 @@
+{
+  "name": "CHURG-STRAUSS SYNDROME",
+  "slug": "churg_strauss_syndrome",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/churg_strauss_syndrome.md",
+  "definition": "ALLERGIC ANGIITIS AND GRANULOMATOSIS = EOSINOPHILIC GRANULOMATOSIS WITH rare multisystemic disorder with necrotizing vasculitis of small vessels associated with",
+  "demographics": {
+    "Etiology": "? hypersensitivity response to an inhaled agent",
+    "Incidence": "1-7÷1,000,000 annually",
+    "Mean age": "28 (range, 20-40) years; M÷F = 1÷1"
+  },
+  "dominant_finding": "subpleural consolidation / ground-glass attenuation in a lobular distribution (59%)",
+  "distribution": "subpleural consolidation / ground-glass attenuation in a lobular distribution (59%)",
+  "discriminating_features": [
+    "vascular aneurysms + thrombosis",
+    "subpleural consolidation / ground-glass attenuation in a lobular distribution (59%)",
+    "bilateral centrilobular nodules",
+    "diffuse interstitial reticular / reticulonodular opacities",
+    "interlobular septal thickening"
+  ],
+  "other_features": {
+    "general": [
+      "vascular aneurysms + thrombosis"
+    ],
+    "HRCT": [
+      "subpleural consolidation / ground-glass attenuation in a lobular distribution (59%)",
+      "bilateral centrilobular nodules",
+      "diffuse interstitial reticular / reticulonodular opacities",
+      "interlobular septal thickening",
+      "bronchial wall thickening",
+      "uni- / bilateral pleural (30%)",
+      "hyperinflation",
+      "mediastinal / hilar lymphadenopathy",
+      "pericardial effusion"
+    ],
+    "Lung (most frequent): intraalveolar hemorrhage": [
+      "normal CXR (25%)",
+      "often transient peripheral widespread nonsegmental air-space opacities without zonal",
+      "diffuse miliary nodules:",
+      "nodules may coalesce up to 2 cm (rare)",
+      "cavitation is atypical (and suggests infection)",
+      "eosinophilic pleural effusions (29%)"
+    ],
+    "GI tract (20%): ulceration, hemorrhage, perforation": [
+      "mesenteric vasculitis (= polyarteritis nodosa)",
+      "eosinophilic gastroenteritis (= bowel wall infiltration by eosinophils)"
+    ],
+    "CNS (commonly involved)": [
+      "micro- or macrohemorrhages of cerebral ischemia"
+    ],
+    "Kidney:": [
+      "focal segmental glomerulonephritis"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "85% 5-year survival; death from intraabdominal /cardiac complications, cerebral",
+    "Rx": "corticosteroids, cyclophosphamide"
+  }
+}

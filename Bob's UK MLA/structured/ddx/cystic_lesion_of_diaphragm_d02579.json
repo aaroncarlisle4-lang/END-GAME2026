@@ -1,0 +1,37 @@
+{
+  "finding": "Cystic Lesion of Diaphragm",
+  "slug": "cystic_lesion_of_diaphragm_d02579",
+  "chapter": "DIAPHRAGM",
+  "source_file": "processed_clusters/diaphragm/cystic_lesion_of_diaphragm_d02579.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mesothelial cyst",
+      "raw": "Mesothelial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic cyst",
+      "raw": "Bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cystic teratoma",
+      "raw": "Cystic teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Pleuropulmonary blastoma",
+      "raw": "Pleuropulmonary blastoma",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid cyst",
+      "raw": "Hydatid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   between liver + posterolateral thoracic wall"
+}

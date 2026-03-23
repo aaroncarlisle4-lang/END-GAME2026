@@ -1,0 +1,142 @@
+{
+  "finding": "May be associated with: Fitz-Hugh-Curtis syndrome (see below",
+  "slug": "may_be_associated_with_fitz_hugh_curtis_syndrome_see_below",
+  "chapter": "OVARIAN FIBROMATOSIS",
+  "source_file": "processed_clusters/ovarian_fibromatosis/may_be_associated_with_fitz_hugh_curtis_syndrome_see_below.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "usually bilateral dull aching lower abdominal pain 7-10 days after menstruation ← peritoneal irritation",
+      "raw": "usually bilateral dull aching lower abdominal pain 7-10 days after menstruation ← peritoneal irritation",
+      "frequency": null
+    },
+    {
+      "name": "adnexal + cervical motion tenderness:",
+      "raw": "adnexal + cervical motion tenderness:",
+      "frequency": null
+    },
+    {
+      "name": "\"chandelier\" sign = patient reaching for the chandelier ← intense pain during pelvic examination",
+      "raw": "\"chandelier\" sign = patient reaching for the chandelier ← intense pain during pelvic examination",
+      "frequency": null
+    },
+    {
+      "name": "purulent vaginal discharge / uterine bleeding",
+      "raw": "purulent vaginal discharge / uterine bleeding",
+      "frequency": null
+    },
+    {
+      "name": "dysuria, dyspareunia, nausea, vomiting",
+      "raw": "dysuria, dyspareunia, nausea, vomiting",
+      "frequency": null
+    },
+    {
+      "name": "fever, leukocytosis, ↑ ESR; ↑ serum C-reactive protein",
+      "raw": "fever, leukocytosis, ↑ ESR; ↑ serum C-reactive protein",
+      "frequency": null
+    },
+    {
+      "name": "Infertility: 8%",
+      "raw": "Infertility: 8% [20%] {40%} after single [2] {≥ 3} episodes of PID ← tubal occlusion (in 25%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Tubo-ovarian abscess",
+      "raw": "Tubo-ovarian abscess",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic pregnancy",
+      "raw": "Ectopic pregnancy (6 x as frequent)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Chronic pelvic pain ← pelvic adhesions",
+      "raw": "Chronic pelvic pain ← pelvic adhesions",
+      "frequency": null
+    },
+    {
+      "name": "purulent / mucopurulent cervical + vaginal discharge",
+      "raw": "purulent / mucopurulent cervical + vaginal discharge",
+      "frequency": null
+    },
+    {
+      "name": "pelvic pressure / discomfort",
+      "raw": "pelvic pressure / discomfort",
+      "frequency": null
+    },
+    {
+      "name": "fever",
+      "raw": "fever (most common cause of postpartum fever)",
+      "frequency": "most common"
+    },
+    {
+      "name": "right upper quadrant pain ← ascending pelvic infection",
+      "raw": "right upper quadrant pain ← ascending pelvic infection",
+      "frequency": null
+    },
+    {
+      "name": "often beginning during / immediately after menstruation ← mucus barrier of cervix less effective",
+      "raw": "often beginning during / immediately after menstruation ← mucus barrier of cervix less effective",
+      "frequency": null
+    },
+    {
+      "name": "nodular thickening of isthmic portion of tube",
+      "raw": "nodular thickening of isthmic portion of tube",
+      "frequency": null
+    },
+    {
+      "name": "Adhesions from prior episodes of PID",
+      "raw": "Adhesions from prior episodes of PID",
+      "frequency": null
+    },
+    {
+      "name": "Tubal ligation",
+      "raw": "Tubal ligation",
+      "frequency": null
+    },
+    {
+      "name": "Hysterectomy without salpingo-oophorectomy",
+      "raw": "Hysterectomy without salpingo-oophorectomy",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Tubal malignancy",
+      "raw": "Tubal malignancy",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic / recurrent lower abdominal pain, infertility",
+      "raw": "asymptomatic / recurrent lower abdominal pain, infertility",
+      "frequency": null
+    },
+    {
+      "name": "acute pelvic pain, fever, leukocytosis",
+      "raw": "acute pelvic pain, fever, leukocytosis",
+      "frequency": null
+    },
+    {
+      "name": "cervical motion tenderness",
+      "raw": "cervical motion tenderness",
+      "frequency": null
+    },
+    {
+      "name": "rupture → life-threatening peritonitis → intraperitoneal abscess",
+      "raw": "rupture → life-threatening peritonitis → intraperitoneal abscess",
+      "frequency": null
+    },
+    {
+      "name": "secondary involvement of adjacent structures",
+      "raw": "secondary involvement of adjacent structures (eg, ileus, hydroureteronephrosis) DDx:  endometrioma, ovarian tumor, infected cyst, abscess from other sources (eg, Crohn disease, appendicitis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "US: √  No findings √  thickened tubular adnexal structures ± central fluid √  increased adnexal volume √  periadnexal inflammatory hyperemia √  loss of normal tissue planes + ill-defined uterus: √  echogenic periovarian fat √  ± free fluid CT: √  nonspecific stranding of parapelvic fat √  thickening of uterosacral ligaments MR: √  ill-defined hyperintense parametrial area on fat-suppressed T2WI + intense enhancement on contrast-enhanced fat-suppressed MR (= extent of inflammation) Dx:   clinically, laparoscopically ◊  Imaging employed only to differentiate between medical + surgical condition"
+}

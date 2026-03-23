@@ -1,0 +1,31 @@
+{
+  "name": "DEVELOPMENTAL VENOUS ANOMALY",
+  "slug": "developmental_venous_anomaly",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/developmental_venous_anomaly.md",
+  "definition": "VENOUS ANGIOMA intraparenchymal tangle / cluster of dilated medullary veins converging on a single enlarged",
+  "demographics": {
+    "Age": "any; M = F",
+    "Histo": "venous channels without internal elastic lamina, separated by gliotic neural tissue that",
+    "Associated with": "blue rubber bleb nevus syndrome with multiple angiomas; increased"
+  },
+  "dominant_finding": "interspersed normal brain parenchyma",
+  "distribution": "",
+  "discriminating_features": [
+    "\"umbrella / spoked-wheel / medusa head\" configuration = multiple small radially oriented",
+    "interspersed normal brain parenchyma",
+    "dense capillary stain in larger lesion",
+    "linear / curvilinear enhancing structure = venous collector draining into superficial dural sinus",
+    "NO enlarged arterial vessels"
+  ],
+  "other_features": {
+    "general": [
+      "\"umbrella / spoked-wheel / medusa head\" configuration = multiple small radially oriented",
+      "interspersed normal brain parenchyma",
+      "dense capillary stain in larger lesion",
+      "linear / curvilinear enhancing structure = venous collector draining into superficial dural sinus",
+      "NO enlarged arterial vessels"
+    ]
+  },
+  "clinical": {}
+}

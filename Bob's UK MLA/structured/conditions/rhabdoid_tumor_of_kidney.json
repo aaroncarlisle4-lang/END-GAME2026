@@ -1,0 +1,37 @@
+{
+  "name": "RHABDOID TUMOR OF KIDNEY",
+  "slug": "rhabdoid_tumor_of_kidney",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/rhabdoid_tumor_of_kidney.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "< 2% of pediatric renal tumors",
+    "Mean age": "11-17 months; 6-12 months of age (25%), < 1 year [< 2 years] of age 60% [80%];",
+    "Histo": "monomorphic noncohesive large cells with prominent nucleoli + abundant eosinophilic",
+    "Associated with": "syn- / metachronous primary brain tumor of neuroectodermal origin"
+  },
+  "dominant_finding": "PROMINENT peripheral crescent-shaped subcapsular fluid collection in 70% (subcapsular",
+  "distribution": "centrally located heterogeneous renal mass:",
+  "discriminating_features": [
+    "centrally located heterogeneous renal mass:",
+    "indistinct borders with infiltration of medulla + sinus",
+    "PROMINENT peripheral crescent-shaped subcapsular fluid collection in 70% (subcapsular",
+    "SUGGESTIVE multilobulated architecture, esp. if surrounded by low-attenuation material ←",
+    "curvilinear calcifications outlining tumor lobules (²/³)"
+  ],
+  "other_features": {
+    "general": [
+      "centrally located heterogeneous renal mass:",
+      "indistinct borders with infiltration of medulla + sinus",
+      "PROMINENT peripheral crescent-shaped subcapsular fluid collection in 70% (subcapsular",
+      "SUGGESTIVE multilobulated architecture, esp. if surrounded by low-attenuation material ←",
+      "curvilinear calcifications outlining tumor lobules (²/³)",
+      "may invade renal vein and IVC",
+      "midline mass in posterior fossa of skull",
+      "metastatic (in 80%) to lung, liver, retroperitoneal lymph nodes, abdomen, brain, bone"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "20% 18-month survival rate"
+  }
+}

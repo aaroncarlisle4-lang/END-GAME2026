@@ -1,0 +1,27 @@
+{
+  "finding": "Enlarged Vertebral Body",
+  "slug": "enlarged_vertebral_body_5ecd52",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/enlarged_vertebral_body_5ecd52.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Gigantism",
+      "raw": "Gigantism",
+      "frequency": null
+    },
+    {
+      "name": "Myositis ossificans progressiva",
+      "raw": "Myositis ossificans progressiva",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  \"picture framing\"; bone sclerosis √  increase in height of body + disk √  bodies greater in height than width √  osteoporosis √  ossification of ligamentum nuchae"
+}

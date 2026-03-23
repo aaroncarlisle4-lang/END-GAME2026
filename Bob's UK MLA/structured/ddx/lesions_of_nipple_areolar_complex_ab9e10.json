@@ -1,0 +1,37 @@
+{
+  "finding": "Lesions of Nipple-Areolar Complex",
+  "slug": "lesions_of_nipple_areolar_complex_ab9e10",
+  "chapter": "BREAST SKIN",
+  "source_file": "processed_clusters/breast_skin/lesions_of_nipple_areolar_complex_ab9e10.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epidermal inclusion cyst",
+      "raw": "Epidermal inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Sebaceous cysts / obstructed Montgomery gland",
+      "raw": "Sebaceous cysts / obstructed Montgomery gland",
+      "frequency": null
+    },
+    {
+      "name": "Breast cancer arising from anterior TDLUs / large lactiferous ducts / central papillomas",
+      "raw": "Breast cancer arising from anterior TDLUs / large lactiferous ducts / central papillomas",
+      "frequency": null
+    },
+    {
+      "name": "Nipple adenoma",
+      "raw": "Nipple adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease of nipple",
+      "raw": "Paget disease of nipple",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "NIPPLE CHANGES (a)  benign: eczema, psoriasis, allergic contact dermatitis , irritant dermatitis, lichen simplex chronicus (b)  malignant: Paget disease, Bowen disease (squamous cell carcinoma in situ) Skin Thickening of Breast Normal skin thickness:   0.8-3 mm; 0.5-2 mm at MRI; may exceed 3 mm in inframammary region ◊  Epidermis is indistinguishable as a separate layer from the dermis at imaging!"
+}

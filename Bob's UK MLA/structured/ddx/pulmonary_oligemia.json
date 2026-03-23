@@ -1,0 +1,32 @@
+{
+  "finding": "Pulmonary Oligemia",
+  "slug": "pulmonary_oligemia",
+  "chapter": "D. TRAUMA",
+  "source_file": "processed_clusters/d_trauma/pulmonary_oligemia.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aortic valve disease indicative of ⇓ stroke volume + cardiac output",
+      "raw": "Aortic valve disease indicative of ⇓ stroke volume + cardiac output",
+      "frequency": null
+    },
+    {
+      "name": "Overpenetration of film = artifact",
+      "raw": "Overpenetration of film = artifact",
+      "frequency": null
+    },
+    {
+      "name": "Deep inspiration + Valsalva maneuver",
+      "raw": "Deep inspiration + Valsalva maneuver",
+      "frequency": null
+    },
+    {
+      "name": "Positive pressure ventilation",
+      "raw": "Positive pressure ventilation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Generalized Oligemia =  reduction in pulmonary blood volume √  LV enlargement"
+}

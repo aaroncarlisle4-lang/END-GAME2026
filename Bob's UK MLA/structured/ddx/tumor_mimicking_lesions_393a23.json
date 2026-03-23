@@ -1,0 +1,42 @@
+{
+  "finding": "Tumor-mimicking Lesions",
+  "slug": "tumor_mimicking_lesions_393a23",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/tumor_mimicking_lesions_393a23.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "\"Phantom breast tumor\" = simulated mass (a)  asymmetric density",
+      "raw": "\"Phantom breast tumor\" = simulated mass (a)  asymmetric density",
+      "frequency": null
+    },
+    {
+      "name": "Silicone injections",
+      "raw": "Silicone injections",
+      "frequency": null
+    },
+    {
+      "name": "Skin lesions (a)  Dermal nevus",
+      "raw": "Skin lesions (a)  Dermal nevus",
+      "frequency": null
+    },
+    {
+      "name": "Lymphedema",
+      "raw": "Lymphedema",
+      "frequency": null
+    },
+    {
+      "name": "Lymph nodes",
+      "raw": "Lymph nodes",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  scalloped concave breast contour √  interspersed fatty elements (b)  summation artifact = chance overlap of normal glandular breast structures √  failure to visualize \"tumor\" on more than one view √  sharp halo / fissured appearance (b)  Skin calcifications √  lucent center (= clue) √  superficial location (tangential views) (c)  Sebaceous / epithelial inclusion cyst (d)  Neurofibromatosis (e)  Biopsy scar Frequency:   5.4% for intramammary nodes Location:   axilla, subcutaneous tissue of axillary tail, lateral portion of pectoralis muscle, intramammary (typically in upper outer quadrant) √"
+}

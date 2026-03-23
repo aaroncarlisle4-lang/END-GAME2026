@@ -1,0 +1,52 @@
+{
+  "finding": "In ¹/³ associated with: congenital heart defect (ASD, incomplete coarctation",
+  "slug": "in_13_associated_with_congenital_heart_defect_asd_incomplete_coarctation",
+  "chapter": "MACRODYSTROPHIA LIPOMATOSA",
+  "source_file": "processed_clusters/macrodystrophia_lipomatosa/in_13_associated_with_congenital_heart_defect_asd_incomplete_coarctation.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Annuloaortic ectasia (in 60-80% of adults =  uniform dilatation of all 3 sinuses of Valsalva with distal progression to sinotubular junction (= obliteration of normal sinotubular ridge) and aortic annulus",
+      "raw": "Annuloaortic ectasia (in 60-80% of adults =  uniform dilatation of all 3 sinuses of Valsalva with distal progression to sinotubular junction (= obliteration of normal sinotubular ridge) and aortic annulus",
+      "frequency": "80%"
+    },
+    {
+      "name": "leading cause of aortic valve insufficiency",
+      "raw": "leading cause of aortic valve insufficiency",
+      "frequency": null
+    },
+    {
+      "name": "Aortic aneurysm",
+      "raw": "Aortic aneurysm (without annuloaortic ectasia)",
+      "frequency": null
+    },
+    {
+      "name": "Aortic dissection",
+      "raw": "Aortic dissection",
+      "frequency": null
+    },
+    {
+      "name": "mid-to-late systolic murmur + one / more clicks",
+      "raw": "mid-to-late systolic murmur + one / more clicks",
+      "frequency": null
+    },
+    {
+      "name": "Mitral regurgitation",
+      "raw": "Mitral regurgitation",
+      "frequency": null
+    },
+    {
+      "name": "Rupture of chordae tendineae (rare) @   Coarctation (mostly not severe) @   Pulmonary artery aneurysm and dilatation of pulmonary artery:",
+      "raw": "Rupture of chordae tendineae (rare) @   Coarctation (mostly not severe) @   Pulmonary artery aneurysm and dilatation of pulmonary artery:",
+      "frequency": "rare"
+    },
+    {
+      "name": "PULMONARY MANIFESTATIONS",
+      "raw": "PULMONARY MANIFESTATIONS (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "@   Aorta (cause of death in 55%) Histo:   degeneration of elastic tissue in aortic media + cystic medial necrosis of smooth muscle cells Histo:   cystic medial necrosis √  \"tulip bulb aorta\" = symmetrical dilatation of aortic sinuses of Valsalva slightly extending into ascending aorta (58%) √  triangular coaptation defect of valve cusps (during middiastolic closure at 70% of R-R interval of gated CT) = radiographic sign of aortic insufficiency √  tethered valve cusps at midsystolic opening (= at 10% of R-R interval of a gated CT) ← dilatation of the sinus of Valsalva Cx:   aortic regurgitatio"
+}

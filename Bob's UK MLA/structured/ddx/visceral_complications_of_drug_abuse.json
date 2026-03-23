@@ -1,0 +1,77 @@
+{
+  "finding": "Visceral Complications of Drug Abuse",
+  "slug": "visceral_complications_of_drug_abuse",
+  "chapter": "Respiratory Complications of Drug Abuse",
+  "source_file": "processed_clusters/respiratory_complications_of_drug_abuse/visceral_complications_of_drug_abuse.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gastrointestinal complications",
+      "raw": "Gastrointestinal complications",
+      "frequency": null
+    },
+    {
+      "name": "Severe colonic ileus resulting in chronic constipation + fecal impaction ← opiates Cx:   stercoral colitis ← pressure necrosis; perforation of rectum / sigmoid colon",
+      "raw": "Severe colonic ileus resulting in chronic constipation + fecal impaction ← opiates Cx:   stercoral colitis ← pressure necrosis; perforation of rectum / sigmoid colon",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric ischemia / infarction",
+      "raw": "Mesenteric ischemia / infarction (cocaine, amphetamines)",
+      "frequency": null
+    },
+    {
+      "name": "Colonic pseudoobstruction",
+      "raw": "Colonic pseudoobstruction",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing enterocolitis",
+      "raw": "Necrotizing enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Liver abscess",
+      "raw": "Liver abscess",
+      "frequency": null
+    },
+    {
+      "name": "Genitourinary complications",
+      "raw": "Genitourinary complications",
+      "frequency": null
+    },
+    {
+      "name": "Acute renal toxicity",
+      "raw": "Acute renal toxicity",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyolysis",
+      "raw": "Rhabdomyolysis",
+      "frequency": null
+    },
+    {
+      "name": "Renal infarction",
+      "raw": "Renal infarction",
+      "frequency": null
+    },
+    {
+      "name": "Focal / segmental glomerulosclerosis ← heroin abuse",
+      "raw": "Focal / segmental glomerulosclerosis ← heroin abuse",
+      "frequency": null
+    },
+    {
+      "name": "Distal tubular renal acidosis ← toluene abuse",
+      "raw": "Distal tubular renal acidosis ← toluene abuse",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

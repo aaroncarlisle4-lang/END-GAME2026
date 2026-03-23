@@ -1,0 +1,97 @@
+{
+  "finding": "Therapeutic Amniocentesis",
+  "slug": "therapeutic_amniocentesis",
+  "chapter": "FETAL MENSURATION",
+  "source_file": "processed_clusters/fetal_mensuration/therapeutic_amniocentesis.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polyhydramnios",
+      "raw": "Polyhydramnios",
+      "frequency": null
+    },
+    {
+      "name": "Twin-twin transfusion syndrome",
+      "raw": "Twin-twin transfusion syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Mosaicism = cell line forming cytotrophoblast may develop abnormal karyotype while fetal cell line is normal",
+      "raw": "Mosaicism = cell line forming cytotrophoblast may develop abnormal karyotype while fetal cell line is normal",
+      "frequency": null
+    },
+    {
+      "name": "Maternal contamination = cells from maternal decidua may overgrow mesenchymal core cells",
+      "raw": "Maternal contamination = cells from maternal decidua may overgrow mesenchymal core cells",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous abortion",
+      "raw": "Spontaneous abortion (1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Perforation of amniotic sac",
+      "raw": "Perforation of amniotic sac",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Teratogenesis: limb reduction defect",
+      "raw": "Teratogenesis: limb reduction defect",
+      "frequency": null
+    },
+    {
+      "name": "DIAGNOSTIC CORDOCENTESIS",
+      "raw": "DIAGNOSTIC CORDOCENTESIS",
+      "frequency": null
+    },
+    {
+      "name": "Hematocrit",
+      "raw": "Hematocrit",
+      "frequency": null
+    },
+    {
+      "name": "Karyotype",
+      "raw": "Karyotype",
+      "frequency": null
+    },
+    {
+      "name": "Immunodeficiency: chronic granulomatous disease, severe combined immunodeficiency",
+      "raw": "Immunodeficiency: chronic granulomatous disease, severe combined immunodeficiency",
+      "frequency": null
+    },
+    {
+      "name": "Coagulopathy: von Willebrand syndrome, factor deficiency",
+      "raw": "Coagulopathy: von Willebrand syndrome, factor deficiency",
+      "frequency": null
+    },
+    {
+      "name": "Platelet disorder: alloimmune / idiopathic thrombocytopenic purpura",
+      "raw": "Platelet disorder: alloimmune / idiopathic thrombocytopenic purpura",
+      "frequency": null
+    },
+    {
+      "name": "Hemoglobinopathy: sickle cell anemia, thalassemia",
+      "raw": "Hemoglobinopathy: sickle cell anemia, thalassemia",
+      "frequency": null
+    },
+    {
+      "name": "Infection: toxoplasmosis, rubella, parvovirus, varicella, cytomegalovirus",
+      "raw": "Infection: toxoplasmosis, rubella, parvovirus, varicella, cytomegalovirus",
+      "frequency": null
+    },
+    {
+      "name": "Hypoxia / acidosis",
+      "raw": "Hypoxia / acidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Technique: √  avoid fetus, placenta, umbilical cord, uterine contraction, fibroid, large uterine vessel √  use continuous ultrasound guidance √  inject 2-5 mL of indigo carmine dye in first sac of twin (colorless fluid assures that second sac has been entered) Chorionic Villus Sampling (CVS) =  aspiration of cells from chorion frondosum for genetic studies (karyotype, DNA analysis, biochemical assay) ◊  Transabdominal CVS for rapid karyotyping in 2nd + 3rd trimester = placental biopsy Advantage:   > 2 weeks earlier results compared with amniocentesis Timing:   9-11 weeks Approach: (a)  transce"
+}

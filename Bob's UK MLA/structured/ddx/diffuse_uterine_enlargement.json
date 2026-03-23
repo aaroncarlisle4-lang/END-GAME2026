@@ -1,0 +1,27 @@
+{
+  "finding": "Diffuse Uterine Enlargement",
+  "slug": "diffuse_uterine_enlargement",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/diffuse_uterine_enlargement.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Diffuse leiomyomatosis",
+      "raw": "Diffuse leiomyomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Adenomyosis",
+      "raw": "Adenomyosis",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial carcinoma",
+      "raw": "Endometrial carcinoma (15%)",
+      "frequency": "15%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

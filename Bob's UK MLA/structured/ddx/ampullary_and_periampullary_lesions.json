@@ -1,0 +1,72 @@
+{
+  "finding": "Ampullary and Periampullary Lesions",
+  "slug": "ampullary_and_periampullary_lesions",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/ampullary_and_periampullary_lesions.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NEOPLASM (a)  related to ampulla",
+      "raw": "NEOPLASM (a)  related to ampulla",
+      "frequency": null
+    },
+    {
+      "name": "Ampullary cancer",
+      "raw": "Ampullary cancer (4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Ampullary adenoma",
+      "raw": "Ampullary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Periampullary lipoma (b)  related to pancreas",
+      "raw": "Periampullary lipoma (b)  related to pancreas",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic adenocarcinoma",
+      "raw": "Pancreatic adenocarcinoma (85%)",
+      "frequency": "85%"
+    },
+    {
+      "name": "Pancreatic neuroendocrine tumor",
+      "raw": "Pancreatic neuroendocrine tumor",
+      "frequency": null
+    },
+    {
+      "name": "Intraductal papillary mucinous neoplasm (c)  related to bile duct",
+      "raw": "Intraductal papillary mucinous neoplasm (c)  related to bile duct",
+      "frequency": null
+    },
+    {
+      "name": "Cholangiocarcinoma distal CBD (6%) (d)  related to duodenal wall",
+      "raw": "Cholangiocarcinoma distal CBD (6%) (d)  related to duodenal wall",
+      "frequency": "6%"
+    },
+    {
+      "name": "Duodenal adenocarcinoma",
+      "raw": "Duodenal adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal adenoma",
+      "raw": "Duodenal adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal carcinoid",
+      "raw": "Duodenal carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "GIST",
+      "raw": "GIST",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

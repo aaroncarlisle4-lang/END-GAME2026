@@ -1,0 +1,22 @@
+{
+  "finding": "Aspergillosis (DDx)",
+  "slug": "aspergillosis_ddx",
+  "chapter": "Aspergillosis",
+  "source_file": "processed_clusters/aspergillosis/aspergillosis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hypersensitivity pneumonitis or allergic asthma (no hyphae in sputum",
+      "raw": "hypersensitivity pneumonitis or allergic asthma (no hyphae in sputum",
+      "frequency": null
+    },
+    {
+      "name": "normal levels of",
+      "raw": "normal levels of",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "CHARACTERISTIC highly opaque mucus within dilated bronchi ← calcium salts / metals | tree-in-bud appearance = centrilobular nodules connected to branching linear structures | patchy areas of mosaic attenuation ← concomitant small-airway disease + areas of air | atelectasis, consolidation, air trapping"
+}

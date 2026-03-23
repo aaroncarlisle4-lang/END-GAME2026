@@ -1,0 +1,47 @@
+{
+  "finding": "Multiple Splenic Nodules and Masses",
+  "slug": "multiple_splenic_nodules_and_masses_9473b3",
+  "chapter": "SPLEEN",
+  "source_file": "processed_clusters/spleen/multiple_splenic_nodules_and_masses_9473b3.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma, leukemia",
+      "raw": "Lymphoma, leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory lesions",
+      "raw": "Inflammatory lesions",
+      "frequency": null
+    },
+    {
+      "name": "Benign tumors",
+      "raw": "Benign tumors",
+      "frequency": null
+    },
+    {
+      "name": "Splenic cysts",
+      "raw": "Splenic cysts",
+      "frequency": null
+    },
+    {
+      "name": "Splenic infarcts",
+      "raw": "Splenic infarcts",
+      "frequency": null
+    },
+    {
+      "name": "Gaucher cells",
+      "raw": "Gaucher cells",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

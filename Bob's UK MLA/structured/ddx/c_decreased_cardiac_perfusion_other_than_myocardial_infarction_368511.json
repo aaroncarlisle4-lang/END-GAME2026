@@ -1,0 +1,460 @@
+{
+  "finding": "C. Decreased cardiac perfusion other than myocardial infarction",
+  "slug": "c_decreased_cardiac_perfusion_other_than_myocardial_infarction_368511",
+  "chapter": "HEART SCINTIGRAPHY",
+  "source_file": "processed_clusters/heart_scintigraphy/c_decreased_cardiac_perfusion_other_than_myocardial_infarction_368511.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cardiac contusion",
+      "raw": "Cardiac contusion",
+      "frequency": null
+    },
+    {
+      "name": "Myocardial fibrosis",
+      "raw": "Myocardial fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Coronary artery spasm: severe unstable angina may cause defect after stress + on redistribution images, but will be normal at rest!",
+      "raw": "Coronary artery spasm: severe unstable angina may cause defect after stress + on redistribution images, but will be normal at rest!",
+      "frequency": null
+    },
+    {
+      "name": "Normal variant",
+      "raw": "Normal variant",
+      "frequency": null
+    },
+    {
+      "name": "Apical myocardial thinning",
+      "raw": "Apical myocardial thinning",
+      "frequency": null
+    },
+    {
+      "name": "Attenuation by diaphragm, breast, implant, pacemaker mnemonic:   I'M SIC",
+      "raw": "Attenuation by diaphragm, breast, implant, pacemaker mnemonic:   I'M SIC",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic hypertrophic subaortic stenosis",
+      "raw": "Idiopathic hypertrophic subaortic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Myocardial infarct without coronary artery disease",
+      "raw": "Myocardial infarct without coronary artery disease",
+      "frequency": null
+    },
+    {
+      "name": "Scarring, Spasm, Sarcoidosis",
+      "raw": "Scarring, Spasm, Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Infiltrative / metastatic lesion",
+      "raw": "Infiltrative / metastatic lesion",
+      "frequency": null
+    },
+    {
+      "name": "Cardiomyopathy",
+      "raw": "Cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Under influence of beta-blocker: eg, propranolol",
+      "raw": "Under influence of beta-blocker: eg, propranolol",
+      "frequency": null
+    },
+    {
+      "name": "\"Balanced ischemia\" = symmetric 3-vessel disease",
+      "raw": "\"Balanced ischemia\" = symmetric 3-vessel disease",
+      "frequency": null
+    },
+    {
+      "name": "Insignificant obstruction",
+      "raw": "Insignificant obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Inadequate stress",
+      "raw": "Inadequate stress",
+      "frequency": null
+    },
+    {
+      "name": "Failure to perform delayed imaging",
+      "raw": "Failure to perform delayed imaging",
+      "frequency": null
+    },
+    {
+      "name": "Poor technique mnemonic:   3NMRS COR 3-vessel disease",
+      "raw": "Poor technique mnemonic:   3NMRS COR 3-vessel disease (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Noncritical stenosis",
+      "raw": "Noncritical stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Medications interfering [Right coronary lesion]",
+      "raw": "Medications interfering",
+      "frequency": null,
+      "sites": [
+        "Right coronary lesion"
+      ]
+    },
+    {
+      "name": "Submaximal exercise",
+      "raw": "Submaximal exercise",
+      "frequency": null
+    },
+    {
+      "name": "Collateral (coronary) blood vessels",
+      "raw": "Collateral (coronary) blood vessels",
+      "frequency": null
+    },
+    {
+      "name": "Overestimation of stenosis on angiography",
+      "raw": "Overestimation of stenosis on angiography",
+      "frequency": null
+    },
+    {
+      "name": "Redistribution",
+      "raw": "Redistribution (early / delayed)",
+      "frequency": null
+    },
+    {
+      "name": "Higher total accumulation in myocardium",
+      "raw": "Higher total accumulation in myocardium",
+      "frequency": null
+    },
+    {
+      "name": "Provides redistribution information",
+      "raw": "Provides redistribution information",
+      "frequency": null
+    },
+    {
+      "name": "Low energy x-rays result in poor resolution → improved with SPECT",
+      "raw": "Low energy x-rays result in poor resolution → improved with SPECT",
+      "frequency": null
+    },
+    {
+      "name": "Dose is limited by its long half-life",
+      "raw": "Dose is limited by its long half-life",
+      "frequency": null
+    },
+    {
+      "name": "Half-value thickness of 3 cm results in less avid appearing myocardium: inferior wall",
+      "raw": "Half-value thickness of 3 cm results in less avid appearing myocardium: inferior wall (deeper part of myocardium) / anterolateral wall (overlain by breast)",
+      "frequency": null
+    },
+    {
+      "name": "Imaging must be completed by 45 minutes post injection or redistribution occurs 99mTc-MIBI (Sestamibi) =  cationic lipophilic isonitrile complex, which binds to myocyte intramitochondrial proteins",
+      "raw": "Imaging must be completed by 45 minutes post injection or redistribution occurs 99mTc-MIBI (Sestamibi) =  cationic lipophilic isonitrile complex, which binds to myocyte intramitochondrial proteins",
+      "frequency": null
+    },
+    {
+      "name": "1-DAY PROTOCOL",
+      "raw": "1-DAY PROTOCOL (rest-stress protocol)",
+      "frequency": null
+    },
+    {
+      "name": "2-DAY PROTOCOL (impractical stress-rest protocol):",
+      "raw": "2-DAY PROTOCOL (impractical stress-rest protocol):",
+      "frequency": null
+    },
+    {
+      "name": "DUAL TRACER STRATEGY",
+      "raw": "DUAL TRACER STRATEGY",
+      "frequency": null
+    },
+    {
+      "name": "Low radiation dose ← shorter half-life allowing larger doses with less patient radiation",
+      "raw": "Low radiation dose ← shorter half-life allowing larger doses with less patient radiation",
+      "frequency": null
+    },
+    {
+      "name": "Excellent imaging characteristics due to (a)  improved photon flux → faster imaging + ability for cardiac gating (b)  higher photon energy → less attenuation artifact from breast tissue / diaphragm + less scatter",
+      "raw": "Excellent imaging characteristics due to (a)  improved photon flux → faster imaging + ability for cardiac gating (b)  higher photon energy → less attenuation artifact from breast tissue / diaphragm + less scatter",
+      "frequency": null
+    },
+    {
+      "name": "NO redistribution",
+      "raw": "NO redistribution",
+      "frequency": null
+    },
+    {
+      "name": "Temporal separation of injection and imaging allows injection during acute myocardial infarct when patient may not be stable for imaging; after stabilization + intervention (angioplasty / urokinase) imaging can demonstrate the pre-intervention defect",
+      "raw": "Temporal separation of injection and imaging allows injection during acute myocardial infarct when patient may not be stable for imaging; after stabilization + intervention (angioplasty / urokinase) imaging can demonstrate the pre-intervention defect",
+      "frequency": null
+    },
+    {
+      "name": "Low cost",
+      "raw": "Low cost",
+      "frequency": null
+    },
+    {
+      "name": "Easy availability",
+      "raw": "Easy availability",
+      "frequency": null
+    },
+    {
+      "name": "Flexible scheduling",
+      "raw": "Flexible scheduling",
+      "frequency": null
+    },
+    {
+      "name": "Increased patient throughput",
+      "raw": "Increased patient throughput",
+      "frequency": null
+    },
+    {
+      "name": "Improved accuracy ← increased specificity + marginally improved sensitivity",
+      "raw": "Improved accuracy ← increased specificity + marginally improved sensitivity",
+      "frequency": null
+    },
+    {
+      "name": "Capacity to quantify left ventricular function at rest + during peak stress and coronary flow reserve",
+      "raw": "Capacity to quantify left ventricular function at rest + during peak stress and coronary flow reserve",
+      "frequency": null
+    },
+    {
+      "name": "Better definition of extent of anatomic CAD",
+      "raw": "Better definition of extent of anatomic CAD",
+      "frequency": null
+    },
+    {
+      "name": "Lower radiation dose than SPECT",
+      "raw": "Lower radiation dose than SPECT",
+      "frequency": null
+    },
+    {
+      "name": "Integration of PET + CT for anatomic extent of CAD",
+      "raw": "Integration of PET + CT for anatomic extent of CAD",
+      "frequency": null
+    },
+    {
+      "name": "attainment of 85% of predicted maximal heart rate = 220 - age in years",
+      "raw": "attainment of 85% of predicted maximal heart rate = 220 - age in years",
+      "frequency": "85%"
+    },
+    {
+      "name": "Inability to continue ← fatigue, dyspnea, leg cramps, dizziness, chest pain",
+      "raw": "Inability to continue ← fatigue, dyspnea, leg cramps, dizziness, chest pain",
+      "frequency": null
+    },
+    {
+      "name": "Severe angina / hypotension",
+      "raw": "Severe angina / hypotension",
+      "frequency": null
+    },
+    {
+      "name": "Severe ECG ischemic changes / arrhythmia",
+      "raw": "Severe ECG ischemic changes / arrhythmia",
+      "frequency": null
+    },
+    {
+      "name": "Fall in BP > 10 mmHg below previous stage",
+      "raw": "Fall in BP > 10 mmHg below previous stage",
+      "frequency": null
+    },
+    {
+      "name": "Ventricular tachycardia",
+      "raw": "Ventricular tachycardia",
+      "frequency": null
+    },
+    {
+      "name": "Run of 3 successive premature ventricular beats ◊  Cardiologist with crash cart should be available!",
+      "raw": "Run of 3 successive premature ventricular beats ◊  Cardiologist with crash cart should be available!",
+      "frequency": null
+    },
+    {
+      "name": "Sensitivity to detect ischemic lesions decreases with suboptimal exercise",
+      "raw": "Sensitivity to detect ischemic lesions decreases with suboptimal exercise (in particular for older population)",
+      "frequency": null
+    },
+    {
+      "name": "Higher false-positive tests in women",
+      "raw": "Higher false-positive tests in women (artifacts from overlying breast tissue)",
+      "frequency": null
+    },
+    {
+      "name": "Propranolol (beta blocker) interferes with stress test, should be discontinued 24-48 hr prior to testing",
+      "raw": "Propranolol (beta blocker) interferes with stress test, should be discontinued 24-48 hr prior to testing",
+      "frequency": null
+    },
+    {
+      "name": "Reproducibility",
+      "raw": "Reproducibility",
+      "frequency": null
+    },
+    {
+      "name": "Independent from patient motivation",
+      "raw": "Independent from patient motivation",
+      "frequency": null
+    },
+    {
+      "name": "Freedom from patient infirmities: eg, severe peripheral vascular disease, arthritis, pain",
+      "raw": "Freedom from patient infirmities: eg, severe peripheral vascular disease, arthritis, pain",
+      "frequency": null
+    },
+    {
+      "name": "Primary coronary vasodilators",
+      "raw": "Primary coronary vasodilators",
+      "frequency": null
+    },
+    {
+      "name": "IV infusion of 140 µg/kg/min dipyridamole (= Persantine®) → 3-5-fold increase in coronary artery blood flow",
+      "raw": "IV infusion of 140 µg/kg/min dipyridamole (= Persantine®) → 3-5-fold increase in coronary artery blood flow",
+      "frequency": null
+    },
+    {
+      "name": "IV infusion of 140 µg/kg/min adenosine",
+      "raw": "IV infusion of 140 µg/kg/min adenosine (= Adenocard®, Adenoscan®)",
+      "frequency": null
+    },
+    {
+      "name": "IV injection of 0.4 mg Regadenoson (Lexiscan®) followed by saline flush = highly specific adenosine A2A receptor agonist acting as coronary vasodilator with very low affinity for A1 (→ AV node block), A2B (→ severe peripheral vasodilation and hypotension), A3 (→ bronchoconstriction) Advantages:   weight-unadjusted single bolus dose, fast onset + short duration of action, fewer side effects than adenosine »  radiotracer injection 10-20 sec after saline flush »  150 mg of IV aminophylline > 3-4 minutes after radiotracer injection »  complete limited exercise protocol tailored to patient's physical ability",
+      "raw": "IV injection of 0.4 mg Regadenoson (Lexiscan®) followed by saline flush = highly specific adenosine A2A receptor agonist acting as coronary vasodilator with very low affinity for A1 (→ AV node block), A2B (→ severe peripheral vasodilation and hypotension), A3 (→ bronchoconstriction) Advantages:   weight-unadjusted single bolus dose, fast onset + short duration of action, fewer side effects than adenosine »  radiotracer injection 10-20 sec after saline flush »  150 mg of IV aminophylline > 3-4 minutes after radiotracer injection »  complete limited exercise protocol tailored to patient's physical ability",
+      "frequency": null
+    },
+    {
+      "name": "Chronotropic inotropes",
+      "raw": "Chronotropic inotropes",
+      "frequency": null
+    },
+    {
+      "name": "IV infusion of 5 µg/kg/min dobutamine for 5 minutes, increased in steps of 5 µg/kg every 5 minutes to a maximum infusion rate of 30-40 µg/kg/min titrated to patient's response »  radiotracer injected at onset of significant symptoms / ECG changes / achievement of maximal rate of infusion or heart rate »  infusion maintained for an additional 2 minutes with dose adjusted to patient's condition",
+      "raw": "IV infusion of 5 µg/kg/min dobutamine for 5 minutes, increased in steps of 5 µg/kg every 5 minutes to a maximum infusion rate of 30-40 µg/kg/min titrated to patient's response »  radiotracer injected at onset of significant symptoms / ECG changes / achievement of maximal rate of infusion or heart rate »  infusion maintained for an additional 2 minutes with dose adjusted to patient's condition",
+      "frequency": null
+    },
+    {
+      "name": "IV infusion of arbutamine with its own computerized delivery system titrating",
+      "raw": "IV infusion of arbutamine with its own computerized delivery system titrating",
+      "frequency": null
+    },
+    {
+      "name": "Monitoring devices: electrocardiographic and blood pressure monitors",
+      "raw": "Monitoring devices: electrocardiographic and blood pressure monitors",
+      "frequency": null
+    },
+    {
+      "name": "Emergency resuscitation equipment: defibrillator",
+      "raw": "Emergency resuscitation equipment: defibrillator",
+      "frequency": null
+    },
+    {
+      "name": "Emergency cart: drugs + pharmacologic antidotes",
+      "raw": "Emergency cart: drugs + pharmacologic antidotes (epinephrine, β-blocker, atropine, bronchodilator, antiarrhythmic medication)",
+      "frequency": null
+    },
+    {
+      "name": "THALLIUM IMAGING (redistribution images after stress test):",
+      "raw": "THALLIUM IMAGING (redistribution images after stress test):",
+      "frequency": null
+    },
+    {
+      "name": "Attenuation from overlying breast / diaphragm",
+      "raw": "Attenuation from overlying breast / diaphragm",
+      "frequency": null
+    },
+    {
+      "name": "Background oversubtraction",
+      "raw": "Background oversubtraction",
+      "frequency": null
+    },
+    {
+      "name": "Camera field nonuniformity",
+      "raw": "Camera field nonuniformity",
+      "frequency": null
+    },
+    {
+      "name": "Drugs, Delayed (excessively) imaging, Dose infiltration",
+      "raw": "Drugs, Delayed (excessively) imaging, Dose infiltration",
+      "frequency": null
+    },
+    {
+      "name": "Eating / Exercising between stress + delayed images",
+      "raw": "Eating / Exercising between stress + delayed images",
+      "frequency": null
+    },
+    {
+      "name": "Positioning variation between stress + delayed images",
+      "raw": "Positioning variation between stress + delayed images",
+      "frequency": null
+    },
+    {
+      "name": "Submaximal exercise",
+      "raw": "Submaximal exercise",
+      "frequency": null
+    },
+    {
+      "name": "GATED BLOOD POOL IMAGING",
+      "raw": "GATED BLOOD POOL IMAGING (response of EF)",
+      "frequency": null
+    },
+    {
+      "name": "MR MYOCARDIAL PERFUSION IMAGING",
+      "raw": "MR MYOCARDIAL PERFUSION IMAGING",
+      "frequency": null
+    },
+    {
+      "name": "Lost enzyme pattern = patient admitted 24-48 hr after infarction",
+      "raw": "Lost enzyme pattern = patient admitted 24-48 hr after infarction",
+      "frequency": null
+    },
+    {
+      "name": "Equivocal ECG + atypical angina:",
+      "raw": "Equivocal ECG + atypical angina:",
+      "frequency": null
+    },
+    {
+      "name": "ST depression without symptoms",
+      "raw": "ST depression without symptoms",
+      "frequency": null
+    },
+    {
+      "name": "Equivocal enzyme pattern + equivocal symptoms",
+      "raw": "Equivocal enzyme pattern + equivocal symptoms",
+      "frequency": null
+    },
+    {
+      "name": "S/P cardiac surgery (perioperative infarction in 10%, enzymes routinely elevated,",
+      "raw": "S/P cardiac surgery (perioperative infarction in 10%, enzymes routinely elevated,",
+      "frequency": "10%"
+    },
+    {
+      "name": "For detection of right ventricular infarction",
+      "raw": "For detection of right ventricular infarction",
+      "frequency": null
+    },
+    {
+      "name": "In differentiating multiple- from single-vessel disease",
+      "raw": "In differentiating multiple- from single-vessel disease",
+      "frequency": null
+    },
+    {
+      "name": "Typical angina",
+      "raw": "Typical angina",
+      "frequency": null
+    },
+    {
+      "name": "Normal ECG stress test + NO symptoms",
+      "raw": "Normal ECG stress test + NO symptoms",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac causes:",
+      "raw": "Cardiac causes:",
+      "frequency": null
+    },
+    {
+      "name": "Recent injury: myocardial contusion, resuscitation, cardioversion, radiation injury,",
+      "raw": "Recent injury: myocardial contusion, resuscitation, cardioversion, radiation injury,",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "False-negative thallium test: Advantages compared with 99mTc compounds: Disadvantages: Pharmacokinetics: ›  relatively rapid clearance from circulation (40% first- pass extraction) ← passive diffusion across cell membranes ›  high myocardial accumulation (4%) with nonlinear uptake proportional to regional perfusion (fall-off in extraction at higher rates of flow) ›  slow washout with long retention time in myocardium and little recirculation ›  significant hepatic + gallbladder activity Excretion:   through biliary tree (give milk after injection and before imaging to decrease GB activity) Dos"
+}

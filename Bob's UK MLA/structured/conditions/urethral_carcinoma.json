@@ -1,0 +1,43 @@
+{
+  "name": "URETHRAL CARCINOMA",
+  "slug": "urethral_carcinoma",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/urethral_carcinoma.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "< 1% of all urologic cancers",
+    "Age": "6th-7th decade; M÷F = 1÷4",
+    "Histo": "SCC (60%), TCC (20%), adenocarcinoma (10%), undifferentiated ca. / sarcoma"
+  },
+  "dominant_finding": "mass hypointense relative to normal corpora on T1WI + T2WI",
+  "distribution": "T2-hyperintense + peripheral rim of low SI",
+  "discriminating_features": [
+    "urethral stricture",
+    "mass hypointense relative to normal corpora on T1WI + T2WI",
+    "lobulated exophytic / deeply infiltrating lesion",
+    "irregularly marginated hypo- / isoechoic mass",
+    "T2-hypointense with heterogeneous enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "urethral stricture"
+    ],
+    "MR": [
+      "mass hypointense relative to normal corpora on T1WI + T2WI",
+      "lobulated exophytic / deeply infiltrating lesion",
+      "irregularly marginated hypo- / isoechoic mass",
+      "T2-hypointense with heterogeneous enhancement",
+      "lobulated iso- to hypointense on T1WI + T2WI",
+      "heterogeneous contrast enhancement",
+      "exophytic diverticular tumor",
+      "T2-hyperintense + peripheral rim of low SI",
+      "variably heterogeneous contrast enhancement",
+      "mass hypointense on T1WI + hyperintense on T2WI"
+    ]
+  },
+  "clinical": {
+    "Spread": "direct extension + regional lymph nodes (superficial + deep inguinal + external iliac",
+    "Rx": "local surgical excision",
+    "Prognosis": "poor (in 50% metastatic at presentation); survival rate of 50% for distal tumor,"
+  }
+}

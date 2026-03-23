@@ -1,0 +1,85 @@
+{
+  "finding": "MUCOCELE OF APPENDIX",
+  "slug": "mucocele_of_appendix_1c7d1d",
+  "chapter": "MESENTERIC LYMPHADENITIS",
+  "source_file": "processed_clusters/mesenteric_lymphadenitis/mucocele_of_appendix_1c7d1d.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Simple mucocele (20%) = retention cyst = cystic dilatation of lumen ← obstruction by fecolith, foreign body, endometriosis, adhesions, postoperative scarring following appendectomy, volvulus, carcinoid, appendiceal carcinoma, carcinoma of cecum",
+      "raw": "Simple mucocele (20%) = retention cyst = cystic dilatation of lumen ← obstruction by fecolith, foreign body, endometriosis, adhesions, postoperative scarring following appendectomy, volvulus, carcinoid, appendiceal carcinoma, carcinoma of cecum",
+      "frequency": "20%"
+    },
+    {
+      "name": "Focal / diffuse mucosal hyperplasia",
+      "raw": "Focal / diffuse mucosal hyperplasia (5-25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Mucinous cystadenoma ← hyperplasia with epithelial atypia (50-63%) = mucin-",
+      "raw": "Mucinous cystadenoma ← hyperplasia with epithelial atypia (50-63%) = mucin-",
+      "frequency": "63%"
+    },
+    {
+      "name": "Mucinous cystadenocarcinoma with stromal invasion",
+      "raw": "Mucinous cystadenocarcinoma with stromal invasion (11-20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Cystic fibrosis with accumulation of thick mucus",
+      "raw": "Cystic fibrosis with accumulation of thick mucus",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic (25%), ± acute / chronic RLQ pain",
+      "raw": "asymptomatic (25%), ± acute / chronic RLQ pain",
+      "frequency": "25%"
+    },
+    {
+      "name": "palpable mass in right lower quadrant",
+      "raw": "palpable mass in right lower quadrant (in up to 50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "altered bowel habits, weight loss, vomiting",
+      "raw": "altered bowel habits, weight loss, vomiting",
+      "frequency": null
+    },
+    {
+      "name": "± elevated CEA, CA 19-9, CA 125",
+      "raw": "± elevated CEA, CA 19-9, CA 125",
+      "frequency": null
+    },
+    {
+      "name": "Rupture → pseudomyxoma peritonei",
+      "raw": "Rupture → pseudomyxoma peritonei",
+      "frequency": null
+    },
+    {
+      "name": "Torsion → gangrene + hemorrhage",
+      "raw": "Torsion → gangrene + hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Herniation into cecum → bowel obstruction",
+      "raw": "Herniation into cecum → bowel obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Intussusception [Right ureteral obstruction]",
+      "raw": "Intussusception",
+      "frequency": null,
+      "sites": [
+        "Right ureteral obstruction"
+      ]
+    },
+    {
+      "name": "usually asymptomatic, may appear as acute appendicitis",
+      "raw": "usually asymptomatic, may appear as acute appendicitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Mucocele of Appendix mucocele =   macroscopic descriptive term for cystic dilatation of appendix / gallbladder / sinus cavity / salivary gland caused by an accumulation of mucin Etiology: √  mild luminal dilatation rarely > 2 cm in diameter secreting tumor √  marked luminal distention Cx:  perforation with mucous seeding (in 20%) √  severe appendiceal distention by mucin Cx:  6% risk of perforation + peritoneal implantations Prevalence:   0.07-0.25% of appendectomy specimens; 8% of appendiceal tumors Mean age:  55 years; M÷F = 1÷4 to 1÷1 Associated with:   colonic adenocarcinoma (6-fold risk),"
+}

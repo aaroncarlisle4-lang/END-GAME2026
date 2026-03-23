@@ -1,0 +1,72 @@
+{
+  "finding": "Hypointense Lesion on DWI",
+  "slug": "hypointense_lesion_on_dwi",
+  "chapter": "D. NEURONAL MIGRATION ANOMALY due to infection, ischemia, metabolic disorders",
+  "source_file": "processed_clusters/d_neuronal_migration_anomaly_due_to_infection_ischemia_metabolic_disorders/hypointense_lesion_on_dwi.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "CSF",
+      "raw": "CSF",
+      "frequency": null
+    },
+    {
+      "name": "Tumor cyst: pilocytic, hemangioblastoma",
+      "raw": "Tumor cyst: pilocytic, hemangioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Tumor nodules: hemangioblastoma",
+      "raw": "Tumor nodules: hemangioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Atherosclerosis at carotid bifurcation =  upstream flow limitation WITHOUT significant intracranial collateral blood supply",
+      "raw": "Atherosclerosis at carotid bifurcation =  upstream flow limitation WITHOUT significant intracranial collateral blood supply",
+      "frequency": null
+    },
+    {
+      "name": "Evolving ischemic condition / chronic infarct =  delayed reperfusion + vascular collateralization of incomplete acute / chronic infarct",
+      "raw": "Evolving ischemic condition / chronic infarct =  delayed reperfusion + vascular collateralization of incomplete acute / chronic infarct",
+      "frequency": null
+    },
+    {
+      "name": "Vascular dysregulation =  hyperemia on symptomatic side with apparent perfusion abnormality on contralateral normal side",
+      "raw": "Vascular dysregulation =  hyperemia on symptomatic side with apparent perfusion abnormality on contralateral normal side",
+      "frequency": null
+    },
+    {
+      "name": "clinical history!",
+      "raw": "clinical history!",
+      "frequency": null
+    },
+    {
+      "name": "Hypertensive encephalopathy",
+      "raw": "Hypertensive encephalopathy (PRES)",
+      "frequency": null
+    },
+    {
+      "name": "Seizure, subarachnoid hemorrhage, hemiplegic migraine",
+      "raw": "Seizure, subarachnoid hemorrhage, hemiplegic migraine",
+      "frequency": null
+    },
+    {
+      "name": "seizure activity",
+      "raw": "seizure activity",
+      "frequency": null
+    },
+    {
+      "name": "Head tilt / angulation",
+      "raw": "Head tilt / angulation",
+      "frequency": null
+    },
+    {
+      "name": "Variations in cerebrovascular anatomy =  physiologic perfusion delay in circle of Willis variants, unequal blood supply between anterior + posterior circulation, congenitally absent ICA, etc.",
+      "raw": "Variations in cerebrovascular anatomy =  physiologic perfusion delay in circle of Willis variants, unequal blood supply between anterior + posterior circulation, congenitally absent ICA, etc.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "False Penumbra on Perfusion CT True penumbra:   successfully treatable with thrombolysis √  mean transit time (MTT) ↑ √  cerebral blood flow (CBF) ↓ √  cerebral blood volume (CBV) ↔ False penumbra:   area of abnormal perfusion as in ischemic penumbra NOT treatable with thrombolysis √  carotid bulb disease by CT angiography √  hypoattenuation in the same region √  restricted diffusion on DWI + ADC map Cause: √  perfusion abnormality ← vasospasm √  hyperintensity on STIR sequence √  no restricted diffusion √  no restricted diffusion"
+}

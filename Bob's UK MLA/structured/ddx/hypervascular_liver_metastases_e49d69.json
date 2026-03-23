@@ -1,0 +1,77 @@
+{
+  "finding": "Hypervascular Liver Metastases",
+  "slug": "hypervascular_liver_metastases_e49d69",
+  "chapter": "LIPOMA OF LIVER",
+  "source_file": "processed_clusters/lipoma_of_liver/hypervascular_liver_metastases_e49d69.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary neuroendocrine tumor:",
+      "raw": "Primary neuroendocrine tumor:",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma (11%)",
+      "frequency": "11%"
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma (8%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Breast carcinoma",
+      "raw": "Breast carcinoma (some) (2%)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Thyroid carcinoma",
+      "raw": "Thyroid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcomas",
+      "raw": "Sarcomas",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian cystadenocarcinoma in ( ) number of lesions seen only during arterial phase",
+      "raw": "Ovarian cystadenocarcinoma in ( ) number of lesions seen only during arterial phase",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Hypernephroma",
+      "raw": "Hypernephroma",
+      "frequency": null
+    },
+    {
+      "name": "Islet cell carcinoma",
+      "raw": "Islet cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  increased enhancement relative to normal liver during arterial phase + washout on delayed images (a)  Pancreatic endocrine tumor (b)  Neuroendocrine carcinoma = carcinoid (14%) (c)  Pheochromocytoma CT: ◊  Triphasic scan recommended! Detection rate:   87% for NECT, 78% for hepatic arterial phase, 77% for portal venous phase MR: √  moderately hypointense on T1WI unless hemorrhagic √  markedly hyperintense on T2WI (= cystic, necrotic) √  hyperintense on DWI CEMR: √  uniform / peripheral-rim / heterogeneous enhancement √  \"peripheral washout\" sign = decrease of contrast material preferentially"
+}

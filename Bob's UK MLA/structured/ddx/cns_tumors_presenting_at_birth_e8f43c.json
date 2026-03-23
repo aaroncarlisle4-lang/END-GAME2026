@@ -1,0 +1,47 @@
+{
+  "finding": "CNS Tumors Presenting at Birth",
+  "slug": "cns_tumors_presenting_at_birth_e8f43c",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/cns_tumors_presenting_at_birth_e8f43c.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypothalamic astrocytoma",
+      "raw": "Hypothalamic astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Choroid plexus papilloma / carcinoma",
+      "raw": "Choroid plexus papilloma / carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Primitive neuroectodermal tumor",
+      "raw": "Primitive neuroectodermal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,40 @@
+{
+  "name": "DYSPLASIA EPIPHYSEALIS HEMIMELICA",
+  "slug": "dysplasia_epiphysealis_hemimelica",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/dysplasia_epiphysealis_hemimelica.md",
+  "definition": "TREVOR DISEASE = TARSOEPIPHYSEAL ACLASIS uncommon skeletal developmental disorder representing an epiphyseal osteochondroma",
+  "demographics": {
+    "Prevalence": "1÷1,000,000",
+    "Age": "2-4 years; M÷F = 3÷1",
+    "Path": "lobulated mass protruding from epiphysis with a cartilaginous cap",
+    "Histo": "normal bone + hyaline cartilage with abundant enchondral ossification (= abnormal"
+  },
+  "dominant_finding": "pelvic involvement: femoral head, symphysis pubis, triradiate cartilage",
+  "distribution": "disorganized epiphyseal calcification accompanied by irregular ossification",
+  "discriminating_features": [
+    "pelvic involvement: femoral head, symphysis pubis, triradiate cartilage",
+    "hypertrophy of ipsilateral iliac bone",
+    "premature appearance of an eccentric, lobulated, overgrown, asymmetric ossification",
+    "stippled calcification of anomalous cartilage",
+    "disorganized epiphyseal calcification accompanied by irregular ossification"
+  ],
+  "other_features": {
+    "general": [
+      "pelvic involvement: femoral head, symphysis pubis, triradiate cartilage",
+      "hypertrophy of ipsilateral iliac bone",
+      "premature appearance of an eccentric, lobulated, overgrown, asymmetric ossification",
+      "stippled calcification of anomalous cartilage"
+    ],
+    "Childhood": [
+      "disorganized epiphyseal calcification accompanied by irregular ossification",
+      "osteochondroma-like growth from one side of epiphysis",
+      "premature closure of physis results in limb deformity and limb length discrepancy",
+      "irregular articular surface combined with angular deformity",
+      "undertubulation of bone as a consequence of secondary involvement of metaphysis"
+    ]
+  },
+  "clinical": {
+    "Cx": "premature secondary osteoarthritis"
+  }
+}

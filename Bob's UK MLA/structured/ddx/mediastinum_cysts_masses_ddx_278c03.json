@@ -1,0 +1,32 @@
+{
+  "finding": "Mediastinum — Cysts / masses (DDx)",
+  "slug": "mediastinum_cysts_masses_ddx_278c03",
+  "chapter": "Mediastinum",
+  "source_file": "processed_clusters/mediastinum/mediastinum_cysts_masses_ddx_278c03.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "liposarcoma",
+      "raw": "liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "lipoblastoma",
+      "raw": "lipoblastoma (infancy)",
+      "frequency": null
+    },
+    {
+      "name": "fat-containing teratoma",
+      "raw": "fat-containing teratoma",
+      "frequency": null
+    },
+    {
+      "name": "thymolipoma",
+      "raw": "thymolipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "fat with fine linear densities (= omental vessels) | smooth + sharply defined boundaries"
+}

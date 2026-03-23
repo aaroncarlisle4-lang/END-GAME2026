@@ -1,0 +1,62 @@
+{
+  "finding": "Etiology: continued growth of residual benign rests of cartilage displaced from the growth plate",
+  "slug": "etiology_continued_growth_of_residual_benign_rests_of_cartilage_displaced_from_t",
+  "chapter": "ENCHONDROMA",
+  "source_file": "processed_clusters/enchondroma/etiology_continued_growth_of_residual_benign_rests_of_cartilage_displaced_from_t.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "usually asymptomatic, painless swelling",
+      "raw": "usually asymptomatic, painless swelling",
+      "frequency": null
+    },
+    {
+      "name": "pain → suspect pathologic fracture",
+      "raw": "pain → suspect pathologic fracture",
+      "frequency": null
+    },
+    {
+      "name": "Pathologic fracture → pain",
+      "raw": "Pathologic fracture → pain",
+      "frequency": null
+    },
+    {
+      "name": "Malignant degeneration in long-bone enchondromas in 15-20%",
+      "raw": "Malignant degeneration in long-bone enchondromas in 15-20% (severe new pain in an adult patient, interval growth at imaging, loss of marginal definition, cortical disruption, local periosteal reaction)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Epidermoid inclusion cyst",
+      "raw": "Epidermoid inclusion cyst (phalangeal tuft, history of trauma, more lucent)",
+      "frequency": null
+    },
+    {
+      "name": "Unicameral bone cyst",
+      "raw": "Unicameral bone cyst (rare in hands, more radiolucent)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Giant cell tumor of tendon sheath",
+      "raw": "Giant cell tumor of tendon sheath (commonly erodes bone, soft-tissue mass outside bone)",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia (rare in hand, mostly polyostotic)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Bone infarct",
+      "raw": "Bone infarct",
+      "frequency": null
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma (exceedingly rare in phalanges, metacarpals, metatarsals)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Age:   10-30 years; M÷F = 1÷1 Histo:   lobules of pure hyaline cartilage Location:  (usually solitary; multiple = enchondromatosis) (a)  in 40% small tubular bones of hand (most frequent tumor here), distal + mid aspects of metacarpals, proximal / middle phalanges ◊  Most common benign tumor of the hand! (b)  proximal femur, proximal humerus, tibia, radius, ulna, foot, rib (3%) Site:   central within medullary canal + metaphyseal; epiphysis only affected after closure of growth plate √  oval / round area of geographic destruction with lobulated contour + fine marginal line √  chondroid matrix:"
+}

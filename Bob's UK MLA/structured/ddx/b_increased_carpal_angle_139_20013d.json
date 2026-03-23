@@ -1,0 +1,27 @@
+{
+  "finding": "B. INCREASED CARPAL ANGLE (> 139°",
+  "slug": "b_increased_carpal_angle_139_20013d",
+  "chapter": "Carpal Angle",
+  "source_file": "processed_clusters/carpal_angle/b_increased_carpal_angle_139_20013d.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Down syndrome",
+      "raw": "Down syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Arthrogryposis",
+      "raw": "Arthrogryposis",
+      "frequency": null
+    },
+    {
+      "name": "Bone dysplasia with epiphyseal involvement",
+      "raw": "Bone dysplasia with epiphyseal involvement",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

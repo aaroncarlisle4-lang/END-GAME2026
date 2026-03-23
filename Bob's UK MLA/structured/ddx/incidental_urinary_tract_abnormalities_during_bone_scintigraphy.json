@@ -1,0 +1,112 @@
+{
+  "finding": "Incidental Urinary Tract Abnormalities during Bone Scintigraphy",
+  "slug": "incidental_urinary_tract_abnormalities_during_bone_scintigraphy",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/incidental_urinary_tract_abnormalities_during_bone_scintigraphy.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bilateral diffuse increased uptake =  uptake greater than that of lumbar spine (a)  excess tissue calcium",
+      "raw": "Bilateral diffuse increased uptake =  uptake greater than that of lumbar spine (a)  excess tissue calcium",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Hypercalcemia",
+      "raw": "Hypercalcemia",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma metastatic to kidney (b)  tissue damage",
+      "raw": "Osteosarcoma metastatic to kidney (b)  tissue damage",
+      "frequency": null
+    },
+    {
+      "name": "Drug-induced nephrotoxicity ›  chemotherapy: eg, cyclophosphamide, vincristine, doxorubicin, bleomycin,",
+      "raw": "Drug-induced nephrotoxicity ›  chemotherapy: eg, cyclophosphamide, vincristine, doxorubicin, bleomycin,",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Necrotic renal cell carcinoma",
+      "raw": "Necrotic renal cell carcinoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Renal metastasis",
+      "raw": "Renal metastasis (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Acute pyelonephritis",
+      "raw": "Acute pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Acute tubular necrosis",
+      "raw": "Acute tubular necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma (c)  iron overload",
+      "raw": "Multiple myeloma (c)  iron overload",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell anemia",
+      "raw": "Sickle cell anemia",
+      "frequency": null
+    },
+    {
+      "name": "Thalassemia major",
+      "raw": "Thalassemia major",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy to kidney",
+      "raw": "Radiation therapy to kidney",
+      "frequency": null
+    },
+    {
+      "name": "Iron overload",
+      "raw": "Iron overload",
+      "frequency": null
+    },
+    {
+      "name": "Chemotherapy",
+      "raw": "Chemotherapy (cytoxan, vincristine, doxorubicin)",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Calcification (metastatic), Carcinoma",
+      "raw": "Calcification (metastatic), Carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction (urinary)",
+      "frequency": null
+    },
+    {
+      "name": "Nephritis, Normal variant",
+      "raw": "Nephritis, Normal variant",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "> 50% of injected dose of 99mTc-MDP is excreted by 3 hours mitomycin-C, S-6-mercaptopurine, mitoxantrone ›  aminoglycosides ›  amphotericin B"
+}

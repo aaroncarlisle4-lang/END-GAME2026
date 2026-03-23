@@ -1,0 +1,37 @@
+{
+  "finding": "A. UNILATERAL",
+  "slug": "a_unilateral_f0e83f",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/a_unilateral_f0e83f.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Multicystic kidney",
+      "raw": "Multicystic kidney (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Hydronephrosis (25%) (a)  UPJ obstruction (b)  upper moiety of duplication",
+      "raw": "Hydronephrosis (25%) (a)  UPJ obstruction (b)  upper moiety of duplication",
+      "frequency": "25%"
+    },
+    {
+      "name": "Renal vein thrombosis",
+      "raw": "Renal vein thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Mesoblastic nephroma ◊  Most common primary renal neoplasm in 1st month of life",
+      "raw": "Mesoblastic nephroma ◊  Most common primary renal neoplasm in 1st month of life",
+      "frequency": "most common"
+    },
+    {
+      "name": "Rare: Wilms tumor, teratoma",
+      "raw": "Rare: Wilms tumor, teratoma",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

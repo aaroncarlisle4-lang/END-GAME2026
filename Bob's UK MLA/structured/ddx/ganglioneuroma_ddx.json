@@ -1,0 +1,32 @@
+{
+  "finding": "Ganglioneuroma (DDx)",
+  "slug": "ganglioneuroma_ddx",
+  "chapter": "Ganglioneuroma",
+  "source_file": "processed_clusters/ganglioneuroma/ganglioneuroma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "neurofibroma",
+      "raw": "neurofibroma (no calcification)",
+      "frequency": null
+    },
+    {
+      "name": "schwannoma",
+      "raw": "schwannoma (no calcification)",
+      "frequency": null
+    },
+    {
+      "name": "ganglioneuroblastoma",
+      "raw": "ganglioneuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "neuroblastoma",
+      "raw": "neuroblastoma (coarse calcifications)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "homogeneous + isointense with muscle on T1WI | hyperintense to muscle on T2WI with varying signal intensities ← depending on | ± whorled appearance ← interlacing bundles of longitudinal + transverse Schwann cells | gradual delayed enhancement"
+}

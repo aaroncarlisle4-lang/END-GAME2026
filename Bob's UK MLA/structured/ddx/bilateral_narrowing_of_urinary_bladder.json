@@ -1,0 +1,30 @@
+{
+  "finding": "Bilateral Narrowing of Urinary Bladder",
+  "slug": "bilateral_narrowing_of_urinary_bladder",
+  "chapter": "URINARY BLADDER",
+  "source_file": "processed_clusters/urinary_bladder/bilateral_narrowing_of_urinary_bladder.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "WITH ELEVATION OF BLADDER FLOOR [Pelvic lipomatosis]",
+      "raw": "WITH ELEVATION OF BLADDER FLOOR",
+      "frequency": null,
+      "sites": [
+        "Pelvic lipomatosis"
+      ]
+    },
+    {
+      "name": "Pelvic hematoma Cause:   trauma, anticoagulant therapy, spontaneous rupture of blood vessels, blood dyscrasia",
+      "raw": "Pelvic hematoma Cause:   trauma, anticoagulant therapy, spontaneous rupture of blood vessels, blood dyscrasia (rare), bleeding neoplasm (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Chronic cystitis",
+      "raw": "Chronic cystitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "B. Renal tubular disorders: renal tubular acidosis",
+  "slug": "b_renal_tubular_disorders_renal_tubular_acidosis",
+  "chapter": "D. Hypophosphatasia",
+  "source_file": "processed_clusters/d_hypophosphatasia/b_renal_tubular_disorders_renal_tubular_acidosis.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Multiple renal defects",
+      "raw": "Multiple renal defects",
+      "frequency": null
+    },
+    {
+      "name": "V.",
+      "raw": "V.",
+      "frequency": null
+    },
+    {
+      "name": "Hypophosphatasia + pseudohypophosphatasia",
+      "raw": "Hypophosphatasia + pseudohypophosphatasia",
+      "frequency": null
+    },
+    {
+      "name": "VI.",
+      "raw": "VI.",
+      "frequency": null
+    },
+    {
+      "name": "Fibrogenesis imperfecta osseum",
+      "raw": "Fibrogenesis imperfecta osseum",
+      "frequency": null
+    },
+    {
+      "name": "VII.",
+      "raw": "VII.",
+      "frequency": null
+    },
+    {
+      "name": "Axial osteomalacia",
+      "raw": "Axial osteomalacia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "VIII. Miscellaneous: Hypoparathyroidism, hyperparathyroidism, thyrotoxicosis, osteoporosis, Paget disease, fluoride ingestion, ureterosigmoidostomy, neurofibromatosis, osteopetrosis, macroglobulinemia, malignancy"
+}

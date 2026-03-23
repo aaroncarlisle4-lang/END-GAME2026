@@ -1,0 +1,36 @@
+{
+  "name": "INVERTED PAPILLOMA",
+  "slug": "inverted_papilloma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/inverted_papilloma.md",
+  "definition": "INVERTING PAPILLOMA = ENDOPHYTIC PAPILLOMA SQUAMOUS CELL PAPILLOMA = TRANSITIONAL CELL PAPILLOMA = SCHNEIDERIAN PAPILLOMA",
+  "demographics": {
+    "Frequency": "4% of all nasal neoplasms; most common of epithelial papillomas; commonly",
+    "Age": "40-60 years; M÷F = 3-5÷1",
+    "Path": "vascular mass with prominent mucous cyst inclusions interspersed throughout epithelium",
+    "Histo": "hyperplastic epithelium inverts into underlying stroma rather than in an exophytic",
+    "Location": "uniquely unilateral (bilateral in < 5%)"
+  },
+  "dominant_finding": "may have intermediate to low intensity on T2WI (DDx: squamous cell carcinoma, olfactory",
+  "distribution": "uniquely unilateral (bilateral in < 5%)",
+  "discriminating_features": [
+    "commonly involves antrum + ethmoid sinus",
+    "widening of infundibulum / outflow tract of antrum",
+    "destruction of medial antral wall / lamina papyracea of orbit, anterior cranial fossa (pressure",
+    "septum may be bowed to opposite side (NO invasion)",
+    "homogeneous enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "commonly involves antrum + ethmoid sinus",
+      "widening of infundibulum / outflow tract of antrum",
+      "destruction of medial antral wall / lamina papyracea of orbit, anterior cranial fossa (pressure",
+      "septum may be bowed to opposite side (NO invasion)",
+      "homogeneous enhancement"
+    ],
+    "MR": [
+      "may have intermediate to low intensity on T2WI (DDx: squamous cell carcinoma, olfactory"
+    ]
+  },
+  "clinical": {}
+}

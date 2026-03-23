@@ -1,0 +1,87 @@
+{
+  "finding": "A. SECONDARY = dilatation of RV + annulus ← elevated pulmonary artery pressure",
+  "slug": "a_secondary_dilatation_of_rv_annulus_elevated_pulmonary_artery_pressure_491f3c",
+  "chapter": "TRICUSPID REGURGITATION / INSUFFICIENCY",
+  "source_file": "processed_clusters/tricuspid_regurgitation_insufficiency/a_secondary_dilatation_of_rv_annulus_elevated_pulmonary_artery_pressure_491f3c.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Left heart failure",
+      "raw": "Left heart failure",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary vascular disease",
+      "raw": "Pulmonary vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Chronic lung disease ← pulmonary hypertension",
+      "raw": "Chronic lung disease ← pulmonary hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid syndrome ◊  Mild / trace of tricuspid regurgitation is normal!",
+      "raw": "Carcinoid syndrome ◊  Mild / trace of tricuspid regurgitation is normal!",
+      "frequency": null
+    },
+    {
+      "name": "PRIMARY = lesion of intrinsic valve apparatus",
+      "raw": "PRIMARY = lesion of intrinsic valve apparatus (chordae tendineae / leaflets / annulus / papillary muscles)",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatic heart disease",
+      "raw": "Rheumatic heart disease",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial endocarditis",
+      "raw": "Bacterial endocarditis",
+      "frequency": null
+    },
+    {
+      "name": "Tricuspid valve prolapse",
+      "raw": "Tricuspid valve prolapse",
+      "frequency": null
+    },
+    {
+      "name": "Papillary muscle dysfunction: myocardial infarction, trauma, (metastatic) carcinoid heart syndrome",
+      "raw": "Papillary muscle dysfunction: myocardial infarction, trauma, (metastatic) carcinoid heart syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Connective tissue disorder: Marfan syndrome",
+      "raw": "Connective tissue disorder: Marfan syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Congenital heart disease: Ebstein anomaly, atrioventricular cushion defect",
+      "raw": "Congenital heart disease: Ebstein anomaly, atrioventricular cushion defect",
+      "frequency": null
+    },
+    {
+      "name": "Pacemaker leads",
+      "raw": "Pacemaker leads",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy, certain drug-based treatments",
+      "raw": "Radiation therapy, certain drug-based treatments",
+      "frequency": null
+    },
+    {
+      "name": "exhaustion and fatigue",
+      "raw": "exhaustion and fatigue",
+      "frequency": null
+    },
+    {
+      "name": "symptoms of right heart failure: peripheral edema, ascites",
+      "raw": "symptoms of right heart failure: peripheral edema, ascites",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  normal / reduced pulmonary vascularity √  cardiomegaly ← RA + RV hypertrophy and enlargement √  distension of IVC > SVC Doppler ECHO: √  systolic reversal of hepatic vein flow with normal sinus rhythm √  dilatation of RA √  flattening / leftward bowing of interventricular septum during diastole √  vena contracta (= smallest stream diameter) width > 0.7 cm √  color flow jet area > 10 cm2 √  proximal isovelocity surface area radius > 0.9 cm √  decreased S wave = S wave no longer as deep as the D wave, gradually rising with degree of regurgitation √  one large a-S-v complex in severe incompete"
+}

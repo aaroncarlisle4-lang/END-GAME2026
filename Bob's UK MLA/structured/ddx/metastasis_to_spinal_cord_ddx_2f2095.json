@@ -1,0 +1,27 @@
+{
+  "finding": "Metastasis To Spinal Cord (DDx)",
+  "slug": "metastasis_to_spinal_cord_ddx_2f2095",
+  "chapter": "Metastasis To Spinal Cord",
+  "source_file": "processed_clusters/metastasis_to_spinal_cord/metastasis_to_spinal_cord_ddx_2f2095.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "schwannoma",
+      "raw": "schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "neurofibroma",
+      "raw": "neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "cysts",
+      "raw": "cysts",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "central area of low SI (mimicking syrinx) on T1WI | high SI on T2WI ← edema / tumor infiltration | intense homogeneous enhancement | disproportionately large amount of surrounding edema"
+}

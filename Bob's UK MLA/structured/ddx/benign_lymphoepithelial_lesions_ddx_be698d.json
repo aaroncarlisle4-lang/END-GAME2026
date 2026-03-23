@@ -1,0 +1,22 @@
+{
+  "finding": "Benign Lymphoepithelial Lesions (DDx)",
+  "slug": "benign_lymphoepithelial_lesions_ddx_be698d",
+  "chapter": "Benign Lymphoepithelial Lesions",
+  "source_file": "processed_clusters/benign_lymphoepithelial_lesions/benign_lymphoepithelial_lesions_ddx_be698d.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "acute phase of Sjögren syndrome (lesions predominantly solid",
+      "raw": "acute phase of Sjögren syndrome (lesions predominantly solid",
+      "frequency": null
+    },
+    {
+      "name": "of decreased",
+      "raw": "of decreased",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "reactive cervical lymphadenopathy | tonsillar hypertrophy | rimlike enhancement around cystic parotid lesions | heterogeneous enhancement of solid parotid lesions"
+}

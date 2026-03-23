@@ -1,0 +1,43 @@
+{
+  "finding": "GANGLION",
+  "slug": "ganglion_7f637d",
+  "chapter": "FROSTBITE",
+  "source_file": "processed_clusters/frostbite/ganglion_7f637d.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "asymptomatic / pain",
+      "raw": "asymptomatic / pain",
+      "frequency": null
+    },
+    {
+      "name": "uni- / multilocular swelling",
+      "raw": "uni- / multilocular swelling",
+      "frequency": null
+    },
+    {
+      "name": "mild localized pain",
+      "raw": "mild localized pain (in 4% of unexplained wrist pain)",
+      "frequency": "4%"
+    },
+    {
+      "name": "mucoid degeneration of intraosseous connective tissue",
+      "raw": "mucoid degeneration of intraosseous connective tissue (perhaps due to trauma / ischemia)",
+      "frequency": null
+    },
+    {
+      "name": "penetration of juxtaosseous soft-tissue ganglion (= synovial herniation) into underlying bone (occasionally) Path:  uni- / multilocular cyst surrounded by fibrous lining, containing gelatinous material [proximal tibia] [medial malleolus] [femoral head] [carpal bones]",
+      "raw": "penetration of juxtaosseous soft-tissue ganglion (= synovial herniation) into underlying bone (occasionally) Path:  uni- / multilocular cyst surrounded by fibrous lining, containing gelatinous material",
+      "frequency": null,
+      "sites": [
+        "proximal tibia",
+        "medial malleolus",
+        "femoral head",
+        "carpal bones"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "Origin:   coalescence of smaller cysts formed by myxomatous degeneration of periarticular connective tissue Path:   capsule of dense fibrous connective tissue Histo:   no synovial lining (frequent lack of communication with joint, infrequent association with joint / tendon sheath effusion) Cause:   repetitive stress Location:   joint capsule, tendon sheath, ligament, bursa, intraarticular, subchondral intraosseous, periosteal Prognosis:   symptomatic; bone erosion; spontaneous resolution frequent in pediatric cases DDx:   Synovial cyst (differentiation from ganglion cyst radiologically not pos"
+}

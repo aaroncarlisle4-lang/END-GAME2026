@@ -1,0 +1,37 @@
+{
+  "finding": "LIVER",
+  "slug": "liver_979266",
+  "chapter": "Iron Accumulation in Spleen",
+  "source_file": "processed_clusters/iron_accumulation_in_spleen/liver_979266.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Duplication of portal vein",
+      "raw": "Duplication of portal vein",
+      "frequency": null
+    },
+    {
+      "name": "Congenital portosystemic shunt",
+      "raw": "Congenital portosystemic shunt",
+      "frequency": null
+    },
+    {
+      "name": "Congenital absence of portal vein",
+      "raw": "Congenital absence of portal vein",
+      "frequency": null
+    },
+    {
+      "name": "Absent branching of portal vein",
+      "raw": "Absent branching of portal vein",
+      "frequency": null
+    },
+    {
+      "name": "Preduodenal portal vein",
+      "raw": "Preduodenal portal vein",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Functional Segmental Liver Anatomy based on distribution of 3 major hepatic veins: (a)  middle hepatic vein divides liver into right and left lobe; also separated by main portal vein scissura (Rex-Cantlie line = extrapolated line from posthepatic IVC to long axis of gallbladder demarcating on liver surface anteriorly the right and left parts of liver) (b)  left hepatic vein divides left lobe into medial + lateral sectors (c)  right hepatic vein divides right lobe into anterior + posterior sectors Each of the four sections is further divided: by an imaginary transverse line drawn through the ri"
+}

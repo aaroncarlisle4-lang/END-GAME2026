@@ -1,0 +1,47 @@
+{
+  "finding": "B. BENIGN",
+  "slug": "b_benign",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/b_benign.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nonspecific benign lymphadenopathy",
+      "raw": "Nonspecific benign lymphadenopathy (29%)",
+      "frequency": "29%"
+    },
+    {
+      "name": "Reactive nodal hyperplasia",
+      "raw": "Reactive nodal hyperplasia (breast infection / abscess / biopsy)",
+      "frequency": null
+    },
+    {
+      "name": "Collagen vascular disease: rheumatoid arthritis, SLE",
+      "raw": "Collagen vascular disease: rheumatoid arthritis, SLE",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease: sarcoidosis",
+      "raw": "Granulomatous disease: sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Psoriasis",
+      "raw": "Psoriasis",
+      "frequency": null
+    },
+    {
+      "name": "HIV-related adenopathy",
+      "raw": "HIV-related adenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Silicone-related adenopathy",
+      "raw": "Silicone-related adenopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

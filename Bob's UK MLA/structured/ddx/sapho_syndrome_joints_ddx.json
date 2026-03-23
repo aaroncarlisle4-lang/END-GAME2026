@@ -1,0 +1,22 @@
+{
+  "finding": "Sapho Syndrome — Joints (DDx)",
+  "slug": "sapho_syndrome_joints_ddx",
+  "chapter": "Sapho Syndrome",
+  "source_file": "processed_clusters/sapho_syndrome/sapho_syndrome_joints_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "infectious osteomyelitis / spondylitis",
+      "raw": "infectious osteomyelitis / spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "chronic recurrent multifocal osteomyelitis",
+      "raw": "chronic recurrent multifocal osteomyelitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "osteosclerosis / osteolysis + periosteal new bone formation + bone expansion with | synovial inflammation with juxtaarticular osteoporosis (early) | joint narrowing, marginal erosion, hyperostosis, enthesopathy (later)"
+}

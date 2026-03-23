@@ -1,0 +1,30 @@
+{
+  "name": "GENICULATE HEMANGIOMA",
+  "slug": "geniculate_hemangioma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/geniculate_hemangioma.md",
+  "definition": "venous malformation in region of facial nerve",
+  "demographics": {},
+  "dominant_finding": "expansile honeycomb appearance",
+  "distribution": "",
+  "discriminating_features": [
+    "expansile honeycomb appearance",
+    "intratumoral bone spicules",
+    "bone forming / growth among bone trabeculae (= ossifying hemangioma)",
+    "mass of heterogeneous signal intensity",
+    "avid enhancement"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "expansile honeycomb appearance",
+      "intratumoral bone spicules",
+      "bone forming / growth among bone trabeculae (= ossifying hemangioma)"
+    ],
+    "MR": [
+      "mass of heterogeneous signal intensity",
+      "avid enhancement"
+    ]
+  },
+  "clinical": {}
+}

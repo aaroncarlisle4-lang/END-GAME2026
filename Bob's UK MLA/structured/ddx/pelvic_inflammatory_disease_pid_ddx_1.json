@@ -1,0 +1,27 @@
+{
+  "finding": "Pelvic Inflammatory Disease (Pid) (DDx)",
+  "slug": "pelvic_inflammatory_disease_pid_ddx_1",
+  "chapter": "Pelvic Inflammatory Disease (Pid)",
+  "source_file": "processed_clusters/pelvic_inflammatory_disease_pid/pelvic_inflammatory_disease_pid_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tortuous pelvic veins",
+      "raw": "tortuous pelvic veins (blood flow at Doppler imaging)",
+      "frequency": null
+    },
+    {
+      "name": "dilated fluid-filled bowel",
+      "raw": "dilated fluid-filled bowel (lack of peristalsis)",
+      "frequency": null
+    },
+    {
+      "name": "cystic ovarian neoplasm",
+      "raw": "cystic ovarian neoplasm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "high-SI of fluid on T1WI ← proteinaceous fluid (DDx: hemorrhage) | incomplete longitudinal folds = partially effaced mucosal / submucosal plicae | absence of peritoneal spill | dilated ampullary portion of tube (visualization of mucosal folds confirm intratubal"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Anencephaly (DDx)",
+  "slug": "anencephaly_ddx",
+  "chapter": "Anencephaly",
+  "source_file": "processed_clusters/anencephaly/anencephaly_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "acrania",
+      "raw": "acrania",
+      "frequency": null
+    },
+    {
+      "name": "encephalocele",
+      "raw": "encephalocele",
+      "frequency": null
+    },
+    {
+      "name": "amniotic band syndrome",
+      "raw": "amniotic band syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± cranial soft-tissue mass (= angiomatous stroma) | bulging froglike eyes | short neck | polyhydramnios (40-50%) after 26 weeks GA (← failure of normal fetal swallowing) /"
+}

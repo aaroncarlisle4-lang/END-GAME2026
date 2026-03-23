@@ -1,0 +1,57 @@
+{
+  "finding": "Pregnancy of Unknown Location",
+  "slug": "pregnancy_of_unknown_location",
+  "chapter": "C. SAC VULNERABILITY",
+  "source_file": "processed_clusters/c_sac_vulnerability/pregnancy_of_unknown_location.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "HCG-producing tumor",
+      "raw": "HCG-producing tumor (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Ectopic pregnancy: occult",
+      "raw": "Ectopic pregnancy: occult",
+      "frequency": null
+    },
+    {
+      "name": "Recent completed spontaneous abortion",
+      "raw": "Recent completed spontaneous abortion",
+      "frequency": null
+    },
+    {
+      "name": "Early intrauterine pregnancy In a hemodynamically stable patient with a pregnancy of unknown location, it is less harmful to wait, follow the β-hCG levels, and repeat the US examination than to presumptively treat an ectopic pregnancy.",
+      "raw": "Early intrauterine pregnancy In a hemodynamically stable patient with a pregnancy of unknown location, it is less harmful to wait, follow the β-hCG levels, and repeat the US examination than to presumptively treat an ectopic pregnancy.",
+      "frequency": null
+    },
+    {
+      "name": "Gestational trophoblastic disease: hydatidiform mole, gestational choriocarcinoma",
+      "raw": "Gestational trophoblastic disease: hydatidiform mole, gestational choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian malignant germ cell tumor",
+      "raw": "Ovarian malignant germ cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Nontesticular teratoma",
+      "raw": "Nontesticular teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Nontrophoblastic tumor: hepatoma, neuroendocrine tumor, breast cancer, pancreatic cancer, cervical cancer, gastric cancer, malignant phyllodes tumor",
+      "raw": "Nontrophoblastic tumor: hepatoma, neuroendocrine tumor, breast cancer, pancreatic cancer, cervical cancer, gastric cancer, malignant phyllodes tumor",
+      "frequency": null
+    },
+    {
+      "name": "Spurious laboratory finding",
+      "raw": "Spurious laboratory finding",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  normal pelvic US = transient state of early pregnancy during which no definite IUP is visualized at US with normal adnexa =  positive β-hCG without IUP hCG-producing Tumor"
+}

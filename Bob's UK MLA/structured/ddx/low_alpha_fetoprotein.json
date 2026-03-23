@@ -1,0 +1,42 @@
+{
+  "finding": "Low Alpha-fetoprotein",
+  "slug": "low_alpha_fetoprotein",
+  "chapter": "ELEVATED AMNIOTIC FLUID AFP (AF-AFP",
+  "source_file": "processed_clusters/elevated_amniotic_fluid_afp_af_afp/low_alpha_fetoprotein.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Autosomal trisomy syndromes: trisomy 21, 18, 13 ◊  20% of trisomy 21 fetuses are found in women with low MS-AFP after adjustment for age!",
+      "raw": "Autosomal trisomy syndromes: trisomy 21, 18, 13 ◊  20% of trisomy 21 fetuses are found in women with low MS-AFP after adjustment for age!",
+      "frequency": "20%"
+    },
+    {
+      "name": "Absence of fetal tissues: eg, hydatidiform mole",
+      "raw": "Absence of fetal tissues: eg, hydatidiform mole",
+      "frequency": null
+    },
+    {
+      "name": "Fetal demise",
+      "raw": "Fetal demise",
+      "frequency": null
+    },
+    {
+      "name": "Misdated pregnancy",
+      "raw": "Misdated pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Normal pregnancy",
+      "raw": "Normal pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Patient not pregnant",
+      "raw": "Patient not pregnant",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  MS-AFP ≤ 0.5 / AF-AFP ≤ 0.72 MoM Prevalence:   3%"
+}

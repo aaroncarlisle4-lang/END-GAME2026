@@ -1,0 +1,27 @@
+{
+  "finding": "Peutz-Jeghers Syndrome — Extraintestinal sites: kidney, ureter, gallbladder, bronchial tree, nasal passages (DDx)",
+  "slug": "peutz_jeghers_syndrome_extraintestinal_sites_kidney_ureter_gallbladder_bronchial",
+  "chapter": "Peutz-Jeghers Syndrome",
+  "source_file": "processed_clusters/peutz_jeghers_syndrome/peutz_jeghers_syndrome_extraintestinal_sites_kidney_ureter_gallbladder_bronchial.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "familial adenomatous polyposis",
+      "raw": "familial adenomatous polyposis",
+      "frequency": null
+    },
+    {
+      "name": "juvenile polyposis",
+      "raw": "juvenile polyposis (similar age)",
+      "frequency": null
+    },
+    {
+      "name": "Cowden disease",
+      "raw": "Cowden disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

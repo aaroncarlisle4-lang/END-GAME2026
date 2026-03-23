@@ -1,0 +1,54 @@
+{
+  "name": "CLEIDOCRANIAL DYSOSTOSIS",
+  "slug": "cleidocranial_dysostosis",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/cleidocranial_dysostosis.md",
+  "definition": "CLEIDOCRANIAL DYSPLASIA = MUTATIONAL DYSOSTOSIS autosomal dominant disease with delayed ossification of midline structures (particularly of",
+  "demographics": {},
+  "dominant_finding": "diminished / absent ossification of skull (in early infancy)",
+  "distribution": "",
+  "discriminating_features": [
+    "diminished / absent ossification of skull (in early infancy)",
+    "wormian bones",
+    "widened fontanels + sutures with delayed closure",
+    "persistent metopic suture",
+    "brachycephaly + prominent bossing"
+  ],
+  "other_features": {
+    "general": [],
+    "Skull": [
+      "diminished / absent ossification of skull (in early infancy)",
+      "wormian bones",
+      "widened fontanels + sutures with delayed closure",
+      "persistent metopic suture",
+      "brachycephaly + prominent bossing",
+      "large mandible",
+      "high narrow palate (± cleft)",
+      "hypoplastic paranasal sinuses",
+      "delayed / defective dentition"
+    ],
+    "Chest": [
+      "hypoplasia / absence (10%) of clavicles: usually defective development of lateral (R >",
+      "thorax may be narrowed + bell-shaped",
+      "supernumerary ribs",
+      "incompletely ossified sternum",
+      "hemivertebrae, spondylosis (frequent)"
+    ],
+    "Pelvis": [
+      "delayed ossification of bones forming symphysis pubis (DDx: bladder exstrophy)",
+      "hypoplastic iliac bones"
+    ],
+    "Extremities": [
+      "radius short / absent",
+      "elongated second metacarpals",
+      "pseudoepiphyses of metacarpal bases",
+      "short hypoplastic distal phalanges of hand",
+      "pointed terminal tufts",
+      "coned epiphyses",
+      "coxa vara = deformed / absent femoral necks",
+      "accessory epiphyses in hands + feet (common)",
+      "cephalopelvic disproportion → large fetal head + narrow birth canal of affected maternal"
+    ]
+  },
+  "clinical": {}
+}

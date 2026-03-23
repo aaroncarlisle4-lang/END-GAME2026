@@ -1,0 +1,37 @@
+{
+  "finding": "Choledochal Cyst (DDx)",
+  "slug": "choledochal_cyst_ddx_1",
+  "chapter": "Choledochal Cyst",
+  "source_file": "processed_clusters/choledochal_cyst/choledochal_cyst_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "duodenal atresia; cyst of ovary",
+      "raw": "duodenal atresia; cyst of ovary",
+      "frequency": null
+    },
+    {
+      "name": "mesentery",
+      "raw": "mesentery",
+      "frequency": null
+    },
+    {
+      "name": "omentum",
+      "raw": "omentum",
+      "frequency": null
+    },
+    {
+      "name": "pancreas",
+      "raw": "pancreas",
+      "frequency": null
+    },
+    {
+      "name": "liver",
+      "raw": "liver",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "ballooned / fusiform cyst beneath porta hepatis separate from gallbladder | abrupt change of caliber at junction of dilated segment to normal duct | intrahepatic bile duct dilatation (16%) ← stenosis | right-sided cyst in fetal abdomen + adjacent dilated hepatic ducts"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "C. SLOWLY PROGRESSIVE SWELLING (a) underlying mass",
+  "slug": "c_slowly_progressive_swelling_a_underlying_mass_8a4e47",
+  "chapter": "FACE",
+  "source_file": "processed_clusters/face/c_slowly_progressive_swelling_a_underlying_mass_8a4e47.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Plunging ranula (a)  osseous disease",
+      "raw": "Plunging ranula (a)  osseous disease",
+      "frequency": null
+    },
+    {
+      "name": "Craniofacial fibrous dysplasia",
+      "raw": "Craniofacial fibrous dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Duplication Cyst (DDx)",
+  "slug": "duplication_cyst_ddx_1",
+  "chapter": "Duplication Cyst",
+  "source_file": "processed_clusters/duplication_cyst/duplication_cyst_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "mesenteric cyst",
+      "raw": "mesenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "pancreatic pseudocyst",
+      "raw": "pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "omental cyst",
+      "raw": "omental cyst",
+      "frequency": null
+    },
+    {
+      "name": "exophytic hepatic cyst",
+      "raw": "exophytic hepatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "ovarian cyst",
+      "raw": "ovarian cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "low small bowel obstruction ± soft-tissue mass | cyst may serve as lead point for intussusception"
+}

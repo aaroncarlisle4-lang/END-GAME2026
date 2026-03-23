@@ -1,0 +1,27 @@
+{
+  "finding": "Turner Syndrome (XO",
+  "slug": "turner_syndrome_xo",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/turner_syndrome_xo.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Coarctation of the aorta",
+      "raw": "Coarctation of the aorta (in 15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Bicuspid aortic valve",
+      "raw": "Bicuspid aortic valve",
+      "frequency": null
+    },
+    {
+      "name": "Dissecting aneurysm of aorta",
+      "raw": "Dissecting aneurysm of aorta",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  OVARIAN DYSGENESIS Incidence of CHD:   35%"
+}

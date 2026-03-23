@@ -1,0 +1,25 @@
+{
+  "name": "COLITIS CYSTICA PROFUNDA",
+  "slug": "colitis_cystica_profunda",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/colitis_cystica_profunda.md",
+  "definition": "rare benign chronic condition characterized by dilated sub- mucosal mucin-filled cysts lined",
+  "demographics": {
+    "Etiology": "probably related to chronic inflammation",
+    "Associated with": "solitary rectal ulcer syndrome (as localized polypoid variant)",
+    "Age": "primarily disease of young adults"
+  },
+  "dominant_finding": "nodular polypoid / cauliflower-like lesions < 2 cm in size, containing no gas",
+  "distribution": "",
+  "discriminating_features": [
+    "nodular polypoid / cauliflower-like lesions < 2 cm in size, containing no gas",
+    "spiculations mimicking ulcers (barium-filled clefts between nodules)"
+  ],
+  "other_features": {
+    "general": [
+      "nodular polypoid / cauliflower-like lesions < 2 cm in size, containing no gas",
+      "spiculations mimicking ulcers (barium-filled clefts between nodules)"
+    ]
+  },
+  "clinical": {}
+}

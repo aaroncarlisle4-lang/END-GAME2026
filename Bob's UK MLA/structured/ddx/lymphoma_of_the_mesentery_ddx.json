@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoma Of The Mesentery (DDx)",
+  "slug": "lymphoma_of_the_mesentery_ddx",
+  "chapter": "Lymphoma Of The Mesentery",
+  "source_file": "processed_clusters/lymphoma_of_the_mesentery/lymphoma_of_the_mesentery_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "sclerosing mesenteritis",
+      "raw": "sclerosing mesenteritis",
+      "frequency": null
+    },
+    {
+      "name": "inflammatory infectious / noninfectious disease",
+      "raw": "inflammatory infectious / noninfectious disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mildly enhancing | \"misty mesentery\" = mesenteric fat stranding (especially after chemotherapy) | direct extension into small bowel | displacement of small"
+}

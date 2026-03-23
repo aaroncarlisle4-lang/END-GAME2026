@@ -1,0 +1,32 @@
+{
+  "finding": "Pericardial Uptake",
+  "slug": "pericardial_uptake",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/pericardial_uptake.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Post-radiation pericarditis",
+      "raw": "Post-radiation pericarditis",
+      "frequency": null
+    },
+    {
+      "name": "Malignant pericardial effusion",
+      "raw": "Malignant pericardial effusion",
+      "frequency": null
+    },
+    {
+      "name": "Epipericarditis",
+      "raw": "Epipericarditis",
+      "frequency": null
+    },
+    {
+      "name": "Lipomatous hypertrophy interatrial septum",
+      "raw": "Lipomatous hypertrophy interatrial septum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

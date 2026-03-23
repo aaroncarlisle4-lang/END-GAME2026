@@ -1,0 +1,37 @@
+{
+  "finding": "A. NEUROGENIC TUMORS IN NF1",
+  "slug": "a_neurogenic_tumors_in_nf1",
+  "chapter": "NEUROFIBROMATOSIS",
+  "source_file": "processed_clusters/neurofibromatosis/a_neurogenic_tumors_in_nf1.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Plexiform neurofibroma",
+      "raw": "Plexiform neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant peripheral nerve sheath tumor",
+      "raw": "Malignant peripheral nerve sheath tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioneuroma",
+      "raw": "Ganglioneuroma",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioneuromatosis",
+      "raw": "Ganglioneuromatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

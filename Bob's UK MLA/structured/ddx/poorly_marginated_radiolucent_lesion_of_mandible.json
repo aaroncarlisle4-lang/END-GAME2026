@@ -1,0 +1,48 @@
+{
+  "finding": "Poorly Marginated Radiolucent Lesion of Mandible",
+  "slug": "poorly_marginated_radiolucent_lesion_of_mandible",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/poorly_marginated_radiolucent_lesion_of_mandible.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "INFECTION Cause:   mostly dental caries → irreversible pulpitis → periapical cyst → granuloma → abscess",
+      "raw": "INFECTION Cause:   mostly dental caries → irreversible pulpitis → periapical cyst → granuloma → abscess",
+      "frequency": null
+    },
+    {
+      "name": "Apical periodontitis",
+      "raw": "Apical periodontitis",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis =  infection of bone and marrow",
+      "raw": "Osteomyelitis =  infection of bone and marrow",
+      "frequency": null
+    },
+    {
+      "name": "RADIOTHERAPY",
+      "raw": "RADIOTHERAPY",
+      "frequency": null
+    },
+    {
+      "name": "Osteoradionecrosis",
+      "raw": "Osteoradionecrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "INFECTION Cause:   mostly dental caries → irreversible pulpitis → periapical cyst → granuloma → abscess": [
+      "thickened periodontal ligament space (earliest sign of the cystic form)",
+      "contrast-enhancing rim around abscess"
+    ],
+    "Apical periodontitis": [],
+    "Osteomyelitis =  infection of bone and marrow": [
+      "sequestered bone"
+    ],
+    "RADIOTHERAPY": [],
+    "Osteoradionecrosis": []
+  },
+  "context": "√  \"floating teeth\": suggestive of primary / secondary malignancy √  resorption of tooth root: hallmark of benign process √  thickened periodontal ligament space (earliest sign of the cystic form) √  contrast-enhancing rim around abscess √  focal / diffuse radiolucent / radiopaque lesion √  scattered sclerotic + lytic lesion √  enlarged trabecular spaces √  sequestered bone"
+}

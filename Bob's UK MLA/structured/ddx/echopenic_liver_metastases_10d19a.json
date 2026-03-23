@@ -1,0 +1,37 @@
+{
+  "finding": "Echopenic Liver Metastases",
+  "slug": "echopenic_liver_metastases_10d19a",
+  "chapter": "LIPOMA OF LIVER",
+  "source_file": "processed_clusters/lipoma_of_liver/echopenic_liver_metastases_10d19a.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma   44%",
+      "raw": "Lymphoma   44%",
+      "frequency": "44%"
+    },
+    {
+      "name": "Pancreas   36%",
+      "raw": "Pancreas   36%",
+      "frequency": "36%"
+    },
+    {
+      "name": "Cervical cancer   20%",
+      "raw": "Cervical cancer   20%",
+      "frequency": "20%"
+    },
+    {
+      "name": "Lung",
+      "raw": "Lung (adenocarcinoma)",
+      "frequency": null
+    },
+    {
+      "name": "Nasopharyngeal cancer",
+      "raw": "Nasopharyngeal cancer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   37.5%"
+}

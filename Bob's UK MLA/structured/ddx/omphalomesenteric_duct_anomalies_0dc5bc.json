@@ -1,0 +1,37 @@
+{
+  "finding": "Omphalomesenteric Duct Anomalies",
+  "slug": "omphalomesenteric_duct_anomalies_0dc5bc",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/omphalomesenteric_duct_anomalies_0dc5bc.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meckel Diverticulum",
+      "raw": "Meckel Diverticulum (98%)",
+      "frequency": "98%"
+    },
+    {
+      "name": "Omphalomesenteric fistula",
+      "raw": "Omphalomesenteric fistula",
+      "frequency": null
+    },
+    {
+      "name": "Omphalomesenteric sinus",
+      "raw": "Omphalomesenteric sinus",
+      "frequency": null
+    },
+    {
+      "name": "Omphalomesenteric duct cyst",
+      "raw": "Omphalomesenteric duct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Omphalomesenteric ligament",
+      "raw": "Omphalomesenteric ligament",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

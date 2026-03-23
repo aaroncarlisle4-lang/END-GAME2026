@@ -1,0 +1,39 @@
+{
+  "name": "HEMANGIOMA OF GASTROINTESTINAL TRACT",
+  "slug": "hemangioma_of_gastrointestinal_tract",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/hemangioma_of_gastrointestinal_tract.md",
+  "definition": "unusual single / multiple vascular tumors anywhere in GI tract",
+  "demographics": {
+    "Frequency": "7-10% of all benign small bowel tumors",
+    "Age": "any; commonly during infancy / early childhood",
+    "Path": "submucosal soft infiltrative polypoid mass",
+    "Histo": "cavernous / capillary / mixed",
+    "Location": "jejunum (55%), ileum (42%), duodenum (2%); rare in stomach + colon (mostly"
+  },
+  "dominant_finding": "well-circumscribed avidly enhancing often intraluminal lobulated mass of mixed",
+  "distribution": "jejunum (55%), ileum (42%), duodenum (2%); rare in stomach + colon (mostly",
+  "discriminating_features": [
+    "± virtually PATHOGNOMONIC phleboliths in intestinal wall ← calcified thrombi",
+    "polypoid intramural intraluminal subepithelial mass",
+    "sessile nodular compressible intraluminal filling defect",
+    "segmental transmural circumferential bowel wall thickening = diffuse infiltrating abnormality",
+    "well-circumscribed avidly enhancing often intraluminal lobulated mass of mixed"
+  ],
+  "other_features": {
+    "general": [
+      "polypoid intramural intraluminal subepithelial mass",
+      "sessile nodular compressible intraluminal filling defect",
+      "segmental transmural circumferential bowel wall thickening = diffuse infiltrating abnormality",
+      "± virtually PATHOGNOMONIC phleboliths in intestinal wall ← calcified thrombi"
+    ],
+    "CECT": [
+      "well-circumscribed avidly enhancing often intraluminal lobulated mass of mixed",
+      "slow diffuse enhancement + vascular engorgement within adjacent mesentery around mass"
+    ]
+  },
+  "clinical": {
+    "Rx": "resection ← risk of massive gastrointestinal bleeding",
+    "Prognosis": "involution during childhood"
+  }
+}

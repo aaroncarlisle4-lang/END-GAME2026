@@ -1,0 +1,27 @@
+{
+  "name": "DIFFUSE (MYELINOCLASTIC) SCLEROSIS",
+  "slug": "diffuse_myelinoclastic_sclerosis",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/diffuse_myelinoclastic_sclerosis.md",
+  "definition": "MYELINOCLASTIC DIFFUSE SCLEROSIS = SCHILDER DISEASE rare demyelinating disorder with episodic recurrence + remission",
+  "demographics": {
+    "Age": "children (5-14 years) > adults; M÷F = 1÷1",
+    "Histo": "selective confluent demyelination with relative axonal sparing, perivascular",
+    "Location": "centrum semiovale in both hemispheres"
+  },
+  "dominant_finding": "enhancement with IV contrast material",
+  "distribution": "centrum semiovale in both hemispheres",
+  "discriminating_features": [
+    "large well defined bilateral low-attenuation white matter lesions with mass effect",
+    "enhancement with IV contrast material"
+  ],
+  "other_features": {
+    "general": [
+      "large well defined bilateral low-attenuation white matter lesions with mass effect",
+      "enhancement with IV contrast material"
+    ]
+  },
+  "clinical": {
+    "Rx": "usually responsive to corticosteroids"
+  }
+}

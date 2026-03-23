@@ -1,0 +1,27 @@
+{
+  "finding": "Carcinoma Of Male Breast (DDx)",
+  "slug": "carcinoma_of_male_breast_ddx",
+  "chapter": "Carcinoma Of Male Breast",
+  "source_file": "processed_clusters/carcinoma_of_male_breast/carcinoma_of_male_breast_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "breast abscess",
+      "raw": "breast abscess",
+      "frequency": null
+    },
+    {
+      "name": "gynecomastia",
+      "raw": "gynecomastia",
+      "frequency": null
+    },
+    {
+      "name": "epidermal inclusion cyst",
+      "raw": "epidermal inclusion cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "solid nodules / papillary projections arising along a cyst wall (= papillary carcinoma) | enlarged axillary nodes (in 50% at time of presentation) | invasive ductal carcinoma appears as a solid hypoechoic subareolar mass of irregular | metastases to pleura, lung, bone, liver"
+}

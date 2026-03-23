@@ -1,0 +1,39 @@
+{
+  "name": "BRUNNER GLAND HAMARTOMA",
+  "slug": "brunner_gland_hamartoma",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/brunner_gland_hamartoma.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "1.2% of all gastric polyps; 5% of all duodenal masses",
+    "Etiology": "response to gastric acid in duodenum → glands protect duodenal epithelium +",
+    "Histo": "diffusely enlarged hyperplastic glands of Swiss cheese appearance and variable",
+    "Age": "manifest in middle age; M÷F = 1÷1"
+  },
+  "dominant_finding": "hypoattenuating relative to pancreas (portal venous phase)",
+  "distribution": "smooth single mass ± central ulceration",
+  "discriminating_features": [
+    "multiple nodular filling defects (usually limited to 1st portion of duodenum) with",
+    "smooth single mass ± central ulceration",
+    "heterogeneous echogenicity with various amounts of solid + cystic components",
+    "hypoattenuating relative to pancreas (portal venous phase)",
+    "peripheral rim enhancement (of duodenal mucosa)"
+  ],
+  "other_features": {
+    "general": [
+      "multiple nodular filling defects (usually limited to 1st portion of duodenum) with",
+      "smooth single mass ± central ulceration",
+      "heterogeneous echogenicity with various amounts of solid + cystic components"
+    ],
+    "NECT": [
+      "isoattenuating relative to pancreas"
+    ],
+    "CECT": [
+      "hypoattenuating relative to pancreas (portal venous phase)",
+      "peripheral rim enhancement (of duodenal mucosa)"
+    ]
+  },
+  "clinical": {
+    "Cx": "GI bleeding (chronic melena, hematemesis), intestinal obstruction, intussusception"
+  }
+}

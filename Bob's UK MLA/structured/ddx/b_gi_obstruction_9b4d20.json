@@ -1,0 +1,27 @@
+{
+  "finding": "B. GI OBSTRUCTION",
+  "slug": "b_gi_obstruction_9b4d20",
+  "chapter": "D. PERSISTENT DUCTUS VENOSUS",
+  "source_file": "processed_clusters/d_persistent_ductus_venosus/b_gi_obstruction_9b4d20.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Small bowel obstruction: eg, duodenal atresia",
+      "raw": "Small bowel obstruction: eg, duodenal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Imperforate anus",
+      "raw": "Imperforate anus",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal atresia",
+      "raw": "Esophageal atresia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

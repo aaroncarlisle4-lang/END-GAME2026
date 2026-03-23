@@ -1,0 +1,69 @@
+# Disease: MESENTERIC FIBROMATOSIS
+
+**Source section:** GASTROINTESTINAL AND ABDOMINAL DISORDERS
+
+## Definition
+
+INTRAABDOMINAL FIBROMATOSIS = ABDOMINAL DESMOID part of the spectrum of deep fibromatosis
+
+## Key Facts
+
+- **Incidence:** 2-4 ÷1,000,000 annually
+- **Mean age:** 41 (range, 14-75) years; M÷F=1÷1
+- **Path:** nonencapsulated well-circumscribed mass ± infiltrative margins within muscularis
+- **Histo:** uniform wavy spindle-shaped fibroblasts in a typically uninflamed abundant dense
+- **Associated with:** Gardner subtype of familial adenomatous polyposis (in 5-13%)
+- **Size:** most 5-10 (up to 30) cm in diameter
+
+## Imaging Findings
+
+### General
+
+- displacement of small bowel segments
+- mucosal ulceration ← compromised mesenteric vasculature
+- luminal narrowing / dilatation
+- distorted thickened / effaced small bowel folds
+
+### US
+
+- solid well-circumscribed heterogeneous mass with variable internal echogenicity
+
+### CT
+
+- homogeneous soft-tissue attenuation ← highly collagenous stroma similar to skeletal
+- hypoattenuating mass ← myxoid stroma
+- striated / whorled appearance ← alternating collagenous + myxoid areas
+- bowel tethering = bowel encasement
+- encasement of superior mesenteric vessels
+
+### CECT
+
+- mild homogeneous to heterogeneous enhancement
+- absent enhancement in myxoid lesion
+- similar / greater enhancement compared to muscle in fibrous lesion
+- occasionally marked enhancement
+
+### MR
+
+- hypo- or isointense signal compared to muscle on T1WI
+- heterogeneously intermediate / high SI on T2WI ← depending on cellularity + amount of
+
+### PET
+
+- low to moderate heterogeneous uptake
+- mean SUV of 4.54 (maximally up to 8.30)
+
+## Clinical
+
+- **Cx:** gastrointestinal bleeding, small bowel obstruction, fistula formation, bowel perforation
+- **Prognosis:** proclivity for local recurrence
+- **Rx:** wide surgical excision, less radical surgery / medical therapy with antiestrogens /
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

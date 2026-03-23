@@ -1,0 +1,217 @@
+{
+  "finding": "E. SOFT-TISSUE CALCIFICATION",
+  "slug": "e_soft_tissue_calcification_f5a24a",
+  "chapter": "Autosomal dominant; M < F",
+  "source_file": "processed_clusters/autosomal_dominant_m_f/e_soft_tissue_calcification_f5a24a.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastatic calcification when Ca x P product > 70 mg/dL (a)  cornea, viscera (lung, stomach, kidney) (b)  periarticular in hip, knee, shoulder, wrist (c)  arterial tunica media (resembling diabetes mellitus) (d)  chondrocalcinosis (15-18%) = calcification of hyaline / fibrous cartilage in menisci, wrist, shoulder, hip, elbow (e)  bilateral basal ganglia, dentate nuclei, peripheral subcortical white matter",
+      "raw": "metastatic calcification when Ca x P product > 70 mg/dL (a)  cornea, viscera (lung, stomach, kidney) (b)  periarticular in hip, knee, shoulder, wrist (c)  arterial tunica media (resembling diabetes mellitus) (d)  chondrocalcinosis (15-18%) = calcification of hyaline / fibrous cartilage in menisci, wrist, shoulder, hip, elbow (e)  bilateral basal ganglia, dentate nuclei, peripheral subcortical white matter",
+      "frequency": "18%"
+    },
+    {
+      "name": "subcutaneous necrosis ← ischemia",
+      "raw": "subcutaneous necrosis ← ischemia",
+      "frequency": null
+    },
+    {
+      "name": "± chronic hemodialysis / recent renal transplantation",
+      "raw": "± chronic hemodialysis / recent renal transplantation",
+      "frequency": null
+    },
+    {
+      "name": "EROSIVE ARTHROPATHY",
+      "raw": "EROSIVE ARTHROPATHY",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "PERIOSTEAL NEW-BONE FORMATION",
+      "raw": "PERIOSTEAL NEW-BONE FORMATION",
+      "frequency": null
+    },
+    {
+      "name": "Renal stones / nephrocalcinosis",
+      "raw": "Renal stones / nephrocalcinosis (70%)",
+      "frequency": "70%"
+    },
+    {
+      "name": "Increased osteoblastic activity",
+      "raw": "Increased osteoblastic activity (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "increased alkaline phosphatase (a)  osteitis fibrosa cystica",
+      "raw": "increased alkaline phosphatase (a)  osteitis fibrosa cystica",
+      "frequency": null
+    },
+    {
+      "name": "Peptic ulcer disease ← increased gastric secretion from gastrinoma",
+      "raw": "Peptic ulcer disease ← increased gastric secretion from gastrinoma",
+      "frequency": null
+    },
+    {
+      "name": "Calcific pancreatitis",
+      "raw": "Calcific pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Soft-tissue calcifications",
+      "raw": "Soft-tissue calcifications (2° HPT)",
+      "frequency": null
+    },
+    {
+      "name": "Marginal joint erosions + subarticular collapse",
+      "raw": "Marginal joint erosions + subarticular collapse (DIP, PIP, MCP)",
+      "frequency": null
+    },
+    {
+      "name": "brown tumor",
+      "raw": "brown tumor",
+      "frequency": null
+    },
+    {
+      "name": "chondrocalcinosis (20-30%) ◊  requires surgical Rx",
+      "raw": "chondrocalcinosis (20-30%) ◊  requires surgical Rx",
+      "frequency": "30%"
+    },
+    {
+      "name": "Parathyroid adenoma",
+      "raw": "Parathyroid adenoma (94%): solitary (90%); double adenomas (4%)",
+      "frequency": "94%"
+    },
+    {
+      "name": "Parathyroid hyperplasia of multiple glands(6%): chief cell (4%); clear cell (2%) ◊  Hereditary disorders often involve multiple-gland hyperplasia",
+      "raw": "Parathyroid hyperplasia of multiple glands(6%): chief cell (4%); clear cell (2%) ◊  Hereditary disorders often involve multiple-gland hyperplasia",
+      "frequency": "6%"
+    },
+    {
+      "name": "Parathyroid carcinoma",
+      "raw": "Parathyroid carcinoma (< 1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Wermer syndrome = MEA 1",
+      "raw": "Wermer syndrome = MEA 1 (+ pituitary adenoma + pancreatic islet cell tumor)",
+      "frequency": null
+    },
+    {
+      "name": "Sipple syndrome = MEA 2A (+ medullary thyroid carcinoma + pheochromocytoma) (c)  Hyperparathyroidism-jaw tumor syndrome",
+      "raw": "Sipple syndrome = MEA 2A (+ medullary thyroid carcinoma + pheochromocytoma) (c)  Hyperparathyroidism-jaw tumor syndrome",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic (75-80%): more common due to earlier detection ← widespread availability of laboratory screening for hypercalcemia",
+      "raw": "asymptomatic (75-80%): more common due to earlier detection ← widespread availability of laboratory screening for hypercalcemia",
+      "frequency": "80%"
+    },
+    {
+      "name": "symptomatic (20-25%):",
+      "raw": "symptomatic (20-25%):",
+      "frequency": "25%"
+    },
+    {
+      "name": "weakness, easy fatigability, mild depression, anorexia",
+      "raw": "weakness, easy fatigability, mild depression, anorexia",
+      "frequency": null
+    },
+    {
+      "name": "dementia, depression, constipation",
+      "raw": "dementia, depression, constipation",
+      "frequency": null
+    },
+    {
+      "name": "peptic ulcer disease, pancreatitis, renal calculi",
+      "raw": "peptic ulcer disease, pancreatitis, renal calculi",
+      "frequency": null
+    },
+    {
+      "name": "diffuse bone + joint pain ← osteitis fibrosa cystica",
+      "raw": "diffuse bone + joint pain ← osteitis fibrosa cystica",
+      "frequency": null
+    },
+    {
+      "name": "serum calcium level 1.0 mg/dL above upper limit of normal",
+      "raw": "serum calcium level 1.0 mg/dL above upper limit of normal",
+      "frequency": null
+    },
+    {
+      "name": "24-hour urinary calcium level > 400 mg",
+      "raw": "24-hour urinary calcium level > 400 mg",
+      "frequency": null
+    },
+    {
+      "name": "creatinine clearance reduced by 30%",
+      "raw": "creatinine clearance reduced by 30%",
+      "frequency": "30%"
+    },
+    {
+      "name": "bone mineral density T-score of < −2.5 SD",
+      "raw": "bone mineral density T-score of < −2.5 SD",
+      "frequency": null
+    },
+    {
+      "name": "age < 50 years",
+      "raw": "age < 50 years",
+      "frequency": null
+    },
+    {
+      "name": "undesirability / impossibility of surveillance",
+      "raw": "undesirability / impossibility of surveillance",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy (2nd most common cause): low / suppressed parathyroid hormone levels",
+      "raw": "Malignancy (2nd most common cause): low / suppressed parathyroid hormone levels",
+      "frequency": "most common"
+    },
+    {
+      "name": "Benign familial hypocalciuric hypercalcemia:",
+      "raw": "Benign familial hypocalciuric hypercalcemia:",
+      "frequency": null
+    },
+    {
+      "name": "hypocalcemia → diffuse / adenomatous hyperplasia",
+      "raw": "hypocalcemia → diffuse / adenomatous hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "apparent insensitivity of parathyroid glands to ↑ serum calcium ← dysregulation of normal negative feedback loop (= pseudohyperparathyroidism) ◊  requires medical Rx",
+      "raw": "apparent insensitivity of parathyroid glands to ↑ serum calcium ← dysregulation of normal negative feedback loop (= pseudohyperparathyroidism) ◊  requires medical Rx",
+      "frequency": null
+    },
+    {
+      "name": "dementia, depression; peptic ulcer disease, constipation",
+      "raw": "dementia, depression; peptic ulcer disease, constipation",
+      "frequency": null
+    },
+    {
+      "name": "diffuse joint pain",
+      "raw": "diffuse joint pain",
+      "frequency": null
+    },
+    {
+      "name": "low (hypocalcemia) to normal calcium levels",
+      "raw": "low (hypocalcemia) to normal calcium levels",
+      "frequency": null
+    },
+    {
+      "name": "phosphate retention (hyperphosphatemia) = Ca3(PO4)2 solubility product often exceeded",
+      "raw": "phosphate retention (hyperphosphatemia) = Ca3(PO4)2 solubility product often exceeded",
+      "frequency": null
+    },
+    {
+      "name": "vitamin D deficiency = ⇓ vitamin D serum levels → compensatory ⇑ in PTH production",
+      "raw": "vitamin D deficiency = ⇓ vitamin D serum levels → compensatory ⇑ in PTH production",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "More frequent in 2° HPT Calciphylaxis = calcific uremic arteriolopathy =  systemic medial calcification of arterioles √  calcium deposits in kidney, stomach, heart, lung Prognosis:   high mortality √  simulates rheumatoid arthritis with preserved joint spaces Cause:   PTH-stimulation of osteoblasts Site:   pubic ramus along iliopectineal line (most frequent), humerus, femur, tibia, radius, ulna, metacarpals, metatarsals, phalanges √  linear new bone paralleling cortical surface; may be laminated; often separated from cortex by radiolucent zone √  increase in cortical thickness (if periosteal r"
+}

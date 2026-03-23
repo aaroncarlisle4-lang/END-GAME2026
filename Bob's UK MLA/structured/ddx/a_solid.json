@@ -1,0 +1,32 @@
+{
+  "finding": "A. SOLID",
+  "slug": "a_solid",
+  "chapter": "C. INFILTRATION",
+  "source_file": "processed_clusters/c_infiltration/a_solid.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Fibrolipomatosis",
+      "raw": "Fibrolipomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Column of Bertin",
+      "raw": "Column of Bertin",
+      "frequency": null
+    },
+    {
+      "name": "Duplex kidney",
+      "raw": "Duplex kidney",
+      "frequency": null
+    },
+    {
+      "name": "TCC / RCC",
+      "raw": "TCC / RCC",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

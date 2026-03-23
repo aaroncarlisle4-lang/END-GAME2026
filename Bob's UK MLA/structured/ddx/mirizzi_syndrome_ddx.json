@@ -1,0 +1,22 @@
+{
+  "finding": "Mirizzi Syndrome (DDx)",
+  "slug": "mirizzi_syndrome_ddx",
+  "chapter": "Mirizzi Syndrome",
+  "source_file": "processed_clusters/mirizzi_syndrome/mirizzi_syndrome_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lymphadenopathy",
+      "raw": "lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "neoplasm of GB / CHD",
+      "raw": "neoplasm of GB / CHD",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cholelithiasis with stone in cystic duct | focal stricture of CHD | dilatation of intrahepatic bile ducts + proximal CHD | normal caliber of distal CBD"
+}

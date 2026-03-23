@@ -1,0 +1,47 @@
+{
+  "finding": "A. Primary CNS tumor: medulloblastoma, glioblastoma, pineal tumors",
+  "slug": "a_primary_cns_tumor_medulloblastoma_glioblastoma_pineal_tumors",
+  "chapter": "METACHROMATIC LEUKODYSTROPHY",
+  "source_file": "processed_clusters/metachromatic_leukodystrophy/a_primary_cns_tumor_medulloblastoma_glioblastoma_pineal_tumors.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Secondary tumor: carcinoma of breast + lung, melanoma, NHL, leukemia",
+      "raw": "Secondary tumor: carcinoma of breast + lung, melanoma, NHL, leukemia",
+      "frequency": null
+    },
+    {
+      "name": "headaches (50%), seizures (15%), cauda equina syndrome",
+      "raw": "headaches (50%), seizures (15%), cauda equina syndrome",
+      "frequency": "50%"
+    },
+    {
+      "name": "cranial nerve deficits (40%): visual disturbances, diplopia, hearing loss, facial numbness",
+      "raw": "cranial nerve deficits (40%): visual disturbances, diplopia, hearing loss, facial numbness",
+      "frequency": "40%"
+    },
+    {
+      "name": "mental status changes: lethargy + confusion",
+      "raw": "mental status changes: lethargy + confusion (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "progressive asymmetric weakness of extremities Dx:     harvest of malignant cells ← lumbar puncture positive in 45-55%",
+      "raw": "progressive asymmetric weakness of extremities Dx:     harvest of malignant cells ← lumbar puncture positive in 45-55% (1st puncture), 80% (after several taps)",
+      "frequency": "55%"
+    },
+    {
+      "name": "Dural Meningeal Carcinomatosis »  rarely associated with positive cytology",
+      "raw": "Dural Meningeal Carcinomatosis »  rarely associated with positive cytology",
+      "frequency": null
+    },
+    {
+      "name": "Leptomeningeal Carcinomatosis »  frequently associated with positive cytology",
+      "raw": "Leptomeningeal Carcinomatosis »  frequently associated with positive cytology",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Histo:  adenocarcinoma (75%) Spread: (a)  hematogenous dissemination (most common) (b)  contiguous perineural spread (c)  lymphatic spread (d)  shedding of tumor cells from parenchymal metastases Associated with:   concurrent brain parenchymal metastases (in 20%) ◊  Simultaneous occurrence of symptoms localized to more than one area! N.B.:   Perform MRI prior to lumbar puncture ◊  Lumbar puncture contraindicated if intracranial pressure increased! Location:  basal cisterns, lumbar spine (areas of CSF stasis) √  communicating hydrocephalus ← tumor interferes with CSF reabsorption in pacchionian"
+}

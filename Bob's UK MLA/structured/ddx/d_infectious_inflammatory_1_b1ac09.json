@@ -1,0 +1,27 @@
+{
+  "finding": "D. INFECTIOUS / INFLAMMATORY",
+  "slug": "d_infectious_inflammatory_1_b1ac09",
+  "chapter": "B. HERNIA",
+  "source_file": "processed_clusters/b_hernia/d_infectious_inflammatory_1_b1ac09.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Inflammation of ileopectineal bursa",
+      "raw": "Inflammation of ileopectineal bursa",
+      "frequency": null
+    },
+    {
+      "name": "Synovial osteochondromatosis of hip joint",
+      "raw": "Synovial osteochondromatosis of hip joint",
+      "frequency": null
+    },
+    {
+      "name": "Groin abscess",
+      "raw": "Groin abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

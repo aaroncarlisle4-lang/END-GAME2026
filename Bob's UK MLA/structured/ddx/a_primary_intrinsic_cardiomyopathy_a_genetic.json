@@ -1,0 +1,427 @@
+{
+  "finding": "A. PRIMARY / INTRINSIC CARDIOMYOPATHY (a) genetic",
+  "slug": "a_primary_intrinsic_cardiomyopathy_a_genetic",
+  "chapter": "CARDIOMYOPATHY",
+  "source_file": "processed_clusters/cardiomyopathy/a_primary_intrinsic_cardiomyopathy_a_genetic.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypertrophic cardiomyopathy",
+      "raw": "Hypertrophic cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Arrhythmogenic RV dysplasia",
+      "raw": "Arrhythmogenic RV dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Noncompaction cardiomyopathy",
+      "raw": "Noncompaction cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Glycogen storage disease",
+      "raw": "Glycogen storage disease",
+      "frequency": null
+    },
+    {
+      "name": "Conduction defects",
+      "raw": "Conduction defects",
+      "frequency": null
+    },
+    {
+      "name": "Mitochondrial myopathy",
+      "raw": "Mitochondrial myopathy",
+      "frequency": null
+    },
+    {
+      "name": "Ion channel disorders",
+      "raw": "Ion channel disorders",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory",
+      "raw": "Inflammatory (myocarditis)",
+      "frequency": null
+    },
+    {
+      "name": "Stress provoked",
+      "raw": "Stress provoked",
+      "frequency": null
+    },
+    {
+      "name": "Peripartum",
+      "raw": "Peripartum",
+      "frequency": null
+    },
+    {
+      "name": "Tachycardia induced",
+      "raw": "Tachycardia induced",
+      "frequency": null
+    },
+    {
+      "name": "Infants of diabetic mothers (c)  mixed",
+      "raw": "Infants of diabetic mothers (c)  mixed",
+      "frequency": null
+    },
+    {
+      "name": "Dilated cardiomyopathy",
+      "raw": "Dilated cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Restrictive cardiomyopathy",
+      "raw": "Restrictive cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "SECONDARY CARDIOMYOPATHY (majority of cases) =  characterized by multiorgan involvement (a)  infiltrative: amyloidosis, Gaucher disease, Hurler disease, Hunter disease (b)  storage: hemochromatosis, Fabry disease, glycogen-storage disease type II, Niemann-",
+      "raw": "SECONDARY CARDIOMYOPATHY (majority of cases) =  characterized by multiorgan involvement (a)  infiltrative: amyloidosis, Gaucher disease, Hurler disease, Hunter disease (b)  storage: hemochromatosis, Fabry disease, glycogen-storage disease type II, Niemann-",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Myocarditis: viruses, bacteria",
+      "raw": "Myocarditis: viruses, bacteria",
+      "frequency": null
+    },
+    {
+      "name": "Alcoholism",
+      "raw": "Alcoholism",
+      "frequency": null
+    },
+    {
+      "name": "Pregnancy / post partum",
+      "raw": "Pregnancy / post partum",
+      "frequency": null
+    },
+    {
+      "name": "Endocardial fibroelastosis = thickened endocardium + reduced contractility",
+      "raw": "Endocardial fibroelastosis = thickened endocardium + reduced contractility",
+      "frequency": null
+    },
+    {
+      "name": "Infants of diabetic mothers",
+      "raw": "Infants of diabetic mothers",
+      "frequency": null
+    },
+    {
+      "name": "Inborn error of metabolism: glycogenosis, mucolipidosis, mucopolysaccharidosis",
+      "raw": "Inborn error of metabolism: glycogenosis, mucolipidosis, mucopolysaccharidosis",
+      "frequency": null
+    },
+    {
+      "name": "Coronary artery disease: myocardial infarction, anomalous origin of L coronary artery, coronary calcinosis",
+      "raw": "Coronary artery disease: myocardial infarction, anomalous origin of L coronary artery, coronary calcinosis",
+      "frequency": null
+    },
+    {
+      "name": "Muscular dystrophies",
+      "raw": "Muscular dystrophies",
+      "frequency": null
+    },
+    {
+      "name": "tendency for CHF when EF < 40%",
+      "raw": "tendency for CHF when EF < 40%",
+      "frequency": "40%"
+    },
+    {
+      "name": "Idiopathic (50%) (a)  familial (20-35%): autosomal dominant / recessive, maternal, X chromosome- linked trait",
+      "raw": "Idiopathic (50%) (a)  familial (20-35%): autosomal dominant / recessive, maternal, X chromosome- linked trait",
+      "frequency": "50%"
+    },
+    {
+      "name": "Injury: coronary artery disease, systemic disease, nutritional deficiency, excessive consumption of alcohol, anthracyclines, catecholamines",
+      "raw": "Injury: coronary artery disease, systemic disease, nutritional deficiency, excessive consumption of alcohol, anthracyclines, catecholamines",
+      "frequency": null
+    },
+    {
+      "name": "Infection: viral, bacterial, fungal, rickettsial",
+      "raw": "Infection: viral, bacterial, fungal, rickettsial",
+      "frequency": null
+    },
+    {
+      "name": "Neuromuscular syndromes: Duchenne muscular dystrophy, Friedreich ataxia Histo:  patchy loss of myocytes with progressive replacement by interstitial fibrosis + eccentric hypertrophy of adjacent uninvolved cells",
+      "raw": "Neuromuscular syndromes: Duchenne muscular dystrophy, Friedreich ataxia Histo:  patchy loss of myocytes with progressive replacement by interstitial fibrosis + eccentric hypertrophy of adjacent uninvolved cells",
+      "frequency": null
+    },
+    {
+      "name": "congestive heart failure, progressive dyspnea, orthopnea ◊  3rd most common cause of heart failure after ischemia + valvular disease ◊  Most common cause of heart failure in the young",
+      "raw": "congestive heart failure, progressive dyspnea, orthopnea ◊  3rd most common cause of heart failure after ischemia + valvular disease ◊  Most common cause of heart failure in the young",
+      "frequency": "most common"
+    },
+    {
+      "name": "arrhythmias, thromboembolism",
+      "raw": "arrhythmias, thromboembolism",
+      "frequency": null
+    },
+    {
+      "name": "Asymmetric (septal) HCM   60-70%",
+      "raw": "Asymmetric (septal) HCM   60-70%",
+      "frequency": "70%"
+    },
+    {
+      "name": "Apical HCM   2-25%",
+      "raw": "Apical HCM   2-25%",
+      "frequency": "25%"
+    },
+    {
+      "name": "Symmetric (concentric) HCM   in up to 42%",
+      "raw": "Symmetric (concentric) HCM   in up to 42%",
+      "frequency": "42%"
+    },
+    {
+      "name": "Midventricular HCM",
+      "raw": "Midventricular HCM",
+      "frequency": null
+    },
+    {
+      "name": "Masslike HCM",
+      "raw": "Masslike HCM",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic, fatigue, systolic murmur",
+      "raw": "asymptomatic, fatigue, systolic murmur",
+      "frequency": null
+    },
+    {
+      "name": "dyspnea on exertion (75%) ← impaired diastolic function ← impaired LV filling + preserved systolic function:",
+      "raw": "dyspnea on exertion (75%) ← impaired diastolic function ← impaired LV filling + preserved systolic function:",
+      "frequency": "75%"
+    },
+    {
+      "name": "elevated LV diastolic pressure",
+      "raw": "elevated LV diastolic pressure",
+      "frequency": null
+    },
+    {
+      "name": "angina (66%) ← LV outflow obstruction + decreased flow through intramural coronary arteries",
+      "raw": "angina (66%) ← LV outflow obstruction + decreased flow through intramural coronary arteries",
+      "frequency": "66%"
+    },
+    {
+      "name": "syncope ← arrhythmia / decreased cardiac output during exercise because of LV outflow obstruction",
+      "raw": "syncope ← arrhythmia / decreased cardiac output during exercise because of LV outflow obstruction",
+      "frequency": null
+    },
+    {
+      "name": "high voltage + inverted T waves at ECG",
+      "raw": "high voltage + inverted T waves at ECG",
+      "frequency": null
+    },
+    {
+      "name": "sudden cardiac death in children",
+      "raw": "sudden cardiac death in children (5% risk annually)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Family history of sudden cardiac death",
+      "raw": "Family history of sudden cardiac death",
+      "frequency": null
+    },
+    {
+      "name": "Unexplained syncope",
+      "raw": "Unexplained syncope",
+      "frequency": null
+    },
+    {
+      "name": "Nonsustained ventricular tachycardia = greater than 3 beats at ≥ 120 bpm",
+      "raw": "Nonsustained ventricular tachycardia = greater than 3 beats at ≥ 120 bpm",
+      "frequency": null
+    },
+    {
+      "name": "Hypotensive / blunted blood pressure response to exercise = rise of systolic pressure < 20 mmHg",
+      "raw": "Hypotensive / blunted blood pressure response to exercise = rise of systolic pressure < 20 mmHg",
+      "frequency": null
+    },
+    {
+      "name": "LV wall thickness of ≥ 30 mm",
+      "raw": "LV wall thickness of ≥ 30 mm",
+      "frequency": null
+    },
+    {
+      "name": "LVOT obstruction with gradient of ≥ 30 mmHg at rest or ≥ 50 mmHg with provocation",
+      "raw": "LVOT obstruction with gradient of ≥ 30 mmHg at rest or ≥ 50 mmHg with provocation",
+      "frequency": null
+    },
+    {
+      "name": "LV dilatation with depressed ejection fraction",
+      "raw": "LV dilatation with depressed ejection fraction",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosis",
+      "raw": "Fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Perfusion defect",
+      "raw": "Perfusion defect",
+      "frequency": null
+    },
+    {
+      "name": "Reduced functional reserve flow",
+      "raw": "Reduced functional reserve flow",
+      "frequency": null
+    },
+    {
+      "name": "Establish diagnosis",
+      "raw": "Establish diagnosis",
+      "frequency": null
+    },
+    {
+      "name": "Monitor gene carriers without phenotypic hypertrophic cardiomyopathy for development of the disease",
+      "raw": "Monitor gene carriers without phenotypic hypertrophic cardiomyopathy for development of the disease",
+      "frequency": null
+    },
+    {
+      "name": "Screen family members of affected individuals",
+      "raw": "Screen family members of affected individuals",
+      "frequency": null
+    },
+    {
+      "name": "Help stratify risk for sudden cardiac death",
+      "raw": "Help stratify risk for sudden cardiac death",
+      "frequency": null
+    },
+    {
+      "name": "Evaluate for complications",
+      "raw": "Evaluate for complications",
+      "frequency": null
+    },
+    {
+      "name": "usually clinically benign (no obstruction to LV flow), rarely associated with sudden cardiac death",
+      "raw": "usually clinically benign (no obstruction to LV flow), rarely associated with sudden cardiac death",
+      "frequency": null
+    },
+    {
+      "name": "frequently complicated by hypertension",
+      "raw": "frequently complicated by hypertension",
+      "frequency": null
+    },
+    {
+      "name": "giant (negative) inverted T-wave",
+      "raw": "giant (negative) inverted T-wave",
+      "frequency": null
+    },
+    {
+      "name": "Absolute apical wall thickness > 15 mm (typically most evident in anteroseptal myocardium) or",
+      "raw": "Absolute apical wall thickness > 15 mm (typically most evident in anteroseptal myocardium) or",
+      "frequency": null
+    },
+    {
+      "name": "Thicknessapical wall ÷ Thicknessbasal LV wall = 1.3-1.5",
+      "raw": "Thicknessapical wall ÷ Thicknessbasal LV wall = 1.3-1.5",
+      "frequency": null
+    },
+    {
+      "name": "palpitations, fatigue, heart failure syncope, chest pain",
+      "raw": "palpitations, fatigue, heart failure syncope, chest pain",
+      "frequency": null
+    },
+    {
+      "name": "sustained monomorphic ventricular tachycardia with left bundle-branch block during exercise",
+      "raw": "sustained monomorphic ventricular tachycardia with left bundle-branch block during exercise",
+      "frequency": null
+    },
+    {
+      "name": "sudden cardiac death with physical exertion (rare) Prevalence:   1÷1,000-1÷5,000; increase during 15-20 years of age; familial in up to 50%",
+      "raw": "sudden cardiac death with physical exertion (rare) Prevalence:   1÷1,000-1÷5,000; increase during 15-20 years of age; familial in up to 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "Physiologic myocardial fat",
+      "raw": "Physiologic myocardial fat (normal myocardial thickness + size of RV)",
+      "frequency": null
+    },
+    {
+      "name": "Healed MI",
+      "raw": "Healed MI (coronary artery territory, subendocardial location)",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac sarcoidosis",
+      "raw": "Cardiac sarcoidosis (left / biventricular enlargement)",
+      "frequency": null
+    },
+    {
+      "name": "Unrecognized shunt lesion: ASD, PAPVR",
+      "raw": "Unrecognized shunt lesion: ASD, PAPVR",
+      "frequency": null
+    },
+    {
+      "name": "Pectus excavatum",
+      "raw": "Pectus excavatum (restricted motion of basolateral + inferolateral RV wall, narrowing of RV base with relative enlargement of RV apex + RVOT)",
+      "frequency": null
+    },
+    {
+      "name": "Septal thickness ≥ 15 mm (typically most evident in anteroseptal myocardium) or",
+      "raw": "Septal thickness ≥ 15 mm (typically most evident in anteroseptal myocardium) or",
+      "frequency": null
+    },
+    {
+      "name": "Thickness septum ÷ Thickness inferior LV wall > 1.5 at midventricular level",
+      "raw": "Thickness septum ÷ Thickness inferior LV wall > 1.5 at midventricular level",
+      "frequency": null
+    },
+    {
+      "name": "Hypertrophic obstructive cardiomyopathy =  gradient between LV outflow tract + aorta at rest and/or with provocation Cause:   systolic anterior motion of MV leaflets + midsystolic contact of MV leaflets with IVS",
+      "raw": "Hypertrophic obstructive cardiomyopathy =  gradient between LV outflow tract + aorta at rest and/or with provocation Cause:   systolic anterior motion of MV leaflets + midsystolic contact of MV leaflets with IVS",
+      "frequency": null
+    },
+    {
+      "name": "Nonobstructive cardiomyopathy =  no systolic obstruction of LV outflow tract",
+      "raw": "Nonobstructive cardiomyopathy =  no systolic obstruction of LV outflow tract",
+      "frequency": null
+    },
+    {
+      "name": "mitral regurgitation",
+      "raw": "mitral regurgitation",
+      "frequency": null
+    },
+    {
+      "name": "ventricular arrhythmia, myocardial necrosis",
+      "raw": "ventricular arrhythmia, myocardial necrosis",
+      "frequency": null
+    },
+    {
+      "name": "systemic embolism",
+      "raw": "systemic embolism",
+      "frequency": null
+    },
+    {
+      "name": "commonly in older women (a)  midventricular (b)  diffuse",
+      "raw": "commonly in older women (a)  midventricular (b)  diffuse",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic; supraventricular / ventricular arrhythmia",
+      "raw": "asymptomatic; supraventricular / ventricular arrhythmia",
+      "frequency": null
+    },
+    {
+      "name": "congestive heart failure, embolic event, sudden cardiac death",
+      "raw": "congestive heart failure, embolic event, sudden cardiac death",
+      "frequency": null
+    },
+    {
+      "name": "increasing dyspnea + exercise intolerance",
+      "raw": "increasing dyspnea + exercise intolerance",
+      "frequency": null
+    },
+    {
+      "name": "palpitations, syncopal attacks, conduction disturbances",
+      "raw": "palpitations, syncopal attacks, conduction disturbances",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(b)  acquired Pick disease (c)  toxicity: drugs, heavy metals, chemical agents (d)  endomyocardial: endomyocardial fibrosis, hypereosinophilic syndrome (Löffler endocarditis) (e)  inflammatory: sarcoidosis (f)  endocrine: diabetes mellitus, hyperparathyroidism, hyper- / hypothyroidism, pheochromocytoma, acromegaly (g)  neurologic: Friedreich ataxia, Duchenne-Becker muscular dystrophy, myotonic dystrophy, neurofibromatosis, tuberous sclerosis (h)  autoimmune: SLE, dermatomyositis, rheumatoid arthritis, scleroderma, polyarteritis nodosa (i)  electrolyte imbalance: deficiencies of potassium, phos"
+}

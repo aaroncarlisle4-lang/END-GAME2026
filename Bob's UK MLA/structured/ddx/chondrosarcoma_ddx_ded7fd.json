@@ -1,0 +1,32 @@
+{
+  "finding": "Chondrosarcoma (DDx)",
+  "slug": "chondrosarcoma_ddx_ded7fd",
+  "chapter": "Chondrosarcoma",
+  "source_file": "processed_clusters/chondrosarcoma/chondrosarcoma_ddx_ded7fd.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "benign enchondroma",
+      "raw": "benign enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "osteochondroma",
+      "raw": "osteochondroma",
+      "frequency": null
+    },
+    {
+      "name": "osteosarcoma",
+      "raw": "osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "fibrosarcoma",
+      "raw": "fibrosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "late: loss of definition + break through cortex: | pathologic fracture (in 3-17% at initial presentation) | endosteal cortical thickening, sometimes at a distance from the tumor ← invasion of | presence of large soft-tissue mass"
+}

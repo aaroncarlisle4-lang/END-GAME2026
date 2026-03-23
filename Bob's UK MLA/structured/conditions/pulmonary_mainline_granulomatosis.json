@@ -1,0 +1,30 @@
+{
+  "name": "PULMONARY MAINLINE GRANULOMATOSIS",
+  "slug": "pulmonary_mainline_granulomatosis",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/pulmonary_mainline_granulomatosis.md",
+  "definition": "PULMONARY TALCOSIS pulmonary microembolism in drug addicts ← chronic IV injection of suspensions prepared",
+  "demographics": {
+    "Path": "multiple scattered whitish nodules of 0.3-3 mm converging into gritty fibrotic masses in",
+    "Histo": "widespread granulomas packed with doubly refractile talc particles expanding the"
+  },
+  "dominant_finding": "widespread micronodularity of \"pinpoint\" size (1-2-3 mm) with perihilar / basilar",
+  "distribution": "widespread micronodularity of \"pinpoint\" size (1-2-3 mm) with perihilar / basilar",
+  "discriminating_features": [
+    "widespread micronodularity of \"pinpoint\" size (1-2-3 mm) with perihilar / basilar",
+    "well-defined nodules predominantly in middle zones",
+    "loss of lung volume of upper lobes + hilar elevation + hyperlucency at lung bases",
+    "indistinctly marginated coalescent opacities similar to progressive massive fibrosis (DDx:"
+  ],
+  "other_features": {
+    "general": [
+      "widespread micronodularity of \"pinpoint\" size (1-2-3 mm) with perihilar / basilar",
+      "well-defined nodules predominantly in middle zones",
+      "loss of lung volume of upper lobes + hilar elevation + hyperlucency at lung bases",
+      "indistinctly marginated coalescent opacities similar to progressive massive fibrosis (DDx:"
+    ]
+  },
+  "clinical": {
+    "Cx": "mycotic pulmonary artery aneurysm; right-sided endocarditis with septic emboli; chronic"
+  }
+}

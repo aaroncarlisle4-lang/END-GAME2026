@@ -1,0 +1,97 @@
+{
+  "finding": "B. HEMODYNAMICS",
+  "slug": "b_hemodynamics",
+  "chapter": "PORCELAIN GALLBLADDER",
+  "source_file": "processed_clusters/porcelain_gallbladder/b_hemodynamics.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Direction of flow in: extrahepatic portal vein, R + L portal vein, SMV, splenic vein, all 3 hepatic veins, intrahepatic IVC, paraumbilical vein, coronary vein",
+      "raw": "Direction of flow in: extrahepatic portal vein, R + L portal vein, SMV, splenic vein, all 3 hepatic veins, intrahepatic IVC, paraumbilical vein, coronary vein",
+      "frequency": null
+    },
+    {
+      "name": "Peak blood flow velocity within main portal vein",
+      "raw": "Peak blood flow velocity within main portal vein",
+      "frequency": null
+    },
+    {
+      "name": "Peak blood flow velocity within proximal + mid + distal aspects of stent",
+      "raw": "Peak blood flow velocity within proximal + mid + distal aspects of stent",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic artery: PSV, EDV, RI",
+      "raw": "Hepatic artery: PSV, EDV, RI",
+      "frequency": null
+    },
+    {
+      "name": "Shunt obstruction",
+      "raw": "Shunt obstruction (38%)",
+      "frequency": "38%"
+    },
+    {
+      "name": "Hepatic vein stenosis",
+      "raw": "Hepatic vein stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic artery pseudoaneurysm",
+      "raw": "Hepatic artery pseudoaneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Arterioportal fistula",
+      "raw": "Arterioportal fistula",
+      "frequency": null
+    },
+    {
+      "name": "Intrahepatic / subcapsular hematoma",
+      "raw": "Intrahepatic / subcapsular hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemoperitoneum ← penetration of liver capsule (b)  Biliary injury",
+      "raw": "Hemoperitoneum ← penetration of liver capsule (b)  Biliary injury",
+      "frequency": null
+    },
+    {
+      "name": "Transient bile duct dilatation ← hemobilia",
+      "raw": "Transient bile duct dilatation ← hemobilia",
+      "frequency": null
+    },
+    {
+      "name": "Bile collection",
+      "raw": "Bile collection",
+      "frequency": null
+    },
+    {
+      "name": "Stent dislodgment with embolization to right atrium, pulmonary artery, internal jugular vein",
+      "raw": "Stent dislodgment with embolization to right atrium, pulmonary artery, internal jugular vein",
+      "frequency": null
+    },
+    {
+      "name": "recurrent bleeding = shunt abnormality in 100%",
+      "raw": "recurrent bleeding = shunt abnormality in 100%",
+      "frequency": "100%"
+    },
+    {
+      "name": "> 50% STENOSIS (in 30-80% within 12 months) =  > 50% reduction in diameter of stent lumen / portal pressure gradient > 12-15 mmHg Site:  hepatic vein between stent + IVC > hepatic venous end > in-stent > portal venous end",
+      "raw": "> 50% STENOSIS (in 30-80% within 12 months) =  > 50% reduction in diameter of stent lumen / portal pressure gradient > 12-15 mmHg Site:  hepatic vein between stent + IVC > hepatic venous end > in-stent > portal venous end",
+      "frequency": "50%"
+    },
+    {
+      "name": "OCCLUSION",
+      "raw": "OCCLUSION",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  high-velocity turbulent flow (50-270 cm/sec) at least double that of pre-TIPS values √  superimposed cardiac + respiratory variations √  increase in hepatic artery velocities from 77 cm/sec (pre-TIPS) to 119 cm/sec (post-TIPS) √  reversed flow direction within portal vein branches Cx:   A.  Obstruction to flow (a)  Vascular injury Mortality:  < 2% (intraperitoneal hemorrhage) TIPS Malfunction / Failure Cause:    acute thrombosis, improper stent placement, intimal hyperplasia, change in stent configuration, bulging of liver parenchyma into shunt, iatrogenic dissection of portal vein Prevalen"
+}

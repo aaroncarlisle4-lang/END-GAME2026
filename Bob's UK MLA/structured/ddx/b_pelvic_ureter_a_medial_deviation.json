@@ -1,0 +1,57 @@
+{
+  "finding": "B. PELVIC URETER (a) medial deviation",
+  "slug": "b_pelvic_ureter_a_medial_deviation",
+  "chapter": "B. SMOOTH MUSCLE DYSFUNCTION",
+  "source_file": "processed_clusters/b_smooth_muscle_dysfunction/b_pelvic_ureter_a_medial_deviation.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypertrophy of iliopsoas muscle",
+      "raw": "Hypertrophy of iliopsoas muscle",
+      "frequency": null
+    },
+    {
+      "name": "Enlargement of iliac lymph nodes",
+      "raw": "Enlargement of iliac lymph nodes",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal dilatation of iliac vessels",
+      "raw": "Aneurysmal dilatation of iliac vessels",
+      "frequency": null
+    },
+    {
+      "name": "Bladder diverticulum at UVJ",
+      "raw": "Bladder diverticulum at UVJ (= Hutch diverticulum)",
+      "frequency": null
+    },
+    {
+      "name": "Following abdominoperineal surgery + retroperitoneal lymph node dissection",
+      "raw": "Following abdominoperineal surgery + retroperitoneal lymph node dissection",
+      "frequency": null
+    },
+    {
+      "name": "Pelvic lipomatosis (b)  lateral deviation with extrinsic compression",
+      "raw": "Pelvic lipomatosis (b)  lateral deviation with extrinsic compression",
+      "frequency": null
+    },
+    {
+      "name": "Pelvic mass: eg, fibroids, ovarian tumor",
+      "raw": "Pelvic mass: eg, fibroids, ovarian tumor",
+      "frequency": null
+    },
+    {
+      "name": "Herniated ureter through inguinal canal",
+      "raw": "Herniated ureter through inguinal canal",
+      "frequency": null
+    },
+    {
+      "name": "INTENTIONAL SURGICAL DIVERSION ileal conduit, continent cutaneous diversion, orthotopic neobladder",
+      "raw": "INTENTIONAL SURGICAL DIVERSION ileal conduit, continent cutaneous diversion, orthotopic neobladder",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

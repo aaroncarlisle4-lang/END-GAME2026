@@ -1,0 +1,27 @@
+{
+  "finding": "B. BENIGN",
+  "slug": "b_benign_3",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/b_benign_3.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Stone impacted in ampulla of Vater",
+      "raw": "Stone impacted in ampulla of Vater",
+      "frequency": null
+    },
+    {
+      "name": "Papillary / ampullary stenosis",
+      "raw": "Papillary / ampullary stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic pancreatitis",
+      "raw": "Chronic pancreatitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

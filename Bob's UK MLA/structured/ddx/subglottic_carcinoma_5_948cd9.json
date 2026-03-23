@@ -1,0 +1,37 @@
+{
+  "finding": "Subglottic Carcinoma (5%",
+  "slug": "subglottic_carcinoma_5_948cd9",
+  "chapter": "LABYRINTHITIS",
+  "source_file": "processed_clusters/labyrinthitis/subglottic_carcinoma_5_948cd9.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "late detection due to minimal symptomatology",
+      "raw": "late detection due to minimal symptomatology (stridor)",
+      "frequency": null
+    },
+    {
+      "name": "T1 confined to subglottis",
+      "raw": "T1 confined to subglottis",
+      "frequency": null
+    },
+    {
+      "name": "T2 extension to vocal cords ± impaired mobility",
+      "raw": "T2 extension to vocal cords ± impaired mobility",
+      "frequency": null
+    },
+    {
+      "name": "T3 tumor confined to larynx + cord fixation",
+      "raw": "T3 tumor confined to larynx + cord fixation",
+      "frequency": null
+    },
+    {
+      "name": "T4 cartilage destruction / extension beyond larynx",
+      "raw": "T4 cartilage destruction / extension beyond larynx",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Stage: √  any tissue seen on airway side of cricoid cartilage Prognosis:  poor due to early metastases to cervical lymph nodes (in 25% at presentation)"
+}

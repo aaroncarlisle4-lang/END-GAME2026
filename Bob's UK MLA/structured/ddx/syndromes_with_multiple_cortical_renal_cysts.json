@@ -1,0 +1,62 @@
+{
+  "finding": "Syndromes with Multiple Cortical Renal Cysts",
+  "slug": "syndromes_with_multiple_cortical_renal_cysts",
+  "chapter": "Potter Classification",
+  "source_file": "processed_clusters/potter_classification/syndromes_with_multiple_cortical_renal_cysts.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Von Hippel-Lindau syndrome",
+      "raw": "Von Hippel-Lindau syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Meckel-Gruber syndrome",
+      "raw": "Meckel-Gruber syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Jeune syndrome",
+      "raw": "Jeune syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Zellweger syndrome = cerebrohepatorenal syndrome",
+      "raw": "Zellweger syndrome = cerebrohepatorenal syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Conradi syndrome = chondrodysplasia punctata",
+      "raw": "Conradi syndrome = chondrodysplasia punctata",
+      "frequency": null
+    },
+    {
+      "name": "Orofacialdigital syndrome",
+      "raw": "Orofacialdigital syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Trisomy 13",
+      "raw": "Trisomy 13",
+      "frequency": null
+    },
+    {
+      "name": "Turner syndrome",
+      "raw": "Turner syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Dandy-Walker malformation",
+      "raw": "Dandy-Walker malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

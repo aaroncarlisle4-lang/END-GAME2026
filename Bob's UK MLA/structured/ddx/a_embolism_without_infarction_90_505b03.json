@@ -1,0 +1,167 @@
+{
+  "finding": "A. EMBOLISM WITHOUT INFARCTION (90%",
+  "slug": "a_embolism_without_infarction_90_505b03",
+  "chapter": "Organism: Pseudomonas aeruginosa, Gram-negative",
+  "source_file": "processed_clusters/organism_pseudomonas_aeruginosa_gram_negative/a_embolism_without_infarction_90_505b03.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "EMBOLISM WITH INFARCTION",
+      "raw": "EMBOLISM WITH INFARCTION (10-60%) =  any opacity developing as a result of thromboembolic disease; more likely to develop in presence of cardiopulmonary disease with obstruction of pulmonary venous outflow (diagnosed in retrospect)",
+      "frequency": "60%"
+    },
+    {
+      "name": "complete infarction = hemorrhagic infarction with necrosis of lung parenchyma remaining permanently Prognosis:   majority of pulmonary thromboemboli resolve with appropriate therapy",
+      "raw": "complete infarction = hemorrhagic infarction with necrosis of lung parenchyma remaining permanently Prognosis:   majority of pulmonary thromboemboli resolve with appropriate therapy",
+      "frequency": null
+    },
+    {
+      "name": "sudden onset of chest pain, acute dyspnea",
+      "raw": "sudden onset of chest pain, acute dyspnea",
+      "frequency": null
+    },
+    {
+      "name": "hemoptysis occasionally",
+      "raw": "hemoptysis occasionally",
+      "frequency": null
+    },
+    {
+      "name": "enzyme-linked immunosorbent D-dimer assay test (detects one of the products of fibrin breakdown) > 500 µg/L",
+      "raw": "enzyme-linked immunosorbent D-dimer assay test (detects one of the products of fibrin breakdown) > 500 µg/L",
+      "frequency": null
+    },
+    {
+      "name": "Breathing artifact in tachypneic patient",
+      "raw": "Breathing artifact in tachypneic patient",
+      "frequency": null
+    },
+    {
+      "name": "Too short / long scanning delay",
+      "raw": "Too short / long scanning delay",
+      "frequency": null
+    },
+    {
+      "name": "Unilateral increase in vascular resistance",
+      "raw": "Unilateral increase in vascular resistance",
+      "frequency": null
+    },
+    {
+      "name": "R-to-L shunt",
+      "raw": "R-to-L shunt",
+      "frequency": null
+    },
+    {
+      "name": "Window setting",
+      "raw": "Window setting",
+      "frequency": null
+    },
+    {
+      "name": "Partial voluming",
+      "raw": "Partial voluming",
+      "frequency": null
+    },
+    {
+      "name": "Peribronchial lymph node",
+      "raw": "Peribronchial lymph node",
+      "frequency": null
+    },
+    {
+      "name": "Unopacified veins",
+      "raw": "Unopacified veins",
+      "frequency": null
+    },
+    {
+      "name": "Mucus-filled bronchi",
+      "raw": "Mucus-filled bronchi",
+      "frequency": null
+    },
+    {
+      "name": "Perivascular edema",
+      "raw": "Perivascular edema",
+      "frequency": null
+    },
+    {
+      "name": "Indeterminate V/Q scan with high clinical suspicion + risky anticoagulation therapy",
+      "raw": "Indeterminate V/Q scan with high clinical suspicion + risky anticoagulation therapy (angio within 24 hours)",
+      "frequency": null
+    },
+    {
+      "name": "Mismatch between interpretation + clinical findings",
+      "raw": "Mismatch between interpretation + clinical findings",
+      "frequency": null
+    },
+    {
+      "name": "Significant risk for anticoagulation + high probability for PE",
+      "raw": "Significant risk for anticoagulation + high probability for PE",
+      "frequency": null
+    },
+    {
+      "name": "Specific diagnosis necessary for proper management",
+      "raw": "Specific diagnosis necessary for proper management (vasculitis, drug induced, lung cancer with predominant vascular involvement)",
+      "frequency": null
+    },
+    {
+      "name": "Prior to intervention: pulmonary embolectomy, caval ligation, caval filter placement",
+      "raw": "Prior to intervention: pulmonary embolectomy, caval ligation, caval filter placement",
+      "frequency": null
+    },
+    {
+      "name": "Patients too ill to undergo V/Q scan",
+      "raw": "Patients too ill to undergo V/Q scan",
+      "frequency": null
+    },
+    {
+      "name": "left bundle branch block: requires temporary pacing wire prior to right heart catheterization",
+      "raw": "left bundle branch block: requires temporary pacing wire prior to right heart catheterization",
+      "frequency": null
+    },
+    {
+      "name": "marginal cardiac function: therapy must be available to treat frank pulmonary edema",
+      "raw": "marginal cardiac function: therapy must be available to treat frank pulmonary edema",
+      "frequency": null
+    },
+    {
+      "name": "Right ventricular end diastolic pressure > 20 mmHg: selective catheterization with occlusion balloon",
+      "raw": "Right ventricular end diastolic pressure > 20 mmHg: selective catheterization with occlusion balloon",
+      "frequency": null
+    },
+    {
+      "name": "Allergy to iodinated contrast media",
+      "raw": "Allergy to iodinated contrast media",
+      "frequency": null
+    },
+    {
+      "name": "Renal insufficiency",
+      "raw": "Renal insufficiency",
+      "frequency": null
+    },
+    {
+      "name": "Weight limit of CT table exceeded",
+      "raw": "Weight limit of CT table exceeded",
+      "frequency": null
+    },
+    {
+      "name": "Heparin IV: 10,000-15,000 units as initial dose; 8,000-10,000 units/hour during diagnostic evaluation; continued for 10-14 days",
+      "raw": "Heparin IV: 10,000-15,000 units as initial dose; 8,000-10,000 units/hour during diagnostic evaluation; continued for 10-14 days",
+      "frequency": null
+    },
+    {
+      "name": "Streptokinase: better results with massive PE",
+      "raw": "Streptokinase: better results with massive PE",
+      "frequency": null
+    },
+    {
+      "name": "Urokinase: slightly better than streptokinase",
+      "raw": "Urokinase: slightly better than streptokinase",
+      "frequency": null
+    },
+    {
+      "name": "Coumadin: maintained for at least 3 months",
+      "raw": "Coumadin: maintained for at least 3 months (15% complication rate)",
+      "frequency": "15%"
+    }
+  ],
+  "criteria": {},
+  "context": "Histo:   hemorrhage + edema Histo:   (1)  incomplete infarction = reversible transient hemorrhagic congestion / edema usually resolving over several days to weeks Acute Pulmonary Thromboembolism ◊  Hypertension disappears as emboli lyse Mortality: 3÷1,000 surgical procedures; 200,000 deaths in 1975; 7-10% of all autopsies (death within first hour of PE in most patients); 26-30% if untreated; 3-10% if treated; 50-58% / 8-15% with hemodynamic instability / stability ◊  Healthy patients may survive obstruction of 50-60% of vascular bed, fatal if > 60% of pulmonary bed obstructed Assessment of sev"
+}

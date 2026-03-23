@@ -1,0 +1,40 @@
+{
+  "name": "ASPIRATION PNEUMONIA",
+  "slug": "aspiration_pneumonia",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/aspiration_pneumonia.md",
+  "definition": "aspiration of gastric acid with a pH < 2.5",
+  "demographics": {
+    "Frequency": "4-8÷1000 inpatients in USA → 50,000 deaths each year from Cx of aspiration",
+    "Associated with": "Zenker diverticulum, esophageal stenosis, achalasia, tracheoesophageal",
+    "Location": "posterior upper lobe segments + superior lower lobe segments (with patient in"
+  },
+  "dominant_finding": "patchy bronchopneumonic pattern",
+  "distribution": "posterior upper lobe segments + superior lower lobe segments (with patient in",
+  "discriminating_features": [
+    "patchy bronchopneumonic pattern",
+    "lobar / segmental consolidation in dependent portion",
+    "necrotizing pneumonia",
+    "abscess formation",
+    "recurring segmental consolidation"
+  ],
+  "other_features": {
+    "general": [
+      "patchy bronchopneumonic pattern",
+      "lobar / segmental consolidation in dependent portion",
+      "necrotizing pneumonia",
+      "abscess formation",
+      "recurring segmental consolidation",
+      "progression to interstitial scarring (= localized honeycomb appearance)",
+      "bronchopneumonic infiltrates of variable location over months / years",
+      "residual peribronchial scarring",
+      "abnormal swallowing / aspiration",
+      "bilateral perihilar ill-defined alveolar consolidations",
+      "multifocal patchy infiltrates",
+      "segmental / lobar consolidation localized to one / both lung bases"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "20-65% mortality in patients > 65 years of age"
+  }
+}

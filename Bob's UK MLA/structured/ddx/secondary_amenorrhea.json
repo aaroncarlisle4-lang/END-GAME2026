@@ -1,0 +1,32 @@
+{
+  "finding": "Secondary Amenorrhea",
+  "slug": "secondary_amenorrhea",
+  "chapter": "E. CONSTITUTIONAL DELAY (10%",
+  "source_file": "processed_clusters/e_constitutional_delay_10/secondary_amenorrhea.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pregnancy: most common cause in girls > 9 years of age",
+      "raw": "Pregnancy: most common cause in girls > 9 years of age",
+      "frequency": "most common"
+    },
+    {
+      "name": "Polycystic ovary syndrome",
+      "raw": "Polycystic ovary syndrome (main pathologic cause)",
+      "frequency": null
+    },
+    {
+      "name": "Asherman syndrome",
+      "raw": "Asherman syndrome",
+      "frequency": null
+    },
+    {
+      "name": "All causes of primary amenorrhea",
+      "raw": "All causes of primary amenorrhea",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Oligomenorrhea Definition:  < 9 menstrual cycles per year"
+}

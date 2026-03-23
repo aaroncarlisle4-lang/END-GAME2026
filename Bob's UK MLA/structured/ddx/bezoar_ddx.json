@@ -1,0 +1,32 @@
+{
+  "finding": "Bezoar (DDx)",
+  "slug": "bezoar_ddx",
+  "chapter": "Bezoar",
+  "source_file": "processed_clusters/bezoar/bezoar_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lobulated / villous adenoma",
+      "raw": "lobulated / villous adenoma",
+      "frequency": null
+    },
+    {
+      "name": "leiomyosarcoma",
+      "raw": "leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "metastatic melanoma",
+      "raw": "metastatic melanoma",
+      "frequency": null
+    },
+    {
+      "name": "intussusception",
+      "raw": "intussusception",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intraluminal filling defect without constant site of attachment to bowel wall | interstices filled with barium | coiled-spring appearance (rare)"
+}

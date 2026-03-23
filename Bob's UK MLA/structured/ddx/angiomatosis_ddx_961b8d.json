@@ -1,0 +1,27 @@
+{
+  "finding": "Angiomatosis (DDx)",
+  "slug": "angiomatosis_ddx_961b8d",
+  "chapter": "Angiomatosis",
+  "source_file": "processed_clusters/angiomatosis/angiomatosis_ddx_961b8d.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "(other polyostotic diseases like) histiocytosis X",
+      "raw": "(other polyostotic diseases like) histiocytosis X",
+      "frequency": null
+    },
+    {
+      "name": "fibrous dysplasia",
+      "raw": "fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "metastases",
+      "raw": "metastases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "may show overgrowth of long bone | endosteal thickening | sometimes associated with soft-tissue mass ± phleboliths | chylous pleural effusion suggests fatal prognosis"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "C. ABNORMAL TERMINATION OF SINGLE URETER",
+  "slug": "c_abnormal_termination_of_single_ureter_1_1ec054",
+  "chapter": "B. SMOOTH MUSCLE DYSFUNCTION",
+  "source_file": "processed_clusters/b_smooth_muscle_dysfunction/c_abnormal_termination_of_single_ureter_1_1ec054.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ectopic ureter",
+      "raw": "Ectopic ureter",
+      "frequency": null
+    },
+    {
+      "name": "Ureterocele",
+      "raw": "Ureterocele",
+      "frequency": null
+    },
+    {
+      "name": "Vesicoureteral reflux",
+      "raw": "Vesicoureteral reflux",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

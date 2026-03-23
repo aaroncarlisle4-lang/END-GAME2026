@@ -1,0 +1,37 @@
+{
+  "finding": "Endobronchial Metastasis",
+  "slug": "endobronchial_metastasis",
+  "chapter": "MESOTHELIOMA OF CHEST",
+  "source_file": "processed_clusters/mesothelioma_of_chest/endobronchial_metastasis.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Colorectal carcinoma",
+      "raw": "Colorectal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast cancer",
+      "raw": "Breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   1% √  subsegmental / segmental atelectasis or atelectasis of entire unilateral lung √  round endobronchial lesion on CT"
+}

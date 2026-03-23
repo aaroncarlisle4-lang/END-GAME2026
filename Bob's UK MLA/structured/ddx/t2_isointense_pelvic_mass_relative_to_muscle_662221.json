@@ -1,0 +1,27 @@
+{
+  "finding": "T2-isointense Pelvic Mass Relative to Muscle",
+  "slug": "t2_isointense_pelvic_mass_relative_to_muscle_662221",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/t2_isointense_pelvic_mass_relative_to_muscle_662221.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Uterine origin",
+      "raw": "Uterine origin",
+      "frequency": null
+    },
+    {
+      "name": "Cystic adenomyosis: ↑ T1WI",
+      "raw": "Cystic adenomyosis: ↑ T1WI",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma: enhancing",
+      "raw": "Leiomyoma: enhancing",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

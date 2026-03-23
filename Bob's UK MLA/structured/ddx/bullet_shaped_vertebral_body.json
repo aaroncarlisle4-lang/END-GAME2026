@@ -1,0 +1,27 @@
+{
+  "finding": "Bullet-shaped Vertebral Body",
+  "slug": "bullet_shaped_vertebral_body",
+  "chapter": "Bony Outgrowths from Vertebra",
+  "source_file": "processed_clusters/bony_outgrowths_from_vertebra/bullet_shaped_vertebral_body.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypothyroidism",
+      "raw": "Hypothyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Morquio syndrome",
+      "raw": "Morquio syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

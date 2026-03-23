@@ -1,0 +1,43 @@
+{
+  "name": "FETAL CHEST ANOMALIES",
+  "slug": "fetal_chest_anomalies",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF OBSTETRIC AND GYNECOLOGIC",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_obstetric_and_gynecologic/fetal_chest_anomalies.md",
+  "definition": "rudimentary bronchus ending in blind pouch + absence of parenchyma + vessels completely formed but congenitally small bronchus with rudimentary parenchyma +",
+  "demographics": {
+    "Frequency": "1÷10,000; R÷L = 1÷1",
+    "Path": "absolute decrease in lung volume / weight for GA"
+  },
+  "dominant_finding": "diffuse opacification of involved hemithorax",
+  "distribution": "diffuse opacification of involved hemithorax",
+  "discriminating_features": [
+    "diffuse opacification of involved hemithorax",
+    "ipsilateral mediastinal shift",
+    "absence of ipsilateral pulmonary tissue + artery",
+    "bronchus terminates in dilated short blind pouch",
+    "thoracic circumference (TC) < 5th percentile for EGA"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "diffuse opacification of involved hemithorax",
+      "ipsilateral mediastinal shift",
+      "absence of ipsilateral pulmonary tissue + artery",
+      "bronchus terminates in dilated short blind pouch",
+      "thoracic circumference (TC) < 5th percentile for EGA",
+      "TC÷AC length ratio < 0.32",
+      "FL÷AC ratio < 0.16",
+      "small hyperlucent lung ← oligemia",
+      "diminutive ipsilateral pulmonary artery",
+      "hyperlucent contralateral lung ← compensatory hyperexpansion",
+      "ipsilateral mediastinal shift",
+      "pulmonary hyperplasia",
+      "symmetrically enlarged echogenic lungs",
+      "dilated fluid-filled trachea + bronchi",
+      "inverted hemidiaphragms",
+      "diminutive heart amongst enlarged lungs",
+      "± hydrops"
+    ]
+  },
+  "clinical": {}
+}

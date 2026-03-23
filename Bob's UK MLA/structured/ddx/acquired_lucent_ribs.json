@@ -1,0 +1,27 @@
+{
+  "finding": "Acquired Lucent Ribs",
+  "slug": "acquired_lucent_ribs",
+  "chapter": "Slender Ribs",
+  "source_file": "processed_clusters/slender_ribs/acquired_lucent_ribs.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cushing disease",
+      "raw": "Cushing disease",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Scurvy",
+      "raw": "Scurvy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

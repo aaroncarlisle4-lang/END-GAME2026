@@ -1,0 +1,57 @@
+{
+  "finding": "C. VASCULAR DISEASE",
+  "slug": "c_vascular_disease",
+  "chapter": "PERIVENTRICULAR REGION",
+  "source_file": "processed_clusters/periventricular_region/c_vascular_disease.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Arteriolosclerosis",
+      "raw": "Arteriolosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Lacunar infarcts",
+      "raw": "Lacunar infarcts",
+      "frequency": null
+    },
+    {
+      "name": "Migraine: in 41% with classic migraine, in 57% with complicated migraine; presumed to represent vasculitis-induced small infarcts",
+      "raw": "Migraine: in 41% with classic migraine, in 57% with complicated migraine; presumed to represent vasculitis-induced small infarcts",
+      "frequency": "41%"
+    },
+    {
+      "name": "Vasculitis: Primary angiitis of CNS (PACNS), polyarteritis nodosa, Wegener granulomatosis, SLE, Behçet disease, syphilis, Sjögren syndrome, sickle cell disease",
+      "raw": "Vasculitis: Primary angiitis of CNS (PACNS), polyarteritis nodosa, Wegener granulomatosis, SLE, Behçet disease, syphilis, Sjögren syndrome, sickle cell disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Antiphospholipid antibodies",
+      "raw": "Antiphospholipid antibodies (non-SLE)",
+      "frequency": null
+    },
+    {
+      "name": "Susac syndrome",
+      "raw": "Susac syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Periventricular leukoencephalopathy / leukomalacia",
+      "raw": "Periventricular leukoencephalopathy / leukomalacia (= white matter injury of prematurity)",
+      "frequency": null
+    },
+    {
+      "name": "Posterior reversible leukoencephalopathy syndrome (PRES) = hypertensive encephalopathy",
+      "raw": "Posterior reversible leukoencephalopathy syndrome (PRES) = hypertensive encephalopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

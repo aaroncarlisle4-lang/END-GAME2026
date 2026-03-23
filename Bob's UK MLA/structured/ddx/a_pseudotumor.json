@@ -1,0 +1,32 @@
+{
+  "finding": "A. PSEUDOTUMOR",
+  "slug": "a_pseudotumor",
+  "chapter": "GALLBLADDER POLYP",
+  "source_file": "processed_clusters/gallbladder_polyp/a_pseudotumor.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cholesterol polyp (63-74%): on average 8 polyps",
+      "raw": "Cholesterol polyp (63-74%): on average 8 polyps",
+      "frequency": "74%"
+    },
+    {
+      "name": "Adenomyoma",
+      "raw": "Adenomyoma (7%)",
+      "frequency": "7%"
+    },
+    {
+      "name": "Inflammatory polyp",
+      "raw": "Inflammatory polyp (4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Others: heterotopic gastric glands",
+      "raw": "Others: heterotopic gastric glands",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

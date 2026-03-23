@@ -1,0 +1,71 @@
+{
+  "name": "CARDIAC SARCOMA",
+  "slug": "cardiac_sarcoma",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/cardiac_sarcoma.md",
+  "definition": "OSTEOSARCOMA OF HEART = CARDIAC OSTEOSARCOMA PLEOMORPHIC SARCOMA = ROUND CELL SARCOMA = SPINDLE CELL SARCOMA",
+  "demographics": {
+    "Mean age": "41 years; extremely rare in infants + children",
+    "Age": "5-10 years earlier than other sarcomas",
+    "Frequency": "most common cardiac malignancy of adulthood",
+    "Path": "frequently hemorrhagic + necrotic mass, often adherent to pericardium → pericardial",
+    "Histo": "mesenchymal cells characterized by ill-defined vascular spaces lined by atypical",
+    "Location": "right atrial free wall + involvement of pericardium (80%)"
+  },
+  "dominant_finding": "central areas of low SI ← tumor necrosis",
+  "distribution": "right atrial free wall + involvement of pericardium (80%)",
+  "discriminating_features": [
+    "contrast enhancement, areas of hemorrhage, central necrosis",
+    "isointense to myocardium on T1WI",
+    "central areas of low SI ← tumor necrosis",
+    "homogeneous enhancement",
+    "large irregular hypodense intracavitary mass"
+  ],
+  "other_features": {
+    "general": [
+      "contrast enhancement, areas of hemorrhage, central necrosis"
+    ],
+    "CXR": [
+      "cardiomegaly, RA enlargement",
+      "CHF",
+      "pleural effusion, pericardial effusion",
+      "focal cardiac mass",
+      "pulmonary consolidation"
+    ],
+    "PET": [
+      "difficult identification of sarcoma if myocardial FDG activity is high",
+      "macroscopic fat favors liposarcoma",
+      "calcifications favor fibrosarcoma",
+      "right atrial location favors angiosarcoma",
+      "usually originating from RA with sparing of atrial septum",
+      "areas of central necrosis communicating with cardiac chamber",
+      "disruption of fat planes, pericardial thickening / nodularity",
+      "low-attenuation mass on CT",
+      "heterogeneous contrast enhancement",
+      "heterogeneous MR signal:",
+      "\"cauliflower appearance\" = local nodular predominantly hyperintense areas",
+      "central areas of necrosis",
+      "obliterated pericardial space (hemorrhage + necrotic tumor debris)",
+      "\"sunray appearance\" = linear contrast enhancement along vascular lakes on MR",
+      "iso- to hypointense on T1WI + hyperintense on T2WI",
+      "marked contrast enhancement",
+      "broad base of attachment with invasive behavior",
+      "dense calcifications (frequent) on CT",
+      "heterogeneously hypointense on T1WI",
+      "hyperintense on T2WI"
+    ],
+    "MR": [
+      "isointense to myocardium on T1WI",
+      "central areas of low SI ← tumor necrosis",
+      "homogeneous enhancement",
+      "large irregular hypodense intracavitary mass",
+      "polypoid mass isointense to myocardium",
+      "thickening / irregularity of myocardium ← tumor infiltration",
+      "tendency to involve valves",
+      "hemorrhagic mass replacing the pericardium (similar to angiosarcoma)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "mean survival of 3 month to 1 year"
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "finding": "Pelvic Fracture",
+  "slug": "pelvic_fracture",
+  "chapter": "FLORID REACTIVE PERIOSTITIS",
+  "source_file": "processed_clusters/florid_reactive_periostitis/pelvic_fracture.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bilateral vertical pubic rami fractures",
+      "raw": "Bilateral vertical pubic rami fractures",
+      "frequency": null
+    },
+    {
+      "name": "Symphysis + sacroiliac joint diastasis (b)  lateral compression",
+      "raw": "Symphysis + sacroiliac joint diastasis (b)  lateral compression",
+      "frequency": null
+    },
+    {
+      "name": "Malgaigne",
+      "raw": "Malgaigne (ipsilateral anterior + posterior fx)",
+      "frequency": null
+    },
+    {
+      "name": "Bucket-handle (contralateral anterior + posterior fx) (c)  vertical shear",
+      "raw": "Bucket-handle (contralateral anterior + posterior fx) (c)  vertical shear",
+      "frequency": null
+    },
+    {
+      "name": "Superior displacement of pelvis",
+      "raw": "Superior displacement of pelvis",
+      "frequency": null
+    },
+    {
+      "name": "Elementary 5 fractures",
+      "raw": "Elementary 5 fractures",
+      "frequency": null
+    },
+    {
+      "name": "Posterior wall*  27%  Anterior column  5%",
+      "raw": "Posterior wall*  27%  Anterior column  5%",
+      "frequency": "27%"
+    },
+    {
+      "name": "Transverse*  9%  Posterior column  4%",
+      "raw": "Transverse*  9%  Posterior column  4%",
+      "frequency": "9%"
+    },
+    {
+      "name": "Anterior wall  2%",
+      "raw": "Anterior wall  2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Associated 5 fractures",
+      "raw": "Associated 5 fractures (= combinations / partial combinations of elementary fractures)",
+      "frequency": null
+    },
+    {
+      "name": "Transverse + posterior wall*  27%",
+      "raw": "Transverse + posterior wall*  27%",
+      "frequency": "27%"
+    },
+    {
+      "name": "Both columns*  19%",
+      "raw": "Both columns*  19%",
+      "frequency": "19%"
+    },
+    {
+      "name": "T-shaped*  6%",
+      "raw": "T-shaped*  6%",
+      "frequency": "6%"
+    },
+    {
+      "name": "Anterior wall + posterior hemitransverse  5%",
+      "raw": "Anterior wall + posterior hemitransverse  5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "Posterior column + posterior wall  3%",
+      "raw": "Posterior column + posterior wall  3%",
+      "frequency": "3%"
+    },
+    {
+      "name": "shortening of involved extremity [superior to acetabulum] [inferior to acetabulum]",
+      "raw": "shortening of involved extremity",
+      "frequency": null,
+      "sites": [
+        "superior to acetabulum",
+        "inferior to acetabulum"
+      ]
+    },
+    {
+      "name": "± sacroiliac dislocation / fracture",
+      "raw": "± sacroiliac dislocation / fracture",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Unstable pelvic fractures: (a)  anterior compression Acetabular Fracture Anatomy & Function: most important portion of acetabulum is roof / dome; weight-bearing surface for entire lower limb is derived + supported by 2 columns which are oriented in an inverted \"Y\" and join above the acetabular roof at an angle of 60°: (a)  anterior iliopubic column of acetabulum (b)  posterior ilioischial column of acetabulum Classification (Judet and Letournel): *=  account for 80%of all acetabular fractures (3 most common types underlined) POSTERIOR WALL (LIP / RIM) FRACTURE (27%) Mechanism:   indirect force"
+}

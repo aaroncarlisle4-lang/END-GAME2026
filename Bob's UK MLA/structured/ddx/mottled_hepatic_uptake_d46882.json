@@ -1,0 +1,42 @@
+{
+  "finding": "Mottled Hepatic Uptake",
+  "slug": "mottled_hepatic_uptake_d46882",
+  "chapter": "Colloid Shift",
+  "source_file": "processed_clusters/colloid_shift/mottled_hepatic_uptake_d46882.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cirrhosis",
+      "raw": "Cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Acute hepatitis",
+      "raw": "Acute hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease: sarcoidosis, fungal, viral, parasitic",
+      "raw": "Granulomatous disease: sarcoidosis, fungal, viral, parasitic",
+      "frequency": null
+    },
+    {
+      "name": "Chemo- / radiation therapy",
+      "raw": "Chemo- / radiation therapy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

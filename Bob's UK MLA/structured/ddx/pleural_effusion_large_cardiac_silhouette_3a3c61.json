@@ -1,0 +1,37 @@
+{
+  "finding": "Pleural Effusion & Large Cardiac Silhouette",
+  "slug": "pleural_effusion_large_cardiac_silhouette_3a3c61",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/pleural_effusion_large_cardiac_silhouette_3a3c61.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congestive heart failure",
+      "raw": "Congestive heart failure (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Pulmonary embolus + right heart enlargement",
+      "raw": "Pulmonary embolus + right heart enlargement",
+      "frequency": null
+    },
+    {
+      "name": "Myocarditis / pericarditis with pleuritis",
+      "raw": "Myocarditis / pericarditis with pleuritis (a)  viral infection (b)  tuberculosis (c)  rheumatic fever (poststreptococcal infection)",
+      "frequency": null
+    },
+    {
+      "name": "Tumor: metastatic, mesothelioma",
+      "raw": "Tumor: metastatic, mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Collagen-vascular disease (a)  SLE (pleural + pericardial effusion) (b)  rheumatoid arthritis",
+      "raw": "Collagen-vascular disease (a)  SLE (pleural + pericardial effusion) (b)  rheumatoid arthritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  cardiomegaly √  prominence of upper lobe vessels + constriction of lower lobe vessels √  prominent hilar vessels √  interstitial edema (fine reticular pattern, Kerley lines, perihilar haze, peribronchial thickening) √  alveolar edema (perihilar confluent ill-defined densities, air bronchogram) √  \"phantom tumor\" = fluid localized to interlobar pleural fissure (in 78% in right horizontal fissure)"
+}

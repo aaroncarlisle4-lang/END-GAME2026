@@ -1,0 +1,44 @@
+{
+  "name": "ARACHNOID CYST OF SPINE",
+  "slug": "arachnoid_cyst_of_spine",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/arachnoid_cyst_of_spine.md",
+  "definition": "subset of meningeal cysts",
+  "demographics": {
+    "Histo": "lined with fibrous tissue + scattered meningothelial cells",
+    "Age": "15-45 years (in 77%); range of several months to 80 years; M=F",
+    "Location": "thoracic (80%) > cervical (15%) > lumbar (5%)spine; extending over 3.7"
+  },
+  "dominant_finding": "variability in signal intensity ← pulsatility of CSF / higher protein content",
+  "distribution": "thoracic (80%) > cervical (15%) > lumbar (5%)spine; extending over 3.7",
+  "discriminating_features": [
+    "oval sharply demarcated extramedullary mass",
+    "filling with intrathecal contrast material depending upon size of opening between cyst +",
+    "local displacement + compression of spinal cord",
+    "higher SI than CSF (from relative lack of CSF pulsations)",
+    "NO enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "oval sharply demarcated extramedullary mass",
+      "filling with intrathecal contrast material depending upon size of opening between cyst +",
+      "local displacement + compression of spinal cord",
+      "higher SI than CSF (from relative lack of CSF pulsations)",
+      "NO enhancement"
+    ],
+    "MR": [
+      "iso- to hyperintense to CSF on T1WI + T2WI",
+      "variability in signal intensity ← pulsatility of CSF / higher protein content",
+      "isointense to CSF on FLAIR MR images",
+      "NO restricted diffusion at DWI",
+      "scalloping of vertebral body",
+      "thinning / erosion of pedicles",
+      "widening of interpeduncular distance",
+      "focal displacement and compression of spinal cord",
+      "widened dorsal subarachnoid space with diminished CSF flow artifact"
+    ]
+  },
+  "clinical": {
+    "Cx": "spinal cord myelopathy, nerve root radiculopathy"
+  }
+}

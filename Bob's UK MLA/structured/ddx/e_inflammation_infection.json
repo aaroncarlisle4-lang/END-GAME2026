@@ -1,0 +1,42 @@
+{
+  "finding": "E. INFLAMMATION / INFECTION",
+  "slug": "e_inflammation_infection",
+  "chapter": "D. MALIGNANCY",
+  "source_file": "processed_clusters/d_malignancy/e_inflammation_infection.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Toxoplasmosis, congenital rubella, CMV",
+      "raw": "Toxoplasmosis, congenital rubella, CMV",
+      "frequency": null
+    },
+    {
+      "name": "Measles, chicken pox",
+      "raw": "Measles, chicken pox",
+      "frequency": null
+    },
+    {
+      "name": "Pertussis, Coxsackie B virus",
+      "raw": "Pertussis, Coxsackie B virus",
+      "frequency": null
+    },
+    {
+      "name": "Cysticercosis",
+      "raw": "Cysticercosis",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "AIDS",
+      "raw": "AIDS",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "B. OBSTRUCTION",
+  "slug": "b_obstruction",
+  "chapter": "C. ENDOCRINE ORGANS",
+  "source_file": "processed_clusters/c_endocrine_organs/b_obstruction.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gastric Volvulus",
+      "raw": "Gastric Volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Peptic ulcer disease",
+      "raw": "Peptic ulcer disease",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy",
+      "raw": "Malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Bezoar",
+      "raw": "Bezoar",
+      "frequency": null
+    },
+    {
+      "name": "Bouveret syndrome",
+      "raw": "Bouveret syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Slipped gastric band",
+      "raw": "Slipped gastric band",
+      "frequency": null
+    },
+    {
+      "name": "Vertical band gastroplasty",
+      "raw": "Vertical band gastroplasty",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

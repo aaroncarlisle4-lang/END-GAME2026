@@ -1,0 +1,33 @@
+{
+  "name": "METANEPHRIC ADENOMA",
+  "slug": "metanephric_adenoma",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/metanephric_adenoma.md",
+  "definition": "NEPHROGENIC ADENOFIBROMA = EMBRYONAL ADENOMA",
+  "demographics": {
+    "Age": "any (range, 15 months - 83 years); M < F",
+    "Histo": "proliferation of spindle-shaped mesenchymal cells encasing nodules of embryonal"
+  },
+  "dominant_finding": "iso- / hypoattenuating mass + little enhancement",
+  "distribution": "",
+  "discriminating_features": [
+    "iso- / hypoattenuating mass + little enhancement",
+    "± small calcifications",
+    "well-defined solid hypovascular mass",
+    "hypo- / hyperechoic / cystic with mural nodule"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "well-defined solid hypovascular mass",
+      "hypo- / hyperechoic / cystic with mural nodule"
+    ],
+    "CT": [
+      "iso- / hypoattenuating mass + little enhancement",
+      "± small calcifications"
+    ]
+  },
+  "clinical": {
+    "Rx": "local resection with sparing of kidney"
+  }
+}

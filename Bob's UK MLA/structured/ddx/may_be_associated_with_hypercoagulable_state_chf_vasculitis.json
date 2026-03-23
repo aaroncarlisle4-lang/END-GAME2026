@@ -1,0 +1,52 @@
+{
+  "finding": "May be associated with: hypercoagulable state, CHF, vasculitis",
+  "slug": "may_be_associated_with_hypercoagulable_state_chf_vasculitis",
+  "chapter": "MESENTERIC LYMPHADENITIS",
+  "source_file": "processed_clusters/mesenteric_lymphadenitis/may_be_associated_with_hypercoagulable_state_chf_vasculitis.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "precipitated by coughing, straining, overeating, marathon running",
+      "raw": "precipitated by coughing, straining, overeating, marathon running",
+      "frequency": null
+    },
+    {
+      "name": "SECONDARY OMENTAL INFARCTION (more common) Cause:   postoperative omental adhesion, omental mass, vascular damage related to trauma / inflammation / hernia",
+      "raw": "SECONDARY OMENTAL INFARCTION (more common) Cause:   postoperative omental adhesion, omental mass, vascular damage related to trauma / inflammation / hernia",
+      "frequency": "common"
+    },
+    {
+      "name": "subacute RLQ / RUQ abdominal pain of a few days duration",
+      "raw": "subacute RLQ / RUQ abdominal pain of a few days duration",
+      "frequency": null
+    },
+    {
+      "name": "clinical mimicker of acute appendicitis, cholecystitis but in the ABSENCE of GI symptoms of nausea, vomiting, fever",
+      "raw": "clinical mimicker of acute appendicitis, cholecystitis but in the ABSENCE of GI symptoms of nausea, vomiting, fever",
+      "frequency": null
+    },
+    {
+      "name": "slightly elevated WBC Location:   mostly between anterior abdominal wall and transverse / ascending colon / cecum",
+      "raw": "slightly elevated WBC Location:   mostly between anterior abdominal wall and transverse / ascending colon / cecum",
+      "frequency": null
+    },
+    {
+      "name": "Dx:   clinically difficult; often 1st suggested by radiologist",
+      "raw": "Dx:   clinically difficult; often 1st suggested by radiologist",
+      "frequency": null
+    },
+    {
+      "name": "Cx:   omental abscess",
+      "raw": "Cx:   omental abscess (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Rx:   supportive",
+      "raw": "Rx:   supportive",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Path:   hemorrhagic infarction ← vascular compromise ← (a) tenuous blood supply to right edge of omentum, (b) kinking of veins Age:   pediatric patients Location:   commonly RLQ on inferior right side of omentum Age:   adult, M > F Site:   right inferior portion of omentum > left Size:   diameter > 5 cm CT: √  solitary encapsulated triangular / oval fatty mass: √  soft-tissue stranding adjacent to ascending colon = haziness of fat anterior to colon (early / mild infarction) √  internal heterogeneity ← soft-tissue stranding adjacent to ascending colon √  whorled pattern of concentric linear fat"
+}

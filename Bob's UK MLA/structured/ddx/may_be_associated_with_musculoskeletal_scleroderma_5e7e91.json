@@ -1,0 +1,77 @@
+{
+  "finding": "May be associated with: musculoskeletal scleroderma",
+  "slug": "may_be_associated_with_musculoskeletal_scleroderma_5e7e91",
+  "chapter": "Localized Scleroderma",
+  "source_file": "processed_clusters/localized_scleroderma/may_be_associated_with_musculoskeletal_scleroderma_5e7e91.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "edema of distal portion of extremities",
+      "raw": "edema of distal portion of extremities",
+      "frequency": null
+    },
+    {
+      "name": "thickened inelastic waxy skin most prominent about face + extremities, symmetrical polyarthralgias",
+      "raw": "thickened inelastic waxy skin most prominent about face + extremities, symmetrical polyarthralgias (50-80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "Raynaud phenomenon",
+      "raw": "Raynaud phenomenon (may precede other symptoms by months / years)",
+      "frequency": null
+    },
+    {
+      "name": "atrophy + thickening of skin and musculature (78%) @   Fingers",
+      "raw": "atrophy + thickening of skin and musculature (78%) @   Fingers",
+      "frequency": "78%"
+    },
+    {
+      "name": "\"sausage digit\" = edema of digits associated with loss of transverse skin folds + lack of definition of subcutaneous fat",
+      "raw": "\"sausage digit\" = edema of digits associated with loss of transverse skin folds + lack of definition of subcutaneous fat",
+      "frequency": null
+    },
+    {
+      "name": "stiffness in small joints, occasionally in knee, shoulder, wrist; lack of motility → eventually contractures",
+      "raw": "stiffness in small joints, occasionally in knee, shoulder, wrist; lack of motility → eventually contractures",
+      "frequency": null
+    },
+    {
+      "name": "slightly productive, mostly dry cough, atypical chest pain",
+      "raw": "slightly productive, mostly dry cough, atypical chest pain",
+      "frequency": null
+    },
+    {
+      "name": "exertional progressive dyspnea, fatigue, hematemesis",
+      "raw": "exertional progressive dyspnea, fatigue, hematemesis",
+      "frequency": null
+    },
+    {
+      "name": "pulmonary function abnormalities in the absence of frank roentgenographic changes ( TYPICAL",
+      "raw": "pulmonary function abnormalities in the absence of frank roentgenographic changes ( TYPICAL",
+      "frequency": null
+    },
+    {
+      "name": "Progressive pulmonary fibrosis",
+      "raw": "Progressive pulmonary fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary arterial hypertension",
+      "raw": "Pulmonary arterial hypertension (10-16-33%)",
+      "frequency": "33%"
+    },
+    {
+      "name": "Aspiration pneumonia",
+      "raw": "Aspiration pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Increased incidence of lung cancer",
+      "raw": "Increased incidence of lung cancer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Musculoskeletal Scleroderma √  \"tapered fingers\" = sclerodactyly = atrophy + resorption of soft tissues of fingertips + soft-tissue calcifications √  acroosteolysis (63-80%) =  \"penciling\" / \"autoamputation\" = resorption of distal phalanges of hand beginning at volar aspect of terminal tufts with proximal progression @   Subcutaneous calcinosis (25-58%) Location:   extensor surface, areas with pressure / friction √  calcinosis = punctate soft-tissue calcifications of fingertips, axilla, ischial tuberosity, forearm, elbow (over pressure area), lower leg, face √  calcifications around tendons, b"
+}

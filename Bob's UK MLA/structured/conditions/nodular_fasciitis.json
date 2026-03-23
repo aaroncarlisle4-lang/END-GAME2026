@@ -1,0 +1,39 @@
+{
+  "name": "NODULAR FASCIITIS",
+  "slug": "nodular_fasciitis",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/nodular_fasciitis.md",
+  "definition": "mass-forming fibrous proliferation",
+  "demographics": {
+    "Age": "2nd-4th decades (most common)",
+    "Histo": "immature fibroblasts + variable amount of mature birefringent collagen",
+    "Location": "head & neck (15-20%)",
+    "Size": "0.5-10 cm"
+  },
+  "dominant_finding": "homogeneous mass with attenuation similar to fluid",
+  "distribution": "head & neck (15-20%)",
+  "discriminating_features": [
+    "well-defined margins",
+    "typically larger + deeper in location",
+    "ill-defined margins with extension along fascial planes",
+    "homogeneous mass with attenuation similar to fluid",
+    "± erosion of underlying bone"
+  ],
+  "other_features": {
+    "general": [
+      "well-defined margins",
+      "typically larger + deeper in location",
+      "ill-defined margins with extension along fascial planes"
+    ],
+    "CT": [
+      "homogeneous mass with attenuation similar to fluid",
+      "± erosion of underlying bone"
+    ],
+    "MR": [
+      "heterogeneous mass usually slightly hyperintense relative to muscle on T1WI",
+      "hyperintense relative to muscle on T2WI",
+      "± marked enhancement"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,34 @@
+{
+  "name": "CEREBRAL AMYLOID ANGIOPATHY",
+  "slug": "cerebral_amyloid_angiopathy",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/cerebral_amyloid_angiopathy.md",
+  "definition": "deposition of β-amyloid protein in media + adventitia of small + medium-sized vessels of",
+  "demographics": {
+    "Age": "increasing with age: 33% in 60-70 years, 75% in > 90 years",
+    "Path": "fibrinoid necrosis, focal vessel wall fragmentation, microaneurysm → vessel leakage +",
+    "Histo": "yellow-green birefringent (under polarized light) deposits along vessel wall with",
+    "Location": "cortical / subcortical in any lobe; sparing of deep white matter + basal ganglia +"
+  },
+  "dominant_finding": "multiple foci of marked signal loss at GRE imaging (most sensitive sequence for",
+  "distribution": "cortical / subcortical in any lobe; sparing of deep white matter + basal ganglia +",
+  "discriminating_features": [
+    "acute / chronic intracerebral hemorrhage (ICH)",
+    "may be associated with subarachnoid / subdural hemorrhage",
+    "leukoencephalopathy ± involvement of U-fibers",
+    "cerebral atrophy",
+    "multiple foci of marked signal loss at GRE imaging (most sensitive sequence for"
+  ],
+  "other_features": {
+    "general": [
+      "acute / chronic intracerebral hemorrhage (ICH)",
+      "may be associated with subarachnoid / subdural hemorrhage",
+      "leukoencephalopathy ± involvement of U-fibers",
+      "cerebral atrophy"
+    ],
+    "MR": [
+      "multiple foci of marked signal loss at GRE imaging (most sensitive sequence for"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,42 @@
+{
+  "name": "BENIGN LYMPHOEPITHELIAL LESIONS",
+  "slug": "benign_lymphoepithelial_lesions",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/benign_lymphoepithelial_lesions.md",
+  "definition": "BLL = HIV-ASSOCIATED LYMPHOEPITHELIAL CYSTS painless idiopathic swelling of one / both parotid glands characterized by chronic progression",
+  "demographics": {
+    "Prevalence": "5% of HIV population",
+    "Age": "6th decade; M÷F = 2÷3 to 4÷5",
+    "Histo": "polyclonal CD8+ lymphoid hypertrophy → obstruction + dilatation of intraglandular",
+    "Location": "one / both (20%) parotid glands"
+  },
+  "dominant_finding": "numerous (rarely isolated single) mixed cystic + solid lesions",
+  "distribution": "one / both (20%) parotid glands",
+  "discriminating_features": [
+    "numerous (rarely isolated single) mixed cystic + solid lesions",
+    "reactive cervical lymphadenopathy",
+    "tonsillar hypertrophy",
+    "rimlike enhancement around cystic parotid lesions",
+    "heterogeneous enhancement of solid parotid lesions"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "cystic lesions with multiple small septations + small mural nodules (in 40%)",
+      "± vascular pedicle entering the cystic region",
+      "moderately vascular (79%), hypervascular (14%), avascular (7%) on color Doppler"
+    ],
+    "CT": [
+      "numerous (rarely isolated single) mixed cystic + solid lesions",
+      "reactive cervical lymphadenopathy",
+      "tonsillar hypertrophy"
+    ],
+    "CECT": [
+      "rimlike enhancement around cystic parotid lesions",
+      "heterogeneous enhancement of solid parotid lesions"
+    ]
+  },
+  "clinical": {
+    "Cx": "transformation into B-cell lymphoma (rare)"
+  }
+}

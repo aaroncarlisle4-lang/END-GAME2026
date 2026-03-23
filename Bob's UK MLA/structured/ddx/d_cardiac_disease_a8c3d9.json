@@ -1,0 +1,37 @@
+{
+  "finding": "D. Cardiac disease",
+  "slug": "d_cardiac_disease_a8c3d9",
+  "chapter": "CONTROL OF HEART RATE",
+  "source_file": "processed_clusters/control_of_heart_rate/d_cardiac_disease_a8c3d9.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Angina",
+      "raw": "Angina",
+      "frequency": null
+    },
+    {
+      "name": "CHF with minimal exertion",
+      "raw": "CHF with minimal exertion",
+      "frequency": null
+    },
+    {
+      "name": "Severe aortic stenosis",
+      "raw": "Severe aortic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Primary pulmonary hypertension",
+      "raw": "Primary pulmonary hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Severe cardiomyopathy ◊  Limit contrast dose!",
+      "raw": "Severe cardiomyopathy ◊  Limit contrast dose!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,45 @@
+{
+  "finding": "Osteolytic Lesion of Skull",
+  "slug": "osteolytic_lesion_of_skull_326722",
+  "chapter": "Sutural Abnormalities",
+  "source_file": "processed_clusters/sutural_abnormalities/osteolytic_lesion_of_skull_326722.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "NORMAL VARIANT",
+      "raw": "NORMAL VARIANT",
+      "frequency": null
+    },
+    {
+      "name": "Emissary vein connecting venous systems inside + outside of skull",
+      "raw": "Emissary vein connecting venous systems inside + outside of skull",
+      "frequency": null
+    },
+    {
+      "name": "Venous lake =  outpouching of diploic vein",
+      "raw": "Venous lake =  outpouching of diploic vein",
+      "frequency": null
+    },
+    {
+      "name": "Fossae lacunae = pacchionian granulations =  agglomeration of hypertrophic arachnoid villi communicating with dural sinus",
+      "raw": "Fossae lacunae = pacchionian granulations =  agglomeration of hypertrophic arachnoid villi communicating with dural sinus",
+      "frequency": null
+    },
+    {
+      "name": "Parietal foramina nonossification of embryonal rests in parietal fissure; bilateral at superior posterior angles of parietal bone; hereditary transmission",
+      "raw": "Parietal foramina nonossification of embryonal rests in parietal fissure; bilateral at superior posterior angles of parietal bone; hereditary transmission",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "NORMAL VARIANT": [],
+    "Emissary vein connecting venous systems inside + outside of skull": [],
+    "Venous lake =  outpouching of diploic vein": [],
+    "Fossae lacunae = pacchionian granulations =  agglomeration of hypertrophic arachnoid villi communicating with dural sinus": [
+      "usually multiple \"punched-out\" lesions with irregular contour in parasagittal location Location:   within 3 cm of superior sagittal sinus, anterior > posterior frontal bone Site:   inner table > diploe > outer table"
+    ],
+    "Parietal foramina nonossification of embryonal rests in parietal fissure; bilateral at superior posterior angles of parietal bone; hereditary transmission": []
+  },
+  "context": "√  bony channel < 2 mm in width √  extremely variable in size, shape, and number √  irregular well-demarcated contour Age:   > 18 months; usually adulthood √  usually multiple \"punched-out\" lesions with irregular contour in parasagittal location Location:   within 3 cm of superior sagittal sinus, anterior > posterior frontal bone Site:   inner table > diploe > outer table"
+}

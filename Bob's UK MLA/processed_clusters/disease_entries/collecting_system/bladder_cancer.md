@@ -1,0 +1,46 @@
+# Disease: BLADDER CANCER
+
+**Source section:** COLLECTING SYSTEM
+
+## Key Facts
+
+- **Prevalence:** 76,960 new cases annually + 16,390 deaths (2016) 4th (10th) most common cancer
+- **Age:** 3.1% [8%] in patients < 44 [45-54] years; usually in patients > 65 years; twice as
+- **Size:** < 2.5 cm (in > 50%)
+- **Genetics:** activate mutation of HRAS gene and fibroblast growth factor
+
+## Imaging Findings
+
+### General
+
+- intraluminal papillary / nodular mass
+- focal / diffuse wall thickening
+- ureteral obstruction ← muscle invasion
+- irregular filling defect with broad base and fronds (DDx: rectal gas marginated by
+- < 1% calcified
+
+### US
+
+- papillary hypoechoic mass protruding into lumen
+- vascularity on Doppler imaging
+- nodular / arched tumoral calcifications (< 5%) typically encrusting the surface
+- early tumor enhancement
+- increased attenuation of perivesical fat with invasion
+- tumor isointense to bladder muscle on T1WI + hyperintense on T2WI
+- T1WI optimal to detect invasion of perivesical fat + metastases to lymph nodes + bone
+- T2WI optimal to differentiate tumor from fibrosis and to evaluate tumor depth (SI
+- enhancement differentiates between early enhancing mucosa, submucosa, tumor,
+
+## Clinical
+
+- **Prognosis:** 40-70% recurrence rate
+- **Rx:** cystoscopic resection, intravesical mitomycin C, radical cystectomy with urinary
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

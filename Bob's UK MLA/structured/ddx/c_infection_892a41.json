@@ -1,0 +1,47 @@
+{
+  "finding": "C. INFECTION",
+  "slug": "c_infection_892a41",
+  "chapter": "Gastric Atony",
+  "source_file": "processed_clusters/gastric_atony/c_infection_892a41.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tertiary stage of syphilis",
+      "raw": "Tertiary stage of syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Actinomycosis",
+      "raw": "Actinomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Strongyloidiasis",
+      "raw": "Strongyloidiasis",
+      "frequency": null
+    },
+    {
+      "name": "Phlegmonous gastritis",
+      "raw": "Phlegmonous gastritis",
+      "frequency": null
+    },
+    {
+      "name": "Toxoplasmosis",
+      "raw": "Toxoplasmosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  absent mucosal folds + peristalsis √  no change over years √  hyperplastic nodules / ulcerative lesion / annular lesion √  pyloric obstruction, may cross into duodenum"
+}

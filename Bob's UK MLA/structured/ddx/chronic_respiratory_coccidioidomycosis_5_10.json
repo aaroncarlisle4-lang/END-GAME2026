@@ -1,0 +1,37 @@
+{
+  "finding": "Chronic Respiratory Coccidioidomycosis (5-10%",
+  "slug": "chronic_respiratory_coccidioidomycosis_5_10",
+  "chapter": "CATAMENIAL PNEUMOTHORAX",
+  "source_file": "processed_clusters/catamenial_pneumothorax/chronic_respiratory_coccidioidomycosis_5_10.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "symptoms of postprimary tuberculosis, hemoptysis in 50%",
+      "raw": "symptoms of postprimary tuberculosis, hemoptysis in 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "skin granulomas / abscesses",
+      "raw": "skin granulomas / abscesses",
+      "frequency": null
+    },
+    {
+      "name": "Vasculitis (in up to 40%) involving small perforators → deep brain infarct",
+      "raw": "Vasculitis (in up to 40%) involving small perforators → deep brain infarct",
+      "frequency": "40%"
+    },
+    {
+      "name": "Subarachnoid hemorrhage ← granulomatous inflammation of large vessels",
+      "raw": "Subarachnoid hemorrhage ← granulomatous inflammation of large vessels",
+      "frequency": null
+    },
+    {
+      "name": "Cerebritis (especially in immunocompromised patients) → fungal extension",
+      "raw": "Cerebritis (especially in immunocompromised patients) → fungal extension",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   5% of infected patients √  one / several well-defined nodules (= coccidioidomycoma) of 5-30 mm in size (in 50- 70%) √  persistent / progressive consolidation √  \"grape skin\" thin-walled cavities (in 10-15%), in 90% solitary, 70% in anterior segment of upper lobes (DDx: TB), 3% rupture into pleural space due to subpleural location (pneumothorax / empyema / persistent bronchopleural fistula √  bronchiectasis √  mediastinal adenopathy (10-20%) Disseminated Coccidioidomycosis (1%) =  secondary phase of hematogenous spread to meninges, bones, skin, lymph nodes, subcutaneous tissue, jo"
+}

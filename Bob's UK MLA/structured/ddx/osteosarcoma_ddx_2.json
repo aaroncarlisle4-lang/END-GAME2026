@@ -1,0 +1,27 @@
+{
+  "finding": "Osteosarcoma (DDx)",
+  "slug": "osteosarcoma_ddx_2",
+  "chapter": "Osteosarcoma",
+  "source_file": "processed_clusters/osteosarcoma/osteosarcoma_ddx_2.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "heavy metal poisoning",
+      "raw": "heavy metal poisoning",
+      "frequency": null
+    },
+    {
+      "name": "sclerosing osteitis",
+      "raw": "sclerosing osteitis",
+      "frequency": null
+    },
+    {
+      "name": "progressive diaphyseal dysplasia",
+      "raw": "progressive diaphyseal dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "early: bone islands | late: entire metaphysis fills with sclerotic lesions breaking through cortex | lesions are of same size | lung metastases (62%)"
+}

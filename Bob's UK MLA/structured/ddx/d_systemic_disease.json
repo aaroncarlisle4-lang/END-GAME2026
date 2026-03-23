@@ -1,0 +1,52 @@
+{
+  "finding": "D. SYSTEMIC DISEASE",
+  "slug": "d_systemic_disease",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/d_systemic_disease.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "blistering of skin + mucous membranes in response to minor trauma",
+      "raw": "blistering of skin + mucous membranes in response to minor trauma",
+      "frequency": null
+    },
+    {
+      "name": "Epidermolysis bullosa dystrophica",
+      "raw": "Epidermolysis bullosa dystrophica",
+      "frequency": null
+    },
+    {
+      "name": "Benign mucous membrane pemphigoid =  rare disease of unknown cause",
+      "raw": "Benign mucous membrane pemphigoid =  rare disease of unknown cause",
+      "frequency": "rare"
+    },
+    {
+      "name": "Pemphigus vulgaris (b)  others:",
+      "raw": "Pemphigus vulgaris (b)  others:",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Graft-versus-host disease",
+      "raw": "Graft-versus-host disease",
+      "frequency": null
+    },
+    {
+      "name": "Behçet disease",
+      "raw": "Behçet disease",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic gastroenteritis",
+      "raw": "Eosinophilic gastroenteritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  dermatologic disorders Histo:   intraepidermal bullae Histo:   subepidermal bullae without acantholysis Age:   4th decade; M < F √  esophageal lesions (in 2-13%) most frequent at sites of relative stasis (aortic knob, carina, GE junction): √  thin smooth webs arising from anterior aspect √  stenoses of variable length"
+}

@@ -1,0 +1,65 @@
+{
+  "finding": "C. TUMOR",
+  "slug": "c_tumor",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/chest_disorders/c_tumor.md",
+  "quality_score": 0.8,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "AIDS-related lymphoma of B-cell origin (2-5%) primarily immunoblastic NHL /",
+      "raw": "AIDS-related lymphoma of B-cell origin (2-5%) primarily immunoblastic NHL /",
+      "frequency": "5%"
+    },
+    {
+      "name": "LYMPHOID INTERSTITIAL PNEUMONITIS",
+      "raw": "LYMPHOID INTERSTITIAL PNEUMONITIS",
+      "frequency": null
+    },
+    {
+      "name": "SEPTIC EMBOLI",
+      "raw": "SEPTIC EMBOLI",
+      "frequency": null
+    },
+    {
+      "name": "PREMATURE DEVELOPMENT OF BULLAE (40%) with disposition to spontaneous pneumothorax",
+      "raw": "PREMATURE DEVELOPMENT OF BULLAE (40%) with disposition to spontaneous pneumothorax",
+      "frequency": "40%"
+    },
+    {
+      "name": "weight loss, malaise, diarrhea",
+      "raw": "weight loss, malaise, diarrhea",
+      "frequency": null
+    },
+    {
+      "name": "fever, night sweats, lymphadenopathy",
+      "raw": "fever, night sweats, lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "lymphopenia with selective decrease in helper T-cells",
+      "raw": "lymphopenia with selective decrease in helper T-cells",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Kaposi sarcoma": [],
+    "AIDS-related lymphoma of B-cell origin (2-5%) primarily immunoblastic NHL /": [
+      "Burkitt lymphoma / non-Burkitt lymphoma; occasionally Hodgkin disease Location:   pulmonary involvement (8-15%), CNS, GI tract, liver, spleen, bone marrow Site:   primarily extranodal"
+    ],
+    "LYMPHOID INTERSTITIAL PNEUMONITIS": [],
+    "SEPTIC EMBOLI": [],
+    "PREMATURE DEVELOPMENT OF BULLAE (40%) with disposition to spontaneous pneumothorax": [
+      "solitary / multiple well-defined pulmonary nodules (occasionally with doubling times of 4-6 weeks)"
+    ],
+    "weight loss, malaise, diarrhea": [],
+    "fever, night sweats, lymphadenopathy": [],
+    "lymphopenia with selective decrease in helper T-cells": []
+  },
+  "context": "Burkitt lymphoma / non-Burkitt lymphoma; occasionally Hodgkin disease Location:   pulmonary involvement (8-15%), CNS, GI tract, liver, spleen, bone marrow Site:   primarily extranodal √  pleural effusion (50%) √  hilar / mediastinal adenopathy (25%) ± axillary / supraclavicular / cervical adenopathy √  solitary / multiple well-defined pulmonary nodules (occasionally with doubling times of 4-6 weeks) √  diffuse bilateral reticulonodular heterogeneous opacities √  alveolar infiltrates √  paraspinal masses Age:   in children < 13 years of age AIDS-related Complex (ARC) =  GENERALIZED LYMPHADENOPA"
+}

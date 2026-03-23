@@ -1,0 +1,27 @@
+{
+  "finding": "Klebsiella Pneumonia (DDx)",
+  "slug": "klebsiella_pneumonia_ddx",
+  "chapter": "Klebsiella Pneumonia",
+  "source_file": "processed_clusters/klebsiella_pneumonia/klebsiella_pneumonia_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute pneumococcal pneumonia (bulging of fissures",
+      "raw": "Acute pneumococcal pneumonia (bulging of fissures",
+      "frequency": null
+    },
+    {
+      "name": "abscess + cavity formation",
+      "raw": "abscess + cavity formation",
+      "frequency": null
+    },
+    {
+      "name": "pleural effusion / empyema frequent)",
+      "raw": "pleural effusion / empyema frequent)",
+      "frequency": "frequent"
+    }
+  ],
+  "criteria": {},
+  "context": "empyema (one of the most common causes) | patchy bronchopneumonia may be present | uni- / multilocular cavities (50%) appearing within 4 days | pulmonary gangrene = infarcted tissue (rare)"
+}

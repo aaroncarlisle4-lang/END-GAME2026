@@ -1,0 +1,39 @@
+{
+  "name": "LARYNGEAL HEMANGIOMA",
+  "slug": "laryngeal_hemangioma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/laryngeal_hemangioma.md",
+  "definition": "SUBGLOTTIC HEMANGIOMA",
+  "demographics": {
+    "Histo": "cavernous / capillary type",
+    "Age": "< 6 months; M÷F = 1÷2",
+    "Location": "subglottic region"
+  },
+  "dominant_finding": "phleboliths (PATHOGNOMONIC for cavernous type)",
+  "distribution": "subglottic region",
+  "discriminating_features": [
+    "phleboliths (PATHOGNOMONIC for cavernous type)",
+    "strong contrast enhancement",
+    "very high signal intensity on T2WI",
+    "posterolateral subglottic airway narrowing (AP view)",
+    "eccentric thickening of subglottic portion of trachea (AP view)"
+  ],
+  "other_features": {
+    "general": [
+      "strong contrast enhancement"
+    ],
+    "CT": [
+      "phleboliths (PATHOGNOMONIC for cavernous type)"
+    ],
+    "MR": [
+      "very high signal intensity on T2WI",
+      "posterolateral subglottic airway narrowing (AP view)",
+      "eccentric thickening of subglottic portion of trachea (AP view)",
+      "subtle endoluminal mass arising from posterior wall below true cords (LAT view)"
+    ]
+  },
+  "clinical": {
+    "N.B.": "CECT required to depict full extent",
+    "Rx": "tracheostomy (waiting for spontaneous regression)"
+  }
+}

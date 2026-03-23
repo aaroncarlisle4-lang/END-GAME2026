@@ -1,0 +1,57 @@
+{
+  "finding": "FRACTURES OF SKULL",
+  "slug": "fractures_of_skull",
+  "chapter": "DIASTEMATOMYELIA",
+  "source_file": "processed_clusters/diastematomyelia/fractures_of_skull.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Linear fracture",
+      "raw": "Linear fracture (most common type)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Vascular groove, esp. temporal artery",
+      "raw": "Vascular groove, esp. temporal artery (gray line, slightly sclerotic margin, branching like a tree, typical location (temporal artery projects behind dorsum sellae)",
+      "frequency": null
+    },
+    {
+      "name": "Suture",
+      "raw": "Suture",
+      "frequency": null
+    },
+    {
+      "name": "Depressed fracture",
+      "raw": "Depressed fracture",
+      "frequency": null
+    },
+    {
+      "name": "often palpable",
+      "raw": "often palpable",
+      "frequency": null
+    },
+    {
+      "name": "Skull-base fracture = basilar skull fracture",
+      "raw": "Skull-base fracture = basilar skull fracture",
+      "frequency": null
+    },
+    {
+      "name": "rhinorrhea",
+      "raw": "rhinorrhea (CSF); otorrhea (CSF / hemotympanum)",
+      "frequency": null
+    },
+    {
+      "name": "raccoon eyes = periorbital ecchymosis",
+      "raw": "raccoon eyes = periorbital ecchymosis",
+      "frequency": null
+    },
+    {
+      "name": "Healing skull fracture @   infants: in 3-6 months without a trace @   children (5-12 years): in 12 months @   adults: in 2-3 years",
+      "raw": "Healing skull fracture @   infants: in 3-6 months without a trace @   children (5-12 years): in 12 months @   adults: in 2-3 years",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  deeply black sharply defined line DDx: √  bone-on-bone density Rx:   surgery indicated if depression > 3-5 mm ← arachnoid tear / brain injury N.B.:   CT / MR mandatory to assess extent of underlying brain injury √  basic rules for skull fractures: √  overlying soft-tissue injury / hematoma √  sharp nonsclerotic border, often crossing sutures √  may bifurcate √  increase in diameter as fracture approaches suture √  diastasis of suture √  pneumocephalus √  air in sulci √  air-fluid level in sinuses Cx:   infection, acute / delayed cranial nerve deficit, vascular laceration / dissection / occl"
+}

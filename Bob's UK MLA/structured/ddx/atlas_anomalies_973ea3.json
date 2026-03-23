@@ -1,0 +1,42 @@
+{
+  "finding": "Atlas Anomalies",
+  "slug": "atlas_anomalies_973ea3",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/atlas_anomalies_973ea3.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "POSTERIOR ARCH ANOMALIES",
+      "raw": "POSTERIOR ARCH ANOMALIES",
+      "frequency": null
+    },
+    {
+      "name": "Posterior atlas arch rachischisis",
+      "raw": "Posterior atlas arch rachischisis (4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Total aplasia of posterior atlas arch",
+      "raw": "Total aplasia of posterior atlas arch",
+      "frequency": null
+    },
+    {
+      "name": "Keller-type aplasia with persistence of posterior tubercle",
+      "raw": "Keller-type aplasia with persistence of posterior tubercle",
+      "frequency": null
+    },
+    {
+      "name": "Aplasia with uni- / bilateral remnant + midline rachischisis",
+      "raw": "Aplasia with uni- / bilateral remnant + midline rachischisis",
+      "frequency": null
+    },
+    {
+      "name": "Partial / total hemiaplasia of posterior arch",
+      "raw": "Partial / total hemiaplasia of posterior arch",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   midline (97%); lateral through sulcus of vertebral artery (3%) √  absence of arch-canal line (LAT view) √  superimposed on odontoid process / axis body simulating a fracture (open-mouth odontoid view)"
+}

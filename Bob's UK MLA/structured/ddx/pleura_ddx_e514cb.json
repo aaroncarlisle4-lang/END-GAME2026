@@ -1,0 +1,37 @@
+{
+  "finding": "Pleura (DDx)",
+  "slug": "pleura_ddx_e514cb",
+  "chapter": "Pleura",
+  "source_file": "processed_clusters/pleura/pleura_ddx_e514cb.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "skin fold",
+      "raw": "skin fold",
+      "frequency": null
+    },
+    {
+      "name": "air trapped between soft tissues of chest wall",
+      "raw": "air trapped between soft tissues of chest wall",
+      "frequency": null
+    },
+    {
+      "name": "hair braid",
+      "raw": "hair braid",
+      "frequency": null
+    },
+    {
+      "name": "overlying tubing / dressing / line",
+      "raw": "overlying tubing / dressing / line",
+      "frequency": null
+    },
+    {
+      "name": "prior chest tube track",
+      "raw": "prior chest tube track",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "collapse of SVC / IVC / right heart border ← decreased systemic venous return + | sharp delineation of visceral pleural by dense pleural space | air-fluid level in pleural space on erect CXR | white margin of visceral pleura separated from parietal pleura"
+}

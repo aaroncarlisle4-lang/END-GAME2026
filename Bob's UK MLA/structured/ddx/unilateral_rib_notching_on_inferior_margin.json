@@ -1,0 +1,27 @@
+{
+  "finding": "Unilateral Rib Notching on Inferior Margin",
+  "slug": "unilateral_rib_notching_on_inferior_margin",
+  "chapter": "RIBS",
+  "source_file": "processed_clusters/ribs/unilateral_rib_notching_on_inferior_margin.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Postoperative Blalock-Taussig shunt",
+      "raw": "Postoperative Blalock-Taussig shunt (subclavian to pulmonary artery)",
+      "frequency": null
+    },
+    {
+      "name": "Coarctation between origin of innominate a. + L subclavian a.",
+      "raw": "Coarctation between origin of innominate a. + L subclavian a.",
+      "frequency": null
+    },
+    {
+      "name": "Coarctation proximal to aberrant subclavian a.",
+      "raw": "Coarctation proximal to aberrant subclavian a.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,82 @@
+{
+  "finding": "A. PRIMARY / IDIOPATHIC (20%",
+  "slug": "a_primary_idiopathic_20_2efa6e",
+  "chapter": "MESENTERIC LYMPHADENITIS",
+  "source_file": "processed_clusters/mesenteric_lymphadenitis/a_primary_idiopathic_20_2efa6e.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "SECONDARY (with predisposing condition):",
+      "raw": "SECONDARY (with predisposing condition):",
+      "frequency": null
+    },
+    {
+      "name": "Infection: acute pancreatitis (24%), sepsis, colonic diverticulitis, appendicitis, peritonitis, abdominal abscess",
+      "raw": "Infection: acute pancreatitis (24%), sepsis, colonic diverticulitis, appendicitis, peritonitis, abdominal abscess",
+      "frequency": "24%"
+    },
+    {
+      "name": "Inflammatory bowel disease",
+      "raw": "Inflammatory bowel disease (2%)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Trauma, postoperative state: Roux-en-Y gastric bypass > Nissen fundoplication > partial colectomy > cholecystectomy > appendectomy, pancreaticoduodenectomy",
+      "raw": "Trauma, postoperative state: Roux-en-Y gastric bypass > Nissen fundoplication > partial colectomy > cholecystectomy > appendectomy, pancreaticoduodenectomy (27%)",
+      "frequency": "27%"
+    },
+    {
+      "name": "Mechanical: volvulus, bowel obstruction",
+      "raw": "Mechanical: volvulus, bowel obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Myeloproliferative neoplasm: chronic myelogenous leukemia, polycythemia vera, essential thrombocythemia, primary myelofibrosis",
+      "raw": "Myeloproliferative neoplasm: chronic myelogenous leukemia, polycythemia vera, essential thrombocythemia, primary myelofibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Inheritable hypercoagulable state",
+      "raw": "Inheritable hypercoagulable state",
+      "frequency": null
+    },
+    {
+      "name": "Paraneoplastic thromboembolism",
+      "raw": "Paraneoplastic thromboembolism",
+      "frequency": null
+    },
+    {
+      "name": "Tumor invasion: pancreatic cancer, HCC",
+      "raw": "Tumor invasion: pancreatic cancer, HCC",
+      "frequency": null
+    },
+    {
+      "name": "Miscellaneous causes: oral contraceptives (5%), pregnancy, chemotherapy The location of thrombus is often determined by the underlying cause. Hematologic disorders affect small venous branches with progression into larger trunks.",
+      "raw": "Miscellaneous causes: oral contraceptives (5%), pregnancy, chemotherapy The location of thrombus is often determined by the underlying cause. Hematologic disorders affect small venous branches with progression into larger trunks.",
+      "frequency": "5%"
+    },
+    {
+      "name": "usually subacute symptomatology over 1-4 weeks",
+      "raw": "usually subacute symptomatology over 1-4 weeks",
+      "frequency": null
+    },
+    {
+      "name": "abdominal pain with rebound / guarding",
+      "raw": "abdominal pain with rebound / guarding (acute MVT)",
+      "frequency": null
+    },
+    {
+      "name": "nausea, vomiting, diarrhea",
+      "raw": "nausea, vomiting, diarrhea",
+      "frequency": null
+    },
+    {
+      "name": "hematemesis, hematochezia",
+      "raw": "hematemesis, hematochezia (after bowel necrosis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   SMV > IMV (6%) √  ileus √  ascites √  bowel wall thickening (64%) with \"thumbprinting CT: ›  mural signs: √  pneumatosis intestinalis ← bowel infarction √  hypoattenuated circumferential bowel wall thickening ← intramural edema / hemorrhage Bowel wall thickening is more pronounced in venous congestion than in arterial occlusion. √  \"halo / target\" sign = abnormally enhancing bowel wall with mural stratification into 2 or 3 thickened layers: √  hyperattenuating inner ring (= mucosa) + outer ring (= muscularis propria) separated by hypoattenuating middle ring (= submucosal edema) √"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "B. REDUCTION IN TBG",
+  "slug": "b_reduction_in_tbg",
+  "chapter": "B. BLOCKED ORGANIFICATION",
+  "source_file": "processed_clusters/b_blocked_organification/b_reduction_in_tbg.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Androgens",
+      "raw": "Androgens",
+      "frequency": null
+    },
+    {
+      "name": "Anabolic steroids",
+      "raw": "Anabolic steroids",
+      "frequency": null
+    },
+    {
+      "name": "Glucocorticoids",
+      "raw": "Glucocorticoids",
+      "frequency": null
+    },
+    {
+      "name": "Nephrotic syndrome",
+      "raw": "Nephrotic syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Chronic hepatic disease",
+      "raw": "Chronic hepatic disease",
+      "frequency": null
+    },
+    {
+      "name": "INHIBITION OF T4 BINDING TO TBG: salicylates",
+      "raw": "INHIBITION OF T4 BINDING TO TBG: salicylates",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Ultrasound Characterization of Thyroid Nodules Ultrasound Features of Malignancy √  microcalcifications = psammoma bodies √  extension beyond thyroid margin √  cervical lymph node metastasis (in 19%) √  taller-than-wide shape in transverse plane √  marked hypoechogenicity relative to thyroid parenchyma less specific: √  irregular / microlobulated / ill-defined margin √  solid composition √  increased central vascularity Ultrasound Features of Benignity √  nodule surrounded by uniform halo √  predominantly cystic composition √  avascularity √  enlarged thyroid with multiple nodules Thyroid Nodu"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Presedation Assessment",
+  "slug": "presedation_assessment_ae9a09",
+  "chapter": "SEDATION",
+  "source_file": "processed_clusters/sedation/presedation_assessment_ae9a09.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Evaluate patient (within 30 days of procedure + update within 24 hours) (a)  personal history:",
+      "raw": "Evaluate patient (within 30 days of procedure + update within 24 hours) (a)  personal history:",
+      "frequency": null
+    },
+    {
+      "name": "Classify physical status of patient",
+      "raw": "Classify physical status of patient (see table)",
+      "frequency": null
+    },
+    {
+      "name": "Document discussion with patient concerning risks and benefits + obtain consent",
+      "raw": "Document discussion with patient concerning risks and benefits + obtain consent",
+      "frequency": null
+    },
+    {
+      "name": "Document plan for sedation",
+      "raw": "Document plan for sedation",
+      "frequency": null
+    },
+    {
+      "name": "Assure presence of appropriate personnel + equipment",
+      "raw": "Assure presence of appropriate personnel + equipment",
+      "frequency": null
+    },
+    {
+      "name": "Identify correct patient immediately before onset of procedure",
+      "raw": "Identify correct patient immediately before onset of procedure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  cardiovascular: hypertension, myocardial infarction within prior 6 months, CHF, arrhythmia → pose an increased risk ›  respiratory: asthma, COPD, other lung disease ›  gastrointestinal: GERD, peptic ulcer, nil per os (NPO) status ›  fasting status: predictor of aspiration ◊  In an emergent procedure administer 10 mg IV metoclopramide (Reglan®) + 10 mg IV famotidine (Pepcid®) / other H2 blocker! (b)  medication history ›  continue cardiovascular medication ›  monitor blood sugar in diabetics (c)  physical examination Dose adjustment: ›  in elderly 30-50% dose reduction + more frequent dose i"
+}

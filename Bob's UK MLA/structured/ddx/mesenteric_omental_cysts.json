@@ -1,0 +1,47 @@
+{
+  "finding": "Mesenteric / Omental Cysts",
+  "slug": "mesenteric_omental_cysts",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/mesenteric_omental_cysts.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Nonpancreatic pseudocyst =  sequelae of mesenteric / omental hematoma / abscess Path:   thick-walled, usually septated cystic mass with hemorrhagic / purulent contents",
+      "raw": "Nonpancreatic pseudocyst =  sequelae of mesenteric / omental hematoma / abscess Path:   thick-walled, usually septated cystic mass with hemorrhagic / purulent contents",
+      "frequency": null
+    },
+    {
+      "name": "Duplication cyst",
+      "raw": "Duplication cyst",
+      "frequency": null
+    },
+    {
+      "name": "Mesothelial cyst",
+      "raw": "Mesothelial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Enteric cyst",
+      "raw": "Enteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cystic metastasis",
+      "raw": "Cystic metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Cystic mesothelioma",
+      "raw": "Cystic mesothelioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  \"Bubbles of the belly\" ◊  The first step is to determine the organ of origin!"
+}

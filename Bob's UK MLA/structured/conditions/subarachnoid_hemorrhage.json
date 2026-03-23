@@ -1,0 +1,30 @@
+{
+  "name": "SUBARACHNOID HEMORRHAGE",
+  "slug": "subarachnoid_hemorrhage",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/subarachnoid_hemorrhage.md",
+  "definition": "blood between pia + arachnoid membrane",
+  "demographics": {},
+  "dominant_finding": "increased density in basal cisterns, superior cerebellar cistern, sylvian fissure, cortical",
+  "distribution": "increased density in basal cisterns, superior cerebellar cistern, sylvian fissure, cortical",
+  "discriminating_features": [
+    "increased density in basal cisterns, superior cerebellar cistern, sylvian fissure, cortical",
+    "along interhemispheric fissure = on lateral aspect irregular dentate pattern due to extension",
+    "\"cortical vein\" sign = visualization of cortical veins passing through extraaxial fluid",
+    "hyperintense sulci and cisterns on FLAIR and T2* (more sensitive than CT for small",
+    "\"dirty\" CSF isointense to brain on T1WI + T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "increased density in basal cisterns, superior cerebellar cistern, sylvian fissure, cortical",
+      "along interhemispheric fissure = on lateral aspect irregular dentate pattern due to extension",
+      "\"cortical vein\" sign = visualization of cortical veins passing through extraaxial fluid",
+      "hyperintense sulci and cisterns on FLAIR and T2* (more sensitive than CT for small",
+      "\"dirty\" CSF isointense to brain on T1WI + T2WI",
+      "low signal intensity on brain surfaces in recurrent subarachnoid hemorrhages (hemosiderin"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "clinical course depends on amount of subarachnoid blood"
+  }
+}

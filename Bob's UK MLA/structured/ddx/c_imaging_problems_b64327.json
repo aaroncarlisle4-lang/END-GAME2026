@@ -1,0 +1,52 @@
+{
+  "finding": "C. IMAGING PROBLEMS",
+  "slug": "c_imaging_problems_b64327",
+  "chapter": "BREAST DENSITY",
+  "source_file": "processed_clusters/breast_density/c_imaging_problems_b64327.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Superimposed normal fibroglandular tissue",
+      "raw": "Superimposed normal fibroglandular tissue",
+      "frequency": null
+    },
+    {
+      "name": "Lesion obscured by overlapping dense parenchyma",
+      "raw": "Lesion obscured by overlapping dense parenchyma",
+      "frequency": null
+    },
+    {
+      "name": "Lesion outside field of view",
+      "raw": "Lesion outside field of view",
+      "frequency": null
+    },
+    {
+      "name": "CANCER",
+      "raw": "CANCER",
+      "frequency": null
+    },
+    {
+      "name": "\"Inflammatory\" breast cancer",
+      "raw": "\"Inflammatory\" breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse primary noninflammatory breast cancer",
+      "raw": "Diffuse primary noninflammatory breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse metastatic breast cancer",
+      "raw": "Diffuse metastatic breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / leukemia ← obstructive lymphedema of breast",
+      "raw": "Lymphoma / leukemia ← obstructive lymphedema of breast",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Diffuse Increase in Breast Density ◊  Increased breast density masks breast cancer detection and is also a primary risk factor for breast cancer! The relative risk for cancer in women with heterogeneously dense breasts compared with the average woman is ~ 1.2. The relative risk for cancer in women with extremely dense breasts compared with the average woman is ~ 2.1. √  generalized increased density √  skin thickening √  reticular pattern in subcutis"
+}

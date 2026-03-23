@@ -1,0 +1,52 @@
+{
+  "finding": "Neoplasia in Thymus",
+  "slug": "neoplasia_in_thymus_5705f8",
+  "chapter": "THYMUS",
+  "source_file": "processed_clusters/thymus/neoplasia_in_thymus_5705f8.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epithelial thymic tumor: thymoma, thymic carcinoma",
+      "raw": "Epithelial thymic tumor: thymoma, thymic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Thymic lymphoma: Hodgkin disease, NHL",
+      "raw": "Thymic lymphoma: Hodgkin disease, NHL",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Thymolipoma",
+      "raw": "Thymolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Germ cell tumor",
+      "raw": "Germ cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

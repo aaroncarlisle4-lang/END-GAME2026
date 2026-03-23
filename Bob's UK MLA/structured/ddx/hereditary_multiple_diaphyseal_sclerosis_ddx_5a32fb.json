@@ -1,0 +1,22 @@
+{
+  "finding": "Hereditary Multiple Diaphyseal Sclerosis (DDx)",
+  "slug": "hereditary_multiple_diaphyseal_sclerosis_ddx_5a32fb",
+  "chapter": "Hereditary Multiple Diaphyseal Sclerosis",
+  "source_file": "processed_clusters/hereditary_multiple_diaphyseal_sclerosis/hereditary_multiple_diaphyseal_sclerosis_ddx_5a32fb.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "progressive diaphyseal dysplasia (begins in childhood",
+      "raw": "progressive diaphyseal dysplasia (begins in childhood",
+      "frequency": null
+    },
+    {
+      "name": "severe neuromuscular symptoms",
+      "raw": "severe neuromuscular symptoms",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cortical thickening of periosteal + endosteal surfaces | epiphyses characteristically spared | ± narrowing of medullary canal | disease may progress slowly and then stabilize"
+}

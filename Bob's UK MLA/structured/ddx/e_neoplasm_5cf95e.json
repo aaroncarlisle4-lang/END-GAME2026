@@ -1,0 +1,62 @@
+{
+  "finding": "E. NEOPLASM",
+  "slug": "e_neoplasm_5cf95e",
+  "chapter": "B. HERNIA",
+  "source_file": "processed_clusters/b_hernia/e_neoplasm_5cf95e.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma (most common benign tumor)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Inguinal lymph node metastases ← cancer of lower vagina, vulva, penis, lower rectum, anus, lower extremity",
+      "raw": "Inguinal lymph node metastases ← cancer of lower vagina, vulva, penis, lower rectum, anus, lower extremity",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation  48%",
+      "raw": "Inflammation  48%",
+      "frequency": "48%"
+    },
+    {
+      "name": "Hydrocele  24%",
+      "raw": "Hydrocele  24%",
+      "frequency": "24%"
+    },
+    {
+      "name": "Torsion  9%",
+      "raw": "Torsion  9%",
+      "frequency": "9%"
+    },
+    {
+      "name": "Varicocele  7%",
+      "raw": "Varicocele  7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "Spermatocele  4%",
+      "raw": "Spermatocele  4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Cysts  4%",
+      "raw": "Cysts  4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Malignant tumor  2%",
+      "raw": "Malignant tumor  2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Benign tumor  0.7% ◊  Sonographic differentiation of intra- from extratesticular masses is 80-95% accurate!",
+      "raw": "Benign tumor  0.7% ◊  Sonographic differentiation of intra- from extratesticular masses is 80-95% accurate!",
+      "frequency": "0.7%"
+    }
+  ],
+  "criteria": {},
+  "context": "Scrotal mass US is used to distinguish between (a) intratesticular masses (more commonly malignant) and extratesticular masses (more commonly benign) (b) intratesticular solid masses (often malignant) and cystic lesions (usually benign). Most frequent conditions:"
+}

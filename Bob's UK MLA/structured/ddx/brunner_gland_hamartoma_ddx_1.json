@@ -1,0 +1,32 @@
+{
+  "finding": "Brunner Gland Hamartoma (DDx)",
+  "slug": "brunner_gland_hamartoma_ddx_1",
+  "chapter": "Brunner Gland Hamartoma",
+  "source_file": "processed_clusters/brunner_gland_hamartoma/brunner_gland_hamartoma_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "polyposis syndromes",
+      "raw": "polyposis syndromes",
+      "frequency": null
+    },
+    {
+      "name": "lymphoid hyperplasia",
+      "raw": "lymphoid hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "heterotopic gastric mucosa",
+      "raw": "heterotopic gastric mucosa",
+      "frequency": null
+    },
+    {
+      "name": "nodular duodenitis",
+      "raw": "nodular duodenitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multiple nodular filling defects (usually limited to 1st portion of duodenum) with"
+}

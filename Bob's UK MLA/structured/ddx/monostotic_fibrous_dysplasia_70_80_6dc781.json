@@ -1,0 +1,42 @@
+{
+  "finding": "Monostotic Fibrous Dysplasia (70-80%",
+  "slug": "monostotic_fibrous_dysplasia_70_80_6dc781",
+  "chapter": "FIBROMA OF TENDON SHEATH",
+  "source_file": "processed_clusters/fibroma_of_tendon_sheath/monostotic_fibrous_dysplasia_70_80_6dc781.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "usually asymptomatic until 2nd-3rd decade",
+      "raw": "usually asymptomatic until 2nd-3rd decade",
+      "frequency": null
+    },
+    {
+      "name": "incidental discovery: obvious deformity / dull aching pain",
+      "raw": "incidental discovery: obvious deformity / dull aching pain",
+      "frequency": null
+    },
+    {
+      "name": "pain ← pathologic fracture Location:  ribs (6-28%), proximal femur (23%), tibia, craniofacial bones (10-25%)[frontal, sphenoid, maxillary, ethmoid], humerus",
+      "raw": "pain ← pathologic fracture Location:  ribs (6-28%), proximal femur (23%), tibia, craniofacial bones (10-25%)[frontal, sphenoid, maxillary, ethmoid], humerus",
+      "frequency": "28%"
+    },
+    {
+      "name": "No conversion to polyostotic form",
+      "raw": "No conversion to polyostotic form",
+      "frequency": null
+    },
+    {
+      "name": "No increase in size over time",
+      "raw": "No increase in size over time",
+      "frequency": null
+    },
+    {
+      "name": "Disease becomes inactive at puberty",
+      "raw": "Disease becomes inactive at puberty",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Age:     10-70 years Rules:"
+}

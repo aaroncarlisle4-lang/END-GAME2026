@@ -1,0 +1,32 @@
+{
+  "finding": "Abortion — Subchorionic hemorrhage (DDx)",
+  "slug": "abortion_subchorionic_hemorrhage_ddx_1",
+  "chapter": "Abortion",
+  "source_file": "processed_clusters/abortion/abortion_subchorionic_hemorrhage_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "arteriovenous malformation",
+      "raw": "arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "trophoblastic disease",
+      "raw": "trophoblastic disease",
+      "frequency": null
+    },
+    {
+      "name": "endometrial polyp",
+      "raw": "endometrial polyp",
+      "frequency": null
+    },
+    {
+      "name": "submucosal myoma",
+      "raw": "submucosal myoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hyperintense polypoid mass on T2WI"
+}

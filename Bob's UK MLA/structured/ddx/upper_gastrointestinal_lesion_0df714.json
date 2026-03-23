@@ -1,0 +1,42 @@
+{
+  "finding": "Upper Gastrointestinal Lesion",
+  "slug": "upper_gastrointestinal_lesion_0df714",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/gastrointestinal_hemorrhage/upper_gastrointestinal_lesion_0df714.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cameron lesion =  ulcer in hiatal hernia sac with incidence of 5.3%",
+      "raw": "Cameron lesion =  ulcer in hiatal hernia sac with incidence of 5.3%",
+      "frequency": "5.3%"
+    },
+    {
+      "name": "Fundic varices",
+      "raw": "Fundic varices",
+      "frequency": null
+    },
+    {
+      "name": "Peptic ulcer",
+      "raw": "Peptic ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Angiectasia",
+      "raw": "Angiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Gastric antral vascular ectasia",
+      "raw": "Gastric antral vascular ectasia",
+      "frequency": null
+    },
+    {
+      "name": "Dieulafoy lesion [Paul Georges Dieulafoy (1839-1911), French physician and surgeon, chief of Hôtel-",
+      "raw": "Dieulafoy lesion [Paul Georges Dieulafoy (1839-1911), French physician and surgeon, chief of Hôtel-",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Dieu de Paris] =  exulceratio simplex = uncommon developmental large tortuous 1-5 mm submucosal arteriole that erodes and bleeds Location:  on lesser curvature of stomach within 6 cm of GE junction (75%), duodenum (14%), colon (5%)"
+}

@@ -1,0 +1,77 @@
+{
+  "finding": "HORMONES",
+  "slug": "hormones",
+  "chapter": "BONE MARROW",
+  "source_file": "processed_clusters/bone_marrow/hormones.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "increase of serum calcium levels",
+      "raw": "increase of serum calcium levels",
+      "frequency": null
+    },
+    {
+      "name": "increase in serum alkaline phosphatase",
+      "raw": "increase in serum alkaline phosphatase (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "adequate calcium absorption from gut",
+      "raw": "adequate calcium absorption from gut",
+      "frequency": null
+    },
+    {
+      "name": "synthesis of calcium-binding protein in intestinal mucosa",
+      "raw": "synthesis of calcium-binding protein in intestinal mucosa",
+      "frequency": null
+    },
+    {
+      "name": "parathormone effect",
+      "raw": "parathormone effect (→ stimulation of osteoclastic + osteocytic resorption of bone)",
+      "frequency": null
+    },
+    {
+      "name": "PTH elevation",
+      "raw": "PTH elevation",
+      "frequency": null
+    },
+    {
+      "name": "↑ absorption of calcium from bowel",
+      "raw": "↑ absorption of calcium from bowel",
+      "frequency": null
+    },
+    {
+      "name": "increased absorption of phosphate from distal small bowel (b) BONE:",
+      "raw": "increased absorption of phosphate from distal small bowel (b) BONE:",
+      "frequency": null
+    },
+    {
+      "name": "proper mineralization of osteoid",
+      "raw": "proper mineralization of osteoid",
+      "frequency": null
+    },
+    {
+      "name": "mobilization of calcium + phosphate (potentiates parathormone action) (c) KIDNEY: (1) ↑ absorption of calcium from renal tubule",
+      "raw": "mobilization of calcium + phosphate (potentiates parathormone action) (c) KIDNEY: (1) ↑ absorption of calcium from renal tubule",
+      "frequency": null
+    },
+    {
+      "name": "↑ absorption of phosphate from renal tubule (d) CELL:",
+      "raw": "↑ absorption of phosphate from renal tubule (d) CELL:",
+      "frequency": null
+    },
+    {
+      "name": "inhibits parathormone-induced osteoclasis by reducing number of osteoclasts",
+      "raw": "inhibits parathormone-induced osteoclasis by reducing number of osteoclasts",
+      "frequency": null
+    },
+    {
+      "name": "enhances deposition of calcium phosphate; responsible for sclerosis in renal osteodystrophy (b) KIDNEY: inhibits phosphate reabsorption in renal tubule (c) GUT:",
+      "raw": "enhances deposition of calcium phosphate; responsible for sclerosis in renal osteodystrophy (b) KIDNEY: inhibits phosphate reabsorption in renal tubule (c) GUT:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Parathormone =  key modulator of calcium homeostasis Origin:   chief cells of 4 parathyroid glands Major stimulus:   low levels of serum calcium ions (action requires vitamin D presence) Target organs: BONE:      mobilization of calcium at bone surface ← ↑ in osteoclastic activity KIDNEY:   (a)  ↑ renal tubular absorption of calcium (b)  ↓ tubular reabsorption of phosphate (+ amino acids) = phosphaturia (c)  ↑ hydroxylation of 25-OH vitamin D (see below under vitamin D metabolism) GUT:          ↑ absorption of calcium + phosphorus Major function: Vitamin D Metabolism required for Biochemistry:"
+}

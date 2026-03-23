@@ -1,0 +1,67 @@
+{
+  "finding": "Primary Benign Liver Tumor",
+  "slug": "primary_benign_liver_tumor",
+  "chapter": "B. Inflammation",
+  "source_file": "processed_clusters/b_inflammation/primary_benign_liver_tumor.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "EPITHELIAL TUMORS (a)  hepatocellular",
+      "raw": "EPITHELIAL TUMORS (a)  hepatocellular",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic adenoma",
+      "raw": "Hepatic adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Focal nodular hyperplasia",
+      "raw": "Focal nodular hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Nodules in cirrhosis: regenerative nodule, dysplastic nodule",
+      "raw": "Nodules in cirrhosis: regenerative nodule, dysplastic nodule",
+      "frequency": null
+    },
+    {
+      "name": "Nodular regenerative hyperplasia (b)  cholangiocellular",
+      "raw": "Nodular regenerative hyperplasia (b)  cholangiocellular",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic cyst",
+      "raw": "Hepatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Bile duct hamartoma",
+      "raw": "Bile duct hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Peribiliary cyst",
+      "raw": "Peribiliary cyst",
+      "frequency": null
+    },
+    {
+      "name": "Biliary cystadenoma",
+      "raw": "Biliary cystadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Caroli disease",
+      "raw": "Caroli disease",
+      "frequency": null
+    },
+    {
+      "name": "Biliary papillomatosis",
+      "raw": "Biliary papillomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

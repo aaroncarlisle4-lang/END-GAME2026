@@ -1,0 +1,27 @@
+{
+  "finding": "B. INFECTION",
+  "slug": "b_infection_7_cdfe40",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/b_infection_7_cdfe40.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic empyema: at bases; history of pneumonia; parenchymal scars",
+      "raw": "Chronic empyema: at bases; history of pneumonia; parenchymal scars",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis / histoplasmosis: lung apex; associated with apical cavity",
+      "raw": "Tuberculosis / histoplasmosis: lung apex; associated with apical cavity",
+      "frequency": null
+    },
+    {
+      "name": "Aspergilloma: in preexisting cavity concomitant with pleural thickening",
+      "raw": "Aspergilloma: in preexisting cavity concomitant with pleural thickening",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

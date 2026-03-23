@@ -1,0 +1,83 @@
+{
+  "finding": "PERICARDIUM",
+  "slug": "pericardium_1b4e6c",
+  "chapter": "Inferior Vena Cava",
+  "source_file": "processed_clusters/inferior_vena_cava/pericardium_1b4e6c.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "FIBROUS / PARIETAL PERICARDIUM = FIBROSA =  tough outer parietal layer that is mildly stretched",
+      "raw": "FIBROUS / PARIETAL PERICARDIUM = FIBROSA =  tough outer parietal layer that is mildly stretched",
+      "frequency": null
+    },
+    {
+      "name": "SEROUS / VISCERAL PERICARDIUM = serosa =  epicardium =  delicate inner visceral layer forming a completely closed sac around the pericardial cavity; consists of a single layer of mesothelial cells",
+      "raw": "SEROUS / VISCERAL PERICARDIUM = serosa =  epicardium =  delicate inner visceral layer forming a completely closed sac around the pericardial cavity; consists of a single layer of mesothelial cells",
+      "frequency": null
+    },
+    {
+      "name": "intimately connected to heart + epicardial fat",
+      "raw": "intimately connected to heart + epicardial fat",
+      "frequency": null
+    },
+    {
+      "name": "PERICARDIAL CAVITY =  space between visceral and parietal pericardium",
+      "raw": "PERICARDIAL CAVITY =  space between visceral and parietal pericardium",
+      "frequency": null
+    },
+    {
+      "name": "= percentages give depiction on HRCT",
+      "raw": "= percentages give depiction on HRCT",
+      "frequency": null
+    },
+    {
+      "name": "Recesses of pericardial cavity proper",
+      "raw": "Recesses of pericardial cavity proper",
+      "frequency": null
+    },
+    {
+      "name": "Postcaval recess 23%*",
+      "raw": "Postcaval recess 23%*",
+      "frequency": "23%"
+    },
+    {
+      "name": "Right pulmonic vein recess 29%*",
+      "raw": "Right pulmonic vein recess 29%*",
+      "frequency": "29%"
+    },
+    {
+      "name": "Left pulmonic vein recess 60%*",
+      "raw": "Left pulmonic vein recess 60%*",
+      "frequency": "60%"
+    },
+    {
+      "name": "Transverse sinus [Superior (aortic) recess] [Left pulmonic recess] [Right pulmonic recess] [Inferior aortic recess]",
+      "raw": "Transverse sinus",
+      "frequency": null,
+      "sites": [
+        "Superior (aortic) recess",
+        "Left pulmonic recess",
+        "Right pulmonic recess",
+        "Inferior aortic recess"
+      ]
+    },
+    {
+      "name": "Oblique sinus 89%*",
+      "raw": "Oblique sinus 89%*",
+      "frequency": "89%"
+    },
+    {
+      "name": "Posterior pericardial recess 67%*",
+      "raw": "Posterior pericardial recess 67%*",
+      "frequency": "67%"
+    },
+    {
+      "name": "can directly influence atherogenesis by free diffusion of fatty acids + adipokines into wall of coronary arteries",
+      "raw": "can directly influence atherogenesis by free diffusion of fatty acids + adipokines into wall of coronary arteries",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  double-walled sac (2-layered membrane) that envelops all cardiac chambers + origin of great vessels without direct attachment to heart Pericardial thickness:  0.4-1.0 mm (1.2-1.7 mm by MRI; 0.7-2.0 mm by CT) Function:   regulates normal ventricular compliance by minimizing dilatation of RV + RA; physically protects heart by production of fluid + surfactants; limits displacement of heart within mediastinum; acts as pressure transducer between pleural space + cardiac chambers (augments systemic venous return + RV filling during inspiration) √  attaches to sternum + proximal great vessels √  i"
+}

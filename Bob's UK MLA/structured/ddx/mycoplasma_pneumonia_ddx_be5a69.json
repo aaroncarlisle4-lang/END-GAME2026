@@ -1,0 +1,27 @@
+{
+  "finding": "Mycoplasma Pneumonia (DDx)",
+  "slug": "mycoplasma_pneumonia_ddx_be5a69",
+  "chapter": "Mycoplasma Pneumonia",
+  "source_file": "processed_clusters/mycoplasma_pneumonia/mycoplasma_pneumonia_ddx_be5a69.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "viral infection of lower respiratory tract",
+      "raw": "viral infection of lower respiratory tract",
+      "frequency": null
+    },
+    {
+      "name": "pertussis",
+      "raw": "pertussis",
+      "frequency": null
+    },
+    {
+      "name": "chlamydia",
+      "raw": "chlamydia (indistinguishable)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "patchy inhomogeneous unilateral (L > R) airspace consolidation in segmental lower lobe in | small pleural effusions in 20% | hilar adenopathy (7-22%)"
+}

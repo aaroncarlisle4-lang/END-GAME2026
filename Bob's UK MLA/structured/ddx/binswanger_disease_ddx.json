@@ -1,0 +1,27 @@
+{
+  "finding": "Binswanger Disease (DDx)",
+  "slug": "binswanger_disease_ddx",
+  "chapter": "Binswanger Disease",
+  "source_file": "processed_clusters/binswanger_disease/binswanger_disease_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "leukodystrophy",
+      "raw": "leukodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "progressive multifocal leukoencephalopathy",
+      "raw": "progressive multifocal leukoencephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "multiple sclerosis",
+      "raw": "multiple sclerosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multifocal hypodense lesions (periventricular, centrum semiovale) with sparing of U fibers | lacunar infarcts in basal ganglia | sulcal enlargement + dilated lateral ventricles (brain atrophy) | focal areas of increased signal intensity on T2WI (= \"unidentified bright objects\")"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Hemorrhagic Metastasis to Breast",
+  "slug": "hemorrhagic_metastasis_to_breast_7a4f70",
+  "chapter": "MAMMARY DUCT ECTASIA",
+  "source_file": "processed_clusters/mammary_duct_ectasia/hemorrhagic_metastasis_to_breast_7a4f70.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Malignant melanoma",
+      "raw": "Malignant melanoma",
+      "frequency": null
+    },
+    {
+      "name": "RCC",
+      "raw": "RCC",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

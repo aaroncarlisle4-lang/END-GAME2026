@@ -1,0 +1,57 @@
+{
+  "finding": "Beckwith-Wiedemann syndrome, sacrococcygeal teratoma, chromosomal",
+  "slug": "beckwith_wiedemann_syndrome_sacrococcygeal_teratoma_chromosomal",
+  "chapter": "PLACENTA",
+  "source_file": "processed_clusters/placenta/beckwith_wiedemann_syndrome_sacrococcygeal_teratoma_chromosomal.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Twin-twin transfusion syndrome (c)  fetomaternal hemorrhage (d)  placental abnormalities",
+      "raw": "Twin-twin transfusion syndrome (c)  fetomaternal hemorrhage (d)  placental abnormalities",
+      "frequency": null
+    },
+    {
+      "name": "Molar pregnancy",
+      "raw": "Molar pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Chorioangioma",
+      "raw": "Chorioangioma",
+      "frequency": null
+    },
+    {
+      "name": "Intraplacental hemorrhage",
+      "raw": "Intraplacental hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Hydrops",
+      "raw": "Hydrops",
+      "frequency": null
+    },
+    {
+      "name": "Abruption",
+      "raw": "Abruption",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus",
+      "raw": "Diabetes mellitus",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Triploidy",
+      "raw": "Triploidy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "abnormality, fetal hydrops"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Dilated Small Bowel & Normal Folds",
+  "slug": "dilated_small_bowel_normal_folds",
+  "chapter": "C. INFLAMMATION",
+  "source_file": "processed_clusters/c_inflammation/dilated_small_bowel_normal_folds.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sprue",
+      "raw": "Sprue",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "EXCESSIVE FLUID (a)  mechanical obstruction ← adhesion, hernia, neoplasm",
+      "raw": "EXCESSIVE FLUID (a)  mechanical obstruction ← adhesion, hernia, neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Celiac disease, tropical + nontropical sprue",
+      "raw": "Celiac disease, tropical + nontropical sprue",
+      "frequency": null
+    },
+    {
+      "name": "Lactase deficiency",
+      "raw": "Lactase deficiency",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  \"string-of-beads\" sign = air bubbles between mucosal folds in a fluid-filled small bowel √  \"pseudotumor\" sign = closed-loop obstruction (b)  malabsorption syndromes"
+}

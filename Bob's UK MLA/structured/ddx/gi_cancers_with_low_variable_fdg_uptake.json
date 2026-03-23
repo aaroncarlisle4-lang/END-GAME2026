@@ -1,0 +1,32 @@
+{
+  "finding": "GI Cancers with Low / Variable FDG Uptake",
+  "slug": "gi_cancers_with_low_variable_fdg_uptake",
+  "chapter": "PET IMAGING OF GI TRACT",
+  "source_file": "processed_clusters/pet_imaging_of_gi_tract/gi_cancers_with_low_variable_fdg_uptake.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Any well-differentiated cancer",
+      "raw": "Any well-differentiated cancer",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous carcinoma",
+      "raw": "Mucinous carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Early MALT lesion",
+      "raw": "Early MALT lesion",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,92 @@
+{
+  "finding": "Bone Fractures in Fetus",
+  "slug": "bone_fractures_in_fetus_9e49cd",
+  "chapter": "Large Head in Fetus",
+  "source_file": "processed_clusters/large_head_in_fetus/bone_fractures_in_fetus_9e49cd.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Hypophosphatasia",
+      "raw": "Hypophosphatasia",
+      "frequency": null
+    },
+    {
+      "name": "Achondrogenesis",
+      "raw": "Achondrogenesis",
+      "frequency": null
+    },
+    {
+      "name": "increased height of skull vault ← generalized craniosynostosis",
+      "raw": "increased height of skull vault ← generalized craniosynostosis (= acrocephaly, oxycephaly)",
+      "frequency": null
+    },
+    {
+      "name": "syndactyly of fingers / toes",
+      "raw": "syndactyly of fingers / toes",
+      "frequency": null
+    },
+    {
+      "name": "Type 1:   Apert syndrome",
+      "raw": "Type 1:   Apert syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Type 2:   Crouzon syndrome",
+      "raw": "Type 2:   Crouzon syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Type 3:   Saethre-Chotzen syndrome",
+      "raw": "Type 3:   Saethre-Chotzen syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Type 4:   Wardenburg type",
+      "raw": "Type 4:   Wardenburg type",
+      "frequency": null
+    },
+    {
+      "name": "Type 5:   Pfeiffer syndrome",
+      "raw": "Type 5:   Pfeiffer syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Acrocephalopolysyndactyly",
+      "raw": "Acrocephalopolysyndactyly",
+      "frequency": null
+    },
+    {
+      "name": "Type 1:   Noack syndrome",
+      "raw": "Type 1:   Noack syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Type 2:   Carpenter syndrome",
+      "raw": "Type 2:   Carpenter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Type 3:   Sakati-Nyhan-Tisdale syndrome",
+      "raw": "Type 3:   Sakati-Nyhan-Tisdale syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Type 4:   Goodman syndrome",
+      "raw": "Type 4:   Goodman syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Type 5:   Pfeiffer syndrome",
+      "raw": "Type 5:   Pfeiffer syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Acrocephalosyndactyly =  syndrome characterized by"
+}

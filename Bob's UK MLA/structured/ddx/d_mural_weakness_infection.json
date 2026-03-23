@@ -1,0 +1,37 @@
+{
+  "finding": "D. MURAL WEAKNESS / INFECTION",
+  "slug": "d_mural_weakness_infection",
+  "chapter": "AORTA",
+  "source_file": "processed_clusters/aorta/d_mural_weakness_infection.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic media necrosis: Marfan / Ehlers-Danlos syndrome",
+      "raw": "Cystic media necrosis: Marfan / Ehlers-Danlos syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Congenital aneurysm",
+      "raw": "Congenital aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Syphilitic aortitis",
+      "raw": "Syphilitic aortitis",
+      "frequency": null
+    },
+    {
+      "name": "Mycotic aneurysm",
+      "raw": "Mycotic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Atherosclerotic aneurysm",
+      "raw": "Atherosclerotic aneurysm (compromised vasa vasorum)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

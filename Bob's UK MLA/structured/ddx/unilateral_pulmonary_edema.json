@@ -1,0 +1,52 @@
+{
+  "finding": "Unilateral Pulmonary Edema",
+  "slug": "unilateral_pulmonary_edema",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/unilateral_pulmonary_edema.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "IPSILATERAL = on side of preexisting abnormality (a)  filling of airways",
+      "raw": "IPSILATERAL = on side of preexisting abnormality (a)  filling of airways",
+      "frequency": null
+    },
+    {
+      "name": "Unilateral aspiration / pulmonary lavage",
+      "raw": "Unilateral aspiration / pulmonary lavage",
+      "frequency": null
+    },
+    {
+      "name": "Drowned lung",
+      "raw": "Drowned lung (bronchial obstruction)",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary contusion (b)  increased pulmonary venous pressure",
+      "raw": "Pulmonary contusion (b)  increased pulmonary venous pressure",
+      "frequency": null
+    },
+    {
+      "name": "Unilateral venous obstruction",
+      "raw": "Unilateral venous obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Prolonged lateral decubitus position (c)  pulmonary arterial overload",
+      "raw": "Prolonged lateral decubitus position (c)  pulmonary arterial overload",
+      "frequency": null
+    },
+    {
+      "name": "Systemic artery-to-pulmonary artery shunt",
+      "raw": "Systemic artery-to-pulmonary artery shunt (Waterston, Blalock-Taussig, Pott procedure)",
+      "frequency": null
+    },
+    {
+      "name": "Rapid thoracentesis",
+      "raw": "Rapid thoracentesis (rapid reexpansion)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

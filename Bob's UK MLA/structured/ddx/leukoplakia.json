@@ -1,0 +1,37 @@
+{
+  "finding": "LEUKOPLAKIA",
+  "slug": "leukoplakia",
+  "chapter": "LEUKEMIA",
+  "source_file": "processed_clusters/leukemia/leukoplakia.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Peak age:   4th-5th decade;",
+      "raw": "Peak age:   4th-5th decade;",
+      "frequency": null
+    },
+    {
+      "name": "M÷F = 1÷1",
+      "raw": "M÷F = 1÷1 (with involvement of renal pelvis)",
+      "frequency": null
+    },
+    {
+      "name": "M÷F = 4÷1",
+      "raw": "M÷F = 4÷1 (with involvement of bladder)",
+      "frequency": null
+    },
+    {
+      "name": "hematuria (30%), recurrent UTIs",
+      "raw": "hematuria (30%), recurrent UTIs",
+      "frequency": "30%"
+    },
+    {
+      "name": "PATHOGNOMONIC passage of gritty flakes, soft-tissue stones, white chunks of tissue (= desquamated keratinized epithelial layers) → leading to colic, fever, chills",
+      "raw": "PATHOGNOMONIC passage of gritty flakes, soft-tissue stones, white chunks of tissue (= desquamated keratinized epithelial layers) → leading to colic, fever, chills",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  KERATINIZING SQUAMOUS METAPLASIA / DYSPLASIA = DYSKERATOSIS Cause:   chronic infection (80%) / stones (40%) Histo:   large confluent areas / scattered patches of squamous metaplasia of transitional cell epithelium with keratinization + cellular atypia in deeper layers Location:   bladder > renal pelvis > ureter; bilateral in 10% √  corrugated / striated irregularities of pelvicaliceal walls; localized / generalized √  plaquelike intraluminal mass with \"onion skin\" pattern of contrast material in interstices √  caliectasis + pyelectasis common (with obstruction) √  ridging / filling defects"
+}

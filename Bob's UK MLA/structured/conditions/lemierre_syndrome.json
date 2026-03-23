@@ -1,0 +1,35 @@
+{
+  "name": "LEMIERRE SYNDROME",
+  "slug": "lemierre_syndrome",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/lemierre_syndrome.md",
+  "definition": "SEPTIC JUGULAR VEIN THROMBOPHLEBITIS = POSTANGINAL SEPSIS = uncommon potentially life-threatening complication of acute oropharyngeal infection",
+  "demographics": {
+    "Age": "adolescent, teenager, young adult > infant, child"
+  },
+  "dominant_finding": "internal jugular venous thrombosis",
+  "distribution": "multiple peripheral round / wedge-shaped opacities",
+  "discriminating_features": [
+    "internal jugular venous thrombosis",
+    "edema of the surrounding soft tissues + wall of jugular vein",
+    "patchy consolidation = bronchopneumonia",
+    "septic pulmonary emboli:",
+    "multiple peripheral round / wedge-shaped opacities"
+  ],
+  "other_features": {
+    "general": [
+      "internal jugular venous thrombosis",
+      "edema of the surrounding soft tissues + wall of jugular vein",
+      "patchy consolidation = bronchopneumonia",
+      "septic pulmonary emboli:",
+      "multiple peripheral round / wedge-shaped opacities",
+      "\"feeding vessel\" sign = vessel leading into nodule",
+      "peripheral enhancement with central areas of reduced attenuation = cavitation",
+      "pleural effusion → empyema"
+    ]
+  },
+  "clinical": {
+    "Cx": "systemic dissemination of infection: pleuropulmonary septic emboli (97%), septic arthritis",
+    "Rx": "prolonged IV antibiotics with anaerobic activity, anticoagulation"
+  }
+}

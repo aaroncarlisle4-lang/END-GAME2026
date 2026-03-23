@@ -1,0 +1,32 @@
+{
+  "finding": "A. ACUTE / SUBACUTE",
+  "slug": "a_acute_subacute",
+  "chapter": "Ground-glass Opacities & Interlobular Septal Lines",
+  "source_file": "processed_clusters/ground_glass_opacities_interlobular_septal_lines/a_acute_subacute.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypersensitivity pneumonia",
+      "raw": "Hypersensitivity pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary edema",
+      "raw": "Pulmonary edema",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse alveolar hemorrhage",
+      "raw": "Diffuse alveolar hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Viral, pneumocystis, mycoplasmal pneumonia",
+      "raw": "Viral, pneumocystis, mycoplasmal pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,35 @@
+{
+  "name": "PAPILLARY ENDOLYMPHATIC SAC TUMOR",
+  "slug": "papillary_endolymphatic_sac_tumor",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/papillary_endolymphatic_sac_tumor.md",
+  "definition": "HEFFNER TUMOR locally invasive papillary cystadenomatous tumor of temporal bone",
+  "demographics": {
+    "Associated with": "von Hippel-Lindau disease (in 7%), which may have bilateral papillary"
+  },
+  "dominant_finding": "solid + cystic components",
+  "distribution": "",
+  "discriminating_features": [
+    "moth-eaten lytic appearance of invaded bone surrounded by thin shell of reactive bone:",
+    "solid + cystic components",
+    "intratumoral calcifications = \"bone sequestra\" from destruction of petrous bone",
+    "may be hypervascular (supplied by branches of external carotid artery)",
+    "speckled pattern of hyperintensity on T1WI (mimicking glomus tumor)"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "moth-eaten lytic appearance of invaded bone surrounded by thin shell of reactive bone:",
+      "solid + cystic components",
+      "intratumoral calcifications = \"bone sequestra\" from destruction of petrous bone",
+      "may be hypervascular (supplied by branches of external carotid artery)"
+    ],
+    "MR": [
+      "speckled pattern of hyperintensity on T1WI (mimicking glomus tumor)",
+      "commonly contains blood products (hyperintense on T1WI + hypointense on T2WI)",
+      "areas of low SI may represent hemosiderin",
+      "heterogeneous enhancement"
+    ]
+  },
+  "clinical": {}
+}

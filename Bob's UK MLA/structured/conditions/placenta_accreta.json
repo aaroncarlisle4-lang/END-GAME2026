@@ -1,0 +1,35 @@
+{
+  "name": "PLACENTA ACCRETA",
+  "slug": "placenta_accreta",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/placenta_accreta.md",
+  "definition": "defect in normal decidua basalis from prior trauma allows abnormal adherence + penetration",
+  "demographics": {
+    "Prevalence": "1÷2,500-7,000 deliveries related to increase in uterine surgery; in 5% of placenta",
+    "Associated with": "placenta previa (in 20%)"
+  },
+  "dominant_finding": "thinning to < 1 mm / absence of hypoechoic myometrial zone between placenta + echodense",
+  "distribution": "thinning / irregularity / focal disruption of linear hyperechoic boundary echo (= uterine",
+  "discriminating_features": [
+    "loss of normal retroplacental clear space",
+    "thinning to < 1 mm / absence of hypoechoic myometrial zone between placenta + echodense",
+    "thinning / irregularity / focal disruption of linear hyperechoic boundary echo (= uterine",
+    "focal masslike elevations / extensions of echogenic placental tissue beyond uterine serosa",
+    "> 6 irregular intraplacental lacunae (= poorly marginated irregular vascular spaces with"
+  ],
+  "other_features": {
+    "general": [
+      "loss of normal retroplacental clear space",
+      "thinning to < 1 mm / absence of hypoechoic myometrial zone between placenta + echodense",
+      "thinning / irregularity / focal disruption of linear hyperechoic boundary echo (= uterine",
+      "focal masslike elevations / extensions of echogenic placental tissue beyond uterine serosa",
+      "> 6 irregular intraplacental lacunae (= poorly marginated irregular vascular spaces with",
+      "heterogeneous hyperintense placenta on T2WI",
+      "dark intraplacental bands (= lacunae) on T2WI",
+      "interruption of junctional zone",
+      "focal thinning of hypointense myometrium",
+      "abnormal uterine bulging"
+    ]
+  },
+  "clinical": {}
+}

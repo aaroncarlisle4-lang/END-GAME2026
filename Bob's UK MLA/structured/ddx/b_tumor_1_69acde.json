@@ -1,0 +1,27 @@
+{
+  "finding": "B. TUMOR",
+  "slug": "b_tumor_1_69acde",
+  "chapter": "B. VASCULAR",
+  "source_file": "processed_clusters/b_vascular/b_tumor_1_69acde.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Pseudotumor",
+      "raw": "Pseudotumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

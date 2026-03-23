@@ -1,0 +1,32 @@
+{
+  "name": "UNILATERAL MEGALENCEPHALY",
+  "slug": "unilateral_megalencephaly",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/unilateral_megalencephaly.md",
+  "definition": "hamartomatous overgrowth of all / part of a cerebral hemisphere with neuronal migration",
+  "demographics": {},
+  "dominant_finding": "moderate / marked enlargement of one hemisphere",
+  "distribution": "",
+  "discriminating_features": [
+    "moderate / marked enlargement of one hemisphere",
+    "ipsilateral ventriculomegaly proportionate to enlargement of affected hemisphere",
+    "straightened frontal horn of ipsilateral ventricle pointing anterolaterally",
+    "neuronal migration defects:",
+    "polymicrogyria"
+  ],
+  "other_features": {
+    "general": [
+      "moderate / marked enlargement of one hemisphere",
+      "ipsilateral ventriculomegaly proportionate to enlargement of affected hemisphere",
+      "straightened frontal horn of ipsilateral ventricle pointing anterolaterally",
+      "neuronal migration defects:",
+      "polymicrogyria",
+      "pachygyria",
+      "heterotopia of gray matter",
+      "white matter gliosis (low density in white matter on CT, prolonged T1 + T2 relaxation"
+    ]
+  },
+  "clinical": {
+    "Rx": "partial / complete hemispheric resection"
+  }
+}

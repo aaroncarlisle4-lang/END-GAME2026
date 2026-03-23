@@ -1,0 +1,112 @@
+{
+  "finding": "Osteoblastic Bone Metastases",
+  "slug": "osteoblastic_bone_metastases_e83db8",
+  "chapter": "MACRODYSTROPHIA LIPOMATOSA",
+  "source_file": "processed_clusters/macrodystrophia_lipomatosa/osteoblastic_bone_metastases_e83db8.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Prostate carcinoma",
+      "raw": "Prostate carcinoma (elderly man)",
+      "frequency": null
+    },
+    {
+      "name": "Breast cancer",
+      "raw": "Breast cancer (woman)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous adenocarcinoma of GI tract",
+      "raw": "Mucinous adenocarcinoma of GI tract",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic adenocarcinoma",
+      "raw": "Pancreatic adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Transitional cell (bladder) carcinoma",
+      "raw": "Transitional cell (bladder) carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Medulloblastoma (in childhood) mnemonic:   6 Bees Lick Pollen",
+      "raw": "Medulloblastoma (in childhood) mnemonic:   6 Bees Lick Pollen",
+      "frequency": null
+    },
+    {
+      "name": "Brain",
+      "raw": "Brain (medulloblastoma)",
+      "frequency": null
+    },
+    {
+      "name": "Breast",
+      "raw": "Breast",
+      "frequency": null
+    },
+    {
+      "name": "Bronchus",
+      "raw": "Bronchus (especially carcinoid)",
+      "frequency": null
+    },
+    {
+      "name": "Bone",
+      "raw": "Bone (osteogenic carcinoma)",
+      "frequency": null
+    },
+    {
+      "name": "Bowel",
+      "raw": "Bowel (mucinous)",
+      "frequency": null
+    },
+    {
+      "name": "Bladder",
+      "raw": "Bladder",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Prostate",
+      "raw": "Prostate",
+      "frequency": null
+    },
+    {
+      "name": "Permeative Bone Metastases",
+      "raw": "Permeative Bone Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Burkitt lymphoma, mycosis fungoides",
+      "raw": "Burkitt lymphoma, mycosis fungoides",
+      "frequency": null
+    },
+    {
+      "name": "Bone Metastases with \"Sunburst\" Periosteal Reaction",
+      "raw": "Bone Metastases with \"Sunburst\" Periosteal Reaction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  evidence of slow-growing neoplasm Most common primary: √  frequent in vertebrae + pelvis √  may be indistinguishable from Paget disease Mixed Bone Metastases breast, prostate, lymphoma Expansile / Bubbly Bone Metastases kidney, thyroid =  infrequent presentation in prostatic carcinoma, retinoblastoma, neuroblastoma (skull), GI tract cancer"
+}

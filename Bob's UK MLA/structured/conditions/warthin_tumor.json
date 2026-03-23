@@ -1,0 +1,43 @@
+{
+  "name": "WARTHIN TUMOR",
+  "slug": "warthin_tumor",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/warthin_tumor.md",
+  "definition": "PAPILLARY CYSTADENOMA LYMPHOMATOSUM = ADENOLYMPHOMA =",
+  "demographics": {
+    "Frequency": "2nd most common benign tumor of parotid gland; 5%-10% of all benign salivary",
+    "Age": "5-6th decade; M > F",
+    "Histo": "CHARACTERISTIC double layer of oncocytes (= epithelial cells) resting on a dense",
+    "Associated with": "history of smoking",
+    "Location": "usually solitary + unilateral; bilateral + multifocal (±metachronous) in 10-60%"
+  },
+  "dominant_finding": "hypointense compared with fat / surrounding parotid tissue on T2WI",
+  "distribution": "usually solitary + unilateral; bilateral + multifocal (±metachronous) in 10-60%",
+  "discriminating_features": [
+    "well-circumscribed single / multiple cystic / solid lesion in parotid region usually 3-4 cm in",
+    "hypointense compared with fat / surrounding parotid tissue on T2WI",
+    "oval hypoechoic well-defined tumor",
+    "frequently multiple anechoic areas",
+    "increased vascularity"
+  ],
+  "other_features": {
+    "general": [
+      "well-circumscribed single / multiple cystic / solid lesion in parotid region usually 3-4 cm in"
+    ],
+    "MR": [
+      "hypointense compared with fat / surrounding parotid tissue on T2WI"
+    ],
+    "US": [
+      "oval hypoechoic well-defined tumor",
+      "frequently multiple anechoic areas",
+      "increased vascularity"
+    ],
+    "NUC": [
+      "increased uptake with 99mTc, 201Tl, FDG"
+    ]
+  },
+  "clinical": {
+    "Cx": "sporadically malignant transformation of epithelial component",
+    "Rx": "surgical resection"
+  }
+}

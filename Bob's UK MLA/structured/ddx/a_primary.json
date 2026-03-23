@@ -1,0 +1,42 @@
+{
+  "finding": "A. PRIMARY",
+  "slug": "a_primary",
+  "chapter": "D. MISCELLANEOUS",
+  "source_file": "processed_clusters/d_miscellaneous/a_primary.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatoblastoma",
+      "raw": "Hepatoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrolamellar carcinoma",
+      "raw": "Fibrolamellar carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Undifferentiated (embryonal) sarcoma",
+      "raw": "Undifferentiated (embryonal) sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Epithelioid hemangioendothelioma",
+      "raw": "Epithelioid hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Embryonal rhabdomyosarcoma",
+      "raw": "Embryonal rhabdomyosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Keratoacanthoma (DDx)",
+  "slug": "keratoacanthoma_ddx",
+  "chapter": "Keratoacanthoma",
+  "source_file": "processed_clusters/keratoacanthoma/keratoacanthoma_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "squamous cell carcinoma (radiologically indistinguishable",
+      "raw": "squamous cell carcinoma (radiologically indistinguishable",
+      "frequency": null
+    },
+    {
+      "name": "older patient",
+      "raw": "older patient",
+      "frequency": null
+    },
+    {
+      "name": "slow",
+      "raw": "slow",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thin peripheral rim enhancement | well-circumscribed mass of mixed echogenicity | posterior acoustic enhancement + cortical erosion"
+}

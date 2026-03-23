@@ -1,0 +1,31 @@
+{
+  "name": "FAT EMBOLISM",
+  "slug": "fat_embolism",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/fat_embolism.md",
+  "definition": "obstruction of pulmonary vessels by fat globules followed by chemical pneumonitis from",
+  "demographics": {
+    "Frequency": "in 67-97% of necropsy series in patients with major skeletal trauma; however,"
+  },
+  "dominant_finding": "mottled peripheral perfusion defects (1-4 days after injury), later enlarging ← pneumonic",
+  "distribution": "bilateral diffuse alveolar infiltrates",
+  "discriminating_features": [
+    "initial chest film usually negative (normal up to 72 hours)",
+    "platelike atelectasis",
+    "bilateral diffuse alveolar infiltrates",
+    "consolidation (may progress to ARDS)",
+    "mottled peripheral perfusion defects (1-4 days after injury), later enlarging ← pneumonic"
+  ],
+  "other_features": {
+    "general": [
+      "initial chest film usually negative (normal up to 72 hours)",
+      "platelike atelectasis",
+      "bilateral diffuse alveolar infiltrates",
+      "consolidation (may progress to ARDS)"
+    ],
+    "NUC": [
+      "mottled peripheral perfusion defects (1-4 days after injury), later enlarging ← pneumonic"
+    ]
+  },
+  "clinical": {}
+}

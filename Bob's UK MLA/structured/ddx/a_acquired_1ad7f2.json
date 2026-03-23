@@ -1,0 +1,32 @@
+{
+  "finding": "A. ACQUIRED",
+  "slug": "a_acquired_1ad7f2",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/a_acquired_1ad7f2.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Atrial systole",
+      "raw": "Atrial systole",
+      "frequency": null
+    },
+    {
+      "name": "Lipomatosis",
+      "raw": "Lipomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Small heart",
+      "raw": "Small heart",
+      "frequency": null
+    },
+    {
+      "name": "Stenosis",
+      "raw": "Stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

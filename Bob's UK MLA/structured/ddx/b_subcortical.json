@@ -1,0 +1,57 @@
+{
+  "finding": "B. SUBCORTICAL",
+  "slug": "b_subcortical",
+  "chapter": "DEMENTIA",
+  "source_file": "processed_clusters/dementia/b_subcortical.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vascular dementia: multi-infarct, Binswanger, CADASIL = cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy)",
+      "raw": "Vascular dementia: multi-infarct, Binswanger, CADASIL = cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy)",
+      "frequency": null
+    },
+    {
+      "name": "Dementia with Lewy bodies",
+      "raw": "Dementia with Lewy bodies",
+      "frequency": null
+    },
+    {
+      "name": "Huntington disease",
+      "raw": "Huntington disease",
+      "frequency": null
+    },
+    {
+      "name": "Parkinson disease",
+      "raw": "Parkinson disease",
+      "frequency": null
+    },
+    {
+      "name": "Wernicke-Korsakoff syndrome",
+      "raw": "Wernicke-Korsakoff syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "Multiple sclerosis",
+      "raw": "Multiple sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Infectious etiology (HIV, Lyme disease, syphilis",
+      "raw": "Infectious etiology (HIV, Lyme disease, syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Dementia syndrome of depression",
+      "raw": "Dementia syndrome of depression",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

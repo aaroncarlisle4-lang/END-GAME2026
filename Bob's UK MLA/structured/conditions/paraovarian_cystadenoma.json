@@ -1,0 +1,27 @@
+{
+  "name": "PARAOVARIAN CYSTADENOMA",
+  "slug": "paraovarian_cystadenoma",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/paraovarian_cystadenoma.md",
+  "definition": "",
+  "demographics": {
+    "Location": "typically unilateral"
+  },
+  "dominant_finding": "one / more small nodules along a smooth inner wall (86%)",
+  "distribution": "typically unilateral",
+  "discriminating_features": [
+    "simple cyst",
+    "one / more small nodules along a smooth inner wall (86%)",
+    "± septations"
+  ],
+  "other_features": {
+    "general": [
+      "simple cyst",
+      "one / more small nodules along a smooth inner wall (86%)",
+      "± septations"
+    ]
+  },
+  "clinical": {
+    "Cx": "malignant degeneration in 2-3%"
+  }
+}

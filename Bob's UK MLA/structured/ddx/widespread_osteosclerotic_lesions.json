@@ -1,0 +1,37 @@
+{
+  "finding": "Widespread Osteosclerotic Lesions",
+  "slug": "widespread_osteosclerotic_lesions",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/widespread_osteosclerotic_lesions.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastases: prostate, breast, lung, bladder, pancreas, stomach, colon, carcinoid, brain",
+      "raw": "Metastases: prostate, breast, lung, bladder, pancreas, stomach, colon, carcinoid, brain",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Myelofibrosis",
+      "raw": "Myelofibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Mastocytosis",
+      "raw": "Mastocytosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "C. ADRENAL / RENAL",
+  "slug": "c_adrenal_renal",
+  "chapter": "B. LIVER",
+  "source_file": "processed_clusters/b_liver/c_adrenal_renal.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Adrenal hemorrhage",
+      "raw": "Adrenal hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Mesoblastic nephroma",
+      "raw": "Mesoblastic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "Physiologic gastric emptying / intermittent swallowing ◊  Repeat scan after 30 min!",
+      "raw": "Physiologic gastric emptying / intermittent swallowing ◊  Repeat scan after 30 min!",
+      "frequency": null
+    },
+    {
+      "name": "Oligohydramnios",
+      "raw": "Oligohydramnios",
+      "frequency": null
+    },
+    {
+      "name": "CNS depression / abnormalities impairing swallowing",
+      "raw": "CNS depression / abnormalities impairing swallowing",
+      "frequency": null
+    },
+    {
+      "name": "Abnormal position of stomach:",
+      "raw": "Abnormal position of stomach:",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal atresia ± tracheoesophageal fistula ◊  Nonvisualization of fetal stomach and polyhydramnios in 33% fetuses with esophageal atresia after 24 weeks MA!",
+      "raw": "Esophageal atresia ± tracheoesophageal fistula ◊  Nonvisualization of fetal stomach and polyhydramnios in 33% fetuses with esophageal atresia after 24 weeks MA!",
+      "frequency": "33%"
+    },
+    {
+      "name": "Cleft lip / palate → impairing normal swallowing",
+      "raw": "Cleft lip / palate → impairing normal swallowing",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Nonvisualization of Fetal Stomach ◊  Fetal swallowing begins at 11 weeks MA Normal:   stomach is visualized in almost all normal fetuses by 13-14 weeks (definitely by 19 weeks) Prevalence:   2% Cause: √  stomach on contralateral side (situs inversus) √  congenital diaphragmatic hernia Rx:     repeat ultrasound scan"
+}

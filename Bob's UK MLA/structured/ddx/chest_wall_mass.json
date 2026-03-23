@@ -1,0 +1,37 @@
+{
+  "finding": "Chest Wall Mass",
+  "slug": "chest_wall_mass",
+  "chapter": "FETAL CHEST ANOMALIES",
+  "source_file": "processed_clusters/fetal_chest_anomalies/chest_wall_mass.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic hygroma",
+      "raw": "Cystic hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Hamartoma",
+      "raw": "Hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Thoracic myelomeningocele",
+      "raw": "Thoracic myelomeningocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

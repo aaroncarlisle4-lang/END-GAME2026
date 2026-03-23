@@ -1,0 +1,42 @@
+{
+  "finding": "Osteolytic Bone Metastases",
+  "slug": "osteolytic_bone_metastases_d6c68f",
+  "chapter": "MACRODYSTROPHIA LIPOMATOSA",
+  "source_file": "processed_clusters/macrodystrophia_lipomatosa/osteolytic_bone_metastases_d6c68f.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lung",
+      "raw": "Lung",
+      "frequency": null
+    },
+    {
+      "name": "Breast",
+      "raw": "Breast",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid",
+      "raw": "Thyroid",
+      "frequency": null
+    },
+    {
+      "name": "Kidney",
+      "raw": "Kidney",
+      "frequency": null
+    },
+    {
+      "name": "Colon",
+      "raw": "Colon",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma (in childhood)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Most common primary: √  may begin in spongy bone (associated with soft tissue mass in ribs) √  vertebral pedicles often involved (not in multiple myeloma)"
+}

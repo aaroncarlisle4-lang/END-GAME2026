@@ -1,0 +1,52 @@
+{
+  "finding": "Hepatic Artery Aneurysm",
+  "slug": "hepatic_artery_aneurysm_b7551f",
+  "chapter": "LIVER CIRCULATION",
+  "source_file": "processed_clusters/liver_circulation/hepatic_artery_aneurysm_b7551f.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Atherosclerosis",
+      "raw": "Atherosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Fibromuscular dysplasia",
+      "raw": "Fibromuscular dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Collagen vascular disease",
+      "raw": "Collagen vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Trauma: penetrating, blunt, iatrogenic",
+      "raw": "Trauma: penetrating, blunt, iatrogenic (liver transplant)",
+      "frequency": null
+    },
+    {
+      "name": "Mycotic aneurysm",
+      "raw": "Mycotic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Tumor-related aneurysm",
+      "raw": "Tumor-related aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Vasculitis (multiple aneurysms): polyarteritis nodosa",
+      "raw": "Vasculitis (multiple aneurysms): polyarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "abdominal pain",
+      "raw": "abdominal pain (55%), gastrointestinal hemorrhage (46%)",
+      "frequency": "55%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  2nd most common type of splanchnic aneurysm = up to 20% of visceral aneurysms Cause: Site:     common hepatic artery (in up to 63%) Cx:     aneurysm rupture → hemobilia / hemoperitoneum (20-35% mortality rate) Rx:     endovascular stenting (89% success rate)"
+}

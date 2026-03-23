@@ -1,0 +1,52 @@
+{
+  "finding": "Components of CCD",
+  "slug": "components_of_ccd",
+  "chapter": "PULSUS ALTERNANS",
+  "source_file": "processed_clusters/pulsus_alternans/components_of_ccd.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pulse generator hardware, programmable software, lithium iodide battery",
+      "raw": "Pulse generator hardware, programmable software, lithium iodide battery (5-10-year lifespan)",
+      "frequency": null
+    },
+    {
+      "name": "Leads for pacemaker / ICD",
+      "raw": "Leads for pacemaker / ICD",
+      "frequency": null
+    },
+    {
+      "name": "Conductor",
+      "raw": "Conductor",
+      "frequency": null
+    },
+    {
+      "name": "Insulation: silicone rubber / polyurethane",
+      "raw": "Insulation: silicone rubber / polyurethane",
+      "frequency": null
+    },
+    {
+      "name": "Electrode(s): uni- / bipolar",
+      "raw": "Electrode(s): uni- / bipolar",
+      "frequency": null
+    },
+    {
+      "name": "Lead tip fixation in cardiac trabeculae:",
+      "raw": "Lead tip fixation in cardiac trabeculae:",
+      "frequency": null
+    },
+    {
+      "name": "Proximal terminal connector pin → well seated in connector block",
+      "raw": "Proximal terminal connector pin → well seated in connector block",
+      "frequency": null
+    },
+    {
+      "name": "Temporary epicardial electrode",
+      "raw": "Temporary epicardial electrode",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  passive: prongs, tines, fins, helix, cone (b)  active: helical screw Cardiac Pacemaker =  electronic device providing small electrical stimuli for cardiac contraction as substitute for sinoatrial node activity in wall of RA near junction with SVC Indication:   periods of bradycardia / arrhythmia caused by disruption of electric conduction pathway (degenerative aging of SA node / AV node / conduction tissue, myocardial infarction)"
+}

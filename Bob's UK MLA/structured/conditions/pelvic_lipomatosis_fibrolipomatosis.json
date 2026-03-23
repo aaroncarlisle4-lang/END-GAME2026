@@ -1,0 +1,38 @@
+{
+  "name": "PELVIC LIPOMATOSIS & FIBROLIPOMATOSIS",
+  "slug": "pelvic_lipomatosis_fibrolipomatosis",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/pelvic_lipomatosis_fibrolipomatosis.md",
+  "definition": "nonmalignant overgrowth of adipose tissue with minimal fibrotic + inflammatory components",
+  "demographics": {
+    "Prevalence": "0.6÷100,000 to 1.7÷100,000",
+    "Mean age": "48 (range, 9-80) years; M÷F = 10÷1 to 18÷1; racial predilection for blacks (67%);",
+    "Path": "unencapsulated mature homogeneous white fat separated by thin fibrous septa"
+  },
+  "dominant_finding": "elongation of posterior urethra",
+  "distribution": "elongation of posterior urethra",
+  "discriminating_features": [
+    "elongation + elevation of urinary bladder with symmetric inverted pear shape / teardrop",
+    "elongation of posterior urethra",
+    "medial / lateral displacement of lower ureters",
+    "pelvic lucency (CT confirmatory)",
+    "straightening + elongation + narrowing of rectum"
+  ],
+  "other_features": {
+    "general": [
+      "elongation + elevation of urinary bladder with symmetric inverted pear shape / teardrop",
+      "elongation of posterior urethra",
+      "medial / lateral displacement of lower ureters",
+      "pelvic lucency (CT confirmatory)"
+    ],
+    "GI tract": [
+      "straightening + elongation + narrowing of rectum",
+      "stretching + elevation of rectosigmoid and sigmoid colon out of pelvis",
+      "increase in sacrorectal space > 10 mm"
+    ],
+    "Vessels": [
+      "stretching + thinning of femoral veins"
+    ]
+  },
+  "clinical": {}
+}

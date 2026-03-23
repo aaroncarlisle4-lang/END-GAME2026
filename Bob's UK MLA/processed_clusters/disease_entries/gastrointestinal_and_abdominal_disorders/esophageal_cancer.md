@@ -1,0 +1,111 @@
+# Disease: ESOPHAGEAL CANCER
+
+**Source section:** GASTROINTESTINAL AND ABDOMINAL DISORDERS
+
+## Definition
+
+T1 N0 M0 malignant tumor of epithelial cells with stratified squamous differentiation progressing (METAPLASTIC) CARCINOSARCOMA = PSEUDOSARCOMA = PSEUDOSARCOMATOUS CA. = malignant epithelial neoplasm that almost always arises from
+
+## Key Facts
+
+- **Incidence:** 4-10% of all gastrointestinal malignancies (3rd most common) worldwide; 1% of
+- **Location:** upper ⅓ (15-20%); middle ⅓ (37-44%); lower ⅓ (38-43%)
+- **Histo:** longitudinal extension of squamous cell carcinoma confined to mucosa /
+- **Prevalence:** 1.8÷100,000 in USA (↓ probably due to declining tobacco consumption);
+- **Peak age:** 60-74 years; M÷F = 65÷35; Blacks÷Whites = 4÷1
+- **Path:** bulky polypoid intraluminal mass with scalloped smooth / ulcerated surface
+- **Age:** > 45 years; M÷F = 4÷1 to 9÷1
+
+## Imaging Findings
+
+### General
+
+- intrathoracic/ abdominal lymph node > 10 mm
+- supraclavicular lymph node with short axis > 5 mm
+- homogeneously hypoechoic central pattern
+- round lymph node with a short axis of > 10 mm
+
+### PET
+
+- 51-84% sensitivity for locoregional lymph nodes
+- up to 90% sensitive for metastatic lymph node
+- loss of fat planes (nonspecific ← cachexia, often still resectable)
+- mass in contact with aorta > 90° arc (in 20-70% still resectable)
+- displacement / compression of airway (90-100% accuracy for invasion)
+- esophagotracheal / -bronchial fistula (unresectable)
+- pericardial thickening, pericardial effusion, loss of pericardial fat plane,
+- enlarged abdominal lymph nodes > 10 mm (12-85% accuracy)
+- hepatic, pulmonary, adrenal metastases
+- direct erosion of vertebral body
+- tumor > 3 cm wide = high frequency of extraesophageal spread
+- sessile / pedunculated tumor with lobulated surface
+- protruding, irregular, polycyclic, overhanging, steplike "apple core" lesion
+- large ulcer niche within bulging mass
+- gradual narrowing with smooth transition (DDx: benign stricture)
+- focal area of confluent tortuous / serpentine longitudinal mucosal nodules / plaques
+- NO change during respiration / patient repositioning
+- avid uptake of primary (unless confined to mucosa) and of metastases (unless microscopic
+- plaquelike / polypoid / ulcerated lesion for superficial lesion
+- irregular luminal narrowing, ulceration, abrupt shouldered margins for advanced lesion
+- elevated lesion + rigidity of esophageal wall indicate subepithelial tumor extension
+- homo- / heterogeneous mass
+- disruption of esophageal wall layers → staging accuracy of 84%
+- round well-defined lymph node > 10 mm in diameter (92% accuracy if combined with
+- avid uptake of primary (unless confined to mucosa) + of metastases (unless microscopic
+- rapid growth = doubling time of 2.2-5.0 months
+- large bulky smoothly lobulated intraluminal mass
+- cupola / domed appearance of superior tumor edge
+- expands esophageal lumen to an average diameter of 8 cm WITHOUT obstruction
+- ulceration rare; may be polypoid + pedunculated
+
+### CXR
+
+- widened azygoesophageal recess with convexity toward right lung (in 30% of distal +
+- thickening of posterior tracheal stripe + right paratracheal stripe > 3-4 mm (in 11% if
+- tracheal deviation (10%)
+- widened mediastinum
+- posterior tracheal indentation / mass
+- retrocardiac mass
+- esophageal air-fluid level
+- lobulated mass extending into gastric air bubble
+- repeated aspiration pneumonia ← tracheoesophageal fistula
+- plaquelike / polypoid / ulcerated lesion for superficial lesion
+- irregular luminal narrowing, ulceration, abrupt shouldered margins for advanced lesion
+- elevated lesion + rigidity of esophageal wall indicate subepithelial tumor extension
+- homo- / heterogeneous mass
+- disruption of esophageal wall layers (staging accuracy of 84%)
+- round well-defined lymph node > 10 mm in diameter (92% accuracy if combined with fine-
+
+### CT
+
+- asymmetric / circumferential localized thickening of esophageal wall / soft-tissue mass
+- peak enhancement in late arterial phase (at 35 seconds)
+- mediastinal / aortic invasion:
+- loss of intervening fat planes
+- displacement / indentation of trachea
+- tumor in contact with > 90° of aortic circumference
+- distant metastases (to liver, lung, bone)
+- asymmetric / circumferential localized thickening of esophageal wall / soft-tissue mass
+- peak enhancement in late arterial phase (35 seconds)
+- mediastinal / aortic invasion:
+- loss of intervening fat planes
+- displacement / indentation of trachea
+- tumor in contact with > 90° of aortic circumference
+- distant metastases (to liver, lung, bone)
+- expansile hypoattenuating intraluminal mass
+- ± focal esophageal wall thickening at attachment site
+- imaging features identical to SCC
+
+## Clinical
+
+- **Cx:** fistula formation to trachea (5-10%) / bronchi / mediastinum
+- **Prognosis:** 18.4% 5-year survival rate (2012); 0% 5-year survival rate for cancer of cervical
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

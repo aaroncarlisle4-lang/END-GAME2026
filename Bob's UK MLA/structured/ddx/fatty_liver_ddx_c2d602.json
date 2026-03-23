@@ -1,0 +1,32 @@
+{
+  "finding": "Fatty Liver (DDx)",
+  "slug": "fatty_liver_ddx_c2d602",
+  "chapter": "Fatty Liver",
+  "source_file": "processed_clusters/fatty_liver/fatty_liver_ddx_c2d602.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "mass (round / ovoid shape",
+      "raw": "mass (round / ovoid shape",
+      "frequency": null
+    },
+    {
+      "name": "well-demarcated margins",
+      "raw": "well-demarcated margins",
+      "frequency": null
+    },
+    {
+      "name": "no fat content",
+      "raw": "no fat content",
+      "frequency": null
+    },
+    {
+      "name": "random",
+      "raw": "random",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hypoechoic ovoid / spherical / sheetlike mass | hyperattenuating relative to surrounding liver | hyperintense on T1WI | lack of decrease in SI on opposed-phase gradient-echo T1WI"
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Noonan Syndrome — Gastrointestinal tract (DDx)",
+  "slug": "noonan_syndrome_gastrointestinal_tract_ddx",
+  "chapter": "Noonan Syndrome",
+  "source_file": "processed_clusters/noonan_syndrome/noonan_syndrome_gastrointestinal_tract_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Turner syndrome (mental retardation rare",
+      "raw": "Turner syndrome (mental retardation rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "renal anomalies frequent)",
+      "raw": "renal anomalies frequent)",
+      "frequency": "frequent"
+    }
+  ],
+  "criteria": {},
+  "context": "may have pulmonary lymphangiectasis | intestinal lymphangiectasia | eventration of diaphragm | renal malrotation, renal duplication, hydronephrosis, large redundant extrarenal pelvis"
+}

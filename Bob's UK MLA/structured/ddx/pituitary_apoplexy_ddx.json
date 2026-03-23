@@ -1,0 +1,22 @@
+{
+  "finding": "Pituitary Apoplexy (DDx)",
+  "slug": "pituitary_apoplexy_ddx",
+  "chapter": "Pituitary Apoplexy",
+  "source_file": "processed_clusters/pituitary_apoplexy/pituitary_apoplexy_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rathke cleft cyst (NO hemorrhage",
+      "raw": "Rathke cleft cyst (NO hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "NO fluid-fluid level)",
+      "raw": "NO fluid-fluid level)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "high signal on DWI (in acute stage) ← restricted diffusion | predominant T1 hyperintensity + predominant T2 hypointensity ← hemoglobin | intermediate SI on T1WI + T2WI ← deoxyhemoglobin | intratumoral fluid-debris level ← sedimentation of blood products (at later stage)"
+}

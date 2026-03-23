@@ -1,0 +1,38 @@
+{
+  "name": "CONN SYNDROME",
+  "slug": "conn_syndrome",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/conn_syndrome.md",
+  "definition": "PRIMARY HYPERALDOSTERONISM = PRIMARY ALDOSTERONISM autonomous excess secretion of the mineralocorticoid aldosterone with hypertension + idiopathic hyperaldosteronism = focal / diffuse hyperplasia of glomerulosa zone",
+  "demographics": {
+    "Prevalence": "2-15% of hypertensive population",
+    "Age": "3rd-5th decade; M÷F = 1÷2",
+    "Location": "L > R; bilateral in 6%"
+  },
+  "dominant_finding": "131I NP-59 uptake following dexamethasone suppression:",
+  "distribution": "L > R; bilateral in 6%",
+  "discriminating_features": [
+    "mass of soft-tissue density / low attenuation",
+    "usually hypervascular, rarely hypovascular",
+    "both glands normal in size ← micronodules",
+    "nodular / multinodular adrenal gland(s) ← hyperplasia",
+    "131I NP-59 uptake following dexamethasone suppression:"
+  ],
+  "other_features": {
+    "general": [
+      "mass of soft-tissue density / low attenuation",
+      "usually hypervascular, rarely hypovascular",
+      "both glands normal in size ← micronodules",
+      "nodular / multinodular adrenal gland(s) ← hyperplasia"
+    ],
+    "NUC": [
+      "131I NP-59 uptake following dexamethasone suppression:",
+      "bilateral early visualization (< 5 days) implies adrenal hyperplasia",
+      "unilateral early visualization implies adenoma",
+      "late bilateral visualization (> 5 days) may be normal"
+    ]
+  },
+  "clinical": {
+    "Rx": "adrenalectomy for neoplasms (75% long-term cure rate for hypertension); medical"
+  }
+}

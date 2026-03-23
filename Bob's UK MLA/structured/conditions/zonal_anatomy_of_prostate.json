@@ -1,0 +1,25 @@
+{
+  "name": "ZONAL ANATOMY OF PROSTATE",
+  "slug": "zonal_anatomy_of_prostate",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/zonal_anatomy_of_prostate.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "surrounded by thin hypointense rim on T2WI ← anatomic / true capsule",
+  "distribution": "",
+  "discriminating_features": [
+    "outer gland is hyperintense on T2WI",
+    "surrounded by thin hypointense rim on T2WI ← anatomic / true capsule",
+    "inner gland is hypointense on T2WI",
+    "hypointense on T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "outer gland is hyperintense on T2WI",
+      "surrounded by thin hypointense rim on T2WI ← anatomic / true capsule",
+      "inner gland is hypointense on T2WI",
+      "hypointense on T2WI"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,42 @@
+{
+  "name": "PENETRATING AORTIC ULCER",
+  "slug": "penetrating_aortic_ulcer",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/penetrating_aortic_ulcer.md",
+  "definition": "PENETRATING ATHEROSCLEROTIC ULCER OF THE AORTA PAU = atherosclerotic ulcer that penetrates deep through intima and internal elastic lamina",
+  "demographics": {
+    "Prevalence": "uncommon",
+    "Age": "elderly with hypertension, hyperlipidemia and severe atherosclerosis; M÷F = 4÷1"
+  },
+  "dominant_finding": "focally ulcerated plaque",
+  "distribution": "focal excavation of aortic wall",
+  "discriminating_features": [
+    "localized contrast-medium filled pouch widely communicating with true lumen",
+    "extensive atherosclerotic disease + ectasia",
+    "lack of compression of the aortic lumen",
+    "intramural hematoma (thoracic >> abdominal aorta)",
+    "NO intimal flap"
+  ],
+  "other_features": {
+    "general": [
+      "localized contrast-medium filled pouch widely communicating with true lumen",
+      "extensive atherosclerotic disease + ectasia",
+      "lack of compression of the aortic lumen",
+      "intramural hematoma (thoracic >> abdominal aorta)",
+      "NO intimal flap"
+    ],
+    "CECT": [
+      "focally ulcerated plaque",
+      "adjacent subintimal hematoma (DDx from intraluminal thrombus / atherosclerotic plaque",
+      "inward displacement of calcified intima (common)",
+      "thickening / enhancement of adjacent aortic wall",
+      "focal excavation of aortic wall",
+      "subacute hematoma in aortic wall of high SI on T1WI + T2WI (methemoglobin) either"
+    ],
+    "ANGIO": [
+      "ulcerated atherosclerotic plaque",
+      "aortic wall thickening"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,33 @@
+{
+  "name": "FIBROMA OF TENDON SHEATH",
+  "slug": "fibroma_of_tendon_sheath",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/fibroma_of_tendon_sheath.md",
+  "definition": "",
+  "demographics": {
+    "Histo": "paucicellular tumor with scattered spindle-shaped myofibroblasts embedded in dense",
+    "Mean age": "31 (range, 20-50) years; M÷F = 2÷1",
+    "Location": "tendon sheath of upper extremity (fingers, hands, wrists) in 82%",
+    "Size": "usually < 3 (range, 1-5) cm"
+  },
+  "dominant_finding": "areas of high signal intensity ← myxoid change",
+  "distribution": "tendon sheath of upper extremity (fingers, hands, wrists) in 82%",
+  "discriminating_features": [
+    "small hypointense nodule on all pulse sequences compared to muscle",
+    "areas of high signal intensity ← myxoid change",
+    "no / moderate / marked enhancement",
+    "attachment to tendon sheath"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "small hypointense nodule on all pulse sequences compared to muscle",
+      "areas of high signal intensity ← myxoid change",
+      "no / moderate / marked enhancement",
+      "attachment to tendon sheath"
+    ]
+  },
+  "clinical": {
+    "Rx": "local excision (24% recurrence rate)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Site: medulla with variable degree of cortical involvement",
+  "slug": "site_medulla_with_variable_degree_of_cortical_involvement",
+  "chapter": "ABORTIVE CALYX",
+  "source_file": "processed_clusters/abortive_calyx/site_medulla_with_variable_degree_of_cortical_involvement.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "sudden / gradual onset of lower chest / upper abdominal / flank / back pain; shocklike symptoms = signs of massive blood loss",
+      "raw": "sudden / gradual onset of lower chest / upper abdominal / flank / back pain; shocklike symptoms = signs of massive blood loss",
+      "frequency": null
+    },
+    {
+      "name": "acute adrenal insufficiency (rare): manifesting as hypotension + hyponatremia + hyperkalemia",
+      "raw": "acute adrenal insufficiency (rare): manifesting as hypotension + hyponatremia + hyperkalemia",
+      "frequency": "rare"
+    },
+    {
+      "name": "Hemorrhagic diathesis: anticoagulant therapy",
+      "raw": "Hemorrhagic diathesis: anticoagulant therapy",
+      "frequency": null
+    },
+    {
+      "name": "Coagulopathy",
+      "raw": "Coagulopathy",
+      "frequency": null
+    },
+    {
+      "name": "Underlying adrenal mass: adrenocortical adenoma / carcinoma, myelolipoma, pheochromocytoma, metastasis, neuroblastoma",
+      "raw": "Underlying adrenal mass: adrenocortical adenoma / carcinoma, myelolipoma, pheochromocytoma, metastasis, neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "bilateral hemorrhage: acute primary adrenal insufficiency (rare) is life- threatening",
+      "raw": "bilateral hemorrhage: acute primary adrenal insufficiency (rare) is life- threatening",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "√  round / oval mass displacing kidney inferiorly + IVC anteriorly √  uniform adrenal enlargement gradually decreasing in size over 6-8 weeks (follow-up for 2-3 months) √  complete resolution with time: √  ± rimlike curvilinear / eggshell calcifications > 1 year √  no enhancement NECT: @   acute stage (< 7 days): √  round / oval mass (in 83%) located in medulla + stretching cortex around hematoma: √  hyperattenuating (50-90 HU) similar to most neoplasms in acute stage → slowly decreasing over time N.B.:   Follow-up required to confirm regression! √  obliteration of gland by diffuse irregular h"
+}

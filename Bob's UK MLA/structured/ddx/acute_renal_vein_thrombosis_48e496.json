@@ -1,0 +1,37 @@
+{
+  "finding": "Acute Renal Vein Thrombosis",
+  "slug": "acute_renal_vein_thrombosis_48e496",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/acute_renal_vein_thrombosis_48e496.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "gross hematuria, proteinuria, anuria, hypertension, azotemia",
+      "raw": "gross hematuria, proteinuria, anuria, hypertension, azotemia",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic / painful flank mass",
+      "raw": "asymptomatic / painful flank mass",
+      "frequency": null
+    },
+    {
+      "name": "consumptive thrombocytopenia",
+      "raw": "consumptive thrombocytopenia",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary emboli",
+      "raw": "Pulmonary emboli (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Severe renal atrophy",
+      "raw": "Severe renal atrophy (may show complete recovery)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Path:  hemorrhagic renal infarction + edema from ruptured venules + capillaries without time for effective development of collaterals Location:   more common on left (longer left renal vein) √  focal hemorrhagic infarction + capsular rupture √  smooth enlargement of kidney ← edema + hemorrhage IVP: √  initially faint + delayed dense nephrogram √  range of completely normal to pyelocaliceal nonvisualization US: √  focal / generalized areas of increased echogenicity ← hemorrhage / edema √  loss of corticomedullary differentiation √  thrombus within distended renal vein / IVC Doppler-US: √  venou"
+}

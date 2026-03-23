@@ -1,0 +1,77 @@
+{
+  "finding": "Brenner tumor, cystadenoma, adenocarcinoma, fibromyoma of uterus) cause",
+  "slug": "brenner_tumor_cystadenoma_adenocarcinoma_fibromyoma_of_uterus_cause",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/brenner_tumor_cystadenoma_adenocarcinoma_fibromyoma_of_uterus_cause.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Bile fistula (E)  COLLAGEN-VASCULAR DISEASE",
+      "raw": "Bile fistula (E)  COLLAGEN-VASCULAR DISEASE",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis (in 3%):",
+      "raw": "Rheumatoid arthritis (in 3%):",
+      "frequency": "3%"
+    },
+    {
+      "name": "SLE (in 15-74%) most common collagenosis to give pleural effusion, bilateral in 50%; L > R",
+      "raw": "SLE (in 15-74%) most common collagenosis to give pleural effusion, bilateral in 50%; L > R",
+      "frequency": "74%"
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis (in 50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Sjögren syndrome",
+      "raw": "Sjögren syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Mixed connective tissue disease",
+      "raw": "Mixed connective tissue disease",
+      "frequency": null
+    },
+    {
+      "name": "Periarteritis nodosa",
+      "raw": "Periarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "Postmyocardial infarct syndrome (F)  TRAUMATIC",
+      "raw": "Postmyocardial infarct syndrome (F)  TRAUMATIC",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhagic, chylous Cause:   esophageal rupture, thoracic / abdominal surgery, intrapleural infusion = \"infusothorax\" (0.5%), radiation pneumonitis (G)  MISCELLANEOUS",
+      "raw": "hemorrhagic, chylous Cause:   esophageal rupture, thoracic / abdominal surgery, intrapleural infusion = \"infusothorax\" (0.5%), radiation pneumonitis (G)  MISCELLANEOUS",
+      "frequency": "0.5%"
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Uremic pleuritis",
+      "raw": "Uremic pleuritis (in 20% of uremic patients)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Drug-induced effusion",
+      "raw": "Drug-induced effusion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "pleural effusion in 2-3%; ascites + hydrothorax resolve with tumor removal unilateral; R > L (in 75%), recurrent alternating sides; pleural effusion relatively unchanged in size for months; predominantly in men; LOW GLUCOSE content of 20-50 mg/dL (in 70-80%) without increase following IV infusion of glucose (DDx: TB, metastatic disease, parapneumonic effusion) √  ⇑ size of cardiovascular silhouette (in 35-50%) CXR: √  first 300 mL not visualized on PA view (collect in subpulmonic region first, then spill into posterior costophrenic sinus) √  lateral decubitus views may detect as little as 25 m"
+}

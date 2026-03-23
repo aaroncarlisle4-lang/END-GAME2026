@@ -1,0 +1,159 @@
+# Disease: PERIPHERAL NERVE SHEATH TUMOR (PNST
+
+**Source section:** SKULL AND SPINE DISORDERS
+
+## Definition
+
+(BENIGN PNST) = BENIGN TUMOR OF NERVE SHEATH = NEURINOMA usually solitary well-encapsulated slow-growing benign proliferation of Schwann cells rare variant of schwannoma characterized by marked degenerative changes (old benign slow-growing peripheral nerve sheath tumor → fusiform enlargement of nerve by TRAUMATIC NEUROMA nonneoplastic proliferation of the proximal end of a severed / partially transected involvement of a long segment of nerve + branches extending into adjacent muscle, (MPNST) MALIGNANT TUMOR OF NERVE SHEATH = NEUROFIBROSARCOMA =
+
+## Key Facts
+
+- **Frequency:** 10% of benign soft-tissue tumors
+- **Prevalence:** 5% of all benign soft-tissue tumors
+- **Age:** 40-60 years; M=F
+- **Path:** ›   fusiform mass entering + exiting the nerve
+- **Histo:** positive for S-100 protein + vimentin + CD56
+- **Location:** posterior mediastinum, retroperitoneum, 25% of extremity lesions
+- **Size:** 0.1-2.5 cm at time of surgery
+- **Mean age:** 7 years; M<F
+- **Associated with:** neurofibromatosis type 1 (in 10-50-70%), radiation therapy (in 11% of all
+
+## Imaging Findings
+
+### MR
+
+- "split-fat" sign = lesion surrounded by a rim of fat ← displacement of fat surrounding
+- "fascicular" sign = multiple small ringlike structures with peripherally higher SI on T2WI
+- "target" sign= fibrocollagenous tissue centrally and myxomatous tissue peripherally:
+- tumor periphery of high SI ← myxoid degeneration
+- center of tumor of low SI ← fibrocollagenous tissue of condensed Schwann cells
+- well-delineated mass of hypo- to isointense signal relative to skeletal muscle on
+- moderate to markedly increased slightly heterogeneous signal intensity on T2WI:
+- T2 hypointense foci centrally ← dense cellularity / collagen / hemorrhage
+- markedly T2 hyperintense focal areas ← zones of fluid signal = cystic degeneration
+- frequently low-signal-intensity rim ← capsule
+- peritumoral edema in 33%
+- heterogeneously enhancing mass with cystic areas ← myxoid + hemorrhagic change
+- fluid-fluid levels ← hemorrhage
+- ± calcifications / ossification
+- low T1 SI + heterogeneous high T2 signal intensity
+- heterogeneous progressive enhancement
+- homogeneous mass hypo- to isointense to cord / muscle on T1WI
+- T2 hyperintense with some heterogeneity
+- "target sign" = central T2-hypointense area (← central core of collagenous +
+- "whorled" appearance with T2 hypointense curvilinear areas ←bundles of collagen
+- ringlike enhancement of areas of low T2 signal (= myxoid stroma / complex
+- ± muscular atrophy
+- fusiform mass / focal enlargement with entering and exiting nerve (spindle type)
+- bulbous mass in continuity with normal nerve proximally (lateral / terminal type)
+- isointense to muscle on T1WI
+- heterogeneous intermediate to high SI on T2WI
+- "fascicular" sign = heterogeneous ringlike T2 pattern
+- mostly solitary slow-growing lesion < 5 cm in size
+- "string" sign = visualization of entering + exiting nerve roots at both ends of
+- characteristically low signal intensity on T1WI
+- heterogeneously high on T2WI:
+- high SI on T2WI ← areas of cystic degeneration / myxoid matrix
+- areas of low T2 signal show enhancement ← collagen + fibrous tissue
+- innumerable ringlike structures corresponding to cross sectioning of ropelike
+- T1 + T2 prolongation:
+- heterogeneous intensity on T1WI
+- marked T2-hyperintensity with multiple linear hypointense areas
+- diffuse intense contrast enhancement
+- typically "targetlike" pattern on T2WI:
+- peripheral high SI (← myxoid stroma)
+- central low SI (← fibrous-collagenous tissue)
+
+### ANGIO
+
+- displacement of major vascular structures
+- corkscrew-type vessels at upper / lower pole of tumor (= hypertrophy of nutrient nerve
+- hypointense on T2WI
+- smaller lesion with uptake of contrast material
+- larger lesion hyperintense on T2WI
+
+### US
+
+- hypoechoic well-circumscribed mass ± cystic spaces
+- well-defined homogeneously hypoechoic mass
+- ± punctate echogenic foci ← calcifications
+- nonspecific solid round / oval mass
+- well-defined homogeneously hypoechoic lesion
+- may demonstrate posterior acoustic enhancement
+- "target" appearance = more hypoechoic periphery (= homogeneous myxoid material) and
+- homo- or heterogeneous hypoechoic mass
+- homo- or heterogeneously hypoechoic well-defined masses
+
+### CT
+
+- solitary fusiform well-encapsulated round tumor:
+- entering + exiting nerve (intradural / extradural)
+- dumbbell shape with extension into enlarged neural foramen (intra- and extradural)
+- low attenuation (as low as 5-25 HU) due to
+- well-defined hyperdense margins
+- marked uniform enhancement (most helpful for intradural lesions)
+- slow growth
+- homo- / heterogeneous (33%) enhancement: homogeneous (heterogeneous) if small
+- muscle atrophy with striated increased fat content (in 23%)
+- punctate / mottled / curvilinear calcifications
+- speckled / coarse calcifications within solid homogeneously hypoattenuating mass
+- mild to moderate homogeneous / heterogeneous enhancement
+- well-defined round / oval homogeneously hypodense (CHARACTERISTIC) mass of 20-25
+- fusiform shape ← entering + exiting nerve = best imaging feature
+- iso- or hypoattenuating infiltrative mass ← lipid-rich Schwann cells + adipocytes +
+- "targetlike" with benign neurogenic tumor (in 52%)
+- hypovascular / intensely enhancing soft-tissue mass
+
+### NUC
+
+- ± metaiodobenzylguanidine (MIBG) uptake
+- nonencapsulated well-circumscribed fusiform mass of peripheral nerves
+- well-defined mass of dumbbell configuration (= intradural + extradural component
+- widening of intervertebral foramen + erosion of pedicles
+- scalloping of vertebral bodies
+- 67Ga-citrate uptake in majority of MPNST (DDx: benign tumors show no uptake)
+
+### CECT
+
+- typically homogeneous enhancement (30-50 HU)
+- occasionally targetlike enhancement
+
+### Abdominal wall
+
+- fusiform mass delineated by surrounding fat
+- soft-tissue and osseous overgrowth
+- bone involvement + mineralization (osteoid / chondroid / amorphous) only in larger
+
+### Orbit
+
+- always indistinct infiltrative margins ← subcutaneous spread along connective tissue
+- hypointense on T2WI
+- serpentine "bag of worms" appearance = tortuous tangles / fusiform enlargement of a
+- ropelike mass involving nonbranching nerve
+- infiltrative mass without respect for fascial boundaries (= transspatial involvement)
+- heterogeneous uptake of contrast material
+
+### Orbit (1st division of CN V in orbital apex):
+
+- enlargement of affected orbit + neural foramina and erosion of orbital walls +
+- fusiform mass with entering + exiting nerve typically larger than benign PNST
+- frequently indistinct irregular + infiltrative margins = aggressive biology
+- sudden increase in size of a previously stable neurofibroma
+- heterogeneous tumor with heterogeneous enhancement ← areas of hemorrhage + necrosis
+- invasion of adjacent organs → destruction of adjacent vertebrae / pelvic bones (NO
+
+## Clinical
+
+- **Cx:** malignant transformation (rare)
+- **Rx:** excision (affected nerve usually separable from neoplasm after incision of
+- **N.B.:** only helpful in 67Ga-positive tumors (← false negative rate unknown for MPNST)
+- **Prognosis:** highly aggressive tumor with a 44% 5-year survival rate
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

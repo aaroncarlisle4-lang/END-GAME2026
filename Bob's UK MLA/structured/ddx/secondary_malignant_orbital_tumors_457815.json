@@ -1,0 +1,52 @@
+{
+  "finding": "Secondary Malignant Orbital Tumors",
+  "slug": "secondary_malignant_orbital_tumors_457815",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/secondary_malignant_orbital_tumors_457815.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Leukemia 36.7%",
+      "raw": "Leukemia 36.7%",
+      "frequency": "36.7%"
+    },
+    {
+      "name": "Sarcoma 14.3%",
+      "raw": "Sarcoma 14.3%",
+      "frequency": "14.3%"
+    },
+    {
+      "name": "Hodgkin lymphoma 11.0%",
+      "raw": "Hodgkin lymphoma 11.0%",
+      "frequency": "11.0%"
+    },
+    {
+      "name": "Neuroblastoma 9.2%",
+      "raw": "Neuroblastoma 9.2%",
+      "frequency": "9.2%"
+    },
+    {
+      "name": "Wilms tumor 6.7%",
+      "raw": "Wilms tumor 6.7%",
+      "frequency": "6.7%"
+    },
+    {
+      "name": "Non-Hodgkin lymphoma   5.6%",
+      "raw": "Non-Hodgkin lymphoma   5.6%",
+      "frequency": "5.6%"
+    },
+    {
+      "name": "Histiocytosis 3.9%",
+      "raw": "Histiocytosis 3.9%",
+      "frequency": "3.9%"
+    },
+    {
+      "name": "Medulloblastoma 3.5%",
+      "raw": "Medulloblastoma 3.5%",
+      "frequency": "3.5%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

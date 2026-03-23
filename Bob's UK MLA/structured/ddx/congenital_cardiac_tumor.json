@@ -1,0 +1,32 @@
+{
+  "finding": "Congenital Cardiac Tumor",
+  "slug": "congenital_cardiac_tumor",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/congenital_cardiac_tumor.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rhabdomyoma (58%): usually multiple masses",
+      "raw": "Rhabdomyoma (58%): usually multiple masses",
+      "frequency": "58%"
+    },
+    {
+      "name": "Teratoma (20%): intrapericardiac, extracardiac",
+      "raw": "Teratoma (20%): intrapericardiac, extracardiac",
+      "frequency": "20%"
+    },
+    {
+      "name": "Cardiac fibroma",
+      "raw": "Cardiac fibroma (12%)",
+      "frequency": "12%"
+    },
+    {
+      "name": "Cardiac hemangioma",
+      "raw": "Cardiac hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "The majority of primary cardiac tumors in children are benign, rhabdomyoma and fibroma accounting for 70%! Prevalence:   1÷10,000 √  multicystic mass"
+}

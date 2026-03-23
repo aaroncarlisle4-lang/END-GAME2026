@@ -1,0 +1,102 @@
+{
+  "finding": "Dx: rests on clinical rather than radiologic findings!",
+  "slug": "dx_rests_on_clinical_rather_than_radiologic_findings",
+  "chapter": "SINONASAL POLYPOSIS",
+  "source_file": "processed_clusters/sinonasal_polyposis/dx_rests_on_clinical_rather_than_radiologic_findings.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "\"cold\" symptoms (cough), fever, purulent nasal discharge",
+      "raw": "\"cold\" symptoms (cough), fever, purulent nasal discharge",
+      "frequency": null
+    },
+    {
+      "name": "Chronic sinusitis",
+      "raw": "Chronic sinusitis",
+      "frequency": null
+    },
+    {
+      "name": "Mucocele",
+      "raw": "Mucocele",
+      "frequency": null
+    },
+    {
+      "name": "Orbital extension through neurovascular foramina, dehiscences, or thin bones:",
+      "raw": "Orbital extension through neurovascular foramina, dehiscences, or thin bones:",
+      "frequency": null
+    },
+    {
+      "name": "Pott puffy tumor",
+      "raw": "Pott puffy tumor",
+      "frequency": null
+    },
+    {
+      "name": "Septic thrombophlebitis",
+      "raw": "Septic thrombophlebitis",
+      "frequency": null
+    },
+    {
+      "name": "Intracranial extension: meningitis, epidural abscess, subdural empyema, venous sinus thrombosis, cerebral abscess Rx:      functional endoscopic sinus surgery (amputation of uncinate process; enlargement of infundibulum + maxillary ostium; creation of common channel for anterior ethmoid air cells; complete / partial ethmoidectomy",
+      "raw": "Intracranial extension: meningitis, epidural abscess, subdural empyema, venous sinus thrombosis, cerebral abscess Rx:      functional endoscopic sinus surgery (amputation of uncinate process; enlargement of infundibulum + maxillary ostium; creation of common channel for anterior ethmoid air cells; complete / partial ethmoidectomy",
+      "frequency": "common"
+    },
+    {
+      "name": "Mycotic = Fungal Sinusitis",
+      "raw": "Mycotic = Fungal Sinusitis",
+      "frequency": null
+    },
+    {
+      "name": "Organism:  Aspergillus fumigatus, mucormycosis, bipolaris, Drechslera, Curvularia,",
+      "raw": "Organism:  Aspergillus fumigatus, mucormycosis, bipolaris, Drechslera, Curvularia,",
+      "frequency": null
+    },
+    {
+      "name": "Candida",
+      "raw": "Candida",
+      "frequency": null
+    },
+    {
+      "name": "Dx:     failure to respond to antibiotic therapy",
+      "raw": "Dx:     failure to respond to antibiotic therapy",
+      "frequency": null
+    },
+    {
+      "name": "Noninvasive Fungal Sinusitis",
+      "raw": "Noninvasive Fungal Sinusitis",
+      "frequency": null
+    },
+    {
+      "name": "FUNGAL MYCETOMA / FUNGUS BALL OF SINUS",
+      "raw": "FUNGAL MYCETOMA / FUNGUS BALL OF SINUS",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "minimal symptoms: chronic pressure, nasal discharge, cacosmia",
+      "raw": "minimal symptoms: chronic pressure, nasal discharge, cacosmia [kakos, Greek = bad, osme = smell]",
+      "frequency": null
+    },
+    {
+      "name": "chronic headaches, nasal congestion, chronic sinusitis",
+      "raw": "chronic headaches, nasal congestion, chronic sinusitis",
+      "frequency": null
+    },
+    {
+      "name": "history of sinus surgery",
+      "raw": "history of sinus surgery",
+      "frequency": null
+    },
+    {
+      "name": "painless necrotic nasal septal ulcer (eschar), sinusitis",
+      "raw": "painless necrotic nasal septal ulcer (eschar), sinusitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  mucosal thickening + enhancement √  air-fluid level ← retention of secretions ← ostial dysfunction ← mucosal swelling √  total sinus opacification √  hyperintense secretions on T2WI (95% water content + 5% proteinaceous macromolecules) DDx:   mucus retention cyst √  mucosal swelling > 5 mm thick on Waters view (99% sensitive, 46% specific in maxillary sinus) √  bone remodeling + sclerosis ← osteitis √  polyposis √  hyperattenuating lesion on NECT ← inspissated secretions / fungal disease √  hypointense secretions on T1WI + T2WI ← inspissated material with chronic obstruction (DDx: air) CT a"
+}

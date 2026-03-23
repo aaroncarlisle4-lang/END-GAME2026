@@ -1,0 +1,112 @@
+{
+  "finding": "HYDRONEPHROSIS",
+  "slug": "hydronephrosis",
+  "chapter": "HYDROCELE",
+  "source_file": "processed_clusters/hydrocele/hydronephrosis.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "OBSTRUCTIVE UROPATHY = HYDRONEPHROSIS =  dilatation of collecting structures without functional deficit",
+      "raw": "OBSTRUCTIVE UROPATHY = HYDRONEPHROSIS =  dilatation of collecting structures without functional deficit",
+      "frequency": null
+    },
+    {
+      "name": "OBSTRUCTIVE NEPHROPATHY = dilatation of collecting system with renal functional impairment",
+      "raw": "OBSTRUCTIVE NEPHROPATHY = dilatation of collecting system with renal functional impairment",
+      "frequency": null
+    },
+    {
+      "name": "Passage of calculus",
+      "raw": "Passage of calculus",
+      "frequency": null
+    },
+    {
+      "name": "Sulfonamide crystallization in nonalkalinized urine",
+      "raw": "Sulfonamide crystallization in nonalkalinized urine",
+      "frequency": null
+    },
+    {
+      "name": "Passage of blood clot ← carcinoma, AV malformation, trauma, anticoagulant therapy",
+      "raw": "Passage of blood clot ← carcinoma, AV malformation, trauma, anticoagulant therapy",
+      "frequency": null
+    },
+    {
+      "name": "Sloughed necrotic papilla",
+      "raw": "Sloughed necrotic papilla",
+      "frequency": null
+    },
+    {
+      "name": "Ureteral edema following instrumentation",
+      "raw": "Ureteral edema following instrumentation",
+      "frequency": null
+    },
+    {
+      "name": "Suture on ureter",
+      "raw": "Suture on ureter",
+      "frequency": null
+    },
+    {
+      "name": "Normal pregnancy",
+      "raw": "Normal pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "pain",
+      "raw": "pain (50%), UTI (36%), nausea + vomiting (33%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "insidious course",
+      "raw": "insidious course",
+      "frequency": null
+    },
+    {
+      "name": "Cx:     superimposed infection",
+      "raw": "Cx:     superimposed infection (= pyonephrosis)",
+      "frequency": null
+    },
+    {
+      "name": "Congenital Hydronephrosis",
+      "raw": "Congenital Hydronephrosis",
+      "frequency": null
+    },
+    {
+      "name": "Mostly isolated malformation",
+      "raw": "Mostly isolated malformation",
+      "frequency": null
+    },
+    {
+      "name": "UPJ obstruction 22-40-67%",
+      "raw": "UPJ obstruction 22-40-67%",
+      "frequency": "67%"
+    },
+    {
+      "name": "Posterior urethral valves 18%",
+      "raw": "Posterior urethral valves 18%",
+      "frequency": "18%"
+    },
+    {
+      "name": "Ectopic ureterocele 14%",
+      "raw": "Ectopic ureterocele 14%",
+      "frequency": "14%"
+    },
+    {
+      "name": "Prune belly syndrome 12%",
+      "raw": "Prune belly syndrome 12%",
+      "frequency": "12%"
+    },
+    {
+      "name": "Ureteral + UVJ obstruction 8%",
+      "raw": "Ureteral + UVJ obstruction 8%",
+      "frequency": "8%"
+    },
+    {
+      "name": "Others: severe vesicoureteral reflux, bladder neck obstruction, hypertrophy of verumontanum, urethral diverticulum, congenital urethral strictures, anterior urethral valves, meatal stenosis",
+      "raw": "Others: severe vesicoureteral reflux, bladder neck obstruction, hypertrophy of verumontanum, urethral diverticulum, congenital urethral strictures, anterior urethral valves, meatal stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Grading system of hydronephrosis by US: Grade 0   =   homogeneous central renal sinus complex without separation of central sinus echoes Grade 1   =   separation of central sinus echoes of ovoid configuration; continuous echogenic sinus periphery; 52% predictive value for obstruction Grade 2   =   separation of central sinus echoes of rounded configuration; dilated calices connecting with renal pelvis; continuity of echogenic sinus periphery Grade 3   =   replacement of major portions of renal sinus; discontinuity of echogenic sinus periphery Amount of collecting system dilatation depends on:"
+}

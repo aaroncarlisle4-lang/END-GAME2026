@@ -1,0 +1,42 @@
+{
+  "finding": "B. DIFFUSE / multifocal",
+  "slug": "b_diffuse_multifocal_52fcf7",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/b_diffuse_multifocal_52fcf7.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Normal variant",
+      "raw": "Normal variant",
+      "frequency": null
+    },
+    {
+      "name": "S/P radiation treatment",
+      "raw": "S/P radiation treatment",
+      "frequency": null
+    },
+    {
+      "name": "Osteoporosis",
+      "raw": "Osteoporosis",
+      "frequency": null
+    },
+    {
+      "name": "Multiple hemangiomas",
+      "raw": "Multiple hemangiomas",
+      "frequency": null
+    },
+    {
+      "name": "Spondyloarthritis",
+      "raw": "Spondyloarthritis",
+      "frequency": null
+    },
+    {
+      "name": "Anorexia nervosa",
+      "raw": "Anorexia nervosa",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

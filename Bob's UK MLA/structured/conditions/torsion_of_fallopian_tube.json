@@ -1,0 +1,40 @@
+{
+  "name": "TORSION OF FALLOPIAN TUBE",
+  "slug": "torsion_of_fallopian_tube",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/torsion_of_fallopian_tube.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "1÷1.5 million women (exceedingly rare)",
+    "Age": "adolescent girls + women of reproductive age",
+    "Location": "R >> L ← fixation by sigmoid colon"
+  },
+  "dominant_finding": "dilated fluid-filled structure separate from ovary:",
+  "distribution": "R >> L ← fixation by sigmoid colon",
+  "discriminating_features": [
+    "dilated fluid-filled structure separate from ovary:",
+    "tubular shape with tapered ends (= \"beak\" sign)",
+    "twisted configuration of dilated tubular cystic mass",
+    "intraluminal attenuation > 50 HU (= hemorrhage)",
+    "thick enhancing fallopian tube wall"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "fusiform tubal dilatation with tapered ends",
+      "thickened echogenic wall ± internal debris",
+      "central solid component (= edematous mesosalpinx) surrounded by dilated tube"
+    ],
+    "CT": [
+      "dilated fluid-filled structure separate from ovary:",
+      "tubular shape with tapered ends (= \"beak\" sign)",
+      "twisted configuration of dilated tubular cystic mass",
+      "intraluminal attenuation > 50 HU (= hemorrhage)",
+      "thick enhancing fallopian tube wall",
+      "free fluid + peritubal fat stranding",
+      "thickening + enhancement of broad ligaments",
+      "focal reactive ileus"
+    ]
+  },
+  "clinical": {}
+}

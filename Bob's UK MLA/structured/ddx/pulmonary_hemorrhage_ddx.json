@@ -1,0 +1,27 @@
+{
+  "finding": "Pulmonary Hemorrhage (DDx)",
+  "slug": "pulmonary_hemorrhage_ddx",
+  "chapter": "Pulmonary Hemorrhage",
+  "source_file": "processed_clusters/pulmonary_hemorrhage/pulmonary_hemorrhage_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hematemesis (containing food particles",
+      "raw": "hematemesis (containing food particles",
+      "frequency": null
+    },
+    {
+      "name": "dark blood",
+      "raw": "dark blood",
+      "frequency": null
+    },
+    {
+      "name": "acid pH)",
+      "raw": "acid pH)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "vasodilated enlarged tortuous bronchial arteries → bronchial-to-pulmonary-artery"
+}

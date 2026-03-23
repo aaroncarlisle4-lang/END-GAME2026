@@ -1,0 +1,37 @@
+{
+  "finding": "C. PRIMARY TUMORS (infrequent",
+  "slug": "c_primary_tumors_infrequent_d3bfe3",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/c_primary_tumors_infrequent_d3bfe3.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carcinoma of trachea",
+      "raw": "Carcinoma of trachea",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal tumor:",
+      "raw": "Esophageal tumor:",
+      "frequency": null
+    },
+    {
+      "name": "Mesothelioma",
+      "raw": "Mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Granular cell myoblastoma of trachea",
+      "raw": "Granular cell myoblastoma of trachea (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "leiomyoma, carcinoma, leiomyosarcoma"
+}

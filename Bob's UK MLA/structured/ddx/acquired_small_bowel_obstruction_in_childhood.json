@@ -1,0 +1,37 @@
+{
+  "finding": "Acquired Small Bowel Obstruction in Childhood",
+  "slug": "acquired_small_bowel_obstruction_in_childhood",
+  "chapter": "E. EXTRINSIC COMPRESSION",
+  "source_file": "processed_clusters/e_extrinsic_compression/acquired_small_bowel_obstruction_in_childhood.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adhesions",
+      "raw": "Adhesions",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis",
+      "raw": "Appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "Intussusception",
+      "raw": "Intussusception",
+      "frequency": null
+    },
+    {
+      "name": "Incarcerated hernia",
+      "raw": "Incarcerated hernia (most common in infancy)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Malrotation",
+      "raw": "Malrotation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Meckel diverticulum"
+}

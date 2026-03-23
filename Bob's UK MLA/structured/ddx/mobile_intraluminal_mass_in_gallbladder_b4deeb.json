@@ -1,0 +1,27 @@
+{
+  "finding": "Mobile Intraluminal Mass in Gallbladder",
+  "slug": "mobile_intraluminal_mass_in_gallbladder_b4deeb",
+  "chapter": "GALLBLADDER POLYP",
+  "source_file": "processed_clusters/gallbladder_polyp/mobile_intraluminal_mass_in_gallbladder_b4deeb.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tumefactive sludge",
+      "raw": "Tumefactive sludge",
+      "frequency": null
+    },
+    {
+      "name": "Blood clot",
+      "raw": "Blood clot",
+      "frequency": null
+    },
+    {
+      "name": "Nonshadowing stone",
+      "raw": "Nonshadowing stone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

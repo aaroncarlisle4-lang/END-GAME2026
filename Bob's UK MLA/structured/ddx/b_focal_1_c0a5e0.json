@@ -1,0 +1,27 @@
+{
+  "finding": "B. FOCAL",
+  "slug": "b_focal_1_c0a5e0",
+  "chapter": "Sutural Abnormalities",
+  "source_file": "processed_clusters/sutural_abnormalities/b_focal_1_c0a5e0.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic subdural hematoma",
+      "raw": "Chronic subdural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

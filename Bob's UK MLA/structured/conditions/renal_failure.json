@@ -1,0 +1,40 @@
+{
+  "name": "RENAL FAILURE",
+  "slug": "renal_failure",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF UROGENITAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_urogenital_disorders/renal_failure.md",
+  "definition": "reduction in renal function clinical condition associated with rapid steadily increasing azotemia ± oliguria (< 500 mL decrease in renal function over months / years",
+  "demographics": {
+    "Frequency": "70% of community-acquired ARF (glomerulonephritis); 40% of hospital-",
+    "Incidence": "end-stage renal disease in 0.01% of USA population; annually 85,000 patients",
+    "Path": "amyloid consists of β2-microglobulin"
+  },
+  "dominant_finding": "resistive index < 0.75 in 80% of kidneys",
+  "distribution": "",
+  "discriminating_features": [
+    "abnormally elevated resistive index",
+    "resistive index < 0.75 in 80% of kidneys",
+    "resistive index ≥ 0.75 in 91% of kidneys",
+    "normal resistive index < 0.70",
+    "abnormal resistive index"
+  ],
+  "other_features": {
+    "general": [
+      "abnormally elevated resistive index",
+      "resistive index < 0.75 in 80% of kidneys",
+      "resistive index ≥ 0.75 in 91% of kidneys",
+      "normal resistive index < 0.70",
+      "abnormal resistive index",
+      "hydronephrosis",
+      "diskovertebral junction erosion + sclerosis",
+      "vertebral body compression",
+      "disk space narrowing",
+      "Schmorl node formation",
+      "lack of osteophytosis",
+      "facet involvement with subluxation"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "20-70% mortality"
+  }
+}

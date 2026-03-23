@@ -1,0 +1,945 @@
+{
+  "finding": "Ainhum disease 60",
+  "slug": "ainhum_disease_60",
+  "chapter": "Symbols",
+  "source_file": "processed_clusters/symbols/ainhum_disease_60.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "block phenomenon 651 collection, abdomen 992",
+      "raw": "block phenomenon 651 collection, abdomen 992",
+      "frequency": null
+    },
+    {
+      "name": "containing masses of neck 448",
+      "raw": "containing masses of neck 448",
+      "frequency": null
+    },
+    {
+      "name": "crescent sign, lung 538, 581, 587, 681, 682 embolism B with pulmonary edema 518 esophagram 1004 leaks in neonate 521 progression in neonatal GI tract 998 space pattern, lung metastases 643 trapping",
+      "raw": "crescent sign, lung 538, 581, 587, 681, 682 embolism B with pulmonary edema 518 esophagram 1004 leaks in neonate 521 progression in neonatal GI tract 998 space pattern, lung metastases 643 trapping",
+      "frequency": null
+    },
+    {
+      "name": "Akinesis, heart 823",
+      "raw": "Akinesis, heart 823",
+      "frequency": null
+    },
+    {
+      "name": "Alagille syndrome 920",
+      "raw": "Alagille syndrome 920",
+      "frequency": null
+    },
+    {
+      "name": "Alanine aminotransferase 888",
+      "raw": "Alanine aminotransferase 888",
+      "frequency": null
+    },
+    {
+      "name": "Alar herniation 290",
+      "raw": "Alar herniation 290",
+      "frequency": null
+    },
+    {
+      "name": "Albers-Schönberg disease 173",
+      "raw": "Albers-Schönberg disease 173",
+      "frequency": null
+    },
+    {
+      "name": "Albuterol 1437",
+      "raw": "Albuterol 1437",
+      "frequency": null
+    },
+    {
+      "name": "Aldosterone 1187",
+      "raw": "Aldosterone 1187",
+      "frequency": null
+    },
+    {
+      "name": "Aldosteronism, primary 1150",
+      "raw": "Aldosteronism, primary 1150",
+      "frequency": null
+    },
+    {
+      "name": "Alendronate 1088",
+      "raw": "Alendronate 1088",
+      "frequency": null
+    },
+    {
+      "name": "Alexander",
+      "raw": "Alexander",
+      "frequency": null
+    },
+    {
+      "name": "encrusted cystitis and pyelitis 1199 phosphatase 887",
+      "raw": "encrusted cystitis and pyelitis 1199 phosphatase 887",
+      "frequency": null
+    },
+    {
+      "name": "Alkaptonuria 161",
+      "raw": "Alkaptonuria 161",
+      "frequency": null
+    },
+    {
+      "name": "Allantoic cyst 1299",
+      "raw": "Allantoic cyst 1299",
+      "frequency": null
+    },
+    {
+      "name": "Allen test 777",
+      "raw": "Allen test 777",
+      "frequency": null
+    },
+    {
+      "name": "Allergic",
+      "raw": "Allergic",
+      "frequency": null
+    },
+    {
+      "name": "Allis sign 82",
+      "raw": "Allis sign 82",
+      "frequency": null
+    },
+    {
+      "name": "Alobar holoprosencephaly 365",
+      "raw": "Alobar holoprosencephaly 365",
+      "frequency": null
+    },
+    {
+      "name": "Alpha-1 antitrypsin deficiency 576",
+      "raw": "Alpha-1 antitrypsin deficiency 576",
+      "frequency": null
+    },
+    {
+      "name": "Alpha-fetoprotein",
+      "raw": "Alpha-fetoprotein",
+      "frequency": null
+    },
+    {
+      "name": "Alport syndrome 1211",
+      "raw": "Alport syndrome 1211",
+      "frequency": null
+    },
+    {
+      "name": "ALPSA 87",
+      "raw": "ALPSA 87",
+      "frequency": null
+    },
+    {
+      "name": "ALT 888",
+      "raw": "ALT 888",
+      "frequency": null
+    },
+    {
+      "name": "Alteration in gallbladder size 872",
+      "raw": "Alteration in gallbladder size 872",
+      "frequency": null
+    },
+    {
+      "name": "colored stools 896 toxicity 90, 1149",
+      "raw": "colored stools 896 toxicity 90, 1149",
+      "frequency": null
+    },
+    {
+      "name": "Amastia 683, 698",
+      "raw": "Amastia 683, 698",
+      "frequency": null
+    },
+    {
+      "name": "Amaurosis fugax 284",
+      "raw": "Amaurosis fugax 284",
+      "frequency": null
+    },
+    {
+      "name": "Amazia 698",
+      "raw": "Amazia 698",
+      "frequency": null
+    },
+    {
+      "name": "Ambiguous genitalia 1181",
+      "raw": "Ambiguous genitalia 1181",
+      "frequency": null
+    },
+    {
+      "name": "Amebiasis 1045",
+      "raw": "Amebiasis 1045",
+      "frequency": null
+    },
+    {
+      "name": "Amebic",
+      "raw": "Amebic",
+      "frequency": null
+    },
+    {
+      "name": "Ameboma 1046",
+      "raw": "Ameboma 1046",
+      "frequency": null
+    },
+    {
+      "name": "Amelia 1300",
+      "raw": "Amelia 1300",
+      "frequency": null
+    },
+    {
+      "name": "Ameloblastic fibroma 242",
+      "raw": "Ameloblastic fibroma 242",
+      "frequency": null
+    },
+    {
+      "name": "Ameloblastoma, jaw 242",
+      "raw": "Ameloblastoma, jaw 242",
+      "frequency": null
+    },
+    {
+      "name": "Amenorrhea 1311",
+      "raw": "Amenorrhea 1311",
+      "frequency": null
+    },
+    {
+      "name": "Amine precursor uptake and decarboxylation 645, 960",
+      "raw": "Amine precursor uptake and decarboxylation 645, 960",
+      "frequency": null
+    },
+    {
+      "name": "Aminophylline 1437",
+      "raw": "Aminophylline 1437",
+      "frequency": null
+    },
+    {
+      "name": "Amiodarone",
+      "raw": "Amiodarone",
+      "frequency": null
+    },
+    {
+      "name": "Ammonium excretion 1188",
+      "raw": "Ammonium excretion 1188",
+      "frequency": null
+    },
+    {
+      "name": "Amniocentesis 1326",
+      "raw": "Amniocentesis 1326",
+      "frequency": null
+    },
+    {
+      "name": "Amniography 1329",
+      "raw": "Amniography 1329",
+      "frequency": null
+    },
+    {
+      "name": "Amnionicity 1328",
+      "raw": "Amnionicity 1328",
+      "frequency": null
+    },
+    {
+      "name": "Amnionic membrane 1322",
+      "raw": "Amnionic membrane 1322",
+      "frequency": null
+    },
+    {
+      "name": "Amniotic",
+      "raw": "Amniotic",
+      "frequency": null
+    },
+    {
+      "name": "Amosite 578",
+      "raw": "Amosite 578",
+      "frequency": null
+    },
+    {
+      "name": "Ampulla of Vater, anatomy 893",
+      "raw": "Ampulla of Vater, anatomy 893",
+      "frequency": null
+    },
+    {
+      "name": "Ampullary",
+      "raw": "Ampullary",
+      "frequency": null
+    },
+    {
+      "name": "Amputation, in fetus 1303",
+      "raw": "Amputation, in fetus 1303",
+      "frequency": null
+    },
+    {
+      "name": "Amsterdam dwarfism 75",
+      "raw": "Amsterdam dwarfism 75",
+      "frequency": null
+    },
+    {
+      "name": "Amstutz classification 176",
+      "raw": "Amstutz classification 176",
+      "frequency": null
+    },
+    {
+      "name": "Amyand hernia 1101",
+      "raw": "Amyand hernia 1101",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidoma",
+      "raw": "Amyloidoma",
+      "frequency": null
+    },
+    {
+      "name": "CNS, 287",
+      "raw": "CNS, 287",
+      "frequency": null
+    },
+    {
+      "name": "GI tract 1046",
+      "raw": "GI tract 1046",
+      "frequency": null
+    },
+    {
+      "name": "GU tract 1200",
+      "raw": "GU tract 1200",
+      "frequency": null
+    },
+    {
+      "name": "Amyotrophic lateral sclerosis 328",
+      "raw": "Amyotrophic lateral sclerosis 328",
+      "frequency": null
+    },
+    {
+      "name": "Analgesia 1439",
+      "raw": "Analgesia 1439",
+      "frequency": null
+    },
+    {
+      "name": "Analgesic",
+      "raw": "Analgesic",
+      "frequency": null
+    },
+    {
+      "name": "Anchovy paste abscess 933",
+      "raw": "Anchovy paste abscess 933",
+      "frequency": null
+    },
+    {
+      "name": "Ancient schwannoma 271",
+      "raw": "Ancient schwannoma 271",
+      "frequency": null
+    },
+    {
+      "name": "Anderson",
+      "raw": "Anderson",
+      "frequency": null
+    },
+    {
+      "name": "Carr-Randall theory 1286 disease 932 lesion 277",
+      "raw": "Carr-Randall theory 1286 disease 932 lesion 277",
+      "frequency": null
+    },
+    {
+      "name": "Androblastoma 1381",
+      "raw": "Androblastoma 1381",
+      "frequency": null
+    },
+    {
+      "name": "Androgen-producing tumor 1315",
+      "raw": "Androgen-producing tumor 1315",
+      "frequency": null
+    },
+    {
+      "name": "Anembryonic pregnancy 1341",
+      "raw": "Anembryonic pregnancy 1341",
+      "frequency": null
+    },
+    {
+      "name": "Anemia",
+      "raw": "Anemia",
+      "frequency": null
+    },
+    {
+      "name": "Mediterranean 206",
+      "raw": "Mediterranean 206",
+      "frequency": null
+    },
+    {
+      "name": "Anencephaly 329",
+      "raw": "Anencephaly 329",
+      "frequency": null
+    },
+    {
+      "name": "Aneuploidy, risk 1295",
+      "raw": "Aneuploidy, risk 1295",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst 60",
+      "raw": "Aneurysmal bone cyst 60",
+      "frequency": null
+    },
+    {
+      "name": "Angel wing sign 551",
+      "raw": "Angel wing sign 551",
+      "frequency": null
+    },
+    {
+      "name": "Angiitis, primary CNS 396",
+      "raw": "Angiitis, primary CNS 396",
+      "frequency": null
+    },
+    {
+      "name": "Angina, abdominal 1125",
+      "raw": "Angina, abdominal 1125",
+      "frequency": null
+    },
+    {
+      "name": "Angioblastoma",
+      "raw": "Angioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "converting enzyme 665",
+      "raw": "converting enzyme 665",
+      "frequency": null
+    },
+    {
+      "name": "II 1187",
+      "raw": "II 1187",
+      "frequency": null
+    },
+    {
+      "name": "Angle of His 1088",
+      "raw": "Angle of His 1088",
+      "frequency": null
+    },
+    {
+      "name": "Angular pregnancy 1352",
+      "raw": "Angular pregnancy 1352",
+      "frequency": null
+    },
+    {
+      "name": "Aniridia, sporadic",
+      "raw": "Aniridia, sporadic",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor 1291",
+      "raw": "Wilms tumor 1291",
+      "frequency": null
+    },
+    {
+      "name": "Anisakiasis 1047",
+      "raw": "Anisakiasis 1047",
+      "frequency": null
+    },
+    {
+      "name": "Ankle",
+      "raw": "Ankle",
+      "frequency": null
+    },
+    {
+      "name": "Annihilation reaction 1396",
+      "raw": "Annihilation reaction 1396",
+      "frequency": null
+    },
+    {
+      "name": "Annular pancreas 897",
+      "raw": "Annular pancreas 897",
+      "frequency": null
+    },
+    {
+      "name": "Annuloaortic ectasia 145, 788",
+      "raw": "Annuloaortic ectasia 145, 788",
+      "frequency": null
+    },
+    {
+      "name": "Anomalous",
+      "raw": "Anomalous",
+      "frequency": null
+    },
+    {
+      "name": "Anoxic encephalopathy 287",
+      "raw": "Anoxic encephalopathy 287",
+      "frequency": null
+    },
+    {
+      "name": "Anteaters nose 205",
+      "raw": "Anteaters nose 205",
+      "frequency": null
+    },
+    {
+      "name": "Antepartum hemorrhage, placental cause 1298 [Anterior]",
+      "raw": "Antepartum hemorrhage, placental cause 1298",
+      "frequency": null,
+      "sites": [
+        "Anterior"
+      ]
+    },
+    {
+      "name": "Anterosuperior impingement 192",
+      "raw": "Anterosuperior impingement 192",
+      "frequency": null
+    },
+    {
+      "name": "Anthophyllite 578",
+      "raw": "Anthophyllite 578",
+      "frequency": null
+    },
+    {
+      "name": "Anthracosilicosis 601",
+      "raw": "Anthracosilicosis 601",
+      "frequency": null
+    },
+    {
+      "name": "MSK 90",
+      "raw": "MSK 90",
+      "frequency": null
+    },
+    {
+      "name": "Antidiuretic hormone 1187",
+      "raw": "Antidiuretic hormone 1187",
+      "frequency": null
+    },
+    {
+      "name": "Anti-glomerular basement membrane antibody disease 617",
+      "raw": "Anti-glomerular basement membrane antibody disease 617",
+      "frequency": null
+    },
+    {
+      "name": "Antimongoloid eye slant 208",
+      "raw": "Antimongoloid eye slant 208",
+      "frequency": null
+    },
+    {
+      "name": "Antineutrophil cytoplasmic autoantibodies",
+      "raw": "Antineutrophil cytoplasmic autoantibodies",
+      "frequency": null
+    },
+    {
+      "name": "Churg-Strauss 808",
+      "raw": "Churg-Strauss 808",
+      "frequency": null
+    },
+    {
+      "name": "Antiphospholipid antibody syndrome 672",
+      "raw": "Antiphospholipid antibody syndrome 672",
+      "frequency": null
+    },
+    {
+      "name": "Antitrypsin deficiency 576",
+      "raw": "Antitrypsin deficiency 576",
+      "frequency": null
+    },
+    {
+      "name": "Antoni tissue 270",
+      "raw": "Antoni tissue 270",
+      "frequency": null
+    },
+    {
+      "name": "Antral",
+      "raw": "Antral",
+      "frequency": null
+    },
+    {
+      "name": "Antrochoanal polyp 502",
+      "raw": "Antrochoanal polyp 502",
+      "frequency": null
+    },
+    {
+      "name": "Antrum, retained gastric 1136",
+      "raw": "Antrum, retained gastric 1136",
+      "frequency": null
+    },
+    {
+      "name": "Anus",
+      "raw": "Anus",
+      "frequency": null
+    },
+    {
+      "name": "Aortoarteritis 847",
+      "raw": "Aortoarteritis 847",
+      "frequency": null
+    },
+    {
+      "name": "Aortoenteric fistula 795",
+      "raw": "Aortoenteric fistula 795",
+      "frequency": null
+    },
+    {
+      "name": "Aortoesophageal fistula 795",
+      "raw": "Aortoesophageal fistula 795",
+      "frequency": null
+    },
+    {
+      "name": "Aortopulmonary collateral 749",
+      "raw": "Aortopulmonary collateral 749",
+      "frequency": null
+    },
+    {
+      "name": "Aortopulmonic window 795",
+      "raw": "Aortopulmonic window 795",
+      "frequency": null
+    },
+    {
+      "name": "Apert syndrome 62",
+      "raw": "Apert syndrome 62",
+      "frequency": null
+    },
+    {
+      "name": "Aplastic anemia 156",
+      "raw": "Aplastic anemia 156",
+      "frequency": null
+    },
+    {
+      "name": "Apodia 1300",
+      "raw": "Apodia 1300",
+      "frequency": null
+    },
+    {
+      "name": "Aponeurotic fibroma, juvenile 201",
+      "raw": "Aponeurotic fibroma, juvenile 201",
+      "frequency": null
+    },
+    {
+      "name": "Apophyseal",
+      "raw": "Apophyseal",
+      "frequency": null
+    },
+    {
+      "name": "Appendagitis, epiploic 1081",
+      "raw": "Appendagitis, epiploic 1081",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis 1049",
+      "raw": "Appendicitis 1049",
+      "frequency": null
+    },
+    {
+      "name": "Appendicolith 1049",
+      "raw": "Appendicolith 1049",
+      "frequency": null
+    },
+    {
+      "name": "Appendix",
+      "raw": "Appendix",
+      "frequency": null
+    },
+    {
+      "name": "APUD cells 956",
+      "raw": "APUD cells 956",
+      "frequency": null
+    },
+    {
+      "name": "APUDoma 960, 1420",
+      "raw": "APUDoma 960, 1420",
+      "frequency": null
+    },
+    {
+      "name": "Aqueductal",
+      "raw": "Aqueductal",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoiditis 243",
+      "raw": "Arachnoiditis 243",
+      "frequency": null
+    },
+    {
+      "name": "Arantius nodules 764",
+      "raw": "Arantius nodules 764",
+      "frequency": null
+    },
+    {
+      "name": "Arcade of Riolan 1031",
+      "raw": "Arcade of Riolan 1031",
+      "frequency": null
+    },
+    {
+      "name": "Architectural distortion, breast 696",
+      "raw": "Architectural distortion, breast 696",
+      "frequency": null
+    },
+    {
+      "name": "Arcuate",
+      "raw": "Arcuate",
+      "frequency": null
+    },
+    {
+      "name": "Arc welder pneumoconiosis 670",
+      "raw": "Arc welder pneumoconiosis 670",
+      "frequency": null
+    },
+    {
+      "name": "Aregenerative anemia 678",
+      "raw": "Aregenerative anemia 678",
+      "frequency": null
+    },
+    {
+      "name": "Argentaffin cells, stomach 1034",
+      "raw": "Argentaffin cells, stomach 1034",
+      "frequency": null
+    },
+    {
+      "name": "Argentaffinoma 1058",
+      "raw": "Argentaffinoma 1058",
+      "frequency": null
+    },
+    {
+      "name": "A-ring, esophagus 1033",
+      "raw": "A-ring, esophagus 1033",
+      "frequency": null
+    },
+    {
+      "name": "Chiari malformation 342 nerve 498",
+      "raw": "Chiari malformation 342 nerve 498",
+      "frequency": null
+    },
+    {
+      "name": "Arrhenoblastoma 1381",
+      "raw": "Arrhenoblastoma 1381",
+      "frequency": null
+    },
+    {
+      "name": "Arrhinencephaly 365",
+      "raw": "Arrhinencephaly 365",
+      "frequency": null
+    },
+    {
+      "name": "Arrhythmogenic RV cardiomyopathy 806",
+      "raw": "Arrhythmogenic RV cardiomyopathy 806",
+      "frequency": null
+    },
+    {
+      "name": "Arrow-head sign",
+      "raw": "Arrow-head sign",
+      "frequency": null
+    },
+    {
+      "name": "Arteria lusoria 1006",
+      "raw": "Arteria lusoria 1006",
+      "frequency": null
+    },
+    {
+      "name": "Arterioportal shunt 868",
+      "raw": "Arterioportal shunt 868",
+      "frequency": null
+    },
+    {
+      "name": "Arteriosclerosis",
+      "raw": "Arteriosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Arthroplasty, hip 23",
+      "raw": "Arthroplasty, hip 23",
+      "frequency": null
+    },
+    {
+      "name": "Arthrosis 162",
+      "raw": "Arthrosis 162",
+      "frequency": null
+    },
+    {
+      "name": "Arthus reaction 615",
+      "raw": "Arthus reaction 615",
+      "frequency": null
+    },
+    {
+      "name": "ARTICLES 1067",
+      "raw": "ARTICLES 1067",
+      "frequency": null
+    },
+    {
+      "name": "Artifacts",
+      "raw": "Artifacts",
+      "frequency": null
+    },
+    {
+      "name": "related disease 578",
+      "raw": "related disease 578",
+      "frequency": null
+    },
+    {
+      "name": "Asbestosis, pulmonary 579",
+      "raw": "Asbestosis, pulmonary 579",
+      "frequency": null
+    },
+    {
+      "name": "Ascariasis 897",
+      "raw": "Ascariasis 897",
+      "frequency": null
+    },
+    {
+      "name": "Ascaris-induced pancreatitis 898",
+      "raw": "Ascaris-induced pancreatitis 898",
+      "frequency": null
+    },
+    {
+      "name": "Ascendant follicle 1334",
+      "raw": "Ascendant follicle 1334",
+      "frequency": null
+    },
+    {
+      "name": "Ascites 996",
+      "raw": "Ascites 996",
+      "frequency": null
+    },
+    {
+      "name": "Asherman syndrome 1341",
+      "raw": "Asherman syndrome 1341",
+      "frequency": null
+    },
+    {
+      "name": "Ash leaf patches 405",
+      "raw": "Ash leaf patches 405",
+      "frequency": null
+    },
+    {
+      "name": "Askin tumor 580",
+      "raw": "Askin tumor 580",
+      "frequency": null
+    },
+    {
+      "name": "Ask-Upmark kidney 1204",
+      "raw": "Ask-Upmark kidney 1204",
+      "frequency": null
+    },
+    {
+      "name": "Asomia 221",
+      "raw": "Asomia 221",
+      "frequency": null
+    },
+    {
+      "name": "Aspartate aminotransferase 888",
+      "raw": "Aspartate aminotransferase 888",
+      "frequency": null
+    },
+    {
+      "name": "Aspergilloma 581",
+      "raw": "Aspergilloma 581",
+      "frequency": null
+    },
+    {
+      "name": "Aspergillosis 580",
+      "raw": "Aspergillosis 580",
+      "frequency": null
+    },
+    {
+      "name": "Aspergillus clavatus 615",
+      "raw": "Aspergillus clavatus 615",
+      "frequency": null
+    },
+    {
+      "name": "Asphyxiating thoracic dysplasia 62",
+      "raw": "Asphyxiating thoracic dysplasia 62",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration 514",
+      "raw": "Aspiration 514",
+      "frequency": null
+    },
+    {
+      "name": "AST 888",
+      "raw": "AST 888",
+      "frequency": null
+    },
+    {
+      "name": "Asterisk sign 67",
+      "raw": "Asterisk sign 67",
+      "frequency": null
+    },
+    {
+      "name": "Asteroid hyalosis 419",
+      "raw": "Asteroid hyalosis 419",
+      "frequency": null
+    },
+    {
+      "name": "Asthma 584",
+      "raw": "Asthma 584",
+      "frequency": null
+    },
+    {
+      "name": "Asymptomatic coarctation 809",
+      "raw": "Asymptomatic coarctation 809",
+      "frequency": null
+    },
+    {
+      "name": "Asynchrony, heart 823",
+      "raw": "Asynchrony, heart 823",
+      "frequency": null
+    },
+    {
+      "name": "Ataxia-telangiectasia, CNS 336",
+      "raw": "Ataxia-telangiectasia, CNS 336",
+      "frequency": null
+    },
+    {
+      "name": "Atelectasis 540",
+      "raw": "Atelectasis 540",
+      "frequency": null
+    },
+    {
+      "name": "Atelectatic asbestos pseudotumor 580",
+      "raw": "Atelectatic asbestos pseudotumor 580",
+      "frequency": null
+    },
+    {
+      "name": "Atheroembolic renal disease 1253",
+      "raw": "Atheroembolic renal disease 1253",
+      "frequency": null
+    },
+    {
+      "name": "Atheroma 477",
+      "raw": "Atheroma 477",
+      "frequency": null
+    },
+    {
+      "name": "Atherosclerotic",
+      "raw": "Atherosclerotic",
+      "frequency": null
+    },
+    {
+      "name": "Auerbach plexus 1104",
+      "raw": "Auerbach plexus 1104",
+      "frequency": null
+    },
+    {
+      "name": "Augmentation mammoplasty 727",
+      "raw": "Augmentation mammoplasty 727",
+      "frequency": null
+    },
+    {
+      "name": "Austin Flint murmur 793",
+      "raw": "Austin Flint murmur 793",
+      "frequency": null
+    },
+    {
+      "name": "Autoamputation, terminal tufts 1135",
+      "raw": "Autoamputation, terminal tufts 1135",
+      "frequency": null
+    },
+    {
+      "name": "Autoimmune",
+      "raw": "Autoimmune",
+      "frequency": null
+    },
+    {
+      "name": "Autonephrectomy 1281",
+      "raw": "Autonephrectomy 1281",
+      "frequency": null
+    },
+    {
+      "name": "Autonomous adenoma, thyroid 452",
+      "raw": "Autonomous adenoma, thyroid 452",
+      "frequency": null
+    },
+    {
+      "name": "Autosomal",
+      "raw": "Autosomal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Air HRCT 531 mediastinal shift 551 Airspace cystic, HRCT 529 disease diffuse 522 localized 523 edema 810 nodules HRCT 529 with ground-glass-opacity halo 533 Airway anatomy 565 embryology 564 obstruction, in children 444 disease 328 dysplasia 495 Aliasing 480 Alimentary tract calcifications 995 embryology 1031 Alkaline alveolitis, extrinsic 615 angiitis 808 bronchopulmonary aspergillosis 581 fungal sinusitis 504 fetus 1294 liver 888 Altman classification 274 Aluminum breakthrough test 1394 Alupent® 1437 Alveolar cell carcinoma 590 disease, signs 522 flooding edema 516 hypersensitivity 514 infil"
+}

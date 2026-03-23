@@ -1,0 +1,49 @@
+{
+  "finding": "Supraglottic Carcinoma (20-30%",
+  "slug": "supraglottic_carcinoma_20_30_3ede27",
+  "chapter": "LABYRINTHITIS",
+  "source_file": "processed_clusters/labyrinthitis/supraglottic_carcinoma_20_30_3ede27.md",
+  "quality_score": 0.8,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "symptomatic late in course of disease [ANTERIOR COMPARTMENT]",
+      "raw": "symptomatic late in course of disease (often T3 / T4)",
+      "frequency": null,
+      "sites": [
+        "ANTERIOR COMPARTMENT"
+      ]
+    },
+    {
+      "name": "Epiglottic carcinoma",
+      "raw": "Epiglottic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "POSTEROLATERAL COMPARTMENT",
+      "raw": "POSTEROLATERAL COMPARTMENT",
+      "frequency": null
+    },
+    {
+      "name": "Aryepiglottic fold (marginal supraglottic) carcinoma",
+      "raw": "Aryepiglottic fold (marginal supraglottic) carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "False vocal cord / laryngeal ventricle carcinoma",
+      "raw": "False vocal cord / laryngeal ventricle carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "symptomatic late in course of disease [ANTERIOR COMPARTMENT]": [],
+    "Epiglottic carcinoma": [
+      "Metastases:   early to lymph nodes of deep cervical chain (levels II + III), in 25-55% at time of presentation Stage: T1 tumor confined to one supraglottic subsite T2 involvement of adjacent supraglottic subsite / glottis without cord fixation T3 tumor limited to larynx with cord fixation or extension to postcricoid area / medial wall of pyriform sinus / preepiglottic space T4 extension beyond larynx with involvement of oropharynx (base of tongue) / prevertebral space / encasement of carotid a. / thyroid cartilage",
+      "extension into preepiglottic s"
+    ],
+    "POSTEROLATERAL COMPARTMENT": [],
+    "Aryepiglottic fold (marginal supraglottic) carcinoma": [],
+    "False vocal cord / laryngeal ventricle carcinoma": []
+  },
+  "context": "Metastases:   early to lymph nodes of deep cervical chain (levels II + III), in 25-55% at time of presentation Stage: T1 tumor confined to one supraglottic subsite T2 involvement of adjacent supraglottic subsite / glottis without cord fixation T3 tumor limited to larynx with cord fixation or extension to postcricoid area / medial wall of pyriform sinus / preepiglottic space T4 extension beyond larynx with involvement of oropharynx (base of tongue) / prevertebral space / encasement of carotid a. / thyroid cartilage √  circumferential relatively symmetric growth √  extension into preepiglottic s"
+}

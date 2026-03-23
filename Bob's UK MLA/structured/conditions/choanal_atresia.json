@@ -1,0 +1,35 @@
+{
+  "name": "CHOANAL ATRESIA",
+  "slug": "choanal_atresia",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/choanal_atresia.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "1÷5,000 to 1÷8,000 neonates; M < F",
+    "Etiology": "failure of perforation of buccopharyngeal + oronasal membrane, which normally",
+    "Location": "bilateral÷unilateral atresia = 3÷2 to 2÷1"
+  },
+  "dominant_finding": "narrowing of choanal orifice to a width of < 3.4-3.7 mm (in children < 2 years of age)",
+  "distribution": "bilateral÷unilateral atresia = 3÷2 to 2÷1",
+  "discriminating_features": [
+    "fusion of hard palate + vomer + ventral clivus with nasopharyngeal atresia",
+    "narrowing of choanal orifice to a width of < 3.4-3.7 mm (in children < 2 years of age)",
+    "inward bowing of posterior maxilla",
+    "deviation / bowing of nasal septum",
+    "fusion / thickening of vomer"
+  ],
+  "other_features": {
+    "general": [
+      "fusion of hard palate + vomer + ventral clivus with nasopharyngeal atresia",
+      "narrowing of choanal orifice to a width of < 3.4-3.7 mm (in children < 2 years of age)",
+      "inward bowing of posterior maxilla",
+      "deviation / bowing of nasal septum",
+      "fusion / thickening of vomer",
+      "bone / soft-tissue septum extending across posterior choanae"
+    ]
+  },
+  "clinical": {
+    "Cx": "bilateral choanal atresia is LIFE-THREATENING",
+    "Rx": "endoscopic perforation, choanal reconstruction"
+  }
+}

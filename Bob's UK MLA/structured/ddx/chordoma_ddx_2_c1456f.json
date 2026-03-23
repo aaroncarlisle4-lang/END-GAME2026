@@ -1,0 +1,27 @@
+{
+  "finding": "Chordoma (DDx)",
+  "slug": "chordoma_ddx_2_c1456f",
+  "chapter": "Chordoma",
+  "source_file": "processed_clusters/chordoma/chordoma_ddx_2_c1456f.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "giant notochordal rest (nonprogressive indistinct lesion",
+      "raw": "giant notochordal rest (nonprogressive indistinct lesion",
+      "frequency": null
+    },
+    {
+      "name": "normal bone / variable degree of sclerosis",
+      "raw": "normal bone / variable degree of sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "no soft-tissue involvement)",
+      "raw": "no soft-tissue involvement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "very high SI on T2WI ← physaliferous cells similar to nucleus pulposus with high water | prominent vascular stain | cold lesion on bone scan | no uptake on gallium scan"
+}

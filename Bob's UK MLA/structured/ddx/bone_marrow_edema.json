@@ -1,0 +1,52 @@
+{
+  "finding": "Bone Marrow Edema",
+  "slug": "bone_marrow_edema",
+  "chapter": "A. CONGENITAL DISORDERS",
+  "source_file": "processed_clusters/a_congenital_disorders/bone_marrow_edema.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trauma (a)  \"bone bruise\" (b)  radiographically occult acute fracture (c)  recent surgery",
+      "raw": "Trauma (a)  \"bone bruise\" (b)  radiographically occult acute fracture (c)  recent surgery",
+      "frequency": null
+    },
+    {
+      "name": "Infection = osteomyelitis",
+      "raw": "Infection = osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Aseptic arthritis",
+      "raw": "Aseptic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Osteonecrosis = early stage of AVN",
+      "raw": "Osteonecrosis = early stage of AVN",
+      "frequency": null
+    },
+    {
+      "name": "Neuropathic osteoarthropathy",
+      "raw": "Neuropathic osteoarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Reflex sympathetic dystrophy",
+      "raw": "Reflex sympathetic dystrophy (some cases)",
+      "frequency": null
+    },
+    {
+      "name": "Transient osteoporosis of hip",
+      "raw": "Transient osteoporosis of hip",
+      "frequency": null
+    },
+    {
+      "name": "Infiltrative neoplasm",
+      "raw": "Infiltrative neoplasm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  hypointense on T1WI + hyperintense on T2WI relative to fatty marrow"
+}

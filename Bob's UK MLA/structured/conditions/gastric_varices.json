@@ -1,0 +1,29 @@
+{
+  "name": "GASTRIC VARICES",
+  "slug": "gastric_varices",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/gastric_varices.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "barium study (65-89% rate of detection):",
+  "distribution": "splenic portography",
+  "discriminating_features": [
+    "barium study (65-89% rate of detection):",
+    "lobulated folds / polypoid masses in fundus",
+    "endoscopy: most practical method",
+    "splenic portography",
+    "hepatofugal blood flow along SMV into left gastric + splenic vein"
+  ],
+  "other_features": {
+    "general": [
+      "barium study (65-89% rate of detection):",
+      "lobulated folds / polypoid masses in fundus",
+      "endoscopy: most practical method",
+      "splenic portography",
+      "hepatofugal blood flow along SMV into left gastric + splenic vein"
+    ]
+  },
+  "clinical": {
+    "Cx": "variceal bleeding in 3-10-36%"
+  }
+}

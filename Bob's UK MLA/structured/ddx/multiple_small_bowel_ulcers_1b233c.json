@@ -1,0 +1,32 @@
+{
+  "finding": "Multiple Small Bowel Ulcers",
+  "slug": "multiple_small_bowel_ulcers_1b233c",
+  "chapter": "Small Bowel Ulcer",
+  "source_file": "processed_clusters/small_bowel_ulcer/multiple_small_bowel_ulcers_1b233c.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "DRUGS",
+      "raw": "DRUGS",
+      "frequency": null
+    },
+    {
+      "name": "Potassium tablets",
+      "raw": "Potassium tablets",
+      "frequency": null
+    },
+    {
+      "name": "Steroids",
+      "raw": "Steroids",
+      "frequency": null
+    },
+    {
+      "name": "Nonsteroidal antiinflammatory drugs",
+      "raw": "Nonsteroidal antiinflammatory drugs",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

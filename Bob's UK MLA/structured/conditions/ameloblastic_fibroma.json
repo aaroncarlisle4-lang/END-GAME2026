@@ -1,0 +1,25 @@
+{
+  "name": "AMELOBLASTIC FIBROMA",
+  "slug": "ameloblastic_fibroma",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/ameloblastic_fibroma.md",
+  "definition": "",
+  "demographics": {
+    "Histo": "epithelium representing enamel + embryonic connective tissue",
+    "Associated with": "impacted tooth",
+    "Location": "posterior mandible"
+  },
+  "dominant_finding": "well-defined pericoronal radiolucent lesion",
+  "distribution": "posterior mandible",
+  "discriminating_features": [
+    "well-defined pericoronal radiolucent lesion",
+    "mostly multiloculated"
+  ],
+  "other_features": {
+    "general": [
+      "well-defined pericoronal radiolucent lesion",
+      "mostly multiloculated"
+    ]
+  },
+  "clinical": {}
+}

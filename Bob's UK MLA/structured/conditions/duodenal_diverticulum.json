@@ -1,0 +1,32 @@
+{
+  "name": "DUODENAL DIVERTICULUM",
+  "slug": "duodenal_diverticulum",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/duodenal_diverticulum.md",
+  "definition": "congenital lesion ← elongation of an incomplete duodenal diaphragm",
+  "demographics": {
+    "Frequency": "1-5% of GI studies; 22% of autopsies",
+    "Location": "almost invariably in 1st portion of duodenum"
+  },
+  "dominant_finding": "may be fluid-filled (mimicking pancreatic pseudocyst)",
+  "distribution": "almost invariably in 1st portion of duodenum",
+  "discriminating_features": [
+    "may be fluid-filled (mimicking pancreatic pseudocyst)",
+    "may contain foci of air (mimicking pancreatic abscess)",
+    "contains normal bowel gas / oral contrast material directly communicating with adjacent",
+    "barium-filled sac within duodenal lumen of \"windsock, comma, teardrop\" appearance",
+    "anchored to lateral wall of duodenum"
+  ],
+  "other_features": {
+    "general": [
+      "may be fluid-filled (mimicking pancreatic pseudocyst)",
+      "may contain foci of air (mimicking pancreatic abscess)",
+      "contains normal bowel gas / oral contrast material directly communicating with adjacent",
+      "barium-filled sac within duodenal lumen of \"windsock, comma, teardrop\" appearance",
+      "anchored to lateral wall of duodenum",
+      "\"halo\" sign = duodenal mucosa covers outer + inner wall of diverticulum",
+      "fluid- / contrast material filled duodenum with thin diverticular wall on CT / MR"
+    ]
+  },
+  "clinical": {}
+}

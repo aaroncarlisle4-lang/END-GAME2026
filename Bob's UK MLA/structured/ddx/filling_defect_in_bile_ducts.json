@@ -1,0 +1,32 @@
+{
+  "finding": "Filling Defect in Bile Ducts",
+  "slug": "filling_defect_in_bile_ducts",
+  "chapter": "B. NONPHYSIOLOGIC",
+  "source_file": "processed_clusters/b_nonphysiologic/filling_defect_in_bile_ducts.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "ARTIFACT",
+      "raw": "ARTIFACT",
+      "frequency": null
+    },
+    {
+      "name": "Pseudocalculus (a)  contracted sphincter of Boyden + Oddi with smooth arcuate contour (b)  bridge of tissue between cystic duct + CHD (c)  underfilling of cystic duct during ERCP (d)  admixture defect at cystic duct junction",
+      "raw": "Pseudocalculus (a)  contracted sphincter of Boyden + Oddi with smooth arcuate contour (b)  bridge of tissue between cystic duct + CHD (c)  underfilling of cystic duct during ERCP (d)  admixture defect at cystic duct junction",
+      "frequency": null
+    },
+    {
+      "name": "Air bubble: confirmed by positional changes",
+      "raw": "Air bubble: confirmed by positional changes",
+      "frequency": null
+    },
+    {
+      "name": "Blood clot: spheroid configuration, spontaneous resolution with time",
+      "raw": "Blood clot: spheroid configuration, spontaneous resolution with time",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

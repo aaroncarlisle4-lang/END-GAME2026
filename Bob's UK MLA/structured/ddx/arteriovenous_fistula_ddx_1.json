@@ -1,0 +1,27 @@
+{
+  "finding": "Arteriovenous Fistula (DDx)",
+  "slug": "arteriovenous_fistula_ddx_1",
+  "chapter": "Arteriovenous Fistula",
+  "source_file": "processed_clusters/arteriovenous_fistula/arteriovenous_fistula_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "dural venous sinus thrombosis with prominent collaterals",
+      "raw": "dural venous sinus thrombosis with prominent collaterals",
+      "frequency": null
+    },
+    {
+      "name": "pial AV malformation",
+      "raw": "pial AV malformation",
+      "frequency": null
+    },
+    {
+      "name": "pial",
+      "raw": "pial",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "dilated cortical veins (= pseudophlebitic pattern): | abnormal enhancing tubular structures | flow voids within cortical sulci | NO true nidus within brain parenchyma"
+}

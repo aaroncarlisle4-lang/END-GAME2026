@@ -1,0 +1,52 @@
+{
+  "finding": "TRANSPLANTATION",
+  "slug": "transplantation_fda41f",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/gastrointestinal_hemorrhage/transplantation_fda41f.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Esophagitis: candida, CMV, herpes @   Stomach & duodenum",
+      "raw": "Esophagitis: candida, CMV, herpes @   Stomach & duodenum",
+      "frequency": null
+    },
+    {
+      "name": "Gastritis",
+      "raw": "Gastritis",
+      "frequency": null
+    },
+    {
+      "name": "reduced removal of gastrin from kidney with loss of cortical mass",
+      "raw": "reduced removal of gastrin from kidney with loss of cortical mass",
+      "frequency": null
+    },
+    {
+      "name": "impaired acid feedback mechanism",
+      "raw": "impaired acid feedback mechanism",
+      "frequency": null
+    },
+    {
+      "name": "hypochlorhydria",
+      "raw": "hypochlorhydria (b)  opportunistic infection (eg, CMV)",
+      "frequency": null
+    },
+    {
+      "name": "Gastric ulcer",
+      "raw": "Gastric ulcer (3.5%)",
+      "frequency": "3.5%"
+    },
+    {
+      "name": "Duodenal ulcer",
+      "raw": "Duodenal ulcer (2.4%)",
+      "frequency": "2.4%"
+    },
+    {
+      "name": "Duodenitis (47%) @   Colon",
+      "raw": "Duodenitis (47%) @   Colon",
+      "frequency": "47%"
+    }
+  ],
+  "criteria": {},
+  "context": "@   Esophagus √  thickened gastric folds (38%) √  edema + erosions Cause: (a)  imbalance of gastrin levels + gastric acid secretion due to"
+}

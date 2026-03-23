@@ -1,0 +1,32 @@
+{
+  "name": "MEDULLARY SPONGE KIDNEY",
+  "slug": "medullary_sponge_kidney",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/medullary_sponge_kidney.md",
+  "definition": "congenital developmental abnormality characterized by ectasia + cystic dilatation of",
+  "demographics": {
+    "Prevalence": "1÷5,000 persons; in 0.5% of IVPs; in 12-20% of patients with calcified kidney",
+    "Age": "3rd-4th decade",
+    "Genetics": "mostly sporadic, occasionally autosomal dominant",
+    "Histo": "ectasia of medullary + papillary collecting ducts with small < 1 cm cysts in medulla"
+  },
+  "dominant_finding": "echogenic medulla (in absence of stones)",
+  "distribution": "striated / beaded appearance of medullary collecting ducts → distortion of calices (in severe",
+  "discriminating_features": [
+    "persistent thick dense paintbrushlike streaks of contrast material (\"bunch of flowers\")",
+    "striated / beaded appearance of medullary collecting ducts → distortion of calices (in severe",
+    "medullary nephrocalcinosis (40-80%) with one / more calculi of up to 5 mm clustered in",
+    "echogenic medulla (in absence of stones)"
+  ],
+  "other_features": {
+    "general": [
+      "persistent thick dense paintbrushlike streaks of contrast material (\"bunch of flowers\")",
+      "striated / beaded appearance of medullary collecting ducts → distortion of calices (in severe",
+      "medullary nephrocalcinosis (40-80%) with one / more calculi of up to 5 mm clustered in"
+    ],
+    "US": [
+      "echogenic medulla (in absence of stones)"
+    ]
+  },
+  "clinical": {}
+}

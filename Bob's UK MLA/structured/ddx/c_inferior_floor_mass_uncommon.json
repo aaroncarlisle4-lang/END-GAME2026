@@ -1,0 +1,27 @@
+{
+  "finding": "C. INFERIOR / FLOOR MASS (uncommon",
+  "slug": "c_inferior_floor_mass_uncommon",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/c_inferior_floor_mass_uncommon.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypothalamic hamartoma",
+      "raw": "Hypothalamic hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Basilar artery ectasia / aneurysm",
+      "raw": "Basilar artery ectasia / aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

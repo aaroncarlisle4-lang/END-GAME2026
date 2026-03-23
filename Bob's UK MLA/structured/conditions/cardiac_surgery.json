@@ -1,0 +1,21 @@
+{
+  "name": "CARDIAC SURGERY",
+  "slug": "cardiac_surgery",
+  "chapter": "LYMPH FLOW DISORDERS",
+  "source_file": "processed_clusters/disease_entries/lymph_flow_disorders/cardiac_surgery.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "caged ball",
+  "distribution": "",
+  "discriminating_features": [
+    "caged ball",
+    "tilting disk"
+  ],
+  "other_features": {
+    "general": [
+      "caged ball",
+      "tilting disk"
+    ]
+  },
+  "clinical": {}
+}

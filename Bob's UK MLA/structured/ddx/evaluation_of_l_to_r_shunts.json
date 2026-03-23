@@ -1,0 +1,57 @@
+{
+  "finding": "Evaluation of L-to-R Shunts",
+  "slug": "evaluation_of_l_to_r_shunts",
+  "chapter": "SHUNT EVALUATION",
+  "source_file": "processed_clusters/shunt_evaluation/evaluation_of_l_to_r_shunts.md",
+  "quality_score": 0.3,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "AGE ›  Infants:",
+      "raw": "AGE ›  Infants:",
+      "frequency": null
+    },
+    {
+      "name": "Isolated VSD",
+      "raw": "Isolated VSD",
+      "frequency": null
+    },
+    {
+      "name": "VSD with CoA / PDA / AV canal",
+      "raw": "VSD with CoA / PDA / AV canal",
+      "frequency": null
+    },
+    {
+      "name": "PDA",
+      "raw": "PDA",
+      "frequency": null
+    },
+    {
+      "name": "Ostium primum ›  Children / adults:",
+      "raw": "Ostium primum ›  Children / adults:",
+      "frequency": null
+    },
+    {
+      "name": "ASD",
+      "raw": "ASD",
+      "frequency": null
+    },
+    {
+      "name": "Partial AV canal with competent mitral valve",
+      "raw": "Partial AV canal with competent mitral valve",
+      "frequency": null
+    },
+    {
+      "name": "VSD / PDA with high pulmonary resistance",
+      "raw": "VSD / PDA with high pulmonary resistance",
+      "frequency": null
+    },
+    {
+      "name": "PDA without murmur",
+      "raw": "PDA without murmur",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

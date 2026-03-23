@@ -1,0 +1,39 @@
+{
+  "name": "CHRONIC SIALADENITIS",
+  "slug": "chronic_sialadenitis",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/chronic_sialadenitis.md",
+  "definition": "KÜTTNER TUMOR = IgG4-RELATED SIALADENITIS non-neoplastic uni / bilateral hard swelling of submandibular gland considered part of",
+  "demographics": {
+    "Histo": "markedly fibrous sclerotic lesion containing IgG4-positive plasma cells"
+  },
+  "dominant_finding": "homogeneous attenuation",
+  "distribution": "diffuse / focal swelling of both submandibular glands",
+  "discriminating_features": [
+    "normal-sized / small hypoechoic heterogeneous texture",
+    "multiple small round / oval hypoechoic areas",
+    "diffuse / focal swelling of both submandibular glands",
+    "homogeneous attenuation",
+    "low to intermediate SI on T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "normal-sized / small hypoechoic heterogeneous texture",
+      "multiple small round / oval hypoechoic areas",
+      "diffuse / focal swelling of both submandibular glands"
+    ],
+    "US": [
+      "multiple small hypoechoic foci scattered on a heterogeneous background of salivary"
+    ],
+    "CT": [
+      "homogeneous attenuation"
+    ],
+    "MR": [
+      "low to intermediate SI on T2WI",
+      "intermediate SI on T1WI + homogeneous enhancement",
+      "single / multiple hypoechoic areas in enlarged / normal-sized gland of diffusely low",
+      "± increased blood flow"
+    ]
+  },
+  "clinical": {}
+}

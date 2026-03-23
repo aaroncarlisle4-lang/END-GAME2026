@@ -1,0 +1,87 @@
+{
+  "finding": "Abnormal Air Collection",
+  "slug": "abnormal_air_collection",
+  "chapter": "ABNORMAL INTRAABDOMINAL AIR",
+  "source_file": "processed_clusters/abnormal_intraabdominal_air/abnormal_air_collection.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Abnormally located bowel = Chilaiditi syndrome =  symptomatic hepatodiaphragmatic interposition of colon between liver and chest wall",
+      "raw": "Abnormally located bowel = Chilaiditi syndrome =  symptomatic hepatodiaphragmatic interposition of colon between liver and chest wall",
+      "frequency": null
+    },
+    {
+      "name": "Pneumoperitoneum",
+      "raw": "Pneumoperitoneum",
+      "frequency": null
+    },
+    {
+      "name": "Retropneumoperitoneum perforation of duodenum / rectum / ascending + descending colon, diverticulitis, ulcerative disease, endoscopic procedure",
+      "raw": "Retropneumoperitoneum perforation of duodenum / rectum / ascending + descending colon, diverticulitis, ulcerative disease, endoscopic procedure",
+      "frequency": null
+    },
+    {
+      "name": "Gas in bowel wall gastric pneumatosis, phlegmonous gastritis, endoscopy, rupture of lung bulla",
+      "raw": "Gas in bowel wall gastric pneumatosis, phlegmonous gastritis, endoscopy, rupture of lung bulla",
+      "frequency": null
+    },
+    {
+      "name": "Gas within abscess located in subphrenic, renal, perirenal, hepatic, pancreatic space, lesser sac",
+      "raw": "Gas within abscess located in subphrenic, renal, perirenal, hepatic, pancreatic space, lesser sac",
+      "frequency": null
+    },
+    {
+      "name": "Gas in biliary system = pneumobilia",
+      "raw": "Gas in biliary system = pneumobilia",
+      "frequency": null
+    },
+    {
+      "name": "Gas in portal venous system",
+      "raw": "Gas in portal venous system",
+      "frequency": null
+    },
+    {
+      "name": "DISRUPTION OF WALL OF HOLLOW VISCUS (a)  trauma (b)  iatrogenic perforation (c)  diseases of GI tract",
+      "raw": "DISRUPTION OF WALL OF HOLLOW VISCUS (a)  trauma (b)  iatrogenic perforation (c)  diseases of GI tract",
+      "frequency": null
+    },
+    {
+      "name": "Perforated gastric / duodenal ulcer",
+      "raw": "Perforated gastric / duodenal ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Perforated appendix",
+      "raw": "Perforated appendix",
+      "frequency": null
+    },
+    {
+      "name": "Ingested foreign-body perforation",
+      "raw": "Ingested foreign-body perforation",
+      "frequency": null
+    },
+    {
+      "name": "Diverticulitis: ruptured Meckel diverticulum / sigmoid diverticulum, jejunal diverticulosis)",
+      "raw": "Diverticulitis: ruptured Meckel diverticulum / sigmoid diverticulum, jejunal diverticulosis)",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing enterocolitis with perforation",
+      "raw": "Necrotizing enterocolitis with perforation",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory bowel disease: eg, toxic megacolon",
+      "raw": "Inflammatory bowel disease: eg, toxic megacolon",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction† (gas traversing intact mucosa): neoplasm, imperforate anus,",
+      "raw": "Obstruction† (gas traversing intact mucosa): neoplasm, imperforate anus,",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   0.025%-0.28% Cause:   increased colonic mobility, reduced liver volume, lax suspensory ligament, phrenic nerve palsy, obesity Pneumoperitoneum Cause:"
+}

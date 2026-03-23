@@ -1,0 +1,102 @@
+{
+  "finding": "C. NEOPLASM (incidence in %) (a) benign parotid tumor",
+  "slug": "c_neoplasm_incidence_in_a_benign_parotid_tumor_108485",
+  "chapter": "Parotid Gland Enlargement",
+  "source_file": "processed_clusters/parotid_gland_enlargement/c_neoplasm_incidence_in_a_benign_parotid_tumor_108485.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pleomorphic / monomorphic adenoma 59%",
+      "raw": "Pleomorphic / monomorphic adenoma 59%",
+      "frequency": "59%"
+    },
+    {
+      "name": "Cystadenolymphoma (= Warthin tumor) 7%",
+      "raw": "Cystadenolymphoma (= Warthin tumor) 7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "Benign lymphoepithelial lesions",
+      "raw": "Benign lymphoepithelial lesions",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Facial nerve neurofibroma",
+      "raw": "Facial nerve neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Oncocytoma",
+      "raw": "Oncocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Parotid hemangioma",
+      "raw": "Parotid hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Angiolipoma (b)  primary malignant parotid tumor",
+      "raw": "Angiolipoma (b)  primary malignant parotid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Mucoepidermoid carcinoma 8%",
+      "raw": "Mucoepidermoid carcinoma 8%",
+      "frequency": "8%"
+    },
+    {
+      "name": "Adenoid cystic carcinoma (= cylindroma) 3%",
+      "raw": "Adenoid cystic carcinoma (= cylindroma) 3%",
+      "frequency": "3%"
+    },
+    {
+      "name": "Malignant mixed tumor",
+      "raw": "Malignant mixed tumor",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Acinic cell carcinoma 3.5%",
+      "raw": "Acinic cell carcinoma 3.5%",
+      "frequency": "3.5%"
+    },
+    {
+      "name": "Rhabdomyosarcoma (c)  metastatic parotid tumor ◊  Parotid gland undergoes late encapsulation, which leads to incorporation of lymph nodes!",
+      "raw": "Rhabdomyosarcoma (c)  metastatic parotid tumor ◊  Parotid gland undergoes late encapsulation, which leads to incorporation of lymph nodes!",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma 2%",
+      "raw": "Squamous cell carcinoma 2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Melanoma of periauricular region",
+      "raw": "Melanoma of periauricular region",
+      "frequency": null
+    },
+    {
+      "name": "Non-Hodgkin lymphoma",
+      "raw": "Non-Hodgkin lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid carcinoma",
+      "raw": "Thyroid carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

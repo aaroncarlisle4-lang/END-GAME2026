@@ -1,0 +1,32 @@
+{
+  "finding": "Chest Wall (DDx)",
+  "slug": "chest_wall_ddx",
+  "chapter": "Chest Wall",
+  "source_file": "processed_clusters/chest_wall/chest_wall_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "osteomyelitis",
+      "raw": "osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "unusual-appearing fracture",
+      "raw": "unusual-appearing fracture",
+      "frequency": null
+    },
+    {
+      "name": "callus",
+      "raw": "callus",
+      "frequency": null
+    },
+    {
+      "name": "direct spread of lung infection",
+      "raw": "direct spread of lung infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "NO high signal intensity on T2WI | calcified subdermal nodule + peritumoral edema"
+}

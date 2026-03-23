@@ -1,0 +1,47 @@
+{
+  "finding": "Malignant Adrenal Mass",
+  "slug": "malignant_adrenal_mass_8c4ab3",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/malignant_adrenal_mass_8c4ab3.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adrenocortical carcinoma",
+      "raw": "Adrenocortical carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant pheochromocytoma",
+      "raw": "Malignant pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Collision tumor =  concomitant benign adenoma + metastasis",
+      "raw": "Collision tumor =  concomitant benign adenoma + metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   in 2% of patients with known primary N.B.:   Percutaneous biopsy may be falsely negative ← sampling of the benign component!"
+}

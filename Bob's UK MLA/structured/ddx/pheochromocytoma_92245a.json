@@ -1,0 +1,127 @@
+{
+  "finding": "PHEOCHROMOCYTOMA",
+  "slug": "pheochromocytoma_92245a",
+  "chapter": "PAROXYSMAL NOCTURNAL HEMOGLOBINURIA",
+  "source_file": "processed_clusters/paroxysmal_nocturnal_hemoglobinuria/pheochromocytoma_92245a.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "symptomatology ← excess catecholamine production (norepinephrine > epinephrine):",
+      "raw": "symptomatology ← excess catecholamine production (norepinephrine > epinephrine):",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic (9-10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "headaches, sweating, flushing, palpitations, tachycardia, anxiety, tremor, nausea, vomiting, abdominal pain, chest pain",
+      "raw": "headaches, sweating, flushing, palpitations, tachycardia, anxiety, tremor, nausea, vomiting, abdominal pain, chest pain",
+      "frequency": null
+    },
+    {
+      "name": "paroxysmal (47-53%) / sustained (37%) hypertension (a) elevated catecholamine (b) functional renal vasoconstriction (c) renal artery stenosis: fibrosis, intimal proliferation, tumor encasement",
+      "raw": "paroxysmal (47-53%) / sustained (37%) hypertension (a) elevated catecholamine (b) functional renal vasoconstriction (c) renal artery stenosis: fibrosis, intimal proliferation, tumor encasement",
+      "frequency": "53%"
+    },
+    {
+      "name": "hypoglycemia during hypertensive crisis",
+      "raw": "hypoglycemia during hypertensive crisis",
+      "frequency": null
+    },
+    {
+      "name": "plasma metanephrine level > 1.1 nmol/L",
+      "raw": "plasma metanephrine level > 1.1 nmol/L",
+      "frequency": null
+    },
+    {
+      "name": "plasma normetanephrine concentration > 2.2 nmol/L",
+      "raw": "plasma normetanephrine concentration > 2.2 nmol/L",
+      "frequency": null
+    },
+    {
+      "name": "elevated urine vanillylmandelic acid (VMA) in 54%; in up to 22% false-negative result because VMA is not excreted",
+      "raw": "elevated urine vanillylmandelic acid (VMA) in 54%; in up to 22% false-negative result because VMA is not excreted",
+      "frequency": "54%"
+    },
+    {
+      "name": "Multiple endocrine neoplasia (MEN):",
+      "raw": "Multiple endocrine neoplasia (MEN):",
+      "frequency": null
+    },
+    {
+      "name": "Neuroectodermal disorder (a)  neurofibromatosis type 1 (in 0.1-5.7%) (b)  Von Hippel-Lindau disease (c)  tuberous sclerosis (d)  Sturge-Weber syndrome ◊  10% of patients with neurofibromatosis (NF1) / von Hippel-Lindau disease have pheochromocytoma!",
+      "raw": "Neuroectodermal disorder (a)  neurofibromatosis type 1 (in 0.1-5.7%) (b)  Von Hippel-Lindau disease (c)  tuberous sclerosis (d)  Sturge-Weber syndrome ◊  10% of patients with neurofibromatosis (NF1) / von Hippel-Lindau disease have pheochromocytoma!",
+      "frequency": "5.7%"
+    },
+    {
+      "name": "Familial paraganglioma syndrome / pheochromocytosis",
+      "raw": "Familial paraganglioma syndrome / pheochromocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Carney syndrome",
+      "raw": "Carney syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Von Hippel-Lindau",
+      "raw": "Von Hippel-Lindau",
+      "frequency": null
+    },
+    {
+      "name": "Endocrine neoplasia",
+      "raw": "Endocrine neoplasia (MEN 2)",
+      "frequency": null
+    },
+    {
+      "name": "Inherited (congenital) pheochromocytoma",
+      "raw": "Inherited (congenital) pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis (von Recklinghausen disease)",
+      "frequency": null
+    },
+    {
+      "name": "clinically silent lesions tend to be large",
+      "raw": "clinically silent lesions tend to be large",
+      "frequency": null
+    },
+    {
+      "name": "large lesions are often nonfunctioning",
+      "raw": "large lesions are often nonfunctioning",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous retroperitoneal hemorrhage → lethal in 50% if tumor previously undiagnosed ◊  Most common cause of spontaneous retroperitoneal hemorrhage from a primary adrenal tumor!",
+      "raw": "Spontaneous retroperitoneal hemorrhage → lethal in 50% if tumor previously undiagnosed ◊  Most common cause of spontaneous retroperitoneal hemorrhage from a primary adrenal tumor!",
+      "frequency": "50%"
+    },
+    {
+      "name": "Surgical removal curative",
+      "raw": "Surgical removal curative",
+      "frequency": null
+    },
+    {
+      "name": "Alpha-adrenergic blocker",
+      "raw": "Alpha-adrenergic blocker (phenoxybenzamine / phentolamine)",
+      "frequency": null
+    },
+    {
+      "name": "Beta-adrenergic blocker",
+      "raw": "Beta-adrenergic blocker (propranolol)",
+      "frequency": null
+    },
+    {
+      "name": "131I-MIBG used to treat metastases DDx:   nonfunctioning adrenal adenoma, adrenocortical carcinoma, adrenal cyst, metastatic disease",
+      "raw": "131I-MIBG used to treat metastases DDx:   nonfunctioning adrenal adenoma, adrenocortical carcinoma, adrenal cyst, metastatic disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  ADRENAL MEDULLARY PARAGANGLIOMA =  rare catecholamine-secreting tumor of chromaffin tissue; responsible for 0.1-0.9% of hypertensive individuals Prevalence:   0.13% in autopsy series; increasing occurrence of incidentalomas by cross- sectional imaging Incidence:   2-8÷1,000,000 annually Origin:   neuroectodermal tissue Path:   well-circumscribed 3-5 cm mass with central degenerative changes of fibrosis / cystic change; larger lesions are often hemorrhagic / cystic Histo:   chromaffin tumor cells contain chromogranin within secretory granule forming CHARACTERISTIC clusters of tumor cells = \""
+}

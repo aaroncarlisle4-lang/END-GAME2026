@@ -1,0 +1,40 @@
+{
+  "name": "CORONARY ARTERIES",
+  "slug": "coronary_arteries",
+  "chapter": "LYMPH FLOW DISORDERS",
+  "source_file": "processed_clusters/disease_entries/lymph_flow_disorders/coronary_arteries.md",
+  "definition": "LAD LAD LCx RCA watershed areas artery that supplies the inferior portion of LV 2nd most common cause of sudden cardiac death among young adults",
+  "demographics": {
+    "Location": "on epicardial surface, in atrial / ventricular septum, in myocardium",
+    "Prevalence": "0.3-1.3%; in 4-25% responsible for nontraumatic sudden death in young adults"
+  },
+  "dominant_finding": "forms circle of Vieussens = anastomosis with LAD",
+  "distribution": "on epicardial surface, in atrial / ventricular septum, in myocardium",
+  "discriminating_features": [
+    "forms circle of Vieussens = anastomosis with LAD",
+    "courses along anterior interatrial groove toward superior cavoatrial junction",
+    "at cavoatrial junction circling either anteriorly (precaval) / posteriorly (retrocaval) to",
+    "penetrates base of posterior interatrial septum at crux",
+    "may course beneath endocardium near ostium of coronary sinus + septal isthmus"
+  ],
+  "other_features": {
+    "general": [
+      "forms circle of Vieussens = anastomosis with LAD",
+      "courses along anterior interatrial groove toward superior cavoatrial junction",
+      "at cavoatrial junction circling either anteriorly (precaval) / posteriorly (retrocaval) to",
+      "penetrates base of posterior interatrial septum at crux",
+      "may course beneath endocardium near ostium of coronary sinus + septal isthmus",
+      "ribs slanting to left side of image",
+      "catheter in descending aorta on right side of image",
+      "ribs slanting to right side of image",
+      "catheter in descending aorta on left side of image",
+      "tortuous course outside the normal path",
+      "fibrous connection between LAD-LCx junction + left coronary cusp",
+      "anomalous artery surrounded by epicardial fat",
+      "slitlike coronary artery lumen",
+      "impaired coronary artery blood flow",
+      "prominent straight connection near crux"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,44 @@
+{
+  "name": "CONGENITAL LYMPHANGIECTASIA",
+  "slug": "congenital_lymphangiectasia",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/congenital_lymphangiectasia.md",
+  "definition": "CONGENITAL PULMONARY LYMPHANGIECTASIA abnormal development of lungs between 14th-20th week of GA characterized by anomalous DIFFUSE LYMPHANGIOMA proliferation of mainly lymphatic vascular spaces with relentless systemic progression rare benign usually cystic lesion",
+  "demographics": {
+    "Path": "subpleural cysts, ectatic tortuous lymph channels in pleura, interlobular septa + along",
+    "Age": "usually manifest at birth; 50% stillborn; M = F",
+    "Location": "widespread visceral + skeletal involvement",
+    "Histo": "collection of dilated + proliferated lymph vessels (? hamartoma / benign neoplasm /"
+  },
+  "dominant_finding": "hyperinflation",
+  "distribution": "widespread visceral + skeletal involvement",
+  "discriminating_features": [
+    "marked prominence of coarse interstitial markings (simulating interstitial edema)",
+    "hyperinflation",
+    "scattered radiolucent areas (dilated airways)",
+    "patchy areas of pneumonia + atelectasis",
+    "pneumothorax"
+  ],
+  "other_features": {
+    "general": [
+      "marked prominence of coarse interstitial markings (simulating interstitial edema)",
+      "hyperinflation",
+      "scattered radiolucent areas (dilated airways)",
+      "patchy areas of pneumonia + atelectasis",
+      "pneumothorax",
+      "± pleural effusion",
+      "bilateral inhomogeneity of the lung parenchyma on T2WI",
+      "high SI in pulmonary interstitium on T2WI",
+      "diffuse pulmonary interstitial disease",
+      "chylous effusions in pleural + pericardial spaces",
+      "± lytic bone lesions",
+      "lymphangiographic pooling of contrast material in dilated lymphatic channels / lymph nodes",
+      "discrete featureless mass",
+      "may have chylous / pleural effusion",
+      "may have lytic lesion in contiguous skeleton"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "with diffuse involvement invariably fatal at < 2 months of age"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Cardiac Tumor (DDx)",
+  "slug": "cardiac_tumor_ddx_fffb6f",
+  "chapter": "Cardiac Tumor",
+  "source_file": "processed_clusters/cardiac_tumor/cardiac_tumor_ddx_fffb6f.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "thrombus",
+      "raw": "thrombus",
+      "frequency": null
+    },
+    {
+      "name": "pericardial and bronchogenic cyst",
+      "raw": "pericardial and bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "intrathoracic neoplasm",
+      "raw": "intrathoracic neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "gastrointestinal hernia",
+      "raw": "gastrointestinal hernia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cardiomegaly, pericardial effusion | signs of CHF | abnormal cardiac contour | pleural effusion"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PLACENTAL SITE TROPHOBLASTIC DISEASE",
+  "slug": "placental_site_trophoblastic_disease",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/placental_site_trophoblastic_disease.md",
+  "definition": "very rare neoplasm (? type of choriocarcinoma)",
+  "demographics": {
+    "Path": "microscopic tumor / diffuse nodular replacement of myometrium",
+    "Histo": "proliferation of predominantly intermediate trophoblasts but no syncytio- or"
+  },
+  "dominant_finding": "cystic / solid lesions ± central component",
+  "distribution": "cystic / solid lesions ± central component",
+  "discriminating_features": [
+    "cystic / solid lesions ± central component",
+    "myometrium usually invaded"
+  ],
+  "other_features": {
+    "general": [
+      "cystic / solid lesions ± central component",
+      "myometrium usually invaded"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "benign / highly malignant course",
+    "Rx": "hysterectomy"
+  }
+}

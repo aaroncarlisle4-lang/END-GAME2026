@@ -1,0 +1,27 @@
+{
+  "finding": "C. MULTIPLE",
+  "slug": "c_multiple",
+  "chapter": "D. COMPRESSION",
+  "source_file": "processed_clusters/d_compression/c_multiple.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polyureteritis cystica",
+      "raw": "Polyureteritis cystica",
+      "frequency": null
+    },
+    {
+      "name": "Malakoplakia",
+      "raw": "Malakoplakia",
+      "frequency": null
+    },
+    {
+      "name": "Multifocal urothelial cell cancer Any ureteral filling defect of soft-tissue attenuation must be considered malignant and requires ureteroscopic assessment, biopsy, and cytologic analysis.",
+      "raw": "Multifocal urothelial cell cancer Any ureteral filling defect of soft-tissue attenuation must be considered malignant and requires ureteroscopic assessment, biopsy, and cytologic analysis.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

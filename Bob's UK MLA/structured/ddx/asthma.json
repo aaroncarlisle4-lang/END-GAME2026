@@ -1,0 +1,57 @@
+{
+  "finding": "ASTHMA",
+  "slug": "asthma",
+  "chapter": "AMYLOIDOSIS OF THE CHEST",
+  "source_file": "processed_clusters/amyloidosis_of_the_chest/asthma.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INTRINSIC ASTHMA",
+      "raw": "INTRINSIC ASTHMA",
+      "frequency": null
+    },
+    {
+      "name": "EXTRINSIC ASTHMA = ATOPIC ASTHMA",
+      "raw": "EXTRINSIC ASTHMA = ATOPIC ASTHMA",
+      "frequency": null
+    },
+    {
+      "name": "during asthmatic attack low values for FEV + MMFR and abnormal V/Q ratios; normal diffusing capacity",
+      "raw": "during asthmatic attack low values for FEV + MMFR and abnormal V/Q ratios; normal diffusing capacity",
+      "frequency": null
+    },
+    {
+      "name": "increased resistance to airflow due to (a)  smooth muscle contraction in airway walls (b)  edema of airway wall caused by inflammation (c)  mucus hypersecretion with airway plugging",
+      "raw": "increased resistance to airflow due to (a)  smooth muscle contraction in airway walls (b)  edema of airway wall caused by inflammation (c)  mucus hypersecretion with airway plugging",
+      "frequency": null
+    },
+    {
+      "name": "Pneumonia",
+      "raw": "Pneumonia (2 x as frequent as in nonasthmatics)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Atelectasis (5-15%) ← mucoid impaction",
+      "raw": "Atelectasis (5-15%) ← mucoid impaction",
+      "frequency": "15%"
+    },
+    {
+      "name": "Barotrauma in children (often overlooked on radiographs)pneumomediastinum (5%), pneumothorax, subcutaneous emphysema",
+      "raw": "Barotrauma in children (often overlooked on radiographs)pneumomediastinum (5%), pneumothorax, subcutaneous emphysema",
+      "frequency": "5%"
+    },
+    {
+      "name": "Emphysema",
+      "raw": "Emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Allergic bronchopulmonary aspergillosis with central bronchiectasis",
+      "raw": "Allergic bronchopulmonary aspergillosis with central bronchiectasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  chronic episodic reversible bronchoconstriction (= airflow obstruction) ← hypersensitivity / hyperresponsiveness of airways to a variety of stimuli Terminology: Reactive airway disease = clinical diagnosis of asthma not yet established, usually in children between 2 and 6 years of age Age:   middle age Pathogenesis: probably autoimmune phenomenon caused by viral respiratory infection and often provoked by infection, exercise, pharmaceuticals; NO environmental antigen Pathogenesis: antigens produce an immediate hypersensitivity response (type I); reagin sensitizes mast cells → histamine rele"
+}

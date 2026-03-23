@@ -1,0 +1,30 @@
+{
+  "name": "SUPERIOR OPHTHALMIC VEIN THROMBOSIS",
+  "slug": "superior_ophthalmic_vein_thrombosis",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/superior_ophthalmic_vein_thrombosis.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "filling defect in superior ophthalmic vein",
+  "distribution": "filling defect in superior ophthalmic vein",
+  "discriminating_features": [
+    "filling defect in superior ophthalmic vein",
+    "enlargement of both superior ophthalmic veins + cavernous sinus",
+    "periorbital edema",
+    "engorgement of extraocular muscles",
+    "exophthalmos"
+  ],
+  "other_features": {
+    "general": [
+      "filling defect in superior ophthalmic vein",
+      "enlargement of both superior ophthalmic veins + cavernous sinus",
+      "periorbital edema",
+      "engorgement of extraocular muscles",
+      "exophthalmos"
+    ]
+  },
+  "clinical": {
+    "Cx": "vision loss, thrombosis of cavernous sinus, sepsis",
+    "Rx": "anticoagulation + antibiotics"
+  }
+}

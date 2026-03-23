@@ -1,0 +1,37 @@
+{
+  "finding": "Botalli aneurysm, bronchial artery aneurysm",
+  "slug": "botalli_aneurysm_bronchial_artery_aneurysm",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/botalli_aneurysm_bronchial_artery_aneurysm.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic cyst",
+      "raw": "Bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Tumor of tracheobronchial tree",
+      "raw": "Tumor of tracheobronchial tree",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal tumor",
+      "raw": "Esophageal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Neurogenic tumor",
+      "raw": "Neurogenic tumor",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal abscess",
+      "raw": "Mediastinal abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

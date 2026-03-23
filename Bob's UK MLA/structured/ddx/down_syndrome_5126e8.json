@@ -1,0 +1,52 @@
+{
+  "finding": "Down Syndrome",
+  "slug": "down_syndrome_5126e8",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/down_syndrome_5126e8.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endocardial cushion defect",
+      "raw": "Endocardial cushion defect (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Membranous VSD",
+      "raw": "Membranous VSD",
+      "frequency": null
+    },
+    {
+      "name": "Ostium primum ASD",
+      "raw": "Ostium primum ASD",
+      "frequency": null
+    },
+    {
+      "name": "AV communis",
+      "raw": "AV communis",
+      "frequency": null
+    },
+    {
+      "name": "Cleft mitral valve",
+      "raw": "Cleft mitral valve",
+      "frequency": null
+    },
+    {
+      "name": "PDA",
+      "raw": "PDA",
+      "frequency": null
+    },
+    {
+      "name": "11 rib pairs",
+      "raw": "11 rib pairs (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Hypersegmented manubrium",
+      "raw": "Hypersegmented manubrium (90%)",
+      "frequency": "90%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  MONGOLISM = TRISOMY 21"
+}

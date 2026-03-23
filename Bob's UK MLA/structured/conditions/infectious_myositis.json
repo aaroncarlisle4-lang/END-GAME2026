@@ -1,0 +1,30 @@
+{
+  "name": "INFECTIOUS MYOSITIS",
+  "slug": "infectious_myositis",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/infectious_myositis.md",
+  "definition": "acute / subacute / chronic infection of skeletal muscle",
+  "demographics": {
+    "Location": "usually single muscle; multiple in 11-43%; quadriceps m. > gluteal m. > iliopsoas"
+  },
+  "dominant_finding": "enlarged hypoattenuating muscle",
+  "distribution": "usually single muscle; multiple in 11-43%; quadriceps m. > gluteal m. > iliopsoas",
+  "discriminating_features": [
+    "enlarged hypoattenuating muscle",
+    "effacement of surrounding fat planes",
+    "intramuscular fluid collection",
+    "nonenhancement of necrotic tissue",
+    "rim-enhancement of abscess"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "enlarged hypoattenuating muscle",
+      "effacement of surrounding fat planes",
+      "intramuscular fluid collection",
+      "nonenhancement of necrotic tissue",
+      "rim-enhancement of abscess"
+    ]
+  },
+  "clinical": {}
+}

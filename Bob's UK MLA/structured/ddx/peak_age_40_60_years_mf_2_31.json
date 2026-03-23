@@ -1,0 +1,62 @@
+{
+  "finding": "Peak age: 40-60 years; M÷F = 2-3÷1",
+  "slug": "peak_age_40_60_years_mf_2_31",
+  "chapter": "CHORDOMA",
+  "source_file": "processed_clusters/chordoma/peak_age_40_60_years_mf_2_31.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "clinically indolent and subtle; rectal bleeding",
+      "raw": "clinically indolent and subtle; rectal bleeding (42%)",
+      "frequency": "42%"
+    },
+    {
+      "name": "low back pain (70%); sciatica + weakness in hip / lower limbs ← sacral root compression",
+      "raw": "low back pain (70%); sciatica + weakness in hip / lower limbs ← sacral root compression",
+      "frequency": "70%"
+    },
+    {
+      "name": "constipation, frequency, urgency, straining on micturition ← compression by tumor",
+      "raw": "constipation, frequency, urgency, straining on micturition ← compression by tumor",
+      "frequency": null
+    },
+    {
+      "name": "autonomic dysfunction → urinary / fecal incontinence",
+      "raw": "autonomic dysfunction → urinary / fecal incontinence",
+      "frequency": null
+    },
+    {
+      "name": "palpable sacral mass on digital examination",
+      "raw": "palpable sacral mass on digital examination (17%)",
+      "frequency": "17%"
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor (2nd most common primary, upper sacrum, may be eccentric, ± extension across SI joint, low-to-intermediate T2 intensity ± fluid-fluid levels)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Chondrosarcoma (off midline from sacroiliac joint space cartilage, heterogeneous",
+      "raw": "Chondrosarcoma (off midline from sacroiliac joint space cartilage, heterogeneous",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Osteoblastoma",
+      "raw": "Osteoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma ›  Metastasis, plasmacytoma ›  Soft-tissue neoplasm: atypical hemangioma, prostatic carcinoma, osteosarcoma, osteomyelitis",
+      "raw": "Lymphoma ›  Metastasis, plasmacytoma ›  Soft-tissue neoplasm: atypical hemangioma, prostatic carcinoma, osteosarcoma, osteomyelitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Path:  slow-growing tumor → large size at presentation Location:  predominantly in 4th + 5th sacral segment √  presacral mass with average size of 10 cm extending superiorly + inferiorly; rarely posterior location √  displacement of rectum + bladder √  solid tumor with cystic areas (in 50%) √  amorphous peripheral calcifications (15-89%) √  secondary bone sclerosis in tumor periphery (50%) √  honeycomb pattern with trabeculations (10-15%) √  may cross sacroiliac joint X-ray: √  osteolytic midline mass in sacrum + coccyx associated with soft-tissue mass and calcifications CT (useful for definin"
+}

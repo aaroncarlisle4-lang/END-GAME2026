@@ -1,0 +1,62 @@
+{
+  "name": "CARDIAC CALCIFICATIONS",
+  "slug": "cardiac_calcifications",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_cardiovascular_disorders/cardiac_calcifications.md",
+  "definition": "triangular area along mid left heart border, spine, and shoulder of LV containing",
+  "demographics": {
+    "Location": "above + anterior to a line connecting carina + anterior costophrenic angle",
+    "Age": "> 65 years; M÷F = 1÷4",
+    "Associated with": "long-standing RV hypertension",
+    "Frequency": "in 8% post myocardial infarction; M > F",
+    "Histo": "calcified subintimal plaques"
+  },
+  "dominant_finding": "usually extensive cluster of heavy densely calcific deposits:",
+  "distribution": "above + anterior to a line connecting carina + anterior costophrenic angle",
+  "discriminating_features": [
+    "usually extensive cluster of heavy densely calcific deposits:",
+    "nearly circular calcification with interior linear bar (DIAGNOSTIC)",
+    "poststenotic dilatation of ascending aorta",
+    "cluster of heavy dense calcific deposits without bicuspid contour",
+    "curvilinear shape of calcium outlining tricuspid leaflets"
+  ],
+  "other_features": {
+    "general": [],
+    "Cardiac valves": [
+      "usually extensive cluster of heavy densely calcific deposits:",
+      "nearly circular calcification with interior linear bar (DIAGNOSTIC)",
+      "poststenotic dilatation of ascending aorta",
+      "cluster of heavy dense calcific deposits without bicuspid contour",
+      "curvilinear shape of calcium outlining tricuspid leaflets",
+      "diffuse dilatation + tortuosity of aorta (NO poststenotic dilatation)",
+      "delicate calcification similar to coronary arteries (DDx: calcium in RCA / LCX)",
+      "superior-to-inferior motion",
+      "calcific pattern similar to calcified mitral valve",
+      "dense bandlike calcification starting at posterior aspect + progressing laterally",
+      "usually in combination with degenerative aortic valve calcification → NO effect on",
+      "bandlike C-shaped configuration"
+    ],
+    "Pericardium": [
+      "clumpy amorphous calcium deposits, frequently in atrioventricular groove",
+      "diffuse eggshell calcification sparing LA (not covered by pericardium)"
+    ],
+    "Myocardium": [
+      "thin curvilinear contour outlining the aneurysm",
+      "shaggy laminated calcification suggests calcification of associated mural thrombus",
+      "coarse amorphous calcifications caused by trauma, cardioversion, infection, endocardial"
+    ],
+    "Left atrial wall": [
+      "curvilinear calcification sparing interatrial septum + posterolateral wall on right side",
+      "shaggy nodular deposits in atrial appendage",
+      "nodular calcific scar in posterior wall (= MacCallum patch) ← injury from a forceful"
+    ],
+    "Ductus arteriosus": [
+      "calcium deposition in ligament of Botallo",
+      "parallel calcified lines (lateral view)"
+    ]
+  },
+  "clinical": {
+    "Cx": "mitral insufficiency (← impaired anterior mitral leaflet); atrial fibrillation; heart",
+    "Prognosis": "doubles risk of stroke"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Thymolipoma (DDx)",
+  "slug": "thymolipoma_ddx",
+  "chapter": "Thymolipoma",
+  "source_file": "processed_clusters/thymolipoma/thymolipoma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "mediastinal lipoma",
+      "raw": "mediastinal lipoma (most common of intrathoracic fatty tumors)",
+      "frequency": "most common"
+    },
+    {
+      "name": "liposarcoma",
+      "raw": "liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "teratoma (cystic changes",
+      "raw": "teratoma (cystic changes",
+      "frequency": null
+    },
+    {
+      "name": "no connection to thymic bed)",
+      "raw": "no connection to thymic bed)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "large lesions slump inferiorly from anterior mediastinum toward diaphragm enlarging the | may drape around heart enlarging cardiac silhouette on frontal view | apparent elevation of diaphragm on lateral view | NO compression / invasion of adjacent structures"
+}

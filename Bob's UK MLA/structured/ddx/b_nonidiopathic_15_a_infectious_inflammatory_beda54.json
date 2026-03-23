@@ -1,0 +1,172 @@
+{
+  "finding": "B. NONIDIOPATHIC (15%) (a) infectious / inflammatory",
+  "slug": "b_nonidiopathic_15_a_infectious_inflammatory_beda54",
+  "chapter": "PERICARDITIS",
+  "source_file": "processed_clusters/pericarditis/b_nonidiopathic_15_a_infectious_inflammatory_beda54.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Virus",
+      "raw": "Virus (Coxsackie B, influenza)",
+      "frequency": null
+    },
+    {
+      "name": "Bacterium",
+      "raw": "Bacterium",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis (formerly most common etiology) ◊  TB is major cause in developing countries + in HIV-immunocompromised patients",
+      "raw": "Tuberculosis (formerly most common etiology) ◊  TB is major cause in developing countries + in HIV-immunocompromised patients",
+      "frequency": "most common"
+    },
+    {
+      "name": "Fungus / parasite",
+      "raw": "Fungus / parasite",
+      "frequency": null
+    },
+    {
+      "name": "Connective tissue disease: rheumatoid arthritis, lupus erythematosus (b)  traumatic",
+      "raw": "Connective tissue disease: rheumatoid arthritis, lupus erythematosus (b)  traumatic",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac surgery",
+      "raw": "Cardiac surgery (most frequent today)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Radiotherapy to mediastinum: breast cancer, mediastinal tumor",
+      "raw": "Radiotherapy to mediastinum: breast cancer, mediastinal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Percutaneous coronary intervention, pacemaker insertion, catheter ablation",
+      "raw": "Percutaneous coronary intervention, pacemaker insertion, catheter ablation",
+      "frequency": null
+    },
+    {
+      "name": "Acute myocardial infarction ›  Epistenocardiac pericarditis =  inflammation in close temporal relationship to acute transmural infarction",
+      "raw": "Acute myocardial infarction ›  Epistenocardiac pericarditis =  inflammation in close temporal relationship to acute transmural infarction",
+      "frequency": null
+    },
+    {
+      "name": "dyspnea + weakness, peripheral edema, neck vein distension",
+      "raw": "dyspnea + weakness, peripheral edema, neck vein distension",
+      "frequency": null
+    },
+    {
+      "name": "abdominal enlargement",
+      "raw": "abdominal enlargement (ascites + hepatomegaly)",
+      "frequency": null
+    },
+    {
+      "name": "pericardial knock sound = loud early-diastolic sound",
+      "raw": "pericardial knock sound = loud early-diastolic sound",
+      "frequency": null
+    },
+    {
+      "name": "Kussmaul sign = failure of venous pressure to fall (= elevation of jugular venous pressure) with inspiration",
+      "raw": "Kussmaul sign = failure of venous pressure to fall (= elevation of jugular venous pressure) with inspiration",
+      "frequency": null
+    },
+    {
+      "name": "prominent X and Y descent on venous pressure curve ◊  Other causes of right heart failure must be excluded first, ie, pulmonary hypertension, severe tricuspid insufficiency, myocardial infarction",
+      "raw": "prominent X and Y descent on venous pressure curve ◊  Other causes of right heart failure must be excluded first, ie, pulmonary hypertension, severe tricuspid insufficiency, myocardial infarction",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac tamponade",
+      "raw": "Cardiac tamponade",
+      "frequency": null
+    },
+    {
+      "name": "Restrictive cardiomyopathy: eg, amyloid (b)  nonrestrictive physiology:",
+      "raw": "Restrictive cardiomyopathy: eg, amyloid (b)  nonrestrictive physiology:",
+      "frequency": null
+    },
+    {
+      "name": "S/P recent cardiac surgery",
+      "raw": "S/P recent cardiac surgery",
+      "frequency": null
+    },
+    {
+      "name": "Organized intrapericardial hematoma",
+      "raw": "Organized intrapericardial hematoma",
+      "frequency": null
+    },
+    {
+      "name": "focal chest pain varying with changes in patient's position",
+      "raw": "focal chest pain varying with changes in patient's position",
+      "frequency": null
+    },
+    {
+      "name": "normal levels of troponin",
+      "raw": "normal levels of troponin",
+      "frequency": null
+    },
+    {
+      "name": "Myocardial infarction",
+      "raw": "Myocardial infarction (acute)",
+      "frequency": null
+    },
+    {
+      "name": "Uremia",
+      "raw": "Uremia",
+      "frequency": null
+    },
+    {
+      "name": "Surgery",
+      "raw": "Surgery (cardiac)",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Cancer",
+      "raw": "Cancer",
+      "frequency": null
+    },
+    {
+      "name": "typical often severe chest pain",
+      "raw": "typical often severe chest pain",
+      "frequency": null
+    },
+    {
+      "name": "pericardial friction rub",
+      "raw": "pericardial friction rub (← pericarditis sicca)",
+      "frequency": null
+    },
+    {
+      "name": "elevated serologic markers of inflammation (eg, C-reactive protein); widespread ST elevation",
+      "raw": "elevated serologic markers of inflammation (eg, C-reactive protein); widespread ST elevation",
+      "frequency": null
+    },
+    {
+      "name": "Progression to chronic sclerosing pericarditis",
+      "raw": "Progression to chronic sclerosing pericarditis (< 0.5% for viral pericarditis, relatively frequent for purulent + tuberculous pericarditis)",
+      "frequency": "0.5%"
+    },
+    {
+      "name": "Myocarditis = atypical ECG changes, transient regional / global wall motion abnormalities, increase in cardiac enzymes",
+      "raw": "Myocarditis = atypical ECG changes, transient regional / global wall motion abnormalities, increase in cardiac enzymes",
+      "frequency": null
+    },
+    {
+      "name": "Chronic sclerosing pericarditis",
+      "raw": "Chronic sclerosing pericarditis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic fibrosing pericarditis",
+      "raw": "Chronic fibrosing pericarditis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   10% of patients with acute MI Cause:   pericardial spread of infarct-related inflammation ›  Dressler syndrome (c)  autoimmune disorder (5%) (d)  uremia = chronic renal failure (e)  neoplastic (5%) = tumor invasion by carcinoma of breast / lung, lymphoma / leukemia, sarcoma, mesothelioma Constrictive Pericarditis =  PERICARDIAL CONSTRICTION =  fibrous thickening of pericardium interfering with filling of ventricular chambers via restriction of heart motion Age:     30-50 years; M÷F = 3÷1 Etiology:   infection, trauma, radiation, postoperative status Hemodynamics of decreased compl"
+}

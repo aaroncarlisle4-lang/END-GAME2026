@@ -1,0 +1,27 @@
+{
+  "finding": "Abnormal Uptake of Bone Agents within Breast",
+  "slug": "abnormal_uptake_of_bone_agents_within_breast",
+  "chapter": "Breast Edema",
+  "source_file": "processed_clusters/breast_edema/abnormal_uptake_of_bone_agents_within_breast.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Breast carcinoma",
+      "raw": "Breast carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Prosthesis",
+      "raw": "Prosthesis",
+      "frequency": null
+    },
+    {
+      "name": "Drug-induced",
+      "raw": "Drug-induced",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

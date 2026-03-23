@@ -1,0 +1,52 @@
+{
+  "finding": "Cause: siderosis (iron oxide), stannosis (tin oxide), and baritosis (barium",
+  "slug": "cause_siderosis_iron_oxide_stannosis_tin_oxide_and_baritosis_barium",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/cause_siderosis_iron_oxide_stannosis_tin_oxide_and_baritosis_barium.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Silicosis",
+      "raw": "Silicosis",
+      "frequency": null
+    },
+    {
+      "name": "Coal worker pneumoconiosis",
+      "raw": "Coal worker pneumoconiosis",
+      "frequency": null
+    },
+    {
+      "name": "Berylliosis",
+      "raw": "Berylliosis",
+      "frequency": null
+    },
+    {
+      "name": "Talcosis",
+      "raw": "Talcosis",
+      "frequency": null
+    },
+    {
+      "name": "Siderosis",
+      "raw": "Siderosis",
+      "frequency": null
+    },
+    {
+      "name": "Carbon black pneumoconiosis",
+      "raw": "Carbon black pneumoconiosis",
+      "frequency": null
+    },
+    {
+      "name": "Hard-metal pneumoconiosis",
+      "raw": "Hard-metal pneumoconiosis",
+      "frequency": null
+    },
+    {
+      "name": "Asbestos-related disease",
+      "raw": "Asbestos-related disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Types:"
+}

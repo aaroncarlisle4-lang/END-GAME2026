@@ -1,0 +1,32 @@
+{
+  "name": "ASHERMAN SYNDROME",
+  "slug": "asherman_syndrome",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/asherman_syndrome.md",
+  "definition": "association of multiple intrauterine synechiae (= adhesions consisting of fibrous tissue or",
+  "demographics": {
+    "Path": "scars / bands of fibrous tissue (synechiae) connect opposing sides of the endometrium by"
+  },
+  "dominant_finding": "small thin irregular endometrial cavity",
+  "distribution": "",
+  "discriminating_features": [
+    "solitary / multiple filling defects",
+    "bands of tissue traversing endometrial cavity",
+    "irregular surface contour of uterine cavity",
+    "small uterine cavity partially / near completely obliterated (DDx: DES exposure)",
+    "echogenic bands bridging the uterine cavity"
+  ],
+  "other_features": {
+    "general": [
+      "solitary / multiple filling defects",
+      "bands of tissue traversing endometrial cavity",
+      "irregular surface contour of uterine cavity",
+      "small uterine cavity partially / near completely obliterated (DDx: DES exposure)",
+      "echogenic bands bridging the uterine cavity"
+    ],
+    "MR": [
+      "small thin irregular endometrial cavity"
+    ]
+  },
+  "clinical": {}
+}

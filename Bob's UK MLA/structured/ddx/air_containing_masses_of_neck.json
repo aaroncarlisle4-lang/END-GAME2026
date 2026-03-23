@@ -1,0 +1,32 @@
+{
+  "finding": "Air-containing Masses of Neck",
+  "slug": "air_containing_masses_of_neck",
+  "chapter": "D. NEUROLOGIC",
+  "source_file": "processed_clusters/d_neurologic/air_containing_masses_of_neck.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Laryngocele",
+      "raw": "Laryngocele",
+      "frequency": null
+    },
+    {
+      "name": "Tracheal diverticulum arising from anterior wall of trachea close to thyroid",
+      "raw": "Tracheal diverticulum arising from anterior wall of trachea close to thyroid",
+      "frequency": null
+    },
+    {
+      "name": "Zenker diverticulum",
+      "raw": "Zenker diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Lateral pharyngeal diverticulum located in tonsillar fossa / vallecula / pyriform fossa",
+      "raw": "Lateral pharyngeal diverticulum located in tonsillar fossa / vallecula / pyriform fossa",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

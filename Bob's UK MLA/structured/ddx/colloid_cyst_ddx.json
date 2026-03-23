@@ -1,0 +1,22 @@
+{
+  "finding": "Colloid Cyst (DDx)",
+  "slug": "colloid_cyst_ddx",
+  "chapter": "Colloid Cyst",
+  "source_file": "processed_clusters/colloid_cyst/colloid_cyst_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "meningioma",
+      "raw": "meningioma",
+      "frequency": null
+    },
+    {
+      "name": "ependymoma of 3rd ventricle (rare) with enhancement",
+      "raw": "ependymoma of 3rd ventricle (rare) with enhancement",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "fluid contents: | variable SI lesion (dependent on mucus composition): | hyperintense on T1WI + FLAIR ← large protein molecules / paramagnetic effect of | iso- to hypointense on T2WI (most common)"
+}

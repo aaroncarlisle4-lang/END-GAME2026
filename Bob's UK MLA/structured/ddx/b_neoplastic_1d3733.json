@@ -1,0 +1,42 @@
+{
+  "finding": "B. NEOPLASTIC",
+  "slug": "b_neoplastic_1d3733",
+  "chapter": "GASTRIC POLYP",
+  "source_file": "processed_clusters/gastric_polyp/b_neoplastic_1d3733.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenomatous polyp of stomach",
+      "raw": "Adenomatous polyp of stomach (10-20%) =  true neoplasm with malignant potential (10-80%, increasing with size)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Villous polyp of stomach",
+      "raw": "Villous polyp of stomach (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Ménétrier disease",
+      "raw": "Ménétrier disease (antrum spared)",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic polyp",
+      "raw": "Eosinophilic polyp (peripheral eosinophilia, linitis plastica appearance, small bowel changes)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma",
+      "raw": "Carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Age:   increasing incidence with age; M÷F = 2÷1 Histo:   intestinal metaplasia (common) + marked cellular atypism Associated with:   Gardner syndrome; coexistent with gastric carcinoma in 35% Location:   more commonly in antrum (antrum spared in Gardner syndrome) √  broad-based elliptical / mushroom-shaped polyp ± pedicle; usually solitary √  usually > 2 cm in diameter (in 80%) √  smooth / irregular lobulated contour √  trabeculated / lobulated slightly irregular contour Cx:   malignant transformation DDx:"
+}

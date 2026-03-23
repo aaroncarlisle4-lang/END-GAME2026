@@ -1,0 +1,82 @@
+{
+  "finding": "Hip Dislocation",
+  "slug": "hip_dislocation",
+  "chapter": "DISLOCATION",
+  "source_file": "processed_clusters/dislocation/hip_dislocation.md",
+  "quality_score": 0.667,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "POSTERIOR HIP DISLOCATION",
+      "raw": "POSTERIOR HIP DISLOCATION (80-85%)",
+      "frequency": "85%"
+    },
+    {
+      "name": "adducted lower extremity flexed at hip",
+      "raw": "adducted lower extremity flexed at hip",
+      "frequency": null
+    },
+    {
+      "name": "ANTERIOR HIP DISLOCATION",
+      "raw": "ANTERIOR HIP DISLOCATION (5-10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "superoanterior / pubic hip dislocation",
+      "raw": "superoanterior / pubic hip dislocation",
+      "frequency": null
+    },
+    {
+      "name": "lower extremity in external rotation [CENTRAL ACETABULAR FRACTURE-DISLOCATION]",
+      "raw": "lower extremity in external rotation",
+      "frequency": null,
+      "sites": [
+        "CENTRAL ACETABULAR FRACTURE-DISLOCATION"
+      ]
+    },
+    {
+      "name": "50-75% not clinically diagnosed initially ← self-reduction!",
+      "raw": "50-75% not clinically diagnosed initially ← self-reduction!",
+      "frequency": "75%"
+    },
+    {
+      "name": "Temporary immobilization + rehabilitation: successful in 75%",
+      "raw": "Temporary immobilization + rehabilitation: successful in 75%",
+      "frequency": "75%"
+    },
+    {
+      "name": "Surgery: fixation of osteochondral fragments if > 1 cm2, medial capsule repair, lateral retinacular release, vastus medialis et lateralis rearrangement, medial retinaculum reefing",
+      "raw": "Surgery: fixation of osteochondral fragments if > 1 cm2, medial capsule repair, lateral retinacular release, vastus medialis et lateralis rearrangement, medial retinaculum reefing",
+      "frequency": null
+    },
+    {
+      "name": "Shoulder Dislocation",
+      "raw": "Shoulder Dislocation",
+      "frequency": null
+    },
+    {
+      "name": "Sternoclavicular Dislocation [POSTERIOR STERNOCLAVICULAR DISLOCATION]",
+      "raw": "Sternoclavicular Dislocation (3%)",
+      "frequency": "3%",
+      "sites": [
+        "POSTERIOR STERNOCLAVICULAR DISLOCATION"
+      ]
+    }
+  ],
+  "criteria": {
+    "POSTERIOR HIP DISLOCATION": [
+      "Frequency:   5% of all dislocations Mechanism:   classical dashboard injury (= flexed knee strikes dashboard) Associated with:   fractures of posterior rim of acetabulum, femoral head Mechanism:   forced abduction + external rotation Associated with:   fractures of acetabular rim, greater trochanter, femoral neck, femoral head (characteristic depression on posterosuperior and lateral portion) Subtypes:   1.   anterior obturator dislocation",
+      "obturator position of femoral head Mechanism:   force applied to lateral side of trochanter Patellar Dislocation =  TRANSI"
+    ],
+    "adducted lower extremity flexed at hip": [],
+    "ANTERIOR HIP DISLOCATION": [],
+    "superoanterior / pubic hip dislocation": [],
+    "lower extremity in external rotation [CENTRAL ACETABULAR FRACTURE-DISLOCATION]": [],
+    "50-75% not clinically diagnosed initially ← self-reduction!": [],
+    "Temporary immobilization + rehabilitation: successful in 75%": [],
+    "Surgery: fixation of osteochondral fragments if > 1 cm2, medial capsule repair, lateral retinacular release, vastus medialis et lateralis rearrangement, medial retinaculum reefing": [],
+    "Shoulder Dislocation": [],
+    "Sternoclavicular Dislocation [POSTERIOR STERNOCLAVICULAR DISLOCATION]": []
+  },
+  "context": "Frequency:   5% of all dislocations Mechanism:   classical dashboard injury (= flexed knee strikes dashboard) Associated with:   fractures of posterior rim of acetabulum, femoral head Mechanism:   forced abduction + external rotation Associated with:   fractures of acetabular rim, greater trochanter, femoral neck, femoral head (characteristic depression on posterosuperior and lateral portion) Subtypes:   1.   anterior obturator dislocation √  prominent lesser trochanter √  obturator position of femoral head Mechanism:   force applied to lateral side of trochanter Patellar Dislocation =  TRANSI"
+}

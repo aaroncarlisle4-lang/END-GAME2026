@@ -1,0 +1,37 @@
+{
+  "finding": "C. LIPID",
+  "slug": "c_lipid_2a0ee6",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/c_lipid_2a0ee6.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intracranial lipoma",
+      "raw": "Intracranial lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lipomatous ependymoma",
+      "raw": "Lipomatous ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Chemical meningitis from ruptured dermoid",
+      "raw": "Chemical meningitis from ruptured dermoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Source:   short T1 relaxation time of H+ nuclei within lipid molecules"
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Cytomegalovirus Infection (DDx)",
+  "slug": "cytomegalovirus_infection_ddx_1",
+  "chapter": "Cytomegalovirus Infection",
+  "source_file": "processed_clusters/cytomegalovirus_infection/cytomegalovirus_infection_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lymphoma / other neoplasm",
+      "raw": "lymphoma / other neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "pyogenic abscess √  polyradiculopathy",
+      "raw": "pyogenic abscess √  polyradiculopathy (in adults)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cerebral volume loss | ventriculomegaly | periventricular enhancement | enhancing mass lesions (only with advanced AIDS)"
+}

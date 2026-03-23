@@ -1,0 +1,39 @@
+{
+  "name": "STEROID CELL TUMOR",
+  "slug": "steroid_cell_tumor",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/steroid_cell_tumor.md",
+  "definition": "LIPID / LIPOID CELL TUMOR characterized by cells resembling typical steroid hormone-secreting cells (lutein cells, Leydig",
+  "demographics": {
+    "Frequency": "0.1-0.2% of all ovarian tumors",
+    "Age": "wide range of ages; usually 5th-6th decade",
+    "Path": "usually < 3 cm yellow nodule with rich vascularity; rarely cystic",
+    "Histo": "abundant clear cytoplasm + varying amounts of lipid resembling adrenocortical cells"
+  },
+  "dominant_finding": "areas of low attenuation (= abundant lipid content)",
+  "distribution": "unilateral < 3 cm small solid tumor",
+  "discriminating_features": [
+    "unilateral < 3 cm small solid tumor",
+    "cystic change / necrosis (rare)",
+    "areas of low attenuation (= abundant lipid content)",
+    "NO high-signal intensity on T1WI ← lipid content obscured by fibrous stroma",
+    "various signal intensities on T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "unilateral < 3 cm small solid tumor",
+      "cystic change / necrosis (rare)"
+    ],
+    "CT": [
+      "areas of low attenuation (= abundant lipid content)"
+    ],
+    "MR": [
+      "NO high-signal intensity on T1WI ← lipid content obscured by fibrous stroma",
+      "various signal intensities on T2WI",
+      "intense contrast enhancement ← high tumor vascularity"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "clinically malignant (33%)"
+  }
+}

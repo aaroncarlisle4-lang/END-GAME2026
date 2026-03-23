@@ -1,0 +1,37 @@
+{
+  "finding": "B. SOFT TISSUE TUMOR (a) adipocytic",
+  "slug": "b_soft_tissue_tumor_a_adipocytic",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/b_soft_tissue_tumor_a_adipocytic.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma (common):",
+      "raw": "Lipoma (common):",
+      "frequency": "common"
+    },
+    {
+      "name": "Liposarcoma",
+      "raw": "Liposarcoma (2nd most common soft-tissue malignancy)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   intrathoracic + subcutaneous √  deep seated growing mass between ribs √  mature fat tissue on CT + T1WI √  prominent internal septa > 2 mm in thickness √  nodular nonadipose areas (b)  vascular √  high SI on T2WI ← vascular tissue √  variable amounts of fat tissue on T1WI √  phleboliths on CT √  commonly in neck + axilla √  high SI greater than that of fat on T2WI"
+}

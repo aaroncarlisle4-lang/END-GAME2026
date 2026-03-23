@@ -1,0 +1,31 @@
+{
+  "name": "SHORT-RIB POLYDACTYLY SYNDROME",
+  "slug": "short_rib_polydactyly_syndrome",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/short_rib_polydactyly_syndrome.md",
+  "definition": "group of autosomal recessive disorders characterized by short limb dysplasia, constricted SALDINO-NOONAN SYNDROME MAJEWSKI TYPE",
+  "demographics": {},
+  "dominant_finding": "severe micromelia",
+  "distribution": "",
+  "discriminating_features": [
+    "severe micromelia",
+    "pointed femurs at both ends (type I); widened metaphyses (type III)",
+    "narrow thorax",
+    "extremely short horizontally oriented ribs",
+    "distorted underossified vertebral bodies + incomplete coronal clefts"
+  ],
+  "other_features": {
+    "general": [
+      "severe micromelia",
+      "pointed femurs at both ends (type I); widened metaphyses (type III)",
+      "narrow thorax",
+      "extremely short horizontally oriented ribs",
+      "distorted underossified vertebral bodies + incomplete coronal clefts",
+      "polydactyly",
+      "cleft lip / palate"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "uniformly lethal"
+  }
+}

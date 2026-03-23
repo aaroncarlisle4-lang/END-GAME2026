@@ -1,0 +1,22 @@
+{
+  "finding": "Rathke Cleft Cyst (DDx)",
+  "slug": "rathke_cleft_cyst_ddx",
+  "chapter": "Rathke Cleft Cyst",
+  "source_file": "processed_clusters/rathke_cleft_cyst/rathke_cleft_cyst_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "craniopharyngioma",
+      "raw": "craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "macroadenoma",
+      "raw": "macroadenoma (hemorrhagic fluid-debris level)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "simple / complex cyst content ± fluid-fluid level | NO central enhancement / hemorrhagic component | small intracystic nodules of lower T2 + higher T1 SI (75%) ← proteinaceous concretions | wall enhancement due to squamous metaplasia / displaced rim of pituitary tissue"
+}

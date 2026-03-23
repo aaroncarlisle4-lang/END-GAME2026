@@ -1,0 +1,37 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_11",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/a_benign_11.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "Parosteal chondroma",
+      "raw": "Parosteal chondroma",
+      "frequency": null
+    },
+    {
+      "name": "Chondroblastoma",
+      "raw": "Chondroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Chondromyxoid fibroma",
+      "raw": "Chondromyxoid fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Osteochondroma",
+      "raw": "Osteochondroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,77 @@
+{
+  "finding": "SARCOIDOSIS",
+  "slug": "sarcoidosis_42e174",
+  "chapter": "RHEUMATOID LUNG",
+  "source_file": "processed_clusters/rheumatoid_lung/sarcoidosis_42e174.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "angiotensin-converting enzyme (ACE) elevated in 70% (ACE is a product of macrophages and an indicator for the granuloma burden of the body) DDx:  tuberculosis, leprosy, histoplasmosis, berylliosis, cirrhosis, hyperthyroidism, diabetes",
+      "raw": "angiotensin-converting enzyme (ACE) elevated in 70% (ACE is a product of macrophages and an indicator for the granuloma burden of the body) DDx:  tuberculosis, leprosy, histoplasmosis, berylliosis, cirrhosis, hyperthyroidism, diabetes",
+      "frequency": "70%"
+    },
+    {
+      "name": "CD4÷CD8 ratio in blood serum commonly decreased",
+      "raw": "CD4÷CD8 ratio in blood serum commonly decreased",
+      "frequency": null
+    },
+    {
+      "name": "hypercalcemia + hypercalciuria in 2-15% ← increased intestinal resorption of calcium ← hydroxylation of 1,25-dihydroxy vitamin D in macrophages",
+      "raw": "hypercalcemia + hypercalciuria in 2-15% ← increased intestinal resorption of calcium ← hydroxylation of 1,25-dihydroxy vitamin D in macrophages",
+      "frequency": "15%"
+    },
+    {
+      "name": "Kveim-Siltzbach test (positive in 70%) = intracutaneous injection of 0.1-0.2 mL of a previously validated saline suspension of human sarcoid spleen / lymph nodes; no longer considered specific → rarely used",
+      "raw": "Kveim-Siltzbach test (positive in 70%) = intracutaneous injection of 0.1-0.2 mL of a previously validated saline suspension of human sarcoid spleen / lymph nodes; no longer considered specific → rarely used",
+      "frequency": "70%"
+    },
+    {
+      "name": "functional pulmonary impairment (even with NO radiographic abnormality):",
+      "raw": "functional pulmonary impairment (even with NO radiographic abnormality):",
+      "frequency": null
+    },
+    {
+      "name": "NO identification of infectious / inflammatory agent Dx:   based on a combination of clinical + radiological + histologic features after exclusion of other infectious / inflammatory entities",
+      "raw": "NO identification of infectious / inflammatory agent Dx:   based on a combination of clinical + radiological + histologic features after exclusion of other infectious / inflammatory entities",
+      "frequency": null
+    },
+    {
+      "name": "Compatible clinical + radiologic picture",
+      "raw": "Compatible clinical + radiologic picture",
+      "frequency": null
+    },
+    {
+      "name": "Noncaseous epithelioid granulomas on bronchial / transbronchial US-guided biopsy (diagnostic results in 60-95% and 80-95% respectively) or from extrapulmonary sites like cervical lymph nodes and liver",
+      "raw": "Noncaseous epithelioid granulomas on bronchial / transbronchial US-guided biopsy (diagnostic results in 60-95% and 80-95% respectively) or from extrapulmonary sites like cervical lymph nodes and liver",
+      "frequency": "95%"
+    },
+    {
+      "name": "Negative results of special stains / cultures for other entities",
+      "raw": "Negative results of special stains / cultures for other entities",
+      "frequency": null
+    },
+    {
+      "name": "ACE titer",
+      "raw": "ACE titer (= angiotensin I converting enzyme)",
+      "frequency": null
+    },
+    {
+      "name": "Bronchoalveolar lavage (BAL): 20-50% lymphocytes with T-suppressor lymphocytes 4- 20 times above normal",
+      "raw": "Bronchoalveolar lavage (BAL): 20-50% lymphocytes with T-suppressor lymphocytes 4- 20 times above normal",
+      "frequency": "50%"
+    },
+    {
+      "name": "Gallium scan",
+      "raw": "Gallium scan",
+      "frequency": null
+    },
+    {
+      "name": "PET",
+      "raw": "PET",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  BOECK SARCOID [sarkos, Greek = flesh; sarcoid = sarcoma-like] [Caesar Peter Möller Boeck (1845-1917), Norwegian dermatologist describes skin lesions in 1899] =  immunologically mediated multisystem granulomatous disease of unknown etiology with variable presentation, progression and prognosis characterized by noncaseating nonnecrotic epitheloid cell granulomas Bilateral hilar lymphadenopathy is the most common radiologic finding. Adenopathy in the right paratracheal nodes, left aortic-pulmonary window, and subcarinal nodes can also be seen, often with associated pulmonary infiltrates. Preva"
+}

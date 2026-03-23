@@ -1,0 +1,41 @@
+{
+  "name": "MALPOSITIONED TESTIS",
+  "slug": "malpositioned_testis",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/malpositioned_testis.md",
+  "definition": "MALDESCENDED TESTIS arrested migration of testis along its normal course through internal inguinal ring, inguinal deviation from the usual pathway RETRACTILE TESTIS unusually spastic cremasteric muscle retractile testis + cryptorchidism",
+  "demographics": {
+    "Prevalence": "early 3rd trimester in 10%; at birth in 3.7-6.0% (in babies > 2,500 g in 3.4%; in",
+    "Associated with": "prune belly syndrome (bilateral cryptorchidism), Prader-Willi syndrome,",
+    "Location": "bilateral in 10%"
+  },
+  "dominant_finding": "no spermatic cord in inguinal canal",
+  "distribution": "bilateral in 10%",
+  "discriminating_features": [
+    "signal characteristics similar to contralateral / normal testis",
+    "no spermatic cord in inguinal canal",
+    "failure to visualize testis within scrotum",
+    "empty ipsilateral scrotal sac + intra-abdominal mass",
+    "often small atrophic testis with generalized decreased / similar echogenicity compared to"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "no spermatic cord in inguinal canal",
+      "failure to visualize testis within scrotum",
+      "empty ipsilateral scrotal sac + intra-abdominal mass"
+    ],
+    "US": [
+      "often small atrophic testis with generalized decreased / similar echogenicity compared to",
+      "identification of mediastinum testis is necessary",
+      "± testicular microlithiasis",
+      "signal characteristics similar to contralateral / normal testis",
+      "usually homogeneously hypointense on T1WI",
+      "homogeneously hyperintense on T2WI",
+      "markedly hyperintense on DWI"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgery / orchiopexy at 9-12 months of age"
+  }
+}

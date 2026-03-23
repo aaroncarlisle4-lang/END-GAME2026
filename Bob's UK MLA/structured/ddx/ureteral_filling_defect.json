@@ -1,0 +1,57 @@
+{
+  "finding": "Ureteral Filling Defect",
+  "slug": "ureteral_filling_defect",
+  "chapter": "D. COMPRESSION",
+  "source_file": "processed_clusters/d_compression/ureteral_filling_defect.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "FIXED (a)  neoplasm",
+      "raw": "FIXED (a)  neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Urothelial neoplasm",
+      "raw": "Urothelial neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Fibroepithelial polyp (b)  inflammation / infection",
+      "raw": "Fibroepithelial polyp (b)  inflammation / infection",
+      "frequency": null
+    },
+    {
+      "name": "Polyureteritis cystica",
+      "raw": "Polyureteritis cystica",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Fungus: Candida, Aspergillus",
+      "raw": "Fungus: Candida, Aspergillus",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

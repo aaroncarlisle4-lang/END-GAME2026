@@ -1,0 +1,42 @@
+{
+  "finding": "Sclerotic Tooth-Related Jaw Lesion",
+  "slug": "sclerotic_tooth_related_jaw_lesion_7dcdeb",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/sclerotic_tooth_related_jaw_lesion_7dcdeb.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cementoblastoma",
+      "raw": "Cementoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Cemento-osseous dysplasia",
+      "raw": "Cemento-osseous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Condensing osteitis",
+      "raw": "Condensing osteitis",
+      "frequency": null
+    },
+    {
+      "name": "Odontoma",
+      "raw": "Odontoma",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic osteosclerosis",
+      "raw": "Idiopathic osteosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Hypercementosis =  bulbous enlargement of a root (a)  idiopathic (b)  associated with Paget disease",
+      "raw": "Hypercementosis =  bulbous enlargement of a root (a)  idiopathic (b)  associated with Paget disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

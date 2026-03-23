@@ -1,0 +1,33 @@
+{
+  "name": "PYELOCALICEAL DIVERTICULUM",
+  "slug": "pyelocaliceal_diverticulum",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/pyelocaliceal_diverticulum.md",
+  "definition": "PYELOGENIC CYST = PERICALICEAL CYST = CALICEAL DIVERTICULUM uroepithelium-lined urine-filled cavity within renal cortex communicating with renal",
+  "demographics": {
+    "Prevalence": "2.1-4.5÷1000 intravenous urograms"
+  },
+  "dominant_finding": "± layering mobile echogenic material ← formation of single / multiple stones (50%) / milk",
+  "distribution": "",
+  "discriminating_features": [
+    "appearance of simple cyst",
+    "opacification during excretory phase may be delayed and remain so for prolonged period →",
+    "mass effect on adjacent pelvicaliceal system if large enough",
+    "anechoic cyst",
+    "± layering mobile echogenic material ← formation of single / multiple stones (50%) / milk"
+  ],
+  "other_features": {
+    "general": [
+      "appearance of simple cyst",
+      "opacification during excretory phase may be delayed and remain so for prolonged period →",
+      "mass effect on adjacent pelvicaliceal system if large enough"
+    ],
+    "US": [
+      "anechoic cyst",
+      "± layering mobile echogenic material ← formation of single / multiple stones (50%) / milk"
+    ]
+  },
+  "clinical": {
+    "Cx": "hemorrhage, recurrent infection, cyst rupture, malignancy (exceedingly rare)"
+  }
+}

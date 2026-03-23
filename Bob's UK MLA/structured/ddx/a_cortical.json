@@ -1,0 +1,32 @@
+{
+  "finding": "A. CORTICAL",
+  "slug": "a_cortical",
+  "chapter": "DEMENTIA",
+  "source_file": "processed_clusters/dementia/a_cortical.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Alzheimer disease",
+      "raw": "Alzheimer disease",
+      "frequency": null
+    },
+    {
+      "name": "Pick disease = frontotemporal dementia",
+      "raw": "Pick disease = frontotemporal dementia",
+      "frequency": null
+    },
+    {
+      "name": "Mild cognitive impairment",
+      "raw": "Mild cognitive impairment",
+      "frequency": null
+    },
+    {
+      "name": "Creutzfeldt-Jakob disease",
+      "raw": "Creutzfeldt-Jakob disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

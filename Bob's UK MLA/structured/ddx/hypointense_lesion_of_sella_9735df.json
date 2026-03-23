@@ -1,0 +1,42 @@
+{
+  "finding": "Hypointense Lesion of Sella",
+  "slug": "hypointense_lesion_of_sella_9735df",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/hypointense_lesion_of_sella_9735df.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Empty sella",
+      "raw": "Empty sella",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary stone (= pituilith) =  sequelae of autonecrosis of pituitary adenoma",
+      "raw": "Pituitary stone (= pituilith) =  sequelae of autonecrosis of pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Intrasellar aneurysm",
+      "raw": "Intrasellar aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Persistent trigeminal artery",
+      "raw": "Persistent trigeminal artery",
+      "frequency": null
+    },
+    {
+      "name": "Calcified meningioma",
+      "raw": "Calcified meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary hemochromatosis",
+      "raw": "Pituitary hemochromatosis (anterior pituitary lobe only)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

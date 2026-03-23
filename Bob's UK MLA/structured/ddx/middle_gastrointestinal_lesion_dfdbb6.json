@@ -1,0 +1,67 @@
+{
+  "finding": "Middle Gastrointestinal Lesion",
+  "slug": "middle_gastrointestinal_lesion_dfdbb6",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/gastrointestinal_hemorrhage/middle_gastrointestinal_lesion_dfdbb6.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tumor",
+      "raw": "Tumor",
+      "frequency": null
+    },
+    {
+      "name": "Meckel diverticulum",
+      "raw": "Meckel diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Dieulafoy lesion",
+      "raw": "Dieulafoy lesion",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Celiac disease (b)  in patient > 40 years of age",
+      "raw": "Celiac disease (b)  in patient > 40 years of age",
+      "frequency": null
+    },
+    {
+      "name": "Angiectasia",
+      "raw": "Angiectasia",
+      "frequency": null
+    },
+    {
+      "name": "NSAID enteropathy",
+      "raw": "NSAID enteropathy",
+      "frequency": null
+    },
+    {
+      "name": "Celiac disease (c)  uncommon lesion",
+      "raw": "Celiac disease (c)  uncommon lesion",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Hemobilia",
+      "raw": "Hemobilia",
+      "frequency": null
+    },
+    {
+      "name": "Hemosuccus pancreaticus",
+      "raw": "Hemosuccus pancreaticus",
+      "frequency": null
+    },
+    {
+      "name": "Aortoenteric fistula",
+      "raw": "Aortoenteric fistula",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  in patient < 40 years of age"
+}

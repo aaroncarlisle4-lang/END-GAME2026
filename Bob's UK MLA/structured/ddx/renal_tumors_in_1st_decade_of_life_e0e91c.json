@@ -1,0 +1,57 @@
+{
+  "finding": "Renal Tumors in 1st Decade of Life",
+  "slug": "renal_tumors_in_1st_decade_of_life_e0e91c",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/renal_tumors_in_1st_decade_of_life_e0e91c.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Cystic nephroma and cystic partially differentiated nephroblastoma",
+      "raw": "Cystic nephroma and cystic partially differentiated nephroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Mesoblastic nephroma",
+      "raw": "Mesoblastic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "Clear cell sarcoma",
+      "raw": "Clear cell sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdoid tumor",
+      "raw": "Rhabdoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying renal tumor of infancy",
+      "raw": "Ossifying renal tumor of infancy",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Metanephric stromal tumor",
+      "raw": "Metanephric stromal tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

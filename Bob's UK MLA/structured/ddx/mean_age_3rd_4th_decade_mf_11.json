@@ -1,0 +1,47 @@
+{
+  "finding": "Mean age: 3rd-4th decade; M÷F = 1÷1",
+  "slug": "mean_age_3rd_4th_decade_mf_11",
+  "chapter": "MILK OF CALCIUM BILE",
+  "source_file": "processed_clusters/milk_of_calcium_bile/mean_age_3rd_4th_decade_mf_11.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "usually asymptomatic",
+      "raw": "usually asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "multiple facial angiofibromas",
+      "raw": "multiple facial angiofibromas (in 85-90% of MEN 1 patients)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Parathyroid hyperplasia / neoplasia in multiple glands",
+      "raw": "Parathyroid hyperplasia / neoplasia in multiple glands",
+      "frequency": null
+    },
+    {
+      "name": "± hyperparathyroidism",
+      "raw": "± hyperparathyroidism (later onset than in MEN 1)",
+      "frequency": null
+    },
+    {
+      "name": "Medullary carcinoma of thyroid",
+      "raw": "Medullary carcinoma of thyroid (almost 100%)",
+      "frequency": "100%"
+    },
+    {
+      "name": "serum calcitonin commonly elevated",
+      "raw": "serum calcitonin commonly elevated",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma (50%): bilateral in 50%; malignant in 3% diagnosed before (in 10%) / after detection (in 17%) of medullary thyroid carcinoma",
+      "raw": "Pheochromocytoma (50%): bilateral in 50%; malignant in 3% diagnosed before (in 10%) / after detection (in 17%) of medullary thyroid carcinoma",
+      "frequency": "50%"
+    }
+  ],
+  "criteria": {},
+  "context": "May be associated with: thyroid tumor (20%), thymoma, buccal mucosal tumor, colonic polyposis, Ménétrier disease Screening population:   < 35-year old patient with HPT, ≥ 2 endocrine organ tumors, 1st- degree relative of MEN 1 patient Imaging surveillance: renal US + abdominal radiograph for abdominal calculi; abdominal MR for islet cell + adrenal tumors + liver mets; pituitary MR for adenoma (every 3 years) √  typically multiple microadenomas + nonfunctioning pancreatic endocrine tumors throughout pancreas √  also often functioning tumor, most commonly gastrinoma (in 60%) / insulinoma (in 30%"
+}

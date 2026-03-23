@@ -1,0 +1,32 @@
+{
+  "finding": "Infarction Of Brain (DDx)",
+  "slug": "infarction_of_brain_ddx",
+  "chapter": "Infarction Of Brain",
+  "source_file": "processed_clusters/infarction_of_brain/infarction_of_brain_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "high hematocrit",
+      "raw": "high hematocrit",
+      "frequency": null
+    },
+    {
+      "name": "polycythemia",
+      "raw": "polycythemia",
+      "frequency": null
+    },
+    {
+      "name": "calcification of vessel wall",
+      "raw": "calcification of vessel wall (usually bilateral)",
+      "frequency": null
+    },
+    {
+      "name": "arterial dolichoectasia",
+      "raw": "arterial dolichoectasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "lentiform nucleus becomes isodense to internal and external capsule within 2 hours | \"insular ribbon\" sign = loss of gray-white matter differentiation of insular cortex (in | \"hyperdense vessel\" sign (HIGHLY SPECIFIC): | \"hyperdense middle cerebral artery\" sign = acute intraluminal thrombus of 80 HU (←"
+}

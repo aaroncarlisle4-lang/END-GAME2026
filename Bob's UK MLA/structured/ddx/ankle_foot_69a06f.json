@@ -1,0 +1,40 @@
+{
+  "finding": "ANKLE & FOOT",
+  "slug": "ankle_foot_69a06f",
+  "chapter": "KNEE",
+  "source_file": "processed_clusters/knee/ankle_foot_69a06f.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tibiocalcaneal ligament",
+      "raw": "Tibiocalcaneal ligament",
+      "frequency": null
+    },
+    {
+      "name": "Tibionavicular ligament",
+      "raw": "Tibionavicular ligament",
+      "frequency": null
+    },
+    {
+      "name": "Posterior superficial tibiotalar ligament",
+      "raw": "Posterior superficial tibiotalar ligament",
+      "frequency": null
+    },
+    {
+      "name": "Tibiospring ligament [Anterior tibiotalar ligament]",
+      "raw": "Tibiospring ligament",
+      "frequency": null,
+      "sites": [
+        "Anterior tibiotalar ligament"
+      ]
+    },
+    {
+      "name": "Posterior deep tibiotalar ligament (PDTL) Deltoid ligament rupture is rare without additional injuries to the ankle ← uncommon occurrence of eversion ankle sprains and due to intrinsic thickness of the ligament.",
+      "raw": "Posterior deep tibiotalar ligament (PDTL) Deltoid ligament rupture is rare without additional injuries to the ankle ← uncommon occurrence of eversion ankle sprains and due to intrinsic thickness of the ligament.",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Ligamentous Stabilizers of Ankle Deltoid Ligament =  MEDIAL COLLATERAL LIGAMENT OF ANKLE Function:   main stabilizer against valgus force / pronation force / rotational force on talus Components: (a)  superficial layer: Origin:   anterior colliculus of medial malleolus Distal attachment:   calcaneus Distal attachment:   os naviculare Distal attachment:   talus Distal attachment:   joins superomedial oblique band of spring lig. proper (= calcaneonavicular lig.) Function:   stabilizer for talocalcaneonavicular joint + medial plantar arch (b)  deep layer = intraarticular, covered by synovium Orig"
+}

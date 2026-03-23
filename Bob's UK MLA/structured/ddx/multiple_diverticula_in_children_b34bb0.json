@@ -1,0 +1,25 @@
+{
+  "finding": "Multiple Diverticula in Children",
+  "slug": "multiple_diverticula_in_children_b34bb0",
+  "chapter": "Isolated Angiomyolipoma (50-70%",
+  "source_file": "processed_clusters/isolated_angiomyolipoma_50_70/multiple_diverticula_in_children_b34bb0.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neurogenic dysfunction [Posterior urethral valves]",
+      "raw": "Neurogenic dysfunction",
+      "frequency": null,
+      "sites": [
+        "Posterior urethral valves"
+      ]
+    },
+    {
+      "name": "Prune belly syndrome",
+      "raw": "Prune belly syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

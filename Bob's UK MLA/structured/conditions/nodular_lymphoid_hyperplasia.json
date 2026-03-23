@@ -1,0 +1,38 @@
+{
+  "name": "NODULAR LYMPHOID HYPERPLASIA",
+  "slug": "nodular_lymphoid_hyperplasia",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/nodular_lymphoid_hyperplasia.md",
+  "definition": "PSEUDOLYMPHOMA = LOCALIZED MASSLIKE FORM OF LIP reactive benign lesion = uncommon localized lymphoid hyperplasia; no progression to",
+  "demographics": {
+    "Path": "usually single involvement of small area of lung",
+    "Histo": "aggregates of polymorphous large + small lymphoid cells (B and T cells); multiple",
+    "Location": "subpleural / ± peribronchial"
+  },
+  "dominant_finding": "infiltrate typically in central location extending to visceral pleura",
+  "distribution": "subpleural / ± peribronchial",
+  "discriminating_features": [
+    "infiltrate typically in central location extending to visceral pleura",
+    "prominent central air bronchogram",
+    "NO invasion of adjacent bronchus / pleural space",
+    "NO hilar / mediastinal lymphadenopathy",
+    "NO pleural effusion"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "well-demarcated dense infiltrate(s) as nodule / mass / masslike consolidation"
+    ],
+    "CT": [
+      "infiltrate typically in central location extending to visceral pleura",
+      "prominent central air bronchogram",
+      "NO invasion of adjacent bronchus / pleural space",
+      "NO hilar / mediastinal lymphadenopathy",
+      "NO pleural effusion"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "occasionally progression to non-Hodgkin lymphoma",
+    "Rx": "most patients respond well to steroids initially"
+  }
+}

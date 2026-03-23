@@ -1,0 +1,36 @@
+{
+  "name": "SINDING-LARSEN-JOHANSSON DISEASE",
+  "slug": "sinding_larsen_johansson_disease",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/sinding_larsen_johansson_disease.md",
+  "definition": "osteochondrosis of inferior pole of patella, often bilateral (NOT osteonecrosis / epiphysitis /",
+  "demographics": {
+    "Age": "adolescents (often 10-14 years)"
+  },
+  "dominant_finding": "thickening of patellar tendon without tear / avulsion",
+  "distribution": "hypointense area on T1WI + hyperintense on T2WI in inferior pole of patella + proximal",
+  "discriminating_features": [
+    "peripatellar soft-tissue swelling",
+    "calcification / ossification of patellar tendon",
+    "patella alta deformity = abnormally elevated position of patella with respect to femur (LAT",
+    "small bone fragments at lower pole of patella (LAT view)",
+    "hypointense area on T1WI + hyperintense on T2WI in inferior pole of patella + proximal"
+  ],
+  "other_features": {
+    "general": [
+      "peripatellar soft-tissue swelling",
+      "calcification / ossification of patellar tendon",
+      "patella alta deformity = abnormally elevated position of patella with respect to femur (LAT",
+      "small bone fragments at lower pole of patella (LAT view)"
+    ],
+    "MR": [
+      "hypointense area on T1WI + hyperintense on T2WI in inferior pole of patella + proximal",
+      "thickening of patellar tendon without tear / avulsion",
+      "small bone fragment inferior to lower pole of patella",
+      "patella alta",
+      "joint effusion",
+      "bone marrow edema of patella (MRI!)"
+    ]
+  },
+  "clinical": {}
+}

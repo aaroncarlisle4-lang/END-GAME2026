@@ -1,0 +1,67 @@
+{
+  "finding": "Solid Neck Mass in Childhood",
+  "slug": "solid_neck_mass_in_childhood_b20b09",
+  "chapter": "D. NEUROLOGIC",
+  "source_file": "processed_clusters/d_neurologic/solid_neck_mass_in_childhood_b20b09.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphadenopathy",
+      "raw": "Lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis colli",
+      "raw": "Fibromatosis colli",
+      "frequency": null
+    },
+    {
+      "name": "Aggressive fibromatosis",
+      "raw": "Aggressive fibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy: neuroblastoma (most common), lymphoma, embryonal rhabdomyosarcoma",
+      "raw": "Malignancy: neuroblastoma (most common), lymphoma, embryonal rhabdomyosarcoma",
+      "frequency": "most common"
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Cervicothoracic lipoblastomatosis",
+      "raw": "Cervicothoracic lipoblastomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid mass / lingual thyroid",
+      "raw": "Thyroid mass / lingual thyroid",
+      "frequency": null
+    },
+    {
+      "name": "Parathyroid adenoma",
+      "raw": "Parathyroid adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic thymus",
+      "raw": "Ectopic thymus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

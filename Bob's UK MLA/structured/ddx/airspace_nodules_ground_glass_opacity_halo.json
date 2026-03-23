@@ -1,0 +1,47 @@
+{
+  "finding": "Airspace Nodules & Ground-glass-opacity Halo",
+  "slug": "airspace_nodules_ground_glass_opacity_halo",
+  "chapter": "Ground-glass Opacities & Interlobular Septal Lines",
+  "source_file": "processed_clusters/ground_glass_opacities_interlobular_septal_lines/airspace_nodules_ground_glass_opacity_halo.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Invasive pulmonary aspergillosis",
+      "raw": "Invasive pulmonary aspergillosis",
+      "frequency": null
+    },
+    {
+      "name": "Mucormycosis",
+      "raw": "Mucormycosis",
+      "frequency": null
+    },
+    {
+      "name": "Candidiasis (b)  noninfectious disease",
+      "raw": "Candidiasis (b)  noninfectious disease",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Bronchioloalveolar carcinoma",
+      "raw": "Bronchioloalveolar carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic tumors",
+      "raw": "Hemorrhagic tumors (primary, metastatic)",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary lymphoma",
+      "raw": "Pulmonary lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  infection"
+}

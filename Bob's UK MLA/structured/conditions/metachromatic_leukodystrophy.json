@@ -1,0 +1,37 @@
+{
+  "name": "METACHROMATIC LEUKODYSTROPHY",
+  "slug": "metachromatic_leukodystrophy",
+  "chapter": "INTRAVENTRICULAR NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/intraventricular_neurocytoma/metachromatic_leukodystrophy.md",
+  "definition": "MLD = most common hereditary (autosomal recessive) leukodystrophy (dysmyelinating",
+  "demographics": {
+    "Age": "2nd year of life"
+  },
+  "dominant_finding": "progressive atrophy",
+  "distribution": "",
+  "discriminating_features": [
+    "progressive loss of hemispheric brain tissue",
+    "symmetric low density of white matter adjacent to ventricles (esp. centrum ovale and",
+    "progressive atrophy",
+    "no contrast enhancement",
+    "progressive symmetrical areas of hypointensity on T1WI"
+  ],
+  "other_features": {
+    "general": [
+      "progressive loss of hemispheric brain tissue"
+    ],
+    "CT": [
+      "symmetric low density of white matter adjacent to ventricles (esp. centrum ovale and",
+      "progressive atrophy",
+      "no contrast enhancement"
+    ],
+    "MR": [
+      "progressive symmetrical areas of hypointensity on T1WI",
+      "hyperintensity on T2WI (increased water)",
+      "early sparing of internal capsule + subcortical U-fibers"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death within 4 years of onset"
+  }
+}

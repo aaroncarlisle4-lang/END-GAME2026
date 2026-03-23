@@ -1,0 +1,47 @@
+{
+  "finding": "Cold Defect on Renal Scintigraphy",
+  "slug": "cold_defect_on_renal_scintigraphy_103262",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/cold_defect_on_renal_scintigraphy_103262.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cyst",
+      "raw": "Cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Tumor",
+      "raw": "Tumor",
+      "frequency": null
+    },
+    {
+      "name": "Scar",
+      "raw": "Scar",
+      "frequency": null
+    },
+    {
+      "name": "Infarct",
+      "raw": "Infarct",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoproliferative Disease After Transplantation — Others: skin, eye, area of prior trauma / surgery, bone marrow (uncommon) (DDx)",
+  "slug": "lymphoproliferative_disease_after_transplantation_others_skin_eye_area_of_prior__8530d1",
+  "chapter": "Lymphoproliferative Disease After Transplantation",
+  "source_file": "processed_clusters/lymphoproliferative_disease_after_transplantation/lymphoproliferative_disease_after_transplantation_others_skin_eye_area_of_prior__8530d1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "posttransplant opportunistic infection",
+      "raw": "posttransplant opportunistic infection",
+      "frequency": null
+    },
+    {
+      "name": "lymphoid hyperplasia",
+      "raw": "lymphoid hyperplasia (spontaneous resolution)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multifocal discrete round hypovascular parenchymal masses (almost always unilateral) | diffuse infiltrative disease → renal enlargement | solitary hyperdense typically periventricular mass usually surrounded by vasogenic | extremely hypermetabolic active lesions"
+}

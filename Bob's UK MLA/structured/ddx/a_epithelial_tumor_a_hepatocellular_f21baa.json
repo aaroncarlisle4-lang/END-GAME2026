@@ -1,0 +1,32 @@
+{
+  "finding": "A. EPITHELIAL TUMOR (a) hepatocellular",
+  "slug": "a_epithelial_tumor_a_hepatocellular_f21baa",
+  "chapter": "D. MISCELLANEOUS",
+  "source_file": "processed_clusters/d_miscellaneous/a_epithelial_tumor_a_hepatocellular_f21baa.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatoblastoma",
+      "raw": "Hepatoblastoma (7%)",
+      "frequency": "7%"
+    },
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma (75%) (b)  cholangiocellular (6%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "Cholangiocarcinoma",
+      "raw": "Cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Biliary cystadenocarcinoma",
+      "raw": "Biliary cystadenocarcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

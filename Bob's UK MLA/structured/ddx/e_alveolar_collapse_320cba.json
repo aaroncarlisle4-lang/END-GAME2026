@@ -1,0 +1,32 @@
+{
+  "finding": "E. Alveolar collapse",
+  "slug": "e_alveolar_collapse_320cba",
+  "chapter": "D. IATROGENIC",
+  "source_file": "processed_clusters/d_iatrogenic/e_alveolar_collapse_320cba.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Partial atelectasis = partial collapse of alveoli",
+      "raw": "Partial atelectasis = partial collapse of alveoli",
+      "frequency": null
+    },
+    {
+      "name": "Normal during expiration",
+      "raw": "Normal during expiration",
+      "frequency": null
+    },
+    {
+      "name": "Consolidation =  homogeneous increase in pulmonary attenuation with obscuration of underlying vessels",
+      "raw": "Consolidation =  homogeneous increase in pulmonary attenuation with obscuration of underlying vessels",
+      "frequency": null
+    },
+    {
+      "name": "Cystic airspaces =  circumscribed round structure filled with air",
+      "raw": "Cystic airspaces =  circumscribed round structure filled with air",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Distribution: ›  peripheral in lower lung zones: DIP, UIP ›  mid + upper lung zones: sarcoidosis ›  \"crazy paving\" pattern ›  mosaic perfusion √  ± air-bronchogram √  sharp border at major fissure √  advancing margin of ground-glass opacity √  vessels visible only on enhanced CT Cause: (a)  any process filling airspaces with blood, fluid, inflammatory cells, tumor cells (b)  alveolar collapse = atelectasis ›  subpleural in mid + upper lung zones: chronic eosinophilic pneumonia ›  subpleural + peribronchial: BOOP ›  focal: bronchioloalveolar cell carcinoma, lymphoma ›  random: infectious pneumo"
+}

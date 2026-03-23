@@ -1,0 +1,22 @@
+{
+  "finding": "Pulmonary Edema (DDx)",
+  "slug": "pulmonary_edema_ddx",
+  "chapter": "Pulmonary Edema",
+  "source_file": "processed_clusters/pulmonary_edema/pulmonary_edema_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fluid overload",
+      "raw": "fluid overload",
+      "frequency": null
+    },
+    {
+      "name": "postextubation edema",
+      "raw": "postextubation edema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "ill-defined vessels | patchy airspace consolidation | bilateral inhomogeneous / homogeneous airspace consolidations, in 50% affecting"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Infection Of Orbit (DDx)",
+  "slug": "infection_of_orbit_ddx_8c038b",
+  "chapter": "Infection Of Orbit",
+  "source_file": "processed_clusters/infection_of_orbit/infection_of_orbit_ddx_8c038b.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "edema",
+      "raw": "edema",
+      "frequency": null
+    },
+    {
+      "name": "orbital pseudotumor",
+      "raw": "orbital pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "orbital myositis",
+      "raw": "orbital myositis",
+      "frequency": null
+    },
+    {
+      "name": "intra- and extraorbital neoplasm (chloroma",
+      "raw": "intra- and extraorbital neoplasm (chloroma",
+      "frequency": null
+    },
+    {
+      "name": "leukemic infiltrate)",
+      "raw": "leukemic infiltrate)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "increased attenuation of retroorbital fat + obliteration of fat planes | opacification of ethmoid + maxillary sinuses (extension through thin lamina papyracea into | hypointense on T1WI + hyperintense on T2WI | diffuse hypoechoic area invading retrobulbar fat"
+}

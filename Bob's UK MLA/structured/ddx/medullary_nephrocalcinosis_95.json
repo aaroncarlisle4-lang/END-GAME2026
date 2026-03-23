@@ -1,0 +1,162 @@
+{
+  "finding": "Medullary Nephrocalcinosis (95%",
+  "slug": "medullary_nephrocalcinosis_95",
+  "chapter": "C. INFILTRATION",
+  "source_file": "processed_clusters/c_infiltration/medullary_nephrocalcinosis_95.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "HYPERCALCIURIA (a)  endocrine",
+      "raw": "HYPERCALCIURIA (a)  endocrine",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism in 5%",
+      "raw": "Hyperparathyroidism in 5% (1° >> 2°)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Paraneoplastic syndrome of lung + kidney ← ectopic parathormone production",
+      "raw": "Paraneoplastic syndrome of lung + kidney ← ectopic parathormone production",
+      "frequency": null
+    },
+    {
+      "name": "Cushing syndrome",
+      "raw": "Cushing syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes insipidus",
+      "raw": "Diabetes insipidus",
+      "frequency": null
+    },
+    {
+      "name": "Hyperthyroidism / hypothyroidism",
+      "raw": "Hyperthyroidism / hypothyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Glycogen storage disease Type I (b)  alimentary",
+      "raw": "Glycogen storage disease Type I (b)  alimentary",
+      "frequency": null
+    },
+    {
+      "name": "Absorptive hypercalcemia",
+      "raw": "Absorptive hypercalcemia",
+      "frequency": null
+    },
+    {
+      "name": "Milk-alkali syndrome = excess calcium + alkali ← milk + antacids",
+      "raw": "Milk-alkali syndrome = excess calcium + alkali ← milk + antacids",
+      "frequency": null
+    },
+    {
+      "name": "Hypervitaminosis D",
+      "raw": "Hypervitaminosis D",
+      "frequency": null
+    },
+    {
+      "name": "Beryllium poisoning (c)  osseous",
+      "raw": "Beryllium poisoning (c)  osseous",
+      "frequency": null
+    },
+    {
+      "name": "Osseous metastases, multiple myeloma",
+      "raw": "Osseous metastases, multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Prolonged immobilization",
+      "raw": "Prolonged immobilization",
+      "frequency": null
+    },
+    {
+      "name": "Progressive senile osteoporosis (d)  renal",
+      "raw": "Progressive senile osteoporosis (d)  renal",
+      "frequency": null
+    },
+    {
+      "name": "Medullary sponge kidney",
+      "raw": "Medullary sponge kidney",
+      "frequency": null
+    },
+    {
+      "name": "Distal renal tubular acidosis",
+      "raw": "Distal renal tubular acidosis (in 73% of primary RTA)",
+      "frequency": "73%"
+    },
+    {
+      "name": "Chronic glomerulonephritis",
+      "raw": "Chronic glomerulonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Bartter syndrome tubular disorder with potassium + sodium wasting, hyperplasia of juxtaglomerular apparatus, hyperaldosteronism, hypokalemic alkalosis, and normal blood pressure (e)  drug therapy",
+      "raw": "Bartter syndrome tubular disorder with potassium + sodium wasting, hyperplasia of juxtaglomerular apparatus, hyperaldosteronism, hypokalemic alkalosis, and normal blood pressure (e)  drug therapy",
+      "frequency": null
+    },
+    {
+      "name": "Furosemide",
+      "raw": "Furosemide (in infants)",
+      "frequency": null
+    },
+    {
+      "name": "Prolonged ACTH therapy",
+      "raw": "Prolonged ACTH therapy",
+      "frequency": null
+    },
+    {
+      "name": "Vitamin E",
+      "raw": "Vitamin E (orally)",
+      "frequency": null
+    },
+    {
+      "name": "Vitamin D excess",
+      "raw": "Vitamin D excess",
+      "frequency": null
+    },
+    {
+      "name": "Calcium",
+      "raw": "Calcium (orally)",
+      "frequency": null
+    },
+    {
+      "name": "Nephrotoxic drugs: outdated tetracycline, amphotericin B (f)  miscellaneous",
+      "raw": "Nephrotoxic drugs: outdated tetracycline, amphotericin B (f)  miscellaneous",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic hypercalciuria",
+      "raw": "Idiopathic hypercalciuria",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic hypercalcemia",
+      "raw": "Idiopathic hypercalcemia",
+      "frequency": null
+    },
+    {
+      "name": "Sjögren syndrome (distal RTA) (g)  genetic",
+      "raw": "Sjögren syndrome (distal RTA) (g)  genetic",
+      "frequency": null
+    },
+    {
+      "name": "Williams syndrome",
+      "raw": "Williams syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Kenny-Caffey syndrome",
+      "raw": "Kenny-Caffey syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  calcifications involving the distal convoluted tubules in the loops of Henle Frequency:   95% of all nephrocalcinoses Cause:"
+}

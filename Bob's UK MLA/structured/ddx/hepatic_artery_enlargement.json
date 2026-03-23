@@ -1,0 +1,32 @@
+{
+  "finding": "Hepatic Artery Enlargement",
+  "slug": "hepatic_artery_enlargement",
+  "chapter": "LIVER CIRCULATION",
+  "source_file": "processed_clusters/liver_circulation/hepatic_artery_enlargement.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cirrhosis → compensatory response to decreased portal venous flow",
+      "raw": "Cirrhosis → compensatory response to decreased portal venous flow",
+      "frequency": null
+    },
+    {
+      "name": "Intrahepatic arteriovenous shunting (a)  vascular neoplasm (b)  hepatic artery-portal vein fistula",
+      "raw": "Intrahepatic arteriovenous shunting (a)  vascular neoplasm (b)  hepatic artery-portal vein fistula",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary hemorrhagic telangiectasia",
+      "raw": "Hereditary hemorrhagic telangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Chronic active hepatitis",
+      "raw": "Chronic active hepatitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "A high RI is not specific for liver disease; therefore, it is less meaningful as an isolated finding than is a low RI. Cause:   biopsy, trauma √  turbulent high-velocity low-resistance flow √  soft-tissue bruit (= random assignment of color in perivascular soft tissue due to tissue vibration) √  arterialized frequently retrograde flow in portal vein √  large tortuous feeding arteries with high velocity + aliased flow √  multiple dilated vessels (representing AVMs) √  large draining veins √  areas of fatty change + fibrosis"
+}

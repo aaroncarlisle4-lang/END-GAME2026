@@ -1,0 +1,21 @@
+{
+  "name": "SPRENGEL DEFORMITY",
+  "slug": "sprengel_deformity",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/sprengel_deformity.md",
+  "definition": "failure of descent of scapula ← fibrous / osseous omovertebral connection",
+  "demographics": {
+    "Associated with": "Klippel-Feil syndrome, renal anomalies"
+  },
+  "dominant_finding": "elevation + medial rotation of scapula",
+  "distribution": "",
+  "discriminating_features": [
+    "elevation + medial rotation of scapula"
+  ],
+  "other_features": {
+    "general": [
+      "elevation + medial rotation of scapula"
+    ]
+  },
+  "clinical": {}
+}

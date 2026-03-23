@@ -1,0 +1,77 @@
+{
+  "finding": "F. METASTATIC TUMOR",
+  "slug": "f_metastatic_tumor_d5752f",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/f_metastatic_tumor_d5752f.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucin-producing neoplasm: carcinoma of colon, breast, stomach",
+      "raw": "Mucin-producing neoplasm: carcinoma of colon, breast, stomach",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian carcinoma",
+      "raw": "Ovarian carcinoma (psammomatous bodies)",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma, thyroid carcinoma, pleural mesothelioma, chondro- and osteosarcoma,",
+      "raw": "Melanoma, thyroid carcinoma, pleural mesothelioma, chondro- and osteosarcoma,",
+      "frequency": null
+    },
+    {
+      "name": "Hepatoma",
+      "raw": "Hepatoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemochromatosis",
+      "raw": "Hemochromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid disease",
+      "raw": "Hydatid disease",
+      "frequency": null
+    },
+    {
+      "name": "Thorotrast",
+      "raw": "Thorotrast",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Granulomas",
+      "raw": "Granulomas (healed)",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Absent mnemonic",
+      "raw": "Absent mnemonic",
+      "frequency": null
+    },
+    {
+      "name": "Porcelain gallbladder",
+      "raw": "Porcelain gallbladder",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "carcinoid, leiomyosarcoma, neuroblastoma mnemonic:   4H TAG MAP"
+}

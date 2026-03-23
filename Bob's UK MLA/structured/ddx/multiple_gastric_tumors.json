@@ -1,0 +1,42 @@
+{
+  "finding": "Multiple Gastric Tumors",
+  "slug": "multiple_gastric_tumors",
+  "chapter": "C. ENDOCRINE ORGANS",
+  "source_file": "processed_clusters/c_endocrine_organs/multiple_gastric_tumors.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carcinoid tumors",
+      "raw": "Carcinoid tumors",
+      "frequency": null
+    },
+    {
+      "name": "Hyperplastic polyps",
+      "raw": "Hyperplastic polyps",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatous polyps: familial adenomatous polyposis syndrome",
+      "raw": "Adenomatous polyps: familial adenomatous polyposis syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hamartomatous polyps: Peutz-Jeghers syndrome",
+      "raw": "Hamartomatous polyps: Peutz-Jeghers syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Multiple hamartomas: Cowden disease",
+      "raw": "Multiple hamartomas: Cowden disease",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases (usually intramural)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

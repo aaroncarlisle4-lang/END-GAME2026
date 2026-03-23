@@ -1,0 +1,42 @@
+{
+  "finding": "Mixed Fat- and Water-density Lesion",
+  "slug": "mixed_fat_and_water_density_lesion_b6f981",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/mixed_fat_and_water_density_lesion_b6f981.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibroadenolipoma / hamartoma",
+      "raw": "Fibroadenolipoma / hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Intramammary lymph node",
+      "raw": "Intramammary lymph node",
+      "frequency": null
+    },
+    {
+      "name": "Galactocele",
+      "raw": "Galactocele",
+      "frequency": null
+    },
+    {
+      "name": "Hamartoma = lipofibroadenoma = fibroadenolipoma",
+      "raw": "Hamartoma = lipofibroadenoma = fibroadenolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Small superficial hematoma",
+      "raw": "Small superficial hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Cancer engulfing fat",
+      "raw": "Cancer engulfing fat",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  irregular / spiculated margins]"
+}

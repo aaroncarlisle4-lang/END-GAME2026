@@ -1,0 +1,22 @@
+{
+  "finding": "Hemangioblastoma Of Spine (DDx)",
+  "slug": "hemangioblastoma_of_spine_ddx_d126d0",
+  "chapter": "Hemangioblastoma Of Spine",
+  "source_file": "processed_clusters/hemangioblastoma_of_spine/hemangioblastoma_of_spine_ddx_d126d0.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "arteriovenous fistula (not well circumscribed",
+      "raw": "arteriovenous fistula (not well circumscribed",
+      "frequency": null
+    },
+    {
+      "name": "heterogeneous signal intensity)",
+      "raw": "heterogeneous signal intensity)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "occasionally cystic mass with enhancing mural nodule (CLASSIC for cerebellar | densely staining tumor nodule | ± surrounding edema and \"cap\" sign | well-demarcated Gd-enhancing mass"
+}

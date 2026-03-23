@@ -1,0 +1,37 @@
+{
+  "finding": "Edema & Pulmonary Venoocclusive Disease",
+  "slug": "edema_pulmonary_venoocclusive_disease_3dae52",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/edema_pulmonary_venoocclusive_disease_3dae52.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "rapidly progressive dyspnea, orthopnea ± hemoptysis",
+      "raw": "rapidly progressive dyspnea, orthopnea ± hemoptysis",
+      "frequency": null
+    },
+    {
+      "name": "normal / low pulmonary capillary wedge pressure",
+      "raw": "normal / low pulmonary capillary wedge pressure",
+      "frequency": null
+    },
+    {
+      "name": "Extensive crush injuries with associated muscle damage and ensuing renal insufficiency",
+      "raw": "Extensive crush injuries with associated muscle damage and ensuing renal insufficiency (from motionless recumbency)",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration of gastric contents",
+      "raw": "Aspiration of gastric contents",
+      "frequency": null
+    },
+    {
+      "name": "12 mmHg increase in pulmonary capillary wedge pressure",
+      "raw": "12 mmHg increase in pulmonary capillary wedge pressure (= direct toxic effect on myocardium)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:    organized thrombi in small veins causes an increase in peripheral resistance and hydrostatic pressure √  enlarged pulmonary arteries √  diffuse interstitial edema + numerous Kerley lines √  peribronchial cuffing √  dilated right ventricle Permeability Edema Heroin-induced Pulmonary Edema Hx:  overdose of opiates (almost exclusively with heroin, rarely with cocaine / \"crack\") Frequency:   15% of cases of heroin overdose Pathophysiology:   depression of medullary respiratory center leading to hypoxia + acidosis √  widespread patchy bilateral airspace consolidations √  ill-defined vesse"
+}

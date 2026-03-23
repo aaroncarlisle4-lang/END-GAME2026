@@ -1,0 +1,47 @@
+{
+  "finding": "A. BENIGN TUMOR",
+  "slug": "a_benign_tumor",
+  "chapter": "Spectrum of Orbital Disorders",
+  "source_file": "processed_clusters/spectrum_of_orbital_disorders/a_benign_tumor.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma <  1% of all pediatric orbital tumors",
+      "raw": "Teratoma <  1% of all pediatric orbital tumors",
+      "frequency": "1%"
+    },
+    {
+      "name": "Capillary hemangioma",
+      "raw": "Capillary hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Plexiform neurofibroma",
+      "raw": "Plexiform neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory orbital pseudotumor",
+      "raw": "Inflammatory orbital pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytosis X lesion usually arises from bone",
+      "raw": "Histiocytosis X lesion usually arises from bone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  ± areas of fat, cartilage, bone √  expansion of bony orbit ± bone defect"
+}

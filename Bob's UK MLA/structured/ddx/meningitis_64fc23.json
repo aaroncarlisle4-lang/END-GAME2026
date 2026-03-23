@@ -1,0 +1,112 @@
+{
+  "finding": "MENINGITIS",
+  "slug": "meningitis_64fc23",
+  "chapter": "MELANOCYTOMA",
+  "source_file": "processed_clusters/melanocytoma/meningitis_64fc23.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pachymeningitis: infection of dura mater",
+      "raw": "Pachymeningitis: infection of dura mater",
+      "frequency": null
+    },
+    {
+      "name": "Leptomeningitis: infection of pia matter / arachnoid (most common) + CSF",
+      "raw": "Leptomeningitis: infection of pia matter / arachnoid (most common) + CSF",
+      "frequency": "most common"
+    },
+    {
+      "name": "headaches, stiff neck, confusion, disorientation",
+      "raw": "headaches, stiff neck, confusion, disorientation",
+      "frequency": null
+    },
+    {
+      "name": "positive CSF lab analysis",
+      "raw": "positive CSF lab analysis",
+      "frequency": null
+    },
+    {
+      "name": "to exclude parenchymal abscess, ventriculitis, localized empyema",
+      "raw": "to exclude parenchymal abscess, ventriculitis, localized empyema",
+      "frequency": null
+    },
+    {
+      "name": "to evaluate paranasal sinuses / temporal bone as source of infection",
+      "raw": "to evaluate paranasal sinuses / temporal bone as source of infection",
+      "frequency": null
+    },
+    {
+      "name": "to monitor complications: hydrocephalus, subdural effusion, infarction",
+      "raw": "to monitor complications: hydrocephalus, subdural effusion, infarction",
+      "frequency": null
+    },
+    {
+      "name": "fever, headache, seizures, altered consciousness, neck stiffness",
+      "raw": "fever, headache, seizures, altered consciousness, neck stiffness",
+      "frequency": null
+    },
+    {
+      "name": "Cerebritis (parenchymal) / subdural infection, especially with streptococcus / staphylococcus",
+      "raw": "Cerebritis (parenchymal) / subdural infection, especially with streptococcus / staphylococcus",
+      "frequency": null
+    },
+    {
+      "name": "Ventriculitis ← retrograde spread",
+      "raw": "Ventriculitis ← retrograde spread",
+      "frequency": null
+    },
+    {
+      "name": "Brain atrophy",
+      "raw": "Brain atrophy",
+      "frequency": null
+    },
+    {
+      "name": "Brain infarction ← arteritis, venous thrombosis",
+      "raw": "Brain infarction ← arteritis, venous thrombosis (5-15% of adults, in up to 30% of neonates)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Subdural effusion",
+      "raw": "Subdural effusion [sterile subdural effusion ← H. influenzae meningitis (in children) may turn into subdural empyema]",
+      "frequency": null
+    },
+    {
+      "name": "Hydrocephalus ← cellular debris blocking foramen of Monro, aqueduct, 4th ventricular outlet / intraventricular septa / arachnoid adhesions",
+      "raw": "Hydrocephalus ← cellular debris blocking foramen of Monro, aqueduct, 4th ventricular outlet / intraventricular septa / arachnoid adhesions",
+      "frequency": null
+    },
+    {
+      "name": "Cranial nerve dysfunction",
+      "raw": "Cranial nerve dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous meningitis = basilar meningitis part of generalized miliary tuberculosis / primary tuberculous infection",
+      "raw": "Tuberculous meningitis = basilar meningitis part of generalized miliary tuberculosis / primary tuberculous infection",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (in 5% of sarcoidosis cases)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Fungal meningitis: coccidioidomycosis (endemic), blastomycosis, mucormycosis (diabetics), nocardiosis, actinomycosis, aspergillosis (under chronic corticosteroid",
+      "raw": "Fungal meningitis: coccidioidomycosis (endemic), blastomycosis, mucormycosis (diabetics), nocardiosis, actinomycosis, aspergillosis (under chronic corticosteroid",
+      "frequency": null
+    },
+    {
+      "name": "acute life-threatening process / chronic indolent disease",
+      "raw": "acute life-threatening process / chronic indolent disease",
+      "frequency": null
+    },
+    {
+      "name": "Infarction ← arteritis",
+      "raw": "Infarction ← arteritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  infection of the pia mater + arachnoid + adjacent CSF ROLE of CT and MR: Chemical / Aseptic Meningitis =  rare complication of dermoid / epidermoid cyst ← cyst rupture into subarachnoid space MR: √  T1-hyperintense speckles in cortical sulci √  fat-fluid level in ventricles Purulent / Bacterial / Acute Septic Meningitis Cause:  otitis media / sinusitis Organism: (a) adults:   Neisseria meningitidis, Diplococcus pneumoniae, Haemophilus influenzae, Meningococcus, Staphylococcus aureus (b) children:   group B Streptococcus (86%), S pneumonia (= Pneumococcus in 58%), Escherichia coli, Citrobact"
+}

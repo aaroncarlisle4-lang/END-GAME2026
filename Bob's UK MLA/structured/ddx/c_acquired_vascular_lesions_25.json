@@ -1,0 +1,32 @@
+{
+  "finding": "C. ACQUIRED VASCULAR LESIONS (25%",
+  "slug": "c_acquired_vascular_lesions_25",
+  "chapter": "Pulsatile tinnitus ± Vascular Tympanic Membrane",
+  "source_file": "processed_clusters/pulsatile_tinnitus_vascular_tympanic_membrane/c_acquired_vascular_lesions_25.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dural AVM",
+      "raw": "Dural AVM",
+      "frequency": null
+    },
+    {
+      "name": "Extracranial arteriovenous fistula",
+      "raw": "Extracranial arteriovenous fistula",
+      "frequency": null
+    },
+    {
+      "name": "High-grade stenotic vascular lesion:",
+      "raw": "High-grade stenotic vascular lesion:",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm involving horizontal segment of petrous ICA",
+      "raw": "Aneurysm involving horizontal segment of petrous ICA",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "carotid artery atherosclerosis, fibromuscular dysplasia, carotid artery dissection"
+}

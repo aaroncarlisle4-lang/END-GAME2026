@@ -1,0 +1,131 @@
+{
+  "finding": "Cause: increased intracranial pressure",
+  "slug": "cause_increased_intracranial_pressure_525ee7",
+  "chapter": "HEAD TRAUMA",
+  "source_file": "processed_clusters/head_trauma/cause_increased_intracranial_pressure_525ee7.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Secondary \"delayed\" hemorrhage",
+      "raw": "Secondary \"delayed\" hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Secondary brainstem injury",
+      "raw": "Secondary brainstem injury (mechanical compression, secondary (Duret) hemorrhage in tegmentum of rostral pons + midbrain, infarction of median / paramedian perforating arteries, necrosis)",
+      "frequency": null
+    },
+    {
+      "name": "Other",
+      "raw": "Other (eg, fatty embolism, infection)",
+      "frequency": null
+    },
+    {
+      "name": "Duret hemorrhage =  delayed 2ndary hemorrhage in ventral + paramedian aspects of upper brainstem (mesencephalon + pons) due to massive temporal lobe herniation causing stretching + laceration of pontine perforating branches of basilar artery",
+      "raw": "Duret hemorrhage =  delayed 2ndary hemorrhage in ventral + paramedian aspects of upper brainstem (mesencephalon + pons) due to massive temporal lobe herniation causing stretching + laceration of pontine perforating branches of basilar artery",
+      "frequency": null
+    },
+    {
+      "name": "Kernohan phenomenon =  contusion of contralateral brainstem caused by pressure of free edge of tentorium [ipsilateral pupillary dilatation]",
+      "raw": "Kernohan phenomenon =  contusion of contralateral brainstem caused by pressure of free edge of tentorium",
+      "frequency": null,
+      "sites": [
+        "ipsilateral pupillary dilatation"
+      ]
+    },
+    {
+      "name": "ipsilateral oculomotor nerve palsy [ipsilateral hemiparesis]",
+      "raw": "ipsilateral oculomotor nerve palsy",
+      "frequency": null,
+      "sites": [
+        "ipsilateral hemiparesis"
+      ]
+    },
+    {
+      "name": "Direct impact on brain ← fracture / skull distortion",
+      "raw": "Direct impact on brain ← fracture / skull distortion",
+      "frequency": null
+    },
+    {
+      "name": "Cortical laceration ← depressed fracture fragment",
+      "raw": "Cortical laceration ← depressed fracture fragment",
+      "frequency": null
+    },
+    {
+      "name": "Epidural hematoma",
+      "raw": "Epidural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Indirect injury irrespective of skull deformation",
+      "raw": "Indirect injury irrespective of skull deformation",
+      "frequency": null
+    },
+    {
+      "name": "Cortical contusion",
+      "raw": "Cortical contusion (brain surface)",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse axonal injury",
+      "raw": "Diffuse axonal injury (white matter)",
+      "frequency": null
+    },
+    {
+      "name": "Brainstem + deep gray matter nuclei ›  linear acceleration forces",
+      "raw": "Brainstem + deep gray matter nuclei ›  linear acceleration forces (less common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Subdural hematoma",
+      "raw": "Subdural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Small superficial contusion",
+      "raw": "Small superficial contusion",
+      "frequency": null
+    },
+    {
+      "name": "Scalp",
+      "raw": "Scalp",
+      "frequency": null
+    },
+    {
+      "name": "Scalp abrasion: not visible",
+      "raw": "Scalp abrasion: not visible",
+      "frequency": null
+    },
+    {
+      "name": "Scalp laceration: air inclusion",
+      "raw": "Scalp laceration: air inclusion",
+      "frequency": null
+    },
+    {
+      "name": "Scalp contusion: salt-and-pepper densities",
+      "raw": "Scalp contusion: salt-and-pepper densities",
+      "frequency": null
+    },
+    {
+      "name": "Subgaleal hematoma [Skull fracture:]",
+      "raw": "Subgaleal hematoma",
+      "frequency": null,
+      "sites": [
+        "Skull fracture:"
+      ]
+    },
+    {
+      "name": "Epidural hematoma",
+      "raw": "Epidural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Subdural hematoma",
+      "raw": "Subdural hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   cingulate, uncal, parahippocampal gyri, cerebellar tonsils Pathophysiology: expanding supratentorial mass forces medial aspect of temporal lobe downward over tentorium compressing the neighboring oculomotor nerve (III); lateral pressure on midbrain compresses opposite crus cerebri against free edge of tentorium forming indentation in crus (Kernohan notch) Pathomechanism: √  scalp / skull abnormal √  superficial neural damage localized to immediate vicinity of calvarial injury √  scalp / skull normal (a)  compression-rarefaction strain = change in cell volume without change in shape"
+}

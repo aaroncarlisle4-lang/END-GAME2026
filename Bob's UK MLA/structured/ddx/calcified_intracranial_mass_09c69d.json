@@ -1,0 +1,52 @@
+{
+  "finding": "Calcified Intracranial Mass",
+  "slug": "calcified_intracranial_mass_09c69d",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/calcified_intracranial_mass_09c69d.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Oligodendroglioma",
+      "raw": "Oligodendroglioma (frequent, although rare tumor)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Low-grade astrocytoma (in 10-20%) mnemonic:   Ca2+ COME",
+      "raw": "Low-grade astrocytoma (in 10-20%) mnemonic:   Ca2+ COME",
+      "frequency": "20%"
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Astrocytoma, Aneurysm",
+      "raw": "Astrocytoma, Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Choroid plexus papilloma",
+      "raw": "Choroid plexus papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Oligodendroglioma",
+      "raw": "Oligodendroglioma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

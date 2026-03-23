@@ -1,0 +1,37 @@
+{
+  "finding": "MYELOLIPOMA",
+  "slug": "myelolipoma",
+  "chapter": "MYCETOMA",
+  "source_file": "processed_clusters/mycetoma/myelolipoma.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "usually clinically occult",
+      "raw": "usually clinically occult",
+      "frequency": null
+    },
+    {
+      "name": "pain",
+      "raw": "pain (from spontaneous hemorrhage if large)",
+      "frequency": null
+    },
+    {
+      "name": "Predilection for:   perirenal + presacral spaces",
+      "raw": "Predilection for:   perirenal + presacral spaces",
+      "frequency": null
+    },
+    {
+      "name": "Site:   unilateral÷bilateral = 10÷1; RT÷LT = 3÷1",
+      "raw": "Site:   unilateral÷bilateral = 10÷1; RT÷LT = 3÷1",
+      "frequency": null
+    },
+    {
+      "name": "Mean size:   10 (range, 2-17) cm;",
+      "raw": "Mean size:   10 (range, 2-17) cm;",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  uncommon benign tumor composed of hematopoietic cells + mature fat resembling bone marrow Prevalence:   0.08-0.20% (autopsy series); 3-6% of all incidental primary adrenal tumors Mean age:   55 years (for adrenal myelolipoma); M÷F = 2÷3; 64 years (for extraadrenal myelolipoma) Cause:   chronic ACTH elevation → metaplasia of adrenocortical cells precipitated by chronic stress / degeneration Path:   mature fat (0-100%) interspersed with hematopoietic cells resembling bone marrow + pseudocapsule Histo:   variable mixture of megakaryocytes, myeloid and leukocyte precursor cells, erythroid cells"
+}

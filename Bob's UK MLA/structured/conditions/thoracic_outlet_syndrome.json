@@ -1,0 +1,46 @@
+{
+  "name": "THORACIC OUTLET SYNDROME",
+  "slug": "thoracic_outlet_syndrome",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/thoracic_outlet_syndrome.md",
+  "definition": "neurovascular syndrome caused by compression of subclavian vessels + brachial plexus EFFORT THROMBOSIS primary thrombosis of subclavian vein at costoclavicular junction (= subtype of thoracic",
+  "demographics": {
+    "Prevalence": "0.3-8.0%",
+    "Age": "20-40 years; M÷F = 1÷3 to 1÷4",
+    "Incidence": "1-2÷100,000 annually"
+  },
+  "dominant_finding": "denervation-related fatty atrophy of muscles",
+  "distribution": "focal stenosis / occlusion",
+  "discriminating_features": [
+    "complete cessation of flow in one position",
+    "complete disappearance of pulse in one position",
+    "denervation-related fatty atrophy of muscles",
+    "effacement of fat planes around compressed plexus",
+    "abnormal intramuscular course of brachial plexus components"
+  ],
+  "other_features": {
+    "general": [
+      "complete cessation of flow in one position",
+      "complete disappearance of pulse in one position"
+    ],
+    "ANGIO": [
+      "abnormal course of distal subclavian artery",
+      "focal stenosis / occlusion",
+      "poststenotic dilatation of distal subclavian artery",
+      "aneurysm",
+      "stress test: bandlike / concentric constriction",
+      "mural thrombus ± distal embolization",
+      "venous thrombosis / obstruction",
+      "vascular compression",
+      "collateral arterial circulation"
+    ],
+    "MR": [
+      "denervation-related fatty atrophy of muscles",
+      "effacement of fat planes around compressed plexus",
+      "abnormal intramuscular course of brachial plexus components"
+    ]
+  },
+  "clinical": {
+    "Rx": "physical therapy; NSAID; muscle relaxants"
+  }
+}

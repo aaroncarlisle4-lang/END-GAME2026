@@ -1,0 +1,27 @@
+{
+  "finding": "Uterus (DDx)",
+  "slug": "uterus_ddx",
+  "chapter": "Uterus",
+  "source_file": "processed_clusters/uterus/uterus_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "endometritis",
+      "raw": "endometritis",
+      "frequency": null
+    },
+    {
+      "name": "uterine dehiscence / perforation",
+      "raw": "uterine dehiscence / perforation",
+      "frequency": null
+    },
+    {
+      "name": "subinvolution of placental implantation site",
+      "raw": "subinvolution of placental implantation site",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

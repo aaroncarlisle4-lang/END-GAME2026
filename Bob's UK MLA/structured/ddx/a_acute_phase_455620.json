@@ -1,0 +1,37 @@
+{
+  "finding": "A. ACUTE PHASE",
+  "slug": "a_acute_phase_455620",
+  "chapter": "Air-space Opacification in Trauma",
+  "source_file": "processed_clusters/air_space_opacification_in_trauma/a_acute_phase_455620.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pulmonary contusion",
+      "raw": "Pulmonary contusion",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary laceration",
+      "raw": "Pulmonary laceration",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration pneumonia",
+      "raw": "Aspiration pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Atelectasis ← splinting / mucous plug",
+      "raw": "Atelectasis ← splinting / mucous plug",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary edema: cardiogenic / noncardiogenic",
+      "raw": "Pulmonary edema: cardiogenic / noncardiogenic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

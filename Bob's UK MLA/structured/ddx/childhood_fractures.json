@@ -1,0 +1,37 @@
+{
+  "finding": "Childhood Fractures",
+  "slug": "childhood_fractures",
+  "chapter": "BONE TRAUMA",
+  "source_file": "processed_clusters/bone_trauma/childhood_fractures.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Greenstick fracture",
+      "raw": "Greenstick fracture",
+      "frequency": null
+    },
+    {
+      "name": "Bowing fracture",
+      "raw": "Bowing fracture",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic epiphyseolysis",
+      "raw": "Traumatic epiphyseolysis",
+      "frequency": null
+    },
+    {
+      "name": "Battered child syndrome",
+      "raw": "Battered child syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Epiphyseal plate injury",
+      "raw": "Epiphyseal plate injury",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

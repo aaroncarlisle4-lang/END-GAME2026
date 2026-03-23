@@ -1,0 +1,25 @@
+{
+  "finding": "Hepatic Angiosarcoma (DDx)",
+  "slug": "hepatic_angiosarcoma_ddx_3bbb7c",
+  "chapter": "Hepatic Angiosarcoma",
+  "source_file": "processed_clusters/hepatic_angiosarcoma/hepatic_angiosarcoma_ddx_3bbb7c.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "cavernous hemangioma",
+      "raw": "cavernous hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "HCC",
+      "raw": "HCC (no splenic metastases)",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "cavernous hemangioma": [],
+    "HCC": []
+  },
+  "context": "hypervascular stain around tumor periphery in late arterial phase with puddling; NO arterial | may demonstrate marked uptake in liver tumor | localization of extrahepatic disease"
+}

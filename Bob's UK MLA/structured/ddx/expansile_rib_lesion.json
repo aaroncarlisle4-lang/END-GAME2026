@@ -1,0 +1,82 @@
+{
+  "finding": "Expansile Rib Lesion",
+  "slug": "expansile_rib_lesion",
+  "chapter": "RIBS",
+  "source_file": "processed_clusters/ribs/expansile_rib_lesion.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteochondroma",
+      "raw": "Osteochondroma (25% of all benign rib tumors)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma (7% of all benign rib tumors)",
+      "frequency": "7%"
+    },
+    {
+      "name": "Lymphoma / Leukemia",
+      "raw": "Lymphoma / Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Hematopoiesis",
+      "raw": "Hematopoiesis",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Chondromyxoid fibroma",
+      "raw": "Chondromyxoid fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiomatosis",
+      "raw": "Lymphangiomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma",
+      "raw": "Plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "ARTERIAL",
+      "raw": "ARTERIAL",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Abnormal Rib Shape Rib Notching on Inferior Margin =  minimal concave scalloping / deep ridges along the neurovascular groove with reactive sclerosis ◊  Minor undulations in the inferior ribs are normal! ◊  The medial third of posterior ribs near transverse process of vertebrae may be notched normally!"
+}

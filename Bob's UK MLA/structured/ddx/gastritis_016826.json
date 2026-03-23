@@ -1,0 +1,39 @@
+{
+  "finding": "GASTRITIS",
+  "slug": "gastritis_016826",
+  "chapter": "GASTRIC ULCER",
+  "source_file": "processed_clusters/gastric_ulcer/gastritis_016826.md",
+  "quality_score": 0.433,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "epigastric pain, nausea, vomiting, loss of appetite",
+      "raw": "epigastric pain, nausea, vomiting, loss of appetite",
+      "frequency": null
+    },
+    {
+      "name": "clinically usually silent",
+      "raw": "clinically usually silent",
+      "frequency": null
+    },
+    {
+      "name": "ACUTE CHANGES",
+      "raw": "ACUTE CHANGES (edema + mucosal sloughing)",
+      "frequency": null
+    },
+    {
+      "name": "CHRONIC CHANGES",
+      "raw": "CHRONIC CHANGES",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "epigastric pain, nausea, vomiting, loss of appetite": [],
+    "clinically usually silent": [
+      "mucosal hyperemia Corrosive Gastritis Agents: (a)  acid, formaldehyde Location:  esophagus usually unharmed, severe gastric damage, duodenum may be involved"
+    ],
+    "ACUTE CHANGES": [],
+    "CHRONIC CHANGES": []
+  },
+  "context": "=  common condition often resulting in submucosal edema and hyperplasia of gastric mucosa Cause:   Helicobacter pylori infection (most common), nonsteroidal anti-inflammatory drugs (NSAIDs), alcohol, systemic illness Distribution:   focal / segmental / diffuse CT: √  gastric wall / fold thickening (best appreciated when stomach distended) √  mural stratification (best during arterial phase): √  diffuse submucosal low attenuation ← edema √  mucosal hyperemia Corrosive Gastritis Agents: (a)  acid, formaldehyde Location:  esophagus usually unharmed, severe gastric damage, duodenum may be involved"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "C. INFECTION",
+  "slug": "c_infection_3",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/c_infection_3.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Candidiasis",
+      "raw": "Candidiasis",
+      "frequency": null
+    },
+    {
+      "name": "Herpes simplex virus / CMV",
+      "raw": "Herpes simplex virus / CMV",
+      "frequency": null
+    },
+    {
+      "name": "Diphtheria",
+      "raw": "Diphtheria",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

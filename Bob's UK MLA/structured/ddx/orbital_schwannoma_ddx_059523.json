@@ -1,0 +1,22 @@
+{
+  "finding": "Orbital Schwannoma (DDx)",
+  "slug": "orbital_schwannoma_ddx_059523",
+  "chapter": "Orbital Schwannoma",
+  "source_file": "processed_clusters/orbital_schwannoma/orbital_schwannoma_ddx_059523.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cavernous malformation (homogeneous pattern",
+      "raw": "cavernous malformation (homogeneous pattern",
+      "frequency": null
+    },
+    {
+      "name": "progressive enhancement)",
+      "raw": "progressive enhancement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-circumscribed mass: | uniformly T1-isointense ± variations | T2-hyperintense heterogeneous pattern ← mixture of solid and cystic components | typically heterogeneous uptake of contrast medium"
+}

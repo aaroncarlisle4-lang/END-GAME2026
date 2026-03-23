@@ -1,0 +1,32 @@
+{
+  "finding": "Retroperitoneal Lymphangioma (DDx)",
+  "slug": "retroperitoneal_lymphangioma_ddx_4f68c2",
+  "chapter": "Retroperitoneal Lymphangioma",
+  "source_file": "processed_clusters/retroperitoneal_lymphangioma/retroperitoneal_lymphangioma_ddx_4f68c2.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "adrenal cyst",
+      "raw": "adrenal cyst",
+      "frequency": null
+    },
+    {
+      "name": "hemangioma",
+      "raw": "hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "cystic pheochromocytoma",
+      "raw": "cystic pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "schwannoma with cystic degeneration",
+      "raw": "schwannoma with cystic degeneration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thin-walled multilocular cystic lesion near fluid attenuation | thin septa WITHOUT internal enhancement | decreased SI on T1WI + increased intensity on T2WI"
+}

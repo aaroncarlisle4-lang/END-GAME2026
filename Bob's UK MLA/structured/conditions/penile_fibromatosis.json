@@ -1,0 +1,32 @@
+{
+  "name": "PENILE FIBROMATOSIS",
+  "slug": "penile_fibromatosis",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/penile_fibromatosis.md",
+  "definition": "PEYRONIE DISEASE = INDURATIO PENIS PLASTICA benign acquired condition characterized by chronic inflammation → fibrosis + focal",
+  "demographics": {
+    "Prevalence": "3%",
+    "Age": "40-60 years",
+    "Associated with": "palmar fibromatosis (Dupuytren contracture) in 16-20%, plantar"
+  },
+  "dominant_finding": "focal hyperechoic thickening of tunica albuginea with shadowing ← calcification",
+  "distribution": "focal hyperechoic thickening of tunica albuginea with shadowing ← calcification",
+  "discriminating_features": [
+    "focal hyperechoic thickening of tunica albuginea with shadowing ← calcification",
+    "focal nonshadowing echogenic thickening of tunica",
+    "nodular echogenic thickening of intercorporeal septum",
+    "iso- / hypoechoic plaques (rare)",
+    "hypointense focal thickening of tunica on T1WI + T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "focal hyperechoic thickening of tunica albuginea with shadowing ← calcification",
+      "focal nonshadowing echogenic thickening of tunica",
+      "nodular echogenic thickening of intercorporeal septum",
+      "iso- / hypoechoic plaques (rare)",
+      "hypointense focal thickening of tunica on T1WI + T2WI",
+      "enhancement during active inflammation"
+    ]
+  },
+  "clinical": {}
+}

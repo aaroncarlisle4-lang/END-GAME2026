@@ -1,0 +1,37 @@
+{
+  "finding": "Peripheral Nerve Sheath Tumor (Pnst) — Abdominal wall (DDx)",
+  "slug": "peripheral_nerve_sheath_tumor_pnst_abdominal_wall_ddx_f8f7aa",
+  "chapter": "Peripheral Nerve Sheath Tumor (Pnst)",
+  "source_file": "processed_clusters/peripheral_nerve_sheath_tumor_pnst/peripheral_nerve_sheath_tumor_pnst_abdominal_wall_ddx_f8f7aa.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "serous / mucinous cystadenocarcinoma",
+      "raw": "serous / mucinous cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "abscess",
+      "raw": "abscess",
+      "frequency": null
+    },
+    {
+      "name": "necrotic metastatic lymphadenopathy",
+      "raw": "necrotic metastatic lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "arachnoid cyst",
+      "raw": "arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "dermoid cyst",
+      "raw": "dermoid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "heterogeneously enhancing mass with cystic areas ← myxoid + hemorrhagic change | fluid-fluid levels ← hemorrhage | ± calcifications / ossification"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Antral Narrowing",
+  "slug": "antral_narrowing_8d3ba7",
+  "chapter": "Gastric Atony",
+  "source_file": "processed_clusters/gastric_atony/antral_narrowing_8d3ba7.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoidosis, Syphilis",
+      "raw": "Sarcoidosis, Syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Peptic ulcer disease",
+      "raw": "Peptic ulcer disease",
+      "frequency": null
+    },
+    {
+      "name": "Infection: TB, chronic granulomatous disease of childhood",
+      "raw": "Infection: TB, chronic granulomatous disease of childhood",
+      "frequency": null
+    },
+    {
+      "name": "Cancer (linitis plastica), Crohn disease, Caustic ingestion",
+      "raw": "Cancer (linitis plastica), Crohn disease, Caustic ingestion",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic gastritis",
+      "raw": "Eosinophilic gastritis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation",
+      "raw": "Radiation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

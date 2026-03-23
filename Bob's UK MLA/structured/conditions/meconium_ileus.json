@@ -1,0 +1,32 @@
+{
+  "name": "MECONIUM ILEUS",
+  "slug": "meconium_ileus",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/meconium_ileus.md",
+  "definition": "small bowel obstruction ← desiccated meconium pellets impacted in distal ileum",
+  "demographics": {
+    "Age": "may develop in utero (in 15%)"
+  },
+  "dominant_finding": "\"soap-bubble\" / \"applesauce\" appearance in RLQ (in 50-66%) ← admixture of gas with",
+  "distribution": "",
+  "discriminating_features": [
+    "numerous dilated small bowel loops without air-fluid levels (fluid not present)",
+    "\"bubbly\" / \"frothy\" appearance of intestinal contents",
+    "\"soap-bubble\" / \"applesauce\" appearance in RLQ (in 50-66%) ← admixture of gas with",
+    "multiple round / oval filling defects in distal ileum + colon",
+    "functional microcolon ← unused colon in antenatal obstruction"
+  ],
+  "other_features": {
+    "general": [
+      "numerous dilated small bowel loops without air-fluid levels (fluid not present)",
+      "\"bubbly\" / \"frothy\" appearance of intestinal contents",
+      "\"soap-bubble\" / \"applesauce\" appearance in RLQ (in 50-66%) ← admixture of gas with",
+      "multiple round / oval filling defects in distal ileum + colon",
+      "functional microcolon ← unused colon in antenatal obstruction",
+      "unusual echogenic intraluminal areas in small bowel (DDx: normal transient inspissated",
+      "usually polyhydramnios",
+      "fluid-filled dilated small bowel"
+    ]
+  },
+  "clinical": {}
+}

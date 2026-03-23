@@ -1,0 +1,53 @@
+{
+  "finding": "ANGIOMATOSIS",
+  "slug": "angiomatosis_a9c62e",
+  "chapter": "AMYLOIDOSIS",
+  "source_file": "processed_clusters/amyloidosis/angiomatosis_a9c62e.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "OSSEOUS ANGIOMATOSIS",
+      "raw": "OSSEOUS ANGIOMATOSIS (30-40%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "indolent course Location:   femur > ribs > spine > pelvis > humerus > scapula > other long bones > clavicle",
+      "raw": "indolent course Location:   femur > ribs > spine > pelvis > humerus > scapula > other long bones > clavicle",
+      "frequency": null
+    },
+    {
+      "name": "CYSTIC ANGIOMATOSIS =  extensive involvement of bone",
+      "raw": "CYSTIC ANGIOMATOSIS =  extensive involvement of bone",
+      "frequency": null
+    },
+    {
+      "name": "SOFT-TISSUE ANGIOMATOSIS (60-70%) =  VISCERAL ANGIOMATOSIS",
+      "raw": "SOFT-TISSUE ANGIOMATOSIS (60-70%) =  VISCERAL ANGIOMATOSIS",
+      "frequency": "70%"
+    },
+    {
+      "name": "poor prognosis",
+      "raw": "poor prognosis",
+      "frequency": null
+    },
+    {
+      "name": "ANGIOMATOUS SYNDROMES",
+      "raw": "ANGIOMATOUS SYNDROMES",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "OSSEOUS ANGIOMATOSIS": [
+      "may occur on both sides of joint DDx:   solitary osseous hemangioma Histo:   endothelium-lined cysts in bone Peak age:   10-15 years (range, 3 months to 55 years) Location:   long bones, skull, flat bones"
+    ],
+    "indolent course Location:   femur > ribs > spine > pelvis > humerus > scapula > other long bones > clavicle": [],
+    "CYSTIC ANGIOMATOSIS =  extensive involvement of bone": [
+      "=  diffuse infiltration of bone / soft tissue by hemangiomatous / lymphangiomatous lesions Age:   first 3 decades of life May be associated with: chylothorax, chyloperitoneum, lymphedema, hepatosplenomegaly, cystic hygroma"
+    ],
+    "SOFT-TISSUE ANGIOMATOSIS (60-70%) =  VISCERAL ANGIOMATOSIS": [],
+    "poor prognosis": [],
+    "ANGIOMATOUS SYNDROMES": []
+  },
+  "context": "=  diffuse infiltration of bone / soft tissue by hemangiomatous / lymphangiomatous lesions Age:   first 3 decades of life May be associated with: chylothorax, chyloperitoneum, lymphedema, hepatosplenomegaly, cystic hygroma √  osteolysis with honeycomb / latticework (\"hole-within-hole\") appearance √  may occur on both sides of joint DDx:   solitary osseous hemangioma Histo:   endothelium-lined cysts in bone Peak age:   10-15 years (range, 3 months to 55 years) Location:   long bones, skull, flat bones √  size of 1-2 mm to several cm √  multiple osteolytic metaphyseal lesions with fine sclerotic"
+}

@@ -1,0 +1,52 @@
+{
+  "finding": "B. UNILATERAL",
+  "slug": "b_unilateral_1",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/b_unilateral_1.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Inadvertent arterial injection",
+      "raw": "Inadvertent arterial injection",
+      "frequency": null
+    },
+    {
+      "name": "Melorheostosis",
+      "raw": "Melorheostosis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic venous stasis",
+      "raw": "Chronic venous stasis",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Vitamin A toxicity",
+      "raw": "Vitamin A toxicity",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

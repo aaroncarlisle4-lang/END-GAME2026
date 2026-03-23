@@ -1,0 +1,42 @@
+{
+  "finding": "Less common: choroid plexus carcinoma, teratoma, angioblastic meningioma",
+  "slug": "less_common_choroid_plexus_carcinoma_teratoma_angioblastic_meningioma_484ae3",
+  "chapter": "MENINGIOMA OF SPINE",
+  "source_file": "processed_clusters/meningioma_of_spine/less_common_choroid_plexus_carcinoma_teratoma_angioblastic_meningioma_484ae3.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Glioblastoma multiforme",
+      "raw": "Glioblastoma multiforme",
+      "frequency": null
+    },
+    {
+      "name": "Oligodendroglioma",
+      "raw": "Oligodendroglioma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Pineoblastoma, PNET",
+      "raw": "Pineoblastoma, PNET",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

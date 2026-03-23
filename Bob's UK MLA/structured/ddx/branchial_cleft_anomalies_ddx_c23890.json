@@ -1,0 +1,32 @@
+{
+  "finding": "Branchial Cleft Anomalies (DDx)",
+  "slug": "branchial_cleft_anomalies_ddx_c23890",
+  "chapter": "Branchial Cleft Anomalies",
+  "source_file": "processed_clusters/branchial_cleft_anomalies/branchial_cleft_anomalies_ddx_c23890.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "necrotic neural tumor",
+      "raw": "necrotic neural tumor",
+      "frequency": null
+    },
+    {
+      "name": "cervical abscess",
+      "raw": "cervical abscess",
+      "frequency": null
+    },
+    {
+      "name": "submandibular gland cyst",
+      "raw": "submandibular gland cyst",
+      "frequency": null
+    },
+    {
+      "name": "cystic",
+      "raw": "cystic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "occasionally fine internal echoes = internal debris (due to hemorrhage / infection) | lack of internal flow | \"beak\" sign = curved rim of tissue pointing medially between internal + external carotid | slight enhancement of capsule"
+}

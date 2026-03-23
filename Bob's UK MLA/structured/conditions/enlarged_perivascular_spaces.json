@@ -1,0 +1,35 @@
+{
+  "name": "ENLARGED PERIVASCULAR SPACES",
+  "slug": "enlarged_perivascular_spaces",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/enlarged_perivascular_spaces.md",
+  "definition": "ENLARGED / ATYPICAL VIRCHOW-ROBIN SPACES small invaginations of subarachnoid space following pia mater along perforating nutrient end giant sievelike Virchow-Robin spaces clusters of variable sized cysts with bizarre cystic configuration and mass effect",
+  "demographics": {
+    "Location": "inferior basal ganglia (lenticulostriate arteries); inferior third of putamen = état"
+  },
+  "dominant_finding": "no restricted diffusion",
+  "distribution": "inferior basal ganglia (lenticulostriate arteries); inferior third of putamen = état",
+  "discriminating_features": [
+    "no restricted diffusion",
+    "no enhancement",
+    "normal signal intensity of surrounding parenchyma",
+    "occasionally central high SI on T1WI ← inflow effect",
+    "small 1-2-mm round lesions isointense to CSF"
+  ],
+  "other_features": {
+    "general": [
+      "no restricted diffusion",
+      "no enhancement",
+      "normal signal intensity of surrounding parenchyma",
+      "occasionally central high SI on T1WI ← inflow effect",
+      "small 1-2-mm round lesions isointense to CSF",
+      "moderate 2-5 mm round lesions isointense to CSF",
+      "clusters of variably sized bizarre cystic spaces bordering ventricles / subarachnoid space",
+      "± hydrocephalus",
+      "± surrounding reactive gliosis"
+    ]
+  },
+  "clinical": {
+    "Cx": "hydrocephalus"
+  }
+}

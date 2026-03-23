@@ -1,0 +1,27 @@
+{
+  "finding": "Pediatric Orbital Tumors",
+  "slug": "pediatric_orbital_tumors_3cb469",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/pediatric_orbital_tumors_3cb469.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Retinoblastoma",
+      "raw": "Retinoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Medulloepithelioma",
+      "raw": "Medulloepithelioma",
+      "frequency": null
+    },
+    {
+      "name": "Optic nerve glioma",
+      "raw": "Optic nerve glioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

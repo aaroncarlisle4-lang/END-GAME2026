@@ -1,0 +1,47 @@
+{
+  "name": "EHLERS-DANLOS SYNDROME",
+  "slug": "ehlers_danlos_syndrome",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/ehlers_danlos_syndrome.md",
+  "definition": "group of autosomal dominant diseases of connective tissue characterized by abnormal",
+  "demographics": {
+    "Age": "present at birth; predominantly in males"
+  },
+  "dominant_finding": "multiple ovoid calcifications (2-10 mm) in subcutis / in fatty cysts (\"spheroids\"), most",
+  "distribution": "diaphragmatic hernia",
+  "discriminating_features": [
+    "multiple ovoid calcifications (2-10 mm) in subcutis / in fatty cysts (\"spheroids\"), most",
+    "ectopic bone formation",
+    "hemarthrosis (particularly in knee)",
+    "malalignment / subluxation / dislocation of joints on stress radiographs",
+    "recurrent dislocations: hip, patella, shoulder, radius, clavicle"
+  ],
+  "other_features": {
+    "general": [
+      "multiple ovoid calcifications (2-10 mm) in subcutis / in fatty cysts (\"spheroids\"), most",
+      "ectopic bone formation"
+    ],
+    "Skeleton": [
+      "hemarthrosis (particularly in knee)",
+      "malalignment / subluxation / dislocation of joints on stress radiographs",
+      "recurrent dislocations: hip, patella, shoulder, radius, clavicle",
+      "precocious osteoarthrosis (predominantly in knees)",
+      "ulnar synostosis",
+      "kyphoscoliosis",
+      "spondylolisthesis",
+      "spina bifida occulta"
+    ],
+    "Chest": [
+      "diaphragmatic hernia",
+      "panacinar emphysema + bulla formation",
+      "tracheobronchomegaly + bronchiectasis"
+    ],
+    "Arteries (= type IV of Ehlers-Danlos syndrome)": [
+      "aneurysm of great vessels, aortic dissection, aortic rupture, tortuosity of arch, ectasia of"
+    ],
+    "GI tract": [
+      "ectasia of gastrointestinal tract"
+    ]
+  },
+  "clinical": {}
+}

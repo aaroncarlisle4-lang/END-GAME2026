@@ -1,0 +1,114 @@
+# Disease: DIVERTICULAR DISEASE OF COLON
+
+**Source section:** GASTROINTESTINAL AND ABDOMINAL DISORDERS
+
+## Definition
+
+saccular outpouching ← overactivity of smooth muscle causes herniation of mucosa + longitudinal + circular smooth muscle thickening with redundancy of folds ← myostatic acquired herniations of mucosa + muscularis mucosae through the muscularis propria with perforation of diverticulum with intramural / localized pericolic inflammatory mass reliably benign self-limiting condition usually true diverticulum containing all layers of colonic wall insidious onset of inflammation of uncommon usually acquired diverticulum of appendix
+
+## Key Facts
+
+- **Frequency:** 5-10% in 5th decade; 33-48% over age 50; 50-65% past 7th decade; M÷F = 1÷1;
+- **Location:** in 80% in sigmoid (= narrowest colonic segment with highest pressure); in 17%
+- **Age:** after 6th decade
+- **Size:** < 5 mm
+
+## Imaging Findings
+
+### General
+
+- "saw-tooth" sign = crowding + thickening of haustral folds ← shortening of colonic
+- plump marginal indentations
+- superimposed muscle spasm (relieved by antispasmodics)
+- size: initially tiny (3-10-mm) V-shaped protrusions increasing up to several cm in diameter
+- bubbly appearance of air-containing diverticula
+- residual barium within diverticula from previous study
+- spiky irregular outline (antimesenteric intertaenial ridge is typical site for intramural
+- smooth dome-shaped appendages with a short neck
+- may be pointed, attenuated, irregular with variable filling
+- circular line with sharp outer edge + fuzzy blurred inner edge (EN FACE view in double
+
+### US
+
+- thin-walled round / oval outpouching containing echogenic material that often produces
+- peridiverticular perienteric fat of normal echogenicity
+- thickened muscularis propria ← hypertrophy
+
+### CT
+
+- rounded outpouchings containing air ± contrast material (= diverticula)
+- circumferential sawtooth-like thickening of colonic haustra + distorted luminal contour
+- opacification by barium (in 60%)
+- large gas-, fluid-, stool-filled cavity + thin regular wall
+- NO contrast enhancement / wall thickening unless inflamed
+- ± wall calcifications ← chronic inflammation
+- localized ileus
+- ± pattern of small bowel obstruction → kinking / edema if small bowel adheres to abscess
+- extraluminal gas in abscess / fistula
+- pneumoperitoneum (rare)
+- focal area of eccentric luminal narrowing caused by pericolic / intramural inflammatory
+- annular lesion mimicking carcinoma
+- marked thickening + distortion of mucosal folds
+- tethered spiculated mucosal folds
+- centrally amputated diverticulum
+- extraluminal contrast = peridiverticulitis:
+- "double-tracking" = pericolonic longitudinal sinus tract
+- pericolonic collection = peridiverticular abscess
+- fistula to bladder / small bowel / vagina
+- inflamed diverticulum:
+- pericolic fat stranding = poorly marginated hazy area of ↑ attenuation ± fine linear
+- diverticula (84%) = flask-shaped structures projecting through colonic wall, filled
+- "centipede" sign = hyperemic engorged vasa recta
+- bowel wall thickening:
+- circumferential bowel wall thickening of > 4 mm (70%) and up to 2 cm
+- colonic wall thickening extending > 5 cm in length
+- "double halo" sign = mural stratification = enhancement pattern with inner hyperdense
+- focally thickened + inflamed colonic wall
+- "arrowhead" sign = funnel of intraluminal contrast medium / air in focally thickened
+- pneumatosis
+- fluid collection:
+- fluid at root of sigmoid mesentery
+- fluid ± air of peritonitis (16%)
+- frank abscess (47%) = central liquid / gas
+- tract formation:
+- fistula formation (14%): most commonly colovesical, also colovaginal, coloenteric,
+- intramural sinus tracts (9%)
+- fecolith
+- colonic obstruction (12%)
+- ureteral obstruction (7%)
+- thickening of bowel wall > 4 mm (= distance measured between echogenic lumen
+- round / oval hypo- / hyperechoic focus protruding from colonic wall + focal disruption
+- regionally ↑ echogenicity adjacent to colonic wall ± ill-defined hypoechoic zones ←
+- increased mural vascularity at color Doppler US
+- pericolic abscess
+
+### MR
+
+- chronic colonic wall thickening in affected area
+- increased SI in pericolonic fat associated with diverticulum on fat-suppressed T2WI
+- solitary diverticulum containing a 12-mm fecolith surrounded by inflamed fat
+- marked circumferential colonic wall thickening
+- inflammatory changes adjacent to diverticulum
+- normal-appearing appendix
+- round outpouching beyond margin of appendix
+- may contain fluid / air / enhancing soft tissue
+- prominent enhancement of diverticular wall with surrounding fat stranding
+- increased diameter of wall-thickened hyperenhancing appendix (mimicks acute
+- extravasation of radionuclide tracers
+- angiographic contrast pooling in bowel lumen
+
+## Clinical
+
+- **N.B.:** intramural type vasa recta (= nutrient arteries) pass through circular muscle (=
+- **Cx:** bleeding (usually right colon), diverticulitis (usually sigmoid colon)
+- **Prognosis:** spontaneous evacuation into colonic lumen
+- **Rx:** conservative; NO indication for surgery
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

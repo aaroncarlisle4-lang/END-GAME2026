@@ -1,0 +1,39 @@
+{
+  "name": "SCROTAL ABSCESS",
+  "slug": "scrotal_abscess",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/scrotal_abscess.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "hypointense on T1WI + hyperintense on T2WI ← fluid content",
+  "distribution": "central hyperintensity on DWI with corresponding low signal on ADC map ← restricted",
+  "discriminating_features": [
+    "hypointense on T1WI + hyperintense on T2WI ← fluid content",
+    "hypointense rim on T2WI",
+    "nonenhancing lesion + avid enhancement of surrounding tissue",
+    "central hyperintensity on DWI with corresponding low signal on ADC map ← restricted",
+    "hypoechoic / complex fluid collection (differentiation of intra- from extratesticular abscess"
+  ],
+  "other_features": {
+    "general": [],
+    "NUC": [
+      "marked increase in perfusion = hot hemiscrotum with photon-deficient area representing the",
+      "increased scrotal uptake with leukocyte imaging"
+    ],
+    "US": [
+      "hypoechoic / complex fluid collection (differentiation of intra- from extratesticular abscess",
+      "intratesticular abscess with low-level internal echoes + shaggy wall",
+      "focal area of absent color Doppler flow",
+      "hypervascular surrounding testicular parenchyma",
+      "skin thickening",
+      "hydrocele"
+    ],
+    "MR": [
+      "hypointense on T1WI + hyperintense on T2WI ← fluid content",
+      "hypointense rim on T2WI",
+      "nonenhancing lesion + avid enhancement of surrounding tissue",
+      "central hyperintensity on DWI with corresponding low signal on ADC map ← restricted"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Obstruction of Left Ventricular Outflow Tract",
+  "slug": "obstruction_of_left_ventricular_outflow_tract",
+  "chapter": "AORTA",
+  "source_file": "processed_clusters/aorta/obstruction_of_left_ventricular_outflow_tract.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bicuspid aortic valve",
+      "raw": "Bicuspid aortic valve",
+      "frequency": null
+    },
+    {
+      "name": "Coarctation of aorta",
+      "raw": "Coarctation of aorta",
+      "frequency": null
+    },
+    {
+      "name": "Subvalvular aortic stenosis",
+      "raw": "Subvalvular aortic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Supravalvular aortic stenosis",
+      "raw": "Supravalvular aortic stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

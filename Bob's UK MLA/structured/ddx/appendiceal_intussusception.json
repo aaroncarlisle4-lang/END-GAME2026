@@ -1,0 +1,57 @@
+{
+  "finding": "Appendiceal Intussusception",
+  "slug": "appendiceal_intussusception",
+  "chapter": "APPENDIX",
+  "source_file": "processed_clusters/appendix/appendiceal_intussusception.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucocele",
+      "raw": "Mucocele",
+      "frequency": null
+    },
+    {
+      "name": "Endometrioma",
+      "raw": "Endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "Fecolith",
+      "raw": "Fecolith",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body",
+      "raw": "Foreign body",
+      "frequency": null
+    },
+    {
+      "name": "Polyp: juvenile, inflammatory",
+      "raw": "Polyp: juvenile, inflammatory",
+      "frequency": null
+    },
+    {
+      "name": "Papilloma",
+      "raw": "Papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma / adenocarcinoma",
+      "raw": "Adenoma / adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Postappendectomy stump",
+      "raw": "Postappendectomy stump",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

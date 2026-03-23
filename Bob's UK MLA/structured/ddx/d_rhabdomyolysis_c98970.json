@@ -1,0 +1,37 @@
+{
+  "finding": "D. RHABDOMYOLYSIS",
+  "slug": "d_rhabdomyolysis_c98970",
+  "chapter": "B. CELLULAR INFILTRATE",
+  "source_file": "processed_clusters/b_cellular_infiltrate/d_rhabdomyolysis_c98970.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sport / electric injury",
+      "raw": "Sport / electric injury",
+      "frequency": null
+    },
+    {
+      "name": "Diabetic muscular infarction",
+      "raw": "Diabetic muscular infarction",
+      "frequency": null
+    },
+    {
+      "name": "Focal nodular myositis",
+      "raw": "Focal nodular myositis",
+      "frequency": null
+    },
+    {
+      "name": "Metabolic myopathy: eg, phosphofructokinase deficiency, hypokalemia, alcohol overdose",
+      "raw": "Metabolic myopathy: eg, phosphofructokinase deficiency, hypokalemia, alcohol overdose",
+      "frequency": null
+    },
+    {
+      "name": "Viral myositis",
+      "raw": "Viral myositis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

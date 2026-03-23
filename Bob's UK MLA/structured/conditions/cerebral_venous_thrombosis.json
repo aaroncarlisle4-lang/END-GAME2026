@@ -1,0 +1,59 @@
+{
+  "name": "CEREBRAL VENOUS THROMBOSIS",
+  "slug": "cerebral_venous_thrombosis",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/cerebral_venous_thrombosis.md",
+  "definition": "DURAL SINUS THROMBOSIS = VENOUS SINUS / SUPERIOR SAGITTAL SINUS",
+  "demographics": {},
+  "dominant_finding": "bilateral parasagittal hemispheric lesions ← superior sagittal sinus thrombosis",
+  "distribution": "bilateral parasagittal hemispheric lesions ← superior sagittal sinus thrombosis",
+  "discriminating_features": [
+    "bilateral parasagittal hemispheric lesions ← superior sagittal sinus thrombosis",
+    "ipsilateral temporo-occipital + cerebellar lobe lesions ← transverse sinus thrombosis",
+    "bilateral thalamic lesions ← deep cerebral venous thrombosis",
+    "hyperattenuating intravascular material (← acute blood clot) in sagittal sinus = \"dense",
+    "subdural collection"
+  ],
+  "other_features": {
+    "general": [
+      "bilateral parasagittal hemispheric lesions ← superior sagittal sinus thrombosis",
+      "ipsilateral temporo-occipital + cerebellar lobe lesions ← transverse sinus thrombosis",
+      "bilateral thalamic lesions ← deep cerebral venous thrombosis",
+      "hyperattenuating intravascular material (← acute blood clot) in sagittal sinus = \"dense",
+      "subdural collection",
+      "stroke (often hemorrhagic)",
+      "dense transcortical medullary vein ← collateral drainage",
+      "\"empty delta\" sign / \"empty triangle\" = filling defect in straight sinus / superior",
+      "enlargement of thrombosed vein near obstruction",
+      "shaggy irregular contour of veins (= small collateral veins enhance near the obstructed",
+      "brain edema + swelling of gyri",
+      "low attenuation lesion of venous infarction",
+      "± subcortical hemorrhage in venous distribution",
+      "replacement of flow void by abnormal signal intensity",
+      "clot isointense to gray matter on T1WI (and therefore easily missed) + hypointense",
+      "low SI rather than normal flow void on T1WI",
+      "blooming artifacts on GRE in thrombosed segment",
+      "hyperintense thrombosed sinus on DWI with diminished mean ADC value (in 41%)",
+      "hyperintense thrombus within sinus on T1WI (← intra- and extracellular",
+      "iso- / hyperintense thrombus on T2WI (← extracellular methemoglobin)",
+      "isointense on T1WI + iso- / hyperintense T2WI",
+      "excellent sensitivity to slow flow perpendicular to plane of acquisition for 2D-TOF",
+      "filling defect in sinus on CEMR",
+      "wall-enhancement of thrombosed dural sinus",
+      "nonfilling of thrombosed sinus",
+      "filling of collateral cortical veins, deep venous system, cavernous sinus",
+      "enlarged convex-shaped cavernous sinus + filling defect",
+      "enlarged superior ophthalmic vein",
+      "proptosis",
+      "T2 prolongation in thalamus, internal capsule, basal ganglia, deep white matter",
+      "hemorrhagic conversion (common)",
+      "thrombosed veins on MRV"
+    ]
+  },
+  "clinical": {
+    "N.B.": "hypointense thrombus on T2WI ← intracellular methemoglobin may mimic flow",
+    "Prognosis": "high mortality",
+    "Rx": "heparin (full recovery in 70%), local thrombolysis (worsening in spite of adequate",
+    "Spread": "to contralateral side"
+  }
+}

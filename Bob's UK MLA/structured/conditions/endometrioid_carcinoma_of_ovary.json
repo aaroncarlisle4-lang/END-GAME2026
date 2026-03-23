@@ -1,0 +1,28 @@
+{
+  "name": "ENDOMETRIOID CARCINOMA OF OVARY",
+  "slug": "endometrioid_carcinoma_of_ovary",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/endometrioid_carcinoma_of_ovary.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "8-15% of all ovarian cancers; 2nd most common malignant ovarian neoplasm (after",
+    "Associated with": "hyperplasia / carcinoma of the uterine endometrium in 20-33%",
+    "Path": "malignant mixed mesodermal tumor = carcinoma-sarcoma is grouped with endometrioid",
+    "Histo": "tubular glandular pattern with a pseudostratified epithelium resembling endometrial"
+  },
+  "dominant_finding": "bilateral in 15% of stage I cases",
+  "distribution": "bilateral in 15% of stage I cases",
+  "discriminating_features": [
+    "solid / complex (= cystic + solid) tumor",
+    "bilateral in 15% of stage I cases"
+  ],
+  "other_features": {
+    "general": [
+      "solid / complex (= cystic + solid) tumor",
+      "bilateral in 15% of stage I cases"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "better than serous / mucinous carcinomas"
+  }
+}

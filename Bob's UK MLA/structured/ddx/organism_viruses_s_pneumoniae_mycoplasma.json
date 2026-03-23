@@ -1,0 +1,102 @@
+{
+  "finding": "Organism: viruses, S. pneumoniae, Mycoplasma",
+  "slug": "organism_viruses_s_pneumoniae_mycoplasma",
+  "chapter": "C. RIGHT UPPER LOBE",
+  "source_file": "processed_clusters/c_right_upper_lobe/organism_viruses_s_pneumoniae_mycoplasma.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nosocomial pneumonia [nosos, Greek = disease; kamnein, Greek = to suffer; nosocomium, Latin = hospital] (a)  gram-negative organism (> 50%): Klebsiella pneumoniae, P. aeruginosa, E. coli,",
+      "raw": "Nosocomial pneumonia [nosos, Greek = disease; kamnein, Greek = to suffer; nosocomium, Latin = hospital] (a)  gram-negative organism (> 50%): Klebsiella pneumoniae, P. aeruginosa, E. coli,",
+      "frequency": "50%"
+    },
+    {
+      "name": "Empyema",
+      "raw": "Empyema",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary abscess",
+      "raw": "Pulmonary abscess",
+      "frequency": null
+    },
+    {
+      "name": "Cavitary necrosis",
+      "raw": "Cavitary necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Pneumatocele",
+      "raw": "Pneumatocele",
+      "frequency": null
+    },
+    {
+      "name": "Pneumothorax",
+      "raw": "Pneumothorax",
+      "frequency": null
+    },
+    {
+      "name": "Pyopneumothorax",
+      "raw": "Pyopneumothorax",
+      "frequency": null
+    },
+    {
+      "name": "Bronchopleural fistula",
+      "raw": "Bronchopleural fistula",
+      "frequency": null
+    },
+    {
+      "name": "Mycoplasma",
+      "raw": "Mycoplasma",
+      "frequency": null
+    },
+    {
+      "name": "Pertussis",
+      "raw": "Pertussis",
+      "frequency": null
+    },
+    {
+      "name": "Chlamydia trachomatis",
+      "raw": "Chlamydia trachomatis",
+      "frequency": null
+    },
+    {
+      "name": "Klebsiella",
+      "raw": "Klebsiella",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomonas",
+      "raw": "Pseudomonas",
+      "frequency": null
+    },
+    {
+      "name": "E. coli",
+      "raw": "E. coli",
+      "frequency": null
+    },
+    {
+      "name": "Proteus",
+      "raw": "Proteus",
+      "frequency": null
+    },
+    {
+      "name": "Haemophilus",
+      "raw": "Haemophilus",
+      "frequency": null
+    },
+    {
+      "name": "Legionella",
+      "raw": "Legionella",
+      "frequency": null
+    },
+    {
+      "name": "Bronchopleural fistula",
+      "raw": "Bronchopleural fistula",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Mortality:   10% Enterobacter (b)  gram-positive organism (10%): S. aureus, S. pneumoniae, H. influenzae Complications: Bacterial Pneumonia Lobar Pneumonia =  ALVEOLAR PNEUMONIA =  pathogens reach peripheral air space, incite exudation of watery edema into alveolar space, centrifugal spread via small airways, pores of Kohn + Lambert into adjacent lobules + segments √  nonsegmental sublobar consolidation √  round pneumonia (= uniform involvement of contiguous alveoli) (a)  Streptococcus pneumoniae (b)  Klebsiella pneumoniae (more aggressive); in immunocompromised + alcoholics (c)  any pneumonia"
+}

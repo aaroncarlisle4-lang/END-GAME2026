@@ -1,0 +1,132 @@
+{
+  "finding": "B. INFECTIOUS / INFLAMMATORY → SCM SPASM",
+  "slug": "b_infectious_inflammatory_scm_spasm",
+  "chapter": "D. NEUROLOGIC",
+  "source_file": "processed_clusters/d_neurologic/b_infectious_inflammatory_scm_spasm.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Upper respiratory infection",
+      "raw": "Upper respiratory infection",
+      "frequency": null
+    },
+    {
+      "name": "Otitis media, mastoiditis",
+      "raw": "Otitis media, mastoiditis",
+      "frequency": null
+    },
+    {
+      "name": "Cervical adenitis",
+      "raw": "Cervical adenitis",
+      "frequency": null
+    },
+    {
+      "name": "Retropharyngeal abscess",
+      "raw": "Retropharyngeal abscess",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis, diskitis, epidural abscess, meningitis",
+      "raw": "Osteomyelitis, diskitis, epidural abscess, meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile idiopathic arthritis",
+      "raw": "Juvenile idiopathic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "NEOPLASTIC ›  CNS tumor: posterior fossa, brainstem, spinal cord ›  Bone tumor:",
+      "raw": "NEOPLASTIC ›  CNS tumor: posterior fossa, brainstem, spinal cord ›  Bone tumor:",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Osteochondroma",
+      "raw": "Osteochondroma",
+      "frequency": null
+    },
+    {
+      "name": "Osteoid osteoma",
+      "raw": "Osteoid osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis to skull base / spine",
+      "raw": "Metastasis to skull base / spine (d)  miscellaneous (eg, Langerhans cell histiocytosis)",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis colli",
+      "raw": "Fibromatosis colli",
+      "frequency": null
+    },
+    {
+      "name": "Infantile myofibromatosis / myofibroma",
+      "raw": "Infantile myofibromatosis / myofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Nodular fasciitis",
+      "raw": "Nodular fasciitis",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell angiofibroma",
+      "raw": "Giant cell angiofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Myositis ossificans (b)  intermediate malignant potential",
+      "raw": "Myositis ossificans (b)  intermediate malignant potential",
+      "frequency": null
+    },
+    {
+      "name": "Desmoid-type fibromatosis",
+      "raw": "Desmoid-type fibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Solitary fibrous tumor",
+      "raw": "Solitary fibrous tumor",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory myofibroblastic tumor (b)  malignant",
+      "raw": "Inflammatory myofibroblastic tumor (b)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Extraskeletal fibrosarcoma",
+      "raw": "Extraskeletal fibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosarcoma 41.5%",
+      "raw": "Fibrosarcoma 41.5%",
+      "frequency": "41.5%"
+    },
+    {
+      "name": "Osteosarcoma 22.6%",
+      "raw": "Osteosarcoma 22.6%",
+      "frequency": "22.6%"
+    },
+    {
+      "name": "Malignant fibrous histiocytoma 13.2% A mass at a previously irradiated site and average latency period of 9 (range, 3-26) years raises concern for radiation-induced sarcoma.",
+      "raw": "Malignant fibrous histiocytoma 13.2% A mass at a previously irradiated site and average latency period of 9 (range, 3-26) years raises concern for radiation-induced sarcoma.",
+      "frequency": "13.2%"
+    }
+  ],
+  "criteria": {},
+  "context": "Solid Neck Mass Soft-tissue Tumors of Head & Neck =  group of mesenchymal tumors with widely varied biologic behaviors [benign (76%), intermediate (13%), malignant (11%)] Location:   head & neck (27%) Age:  in 1st year of life (50%),; during 1st decade (71%) ◊  12% of soft tissue tumors in children + adolescents (a)  benign Features of malignancy: Malignant soft tissue tumors usually have lower ADC values than benign tumors. ADC value correlates with tumor cellularity in soft tissue sarcomas. (a)  size √  large volume with > 5 cm in diameter (b)  internal texture √  intratumoral hemorrhage + n"
+}

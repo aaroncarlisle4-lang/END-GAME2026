@@ -1,0 +1,31 @@
+{
+  "finding": "Fractures Of Cervical Spine (DDx)",
+  "slug": "fractures_of_cervical_spine_ddx_1_3a86b5",
+  "chapter": "Fractures Of Cervical Spine",
+  "source_file": "processed_clusters/fractures_of_cervical_spine/fractures_of_cervical_spine_ddx_1_3a86b5.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "mediastinal hemorrhage of other cause",
+      "raw": "mediastinal hemorrhage of other cause",
+      "frequency": null
+    },
+    {
+      "name": "crying in children",
+      "raw": "crying in children",
+      "frequency": null
+    },
+    {
+      "name": "S/P difficult intubation)",
+      "raw": "S/P difficult intubation)",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "mediastinal hemorrhage of other cause": [],
+    "crying in children": [],
+    "S/P difficult intubation)": []
+  },
+  "context": "widening of interspinous space (43%) | widening of facet joint (39%) | displacement of prevertebral fat stripe (18%) | wide retropharyngeal space > 7 mm (31%)"
+}

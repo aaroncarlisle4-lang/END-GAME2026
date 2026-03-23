@@ -1,0 +1,27 @@
+{
+  "finding": "Inadequate Calvarial Calcification",
+  "slug": "inadequate_calvarial_calcification_30b4f3",
+  "chapter": "Sutural Abnormalities",
+  "source_file": "processed_clusters/sutural_abnormalities/inadequate_calvarial_calcification_30b4f3.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Hypophosphatasia",
+      "raw": "Hypophosphatasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

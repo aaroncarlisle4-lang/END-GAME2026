@@ -1,0 +1,62 @@
+{
+  "finding": "Malignant Heart Tumors (25%",
+  "slug": "malignant_heart_tumors_25",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/malignant_heart_tumors_25.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcomas",
+      "raw": "Sarcomas",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Pericardial mesothelioma",
+      "raw": "Pericardial mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant teratoma",
+      "raw": "Malignant teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Multiple cardiac myxomas",
+      "raw": "Multiple cardiac myxomas",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic (frequently)",
+      "frequency": null
+    },
+    {
+      "name": "arrhythmia",
+      "raw": "arrhythmia (most common clinical sign)",
+      "frequency": "most common"
+    },
+    {
+      "name": "chest wall pain ← transient ischemic attack",
+      "raw": "chest wall pain ← transient ischemic attack",
+      "frequency": null
+    },
+    {
+      "name": "CHF",
+      "raw": "CHF (shortness of breath, fatigue, peripheral edema)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   25% of all cardiac tumors in adults; 10% of all cardiac tumors in children Secondary (Metastatic) Heart Tumor ◊  Most common cause of a neoplastic cardiac mass! Age:     typically > 60 years with disseminated tumor Prevalence:   metastatic÷primary disease = 30÷1; 10-12% of cancer patients develop metastases to the heart (autopsy) Origin:   lung, breast, esophagus, melanoma, lymphoma, leukemia ◊  Melanoma has the highest prevalence of cardiac seeding of any neoplasm! Site: (a)  peri- / epicardium (most common): lung > breast > lymphoma > leukemia > breast > esophagus (b)  myocardi"
+}

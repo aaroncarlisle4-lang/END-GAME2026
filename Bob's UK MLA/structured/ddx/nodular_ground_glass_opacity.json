@@ -1,0 +1,37 @@
+{
+  "finding": "Nodular Ground-glass Opacity",
+  "slug": "nodular_ground_glass_opacity",
+  "chapter": "C. RBCs",
+  "source_file": "processed_clusters/c_rbcs/nodular_ground_glass_opacity.md",
+  "quality_score": 0.667,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "MALIGNANCY",
+      "raw": "MALIGNANCY",
+      "frequency": null
+    },
+    {
+      "name": "Atypical adenomatous hyperplasia",
+      "raw": "Atypical adenomatous hyperplasia (in 2.8% of general population)",
+      "frequency": "2.8%"
+    },
+    {
+      "name": "Bronchioloalveolar cell carcinoma",
+      "raw": "Bronchioloalveolar cell carcinoma (in 5.2% of non-small cell lung cancer population)",
+      "frequency": "5.2%"
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

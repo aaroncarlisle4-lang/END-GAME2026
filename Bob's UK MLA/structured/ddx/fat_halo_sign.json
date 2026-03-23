@@ -1,0 +1,32 @@
+{
+  "finding": "Fat halo sign",
+  "slug": "fat_halo_sign",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/fat_halo_sign.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic inflammatory bowel disease: ulcerative colitis",
+      "raw": "Chronic inflammatory bowel disease: ulcerative colitis (61%), Crohn disease (8%)",
+      "frequency": "61%"
+    },
+    {
+      "name": "Graft-versus-host disease",
+      "raw": "Graft-versus-host disease",
+      "frequency": null
+    },
+    {
+      "name": "Cytoreductive therapy",
+      "raw": "Cytoreductive therapy",
+      "frequency": null
+    },
+    {
+      "name": "Asymptomatic obese patient",
+      "raw": "Asymptomatic obese patient",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  layer of fat attenuation (-18 to -64 HU) in submucosa sandwiched between inner + outer layer of soft-tissue attenuation of a thickened bowel wall"
+}

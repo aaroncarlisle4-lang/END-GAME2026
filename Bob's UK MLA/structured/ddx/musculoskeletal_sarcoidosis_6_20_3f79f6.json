@@ -1,0 +1,87 @@
+{
+  "finding": "Musculoskeletal Sarcoidosis (6-20%",
+  "slug": "musculoskeletal_sarcoidosis_6_20_3f79f6",
+  "chapter": "RHEUMATOID LUNG",
+  "source_file": "processed_clusters/rheumatoid_lung/musculoskeletal_sarcoidosis_6_20_3f79f6.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "unimpaired joint function",
+      "raw": "unimpaired joint function",
+      "frequency": null
+    },
+    {
+      "name": "pain and swelling",
+      "raw": "pain and swelling",
+      "frequency": null
+    },
+    {
+      "name": "cranial neuropathy (facial > acoustic > optic > trigeminal nerves) ← granulomatous infiltration + leptomeningeal fibrosis (50-75%) of rapid onset with spontaneous resolution",
+      "raw": "cranial neuropathy (facial > acoustic > optic > trigeminal nerves) ← granulomatous infiltration + leptomeningeal fibrosis (50-75%) of rapid onset with spontaneous resolution",
+      "frequency": "75%"
+    },
+    {
+      "name": "peripheral neuropathy + myopathy",
+      "raw": "peripheral neuropathy + myopathy",
+      "frequency": null
+    },
+    {
+      "name": "aseptic meningitis",
+      "raw": "aseptic meningitis (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "diffuse encephalopathy, dementia",
+      "raw": "diffuse encephalopathy, dementia",
+      "frequency": null
+    },
+    {
+      "name": "pituitary + hypothalamic dysfunction",
+      "raw": "pituitary + hypothalamic dysfunction (eg, diabetes insipidus in 5-10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "generalized / focal seizures",
+      "raw": "generalized / focal seizures (herald poorer prognosis)",
+      "frequency": null
+    },
+    {
+      "name": "multiple sclerosislike symptoms",
+      "raw": "multiple sclerosislike symptoms (from multifocal parenchymal involvement)",
+      "frequency": null
+    },
+    {
+      "name": "prompt improvement following therapy with steroids",
+      "raw": "prompt improvement following therapy with steroids",
+      "frequency": null
+    },
+    {
+      "name": "spinal fluid: normal (in up to 30%) or nonspecific (↑ protein, ↑ leukocyte count, ↔ / ↓ glucose) Location:   leptomeninges, dura mater, subarachnoid space, peripheral nerves, brain parenchyma, ventricular system ◊  Affects meninges + cranial nerves more often than brain!",
+      "raw": "spinal fluid: normal (in up to 30%) or nonspecific (↑ protein, ↑ leukocyte count, ↔ / ↓ glucose) Location:   leptomeninges, dura mater, subarachnoid space, peripheral nerves, brain parenchyma, ventricular system ◊  Affects meninges + cranial nerves more often than brain!",
+      "frequency": "30%"
+    },
+    {
+      "name": "Erythema nodosum = nongranulomatous panniculitis:",
+      "raw": "Erythema nodosum = nongranulomatous panniculitis:",
+      "frequency": null
+    },
+    {
+      "name": "often associated with fever + arthralgia",
+      "raw": "often associated with fever + arthralgia (= painful swollen adjacent joints) Onset:   typically associated with benign self-limiting acute sarcoidosis (eg, Löfgren syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Lupus pernio = indurated red-brown to violaceous (= bluish purple) papules + plaques",
+      "raw": "Lupus pernio = indurated red-brown to violaceous (= bluish purple) papules + plaques",
+      "frequency": null
+    },
+    {
+      "name": "Asymptomatic pink-yellow / red-brown papules + plaques",
+      "raw": "Asymptomatic pink-yellow / red-brown papules + plaques",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Portends a more chronic + adverse prognosis! ◊  Usually accompanied by cutaneous manifestations! @  Joint (up to 40%) Location:   knee, ankle, elbow, wrist √  inflammatory arthralgia @  Muscle √  increased T2 signal intensity of involved muscle √  sarcoid nodules with centrally low signal intensity on all sequences (= area of fibrosis) √  granulomas peripherally hyperintense on T2WI with contrast-enhancement on T1WI @  Bone (5-10%) Histo:   medullary granulomas infiltrate cortical bone → bone destruction / reactive sclerosis Location:   hands + feet (metaphyseal ends of distal + middle phal"
+}

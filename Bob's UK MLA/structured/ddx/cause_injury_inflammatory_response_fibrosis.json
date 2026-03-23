@@ -1,0 +1,102 @@
+{
+  "finding": "Cause: injury → inflammatory response → fibrosis",
+  "slug": "cause_injury_inflammatory_response_fibrosis",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/cause_injury_inflammatory_response_fibrosis.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Postoperative stricture (95-99%):",
+      "raw": "Postoperative stricture (95-99%):",
+      "frequency": "99%"
+    },
+    {
+      "name": "Blunt / penetrating trauma",
+      "raw": "Blunt / penetrating trauma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic artery embolization (b)  inflammation",
+      "raw": "Hepatic artery embolization (b)  inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing cholangitis:",
+      "raw": "Sclerosing cholangitis:",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic portal cholangiopathy",
+      "raw": "Eosinophilic portal cholangiopathy",
+      "frequency": null
+    },
+    {
+      "name": "Chronic pancreatitis ◊  10% of all benign biliary strictures",
+      "raw": "Chronic pancreatitis ◊  10% of all benign biliary strictures",
+      "frequency": "10%"
+    },
+    {
+      "name": "Acute pancreatitis",
+      "raw": "Acute pancreatitis (less common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Perforated duodenal ulcer",
+      "raw": "Perforated duodenal ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Erosion by biliary calculus",
+      "raw": "Erosion by biliary calculus",
+      "frequency": null
+    },
+    {
+      "name": "Mirizzi syndrome",
+      "raw": "Mirizzi syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy (c)  infection",
+      "raw": "Radiation therapy (c)  infection",
+      "frequency": null
+    },
+    {
+      "name": "Acute bacterial cholangitis",
+      "raw": "Acute bacterial cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent pyogenic cholangitis",
+      "raw": "Recurrent pyogenic cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Chemotherapy-induced cholangitis",
+      "raw": "Chemotherapy-induced cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "AIDS-related cholangitis",
+      "raw": "AIDS-related cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess (d)  congenital",
+      "raw": "Abscess (d)  congenital",
+      "frequency": null
+    },
+    {
+      "name": "Choledochal cyst",
+      "raw": "Choledochal cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  often short-segment involvement (not diagnostic!) √  often smooth concentric narrowing (not diagnostic!) (a)  trauma ›  open cholecystectomy (0.2-0.7%) ›  laparoscopic cholecystectomy (1.2%) ›  cadaveric liver transplant (5-15%) ›  living donor liver transplant (28-32%) ›  primary sclerosing cholangitis ›  IgG4-related sclerosing disease"
+}

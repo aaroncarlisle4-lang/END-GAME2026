@@ -1,0 +1,42 @@
+{
+  "finding": "Most Common Tracheal / Laryngeal Mass in Childhood",
+  "slug": "most_common_tracheal_laryngeal_mass_in_childhood",
+  "chapter": "AIRWAYS",
+  "source_file": "processed_clusters/airways/most_common_tracheal_laryngeal_mass_in_childhood.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Recurrent respiratory papillomatosis",
+      "raw": "Recurrent respiratory papillomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Laryngocele",
+      "raw": "Laryngocele",
+      "frequency": null
+    },
+    {
+      "name": "Subglottic hemangioma",
+      "raw": "Subglottic hemangioma (b)  extraluminal (compressing airway)",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic cyst",
+      "raw": "Bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lymphadenopathy",
+      "raw": "Lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  endoluminal"
+}

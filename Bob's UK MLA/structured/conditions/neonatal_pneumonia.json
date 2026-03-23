@@ -1,0 +1,37 @@
+{
+  "name": "NEONATAL PNEUMONIA",
+  "slug": "neonatal_pneumonia",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/neonatal_pneumonia.md",
+  "definition": "",
+  "demographics": {
+    "Associated with": "delayed onset of diaphragmatic hernia (evidenced by clinical"
+  },
+  "dominant_finding": "pulmonary opacities (87%):",
+  "distribution": "appearance suggests retained lung fluid / focal infiltrates (35%)",
+  "discriminating_features": [
+    "pulmonary opacities (87%):",
+    "appearance identical to RDS (in 52%)",
+    "appearance suggests retained lung fluid / focal infiltrates (35%)",
+    "normal CXR (13%)",
+    "cardiomegaly (common)"
+  ],
+  "other_features": {
+    "general": [
+      "pulmonary opacities (87%):",
+      "appearance identical to RDS (in 52%)",
+      "appearance suggests retained lung fluid / focal infiltrates (35%)",
+      "normal CXR (13%)",
+      "cardiomegaly (common)",
+      "pleural effusions (in ⅔, but RARE in RDS)",
+      "bilateral focal / diffuse areas of opacities (may initially appear similar to fetal aspiration",
+      "hyperaeration",
+      "may cause lobar atelectasis",
+      "may cause pneumothorax / pneumomediastinum",
+      "pleural effusion (exceedingly rare)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "often lethal"
+  }
+}

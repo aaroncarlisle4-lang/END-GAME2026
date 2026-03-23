@@ -1,0 +1,42 @@
+{
+  "finding": "Choroid Plexus Neoplasm (DDx)",
+  "slug": "choroid_plexus_neoplasm_ddx_9c02fe",
+  "chapter": "Choroid Plexus Neoplasm",
+  "source_file": "processed_clusters/choroid_plexus_neoplasm/choroid_plexus_neoplasm_ddx_9c02fe.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "intraventricular meningioma",
+      "raw": "intraventricular meningioma",
+      "frequency": null
+    },
+    {
+      "name": "ependymoma",
+      "raw": "ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "cavernous angioma",
+      "raw": "cavernous angioma",
+      "frequency": null
+    },
+    {
+      "name": "xanthogranuloma",
+      "raw": "xanthogranuloma",
+      "frequency": null
+    },
+    {
+      "name": "astrocytoma",
+      "raw": "astrocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "echogenic mass adjacent to normal choroid plexus | enlarged choroidal artery if neoplasm located in atrium ← supplied by anterior + posterior"
+}

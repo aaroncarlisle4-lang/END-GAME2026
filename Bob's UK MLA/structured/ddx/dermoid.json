@@ -1,0 +1,47 @@
+{
+  "finding": "DERMOID",
+  "slug": "dermoid",
+  "chapter": "CONJOINED TWINS",
+  "source_file": "processed_clusters/conjoined_twins/dermoid.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "relatively soft pelvic mass (²/3) difficult to palpate",
+      "raw": "relatively soft pelvic mass (²/3) difficult to palpate",
+      "frequency": null
+    },
+    {
+      "name": "pelvic pressure / pain ← torsion / hemorrhage",
+      "raw": "pelvic pressure / pain ← torsion / hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "paraneoplastic syndrome",
+      "raw": "paraneoplastic syndrome (rare): autoimmune hemolytic anemia refractory to conventional therapy, virilization, hyperestrogenism; asymptomatic (mostly)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Malignant degeneration in 1-2%",
+      "raw": "Malignant degeneration in 1-2% (usually within dermoid plug of tumors > 10 cm in diameter in postmenopausal women) into squamous cell carcinoma (most common)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Torsion",
+      "raw": "Torsion (4-16%)",
+      "frequency": "16%"
+    },
+    {
+      "name": "Rupture with chemical peritonitis",
+      "raw": "Rupture with chemical peritonitis (1-4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Hydronephrosis",
+      "raw": "Hydronephrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  DERMOID CYST = MATURE CYSTIC TERATOMA =  congenital benign slow-growing germ cell tumor containing mature tissues from all 3 germ cell layers with predominance of ectodermal component Frequency:   96% of germ-cell tumors; 5-11-25% of all ovarian neoplasms; 20% of ovarian tumors in adults; 50-80% of pediatric ovarian tumors ◊ Most common ovarian neoplasm! Origin:   self-fertilization of a single germ cell after the first meiotic division (= random error in meiosis) Path:   unilocular thin-walled cyst lined by an opaque gray-white wrinkled epidermis from which hair shafts protrude; lumen of c"
+}

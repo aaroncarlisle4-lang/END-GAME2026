@@ -1,0 +1,42 @@
+{
+  "finding": "Perihepatic Fat Attenuation",
+  "slug": "perihepatic_fat_attenuation_44b92d",
+  "chapter": "B. COPPER",
+  "source_file": "processed_clusters/b_copper/perihepatic_fat_attenuation_44b92d.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Spontaneous rupture of cystic ovarian teratoma",
+      "raw": "Spontaneous rupture of cystic ovarian teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma / liposarcoma",
+      "raw": "Lipoma / liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Pseudolipoma =  detached degenerating epiploic appendage lodged between diaphragm and superior aspect of liver",
+      "raw": "Pseudolipoma =  detached degenerating epiploic appendage lodged between diaphragm and superior aspect of liver",
+      "frequency": null
+    },
+    {
+      "name": "Juxtacaval fat =  medial to IVC near hepatic venous confluence",
+      "raw": "Juxtacaval fat =  medial to IVC near hepatic venous confluence",
+      "frequency": null
+    },
+    {
+      "name": "Omental infarction",
+      "raw": "Omental infarction",
+      "frequency": null
+    },
+    {
+      "name": "Intrahepatic omental packing",
+      "raw": "Intrahepatic omental packing",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   0.5% of CTs in adults Perihepatitis =  inflammation of peritoneal capsule of liver √  hepatic capsular enhancement"
+}

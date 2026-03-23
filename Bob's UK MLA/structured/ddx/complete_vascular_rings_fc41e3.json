@@ -1,0 +1,32 @@
+{
+  "finding": "Complete Vascular Rings",
+  "slug": "complete_vascular_rings_fc41e3",
+  "chapter": "AORTA",
+  "source_file": "processed_clusters/aorta/complete_vascular_rings_fc41e3.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Double aortic arch",
+      "raw": "Double aortic arch (55%)",
+      "frequency": "55%"
+    },
+    {
+      "name": "R aortic arch + aberrant L subclavian a. + L ligamentum arteriosum",
+      "raw": "R aortic arch + aberrant L subclavian a. + L ligamentum arteriosum (12-25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "R aortic arch with mirror-image branching + retroesophageal L ligamentum arteriosum",
+      "raw": "R aortic arch with mirror-image branching + retroesophageal L ligamentum arteriosum",
+      "frequency": null
+    },
+    {
+      "name": "L aortic arch + R descending aorta, R subclavian artery + R ligamentum arteriosum",
+      "raw": "L aortic arch + R descending aorta, R subclavian artery + R ligamentum arteriosum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

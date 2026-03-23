@@ -1,0 +1,43 @@
+{
+  "name": "HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS",
+  "slug": "hemophagocytic_lymphohistiocytosis",
+  "chapter": "HEAD TRAUMA",
+  "source_file": "processed_clusters/disease_entries/head_trauma/hemophagocytic_lymphohistiocytosis.md",
+  "definition": "macrophage-related disorder characterized by excess lymphocytes + activated macrophages,",
+  "demographics": {
+    "Histo": "absence of CD1a",
+    "Location": "bone marrow, spleen, liver, lymph nodes",
+    "Associated with": "infection, prolonged immunosuppression"
+  },
+  "dominant_finding": "calcifications favoring gray-white matter junction",
+  "distribution": "bone marrow, spleen, liver, lymph nodes",
+  "discriminating_features": [
+    "interstitial opacities ± pleural effusion",
+    "calcifications favoring gray-white matter junction",
+    "hepatosplenomegaly",
+    "subcortical white matter foci with ↑ T2 signal intensity",
+    "leptomeningeal enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "interstitial opacities ± pleural effusion"
+    ],
+    "MR": [
+      "subcortical white matter foci with ↑ T2 signal intensity",
+      "leptomeningeal enhancement",
+      "cerebral volume loss → dilated ventricles + prominent extra-axial fluid"
+    ],
+    "CT": [
+      "calcifications favoring gray-white matter junction",
+      "hepatosplenomegaly"
+    ],
+    "US": [
+      "gallbladder wall thickening, ↑ periportal echogenicity",
+      "ascites, lymphadenopathy",
+      "nephromegaly, ↑ renal cortical echogenicity"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "variably relapsing + remitting / rapidly progressive; fatal if untreated"
+  }
+}

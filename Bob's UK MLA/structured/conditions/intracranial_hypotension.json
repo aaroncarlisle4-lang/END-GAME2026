@@ -1,0 +1,31 @@
+{
+  "name": "INTRACRANIAL HYPOTENSION",
+  "slug": "intracranial_hypotension",
+  "chapter": "HEAD TRAUMA",
+  "source_file": "processed_clusters/disease_entries/head_trauma/intracranial_hypotension.md",
+  "definition": "rare cause of orthostatic headache worsening in upright position",
+  "demographics": {},
+  "dominant_finding": "sagging of posterior fossa:",
+  "distribution": "sagging of posterior fossa:",
+  "discriminating_features": [
+    "sagging of posterior fossa:",
+    "low-lying cerebellar tonsils",
+    "elongation of 4th ventricle",
+    "effacement of prepontine cistern",
+    "diffuse smooth linear pachymeningeal enhancement ← ↑ intracranial venous blood flow"
+  ],
+  "other_features": {
+    "general": [
+      "sagging of posterior fossa:",
+      "low-lying cerebellar tonsils",
+      "elongation of 4th ventricle",
+      "effacement of prepontine cistern",
+      "diffuse smooth linear pachymeningeal enhancement ← ↑ intracranial venous blood flow",
+      "bilateral subdural effusions",
+      "enlarged pituitary gland"
+    ]
+  },
+  "clinical": {
+    "Rx": "conservative therapy with bed rest; autologous epidural blood patch"
+  }
+}

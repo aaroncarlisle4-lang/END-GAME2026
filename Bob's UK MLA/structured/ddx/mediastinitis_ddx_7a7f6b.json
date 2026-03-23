@@ -1,0 +1,22 @@
+{
+  "finding": "Mediastinitis (DDx)",
+  "slug": "mediastinitis_ddx_7a7f6b",
+  "chapter": "Mediastinitis",
+  "source_file": "processed_clusters/mediastinitis/mediastinitis_ddx_7a7f6b.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibrosing mediastinitis (infiltrative",
+      "raw": "fibrosing mediastinitis (infiltrative",
+      "frequency": null
+    },
+    {
+      "name": "rare)",
+      "raw": "rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "lymphadenopathy"
+}

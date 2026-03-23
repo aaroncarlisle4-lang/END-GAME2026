@@ -1,0 +1,30 @@
+{
+  "finding": "B. RENAL MEDULLA",
+  "slug": "b_renal_medulla_a36f1d",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/b_renal_medulla_a36f1d.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemorrhagic fever with renal syndrome",
+      "raw": "Hemorrhagic fever with renal syndrome (uncommon viral illness caused by Hantavirus)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Renal medullary hemorrhage [Right atrial hemorrhage]",
+      "raw": "Renal medullary hemorrhage",
+      "frequency": null,
+      "sites": [
+        "Right atrial hemorrhage"
+      ]
+    },
+    {
+      "name": "Necrosis of anterior pituitary",
+      "raw": "Necrosis of anterior pituitary",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Triad:"
+}

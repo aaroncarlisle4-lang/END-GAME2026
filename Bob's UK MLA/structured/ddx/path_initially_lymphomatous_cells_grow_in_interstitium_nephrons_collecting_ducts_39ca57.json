@@ -1,0 +1,72 @@
+{
+  "finding": "Path: initially lymphomatous cells grow in interstitium; nephrons, collecting ducts, blood",
+  "slug": "path_initially_lymphomatous_cells_grow_in_interstitium_nephrons_collecting_ducts_39ca57",
+  "chapter": "LIPOMA OF SCROTUM",
+  "source_file": "processed_clusters/lipoma_of_scrotum/path_initially_lymphomatous_cells_grow_in_interstitium_nephrons_collecting_ducts_39ca57.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NON-HODGKIN LYMPHOMA (more common) (a)  SECONDARY ← systemic disease",
+      "raw": "NON-HODGKIN LYMPHOMA (more common) (a)  SECONDARY ← systemic disease",
+      "frequency": "common"
+    },
+    {
+      "name": "HODGKIN DISEASE",
+      "raw": "HODGKIN DISEASE (< 1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Hematogenous dissemination (bilateral in 75%):",
+      "raw": "Hematogenous dissemination (bilateral in 75%):",
+      "frequency": "75%"
+    },
+    {
+      "name": "Direct extension from retroperitoneal mass / adenopathy (25-30%):",
+      "raw": "Direct extension from retroperitoneal mass / adenopathy (25-30%):",
+      "frequency": "30%"
+    },
+    {
+      "name": "Isolated perinephric lymphoma",
+      "raw": "Isolated perinephric lymphoma (< 10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "clinically silent (50%), palpable mass, hematuria",
+      "raw": "clinically silent (50%), palpable mass, hematuria",
+      "frequency": "50%"
+    },
+    {
+      "name": "flank pain, weight loss, fever, night sweats",
+      "raw": "flank pain, weight loss, fever, night sweats",
+      "frequency": null
+    },
+    {
+      "name": "compromised renal function: urinary tract obstruction, renal vein compression, diffuse infiltration of kidney, superimposed infarct, amyloidosis, hypercalcemia",
+      "raw": "compromised renal function: urinary tract obstruction, renal vein compression, diffuse infiltration of kidney, superimposed infarct, amyloidosis, hypercalcemia",
+      "frequency": null
+    },
+    {
+      "name": "clinically silent → presenting with ⇓ renal function",
+      "raw": "clinically silent → presenting with ⇓ renal function",
+      "frequency": null
+    },
+    {
+      "name": "RCC",
+      "raw": "RCC (more heterogeneous, vascular invasion)",
+      "frequency": null
+    },
+    {
+      "name": "Metastases ← lung, breast, stomach, melanoma, synchronous renal cell cancer",
+      "raw": "Metastases ← lung, breast, stomach, melanoma, synchronous renal cell cancer",
+      "frequency": null
+    },
+    {
+      "name": "Acute pyelonephritis, septic emboli, renal infarct, abscess",
+      "raw": "Acute pyelonephritis, septic emboli, renal infarct, abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "vessels serve as framework for tumor expansion; with continued growth → parenchymal compression + destruction Types: Type:   typically intermediate + high-grade B-cell type At risk:   immunocompromised patients with uncontrolled Epstein-Barr virus proliferation in patients with HIV infection / organ transplantation (esp. after cyclosporine therapy), ataxia-telangiectasia (b)  PRIMARY renal lymphoma (< 1%) arising in renal hilar nodes / renal parenchyma Prevalence:   renal involvement in 13% of autopsies Patterns of involvement: ›  multiple foci (50-65%): √  multiple hypoenhancing 1-3 cm usuall"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "C. CHRONIC / ACUTE INFLAMMATION",
+  "slug": "c_chronic_acute_inflammation_ddf96f",
+  "chapter": "D. FIBROSING MEDIASTINITIS",
+  "source_file": "processed_clusters/d_fibrosing_mediastinitis/c_chronic_acute_inflammation_ddf96f.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchiectasis",
+      "raw": "Bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "Infection: TB, nontuberculous mycobacterial infection, cystic fibrosis, chronic fungal infection",
+      "raw": "Infection: TB, nontuberculous mycobacterial infection, cystic fibrosis, chronic fungal infection",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy",
+      "raw": "Malignancy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,132 @@
+{
+  "finding": "Soft-tissue Uptake of Bone Agents",
+  "slug": "soft_tissue_uptake_of_bone_agents_e04923",
+  "chapter": "Musculoskeletal Fibromatoses",
+  "source_file": "processed_clusters/musculoskeletal_fibromatoses/soft_tissue_uptake_of_bone_agents_e04923.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Physiologic",
+      "raw": "Physiologic",
+      "frequency": null
+    },
+    {
+      "name": "Breast",
+      "raw": "Breast",
+      "frequency": null
+    },
+    {
+      "name": "Kidney: accentuated uptake with dehydration, antineoplastic drugs, gentamicin",
+      "raw": "Kidney: accentuated uptake with dehydration, antineoplastic drugs, gentamicin",
+      "frequency": null
+    },
+    {
+      "name": "Bowel: surgical diversion of urinary tract",
+      "raw": "Bowel: surgical diversion of urinary tract",
+      "frequency": null
+    },
+    {
+      "name": "Faulty preparation with radiochemical impurity",
+      "raw": "Faulty preparation with radiochemical impurity (a)  free pertechnetate (TcO4-)",
+      "frequency": null
+    },
+    {
+      "name": "Neoplastic condition (a)  benign tumor",
+      "raw": "Neoplastic condition (a)  benign tumor",
+      "frequency": null
+    },
+    {
+      "name": "Tumoral calcinosis",
+      "raw": "Tumoral calcinosis",
+      "frequency": null
+    },
+    {
+      "name": "Myositis ossificans (b)  primary malignant neoplasm",
+      "raw": "Myositis ossificans (b)  primary malignant neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Extraskeletal osteosarcoma / soft-tissue sarcoma: bone forming",
+      "raw": "Extraskeletal osteosarcoma / soft-tissue sarcoma: bone forming",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma (35-74%): calcifying tumor",
+      "raw": "Neuroblastoma (35-74%): calcifying tumor",
+      "frequency": "74%"
+    },
+    {
+      "name": "Breast carcinoma",
+      "raw": "Breast carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Pericardial tumor (c)  metastases with extraosseous activity",
+      "raw": "Pericardial tumor (c)  metastases with extraosseous activity",
+      "frequency": null
+    },
+    {
+      "name": "to liver: mucinous carcinoma of colon, breast carcinoma, lung cancer, osteosarcoma",
+      "raw": "to liver: mucinous carcinoma of colon, breast carcinoma, lung cancer, osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lung cancer",
+      "raw": "Lung cancer",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal carcinoma",
+      "raw": "Esophageal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Colon carcinoma",
+      "raw": "Colon carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Oat cell carcinoma",
+      "raw": "Oat cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast carcinoma",
+      "raw": "Breast carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenic sarcoma",
+      "raw": "Osteogenic sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "to lung: 20-40% of osteosarcomas metastatic to lung demonstrate 99mTc-MDP uptake",
+      "raw": "to lung: 20-40% of osteosarcomas metastatic to lung demonstrate 99mTc-MDP uptake",
+      "frequency": "40%"
+    },
+    {
+      "name": "Malignant pleural effusion, ascites, pericardial effusion",
+      "raw": "Malignant pleural effusion, ascites, pericardial effusion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:   introduction of air into the reaction vial √  activity in mouth (saliva), salivary glands, thyroid, stomach (mucus-producing cells), GI tract (direct secretion + intestinal transport from gastric juices), choroid plexus (b)  99mTc-MDP colloid Cause:   excess aluminum ions in generator eluate / patient ingestion of antacids; hydrolysis of stannous chloride to stannous hydroxide, excess hydrolyzed technetium √  diffuse activity in liver + spleen"
+}

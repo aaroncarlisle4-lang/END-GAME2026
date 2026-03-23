@@ -1,0 +1,32 @@
+{
+  "finding": "Tarsal Coalition (DDx)",
+  "slug": "tarsal_coalition_ddx_20ce4b",
+  "chapter": "Tarsal Coalition",
+  "source_file": "processed_clusters/tarsal_coalition/tarsal_coalition_ddx_20ce4b.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "acquired intertarsal ankylosis (infection",
+      "raw": "acquired intertarsal ankylosis (infection",
+      "frequency": null
+    },
+    {
+      "name": "trauma",
+      "raw": "trauma",
+      "frequency": null
+    },
+    {
+      "name": "arthritis",
+      "raw": "arthritis",
+      "frequency": null
+    },
+    {
+      "name": "surgery)",
+      "raw": "surgery)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"C\" sign = C-shaped outline of the medial talar dome + posteroinferior | bony bar bridging the middle facet of subtalar joint | narrowed middle facet with reactive cystic + hypertrophic changes | downward or horizontal slope of sustentaculum, instead of upward"
+}

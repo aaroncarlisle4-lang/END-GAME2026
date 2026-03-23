@@ -1,0 +1,37 @@
+{
+  "name": "FETAL GASTROINTESTINAL ANOMALIES",
+  "slug": "fetal_gastrointestinal_anomalies",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF OBSTETRIC AND GYNECOLOGIC",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_obstetric_and_gynecologic/fetal_gastrointestinal_anomalies.md",
+  "definition": "fluid-filled stomach + proximal duodenum",
+  "demographics": {
+    "Prevalence": "6÷2,000 pregnancies; 6÷10,000 births",
+    "Etiology": "intestinal atresia / stenosis secondary to vascular accident, volvulus, meconium",
+    "Associated with": "GI anomalies in 45% (malrotation, duplication, microcolon, esophageal",
+    "Incidence": "abdominal cyst in 1÷500 - 1÷1,000 live births; 1÷2,625 pregnancies"
+  },
+  "dominant_finding": "multiple distended bowel loops > 7 mm in diameter",
+  "distribution": "congenital diaphragmatic hernia",
+  "discriminating_features": [
+    "stomach on contralateral side (situs inversus)",
+    "congenital diaphragmatic hernia",
+    "multiple distended bowel loops > 7 mm in diameter",
+    "increased peristalsis",
+    "polyhydramnios (if obstruction above level of mid jejunum; exceptions are esophageal"
+  ],
+  "other_features": {
+    "general": [
+      "stomach on contralateral side (situs inversus)",
+      "congenital diaphragmatic hernia",
+      "multiple distended bowel loops > 7 mm in diameter",
+      "increased peristalsis",
+      "polyhydramnios (if obstruction above level of mid jejunum; exceptions are esophageal"
+    ]
+  },
+  "clinical": {
+    "Rx": "repeat ultrasound scan",
+    "Cx": "Meconium peritonitis (50%)",
+    "Management": "parental testing for cystic fibrosis, careful fetal anatomic survey, follow-up",
+    "Prognosis": "resolution before / after delivery"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Sclerotic Non-Tooth-Related Jaw lesion",
+  "slug": "sclerotic_non_tooth_related_jaw_lesion_707dc1",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/sclerotic_non_tooth_related_jaw_lesion_707dc1.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteoma",
+      "raw": "Osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Torus = exostosis",
+      "raw": "Torus = exostosis",
+      "frequency": null
+    },
+    {
+      "name": "Benign fibro-osseous lesions (a)  Ossifying fibroma: young adult; mandible > maxilla (b)  Monostotic fibrous dysplasia: M < F; younger patient",
+      "raw": "Benign fibro-osseous lesions (a)  Ossifying fibroma: young adult; mandible > maxilla (b)  Monostotic fibrous dysplasia: M < F; younger patient",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease involvement of jaw in 20%; maxilla > mandible",
+      "raw": "Paget disease involvement of jaw in 20%; maxilla > mandible",
+      "frequency": "20%"
+    },
+    {
+      "name": "Sclerosing metastasis / multiple myeloma",
+      "raw": "Sclerosing metastasis / multiple myeloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  near apex of nonvital tooth Location:  bilateral, symmetric involvement √  widened alveolar ridges √  flat palate √  loosening of teeth √  hypercementosis √  may cause destruction of lamina dura"
+}

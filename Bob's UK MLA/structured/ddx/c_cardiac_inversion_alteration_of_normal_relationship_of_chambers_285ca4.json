@@ -1,0 +1,27 @@
+{
+  "finding": "C. CARDIAC INVERSION = alteration of normal relationship of chambers",
+  "slug": "c_cardiac_inversion_alteration_of_normal_relationship_of_chambers_285ca4",
+  "chapter": "Bronchial Situs",
+  "source_file": "processed_clusters/bronchial_situs/c_cardiac_inversion_alteration_of_normal_relationship_of_chambers_285ca4.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "D-bulboventricular loop",
+      "raw": "D-bulboventricular loop",
+      "frequency": null
+    },
+    {
+      "name": "L-bulboventricular loop",
+      "raw": "L-bulboventricular loop",
+      "frequency": null
+    },
+    {
+      "name": "TRANSPOSITION =  alteration of anterior-posterior relationship of great vessels",
+      "raw": "TRANSPOSITION =  alteration of anterior-posterior relationship of great vessels",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

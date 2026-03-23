@@ -1,0 +1,38 @@
+{
+  "name": "IDIOPATHIC PULMONARY HEMOSIDEROSIS",
+  "slug": "idiopathic_pulmonary_hemosiderosis",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/idiopathic_pulmonary_hemosiderosis.md",
+  "definition": "IPH = probable autoimmune process with clinical + radiologic remissions + exacerbations",
+  "demographics": {
+    "Age": "(a)   chronic form: most commonly < 10 years of age",
+    "Histo": "hemosiderin-laden macrophages in bronchoalveolar lavage",
+    "Distribution": "perihilar + lower lung zone predominance"
+  },
+  "dominant_finding": "diffuse homogeneous areas of ground-glass attenuation (during exacerbation)",
+  "distribution": "perihilar + lower lung zone predominance",
+  "discriminating_features": [
+    "bilateral patchy alveolar-filling pattern (= blood in alveoli); initially for 2-3 days with return",
+    "reticular pattern (= deposition of hemosiderin in interstitial space) later",
+    "moderate fibrosis after repeated episodes",
+    "hilar lymph nodes may be enlarged during acute episodes",
+    "diffuse homogeneous areas of ground-glass attenuation (during exacerbation)"
+  ],
+  "other_features": {
+    "general": [
+      "bilateral patchy alveolar-filling pattern (= blood in alveoli); initially for 2-3 days with return",
+      "reticular pattern (= deposition of hemosiderin in interstitial space) later",
+      "moderate fibrosis after repeated episodes",
+      "hilar lymph nodes may be enlarged during acute episodes"
+    ],
+    "CT": [
+      "diffuse homogeneous areas of ground-glass attenuation (during exacerbation)",
+      "nodules + patchy areas of ground-glass attenuation (subacute phase)",
+      "septal lines (NOT in idiopathic form)",
+      "lung ossifications (NOT in idiopathic form)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death within 2-20 years (average survival 3 years)"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "name": "PNEUMOCOCCAL PNEUMONIA",
+  "slug": "pneumococcal_pneumonia",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/pneumococcal_pneumonia.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "15% of all adulthood pneumonias, uncommon in childhood; peaks in winter + early"
+  },
+  "dominant_finding": "prominent air bronchograms (20%)",
+  "distribution": "extensive airspace consolidation abutting against visceral pleura (lobar / beyond confines of",
+  "discriminating_features": [
+    "extensive airspace consolidation abutting against visceral pleura (lobar / beyond confines of",
+    "slight expansion of involved lobes",
+    "prominent air bronchograms (20%)",
+    "patchy bronchopneumonic pattern (in some)",
+    "pleural effusion (parapneumonic transudate) uncommon with antibiotic therapy"
+  ],
+  "other_features": {
+    "general": [
+      "extensive airspace consolidation abutting against visceral pleura (lobar / beyond confines of",
+      "slight expansion of involved lobes",
+      "prominent air bronchograms (20%)",
+      "patchy bronchopneumonic pattern (in some)",
+      "pleural effusion (parapneumonic transudate) uncommon with antibiotic therapy",
+      "cavitation (rare, with type III)",
+      "bronchopneumonia-like pattern",
+      "effusion may be only presentation (esp. in COPD)",
+      "empyema (with persistent fever)",
+      "round pneumonia = sharply defined round lesion"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "prompt response to antibiotics (if without complications); 5% mortality rate",
+    "Cx": "meningitis, endocarditis, septic arthritis, empyema (now rarely seen)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Intensely Enhancing Mass in Pineal Region",
+  "slug": "intensely_enhancing_mass_in_pineal_region_cb335a",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/intensely_enhancing_mass_in_pineal_region_cb335a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Germinoma",
+      "raw": "Germinoma",
+      "frequency": null
+    },
+    {
+      "name": "Pineocytoma / pineoblastoma",
+      "raw": "Pineocytoma / pineoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Pineal teratocarcinoma",
+      "raw": "Pineal teratocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Glioma of brainstem / thalamus",
+      "raw": "Glioma of brainstem / thalamus",
+      "frequency": null
+    },
+    {
+      "name": "Subsplenial meningioma",
+      "raw": "Subsplenial meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Vein of Galen aneurysm",
+      "raw": "Vein of Galen aneurysm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

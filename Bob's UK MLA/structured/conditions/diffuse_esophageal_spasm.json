@@ -1,0 +1,26 @@
+{
+  "name": "DIFFUSE ESOPHAGEAL SPASM",
+  "slug": "diffuse_esophageal_spasm",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/diffuse_esophageal_spasm.md",
+  "definition": "",
+  "demographics": {
+    "Age": "more common in patients > 50 years",
+    "Location": "primarily in distal ²/³ of esophagus"
+  },
+  "dominant_finding": "CLASSIC corkscrew appearance → may obliterate esophageal lumen",
+  "distribution": "primarily in distal ²/³ of esophagus",
+  "discriminating_features": [
+    "CLASSIC corkscrew appearance → may obliterate esophageal lumen",
+    "compartmentalization of esophagus by numerous tertiary contractions",
+    "multiple spontaneous uncoordinated esophageal contractions, often intermittent"
+  ],
+  "other_features": {
+    "general": [
+      "compartmentalization of esophagus by numerous tertiary contractions",
+      "multiple spontaneous uncoordinated esophageal contractions, often intermittent",
+      "CLASSIC corkscrew appearance → may obliterate esophageal lumen"
+    ]
+  },
+  "clinical": {}
+}

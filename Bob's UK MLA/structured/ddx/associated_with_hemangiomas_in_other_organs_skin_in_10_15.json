@@ -1,0 +1,127 @@
+{
+  "finding": "Associated with: hemangiomas in other organs + skin in 10-15%",
+  "slug": "associated_with_hemangiomas_in_other_organs_skin_in_10_15",
+  "chapter": "GALLBLADDER TORSION",
+  "source_file": "processed_clusters/gallbladder_torsion/associated_with_hemangiomas_in_other_organs_skin_in_10_15.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "abdominal mass ← hepatomegaly; hemangiomas of skin",
+      "raw": "abdominal mass ← hepatomegaly; hemangiomas of skin",
+      "frequency": null
+    },
+    {
+      "name": "may present with high-output CHF 2° to AV shunts within tumor",
+      "raw": "may present with high-output CHF 2° to AV shunts within tumor (8 -15-25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "hemolytic anemia; Kasabach-Merritt syndrome",
+      "raw": "hemolytic anemia; Kasabach-Merritt syndrome",
+      "frequency": null
+    },
+    {
+      "name": "cardiac dysfunction + mental retardation ← severe hypothyroidism ← tumor produces high levels of type 3 iodothyronine deiodinase activity",
+      "raw": "cardiac dysfunction + mental retardation ← severe hypothyroidism ← tumor produces high levels of type 3 iodothyronine deiodinase activity",
+      "frequency": null
+    },
+    {
+      "name": "Kasabach-Merritt sequence (hemolytic anemia, thrombocytopenia, and consumptive coagulopathy) in fetus",
+      "raw": "Kasabach-Merritt sequence (hemolytic anemia, thrombocytopenia, and consumptive coagulopathy) in fetus",
+      "frequency": null
+    },
+    {
+      "name": "fetal hydrops → anasarca, ascites, pleural effusion, cardiomegaly",
+      "raw": "fetal hydrops → anasarca, ascites, pleural effusion, cardiomegaly",
+      "frequency": null
+    },
+    {
+      "name": "polyhydramnios",
+      "raw": "polyhydramnios",
+      "frequency": null
+    },
+    {
+      "name": "Congestive heart failure",
+      "raw": "Congestive heart failure",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic diathesis",
+      "raw": "Hemorrhagic diathesis",
+      "frequency": null
+    },
+    {
+      "name": "Obstructive jaundice",
+      "raw": "Obstructive jaundice",
+      "frequency": null
+    },
+    {
+      "name": "Hemoperitoneum ← rupture of tumor",
+      "raw": "Hemoperitoneum ← rupture of tumor",
+      "frequency": null
+    },
+    {
+      "name": "Malignant transformation into angiosarcoma",
+      "raw": "Malignant transformation into angiosarcoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "No treatment if asymptomatic",
+      "raw": "No treatment if asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "Reduction in size with steroids / radiotherapy / chemotherapy",
+      "raw": "Reduction in size with steroids / radiotherapy / chemotherapy (interferon-α-2a, vincristine)",
+      "frequency": null
+    },
+    {
+      "name": "Embolization",
+      "raw": "Embolization",
+      "frequency": null
+    },
+    {
+      "name": "Surgical resection / liver transplantation",
+      "raw": "Surgical resection / liver transplantation",
+      "frequency": null
+    },
+    {
+      "name": "Hepatoblastoma",
+      "raw": "Hepatoblastoma (> 1 year of age, markedly elevated α-fetoprotein in 90%, more heterogeneous enhancement pattern)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Mesenchymal hamartoma",
+      "raw": "Mesenchymal hamartoma (usually multicystic multilocular mass, hypovascular mass with enhancement of septa + solid tumor portions)",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic neuroblastoma",
+      "raw": "Metastatic neuroblastoma (elevated urinary catecholamines, adrenal / retroperitoneal / posterior mediastinal masses, nonenhancing multiple liver masses)",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma (heterogeneous SI in multifocal lesions on T2WI, lack of flow voids, central / mild peripheral enhancement)",
+      "frequency": null
+    },
+    {
+      "name": "low platelets; hemolytic anemia",
+      "raw": "low platelets; hemolytic anemia",
+      "frequency": null
+    },
+    {
+      "name": "hemangioma / hemangioendothelioma / angiosarcoma → platelet sequestration by tumor → thrombocytopenic purpura → increased systemic fibrinolysis",
+      "raw": "hemangioma / hemangioendothelioma / angiosarcoma → platelet sequestration by tumor → thrombocytopenic purpura → increased systemic fibrinolysis",
+      "frequency": null
+    },
+    {
+      "name": "disseminated intravascular coagulopathy → hemorrhage, infection, multiple organ failure",
+      "raw": "disseminated intravascular coagulopathy → hemorrhage, infection, multiple organ failure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   increased with hemihypertrophy + Beckwith-Wiedemann syndrome Location in other sites: skin, trachea, thorax, adrenal gland, dura mater (10-70%); especially with multifocal liver tumors → chest x-ray, brain imaging Average size:   3.0 (range, 0.5-20.0) cm; multifocal lesions around 1 cm in diameter √  diffuse involvement of entire liver → hepatomegaly √  focal single mass (50%) / multifocal masses (50%) √  enlargement of celiac + hepatic arteries + proximal aorta √  rapid decrease in aortic caliber below celiac trunk √  enlarged hepatic veins (increased venous flow) Plain film: √"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Skin (Dermal) Lesions of Breast",
+  "slug": "skin_dermal_lesions_of_breast",
+  "chapter": "BREAST SKIN",
+  "source_file": "processed_clusters/breast_skin/skin_dermal_lesions_of_breast.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "DERMAL",
+      "raw": "DERMAL",
+      "frequency": null
+    },
+    {
+      "name": "Sebaceous cyst",
+      "raw": "Sebaceous cyst",
+      "frequency": null
+    },
+    {
+      "name": "Epidermal inclusion cyst",
+      "raw": "Epidermal inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Dermal calcifications",
+      "raw": "Dermal calcifications",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

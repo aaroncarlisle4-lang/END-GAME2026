@@ -1,0 +1,28 @@
+{
+  "name": "CONGENITAL ESOPHAGEAL STENOSIS",
+  "slug": "congenital_esophageal_stenosis",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/congenital_esophageal_stenosis.md",
+  "definition": "rare developmental anomaly",
+  "demographics": {
+    "Prevalence": "1÷25,000 to 1÷50,000 live births",
+    "Location": "lower ⅓ of esophagus"
+  },
+  "dominant_finding": "segmental stricture with a smooth tapered area of concentric narrowing of 1 cm in",
+  "distribution": "lower ⅓ of esophagus",
+  "discriminating_features": [
+    "ringlike constriction",
+    "segmental stricture with a smooth tapered area of concentric narrowing of 1 cm in",
+    "circumferential wall thickening on CT",
+    "weblike stenosis"
+  ],
+  "other_features": {
+    "general": [
+      "ringlike constriction",
+      "segmental stricture with a smooth tapered area of concentric narrowing of 1 cm in",
+      "circumferential wall thickening on CT",
+      "weblike stenosis"
+    ]
+  },
+  "clinical": {}
+}

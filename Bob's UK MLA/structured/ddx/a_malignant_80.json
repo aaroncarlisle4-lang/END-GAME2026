@@ -1,0 +1,32 @@
+{
+  "finding": "A. MALIGNANT (80%",
+  "slug": "a_malignant_80",
+  "chapter": "DIAPHRAGM",
+  "source_file": "processed_clusters/diaphragm/a_malignant_80.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Undifferentiated sarcoma",
+      "raw": "Undifferentiated sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Germ cell tumor",
+      "raw": "Germ cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

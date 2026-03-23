@@ -1,0 +1,3937 @@
+nohup: ignoring input
+[dotenv@17.3.1] injecting env (3) from .env.local -- tip: 🛡️ auth for agents: https://vestauth.com
+[dotenv@17.3.1] injecting env (0) from .env -- tip: ⚡️ secrets for agents: https://dotenvx.com/as2
+Fetching discriminators...
+Processing 890 discriminators...
+- Multiple fractures of varying ages in a pre-ambulatory infant: No missing serious alternatives.
+- Widened first-second intermetatarsal space with metatarsal base fracture: No missing serious alternatives.
+- Intensely increased bone scan uptake involving entire bones with expansion: No missing serious alternatives.
+- Multiple randomly distributed foci of increased skeletal uptake on bone scan: No missing serious alternatives.
+- Intracortical lucent nidus with central calcification and surrounding reactive sclerosis: No missing serious alternatives.
+- H-shaped sacral uptake on bone scan in an elderly osteoporotic patient: No missing serious alternatives.
+- Diffuse lobulated synovial thickening with low signal on all MRI sequences and blooming artefact: No missing serious alternatives.
+- Severe joint destruction with sclerosis, fragmentation, and subluxation in a diabetic patient with disproportionately little pain: No missing serious alternatives.
+- Permeative diaphyseal destruction with sequestrum and involucrum in a child: No missing serious alternatives.
+- Bilateral symmetric smooth periosteal reaction in a neonate: No missing serious alternatives.
+- Bilateral symmetric sacroiliac joint erosions with sclerosis and ankylosis: No missing serious alternatives.
+- Bilateral symmetric erosive arthropathy of MCP joints with periarticular osteopenia: No missing serious alternatives.
+- DIP and PIP joint arthropathy with gull-wing deformity and MCP sparing: No missing serious alternatives.
+- Erosive arthropathy of the first MTP joint with overhanging edges and tophi: No missing serious alternatives.
+- Chondrocalcinosis with lateral compartment knee osteoarthritis: No missing serious alternatives.
+- Solitary vertebra plana in a child with preserved disc spaces: No missing serious alternatives.
+- Acute monoarticular joint effusion with periarticular osteopenia and rapid joint destruction in an immunocompromised or post-procedural patient: No missing serious alternatives.
+- Cystic lesion at the joint line adjacent to a meniscal tear with internal communication to the joint: No missing serious alternatives.
+- Shoulder radiograph with internally rotated fixed humeral head, lightbulb sign, and trough line defect: No missing serious alternatives.
+- Asymmetric erosive arthropathy with DIP involvement, periostitis, and pencil-in-cup deformity in a patient with skin/nail changes: No missing serious alternatives.
+- Horizontal vertebral body fracture extending through pedicles and posterior elements with distraction mechanism — seatbelt injury: No missing serious alternatives.
+
+Pattern: Absent bow-tie sign on sagittal MRI with double PCL sign and displaced meniscal fragment in the intercondylar notch
+Missing: Loose osteochondral body, Prior partial meniscectomy (surgical absence)
+  > Generating: Loose osteochondral body
+    ✅ Generated Loose osteochondral body
+  > Generating: Prior partial meniscectomy (surgical absence)
+    ✅ Generated Prior partial meniscectomy (surgical absence)
+  💾 Updated Absent bow-tie sign on sagittal MRI with double PCL sign and displaced meniscal fragment in the intercondylar notch in database.
+
+Pattern: Complete discontinuity of supraspinatus tendon with fluid-filled gap extending from bursal to articular surface and tendon retraction
+Missing: Rotator cuff arthropathy (end-stage massive chronic tear), Adhesive capsulitis with secondary disuse atrophy
+  > Generating: Rotator cuff arthropathy (end-stage massive chronic tear)
+    ✅ Generated Rotator cuff arthropathy (end-stage massive chronic tear)
+  > Generating: Adhesive capsulitis with secondary disuse atrophy
+    ✅ Generated Adhesive capsulitis with secondary disuse atrophy
+  💾 Updated Complete discontinuity of supraspinatus tendon with fluid-filled gap extending from bursal to articular surface and tendon retraction in database.
+
+Pattern: Discontinuous ACL with pivot-shift bone contusion pattern — posterolateral tibial plateau and mid-lateral femoral condyle
+Missing: PCL tear (dashboard mechanism — posterior tibial contusion), Multiligamentous knee injury (knee dislocation)
+  > Generating: PCL tear (dashboard mechanism — posterior tibial contusion)
+    ✅ Generated PCL tear (dashboard mechanism — posterior tibial contusion)
+  > Generating: Multiligamentous knee injury (knee dislocation)
+    ✅ Generated Multiligamentous knee injury (knee dislocation)
+  💾 Updated Discontinuous ACL with pivot-shift bone contusion pattern — posterolateral tibial plateau and mid-lateral femoral condyle in database.
+
+Pattern: Diffuse lobulated synovial thickening with low signal on T1 and T2 (haemosiderin blooming) causing extrinsic bone erosions on both sides of the joint
+Missing: Synovial hemangioma, Haemophilic arthropathy
+  > Generating: Synovial hemangioma
+    ✅ Generated Synovial hemangioma
+  > Generating: Haemophilic arthropathy
+    ✅ Generated Haemophilic arthropathy
+  💾 Updated Diffuse lobulated synovial thickening with low signal on T1 and T2 (haemosiderin blooming) causing extrinsic bone erosions on both sides of the joint in database.
+
+Pattern: Intracortical lucent nidus <1.5cm with central calcification and surrounding dense reactive sclerosis — night pain relieved by NSAIDs
+Missing: Osteoblastoma (nidus >1.5-2cm, posterior spine elements)
+  > Generating: Osteoblastoma (nidus >1.5-2cm, posterior spine elements)
+    ✅ Generated Osteoblastoma (nidus >1.5-2cm, posterior spine elements)
+  💾 Updated Intracortical lucent nidus <1.5cm with central calcification and surrounding dense reactive sclerosis — night pain relieved by NSAIDs in database.
+
+Pattern: Scaphoid waist fracture with dorsal displacement of capitate and carpus relative to lunate — trans-scaphoid perilunate fracture-dislocation on lateral radiograph
+Missing: Scaphoid fracture without perilunate instability, Midcarpal dislocation
+  > Generating: Scaphoid fracture without perilunate instability
+    ✅ Generated Scaphoid fracture without perilunate instability
+  > Generating: Midcarpal dislocation
+    ✅ Generated Midcarpal dislocation
+  💾 Updated Scaphoid waist fracture with dorsal displacement of capitate and carpus relative to lunate — trans-scaphoid perilunate fracture-dislocation on lateral radiograph in database.
+
+Pattern: Fleck sign — small cortical avulsion from posterolateral distal fibula at superior peroneal retinaculum attachment
+Missing: Lateral malleolar fracture (Weber classification), Osteochondral defect of the talar dome
+  > Generating: Lateral malleolar fracture (Weber classification)
+    ✅ Generated Lateral malleolar fracture (Weber classification)
+  > Generating: Osteochondral defect of the talar dome
+    ✅ Generated Osteochondral defect of the talar dome
+  💾 Updated Fleck sign — small cortical avulsion from posterolateral distal fibula at superior peroneal retinaculum attachment in database.
+
+Pattern: Multiple bony outgrowths with cortical and medullary continuity with parent bone — osteochondromas pointing away from joints with undertubulation
+Missing: Secondary chondrosarcoma arising from osteochondroma, Trevor disease (dysplasia epiphysealis hemimelica)
+  > Generating: Secondary chondrosarcoma arising from osteochondroma
+    ✅ Generated Secondary chondrosarcoma arising from osteochondroma
+  > Generating: Trevor disease (dysplasia epiphysealis hemimelica)
+    ✅ Generated Trevor disease (dysplasia epiphysealis hemimelica)
+  💾 Updated Multiple bony outgrowths with cortical and medullary continuity with parent bone — osteochondromas pointing away from joints with undertubulation in database.
+
+Pattern: Amorphous cloud-like periarticular calcification adjacent to an MCP joint with acute pain and swelling — no joint destruction
+Missing: Septic arthritis (must clinically exclude), Heterotopic ossification
+  > Generating: Septic arthritis (must clinically exclude)
+    ✅ Generated Septic arthritis (must clinically exclude)
+  > Generating: Heterotopic ossification
+    ✅ Generated Heterotopic ossification
+  💾 Updated Amorphous cloud-like periarticular calcification adjacent to an MCP joint with acute pain and swelling — no joint destruction in database.
+
+Pattern: Dense lobulated exophytic ossified mass arising from posterior distal femoral cortex with cleavage plane and homogeneous mature ossification
+Missing: Periosteal osteosarcoma (intermediate grade, chondroid matrix), High-grade surface osteosarcoma
+  > Generating: Periosteal osteosarcoma (intermediate grade, chondroid matrix)
+    ✅ Generated Periosteal osteosarcoma (intermediate grade, chondroid matrix)
+  > Generating: High-grade surface osteosarcoma
+    ✅ Generated High-grade surface osteosarcoma
+  💾 Updated Dense lobulated exophytic ossified mass arising from posterior distal femoral cortex with cleavage plane and homogeneous mature ossification in database.
+
+Pattern: Bilateral acro-osteolysis of terminal tufts with subcutaneous calcinosis and soft tissue atrophy in a patient with Raynaud's phenomenon
+Missing: Thermal injury (frostbite), PVC worker's acro-osteolysis (occupational)
+  > Generating: Thermal injury (frostbite)
+    ✅ Generated Thermal injury (frostbite)
+  > Generating: PVC worker's acro-osteolysis (occupational)
+    ✅ Generated PVC worker's acro-osteolysis (occupational)
+  💾 Updated Bilateral acro-osteolysis of terminal tufts with subcutaneous calcinosis and soft tissue atrophy in a patient with Raynaud's phenomenon in database.
+
+Pattern: Bilateral asymmetric erosions with overhanging edges (Martel hook sign), tophi, and preserved bone density at the first MTP joints
+Missing: Erosive osteoarthritis, Reactive arthritis
+  > Generating: Erosive osteoarthritis
+    ✅ Generated Erosive osteoarthritis
+  > Generating: Reactive arthritis
+    ✅ Generated Reactive arthritis
+  💾 Updated Bilateral asymmetric erosions with overhanging edges (Martel hook sign), tophi, and preserved bone density at the first MTP joints in database.
+
+Pattern: Selective denervation oedema of supraspinatus and infraspinatus with intact tendons and no compressive lesion — post-surgical onset with pain preceding weakness
+Missing: Cervical radiculopathy (C5-C6), Quadrilateral space syndrome (axillary nerve — affects deltoid and teres minor, NOT supraspinatus/infraspinatus)
+  > Generating: Cervical radiculopathy (C5-C6)
+    ✅ Generated Cervical radiculopathy (C5-C6)
+  > Generating: Quadrilateral space syndrome (axillary nerve — affects deltoid and teres minor, NOT supraspinatus/infraspinatus)
+    ✅ Generated Quadrilateral space syndrome (axillary nerve — affects deltoid and teres minor, NOT supraspinatus/infraspinatus)
+  💾 Updated Selective denervation oedema of supraspinatus and infraspinatus with intact tendons and no compressive lesion — post-surgical onset with pain preceding weakness in database.
+
+Pattern: Multiple uniformly-sized calcified/ossified intra-articular loose bodies with ring-and-arc chondroid mineralisation in a young adult — no underlying OA
+Missing: Synovial sarcoma (rare, irregular calcification, soft tissue mass), PVNS (no calcification, haemosiderin)
+  > Generating: Synovial sarcoma (rare, irregular calcification, soft tissue mass)
+    ✅ Generated Synovial sarcoma (rare, irregular calcification, soft tissue mass)
+  > Generating: PVNS (no calcification, haemosiderin)
+    ✅ Generated PVNS (no calcification, haemosiderin)
+  💾 Updated Multiple uniformly-sized calcified/ossified intra-articular loose bodies with ring-and-arc chondroid mineralisation in a young adult — no underlying OA in database.
+
+Pattern: Isolated infraspinatus denervation oedema with lobular cystic mass in the spinoglenoid notch arising from a posterior labral tear
+Missing: Quadrilateral space syndrome (axillary nerve — affects teres minor + deltoid), Infraspinatus tendon tear with secondary atrophy
+  > Generating: Quadrilateral space syndrome (axillary nerve — affects teres minor + deltoid)
+    ✅ Generated Quadrilateral space syndrome (axillary nerve — affects teres minor + deltoid)
+  > Generating: Infraspinatus tendon tear with secondary atrophy
+    ✅ Generated Infraspinatus tendon tear with secondary atrophy
+  💾 Updated Isolated infraspinatus denervation oedema with lobular cystic mass in the spinoglenoid notch arising from a posterior labral tear in database.
+
+Pattern: Well-defined fusiform soft tissue mass with target sign (central T2 hypointensity, peripheral hyperintensity) and entering/exiting nerve — tail sign
+Missing: Soft tissue sarcoma (non-neural), Hematoma (post-traumatic)
+  > Generating: Soft tissue sarcoma (non-neural)
+    ✅ Generated Soft tissue sarcoma (non-neural)
+  > Generating: Hematoma (post-traumatic)
+    ✅ Generated Hematoma (post-traumatic)
+  💾 Updated Well-defined fusiform soft tissue mass with target sign (central T2 hypointensity, peripheral hyperintensity) and entering/exiting nerve — tail sign in database.
+
+Pattern: Kissing contusions of inferomedial patella and anterolateral lateral femoral condyle with MPFL disruption and osteochondral loose body
+Missing: Osteochondral fracture without dislocation, Multiligamentous knee injury
+  > Generating: Osteochondral fracture without dislocation
+    ✅ Generated Osteochondral fracture without dislocation
+  > Generating: Multiligamentous knee injury
+    ✅ Generated Multiligamentous knee injury
+  💾 Updated Kissing contusions of inferomedial patella and anterolateral lateral femoral condyle with MPFL disruption and osteochondral loose body in database.
+
+Pattern: Occult scaphoid waist fracture on radiograph with clinical suspicion — MRI confirms fracture line and bone marrow oedema
+Missing: Distal radius fracture, Perilunate instability
+  > Generating: Distal radius fracture
+    ✅ Generated Distal radius fracture
+  > Generating: Perilunate instability
+    ✅ Generated Perilunate instability
+  💾 Updated Occult scaphoid waist fracture on radiograph with clinical suspicion — MRI confirms fracture line and bone marrow oedema in database.
+
+Pattern: Oblique fibular fracture at the level of the syndesmosis with widened medial clear space on mortise view — bimalleolar equivalent injury
+Missing: Weber C fracture (above syndesmosis), Pilon fracture (axial loading)
+  > Generating: Weber C fracture (above syndesmosis)
+    ✅ Generated Weber C fracture (above syndesmosis)
+  > Generating: Pilon fracture (axial loading)
+    ✅ Generated Pilon fracture (axial loading)
+  💾 Updated Oblique fibular fracture at the level of the syndesmosis with widened medial clear space on mortise view — bimalleolar equivalent injury in database.
+
+Pattern: Well-defined intramedullary lytic lesion in the phalanx with chondroid (popcorn/ring-and-arc) matrix calcification and endosteal scalloping <2/3 cortical thickness
+Missing: Intraosseous ganglion (no chondroid matrix), Giant cell tumour (if subarticular)
+  > Generating: Intraosseous ganglion (no chondroid matrix)
+    ✅ Generated Intraosseous ganglion (no chondroid matrix)
+  > Generating: Giant cell tumour (if subarticular)
+    ✅ Generated Giant cell tumour (if subarticular)
+  💾 Updated Well-defined intramedullary lytic lesion in the phalanx with chondroid (popcorn/ring-and-arc) matrix calcification and endosteal scalloping <2/3 cortical thickness in database.
+
+Pattern: Bilateral metaphyseal fraying, cupping, and widened growth plates with osteopenia and bowing deformities in a child
+Missing: Schmid-type metaphyseal chondrodysplasia (normal biochemistry), Copper deficiency (Menkes disease)
+  > Generating: Schmid-type metaphyseal chondrodysplasia (normal biochemistry)
+    ✅ Generated Schmid-type metaphyseal chondrodysplasia (normal biochemistry)
+  > Generating: Copper deficiency (Menkes disease)
+    ✅ Generated Copper deficiency (Menkes disease)
+  💾 Updated Bilateral metaphyseal fraying, cupping, and widened growth plates with osteopenia and bowing deformities in a child in database.
+
+Pattern: Lateral and superior displacement of the femoral head relative to acetabulum in an infant with shallow acetabulum and delayed ossification of the femoral capital epiphysis
+Missing: Neuromuscular hip dysplasia (cerebral palsy), Legg-Calvé-Perthes disease (older child)
+  > Generating: Neuromuscular hip dysplasia (cerebral palsy)
+    ✅ Generated Neuromuscular hip dysplasia (cerebral palsy)
+  > Generating: Legg-Calvé-Perthes disease (older child)
+    ✅ Generated Legg-Calvé-Perthes disease (older child)
+  💾 Updated Lateral and superior displacement of the femoral head relative to acetabulum in an infant with shallow acetabulum and delayed ossification of the femoral capital epiphysis in database.
+
+Pattern: Rhizomelic limb shortening with frontal bossing, trident hand, lumbar lordosis, and narrowed interpedicular distance caudally
+Missing: Pseudoachondroplasia (normal skull, epiphyseal dysplasia), Diastrophic dysplasia (hitchhiker thumb, cauliflower ear)
+  > Generating: Pseudoachondroplasia (normal skull, epiphyseal dysplasia)
+    ✅ Generated Pseudoachondroplasia (normal skull, epiphyseal dysplasia)
+  > Generating: Diastrophic dysplasia (hitchhiker thumb, cauliflower ear)
+    ✅ Generated Diastrophic dysplasia (hitchhiker thumb, cauliflower ear)
+  💾 Updated Rhizomelic limb shortening with frontal bossing, trident hand, lumbar lordosis, and narrowed interpedicular distance caudally in database.
+
+Pattern: Bilateral lateral mass offset of C1 relative to C2 with widened open-mouth odontoid view — axial loading mechanism
+Missing: Combined C1-C2 injury, Occipital condyle fracture
+  > Generating: Combined C1-C2 injury
+    ✅ Generated Combined C1-C2 injury
+  > Generating: Occipital condyle fracture
+    ✅ Generated Occipital condyle fracture
+  💾 Updated Bilateral lateral mass offset of C1 relative to C2 with widened open-mouth odontoid view — axial loading mechanism in database.
+
+Pattern: Fusiform cortical thickening with intense focal uptake on all three phases of bone scintigraphy in a runner — dreaded black line on radiograph
+Missing: Osteomyelitis (elevated inflammatory markers), Ewing sarcoma (in young patients)
+  > Generating: Osteomyelitis (elevated inflammatory markers)
+    ✅ Generated Osteomyelitis (elevated inflammatory markers)
+  > Generating: Ewing sarcoma (in young patients)
+    ✅ Generated Ewing sarcoma (in young patients)
+  💾 Updated Fusiform cortical thickening with intense focal uptake on all three phases of bone scintigraphy in a runner — dreaded black line on radiograph in database.
+
+Pattern: Complete discontinuity of supraspinatus tendon with 2cm retraction and early fatty infiltration of the muscle belly — chronic full-thickness tear
+Missing: Calcific tendinitis with secondary tear, Subscapularis tear (anterosuperior escape)
+  > Generating: Calcific tendinitis with secondary tear
+    ✅ Generated Calcific tendinitis with secondary tear
+  > Generating: Subscapularis tear (anterosuperior escape)
+    ✅ Generated Subscapularis tear (anterosuperior escape)
+  💾 Updated Complete discontinuity of supraspinatus tendon with 2cm retraction and early fatty infiltration of the muscle belly — chronic full-thickness tear in database.
+- Solitary pulmonary nodule: No missing serious alternatives.
+- Multiple pulmonary nodules: No missing serious alternatives.
+- Cavitary pulmonary mass: No missing serious alternatives.
+- Miliary pulmonary nodules: No missing serious alternatives.
+- Centrilobular pulmonary nodules: No missing serious alternatives.
+- Cystic lung disease: No missing serious alternatives.
+- Lower lobe interstitial lung disease (ILD): No missing serious alternatives.
+- Upper lobe interstitial lung disease: No missing serious alternatives.
+- Hyperlucent lung: No missing serious alternatives.
+- Anterior mediastinal mass: No missing serious alternatives.
+- Middle mediastinal mass: No missing serious alternatives.
+- Posterior mediastinal mass: No missing serious alternatives.
+- Chronic air-space disease: No missing serious alternatives.
+- Peripheral air-space disease: No missing serious alternatives.
+- Ground-glass opaciﬁ cation: No missing serious alternatives.
+- Mediastinal/hilar lymphadenopathy: No missing serious alternatives.
+- Calciﬁ ed pleural disease: No missing serious alternatives.
+
+Pattern: Bronchiectasis
+Missing: Cystic Fibrosis, Post-infectious, Kartagener Syndrome
+  > Generating: Cystic Fibrosis
+    ✅ Generated Cystic Fibrosis
+  > Generating: Post-infectious
+    ✅ Generated Post-infectious
+  > Generating: Kartagener Syndrome
+    ✅ Generated Kartagener Syndrome
+  💾 Updated Bronchiectasis in database.
+- Perilymphatic pulmonary nodules: No missing serious alternatives.
+- Pleural-based mass: No missing serious alternatives.
+- Parenchymal disease in a patient with HIV: No missing serious alternatives.
+- Abnormal left ventricular contour: No missing serious alternatives.
+- Cardiac mass: No missing serious alternatives.
+- Delayed myocardial enhancement: No missing serious alternatives.
+- Cardiac wall fat: No missing serious alternatives.
+- Hyperdense liver: No missing serious alternatives.
+- Multiple hypoattenuating hepatic lesions: No missing serious alternatives.
+- Solitary hypodense, hypovascular liver mass: No missing serious alternatives.
+- Nodular liver contour: No missing serious alternatives.
+- Esophageal dilatation: No missing serious alternatives.
+- Right upper quadrant cystic mass in a child: No missing serious alternatives.
+- Esophageal submucosal masses/thickened folds: No missing serious alternatives.
+- Esophageal diverticulum: No missing serious alternatives.
+- Esophageal pseudodiverticula: No missing serious alternatives.
+- Esophageal ulcers: No missing serious alternatives.
+- Solid pancreatic mass: No missing serious alternatives.
+
+Pattern: Linitis plastica
+Missing: Gastric Adenocarcinoma, Gastric Lymphoma, Corrosive Gastritis, Sarcoidosis
+  > Generating: Gastric Adenocarcinoma
+    ✅ Generated Gastric Adenocarcinoma
+  > Generating: Gastric Lymphoma
+    ✅ Generated Gastric Lymphoma
+  > Generating: Corrosive Gastritis
+    ✅ Generated Corrosive Gastritis
+  > Generating: Sarcoidosis
+    ✅ Generated Sarcoidosis
+  💾 Updated Linitis plastica in database.
+- Esophageal stricture: No missing serious alternatives.
+- Terminal ileal wall thickening: No missing serious alternatives.
+- Small bowel wall thickening: No missing serious alternatives.
+- Gastric ulcer: No missing serious alternatives.
+- Colonic wall thickening: No missing serious alternatives.
+- Gastric fold thickening: No missing serious alternatives.
+- Mesenteric mass: No missing serious alternatives.
+- Small bowel dilatation: No missing serious alternatives.
+- Cecal mass: No missing serious alternatives.
+- Cystic pancreatic mass: No missing serious alternatives.
+- Multiple splenic nodules: No missing serious alternatives.
+- Intrahepatic biliary ductal strictures: No missing serious alternatives.
+- Multiple bilateral renal lesions/masses: No missing serious alternatives.
+- Hypervascular liver mass: No missing serious alternatives.
+- Cystic renal mass: No missing serious alternatives.
+- Retroperitoneal mass: No missing serious alternatives.
+- Cortical nephrocalcinosis: No missing serious alternatives.
+- Papillary necrosis: No missing serious alternatives.
+- Renal cortical defect: No missing serious alternatives.
+- Medullary nephrocalcinosis: No missing serious alternatives.
+- Striated nephrogram: No missing serious alternatives.
+- Solid renal mass: No missing serious alternatives.
+- Ureteral ﬁ lling defects: No missing serious alternatives.
+- Renal pelvic mass: No missing serious alternatives.
+- Staghorn calculus: No missing serious alternatives.
+- Renal migration anomaly: No missing serious alternatives.
+- Medial deviation of the ureters: No missing serious alternatives.
+- Bladder ﬁ lling defect: No missing serious alternatives.
+- Pear-shaped bladder: No missing serious alternatives.
+- Bilateral renal cysts: No missing serious alternatives.
+- Adrenal mass: No missing serious alternatives.
+- Prostate enlargement: No missing serious alternatives.
+- Bladder wall calciﬁ cations: No missing serious alternatives.
+- Bladder rupture: No missing serious alternatives.
+- Dilated ureter: No missing serious alternatives.
+- Fatty retroperitoneal mass: No missing serious alternatives.
+- Perinephric ﬂ uid collection: No missing serious alternatives.
+- Urethral stricture: No missing serious alternatives.
+- Sacroiliitis: No missing serious alternatives.
+- Periosteal reaction in a newborn/infant: No missing serious alternatives.
+- Erosive arthropathy involving the foot: No missing serious alternatives.
+- “Rugger jersey” appearance of the spine: No missing serious alternatives.
+- Distal arthropathy ḁ ecting primarily the interphalangeal joints: No missing serious alternatives.
+- Acro-osteolysis: No missing serious alternatives.
+- Proximal arthropathy ḁ ecting primarily the metacarpophalangeal (MCP) joints: No missing serious alternatives.
+- Chondrocalcinosis: No missing serious alternatives.
+- Wormian bones: No missing serious alternatives.
+- Vertebra plana in a child: No missing serious alternatives.
+- Medullary/chondroid lesion: No missing serious alternatives.
+- Lucent metaphyseal bands: No missing serious alternatives.
+
+Pattern: Madelung deformity
+Missing: Turner Syndrome, Dyschondrosteosis (Léri-Weill), Post-traumatic
+  > Generating: Turner Syndrome
+    ✅ Generated Turner Syndrome
+  > Generating: Dyschondrosteosis (Léri-Weill)
+    ✅ Generated Dyschondrosteosis (Léri-Weill)
+  > Generating: Post-traumatic
+    ✅ Generated Post-traumatic
+  💾 Updated Madelung deformity in database.
+- Loose bodies with erosions: No missing serious alternatives.
+- Multiple lytic foci: No missing serious alternatives.
+- Expansile rib lesion in a child: No missing serious alternatives.
+- Sequestrum: No missing serious alternatives.
+- Dense joint e̥ usion: No missing serious alternatives.
+- Benign expansile lytic lesion: No missing serious alternatives.
+- Carpal dislocation: No missing serious alternatives.
+- Posterior element lytic lesion: No missing serious alternatives.
+- Epiphyseal equivalent lucent lesion: No missing serious alternatives.
+- Enhancing orbital mass: No missing serious alternatives.
+- Multiple sclerotic foci in the pelvis: No missing serious alternatives.
+- Vertebral body wedge fracture: No missing serious alternatives.
+- Bilateral parotid masses: No missing serious alternatives.
+- Orbital rim fracture: No missing serious alternatives.
+- Unilateral parotid mass: No missing serious alternatives.
+- Cavernous sinus mass/enhancement: No missing serious alternatives.
+- Aggressive sinus disease with bony destruction: No missing serious alternatives.
+- Periarticular soft tissue calciﬁ cations: No missing serious alternatives.
+- Orbital muscle enlargement: No missing serious alternatives.
+- Retropharyngeal mass: No missing serious alternatives.
+- Pharyngeal mucosal mass: No missing serious alternatives.
+- Carotid space mass: No missing serious alternatives.
+- Pachymeningeal (dural) enhancement: No missing serious alternatives.
+- Globe lesion in a child: No missing serious alternatives.
+- Vascular injury to the neck: No missing serious alternatives.
+- Optic nerve enlargement and enhancement: No missing serious alternatives.
+- Middle ear mass: No missing serious alternatives.
+- Clival mass: No missing serious alternatives.
+- Masticator space mass: No missing serious alternatives.
+- Inner ear congenital malformation: No missing serious alternatives.
+- Temporal bone trauma with mastoid ﬂ uid: No missing serious alternatives.
+- Cystic neck mass: No missing serious alternatives.
+- Jugular foramen mass: No missing serious alternatives.
+- Aggressive nasal mass in an adolescent: No missing serious alternatives.
+- Petrous apex lesion: No missing serious alternatives.
+- Floor of the mouth mass: No missing serious alternatives.
+
+Pattern: Leptomeningeal enhancement
+Missing: Meningitis (Infection), Leptomeningeal Carcinomatosis, Neurosarcoidosis, Sturge-Weber
+  > Generating: Meningitis (Infection)
+    ✅ Generated Meningitis (Infection)
+  > Generating: Leptomeningeal Carcinomatosis
+    ✅ Generated Leptomeningeal Carcinomatosis
+  > Generating: Neurosarcoidosis
+    ✅ Generated Neurosarcoidosis
+  > Generating: Sturge-Weber
+    ✅ Generated Sturge-Weber
+  💾 Updated Leptomeningeal enhancement in database.
+- Ring-enhancing lesion: No missing serious alternatives.
+- Conﬂ uent white matter lesions in an adult: No missing serious alternatives.
+- Conﬂ uent white matter lesions in a child: No missing serious alternatives.
+- Pineal region mass: No missing serious alternatives.
+- Posterior fossa mass in an adult: No missing serious alternatives.
+- Intradural extramedullary spinal mass: No missing serious alternatives.
+- Cerebellopontine angle (CPA) mass: No missing serious alternatives.
+- Cerebellar tonsillar herniation: No missing serious alternatives.
+- Sellar/suprasellar mass in a child: No missing serious alternatives.
+- Enhancing intramedullary spinal mass: No missing serious alternatives.
+- Posterior fossa mass in a child: No missing serious alternatives.
+- Posterior fossa cyst: No missing serious alternatives.
+- Cerebrospinal ﬂ uid (CSF)–lined cortical cleft: No missing serious alternatives.
+- Corpus callosal lesion: No missing serious alternatives.
+- Di̥ use temporal lobe mass: No missing serious alternatives.
+- Increased T2 signal intensity in basal ganglia/thalami in a child: No missing serious alternatives.
+- Massive supratentorial cerebrospinal ﬂ uid (CSF) collection in a newborn: No missing serious alternatives.
+- Subependymal nodules: No missing serious alternatives.
+- Intraventricular mass: No missing serious alternatives.
+- Cerebellar atrophy: No missing serious alternatives.
+- Intraparenchymal hemorrhage: No missing serious alternatives.
+- Cortically based enhancing neoplasm: No missing serious alternatives.
+- Spinal cord signal abnormality: No missing serious alternatives.
+- Prominent periventricular/basal ganglia cystic lesions: No missing serious alternatives.
+- Epidural spinal mass: No missing serious alternatives.
+- Neonatal lung disease with low lung volumes: No missing serious alternatives.
+- Cyanotic infant with decreased pulmonary ﬂ ow: No missing serious alternatives.
+- Liver mass in an infant: No missing serious alternatives.
+- Cyanotic infant with increased pulmonary vascularity: No missing serious alternatives.
+- Shunt vascularity: No missing serious alternatives.
+- Solid pulmonary mass: No missing serious alternatives.
+- Neonatal lung disease with increased lung volumes: No missing serious alternatives.
+- Suprarenal mass in a child: No missing serious alternatives.
+- Solid renal mass: No missing serious alternatives.
+- Distal bowel obstruction pattern in a neonate: No missing serious alternatives.
+- Cystic renal lesion: No missing serious alternatives.
+- Subglottic airway narrowing: No missing serious alternatives.
+- Long bone aggressive lesion: No missing serious alternatives.
+- Bowel wall thickening in an immunocompromised child: No missing serious alternatives.
+- Skeletal dysplasia: No missing serious alternatives.
+- Endobronchial lesion in a child: No missing serious alternatives.
+- Presacral mass: No missing serious alternatives.
+- Erlenmeyer ﬂ ask deformity: No missing serious alternatives.
+- Lytic skull lesion in a child: No missing serious alternatives.
+- Posterior vertebral body scalloping: No missing serious alternatives.
+- “Double bubble” sign: No missing serious alternatives.
+- Avascular necrosis (AVN) of the femoral head: No missing serious alternatives.
+- Vascular anomaly with esophageal and tracheal compression: No missing serious alternatives.
+- Cystic pulmonary mass: No missing serious alternatives.
+- Esophageal obstruction in a neonate: No missing serious alternatives.
+- Complex cystic mass in a lactating woman: No missing serious alternatives.
+- Malignant-appearing calciﬁ cations; linear, branching forms: No missing serious alternatives.
+- Coarse calciﬁ cations in a partially circumscribed mass: No missing serious alternatives.
+- Magnetic resonance imaging (MRI) enhancement patterns: No missing serious alternatives.
+- Implant defect: No missing serious alternatives.
+- Fatty breast lesion: No missing serious alternatives.
+- Benign-appearing calciﬁ cations: rim, punctate, and round forms: No missing serious alternatives.
+- Well-circumscribed mass in a premenopausal woman: No missing serious alternatives.
+- Well-circumscribed solid breast mass: No missing serious alternatives.
+- Unilateral skin thickening: No missing serious alternatives.
+
+Pattern: Axillary lymphadenopathy
+Missing: Breast Metastasis (Most common), Lymphoma, Infection (Cat Scratch)
+  > Generating: Breast Metastasis (Most common)
+    ✅ Generated Breast Metastasis (Most common)
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  > Generating: Infection (Cat Scratch)
+    ✅ Generated Infection (Cat Scratch)
+  💾 Updated Axillary lymphadenopathy in database.
+- Mass with central lucency: No missing serious alternatives.
+- Ductal mass: No missing serious alternatives.
+- Breast lesion in a man: No missing serious alternatives.
+- Well-circumscribed cystic breast mass: No missing serious alternatives.
+- Well-circumscribed breast cancer: No missing serious alternatives.
+- Postoperative changes: No missing serious alternatives.
+- Bilateral skin thickening: No missing serious alternatives.
+- Developing asymmetry: No missing serious alternatives.
+- Unilateral nipple/skin changes: No missing serious alternatives.
+- Complex cystic mass: No missing serious alternatives.
+- Ill-deﬁ ned, inﬁ ltrative breast mass: No missing serious alternatives.
+- Breast lesion with nipple discharge: No missing serious alternatives.
+- Hyperechoic liver mass: No missing serious alternatives.
+- Hyperechoic renal mass: No missing serious alternatives.
+- Enlarged ovary with multiple peripheral follicles: No missing serious alternatives.
+- Complex extratesticular ﬂ uid collection: No missing serious alternatives.
+- Superﬁ cial breast mass: No missing serious alternatives.
+- Complex cystic adnexal mass with positive HCG: No missing serious alternatives.
+- Enlarged ovary: No missing serious alternatives.
+- Large breast mass: No missing serious alternatives.
+- “Target” lesions in the liver: No missing serious alternatives.
+- Uterine anomaly: No missing serious alternatives.
+- Portal vein thrombosis: No missing serious alternatives.
+- Thickened endometrial stripe: No missing serious alternatives.
+- Enlarged heterogeneous uterus: No missing serious alternatives.
+- “Starry sky” liver: No missing serious alternatives.
+- Cystic adnexal mass with negative HCG: No missing serious alternatives.
+- Hypoechoic renal mass: No missing serious alternatives.
+- Multiple hypoechoic liver masses: No missing serious alternatives.
+- Hyperechoic foci in the gallbladder wall: No missing serious alternatives.
+- Enlarged painful testicle: No missing serious alternatives.
+- Periventricular cysts: No missing serious alternatives.
+- Right lower quadrant mass in a child: No missing serious alternatives.
+- Multiple splenic hypoechoic foci: No missing serious alternatives.
+
+Pattern: Thyroid mass
+Missing: Papillary Carcinoma, Colloid Nodule, Follicular Adenoma
+  > Generating: Papillary Carcinoma
+    ✅ Generated Papillary Carcinoma
+  > Generating: Colloid Nodule
+    ✅ Generated Colloid Nodule
+  > Generating: Follicular Adenoma
+    ✅ Generated Follicular Adenoma
+  💾 Updated Thyroid mass in database.
+- Gallbladder wall thickening: No missing serious alternatives.
+- Enlarged painless testicle: No missing serious alternatives.
+- Nuchal translucency: No missing serious alternatives.
+- Common bile duct (CBD) dilatation: No missing serious alternatives.
+- Posterior fossa malformation: No missing serious alternatives.
+- Periventricular hyperechoic foci: No missing serious alternatives.
+- Hyperechoic thoracic mass: No missing serious alternatives.
+- Sacral mass: No missing serious alternatives.
+- Twin development (chorionicity): No missing serious alternatives.
+- Enlarged bladder (megacystis): No missing serious alternatives.
+- Umbilical cord vascular abnormality: No missing serious alternatives.
+- “Double bubble” sign: No missing serious alternatives.
+- Twin pregnancy with asymmetric fetal sizes: No missing serious alternatives.
+- Hyperechoic intracardiac focus: No missing serious alternatives.
+- Central nervous system (CNS) ventriculomegaly: No missing serious alternatives.
+- Abnormal ventriculoarterial conﬁ guration: No missing serious alternatives.
+- Cystic posterior neck mass: No missing serious alternatives.
+- Enlarged hyperechoic kidneys: No missing serious alternatives.
+- Diaphragm abnormality: No missing serious alternatives.
+- Cranial/calvarial defect: No missing serious alternatives.
+- Abdominal wall defect: No missing serious alternatives.
+- Placental location abnormality: No missing serious alternatives.
+- Polyhydramnios. Polyhydramnios is an excessive accumulation of amniotic ﬂ uid (>1500 cc). The balance of ﬂ uid ﬂ ow into: No missing serious alternatives.
+- Oligohydramnios. Oligohydramnios is the condition of decreased amniotic ﬂ uid volume relative to gestational age. This is: No missing serious alternatives.
+- Fetal hydrops: No missing serious alternatives.
+- Postprocedure arterial abnormality: No missing serious alternatives.
+- Placental abnormality/mass: No missing serious alternatives.
+- Choroid plexus cyst: No missing serious alternatives.
+
+Pattern: Renal artery stenosis
+Missing: Atherosclerosis (90%), Vasculitis
+  > Generating: Atherosclerosis (90%)
+    ✅ Generated Atherosclerosis (90%)
+  > Generating: Vasculitis
+    ✅ Generated Vasculitis
+  💾 Updated Renal artery stenosis in database.
+- Carotid artery stenosis: No missing serious alternatives.
+- Subclavian vein occlusion: No missing serious alternatives.
+- Great vessel stenosis: No missing serious alternatives.
+- Linear echoes within the amniotic ﬂ uid: No missing serious alternatives.
+- Ventricular septal defect: No missing serious alternatives.
+- Digital artery occlusion/ischemia: No missing serious alternatives.
+- Failing renal transplant with abnormal Doppler examination: No missing serious alternatives.
+- Intraparenchymal renal artery aneurysms: No missing serious alternatives.
+- Popliteal artery occlusion: No missing serious alternatives.
+- Infrarenal aortic occlusion: No missing serious alternatives.
+- Extratesticular mass: No missing serious alternatives.
+- Hypervascular renal mass: No missing serious alternatives.
+- Hypervascular pulmonary mass: No missing serious alternatives.
+- Inferior vena cava (IVC) vascular anomaly/abnormality: No missing serious alternatives.
+- Hypervascular cerebral mass/abnormality: No missing serious alternatives.
+- Aortic dissection: No missing serious alternatives.
+- Suprasellar mass in an adult: No missing serious alternatives.
+- Prominent paraspinal ﬂ ow voids: No missing serious alternatives.
+- Biliary duct obstruction: No missing serious alternatives.
+- Lower GI bleeding: No missing serious alternatives.
+- Urinary obstruction: No missing serious alternatives.
+- Vascular ring/sling: No missing serious alternatives.
+- Increased activity and osseous expansion in the pelvis: No missing serious alternatives.
+- Traumatic aortic injury: No missing serious alternatives.
+- TIPS dysfunction: No missing serious alternatives.
+- Celiac axis stenosis/occlusion: No missing serious alternatives.
+- Superscan: No missing serious alternatives.
+- Transient ischemic dilatation (TID): No missing serious alternatives.
+- Symmetric “tram track” cortical uptake of the long bones: No missing serious alternatives.
+- Three-phase positive bone scan: No missing serious alternatives.
+- Poor-quality bone scan: No missing serious alternatives.
+- Unilateral absent lung perfusion: No missing serious alternatives.
+- 18F-ﬂ uorodeoxyglucose (FDG) uptake in supraclavicular fat: No missing serious alternatives.
+- Persistent hepatogram on neonatal hepatobiliary imaging: No missing serious alternatives.
+- Decreased cortical 18F-ﬂ uorodeoxyglucose (FDG) activity in the setting of dementia: No missing serious alternatives.
+- Intra-abdominal activity on technetium 99m (Tc99m) labeled red blood cell (RBC) scan: No missing serious alternatives.
+- Focal intra-abdominal activity on pertechnetate imaging: No missing serious alternatives.
+- Worsening renal function on mercapto-acetyltriglycine 3 (MAG 3) renal scan following Captopril administration: No missing serious alternatives.
+- Extrapulmonary activity on a lung perfusion scan: No missing serious alternatives.
+- Cold nodule on an iodine 123 (I123) thyroid scan: No missing serious alternatives.
+- Persistent focal cervical uptake on delayed sestamibi imaging: No missing serious alternatives.
+- Nonvisualization of the gallbladder on hepatobiliary imaging: No missing serious alternatives.
+- Focal abdominal uptake on indium 111 (In111) pentreotide scan (Ostreoscan): No missing serious alternatives.
+- Amorphous calciﬁ cations on the craniocaudal (CC) view that appear crescentic on the lateral view: No missing serious alternatives.
+- Focal neck uptake on an I131 postablation scan: No missing serious alternatives.
+- Veil-like opaciﬁ cation involving the left lung with volume loss: No missing serious alternatives.
+- Increased mediastinal uptake on a gallium scan: No missing serious alternatives.
+- Pleural-based lesion adjacent to pleural thickening with volume loss: No missing serious alternatives.
+- Focal increased activity within an extremity on a bone scan: No missing serious alternatives.
+- Solitary hypermetabolic pulmonary lesion on a positron emission tomography (PET) scan: No missing serious alternatives.
+- Focal increased hepatic uptake on a sulfur colloid scan: No missing serious alternatives.
+- Focal bowel uptake on an indium 111 (In111)–labeled WBC scan: No missing serious alternatives.
+- Right lung volume loss with a curvilinear opacity descending below the diaphragm: No missing serious alternatives.
+- Absent intracranial activity on a technetium 99m (Tc99m) HMPAO (hexamethylpropyleneamine) scan: No missing serious alternatives.
+- Dilated, gas-ﬁ lled cecum pointing toward the left upper quadrant of the abdomen: No missing serious alternatives.
+- Inﬂ ammatory fatty focus within the RLQ of the abdomen: No missing serious alternatives.
+- Multiple high-speciﬁ city fractures and injuries of varying ages: No missing serious alternatives.
+- Gastric outlet obstruction with enlarged pylorus: No missing serious alternatives.
+- Focal defect on QC images: No missing serious alternatives.
+- Pneumatosis and portal venous gas in a premature infant: No missing serious alternatives.
+- Intraluminal mass with bowel signature on ultrasound: No missing serious alternatives.
+- Left subclavian artery occlusion with retrograde ﬁ lling distally from the vertebral artery: No missing serious alternatives.
+- Multiple small diverticula ḁ ecting the proximal portion of the fallopian tube: No missing serious alternatives.
+- Gas within the bladder wall: No missing serious alternatives.
+- Atrophy and increased T2-weighted signal intensity of the mesial temporal lobe: No missing serious alternatives.
+- “Tram track” calciﬁ cations, pial angiomatosis, and cerebral parenchymal atrophy: No missing serious alternatives.
+- Left cerebellopontine angle (CPA) mass with similar signal to cerebrospinal ﬂ uid (CSF) and restricted di̥ usion on di̥ usion-: No missing serious alternatives.
+- Hyperdense middle cerebral artery (MCA) (with additional ﬁ ndings consistent with infarction): No missing serious alternatives.
+- Disruption of the anterior cruciate ligament (ACL) with “kissing contusions”: No missing serious alternatives.
+- Posterior displacement and ﬁ xed internal rotation of the humeral head: No missing serious alternatives.
+- Ovarian cystic mass with the “tip of the iceberg” sign and macroscopic fat: No missing serious alternatives.
+- Wall-echo-shadow (WES) sign: No missing serious alternatives.
+- Adnexal mass with increased through transmission and homogeneous low-level echoes.: No missing serious alternatives.
+- Double posterior cruciate ligament (PCL) sign: No missing serious alternatives.
+- Amorphous calciﬁ cations on the craniocaudal (CC) view that appear crescentic on the lateral view: No missing serious alternatives.
+- 18F-ﬂ uorodeoxyglucose (FDG) uptake in supraclavicular fat: No missing serious alternatives.
+- Intense sacral uptake in an  H-shaped conﬁ guration on a bone scan: No missing serious alternatives.
+
+Pattern: Diffuse cystic ILD
+Missing: Pneumocystis pneumonia (PJP), Centrilobular emphysema, Lymphocytic interstitial pneumonia (LIP)
+  > Generating: Pneumocystis pneumonia (PJP)
+    ✅ Generated Pneumocystis pneumonia (PJP)
+  > Generating: Centrilobular emphysema
+    ✅ Generated Centrilobular emphysema
+  > Generating: Lymphocytic interstitial pneumonia (LIP)
+    ✅ Generated Lymphocytic interstitial pneumonia (LIP)
+  💾 Updated Diffuse cystic ILD in database.
+
+Pattern: Reticulonodular shadowing
+Missing: Lymphangitis carcinomatosa (advanced malignancy), Pneumocystis pneumonia (PJP), Acute pulmonary oedema
+  > Generating: Lymphangitis carcinomatosa (advanced malignancy)
+    ✅ Generated Lymphangitis carcinomatosa (advanced malignancy)
+  > Generating: Pneumocystis pneumonia (PJP)
+    ✅ Generated Pneumocystis pneumonia (PJP)
+  > Generating: Acute pulmonary oedema
+    ✅ Generated Acute pulmonary oedema
+  💾 Updated Reticulonodular shadowing in database.
+
+Pattern: Miliary nodules
+Missing: Miliary TB (Public Health Emergency), Disseminated Fungal Infection
+  > Generating: Miliary TB (Public Health Emergency)
+    ✅ Generated Miliary TB (Public Health Emergency)
+  > Generating: Disseminated Fungal Infection
+    ✅ Generated Disseminated Fungal Infection
+  💾 Updated Miliary nodules in database.
+
+Pattern: Calcified lung nodules
+Missing: Calcified Metastases (Osteosarcoma), Carcinoid tumor, Malignant transformation of hamartoma (rare)
+  > Generating: Calcified Metastases (Osteosarcoma)
+    ✅ Generated Calcified Metastases (Osteosarcoma)
+  > Generating: Carcinoid tumor
+    ✅ Generated Carcinoid tumor
+  > Generating: Malignant transformation of hamartoma (rare)
+    ✅ Generated Malignant transformation of hamartoma (rare)
+  💾 Updated Calcified lung nodules in database.
+
+Pattern: Large cavitating lesion
+Missing: Squamous cell carcinoma, Angioinvasive Aspergillosis
+  > Generating: Squamous cell carcinoma
+    ✅ Generated Squamous cell carcinoma
+  > Generating: Angioinvasive Aspergillosis
+    ✅ Generated Angioinvasive Aspergillosis
+  💾 Updated Large cavitating lesion in database.
+
+Pattern: Pleural lesions
+Missing: Pleural Empyema
+  > Generating: Pleural Empyema
+    ✅ Generated Pleural Empyema
+  💾 Updated Pleural lesions in database.
+
+Pattern: Hyperlucent hemithorax
+Missing: Tension Pneumothorax (Medical Emergency), Pulmonary Embolism (Westermark Sign), Foreign Body Aspiration (Paediatrics)
+  > Generating: Tension Pneumothorax (Medical Emergency)
+    ✅ Generated Tension Pneumothorax (Medical Emergency)
+  > Generating: Pulmonary Embolism (Westermark Sign)
+    ✅ Generated Pulmonary Embolism (Westermark Sign)
+  > Generating: Foreign Body Aspiration (Paediatrics)
+    ✅ Generated Foreign Body Aspiration (Paediatrics)
+  💾 Updated Hyperlucent hemithorax in database.
+- Opacified hemithorax: No missing serious alternatives.
+
+Pattern: Peripheral consolidation
+Missing: Lepidic Adenocarcinoma (BAC)
+  > Generating: Lepidic Adenocarcinoma (BAC)
+    ✅ Generated Lepidic Adenocarcinoma (BAC)
+  💾 Updated Peripheral consolidation in database.
+- Short metacarpals: No missing serious alternatives.
+- Bowed tibia: No missing serious alternatives.
+- Lateral clavicle resorption: No missing serious alternatives.
+- Diffuse periosteal reaction adults: No missing serious alternatives.
+- Aggressive lytic lesion in child: No missing serious alternatives.
+- Diffuse osteosclerosis: No missing serious alternatives.
+- Epiphyseal lucent lesion: No missing serious alternatives.
+- Diffuse marrow infiltration MRI: No missing serious alternatives.
+- Posterior vertebral scalloping: No missing serious alternatives.
+- Osteonecrosis of the hips: No missing serious alternatives.
+- Pneumobilia: No missing serious alternatives.
+- Enhancing liver lesion: No missing serious alternatives.
+- Double bubble sign: No missing serious alternatives.
+- Bilateral ovarian masses: No missing serious alternatives.
+
+Pattern: Upper lobe fibrosis
+Missing: Active TB (Public Health Emergency), Malignant lymphangitis, Pneumocystis pneumonia (PJP), Acute Silicosis (Accelerated)
+  > Generating: Active TB (Public Health Emergency)
+    ✅ Generated Active TB (Public Health Emergency)
+  > Generating: Malignant lymphangitis
+    ✅ Generated Malignant lymphangitis
+  > Generating: Pneumocystis pneumonia (PJP)
+    ✅ Generated Pneumocystis pneumonia (PJP)
+  > Generating: Acute Silicosis (Accelerated)
+    ✅ Generated Acute Silicosis (Accelerated)
+  💾 Updated Upper lobe fibrosis in database.
+
+Pattern: Bilateral hilar enlargement
+Missing: Lymphoma (Aggressive), Metastatic Adenopathy (Lung/Breast), Primary TB (Public Health), Sarcoidosis (Stage IV)
+  > Generating: Lymphoma (Aggressive)
+    ✅ Generated Lymphoma (Aggressive)
+  > Generating: Metastatic Adenopathy (Lung/Breast)
+    ✅ Generated Metastatic Adenopathy (Lung/Breast)
+  > Generating: Primary TB (Public Health)
+    ✅ Generated Primary TB (Public Health)
+  > Generating: Sarcoidosis (Stage IV)
+    ✅ Generated Sarcoidosis (Stage IV)
+  💾 Updated Bilateral hilar enlargement in database.
+
+Pattern: Inferior rib notching
+Missing: Coarctation of the Aorta (Hypertensive crisis), SVC Obstruction (Malignancy), Neurofibromatosis (Malignant transformation)
+  > Generating: Coarctation of the Aorta (Hypertensive crisis)
+    ✅ Generated Coarctation of the Aorta (Hypertensive crisis)
+  > Generating: SVC Obstruction (Malignancy)
+    ✅ Generated SVC Obstruction (Malignancy)
+  > Generating: Neurofibromatosis (Malignant transformation)
+    ✅ Generated Neurofibromatosis (Malignant transformation)
+  💾 Updated Inferior rib notching in database.
+
+Pattern: Bilateral consolidation
+Missing: Acute Pulmonary Oedema, Diffuse Alveolar Haemorrhage, ARDS (Acute Phase), Severe PJP Pneumonia
+  > Generating: Acute Pulmonary Oedema
+    ✅ Generated Acute Pulmonary Oedema
+  > Generating: Diffuse Alveolar Haemorrhage
+    ✅ Generated Diffuse Alveolar Haemorrhage
+  > Generating: ARDS (Acute Phase)
+    ✅ Generated ARDS (Acute Phase)
+  > Generating: Severe PJP Pneumonia
+    ✅ Generated Severe PJP Pneumonia
+  💾 Updated Bilateral consolidation in database.
+
+Pattern: AIR-SPACE OPACIFICATION
+Missing: Acute Pulmonary Oedema, Invasive Mucinous Adenocarcinoma, Severe Bacterial Pneumonia
+  > Generating: Acute Pulmonary Oedema
+    ✅ Generated Acute Pulmonary Oedema
+  > Generating: Invasive Mucinous Adenocarcinoma
+    ✅ Generated Invasive Mucinous Adenocarcinoma
+  > Generating: Severe Bacterial Pneumonia
+    ✅ Generated Severe Bacterial Pneumonia
+  💾 Updated AIR-SPACE OPACIFICATION in database.
+
+Pattern: P ULMONARY AIR CYSTS
+Missing: LAM (Women), LCH (Smokers), PJP (HIV), BHD Syndrome
+  > Generating: LAM (Women)
+    ✅ Generated LAM (Women)
+  > Generating: LCH (Smokers)
+    ✅ Generated LCH (Smokers)
+  > Generating: PJP (HIV)
+    ✅ Generated PJP (HIV)
+  > Generating: BHD Syndrome
+    ✅ Generated BHD Syndrome
+  💾 Updated P ULMONARY AIR CYSTS in database.
+
+Pattern: L UNG CAVITIES
+Missing: Squamous Cell Carcinoma, TB Cavity, Septic Emboli, GPA
+  > Generating: Squamous Cell Carcinoma
+    ✅ Generated Squamous Cell Carcinoma
+  > Generating: TB Cavity
+    ✅ Generated TB Cavity
+  > Generating: Septic Emboli
+    ✅ Generated Septic Emboli
+  > Generating: GPA
+    ✅ Generated GPA
+  💾 Updated L UNG CAVITIES in database.
+
+Pattern: B ILATERAL HILAR ENLARGEMENT
+Missing: Sarcoidosis
+  > Generating: Sarcoidosis
+    ✅ Generated Sarcoidosis
+  💾 Updated B ILATERAL HILAR ENLARGEMENT in database.
+
+Pattern: Ring enhancing lesion
+Missing: Cerebral Abscess (Neurosurgical Emergency), Glioblastoma Multiforme, Large Solitary Metastasis
+  > Generating: Cerebral Abscess (Neurosurgical Emergency)
+    ✅ Generated Cerebral Abscess (Neurosurgical Emergency)
+  > Generating: Glioblastoma Multiforme
+    ✅ Generated Glioblastoma Multiforme
+  > Generating: Large Solitary Metastasis
+    ✅ Generated Large Solitary Metastasis
+  💾 Updated Ring enhancing lesion in database.
+
+Pattern: CPA angle mass
+Missing: Meningioma, Aneurysm (PICA/AICA)
+  > Generating: Meningioma
+    ✅ Generated Meningioma
+  > Generating: Aneurysm (PICA/AICA)
+    ✅ Generated Aneurysm (PICA/AICA)
+  💾 Updated CPA angle mass in database.
+
+Pattern: Supra-sellar mass
+Missing: Pituitary Adenoma (Apoplexy), Giant Aneurysm (Rupture), Optic Glioma
+  > Generating: Pituitary Adenoma (Apoplexy)
+    ✅ Generated Pituitary Adenoma (Apoplexy)
+  > Generating: Giant Aneurysm (Rupture)
+    ✅ Generated Giant Aneurysm (Rupture)
+  > Generating: Optic Glioma
+    ✅ Generated Optic Glioma
+  💾 Updated Supra-sellar mass in database.
+
+Pattern: Neonatal low bowel obstruction
+Missing: Midgut Volvulus (Surgical Emergency), Hirschsprung's (Enterocolitis)
+  > Generating: Midgut Volvulus (Surgical Emergency)
+    ✅ Generated Midgut Volvulus (Surgical Emergency)
+  > Generating: Hirschsprung's (Enterocolitis)
+    ✅ Generated Hirschsprung's (Enterocolitis)
+  💾 Updated Neonatal low bowel obstruction in database.
+
+Pattern: Paediatric abdominal mass
+Missing: Neuroblastoma (High risk), Wilms Tumor, Hepatoblastoma, Teratoma
+  > Generating: Neuroblastoma (High risk)
+    ✅ Generated Neuroblastoma (High risk)
+  > Generating: Wilms Tumor
+    ✅ Generated Wilms Tumor
+  > Generating: Hepatoblastoma
+    ✅ Generated Hepatoblastoma
+  > Generating: Teratoma
+    ✅ Generated Teratoma
+  💾 Updated Paediatric abdominal mass in database.
+
+Pattern: Nephrocalcinosis
+Missing: Renal Tubular Acidosis (Type 1), Oxalosis (Primary)
+  > Generating: Renal Tubular Acidosis (Type 1)
+    ✅ Generated Renal Tubular Acidosis (Type 1)
+  > Generating: Oxalosis (Primary)
+    ✅ Generated Oxalosis (Primary)
+  💾 Updated Nephrocalcinosis in database.
+
+Pattern: Intra-axial haemorrhage
+Missing: Hypertensive Bleed (Deep Grey), Amyloid Angiopathy (Lobar), Ruptured AVM, Haemorrhagic Metastasis (Melanoma/RCC)
+  > Generating: Hypertensive Bleed (Deep Grey)
+    ✅ Generated Hypertensive Bleed (Deep Grey)
+  > Generating: Amyloid Angiopathy (Lobar)
+    ✅ Generated Amyloid Angiopathy (Lobar)
+  > Generating: Ruptured AVM
+    ✅ Generated Ruptured AVM
+  > Generating: Haemorrhagic Metastasis (Melanoma/RCC)
+    ✅ Generated Haemorrhagic Metastasis (Melanoma/RCC)
+  💾 Updated Intra-axial haemorrhage in database.
+
+Pattern: Basal ganglia calcification
+Missing: Physiological (Age), Hypoparathyroidism, Carbon Monoxide
+  > Generating: Physiological (Age)
+    ✅ Generated Physiological (Age)
+  > Generating: Hypoparathyroidism
+    ✅ Generated Hypoparathyroidism
+  > Generating: Carbon Monoxide
+    ✅ Generated Carbon Monoxide
+  💾 Updated Basal ganglia calcification in database.
+
+Pattern: Restricted diffusion in brain
+Missing: Acute Ischaemic Stroke (Medical Emergency), Cerebral Abscess (Surgical), Creutzfeldt-Jakob Disease (CJD)
+  > Generating: Acute Ischaemic Stroke (Medical Emergency)
+    ✅ Generated Acute Ischaemic Stroke (Medical Emergency)
+  > Generating: Cerebral Abscess (Surgical)
+    ✅ Generated Cerebral Abscess (Surgical)
+  > Generating: Creutzfeldt-Jakob Disease (CJD)
+    ✅ Generated Creutzfeldt-Jakob Disease (CJD)
+  💾 Updated Restricted diffusion in brain in database.
+
+Pattern: Pituitary region mass
+Missing: Pituitary Macroadenoma, Internal Carotid Aneurysm
+  > Generating: Pituitary Macroadenoma
+    ✅ Generated Pituitary Macroadenoma
+  > Generating: Internal Carotid Aneurysm
+    ✅ Generated Internal Carotid Aneurysm
+  💾 Updated Pituitary region mass in database.
+
+Pattern: Extramedullary intradural spinal mass
+Missing: Neurofibroma, Leptomeningeal Metastases
+  > Generating: Neurofibroma
+    ✅ Generated Neurofibroma
+  > Generating: Leptomeningeal Metastases
+    ✅ Generated Leptomeningeal Metastases
+  💾 Updated Extramedullary intradural spinal mass in database.
+- Posterior fossa mass in child: No missing serious alternatives.
+
+Pattern: Diffuse periosteal reaction child
+Missing: Non-Accidental Injury (NAI), Osteomyelitis, Neuroblastoma Metastases
+  > Generating: Non-Accidental Injury (NAI)
+    ✅ Generated Non-Accidental Injury (NAI)
+  > Generating: Osteomyelitis
+    ✅ Generated Osteomyelitis
+  > Generating: Neuroblastoma Metastases
+    ✅ Generated Neuroblastoma Metastases
+  💾 Updated Diffuse periosteal reaction child in database.
+
+Pattern: Vertebra plana
+Missing: Eosinophilic Granuloma (LCH), Neuroblastoma Metastasis, Leukaemia, TB Osteomyelitis (Pott's)
+  > Generating: Eosinophilic Granuloma (LCH)
+    ✅ Generated Eosinophilic Granuloma (LCH)
+  > Generating: Neuroblastoma Metastasis
+    ✅ Generated Neuroblastoma Metastasis
+  > Generating: Leukaemia
+    ✅ Generated Leukaemia
+  > Generating: TB Osteomyelitis (Pott's)
+    ✅ Generated TB Osteomyelitis (Pott's)
+  💾 Updated Vertebra plana in database.
+
+Pattern: Terminal ileal mass/stricture
+Missing: TB Ileitis
+  > Generating: TB Ileitis
+    ✅ Generated TB Ileitis
+  💾 Updated Terminal ileal mass/stricture in database.
+
+Pattern: Colitis
+Missing: Ulcerative Colitis (Toxic Megacolon), Pseudomembranous Colitis (C. diff), Crohn's Colitis
+  > Generating: Ulcerative Colitis (Toxic Megacolon)
+    ✅ Generated Ulcerative Colitis (Toxic Megacolon)
+  > Generating: Pseudomembranous Colitis (C. diff)
+    ✅ Generated Pseudomembranous Colitis (C. diff)
+  > Generating: Crohn's Colitis
+    ✅ Generated Crohn's Colitis
+  💾 Updated Colitis in database.
+
+Pattern: Renal papillary necrosis
+Missing: Sickle Cell Disease
+  > Generating: Sickle Cell Disease
+    ✅ Generated Sickle Cell Disease
+  💾 Updated Renal papillary necrosis in database.
+
+Pattern: Solid mesenteric/peritoneal mass
+Missing: Metastatic Carcinoid, Peritoneal Mesothelioma
+  > Generating: Metastatic Carcinoid
+    ✅ Generated Metastatic Carcinoid
+  > Generating: Peritoneal Mesothelioma
+    ✅ Generated Peritoneal Mesothelioma
+  💾 Updated Solid mesenteric/peritoneal mass in database.
+
+Pattern: Large abdominal mass in child
+Missing: Neuroblastoma (Advanced Stage), Teratoma
+  > Generating: Neuroblastoma (Advanced Stage)
+    ✅ Generated Neuroblastoma (Advanced Stage)
+  > Generating: Teratoma
+    ✅ Generated Teratoma
+  💾 Updated Large abdominal mass in child in database.
+
+Pattern: CPA mass
+Missing: Acoustic Schwannoma, Aneurysm (PICA/AICA), Glomus Jugulare
+  > Generating: Acoustic Schwannoma
+    ✅ Generated Acoustic Schwannoma
+  > Generating: Aneurysm (PICA/AICA)
+    ✅ Generated Aneurysm (PICA/AICA)
+  > Generating: Glomus Jugulare
+    ✅ Generated Glomus Jugulare
+  💾 Updated CPA mass in database.
+
+Pattern: Extradural spinal mass
+Missing: Epidural Abscess (Surgical Emergency), Metastatic Cord Compression, Epidural Haematoma, Lymphoma
+  > Generating: Epidural Abscess (Surgical Emergency)
+    ✅ Generated Epidural Abscess (Surgical Emergency)
+  > Generating: Metastatic Cord Compression
+    ✅ Generated Metastatic Cord Compression
+  > Generating: Epidural Haematoma
+    ✅ Generated Epidural Haematoma
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  💾 Updated Extradural spinal mass in database.
+
+Pattern: Multiple lucent bone lesions
+Missing: Multiple Myeloma (Malignant), Lytic Metastases (Aggressive), Gorham-Stout Disease, Disseminated TB
+  > Generating: Multiple Myeloma (Malignant)
+    ✅ Generated Multiple Myeloma (Malignant)
+  > Generating: Lytic Metastases (Aggressive)
+    ✅ Generated Lytic Metastases (Aggressive)
+  > Generating: Gorham-Stout Disease
+    ✅ Generated Gorham-Stout Disease
+  > Generating: Disseminated TB
+    ✅ Generated Disseminated TB
+  💾 Updated Multiple lucent bone lesions in database.
+
+Pattern: Expansile lytic lesion
+Missing: GCT (Malignant), Lytic Metastases (RCC/Thyroid), Osteomyelitis, Chondrosarcoma
+  > Generating: GCT (Malignant)
+    ✅ Generated GCT (Malignant)
+  > Generating: Lytic Metastases (RCC/Thyroid)
+    ✅ Generated Lytic Metastases (RCC/Thyroid)
+  > Generating: Osteomyelitis
+    ✅ Generated Osteomyelitis
+  > Generating: Chondrosarcoma
+    ✅ Generated Chondrosarcoma
+  💾 Updated Expansile lytic lesion in database.
+- Intramedullary spinal mass: No missing serious alternatives.
+
+Pattern: Multiple wormian bones
+Missing: Hypothyroidism, Menkes Disease, Scurvy
+  > Generating: Hypothyroidism
+    ✅ Generated Hypothyroidism
+  > Generating: Menkes Disease
+    ✅ Generated Menkes Disease
+  > Generating: Scurvy
+    ✅ Generated Scurvy
+  💾 Updated Multiple wormian bones in database.
+
+Pattern: G ENERALIZED INCREASED BONE DENSITY
+Missing: Metastatic Prostate CA
+  > Generating: Metastatic Prostate CA
+    ✅ Generated Metastatic Prostate CA
+  💾 Updated G ENERALIZED INCREASED BONE DENSITY in database.
+
+Pattern: SOLITARY SCLEROTIC BONE LESION
+Missing: Osteosarcoma, Infection
+  > Generating: Osteosarcoma
+    ✅ Generated Osteosarcoma
+  > Generating: Infection
+    ✅ Generated Infection
+  💾 Updated SOLITARY SCLEROTIC BONE LESION in database.
+
+Pattern: UNILATERAL HYPERTRANSRADIANT HEMITHORAX
+Missing: Tension Pneumothorax (URGENT), Endobronchial Carcinoma, Foreign Body Aspiration
+  > Generating: Tension Pneumothorax (URGENT)
+    ✅ Generated Tension Pneumothorax (URGENT)
+  > Generating: Endobronchial Carcinoma
+    ✅ Generated Endobronchial Carcinoma
+  > Generating: Foreign Body Aspiration
+    ✅ Generated Foreign Body Aspiration
+  💾 Updated UNILATERAL HYPERTRANSRADIANT HEMITHORAX in database.
+
+Pattern: GROSS CARDIOMEGALY ON CHEST X-RAY
+Missing: Pericardial Tamponade (URGENT), Dilated Cardiomyopathy
+  > Generating: Pericardial Tamponade (URGENT)
+    ✅ Generated Pericardial Tamponade (URGENT)
+  > Generating: Dilated Cardiomyopathy
+    ✅ Generated Dilated Cardiomyopathy
+  💾 Updated GROSS CARDIOMEGALY ON CHEST X-RAY in database.
+
+Pattern: M ULTIPLE SCLEROTIC BONE LESIONS
+Missing: Osteoblastic Metastases (Prostate/Breast), Lymphomatous Sclerosis, Mastocytosis
+  > Generating: Osteoblastic Metastases (Prostate/Breast)
+    ✅ Generated Osteoblastic Metastases (Prostate/Breast)
+  > Generating: Lymphomatous Sclerosis
+    ✅ Generated Lymphomatous Sclerosis
+  > Generating: Mastocytosis
+    ✅ Generated Mastocytosis
+  💾 Updated M ULTIPLE SCLEROTIC BONE LESIONS in database.
+
+Pattern: B ONE SCLEROSIS WITH A PERIOSTEAL REACTION
+Missing: Osteosarcoma
+  > Generating: Osteosarcoma
+    ✅ Generated Osteosarcoma
+  💾 Updated B ONE SCLEROSIS WITH A PERIOSTEAL REACTION in database.
+
+Pattern: SOLITARY SCLEROTIC BONE LESION WITH A LUCENT CENTRE
+Missing: Brodie's Abscess, Sclerotic Metastasis
+  > Generating: Brodie's Abscess
+    ✅ Generated Brodie's Abscess
+  > Generating: Sclerotic Metastasis
+    ✅ Generated Sclerotic Metastasis
+  💾 Updated SOLITARY SCLEROTIC BONE LESION WITH A LUCENT CENTRE in database.
+
+Pattern: CONDITIONS INVOLVING SKIN AND BONE
+Missing: Malignant MPNST (NF1), Anaphylaxis (Mastocytosis), Renal Failure (Scleroderma)
+  > Generating: Malignant MPNST (NF1)
+    ✅ Generated Malignant MPNST (NF1)
+  > Generating: Anaphylaxis (Mastocytosis)
+    ✅ Generated Anaphylaxis (Mastocytosis)
+  > Generating: Renal Failure (Scleroderma)
+    ✅ Generated Renal Failure (Scleroderma)
+  💾 Updated CONDITIONS INVOLVING SKIN AND BONE in database.
+
+Pattern: COARSE TRABECULAR PATTERN
+Missing: Osteosarcomatous transformation (Paget's), Bone Infarct / Crisis (Sickle), Vertebral collapse (Haemangioma)
+  > Generating: Osteosarcomatous transformation (Paget's)
+    ✅ Generated Osteosarcomatous transformation (Paget's)
+  > Generating: Bone Infarct / Crisis (Sickle)
+    ✅ Generated Bone Infarct / Crisis (Sickle)
+  > Generating: Vertebral collapse (Haemangioma)
+    ✅ Generated Vertebral collapse (Haemangioma)
+  💾 Updated COARSE TRABECULAR PATTERN in database.
+
+Pattern: B ILATERAL HYPERTRANSRADIANT HEMITHORACES
+Missing: Emphysema (COPD), Acute Asthma, Bilateral Pneumothoraces
+  > Generating: Emphysema (COPD)
+    ✅ Generated Emphysema (COPD)
+  > Generating: Acute Asthma
+    ✅ Generated Acute Asthma
+  > Generating: Bilateral Pneumothoraces
+    ✅ Generated Bilateral Pneumothoraces
+  💾 Updated B ILATERAL HYPERTRANSRADIANT HEMITHORACES in database.
+
+Pattern: INCREASED DENSITY OF ONE HEMITHORAX
+Missing: Total Lung Collapse
+  > Generating: Total Lung Collapse
+    ✅ Generated Total Lung Collapse
+  💾 Updated INCREASED DENSITY OF ONE HEMITHORAX in database.
+
+Pattern: N ON-RESOLVING OR RECURRENT CONSOLIDATION
+Missing: Invasive Mucinous Adenocarcinoma, Pulmonary Lymphoma
+  > Generating: Invasive Mucinous Adenocarcinoma
+    ✅ Generated Invasive Mucinous Adenocarcinoma
+  > Generating: Pulmonary Lymphoma
+    ✅ Generated Pulmonary Lymphoma
+  💾 Updated N ON-RESOLVING OR RECURRENT CONSOLIDATION in database.
+
+Pattern: C ONSOLIDATION WITH AN ENLARGED HILUM
+Missing: Primary Tuberculosis, Tularemia, Fungal (Histoplasmosis)
+  > Generating: Primary Tuberculosis
+    ✅ Generated Primary Tuberculosis
+  > Generating: Tularemia
+    ✅ Generated Tularemia
+  > Generating: Fungal (Histoplasmosis)
+    ✅ Generated Fungal (Histoplasmosis)
+  💾 Updated C ONSOLIDATION WITH AN ENLARGED HILUM in database.
+
+Pattern: PULMONARY OEDEMA
+Missing: Severe Pneumonia
+  > Generating: Severe Pneumonia
+    ✅ Generated Severe Pneumonia
+  💾 Updated PULMONARY OEDEMA in database.
+
+Pattern: PNEUMOPERITONEUM
+Missing: Perforated Peptic Ulcer (URGENT), Perforated Sigmoid Diverticulitis, Ischaemic Bowel Perforation
+  > Generating: Perforated Peptic Ulcer (URGENT)
+    ✅ Generated Perforated Peptic Ulcer (URGENT)
+  > Generating: Perforated Sigmoid Diverticulitis
+    ✅ Generated Perforated Sigmoid Diverticulitis
+  > Generating: Ischaemic Bowel Perforation
+    ✅ Generated Ischaemic Bowel Perforation
+  💾 Updated PNEUMOPERITONEUM in database.
+
+Pattern: G ASLESS ABDOMEN
+Missing: Acute Pancreatitis
+  > Generating: Acute Pancreatitis
+    ✅ Generated Acute Pancreatitis
+  💾 Updated G ASLESS ABDOMEN in database.
+
+Pattern: OESOPHAGEAL ULCERATION
+Missing: HSV Oesophagitis, Reflux
+  > Generating: HSV Oesophagitis
+    ✅ Generated HSV Oesophagitis
+  > Generating: Reflux
+    ✅ Generated Reflux
+  💾 Updated OESOPHAGEAL ULCERATION in database.
+
+Pattern: D ILATED SMALL BOWEL
+Missing: Strangulated Small Bowel, Closed-loop Obstruction, Ischaemic Bowel
+  > Generating: Strangulated Small Bowel
+    ✅ Generated Strangulated Small Bowel
+  > Generating: Closed-loop Obstruction
+    ✅ Generated Closed-loop Obstruction
+  > Generating: Ischaemic Bowel
+    ✅ Generated Ischaemic Bowel
+  💾 Updated D ILATED SMALL BOWEL in database.
+
+Pattern: S TRICTURES IN THE SMALL BOWEL
+Missing: Small Bowel Adenocarcinoma
+  > Generating: Small Bowel Adenocarcinoma
+    ✅ Generated Small Bowel Adenocarcinoma
+  💾 Updated S TRICTURES IN THE SMALL BOWEL in database.
+
+Pattern: S ITES OF ORIGIN OF PRIMARY BONE NEOPLASMS
+Missing: Epiphyseal, Metaphyseal, Diaphyseal
+  > Generating: Epiphyseal
+    ✅ Generated Epiphyseal
+  > Generating: Metaphyseal
+    ✅ Generated Metaphyseal
+  > Generating: Diaphyseal
+    ✅ Generated Diaphyseal
+  💾 Updated S ITES OF ORIGIN OF PRIMARY BONE NEOPLASMS in database.
+
+Pattern: L UCENT BONE LESION IN THE
+Missing: Metastasis, Brown Tumor
+  > Generating: Metastasis
+    ✅ Generated Metastasis
+  > Generating: Brown Tumor
+    ✅ Generated Brown Tumor
+  💾 Updated L UCENT BONE LESION IN THE in database.
+- L UCENT BONE LESION IN THE: No missing serious alternatives.
+
+Pattern: L UCENT BONE LESION IN THE MEDULLA
+Missing: Osteomyelitis, Fibrosarcoma, Metastasis
+  > Generating: Osteomyelitis
+    ✅ Generated Osteomyelitis
+  > Generating: Fibrosarcoma
+    ✅ Generated Fibrosarcoma
+  > Generating: Metastasis
+    ✅ Generated Metastasis
+  💾 Updated L UCENT BONE LESION IN THE MEDULLA in database.
+- L UCENT BONE LESION IN THE: No missing serious alternatives.
+- SUBARTICULAR LUCENT BONE LESION: No missing serious alternatives.
+
+Pattern: R EGIONAL OSTEOPENIA
+Missing: Complex Regional Pain Syndrome (CRPS), Septic Arthritis, Transient Osteoporosis
+  > Generating: Complex Regional Pain Syndrome (CRPS)
+    ✅ Generated Complex Regional Pain Syndrome (CRPS)
+  > Generating: Septic Arthritis
+    ✅ Generated Septic Arthritis
+  > Generating: Transient Osteoporosis
+    ✅ Generated Transient Osteoporosis
+  💾 Updated R EGIONAL OSTEOPENIA in database.
+
+Pattern: GENERALIZED OSTEOPENIA
+Missing: Osteomalacia, Multiple Myeloma
+  > Generating: Osteomalacia
+    ✅ Generated Osteomalacia
+  > Generating: Multiple Myeloma
+    ✅ Generated Multiple Myeloma
+  💾 Updated GENERALIZED OSTEOPENIA in database.
+
+Pattern: OSTEOPOROSIS
+Missing: Post-menopausal, Senile, Steroid-induced, Hyperparathyroidism
+  > Generating: Post-menopausal
+    ✅ Generated Post-menopausal
+  > Generating: Senile
+    ✅ Generated Senile
+  > Generating: Steroid-induced
+    ✅ Generated Steroid-induced
+  > Generating: Hyperparathyroidism
+    ✅ Generated Hyperparathyroidism
+  💾 Updated OSTEOPOROSIS in database.
+
+Pattern: HYPERTROPHIC OSTEOARTHROPATHY
+Missing: Bronchogenic Carcinoma (Lung), Pleural Mesothelioma, Venous Stasis
+  > Generating: Bronchogenic Carcinoma (Lung)
+    ✅ Generated Bronchogenic Carcinoma (Lung)
+  > Generating: Pleural Mesothelioma
+    ✅ Generated Pleural Mesothelioma
+  > Generating: Venous Stasis
+    ✅ Generated Venous Stasis
+  💾 Updated HYPERTROPHIC OSTEOARTHROPATHY in database.
+
+Pattern: EXCESSIVE CALLUS FORMATION
+Missing: Neuropathic Fracture, Cushing Syndrome, Infection
+  > Generating: Neuropathic Fracture
+    ✅ Generated Neuropathic Fracture
+  > Generating: Cushing Syndrome
+    ✅ Generated Cushing Syndrome
+  > Generating: Infection
+    ✅ Generated Infection
+  💾 Updated EXCESSIVE CALLUS FORMATION in database.
+
+Pattern: EROSIONS OF THE MEDIAL METAPHYSIS OF THE PROXIMAL HUMERUS
+Missing: Leukaemia (Child), Normal Variant (Mimic)
+  > Generating: Leukaemia (Child)
+    ✅ Generated Leukaemia (Child)
+  > Generating: Normal Variant (Mimic)
+    ✅ Generated Normal Variant (Mimic)
+  💾 Updated EROSIONS OF THE MEDIAL METAPHYSIS OF THE PROXIMAL HUMERUS in database.
+
+Pattern: EROSION OR ABSENCE OF THE OUTER END OF THE CLAVICLE
+Missing: Hyperparathyroidism (Renal), Rheumatoid Arthritis
+  > Generating: Hyperparathyroidism (Renal)
+    ✅ Generated Hyperparathyroidism (Renal)
+  > Generating: Rheumatoid Arthritis
+    ✅ Generated Rheumatoid Arthritis
+  💾 Updated EROSION OR ABSENCE OF THE OUTER END OF THE CLAVICLE in database.
+
+Pattern: FOCAL RIB LESION (SOLITARY OR MULTIPLE)
+Missing: Metastasis, Fibrous Dysplasia, Fracture
+  > Generating: Metastasis
+    ✅ Generated Metastasis
+  > Generating: Fibrous Dysplasia
+    ✅ Generated Fibrous Dysplasia
+  > Generating: Fracture
+    ✅ Generated Fracture
+  💾 Updated FOCAL RIB LESION (SOLITARY OR MULTIPLE) in database.
+
+Pattern: WIDE OR THICK RIBS
+Missing: Paget's Disease, Fibrous Dysplasia, Hurler Syndrome
+  > Generating: Paget's Disease
+    ✅ Generated Paget's Disease
+  > Generating: Fibrous Dysplasia
+    ✅ Generated Fibrous Dysplasia
+  > Generating: Hurler Syndrome
+    ✅ Generated Hurler Syndrome
+  💾 Updated WIDE OR THICK RIBS in database.
+
+Pattern: CARPAL FUSION
+Missing: Congenital Coalition, Rheumatoid Arthritis (Acquired), Juvenile Idiopathic Arthritis, Infection
+  > Generating: Congenital Coalition
+    ✅ Generated Congenital Coalition
+  > Generating: Rheumatoid Arthritis (Acquired)
+    ✅ Generated Rheumatoid Arthritis (Acquired)
+  > Generating: Juvenile Idiopathic Arthritis
+    ✅ Generated Juvenile Idiopathic Arthritis
+  > Generating: Infection
+    ✅ Generated Infection
+  💾 Updated CARPAL FUSION in database.
+
+Pattern: ARACHNODACTYLY
+Missing: MEN 2B
+  > Generating: MEN 2B
+    ✅ Generated MEN 2B
+  💾 Updated ARACHNODACTYLY in database.
+
+Pattern: DISTAL PHALANGEAL DESTRUCTION
+Missing: Scleroderma, Hyperparathyroidism, Thermal Injury (Frostbite)
+  > Generating: Scleroderma
+    ✅ Generated Scleroderma
+  > Generating: Hyperparathyroidism
+    ✅ Generated Hyperparathyroidism
+  > Generating: Thermal Injury (Frostbite)
+    ✅ Generated Thermal Injury (Frostbite)
+  💾 Updated DISTAL PHALANGEAL DESTRUCTION in database.
+
+Pattern: I NCREASED UPTAKE ON BONE SCANS
+Missing: Paget's Disease, Fracture, Osteomyelitis
+  > Generating: Paget's Disease
+    ✅ Generated Paget's Disease
+  > Generating: Fracture
+    ✅ Generated Fracture
+  > Generating: Osteomyelitis
+    ✅ Generated Osteomyelitis
+  💾 Updated I NCREASED UPTAKE ON BONE SCANS in database.
+
+Pattern: I NCREASED UPTAKE ON BONE SCANS NOT DUE TO SKELETAL ABNORMALITY
+Missing: Renal Uptake (Normal), Soft Tissue Calcification, Injection Site Artifact, Free Pertechnetate
+  > Generating: Renal Uptake (Normal)
+    ✅ Generated Renal Uptake (Normal)
+  > Generating: Soft Tissue Calcification
+    ✅ Generated Soft Tissue Calcification
+  > Generating: Injection Site Artifact
+    ✅ Generated Injection Site Artifact
+  > Generating: Free Pertechnetate
+    ✅ Generated Free Pertechnetate
+  💾 Updated I NCREASED UPTAKE ON BONE SCANS NOT DUE TO SKELETAL ABNORMALITY in database.
+
+Pattern: PHOTOPENIC AREAS (DEFECTS) ON BONE SCANS
+Missing: Multiple Myeloma (70%), Renal Cell Carcinoma Mets, Early AVN, Infarction
+  > Generating: Multiple Myeloma (70%)
+    ✅ Generated Multiple Myeloma (70%)
+  > Generating: Renal Cell Carcinoma Mets
+    ✅ Generated Renal Cell Carcinoma Mets
+  > Generating: Early AVN
+    ✅ Generated Early AVN
+  > Generating: Infarction
+    ✅ Generated Infarction
+  💾 Updated PHOTOPENIC AREAS (DEFECTS) ON BONE SCANS in database.
+
+Pattern: SCOLIOSIS
+Missing: Idiopathic (Most common), Neuromuscular, Congenital, Neurofibromatosis
+  > Generating: Idiopathic (Most common)
+    ✅ Generated Idiopathic (Most common)
+  > Generating: Neuromuscular
+    ✅ Generated Neuromuscular
+  > Generating: Congenital
+    ✅ Generated Congenital
+  > Generating: Neurofibromatosis
+    ✅ Generated Neurofibromatosis
+  💾 Updated SCOLIOSIS in database.
+
+Pattern: S OLITARY COLLAPSED VERTEBRA
+Missing: Metastatic Cord Compression, Tuberculous Spondylitis (Pott's), Multiple Myeloma
+  > Generating: Metastatic Cord Compression
+    ✅ Generated Metastatic Cord Compression
+  > Generating: Tuberculous Spondylitis (Pott's)
+    ✅ Generated Tuberculous Spondylitis (Pott's)
+  > Generating: Multiple Myeloma
+    ✅ Generated Multiple Myeloma
+  💾 Updated S OLITARY COLLAPSED VERTEBRA in database.
+
+Pattern: M ULTIPLE COLLAPSED VERTEBRAE
+Missing: Metastases
+  > Generating: Metastases
+    ✅ Generated Metastases
+  💾 Updated M ULTIPLE COLLAPSED VERTEBRAE in database.
+
+Pattern: S OLITARY DENSE PEDICLE
+Missing: Osteoblastic Metastasis, Contralateral Pars Defect (Compensatory), Osteoid Osteoma
+  > Generating: Osteoblastic Metastasis
+    ✅ Generated Osteoblastic Metastasis
+  > Generating: Contralateral Pars Defect (Compensatory)
+    ✅ Generated Contralateral Pars Defect (Compensatory)
+  > Generating: Osteoid Osteoma
+    ✅ Generated Osteoid Osteoma
+  💾 Updated S OLITARY DENSE PEDICLE in database.
+
+Pattern: E NLARGED VERTEBRAL BODY
+Missing: Paget's Disease, Haemangioma, Acromegaly
+  > Generating: Paget's Disease
+    ✅ Generated Paget's Disease
+  > Generating: Haemangioma
+    ✅ Generated Haemangioma
+  > Generating: Acromegaly
+    ✅ Generated Acromegaly
+  💾 Updated E NLARGED VERTEBRAL BODY in database.
+
+Pattern: S QUARING OF ONE OR MORE VERTEBRAL BODIES
+Missing: Ankylosing Spondylitis, Paget's Disease, Psoriatic Arthritis, Rheumatoid Arthritis
+  > Generating: Ankylosing Spondylitis
+    ✅ Generated Ankylosing Spondylitis
+  > Generating: Paget's Disease
+    ✅ Generated Paget's Disease
+  > Generating: Psoriatic Arthritis
+    ✅ Generated Psoriatic Arthritis
+  > Generating: Rheumatoid Arthritis
+    ✅ Generated Rheumatoid Arthritis
+  💾 Updated S QUARING OF ONE OR MORE VERTEBRAL BODIES in database.
+
+Pattern: B LOCK VERTEBRAE
+Missing: Congenital (Klippel-Feil), Acquired (Infection), Post-surgical, Ankylosing Spondylitis
+  > Generating: Congenital (Klippel-Feil)
+    ✅ Generated Congenital (Klippel-Feil)
+  > Generating: Acquired (Infection)
+    ✅ Generated Acquired (Infection)
+  > Generating: Post-surgical
+    ✅ Generated Post-surgical
+  > Generating: Ankylosing Spondylitis
+    ✅ Generated Ankylosing Spondylitis
+  💾 Updated B LOCK VERTEBRAE in database.
+
+Pattern: IVORY VERTEBRAL BODY
+Missing: Osteoblastic Metastasis (Prostate), Paget's Disease, Lymphoma, Sclerotic Myeloma
+  > Generating: Osteoblastic Metastasis (Prostate)
+    ✅ Generated Osteoblastic Metastasis (Prostate)
+  > Generating: Paget's Disease
+    ✅ Generated Paget's Disease
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  > Generating: Sclerotic Myeloma
+    ✅ Generated Sclerotic Myeloma
+  💾 Updated IVORY VERTEBRAL BODY in database.
+
+Pattern: ATLANTOAXIAL SUBLUXATION
+Missing: Rheumatoid Arthritis, Down Syndrome, Trauma, Psoriatic Arthritis
+  > Generating: Rheumatoid Arthritis
+    ✅ Generated Rheumatoid Arthritis
+  > Generating: Down Syndrome
+    ✅ Generated Down Syndrome
+  > Generating: Trauma
+    ✅ Generated Trauma
+  > Generating: Psoriatic Arthritis
+    ✅ Generated Psoriatic Arthritis
+  💾 Updated ATLANTOAXIAL SUBLUXATION in database.
+
+Pattern: INTERVERTEBRAL DISC CALCIFICATION
+Missing: Degenerative (Spondylosis), CPPD, Prior Infection
+  > Generating: Degenerative (Spondylosis)
+    ✅ Generated Degenerative (Spondylosis)
+  > Generating: CPPD
+    ✅ Generated CPPD
+  > Generating: Prior Infection
+    ✅ Generated Prior Infection
+  💾 Updated INTERVERTEBRAL DISC CALCIFICATION in database.
+
+Pattern: BONY OUTGROWTHS OF THE SPINE
+Missing: Osteophytes (OA), Syndesmophytes (AS), DISH, Flowing Calcification
+  > Generating: Osteophytes (OA)
+    ✅ Generated Osteophytes (OA)
+  > Generating: Syndesmophytes (AS)
+    ✅ Generated Syndesmophytes (AS)
+  > Generating: DISH
+    ✅ Generated DISH
+  > Generating: Flowing Calcification
+    ✅ Generated Flowing Calcification
+  💾 Updated BONY OUTGROWTHS OF THE SPINE in database.
+
+Pattern: POSTERIOR SCALLOPING OF VERTEBRAL BODIES
+Missing: Intradural Tumor, NF1
+  > Generating: Intradural Tumor
+    ✅ Generated Intradural Tumor
+  > Generating: NF1
+    ✅ Generated NF1
+  💾 Updated POSTERIOR SCALLOPING OF VERTEBRAL BODIES in database.
+
+Pattern: ANTERIOR SCALLOPING OF VERTEBRAL BODIES
+Missing: Aortic Aneurysm (Erosion), Tuberculous Spondylitis, Lymphadenopathy
+  > Generating: Aortic Aneurysm (Erosion)
+    ✅ Generated Aortic Aneurysm (Erosion)
+  > Generating: Tuberculous Spondylitis
+    ✅ Generated Tuberculous Spondylitis
+  > Generating: Lymphadenopathy
+    ✅ Generated Lymphadenopathy
+  💾 Updated ANTERIOR SCALLOPING OF VERTEBRAL BODIES in database.
+
+Pattern: W IDENED INTERPEDICULAR DISTANCE
+Missing: Intradural Mass (Tumor), Dural Ectasia (NF1), Diastematomyelia
+  > Generating: Intradural Mass (Tumor)
+    ✅ Generated Intradural Mass (Tumor)
+  > Generating: Dural Ectasia (NF1)
+    ✅ Generated Dural Ectasia (NF1)
+  > Generating: Diastematomyelia
+    ✅ Generated Diastematomyelia
+  💾 Updated W IDENED INTERPEDICULAR DISTANCE in database.
+- INTRASPINAL MASSES: No missing serious alternatives.
+
+Pattern: M ONOARTHRITIS
+Missing: Septic Arthritis (Surgical Emergency)
+  > Generating: Septic Arthritis (Surgical Emergency)
+    ✅ Generated Septic Arthritis (Surgical Emergency)
+  💾 Updated M ONOARTHRITIS in database.
+
+Pattern: ARTHRITIS WITH OSTEOPOROSIS
+Missing: Rheumatoid Arthritis, Juvenile Idiopathic Arthritis, TB Arthritis
+  > Generating: Rheumatoid Arthritis
+    ✅ Generated Rheumatoid Arthritis
+  > Generating: Juvenile Idiopathic Arthritis
+    ✅ Generated Juvenile Idiopathic Arthritis
+  > Generating: TB Arthritis
+    ✅ Generated TB Arthritis
+  💾 Updated ARTHRITIS WITH OSTEOPOROSIS in database.
+
+Pattern: ARTHRITIS WITH PRESERVATION OF BONE DENSITY
+Missing: Osteoarthritis, Psoriatic Arthritis, Gout, CPPD, Reactive Arthritis
+  > Generating: Osteoarthritis
+    ✅ Generated Osteoarthritis
+  > Generating: Psoriatic Arthritis
+    ✅ Generated Psoriatic Arthritis
+  > Generating: Gout
+    ✅ Generated Gout
+  > Generating: CPPD
+    ✅ Generated CPPD
+  > Generating: Reactive Arthritis
+    ✅ Generated Reactive Arthritis
+  💾 Updated ARTHRITIS WITH PRESERVATION OF BONE DENSITY in database.
+
+Pattern: ARTHRITIS WITH A PERIOSTEAL REACTION
+Missing: Reactive Arthritis
+  > Generating: Reactive Arthritis
+    ✅ Generated Reactive Arthritis
+  💾 Updated ARTHRITIS WITH A PERIOSTEAL REACTION in database.
+
+Pattern: A RTHRITIS WITH PRESERVED OR WIDENED JOINT SPACE
+Missing: Gout, PVNS, Neuropathic Joint (Early)
+  > Generating: Gout
+    ✅ Generated Gout
+  > Generating: PVNS
+    ✅ Generated PVNS
+  > Generating: Neuropathic Joint (Early)
+    ✅ Generated Neuropathic Joint (Early)
+  💾 Updated A RTHRITIS WITH PRESERVED OR WIDENED JOINT SPACE in database.
+
+Pattern: A RTHRITIS WITH SOFT-TISSUE NODULES
+Missing: Rheumatoid Arthritis (Rheumatoid Nodules), Gout (Tophi), Xanthomatosis, Multicentric Reticulohistiocytosis
+  > Generating: Rheumatoid Arthritis (Rheumatoid Nodules)
+    ✅ Generated Rheumatoid Arthritis (Rheumatoid Nodules)
+  > Generating: Gout (Tophi)
+    ✅ Generated Gout (Tophi)
+  > Generating: Xanthomatosis
+    ✅ Generated Xanthomatosis
+  > Generating: Multicentric Reticulohistiocytosis
+    ✅ Generated Multicentric Reticulohistiocytosis
+  💾 Updated A RTHRITIS WITH SOFT-TISSUE NODULES in database.
+
+Pattern: A RTHRITIS MUTILANS
+Missing: Psoriatic Arthritis, Rheumatoid Arthritis, Multicentric Reticulohistiocytosis
+  > Generating: Psoriatic Arthritis
+    ✅ Generated Psoriatic Arthritis
+  > Generating: Rheumatoid Arthritis
+    ✅ Generated Rheumatoid Arthritis
+  > Generating: Multicentric Reticulohistiocytosis
+    ✅ Generated Multicentric Reticulohistiocytosis
+  💾 Updated A RTHRITIS MUTILANS in database.
+
+Pattern: D IFFUSE TERMINAL PHALANGEAL SCLEROSIS
+Missing: Normal Variant (Mimic), Systemic Sclerosis, Psoriatic Arthritis, Renal Osteodystrophy
+  > Generating: Normal Variant (Mimic)
+    ✅ Generated Normal Variant (Mimic)
+  > Generating: Systemic Sclerosis
+    ✅ Generated Systemic Sclerosis
+  > Generating: Psoriatic Arthritis
+    ✅ Generated Psoriatic Arthritis
+  > Generating: Renal Osteodystrophy
+    ✅ Generated Renal Osteodystrophy
+  💾 Updated D IFFUSE TERMINAL PHALANGEAL SCLEROSIS in database.
+
+Pattern: C ALCIFIED LOOSE BODY (SINGLE OR MULTIPLE) IN A JOINT
+Missing: Synovial Chondromatosis, Osteoarthritis (Detached Osteophyte)
+  > Generating: Synovial Chondromatosis
+    ✅ Generated Synovial Chondromatosis
+  > Generating: Osteoarthritis (Detached Osteophyte)
+    ✅ Generated Osteoarthritis (Detached Osteophyte)
+  💾 Updated C ALCIFIED LOOSE BODY (SINGLE OR MULTIPLE) IN A JOINT in database.
+
+Pattern: C ALCIFICATION OF ARTICULAR (HYALINE) CARTILAGE (CHONDROCALCINOSIS)
+Missing: CPPD (Pseudogout), Hypomagnesaemia
+  > Generating: CPPD (Pseudogout)
+    ✅ Generated CPPD (Pseudogout)
+  > Generating: Hypomagnesaemia
+    ✅ Generated Hypomagnesaemia
+  💾 Updated C ALCIFICATION OF ARTICULAR (HYALINE) CARTILAGE (CHONDROCALCINOSIS) in database.
+
+Pattern: S ACROILIITIS
+Missing: IBD Arthritis, Psoriatic Arthritis, Septic Arthritis
+  > Generating: IBD Arthritis
+    ✅ Generated IBD Arthritis
+  > Generating: Psoriatic Arthritis
+    ✅ Generated Psoriatic Arthritis
+  > Generating: Septic Arthritis
+    ✅ Generated Septic Arthritis
+  💾 Updated S ACROILIITIS in database.
+
+Pattern: PROTRUSIO ACETABULI
+Missing: Rheumatoid Arthritis, Paget's Disease, Ankylosing Spondylitis, Idiopathic (Otto Pelvis)
+  > Generating: Rheumatoid Arthritis
+    ✅ Generated Rheumatoid Arthritis
+  > Generating: Paget's Disease
+    ✅ Generated Paget's Disease
+  > Generating: Ankylosing Spondylitis
+    ✅ Generated Ankylosing Spondylitis
+  > Generating: Idiopathic (Otto Pelvis)
+    ✅ Generated Idiopathic (Otto Pelvis)
+  💾 Updated PROTRUSIO ACETABULI in database.
+
+Pattern: WIDENING OF THE SYMPHYSIS PUBIS
+Missing: Trauma (Diastasis), Pregnancy (Physiological), Hyperparathyroidism, Extrophy of Bladder
+  > Generating: Trauma (Diastasis)
+    ✅ Generated Trauma (Diastasis)
+  > Generating: Pregnancy (Physiological)
+    ✅ Generated Pregnancy (Physiological)
+  > Generating: Hyperparathyroidism
+    ✅ Generated Hyperparathyroidism
+  > Generating: Extrophy of Bladder
+    ✅ Generated Extrophy of Bladder
+  💾 Updated WIDENING OF THE SYMPHYSIS PUBIS in database.
+- FEMORAL HEAD AND NECK ABNORMALITIES: No missing serious alternatives.
+- EROSION (ENLARGEMENT) OF THE INTERCONDYLAR NOTCH OF THE DISTAL FEMUR: No missing serious alternatives.
+
+Pattern: PNEUMONIA INVOLVING PART OR THE WHOLE OF ONE LOBE
+Missing: Streptococcus pneumoniae (Pneumococcus), Klebsiella pneumoniae, Mycoplasma, Legionella
+  > Generating: Streptococcus pneumoniae (Pneumococcus)
+    ✅ Generated Streptococcus pneumoniae (Pneumococcus)
+  > Generating: Klebsiella pneumoniae
+    ✅ Generated Klebsiella pneumoniae
+  > Generating: Mycoplasma
+    ✅ Generated Mycoplasma
+  > Generating: Legionella
+    ✅ Generated Legionella
+  💾 Updated PNEUMONIA INVOLVING PART OR THE WHOLE OF ONE LOBE in database.
+
+Pattern: CONSOLIDATION WITH BULGING OF FISSURES
+Missing: Mucinous Adenocarcinoma, Abscess, Haemorrhage
+  > Generating: Mucinous Adenocarcinoma
+    ✅ Generated Mucinous Adenocarcinoma
+  > Generating: Abscess
+    ✅ Generated Abscess
+  > Generating: Haemorrhage
+    ✅ Generated Haemorrhage
+  💾 Updated CONSOLIDATION WITH BULGING OF FISSURES in database.
+
+Pattern: A IR-SPACE OPACIFICATION
+Missing: Acute Pulmonary Oedema, Severe Pneumonia, Alveolar Haemorrhage
+  > Generating: Acute Pulmonary Oedema
+    ✅ Generated Acute Pulmonary Oedema
+  > Generating: Severe Pneumonia
+    ✅ Generated Severe Pneumonia
+  > Generating: Alveolar Haemorrhage
+    ✅ Generated Alveolar Haemorrhage
+  💾 Updated A IR-SPACE OPACIFICATION in database.
+
+Pattern: U NILATERAL PULMONARY OEDEMA
+Missing: Acute Severe Pneumonia, Pulmonary Haemorrhage, Aspiration
+  > Generating: Acute Severe Pneumonia
+    ✅ Generated Acute Severe Pneumonia
+  > Generating: Pulmonary Haemorrhage
+    ✅ Generated Pulmonary Haemorrhage
+  > Generating: Aspiration
+    ✅ Generated Aspiration
+  💾 Updated U NILATERAL PULMONARY OEDEMA in database.
+
+Pattern: S EPTAL (KERLEY B) LINES
+Missing: Pulmonary Oedema (Acute), Sarcoidosis
+  > Generating: Pulmonary Oedema (Acute)
+    ✅ Generated Pulmonary Oedema (Acute)
+  > Generating: Sarcoidosis
+    ✅ Generated Sarcoidosis
+  💾 Updated S EPTAL (KERLEY B) LINES in database.
+
+Pattern: R ETICULAR PATTERN (WITH OR WITHOUT HONEYCOMBING)
+Missing: UIP / IPF, NSIP, Chronic HP
+  > Generating: UIP / IPF
+    ✅ Generated UIP / IPF
+  > Generating: NSIP
+    ✅ Generated NSIP
+  > Generating: Chronic HP
+    ✅ Generated Chronic HP
+  💾 Updated R ETICULAR PATTERN (WITH OR WITHOUT HONEYCOMBING) in database.
+- M ULTIPLE PULMONARY: No missing serious alternatives.
+
+Pattern: N ON-THROMBOTIC PULMONARY EMBOLI
+Missing: Fat Embolism, Amniotic Fluid Embolism
+  > Generating: Fat Embolism
+    ✅ Generated Fat Embolism
+  > Generating: Amniotic Fluid Embolism
+    ✅ Generated Amniotic Fluid Embolism
+  💾 Updated N ON-THROMBOTIC PULMONARY EMBOLI in database.
+
+Pattern: P ULMONARY CALCIFICATION OR OSSIFICATION
+Missing: Healed Infection (Granuloma), Hamartoma, Mitral Stenosis
+  > Generating: Healed Infection (Granuloma)
+    ✅ Generated Healed Infection (Granuloma)
+  > Generating: Hamartoma
+    ✅ Generated Hamartoma
+  > Generating: Mitral Stenosis
+    ✅ Generated Mitral Stenosis
+  💾 Updated P ULMONARY CALCIFICATION OR OSSIFICATION in database.
+
+Pattern: U NILATERAL HILAR ENLARGEMENT
+Missing: Bronchogenic Carcinoma, Primary TB, Pulmonary Artery Aneurysm
+  > Generating: Bronchogenic Carcinoma
+    ✅ Generated Bronchogenic Carcinoma
+  > Generating: Primary TB
+    ✅ Generated Primary TB
+  > Generating: Pulmonary Artery Aneurysm
+    ✅ Generated Pulmonary Artery Aneurysm
+  💾 Updated U NILATERAL HILAR ENLARGEMENT in database.
+
+Pattern: DIFFUSE LUNG DISEASE WITH PRESERVED LUNG VOLUMES
+Missing: Langerhans Cell Histiocytosis (LCH), Sarcoidosis, Cystic Fibrosis
+  > Generating: Langerhans Cell Histiocytosis (LCH)
+    ✅ Generated Langerhans Cell Histiocytosis (LCH)
+  > Generating: Sarcoidosis
+    ✅ Generated Sarcoidosis
+  > Generating: Cystic Fibrosis
+    ✅ Generated Cystic Fibrosis
+  💾 Updated DIFFUSE LUNG DISEASE WITH PRESERVED LUNG VOLUMES in database.
+
+Pattern: PLEURAL EFFUSION
+Missing: Malignant Effusion, Parapneumonic Effusion, Congestive Heart Failure
+  > Generating: Malignant Effusion
+    ✅ Generated Malignant Effusion
+  > Generating: Parapneumonic Effusion
+    ✅ Generated Parapneumonic Effusion
+  > Generating: Congestive Heart Failure
+    ✅ Generated Congestive Heart Failure
+  💾 Updated PLEURAL EFFUSION in database.
+
+Pattern: PLEURAL EFFUSION DUE TO EXTRATHORACIC DISEASE
+Missing: Congestive Heart Failure, Hypoproteinaemia (Liver/Renal), Subphrenic Abscess
+  > Generating: Congestive Heart Failure
+    ✅ Generated Congestive Heart Failure
+  > Generating: Hypoproteinaemia (Liver/Renal)
+    ✅ Generated Hypoproteinaemia (Liver/Renal)
+  > Generating: Subphrenic Abscess
+    ✅ Generated Subphrenic Abscess
+  💾 Updated PLEURAL EFFUSION DUE TO EXTRATHORACIC DISEASE in database.
+- PLEURAL EFFUSION WITH AN OTHERWISE NORMAL CHEST X-RAY: No missing serious alternatives.
+
+Pattern: P NEUMOTHORAX
+Missing: Tension Pneumothorax (EMERGENCY), Bulla, Skin Fold (Mimic)
+  > Generating: Tension Pneumothorax (EMERGENCY)
+    ✅ Generated Tension Pneumothorax (EMERGENCY)
+  > Generating: Bulla
+    ✅ Generated Bulla
+  > Generating: Skin Fold (Mimic)
+    ✅ Generated Skin Fold (Mimic)
+  💾 Updated P NEUMOTHORAX in database.
+
+Pattern: P NEUMOMEDIASTINUM
+Missing: Oesophageal Rupture (Boerhaave - EMERGENCY), Asthma (Macklin Effect), Tracheal Rupture, Pneumothorax
+  > Generating: Oesophageal Rupture (Boerhaave - EMERGENCY)
+    ✅ Generated Oesophageal Rupture (Boerhaave - EMERGENCY)
+  > Generating: Asthma (Macklin Effect)
+    ✅ Generated Asthma (Macklin Effect)
+  > Generating: Tracheal Rupture
+    ✅ Generated Tracheal Rupture
+  > Generating: Pneumothorax
+    ✅ Generated Pneumothorax
+  💾 Updated P NEUMOMEDIASTINUM in database.
+
+Pattern: D IAPHRAGMATIC HUMPS
+Missing: Eventration, Liver Mass
+  > Generating: Eventration
+    ✅ Generated Eventration
+  > Generating: Liver Mass
+    ✅ Generated Liver Mass
+  💾 Updated D IAPHRAGMATIC HUMPS in database.
+
+Pattern: U NILATERAL ELEVATED HEMIDIAPHRAGM
+Missing: Eventration, Volume Loss (Collapse), Subphrenic Abscess
+  > Generating: Eventration
+    ✅ Generated Eventration
+  > Generating: Volume Loss (Collapse)
+    ✅ Generated Volume Loss (Collapse)
+  > Generating: Subphrenic Abscess
+    ✅ Generated Subphrenic Abscess
+  💾 Updated U NILATERAL ELEVATED HEMIDIAPHRAGM in database.
+- BILATERAL ELEVATED HEMIDIAPHRAGMS: No missing serious alternatives.
+
+Pattern: P LEURAL CALCIFICATION
+Missing: Old Empyema, Old Haemothorax
+  > Generating: Old Empyema
+    ✅ Generated Old Empyema
+  > Generating: Old Haemothorax
+    ✅ Generated Old Haemothorax
+  💾 Updated P LEURAL CALCIFICATION in database.
+
+Pattern: L OCAL PLEURAL MASSES
+Missing: Solitary Fibrous Tumor
+  > Generating: Solitary Fibrous Tumor
+    ✅ Generated Solitary Fibrous Tumor
+  💾 Updated L OCAL PLEURAL MASSES in database.
+
+Pattern: CHEST RADIOGRAPH FOLLOWING CHEST TRAUMA
+Missing: Pneumothorax, Haemothorax, Aortic Rupture
+  > Generating: Pneumothorax
+    ✅ Generated Pneumothorax
+  > Generating: Haemothorax
+    ✅ Generated Haemothorax
+  > Generating: Aortic Rupture
+    ✅ Generated Aortic Rupture
+  💾 Updated CHEST RADIOGRAPH FOLLOWING CHEST TRAUMA in database.
+
+Pattern: D RUG-INDUCED LUNG DISEASE
+Missing: Nitrofurantoin, Bleomycin
+  > Generating: Nitrofurantoin
+    ✅ Generated Nitrofurantoin
+  > Generating: Bleomycin
+    ✅ Generated Bleomycin
+  💾 Updated D RUG-INDUCED LUNG DISEASE in database.
+
+Pattern: ANTERIOR MEDIASTINAL MASSES IN ADULTS
+Missing: Teratoma, Terrible Lymphoma, Thyroid Goitre
+  > Generating: Teratoma
+    ✅ Generated Teratoma
+  > Generating: Terrible Lymphoma
+    ✅ Generated Terrible Lymphoma
+  > Generating: Thyroid Goitre
+    ✅ Generated Thyroid Goitre
+  💾 Updated ANTERIOR MEDIASTINAL MASSES IN ADULTS in database.
+
+Pattern: M IDDLE MEDIASTINAL MASSES IN ADULTS
+Missing: Lymphadenopathy (Mets/Lymphoma), Foregut Cyst, Aneurysm
+  > Generating: Lymphadenopathy (Mets/Lymphoma)
+    ✅ Generated Lymphadenopathy (Mets/Lymphoma)
+  > Generating: Foregut Cyst
+    ✅ Generated Foregut Cyst
+  > Generating: Aneurysm
+    ✅ Generated Aneurysm
+  💾 Updated M IDDLE MEDIASTINAL MASSES IN ADULTS in database.
+
+Pattern: P OSTERIOR MEDIASTINAL MASSES IN ADULTS
+Missing: Neurogenic Tumor, Paravertebral Abscess
+  > Generating: Neurogenic Tumor
+    ✅ Generated Neurogenic Tumor
+  > Generating: Paravertebral Abscess
+    ✅ Generated Paravertebral Abscess
+  💾 Updated P OSTERIOR MEDIASTINAL MASSES IN ADULTS in database.
+
+Pattern: C T MEDIASTINAL MASS CONTAINING FAT
+Missing: Teratoma
+  > Generating: Teratoma
+    ✅ Generated Teratoma
+  💾 Updated C T MEDIASTINAL MASS CONTAINING FAT in database.
+
+Pattern: C T MEDIASTINAL CYSTS
+Missing: Oesophageal Cyst
+  > Generating: Oesophageal Cyst
+    ✅ Generated Oesophageal Cyst
+  💾 Updated C T MEDIASTINAL CYSTS in database.
+
+Pattern: C T THYMIC MASS
+Missing: Lymphoma
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  💾 Updated C T THYMIC MASS in database.
+
+Pattern: GYNAECOMASTIA
+Missing: Physiological, Drug-induced, Male Breast CA, Cirrhosis
+  > Generating: Physiological
+    ✅ Generated Physiological
+  > Generating: Drug-induced
+    ✅ Generated Drug-induced
+  > Generating: Male Breast CA
+    ✅ Generated Male Breast CA
+  > Generating: Cirrhosis
+    ✅ Generated Cirrhosis
+  💾 Updated GYNAECOMASTIA in database.
+- L INEAR AND CURVILINEAR CALCIFICATION IN SOFT TISSUES: No missing serious alternatives.
+- SOFT-TISSUE CALCIFICATION: No missing serious alternatives.
+
+Pattern: S OFT-TISSUE OSSIFICATION
+Missing: Myositis Ossificans (Trauma), Myositis Ossificans Progressiva, Neuropathic Ossification
+  > Generating: Myositis Ossificans (Trauma)
+    ✅ Generated Myositis Ossificans (Trauma)
+  > Generating: Myositis Ossificans Progressiva
+    ✅ Generated Myositis Ossificans Progressiva
+  > Generating: Neuropathic Ossification
+    ✅ Generated Neuropathic Ossification
+  💾 Updated S OFT-TISSUE OSSIFICATION in database.
+
+Pattern: SHORT METACARPAL(S) OR METATARSAL(S)
+Missing: Turner Syndrome, Sickle Cell Disease, Idiopathic
+  > Generating: Turner Syndrome
+    ✅ Generated Turner Syndrome
+  > Generating: Sickle Cell Disease
+    ✅ Generated Sickle Cell Disease
+  > Generating: Idiopathic
+    ✅ Generated Idiopathic
+  💾 Updated SHORT METACARPAL(S) OR METATARSAL(S) in database.
+- R IB LESION WITH AN ADJACENT SOFT-TISSUE MASS: No missing serious alternatives.
+
+Pattern: RIGHT ATRIAL ENLARGEMENT
+Missing: Tricuspid Stenosis/Regurgitation, ASD
+  > Generating: Tricuspid Stenosis/Regurgitation
+    ✅ Generated Tricuspid Stenosis/Regurgitation
+  > Generating: ASD
+    ✅ Generated ASD
+  💾 Updated RIGHT ATRIAL ENLARGEMENT in database.
+
+Pattern: RIGHT VENTRICULAR ENLARGEMENT
+Missing: Pulmonary Hypertension, ASD
+  > Generating: Pulmonary Hypertension
+    ✅ Generated Pulmonary Hypertension
+  > Generating: ASD
+    ✅ Generated ASD
+  💾 Updated RIGHT VENTRICULAR ENLARGEMENT in database.
+
+Pattern: LEFT ATRIAL ENLARGEMENT
+Missing: Left-to-Right Shunt (VSD/PDA)
+  > Generating: Left-to-Right Shunt (VSD/PDA)
+    ✅ Generated Left-to-Right Shunt (VSD/PDA)
+  💾 Updated LEFT ATRIAL ENLARGEMENT in database.
+
+Pattern: L EFT VENTRICULAR ENLARGEMENT
+Missing: Aortic Regurgitation, Aortic Stenosis (Late), Hypertension, Mitral Regurgitation
+  > Generating: Aortic Regurgitation
+    ✅ Generated Aortic Regurgitation
+  > Generating: Aortic Stenosis (Late)
+    ✅ Generated Aortic Stenosis (Late)
+  > Generating: Hypertension
+    ✅ Generated Hypertension
+  > Generating: Mitral Regurgitation
+    ✅ Generated Mitral Regurgitation
+  💾 Updated L EFT VENTRICULAR ENLARGEMENT in database.
+
+Pattern: C ARDIAC CALCIFICATION
+Missing: Coronary Calcification, Valvular Calcification
+  > Generating: Coronary Calcification
+    ✅ Generated Coronary Calcification
+  > Generating: Valvular Calcification
+    ✅ Generated Valvular Calcification
+  💾 Updated C ARDIAC CALCIFICATION in database.
+- M YOCARDIAL DISEASES: No missing serious alternatives.
+- P ERICARDIAL DISEASES: No missing serious alternatives.
+- C ARDIAC MASSES: No missing serious alternatives.
+
+Pattern: L ATE GADOLINIUM ENHANCEMENT ON CARDIAC MRI
+Missing: Myocardial Infarction, Hypertrophic Cardiomyopathy (HCM), Amyloidosis
+  > Generating: Myocardial Infarction
+    ✅ Generated Myocardial Infarction
+  > Generating: Hypertrophic Cardiomyopathy (HCM)
+    ✅ Generated Hypertrophic Cardiomyopathy (HCM)
+  > Generating: Amyloidosis
+    ✅ Generated Amyloidosis
+  💾 Updated L ATE GADOLINIUM ENHANCEMENT ON CARDIAC MRI in database.
+
+Pattern: M ALIGNANT CORONARY ARTERY ANOMALIES IN THE ADULT
+Missing: Inter-arterial Course, ALCAPA (Childhood)
+  > Generating: Inter-arterial Course
+    ✅ Generated Inter-arterial Course
+  > Generating: ALCAPA (Childhood)
+    ✅ Generated ALCAPA (Childhood)
+  💾 Updated M ALIGNANT CORONARY ARTERY ANOMALIES IN THE ADULT in database.
+- C AUSES OF A PERFUSION DEFECT ON CARDIAC STRESS PERFUSION MRI: No missing serious alternatives.
+- C AUSES OF A PERFUSION DEFECT ON A CARDIAC SPECT SCAN: No missing serious alternatives.
+
+Pattern: A CUTE AORTIC SYNDROMES
+Missing: Aortic Dissection (Type A - URGENT), Intramural Haematoma, Penetrating Atherosclerotic Ulcer
+  > Generating: Aortic Dissection (Type A - URGENT)
+    ✅ Generated Aortic Dissection (Type A - URGENT)
+  > Generating: Intramural Haematoma
+    ✅ Generated Intramural Haematoma
+  > Generating: Penetrating Atherosclerotic Ulcer
+    ✅ Generated Penetrating Atherosclerotic Ulcer
+  💾 Updated A CUTE AORTIC SYNDROMES in database.
+
+Pattern: AORTIC ARCH ANOMALIES
+Missing: Right Aortic Arch, Aberrant Right Subclavian
+  > Generating: Right Aortic Arch
+    ✅ Generated Right Aortic Arch
+  > Generating: Aberrant Right Subclavian
+    ✅ Generated Aberrant Right Subclavian
+  💾 Updated AORTIC ARCH ANOMALIES in database.
+
+Pattern: T HORACIC AORTIC ANEURYSM
+Missing: Annulo-aortic Ectasia (Marfan), Mycotic Aneurysm
+  > Generating: Annulo-aortic Ectasia (Marfan)
+    ✅ Generated Annulo-aortic Ectasia (Marfan)
+  > Generating: Mycotic Aneurysm
+    ✅ Generated Mycotic Aneurysm
+  💾 Updated T HORACIC AORTIC ANEURYSM in database.
+- I NCREASED AORTIC WALL THICKNESS: No missing serious alternatives.
+- P ULMONARY ARTERIAL ENLARGEMENT: No missing serious alternatives.
+
+Pattern: P ULMONARY HYPERTENSION
+Missing: Chronic PE (CTEPH), COPD, Left Heart Failure
+  > Generating: Chronic PE (CTEPH)
+    ✅ Generated Chronic PE (CTEPH)
+  > Generating: COPD
+    ✅ Generated COPD
+  > Generating: Left Heart Failure
+    ✅ Generated Left Heart Failure
+  💾 Updated P ULMONARY HYPERTENSION in database.
+
+Pattern: P ULMONARY VENOUS ENLARGEMENT
+Missing: Left Heart Failure, Mitral Valve Disease, VSD (Plethora - Mimic)
+  > Generating: Left Heart Failure
+    ✅ Generated Left Heart Failure
+  > Generating: Mitral Valve Disease
+    ✅ Generated Mitral Valve Disease
+  > Generating: VSD (Plethora - Mimic)
+    ✅ Generated VSD (Plethora - Mimic)
+  💾 Updated P ULMONARY VENOUS ENLARGEMENT in database.
+- T ERTIARY CONTRACTIONS IN THE OESOPHAGUS: No missing serious alternatives.
+
+Pattern: S TOMACH MASSES AND FILLING DEFECTS
+Missing: Gastric Lymphoma, GIST, Gastric Polyps
+  > Generating: Gastric Lymphoma
+    ✅ Generated Gastric Lymphoma
+  > Generating: GIST
+    ✅ Generated GIST
+  > Generating: Gastric Polyps
+    ✅ Generated Gastric Polyps
+  💾 Updated S TOMACH MASSES AND FILLING DEFECTS in database.
+
+Pattern: T HICKENED FOLDS IN NON-DILATED
+Missing: Hypoproteinaemia, Lymphoma
+  > Generating: Hypoproteinaemia
+    ✅ Generated Hypoproteinaemia
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  💾 Updated T HICKENED FOLDS IN NON-DILATED in database.
+
+Pattern: THICKENED FOLDS IN NON-DILATED
+Missing: Crohn's Disease, Lymphoma, Infectious Ileitis (Yersinia)
+  > Generating: Crohn's Disease
+    ✗ Error generating Crohn's Disease: Expected ',' or '}' after property value in JSON at position 238 (line 4 column 117)
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  > Generating: Infectious Ileitis (Yersinia)
+    ✅ Generated Infectious Ileitis (Yersinia)
+  💾 Updated THICKENED FOLDS IN NON-DILATED in database.
+
+Pattern: S MALL BOWEL MURAL THICKENING
+Missing: Mesenteric Ischaemia (URGENT), Small Bowel Lymphoma, Perforated Crohn's
+  > Generating: Mesenteric Ischaemia (URGENT)
+    ✅ Generated Mesenteric Ischaemia (URGENT)
+  > Generating: Small Bowel Lymphoma
+    ✅ Generated Small Bowel Lymphoma
+  > Generating: Perforated Crohn's
+    ✅ Generated Perforated Crohn's
+  💾 Updated S MALL BOWEL MURAL THICKENING in database.
+- S MALL BOWEL MURAL THICKENING: No missing serious alternatives.
+
+Pattern: MULTIPLE NODULES IN THE SMALL BOWEL
+Missing: Lymphoid Hyperplasia, Lymphoma, Polyposis Syndromes, Mastocytosis
+  > Generating: Lymphoid Hyperplasia
+    ✅ Generated Lymphoid Hyperplasia
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  > Generating: Polyposis Syndromes
+    ✅ Generated Polyposis Syndromes
+  > Generating: Mastocytosis
+    ✅ Generated Mastocytosis
+  💾 Updated MULTIPLE NODULES IN THE SMALL BOWEL in database.
+- LESIONS IN THE TERMINAL ILEUM: No missing serious alternatives.
+
+Pattern: C OLONIC POLYPS
+Missing: Adenomatous Polyp, Hyperplastic Polyp, Villous Adenoma, Lipoma
+  > Generating: Adenomatous Polyp
+    ✅ Generated Adenomatous Polyp
+  > Generating: Hyperplastic Polyp
+    ✅ Generated Hyperplastic Polyp
+  > Generating: Villous Adenoma
+    ✅ Generated Villous Adenoma
+  > Generating: Lipoma
+    ✅ Generated Lipoma
+  💾 Updated C OLONIC POLYPS in database.
+
+Pattern: COLONIC STRICTURES
+Missing: Adenocarcinoma, Diverticulitis
+  > Generating: Adenocarcinoma
+    ✅ Generated Adenocarcinoma
+  > Generating: Diverticulitis
+    ✅ Generated Diverticulitis
+  💾 Updated COLONIC STRICTURES in database.
+
+Pattern: C OLITIS ON CROSS-SECTIONAL IMAGING
+Missing: Ulcerative Colitis, Ischaemic Colitis, Pseudomembranous Colitis
+  > Generating: Ulcerative Colitis
+    ✅ Generated Ulcerative Colitis
+  > Generating: Ischaemic Colitis
+    ✅ Generated Ischaemic Colitis
+  > Generating: Pseudomembranous Colitis
+    ✅ Generated Pseudomembranous Colitis
+  💾 Updated C OLITIS ON CROSS-SECTIONAL IMAGING in database.
+
+Pattern: P NEUMATOSIS INTESTINALIS (GAS IN THE BOWEL WALL)
+Missing: Mesenteric Ischaemia, Pneumatosis Cystoides Intestinalis
+  > Generating: Mesenteric Ischaemia
+    ✅ Generated Mesenteric Ischaemia
+  > Generating: Pneumatosis Cystoides Intestinalis
+    ✅ Generated Pneumatosis Cystoides Intestinalis
+  💾 Updated P NEUMATOSIS INTESTINALIS (GAS IN THE BOWEL WALL) in database.
+
+Pattern: M EGACOLON IN AN ADULT
+Missing: Toxic Megacolon (URGENT), Ogilvie Syndrome, Mechanical Obstruction, Hirschsprung (Adult)
+  > Generating: Toxic Megacolon (URGENT)
+    ✅ Generated Toxic Megacolon (URGENT)
+  > Generating: Ogilvie Syndrome
+    ✅ Generated Ogilvie Syndrome
+  > Generating: Mechanical Obstruction
+    ✅ Generated Mechanical Obstruction
+  > Generating: Hirschsprung (Adult)
+    ✅ Generated Hirschsprung (Adult)
+  💾 Updated M EGACOLON IN AN ADULT in database.
+
+Pattern: APHTHOID ULCERS
+Missing: Crohn's Disease (Most common), Infectious Colitis, NSAID Colopathy
+  > Generating: Crohn's Disease (Most common)
+    ✅ Generated Crohn's Disease (Most common)
+  > Generating: Infectious Colitis
+    ✅ Generated Infectious Colitis
+  > Generating: NSAID Colopathy
+    ✅ Generated NSAID Colopathy
+  💾 Updated APHTHOID ULCERS in database.
+- C T SIGNS OF INTESTINAL ISCHAEMIA: No missing serious alternatives.
+
+Pattern: C ROSS-SECTIONAL IMAGING SIGNS OF APPENDICITIS
+Missing: Meckel's Diverticulitis
+  > Generating: Meckel's Diverticulitis
+    ✅ Generated Meckel's Diverticulitis
+  💾 Updated C ROSS-SECTIONAL IMAGING SIGNS OF APPENDICITIS in database.
+- C AUSES OF INCREASED MESENTERIC: No missing serious alternatives.
+- WIDENING OF THE RETRORECTAL: No missing serious alternatives.
+
+Pattern: C T OF A RETROPERITONEAL CYSTIC MASS
+Missing: Lymphangioma, Duplication Cyst, Pseudocyst, Hydatid Cyst
+  > Generating: Lymphangioma
+    ✅ Generated Lymphangioma
+  > Generating: Duplication Cyst
+    ✅ Generated Duplication Cyst
+  > Generating: Pseudocyst
+    ✅ Generated Pseudocyst
+  > Generating: Hydatid Cyst
+    ✅ Generated Hydatid Cyst
+  💾 Updated C T OF A RETROPERITONEAL CYSTIC MASS in database.
+- S CINTIGRAPHIC LOCALIZATION OF GASTROINTESTINAL BLEEDING: No missing serious alternatives.
+- C AUSES OF NON-MALIGNANT FDG UPTAKE IN ABDOMINAL PET CT: No missing serious alternatives.
+- A BDOMINAL MALIGNANCY WITH POOR FDG PET AVIDITY: No missing serious alternatives.
+- F ILLING DEFECT IN THE GALLBLADDER: No missing serious alternatives.
+
+Pattern: B ILIARY TRACT DILATATION
+Missing: Choledocholithiasis, Pancreatic Cancer, Cholangiocarcinoma
+  > Generating: Choledocholithiasis
+    ✅ Generated Choledocholithiasis
+  > Generating: Pancreatic Cancer
+    ✅ Generated Pancreatic Cancer
+  > Generating: Cholangiocarcinoma
+    ✅ Generated Cholangiocarcinoma
+  💾 Updated B ILIARY TRACT DILATATION in database.
+
+Pattern: T HICKENED GALLBLADDER WALL
+Missing: Adenomyomatosis, Heart Failure (Systemic), GB Carcinoma
+  > Generating: Adenomyomatosis
+    ✅ Generated Adenomyomatosis
+  > Generating: Heart Failure (Systemic)
+    ✅ Generated Heart Failure (Systemic)
+  > Generating: GB Carcinoma
+    ✅ Generated GB Carcinoma
+  💾 Updated T HICKENED GALLBLADDER WALL in database.
+- GAS IN THE BILIARY TRACT: No missing serious alternatives.
+
+Pattern: G AS IN THE PORTAL VEINS
+Missing: Mesenteric Ischaemia (Adult), Necrotising Enterocolitis (Neonate)
+  > Generating: Mesenteric Ischaemia (Adult)
+    ✅ Generated Mesenteric Ischaemia (Adult)
+  > Generating: Necrotising Enterocolitis (Neonate)
+    ✅ Generated Necrotising Enterocolitis (Neonate)
+  💾 Updated G AS IN THE PORTAL VEINS in database.
+- S EGMENTAL ANATOMY OF THE LIVER: No missing serious alternatives.
+- H EPATOMEGALY: No missing serious alternatives.
+- HEPATIC CALCIFICATION: No missing serious alternatives.
+
+Pattern: L IVER LESIONS WITH A CENTRAL SCAR
+Missing: Cholangiocarcinoma
+  > Generating: Cholangiocarcinoma
+    ✅ Generated Cholangiocarcinoma
+  💾 Updated L IVER LESIONS WITH A CENTRAL SCAR in database.
+
+Pattern: L IVER LESIONS CAUSING CAPSULAR RETRACTION
+Missing: Cholangiocarcinoma, Fibrolamellar HCC, Metastasis (Treated), Hepatic Epithelioid Haemangioendothelioma (EHE)
+  > Generating: Cholangiocarcinoma
+    ✅ Generated Cholangiocarcinoma
+  > Generating: Fibrolamellar HCC
+    ✅ Generated Fibrolamellar HCC
+  > Generating: Metastasis (Treated)
+    ✅ Generated Metastasis (Treated)
+  > Generating: Hepatic Epithelioid Haemangioendothelioma (EHE)
+    ✅ Generated Hepatic Epithelioid Haemangioendothelioma (EHE)
+  💾 Updated L IVER LESIONS CAUSING CAPSULAR RETRACTION in database.
+
+Pattern: S PLENOMEGALY
+Missing: Lymphoma, Leukaemia, Malaria
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  > Generating: Leukaemia
+    ✅ Generated Leukaemia
+  > Generating: Malaria
+    ✅ Generated Malaria
+  💾 Updated S PLENOMEGALY in database.
+- SPLENIC CALCIFICATION: No missing serious alternatives.
+- SPLENIC LESION: No missing serious alternatives.
+
+Pattern: P ANCREATIC CALCIFICATION
+Missing: Cystic Fibrosis, Hyperparathyroidism
+  > Generating: Cystic Fibrosis
+    ✅ Generated Cystic Fibrosis
+  > Generating: Hyperparathyroidism
+    ✅ Generated Hyperparathyroidism
+  💾 Updated P ANCREATIC CALCIFICATION in database.
+
+Pattern: C YSTIC PANCREATIC LESION
+Missing: Pseudocyst, Serous Cystadenoma, Mucinous Cystic Neoplasm, IPMN
+  > Generating: Pseudocyst
+    ✅ Generated Pseudocyst
+  > Generating: Serous Cystadenoma
+    ✅ Generated Serous Cystadenoma
+  > Generating: Mucinous Cystic Neoplasm
+    ✅ Generated Mucinous Cystic Neoplasm
+  > Generating: IPMN
+    ✅ Generated IPMN
+  💾 Updated C YSTIC PANCREATIC LESION in database.
+
+Pattern: A DRENAL CALCIFICATION
+Missing: Old Haemorrhage, Tuberculosis, Neuroblastoma (Child), Phaeochromocytoma
+  > Generating: Old Haemorrhage
+    ✅ Generated Old Haemorrhage
+  > Generating: Tuberculosis
+    ✅ Generated Tuberculosis
+  > Generating: Neuroblastoma (Child)
+    ✅ Generated Neuroblastoma (Child)
+  > Generating: Phaeochromocytoma
+    ✅ Generated Phaeochromocytoma
+  💾 Updated A DRENAL CALCIFICATION in database.
+
+Pattern: INCIDENTAL ADRENAL MASS (UNILATERAL)
+Missing: Adrenal Adenoma, Adrenal Cortical CA
+  > Generating: Adrenal Adenoma
+    ✅ Generated Adrenal Adenoma
+  > Generating: Adrenal Cortical CA
+    ✅ Generated Adrenal Cortical CA
+  💾 Updated INCIDENTAL ADRENAL MASS (UNILATERAL) in database.
+
+Pattern: B ILATERAL ADRENAL MASSES
+Missing: Congenital Adrenal Hypertrophy
+  > Generating: Congenital Adrenal Hypertrophy
+    ✅ Generated Congenital Adrenal Hypertrophy
+  💾 Updated B ILATERAL ADRENAL MASSES in database.
+- A DRENAL PSEUDOTUMOURS: No missing serious alternatives.
+- M IBG IMAGING: No missing serious alternatives.
+
+Pattern: C ONGENITAL RENAL ANOMALIES
+Missing: Scarred Kidney (Reflux), Renal Artery Stenosis, Mayer-Rokitansky-Kuster-Hauser Syndrome
+  > Generating: Scarred Kidney (Reflux)
+    ✅ Generated Scarred Kidney (Reflux)
+  > Generating: Renal Artery Stenosis
+    ✅ Generated Renal Artery Stenosis
+  > Generating: Mayer-Rokitansky-Kuster-Hauser Syndrome
+    ✅ Generated Mayer-Rokitansky-Kuster-Hauser Syndrome
+  💾 Updated C ONGENITAL RENAL ANOMALIES in database.
+
+Pattern: LOCALIZED BULGE OF THE RENAL OUTLINE
+Missing: Dromedary Hump (Variant), Pseudotumor (Hypertrophied Column), Scarring
+  > Generating: Dromedary Hump (Variant)
+    ✅ Generated Dromedary Hump (Variant)
+  > Generating: Pseudotumor (Hypertrophied Column)
+    ✅ Generated Pseudotumor (Hypertrophied Column)
+  > Generating: Scarring
+    ✅ Generated Scarring
+  💾 Updated LOCALIZED BULGE OF THE RENAL OUTLINE in database.
+- UNILATERAL SCARRED KIDNEY: No missing serious alternatives.
+
+Pattern: U NILATERAL SMALL SMOOTH KIDNEY
+Missing: Chronic Renal Artery Stenosis, Chronic Pyelonephritis (Scarred), Renal Hypoplasia (Miniature), Obstructive Uropathy
+  > Generating: Chronic Renal Artery Stenosis
+    ✅ Generated Chronic Renal Artery Stenosis
+  > Generating: Chronic Pyelonephritis (Scarred)
+    ✅ Generated Chronic Pyelonephritis (Scarred)
+  > Generating: Renal Hypoplasia (Miniature)
+    ✅ Generated Renal Hypoplasia (Miniature)
+  > Generating: Obstructive Uropathy
+    ✅ Generated Obstructive Uropathy
+  💾 Updated U NILATERAL SMALL SMOOTH KIDNEY in database.
+- B ILATERAL SMALL SMOOTH KIDNEYS: No missing serious alternatives.
+
+Pattern: U NILATERAL LARGE SMOOTH KIDNEY
+Missing: Acute Obstruction
+  > Generating: Acute Obstruction
+    ✅ Generated Acute Obstruction
+  💾 Updated U NILATERAL LARGE SMOOTH KIDNEY in database.
+
+Pattern: B ILATERAL LARGE SMOOTH KIDNEYS
+Missing: Diabetes Mellitus, Amyloidosis, HIV Nephropathy, Lymphoma
+  > Generating: Diabetes Mellitus
+    ✅ Generated Diabetes Mellitus
+  > Generating: Amyloidosis
+    ✅ Generated Amyloidosis
+  > Generating: HIV Nephropathy
+    ✅ Generated HIV Nephropathy
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  💾 Updated B ILATERAL LARGE SMOOTH KIDNEYS in database.
+- R ENAL CALCIFICATION: No missing serious alternatives.
+- RENAL CALCULI: No missing serious alternatives.
+- S IGNS OF URINARY TRACT STONE DISEASE ON CT: No missing serious alternatives.
+- MIMICS OF RENAL COLIC ON UNENHANCED CT UROGRAPHY: No missing serious alternatives.
+
+Pattern: N EPHROCALCINOSIS
+Missing: Hyperparathyroidism, Medullary Sponge Kidney, Renal Tubular Acidosis (Type 1)
+  > Generating: Hyperparathyroidism
+    ✅ Generated Hyperparathyroidism
+  > Generating: Medullary Sponge Kidney
+    ✅ Generated Medullary Sponge Kidney
+  > Generating: Renal Tubular Acidosis (Type 1)
+    ✅ Generated Renal Tubular Acidosis (Type 1)
+  💾 Updated N EPHROCALCINOSIS in database.
+- C ORTICAL DEFECTS IN RADIONUCLIDE RENAL IMAGES: No missing serious alternatives.
+
+Pattern: R ENAL CYSTIC DISEASE
+Missing: Simple Cysts, Acquired Cystic Disease (Dialysis), MCDK
+  > Generating: Simple Cysts
+    ✅ Generated Simple Cysts
+  > Generating: Acquired Cystic Disease (Dialysis)
+    ✅ Generated Acquired Cystic Disease (Dialysis)
+  > Generating: MCDK
+    ✅ Generated MCDK
+  💾 Updated R ENAL CYSTIC DISEASE in database.
+- C T FINDINGS IN RENAL CYSTIC DISEASE: No missing serious alternatives.
+
+Pattern: F AT-CONTAINING RENAL MASS
+Missing: Renal Cell Carcinoma (Rarely), Liposarcoma, Myelolipoma
+  > Generating: Renal Cell Carcinoma (Rarely)
+    ✅ Generated Renal Cell Carcinoma (Rarely)
+  > Generating: Liposarcoma
+    ✅ Generated Liposarcoma
+  > Generating: Myelolipoma
+    ✅ Generated Myelolipoma
+  💾 Updated F AT-CONTAINING RENAL MASS in database.
+- R ENAL NEOPLASMS IN AN ADULT: No missing serious alternatives.
+- C T OF FOCAL HYPODENSE RENAL LESIONS: No missing serious alternatives.
+
+Pattern: R ENAL SINUS MASS
+Missing: TCC, Artery Aneurysm
+  > Generating: TCC
+    ✅ Generated TCC
+  > Generating: Artery Aneurysm
+    ✅ Generated Artery Aneurysm
+  💾 Updated R ENAL SINUS MASS in database.
+- NEOPLASTIC AND PROLIFERATIVE DISORDERS OF THE PERINEPHRIC SPACE: No missing serious alternatives.
+- N EPHROGRAPHIC PATTERNS: No missing serious alternatives.
+
+Pattern: R ENAL PAPILLARY NECROSIS
+Missing: Sickle Cell Disease, TB
+  > Generating: Sickle Cell Disease
+    ✅ Generated Sickle Cell Disease
+  > Generating: TB
+    ✅ Generated TB
+  💾 Updated R ENAL PAPILLARY NECROSIS in database.
+- R ENAL-INDUCED HYPERTENSION: No missing serious alternatives.
+
+Pattern: R ENAL VEIN THROMBOSIS
+Missing: Nephrotic Syndrome (Adult), Dehydration (Neonate), Renal Cell Carcinoma (Tumor Thrombus)
+  > Generating: Nephrotic Syndrome (Adult)
+    ✅ Generated Nephrotic Syndrome (Adult)
+  > Generating: Dehydration (Neonate)
+    ✅ Generated Dehydration (Neonate)
+  > Generating: Renal Cell Carcinoma (Tumor Thrombus)
+    ✅ Generated Renal Cell Carcinoma (Tumor Thrombus)
+  💾 Updated R ENAL VEIN THROMBOSIS in database.
+- N ON-OPACIFICATION OF A CALYX ON CT OR EXCRETORY UROGRAPHY: No missing serious alternatives.
+- F ILLING DEFECT IN THE RENAL COLLECTING SYSTEM OR URETER: No missing serious alternatives.
+- S PONTANEOUS URINARY CONTRAST EXTRAVASATION: No missing serious alternatives.
+- D ILATED CALYX: No missing serious alternatives.
+
+Pattern: D ILATED URETER
+Missing: Distal Calculus, VUR, Ureteric TCC
+  > Generating: Distal Calculus
+    ✅ Generated Distal Calculus
+  > Generating: VUR
+    ✅ Generated VUR
+  > Generating: Ureteric TCC
+    ✅ Generated Ureteric TCC
+  💾 Updated D ILATED URETER in database.
+- S TRICTURE OF THE URETER: No missing serious alternatives.
+- FILLING DEFECT WITHIN THE URETER: No missing serious alternatives.
+- D EVIATED URETERS: No missing serious alternatives.
+
+Pattern: V ESICOURETERIC REFLUX
+Missing: Primary VUR, Secondary (PUV), Neurogenic Bladder
+  > Generating: Primary VUR
+    ✅ Generated Primary VUR
+  > Generating: Secondary (PUV)
+    ✅ Generated Secondary (PUV)
+  > Generating: Neurogenic Bladder
+    ✅ Generated Neurogenic Bladder
+  💾 Updated V ESICOURETERIC REFLUX in database.
+- F ILLING DEFECT IN THE BLADDER: No missing serious alternatives.
+
+Pattern: B LADDER WALL THICKENING
+Missing: Bladder Outflow Obstruction (BPH), Cystitis (Infection), Bladder Carcinoma (TCC)
+  > Generating: Bladder Outflow Obstruction (BPH)
+    ✅ Generated Bladder Outflow Obstruction (BPH)
+  > Generating: Cystitis (Infection)
+    ✅ Generated Cystitis (Infection)
+  > Generating: Bladder Carcinoma (TCC)
+    ✅ Generated Bladder Carcinoma (TCC)
+  💾 Updated B LADDER WALL THICKENING in database.
+- B LADDER CALCIFICATION: No missing serious alternatives.
+- B LADDER FISTULA: No missing serious alternatives.
+- G AS IN THE URINARY SYSTEM: No missing serious alternatives.
+- C ALCIFICATIONS OF THE MALE GENITAL TRACT: No missing serious alternatives.
+- ULTRASOUND OF INTRATESTICULAR ABNORMALITIES: No missing serious alternatives.
+- U LTRASOUND OF EXTRATESTICULAR ABNORMALITIES: No missing serious alternatives.
+
+Pattern: M AMMOGRAPHIC FEATURES OF BREAST LESIONS
+Missing: Malignant (IDC/ILC), Benign (Cyst/Fibroadenoma), Radial Scar
+  > Generating: Malignant (IDC/ILC)
+    ✅ Generated Malignant (IDC/ILC)
+  > Generating: Benign (Cyst/Fibroadenoma)
+    ✅ Generated Benign (Cyst/Fibroadenoma)
+  > Generating: Radial Scar
+    ✅ Generated Radial Scar
+  💾 Updated M AMMOGRAPHIC FEATURES OF BREAST LESIONS in database.
+
+Pattern: C ALCIFICATION
+Missing: Malignant (Pleomorphic), Benign (Secretory/Popcorn), Amorphous
+  > Generating: Malignant (Pleomorphic)
+    ✅ Generated Malignant (Pleomorphic)
+  > Generating: Benign (Secretory/Popcorn)
+    ✅ Generated Benign (Secretory/Popcorn)
+  > Generating: Amorphous
+    ✅ Generated Amorphous
+  💾 Updated C ALCIFICATION in database.
+- DISAPPEARANCE OF CALCIFICATION: No missing serious alternatives.
+- BENIGN LESIONS WITH TYPICAL APPEARANCES: No missing serious alternatives.
+
+Pattern: SINGLE WELL-DEFINED SOFT-TISSUE OPACITY
+Missing: Cyst
+  > Generating: Cyst
+    ✅ Generated Cyst
+  💾 Updated SINGLE WELL-DEFINED SOFT-TISSUE OPACITY in database.
+- MULTIPLE WELL-DEFINED SOFT-TISSUE OPACITIES: No missing serious alternatives.
+- BENIGN CONDITIONS THAT MIMIC MALIGNANCY: No missing serious alternatives.
+- RISK FACTORS FOR BREAST CANCER: No missing serious alternatives.
+
+Pattern: OEDEMATOUS BREAST
+Missing: Inflammatory Breast CA, Mastitis, Lymphatic Obstruction (Axilla), Congestive Heart Failure
+  > Generating: Inflammatory Breast CA
+    ✅ Generated Inflammatory Breast CA
+  > Generating: Mastitis
+    ✅ Generated Mastitis
+  > Generating: Lymphatic Obstruction (Axilla)
+    ✅ Generated Lymphatic Obstruction (Axilla)
+  > Generating: Congestive Heart Failure
+    ✅ Generated Congestive Heart Failure
+  💾 Updated OEDEMATOUS BREAST in database.
+- ULTRASOUND IN BREAST DISEASE: No missing serious alternatives.
+
+Pattern: APPEARANCES AND FEATURES OF FIBROADENOMAS
+Missing: Breast Cyst, Medullary Carcinoma
+  > Generating: Breast Cyst
+    ✅ Generated Breast Cyst
+  > Generating: Medullary Carcinoma
+    ✅ Generated Medullary Carcinoma
+  💾 Updated APPEARANCES AND FEATURES OF FIBROADENOMAS in database.
+
+Pattern: MRI IN BREAST DISEASE
+Missing: Invasive Carcinoma, DCIS, Benign (Fibroadenoma), Post-surgical Change
+  > Generating: Invasive Carcinoma
+    ✅ Generated Invasive Carcinoma
+  > Generating: DCIS
+    ✅ Generated DCIS
+  > Generating: Benign (Fibroadenoma)
+    ✅ Generated Benign (Fibroadenoma)
+  > Generating: Post-surgical Change
+    ✅ Generated Post-surgical Change
+  💾 Updated MRI IN BREAST DISEASE in database.
+- BREAST AUGMENTATION: No missing serious alternatives.
+- C T AND PET CT IN BREAST IMAGING: No missing serious alternatives.
+
+Pattern: ORBITAL MASS LESIONS
+Missing: Orbital Pseudotumor, Cavernous Haemangioma, Optic Nerve Glioma, Lymphoma
+  > Generating: Orbital Pseudotumor
+    ✅ Generated Orbital Pseudotumor
+  > Generating: Cavernous Haemangioma
+    ✅ Generated Cavernous Haemangioma
+  > Generating: Optic Nerve Glioma
+    ✅ Generated Optic Nerve Glioma
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  💾 Updated ORBITAL MASS LESIONS in database.
+
+Pattern: O PTIC NERVE GLIOMA VERSUS OPTIC
+Missing: Optic Nerve Glioma (NF1)
+  > Generating: Optic Nerve Glioma (NF1)
+    ✅ Generated Optic Nerve Glioma (NF1)
+  💾 Updated O PTIC NERVE GLIOMA VERSUS OPTIC in database.
+- ENLARGED ORBIT: No missing serious alternatives.
+- BARE ORBIT: No missing serious alternatives.
+
+Pattern: ENLARGED OPTIC FORAMEN
+Missing: Optic Nerve Glioma (NF1), Optic Nerve Meningioma, Orbital Haemangioma
+  > Generating: Optic Nerve Glioma (NF1)
+    ✅ Generated Optic Nerve Glioma (NF1)
+  > Generating: Optic Nerve Meningioma
+    ✅ Generated Optic Nerve Meningioma
+  > Generating: Orbital Haemangioma
+    ✅ Generated Orbital Haemangioma
+  💾 Updated ENLARGED OPTIC FORAMEN in database.
+
+Pattern: ENLARGED SUPERIOR ORBITAL FISSURE
+Missing: Cavernous Sinus Aneurysm, Meningioma, Pituitary Adenoma, Carotid-Cavernous Fistula
+  > Generating: Cavernous Sinus Aneurysm
+    ✅ Generated Cavernous Sinus Aneurysm
+  > Generating: Meningioma
+    ✅ Generated Meningioma
+  > Generating: Pituitary Adenoma
+    ✅ Generated Pituitary Adenoma
+  > Generating: Carotid-Cavernous Fistula
+    ✅ Generated Carotid-Cavernous Fistula
+  💾 Updated ENLARGED SUPERIOR ORBITAL FISSURE in database.
+- INTRAORBITAL CALCIFICATION: No missing serious alternatives.
+
+Pattern: ORBITAL HYPEROSTOSIS
+Missing: Fibrous Dysplasia, Paget's Disease, Prostate Metastasis
+  > Generating: Fibrous Dysplasia
+    ✅ Generated Fibrous Dysplasia
+  > Generating: Paget's Disease
+    ✅ Generated Paget's Disease
+  > Generating: Prostate Metastasis
+    ✅ Generated Prostate Metastasis
+  💾 Updated ORBITAL HYPEROSTOSIS in database.
+- S MALL OR ABSENT SINUSES: No missing serious alternatives.
+
+Pattern: O PAQUE MAXILLARY ANTRUM
+Missing: Acute Sinusitis, Sinonasal Malignancy
+  > Generating: Acute Sinusitis
+    ✅ Generated Acute Sinusitis
+  > Generating: Sinonasal Malignancy
+    ✅ Generated Sinonasal Malignancy
+  💾 Updated O PAQUE MAXILLARY ANTRUM in database.
+- M ASS IN MAXILLARY ANTRUM: No missing serious alternatives.
+- L OSS OF LAMINA DURA OF TEETH: No missing serious alternatives.
+
+Pattern: N ASOPHARYNGEAL MASS
+Missing: Nasopharyngeal Carcinoma, Lymphoma, Juvenile Angiofibroma
+  > Generating: Nasopharyngeal Carcinoma
+    ✅ Generated Nasopharyngeal Carcinoma
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  > Generating: Juvenile Angiofibroma
+    ✅ Generated Juvenile Angiofibroma
+  💾 Updated N ASOPHARYNGEAL MASS in database.
+
+Pattern: P REVERTEBRAL SOFT-TISSUE MASS IN AN ADULT ON LATERAL CERVICAL X-RAY
+Missing: Retropharyngeal Cellulitis, Vertebral Osteomyelitis, Goitre
+  > Generating: Retropharyngeal Cellulitis
+    ✅ Generated Retropharyngeal Cellulitis
+  > Generating: Vertebral Osteomyelitis
+    ✅ Generated Vertebral Osteomyelitis
+  > Generating: Goitre
+    ✅ Generated Goitre
+  💾 Updated P REVERTEBRAL SOFT-TISSUE MASS IN AN ADULT ON LATERAL CERVICAL X-RAY in database.
+
+Pattern: P HOTOPENIC AREAS IN RADIONUCLIDE THYROID IMAGING
+Missing: Colloid Nodule, Thyroid Carcinoma
+  > Generating: Colloid Nodule
+    ✅ Generated Colloid Nodule
+  > Generating: Thyroid Carcinoma
+    ✅ Generated Thyroid Carcinoma
+  💾 Updated P HOTOPENIC AREAS IN RADIONUCLIDE THYROID IMAGING in database.
+
+Pattern: VENOUS INFARCTS
+Missing: Deep Venous Thrombosis (Internal Cerebral), Arterial Infarct (Mimic)
+  > Generating: Deep Venous Thrombosis (Internal Cerebral)
+    ✅ Generated Deep Venous Thrombosis (Internal Cerebral)
+  > Generating: Arterial Infarct (Mimic)
+    ✅ Generated Arterial Infarct (Mimic)
+  💾 Updated VENOUS INFARCTS in database.
+- I NDICATIONS FOR CT AND MRI IN ACUTE STROKE: No missing serious alternatives.
+
+Pattern: D IFFERENTIATION BETWEEN INFARCT AND TUMOUR
+Missing: Acute Infarct, Cerebral Abscess
+  > Generating: Acute Infarct
+    ✅ Generated Acute Infarct
+  > Generating: Cerebral Abscess
+    ✅ Generated Cerebral Abscess
+  💾 Updated D IFFERENTIATION BETWEEN INFARCT AND TUMOUR in database.
+- APPEARANCES OF BLOOD ON SCANS CT: No missing serious alternatives.
+
+Pattern: S UBARACHNOID HAEMORRHAGE
+Missing: Aneurysmal Rupture (85%), Perimesencephalic Non-aneurysmal, RCVS
+  > Generating: Aneurysmal Rupture (85%)
+    ✅ Generated Aneurysmal Rupture (85%)
+  > Generating: Perimesencephalic Non-aneurysmal
+    ✅ Generated Perimesencephalic Non-aneurysmal
+  > Generating: RCVS
+    ✅ Generated RCVS
+  💾 Updated S UBARACHNOID HAEMORRHAGE in database.
+- INTRACRANIAL ANEURYSMS: No missing serious alternatives.
+- VASCULAR MALFORMATIONS: No missing serious alternatives.
+- C NS INFECTION: No missing serious alternatives.
+- HIV AND THE BRAIN: No missing serious alternatives.
+
+Pattern: CONGENITAL CNS INFECTIONS
+Missing: CMV (Most common), Toxoplasmosis, Rubella, HSV-2
+  > Generating: CMV (Most common)
+    ✅ Generated CMV (Most common)
+  > Generating: Toxoplasmosis
+    ✅ Generated Toxoplasmosis
+  > Generating: Rubella
+    ✅ Generated Rubella
+  > Generating: HSV-2
+    ✅ Generated HSV-2
+  💾 Updated CONGENITAL CNS INFECTIONS in database.
+- HEAD INJURY: No missing serious alternatives.
+
+Pattern: H YDROCEPHALUS
+Missing: Communicating, Non-communicating (Obstructive), Atrophy (Mimic)
+  > Generating: Communicating
+    ✅ Generated Communicating
+  > Generating: Non-communicating (Obstructive)
+    ✅ Generated Non-communicating (Obstructive)
+  > Generating: Atrophy (Mimic)
+    ✅ Generated Atrophy (Mimic)
+  💾 Updated H YDROCEPHALUS in database.
+- PNEUMOCEPHALUS: No missing serious alternatives.
+- CT ATTENUATION OF CEREBRAL MASSES: No missing serious alternatives.
+
+Pattern: D IFFERENTIAL DIAGNOSIS OF A SOLITARY INTRACEREBRAL MASS
+Missing: Abscess
+  > Generating: Abscess
+    ✅ Generated Abscess
+  💾 Updated D IFFERENTIAL DIAGNOSIS OF A SOLITARY INTRACEREBRAL MASS in database.
+
+Pattern: I NTRACRANIAL CALCIFICATION
+Missing: Congenital CMV, Hypoparathyroidism
+  > Generating: Congenital CMV
+    ✅ Generated Congenital CMV
+  > Generating: Hypoparathyroidism
+    ✅ Generated Hypoparathyroidism
+  💾 Updated I NTRACRANIAL CALCIFICATION in database.
+- MENINGEAL ENHANCEMENT ON CT AND MRI: No missing serious alternatives.
+- ENHANCEMENT OF EPENDYMAL AND SUBARACHNOID SPACE ON CT AND MRI: No missing serious alternatives.
+
+Pattern: MULTIPLE RING-ENHANCING LESIONS
+Missing: Cerebral Abscess (URGENT), Glioblastoma (Multifocal)
+  > Generating: Cerebral Abscess (URGENT)
+    ✅ Generated Cerebral Abscess (URGENT)
+  > Generating: Glioblastoma (Multifocal)
+    ✅ Generated Glioblastoma (Multifocal)
+  💾 Updated MULTIPLE RING-ENHANCING LESIONS in database.
+- INHERITED METABOLIC WHITE MATTER DISEASE: No missing serious alternatives.
+- M ULTIPLE SCLEROSIS AND ITS DIFFERENTIAL DIAGNOSIS: No missing serious alternatives.
+- C EREBRAL ATROPHY: No missing serious alternatives.
+- D IFFUSE CEREBELLAR ATROPHY: No missing serious alternatives.
+- INTRACRANIAL MANIFESTATIONS OF WELL-KNOWN NEUROCUTANEOUS DISORDERS: No missing serious alternatives.
+- ENLARGED PITUITARY FOSSA: No missing serious alternatives.
+
+Pattern: J-SHAPED SELLA
+Missing: Mucopolysaccharidosis (Hurler), Normal Variant (5%), Chronic Hydrocephalus
+  > Generating: Mucopolysaccharidosis (Hurler)
+    ✅ Generated Mucopolysaccharidosis (Hurler)
+  > Generating: Normal Variant (5%)
+    ✅ Generated Normal Variant (5%)
+  > Generating: Chronic Hydrocephalus
+    ✅ Generated Chronic Hydrocephalus
+  💾 Updated J-SHAPED SELLA in database.
+
+Pattern: INTRASELLAR MASS
+Missing: Pituitary Adenoma, Craniopharyngioma, Meningioma
+  > Generating: Pituitary Adenoma
+    ✅ Generated Pituitary Adenoma
+  > Generating: Craniopharyngioma
+    ✅ Generated Craniopharyngioma
+  > Generating: Meningioma
+    ✅ Generated Meningioma
+  💾 Updated INTRASELLAR MASS in database.
+- I NFUNDIBULAR MASS: No missing serious alternatives.
+
+Pattern: SUPRASELLAR MASS
+Missing: Meningioma
+  > Generating: Meningioma
+    ✅ Generated Meningioma
+  💾 Updated SUPRASELLAR MASS in database.
+
+Pattern: P INEAL REGION MASS
+Missing: Pineocytoma, Tectal Glioma
+  > Generating: Pineocytoma
+    ✅ Generated Pineocytoma
+  > Generating: Tectal Glioma
+    ✅ Generated Tectal Glioma
+  💾 Updated P INEAL REGION MASS in database.
+
+Pattern: INTRAVENTRICULAR MASS IN ADULTS
+Missing: Ependymoma
+  > Generating: Ependymoma
+    ✅ Generated Ependymoma
+  💾 Updated INTRAVENTRICULAR MASS IN ADULTS in database.
+
+Pattern: C EREBELLOPONTINE ANGLE MASS
+Missing: Vestibular Schwannoma, Meningioma
+  > Generating: Vestibular Schwannoma
+    ✅ Generated Vestibular Schwannoma
+  > Generating: Meningioma
+    ✅ Generated Meningioma
+  💾 Updated C EREBELLOPONTINE ANGLE MASS in database.
+- I NTERNAL AUDITORY CANAL ABNORMALITY: No missing serious alternatives.
+- T EMPORAL BONE MASS: No missing serious alternatives.
+
+Pattern: T EMPORAL BONE SCLEROSIS
+Missing: Paget's Disease, Osteopetrosis, Fibrous Dysplasia
+  > Generating: Paget's Disease
+    ✅ Generated Paget's Disease
+  > Generating: Osteopetrosis
+    ✅ Generated Osteopetrosis
+  > Generating: Fibrous Dysplasia
+    ✅ Generated Fibrous Dysplasia
+  💾 Updated T EMPORAL BONE SCLEROSIS in database.
+- P ULSATILE TINNITUS: No missing serious alternatives.
+- J UGULAR FORAMEN MASS: No missing serious alternatives.
+- F ORAMEN MAGNUM MASS: No missing serious alternatives.
+- DIFFUSE SKULL BASE ABNORMALITY: No missing serious alternatives.
+- SKULL VAULT LUCENCY WITHOUT SCLEROTIC EDGE: No missing serious alternatives.
+- SKULL VAULT LUCENCY WITH SCLEROTIC EDGE: No missing serious alternatives.
+- GENERALIZED INCREASE IN DENSITY OF SKULL VAULT: No missing serious alternatives.
+- LOCALIZED INCREASE IN DENSITY OF SKULL VAULT: No missing serious alternatives.
+- THICKENED SKULL: No missing serious alternatives.
+- THIN SKULL: No missing serious alternatives.
+- BASILAR INVAGINATION: No missing serious alternatives.
+- PLATYBASIA: No missing serious alternatives.
+- DIFFUSION-WEIGHTED IMAGING: No missing serious alternatives.
+
+Pattern: VAGINA
+Missing: Vaginal Rhabdomyosarcoma (Child), Vaginal Carcinoma (Adult), Müllerian Agenesis
+  > Generating: Vaginal Rhabdomyosarcoma (Child)
+    ✅ Generated Vaginal Rhabdomyosarcoma (Child)
+  > Generating: Vaginal Carcinoma (Adult)
+    ✅ Generated Vaginal Carcinoma (Adult)
+  > Generating: Müllerian Agenesis
+    ✅ Generated Müllerian Agenesis
+  💾 Updated VAGINA in database.
+- VULVAL CARCINOMA: No missing serious alternatives.
+
+Pattern: UTERINE CERVIX
+Missing: Cervical Carcinoma (SCC), Nabothian Cyst (Benign), Cervical Polyp, Leiomyoma
+  > Generating: Cervical Carcinoma (SCC)
+    ✅ Generated Cervical Carcinoma (SCC)
+  > Generating: Nabothian Cyst (Benign)
+    ✅ Generated Nabothian Cyst (Benign)
+  > Generating: Cervical Polyp
+    ✅ Generated Cervical Polyp
+  > Generating: Leiomyoma
+    ✅ Generated Leiomyoma
+  💾 Updated UTERINE CERVIX in database.
+
+Pattern: UTERINE MYOMETRIUM
+Missing: Uterine Sarcoma
+  > Generating: Uterine Sarcoma
+    ✅ Generated Uterine Sarcoma
+  💾 Updated UTERINE MYOMETRIUM in database.
+
+Pattern: UTERINE ENDOMETRIUM
+Missing: Endometrial Polyps, Hyperplasia, Tamoxifen-induced
+  > Generating: Endometrial Polyps
+    ✅ Generated Endometrial Polyps
+  > Generating: Hyperplasia
+    ✅ Generated Hyperplasia
+  > Generating: Tamoxifen-induced
+    ✅ Generated Tamoxifen-induced
+  💾 Updated UTERINE ENDOMETRIUM in database.
+
+Pattern: OVARY
+Missing: Dermoid Cyst, Ovarian Serous Cystadenocarcinoma, Endometrioma
+  > Generating: Dermoid Cyst
+    ✅ Generated Dermoid Cyst
+  > Generating: Ovarian Serous Cystadenocarcinoma
+    ✅ Generated Ovarian Serous Cystadenocarcinoma
+  > Generating: Endometrioma
+    ✅ Generated Endometrioma
+  💾 Updated OVARY in database.
+- A DNEXA: No missing serious alternatives.
+- N ORMAL PREGNANCY: No missing serious alternatives.
+- ABNORMAL PREGNANCY: No missing serious alternatives.
+- FETAL GROWTH RESTRICTION: No missing serious alternatives.
+- MULTIPLE PREGNANCY: No missing serious alternatives.
+- ABNORMALITIES OF THE PLACENTA: No missing serious alternatives.
+
+Pattern: GESTATIONAL TROPHOBLASTIC DISEASE
+Missing: Partial Mole
+  > Generating: Partial Mole
+    ✅ Generated Partial Mole
+  💾 Updated GESTATIONAL TROPHOBLASTIC DISEASE in database.
+- EARLY PREGNANCY BLEEDING: No missing serious alternatives.
+
+Pattern: ECTOPIC GESTATION
+Missing: Tubal Pregnancy, Ruptured Ectopic, Corpus Luteum (Mimic), Miscarriage
+  > Generating: Tubal Pregnancy
+    ✅ Generated Tubal Pregnancy
+  > Generating: Ruptured Ectopic
+    ✅ Generated Ruptured Ectopic
+  > Generating: Corpus Luteum (Mimic)
+    ✅ Generated Corpus Luteum (Mimic)
+  > Generating: Miscarriage
+    ✅ Generated Miscarriage
+  💾 Updated ECTOPIC GESTATION in database.
+
+Pattern: RETARDED SKELETAL MATURATION
+Missing: Hypothyroidism, Growth Hormone Deficiency, Chronic Systemic Disease
+  > Generating: Hypothyroidism
+    ✅ Generated Hypothyroidism
+  > Generating: Growth Hormone Deficiency
+    ✅ Generated Growth Hormone Deficiency
+  > Generating: Chronic Systemic Disease
+    ✅ Generated Chronic Systemic Disease
+  💾 Updated RETARDED SKELETAL MATURATION in database.
+
+Pattern: G ENERALIZED ACCELERATED SKELETAL MATURATION
+Missing: Precocious Puberty, Hyperthyroidism, Adrenogenital Syndrome, McCune-Albright
+  > Generating: Precocious Puberty
+    ✅ Generated Precocious Puberty
+  > Generating: Hyperthyroidism
+    ✅ Generated Hyperthyroidism
+  > Generating: Adrenogenital Syndrome
+    ✅ Generated Adrenogenital Syndrome
+  > Generating: McCune-Albright
+    ✅ Generated McCune-Albright
+  💾 Updated G ENERALIZED ACCELERATED SKELETAL MATURATION in database.
+- P REMATURE CLOSURE OF A GROWTH PLATE: No missing serious alternatives.
+
+Pattern: A SYMMETRICAL MATURATION
+Missing: Hyperaemia (Infection/RA), Arteriovenous Malformation, Prior Fracture
+  > Generating: Hyperaemia (Infection/RA)
+    ✅ Generated Hyperaemia (Infection/RA)
+  > Generating: Arteriovenous Malformation
+    ✅ Generated Arteriovenous Malformation
+  > Generating: Prior Fracture
+    ✅ Generated Prior Fracture
+  💾 Updated A SYMMETRICAL MATURATION in database.
+- S KELETAL DYSPLASIAS: No missing serious alternatives.
+- LETHAL NEONATAL DYSPLASIA: No missing serious alternatives.
+
+Pattern: D UMBBELL-SHAPED LONG BONES
+Missing: Mucopolysaccharidosis, Pyle Disease
+  > Generating: Mucopolysaccharidosis
+    ✅ Generated Mucopolysaccharidosis
+  > Generating: Pyle Disease
+    ✅ Generated Pyle Disease
+  💾 Updated D UMBBELL-SHAPED LONG BONES in database.
+- C ONDITIONS EXHIBITING DYSOSTOSIS MULTIPLEX: No missing serious alternatives.
+- GENERALIZED INCREASED BONE DENSITY: No missing serious alternatives.
+- P AEDIATRIC TUMOURS THAT METASTASIZE TO BONE: No missing serious alternatives.
+- S YNDROMES AND BONE DYSPLASIAS WITH MULTIPLE FRACTURES AS A FEATURE: No missing serious alternatives.
+- P SEUDARTHROSIS IN A CHILD: No missing serious alternatives.
+- I RREGULAR OR STIPPLED EPIPHYSES: No missing serious alternatives.
+- S OLITARY RADIOLUCENT METAPHYSEAL BAND: No missing serious alternatives.
+
+Pattern: A LTERNATING RADIOLUCENT AND DENSE METAPHYSEAL BANDS
+Missing: Growth Arrest Lines, Healing Rickets, Heavy Metal Poisoning (Lead), Leukaemia
+  > Generating: Growth Arrest Lines
+    ✅ Generated Growth Arrest Lines
+  > Generating: Healing Rickets
+    ✅ Generated Healing Rickets
+  > Generating: Heavy Metal Poisoning (Lead)
+    ✅ Generated Heavy Metal Poisoning (Lead)
+  > Generating: Leukaemia
+    ✅ Generated Leukaemia
+  💾 Updated A LTERNATING RADIOLUCENT AND DENSE METAPHYSEAL BANDS in database.
+- S OLITARY DENSE METAPHYSEAL BAND: No missing serious alternatives.
+- D ENSE VERTICAL METAPHYSEAL LINES: No missing serious alternatives.
+
+Pattern: F RAYING OF METAPHYSES
+Missing: Rickets, Metaphyseal Dysplasia, Leukaemia (Mimic)
+  > Generating: Rickets
+    ✅ Generated Rickets
+  > Generating: Metaphyseal Dysplasia
+    ✅ Generated Metaphyseal Dysplasia
+  > Generating: Leukaemia (Mimic)
+    ✅ Generated Leukaemia (Mimic)
+  💾 Updated F RAYING OF METAPHYSES in database.
+
+Pattern: C UPPING OF METAPHYSES
+Missing: Rickets, Scurvy, Normal Variant
+  > Generating: Rickets
+    ✅ Generated Rickets
+  > Generating: Scurvy
+    ✅ Generated Scurvy
+  > Generating: Normal Variant
+    ✅ Generated Normal Variant
+  💾 Updated C UPPING OF METAPHYSES in database.
+
+Pattern: E RLENMEYER FLASK DEFORMITY
+Missing: Osteopetrosis, Pyle Disease, Thalassaemia
+  > Generating: Osteopetrosis
+    ✅ Generated Osteopetrosis
+  > Generating: Pyle Disease
+    ✅ Generated Pyle Disease
+  > Generating: Thalassaemia
+    ✅ Generated Thalassaemia
+  💾 Updated E RLENMEYER FLASK DEFORMITY in database.
+- F OCAL RIB LESION (SOLITARY OR MULTIPLE) IN A CHILD: No missing serious alternatives.
+- D IFFERENTIAL DIAGNOSIS OF SKELETAL: No missing serious alternatives.
+- P LATYSPONDYLY IN CHILDHOOD: No missing serious alternatives.
+- A NTERIOR VERTEBRAL BODY BEAKS: No missing serious alternatives.
+- A CUTE UPPER AIRWAY OBSTRUCTION IN A CHILD: No missing serious alternatives.
+- C HRONIC UPPER AIRWAY OBSTRUCTION IN A CHILD: No missing serious alternatives.
+
+Pattern: N EONATAL RESPIRATORY DISTRESS
+Missing: Hyaline Membrane Disease (HMD), TTN, Meconium Aspiration, Congenital Diaphragmatic Hernia
+  > Generating: Hyaline Membrane Disease (HMD)
+    ✅ Generated Hyaline Membrane Disease (HMD)
+  > Generating: TTN
+    ✅ Generated TTN
+  > Generating: Meconium Aspiration
+    ✅ Generated Meconium Aspiration
+  > Generating: Congenital Diaphragmatic Hernia
+    ✅ Generated Congenital Diaphragmatic Hernia
+  💾 Updated N EONATAL RESPIRATORY DISTRESS in database.
+- R ING SHADOWS IN A CHILD: No missing serious alternatives.
+- I NTERSTITIAL LUNG DISEASE UNIQUE TO CHILDHOOD: No missing serious alternatives.
+
+Pattern: THE NORMAL THYMUS
+Missing: Normal Thymus, Thymic Rebound, Thymic Hyperplasia
+  > Generating: Normal Thymus
+    ✅ Generated Normal Thymus
+  > Generating: Thymic Rebound
+    ✅ Generated Thymic Rebound
+  > Generating: Thymic Hyperplasia
+    ✅ Generated Thymic Hyperplasia
+  💾 Updated THE NORMAL THYMUS in database.
+
+Pattern: A NTERIOR MEDIASTINAL MASSES IN CHILDHOOD
+Missing: Lymphoma, Teratoma
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  > Generating: Teratoma
+    ✅ Generated Teratoma
+  💾 Updated A NTERIOR MEDIASTINAL MASSES IN CHILDHOOD in database.
+
+Pattern: M IDDLE MEDIASTINAL MASSES IN CHILDHOOD
+Missing: Lymphadenopathy
+  > Generating: Lymphadenopathy
+    ✅ Generated Lymphadenopathy
+  💾 Updated M IDDLE MEDIASTINAL MASSES IN CHILDHOOD in database.
+
+Pattern: P OSTERIOR MEDIASTINAL MASSES IN CHILDHOOD
+Missing: Neuroblastoma, Enteric Duplication Cyst, Meningocoele
+  > Generating: Neuroblastoma
+    ✅ Generated Neuroblastoma
+  > Generating: Enteric Duplication Cyst
+    ✅ Generated Enteric Duplication Cyst
+  > Generating: Meningocoele
+    ✅ Generated Meningocoele
+  💾 Updated P OSTERIOR MEDIASTINAL MASSES IN CHILDHOOD in database.
+- S OLITARY PULMONARY MASS IN CHILDHOOD: No missing serious alternatives.
+- M ULTIPLE PULMONARY NODULES IN A CHILD: No missing serious alternatives.
+- S ITUS AND CARDIAC MALPOSITIONS: No missing serious alternatives.
+- N EONATAL PULMONARY VENOUS CONGESTION: No missing serious alternatives.
+- N EONATAL CYANOSIS: No missing serious alternatives.
+- CARDIOVASCULAR INVOLVEMENT IN SYNDROMES: No missing serious alternatives.
+
+Pattern: A BDOMINAL MASS IN A CHILD
+Missing: Wilms Tumor, Neuroblastoma, Mesoblastic Nephroma
+  > Generating: Wilms Tumor
+    ✅ Generated Wilms Tumor
+  > Generating: Neuroblastoma
+    ✅ Generated Neuroblastoma
+  > Generating: Mesoblastic Nephroma
+    ✅ Generated Mesoblastic Nephroma
+  💾 Updated A BDOMINAL MASS IN A CHILD in database.
+
+Pattern: INTESTINAL OBSTRUCTION IN A NEONATE
+Missing: Malrotation with Volvulus (URGENT)
+  > Generating: Malrotation with Volvulus (URGENT)
+    ✅ Generated Malrotation with Volvulus (URGENT)
+  💾 Updated INTESTINAL OBSTRUCTION IN A NEONATE in database.
+
+Pattern: I NTRA-ABDOMINAL CALCIFICATIONS IN THE NEWBORN
+Missing: Neuroblastoma, Hepatoblastoma
+  > Generating: Neuroblastoma
+    ✅ Generated Neuroblastoma
+  > Generating: Hepatoblastoma
+    ✅ Generated Hepatoblastoma
+  💾 Updated I NTRA-ABDOMINAL CALCIFICATIONS IN THE NEWBORN in database.
+
+Pattern: A BNORMALITIES OF BOWEL ROTATION
+Missing: Midgut Volvulus (EMERGENCY), Internal Hernia
+  > Generating: Midgut Volvulus (EMERGENCY)
+    ✅ Generated Midgut Volvulus (EMERGENCY)
+  > Generating: Internal Hernia
+    ✅ Generated Internal Hernia
+  💾 Updated A BNORMALITIES OF BOWEL ROTATION in database.
+
+Pattern: A DRENAL MASS IN CHILDHOOD
+Missing: Ganglioneuroblastoma
+  > Generating: Ganglioneuroblastoma
+    ✅ Generated Ganglioneuroblastoma
+  💾 Updated A DRENAL MASS IN CHILDHOOD in database.
+
+Pattern: P RIMARY RENAL NEOPLASMS IN CHILDHOOD
+Missing: Wilms Tumor (85%), Mesoblastic Nephroma (Neonate), Clear Cell Sarcoma, Rhabdoid Tumor
+  > Generating: Wilms Tumor (85%)
+    ✅ Generated Wilms Tumor (85%)
+  > Generating: Mesoblastic Nephroma (Neonate)
+    ✅ Generated Mesoblastic Nephroma (Neonate)
+  > Generating: Clear Cell Sarcoma
+    ✅ Generated Clear Cell Sarcoma
+  > Generating: Rhabdoid Tumor
+    ✅ Generated Rhabdoid Tumor
+  💾 Updated P RIMARY RENAL NEOPLASMS IN CHILDHOOD in database.
+
+Pattern: H YDRONEPHROSIS IN A CHILD
+Missing: PUJ Obstruction, VUR
+  > Generating: PUJ Obstruction
+    ✅ Generated PUJ Obstruction
+  > Generating: VUR
+    ✅ Generated VUR
+  💾 Updated H YDRONEPHROSIS IN A CHILD in database.
+
+Pattern: R ENAL MASS IN THE NEWBORN AND YOUNG INFANT
+Missing: Hydronephrosis (Most common), MCDK, Mesoblastic Nephroma, Wilms (Older)
+  > Generating: Hydronephrosis (Most common)
+    ✅ Generated Hydronephrosis (Most common)
+  > Generating: MCDK
+    ✅ Generated MCDK
+  > Generating: Mesoblastic Nephroma
+    ✅ Generated Mesoblastic Nephroma
+  > Generating: Wilms (Older)
+    ✅ Generated Wilms (Older)
+  💾 Updated R ENAL MASS IN THE NEWBORN AND YOUNG INFANT in database.
+
+Pattern: B LADDER OUTFLOW OBSTRUCTION IN A CHILD
+Missing: Ureterocoele (Ectopic), Neurogenic Bladder
+  > Generating: Ureterocoele (Ectopic)
+    ✅ Generated Ureterocoele (Ectopic)
+  > Generating: Neurogenic Bladder
+    ✅ Generated Neurogenic Bladder
+  💾 Updated B LADDER OUTFLOW OBSTRUCTION IN A CHILD in database.
+- VESICOURETERIC REFLUX: No missing serious alternatives.
+- G AS IN THE PORTAL VEINS: No missing serious alternatives.
+
+Pattern: H EPATIC TUMOURS IN CHILDREN
+Missing: Infantile Haemangioma, Metastatic Neuroblastoma
+  > Generating: Infantile Haemangioma
+    ✅ Generated Infantile Haemangioma
+  > Generating: Metastatic Neuroblastoma
+    ✅ Generated Metastatic Neuroblastoma
+  💾 Updated H EPATIC TUMOURS IN CHILDREN in database.
+- FETAL OR NEONATAL LIVER CALCIFICATION: No missing serious alternatives.
+- JAUNDICE IN INFANCY: No missing serious alternatives.
+- DIFFERENTIAL DIAGNOSIS OF: No missing serious alternatives.
+- P REVERTEBRAL SOFT-TISSUE MASS ON THE LATERAL CERVICAL X-RAY: No missing serious alternatives.
+
+Pattern: N ECK MASSES IN INFANTS AND CHILDREN
+Missing: Branchial Cleft Cyst, Cystic Hygroma, Lymphadenopathy
+  > Generating: Branchial Cleft Cyst
+    ✅ Generated Branchial Cleft Cyst
+  > Generating: Cystic Hygroma
+    ✅ Generated Cystic Hygroma
+  > Generating: Lymphadenopathy
+    ✅ Generated Lymphadenopathy
+  💾 Updated N ECK MASSES IN INFANTS AND CHILDREN in database.
+- CAUSES OF STROKE IN CHILDREN AND YOUNG ADULTS: No missing serious alternatives.
+
+Pattern: LARGE HEAD IN INFANCY
+Missing: Megaencephaly, Chronic Subdural Haematoma
+  > Generating: Megaencephaly
+    ✅ Generated Megaencephaly
+  > Generating: Chronic Subdural Haematoma
+    ✅ Generated Chronic Subdural Haematoma
+  💾 Updated LARGE HEAD IN INFANCY in database.
+- WIDE CRANIAL SUTURES: No missing serious alternatives.
+
+Pattern: H YPERECHOIC LESIONS IN THE BASAL GANGLIA ON CRANIAL ULTRASOUND OF NEONATES AND INFANTS
+Missing: TORCH Infections
+  > Generating: TORCH Infections
+    ✅ Generated TORCH Infections
+  💾 Updated H YPERECHOIC LESIONS IN THE BASAL GANGLIA ON CRANIAL ULTRASOUND OF NEONATES AND INFANTS in database.
+
+Pattern: M ULTIPLE WORMIAN BONES
+Missing: Osteogenesis Imperfecta, Hypothyroidism
+  > Generating: Osteogenesis Imperfecta
+    ✅ Generated Osteogenesis Imperfecta
+  > Generating: Hypothyroidism
+    ✅ Generated Hypothyroidism
+  💾 Updated M ULTIPLE WORMIAN BONES in database.
+
+Pattern: C RANIOSYNOSTOSIS
+Missing: Sagittal (Scaphocephaly), Coronal (Brachycephaly), Metopic (Trigonocephaly)
+  > Generating: Sagittal (Scaphocephaly)
+    ✅ Generated Sagittal (Scaphocephaly)
+  > Generating: Coronal (Brachycephaly)
+    ✅ Generated Coronal (Brachycephaly)
+  > Generating: Metopic (Trigonocephaly)
+    ✅ Generated Metopic (Trigonocephaly)
+  💾 Updated C RANIOSYNOSTOSIS in database.
+- C YSTIC LESIONS ON CRANIAL ULTRASOUND IN NEONATES AND INFANTS: No missing serious alternatives.
+- DISORDERS OF NEURONAL MIGRATION: No missing serious alternatives.
+- S UPRATENTORIAL TUMOURS IN CHILDHOOD: No missing serious alternatives.
+- I NFRATENTORIAL TUMOURS IN CHILDHOOD: No missing serious alternatives.
+- I NTRAVENTRICULAR MASS IN CHILDREN: No missing serious alternatives.
+
+Pattern: JUGULAR FORAMEN MASSES
+Missing: Glomus Jugulare, Schwannoma, Meningioma, Asymmetric Jugular Bulb (Mimic)
+  > Generating: Glomus Jugulare
+    ✅ Generated Glomus Jugulare
+  > Generating: Schwannoma
+    ✅ Generated Schwannoma
+  > Generating: Meningioma
+    ✅ Generated Meningioma
+  > Generating: Asymmetric Jugular Bulb (Mimic)
+    ✅ Generated Asymmetric Jugular Bulb (Mimic)
+  💾 Updated JUGULAR FORAMEN MASSES in database.
+
+Pattern: ‘MOTH-EATEN BONE’ IN AN ADULT
+Missing: Osteomyelitis, Metastasis, Lymphoma
+  > Generating: Osteomyelitis
+    ✅ Generated Osteomyelitis
+  > Generating: Metastasis
+    ✅ Generated Metastasis
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  💾 Updated ‘MOTH-EATEN BONE’ IN AN ADULT in database.
+
+Pattern: URETERIC FILLING DEFECTS
+Missing: Calculus (Non-opaque)
+  > Generating: Calculus (Non-opaque)
+    ✅ Generated Calculus (Non-opaque)
+  💾 Updated URETERIC FILLING DEFECTS in database.
+- UTERUS: No missing serious alternatives.
+
+Pattern: S YNDROMES AND BONE DYSPLASIAS WITH MULTIPLE FRACTURES
+Missing: NAI, Osteogenesis Imperfecta, Rickets, Hypophosphatasia
+  > Generating: NAI
+    ✅ Generated NAI
+  > Generating: Osteogenesis Imperfecta
+    ✅ Generated Osteogenesis Imperfecta
+  > Generating: Rickets
+    ✅ Generated Rickets
+  > Generating: Hypophosphatasia
+    ✅ Generated Hypophosphatasia
+  💾 Updated S YNDROMES AND BONE DYSPLASIAS WITH MULTIPLE FRACTURES in database.
+
+Pattern: M ULTIPLE RING-ENHANCING LESIONS
+Missing: Abscesses, Toxoplasmosis, Multifocal GBM
+  > Generating: Abscesses
+    ✅ Generated Abscesses
+  > Generating: Toxoplasmosis
+    ✅ Generated Toxoplasmosis
+  > Generating: Multifocal GBM
+    ✅ Generated Multifocal GBM
+  💾 Updated M ULTIPLE RING-ENHANCING LESIONS in database.
+
+Pattern: SOLITARY EXPANSILE BONE LESION
+Missing: Metastasis (RCC/Thyroid)
+  > Generating: Metastasis (RCC/Thyroid)
+    ✅ Generated Metastasis (RCC/Thyroid)
+  💾 Updated SOLITARY EXPANSILE BONE LESION in database.
+
+Pattern: OESOPHAGEAL NARROWING
+Missing: Achalasia, Oesophageal Carcinoma, Peptic Stricture, Pharyngeal Pouch
+  > Generating: Achalasia
+    ✅ Generated Achalasia
+  > Generating: Oesophageal Carcinoma
+    ✅ Generated Oesophageal Carcinoma
+  > Generating: Peptic Stricture
+    ✅ Generated Peptic Stricture
+  > Generating: Pharyngeal Pouch
+    ✅ Generated Pharyngeal Pouch
+  💾 Updated OESOPHAGEAL NARROWING in database.
+
+Pattern: BLADDER FILLING DEFECTS
+Missing: Bladder Carcinoma (TCC), Calculus, Prostate Enlargement
+  > Generating: Bladder Carcinoma (TCC)
+    ✅ Generated Bladder Carcinoma (TCC)
+  > Generating: Calculus
+    ✅ Generated Calculus
+  > Generating: Prostate Enlargement
+    ✅ Generated Prostate Enlargement
+  💾 Updated BLADDER FILLING DEFECTS in database.
+
+Pattern: SOLITARY RING-ENHANCING LESION
+Missing: Abscess (URGENT), Glioblastoma, Solitary Metastasis
+  > Generating: Abscess (URGENT)
+    ✅ Generated Abscess (URGENT)
+  > Generating: Glioblastoma
+    ✅ Generated Glioblastoma
+  > Generating: Solitary Metastasis
+    ✅ Generated Solitary Metastasis
+  💾 Updated SOLITARY RING-ENHANCING LESION in database.
+
+Pattern: H YPERLUCENT HEMITHORAX
+Missing: Pneumothorax (Visceral Line), Swyer-James (Small Hilum), Mastectomy (Absent fold), Large Bulla
+  > Generating: Pneumothorax (Visceral Line)
+    ✅ Generated Pneumothorax (Visceral Line)
+  > Generating: Swyer-James (Small Hilum)
+    ✅ Generated Swyer-James (Small Hilum)
+  > Generating: Mastectomy (Absent fold)
+    ✅ Generated Mastectomy (Absent fold)
+  > Generating: Large Bulla
+    ✅ Generated Large Bulla
+  💾 Updated H YPERLUCENT HEMITHORAX in database.
+
+Pattern: VERTEBRAL BODY ENLARGEMENT
+Missing: Paget's Disease, Haemangioma
+  > Generating: Paget's Disease
+    ✅ Generated Paget's Disease
+  > Generating: Haemangioma
+    ✅ Generated Haemangioma
+  💾 Updated VERTEBRAL BODY ENLARGEMENT in database.
+
+Pattern: G ASTRIC ULCERATION
+Missing: Malignant Gastric Ulcer (Adeno), Leiomyoma (Degenerating)
+  > Generating: Malignant Gastric Ulcer (Adeno)
+    ✅ Generated Malignant Gastric Ulcer (Adeno)
+  > Generating: Leiomyoma (Degenerating)
+    ✅ Generated Leiomyoma (Degenerating)
+  💾 Updated G ASTRIC ULCERATION in database.
+
+Pattern: PANCREATIC MASS
+Missing: Neuroendocrine Tumor (NET), Solid Pseudopapillary Neoplasm
+  > Generating: Neuroendocrine Tumor (NET)
+    ✅ Generated Neuroendocrine Tumor (NET)
+  > Generating: Solid Pseudopapillary Neoplasm
+    ✅ Generated Solid Pseudopapillary Neoplasm
+  💾 Updated PANCREATIC MASS in database.
+
+Pattern: STELLATE BREAST LESION
+Missing: Radial Scar
+  > Generating: Radial Scar
+    ✅ Generated Radial Scar
+  💾 Updated STELLATE BREAST LESION in database.
+
+Pattern: EXOPHTHALMOS
+Missing: Thyroid Orbitopathy, Cavernous Haemangioma, Carotid-Cavernous Fistula
+  > Generating: Thyroid Orbitopathy
+    ✅ Generated Thyroid Orbitopathy
+  > Generating: Cavernous Haemangioma
+    ✅ Generated Cavernous Haemangioma
+  > Generating: Carotid-Cavernous Fistula
+    ✅ Generated Carotid-Cavernous Fistula
+  💾 Updated EXOPHTHALMOS in database.
+
+Pattern: DESTRUCTION OF THE MAXILLARY SINUS WALLS
+Missing: Invasive Fungal Sinusitis, Wegener's (GPA), Esthesioneuroblastoma
+  > Generating: Invasive Fungal Sinusitis
+    ✅ Generated Invasive Fungal Sinusitis
+  > Generating: Wegener's (GPA)
+    ✗ Error generating Wegener's (GPA): Expected ',' or '}' after property value in JSON at position 705 (line 6 column 81)
+  > Generating: Esthesioneuroblastoma
+    ✅ Generated Esthesioneuroblastoma
+  💾 Updated DESTRUCTION OF THE MAXILLARY SINUS WALLS in database.
+
+Pattern: B ILATERAL ELEVATED HEMIDIAPHRAGMS
+Missing: Poor Inspiratory Effort, Obesity, Pregnancy, Fibrosis
+  > Generating: Poor Inspiratory Effort
+    ✅ Generated Poor Inspiratory Effort
+  > Generating: Obesity
+    ✅ Generated Obesity
+  > Generating: Pregnancy
+    ✅ Generated Pregnancy
+  > Generating: Fibrosis
+    ✅ Generated Fibrosis
+  💾 Updated B ILATERAL ELEVATED HEMIDIAPHRAGMS in database.
+
+Pattern: G ASTRIC OUTLET OBSTRUCTION
+Missing: Peptic Ulcer Disease (Stricture), Antral Carcinoma
+  > Generating: Peptic Ulcer Disease (Stricture)
+    ✅ Generated Peptic Ulcer Disease (Stricture)
+  > Generating: Antral Carcinoma
+    ✅ Generated Antral Carcinoma
+  💾 Updated G ASTRIC OUTLET OBSTRUCTION in database.
+
+Pattern: P ANCREATIC DUCTAL DILATATION
+Missing: Pancreatic Adenocarcinoma, IPMN, Ampullary Carcinoma
+  > Generating: Pancreatic Adenocarcinoma
+    ✅ Generated Pancreatic Adenocarcinoma
+  > Generating: IPMN
+    ✅ Generated IPMN
+  > Generating: Ampullary Carcinoma
+    ✅ Generated Ampullary Carcinoma
+  💾 Updated P ANCREATIC DUCTAL DILATATION in database.
+
+Pattern: BLADDER WALL CALCIFICATION
+Missing: Schistosomiasis (Bilharzia), Bladder Carcinoma (SCC), Cytoxan Cystitis
+  > Generating: Schistosomiasis (Bilharzia)
+    ✅ Generated Schistosomiasis (Bilharzia)
+  > Generating: Bladder Carcinoma (SCC)
+    ✅ Generated Bladder Carcinoma (SCC)
+  > Generating: Cytoxan Cystitis
+    ✅ Generated Cytoxan Cystitis
+  💾 Updated BLADDER WALL CALCIFICATION in database.
+
+Pattern: CALCIFICATION IN THE POSTERIOR FOSSA
+Missing: Ependymoma, Medulloblastoma (Rarely), Oligodendroglioma, Arteriovenous Malformation (AVM)
+  > Generating: Ependymoma
+    ✅ Generated Ependymoma
+  > Generating: Medulloblastoma (Rarely)
+    ✅ Generated Medulloblastoma (Rarely)
+  > Generating: Oligodendroglioma
+    ✅ Generated Oligodendroglioma
+  > Generating: Arteriovenous Malformation (AVM)
+    ✅ Generated Arteriovenous Malformation (AVM)
+  💾 Updated CALCIFICATION IN THE POSTERIOR FOSSA in database.
+
+Pattern: O STEOPENIA IN CHILDHOOD
+Missing: Leukaemia, Rickets, Juvenile Osteoporosis, Hyperparathyroidism
+  > Generating: Leukaemia
+    ✅ Generated Leukaemia
+  > Generating: Rickets
+    ✅ Generated Rickets
+  > Generating: Juvenile Osteoporosis
+    ✅ Generated Juvenile Osteoporosis
+  > Generating: Hyperparathyroidism
+    ✅ Generated Hyperparathyroidism
+  💾 Updated O STEOPENIA IN CHILDHOOD in database.
+
+Pattern: TESTICULAR MASS IN a CHILD
+Missing: Teratoma, Testicular Torsion (Mimic), Epididymo-orchitis
+  > Generating: Teratoma
+    ✅ Generated Teratoma
+  > Generating: Testicular Torsion (Mimic)
+    ✅ Generated Testicular Torsion (Mimic)
+  > Generating: Epididymo-orchitis
+    ✅ Generated Epididymo-orchitis
+  💾 Updated TESTICULAR MASS IN a CHILD in database.
+
+Pattern: SKIN THICKENING (Non-inflammatory)
+Missing: Lymphatic Obstruction, Post-Radiation, Anasarca
+  > Generating: Lymphatic Obstruction
+    ✅ Generated Lymphatic Obstruction
+  > Generating: Post-Radiation
+    ✅ Generated Post-Radiation
+  > Generating: Anasarca
+    ✅ Generated Anasarca
+  💾 Updated SKIN THICKENING (Non-inflammatory) in database.
+
+Pattern: ORBITAL CALCIFICATION
+Missing: Retinoblastoma (Child)
+  > Generating: Retinoblastoma (Child)
+    ✅ Generated Retinoblastoma (Child)
+  💾 Updated ORBITAL CALCIFICATION in database.
+
+Pattern: EXPANSILE LESION OF THE MAXILLARY SINUS
+Missing: Mucocele, Antrochoanal Polyp
+  > Generating: Mucocele
+    ✅ Generated Mucocele
+  > Generating: Antrochoanal Polyp
+    ✅ Generated Antrochoanal Polyp
+  💾 Updated EXPANSILE LESION OF THE MAXILLARY SINUS in database.
+
+Pattern: SYNDROMES AND BONE DYSPLASIAS ASSOCIATED WITH SHORT STATURE
+Missing: Hypochondroplasia, OI Type II
+  > Generating: Hypochondroplasia
+    ✅ Generated Hypochondroplasia
+  > Generating: OI Type II
+    ✅ Generated OI Type II
+  💾 Updated SYNDROMES AND BONE DYSPLASIAS ASSOCIATED WITH SHORT STATURE in database.
+
+Pattern: S ACRO-ILIAC JOINT ANKYLOSIS
+Missing: Enteropathic Arthritis, Prior Infection
+  > Generating: Enteropathic Arthritis
+    ✅ Generated Enteropathic Arthritis
+  > Generating: Prior Infection
+    ✅ Generated Prior Infection
+  💾 Updated S ACRO-ILIAC JOINT ANKYLOSIS in database.
+
+Pattern: G ASTRIC FOLDS
+Missing: Zollinger-Ellison Syndrome, Gastritis
+  > Generating: Zollinger-Ellison Syndrome
+    ✅ Generated Zollinger-Ellison Syndrome
+  > Generating: Gastritis
+    ✅ Generated Gastritis
+  💾 Updated G ASTRIC FOLDS in database.
+
+Pattern: O STEOSCLEROSIS IN CHILDHOOD
+Missing: Osteopetrosis, Renal Osteodystrophy, Heavy Metal (Lead)
+  > Generating: Osteopetrosis
+    ✅ Generated Osteopetrosis
+  > Generating: Renal Osteodystrophy
+    ✅ Generated Renal Osteodystrophy
+  > Generating: Heavy Metal (Lead)
+    ✅ Generated Heavy Metal (Lead)
+  💾 Updated O STEOSCLEROSIS IN CHILDHOOD in database.
+
+Pattern: O VARIAN MASS IN a CHILD
+Missing: Mature Teratoma (Dermoid), Ovarian Torsion
+  > Generating: Mature Teratoma (Dermoid)
+    ✅ Generated Mature Teratoma (Dermoid)
+  > Generating: Ovarian Torsion
+    ✅ Generated Ovarian Torsion
+  💾 Updated O VARIAN MASS IN a CHILD in database.
+
+Pattern: O PAQUE SPHENOID SINUS
+Missing: Mucocele, Sphenoid Inverting Papilloma, Meningioma (Mimic)
+  > Generating: Mucocele
+    ✅ Generated Mucocele
+  > Generating: Sphenoid Inverting Papilloma
+    ✅ Generated Sphenoid Inverting Papilloma
+  > Generating: Meningioma (Mimic)
+    ✅ Generated Meningioma (Mimic)
+  💾 Updated O PAQUE SPHENOID SINUS in database.
+
+Pattern: L IVER ENLARGEMENT
+Missing: Congestive Heart Failure, Cirrhosis (Early), Fatty Liver, Metastases, Lymphoma
+  > Generating: Congestive Heart Failure
+    ✅ Generated Congestive Heart Failure
+  > Generating: Cirrhosis (Early)
+    ✅ Generated Cirrhosis (Early)
+  > Generating: Fatty Liver
+    ✅ Generated Fatty Liver
+  > Generating: Metastases
+    ✅ Generated Metastases
+  > Generating: Lymphoma
+    ✅ Generated Lymphoma
+  💾 Updated L IVER ENLARGEMENT in database.
+
+Pattern: SYNDROMES AND BONE DYSPLASIAS ASSOCIATED WITH BOWING OF LONG BONES
+Missing: Paget's Disease, Fibrous Dysplasia, NF1 (Tibia), Osteogenesis Imperfecta
+  > Generating: Paget's Disease
+    ✅ Generated Paget's Disease
+  > Generating: Fibrous Dysplasia
+    ✅ Generated Fibrous Dysplasia
+  > Generating: NF1 (Tibia)
+    ✅ Generated NF1 (Tibia)
+  > Generating: Osteogenesis Imperfecta
+    ✅ Generated Osteogenesis Imperfecta
+  💾 Updated SYNDROMES AND BONE DYSPLASIAS ASSOCIATED WITH BOWING OF LONG BONES in database.
+
+Pattern: T EMPORAL BONE FRACTURES
+Missing: Longitudinal Fracture (80%), Transverse Fracture (20%)
+  > Generating: Longitudinal Fracture (80%)
+    ✅ Generated Longitudinal Fracture (80%)
+  > Generating: Transverse Fracture (20%)
+    ✅ Generated Transverse Fracture (20%)
+  💾 Updated T EMPORAL BONE FRACTURES in database.
+
+Pattern: CHOL ESTEATOMA
+Missing: Glomus Tympanicum (Mimic)
+  > Generating: Glomus Tympanicum (Mimic)
+    ✅ Generated Glomus Tympanicum (Mimic)
+  💾 Updated CHOL ESTEATOMA in database.
+
+Pattern: INTERSTITIAL LUNG DISEASE IN AN INFANT
+Missing: Neuroendocrine Cell Hyperplasia (NEHI), Surfactant Protein Deficiency
+  > Generating: Neuroendocrine Cell Hyperplasia (NEHI)
+    ✅ Generated Neuroendocrine Cell Hyperplasia (NEHI)
+  > Generating: Surfactant Protein Deficiency
+    ✅ Generated Surfactant Protein Deficiency
+  💾 Updated INTERSTITIAL LUNG DISEASE IN AN INFANT in database.
+
+Pattern: C OMMUNICATING HYDROCEPHALUS
+Missing: Post-meningitic, Post-haemorrhagic (SAH)
+  > Generating: Post-meningitic
+    ✅ Generated Post-meningitic
+  > Generating: Post-haemorrhagic (SAH)
+    ✅ Generated Post-haemorrhagic (SAH)
+  💾 Updated C OMMUNICATING HYDROCEPHALUS in database.
+
+Pattern: LOCALIZED OSTEOSCLEROSIS
+Missing: Bone Island (Stable), Sclerotic Metastasis, Primary Bone Sarcoma
+  > Generating: Bone Island (Stable)
+    ✅ Generated Bone Island (Stable)
+  > Generating: Sclerotic Metastasis
+    ✅ Generated Sclerotic Metastasis
+  > Generating: Primary Bone Sarcoma
+    ✅ Generated Primary Bone Sarcoma
+  💾 Updated LOCALIZED OSTEOSCLEROSIS in database.
+
+Pattern: DESTRUCTION OF THE ORBITAL WALLS
+Missing: Orbital Malignancy (SCC/Lacrimal), Invasive Sinusitis, Metastasis (Neuroblastoma in child)
+  > Generating: Orbital Malignancy (SCC/Lacrimal)
+    ✅ Generated Orbital Malignancy (SCC/Lacrimal)
+  > Generating: Invasive Sinusitis
+    ✅ Generated Invasive Sinusitis
+  > Generating: Metastasis (Neuroblastoma in child)
+    ✅ Generated Metastasis (Neuroblastoma in child)
+  💾 Updated DESTRUCTION OF THE ORBITAL WALLS in database.
+
+Pattern: L ARYNGEAL MASS
+Missing: Laryngeal Carcinoma (SCC), Vocal Cord Paralysis (Mimic)
+  > Generating: Laryngeal Carcinoma (SCC)
+    ✅ Generated Laryngeal Carcinoma (SCC)
+  > Generating: Vocal Cord Paralysis (Mimic)
+    ✅ Generated Vocal Cord Paralysis (Mimic)
+  💾 Updated L ARYNGEAL MASS in database.
+
+Pattern: GENERALIZED PERIOSTEAL REACTION IN AN ADULT
+Missing: HPOA, Venous Stasis, Vascular Insufficiency
+  > Generating: HPOA
+    ✅ Generated HPOA
+  > Generating: Venous Stasis
+    ✅ Generated Venous Stasis
+  > Generating: Vascular Insufficiency
+    ✅ Generated Vascular Insufficiency
+  💾 Updated GENERALIZED PERIOSTEAL REACTION IN AN ADULT in database.
+
+Pattern: GENERALIZED PERIOSTEAL REACTION IN a CHILD
+Missing: Caffey Disease, Physiological (Normal), Leukaemia, NAI
+  > Generating: Caffey Disease
+    ✅ Generated Caffey Disease
+  > Generating: Physiological (Normal)
+    ✅ Generated Physiological (Normal)
+  > Generating: Leukaemia
+    ✅ Generated Leukaemia
+  > Generating: NAI
+    ✅ Generated NAI
+  💾 Updated GENERALIZED PERIOSTEAL REACTION IN a CHILD in database.
+
+Pattern: C ROSS-SECTIONAL IMAGING SIGNS OF DIVERTICULITIS
+Missing: Colonic Adenocarcinoma (Mimic)
+  > Generating: Colonic Adenocarcinoma (Mimic)
+    ✅ Generated Colonic Adenocarcinoma (Mimic)
+  💾 Updated C ROSS-SECTIONAL IMAGING SIGNS OF DIVERTICULITIS in database.
+
+Pattern: MASS IN THE REGION OF THE FORAMEN MAGNUM
+Missing: Meningioma, Schwannoma, Chordoma, Chiari Malformation
+  > Generating: Meningioma
+    ✅ Generated Meningioma
+  > Generating: Schwannoma
+    ✅ Generated Schwannoma
+  > Generating: Chordoma
+    ✅ Generated Chordoma
+  > Generating: Chiari Malformation
+    ✅ Generated Chiari Malformation
+  💾 Updated MASS IN THE REGION OF THE FORAMEN MAGNUM in database.
+
+Pattern: NIPPLE DISCHARGE
+Missing: Duct Papilloma (Most common), Ductal Carcinoma in Situ (DCIS)
+  > Generating: Duct Papilloma (Most common)
+    ✅ Generated Duct Papilloma (Most common)
+  > Generating: Ductal Carcinoma in Situ (DCIS)
+    ✅ Generated Ductal Carcinoma in Situ (DCIS)
+  💾 Updated NIPPLE DISCHARGE in database.
+
+Pattern: PELVIC MASS IN a FEMALE
+Missing: Leiomyoma (Uterine), Ovarian Neoplasm, Endometrioma, Dermoid
+  > Generating: Leiomyoma (Uterine)
+    ✅ Generated Leiomyoma (Uterine)
+  > Generating: Ovarian Neoplasm
+    ✅ Generated Ovarian Neoplasm
+  > Generating: Endometrioma
+    ✅ Generated Endometrioma
+  > Generating: Dermoid
+    ✅ Generated Dermoid
+  💾 Updated PELVIC MASS IN a FEMALE in database.
+
+Pattern: S ALIVARY GLAND MASS
+Missing: Pleomorphic Adenoma, Warthin Tumor, Sjögren's
+  > Generating: Pleomorphic Adenoma
+    ✅ Generated Pleomorphic Adenoma
+  > Generating: Warthin Tumor
+    ✅ Generated Warthin Tumor
+  > Generating: Sjögren's
+    ✅ Generated Sjögren's
+  💾 Updated S ALIVARY GLAND MASS in database.
+
+Pattern: P OLYARTHRITIS
+Missing: Rheumatoid Arthritis, Osteoarthritis, Psoriatic Arthritis, CPPD
+  > Generating: Rheumatoid Arthritis
+    ✅ Generated Rheumatoid Arthritis
+  > Generating: Osteoarthritis
+    ✅ Generated Osteoarthritis
+  > Generating: Psoriatic Arthritis
+    ✅ Generated Psoriatic Arthritis
+  > Generating: CPPD
+    ✅ Generated CPPD
+  💾 Updated P OLYARTHRITIS in database.
+
+Pattern: P LEURAL NODULES
+Missing: Splenosis (Mimic), Focal Pleural Plaque
+  > Generating: Splenosis (Mimic)
+    ✅ Generated Splenosis (Mimic)
+  > Generating: Focal Pleural Plaque
+    ✅ Generated Focal Pleural Plaque
+  💾 Updated P LEURAL NODULES in database.
+
+Pattern: OESOPHAGEAL FILLING DEFECTS
+Missing: Varices, Leiomyoma, Impacted Foreign Body
+  > Generating: Varices
+    ✅ Generated Varices
+  > Generating: Leiomyoma
+    ✅ Generated Leiomyoma
+  > Generating: Impacted Foreign Body
+    ✅ Generated Impacted Foreign Body
+  💾 Updated OESOPHAGEAL FILLING DEFECTS in database.
+
+Pattern: R ENAL CORTICAL CALCIFICATION
+Missing: TRAM-TRACK Calcification
+  > Generating: TRAM-TRACK Calcification
+    ✅ Generated TRAM-TRACK Calcification
+  💾 Updated R ENAL CORTICAL CALCIFICATION in database.
+
+Pattern: MASS IN THE CEREBELLAR HEMISPHERE
+Missing: Metastasis, Medulloblastoma (Lateral)
+  > Generating: Metastasis
+    ✅ Generated Metastasis
+  > Generating: Medulloblastoma (Lateral)
+    ✅ Generated Medulloblastoma (Lateral)
+  💾 Updated MASS IN THE CEREBELLAR HEMISPHERE in database.
+
+Pattern: PELVIC CALCIFICATION IN a FEMALE
+Missing: Phleboliths (Normal), Leiomyoma (Fibroid), Dermoid (Teeth), Ovarian Serous CA
+  > Generating: Phleboliths (Normal)
+    ✅ Generated Phleboliths (Normal)
+  > Generating: Leiomyoma (Fibroid)
+    ✅ Generated Leiomyoma (Fibroid)
+  > Generating: Dermoid (Teeth)
+    ✅ Generated Dermoid (Teeth)
+  > Generating: Ovarian Serous CA
+    ✅ Generated Ovarian Serous CA
+  💾 Updated PELVIC CALCIFICATION IN a FEMALE in database.
+
+Pattern: O PAQUE PARANASAL SINUSES
+Missing: Antrochoanal Polyp, Sinonasal Carcinoma
+  > Generating: Antrochoanal Polyp
+    ✅ Generated Antrochoanal Polyp
+  > Generating: Sinonasal Carcinoma
+    ✅ Generated Sinonasal Carcinoma
+  💾 Updated O PAQUE PARANASAL SINUSES in database.
+
+Pattern: LOCALIZED PERIOSTEAL REACTION
+Missing: Stress Fracture, Osteomyelitis, Healing Fracture
+  > Generating: Stress Fracture
+    ✅ Generated Stress Fracture
+  > Generating: Osteomyelitis
+    ✅ Generated Osteomyelitis
+  > Generating: Healing Fracture
+    ✅ Generated Healing Fracture
+  💾 Updated LOCALIZED PERIOSTEAL REACTION in database.
+
+Pattern: G ALLBLADDER CALCULI
+Missing: Cholesterol Stones (80%), Pigment Stones, Porcelain GB (Mimic), Emphysematous Cholecystitis
+  > Generating: Cholesterol Stones (80%)
+    ✅ Generated Cholesterol Stones (80%)
+  > Generating: Pigment Stones
+    ✅ Generated Pigment Stones
+  > Generating: Porcelain GB (Mimic)
+    ✅ Generated Porcelain GB (Mimic)
+  > Generating: Emphysematous Cholecystitis
+    ✅ Generated Emphysematous Cholecystitis
+  💾 Updated G ALLBLADDER CALCULI in database.
+
+Pattern: D ENSE METAPHYSEAL BANDS
+Missing: Growth Arrest Lines, Lead Poisoning, Syphilis
+  > Generating: Growth Arrest Lines
+    ✅ Generated Growth Arrest Lines
+  > Generating: Lead Poisoning
+    ✅ Generated Lead Poisoning
+  > Generating: Syphilis
+    ✅ Generated Syphilis
+  💾 Updated D ENSE METAPHYSEAL BANDS in database.
+
+Pattern: P ULMONARY ARTERY DILATATION
+Missing: Pulmonary Hypertension, Left-to-Right Shunt (ASD/VSD), Post-stenotic Dilatation
+  > Generating: Pulmonary Hypertension
+    ✅ Generated Pulmonary Hypertension
+  > Generating: Left-to-Right Shunt (ASD/VSD)
+    ✅ Generated Left-to-Right Shunt (ASD/VSD)
+  > Generating: Post-stenotic Dilatation
+    ✅ Generated Post-stenotic Dilatation
+  💾 Updated P ULMONARY ARTERY DILATATION in database.
+
+Pattern: PELVIC MASS IN THE NEWBORN FEMALE
+Missing: Ovarian Cyst, Sacrococcygeal Teratoma
+  > Generating: Ovarian Cyst
+    ✅ Generated Ovarian Cyst
+  > Generating: Sacrococcygeal Teratoma
+    ✅ Generated Sacrococcygeal Teratoma
+  💾 Updated PELVIC MASS IN THE NEWBORN FEMALE in database.
+
+Pattern: M EDIASTINAL LYMPHADENOPATHY
+Missing: Sarcoidosis, Primary TB
+  > Generating: Sarcoidosis
+    ✅ Generated Sarcoidosis
+  > Generating: Primary TB
+    ✅ Generated Primary TB
+  💾 Updated M EDIASTINAL LYMPHADENOPATHY in database.
+
+Pattern: S OLITARY NODULE IN THE SMALL BOWEL
+Missing: Gastrointestinal Stromal Tumor (GIST), Adenocarcinoma, Metastasis (Melanoma)
+  > Generating: Gastrointestinal Stromal Tumor (GIST)
+    ✅ Generated Gastrointestinal Stromal Tumor (GIST)
+  > Generating: Adenocarcinoma
+    ✅ Generated Adenocarcinoma
+  > Generating: Metastasis (Melanoma)
+    ✅ Generated Metastasis (Melanoma)
+  💾 Updated S OLITARY NODULE IN THE SMALL BOWEL in database.
+
+Pattern: C ALCIFICATION IN THE CHIASTIC REGION
+Missing: Craniopharyngioma (90%), Aneurysm (Wall), Optic Nerve Glioma (Rare)
+  > Generating: Craniopharyngioma (90%)
+    ✅ Generated Craniopharyngioma (90%)
+  > Generating: Aneurysm (Wall)
+    ✅ Generated Aneurysm (Wall)
+  > Generating: Optic Nerve Glioma (Rare)
+    ✅ Generated Optic Nerve Glioma (Rare)
+  💾 Updated C ALCIFICATION IN THE CHIASTIC REGION in database.
+
+Pattern: BREAST MASS IN a MALE
+Missing: Epidermoid Cyst
+  > Generating: Epidermoid Cyst
+    ✅ Generated Epidermoid Cyst
+  💾 Updated BREAST MASS IN a MALE in database.
+
+Pattern: NASAL OBSTRUCTION
+Missing: Inverting Papilloma, SCC
+  > Generating: Inverting Papilloma
+    ✅ Generated Inverting Papilloma
+  > Generating: SCC
+    ✅ Generated SCC
+  💾 Updated NASAL OBSTRUCTION in database.
+
+Pattern: S ACRO-ILIAC JOINT WIDENING
+Missing: Hyperparathyroidism (Pseudowidening), Infection (Septic), Trauma (Diastasis)
+  > Generating: Hyperparathyroidism (Pseudowidening)
+    ✅ Generated Hyperparathyroidism (Pseudowidening)
+  > Generating: Infection (Septic)
+    ✅ Generated Infection (Septic)
+  > Generating: Trauma (Diastasis)
+    ✅ Generated Trauma (Diastasis)
+  💾 Updated S ACRO-ILIAC JOINT WIDENING in database.
+
+Pattern: GYRIFORM ENHANCEMENT
+Missing: Subacute Infarct, Herpes Encephalitis, PRES, Post-ictal Change
+  > Generating: Subacute Infarct
+    ✅ Generated Subacute Infarct
+  > Generating: Herpes Encephalitis
+    ✅ Generated Herpes Encephalitis
+  > Generating: PRES
+    ✅ Generated PRES
+  > Generating: Post-ictal Change
+    ✅ Generated Post-ictal Change
+  💾 Updated GYRIFORM ENHANCEMENT in database.
+
+Pattern: OESOPHAGEAL DIVERTICULA
+Missing: Zenker Diverticulum, Killian-Jamieson
+  > Generating: Zenker Diverticulum
+    ✅ Generated Zenker Diverticulum
+  > Generating: Killian-Jamieson
+    ✅ Generated Killian-Jamieson
+  💾 Updated OESOPHAGEAL DIVERTICULA in database.
+
+Pattern: F ETAL HYDROPS
+Missing: Immune (Rh), Non-Immune (Cardiac/Infection/Chromosomal)
+  > Generating: Immune (Rh)
+    ✅ Generated Immune (Rh)
+  > Generating: Non-Immune (Cardiac/Infection/Chromosomal)
+    ✅ Generated Non-Immune (Cardiac/Infection/Chromosomal)
+  💾 Updated F ETAL HYDROPS in database.
+
+Pattern: R ENAL ARTERY STENOSIS
+Missing: Atherosclerosis (90%), Vasculitis (Takayasu)
+  > Generating: Atherosclerosis (90%)
+    ✅ Generated Atherosclerosis (90%)
+  > Generating: Vasculitis (Takayasu)
+    ✅ Generated Vasculitis (Takayasu)
+  💾 Updated R ENAL ARTERY STENOSIS in database.
+
+Pattern: HILAR DISPLACEMENT
+Missing: Volume Loss (Collapse), Fibrosis, Mass Effect (Push)
+  > Generating: Volume Loss (Collapse)
+    ✅ Generated Volume Loss (Collapse)
+  > Generating: Fibrosis
+    ✅ Generated Fibrosis
+  > Generating: Mass Effect (Push)
+    ✅ Generated Mass Effect (Push)
+  💾 Updated HILAR DISPLACEMENT in database.
+
+Pattern: P ANCREATIC DUCTAL IRREGULARITY
+Missing: Chronic Pancreatitis, IPMN
+  > Generating: Chronic Pancreatitis
+    ✅ Generated Chronic Pancreatitis
+  > Generating: IPMN
+    ✅ Generated IPMN
+  💾 Updated P ANCREATIC DUCTAL IRREGULARITY in database.
+
+Pattern: PLATYSPONDYLY
+Missing: Morquio Syndrome, Osteogenesis Imperfecta
+  > Generating: Morquio Syndrome
+    ✅ Generated Morquio Syndrome
+  > Generating: Osteogenesis Imperfecta
+    ✅ Generated Osteogenesis Imperfecta
+  💾 Updated PLATYSPONDYLY in database.
+
+Pattern: Tree-in-bud nodules
+Missing: MAC infection
+  > Generating: MAC infection
+    ✅ Generated MAC infection
+  💾 Updated Tree-in-bud nodules in database.
+
+Pattern: Apical lung mass (Pancoast)
+Missing: TB (apical fibrosis), Actinomycosis
+  > Generating: TB (apical fibrosis)
+    ✅ Generated TB (apical fibrosis)
+  > Generating: Actinomycosis
+    ✅ Generated Actinomycosis
+  💾 Updated Apical lung mass (Pancoast) in database.
+
+Pattern: Pulmonary embolism pattern
+Missing: Septic emboli, Fat embolism
+  > Generating: Septic emboli
+    ✅ Generated Septic emboli
+  > Generating: Fat embolism
+    ✅ Generated Fat embolism
+  💾 Updated Pulmonary embolism pattern in database.
+
+Pattern: Peritoneal disease
+Missing: Lymphomatosis
+  > Generating: Lymphomatosis
+    ✅ Generated Lymphomatosis
+  💾 Updated Peritoneal disease in database.
+
+Pattern: Small bowel obstruction cause
+Missing: Crohn's disease
+  > Generating: Crohn's disease
+    ✅ Generated Crohn's disease
+  💾 Updated Small bowel obstruction cause in database.
+
+Pattern: GI bleeding / vascular malformation
+Missing: AVM, GAVE
+  > Generating: AVM
+    ✅ Generated AVM
+  > Generating: GAVE
+    ✅ Generated GAVE
+  💾 Updated GI bleeding / vascular malformation in database.
+
+Pattern: Hydronephrosis / obstructive uropathy
+Missing: BPH, PUJ obstruction
+  > Generating: BPH
+    ✅ Generated BPH
+  > Generating: PUJ obstruction
+    ✅ Generated PUJ obstruction
+  💾 Updated Hydronephrosis / obstructive uropathy in database.
+
+Pattern: Ovarian torsion
+Missing: Ectopic pregnancy, Endometrioma
+  > Generating: Ectopic pregnancy
+    ✅ Generated Ectopic pregnancy
+  > Generating: Endometrioma
+    ✅ Generated Endometrioma
+  💾 Updated Ovarian torsion in database.
+
+Pattern: Pelvic peritoneal disease
+Missing: Leiomyomatosis peritonealis disseminata, Pelvic TB
+  > Generating: Leiomyomatosis peritonealis disseminata
+    ✅ Generated Leiomyomatosis peritonealis disseminata
+  > Generating: Pelvic TB
+    ✅ Generated Pelvic TB
+  💾 Updated Pelvic peritoneal disease in database.
+
+Pattern: Spiculated breast mass
+Missing: Invasive lobular carcinoma (ILC), Post-surgical scar
+  > Generating: Invasive lobular carcinoma (ILC)
+    ✅ Generated Invasive lobular carcinoma (ILC)
+  > Generating: Post-surgical scar
+    ✅ Generated Post-surgical scar
+  💾 Updated Spiculated breast mass in database.
+
+Pattern: Architectural distortion
+Missing: IDC, Sclerosing adenosis
+  > Generating: IDC
+    ✅ Generated IDC
+  > Generating: Sclerosing adenosis
+    ✅ Generated Sclerosing adenosis
+  💾 Updated Architectural distortion in database.
+
+Pattern: Post-treatment breast changes
+Missing: Dystrophic calcification
+  > Generating: Dystrophic calcification
+    ✅ Generated Dystrophic calcification
+  💾 Updated Post-treatment breast changes in database.
+
+Pattern: Intussusception
+Missing: HSP, Meckel's diverticulum
+  > Generating: HSP
+    ✅ Generated HSP
+  > Generating: Meckel's diverticulum
+    ✅ Generated Meckel's diverticulum
+  💾 Updated Intussusception in database.
+
+Pattern: Paediatric chest infection pattern
+Missing: Bronchopneumonia, Tuberculosis
+  > Generating: Bronchopneumonia
+    ✅ Generated Bronchopneumonia
+  > Generating: Tuberculosis
+    ✅ Generated Tuberculosis
+  💾 Updated Paediatric chest infection pattern in database.
+
+Pattern: Paediatric bone tumour
+Missing: UBC
+  > Generating: UBC
+    ✅ Generated UBC
+  💾 Updated Paediatric bone tumour in database.
+
+Pattern: Developmental hip disorder
+Missing: Septic arthritis
+  > Generating: Septic arthritis
+    ✅ Generated Septic arthritis
+  💾 Updated Developmental hip disorder in database.
+
+Pattern: Multiple brain lesions
+Missing: Neurocysticercosis
+  > Generating: Neurocysticercosis
+    ✅ Generated Neurocysticercosis
+  💾 Updated Multiple brain lesions in database.
+
+Pattern: Acute stroke pattern
+Missing: Lacunar infarct, RCVS
+  > Generating: Lacunar infarct
+    ✅ Generated Lacunar infarct
+  > Generating: RCVS
+    ✅ Generated RCVS
+  💾 Updated Acute stroke pattern in database.
+
+Pattern: Soft tissue mass
+Missing: Ganglion, Desmoid tumour
+  > Generating: Ganglion
+    ✅ Generated Ganglion
+  > Generating: Desmoid tumour
+    ✅ Generated Desmoid tumour
+  💾 Updated Soft tissue mass in database.
+- Ring-enhancing brain lesions: No missing serious alternatives.

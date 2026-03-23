@@ -1,0 +1,27 @@
+{
+  "finding": "Lesions of",
+  "slug": "lesions_of",
+  "chapter": "OPHTHALMOPLEGIA",
+  "source_file": "processed_clusters/ophthalmoplegia/lesions_of.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Oculomotor nerve (CN III) innervates medial rectus, superior rectus, inferior rectus, inferior oblique muscle, pupilloconstrictor, levator palpebrae",
+      "raw": "Oculomotor nerve (CN III) innervates medial rectus, superior rectus, inferior rectus, inferior oblique muscle, pupilloconstrictor, levator palpebrae",
+      "frequency": null
+    },
+    {
+      "name": "Trochlear nerve (CN IV) innervates superior oblique muscle",
+      "raw": "Trochlear nerve (CN IV) innervates superior oblique muscle",
+      "frequency": null
+    },
+    {
+      "name": "Abducens nerve (CN VI) innervates lateral rectus muscle",
+      "raw": "Abducens nerve (CN VI) innervates lateral rectus muscle",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Swyer-James Syndrome (DDx)",
+  "slug": "swyer_james_syndrome_ddx",
+  "chapter": "Swyer-James Syndrome",
+  "source_file": "processed_clusters/swyer_james_syndrome/swyer_james_syndrome_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "no air trapping with proximal interruption of pulmonary artery",
+      "raw": "no air trapping with proximal interruption of pulmonary artery (no hilum)",
+      "frequency": null
+    },
+    {
+      "name": "hypogenetic lung syndrome",
+      "raw": "hypogenetic lung syndrome",
+      "frequency": null
+    },
+    {
+      "name": "pulmonary embolus",
+      "raw": "pulmonary embolus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "small ipsilateral hilum ← diminuted hilar vessels + attenuated arteries) | small hemithorax with decreased volume | normal hyperexpanded hemithorax ← collateral air drift | air trapping during expiration"
+}

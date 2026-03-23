@@ -1,0 +1,102 @@
+{
+  "finding": "Erlenmeyer Flask Deformity",
+  "slug": "erlenmeyer_flask_deformity",
+  "chapter": "BONE OVERGROWTH",
+  "source_file": "processed_clusters/bone_overgrowth/erlenmeyer_flask_deformity.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gaucher disease, Niemann-Pick disease",
+      "raw": "Gaucher disease, Niemann-Pick disease",
+      "frequency": null
+    },
+    {
+      "name": "Hemolytic anemia: thalassemia, sickle cell",
+      "raw": "Hemolytic anemia: thalassemia, sickle cell",
+      "frequency": null
+    },
+    {
+      "name": "Osteopetrosis",
+      "raw": "Osteopetrosis",
+      "frequency": null
+    },
+    {
+      "name": "Heavy metal poisoning",
+      "raw": "Heavy metal poisoning",
+      "frequency": null
+    },
+    {
+      "name": "Metaphyseal dysplasia = Pyle disease",
+      "raw": "Metaphyseal dysplasia = Pyle disease",
+      "frequency": null
+    },
+    {
+      "name": "Rickets",
+      "raw": "Rickets",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Down syndrome",
+      "raw": "Down syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Hypophosphatasia",
+      "raw": "Hypophosphatasia",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Thalassemia",
+      "raw": "Thalassemia",
+      "frequency": null
+    },
+    {
+      "name": "Osteopetrosis",
+      "raw": "Osteopetrosis",
+      "frequency": null
+    },
+    {
+      "name": "Pyle disease",
+      "raw": "Pyle disease",
+      "frequency": null
+    },
+    {
+      "name": "Diaphyseal aclasis",
+      "raw": "Diaphyseal aclasis",
+      "frequency": null
+    },
+    {
+      "name": "Ollier disease",
+      "raw": "Ollier disease",
+      "frequency": null
+    },
+    {
+      "name": "Gaucher disease",
+      "raw": "Gaucher disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  expansion of distal end of long bones, usually femur"
+}

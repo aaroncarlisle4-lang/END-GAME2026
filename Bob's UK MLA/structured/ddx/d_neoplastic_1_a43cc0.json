@@ -1,0 +1,27 @@
+{
+  "finding": "D. NEOPLASTIC",
+  "slug": "d_neoplastic_1_a43cc0",
+  "chapter": "C. INTUSSUSCEPTION",
+  "source_file": "processed_clusters/c_intussusception/d_neoplastic_1_a43cc0.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gastric stump carcinoma: > 5 years after resection for benign disease; 15% (20%) within 10 (20) years",
+      "raw": "Gastric stump carcinoma: > 5 years after resection for benign disease; 15% (20%) within 10 (20) years",
+      "frequency": "15%"
+    },
+    {
+      "name": "Recurrent carcinoma (10%) ← incomplete removal of gastric cancer",
+      "raw": "Recurrent carcinoma (10%) ← incomplete removal of gastric cancer",
+      "frequency": "10%"
+    },
+    {
+      "name": "Malignancy at anastomosis: incomplete resection",
+      "raw": "Malignancy at anastomosis: incomplete resection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

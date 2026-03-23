@@ -1,0 +1,34 @@
+{
+  "finding": "Normal Pulmonary Vasculature",
+  "slug": "normal_pulmonary_vasculature_72a610",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/normal_pulmonary_vasculature_72a610.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "VASCULAR DISTRIBUTION",
+      "raw": "VASCULAR DISTRIBUTION",
+      "frequency": null
+    },
+    {
+      "name": "VASCULAR TAPERING",
+      "raw": "VASCULAR TAPERING",
+      "frequency": null
+    },
+    {
+      "name": "VASCULAR CALIBER",
+      "raw": "VASCULAR CALIBER",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "VASCULAR DISTRIBUTION": [
+      "pulmonary vessels within upper perihilum approximate ⅓ of total vascularity",
+      "pulmonary vessels within lower perihilum approximate ²/³ of total vascularity"
+    ],
+    "VASCULAR TAPERING": [],
+    "VASCULAR CALIBER": []
+  },
+  "context": "√  pulmonary vessels within upper perihilum approximate ⅓ of total vascularity √  pulmonary vessels within lower perihilum approximate ²/³ of total vascularity √  pulmonary vessels taper near transition of middle ⅓ to outer ⅓ of lung √  straight / slightly concave main pulmonary artery contour (mild convexity is normal in young females) √  pulmonary trunk measures < 4.5 cm (leftward distance from vertical line at carina to most lateral aspect of main pulmonary artery contour) √  right interlobar / intermediate pulmonary artery measures 10-15 (9-14) mm in males (females) on PA radiographs √  pu"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "TEMPORAL BONE",
+  "slug": "temporal_bone",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF EAR, NOSE, AND THROAT",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_ear_nose_and_throat/temporal_bone.md",
+  "definition": "osteogenesis imperfecta + hearing loss + blue sclerae in patients in late 2nd / early 3rd",
+  "demographics": {
+    "Location": "external ear, middle ear, inner ear"
+  },
+  "dominant_finding": "calvarial changes ± basilar impression",
+  "distribution": "external ear, middle ear, inner ear",
+  "discriminating_features": [
+    "usually lytic changes beginning in petrous pyramid + progressing laterally; otic capsule",
+    "calvarial changes ± basilar impression",
+    "homogeneously dense thickened structurally weak bone (fibro-osseous tissue less dense",
+    "bone expansion with preserved cortex → osseous narrowing of vascular channels +",
+    "lytic lesions (less frequent)"
+  ],
+  "other_features": {
+    "general": [],
+    "External auditory canal": [
+      "usually lytic changes beginning in petrous pyramid + progressing laterally; otic capsule",
+      "calvarial changes ± basilar impression",
+      "homogeneously dense thickened structurally weak bone (fibro-osseous tissue less dense",
+      "bone expansion with preserved cortex → osseous narrowing of vascular channels +",
+      "lytic lesions (less frequent)",
+      "sparing of membranous labyrinth, facial nerve canal, IAC is the rule",
+      "changes similar to otosclerosis",
+      "moth-eaten permeative osteolysis of temporal bone"
+    ]
+  },
+  "clinical": {}
+}

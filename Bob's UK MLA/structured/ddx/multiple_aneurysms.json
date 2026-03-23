@@ -1,0 +1,87 @@
+{
+  "finding": "Multiple Aneurysms",
+  "slug": "multiple_aneurysms",
+  "chapter": "C. SMALL-VESSEL GRANULOMATOUS",
+  "source_file": "processed_clusters/c_small_vessel_granulomatous/multiple_aneurysms.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polyarteritis nodosa",
+      "raw": "Polyarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "fever, malaise, weight loss, myalgia",
+      "raw": "fever, malaise, weight loss, myalgia",
+      "frequency": null
+    },
+    {
+      "name": "proteinuria, hematuria",
+      "raw": "proteinuria, hematuria",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid vasculitis",
+      "raw": "Rheumatoid vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "advanced rheumatoid arthropathy",
+      "raw": "advanced rheumatoid arthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "arthritis, photosensitivity",
+      "raw": "arthritis, photosensitivity",
+      "frequency": null
+    },
+    {
+      "name": "malar rash, discoid rash, oral ulcers",
+      "raw": "malar rash, discoid rash, oral ulcers",
+      "frequency": null
+    },
+    {
+      "name": "Churg-Strauss syndrome",
+      "raw": "Churg-Strauss syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Heroin / methamphetamine abuse",
+      "raw": "Heroin / methamphetamine abuse",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "skin thickening, induration and tightness",
+      "raw": "skin thickening, induration and tightness",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes",
+      "raw": "Diabetes",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell temporal arthritis",
+      "raw": "Giant cell temporal arthritis (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

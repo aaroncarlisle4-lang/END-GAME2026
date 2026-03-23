@@ -1,0 +1,52 @@
+{
+  "finding": "B. MULTIFOCAL / DIFFUSE UPTAKE (a) Infection",
+  "slug": "b_multifocal_diffuse_uptake_a_infection",
+  "chapter": "Gallium in Lung Imaging",
+  "source_file": "processed_clusters/gallium_in_lung_imaging/b_multifocal_diffuse_uptake_a_infection.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Pneumocystis carinii",
+      "raw": "Pneumocystis carinii",
+      "frequency": null
+    },
+    {
+      "name": "Cytomegalovirus (b)   Inflammation",
+      "raw": "Cytomegalovirus (b)   Inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis 70% sensitivity for active parenchymal disease, 94% sensitivity for hilar adenopathy =  indicator of therapeutic response to steroids",
+      "raw": "Sarcoidosis 70% sensitivity for active parenchymal disease, 94% sensitivity for hilar adenopathy =  indicator of therapeutic response to steroids",
+      "frequency": "70%"
+    },
+    {
+      "name": "Interstitial lung disease pneumoconiosis, idiopathic pulmonary fibrosis, lymphangitic carcinomatosis",
+      "raw": "Interstitial lung disease pneumoconiosis, idiopathic pulmonary fibrosis, lymphangitic carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Exudative stage of radiation pneumonitis (c)   Drugs",
+      "raw": "Exudative stage of radiation pneumonitis (c)   Drugs",
+      "frequency": null
+    },
+    {
+      "name": "Bleomycin toxicity",
+      "raw": "Bleomycin toxicity",
+      "frequency": null
+    },
+    {
+      "name": "Amiodarone",
+      "raw": "Amiodarone (d)   Contrast lymphangiography (in 50%)",
+      "frequency": "50%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  intense uptake in active lesions (97%) =  parameter of activity √  diffuse uptake in miliary TB + rapidly progressive TB pneumonia √  increased uptake at time when physical signs, symptoms, and roentgenographic changes are unimpressive"
+}

@@ -1,0 +1,87 @@
+{
+  "finding": "Cardiac Sarcoidosis (5%",
+  "slug": "cardiac_sarcoidosis_5_671b44",
+  "chapter": "RHEUMATOID LUNG",
+  "source_file": "processed_clusters/rheumatoid_lung/cardiac_sarcoidosis_5_671b44.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Global / regional hypokinesis with systolic dysfunction → ↓ LV ejection fraction + ↑ end- diastolic LV diameter",
+      "raw": "Global / regional hypokinesis with systolic dysfunction → ↓ LV ejection fraction + ↑ end- diastolic LV diameter",
+      "frequency": null
+    },
+    {
+      "name": "Ventricular arrhythmia",
+      "raw": "Ventricular arrhythmia",
+      "frequency": null
+    },
+    {
+      "name": "Cardiomyopathy, congestive failure, angina",
+      "raw": "Cardiomyopathy, congestive failure, angina",
+      "frequency": null
+    },
+    {
+      "name": "may be asymptomatic throughout life",
+      "raw": "may be asymptomatic throughout life",
+      "frequency": null
+    },
+    {
+      "name": "CHF (25%) ← diffuse myocardial involvement",
+      "raw": "CHF (25%) ← diffuse myocardial involvement",
+      "frequency": "25%"
+    },
+    {
+      "name": "cor pulmonale ← pulmonary hypertension",
+      "raw": "cor pulmonale ← pulmonary hypertension",
+      "frequency": null
+    },
+    {
+      "name": "conduction disturbances (in 23-30%): isolated bundle branch block to complete heart block",
+      "raw": "conduction disturbances (in 23-30%): isolated bundle branch block to complete heart block",
+      "frequency": "30%"
+    },
+    {
+      "name": "heart block",
+      "raw": "heart block (= CLASSIC clinical presentation)",
+      "frequency": null
+    },
+    {
+      "name": "supraventricular + ventricular arrhythmias",
+      "raw": "supraventricular + ventricular arrhythmias",
+      "frequency": null
+    },
+    {
+      "name": "sudden cardiac death (in 12-65%) ← dysrhythmia",
+      "raw": "sudden cardiac death (in 12-65%) ← dysrhythmia",
+      "frequency": "65%"
+    },
+    {
+      "name": "Hypertrophic cardiomyopathy",
+      "raw": "Hypertrophic cardiomyopathy (LV hypertrophy > 15 mm, scattered patchy midmyocardial involvement)",
+      "frequency": null
+    },
+    {
+      "name": "Arrhythmogenic right ventricular cardiomyopathy",
+      "raw": "Arrhythmogenic right ventricular cardiomyopathy (RV dilatation + dysfunction, fibrofatty infiltration of RV, dyskinetic free wall of RV + RV aneurysm)",
+      "frequency": null
+    },
+    {
+      "name": "Myocarditis",
+      "raw": "Myocarditis (patchy epicardial LGE in often inferolateral distribution, hyperemia)",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis (biventricular hypertrophy, global + diffuse LGE, LA enhancement, diffuse myocardial nulling abnormality)",
+      "frequency": null
+    },
+    {
+      "name": "interstitial nephritis, glomerulonephritis",
+      "raw": "interstitial nephritis, glomerulonephritis (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   5% clinically, 20-50% at autopsy Distribution:   basal portion of septum, LV wall N.B.:   rare in papillary muscle / RV Echo (nonspecific): √  wall motion abnormalities √  thinning of basal septum √  LV dilatation (30%) CT: √  cardiomegaly (25%) √  pericardial effusion √  ventricular aneurysm (10%) MR (75-100% sensitive, 77-79% specific): CAVE:   often contraindicated ← cardiac pacemakers (unless device is MR compatible) √  myocardial thickening √  nodular / patchy areas of high SI on T2WI / SSFP (bright-blood steady-state free precession) ← edema √  late gadolinium-induced enhanc"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Diffusely Swollen Hemispheres",
+  "slug": "diffusely_swollen_hemispheres_f37b55",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/diffusely_swollen_hemispheres_f37b55.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "METABOLIC",
+      "raw": "METABOLIC",
+      "frequency": null
+    },
+    {
+      "name": "Metabolic encephalopathy: eg, uremia, Reye syndrome, ketoacidosis",
+      "raw": "Metabolic encephalopathy: eg, uremia, Reye syndrome, ketoacidosis",
+      "frequency": null
+    },
+    {
+      "name": "Anoxia: cardiopulmonary arrest, near-drowning, smoke inhalation, ARDS",
+      "raw": "Anoxia: cardiopulmonary arrest, near-drowning, smoke inhalation, ARDS",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

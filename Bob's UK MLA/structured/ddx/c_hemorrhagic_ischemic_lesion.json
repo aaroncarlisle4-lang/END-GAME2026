@@ -1,0 +1,32 @@
+{
+  "finding": "C. HEMORRHAGIC-ISCHEMIC LESION",
+  "slug": "c_hemorrhagic_ischemic_lesion",
+  "chapter": "Mycobacteria, Nocardia, Actinomyces, Listeria",
+  "source_file": "processed_clusters/mycobacteria_nocardia_actinomyces_listeria/c_hemorrhagic_ischemic_lesion.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Resolving infarction",
+      "raw": "Resolving infarction",
+      "frequency": null
+    },
+    {
+      "name": "Aging hematoma",
+      "raw": "Aging hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Operative bed following resection",
+      "raw": "Operative bed following resection",
+      "frequency": null
+    },
+    {
+      "name": "Thrombosed aneurysm",
+      "raw": "Thrombosed aneurysm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

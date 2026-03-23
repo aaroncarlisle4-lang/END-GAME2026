@@ -1,0 +1,242 @@
+{
+  "finding": "OSTEOSARCOMA",
+  "slug": "osteosarcoma",
+  "chapter": "OSTEOPATHIA STRIATA",
+  "source_file": "processed_clusters/osteopathia_striata/osteosarcoma.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Conventional osteosarcoma:",
+      "raw": "Conventional osteosarcoma:",
+      "frequency": null
+    },
+    {
+      "name": "Surface / juxtacortical osteosarcoma:  4-10%",
+      "raw": "Surface / juxtacortical osteosarcoma:  4-10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "Extraskeletal  4%",
+      "raw": "Extraskeletal  4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Secondary osteosarcoma  5-7% Work-up:   local staging by MR before biopsy; distant staging with bone scan + chest CT Prognosis:   dependent on age, sex, tumor size, site, classification; best predictor is degree of tissue necrosis in postresection specimen following chemotherapy",
+      "raw": "Secondary osteosarcoma  5-7% Work-up:   local staging by MR before biopsy; distant staging with bone scan + chest CT Prognosis:   dependent on age, sex, tumor size, site, classification; best predictor is degree of tissue necrosis in postresection specimen following chemotherapy (91% survival with tumor necrosis > 90%, 14% survival with < 90% tumor necrosis)",
+      "frequency": "7%"
+    },
+    {
+      "name": "slowly growing firm soft-tissue mass; painful + tender",
+      "raw": "slowly growing firm soft-tissue mass; painful + tender (in 25-50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "history of trauma (12-31%): in preexisting myositis ossificans / site of intramuscular injection",
+      "raw": "history of trauma (12-31%): in preexisting myositis ossificans / site of intramuscular injection",
+      "frequency": "31%"
+    },
+    {
+      "name": "history of irradiation",
+      "raw": "history of irradiation (5-10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "elevated levels of alkaline phosphatase",
+      "raw": "elevated levels of alkaline phosphatase (prognostic)",
+      "frequency": null
+    },
+    {
+      "name": "multiple local recurrences (in 80-90%) after interval of 2 months to 10 years",
+      "raw": "multiple local recurrences (in 80-90%) after interval of 2 months to 10 years",
+      "frequency": "90%"
+    },
+    {
+      "name": "metastases after interval of 1 month to 4 years: lungs (81-100%), lymph nodes (25%), bone, subcutis, liver",
+      "raw": "metastases after interval of 1 month to 4 years: lungs (81-100%), lymph nodes (25%), bone, subcutis, liver",
+      "frequency": "100%"
+    },
+    {
+      "name": "death within 2-3 years (> 50%) with tumor size as major predictor",
+      "raw": "death within 2-3 years (> 50%) with tumor size as major predictor",
+      "frequency": "50%"
+    },
+    {
+      "name": "painful swelling",
+      "raw": "painful swelling (1-2 months' duration); fever (frequent)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "slight elevation of alkaline phosphatase",
+      "raw": "slight elevation of alkaline phosphatase",
+      "frequency": null
+    },
+    {
+      "name": "diabetes mellitus (paraneoplastic syndrome) in 25% Location:   long bones (70-80%), femur (40-45%), tibia (16-20%); 50-55% about knee;",
+      "raw": "diabetes mellitus (paraneoplastic syndrome) in 25% Location:   long bones (70-80%), femur (40-45%), tibia (16-20%); 50-55% about knee;",
+      "frequency": "25%"
+    },
+    {
+      "name": "extent of marrow + soft-tissue involvement",
+      "raw": "extent of marrow + soft-tissue involvement",
+      "frequency": null
+    },
+    {
+      "name": "invasion of epiphysis",
+      "raw": "invasion of epiphysis",
+      "frequency": null
+    },
+    {
+      "name": "joint (19-24%) + neurovascular involvement",
+      "raw": "joint (19-24%) + neurovascular involvement",
+      "frequency": "24%"
+    },
+    {
+      "name": "viable tumor + mineralized matrix for biopsy",
+      "raw": "viable tumor + mineralized matrix for biopsy",
+      "frequency": null
+    },
+    {
+      "name": "pathologic fracture",
+      "raw": "pathologic fracture (15-20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "radiation-induced osteosarcoma",
+      "raw": "radiation-induced osteosarcoma (30 years delay)",
+      "frequency": null
+    },
+    {
+      "name": "Amputation: 20% 5-year survival; 15% develop skeletal metastases; 75% dead within < 2 years",
+      "raw": "Amputation: 20% 5-year survival; 15% develop skeletal metastases; 75% dead within < 2 years",
+      "frequency": "20%"
+    },
+    {
+      "name": "Multidrug chemotherapy: 55% 4-year survival more proximal lesions carry higher mortality",
+      "raw": "Multidrug chemotherapy: 55% 4-year survival more proximal lesions carry higher mortality (0% 2-year survival for axial primary)",
+      "frequency": "55%"
+    },
+    {
+      "name": "Parosteal osteosarcoma",
+      "raw": "Parosteal osteosarcoma (ill-defined fluffy bone formation)",
+      "frequency": null
+    },
+    {
+      "name": "Periosteal osteosarcoma",
+      "raw": "Periosteal osteosarcoma (diaphysis, cortical destruction, periosteal reaction)",
+      "frequency": null
+    },
+    {
+      "name": "Conventional osteosarcoma",
+      "raw": "Conventional osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "protracted clinical course with nonspecific symptoms",
+      "raw": "protracted clinical course with nonspecific symptoms",
+      "frequency": null
+    },
+    {
+      "name": "simulating periodontal disease: rapidly enlarging mass, lump, swelling",
+      "raw": "simulating periodontal disease: rapidly enlarging mass, lump, swelling",
+      "frequency": null
+    },
+    {
+      "name": "paresthesia",
+      "raw": "paresthesia (if inferior alveolar nerve involved)",
+      "frequency": null
+    },
+    {
+      "name": "painful / loose teeth, bleeding gum Location:   body of mandible (lytic), alveolar ridge of maxilla (sclerotic), maxillary antrum",
+      "raw": "painful / loose teeth, bleeding gum Location:   body of mandible (lytic), alveolar ridge of maxilla (sclerotic), maxillary antrum",
+      "frequency": null
+    },
+    {
+      "name": "palpable mass",
+      "raw": "palpable mass",
+      "frequency": null
+    },
+    {
+      "name": "Osteochondroma",
+      "raw": "Osteochondroma (corticomedullary continuity)",
+      "frequency": null
+    },
+    {
+      "name": "Myositis ossificans, periosteal chondroma, juxtacortical hematoma, fibrous malignancy, periosteal chondrosarcoma, other subtypes of juxtacortical osteosarcomas",
+      "raw": "Myositis ossificans, periosteal chondroma, juxtacortical hematoma, fibrous malignancy, periosteal chondrosarcoma, other subtypes of juxtacortical osteosarcomas",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma (rarely periosteal, no perpendicular periosteal reaction, soft- tissue component not mineralized + not low in attenuation + not of very high intensity)",
+      "frequency": null
+    },
+    {
+      "name": "Parosteal osteosarcoma",
+      "raw": "Parosteal osteosarcoma (densely ossified juxtacortical mass, 3rd + 4th decade, posterior distal metaphysis of femur, attached to bone by narrow stalk, no perpendicular periosteal reaction)",
+      "frequency": null
+    },
+    {
+      "name": "High-grade surface osteosarcoma",
+      "raw": "High-grade surface osteosarcoma (surrounds > 50% of bone circumference, frequent invasion of medullary cavity, no high water content of soft-tissue mass)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Periosteal chondroid tumor",
+      "raw": "Periosteal chondroid tumor (well-defined border, typically metaphyseal location, curvilinear peripheral calcifications)",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease (67-90%) ◊  0.2-7.5% of patients with Paget disease develop osteosarcoma dependent on extent of disease",
+      "raw": "Paget disease (67-90%) ◊  0.2-7.5% of patients with Paget disease develop osteosarcoma dependent on extent of disease",
+      "frequency": "90%"
+    },
+    {
+      "name": "Sequelae of irradiation",
+      "raw": "Sequelae of irradiation (6-22%) 2-40 years ago (malignant fibrous histiocytoma most common; fibrosarcoma 3rd most common) ◊  0.02-4% of patients with radiation therapy develop osteosarcoma related to exposure dose (usually > 1,000 cGy)",
+      "frequency": "22%"
+    },
+    {
+      "name": "Osteonecrosis, fibrous dysplasia, metallic implants, osteogenesis imperfecta, chronic osteomyelitis, retinoblastoma",
+      "raw": "Osteonecrosis, fibrous dysplasia, metallic implants, osteogenesis imperfecta, chronic osteomyelitis, retinoblastoma (familial bilateral type)",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma (rare calcifications, cortical thickening + saucerization)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (spread outside bone without osseous destruction, calcification uncommon)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Conventional osteosarcoma",
+      "raw": "Conventional osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor (epiphyseal location, solid mass, isointense to muscle on T1WI)",
+      "frequency": null
+    },
+    {
+      "name": "Lytic metastasis",
+      "raw": "Lytic metastasis(no fluid levels)",
+      "frequency": null
+    },
+    {
+      "name": "Chondroblastic conventional osteosarcoma",
+      "raw": "Chondroblastic conventional osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma, chondrosarcoma, lymphoma",
+      "raw": "Ewing sarcoma, chondrosarcoma, lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  malignant tumor of connective tissue producing osteoid matrix + variable amounts of cartilage matrix + fibrous tissue Most common malignant primary bone tumor in adolescents + children; 2nd most common primary malignant bone tumor after multiple myeloma Prevalence:   4-5÷1,000,000 annually; 15% of all primary bone tumors confirmed at biopsy; < 1% of all cancers in USA Types & Frequency:   underlined are types recognized by WHO ›  high-grade intramedullary  75% ›  telangiectatic  4.5-11% ›  low-grade intraosseous  4-5% ›  small cell  1-4% ›  osteosarcomatosis  3-4% ›  gnathic  6-9% associate"
+}

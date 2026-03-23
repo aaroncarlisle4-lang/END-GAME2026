@@ -1,0 +1,41 @@
+{
+  "name": "OSGOOD-SCHLATTER DISEASE",
+  "slug": "osgood_schlatter_disease",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/osgood_schlatter_disease.md",
+  "definition": "chronic avulsion injury of the attachment of the patellar ligament to the tibial tuberosity (=",
+  "demographics": {
+    "Age": "10-15 years; M > F"
+  },
+  "dominant_finding": "patellar tendon enlargement",
+  "distribution": "obliteration of inferior angle of infrapatellar fat pad",
+  "discriminating_features": [
+    "soft-tissue swelling in front of tuberosity ← edema of skin + subcutaneous tissue",
+    "thickening + calcification of distal portion of patellar tendon",
+    "indistinct margin of patellar tendon",
+    "obliteration of inferior angle of infrapatellar fat pad",
+    "separation of several small ossicles from the developing ossification center of tibial"
+  ],
+  "other_features": {
+    "general": [
+      "soft-tissue swelling in front of tuberosity ← edema of skin + subcutaneous tissue",
+      "thickening + calcification of distal portion of patellar tendon",
+      "indistinct margin of patellar tendon",
+      "obliteration of inferior angle of infrapatellar fat pad",
+      "separation of several small ossicles from the developing ossification center of tibial",
+      "single / multiple ossifications in avulsed fragment",
+      "comparison with other side (irregular development normal)"
+    ],
+    "MR": [
+      "patellar tendon enlargement",
+      "increased SI at tibial insertion site of patellar tendon on T1WI + T2WI",
+      "distension of deep infrapatellar bursa",
+      "bone marrow edema adjacent to tibial tuberosity + tibial apophysis (rare)",
+      "thickened cartilage anterior to tibial tubercle"
+    ]
+  },
+  "clinical": {
+    "Cx": "tibial tubercle fracture with nonunion of bone fragments, patellar subluxation,",
+    "Rx": "immobilization / steroid injection"
+  }
+}

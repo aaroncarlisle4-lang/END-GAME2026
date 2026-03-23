@@ -1,0 +1,37 @@
+{
+  "finding": "C. EXTRAMUCOSAL LESION",
+  "slug": "c_extramucosal_lesion_aabc0a",
+  "chapter": "RECTUM & ANUS",
+  "source_file": "processed_clusters/rectum_anus/c_extramucosal_lesion_aabc0a.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Serosal metastasis",
+      "raw": "Serosal metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Lymph node metastasis",
+      "raw": "Lymph node metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Perirectal abscess",
+      "raw": "Perirectal abscess",
+      "frequency": null
+    },
+    {
+      "name": "Uterine leiomyosarcoma invading rectal wall",
+      "raw": "Uterine leiomyosarcoma invading rectal wall",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

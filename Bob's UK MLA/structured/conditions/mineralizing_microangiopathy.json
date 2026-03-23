@@ -1,0 +1,31 @@
+{
+  "name": "MINERALIZING MICROANGIOPATHY",
+  "slug": "mineralizing_microangiopathy",
+  "chapter": "INTRAVENTRICULAR NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/intraventricular_neurocytoma/mineralizing_microangiopathy.md",
+  "definition": "RADIATION-INDUCED LEUKOENCEPHALOPATHY sequelae of radiotherapy combined with methotrexate therapy for leukemia radiation-induced demyelination of periventricular white matter",
+  "demographics": {
+    "Incidence": "in 25-30% after > 9 months after treatment",
+    "Age": "childhood"
+  },
+  "dominant_finding": "symmetric low-attenuation process in white matter near corticomedullary area",
+  "distribution": "confluent diffuse periventricular distribution spreading peripherally with an irregular",
+  "discriminating_features": [
+    "thin reticular / serrated linear / punctate calcifications near corticomedullary junction,",
+    "symmetric low-attenuation process in white matter near corticomedullary area",
+    "confluent diffuse periventricular distribution spreading peripherally with an irregular",
+    "confluent pattern with scalloped margins in periventricular white matter extending out to"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "thin reticular / serrated linear / punctate calcifications near corticomedullary junction,",
+      "symmetric low-attenuation process in white matter near corticomedullary area"
+    ],
+    "MR": [
+      "confluent diffuse periventricular distribution spreading peripherally with an irregular",
+      "confluent pattern with scalloped margins in periventricular white matter extending out to"
+    ]
+  },
+  "clinical": {}
+}

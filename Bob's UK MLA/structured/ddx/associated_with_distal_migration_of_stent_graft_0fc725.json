@@ -1,0 +1,32 @@
+{
+  "finding": "Associated with: distal migration of stent-graft",
+  "slug": "associated_with_distal_migration_of_stent_graft_0fc725",
+  "chapter": "Complications of Endovascular Stent-Graft Repair",
+  "source_file": "processed_clusters/complications_of_endovascular_stent_graft_repair/associated_with_distal_migration_of_stent_graft_0fc725.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Graft infection",
+      "raw": "Graft infection",
+      "frequency": null
+    },
+    {
+      "name": "Graft thrombosis (3-19%) =  intraluminal circular / semicircular thrombus",
+      "raw": "Graft thrombosis (3-19%) =  intraluminal circular / semicircular thrombus",
+      "frequency": "19%"
+    },
+    {
+      "name": "Graft occlusion",
+      "raw": "Graft occlusion",
+      "frequency": null
+    },
+    {
+      "name": "Shower embolism",
+      "raw": "Shower embolism (4-17%)",
+      "frequency": "17%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  interval development of perigraft soft-tissue attenuation / air Rx:   antibiotics + total excision of infected graft Prognosis:   spontaneous shrinkage, development of complete thrombosis"
+}

@@ -1,0 +1,82 @@
+{
+  "finding": "B. EXTRINSIC CAUSE",
+  "slug": "b_extrinsic_cause",
+  "chapter": "D. COMPRESSION",
+  "source_file": "processed_clusters/d_compression/b_extrinsic_cause.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endometriosis: extrinsic form÷intrinsic form = 4÷1",
+      "raw": "Endometriosis: extrinsic form÷intrinsic form = 4÷1",
+      "frequency": null
+    },
+    {
+      "name": "Abscess: tuboovarian, appendiceal, perisigmoidal",
+      "raw": "Abscess: tuboovarian, appendiceal, perisigmoidal",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory bowel disease: eg, Crohn disease, diverticulitis",
+      "raw": "Inflammatory bowel disease: eg, Crohn disease, diverticulitis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation fibrosis",
+      "raw": "Radiation fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Tumor encasement / metastasis: cervix, endometrium, ovary, rectum, prostate, breast, lymphoma",
+      "raw": "Tumor encasement / metastasis: cervix, endometrium, ovary, rectum, prostate, breast, lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Iliac artery aneurysm → perianeurysmal fibrosis",
+      "raw": "Iliac artery aneurysm → perianeurysmal fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (extrinsic / intrinsic)",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation from calculus",
+      "raw": "Inflammation from calculus",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis, Transitional cell carcinoma, Trauma",
+      "raw": "Tuberculosis, Transitional cell carcinoma, Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis + other periureteral inflammatory process",
+      "raw": "Endometriosis + other periureteral inflammatory process",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy, Retroperitoneal fibrosis Physiologic narrowing is common and characterized by absence of proximal dilatation and rapid changeability.",
+      "raw": "Radiation therapy, Retroperitoneal fibrosis Physiologic narrowing is common and characterized by absence of proximal dilatation and rapid changeability.",
+      "frequency": "common"
+    },
+    {
+      "name": "Ongoing peristalsis → incomplete opacification resolved on delayed images",
+      "raw": "Ongoing peristalsis → incomplete opacification resolved on delayed images",
+      "frequency": null
+    },
+    {
+      "name": "Anatomic: UPJ, pelvic brim, UVJ, abrupt turn / kink",
+      "raw": "Anatomic: UPJ, pelvic brim, UVJ, abrupt turn / kink",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DDx:  Physiologic narrowing"
+}

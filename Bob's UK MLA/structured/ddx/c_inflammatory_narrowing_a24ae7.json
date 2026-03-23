@@ -1,0 +1,27 @@
+{
+  "finding": "C. INFLAMMATORY NARROWING",
+  "slug": "c_inflammatory_narrowing_a24ae7",
+  "chapter": "Passage of Meconium",
+  "source_file": "processed_clusters/passage_of_meconium/c_inflammatory_narrowing_a24ae7.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Peptic ulcer disease: significantly decreased over last 30 years due to advances in diagnosis + treatment",
+      "raw": "Peptic ulcer disease: significantly decreased over last 30 years due to advances in diagnosis + treatment",
+      "frequency": null
+    },
+    {
+      "name": "Corrosive gastritis",
+      "raw": "Corrosive gastritis",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease, sarcoidosis, syphilis, tuberculosis",
+      "raw": "Crohn disease, sarcoidosis, syphilis, tuberculosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

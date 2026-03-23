@@ -1,0 +1,27 @@
+{
+  "finding": "Dysembryoplastic Neuroepithelial Tumor (DDx)",
+  "slug": "dysembryoplastic_neuroepithelial_tumor_ddx",
+  "chapter": "Dysembryoplastic Neuroepithelial Tumor",
+  "source_file": "processed_clusters/dysembryoplastic_neuroepithelial_tumor/dysembryoplastic_neuroepithelial_tumor_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "diffuse astrocytoma",
+      "raw": "diffuse astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "ganglioglioma",
+      "raw": "ganglioglioma",
+      "frequency": null
+    },
+    {
+      "name": "oligodendroglioma",
+      "raw": "oligodendroglioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cortical mass without surrounding vasogenic edema: | hypointense on T1WI + hyperintense on T2WI | \"soap bubble\" / megagyrus appearance at cortical margin = enlargement of cortical | contrast enhancement (in 33%)"
+}

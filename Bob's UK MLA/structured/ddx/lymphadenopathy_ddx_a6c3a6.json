@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphadenopathy (DDx)",
+  "slug": "lymphadenopathy_ddx_a6c3a6",
+  "chapter": "Lymphadenopathy",
+  "source_file": "processed_clusters/lymphadenopathy/lymphadenopathy_ddx_a6c3a6.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "reactive node (symmetric cortical thickening",
+      "raw": "reactive node (symmetric cortical thickening",
+      "frequency": null
+    },
+    {
+      "name": "adjacent nodes with similar",
+      "raw": "adjacent nodes with similar",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "more than 1 feeding vessel: | hyperemic hilar blood flow | nonhilar cortical blood vessel (= entering capsule rather than lymph node | high-impedance waveform with sharp systolic high-velocity peak"
+}

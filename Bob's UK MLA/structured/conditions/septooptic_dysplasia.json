@@ -1,0 +1,31 @@
+{
+  "name": "SEPTOOPTIC DYSPLASIA",
+  "slug": "septooptic_dysplasia",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/septooptic_dysplasia.md",
+  "definition": "DE MORSIER SYNDROME rare anterior midline anomaly with",
+  "demographics": {
+    "Associated with": "schizencephaly (50%)"
+  },
+  "dominant_finding": "small optic canals",
+  "distribution": "bulbous dilatation of anterior recess of 3rd ventricle",
+  "discriminating_features": [
+    "small optic canals",
+    "hypoplasia of optic nerves + chiasm + infundibulum",
+    "dilatation of chiasmatic + suprasellar cisterns",
+    "fused dilated boxlike frontal horns squared off dorsally + pointing inferiorly",
+    "bulbous dilatation of anterior recess of 3rd ventricle"
+  ],
+  "other_features": {
+    "general": [
+      "small optic canals",
+      "hypoplasia of optic nerves + chiasm + infundibulum",
+      "dilatation of chiasmatic + suprasellar cisterns",
+      "fused dilated boxlike frontal horns squared off dorsally + pointing inferiorly",
+      "bulbous dilatation of anterior recess of 3rd ventricle",
+      "hypoplastic / absent septum pellucidum",
+      "thin corpus callosum"
+    ]
+  },
+  "clinical": {}
+}

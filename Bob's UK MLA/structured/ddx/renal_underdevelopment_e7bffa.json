@@ -1,0 +1,45 @@
+{
+  "finding": "Renal Underdevelopment",
+  "slug": "renal_underdevelopment_e7bffa",
+  "chapter": "KIDNEY",
+  "source_file": "processed_clusters/kidney/renal_underdevelopment_e7bffa.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital renal hypoplasia",
+      "raw": "Congenital renal hypoplasia",
+      "frequency": null
+    },
+    {
+      "name": "Renal agenesis",
+      "raw": "Renal agenesis",
+      "frequency": null
+    },
+    {
+      "name": "Renal dysgenesis",
+      "raw": "Renal dysgenesis",
+      "frequency": null
+    },
+    {
+      "name": "Vesicoureteral reflux",
+      "raw": "Vesicoureteral reflux",
+      "frequency": null
+    },
+    {
+      "name": "Hydronephrosis ← abnormally high insertion of ureter into renal pelvis",
+      "raw": "Hydronephrosis ← abnormally high insertion of ureter into renal pelvis",
+      "frequency": null
+    },
+    {
+      "name": "Hypospadia [Contralateral renal agenesis]",
+      "raw": "Hypospadia (common)",
+      "frequency": "common",
+      "sites": [
+        "Contralateral renal agenesis"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "Renal Ectopia Normal location of kidneys: 1st-3rd lumbar vertebra Prevalence:   0.2% (autopsy series) Cause:    failure of kidney to ascend by 8 weeks GA At risk of:   infection, calculi, hydronephrosis ← UPJ obstruction √  unusual developmental \"funny-looking calyces\" often misinterpreted as obstructive √  loop-to-loop colon = abnormal looped configuration of colon occupying the renal fossa LONGITUDINAL RENAL ECTOPIA Location:   pelvic, sacral, lower lumbar level, intrathoracic; L > R √  must demonstrate aberrant arteries DDx:   displacement through diaphragmatic hernia (nonaberrant); hypermo"
+}

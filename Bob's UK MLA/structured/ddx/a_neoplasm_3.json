@@ -1,0 +1,27 @@
+{
+  "finding": "A. NEOPLASM",
+  "slug": "a_neoplasm_3",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/a_neoplasm_3.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Secondary breast lymphoma ◊  Bilateral axillary lymphadenopathy is suggestive of lymphoproliferative disease!",
+      "raw": "Secondary breast lymphoma ◊  Bilateral axillary lymphadenopathy is suggestive of lymphoproliferative disease!",
+      "frequency": null
+    },
+    {
+      "name": "Other neoplasms",
+      "raw": "Other neoplasms",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "D. TEMPORAL BONE TUMORS (31%",
+  "slug": "d_temporal_bone_tumors_31",
+  "chapter": "Pulsatile tinnitus ± Vascular Tympanic Membrane",
+  "source_file": "processed_clusters/pulsatile_tinnitus_vascular_tympanic_membrane/d_temporal_bone_tumors_31.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Paraganglioma (27%):",
+      "raw": "Paraganglioma (27%):",
+      "frequency": "27%"
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "glomus tympanicum, glomus jugulare"
+}

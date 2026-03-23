@@ -1,0 +1,27 @@
+{
+  "finding": "B. SARCOMA",
+  "slug": "b_sarcoma",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/b_sarcoma.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Liposarcoma",
+      "raw": "Liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Dermatofibrosarcoma",
+      "raw": "Dermatofibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Pleomorphic hyalinizing angiectatic tumor",
+      "raw": "Pleomorphic hyalinizing angiectatic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

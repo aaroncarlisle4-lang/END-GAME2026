@@ -1,0 +1,27 @@
+{
+  "finding": "Tumoral Calcinosis — Eye (DDx)",
+  "slug": "tumoral_calcinosis_eye_ddx_b27360",
+  "chapter": "Tumoral Calcinosis",
+  "source_file": "processed_clusters/tumoral_calcinosis/tumoral_calcinosis_eye_ddx_b27360.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic renal failure on hemodialysis",
+      "raw": "Chronic renal failure on hemodialysis",
+      "frequency": null
+    },
+    {
+      "name": "calcinosis universalis",
+      "raw": "calcinosis universalis",
+      "frequency": null
+    },
+    {
+      "name": "calcinosis circumscripta",
+      "raw": "calcinosis circumscripta",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "pulp stones = intrapulp calcifications | calcinosis cutis = skin calcifications | vascular calcifications | angioid streaks of retina"
+}

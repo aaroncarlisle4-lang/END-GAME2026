@@ -1,0 +1,27 @@
+{
+  "finding": "Variations of Pulmonary Vein Anatomy (in 38%",
+  "slug": "variations_of_pulmonary_vein_anatomy_in_38_4e535a",
+  "chapter": "Inferior Vena Cava",
+  "source_file": "processed_clusters/inferior_vena_cava/variations_of_pulmonary_vein_anatomy_in_38_4e535a.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Conjoined",
+      "raw": "Conjoined (common) left / right pulmonary vein (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Supernumerary vein ›  separate right middle pulmonary vein draining RML:",
+      "raw": "Supernumerary vein ›  separate right middle pulmonary vein draining RML:",
+      "frequency": null
+    },
+    {
+      "name": "Early branching of pulmonary vein",
+      "raw": "Early branching of pulmonary vein (< 1 cm)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  aberrant insertion with perpendicular orientation to posterior left atrial wall Mean size of ostium:   9.9 ± 1.9 mm Strong association with:   atrial fibrillation Clinical significance: LA muscle (as a focus of ectopic electrical activity) can extend into venous ostia → atrial fibrillation → treatment with radiofrequency catheter ablation Pulmonary veins contribute to the origination and maintenance of atrial fibrillation, most commonly with a focus in the left superior pulmonary vein! ◊  Alert cardiologist about variant anatomy of additional pulmonary veins prior to RF ablation!"
+}

@@ -1,0 +1,45 @@
+{
+  "finding": "Communicating = Perforating Veins",
+  "slug": "communicating_perforating_veins_5c3eba",
+  "chapter": "Superficial Veins of Lower Extremity",
+  "source_file": "processed_clusters/superficial_veins_of_lower_extremity/communicating_perforating_veins_5c3eba.md",
+  "quality_score": 0.267,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "MEDIAL",
+      "raw": "MEDIAL",
+      "frequency": null
+    },
+    {
+      "name": "Submalleolar communicating vein",
+      "raw": "Submalleolar communicating vein",
+      "frequency": null
+    },
+    {
+      "name": "Cockett group group of 3 veins located 7, 12, 18 cm above the tip of medial malleolus connecting posterior arch vein with posterior tibial vein",
+      "raw": "Cockett group group of 3 veins located 7, 12, 18 cm above the tip of medial malleolus connecting posterior arch vein with posterior tibial vein",
+      "frequency": null
+    },
+    {
+      "name": "Boyd vein located 10 cm below knee joint connecting main trunk of greater saphenous vein to posterior tibial veins",
+      "raw": "Boyd vein located 10 cm below knee joint connecting main trunk of greater saphenous vein to posterior tibial veins",
+      "frequency": null
+    },
+    {
+      "name": "Dodd group group of 1 or 2 veins passing through Hunter canal (= subsartorial canal) to join greater saphenous vein with superficial femoral vein",
+      "raw": "Dodd group group of 1 or 2 veins passing through Hunter canal (= subsartorial canal) to join greater saphenous vein with superficial femoral vein",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "MEDIAL": [],
+    "Submalleolar communicating vein": [
+      "> 100 veins in each leg"
+    ],
+    "Cockett group group of 3 veins located 7, 12, 18 cm above the tip of medial malleolus connecting posterior arch vein with posterior tibial vein": [],
+    "Boyd vein located 10 cm below knee joint connecting main trunk of greater saphenous vein to posterior tibial veins": [],
+    "Dodd group group of 1 or 2 veins passing through Hunter canal (= subsartorial canal) to join greater saphenous vein with superficial femoral vein": []
+  },
+  "context": "> 100 veins in each leg"
+}

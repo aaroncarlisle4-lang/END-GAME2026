@@ -1,0 +1,47 @@
+{
+  "finding": "E. Other",
+  "slug": "e_other",
+  "chapter": "C. Trauma",
+  "source_file": "processed_clusters/c_trauma/e_other.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fatty change",
+      "raw": "Fatty change",
+      "frequency": null
+    },
+    {
+      "name": "Simple cyst",
+      "raw": "Simple cyst",
+      "frequency": null
+    },
+    {
+      "name": "Biliary cystadenoma / biliary carcinoma",
+      "raw": "Biliary cystadenoma / biliary carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic degeneration of hepatocellular carcinoma",
+      "raw": "Cystic degeneration of hepatocellular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial / parasitic abscess",
+      "raw": "Bacterial / parasitic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic disease",
+      "raw": "Metastatic disease",
+      "frequency": null
+    },
+    {
+      "name": "Posttraumatic resolving hematoma",
+      "raw": "Posttraumatic resolving hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Solitary Cystic Lesion √   well-defined lesion with predominant near-water attenuation (0-30 HU) / signal intensity exhibiting negligible enhancement at dynamic imaging √  variability of cystic component accounts for differences in attenuation / signal intensity: (a)  liquids: serous, mucinous, bilious, hemorrhagic, proteinaceous, or mixed fluids (b)  intratumoral necrosis (c)  tissue with a high water content √   septa may contain a range of tissues including epithelium, fibrotic tissue, stroma, neoplastic tissue, inflammatory cells."
+}

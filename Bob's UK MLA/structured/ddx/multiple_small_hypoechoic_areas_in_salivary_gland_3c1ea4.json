@@ -1,0 +1,42 @@
+{
+  "finding": "Multiple Small Hypoechoic Areas in Salivary Gland",
+  "slug": "multiple_small_hypoechoic_areas_in_salivary_gland_3c1ea4",
+  "chapter": "SALIVARY GLANDS",
+  "source_file": "processed_clusters/salivary_glands/multiple_small_hypoechoic_areas_in_salivary_gland_3c1ea4.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sialadenitis: chronic / acute",
+      "raw": "Sialadenitis: chronic / acute",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease: sarcoidosis",
+      "raw": "Granulomatous disease: sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Sjögren syndrome",
+      "raw": "Sjögren syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Disseminated lymphoma",
+      "raw": "Disseminated lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases: hematogenous",
+      "raw": "Metastases: hematogenous (uncommon)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Benign lymphoepithelial lesions: HIV",
+      "raw": "Benign lymphoepithelial lesions: HIV",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

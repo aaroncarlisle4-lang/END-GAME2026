@@ -1,0 +1,57 @@
+{
+  "finding": "CHD Compatible with Relatively Long Life",
+  "slug": "chd_compatible_with_relatively_long_life",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/chd_compatible_with_relatively_long_life.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mild tetralogy: mild pulmonic stenosis + small VSD",
+      "raw": "Mild tetralogy: mild pulmonic stenosis + small VSD",
+      "frequency": null
+    },
+    {
+      "name": "Valvular pulmonic stenosis: with relatively normal pulmonary circulation",
+      "raw": "Valvular pulmonic stenosis: with relatively normal pulmonary circulation",
+      "frequency": null
+    },
+    {
+      "name": "Transposition of great vessels: some degree of pulmonic stenosis + large VSD",
+      "raw": "Transposition of great vessels: some degree of pulmonic stenosis + large VSD",
+      "frequency": null
+    },
+    {
+      "name": "Truncus arteriosus: delicate balance between systemic + pulmonary circulation",
+      "raw": "Truncus arteriosus: delicate balance between systemic + pulmonary circulation",
+      "frequency": null
+    },
+    {
+      "name": "Truncus arteriosus type IV: large systemic collaterals",
+      "raw": "Truncus arteriosus type IV: large systemic collaterals",
+      "frequency": null
+    },
+    {
+      "name": "Tricuspid atresia + transposition + pulmonic stenosis",
+      "raw": "Tricuspid atresia + transposition + pulmonic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Eisenmenger complex",
+      "raw": "Eisenmenger complex",
+      "frequency": null
+    },
+    {
+      "name": "Ebstein anomaly",
+      "raw": "Ebstein anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Corrected transposition without intracardiac shunt",
+      "raw": "Corrected transposition without intracardiac shunt",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

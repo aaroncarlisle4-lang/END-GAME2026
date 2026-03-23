@@ -1,0 +1,32 @@
+{
+  "finding": "Osteolytic Lesion without Periosteal Reaction",
+  "slug": "osteolytic_lesion_without_periosteal_reaction",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/osteolytic_lesion_without_periosteal_reaction.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "NONEXPANSILE",
+      "raw": "NONEXPANSILE",
+      "frequency": null
+    },
+    {
+      "name": "Metastases from any primary neoplasm",
+      "raw": "Metastases from any primary neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma",
+      "raw": "Multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

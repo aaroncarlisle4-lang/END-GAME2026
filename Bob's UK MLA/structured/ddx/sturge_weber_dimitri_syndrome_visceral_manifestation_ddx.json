@@ -1,0 +1,22 @@
+{
+  "finding": "Sturge-Weber-Dimitri Syndrome — VISCERAL MANIFESTATION (DDx)",
+  "slug": "sturge_weber_dimitri_syndrome_visceral_manifestation_ddx",
+  "chapter": "Sturge-Weber-Dimitri Syndrome",
+  "source_file": "processed_clusters/sturge_weber_dimitri_syndrome/sturge_weber_dimitri_syndrome_visceral_manifestation_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Klippel-Trénaunay syndrome",
+      "raw": "Klippel-Trénaunay syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Wyburn-Mason syndrome",
+      "raw": "Wyburn-Mason syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "choroidal hemangioma (71%) | dilatation and tortuosity of conjunctival + episcleral + iris + retinal vessels | buphthalmos | localized / diffuse angiomatous malformation"
+}

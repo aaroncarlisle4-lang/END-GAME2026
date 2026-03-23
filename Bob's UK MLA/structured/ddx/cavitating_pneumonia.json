@@ -1,0 +1,27 @@
+{
+  "finding": "Cavitating Pneumonia",
+  "slug": "cavitating_pneumonia",
+  "chapter": "C. RIGHT UPPER LOBE",
+  "source_file": "processed_clusters/c_right_upper_lobe/cavitating_pneumonia.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Staphylococcus aureus",
+      "raw": "Staphylococcus aureus",
+      "frequency": null
+    },
+    {
+      "name": "Haemophilus influenzae",
+      "raw": "Haemophilus influenzae",
+      "frequency": null
+    },
+    {
+      "name": "S. pneumoniae other gram-negative organisms",
+      "raw": "S. pneumoniae other gram-negative organisms (eg, Klebsiella)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

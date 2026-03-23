@@ -1,0 +1,47 @@
+{
+  "finding": "Mediastinal Mass",
+  "slug": "mediastinal_mass",
+  "chapter": "MEDIASTINUM",
+  "source_file": "processed_clusters/mediastinum/mediastinal_mass.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neurogenic tumor (28%): malignant in 16%",
+      "raw": "Neurogenic tumor (28%): malignant in 16%",
+      "frequency": "28%"
+    },
+    {
+      "name": "Teratoid lesion (19%): malignant in 15%",
+      "raw": "Teratoid lesion (19%): malignant in 15%",
+      "frequency": "19%"
+    },
+    {
+      "name": "Enterogenous cyst",
+      "raw": "Enterogenous cyst (16%)",
+      "frequency": "16%"
+    },
+    {
+      "name": "Thymoma (13%): malignant in 46%",
+      "raw": "Thymoma (13%): malignant in 46%",
+      "frequency": "13%"
+    },
+    {
+      "name": "Pericardial cyst",
+      "raw": "Pericardial cyst (7%)",
+      "frequency": "7%"
+    },
+    {
+      "name": "BENIGN MEDIASTINAL MASS ◊  66-75% of all mediastinal tumors are benign (in all age groups) ◊  88% discovered incidentally on routine chest x-ray",
+      "raw": "BENIGN MEDIASTINAL MASS ◊  66-75% of all mediastinal tumors are benign (in all age groups) ◊  88% discovered incidentally on routine chest x-ray",
+      "frequency": "75%"
+    },
+    {
+      "name": "MALIGNANT MEDIASTINAL MASS ◊  57-80% of malignant tumors are symptomatic",
+      "raw": "MALIGNANT MEDIASTINAL MASS ◊  57-80% of malignant tumors are symptomatic (pain, cough, shortness of breath)",
+      "frequency": "80%"
+    }
+  ],
+  "criteria": {},
+  "context": "(excluding hyperplastic thymus gland, granuloma, lymphoma, metastasis)"
+}

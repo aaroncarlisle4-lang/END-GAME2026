@@ -1,0 +1,47 @@
+{
+  "finding": "Subungual Tumors",
+  "slug": "subungual_tumors",
+  "chapter": "D. METABOLIC",
+  "source_file": "processed_clusters/d_metabolic/subungual_tumors.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Benign solid tumor",
+      "raw": "Benign solid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Glomus tumor",
+      "raw": "Glomus tumor",
+      "frequency": null
+    },
+    {
+      "name": "Subungual exostosis",
+      "raw": "Subungual exostosis",
+      "frequency": null
+    },
+    {
+      "name": "Soft-tissue chondroma",
+      "raw": "Soft-tissue chondroma",
+      "frequency": null
+    },
+    {
+      "name": "Keratoacanthoma",
+      "raw": "Keratoacanthoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lobular capillary hemangioma",
+      "raw": "Lobular capillary hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

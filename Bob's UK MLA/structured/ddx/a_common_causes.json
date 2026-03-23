@@ -1,0 +1,37 @@
+{
+  "finding": "A. COMMON CAUSES",
+  "slug": "a_common_causes",
+  "chapter": "AORTA",
+  "source_file": "processed_clusters/aorta/a_common_causes.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Connective tissue disorder: eg, Marfan syndrome, Ehlers-Danlos syndrome",
+      "raw": "Connective tissue disorder: eg, Marfan syndrome, Ehlers-Danlos syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Bicuspid aortic valve",
+      "raw": "Bicuspid aortic valve",
+      "frequency": null
+    },
+    {
+      "name": "Loeys-Dietz syndrome:",
+      "raw": "Loeys-Dietz syndrome:",
+      "frequency": null
+    },
+    {
+      "name": "Hypertension",
+      "raw": "Hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Atherosclerosis: aneurysm typically diffuse + fusiform; descending > ascending aorta; root typically spared",
+      "raw": "Atherosclerosis: aneurysm typically diffuse + fusiform; descending > ascending aorta; root typically spared",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "inherited autosomal dominant disorder with typically severe + widespread arterial disease Cx:   aortic dissection at small aortic diameter"
+}

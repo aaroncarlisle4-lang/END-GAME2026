@@ -1,0 +1,50 @@
+{
+  "finding": "Right Ventricle",
+  "slug": "right_ventricle",
+  "chapter": "VENTRICLES",
+  "source_file": "processed_clusters/ventricles/right_ventricle.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Heavily trabeculated apex",
+      "raw": "Heavily trabeculated apex",
+      "frequency": null
+    },
+    {
+      "name": "Well-developed infundibulum",
+      "raw": "Well-developed infundibulum",
+      "frequency": null
+    },
+    {
+      "name": "Septal papillary muscles",
+      "raw": "Septal papillary muscles",
+      "frequency": null
+    },
+    {
+      "name": "Lack of fibrous continuity of AV valve + outflow tract",
+      "raw": "Lack of fibrous continuity of AV valve + outflow tract",
+      "frequency": null
+    },
+    {
+      "name": "CHARACTERISTIC! [Left Ventricle]",
+      "raw": "CHARACTERISTIC!",
+      "frequency": null,
+      "sites": [
+        "Left Ventricle"
+      ]
+    },
+    {
+      "name": "Trabeculae:   thin, delicate, smooth septal surface",
+      "raw": "Trabeculae:   thin, delicate, smooth septal surface",
+      "frequency": null
+    },
+    {
+      "name": "Papillary muscles:   attached to free wall only",
+      "raw": "Papillary muscles:   attached to free wall only",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Trabeculae:   coarse Papillary muscles:   attached to interventricular septum + free wall; apical moderator band Differentiating features of RV (from LV): Moderator Band =  muscular band extending from interventricular septum to base of anterior papillary muscle Function:   part of right bundle branch conduction system Right Ventricular Outflow Tract (RVOT) =  smooth muscular infundibulum / conus inferior to PV In the right ventricle, trabeculae are coarse, and presence of an apical moderator band is"
+}

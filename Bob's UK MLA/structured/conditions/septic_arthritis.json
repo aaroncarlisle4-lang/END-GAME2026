@@ -1,0 +1,37 @@
+{
+  "name": "SEPTIC ARTHRITIS",
+  "slug": "septic_arthritis",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/septic_arthritis.md",
+  "definition": "",
+  "demographics": {
+    "Age": "most commonly encountered in neonates",
+    "Location": "shoulder, hip, knee, elbow, ankle; multifocal involvement common in the very young"
+  },
+  "dominant_finding": "fat-fluid level in the absence of trauma (specific)",
+  "distribution": "shoulder, hip, knee, elbow, ankle; multifocal involvement common in the very young",
+  "discriminating_features": [
+    "fat-fluid level in the absence of trauma (specific)",
+    "joint effusion",
+    "bone erosions around joint",
+    "intense enhancement of hypertrophied synovium",
+    "perisynovial edema of adjacent soft tissue"
+  ],
+  "other_features": {
+    "general": [
+      "joint effusion"
+    ],
+    "CT": [
+      "bone erosions around joint",
+      "fat-fluid level in the absence of trauma (specific)"
+    ],
+    "MR": [
+      "intense enhancement of hypertrophied synovium",
+      "perisynovial edema of adjacent soft tissue",
+      "subtle bone marrow signal alterations adjacent to articular surface: decreased on T1WI +"
+    ]
+  },
+  "clinical": {
+    "N.B.": "MEDICAL EMERGENCY = treatment necessary within 48 hours to prevent irreversible"
+  }
+}

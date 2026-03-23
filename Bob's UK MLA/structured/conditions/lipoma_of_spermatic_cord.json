@@ -1,0 +1,33 @@
+{
+  "name": "LIPOMA OF SPERMATIC CORD",
+  "slug": "lipoma_of_spermatic_cord",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/lipoma_of_spermatic_cord.md",
+  "definition": "EXTRATESTICULAR / PARATESTICULAR LIPOMA",
+  "demographics": {
+    "Frequency": "most common extratesticular tumor"
+  },
+  "dominant_finding": "homogeneous high SI on T1WI (DDx: hematoma, proteinaceous cyst)",
+  "distribution": "",
+  "discriminating_features": [
+    "homogeneous high SI on T1WI (DDx: hematoma, proteinaceous cyst)",
+    "hyperintense paratesticular mass on T2WI",
+    "india-ink = black boundary artifact and signal suppression on out-of-phase imaging",
+    "signal suppression on fat-suppressed images",
+    "well-defined homogeneous scrotal mass"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "well-defined homogeneous scrotal mass",
+      "NO internal flow on color Doppler"
+    ],
+    "MR": [
+      "homogeneous high SI on T1WI (DDx: hematoma, proteinaceous cyst)",
+      "hyperintense paratesticular mass on T2WI",
+      "india-ink = black boundary artifact and signal suppression on out-of-phase imaging",
+      "signal suppression on fat-suppressed images"
+    ]
+  },
+  "clinical": {}
+}

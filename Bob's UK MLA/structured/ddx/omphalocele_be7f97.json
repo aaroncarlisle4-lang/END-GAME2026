@@ -1,0 +1,40 @@
+{
+  "finding": "OMPHALOCELE",
+  "slug": "omphalocele_be7f97",
+  "chapter": "MACROSOMIA",
+  "source_file": "processed_clusters/macrosomia/omphalocele_be7f97.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chromosomal",
+      "raw": "Chromosomal (10-25-58%): trisomy 13, 18, 21; Turner syndrome (13% with liver in omphalocele, 77% with bowel in omphalocele)",
+      "frequency": "58%"
+    },
+    {
+      "name": "Genitourinary",
+      "raw": "Genitourinary (40%) mnemonic:   OEIS complex (= aide-mémoire acronym)",
+      "frequency": "40%"
+    },
+    {
+      "name": "Exstrophy of bladder",
+      "raw": "Exstrophy of bladder",
+      "frequency": null
+    },
+    {
+      "name": "Imperforate anus [Spinal defect]",
+      "raw": "Imperforate anus",
+      "frequency": null,
+      "sites": [
+        "Spinal defect"
+      ]
+    },
+    {
+      "name": "Cardiac (16-30-47%): VSD; ASD; tetralogy of Fallot; ectopia cordis in pentalogy of",
+      "raw": "Cardiac (16-30-47%): VSD; ASD; tetralogy of Fallot; ectopia cordis in pentalogy of",
+      "frequency": "47%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  herniation of abdominal viscera through an enlarged umbilical ring into base of umbilical cord during 3rd-4th week of GA Prevalence:   1÷4,000-5,500 pregnancies; 2-3÷10,000 live births Cause: (a)  migration failure of lateral mesodermal body folds: √  omphalocele contains liver (b)  persistence of primitive body stalk beyond 12th week MA Age:   earliest detection at 12 weeks menstrual age; diagnosis < 11-12 weeks' gestation should be made with caution Normal physiologic herniation should be < 1 cm into cord and never involve the liver. At 14 weeks follow-up bowel should have returned into a"
+}

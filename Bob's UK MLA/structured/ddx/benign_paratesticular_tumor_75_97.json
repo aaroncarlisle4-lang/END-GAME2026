@@ -1,0 +1,57 @@
+{
+  "finding": "Benign Paratesticular Tumor (75-97%",
+  "slug": "benign_paratesticular_tumor_75_97",
+  "chapter": "B. HERNIA",
+  "source_file": "processed_clusters/b_hernia/benign_paratesticular_tumor_75_97.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Spermatic cord lipoma",
+      "raw": "Spermatic cord lipoma (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Adenomatoid tumor",
+      "raw": "Adenomatoid tumor (2nd most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Fibrous pseudotumor of scrotum",
+      "raw": "Fibrous pseudotumor of scrotum (3rd)",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid inclusion cyst",
+      "raw": "Epidermoid inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Polyorchidism",
+      "raw": "Polyorchidism",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Cord fibroma =  reactive nodular proliferation of paratesticular tissue",
+      "raw": "Cord fibroma =  reactive nodular proliferation of paratesticular tissue",
+      "frequency": null
+    },
+    {
+      "name": "Papillary epididymal cystadenoma",
+      "raw": "Papillary epididymal cystadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Others: herniated omentum, adrenal rest, carcinoid, cholesteatoma Lipomas are the most common extratesticular neoplasm of the scrotum, discovered in 22% of hernia repairs.",
+      "raw": "Others: herniated omentum, adrenal rest, carcinoid, cholesteatoma Lipomas are the most common extratesticular neoplasm of the scrotum, discovered in 22% of hernia repairs.",
+      "frequency": "22%"
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   in up to 60% of patients with Von Hippel-Lindau disease √  solid mass with a few cystic spaces √  multiloculated cystic lesion with small papillary projections"
+}

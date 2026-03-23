@@ -1,0 +1,37 @@
+{
+  "finding": "DEVIATION / DISRUPTION OF AZYGOESOPHAGEAL LINE",
+  "slug": "deviation_disruption_of_azygoesophageal_line",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/deviation_disruption_of_azygoesophageal_line.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Left atrial enlargement",
+      "raw": "Left atrial enlargement",
+      "frequency": null
+    },
+    {
+      "name": "Subcarinal adenopathy",
+      "raw": "Subcarinal adenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal disease",
+      "raw": "Esophageal disease",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic cyst",
+      "raw": "Bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hiatal hernia",
+      "raw": "Hiatal hernia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

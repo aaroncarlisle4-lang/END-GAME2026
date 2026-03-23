@@ -1,0 +1,39 @@
+{
+  "name": "COMPLICATIONS OF BRAIN SURGERY",
+  "slug": "complications_of_brain_surgery",
+  "chapter": "TRIGEMINAL NEUROPATHY",
+  "source_file": "processed_clusters/disease_entries/trigeminal_neuropathy/complications_of_brain_surgery.md",
+  "definition": "EXTRACRANIAL HERNIATION herniation of brain tissue through skull defect after trauma / therapeutic craniectomy SYNDROME OF THE TREPHINED commonly following neurosurgical decompression of subdural hematoma / posterior",
+  "demographics": {
+    "Location": "fluid collection ipsilateral to craniectomy / contralateral / interhemispheric"
+  },
+  "dominant_finding": "bulging skin flap + subgaleal fluid collection",
+  "distribution": "fluid collection ipsilateral to craniectomy / contralateral / interhemispheric",
+  "discriminating_features": [
+    "bulging skin flap + subgaleal fluid collection",
+    "depressed skin flap at craniectomy site",
+    "concave deformity of adjacent brain",
+    "\"zebra\" sign = streaky curvilinear areas of increased attenuation in cerebellar sulci +",
+    "sunken skin flap"
+  ],
+  "other_features": {
+    "general": [
+      "bulging skin flap + subgaleal fluid collection",
+      "depressed skin flap at craniectomy site",
+      "concave deformity of adjacent brain",
+      "\"zebra\" sign = streaky curvilinear areas of increased attenuation in cerebellar sulci +",
+      "sunken skin flap",
+      "subfalcine / transtentorial herniation of brain away from craniectomy defect:",
+      "midline shift",
+      "compression of midbrain",
+      "effacement of basal cisterns",
+      "\"peaking\" sign = subdural air collections compress both frontal lobes",
+      "\"Mount Fuji\" sign = compression and separation of frontal lobes by air → widening of",
+      "transtentorial ± tonsillar herniation"
+    ]
+  },
+  "clinical": {
+    "Cx": "compression of cortical veins → venous infarction; contusion of brain at",
+    "Rx": "Trendelenburg position, clamping of ventricular shunt / drain, intravenous fluid,"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Markedly T2-Hyperintense Metastasis",
+  "slug": "markedly_t2_hyperintense_metastasis_ea2225",
+  "chapter": "LIPOMA OF LIVER",
+  "source_file": "processed_clusters/lipoma_of_liver/markedly_t2_hyperintense_metastasis_ea2225.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Islet cell tumor",
+      "raw": "Islet cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma",
+      "raw": "Leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Necrotic metastasis",
+      "raw": "Necrotic metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

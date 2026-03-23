@@ -1,0 +1,40 @@
+{
+  "finding": "Acquired Torticollis",
+  "slug": "acquired_torticollis",
+  "chapter": "D. NEUROLOGIC",
+  "source_file": "processed_clusters/d_neurologic/acquired_torticollis.md",
+  "quality_score": 0.5,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "TRAUMATIC",
+      "raw": "TRAUMATIC",
+      "frequency": null
+    },
+    {
+      "name": "Atlantoaxial rotary fixation",
+      "raw": "Atlantoaxial rotary fixation",
+      "frequency": null
+    },
+    {
+      "name": "Occipital condyle fracture",
+      "raw": "Occipital condyle fracture",
+      "frequency": null
+    },
+    {
+      "name": "Unilateral facet dislocation",
+      "raw": "Unilateral facet dislocation",
+      "frequency": null
+    },
+    {
+      "name": "Muscle spasm [Spinal hematoma]",
+      "raw": "Muscle spasm",
+      "frequency": null,
+      "sites": [
+        "Spinal hematoma"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

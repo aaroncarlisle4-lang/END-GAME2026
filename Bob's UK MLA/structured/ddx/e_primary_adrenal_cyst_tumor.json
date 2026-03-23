@@ -1,0 +1,47 @@
+{
+  "finding": "E. PRIMARY ADRENAL CYST / TUMOR",
+  "slug": "e_primary_adrenal_cyst_tumor",
+  "chapter": "Calcification of Pyelocaliceal System",
+  "source_file": "processed_clusters/calcification_of_pyelocaliceal_system/e_primary_adrenal_cyst_tumor.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pheochromocytoma ◊  Massive bleed ← an undiagnosed pheochromocytoma has been lethal in 50%!",
+      "raw": "Pheochromocytoma ◊  Massive bleed ← an undiagnosed pheochromocytoma has been lethal in 50%!",
+      "frequency": "50%"
+    },
+    {
+      "name": "Pseudocyst",
+      "raw": "Pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Myelolipoma",
+      "raw": "Myelolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Adrenocortical adenoma / carcinoma",
+      "raw": "Adrenocortical adenoma / carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "flank pain of sudden onset ◊  Follow-up CT may be indicated at 3 and 6 months if the source of blood remains indeterminate!",
+      "raw": "flank pain of sudden onset ◊  Follow-up CT may be indicated at 3 and 6 months if the source of blood remains indeterminate!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Surgical exploration must be considered to uncover a small renal tumor if the cause of hemorrhage is not determined radiologically! Subcapsular Hematoma √  subcapsular mass with flattening of renal parenchyma √  total resorption / formation of pseudocapsule with calcification Angio: √  avascular mass Cx:  Page kidney (ischemia, release of renin, HTN)"
+}

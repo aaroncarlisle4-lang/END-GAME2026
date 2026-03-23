@@ -1,0 +1,42 @@
+{
+  "finding": "E. IDIOPATHIC",
+  "slug": "e_idiopathic_059e26",
+  "chapter": "D. IATROGENIC",
+  "source_file": "processed_clusters/d_iatrogenic/e_idiopathic_059e26.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Usual interstitial pneumonitis",
+      "raw": "Usual interstitial pneumonitis (UIP)",
+      "frequency": null
+    },
+    {
+      "name": "Desquamative interstitial pneumonitis",
+      "raw": "Desquamative interstitial pneumonitis (DIP)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiomyomatosis",
+      "raw": "Lymphangiomyomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Pulmonary capillary hemangiomatosis",
+      "raw": "Pulmonary capillary hemangiomatosis (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "√  honeycombing in 50% √  severe volume loss in 45% √  honeycombing in 12.5% √  severe volume loss in 23% DDx:  bronchiectasis, cavitary metastases (rare)"
+}

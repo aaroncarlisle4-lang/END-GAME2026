@@ -1,0 +1,37 @@
+{
+  "finding": "BOTH benign + malignant nodules show increased uptake (= 14-40% risk for",
+  "slug": "both_benign_malignant_nodules_show_increased_uptake_14_40_risk_for",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/both_benign_malignant_nodules_show_increased_uptake_14_40_risk_for.md",
+  "quality_score": 0.733,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "THYROID ADENOMA",
+      "raw": "THYROID ADENOMA (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Adenomatous nodule",
+      "raw": "Adenomatous nodule (42-77%)",
+      "frequency": "77%"
+    },
+    {
+      "name": "Follicular adenoma",
+      "raw": "Follicular adenoma (15-40%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "Ectopic parathyroid adenoma",
+      "raw": "Ectopic parathyroid adenoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "THYROID ADENOMA": [],
+    "Adenomatous nodule": [],
+    "Follicular adenoma": [],
+    "Ectopic parathyroid adenoma": []
+  },
+  "context": "malignancy) → evaluate further with US + FNAB (e)  50% by autopsy"
+}

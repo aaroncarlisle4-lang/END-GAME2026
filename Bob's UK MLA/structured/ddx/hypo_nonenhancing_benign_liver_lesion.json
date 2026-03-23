@@ -1,0 +1,72 @@
+{
+  "finding": "Hypo- / NONENHANCING BENIGN LIVER LESION",
+  "slug": "hypo_nonenhancing_benign_liver_lesion",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/hypo_nonenhancing_benign_liver_lesion.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "\"To small to characterize\" implies unreliable density measurement ›  small metastasis = low probability ›  microabscesses = clinically obvious ›  biliary hamartoma = usually multiple",
+      "raw": "\"To small to characterize\" implies unreliable density measurement ›  small metastasis = low probability ›  microabscesses = clinically obvious ›  biliary hamartoma = usually multiple",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic cyst",
+      "raw": "Hepatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Caroli disease",
+      "raw": "Caroli disease",
+      "frequency": null
+    },
+    {
+      "name": "ADPKD",
+      "raw": "ADPKD",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid cyst",
+      "raw": "Hydatid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Biliary cystadenoma",
+      "raw": "Biliary cystadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Regenerating / dysplastic nodule",
+      "raw": "Regenerating / dysplastic nodule",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Bile duct hamartoma",
+      "raw": "Bile duct hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

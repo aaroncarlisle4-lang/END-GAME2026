@@ -1,0 +1,34 @@
+{
+  "name": "THYROID ADENOMA",
+  "slug": "thyroid_adenoma",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/thyroid_adenoma.md",
+  "definition": "COLLOID NODULE = ADENOMATOUS HYPERPLASIA DEGENERATIVE INVOLUTED NODULE monoclonal tumor arising from follicular epithelium",
+  "demographics": {
+    "Path": "single lesion with well-developed fibrous capsule"
+  },
+  "dominant_finding": "round / oval mass of low attenuation with enhancement",
+  "distribution": "",
+  "discriminating_features": [
+    "round / oval mass of low attenuation with enhancement",
+    "often multiple nodules by US / scintigraphy / surgery",
+    "mostly hypofunctioning, rarely hyperfunctioning",
+    "solid form = incompletely encapsulated, poorly demarcated nodules merging with",
+    "cystic form (= colloid cyst) = anechoic areas in nodule ← hemorrhage / colloid"
+  ],
+  "other_features": {
+    "general": [
+      "round / oval mass of low attenuation with enhancement",
+      "often multiple nodules by US / scintigraphy / surgery",
+      "mostly hypofunctioning, rarely hyperfunctioning",
+      "solid form = incompletely encapsulated, poorly demarcated nodules merging with",
+      "cystic form (= colloid cyst) = anechoic areas in nodule ← hemorrhage / colloid",
+      "calcific deposits",
+      "mass with increased / decreased echogenicity",
+      "\"halo\" sign = complete hypoechoic ring with regular border surrounding isoechoic solid"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical hemithyroidectomy (→ 15-30% risk of malignancy if diagnosed on FNAB)"
+  }
+}

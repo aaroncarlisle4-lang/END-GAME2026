@@ -1,0 +1,47 @@
+{
+  "name": "MULTIPLE BILE DUCT HAMARTOMAS",
+  "slug": "multiple_bile_duct_hamartomas",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/multiple_bile_duct_hamartomas.md",
+  "definition": "BILIARY MICROHAMARTOMAS = VON MEYENBURG COMPLEX",
+  "demographics": {
+    "Prevalence": "0.7% at autopsy, 2.8% at microscopy",
+    "Etiology": "failure of involution of embryonic interlobular bile ducts = part of fibropolycystic",
+    "Path": "communication with biliary system usually obliterated",
+    "Histo": "cluster of proliferated bile ducts lined by single layer of cuboidal cells embedded in",
+    "Size": "0.1-15 mm",
+    "Location": "random / scattered; periportal; multiple / solitary"
+  },
+  "dominant_finding": "multiple scattered round / oval / irregular hypodense lesions (44% occult on CT)",
+  "distribution": "random / scattered; periportal; multiple / solitary",
+  "discriminating_features": [
+    "nonspecific imaging appearance of small well-defined lesions",
+    "variable enhancement pattern: none / rim / slow homogeneous",
+    "multiple scattered round / oval / irregular hypodense lesions (44% occult on CT)",
+    "rim of little peripheral / no enhancement",
+    "small well-defined hypointense lesions on T1WI"
+  ],
+  "other_features": {
+    "general": [
+      "nonspecific imaging appearance of small well-defined lesions",
+      "variable enhancement pattern: none / rim / slow homogeneous"
+    ],
+    "CT": [
+      "multiple scattered round / oval / irregular hypodense lesions (44% occult on CT)",
+      "rim of little peripheral / no enhancement"
+    ],
+    "US": [
+      "multiple small cysts / echogenic areas (if size not resolved)",
+      "± comet-tail (ring-down) artifact"
+    ],
+    "MR": [
+      "small well-defined hypointense lesions on T1WI",
+      "iso- / slightly hyperintense on T2WI",
+      "no internal enhancement ± thin rim enhancement of surrounding liver parenchyma on"
+    ],
+    "ANGIO": [
+      "multiple areas of abnormal vascularity in form of small grapelike clusters persisting into"
+    ]
+  },
+  "clinical": {}
+}

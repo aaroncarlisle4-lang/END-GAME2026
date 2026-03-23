@@ -1,0 +1,37 @@
+{
+  "finding": "Progressive Massive Fibrosis Pattern",
+  "slug": "progressive_massive_fibrosis_pattern",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/progressive_massive_fibrosis_pattern.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Silicosis",
+      "raw": "Silicosis",
+      "frequency": null
+    },
+    {
+      "name": "Berylliosis",
+      "raw": "Berylliosis",
+      "frequency": null
+    },
+    {
+      "name": "Talcosis",
+      "raw": "Talcosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

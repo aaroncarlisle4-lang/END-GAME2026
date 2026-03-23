@@ -1,0 +1,52 @@
+{
+  "finding": "Associated with: postmastectomy lymphedema",
+  "slug": "associated_with_postmastectomy_lymphedema_905c98",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/associated_with_postmastectomy_lymphedema_905c98.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioendothelioma, hemangiopericytoma",
+      "raw": "Hemangioendothelioma, hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm, false aneurysm (c)  fibroblastic-myofibroblastic",
+      "raw": "Aneurysm, false aneurysm (c)  fibroblastic-myofibroblastic",
+      "frequency": null
+    },
+    {
+      "name": "Elastofibroma dorsi",
+      "raw": "Elastofibroma dorsi",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis = desmoid tumor (d)  fibrohistiocytic",
+      "raw": "Fibromatosis = desmoid tumor (d)  fibrohistiocytic",
+      "frequency": null
+    },
+    {
+      "name": "Malignant fibrous histiocytoma = undifferentiated pleomorphic sarcoma (most common soft-tissue malignancy) (e)  peripheral nerve sheath tumor",
+      "raw": "Malignant fibrous histiocytoma = undifferentiated pleomorphic sarcoma (most common soft-tissue malignancy) (e)  peripheral nerve sheath tumor",
+      "frequency": "most common"
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma (may erode ribs inferiorly with sclerotic bone reaction), neuroma, neuroblastoma",
+      "raw": "Neurofibroma (may erode ribs inferiorly with sclerotic bone reaction), neuroma, neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant PNST",
+      "raw": "Malignant PNST (5-10% of all soft-tissue sarcomas)",
+      "frequency": "10%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  usually deep seated √  fibrous mass located under serratus anterior / latissimus dorsi muscle √  \"target \"sign on T2WI (in 50-70% of neurofibromas, in 0-54% of schwannomas) √  fascicular\" sign on T2WI (in 63% of schwannomas and 25% of neurofibromas)"
+}

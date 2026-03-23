@@ -1,0 +1,95 @@
+{
+  "finding": "Lesion location + patient's age, gender, and underlying conditions help narrow the DDx.",
+  "slug": "lesion_location_patients_age_gender_and_underlying_conditions_help_narrow_the_dd",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/lesion_location_patients_age_gender_and_underlying_conditions_help_narrow_the_dd.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ependymoma 20%",
+      "raw": "Ependymoma 20%",
+      "frequency": "20%"
+    },
+    {
+      "name": "Astrocytoma 18%",
+      "raw": "Astrocytoma 18%",
+      "frequency": "18%"
+    },
+    {
+      "name": "Colloid cyst 12%",
+      "raw": "Colloid cyst 12%",
+      "frequency": "12%"
+    },
+    {
+      "name": "Meningioma 11%",
+      "raw": "Meningioma 11%",
+      "frequency": "11%"
+    },
+    {
+      "name": "Choroid plexus neoplasm 7%",
+      "raw": "Choroid plexus neoplasm 7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "Epidermoid / dermoid 6%",
+      "raw": "Epidermoid / dermoid 6%",
+      "frequency": "6%"
+    },
+    {
+      "name": "Craniopharyngioma 6%",
+      "raw": "Craniopharyngioma 6%",
+      "frequency": "6%"
+    },
+    {
+      "name": "Medulloblastoma 5%",
+      "raw": "Medulloblastoma 5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "Cysticercosis 5%",
+      "raw": "Cysticercosis 5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "Arachnoid cyst 4%",
+      "raw": "Arachnoid cyst 4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Subependymoma 2%",
+      "raw": "Subependymoma 2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "AVM 2%",
+      "raw": "AVM 2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Teratoma 1%",
+      "raw": "Teratoma 1%",
+      "frequency": "1%"
+    },
+    {
+      "name": "Central neurocytoma 0.5%",
+      "raw": "Central neurocytoma 0.5%",
+      "frequency": "0.5%"
+    },
+    {
+      "name": "Metastasis [Central neurocytoma]",
+      "raw": "Metastasis",
+      "frequency": null,
+      "sites": [
+        "Central neurocytoma"
+      ]
+    },
+    {
+      "name": "Oligodendroglioma",
+      "raw": "Oligodendroglioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   10% of all intracranial neoplasms"
+}

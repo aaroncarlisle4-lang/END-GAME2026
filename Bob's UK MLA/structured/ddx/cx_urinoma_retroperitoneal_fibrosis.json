@@ -1,0 +1,39 @@
+{
+  "finding": "Cx: urinoma, retroperitoneal fibrosis",
+  "slug": "cx_urinoma_retroperitoneal_fibrosis",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/collecting_system/cx_urinoma_retroperitoneal_fibrosis.md",
+  "quality_score": 0.733,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Pyelointerstitial backflow =  contrast flow from pyramids into subcapsular tubules",
+      "raw": "Pyelointerstitial backflow =  contrast flow from pyramids into subcapsular tubules",
+      "frequency": null
+    },
+    {
+      "name": "Pyelolymphatic backflow =  contrast extravasation into periforniceal + peripelvic lymphatics",
+      "raw": "Pyelolymphatic backflow =  contrast extravasation into periforniceal + peripelvic lymphatics",
+      "frequency": null
+    },
+    {
+      "name": "Pyelovenous backflow =  forniceal rupture into interlobar / arcuate veins; rare",
+      "raw": "Pyelovenous backflow =  forniceal rupture into interlobar / arcuate veins; rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "OBSTRUCTIVE UROPATHY",
+      "raw": "OBSTRUCTIVE UROPATHY",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Pyelointerstitial backflow =  contrast flow from pyramids into subcapsular tubules": [],
+    "Pyelolymphatic backflow =  contrast extravasation into periforniceal + peripelvic lymphatics": [
+      "visualization of small lymphatics draining medially Widened Collecting System & Ureter Fetal pyelectasis: AP diameter of renal pelvis  < 5 mm  < 20 weeks MA < 8 mm  20-30 weeks MA < 10 mm  > 30 weeks MA"
+    ],
+    "Pyelovenous backflow =  forniceal rupture into interlobar / arcuate veins; rare": [],
+    "OBSTRUCTIVE UROPATHY": []
+  },
+  "context": "√  visualization of small lymphatics draining medially Widened Collecting System & Ureter Fetal pyelectasis: AP diameter of renal pelvis  < 5 mm  < 20 weeks MA < 8 mm  20-30 weeks MA < 10 mm  > 30 weeks MA"
+}

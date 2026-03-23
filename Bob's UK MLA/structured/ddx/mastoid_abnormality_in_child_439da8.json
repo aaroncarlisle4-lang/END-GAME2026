@@ -1,0 +1,32 @@
+{
+  "finding": "Mastoid Abnormality in Child",
+  "slug": "mastoid_abnormality_in_child_439da8",
+  "chapter": "D. PETROUS APEX",
+  "source_file": "processed_clusters/d_petrous_apex/mastoid_abnormality_in_child_439da8.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute otitis media",
+      "raw": "Acute otitis media",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic disease: most commonly neuroblastoma",
+      "raw": "Metastatic disease: most commonly neuroblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

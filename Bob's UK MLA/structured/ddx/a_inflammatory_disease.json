@@ -1,0 +1,27 @@
+{
+  "finding": "A. INFLAMMATORY DISEASE",
+  "slug": "a_inflammatory_disease",
+  "chapter": "Spectrum of Orbital Disorders",
+  "source_file": "processed_clusters/spectrum_of_orbital_disorders/a_inflammatory_disease.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tissue-specific inflammation:",
+      "raw": "Tissue-specific inflammation:",
+      "frequency": null
+    },
+    {
+      "name": "Panophthalmitis",
+      "raw": "Panophthalmitis",
+      "frequency": null
+    },
+    {
+      "name": "Pseudotumor of orbit",
+      "raw": "Pseudotumor of orbit",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "orbital cellulitis, optic neuritis, scleritis, myositis, Graves disease"
+}

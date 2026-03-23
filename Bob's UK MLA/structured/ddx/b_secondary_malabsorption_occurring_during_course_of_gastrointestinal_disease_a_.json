@@ -1,0 +1,72 @@
+{
+  "finding": "B. SECONDARY MALABSORPTION = occurring during course of gastrointestinal disease (a) enteric",
+  "slug": "b_secondary_malabsorption_occurring_during_course_of_gastrointestinal_disease_a_",
+  "chapter": "B. HYPERTROPHIED GASTRIC RUGAE",
+  "source_file": "processed_clusters/b_hypertrophied_gastric_rugae/b_secondary_malabsorption_occurring_during_course_of_gastrointestinal_disease_a_.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Whipple disease",
+      "raw": "Whipple disease",
+      "frequency": null
+    },
+    {
+      "name": "Parasites: hookworm, Giardia, fish tapeworm",
+      "raw": "Parasites: hookworm, Giardia, fish tapeworm",
+      "frequency": null
+    },
+    {
+      "name": "Mechanical defects: fistulas, blind loops, adhesions, volvulus, short circuits",
+      "raw": "Mechanical defects: fistulas, blind loops, adhesions, volvulus, short circuits",
+      "frequency": null
+    },
+    {
+      "name": "Neurologic: diabetes, functional diarrhea",
+      "raw": "Neurologic: diabetes, functional diarrhea",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory: enteritis",
+      "raw": "Inflammatory: enteritis (viral, bacterial, fungal, nonspecific)",
+      "frequency": null
+    },
+    {
+      "name": "Endocrine: Zollinger-Ellison syndrome",
+      "raw": "Endocrine: Zollinger-Ellison syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Drugs: neomycin, phenindione, cathartics",
+      "raw": "Drugs: neomycin, phenindione, cathartics",
+      "frequency": null
+    },
+    {
+      "name": "Collagen disease: scleroderma, lupus, polyarteritis",
+      "raw": "Collagen disease: scleroderma, lupus, polyarteritis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Benign + malignant small bowel tumors",
+      "raw": "Benign + malignant small bowel tumors",
+      "frequency": null
+    },
+    {
+      "name": "Vascular disease",
+      "raw": "Vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "CHF, agammaglobulinemia, amyloid, abetalipoproteinemia, intestinal lymphangiectasia (b)  gastric vagotomy, gastrectomy, pyloroplasty, gastric fistula (to jejunum, ileum, colon) (c)  pancreatic pancreatitis, pancreatectomy, pancreatic cancer, cystic fibrosis (d)  hepatobiliary intra- and extrahepatic biliary obstruction, acute + chronic liver disease",
+      "raw": "CHF, agammaglobulinemia, amyloid, abetalipoproteinemia, intestinal lymphangiectasia (b)  gastric vagotomy, gastrectomy, pyloroplasty, gastric fistula (to jejunum, ileum, colon) (c)  pancreatic pancreatitis, pancreatectomy, pancreatic cancer, cystic fibrosis (d)  hepatobiliary intra- and extrahepatic biliary obstruction, acute + chronic liver disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

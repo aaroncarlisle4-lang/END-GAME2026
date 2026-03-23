@@ -1,0 +1,26 @@
+{
+  "name": "CRICOPHARYNGEAL ACHALASIA",
+  "slug": "cricopharyngeal_achalasia",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/cricopharyngeal_achalasia.md",
+  "definition": "hypertrophy of cricopharyngeus muscle (= upper esophageal sphincter) with failure of",
+  "demographics": {},
+  "dominant_finding": "distension of proximal esophagus + pharynx",
+  "distribution": "",
+  "discriminating_features": [
+    "distension of proximal esophagus + pharynx",
+    "smoothly outlined shelf- / liplike projection posteriorly at level of cricoid (=",
+    "barium may overflow into larynx + trachea"
+  ],
+  "other_features": {
+    "general": [
+      "distension of proximal esophagus + pharynx",
+      "smoothly outlined shelf- / liplike projection posteriorly at level of cricoid (=",
+      "barium may overflow into larynx + trachea"
+    ]
+  },
+  "clinical": {
+    "Cx": "Zenker diverticulum",
+    "Rx": "cricopharyngeal myotomy"
+  }
+}

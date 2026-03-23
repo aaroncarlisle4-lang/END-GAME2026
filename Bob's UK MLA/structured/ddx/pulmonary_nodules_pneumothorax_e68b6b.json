@@ -1,0 +1,27 @@
+{
+  "finding": "Pulmonary Nodules & Pneumothorax",
+  "slug": "pulmonary_nodules_pneumothorax_e68b6b",
+  "chapter": "E. BRONCHIECTASIS",
+  "source_file": "processed_clusters/e_bronchiectasis/pulmonary_nodules_pneumothorax_e68b6b.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytosis",
+      "raw": "Histiocytosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

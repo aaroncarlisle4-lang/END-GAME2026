@@ -1,0 +1,22 @@
+{
+  "finding": "Sprue — Structural extraintestinal changes (DDx)",
+  "slug": "sprue_structural_extraintestinal_changes_ddx",
+  "chapter": "Sprue",
+  "source_file": "processed_clusters/sprue/sprue_structural_extraintestinal_changes_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "enteropathy-associated T-cell lymphoma (may coexist",
+      "raw": "enteropathy-associated T-cell lymphoma (may coexist",
+      "frequency": null
+    },
+    {
+      "name": "impossible to differentiate)",
+      "raw": "impossible to differentiate)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "sausage appearance of small bowel ← circumferential bowel wall thickening | fold thickening + ulceration → stricture formation → intestinal obstruction"
+}

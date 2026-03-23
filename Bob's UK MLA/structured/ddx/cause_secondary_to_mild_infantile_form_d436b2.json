@@ -1,0 +1,32 @@
+{
+  "finding": "Cause: secondary to mild infantile form",
+  "slug": "cause_secondary_to_mild_infantile_form_d436b2",
+  "chapter": "HYPERPLASTIC POLYP OF COLON",
+  "source_file": "processed_clusters/hyperplastic_polyp_of_colon/cause_secondary_to_mild_infantile_form_d436b2.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "acute obstructive symptoms uncommon",
+      "raw": "acute obstructive symptoms uncommon",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "nausea, intermittent vomiting, postprandial distress, heartburn",
+      "raw": "nausea, intermittent vomiting, postprandial distress, heartburn",
+      "frequency": null
+    },
+    {
+      "name": "Peptic ulcer disease (in 50-74%) ← prolonged gastrin production ← stasis of food",
+      "raw": "Peptic ulcer disease (in 50-74%) ← prolonged gastrin production ← stasis of food",
+      "frequency": "74%"
+    },
+    {
+      "name": "Chronic gastritis",
+      "raw": "Chronic gastritis (54%)",
+      "frequency": "54%"
+    }
+  ],
+  "criteria": {},
+  "context": "Associated with: √  persistent elongation (2-4 cm) + concentric narrowing of pyloric channel √  parallel + preserved mucosal folds √  antispasmodics show no effect on narrowing √  proximal benign ulcer (74%), usually near incisura Focal Pyloric Hypertrophy =  TORUS HYPERPLASIA =  localized muscle hypertrophy on lesser curvature =  milder atypical form of HPS √  flattening of distal lesser curvature"
+}

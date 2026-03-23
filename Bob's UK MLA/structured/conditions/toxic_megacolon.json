@@ -1,0 +1,43 @@
+{
+  "name": "TOXIC MEGACOLON",
+  "slug": "toxic_megacolon",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/toxic_megacolon.md",
+  "definition": "acute transmural fulminant colitis characterized by neurogenic loss of motor tone + rapid",
+  "demographics": {},
+  "dominant_finding": "distended colon filled with large amounts of fluid + air",
+  "distribution": "",
+  "discriminating_features": [
+    "colonic ileus with marked dilatation of transverse colon > 5.5-6.0 cm ← gas influx into",
+    "few air-fluid levels",
+    "increasing caliber of colon on serial radiographs without redundancy",
+    "loss of normal colonic haustra + interhaustral folds",
+    "coarsely irregular mucosal surface"
+  ],
+  "other_features": {
+    "general": [
+      "colonic ileus with marked dilatation of transverse colon > 5.5-6.0 cm ← gas influx into",
+      "few air-fluid levels",
+      "increasing caliber of colon on serial radiographs without redundancy",
+      "loss of normal colonic haustra + interhaustral folds",
+      "coarsely irregular mucosal surface",
+      "pseudopolyposis = mucosal islands in denuded ulcerated colonic wall",
+      "pneumatosis coli"
+    ],
+    "US": [
+      "colonic dilatation >6 cm",
+      "marked decrease in colonic wall thickness to < 2 mm",
+      "increased free fluid"
+    ],
+    "CT": [
+      "distended colon filled with large amounts of fluid + air",
+      "distorted haustral pattern",
+      "irregular nodular contour of thinned wall",
+      "intramural air / small collections (= pneumatosis coli)"
+    ]
+  },
+  "clinical": {
+    "Cx": "perforation ± pneumoperitoneum; rectal carcinoma",
+    "Prognosis": "20% mortality"
+  }
+}

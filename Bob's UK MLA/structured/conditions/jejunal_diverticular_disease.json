@@ -1,0 +1,30 @@
+{
+  "name": "JEJUNAL DIVERTICULAR DISEASE",
+  "slug": "jejunal_diverticular_disease",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/jejunal_diverticular_disease.md",
+  "definition": "JEJUNAL DIVERTICULOSIS rarest form of gastrointestinal diverticular disease",
+  "demographics": {
+    "Frequency": "0.5-1.1-2.3% on UGI; 0.3-4.5% of autopsy series; M > F",
+    "Age": "6th-7th decades",
+    "Location": "80% in jejunum, 15% in ileum (usually solitary), 5% in jejunum + ileum",
+    "Size": "a few millimeters to > 10 cm"
+  },
+  "dominant_finding": "air-fluid levels in multiple diverticula",
+  "distribution": "80% in jejunum, 15% in ileum (usually solitary), 5% in jejunum + ileum",
+  "discriminating_features": [
+    "air-fluid levels in multiple diverticula",
+    "slight dilatation of intestinal loops in area of diverticula",
+    "may not fill (narrow neck / stagnant secretions)",
+    "trapped barium on delayed film after 24 hours"
+  ],
+  "other_features": {
+    "general": [
+      "air-fluid levels in multiple diverticula",
+      "slight dilatation of intestinal loops in area of diverticula",
+      "may not fill (narrow neck / stagnant secretions)",
+      "trapped barium on delayed film after 24 hours"
+    ]
+  },
+  "clinical": {}
+}

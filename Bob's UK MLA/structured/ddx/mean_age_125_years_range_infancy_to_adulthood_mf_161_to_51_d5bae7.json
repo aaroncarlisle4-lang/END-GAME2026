@@ -1,0 +1,32 @@
+{
+  "finding": "Mean age: 12.5 years (range, infancy to adulthood); M÷F = 1.6÷1 to 5÷1",
+  "slug": "mean_age_125_years_range_infancy_to_adulthood_mf_161_to_51_d5bae7",
+  "chapter": "I. MALIGNANCY",
+  "source_file": "processed_clusters/i_malignancy/mean_age_125_years_range_infancy_to_adulthood_mf_161_to_51_d5bae7.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "abdominal pain (80-90%), weight loss, steatorrhea",
+      "raw": "abdominal pain (80-90%), weight loss, steatorrhea",
+      "frequency": "90%"
+    },
+    {
+      "name": "glucose intolerance / frank diabetes mellitus",
+      "raw": "glucose intolerance / frank diabetes mellitus",
+      "frequency": null
+    },
+    {
+      "name": "Fibrocalculous pancreatic diabetes",
+      "raw": "Fibrocalculous pancreatic diabetes (within decade of onset)",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic adenocarcinoma",
+      "raw": "Pancreatic adenocarcinoma (by 45 years, responsible for 25% of deaths)",
+      "frequency": "25%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  multiple discrete dense up to 5 cm large pancreatic calculi within dilated pancreatic duct (80%) ± extension into side branches √  pancreatic atrophy (50%) Cx:"
+}

@@ -1,0 +1,20 @@
+{
+  "finding": "Vena Cava (DDx)",
+  "slug": "vena_cava_ddx",
+  "chapter": "Vena Cava",
+  "source_file": "processed_clusters/vena_cava/vena_cava_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "left gonadal v./ a. [inferior mesenteric v.]",
+      "raw": "left gonadal v./ a.",
+      "frequency": null,
+      "sites": [
+        "inferior mesenteric v."
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "inferior left renal vein receives left gonadal vein + crosses aorta posteriorly 1-2 cm | small / equal-sized left IVC formed by left iliac vein | crossover to right IVC via left renal vein / or more inferiorly | crossover usually anterior / rarely posterior to aorta"
+}

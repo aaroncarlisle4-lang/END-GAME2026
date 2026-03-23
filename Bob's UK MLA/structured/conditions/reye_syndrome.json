@@ -1,0 +1,25 @@
+{
+  "name": "REYE SYNDROME",
+  "slug": "reye_syndrome",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/reye_syndrome.md",
+  "definition": "hepatitis + encephalitis following viral upper respiratory tract infection with history of large",
+  "demographics": {
+    "Age": "in children + young adults"
+  },
+  "dominant_finding": "initially (within 2-3 days) small ventricles",
+  "distribution": "",
+  "discriminating_features": [
+    "initially (within 2-3 days) small ventricles",
+    "later progressive enlargement of lateral ventricles + sulci",
+    "markedly diminished attenuation of white matter"
+  ],
+  "other_features": {
+    "general": [
+      "initially (within 2-3 days) small ventricles",
+      "later progressive enlargement of lateral ventricles + sulci",
+      "markedly diminished attenuation of white matter"
+    ]
+  },
+  "clinical": {}
+}

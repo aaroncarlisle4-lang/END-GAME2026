@@ -1,0 +1,42 @@
+{
+  "finding": "A. NONNEOPLASTIC ENTITIES",
+  "slug": "a_nonneoplastic_entities_0c1055",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/a_nonneoplastic_entities_0c1055.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Asymmetrically enlarged jugular foramen",
+      "raw": "Asymmetrically enlarged jugular foramen",
+      "frequency": null
+    },
+    {
+      "name": "High-riding jugular bulb",
+      "raw": "High-riding jugular bulb",
+      "frequency": null
+    },
+    {
+      "name": "Dehiscent jugular bulb",
+      "raw": "Dehiscent jugular bulb",
+      "frequency": null
+    },
+    {
+      "name": "pulsatile tinnitus",
+      "raw": "pulsatile tinnitus",
+      "frequency": null
+    },
+    {
+      "name": "vascular tympanic membrane",
+      "raw": "vascular tympanic membrane",
+      "frequency": null
+    },
+    {
+      "name": "Jugular vein thrombosis",
+      "raw": "Jugular vein thrombosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  dome of bulb reaches above internal acoustic canal √  thin osseous plate separates jugular bulb from middle ear cavity (thin-section CT!) √  middle ear soft-tissue mass contiguous with jugular foramen (= jugular bulb bulges into middle ear cavity) √  absence of bony plate separating jugular bulb from posteroinferior middle ear cavity DDx:   Jugular megabulb (rises above floor of EAC but with preservation of bony plate)"
+}

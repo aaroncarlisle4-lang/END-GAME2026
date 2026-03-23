@@ -1,0 +1,47 @@
+{
+  "finding": "Benign Tumors and Tumorlike Conditions",
+  "slug": "benign_tumors_and_tumorlike_conditions",
+  "chapter": "B. HERNIA",
+  "source_file": "processed_clusters/b_hernia/benign_tumors_and_tumorlike_conditions.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Nerve sheath tumor",
+      "raw": "Nerve sheath tumor",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyofibroblastoma (AMF)-like tumor",
+      "raw": "Angiomyofibroblastoma (AMF)-like tumor",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous pseudotumor",
+      "raw": "Fibrous pseudotumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  benign mesenchymal tumors"
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "C. BENIGN TUMOR",
+  "slug": "c_benign_tumor_e95092",
+  "chapter": "E. MISCELLANEOUS",
+  "source_file": "processed_clusters/e_miscellaneous/c_benign_tumor_e95092.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenomatous tumor",
+      "raw": "Adenomatous tumor (mixed pattern type)",
+      "frequency": null
+    },
+    {
+      "name": "Glomus tumor (multiple in 10%; 8% malignant) (a)  glomus tympanicum: at cochlear promontory",
+      "raw": "Glomus tumor (multiple in 10%; 8% malignant) (a)  glomus tympanicum: at cochlear promontory",
+      "frequency": "10%"
+    },
+    {
+      "name": "Facial nerve schwannoma",
+      "raw": "Facial nerve schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying hemangioma",
+      "raw": "Ossifying hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Choristoma = ectopic mature salivary tissue",
+      "raw": "Choristoma = ectopic mature salivary tissue",
+      "frequency": null
+    },
+    {
+      "name": "Endolymphatic sac tumor",
+      "raw": "Endolymphatic sac tumor",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  intense enhancement √  no osseous destruction √  seldom erodes bone (b)  glomus jugulare: at jugular foramen √  invasion of middle ear from below √  destruction of bony roof of jugular fossa + bony spur separating vein from carotid artery"
+}

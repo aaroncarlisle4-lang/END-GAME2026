@@ -1,0 +1,32 @@
+{
+  "finding": "Antral Pad Sign",
+  "slug": "antral_pad_sign_12edad",
+  "chapter": "Gastric Atony",
+  "source_file": "processed_clusters/gastric_atony/antral_pad_sign_12edad.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pancreatic cancer in head / body",
+      "raw": "Pancreatic cancer in head / body",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis",
+      "raw": "Pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Normal / distended gallbladder",
+      "raw": "Normal / distended gallbladder (patient in RAO position)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  extrinsic impression of the posteroinferior wall of antrum Intramural-extramucosal Lesion of Stomach √  sharply delineated marginal / contour defect √  stretched folds over intact mucosa √  acute angle at margins √  may ulcerate centrally √  may become pedunculated and acquire polypoid appearance over years"
+}

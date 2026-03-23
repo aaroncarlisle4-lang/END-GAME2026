@@ -1,0 +1,37 @@
+{
+  "finding": "A. Inflammation / Infection",
+  "slug": "a_inflammation_infection_1",
+  "chapter": "RIGHT LOWER QUADRANT PAIN",
+  "source_file": "processed_clusters/right_lower_quadrant_pain/a_inflammation_infection_1.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute appendicitis A normal or even nonvisualized appendix at CT virtually allows exclusion of appendicitis",
+      "raw": "Acute appendicitis A normal or even nonvisualized appendix at CT virtually allows exclusion of appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Infectious enterocolitis",
+      "raw": "Infectious enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Neutropenic colitis",
+      "raw": "Neutropenic colitis",
+      "frequency": null
+    },
+    {
+      "name": "Diverticulitis (colon, cecum, Meckel, appendix) (a)  Colonic diverticulitis (b)  Right colonic diverticulitis (c)  Appendiceal diverticulitis (d)  Meckel diverticulitis (e)  Ileal diverticulitis",
+      "raw": "Diverticulitis (colon, cecum, Meckel, appendix) (a)  Colonic diverticulitis (b)  Right colonic diverticulitis (c)  Appendiceal diverticulitis (d)  Meckel diverticulitis (e)  Ileal diverticulitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

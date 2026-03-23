@@ -1,0 +1,45 @@
+{
+  "name": "PLEOMORPHIC ADENOMA",
+  "slug": "pleomorphic_adenoma",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/pleomorphic_adenoma.md",
+  "definition": "BENIGN MIXED TUMOR OF PAROTIS",
+  "demographics": {
+    "Frequency": "80% of all benign parotid tumors; 3rd most common tumor in pediatric parotid",
+    "Histo": "mixture of epithelial + myoepithelial cells",
+    "Age": "usually > 50 (range, 30-70) years; M < F",
+    "Location": "usually solitary + unilateral"
+  },
+  "dominant_finding": "hypointense on T1WI + hyperintense mass on T2WI",
+  "distribution": "usually solitary + unilateral",
+  "discriminating_features": [
+    "lobulated round / oval sharply marginated mass",
+    "rarely dystrophic calcifications",
+    "variable, usually mild contrast enhancement",
+    "hypointense on T1WI + hyperintense mass on T2WI",
+    "hyperintense areas in center (mucoid matrix)"
+  ],
+  "other_features": {
+    "general": [
+      "lobulated round / oval sharply marginated mass",
+      "rarely dystrophic calcifications",
+      "variable, usually mild contrast enhancement"
+    ],
+    "US": [
+      "hypo- to isoechoic well-defined lobulated mass",
+      "posterior acoustic enhancement",
+      "homogeneous well-defined tumor (if small)",
+      "less well-defined with low-density center if large (mucoid matrix, hemorrhage, necrosis)",
+      "± hyperechogenic shadowing foci of calcifications",
+      "often poor / absent / occasionally abundant vascularity"
+    ],
+    "MR": [
+      "hypointense on T1WI + hyperintense mass on T2WI",
+      "hyperintense areas in center (mucoid matrix)"
+    ]
+  },
+  "clinical": {
+    "Cx": "malignant transformation after decades (= carcinoma ex pleomorphic adenoma, typically",
+    "Rx": "facial nerve-sparing partial parotidectomy"
+  }
+}

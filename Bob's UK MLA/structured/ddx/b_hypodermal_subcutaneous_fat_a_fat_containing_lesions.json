@@ -1,0 +1,42 @@
+{
+  "finding": "B. HYPODERMAL = subcutaneous fat (a) fat-containing lesions",
+  "slug": "b_hypodermal_subcutaneous_fat_a_fat_containing_lesions",
+  "chapter": "BREAST SKIN",
+  "source_file": "processed_clusters/breast_skin/b_hypodermal_subcutaneous_fat_a_fat_containing_lesions.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Fat necrosis (b)  vascular lesions",
+      "raw": "Fat necrosis (b)  vascular lesions",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Angiolipoma",
+      "raw": "Angiolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Thrombosed vessel (c)  neurogenic",
+      "raw": "Thrombosed vessel (c)  neurogenic",
+      "frequency": null
+    },
+    {
+      "name": "Granular cell tumor (d)  lymphatic",
+      "raw": "Granular cell tumor (d)  lymphatic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

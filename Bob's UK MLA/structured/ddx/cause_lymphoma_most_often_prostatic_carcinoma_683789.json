@@ -1,0 +1,32 @@
+{
+  "finding": "Cause: lymphoma (most often), prostatic carcinoma",
+  "slug": "cause_lymphoma_most_often_prostatic_carcinoma_683789",
+  "chapter": "B. WITH SUPERIOR COMPRESSION OF BLADDER",
+  "source_file": "processed_clusters/b_with_superior_compression_of_bladder/cause_lymphoma_most_often_prostatic_carcinoma_683789.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypertrophy of iliopsoas muscles",
+      "raw": "Hypertrophy of iliopsoas muscles",
+      "frequency": null
+    },
+    {
+      "name": "Bilateral pelvic masses (a)  bilateral lymphocysts (after radical pelvic surgery) (b)  bilateral urinomas (c)  bilateral pelvic abscesses",
+      "raw": "Bilateral pelvic masses (a)  bilateral lymphocysts (after radical pelvic surgery) (b)  bilateral urinomas (c)  bilateral pelvic abscesses",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal fibrosis",
+      "raw": "Retroperitoneal fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Large iliac artery aneurysms",
+      "raw": "Large iliac artery aneurysms",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  polycyclic asymmetric compression of bladder √  medial displacement of pelvic segment of ureters √  lateral displacement of upper ureters"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "A. CYSTS",
+  "slug": "a_cysts_b7a509",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/a_cysts_b7a509.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Simple renal cyst",
+      "raw": "Simple renal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Complicated renal cyst",
+      "raw": "Complicated renal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Inherited cystic disease:",
+      "raw": "Inherited cystic disease:",
+      "frequency": null
+    },
+    {
+      "name": "Focal hydronephrosis",
+      "raw": "Focal hydronephrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  simple fluid attenuation of 0-20 HU multicystic dysplastic kidney disease (Potter type II), multilocular cystic nephroma"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "E. HEMORRHAGE",
+  "slug": "e_hemorrhage",
+  "chapter": "BREAST DENSITY",
+  "source_file": "processed_clusters/breast_density/e_hemorrhage.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Posttraumatic",
+      "raw": "Posttraumatic",
+      "frequency": null
+    },
+    {
+      "name": "Anticoagulation therapy",
+      "raw": "Anticoagulation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Bleeding diathesis",
+      "raw": "Bleeding diathesis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

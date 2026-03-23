@@ -1,0 +1,32 @@
+{
+  "finding": "Mediastinal Shift & Abnormal Aeration in Neonate",
+  "slug": "mediastinal_shift_abnormal_aeration_in_neonate",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/mediastinal_shift_abnormal_aeration_in_neonate.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "SHIFT TOWARD LUCENT LUNG",
+      "raw": "SHIFT TOWARD LUCENT LUNG",
+      "frequency": null
+    },
+    {
+      "name": "Congenital diaphragmatic hernia",
+      "raw": "Congenital diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Chylothorax",
+      "raw": "Chylothorax",
+      "frequency": null
+    },
+    {
+      "name": "Cystic adenomatoid malformation",
+      "raw": "Cystic adenomatoid malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

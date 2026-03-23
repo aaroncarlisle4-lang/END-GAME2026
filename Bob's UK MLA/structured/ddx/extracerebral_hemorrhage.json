@@ -1,0 +1,27 @@
+{
+  "finding": "Extracerebral Hemorrhage",
+  "slug": "extracerebral_hemorrhage",
+  "chapter": "HEAD TRAUMA",
+  "source_file": "processed_clusters/head_trauma/extracerebral_hemorrhage.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Subdural hematoma in adults:   dura inseparable from skull",
+      "raw": "Subdural hematoma in adults:   dura inseparable from skull",
+      "frequency": null
+    },
+    {
+      "name": "Epidural hematoma in children:   dura easily stripped away from skull",
+      "raw": "Epidural hematoma in children:   dura easily stripped away from skull",
+      "frequency": null
+    },
+    {
+      "name": "Subarachnoid hemorrhage common accompaniment to severe cerebral trauma",
+      "raw": "Subarachnoid hemorrhage common accompaniment to severe cerebral trauma",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

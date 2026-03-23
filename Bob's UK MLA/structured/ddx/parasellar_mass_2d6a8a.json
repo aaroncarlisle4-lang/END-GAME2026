@@ -1,0 +1,42 @@
+{
+  "finding": "Parasellar Mass",
+  "slug": "parasellar_mass_2d6a8a",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/parasellar_mass_2d6a8a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meningioma: tentorium cerebelli",
+      "raw": "Meningioma: tentorium cerebelli",
+      "frequency": null
+    },
+    {
+      "name": "Neurinoma",
+      "raw": "Neurinoma (III, IV, V1, V2, VI)",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: lung, breast, kidney, GI tract, spread from nasopharynx",
+      "raw": "Metastasis: lung, breast, kidney, GI tract, spread from nasopharynx",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid",
+      "raw": "Epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Carotid-cavernous fistula",
+      "raw": "Carotid-cavernous fistula",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

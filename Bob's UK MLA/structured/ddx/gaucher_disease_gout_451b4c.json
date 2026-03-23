@@ -1,0 +1,137 @@
+{
+  "finding": "Gaucher disease, Gout",
+  "slug": "gaucher_disease_gout_451b4c",
+  "chapter": "ASPHYXIATING THORACIC DYSPLASIA",
+  "source_file": "processed_clusters/asphyxiating_thoracic_dysplasia/gaucher_disease_gout_451b4c.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gaucher disease",
+      "raw": "Gaucher disease",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic (Legg-Calvé-Perthes, Köhler, Chandler)",
+      "frequency": null
+    },
+    {
+      "name": "Vasculitis",
+      "raw": "Vasculitis (SLE, polyarteritis nodosa, rheumatoid arthritis)",
+      "frequency": null
+    },
+    {
+      "name": "Environmental",
+      "raw": "Environmental (frostbite, thermal injury)",
+      "frequency": null
+    },
+    {
+      "name": "Irradiation",
+      "raw": "Irradiation",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasia",
+      "raw": "Neoplasia (-associated coagulopathy)",
+      "frequency": null
+    },
+    {
+      "name": "Fat",
+      "raw": "Fat (prolonged corticosteroid use increases marrow)",
+      "frequency": null
+    },
+    {
+      "name": "Alcoholism",
+      "raw": "Alcoholism",
+      "frequency": null
+    },
+    {
+      "name": "Renal failure + dialysis",
+      "raw": "Renal failure + dialysis",
+      "frequency": null
+    },
+    {
+      "name": "Caisson disease",
+      "raw": "Caisson disease",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma (femoral neck fracture, hip dislocation)",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease",
+      "raw": "Sickle cell disease",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic (majority of patients)",
+      "frequency": null
+    },
+    {
+      "name": "reduced range of motion; pain ← increase in intramedullary pressure ← medullary bone marrow edema Location:   femoral head (most common), humeral head, femoral condyles, proximal tibia, distal femoral metadiaphysis, distal tibial metadiaphysis, scaphoid, lunate, talus",
+      "raw": "reduced range of motion; pain ← increase in intramedullary pressure ← medullary bone marrow edema Location:   femoral head (most common), humeral head, femoral condyles, proximal tibia, distal femoral metadiaphysis, distal tibial metadiaphysis, scaphoid, lunate, talus",
+      "frequency": "most common"
+    },
+    {
+      "name": "Growth disturbances",
+      "raw": "Growth disturbances",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosarcoma (most common), malignant fibrous histiocytoma, benign cysts",
+      "raw": "Fibrosarcoma (most common), malignant fibrous histiocytoma, benign cysts",
+      "frequency": "most common"
+    },
+    {
+      "name": "Osteoarthritis",
+      "raw": "Osteoarthritis",
+      "frequency": null
+    },
+    {
+      "name": "hip / groin / thigh / knee pain; limited range of motion",
+      "raw": "hip / groin / thigh / knee pain; limited range of motion",
+      "frequency": null
+    },
+    {
+      "name": "core decompression (for grade 0-II): most successful with < 25% involvement of femoral head",
+      "raw": "core decompression (for grade 0-II): most successful with < 25% involvement of femoral head",
+      "frequency": "25%"
+    },
+    {
+      "name": "osteotomy",
+      "raw": "osteotomy (for grade 0-II)",
+      "frequency": null
+    },
+    {
+      "name": "arthroplasty / arthrodesis / total hip replacement",
+      "raw": "arthroplasty / arthrodesis / total hip replacement (for grade > III)",
+      "frequency": null
+    },
+    {
+      "name": "Transient osteoporosis of the hip = bone marrow edema syndrome",
+      "raw": "Transient osteoporosis of the hip = bone marrow edema syndrome (marked diffuse increased SI on long repetition time images + diffuse contrast enhancement, no reactive interface)",
+      "frequency": null
+    },
+    {
+      "name": "Subchondral epiphyseal insufficiency fracture",
+      "raw": "Subchondral epiphyseal insufficiency fracture (low SI band in superolateral femoral head convex toward articular surface; speckled / linear hypointense areas, focal depression of epiphyseal contour)",
+      "frequency": null
+    },
+    {
+      "name": "Spondyloarthropathy",
+      "raw": "Spondyloarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "limping, lateral bowing of leg",
+      "raw": "limping, lateral bowing of leg",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Sickle cell disease, Spontaneous osteonecrosis of knee Path: (a)  Stage of cell death: cellular ischemia / anoxia → death of hematopoietic cells (in 6-12 hours) > adipocytes > bone cells = osteoclasts and osteoblasts + osteocytes (in 12-48 hours) ◊  Chondrocytes are adapted to relatively low oxygen tension and do not become devitalized! (b)  Stage of ↑ vascularity / reparative phase (osteoclasis): trabecular resorption ← inflammatory fibrovascular infiltration + proliferation ← hyperemia mixed with areas of relatively increased trabecular density ← osteonecrosis (c)  Stage of substitution / re"
+}

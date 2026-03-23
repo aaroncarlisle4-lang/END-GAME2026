@@ -1,0 +1,62 @@
+{
+  "finding": "Tracheobronchial Tumor",
+  "slug": "tracheobronchial_tumor_6c06c4",
+  "chapter": "TRACHEA & BRONCHI",
+  "source_file": "processed_clusters/trachea_bronchi/tracheobronchial_tumor_6c06c4.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PRIMARY MALIGNANT (90%) (a)  surface epithelium",
+      "raw": "PRIMARY MALIGNANT (90%) (a)  surface epithelium",
+      "frequency": "90%"
+    },
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroendocrine tumor: carcinoid, large / small cell carcinoma (b)  salivary gland",
+      "raw": "Neuroendocrine tumor: carcinoid, large / small cell carcinoma (b)  salivary gland",
+      "frequency": null
+    },
+    {
+      "name": "Adenoid cystic carcinoma",
+      "raw": "Adenoid cystic carcinoma (2nd most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Mucoepidermoid carcinoma (c) mesenchyme",
+      "raw": "Mucoepidermoid carcinoma (c) mesenchyme",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "SECONDARY MALIGNANT (uncommon) (a)  directly invading: thyroid cancer, laryngeal cancer, lung cancer, esophageal cancer (b)  hematogenous: melanoma, breast cancer, renal cell carcinoma, colon cancer",
+      "raw": "SECONDARY MALIGNANT (uncommon) (a)  directly invading: thyroid cancer, laryngeal cancer, lung cancer, esophageal cancer (b)  hematogenous: melanoma, breast cancer, renal cell carcinoma, colon cancer",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "BENIGN (< 10%) (a)  surface epithelium: papilloma, papillomatosis, pleomorphic adenoma. oncocytoma (b)  mesenchyme: hamartoma, leiomyoma, lipoma, fibroma, neurogenic tumor",
+      "raw": "BENIGN (< 10%) (a)  surface epithelium: papilloma, papillomatosis, pleomorphic adenoma. oncocytoma (b)  mesenchyme: hamartoma, leiomyoma, lipoma, fibroma, neurogenic tumor",
+      "frequency": "10%"
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   < 0.4% of all body tumors"
+}

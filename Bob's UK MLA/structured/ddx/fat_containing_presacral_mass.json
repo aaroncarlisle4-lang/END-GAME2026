@@ -1,0 +1,37 @@
+{
+  "finding": "Fat-containing Presacral Mass",
+  "slug": "fat_containing_presacral_mass",
+  "chapter": "RETROPERITONEUM",
+  "source_file": "processed_clusters/retroperitoneum/fat_containing_presacral_mass.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipomatosis",
+      "raw": "Lipomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma: infiltrative growth",
+      "raw": "Liposarcoma: infiltrative growth",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma: younger individual",
+      "raw": "Teratoma: younger individual",
+      "frequency": null
+    },
+    {
+      "name": "Myelolipoma: elderly patient The differentiation of presacral myelolipoma from other fat-containing lesions may not always be possible with imaging alone.",
+      "raw": "Myelolipoma: elderly patient The differentiation of presacral myelolipoma from other fat-containing lesions may not always be possible with imaging alone.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

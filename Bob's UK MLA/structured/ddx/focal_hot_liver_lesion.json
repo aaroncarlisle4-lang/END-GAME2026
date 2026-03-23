@@ -1,0 +1,37 @@
+{
+  "finding": "Focal Hot Liver Lesion",
+  "slug": "focal_hot_liver_lesion",
+  "chapter": "Colloid Shift",
+  "source_file": "processed_clusters/colloid_shift/focal_hot_liver_lesion.md",
+  "quality_score": 0.533,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "IVC / SVC obstruction",
+      "raw": "IVC / SVC obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Budd-Chiari syndrome",
+      "raw": "Budd-Chiari syndrome",
+      "frequency": null
+    },
+    {
+      "name": "FNH",
+      "raw": "FNH (varying amount of Kupffer cells)",
+      "frequency": null
+    },
+    {
+      "name": "Regenerating nodules of cirrhosis",
+      "raw": "Regenerating nodules of cirrhosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "IVC / SVC obstruction": [],
+    "Budd-Chiari syndrome": [],
+    "FNH": [],
+    "Regenerating nodules of cirrhosis": []
+  },
+  "context": "√  increased perfusion of quadrate lobe located at posterior aspect of medial segment left hepatic lobe (collateral pathway via umbilical vein) √  \"increased\" perfusion of caudate lobe ← actually decrease of activity elsewhere in liver √  hot (DIAGNOSTIC) / cold / isoactive with surrounding parenchyma"
+}

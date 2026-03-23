@@ -1,0 +1,28 @@
+{
+  "name": "TESTICULAR MICROLITHIASIS",
+  "slug": "testicular_microlithiasis",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/testicular_microlithiasis.md",
+  "definition": "",
+  "demographics": {
+    "Etiology": "defect in phagocytotic activity of Sertoli cells leaving degenerated intratubular debris",
+    "Prevalence": "0.6%; 5% in asymptomatic men aged 18-35 years",
+    "Histo": "laminated concretions within lumen of seminiferous tubules"
+  },
+  "dominant_finding": "may be asymmetrically distributed, unilateral, clustered in periphery",
+  "distribution": "may be asymmetrically distributed, unilateral, clustered in periphery",
+  "discriminating_features": [
+    "1-2-mm (> 5) hyperechoic nonshadowing foci scattered throughout the parenchyma of both",
+    "may be asymmetrically distributed, unilateral, clustered in periphery"
+  ],
+  "other_features": {
+    "general": [
+      "1-2-mm (> 5) hyperechoic nonshadowing foci scattered throughout the parenchyma of both",
+      "may be asymmetrically distributed, unilateral, clustered in periphery"
+    ]
+  },
+  "clinical": {
+    "Cx": "concurrent germ cell tumor in up to 40% (21.6 x risk)",
+    "Prognosis": "the vast majority of patients with testicular microlithiasis will not develop"
+  }
+}

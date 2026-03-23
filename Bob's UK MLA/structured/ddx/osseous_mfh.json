@@ -1,0 +1,52 @@
+{
+  "finding": "Osseous MFH",
+  "slug": "osseous_mfh",
+  "chapter": "FIBROMA OF TENDON SHEATH",
+  "source_file": "processed_clusters/fibroma_of_tendon_sheath/osseous_mfh.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "painful, tender, rapidly enlarging mass",
+      "raw": "painful, tender, rapidly enlarging mass",
+      "frequency": null
+    },
+    {
+      "name": "pathologic fracture",
+      "raw": "pathologic fracture (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosarcoma",
+      "raw": "Fibrosarcoma (often with sequestrum)",
+      "frequency": null
+    },
+    {
+      "name": "Reticulum cell sarcoma",
+      "raw": "Reticulum cell sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma",
+      "raw": "Plasmacytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   5% of all primary malignant bone tumors Associated with: prior radiation therapy, bone infarcts, Paget disease, fibrous dysplasia, osteonecrosis, fibroxanthoma (= nonossifying fibroma), enchondroma, chronic osteomyelitis ◊  20% of osseous MFH arise in areas of abnormal bone! Location:   femur (45%), tibia (20%), 50% about knee; humerus (10%); ilium (10%); spine; sternum; clavicle; rarely small bones of hand + feet Site:  central metaphysis of long bones (90%); eccentric in diaphysis of long bones (10%) Size:  2.5-10 cm in diameter √  radiolucent defect with ill-defined margins √"
+}

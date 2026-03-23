@@ -1,0 +1,27 @@
+{
+  "finding": "Extraintestinal Manifestations of Crohn Disease",
+  "slug": "extraintestinal_manifestations_of_crohn_disease_e919e4",
+  "chapter": "COLONIC ATRESIA",
+  "source_file": "processed_clusters/colonic_atresia/extraintestinal_manifestations_of_crohn_disease_e919e4.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fatty infiltration of liver ← steroid therapy, hyperalimentation",
+      "raw": "Fatty infiltration of liver ← steroid therapy, hyperalimentation",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic abscess (rare): M÷F = 3÷1",
+      "raw": "Hepatic abscess (rare): M÷F = 3÷1",
+      "frequency": "rare"
+    },
+    {
+      "name": "Gallstones (15-34%): predominantly cholesterol;",
+      "raw": "Gallstones (15-34%): predominantly cholesterol;",
+      "frequency": "34%"
+    }
+  ],
+  "criteria": {},
+  "context": "@   Hepatobiliary"
+}

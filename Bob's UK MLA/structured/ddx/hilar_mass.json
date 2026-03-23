@@ -1,0 +1,47 @@
+{
+  "finding": "Hilar Mass",
+  "slug": "hilar_mass",
+  "chapter": "C. DIAPHRAGM",
+  "source_file": "processed_clusters/c_diaphragm/hilar_mass.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "LARGE PULMONARY ARTERIES",
+      "raw": "LARGE PULMONARY ARTERIES",
+      "frequency": null
+    },
+    {
+      "name": "Chronic obstructive disease: emphysema",
+      "raw": "Chronic obstructive disease: emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Chronic restrictive interstitial lung disease: idiopathic fibrosis, cystic fibrosis, rheumatoid arthritis, sarcoidosis",
+      "raw": "Chronic restrictive interstitial lung disease: idiopathic fibrosis, cystic fibrosis, rheumatoid arthritis, sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary embolic disease",
+      "raw": "Pulmonary embolic disease (acute massive / chronic)",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic pulmonary hypertension",
+      "raw": "Idiopathic pulmonary hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Left-sided heart failure + mitral stenosis",
+      "raw": "Left-sided heart failure + mitral stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Congenital heart disease with left-to-right shunt (a)  acyanotic: ASD, VSD, PDA",
+      "raw": "Congenital heart disease with left-to-right shunt (a)  acyanotic: ASD, VSD, PDA",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  enlargement of main pulmonary artery √  abrupt change in vessel caliber √  enlarged pulmonary artery compared with bronchus (in same bronchovascular bundle) √  cephalization √  enlargement of right ventricle (RAO 45°, LAO 60°) Cause: (b)  cyanotic (admixture lesions): transposition of great vessels, truncus arteriosus"
+}

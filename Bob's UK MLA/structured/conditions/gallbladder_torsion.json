@@ -1,0 +1,29 @@
+{
+  "name": "GALLBLADDER TORSION",
+  "slug": "gallbladder_torsion",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/gallbladder_torsion.md",
+  "definition": "rare cause of abdominal pain (1÷365,520 hospital admissions)",
+  "demographics": {
+    "Age": "elderly; M÷F=16%÷84%"
+  },
+  "dominant_finding": "gallbladder hydrops ← cystic duct obstruction",
+  "distribution": "ectopic anterior / inferior GB location",
+  "discriminating_features": [
+    "gallbladder wall thickening + adjacent free fluid",
+    "gallbladder hydrops ← cystic duct obstruction",
+    "ectopic anterior / inferior GB location",
+    "cystic duct to right of GB + tapering / twisting of cystic duct"
+  ],
+  "other_features": {
+    "general": [
+      "gallbladder wall thickening + adjacent free fluid",
+      "gallbladder hydrops ← cystic duct obstruction",
+      "ectopic anterior / inferior GB location",
+      "cystic duct to right of GB + tapering / twisting of cystic duct"
+    ]
+  },
+  "clinical": {
+    "Cx": "perforation ← necrosis ← impaired venous drainage"
+  }
+}

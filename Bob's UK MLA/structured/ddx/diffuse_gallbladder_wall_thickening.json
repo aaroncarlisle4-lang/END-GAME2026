@@ -1,0 +1,87 @@
+{
+  "finding": "Diffuse Gallbladder Wall Thickening",
+  "slug": "diffuse_gallbladder_wall_thickening",
+  "chapter": "Gallbladder Wall Thickening",
+  "source_file": "processed_clusters/gallbladder_wall_thickening/diffuse_gallbladder_wall_thickening.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INTRINSIC (a)  infection",
+      "raw": "INTRINSIC (a)  infection",
+      "frequency": null
+    },
+    {
+      "name": "Acute cholecystitis",
+      "raw": "Acute cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic cholecystitis",
+      "raw": "Chronic cholecystitis (10-25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Xanthogranulomatous cholecystitis",
+      "raw": "Xanthogranulomatous cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Gallbladder perforation",
+      "raw": "Gallbladder perforation",
+      "frequency": null
+    },
+    {
+      "name": "Sepsis",
+      "raw": "Sepsis",
+      "frequency": null
+    },
+    {
+      "name": "Brucellosis (b)  inflammation",
+      "raw": "Brucellosis (b)  inflammation",
+      "frequency": null
+    },
+    {
+      "name": "AIDS cholangiopathy",
+      "raw": "AIDS cholangiopathy (average of 9 mm in up to 55%)",
+      "frequency": "55%"
+    },
+    {
+      "name": "Sclerosing cholangitis",
+      "raw": "Sclerosing cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic cholecystitis (c)  tumor infiltration",
+      "raw": "Eosinophilic cholecystitis (c)  tumor infiltration",
+      "frequency": null
+    },
+    {
+      "name": "Gallbladder carcinoma",
+      "raw": "Gallbladder carcinoma (in 41% diffuse)",
+      "frequency": "41%"
+    },
+    {
+      "name": "Leukemic infiltration",
+      "raw": "Leukemic infiltration (AML)",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma (d)  others",
+      "raw": "Multiple myeloma (d)  others",
+      "frequency": null
+    },
+    {
+      "name": "Hyperplastic cholecystosis",
+      "raw": "Hyperplastic cholecystosis (in 91% diffuse)",
+      "frequency": "91%"
+    },
+    {
+      "name": "Gallbladder varices",
+      "raw": "Gallbladder varices",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  anterior wall of gallbladder > 3 mm"
+}

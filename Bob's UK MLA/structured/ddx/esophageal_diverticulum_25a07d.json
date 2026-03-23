@@ -1,0 +1,42 @@
+{
+  "finding": "Esophageal Diverticulum",
+  "slug": "esophageal_diverticulum_25a07d",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/esophageal_diverticulum_25a07d.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Zenker diverticulum",
+      "raw": "Zenker diverticulum (pharyngoesophageal)",
+      "frequency": null
+    },
+    {
+      "name": "Killian-Jamieson diverticulum",
+      "raw": "Killian-Jamieson diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Interbronchial diverticulum =  traction diverticulum =  response to pull from fibrous adhesions following lymph node infection (TB), contains all 3 esophageal layers",
+      "raw": "Interbronchial diverticulum =  traction diverticulum =  response to pull from fibrous adhesions following lymph node infection (TB), contains all 3 esophageal layers",
+      "frequency": null
+    },
+    {
+      "name": "Interaorticobronchial diverticulum =  thoracic pulsion diverticulum Location:   on left anterolateral wall between inferior border of aortic arch + upper margin of left main bronchus",
+      "raw": "Interaorticobronchial diverticulum =  thoracic pulsion diverticulum Location:   on left anterolateral wall between inferior border of aortic arch + upper margin of left main bronchus",
+      "frequency": null
+    },
+    {
+      "name": "Epiphrenic diverticulum",
+      "raw": "Epiphrenic diverticulum (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Intramural esophageal pseudodiverticulosis",
+      "raw": "Intramural esophageal pseudodiverticulosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   usually on right anterolateral wall of interbronchial segment √  calcified mediastinal nodes Location:   usually on lateral esophageal wall, right > left, in distal 10 cm √  often associated with hiatus hernia Cx:   overflow aspiration √  outpouching from mucosal glands Tracheobronchoesophageal Fistula =  ESOPHAGORESPIRATORY FISTULA Location: esophagotracheal 52-57% esophagobronchial 37-40% esophagopulmonary 3-11% CXR: √  recurrent pulmonary consolidation √  lung abscess √  pleural effusion Esophagography: ◊   Use low-osmolar hydrosoluble contrast material √   may confirm Dx + iden"
+}

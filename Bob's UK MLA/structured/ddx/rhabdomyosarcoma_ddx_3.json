@@ -1,0 +1,27 @@
+{
+  "finding": "Rhabdomyosarcoma (DDx)",
+  "slug": "rhabdomyosarcoma_ddx_3",
+  "chapter": "Rhabdomyosarcoma",
+  "source_file": "processed_clusters/rhabdomyosarcoma/rhabdomyosarcoma_ddx_3.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hydrocele",
+      "raw": "hydrocele",
+      "frequency": null
+    },
+    {
+      "name": "epididymitis",
+      "raw": "epididymitis",
+      "frequency": null
+    },
+    {
+      "name": "testicular neoplasm",
+      "raw": "testicular neoplasm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "large solid heterogeneous hypoechoic mass posterior to urinary bladder | hypervascular hypo- / hyperechoic solid mass | displacement / compression / infiltration of adjacent epididymis + testis"
+}

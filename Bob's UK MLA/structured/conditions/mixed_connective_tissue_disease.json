@@ -1,0 +1,31 @@
+{
+  "name": "MIXED CONNECTIVE TISSUE DISEASE",
+  "slug": "mixed_connective_tissue_disease",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/mixed_connective_tissue_disease.md",
+  "definition": "OVERLAP SYNDROME disorder that shares distinctive features of ≥ 2 different connective tissue diseases in same",
+  "demographics": {},
+  "dominant_finding": "interstitial lung disease (21-66%):",
+  "distribution": "",
+  "discriminating_features": [
+    "interstitial lung disease (21-66%):",
+    "groundglass opacities predominantly in lower lung fields",
+    "pulmonary arterial hypertension (in 10-45%):",
+    "pleural thickening / effusion (<10%)",
+    "pulmonary vasculitis, thromboembolism"
+  ],
+  "other_features": {
+    "general": [
+      "interstitial lung disease (21-66%):",
+      "groundglass opacities predominantly in lower lung fields",
+      "pulmonary arterial hypertension (in 10-45%):",
+      "pleural thickening / effusion (<10%)",
+      "pulmonary vasculitis, thromboembolism",
+      "alveolar hemorrhage",
+      "respiratory muscle dysfunction"
+    ]
+  },
+  "clinical": {
+    "Cx": "aspiration pneumonia ← esophageal dysmotility"
+  }
+}

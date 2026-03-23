@@ -1,0 +1,92 @@
+{
+  "finding": "Periosteal Reaction in Infant",
+  "slug": "periosteal_reaction_in_infant",
+  "chapter": "BONE OVERGROWTH",
+  "source_file": "processed_clusters/bone_overgrowth/periosteal_reaction_in_infant.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infantile cortical hyperostosis",
+      "raw": "Infantile cortical hyperostosis",
+      "frequency": null
+    },
+    {
+      "name": "Physiologic",
+      "raw": "Physiologic",
+      "frequency": null
+    },
+    {
+      "name": "Extracorporeal membrane oxygenation ›  after 6 months of age",
+      "raw": "Extracorporeal membrane oxygenation ›  after 6 months of age",
+      "frequency": null
+    },
+    {
+      "name": "Hypervitaminosis A",
+      "raw": "Hypervitaminosis A",
+      "frequency": null
+    },
+    {
+      "name": "Scurvy",
+      "raw": "Scurvy",
+      "frequency": null
+    },
+    {
+      "name": "Rickets ›  anytime during infancy",
+      "raw": "Rickets ›  anytime during infancy",
+      "frequency": null
+    },
+    {
+      "name": "Nonaccidental trauma",
+      "raw": "Nonaccidental trauma",
+      "frequency": null
+    },
+    {
+      "name": "Syphilis",
+      "raw": "Syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic neuroblastoma / leukemia",
+      "raw": "Metastatic neuroblastoma / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Prostaglandin therapy: within 40 days",
+      "raw": "Prostaglandin therapy: within 40 days",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell dactylitis",
+      "raw": "Sickle cell dactylitis",
+      "frequency": null
+    },
+    {
+      "name": "Degenerative disorder",
+      "raw": "Degenerative disorder",
+      "frequency": null
+    },
+    {
+      "name": "Seronegative arthropathies: ankylosing spondylitis, Reiter disease, psoriatic arthritis",
+      "raw": "Seronegative arthropathies: ankylosing spondylitis, Reiter disease, psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse idiopathic skeletal hyperostosis",
+      "raw": "Diffuse idiopathic skeletal hyperostosis",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis (occasionally)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  before 6 months of age DDx:  motion artifact Enthesopathy [en, Greek = in; thesis, Greek = position] Enthesis = osseous attachment of tendon composed of 4 zones, ie, tendon itself + unmineralized fibrocartilage + mineralized fibrocartilage + bone Cause: Location:  at site of tendon + ligament attachment √  bone proliferation (enthesophyte) √  calcification of tendon + ligament √  erosion"
+}

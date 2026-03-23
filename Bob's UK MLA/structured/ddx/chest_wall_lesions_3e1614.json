@@ -1,0 +1,37 @@
+{
+  "finding": "Chest Wall Lesions",
+  "slug": "chest_wall_lesions_3e1614",
+  "chapter": "CHEST WALL",
+  "source_file": "processed_clusters/chest_wall/chest_wall_lesions_3e1614.md",
+  "quality_score": 0.533,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "EXTERNAL",
+      "raw": "EXTERNAL",
+      "frequency": null
+    },
+    {
+      "name": "Cutaneous lesion: moles, neurofibroma",
+      "raw": "Cutaneous lesion: moles, neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Nipples",
+      "raw": "Nipples",
+      "frequency": null
+    },
+    {
+      "name": "Artifact",
+      "raw": "Artifact",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "EXTERNAL": [],
+    "Cutaneous lesion: moles, neurofibroma": [],
+    "Nipples": [],
+    "Artifact": []
+  },
+  "context": "√  \"incomplete border\" sign ← obtuse angle √  smooth tapering borders (tangential views) √  tumor pedicle suggests a benign tumor"
+}

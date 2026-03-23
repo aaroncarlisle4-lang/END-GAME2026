@@ -1,0 +1,27 @@
+{
+  "finding": "Sinonasal Polyposis (DDx)",
+  "slug": "sinonasal_polyposis_ddx",
+  "chapter": "Sinonasal Polyposis",
+  "source_file": "processed_clusters/sinonasal_polyposis/sinonasal_polyposis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "neoplasm",
+      "raw": "neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "mucocele",
+      "raw": "mucocele",
+      "frequency": null
+    },
+    {
+      "name": "mucus retention cyst",
+      "raw": "mucus retention cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multiple homogeneous soft-tissue masses with smooth convex borders within nasal cavity | remodeling / expansion of sinus with enlargement | thinning of bony trabeculae ± erosive changes at anterior skull base | usually peripheral / occasionally solid heterogeneous enhancement"
+}

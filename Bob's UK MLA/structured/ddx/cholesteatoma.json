@@ -1,0 +1,32 @@
+{
+  "finding": "CHOLESTEATOMA",
+  "slug": "cholesteatoma",
+  "chapter": "A. OSSEOUS / BONY SEPTATION (85-90%",
+  "source_file": "processed_clusters/a_osseous_bony_septation_85_90/cholesteatoma.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pearly white lesion diagnosed otoscopically in 95%",
+      "raw": "pearly white lesion diagnosed otoscopically in 95%",
+      "frequency": "95%"
+    },
+    {
+      "name": "Erosion of ossicular chain, scutum, mastoid bone, Körner septum",
+      "raw": "Erosion of ossicular chain, scutum, mastoid bone, Körner septum",
+      "frequency": null
+    },
+    {
+      "name": "Fluid attenuation of chronic otitis media",
+      "raw": "Fluid attenuation of chronic otitis media",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation / infection",
+      "raw": "Inflammation / infection ( NO restricted diffusion)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  KERATOMA = EPIDERMOID =  epithelium-lined sac characterized by accumulation of desquamated keratin epithelium → bone destruction by pressure + increase in osteoclastic activity Location:   middle ear cavity, other pneumatized portions of temporal bone Histo:       (a)   acellular keratin debris = content of sac (b)  matrix = biologically active sac lining consisting of ›  inner layer of keratinizing squamous epithelium ›  outer layer of subepithelial connective tissue (= perimatrix) producing proteolytic enzymes → bone resorption √  NO enhancement Cx:     (1)  Infection → malodorous dischar"
+}

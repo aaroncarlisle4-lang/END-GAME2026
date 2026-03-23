@@ -1,0 +1,32 @@
+{
+  "finding": "T1-Hyperintense Metastasis",
+  "slug": "t1_hyperintense_metastasis",
+  "chapter": "LIPOMA OF LIVER",
+  "source_file": "processed_clusters/lipoma_of_liver/t1_hyperintense_metastasis.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous carcinoma",
+      "raw": "Mucinous carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic metastasis",
+      "raw": "Hemorrhagic metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

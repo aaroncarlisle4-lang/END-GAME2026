@@ -1,0 +1,92 @@
+{
+  "finding": "HEMOCHROMATOSIS",
+  "slug": "hemochromatosis_1",
+  "chapter": "HEMANGIOPERICYTOMA",
+  "source_file": "processed_clusters/hemangiopericytoma/hemochromatosis_1.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cirrhosis",
+      "raw": "cirrhosis (frequently present at time of diagnosis)",
+      "frequency": null
+    },
+    {
+      "name": "\"bronzed diabetes\" (50%) = insulin-dependent diabetes ← excess intracellular iron reduces function of beta islet cells while reserve capacity of exocrine function is not exceeded by toxic effects of iron; skin pigmentation",
+      "raw": "\"bronzed diabetes\" (50%) = insulin-dependent diabetes ← excess intracellular iron reduces function of beta islet cells while reserve capacity of exocrine function is not exceeded by toxic effects of iron; skin pigmentation",
+      "frequency": "50%"
+    },
+    {
+      "name": "congestive cardiomyopathy ← myocardial muscle accumulates toxic levels of intracellular iron",
+      "raw": "congestive cardiomyopathy ← myocardial muscle accumulates toxic levels of intracellular iron",
+      "frequency": null
+    },
+    {
+      "name": "hypogonadism + decreased libido ← pituitary dysfunction",
+      "raw": "hypogonadism + decreased libido ← pituitary dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "slowly progressive arthritic symptoms",
+      "raw": "slowly progressive arthritic symptoms (30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "increased serum iron + ferritin level",
+      "raw": "increased serum iron + ferritin level (nonspecific)",
+      "frequency": null
+    },
+    {
+      "name": "transferrin saturation + serum ferritin assay (specific) @   Skeleton Distribution:   most commonly in hands (metacarpal heads, particularly 2nd + 3rd MCP joints), carpal (30-50%) + proximal interphalangeal joints, knees, hips, elbows",
+      "raw": "transferrin saturation + serum ferritin assay (specific) @   Skeleton Distribution:   most commonly in hands (metacarpal heads, particularly 2nd + 3rd MCP joints), carpal (30-50%) + proximal interphalangeal joints, knees, hips, elbows",
+      "frequency": "50%"
+    },
+    {
+      "name": "Phlebotomy",
+      "raw": "Phlebotomy (returns life expectancy to normal if instituted prior to complications)",
+      "frequency": null
+    },
+    {
+      "name": "Screening of family members",
+      "raw": "Screening of family members (gene can be located by human leukocyte antigen typing)",
+      "frequency": null
+    },
+    {
+      "name": "Pseudogout",
+      "raw": "Pseudogout (no arthropathy)",
+      "frequency": null
+    },
+    {
+      "name": "Psoriatic arthritis",
+      "raw": "Psoriatic arthritis (skin + nail changes)",
+      "frequency": null
+    },
+    {
+      "name": "Osteoarthritis",
+      "raw": "Osteoarthritis (predominantly distal joints in hands)",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Gout",
+      "raw": "Gout (may also have chondrocalcinosis)",
+      "frequency": null
+    },
+    {
+      "name": "ineffective erythropoiesis: thalassemia major increases demand for iron resulting in increased absorption + retention of dietary iron",
+      "raw": "ineffective erythropoiesis: thalassemia major increases demand for iron resulting in increased absorption + retention of dietary iron",
+      "frequency": null
+    },
+    {
+      "name": "Bantu siderosis = parenchymal + RES iron overload ← extensive use of iron pots for cooking",
+      "raw": "Bantu siderosis = parenchymal + RES iron overload ← extensive use of iron pots for cooking",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  excess iron deposition in tissues (hemosiderosis) resulting in tissue injury Primary / Idiopathic Hemochromatosis =  autosomal recessive genetic disorder (abnormal iron-loading gene on short arm of chromosome 6) in thalassemia, sideroblastic anemia Defect:   increased absorption + parenchymal accumulation of dietary iron Organs:   liver, pancreas, heart (parenchymal iron overload) Homozygous frequency:   1÷200; M÷F = 1÷1 Age:   > 30 years (M), usually after menopause (F); ◊  Females protected by menstruation √  generalized osteoporosis √  small subchondral cystlike rarefactions with fine ri"
+}

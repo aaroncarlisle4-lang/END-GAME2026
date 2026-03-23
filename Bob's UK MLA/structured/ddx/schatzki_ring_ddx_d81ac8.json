@@ -1,0 +1,32 @@
+{
+  "finding": "Schatzki Ring (DDx)",
+  "slug": "schatzki_ring_ddx_d81ac8",
+  "chapter": "Schatzki Ring",
+  "source_file": "processed_clusters/schatzki_ring/schatzki_ring_ddx_d81ac8.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Annular peptic stricture (usually thicker",
+      "raw": "Annular peptic stricture (usually thicker",
+      "frequency": null
+    },
+    {
+      "name": "asymmetric",
+      "raw": "asymmetric",
+      "frequency": null
+    },
+    {
+      "name": "irregular surface",
+      "raw": "irregular surface",
+      "frequency": null
+    },
+    {
+      "name": "associated with",
+      "raw": "associated with",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "best demonstrated in prone position during arrested deep inspiration with Valsalva maneuver | short esophagus + intrahiatal / intrathoracic gastric segment = sliding hiatal hernia if Schatzki"
+}

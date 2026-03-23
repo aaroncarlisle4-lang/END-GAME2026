@@ -1,0 +1,22 @@
+{
+  "finding": "Cirrhosis (DDx)",
+  "slug": "cirrhosis_ddx_1",
+  "chapter": "Cirrhosis",
+  "source_file": "processed_clusters/cirrhosis/cirrhosis_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "HCC (mass effect on liver contour and adjacent blood vessels",
+      "raw": "HCC (mass effect on liver contour and adjacent blood vessels",
+      "frequency": null
+    },
+    {
+      "name": "more nodular",
+      "raw": "more nodular",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "isoattenuating / minimally hypoattenuating on arterial phase + delayed enhancement | delayed contrast enhancement ← pooling of contrast material within edema / nonarterial | low SI on T1WI + mildly high SI on T2WI ← edema and numerous vascular spaces | hypointensity during hepatobiliary phase (70%)"
+}

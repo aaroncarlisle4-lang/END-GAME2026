@@ -1,0 +1,29 @@
+{
+  "name": "TORNWALDT CYST",
+  "slug": "tornwaldt_cyst",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/tornwaldt_cyst.md",
+  "definition": "midline congenital pouch / cyst lined by ectoderm within nasopharyngeal mucosal space",
+  "demographics": {
+    "Frequency": "4% of autopsies",
+    "Peak age": "15-30 years",
+    "Location": "posterior roof of nasopharynx"
+  },
+  "dominant_finding": "smoothly marginated cystic mass of few mm to 3 cm in size",
+  "distribution": "posterior roof of nasopharynx",
+  "discriminating_features": [
+    "smoothly marginated cystic mass of few mm to 3 cm in size",
+    "low density, not enhancing",
+    "NO bone erosion"
+  ],
+  "other_features": {
+    "general": [
+      "smoothly marginated cystic mass of few mm to 3 cm in size",
+      "low density, not enhancing",
+      "NO bone erosion"
+    ]
+  },
+  "clinical": {
+    "Cx": "infection of cyst"
+  }
+}

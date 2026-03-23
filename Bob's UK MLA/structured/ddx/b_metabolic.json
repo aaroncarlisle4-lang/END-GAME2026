@@ -1,0 +1,52 @@
+{
+  "finding": "B. METABOLIC",
+  "slug": "b_metabolic",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/b_metabolic.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypopituitarism",
+      "raw": "Hypopituitarism",
+      "frequency": null
+    },
+    {
+      "name": "Hypothyroidism",
+      "raw": "Hypothyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Hypogonadism",
+      "raw": "Hypogonadism (Turner syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Cushing disease, steroid therapy",
+      "raw": "Cushing disease, steroid therapy",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus",
+      "raw": "Diabetes mellitus",
+      "frequency": null
+    },
+    {
+      "name": "Rickets",
+      "raw": "Rickets",
+      "frequency": null
+    },
+    {
+      "name": "Malnutrition",
+      "raw": "Malnutrition",
+      "frequency": null
+    },
+    {
+      "name": "Irradiation of brain",
+      "raw": "Irradiation of brain (for cerebral tumor / ALL)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

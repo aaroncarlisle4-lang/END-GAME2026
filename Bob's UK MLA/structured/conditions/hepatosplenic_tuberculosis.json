@@ -1,0 +1,31 @@
+{
+  "name": "HEPATOSPLENIC TUBERCULOSIS",
+  "slug": "hepatosplenic_tuberculosis",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/hepatosplenic_tuberculosis.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "innumerable 0.5-2.0-mm nodules",
+  "distribution": "minimal central + definite peripheral enhancement",
+  "discriminating_features": [
+    "innumerable 0.5-2.0-mm nodules",
+    "hyperechoic liver",
+    "hypoattenuating nodules + irregular ill-defined margins",
+    "minimal central + definite peripheral enhancement",
+    "T1-hypointense + T2-hyperintense nodules"
+  ],
+  "other_features": {
+    "general": [],
+    "micronodular-miliary involvement": [
+      "innumerable 0.5-2.0-mm nodules",
+      "hyperechoic liver"
+    ],
+    "macronodular involvement (uncommon)": [
+      "hypoattenuating nodules + irregular ill-defined margins",
+      "minimal central + definite peripheral enhancement",
+      "T1-hypointense + T2-hyperintense nodules",
+      "tuberculomas eventually calcify"
+    ]
+  },
+  "clinical": {}
+}

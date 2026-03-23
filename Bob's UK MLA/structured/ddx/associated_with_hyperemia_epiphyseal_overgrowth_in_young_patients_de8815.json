@@ -1,0 +1,42 @@
+{
+  "finding": "Associated with: hyperemia + epiphyseal overgrowth in young patients",
+  "slug": "associated_with_hyperemia_epiphyseal_overgrowth_in_young_patients_de8815",
+  "chapter": "TRANSIENT SYNOVITIS OF HIP",
+  "source_file": "processed_clusters/transient_synovitis_of_hip/associated_with_hyperemia_epiphyseal_overgrowth_in_young_patients_de8815.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Peripherally located (= marginal) bone erosions",
+      "raw": "Peripherally located (= marginal) bone erosions",
+      "frequency": null
+    },
+    {
+      "name": "Juxtaarticular osteoporosis",
+      "raw": "Juxtaarticular osteoporosis (DDx:   fungal disease, rheumatoid arthritis)",
+      "frequency": null
+    },
+    {
+      "name": "painless swelling of hand / foot Location:  femur, tibia, small bones of hand + foot (most common); any bone may be involved",
+      "raw": "painless swelling of hand / foot Location:  femur, tibia, small bones of hand + foot (most common); any bone may be involved",
+      "frequency": "most common"
+    },
+    {
+      "name": "Pyogenic osteomyelitis",
+      "raw": "Pyogenic osteomyelitis (no transphyseal spread)",
+      "frequency": null
+    },
+    {
+      "name": "Syphilitic dactylitis",
+      "raw": "Syphilitic dactylitis (bilateral symmetric involvement, less soft-tissue swelling and sequestration)",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis, hemoglobinopathies, hyperparathyroidism, leukemia",
+      "raw": "Sarcoidosis, hemoglobinopathies, hyperparathyroidism, leukemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Imaging findings favoring tuberculous arthritis: √  insidious onset √  minimal sclerosis √  relative absence of periosteal reaction + bone proliferation √  relative preservation of joint space in early stages Early radiographs: √  joint effusion (hip in 0%, knee in 60%, ankle in 80%) √  extensive periarticular osteopenia (deossification) adjacent to primarily weight-bearing joints √  soft tissues usually normal Late radiographs: √  small cystlike marginal erosions in non-weight-bearing line opposing one another DDx:   pyogenic arthritis (erodes articular cartilage) √  no joint space narrowing"
+}

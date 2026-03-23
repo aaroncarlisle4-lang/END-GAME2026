@@ -1,0 +1,137 @@
+{
+  "finding": "PULMONARY HYPERTENSION (pHTN",
+  "slug": "pulmonary_hypertension_phtn_d4978a",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/pulmonary_hypertension_phtn_d4978a.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PRECAPILLARY CAUSE =  changes limited to pulmonary arterial circulation @ level of muscular arteries",
+      "raw": "PRECAPILLARY CAUSE =  changes limited to pulmonary arterial circulation @ level of muscular arteries",
+      "frequency": null
+    },
+    {
+      "name": "Chronic thromboembolic pulmonary disease as a complication of single or multiple undiagnosed (? %) / diagnosed (4%) acute symptomatic pulmonary thromboembolic events",
+      "raw": "Chronic thromboembolic pulmonary disease as a complication of single or multiple undiagnosed (? %) / diagnosed (4%) acute symptomatic pulmonary thromboembolic events",
+      "frequency": "4%"
+    },
+    {
+      "name": "In-situ pulmonary arterial thrombotic disease",
+      "raw": "In-situ pulmonary arterial thrombotic disease (polycythemia, sickle-cell disease)",
+      "frequency": null
+    },
+    {
+      "name": "Widespread pulmonary embolism by intravascular (a)  malignant cells (= tumor emboli) in cancer of kidney, liver, stomach, breast,",
+      "raw": "Widespread pulmonary embolism by intravascular (a)  malignant cells (= tumor emboli) in cancer of kidney, liver, stomach, breast,",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary vasculitis: eg, collagen vascular disease (especially scleroderma), CREST,",
+      "raw": "Pulmonary vasculitis: eg, collagen vascular disease (especially scleroderma), CREST,",
+      "frequency": null
+    },
+    {
+      "name": "Longstanding cardiac L-to-R shunt = Eisenmenger syndrome with reversal into R-to-L shunt: VSD (in 10%), ASD (in 5%), PDA, TGV",
+      "raw": "Longstanding cardiac L-to-R shunt = Eisenmenger syndrome with reversal into R-to-L shunt: VSD (in 10%), ASD (in 5%), PDA, TGV",
+      "frequency": "10%"
+    },
+    {
+      "name": "Alveolar hypoventilation syndromes",
+      "raw": "Alveolar hypoventilation syndromes",
+      "frequency": null
+    },
+    {
+      "name": "Primary pHTN",
+      "raw": "Primary pHTN (idiopathic)",
+      "frequency": null
+    },
+    {
+      "name": "PULMONARY PARENCHYMAL DISEASE =  mechanical interference with small pulmonary arteries (classified under precapillary cause) (a)  hypoxic lung disease:",
+      "raw": "PULMONARY PARENCHYMAL DISEASE =  mechanical interference with small pulmonary arteries (classified under precapillary cause) (a)  hypoxic lung disease:",
+      "frequency": null
+    },
+    {
+      "name": "Chronic obstructive pulmonary disease",
+      "raw": "Chronic obstructive pulmonary disease",
+      "frequency": null
+    },
+    {
+      "name": "Interstitial pulmonary fibrosis",
+      "raw": "Interstitial pulmonary fibrosis (in 46% PAH)",
+      "frequency": "46%"
+    },
+    {
+      "name": "Ventilatory failure ← thoracic cage deformity (kyphoscoliosis, thoracoplasty, restrictive pleural disease), diaphragmatic disorder, neuromuscular disease, spinal cord injury (b)  connective tissue disorder:",
+      "raw": "Ventilatory failure ← thoracic cage deformity (kyphoscoliosis, thoracoplasty, restrictive pleural disease), diaphragmatic disorder, neuromuscular disease, spinal cord injury (b)  connective tissue disorder:",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma (PAH in 12%)",
+      "frequency": "12%"
+    },
+    {
+      "name": "CREST variant of scleroderma",
+      "raw": "CREST variant of scleroderma (calcinosis, Raynaud phenomenon, esophageal motility disorder, sclerodactyly, telangiectasia)",
+      "frequency": null
+    },
+    {
+      "name": "Polymyositis, dermatomyositis, systemic lupus erythematosus, rheumatoid arthritis (c)  infection:",
+      "raw": "Polymyositis, dermatomyositis, systemic lupus erythematosus, rheumatoid arthritis (c)  infection:",
+      "frequency": null
+    },
+    {
+      "name": "HIV",
+      "raw": "HIV (6-12 x compared to general population)",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "POSTCAPILLARY CAUSE =  PULMONARY VENOUS HYPERTENSION =  findings located in pulmonary venous circulation + between capillary bed and left atrium",
+      "raw": "POSTCAPILLARY CAUSE =  PULMONARY VENOUS HYPERTENSION =  findings located in pulmonary venous circulation + between capillary bed and left atrium",
+      "frequency": null
+    },
+    {
+      "name": "Elevated left atrial pressure: usually MV disease, chronic left heart failure, left atrial tumor / thrombus",
+      "raw": "Elevated left atrial pressure: usually MV disease, chronic left heart failure, left atrial tumor / thrombus",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosing mediastinitis → narrowing of pulmonary veins, which may also affect precapillary vessels",
+      "raw": "Fibrosing mediastinitis → narrowing of pulmonary veins, which may also affect precapillary vessels",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary venoocclusive disease: idiopathic",
+      "raw": "Pulmonary venoocclusive disease: idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary capillary hemangiomatosis",
+      "raw": "Pulmonary capillary hemangiomatosis",
+      "frequency": null
+    },
+    {
+      "name": "often not clinically recognized until advanced stage",
+      "raw": "often not clinically recognized until advanced stage",
+      "frequency": null
+    },
+    {
+      "name": "nonspecific symptoms: exertional dyspnea, fatigue, syncope",
+      "raw": "nonspecific symptoms: exertional dyspnea, fatigue, syncope",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  sustained mean pulmonary arterial pressure of ≥ 25 mmHg at rest / > 30 mmHg with exercise =  pulmonary capillary wedge pressure ≤ 15 mmHg determined by right heart catheterization Right heart catheterization is the reference standard for pulmonary HTN because it enables direct measurement of pulmonary pressure, resistance, and cardiac output! Normal:   resting mean pulmonary artery pressure ≤ 20 mmHg Cause:   elevated precapillary pulmonary resistance + normal pulmonary venous pressure (= pulmonary wedge pressure ≤ 15 mmHg) Pathophysiology: reduction in cross-sectional area of the pulmonary"
+}

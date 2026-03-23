@@ -1,0 +1,37 @@
+{
+  "finding": "A. MALIGNANT TUMOR",
+  "slug": "a_malignant_tumor_36ccc0",
+  "chapter": "B. VASCULAR",
+  "source_file": "processed_clusters/b_vascular/a_malignant_tumor_36ccc0.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma (calcifies in 8-20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Transitional cell carcinoma",
+      "raw": "Transitional cell carcinoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Osteosarcoma of renal capsule",
+      "raw": "Osteosarcoma of renal capsule",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  calcifications generally nonperipheral, sometimes along fibrous capsule"
+}

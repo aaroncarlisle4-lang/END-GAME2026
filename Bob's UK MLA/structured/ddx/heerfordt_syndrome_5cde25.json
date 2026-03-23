@@ -1,0 +1,52 @@
+{
+  "finding": "Heerfordt Syndrome",
+  "slug": "heerfordt_syndrome_5cde25",
+  "chapter": "RHEUMATOID LUNG",
+  "source_file": "processed_clusters/rheumatoid_lung/heerfordt_syndrome_5cde25.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Parotid enlargement (6%) ◊  May be the initial and only manifestation of sarcoid",
+      "raw": "Parotid enlargement (6%) ◊  May be the initial and only manifestation of sarcoid",
+      "frequency": "6%"
+    },
+    {
+      "name": "diffuse bilateral painless enlargement",
+      "raw": "diffuse bilateral painless enlargement (10-30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "xerostomia",
+      "raw": "xerostomia",
+      "frequency": null
+    },
+    {
+      "name": "Uveitis",
+      "raw": "Uveitis",
+      "frequency": null
+    },
+    {
+      "name": "Facial nerve paralysis",
+      "raw": "Facial nerve paralysis",
+      "frequency": null
+    },
+    {
+      "name": "Parotitis",
+      "raw": "Parotitis",
+      "frequency": null
+    },
+    {
+      "name": "Uveitis",
+      "raw": "Uveitis",
+      "frequency": null
+    },
+    {
+      "name": "Fever",
+      "raw": "Fever",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Uveoparotid Fever Sarcoidosis of Other Organs @  Peripheral lymph node enlargement (30%) @  Muscle (25%): myopathy"
+}

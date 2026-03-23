@@ -1,0 +1,32 @@
+{
+  "finding": "SCHWANNOMA OF GI TRACT",
+  "slug": "schwannoma_of_gi_tract",
+  "chapter": "RETAINED GASTRIC ANTRUM",
+  "source_file": "processed_clusters/retained_gastric_antrum/schwannoma_of_gi_tract.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "usually incidental endoscopic finding",
+      "raw": "usually incidental endoscopic finding",
+      "frequency": null
+    },
+    {
+      "name": "GI bleeding, abdominal pain, obstructive symptoms",
+      "raw": "GI bleeding, abdominal pain, obstructive symptoms",
+      "frequency": null
+    },
+    {
+      "name": "Ulceration ← pressure necrosis of overlying mucosa",
+      "raw": "Ulceration ← pressure necrosis of overlying mucosa",
+      "frequency": null
+    },
+    {
+      "name": "Central necrosis ← outgrowing its blood supply",
+      "raw": "Central necrosis ← outgrowing its blood supply",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  rare benign nerve sheath tumor arising from Schwann cell Frequency:   0.2% (4%) of all (benign) gastric tumor; 2-7% of gastrointestinal mesenchymal tumors Origin:   myenteric plexus within muscularis propria of GI tract Histo:   well-circumscribed unencapsulated tumor characterized by interlacing bundles of spindle cells with wavy cigar-shaped nuclei + collagen; peripheral cuff of peritumoral lymphoid aggregates; areas of hypo- and hypercellularity (Antoni A & B) and Verocay bodies (= lining up of nuclei) are less frequent Immunohisto:   strong + diffuse stain for S-100 protein Age:   3rd-5"
+}

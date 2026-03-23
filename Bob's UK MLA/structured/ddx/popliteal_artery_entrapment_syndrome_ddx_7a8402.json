@@ -1,0 +1,27 @@
+{
+  "finding": "Popliteal Artery Entrapment Syndrome (DDx)",
+  "slug": "popliteal_artery_entrapment_syndrome_ddx_7a8402",
+  "chapter": "Popliteal Artery Entrapment Syndrome",
+  "source_file": "processed_clusters/popliteal_artery_entrapment_syndrome/popliteal_artery_entrapment_syndrome_ddx_7a8402.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cystic adventitial disease of popliteal artery",
+      "raw": "cystic adventitial disease of popliteal artery",
+      "frequency": null
+    },
+    {
+      "name": "arterial embolism",
+      "raw": "arterial embolism",
+      "frequency": null
+    },
+    {
+      "name": "premature",
+      "raw": "premature",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Doppler waveforms of posterior tibial artery diminished during muscle contractions | medial deviation of artery (29%), popliteal stenosis (11%), poststenotic dilatation (8%) | arteriography with typical medial deviation of popliteal artery before + after gastrocnemius | popliteal artery thrombosis / occlusion"
+}

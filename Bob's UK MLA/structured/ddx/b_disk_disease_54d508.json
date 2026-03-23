@@ -1,0 +1,27 @@
+{
+  "finding": "B. DISK DISEASE",
+  "slug": "b_disk_disease_54d508",
+  "chapter": "C. VASCULAR",
+  "source_file": "processed_clusters/c_vascular/b_disk_disease_54d508.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bulging disk",
+      "raw": "Bulging disk",
+      "frequency": null
+    },
+    {
+      "name": "Herniated nucleus pulposus",
+      "raw": "Herniated nucleus pulposus",
+      "frequency": null
+    },
+    {
+      "name": "Sequestered nucleus pulposus",
+      "raw": "Sequestered nucleus pulposus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

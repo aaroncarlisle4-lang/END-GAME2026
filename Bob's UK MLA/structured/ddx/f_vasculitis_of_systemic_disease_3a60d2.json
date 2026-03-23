@@ -1,0 +1,43 @@
+{
+  "finding": "F. VASCULITIS OF SYSTEMIC DISEASE",
+  "slug": "f_vasculitis_of_systemic_disease_3a60d2",
+  "chapter": "D. NEURONAL MIGRATION ANOMALY due to infection, ischemia, metabolic disorders",
+  "source_file": "processed_clusters/d_neuronal_migration_anomaly_due_to_infection_ischemia_metabolic_disorders/f_vasculitis_of_systemic_disease_3a60d2.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus (SLE)",
+      "frequency": null
+    },
+    {
+      "name": "Sjögren syndrome",
+      "raw": "Sjögren syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "APLA (antiphospholipid antibody) syndrome",
+      "raw": "APLA (antiphospholipid antibody) syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Systemic lupus erythematosus": [],
+    "Sjögren syndrome": [],
+    "Rheumatoid arthritis": [],
+    "APLA (antiphospholipid antibody) syndrome": [],
+    "Scleroderma": []
+  },
+  "context": "√  subcortical + periventricular white matter hyperintensity (60%) √  cerebral atrophy (30%), intracranial hemorrhage (3%) √  extensive white + gray matter lesions + microbleeds √  pachymeningitis with leptomeningeal enhancement √  cerebral vasculitis (rare) √  arterial / venous thrombosis, thrombocytopenia √  nonspecific infarction, macro- and microhemorrhages"
+}

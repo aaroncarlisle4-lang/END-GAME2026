@@ -1,0 +1,37 @@
+{
+  "finding": "B. RELATIVE › fat (= macroscopic intratumoral fat",
+  "slug": "b_relative_fat_macroscopic_intratumoral_fat",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/b_relative_fat_macroscopic_intratumoral_fat.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatocellular adenoma",
+      "raw": "Hepatocellular adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Focal nodular hyperplasia",
+      "raw": "Focal nodular hyperplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

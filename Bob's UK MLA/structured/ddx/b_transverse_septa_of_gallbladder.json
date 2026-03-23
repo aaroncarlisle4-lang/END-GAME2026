@@ -1,0 +1,52 @@
+{
+  "finding": "B. TRANSVERSE SEPTA OF GALLBLADDER",
+  "slug": "b_transverse_septa_of_gallbladder",
+  "chapter": "Size of Liver",
+  "source_file": "processed_clusters/size_of_liver/b_transverse_septa_of_gallbladder.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Isolated transverse septum",
+      "raw": "Isolated transverse septum",
+      "frequency": null
+    },
+    {
+      "name": "Phrygian cap (2-6% of population) =  kinking / folding of fundus ± septum",
+      "raw": "Phrygian cap (2-6% of population) =  kinking / folding of fundus ± septum",
+      "frequency": "6%"
+    },
+    {
+      "name": "Multiseptated gallbladder",
+      "raw": "Multiseptated gallbladder (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "GALLBLADDER DIVERTICULUM =  persistence of cystohepatic duct",
+      "raw": "GALLBLADDER DIVERTICULUM =  persistence of cystohepatic duct",
+      "frequency": null
+    },
+    {
+      "name": "beneath the left lobe of the liver >",
+      "raw": "beneath the left lobe of the liver >",
+      "frequency": null
+    },
+    {
+      "name": "intrahepatic >",
+      "raw": "intrahepatic >",
+      "frequency": null
+    },
+    {
+      "name": "retrohepatic rare locations:",
+      "raw": "retrohepatic rare locations:",
+      "frequency": "rare"
+    },
+    {
+      "name": "within falciform ligament, (5) within interlobar fissure, (6) suprahepatic (lodged between superior surface of right hepatic lobe + anterior chest wall), (7) within anterior abdominal wall, (8) transverse mesocolon, (9) retrorenal, (10) near posterior spine +",
+      "raw": "within falciform ligament, (5) within interlobar fissure, (6) suprahepatic (lodged between superior surface of right hepatic lobe + anterior chest wall), (7) within anterior abdominal wall, (8) transverse mesocolon, (9) retrorenal, (10) near posterior spine +",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  multiple cystlike compartments connected by small pores Cx:   stasis + stone formation Gallbladder Ectopia most frequent locations: IVC, (11) intrathoracic GB (← inversion of liver) Associated with:   eventration of diaphragm \"FLOATING GB\" =  gallbladder with loose peritoneal reflections, may herniate through foramen of Winsløw into lesser sac"
+}

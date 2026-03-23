@@ -1,0 +1,45 @@
+{
+  "finding": "Hyperinflation in Child",
+  "slug": "hyperinflation_in_child_ce3a97",
+  "chapter": "D. TRAUMA",
+  "source_file": "processed_clusters/d_trauma/hyperinflation_in_child_ce3a97.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchiectasis / Bronchiolitis (viral) / Bronchopulmonary dysplasia [Upper airway obstruction]",
+      "raw": "Bronchiectasis / Bronchiolitis (viral) / Bronchopulmonary dysplasia",
+      "frequency": null,
+      "sites": [
+        "Upper airway obstruction"
+      ]
+    },
+    {
+      "name": "Mucoviscidosis",
+      "raw": "Mucoviscidosis (cystic fibrosis)",
+      "frequency": null
+    },
+    {
+      "name": "Pneumonia",
+      "raw": "Pneumonia (esp. staph)",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body inhalation / ingestion",
+      "raw": "Foreign body inhalation / ingestion",
+      "frequency": null
+    },
+    {
+      "name": "Asthma",
+      "raw": "Asthma (reactive airway disease)",
+      "frequency": null
+    },
+    {
+      "name": "Dehydration",
+      "raw": "Dehydration (diarrhea, acidosis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

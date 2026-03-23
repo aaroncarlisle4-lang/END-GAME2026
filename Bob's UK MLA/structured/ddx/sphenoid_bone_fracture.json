@@ -1,0 +1,107 @@
+{
+  "finding": "Sphenoid Bone Fracture",
+  "slug": "sphenoid_bone_fracture",
+  "chapter": "DIASTEMATOMYELIA",
+  "source_file": "processed_clusters/diastematomyelia/sphenoid_bone_fracture.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "CSF rhinorrhea / otorrhea; hemotympanum",
+      "raw": "CSF rhinorrhea / otorrhea; hemotympanum",
+      "frequency": null
+    },
+    {
+      "name": "\"battle\" sign = mastoid region ecchymosis",
+      "raw": "\"battle\" sign = mastoid region ecchymosis",
+      "frequency": null
+    },
+    {
+      "name": "raccoon eyes = periorbital ecchymosis; 7th / 8th nerve palsy",
+      "raw": "raccoon eyes = periorbital ecchymosis; 7th / 8th nerve palsy",
+      "frequency": null
+    },
+    {
+      "name": "muscular dysfunction: problems with ocular motility, mastication, speech, swallowing, eustachian tube function",
+      "raw": "muscular dysfunction: problems with ocular motility, mastication, speech, swallowing, eustachian tube function",
+      "frequency": null
+    },
+    {
+      "name": "Hemotympanum",
+      "raw": "Hemotympanum",
+      "frequency": null
+    },
+    {
+      "name": "Disruption of tympanic membrane",
+      "raw": "Disruption of tympanic membrane",
+      "frequency": null
+    },
+    {
+      "name": "Disruption of the ossicular chain:",
+      "raw": "Disruption of the ossicular chain:",
+      "frequency": null
+    },
+    {
+      "name": "bleeding from EAC ← disruption of tympanic membrane",
+      "raw": "bleeding from EAC ← disruption of tympanic membrane",
+      "frequency": null
+    },
+    {
+      "name": "otorrhea ← CSF leak with ruptured tympanic membrane",
+      "raw": "otorrhea ← CSF leak with ruptured tympanic membrane (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "conductive hearing loss ← dislocation of auditory ossicles",
+      "raw": "conductive hearing loss ← dislocation of auditory ossicles (most commonly incus as the least anchored ossicle)",
+      "frequency": null
+    },
+    {
+      "name": "NO neurosensory hearing loss",
+      "raw": "NO neurosensory hearing loss",
+      "frequency": null
+    },
+    {
+      "name": "facial nerve palsy (7-20%) ← edema / fracture of facial canal near first genu / anterior tympanic segment of facial nerve; frequent spontaneous recovery",
+      "raw": "facial nerve palsy (7-20%) ← edema / fracture of facial canal near first genu / anterior tympanic segment of facial nerve; frequent spontaneous recovery",
+      "frequency": "20%"
+    },
+    {
+      "name": "± complete SNHL ← transection of cochlear n.",
+      "raw": "± complete SNHL ← transection of cochlear n.",
+      "frequency": null
+    },
+    {
+      "name": "± complete SNHL",
+      "raw": "± complete SNHL",
+      "frequency": null
+    },
+    {
+      "name": "irreversible sensorineural hearing loss ← fracture line across apex of IAC / labyrinthine capsule with injury to both parts of cranial nerve VIII)",
+      "raw": "irreversible sensorineural hearing loss ← fracture line across apex of IAC / labyrinthine capsule with injury to both parts of cranial nerve VIII)",
+      "frequency": null
+    },
+    {
+      "name": "persistent vertigo",
+      "raw": "persistent vertigo (benign paroxysmal positional vertigo resolves in 6-12 months, perilymphatic fistula, cupulolithiasis = otolith detachment, trauma to semicircular canals)",
+      "frequency": null
+    },
+    {
+      "name": "facial (cranial nerve VII) nerve palsy in 50% (injury in IAC); less frequent spontaneous recovery because of disruption of nerve fibers",
+      "raw": "facial (cranial nerve VII) nerve palsy in 50% (injury in IAC); less frequent spontaneous recovery because of disruption of nerve fibers",
+      "frequency": "50%"
+    },
+    {
+      "name": "rhinorrhea ← CSF leak with intact tympanic membrane",
+      "raw": "rhinorrhea ← CSF leak with intact tympanic membrane",
+      "frequency": null
+    },
+    {
+      "name": "bleeding into middle ear",
+      "raw": "bleeding into middle ear",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   involved in 15% of skull-base fractures √  air-fluid level in sinuses + mastoid √  axial thin-slice high-resolution CT for best delineation of fractures √  water-soluble intrathecal contrast material for CSF fistula Temporal Bone Fracture Frequency:   14-22% of skull fractures Mechanism:   motor vehicle crash (45-47%), fall (31-33%), assault (11-12%) Cause of conductive hearing loss of temporal bone fracture: ›  commonly incus injury: (a)  incudostapedial joint subluxation (b)  malleoincudal subluxation (c)  incus dislocation (d)  dislocation of the malleoincudal complex ›  less"
+}

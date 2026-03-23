@@ -1,0 +1,112 @@
+{
+  "finding": "Gangrene of Gallbladder = Gangrenous Cholecystitis",
+  "slug": "gangrene_of_gallbladder_gangrenous_cholecystitis_21f049",
+  "chapter": "CHOLANGITIS",
+  "source_file": "processed_clusters/cholangitis/gangrene_of_gallbladder_gangrenous_cholecystitis_21f049.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "positive Murphy sign",
+      "raw": "positive Murphy sign (33%)",
+      "frequency": "33%"
+    },
+    {
+      "name": "Emergency operation",
+      "raw": "Emergency operation",
+      "frequency": null
+    },
+    {
+      "name": "Antibiotic treatment + elective operation",
+      "raw": "Antibiotic treatment + elective operation",
+      "frequency": null
+    },
+    {
+      "name": "Percutaneous abscess drainage",
+      "raw": "Percutaneous abscess drainage",
+      "frequency": null
+    },
+    {
+      "name": "Acute free perforation with peritonitis → pericholecystic abscess in 33%",
+      "raw": "Acute free perforation with peritonitis → pericholecystic abscess in 33%",
+      "frequency": "33%"
+    },
+    {
+      "name": "Subacute localized perforation → pericholecystic abscess in 48%",
+      "raw": "Subacute localized perforation → pericholecystic abscess in 48%",
+      "frequency": "48%"
+    },
+    {
+      "name": "Chronic perforation → internal biliary fistula → pericholecystic abscess in 18%",
+      "raw": "Chronic perforation → internal biliary fistula → pericholecystic abscess in 18%",
+      "frequency": "18%"
+    },
+    {
+      "name": "Debilitated patients: depressed motility / starvation in trauma, burns, surgery, total parenteral nutrition, anesthesia, positive pressure ventilation, narcotics, shock, vasoactive amines, congestive heart failure, arterio-sclerosis, polyarteritis nodosa,",
+      "raw": "Debilitated patients: depressed motility / starvation in trauma, burns, surgery, total parenteral nutrition, anesthesia, positive pressure ventilation, narcotics, shock, vasoactive amines, congestive heart failure, arterio-sclerosis, polyarteritis nodosa,",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction of cystic duct by extrinsic inflammation, lymphadenopathy, metastases",
+      "raw": "Obstruction of cystic duct by extrinsic inflammation, lymphadenopathy, metastases",
+      "frequency": null
+    },
+    {
+      "name": "Infection (only in 50%): Salmonella, Helicobacter, cholera, Kawasaki syndrome, cytomegalovirus, cryptosporidiosis",
+      "raw": "Infection (only in 50%): Salmonella, Helicobacter, cholera, Kawasaki syndrome, cytomegalovirus, cryptosporidiosis",
+      "frequency": "50%"
+    },
+    {
+      "name": "WBC count may be normal",
+      "raw": "WBC count may be normal (⅓)",
+      "frequency": null
+    },
+    {
+      "name": "point tenderness rare",
+      "raw": "point tenderness rare (diabetic neuropathy)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Cx:     gangrene",
+      "raw": "Cx:     gangrene (75%); gallbladder perforation (20%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "Mortality:  15%",
+      "raw": "Mortality:  15%",
+      "frequency": "15%"
+    },
+    {
+      "name": "Rx:     urgent cholecystectomy; temporizing percutaneous cholecystostomy + antibiotics",
+      "raw": "Rx:     urgent cholecystectomy; temporizing percutaneous cholecystostomy + antibiotics",
+      "frequency": null
+    },
+    {
+      "name": "Enteric fistula",
+      "raw": "Enteric fistula",
+      "frequency": null
+    },
+    {
+      "name": "Incompetent sphincter of Oddi",
+      "raw": "Incompetent sphincter of Oddi",
+      "frequency": null
+    },
+    {
+      "name": "Air-containing periduodenal abscess",
+      "raw": "Air-containing periduodenal abscess",
+      "frequency": null
+    },
+    {
+      "name": "Periappendiceal abscess in malpositioned appendix",
+      "raw": "Periappendiceal abscess in malpositioned appendix",
+      "frequency": null
+    },
+    {
+      "name": "Lipomatosis of gallbladder",
+      "raw": "Lipomatosis of gallbladder",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  common severe complication of acute cholecystitis Frequency:   26% of patients with acute cholecystitis US: √  irregular / absent gallbladder wall √  shaggy, irregular, asymmetric wall (mucosal ulcers, intraluminal hemorrhage, necrosis) √  hyperechoic foci within GB wall (microabscesses in Rokitansky-Aschoff sinuses) √  intraluminal pseudomembranes (gangrene) √  coarse nonshadowing nondependent echodensities (= sloughed necrotic mucosa / sludge / pus / clotted blood within gallbladder) CT (insensitive but highly specific): √  intramural / intraluminal gas √  intraluminal membranes √  irregu"
+}

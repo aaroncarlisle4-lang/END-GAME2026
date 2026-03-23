@@ -1,0 +1,37 @@
+{
+  "finding": "B. GRANULAR",
+  "slug": "b_granular",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/b_granular.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst / teratoma",
+      "raw": "Dermoid cyst / teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Optic / hypothalamic glioma",
+      "raw": "Optic / hypothalamic glioma (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

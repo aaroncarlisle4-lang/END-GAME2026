@@ -1,0 +1,39 @@
+{
+  "name": "RETROPHARYNGEAL ABSCESS / HEMORRHAGE",
+  "slug": "retropharyngeal_abscess_hemorrhage",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/retropharyngeal_abscess_hemorrhage.md",
+  "definition": "PREVERTEBRAL ABSCESS spread of infection within retropharyngeal space",
+  "demographics": {
+    "Etiology": "tonsillitis, suppurative lymphadenitis, pharyngitis, otitis media, infection of oral",
+    "Path": "cellulitis > abscess",
+    "Age": "usually 2-4 (range, 1-6) years (atrophy of nodes with age)"
+  },
+  "dominant_finding": "hypoechoic areas + adenopathy",
+  "distribution": "anterior bowing / displacement of airway",
+  "discriminating_features": [
+    "complete irregular circumferential rimlike enhancement (HALLMARK)",
+    "thickness of retropharyngeal space > ¾ of AP diameter of vertebral body:",
+    "may contain locules of gas / gas-fluid levels",
+    "reversal of cervical lordosis",
+    "anterior bowing / displacement of airway"
+  ],
+  "other_features": {
+    "general": [
+      "thickness of retropharyngeal space > ¾ of AP diameter of vertebral body:",
+      "may contain locules of gas / gas-fluid levels",
+      "reversal of cervical lordosis",
+      "anterior bowing / displacement of airway"
+    ],
+    "US": [
+      "hypoechoic areas + adenopathy",
+      "hypoattenuating ovoid fluid collection",
+      "loss of normal bow-tie shape of retropharyngeal space",
+      "complete irregular circumferential rimlike enhancement (HALLMARK)"
+    ]
+  },
+  "clinical": {
+    "N.B.": "look carefully for possible ingested foreign body",
+    "Cx": "(1)  Inferior extension through anatomic \"danger space\" into mediastinum"
+  }
+}

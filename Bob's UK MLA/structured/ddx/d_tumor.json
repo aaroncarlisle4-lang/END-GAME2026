@@ -1,0 +1,32 @@
+{
+  "finding": "D. TUMOR",
+  "slug": "d_tumor",
+  "chapter": "C. INGESTED FOREIGN BODIES",
+  "source_file": "processed_clusters/c_ingested_foreign_bodies/d_tumor.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucocele of appendix",
+      "raw": "Mucocele of appendix",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous adenocarcinoma of stomach / colon =  COLLOID CARCINOMA",
+      "raw": "Mucinous adenocarcinoma of stomach / colon =  COLLOID CARCINOMA",
+      "frequency": null
+    },
+    {
+      "name": "Gastric / esophageal leiomyoma: calcifies in 4%",
+      "raw": "Gastric / esophageal leiomyoma: calcifies in 4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  crescent-shaped / circular calcification √  small mottled / punctate calcifications in primary site ± in regional lymph node metastases, adjacent omentum, metastatic liver foci"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Associated with: neurologic deficit in > 90%",
+  "slug": "associated_with_neurologic_deficit_in_90",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/associated_with_neurologic_deficit_in_90.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Simple meningocele =  herniation of CSF-filled sac without neural elements",
+      "raw": "Simple meningocele =  herniation of CSF-filled sac without neural elements",
+      "frequency": null
+    },
+    {
+      "name": "Myelocele =  midline plaque of neural tissue lying exposed at the skin surface",
+      "raw": "Myelocele =  midline plaque of neural tissue lying exposed at the skin surface",
+      "frequency": null
+    },
+    {
+      "name": "Myelomeningocele =  a myelocele elevated above skin surface by expansion of subarachnoid space ventral to neural plaque",
+      "raw": "Myelomeningocele =  a myelocele elevated above skin surface by expansion of subarachnoid space ventral to neural plaque",
+      "frequency": null
+    },
+    {
+      "name": "Myeloschisis =  surface presentation of neural elements completely uncovered by meninges",
+      "raw": "Myeloschisis =  surface presentation of neural elements completely uncovered by meninges",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

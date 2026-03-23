@@ -1,0 +1,41 @@
+{
+  "name": "PERICARDIAL TERATOMA",
+  "slug": "pericardial_teratoma",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/pericardial_teratoma.md",
+  "definition": "benign germ cell neoplasm",
+  "demographics": {
+    "Age": "infants + children",
+    "Histo": "derivatives of all 3 germ cell layers (neuroglia, cartilage, skeletal muscle, liver,",
+    "Location": "within pericardial sac connected to a great vessel via a pedicle; intramyocardial"
+  },
+  "dominant_finding": "large mass of heterogeneous signal intensity",
+  "distribution": "within pericardial sac connected to a great vessel via a pedicle; intramyocardial",
+  "discriminating_features": [
+    "large mass of heterogeneous signal intensity",
+    "intrapericardial heterogeneous complex multilocular cystic mass:",
+    "intrinsic echogenic foci (= calcifications)",
+    "pericardial effusion",
+    "fetal hydrops (ascites, pleural effusion, subcutaneous edema, polyhydramnios)"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "enlarged cardiomediastinal silhouette",
+      "formed calcified teeth"
+    ],
+    "US": [
+      "intrapericardial heterogeneous complex multilocular cystic mass:",
+      "intrinsic echogenic foci (= calcifications)",
+      "pericardial effusion",
+      "fetal hydrops (ascites, pleural effusion, subcutaneous edema, polyhydramnios)"
+    ],
+    "MR": [
+      "large mass of heterogeneous signal intensity"
+    ]
+  },
+  "clinical": {
+    "Rx": "emergent pericardiocentesis (life-threatening lesion); urgent surgical excision",
+    "Prognosis": "good"
+  }
+}

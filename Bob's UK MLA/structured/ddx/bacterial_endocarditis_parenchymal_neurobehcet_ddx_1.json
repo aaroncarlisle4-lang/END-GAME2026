@@ -1,0 +1,27 @@
+{
+  "finding": "Bacterial Endocarditis — Parenchymal Neurobehçet (DDx)",
+  "slug": "bacterial_endocarditis_parenchymal_neurobehcet_ddx_1",
+  "chapter": "Bacterial Endocarditis",
+  "source_file": "processed_clusters/bacterial_endocarditis/bacterial_endocarditis_parenchymal_neurobehcet_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "other malignant tumor",
+      "raw": "other malignant tumor",
+      "frequency": null
+    },
+    {
+      "name": "abscess",
+      "raw": "abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "isolated / confluent irregular T2 hyperintense foci of circular / linear / crescent shape | atypically space-occupying lesion masquerading as unilateral brain tumor"
+}

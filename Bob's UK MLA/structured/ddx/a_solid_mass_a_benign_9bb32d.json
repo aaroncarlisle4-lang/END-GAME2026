@@ -1,0 +1,62 @@
+{
+  "finding": "A. SOLID MASS (a) benign",
+  "slug": "a_solid_mass_a_benign_9bb32d",
+  "chapter": "MESENTERY & OMENTUM",
+  "source_file": "processed_clusters/mesentery_omentum/a_solid_mass_a_benign_9bb32d.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma (b)  malignant",
+      "raw": "Neurofibroma (b)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma",
+      "raw": "Leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma",
+      "raw": "Liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosarcoma",
+      "raw": "Fibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal mesothelioma",
+      "raw": "Peritoneal mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases (c)  Infection: tuberculosis",
+      "raw": "Metastases (c)  Infection: tuberculosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

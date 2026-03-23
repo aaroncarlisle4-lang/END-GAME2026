@@ -1,0 +1,32 @@
+{
+  "name": "HELLP SYNDROME",
+  "slug": "hellp_syndrome",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/hellp_syndrome.md",
+  "definition": "Hemolysis, Elevated Liver enzymes, Low Platelets",
+  "demographics": {
+    "Prevalence": "4-12% of patients with severe preeclampsia / eclampsia; higher in White women",
+    "Histo": "portal areas surrounded by deposited fibrin + hemorrhage + hepatocellular necrosis"
+  },
+  "dominant_finding": "intraparenchymal hemorrhage of liver ← subcapsular hematoma / rupture into peritoneal",
+  "distribution": "hepatic edema ← early ischemia ← necrosis",
+  "discriminating_features": [
+    "hepatomegaly",
+    "fatty infiltration of liver (peak at 35th week)",
+    "intraparenchymal hemorrhage of liver ← subcapsular hematoma / rupture into peritoneal",
+    "hepatic edema ← early ischemia ← necrosis",
+    "ascites + pleural effusions"
+  ],
+  "other_features": {
+    "general": [
+      "hepatomegaly",
+      "fatty infiltration of liver (peak at 35th week)",
+      "intraparenchymal hemorrhage of liver ← subcapsular hematoma / rupture into peritoneal",
+      "hepatic edema ← early ischemia ← necrosis",
+      "ascites + pleural effusions",
+      "subcapsular hematoma of kidney",
+      "vitreous hemorrhage"
+    ]
+  },
+  "clinical": {}
+}

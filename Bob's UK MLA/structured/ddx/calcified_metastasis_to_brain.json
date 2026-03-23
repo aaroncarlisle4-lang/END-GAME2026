@@ -1,0 +1,27 @@
+{
+  "finding": "Calcified Metastasis to Brain",
+  "slug": "calcified_metastasis_to_brain",
+  "chapter": "METACHROMATIC LEUKODYSTROPHY",
+  "source_file": "processed_clusters/metachromatic_leukodystrophy/calcified_metastasis_to_brain.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucin-producing neoplasm: GI, breast",
+      "raw": "Mucin-producing neoplasm: GI, breast",
+      "frequency": null
+    },
+    {
+      "name": "Cartilage- / bone-forming sarcoma",
+      "raw": "Cartilage- / bone-forming sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Effective radio- and chemotherapy",
+      "raw": "Effective radio- and chemotherapy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

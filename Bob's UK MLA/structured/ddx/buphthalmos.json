@@ -1,0 +1,52 @@
+{
+  "finding": "BUPHTHALMOS",
+  "slug": "buphthalmos",
+  "chapter": "ASTEROID HYALOSIS",
+  "source_file": "processed_clusters/asteroid_hyalosis/buphthalmos.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital / infantile glaucoma",
+      "raw": "Congenital / infantile glaucoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis type 1: obstruction of canal of Schlemm by membranes / masses composed of aberrant mesodermal tissue",
+      "raw": "Neurofibromatosis type 1: obstruction of canal of Schlemm by membranes / masses composed of aberrant mesodermal tissue",
+      "frequency": null
+    },
+    {
+      "name": "Sturge-Weber-Dimitri syndrome",
+      "raw": "Sturge-Weber-Dimitri syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Lowe (cerebrohepatorenal) syndrome",
+      "raw": "Lowe (cerebrohepatorenal) syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ocular mesodermal dysplasia",
+      "raw": "Ocular mesodermal dysplasia (eg, Axenfeld or Rieger anomalies)",
+      "frequency": null
+    },
+    {
+      "name": "Homocystinuria",
+      "raw": "Homocystinuria",
+      "frequency": null
+    },
+    {
+      "name": "Aniridia",
+      "raw": "Aniridia",
+      "frequency": null
+    },
+    {
+      "name": "Acquired glaucoma",
+      "raw": "Acquired glaucoma (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "=  HYDROPHTHALMOS = MEGOPHTHALMOS =  diffuse enlargement of eye in children ← increased intraocular pressure Cause: Pathophysiology: obstruction of canal of Schlemm located between cornea + iris → decreased resorption of aqueous humor (= anterior chamber fluid) → scleral distension √  uniformly enlarged globe without mass of round / oval / bizarre shape Rx:   goniotomy (increases the angle of anterior chamber); trabeculotomy (lysis of adhesions)"
+}

@@ -1,0 +1,72 @@
+{
+  "finding": "CILIOPATHY",
+  "slug": "ciliopathy_45dfaa",
+  "chapter": "ARTERIAL HYPOTENSION",
+  "source_file": "processed_clusters/arterial_hypotension/ciliopathy_45dfaa.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Autosomal recessive polycystic kidney disease",
+      "raw": "Autosomal recessive polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Autosomal dominant polycystic kidney disease",
+      "raw": "Autosomal dominant polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Medullary cystic disease",
+      "raw": "Medullary cystic disease",
+      "frequency": null
+    },
+    {
+      "name": "Multicystic kidney disease",
+      "raw": "Multicystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Meckel-Gruber syndrome",
+      "raw": "Meckel-Gruber syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Joubert syndrome",
+      "raw": "Joubert syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Orodigitofacial syndrome",
+      "raw": "Orodigitofacial syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Asphyxiating thoracic dysplasia",
+      "raw": "Asphyxiating thoracic dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Chondroectodermal dysplasia",
+      "raw": "Chondroectodermal dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Short-rib polydactyly syndrome",
+      "raw": "Short-rib polydactyly syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Sensenbrenner syndrome",
+      "raw": "Sensenbrenner syndrome (cranioectodermal dysplasia)",
+      "frequency": null
+    },
+    {
+      "name": "Weyers acrofacial dysostosis",
+      "raw": "Weyers acrofacial dysostosis (nail anomalies, polydactyly, oral-facial defects)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  DISORDER OF PRIMARY CILIA (cilia line ducts of kidney + liver and are integral to proper renal + hepatic development"
+}

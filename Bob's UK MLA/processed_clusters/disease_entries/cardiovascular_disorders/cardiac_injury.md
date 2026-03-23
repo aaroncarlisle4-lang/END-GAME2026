@@ -1,0 +1,67 @@
+# Disease: CARDIAC INJURY
+
+**Source section:** CARDIOVASCULAR DISORDERS
+
+## Definition
+
+most common type of cardiac injury after blunt thoracic trauma, but difficult to diagnose mildest form of cardiac injury without proved myocardial cell damage / morphologic cardiac herniation and volvulus
+
+## Key Facts
+
+- **Frequency:** 25% of traumatic deaths related to heart injury
+- **Location:** RV (35%), LV (25%), RA atrium (33%), LA (14%), aorta (14%)
+- **Associated with:** rib fracture (83%), pneumothorax (39%), hemothorax (31%), lung
+- **Prevalence:** in 64% of pericardial ruptures
+- **Path:** intimal tear → dissection → thrombosis
+
+## Imaging Findings
+
+### General
+
+- segmental wall motion abnormalities
+- distinct boundary between normal + contused tissue
+- patchy necrosis + hemorrhage → eventually heal to form patchy and irregular fibrosis
+- increased myocardial echogenicity
+- focal systolic hypokinesis
+
+### NUC
+
+- pericardial effusion → tamponade → cardiac arrest
+- myocardial disruption:
+- traumatic VSD typically occurs in the apical interventricular septum ← anteroposterior
+- extravasation of IV contrast into pericardial space
+- pericardial effusion
+- pneumopericardium ← pericardial tear (in 0.3-0.5%)
+- delayed traumatic diaphragmatic hernia
+- focal pericardial dimpling + discontinuity
+- lung interposition between aorta + pulmonary artery / heart + diaphragm / RA + RVOT
+- contour abnormality of heart = deformed ventricular silhouette
+- cardiac displacement into either hemithoracic cavity
+- pericardial sac "empty" = delineated by air / filled with loops of gas-containing
+- cardiac displacement:
+- leftward deviation of the myocardial septum
+- torsion along IVC + great vessels = strangulation of entire heart
+- entrapment of LA + LV
+- cardiac herniation through pericardial defect
+- pneumopericardium, esp. if associated with pneumothorax
+- pulmonary edema ← new onset heart failure
+
+### Aortic valve
+
+- tear / avulsion from annulus of aortic valve cusp (esp. noncoronary cusp)
+
+## Clinical
+
+- **Cx:** arrhythmia, low cardiac output, ventricular septal defect, ventricular rupture,
+- **Prognosis:** 33% surgical mortality, excellent long-term prognosis in survivors
+- **N.B.:** life-threatening condition (33-47% survival rate)
+- **Rx:** percutaneous transluminal angioplasty + stenting
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

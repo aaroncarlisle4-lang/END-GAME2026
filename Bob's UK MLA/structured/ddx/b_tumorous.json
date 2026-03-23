@@ -1,0 +1,37 @@
+{
+  "finding": "B. TUMOROUS",
+  "slug": "b_tumorous",
+  "chapter": "Average age: 4th decade; M > F",
+  "source_file": "processed_clusters/average_age_4th_decade_m_f/b_tumorous.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurogenic tumor: neurofibroma, schwannoma, ganglion tumor",
+      "raw": "Neurogenic tumor: neurofibroma, schwannoma, ganglion tumor",
+      "frequency": null
+    },
+    {
+      "name": "Pleuropulmonary synovial sarcoma",
+      "raw": "Pleuropulmonary synovial sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Extraadrenal neuroblastoma",
+      "raw": "Extraadrenal neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Extraskeletal Ewing sarcoma",
+      "raw": "Extraskeletal Ewing sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  faint homogeneous enhancement √  commonly erosions / scalloping of vertebrae ± ribs √  moderate homogeneous enhancement"
+}

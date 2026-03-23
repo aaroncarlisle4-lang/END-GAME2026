@@ -1,0 +1,47 @@
+{
+  "finding": "ASD, VSD, PDA (dilated proximal pulmonary vessels",
+  "slug": "asd_vsd_pda_dilated_proximal_pulmonary_vessels_a6311f",
+  "chapter": "D. TRAUMA",
+  "source_file": "processed_clusters/d_trauma/asd_vsd_pda_dilated_proximal_pulmonary_vessels_a6311f.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PULMONARY CAUSE of ↓ pulmonary blood flow (a)  decrease of vascular bed:",
+      "raw": "PULMONARY CAUSE of ↓ pulmonary blood flow (a)  decrease of vascular bed:",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary embolism:",
+      "raw": "Pulmonary embolism:",
+      "frequency": null
+    },
+    {
+      "name": "Air trapping (reversible changes):",
+      "raw": "Air trapping (reversible changes):",
+      "frequency": null
+    },
+    {
+      "name": "Emphysema",
+      "raw": "Emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Bulla",
+      "raw": "Bulla",
+      "frequency": null
+    },
+    {
+      "name": "Bleb",
+      "raw": "Bleb",
+      "frequency": null
+    },
+    {
+      "name": "Interstitial emphysema",
+      "raw": "Interstitial emphysema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "bilaterality is rare; localized areas of hyperlucency (Westermark sign) (b)  increase in air space: acute asthmatic attack, acute bronchiolitis (pediatric patient)"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "BRAIN SCINTIGRAPHY",
+  "slug": "brain_scintigraphy",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/brain_scintigraphy.md",
+  "definition": "old-style agents require a disruption of blood-brain barrier to diffuse into brain lipophilic agents rapidly crossing blood-brain barrier with accumulation in brain ethyl cysteinate dimer = bicisate N-isopropyl-p[123I]iodoamphetamine iodine = 123I-IMP",
+  "demographics": {},
+  "dominant_finding": "bilateral temporoparietal hypoperfusion",
+  "distribution": "bilateral temporoparietal hypoperfusion",
+  "discriminating_features": [
+    "activity in an area of initial deficit on reimaging (after 4 hours) implies improved",
+    "bilateral temporoparietal hypoperfusion",
+    "transient hyperperfusion of involved hemisphere",
+    "focal hypoperfusion during interictal injection of tracer (less sensitive)",
+    "focal hyperperfusion during ictal injection of tracer (better detection)"
+  ],
+  "other_features": {
+    "general": [
+      "activity in an area of initial deficit on reimaging (after 4 hours) implies improved",
+      "bilateral temporoparietal hypoperfusion",
+      "transient hyperperfusion of involved hemisphere",
+      "focal hypoperfusion during interictal injection of tracer (less sensitive)",
+      "focal hyperperfusion during ictal injection of tracer (better detection)",
+      "good correlation between hyperperfusion and enlarged supplying vessels:",
+      "asymmetric decreased perfusion in acute / chronic cerebrovascular disease:",
+      "\"flip-flop\" phenomenon (= ⇓ perfusion in arterial phase, equalization of activity in"
+    ]
+  },
+  "clinical": {}
+}

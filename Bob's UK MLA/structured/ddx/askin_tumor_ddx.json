@@ -1,0 +1,27 @@
+{
+  "finding": "Askin Tumor (DDx)",
+  "slug": "askin_tumor_ddx",
+  "chapter": "Askin Tumor",
+  "source_file": "processed_clusters/askin_tumor/askin_tumor_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "chest wall hamartoma in infancy",
+      "raw": "chest wall hamartoma in infancy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "prominent areas of high SI on T2WI ← hemorrhage + necrosis | commonly invasion of chest wall musculature + mediastinum + lung | ↑ activity on bone scan + 111In-pentetreotide + 99mTc-MIBI | NO uptake on FDG PET"
+}

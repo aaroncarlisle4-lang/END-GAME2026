@@ -1,0 +1,117 @@
+{
+  "finding": "RHABDOMYOSARCOMA",
+  "slug": "rhabdomyosarcoma",
+  "chapter": "RETROPERITONEAL TERATOMA",
+  "source_file": "processed_clusters/retroperitoneal_teratoma/rhabdomyosarcoma.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "embryonal type",
+      "raw": "embryonal type (70-80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "alveolar type",
+      "raw": "alveolar type (10-15-20%, worst prognosis)",
+      "frequency": "20%"
+    },
+    {
+      "name": "pleomorphic type",
+      "raw": "pleomorphic type (10%, poor prognosis)",
+      "frequency": "10%"
+    },
+    {
+      "name": "mixture of two types",
+      "raw": "mixture of two types",
+      "frequency": null
+    },
+    {
+      "name": "cranial nerve palsy",
+      "raw": "cranial nerve palsy",
+      "frequency": null
+    },
+    {
+      "name": "rapidly progressive unilateral proptosis / globe displacement",
+      "raw": "rapidly progressive unilateral proptosis / globe displacement",
+      "frequency": null
+    },
+    {
+      "name": "conjunctival + palpebral swelling",
+      "raw": "conjunctival + palpebral swelling (DDx orbital cellulitis)",
+      "frequency": null
+    },
+    {
+      "name": "40% survival after exenteration",
+      "raw": "40% survival after exenteration",
+      "frequency": "40%"
+    },
+    {
+      "name": "80-90% 5-year survival after biopsy / surgical debulking followed by radiation therapy",
+      "raw": "80-90% 5-year survival after biopsy / surgical debulking followed by radiation therapy (4,000-5,000 rad) + chemotherapy (vincristine, cyclophosphamide, doxorubicin)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Subperiosteal hemorrhage",
+      "raw": "Subperiosteal hemorrhage (bone erosion during resolution)",
+      "frequency": null
+    },
+    {
+      "name": "Orbital cellulitis with abscess",
+      "raw": "Orbital cellulitis with abscess (fever, leukocytosis)",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst (cystic appearance, internal fat attenuation, calcification, fluid level, bone depression near zygomaticofrontal suture)",
+      "frequency": null
+    },
+    {
+      "name": "Capillary hemangioma",
+      "raw": "Capillary hemangioma (growth during 1.0-1.5 year of life, ipsilateral cutaneous hemangiomas, peripheral + internal flow voids)",
+      "frequency": null
+    },
+    {
+      "name": "Venous-lymphatic malformation",
+      "raw": "Venous-lymphatic malformation (multiloculated cystic with ill-defined border, fluid-fluid levels, peripheral enhancement, phleboliths)",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis (pronounced bone destruction, diabetes insipidus)",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia (peripheral blood smear)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma (lacrimal gland involvement, encasement of globe, hypointense on",
+      "raw": "Lymphoma (lacrimal gland involvement, encasement of globe, hypointense on",
+      "frequency": null
+    },
+    {
+      "name": "abdominal pain + distension (from bladder outlet obstruction), urinary retention, palpable bladder",
+      "raw": "abdominal pain + distension (from bladder outlet obstruction), urinary retention, palpable bladder",
+      "frequency": null
+    },
+    {
+      "name": "urinary frequency + dysuria",
+      "raw": "urinary frequency + dysuria (← urinary tract infection)",
+      "frequency": null
+    },
+    {
+      "name": "hematuria",
+      "raw": "hematuria (unusual late manifestation)",
+      "frequency": null
+    },
+    {
+      "name": "strangury",
+      "raw": "strangury (= painful urge to void without success)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  rapidly growing aggressive malignancy frequently invading adjacent bones and soft tissues Origin:   pluripotential mesenchymal cell with capacity to differentiate into skeletal muscle (rhabdomyoblasts resemble primitive striated muscle cells; NOT from striated muscle) Frequency: 4-10% of cancers in children < 15 years of age (ranking 4th after CNS neoplasm, neuroblastoma, Wilms tumor); 5-15% of all adult sarcomas; 35% of pediatric sarcomas ◊  Most common soft-tissue tumor in childhood (60%) Incidence:   4.5 (1.3)÷1,000,000 annually in USA in white (black) Age:   bimodal age distribution: 1-"
+}

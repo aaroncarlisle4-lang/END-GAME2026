@@ -19,7 +19,7 @@ const __dirname = path.dirname(__filename);
 dotenv.config({ path: ".env.local" });
 dotenv.config();
 
-const CONVEX_URL = process.env.CONVEX_URL || process.env.VITE_CONVEX_URL || "https://lovable-goat-91.eu-west-1.convex.cloud";
+const CONVEX_URL = process.env.CONVEX_URL || process.env.VITE_CONVEX_URL || "https://reminiscent-seal-853.convex.cloud";
 const OPENROUTER_KEYS = (process.env.OPENROUTER_KEYS || "").split(",").filter(Boolean);
 const MODEL = "google/gemini-2.5-pro"; // Powerful model for detailed discriminators
 const BATCH_SIZE = 1; // Process one pattern at a time to ensure high quality

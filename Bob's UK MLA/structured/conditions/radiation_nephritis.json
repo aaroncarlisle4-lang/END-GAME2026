@@ -1,0 +1,25 @@
+{
+  "name": "RADIATION NEPHRITIS",
+  "slug": "radiation_nephritis",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/radiation_nephritis.md",
+  "definition": "",
+  "demographics": {
+    "Histo": "interstitial fibrosis, tubule atrophy, glomerular sclerosis, sclerosis of arteries of all"
+  },
+  "dominant_finding": "normal / small smooth kidney consistent with radiation field",
+  "distribution": "",
+  "discriminating_features": [
+    "normal / small smooth kidney consistent with radiation field",
+    "parenchymal thickness diminished (globally / focally; related to radiation field)",
+    "diminished nephrographic density"
+  ],
+  "other_features": {
+    "general": [
+      "normal / small smooth kidney consistent with radiation field",
+      "parenchymal thickness diminished (globally / focally; related to radiation field)",
+      "diminished nephrographic density"
+    ]
+  },
+  "clinical": {}
+}

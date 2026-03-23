@@ -1,0 +1,32 @@
+{
+  "finding": "Breast Cancer — Liver (DDx)",
+  "slug": "breast_cancer_liver_ddx",
+  "chapter": "Breast Cancer",
+  "source_file": "processed_clusters/breast_cancer/breast_cancer_liver_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cyst",
+      "raw": "cyst",
+      "frequency": null
+    },
+    {
+      "name": "mucinous / medullary carcinoma",
+      "raw": "mucinous / medullary carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "hematoma",
+      "raw": "hematoma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "positive color Doppler flow | posterior acoustic enhancement ← fluid component | fluid component serous (low signal on T1WI + high signal on T2WI) / frequently | marked enhancement of mural nodule + cyst wall + septa"
+}

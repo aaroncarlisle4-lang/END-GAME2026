@@ -5,6 +5,7 @@ import { api } from "../../convex/_generated/api";
 import { getCategoryMeta } from "../lib/categoryConfig";
 import { chunkIntoPackets } from "../lib/packets";
 import { ChevronRight, ChevronDown, Package } from "lucide-react";
+import { RapidCardsView } from "../components/case/RapidCardsView";
 
 export function SectionListPage() {
   const { abbrev } = useParams<{ abbrev: string }>();
@@ -18,9 +19,11 @@ export function SectionListPage() {
     api.sections.getByCategory,
     abbrev ? { categoryAbbreviation: abbrev } : "skip",
   );
+  
+  // Only fetch longCases if it's not a rapid section, else we don't need them here.
   const cases = useQuery(
     api.longCases.getByCategory,
-    category?._id ? { categoryId: category._id } : "skip",
+    category?._id && category.examSection !== "rapid" ? { categoryId: category._id } : "skip",
   );
 
   const meta = getCategoryMeta(abbrev ?? "");
@@ -36,7 +39,7 @@ export function SectionListPage() {
     }
   }
 
-  const isLoading = category === undefined || sections === undefined;
+  const isLoading = category === undefined || (category?.examSection !== "rapid" && sections === undefined);
 
   return (
     <div>
@@ -48,9 +51,11 @@ export function SectionListPage() {
           <h1 className="text-2xl font-bold text-gray-900">
             {category?.name ?? abbrev}
           </h1>
-          <p className="text-sm text-gray-500">
-            {cases?.length ?? "..."} cases across {sections?.length ?? "..."} sections
-          </p>
+          {category?.examSection !== "rapid" && (
+            <p className="text-sm text-gray-500">
+              {cases?.length ?? "..."} cases across {sections?.length ?? "..."} sections
+            </p>
+          )}
         </div>
       </div>
 
@@ -60,14 +65,16 @@ export function SectionListPage() {
             <div key={i} className="h-16 rounded-lg bg-gray-100 animate-pulse" />
           ))}
         </div>
-      ) : sections.length === 0 ? (
+      ) : category?.examSection === "rapid" ? (
+        <RapidCardsView categoryId={category._id} abbrev={abbrev ?? ""} />
+      ) : sections?.length === 0 ? (
         <div className="text-center py-12 text-gray-400">
           <p>No sections found for this category.</p>
           <p className="text-sm mt-1">Cases may not be grouped into sections yet.</p>
         </div>
       ) : (
         <div className="space-y-2">
-          {[...sections]
+          {[...(sections || [])]
             .sort((a, b) => a.sortOrder - b.sortOrder)
             .map((sec) => {
               const secCases = casesBySection[sec.name] ?? [];

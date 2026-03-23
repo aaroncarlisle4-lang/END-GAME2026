@@ -1,0 +1,77 @@
+{
+  "finding": "Narrow Hypoplastic Chest in Fetus",
+  "slug": "narrow_hypoplastic_chest_in_fetus",
+  "chapter": "Large Head in Fetus",
+  "source_file": "processed_clusters/large_head_in_fetus/narrow_hypoplastic_chest_in_fetus.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Short-rib polydactyly syndrome",
+      "raw": "Short-rib polydactyly syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Asphyxiating thoracic dysplasia",
+      "raw": "Asphyxiating thoracic dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Chondroectodermal dysplasia",
+      "raw": "Chondroectodermal dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Camptomelic dysplasia",
+      "raw": "Camptomelic dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Thanatophoric dysplasia",
+      "raw": "Thanatophoric dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Homozygous achondroplasia",
+      "raw": "Homozygous achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Achondrogenesis",
+      "raw": "Achondrogenesis",
+      "frequency": null
+    },
+    {
+      "name": "Hypophosphatasia",
+      "raw": "Hypophosphatasia",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Thanatophoric dysplasia",
+      "raw": "Thanatophoric dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta type II",
+      "raw": "Osteogenesis imperfecta type II",
+      "frequency": null
+    },
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Morquio syndrome",
+      "raw": "Morquio syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Platyspondyly"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "DIABETIC (FIBROUS) MASTOPATHY",
+  "slug": "diabetic_fibrous_mastopathy",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/diabetic_fibrous_mastopathy.md",
+  "definition": "rare fibroinflammatory breast disease",
+  "demographics": {
+    "Histo": "stromal sclerosis with an increased number of spindle cells, scattered epithelial cells",
+    "Age": "young woman, 20 years after onset of diabetes"
+  },
+  "dominant_finding": "single / multiple bilateral masses hypoechoic to SQ fat",
+  "distribution": "single / multiple bilateral masses hypoechoic to SQ fat",
+  "discriminating_features": [
+    "nonspecific discrete mass / regional asymmetry of dense tissue",
+    "single / multiple bilateral masses hypoechoic to SQ fat",
+    "hypovascular / avascular on color flow imaging",
+    "posterior acoustic shadowing"
+  ],
+  "other_features": {
+    "general": [
+      "nonspecific discrete mass / regional asymmetry of dense tissue"
+    ],
+    "US": [
+      "single / multiple bilateral masses hypoechoic to SQ fat",
+      "hypovascular / avascular on color flow imaging",
+      "posterior acoustic shadowing"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "name": "MESENTERIC LYMPHADENITIS",
+  "slug": "mesenteric_lymphadenitis",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/mesenteric_lymphadenitis.md",
+  "definition": "clinical entity with symptoms related to benign inflammation of lymph nodes without",
+  "demographics": {
+    "Age": "children, young adults"
+  },
+  "dominant_finding": "isolated ileal wall thickening (33%)",
+  "distribution": "",
+  "discriminating_features": [
+    "cluster of (> 3) enlarged (> 5 mm) mesenteric lymph nodes without an identifiable acute",
+    "isolated ileal wall thickening (33%)",
+    "colonic wall thickening (18%)"
+  ],
+  "other_features": {
+    "general": [
+      "cluster of (> 3) enlarged (> 5 mm) mesenteric lymph nodes without an identifiable acute",
+      "isolated ileal wall thickening (33%)",
+      "colonic wall thickening (18%)"
+    ]
+  },
+  "clinical": {
+    "N.B.": "visualization of entire normal appendix is necessary to differentiate from acute"
+  }
+}

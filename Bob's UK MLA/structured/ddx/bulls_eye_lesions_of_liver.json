@@ -1,0 +1,47 @@
+{
+  "finding": "Bull's-eye Lesions of Liver",
+  "slug": "bulls_eye_lesions_of_liver",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/bulls_eye_lesions_of_liver.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Candidiasis",
+      "raw": "Candidiasis (in immunocompromised)",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma, leukemia",
+      "raw": "Lymphoma, leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Septic emboli",
+      "raw": "Septic emboli",
+      "frequency": null
+    },
+    {
+      "name": "Other opportunistic infections",
+      "raw": "Other opportunistic infections",
+      "frequency": null
+    },
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

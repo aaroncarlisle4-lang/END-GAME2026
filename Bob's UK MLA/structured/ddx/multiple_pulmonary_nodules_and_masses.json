@@ -1,0 +1,52 @@
+{
+  "finding": "Multiple Pulmonary Nodules and Masses",
+  "slug": "multiple_pulmonary_nodules_and_masses",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/multiple_pulmonary_nodules_and_masses.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TUMORS (a)  malignant",
+      "raw": "TUMORS (a)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Metastases:",
+      "raw": "Metastases:",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Multiple primary bronchogenic carcinomas (synchronous in 1% of all lung cancers) (b)  benign",
+      "raw": "Multiple primary bronchogenic carcinomas (synchronous in 1% of all lung cancers) (b)  benign",
+      "frequency": "1%"
+    },
+    {
+      "name": "Hamartoma",
+      "raw": "Hamartoma (rarely multiple)",
+      "frequency": null
+    },
+    {
+      "name": "Benign metastasizing leiomyoma",
+      "raw": "Benign metastasizing leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "AV malformations",
+      "raw": "AV malformations",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  homogeneous masses with sharp borders √  no air alveolo- / bronchogram from breast, kidney, GI tract, uterus, ovary, testes, malignant melanoma, sarcoma, Wilms tumor"
+}

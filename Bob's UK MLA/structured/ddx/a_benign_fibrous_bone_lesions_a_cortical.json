@@ -1,0 +1,77 @@
+{
+  "finding": "A. BENIGN FIBROUS BONE LESIONS (a) cortical",
+  "slug": "a_benign_fibrous_bone_lesions_a_cortical",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/a_benign_fibrous_bone_lesions_a_cortical.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Benign cortical defect",
+      "raw": "Benign cortical defect",
+      "frequency": null
+    },
+    {
+      "name": "Avulsion cortical irregularity (b)  medullary",
+      "raw": "Avulsion cortical irregularity (b)  medullary",
+      "frequency": null
+    },
+    {
+      "name": "Herniation pit",
+      "raw": "Herniation pit",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying fibroma",
+      "raw": "Ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Congenital generalized fibromatosis (c)  corticomedullary",
+      "raw": "Congenital generalized fibromatosis (c)  corticomedullary",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying fibroma",
+      "raw": "Ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Cherubism",
+      "raw": "Cherubism",
+      "frequency": null
+    },
+    {
+      "name": "Desmoplastic fibroma",
+      "raw": "Desmoplastic fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Fibromyxoma",
+      "raw": "Fibromyxoma",
+      "frequency": null
+    },
+    {
+      "name": "Benign fibrous histiocytoma",
+      "raw": "Benign fibrous histiocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

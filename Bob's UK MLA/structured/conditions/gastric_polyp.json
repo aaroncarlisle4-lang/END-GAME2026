@@ -1,0 +1,42 @@
+{
+  "name": "GASTRIC POLYP",
+  "slug": "gastric_polyp",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/gastric_polyp.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "1.5-5%, most common benign gastric tumor",
+    "Associated with": "hyperacidity + ulcers, chronic atrophic gastritis, gastric carcinoma",
+    "Location": "predominantly in fundus + body; usually multiple",
+    "Histo": "densely packed gastric glands + bundles of smooth muscle",
+    "Age": "increasing incidence with age; M÷F = 2÷1"
+  },
+  "dominant_finding": "sharply delineated polyp with smooth circular border",
+  "distribution": "predominantly in fundus + body; usually multiple",
+  "discriminating_features": [
+    "sharply delineated polyp with smooth circular border",
+    "\"Mexican hat\" sign = stalk seen en face overlying the head of polyp",
+    "sessile / pedunculated",
+    "usually < 2 cm in diameter without progression",
+    "no contour defect of stomach"
+  ],
+  "other_features": {
+    "general": [
+      "sharply delineated polyp with smooth circular border",
+      "\"Mexican hat\" sign = stalk seen en face overlying the head of polyp",
+      "sessile / pedunculated",
+      "usually < 2 cm in diameter without progression",
+      "no contour defect of stomach",
+      "sessile / pedunculated",
+      "usually < 2 cm in diameter",
+      "broad-based elliptical / mushroom-shaped polyp ± pedicle; usually solitary",
+      "usually > 2 cm in diameter (in 80%)",
+      "smooth / irregular lobulated contour",
+      "trabeculated / lobulated slightly irregular contour"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "no malignant potential",
+    "Cx": "malignant transformation"
+  }
+}

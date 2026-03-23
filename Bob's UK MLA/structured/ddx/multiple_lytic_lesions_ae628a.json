@@ -1,0 +1,42 @@
+{
+  "finding": "Multiple Lytic Lesions",
+  "slug": "multiple_lytic_lesions_ae628a",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/multiple_lytic_lesions_ae628a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Enchondromas",
+      "raw": "Enchondromas",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases, Multiple myeloma",
+      "raw": "Metastases, Multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism (brown tumors), Hemangiomas",
+      "raw": "Hyperparathyroidism (brown tumors), Hemangiomas",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

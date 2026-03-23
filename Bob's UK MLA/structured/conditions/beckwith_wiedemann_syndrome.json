@@ -1,0 +1,35 @@
+{
+  "name": "BECKWITH-WIEDEMANN SYNDROME",
+  "slug": "beckwith_wiedemann_syndrome",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/beckwith_wiedemann_syndrome.md",
+  "definition": "EMG SYNDROME (Exomphalos = omphalocele, Macroglossia, Gigantism) common autosomal dominant overgrowth syndrome with reduced penetrance + variable",
+  "demographics": {
+    "Prevalence": "1÷13,700 to 1÷14,300 live births; M÷F = 1÷1",
+    "Histo": "disordered lobar arrangement, medullary dysplasia"
+  },
+  "dominant_finding": "increased cortical echogenicity ← glomeruloneogenesis",
+  "distribution": "increased cortical echogenicity ← glomeruloneogenesis",
+  "discriminating_features": [
+    "advanced bone age",
+    "nephromegaly",
+    "increased cortical echogenicity ← glomeruloneogenesis",
+    "accentuation of corticomedullary definition",
+    "medullary sponge kidney"
+  ],
+  "other_features": {
+    "general": [
+      "advanced bone age",
+      "nephromegaly",
+      "increased cortical echogenicity ← glomeruloneogenesis",
+      "accentuation of corticomedullary definition",
+      "medullary sponge kidney",
+      "pyelocalyceal diverticula",
+      "LGA fetus with growth along 95th percentile",
+      "polyhydramnios (51%)",
+      "thickened placenta",
+      "long umbilical cord"
+    ]
+  },
+  "clinical": {}
+}

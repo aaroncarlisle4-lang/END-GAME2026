@@ -1,0 +1,32 @@
+{
+  "finding": "E. BENIGN TUMOR",
+  "slug": "e_benign_tumor_1_0390d7",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/e_benign_tumor_1_0390d7.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "Brown tumor",
+      "raw": "Brown tumor",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Ovarian Vein Thrombosis (DDx)",
+  "slug": "ovarian_vein_thrombosis_ddx_04fa13",
+  "chapter": "Ovarian Vein Thrombosis",
+  "source_file": "processed_clusters/ovarian_vein_thrombosis/ovarian_vein_thrombosis_ddx_04fa13.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "appendicitis",
+      "raw": "appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "broad-ligament phlegmon / hematoma",
+      "raw": "broad-ligament phlegmon / hematoma",
+      "frequency": null
+    },
+    {
+      "name": "torsion of ovarian cyst",
+      "raw": "torsion of ovarian cyst",
+      "frequency": null
+    },
+    {
+      "name": "urolithiasis",
+      "raw": "urolithiasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "tubular structure in location of ovarian vein with low-density center + peripheral"
+}

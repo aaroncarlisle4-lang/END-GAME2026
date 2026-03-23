@@ -1,0 +1,47 @@
+{
+  "name": "STRUMA OVARII",
+  "slug": "struma_ovarii",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/struma_ovarii.md",
+  "definition": "rare highly specialized form of ovarian teratoma",
+  "demographics": {
+    "Prevalence": "0.30-0.65% of ovarian tumors; 5-20% of all mature cystic ovarian teratomas",
+    "Age": "premenopausal women",
+    "Path": "unilateral; often < 10 cm in size",
+    "Histo": "mature thyroid tissue of variably sized acini filled with colloid: lined by single layer of"
+  },
+  "dominant_finding": "high-attenuation loculi = iodinated thyroid hormone and calcifications",
+  "distribution": "",
+  "discriminating_features": [
+    "nonspecific solid + cystic tumor",
+    "characteristic struma pearls = well circumscribed round vascularized echogenic solid",
+    "multilocular cystic mass with smooth margins + large cystic spaces = dilated thyroid follicles",
+    "high-attenuation loculi = iodinated thyroid hormone and calcifications",
+    "intense enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "multilocular cystic mass with smooth margins + large cystic spaces = dilated thyroid follicles"
+    ],
+    "US": [
+      "nonspecific solid + cystic tumor",
+      "characteristic struma pearls = well circumscribed round vascularized echogenic solid"
+    ],
+    "CT": [
+      "high-attenuation loculi = iodinated thyroid hormone and calcifications",
+      "intense enhancement",
+      "± loculi of fat attenuation = sebaceous material"
+    ],
+    "MR": [
+      "multilobulated complex mass with thick septa + multiple cysts of variable SI + enhancing",
+      "cystic spaces with marked hypointensity on T2WI + intermediate intensity on T1WI (= thick",
+      "T1-hyperintense locules ← hemorrhage",
+      "SI drop-off with surrounding chemical shift artifact on opposed-phase T1WI ←",
+      "strong enhancement of solid component / thickened septa / cyst walls"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "benign in 95%",
+    "Cx": "malignancy (in 5-10%)"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "name": "WILSON-MIKITY SYNDROME",
+  "slug": "wilson_mikity_syndrome",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/wilson_mikity_syndrome.md",
+  "definition": "PULMONARY DYSMATURITY similarity to bronchopulmonary dysplasia in normal preterm infants breathing room air; rarely",
+  "demographics": {},
+  "dominant_finding": "hyperinflation",
+  "distribution": "",
+  "discriminating_features": [
+    "hyperinflation",
+    "reticular pattern radiating from both hila",
+    "small bubbly lucencies throughout both lungs (identical to bronchopulmonary dysplasia)"
+  ],
+  "other_features": {
+    "general": [
+      "hyperinflation",
+      "reticular pattern radiating from both hila",
+      "small bubbly lucencies throughout both lungs (identical to bronchopulmonary dysplasia)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "resolution over 12 months"
+  }
+}

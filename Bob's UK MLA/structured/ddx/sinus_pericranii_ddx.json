@@ -1,0 +1,32 @@
+{
+  "finding": "Sinus Pericranii (DDx)",
+  "slug": "sinus_pericranii_ddx",
+  "chapter": "Sinus Pericranii",
+  "source_file": "processed_clusters/sinus_pericranii/sinus_pericranii_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cephalocele",
+      "raw": "cephalocele",
+      "frequency": null
+    },
+    {
+      "name": "hemangioma",
+      "raw": "hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "dermoid cyst",
+      "raw": "dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "calvarial metastasis",
+      "raw": "calvarial metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "transcalvarial perforating channels | connection to adjacent dural venous sinus | possible drainage into extracranial scalp veins | extracalvarial sinus may not opacify ← slow flow"
+}

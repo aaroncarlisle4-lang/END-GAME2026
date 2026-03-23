@@ -1,0 +1,27 @@
+{
+  "finding": "Glioma (DDx)",
+  "slug": "glioma_ddx_1",
+  "chapter": "Glioma",
+  "source_file": "processed_clusters/glioma/glioma_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hypothalamic hamartoma",
+      "raw": "hypothalamic hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "ganglioglioma",
+      "raw": "ganglioglioma",
+      "frequency": null
+    },
+    {
+      "name": "choristoma",
+      "raw": "choristoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "suprasellar hypodense lobulated mass with dense inhomogeneous enhancement | heterogeneous lesion ← cyst formation, necrosis, calcifications | hypointense on T1WI + hyperintense on T2WI + FLAIR | obstructive hydrocephalus"
+}

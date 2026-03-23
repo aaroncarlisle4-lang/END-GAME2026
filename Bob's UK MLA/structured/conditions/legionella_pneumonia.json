@@ -1,0 +1,30 @@
+{
+  "name": "LEGIONELLA PNEUMONIA",
+  "slug": "legionella_pneumonia",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/legionella_pneumonia.md",
+  "definition": "LEGIONNAIRES' DISEASE",
+  "demographics": {
+    "Prevalence": "6% of community-acquired pneumonias",
+    "Histo": "leukocytoclastic fibrinopurulent pneumonia with histiocytes in intraalveolar exudate",
+    "Location": "unilateral / bilateral (less frequent); lobar / segmental"
+  },
+  "dominant_finding": "moderate volume of pleural effusion (6-30-63%)",
+  "distribution": "unilateral / bilateral (less frequent); lobar / segmental",
+  "discriminating_features": [
+    "patchy bronchopneumonia (= multifocal consolidation)",
+    "moderate volume of pleural effusion (6-30-63%)",
+    "cavitation (rare)"
+  ],
+  "other_features": {
+    "general": [
+      "patchy bronchopneumonia (= multifocal consolidation)",
+      "moderate volume of pleural effusion (6-30-63%)",
+      "cavitation (rare)"
+    ]
+  },
+  "clinical": {
+    "Cx": "progressive respiratory failure (most common cause of death; 6% mortality in otherwise",
+    "Rx": "erythromycin"
+  }
+}

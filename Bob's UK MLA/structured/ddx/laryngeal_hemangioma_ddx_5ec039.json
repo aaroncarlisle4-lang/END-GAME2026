@@ -1,0 +1,22 @@
+{
+  "finding": "Laryngeal Hemangioma (DDx)",
+  "slug": "laryngeal_hemangioma_ddx_5ec039",
+  "chapter": "Laryngeal Hemangioma",
+  "source_file": "processed_clusters/laryngeal_hemangioma/laryngeal_hemangioma_ddx_5ec039.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "paraganglioma",
+      "raw": "paraganglioma",
+      "frequency": null
+    },
+    {
+      "name": "hypervascular metastasis",
+      "raw": "hypervascular metastasis (renal adenocarcinoma)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "smoothly hemispheric mass ± distortion of coated surfaces of pharyngeal / laryngeal | strong contrast enhancement | phleboliths (PATHOGNOMONIC for cavernous type) | very high signal intensity on T2WI"
+}

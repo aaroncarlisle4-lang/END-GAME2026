@@ -1,0 +1,32 @@
+{
+  "finding": "Posterior Fossa Cystic Malformation",
+  "slug": "posterior_fossa_cystic_malformation_3b69e1",
+  "chapter": "D. PREDOMINANTLY MIDBRAIN",
+  "source_file": "processed_clusters/d_predominantly_midbrain/posterior_fossa_cystic_malformation_3b69e1.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dandy-Walker malformation",
+      "raw": "Dandy-Walker malformation",
+      "frequency": null
+    },
+    {
+      "name": "Dandy-Walker variant",
+      "raw": "Dandy-Walker variant",
+      "frequency": null
+    },
+    {
+      "name": "Megacisterna magna",
+      "raw": "Megacisterna magna",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid pouch",
+      "raw": "Arachnoid pouch",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

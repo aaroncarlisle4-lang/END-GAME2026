@@ -1,0 +1,37 @@
+{
+  "finding": "B. EXTRARENAL (a) liver disease",
+  "slug": "b_extrarenal_a_liver_disease",
+  "chapter": "Nephrogenic Diabetes Insipidus",
+  "source_file": "processed_clusters/nephrogenic_diabetes_insipidus/b_extrarenal_a_liver_disease.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatoma",
+      "raw": "Hepatoma",
+      "frequency": null
+    },
+    {
+      "name": "Regenerating hepatic cells (b)  adrenal disease",
+      "raw": "Regenerating hepatic cells (b)  adrenal disease",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Aldosteronoma",
+      "raw": "Aldosteronoma",
+      "frequency": null
+    },
+    {
+      "name": "Cushing disease",
+      "raw": "Cushing disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

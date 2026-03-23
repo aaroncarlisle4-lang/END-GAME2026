@@ -1,0 +1,122 @@
+{
+  "finding": "D. Transplant",
+  "slug": "d_transplant",
+  "chapter": "Gallium in Lung Imaging",
+  "source_file": "processed_clusters/gallium_in_lung_imaging/d_transplant.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute / chronic rejection",
+      "raw": "Acute / chronic rejection",
+      "frequency": null
+    },
+    {
+      "name": "Acute tubular necrosis",
+      "raw": "Acute tubular necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Urinary bladder",
+      "raw": "Urinary bladder",
+      "frequency": null
+    },
+    {
+      "name": "Cystitis",
+      "raw": "Cystitis",
+      "frequency": null
+    },
+    {
+      "name": "Tumor mnemonic:   CHANT An OLD PSALM",
+      "raw": "Tumor mnemonic:   CHANT An OLD PSALM",
+      "frequency": null
+    },
+    {
+      "name": "Chemotherapy",
+      "raw": "Chemotherapy",
+      "frequency": null
+    },
+    {
+      "name": "Hemochromatosis, Hepatorenal failure",
+      "raw": "Hemochromatosis, Hepatorenal failure",
+      "frequency": null
+    },
+    {
+      "name": "Acute tubular necrosis, Acute lobar nephronia",
+      "raw": "Acute tubular necrosis, Acute lobar nephronia",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Transfusion, Tuberous sclerosis",
+      "raw": "Transfusion, Tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Drugs",
+      "raw": "Drugs (Fe, drugs causing ATN)",
+      "frequency": null
+    },
+    {
+      "name": "Pyelonephritis, Polyarteritis nodosa",
+      "raw": "Pyelonephritis, Polyarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis, Allograft",
+      "raw": "Amyloidosis, Allograft",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis, Myeloma",
+      "raw": "Metastasis, Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Gallium Imaging in Lymphoma",
+      "raw": "Gallium Imaging in Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Hodgkin disease 50-70% average sensitivity dependent on size, location, technique",
+      "raw": "Hodgkin disease 50-70% average sensitivity dependent on size, location, technique",
+      "frequency": "70%"
+    },
+    {
+      "name": "Non-Hodgkin lymphoma 30% sensitivity for lymphocytic subtype, 70% sensitivity for histiocytic subtype",
+      "raw": "Non-Hodgkin lymphoma 30% sensitivity for lymphocytic subtype, 70% sensitivity for histiocytic subtype",
+      "frequency": "30%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  chief use of gallium in tumor imaging before + after chemo- / radiation therapy: √  persisting 67Ga uptake indicates residual tumor √  reversion to normal of a previously 67Ga avid mass indicates fibrosis √  new 67Ga uptake during therapy indicates tumor progression Sensitivity: 90% for mediastinal nodes 80% for neck nodes 48% for periaortic nodes 47% for iliac nodes 36% for axillary nodes"
+}

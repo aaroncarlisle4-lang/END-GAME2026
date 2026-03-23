@@ -1,0 +1,37 @@
+{
+  "finding": "Philippines, Celebes",
+  "slug": "philippines_celebes_3e7d21",
+  "chapter": "SCHISTOSOMIASIS",
+  "source_file": "processed_clusters/schistosomiasis/philippines_celebes_3e7d21.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Schistosoma haematobium Infection:   cercariae penetrate intact human skin / buccal mucosa from contaminated fresh water",
+      "raw": "Schistosoma haematobium Infection:   cercariae penetrate intact human skin / buccal mucosa from contaminated fresh water (slow-moving streams, irrigation canals, paddy fields, lakes)",
+      "frequency": null
+    },
+    {
+      "name": "clinically mild infection with chronic course: fever, headache, myalgia, bloody diarrhea, abdominal pain, eosinophilia @  Liver & spleen",
+      "raw": "clinically mild infection with chronic course: fever, headache, myalgia, bloody diarrhea, abdominal pain, eosinophilia @  Liver & spleen (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Cx:   ileus",
+      "raw": "Cx:   ileus",
+      "frequency": null
+    },
+    {
+      "name": "Dx:   eggs in multiple fecal examinations",
+      "raw": "Dx:   eggs in multiple fecal examinations",
+      "frequency": null
+    },
+    {
+      "name": "Rx:   praziquantel",
+      "raw": "Rx:   praziquantel",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(b)  parasitizing venules of urinary bladder Cycle: cercariae enter lymphatics + blood system via thoracic duct → larvae are transported into mesenteric capillaries → mature in portal system + liver into worms → worms mate and live in pairs within portal vein + tributaries for 10-15 years → female swims against blood flow to reach tributaries of superior mesenteric vein (S. mansoni) / tributaries of inferior mesenteric + superior hemorrhoidal veins (S. japonicum) → deposits eggs in wall of intestines or urinary bladder → eggs seed back to liver via portal vein + become trapped in periportal sp"
+}

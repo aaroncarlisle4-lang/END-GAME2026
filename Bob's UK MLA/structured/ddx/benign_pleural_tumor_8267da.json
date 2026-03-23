@@ -1,0 +1,57 @@
+{
+  "finding": "Benign Pleural Tumor",
+  "slug": "benign_pleural_tumor_8267da",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/benign_pleural_tumor_8267da.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Loculated pleural effusion",
+      "raw": "Loculated pleural effusion (\"vanishing tumor\")",
+      "frequency": null
+    },
+    {
+      "name": "Organized empyema",
+      "raw": "Organized empyema",
+      "frequency": null
+    },
+    {
+      "name": "Local benign mesothelioma",
+      "raw": "Local benign mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Subpleural lipoma: may erode adjacent rib",
+      "raw": "Subpleural lipoma: may erode adjacent rib",
+      "frequency": null
+    },
+    {
+      "name": "Mesothelial cyst",
+      "raw": "Mesothelial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Neural tumor: schwannoma, neurofibroma",
+      "raw": "Neural tumor: schwannoma, neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Solitary fibrous tumor of pleura",
+      "raw": "Solitary fibrous tumor of pleura (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Fibrin bodies =  3-4 cm large tumorlike concentrations of fibrin forming in serofibrinous pleural effusions; usually near lung base",
+      "raw": "Fibrin bodies =  3-4 cm large tumorlike concentrations of fibrin forming in serofibrinous pleural effusions; usually near lung base",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

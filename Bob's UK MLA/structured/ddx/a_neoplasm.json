@@ -1,0 +1,32 @@
+{
+  "finding": "A. NEOPLASM",
+  "slug": "a_neoplasm",
+  "chapter": "C. INFILTRATION",
+  "source_file": "processed_clusters/c_infiltration/a_neoplasm.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor (in 10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Neuroblastoma (in 50%): fine granular / stippled / amorphous",
+      "raw": "Neuroblastoma (in 50%): fine granular / stippled / amorphous",
+      "frequency": "50%"
+    },
+    {
+      "name": "Teratoma: cartilage / bone / teeth, pseudodigits, pseudolimbs",
+      "raw": "Teratoma: cartilage / bone / teeth, pseudodigits, pseudolimbs",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous hemangioma: phleboliths",
+      "raw": "Cavernous hemangioma: phleboliths",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

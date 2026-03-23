@@ -1,0 +1,37 @@
+{
+  "finding": "E. BENIGN TUMOR",
+  "slug": "e_benign_tumor",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/e_benign_tumor.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteoma",
+      "raw": "Osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteoblastoma",
+      "raw": "Osteoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying fibroma",
+      "raw": "Ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Healed fibrous cortical defect",
+      "raw": "Healed fibrous cortical defect",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma / osteochondroma",
+      "raw": "Enchondroma / osteochondroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

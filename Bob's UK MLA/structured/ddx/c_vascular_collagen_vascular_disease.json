@@ -1,0 +1,27 @@
+{
+  "finding": "C. VASCULAR + COLLAGEN-VASCULAR DISEASE",
+  "slug": "c_vascular_collagen_vascular_disease",
+  "chapter": "Ill-defined Opacities with Holes",
+  "source_file": "processed_clusters/ill_defined_opacities_with_holes/c_vascular_collagen_vascular_disease.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Emboli with infarction",
+      "raw": "Emboli with infarction",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Necrobiotic rheumatoid nodules",
+      "raw": "Necrobiotic rheumatoid nodules",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

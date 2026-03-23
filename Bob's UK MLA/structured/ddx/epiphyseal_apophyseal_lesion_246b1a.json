@@ -1,0 +1,92 @@
+{
+  "finding": "Epiphyseal / Apophyseal Lesion",
+  "slug": "epiphyseal_apophyseal_lesion_246b1a",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/epiphyseal_apophyseal_lesion_246b1a.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chondroblastoma",
+      "raw": "Chondroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Brodie abscess",
+      "raw": "Brodie abscess",
+      "frequency": null
+    },
+    {
+      "name": "Fungal / tuberculous infection",
+      "raw": "Fungal / tuberculous infection",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteoid osteoma",
+      "raw": "Osteoid osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Chondromyxoid fibroma",
+      "raw": "Chondromyxoid fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "Bone cyst",
+      "raw": "Bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Foreign-body granuloma",
+      "raw": "Foreign-body granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Chondroblastoma",
+      "raw": "Chondroblastoma (age <40)",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Brown tumor",
+      "raw": "Brown tumor",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Subchondral cyst",
+      "raw": "Subchondral cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "GASTROSCHISIS",
+  "slug": "gastroschisis_8c85da",
+  "chapter": "FETAL TRAUMA",
+  "source_file": "processed_clusters/fetal_trauma/gastroschisis_8c85da.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "MS-AFP ≥ 2.5 MoM in 77-100%",
+      "raw": "MS-AFP ≥ 2.5 MoM in 77-100%",
+      "frequency": "100%"
+    },
+    {
+      "name": "Bowel obstruction",
+      "raw": "Bowel obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Peritonitis",
+      "raw": "Peritonitis (exposure of bowel to fetal urine / meconium)",
+      "frequency": null
+    },
+    {
+      "name": "Perforation ← peritonitis",
+      "raw": "Perforation ← peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Fetal growth restriction (38-77%) ← nutritional loss from exposed bowel",
+      "raw": "Fetal growth restriction (38-77%) ← nutritional loss from exposed bowel",
+      "frequency": "77%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  paramedian full-thickness abdominal fusion defect usually on right side of umbilical cord; may involve thorax; nonrotated bowel lacking secondary fixation to dorsal abdominal wall Prevalence:   4÷10,000 live births (in 2005), sporadic Cause:   deficient mesenchyme during lateral body wall folding former theory:  abnormal involution of right umbilical vein / premature interruption of right omphalomesenteric artery with ischemic damage to abdominal wall Risk factor:   young maternal age (teenage mother÷mother aged > 25 years = 7÷1); more common in non-Hispanic white mothers; NO sex predilecti"
+}

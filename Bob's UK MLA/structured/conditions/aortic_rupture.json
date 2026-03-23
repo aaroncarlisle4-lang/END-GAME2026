@@ -1,0 +1,20 @@
+{
+  "name": "AORTIC RUPTURE",
+  "slug": "aortic_rupture",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/aortic_rupture.md",
+  "definition": "blood leakage through aortic wall",
+  "demographics": {},
+  "dominant_finding": "high-attenuation \"crescent\" sign (71%)",
+  "distribution": "",
+  "discriminating_features": [
+    "high-attenuation \"crescent\" sign (71%)"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "high-attenuation \"crescent\" sign (71%)"
+    ]
+  },
+  "clinical": {}
+}

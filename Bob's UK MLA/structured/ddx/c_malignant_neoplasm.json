@@ -1,0 +1,27 @@
+{
+  "finding": "C. MALIGNANT NEOPLASM",
+  "slug": "c_malignant_neoplasm",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/c_malignant_neoplasm.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma (⅓ lytic, ⅓ sclerotic, ⅓ mixed)",
+      "frequency": null
+    },
+    {
+      "name": "Local invasion from gingival / buccal neoplasms",
+      "raw": "Local invasion from gingival / buccal neoplasms (more common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Metastasis from breast, lung, kidney in 1%",
+      "raw": "Metastasis from breast, lung, kidney in 1% (in 70% adenocarcinoma)",
+      "frequency": "1%"
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   posterior body and angle ← increased marrow vascularity"
+}

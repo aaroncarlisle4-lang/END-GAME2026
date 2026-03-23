@@ -1,0 +1,27 @@
+{
+  "finding": "Abdominal Vascular Calcifications",
+  "slug": "abdominal_vascular_calcifications_50059c",
+  "chapter": "C. INGESTED FOREIGN BODIES",
+  "source_file": "processed_clusters/c_ingested_foreign_bodies/abdominal_vascular_calcifications_50059c.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "ARTERIES",
+      "raw": "ARTERIES",
+      "frequency": null
+    },
+    {
+      "name": "Atheromatous plaques",
+      "raw": "Atheromatous plaques",
+      "frequency": null
+    },
+    {
+      "name": "Arterial calcifications in diabetes mellitus",
+      "raw": "Arterial calcifications in diabetes mellitus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

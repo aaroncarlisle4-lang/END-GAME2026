@@ -1,0 +1,42 @@
+{
+  "finding": "Asbestos-Related Disease (DDx)",
+  "slug": "asbestos_related_disease_ddx",
+  "chapter": "Asbestos-Related Disease",
+  "source_file": "processed_clusters/asbestos_related_disease/asbestos_related_disease_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "talc exposure",
+      "raw": "talc exposure",
+      "frequency": null
+    },
+    {
+      "name": "hemothorax",
+      "raw": "hemothorax",
+      "frequency": null
+    },
+    {
+      "name": "empyema",
+      "raw": "empyema",
+      "frequency": null
+    },
+    {
+      "name": "therapeutic pneumothorax for TB (often unilateral",
+      "raw": "therapeutic pneumothorax for TB (often unilateral",
+      "frequency": null
+    },
+    {
+      "name": "extensive sheetlike",
+      "raw": "extensive sheetlike",
+      "frequency": null
+    },
+    {
+      "name": "on visceral pleura)",
+      "raw": "on visceral pleura)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "calcified (in 10-15% by X-ray, in 15-20% by CT) | dense lines paralleling the chest wall, mediastinum, pericardium, diaphragm | advanced calcifications are leaflike with thick-rolled edges"
+}

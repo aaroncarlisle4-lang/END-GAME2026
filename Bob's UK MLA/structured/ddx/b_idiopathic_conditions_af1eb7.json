@@ -1,0 +1,27 @@
+{
+  "finding": "B. Idiopathic conditions",
+  "slug": "b_idiopathic_conditions_af1eb7",
+  "chapter": "AORTA",
+  "source_file": "processed_clusters/aorta/b_idiopathic_conditions_af1eb7.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Idiopathic aortitis",
+      "raw": "Idiopathic aortitis (pathologic diagnosis only)",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic inflammatory aortic aneurysm",
+      "raw": "Idiopathic inflammatory aortic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic retroperitoneal fibrosis",
+      "raw": "Idiopathic retroperitoneal fibrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

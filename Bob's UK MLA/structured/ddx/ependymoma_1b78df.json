@@ -1,0 +1,32 @@
+{
+  "finding": "EPENDYMOMA",
+  "slug": "ependymoma_1b78df",
+  "chapter": "ENLARGED PERIVASCULAR SPACES",
+  "source_file": "processed_clusters/enlarged_perivascular_spaces/ependymoma_1b78df.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "increased intracranial pressure",
+      "raw": "increased intracranial pressure (90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Astrocytoma",
+      "raw": "Astrocytoma (hypodense, displaces 4th ventricle from midline, cystic lucency, intramedullary)",
+      "frequency": null
+    },
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma (hyperdense, calcifications in only 10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Trapped 4th ventricle",
+      "raw": "Trapped 4th ventricle (no contrast enhancement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  in majority benign slow-growing neoplasm of mature well-differentiated ependymal cells lining the ventricles Incidence:   most common in children; 5-9% of all primary CNS neoplasms; 15% of posterior fossa tumors in children; 63% of spinal intramedullary gliomas Histo:   benign aggregates of ependymocytes in form of perivascular pseudorosettes; may have papillary pattern (difficult DDx to choroid plexus papilloma) Age:  (a) supratentorial: at any age (atrium / foramen of Monro) (b)  posterior fossa: age peaks at 5 + 34 years; M÷F = 0.8÷1 Associated with:   neurofibromatosis Location: (a)  in"
+}

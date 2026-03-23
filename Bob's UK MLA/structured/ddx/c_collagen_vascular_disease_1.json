@@ -1,0 +1,27 @@
+{
+  "finding": "C. COLLAGEN-VASCULAR DISEASE",
+  "slug": "c_collagen_vascular_disease_1",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/c_collagen_vascular_disease_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Wegener granulomatosis: vasculitis with organizing infarcts",
+      "raw": "Wegener granulomatosis: vasculitis with organizing infarcts",
+      "frequency": null
+    },
+    {
+      "name": "Wegener variants",
+      "raw": "Wegener variants",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid nodules: tendency for periphery, occasionally cavitating",
+      "raw": "Rheumatoid nodules: tendency for periphery, occasionally cavitating",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

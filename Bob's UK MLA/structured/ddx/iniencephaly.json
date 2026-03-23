@@ -1,0 +1,37 @@
+{
+  "finding": "INIENCEPHALY",
+  "slug": "iniencephaly",
+  "chapter": "HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS",
+  "source_file": "processed_clusters/hemophagocytic_lymphohistiocytosis/iniencephaly.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Exaggerated lordosis",
+      "raw": "Exaggerated lordosis",
+      "frequency": null
+    },
+    {
+      "name": "Rachischisis",
+      "raw": "Rachischisis",
+      "frequency": null
+    },
+    {
+      "name": "Imperfect formation of skull base at foramen magnum",
+      "raw": "Imperfect formation of skull base at foramen magnum",
+      "frequency": null
+    },
+    {
+      "name": "Klippel-Feil syndrome",
+      "raw": "Klippel-Feil syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Cervical myelomeningocele",
+      "raw": "Cervical myelomeningocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  complex developmental anomaly characterized by M÷F = 1÷4 Associated with other anomalies in 84%: anencephaly, encephalocele, hydrocephalus, cyclopia, absence of mandible, cleft lip / palate, diaphragmatic hernia, omphalocele, gastroschisis, single umbilical artery, CHD, polycystic kidney disease, arthrogryposis, clubfoot √  dorsal flexion of head √  abnormally short + deformed spine Prognosis:   almost uniformly fatal DDx: (1)  Anencephaly"
+}

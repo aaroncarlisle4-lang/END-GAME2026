@@ -1,0 +1,28 @@
+{
+  "name": "CONGENITAL HIGH AIRWAY OBSTRUCTION SYNDROME (CHAOS",
+  "slug": "congenital_high_airway_obstruction_syndrome_chaos",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/congenital_high_airway_obstruction_syndrome_chaos.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "tracheal dilatation",
+  "distribution": "",
+  "discriminating_features": [
+    "tracheal dilatation",
+    "flattened / everted hemidiaphragm",
+    "massive ascites",
+    "enlarged hyperintense lungs on T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "tracheal dilatation",
+      "flattened / everted hemidiaphragm",
+      "massive ascites",
+      "enlarged hyperintense lungs on T2WI"
+    ]
+  },
+  "clinical": {
+    "Cx": "hydrops fetalis ← cardiac compression + obstructed venous return",
+    "Prognosis": "poor"
+  }
+}

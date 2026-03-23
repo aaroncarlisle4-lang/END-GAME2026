@@ -1,0 +1,305 @@
+{
+  "finding": "Common Carotid Artery",
+  "slug": "common_carotid_artery",
+  "chapter": "VESTIBULOCOCHLEAR NERVE (CN VIII",
+  "source_file": "processed_clusters/vestibulocochlear_nerve_cn_viii/common_carotid_artery.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "70% of blood flow is delivered to ICA",
+      "raw": "70% of blood flow is delivered to ICA",
+      "frequency": "70%"
+    },
+    {
+      "name": "Ascending pharyngeal artery [Superior thyroid artery]",
+      "raw": "Ascending pharyngeal artery",
+      "frequency": null,
+      "sites": [
+        "Superior thyroid artery"
+      ]
+    },
+    {
+      "name": "Lingual artery",
+      "raw": "Lingual artery",
+      "frequency": null
+    },
+    {
+      "name": "External maxillary = facial artery",
+      "raw": "External maxillary = facial artery",
+      "frequency": null
+    },
+    {
+      "name": "Occipital artery [Posterior auricular artery]",
+      "raw": "Occipital artery",
+      "frequency": null,
+      "sites": [
+        "Posterior auricular artery"
+      ]
+    },
+    {
+      "name": "Superficial temporal artery",
+      "raw": "Superficial temporal artery",
+      "frequency": null
+    },
+    {
+      "name": "Internal maxillary artery",
+      "raw": "Internal maxillary artery",
+      "frequency": null
+    },
+    {
+      "name": "Internal Carotid Artery",
+      "raw": "Internal Carotid Artery",
+      "frequency": null
+    },
+    {
+      "name": "CERVICAL SEGMENT ascends posterior and medial to ECA; enters carotid canal of petrous bone; NO branches",
+      "raw": "CERVICAL SEGMENT ascends posterior and medial to ECA; enters carotid canal of petrous bone; NO branches",
+      "frequency": null
+    },
+    {
+      "name": "hypersensitive carotid sinus =  slight touch / head movement initiates (a)  vasodilatation with drop in blood pressure (b)  vagal stimulation with sinoatrial / atrioventricular cardiac block",
+      "raw": "hypersensitive carotid sinus =  slight touch / head movement initiates (a)  vasodilatation with drop in blood pressure (b)  vagal stimulation with sinoatrial / atrioventricular cardiac block",
+      "frequency": null
+    },
+    {
+      "name": "PETROUS SEGMENT ascends briefly in carotid canal → bends anteromedially in a horizontal course (anterior to tympanic cavity and cochlea); exits near petrous apex through posterior portion of foramen lacerum; ascends to juxtasellar location where it pierces dural layer of cavernous sinus",
+      "raw": "PETROUS SEGMENT ascends briefly in carotid canal → bends anteromedially in a horizontal course (anterior to tympanic cavity and cochlea); exits near petrous apex through posterior portion of foramen lacerum; ascends to juxtasellar location where it pierces dural layer of cavernous sinus",
+      "frequency": null
+    },
+    {
+      "name": "Caroticotympanic a.: to tympanic cavity, anastomoses with anterior tympanic branch of maxillary a. + stylomastoid a.",
+      "raw": "Caroticotympanic a.: to tympanic cavity, anastomoses with anterior tympanic branch of maxillary a. + stylomastoid a.",
+      "frequency": null
+    },
+    {
+      "name": "Pterygoid (vidian) a.: through pterygoid canal; anastomoses with recurrent branch of greater palatine a.",
+      "raw": "Pterygoid (vidian) a.: through pterygoid canal; anastomoses with recurrent branch of greater palatine a.",
+      "frequency": null
+    },
+    {
+      "name": "CAVERNOUS SEGMENT ascends to posterior clinoid process → then turns anteriorly + superomedially through cavernous sinus; exits medial to anterior clinoid process piercing dura",
+      "raw": "CAVERNOUS SEGMENT ascends to posterior clinoid process → then turns anteriorly + superomedially through cavernous sinus; exits medial to anterior clinoid process piercing dura",
+      "frequency": null
+    },
+    {
+      "name": "Meningohypophyseal trunk (a)  tentorial branch (b)  dorsal meningeal branch (c)  inferior hypophyseal branch",
+      "raw": "Meningohypophyseal trunk (a)  tentorial branch (b)  dorsal meningeal branch (c)  inferior hypophyseal branch",
+      "frequency": null
+    },
+    {
+      "name": "Anterior meningeal a.: supplies dura of anterior fossa; anastomoses with meningeal branch of posterior ethmoidal a.",
+      "raw": "Anterior meningeal a.: supplies dura of anterior fossa; anastomoses with meningeal branch of posterior ethmoidal a.",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous rami supply trigeminal ganglion, walls of cavernous + inferior petrosal sinuses",
+      "raw": "Cavernous rami supply trigeminal ganglion, walls of cavernous + inferior petrosal sinuses",
+      "frequency": null
+    },
+    {
+      "name": "SUPRACLINOID SEGMENT ascends posterior + lateral between oculomotor + optic nerve",
+      "raw": "SUPRACLINOID SEGMENT ascends posterior + lateral between oculomotor + optic nerve",
+      "frequency": null
+    },
+    {
+      "name": "Ophthalmic a. [Posterior communicating a.] [Anterior choroidal a.]",
+      "raw": "Ophthalmic a.",
+      "frequency": null,
+      "sites": [
+        "Posterior communicating a.",
+        "Anterior choroidal a."
+      ]
+    },
+    {
+      "name": "Ophthalmic a. exits from ICA medial to anterior clinoid process, travels through optic canal inferolateral to optic nerve (a)  recurrent meningeal branch: dura of anterior middle cranial fossa (b)  posterior ethmoidal a.: supplies dura of planum sphenoidale (c)  anterior ethmoidal a.",
+      "raw": "Ophthalmic a. exits from ICA medial to anterior clinoid process, travels through optic canal inferolateral to optic nerve (a)  recurrent meningeal branch: dura of anterior middle cranial fossa (b)  posterior ethmoidal a.: supplies dura of planum sphenoidale (c)  anterior ethmoidal a.",
+      "frequency": null
+    },
+    {
+      "name": "Superior hypophyseal a.: optic chiasm, anterior lobe of pituitary [Posterior communicating a.] [Anterior choroidal a.]",
+      "raw": "Superior hypophyseal a.: optic chiasm, anterior lobe of pituitary",
+      "frequency": null,
+      "sites": [
+        "Posterior communicating a.",
+        "Anterior choroidal a."
+      ]
+    },
+    {
+      "name": "Middle + anterior cerebral arteries",
+      "raw": "Middle + anterior cerebral arteries (MCA, ACA)",
+      "frequency": null
+    },
+    {
+      "name": "Medial orbitofrontal a.: along gyrus rectus",
+      "raw": "Medial orbitofrontal a.: along gyrus rectus",
+      "frequency": null
+    },
+    {
+      "name": "Frontopolar a.",
+      "raw": "Frontopolar a.",
+      "frequency": null
+    },
+    {
+      "name": "Callosomarginal a.: within cingulus gyrus",
+      "raw": "Callosomarginal a.: within cingulus gyrus",
+      "frequency": null
+    },
+    {
+      "name": "Pericallosal a.: over corpus callosum within callosal cistern (a)  Superior internal parietal a.: anterior portion of precuneus + convexity of superior parietal lobule (b)  Inferior internal parietal a.",
+      "raw": "Pericallosal a.: over corpus callosum within callosal cistern (a)  Superior internal parietal a.: anterior portion of precuneus + convexity of superior parietal lobule (b)  Inferior internal parietal a.",
+      "frequency": null
+    },
+    {
+      "name": "anterior + middle + posterior internal frontal aa.",
+      "raw": "anterior + middle + posterior internal frontal aa.",
+      "frequency": null
+    },
+    {
+      "name": "paracentral a.: supplies pre- + postcentral gyri Supply:   anterior ⅔ of medial cerebral surface + 1 cm of superomedial brain over convexity [Anterior temporal artery]",
+      "raw": "paracentral a.: supplies pre- + postcentral gyri Supply:   anterior ⅔ of medial cerebral surface + 1 cm of superomedial brain over convexity",
+      "frequency": null,
+      "sites": [
+        "Anterior temporal artery"
+      ]
+    },
+    {
+      "name": "Ascending frontal artery / prefrontal a.",
+      "raw": "Ascending frontal artery / prefrontal a.",
+      "frequency": null
+    },
+    {
+      "name": "Precentral artery = pre-Rolandic a.",
+      "raw": "Precentral artery = pre-Rolandic a.",
+      "frequency": null
+    },
+    {
+      "name": "Central artery = Rolandic a.",
+      "raw": "Central artery = Rolandic a.",
+      "frequency": null
+    },
+    {
+      "name": "Anterior parietal artery = post-Rolandic a. [Posterior parietal artery]",
+      "raw": "Anterior parietal artery = post-Rolandic a.",
+      "frequency": null,
+      "sites": [
+        "Posterior parietal artery"
+      ]
+    },
+    {
+      "name": "Angular artery",
+      "raw": "Angular artery",
+      "frequency": null
+    },
+    {
+      "name": "Middle temporal artery [Posterior temporal artery]",
+      "raw": "Middle temporal artery",
+      "frequency": null,
+      "sites": [
+        "Posterior temporal artery"
+      ]
+    },
+    {
+      "name": "Temporooccipital artery",
+      "raw": "Temporooccipital artery",
+      "frequency": null
+    },
+    {
+      "name": "Mesencephalic perforating branches: tectum + cerebral peduncles",
+      "raw": "Mesencephalic perforating branches: tectum + cerebral peduncles",
+      "frequency": null
+    },
+    {
+      "name": "Posterior thalamoperforating aa.: midline of thalamus + hypothalamus",
+      "raw": "Posterior thalamoperforating aa.: midline of thalamus + hypothalamus",
+      "frequency": null
+    },
+    {
+      "name": "Thalamogeniculate aa.: geniculate bodies + pulvinar",
+      "raw": "Thalamogeniculate aa.: geniculate bodies + pulvinar",
+      "frequency": null
+    },
+    {
+      "name": "Posterior medial choroidal a.: circles midbrain parallel to PCA; enters lateral aspect of quadrigeminal cistern; passes laterally and above pineal gland and enters roof of 3rd ventricle; supplies quadrigeminal plate + pineal gland",
+      "raw": "Posterior medial choroidal a.: circles midbrain parallel to PCA; enters lateral aspect of quadrigeminal cistern; passes laterally and above pineal gland and enters roof of 3rd ventricle; supplies quadrigeminal plate + pineal gland",
+      "frequency": null
+    },
+    {
+      "name": "Posterior lateral choroidal a.: courses laterally and enters choroidal fissure; anterior branch to temporal horn + posterior branch to choroid plexus of trigone and lateral ventricle + lateral geniculate body",
+      "raw": "Posterior lateral choroidal a.: courses laterally and enters choroidal fissure; anterior branch to temporal horn + posterior branch to choroid plexus of trigone and lateral ventricle + lateral geniculate body",
+      "frequency": null
+    },
+    {
+      "name": "Cortical branches:",
+      "raw": "Cortical branches:",
+      "frequency": null
+    },
+    {
+      "name": "anterior: polar / thalamotuberal arteries ← Pcom",
+      "raw": "anterior: polar / thalamotuberal arteries ← Pcom",
+      "frequency": null
+    },
+    {
+      "name": "paramedian: paramedian / thalamoperforating arteries ← P1 segment of PCA",
+      "raw": "paramedian: paramedian / thalamoperforating arteries ← P1 segment of PCA",
+      "frequency": null
+    },
+    {
+      "name": "inferolateral: thalamogeniculate arteries ← P2 segment of PCA",
+      "raw": "inferolateral: thalamogeniculate arteries ← P2 segment of PCA",
+      "frequency": null
+    },
+    {
+      "name": "posterior: posterior choroidal arteries ← P2 segment",
+      "raw": "posterior: posterior choroidal arteries ← P2 segment",
+      "frequency": null
+    },
+    {
+      "name": "Circle of Willis",
+      "raw": "Circle of Willis",
+      "frequency": null
+    },
+    {
+      "name": "Right ICA ↔ right ACA ↔ aCom ↔ left ACA ↔ left ICA",
+      "raw": "Right ICA ↔ right ACA ↔ aCom ↔ left ACA ↔ left ICA",
+      "frequency": null
+    },
+    {
+      "name": "ICA ↔ pCom ↔ basilar a.",
+      "raw": "ICA ↔ pCom ↔ basilar a.",
+      "frequency": null
+    },
+    {
+      "name": "ICA ↔ anterior choroidal a. ↔ posterior choroidal a. ↔ PCA ↔ basilar a.",
+      "raw": "ICA ↔ anterior choroidal a. ↔ posterior choroidal a. ↔ PCA ↔ basilar a.",
+      "frequency": null
+    },
+    {
+      "name": "Developmental anomaly four transient embryonal carotid-basilar anastomoses named according to their corresponding cranial nerves that regress in the following sequence:",
+      "raw": "Developmental anomaly four transient embryonal carotid-basilar anastomoses named according to their corresponding cranial nerves that regress in the following sequence:",
+      "frequency": null
+    },
+    {
+      "name": "Primitive acoustic (otic) artery =  arterial connection between petrous portion of ICA within carotid canal + proximal basilar artery / posterior inferior cerebellar a.",
+      "raw": "Primitive acoustic (otic) artery =  arterial connection between petrous portion of ICA within carotid canal + proximal basilar artery / posterior inferior cerebellar a.",
+      "frequency": null
+    },
+    {
+      "name": "Primitive hypoglossal artery =  arterial connection between the C1-C3 portion of ICA and proximal portion of basilar a.",
+      "raw": "Primitive hypoglossal artery =  arterial connection between the C1-C3 portion of ICA and proximal portion of basilar a.",
+      "frequency": null
+    },
+    {
+      "name": "Persistent primitive trigeminal artery",
+      "raw": "Persistent primitive trigeminal artery",
+      "frequency": null
+    },
+    {
+      "name": "Proatlantal intersegmental artery =  arterial connection between CCA bifurcation / ECA (57%) / ICA at C2-C4 level (38%) and vertebral a. in suboccipital region",
+      "raw": "Proatlantal intersegmental artery =  arterial connection between CCA bifurcation / ECA (57%) / ICA at C2-C4 level (38%) and vertebral a. in suboccipital region",
+      "frequency": "57%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  shares waveform characteristics of both internal + external carotid arteries √  velocity increases toward the aorta (9 cm/sec for each cm of distance from the carotid bifurcation) Carotid Bifurcation =  physiologic stenosis ← inertial forces of blood flow diverting main-flow stream from midvessel to a path along vessel margin at flow divider Location:   lateral to upper border of thyroid cartilage; at level of C3-4 intervertebral disk Branches:   ECA arises anterior + medial to ICA (95%) External Carotid Artery Branches mnemonic:   All Summer Long Emily Ogled Peter's Sporty Isuzu Carotid bu"
+}

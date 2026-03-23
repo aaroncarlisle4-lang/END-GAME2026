@@ -1,0 +1,27 @@
+{
+  "finding": "ACHALASIA",
+  "slug": "achalasia_84272e",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/gastrointestinal_and_abdominal_disorders/achalasia_84272e.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "often increase in lower esophageal sphincter pressure",
+      "raw": "often increase in lower esophageal sphincter pressure",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm (separation of gastric fundus from diaphragm, normal peristalsis, asymmetric tapering)",
+      "frequency": null
+    },
+    {
+      "name": "Peptic stricture of esophagus",
+      "raw": "Peptic stricture of esophagus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  absence of primary esophageal peristalsis (= unorganized peristalsis) + failure of lower esophageal sphincter to relax Etiology: (a)   idiopathic: abnormality of Auerbach plexus / medullary dorsal nucleus; ? neurotropic virus, ? gastrin hypersensitivity (b)  Chagas disease √  megaesophagus = dilatation of esophagus beginning in upper ⅓, ultimately entire length √  absence of primary peristalsis below level of cricopharyngeus √  nonperistaltic contractions √  \"bird-beak\" / \"rat tail\" deformity = V-shaped conical and symmetric tapering of stenotic segment with most marked narrowing at GE junc"
+}

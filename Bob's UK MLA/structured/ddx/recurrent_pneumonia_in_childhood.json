@@ -1,0 +1,32 @@
+{
+  "finding": "Recurrent Pneumonia in Childhood",
+  "slug": "recurrent_pneumonia_in_childhood",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/recurrent_pneumonia_in_childhood.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "IMMUNE PROBLEM",
+      "raw": "IMMUNE PROBLEM",
+      "frequency": null
+    },
+    {
+      "name": "Immune deficiency",
+      "raw": "Immune deficiency",
+      "frequency": null
+    },
+    {
+      "name": "Chronic granulomatous disease of childhood",
+      "raw": "Chronic granulomatous disease of childhood (males)",
+      "frequency": null
+    },
+    {
+      "name": "Alpha 1-antitrypsin deficiency",
+      "raw": "Alpha 1-antitrypsin deficiency",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

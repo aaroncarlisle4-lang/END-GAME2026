@@ -1,0 +1,34 @@
+{
+  "name": "COR TRIATRIATUM",
+  "slug": "cor_triatriatum",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/cor_triatriatum.md",
+  "definition": "rare congenital anomaly in which a fibromuscular septum with a single stenotic / fenestrated /",
+  "demographics": {},
+  "dominant_finding": "accessory chamber (representing the common pulmonary vein) communicates with LA",
+  "distribution": "",
+  "discriminating_features": [
+    "pulmonary venous distention + interstitial edema + dilatation of pulmonary trunk + pulmonary",
+    "enlarged RA + RV",
+    "mild enlargement of LA",
+    "accessory chamber (representing the common pulmonary vein) communicates with LA",
+    "accessory chamber lies always above level of LA appendage"
+  ],
+  "other_features": {
+    "general": [
+      "pulmonary venous distention + interstitial edema + dilatation of pulmonary trunk + pulmonary",
+      "enlarged RA + RV",
+      "mild enlargement of LA"
+    ],
+    "ANGIO": [
+      "dividing membrane on levophase of pulmonary arteriogram"
+    ],
+    "MR": [
+      "accessory chamber (representing the common pulmonary vein) communicates with LA",
+      "accessory chamber lies always above level of LA appendage"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical excision of obstructing membrane"
+  }
+}

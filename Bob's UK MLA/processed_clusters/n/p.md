@@ -1,0 +1,529 @@
+# Finding: P
+
+**Source section:** N
+**Quality score:** 0.7
+**Differential count:** 506
+
+## Differentials
+
+- Pacchionian granulations 215
+- Pachydermoperiostosis 178
+- Pachygyria
+- Pachymeningeal enhancement 297
+- Pachymeninges 310
+- Pachymeningitis 379
+- Page kidney 1228
+- Paget disease
+- Paget-Schroetter Syndrome 850
+- Painful scoliosis 164
+- Painless thyroiditis 509
+- Palate, cleft 1355
+- Palmar
+- Pampiniform plexus 1290
+- Panacinar emphysema 612
+- Panbronchiolitis 647
+- Pancake
+- Pancreatoblastoma 973
+- Pancreozymin 1029
+- Panda sign, gallium imaging 1425
+- Pandora's pneumonitis 615
+- Panlobar nephroblastomatosis 1226
+- Panlobular emphysema 612
+- Panner disease 67
+- Panniculitis
+- Pannus 188
+- Pantothenate kinase-associated neurodegeneration 359
+- Papile classification 384
+- Papilla of Vater, enlargement 1013
+- Papillary
+- Parabiliary venous system 886
+- Parabiotic syndrome, intrauterine 1385
+- Paracardiac bronchus 565
+- Parachute mitral valve 819
+- Paracicatricial emphysema 612
+- Paradoxical
+- ParaGard® 1361
+- Paraglottic space 459
+- Paragonimiasis
+- Parahiatal hernia 1103
+- Paralaryngeal space 459
+- Parallel
+- line equal spacing 1396 track sign, NUC 131
+- Paralytic ileus 1002
+- Paramesonephric duct 1183
+- Paranasal
+- Paraquat 600
+- Pararenal spaces 1186
+- Parasellar mass 307
+- Paraseptal emphysema 612
+- Parasitic
+- Parathormone 36
+- Parathymic syndromes 677
+- Parathyroid
+- Paraureteral diverticulum 1203
+- Paraurethral glands 1192
+- Paravertebral
+- Parenti-Fraccaro disease 57
+- Parent-infant traumatic stress syndrome 68
+- Parietal
+- Parinaud syndrome 308
+- Parity nomenclature 1293
+- Park corner sign 196
+- Parkes Weber syndrome 135, 179
+- Parkinson disease, PET 1401
+- Paroöphoron 1374
+- Parosteal
+- Partially polycystic kidney 1223
+- Passavant ridge 458
+- Passive
+- Pathologic fracture 103
+- Pavlik harness 83
+- Payr sign 811
+- PE 652
+- Pearl
+- like breast calcifications 688 necklace gallbladder 946
+- Pear-shaped urinary bladder 1172
+- Peau d'orange 405
+- Pectus
+- Pediatric dose, NUC 1393
+- Pedicle sclerosis 225
+- Peliosis 974
+- Pelizaeus-Merzbacher disease 392
+- Pelkan spurs 196
+- Pellegrini-Stieda disease 157
+- Pelvic
+- Morquio syndrome 154
+- Pemphigoid, benign mucous membrane 1004
+- Pena-Shokeir phenotype 1377
+- Pencil
+- in-cup deformity 183 point deformity, metatarsal bone 159
+- Penciled distal end of clavicle 19
+- Penciling, terminal tufts 1135
+- Pendred syndrome 449, 499
+- Pendulous urethra 1192
+- Penetrating
+- Penetration, laryngeal 1034
+- Penicillium frequentans 615
+- Penile
+- brachial index 1208 calciphylaxis 1230 carcinoma 1229 fibromatosis 1230 fracture 1230 induration, painful 1180 squamous papilloma 1204
+- Pentalogy of
+- Cantrell 1377
+- Fallot 850
+- Pentobarbital 1437
+- Penumbra 370
+- Pepper syndrome 1226
+- Peptic ulcer 1093
+- Percheron artery 321
+- Perchlorate washout test 1402
+- Percutaneous umbilical blood sampling 1326
+- Perforating veins 778
+- Perforation
+- Pergonal® 1371, 1382
+- Periadventitial hyperplasia 816
+- Periampullary
+- Perianal fistulas 1071
+- Periaortitis, chronic 1259
+- Periapical
+- Peribronchial pneumonia 520
+- Pericaliceal cyst 1239
+- Pericardial
+- Pericerebral fluid, childhood 304
+- Pericholecystic abscess 909, 975
+- Pericranium 233
+- Pericyst 921
+- Peridiverticulitis 1074
+- Periductal mastitis 726
+- Perifocal emphysema 612
+- Perigastric lymph nodes 1041
+- Perihepatitis 862
+- Perihilar
+- Perihippocampal fissures 318
+- Perilunate dislocation 88
+- Perimedial fibroplasia, renal artery 816
+- Perimembranous VSD 858
+- Perimenopause 1331
+- Perineal
+- Perineural sacral cyst 266
+- Periodic acid Schiff 1146
+- Periodontal disease 499
+- Perioptic
+- Periovulatory phase, endometrium 1331
+- Peripancreatic fluid collection 969
+- Peripelvic
+- Perisellar vascular lesion 308
+- Perisplenic nodes 1028
+- Peristalsis
+- Peritonsillar abscess 500
+- Periurethral glands 1192
+- Perivascular
+- T2WI-hyperintense lesions 301
+- Perivillous fibrin deposition 1298
+- Perkin's line 82
+- Perlman
+- Peroneus brevis avulsion fracture 115
+- Persantine® 1414
+- Persimmons 1051
+- Persistence of stapedial artery 500
+- Persistent
+- Petiole 459
+- Petit hernia 1100
+- Petroclinoid ligament 295
+- Petrositis, apical 475
+- Petrous
+- Peutz-Jeghers syndrome 1132
+- Peyer patches 1143
+- Peyronie disease 1230
+- Pfaundler-Hurler disease 152
+- Pfeiffer syndrome 180
+- PHACES 423
+- Phakoma 405
+- Phakomatoses 286
+- Phalangeal preponderance 211
+- Phalanges, rectangular 189
+- Phantom
+- Pharyngoesophageal diverticulum 1147
+- Phasicity 779
+- Phemister triad 209
+- Phenobarbital, biliary atresia 920
+- Phenylketonuria 180
+- Pheochromocytoma
+- Phlebectatic peliosis hepatis 974
+- Phlebolith 123
+- Phlegmasia
+- Phocomelia 1300, 1302
+- Phosphate diabetes 187
+- Phosphoethanolamine 132
+- Phosphorus
+- Photochromogens 646
+- Photographic negative, pulmonary edema 614
+- Photon-deficient bone lesion 2
+- Phrenic
+- Phrenicocolic ligament 1039
+- Phrygian cap 889
+- Phthisis bulbi 414
+- Phycomycosis 682
+- Phyllodes
+- Physaliferous cells 246
+- Physeal widening 13
+- Physical stress test 1413
+- Physiologic
+- Physis, anatomy 36
+- Phytobezoar 1051
+- Pia
+- frame vertebra 179 framing, osteoporosis 6
+- PID 1374
+- Piedmont fracture 108
+- Pie-in-the-sky bladder 1277
+- Pierre Robin syndrome 180
+- Pigeon
+- Piggyback IVC-aorta 819
+- Pigmentation, mucocutaneous 1132
+- Pigmented
+- Pigment stone 912
+- Pigskin 405
+- Pill esophagitis 1087
+- Pilocytic astrocytoma 335
+- Pilomatricoma 28, 181
+- Pindborg tumor 500
+- Pineal
+- Pinealoma 357
+- Pineoblastoma 393
+- Pineocytoma 394
+- Ping-Pong
+- Pins, orthopedic 34
+- PIOPED criteria 659
+- Pipe stem ureter 1281
+- Piriform sinus
+- Pistol-grip deformity, femur 94
+- Pitfalls in cervical trauma 257
+- Pituilith 306
+- Pituitary
+- Placentomegaly 1297
+- Plagiocephaly 215
+- Plantar
+- Plates, orthopedic 33
+- Platybasia 220
+- Platyhelminthes 1028
+- Platyspondyly 1301
+- based lung nodule 539 empyema 612 solitary mass 548
+- Pleuropneumonia-like organism 644
+- Pleuropulmonary paragonimiasis 647
+- Plexiform neurofibroma 273
+- Plexogenic pulmonary arteriopathy 840
+- Plicae circulares 1035
+- Plombage 680
+- Plumbism 90
+- Plummer
+- Vinson syndrome esophageal web 1086 hypopharyngeal carcinoma 487
+- Pneumatic reduction 1109
+- Pneumatocele 648
+- Pneumatocyst 648
+- Pneumatosis
+- Pneumomediastinum 551
+- Pneumonectomy chest 649
+- Pneumonia 519
+- Pneumoretroperitoneum 994
+- Pneumosinus dilatans 378
+- Pneumothorax 545
+- Pocket shot 843
+- Podagra 120
+- POEMS syndrome 155
+- Point of Sudeck 1110
+- Poisoning, phosphorus 180
+- Poland syndrome 649
+- Poliomyelitis, bone 181
+- Polka-dot sclerosis 123
+- Polyangiitis, microscopic 828
+- Polyarteritis nodosa 838
+- Polycystic
+- Polyembryoma 1373
+- Polyhydramnios 1295
+- Polymastia 683, 698
+- Polymethylmethacrylate 24
+- Polymyalgia rheumatica 848
+- Polymyositis 80
+- Polyorchidism 1234
+- Polyostotic
+- Polysplenia syndrome 819
+- Polythelia 683, 698
+- Polyureteritis cystica 1242
+- Pompe disease 931
+- Pontine
+- Pontomesencephalic vein 323
+- Poorly differentiated neuroendocrine tumor 963
+- Popcorn calcification
+- Porcine xenograft, heart 760
+- Porencephaly 395
+- Pores of Kohn and Lambert 519
+- Pork tapeworm 347
+- Porta hepatis
+- Portoenterostomy 920
+- Portopulmonary hypertension 919
+- Portosystemic shunt 870, 977
+- Port-wine nevus
+- Klippel-Trénaunay syndrome 134
+- Sturge-Weber-Dimitri 399
+- Positional headache 344
+- Position, uterine 1329
+- Positive predictive value 1427
+- Positron emission tomography 1396
+- Postaxial, definition 20
+- Postbulbar ulceration 1014
+- Postcholecystectomy syndrome 980
+- Postcricoid
+- Posteromedial corner of knee 49
+- Posthemorrhagic hydrocephalus 384
+- Postinfectious encephalitis 353
+- Postinflammatory
+- Postlumpectomy breast MRI 694
+- Postmaturity syndrome 1380
+- Postmenopausal
+- Postmicturitional adrenergic attack 1173
+- Postmyocardial infarction syndrome 832
+- Postobstructive
+- Postphlebitic valvular incompetence 808
+- Postpneumonectomy pulmonary edema 518
+- Postprimary pulmonary tuberculosis 681
+- Postrheumatic heart disease 840
+- Postrubella syndrome
+- CHD 737
+- Postsurgical brain herniation 309
+- Postterm fetus 1380
+- Posttransplant lymphoproliferative disease 637
+- Posttraumatic
+- Postviral leukoencephalopathy 353
+- Potassium-43 1411
+- Pott
+- Pouch of Rathke 312
+- Pourcelot index 779
+- Pouteau fracture 107
+- Powers ratio 252
+- PPD tuberculin test 680
+- Preaxial, definition 20
+- Precapillary hypertension, lung 749
+- Precentral cerebellar vein 323
+- Precision 1394
+- Precocious puberty 1310
+- Prediverticular disease, colon 1073
+- Preductal aortic coarctation 809
+- Preeclampsia 1380
+- Pregnancy
+- associated breast cancer 718 failure 1338 hydronephrosis 1213 intrauterine device 1362 loss 1338 pulmonary embolism 655
+- Prematurity with accelerated lung maturity 521
+- Prenatal intracranial calcifications 1304
+- Preplacental hemorrhage 1378
+- Prepubertal
+- PRES 396
+- Presacral space, enlarged 1022
+- Presbyesophagus 1133
+- Preseptal cellulitis 424
+- Pressure edema, lung 516
+- Pretibial
+- Prevalence 1427
+- Prevascular mediastinal mass 554
+- Prevertebral
+- Prhen sign 1208
+- Priapism 1235
+- Primary
+- Primordial cyst, tooth 219
+- Prion 347
+- Proatlantal intersegmental artery 323
+- Proboscis 365
+- Probst bundles 327
+- Procarbazine, lung damage 515
+- Processus vaginalis 1189
+- Proctography 1129
+- Progeria 181
+- Progestasert® 1362
+- Prognathism 58
+- Progressing stroke 284
+- Progressive
+- Projectile vomiting 1105
+- Prolactin elevation 283
+- Prolapse of
+- Prominent pyramidal lobe 450
+- Promontory mass 438
+- Pronephros 1183
+- Propoxyphene, lung damage 515
+- Proptosis 422
+- Propylthiouracil 133
+- Prosencephalon 311
+- Prostaglandin E
+- specific antigen 1235
+- Prostatic intraepithelial neoplasia 1235
+- Prostatitis 1237
+- Prosthesis, heart valve 760
+- Prosthetic
+- Protein-losing enteropathy 990
+- Proteus syndrome 182
+- Protrusio acetabuli 22
+- Protrusion, disk 250
+- Proventil® 1437
+- Proximal
+- Pruning, pulmonary arteries 751
+- Pruritus, contrast reaction Endpaper A
+- Prussak space 465
+- PSA
+- Pseudoacardia 1339
+- Pseudoachalasia 1042
+- Pseudoachondroplasia 58
+- Pseudoaneurysm 785
+- Pseudoangiomatous stromal hyperplasia 731
+- Pseudo-blind loop syndrome 1134
+- Pseudocalculus, bile duct 875
+- Pseudocavitation, lung 590
+- Pseudocirrhosis 919
+- Pseudocoarctation
+- Pseudocystic hygroma 493
+- Pseudo-Dandy-Walker-malformation 350
+- Pseudodiverticula, small bowel 1014
+- Pseudodiverticulosis, intramural esophagus 1085
+- Pseudoenhancement, renal cyst 1251
+- Pseudoexstrophy 1203
+- Pseudofractures 182
+- Pseudogestational sac 1349
+- Pseudoglioma, eye 419
+- Pseudogout 70
+- Pseudogynecomastia 724
+- Pseudohermaphroditism 1199
+- Pseudohyperparathyroidism 130
+- Pseudohypoparathyroidism 183
+- Pseudo-Jefferson fracture 258
+- Pseudokidney sign 1164
+- Pseudoleukemia 156
+- Pseudolymphoma 629, 1106
+- Pseudomonas pneumonia 650
+- Pseudomyxoma peritonei 1135
+- Pseudoneuroma of median nerve 71
+- Pseudoobstruction
+- Pseudoobstruction, intestinal 1002
+- Pseudo-omphalocele 1366
+- Pseudopalisading 357
+- Pseudopalsy, Parrot 204
+- Pseudopapilledema 428
+- Pseudoperiostitis 128
+- Pseudopneumoperitoneum 994
+- Pseudopolyposis 1133
+- Pseudopolyps, definition 1022
+- Pseudoporencephaly 395
+- Pseudo-post Billroth-I appearance 1070
+- Pseudoprecocious puberty 1310
+- Pseudopseudohypoparathyroidism 132
+- Pseudoretinoblastomas 434
+- Pseudorosettes, perivascular 354
+- Pseudosacculations
+- Pseudosarcoma, esophagus 1084
+- Pseudospondylolisthesis 278
+- Pseudostrictures, colon 1061
+- Pseudosubluxation, C-spine 221
+- Pseudosyrinx 280
+- Pseudothrombophlebitis 812
+- Pseudotrabeculae 81
+- Pseudotruncus arteriosus 856
+- Pseudotumor
+- Pseudo-Turner syndrome 161
+- Pseudoulcerations 1062
+- Pseudoureterocele 1283
+- Pseudovagina 1181
+- Pseudo-wall sign, intestines 994
+- Pseudo-Whipple disease, MAI infection 1044
+- Pseudowidening, joint space 128
+- Pseudoxanthoma elasticum 183
+- Psychogenic water intoxication 1150
+- Pterygium colli 493
+- Pterygoid
+- Pubarche 1334
+- Puberty 1310
+- Pubic bone maldevelopment 1302
+- Puerperal
+- Puerperium 1330
+- Puff of smoke, brain 382
+- Pulmonary
+- renal syndromes 515 scleroderma 1135 sequestration spectrum 522 talcosis inhalational 674 mainline 652 thromboembolic disease 652 thromboembolism in pregnancy 655 valve, congenital absence 810 varix 662 vascularity 748 decreased 749 increased 748 normal + normal-sized heart 748 on erect chest film 749 vein calcification 750 stenosis 749 variant anatomy 776 venoocclusive disease with edema 517 venoocclusive disease 661 venous hypertension 752 with cyanosis 740
+- Pulseless disease 847
+- Pulsion diverticulum 1005
+- Pulsus
+- Pulverized lung 648
+- Pulvinar, hip joint 82
+- Pump
+- XY gonadal dysgenesis 1182
+- Purulent meningitis 379
+- Pustulotic arthrosteitis 194
+- Putty kidney 1281
+- Pyelectasis, fetal 1167
+- Pyelitis, emphysematous 1240
+- Pyelocalyceal diverticulum 1239
+- Pyelogenic cyst 1239
+- Pyelonephritis 1239
+- Pyelotubular backflow 1167
+- Pyelotumoral backflow 1248
+- Pyeloureteritis cystica 1242
+- Pygopagus 1346
+- Pyknodysostosis 183
+- Pyle disease 150
+- Pylephlebitis 980
+- Pylethrombosis 976
+- Pyloric
+- Pylorospasm, infantile 1105
+- Pylorus 1034
+- Pyocephalus 406
+- Pyogenic
+- Pyomyositis 133
+- Pyonephrosis 1242
+- Pyosalpinx 1376
+- Pyramidal
+
+## Context
+
+holoprosencephaly 365 lissencephaly 375 bone 178 jaw 218 juvenile 126 of the nipple 717 temporal bone 440 arch deep 777 superficial 777 fibromatosis 202 brain 365 cerebrum 365 kidney 1158 vertebra 224 Pancoast syndrome 560 tumor 592 Pancreas agenesis 897 annular 897 atrophy 878 blunt trauma 1055 calcifications 878 congenital anomalies 877 cyst 879 development 891 diameters 891 diffuse enlargement 878 divisum 957 ectopic 924 fatty replacement 878 glycogen-rich cystadenoma 981 heterotopic 1103 hypervascular tumors 879 macrocystic adenoma 955 metastasis 954 microcystic adenoma 981 lesion 880 muci
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Convert ## Differentials into a comparison table.
+  2. Columns = each differential diagnosis.
+  3. Rows = Dominant finding | Demographics | Distribution |
+            Key discriminator | Other findings | Relative frequency.
+  4. Preserve any percentages or 'most common/rare' qualifiers.
+  5. Use ## Context paragraph for additional demographic / distribution clues.
+-->

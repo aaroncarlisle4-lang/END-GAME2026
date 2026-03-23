@@ -1,0 +1,22 @@
+{
+  "finding": "Peritoneal Mesothelioma (DDx)",
+  "slug": "peritoneal_mesothelioma_ddx_1_075b37",
+  "chapter": "Peritoneal Mesothelioma",
+  "source_file": "processed_clusters/peritoneal_mesothelioma/peritoneal_mesothelioma_ddx_1_075b37.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "peritoneal carcinomatosis (indistinguishable); nonneoplastic condition (eg",
+      "raw": "peritoneal carcinomatosis (indistinguishable); nonneoplastic condition (eg",
+      "frequency": null
+    },
+    {
+      "name": "tuberculosis)",
+      "raw": "tuberculosis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "homo- / heterogeneous enhancement ← intratumoral mucinous component / cystic | tumor of intermediate to low SI on T1WI | tumor of intermediate to high SI on T2WI | diffuse uptake of 67Gallium"
+}

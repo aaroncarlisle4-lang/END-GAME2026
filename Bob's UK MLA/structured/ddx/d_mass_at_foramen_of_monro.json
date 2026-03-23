@@ -1,0 +1,27 @@
+{
+  "finding": "D. MASS AT FORAMEN OF MONRO",
+  "slug": "d_mass_at_foramen_of_monro",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/d_mass_at_foramen_of_monro.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Colloid cyst",
+      "raw": "Colloid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Subependymal giant cell tumor",
+      "raw": "Subependymal giant cell tumor (in TS complex)",
+      "frequency": null
+    },
+    {
+      "name": "Subependymoma",
+      "raw": "Subependymoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

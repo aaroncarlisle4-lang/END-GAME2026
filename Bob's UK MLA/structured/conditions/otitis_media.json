@@ -1,0 +1,32 @@
+{
+  "name": "OTITIS MEDIA",
+  "slug": "otitis_media",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/otitis_media.md",
+  "definition": "CHRONIC OTOMASTOIDITIS long-term damage to middle ear",
+  "demographics": {
+    "Age": "infants + young children > adults"
+  },
+  "dominant_finding": "partial / total fluid-attenuation opacification of middle ear ± fluid level",
+  "distribution": "",
+  "discriminating_features": [
+    "partial / total fluid-attenuation opacification of middle ear ± fluid level",
+    "opacification of mastoid air cells",
+    "middle ear effusion",
+    "granulation tissue (no displacement / destruction)",
+    "cholesterol granuloma"
+  ],
+  "other_features": {
+    "general": [
+      "partial / total fluid-attenuation opacification of middle ear ± fluid level",
+      "opacification of mastoid air cells",
+      "middle ear effusion",
+      "granulation tissue (no displacement / destruction)",
+      "cholesterol granuloma",
+      "cholesteatoma"
+    ]
+  },
+  "clinical": {
+    "Cx": "(1) Otomastoiditis"
+  }
+}

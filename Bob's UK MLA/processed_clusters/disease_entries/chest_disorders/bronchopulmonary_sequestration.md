@@ -1,0 +1,89 @@
+# Disease: BRONCHOPULMONARY SEQUESTRATION
+
+**Source section:** CHEST DISORDERS
+
+## Definition
+
+congenital malformation consisting of shares pleural investment with affected normal pulmonary lobe but separated from accessory lobe with its own pleural sheath (= "Rokitansky lobe") preventing collateral air rare variant of pulmonary sequestration
+
+## Key Facts
+
+- **Etiology:** formation of supernumerary tracheobronchial foregut bud caudad to normal lung bud
+- **Size:** usually > 6 cm
+- **Age:** usually in 2nd trimester
+- **Location:** posterobasal segments, rarely upper lung / within fissure; L÷R = 3÷2
+- **Path:** single ovoid / rounded / pyramidal airless lesion
+- **Histo:** resembles normal lung with diffuse dilatation of bronchioles + alveolar ducts +
+- **Frequency:** 0.5-6.0% of all congenital lung lesions
+
+## Imaging Findings
+
+### General
+
+- round / oval, smooth, well-defined solid homogeneous mass near diaphragm with mass effect
+- occasionally fingerlike appendage posteriorly + medially (= anomalous vessel)
+- contrast enhancement of sequestration at the same time as thoracic aorta (on rapid sequential
+- multiple / single air-fluid levels if infected
+- surrounded by recurrent pulmonary consolidation in a lower lobe that never clears completely
+- may communicate with esophagus / stomach
+- conical / triangular homogeneously hyperechoic mass (many interfaces from multiple
+- color duplex may demonstrate feeding artery from descending aorta
+- polyhydramnios (? esophageal compression, excessive fluid secretion by sequestration)
+- fetal hydrops (? venous compression):
+- edema, ascites
+- hydrothorax (obstructed lymphatics + veins in torsed sequestration)
+- solid well-defined uniform hyperintense mass on T2WI
+
+### CXR
+
+- recurrent / persistent pneumonia localized to lower lobe
+- cavitation and cysts ± fluid levels
+- NO communication of rudimentary bronchial system of sequestration with
+- single well-defined homogeneous triangular mass (most commonly located adjacent to
+- NO air bronchograms
+- small "bump" on hemidiaphragm / inferior paravertebral region
+- opaque hemithorax ± ipsilateral pleural effusion (if sequestration large)
+- ± air-fluid level
+
+### ANGIO
+
+- usually single large artery (mean diameter of 6 mm) coursing through inferior pulmonary
+- multiple arteries in 16% (with vessel diameter of < 3 mm)
+- combined systemic + pulmonary arterial supply
+- venous drainage via
+
+### CT
+
+- single / multiple thin-walled cysts containing fluid / mucus / pus / air-fluid level / air
+- mucus-impacted ectatic bronchi (= fat density) in sequestered lung
+- emphysema bordering normal lung (37%) = postobstructive hyperinflation of sequestered
+- homogeneous / inhomogeneous soft-tissue mass with irregular borders
+- irregular enhancement (rare)
+- one / two anomalous systemic arteries arising from aorta (DDx: AVM, interrupted
+- premature atherosclerosis of anomalous arteries
+- homogeneous well-circumscribed soft-tissue density mass (no bronchial communication)
+- lack of perfusion during pulmonary phase followed by rapid perfusion in systemic phase
+- communication of bronchial tree of sequestered lung with esophagus / stomach
+
+### Others: renal anomaly, vertebral anomaly
+
+- airless (NO communication with bronchial tree); presence of air → connection with GI tract
+- may contain cystic areas
+- mediastinal shift (if large)
+- arterial supply from
+- venous drainage via
+
+## Clinical
+
+- **Rx:** prenatal thoracoamniotic shunt
+- **Cx:** massive spontaneous nontraumatic pleural hemorrhage, chronic inflammation, fibrosis
+- **Prognosis:** favorable (worse if pulmonary hypoplasia present); decreases in size /
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

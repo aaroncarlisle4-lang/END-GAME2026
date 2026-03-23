@@ -1,0 +1,37 @@
+{
+  "finding": "Left Ventricular Mass",
+  "slug": "left_ventricular_mass",
+  "chapter": "C. MYOCARDIAL / INTRAMURAL",
+  "source_file": "processed_clusters/c_myocardial_intramural/left_ventricular_mass.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thrombus",
+      "raw": "Thrombus",
+      "frequency": null
+    },
+    {
+      "name": "Papillary muscle",
+      "raw": "Papillary muscle",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyoma",
+      "raw": "Rhabdomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Fibroma",
+      "raw": "Fibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

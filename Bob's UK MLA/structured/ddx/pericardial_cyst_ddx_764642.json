@@ -1,0 +1,32 @@
+{
+  "finding": "Pericardial Cyst (DDx)",
+  "slug": "pericardial_cyst_ddx_764642",
+  "chapter": "Pericardial Cyst",
+  "source_file": "processed_clusters/pericardial_cyst/pericardial_cyst_ddx_764642.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "congenital cyst (thymic",
+      "raw": "congenital cyst (thymic",
+      "frequency": null
+    },
+    {
+      "name": "bronchogenic",
+      "raw": "bronchogenic",
+      "frequency": null
+    },
+    {
+      "name": "neurenteric",
+      "raw": "neurenteric",
+      "frequency": null
+    },
+    {
+      "name": "duplication cyst); cystic tumor",
+      "raw": "duplication cyst); cystic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "no restricted diffusion on DWI + high signal on ADC map | hemorrhagic cyst: | high SI on T1WI | susceptibility on GRE"
+}

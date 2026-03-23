@@ -1,0 +1,276 @@
+# Finding: Shotgun sign 874
+
+**Source section:** S
+**Quality score:** 0.8
+**Differential count:** 250
+
+## Differentials
+
+- hand syndrome 185 impingement 191 instability 19 joint anatomy 36 labral tears 135
+- Shrapnell membrane 465
+- Shrinking breast 714
+- Shrunken bladder 1281
+- Shunt
+- Sialolithiasis 502
+- Sialosis 502
+- Sicca syndrome 504
+- Sickle
+- Thal disease 199
+- Siderosilicosis 670
+- Siderosis 670
+- Siderotic nodule 917
+- Sigmoid
+- Sign of the Camalote, lung 923
+- Silent thyroiditis 509
+- Silhouette sign 550
+- Silicone
+- Siliconoma 728
+- Silicoproteinosis 670
+- Silicosiderosis 670
+- Silicosis 670
+- Silicotuberculosis 671
+- Silo-filler's disease 527
+- Silver
+- colored stools 896
+  - fork deformity 108
+- Simian crease 89
+- Simon focus 680
+- Simple
+- Simpson's white line 1202
+- Sincipital cephalocele 339
+- Sinding-Larsen-Johansson disease 199
+- Single
+- breath image, NUC 1405
+  - cavity cochlea 495 colonic filling defect 1021 outlet of heart 856 photon absorptiometry 4 umbilical artery 1381 ventricle 845 double inlet 845
+- type hemangiopericytoma 486
+- Sinusitis 502
+- Sinusoidal obstruction syndrome 982
+- Sipple disease 957
+- Sirenomelia 245
+- Sister Joseph nodule, 1027
+- Sistrunk procedure 506
+- Situs 737
+- Sitzmarks test 1035
+- Sixth ventricle 314
+- Sjögren syndrome 504
+- Skeletal dysplasia in fetus 1300
+- Skene
+- Slanting, tibiotalar joint 25
+- SLAP lesion, shoulder 136
+- SLE 672
+- Slender ribs 19
+- Slice of sausage pattern, breast 725
+- Sliding hiatal hernia 1103
+- Slim sign, carotid artery 477
+- Slipped
+- flow vascular malformation 846 stroke 284
+- Sludge, gallbladder 912
+- Sly disease 152
+- Small
+- Smudged papillae 1281
+- Snake-head sign, barium 1000
+- Snapping hip syndrome 22
+- Snowman configuration, cardiac silhouette 782
+- Snowstorm pattern, breast 728
+- Snuff box 109
+- Soap-bubble appearance
+- Soave procedure 1104
+- Sodium reabsorption 1188
+- Soft-tissue
+- Soleal muscle veins 777
+- Soleus syndrome 196
+- Solid
+- pseudopapillary tumor, pancreas 982 renal mass 1162 splenic lesions 881 thymic lesion 553
+- Somatostatinoma 964
+- Somatotrophic adenoma 394
+- Soto syndrome 58
+- Sources of artifacts
+- Space of Retzius 1282
+- Spadelike hand 58
+- Spalding sign 1357
+- Spasmus nutans 428
+- Spastic bladder 1227
+- Spatial resolution, scintigram 1395
+- Specificity 1427
+- Speckling, V/Q scan 633
+- SPECT
+- Spermatocele 1178
+- Sperm granuloma 1177
+- Spheno
+- Sphenoidal encephalocele 339
+- Spherocytosis, hereditary 127
+- Spheroids 91
+- Sphincter
+- Spidery calices 1259
+- Spigelian hernia 1100
+- Spina
+- Spinnaker-sail sign 551
+- Spinoglenoid notch 36
+- Spinous process fracture 257
+- Spleen
+- Splenogonadal fusion 896
+- Splenoma 983
+- Splenomegaly 880
+- fat sign 270 hand 1302 notochord syndrome 278 pleura sign 547, 613
+- Wilms tumor 1291
+- Burkitt lymphoma 1057
+- Sprengel deformity 201
+- Spring onion ureter 1283
+- Sprue 1139
+- Squamous cell carcinoma
+- Square shift, brain 291
+- Squashed carpi 190
+- Squatting position 849
+- Squeeze sign 1113
+- S sign of Golden 592
+- Stacked-coin appearance 989
+- Stafne cyst 219
+- Staghorn calculus 1288
+- Standardized uptake value 1398
+- Stanford classification 790
+- Stapedial
+- Staphylococcal pneumonia 671
+- Staphyloma 435
+- Staples, orthopedic 34
+- Starfish scar, lung 651
+- Starr-Edwards valve 760
+- Starry sky pattern 940
+- Statins, MSK 90
+- Statistics 1427
+- Stauffer syndrome 1248
+- Steatosis, liver 926
+- Steeple sign, pharynx 482
+- Steinberg
+- Stener lesion 110
+- Stenogyria 342
+- Stenosis
+- GI tract 1000
+- Stercoral ulceration 1134
+- Sterile
+- Sterilized metastasis 643
+- Sternal fracture 110
+- Sternoclavicular
+- Stewart-Treves syndrome 61
+- Stieda fracture 157
+- Stierlin sign 1143
+- Stiff
+- man syndrome 1003
+- Still disease 190
+- Stimulation scan, thyroid 1402
+- Stippled epiphyses 13
+- Stipple sign, TCC 1276
+- St. Jude valve 760
+- Stochastic effects of radiation 1336
+- Stomach
+- Strangulated obstruction 1000
+- Strangulation 1100
+- Strangury 1266
+- Stratification of intestinal tract 1023
+- Strawberry
+- shaped head 1385
+- of-beads sign abdomen 1000 excessive fluid in small bowel 1015 kidney 1247 renal artery 816 small bowel 1015
+  - of-pearls sign kidney 1247 lung 589
+- Striopallidodentate calcinosis 355
+- Stripe sign, lung scintigraphy 657
+- Stroke
+- Strongyloides hyperinfection syndrome 1142
+- Strongyloidiasis 1141
+- Struma ovarii 1382
+- Struvite 1288
+- Stuart index 779
+- Stuck twin 1385
+- Sturge-Weber-Dimitri syndrome 399
+- Stylohyoid ligament calcification 76
+- Subacromial
+- subdeltoid bursitis 194
+- Subadventitial hyperplasia 816
+- Subaortic stenosis 794
+- Subarachnoid
+- Subcapsular hematoma, kidney 1170
+- Subcarinal space lesion 554
+- Subchondral
+- Subclavian steal syndrome 846
+- Subcoracoid shoulder dislocation 86
+- Subcortical
+- Suberosis 615
+- Subfalcine herniation 289
+- Subgaleal
+- Subglottis 462
+- Subhepatic space 1038
+- Subinfundibular pulmonary stenosis 842
+- Sublabral foramen 41
+- Sublingual
+- Subpial space 311
+- Subpleural pulmonary arcades 579
+- Subpulmonic effusion 548
+- Subsegmental
+- Succenturiate lobe, placenta 1322
+- Sucquet-Hoyer canal 119
+- Sudanophilic leukodystrophy 392
+- Sudden cardiac death 759
+- Sudeck
+- Sulcal brain development 310
+- Sulcus terminalis, heart 766
+- Sulfur granules 59
+- Sunburst
+- Superfecundation 1328
+- Superfemale syndrome 134
+- Superfetation 1328
+- Superficial
+- Superparamagnetic iron oxide particles 866
+- Superscan 1
+- Suppression scan, thyroid 1402
+- Suppurative acute pyelonephritis 1240
+- Suprabullar cell 455
+- Supraclinoid carotid aneurysm 331
+- Supracondylar fracture 107
+- Supracristal ventricular septal defect 858
+- Supradiaphragmatic TAPVR 782
+- Supraglottic
+- Supraglottis 459
+- Supraglottitis 484
+- Supraorbital ethmoid cell 455
+- Suprascapular
+- Swenson pull-through 1104
+- Warren shunt 979
+- Susac syndrome 383
+- Suspensory ligament
+- SUV 1398
+- Swallowing function 1033
+- Swan-Ganz line, malpositioned 562
+- Swan neck deformity 188
+- Swenson pull-through procedure 1104
+- Swimming pool granuloma 646
+- Swiss cheese
+- Swollen brain hemispheres 293
+- Swyer-James syndrome 672
+- Sylvian triangle 291
+- Symmetric
+- Sympathetic ganglia tumors 555
+- Sympathoblastoma 497
+- Sympathogonia 498
+- Symphysis pubis, widened 228
+- Syncephalus 1346
+- Synchronous testicular tumor 1275
+- Syncytiotrophoblast 1358
+- Syndactyly 20
+- Syringobulbia 294
+- Syringohydromyelia 279
+- Syringomyelia 280
+- Syrinx 279
+- Systemic
+
+## Context
+
+Shoulder dislocation 86 Milwaukee 163 muscles, anatomy 38 rotator cuff lesions 191 sign, hypertrophic pyloric stenosis 1105 aortic size 737 evaluation 737 intracardiac, NUC 1416 patency 1418 portal vein 870 portosystemic 977 ventriculoperitoneal, complications 407 with normal left atrium 737 Shwachman-Diamond syndrome 981 Sialadenitis 501 chronic recurrent 501 sclerosing 481 myoepithelial 504 cell anemia 197 disease 196 trait 199 mesocolon hernia 1103 volvulus 1066 Sigmoidocele 1130 Signet ring carcinoma, colon 1064 sign kidney 1229 lung 559 implant 727 leaching 728 spread, breast 728 bone cys
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Convert ## Differentials into a comparison table.
+  2. Columns = each differential diagnosis.
+  3. Rows = Dominant finding | Demographics | Distribution |
+            Key discriminator | Other findings | Relative frequency.
+  4. Preserve any percentages or 'most common/rare' qualifiers.
+  5. Use ## Context paragraph for additional demographic / distribution clues.
+-->

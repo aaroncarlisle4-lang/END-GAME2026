@@ -1,0 +1,37 @@
+{
+  "finding": "Pseudomyxoma Peritonei (DDx)",
+  "slug": "pseudomyxoma_peritonei_ddx",
+  "chapter": "Pseudomyxoma Peritonei",
+  "source_file": "processed_clusters/pseudomyxoma_peritonei/pseudomyxoma_peritonei_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ascites",
+      "raw": "ascites",
+      "frequency": null
+    },
+    {
+      "name": "peritoneal metastases",
+      "raw": "peritoneal metastases",
+      "frequency": null
+    },
+    {
+      "name": "pancreatitis with pseudocysts",
+      "raw": "pancreatitis with pseudocysts",
+      "frequency": null
+    },
+    {
+      "name": "pyogenic peritonitis",
+      "raw": "pyogenic peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "widespread echinococcal disease",
+      "raw": "widespread echinococcal disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "discrete hypoattenuating masses (infrequent) | hypoechoic collection (common) / more solid appearance (rare) | nonmobile echoes from proteinaceous / bloody / fibrinous exudate | echogenic septations"
+}

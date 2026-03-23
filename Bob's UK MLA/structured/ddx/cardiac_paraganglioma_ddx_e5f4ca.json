@@ -1,0 +1,22 @@
+{
+  "finding": "Cardiac Paraganglioma (DDx)",
+  "slug": "cardiac_paraganglioma_ddx_e5f4ca",
+  "chapter": "Cardiac Paraganglioma",
+  "source_file": "processed_clusters/cardiac_paraganglioma/cardiac_paraganglioma_ddx_e5f4ca.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "myxoma (broad base of attachment",
+      "raw": "myxoma (broad base of attachment",
+      "frequency": null
+    },
+    {
+      "name": "softer)",
+      "raw": "softer)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "middle mediastinal mass splaying carina simulating left atrial enlargement (for typically | large echogenic left atrial mass | compression of SVC, encasement of coronary arteries"
+}

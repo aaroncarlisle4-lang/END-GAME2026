@@ -1,0 +1,47 @@
+{
+  "finding": "Rim-Enhancing Lesion",
+  "slug": "rim_enhancing_lesion",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/rim_enhancing_lesion.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Complicated cyst / postoperative seroma:",
+      "raw": "Complicated cyst / postoperative seroma:",
+      "frequency": null
+    },
+    {
+      "name": "Invasive carcinoma:",
+      "raw": "Invasive carcinoma:",
+      "frequency": null
+    },
+    {
+      "name": "Fat necrosis:",
+      "raw": "Fat necrosis:",
+      "frequency": null
+    },
+    {
+      "name": "Superimposition of blood vessels: tubular structures on MIP ›  Rare",
+      "raw": "Superimposition of blood vessels: tubular structures on MIP ›  Rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "Adenosis",
+      "raw": "Adenosis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Lymphadenitis",
+      "raw": "Lymphadenitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  Common √  narrow hyperintense ring on T2 √  broad hypo- / isointense ring on T2WI ← vital tumor √  thick irregular shaggy rim √  centrally low signal of fat content √  confirmatory low-density lesion on mammogram"
+}

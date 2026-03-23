@@ -1,0 +1,110 @@
+{
+  "finding": "C. CYSTIC PELVIC LESION (a) congenital / developmental",
+  "slug": "c_cystic_pelvic_lesion_a_congenital_developmental_e8f521",
+  "chapter": "D. UNDERDISTENDED BLADDER",
+  "source_file": "processed_clusters/d_underdistended_bladder/c_cystic_pelvic_lesion_a_congenital_developmental_e8f521.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Urachal cyst",
+      "raw": "Urachal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Müllerian duct cyst",
+      "raw": "Müllerian duct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Gartner duct cyst [Anterior meningocele]",
+      "raw": "Gartner duct cyst",
+      "frequency": null,
+      "sites": [
+        "Anterior meningocele"
+      ]
+    },
+    {
+      "name": "Hydrometrocolpos (b)  related to trauma",
+      "raw": "Hydrometrocolpos (b)  related to trauma",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma: eg, rectus sheath hematoma",
+      "raw": "Hematoma: eg, rectus sheath hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Urinoma",
+      "raw": "Urinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphocele",
+      "raw": "Lymphocele",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric cyst (c)  cyst of genitalia",
+      "raw": "Mesenteric cyst (c)  cyst of genitalia",
+      "frequency": null
+    },
+    {
+      "name": "Prostatic cyst",
+      "raw": "Prostatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cyst of seminal vesicle",
+      "raw": "Cyst of seminal vesicle",
+      "frequency": null
+    },
+    {
+      "name": "Cyst of vas deferens",
+      "raw": "Cyst of vas deferens",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian cyst",
+      "raw": "Ovarian cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hydrosalpinx",
+      "raw": "Hydrosalpinx",
+      "frequency": null
+    },
+    {
+      "name": "Vaginal cyst (d)  cyst of urinary bladder",
+      "raw": "Vaginal cyst (d)  cyst of urinary bladder",
+      "frequency": null
+    },
+    {
+      "name": "Bladder diverticulum (e)  cyst of GI tract",
+      "raw": "Bladder diverticulum (e)  cyst of GI tract",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal inclusion cyst",
+      "raw": "Peritoneal inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Fluid-filled bowel",
+      "raw": "Fluid-filled bowel",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

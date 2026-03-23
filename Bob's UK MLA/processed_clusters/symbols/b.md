@@ -1,0 +1,231 @@
+# Finding: B
+
+**Source section:** Symbols
+**Quality score:** 0.5
+**Differential count:** 201
+
+## Differentials
+
+- Baart de la Faille sign 1350
+- BAC 590
+- Bacillary angiomatosis 1045
+- Backflow, pyelotubular 1167
+- Backwash ileitis 1144
+- Bacterial
+- Bailey classification 475
+- Baker cyst 202
+- Balanced
+- in-socket ankle mortise 205 epiphysis 57
+  - type valve, popliteal cyst 202
+- on-a-string sign, UPJ obstruction 1284
+- shaped uterine cavity 1386 sign 268, 343
+- Bankart lesion 86
+- Bannayan-Riley-Ruvalcaba syndrome 1051
+- Banti syndrome 898
+- Bantu siderosis 933
+- Barber pole sign, GI tract 1128
+- Bardet-Biedl syndrome 1303
+- Bare area, liver 1038
+- Baritosis 585
+- Barium-133 1395
+- Barlow
+- Barrel chest 17
+- Barrett esophagus 1051
+- Bartholin gland cyst 1342
+- Barton fracture 107
+- Bartter syndrome 1169
+- Basal
+- dens interval 252
+- Batson plexus 281
+- Battered child syndrome 68
+- Battledore placenta 1298
+- Battle sign 255
+- Bat-wing configuration of
+- Chiari II 342
+- Bayes's theorem 1427
+- Beaded
+- shaped nose 181 sign renal cyst 1251 small bowel 1001
+- Bean syndrome 1052
+- Bear paw sign 1242
+- Beaten brass skull 366
+- Beckwith-Wiedemann syndrome 1342
+- Bedside chest radiography 562
+- Beemer disease 196
+- Behçet disease 798
+- Bell
+- Bends 70
+- Beneficial
+- ASD 797
+- PDA 835
+- Benign
+- Bergqvist triad 610
+- Berry aneurysm
+- CNS 329
+- PCKD 1232
+- Bertolotti syndrome 240, 213
+- Berylliosis 585
+- Beta-hCG
+- RIA 1320
+- Bezoar 1051
+- Bezold abscess 496
+- Biceps
+- labral complex 37
+- Bicornuate uterus 1387
+- Bicuspid aortic valve 735, 799
+- Bifid
+- Apert syndrome 62
+- Crouzon syndrome 76
+- Big bang theory 811
+- Bilateral
+- enteric fistula 899 microhamartomas 956 pancreatitis 969 papillomatosis 974 scintigraphy 1417
+- Bilirubin 888
+- Bilobed placenta 1323
+- Bimastoid line 236
+- Binswanger disease 337
+- Biochemical arthritis 14
+- Biomechanics, spinal column 238
+- Biophysical profile 1325
+- Biparietal diameter 1324
+- Biphosphonates 90
+- BI-RADS®
+- beak esophagus 1042
+  - fancier's lung 615
+  - headed dwarfism, Seckel syndrome 1380
+  - like appearance, progeria 181
+  - of-prey sign 1066
+  - wing joint 163
+- Birt-Hogg-Dubé syndrome 1248
+- Birth trauma, head 213
+- Bitemporal hemianopia 411
+- Bithalamic lesions 303
+- Bizarre parosteal osteochondromatous proliferation 69
+- Bjørk-Shiley valve 760
+- Black
+- Blade of grass osteolysis 178
+- Blake pouch cyst 337
+- Blalock
+- Hanlon procedure 759
+  - Taussig shunt 759
+- White-Garland syndrome 781
+- Blastomere 1327
+- Blastomycosis
+- European 606
+- North American 585
+- Bleb 544
+- Bleeding
+- Bleomycin 514
+- Blighted ovum 1341
+- Blind loop syndrome 1043
+- Block vertebra 221
+- Blood
+- filled sponge, bone 61 gas abnormalities, lung 569 pool agents, NUC 1409
+- Blueberry muffin syndrome 1226
+- Blumensaat line 48
+- Blumer shelf 1132
+- Blunt
+- Blurring, radiographic 703
+- Blythe & Ockenden classification 1233
+- Bochdalek hernia 609
+- Body
+- Boeck sarcoid, lung 665
+- Boerhaave syndrome 1056
+- Böhler angle 55
+- Bolus of worms 898
+- Bone
+- within-bone appearance 3 vertebra 224
+- Bonnet-Dechaume-Blanc disease 334
+- Bonnevie-Ullrich syndrome 211
+- Bony outgrowths from vertebra 223
+- Boomerang configuration of brain 365
+- Booster reinjection technique, thallium 1411
+- Boot-shaped heart 849
+- Borchardt triad 1094
+- Border zone infarct 372
+- Bormann classification 1092
+- Bosniak classification 1251
+- Botallo ligament
+- Bouchard nodes 163
+- Bounding peripheral pulses 834
+- Bourneville disease 404
+- Boutonnière deformity 188
+- Bouveret syndrome 1090
+- Bovine
+- Bowing fracture 102
+- Bowl of grapes sign, bone tumor 204
+- Bow-tie sign, cervical spine 257
+- Boxers fracture 109
+- Boxlike cardiomegaly 814
+- Boyd vein 778
+- Brachial plexus injury 245
+- Brachycephaly 215
+- Brachydactyly 20
+- Bradycardia, fetal 1306
+- Brain
+- Branham sign 123
+- Brassy cough 482
+- BRCA 705
+- Breast
+- Brenner tumor 1342
+- Breslow staging 1118
+- Brethaire® 1437
+- Breus mole 1378
+- Brevicollis 264
+- Bridging
+- B-ring, esophagus 1033
+- Brittle bone disease 167
+- Broad
+- Bronchiolar carcinoma 590
+- Bronchiole 567
+- Bronchiolitis 520, 589
+- Bronchioloalveolar carcinoma 590
+- Bronchocele 542
+- Bronchocentric granulomatosis 591
+- Bronchogenic
+- Broncholith 559
+- Broncholithiasis 559
+- Bronchopleural fistula 596
+- Bronchopneumonia 519
+- Bronchopulmonary
+- Bronchorrhea 590
+- Bronchospasm, contrast reaction Endpaper A
+- Bronchus 565
+- pulmonary artery ratios 749 tracheal 564
+- Brunzel sign 1269
+- Brush border margins, bone 69
+- Bruxism 442
+- Bryce sign 491
+- Bubbles of the belly 1027
+- Bubbly
+- Buerger disease 799
+- Buffalo hump
+- Cushing syndrome 1206
+- Bulla 544
+- Bullet-shaped vertebra 224
+- Bullous
+- Bunch of flowers, kidney 1219
+- Bundles of Probst 327
+- Bunsen-type valve 202
+- Buphthalmos 419
+- Burkitt lymphoma 634, 1057
+- Burnt-out
+- Bursitis, subacromial-subdeltoid 194
+- Burst fracture 257
+- Buruli ulcer 646
+- Buschke-Ollendorff syndrome 146, 173
+- Busulfan 514
+- Butchart staging 642
+
+## Context
+
+arthritis 14 bronchopneumonia 541 endocarditis 798 meningitis 379 nephritis acute diffuse 1240 acute focal 1240 pneumonia 519 in AIDS 575 sinusitis 503 Bagassosis 615 Bag of bones, Charcot joint 159 worms brain AVM 334 plexiform neurofibroma 273, 390 coronary circulation 769 pneumoperitoneum 993 Balkan nephropathy 1276 Ball Balloon atrial septostomy 759 epiphysis 189 Bamboo spine 242 poliomyelitis 181 Banana fracture 179 disease 195 syndrome 830 test 81 Barotrauma 663 cell nevus syndrome 67 encephalocele 339 ganglia 363, 372 anatomy 312 bilateral lesions, childhood 301 calcification 302 echoge
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Convert ## Differentials into a comparison table.
+  2. Columns = each differential diagnosis.
+  3. Rows = Dominant finding | Demographics | Distribution |
+            Key discriminator | Other findings | Relative frequency.
+  4. Preserve any percentages or 'most common/rare' qualifiers.
+  5. Use ## Context paragraph for additional demographic / distribution clues.
+-->

@@ -1,0 +1,52 @@
+{
+  "finding": "Intrinsic Field Uniformity Test",
+  "slug": "intrinsic_field_uniformity_test_4797b8",
+  "chapter": "QUALITY CONTROL OF CALIBRATORS",
+  "source_file": "processed_clusters/quality_control_of_calibrators/intrinsic_field_uniformity_test_4797b8.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Remove collimator + replace with lead ring",
+      "raw": "Remove collimator + replace with lead ring (to eliminate edge packing)",
+      "frequency": null
+    },
+    {
+      "name": "Place a point source at a distance of at least 5 crystal diameters from detector",
+      "raw": "Place a point source at a distance of at least 5 crystal diameters from detector (4-5 feet for small, 7-9 feet for large crystals)",
+      "frequency": null
+    },
+    {
+      "name": "Point source contains 200-400 µCi of 99mTc for minimal personnel exposure",
+      "raw": "Point source contains 200-400 µCi of 99mTc for minimal personnel exposure (avoid contamination of crystal)",
+      "frequency": null
+    },
+    {
+      "name": "Set count rate below limit of instrument",
+      "raw": "Set count rate below limit of instrument (< 30,000 counts)",
+      "frequency": null
+    },
+    {
+      "name": "Adjust the pulse height selector to normal window settings by centering at 140 keV with a window of 15%",
+      "raw": "Adjust the pulse height selector to normal window settings by centering at 140 keV with a window of 15% (for 99mTc studies only)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Use the same photographic device",
+      "raw": "Use the same photographic device",
+      "frequency": null
+    },
+    {
+      "name": "Acquire 1.25 million counts for a 10\" field of view, 2.5 million counts for a 15\" field of view",
+      "raw": "Acquire 1.25 million counts for a 10\" field of view, 2.5 million counts for a 15\" field of view",
+      "frequency": null
+    },
+    {
+      "name": "Register counts, time, CRT intensity, analyzer settings, initials of controller",
+      "raw": "Register counts, time, CRT intensity, analyzer settings, initials of controller",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(without collimator)"
+}

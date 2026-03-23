@@ -1,0 +1,22 @@
+{
+  "finding": "Ependymal Cyst (DDx)",
+  "slug": "ependymal_cyst_ddx",
+  "chapter": "Ependymal Cyst",
+  "source_file": "processed_clusters/ependymal_cyst/ependymal_cyst_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "choroid plexus cyst (NOT of CSF signal intensity on all sequences",
+      "raw": "choroid plexus cyst (NOT of CSF signal intensity on all sequences",
+      "frequency": null
+    },
+    {
+      "name": "typically bilateral)",
+      "raw": "typically bilateral)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± hydrocephalus | ± surrounding reactive gliosis | thin-walled CSF-containing cyst"
+}

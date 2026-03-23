@@ -1,0 +1,43 @@
+{
+  "finding": "Continuous Heart Murmur",
+  "slug": "continuous_heart_murmur",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/continuous_heart_murmur.md",
+  "quality_score": 0.267,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "PDA",
+      "raw": "PDA",
+      "frequency": null
+    },
+    {
+      "name": "AP window",
+      "raw": "AP window",
+      "frequency": null
+    },
+    {
+      "name": "Ruptured sinus of Valsalva aneurysm",
+      "raw": "Ruptured sinus of Valsalva aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Hemitruncus",
+      "raw": "Hemitruncus",
+      "frequency": null
+    },
+    {
+      "name": "Coronary arteriovenous fistula",
+      "raw": "Coronary arteriovenous fistula",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "PDA": [],
+    "AP window": [],
+    "Ruptured sinus of Valsalva aneurysm": [],
+    "Hemitruncus": [],
+    "Coronary arteriovenous fistula": []
+  },
+  "context": "Syndromes with CHD 5 p - (Cri-du-chat) Syndrome Incidence of CHD:   20%"
+}

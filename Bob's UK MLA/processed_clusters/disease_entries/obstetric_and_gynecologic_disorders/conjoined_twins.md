@@ -1,0 +1,64 @@
+# Disease: CONJOINED TWINS
+
+**Source section:** OBSTETRIC AND GYNECOLOGIC DISORDERS
+
+## Definition
+
+incomplete division of embryonic cell mass in monozygotic twins occurring at 13-16 days but united at any part of the skull except face / foramen magnum (usually vertical / parietal in > united from umbilicus to large conjoined pelvis: face to face / end to end joined ventrally in umbilical region, often with inclusion of lower thorax side-to-side position with ventrolateral fusion sharing umbilicus, abdomen, pelvis united dorsally sharing sacrococcygeal + perineal region united from upper thorax to umbilicus
+
+## Key Facts
+
+- **Prevalence:** 1÷50,000 to 1÷200,000 deliveries; 1÷14,000 to 1÷25,000 in Southeast Asia +
+
+## Imaging Findings
+
+### General
+
+- single placenta without separating amniotic membrane (monochorionic, monoamniotic =
+- inseparable fetal bodies + skin contours:
+- fetuses commonly face each other
+- both fetal heads persistently at same level
+- no change in relative position of fetuses
+- bibreech (more common) / bicephalic presentation (cephalic-breech presentation is most
+- backward flexion of cervical spine (in anterior fusion)
+- single cardiac motion (if heart shared)
+- polyhydramnios (in almost 50%)
+- single umbilical cord with > 3 vessels
+- fewer limbs than expected
+- omphalocele
+- congenital heart disease (high frequency in all types of conjoined twinning)
+- shared cranium, meninges, dural venous sinuses (brains commonly remain separate ±
+- usually two sacra ± single symphysis pubis
+- varying degrees of renal fusion + ectopia
+- one / two urinary bladders
+- single external urethral orifice (usually)
+- shared sex organs (frequently born as females)
+- lower GI tract usually shared with anal atresia + colovesical fistulas
+- large pelvic vessel connecting both aortas
+- liver fusion (80%)
+- shared terminal ileum (joined Meckel diverticulum) + proximal colon (33%)
+- conjoined pelvis with single symphysis pubis
+- one / two sacra
+- multiple other anomalies
+- fusion of sacral vertebrae (spinal cords usually separate)
+- single anus ± single rectum
+- single urinary bladder + urethra (15%)
+- common sternum, diaphragm, upper abdominal wall
+- common pericardial sac (90%) + some degree of cardiac fusion
+- fusion of liver (invariably):
+- shared biliary system (in 25%)
+- ± absent / anomalous hepatic venous drainage
+- common small intestine (in 50%): joined at duodenum + separated at distal ileum
+
+## Clinical
+
+- **Prognosis:** 40-60% stillborn; 35% die within 24 hours of life
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

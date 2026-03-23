@@ -1,0 +1,47 @@
+{
+  "finding": "Hypervascular Mediastinal Mass",
+  "slug": "hypervascular_mediastinal_mass",
+  "chapter": "C. DIAPHRAGM",
+  "source_file": "processed_clusters/c_diaphragm/hypervascular_mediastinal_mass.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Paraganglioma",
+      "raw": "Paraganglioma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: typically renal cell carcinoma",
+      "raw": "Metastasis: typically renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Castleman disease",
+      "raw": "Castleman disease",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,50 @@
+{
+  "name": "FIBROMATOSIS COLLI",
+  "slug": "fibromatosis_colli",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/fibromatosis_colli.md",
+  "definition": "PSEUDOTUMOR OF INFANCY = STERNOCLEIDOMASTOID TUMOR OF INFANCY = rare form of benign self-limiting benign fibrous mass within sternocleidomastoid muscle",
+  "demographics": {
+    "Prevalence": "0.4% of live births",
+    "Path": "compartment syndrome with pressure necrosis + secondary fibrosis of",
+    "Histo": "myoblasts + fibroblasts + myofibroblasts in various stages of differentiation",
+    "Age": "2nd to 4th week of life; M > F"
+  },
+  "dominant_finding": "focal / diffuse homogeneous enlargement isoattenuating to other muscle",
+  "distribution": "focal / diffuse enlargement of sternocleidomastoid muscle",
+  "discriminating_features": [
+    "focal / diffuse enlargement of sternocleidomastoid muscle",
+    "NO extramuscular extension / associated soft tissue abnormality",
+    "mild mass effect on surrounding structures",
+    "normal in 98%",
+    "lytic lesion in clavicular head at insertion of sternocleidomastoid muscle"
+  ],
+  "other_features": {
+    "general": [
+      "focal / diffuse enlargement of sternocleidomastoid muscle",
+      "NO extramuscular extension / associated soft tissue abnormality",
+      "mild mass effect on surrounding structures",
+      "normal in 98%",
+      "lytic lesion in clavicular head at insertion of sternocleidomastoid muscle"
+    ],
+    "US": [
+      "unilateral diffuse fusiform homogeneous expansion of sternocleidomastoid muscle",
+      "well- / ill-defined focal mass within muscle:",
+      "homogeneous echotexture (51%)",
+      "hypo- to iso- to hyperechoic depending on duration",
+      "mass moves synchronously with muscle at real-time"
+    ],
+    "MR": [
+      "isointense lesion to normal muscle on T1WI",
+      "hyperintense lesion relative to normal muscle on T2WI",
+      "subtle patchy and linear areas of decreased signal intensity",
+      "heterogeneous enhancement"
+    ],
+    "CT": [
+      "focal / diffuse homogeneous enlargement isoattenuating to other muscle"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "gradual spontaneous regression over 2-3 months; spontaneous resolution during"
+  }
+}

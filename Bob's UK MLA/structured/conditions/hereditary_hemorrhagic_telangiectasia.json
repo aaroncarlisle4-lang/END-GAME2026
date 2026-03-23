@@ -1,0 +1,42 @@
+{
+  "name": "HEREDITARY HEMORRHAGIC TELANGIECTASIA",
+  "slug": "hereditary_hemorrhagic_telangiectasia",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/hereditary_hemorrhagic_telangiectasia.md",
+  "definition": "RENDU-OSLER-WEBER SYNDROME group of autosomal dominant inherited disorders that result in a variety of systemic dilatation of small mucosal blood vessels",
+  "demographics": {
+    "Prevalence": "1-20÷100,000; M = F",
+    "Age": "manifestation usually during adulthood",
+    "Path": "direct connections between arteries + veins with absence of capillaries (telangiectases",
+    "Histo": "absence of cellular intervals in vascular endothelial cells",
+    "Location": "lips, tongue, floor of oral cavity, palate, fingers, face, conjunctiva, trunk, arms,"
+  },
+  "dominant_finding": "subarachnoid hemorrhage",
+  "distribution": "lips, tongue, floor of oral cavity, palate, fingers, face, conjunctiva, trunk, arms,",
+  "discriminating_features": [
+    "subarachnoid hemorrhage",
+    "hepatomegaly",
+    "presence of multiple AVMs (between hepatic artery branches + branches of hepatic /",
+    "heterogeneous liver enhancement with mosaic perfusion",
+    "simultaneous enhancement of hepatic arteries + veins"
+  ],
+  "other_features": {
+    "general": [],
+    "CNS (= cerebral or spinal AVMs)": [
+      "subarachnoid hemorrhage"
+    ],
+    "GI tract (stomach, duodenum, small bowel, colon)": [
+      "hepatomegaly",
+      "presence of multiple AVMs (between hepatic artery branches + branches of hepatic /",
+      "heterogeneous liver enhancement with mosaic perfusion",
+      "simultaneous enhancement of hepatic arteries + veins",
+      "multiple areas of transient hepatic attenuation differences on hepatic arterial phase:",
+      "dilated tortuous hepatic arteries",
+      "early enhancement of dilated hepatic veins",
+      "diffuse mottled capillary blush on angio"
+    ]
+  },
+  "clinical": {
+    "Cx": "atypical cirrhosis, hyperdynamic portal hypertension, variceal GI hemorrhage, ascites,"
+  }
+}

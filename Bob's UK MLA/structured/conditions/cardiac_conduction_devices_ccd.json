@@ -1,0 +1,35 @@
+{
+  "name": "CARDIAC CONDUCTION DEVICES (CCD",
+  "slug": "cardiac_conduction_devices_ccd",
+  "chapter": "LYMPH FLOW DISORDERS",
+  "source_file": "processed_clusters/disease_entries/lymph_flow_disorders/cardiac_conduction_devices_ccd.md",
+  "definition": "electronic device providing small electrical stimuli for cardiac contraction as substitute for AUTOMATIC IMPLANTABLE CARDIOVERTER-DEFIBRILLATOR (AICD) electronic device generating a large amount of electrical energy to defibrillate the heart",
+  "demographics": {
+    "Location": "electrode tip in right atrial appendage"
+  },
+  "dominant_finding": "single lead with 2 shock coils",
+  "distribution": "electrode tip in right atrial appendage",
+  "discriminating_features": [
+    "single lead with 2 shock coils",
+    "electrode tip pointing upward + anteriorly",
+    "electrode tip may be shaped into a preformed \"J loop\"",
+    "slight redundancy of lead desirable to avoid tension during deep inspiration / arm",
+    "electrode tip to left of spine (frontal view)"
+  ],
+  "other_features": {
+    "general": [
+      "single lead with 2 shock coils",
+      "electrode tip pointing upward + anteriorly",
+      "electrode tip may be shaped into a preformed \"J loop\"",
+      "slight redundancy of lead desirable to avoid tension during deep inspiration / arm",
+      "electrode tip to left of spine (frontal view)",
+      "electrode tip pointing anteriorly (lateral view)",
+      "(rarely) electrode tip intended for RVOT",
+      "electrode tip posteriorly (lateral view)",
+      "inferiorly + laterally (frontal view)"
+    ]
+  },
+  "clinical": {
+    "Rx": "cardiac resynchronization therapy (CRT) in combination with implantable"
+  }
+}

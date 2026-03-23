@@ -1,0 +1,45 @@
+{
+  "name": "OPTIC NERVE SHEATH MENINGIOMA",
+  "slug": "optic_nerve_sheath_meningioma",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/optic_nerve_sheath_meningioma.md",
+  "definition": "PERIOPTIC MENINGIOMA",
+  "demographics": {
+    "Frequency": "2% of space-occupying orbital masses; < 2% of intracranial meningiomas",
+    "Mean age": "49 years; M÷F = 1÷4; slightly more aggressive in children",
+    "Histo": "syncytial growth pattern composed of meningioma cells with indistinct cytoplasmic"
+  },
+  "dominant_finding": "tumor enhancement around nonenhancing optic n.:",
+  "distribution": "",
+  "discriminating_features": [
+    "tubular (most common) / fusiform / eccentric (excrescentic) thickening of optic nerve",
+    "calcifications in 20-50% (HIGHLY SUGGESTIVE)",
+    "sphenoid bone hyperostosis",
+    "tumor enhancement around nonenhancing optic n.:",
+    "\"tram-track\" configuration on axial CECT = enhancing tumor on either side of spared"
+  ],
+  "other_features": {
+    "general": [
+      "tubular (most common) / fusiform / eccentric (excrescentic) thickening of optic nerve",
+      "calcifications in 20-50% (HIGHLY SUGGESTIVE)",
+      "sphenoid bone hyperostosis"
+    ],
+    "US": [
+      "hypoechoic tumor with irregular border"
+    ],
+    "CECT": [
+      "tumor enhancement around nonenhancing optic n.:",
+      "\"tram-track\" configuration on axial CECT = enhancing tumor on either side of spared",
+      "ringlike / doughnut configuration on coronal CECT",
+      "linear high-attenuation area parallel to optic nerve (= tumor spread along subarachnoid",
+      "bone remodeling ± enlargement of optic canal",
+      "minimal extension into optic canal (not uncommon)",
+      "hypointense to fat on T1WI",
+      "iso- to slightly hyperintense relative to optic nerve on T2WI",
+      "\"tram-track\" sign = intensely enhancing extrinsic soft-tissue mass surrounding optic nerve"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical intervention to prevent disease dissemination to contralateral eye if disease"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "finding": "Pathologic Uptake in GI Tract",
+  "slug": "pathologic_uptake_in_gi_tract",
+  "chapter": "PET IMAGING OF GI TRACT",
+  "source_file": "processed_clusters/pet_imaging_of_gi_tract/pathologic_uptake_in_gi_tract.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Reflux esophagitis",
+      "raw": "Reflux esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation esophagitis",
+      "raw": "Radiation esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Barrett esophagus",
+      "raw": "Barrett esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Glycogenic acanthosis",
+      "raw": "Glycogenic acanthosis",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal cancer @   Stomach",
+      "raw": "Esophageal cancer @   Stomach",
+      "frequency": null
+    },
+    {
+      "name": "Gastritis",
+      "raw": "Gastritis (NSAID, Helicobacter pylori)",
+      "frequency": null
+    },
+    {
+      "name": "GIST",
+      "raw": "GIST",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma (variable) @   Small bowel",
+      "raw": "Adenocarcinoma (variable) @   Small bowel",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory bowel disease",
+      "raw": "Inflammatory bowel disease",
+      "frequency": null
+    },
+    {
+      "name": "GIST",
+      "raw": "GIST",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases (melanoma) @   Colon",
+      "raw": "Metastases (melanoma) @   Colon",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory enterocolitis",
+      "raw": "Inflammatory enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis, diverticulitis, abscess",
+      "raw": "Appendicitis, diverticulitis, abscess",
+      "frequency": null
+    },
+    {
+      "name": "Colon cancer",
+      "raw": "Colon cancer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Preparation:   for bowel loop distension a neutral oral contrast agent containing sorbitol and 0.1% barium sulfate (Volumen®) is recommended @   Esophagus"
+}

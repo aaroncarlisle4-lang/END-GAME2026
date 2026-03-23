@@ -1,0 +1,33 @@
+{
+  "name": "ACROOSTEOLYSIS, FAMILIAL",
+  "slug": "acroosteolysis_familial",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/acroosteolysis_familial.md",
+  "definition": "",
+  "demographics": {
+    "Age": "onset in 2nd decade; M÷F = 3÷1"
+  },
+  "dominant_finding": "wormian bones",
+  "distribution": "basilar impression",
+  "discriminating_features": [
+    "wormian bones",
+    "craniosynostosis",
+    "basilar impression",
+    "protuberant occiput",
+    "resorption of alveolar processes + loss of teeth"
+  ],
+  "other_features": {
+    "general": [
+      "wormian bones",
+      "craniosynostosis",
+      "basilar impression",
+      "protuberant occiput",
+      "resorption of alveolar processes + loss of teeth"
+    ],
+    "Spine": [
+      "spinal osteoporosis ± fracture",
+      "kyphoscoliosis + progressive decrease in height"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Lymphoma Of Gastrointestinal Tract (DDx)",
+  "slug": "lymphoma_of_gastrointestinal_tract_ddx",
+  "chapter": "Lymphoma Of Gastrointestinal Tract",
+  "source_file": "processed_clusters/lymphoma_of_gastrointestinal_tract/lymphoma_of_gastrointestinal_tract_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "gastrointestinal stromal tumor",
+      "raw": "gastrointestinal stromal tumor (GIST)",
+      "frequency": null
+    },
+    {
+      "name": "perforated colonic adenocarcinoma",
+      "raw": "perforated colonic adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "metastatic disease",
+      "raw": "metastatic disease (especially melanoma)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "large mass with only small intramural component | irregular lobulated margin ± small nodules at margin of involved segment | tumor involvement of mesentery → cavitated endoexoenteric mass filled with enteric | ± ulcer + fistula + aneurysmatic dilatation"
+}

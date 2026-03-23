@@ -1,0 +1,102 @@
+{
+  "finding": "B. MATERNAL CAUSES (36%",
+  "slug": "b_maternal_causes_36_3b531b",
+  "chapter": "ELEVATED AMNIOTIC FLUID AFP (AF-AFP",
+  "source_file": "processed_clusters/elevated_amniotic_fluid_afp_af_afp/b_maternal_causes_36_3b531b.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Diabetes",
+      "raw": "Diabetes (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Isoimmunization: Rh incompatibility",
+      "raw": "Isoimmunization: Rh incompatibility (11%)]",
+      "frequency": "11%"
+    },
+    {
+      "name": "Placental tumors: chorioangioma",
+      "raw": "Placental tumors: chorioangioma",
+      "frequency": null
+    },
+    {
+      "name": "FETAL ANOMALIES (20%) (a)  gastrointestinal anomalies (6-16%):",
+      "raw": "FETAL ANOMALIES (20%) (a)  gastrointestinal anomalies (6-16%):",
+      "frequency": "20%"
+    },
+    {
+      "name": "Twins",
+      "raw": "Twins",
+      "frequency": null
+    },
+    {
+      "name": "Anomalies, fetal",
+      "raw": "Anomalies, fetal",
+      "frequency": null
+    },
+    {
+      "name": "Rh incompatibility",
+      "raw": "Rh incompatibility",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes",
+      "raw": "Diabetes",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Demise of fetus / Drugs",
+      "raw": "Demise of fetus / Drugs (Motrin® therapy for tocolysis of preterm labor)",
+      "frequency": null
+    },
+    {
+      "name": "Renal anomalies, bilateral (= inadequate urine production): renal agenesis / dysgenesis,",
+      "raw": "Renal anomalies, bilateral (= inadequate urine production): renal agenesis / dysgenesis,",
+      "frequency": null
+    },
+    {
+      "name": "infantile polycystic kidney disease, prune belly syndrome, posterior urethral valves,",
+      "raw": "infantile polycystic kidney disease, prune belly syndrome, posterior urethral valves,",
+      "frequency": null
+    },
+    {
+      "name": "urethral atresia, cloacal anomalies",
+      "raw": "urethral atresia, cloacal anomalies",
+      "frequency": null
+    },
+    {
+      "name": "◊  20-fold increase in incidence of fetal anomalies with oligohydramnios!",
+      "raw": "◊  20-fold increase in incidence of fetal anomalies with oligohydramnios!",
+      "frequency": null
+    },
+    {
+      "name": "IUGR: ← reduced renal perfusion",
+      "raw": "IUGR: ← reduced renal perfusion",
+      "frequency": null
+    },
+    {
+      "name": "Premature rupture of membranes",
+      "raw": "Premature rupture of membranes (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Postmaturity",
+      "raw": "Postmaturity",
+      "frequency": null
+    },
+    {
+      "name": "Cx:     pulmonary hypoplasia, cord compression",
+      "raw": "Cx:     pulmonary hypoplasia, cord compression",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "impairment of fetal swallowing (esophageal atresia in 3%); high intestinal atresias / obstruction of duodenum / proximal small bowel (1.2-1.8%), omphalocele, meconium peritonitis (b)  nonimmune hydrops (16%) (c)  neural tube defects (9-16%): anencephaly, hydranencephaly, holoprosencephaly, myelomeningocele, ventriculomegaly, agenesis of corpus callosum, encephalocele, microcephaly (d)  chest anomalies (12%): diaphragmatic hernia, cystic adenomatoid malformation, tracheal atresia, mediastinal teratoma, primary pulmonary hypoplasia, extralobar sequestration, congenital chylothorax (e)  skeletal"
+}

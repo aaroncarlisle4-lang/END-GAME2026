@@ -1,0 +1,125 @@
+{
+  "finding": "ENDOMETRIOSIS",
+  "slug": "endometriosis",
+  "chapter": "ENDOCERVICAL POLYP",
+  "source_file": "processed_clusters/endocervical_polyp/endometriosis.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastatic / implantation theory =  \"shedding\" of endometrial cells during retrograde menstruation via fallopian tubes onto peritoneum ◊  Up to 90% of women have bloody peritoneal fluid during perimenstrual period ◊  Obstructive müllerian duct anomalies are the most common cause in girls < 17 years of age",
+      "raw": "Metastatic / implantation theory =  \"shedding\" of endometrial cells during retrograde menstruation via fallopian tubes onto peritoneum ◊  Up to 90% of women have bloody peritoneal fluid during perimenstrual period ◊  Obstructive müllerian duct anomalies are the most common cause in girls < 17 years of age",
+      "frequency": "90%"
+    },
+    {
+      "name": "Dissemination theory = vascular + lymphatic spread",
+      "raw": "Dissemination theory = vascular + lymphatic spread",
+      "frequency": null
+    },
+    {
+      "name": "Direct theory = intraoperative implantation",
+      "raw": "Direct theory = intraoperative implantation (uterine surgery, amniocentesis, needle biopsy)",
+      "frequency": null
+    },
+    {
+      "name": "Coelomic metaplasia theory = conversion of peritoneal epithelium into functioning endometrial tissue",
+      "raw": "Coelomic metaplasia theory = conversion of peritoneal epithelium into functioning endometrial tissue",
+      "frequency": null
+    },
+    {
+      "name": "Induction theory = combination of metastatic + metaplastic theory",
+      "raw": "Induction theory = combination of metastatic + metaplastic theory",
+      "frequency": null
+    },
+    {
+      "name": "infertility: [pelvic pain:]",
+      "raw": "infertility:",
+      "frequency": null,
+      "sites": [
+        "pelvic pain:"
+      ]
+    },
+    {
+      "name": "cyclic pelvic pain: estrogen-sensitive ectopic endometrial implants proliferate and bleed synchronously with uterine endometrium ◊  24-33% of women with pelvic pain have endometriosis: NO correlation between amount of pelvic pain + extent of disease",
+      "raw": "cyclic pelvic pain: estrogen-sensitive ectopic endometrial implants proliferate and bleed synchronously with uterine endometrium ◊  24-33% of women with pelvic pain have endometriosis: NO correlation between amount of pelvic pain + extent of disease",
+      "frequency": "33%"
+    },
+    {
+      "name": "dysmenorrhea, perimenstrual diarrhea, dyspareunia",
+      "raw": "dysmenorrhea, perimenstrual diarrhea, dyspareunia",
+      "frequency": null
+    },
+    {
+      "name": "sacral back ache with menses, rectal discomfort",
+      "raw": "sacral back ache with menses, rectal discomfort",
+      "frequency": null
+    },
+    {
+      "name": "chronic pelvic pain ← peritoneal adhesions ◊  Endometriosis is found in 90% of women with chronic pelvic pain!",
+      "raw": "chronic pelvic pain ← peritoneal adhesions ◊  Endometriosis is found in 90% of women with chronic pelvic pain!",
+      "frequency": "90%"
+    },
+    {
+      "name": "abnormal menstrual bleeding",
+      "raw": "abnormal menstrual bleeding",
+      "frequency": null
+    },
+    {
+      "name": "fixed pelvic organs during bimanual exam",
+      "raw": "fixed pelvic organs during bimanual exam",
+      "frequency": null
+    },
+    {
+      "name": "localized tenderness along uterosacral ligaments + cul-de-sac + adnexa; thickened nodular ligaments + rectovaginal masses",
+      "raw": "localized tenderness along uterosacral ligaments + cul-de-sac + adnexa; thickened nodular ligaments + rectovaginal masses",
+      "frequency": null
+    },
+    {
+      "name": "Ovaries (20-40%): cysts with hemorrhagic content",
+      "raw": "Ovaries (20-40%): cysts with hemorrhagic content",
+      "frequency": "40%"
+    },
+    {
+      "name": "Ligaments: uterosacral ligament; round ligament (= painful inguinal mass in the canal of",
+      "raw": "Ligaments: uterosacral ligament; round ligament (= painful inguinal mass in the canal of",
+      "frequency": null
+    },
+    {
+      "name": "Rectouterine pouch = pouch of Douglas = posterior cul-de-sac); anterior rectosigmoid",
+      "raw": "Rectouterine pouch = pouch of Douglas = posterior cul-de-sac); anterior rectosigmoid",
+      "frequency": null
+    },
+    {
+      "name": "Vesicouterine pouch = posterior wall of urinary bladder = anterior cul-de-sac",
+      "raw": "Vesicouterine pouch = posterior wall of urinary bladder = anterior cul-de-sac",
+      "frequency": null
+    },
+    {
+      "name": "Uterine serosal surface / wall: posterior > anterior",
+      "raw": "Uterine serosal surface / wall: posterior > anterior",
+      "frequency": null
+    },
+    {
+      "name": "Fallopian tube (6%): (sub)serosal / mucosal",
+      "raw": "Fallopian tube (6%): (sub)serosal / mucosal",
+      "frequency": "6%"
+    },
+    {
+      "name": "Bladder dome",
+      "raw": "Bladder dome",
+      "frequency": null
+    },
+    {
+      "name": "Cesarean section / other abdominal surgical scars",
+      "raw": "Cesarean section / other abdominal surgical scars (< 1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Deeply infiltrating endometriosis = > 5 mm from peritoneal surface",
+      "raw": "Deeply infiltrating endometriosis = > 5 mm from peritoneal surface",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  ENDOMETRIOSIS EXTERNA =  encysted functional endometrial epithelium + stroma in an ectopic site outside myometrium N.B.: internal endometriosis within myometrium = adenomyosis Prevalence:   5-10% of menstruating women; in 5% of post-menopausal women on estrogen replacement therapy Etiology: Mean age:   25-29 years Histo:   endometrial glands, stroma, rare smooth muscle fibers; secretory changes during 2nd half of menstrual cycle; stromal decidualization during pregnancy ◊  20-50% of infertile women have endometriosis ◊  30-50% of women with endometriosis are infertile Cause:  involvement of"
+}

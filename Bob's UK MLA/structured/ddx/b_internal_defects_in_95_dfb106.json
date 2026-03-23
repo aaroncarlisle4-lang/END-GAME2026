@@ -1,0 +1,32 @@
+{
+  "finding": "B. INTERNAL DEFECTS (in 95%",
+  "slug": "b_internal_defects_in_95_dfb106",
+  "chapter": "LIMB-BODY WALL COMPLEX",
+  "source_file": "processed_clusters/limb_body_wall_complex/b_internal_defects_in_95_dfb106.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cardiac defects",
+      "raw": "Cardiac defects",
+      "frequency": null
+    },
+    {
+      "name": "Diaphragmatic absence",
+      "raw": "Diaphragmatic absence",
+      "frequency": null
+    },
+    {
+      "name": "Bowel atresia",
+      "raw": "Bowel atresia",
+      "frequency": null
+    },
+    {
+      "name": "Renal abnormalities: agenesis, hydronephrosis, dysplasia",
+      "raw": "Renal abnormalities: agenesis, hydronephrosis, dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "US (confusing appearance): √  fetus usually in a fixed position √  cord insertion site not identifiable √  NO free-floating loops of cord √  severe kyphoscoliosis (frequent) √  ± oligohydramnios → MRI √  complete evisceration of abdominal contents with adherence to placental surface √  persistence of extraembryonic coelom (= separation of amnion + chorion) Prognosis:   invariably fatal shortly after birth"
+}

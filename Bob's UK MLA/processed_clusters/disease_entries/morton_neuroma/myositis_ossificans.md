@@ -1,0 +1,74 @@
+# Disease: MYOSITIS OSSIFICANS
+
+**Source section:** MORTON NEUROMA
+
+## Definition
+
+PSEUDOMALIGNANT OSSEOUS TUMOR OF SOFT TISSUE = EXTRAOSSEOUS benign solitary self-limiting ossifying soft-tissue mass typically occurring within skeletal FLORID REACTIVE PERIOSTITIS nonneoplastic solitary self-limiting process of unknown pathogenesis, probably related
+
+## Key Facts
+
+- **Age:** 2nd-3rd decades; M > F
+- **Path:** lesion rimmed by compressed fibrous connective tissue + surrounded by atrophic
+- **Histo:** hypercellular fibrous tissue with mature bone formation usually within 6-8 weeks after
+- **Location:** large muscles of extremities (80%)
+- **Mean age:** 32 (range, 4-64) years; M÷F = 1÷2
+
+## Imaging Findings
+
+### General
+
+- gradual ossification from periphery toward center (!) of mass:
+- faint calcifications develop in 2-6 weeks after onset of symptoms
+- well-defined partially ossified soft-tissue mass apparent by 6-8 weeks, becoming smaller
+- radiolucent zone separating lesion from bone (DDx: periosteal sarcoma on stalk)
+- ± periosteal reaction
+
+### CT
+
+- well-defined geometric hypodense mass with peripheral calcification after 4-6 weeks +
+- diffuse dense ossification in mature lesion
+
+### MR
+
+- initially heterogeneous muscle edema
+- progression to masslike region of high SI on T2WI (during first days to weeks after injury
+- mass with poorly defined margins + surrounding edema
+- inhomogeneously hyperintense to fat on T2WI
+- isointense to muscle on T1WI
+- contrast enhancement
+- isointense / slightly hyperintense core on T1WI, increasing in intensity on T2WI
+- diagnostic curvilinear hypointense rim surrounding the lesion (= peripheral
+- increased peritumoral SI on T2WI (= edema of diffuse myositis)
+- focal signal abnormality within bone marrow (= marrow edema)
+- well-defined hypointense rim and trabeculae, dense fibrosis and central adipose tissue
+- decreased SI inside and around lesion (dense ossification + fibrosis, hemosiderin from
+
+### NUC
+
+- intense tracer accumulation on bone scan (directly related to deposition of calcium in
+- in phase of mature ossification activity becomes reduced + surgery may be performed with
+
+### ANGIO
+
+- diffuse tumor blush + fine neovascularity in early active phase
+- avascular mass in mature healing phase
+- less prominent zoning phenomenon
+- radiopaque soft-tissue mass with radiolucent band between mass + cortex
+- visible calcifications (50%)
+- focal periosteal thickening (50%)
+- cortical erosion (occasionally)
+
+## Clinical
+
+- **Prognosis:** ? resorption in 1 year
+- **Rx:** local excision
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

@@ -1,0 +1,42 @@
+{
+  "finding": "Diffuse Bone Marrow Abnormalities in Childhood",
+  "slug": "diffuse_bone_marrow_abnormalities_in_childhood",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/myeloproliferative_disorders/diffuse_bone_marrow_abnormalities_in_childhood.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "REPLACED BY TUMOR CELLS (a)  metastatic disease",
+      "raw": "REPLACED BY TUMOR CELLS (a)  metastatic disease",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma (in young child)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (in older child)",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma (in older child) (b)  primary neoplasm",
+      "raw": "Rhabdomyosarcoma (in older child) (b)  primary neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "REPLACED BY RED CELLS =  red cell hyperplasia = reconversion (a)  severe anemia: sickle cell disease, thalassemia, hereditary spherocytosis (b)  chronic severe blood loss (c)  marrow replacement by neoplasia (d)  treatment with granulocyte-macrophage colony stimulating factor",
+      "raw": "REPLACED BY RED CELLS =  red cell hyperplasia = reconversion (a)  severe anemia: sickle cell disease, thalassemia, hereditary spherocytosis (b)  chronic severe blood loss (c)  marrow replacement by neoplasia (d)  treatment with granulocyte-macrophage colony stimulating factor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

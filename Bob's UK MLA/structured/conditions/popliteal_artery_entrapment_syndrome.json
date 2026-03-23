@@ -1,0 +1,32 @@
+{
+  "name": "POPLITEAL ARTERY ENTRAPMENT SYNDROME",
+  "slug": "popliteal_artery_entrapment_syndrome",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/popliteal_artery_entrapment_syndrome.md",
+  "definition": "vascular compression syndrome of popliteal artery (PopA)",
+  "demographics": {
+    "Prevalence": "0.165% of young males entering military service"
+  },
+  "dominant_finding": "ankle-arm index reduced during active muscle contraction",
+  "distribution": "posterior tibial pulse obliterated during active plantar flexion against resistance /",
+  "discriminating_features": [
+    "posterior tibial pulse obliterated during active plantar flexion against resistance /",
+    "ankle-arm index reduced during active muscle contraction",
+    "Doppler waveforms of posterior tibial artery diminished during muscle contractions",
+    "medial deviation of artery (29%), popliteal stenosis (11%), poststenotic dilatation (8%)",
+    "arteriography with typical medial deviation of popliteal artery before + after gastrocnemius"
+  ],
+  "other_features": {
+    "general": [
+      "posterior tibial pulse obliterated during active plantar flexion against resistance /",
+      "ankle-arm index reduced during active muscle contraction",
+      "Doppler waveforms of posterior tibial artery diminished during muscle contractions",
+      "medial deviation of artery (29%), popliteal stenosis (11%), poststenotic dilatation (8%)",
+      "arteriography with typical medial deviation of popliteal artery before + after gastrocnemius",
+      "popliteal artery thrombosis / occlusion"
+    ]
+  },
+  "clinical": {
+    "Cx": "popliteal artery aneurysm"
+  }
+}

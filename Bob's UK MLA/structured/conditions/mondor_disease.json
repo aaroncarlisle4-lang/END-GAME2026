@@ -1,0 +1,29 @@
+{
+  "name": "MONDOR DISEASE",
+  "slug": "mondor_disease",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/mondor_disease.md",
+  "definition": "rare usually self-limited thrombophlebitis of subcutaneous veins (mostly thoracoepigastric v.)",
+  "demographics": {
+    "Location": "usually lateral aspect of breast"
+  },
+  "dominant_finding": "superficial hypoechoic tubular structure containing low-level internal echoes (= thrombus)",
+  "distribution": "usually lateral aspect of breast",
+  "discriminating_features": [
+    "linear ropelike tubular superficial structure ± beading",
+    "rarely calcification of vein",
+    "superficial hypoechoic tubular structure containing low-level internal echoes (= thrombus)"
+  ],
+  "other_features": {
+    "general": [
+      "linear ropelike tubular superficial structure ± beading",
+      "rarely calcification of vein"
+    ],
+    "US": [
+      "superficial hypoechoic tubular structure containing low-level internal echoes (= thrombus)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "resolves spontaneously in 2-4 weeks"
+  }
+}

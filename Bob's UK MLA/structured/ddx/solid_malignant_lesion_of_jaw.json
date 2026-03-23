@@ -1,0 +1,47 @@
+{
+  "finding": "Solid Malignant Lesion of Jaw",
+  "slug": "solid_malignant_lesion_of_jaw",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/solid_malignant_lesion_of_jaw.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Odontogenic Carcinoma =  rare aggressive intraosseous lesion",
+      "raw": "Odontogenic Carcinoma =  rare aggressive intraosseous lesion",
+      "frequency": "rare"
+    },
+    {
+      "name": "Ameloblastic Carcinoma =  malignant ameloblastoma",
+      "raw": "Ameloblastic Carcinoma =  malignant ameloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucoepidermoid Carcinoma ◊  typically originate from minor salivary glands of buccal mucosa",
+      "raw": "Mucoepidermoid Carcinoma ◊  typically originate from minor salivary glands of buccal mucosa",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / leukemia",
+      "raw": "Lymphoma / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Multiple Myeloma",
+      "raw": "Multiple Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "may present with chin numbness ← involvement of inferior alveolar nerve",
+      "raw": "may present with chin numbness ← involvement of inferior alveolar nerve",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Histo:   poorly differentiated epithelial + clear cells √  diffuse honeycomb-like radiolucent lesion √  surrounding cortical destruction Prognosis:   high rate of recurrence √  aggressive features of cortical destruction, extraosseous extension, extensive solid components Histo:   osteo~, chondro~, fibro~, leiomyosarcoma √  symmetrically widened periodontal membrane in a single tooth (earliest sign of osteogenic sarcoma of mandible)"
+}

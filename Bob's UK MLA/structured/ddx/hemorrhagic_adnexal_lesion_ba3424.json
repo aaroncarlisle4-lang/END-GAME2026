@@ -1,0 +1,32 @@
+{
+  "finding": "Hemorrhagic Adnexal Lesion",
+  "slug": "hemorrhagic_adnexal_lesion_ba3424",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/hemorrhagic_adnexal_lesion_ba3424.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic ovarian cyst",
+      "raw": "Hemorrhagic ovarian cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic foci of adenomyosis",
+      "raw": "Hemorrhagic foci of adenomyosis",
+      "frequency": null
+    },
+    {
+      "name": "Hematosalpinx",
+      "raw": "Hematosalpinx",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

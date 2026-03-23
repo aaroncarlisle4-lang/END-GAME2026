@@ -1,0 +1,80 @@
+{
+  "finding": "B. SUBSEGMENTAL",
+  "slug": "b_subsegmental_69fa7e",
+  "chapter": "LIVER CIRCULATION",
+  "source_file": "processed_clusters/liver_circulation/b_subsegmental_69fa7e.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Obstruction of peripheral portal branches",
+      "raw": "Obstruction of peripheral portal branches",
+      "frequency": null
+    },
+    {
+      "name": "Percutaneous needle biopsy + drainage procedure / ethanol ablation",
+      "raw": "Percutaneous needle biopsy + drainage procedure / ethanol ablation",
+      "frequency": null
+    },
+    {
+      "name": "Acute cholecystitis + cholangitis",
+      "raw": "Acute cholecystitis + cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "SUBCAPSULAR (a)  due to peripheral parenchymal compression [Rib compression]",
+      "raw": "SUBCAPSULAR (a)  due to peripheral parenchymal compression",
+      "frequency": null,
+      "sites": [
+        "Rib compression"
+      ]
+    },
+    {
+      "name": "Perihepatic peritoneal implants",
+      "raw": "Perihepatic peritoneal implants",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomyxoma peritonei",
+      "raw": "Pseudomyxoma peritonei",
+      "frequency": null
+    },
+    {
+      "name": "Perihepatic fluid collections",
+      "raw": "Perihepatic fluid collections (b)  idiopathic (unexplained)",
+      "frequency": null
+    },
+    {
+      "name": "PSEUDOLESION =  systemic venous blood flow draining into hepatic sinusoids = third hepatic inflow",
+      "raw": "PSEUDOLESION =  systemic venous blood flow draining into hepatic sinusoids = third hepatic inflow",
+      "frequency": null
+    },
+    {
+      "name": "Accessory cystic vein of gallbladder fossa",
+      "raw": "Accessory cystic vein of gallbladder fossa",
+      "frequency": null
+    },
+    {
+      "name": "Aberrant right gastric vein",
+      "raw": "Aberrant right gastric vein",
+      "frequency": null
+    },
+    {
+      "name": "Capsular veins",
+      "raw": "Capsular veins",
+      "frequency": null
+    },
+    {
+      "name": "Parabiliary venous system",
+      "raw": "Parabiliary venous system",
+      "frequency": null
+    },
+    {
+      "name": "Epigastric-paraumbilical venous system",
+      "raw": "Epigastric-paraumbilical venous system",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

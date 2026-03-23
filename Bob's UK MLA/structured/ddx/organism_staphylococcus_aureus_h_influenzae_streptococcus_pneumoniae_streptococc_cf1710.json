@@ -1,0 +1,47 @@
+{
+  "finding": "Organism: Staphylococcus aureus, H influenzae, Streptococcus pneumoniae, Streptococcus",
+  "slug": "organism_staphylococcus_aureus_h_influenzae_streptococcus_pneumoniae_streptococc_cf1710",
+  "chapter": "RANULA",
+  "source_file": "processed_clusters/ranula/organism_staphylococcus_aureus_h_influenzae_streptococcus_pneumoniae_streptococc_cf1710.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "history of upper respiratory tract infection",
+      "raw": "history of upper respiratory tract infection",
+      "frequency": null
+    },
+    {
+      "name": "fever, sore throat, neck stiffness, dysphagia, cough, sepsis",
+      "raw": "fever, sore throat, neck stiffness, dysphagia, cough, sepsis",
+      "frequency": null
+    },
+    {
+      "name": "Direct extension to spine / epidural or carotid space",
+      "raw": "Direct extension to spine / epidural or carotid space",
+      "frequency": null
+    },
+    {
+      "name": "Compromised airway",
+      "raw": "Compromised airway",
+      "frequency": null
+    },
+    {
+      "name": "IJV thrombosis = Lemierre syndrome",
+      "raw": "IJV thrombosis = Lemierre syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Narrowing of ICA",
+      "raw": "Narrowing of ICA",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoaneurysm of ICA Rx:       aggressive treatment with IV antibiotics, airway management, surgical drainage",
+      "raw": "Pseudoaneurysm of ICA Rx:       aggressive treatment with IV antibiotics, airway management, surgical drainage",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "pyogenes, Bacteroides melaninogenicus, typically mixed polymicrobial flora Path:   cellulitis > abscess Age:   usually 2-4 (range, 1-6) years (atrophy of nodes with age) Lateral neck radiograph: √  thickness of retropharyngeal space > ¾ of AP diameter of vertebral body: √  may contain locules of gas / gas-fluid levels √  reversal of cervical lordosis √  anterior bowing / displacement of airway N.B.:     look carefully for possible ingested foreign body DDx:  \"pseudothickening\" (common in pediatric patients) ← neck flexion / incomplete inspiration US: √  hypoechoic areas + adenopathy CECT (obli"
+}

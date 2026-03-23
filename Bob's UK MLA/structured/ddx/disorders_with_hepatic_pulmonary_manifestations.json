@@ -1,0 +1,37 @@
+{
+  "finding": "Disorders with Hepatic & Pulmonary Manifestations",
+  "slug": "disorders_with_hepatic_pulmonary_manifestations",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/disorders_with_hepatic_pulmonary_manifestations.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Alpha-1-antitrypsin deficiency",
+      "raw": "Alpha-1-antitrypsin deficiency",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary hemorrhagic telangiectasia",
+      "raw": "Hereditary hemorrhagic telangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Autoimmune disease: primary biliary cirrhosis, rheumatoid arthritis, Hashimoto thyroiditis, Sjögren syndrome, scleroderma, sarcoidosis",
+      "raw": "Autoimmune disease: primary biliary cirrhosis, rheumatoid arthritis, Hashimoto thyroiditis, Sjögren syndrome, scleroderma, sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Drugs with toxic effects on lung and liver: methotrexate, phenytoin, amiodarone",
+      "raw": "Drugs with toxic effects on lung and liver: methotrexate, phenytoin, amiodarone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

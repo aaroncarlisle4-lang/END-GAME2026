@@ -1,0 +1,37 @@
+{
+  "finding": "Avascular Mass of Brain",
+  "slug": "avascular_mass_of_brain",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/avascular_mass_of_brain.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tumor: astrocytoma, metastasis, oligodendroglioma",
+      "raw": "Tumor: astrocytoma, metastasis, oligodendroglioma",
+      "frequency": null
+    },
+    {
+      "name": "Edema",
+      "raw": "Edema",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Cyst, Contusion",
+      "raw": "Cyst, Contusion",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma, Herpes",
+      "raw": "Hematoma, Herpes",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

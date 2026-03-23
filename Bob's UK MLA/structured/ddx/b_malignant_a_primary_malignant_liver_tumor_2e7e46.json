@@ -1,0 +1,27 @@
+{
+  "finding": "B. MALIGNANT (a) Primary malignant liver tumor",
+  "slug": "b_malignant_a_primary_malignant_liver_tumor_2e7e46",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/b_malignant_a_primary_malignant_liver_tumor_2e7e46.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioendothelioma",
+      "raw": "Hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma (b)  Hypervascular liver metastases",
+      "raw": "Angiosarcoma (b)  Hypervascular liver metastases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

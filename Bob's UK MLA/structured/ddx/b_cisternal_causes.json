@@ -1,0 +1,27 @@
+{
+  "finding": "B. CISTERNAL CAUSES",
+  "slug": "b_cisternal_causes",
+  "chapter": "TRIGEMINAL NEUROPATHY",
+  "source_file": "processed_clusters/trigeminal_neuropathy/b_cisternal_causes.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vascular: aneurysm, AVM, vascular compression",
+      "raw": "Vascular: aneurysm, AVM, vascular compression",
+      "frequency": null
+    },
+    {
+      "name": "Neoplastic: acoustic schwannoma, meningioma, trigeminal schwannoma, epidermoid cyst, lipoma, metastasis",
+      "raw": "Neoplastic: acoustic schwannoma, meningioma, trigeminal schwannoma, epidermoid cyst, lipoma, metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory: neuritis",
+      "raw": "Inflammatory: neuritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

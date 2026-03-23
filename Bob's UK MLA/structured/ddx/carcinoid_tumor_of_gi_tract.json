@@ -1,0 +1,222 @@
+{
+  "finding": "CARCINOID TUMOR OF GI TRACT",
+  "slug": "carcinoid_tumor_of_gi_tract",
+  "chapter": "BEZOAR",
+  "source_file": "processed_clusters/bezoar/carcinoid_tumor_of_gi_tract.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Well-differentiated neuroendocrine tumor (typical carcinoid tumors) → low-grade malignancy",
+      "raw": "Well-differentiated neuroendocrine tumor (typical carcinoid tumors) → low-grade malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Well-differentiated neuroendocrine carcinoma (atypical carcinoid tumor) with metastases",
+      "raw": "Well-differentiated neuroendocrine carcinoma (atypical carcinoid tumor) with metastases",
+      "frequency": null
+    },
+    {
+      "name": "Poorly differentiated neuroendocrine carcinoma of high-grade malignancy → poor prognosis (a)  Large cell neuroendocrine carcinoma (LCNEC) (b)  Small cell lung carcinoma (SCLC) = majority",
+      "raw": "Poorly differentiated neuroendocrine carcinoma of high-grade malignancy → poor prognosis (a)  Large cell neuroendocrine carcinoma (LCNEC) (b)  Small cell lung carcinoma (SCLC) = majority",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic (66%), abdominal pain / bowel obstruction (19%)",
+      "frequency": "66%"
+    },
+    {
+      "name": "nausea, weight loss (16%), palpable mass (14%), GI bleeding",
+      "raw": "nausea, weight loss (16%), palpable mass (14%), GI bleeding",
+      "frequency": "16%"
+    },
+    {
+      "name": "elevated serum chromogranin-A",
+      "raw": "elevated serum chromogranin-A (most common marker)",
+      "frequency": "most common"
+    },
+    {
+      "name": "elevated urinary 5-HIAA",
+      "raw": "elevated urinary 5-HIAA (hydroxyindole acetic acid)",
+      "frequency": null
+    },
+    {
+      "name": "carcinoid syndrome",
+      "raw": "carcinoid syndrome",
+      "frequency": null
+    },
+    {
+      "name": "111In-pentetreotide somatostatin-receptor scintigraphy",
+      "raw": "111In-pentetreotide somatostatin-receptor scintigraphy (80-100% of carcinoids contain 5 somatostatin receptor subtypes)",
+      "frequency": "100%"
+    },
+    {
+      "name": "123I- / 131I-MIBG scintigraphy",
+      "raw": "123I- / 131I-MIBG scintigraphy",
+      "frequency": null
+    },
+    {
+      "name": "Type 1 gastric ECL-cell carcinoid",
+      "raw": "Type 1 gastric ECL-cell carcinoid (74-80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "Mean age:   63 years; M÷F = 1÷2.5",
+      "raw": "Mean age:   63 years; M÷F = 1÷2.5",
+      "frequency": null
+    },
+    {
+      "name": "Associated with:   autoimmune chronic atrophic gastritis",
+      "raw": "Associated with:   autoimmune chronic atrophic gastritis",
+      "frequency": null
+    },
+    {
+      "name": "often incidental finding during imaging for dyspepsia / chronic atrophic gastritis:",
+      "raw": "often incidental finding during imaging for dyspepsia / chronic atrophic gastritis:",
+      "frequency": null
+    },
+    {
+      "name": "hypergastrinemia ← antral G-cell hyperplasia",
+      "raw": "hypergastrinemia ← antral G-cell hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "± achlorhydria and pernicious anemia",
+      "raw": "± achlorhydria and pernicious anemia",
+      "frequency": null
+    },
+    {
+      "name": "Type 2 gastric ECL-cell carcinoids",
+      "raw": "Type 2 gastric ECL-cell carcinoids (5-10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Mean age:   50 years; M÷F = 1÷1",
+      "raw": "Mean age:   50 years; M÷F = 1÷1",
+      "frequency": null
+    },
+    {
+      "name": "Associated with:   Zollinger-Ellison syndrome in MEN 1",
+      "raw": "Associated with:   Zollinger-Ellison syndrome in MEN 1",
+      "frequency": null
+    },
+    {
+      "name": "hypergastrinemia → abdominal pain, recurrent peptic ulcers, diarrhea; hypertrophic hypersecretory gastritis",
+      "raw": "hypergastrinemia → abdominal pain, recurrent peptic ulcers, diarrhea; hypertrophic hypersecretory gastritis",
+      "frequency": null
+    },
+    {
+      "name": "bleeding, abdominal pain, anorexia, weight loss",
+      "raw": "bleeding, abdominal pain, anorexia, weight loss",
+      "frequency": null
+    },
+    {
+      "name": "Multiple endocrine neoplasia",
+      "raw": "Multiple endocrine neoplasia",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis type 1 for periampullary carcinoids often containing somatostatin- producing D-cells",
+      "raw": "Neurofibromatosis type 1 for periampullary carcinoids often containing somatostatin- producing D-cells",
+      "frequency": null
+    },
+    {
+      "name": "G-cell (gastrin-producing) carcinoid (62%) ◊  in ⅓ functioning tumor (= gastrinoma) that produces Zollinger-Ellison syndrome ◊  85% of sporadic gastrinomas in \"gastrinoma triangle\" ◊  90% of MEN 1 patients develop multiple G-cell carcinoids",
+      "raw": "G-cell (gastrin-producing) carcinoid (62%) ◊  in ⅓ functioning tumor (= gastrinoma) that produces Zollinger-Ellison syndrome ◊  85% of sporadic gastrinomas in \"gastrinoma triangle\" ◊  90% of MEN 1 patients develop multiple G-cell carcinoids",
+      "frequency": "62%"
+    },
+    {
+      "name": "abdominal pain + diarrhea (50%) ← hypergastrinemia",
+      "raw": "abdominal pain + diarrhea (50%) ← hypergastrinemia",
+      "frequency": "50%"
+    },
+    {
+      "name": "nausea, vomiting, positive secretin stimulation test",
+      "raw": "nausea, vomiting, positive secretin stimulation test",
+      "frequency": null
+    },
+    {
+      "name": "bleeding from multiple + recurrent peptic ulcers",
+      "raw": "bleeding from multiple + recurrent peptic ulcers",
+      "frequency": null
+    },
+    {
+      "name": "gastroesophageal reflux ← excess acid production",
+      "raw": "gastroesophageal reflux ← excess acid production",
+      "frequency": null
+    },
+    {
+      "name": "D-cell",
+      "raw": "D-cell (somatostatin-producing) carcinoid (21%)",
+      "frequency": "21%"
+    },
+    {
+      "name": "jaundice, pancreatitis ← obstruction of bile duct",
+      "raw": "jaundice, pancreatitis ← obstruction of bile duct",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhage",
+      "raw": "hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "somatostatin effects (rare): steatorrhea, diarrhea, diabetes mellitus, hypochlorhydria, anemia, cholelithiasis",
+      "raw": "somatostatin effects (rare): steatorrhea, diarrhea, diabetes mellitus, hypochlorhydria, anemia, cholelithiasis",
+      "frequency": "rare"
+    },
+    {
+      "name": "often asymptomatic",
+      "raw": "often asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "local symptoms: small bowel obstruction, ischemia, bleeding",
+      "raw": "local symptoms: small bowel obstruction, ischemia, bleeding",
+      "frequency": null
+    },
+    {
+      "name": "long history of intermittent crampy abdominal pain, weight loss, fatigue, abdominal distension, diarrhea, nausea, vomiting Path:  small firm < 3.5 cm intramural nodule ± protrusion into lumen; multiple in 30%;",
+      "raw": "long history of intermittent crampy abdominal pain, weight loss, fatigue, abdominal distension, diarrhea, nausea, vomiting Path:  small firm < 3.5 cm intramural nodule ± protrusion into lumen; multiple in 30%;",
+      "frequency": "30%"
+    },
+    {
+      "name": "Appendiceal Carcinoid",
+      "raw": "Appendiceal Carcinoid (< 10%-24%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Commonly benign:   slow growth, rarely metastasizing",
+      "raw": "Commonly benign:   slow growth, rarely metastasizing",
+      "frequency": null
+    },
+    {
+      "name": "Incidence at surgery:   0.03-0.70%",
+      "raw": "Incidence at surgery:   0.03-0.70%",
+      "frequency": "0.70%"
+    },
+    {
+      "name": "mostly asymptomatic",
+      "raw": "mostly asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "symptoms of appendicitis",
+      "raw": "symptoms of appendicitis (30-50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "mostly asymptomatic / abdominal pain, weight loss",
+      "raw": "mostly asymptomatic / abdominal pain, weight loss",
+      "frequency": null
+    },
+    {
+      "name": "carcinoid syndrome",
+      "raw": "carcinoid syndrome (NOT with common rectal carcinoids)",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {},
+  "context": "=  NEUROENDOCRINE TUMOR OF GI TRACT [Karzinoide, German = carcinoma-like] =  group of well-differentiated tumors of the diffuse endocrine system outside pancreas + thyroid Commonality:   neuroendocrine cells share several antigens with nerve elements (neuroendocrine markers) Neuroendocrine system: ◊  The majority of neuroendocrine tumors occur within the gastroenteropancreatic (GEP) axis (a)  adrenal medulla, pancreatic islets, paraganglia (b)  parathyroid, pituitary, thyroid C cells (c)  others: ›  GI tract: from hypopharynx to rectum (67-85%) ›  tracheobronchial system (10-29%) ›  biliary tr"
+}

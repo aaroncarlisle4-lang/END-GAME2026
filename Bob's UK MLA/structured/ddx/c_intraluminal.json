@@ -1,0 +1,37 @@
+{
+  "finding": "C. INTRALUMINAL",
+  "slug": "c_intraluminal",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/c_intraluminal.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gallstone ileus",
+      "raw": "Gallstone ileus",
+      "frequency": null
+    },
+    {
+      "name": "Parasites: ascariasis, strongyloidiasis",
+      "raw": "Parasites: ascariasis, strongyloidiasis",
+      "frequency": null
+    },
+    {
+      "name": "Inverted Meckel diverticulum",
+      "raw": "Inverted Meckel diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Blood clot",
+      "raw": "Blood clot",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body, bezoar, pills, seeds",
+      "raw": "Foreign body, bezoar, pills, seeds",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,33 @@
+{
+  "name": "SCHEUERMANN DISEASE",
+  "slug": "scheuermann_disease",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/scheuermann_disease.md",
+  "definition": "SPINAL OSTEOCHONDROSIS = KYPHOSIS DORSALIS JUVENILIS = VERTEBRAL disorder consisting of vertebral wedging + endplate irregularity + narrowing of intervertebral",
+  "demographics": {
+    "Prevalence": "in 31% (21%) of males (females) with back pain",
+    "Age": "onset at puberty",
+    "Location": "lower thoracic / upper lumbar vertebrae; in mild cases limited to 3-4 vertebral"
+  },
+  "dominant_finding": "anterior wedging of vertebral body of > 5°",
+  "distribution": "lower thoracic / upper lumbar vertebrae; in mild cases limited to 3-4 vertebral",
+  "discriminating_features": [
+    "anterior wedging of vertebral body of > 5°",
+    "increased anteroposterior diameter of vertebral body",
+    "slight narrowing of disk space",
+    "kyphosis of > 40°/ loss of lordosis; scoliosis",
+    "Schmorl nodes = intravertebral herniation of nucleus pulposus = depression in contour of"
+  ],
+  "other_features": {
+    "general": [
+      "anterior wedging of vertebral body of > 5°",
+      "increased anteroposterior diameter of vertebral body",
+      "slight narrowing of disk space",
+      "kyphosis of > 40°/ loss of lordosis; scoliosis",
+      "Schmorl nodes = intravertebral herniation of nucleus pulposus = depression in contour of",
+      "flattened area in superior surface of epiphyseal ring anteriorly = avulsion fracture of ring",
+      "detached epiphyseal ring anteriorly"
+    ]
+  },
+  "clinical": {}
+}

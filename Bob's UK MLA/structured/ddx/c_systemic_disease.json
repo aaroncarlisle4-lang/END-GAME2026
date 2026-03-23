@@ -1,0 +1,37 @@
+{
+  "finding": "C. SYSTEMIC DISEASE",
+  "slug": "c_systemic_disease",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/c_systemic_disease.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital heart disease",
+      "raw": "Congenital heart disease",
+      "frequency": null
+    },
+    {
+      "name": "Renal disease",
+      "raw": "Renal disease",
+      "frequency": null
+    },
+    {
+      "name": "GI disease: celiac disease, Crohn disease, ulcerative colitis",
+      "raw": "GI disease: celiac disease, Crohn disease, ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "Anemia",
+      "raw": "Anemia",
+      "frequency": null
+    },
+    {
+      "name": "Bone marrow transplantation",
+      "raw": "Bone marrow transplantation (< 5 years of age)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

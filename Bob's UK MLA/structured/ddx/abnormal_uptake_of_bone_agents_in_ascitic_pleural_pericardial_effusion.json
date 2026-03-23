@@ -1,0 +1,27 @@
+{
+  "finding": "Abnormal Uptake of Bone Agents in Ascitic, Pleural, Pericardial Effusion",
+  "slug": "abnormal_uptake_of_bone_agents_in_ascitic_pleural_pericardial_effusion",
+  "chapter": "PET IMAGING OF GI TRACT",
+  "source_file": "processed_clusters/pet_imaging_of_gi_tract/abnormal_uptake_of_bone_agents_in_ascitic_pleural_pericardial_effusion.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Uremic renal disease",
+      "raw": "Uremic renal disease",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Malignant effusion",
+      "raw": "Malignant effusion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

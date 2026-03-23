@@ -1,0 +1,22 @@
+{
+  "finding": "Eosinophilic Pneumonia (DDx)",
+  "slug": "eosinophilic_pneumonia_ddx_2",
+  "chapter": "Eosinophilic Pneumonia",
+  "source_file": "processed_clusters/eosinophilic_pneumonia/eosinophilic_pneumonia_ddx_2.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "1.  Churg-Strauss syndrome (lobular distribution of peripheral consolidation",
+      "raw": "1.  Churg-Strauss syndrome (lobular distribution of peripheral consolidation",
+      "frequency": null
+    },
+    {
+      "name": "centrilobular nodules within ground-glass opacities)",
+      "raw": "centrilobular nodules within ground-glass opacities)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "ground-glass opacities with crazy paving | subpleural reticulations (less common early, but frequent in later stages of disease) | linear bandlike opacities parallel to pleural surface (> 2 months after onset of symptoms) | pleural effusion (in < 10%)"
+}

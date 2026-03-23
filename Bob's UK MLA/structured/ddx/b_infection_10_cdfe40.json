@@ -1,0 +1,27 @@
+{
+  "finding": "B. INFECTION",
+  "slug": "b_infection_10_cdfe40",
+  "chapter": "C. INFILTRATION",
+  "source_file": "processed_clusters/c_infiltration/b_infection_10_cdfe40.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculous psoas abscess",
+      "raw": "Tuberculous psoas abscess",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid cyst",
+      "raw": "Hydatid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Alkaline-encrusted cystitis and pyelitis",
+      "raw": "Alkaline-encrusted cystitis and pyelitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

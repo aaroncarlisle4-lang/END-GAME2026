@@ -1,0 +1,30 @@
+{
+  "name": "BINSWANGER DISEASE",
+  "slug": "binswanger_disease",
+  "chapter": "NERVOUS SYSTEM DISORDERS",
+  "source_file": "processed_clusters/disease_entries/nervous_system_disorders/binswanger_disease.md",
+  "definition": "ENCEPHALOPATHIA SUBCORTICALIS PROGRESSIVA = LEUKOARIAOSIS =",
+  "demographics": {
+    "Path": "ischemic demyelination / infarction",
+    "Age": "> 60 years"
+  },
+  "dominant_finding": "focal areas of increased signal intensity on T2WI (= \"unidentified bright objects\")",
+  "distribution": "multifocal hypodense lesions (periventricular, centrum semiovale) with sparing of U fibers",
+  "discriminating_features": [
+    "multifocal hypodense lesions (periventricular, centrum semiovale) with sparing of U fibers",
+    "lacunar infarcts in basal ganglia",
+    "sulcal enlargement + dilated lateral ventricles (brain atrophy)",
+    "focal areas of increased signal intensity on T2WI (= \"unidentified bright objects\")"
+  ],
+  "other_features": {
+    "general": [
+      "multifocal hypodense lesions (periventricular, centrum semiovale) with sparing of U fibers",
+      "lacunar infarcts in basal ganglia",
+      "sulcal enlargement + dilated lateral ventricles (brain atrophy)"
+    ],
+    "MR": [
+      "focal areas of increased signal intensity on T2WI (= \"unidentified bright objects\")"
+    ]
+  },
+  "clinical": {}
+}

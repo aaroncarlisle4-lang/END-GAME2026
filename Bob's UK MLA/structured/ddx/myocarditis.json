@@ -1,0 +1,67 @@
+{
+  "finding": "MYOCARDITIS",
+  "slug": "myocarditis",
+  "chapter": "MITRAL REGURGITATION",
+  "source_file": "processed_clusters/mitral_regurgitation/myocarditis.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infection: viral",
+      "raw": "Infection: viral (Coxsackie B, other enteroviruses, herpesvirus, adenovirus, parvovirus B19, Epstein-Barr virus); bacterial (diphtheria, Streptococcus); parasitic (Trypanosoma cruzi)",
+      "frequency": null
+    },
+    {
+      "name": "Autoimmune process",
+      "raw": "Autoimmune process",
+      "frequency": null
+    },
+    {
+      "name": "Cardiotoxic drugs: anthracyclines, trastuzumab, catecholamines, chemotherapy",
+      "raw": "Cardiotoxic drugs: anthracyclines, trastuzumab, catecholamines, chemotherapy",
+      "frequency": null
+    },
+    {
+      "name": "Hypersensitivity reaction",
+      "raw": "Hypersensitivity reaction",
+      "frequency": null
+    },
+    {
+      "name": "Myocardial infarction / mechanical injury / radiation Rx Histo:   lymphocytic infiltration associated with myocyte injury in the absence of ischemia",
+      "raw": "Myocardial infarction / mechanical injury / radiation Rx Histo:   lymphocytic infiltration associated with myocyte injury in the absence of ischemia",
+      "frequency": null
+    },
+    {
+      "name": "usually asymptomatic; acute chest pain",
+      "raw": "usually asymptomatic; acute chest pain",
+      "frequency": null
+    },
+    {
+      "name": "atrial / ventricular arrhythmias",
+      "raw": "atrial / ventricular arrhythmias",
+      "frequency": null
+    },
+    {
+      "name": "rapid recent onset of heart failure",
+      "raw": "rapid recent onset of heart failure",
+      "frequency": null
+    },
+    {
+      "name": "cardiogenic shock, sudden cardiac death",
+      "raw": "cardiogenic shock, sudden cardiac death (12%)",
+      "frequency": "12%"
+    },
+    {
+      "name": "CK-MB (creatine kinase - myocardial b fraction specific for heart muscle) with high specificity but limited sensitivity",
+      "raw": "CK-MB (creatine kinase - myocardial b fraction specific for heart muscle) with high specificity but limited sensitivity",
+      "frequency": null
+    },
+    {
+      "name": "troponin I more often elevated than CK-MB",
+      "raw": "troponin I more often elevated than CK-MB",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  acute / chronic inflammation of the myocardium Cause: Sequela:   dilated cardiomyopathy (in up to 10%) Echocardiography (low sensitivity): √  normal heart function or global / regional LV hypokinesis MR: √  patchy diffuse / nodular hyperenhancement in nonvascular distribution up to 4 weeks after infection ← inflammation and cell necrosis Location:   inferior and inferolateral myocardial segments Site:  subepicardial / midmyocardial √  increased T2 signal √  wall motion abnormalities in affected regions Benefit:   biopsy guidance to areas of higher pathologic yield PET/CT: √  increased metab"
+}

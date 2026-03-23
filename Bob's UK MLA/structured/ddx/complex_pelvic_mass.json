@@ -1,0 +1,47 @@
+{
+  "finding": "Complex Pelvic Mass",
+  "slug": "complex_pelvic_mass",
+  "chapter": "E. LITHOPEDION",
+  "source_file": "processed_clusters/e_lithopedion/complex_pelvic_mass.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystadenoma / Cystadenocarcinoma",
+      "raw": "Cystadenoma / Cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic cyst",
+      "raw": "Hemorrhagic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Endometrioma",
+      "raw": "Endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic pregnancy",
+      "raw": "Ectopic pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma: dermoid",
+      "raw": "Teratoma: dermoid",
+      "frequency": null
+    },
+    {
+      "name": "Abscess ← adjacent appendicitis, etc.",
+      "raw": "Abscess ← adjacent appendicitis, etc.",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma in pelvis",
+      "raw": "Hematoma in pelvis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

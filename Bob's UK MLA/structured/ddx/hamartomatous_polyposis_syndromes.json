@@ -1,0 +1,42 @@
+{
+  "finding": "Hamartomatous Polyposis Syndromes",
+  "slug": "hamartomatous_polyposis_syndromes",
+  "chapter": "Prolonged Contrast Coating of Bowel Wall",
+  "source_file": "processed_clusters/prolonged_contrast_coating_of_bowel_wall/hamartomatous_polyposis_syndromes.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Peutz-Jeghers syndrome*",
+      "raw": "Peutz-Jeghers syndrome* (polyp with central core of smooth muscle)",
+      "frequency": null
+    },
+    {
+      "name": "Cowden disease*",
+      "raw": "Cowden disease*",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile polyposis*",
+      "raw": "Juvenile polyposis*",
+      "frequency": null
+    },
+    {
+      "name": "Cronkhite-Canada syndrome",
+      "raw": "Cronkhite-Canada syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Bannayan-Riley-Ruvalcaba syndrome",
+      "raw": "Bannayan-Riley-Ruvalcaba syndrome",
+      "frequency": null
+    },
+    {
+      "name": "=   increased prevalence of coexisting adenomas and adenoma-carcinoma sequence",
+      "raw": "=   increased prevalence of coexisting adenomas and adenoma-carcinoma sequence",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

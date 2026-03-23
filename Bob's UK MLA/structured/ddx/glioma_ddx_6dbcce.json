@@ -1,0 +1,52 @@
+{
+  "finding": "Glioma (DDx)",
+  "slug": "glioma_ddx_6dbcce",
+  "chapter": "Glioma",
+  "source_file": "processed_clusters/glioma/glioma_ddx_6dbcce.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "focal encephalitis",
+      "raw": "focal encephalitis",
+      "frequency": null
+    },
+    {
+      "name": "resolving hematoma",
+      "raw": "resolving hematoma",
+      "frequency": null
+    },
+    {
+      "name": "vascular malformation",
+      "raw": "vascular malformation",
+      "frequency": null
+    },
+    {
+      "name": "tuberculoma",
+      "raw": "tuberculoma",
+      "frequency": null
+    },
+    {
+      "name": "infarct",
+      "raw": "infarct",
+      "frequency": null
+    },
+    {
+      "name": "multiple sclerosis",
+      "raw": "multiple sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "anterior displacement of basilar artery + anterior pontomesencephalic vein | posterior displacement of precentral cerebellar vein | posterior displacement of posterior medullary + supratonsillar segments of PICA | lateral displacement of lateral medullary segment of PICA"
+}

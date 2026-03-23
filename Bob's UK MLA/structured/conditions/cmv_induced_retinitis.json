@@ -1,0 +1,28 @@
+{
+  "name": "CMV-INDUCED RETINITIS",
+  "slug": "cmv_induced_retinitis",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/cmv_induced_retinitis.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "in ⅓ of AIDS patents NOT on HAART (highly active antiretroviral therapy)",
+    "Location": "unilateral → bilateral"
+  },
+  "dominant_finding": "uveal enhancement",
+  "distribution": "unilateral → bilateral",
+  "discriminating_features": [
+    "uveal enhancement",
+    "retinal detachment",
+    "calcifications of retina"
+  ],
+  "other_features": {
+    "general": [
+      "uveal enhancement",
+      "retinal detachment",
+      "calcifications of retina"
+    ]
+  },
+  "clinical": {
+    "Cx": "blindness ← retinal detachment within 3-6 months (in 33% prior to HAART)"
+  }
+}

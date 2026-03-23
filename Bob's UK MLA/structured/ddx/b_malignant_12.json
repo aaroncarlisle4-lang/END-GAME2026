@@ -1,0 +1,32 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_12",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/b_malignant_12.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cervical carcinoma",
+      "raw": "Cervical carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial carcinoma",
+      "raw": "Endometrial carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma",
+      "raw": "Leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Invasive trophoblastic disease",
+      "raw": "Invasive trophoblastic disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

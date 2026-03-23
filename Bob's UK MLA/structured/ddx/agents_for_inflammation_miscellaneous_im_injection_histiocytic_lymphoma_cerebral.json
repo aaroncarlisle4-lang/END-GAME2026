@@ -1,0 +1,22 @@
+{
+  "finding": "Agents For Inflammation — Miscellaneous: IM injection, histiocytic lymphoma, cerebral infarction, (DDx)",
+  "slug": "agents_for_inflammation_miscellaneous_im_injection_histiocytic_lymphoma_cerebral",
+  "chapter": "Agents For Inflammation",
+  "source_file": "processed_clusters/agents_for_inflammation/agents_for_inflammation_miscellaneous_im_injection_histiocytic_lymphoma_cerebral.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NOT seen in Kaposi sarcoma",
+      "raw": "NOT seen in Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "a useful distinction in AIDS patients with hilar nodes",
+      "raw": "a useful distinction in AIDS patients with hilar nodes",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

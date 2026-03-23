@@ -1,0 +1,35 @@
+{
+  "finding": "Glioma Of Spinal Cord (DDx)",
+  "slug": "glioma_of_spinal_cord_ddx",
+  "chapter": "Glioma Of Spinal Cord",
+  "source_file": "processed_clusters/glioma_of_spinal_cord/glioma_of_spinal_cord_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ependymoma (\"cap\" sign [central location]",
+      "raw": "ependymoma (\"cap\" sign",
+      "frequency": null,
+      "sites": [
+        "central location"
+      ]
+    },
+    {
+      "name": "well defined",
+      "raw": "well defined",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhage common",
+      "raw": "hemorrhage common",
+      "frequency": "common"
+    },
+    {
+      "name": "focal",
+      "raw": "focal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "poorly defined margins | dilated veins on surface of cord | patchy irregular enhancement | leptomeningeal spread (in 60% of glioblastoma multiforme)"
+}

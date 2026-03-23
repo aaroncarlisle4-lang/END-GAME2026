@@ -1,0 +1,23 @@
+{
+  "name": "THYROID SCINTIGRAPHY",
+  "slug": "thyroid_scintigraphy",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/thyroid_scintigraphy.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "administration of TSH documents functioning thyroid tissue (rarely done)",
+  "distribution": "",
+  "discriminating_features": [
+    "suppression of a hot nodule following T3 / T4 administration is proof that autonomy does",
+    "administration of TSH documents functioning thyroid tissue (rarely done)",
+    "repeat measurement of radioiodine uptake following oral potassium perchlorate shows"
+  ],
+  "other_features": {
+    "general": [
+      "suppression of a hot nodule following T3 / T4 administration is proof that autonomy does",
+      "administration of TSH documents functioning thyroid tissue (rarely done)",
+      "repeat measurement of radioiodine uptake following oral potassium perchlorate shows"
+    ]
+  },
+  "clinical": {}
+}

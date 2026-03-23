@@ -1,0 +1,67 @@
+{
+  "finding": "Mass Lesion of Dura",
+  "slug": "mass_lesion_of_dura_03dac1",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/mass_lesion_of_dura_03dac1.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Primary dural lymphoma",
+      "raw": "Primary dural lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: breast. lung, prostate",
+      "raw": "Metastasis: breast. lung, prostate",
+      "frequency": null
+    },
+    {
+      "name": "Rosai-Dorfman disease",
+      "raw": "Rosai-Dorfman disease",
+      "frequency": null
+    },
+    {
+      "name": "Solitary fibrous tumor",
+      "raw": "Solitary fibrous tumor",
+      "frequency": null
+    },
+    {
+      "name": "EBV-associated leiomyoma and leiomyosarcoma",
+      "raw": "EBV-associated leiomyoma and leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanocytic lesion: primary / metastatic",
+      "raw": "Melanocytic lesion: primary / metastatic",
+      "frequency": null
+    },
+    {
+      "name": "Melanocytoma",
+      "raw": "Melanocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Erdheim-Chester disease",
+      "raw": "Erdheim-Chester disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoid Leiomyoma and leiomyosarcoma should be included in the DDx of dural-based masses in AIDS patients.",
+      "raw": "Sarcoid Leiomyoma and leiomyosarcoma should be included in the DDx of dural-based masses in AIDS patients.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

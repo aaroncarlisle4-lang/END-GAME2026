@@ -1,0 +1,57 @@
+{
+  "finding": "Infantile Form of Hypertrophic Pyloric Stenosis",
+  "slug": "infantile_form_of_hypertrophic_pyloric_stenosis",
+  "chapter": "HYPERPLASTIC POLYP OF COLON",
+  "source_file": "processed_clusters/hyperplastic_polyp_of_colon/infantile_form_of_hypertrophic_pyloric_stenosis.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "nonbilious projectile vomiting",
+      "raw": "nonbilious projectile vomiting (sour formula / clear gastric contents) → progression over a period of several weeks after birth (15-20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "palpable olive-shaped mass",
+      "raw": "palpable olive-shaped mass (80% sensitive in experienced hands, up to 14% false positive)",
+      "frequency": "80%"
+    },
+    {
+      "name": "nasogastric aspirate > 10 mL",
+      "raw": "nasogastric aspirate > 10 mL (92% sensitive, 86% specific)",
+      "frequency": "92%"
+    },
+    {
+      "name": "Empty stomach via nasogastric tube before study",
+      "raw": "Empty stomach via nasogastric tube before study",
+      "frequency": null
+    },
+    {
+      "name": "Remove contrast at end of study",
+      "raw": "Remove contrast at end of study",
+      "frequency": null
+    },
+    {
+      "name": "Infantile pylorospasm =  temporary thickening of pyloric muscle",
+      "raw": "Infantile pylorospasm =  temporary thickening of pyloric muscle",
+      "frequency": null
+    },
+    {
+      "name": "Gastritis / milk allergy",
+      "raw": "Gastritis / milk allergy",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal obstruction from midgut volvulus",
+      "raw": "Duodenal obstruction from midgut volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Gastric diaphragm",
+      "raw": "Gastric diaphragm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Age:     manifestation between 3rd-12th week of life; peak presentation during 4th week Frequency:   3÷1,000 births; M÷F = 4-5÷1; 5 x fold increase in 1st-degree relatives Abdominal radiograph: ◊  A normal radiograph does not exclude HPS! √  fluid-filled distended stomach after 2 hours of fasting √  little bowel gas UGI (95% sensitivity): ◊  Imaging confirmation is sought by most clinicians to differentiate from gastroesophageal reflux! Benefit:   complete anatomic evaluation of stomach and duodenum; functional assessment of gastroesophageal reflux Precautions: √  elongation + narrowing of pyl"
+}

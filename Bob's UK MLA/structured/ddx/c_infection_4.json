@@ -1,0 +1,27 @@
+{
+  "finding": "C. INFECTION",
+  "slug": "c_infection_4",
+  "chapter": "B. VASCULAR",
+  "source_file": "processed_clusters/b_vascular/c_infection_4.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Waterhouse-Friderichsen syndrome",
+      "raw": "Waterhouse-Friderichsen syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

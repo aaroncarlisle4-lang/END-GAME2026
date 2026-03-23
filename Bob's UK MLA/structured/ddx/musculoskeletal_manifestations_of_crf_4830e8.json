@@ -1,0 +1,52 @@
+{
+  "finding": "Musculoskeletal Manifestations of CRF",
+  "slug": "musculoskeletal_manifestations_of_crf_4830e8",
+  "chapter": "F. MISCELLANEOUS",
+  "source_file": "processed_clusters/f_miscellaneous/musculoskeletal_manifestations_of_crf_4830e8.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal osteodystrophy = combination of 2° HPT, osteoporosis, osteosclerosis, osteomalacia, soft-tissue and vascular calcifications",
+      "raw": "Renal osteodystrophy = combination of 2° HPT, osteoporosis, osteosclerosis, osteomalacia, soft-tissue and vascular calcifications",
+      "frequency": null
+    },
+    {
+      "name": "Aluminum toxicity",
+      "raw": "Aluminum toxicity (1-30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Amyloid deposition",
+      "raw": "Amyloid deposition",
+      "frequency": null
+    },
+    {
+      "name": "Destructive spondyloarthropathy",
+      "raw": "Destructive spondyloarthropathy (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Tendon rupture",
+      "raw": "Tendon rupture",
+      "frequency": null
+    },
+    {
+      "name": "Crystal deposition disease",
+      "raw": "Crystal deposition disease",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis + septic arthritis",
+      "raw": "Osteomyelitis + septic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Avascular necrosis",
+      "raw": "Avascular necrosis (in up to 40%)",
+      "frequency": "40%"
+    }
+  ],
+  "criteria": {},
+  "context": "Path:  amyloid consists of β2-microglobulin Organs:   bone, tenosynovium (carpal tunnel syndrome), vertebral disk, articular cartilage + capsule, ligament, muscle √  diskovertebral junction erosion + sclerosis √  vertebral body compression √  disk space narrowing √  Schmorl node formation √  lack of osteophytosis √  facet involvement with subluxation Type:  calcium hydroxyapatite, CPPD, calcium oxalate, monosodium urate"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Enhancing Supra- and Intrasellar Mass",
+  "slug": "enhancing_supra_and_intrasellar_mass",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/enhancing_supra_and_intrasellar_mass.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pituitary adenoma",
+      "raw": "Pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Germinoma",
+      "raw": "Germinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hypothalamic glioma",
+      "raw": "Hypothalamic glioma",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

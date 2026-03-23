@@ -1,0 +1,75 @@
+{
+  "finding": "Low-intensity Adnexal Lesion on T2WI",
+  "slug": "low_intensity_adnexal_lesion_on_t2wi",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/low_intensity_adnexal_lesion_on_t2wi.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Blood products",
+      "raw": "Blood products",
+      "frequency": null
+    },
+    {
+      "name": "Endometrioma",
+      "raw": "Endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic cyst",
+      "raw": "Hemorrhagic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hematosalpinx",
+      "raw": "Hematosalpinx",
+      "frequency": null
+    },
+    {
+      "name": "Cystic adenomyosis",
+      "raw": "Cystic adenomyosis",
+      "frequency": null
+    },
+    {
+      "name": "Smooth muscle",
+      "raw": "Smooth muscle",
+      "frequency": null
+    },
+    {
+      "name": "Uterine leiomyoma",
+      "raw": "Uterine leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous tissue",
+      "raw": "Fibrous tissue",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian fibroma",
+      "raw": "Ovarian fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Theca cell tumor of ovary",
+      "raw": "Theca cell tumor of ovary",
+      "frequency": null
+    },
+    {
+      "name": "Cystadenofibroma",
+      "raw": "Cystadenofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian fibromatosis [Pelvic aggressive fibromatosis]",
+      "raw": "Ovarian fibromatosis",
+      "frequency": null,
+      "sites": [
+        "Pelvic aggressive fibromatosis"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Sacrum (DDx)",
+  "slug": "sacrum_ddx",
+  "chapter": "Sacrum",
+  "source_file": "processed_clusters/sacrum/sacrum_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "psoriatic arthritis",
+      "raw": "psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Reiter syndrome",
+      "raw": "Reiter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "trauma",
+      "raw": "trauma",
+      "frequency": null
+    },
+    {
+      "name": "gout",
+      "raw": "gout",
+      "frequency": null
+    },
+    {
+      "name": "pigmented villonodular synovitis",
+      "raw": "pigmented villonodular synovitis",
+      "frequency": null
+    },
+    {
+      "name": "osteitis condensans ilii",
+      "raw": "osteitis condensans ilii",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "subchondral sclerosis + occasional ankylosis | no erosions | irregular narrowing of joint space with subchondral sclerosis | osteophytes at anterosuperior / -inferior aspect of joint (may resemble ankylosis)"
+}

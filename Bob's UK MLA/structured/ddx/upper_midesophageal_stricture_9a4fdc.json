@@ -1,0 +1,57 @@
+{
+  "finding": "Upper & Midesophageal Stricture",
+  "slug": "upper_midesophageal_stricture_9a4fdc",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/upper_midesophageal_stricture_9a4fdc.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Barrett esophagus",
+      "raw": "Barrett esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal radiation therapy",
+      "raw": "Mediastinal radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Caustic esophagitis",
+      "raw": "Caustic esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Drug-induced stricture",
+      "raw": "Drug-induced stricture",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal intramural pseudodiverticulosis",
+      "raw": "Esophageal intramural pseudodiverticulosis",
+      "frequency": null
+    },
+    {
+      "name": "Dermatologic disorder: benign mucous membrane pemphigoid, epidermolysis bullosa dystrophica, erythema multiforme major",
+      "raw": "Dermatologic disorder: benign mucous membrane pemphigoid, epidermolysis bullosa dystrophica, erythema multiforme major",
+      "frequency": null
+    },
+    {
+      "name": "Graft-versus-host disease",
+      "raw": "Graft-versus-host disease",
+      "frequency": null
+    },
+    {
+      "name": "Congenital esophageal stenosis =  tracheobronchial remnant / cartilaginous ring in esophageal wall",
+      "raw": "Congenital esophageal stenosis =  tracheobronchial remnant / cartilaginous ring in esophageal wall",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic cancer",
+      "raw": "Metastatic cancer (from subcarinal nodes / left mainstem bronchus)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "In the setting of hiatal hernia and gastroesophageal reflux, a focal stricture in the midesophagus is highly suggestive of Barrett esophagus. DDx:  Primary carcinoma: squamous cell carcinoma"
+}

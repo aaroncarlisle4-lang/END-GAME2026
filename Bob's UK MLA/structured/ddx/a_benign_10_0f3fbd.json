@@ -1,0 +1,37 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_10_0f3fbd",
+  "chapter": "Musculoskeletal Fibromatoses",
+  "source_file": "processed_clusters/musculoskeletal_fibromatoses/a_benign_10_0f3fbd.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intramuscular myxoma",
+      "raw": "Intramuscular myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Synovial cyst",
+      "raw": "Synovial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Bursa",
+      "raw": "Bursa",
+      "frequency": null
+    },
+    {
+      "name": "Soft-tissue ganglion",
+      "raw": "Soft-tissue ganglion",
+      "frequency": null
+    },
+    {
+      "name": "Benign peripheral nerve sheath tumor: neurofibroma, schwannoma",
+      "raw": "Benign peripheral nerve sheath tumor: neurofibroma, schwannoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  perilesional edema + rim of fat √  communication with joint / tendon sheath √  communication with joint / tendon sheath √  \"entering-and-exiting-nerve\" sign"
+}

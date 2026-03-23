@@ -1,0 +1,33 @@
+{
+  "name": "BLUE RUBBER BLEB NEVUS SYNDROME",
+  "slug": "blue_rubber_bleb_nevus_syndrome",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/blue_rubber_bleb_nevus_syndrome.md",
+  "definition": "BEAN SYNDROME rare familial disorder characterized by multiple cutaneous + musculoskeletal +",
+  "demographics": {
+    "Incidence": "> 200 cases",
+    "Etiology": "sporadic / autosomal dominant",
+    "Path": "thin layer of connective tissue + single layer of endothelial cells surrounding blood-"
+  },
+  "dominant_finding": "hyperintense lesions on T2WI ← slow flow / thrombosis",
+  "distribution": "",
+  "discriminating_features": [
+    "multiple polypoid filling defects of various sizes throughout small bowel ← venous",
+    "intermittent small bowel obstruction ← chronic bleeding",
+    "multiple phleboliths",
+    "hyperintense lesions on T2WI ← slow flow / thrombosis"
+  ],
+  "other_features": {
+    "general": [
+      "multiple polypoid filling defects of various sizes throughout small bowel ← venous",
+      "intermittent small bowel obstruction ← chronic bleeding",
+      "multiple phleboliths"
+    ],
+    "MR": [
+      "hyperintense lesions on T2WI ← slow flow / thrombosis"
+    ]
+  },
+  "clinical": {
+    "Cx": "intussusception, volvulus; GI hemorrhage; chronic coagulation disorders; hemothorax;"
+  }
+}

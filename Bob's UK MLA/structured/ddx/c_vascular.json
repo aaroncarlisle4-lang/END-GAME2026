@@ -1,0 +1,45 @@
+{
+  "finding": "C. VASCULAR",
+  "slug": "c_vascular",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/c_vascular.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "COPD",
+      "raw": "COPD",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary embolus with infarction",
+      "raw": "Pulmonary embolus with infarction",
+      "frequency": null
+    },
+    {
+      "name": "Venous hypertension (most common): mitral stenosis",
+      "raw": "Venous hypertension (most common): mitral stenosis",
+      "frequency": "most common"
+    },
+    {
+      "name": "Arteriovenous malformation",
+      "raw": "Arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Rupture of pulmonary artery aneurysm: TB, vasculitis, trauma, neoplasm, abscess, septic embolus, indwelling catheter",
+      "raw": "Rupture of pulmonary artery aneurysm: TB, vasculitis, trauma, neoplasm, abscess, septic embolus, indwelling catheter",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "COPD": [],
+    "Pulmonary embolus with infarction": [
+      "bronchial blood flow may increase by 300% in the weeks following pulmonary artery embolization"
+    ],
+    "Venous hypertension (most common): mitral stenosis": [],
+    "Arteriovenous malformation": [],
+    "Rupture of pulmonary artery aneurysm: TB, vasculitis, trauma, neoplasm, abscess, septic embolus, indwelling catheter": []
+  },
+  "context": "√  bronchial blood flow may increase by 300% in the weeks following pulmonary artery embolization"
+}

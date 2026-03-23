@@ -1,0 +1,42 @@
+{
+  "finding": "Brunner Gland Hamartoma (DDx)",
+  "slug": "brunner_gland_hamartoma_ddx_02af82",
+  "chapter": "Brunner Gland Hamartoma",
+  "source_file": "processed_clusters/brunner_gland_hamartoma/brunner_gland_hamartoma_ddx_02af82.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "adenomatous polyp",
+      "raw": "adenomatous polyp",
+      "frequency": null
+    },
+    {
+      "name": "lipoma",
+      "raw": "lipoma",
+      "frequency": null
+    },
+    {
+      "name": "leiomyoma",
+      "raw": "leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "leiomyosarcoma",
+      "raw": "leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "ectopic",
+      "raw": "ectopic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multiple nodular filling defects (usually limited to 1st portion of duodenum) with | smooth single mass ± central ulceration"
+}

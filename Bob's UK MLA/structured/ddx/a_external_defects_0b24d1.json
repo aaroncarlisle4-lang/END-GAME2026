@@ -1,0 +1,32 @@
+{
+  "finding": "A. EXTERNAL DEFECTS",
+  "slug": "a_external_defects_0b24d1",
+  "chapter": "LIMB-BODY WALL COMPLEX",
+  "source_file": "processed_clusters/limb_body_wall_complex/a_external_defects_0b24d1.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ventral wall anomaly",
+      "raw": "Ventral wall anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Craniofacial defects: anencephaly, cephalocele, facial cleft",
+      "raw": "Craniofacial defects: anencephaly, cephalocele, facial cleft",
+      "frequency": null
+    },
+    {
+      "name": "Limb anomalies: clubfoot, absent limbs",
+      "raw": "Limb anomalies: clubfoot, absent limbs",
+      "frequency": null
+    },
+    {
+      "name": "Spinal defects: dysraphism, scoliosis",
+      "raw": "Spinal defects: dysraphism, scoliosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  large eccentric defect Location:   L÷R = 3÷1 (DDx: gastroschisis)"
+}

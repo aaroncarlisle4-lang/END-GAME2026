@@ -1,0 +1,43 @@
+{
+  "name": "HIRSCHSPRÜNG DISEASE",
+  "slug": "hirschsprung_disease",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/hirschsprung_disease.md",
+  "definition": "AGANGLIONOSIS OF THE COLON = AGANGLIONIC MEGACOLON complete / partial functional colonic obstruction ← absence of parasympathetic ganglia in",
+  "demographics": {
+    "Etiology": "arrest of craniocaudal migration of neural crest cells along vagal trunks during 5th-",
+    "Prevalence": "1÷5,000-8,000 live births; 15-20% of all neonatal bowel obstructions; usually",
+    "Age": "during first 6 weeks of life of a full-term infant (70-80%); extremely rare in premature",
+    "Associated with": "trisomy 21 (in 2%)",
+    "Location": "at varying distances proximal to anus, usually rectosigmoid (in 80%) and rectum"
+  },
+  "dominant_finding": "narrow transition zone + aboral colonic distension on SAG reformatted view of lower",
+  "distribution": "at varying distances proximal to anus, usually rectosigmoid (in 80%) and rectum",
+  "discriminating_features": [
+    "generalized gaseous distension of bowel loops",
+    "\"transition zone\":",
+    "inverted cone-shaped colon at transition between abnormal + normal bowel (MOST",
+    "dilated stool-filled large + small bowel aborally from transition zone",
+    "distal aganglionic segment of normal size + free of stool (apparent in 50% during 1st"
+  ],
+  "other_features": {
+    "general": [
+      "generalized gaseous distension of bowel loops",
+      "\"transition zone\":",
+      "inverted cone-shaped colon at transition between abnormal + normal bowel (MOST",
+      "dilated stool-filled large + small bowel aborally from transition zone",
+      "distal aganglionic segment of normal size + free of stool (apparent in 50% during 1st",
+      "normal-appearing rectum in 33%",
+      "short patent colon usually of normal caliber",
+      "marked retention of barium on delayed postevacuation films after 12-24 hours",
+      "10-15-cm segment of persistent corrugated / convoluted rectum (= abnormal uncoordinated",
+      "dilated small bowel / dilated colon"
+    ],
+    "CT": [
+      "narrow transition zone + aboral colonic distension on SAG reformatted view of lower"
+    ]
+  },
+  "clinical": {
+    "N.B.": "avoid digital exam / cleansing enema prior to radiographic studies!"
+  }
+}

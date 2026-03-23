@@ -1,0 +1,27 @@
+{
+  "finding": "C. INFECTION / INFLAMMATION impairing ureteral peristalsis",
+  "slug": "c_infection_inflammation_impairing_ureteral_peristalsis_b0a74b",
+  "chapter": "B. SMOOTH MUSCLE DYSFUNCTION",
+  "source_file": "processed_clusters/b_smooth_muscle_dysfunction/c_infection_inflammation_impairing_ureteral_peristalsis_b0a74b.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "UTI: eg, E. coli, Pseudomonas, Citrobacter",
+      "raw": "UTI: eg, E. coli, Pseudomonas, Citrobacter",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis",
+      "raw": "Appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "Diverticulitis",
+      "raw": "Diverticulitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,62 @@
+{
+  "finding": "Peak age: 30-50 years; M÷F = 2÷1",
+  "slug": "peak_age_30_50_years_mf_21",
+  "chapter": "LYMPHOID HYPOPHYSITIS",
+  "source_file": "processed_clusters/lymphoid_hypophysitis/peak_age_30_50_years_mf_21.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "symptoms of rapidly enlarging mass",
+      "raw": "symptoms of rapidly enlarging mass (60%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "symptoms of encephalitis",
+      "raw": "symptoms of encephalitis (< 25%), stroke (7%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "cranial nerve palsy, demyelinating disease, motor dysfunction",
+      "raw": "cranial nerve palsy, demyelinating disease, motor dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "personality changes, headaches, seizures, cerebellar signs,",
+      "raw": "personality changes, headaches, seizures, cerebellar signs,",
+      "frequency": null
+    },
+    {
+      "name": "CSF cytology positive in 4-25-43%: elevated protein, mononuclear / blast / other lymphoma cells",
+      "raw": "CSF cytology positive in 4-25-43%: elevated protein, mononuclear / blast / other lymphoma cells",
+      "frequency": "43%"
+    },
+    {
+      "name": "Neoplastic disorders",
+      "raw": "Neoplastic disorders",
+      "frequency": null
+    },
+    {
+      "name": "Glioma",
+      "raw": "Glioma (may be bilateral with involvement of basal ganglia + corpus callosum, may show dense homogeneous enhancement with vascularity)",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases (known primary, at gray-white matter junction)",
+      "frequency": null
+    },
+    {
+      "name": "Primitive neuroectodermal tumor",
+      "raw": "Primitive neuroectodermal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Histo:   atypical pleomorphic B-cells mixed with reactive T-cells infiltrate blood vessel walls + cluster within perivascular (Virchow-Robin) spaces simulating vasculitis Location:   supratentorial÷posterior fossa = 3-9÷1; paramedian structures preferentially affected; white matter + corpus callosum (55%), deep central gray matter of basal ganglia + thalamus + hypothalamus (17%), posterior fossa + cerebellum (11%), spinal cord (1%); multicentricity in 11-47% Site:   abuts ventricular ependyma + meninges (12-30%); \"butterfly lymphoma\" in frontal lobe involvement; dural involvement may mimic men"
+}

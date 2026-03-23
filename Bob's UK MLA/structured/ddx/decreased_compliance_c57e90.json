@@ -1,0 +1,27 @@
+{
+  "finding": "Decreased Compliance",
+  "slug": "decreased_compliance_c57e90",
+  "chapter": "Bronchial Situs",
+  "source_file": "processed_clusters/bronchial_situs/decreased_compliance_c57e90.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myocardial infarction",
+      "raw": "Myocardial infarction",
+      "frequency": null
+    },
+    {
+      "name": "Hypertrophic cardiomyopathy",
+      "raw": "Hypertrophic cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Restrictive cardiomyopathy",
+      "raw": "Restrictive cardiomyopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

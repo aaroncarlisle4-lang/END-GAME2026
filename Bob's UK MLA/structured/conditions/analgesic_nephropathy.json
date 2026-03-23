@@ -1,0 +1,28 @@
+{
+  "name": "ANALGESIC NEPHROPATHY",
+  "slug": "analgesic_nephropathy",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/analgesic_nephropathy.md",
+  "definition": "renal damage from ingestion of salicylates in combination with phenacetin / acetaminophen in",
+  "demographics": {
+    "Prevalence": "USA (2-10%), Australia (20%)",
+    "Age": "middle-aged; M÷F = 1÷4"
+  },
+  "dominant_finding": "scarring of renal parenchyma (\"wavy outline\"); bilateral in 66%, unilateral in 5%",
+  "distribution": "scarring of renal parenchyma (\"wavy outline\"); bilateral in 66%, unilateral in 5%",
+  "discriminating_features": [
+    "papillary necrosis",
+    "scarring of renal parenchyma (\"wavy outline\"); bilateral in 66%, unilateral in 5%",
+    "renal atrophy",
+    "papillary urothelial tumors in calices / pelvis (mostly TCC / squamous cell carcinoma), in 5%"
+  ],
+  "other_features": {
+    "general": [
+      "papillary necrosis",
+      "scarring of renal parenchyma (\"wavy outline\"); bilateral in 66%, unilateral in 5%",
+      "renal atrophy",
+      "papillary urothelial tumors in calices / pelvis (mostly TCC / squamous cell carcinoma), in 5%"
+    ]
+  },
+  "clinical": {}
+}

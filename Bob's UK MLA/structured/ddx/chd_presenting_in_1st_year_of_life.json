@@ -1,0 +1,52 @@
+{
+  "finding": "CHD Presenting in 1st Year of Life",
+  "slug": "chd_presenting_in_1st_year_of_life",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/chd_presenting_in_1st_year_of_life.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "VSD",
+      "raw": "VSD",
+      "frequency": null
+    },
+    {
+      "name": "d-Transposition of great vessels",
+      "raw": "d-Transposition of great vessels",
+      "frequency": null
+    },
+    {
+      "name": "Tetralogy of Fallot",
+      "raw": "Tetralogy of Fallot",
+      "frequency": null
+    },
+    {
+      "name": "Isolated coarctation",
+      "raw": "Isolated coarctation",
+      "frequency": null
+    },
+    {
+      "name": "Patent ductus arteriosus",
+      "raw": "Patent ductus arteriosus",
+      "frequency": null
+    },
+    {
+      "name": "Hypoplastic left heart syndrome",
+      "raw": "Hypoplastic left heart syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Left ventricular failure ← outflow obstruction",
+      "raw": "Left ventricular failure ← outflow obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction of pulmonary venous return",
+      "raw": "Obstruction of pulmonary venous return",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Most common causes for CHF + PVH in neonate:"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "FACIAL CLEFTING",
+  "slug": "facial_clefting",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/facial_clefting.md",
+  "definition": "failure of fusion of the 2 medial nasal prominences lack of fusion of mesenchymal masses of lateral palatine processes around 8th-9th weeks",
+  "demographics": {
+    "Prevalence": "0.5÷1,000 in blacks; 1÷1,000 live births in white population; 1.5÷1,000 in Asians;",
+    "Associated with": "anomalies in 20% (most frequently clubfoot); NO chromosomal",
+    "Location": "L > R"
+  },
+  "dominant_finding": "brain anomalies rare",
+  "distribution": "L > R",
+  "discriminating_features": [
+    "brain anomalies rare",
+    "linear echo-poor region extending from one side of fetal upper lip into nostril",
+    "linear defect extending through alveolar ridge + hard palate reaching the floor of the",
+    "paranasal echogenic mass inferior to nose (= premaxillary protrusion of soft tissue +",
+    "often missed on prenatal sonograms"
+  ],
+  "other_features": {
+    "general": [
+      "brain anomalies rare",
+      "linear echo-poor region extending from one side of fetal upper lip into nostril",
+      "linear defect extending through alveolar ridge + hard palate reaching the floor of the",
+      "paranasal echogenic mass inferior to nose (= premaxillary protrusion of soft tissue +",
+      "often missed on prenatal sonograms",
+      "small fetal stomach + polyhydramnios ← impaired fetal swallowing"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "excellent"
+  }
+}

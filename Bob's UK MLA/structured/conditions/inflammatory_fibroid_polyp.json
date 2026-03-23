@@ -1,0 +1,26 @@
+{
+  "name": "INFLAMMATORY FIBROID POLYP",
+  "slug": "inflammatory_fibroid_polyp",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/inflammatory_fibroid_polyp.md",
+  "definition": "VANEK TUMOR = EOSINOPHILIC GRANULOMA = SUBMUCOSAL FIBROMA = FIBROUS POLYPOID unusual benign chronic inflammatory lesion",
+  "demographics": {
+    "Path": "arises in submucosa",
+    "Histo": "spindle cells arranged in whorls around blood vessels with prominent inflammatory",
+    "Size": "2-5 cm in diameter"
+  },
+  "dominant_finding": "intraluminal subepithelial polypoid mass / pedunculated polyp with smooth / slightly",
+  "distribution": "",
+  "discriminating_features": [
+    "intraluminal subepithelial polypoid mass / pedunculated polyp with smooth / slightly"
+  ],
+  "other_features": {
+    "general": [
+      "intraluminal subepithelial polypoid mass / pedunculated polyp with smooth / slightly"
+    ]
+  },
+  "clinical": {
+    "Cx": "intermittent gastric outlet obstruction",
+    "Rx": "endoscopic resection"
+  }
+}

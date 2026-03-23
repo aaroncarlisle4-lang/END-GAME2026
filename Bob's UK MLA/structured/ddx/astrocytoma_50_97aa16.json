@@ -1,0 +1,87 @@
+{
+  "finding": "ASTROCYTOMA (50%",
+  "slug": "astrocytoma_50_97aa16",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/astrocytoma_50_97aa16.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Astrocytoma",
+      "raw": "Astrocytoma (astrocytoma grades I-II)",
+      "frequency": null
+    },
+    {
+      "name": "Glioblastoma",
+      "raw": "Glioblastoma (astrocytoma grades III-IV)",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Choroid plexus papilloma",
+      "raw": "Choroid plexus papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Germinoma",
+      "raw": "Germinoma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Pineocytoma",
+      "raw": "Pineocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Pineoblastoma (c)  Pituitary tumor",
+      "raw": "Pineoblastoma (c)  Pituitary tumor",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary adenoma",
+      "raw": "Pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary carcinoma (d)  Meningioma (e)  Nerve sheath tumor",
+      "raw": "Pituitary carcinoma (d)  Meningioma (e)  Nerve sheath tumor",
+      "frequency": null
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma (f)  Miscellaneous",
+      "raw": "Neurofibroma (f)  Miscellaneous",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioblastoma",
+      "raw": "Hemangioblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "OLIGODENDROGLIOMA PARAGLIOMA GANGLIOGLIOMA MEDULLOBLASTOMA (b)  Pineal tumor"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Circumferential Pleural Thickening",
+  "slug": "circumferential_pleural_thickening_d09ad5",
+  "chapter": "F. OTHER",
+  "source_file": "processed_clusters/f_other/circumferential_pleural_thickening_d09ad5.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mesothelioma",
+      "raw": "Mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Thymoma",
+      "raw": "Thymoma",
+      "frequency": null
+    },
+    {
+      "name": "Asbestos-related benign pleural disease",
+      "raw": "Asbestos-related benign pleural disease",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

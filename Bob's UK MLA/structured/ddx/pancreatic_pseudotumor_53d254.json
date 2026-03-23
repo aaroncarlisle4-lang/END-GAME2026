@@ -1,0 +1,32 @@
+{
+  "finding": "Pancreatic Pseudotumor",
+  "slug": "pancreatic_pseudotumor_53d254",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/pancreatic_pseudotumor_53d254.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intrapancreatic accessory spleen",
+      "raw": "Intrapancreatic accessory spleen",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic lobulation",
+      "raw": "Pancreatic lobulation",
+      "frequency": null
+    },
+    {
+      "name": "Tuber omentale = focal prominence of anterior pancreatic surface to left of SMA",
+      "raw": "Tuber omentale = focal prominence of anterior pancreatic surface to left of SMA",
+      "frequency": null
+    },
+    {
+      "name": "Pancreas bifidum = fish tail pancreas = bifid pancreatic tail",
+      "raw": "Pancreas bifidum = fish tail pancreas = bifid pancreatic tail",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   pancreatic tail Prevalence:   34% of general population Location:  posterior (19%), anterior (10%), horizontal (5%) √  pancreatic tail does not reach splenic hilum"
+}

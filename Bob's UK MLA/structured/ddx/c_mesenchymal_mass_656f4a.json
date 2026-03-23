@@ -1,0 +1,32 @@
+{
+  "finding": "C. Mesenchymal mass",
+  "slug": "c_mesenchymal_mass_656f4a",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/c_mesenchymal_mass_656f4a.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Undifferentiated sarcoma",
+      "raw": "Undifferentiated sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Vascular malformation",
+      "raw": "Vascular malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,90 @@
+{
+  "name": "FATTY LIVER",
+  "slug": "fatty_liver",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/fatty_liver.md",
+  "definition": "FATTY INFILTRATION OF THE LIVER = HEPATIC STEATOSIS accumulation of triglyceride droplets in hepatocytes in patients with renal failure and insulin-dependent diabetes, insulin can be delivered in",
+  "demographics": {
+    "Prevalence": "15-35% in general population; > 60 g alcohol daily (45%); hyperlipidemia",
+    "Path": "> 5% fat of total liver weight",
+    "Histo": "hepatocytes with large cytoplasmic fat vacuoles containing triglycerides (= steatosis)",
+    "Location": "most pronounced + earliest around central vein",
+    "Etiology": "(?) relative ischemia due to ↓ portal venous flow / ↓ delivery of unknown"
+  },
+  "dominant_finding": "patchy areas of decreased attenuation ranging from -40 to +10 HU (DDx: liver tumor)",
+  "distribution": "most pronounced + earliest around central vein",
+  "discriminating_features": [
+    "rapid change with time (few days to > 10 months) depending on clinical improvement",
+    "hepatomegaly + diffuse fatty change of liver",
+    "hepatomegaly (75-80%) / normal sized liver",
+    "\"radiolucent liver\" sign = enlarged radiolucent liver",
+    "liver echogenicity exceeds that of renal cortex / spleen:"
+  ],
+  "other_features": {
+    "general": [
+      "rapid change with time (few days to > 10 months) depending on clinical improvement",
+      "hepatomegaly + diffuse fatty change of liver",
+      "hepatomegaly (75-80%) / normal sized liver",
+      "\"radiolucent liver\" sign = enlarged radiolucent liver",
+      "liver echogenicity exceeds that of renal cortex / spleen:",
+      "fine (more typical) / coarse hyperechogenicity",
+      "increased sound attenuation:",
+      "poor definition of posterior aspect of liver / diaphragm",
+      "decreased visibility of portal triads",
+      "poor delineation of intrahepatic architecture",
+      "impaired visualization of borders of hepatic vessels",
+      "attenuation of liver less than that of intrahepatic vessels (= marked steatosis)",
+      "density of liver at least 10 HU less than that of spleen",
+      "hepatosplenic attenuation difference (Δ = L - S)",
+      "ratio of liver÷spleen < 1",
+      "liver attenuation of < 48 HU; of < 40 HU = 30% fat"
+    ],
+    "CECT": [
+      "absolute liver attenuation < 40 HU (limited sensitivity)",
+      "liver attenuation < musculature (marked steatosis)",
+      "hepatic steatotic attenuation changes more marked with a change in tube potential"
+    ],
+    "NUC": [
+      "diffuse heterogeneous uptake (68%)",
+      "reversal of liver-spleen uptake (41%)",
+      "increased bone marrow uptake (41%)",
+      "increased activity during washout phase (38%)",
+      "slightly higher signal intensity on T1WI + T2WI; relatively insensitive (10% fat by",
+      "signal loss on out-of-phase (= opposed-phase) compared to in-phase images / fat turns",
+      "estimation of liver fat content by comparing liver tissue to spleen and muscle as",
+      "quantifiable by degree of SI loss",
+      "chemical fat saturation sequence (usually less sensitive but superior in the presence of",
+      "MR spectroscopy (most accurate noninvasive method)",
+      "geographic configuration",
+      "poorly delineated margins",
+      "contrast enhancement similar to normal liver",
+      "pseudolesion = NO mass effect (= undisplaced course of intrahepatic vessels)"
+    ],
+    "US": [
+      "hypoechoic ovoid / spherical / sheetlike mass",
+      "hyperechoic area with poorly defined / sharp margins",
+      "multiple / rarely single echogenic nodules simulating metastases (rare)"
+    ],
+    "CT": [
+      "hyperattenuating relative to surrounding liver",
+      "patchy areas of decreased attenuation ranging from -40 to +10 HU (DDx: liver tumor)",
+      "NO contrast enhancement"
+    ],
+    "MR": [
+      "hyperintense on T1WI",
+      "lack of decrease in SI on opposed-phase gradient-echo T1WI",
+      "fan-shaped lobar / segmental distribution with angulated / interdigitating geographic",
+      "lesions extend to liver capsule",
+      "pseudolesion = NO mass effect ← undisplaced course of vessels, no bulging of liver",
+      "perivenous halo of fat (= tram- / ring-like configuration on cross sections) around hepatic",
+      "high signal on T1WI + low / isointense signal on T2WI",
+      "decreased SI on opposed-phase gradient-echo T1WI relative to in-phase imaging",
+      "no significant changes on sulfur colloid images (SPECT imaging may detect focal fatty",
+      "unique subcapsular pattern of fatty infiltration"
+    ]
+  },
+  "clinical": {
+    "N.B.": "no fatty infiltration of liver parenchyma",
+    "Cx": "steatohepatitis (inflammatory cell injury), cirrhosis"
+  }
+}

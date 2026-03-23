@@ -1,0 +1,70 @@
+# Disease: CONGENITAL INCLUSION CYSTS OF CNS
+
+**Source section:** CENTRAL NEUROCYTOMA
+
+## Key Facts
+
+- **Frequency:** dermoid÷epidermoid = 1÷3 to 1÷10
+- **Location:** most commonly in midline (anterior fontanelle, glabella, nasion, vertex, subocciput)
+- **Path:** ectoderm + skin elements = pilosebaceous mass of squamous epithelial cells +
+- **Incidence:** 1% of all intracranial tumors
+- **Age:** < 30 years (appears in adulthood due to slow growth); M < F
+- **Histo:** tumor lined by simple stratified cuboidal squamous epithelium; surrounded by thin
+
+## Imaging Findings
+
+### General
+
+- angiographically avascular
+- NO contrast enhancement internally (DDx to teratoma)
+- rare peripheral rim enhancement ← perilesional inflammation / infection
+- thick-walled inhomogeneous mass with focal areas of fat
+- mural / central calcifications / bone (possible)
+- may have sinus tract to skin surface (dermal sinus) if located in midline at occipital /
+- fat-fluid level if cyst ruptures into ventricles, fat droplets in subarachnoid space
+
+### CT
+
+- variable appearance ± areas of low attenuation due to lipid component
+- typically lobulated round homogeneous mass with density similar to CSF (between water
+- occasionally hyperdense due to high protein content, saponification of keratinaceous
+- bony erosion with sharply defined well-corticated margins
+- peripheral calcifications (in 25%)
+
+### MR
+
+- variointense on T1WI (hyperintense with contents of liquefied cholesterol products)
+- curvilinear regions of low SI on T1WI + T2WI (= hair)
+- shortened T1 + T2 relaxation times (= fat)
+- suppressed fat signal on fat-suppressed images
+- soft lesion insinuating into adjacent brain parenchyma:
+- conforming to + molding itself around brain surfaces
+- intimately surrounding vessels + cranial nerves rather than displacing them (limited
+- little mass effect, no edema / hydrocephalus
+- may be associated with dermal sinus tract at occipital / nasofrontal region if midline in
+- lamellated onionskin appearance with septations (layer-on-layer accretion of
+- "black epidermoid" (majority) = SI similar to CSF:
+- heterogeneously hypointense lesion on T1WI
+- hyperintense on T2WI
+- "white epidermoid" (rare) = SI similar to fat:
+- hyperintense on T1WI
+- iso- to hyperintense on T2WI
+- SI similar to calcium = hypointense on T2WI (very rare) ← peripheral calcifications,
+- incomplete saturation on FLAIR = hyperintense relative to CSF (DDx: arachnoid cyst)
+- lesion very hyperintense on DWI
+- signal intensity suppression on fat-suppressed sequence (DDx: lipoma exhibits more
+- papillary / frondlike surface with contrast material extending into tumor interstices
+
+## Clinical
+
+- **Cx:** (1)  Chemical / aseptic meningitis (rare)
+- **Rx:** surgical resection (complicated by adherence to surrounding brain + cranial nerves,
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

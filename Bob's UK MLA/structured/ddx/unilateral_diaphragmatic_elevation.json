@@ -1,0 +1,52 @@
+{
+  "finding": "Unilateral Diaphragmatic Elevation",
+  "slug": "unilateral_diaphragmatic_elevation",
+  "chapter": "DIAPHRAGM",
+  "source_file": "processed_clusters/diaphragm/unilateral_diaphragmatic_elevation.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Subpulmonic pleural effusion",
+      "raw": "Subpulmonic pleural effusion",
+      "frequency": null
+    },
+    {
+      "name": "Altered pulmonary volume (a)  Atelectasis",
+      "raw": "Altered pulmonary volume (a)  Atelectasis",
+      "frequency": null
+    },
+    {
+      "name": "Phrenic nerve paralysis (a)  primary lung tumor (b)  malignant mediastinal tumor (c)  iatrogenic (d)  idiopathic",
+      "raw": "Phrenic nerve paralysis (a)  primary lung tumor (b)  malignant mediastinal tumor (c)  iatrogenic (d)  idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Abdominal disease (a)  subphrenic abscess (history of surgery, accompanied by pleural effusion) (b)  distended stomach / colon (c)  interposition of colon (d)  liver mass: tumor, echinococcal cyst, abscess",
+      "raw": "Abdominal disease (a)  subphrenic abscess (history of surgery, accompanied by pleural effusion) (b)  distended stomach / colon (c)  interposition of colon (d)  liver mass: tumor, echinococcal cyst, abscess",
+      "frequency": null
+    },
+    {
+      "name": "Diaphragmatic hernia",
+      "raw": "Diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Eventration of diaphragm",
+      "raw": "Eventration of diaphragm",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic rupture of diaphragm associated with rib fractures, pulmonary contusion, hemothorax",
+      "raw": "Traumatic rupture of diaphragm associated with rib fractures, pulmonary contusion, hemothorax",
+      "frequency": null
+    },
+    {
+      "name": "Diaphragmatic tumor: mesothelioma, fibroma, lipoma, lymphoma, metastases",
+      "raw": "Diaphragmatic tumor: mesothelioma, fibroma, lipoma, lymphoma, metastases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  dome of pseudodiaphragm migrates toward the costophrenic angle and flattens √  associated pulmonary density (b)  Postoperative lobectomy / pneumonectomy √  rib defects, metallic sutures (c)  Hypoplastic lung √  small hemithorax (more often on the right), crowding of ribs, mediastinal shift, absent / small pulmonary artery, frequently associated with dextrocardia + anomalous pulmonary venous return √  diagnosed fluoroscopically by paradoxic diaphragmatic motion (with patient asked to sniff in lateral projection)"
+}

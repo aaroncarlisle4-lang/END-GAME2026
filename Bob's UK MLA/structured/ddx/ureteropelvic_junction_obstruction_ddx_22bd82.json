@@ -1,0 +1,22 @@
+{
+  "finding": "Ureteropelvic Junction Obstruction (DDx)",
+  "slug": "ureteropelvic_junction_obstruction_ddx_22bd82",
+  "chapter": "Ureteropelvic Junction Obstruction",
+  "source_file": "processed_clusters/ureteropelvic_junction_obstruction/ureteropelvic_junction_obstruction_ddx_22bd82.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "multicystic dysplastic kidney",
+      "raw": "multicystic dysplastic kidney",
+      "frequency": null
+    },
+    {
+      "name": "perinephric urinoma",
+      "raw": "perinephric urinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "accurate detection of crossing vessels (100% PPV) during late arterial phase | progressive enlargement of renal pelvis + branching infundibula + calices | anteroposterior diameter of renal pelvis ≥ 10 mm | large unilocular fluid collection (severely dilated collecting system)"
+}

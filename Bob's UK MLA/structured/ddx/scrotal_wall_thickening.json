@@ -1,0 +1,67 @@
+{
+  "finding": "Scrotal Wall Thickening",
+  "slug": "scrotal_wall_thickening",
+  "chapter": "D. HERNIA",
+  "source_file": "processed_clusters/d_hernia/scrotal_wall_thickening.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute idiopathic scrotal edema",
+      "raw": "Acute idiopathic scrotal edema",
+      "frequency": null
+    },
+    {
+      "name": "subcutaneous scrotal edema, erythema",
+      "raw": "subcutaneous scrotal edema, erythema",
+      "frequency": null
+    },
+    {
+      "name": "minimal pain, afebrile, peripheral eosinophilia",
+      "raw": "minimal pain, afebrile, peripheral eosinophilia",
+      "frequency": null
+    },
+    {
+      "name": "Epididymo-orchitis",
+      "raw": "Epididymo-orchitis",
+      "frequency": null
+    },
+    {
+      "name": "Testicular torsion",
+      "raw": "Testicular torsion",
+      "frequency": null
+    },
+    {
+      "name": "Torsion of testicular / epididymal appendage",
+      "raw": "Torsion of testicular / epididymal appendage",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Henoch-Schönlein purpura",
+      "raw": "Henoch-Schönlein purpura",
+      "frequency": null
+    },
+    {
+      "name": "Cx of ventriculoperitoneal shunt",
+      "raw": "Cx of ventriculoperitoneal shunt",
+      "frequency": null
+    },
+    {
+      "name": "Cx of peritoneal dialysis ← ? leakage of fluid into the anterior abdominal wall with dissection into scrotum",
+      "raw": "Cx of peritoneal dialysis ← ? leakage of fluid into the anterior abdominal wall with dissection into scrotum",
+      "frequency": null
+    },
+    {
+      "name": "Acute hemorrhagic edema of infancy =  similar to Henoch-Schönlein purpura",
+      "raw": "Acute hemorrhagic edema of infancy =  similar to Henoch-Schönlein purpura",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   20-30% of all acute scrotal disorders Age:   5-11 years (range, 18 months to 14 years) Prognosis:   spontaneous resolution in 72 hours to 4 days Age:   5 months - 2 years Testicular Blood Flow"
+}

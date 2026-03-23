@@ -1,0 +1,25 @@
+{
+  "name": "OSSICULAR CHAIN",
+  "slug": "ossicular_chain",
+  "chapter": "NECK",
+  "source_file": "processed_clusters/disease_entries/neck/ossicular_chain.md",
+  "definition": "",
+  "demographics": {
+    "Location": "anterolateral to incus and stapes"
+  },
+  "dominant_finding": "\"ice cream cone\" configuration on axial CT",
+  "distribution": "anterolateral to incus and stapes",
+  "discriminating_features": [
+    "\"ice cream cone\" configuration on axial CT",
+    "lateral process with ligament may be visible on CT",
+    "sometimes visible on CT as thin linear structures (most commonly lateral malleal lig.)"
+  ],
+  "other_features": {
+    "general": [
+      "\"ice cream cone\" configuration on axial CT",
+      "lateral process with ligament may be visible on CT",
+      "sometimes visible on CT as thin linear structures (most commonly lateral malleal lig.)"
+    ]
+  },
+  "clinical": {}
+}

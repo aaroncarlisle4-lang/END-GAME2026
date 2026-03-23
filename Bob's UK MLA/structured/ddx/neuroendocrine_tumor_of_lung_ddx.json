@@ -1,0 +1,32 @@
+{
+  "finding": "Neuroendocrine Tumor Of Lung (DDx)",
+  "slug": "neuroendocrine_tumor_of_lung_ddx",
+  "chapter": "Neuroendocrine Tumor Of Lung",
+  "source_file": "processed_clusters/neuroendocrine_tumor_of_lung/neuroendocrine_tumor_of_lung_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lung cancer",
+      "raw": "lung cancer",
+      "frequency": null
+    },
+    {
+      "name": "pulmonary hamartoma",
+      "raw": "pulmonary hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "bronchial gland tumor",
+      "raw": "bronchial gland tumor",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "typically for staging / assessing response to therapy | helpful in detecting occult tumor (depending on degree of somatostatin-receptor | MIBG less sensitive than octreotide | NO (most often) / increased activity (occasionally)"
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "Micronodular Lung Disease",
+  "slug": "micronodular_lung_disease_56447d",
+  "chapter": "D. IATROGENIC",
+  "source_file": "processed_clusters/d_iatrogenic/micronodular_lung_disease_56447d.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Granulomatous disease: miliary TB, histoplasmosis",
+      "raw": "Granulomatous disease: miliary TB, histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Hypersensitivity",
+      "raw": "Hypersensitivity (organic dust)",
+      "frequency": null
+    },
+    {
+      "name": "Pneumoconiosis",
+      "raw": "Pneumoconiosis (inorganic dust, thesaurosis = prolonged hair spray exposure)",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases (thyroid, melanoma)",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Chickenpox",
+      "raw": "Chickenpox",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  discrete 3-5-7-mm small round focal opacity of at least soft-tissue attenuation"
+}

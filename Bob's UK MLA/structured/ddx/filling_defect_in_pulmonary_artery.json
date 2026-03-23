@@ -1,0 +1,27 @@
+{
+  "finding": "Filling Defect in Pulmonary Artery",
+  "slug": "filling_defect_in_pulmonary_artery",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/filling_defect_in_pulmonary_artery.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thromboembolism",
+      "raw": "Thromboembolism (99%)",
+      "frequency": "99%"
+    },
+    {
+      "name": "Nonthrombotic embolus: fat droplets, bubbles of air / nitrogen, tumor, foreign bodies (talc, polymethylmethacrylate particles) ◊  Particles mostly too small to be visualized",
+      "raw": "Nonthrombotic embolus: fat droplets, bubbles of air / nitrogen, tumor, foreign bodies (talc, polymethylmethacrylate particles) ◊  Particles mostly too small to be visualized",
+      "frequency": null
+    },
+    {
+      "name": "Primary sarcoma",
+      "raw": "Primary sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

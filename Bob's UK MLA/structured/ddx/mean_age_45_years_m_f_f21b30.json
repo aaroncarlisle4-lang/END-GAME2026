@@ -1,0 +1,42 @@
+{
+  "finding": "Mean age: 45 years; M > F",
+  "slug": "mean_age_45_years_m_f_f21b30",
+  "chapter": "B. INVOLVEMENT OF ≥ 2 CONTIGUOUS VERTEBRAE",
+  "source_file": "processed_clusters/b_involvement_of_2_contiguous_vertebrae/mean_age_45_years_m_f_f21b30.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pain",
+      "raw": "pain (95%); palpable mass (28-82%)",
+      "frequency": "95%"
+    },
+    {
+      "name": "neurologic symptoms",
+      "raw": "neurologic symptoms (45%)",
+      "frequency": "45%"
+    },
+    {
+      "name": "Metastasis: osteolytic, osteoblastic",
+      "raw": "Metastasis: osteolytic, osteoblastic",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma / plasmacytoma",
+      "raw": "Multiple myeloma / plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma 10% involve spine, most commonly lumbar",
+      "raw": "Angiosarcoma 10% involve spine, most commonly lumbar",
+      "frequency": "10%"
+    },
+    {
+      "name": "Ewing sarcoma and PNET ◊  Most common nonlymphoproliferative primary malignant tumor of the spine in children; metastases more common than primary",
+      "raw": "Ewing sarcoma and PNET ◊  Most common nonlymphoproliferative primary malignant tumor of the spine in children; metastases more common than primary",
+      "frequency": "most common"
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   thoracic spine (mostly) Site:   vertebral body (15%), posterior elements (40%), both (45%) √  large calcified mass with bone destruction √  involvement of adjacent vertebra by extension through disk (35%) Clue:   vertebral pedicles usually spared √  single vertebral collapse as usual manifestation √  \"minibrain\" appearance on axial CT = hollow vertebral body / pedicle + cortical thickening Characteristics suggestive of multiple myeloma: √  sharply demarcated scalloped lytic lesions √  marked osteoporosis √  \"cold\" lesions on bone scans √   lack of a primary neoplasm"
+}

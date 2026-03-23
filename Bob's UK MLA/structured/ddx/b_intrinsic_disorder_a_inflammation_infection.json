@@ -1,0 +1,62 @@
+{
+  "finding": "B. INTRINSIC DISORDER (a) inflammation / infection",
+  "slug": "b_intrinsic_disorder_a_inflammation_infection",
+  "chapter": "Enlargement of Papilla of Vater",
+  "source_file": "processed_clusters/enlargement_of_papilla_of_vater/b_intrinsic_disorder_a_inflammation_infection.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Postbulbar ulcer",
+      "raw": "Postbulbar ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Sprue",
+      "raw": "Sprue",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Strongyloidiasis (b)  intramural tumor",
+      "raw": "Strongyloidiasis (b)  intramural tumor",
+      "frequency": null
+    },
+    {
+      "name": "GIST",
+      "raw": "GIST (90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Lipoma, leiomyoblastoma",
+      "raw": "Lipoma, leiomyoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma, lymphangioma",
+      "raw": "Hemangioma, lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic pancreatic rest, Brunner gland hamartoma",
+      "raw": "Ectopic pancreatic rest, Brunner gland hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal carcinoma, periampullary carcinoma",
+      "raw": "Duodenal carcinoma, periampullary carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

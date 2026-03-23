@@ -1,0 +1,67 @@
+{
+  "finding": "Epidural Extramedullary Lesion",
+  "slug": "epidural_extramedullary_lesion_e3ec79",
+  "chapter": "C. VASCULAR",
+  "source_file": "processed_clusters/c_vascular/epidural_extramedullary_lesion_e3ec79.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TUMOR (a)  benign",
+      "raw": "TUMOR (a)  benign",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid, epidermoid",
+      "raw": "Dermoid, epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma: over several segments",
+      "raw": "Lipoma: over several segments",
+      "frequency": null
+    },
+    {
+      "name": "Fibroma",
+      "raw": "Fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Neurinoma",
+      "raw": "Neurinoma (with intradural component)",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma (with intradural component)",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioneuroblastoma, ganglioneuroma (b)  malignant",
+      "raw": "Ganglioneuroblastoma, ganglioneuroma (b)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Hodgkin disease",
+      "raw": "Hodgkin disease",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma: most commonly in dorsal space",
+      "raw": "Lymphoma: most commonly in dorsal space",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: breast, lung - most commonly from involved vertebrae without extension through dura",
+      "raw": "Metastasis: breast, lung - most commonly from involved vertebrae without extension through dura",
+      "frequency": null
+    },
+    {
+      "name": "Paravertebral neuroblastoma",
+      "raw": "Paravertebral neuroblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  EXTRADURAL LESIONS OF SPINE arise from bone, fat, vessels, lymph nodes, extramedullary neural elements Prevalence:   30% of all spinal tumors"
+}

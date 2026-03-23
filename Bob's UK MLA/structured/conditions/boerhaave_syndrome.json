@@ -1,0 +1,45 @@
+{
+  "name": "BOERHAAVE SYNDROME",
+  "slug": "boerhaave_syndrome",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/boerhaave_syndrome.md",
+  "definition": "spontaneous emetogenic injury resulting in rupture of esophagus → extrusion of gastric",
+  "demographics": {
+    "Frequency": "1÷6,000 persons",
+    "Age": "middle-aged men (in 50% with history of alcoholism / heavy drinking)",
+    "Location": "3-6 cm above diaphragm (= 2-3 cm above GE junction), predominantly in left"
+  },
+  "dominant_finding": "esophageal wall thickening",
+  "distribution": "3-6 cm above diaphragm (= 2-3 cm above GE junction), predominantly in left",
+  "discriminating_features": [
+    "rent of 2-5 cm in length",
+    "esophageal wall thickening",
+    "supradiaphragmatic periesophageal air collection",
+    "mediastinal fluid collection + pneumomediastinum",
+    "mediastinal widening"
+  ],
+  "other_features": {
+    "general": [
+      "rent of 2-5 cm in length"
+    ],
+    "CXR": [
+      "mediastinal widening",
+      "air-fluid level within mediastinum",
+      "extravasation of contrast into mediastinum / pleura",
+      "pneumomediastinum (single most important plain-film finding), pneumopericardium,",
+      "\"V\" sign of Naclerio = localized mediastinal emphysema with air between lower",
+      "pleural effusion on left >> right side / hydropneumothorax",
+      "subcutaneous emphysema",
+      "patchy pulmonary infiltrate",
+      "submucosal collection",
+      "extravasation of contrast material",
+      "esophagopleural fistula (most commonly on left)"
+    ],
+    "CT": [
+      "esophageal wall thickening",
+      "supradiaphragmatic periesophageal air collection",
+      "mediastinal fluid collection + pneumomediastinum"
+    ]
+  },
+  "clinical": {}
+}

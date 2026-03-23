@@ -1,0 +1,24 @@
+{
+  "name": "PHTHISIS BULBI",
+  "slug": "phthisis_bulbi",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/phthisis_bulbi.md",
+  "definition": "\"wood eye\" = shrunken nonfunctioning + usually calcified eye",
+  "demographics": {},
+  "dominant_finding": "shrunken eye",
+  "distribution": "",
+  "discriminating_features": [
+    "shrunken eye",
+    "usually calcified wall",
+    "± hyperechoic fibrous tracts within vitreous + resultant retinal detachment"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "shrunken eye",
+      "usually calcified wall",
+      "± hyperechoic fibrous tracts within vitreous + resultant retinal detachment"
+    ]
+  },
+  "clinical": {}
+}

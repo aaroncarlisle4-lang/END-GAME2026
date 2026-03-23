@@ -1,0 +1,22 @@
+{
+  "finding": "Leukemia Of Bone (DDx)",
+  "slug": "leukemia_of_bone_ddx",
+  "chapter": "Leukemia Of Bone",
+  "source_file": "processed_clusters/leukemia_of_bone/leukemia_of_bone_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastatic neuroblastoma",
+      "raw": "metastatic neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "moth-eaten appearance, sutural widening, prominent convolutional markings of | smooth / lamellated / sunburst pattern of periosteal reaction (= cortical penetration | osteosclerotic lesions ← reactive osteoblastic proliferation (late in disease) | mixed (lytic + bone-forming) lesions in 18%"
+}

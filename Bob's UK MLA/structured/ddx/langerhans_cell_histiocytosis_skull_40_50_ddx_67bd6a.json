@@ -1,0 +1,37 @@
+{
+  "finding": "Langerhans Cell Histiocytosis — Skull (40-50%) (DDx)",
+  "slug": "langerhans_cell_histiocytosis_skull_40_50_ddx_67bd6a",
+  "chapter": "Langerhans Cell Histiocytosis",
+  "source_file": "processed_clusters/langerhans_cell_histiocytosis/langerhans_cell_histiocytosis_skull_40_50_ddx_67bd6a.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "venous lake",
+      "raw": "venous lake",
+      "frequency": null
+    },
+    {
+      "name": "arachnoid granulation",
+      "raw": "arachnoid granulation",
+      "frequency": null
+    },
+    {
+      "name": "parietal foramen",
+      "raw": "parietal foramen",
+      "frequency": null
+    },
+    {
+      "name": "epidermoid cyst",
+      "raw": "epidermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "hemangioma",
+      "raw": "hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "low to intermediate SI on T1WI + hyperintense T2WI | diffuse avid contrast enhancement (fat suppression!) | depicts intracranial extension of LCH | round / ovoid punched-out lytic lesion:"
+}

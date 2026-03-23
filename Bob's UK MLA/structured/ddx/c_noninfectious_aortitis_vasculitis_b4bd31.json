@@ -1,0 +1,72 @@
+{
+  "finding": "C. Noninfectious aortitis = vasculitis",
+  "slug": "c_noninfectious_aortitis_vasculitis_b4bd31",
+  "chapter": "AORTA",
+  "source_file": "processed_clusters/aorta/c_noninfectious_aortitis_vasculitis_b4bd31.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Takayasu arteritis",
+      "raw": "Takayasu arteritis",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell arteritis",
+      "raw": "Giant cell arteritis (GCA)",
+      "frequency": null
+    },
+    {
+      "name": "Cogan syndrome",
+      "raw": "Cogan syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Relapsing polychondritis (b)  rheumatic diseases uncommonly causing aortitis",
+      "raw": "Relapsing polychondritis (b)  rheumatic diseases uncommonly causing aortitis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Seronegative spondyloarthropathies",
+      "raw": "Seronegative spondyloarthropathies",
+      "frequency": null
+    },
+    {
+      "name": "Behçet disease",
+      "raw": "Behçet disease",
+      "frequency": null
+    },
+    {
+      "name": "SLE (c)  rheumatic diseases rarely causing aortitis",
+      "raw": "SLE (c)  rheumatic diseases rarely causing aortitis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Antineutrophil cytoplasmic antibody-associated aortitis: Wegener granulomatosis, polyarteritis nodosa",
+      "raw": "Antineutrophil cytoplasmic antibody-associated aortitis: Wegener granulomatosis, polyarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile rheumatoid arthritis Rheumatic diseases with an > 10% prevalence of aortitis include Takayasu arteritis, GCA, long-standing ankylosing spondylitis, Cogan syndrome, relapsing polychondritis.",
+      "raw": "Juvenile rheumatoid arthritis Rheumatic diseases with an > 10% prevalence of aortitis include Takayasu arteritis, GCA, long-standing ankylosing spondylitis, Cogan syndrome, relapsing polychondritis.",
+      "frequency": "10%"
+    }
+  ],
+  "criteria": {},
+  "context": "Segment:   mostly affecting ascending aorta (a)  rheumatic diseases commonly causing aortitis"
+}

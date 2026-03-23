@@ -1,0 +1,107 @@
+{
+  "finding": "G. BRONCHOPULMONARY DISEASE",
+  "slug": "g_bronchopulmonary_disease_f71f80",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/g_bronchopulmonary_disease_f71f80.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infected bulla",
+      "raw": "Infected bulla",
+      "frequency": null
+    },
+    {
+      "name": "Cystic bronchiectasis",
+      "raw": "Cystic bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "Communicating bronchogenic cyst",
+      "raw": "Communicating bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma (squamous cell), Cystic bronchiectasis",
+      "raw": "Carcinoma (squamous cell), Cystic bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "Autoimmune disease",
+      "raw": "Autoimmune disease (Wegener granulomatosis, rheumatoid lung)",
+      "frequency": null
+    },
+    {
+      "name": "Vascular",
+      "raw": "Vascular (bland / septic emboli)",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection (abscess, fungal disease, TB, Echinococcus)",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Young = congenital",
+      "raw": "Young = congenital (sequestration, diaphragmatic hernia, bronchogenic cyst)",
+      "frequency": null
+    },
+    {
+      "name": "Wegener's syndrome",
+      "raw": "Wegener's syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Embolic",
+      "raw": "Embolic (pulmonary, septic)",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection (anaerobes, pneumocystis, TB)",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid",
+      "raw": "Rheumatoid (necrobiotic nodules)",
+      "frequency": null
+    },
+    {
+      "name": "Developmental cysts",
+      "raw": "Developmental cysts (sequestration)",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytosis",
+      "raw": "Histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Oncological",
+      "raw": "Oncological",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioleiomyomatosis",
+      "raw": "Lymphangioleiomyomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Environmental, occupational",
+      "raw": "Environmental, occupational",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoid",
+      "raw": "Sarcoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Placental Abruption (DDx)",
+  "slug": "placental_abruption_ddx",
+  "chapter": "Placental Abruption",
+  "source_file": "processed_clusters/placental_abruption/placental_abruption_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "myometrial contraction",
+      "raw": "myometrial contraction",
+      "frequency": null
+    },
+    {
+      "name": "fibroid",
+      "raw": "fibroid",
+      "frequency": null
+    },
+    {
+      "name": "subplacental venous network",
+      "raw": "subplacental venous network",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thickened heterogeneous appearing placenta (hematoma of similar echogenicity as placenta) | becomes anechoic in 1-2 weeks | rounded placental margins + intraplacental sonolucencies"
+}

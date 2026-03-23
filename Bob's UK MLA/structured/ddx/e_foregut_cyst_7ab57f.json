@@ -1,0 +1,32 @@
+{
+  "finding": "E. FOREGUT CYST",
+  "slug": "e_foregut_cyst_7ab57f",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/e_foregut_cyst_7ab57f.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic cyst",
+      "raw": "Bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Enteric cyst",
+      "raw": "Enteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Neurenteric cyst",
+      "raw": "Neurenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Extralobar sequestration",
+      "raw": "Extralobar sequestration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  cysts may demonstrate peripheral rimlike calcifications"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Cystic Thyroid Nodule",
+  "slug": "cystic_thyroid_nodule_afef75",
+  "chapter": "B. BLOCKED ORGANIFICATION",
+  "source_file": "processed_clusters/b_blocked_organification/cystic_thyroid_nodule_afef75.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "> 50% solid tissue component",
+      "raw": "> 50% solid tissue component",
+      "frequency": "50%"
+    },
+    {
+      "name": "Eccentricity of cystic space",
+      "raw": "Eccentricity of cystic space",
+      "frequency": null
+    },
+    {
+      "name": "Microcalcifications",
+      "raw": "Microcalcifications",
+      "frequency": null
+    },
+    {
+      "name": "Size of Thyroid Nodule",
+      "raw": "Size of Thyroid Nodule",
+      "frequency": null
+    },
+    {
+      "name": "Papillary carcinomas < 1 cm are usually nonaggressive",
+      "raw": "Papillary carcinomas < 1 cm are usually nonaggressive",
+      "frequency": null
+    },
+    {
+      "name": "Follicular carcinomas < 2 cm are usually nonaggressive",
+      "raw": "Follicular carcinomas < 2 cm are usually nonaggressive",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  hemorrhagic / cystic degeneration Features associated with cancer: Growth of Thyroid Nodule =  2 mm / 10% increase (if > 20 mm) in 2 dimensions ◊  40% of benign nodules grow at least 15% by volume over 5 years ◊  Papillary microcarcinoma (< 1 cm) are incidentally detected in 10% of surgical specimens for benign disease + in 12% at autopsies ◊  The rate of metastases + invasion is the same for lesions of 8-10 mm as for lesions of 11-15 mm"
+}

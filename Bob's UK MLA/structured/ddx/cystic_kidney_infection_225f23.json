@@ -1,0 +1,27 @@
+{
+  "finding": "Cystic Kidney Infection",
+  "slug": "cystic_kidney_infection_225f23",
+  "chapter": "Potter Classification",
+  "source_file": "processed_clusters/potter_classification/cystic_kidney_infection_225f23.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal abscess",
+      "raw": "Renal abscess",
+      "frequency": null
+    },
+    {
+      "name": "Renal aspergillosis",
+      "raw": "Renal aspergillosis",
+      "frequency": null
+    },
+    {
+      "name": "Renal echinococcosis",
+      "raw": "Renal echinococcosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

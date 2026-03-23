@@ -1,0 +1,43 @@
+{
+  "finding": "Eosinophilic Cholangiopathy (DDx)",
+  "slug": "eosinophilic_cholangiopathy_ddx_0c825c",
+  "chapter": "Eosinophilic Cholangiopathy",
+  "source_file": "processed_clusters/eosinophilic_cholangiopathy/eosinophilic_cholangiopathy_ddx_0c825c.md",
+  "quality_score": 0.75,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "AIDS cholangiopathy",
+      "raw": "AIDS cholangiopathy",
+      "frequency": null
+    },
+    {
+      "name": "collagen vascular disease",
+      "raw": "collagen vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "cholangiocarcinoma",
+      "raw": "cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "amyloidosis",
+      "raw": "amyloidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "lymphoma": [],
+    "AIDS cholangiopathy": [],
+    "collagen vascular disease": [],
+    "cholangiocarcinoma": [],
+    "amyloidosis": []
+  },
+  "context": "thickened bile duct wall ± biliary dilatation | wall irregularities in beaded pattern"
+}

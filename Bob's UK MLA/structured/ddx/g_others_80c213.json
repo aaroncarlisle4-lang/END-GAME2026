@@ -1,0 +1,57 @@
+{
+  "finding": "G. OTHERS",
+  "slug": "g_others_80c213",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/g_others_80c213.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neural tumor: vagus, phrenic nerve",
+      "raw": "Neural tumor: vagus, phrenic nerve",
+      "frequency": null
+    },
+    {
+      "name": "Paraganglioma",
+      "raw": "Paraganglioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma / lymphangioma",
+      "raw": "Hemangioma / lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Mesenchymal tumor: fibroma, lipoma",
+      "raw": "Mesenchymal tumor: fibroma, lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Sternal tumors (a)  metastasis from breast, bronchus, kidney, thyroid (b)  malignant primary: chondrosarcoma, myeloma, lymphoma (c)  benign primary: chondroma, aneurysmal bone cyst, giant cell tumor",
+      "raw": "Sternal tumors (a)  metastasis from breast, bronchus, kidney, thyroid (b)  malignant primary: chondrosarcoma, myeloma, lymphoma (c)  benign primary: chondroma, aneurysmal bone cyst, giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Primary lung / pleural tumor",
+      "raw": "Primary lung / pleural tumor (invading mediastinum)",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal lipomatosis:",
+      "raw": "Mediastinal lipomatosis:",
+      "frequency": null
+    },
+    {
+      "name": "Morgagni hernia / localized eventration",
+      "raw": "Morgagni hernia / localized eventration",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  Cushing disease (b)  Corticosteroid therapy √  presence of bowel gas"
+}

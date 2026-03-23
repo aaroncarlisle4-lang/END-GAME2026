@@ -1,0 +1,52 @@
+{
+  "finding": "Cx: renal ischemia (with large lesion), persistent hematuria, rupture",
+  "slug": "cx_renal_ischemia_with_large_lesion_persistent_hematuria_rupture",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/cx_renal_ischemia_with_large_lesion_persistent_hematuria_rupture.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal allograft necrosis / infarct =  total lack of perfusion in an area of renal cortex associated with variable degrees of medullary necrosis Cause:   rejection, surgical ligature, preexistent arterial lesion, severe ATN, prolonged time of warm ischemia",
+      "raw": "Renal allograft necrosis / infarct =  total lack of perfusion in an area of renal cortex associated with variable degrees of medullary necrosis Cause:   rejection, surgical ligature, preexistent arterial lesion, severe ATN, prolonged time of warm ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Small focal necrosis",
+      "raw": "Small focal necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Large isolated area of infarction ← segmental arterial occlusion)",
+      "raw": "Large isolated area of infarction ← segmental arterial occlusion)",
+      "frequency": null
+    },
+    {
+      "name": "Outer cortical necrosis",
+      "raw": "Outer cortical necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Cortical necrosis with large patches",
+      "raw": "Cortical necrosis with large patches",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse cortical necrosis",
+      "raw": "Diffuse cortical necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Cortical + medullary necrosis",
+      "raw": "Cortical + medullary necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Necrosis of whole kidney ← occlusion of main renal artery",
+      "raw": "Necrosis of whole kidney ← occlusion of main renal artery",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Pattern: MR: √  slightly hyperintense ← ischemic necrosis / hypointense ← hemorrhagic necrosis / isointense area on T2WI √  hypointense areas on Gd-DTPA images US: √  hypoechoic ← ischemic necrosis / iso- or hyperechoic areas ← hemorrhagic necrosis √  swollen area ← probably cortical edema √  absence of arterial perfusion by color duplex (not sensitive for small infarcts / superficial cortical necrosis) √  elevated resistive indexes + no / reversed diastolic flow"
+}

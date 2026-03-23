@@ -1,0 +1,47 @@
+{
+  "finding": "Thickened Smooth Folds ± Dilatation",
+  "slug": "thickened_smooth_folds_dilatation_c3ab1f",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/thickened_smooth_folds_dilatation_c3ab1f.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "EDEMA (a)  hypoproteinemia",
+      "raw": "EDEMA (a)  hypoproteinemia",
+      "frequency": null
+    },
+    {
+      "name": "Cirrhosis",
+      "raw": "Cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Nephrotic syndrome",
+      "raw": "Nephrotic syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Protein-losing enteropathy: celiac disease, Whipple disease (b)  increased capillary permeability",
+      "raw": "Protein-losing enteropathy: celiac disease, Whipple disease (b)  increased capillary permeability",
+      "frequency": null
+    },
+    {
+      "name": "Angioneurotic edema = angioedema",
+      "raw": "Angioneurotic edema = angioedema",
+      "frequency": null
+    },
+    {
+      "name": "Gastroenteritis (c)  increased hydrostatic pressure",
+      "raw": "Gastroenteritis (c)  increased hydrostatic pressure",
+      "frequency": null
+    },
+    {
+      "name": "Portal venous hypertension (d)  Zollinger-Ellison syndrome",
+      "raw": "Portal venous hypertension (d)  Zollinger-Ellison syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

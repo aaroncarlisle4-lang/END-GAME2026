@@ -1,0 +1,67 @@
+{
+  "finding": "ANALGESIA",
+  "slug": "analgesia_06e99b",
+  "chapter": "SEDATION",
+  "source_file": "processed_clusters/sedation/analgesia_06e99b.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Opioids = drugs with opium- / morphin-like action augmented when administered with benzodiazepines ›  titrated to effect",
+      "raw": "Opioids = drugs with opium- / morphin-like action augmented when administered with benzodiazepines ›  titrated to effect (no maximal dose)",
+      "frequency": null
+    },
+    {
+      "name": "Action:   analgesic, sedative, antitussive, antirigor properties",
+      "raw": "Action:   analgesic, sedative, antitussive, antirigor properties",
+      "frequency": null
+    },
+    {
+      "name": "Side effects:   nausea, constipation, CNS depression, respiratory depression",
+      "raw": "Side effects:   nausea, constipation, CNS depression, respiratory depression",
+      "frequency": null
+    },
+    {
+      "name": "Long-term side effects:   tolerance, addiction",
+      "raw": "Long-term side effects:   tolerance, addiction",
+      "frequency": null
+    },
+    {
+      "name": "Morphine",
+      "raw": "Morphine",
+      "frequency": null
+    },
+    {
+      "name": "Dose:   1-3 mg IV",
+      "raw": "Dose:   1-3 mg IV",
+      "frequency": null
+    },
+    {
+      "name": "Indications:   pain; pulmonary edema",
+      "raw": "Indications:   pain; pulmonary edema",
+      "frequency": null
+    },
+    {
+      "name": "Elimination:   metabolized to active morphine-6-glucoronide + eliminated by",
+      "raw": "Elimination:   metabolized to active morphine-6-glucoronide + eliminated by",
+      "frequency": null
+    },
+    {
+      "name": "Fentanyl",
+      "raw": "Fentanyl",
+      "frequency": null
+    },
+    {
+      "name": "Meperidine",
+      "raw": "Meperidine (Demerol®)",
+      "frequency": null
+    },
+    {
+      "name": "Hydromorphone",
+      "raw": "Hydromorphone (Dilaudid®)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  symptomatic relief of pain with use of pharmacologic agents ◊  Pain is more resistant to analgesics in an anxious patient! (a)  natural alkaloids Administration:  IM, IV, suppository, PO (immediate / sustained release tablet, solution) kidneys; releases histamine Contraindication:   renal failure, asthma, hypotension (b)  synthetic derivatives Administration:  transdermal, buccal, nasal spray, PO (tablet, lozenge), IM, IV Action:   50-100 x potency of morphine Dose:   25-50 mg IV; short acting Side effect:   few; stiff chest syndrome (= rigidity of skeletal muscles caused by rapid IV admini"
+}

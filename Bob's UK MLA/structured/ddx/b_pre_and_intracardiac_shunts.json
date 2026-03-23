@@ -1,0 +1,37 @@
+{
+  "finding": "B. Pre- and intracardiac shunts",
+  "slug": "b_pre_and_intracardiac_shunts",
+  "chapter": "Shunt with Normal Left Atrium",
+  "source_file": "processed_clusters/shunt_with_normal_left_atrium/b_pre_and_intracardiac_shunts.md",
+  "quality_score": 0.733,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "Anomalous pulmonary venous return",
+      "raw": "Anomalous pulmonary venous return",
+      "frequency": null
+    },
+    {
+      "name": "ASD",
+      "raw": "ASD",
+      "frequency": null
+    },
+    {
+      "name": "VSD",
+      "raw": "VSD",
+      "frequency": null
+    },
+    {
+      "name": "Common AV canal",
+      "raw": "Common AV canal",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {
+    "Anomalous pulmonary venous return": [],
+    "ASD": [],
+    "VSD": [],
+    "Common AV canal": []
+  },
+  "context": "√  aorta small but not hypoplastic"
+}

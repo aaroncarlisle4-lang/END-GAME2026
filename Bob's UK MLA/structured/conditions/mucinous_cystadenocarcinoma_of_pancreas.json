@@ -1,0 +1,30 @@
+{
+  "name": "MUCINOUS CYSTADENOCARCINOMA OF PANCREAS",
+  "slug": "mucinous_cystadenocarcinoma_of_pancreas",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/mucinous_cystadenocarcinoma_of_pancreas.md",
+  "definition": "",
+  "demographics": {
+    "Etiology": "adenoma-carcinoma sequence",
+    "Histo": "invasive elements surrounded by ovarian-type stroma",
+    "Age": "older than patients with mucinous cystadenoma"
+  },
+  "dominant_finding": "> 4-cm large complex cystic pancreatic lesion",
+  "distribution": "",
+  "discriminating_features": [
+    "> 4-cm large complex cystic pancreatic lesion",
+    "intracystic enhancing soft tissue",
+    "soft-tissue nodularity"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "> 4-cm large complex cystic pancreatic lesion",
+      "intracystic enhancing soft tissue",
+      "soft-tissue nodularity"
+    ]
+  },
+  "clinical": {
+    "Rx": "any enhancing soft tissue within a cystic pancreatic neoplasm is an indication for resection."
+  }
+}

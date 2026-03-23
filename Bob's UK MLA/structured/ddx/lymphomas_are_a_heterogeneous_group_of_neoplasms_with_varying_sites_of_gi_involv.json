@@ -1,0 +1,127 @@
+{
+  "finding": "Lymphomas are a heterogeneous group of neoplasms with varying sites of GI involvement + varying",
+  "slug": "lymphomas_are_a_heterogeneous_group_of_neoplasms_with_varying_sites_of_gi_involv",
+  "chapter": "LYMPHOGRANULOMA VENEREUM",
+  "source_file": "processed_clusters/lymphogranuloma_venereum/lymphomas_are_a_heterogeneous_group_of_neoplasms_with_varying_sites_of_gi_involv.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polypoid / nodular",
+      "raw": "Polypoid / nodular (47%)",
+      "frequency": "47%"
+    },
+    {
+      "name": "Single ulcerative mass",
+      "raw": "Single ulcerative mass (42%)",
+      "frequency": "42%"
+    },
+    {
+      "name": "Circumferential / constrictive diffusely infiltrative",
+      "raw": "Circumferential / constrictive diffusely infiltrative (11%)",
+      "frequency": "11%"
+    },
+    {
+      "name": "Aneurysmal / cavitary",
+      "raw": "Aneurysmal / cavitary",
+      "frequency": null
+    },
+    {
+      "name": "Mixed",
+      "raw": "Mixed",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric / retroperitoneal adenopathy",
+      "raw": "Mesenteric / retroperitoneal adenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Stage I  tumor confined to bowel wall",
+      "raw": "Stage I  tumor confined to bowel wall",
+      "frequency": null
+    },
+    {
+      "name": "Stage II  limited to local nodes",
+      "raw": "Stage II  limited to local nodes",
+      "frequency": null
+    },
+    {
+      "name": "Stage III  widespread nodal disease",
+      "raw": "Stage III  widespread nodal disease",
+      "frequency": null
+    },
+    {
+      "name": "abdominal pain, weight loss Location:   10-25% of NHL are extranodal; stomach (50%) > small bowel > ileocecal region (← Peyer patches) > colon + rectum (0.4%) > esophagus; multicentric in 10-50% Site:   originates in submucosa / deep mucosal layer → may be missed at endoscopy",
+      "raw": "abdominal pain, weight loss Location:   10-25% of NHL are extranodal; stomach (50%) > small bowel > ileocecal region (← Peyer patches) > colon + rectum (0.4%) > esophagus; multicentric in 10-50% Site:   originates in submucosa / deep mucosal layer → may be missed at endoscopy",
+      "frequency": "25%"
+    },
+    {
+      "name": "epigastric pain, dyspepsia",
+      "raw": "epigastric pain, dyspepsia",
+      "frequency": null
+    },
+    {
+      "name": "nonspecific ± gastrointestinal bleeding",
+      "raw": "nonspecific ± gastrointestinal bleeding",
+      "frequency": null
+    },
+    {
+      "name": "Perforation ← absence of desmoplastic response",
+      "raw": "Perforation ← absence of desmoplastic response",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction (uncommon)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation / infection",
+      "raw": "Inflammation / infection (preserved wall stratification)",
+      "frequency": null
+    },
+    {
+      "name": "Inherited polyposis",
+      "raw": "Inherited polyposis (family history, in childhood / early adulthood, mucocutaneous pigmentation, fibromatosis, osteomas, dental anomalies)",
+      "frequency": null
+    },
+    {
+      "name": "Blood-borne metastases: breast, lung, malignant melanoma, lymphoma",
+      "raw": "Blood-borne metastases: breast, lung, malignant melanoma, lymphoma (usually larger lesions, more sporadic, submucosal masses, bull's-eye / target appearance with central ulcer)",
+      "frequency": null
+    },
+    {
+      "name": "Extranodal marginal zone B-cell lymphoma",
+      "raw": "Extranodal marginal zone B-cell lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Follicular lymphoma",
+      "raw": "Follicular lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "± malabsorption",
+      "raw": "± malabsorption",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse large B-cell lymphoma",
+      "raw": "Diffuse large B-cell lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Refractory celiac disease",
+      "raw": "Refractory celiac disease (no FDG uptake)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "gross and histologic features → wide spectrum of imaging findings Radiographic morphology: √  enlarged nodular folds with a range of nodule sizes √  solitary / multiple smooth subepithelial polypoid masses that may ulcerate √  cobblestone pattern ← lymphomatous polyps √  normal / thickened surrounding tissue √  sprue pattern → may cause intussusception √  multiple lymphomatous polyposis =  rare disorder characterized by numerous small polypoid lesions covering long segments of GI tract, typically a manifestation of mantle cell lymphoma √  circumferential bulky mass in intestinal wall, often ex"
+}

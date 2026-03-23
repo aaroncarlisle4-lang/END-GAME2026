@@ -1,0 +1,62 @@
+{
+  "finding": "Tumorlike Conditions",
+  "slug": "tumorlike_conditions",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/myeloproliferative_disorders/tumorlike_conditions.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Solitary bone cyst",
+      "raw": "Solitary bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Juxtaarticular (\"synovial\") cyst",
+      "raw": "Juxtaarticular (\"synovial\") cyst",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma; cortical defect; cortical desmoid",
+      "raw": "Nonossifying fibroma; cortical defect; cortical desmoid",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Reparative giant cell granuloma",
+      "raw": "Reparative giant cell granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia (monostotic; polyostotic)",
+      "frequency": null
+    },
+    {
+      "name": "Myositis ossificans",
+      "raw": "Myositis ossificans",
+      "frequency": null
+    },
+    {
+      "name": "\"Brown tumor\" of hyperparathyroidism",
+      "raw": "\"Brown tumor\" of hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Massive osteolysis",
+      "raw": "Massive osteolysis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

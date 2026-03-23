@@ -1,0 +1,67 @@
+{
+  "finding": "Exceptions: prematurity, severely asphyxiated term infants",
+  "slug": "exceptions_prematurity_severely_asphyxiated_term_infants",
+  "chapter": "Passage of Meconium",
+  "source_file": "processed_clusters/passage_of_meconium/exceptions_prematurity_severely_asphyxiated_term_infants.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "DELAYED PASSAGE",
+      "raw": "DELAYED PASSAGE",
+      "frequency": null
+    },
+    {
+      "name": "Hirschsprüng disease",
+      "raw": "Hirschsprüng disease",
+      "frequency": null
+    },
+    {
+      "name": "Ileal / jejunal atresia",
+      "raw": "Ileal / jejunal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Meconium ileus",
+      "raw": "Meconium ileus",
+      "frequency": null
+    },
+    {
+      "name": "Meconium plug syndrome",
+      "raw": "Meconium plug syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Colon atresia",
+      "raw": "Colon atresia",
+      "frequency": null
+    },
+    {
+      "name": "Imperforate anus",
+      "raw": "Imperforate anus",
+      "frequency": null
+    },
+    {
+      "name": "bilious vomiting",
+      "raw": "bilious vomiting (after first feeding)",
+      "frequency": null
+    },
+    {
+      "name": "abdominal distention",
+      "raw": "abdominal distention",
+      "frequency": null
+    },
+    {
+      "name": "abdominal distention + vomiting",
+      "raw": "abdominal distention + vomiting",
+      "frequency": null
+    },
+    {
+      "name": "failure to pass meconium",
+      "raw": "failure to pass meconium",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Common Causes of Obstruction in Children Time of presentation: Nursery intestinal atresia, midgut volvulus, meconium ileus, Hirschsprü disease, small bowel atresia with meconium ileus, meconium p syndrome, small left colon syndrome, imperforate anus, obstruc from duplication cyst First 3 months hypertrophic pyloric stenosis, inguinal hernia, Hirschsprüng disease, midgut volvulus 6-24 months ileocolic intussusception Childhood appendicitis Terminology: High obstruction = proximal to midileum ◊  Rarely needs further radiologic evaluation √  few dilated bowel loops Low obstruction = distal ileum"
+}

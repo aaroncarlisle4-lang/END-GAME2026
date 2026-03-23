@@ -1,0 +1,47 @@
+{
+  "finding": "Vitreous Hemorrhage",
+  "slug": "vitreous_hemorrhage_69c980",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/vitreous_hemorrhage_69c980.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "visual loss frequent",
+      "raw": "visual loss frequent",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Retinoblastoma",
+      "raw": "Retinoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Persistent fetal vasculature",
+      "raw": "Persistent fetal vasculature",
+      "frequency": null
+    },
+    {
+      "name": "Coats disease",
+      "raw": "Coats disease",
+      "frequency": null
+    },
+    {
+      "name": "Norrie disease",
+      "raw": "Norrie disease",
+      "frequency": null
+    },
+    {
+      "name": "Retrolental fibroplasia",
+      "raw": "Retrolental fibroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing endophthalmitis",
+      "raw": "Sclerosing endophthalmitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:  trauma, surgical intervention, arterial hypertension, retinal detachment, ocular tumor, Coats disease US: √  numerous irregular, poorly defined low-intensity echoes √  echogenic material moving freely within vitreous chamber during eye movement √  voluminous hyperechoic fibrin clots not fixed to optic nerve (DDx to retinal detachment) Prognosis:  complete absorption / development of vitreous membranes (repetitive episodes) Cx:     retinal detachment ← vitreous traction ← fibrovascular ingrowth following hemorrhage Dense Vitreous in Pediatric Age Group"
+}

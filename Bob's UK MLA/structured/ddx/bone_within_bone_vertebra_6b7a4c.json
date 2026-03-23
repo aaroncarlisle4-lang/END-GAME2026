@@ -1,0 +1,117 @@
+{
+  "finding": "Bone-within-bone Vertebra",
+  "slug": "bone_within_bone_vertebra_6b7a4c",
+  "chapter": "Bony Outgrowths from Vertebra",
+  "source_file": "processed_clusters/bony_outgrowths_from_vertebra/bone_within_bone_vertebra_6b7a4c.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Stress line of unknown cause",
+      "raw": "Stress line of unknown cause",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Heavy metal poisoning",
+      "raw": "Heavy metal poisoning",
+      "frequency": null
+    },
+    {
+      "name": "Thorotrast injection, TB",
+      "raw": "Thorotrast injection, TB",
+      "frequency": null
+    },
+    {
+      "name": "Rickets",
+      "raw": "Rickets",
+      "frequency": null
+    },
+    {
+      "name": "Scurvy",
+      "raw": "Scurvy",
+      "frequency": null
+    },
+    {
+      "name": "Hypothyroidism",
+      "raw": "Hypothyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Hypoparathyroidism",
+      "raw": "Hypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteopetrosis",
+      "raw": "Osteopetrosis",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease",
+      "raw": "Sickle cell disease",
+      "frequency": null
+    },
+    {
+      "name": "Trauma, Tuberculous spondylitis",
+      "raw": "Trauma, Tuberculous spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Fluorosis",
+      "raw": "Fluorosis",
+      "frequency": null
+    },
+    {
+      "name": "Renal osteodystrophy",
+      "raw": "Renal osteodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Osteoblastic metastasis",
+      "raw": "Osteoblastic metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Myelosclerosis",
+      "raw": "Myelosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic sclerosing osteomyelitis, Chordoma",
+      "raw": "Chronic sclerosing osteomyelitis, Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Myeloma",
+      "raw": "Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  \"ghost vertebra\" following stressful event during vertebral growth phase in childhood Ivory Vertebra =  increase in opacity of vertebral body retaining its size and contours Cause:  stimulation of osteoblasts, coarsening of trabeculae, reactive bone formation (a) in adults: metastasis (prostate, breast), lymphoma (Hodgkin disease), Paget disease, osteosarcoma, carcinoid (b) in children: Hodgkin disease >> osteosarcoma, metastatic neuroblastoma, medulloblastoma, osteoblastoma"
+}

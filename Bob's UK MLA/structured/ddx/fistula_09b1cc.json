@@ -1,0 +1,156 @@
+{
+  "finding": "FISTULA",
+  "slug": "fistula_09b1cc",
+  "chapter": "COLONIC ATRESIA",
+  "source_file": "processed_clusters/colonic_atresia/fistula_09b1cc.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gastrointestinal (20-25%): imperforate anus, pyloric stenosis, duodenal atresia, annular pancreas",
+      "raw": "Gastrointestinal (20-25%): imperforate anus, pyloric stenosis, duodenal atresia, annular pancreas",
+      "frequency": "25%"
+    },
+    {
+      "name": "Cardiac",
+      "raw": "Cardiac (15-39%): patent ductus arteriosus, ASD, VSD, right-sided aortic arch (5%)",
+      "frequency": "39%"
+    },
+    {
+      "name": "Musculoskeletal (24%): radial ray hypoplasia, vertebral anomalies",
+      "raw": "Musculoskeletal (24%): radial ray hypoplasia, vertebral anomalies",
+      "frequency": "24%"
+    },
+    {
+      "name": "Genitourinary (12%): unilateral renal agenesis",
+      "raw": "Genitourinary (12%): unilateral renal agenesis",
+      "frequency": "12%"
+    },
+    {
+      "name": "Chromosomal (3-19%): trisomy 18, 21, 13 ◊  Trisomy 18 is present in 75-100% of fetuses + in 3-4% of neonates with esophageal atresia!",
+      "raw": "Chromosomal (3-19%): trisomy 18, 21, 13 ◊  Trisomy 18 is present in 75-100% of fetuses + in 3-4% of neonates with esophageal atresia!",
+      "frequency": "19%"
+    },
+    {
+      "name": "Anal atresia",
+      "raw": "Anal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Renal anomalies",
+      "raw": "Renal anomalies",
+      "frequency": null
+    },
+    {
+      "name": "Tracheoesophageal fistula",
+      "raw": "Tracheoesophageal fistula (TEF)",
+      "frequency": null
+    },
+    {
+      "name": "Intestinal atresia / malrotation",
+      "raw": "Intestinal atresia / malrotation",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac anomaly: PDA, VSD",
+      "raw": "Cardiac anomaly: PDA, VSD",
+      "frequency": null
+    },
+    {
+      "name": "Limb anomalies: radial ray hypoplasia, polydactyly",
+      "raw": "Limb anomalies: radial ray hypoplasia, polydactyly",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal atresia [Spinal anomalies] [Vertebral anomalies]",
+      "raw": "Esophageal atresia",
+      "frequency": null,
+      "sites": [
+        "Spinal anomalies",
+        "Vertebral anomalies"
+      ]
+    },
+    {
+      "name": "Anal atresia",
+      "raw": "Anal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac malformations",
+      "raw": "Cardiac malformations",
+      "frequency": null
+    },
+    {
+      "name": "Tracheo-",
+      "raw": "Tracheo-",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal fistula",
+      "raw": "Esophageal fistula",
+      "frequency": null
+    },
+    {
+      "name": "Renal anomalies",
+      "raw": "Renal anomalies",
+      "frequency": null
+    },
+    {
+      "name": "Limb anomalies ◊  At least 3 anomalies must be present to suggest VACTERL!",
+      "raw": "Limb anomalies ◊  At least 3 anomalies must be present to suggest VACTERL!",
+      "frequency": null
+    },
+    {
+      "name": "drooling from excessive accumulation of pharyngeal secretions",
+      "raw": "drooling from excessive accumulation of pharyngeal secretions (esophageal atresia = EA)",
+      "frequency": null
+    },
+    {
+      "name": "obligatory regurgitation of ingested fluids",
+      "raw": "obligatory regurgitation of ingested fluids (EA)",
+      "frequency": null
+    },
+    {
+      "name": "aspiration with coughing + choking during feeding",
+      "raw": "aspiration with coughing + choking during feeding (TEF)",
+      "frequency": null
+    },
+    {
+      "name": "recurrent pneumonia + progressive respiratory distress of variable severity in neonate",
+      "raw": "recurrent pneumonia + progressive respiratory distress of variable severity in neonate (TEF)",
+      "frequency": null
+    },
+    {
+      "name": "Anastomotic leak",
+      "raw": "Anastomotic leak",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent TEF",
+      "raw": "Recurrent TEF",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration pneumonia 2° to",
+      "raw": "Aspiration pneumonia 2° to (a)  esophageal stricture (b)  disordered esophageal motility distal to TEF (c)  gastroesophageal reflux DDx:   pharyngeal pseudodiverticulum (traumatic perforation of posterior pharynx from finger insertion into oropharynx during delivery / tube insertion)",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal Atresia (EA) with Fistula",
+      "raw": "Esophageal Atresia (EA) with Fistula",
+      "frequency": null
+    },
+    {
+      "name": "Associated anomalies:   in 30%",
+      "raw": "Associated anomalies:   in 30% (mostly cardiovascular)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Type B = esophageal atresia + proximal TEF",
+      "raw": "Type B = esophageal atresia + proximal TEF",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  complex of congenital anomalies characterized by failed / incomplete formation of the tubular esophagus or an abnormal communication between esophagus + trachea Cause:   developmental disorder in formation and separation of primitive foregut into trachea + esophagus / vascular compromise Embryology: primitive foregut tube develops lateral wall folds that may incompletely connect at any point leaving a fistulous communication; occurs at 3rd-5th week of intrauterine life Prevalence:   1÷2,000-4,000 livebirths; most common sporadic congenital anomaly diagnosed in childhood Risk of recurrence i"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Medullary Cystic Disease (DDx)",
+  "slug": "medullary_cystic_disease_ddx",
+  "chapter": "Medullary Cystic Disease",
+  "source_file": "processed_clusters/medullary_cystic_disease/medullary_cystic_disease_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "medullary sponge kidney",
+      "raw": "medullary sponge kidney",
+      "frequency": null
+    },
+    {
+      "name": "multicystic dysplastic kidney",
+      "raw": "multicystic dysplastic kidney",
+      "frequency": null
+    },
+    {
+      "name": "lithium-induced renal disease",
+      "raw": "lithium-induced renal disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"medullary nephrogram\" = medullary striations persistent for up to 2 hours; occasionally | communication between collecting system + cysts | increased parenchymal echogenicity + poor corticomedullary differentiation | multiple small medullary / corticomedullary cysts (70%) (secondary feature NOT essential"
+}

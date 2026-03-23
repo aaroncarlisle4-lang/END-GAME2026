@@ -1,0 +1,25 @@
+{
+  "finding": "Hepatic (Liver) Abscess (DDx)",
+  "slug": "hepatic_liver_abscess_ddx",
+  "chapter": "Hepatic (Liver) Abscess",
+  "source_file": "processed_clusters/hepatic_liver_abscess/hepatic_liver_abscess_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "HCC (sepsis",
+      "raw": "HCC (sepsis",
+      "frequency": null
+    },
+    {
+      "name": "no peripheral / septal enhancement)",
+      "raw": "no peripheral / septal enhancement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "HCC (sepsis": [],
+    "no peripheral / septal enhancement)": []
+  },
+  "context": "multiple well-circumscribed hepatic / splenic lesions | T2 hyperintensity + faint restricted diffusion ← necrosis + purulent debris | perilesional T2 hyperintensity ← edema | dynamic gadolinium-enhanced MR may show more lesions than CT"
+}

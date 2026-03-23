@@ -1,0 +1,32 @@
+{
+  "finding": "A. PRERENAL = VASCULAR",
+  "slug": "a_prerenal_vascular_1_98ba29",
+  "chapter": "B. LOSS OF PERFUSION",
+  "source_file": "processed_clusters/b_loss_of_perfusion/a_prerenal_vascular_1_98ba29.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lobar infarction",
+      "raw": "Lobar infarction",
+      "frequency": null
+    },
+    {
+      "name": "Chronic infarction",
+      "raw": "Chronic infarction",
+      "frequency": null
+    },
+    {
+      "name": "Renal artery stenosis",
+      "raw": "Renal artery stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation nephritis",
+      "raw": "Radiation nephritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

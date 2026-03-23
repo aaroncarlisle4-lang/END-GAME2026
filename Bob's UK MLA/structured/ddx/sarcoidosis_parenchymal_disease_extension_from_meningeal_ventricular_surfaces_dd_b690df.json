@@ -1,0 +1,22 @@
+{
+  "finding": "Sarcoidosis — Parenchymal disease ← extension from meningeal / ventricular surfaces (DDx)",
+  "slug": "sarcoidosis_parenchymal_disease_extension_from_meningeal_ventricular_surfaces_dd_b690df",
+  "chapter": "Sarcoidosis",
+  "source_file": "processed_clusters/sarcoidosis/sarcoidosis_parenchymal_disease_extension_from_meningeal_ventricular_surfaces_dd_b690df.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "glioblastoma",
+      "raw": "glioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "metastases √  small vessel ischemic change",
+      "raw": "metastases √  small vessel ischemic change",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "single / multiple ringlike nodules / masses (= invasion of brain parenchyma via | T2-hyperintense | iso- to hyperdense | homogeneously enhancing (if biologically active)"
+}

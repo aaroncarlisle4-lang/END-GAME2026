@@ -1,0 +1,22 @@
+{
+  "finding": "Stomach (DDx)",
+  "slug": "stomach_ddx_1db7fd",
+  "chapter": "Stomach",
+  "source_file": "processed_clusters/stomach/stomach_ddx_1db7fd.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "gastric volvulus",
+      "raw": "gastric volvulus",
+      "frequency": null
+    },
+    {
+      "name": "pyloric stenosis",
+      "raw": "pyloric stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "retention of barium | absent / diminished peristaltic activity | patulous pylorus | frequently dilated duodenum"
+}

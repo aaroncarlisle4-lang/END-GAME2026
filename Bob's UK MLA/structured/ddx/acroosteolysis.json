@@ -1,0 +1,152 @@
+{
+  "finding": "Acroosteolysis",
+  "slug": "acroosteolysis",
+  "chapter": "D. METABOLIC",
+  "source_file": "processed_clusters/d_metabolic/acroosteolysis.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acroosteolysis:  (a) acquired (b) familial",
+      "raw": "Acroosteolysis:  (a) acquired (b) familial",
+      "frequency": null
+    },
+    {
+      "name": "Massive osteolysis",
+      "raw": "Massive osteolysis",
+      "frequency": null
+    },
+    {
+      "name": "Essential osteolysis",
+      "raw": "Essential osteolysis",
+      "frequency": null
+    },
+    {
+      "name": "Ainhum disease",
+      "raw": "Ainhum disease",
+      "frequency": null
+    },
+    {
+      "name": "Psoriasis, Porphyria",
+      "raw": "Psoriasis, Porphyria",
+      "frequency": null
+    },
+    {
+      "name": "Ehlers-Danlos syndrome",
+      "raw": "Ehlers-Danlos syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Thrombangiitis obliterans",
+      "raw": "Thrombangiitis obliterans",
+      "frequency": null
+    },
+    {
+      "name": "Ergot therapy",
+      "raw": "Ergot therapy",
+      "frequency": null
+    },
+    {
+      "name": "Raynaud disease",
+      "raw": "Raynaud disease",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes, Dermatomyositis, Dilantin therapy",
+      "raw": "Diabetes, Dermatomyositis, Dilantin therapy",
+      "frequency": null
+    },
+    {
+      "name": "Injury",
+      "raw": "Injury (thermal + electrical burns, frostbite)",
+      "frequency": null
+    },
+    {
+      "name": "Arteriosclerosis obliterans",
+      "raw": "Arteriosclerosis obliterans",
+      "frequency": null
+    },
+    {
+      "name": "PVC (polyvinyl chloride) worker",
+      "raw": "PVC (polyvinyl chloride) worker",
+      "frequency": null
+    },
+    {
+      "name": "Epidermolysis bullosa",
+      "raw": "Epidermolysis bullosa",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis, Reiter syndrome",
+      "raw": "Rheumatoid arthritis, Reiter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma, Sarcoidosis",
+      "raw": "Scleroderma, Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Progeria, Pyknodysostosis",
+      "raw": "Progeria, Pyknodysostosis",
+      "frequency": null
+    },
+    {
+      "name": "Leprosy, Lesch-Nyhan syndrome",
+      "raw": "Leprosy, Lesch-Nyhan syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Absence of pain",
+      "raw": "Absence of pain",
+      "frequency": null
+    },
+    {
+      "name": "Syringomyelia",
+      "raw": "Syringomyelia",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Incidental in middle-aged women",
+      "raw": "Incidental in middle-aged women",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "Hodgkin disease",
+      "raw": "Hodgkin disease",
+      "frequency": null
+    },
+    {
+      "name": "Hematologic disorders",
+      "raw": "Hematologic disorders",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Acquired Acroosteolysis mnemonic:   PETER's DIAPER SPLASH also in:   yaws; Kaposi sarcoma; pachydermoperiostosis √  lytic destructive process involving distal + middle phalanges √  NO periosteal reaction √  epiphyses resist osteolysis until late Acroosteosclerosis =  focal opaque areas + endosteal thickening"
+}

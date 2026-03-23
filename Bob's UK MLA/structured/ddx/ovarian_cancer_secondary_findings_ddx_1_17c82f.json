@@ -1,0 +1,27 @@
+{
+  "finding": "Ovarian Cancer — Secondary findings: (DDx)",
+  "slug": "ovarian_cancer_secondary_findings_ddx_1_17c82f",
+  "chapter": "Ovarian Cancer",
+  "source_file": "processed_clusters/ovarian_cancer/ovarian_cancer_secondary_findings_ddx_1_17c82f.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tuboovarian abscess",
+      "raw": "tuboovarian abscess",
+      "frequency": null
+    },
+    {
+      "name": "dermoid cyst",
+      "raw": "dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "endometrioma",
+      "raw": "endometrioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "may be useful for staging and recurrence | serosal spiculation / tethering | annular constriction / complete obstruction"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Adrenal Mass with specific CT Attenuation",
+  "slug": "adrenal_mass_with_specific_ct_attenuation_71b358",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/adrenal_mass_with_specific_ct_attenuation_71b358.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute hemorrhage:  50-90 HU",
+      "raw": "Acute hemorrhage:  50-90 HU",
+      "frequency": null
+    },
+    {
+      "name": "Adrenal myelolipoma:  fat attenuation",
+      "raw": "Adrenal myelolipoma:  fat attenuation",
+      "frequency": null
+    },
+    {
+      "name": "Adrenal cyst:  fluid attenuation",
+      "raw": "Adrenal cyst:  fluid attenuation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

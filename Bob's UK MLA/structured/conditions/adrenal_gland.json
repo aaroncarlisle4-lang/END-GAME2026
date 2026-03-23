@@ -1,0 +1,41 @@
+{
+  "name": "ADRENAL GLAND",
+  "slug": "adrenal_gland",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF UROGENITAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_urogenital_disorders/adrenal_gland.md",
+  "definition": "incidental discovery of a clinically silent adrenal mass of > 10 mm in a patient without CT washout scan (most effective test) [HUCECT 1 min - HUCECT 15 min] / [HUCECT 1 min] • 100% [HUCECT 1 min - HUCECT 15 min] / [HUCECT 1 min - HUNECT] • 100%",
+  "demographics": {
+    "Prevalence": "4-9% of all CT exams (in 0.2% of patients 20-29 years, in 7% of elderly); 1.0-",
+    "Frequency": "in < 30% of adenomas",
+    "Distribution": "70% of adenomas are lipid-rich; 30% of adenomas are lipid-poor +",
+    "Age": "1st week of life"
+  },
+  "dominant_finding": "> 10% of pixel count below 0 HU indicates adenoma (sensitivity of 71% for NECT,",
+  "distribution": "70% of adenomas are lipid-rich; 30% of adenomas are lipid-poor +",
+  "discriminating_features": [
+    "usually bilateral homogeneous adrenal enlargement in acute phase",
+    "sometimes cystic / calcified adrenals in chronic phase",
+    "> 10% of pixel count below 0 HU indicates adenoma (sensitivity of 71% for NECT,",
+    "fat + water summate to intermediate SI on in-phase images",
+    "fat + water signals cancel each other out to a low signal intensity on out-of-"
+  ],
+  "other_features": {
+    "general": [
+      "usually bilateral homogeneous adrenal enlargement in acute phase",
+      "sometimes cystic / calcified adrenals in chronic phase",
+      "> 10% of pixel count below 0 HU indicates adenoma (sensitivity of 71% for NECT,",
+      "fat + water summate to intermediate SI on in-phase images",
+      "fat + water signals cancel each other out to a low signal intensity on out-of-",
+      "adrenal-to-spleen SI ratio (SIR) < 0.71",
+      "signal intensity index (SII) > 16.5%",
+      "< 10 HU imply an adenoma (in 96%)",
+      "diffuse enlargement / discrete mass",
+      "± central cystic changes ± calcification"
+    ]
+  },
+  "clinical": {
+    "Cx": "tuberculous adrenal atrophy → adrenal hypofunction → Addison disease",
+    "Rx": "excision for incidentaloma > 5 cm",
+    "N.B.": "several deaths reported after Bx of pheochromocytoma"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Tuberculosis Of Abdomen — Colon (DDx)",
+  "slug": "tuberculosis_of_abdomen_colon_ddx",
+  "chapter": "Tuberculosis Of Abdomen",
+  "source_file": "processed_clusters/tuberculosis_of_abdomen/tuberculosis_of_abdomen_colon_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ulcerative colitis",
+      "raw": "ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "amebiasis",
+      "raw": "amebiasis (spares terminal ileum)",
+      "frequency": null
+    },
+    {
+      "name": "colitis of",
+      "raw": "colitis of",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "shortened \"amputated\" cecum ← retraction of cecum out of iliac fossa ← fibrosis of | spiculations + wall thickening | diffuse ulcerating colitis + pseudopolyps | short hourglass strictures"
+}

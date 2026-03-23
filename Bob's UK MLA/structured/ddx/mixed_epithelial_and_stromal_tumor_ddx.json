@@ -1,0 +1,37 @@
+{
+  "finding": "Mixed Epithelial And Stromal Tumor (DDx)",
+  "slug": "mixed_epithelial_and_stromal_tumor_ddx",
+  "chapter": "Mixed Epithelial And Stromal Tumor",
+  "source_file": "processed_clusters/mixed_epithelial_and_stromal_tumor/mixed_epithelial_and_stromal_tumor_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "posterior bladder diverticulum",
+      "raw": "posterior bladder diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "urethral diverticulum",
+      "raw": "urethral diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "utricle cyst",
+      "raw": "utricle cyst",
+      "frequency": null
+    },
+    {
+      "name": "vas deferens cyst",
+      "raw": "vas deferens cyst",
+      "frequency": null
+    },
+    {
+      "name": "seminal vesicle cyst",
+      "raw": "seminal vesicle cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "large teardrop-shaped intraprostatic cyst usually with extension superolaterally above | aspirate contains serous / mucous clear brown / green fluid (hemorrhage + debris), NOT | commonly contains calculi | increased signal on T1WI ← hemorrhage, protein"
+}

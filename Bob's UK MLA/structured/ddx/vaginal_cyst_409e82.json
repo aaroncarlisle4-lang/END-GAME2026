@@ -1,0 +1,42 @@
+{
+  "finding": "Vaginal Cyst",
+  "slug": "vaginal_cyst_409e82",
+  "chapter": "VAGINA",
+  "source_file": "processed_clusters/vagina/vaginal_cyst_409e82.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gartner duct cyst",
+      "raw": "Gartner duct cyst (above pubic symphysis)",
+      "frequency": null
+    },
+    {
+      "name": "Bartholin gland cyst",
+      "raw": "Bartholin gland cyst (below pubic symphysis)",
+      "frequency": null
+    },
+    {
+      "name": "Skene duct cyst",
+      "raw": "Skene duct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Müllerian / paramesonephric duct cyst =  aberrant embryologic remnant of paramesonephric duct",
+      "raw": "Müllerian / paramesonephric duct cyst =  aberrant embryologic remnant of paramesonephric duct",
+      "frequency": null
+    },
+    {
+      "name": "Epithelial inclusion cyst =  arise from urogenital sinus",
+      "raw": "Epithelial inclusion cyst =  arise from urogenital sinus",
+      "frequency": null
+    },
+    {
+      "name": "Epidermal / vaginal inclusion cyst",
+      "raw": "Epidermal / vaginal inclusion cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Histo:   mucinous pseudostratified columnar epithelium Location:   anterolateral wall of vagina near cervix Histo:   lined by transitional epithelium containing thick caseous material"
+}

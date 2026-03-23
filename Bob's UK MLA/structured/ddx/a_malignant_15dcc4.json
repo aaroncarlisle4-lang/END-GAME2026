@@ -1,0 +1,35 @@
+{
+  "finding": "A. MALIGNANT",
+  "slug": "a_malignant_15dcc4",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/a_malignant_15dcc4.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ampullary tumor",
+      "raw": "Ampullary tumor (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Pancreatic ductal adenocarcinoma [Distal CBD cholangiocarcinoma]",
+      "raw": "Pancreatic ductal adenocarcinoma",
+      "frequency": null,
+      "sites": [
+        "Distal CBD cholangiocarcinoma"
+      ]
+    },
+    {
+      "name": "Duodenal carcinoma",
+      "raw": "Duodenal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

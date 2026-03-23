@@ -1,0 +1,34 @@
+{
+  "name": "REFLEX SYMPATHETIC DYSTROPHY",
+  "slug": "reflex_sympathetic_dystrophy",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/reflex_sympathetic_dystrophy.md",
+  "definition": "CAUSALGIA = SHOULDER-HAND SYNDROME = POSTTRAUMATIC OSTEOPOROSIS SUDECK DYSTROPHY serious + potentially disabling condition with poorly understood origin + cause",
+  "demographics": {
+    "Location": "hands and feet distal to injury"
+  },
+  "dominant_finding": "patchy osteopenia (50%) as early as 2-3 weeks after onset of symptoms (DDx: disuse",
+  "distribution": "hands and feet distal to injury",
+  "discriminating_features": [
+    "periarticular soft-tissue swelling",
+    "patchy osteopenia (50%) as early as 2-3 weeks after onset of symptoms (DDx: disuse",
+    "generalized osteopenia = ground-glass appearance with endosteal + intracortical excavation:",
+    "subperiosteal bone resorption",
+    "lysis of juxtaarticular + subchondral bone"
+  ],
+  "other_features": {
+    "general": [
+      "periarticular soft-tissue swelling",
+      "patchy osteopenia (50%) as early as 2-3 weeks after onset of symptoms (DDx: disuse",
+      "generalized osteopenia = ground-glass appearance with endosteal + intracortical excavation:",
+      "subperiosteal bone resorption",
+      "lysis of juxtaarticular + subchondral bone",
+      "preservation of joint space (DDx: rheumatoid / septic arthritis)",
+      "↑ flow + ↑ blood pool + ↑ in periarticular uptake on delayed images in affected part",
+      "↓ flow / delayed uptake (15-20%)"
+    ]
+  },
+  "clinical": {
+    "Rx": "sympathetic block, α- / β-adrenergic blocking agents, nonsteroidal antiinflammatory drugs,"
+  }
+}

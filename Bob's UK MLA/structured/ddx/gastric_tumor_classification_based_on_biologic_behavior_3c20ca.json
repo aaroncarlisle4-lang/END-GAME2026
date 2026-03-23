@@ -1,0 +1,42 @@
+{
+  "finding": "Gastric Tumor Classification based on Biologic Behavior",
+  "slug": "gastric_tumor_classification_based_on_biologic_behavior_3c20ca",
+  "chapter": "C. ENDOCRINE ORGANS",
+  "source_file": "processed_clusters/c_endocrine_organs/gastric_tumor_classification_based_on_biologic_behavior_3c20ca.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "MALIGNANT (10-15%) (a)  epithelial / mucosal tumor",
+      "raw": "MALIGNANT (10-15%) (a)  epithelial / mucosal tumor",
+      "frequency": "15%"
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma (> 95%)",
+      "frequency": "95%"
+    },
+    {
+      "name": "Lymphoma, MALT",
+      "raw": "Lymphoma, MALT",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor (b)  mesenchymal tumor (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Sarcoma: leiomyosarcoma, Kaposi sarcoma",
+      "raw": "Sarcoma: leiomyosarcoma, Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis to stomach",
+      "raw": "Metastasis to stomach",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoma Of Liver (DDx)",
+  "slug": "lymphoma_of_liver_ddx",
+  "chapter": "Lymphoma Of Liver",
+  "source_file": "processed_clusters/lymphoma_of_liver/lymphoma_of_liver_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatocellular carcinoma (arterial phase enhancement",
+      "raw": "Hepatocellular carcinoma (arterial phase enhancement",
+      "frequency": null
+    },
+    {
+      "name": "delayed contrast material",
+      "raw": "delayed contrast material",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hypovascular during all phases of enhancement | ± minimal early enhancement | \"target\" appearance (15%) = hyperintense poorly enhancing center + peripheral | avid hypermetabolism"
+}

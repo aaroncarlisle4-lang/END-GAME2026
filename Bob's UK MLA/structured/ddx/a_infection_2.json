@@ -1,0 +1,37 @@
+{
+  "finding": "A. INFECTION",
+  "slug": "a_infection_2",
+  "chapter": "Ill-defined Opacities with Holes",
+  "source_file": "processed_clusters/ill_defined_opacities_with_holes/a_infection_2.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Necrotizing pneumonias:",
+      "raw": "Necrotizing pneumonias:",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration pneumonia:",
+      "raw": "Aspiration pneumonia:",
+      "frequency": null
+    },
+    {
+      "name": "Septic emboli",
+      "raw": "Septic emboli",
+      "frequency": null
+    },
+    {
+      "name": "Fungus:",
+      "raw": "Fungus:",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Staphylococcus aureus, ß-hemolytic streptococcus, Klebsiella pneumoniae, E. coli, Proteus, Pseudomonas, anaerobes mixed gram-negative organisms histoplasmosis, blastomycosis, coccidioidomycosis, cryptococcosis"
+}

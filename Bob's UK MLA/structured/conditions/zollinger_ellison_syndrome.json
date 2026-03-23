@@ -1,0 +1,37 @@
+{
+  "name": "ZOLLINGER-ELLISON SYNDROME",
+  "slug": "zollinger_ellison_syndrome",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/zollinger_ellison_syndrome.md",
+  "definition": "peptic ulcer diathesis ← marked hypersecretion of gastric acid ← gastrin-secreting islet cell",
+  "demographics": {
+    "Incidence": "0.1% of all peptic ulcer disease",
+    "Age": "middle age; M > F",
+    "Location": "duodenal bulb (65%) + stomach (20%), jejunum near ligament of Treitz (25%),"
+  },
+  "dominant_finding": "peptic ulcers",
+  "distribution": "duodenal bulb (65%) + stomach (20%), jejunum near ligament of Treitz (25%),",
+  "discriminating_features": [
+    "peptic ulcers",
+    "recurrent / intractable ulcers",
+    "marginal ulcers in postgastrectomy patient",
+    "prominence of areae gastricae ← hyperplasia of parietal cells",
+    "enlarged thickened rugal folds in gastric fundus + upper body"
+  ],
+  "other_features": {
+    "general": [
+      "peptic ulcers",
+      "recurrent / intractable ulcers",
+      "marginal ulcers in postgastrectomy patient",
+      "prominence of areae gastricae ← hyperplasia of parietal cells",
+      "enlarged thickened rugal folds in gastric fundus + upper body",
+      "sluggish gastric peristalsis ← ? hypokalemia",
+      "\"wet stomach\" = dilution of barium with poor coating by excess secretions in nondilated",
+      "gastroesophageal reflux (common) + esophagitis",
+      "dilatation of duodenum + upper small bowel ← fluid overload",
+      "thickened folds in duodenum + jejunum ← edema",
+      "rapid small-bowel transit time"
+    ]
+  },
+  "clinical": {}
+}

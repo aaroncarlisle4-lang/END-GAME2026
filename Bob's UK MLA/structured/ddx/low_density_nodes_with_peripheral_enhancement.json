@@ -1,0 +1,67 @@
+{
+  "finding": "Low-density Nodes with Peripheral Enhancement",
+  "slug": "low_density_nodes_with_peripheral_enhancement",
+  "chapter": "D. NEUROLOGIC",
+  "source_file": "processed_clusters/d_neurologic/low_density_nodes_with_peripheral_enhancement.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Suppurative adenitis",
+      "raw": "Suppurative adenitis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic malignancy",
+      "raw": "Metastatic malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory conditions",
+      "raw": "Inflammatory conditions",
+      "frequency": null
+    },
+    {
+      "name": "Tonsillitis",
+      "raw": "Tonsillitis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoid hyperplasia",
+      "raw": "Lymphoid hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Mononucleosis",
+      "raw": "Mononucleosis",
+      "frequency": null
+    },
+    {
+      "name": "Tonsillar neoplasm: squamous cell carcinoma, lymphoma)",
+      "raw": "Tonsillar neoplasm: squamous cell carcinoma, lymphoma)",
+      "frequency": null
+    },
+    {
+      "name": "Angioedema",
+      "raw": "Angioedema",
+      "frequency": null
+    },
+    {
+      "name": "Mucositis ← Kawasaki disease",
+      "raw": "Mucositis ← Kawasaki disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Lymph Node Metastasis by Location @    SUPRACLAVICULAR head & neck, lung, breast, esophagus @    INTERNAL JUGULAR supraglottic larynx, esophagus, thyroid @   MIDJUGULAR tongue, pharynx, supraglottic larynx @   JUGULODIGASTRIC nasopharynx, oropharynx, tonsils, parotid gland, supraglottic larynx @   SUBMANDIBULAR skin, submandibular gland, base of tongue @   POSTERIOR TRIANGLE nasopharynx, base of tongue @   LATERAL PHARYNGEAL nasopharynx, oropharynx Tonsillar Enlargement"
+}

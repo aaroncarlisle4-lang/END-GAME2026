@@ -1,0 +1,37 @@
+{
+  "name": "GRAVES DISEASE",
+  "slug": "graves_disease",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/graves_disease.md",
+  "definition": "DIFFUSE TOXIC GOITER autoimmune disorder antibodies binding to TSH receptors (LATS) with inhibitory +",
+  "demographics": {
+    "Prevalence": "5÷10,000; most common form of hyperthyroidism (60-80%)",
+    "Peak age": "3rd-4th decade; M÷F = 1÷7"
+  },
+  "dominant_finding": "global enlargement of 2-3 times the normal size",
+  "distribution": "diffuse thyroid enlargement",
+  "discriminating_features": [
+    "diffuse thyroid enlargement",
+    "gland may be normal in size in early stage",
+    "uniformly increased uptake",
+    "incidental nodules superimposed on preexisting adenomatous goiter (5%)",
+    "global enlargement of 2-3 times the normal size"
+  ],
+  "other_features": {
+    "general": [
+      "diffuse thyroid enlargement",
+      "gland may be normal in size in early stage",
+      "uniformly increased uptake",
+      "incidental nodules superimposed on preexisting adenomatous goiter (5%)"
+    ],
+    "US": [
+      "global enlargement of 2-3 times the normal size",
+      "normal / diffusely hypoechoic pattern",
+      "\"thyroid inferno\" = diffuse hyperemia on color Doppler"
+    ]
+  },
+  "clinical": {
+    "Rx": "131I treatments (for adults):",
+    "Cx": "10-30% develop hypothyroidism within 1st year + 3% per year rate thereafter"
+  }
+}

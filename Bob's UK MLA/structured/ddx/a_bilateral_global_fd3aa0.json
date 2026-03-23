@@ -1,0 +1,27 @@
+{
+  "finding": "A. BILATERAL GLOBAL",
+  "slug": "a_bilateral_global_fd3aa0",
+  "chapter": "Persistent Nephrogram",
+  "source_file": "processed_clusters/persistent_nephrogram/a_bilateral_global_fd3aa0.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Systemic hypotension",
+      "raw": "Systemic hypotension",
+      "frequency": null
+    },
+    {
+      "name": "Intratubular obstruction from protein:",
+      "raw": "Intratubular obstruction from protein:",
+      "frequency": null
+    },
+    {
+      "name": "Tubular damage by contrast material",
+      "raw": "Tubular damage by contrast material",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Tamm-Horsfall, Bence-Jones, myoglobin"
+}

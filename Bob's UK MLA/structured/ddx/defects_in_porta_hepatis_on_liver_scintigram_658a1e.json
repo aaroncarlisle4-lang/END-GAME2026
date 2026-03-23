@@ -1,0 +1,52 @@
+{
+  "finding": "Defects in Porta Hepatis on Liver Scintigram",
+  "slug": "defects_in_porta_hepatis_on_liver_scintigram_658a1e",
+  "chapter": "C. MALIGNANCY",
+  "source_file": "processed_clusters/c_malignancy/defects_in_porta_hepatis_on_liver_scintigram_658a1e.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Normal variant ← thinning of hepatic tissue overlying portal veins + gallbladder",
+      "raw": "Normal variant ← thinning of hepatic tissue overlying portal veins + gallbladder",
+      "frequency": null
+    },
+    {
+      "name": "Biliary causes: dilatation of bile ducts, gallbladder hydrops",
+      "raw": "Biliary causes: dilatation of bile ducts, gallbladder hydrops",
+      "frequency": null
+    },
+    {
+      "name": "Enlarged portal lymph nodes",
+      "raw": "Enlarged portal lymph nodes",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic cyst",
+      "raw": "Hepatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic parenchymal disease",
+      "raw": "Hepatic parenchymal disease (= pseudotumor)",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic compression by adjacent extrinsic mass",
+      "raw": "Hepatic compression by adjacent extrinsic mass",
+      "frequency": null
+    },
+    {
+      "name": "Postsurgical changes following cholecystectomy",
+      "raw": "Postsurgical changes following cholecystectomy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

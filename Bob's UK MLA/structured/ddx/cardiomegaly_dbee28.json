@@ -1,0 +1,92 @@
+{
+  "finding": "CARDIOMEGALY",
+  "slug": "cardiomegaly_dbee28",
+  "chapter": "Bronchial Situs",
+  "source_file": "processed_clusters/bronchial_situs/cardiomegaly_dbee28.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "CHF",
+      "raw": "CHF",
+      "frequency": null
+    },
+    {
+      "name": "Multivalvular disease",
+      "raw": "Multivalvular disease",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial effusion",
+      "raw": "Pericardial effusion",
+      "frequency": null
+    },
+    {
+      "name": "NONCARDIOGENIC (a)  metabolic:",
+      "raw": "NONCARDIOGENIC (a)  metabolic:",
+      "frequency": null
+    },
+    {
+      "name": "Ion imbalance in serum levels of sodium, potassium, and calcium",
+      "raw": "Ion imbalance in serum levels of sodium, potassium, and calcium",
+      "frequency": null
+    },
+    {
+      "name": "Hypoglycemia (b)  decreased ventilation",
+      "raw": "Hypoglycemia (b)  decreased ventilation",
+      "frequency": null
+    },
+    {
+      "name": "Asphyxia",
+      "raw": "Asphyxia",
+      "frequency": null
+    },
+    {
+      "name": "Transient tachypnea",
+      "raw": "Transient tachypnea",
+      "frequency": null
+    },
+    {
+      "name": "Perinatal brain damage",
+      "raw": "Perinatal brain damage",
+      "frequency": null
+    },
+    {
+      "name": "Anemia",
+      "raw": "Anemia",
+      "frequency": null
+    },
+    {
+      "name": "Erythrocythemia (d)  endocrine",
+      "raw": "Erythrocythemia (d)  endocrine",
+      "frequency": null
+    },
+    {
+      "name": "Glycogen storage disease",
+      "raw": "Glycogen storage disease",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid disease: hypo- / hyperthyroidism (e)  infant of diabetic mother (f)  arteriovenous fistula",
+      "raw": "Thyroid disease: hypo- / hyperthyroidism (e)  infant of diabetic mother (f)  arteriovenous fistula",
+      "frequency": null
+    },
+    {
+      "name": "Vein of Galen aneurysm",
+      "raw": "Vein of Galen aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic angioma",
+      "raw": "Hepatic angioma",
+      "frequency": null
+    },
+    {
+      "name": "Chorioangioma",
+      "raw": "Chorioangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  absence of pulmonary venous hypertension + hydrostatic edema Cardiothoracic Ratio =  widest transverse cardiac diameter ÷ widest inside thoracic diameter =  primarily a measure of LV dilatation < 0.45 normal 0.45-0.55 mild cardiomegaly > 0.55 moderate / severe cardiomegaly Falsely normal:   with LV enlargement in up to 66%, moderate enlargement of LA + RV Falsely elevated:   in expiration, in recumbent position Vascular Pedicle Width =  distance on a horizontal line between (1) point where right mainstem bronchus + SVC cross and (2) point where left subclavian artery crosses horizontal line"
+}

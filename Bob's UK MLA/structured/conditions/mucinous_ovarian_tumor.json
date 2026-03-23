@@ -1,0 +1,44 @@
+{
+  "name": "MUCINOUS OVARIAN TUMOR",
+  "slug": "mucinous_ovarian_tumor",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/mucinous_ovarian_tumor.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "20% of all ovarian tumors; 2nd most common benign epithelial neoplasm of ovary",
+    "Histo": "single layer of nonciliated tall columnar epithelium with clear cytoplasm of high mucin",
+    "Age": "middle adult life, rare before puberty + after menopause",
+    "Prevalence": "20% of all benign ovarian neoplasms"
+  },
+  "dominant_finding": "high-attenuation proteinaceous material (20-30 HU) in some loculi",
+  "distribution": "usually unilateral, bilateral in 5%",
+  "discriminating_features": [
+    "multilocular cyst with numerous thin septa",
+    "cysts frequently have high protein content:",
+    "low-level echoes in cysts",
+    "high attenuation on CT",
+    "hyperintense on T1WI"
+  ],
+  "other_features": {
+    "general": [
+      "multilocular cyst with numerous thin septa",
+      "cysts frequently have high protein content:",
+      "low-level echoes in cysts",
+      "high attenuation on CT",
+      "hyperintense on T1WI",
+      "usually unilateral, bilateral in 5%",
+      "multilocular with numerous smooth thin-walled cysts",
+      "solid tissue areas: thick septa + other soft-tissue elements within septated cyst",
+      "usually unilateral; bilateral in 5-10% of stage I cases",
+      "capsular infiltration with loss of definition + fixation"
+    ],
+    "CT": [
+      "multiseptated tumor of low attenuation",
+      "high-attenuation proteinaceous material (20-30 HU) in some loculi"
+    ],
+    "MR": [
+      "variable signal intensity in different loculi ← proteinaceous / mucinous content,"
+    ]
+  },
+  "clinical": {}
+}

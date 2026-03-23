@@ -1,0 +1,35 @@
+{
+  "name": "JUVENILE PAPILLOMATOSIS",
+  "slug": "juvenile_papillomatosis",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/juvenile_papillomatosis.md",
+  "definition": "distinctive rare benign clinical-pathologic entity that characteristically involves young",
+  "demographics": {
+    "Frequency": "low but increasing",
+    "Path": "1-8 cm tumor composed of many aggregated cysts of < 2 cm with interspersed dense",
+    "Histo": "multiple macrocysts lined by flat duct epithelium / epithelium with apocrine metaplasia,",
+    "Mean age": "23 (range, 12-48) years"
+  },
+  "dominant_finding": "ill-defined hypoechoic masses filled with multiple cysts of variable size clearly",
+  "distribution": "",
+  "discriminating_features": [
+    "usually negative mammogram / asymmetric density",
+    "± microcalcifications",
+    "marked enhancement with benign enhancement profile on MR",
+    "ill-defined hypoechoic masses filled with multiple cysts of variable size clearly"
+  ],
+  "other_features": {
+    "general": [
+      "usually negative mammogram / asymmetric density",
+      "± microcalcifications",
+      "marked enhancement with benign enhancement profile on MR"
+    ],
+    "US": [
+      "ill-defined hypoechoic masses filled with multiple cysts of variable size clearly"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "development of synchronous (4%) / metachronous (5-15%) breast cancer after 8-9",
+    "Rx": "complete surgical excision requiring negative margins"
+  }
+}

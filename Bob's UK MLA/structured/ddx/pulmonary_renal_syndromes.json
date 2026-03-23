@@ -1,0 +1,37 @@
+{
+  "finding": "Pulmonary-Renal Syndromes",
+  "slug": "pulmonary_renal_syndromes",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/pulmonary_renal_syndromes.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Wegener granulomatosis = granulomatosis with polyangiitis",
+      "raw": "Wegener granulomatosis = granulomatosis with polyangiitis",
+      "frequency": null
+    },
+    {
+      "name": "Goodpasture syndrome",
+      "raw": "Goodpasture syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "Mixed connective tissue disease",
+      "raw": "Mixed connective tissue disease",
+      "frequency": null
+    },
+    {
+      "name": "Microscopic polyangiitis",
+      "raw": "Microscopic polyangiitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "D. OTHER TUMORS & TUMORLIKE LESION",
+  "slug": "d_other_tumors_tumorlike_lesion_faab2f",
+  "chapter": "D. Vascular",
+  "source_file": "processed_clusters/d_vascular/d_other_tumors_tumorlike_lesion_faab2f.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myxoma",
+      "raw": "Myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma annulare",
+      "raw": "Granuloma annulare",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  homogeneous fluidlike signal intensity"
+}

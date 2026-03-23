@@ -1,0 +1,42 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_5_77aa52",
+  "chapter": "CT / MR",
+  "source_file": "processed_clusters/ct_mr/b_malignant_5_77aa52.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma (chondro-, osteo-, soft-tissue sarcoma, especially rhabdomyosarcoma in children)",
+      "frequency": null
+    },
+    {
+      "name": "Malignant schwannoma",
+      "raw": "Malignant schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Non-Hodgkin lymphoma",
+      "raw": "Non-Hodgkin lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Infiltrating squamous cell carcinoma",
+      "raw": "Infiltrating squamous cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Salivary gland malignancy: mucoepidermoid carcinoma, adenoid cystic carcinoma",
+      "raw": "Salivary gland malignancy: mucoepidermoid carcinoma, adenoid cystic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "check for extension to pterygopalatine fossa + infraorbital fissure into orbit",
+      "raw": "check for extension to pterygopalatine fossa + infraorbital fissure into orbit",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  infiltrating mass with mandibular destruction √  tubular mass along cranial nerve V3 √  extending from pharyngeal mucosa √  extending from parotid gland N.B.: (1) check course of V3 to foramen ovale for skull base extension to Meckel cave area + cavernous sinus"
+}

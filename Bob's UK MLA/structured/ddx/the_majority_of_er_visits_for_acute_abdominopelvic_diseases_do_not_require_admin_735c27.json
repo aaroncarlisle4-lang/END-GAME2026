@@ -1,0 +1,37 @@
+{
+  "finding": "The majority of ER visits for acute abdominopelvic diseases do not require administration of IV",
+  "slug": "the_majority_of_er_visits_for_acute_abdominopelvic_diseases_do_not_require_admin_735c27",
+  "chapter": "ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/abdominal_disorders/the_majority_of_er_visits_for_acute_abdominopelvic_diseases_do_not_require_admin_735c27.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intussusception",
+      "raw": "Intussusception",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis",
+      "raw": "Appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction (previous surgery, hernia)",
+      "frequency": null
+    },
+    {
+      "name": "Acute gastroenteritis",
+      "raw": "Acute gastroenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Basilar pneumonia",
+      "raw": "Basilar pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "contrast for MRI diagnosis"
+}

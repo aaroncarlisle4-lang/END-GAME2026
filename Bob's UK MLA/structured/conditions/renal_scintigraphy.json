@@ -1,0 +1,34 @@
+{
+  "name": "RENAL SCINTIGRAPHY",
+  "slug": "renal_scintigraphy",
+  "chapter": "GASTROINTESTINAL SCINTIGRAPHY",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_scintigraphy/renal_scintigraphy.md",
+  "definition": "99mTc-dimercaptosuccinic acid suitable for imaging of functioning cortical mass: pseudotumor versus lesion 131I-orthoiodohippurate (Hippuran®) good for evaluation of renal tubular function / effective renal plasma flow; agent with renal plasma flow agent similar to OIH but with imaging benefits of 99mTc label",
+  "demographics": {},
+  "dominant_finding": "upslope (= accretion phase)",
+  "distribution": "increased hepatic + soft-tissue uptake with impaired renal function",
+  "discriminating_features": [
+    "upslope (= accretion phase)",
+    "peak activity (maximum uptake phase)",
+    "downslope (excretion phase)",
+    "increased hepatic + soft-tissue uptake with impaired renal function",
+    "measurements usually not significantly affected with differences in renal depth"
+  ],
+  "other_features": {
+    "general": [
+      "upslope (= accretion phase)",
+      "peak activity (maximum uptake phase)",
+      "downslope (excretion phase)",
+      "increased hepatic + soft-tissue uptake with impaired renal function",
+      "measurements usually not significantly affected with differences in renal depth",
+      "measurements are accurate in renal obstruction if obtained within 1-3 minutes",
+      "prediction about functional recovery not possible following surgical relief of obstruction",
+      "↓ radiotracer activity (= perfusion) in affected kidney during angiographic phase",
+      "delayed cortical concentration (= delayed uptake) before administration of diuretic",
+      "delayed clearance of activity after administration of diuretic with half-time > 20",
+      "failed clearance of radiotracer from kidney",
+      "no excretion of tracer into renal collecting system"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,25 @@
+{
+  "name": "COCKAYNE SYNDROME",
+  "slug": "cockayne_syndrome",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/cockayne_syndrome.md",
+  "definition": "autosomal recessive diffuse demyelinating disease",
+  "demographics": {
+    "Age": "beginning at age 1"
+  },
+  "dominant_finding": "brain atrophy / microcephaly",
+  "distribution": "calcifications in basal ganglia + cerebellum",
+  "discriminating_features": [
+    "brain atrophy / microcephaly",
+    "calcifications in basal ganglia + cerebellum",
+    "skeletal changes superficially similar to progeria"
+  ],
+  "other_features": {
+    "general": [
+      "brain atrophy / microcephaly",
+      "calcifications in basal ganglia + cerebellum",
+      "skeletal changes superficially similar to progeria"
+    ]
+  },
+  "clinical": {}
+}

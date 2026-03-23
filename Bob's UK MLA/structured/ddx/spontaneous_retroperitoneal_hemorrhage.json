@@ -1,0 +1,62 @@
+{
+  "finding": "Spontaneous Retroperitoneal Hemorrhage",
+  "slug": "spontaneous_retroperitoneal_hemorrhage",
+  "chapter": "Calcification of Pyelocaliceal System",
+  "source_file": "processed_clusters/calcification_of_pyelocaliceal_system/spontaneous_retroperitoneal_hemorrhage.md",
+  "quality_score": 0.833,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "RENAL TUMOR",
+      "raw": "RENAL TUMOR (57-63%) (a)  malignant tumor (30-33%)",
+      "frequency": "63%"
+    },
+    {
+      "name": "RCC",
+      "raw": "RCC (33%)",
+      "frequency": "33%"
+    },
+    {
+      "name": "TCC of renal pelvis",
+      "raw": "TCC of renal pelvis",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lipo-, fibro-, angiosarcoma",
+      "raw": "Lipo-, fibro-, angiosarcoma (b)  benign tumor (24-33%)",
+      "frequency": "33%"
+    },
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma (16-24%)",
+      "frequency": "24%"
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibromyoma",
+      "raw": "Fibromyoma",
+      "frequency": null
+    },
+    {
+      "name": "Ruptured hemorrhagic cyst",
+      "raw": "Ruptured hemorrhagic cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

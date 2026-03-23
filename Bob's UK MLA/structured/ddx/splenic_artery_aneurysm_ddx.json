@@ -1,0 +1,22 @@
+{
+  "finding": "Splenic Artery Aneurysm (DDx)",
+  "slug": "splenic_artery_aneurysm_ddx",
+  "chapter": "Splenic Artery Aneurysm",
+  "source_file": "processed_clusters/splenic_artery_aneurysm/splenic_artery_aneurysm_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "renal artery aneurysm",
+      "raw": "renal artery aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "tortuous splenic artery",
+      "raw": "tortuous splenic artery",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "calcified wall of aneurysm (²/³)"
+}

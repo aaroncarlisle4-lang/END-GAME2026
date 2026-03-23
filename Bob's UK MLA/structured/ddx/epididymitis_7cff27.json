@@ -1,0 +1,82 @@
+{
+  "finding": "EPIDIDYMITIS",
+  "slug": "epididymitis_7cff27",
+  "chapter": "ECTOPIC URETER",
+  "source_file": "processed_clusters/ectopic_ureter/epididymitis_7cff27.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fever, increasing scrotal pain over 1-2 days",
+      "raw": "fever, increasing scrotal pain over 1-2 days",
+      "frequency": null
+    },
+    {
+      "name": "hemiscrotal swelling + tenderness + erythema",
+      "raw": "hemiscrotal swelling + tenderness + erythema",
+      "frequency": null
+    },
+    {
+      "name": "pyuria",
+      "raw": "pyuria (95%), positive urine culture, leukocytosis (50%)",
+      "frequency": "95%"
+    },
+    {
+      "name": "dysuria + frequency",
+      "raw": "dysuria + frequency (25%), prostatic tenderness (infrequent) Site:     may begin with focal epididymitis (25%) often in epididymal tail → body → head (most common) ◊  Subsequent spread to testis (common): global orchitis (frequent), focal orchitis (10%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Epididymo-orchitis",
+      "raw": "Epididymo-orchitis (20-40%) (see below)",
+      "frequency": "40%"
+    },
+    {
+      "name": "Epididymal abscess",
+      "raw": "Epididymal abscess (6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Testicular abscess",
+      "raw": "Testicular abscess (6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Testicular infarction (3%) ← extrinsic compression of testicular blood flow",
+      "raw": "Testicular infarction (3%) ← extrinsic compression of testicular blood flow",
+      "frequency": "3%"
+    },
+    {
+      "name": "Late testicular atrophy",
+      "raw": "Late testicular atrophy (21%)",
+      "frequency": "21%"
+    },
+    {
+      "name": "Hydro- / pyocele",
+      "raw": "Hydro- / pyocele",
+      "frequency": null
+    },
+    {
+      "name": "Fournier gangrene",
+      "raw": "Fournier gangrene",
+      "frequency": null
+    },
+    {
+      "name": "Testicular abscess",
+      "raw": "Testicular abscess (→ increased perfusion with centrally decreased uptake)",
+      "frequency": null
+    },
+    {
+      "name": "Hydrocele",
+      "raw": "Hydrocele (→ normal perfusion, no uptake)",
+      "frequency": null
+    },
+    {
+      "name": "Testicular tumor (→ slightly increased perfusion; in- / decreased uptake;",
+      "raw": "Testicular tumor (→ slightly increased perfusion; in- / decreased uptake;",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Acute Epididymitis ◊  Most common acute pathologic process in postpubertal age Cause:  retrograde ascending urinary tract infection; instrumentation + prostatitis (in older men); chemical (Amiodarone); posttraumatic; vasculitis (Henoch-Schönlein Purpura); idiopathic Incidence:  634,000 cases annually Age:  › child < 2 years (23% of children): imperforate anus, ureteral ectopia to seminal vesicle, bladder exstrophy, neurogenic bladder, posterior urethral valves, dysfunctional voiding ›   child > 6 years (77% of children) ›   < 18 years (common) ›   19-25 years (very common) ›   > 25 years (extr"
+}

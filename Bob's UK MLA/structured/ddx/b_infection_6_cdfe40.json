@@ -1,0 +1,27 @@
+{
+  "finding": "B. INFECTION",
+  "slug": "b_infection_6_cdfe40",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/b_infection_6_cdfe40.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Cytomegalovirus",
+      "raw": "Cytomegalovirus",
+      "frequency": null
+    },
+    {
+      "name": "Progressive multifocal leukoencephalopathy",
+      "raw": "Progressive multifocal leukoencephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "HIV",
+      "raw": "HIV",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

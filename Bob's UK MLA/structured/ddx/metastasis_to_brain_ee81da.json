@@ -1,0 +1,52 @@
+{
+  "finding": "METASTASIS TO BRAIN",
+  "slug": "metastasis_to_brain_ee81da",
+  "chapter": "METACHROMATIC LEUKODYSTROPHY",
+  "source_file": "processed_clusters/metachromatic_leukodystrophy/metastasis_to_brain_ee81da.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchial carcinoma (47%): rarely squamous cell ca.",
+      "raw": "Bronchial carcinoma (47%): rarely squamous cell ca.",
+      "frequency": "47%"
+    },
+    {
+      "name": "Breast carcinoma",
+      "raw": "Breast carcinoma (17%)",
+      "frequency": "17%"
+    },
+    {
+      "name": "GI-tract tumors (15%): colon, rectum",
+      "raw": "GI-tract tumors (15%): colon, rectum",
+      "frequency": "15%"
+    },
+    {
+      "name": "Hypernephroma",
+      "raw": "Hypernephroma (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma (8%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia / lymphoma",
+      "raw": "Leukemia / lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma ◊  Brain metastases from sarcomas are exceptionally rare!",
+      "raw": "Neuroblastoma ◊  Brain metastases from sarcomas are exceptionally rare!",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence:   14-37% of all intracranial tumors ◊  Most common intracranial neoplasm! ◊  Most common infratentorial mass in adulthood Metastatic primary: Six tumors account for 95% of all brain metastases: In childhood: Location: (a)  corticomedullary junction of brain (most characteristic) (b)  subarachnoid space = carcinomatous meningitis (c)  subependymal spread (frequent in breast carcinoma) (d)  skull (5%) N.B.:     CORTICAL METASTASES √  minimal / no edema √  may not be identified on T2WI √  contrast-enhancement essential for detection Presentation: ›  multiple lesions (⅔), single lesion"
+}

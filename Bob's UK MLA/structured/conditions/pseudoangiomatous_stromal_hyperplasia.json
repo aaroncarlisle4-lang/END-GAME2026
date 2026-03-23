@@ -1,0 +1,43 @@
+{
+  "name": "PSEUDOANGIOMATOUS STROMAL HYPERPLASIA",
+  "slug": "pseudoangiomatous_stromal_hyperplasia",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/pseudoangiomatous_stromal_hyperplasia.md",
+  "definition": "PASH = benign hormonally stimulated mesenchymal myofibroblastic proliferation of mammary",
+  "demographics": {
+    "Histo": "(a) incidental focal microscopic finding in 23% of all breast specimens",
+    "Age": "4th-5th decade (range, 14-67 years); frequently in pre- and perimenopausal women",
+    "Associated with": "gynecomastia in men (in 20-47%); immunosuppressive condition (eg,",
+    "Path": "well-defined mass with pseudocapsule"
+  },
+  "dominant_finding": "commonly persistent (type 1) or less frequently plateau (type 2) / washout (type 3)",
+  "distribution": "usually no posterior phenomena",
+  "discriminating_features": [
+    "dense well / partially circumscribed noncalcified mass",
+    "rarely indistinct / spiculated border",
+    "commonly persistent (type 1) or less frequently plateau (type 2) / washout (type 3)",
+    "hypoechoic solid ovoid mass with long axis parallel to chest wall:",
+    "slightly heterogeneous texture ± echogenic component"
+  ],
+  "other_features": {
+    "general": [
+      "dense well / partially circumscribed noncalcified mass",
+      "rarely indistinct / spiculated border"
+    ],
+    "US": [
+      "hypoechoic solid ovoid mass with long axis parallel to chest wall:",
+      "slightly heterogeneous texture ± echogenic component",
+      "rarely predominantly hyperechoic",
+      "± circumscribed margins",
+      "± small cystic component",
+      "usually no posterior phenomena"
+    ],
+    "MR": [
+      "commonly persistent (type 1) or less frequently plateau (type 2) / washout (type 3)"
+    ]
+  },
+  "clinical": {
+    "Rx": "excision for symptomatic / growing mass",
+    "Prognosis": "recurrence after excisional biopsy (in 5-18%) requires 1-2 cm excisional"
+  }
+}

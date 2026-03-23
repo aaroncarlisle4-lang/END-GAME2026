@@ -1,0 +1,27 @@
+{
+  "finding": "Kaposi Sarcoma — Liver & spleen (34% at autopsy) (DDx)",
+  "slug": "kaposi_sarcoma_liver_spleen_34_at_autopsy_ddx_c5bedb",
+  "chapter": "Kaposi Sarcoma",
+  "source_file": "processed_clusters/kaposi_sarcoma/kaposi_sarcoma_liver_spleen_34_at_autopsy_ddx_c5bedb.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastatic disease",
+      "raw": "metastatic disease",
+      "frequency": null
+    },
+    {
+      "name": "fungal microabscesses",
+      "raw": "fungal microabscesses",
+      "frequency": null
+    },
+    {
+      "name": "multiple areas of bacillary angiomatosis",
+      "raw": "multiple areas of bacillary angiomatosis (= swollen venous lakes in liver)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± central umbilication / ulceration (common) = \"bull's-eye\" / \"target\" lesions on BE | infiltrating linitis plastica lesion (rare) | mass enhancement greater than adjacent mucosa ← high tumor vascularity | multiple 5-12-mm nodules hyperechoic on US, hypoattenuating on NECT/CECT"
+}

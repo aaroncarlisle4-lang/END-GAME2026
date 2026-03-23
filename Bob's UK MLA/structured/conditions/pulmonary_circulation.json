@@ -1,0 +1,21 @@
+{
+  "name": "PULMONARY CIRCULATION",
+  "slug": "pulmonary_circulation",
+  "chapter": "CHEST WALL",
+  "source_file": "processed_clusters/disease_entries/chest_wall/pulmonary_circulation.md",
+  "definition": "microvascular connections (= capillary communications) at level of alveoli and respiratory",
+  "demographics": {},
+  "dominant_finding": "provide active vasodilatation + constriction",
+  "distribution": "",
+  "discriminating_features": [
+    "provide active vasodilatation + constriction",
+    "normal bronchial arteries NOT usually visible on thoracic angiography"
+  ],
+  "other_features": {
+    "general": [
+      "provide active vasodilatation + constriction",
+      "normal bronchial arteries NOT usually visible on thoracic angiography"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "B. MESENCHYMAL TUMOR (a) tumor of blood vessels",
+  "slug": "b_mesenchymal_tumor_a_tumor_of_blood_vessels_d4d40b",
+  "chapter": "D. MISCELLANEOUS",
+  "source_file": "processed_clusters/d_miscellaneous/b_mesenchymal_tumor_a_tumor_of_blood_vessels_d4d40b.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Epithelioid hemangioendothelioma",
+      "raw": "Epithelioid hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Kaposi sarcoma (b)  other tumor",
+      "raw": "Kaposi sarcoma (b)  other tumor",
+      "frequency": null
+    },
+    {
+      "name": "Embryonal sarcoma",
+      "raw": "Embryonal sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosarcoma",
+      "raw": "Fibrosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,36 @@
+{
+  "name": "APICAL PETROSITIS",
+  "slug": "apical_petrositis",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/apical_petrositis.md",
+  "definition": "PETROUS APICITIS = PETROSITIS infectious process caused by medial extension of acute otitis media into pneumatized petrous",
+  "demographics": {
+    "Frequency": "chronic > acute apicitis",
+    "Etiology": "spread from middle ear + mastoid infection; requires presence of air cells in petrous"
+  },
+  "dominant_finding": "enhancing meninges ← adjacent meningeal inflammation",
+  "distribution": "",
+  "discriminating_features": [
+    "opacification of aerated petrous apex + air-fluid levels",
+    "osseous erosion",
+    "fluid in ipsilateral middle ear + mastoid",
+    "hyperintense signal on T2WI + hypointense on T1WI",
+    "avidly enhancing mass in pneumatized petrous apex"
+  ],
+  "other_features": {
+    "general": [
+      "opacification of aerated petrous apex + air-fluid levels",
+      "osseous erosion",
+      "fluid in ipsilateral middle ear + mastoid"
+    ],
+    "MR": [
+      "hyperintense signal on T2WI + hypointense on T1WI",
+      "avidly enhancing mass in pneumatized petrous apex",
+      "enhancing meninges ← adjacent meningeal inflammation"
+    ]
+  },
+  "clinical": {
+    "Cx": "meningitis; epidural / brain abscess (ring enhancement, restricted DWI); venous sinus",
+    "Rx": "intravenous antibiotics, myringotomy, surgery"
+  }
+}

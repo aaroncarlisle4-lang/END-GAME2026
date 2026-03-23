@@ -1,0 +1,28 @@
+{
+  "name": "CONDYLOMA ACUMINATA",
+  "slug": "condyloma_acuminata",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/condyloma_acuminata.md",
+  "definition": "VENEREAL WART = PENILE SQUAMOUS PAPILLOMA",
+  "demographics": {
+    "Histo": "squamous papilloma",
+    "Prevalence": "0.5-5% of male patients with cutaneous disease"
+  },
+  "dominant_finding": "multiple papillary filling defects in anterior urethra",
+  "distribution": "multiple papillary filling defects in anterior urethra",
+  "discriminating_features": [
+    "multiple papillary filling defects in anterior urethra",
+    "± extension into bladder (rare)"
+  ],
+  "other_features": {
+    "general": [],
+    "Skin": [
+      "multiple papillary filling defects in anterior urethra",
+      "± extension into bladder (rare)"
+    ]
+  },
+  "clinical": {
+    "N.B.": "retrograde urethrography NOT recommended as it may cause retrograde seeding!",
+    "Rx": "instillation of podophyllin, thiotepa, 5-fluorouracil into urethra"
+  }
+}

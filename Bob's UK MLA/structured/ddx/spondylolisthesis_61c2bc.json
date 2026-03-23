@@ -1,0 +1,52 @@
+{
+  "finding": "SPONDYLOLISTHESIS",
+  "slug": "spondylolisthesis_61c2bc",
+  "chapter": "SINUS PERICRANII",
+  "source_file": "processed_clusters/sinus_pericranii/spondylolisthesis_61c2bc.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "I  congenital / dysplastic",
+      "raw": "I  congenital / dysplastic",
+      "frequency": null
+    },
+    {
+      "name": "II  isthmic / spondylytic",
+      "raw": "II  isthmic / spondylytic",
+      "frequency": null
+    },
+    {
+      "name": "III  degenerative",
+      "raw": "III  degenerative (disk disease)",
+      "frequency": null
+    },
+    {
+      "name": "IV  traumatic",
+      "raw": "IV  traumatic (fracture)",
+      "frequency": null
+    },
+    {
+      "name": "V  pathologic",
+      "raw": "V  pathologic (bone tumor)",
+      "frequency": null
+    },
+    {
+      "name": "symptomatic if intervertebral disk + posterosuperior aspect of vertebral body encroaches on superior portion of neuroforamen causing nerve root compression:",
+      "raw": "symptomatic if intervertebral disk + posterosuperior aspect of vertebral body encroaches on superior portion of neuroforamen causing nerve root compression:",
+      "frequency": null
+    },
+    {
+      "name": "backache ± leg pain; sciatica ± backache",
+      "raw": "backache ± leg pain; sciatica ± backache",
+      "frequency": null
+    },
+    {
+      "name": "commonly symptomatic ← spinal stenosis + narrowing of neuroforamen",
+      "raw": "commonly symptomatic ← spinal stenosis + narrowing of neuroforamen",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  anterior displacement of one vertebra over another Direction:   anterolisthesis, retrolisthesis, lateral translation Prevalence:   4% of general population Causes (Newman classification): VI  postsurgical (removal of > 50% of facet joint) Grades I-IV (Meyerding method): each grade equals ¼ anterior subluxation of upper on lower vertebral body Isthmic Spondylolisthesis = open-arch type =  pars interarticularis defect between superior + inferior articulating processes as weakest portion of spinal unit → separation of anterior part (vertebral body, pedicles, transverse processes, superior arti"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "C. NECROTIC MASSES",
+  "slug": "c_necrotic_masses",
+  "chapter": "E. BRONCHIECTASIS",
+  "source_file": "processed_clusters/e_bronchiectasis/c_necrotic_masses.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Resolving hematoma",
+      "raw": "Resolving hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Treated lymphoma",
+      "raw": "Treated lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis from ovary, stomach, testes",
+      "raw": "Metastasis from ovary, stomach, testes",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

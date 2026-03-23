@@ -1,0 +1,32 @@
+{
+  "finding": "Fat-containing Perirenal Mass",
+  "slug": "fat_containing_perirenal_mass_a1ec3a",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/fat_containing_perirenal_mass_a1ec3a.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal liposarcoma",
+      "raw": "Retroperitoneal liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Extramedullary hematopoiesis",
+      "raw": "Extramedullary hematopoiesis",
+      "frequency": null
+    },
+    {
+      "name": "Extraadrenal myelolipoma",
+      "raw": "Extraadrenal myelolipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

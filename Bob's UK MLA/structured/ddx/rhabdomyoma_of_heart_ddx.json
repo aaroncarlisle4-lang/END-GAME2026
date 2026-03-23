@@ -1,0 +1,22 @@
+{
+  "finding": "Rhabdomyoma Of Heart (DDx)",
+  "slug": "rhabdomyoma_of_heart_ddx",
+  "chapter": "Rhabdomyoma Of Heart",
+  "source_file": "processed_clusters/rhabdomyoma_of_heart/rhabdomyoma_of_heart_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibroma (solitary centrally calcified + cystic tumor",
+      "raw": "fibroma (solitary centrally calcified + cystic tumor",
+      "frequency": null
+    },
+    {
+      "name": "in ventricular myocardium",
+      "raw": "in ventricular myocardium",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "diffuse myocardial thickening (with multiple small lesions) | tumor iso- to marginally hyperintense on T1WI | hyperintense to myocardium on T2WI | hypointense to myocardium after contrast enhancement"
+}

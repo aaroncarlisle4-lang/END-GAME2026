@@ -1,0 +1,53 @@
+{
+  "name": "CLEAR CELL SARCOMA OF KIDNEY",
+  "slug": "clear_cell_sarcoma_of_kidney",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/clear_cell_sarcoma_of_kidney.md",
+  "definition": "BONE-METASTASIZING RENAL TUMOR OF CHILDHOOD rare highly malignant mesenchymal renal neoplasm of childhood with propensity for bone",
+  "demographics": {
+    "Incidence": "20 cases annually in USA; 4-5% of primary renal neoplasms in childhood; 2nd most",
+    "Mean age": "3 (range, 1-6) years; M÷F= 2÷1",
+    "Path": "always unilateral unicentric soft well-circumscribed mass replacing most of the kidney /",
+    "Histo": "composed of well-defined polygonal to stellate cells with vacuolization, ovoid to"
+  },
+  "dominant_finding": "low-attenuation areas ← hemorrhage / necrosis",
+  "distribution": "renal mass crossing midline (58%)",
+  "discriminating_features": [
+    "expansile well-demarcated mass (8-16 cm) with dominant soft-tissue component",
+    "cystic component of varying size (few mm to 5 cm) + multiplicity (58%)",
+    "amorphous / linear calcifications (25%)",
+    "renal mass crossing midline (58%)",
+    "NO intravascular extension"
+  ],
+  "other_features": {
+    "general": [
+      "expansile well-demarcated mass (8-16 cm) with dominant soft-tissue component",
+      "cystic component of varying size (few mm to 5 cm) + multiplicity (58%)",
+      "amorphous / linear calcifications (25%)",
+      "renal mass crossing midline (58%)",
+      "NO intravascular extension",
+      "lytic / sclerotic / mixed metastatic bone lesions"
+    ],
+    "US": [
+      "inhomogeneous renal mass of soft-tissue density",
+      "well-defined hypoechoic central area (= necrosis)",
+      "mass with fluid-filled anechoic cystic spaces",
+      "large fluid-filled spaces + echogenic septa may predominate"
+    ],
+    "CT": [
+      "heterogeneous enhancement less than that of normal renal parenchyma",
+      "low-attenuation areas ← hemorrhage / necrosis",
+      "water-density areas ← cysts"
+    ],
+    "MR": [
+      "low to intermediate signal intensity on T1WI",
+      "high signal intensity on T2WI"
+    ],
+    "NUC": [
+      "bone scan recommended after diagnosis is established"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "60-70% long-term survival rate; aggressive behavior (worse than Wilms tumor)"
+  }
+}

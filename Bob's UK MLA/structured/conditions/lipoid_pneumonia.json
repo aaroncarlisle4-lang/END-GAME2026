@@ -1,0 +1,40 @@
+{
+  "name": "LIPOID PNEUMONIA",
+  "slug": "lipoid_pneumonia",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/lipoid_pneumonia.md",
+  "definition": "FIRE-EATER PNEUMONIA",
+  "demographics": {
+    "Etiology": "aspiration / inhalation of fatlike material",
+    "Path": "pool of oil emulsified by lung lipase + surrounded by giant cell foreign body reaction",
+    "Histo": "numerous lipid-laden macrophages distending alveolar walls + interstitium,",
+    "Location": "predilection for RML + lower lobes"
+  },
+  "dominant_finding": "return to ground-glass opacity ← expectoration + lymphatic drainage of lipid droplets +",
+  "distribution": "predilection for RML + lower lobes",
+  "discriminating_features": [
+    "ill-defined nodular areas of increased radiopacity",
+    "pneumatoceles / thin-walled collections of air",
+    "homogeneous segmental airspace consolidation (most common)",
+    "interstitial reticulonodular pattern (rare)",
+    "paraffinoma = circumscribed peripheral mass (granulomatous reaction + fibrosis often"
+  ],
+  "other_features": {
+    "general": [
+      "ill-defined nodular areas of increased radiopacity",
+      "pneumatoceles / thin-walled collections of air",
+      "homogeneous segmental airspace consolidation (most common)",
+      "interstitial reticulonodular pattern (rare)",
+      "paraffinoma = circumscribed peripheral mass (granulomatous reaction + fibrosis often",
+      "slow progression / no change"
+    ],
+    "CT": [
+      "diffuse ground-glass opacity of centri- / panlobular distribution (= acinar pattern) +",
+      "airspace consolidation (filling of alveoli with exudate + inflammatory cells) at 1 week",
+      "return to ground-glass opacity ← expectoration + lymphatic drainage of lipid droplets +",
+      "volume loss + fibrosis of interlobular septa and pleura at 14-16 weeks",
+      "mass of low-attenuation approaching that of subcutaneous fat (-150 to 50 HU)"
+    ]
+  },
+  "clinical": {}
+}

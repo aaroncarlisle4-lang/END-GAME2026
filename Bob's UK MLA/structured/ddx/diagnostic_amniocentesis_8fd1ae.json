@@ -1,0 +1,57 @@
+{
+  "finding": "Diagnostic Amniocentesis",
+  "slug": "diagnostic_amniocentesis_8fd1ae",
+  "chapter": "FETAL MENSURATION",
+  "source_file": "processed_clusters/fetal_mensuration/diagnostic_amniocentesis_8fd1ae.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Genetic studies: karyotype, DNA analysis, biochemical assay",
+      "raw": "Genetic studies: karyotype, DNA analysis, biochemical assay",
+      "frequency": null
+    },
+    {
+      "name": "Neural tube defect: α-fetoprotein, acetylcholinesterase",
+      "raw": "Neural tube defect: α-fetoprotein, acetylcholinesterase",
+      "frequency": null
+    },
+    {
+      "name": "Isoimmunization: ∆-OD 450",
+      "raw": "Isoimmunization: ∆-OD 450",
+      "frequency": null
+    },
+    {
+      "name": "Fetal lung maturity",
+      "raw": "Fetal lung maturity",
+      "frequency": null
+    },
+    {
+      "name": "Intraamniotic infection",
+      "raw": "Intraamniotic infection",
+      "frequency": null
+    },
+    {
+      "name": "Confirmation of ruptured membranes",
+      "raw": "Confirmation of ruptured membranes",
+      "frequency": null
+    },
+    {
+      "name": "Error rate",
+      "raw": "Error rate (< 1% versus 2%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Culture failure rate",
+      "raw": "Culture failure rate (0.6% versus 2.2%)",
+      "frequency": "0.6%"
+    },
+    {
+      "name": "Fetal loss rate",
+      "raw": "Fetal loss rate (0.6-0.8% less)",
+      "frequency": "0.8%"
+    }
+  ],
+  "criteria": {},
+  "context": "Timing:   early (11-15 weeks), late (15-18 weeks) Advantage over CVS:"
+}

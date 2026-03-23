@@ -1,0 +1,27 @@
+{
+  "finding": "C. MULTIFOCAL INFECTION",
+  "slug": "c_multifocal_infection_609817",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/c_multifocal_infection_609817.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pseudomonas",
+      "raw": "Pseudomonas",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Septic abscesses",
+      "raw": "Septic abscesses",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

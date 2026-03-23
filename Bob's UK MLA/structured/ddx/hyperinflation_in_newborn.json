@@ -1,0 +1,37 @@
+{
+  "finding": "Hyperinflation in Newborn",
+  "slug": "hyperinflation_in_newborn",
+  "chapter": "D. TRAUMA",
+  "source_file": "processed_clusters/d_trauma/hyperinflation_in_newborn.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fetal aspiration syndrome",
+      "raw": "Fetal aspiration syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Neonatal pneumonia",
+      "raw": "Neonatal pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary hemorrhage",
+      "raw": "Pulmonary hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Congenital heart disease",
+      "raw": "Congenital heart disease",
+      "frequency": null
+    },
+    {
+      "name": "Transient tachypnea",
+      "raw": "Transient tachypnea (mild)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  level of inflation beyond 8th rib posteriorly √  depressed configuration of hemidiaphragms best judged on LAT view"
+}

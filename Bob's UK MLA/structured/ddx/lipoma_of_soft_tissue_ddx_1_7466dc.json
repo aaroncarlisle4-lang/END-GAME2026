@@ -1,0 +1,22 @@
+{
+  "finding": "Lipoma Of Soft Tissue (DDx)",
+  "slug": "lipoma_of_soft_tissue_ddx_1_7466dc",
+  "chapter": "Lipoma Of Soft Tissue",
+  "source_file": "processed_clusters/lipoma_of_soft_tissue/lipoma_of_soft_tissue_ddx_1_7466dc.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "normal fatty deposit (no internal architecture",
+      "raw": "normal fatty deposit (no internal architecture",
+      "frequency": null
+    },
+    {
+      "name": "no mass effect on adjacent structures and their metabolic behavior)",
+      "raw": "no mass effect on adjacent structures and their metabolic behavior)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thin septations of low SI (not uncommon) correspond to fibrous connective tissue | differentiation from other lesions by fat suppression technique | septa > 2 mm thick + septal nodularity | soft tissue component with attenuation / SI of muscle / fibrous tissue / hemorrhage /"
+}

@@ -1,0 +1,107 @@
+{
+  "finding": "Nonseptic Monoarthritis",
+  "slug": "nonseptic_monoarthritis_3dba5c",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/nonseptic_monoarthritis_3dba5c.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gout",
+      "raw": "Gout",
+      "frequency": null
+    },
+    {
+      "name": "Milwaukee shoulder",
+      "raw": "Milwaukee shoulder",
+      "frequency": null
+    },
+    {
+      "name": "Rapidly destructive articular disease",
+      "raw": "Rapidly destructive articular disease",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid arthropathy",
+      "raw": "Amyloid arthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Hemophilic arthropathy",
+      "raw": "Hemophilic arthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Primary synovial osteochondromatosis",
+      "raw": "Primary synovial osteochondromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Pigmented villonodular synovitis",
+      "raw": "Pigmented villonodular synovitis",
+      "frequency": null
+    },
+    {
+      "name": "Neuropathic arthropathy",
+      "raw": "Neuropathic arthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Foreign-body synovitis",
+      "raw": "Foreign-body synovitis",
+      "frequency": null
+    },
+    {
+      "name": "Gout",
+      "raw": "Gout",
+      "frequency": null
+    },
+    {
+      "name": "Neuropathic arthropathy",
+      "raw": "Neuropathic arthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Psoriasis",
+      "raw": "Psoriasis",
+      "frequency": null
+    },
+    {
+      "name": "Reiter disease",
+      "raw": "Reiter disease",
+      "frequency": null
+    },
+    {
+      "name": "Pigmented villonodular synovitis",
+      "raw": "Pigmented villonodular synovitis",
+      "frequency": null
+    },
+    {
+      "name": "Psoriatic arthritis",
+      "raw": "Psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Osteoarthritis",
+      "raw": "Osteoarthritis",
+      "frequency": null
+    },
+    {
+      "name": "Neuropathic joint",
+      "raw": "Neuropathic joint",
+      "frequency": null
+    },
+    {
+      "name": "Gout",
+      "raw": "Gout",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Arthritis without Demineralization"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Amyloidosis — Bone (DDx)",
+  "slug": "amyloidosis_bone_ddx_c200cf",
+  "chapter": "Amyloidosis",
+  "source_file": "processed_clusters/amyloidosis/amyloidosis_bone_ddx_c200cf.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Whipple disease",
+      "raw": "Whipple disease",
+      "frequency": null
+    },
+    {
+      "name": "intestinal lymphangiectasia",
+      "raw": "intestinal lymphangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "lymphosarcoma",
+      "raw": "lymphosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "discrete masses | splenomegaly (4-13%) | T2 values significantly lower than normal | bone cysts"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Infections of Oral Cavity",
+  "slug": "infections_of_oral_cavity",
+  "chapter": "ORAL CAVITY",
+  "source_file": "processed_clusters/oral_cavity/infections_of_oral_cavity.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Periodontal disease",
+      "raw": "Periodontal disease",
+      "frequency": null
+    },
+    {
+      "name": "Ludwig angina",
+      "raw": "Ludwig angina",
+      "frequency": null
+    },
+    {
+      "name": "Descending necrotizing mediastinitis",
+      "raw": "Descending necrotizing mediastinitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

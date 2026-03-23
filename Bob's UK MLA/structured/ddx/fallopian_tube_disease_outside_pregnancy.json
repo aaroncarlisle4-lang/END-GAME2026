@@ -1,0 +1,37 @@
+{
+  "finding": "Fallopian Tube Disease outside Pregnancy",
+  "slug": "fallopian_tube_disease_outside_pregnancy",
+  "chapter": "FALLOPIAN TUBE",
+  "source_file": "processed_clusters/fallopian_tube/fallopian_tube_disease_outside_pregnancy.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pelvic inflammatory disease",
+      "raw": "Pelvic inflammatory disease",
+      "frequency": null
+    },
+    {
+      "name": "Atypical tubal infection: tuberculosis, actinomycosis",
+      "raw": "Atypical tubal infection: tuberculosis, actinomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Torsion of fallopian tube",
+      "raw": "Torsion of fallopian tube",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Primary fallopian tube tumor ›  hydatid cyst of Morgagni ›  leiomyoma ›  fallopian tube cancer",
+      "raw": "Primary fallopian tube tumor ›  hydatid cyst of Morgagni ›  leiomyoma ›  fallopian tube cancer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

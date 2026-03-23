@@ -1,0 +1,29 @@
+{
+  "name": "SINGLE VENTRICLE",
+  "slug": "single_ventricle",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/single_ventricle.md",
+  "definition": "UNIVENTRICULAR HEART = DOUBLE INLET SINGLE VENTRICLE failure of development of interventricular septum ± absence of one atrioventricular valve",
+  "demographics": {
+    "Associated with": "TGV or DORV"
+  },
+  "dominant_finding": "the single ventricle may be a LV (85%) / RV / undetermined",
+  "distribution": "",
+  "discriminating_features": [
+    "2 atrioventricular valves connected to a main ventricular chamber",
+    "the single ventricle may be a LV (85%) / RV / undetermined",
+    "a second rudimentary ventricular chamber may be present, which is located anteriorly (in left",
+    "rudimentary chamber ± connection to one great artery",
+    "may be associated with tricuspid / mitral atresia"
+  ],
+  "other_features": {
+    "general": [
+      "2 atrioventricular valves connected to a main ventricular chamber",
+      "the single ventricle may be a LV (85%) / RV / undetermined",
+      "a second rudimentary ventricular chamber may be present, which is located anteriorly (in left",
+      "rudimentary chamber ± connection to one great artery",
+      "may be associated with tricuspid / mitral atresia"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,113 @@
+# Disease: CERVICAL CARCINOMA
+
+**Source section:** OBSTETRIC AND GYNECOLOGIC DISORDERS
+
+## Definition
+
+local tumor growth / development of distant metastasis ≥ 6 months after complete
+
+## Key Facts
+
+- **Incidence:** 12÷100,000 women annually; 12,990 new cases + 4,120 deaths in USA (2016)
+- **Peak age:** 45-55 years
+- **Histo:** squamous cell carcinoma (80-95%) arising low in endocervical canal, adenocarcinoma
+- **Prevalence:** varies with stage, histologic type, adequacy of therapy, host response; 11%
+- **Frequency:** in 75% of adenocarcinoma, in 61% of squamous cell carcinoma
+- **Location:** liver (33%) > adrenal gland (15%) > spleen, pancreas, kidney
+
+## Imaging Findings
+
+### Primary tumor
+
+- small tumor isoechoic to mucosa difficult to detect
+- altered echotexture + distortion of normal cervical morphology + lack of
+- color Doppler US may facilitate visualization and delineation of tumor ←
+- growth pattern: exophytic, infiltrating, endocervical
+- bulky enlargement of cervix > 3.5 cm (DDx: cervical fibroid)
+- iso- (50%) / hypoattenuating after IV contrast ← necrosis, ulceration, reduced
+- gas within tumor (necrosis / prior biopsy)
+- fluid-filled uterus (blood, serous fluid, pus) ← obstruction
+- hypoattenuating lesion of myometrium / with vaginal distension
+- focal bulge / mass in cervix:
+- mass isointense on T1WI
+- hyperintense on T2WI compared with fibrous stroma (DDx: postbiopsy changes,
+- size of tumor accurately depicted (on T2WI rarely overestimated due to
+- early contrast enhancement on fat-saturated T1WI
+- blurring + widening of junctional zone (retained secretions in uterine cavity) ←
+- disruption of hypointense vaginal wall by hyperintense thickening on T2WI
+- disruption of hypointense cervical fibrous stromal ring on T2WI by nodular / irregular
+
+### Parametrial spread (30-58% accuracy):
+
+- parametrial soft-tissue mass
+- ureteral encasement
+- thickening of ureterosacral ligaments
+- > 4-mm soft-tissue strands of increased attenuation extending from cervix into
+- obliteration of fat planes
+- ill-defined irregular cervical margins
+- eccentric parametrial enlargement
+
+### Pelvic side wall disease
+
+- tumor < 3 mm from side wall
+- enlarged piriform / obturator internus muscles
+- encasement of iliac vessels
+- destruction of pelvic bones
+
+### Pelvic visceral disease (60% PPV)
+
+- loss of perivesical / perirectal fat plane
+- asymmetric nodular thickening of bladder / rectal wall
+- intraluminal mass
+- air in bladder ← fistula
+
+### Lymphatic spread (65-77-80% accuracy)
+
+- nodes > 1 cm in diameter (> 7 mm for internal iliac nodes, > 9 mm for common iliac
+- lymph node necrosis (100% PPV)
+
+### Parametrial invasion (best seen on T1WI):
+
+- low-intensity spiculated areas of soft tissue radiating from periphery of cervical mass
+- irregular lateral margins of cervix = linear stranding around cervical mass
+- thickening of uterosacral ligament
+
+### Pelvic sidewall invasion
+
+- tumor involves obturator internus, piriform, levator ani m.
+- dilatation of ureter + hydronephrosis
+
+### Pelvic visceral disease
+
+- disruption of hypointense walls of bladder / rectum (DDx: hyperintense thickening of
+
+### Lymphatic spread
+
+- lymphadenopathy > 10 mm, hyperintense compared with muscle / blood vessels on
+
+### Pelvic recurrence
+
+- hydrometra ← obstruction by preserved cervix
+- rectovaginal fistula
+- hydronephrosis (70% by autopsy)
+- vesicovaginal fistula
+- pelvic side wall mass
+
+### Peritoneal recurrence
+
+- fistula formation
+- focal bowel wall thickening + tethering
+- intestinal obstruction (12% by autopsy)
+
+## Clinical
+
+- **Prognosis:** immediate cause of death in 7%
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

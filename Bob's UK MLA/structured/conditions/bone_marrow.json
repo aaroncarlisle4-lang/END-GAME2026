@@ -1,0 +1,32 @@
+{
+  "name": "BONE MARROW",
+  "slug": "bone_marrow",
+  "chapter": "MUSCULOSKELETAL INFECTION",
+  "source_file": "processed_clusters/disease_entries/musculoskeletal_infection/bone_marrow.md",
+  "definition": "hematopoietically active (by EGA of 20 weeks) with a rich + extensive vascular supply, reversal of yellow to red marrow",
+  "demographics": {
+    "Distribution": "conversion from red to fatty marrow throughout life"
+  },
+  "dominant_finding": "red marrow:",
+  "distribution": "conversion from red to fatty marrow throughout life",
+  "discriminating_features": [
+    "red marrow:",
+    "iso- / slightly hyperintense compared with muscle on T1WI + T2WI (longer T1",
+    "hypointense compared with fatty marrow (shorter T2 relaxation time)",
+    "yellow marrow:",
+    "isointense compared with subcutaneous fat on T1WI (relatively short T1 relaxation time"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "red marrow:",
+      "iso- / slightly hyperintense compared with muscle on T1WI + T2WI (longer T1",
+      "hypointense compared with fatty marrow (shorter T2 relaxation time)",
+      "yellow marrow:",
+      "isointense compared with subcutaneous fat on T1WI (relatively short T1 relaxation time",
+      "T2-iso- / hypointense compared with subcutaneous fat",
+      "hyperintense compared with muscle on T2WI (long T2 relaxation time compared with"
+    ]
+  },
+  "clinical": {}
+}

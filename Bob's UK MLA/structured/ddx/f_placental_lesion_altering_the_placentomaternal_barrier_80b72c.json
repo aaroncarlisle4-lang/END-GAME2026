@@ -1,0 +1,27 @@
+{
+  "finding": "F. PLACENTAL LESION altering the placentomaternal barrier",
+  "slug": "f_placental_lesion_altering_the_placentomaternal_barrier_80b72c",
+  "chapter": "E. FETAL ANOMALIES (61%",
+  "source_file": "processed_clusters/e_fetal_anomalies_61/f_placental_lesion_altering_the_placentomaternal_barrier_80b72c.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chorioangioma",
+      "raw": "Chorioangioma",
+      "frequency": null
+    },
+    {
+      "name": "Peri- and intraplacental hematoma → resulting in fetomaternal hemorrhage",
+      "raw": "Peri- and intraplacental hematoma → resulting in fetomaternal hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Placental lakes, infarct, intervillous thrombosis",
+      "raw": "Placental lakes, infarct, intervillous thrombosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

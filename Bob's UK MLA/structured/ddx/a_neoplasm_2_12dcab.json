@@ -1,0 +1,32 @@
+{
+  "finding": "A. NEOPLASM",
+  "slug": "a_neoplasm_2_12dcab",
+  "chapter": "D. POSTSURGICAL",
+  "source_file": "processed_clusters/d_postsurgical/a_neoplasm_2_12dcab.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tubular / tubulovillous / villous adenoma",
+      "raw": "Tubular / tubulovillous / villous adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Familial polyposis",
+      "raw": "Familial polyposis",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Submucosal tumor spread ← adjacent carcinoma",
+      "raw": "Submucosal tumor spread ← adjacent carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

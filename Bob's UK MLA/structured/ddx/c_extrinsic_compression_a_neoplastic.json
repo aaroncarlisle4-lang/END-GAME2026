@@ -1,0 +1,62 @@
+{
+  "finding": "C. EXTRINSIC COMPRESSION (a) neoplastic",
+  "slug": "c_extrinsic_compression_a_neoplastic",
+  "chapter": "VENA CAVA",
+  "source_file": "processed_clusters/vena_cava/c_extrinsic_compression_a_neoplastic.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Retroperitoneal lymphadenopathy",
+      "raw": "Retroperitoneal lymphadenopathy (adults) ← metastatic disease, lymphoma, granulomatous disease (TB)",
+      "frequency": null
+    },
+    {
+      "name": "Renal + adrenal tumors",
+      "raw": "Renal + adrenal tumors (children)",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic masses",
+      "raw": "Hepatic masses",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic tumor",
+      "raw": "Pancreatic tumor",
+      "frequency": null
+    },
+    {
+      "name": "Tumor-induced desmoplastic reaction (eg, metastatic carcinoid) (b)  nonneoplastic",
+      "raw": "Tumor-induced desmoplastic reaction (eg, metastatic carcinoid) (b)  nonneoplastic",
+      "frequency": null
+    },
+    {
+      "name": "Hepatomegaly",
+      "raw": "Hepatomegaly",
+      "frequency": null
+    },
+    {
+      "name": "Tortuous aorta / aortic aneurysm",
+      "raw": "Tortuous aorta / aortic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal hematoma",
+      "raw": "Retroperitoneal hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Massive ascites",
+      "raw": "Massive ascites",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal fibrosis",
+      "raw": "Retroperitoneal fibrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

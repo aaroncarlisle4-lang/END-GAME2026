@@ -1,0 +1,37 @@
+{
+  "finding": "Path: single dilated feeding artery + single draining vein",
+  "slug": "path_single_dilated_feeding_artery_single_draining_vein_f38eb0",
+  "chapter": "Isolated Angiomyolipoma (50-70%",
+  "source_file": "processed_clusters/isolated_angiomyolipoma_50_70/path_single_dilated_feeding_artery_single_draining_vein_f38eb0.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "asymptomatic with abdominal bruit / abdominal pain",
+      "raw": "asymptomatic with abdominal bruit / abdominal pain",
+      "frequency": null
+    },
+    {
+      "name": "persistent / delayed gross hematuria",
+      "raw": "persistent / delayed gross hematuria (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Cardiomegaly + high-output cardiac failure",
+      "raw": "Cardiomegaly + high-output cardiac failure (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Renin-mediated hypertension",
+      "raw": "Renin-mediated hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Hydronephrosis",
+      "raw": "Hydronephrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  tortuous varices over time √  enlargement of renal vein US: √   focal area of aliasing / color saturation ← high flow rate + vessel tortuosity √   ⇑ flow velocity + ⇓ resistance in feeding artery √  arterial pulsations in draining vein Angio: √  detailed vascular anatomy for planning embolic occlusion √  diminished nephrogram ± cortical atrophy distal to fistula ← reduced flow to renal segment Cx: Prognosis:  spontaneous closure within a few months"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Cause: enlargement of intercostal veins",
+  "slug": "cause_enlargement_of_intercostal_veins_92465f",
+  "chapter": "RIBS",
+  "source_file": "processed_clusters/ribs/cause_enlargement_of_intercostal_veins_92465f.md",
+  "quality_score": 0.533,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "NEUROGENIC",
+      "raw": "NEUROGENIC",
+      "frequency": null
+    },
+    {
+      "name": "Intercostal neuroma",
+      "raw": "Intercostal neuroma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis type 1",
+      "raw": "Neurofibromatosis type 1",
+      "frequency": null
+    },
+    {
+      "name": "Poliomyelitis / quadriplegia / paraplegia",
+      "raw": "Poliomyelitis / quadriplegia / paraplegia",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "NEUROGENIC": [],
+    "Intercostal neuroma": [],
+    "Neurofibromatosis type 1": [],
+    "Poliomyelitis / quadriplegia / paraplegia": []
+  },
+  "context": "(a)  AV malformation of chest wall (b)  Superior vena cava obstruction"
+}

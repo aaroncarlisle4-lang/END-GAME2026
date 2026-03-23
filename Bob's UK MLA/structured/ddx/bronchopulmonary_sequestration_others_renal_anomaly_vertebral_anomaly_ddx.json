@@ -1,0 +1,27 @@
+{
+  "finding": "Bronchopulmonary Sequestration — Others: renal anomaly, vertebral anomaly (DDx)",
+  "slug": "bronchopulmonary_sequestration_others_renal_anomaly_vertebral_anomaly_ddx",
+  "chapter": "Bronchopulmonary Sequestration",
+  "source_file": "processed_clusters/bronchopulmonary_sequestration/bronchopulmonary_sequestration_others_renal_anomaly_vertebral_anomaly_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "intrathoracic kidney",
+      "raw": "intrathoracic kidney",
+      "frequency": null
+    },
+    {
+      "name": "scimitar syndrome",
+      "raw": "scimitar syndrome (with systemic supply to affected lung)",
+      "frequency": null
+    },
+    {
+      "name": "hepatic herniation through diaphragm",
+      "raw": "hepatic herniation through diaphragm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "opaque hemithorax ± ipsilateral pleural effusion (if sequestration large) | ± air-fluid level | homogeneous well-circumscribed soft-tissue density mass (no bronchial communication) | lack of perfusion during pulmonary phase followed by rapid perfusion in systemic phase"
+}

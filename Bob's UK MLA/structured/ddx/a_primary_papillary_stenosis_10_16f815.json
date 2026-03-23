@@ -1,0 +1,27 @@
+{
+  "finding": "A. PRIMARY PAPILLARY STENOSIS (10%",
+  "slug": "a_primary_papillary_stenosis_10_16f815",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/a_primary_papillary_stenosis_10_16f815.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital malformation of papilla",
+      "raw": "Congenital malformation of papilla",
+      "frequency": null
+    },
+    {
+      "name": "Sequelae of acute / chronic inflammation",
+      "raw": "Sequelae of acute / chronic inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Adenomyosis",
+      "raw": "Adenomyosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

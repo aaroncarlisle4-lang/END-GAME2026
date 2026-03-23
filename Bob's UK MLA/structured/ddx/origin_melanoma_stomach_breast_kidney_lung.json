@@ -1,0 +1,37 @@
+{
+  "finding": "Origin: melanoma > stomach > breast > kidney > lung",
+  "slug": "origin_melanoma_stomach_breast_kidney_lung",
+  "chapter": "D. UNDERDISTENDED BLADDER",
+  "source_file": "processed_clusters/d_underdistended_bladder/origin_melanoma_stomach_breast_kidney_lung.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma autoptic bladder involvement in 15% of NHL, in 5% of Hodgkin disease",
+      "raw": "Lymphoma autoptic bladder involvement in 15% of NHL, in 5% of Hodgkin disease",
+      "frequency": "15%"
+    },
+    {
+      "name": "Leukemia microscopic involvement in 22% at autopsy",
+      "raw": "Leukemia microscopic involvement in 22% at autopsy",
+      "frequency": "22%"
+    },
+    {
+      "name": "Direct extension (common) ← prostate, rectum, sigmoid, cervix, ovary",
+      "raw": "Direct extension (common) ← prostate, rectum, sigmoid, cervix, ovary",
+      "frequency": "common"
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "urinary symptoms in 80%",
+      "raw": "urinary symptoms in 80%",
+      "frequency": "80%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  solitary / multiple nodules Location:   on posterior wall"
+}

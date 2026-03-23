@@ -1,0 +1,92 @@
+{
+  "finding": "Nonoliguric Transient Renal Dysfunction",
+  "slug": "nonoliguric_transient_renal_dysfunction_c3ae32",
+  "chapter": "CONTROL OF HEART RATE",
+  "source_file": "processed_clusters/control_of_heart_rate/nonoliguric_transient_renal_dysfunction_c3ae32.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "serum creatinine level peaks on days 3-5",
+      "raw": "serum creatinine level peaks on days 3-5",
+      "frequency": null
+    },
+    {
+      "name": "serum creatinine returns to baseline values within 14-21 days",
+      "raw": "serum creatinine returns to baseline values within 14-21 days",
+      "frequency": null
+    },
+    {
+      "name": "fractional excretion of sodium < 0.01",
+      "raw": "fractional excretion of sodium < 0.01 (DISTINCTIVE CHARACTERISTIC compared with other causes)",
+      "frequency": null
+    },
+    {
+      "name": "Preexisting renal insufficiency",
+      "raw": "Preexisting renal insufficiency (serum creatinine > 1.5 mg/dL)",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus with renal insufficiency (possibly related to dehydration / hyperuricemia) ◊  Ratio 3 nonionic LOCM appear to be 50% less nephrotoxic than ratio 1.5 ionic",
+      "raw": "Diabetes mellitus with renal insufficiency (possibly related to dehydration / hyperuricemia) ◊  Ratio 3 nonionic LOCM appear to be 50% less nephrotoxic than ratio 1.5 ionic",
+      "frequency": "50%"
+    },
+    {
+      "name": "Dehydration",
+      "raw": "Dehydration",
+      "frequency": null
+    },
+    {
+      "name": "Cardiovascular disease",
+      "raw": "Cardiovascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Use of diuretics",
+      "raw": "Use of diuretics",
+      "frequency": null
+    },
+    {
+      "name": "Advanced age > 70 years",
+      "raw": "Advanced age > 70 years",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma",
+      "raw": "Multiple myeloma (in dehydrated patients)",
+      "frequency": null
+    },
+    {
+      "name": "Hypertension",
+      "raw": "Hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Hyperuricemia / uricosuria",
+      "raw": "Hyperuricemia / uricosuria",
+      "frequency": null
+    },
+    {
+      "name": "High dose of contrast material",
+      "raw": "High dose of contrast material",
+      "frequency": null
+    },
+    {
+      "name": "Vasoconstriction (a)  ↑ in intrarenal pressure induced by hypertonicity (b)  intrarenal smooth muscle contraction ← hypertonic substances",
+      "raw": "Vasoconstriction (a)  ↑ in intrarenal pressure induced by hypertonicity (b)  intrarenal smooth muscle contraction ← hypertonic substances",
+      "frequency": null
+    },
+    {
+      "name": "RBC aggregation in medullary circulation",
+      "raw": "RBC aggregation in medullary circulation",
+      "frequency": null
+    },
+    {
+      "name": "Direct tubular cell injury",
+      "raw": "Direct tubular cell injury",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  transient decline of renal function Acute Renal Failure =  sudden + rapid deterioration of renal function =  increase in serum creatinine of > 25% or to > 2 mg/dL within 2 days of receiving contrast material Frequency:   1-30%; 3rd most common cause of in-hospital renal failure after hypotension and surgery Risk factors: Contrast agent-independent acute kidney injury is NOT significantly different and may be clinically indistinguishable when adjusted for patient risk factors. HOCM ◊  Diabetics with normal renal function are not at ↑ risk! CAVE: ◊  Small decreases in renal function may great"
+}

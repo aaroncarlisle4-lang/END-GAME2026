@@ -1,0 +1,42 @@
+{
+  "finding": "Ground-glass Opacity & Reticular Change",
+  "slug": "ground_glass_opacity_reticular_change",
+  "chapter": "Ground-glass Opacities & Interlobular Septal Lines",
+  "source_file": "processed_clusters/ground_glass_opacities_interlobular_septal_lines/ground_glass_opacity_reticular_change.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nonspecific interstitial pneumonia",
+      "raw": "Nonspecific interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Desquamative interstitial pneumonia",
+      "raw": "Desquamative interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Acute interstitial pneumonia",
+      "raw": "Acute interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "BOOP",
+      "raw": "BOOP",
+      "frequency": null
+    },
+    {
+      "name": "Chronic eosinophilic pneumonia",
+      "raw": "Chronic eosinophilic pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Churg-Strauss syndrome",
+      "raw": "Churg-Strauss syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Reversed Halo / Atoll Sign =  focal area of ground-glass opacity surrounded by a complete / incomplete ring of denser consolidation initially thought to be specific for organizing pneumonia Cause:   (a)   variety of infections (b)   noninfectious granulomatous disease (c)   malignancy"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Tumors Localizing to Hematopoietic Marrow",
+  "slug": "tumors_localizing_to_hematopoietic_marrow",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/myeloproliferative_disorders/tumors_localizing_to_hematopoietic_marrow.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Plasma cell myeloma",
+      "raw": "Plasma cell myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytic lymphoma",
+      "raw": "Histiocytic lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

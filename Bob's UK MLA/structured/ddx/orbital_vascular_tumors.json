@@ -1,0 +1,52 @@
+{
+  "finding": "Orbital Vascular Tumors",
+  "slug": "orbital_vascular_tumors",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/orbital_vascular_tumors.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Orbital varix",
+      "raw": "Orbital varix",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformation",
+      "raw": "Arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Carotid-cavernous fistula",
+      "raw": "Carotid-cavernous fistula",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma: capillary / cavernous",
+      "raw": "Hemangioma: capillary / cavernous",
+      "frequency": null
+    },
+    {
+      "name": "Blood cyst",
+      "raw": "Blood cyst",
+      "frequency": null
+    },
+    {
+      "name": "Arterial malformation",
+      "raw": "Arterial malformation",
+      "frequency": null
+    },
+    {
+      "name": "Glomus tumor",
+      "raw": "Glomus tumor",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

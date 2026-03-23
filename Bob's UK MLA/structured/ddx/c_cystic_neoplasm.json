@@ -1,0 +1,87 @@
+{
+  "finding": "C. CYSTIC NEOPLASM",
+  "slug": "c_cystic_neoplasm",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/c_cystic_neoplasm.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intraductal papillary mucinous tumor",
+      "raw": "Intraductal papillary mucinous tumor (36%)",
+      "frequency": "36%"
+    },
+    {
+      "name": "Serous cystadenoma",
+      "raw": "Serous cystadenoma (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Pseudocyst",
+      "raw": "Pseudocyst (14%)",
+      "frequency": "14%"
+    },
+    {
+      "name": "Cystadenocarcinoma",
+      "raw": "Cystadenocarcinoma (7%)",
+      "frequency": "7%"
+    },
+    {
+      "name": "Mucinous cystic neoplasm (b)  rare cystic pancreatic neoplasms",
+      "raw": "Mucinous cystic neoplasm (b)  rare cystic pancreatic neoplasms",
+      "frequency": "rare"
+    },
+    {
+      "name": "Solid pseudopapillary tumor",
+      "raw": "Solid pseudopapillary tumor",
+      "frequency": null
+    },
+    {
+      "name": "Acinar cell cystadenocarcinoma",
+      "raw": "Acinar cell cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal lymphangioma",
+      "raw": "Retroperitoneal lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal hemangioma",
+      "raw": "Retroperitoneal hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic neuroendocrine tumor (c)  solid pancreatic neoplasms with cystic degeneration",
+      "raw": "Cystic neuroendocrine tumor (c)  solid pancreatic neoplasms with cystic degeneration",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic ductal adenocarcinoma",
+      "raw": "Pancreatic ductal adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic pancreatic endocrine tumor",
+      "raw": "Cystic pancreatic endocrine tumor (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Cystic metastasis",
+      "raw": "Cystic metastasis (3-12% at autopsy)",
+      "frequency": "12%"
+    },
+    {
+      "name": "Cystic teratoma",
+      "raw": "Cystic teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic sarcoma",
+      "raw": "Pancreatic sarcoma (extremely rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   < 10% of all pancreatic neoplasms (a)  common cystic pancreatic neoplasms (5-15%) RCC, melanoma, lung tumors, breast carcinoma, hepatocellular carcinoma, ovarian carcinoma Features of malignancy: √  > 10 mm main pancreatic duct dilatation √  > 10 mm large mural node √  > 3 cm large cyst √  > 2.5 SUV positivity on FDG √  irregular / septate features √  calcification Imaging performance for malignant cystic lesion: FDG-PET:  56% sensitive, 83% specific CT:  81% sensitive, 100% specific PET/CT:  94%sensitive, 100% specific MRCP can image the pancreatic duct after Whipple procedure, d"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Testicular Microlithiasis (DDx)",
+  "slug": "testicular_microlithiasis_ddx_519000",
+  "chapter": "Testicular Microlithiasis",
+  "source_file": "processed_clusters/testicular_microlithiasis/testicular_microlithiasis_ddx_519000.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "postinflammatory changes",
+      "raw": "postinflammatory changes",
+      "frequency": null
+    },
+    {
+      "name": "scars",
+      "raw": "scars",
+      "frequency": null
+    },
+    {
+      "name": "granulomatous changes",
+      "raw": "granulomatous changes",
+      "frequency": null
+    },
+    {
+      "name": "benign adenomatoid tumor",
+      "raw": "benign adenomatoid tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "1-2-mm (> 5) hyperechoic nonshadowing foci scattered throughout the parenchyma of both | may be asymmetrically distributed, unilateral, clustered in periphery"
+}

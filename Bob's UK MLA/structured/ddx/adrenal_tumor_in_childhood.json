@@ -1,0 +1,32 @@
+{
+  "finding": "Adrenal Tumor in Childhood",
+  "slug": "adrenal_tumor_in_childhood",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/adrenal_tumor_in_childhood.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma (most common extracranial solid tumor)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Adrenocortical carcinoma",
+      "raw": "Adrenocortical carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Dense & Enhancing Lesion",
+  "slug": "dense_enhancing_lesion_ce2c40",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/dense_enhancing_lesion_ce2c40.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "CNS lymphoma",
+      "raw": "CNS lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

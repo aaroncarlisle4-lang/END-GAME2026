@@ -1,0 +1,36 @@
+{
+  "name": "MURAL STRATIFICATION OF INTESTINAL TRACT",
+  "slug": "mural_stratification_of_intestinal_tract",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_hemorrhage/mural_stratification_of_intestinal_tract.md",
+  "definition": "bowel wall thickening with abnormal separation of bowel layers on cross-sectional imaging = layer of fat attenuation (-18 to -64 HU) in submucosa sandwiched between inner + outer hemorrhage secondary to ulcer crater surrounded by a rim of edema overlying submucosal lymphoid follicle",
+  "demographics": {},
+  "dominant_finding": "\"double halo / target\" sign = trilaminar appearance during late arterial phase:",
+  "distribution": "persistent enhancement of bowel wall / segmental arteries",
+  "discriminating_features": [
+    "\"double halo / target\" sign = trilaminar appearance during late arterial phase:",
+    "contrast enhancement of inner layer:",
+    "nonenhanced interposed layer of (3) submucosa with various degrees of attenuation:",
+    "contrast enhancement of outer layer:",
+    "low-density / water-density separation"
+  ],
+  "other_features": {
+    "general": [],
+    "CECT": [
+      "\"double halo / target\" sign = trilaminar appearance during late arterial phase:",
+      "contrast enhancement of inner layer:",
+      "nonenhanced interposed layer of (3) submucosa with various degrees of attenuation:",
+      "contrast enhancement of outer layer:",
+      "low-density / water-density separation",
+      "signs of bowel infarction:",
+      "free peritoneal fluid",
+      "asymmetric bowel wall enhancement",
+      "persistent enhancement of bowel wall / segmental arteries",
+      "arterial / venous filling defects",
+      "increased density of mesentery",
+      "bowel obstruction",
+      "\"snow-cone\" appearance of duodenum"
+    ]
+  },
+  "clinical": {}
+}

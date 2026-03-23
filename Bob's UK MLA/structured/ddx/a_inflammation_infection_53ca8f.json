@@ -1,0 +1,37 @@
+{
+  "finding": "A. INFLAMMATION / INFECTION",
+  "slug": "a_inflammation_infection_53ca8f",
+  "chapter": "Thickened Gastric Folds",
+  "source_file": "processed_clusters/thickened_gastric_folds/a_inflammation_infection_53ca8f.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Inflammatory gastritis:",
+      "raw": "Inflammatory gastritis:",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Infectious gastritis:",
+      "raw": "Infectious gastritis:",
+      "frequency": null
+    },
+    {
+      "name": "Pseudolymphoma",
+      "raw": "Pseudolymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "alcoholic, hypertrophic, antral, corrosive, postirradiation, gastric cooling bacterial invasion, bacterial toxins from botulism, diphtheria, dysentery, typhoid fever, anisakiasis, TB, syphilis"
+}

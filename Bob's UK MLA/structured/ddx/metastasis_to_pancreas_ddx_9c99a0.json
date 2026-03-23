@@ -1,0 +1,22 @@
+{
+  "finding": "Metastasis To Pancreas (DDx)",
+  "slug": "metastasis_to_pancreas_ddx_9c99a0",
+  "chapter": "Metastasis To Pancreas",
+  "source_file": "processed_clusters/metastasis_to_pancreas/metastasis_to_pancreas_ddx_9c99a0.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ductal pancreatic adenocarcinoma (uniformly hypo- / nonenhancing mass",
+      "raw": "ductal pancreatic adenocarcinoma (uniformly hypo- / nonenhancing mass",
+      "frequency": null
+    },
+    {
+      "name": "encasement of vessels); neuroendocrine tumor",
+      "raw": "encasement of vessels); neuroendocrine tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "isoattenuating relative to pancreas (5%) | peripheral enhancement of lesion > 1.5 cm (70%) | homogeneous enhancement of small lesion | hypointense on T1WI + hyperintense on T2WI"
+}

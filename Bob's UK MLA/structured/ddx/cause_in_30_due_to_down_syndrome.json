@@ -1,0 +1,27 @@
+{
+  "finding": "Cause: in 30% due to Down syndrome",
+  "slug": "cause_in_30_due_to_down_syndrome",
+  "chapter": "B. LIVER",
+  "source_file": "processed_clusters/b_liver/cause_in_30_due_to_down_syndrome.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Severe duodenal stenosis",
+      "raw": "Severe duodenal stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal web",
+      "raw": "Duodenal web",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal duplication cyst",
+      "raw": "Duodenal duplication cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

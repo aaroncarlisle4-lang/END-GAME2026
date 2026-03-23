@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoma Of Gastrointestinal Tract (DDx)",
+  "slug": "lymphoma_of_gastrointestinal_tract_ddx_1_203b7a",
+  "chapter": "Lymphoma Of Gastrointestinal Tract",
+  "source_file": "processed_clusters/lymphoma_of_gastrointestinal_tract/lymphoma_of_gastrointestinal_tract_ddx_1_203b7a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "simple peptic ulcer",
+      "raw": "simple peptic ulcer",
+      "frequency": null
+    },
+    {
+      "name": "superficial carcinoma",
+      "raw": "superficial carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "circumferential bulky mass in intestinal wall, often extending into mesentery + regional | asymmetric bowel wall involvement ± exophytic component | ± intussusception | obstruction unusual ← tumor soft and pliable without desmoplastic response"
+}

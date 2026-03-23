@@ -1,0 +1,37 @@
+{
+  "finding": "Placental Tumor",
+  "slug": "placental_tumor_2b2410",
+  "chapter": "PLACENTA",
+  "source_file": "processed_clusters/placenta/placental_tumor_2b2410.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "TROPHOBLASTIC",
+      "raw": "TROPHOBLASTIC",
+      "frequency": null
+    },
+    {
+      "name": "Complete hydatidiform mole",
+      "raw": "Complete hydatidiform mole",
+      "frequency": null
+    },
+    {
+      "name": "Partial hydatidiform mole",
+      "raw": "Partial hydatidiform mole",
+      "frequency": null
+    },
+    {
+      "name": "Invasive mole",
+      "raw": "Invasive mole",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

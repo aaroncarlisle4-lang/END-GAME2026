@@ -1,0 +1,27 @@
+{
+  "finding": "Adult Respiratory Distress Syndrome (DDx)",
+  "slug": "adult_respiratory_distress_syndrome_ddx_aa3b9d",
+  "chapter": "Adult Respiratory Distress Syndrome",
+  "source_file": "processed_clusters/adult_respiratory_distress_syndrome/adult_respiratory_distress_syndrome_ddx_aa3b9d.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cardiogenic edema (cardiomegaly",
+      "raw": "cardiogenic edema (cardiomegaly",
+      "frequency": null
+    },
+    {
+      "name": "apical vascular distribution",
+      "raw": "apical vascular distribution",
+      "frequency": null
+    },
+    {
+      "name": "Kerley lines)",
+      "raw": "Kerley lines)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "perihilar areas of increased opacity following rapidly | widespread alveolar consolidation with predominantly peripheral cortical distribution | air bronchogram | gravitational gradient (best seen on CT) ← dependent atelectasis"
+}

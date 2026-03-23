@@ -1,0 +1,52 @@
+{
+  "finding": "Postmenopausal Uterine Bleeding",
+  "slug": "postmenopausal_uterine_bleeding",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/postmenopausal_uterine_bleeding.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endometrial atrophy",
+      "raw": "Endometrial atrophy (in 60-75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "thin atrophic endometrium prone to superficial ulceration",
+      "raw": "thin atrophic endometrium prone to superficial ulceration",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial hyperplasia",
+      "raw": "Endometrial hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial polyp",
+      "raw": "Endometrial polyp",
+      "frequency": null
+    },
+    {
+      "name": "Submucosal fibroid",
+      "raw": "Submucosal fibroid",
+      "frequency": null
+    },
+    {
+      "name": "Adenomyoma",
+      "raw": "Adenomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial carcinoma",
+      "raw": "Endometrial carcinoma (in 7-20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Estrogen withdrawal",
+      "raw": "Estrogen withdrawal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  in 75% endometrial thickness < 4-5 mm ◊  Patient may forego endometrial biopsy! √  in 25% endometrial thickness of 6-15 mm √  hypoechoic mass with an overlying normal echogenic endometrium √  ± acoustic attenuation √  ± prolapse into endometrial cavity Rx:   can be removed at hysteroscopy if > 50% of mass projects into endometrial cavity √  indistinguishable from submucosal fibroid Optimal time of imaging: immediately after cessation of bleeding when endometrium is presumed to be thinnest Rx:     any focal / generalized thickness > 5 mm at transvaginal US requires further investigation (son"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Embryonal Rhabdomyosarcoma Of Biliary Tree (DDx)",
+  "slug": "embryonal_rhabdomyosarcoma_of_biliary_tree_ddx_48653c",
+  "chapter": "Embryonal Rhabdomyosarcoma Of Biliary Tree",
+  "source_file": "processed_clusters/embryonal_rhabdomyosarcoma_of_biliary_tree/embryonal_rhabdomyosarcoma_of_biliary_tree_ddx_48653c.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "choledochal cyst",
+      "raw": "choledochal cyst",
+      "frequency": null
+    },
+    {
+      "name": "infantile hemangioendothelioma",
+      "raw": "infantile hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "(intense peripheral nodular",
+      "raw": "(intense peripheral nodular",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "NO / intense heterogeneous globular enhancement | T1 hypointense + T2 hyperintense / predominantly fluid-intensity mass in CBD or biliary | heterogeneous intrahepatic mass with large areas of fluid | partially cystic mass within / adjacent to CBD causing mural irregularity of duct"
+}

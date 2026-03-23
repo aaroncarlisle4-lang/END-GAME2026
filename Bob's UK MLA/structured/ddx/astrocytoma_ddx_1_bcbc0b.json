@@ -1,0 +1,27 @@
+{
+  "finding": "Astrocytoma (DDx)",
+  "slug": "astrocytoma_ddx_1_bcbc0b",
+  "chapter": "Astrocytoma",
+  "source_file": "processed_clusters/astrocytoma/astrocytoma_ddx_1_bcbc0b.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "hemangioblastoma",
+      "raw": "hemangioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "atypical medulloblastoma",
+      "raw": "atypical medulloblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mural tumor nodule located in wall of cerebellar cyst | T1-isointense + T2-hyperintense to normal brain | small rim of vasogenic edema (low biologic activity) | increased heterogeneous signal intensity on early Gd-DTPA-enhanced T1WI;"
+}

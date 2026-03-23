@@ -1,0 +1,42 @@
+{
+  "finding": "A. CONGENITAL",
+  "slug": "a_congenital_4",
+  "chapter": "E. EXTRINSIC COMPRESSION",
+  "source_file": "processed_clusters/e_extrinsic_compression/a_congenital_4.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Jejunal atresia",
+      "raw": "Jejunal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Ileal atresia / stenosis",
+      "raw": "Ileal atresia / stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Enteric duplication: located on antimesenteric side, mostly in ileum",
+      "raw": "Enteric duplication: located on antimesenteric side, mostly in ileum",
+      "frequency": null
+    },
+    {
+      "name": "Midgut volvulus: arrest in rotation + fixation of small bowel during fetal life",
+      "raw": "Midgut volvulus: arrest in rotation + fixation of small bowel during fetal life",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric cyst from meconium peritonitis: located on mesenteric side",
+      "raw": "Mesenteric cyst from meconium peritonitis: located on mesenteric side",
+      "frequency": null
+    },
+    {
+      "name": "Meckel diverticulum",
+      "raw": "Meckel diverticulum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

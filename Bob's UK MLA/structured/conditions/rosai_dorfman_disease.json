@@ -1,0 +1,32 @@
+{
+  "name": "ROSAI-DORFMAN DISEASE",
+  "slug": "rosai_dorfman_disease",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/rosai_dorfman_disease.md",
+  "definition": "rare benign histiocytosis",
+  "demographics": {
+    "Etiology": "reaction to infectious agents / autoimmune process",
+    "Histo": "polymorphous infiltrate of lymphoplasmacytic cells and histiocytes of varying size",
+    "Age": "primarily in children + young adults; M > F",
+    "Location": "cerebral convexities, parasagittal, petroclival, suprasellar regions"
+  },
+  "dominant_finding": "central low SI on T2WI ← release of free radicals by inflammatory macrophages",
+  "distribution": "cerebral convexities, parasagittal, petroclival, suprasellar regions",
+  "discriminating_features": [
+    "well-circumscribed dural-based iso- to hyperattenuating single / multiple masses",
+    "isointense on T1WI + iso- to hypointense on T2WI:",
+    "central low SI on T2WI ← release of free radicals by inflammatory macrophages",
+    "marked enhancement + dural tail (common)",
+    "edema within adjacent brain parenchyma (frequent)"
+  ],
+  "other_features": {
+    "general": [
+      "well-circumscribed dural-based iso- to hyperattenuating single / multiple masses",
+      "isointense on T1WI + iso- to hypointense on T2WI:",
+      "central low SI on T2WI ← release of free radicals by inflammatory macrophages",
+      "marked enhancement + dural tail (common)",
+      "edema within adjacent brain parenchyma (frequent)"
+    ]
+  },
+  "clinical": {}
+}

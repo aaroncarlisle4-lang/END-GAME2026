@@ -1,0 +1,27 @@
+{
+  "finding": "F. TRAUMA ◊ One of the most common causes of pancreatitis in childhood!",
+  "slug": "f_trauma_one_of_the_most_common_causes_of_pancreatitis_in_childhood",
+  "chapter": "D. METABOLIC DISORDERS",
+  "source_file": "processed_clusters/d_metabolic_disorders/f_trauma_one_of_the_most_common_causes_of_pancreatitis_in_childhood.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Penetrating ulcer",
+      "raw": "Penetrating ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Blunt / penetrating trauma; nonaccidental trauma",
+      "raw": "Blunt / penetrating trauma; nonaccidental trauma",
+      "frequency": null
+    },
+    {
+      "name": "Surgery",
+      "raw": "Surgery (in 0.8% of Billroth-II resections, 0.8% of splenectomies, 0.7% of choledochal surgery, 0.4% of aortic graft surgery)",
+      "frequency": "0.8%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

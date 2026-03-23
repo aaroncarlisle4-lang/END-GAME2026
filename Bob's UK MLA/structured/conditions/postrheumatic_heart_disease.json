@@ -1,0 +1,20 @@
+{
+  "name": "POSTRHEUMATIC HEART DISEASE",
+  "slug": "postrheumatic_heart_disease",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/postrheumatic_heart_disease.md",
+  "definition": "",
+  "demographics": {
+    "Path": "pancarditis with vegetations forming predominantly on mitral + aortic valve → scarring",
+    "Location": "mitral valve > aortic valve"
+  },
+  "dominant_finding": "",
+  "distribution": "mitral valve > aortic valve",
+  "discriminating_features": [],
+  "other_features": {
+    "general": []
+  },
+  "clinical": {
+    "Cx": "valvular malfunction (stenosis / insufficiency) → volume overload of proximal cardiac"
+  }
+}

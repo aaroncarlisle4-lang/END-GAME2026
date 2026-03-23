@@ -1,0 +1,27 @@
+{
+  "finding": "C. RENAL ECTOPIA",
+  "slug": "c_renal_ectopia",
+  "chapter": "B. SMALL KIDNEY",
+  "source_file": "processed_clusters/b_small_kidney/c_renal_ectopia.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pelvic kidney",
+      "raw": "Pelvic kidney",
+      "frequency": null
+    },
+    {
+      "name": "Crossed fused ectopia",
+      "raw": "Crossed fused ectopia",
+      "frequency": null
+    },
+    {
+      "name": "Intrathoracic kidney",
+      "raw": "Intrathoracic kidney",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

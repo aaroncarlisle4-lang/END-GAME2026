@@ -1,0 +1,77 @@
+{
+  "finding": "Fission-produced Radionuclides",
+  "slug": "fission_produced_radionuclides",
+  "chapter": "QUALITY CONTROL OF RADIOPHARMACEUTICALS",
+  "source_file": "processed_clusters/quality_control_of_radiopharmaceuticals/fission_produced_radionuclides.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "splitting of a heavy nucleus into smaller nuclei",
+      "raw": "splitting of a heavy nucleus into smaller nuclei",
+      "frequency": null
+    },
+    {
+      "name": "used to produce 131I, 99Mo",
+      "raw": "used to produce 131I, 99Mo",
+      "frequency": null
+    },
+    {
+      "name": "measured in dose calibrator with lead shielding of vial",
+      "raw": "measured in dose calibrator with lead shielding of vial (filters 140 keV but permits 740 and 780 keV of 99Mo to pass through)",
+      "frequency": null
+    },
+    {
+      "name": "Radiochemical Impurity",
+      "raw": "Radiochemical Impurity",
+      "frequency": null
+    },
+    {
+      "name": "Test frequency:   with every elution",
+      "raw": "Test frequency:   with every elution",
+      "frequency": null
+    },
+    {
+      "name": "Precise registration of different compounds of 99mTc, eg,",
+      "raw": "Precise registration of different compounds of 99mTc, eg,",
+      "frequency": null
+    },
+    {
+      "name": "can be monitored by paper chromatography",
+      "raw": "can be monitored by paper chromatography",
+      "frequency": null
+    },
+    {
+      "name": "one drop of generator eluate placed on one end of special test paper containing aluminum reagent",
+      "raw": "one drop of generator eluate placed on one end of special test paper containing aluminum reagent",
+      "frequency": null
+    },
+    {
+      "name": "equal-sized drop of a standard solution of Al3+ (10 ppm) is placed on other end of strip",
+      "raw": "equal-sized drop of a standard solution of Al3+ (10 ppm) is placed on other end of strip",
+      "frequency": null
+    },
+    {
+      "name": "if color at center of drop eluate is lighter than that of standard solution, the eluate has passed the colorimetric test",
+      "raw": "if color at center of drop eluate is lighter than that of standard solution, the eluate has passed the colorimetric test",
+      "frequency": null
+    },
+    {
+      "name": "Effect of impurity:   degradation of image quality",
+      "raw": "Effect of impurity:   degradation of image quality",
+      "frequency": null
+    },
+    {
+      "name": "Radiopharmaceutical Sterility and Pyrogenicity",
+      "raw": "Radiopharmaceutical Sterility and Pyrogenicity",
+      "frequency": null
+    },
+    {
+      "name": "USP XX Test",
+      "raw": "USP XX Test",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Carrier-free product Radionuclide Impurity =  amount (µCi) of radiocontaminant per amount (µCi/mCi) of desired radionuclide 99Mo Breakthrough Test Test frequency:   with every elution (a)  NRC allowable contamination of 1÷1,000 = 1 µCi 99Mo per 1 mCi of 99mTc (b)  USP limit of 0.15 µCi 99Mo per 1 mCi 99mTc (c)  < 5 µCi 99Mo per administered dose (NRC dropped this requirement, but nonagreement states may still require this) (d)  chemical evaluation: 99Mo contaminated eluate forms colored complexes with phenylhydrazine (for reactor product generators) Effect of impurity:   increased radiation"
+}

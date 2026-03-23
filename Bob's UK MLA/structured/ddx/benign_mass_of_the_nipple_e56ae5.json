@@ -1,0 +1,27 @@
+{
+  "finding": "Benign Mass of the Nipple",
+  "slug": "benign_mass_of_the_nipple_e56ae5",
+  "chapter": "Nipple-Areolar Complex",
+  "source_file": "processed_clusters/nipple_areolar_complex/benign_mass_of_the_nipple_e56ae5.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Papilloma",
+      "raw": "Papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Fibroadenoma",
+      "raw": "Fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Nipple adenoma",
+      "raw": "Nipple adenoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

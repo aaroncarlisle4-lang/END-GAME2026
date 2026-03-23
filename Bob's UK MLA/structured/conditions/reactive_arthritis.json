@@ -1,0 +1,36 @@
+{
+  "name": "REACTIVE ARTHRITIS",
+  "slug": "reactive_arthritis",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/reactive_arthritis.md",
+  "definition": "REITER SYNDROME noninfectious, asymmetric inflammatory oligoarthropathy characterized by the triad of",
+  "demographics": {
+    "Location": "palm, sole"
+  },
+  "dominant_finding": "articular soft-tissue swelling + joint space narrowing in 50% (particularly knee, ankle, foot)",
+  "distribution": "palm, sole",
+  "discriminating_features": [
+    "polyarthritis",
+    "articular soft-tissue swelling + joint space narrowing in 50% (particularly knee, ankle, foot)",
+    "widening + inflammation of Achilles + plantar fascial tendons → heel swelling +",
+    "\"fluffy\" periosteal reaction (DISTINCTIVE) at metatarsal necks, proximal phalanges,",
+    "juxtaarticular osteoporosis (rare in acute stage)"
+  ],
+  "other_features": {
+    "general": [
+      "polyarthritis",
+      "articular soft-tissue swelling + joint space narrowing in 50% (particularly knee, ankle, foot)",
+      "widening + inflammation of Achilles + plantar fascial tendons → heel swelling +",
+      "\"fluffy\" periosteal reaction (DISTINCTIVE) at metatarsal necks, proximal phalanges,",
+      "juxtaarticular osteoporosis (rare in acute stage)",
+      "calcaneal spur at insertion of plantar fascia + Achilles tendon",
+      "periarticular deossification",
+      "marginal erosions, loss of joint space",
+      "bilateral sacroiliac changes indistinguishable from ankylosing / psoriatic spondylitis (in",
+      "paravertebral ossification = isolated \"floating osteophyte\" usually in thoracolumbar area"
+    ]
+  },
+  "clinical": {
+    "Cx": "gastric ulcer + hemorrhage; aortic incompetence; heart block; amyloidosis"
+  }
+}

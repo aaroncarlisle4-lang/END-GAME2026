@@ -1,0 +1,29 @@
+{
+  "name": "SCHMORL NODE",
+  "slug": "schmorl_node",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/schmorl_node.md",
+  "definition": "CARTILAGINOUS NODE superior / inferior intravertebral herniation / prolapse of disk material through weakened area",
+  "demographics": {
+    "Location": "predominantly in thoracolumbar spine"
+  },
+  "dominant_finding": "node of similar signal intensity as disk",
+  "distribution": "predominantly in thoracolumbar spine",
+  "discriminating_features": [
+    "concave defects at upper and lower vertebral endplates with sharp margins",
+    "node of similar signal intensity as disk",
+    "low signal intensity of rim",
+    "associated with narrowed disk space"
+  ],
+  "other_features": {
+    "general": [
+      "concave defects at upper and lower vertebral endplates with sharp margins"
+    ],
+    "MR": [
+      "node of similar signal intensity as disk",
+      "low signal intensity of rim",
+      "associated with narrowed disk space"
+    ]
+  },
+  "clinical": {}
+}

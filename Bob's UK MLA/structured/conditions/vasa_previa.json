@@ -1,0 +1,24 @@
+{
+  "name": "VASA PREVIA",
+  "slug": "vasa_previa",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/vasa_previa.md",
+  "definition": "presence of abnormal fetal vessels within amniotic membranes that are unsupported by",
+  "demographics": {
+    "Prevalence": "0.04%"
+  },
+  "dominant_finding": "Doppler ultrasound demonstrates flow within aberrant vessels overlying the internal os",
+  "distribution": "",
+  "discriminating_features": [
+    "Doppler ultrasound demonstrates flow within aberrant vessels overlying the internal os"
+  ],
+  "other_features": {
+    "general": [
+      "Doppler ultrasound demonstrates flow within aberrant vessels overlying the internal os"
+    ]
+  },
+  "clinical": {
+    "Rx": "cesarean delivery",
+    "Prognosis": "50-100% fetal mortality; fetal survival rate improves from 44% to 97% if"
+  }
+}

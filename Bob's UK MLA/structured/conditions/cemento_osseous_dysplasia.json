@@ -1,0 +1,37 @@
+{
+  "name": "CEMENTO-OSSEOUS DYSPLASIA",
+  "slug": "cemento_osseous_dysplasia",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/cemento_osseous_dysplasia.md",
+  "definition": "CEMENTOMA = FIBROOSTEOMA nonneoplastic benign hamartoma associated with tooth apex diffuse form of periapical cemento-osseous dysplasia",
+  "demographics": {
+    "Histo": "proliferation of connective tissue within periodontal membrane",
+    "Age": "4th-5th decade; in woman: black / Asian descent",
+    "Associated with": "vital nonrestored tooth + intact lamina dura",
+    "Location": "mandible >> maxilla"
+  },
+  "dominant_finding": "initially lytic lesion",
+  "distribution": "mandible >> maxilla",
+  "discriminating_features": [
+    "one / more, closely apposed / confluent, round / ovoid lucent lesion with varying amounts of",
+    "initially lytic lesion",
+    "later mixed lysis + sclerosis with varying amounts of opacity; little expansion",
+    "calcifies centrally with time",
+    "periapical sclerotic sharply marginated area NOT fused to tooth"
+  ],
+  "other_features": {
+    "general": [
+      "one / more, closely apposed / confluent, round / ovoid lucent lesion with varying amounts of",
+      "initially lytic lesion",
+      "later mixed lysis + sclerosis with varying amounts of opacity; little expansion",
+      "calcifies centrally with time",
+      "periapical sclerotic sharply marginated area NOT fused to tooth",
+      "± low-attenuation halo",
+      "adjacent lesions may coalesce",
+      "often multicentric",
+      "no extension into adjacent bone",
+      "no cortical expansion"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,23 @@
+{
+  "name": "LUNG FUNCTION",
+  "slug": "lung_function",
+  "chapter": "CHEST WALL",
+  "source_file": "processed_clusters/disease_entries/chest_wall/lung_function.md",
+  "definition": "characteristic of air trapping and overinflation (eg, asthma, emphysema) rate of gas transfer across alveolocapillary membrane in relation to constant pressure relationship of the change in intrapleural pressure to the volume of gas that moves into the",
+  "demographics": {
+    "Associated with": "increased TLC"
+  },
+  "dominant_finding": "normal level of inflation to 8th posterior rib",
+  "distribution": "normal level of inflation to 8th posterior rib",
+  "discriminating_features": [
+    "normal level of inflation to 8th posterior rib",
+    "height of diaphragm at TLC can provide some indication of lung compliance, particularly"
+  ],
+  "other_features": {
+    "general": [
+      "normal level of inflation to 8th posterior rib",
+      "height of diaphragm at TLC can provide some indication of lung compliance, particularly"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,39 @@
+{
+  "finding": "Commonly associated with: omphalocele",
+  "slug": "commonly_associated_with_omphalocele",
+  "chapter": "UMBILICAL CORD",
+  "source_file": "processed_clusters/umbilical_cord/commonly_associated_with_omphalocele.md",
+  "quality_score": 0.733,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "TRUE UMBILICAL CORD CYST",
+      "raw": "TRUE UMBILICAL CORD CYST (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Omphalomesenteric duct cyst",
+      "raw": "Omphalomesenteric duct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Allantoic cyst =  remnant of umbilical vesicle / allantois; usually degenerates by 6 weeks",
+      "raw": "Allantoic cyst =  remnant of umbilical vesicle / allantois; usually degenerates by 6 weeks",
+      "frequency": null
+    },
+    {
+      "name": "Amniotic inclusion cyst =  amniotic epithelium trapped within umbilical cord",
+      "raw": "Amniotic inclusion cyst =  amniotic epithelium trapped within umbilical cord",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "TRUE UMBILICAL CORD CYST": [
+      "focal thickening of Wharton jelly Prognosis:  usually resolved by 12 weeks MA Prevalence:  3.4% of 1st trimester pregnancies; 20% persist into 2nd trimester Histo:   lined by single layer of flattened epithelium Rarely associated with:   fetal structural anomaly, aneuploidy Size:  4-60 mm in diameter Site:   eccentric in cord Site:   in center of cord"
+    ],
+    "Omphalomesenteric duct cyst": [],
+    "Allantoic cyst =  remnant of umbilical vesicle / allantois; usually degenerates by 6 weeks": [],
+    "Amniotic inclusion cyst =  amniotic epithelium trapped within umbilical cord": []
+  },
+  "context": "√  focal thickening of Wharton jelly Prognosis:  usually resolved by 12 weeks MA Prevalence:  3.4% of 1st trimester pregnancies; 20% persist into 2nd trimester Histo:   lined by single layer of flattened epithelium Rarely associated with:   fetal structural anomaly, aneuploidy Size:  4-60 mm in diameter Site:   eccentric in cord Site:   in center of cord"
+}

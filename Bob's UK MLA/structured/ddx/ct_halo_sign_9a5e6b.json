@@ -1,0 +1,72 @@
+{
+  "finding": "CT Halo Sign",
+  "slug": "ct_halo_sign_9a5e6b",
+  "chapter": "Clinical Assessment of Indeterminate SPN",
+  "source_file": "processed_clusters/clinical_assessment_of_indeterminate_spn/ct_halo_sign_9a5e6b.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "HEMORRHAGIC PULMONARY NODULE",
+      "raw": "HEMORRHAGIC PULMONARY NODULE (a)  hemorrhagic infarction (angioinvasion)",
+      "frequency": null
+    },
+    {
+      "name": "Early invasive aspergillosis",
+      "raw": "Early invasive aspergillosis",
+      "frequency": null
+    },
+    {
+      "name": "Mucormycosis",
+      "raw": "Mucormycosis",
+      "frequency": null
+    },
+    {
+      "name": "Hematogenous candidiasis",
+      "raw": "Hematogenous candidiasis",
+      "frequency": null
+    },
+    {
+      "name": "Coccidioidomycosis (b)  necrotizing vasculitis",
+      "raw": "Coccidioidomycosis (b)  necrotizing vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis (c)  fragility of neovascular tissue",
+      "raw": "Wegener granulomatosis (c)  fragility of neovascular tissue",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic angiosarcoma",
+      "raw": "Metastatic angiosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic choriocarcinoma",
+      "raw": "Metastatic choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic osteosarcoma",
+      "raw": "Metastatic osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Kaposi sarcoma (d)  trauma",
+      "raw": "Kaposi sarcoma (d)  trauma",
+      "frequency": null
+    },
+    {
+      "name": "Following lung biopsy",
+      "raw": "Following lung biopsy",
+      "frequency": null
+    },
+    {
+      "name": "Lung transplant",
+      "raw": "Lung transplant",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  central area of soft-tissue attenuation surrounded by a halo of ground-glass attenuation"
+}

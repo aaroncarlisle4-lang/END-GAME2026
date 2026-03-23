@@ -1,0 +1,27 @@
+{
+  "finding": "A. CHRONIC GU EFFECTS",
+  "slug": "a_chronic_gu_effects_0fef3a",
+  "chapter": "GENITOURINARY DIABETES MELLITUS",
+  "source_file": "processed_clusters/genitourinary_diabetes_mellitus/a_chronic_gu_effects_0fef3a.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Papillary necrosis",
+      "raw": "Papillary necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Renal artery stenosis",
+      "raw": "Renal artery stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Vas deferens calcification",
+      "raw": "Vas deferens calcification",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

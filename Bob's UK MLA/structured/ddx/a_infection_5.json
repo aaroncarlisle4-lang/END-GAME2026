@@ -1,0 +1,37 @@
+{
+  "finding": "A. INFECTION",
+  "slug": "a_infection_5",
+  "chapter": "MURAL STRATIFICATION OF INTESTINAL TRACT",
+  "source_file": "processed_clusters/mural_stratification_of_intestinal_tract/a_infection_5.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gastroenteritis",
+      "raw": "Gastroenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Enterocolitis",
+      "raw": "Enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomembranous colitis",
+      "raw": "Pseudomembranous colitis",
+      "frequency": null
+    },
+    {
+      "name": "Hemolytic-uremic syndrome",
+      "raw": "Hemolytic-uremic syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Chronic granulomatous disease",
+      "raw": "Chronic granulomatous disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

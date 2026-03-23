@@ -1,0 +1,37 @@
+{
+  "finding": "Benign Wall Thickening of Duodenum",
+  "slug": "benign_wall_thickening_of_duodenum",
+  "chapter": "D. TRAUMA",
+  "source_file": "processed_clusters/d_trauma/benign_wall_thickening_of_duodenum.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic dystrophy of duodenal wall =  dilatation of pancreatic ducts in ectopic pancreatic tissue within wall of 2nd portion of duodenum ← duct obstruction",
+      "raw": "Cystic dystrophy of duodenal wall =  dilatation of pancreatic ducts in ectopic pancreatic tissue within wall of 2nd portion of duodenum ← duct obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic hamartoma",
+      "raw": "Pancreatic hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Paraduodenal wall cyst",
+      "raw": "Paraduodenal wall cyst",
+      "frequency": null
+    },
+    {
+      "name": "Myoadenomatosis",
+      "raw": "Myoadenomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Groove pancreatitis",
+      "raw": "Groove pancreatitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

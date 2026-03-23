@@ -1,0 +1,42 @@
+{
+  "finding": "Urinoma (DDx)",
+  "slug": "urinoma_ddx_f86a2a",
+  "chapter": "Urinoma",
+  "source_file": "processed_clusters/urinoma/urinoma_ddx_f86a2a.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lymphocele",
+      "raw": "lymphocele",
+      "frequency": null
+    },
+    {
+      "name": "hematoma",
+      "raw": "hematoma",
+      "frequency": null
+    },
+    {
+      "name": "abscess",
+      "raw": "abscess",
+      "frequency": null
+    },
+    {
+      "name": "renal cyst",
+      "raw": "renal cyst",
+      "frequency": null
+    },
+    {
+      "name": "pancreatic pseudocyst",
+      "raw": "pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "ascites",
+      "raw": "ascites",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "smooth thin-walled cavity (-10 to +30 HU) | frequently associated with urine ascites | rarely septated + smaller than lymphocele | progressive radiotracer activity within collection"
+}

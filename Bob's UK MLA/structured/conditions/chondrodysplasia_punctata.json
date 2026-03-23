@@ -1,0 +1,44 @@
+{
+  "name": "CHONDRODYSPLASIA PUNCTATA",
+  "slug": "chondrodysplasia_punctata",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/chondrodysplasia_punctata.md",
+  "definition": "CONGENITAL STIPPLED EPIPHYSES = DYSPLASIA EPIPHYSEALIS PUNCTATA = group of syndromes characterized by abnormal calcific foci in areas of enchondral bone RHIZOMELIC TYPE",
+  "demographics": {
+    "Etiology": "peroxisomal disorder characterized by fibroblast plasmalogen deficiency",
+    "Prevalence": "1÷110,000 births",
+    "Genetics": "X-linked autosomal",
+    "Associated with": "congenital ichthyosiform erythroderma = generalized erythema with"
+  },
+  "dominant_finding": "calcific stippling of epiphyses (prior to normal epiphyseal ossification)",
+  "distribution": "calcific stippling of epiphyses (prior to normal epiphyseal ossification)",
+  "discriminating_features": [
+    "calcific stippling of epiphyses (prior to normal epiphyseal ossification)",
+    "scoliosis, kyphosis",
+    "multiple small punctate calcifications of varying size in epiphyses (knee, hip, shoulder,",
+    "prominent symmetrical shortening of femur + humerus (rarely all limbs symmetrically",
+    "congenital dislocation of hip"
+  ],
+  "other_features": {
+    "general": [],
+    "RADIOGRAPH": [
+      "calcific stippling of epiphyses (prior to normal epiphyseal ossification)",
+      "scoliosis, kyphosis",
+      "multiple small punctate calcifications of varying size in epiphyses (knee, hip, shoulder,",
+      "prominent symmetrical shortening of femur + humerus (rarely all limbs symmetrically",
+      "congenital dislocation of hip",
+      "multiple flexion (joint) contractures of extremities",
+      "clubfeet",
+      "metaphyseal splaying of proximal tubular bones (in particular about knee)",
+      "thickening of diaphyses",
+      "prominent vertebral + paravertebral calcifications",
+      "coronal clefts in vertebral bodies",
+      "ascites, polyhydramnios",
+      "more widespread but milder involvement as above"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death usually < 1 year of age",
+    "Cx": "respiratory failure (severe underdevelopment of ribs), tracheal stenosis, spinal cord"
+  }
+}

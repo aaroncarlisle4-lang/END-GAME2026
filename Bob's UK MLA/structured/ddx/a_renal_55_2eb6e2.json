@@ -1,0 +1,37 @@
+{
+  "finding": "A. RENAL (55%",
+  "slug": "a_renal_55_2eb6e2",
+  "chapter": "PET IMAGING OF GI TRACT",
+  "source_file": "processed_clusters/pet_imaging_of_gi_tract/a_renal_55_2eb6e2.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hydronephrosis",
+      "raw": "Hydronephrosis (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Multicystic dysplastic kidney",
+      "raw": "Multicystic dysplastic kidney (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Polycystic kidney",
+      "raw": "Polycystic kidney",
+      "frequency": null
+    },
+    {
+      "name": "Mesoblastic nephroma",
+      "raw": "Mesoblastic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "Renal vein thrombosis",
+      "raw": "Renal vein thrombosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

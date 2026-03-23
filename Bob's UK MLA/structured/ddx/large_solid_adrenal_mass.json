@@ -1,0 +1,57 @@
+{
+  "finding": "Large Solid Adrenal Mass",
+  "slug": "large_solid_adrenal_mass",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/large_solid_adrenal_mass.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adrenocortical carcinoma",
+      "raw": "Adrenocortical carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma / ganglioneuroma",
+      "raw": "Neuroblastoma / ganglioneuroma",
+      "frequency": null
+    },
+    {
+      "name": "Myelolipoma",
+      "raw": "Myelolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation",
+      "raw": "Inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess (eg, histoplasmosis, tuberculosis)",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Large tumors ≥ 6 cm are highly suspicious for malignancy!"
+}

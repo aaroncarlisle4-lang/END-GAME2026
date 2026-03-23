@@ -1,0 +1,62 @@
+{
+  "finding": "Renal Sinus Mass",
+  "slug": "renal_sinus_mass",
+  "chapter": "C. INFILTRATION",
+  "source_file": "processed_clusters/c_infiltration/renal_sinus_mass.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TUMOR (a)  renal pelvis",
+      "raw": "TUMOR (a)  renal pelvis",
+      "frequency": null
+    },
+    {
+      "name": "Transitional cell carcinoma",
+      "raw": "Transitional cell carcinoma (90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma (9%)",
+      "frequency": "9%"
+    },
+    {
+      "name": "Mucinous adenocarcinoma (1%) (b)  renal parenchyma",
+      "raw": "Mucinous adenocarcinoma (1%) (b)  renal parenchyma",
+      "frequency": "1%"
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Multilocular cystic nephroma",
+      "raw": "Multilocular cystic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma (c)  mesenchymal tumor (rare): hemangioma, lipoma, angiomyolipoma, fibroma, leiomyoma, neurogenic tumor, teratoma; sarcomas (eg, leiomyosarcoma) (d)  retroperitoneal",
+      "raw": "Plasmacytoma (c)  mesenchymal tumor (rare): hemangioma, lipoma, angiomyolipoma, fibroma, leiomyoma, neurogenic tumor, teratoma; sarcomas (eg, leiomyosarcoma) (d)  retroperitoneal",
+      "frequency": "rare"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis to sinus lymph nodes",
+      "raw": "Metastasis to sinus lymph nodes",
+      "frequency": null
+    },
+    {
+      "name": "Myeloid metaplasia",
+      "raw": "Myeloid metaplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

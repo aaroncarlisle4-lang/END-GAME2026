@@ -1,0 +1,52 @@
+{
+  "finding": "Intramedullary Nonneoplastic Lesion",
+  "slug": "intramedullary_nonneoplastic_lesion",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/intramedullary_nonneoplastic_lesion.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Demyelinating disease",
+      "raw": "Demyelinating disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid angiopathy",
+      "raw": "Amyloid angiopathy",
+      "frequency": null
+    },
+    {
+      "name": "Pseudotumor",
+      "raw": "Pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Dural arteriovenous fistula",
+      "raw": "Dural arteriovenous fistula",
+      "frequency": null
+    },
+    {
+      "name": "Cord infarction",
+      "raw": "Cord infarction",
+      "frequency": null
+    },
+    {
+      "name": "Chronic arachnoiditis",
+      "raw": "Chronic arachnoiditis",
+      "frequency": null
+    },
+    {
+      "name": "Cystic myelomalacia",
+      "raw": "Cystic myelomalacia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   4% √  no cord expansion"
+}

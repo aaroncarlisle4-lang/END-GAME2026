@@ -1,0 +1,27 @@
+{
+  "finding": "Pulmonary Langerhans Cell Histiocytosis (DDx)",
+  "slug": "pulmonary_langerhans_cell_histiocytosis_ddx",
+  "chapter": "Pulmonary Langerhans Cell Histiocytosis",
+  "source_file": "processed_clusters/pulmonary_langerhans_cell_histiocytosis/pulmonary_langerhans_cell_histiocytosis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "sarcoidosis (equal sex distribution",
+      "raw": "sarcoidosis (equal sex distribution",
+      "frequency": null
+    },
+    {
+      "name": "always multisystem disease",
+      "raw": "always multisystem disease",
+      "frequency": null
+    },
+    {
+      "name": "not related to smoking",
+      "raw": "not related to smoking",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "ground-glass opacities | perivascular honeycombing | thickening of bronchovascular bundles + interlobular septa | intervening lung appears normal"
+}

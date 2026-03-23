@@ -1,0 +1,122 @@
+{
+  "finding": "Bubbly Bone Lesion",
+  "slug": "bubbly_bone_lesion_fc9067",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/bubbly_bone_lesion_fc9067.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibrous dysplasia, Fibrous cortical defect",
+      "raw": "Fibrous dysplasia, Fibrous cortical defect",
+      "frequency": null
+    },
+    {
+      "name": "Osteoblastoma",
+      "raw": "Osteoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Myeloma (plasmacytoma), Metastases from kidney, thyroid, breast",
+      "raw": "Myeloma (plasmacytoma), Metastases from kidney, thyroid, breast",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst / Angioma",
+      "raw": "Aneurysmal bone cyst / Angioma",
+      "frequency": null
+    },
+    {
+      "name": "Chondromyxoid fibroma, Chondroblastoma",
+      "raw": "Chondromyxoid fibroma, Chondroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroid brown tumor, Hemangioma, Hemophilia, Histiocytosis X",
+      "raw": "Hyperparathyroid brown tumor, Hemangioma, Hemophilia, Histiocytosis X",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection (Brodie abscess, Echinococcus, coccidioidomycosis)",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma, Enchondroma, Epithelial inclusion cyst",
+      "raw": "Eosinophilic granuloma, Enchondroma, Epithelial inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Solitary bone cyst",
+      "raw": "Solitary bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma / Eosinophilic granuloma",
+      "raw": "Enchondroma / Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Osteoblastoma",
+      "raw": "Osteoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis, Myeloma",
+      "raw": "Metastasis, Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Simple bone cyst",
+      "raw": "Simple bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Chondroblastoma, Chondromyxoid fibroma",
+      "raw": "Chondroblastoma, Chondromyxoid fibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

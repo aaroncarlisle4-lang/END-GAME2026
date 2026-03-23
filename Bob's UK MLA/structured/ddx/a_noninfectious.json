@@ -1,0 +1,27 @@
+{
+  "finding": "A. NONINFECTIOUS",
+  "slug": "a_noninfectious",
+  "chapter": "Gas within Stomach Wall",
+  "source_file": "processed_clusters/gas_within_stomach_wall/a_noninfectious.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Interstitial gastric emphysema =  gas accumulation in submucosa / subserosa / or both",
+      "raw": "Interstitial gastric emphysema =  gas accumulation in submucosa / subserosa / or both",
+      "frequency": null
+    },
+    {
+      "name": "benign clinical course with spontaneous resolution",
+      "raw": "benign clinical course with spontaneous resolution",
+      "frequency": null
+    },
+    {
+      "name": "Cystic pneumatosis =  PNEUMATOSIS CYSTOIDES INTESTINALIS",
+      "raw": "Cystic pneumatosis =  PNEUMATOSIS CYSTOIDES INTESTINALIS",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:   air from an extrinsic source (a)  obstructive (← raised intragastric pressure): gastric outlet obstruction, volvulus, overinflation during gastroscopy, profuse severe vomiting (b)  pulmonary (← rupture + dissection of subpleural blebs in bullous emphysema along esophageal wall / mediastinum): pulmonary emphysema (c)  traumatic (← mucosal trauma): instrumentation of stomach, recent gastroduodenal surgery, endoscopy (1.6%) √  linear lucency conforming to contour of a thin-walled distended stomach"
+}

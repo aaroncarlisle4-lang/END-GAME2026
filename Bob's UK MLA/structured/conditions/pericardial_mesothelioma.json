@@ -1,0 +1,40 @@
+{
+  "name": "PERICARDIAL MESOTHELIOMA",
+  "slug": "pericardial_mesothelioma",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/pericardial_mesothelioma.md",
+  "definition": "PRIMARY MALIGNANT PERICARDIAL MESOTHELIOMA malignant primary neoplasm arising from mesothelial cells of the pericardium",
+  "demographics": {
+    "Prevalence": "0.0022% at autopsy; < 1% of all mesotheliomas; 50% of all primary pericardial",
+    "Mean age": "46 (range, 2-78) years; M÷F = 2÷1",
+    "Path": "multiple coalescing pericardial masses with obliteration of pericardial space;",
+    "Histo": "epithelial > biphasic (mixed) > fibrous (spindle cell); biphasic tumor composed of"
+  },
+  "dominant_finding": "hypermetabolic activity",
+  "distribution": "diffuse mediastinal enlargement",
+  "discriminating_features": [
+    "hypermetabolic activity",
+    "cardiac enlargement with irregular contour",
+    "diffuse mediastinal enlargement",
+    "irregular diffuse pericardial thickening / cardiac encasement by soft-tissue masses",
+    "± invasion of adjacent vascular + anatomic structures"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "cardiac enlargement with irregular contour",
+      "diffuse mediastinal enlargement",
+      "irregular diffuse pericardial thickening / cardiac encasement by soft-tissue masses",
+      "± invasion of adjacent vascular + anatomic structures",
+      "pericardial effusion",
+      "heterogeneous enhancement with involvement of parietal + visceral layers of pericardium"
+    ],
+    "PET": [
+      "hypermetabolic activity"
+    ]
+  },
+  "clinical": {
+    "Rx": "palliative surgery + radiation therapy",
+    "Prognosis": "6 weeks - 15 months survival, regardless of therapy"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "finding": "Planar Imaging",
+  "slug": "planar_imaging",
+  "chapter": "HEART SCINTIGRAPHY",
+  "source_file": "processed_clusters/heart_scintigraphy/planar_imaging.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "AP [LEFT LATERAL]",
+      "raw": "AP",
+      "frequency": null,
+      "sites": [
+        "LEFT LATERAL"
+      ]
+    },
+    {
+      "name": "LAO 40° / LAO 70° ◊  Most often used projection; for all exercise studies",
+      "raw": "LAO 40° / LAO 70° ◊  Most often used projection; for all exercise studies",
+      "frequency": null
+    },
+    {
+      "name": "RAO 45°",
+      "raw": "RAO 45°",
+      "frequency": null
+    },
+    {
+      "name": "LPO 45° (rarely used) 10° caudal tilt minimizes LA contamination of LV region",
+      "raw": "LPO 45° (rarely used) 10° caudal tilt minimizes LA contamination of LV region",
+      "frequency": null
+    },
+    {
+      "name": "Angled LAO",
+      "raw": "Angled LAO (slant-hole collimator / caudal tilt)",
+      "frequency": null
+    },
+    {
+      "name": "Right coronary artery (RCA) best seen on left LAT / AP projections",
+      "raw": "Right coronary artery (RCA) best seen on left LAT / AP projections",
+      "frequency": null
+    },
+    {
+      "name": "Circumflex branch of left coronary artery (LCX) best seen on LAO projection",
+      "raw": "Circumflex branch of left coronary artery (LCX) best seen on LAO projection",
+      "frequency": null
+    },
+    {
+      "name": "Anterior descending branch of left coronary artery",
+      "raw": "Anterior descending branch of left coronary artery (LAD)",
+      "frequency": null
+    },
+    {
+      "name": "stress study = top row",
+      "raw": "stress study = top row",
+      "frequency": null
+    },
+    {
+      "name": "resting study = second row",
+      "raw": "resting study = second row",
+      "frequency": null
+    },
+    {
+      "name": "Short-axis views (SA): apex → base",
+      "raw": "Short-axis views (SA): apex → base",
+      "frequency": null
+    },
+    {
+      "name": "Horizontal long axis",
+      "raw": "Horizontal long axis (HLA): inferior → superior (anterior)",
+      "frequency": null
+    },
+    {
+      "name": "Vertical long axis (VLA): septum → lateral",
+      "raw": "Vertical long axis (VLA): septum → lateral",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  tracer defect may be visible on only one image projection √  15-20% regional tracer intensity variation is normal Left Ventricular Anatomy and Projections √  displays anterolateral wall, apex, inferior wall √  decreased activity at apex of LV ← thinning in 50% √  displays inferior + anterior wall √  displays interventricular septum, posterior wall, inferior wall √  best projection to separate right + left ventricles √  best projection to evaluate septal + posterior LV wall motion √  displays anterior + inferior ventricular wall √  useful during 1st-pass studies with temporal separation of v"
+}

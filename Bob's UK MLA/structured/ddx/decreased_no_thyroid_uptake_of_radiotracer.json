@@ -1,0 +1,33 @@
+{
+  "finding": "Decreased / No Thyroid Uptake of Radiotracer",
+  "slug": "decreased_no_thyroid_uptake_of_radiotracer",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/decreased_no_thyroid_uptake_of_radiotracer.md",
+  "quality_score": 0.7,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "BLOCKED TRAPPING FUNCTION",
+      "raw": "BLOCKED TRAPPING FUNCTION",
+      "frequency": null
+    },
+    {
+      "name": "Iodine load (most common)= dilution of tracer within iodine flooded pool",
+      "raw": "Iodine load (most common)= dilution of tracer within iodine flooded pool",
+      "frequency": "most common"
+    },
+    {
+      "name": "Exogenous thyroid hormone (replacement therapy) → suppresses TSH release",
+      "raw": "Exogenous thyroid hormone (replacement therapy) → suppresses TSH release",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "BLOCKED TRAPPING FUNCTION": [],
+    "Iodine load (most common)= dilution of tracer within iodine flooded pool": [
+      "Source of flooding: ◊  Suppression usually lasts for at least 4 weeks! ◊  A low-iodine diet for 3-10 days may be prescribed"
+    ],
+    "Exogenous thyroid hormone (replacement therapy) → suppresses TSH release": []
+  },
+  "context": "Source of flooding: ◊  Suppression usually lasts for at least 4 weeks! ◊  A low-iodine diet for 3-10 days may be prescribed"
+}

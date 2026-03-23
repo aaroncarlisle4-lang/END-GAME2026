@@ -1,0 +1,55 @@
+{
+  "finding": "Postrubella Syndrome",
+  "slug": "postrubella_syndrome_0dd9d5",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/postrubella_syndrome_0dd9d5.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "low birth weight, deafness, cataracts, mental retardation [Peripheral pulmonic stenosis]",
+      "raw": "low birth weight, deafness, cataracts, mental retardation",
+      "frequency": null,
+      "sites": [
+        "Peripheral pulmonic stenosis"
+      ]
+    },
+    {
+      "name": "Valvular pulmonic stenosis",
+      "raw": "Valvular pulmonic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Supravalvular aortic stenosis",
+      "raw": "Supravalvular aortic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "PDA",
+      "raw": "PDA",
+      "frequency": null
+    },
+    {
+      "name": "Trisomy 13-15",
+      "raw": "Trisomy 13-15",
+      "frequency": null
+    },
+    {
+      "name": "VSD, tetralogy of Fallot, DORV",
+      "raw": "VSD, tetralogy of Fallot, DORV",
+      "frequency": null
+    },
+    {
+      "name": "Trisomy 16-18",
+      "raw": "Trisomy 16-18",
+      "frequency": null
+    },
+    {
+      "name": "VSD, PDA, DORV",
+      "raw": "VSD, PDA, DORV",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

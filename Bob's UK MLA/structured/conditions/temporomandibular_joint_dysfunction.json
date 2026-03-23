@@ -1,0 +1,36 @@
+{
+  "name": "TEMPOROMANDIBULAR JOINT DYSFUNCTION",
+  "slug": "temporomandibular_joint_dysfunction",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/temporomandibular_joint_dysfunction.md",
+  "definition": "internal derangement = abnormal relationship of disk to condyle",
+  "demographics": {
+    "Incidence": "affects up to 28% of population"
+  },
+  "dominant_finding": "irregular biconvex / rounded disk ← thickening of posterior band + reduction in mass of",
+  "distribution": "irregular biconvex / rounded disk ← thickening of posterior band + reduction in mass of",
+  "discriminating_features": [
+    "intrinsic disk lesion (change in shape + signal intensity):",
+    "irregular biconvex / rounded disk ← thickening of posterior band + reduction in mass of",
+    "flattening of disk",
+    "reduction in normal intermediate to high SI of disk",
+    "disk displacement:"
+  ],
+  "other_features": {
+    "general": [
+      "intrinsic disk lesion (change in shape + signal intensity):",
+      "irregular biconvex / rounded disk ← thickening of posterior band + reduction in mass of",
+      "flattening of disk",
+      "reduction in normal intermediate to high SI of disk",
+      "disk displacement:",
+      "anterior (in up to 34% of asymptomatic volunteers), anterolateral, anteromedial, lateral,",
+      "anterior displacement of posterior band in front of condyle with abnormal stretching of",
+      "anterior displacement of meniscus without reduction at maximum mouth opening",
+      "\"stuck disk\" = fixed position of disk relative to glenoid fossa and articular eminence during",
+      "\"locked jaw\" = posterior band displaced beyond 1 o'clock position",
+      "joint effusion",
+      "osteoarthritis: flattening, osteophytes, erosions, sclerosis"
+    ]
+  },
+  "clinical": {}
+}

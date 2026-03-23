@@ -1,0 +1,27 @@
+{
+  "name": "MALPOSITION OF SEPTUM PRIMUM",
+  "slug": "malposition_of_septum_primum",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/malposition_of_septum_primum.md",
+  "definition": "anomalous drainage of normally connected pulmonary veins ← leftward deviation / curvature",
+  "demographics": {
+    "Associated with": "complex congenital heart defects, heterotaxy, polysplenia"
+  },
+  "dominant_finding": "± left heart hypoplasia ← lack of left heart filling",
+  "distribution": "",
+  "discriminating_features": [
+    "leftward curvature of atrial septum",
+    "anomalous drainage of right upper pulmonary vein into RA",
+    "± left heart hypoplasia ← lack of left heart filling"
+  ],
+  "other_features": {
+    "general": [
+      "leftward curvature of atrial septum",
+      "anomalous drainage of right upper pulmonary vein into RA",
+      "± left heart hypoplasia ← lack of left heart filling"
+    ]
+  },
+  "clinical": {
+    "Rx": "resection + repositioning of atrial septum in a more normal position"
+  }
+}

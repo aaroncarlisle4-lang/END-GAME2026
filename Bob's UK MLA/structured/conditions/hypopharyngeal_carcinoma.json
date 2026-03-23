@@ -1,0 +1,29 @@
+{
+  "name": "HYPOPHARYNGEAL CARCINOMA",
+  "slug": "hypopharyngeal_carcinoma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/hypopharyngeal_carcinoma.md",
+  "definition": "",
+  "demographics": {
+    "Histo": "squamous cell carcinoma (95%)"
+  },
+  "dominant_finding": "invasion of retropharyngeal space with extension into oro- and nasopharynx",
+  "distribution": "invasion of posterior ala of thyroid cartilage, cricothyroid space, soft tissue of neck in T4",
+  "discriminating_features": [
+    "invasion of posterior ala of thyroid cartilage, cricothyroid space, soft tissue of neck in T4",
+    "difficult assessment due to varying thickness of inferior constrictor + prevertebral muscles",
+    "invasion of retropharyngeal space with extension into oro- and nasopharynx",
+    "retropharyngeal adenopathy"
+  ],
+  "other_features": {
+    "general": [
+      "invasion of posterior ala of thyroid cartilage, cricothyroid space, soft tissue of neck in T4",
+      "difficult assessment due to varying thickness of inferior constrictor + prevertebral muscles",
+      "invasion of retropharyngeal space with extension into oro- and nasopharynx",
+      "retropharyngeal adenopathy"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "poor ← early soft-tissue invasion"
+  }
+}

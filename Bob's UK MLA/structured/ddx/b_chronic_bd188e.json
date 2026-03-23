@@ -1,0 +1,52 @@
+{
+  "finding": "B. CHRONIC",
+  "slug": "b_chronic_bd188e",
+  "chapter": "D. IATROGENIC",
+  "source_file": "processed_clusters/d_iatrogenic/b_chronic_bd188e.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congestive heart failure",
+      "raw": "Congestive heart failure",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangitic carcinomatosis",
+      "raw": "Lymphangitic carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / leukemia",
+      "raw": "Lymphoma / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "SLE",
+      "raw": "SLE",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid disease",
+      "raw": "Rheumatoid disease",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiectasia",
+      "raw": "Lymphangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiomyomatosis",
+      "raw": "Lymphangiomyomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Asbestosis",
+      "raw": "Asbestosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

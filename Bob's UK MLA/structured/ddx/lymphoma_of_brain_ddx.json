@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoma Of Brain (DDx)",
+  "slug": "lymphoma_of_brain_ddx",
+  "chapter": "Lymphoma Of Brain",
+  "source_file": "processed_clusters/lymphoma_of_brain/lymphoma_of_brain_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "meningioma",
+      "raw": "meningioma",
+      "frequency": null
+    },
+    {
+      "name": "subdural hematoma",
+      "raw": "subdural hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "vasogenic edema in adjacent brain parenchyma | single / multiple hyperattenuating masses ← highly cellular lesion | iso- to hypointensity on T2WI | avid enhancement, sometimes heterogeneous"
+}

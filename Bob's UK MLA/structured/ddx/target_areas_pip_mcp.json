@@ -1,0 +1,62 @@
+{
+  "finding": "Target areas: PIP, MCP",
+  "slug": "target_areas_pip_mcp",
+  "chapter": "D. VASCULAR MALFORMATION",
+  "source_file": "processed_clusters/d_vascular_malformation/target_areas_pip_mcp.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Scleroderma = progressive systemic sclerosis",
+      "raw": "Scleroderma = progressive systemic sclerosis (PSS)",
+      "frequency": null
+    },
+    {
+      "name": "Psoriatic arthritis",
+      "raw": "Psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Osteoarthritis",
+      "raw": "Osteoarthritis",
+      "frequency": null
+    },
+    {
+      "name": "Erosive osteoarthritis",
+      "raw": "Erosive osteoarthritis",
+      "frequency": null
+    },
+    {
+      "name": "Multicentric reticulohistiocytosis",
+      "raw": "Multicentric reticulohistiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosis of Interphalangeal Joints",
+      "raw": "Ankylosis of Interphalangeal Joints",
+      "frequency": null
+    },
+    {
+      "name": "Psoriatic arthritis",
+      "raw": "Psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Erosive osteoarthritis",
+      "raw": "Erosive osteoarthritis",
+      "frequency": null
+    },
+    {
+      "name": "Still disease",
+      "raw": "Still disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  reversible deformities Target areas:   DIP, PIP, 1st CMC √  tuft resorption √  soft-tissue calcifications Arthritis Involving Distal Interphalangeal Joints mnemonic:   \"POEM\" mnemonic:   \"S - Lesions\""
+}

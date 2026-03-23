@@ -1,0 +1,32 @@
+{
+  "finding": "Malignant Salivary Gland Neoplasm",
+  "slug": "malignant_salivary_gland_neoplasm_9ee166",
+  "chapter": "Parotid Gland Enlargement",
+  "source_file": "processed_clusters/parotid_gland_enlargement/malignant_salivary_gland_neoplasm_9ee166.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucoepidermoid carcinoma",
+      "raw": "Mucoepidermoid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoid cystic carcinoma",
+      "raw": "Adenoid cystic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Acinic cell carcinoma",
+      "raw": "Acinic cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma ex-pleomorphic adenoma",
+      "raw": "Carcinoma ex-pleomorphic adenoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

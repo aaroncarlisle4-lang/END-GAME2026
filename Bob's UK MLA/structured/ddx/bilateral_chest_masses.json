@@ -1,0 +1,32 @@
+{
+  "finding": "Bilateral Chest Masses",
+  "slug": "bilateral_chest_masses",
+  "chapter": "FETAL CHEST ANOMALIES",
+  "source_file": "processed_clusters/fetal_chest_anomalies/bilateral_chest_masses.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Laryngeal / tracheal atresia",
+      "raw": "Laryngeal / tracheal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Congenital high airway obstruction",
+      "raw": "Congenital high airway obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Bilateral congenital pulmonary airway malformation",
+      "raw": "Bilateral congenital pulmonary airway malformation",
+      "frequency": null
+    },
+    {
+      "name": "Bilateral congenital diaphragmatic herniae",
+      "raw": "Bilateral congenital diaphragmatic herniae",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  pulmonary hyperplasia √  symmetrically enlarged echogenic lungs √  dilated fluid-filled trachea + bronchi √  inverted hemidiaphragms √  diminutive heart amongst enlarged lungs √  ± hydrops"
+}

@@ -1,0 +1,67 @@
+{
+  "finding": "B. Nonischemic",
+  "slug": "b_nonischemic",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/b_nonischemic.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dilated / hypertrophic cardiomyopathy",
+      "raw": "Dilated / hypertrophic cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Myocarditis",
+      "raw": "Myocarditis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Systemic sclerosis",
+      "raw": "Systemic sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Endocardial fibroelastosis",
+      "raw": "Endocardial fibroelastosis",
+      "frequency": null
+    },
+    {
+      "name": "Fabry disease",
+      "raw": "Fabry disease",
+      "frequency": null
+    },
+    {
+      "name": "Chagas disease",
+      "raw": "Chagas disease",
+      "frequency": null
+    },
+    {
+      "name": "RV pressure overload",
+      "raw": "RV pressure overload",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac transplantation",
+      "raw": "Cardiac transplantation",
+      "frequency": null
+    },
+    {
+      "name": "Uremia",
+      "raw": "Uremia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

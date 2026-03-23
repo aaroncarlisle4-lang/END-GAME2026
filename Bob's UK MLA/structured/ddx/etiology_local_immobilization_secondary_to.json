@@ -1,0 +1,52 @@
+{
+  "finding": "Etiology: local immobilization secondary to",
+  "slug": "etiology_local_immobilization_secondary_to",
+  "chapter": "A. CONGENITAL DISORDERS",
+  "source_file": "processed_clusters/a_congenital_disorders/etiology_local_immobilization_secondary_to.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Reflex sympathetic dystrophy = Sudeck dystrophy",
+      "raw": "Reflex sympathetic dystrophy = Sudeck dystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Regional migratory osteoporosis, transient regional osteoporosis of hip",
+      "raw": "Regional migratory osteoporosis, transient regional osteoporosis of hip",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatologic disorders",
+      "raw": "Rheumatologic disorders",
+      "frequency": null
+    },
+    {
+      "name": "Infection: osteomyelitis, tuberculosis",
+      "raw": "Infection: osteomyelitis, tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteolytic tumor",
+      "raw": "Osteolytic tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lytic phase of Paget disease",
+      "raw": "Lytic phase of Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Early phase of bone infarct and hemorrhage",
+      "raw": "Early phase of bone infarct and hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Burns + frostbite",
+      "raw": "Burns + frostbite",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  fracture (more pronounced distal to fracture site) (b)  neural paralysis (c)  muscular paralysis"
+}

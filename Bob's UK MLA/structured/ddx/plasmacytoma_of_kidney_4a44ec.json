@@ -1,0 +1,33 @@
+{
+  "finding": "PLASMACYTOMA OF KIDNEY",
+  "slug": "plasmacytoma_of_kidney_4a44ec",
+  "chapter": "PAROXYSMAL NOCTURNAL HEMOGLOBINURIA",
+  "source_file": "processed_clusters/paroxysmal_nocturnal_hemoglobinuria/plasmacytoma_of_kidney_4a44ec.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "SOLITARY = PLASMACYTOMA",
+      "raw": "SOLITARY = PLASMACYTOMA (5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "MULTIPLE = MULTIPLE MYELOMA (95%):",
+      "raw": "MULTIPLE = MULTIPLE MYELOMA (95%):",
+      "frequency": "95%"
+    },
+    {
+      "name": "monoclonal immunoglobulin / Bence-Jones proteinuria",
+      "raw": "monoclonal immunoglobulin / Bence-Jones proteinuria",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "SOLITARY = PLASMACYTOMA": [
+      "=  group of malignant disorders involving differentiated B lymphocytes or plasma cells Classification: autoptically involves kidney in 17% Distribution of primary extramedullary plasmacytoma: (a)  skeleton (95%) (b)  nonskeletal sites (5%): upper respiratory tract"
+    ],
+    "MULTIPLE = MULTIPLE MYELOMA (95%):": [],
+    "monoclonal immunoglobulin / Bence-Jones proteinuria": []
+  },
+  "context": "=  group of malignant disorders involving differentiated B lymphocytes or plasma cells Classification: autoptically involves kidney in 17% Distribution of primary extramedullary plasmacytoma: (a)  skeleton (95%) (b)  nonskeletal sites (5%): upper respiratory tract √  well-circumscribed mass / infiltrative lesion DDx:   indistinguishable from other renal primaries"
+}

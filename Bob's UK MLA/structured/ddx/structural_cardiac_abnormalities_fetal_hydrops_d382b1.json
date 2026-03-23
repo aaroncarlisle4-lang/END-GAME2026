@@ -1,0 +1,52 @@
+{
+  "finding": "Structural Cardiac Abnormalities & Fetal Hydrops",
+  "slug": "structural_cardiac_abnormalities_fetal_hydrops_d382b1",
+  "chapter": "B. CHAMBER ENLARGEMENT",
+  "source_file": "processed_clusters/b_chamber_enlargement/structural_cardiac_abnormalities_fetal_hydrops_d382b1.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Atrioventricular septal defect + complete heart block",
+      "raw": "Atrioventricular septal defect + complete heart block",
+      "frequency": null
+    },
+    {
+      "name": "Hypoplastic left heart",
+      "raw": "Hypoplastic left heart",
+      "frequency": null
+    },
+    {
+      "name": "Critical aortic stenosis",
+      "raw": "Critical aortic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac tumor",
+      "raw": "Cardiac tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ectopia cordis",
+      "raw": "Ectopia cordis",
+      "frequency": null
+    },
+    {
+      "name": "Dilated cardiomyopathy",
+      "raw": "Dilated cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Ebstein anomaly",
+      "raw": "Ebstein anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary atresia",
+      "raw": "Pulmonary atresia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Fetal Echocardiographic Views Identification of fetal RV: √  RV lies closest to anterior chest wall √  foramen ovale flap seen within LA √  prominent moderator band + papillary muscles in RV"
+}

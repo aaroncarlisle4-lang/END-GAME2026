@@ -1,0 +1,27 @@
+{
+  "finding": "Carotid Artery Aneurysm",
+  "slug": "carotid_artery_aneurysm",
+  "chapter": "CT / MR",
+  "source_file": "processed_clusters/ct_mr/carotid_artery_aneurysm.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection (mycotic aneurysm)",
+      "frequency": null
+    },
+    {
+      "name": "Congenital (very rare): manifestation of connective tissue disorder (Ehlers-Danlos,",
+      "raw": "Congenital (very rare): manifestation of connective tissue disorder (Ehlers-Danlos,",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "=  aneurysm of extracranial carotid artery"
+}

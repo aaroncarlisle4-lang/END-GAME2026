@@ -1,0 +1,52 @@
+{
+  "finding": "A. CHILDHOOD",
+  "slug": "a_childhood",
+  "chapter": "LEUKEMIA OF BONE",
+  "source_file": "processed_clusters/leukemia_of_bone/a_childhood.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute Lymphocytic Leukemia (ALL in 75%) most often in children < 5 years of age",
+      "raw": "Acute Lymphocytic Leukemia (ALL in 75%) most often in children < 5 years of age",
+      "frequency": "75%"
+    },
+    {
+      "name": "Acute Myelogenous Leukemia",
+      "raw": "Acute Myelogenous Leukemia (AML)",
+      "frequency": null
+    },
+    {
+      "name": "migratory paraarticular arthralgias",
+      "raw": "migratory paraarticular arthralgias (25-50%) ← adjacent metaphyseal lesions (may be confused with acute rheumatic fever / rheumatoid arthritis)",
+      "frequency": "50%"
+    },
+    {
+      "name": "low-grade fever, bruising, fatigue",
+      "raw": "low-grade fever, bruising, fatigue",
+      "frequency": null
+    },
+    {
+      "name": "bone pain ← increased intraosseous pressure from proliferation of malignant cells",
+      "raw": "bone pain ← increased intraosseous pressure from proliferation of malignant cells",
+      "frequency": null
+    },
+    {
+      "name": "elevated erythrocyte sedimentation rate, anemia",
+      "raw": "elevated erythrocyte sedimentation rate, anemia",
+      "frequency": null
+    },
+    {
+      "name": "hepatosplenomegaly, occasionally lymphadenopathy ◊  Peripheral blood smears may be negative in aleukemic form!",
+      "raw": "hepatosplenomegaly, occasionally lymphadenopathy ◊  Peripheral blood smears may be negative in aleukemic form!",
+      "frequency": null
+    },
+    {
+      "name": "ADULTHOOD ◊  Death usually occurs before skeletal abnormalities manifest",
+      "raw": "ADULTHOOD ◊  Death usually occurs before skeletal abnormalities manifest",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Most common malignancy of childhood: ⅓ of all pediatric malignancies Histo: √  lymph node enlargement rare tends to affect older children + adolescents √  lymph node enlargement common Skeletal manifestations in 50-90%: Location:   proximal + distal metaphyses of long bones, flat bones, spine (a)  Diffuse osteopenia (most common pattern) √  diffuse demineralization of spine + long bones ← leukemic infiltration of bone marrow + catabolic protein / mineral metabolism √  coarse trabeculation of spongiosa ← destruction of finer trabeculae √  multiple biconcave / partially collapsed vertebrae (14%)"
+}

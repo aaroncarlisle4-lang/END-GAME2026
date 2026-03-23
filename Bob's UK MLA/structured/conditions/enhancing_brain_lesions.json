@@ -1,0 +1,46 @@
+{
+  "name": "ENHANCING BRAIN LESIONS",
+  "slug": "enhancing_brain_lesions",
+  "chapter": "TRIGEMINAL NEUROPATHY",
+  "source_file": "processed_clusters/disease_entries/trigeminal_neuropathy/enhancing_brain_lesions.md",
+  "definition": "DURA-ARACHNOID ENHANCEMENT PIA-ARACHNOID ENHANCEMENT",
+  "demographics": {
+    "Location": "dural reflections of falx cerebri + tentorium cerebelli + cavernous sinus;"
+  },
+  "dominant_finding": "inconspicuous enhancement against inner table on CT",
+  "distribution": "dural reflections of falx cerebri + tentorium cerebelli + cavernous sinus;",
+  "discriminating_features": [
+    "arc pattern with ongoing plaque activity at one margin = more classic asymmetric",
+    "inconspicuous enhancement against inner table on CT",
+    "thin linear discontinuous enhancement on T1WI",
+    "gyriform / serpentine enhancement",
+    "serpentine enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "inconspicuous enhancement against inner table on CT",
+      "thin linear discontinuous enhancement on T1WI",
+      "gyriform / serpentine enhancement",
+      "serpentine enhancement",
+      "often in territory of single artery (MCA in 60%)",
+      "multiple territories",
+      "small < 2 cm circumscribed lesions near gray-white matter junction",
+      "wavy undulating rim of > 10 mm in thickness",
+      "enhancing mural nodule within cyst",
+      "thick nodular ring enhancement",
+      "restricted diffusion (ADC values lower than lymphoma / metastatic disease /",
+      "thick irregular peripheral enhancement",
+      "more nodular + irregular appearance compared with abscess",
+      "thin ring iso- to hypointense relative to white matter using long repetition time",
+      "thin medial margin → propensity for intraventricular rupture",
+      "restricted diffusion of necrotic center",
+      "often incomplete ring enhancement with open portion of ring abutting gray matter",
+      "arc pattern with ongoing plaque activity at one margin = more classic asymmetric",
+      "displacement of underlying cortex",
+      "adjacent dural thickening",
+      "reactive bone changes",
+      "supply by dural arteries"
+    ]
+  },
+  "clinical": {}
+}

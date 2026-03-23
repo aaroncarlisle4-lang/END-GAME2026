@@ -1,0 +1,27 @@
+{
+  "finding": "Rindlike Perirenal Mass",
+  "slug": "rindlike_perirenal_mass",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/rindlike_perirenal_mass.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal fibrosis",
+      "raw": "Retroperitoneal fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Erdheim-Chester disease",
+      "raw": "Erdheim-Chester disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

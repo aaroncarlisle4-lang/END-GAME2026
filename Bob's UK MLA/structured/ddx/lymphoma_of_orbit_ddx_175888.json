@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoma Of Orbit (DDx)",
+  "slug": "lymphoma_of_orbit_ddx_175888",
+  "chapter": "Lymphoma Of Orbit",
+  "source_file": "processed_clusters/lymphoma_of_orbit/lymphoma_of_orbit_ddx_175888.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pseudotumor (infiltration / thickening of ocular muscles",
+      "raw": "pseudotumor (infiltration / thickening of ocular muscles",
+      "frequency": null
+    },
+    {
+      "name": "mass commonly T2-isointense",
+      "raw": "mass commonly T2-isointense",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "osseous erosion (rare) | isointense relative to muscle on T1WI | hyperintense relative to orbital fat on T2WI | solitary / multiple hypoechoic homogeneous masses with infiltrative borders"
+}

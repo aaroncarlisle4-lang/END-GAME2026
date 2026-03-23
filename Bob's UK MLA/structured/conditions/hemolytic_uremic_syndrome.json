@@ -1,0 +1,39 @@
+{
+  "name": "HEMOLYTIC-UREMIC SYNDROME",
+  "slug": "hemolytic_uremic_syndrome",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/hemolytic_uremic_syndrome.md",
+  "definition": "characterized by microangiopathic hemolytic anemia with typical features of DIC",
+  "demographics": {
+    "Age": "usually children < 2 years",
+    "Histo": "microangiopathy including endothelial swelling + thrombus formation in glomerulus +"
+  },
+  "dominant_finding": "kidneys of normal / slightly increased size",
+  "distribution": "lack of renal perfusion",
+  "discriminating_features": [
+    "kidneys of normal / slightly increased size",
+    "hyperechoic cortex",
+    "diastolic flow absent / reversed / reduced (= increase in resistance to flow)",
+    "return to normal waveforms predates return of urine output",
+    "lack of renal perfusion"
+  ],
+  "other_features": {
+    "general": [
+      "kidneys of normal / slightly increased size",
+      "hyperechoic cortex",
+      "diastolic flow absent / reversed / reduced (= increase in resistance to flow)",
+      "return to normal waveforms predates return of urine output"
+    ],
+    "SCINTIGRAPHY": [
+      "lack of renal perfusion"
+    ],
+    "Intestines:": [
+      "mural stratification + narrowing of bowel lumen",
+      "pericolonic fat stranding"
+    ]
+  },
+  "clinical": {
+    "Cx": "perforation, intussusception, infectious colitis",
+    "Prognosis": "complete spontaneous recovery (in 85%)"
+  }
+}

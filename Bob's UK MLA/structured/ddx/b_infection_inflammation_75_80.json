@@ -1,0 +1,52 @@
+{
+  "finding": "B. INFECTION / INFLAMMATION (75-80%",
+  "slug": "b_infection_inflammation_75_80",
+  "chapter": "SCROTUM",
+  "source_file": "processed_clusters/scrotum/b_infection_inflammation_75_80.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute epididymitis",
+      "raw": "Acute epididymitis",
+      "frequency": null
+    },
+    {
+      "name": "Orchitis",
+      "raw": "Orchitis",
+      "frequency": null
+    },
+    {
+      "name": "Intrascrotal abscess",
+      "raw": "Intrascrotal abscess",
+      "frequency": null
+    },
+    {
+      "name": "Henoch-Schönlein purpura",
+      "raw": "Henoch-Schönlein purpura",
+      "frequency": null
+    },
+    {
+      "name": "Kawasaki syndrome",
+      "raw": "Kawasaki syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Insect bite",
+      "raw": "Insect bite",
+      "frequency": null
+    },
+    {
+      "name": "Acute hydrocele",
+      "raw": "Acute hydrocele",
+      "frequency": null
+    },
+    {
+      "name": "Fournier gangrene",
+      "raw": "Fournier gangrene",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,72 @@
+{
+  "finding": "A mycotic aneurysm of the aortic root and sinus of Valsalva may be associated with infectious",
+  "slug": "a_mycotic_aneurysm_of_the_aortic_root_and_sinus_of_valsalva_may_be_associated_wi_7c7c67",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/cardiovascular_disorders/a_mycotic_aneurysm_of_the_aortic_root_and_sinus_of_valsalva_may_be_associated_wi_7c7c67.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PRIMARY MYCOTIC ANEURYSM (rare) unassociated with any demonstrable intravascular inflammatory process",
+      "raw": "PRIMARY MYCOTIC ANEURYSM (rare) unassociated with any demonstrable intravascular inflammatory process",
+      "frequency": "rare"
+    },
+    {
+      "name": "SECONDARY MYCOTIC ANEURYSM =  aneurysm due to nonsyphilitic infection",
+      "raw": "SECONDARY MYCOTIC ANEURYSM =  aneurysm due to nonsyphilitic infection",
+      "frequency": null
+    },
+    {
+      "name": "Atherosclerosis",
+      "raw": "Atherosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Aortic trauma ← accidents, aortic valve surgery, arterial graft, coronary artery bypass surgery, intravascular catheter, arterial catheterization, joint prosthesis",
+      "raw": "Aortic trauma ← accidents, aortic valve surgery, arterial graft, coronary artery bypass surgery, intravascular catheter, arterial catheterization, joint prosthesis",
+      "frequency": null
+    },
+    {
+      "name": "IV drug abuse",
+      "raw": "IV drug abuse",
+      "frequency": null
+    },
+    {
+      "name": "Sepsis",
+      "raw": "Sepsis",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial endocarditis",
+      "raw": "Bacterial endocarditis (12%)",
+      "frequency": "12%"
+    },
+    {
+      "name": "Immunocompromise",
+      "raw": "Immunocompromise (malignancy, alcoholism, corticosteroid therapy, chemotherapy, autoimmune disease, diabetes)",
+      "frequency": null
+    },
+    {
+      "name": "frequently insidious → late-stage septic shock",
+      "raw": "frequently insidious → late-stage septic shock",
+      "frequency": null
+    },
+    {
+      "name": "persistent fever, leukocytosis ← bacteremia (positive blood culture in only 53%); NO acute chest pain",
+      "raw": "persistent fever, leukocytosis ← bacteremia (positive blood culture in only 53%); NO acute chest pain",
+      "frequency": "53%"
+    },
+    {
+      "name": "Life-threatening rupture + hemorrhage",
+      "raw": "Life-threatening rupture + hemorrhage (50-75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "Uncontrolled sepsis if untreated",
+      "raw": "Uncontrolled sepsis if untreated",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "endocarditis, uni- / bicuspid aortic valve, and infected prosthetic aortic valve! Predisposing factors: Risk factors: Mechanism: (a)  hematogenous: ›  septicemia with abscess formation via vasa vasorum ›  septicemia with abscess formation via vessel lumen (b)  direct extension from adjacent infection: osteomyelitis of sternum or spine, renal or psoas abscess → weakening + destruction part of the aortic wall (c)  traumatic / iatrogenic: intima laceration (trauma, atherosclerosis, coarctation) Organism:  S. aureus (53%) > E. coli > Salmonella (33-50%) > nonhemolytic Streptococcus > Listeria > Ha"
+}

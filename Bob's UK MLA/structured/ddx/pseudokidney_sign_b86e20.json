@@ -1,0 +1,37 @@
+{
+  "finding": "Pseudokidney Sign",
+  "slug": "pseudokidney_sign_b86e20",
+  "chapter": "D. HEMATOMA",
+  "source_file": "processed_clusters/d_hematoma/pseudokidney_sign_b86e20.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intussusception",
+      "raw": "Intussusception",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing enterocolitis",
+      "raw": "Necrotizing enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Midgut volvulus",
+      "raw": "Midgut volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Sigmoid volvulus",
+      "raw": "Sigmoid volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  sonographic mass of reniform appearance with a central hyperechoic region surrounded by a hyperechoic region False-positive: feces in colon, perforated Meckel diverticulum with malrotation + Ladd bands, psoas muscle, hematoma"
+}

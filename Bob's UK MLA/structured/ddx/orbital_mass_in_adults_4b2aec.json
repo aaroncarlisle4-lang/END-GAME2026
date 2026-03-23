@@ -1,0 +1,77 @@
+{
+  "finding": "Orbital Mass in Adults",
+  "slug": "orbital_mass_in_adults_4b2aec",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/orbital_mass_in_adults_4b2aec.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cavernous malformation",
+      "raw": "Cavernous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma (b)  lymphoproliferative orbital lesion",
+      "raw": "Hemangiopericytoma (b)  lymphoproliferative orbital lesion",
+      "frequency": null
+    },
+    {
+      "name": "Typical / atypical lymphoid hyperplasia",
+      "raw": "Typical / atypical lymphoid hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma of orbit",
+      "raw": "Lymphoma of orbit (c)  lacrimal gland lesion (5-14% of biopsied orbital masses) ›  epithelial (largely neoplastic) lesion (40-50%)",
+      "frequency": "14%"
+    },
+    {
+      "name": "Pleomorphic adenoma",
+      "raw": "Pleomorphic adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoid cystic carcinoma ›  nonepithelial lesion",
+      "raw": "Adenoid cystic carcinoma ›  nonepithelial lesion",
+      "frequency": null
+    },
+    {
+      "name": "Dacryoadenitis",
+      "raw": "Dacryoadenitis",
+      "frequency": null
+    },
+    {
+      "name": "Lacrimal gland lymphoma (d)  optic nerve & meningeal lesions",
+      "raw": "Lacrimal gland lymphoma (d)  optic nerve & meningeal lesions",
+      "frequency": null
+    },
+    {
+      "name": "Optic pathway glioma",
+      "raw": "Optic pathway glioma",
+      "frequency": null
+    },
+    {
+      "name": "Optic nerve sheath meningioma (e)  peripheral nerve sheath lesions",
+      "raw": "Optic nerve sheath meningioma (e)  peripheral nerve sheath lesions",
+      "frequency": null
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant peripheral nerve sheath tumor (f)  Primary orbital melanoma (g)  Metastasis to orbit",
+      "raw": "Malignant peripheral nerve sheath tumor (f)  Primary orbital melanoma (g)  Metastasis to orbit",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  vasculogenic orbital mass"
+}

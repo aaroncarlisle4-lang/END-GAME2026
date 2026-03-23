@@ -1,0 +1,22 @@
+{
+  "finding": "Amyotrophic Lateral Sclerosis (DDx)",
+  "slug": "amyotrophic_lateral_sclerosis_ddx",
+  "chapter": "Amyotrophic Lateral Sclerosis",
+  "source_file": "processed_clusters/amyotrophic_lateral_sclerosis/amyotrophic_lateral_sclerosis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Friedreich ataxia",
+      "raw": "Friedreich ataxia",
+      "frequency": null
+    },
+    {
+      "name": "vitamin B12 deficiency",
+      "raw": "vitamin B12 deficiency (abnormal signal limited to internal capsule)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hyperintense corticospinal tracts (corona radiata, corpus callosum, posterior limb of | low SI in motor cortex on T2WI ← iron deposition"
+}

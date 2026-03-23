@@ -1,0 +1,32 @@
+{
+  "finding": "Congenital Pulmonary Venolobar Syndrome (DDx)",
+  "slug": "congenital_pulmonary_venolobar_syndrome_ddx",
+  "chapter": "Congenital Pulmonary Venolobar Syndrome",
+  "source_file": "processed_clusters/congenital_pulmonary_venolobar_syndrome/congenital_pulmonary_venolobar_syndrome_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "meandering pulmonary vein",
+      "raw": "meandering pulmonary vein",
+      "frequency": null
+    },
+    {
+      "name": "dextrocardia",
+      "raw": "dextrocardia",
+      "frequency": null
+    },
+    {
+      "name": "hypoplastic lung",
+      "raw": "hypoplastic lung",
+      "frequency": null
+    },
+    {
+      "name": "Swyer-James syndrome",
+      "raw": "Swyer-James syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "one / more vessels increasing in diameter toward diaphragm | rind of subpleural fatty tissue in affected hemithorax | lack of normal venous confluence of right lung | venous drainage into IVC, hepatic vein, portal vein, right atrium, coronary sinus"
+}

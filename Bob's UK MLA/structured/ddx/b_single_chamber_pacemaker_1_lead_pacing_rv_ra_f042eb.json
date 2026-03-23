@@ -1,0 +1,37 @@
+{
+  "finding": "B. Single-chamber pacemaker = 1 lead pacing RV / RA",
+  "slug": "b_single_chamber_pacemaker_1_lead_pacing_rv_ra_f042eb",
+  "chapter": "PULSUS ALTERNANS",
+  "source_file": "processed_clusters/pulsus_alternans/b_single_chamber_pacemaker_1_lead_pacing_rv_ra_f042eb.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Apex of RV =  single-lead intramyocardial electrode",
+      "raw": "Apex of RV =  single-lead intramyocardial electrode",
+      "frequency": null
+    },
+    {
+      "name": "Into RA",
+      "raw": "Into RA (uncommon)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Dual-chamber pacemaker = 2 leads pacing RV + RA",
+      "raw": "Dual-chamber pacemaker = 2 leads pacing RV + RA",
+      "frequency": null
+    },
+    {
+      "name": "1 lead in RA",
+      "raw": "1 lead in RA",
+      "frequency": null
+    },
+    {
+      "name": "1 lead into apex of RV",
+      "raw": "1 lead into apex of RV",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Placement: Indication:   problematic conduction pathway Indication:   SA node dysfunction, aberrant SA focus Placement:"
+}

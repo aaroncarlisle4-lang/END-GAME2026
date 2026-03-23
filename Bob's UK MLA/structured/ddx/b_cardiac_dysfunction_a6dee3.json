@@ -1,0 +1,32 @@
+{
+  "finding": "B. Cardiac dysfunction",
+  "slug": "b_cardiac_dysfunction_a6dee3",
+  "chapter": "HEART SCINTIGRAPHY",
+  "source_file": "processed_clusters/heart_scintigraphy/b_cardiac_dysfunction_a6dee3.md",
+  "quality_score": 0.633,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Cardiomyopathy",
+      "raw": "Cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "IHSS",
+      "raw": "IHSS",
+      "frequency": null
+    },
+    {
+      "name": "Valvular aortic stenosis",
+      "raw": "Valvular aortic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Mitral valve prolapse",
+      "raw": "Mitral valve prolapse (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Dural Calcifications",
+  "slug": "dural_calcifications_6e5e6e",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/dural_calcifications_6e5e6e.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Normal variant",
+      "raw": "Normal variant (esp. if small)",
+      "frequency": null
+    },
+    {
+      "name": "Chronic renal failure",
+      "raw": "Chronic renal failure",
+      "frequency": null
+    },
+    {
+      "name": "Tertiary hyperparathyroidism",
+      "raw": "Tertiary hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoiditis ossificans",
+      "raw": "Arachnoiditis ossificans",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequently associated with: significant often progressive neurologic deficit, trauma, surgery, subarachnoid hemorrhage, myelography (with oil-based contrast agents)"
+}

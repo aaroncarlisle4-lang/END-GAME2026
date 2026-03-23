@@ -1,0 +1,34 @@
+{
+  "name": "INFLAMMATORY PSEUDOTUMOR OF BLADDER",
+  "slug": "inflammatory_pseudotumor_of_bladder",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/inflammatory_pseudotumor_of_bladder.md",
+  "definition": "PSEUDOSARCOMATOUS FIBROMYXOID TUMOR",
+  "demographics": {
+    "Age": "38 (range, 15-74) years; M÷F = 11÷6",
+    "Path": "ulcerating bleeding mass",
+    "Histo": "loosely packed spindle cells within myxoid matrix",
+    "Location": "reported in every organ of body"
+  },
+  "dominant_finding": "heterogeneous mass with central hyperintense component surrounded by hypointense",
+  "distribution": "reported in every organ of body",
+  "discriminating_features": [
+    "locally aggressive single exophytic / polypoid 2-8 cm bladder mass ± ulceration",
+    "may invade through bladder wall with extravesical component",
+    "ringlike peripheral enhancement + poor central enhancement ← necrosis",
+    "heterogeneous mass with central hyperintense component surrounded by hypointense"
+  ],
+  "other_features": {
+    "general": [
+      "locally aggressive single exophytic / polypoid 2-8 cm bladder mass ± ulceration",
+      "may invade through bladder wall with extravesical component",
+      "ringlike peripheral enhancement + poor central enhancement ← necrosis"
+    ],
+    "MR": [
+      "heterogeneous mass with central hyperintense component surrounded by hypointense"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgery, high-dose steroids, radiation therapy"
+  }
+}

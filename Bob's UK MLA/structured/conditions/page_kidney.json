@@ -1,0 +1,32 @@
+{
+  "name": "PAGE KIDNEY",
+  "slug": "page_kidney",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/page_kidney.md",
+  "definition": "renin-angiotensin-mediated hypertension ← constrictive ischemic nephropathy (= reduction",
+  "demographics": {},
+  "dominant_finding": "(compressive) subcapsular fluid collection:",
+  "distribution": "indentation / flattening of renal margin",
+  "discriminating_features": [
+    "(compressive) subcapsular fluid collection:",
+    "indentation / flattening of renal margin",
+    "distortion of renal contour + thinning of renal parenchyma",
+    "kidney surrounded by fibrotic band ± calcification",
+    "stretching + splaying of intrarenal vessels"
+  ],
+  "other_features": {
+    "general": [
+      "(compressive) subcapsular fluid collection:",
+      "indentation / flattening of renal margin",
+      "distortion of renal contour + thinning of renal parenchyma",
+      "kidney surrounded by fibrotic band ± calcification",
+      "stretching + splaying of intrarenal vessels",
+      "enlarged + displaced capsular artery",
+      "delayed nephrogram",
+      "slow arterial washout",
+      "elevated resistive index at spectral Doppler",
+      "globally decreased renal function at perfusion scintigraphy"
+    ]
+  },
+  "clinical": {}
+}

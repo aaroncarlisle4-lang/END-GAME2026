@@ -1,0 +1,97 @@
+{
+  "finding": "Compartmental Predilection of Chronic DPLD",
+  "slug": "compartmental_predilection_of_chronic_dpld_3e7886",
+  "chapter": "I. Vasculitis",
+  "source_file": "processed_clusters/i_vasculitis/compartmental_predilection_of_chronic_dpld_3e7886.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "AXIAL / CORE COMPARTMENT =  peribronchial vascular bundles + lymphatics",
+      "raw": "AXIAL / CORE COMPARTMENT =  peribronchial vascular bundles + lymphatics",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangitic carcinomatosis",
+      "raw": "Lymphangitic carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "MIDDLE / PARENCHYMAL COMPARTMENT =  formed by alveolar walls",
+      "raw": "MIDDLE / PARENCHYMAL COMPARTMENT =  formed by alveolar walls",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangitic carcinomatosis",
+      "raw": "Lymphangitic carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic medications",
+      "raw": "Chronic medications",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Vasculitis",
+      "raw": "Vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "Silicosis",
+      "raw": "Silicosis",
+      "frequency": null
+    },
+    {
+      "name": "PERIPHERAL COMPARTMENT =  pleura with subpleural connective tissue, interlobular septa, pulmonary veins,",
+      "raw": "PERIPHERAL COMPARTMENT =  pleura with subpleural connective tissue, interlobular septa, pulmonary veins,",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangitic carcinomatosis",
+      "raw": "Lymphangitic carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic pulmonary fibrosis",
+      "raw": "Idiopathic pulmonary fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Collagen vascular disease",
+      "raw": "Collagen vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "lymphatics, walls of cortical alveoli"
+}

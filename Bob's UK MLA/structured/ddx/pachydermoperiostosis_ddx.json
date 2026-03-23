@@ -1,0 +1,22 @@
+{
+  "finding": "Pachydermoperiostosis (DDx)",
+  "slug": "pachydermoperiostosis_ddx",
+  "chapter": "Pachydermoperiostosis",
+  "source_file": "processed_clusters/pachydermoperiostosis/pachydermoperiostosis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hypertrophic pulmonary osteoarthropathy",
+      "raw": "hypertrophic pulmonary osteoarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "thyroid acropachy",
+      "raw": "thyroid acropachy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "irregular periosteal proliferation of phalanges + distal long bones (hand + feet) beginning in | thick cortex, BUT NO narrowing of medulla | clubbing | may have acroosteolysis"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "B. Trauma",
+  "slug": "b_trauma",
+  "chapter": "CATAMENIAL PNEUMOTHORAX",
+  "source_file": "processed_clusters/catamenial_pneumothorax/b_trauma.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Closed / penetrating chest trauma / birth trauma (25%): latent period of 10 days",
+      "raw": "Closed / penetrating chest trauma / birth trauma (25%): latent period of 10 days",
+      "frequency": "25%"
+    },
+    {
+      "name": "Surgery (2nd most common cause):",
+      "raw": "Surgery (2nd most common cause):",
+      "frequency": "most common"
+    },
+    {
+      "name": "Subclavian venous catheter",
+      "raw": "Subclavian venous catheter",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "esophagectomy / cardiovascular surgery, esp. coarctation repair (0.5%), retroperitoneal surgery, neck surgery"
+}

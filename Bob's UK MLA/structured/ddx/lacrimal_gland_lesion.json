@@ -1,0 +1,63 @@
+{
+  "finding": "Lacrimal Gland Lesion",
+  "slug": "lacrimal_gland_lesion",
+  "chapter": "LACRIMAL GLAND",
+  "source_file": "processed_clusters/lacrimal_gland/lacrimal_gland_lesion.md",
+  "quality_score": 0.667,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "INFLAMMATION",
+      "raw": "INFLAMMATION",
+      "frequency": null
+    },
+    {
+      "name": "Dacryoadenitis",
+      "raw": "Dacryoadenitis",
+      "frequency": null
+    },
+    {
+      "name": "Mikulicz disease",
+      "raw": "Mikulicz disease",
+      "frequency": null
+    },
+    {
+      "name": "Sjögren syndrome",
+      "raw": "Sjögren syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Pseudotumor of orbit",
+      "raw": "Pseudotumor of orbit",
+      "frequency": null
+    },
+    {
+      "name": "IgG4-related disease",
+      "raw": "IgG4-related disease",
+      "frequency": null
+    },
+    {
+      "name": "TUMOR (a) benign:",
+      "raw": "TUMOR (a) benign:",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "INFLAMMATION": [],
+    "Dacryoadenitis": [],
+    "Mikulicz disease": [],
+    "Sjögren syndrome": [],
+    "Sarcoidosis": [],
+    "Pseudotumor of orbit": [],
+    "IgG4-related disease": [],
+    "TUMOR (a) benign:": [
+      "granuloma, cyst, benign mixed tumor (= pleomorphic adenoma) (b) malignant: malignant mixed tumor (= pleomorphic adenocarcinoma), adenoid cystic carcinoma, lymphoma, metastasis (rare)"
+    ]
+  },
+  "context": "granuloma, cyst, benign mixed tumor (= pleomorphic adenoma) (b) malignant: malignant mixed tumor (= pleomorphic adenocarcinoma), adenoid cystic carcinoma, lymphoma, metastasis (rare)"
+}

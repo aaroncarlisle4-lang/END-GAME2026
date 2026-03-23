@@ -1,0 +1,52 @@
+{
+  "finding": "MEN 3 Syndrome",
+  "slug": "men_3_syndrome_5b76b7",
+  "chapter": "MILK OF CALCIUM BILE",
+  "source_file": "processed_clusters/milk_of_calcium_bile/men_3_syndrome_5b76b7.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Medullary carcinoma of thyroid",
+      "raw": "Medullary carcinoma of thyroid",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Intestinal ganglioneuromatosis = mucosal neuroma = oral + intestinal neuroganglioneuromatosis ◊  Mucosal neuromas are PATHOGNOMONIC ◊  Usually precede the appearance of thyroid carcinoma + pheochromocytoma!",
+      "raw": "Intestinal ganglioneuromatosis = mucosal neuroma = oral + intestinal neuroganglioneuromatosis ◊  Mucosal neuromas are PATHOGNOMONIC ◊  Usually precede the appearance of thyroid carcinoma + pheochromocytoma!",
+      "frequency": null
+    },
+    {
+      "name": "long slender extremities",
+      "raw": "long slender extremities (marfanoid appearance)",
+      "frequency": null
+    },
+    {
+      "name": "thickened lips ← submucosal nodules",
+      "raw": "thickened lips ← submucosal nodules",
+      "frequency": null
+    },
+    {
+      "name": "nodular deformity of tongue",
+      "raw": "nodular deformity of tongue (mucosal neuromas of tongue often initially diagnosed by dentists)",
+      "frequency": null
+    },
+    {
+      "name": "corneal limbus thickening; prognathism",
+      "raw": "corneal limbus thickening; prognathism",
+      "frequency": null
+    },
+    {
+      "name": "constipation alternating with diarrhea @  GI tract",
+      "raw": "constipation alternating with diarrhea @  GI tract",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  MUCOSAL NEUROMA SYNDROME = MEN TYPE 2B Cause:  genetic defect on chromosome 10 Organ involvement (MPheG): √  thickened / plaquelike colonic wall √  chronic megacolon = dilated colon with abnormal haustral markings √  alternating areas of colonic spasm + dilatation (rarely associated with Hirschsprüng disease) √  multiple submucosal neuromas throughout small bowel, may act as lead point for intussusception"
+}

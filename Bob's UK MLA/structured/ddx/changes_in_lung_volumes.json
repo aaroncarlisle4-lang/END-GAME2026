@@ -1,0 +1,69 @@
+{
+  "finding": "Changes In Lung Volumes",
+  "slug": "changes_in_lung_volumes",
+  "chapter": "LUNG FUNCTION",
+  "source_file": "processed_clusters/lung_function/changes_in_lung_volumes.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "DECREASED VITAL CAPACITY:",
+      "raw": "DECREASED VITAL CAPACITY:",
+      "frequency": null
+    },
+    {
+      "name": "Reduction in functioning lung tissue due to (a)  space-occupying process (eg, pneumonia, infarction) (b)  surgical removal of lung tissue",
+      "raw": "Reduction in functioning lung tissue due to (a)  space-occupying process (eg, pneumonia, infarction) (b)  surgical removal of lung tissue",
+      "frequency": null
+    },
+    {
+      "name": "Process reducing overall volume of the lungs",
+      "raw": "Process reducing overall volume of the lungs (eg, diffuse pulmonary fibrosis)",
+      "frequency": null
+    },
+    {
+      "name": "Inability to expand lungs due to (a)  muscular weakness (eg, poliomyelitis) (b)  increase in abdominal volume (eg, pregnancy) (c)  pleural effusion",
+      "raw": "Inability to expand lungs due to (a)  muscular weakness (eg, poliomyelitis) (b)  increase in abdominal volume (eg, pregnancy) (c)  pleural effusion",
+      "frequency": null
+    },
+    {
+      "name": "INCREASED FRC and RV:",
+      "raw": "INCREASED FRC and RV:",
+      "frequency": null
+    },
+    {
+      "name": "DECREASED FRC and RV:",
+      "raw": "DECREASED FRC and RV:",
+      "frequency": null
+    },
+    {
+      "name": "Process reducing overall volume of lungs",
+      "raw": "Process reducing overall volume of lungs",
+      "frequency": null
+    },
+    {
+      "name": "Process that occupies volume within alveoli",
+      "raw": "Process that occupies volume within alveoli (eg, alveolar microlithiasis)",
+      "frequency": null
+    },
+    {
+      "name": "Process that elevates diaphragm (eg, ascites, pregnancy), usually associated with decreased TLC",
+      "raw": "Process that elevates diaphragm (eg, ascites, pregnancy), usually associated with decreased TLC",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "DECREASED VITAL CAPACITY:": [],
+    "Reduction in functioning lung tissue due to (a)  space-occupying process (eg, pneumonia, infarction) (b)  surgical removal of lung tissue": [],
+    "Process reducing overall volume of the lungs": [],
+    "Inability to expand lungs due to (a)  muscular weakness (eg, poliomyelitis) (b)  increase in abdominal volume (eg, pregnancy) (c)  pleural effusion": [
+      "=  characteristic of air trapping and overinflation (eg, asthma, emphysema) Associated with:   increased TLC"
+    ],
+    "INCREASED FRC and RV:": [],
+    "DECREASED FRC and RV:": [],
+    "Process reducing overall volume of lungs": [],
+    "Process that occupies volume within alveoli": [],
+    "Process that elevates diaphragm (eg, ascites, pregnancy), usually associated with decreased TLC": []
+  },
+  "context": "=  characteristic of air trapping and overinflation (eg, asthma, emphysema) Associated with:   increased TLC √  normal level of inflation to 8th posterior rib (eg, diffuse pulmonary fibrosis)"
+}

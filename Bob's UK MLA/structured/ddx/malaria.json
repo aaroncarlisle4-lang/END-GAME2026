@@ -1,0 +1,37 @@
+{
+  "finding": "MALARIA",
+  "slug": "malaria",
+  "chapter": "HARD-METAL PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/malaria.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endemic to:   sub-Saharan Africa, South America, southern Asia",
+      "raw": "Endemic to:   sub-Saharan Africa, South America, southern Asia",
+      "frequency": null
+    },
+    {
+      "name": "Transmission:   bite by female Anopheles mosquito",
+      "raw": "Transmission:   bite by female Anopheles mosquito (definite host)",
+      "frequency": null
+    },
+    {
+      "name": "Transmission vector:   sporozoite = motile infective form",
+      "raw": "Transmission vector:   sporozoite = motile infective form",
+      "frequency": null
+    },
+    {
+      "name": "Secondary host:   vertebrate",
+      "raw": "Secondary host:   vertebrate (human)",
+      "frequency": null
+    },
+    {
+      "name": "fever with chills, sweating, anemia, leukopenia, splenomegaly @  Lung",
+      "raw": "fever with chills, sweating, anemia, leukopenia, splenomegaly @  Lung",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "[mala aria, Italian = bad air] [anophelos, Greek = useless] =  mosquito-borne infectious disease by Plasmodium species Prevalence:   400-500 million new cases annually worldwide Prognosis:   2.2-2.7 million deaths annually in mostly young children ◊  Most deadly parasitic infection in the world! Life cycle: (a)  with a mosquito's bite the motile infective form (sporozoite) travels through blood vessels to hepatocytes → asexual reproduction (= tissue schizogony) → thousands of merozoites (b)  merozoites infect new RBCs initiating a series of asexual multiplication cycles (= blood schizogony) pr"
+}

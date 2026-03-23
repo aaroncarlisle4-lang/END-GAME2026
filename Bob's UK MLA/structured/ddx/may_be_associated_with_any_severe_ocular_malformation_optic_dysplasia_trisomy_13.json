@@ -1,0 +1,52 @@
+{
+  "finding": "May be associated with: any severe ocular malformation / optic dysplasia / trisomy 13",
+  "slug": "may_be_associated_with_any_severe_ocular_malformation_optic_dysplasia_trisomy_13",
+  "chapter": "PERSISTENT FETAL VASCULATURE",
+  "source_file": "processed_clusters/persistent_fetal_vasculature/may_be_associated_with_any_severe_ocular_malformation_optic_dysplasia_trisomy_13.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "unilateral leukokoria (2nd most common cause) ◊  19-28% of leukokoria cases",
+      "raw": "unilateral leukokoria (2nd most common cause) ◊  19-28% of leukokoria cases",
+      "frequency": "28%"
+    },
+    {
+      "name": "seizures, mental deficiency, hearing loss",
+      "raw": "seizures, mental deficiency, hearing loss",
+      "frequency": null
+    },
+    {
+      "name": "± cataract, strabismus, painful glaucoma, hyphema, uveitis",
+      "raw": "± cataract, strabismus, painful glaucoma, hyphema, uveitis",
+      "frequency": null
+    },
+    {
+      "name": "ophthalmoscopy: S-shaped tubular mass extending between posterior surface of lens + region of optic nerve head; lens opacity may preclude diagnosis",
+      "raw": "ophthalmoscopy: S-shaped tubular mass extending between posterior surface of lens + region of optic nerve head; lens opacity may preclude diagnosis",
+      "frequency": null
+    },
+    {
+      "name": "Proliferation of embryonic tissue",
+      "raw": "Proliferation of embryonic tissue",
+      "frequency": null
+    },
+    {
+      "name": "Retinal detachment from organizing hemorrhage / traction",
+      "raw": "Retinal detachment from organizing hemorrhage / traction",
+      "frequency": null
+    },
+    {
+      "name": "Hydrops / atrophy of globe + resorption of lens",
+      "raw": "Hydrops / atrophy of globe + resorption of lens",
+      "frequency": null
+    },
+    {
+      "name": "Phthisis bulbi (scarred shrunken eye) Rx:   preservation of globe for cosmetic reasons; enucleation for retinal hemorrhage + glaucoma only",
+      "raw": "Phthisis bulbi (scarred shrunken eye) Rx:   preservation of globe for cosmetic reasons; enucleation for retinal hemorrhage + glaucoma only",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Age:   noticed at birth / within first few weeks of life Location:   unilateral ◊  Bilaterality is a feature of a congenital syndrome (Norrie disease, Warburg disease)! √  microphthalmia = small hypoplastic globe (61-92%): √  normal-sized globe (13%) √  buphthalmos (in up to 26%) √  retinal detachment ← vitreoretinal traction in 30% US: √  hyperechoic band extending from posterior pole of globe to posterior surface of lens (= embryonic rest of primary vitreus) √  central anechoic line (= persistent hyaloid artery) with positive Doppler signals √  hyperechoic band extending from papilla to ora"
+}

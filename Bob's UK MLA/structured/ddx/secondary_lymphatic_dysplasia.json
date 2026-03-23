@@ -1,0 +1,67 @@
+{
+  "finding": "Secondary Lymphatic Dysplasia",
+  "slug": "secondary_lymphatic_dysplasia",
+  "chapter": "LYMPHATIC DYSPLASIA",
+  "source_file": "processed_clusters/lymphatic_dysplasia/secondary_lymphatic_dysplasia.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Treatment of cancer: obliteration of lymph nodes by excision or irradiation ◊  Lymphedema may appear months to years after treatment ← gradual deterioration in intrinsic contractile force of lymphatic wall / valve incompetence",
+      "raw": "Treatment of cancer: obliteration of lymph nodes by excision or irradiation ◊  Lymphedema may appear months to years after treatment ← gradual deterioration in intrinsic contractile force of lymphatic wall / valve incompetence",
+      "frequency": null
+    },
+    {
+      "name": "Filariasis =  nematode (Wuchereria bancrofti, Brugia malayi) resides within peripheral lymphatic vessels + nodes + obstructs lymph flow",
+      "raw": "Filariasis =  nematode (Wuchereria bancrofti, Brugia malayi) resides within peripheral lymphatic vessels + nodes + obstructs lymph flow",
+      "frequency": null
+    },
+    {
+      "name": "elephantine / pachydermatous extremities / genitalia",
+      "raw": "elephantine / pachydermatous extremities / genitalia",
+      "frequency": null
+    },
+    {
+      "name": "chyluria, hydrocele, chylous reflux (chylometrorrhagia, chylous vesicles), genital edema, massive breast engorgement",
+      "raw": "chyluria, hydrocele, chylous reflux (chylometrorrhagia, chylous vesicles), genital edema, massive breast engorgement",
+      "frequency": null
+    },
+    {
+      "name": "Long-standing venous disease / following venous stripping",
+      "raw": "Long-standing venous disease / following venous stripping",
+      "frequency": null
+    },
+    {
+      "name": "Lymphatic obstruction by cancer, Kaposi sarcoma",
+      "raw": "Lymphatic obstruction by cancer, Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphatic inflammation: topical use of Cantharone ® (for eradication of plantar warts);",
+      "raw": "Lymphatic inflammation: topical use of Cantharone ® (for eradication of plantar warts);",
+      "frequency": null
+    },
+    {
+      "name": "Minor trauma to soft tissue / bone",
+      "raw": "Minor trauma to soft tissue / bone",
+      "frequency": null
+    },
+    {
+      "name": "Sedentary condition: eg, confinement to wheelchair",
+      "raw": "Sedentary condition: eg, confinement to wheelchair",
+      "frequency": null
+    },
+    {
+      "name": "Morbid obesity",
+      "raw": "Morbid obesity",
+      "frequency": null
+    },
+    {
+      "name": "Lymphedema tarda =  congenital lymphedema with delayed manifestation secondary to superimposed secondary cause",
+      "raw": "Lymphedema tarda =  congenital lymphedema with delayed manifestation secondary to superimposed secondary cause",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  obstruction of lymph flow from an acquired cause Cause: injection treatment of varicosities"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "THORACIC PARAGANGLIOMA",
+  "slug": "thoracic_paraganglioma",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/thoracic_paraganglioma.md",
+  "definition": "CHEMODECTOMA rare neural tumor arising from paraganglionic tissue",
+  "demographics": {
+    "Age": "3rd-5th decade; M÷F = 1÷1",
+    "Path": "extremely vascular well-marginated / irregular mass that may adhere to / envelop /",
+    "Histo": "anastomosing cords of granule-storing chief cells arranged in a trabecular pattern;"
+  },
+  "dominant_finding": "hypodense areas ← extensive cystic degeneration / hemorrhage",
+  "distribution": "sharply marginated 5-7-cm middle / posterior mediastinal mass",
+  "discriminating_features": [
+    "useful and relatively specific for localization purposes",
+    "sharply marginated 5-7-cm middle / posterior mediastinal mass",
+    "hypodense areas ← extensive cystic degeneration / hemorrhage",
+    "exuberant enhancement",
+    "heterogeneous intermediate SI with areas of signal void from flowing blood on T1WI"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "sharply marginated 5-7-cm middle / posterior mediastinal mass",
+      "hypodense areas ← extensive cystic degeneration / hemorrhage",
+      "exuberant enhancement"
+    ],
+    "MR": [
+      "heterogeneous intermediate SI with areas of signal void from flowing blood on T1WI",
+      "high signal intensity on T2WI",
+      "useful and relatively specific for localization purposes"
+    ],
+    "ANGIO": [
+      "marked hypervascularity, multiple feeding vessels",
+      "homogeneous capillary blush"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical excision with preoperative administration of α- or β-blockers (hypertensive"
+  }
+}

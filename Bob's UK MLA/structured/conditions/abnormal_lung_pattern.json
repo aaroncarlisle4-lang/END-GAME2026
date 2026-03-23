@@ -1,0 +1,23 @@
+{
+  "name": "ABNORMAL LUNG PATTERN",
+  "slug": "abnormal_lung_pattern",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_chest_disorders/abnormal_lung_pattern.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "wall thickening: bronchitis, asthma, bronchiectasis",
+  "distribution": "",
+  "discriminating_features": [
+    "wall thickening: bronchitis, asthma, bronchiectasis",
+    "density without air bronchogram (= complete airway obstruction)",
+    "lucency of air trapping (= partial airway obstruction with ball-valve mechanism)"
+  ],
+  "other_features": {
+    "general": [
+      "wall thickening: bronchitis, asthma, bronchiectasis",
+      "density without air bronchogram (= complete airway obstruction)",
+      "lucency of air trapping (= partial airway obstruction with ball-valve mechanism)"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,95 @@
+{
+  "finding": "C. METABOLIC DISEASE hypoparathyroidism; lead intoxication; hypo- / hypervitaminosis A",
+  "slug": "c_metabolic_disease_hypoparathyroidism_lead_intoxication_hypo_hypervitaminosis_a",
+  "chapter": "Sutural Abnormalities",
+  "source_file": "processed_clusters/sutural_abnormalities/c_metabolic_disease_hypoparathyroidism_lead_intoxication_hypo_hypervitaminosis_a.md",
+  "quality_score": 0.8,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "RAISED INTRACRANIAL PRESSURE",
+      "raw": "RAISED INTRACRANIAL PRESSURE",
+      "frequency": null
+    },
+    {
+      "name": "Intracerebral tumor",
+      "raw": "Intracerebral tumor",
+      "frequency": null
+    },
+    {
+      "name": "Subdural hematoma",
+      "raw": "Subdural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Hydrocephalus",
+      "raw": "Hydrocephalus",
+      "frequency": null
+    },
+    {
+      "name": "INFILTRATION OF SUTURES",
+      "raw": "INFILTRATION OF SUTURES",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "RECOVERY from",
+      "raw": "RECOVERY from",
+      "frequency": null
+    },
+    {
+      "name": "Deprivational dwarfism",
+      "raw": "Deprivational dwarfism",
+      "frequency": null
+    },
+    {
+      "name": "Chronic illness",
+      "raw": "Chronic illness",
+      "frequency": null
+    },
+    {
+      "name": "Prematurity",
+      "raw": "Prematurity",
+      "frequency": null
+    },
+    {
+      "name": "Hypothyroidism",
+      "raw": "Hypothyroidism",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "RAISED INTRACRANIAL PRESSURE": [],
+    "Intracerebral tumor": [],
+    "Subdural hematoma": [],
+    "Hydrocephalus": [],
+    "INFILTRATION OF SUTURES": [
+      "poorly defined margins Craniosynostosis =  CRANIOSTENOSIS = premature closure of sutures (closing normally at about 30 years of age) Age:  often present at birth; M÷F = 4÷1 Etiology:"
+    ],
+    "Neuroblastoma": [],
+    "Leukemia": [],
+    "Lymphoma": [],
+    "RECOVERY from": [
+      "Cause: Age:  seen only if < 10 years of age Location:   coronal > sagittal > lambdoid > squamosal suture Cause:   metastases to meninges from"
+    ],
+    "Deprivational dwarfism": [],
+    "Chronic illness": [],
+    "Prematurity": [],
+    "Hypothyroidism": []
+  },
+  "context": "Cause: Age:  seen only if < 10 years of age Location:   coronal > sagittal > lambdoid > squamosal suture Cause:   metastases to meninges from √  poorly defined margins Craniosynostosis =  CRANIOSTENOSIS = premature closure of sutures (closing normally at about 30 years of age) Age:  often present at birth; M÷F = 4÷1 Etiology:"
+}

@@ -1,0 +1,87 @@
+{
+  "finding": "B. ACQUIRED CYST (a) centrilobular / bullous emphysema",
+  "slug": "b_acquired_cyst_a_centrilobular_bullous_emphysema_8748dc",
+  "chapter": "D. INHALATION",
+  "source_file": "processed_clusters/d_inhalation/b_acquired_cyst_a_centrilobular_bullous_emphysema_8748dc.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bleb = cystic air collection within visceral pleura; mostly apical with narrow neck",
+      "raw": "Bleb = cystic air collection within visceral pleura; mostly apical with narrow neck",
+      "frequency": null
+    },
+    {
+      "name": "Bulla = sharply demarcated dilated air space within lung parenchyma > 1 cm in diameter with epithelialized wall < 1 mm thick due to destruction of alveoli",
+      "raw": "Bulla = sharply demarcated dilated air space within lung parenchyma > 1 cm in diameter with epithelialized wall < 1 mm thick due to destruction of alveoli (= air cyst in localized / centrilobular / panlobular emphysema)",
+      "frequency": null
+    },
+    {
+      "name": "usually asymptomatic",
+      "raw": "usually asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous pneumothorax",
+      "raw": "Spontaneous pneumothorax",
+      "frequency": null
+    },
+    {
+      "name": "\"Vanishing lung\" = large area of localized emphysema causing atelectasis + dyspnea",
+      "raw": "\"Vanishing lung\" = large area of localized emphysema causing atelectasis + dyspnea",
+      "frequency": null
+    },
+    {
+      "name": "Postinfectious pneumatocele",
+      "raw": "Postinfectious pneumatocele",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic pneumatocele: lung hematoma / hydrocarbon inhalation (c)  cystic bronchiectasis",
+      "raw": "Traumatic pneumatocele: lung hematoma / hydrocarbon inhalation (c)  cystic bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis (more obvious in upper lobes)",
+      "frequency": null
+    },
+    {
+      "name": "Agammaglobulinemia",
+      "raw": "Agammaglobulinemia (predisposed to recurrent bacterial infections)",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent bacterial pneumonias",
+      "raw": "Recurrent bacterial pneumonias",
+      "frequency": null
+    },
+    {
+      "name": "Childhood infection: tuberculosis, pertussis",
+      "raw": "Childhood infection: tuberculosis, pertussis",
+      "frequency": null
+    },
+    {
+      "name": "Allergic bronchopulmonary aspergillosis",
+      "raw": "Allergic bronchopulmonary aspergillosis (in asthmatic patients)",
+      "frequency": null
+    },
+    {
+      "name": "Kartagener syndrome (ciliary dysmotility) (d)  infection",
+      "raw": "Kartagener syndrome (ciliary dysmotility) (d)  infection",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid disease (e)  interstitial emphysema",
+      "raw": "Hydatid disease (e)  interstitial emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Pseudocyst",
+      "raw": "Pseudocyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  typically at lung apex √  slow progressive enlargement Cx: Rx:   surgical resection if bulla > ⅓ of hemithorax (b)  pneumatocele √  multiple thin-walled lucencies with air-fluid levels in lower lobes √  involvement of proximal perihilar bronchi"
+}

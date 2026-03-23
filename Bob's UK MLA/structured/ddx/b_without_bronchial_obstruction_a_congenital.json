@@ -1,0 +1,107 @@
+{
+  "finding": "B. WITHOUT BRONCHIAL OBSTRUCTION (a) congenital",
+  "slug": "b_without_bronchial_obstruction_a_congenital",
+  "chapter": "D. TRAUMA",
+  "source_file": "processed_clusters/d_trauma/b_without_bronchial_obstruction_a_congenital.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic fibrosis (b)  inflammatory / infectious",
+      "raw": "Cystic fibrosis (b)  inflammatory / infectious",
+      "frequency": null
+    },
+    {
+      "name": "Allergic bronchopulmonary aspergillosis: central perihilar + upper lobe bronchiectasis",
+      "raw": "Allergic bronchopulmonary aspergillosis: central perihilar + upper lobe bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "Asthma (most frequent cause): esp. during acute attack or convalescent phase",
+      "raw": "Asthma (most frequent cause): esp. during acute attack or convalescent phase",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Chronic bronchitis",
+      "raw": "Chronic bronchitis",
+      "frequency": null
+    },
+    {
+      "name": "Fluid-filled bronchiectasis: history of childhood pneumonia; peripheral distribution",
+      "raw": "Fluid-filled bronchiectasis: history of childhood pneumonia; peripheral distribution",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary edema",
+      "raw": "Pulmonary edema",
+      "frequency": null
+    },
+    {
+      "name": "Proteinosis",
+      "raw": "Proteinosis",
+      "frequency": null
+    },
+    {
+      "name": "Periarteritis",
+      "raw": "Periarteritis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Drugs",
+      "raw": "Drugs",
+      "frequency": null
+    },
+    {
+      "name": "Goodpasture syndrome",
+      "raw": "Goodpasture syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar cell carcinoma",
+      "raw": "Alveolar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Uremia",
+      "raw": "Uremia",
+      "frequency": null
+    },
+    {
+      "name": "Peripheral \"Reverse Bat-wing\" Infiltrates",
+      "raw": "Peripheral \"Reverse Bat-wing\" Infiltrates",
+      "frequency": null
+    },
+    {
+      "name": "Resolving pulmonary edema",
+      "raw": "Resolving pulmonary edema",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic pneumonia",
+      "raw": "Eosinophilic pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Desquamative interstitial pneumonia",
+      "raw": "Desquamative interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Perihilar \"Bat-wing\" Infiltrates mnemonic:   Please, Please, Please, Study Light, Don't Get All Uptight"
+}

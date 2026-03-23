@@ -1,0 +1,57 @@
+{
+  "finding": "Diffuse Hepatic Enlargement = Hepatomegaly",
+  "slug": "diffuse_hepatic_enlargement_hepatomegaly_b039a9",
+  "chapter": "E. BILIARY",
+  "source_file": "processed_clusters/e_biliary/diffuse_hepatic_enlargement_hepatomegaly_b039a9.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "METABOLIC",
+      "raw": "METABOLIC",
+      "frequency": null
+    },
+    {
+      "name": "Fatty infiltration",
+      "raw": "Fatty infiltration",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid",
+      "raw": "Amyloid",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "Gaucher disease",
+      "raw": "Gaucher disease",
+      "frequency": null
+    },
+    {
+      "name": "Von Gierke disease",
+      "raw": "Von Gierke disease",
+      "frequency": null
+    },
+    {
+      "name": "Niemann-Pick disease",
+      "raw": "Niemann-Pick disease",
+      "frequency": null
+    },
+    {
+      "name": "Weber-Christian disease",
+      "raw": "Weber-Christian disease",
+      "frequency": null
+    },
+    {
+      "name": "Galactosemia",
+      "raw": "Galactosemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

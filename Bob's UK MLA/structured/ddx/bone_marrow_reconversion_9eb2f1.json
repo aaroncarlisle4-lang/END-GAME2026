@@ -1,0 +1,42 @@
+{
+  "finding": "Bone Marrow Reconversion",
+  "slug": "bone_marrow_reconversion_9eb2f1",
+  "chapter": "BONE MARROW",
+  "source_file": "processed_clusters/bone_marrow/bone_marrow_reconversion_9eb2f1.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Obesity",
+      "raw": "Obesity",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonic pathology",
+      "raw": "Pulmonic pathology",
+      "frequency": null
+    },
+    {
+      "name": "Smoking",
+      "raw": "Smoking",
+      "frequency": null
+    },
+    {
+      "name": "High altitude",
+      "raw": "High altitude",
+      "frequency": null
+    },
+    {
+      "name": "High-performance athletes",
+      "raw": "High-performance athletes",
+      "frequency": null
+    },
+    {
+      "name": "GCSF",
+      "raw": "GCSF (granulocyte stimulating factor)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  reversal of yellow to red marrow"
+}

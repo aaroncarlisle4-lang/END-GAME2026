@@ -1,0 +1,42 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_1_77aa52",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/b_malignant_1_77aa52.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastases (most common sacral neoplasm):",
+      "raw": "Metastases (most common sacral neoplasm):",
+      "frequency": "most common"
+    },
+    {
+      "name": "Plasmacytoma, multiple myeloma",
+      "raw": "Plasmacytoma, multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma, leukemia",
+      "raw": "Lymphoma, leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma (most common primary)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Sacrococcygeal teratoma",
+      "raw": "Sacrococcygeal teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "›  hematogenous: lung, breast, kidney, prostate ›  contiguous: rectum, uterus, bladder"
+}

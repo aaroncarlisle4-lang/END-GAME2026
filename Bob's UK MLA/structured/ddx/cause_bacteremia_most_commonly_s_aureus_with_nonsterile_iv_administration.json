@@ -1,0 +1,67 @@
+{
+  "finding": "Cause: bacteremia (most commonly S. aureus) with nonsterile IV administration",
+  "slug": "cause_bacteremia_most_commonly_s_aureus_with_nonsterile_iv_administration",
+  "chapter": "RECREATIONAL DRUG ABUSE",
+  "source_file": "processed_clusters/recreational_drug_abuse/cause_bacteremia_most_commonly_s_aureus_with_nonsterile_iv_administration.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Arterial complications",
+      "raw": "Arterial complications",
+      "frequency": null
+    },
+    {
+      "name": "Aortic dissection Cause:   systemic hypertension + positive inotropic + chronotropic cardiac effects of cocaine",
+      "raw": "Aortic dissection Cause:   systemic hypertension + positive inotropic + chronotropic cardiac effects of cocaine",
+      "frequency": null
+    },
+    {
+      "name": "Arterial occlusion (a)  at injection site ← intimal damage, thrombosis, spasm (b)  distal to injection site ← embolization, spasm",
+      "raw": "Arterial occlusion (a)  at injection site ← intimal damage, thrombosis, spasm (b)  distal to injection site ← embolization, spasm",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoaneurysm",
+      "raw": "Pseudoaneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Mycotic aneurysm",
+      "raw": "Mycotic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous fistula",
+      "raw": "Arteriovenous fistula",
+      "frequency": null
+    },
+    {
+      "name": "Embolization of infectious agent / foreign body / air through inadvertent arterial injection",
+      "raw": "Embolization of infectious agent / foreign body / air through inadvertent arterial injection (\"hit the pink\")",
+      "frequency": null
+    },
+    {
+      "name": "Venous complications",
+      "raw": "Venous complications",
+      "frequency": null
+    },
+    {
+      "name": "Deep vein thrombosis (DVT) (after superficial veins have been exhausted) \"groin hit\" into femoral vein; \"pocket shot\" into jugular, subclavian vein, brachiocephalic vein",
+      "raw": "Deep vein thrombosis (DVT) (after superficial veins have been exhausted) \"groin hit\" into femoral vein; \"pocket shot\" into jugular, subclavian vein, brachiocephalic vein",
+      "frequency": null
+    },
+    {
+      "name": "Septic thrombophlebitis",
+      "raw": "Septic thrombophlebitis",
+      "frequency": null
+    },
+    {
+      "name": "Intravenous migration of needle to heart / lungs",
+      "raw": "Intravenous migration of needle to heart / lungs",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

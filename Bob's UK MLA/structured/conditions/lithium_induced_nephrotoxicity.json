@@ -1,0 +1,31 @@
+{
+  "name": "LITHIUM-INDUCED NEPHROTOXICITY",
+  "slug": "lithium_induced_nephrotoxicity",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/lithium_induced_nephrotoxicity.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "multiple tiny hypoattenuating lesions",
+  "distribution": "abundant uniformly distributed renal microcysts",
+  "discriminating_features": [
+    "typically normal-sized kidneys",
+    "abundant uniformly distributed renal microcysts",
+    "1-2 mm microcysts (in 33-62%)",
+    "multiple tiny hypoattenuating lesions",
+    "multiple T2-hyperintense foci"
+  ],
+  "other_features": {
+    "general": [
+      "typically normal-sized kidneys",
+      "abundant uniformly distributed renal microcysts",
+      "1-2 mm microcysts (in 33-62%)"
+    ],
+    "CT": [
+      "multiple tiny hypoattenuating lesions",
+      "multiple T2-hyperintense foci"
+    ]
+  },
+  "clinical": {
+    "Rx": "reversible with drug cessation"
+  }
+}

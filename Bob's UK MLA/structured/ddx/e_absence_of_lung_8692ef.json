@@ -1,0 +1,62 @@
+{
+  "finding": "E. ABSENCE OF LUNG",
+  "slug": "e_absence_of_lung_8692ef",
+  "chapter": "Organism: Pseudomonas aeruginosa, Gram-negative",
+  "source_file": "processed_clusters/organism_pseudomonas_aeruginosa_gram_negative/e_absence_of_lung_8692ef.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pneumonectomy",
+      "raw": "Pneumonectomy (8%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Unilateral pulmonary agenesis",
+      "raw": "Unilateral pulmonary agenesis",
+      "frequency": null
+    },
+    {
+      "name": "Swyer-James syndrome",
+      "raw": "Swyer-James syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Agenesis",
+      "raw": "Agenesis (pulmonary)",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosis",
+      "raw": "Fibrosis (mediastinal)",
+      "frequency": null
+    },
+    {
+      "name": "Effusion",
+      "raw": "Effusion (pleural)",
+      "frequency": null
+    },
+    {
+      "name": "Pneumonectomy, Pneumothorax",
+      "raw": "Pneumonectomy, Pneumothorax",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction by tumor",
+      "raw": "Obstruction by tumor",
+      "frequency": null
+    },
+    {
+      "name": "Embolus",
+      "raw": "Embolus (pulmonary)",
+      "frequency": null
+    },
+    {
+      "name": "Mucous plug",
+      "raw": "Mucous plug",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

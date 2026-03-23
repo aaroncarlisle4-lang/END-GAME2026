@@ -1,0 +1,132 @@
+{
+  "finding": "Associated with: fibrosis + muscular hyperplasia",
+  "slug": "associated_with_fibrosis_muscular_hyperplasia",
+  "chapter": "ENDOCERVICAL POLYP",
+  "source_file": "processed_clusters/endocervical_polyp/associated_with_fibrosis_muscular_hyperplasia.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Diffuse endometriosis",
+      "raw": "Diffuse endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Discrete pelvic mass = endometrioma",
+      "raw": "Discrete pelvic mass = endometrioma (in up to 10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Expectant with NSAID",
+      "raw": "Expectant with NSAID",
+      "frequency": null
+    },
+    {
+      "name": "Hormonal therapy (for pelvic pain / dyspareunia) to create a state of pseudopregnancy / pseudo-menopause / chronic anovulation: danocrine (Danazol®),",
+      "raw": "Hormonal therapy (for pelvic pain / dyspareunia) to create a state of pseudopregnancy / pseudo-menopause / chronic anovulation: danocrine (Danazol®),",
+      "frequency": null
+    },
+    {
+      "name": "Surgery (for infertility / intractable pain):",
+      "raw": "Surgery (for infertility / intractable pain):",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic ovarian cyst",
+      "raw": "Hemorrhagic ovarian cyst (acute symptoms, more complex cyst with clot retraction, thin fibrin stranding, resolution in 4-6 weeks)",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst (calcification, fat-fluid level, hyperechoic areas)",
+      "frequency": null
+    },
+    {
+      "name": "Cystic neoplasm",
+      "raw": "Cystic neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Tuboovarian abscess",
+      "raw": "Tuboovarian abscess",
+      "frequency": null
+    },
+    {
+      "name": "fixed pelvic organs",
+      "raw": "fixed pelvic organs (during bimanual US)",
+      "frequency": null
+    },
+    {
+      "name": "Malignant transformation to ovarian cancer",
+      "raw": "Malignant transformation to ovarian cancer (1-2.5%)",
+      "frequency": "2.5%"
+    },
+    {
+      "name": "in women > 45 years of age",
+      "raw": "in women > 45 years of age",
+      "frequency": null
+    },
+    {
+      "name": "acute abdomen ← chemical peritonitis",
+      "raw": "acute abdomen ← chemical peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "catamenial diarrhea, constipation",
+      "raw": "catamenial diarrhea, constipation",
+      "frequency": null
+    },
+    {
+      "name": "rectal pain / hematochezia",
+      "raw": "rectal pain / hematochezia [ khezein, Greek = defecate]",
+      "frequency": null
+    },
+    {
+      "name": "dysuria, urgency, frequency, cyclical hematuria",
+      "raw": "dysuria, urgency, frequency, cyclical hematuria",
+      "frequency": null
+    },
+    {
+      "name": "urinary obstruction, flank pain Path:   initially serosal endometriotic deposits that may infiltrate into bladder / ureteral wall",
+      "raw": "urinary obstruction, flank pain Path:   initially serosal endometriotic deposits that may infiltrate into bladder / ureteral wall",
+      "frequency": null
+    },
+    {
+      "name": "pleuritic chest pain, cyclic hemoptysis Cause:   microembolization",
+      "raw": "pleuritic chest pain, cyclic hemoptysis Cause:   microembolization (via lymphatics or vascular channels), peritoneal-pleural migration (through diaphragmatic defects)",
+      "frequency": null
+    },
+    {
+      "name": "presenting symptoms:",
+      "raw": "presenting symptoms:",
+      "frequency": null
+    },
+    {
+      "name": "pneumothorax",
+      "raw": "pneumothorax (73%), hemothorax (14%)",
+      "frequency": "73%"
+    },
+    {
+      "name": "hemoptysis",
+      "raw": "hemoptysis (7%), lung nodules (6%)",
+      "frequency": "7%"
+    },
+    {
+      "name": "palpable mass ± catamenial bleeding",
+      "raw": "palpable mass ± catamenial bleeding",
+      "frequency": null
+    },
+    {
+      "name": "focal pain / tenderness associated with menses Location:   laparotomy scar, cervical biopsy / electrocautery, episiotomy scar, umbilicus",
+      "raw": "focal pain / tenderness associated with menses Location:   laparotomy scar, cervical biopsy / electrocautery, episiotomy scar, umbilicus",
+      "frequency": null
+    },
+    {
+      "name": "cyclic headaches, seizures",
+      "raw": "cyclic headaches, seizures",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Morphologic types: Dx:   laparoscopy / surgery ← limitations of imaging Rx: GnRH agonist (Lupron®), oral contraceptive pills implant recurrence in 28% by 18 months + in 40% by 9 years; adhesion recurrence in 40-50% Diffuse Endometriosis Path:  punctate small foci / stellate patches of < 2 cm initiating inflammatory response → organizing hemorrhage, fibrosis, adhesions US (low sensitivity): √  in 70% normal = often no detectable abnormality (when lesions small + scattered) MR (71% sensitive, 82% specific): √  frequently hyperintense multiple cysts bilaterally with thick walls on T1WI √  foci of"
+}

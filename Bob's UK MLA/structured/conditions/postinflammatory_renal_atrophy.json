@@ -1,0 +1,23 @@
+{
+  "name": "POSTINFLAMMATORY RENAL ATROPHY",
+  "slug": "postinflammatory_renal_atrophy",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/postinflammatory_renal_atrophy.md",
+  "definition": "acute bacterial nephritis with irreversible ischemia as unusual form of severe gram-negative",
+  "demographics": {
+    "Histo": "occlusion of interlobar arteries / vasospasm"
+  },
+  "dominant_finding": "small smooth kidney",
+  "distribution": "",
+  "discriminating_features": [
+    "small smooth kidney",
+    "papillary necrosis in acute phase"
+  ],
+  "other_features": {
+    "general": [
+      "small smooth kidney",
+      "papillary necrosis in acute phase"
+    ]
+  },
+  "clinical": {}
+}

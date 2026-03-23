@@ -1,0 +1,42 @@
+{
+  "finding": "Acute Gastric Atony",
+  "slug": "acute_gastric_atony_58b331",
+  "chapter": "Gastric Atony",
+  "source_file": "processed_clusters/gastric_atony/acute_gastric_atony_58b331.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute gastric dilatation ← decreased arterial perfusion ← ischemia / CHF in old patients, usually fatal",
+      "raw": "Acute gastric dilatation ← decreased arterial perfusion ← ischemia / CHF in old patients, usually fatal",
+      "frequency": null
+    },
+    {
+      "name": "Postsurgical atony, ureteral catheterization",
+      "raw": "Postsurgical atony, ureteral catheterization",
+      "frequency": null
+    },
+    {
+      "name": "Immobilization: body cast, paraplegia, postoperative state",
+      "raw": "Immobilization: body cast, paraplegia, postoperative state",
+      "frequency": null
+    },
+    {
+      "name": "Abdominal trauma: especially back injury",
+      "raw": "Abdominal trauma: especially back injury",
+      "frequency": null
+    },
+    {
+      "name": "Severe pain: renal / biliary colic, migraine headaches, severe burns",
+      "raw": "Severe pain: renal / biliary colic, migraine headaches, severe burns",
+      "frequency": null
+    },
+    {
+      "name": "Infection: peritonitis, pancreatitis, appendicitis, subphrenic abscess, septicemia",
+      "raw": "Infection: peritonitis, pancreatitis, appendicitis, subphrenic abscess, septicemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(may develop within 24-48 hours)"
+}

@@ -1,0 +1,62 @@
+{
+  "finding": "METASTASES TO BONE",
+  "slug": "metastases_to_bone",
+  "chapter": "MACRODYSTROPHIA LIPOMATOSA",
+  "source_file": "processed_clusters/macrodystrophia_lipomatosa/metastases_to_bone.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoma, Squamous cell carcinoma",
+      "raw": "Sarcoma, Squamous cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Kidney tumor",
+      "raw": "Kidney tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian cancer",
+      "raw": "Ovarian cancer",
+      "frequency": null
+    },
+    {
+      "name": "Hodgkin disease",
+      "raw": "Hodgkin disease",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Testicular cancer",
+      "raw": "Testicular cancer",
+      "frequency": null
+    },
+    {
+      "name": "Lung cancer",
+      "raw": "Lung cancer",
+      "frequency": null
+    },
+    {
+      "name": "Prostate cancer",
+      "raw": "Prostate cancer",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid cancer",
+      "raw": "Thyroid cancer",
+      "frequency": null
+    },
+    {
+      "name": "Breast cancer",
+      "raw": "Breast cancer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  15-100 times more common than primary skeletal neoplasms! SOLITARY BONE LESION ◊  Of all causes only 7% are due to metastasis ◊  In patients with known malignancy solitary bone lesions are due to metastasis (55%), due to trauma (25%), due to infection (10%) Location:   axial skeleton (64-68%), ribs (45%), extremities (24%), skull (12%) mnemonic:   Several Kinds Of Horribly Nasty Tumors Leap Promptly To Bone Breast cancer:        extensive osteolytic lesions; involvement of entire skeleton; pathologic fractures common Thyroid / kidney:    often solitary; rapid progression with bone expansion"
+}

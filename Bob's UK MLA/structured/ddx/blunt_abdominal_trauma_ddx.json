@@ -1,0 +1,32 @@
+{
+  "finding": "Blunt Abdominal Trauma (DDx)",
+  "slug": "blunt_abdominal_trauma_ddx",
+  "chapter": "Blunt Abdominal Trauma",
+  "source_file": "processed_clusters/blunt_abdominal_trauma/blunt_abdominal_trauma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bowel contents",
+      "raw": "bowel contents",
+      "frequency": null
+    },
+    {
+      "name": "urine",
+      "raw": "urine",
+      "frequency": null
+    },
+    {
+      "name": "bile",
+      "raw": "bile",
+      "frequency": null
+    },
+    {
+      "name": "ascites",
+      "raw": "ascites",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "extravasation always surrounded by lower-density hematoma (DDx: extravasated oral | usually anechoic fluid accumulation in subhepatic space (= Morison pouch) > pouch of"
+}

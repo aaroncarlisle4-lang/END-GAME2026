@@ -1,0 +1,31 @@
+{
+  "finding": "Schwannoma Of Gi Tract (DDx)",
+  "slug": "schwannoma_of_gi_tract_ddx",
+  "chapter": "Schwannoma Of Gi Tract",
+  "source_file": "processed_clusters/schwannoma_of_gi_tract/schwannoma_of_gi_tract_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "GIST",
+      "raw": "GIST",
+      "frequency": null
+    },
+    {
+      "name": "leiomyoma",
+      "raw": "leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "GIST": [],
+    "leiomyoma": [],
+    "lymphoma": []
+  },
+  "context": "homogeneous attenuation in spite of relatively large size (!) | uncommonly calcified | no / minimal enhancement during arterial phase | delayed enhancement during equilibrium phase"
+}

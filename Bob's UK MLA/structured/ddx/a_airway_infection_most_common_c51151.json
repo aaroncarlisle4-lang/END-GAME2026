@@ -1,0 +1,32 @@
+{
+  "finding": "A. AIRWAY INFECTION (most common",
+  "slug": "a_airway_infection_most_common_c51151",
+  "chapter": "C. Pneumoconiosis",
+  "source_file": "processed_clusters/c_pneumoconiosis/a_airway_infection_most_common_c51151.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bacterial: Mycobacterium tuberculosis (endobronchial spread of active TB), atypical mycobacteria (M avium- intracellulare complex, M fortuitum, M chelonei),",
+      "raw": "Bacterial: Mycobacterium tuberculosis (endobronchial spread of active TB), atypical mycobacteria (M avium- intracellulare complex, M fortuitum, M chelonei),",
+      "frequency": null
+    },
+    {
+      "name": "Viral: CMV, Respiratory syncytial virus",
+      "raw": "Viral: CMV, Respiratory syncytial virus",
+      "frequency": null
+    },
+    {
+      "name": "Fungal: invasive aspergillosis",
+      "raw": "Fungal: invasive aspergillosis (A fumigatus)",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic",
+      "raw": "Parasitic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Staphylococcus aureus, Haemophilus influenzae"
+}

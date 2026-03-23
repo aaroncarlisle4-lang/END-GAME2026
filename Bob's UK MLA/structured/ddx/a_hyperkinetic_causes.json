@@ -1,0 +1,62 @@
+{
+  "finding": "A. HYPERKINETIC CAUSES",
+  "slug": "a_hyperkinetic_causes",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/a_hyperkinetic_causes.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "L-to-R shunt",
+      "raw": "L-to-R shunt",
+      "frequency": null
+    },
+    {
+      "name": "High cardiac output states: thyrotoxicosis, chronic anemia",
+      "raw": "High cardiac output states: thyrotoxicosis, chronic anemia",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse pulmonary arteriovenous shunts: hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu), pregnancy, polysplenia syndrome, liver cirrhosis, complex cardiac malformations",
+      "raw": "Diffuse pulmonary arteriovenous shunts: hereditary hemorrhagic telangiectasia (Osler-Weber-Rendu), pregnancy, polysplenia syndrome, liver cirrhosis, complex cardiac malformations",
+      "frequency": null
+    },
+    {
+      "name": "OBLITERATIVE CAUSES (a)  vascular = precapillary pHTN:",
+      "raw": "OBLITERATIVE CAUSES (a)  vascular = precapillary pHTN:",
+      "frequency": null
+    },
+    {
+      "name": "Primary plexogenic pulmonary arteriopathy = Primary pHTN",
+      "raw": "Primary plexogenic pulmonary arteriopathy = Primary pHTN",
+      "frequency": null
+    },
+    {
+      "name": "Arteritis",
+      "raw": "Arteritis (eg, Takayasu)",
+      "frequency": null
+    },
+    {
+      "name": "Embolization ›  chronic thromboembolic disease ›  tumor",
+      "raw": "Embolization ›  chronic thromboembolic disease ›  tumor",
+      "frequency": null
+    },
+    {
+      "name": "Persistent fetal circulation",
+      "raw": "Persistent fetal circulation",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary capillary hemangiomatosis (b)  pleuropulmonic disease",
+      "raw": "Pulmonary capillary hemangiomatosis (b)  pleuropulmonic disease",
+      "frequency": null
+    },
+    {
+      "name": "Chronic interstitial lung disease = cor pulmonale:",
+      "raw": "Chronic interstitial lung disease = cor pulmonale:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  lymphangitic carcinomatosis ›  parasites, eg, schistosomiasis √  hepatosplenomegaly ›  talc crystals √  micronodular opacities √  perihilar fibrotic masses"
+}

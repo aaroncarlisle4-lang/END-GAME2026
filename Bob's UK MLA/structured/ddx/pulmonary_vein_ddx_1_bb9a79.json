@@ -1,0 +1,22 @@
+{
+  "finding": "Pulmonary Vein (DDx)",
+  "slug": "pulmonary_vein_ddx_1_bb9a79",
+  "chapter": "Pulmonary Vein",
+  "source_file": "processed_clusters/pulmonary_vein/pulmonary_vein_ddx_1_bb9a79.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pulmonary neoplasm",
+      "raw": "pulmonary neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "fibrosing mediastinitis",
+      "raw": "fibrosing mediastinitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "serpentine tubular opacity adjacent to lung hilum | small lung with ipsilateral mediastinal deviation | reticular opacities with Kerley B lines"
+}

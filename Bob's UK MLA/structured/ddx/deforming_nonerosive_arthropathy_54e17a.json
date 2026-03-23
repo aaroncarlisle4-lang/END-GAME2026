@@ -1,0 +1,27 @@
+{
+  "finding": "Deforming Nonerosive Arthropathy",
+  "slug": "deforming_nonerosive_arthropathy_54e17a",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/deforming_nonerosive_arthropathy_54e17a.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Collagen-vascular disease, especially SLE",
+      "raw": "Collagen-vascular disease, especially SLE",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Rheumatic fever",
+      "raw": "Rheumatic fever (Jaccoud arthritis) (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

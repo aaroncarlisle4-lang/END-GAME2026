@@ -1,0 +1,27 @@
+{
+  "finding": "D. OTHER",
+  "slug": "d_other_2",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/d_other_2.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gynandroblastoma",
+      "raw": "Gynandroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Sex cord tumor with annular tubules associated with Peutz-Jeghers syndrome",
+      "raw": "Sex cord tumor with annular tubules associated with Peutz-Jeghers syndrome (30% of all tumors with annular tubules)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Sclerosing stromal tumor",
+      "raw": "Sclerosing stromal tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

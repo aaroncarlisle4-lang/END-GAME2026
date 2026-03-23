@@ -1,0 +1,48 @@
+{
+  "name": "ASKIN TUMOR",
+  "slug": "askin_tumor",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/askin_tumor.md",
+  "definition": "EXTRASKELETAL EWING SARCOMA = PRIMITIVE NEUROECTODERMAL TUMOR (PNET) uncommon tumor probably arising from intercostal nerves",
+  "demographics": {
+    "Mean age": "14.5 years; M÷F = 1÷3; Caucasian",
+    "Path": "neuroectodermal small cell tumor containing neuron-specific enolase (may also be found"
+  },
+  "dominant_finding": "large unilateral heterogeneous chest wall mass with intra- and extrathoracic components",
+  "distribution": "ipsilateral hilar + mediastinal lymphadenopathy",
+  "discriminating_features": [
+    "large tumor involving chest wall + pleura",
+    "high tumor vascularity",
+    "rib destruction (occasionally arising from rib) in 25-63%",
+    "often large malignant pleural effusion",
+    "pulmonary parenchymal disease (25%)"
+  ],
+  "other_features": {
+    "general": [
+      "large tumor involving chest wall + pleura",
+      "high tumor vascularity",
+      "rib destruction (occasionally arising from rib) in 25-63%",
+      "often large malignant pleural effusion",
+      "pulmonary parenchymal disease (25%)",
+      "calcifications (10%)",
+      "ipsilateral hilar + mediastinal lymphadenopathy",
+      "± pneumothorax ← pulmonary involvement"
+    ],
+    "CT": [
+      "large unilateral heterogeneous chest wall mass with intra- and extrathoracic components",
+      "± pleural, pericardial, diaphragmatic, vertebral, spinal extension and involvement"
+    ],
+    "MR": [
+      "predominantly intermediate SI on T1WI + high SI on T2WI",
+      "prominent areas of high SI on T2WI ← hemorrhage + necrosis",
+      "commonly invasion of chest wall musculature + mediastinum + lung"
+    ],
+    "NUC": [
+      "↑ activity on bone scan + 111In-pentetreotide + 99mTc-MIBI",
+      "NO uptake on FDG PET"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "median survival of 8 months"
+  }
+}

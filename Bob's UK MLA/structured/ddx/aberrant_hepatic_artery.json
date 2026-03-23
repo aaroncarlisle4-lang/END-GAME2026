@@ -1,0 +1,67 @@
+{
+  "finding": "Aberrant Hepatic Artery",
+  "slug": "aberrant_hepatic_artery",
+  "chapter": "Iron Accumulation in Spleen",
+  "source_file": "processed_clusters/iron_accumulation_in_spleen/aberrant_hepatic_artery.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Replaced right hepatic artery",
+      "raw": "Replaced right hepatic artery (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Right hepatic artery with early bifurcation of common hepatic artery into right + left hepatic arteries",
+      "raw": "Right hepatic artery with early bifurcation of common hepatic artery into right + left hepatic arteries (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Accessory right hepatic artery",
+      "raw": "Accessory right hepatic artery (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Replacement of entire hepatic trunk to SMA",
+      "raw": "Replacement of entire hepatic trunk to SMA (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Cholecystic veins ›  directly entering liver segments 4 + 5 ›  veins joining the parabiliary veins via triangle of Calot",
+      "raw": "Cholecystic veins ›  directly entering liver segments 4 + 5 ›  veins joining the parabiliary veins via triangle of Calot",
+      "frequency": null
+    },
+    {
+      "name": "Parabiliary venous system =  venous network within hepatoduodenal ligament anterior to main portal vein",
+      "raw": "Parabiliary venous system =  venous network within hepatoduodenal ligament anterior to main portal vein",
+      "frequency": null
+    },
+    {
+      "name": "Epigastric-paraumbilical venous system =  small veins around falciform ligament draining anterior part of abdominal wall directly into liver",
+      "raw": "Epigastric-paraumbilical venous system =  small veins around falciform ligament draining anterior part of abdominal wall directly into liver",
+      "frequency": null
+    },
+    {
+      "name": "Normal Hemodynamic Parameters of Liver",
+      "raw": "Normal Hemodynamic Parameters of Liver",
+      "frequency": null
+    },
+    {
+      "name": "Portal vein velocity:   > 11 (range, 16-40) cm/sec",
+      "raw": "Portal vein velocity:   > 11 (range, 16-40) cm/sec",
+      "frequency": null
+    },
+    {
+      "name": "Portal vein cross-section:   0.99 ± 0.28 cm2",
+      "raw": "Portal vein cross-section:   0.99 ± 0.28 cm2",
+      "frequency": null
+    },
+    {
+      "name": "Congestion index:   0.070 ± 0.09 cm•sec",
+      "raw": "Congestion index:   0.070 ± 0.09 cm•sec",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  hepatic artery coursing between IVC + portal vein Left Hepatic Artery =  usually arises from proper hepatic artery (PHA) Location:   from hepatic hilum to umbilical portion of left portal vein (usually to its right) coursing up- and leftward Accessory LHAs:     from LGA / celiac trunk / aorta Division (arteriographic description): after forming an arch overriding the portal vein ›  A2 branches: course to left corner of liver, usually superior to A3 ›  A3 branches: course ventral + caudal along left side of umbilical portion of PV and then toward left Right Hepatic Artery =  usually arises f"
+}

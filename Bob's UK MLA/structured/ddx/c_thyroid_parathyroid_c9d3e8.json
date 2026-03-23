@@ -1,0 +1,57 @@
+{
+  "finding": "C. THYROID / PARATHYROID",
+  "slug": "c_thyroid_parathyroid_c9d3e8",
+  "chapter": "MEDIASTINUM",
+  "source_file": "processed_clusters/mediastinum/c_thyroid_parathyroid_c9d3e8.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Substernal thyroid / intrathoracic goiter",
+      "raw": "Substernal thyroid / intrathoracic goiter (10% of all mediastinal masses)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Thyroid adenoma / carcinoma",
+      "raw": "Thyroid adenoma / carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic parathyroid adenoma:",
+      "raw": "Ectopic parathyroid adenoma:",
+      "frequency": null
+    },
+    {
+      "name": "LYMPH NODES",
+      "raw": "LYMPH NODES",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma (Hodgkin, NHL): may arise in thymus, more common in young adults",
+      "raw": "Lymphoma (Hodgkin, NHL): may arise in thymus, more common in young adults",
+      "frequency": "common"
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Benign lymph node hyperplasia",
+      "raw": "Benign lymph node hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Angioblastic lymphadenopathy",
+      "raw": "Angioblastic lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal lymphadenitis: sarcoidosis / granulomatous infection",
+      "raw": "Mediastinal lymphadenitis: sarcoidosis / granulomatous infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "ectopia in 1-3% (62-81% in anterior mediastinum / thymus, 30% within thyroid tissue, 8% in posterior superior mediastinum)"
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "B. OVARIES",
+  "slug": "b_ovaries_c17453",
+  "chapter": "E. CONSTITUTIONAL DELAY (10%",
+  "source_file": "processed_clusters/e_constitutional_delay_10/b_ovaries_c17453.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Papillary cystadenoma",
+      "raw": "Papillary cystadenoma (psammomatous bodies)",
+      "frequency": null
+    },
+    {
+      "name": "Cystadenocarcinoma",
+      "raw": "Cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Gonadoblastoma",
+      "raw": "Gonadoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Chronic ovarian torsion",
+      "raw": "Chronic ovarian torsion",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomyxoma peritonei",
+      "raw": "Pseudomyxoma peritonei",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

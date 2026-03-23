@@ -1,0 +1,60 @@
+{
+  "finding": "Conditions Causing RA Dilatation",
+  "slug": "conditions_causing_ra_dilatation",
+  "chapter": "Enlargement of Coronary Sinus",
+  "source_file": "processed_clusters/enlargement_of_coronary_sinus/conditions_causing_ra_dilatation.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tricuspid stenosis / regurgitation",
+      "raw": "Tricuspid stenosis / regurgitation",
+      "frequency": null
+    },
+    {
+      "name": "Right ventricular dysfunction (failure): CHF, cardiomyopathy, atrial fibrillation, atrioventricular node reentrant tachycardia",
+      "raw": "Right ventricular dysfunction (failure): CHF, cardiomyopathy, atrial fibrillation, atrioventricular node reentrant tachycardia",
+      "frequency": null
+    },
+    {
+      "name": "Severe pulmonary hypertension [Right atrial hypertension]",
+      "raw": "Severe pulmonary hypertension",
+      "frequency": null,
+      "sites": [
+        "Right atrial hypertension"
+      ]
+    },
+    {
+      "name": "Cardiac tamponade",
+      "raw": "Cardiac tamponade",
+      "frequency": null
+    },
+    {
+      "name": "persistent left SVC draining into coronary sinus",
+      "raw": "persistent left SVC draining into coronary sinus",
+      "frequency": null
+    },
+    {
+      "name": "interrupted IVC with hemiazygos continuation to a left SVC / hepatic veins connecting directly into coronary sinus The coronary sinus dilates most commonly due to a left SVC draining into the coronary sinus!",
+      "raw": "interrupted IVC with hemiazygos continuation to a left SVC / hepatic veins connecting directly into coronary sinus The coronary sinus dilates most commonly due to a left SVC draining into the coronary sinus!",
+      "frequency": null
+    },
+    {
+      "name": "Interatrial shunt (= coronary sinus-ASD) LA → unroofed coronary sinus An unroofed coronary sinus is a complete / partial wall defect partitioning the coronary sinus from the left atrium!",
+      "raw": "Interatrial shunt (= coronary sinus-ASD) LA → unroofed coronary sinus An unroofed coronary sinus is a complete / partial wall defect partitioning the coronary sinus from the left atrium!",
+      "frequency": null
+    },
+    {
+      "name": "TAPVR ›  high-pressure shunt:",
+      "raw": "TAPVR ›  high-pressure shunt:",
+      "frequency": null
+    },
+    {
+      "name": "Coronary arteriovenous fistula",
+      "raw": "Coronary arteriovenous fistula",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Congenital Structural Anomaly (a)  increased volume of systemic venous blood (b)  L-to-R shunt: oxygenated blood ›  low-pressure shunt:"
+}

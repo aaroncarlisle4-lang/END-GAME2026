@@ -1,0 +1,65 @@
+{
+  "finding": "Extrauterine Pelvic Mass",
+  "slug": "extrauterine_pelvic_mass_d71d0c",
+  "chapter": "E. LITHOPEDION",
+  "source_file": "processed_clusters/e_lithopedion/extrauterine_pelvic_mass_d71d0c.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Solid adnexal mass",
+      "raw": "Solid adnexal mass",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic disease",
+      "raw": "Metastatic disease",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma [Pelvic kidney]",
+      "raw": "Lymphoma",
+      "frequency": null,
+      "sites": [
+        "Pelvic kidney"
+      ]
+    },
+    {
+      "name": "Rectosigmoid carcinoma",
+      "raw": "Rectosigmoid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Bladder carcinoma",
+      "raw": "Bladder carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal tumor / fibrosis",
+      "raw": "Retroperitoneal tumor / fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Intraperitoneal fat",
+      "raw": "Intraperitoneal fat",
+      "frequency": null
+    },
+    {
+      "name": "Vascular mass / malformation",
+      "raw": "Vascular mass / malformation",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Bowel",
+      "raw": "Bowel",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

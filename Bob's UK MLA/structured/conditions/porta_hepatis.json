@@ -1,0 +1,23 @@
+{
+  "name": "PORTA HEPATIS",
+  "slug": "porta_hepatis",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/porta_hepatis.md",
+  "definition": "",
+  "demographics": {
+    "Location": "along anterior and posterior to portal vein + hepatoduodenal ligament"
+  },
+  "dominant_finding": "may be associated with hepatic metastasis",
+  "distribution": "along anterior and posterior to portal vein + hepatoduodenal ligament",
+  "discriminating_features": [
+    "may be associated with hepatic metastasis",
+    "compression / thrombosis of portal vein"
+  ],
+  "other_features": {
+    "general": [
+      "may be associated with hepatic metastasis",
+      "compression / thrombosis of portal vein"
+    ]
+  },
+  "clinical": {}
+}

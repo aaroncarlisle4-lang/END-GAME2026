@@ -1,0 +1,42 @@
+{
+  "finding": "Acute Portal Vein Thrombosis",
+  "slug": "acute_portal_vein_thrombosis_ddb4d6",
+  "chapter": "PORCELAIN GALLBLADDER",
+  "source_file": "processed_clusters/porcelain_gallbladder/acute_portal_vein_thrombosis_ddb4d6.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "may be asymptomatic",
+      "raw": "may be asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "exacerbation of preexisting portal hypertension",
+      "raw": "exacerbation of preexisting portal hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous transformation",
+      "raw": "Cavernous transformation (19%)",
+      "frequency": "19%"
+    },
+    {
+      "name": "Hepatic infarction",
+      "raw": "Hepatic infarction",
+      "frequency": null
+    },
+    {
+      "name": "Bowel infarction",
+      "raw": "Bowel infarction",
+      "frequency": null
+    },
+    {
+      "name": "Variceal bleeding → shock",
+      "raw": "Variceal bleeding → shock",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Plain film: √  hepatosplenomegaly √  enlarged azygos vein √  paraspinal varices UGI: √  esophageal varices √  thickening of bowel wall US: √  echogenic material within vessel lumen (67%) / thrombus may be isoechoic √  increase in portal vein diameter (57%): √  enlargement of thrombosed segment > 15 mm (38%) √  portosystemic collateral circulation (48%): biliary and gastric tributaries of portal vein (most common) √  thickening of lesser omentum Doppler-US: √  NO flow on postprandial color Doppler scans: ◊  Malignant thrombus tends to distend vein + exhibit pulsatile flow, a bland thrombus does"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "GASTRIC DIVERTICULUM",
+  "slug": "gastric_diverticulum",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/gastric_diverticulum.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "1÷600 to 1÷2,400 of UGI studies",
+    "Age": "beyond 40 years",
+    "Location": "juxtacardiac on posterior wall (75%), prepyloric (15-22%), greater curve (3%)"
+  },
+  "dominant_finding": "pliability + varying degrees of distension",
+  "distribution": "juxtacardiac on posterior wall (75%), prepyloric (15-22%), greater curve (3%)",
+  "discriminating_features": [
+    "pliability + varying degrees of distension",
+    "NO mass, edema or rigidity of adjacent folds"
+  ],
+  "other_features": {
+    "general": [
+      "pliability + varying degrees of distension",
+      "NO mass, edema or rigidity of adjacent folds"
+    ]
+  },
+  "clinical": {}
+}

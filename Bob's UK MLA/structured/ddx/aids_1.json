@@ -1,0 +1,39 @@
+{
+  "finding": "AIDS",
+  "slug": "aids_1",
+  "chapter": "ADRENOLEUKODYSTROPHY",
+  "source_file": "processed_clusters/adrenoleukodystrophy/aids_1.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "neurologic symptoms as initial complaint in 7-10%, ultimately afflict up to 40-60%:",
+      "raw": "neurologic symptoms as initial complaint in 7-10%, ultimately afflict up to 40-60%:",
+      "frequency": "10%"
+    },
+    {
+      "name": "ATROPHY:",
+      "raw": "ATROPHY:",
+      "frequency": null
+    },
+    {
+      "name": "Malnutrition, dehydration, steroid therapy, chronic dialysis, normal aging",
+      "raw": "Malnutrition, dehydration, steroid therapy, chronic dialysis, normal aging",
+      "frequency": null
+    },
+    {
+      "name": "AIDS dementia complex (ADC) =  SUBACUTE ENCEPHALITIS = HIV ENCEPHALITIS =  cognitive disturbances → progressing to dementia",
+      "raw": "AIDS dementia complex (ADC) =  SUBACUTE ENCEPHALITIS = HIV ENCEPHALITIS =  cognitive disturbances → progressing to dementia",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "neurologic symptoms as initial complaint in 7-10%, ultimately afflict up to 40-60%:": [
+      "=  late symptoms of DNA retrovirus infection attacking monocytes + macrophages → deficient cell-mediated immunity Incidence:   1,200,000 HIV-seropositive persons (0.3% of population) in USA IN 2011; 14% undiagnosed; 50,000 new HIV infections per year Histo:   formation of microglial nodules instead of granulomas in 75-80% of autopsied brains personality + mental status changes, headache, memory loss, difficulty to concentrate, depression, confusion, dementia, new onset of seizures, focal deficit from mass lesion ◊  Any male with neurologic symptoms between age 20 and 50 has AIDS until proven o"
+    ],
+    "ATROPHY:": [],
+    "Malnutrition, dehydration, steroid therapy, chronic dialysis, normal aging": [],
+    "AIDS dementia complex (ADC) =  SUBACUTE ENCEPHALITIS = HIV ENCEPHALITIS =  cognitive disturbances → progressing to dementia": []
+  },
+  "context": "=  late symptoms of DNA retrovirus infection attacking monocytes + macrophages → deficient cell-mediated immunity Incidence:   1,200,000 HIV-seropositive persons (0.3% of population) in USA IN 2011; 14% undiagnosed; 50,000 new HIV infections per year Histo:   formation of microglial nodules instead of granulomas in 75-80% of autopsied brains personality + mental status changes, headache, memory loss, difficulty to concentrate, depression, confusion, dementia, new onset of seizures, focal deficit from mass lesion ◊  Any male with neurologic symptoms between age 20 and 50 has AIDS until proven o"
+}

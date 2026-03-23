@@ -1,0 +1,87 @@
+{
+  "finding": "CHOLECYSTITIS",
+  "slug": "cholecystitis_0fc6d9",
+  "chapter": "CHOLANGITIS",
+  "source_file": "processed_clusters/cholangitis/cholecystitis_0fc6d9.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "persisting (> 6 hr) RUQ pain radiating to right shoulder / scapula / interscapular area (DDx:",
+      "raw": "persisting (> 6 hr) RUQ pain radiating to right shoulder / scapula / interscapular area (DDx:",
+      "frequency": null
+    },
+    {
+      "name": "nausea, vomiting, chills, fever, RUQ tenderness + guarding",
+      "raw": "nausea, vomiting, chills, fever, RUQ tenderness + guarding",
+      "frequency": null
+    },
+    {
+      "name": "Murphy sign = inspiratory arrest upon palpation of GB area",
+      "raw": "Murphy sign = inspiratory arrest upon palpation of GB area (falsely positive in 6% of patients with cholelithiasis)",
+      "frequency": "6%"
+    },
+    {
+      "name": "± leukocytosis, elevated levels of alkaline phosphatase and transaminase and amylase",
+      "raw": "± leukocytosis, elevated levels of alkaline phosphatase and transaminase and amylase",
+      "frequency": null
+    },
+    {
+      "name": "mild hyperbilirubinemia",
+      "raw": "mild hyperbilirubinemia (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "delayed images up to 4 hours",
+      "raw": "delayed images up to 4 hours",
+      "frequency": null
+    },
+    {
+      "name": "cholecystokinin (Sincalide®) injection 15 minutes prior to study",
+      "raw": "cholecystokinin (Sincalide®) injection 15 minutes prior to study",
+      "frequency": null
+    },
+    {
+      "name": "morphine IV (0.04 mg/kg) at 40 minutes with reimaging after 20 minutes →",
+      "raw": "morphine IV (0.04 mg/kg) at 40 minutes with reimaging after 20 minutes →",
+      "frequency": null
+    },
+    {
+      "name": "Gangrene",
+      "raw": "Gangrene",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess (pericholecystic)",
+      "frequency": null
+    },
+    {
+      "name": "Mirizzi syndrome",
+      "raw": "Mirizzi syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Emphysematous cholecystitis",
+      "raw": "Emphysematous cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Bouveret syndrome",
+      "raw": "Bouveret syndrome (= gallstone erodes into duodenum leading to duodenal obstruction)",
+      "frequency": null
+    },
+    {
+      "name": "Empyema",
+      "raw": "Empyema",
+      "frequency": null
+    },
+    {
+      "name": "Gallstone ileus",
+      "raw": "Gallstone ileus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Etiology: (a)   in 80-95% cystic duct obstruction by impacted calculus; 85% disimpact spontaneously if stone < 3 mm (b)  in 10% acalculous cholecystitis Acute Calculous Cholecystitis Pathogenesis:   chemical irritation from concentrated bile, bacterial infection, reflux of pancreatic secretions Age peak:   5th-6th decade; M÷F = 1÷3 Associated with:   choledocholithiasis (15-25%) ◊  5% of patients presenting to ED have acute cholecystitis! biliary colic usually < 6 hours) US (40-97% sensitive, 64-100% specific, 92% PPV, 95% NPV): √  ± GB wall thickening > 3 mm (45-72% sensitive, 76-88% specific"
+}

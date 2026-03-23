@@ -1,0 +1,37 @@
+{
+  "finding": "Langerhans Cell Histiocytosis — CNS (DDx)",
+  "slug": "langerhans_cell_histiocytosis_cns_ddx",
+  "chapter": "Langerhans Cell Histiocytosis",
+  "source_file": "processed_clusters/langerhans_cell_histiocytosis/langerhans_cell_histiocytosis_cns_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "germinoma",
+      "raw": "germinoma",
+      "frequency": null
+    },
+    {
+      "name": "craniopharyngioma",
+      "raw": "craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "tuberculosis",
+      "raw": "tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "sarcoidosis",
+      "raw": "sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "lymphocytic hypophysitis",
+      "raw": "lymphocytic hypophysitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "splenomegaly → hypersplenism → cytopenias | hard / soft matted groups of nodes → lymphedema | loss of normal posterior pituitary bright spot | thickening of pituitary stalk (~70%) on CEMR"
+}

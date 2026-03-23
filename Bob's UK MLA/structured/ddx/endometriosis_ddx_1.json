@@ -1,0 +1,22 @@
+{
+  "finding": "Endometriosis (DDx)",
+  "slug": "endometriosis_ddx_1",
+  "chapter": "Endometriosis",
+  "source_file": "processed_clusters/endometriosis/endometriosis_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hemorrhagic functional cyst (most often solitary",
+      "raw": "hemorrhagic functional cyst (most often solitary",
+      "frequency": null
+    },
+    {
+      "name": "brighter than endometrioma on T2WI",
+      "raw": "brighter than endometrioma on T2WI",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "loculated fluid collection | dilated fallopian tube: hydrosalpinx (in up to 30%); | typically for endometriomas > 9 cm | enhancing mural nodules"
+}

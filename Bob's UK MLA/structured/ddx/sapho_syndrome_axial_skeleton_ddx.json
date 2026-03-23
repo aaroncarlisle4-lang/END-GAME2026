@@ -1,0 +1,27 @@
+{
+  "finding": "Sapho Syndrome — Axial skeleton (DDx)",
+  "slug": "sapho_syndrome_axial_skeleton_ddx",
+  "chapter": "Sapho Syndrome",
+  "source_file": "processed_clusters/sapho_syndrome/sapho_syndrome_axial_skeleton_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "infectious spondylitis (abscess",
+      "raw": "infectious spondylitis (abscess",
+      "frequency": null
+    },
+    {
+      "name": "epidural involvement",
+      "raw": "epidural involvement",
+      "frequency": null
+    },
+    {
+      "name": "single level of involvement)",
+      "raw": "single level of involvement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hyperintense paravertebral soft-tissue swelling | endplate irregularities + CHARACTERISTIC anterior vertebral body corner erosion at | increased disk signal intensity on T2WI | disk enhancement after contrast administration"
+}

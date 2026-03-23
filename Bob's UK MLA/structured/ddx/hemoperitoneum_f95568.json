@@ -1,0 +1,57 @@
+{
+  "finding": "HEMOPERITONEUM",
+  "slug": "hemoperitoneum_f95568",
+  "chapter": "H. Urinary tract disorders",
+  "source_file": "processed_clusters/h_urinary_tract_disorders/hemoperitoneum_f95568.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Traumatic hemoperitoneum",
+      "raw": "Traumatic hemoperitoneum",
+      "frequency": null
+    },
+    {
+      "name": "Nontraumatic hemoperitoneum (a)  Spontaneous hemoperitoneum",
+      "raw": "Nontraumatic hemoperitoneum (a)  Spontaneous hemoperitoneum",
+      "frequency": null
+    },
+    {
+      "name": "Highly vascular neoplasm: hepatocellular carcinoma (10-15%), hepatic angiosarcoma, metastases (lung carcinoma, renal cell carcinoma, melanoma), hepatic adenoma (!) Risk factors:   large size of mass; peripheral / subcapsular location; ⇑ vascularity Pathophysiology:   invasion of vessels; ⇑ intratumoral pressure; venous congestion ← venous thrombosis; lack of autoregulation of tumor vessels",
+      "raw": "Highly vascular neoplasm: hepatocellular carcinoma (10-15%), hepatic angiosarcoma, metastases (lung carcinoma, renal cell carcinoma, melanoma), hepatic adenoma (!) Risk factors:   large size of mass; peripheral / subcapsular location; ⇑ vascularity Pathophysiology:   invasion of vessels; ⇑ intratumoral pressure; venous congestion ← venous thrombosis; lack of autoregulation of tumor vessels",
+      "frequency": "15%"
+    },
+    {
+      "name": "Splenomegaly → splenic rupture:",
+      "raw": "Splenomegaly → splenic rupture:",
+      "frequency": null
+    },
+    {
+      "name": "Gynecologic causes:",
+      "raw": "Gynecologic causes:",
+      "frequency": null
+    },
+    {
+      "name": "Vascular lesion:",
+      "raw": "Vascular lesion:",
+      "frequency": null
+    },
+    {
+      "name": "Anticoagulation",
+      "raw": "Anticoagulation (more commonly bleeding into psoas / rectus muscle)",
+      "frequency": null
+    },
+    {
+      "name": "Blood dyscrasias",
+      "raw": "Blood dyscrasias",
+      "frequency": null
+    },
+    {
+      "name": "Invasive procedure / surgery",
+      "raw": "Invasive procedure / surgery",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "viral infection (CMV, malaria, EBV); congenital disease; metabolic abnormality (Gaucher disease, amyloidosis); neoplasm (leukemia, lymphoma, hemangiomatosis, angiosarcoma) hemorrhagic ovarian cyst (usually corpus luteal / follicular cyst); ectopic pregnancy; HELLP syndrome; endometriosis; uterine rupture ruptured arterial aneurysm (abdominal aorta, splenic artery, hepatic artery); ruptured pseudoaneurysm (of hepatic, splenic, gastroduodenal artery) in pancreatitis (b)  iatrogenic"
+}

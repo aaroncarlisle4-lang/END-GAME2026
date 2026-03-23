@@ -1,0 +1,37 @@
+{
+  "finding": "B. NEOPLASTIC",
+  "slug": "b_neoplastic_2_1d3733",
+  "chapter": "C. Trauma",
+  "source_file": "processed_clusters/c_trauma/b_neoplastic_2_1d3733.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Biliary cystadenoma / ~carcinoma",
+      "raw": "Biliary cystadenoma / ~carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic metastasis: neuroendocrine tumor, melanoma, GIST, mucinous colorectal / mucinous ovarian carcinoma; treated metastasis",
+      "raw": "Cystic metastasis: neuroendocrine tumor, melanoma, GIST, mucinous colorectal / mucinous ovarian carcinoma; treated metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory myofibroblastic tumor",
+      "raw": "Inflammatory myofibroblastic tumor",
+      "frequency": null
+    },
+    {
+      "name": "Mesenchymal hamartoma",
+      "raw": "Mesenchymal hamartoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

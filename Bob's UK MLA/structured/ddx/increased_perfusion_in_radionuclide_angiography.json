@@ -1,0 +1,37 @@
+{
+  "finding": "Increased Perfusion in Radionuclide Angiography",
+  "slug": "increased_perfusion_in_radionuclide_angiography",
+  "chapter": "B. 99mTc DTPA",
+  "source_file": "processed_clusters/b_99mtc_dtpa/increased_perfusion_in_radionuclide_angiography.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary / metastatic brain tumor",
+      "raw": "Primary / metastatic brain tumor",
+      "frequency": null
+    },
+    {
+      "name": "AVM, large aneurysm, tumor shunting",
+      "raw": "AVM, large aneurysm, tumor shunting",
+      "frequency": null
+    },
+    {
+      "name": "Luxury perfusion after infarction",
+      "raw": "Luxury perfusion after infarction",
+      "frequency": null
+    },
+    {
+      "name": "Infection: eg, herpes simplex encephalitis",
+      "raw": "Infection: eg, herpes simplex encephalitis",
+      "frequency": null
+    },
+    {
+      "name": "Extracranial lesions: bone metastasis, fibrous dysplasia, Paget disease, eosinophilic granuloma, fractures, burr holes, craniotomy defects",
+      "raw": "Extracranial lesions: bone metastasis, fibrous dysplasia, Paget disease, eosinophilic granuloma, fractures, burr holes, craniotomy defects",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

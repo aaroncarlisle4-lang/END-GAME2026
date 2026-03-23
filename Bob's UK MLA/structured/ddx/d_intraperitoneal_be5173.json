@@ -1,0 +1,72 @@
+{
+  "finding": "D. INTRAPERITONEAL",
+  "slug": "d_intraperitoneal_be5173",
+  "chapter": "ABNORMAL INTRAABDOMINAL AIR",
+  "source_file": "processed_clusters/abnormal_intraabdominal_air/d_intraperitoneal_be5173.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gas-forming peritonitis",
+      "raw": "Gas-forming peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Rupture of abscess",
+      "raw": "Rupture of abscess",
+      "frequency": null
+    },
+    {
+      "name": "Laparotomy / laparoscopy (58%) absorbed in 1-24 days dependent on initial amount of air introduced and body habitus (80% in asthenic, 25% in obese patients) ◊  After 3 days free air should be followed with suspicion!",
+      "raw": "Laparotomy / laparoscopy (58%) absorbed in 1-24 days dependent on initial amount of air introduced and body habitus (80% in asthenic, 25% in obese patients) ◊  After 3 days free air should be followed with suspicion!",
+      "frequency": "58%"
+    },
+    {
+      "name": "Leaking surgical anastomosis",
+      "raw": "Leaking surgical anastomosis",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal dialysis",
+      "raw": "Peritoneal dialysis",
+      "frequency": null
+    },
+    {
+      "name": "Feeding tube placement",
+      "raw": "Feeding tube placement",
+      "frequency": null
+    },
+    {
+      "name": "Endoscopic perforation",
+      "raw": "Endoscopic perforation",
+      "frequency": null
+    },
+    {
+      "name": "Enema tip injury",
+      "raw": "Enema tip injury",
+      "frequency": null
+    },
+    {
+      "name": "Use of gynecologic instruments",
+      "raw": "Use of gynecologic instruments",
+      "frequency": null
+    },
+    {
+      "name": "Vigorous respiratory resuscitation",
+      "raw": "Vigorous respiratory resuscitation",
+      "frequency": null
+    },
+    {
+      "name": "Diagnostic pneumoperitoneum",
+      "raw": "Diagnostic pneumoperitoneum",
+      "frequency": null
+    },
+    {
+      "name": "Diagnostic peritoneal lavage",
+      "raw": "Diagnostic peritoneal lavage",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Note † =   asymptomatic spontaneous pneumoperitoneum without peritonitis √  air in lesser peritoneal sac √  gas in scrotum ← open processus vaginalis Large collection of gas: √  \"abdominal distension, NO gastric air-fluid level √  \"football\" sign = large pneumoperitoneum outlining entire abdominal cavity √  \"double wall / bas-relief\" sign = Rigler sign [Leo Rigler (1896-1979), radiologist in Minneapolis, USA] =  air outlining the luminal + serosal surface of the bowel wall with patient in supine position (usually requires > 1,000 mL of free intraperitoneal gas + intraperitoneal fluid) √  \"tell"
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "Use: urinary tract infection",
+  "slug": "use_urinary_tract_infection_aca8f1",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/use_urinary_tract_infection_aca8f1.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "positive for ANA + LE cells (a)  acute disorder within 2 weeks of administration:",
+      "raw": "positive for ANA + LE cells (a)  acute disorder within 2 weeks of administration:",
+      "frequency": null
+    },
+    {
+      "name": "fever, dyspnea, cough",
+      "raw": "fever, dyspnea, cough",
+      "frequency": null
+    },
+    {
+      "name": "peripheral eosinophilia",
+      "raw": "peripheral eosinophilia (more common)",
+      "frequency": "common"
+    },
+    {
+      "name": "insidious onset of dyspnea + cough",
+      "raw": "insidious onset of dyspnea + cough",
+      "frequency": null
+    },
+    {
+      "name": "may not be associated with peripheral eosinophilia",
+      "raw": "may not be associated with peripheral eosinophilia",
+      "frequency": null
+    },
+    {
+      "name": "OTHERS",
+      "raw": "OTHERS",
+      "frequency": null
+    },
+    {
+      "name": "Heroin, propoxyphene, methadone",
+      "raw": "Heroin, propoxyphene, methadone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Toxicity:   rare Prognosis:   prompt resolution after withdrawal from drug √  diffuse bilateral predominantly basal heterogeneous opacities (b)  chronic reaction with interstitial fibrosis (less common) √  nonspecific interstitial pneumonia (common) √  bilateral basilar interstitial opacities"
+}

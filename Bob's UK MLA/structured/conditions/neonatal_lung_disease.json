@@ -1,0 +1,23 @@
+{
+  "name": "NEONATAL LUNG DISEASE",
+  "slug": "neonatal_lung_disease",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_chest_disorders/neonatal_lung_disease.md",
+  "definition": "intrathoracic extra-alveolar gas",
+  "demographics": {},
+  "dominant_finding": "gas at lung base / against fissure",
+  "distribution": "",
+  "discriminating_features": [
+    "gas at lung base / against fissure",
+    "lung granularity (= almost clear chest)",
+    "small thymus (stress / steroids)"
+  ],
+  "other_features": {
+    "general": [
+      "gas at lung base / against fissure",
+      "lung granularity (= almost clear chest)",
+      "small thymus (stress / steroids)"
+    ]
+  },
+  "clinical": {}
+}

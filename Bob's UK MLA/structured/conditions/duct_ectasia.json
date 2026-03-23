@@ -1,0 +1,31 @@
+{
+  "name": "DUCT ECTASIA",
+  "slug": "duct_ectasia",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/duct_ectasia.md",
+  "definition": "nonspecific dilatation of one / more ducts > 2 mm / of ampullary duct segment > 3 mm",
+  "demographics": {
+    "Location": "central"
+  },
+  "dominant_finding": "anechoic smooth-walled branching structures tapering toward the periphery",
+  "distribution": "central",
+  "discriminating_features": [
+    "retroareolar serpentine radiodense structures converging on the nipple-areolar complex",
+    "anechoic smooth-walled branching structures tapering toward the periphery",
+    "filled with fluid / thick inspissated secretions or cellular debris ± movement of",
+    "± coarse smooth-bordered rod-/ cigar-shaped calcifications pointing toward the nipple",
+    "irregularity of duct margin"
+  ],
+  "other_features": {
+    "general": [
+      "retroareolar serpentine radiodense structures converging on the nipple-areolar complex",
+      "anechoic smooth-walled branching structures tapering toward the periphery",
+      "filled with fluid / thick inspissated secretions or cellular debris ± movement of",
+      "± coarse smooth-bordered rod-/ cigar-shaped calcifications pointing toward the nipple",
+      "irregularity of duct margin",
+      "focal thickening of duct wall",
+      "adjacent hypoechoic tissue"
+    ]
+  },
+  "clinical": {}
+}

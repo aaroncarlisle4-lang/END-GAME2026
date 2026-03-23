@@ -1,0 +1,840 @@
+{
+  "finding": "E",
+  "slug": "e",
+  "chapter": "Symbols",
+  "source_file": "processed_clusters/symbols/e.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "E trisomy 208",
+      "raw": "E trisomy 208",
+      "frequency": null
+    },
+    {
+      "name": "Eagle-Barrett syndrome 1238",
+      "raw": "Eagle-Barrett syndrome 1238",
+      "frequency": null
+    },
+    {
+      "name": "Eardrum 465",
+      "raw": "Eardrum 465",
+      "frequency": null
+    },
+    {
+      "name": "Early osteoarthritis 163",
+      "raw": "Early osteoarthritis 163",
+      "frequency": null
+    },
+    {
+      "name": "Eaton agent 644",
+      "raw": "Eaton agent 644",
+      "frequency": null
+    },
+    {
+      "name": "Ebstein anomaly 813",
+      "raw": "Ebstein anomaly 813",
+      "frequency": null
+    },
+    {
+      "name": "Eccentric medullary bone lesion 8",
+      "raw": "Eccentric medullary bone lesion 8",
+      "frequency": null
+    },
+    {
+      "name": "Echinococcosis",
+      "raw": "Echinococcosis",
+      "frequency": null
+    },
+    {
+      "name": "Echopenic liver metastases 954",
+      "raw": "Echopenic liver metastases 954",
+      "frequency": null
+    },
+    {
+      "name": "Eclampsia 1348",
+      "raw": "Eclampsia 1348",
+      "frequency": null
+    },
+    {
+      "name": "Eclipse effect, lung 648",
+      "raw": "Eclipse effect, lung 648",
+      "frequency": null
+    },
+    {
+      "name": "Ectasia",
+      "raw": "Ectasia",
+      "frequency": null
+    },
+    {
+      "name": "Ectocyst 921",
+      "raw": "Ectocyst 921",
+      "frequency": null
+    },
+    {
+      "name": "Ectopia cordis, fetus 1348",
+      "raw": "Ectopia cordis, fetus 1348",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic",
+      "raw": "Ectopic",
+      "frequency": null
+    },
+    {
+      "name": "Effaced collecting system 1168",
+      "raw": "Effaced collecting system 1168",
+      "frequency": null
+    },
+    {
+      "name": "Effort thrombosis 850",
+      "raw": "Effort thrombosis 850",
+      "frequency": null
+    },
+    {
+      "name": "Effusion",
+      "raw": "Effusion",
+      "frequency": null
+    },
+    {
+      "name": "on-a-string, heart 851",
+      "raw": "on-a-string, heart 851",
+      "frequency": null
+    },
+    {
+      "name": "shaped orbits 208",
+      "raw": "shaped orbits 208",
+      "frequency": null
+    },
+    {
+      "name": "Eklund view 727",
+      "raw": "Eklund view 727",
+      "frequency": null
+    },
+    {
+      "name": "Elastofibroma dorsi 91",
+      "raw": "Elastofibroma dorsi 91",
+      "frequency": null
+    },
+    {
+      "name": "Elbow [patella syndrome 158]",
+      "raw": "Elbow",
+      "frequency": null,
+      "sites": [
+        "patella syndrome 158"
+      ]
+    },
+    {
+      "name": "Elephant ears, pelvis 89",
+      "raw": "Elephant ears, pelvis 89",
+      "frequency": null
+    },
+    {
+      "name": "Elephantiasis neuromatosa 390",
+      "raw": "Elephantiasis neuromatosa 390",
+      "frequency": null
+    },
+    {
+      "name": "Elevated",
+      "raw": "Elevated",
+      "frequency": null
+    },
+    {
+      "name": "Elfin facies, Williams syndrome 212",
+      "raw": "Elfin facies, Williams syndrome 212",
+      "frequency": null
+    },
+    {
+      "name": "Ellis-van Creveld syndrome 72",
+      "raw": "Ellis-van Creveld syndrome 72",
+      "frequency": null
+    },
+    {
+      "name": "CHD 736",
+      "raw": "CHD 736",
+      "frequency": null
+    },
+    {
+      "name": "Embolic",
+      "raw": "Embolic",
+      "frequency": null
+    },
+    {
+      "name": "Emergent gastric conditions 1007",
+      "raw": "Emergent gastric conditions 1007",
+      "frequency": null
+    },
+    {
+      "name": "EMG syndrome 1342",
+      "raw": "EMG syndrome 1342",
+      "frequency": null
+    },
+    {
+      "name": "Emissary vein, skull 215",
+      "raw": "Emissary vein, skull 215",
+      "frequency": null
+    },
+    {
+      "name": "Emperipolesis 191, 398",
+      "raw": "Emperipolesis 191, 398",
+      "frequency": null
+    },
+    {
+      "name": "Emphysema 611",
+      "raw": "Emphysema 611",
+      "frequency": null
+    },
+    {
+      "name": "Enalaprilat 1419",
+      "raw": "Enalaprilat 1419",
+      "frequency": null
+    },
+    {
+      "name": "Encapsulated fat necrosis 1078",
+      "raw": "Encapsulated fat necrosis 1078",
+      "frequency": null
+    },
+    {
+      "name": "Encapsulating peritoneal sclerosis 1138",
+      "raw": "Encapsulating peritoneal sclerosis 1138",
+      "frequency": null
+    },
+    {
+      "name": "Encephalitis 352",
+      "raw": "Encephalitis 352",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma 92",
+      "raw": "Enchondroma 92",
+      "frequency": null
+    },
+    {
+      "name": "Enchondromatosis 92",
+      "raw": "Enchondromatosis 92",
+      "frequency": null
+    },
+    {
+      "name": "Encoche of Ranvier 165",
+      "raw": "Encoche of Ranvier 165",
+      "frequency": null
+    },
+    {
+      "name": "Endemic Burkitt lymphoma 1057",
+      "raw": "Endemic Burkitt lymphoma 1057",
+      "frequency": null
+    },
+    {
+      "name": "Endobronchial",
+      "raw": "Endobronchial",
+      "frequency": null
+    },
+    {
+      "name": "Endocarditis, bacterial 798",
+      "raw": "Endocarditis, bacterial 798",
+      "frequency": null
+    },
+    {
+      "name": "Endocervical polyp 1353",
+      "raw": "Endocervical polyp 1353",
+      "frequency": null
+    },
+    {
+      "name": "Endochondral ossification 3",
+      "raw": "Endochondral ossification 3",
+      "frequency": null
+    },
+    {
+      "name": "Endocrine exophthalmos 421",
+      "raw": "Endocrine exophthalmos 421",
+      "frequency": null
+    },
+    {
+      "name": "Endocyst 921",
+      "raw": "Endocyst 921",
+      "frequency": null
+    },
+    {
+      "name": "Endodermal sinus tumor",
+      "raw": "Endodermal sinus tumor",
+      "frequency": null
+    },
+    {
+      "name": "Endogenous lipid pneumonia 649",
+      "raw": "Endogenous lipid pneumonia 649",
+      "frequency": null
+    },
+    {
+      "name": "Endoleak 788",
+      "raw": "Endoleak 788",
+      "frequency": null
+    },
+    {
+      "name": "Endolymphatic sac tumor 497",
+      "raw": "Endolymphatic sac tumor 497",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial",
+      "raw": "Endometrial",
+      "frequency": null
+    },
+    {
+      "name": "Endometrioid carcinoma, ovary 1353",
+      "raw": "Endometrioid carcinoma, ovary 1353",
+      "frequency": null
+    },
+    {
+      "name": "Endometrioma 1354",
+      "raw": "Endometrioma 1354",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Endosteal hyperostosis 128",
+      "raw": "Endosteal hyperostosis 128",
+      "frequency": null
+    },
+    {
+      "name": "Endosteoma 69",
+      "raw": "Endosteoma 69",
+      "frequency": null
+    },
+    {
+      "name": "Endovascular stent-graft, complications 788",
+      "raw": "Endovascular stent-graft, complications 788",
+      "frequency": null
+    },
+    {
+      "name": "End-stage lung disease 527",
+      "raw": "End-stage lung disease 527",
+      "frequency": null
+    },
+    {
+      "name": "Energy resolution, intrinsic 1396",
+      "raw": "Energy resolution, intrinsic 1396",
+      "frequency": null
+    },
+    {
+      "name": "Engelmann-Camurati disease 182",
+      "raw": "Engelmann-Camurati disease 182",
+      "frequency": null
+    },
+    {
+      "name": "Enhancement",
+      "raw": "Enhancement",
+      "frequency": null
+    },
+    {
+      "name": "Enostosis 69",
+      "raw": "Enostosis 69",
+      "frequency": null
+    },
+    {
+      "name": "Entamoeba histolytica 1045",
+      "raw": "Entamoeba histolytica 1045",
+      "frequency": null
+    },
+    {
+      "name": "Entanglement of cord 1298",
+      "raw": "Entanglement of cord 1298",
+      "frequency": null
+    },
+    {
+      "name": "Enteric",
+      "raw": "Enteric",
+      "frequency": null
+    },
+    {
+      "name": "Enterocele 1130",
+      "raw": "Enterocele 1130",
+      "frequency": null
+    },
+    {
+      "name": "Enteroclysis categories 1000",
+      "raw": "Enteroclysis categories 1000",
+      "frequency": null
+    },
+    {
+      "name": "Enterocolitis",
+      "raw": "Enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Yersinia 1020",
+      "raw": "Yersinia 1020",
+      "frequency": null
+    },
+    {
+      "name": "Enterolith 995",
+      "raw": "Enterolith 995",
+      "frequency": null
+    },
+    {
+      "name": "Enteropathy 990",
+      "raw": "Enteropathy 990",
+      "frequency": null
+    },
+    {
+      "name": "associated T-cell lymphoma 1117 protein-losing 990",
+      "raw": "associated T-cell lymphoma 1117 protein-losing 990",
+      "frequency": null
+    },
+    {
+      "name": "Enthesis 13",
+      "raw": "Enthesis 13",
+      "frequency": null
+    },
+    {
+      "name": "Enthesopathy 13",
+      "raw": "Enthesopathy 13",
+      "frequency": null
+    },
+    {
+      "name": "Entrapped ovarian cyst 1131",
+      "raw": "Entrapped ovarian cyst 1131",
+      "frequency": null
+    },
+    {
+      "name": "Enuresis 1176",
+      "raw": "Enuresis 1176",
+      "frequency": null
+    },
+    {
+      "name": "Enzymatic liver tests 887",
+      "raw": "Enzymatic liver tests 887",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilia-myalgia syndrome 613",
+      "raw": "Eosinophilia-myalgia syndrome 613",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic",
+      "raw": "Eosinophilic",
+      "frequency": null
+    },
+    {
+      "name": "Epicardial fat-pad 555",
+      "raw": "Epicardial fat-pad 555",
+      "frequency": null
+    },
+    {
+      "name": "Epicardium 774",
+      "raw": "Epicardium 774",
+      "frequency": null
+    },
+    {
+      "name": "Epicondylar fracture, humerus 107",
+      "raw": "Epicondylar fracture, humerus 107",
+      "frequency": null
+    },
+    {
+      "name": "Epidemiology 1429",
+      "raw": "Epidemiology 1429",
+      "frequency": null
+    },
+    {
+      "name": "Epididymitis 1207",
+      "raw": "Epididymitis 1207",
+      "frequency": null
+    },
+    {
+      "name": "Epididymoorchitis 1208",
+      "raw": "Epididymoorchitis 1208",
+      "frequency": null
+    },
+    {
+      "name": "Epidural",
+      "raw": "Epidural",
+      "frequency": null
+    },
+    {
+      "name": "Epiglottis 459",
+      "raw": "Epiglottis 459",
+      "frequency": null
+    },
+    {
+      "name": "Epiglottitis 484",
+      "raw": "Epiglottitis 484",
+      "frequency": null
+    },
+    {
+      "name": "Epignathus 506",
+      "raw": "Epignathus 506",
+      "frequency": null
+    },
+    {
+      "name": "Epilepsy, PET 1401",
+      "raw": "Epilepsy, PET 1401",
+      "frequency": null
+    },
+    {
+      "name": "Epinephrine 1436",
+      "raw": "Epinephrine 1436",
+      "frequency": null
+    },
+    {
+      "name": "Epipericardial fat necrosis 838",
+      "raw": "Epipericardial fat necrosis 838",
+      "frequency": null
+    },
+    {
+      "name": "Epipericarditis 838",
+      "raw": "Epipericarditis 838",
+      "frequency": null
+    },
+    {
+      "name": "Epiphrenic",
+      "raw": "Epiphrenic",
+      "frequency": null
+    },
+    {
+      "name": "Epiphysitis, vertebra 275",
+      "raw": "Epiphysitis, vertebra 275",
+      "frequency": null
+    },
+    {
+      "name": "Epiploia 404",
+      "raw": "Epiploia 404",
+      "frequency": null
+    },
+    {
+      "name": "Epiploic appendagitis 1081",
+      "raw": "Epiploic appendagitis 1081",
+      "frequency": null
+    },
+    {
+      "name": "Episodic spells 849",
+      "raw": "Episodic spells 849",
+      "frequency": null
+    },
+    {
+      "name": "Epispadia 1180",
+      "raw": "Epispadia 1180",
+      "frequency": null
+    },
+    {
+      "name": "exstrophy complex 1203",
+      "raw": "exstrophy complex 1203",
+      "frequency": null
+    },
+    {
+      "name": "Epitympanum 465",
+      "raw": "Epitympanum 465",
+      "frequency": null
+    },
+    {
+      "name": "Epoöphoron 1374",
+      "raw": "Epoöphoron 1374",
+      "frequency": null
+    },
+    {
+      "name": "Epstein-Barr virus 1057",
+      "raw": "Epstein-Barr virus 1057",
+      "frequency": null
+    },
+    {
+      "name": "Equator sign, hip 83",
+      "raw": "Equator sign, hip 83",
+      "frequency": null
+    },
+    {
+      "name": "Equilibrium",
+      "raw": "Equilibrium",
+      "frequency": null
+    },
+    {
+      "name": "Erdheim-Chester disease 614",
+      "raw": "Erdheim-Chester disease 614",
+      "frequency": null
+    },
+    {
+      "name": "Erectile dysfunction 1208",
+      "raw": "Erectile dysfunction 1208",
+      "frequency": null
+    },
+    {
+      "name": "Erlenmeyer flask deformity 12",
+      "raw": "Erlenmeyer flask deformity 12",
+      "frequency": null
+    },
+    {
+      "name": "Erosion, DIP joints 16",
+      "raw": "Erosion, DIP joints 16",
+      "frequency": null
+    },
+    {
+      "name": "Erosive",
+      "raw": "Erosive",
+      "frequency": null
+    },
+    {
+      "name": "Erythema migrans 962",
+      "raw": "Erythema migrans 962",
+      "frequency": null
+    },
+    {
+      "name": "Erythrogenic hemochromatosis 933",
+      "raw": "Erythrogenic hemochromatosis 933",
+      "frequency": null
+    },
+    {
+      "name": "Escobar syndrome 1305",
+      "raw": "Escobar syndrome 1305",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal",
+      "raw": "Esophageal",
+      "frequency": null
+    },
+    {
+      "name": "Esophagitis 1087",
+      "raw": "Esophagitis 1087",
+      "frequency": null
+    },
+    {
+      "name": "AIDS-related 1045",
+      "raw": "AIDS-related 1045",
+      "frequency": null
+    },
+    {
+      "name": "Candida 1087",
+      "raw": "Candida 1087",
+      "frequency": null
+    },
+    {
+      "name": "Essex-Lopresti fracture 108",
+      "raw": "Essex-Lopresti fracture 108",
+      "frequency": null
+    },
+    {
+      "name": "Essure® Device 1362",
+      "raw": "Essure® Device 1362",
+      "frequency": null
+    },
+    {
+      "name": "Esthesio",
+      "raw": "Esthesio",
+      "frequency": null
+    },
+    {
+      "name": "Estimated fetal weight 1325",
+      "raw": "Estimated fetal weight 1325",
+      "frequency": null
+    },
+    {
+      "name": "Estrogen effect on pelvis 1310",
+      "raw": "Estrogen effect on pelvis 1310",
+      "frequency": null
+    },
+    {
+      "name": "État",
+      "raw": "État",
+      "frequency": null
+    },
+    {
+      "name": "Ethylene hydroxydiphosphonate 1421",
+      "raw": "Ethylene hydroxydiphosphonate 1421",
+      "frequency": null
+    },
+    {
+      "name": "Eunuchoid constitution 134",
+      "raw": "Eunuchoid constitution 134",
+      "frequency": null
+    },
+    {
+      "name": "European blastomycosis 606",
+      "raw": "European blastomycosis 606",
+      "frequency": null
+    },
+    {
+      "name": "Eustachian valve 766",
+      "raw": "Eustachian valve 766",
+      "frequency": null
+    },
+    {
+      "name": "Evacuation proctography 1129",
+      "raw": "Evacuation proctography 1129",
+      "frequency": null
+    },
+    {
+      "name": "Eventration of diaphragm 609",
+      "raw": "Eventration of diaphragm 609",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Excretory urography, contrast material 1432",
+      "raw": "Excretory urography, contrast material 1432",
+      "frequency": null
+    },
+    {
+      "name": "Exencephaly 326",
+      "raw": "Exencephaly 326",
+      "frequency": null
+    },
+    {
+      "name": "Exophthalmos",
+      "raw": "Exophthalmos",
+      "frequency": null
+    },
+    {
+      "name": "Extraabdominal desmoid tumor 78",
+      "raw": "Extraabdominal desmoid tumor 78",
+      "frequency": null
+    },
+    {
+      "name": "Extraadrenal pheochromocytoma 1263",
+      "raw": "Extraadrenal pheochromocytoma 1263",
+      "frequency": null
+    },
+    {
+      "name": "Extraarachnoid myelography 231",
+      "raw": "Extraarachnoid myelography 231",
+      "frequency": null
+    },
+    {
+      "name": "Extraaxial",
+      "raw": "Extraaxial",
+      "frequency": null
+    },
+    {
+      "name": "CNS lesions 304",
+      "raw": "CNS lesions 304",
+      "frequency": null
+    },
+    {
+      "name": "Extracapsular rupture, breast implant 728",
+      "raw": "Extracapsular rupture, breast implant 728",
+      "frequency": null
+    },
+    {
+      "name": "Extracardiac rhabdomyoma 485",
+      "raw": "Extracardiac rhabdomyoma 485",
+      "frequency": null
+    },
+    {
+      "name": "Extracerebral hemorrhage, trauma 361",
+      "raw": "Extracerebral hemorrhage, trauma 361",
+      "frequency": null
+    },
+    {
+      "name": "Extraconal lesion 412",
+      "raw": "Extraconal lesion 412",
+      "frequency": null
+    },
+    {
+      "name": "Extracranial herniation 309",
+      "raw": "Extracranial herniation 309",
+      "frequency": null
+    },
+    {
+      "name": "Extradural",
+      "raw": "Extradural",
+      "frequency": null
+    },
+    {
+      "name": "Extraforaminal disk herniation 250",
+      "raw": "Extraforaminal disk herniation 250",
+      "frequency": null
+    },
+    {
+      "name": "Extragonadal germ cell tumor 1208",
+      "raw": "Extragonadal germ cell tumor 1208",
+      "frequency": null
+    },
+    {
+      "name": "Extrahepatic",
+      "raw": "Extrahepatic",
+      "frequency": null
+    },
+    {
+      "name": "Extraocular muscle enlargement 413",
+      "raw": "Extraocular muscle enlargement 413",
+      "frequency": null
+    },
+    {
+      "name": "Extraosseous plasmacytoma 485",
+      "raw": "Extraosseous plasmacytoma 485",
+      "frequency": null
+    },
+    {
+      "name": "Extraperitoneal",
+      "raw": "Extraperitoneal",
+      "frequency": null
+    },
+    {
+      "name": "Extratesticular fluid collection 1178",
+      "raw": "Extratesticular fluid collection 1178",
+      "frequency": null
+    },
+    {
+      "name": "Extrauterine pelvic masses 1313",
+      "raw": "Extrauterine pelvic masses 1313",
+      "frequency": null
+    },
+    {
+      "name": "Extravasation",
+      "raw": "Extravasation",
+      "frequency": null
+    },
+    {
+      "name": "Extravascular leiomyosarcoma 1261",
+      "raw": "Extravascular leiomyosarcoma 1261",
+      "frequency": null
+    },
+    {
+      "name": "Extraventricular hydrocephalus 366",
+      "raw": "Extraventricular hydrocephalus 366",
+      "frequency": null
+    },
+    {
+      "name": "Extravesical infrasphincteric ectopic ureter 1176",
+      "raw": "Extravesical infrasphincteric ectopic ureter 1176",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic",
+      "raw": "Extrinsic",
+      "frequency": null
+    },
+    {
+      "name": "Extrusion, disk 250",
+      "raw": "Extrusion, disk 250",
+      "frequency": null
+    },
+    {
+      "name": "Exuberant callus 13",
+      "raw": "Exuberant callus 13",
+      "frequency": null
+    },
+    {
+      "name": "Exudate 547",
+      "raw": "Exudate 547",
+      "frequency": null
+    },
+    {
+      "name": "Exudative tuberculosis 681",
+      "raw": "Exudative tuberculosis 681",
+      "frequency": null
+    },
+    {
+      "name": "Eye-of-the-tiger sign 359",
+      "raw": "Eye-of-the-tiger sign 359",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "bone 922 liver 920 lung 923 Echinococcus alveolaris 923 granulosus 921 life cycle 921 multilocularis 923 Echocardiogram aortic root 764 ventricles 765 Echocardiography, views in fetus 1307 Echogenic breast lesion 686 fetal bowel 1308 focus, basal ganglia 303 intracardiac focus 1307 liver metastases 954 Echogenicity kidney 1185 liver, increased 862 breast duct 720 intrahepatic bile ducts 901 anus 1048 craniopharyngioma 346 gallbladder 889 kidney 1157 meningioma 378 ossification 179 pancreas 924 parathormone production 130 parathyroid adenoma 553 pregnancy 1348 testis 1218 thymus 572 ureter 1207"
+}

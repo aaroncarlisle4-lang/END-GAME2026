@@ -1,0 +1,57 @@
+{
+  "finding": "Page kidney",
+  "slug": "page_kidney_85c512",
+  "chapter": "Nephrogenic Diabetes Insipidus",
+  "source_file": "processed_clusters/nephrogenic_diabetes_insipidus/page_kidney_85c512.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Middle aortic syndrome, aortic dissection, dissecting aortic aneurysm",
+      "raw": "Middle aortic syndrome, aortic dissection, dissecting aortic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Posttraumatic renovascular hypertension (a)  occlusion of main renal artery (b)  significant stenosis by intimal flap (c)  severe renal contusion (d)  segmental renal artery branch injury ◊  Renal artery stenosis in 77% of hypertensive patients!",
+      "raw": "Posttraumatic renovascular hypertension (a)  occlusion of main renal artery (b)  significant stenosis by intimal flap (c)  severe renal contusion (d)  segmental renal artery branch injury ◊  Renal artery stenosis in 77% of hypertensive patients!",
+      "frequency": "77%"
+    },
+    {
+      "name": "Onset of HTN < 30 years and > 50 years of age",
+      "raw": "Onset of HTN < 30 years and > 50 years of age",
+      "frequency": null
+    },
+    {
+      "name": "Hypertension refractory to therapy",
+      "raw": "Hypertension refractory to therapy",
+      "frequency": null
+    },
+    {
+      "name": "Accelerated / malignant hypertension",
+      "raw": "Accelerated / malignant hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Unexplained large increases in blood pressure above previously controlled / baseline values",
+      "raw": "Unexplained large increases in blood pressure above previously controlled / baseline values",
+      "frequency": null
+    },
+    {
+      "name": "Symptomatic hypertension",
+      "raw": "Symptomatic hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Relieving renal artery stenosis",
+      "raw": "Relieving renal artery stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Angiotensin-converting enzyme inhibitor",
+      "raw": "Angiotensin-converting enzyme inhibitor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Renal artery stenosis in 32-49% of normotensive patients! ◊  After restoration of normal renal blood flow 15-20% of patients remain hypertensive! Clinical findings that suggest renovascular disease: Rx:"
+}

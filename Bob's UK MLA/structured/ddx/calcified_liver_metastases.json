@@ -1,0 +1,92 @@
+{
+  "finding": "Calcified Liver Metastases",
+  "slug": "calcified_liver_metastases",
+  "chapter": "LIPOMA OF LIVER",
+  "source_file": "processed_clusters/lipoma_of_liver/calcified_liver_metastases.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucinous carcinoma of GI tract",
+      "raw": "Mucinous carcinoma of GI tract (colon, rectum, stomach)",
+      "frequency": null
+    },
+    {
+      "name": "Endocrine pancreatic carcinoma",
+      "raw": "Endocrine pancreatic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma, osteosarcoma",
+      "raw": "Leiomyosarcoma, osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant melanoma",
+      "raw": "Malignant melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Papillary serous ovarian cystadenocarcinoma",
+      "raw": "Papillary serous ovarian cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Pleural mesothelioma",
+      "raw": "Pleural mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast cancer",
+      "raw": "Breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Medullary carcinoma of the thyroid",
+      "raw": "Medullary carcinoma of the thyroid",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lung carcinoma",
+      "raw": "Lung carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Testicular carcinoma mnemonic for mucinous adenocarcinoma:   COBS",
+      "raw": "Testicular carcinoma mnemonic for mucinous adenocarcinoma:   COBS",
+      "frequency": null
+    },
+    {
+      "name": "Colon carcinoma",
+      "raw": "Colon carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian carcinoma",
+      "raw": "Ovarian carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast carcinoma",
+      "raw": "Breast carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   2-3%"
+}

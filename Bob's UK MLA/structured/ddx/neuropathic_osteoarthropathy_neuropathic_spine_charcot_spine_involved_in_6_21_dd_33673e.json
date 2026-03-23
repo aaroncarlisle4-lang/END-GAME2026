@@ -1,0 +1,22 @@
+{
+  "finding": "Neuropathic Osteoarthropathy — Neuropathic spine = Charcot spine (involved in 6-21%) (DDx)",
+  "slug": "neuropathic_osteoarthropathy_neuropathic_spine_charcot_spine_involved_in_6_21_dd_33673e",
+  "chapter": "Neuropathic Osteoarthropathy",
+  "source_file": "processed_clusters/neuropathic_osteoarthropathy/neuropathic_osteoarthropathy_neuropathic_spine_charcot_spine_involved_in_6_21_dd_33673e.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "infectious spondylitis (NO involvement of facet joints",
+      "raw": "infectious spondylitis (NO involvement of facet joints",
+      "frequency": null
+    },
+    {
+      "name": "diffuse enhancement of disk +",
+      "raw": "diffuse enhancement of disk +",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mineralized paraspinal fluid collections containing osseous debris | facet joint erosion + subluxation (early findings) → spondylolisthesis | scoliosis + abrupt curvature | rimlike enhancement of disk + signal intensity changes of bone marrow"
+}

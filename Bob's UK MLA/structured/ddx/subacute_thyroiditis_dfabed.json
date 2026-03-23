@@ -1,0 +1,37 @@
+{
+  "finding": "Subacute Thyroiditis",
+  "slug": "subacute_thyroiditis_dfabed",
+  "chapter": "TEMPOROMANDIBULAR JOINT DYSFUNCTION",
+  "source_file": "processed_clusters/temporomandibular_joint_dysfunction/subacute_thyroiditis_dfabed.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Subacute granulomatous thyroiditis",
+      "raw": "Subacute granulomatous thyroiditis (de Quervain)",
+      "frequency": null
+    },
+    {
+      "name": "Subacute lymphocytic thyroiditis (a)  postpartum thyroiditis:",
+      "raw": "Subacute lymphocytic thyroiditis (a)  postpartum thyroiditis:",
+      "frequency": null
+    },
+    {
+      "name": "Subacute thyroiditis due to cellular injury ←  amiodarone-induced thyroiditis",
+      "raw": "Subacute thyroiditis due to cellular injury ←  amiodarone-induced thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "Subacute thyroiditis due to trauma Cause:   palpation, parathyroid surgery, direct surgical trauma, thyroid biopsy, seatbelt injury",
+      "raw": "Subacute thyroiditis due to trauma Cause:   palpation, parathyroid surgery, direct surgical trauma, thyroid biopsy, seatbelt injury",
+      "frequency": null
+    },
+    {
+      "name": "Subacute thyroiditis due to radiation",
+      "raw": "Subacute thyroiditis due to radiation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  inflammatory destruction of thyroid follicles with release of preformed hormone into the circulation Classification: ◊  Enable radioiodine uptake test by suspending breast-feeding for 1 week, during which time the radioiodine-contaminated breast milk should be pumped and discarded (b)  cytokine-associated thyroiditis (interferon-alpha for chronic hepatitis B/C, interleukin-2 as adjunctive therapy for metastatic cancer and leukemia) (c)  lithium-associated thyroiditis"
+}

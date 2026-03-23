@@ -1,0 +1,25 @@
+{
+  "name": "NONIONIC DIMERS",
+  "slug": "nonionic_dimers",
+  "chapter": "GASTROINTESTINAL SCINTIGRAPHY",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_scintigraphy/nonionic_dimers.md",
+  "definition": "escape of contrast material from vascular lumen + infiltration of interstitial tissue during",
+  "demographics": {
+    "Incidence": "< 1%; no direct correlation with injection flow rate"
+  },
+  "dominant_finding": "improved distension of collecting system ← decreased tubular resorption of water",
+  "distribution": "",
+  "discriminating_features": [
+    "less distension of collecting system",
+    "improved distension of collecting system ← decreased tubular resorption of water",
+    "denser nephrogram + slightly denser pyelogram than HOCM ← higher tubular"
+  ],
+  "other_features": {
+    "general": [
+      "less distension of collecting system",
+      "improved distension of collecting system ← decreased tubular resorption of water",
+      "denser nephrogram + slightly denser pyelogram than HOCM ← higher tubular"
+    ]
+  },
+  "clinical": {}
+}

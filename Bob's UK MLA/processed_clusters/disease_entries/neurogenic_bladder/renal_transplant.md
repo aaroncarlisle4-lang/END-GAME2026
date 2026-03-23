@@ -1,0 +1,125 @@
+# Disease: RENAL TRANSPLANT
+
+**Source section:** NEUROGENIC BLADDER
+
+## Definition
+
+primary nonfunction within 72 hours of transplantation followed by improvement within a 1st-line imaging modality! humeral rejection with preformed circulating antibodies present in recipient at time of combination of antibody + cell-mediated rejection cellular rejection predominantly dependent on cellular immunity edema of interstitium with lymphocytic infiltration of capillaries + lymphatics proliferative endovasculitis + vessel thrombosis slow relentless progressive process resulting in interstitial scarring pulsatility index (A - B ÷ mean) > 1.8 or resistive index (A - B ÷ B) of Doppler signals
+
+## Key Facts
+
+- **Frequency:** 316,493 transplants between 1988 and 2012 in US; 17,107 transplants annually in
+- **Histo:** sloughed renal tubular epithelium + surrounding edema
+- **Path:** thrombosed arterioles + cortical necrosis
+- **Prevalence:** in 50% at least 1 episode in 1st year
+- **Location:** colon > small bowel > gastroduodenal
+
+## Imaging Findings
+
+### US
+
+- transient enlargement of transplant
+- transient increase in resistive index
+- normal / slightly decreased transplant perfusion:
+- delayed time from Tmax to one-half maximal activity
+- decreased + delayed radiopharmaceutical uptake:
+- delayed transit time + delayed Tmax
+- delayed / decreased / absent excretion of radiotracer with prolonged cortical retention:
+- high 20-minute to 3-minute ratio
+- complete absence of renal perfusion + renal function on 99mTc-DTPA scan (DDx:
+- increase in renal volume from edema:
+- ↓ renal sinus fat + ↑ cortical thickness (most predictive)
+- loss of corticomedullary differentiation
+- thickening of pelvoinfundibular wall
+- diminished echogenicity of renal sinus fat
+- initially decrease in resistive index (? autoregulatory mechanism)
+- increase in resistive index > 0.80 (with increasing severity of rejection)
+- reversal of diastolic flow
+- high-velocity low-resistance flow in feeding artery
+- pulsatile "arterialized" waveform in draining vein
+- turbulence + high-frequency velocity shift
+- exaggerated focal color around lesion (= bruit = perivascular soft-tissue
+- rapid contrast appearance in IVC
+- decreased density on nephrogram
+- hypoechoic ← ischemic necrosis / iso- or hyperechoic areas ← hemorrhagic
+- swollen area ← probably cortical edema
+- absence of arterial perfusion by color duplex (not sensitive for small infarcts /
+- elevated resistive indexes + no / reversed diastolic flow
+- enlarged hypoechoic transplant
+- prolonged arterial transit time without arterial occlusions + arterial spasms
+- diminished cortical perfusion
+- absent venous flow
+- "U-shaped" / plateau-like reversal of diastolic arterial flow
+- decreased systolic rise time
+
+### NUC
+
+- typically ↓ renal perfusion + ↓ graft function + high background radiotracer activity
+- initially perfusion may be normal with only function decreased (DDx to ATN may not
+- subsequent exams (1-3-day intervals) demonstrate decreasing renal perfusion
+- prolonged excretory phase
+- poor and inhomogeneous nephrogram
+- small graft with poor perfusion + globally decreased function
+- no change in renal size
+- no change (?) / elevation of resistive index
+- depressed effective renal plasma flow
+- no parenchymal retention
+- pyelocaliectasis
+- normal resistive index strongly argues against obstruction unless ureteral leak is present
+- mean diameter of 11 cm
+- thick septa (50%) + internal debris
+- small crescentic peritransplant fluid collection (as normal sequelae of surgery)
+- photopenic region with displacement / impression on renal transplant / urinary
+- surrounding soft-tissue "speckle" ← vibration
+- increase in peak systolic velocity > 180-210 cm/s
+- 2÷1 ratio between peak stenotic and poststenotic velocities
+- main renal artery / external iliac artery ratio > 3.5 (normally < 2.0)
+- marked poststenotic turbulence (supportive evidence)
+- dampened signals distal to stenosis (= tardus-parvus waveform)
+- increase in acceleration time (= pulse rise time) of intrarenal arteries
+- ↓ perfusion + cortical uptake, photopenic graft
+- lack of perfusion (but no graft photopenia)
+- color aliasing
+- 3-4-fold increase in velocity
+- subchondral bone resorption
+- patchy osteosclerosis
+- collapse / fragmentation of bone
+
+### ANGIO
+
+- rapid tapering + pruning of interlobar arteries
+- multiple stenoses + occlusions
+- nonvisualization of interlobular arteries
+- prolonged arterial opacification (normally < 2 seconds)
+- progressive volume loss → small kidney with thin cortex
+- diminished number of intrarenal vessels
+- vascular pruning / stenoses / occlusions → commonly focal cortical scarring
+- mild hydronephrosis
+- standard test for detection of arterial stenosis ± intravascular treatment
+- absence of perfusion, uptake, excretion
+- failure to demonstrate intrarenal arterial / venous flow
+- segmental infarction ← occlusion of polar artery
+- hypo- / hyperechoic area ± cortical thickening
+- no flow in affected area
+- mimics renal cyst
+- disorganized flow / to-and-fro waveform
+
+### MR
+
+- slightly hyperintense ← ischemic necrosis / hypointense ← hemorrhagic necrosis
+- hypointense areas on Gd-DTPA images
+
+## Clinical
+
+- **Prognosis:** organ survival at 1 (5) years in 89-95% (67-80%); 13-24 years half-life for
+- **Rx:** requires immediate reoperation
+- **Cx:** Page kidney
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

@@ -1,0 +1,31 @@
+{
+  "name": "HORSESHOE KIDNEY",
+  "slug": "horseshoe_kidney",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/horseshoe_kidney.md",
+  "definition": "two kidneys joined at poles by parenchymal / fibrous isthmus",
+  "demographics": {
+    "Prevalence": "1-4÷1,000 births; 0.2-1.0% (autopsy series); M÷F = 2-3÷1"
+  },
+  "dominant_finding": "fusion of R + L kidney at lower (90%) / upper (10%) pole",
+  "distribution": "renal long axis medially oriented",
+  "discriminating_features": [
+    "fusion of R + L kidney at lower (90%) / upper (10%) pole",
+    "renal long axis medially oriented",
+    "isthmus at L4-5 between aorta + inferior mesenteric artery",
+    "renal pelves and ureters situated anteriorly",
+    "multiple renal arteries including isthmus artery"
+  ],
+  "other_features": {
+    "general": [
+      "fusion of R + L kidney at lower (90%) / upper (10%) pole",
+      "renal long axis medially oriented",
+      "isthmus at L4-5 between aorta + inferior mesenteric artery",
+      "renal pelves and ureters situated anteriorly",
+      "multiple renal arteries including isthmus artery"
+    ]
+  },
+  "clinical": {
+    "Cx": "infection, renal calculi"
+  }
+}

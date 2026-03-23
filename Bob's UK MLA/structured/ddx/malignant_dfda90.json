@@ -1,0 +1,82 @@
+{
+  "finding": "MALIGNANT",
+  "slug": "malignant_dfda90",
+  "chapter": "LARYNX",
+  "source_file": "processed_clusters/larynx/malignant_dfda90.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma (Kaposi sarcoma)",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma (b)  chondrogenic tumor 20%",
+      "raw": "Hemangiopericytoma (b)  chondrogenic tumor 20%",
+      "frequency": "20%"
+    },
+    {
+      "name": "Chondroma",
+      "raw": "Chondroma",
+      "frequency": null
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma (c)  hematopoietic tumor 12%",
+      "raw": "Osteosarcoma (c)  hematopoietic tumor 12%",
+      "frequency": "12%"
+    },
+    {
+      "name": "Hodgkin / NHL / leukemia",
+      "raw": "Hodgkin / NHL / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma",
+      "raw": "Plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "Pseudolymphoma (d)  salivary gland tumor 10%",
+      "raw": "Pseudolymphoma (d)  salivary gland tumor 10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "Pleomorphic adenoma",
+      "raw": "Pleomorphic adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoid cystic carcinoma",
+      "raw": "Adenoid cystic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucoepidermoid carcinoma",
+      "raw": "Mucoepidermoid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma (e)  fatty-tissue tumor 7%",
+      "raw": "Adenocarcinoma (e)  fatty-tissue tumor 7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma (f)  metastasis 7% skin (melanoma) > kidney > breast > lung > prostate > colon > stomach > ovary (g)  neurogenic tumor 5% (h)  myogenic tumor 2% (i)  fibrohistiocytic tumor 2%",
+      "raw": "Liposarcoma (f)  metastasis 7% skin (melanoma) > kidney > breast > lung > prostate > colon > stomach > ovary (g)  neurogenic tumor 5% (h)  myogenic tumor 2% (i)  fibrohistiocytic tumor 2%",
+      "frequency": "7%"
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   epiglottis (most frequent) √  intensely enhancing mass"
+}

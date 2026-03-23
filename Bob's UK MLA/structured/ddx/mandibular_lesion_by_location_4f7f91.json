@@ -1,0 +1,100 @@
+{
+  "finding": "Mandibular Lesion by Location",
+  "slug": "mandibular_lesion_by_location_4f7f91",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/mandibular_lesion_by_location_4f7f91.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Anterior mandible",
+      "raw": "Anterior mandible",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatoid odontogenic tumor",
+      "raw": "Adenomatoid odontogenic tumor",
+      "frequency": null
+    },
+    {
+      "name": "Periapical cemental dysplasia",
+      "raw": "Periapical cemental dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Florid cemento-osseous dysplasia",
+      "raw": "Florid cemento-osseous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Central giant cell granuloma",
+      "raw": "Central giant cell granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Odontoma [Posterior mandible]",
+      "raw": "Odontoma",
+      "frequency": null,
+      "sites": [
+        "Posterior mandible"
+      ]
+    },
+    {
+      "name": "Follicular (dentigerous) cyst",
+      "raw": "Follicular (dentigerous) cyst",
+      "frequency": null
+    },
+    {
+      "name": "Odontogenic keratocyst",
+      "raw": "Odontogenic keratocyst",
+      "frequency": null
+    },
+    {
+      "name": "Solitary bone cyst",
+      "raw": "Solitary bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Ameloblastoma",
+      "raw": "Ameloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Cementoblastoma",
+      "raw": "Cementoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying fibroma",
+      "raw": "Ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Ameloblastic carcinoma",
+      "raw": "Ameloblastic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Stafne cyst",
+      "raw": "Stafne cyst",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Nonspecific location",
+      "raw": "Nonspecific location",
+      "frequency": null
+    },
+    {
+      "name": "Periapical (radicular) cyst",
+      "raw": "Periapical (radicular) cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

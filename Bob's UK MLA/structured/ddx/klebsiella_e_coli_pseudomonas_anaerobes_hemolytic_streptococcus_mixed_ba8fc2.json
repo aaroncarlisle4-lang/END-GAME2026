@@ -1,0 +1,67 @@
+{
+  "finding": "Klebsiella, E. coli, Pseudomonas, anaerobes, β-hemolytic streptococcus, mixed",
+  "slug": "klebsiella_e_coli_pseudomonas_anaerobes_hemolytic_streptococcus_mixed_ba8fc2",
+  "chapter": "D. TRAUMA",
+  "source_file": "processed_clusters/d_trauma/klebsiella_e_coli_pseudomonas_anaerobes_hemolytic_streptococcus_mixed_ba8fc2.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aspiration pneumonia = gravitational pneumonia: mixed gram-negative organisms, anaerobes (b)  granulomatous infection",
+      "raw": "Aspiration pneumonia = gravitational pneumonia: mixed gram-negative organisms, anaerobes (b)  granulomatous infection",
+      "frequency": null
+    },
+    {
+      "name": "TB: cavitation indicates active infectious disease with risk for hematogenous / bronchogenic dissemination",
+      "raw": "TB: cavitation indicates active infectious disease with risk for hematogenous / bronchogenic dissemination",
+      "frequency": null
+    },
+    {
+      "name": "Fungus: coccidioidomycosis, nocardiosis (in immunocompromised), histoplasmosis, blastomycosis, mucormycosis, sporotrichosis, aspergillosis, cryptococcosis",
+      "raw": "Fungus: coccidioidomycosis, nocardiosis (in immunocompromised), histoplasmosis, blastomycosis, mucormycosis, sporotrichosis, aspergillosis, cryptococcosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (stage IV, upper lobe predominance)",
+      "frequency": null
+    },
+    {
+      "name": "Angioinvasion → septic lung infarction followed by cavity formation:",
+      "raw": "Angioinvasion → septic lung infarction followed by cavity formation:",
+      "frequency": null
+    },
+    {
+      "name": "NEOPLASM",
+      "raw": "NEOPLASM (a)  primary lung tumor: 16% of peripheral lung cancers (in particular squamous cell carcinoma (30%); also in bronchioloalveolar cell carcinoma (b)  metastasis (usually multiple)",
+      "frequency": "16%"
+    },
+    {
+      "name": "Squamous cell carcinoma (in ⅔): nasopharynx, esophagus, cervix",
+      "raw": "Squamous cell carcinoma (in ⅔): nasopharynx, esophagus, cervix",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma: lung, breast, GI",
+      "raw": "Adenocarcinoma: lung, breast, GI",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma (rare): with adenopathy; cavities often ← opportunistic infection with nocardiosis + cryptococcosis",
+      "raw": "Lymphoma (rare): with adenopathy; cavities often ← opportunistic infection with nocardiosis + cryptococcosis",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "gram-negative organisms √  very thin-walled cavities less likely to follow the apical distribution of TB / histoplasmosis Aspergillus, Mucorales, Candida, torulosis, P. aeruginosa (c)  parasitic infestation: hydatid disease"
+}

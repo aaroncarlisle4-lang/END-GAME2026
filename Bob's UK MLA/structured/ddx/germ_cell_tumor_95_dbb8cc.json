@@ -1,0 +1,147 @@
+{
+  "finding": "Germ Cell Tumor (95%",
+  "slug": "germ_cell_tumor_95_dbb8cc",
+  "chapter": "SUPERNUMERARY KIDNEY",
+  "source_file": "processed_clusters/supernumerary_kidney/germ_cell_tumor_95_dbb8cc.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Seminoma ›  along a totipotential line → forming differentiated nonseminomatous tumors (more aggressive than seminoma):",
+      "raw": "Seminoma ›  along a totipotential line → forming differentiated nonseminomatous tumors (more aggressive than seminoma):",
+      "frequency": null
+    },
+    {
+      "name": "Embryonal carcinoma",
+      "raw": "Embryonal carcinoma (slightly differentiated)",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma (embryonic differentiation)",
+      "frequency": null
+    },
+    {
+      "name": "Yolk sac tumor",
+      "raw": "Yolk sac tumor (extraembryonic differentiation)",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma (extraembryonic differentiation) (b)  mixed lesion ›  from totipotential cells developing along several pathways (embryonal carcinoma being the most common component of mixed lesions)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Teratocarcinoma (= teratoma + embryonal cell ca.) ◊  2nd most common after seminoma, may occasionally undergo spontaneous regression",
+      "raw": "Teratocarcinoma (= teratoma + embryonal cell ca.) ◊  2nd most common after seminoma, may occasionally undergo spontaneous regression",
+      "frequency": "most common"
+    },
+    {
+      "name": "Embryonal cell carcinoma + seminoma",
+      "raw": "Embryonal cell carcinoma + seminoma",
+      "frequency": null
+    },
+    {
+      "name": "Seminoma + teratoma (c)  Growing Teratoma Syndrome:",
+      "raw": "Seminoma + teratoma (c)  Growing Teratoma Syndrome:",
+      "frequency": null
+    },
+    {
+      "name": "Yolk sac tumor",
+      "raw": "Yolk sac tumor",
+      "frequency": null
+    },
+    {
+      "name": "Embryonal cell carcinoma",
+      "raw": "Embryonal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Seminoma",
+      "raw": "Seminoma",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Typical seminoma 85%",
+      "raw": "Typical seminoma 85%",
+      "frequency": "85%"
+    },
+    {
+      "name": "Anaplastic seminoma 10%",
+      "raw": "Anaplastic seminoma 10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "Spermatocytic seminoma 5%",
+      "raw": "Spermatocytic seminoma 5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "serum α-fetoprotein normal in pure seminomas",
+      "raw": "serum α-fetoprotein normal in pure seminomas",
+      "frequency": null
+    },
+    {
+      "name": "β-hCG elevation (in 5-25%) ← produced by syncytiotrophoblastic giant cells",
+      "raw": "β-hCG elevation (in 5-25%) ← produced by syncytiotrophoblastic giant cells",
+      "frequency": "25%"
+    },
+    {
+      "name": "⇑ α-fetoprotein level",
+      "raw": "⇑ α-fetoprotein level (in 50-60%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "± α-fetoprotein elevation",
+      "raw": "± α-fetoprotein elevation",
+      "frequency": null
+    },
+    {
+      "name": "↑ α-fetoprotein",
+      "raw": "↑ α-fetoprotein (in 60%), ↑ β-hCG levels (in 55%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "serum α-fetoprotein usually normal",
+      "raw": "serum α-fetoprotein usually normal",
+      "frequency": null
+    },
+    {
+      "name": "smooth firm painless testicular nodule",
+      "raw": "smooth firm painless testicular nodule",
+      "frequency": null
+    },
+    {
+      "name": "negative tumor marker status",
+      "raw": "negative tumor marker status",
+      "frequency": null
+    },
+    {
+      "name": "symptoms of metastatic disease while primary not yet palpable",
+      "raw": "symptoms of metastatic disease while primary not yet palpable",
+      "frequency": null
+    },
+    {
+      "name": "serum β-hCG always elevated → gynecomastia in 10% N.B.:   choriocarcinoma has a proclivity for hemorrhage in primary site and metastases!",
+      "raw": "serum β-hCG always elevated → gynecomastia in 10% N.B.:   choriocarcinoma has a proclivity for hemorrhage in primary site and metastases!",
+      "frequency": "10%"
+    },
+    {
+      "name": "serum α-fetoprotein elevated in > 90%",
+      "raw": "serum α-fetoprotein elevated in > 90% (exclusive to yolk sac elements)",
+      "frequency": "90%"
+    }
+  ],
+  "criteria": {},
+  "context": "Origin:   primitive spermatogenic cell (a)  one histologic type in 65% ›  from unipotential nondifferentiated gonadal line: =  evolution of mixed germ cell tumor → into mature teratoma after chemotherapy (in 40%) → followed by interval growth despite maintaining a benign histology Seminoma (35-50%) ◊  Most common tumor in undescended testis! ◊  Most common pure germ cell tumor! Average age:   40.5 years (slightly older patient compared with other germ cell tumors) Stem cell:   unipotential cell line Histo:   uniform cellular morphology resembling primitive germ cells Presentation:   in 75% lim"
+}

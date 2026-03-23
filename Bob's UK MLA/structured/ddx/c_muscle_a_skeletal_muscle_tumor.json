@@ -1,0 +1,32 @@
+{
+  "finding": "C. MUSCLE (a) skeletal muscle tumor",
+  "slug": "c_muscle_a_skeletal_muscle_tumor",
+  "chapter": "D. Vascular",
+  "source_file": "processed_clusters/d_vascular/c_muscle_a_skeletal_muscle_tumor.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rhabdomyoma",
+      "raw": "Rhabdomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma (b)  smooth muscle tumor",
+      "raw": "Rhabdomyosarcoma (b)  smooth muscle tumor",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma",
+      "raw": "Leiomyosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

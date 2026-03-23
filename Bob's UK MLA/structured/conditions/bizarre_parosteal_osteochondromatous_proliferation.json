@@ -1,0 +1,34 @@
+{
+  "name": "BIZARRE PAROSTEAL OSTEOCHONDROMATOUS PROLIFERATION",
+  "slug": "bizarre_parosteal_osteochondromatous_proliferation",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/bizarre_parosteal_osteochondromatous_proliferation.md",
+  "definition": "NORA LESION benign exophytic surface lesion of bone",
+  "demographics": {
+    "Location": "small tubular bones of hands + feet; proximal and middle phalanges (92%);"
+  },
+  "dominant_finding": "uniformly enhancing T1-hypointense mass",
+  "distribution": "small tubular bones of hands + feet; proximal and middle phalanges (92%);",
+  "discriminating_features": [
+    "well-marginated ossified broad-based lesion arising from bone cortex, usually without",
+    "cortical + medullary discontinuity from underlying host bone",
+    "periosteal reaction usually absent",
+    "uniformly enhancing T1-hypointense mass",
+    "mass of hyperintensity on T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "well-marginated ossified broad-based lesion arising from bone cortex, usually without",
+      "cortical + medullary discontinuity from underlying host bone",
+      "periosteal reaction usually absent"
+    ],
+    "MR": [
+      "uniformly enhancing T1-hypointense mass",
+      "mass of hyperintensity on T2WI"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical excision with wide margins in symptomatic patient",
+    "Prognosis": "55% recurrence rate within 2 years of excision"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "ENTERIC CYST",
+  "slug": "enteric_cyst",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/enteric_cyst.md",
+  "definition": "cyst lined by gastrointestinal mucosa without bowel wall",
+  "demographics": {
+    "Etiology": "migration of small bowel / colonic diverticulum into mesentery / mesocolon",
+    "Path": "unilocular thin smooth-walled cyst with serous contents lined by enteric epithelium +"
+  },
+  "dominant_finding": "hypoechoic cystic mass, occasionally with septations",
+  "distribution": "",
+  "discriminating_features": [
+    "hypoechoic cystic mass, occasionally with septations"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "hypoechoic cystic mass, occasionally with septations"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Trisomy E Syndrome — Hand & foot (DDx)",
+  "slug": "trisomy_e_syndrome_hand_foot_ddx_92b445",
+  "chapter": "Trisomy E Syndrome",
+  "source_file": "processed_clusters/trisomy_e_syndrome/trisomy_e_syndrome_hand_foot_ddx_92b445.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "osteogenesis imperfecta",
+      "raw": "osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "trisomy 13 syndrome",
+      "raw": "trisomy 13 syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Cockayne syndrome",
+      "raw": "Cockayne syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Werdnig-Hoffmann disease",
+      "raw": "Werdnig-Hoffmann disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "diaphragmatic hernia | clubfoot | overlapping index finger | choroid plexus cyst (30%)"
+}

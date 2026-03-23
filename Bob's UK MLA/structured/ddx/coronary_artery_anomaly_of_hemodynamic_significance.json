@@ -1,0 +1,27 @@
+{
+  "finding": "Coronary Artery Anomaly of Hemodynamic Significance",
+  "slug": "coronary_artery_anomaly_of_hemodynamic_significance",
+  "chapter": "Coronary Artery Anomalies",
+  "source_file": "processed_clusters/coronary_artery_anomalies/coronary_artery_anomaly_of_hemodynamic_significance.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ALCAPA = most serious anomaly",
+      "raw": "ALCAPA = most serious anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Origin from opposite sinus of Valsalva / opposite coronary artery + interarterial / intramural course",
+      "raw": "Origin from opposite sinus of Valsalva / opposite coronary artery + interarterial / intramural course",
+      "frequency": null
+    },
+    {
+      "name": "Congenital coronary artery fistula",
+      "raw": "Congenital coronary artery fistula",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  2nd most common cause of sudden cardiac death among young adults"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "RELAPSING POLYCHONDRITIS",
+  "slug": "relapsing_polychondritis",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/relapsing_polychondritis.md",
+  "definition": "rare debilitating multisystem inflammatory + autoimmune disorder characterized by recurrent",
+  "demographics": {
+    "Etiology": "acquired metabolic disorder (? abnormal acid mucopolysaccharide metabolism) /",
+    "Histo": "loss of cytoplasm in chondrocytes; plasma cell and lymphocyte infiltration",
+    "Age": "40-60 years (no age predilection)"
+  },
+  "dominant_finding": "calcification of pinna of ear",
+  "distribution": "",
+  "discriminating_features": [
+    "calcification of pinna of ear",
+    "manubriosternal / costochondral arthropathy (30%)",
+    "ectasia + collapsibility (← cartilaginous destruction) of trachea and mainstem bronchi",
+    "bronchiectasis",
+    "generalized + localized emphysema"
+  ],
+  "other_features": {
+    "general": [
+      "calcification of pinna of ear"
+    ],
+    "Chest": [
+      "manubriosternal / costochondral arthropathy (30%)"
+    ],
+    "Respiratory tract (in up to 70%)": [
+      "ectasia + collapsibility (← cartilaginous destruction) of trachea and mainstem bronchi",
+      "bronchiectasis",
+      "generalized + localized emphysema"
+    ],
+    "Cardiovascular (in 15-46%)": [
+      "aortic aneurysm (4-10%), mostly in ascending aorta, may be multiple / dissecting",
+      "aortic / mitral valve insufficiency (8%)",
+      "aortitis + systemic vasculitis (13%)",
+      "obliterating vasculitis in medium-sized + large arteries"
+    ],
+    "Bone": [
+      "periarticular osteoporosis",
+      "erosive changes in carpal bones resembling rheumatoid arthritis",
+      "soft-tissue swelling around joints + styloid process of ulna",
+      "erosive irregularities in sacroiliac joints",
+      "disk space erosion + increased density of articular plates"
+    ]
+  },
+  "clinical": {
+    "Rx": "corticosteroids, immunosuppression",
+    "Prognosis": "74% 5-year survival rate; 55% 10-year survival rate; median survival time of 11"
+  }
+}

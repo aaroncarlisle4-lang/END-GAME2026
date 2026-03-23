@@ -1,0 +1,72 @@
+{
+  "finding": "Clubfoot = Talipes Equinovarus",
+  "slug": "clubfoot_talipes_equinovarus",
+  "chapter": "FOOT",
+  "source_file": "processed_clusters/foot/clubfoot_talipes_equinovarus.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "equinus of heel",
+      "raw": "equinus of heel (reversed calcaneal pitch)",
+      "frequency": null
+    },
+    {
+      "name": "heel varus",
+      "raw": "heel varus (talocalcaneal angle of almost zero on AP view with both bones parallel to each other)",
+      "frequency": null
+    },
+    {
+      "name": "metatarsus adductus",
+      "raw": "metatarsus adductus (axis of 1st metatarsal deviated medially relative to axis of talus)",
+      "frequency": null
+    },
+    {
+      "name": "Arthrogryposis multiplex congenita",
+      "raw": "Arthrogryposis multiplex congenita",
+      "frequency": null
+    },
+    {
+      "name": "Chondrodysplasia punctata",
+      "raw": "Chondrodysplasia punctata",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Spina bifida",
+      "raw": "Spina bifida",
+      "frequency": null
+    },
+    {
+      "name": "Myelomeningocele",
+      "raw": "Myelomeningocele",
+      "frequency": null
+    },
+    {
+      "name": "Talocalcaneal type of tarsal coalition",
+      "raw": "Talocalcaneal type of tarsal coalition",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse idiopathic skeletal hyperostosis",
+      "raw": "Diffuse idiopathic skeletal hyperostosis (DISH)",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Common severe congenital deformity characterized by Rocker-bottom Foot = Vertical Talus √  vertically oriented talus with increased talocalcaneal angle on lateral view √  dorsal navicular dislocation at talonavicular joint √  heel equinus √  rigid deformity Associated with:   Arthrogryposis multiplex congenita; spina bifida; trisomy 13-18 Talar Beak = Hypertrophied Talar Ridge"
+}

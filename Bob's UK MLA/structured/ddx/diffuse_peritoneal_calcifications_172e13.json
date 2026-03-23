@@ -1,0 +1,62 @@
+{
+  "finding": "Diffuse Peritoneal Calcifications",
+  "slug": "diffuse_peritoneal_calcifications_172e13",
+  "chapter": "B. CHEST",
+  "source_file": "processed_clusters/b_chest/diffuse_peritoneal_calcifications_172e13.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Uremia",
+      "raw": "Uremia",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism + paraneoplastic HPT (b)  dystrophic ← tissue injury / aging / disease ›  neoplasm",
+      "raw": "Hyperparathyroidism + paraneoplastic HPT (b)  dystrophic ← tissue injury / aging / disease ›  neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Cystadenoma / serous adenocarcinoma of ovary",
+      "raw": "Cystadenoma / serous adenocarcinoma of ovary",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomyxoma peritonei (a)  pseudomucinous adenoma of ovary (b)  mucocele of appendix",
+      "raw": "Pseudomyxoma peritonei (a)  pseudomucinous adenoma of ovary (b)  mucocele of appendix",
+      "frequency": null
+    },
+    {
+      "name": "Undifferentiated abdominal malignancy",
+      "raw": "Undifferentiated abdominal malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous peritonitis",
+      "raw": "Tuberculous peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Pneumocystis carinii infection ›  inflammation",
+      "raw": "Pneumocystis carinii infection ›  inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Meconium peritonitis",
+      "raw": "Meconium peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal dialysis with sclerosing peritonitis",
+      "raw": "Peritoneal dialysis with sclerosing peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Oil granuloma",
+      "raw": "Oil granuloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  systemic mineral imbalance (\"metastatic\") √  granular, sandlike psammomatous calcifications ›  infection √  mottled calcifications simulating residual barium √  sheetlike calcifications surrounding bowel and mesentery √  annular / plaquelike calcifications"
+}

@@ -1,0 +1,44 @@
+{
+  "name": "ACUTE TUBULAR NECROSIS",
+  "slug": "acute_tubular_necrosis",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/acute_tubular_necrosis.md",
+  "definition": "ACUTE VASOMOTOR NEPHROPATHY temporary reversible marked reduction in tubular flow rate",
+  "demographics": {},
+  "dominant_finding": "normal (89%) / increased (11%) echogenicity of cortex",
+  "distribution": "diffuse calcifications (rare)",
+  "discriminating_features": [
+    "smooth large kidneys, especially increase in AP diameter > 4.63 cm ← interstitial edema",
+    "diminished / absent opacification of collecting system",
+    "immediate persistent dense nephrogram (75%)",
+    "increasingly dense persistent nephrogram (25%)",
+    "diffuse calcifications (rare)"
+  ],
+  "other_features": {
+    "general": [
+      "smooth large kidneys, especially increase in AP diameter > 4.63 cm ← interstitial edema",
+      "diminished / absent opacification of collecting system",
+      "immediate persistent dense nephrogram (75%)",
+      "increasingly dense persistent nephrogram (25%)",
+      "diffuse calcifications (rare)"
+    ],
+    "US": [
+      "normal to diminished echogenicity of medulla",
+      "sharp delineation of swollen pyramids",
+      "normal (89%) / increased (11%) echogenicity of cortex",
+      "elevated resistive index ≥ 0.75 (in 91% excluding patients with hepatorenal syndrome);"
+    ],
+    "ANGIO": [
+      "normal arterial tree with delayed emptying of intrarenal vessels",
+      "slightly delayed / normal venous opacification"
+    ],
+    "NUC": [
+      "well-maintained renal perfusion",
+      "poor concentration of 99mTc-glucoheptonate / 99mTc-DTPA",
+      "better renal visualization on immediate postinjection images than on delayed images",
+      "progressive parenchymal accumulation of 131I-Hippuran / 99mTc-MAG3",
+      "no excretion"
+    ]
+  },
+  "clinical": {}
+}

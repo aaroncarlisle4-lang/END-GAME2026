@@ -1,0 +1,55 @@
+{
+  "name": "RETROPERITONEAL ONCOCYTOMA",
+  "slug": "retroperitoneal_oncocytoma",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/retroperitoneal_oncocytoma.md",
+  "definition": "ONCOCYTIC ADRENOCORTICAL ADENOMA / NEOPLASM PROXIMAL TUBULAR ADENOMA = BENIGN OXYPHILIC ADENOMA rare form of a benign hypervascular adenoma",
+  "demographics": {
+    "Histo": "abundant deeply eosinophilic (mitochondria-rich) cells; positive for vimentin, melan",
+    "Location": "L÷R = 1.5÷1",
+    "Prevalence": "3-7% of solid renal masses",
+    "Path": "well-encapsulated tan-colored tumor of well-differentiated proximal tubular cells +"
+  },
+  "dominant_finding": "hypointense relative to renal parenchyma on T1WI (70%)",
+  "distribution": "L÷R = 1.5÷1",
+  "discriminating_features": [
+    "well-marginated often large mass with heterogeneous enhancement of nonspecific",
+    "nonspecific well-defined hypointense capsule (in < 50%)",
+    "renal mass of homogeneously low attenuation / hypoechogenicity (in > 50%)",
+    "well-demarcated with pseudocapsule",
+    "central stellate scar in 30% (in lesions > 3 cm in diameter ← organization of central"
+  ],
+  "other_features": {
+    "general": [
+      "well-marginated often large mass with heterogeneous enhancement of nonspecific",
+      "renal mass of homogeneously low attenuation / hypoechogenicity (in > 50%)",
+      "well-demarcated with pseudocapsule",
+      "central stellate scar in 30% (in lesions > 3 cm in diameter ← organization of central",
+      "invasion of renal capsule / renal vein in large tumors"
+    ],
+    "MR": [
+      "typically spherical well-defined mass",
+      "hypointense relative to renal parenchyma on T1WI (70%)",
+      "hyperintense relative to renal parenchyma on T2WI (67%)",
+      "prominent enhancement of mass",
+      "central stellate scar:",
+      "hypointense on T1WI + hyperintense on T2WI",
+      "less enhancement than remainder of mass",
+      "scar may show delayed enhancement",
+      "nonspecific well-defined hypointense capsule (in < 50%)"
+    ],
+    "ANGIO": [
+      "spoke-wheel configuration in 80% (DDx: renal cell ca.)",
+      "homogeneously dense parenchymal phase (71%)",
+      "NO contrast puddling / arteriovenous shunting / renal vein invasion"
+    ],
+    "NUC": [
+      "photopenic area on 99mTc-DMSA ← tubular cells do not function normally"
+    ]
+  },
+  "clinical": {
+    "Cx": "malignant transformation",
+    "Rx": "local resection / heminephrectomy",
+    "Prognosis": "death from malignancy following surgery (3%)"
+  }
+}

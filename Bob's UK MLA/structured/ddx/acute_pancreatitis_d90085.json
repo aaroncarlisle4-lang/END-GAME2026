@@ -1,0 +1,92 @@
+{
+  "finding": "Acute Pancreatitis",
+  "slug": "acute_pancreatitis_d90085",
+  "chapter": "I. MALIGNANCY",
+  "source_file": "processed_clusters/i_malignancy/acute_pancreatitis_d90085.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "acute epigastric pain radiating to back / chest (peaking after a few hours, resolving in 2-3 days); nausea, vomiting",
+      "raw": "acute epigastric pain radiating to back / chest (peaking after a few hours, resolving in 2-3 days); nausea, vomiting",
+      "frequency": null
+    },
+    {
+      "name": "⇑ serum amylase + lipase in blood + urine",
+      "raw": "⇑ serum amylase + lipase in blood + urine",
+      "frequency": null
+    },
+    {
+      "name": "increased amylase-creatinine clearance ratio",
+      "raw": "increased amylase-creatinine clearance ratio",
+      "frequency": null
+    },
+    {
+      "name": "signs of hemorrhagic pancreatitis:",
+      "raw": "signs of hemorrhagic pancreatitis:",
+      "frequency": null
+    },
+    {
+      "name": "Cullen sign = periumbilical ecchymosis",
+      "raw": "Cullen sign = periumbilical ecchymosis",
+      "frequency": null
+    },
+    {
+      "name": "Grey-Turner sign = flank ecchymosis",
+      "raw": "Grey-Turner sign = flank ecchymosis",
+      "frequency": null
+    },
+    {
+      "name": "Fox sign = infrainguinal ecchymosis",
+      "raw": "Fox sign = infrainguinal ecchymosis",
+      "frequency": null
+    },
+    {
+      "name": "subcutaneous nodules + fat necrosis + polyarthritis",
+      "raw": "subcutaneous nodules + fat necrosis + polyarthritis",
+      "frequency": null
+    },
+    {
+      "name": "epigastric pain radiating to back",
+      "raw": "epigastric pain radiating to back",
+      "frequency": null
+    },
+    {
+      "name": "serum amylase + lipase > 3 x normal",
+      "raw": "serum amylase + lipase > 3 x normal",
+      "frequency": null
+    },
+    {
+      "name": "characteristic findings on imaging",
+      "raw": "characteristic findings on imaging",
+      "frequency": null
+    },
+    {
+      "name": "First / early clinical phase",
+      "raw": "First / early clinical phase (during 1st week)",
+      "frequency": null
+    },
+    {
+      "name": "hematocrit, C-reactive protein, LDH, serum / urinary trypsinogen, cytokines",
+      "raw": "hematocrit, C-reactive protein, LDH, serum / urinary trypsinogen, cytokines",
+      "frequency": null
+    },
+    {
+      "name": "CT severity index + pleural effusion ◊  Serum amylase + lipase useless to judge severity!",
+      "raw": "CT severity index + pleural effusion ◊  Serum amylase + lipase useless to judge severity!",
+      "frequency": null
+    },
+    {
+      "name": "Second / late clinical phase beyond 1st week that may persist for weeks - months;",
+      "raw": "Second / late clinical phase beyond 1st week that may persist for weeks - months;",
+      "frequency": null
+    },
+    {
+      "name": "bacteremia + sepsis",
+      "raw": "bacteremia + sepsis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  inflammatory disease of pancreas producing temporary changes with potential for restoration of normal anatomy and function following resolution Incidence:  > 300,000 hospitalizations annually in USA Clinical definition of acute pancreatitis: Clinical phases (revised Atlanta Classification System 2012): Pathology:  early inflammation → peripancreatic edema / ischemia → resolution / permanent necrosis / liquefaction Severity:   based on Marshall scoring system (a)  mild = organ failure resolves within 48 hours (b)  severe = organ failure beyond 48 hours Other useful severity markers: Mortalit"
+}

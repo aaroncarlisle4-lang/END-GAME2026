@@ -1,0 +1,52 @@
+{
+  "finding": "C. INFLAMMATION / INFECTION",
+  "slug": "c_inflammation_infection_1_18663d",
+  "chapter": "E. BILIARY",
+  "source_file": "processed_clusters/e_biliary/c_inflammation_infection_1_18663d.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatitis",
+      "raw": "Hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Mononucleosis",
+      "raw": "Mononucleosis",
+      "frequency": null
+    },
+    {
+      "name": "Miliary TB, histoplasmosis",
+      "raw": "Miliary TB, histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Malaria",
+      "raw": "Malaria",
+      "frequency": null
+    },
+    {
+      "name": "Syphilis",
+      "raw": "Syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Leptospirosis",
+      "raw": "Leptospirosis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic granulomatous disease of childhood",
+      "raw": "Chronic granulomatous disease of childhood",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "A. NO TRACER UPTAKE",
+  "slug": "a_no_tracer_uptake_ee0718",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/a_no_tracer_uptake_ee0718.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bone island",
+      "raw": "Bone island",
+      "frequency": null
+    },
+    {
+      "name": "Osteopoikilosis",
+      "raw": "Osteopoikilosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteopathia striata",
+      "raw": "Osteopathia striata",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous cortical defect",
+      "raw": "Fibrous cortical defect",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

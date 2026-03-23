@@ -1,0 +1,27 @@
+{
+  "finding": "C. TUMOR",
+  "slug": "c_tumor_3",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/c_tumor_3.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pseudotumor",
+      "raw": "Pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis, lymphoma, leukemia",
+      "raw": "Metastasis, lymphoma, leukemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

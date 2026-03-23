@@ -1,0 +1,27 @@
+{
+  "finding": "Echinococcal Disease — Vertebra (DDx)",
+  "slug": "echinococcal_disease_vertebra_ddx_1_16f883",
+  "chapter": "Echinococcal Disease",
+  "source_file": "processed_clusters/echinococcal_disease/echinococcal_disease_vertebra_ddx_1_16f883.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "other granulomatous diseases",
+      "raw": "other granulomatous diseases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hydropneumothorax | calcification of cyst wall (0.7%) | rib + vertebral erosion (rare) | mediastinal cyst: posterior (65%), anterior (26%), middle (9%) mediastinum"
+}

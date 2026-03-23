@@ -1,0 +1,75 @@
+{
+  "finding": "B. MEDIUM-SIZED-VESSEL VASCULITIS",
+  "slug": "b_medium_sized_vessel_vasculitis_1",
+  "chapter": "D. NEURONAL MIGRATION ANOMALY due to infection, ischemia, metabolic disorders",
+  "source_file": "processed_clusters/d_neuronal_migration_anomaly_due_to_infection_ischemia_metabolic_disorders/b_medium_sized_vessel_vasculitis_1.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Polyarteritis nodosa",
+      "raw": "Polyarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "Kawasaki disease",
+      "raw": "Kawasaki disease",
+      "frequency": null
+    },
+    {
+      "name": "SMALL-VESSEL VASCULITIS",
+      "raw": "SMALL-VESSEL VASCULITIS",
+      "frequency": null
+    },
+    {
+      "name": "IgA vasculitis = Henoch-Schönlein purpura",
+      "raw": "IgA vasculitis = Henoch-Schönlein purpura",
+      "frequency": null
+    },
+    {
+      "name": "Microscopic polyangiitis",
+      "raw": "Microscopic polyangiitis",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatosis with polyangiitis = Wegener granulomatosis",
+      "raw": "Granulomatosis with polyangiitis = Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granulomatosis with polyangiitis = Churg-Strauss syndrome",
+      "raw": "Eosinophilic granulomatosis with polyangiitis = Churg-Strauss syndrome",
+      "frequency": null
+    },
+    {
+      "name": "VARIABLE-SIZED VESSEL VASCULITIS",
+      "raw": "VARIABLE-SIZED VESSEL VASCULITIS",
+      "frequency": null
+    },
+    {
+      "name": "Behçet disease",
+      "raw": "Behçet disease",
+      "frequency": null
+    },
+    {
+      "name": "Cogan syndrome",
+      "raw": "Cogan syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Polyarteritis nodosa": [],
+    "Kawasaki disease": [
+      "variable degree of small-vessel disease"
+    ],
+    "SMALL-VESSEL VASCULITIS": [],
+    "IgA vasculitis = Henoch-Schönlein purpura": [],
+    "Microscopic polyangiitis": [],
+    "Granulomatosis with polyangiitis = Wegener granulomatosis": [],
+    "Eosinophilic granulomatosis with polyangiitis = Churg-Strauss syndrome": [],
+    "VARIABLE-SIZED VESSEL VASCULITIS": [],
+    "Behçet disease": [],
+    "Cogan syndrome": []
+  },
+  "context": "√  aneurysm / stenosis / occlusion of intracranial carotid arteries √  nonspecific subdural effusion, cerebral infarction √  reversible hyperintense lesion in splenium √  hypertensive encephalopathy √  focal ischemic / hemorrhagic lesions √  cerebral hemorrhage + infarction, pachymeningitis √  variable degree of small-vessel disease √  leptomeningeal enhancement √  macro- / microinfarctions + macro- / microhemorrhages √  optic neuropathy √  nonspecific ischemic changes √  obliteration / narrowing of vestibular labyrinth"
+}

@@ -1,0 +1,52 @@
+{
+  "finding": "Enhancing Ventricular Margins",
+  "slug": "enhancing_ventricular_margins",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/enhancing_ventricular_margins.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma (esp. small cell carcinoma)",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast carcinoma (b)  Subependymal seeding of CNS primary",
+      "raw": "Breast carcinoma (b)  Subependymal seeding of CNS primary",
+      "frequency": null
+    },
+    {
+      "name": "Glioma",
+      "raw": "Glioma",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell astrocytoma (c)  Ependymal seeding of CNS primary",
+      "raw": "Giant cell astrocytoma (c)  Ependymal seeding of CNS primary",
+      "frequency": null
+    },
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Germinoma (d)  Primary CNS lymphoma / systemic lymphoma (e)  Inflammatory ventriculitis",
+      "raw": "Germinoma (d)  Primary CNS lymphoma / systemic lymphoma (e)  Inflammatory ventriculitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  Subependymal spread of metastatic tumor"
+}

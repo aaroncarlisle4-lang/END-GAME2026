@@ -1,0 +1,67 @@
+{
+  "finding": "Acquired Seminal Vesicle Cyst",
+  "slug": "acquired_seminal_vesicle_cyst",
+  "chapter": "RETROPERITONEAL TERATOMA",
+  "source_file": "processed_clusters/retroperitoneal_teratoma/acquired_seminal_vesicle_cyst.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Autosomal dominant polycystic kidney disease",
+      "raw": "Autosomal dominant polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Invasive bladder tumor",
+      "raw": "Invasive bladder tumor",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Benign prostatic hypertrophy",
+      "raw": "Benign prostatic hypertrophy",
+      "frequency": null
+    },
+    {
+      "name": "Ejaculatory duct obstruction",
+      "raw": "Ejaculatory duct obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic insertion of ipsilateral ureter 92% into bladder neck / posterior prostatic urethra / ejaculatory duct / seminal vesicle",
+      "raw": "Ectopic insertion of ipsilateral ureter 92% into bladder neck / posterior prostatic urethra / ejaculatory duct / seminal vesicle",
+      "frequency": "92%"
+    },
+    {
+      "name": "Ipsilateral renal dysgenesis 80%",
+      "raw": "Ipsilateral renal dysgenesis 80%",
+      "frequency": "80%"
+    },
+    {
+      "name": "Duplication of collecting system 8%",
+      "raw": "Duplication of collecting system 8%",
+      "frequency": "8%"
+    },
+    {
+      "name": "Vas deferens agenesis",
+      "raw": "Vas deferens agenesis",
+      "frequency": null
+    },
+    {
+      "name": "abdominal / flank / pelvic / perineal pain exacerbated by ejaculation, epididymitis in prepubertal boy",
+      "raw": "abdominal / flank / pelvic / perineal pain exacerbated by ejaculation, epididymitis in prepubertal boy",
+      "frequency": null
+    },
+    {
+      "name": "dysuria, frequent urination, recurrent urinary tract infection",
+      "raw": "dysuria, frequent urination, recurrent urinary tract infection",
+      "frequency": "frequent"
+    }
+  ],
+  "criteria": {},
+  "context": "Etiology: √  bilateral seminal vesicle cysts Congenital Seminal Vesicle Cyst Associated with:   anomalies of ipsilateral mesonephric duct: Etiology: Symptomatic age:   21-41 years"
+}

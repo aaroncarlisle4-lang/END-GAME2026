@@ -1,0 +1,28 @@
+{
+  "name": "UTERINE LEIOMYOSARCOMA",
+  "slug": "uterine_leiomyosarcoma",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/uterine_leiomyosarcoma.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "0.67÷100,000; 25% of all uterine sarcomas",
+    "Histo": "infiltrative margins, nuclear atypia, increased mitotic figures"
+  },
+  "dominant_finding": "mass with irregular margin",
+  "distribution": "",
+  "discriminating_features": [
+    "mass with irregular margin",
+    "rapid change in size + appearance",
+    "extensive degeneration",
+    "loss of well-defined outer capsule"
+  ],
+  "other_features": {
+    "general": [
+      "mass with irregular margin",
+      "rapid change in size + appearance",
+      "extensive degeneration",
+      "loss of well-defined outer capsule"
+    ]
+  },
+  "clinical": {}
+}

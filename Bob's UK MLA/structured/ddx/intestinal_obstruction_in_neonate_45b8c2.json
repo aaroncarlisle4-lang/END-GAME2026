@@ -1,0 +1,52 @@
+{
+  "finding": "Intestinal Obstruction in Neonate",
+  "slug": "intestinal_obstruction_in_neonate_45b8c2",
+  "chapter": "Passage of Meconium",
+  "source_file": "processed_clusters/passage_of_meconium/intestinal_obstruction_in_neonate_45b8c2.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "abdominal distension, vomiting, failure to pass meconium",
+      "raw": "abdominal distension, vomiting, failure to pass meconium",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal atresia",
+      "raw": "Duodenal atresia (50%), stenosis (40%), web (10%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Midgut volvulus",
+      "raw": "Midgut volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Jejunal / ileal atresia",
+      "raw": "Jejunal / ileal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Meconium ileus",
+      "raw": "Meconium ileus",
+      "frequency": null
+    },
+    {
+      "name": "Meconium plug syndrome",
+      "raw": "Meconium plug syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hirschsprüng disease",
+      "raw": "Hirschsprüng disease",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing enterocolitis",
+      "raw": "Necrotizing enterocolitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

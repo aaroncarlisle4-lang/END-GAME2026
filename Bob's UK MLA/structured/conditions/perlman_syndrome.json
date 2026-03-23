@@ -1,0 +1,33 @@
+{
+  "name": "PERLMAN SYNDROME",
+  "slug": "perlman_syndrome",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/perlman_syndrome.md",
+  "definition": "rare fetal overgrowth disorder characterized by visceromegaly, renal lesions, distinctive",
+  "demographics": {},
+  "dominant_finding": "cystic hygroma",
+  "distribution": "",
+  "discriminating_features": [
+    "cystic hygroma",
+    "fetal macrosomia",
+    "macrocephaly",
+    "agenesis of corpus callosum",
+    "choroid plexus cyst"
+  ],
+  "other_features": {
+    "general": [
+      "cystic hygroma",
+      "fetal macrosomia",
+      "macrocephaly",
+      "agenesis of corpus callosum",
+      "choroid plexus cyst",
+      "nephromegaly + hydronephrosis",
+      "hepatomegaly",
+      "cryptorchidism",
+      "polyhydramnios"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death within first few days of life"
+  }
+}

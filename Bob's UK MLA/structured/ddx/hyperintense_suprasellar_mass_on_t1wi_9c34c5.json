@@ -1,0 +1,72 @@
+{
+  "finding": "Hyperintense Suprasellar Mass on T1WI",
+  "slug": "hyperintense_suprasellar_mass_on_t1wi_9c34c5",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/hyperintense_suprasellar_mass_on_t1wi_9c34c5.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Germinoma",
+      "raw": "Germinoma",
+      "frequency": null
+    },
+    {
+      "name": "most common in adolescent girls",
+      "raw": "most common in adolescent girls",
+      "frequency": "most common"
+    },
+    {
+      "name": "diabetes insipidus",
+      "raw": "diabetes insipidus",
+      "frequency": null
+    },
+    {
+      "name": "Thrombosed aneurysm",
+      "raw": "Thrombosed aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Rathke cleft cyst",
+      "raw": "Rathke cleft cyst",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma at floor of 3rd ventricle",
+      "raw": "Lipoma at floor of 3rd ventricle",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic neurohypophysis",
+      "raw": "Ectopic neurohypophysis",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous angioma =  collection of sinusoidal spaces",
+      "raw": "Cavernous angioma =  collection of sinusoidal spaces",
+      "frequency": null
+    },
+    {
+      "name": "occasionally familial",
+      "raw": "occasionally familial",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic metastasis",
+      "raw": "Hemorrhagic metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  viscous material in cystic region (protein concentration of 10-30%) √  intrasellar component in 70% √  hemorrhagic mass → methemoglobin √  laminated internal architecture ← thrombus of differing age (best appreciated on T2WI) √  containing thickly mucinous material √  no contrast enhancement √  intra- / suprasellar in location √  with predominantly sebaceous material √  suppressed by fat saturation scan √  round + homogeneous √  suppressed by fat saturation scan √  along floor of 3rd ventricle √  quite small √  multinodular \"popcorn\" aggregate with central zones of T1 shortening surrounded"
+}

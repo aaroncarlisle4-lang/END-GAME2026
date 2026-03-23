@@ -1,0 +1,32 @@
+{
+  "finding": "Polyarteritis Nodosa — Skin (involved in 20%) (DDx)",
+  "slug": "polyarteritis_nodosa_skin_involved_in_20_ddx_c48900",
+  "chapter": "Polyarteritis Nodosa",
+  "source_file": "processed_clusters/polyarteritis_nodosa/polyarteritis_nodosa_skin_involved_in_20_ddx_c48900.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "rheumatoid vasculitis",
+      "raw": "rheumatoid vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "drug abuse",
+      "raw": "drug abuse",
+      "frequency": null
+    },
+    {
+      "name": "systemic lupus erythematosus",
+      "raw": "systemic lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "Churg-Strauss syndrome",
+      "raw": "Churg-Strauss syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "fusiform aneurysms / arterial ectasia | luminal irregularities (in up to 90%) | stenoses of arteries | arterial occlusions + organ infarcts (98%)"
+}

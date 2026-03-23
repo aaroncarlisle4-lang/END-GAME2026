@@ -1,0 +1,37 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_6",
+  "chapter": "Musculoskeletal Fibromatoses",
+  "source_file": "processed_clusters/musculoskeletal_fibromatoses/b_malignant_6.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myxoid liposarcoma",
+      "raw": "Myxoid liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Myxoid leiomyosarcoma",
+      "raw": "Myxoid leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Myxoid chondrosarcoma",
+      "raw": "Myxoid chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying fibromyxoid tumor",
+      "raw": "Ossifying fibromyxoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Myxofibrosarcoma",
+      "raw": "Myxofibrosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  intralesional fat √  internal chondroid matrix √  incomplete peripheral ossification"
+}

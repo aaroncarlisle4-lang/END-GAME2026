@@ -1,0 +1,47 @@
+{
+  "finding": "A. Congenital Lesions",
+  "slug": "a_congenital_lesions",
+  "chapter": "Lumps & Bumps of Pediatric Skull",
+  "source_file": "processed_clusters/lumps_bumps_of_pediatric_skull/a_congenital_lesions.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Encephalocele",
+      "raw": "Encephalocele",
+      "frequency": null
+    },
+    {
+      "name": "Nasal glioma",
+      "raw": "Nasal glioma",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid",
+      "raw": "Dermoid",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid cyst",
+      "raw": "Epidermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Vascular malformation: venous, lymphatic, sinus pericranii",
+      "raw": "Vascular malformation: venous, lymphatic, sinus pericranii",
+      "frequency": null
+    },
+    {
+      "name": "PHACE syndrome",
+      "raw": "PHACE syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

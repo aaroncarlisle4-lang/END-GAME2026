@@ -1,0 +1,22 @@
+{
+  "finding": "Metastasis To Gallbladder — in children:   embryonal cell sarcoma, rhabdomyosarcoma (DDx)",
+  "slug": "metastasis_to_gallbladder_in_children_embryonal_cell_sarcoma_rhabdomyosarcoma_dd",
+  "chapter": "Metastasis To Gallbladder",
+  "source_file": "processed_clusters/metastasis_to_gallbladder/metastasis_to_gallbladder_in_children_embryonal_cell_sarcoma_rhabdomyosarcoma_dd.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "adenocarcinoma (usually associated with gallstones",
+      "raw": "adenocarcinoma (usually associated with gallstones",
+      "frequency": null
+    },
+    {
+      "name": "more common in women + older",
+      "raw": "more common in women + older",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

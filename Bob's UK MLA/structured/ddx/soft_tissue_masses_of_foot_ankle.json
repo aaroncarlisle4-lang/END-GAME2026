@@ -1,0 +1,57 @@
+{
+  "finding": "Soft-tissue Masses of Foot + Ankle",
+  "slug": "soft_tissue_masses_of_foot_ankle",
+  "chapter": "FOOT",
+  "source_file": "processed_clusters/foot/soft_tissue_masses_of_foot_ankle.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NONTUMORAL (a)  synovial proliferations",
+      "raw": "NONTUMORAL (a)  synovial proliferations",
+      "frequency": null
+    },
+    {
+      "name": "Pigmented villonodular synovitis",
+      "raw": "Pigmented villonodular synovitis (PVNS)",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor (GCT) of tendon sheath (b)  posttraumatic",
+      "raw": "Giant cell tumor (GCT) of tendon sheath (b)  posttraumatic",
+      "frequency": null
+    },
+    {
+      "name": "Plantar fasciitis (c)  inflammatory (d)  uncertain origin",
+      "raw": "Plantar fasciitis (c)  inflammatory (d)  uncertain origin",
+      "frequency": null
+    },
+    {
+      "name": "Ganglion cyst",
+      "raw": "Ganglion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid cyst",
+      "raw": "Epidermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Morton neuroma",
+      "raw": "Morton neuroma",
+      "frequency": null
+    },
+    {
+      "name": "Florid reactive periostitis",
+      "raw": "Florid reactive periostitis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid nodules",
+      "raw": "Rheumatoid nodules",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

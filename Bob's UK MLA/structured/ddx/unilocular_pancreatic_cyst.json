@@ -1,0 +1,42 @@
+{
+  "finding": "Unilocular Pancreatic Cyst",
+  "slug": "unilocular_pancreatic_cyst",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/unilocular_pancreatic_cyst.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pseudocyst",
+      "raw": "Pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "history of pancreatitis",
+      "raw": "history of pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Intraductal papillary mucinous neoplasm",
+      "raw": "Intraductal papillary mucinous neoplasm (IPMN)",
+      "frequency": null
+    },
+    {
+      "name": "Benign unclassified cyst",
+      "raw": "Benign unclassified cyst",
+      "frequency": null
+    },
+    {
+      "name": "Unilocular serous cystadenoma",
+      "raw": "Unilocular serous cystadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoepithelial cyst",
+      "raw": "Lymphoepithelial cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  A cyst < 3 cm is almost always benign (97% PPV) + may be followed at 6-month intervals for 3 years! √  narrow neck at cyst-duct junction"
+}

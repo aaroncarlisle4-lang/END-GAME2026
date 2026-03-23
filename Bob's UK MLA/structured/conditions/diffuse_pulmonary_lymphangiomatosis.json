@@ -1,0 +1,33 @@
+{
+  "name": "DIFFUSE PULMONARY LYMPHANGIOMATOSIS",
+  "slug": "diffuse_pulmonary_lymphangiomatosis",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/diffuse_pulmonary_lymphangiomatosis.md",
+  "definition": "rare condition consisting of proliferation + dilatation of communicating lymphatic channels in",
+  "demographics": {
+    "Age": "teenager, young adult",
+    "Path": "resembles lymphangioma",
+    "Location": "predominantly upper lobes of lung"
+  },
+  "dominant_finding": "smooth symmetric thickening of interlobular septa + peribronchovascular bundles",
+  "distribution": "predominantly upper lobes of lung",
+  "discriminating_features": [
+    "smooth symmetric thickening of interlobular septa + peribronchovascular bundles",
+    "diffuse increased attenuation of mediastinal fat",
+    "mild perihilar infiltration",
+    "diffuse pleural thickening",
+    "pleural effusion"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "smooth symmetric thickening of interlobular septa + peribronchovascular bundles",
+      "diffuse increased attenuation of mediastinal fat",
+      "mild perihilar infiltration",
+      "diffuse pleural thickening",
+      "pleural effusion",
+      "pericardial effusion"
+    ]
+  },
+  "clinical": {}
+}

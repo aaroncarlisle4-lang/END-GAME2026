@@ -1,0 +1,37 @@
+{
+  "finding": "Solid Intrathoracic Neonatal Mass",
+  "slug": "solid_intrathoracic_neonatal_mass_9e388f",
+  "chapter": "C. CENTRAL / PERIPHERAL",
+  "source_file": "processed_clusters/c_central_peripheral/solid_intrathoracic_neonatal_mass_9e388f.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Type 3 / fluid-filled cystic adenomatoid malformation",
+      "raw": "Type 3 / fluid-filled cystic adenomatoid malformation",
+      "frequency": null
+    },
+    {
+      "name": "Sequestration",
+      "raw": "Sequestration",
+      "frequency": null
+    },
+    {
+      "name": "Solid (high-grade) pleuropulmonary blastoma",
+      "raw": "Solid (high-grade) pleuropulmonary blastoma",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial atresia",
+      "raw": "Bronchial atresia",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

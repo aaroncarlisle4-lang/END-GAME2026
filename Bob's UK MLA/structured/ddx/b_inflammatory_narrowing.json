@@ -1,0 +1,27 @@
+{
+  "finding": "B. INFLAMMATORY NARROWING",
+  "slug": "b_inflammatory_narrowing",
+  "chapter": "Passage of Meconium",
+  "source_file": "processed_clusters/passage_of_meconium/b_inflammatory_narrowing.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic duodenal ulcer scar",
+      "raw": "Chronic duodenal ulcer scar",
+      "frequency": null
+    },
+    {
+      "name": "Acute pancreatitis: phlegmon, abscess, pseudocyst",
+      "raw": "Acute pancreatitis: phlegmon, abscess, pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Acute cholecystitis: perforated gallstone",
+      "raw": "Acute cholecystitis: perforated gallstone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

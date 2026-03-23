@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoma Of Gastrointestinal Tract — Stomach (50-70%, most frequently involved site of GI tract) (DDx)",
+  "slug": "lymphoma_of_gastrointestinal_tract_stomach_50_70_most_frequently_involved_site_o_9fc78b",
+  "chapter": "Lymphoma Of Gastrointestinal Tract",
+  "source_file": "processed_clusters/lymphoma_of_gastrointestinal_tract/lymphoma_of_gastrointestinal_tract_stomach_50_70_most_frequently_involved_site_o_9fc78b.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "gastric adenocarcinoma (milder more focal wall thickening",
+      "raw": "gastric adenocarcinoma (milder more focal wall thickening",
+      "frequency": null
+    },
+    {
+      "name": "tumor infiltration",
+      "raw": "tumor infiltration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "average wall thickness of 4-5 cm | luminal irregularity (66%) | hyperrugosity (58%) | perigastric adenopathy (in 50-60%)"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "LARYNGEAL PLASMACYTOMA",
+  "slug": "laryngeal_plasmacytoma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/laryngeal_plasmacytoma.md",
+  "definition": "",
+  "demographics": {
+    "Age": "50-70 years; M >> F",
+    "Histo": "large sheets of uniform cells indistinguishable from normal plasma cells; marked",
+    "Location": "epiglottis, true and false vocal cords"
+  },
+  "dominant_finding": "large smoothly marginated homogeneous mass",
+  "distribution": "epiglottis, true and false vocal cords",
+  "discriminating_features": [
+    "large smoothly marginated homogeneous mass",
+    "no significant contrast enhancement"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "large smoothly marginated homogeneous mass",
+      "no significant contrast enhancement"
+    ]
+  },
+  "clinical": {}
+}

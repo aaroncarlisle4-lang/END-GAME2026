@@ -1,0 +1,62 @@
+{
+  "finding": "Acute Disseminated Encephalomyelitis (ADEM",
+  "slug": "acute_disseminated_encephalomyelitis_adem",
+  "chapter": "CRYPTOCOCCOSIS OF BRAIN",
+  "source_file": "processed_clusters/cryptococcosis_of_brain/acute_disseminated_encephalomyelitis_adem.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "7-14 days / several weeks following an exanthematous viral infection / vaccination",
+      "raw": "7-14 days / several weeks following an exanthematous viral infection / vaccination",
+      "frequency": null
+    },
+    {
+      "name": "confusion, headaches, fever",
+      "raw": "confusion, headaches, fever",
+      "frequency": null
+    },
+    {
+      "name": "seizures, focal neurologic deficits Histo:  diffuse perivenous inflammatory process resulting in areas of demyelination Location:   subcortical white matter of both hemispheres asymmetrically; may involve brainstem / posterior fossa",
+      "raw": "seizures, focal neurologic deficits Histo:  diffuse perivenous inflammatory process resulting in areas of demyelination Location:   subcortical white matter of both hemispheres asymmetrically; may involve brainstem / posterior fossa",
+      "frequency": null
+    },
+    {
+      "name": "progressive coma, motor disturbance, speech difficulty, seizures, pyrexia, leukocytosis",
+      "raw": "progressive coma, motor disturbance, speech difficulty, seizures, pyrexia, leukocytosis",
+      "frequency": null
+    },
+    {
+      "name": "pleocytosis",
+      "raw": "pleocytosis (= ↑ WBC in spinal / other bodily fluid)",
+      "frequency": null
+    },
+    {
+      "name": "elevated protein in spinal fluid Location:   unilateral disease; parietal + posterior frontal white matter at level of centrum semiovale (sparing subcortical U-fibers + cortex) > basal ganglia, cerebellum, brainstem, spinal cord",
+      "raw": "elevated protein in spinal fluid Location:   unilateral disease; parietal + posterior frontal white matter at level of centrum semiovale (sparing subcortical U-fibers + cortex) > basal ganglia, cerebellum, brainstem, spinal cord",
+      "frequency": null
+    },
+    {
+      "name": "Tumefactive multiple sclerosis",
+      "raw": "Tumefactive multiple sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Osmotic demyelination",
+      "raw": "Osmotic demyelination",
+      "frequency": null
+    },
+    {
+      "name": "Toxic encephalopathy: lipophilic solvent, methanol",
+      "raw": "Toxic encephalopathy: lipophilic solvent, methanol",
+      "frequency": null
+    },
+    {
+      "name": "Hypertensive encephalopathy: eclampsia, thrombotic thrombocytopenic purpura",
+      "raw": "Hypertensive encephalopathy: eclampsia, thrombotic thrombocytopenic purpura",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  POSTVIRAL LEUKOENCEPHALOPATHY =  autoimmune reaction against patient's white matter √  lesions may demonstrate contrast enhancement CT: √  multifocal hypodense white matter abnormalities √  sparing of cortical gray matter, occasionally deep gray matter involvement √  no additional lesions on follow-up exam MR: √  multifocal punctate / large confluent areas of hyperintensity on FLAIR / T2WI Rx:  corticosteroids result in dramatic improvement Prognosis:   complete resolution of neurologic deficits within 1 month (80-90%) / some permanent neurologic damage (10-20%) DDx:  multiple sclerosis (ra"
+}

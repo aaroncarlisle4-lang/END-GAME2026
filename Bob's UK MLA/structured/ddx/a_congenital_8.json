@@ -1,0 +1,27 @@
+{
+  "finding": "A. CONGENITAL",
+  "slug": "a_congenital_8",
+  "chapter": "D. UNDERDISTENDED BLADDER",
+  "source_file": "processed_clusters/d_underdistended_bladder/a_congenital_8.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital septum",
+      "raw": "Congenital septum",
+      "frequency": null
+    },
+    {
+      "name": "Simple ureterocele",
+      "raw": "Simple ureterocele",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic ureterocele",
+      "raw": "Ectopic ureterocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

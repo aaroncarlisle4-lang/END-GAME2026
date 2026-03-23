@@ -1,0 +1,22 @@
+{
+  "finding": "Aids (DDx)",
+  "slug": "aids_ddx",
+  "chapter": "Aids",
+  "source_file": "processed_clusters/aids/aids_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "infection",
+      "raw": "infection",
+      "frequency": null
+    },
+    {
+      "name": "acute tubular necrosis",
+      "raw": "acute tubular necrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "decreased corticomedullary differentiation | medullary hyperattenuation (14%) | striated nephrogram on CECT ← dilated protein-filled tubules | loss of corticomedullary differentiation"
+}

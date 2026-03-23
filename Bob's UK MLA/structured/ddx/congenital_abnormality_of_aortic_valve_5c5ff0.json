@@ -1,0 +1,32 @@
+{
+  "finding": "Congenital Abnormality of Aortic Valve",
+  "slug": "congenital_abnormality_of_aortic_valve_5c5ff0",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/congenital_abnormality_of_aortic_valve_5c5ff0.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bicuspid aortic valve ◊  Most common congenital cardiac anomaly!",
+      "raw": "Bicuspid aortic valve ◊  Most common congenital cardiac anomaly!",
+      "frequency": "most common"
+    },
+    {
+      "name": "Unicuspid / unicomissural aortic valve =  single commissure in (commonly) L posterior position",
+      "raw": "Unicuspid / unicomissural aortic valve =  single commissure in (commonly) L posterior position",
+      "frequency": null
+    },
+    {
+      "name": "Quadricuspid aortic valve",
+      "raw": "Quadricuspid aortic valve",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal dilatation of sinus of Valsalva",
+      "raw": "Aneurysmal dilatation of sinus of Valsalva",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence:   0.02% Cx:   early aortic stenosis, aneurysmal dilatation of ascending aorta Incidence:   200 cases reported Cx:   regurgitation Cause: (a)  congenital: connective tissue disorder (Marfan), aortic insufficiency, bicuspid aortic valve, VSD (b)  acquired: infection (endocarditis, syphilis, TB), medial degeneration, trauma, hypertension"
+}

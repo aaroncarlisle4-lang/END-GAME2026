@@ -1,0 +1,40 @@
+{
+  "name": "HYPEROSTOSIS CORTICALIS GENERALISATA",
+  "slug": "hyperostosis_corticalis_generalisata",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/hyperostosis_corticalis_generalisata.md",
+  "definition": "GENERALIZED CORTICAL HYPEROSTOSIS = ENDOSTEAL HYPEROSTOSIS extremely uncommon homozygous disorder of intramembranous ossification part of",
+  "demographics": {
+    "Location": "skull, mandible, clavicles, ribs, long-bone diaphyses"
+  },
+  "dominant_finding": "herniation of cerebellar tonsils",
+  "distribution": "skull, mandible, clavicles, ribs, long-bone diaphyses",
+  "discriminating_features": [
+    "herniation of cerebellar tonsils",
+    "subtotal depletion of subarachnoid space",
+    "distention of subarachnoid space along optic nerve sheaths",
+    "symmetrical dense homogeneous endosteal cortical thickening of diaphyses of long bones",
+    "narrowed medullary canals"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "herniation of cerebellar tonsils",
+      "subtotal depletion of subarachnoid space",
+      "distention of subarachnoid space along optic nerve sheaths"
+    ],
+    "Long bones": [
+      "symmetrical dense homogeneous endosteal cortical thickening of diaphyses of long bones",
+      "narrowed medullary canals"
+    ],
+    "Skull": [
+      "thickening of skull, facial bones, mandible",
+      "obliteration of diploe"
+    ],
+    "Spine": [
+      "increased density of the axial skeleton",
+      "spinous processes thickened + sclerotic"
+    ]
+  },
+  "clinical": {}
+}

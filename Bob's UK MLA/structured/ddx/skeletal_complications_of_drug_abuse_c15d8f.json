@@ -1,0 +1,27 @@
+{
+  "finding": "Skeletal Complications of Drug Abuse",
+  "slug": "skeletal_complications_of_drug_abuse_c15d8f",
+  "chapter": "Respiratory Complications of Drug Abuse",
+  "source_file": "processed_clusters/respiratory_complications_of_drug_abuse/skeletal_complications_of_drug_abuse_c15d8f.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteomyelitis (a)  direct contamination: eg, pubic bone (\"groin hit\") / clavicle (\"pocket shot\") (b)  hematogenous: spine most commonly affected",
+      "raw": "Osteomyelitis (a)  direct contamination: eg, pubic bone (\"groin hit\") / clavicle (\"pocket shot\") (b)  hematogenous: spine most commonly affected",
+      "frequency": null
+    },
+    {
+      "name": "Septic arthritis: sacroiliac, sternoclavicular, symphysis pubis, acromioclavicular, hip, knee, wrist",
+      "raw": "Septic arthritis: sacroiliac, sternoclavicular, symphysis pubis, acromioclavicular, hip, knee, wrist",
+      "frequency": null
+    },
+    {
+      "name": "Diskitis",
+      "raw": "Diskitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

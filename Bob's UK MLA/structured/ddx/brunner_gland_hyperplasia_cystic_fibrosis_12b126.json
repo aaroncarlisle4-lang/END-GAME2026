@@ -1,0 +1,47 @@
+{
+  "finding": "Brunner gland hyperplasia, cystic fibrosis",
+  "slug": "brunner_gland_hyperplasia_cystic_fibrosis_12b126",
+  "chapter": "G. GLANDULAR ENLARGEMENT",
+  "source_file": "processed_clusters/g_glandular_enlargement/brunner_gland_hyperplasia_cystic_fibrosis_12b126.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Brunner gland hyperplasia",
+      "raw": "Brunner gland hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Duodenitis: Z-E syndrome, peptic ulcer",
+      "raw": "Duodenitis: Z-E syndrome, peptic ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Edema, Ectopic pancreas",
+      "raw": "Edema, Ectopic pancreas",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis, Parasites",
+      "raw": "Pancreatitis, Parasites",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

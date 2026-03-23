@@ -1,0 +1,47 @@
+{
+  "finding": "B. Spontaneous",
+  "slug": "b_spontaneous_d113e2",
+  "chapter": "D. UNDERDISTENDED BLADDER",
+  "source_file": "processed_clusters/d_underdistended_bladder/b_spontaneous_d113e2.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Urinary tract infection",
+      "raw": "Urinary tract infection",
+      "frequency": null
+    },
+    {
+      "name": "Urinary retention",
+      "raw": "Urinary retention",
+      "frequency": null
+    },
+    {
+      "name": "Vaginal delivery",
+      "raw": "Vaginal delivery",
+      "frequency": null
+    },
+    {
+      "name": "Alcoholism",
+      "raw": "Alcoholism",
+      "frequency": null
+    },
+    {
+      "name": "Bladder calculi",
+      "raw": "Bladder calculi",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Foley catheter malposition",
+      "raw": "Foley catheter malposition",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Pathophysiology:   increase in bladder pressure + weakening of mucosa"
+}

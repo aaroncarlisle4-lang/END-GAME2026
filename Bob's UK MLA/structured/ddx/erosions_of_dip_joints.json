@@ -1,0 +1,47 @@
+{
+  "finding": "Erosions of DIP Joints",
+  "slug": "erosions_of_dip_joints",
+  "chapter": "D. VASCULAR MALFORMATION",
+  "source_file": "processed_clusters/d_vascular_malformation/erosions_of_dip_joints.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Inflammatory osteoarthritis",
+      "raw": "Inflammatory osteoarthritis",
+      "frequency": null
+    },
+    {
+      "name": "Psoriatic arthritis",
+      "raw": "Psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Gout",
+      "raw": "Gout",
+      "frequency": null
+    },
+    {
+      "name": "Multicentric reticulohistiocytosis",
+      "raw": "Multicentric reticulohistiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Frostbite",
+      "raw": "Frostbite",
+      "frequency": null
+    },
+    {
+      "name": "Septic arthritis",
+      "raw": "Septic arthritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "Muscle Contusion",
+  "slug": "muscle_contusion_7c885b",
+  "chapter": "MUSCULOTENDINOUS INJURY",
+  "source_file": "processed_clusters/musculotendinous_injury/muscle_contusion_7c885b.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "injury at point of impact",
+      "raw": "injury at point of impact",
+      "frequency": null
+    },
+    {
+      "name": "muscle composed of (fast contracting) type II fibers",
+      "raw": "muscle composed of (fast contracting) type II fibers",
+      "frequency": null
+    },
+    {
+      "name": "fusiform shape of muscle",
+      "raw": "fusiform shape of muscle",
+      "frequency": null
+    },
+    {
+      "name": "extension across two joints",
+      "raw": "extension across two joints",
+      "frequency": null
+    },
+    {
+      "name": "superficial location of muscle",
+      "raw": "superficial location of muscle",
+      "frequency": null
+    },
+    {
+      "name": "eccentric muscle action",
+      "raw": "eccentric muscle action",
+      "frequency": null
+    },
+    {
+      "name": "no loss of muscle function Path:   interstitial edema + hemorrhage at myotendinous junction with extension into adjacent muscle fibers",
+      "raw": "no loss of muscle function Path:   interstitial edema + hemorrhage at myotendinous junction with extension into adjacent muscle fibers",
+      "frequency": null
+    },
+    {
+      "name": "mild loss of muscle function",
+      "raw": "mild loss of muscle function",
+      "frequency": null
+    },
+    {
+      "name": "complete loss of muscle function",
+      "raw": "complete loss of muscle function",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:  direct trauma, usually by blunt object Site:     deep within muscle belly √  NO architectural changes √  feathery appearance of diffuse muscle edema √  increased muscle girth √  deep intramuscular hematoma (with severe trauma resulting in disruption of muscle fibers): √  high SI on T1WI (= T1 shortening of methemoglobin) √  low SI on T2WI (= T2 shortening of hemosiderin) √  blooming with gradient-echo sequence Myotendinous Strain Cause:  single traumatic event from excessive stretching Susceptibility factors: Site:     myotendinous junction (= weakest point of musculotendinous unit) Cl"
+}

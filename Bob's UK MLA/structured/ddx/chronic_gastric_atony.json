@@ -1,0 +1,52 @@
+{
+  "finding": "Chronic Gastric Atony",
+  "slug": "chronic_gastric_atony",
+  "chapter": "Gastric Atony",
+  "source_file": "processed_clusters/gastric_atony/chronic_gastric_atony.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neurologic abnormalities: brain tumor, bulbar poliomyelitis, vagotomy, tabes",
+      "raw": "Neurologic abnormalities: brain tumor, bulbar poliomyelitis, vagotomy, tabes",
+      "frequency": null
+    },
+    {
+      "name": "Muscular abnormalities: scleroderma, muscular dystrophy",
+      "raw": "Muscular abnormalities: scleroderma, muscular dystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Drug-induced atony: atropine, morphine, heroin, ganglionic blocking agents",
+      "raw": "Drug-induced atony: atropine, morphine, heroin, ganglionic blocking agents",
+      "frequency": null
+    },
+    {
+      "name": "Electrolyte imbalance: diabetic ketoacidosis, hypercalcemia, hypocalcemia, hypokalemia, hepatic coma, uremia, myxedema",
+      "raw": "Electrolyte imbalance: diabetic ketoacidosis, hypercalcemia, hypocalcemia, hypokalemia, hepatic coma, uremia, myxedema",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus = gastroparesis diabeticorum",
+      "raw": "Diabetes mellitus = gastroparesis diabeticorum (0.08% incidence)",
+      "frequency": "0.08%"
+    },
+    {
+      "name": "Emotional distress",
+      "raw": "Emotional distress",
+      "frequency": null
+    },
+    {
+      "name": "Lead poisoning",
+      "raw": "Lead poisoning",
+      "frequency": null
+    },
+    {
+      "name": "Porphyria",
+      "raw": "Porphyria",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

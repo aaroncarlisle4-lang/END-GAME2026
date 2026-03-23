@@ -1,0 +1,32 @@
+{
+  "name": "MIKULICZ DISEASE",
+  "slug": "mikulicz_disease",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/mikulicz_disease.md",
+  "definition": "painless bilateral symmetric swelling of lacrimal and salivary glands (parotid (80%), submandibular,",
+  "demographics": {
+    "Age": "6th decade; M÷F = 2÷3 to 4÷5",
+    "Histo": "\"epimyoepithelial islands\" = marked lymphoplasmacytic infiltration surrounding"
+  },
+  "dominant_finding": "intermediate soft-tissue attenuation",
+  "distribution": "",
+  "discriminating_features": [
+    "homogeneous attenuation + enhancement of involved glands",
+    "intermediate soft-tissue attenuation",
+    "low signal intensity (= isointense to muscle) on T1WI",
+    "homogeneous low to intermediate SI on T2WI ← increased cellularity + fibrosis"
+  ],
+  "other_features": {
+    "general": [
+      "homogeneous attenuation + enhancement of involved glands"
+    ],
+    "CT": [
+      "intermediate soft-tissue attenuation"
+    ],
+    "MR": [
+      "low signal intensity (= isointense to muscle) on T1WI",
+      "homogeneous low to intermediate SI on T2WI ← increased cellularity + fibrosis"
+    ]
+  },
+  "clinical": {}
+}

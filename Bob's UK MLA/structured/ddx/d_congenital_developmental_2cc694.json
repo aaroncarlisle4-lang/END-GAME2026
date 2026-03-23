@@ -1,0 +1,57 @@
+{
+  "finding": "D. CONGENITAL / DEVELOPMENTAL",
+  "slug": "d_congenital_developmental_2cc694",
+  "chapter": "D. MALIGNANCY",
+  "source_file": "processed_clusters/d_malignancy/d_congenital_developmental_2cc694.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Familial idiopathic symmetric basal ganglia calcification",
+      "raw": "Familial idiopathic symmetric basal ganglia calcification",
+      "frequency": null
+    },
+    {
+      "name": "Hastings-James syndrome",
+      "raw": "Hastings-James syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Cockayne syndrome",
+      "raw": "Cockayne syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Lipoid proteinosis = hyalinosis cutis",
+      "raw": "Lipoid proteinosis = hyalinosis cutis",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Oculocraniosomatic disease",
+      "raw": "Oculocraniosomatic disease",
+      "frequency": null
+    },
+    {
+      "name": "Methemoglobinopathy",
+      "raw": "Methemoglobinopathy",
+      "frequency": null
+    },
+    {
+      "name": "Down syndrome",
+      "raw": "Down syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

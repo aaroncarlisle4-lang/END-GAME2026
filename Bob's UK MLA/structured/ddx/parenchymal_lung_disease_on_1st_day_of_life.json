@@ -1,0 +1,37 @@
+{
+  "finding": "Parenchymal Lung Disease on 1st Day of Life",
+  "slug": "parenchymal_lung_disease_on_1st_day_of_life",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/parenchymal_lung_disease_on_1st_day_of_life.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Transient tachypnea of newborn",
+      "raw": "Transient tachypnea of newborn",
+      "frequency": null
+    },
+    {
+      "name": "Respiratory distress syndrome",
+      "raw": "Respiratory distress syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Neonatal pneumonia",
+      "raw": "Neonatal pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Meconium aspiration syndrome",
+      "raw": "Meconium aspiration syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Prematurity with accelerated lung maturity",
+      "raw": "Prematurity with accelerated lung maturity (see below)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Radiographic findings overlap!"
+}

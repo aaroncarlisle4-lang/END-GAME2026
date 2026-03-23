@@ -1,0 +1,52 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_7_0f3fbd",
+  "chapter": "NOSE",
+  "source_file": "processed_clusters/nose/a_benign_7_0f3fbd.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sinonasal polyp",
+      "raw": "Sinonasal polyp",
+      "frequency": null
+    },
+    {
+      "name": "Inverted papilloma",
+      "raw": "Inverted papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "history of epistaxis",
+      "raw": "history of epistaxis",
+      "frequency": null
+    },
+    {
+      "name": "Pyogenic granuloma",
+      "raw": "Pyogenic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma gravidarum =  nasal hemangioma of pregnancy",
+      "raw": "Granuloma gravidarum =  nasal hemangioma of pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile nasopharyngeal angiofibroma",
+      "raw": "Juvenile nasopharyngeal angiofibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  pedunculated lobular mass √  arises in superior nasopharynx with extension into nose via posterior choana"
+}

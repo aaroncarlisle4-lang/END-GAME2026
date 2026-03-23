@@ -1,0 +1,27 @@
+{
+  "finding": "C. CYSTIC MASS",
+  "slug": "c_cystic_mass",
+  "chapter": "PERITONEUM",
+  "source_file": "processed_clusters/peritoneum/c_cystic_mass.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Multicystic mesothelioma",
+      "raw": "Multicystic mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomyxoma peritonei",
+      "raw": "Pseudomyxoma peritonei",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial / mycobacterial infection",
+      "raw": "Bacterial / mycobacterial infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

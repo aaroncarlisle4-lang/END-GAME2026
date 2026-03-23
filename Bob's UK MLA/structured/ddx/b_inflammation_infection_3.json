@@ -1,0 +1,37 @@
+{
+  "finding": "B. INFLAMMATION / INFECTION",
+  "slug": "b_inflammation_infection_3",
+  "chapter": "ORAL CAVITY",
+  "source_file": "processed_clusters/oral_cavity/b_inflammation_infection_3.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ludwig angina",
+      "raw": "Ludwig angina",
+      "frequency": null
+    },
+    {
+      "name": "Dental infection: premolar / 1st molar",
+      "raw": "Dental infection: premolar / 1st molar",
+      "frequency": null
+    },
+    {
+      "name": "Penetrating trauma",
+      "raw": "Penetrating trauma",
+      "frequency": null
+    },
+    {
+      "name": "Obstructing submandibular calculus",
+      "raw": "Obstructing submandibular calculus",
+      "frequency": null
+    },
+    {
+      "name": "IV drug use",
+      "raw": "IV drug use",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

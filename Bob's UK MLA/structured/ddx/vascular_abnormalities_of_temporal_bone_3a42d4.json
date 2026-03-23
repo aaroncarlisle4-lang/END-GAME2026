@@ -1,0 +1,27 @@
+{
+  "finding": "Vascular Abnormalities of Temporal Bone",
+  "slug": "vascular_abnormalities_of_temporal_bone_3a42d4",
+  "chapter": "TEMPORAL BONE",
+  "source_file": "processed_clusters/temporal_bone/vascular_abnormalities_of_temporal_bone_3a42d4.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aberrant internal carotid artery",
+      "raw": "Aberrant internal carotid artery (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "High-riding jugular bulb",
+      "raw": "High-riding jugular bulb",
+      "frequency": null
+    },
+    {
+      "name": "Persistence of stapedial artery",
+      "raw": "Persistence of stapedial artery",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

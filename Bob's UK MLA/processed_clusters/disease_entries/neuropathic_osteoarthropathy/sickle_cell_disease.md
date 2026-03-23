@@ -1,0 +1,136 @@
+# Disease: SICKLE CELL DISEASE
+
+**Source section:** NEUROPATHIC OSTEOARTHROPATHY
+
+## Definition
+
+common inherited autosomal recessive hemoglobinopathy with 2 abnormal β-globin genes avascular necrosis = frequently bilateral collapse of femoral head (DDx: Legg- anatomically present nonfunctional spleen autoinfarction of spleen in homozygous sickle cell disease (function lost by age 5) sudden trapping of large amount of blood in spleen rare potentially lethal complication of sickle cell disease with diagnosis based on mild disease with few episodes of crisis + infection; sickling provoked only under extreme underproduction of the β chain ← mutations in the HBB gene on chromosome 11
+
+## Key Facts
+
+- **Genetics:** mutation in both alleles of β-globulin gene
+- **Location:** damage of intima occurs most frequently in vessels with high flow rates (terminal
+- **Age:** 6 months - 2 years; rare > 6 years ← regression of red marrow
+- **Histo:** extensive perivascular fibrosis with deposition of hemosiderin + calcium
+- **Prevalence:** 8-10% of American Blacks
+
+## Imaging Findings
+
+### General
+
+- granular appearance of skull ← porous decrease in bone density of skull (25%)
+- widening of diploe with thinning of inner and outer tables (22%)
+- vertical hair-on-end striations projecting from outer skull vault (5%) ← prominent
+- coarse trabeculae of mandible
+- osteopenia with thinning of trabeculae
+- biconcave "fish-mouth" vertebrae = compression fracture of vertebral endplates ←
+- widening of medullary space + thinning of cortices
+- coarsening of trabecular pattern in long + flat bones
+- rib notching
+- intermediate signal intensities on T1WI + T2WI
+- uptake by 99mTc-sulfur colloid
+- sickle cell dactylitis = hand-foot syndrome (in 50%):
+- patchy areas of lucency + periosteal reaction
+- ± bone destruction → deformity
+- osteolysis (in ACUTE infarction)
+- bone sclerosis (= dystrophic medullary calcification) in pelvis, ribs, spine
+- bone-within-bone appearance = periosteal reaction / layered new bone deposits along
+- juxtacortical sclerosis
+- Lincoln log = Reynold sign = H-vertebrae = steplike endplate depression
+- articular disintegration
+- epiphyseal infarction (in 50% by age 35 years)
+- decreased / normal radiotracer uptake (first few days)
+- increased uptake (with revascularization)
+- return to normal (after a few months in old infarcts with adequate blood supply)
+- photopenic foci (in avascular bone of old infarcts)
+
+### MR
+
+- high signal intensity of bone marrow edema on STIR
+- "serpiginous double line" sign on T2WI = hyperintense inner border (←
+- heterogeneous rimlike enhancement
+- ± subperiosteal hemorrhage + fluid collection
+- bone shortening = premature fusion of infarcted physis
+- epiphyseal deformity with cupped metaphysis
+- tibiotalar slant
+- protrusio acetabuli (20%)
+- cup / peg-in-hole defect of distal femur
+- diminution in vertebral height (shortening of stature + kyphoscoliosis)
+- H-shaped vertebra with central growth plate infarction
+- tower vertebrae = compensatory lengthening of vertebrae adjacent to H-shaped
+- usually symmetric marked expansion of hematopoietic marrow beyond age 20 involving
+- bone marrow defects indicative of acute / old infarction
+- increased overall skeletal uptake (high bone-to-soft tissue ratio)
+- prominent activities at knees, ankles, proximal humerus (delayed epiphyseal closure /
+- bone marrow expansion (calvarial thickening with relative decrease in activity along falx
+- decreased / normal uptake on bone scan within 24 hr in acute infarction / posthealing
+- increased uptake on bone scan after 2-10 days persistent for several weeks in healing
+- increased uptake on bone scan within 24-48 hours in osteomyelitis
+- increased blood-pool activity + normal delayed image on bone scan in cellulitis
+- renal enlargement with marked retention of tracer in renal parenchyma (medullary
+- persistent splenic uptake ← degeneration, atrophy, fibrosis, calcifications
+- arterial tortuosity (= adaptive response to chronic anemia):
+- ectasia of arterial segment
+- abnormal increase in length of an arterial segment → obvious bowing of an arterial
+- arterial stenosis / occlusion of supraclinoid portion of ICA + proximal segments of ACA
+- moyamoya syndrome (35%)
+- distal branch occlusion ← thrombosis / embolism
+- aneurysm (rare)
+- decreased cortical signal on T2-weighted images ← renal cortical iron deposition
+- starfield pattern = innumerable bright punctate foci on DWI
+- numerous "blooming" black dots of susceptibility artifacts on T2* (=
+- diffuse hyperintense foci on FLAIR + T2WI ← edema
+- splenic infarction
+- aseptic necrosis of femoral head
+- persistent splenomegaly
+
+### CT
+
+- cerebral infarction (mean age of 7.7 years)
+- subarachnoid hemorrhage (mean age of 27 years)
+- splenomegaly < age 10 (in patients with heterozygous sickle cell disease)
+- splenic infarction
+- hemosiderosis
+- normal-sized / enlarged spleen on CT
+- absence of tracer uptake on sulfur colloid scan
+- small (as small as 5-10 mm) densely calcified spleen
+- enlarged spleen
+- multiple lesions at periphery of spleen: hypoechoic by US, of low attenuation by CT
+- hyperdense areas ← acute hemorrhage
+- hyperintense areas on T1WI + T2WI ← subacute hemorrhage
+- main splenic vessels patent by Doppler US
+
+### US
+
+- increased cortical echogenicity ← glomerular hypertrophy + interstitial fibrosis
+- increased medullary echogenicity ← vascular congestion (in older child)
+
+### Chest
+
+- cardiomegaly + CHF
+
+### Gallbladder
+
+- cholelithiasis
+
+### Kidney
+
+- normal urogram (70%)
+- papillary necrosis (20%)
+- focal renal scarring (20%)
+- smooth large kidney (4%)
+
+## Clinical
+
+- **Cx:** high incidence of infections (lung, bone, brain)
+- **Prognosis:** death < 40 years (decrease of average life expectancy by 25-30 years)
+- **Rx:** similar to sickle cell disease
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

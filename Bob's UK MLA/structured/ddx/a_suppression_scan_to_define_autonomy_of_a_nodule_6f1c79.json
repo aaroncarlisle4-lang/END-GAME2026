@@ -1,0 +1,142 @@
+{
+  "finding": "A. SUPPRESSION SCAN = to define autonomy of a nodule",
+  "slug": "a_suppression_scan_to_define_autonomy_of_a_nodule_6f1c79",
+  "chapter": "B. 99mTc DTPA",
+  "source_file": "processed_clusters/b_99mtc_dtpa/a_suppression_scan_to_define_autonomy_of_a_nodule_6f1c79.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "STIMULATION SCAN =  to demonstrate thyroid tissue suppression by hyperfunctioning nodule",
+      "raw": "STIMULATION SCAN =  to demonstrate thyroid tissue suppression by hyperfunctioning nodule",
+      "frequency": null
+    },
+    {
+      "name": "PERCHLORATE WASHOUT TEST =  to demonstrate organification defect",
+      "raw": "PERCHLORATE WASHOUT TEST =  to demonstrate organification defect",
+      "frequency": null
+    },
+    {
+      "name": "< 0.1% 99Mo (= 1 µCi/mCi), maximum of 99Mo at 5 µCi",
+      "raw": "< 0.1% 99Mo (= 1 µCi/mCi), maximum of 99Mo at 5 µCi",
+      "frequency": "0.1%"
+    },
+    {
+      "name": "< 0.5 mg aluminum/10 mCi 99mTc",
+      "raw": "< 0.5 mg aluminum/10 mCi 99mTc",
+      "frequency": null
+    },
+    {
+      "name": "< 0.01% radionuclide impurities",
+      "raw": "< 0.01% radionuclide impurities",
+      "frequency": "0.01%"
+    },
+    {
+      "name": "Low cost",
+      "raw": "Low cost",
+      "frequency": null
+    },
+    {
+      "name": "Reduced radiation exposure",
+      "raw": "Reduced radiation exposure",
+      "frequency": null
+    },
+    {
+      "name": "Greater photon flux than iodine = detectability of small thyroid lesions (> 8 mm) is improved",
+      "raw": "Greater photon flux than iodine = detectability of small thyroid lesions (> 8 mm) is improved",
+      "frequency": null
+    },
+    {
+      "name": "Excellent physical characteristics",
+      "raw": "Excellent physical characteristics",
+      "frequency": null
+    },
+    {
+      "name": "High neck background",
+      "raw": "High neck background (target-to-background ratio less favorable than with iodine)",
+      "frequency": null
+    },
+    {
+      "name": "Lesions with pertechnetate-iodine discordance (= hot on 99mTc-pertechnetate + cold on radio-iodine) are very rare + due to 99mTc-avid cancer",
+      "raw": "Lesions with pertechnetate-iodine discordance (= hot on 99mTc-pertechnetate + cold on radio-iodine) are very rare + due to 99mTc-avid cancer",
+      "frequency": "rare"
+    },
+    {
+      "name": "Poor for substernal evaluation 123Iodine ◊  Agent of choice for thyroid imaging!",
+      "raw": "Poor for substernal evaluation 123Iodine ◊  Agent of choice for thyroid imaging!",
+      "frequency": null
+    },
+    {
+      "name": "Low-radiation exposure",
+      "raw": "Low-radiation exposure",
+      "frequency": null
+    },
+    {
+      "name": "Excellent physical characteristics",
+      "raw": "Excellent physical characteristics",
+      "frequency": null
+    },
+    {
+      "name": "Uptake + scan with one agent",
+      "raw": "Uptake + scan with one agent (organified)",
+      "frequency": null
+    },
+    {
+      "name": "More expensive",
+      "raw": "More expensive",
+      "frequency": null
+    },
+    {
+      "name": "Less available with short shelf-life",
+      "raw": "Less available with short shelf-life",
+      "frequency": null
+    },
+    {
+      "name": "More time-consuming",
+      "raw": "More time-consuming",
+      "frequency": null
+    },
+    {
+      "name": "Radionuclide impurities",
+      "raw": "Radionuclide impurities",
+      "frequency": null
+    },
+    {
+      "name": "Higher dose to thyroid (but less to whole body) 131Iodine Indication:   thyroid uptake study, thyroid imaging, treatment of hyperthyroidism, treatment of functioning thyroid cancer, imaging of functioning metastases",
+      "raw": "Higher dose to thyroid (but less to whole body) 131Iodine Indication:   thyroid uptake study, thyroid imaging, treatment of hyperthyroidism, treatment of functioning thyroid cancer, imaging of functioning metastases",
+      "frequency": null
+    },
+    {
+      "name": "Low cost",
+      "raw": "Low cost",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic tissue search",
+      "raw": "Ectopic tissue search",
+      "frequency": null
+    },
+    {
+      "name": "Uptake and scan at same time",
+      "raw": "Uptake and scan at same time",
+      "frequency": null
+    },
+    {
+      "name": "Too energetic for gamma camera, well suited for rectilinear scanner with limited resolution",
+      "raw": "Too energetic for gamma camera, well suited for rectilinear scanner with limited resolution",
+      "frequency": null
+    },
+    {
+      "name": "High radiation exposure (← beta decay) → PROHIBITS USE FOR DIAGNOSTIC PURPOSES",
+      "raw": "High radiation exposure (← beta decay) → PROHIBITS USE FOR DIAGNOSTIC PURPOSES",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic thyroid tissue just as well detectable with 123I or 99mTc-pertechnetate 131Iodine SPECT/CT Advantage:   precise localization of foci of radioactivity to anatomic structures",
+      "raw": "Ectopic thyroid tissue just as well detectable with 123I or 99mTc-pertechnetate 131Iodine SPECT/CT Advantage:   precise localization of foci of radioactivity to anatomic structures (incremental value over planar imaging in 40%)",
+      "frequency": "40%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  suppression of a hot nodule following T3 / T4 administration is proof that autonomy does not exist √  administration of TSH documents functioning thyroid tissue (rarely done) √  repeat measurement of radioiodine uptake following oral potassium perchlorate shows lower values if organification defect present ◊  Best interpreted by direct comparison with sonography! 99mTc-Pertechnetate in Thyroid Imaging (99mTcO4-) Physical half-life (for gamma emission):   6.03 hours Biologic half-life:   1 day (94% decays to 99Tc in 24 hours) Decay:   by photon emission of 140 keV Quality control: Administra"
+}

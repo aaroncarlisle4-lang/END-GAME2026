@@ -1,0 +1,122 @@
+{
+  "finding": "THYROIDITIS",
+  "slug": "thyroiditis",
+  "chapter": "TEMPOROMANDIBULAR JOINT DYSFUNCTION",
+  "source_file": "processed_clusters/temporomandibular_joint_dysfunction/thyroiditis.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "upper respiratory tract infection, fever, and systemic flulike symptoms precede onset of symptoms by 2-3 weeks",
+      "raw": "upper respiratory tract infection, fever, and systemic flulike symptoms precede onset of symptoms by 2-3 weeks",
+      "frequency": null
+    },
+    {
+      "name": "tender gland with pain radiating to jaw / ear",
+      "raw": "tender gland with pain radiating to jaw / ear",
+      "frequency": null
+    },
+    {
+      "name": "firm tense mild thyroid gland enlargement",
+      "raw": "firm tense mild thyroid gland enlargement",
+      "frequency": null
+    },
+    {
+      "name": "CHARACTERISTIC elevation of ESR > 50 mm/hour",
+      "raw": "CHARACTERISTIC elevation of ESR > 50 mm/hour",
+      "frequency": null
+    },
+    {
+      "name": "hyperthyroidism (50%) ← severe gland destruction",
+      "raw": "hyperthyroidism (50%) ← severe gland destruction",
+      "frequency": "50%"
+    },
+    {
+      "name": "short-lived hypothyroidism (25%) ← hormone depletion",
+      "raw": "short-lived hypothyroidism (25%) ← hormone depletion",
+      "frequency": "25%"
+    },
+    {
+      "name": "firm rubbery possibly asymmetric lobular goiter",
+      "raw": "firm rubbery possibly asymmetric lobular goiter",
+      "frequency": null
+    },
+    {
+      "name": "decreased thyroid reserve",
+      "raw": "decreased thyroid reserve (= injection of TSH does not result in expected increase in radioiodine uptake / release of hormone from the gland)",
+      "frequency": null
+    },
+    {
+      "name": "FT4 most typically normal / low",
+      "raw": "FT4 most typically normal / low",
+      "frequency": null
+    },
+    {
+      "name": "antithyroid peroxidase + antithyroglobulin antibodies",
+      "raw": "antithyroid peroxidase + antithyroglobulin antibodies",
+      "frequency": null
+    },
+    {
+      "name": "gradual painless enlargement resulting in neck tightness",
+      "raw": "gradual painless enlargement resulting in neck tightness",
+      "frequency": null
+    },
+    {
+      "name": "periods of mild thyrotoxicosis (4%) / subclinical to overt hypothyroidism (20%) at presentation",
+      "raw": "periods of mild thyrotoxicosis (4%) / subclinical to overt hypothyroidism (20%) at presentation",
+      "frequency": "4%"
+    },
+    {
+      "name": "progression from euthyroidism to hypothyroidism",
+      "raw": "progression from euthyroidism to hypothyroidism",
+      "frequency": null
+    },
+    {
+      "name": "return to normal function over several years",
+      "raw": "return to normal function over several years (in 25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Diffuse firm bosselated goiter with pyramidal lobe enlargement",
+      "raw": "Diffuse firm bosselated goiter with pyramidal lobe enlargement",
+      "frequency": null
+    },
+    {
+      "name": "NO signs of thyrotoxicosis",
+      "raw": "NO signs of thyrotoxicosis",
+      "frequency": null
+    },
+    {
+      "name": "Positivity for antibodies against thyroid microsomes / peroxidase / thyroglobulin",
+      "raw": "Positivity for antibodies against thyroid microsomes / peroxidase / thyroglobulin",
+      "frequency": null
+    },
+    {
+      "name": "Lymphocytic infiltrates",
+      "raw": "Lymphocytic infiltrates",
+      "frequency": null
+    },
+    {
+      "name": "Atrophic chronic autoimmune thyroiditis",
+      "raw": "Atrophic chronic autoimmune thyroiditis (small gland)",
+      "frequency": null
+    },
+    {
+      "name": "Painless thyroiditis",
+      "raw": "Painless thyroiditis (transient disorder, painless goiter, hyperthyroidism / hypothyroidism)",
+      "frequency": null
+    },
+    {
+      "name": "Graves disease",
+      "raw": "Graves disease (diffuse goiter, hyperthyroidism, ophthalmopathy)",
+      "frequency": null
+    },
+    {
+      "name": "clinical presentation similar to subacute thyroiditis + clinically indistinguishable from",
+      "raw": "clinical presentation similar to subacute thyroiditis + clinically indistinguishable from",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DeQuervain Thyroiditis =  SUBACUTE GRANULOMATOUS THYROIDITIS =  distinct clinical syndrome characterized by exquisite thyroid tenderness, goiter, and thyrotoxicosis Etiology:   probably viral / postviral process (Coxsackie, mumps) frequently occurring in seasonal clusters Histo:  infiltrate of neutrophils and lymphocytes + characteristic multinucleated giant cells Peak age:   2nd-5th decade; M÷F = 1÷5 US: √  areas of hypoechogenicity NUC: √  abnormally low 24-hour radioiodine uptake with clinical and laboratory evidence of hyperthyroidism √  poor visualization of thyroid (initially) √  single"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Hepatitis (DDx)",
+  "slug": "hepatitis_ddx",
+  "chapter": "Hepatitis",
+  "source_file": "processed_clusters/hepatitis/hepatitis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "primary sclerosing cholangitis",
+      "raw": "primary sclerosing cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "primary biliary cirrhosis",
+      "raw": "primary biliary cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "biliary obstruction (eg",
+      "raw": "biliary obstruction (eg",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "often NO radiologic findings | small bile ducts diminished in number | hepatomegaly | heterogeneously enhancing parenchyma"
+}

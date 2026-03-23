@@ -1,0 +1,27 @@
+{
+  "finding": "Schistosomiasis — Scrotum (DDx)",
+  "slug": "schistosomiasis_scrotum_ddx",
+  "chapter": "Schistosomiasis",
+  "source_file": "processed_clusters/schistosomiasis/schistosomiasis_scrotum_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "malignancy",
+      "raw": "malignancy",
+      "frequency": null
+    },
+    {
+      "name": "infarction",
+      "raw": "infarction",
+      "frequency": null
+    },
+    {
+      "name": "epididymo-orchitis",
+      "raw": "epididymo-orchitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "polyps in fossa navicularis of urethra | urethral stricture with perineal and scrotal fistulas | testicular + epididymal lesions simulating malignancy | tunica vaginalis shows septate collections, multiple calcifications, diffuse / nodular"
+}

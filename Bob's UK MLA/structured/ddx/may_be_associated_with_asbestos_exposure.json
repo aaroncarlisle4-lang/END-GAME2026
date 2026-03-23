@@ -1,0 +1,122 @@
+{
+  "finding": "May be associated with: asbestos exposure",
+  "slug": "may_be_associated_with_asbestos_exposure",
+  "chapter": "RETROPERITONEAL FAT NECROSIS",
+  "source_file": "processed_clusters/retroperitoneal_fat_necrosis/may_be_associated_with_asbestos_exposure.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "weight loss, nausea, malaise, anorexia, low-grade fever",
+      "raw": "weight loss, nausea, malaise, anorexia, low-grade fever",
+      "frequency": null
+    },
+    {
+      "name": "dull pain in costovertebral angle, back, abdomen",
+      "raw": "dull pain in costovertebral angle, back, abdomen (90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "obstructive uropathy → oliguria → anuria → renal insufficiency",
+      "raw": "obstructive uropathy → oliguria → anuria → renal insufficiency (50-60%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "renal vessel involvement (2-35%) → hypertension → renal insufficiency",
+      "raw": "renal vessel involvement (2-35%) → hypertension → renal insufficiency",
+      "frequency": "35%"
+    },
+    {
+      "name": "lymphatic + venous obstruction → lower extremity edema, deep vein thrombosis (6%), hydrocele (10%), scrotal swelling, varicocele",
+      "raw": "lymphatic + venous obstruction → lower extremity edema, deep vein thrombosis (6%), hydrocele (10%), scrotal swelling, varicocele",
+      "frequency": "6%"
+    },
+    {
+      "name": "compression of arteries → bowel ischemia, claudication",
+      "raw": "compression of arteries → bowel ischemia, claudication (occasionally)",
+      "frequency": null
+    },
+    {
+      "name": "high erythrocyte sedimentation rate (ESR), anemia",
+      "raw": "high erythrocyte sedimentation rate (ESR), anemia",
+      "frequency": null
+    },
+    {
+      "name": "high levels of C-reactive protein",
+      "raw": "high levels of C-reactive protein (80-100%)",
+      "frequency": "100%"
+    },
+    {
+      "name": "tests for antinuclear antibodies may be positive Location:   plaque typically begins around aortic bifurcation (L4-5) extending cephalad to renal hilum / surrounding kidney, duodenum, pancreas and spleen; rarely extends below pelvic rim, but may extend caudad to bladder + rectosigmoid Retroperitoneal fibrosis most commonly surrounds the infrarenal abdominal aorta and proximal common iliac arteries.",
+      "raw": "tests for antinuclear antibodies may be positive Location:   plaque typically begins around aortic bifurcation (L4-5) extending cephalad to renal hilum / surrounding kidney, duodenum, pancreas and spleen; rarely extends below pelvic rim, but may extend caudad to bladder + rectosigmoid Retroperitoneal fibrosis most commonly surrounds the infrarenal abdominal aorta and proximal common iliac arteries.",
+      "frequency": "common"
+    },
+    {
+      "name": "Ureterectasis above L4-5 ← interference with peristalsis",
+      "raw": "Ureterectasis above L4-5 ← interference with peristalsis",
+      "frequency": null
+    },
+    {
+      "name": "Medial deviation of ureters in middle third, typically bilateral = maiden waist deformity",
+      "raw": "Medial deviation of ureters in middle third, typically bilateral = maiden waist deformity",
+      "frequency": null
+    },
+    {
+      "name": "Gradual tapering of ureters at lower lumbar spine / upper sacral region ← extrinsic compression DDx:  primary ureteral tumor, periureteral lymph nodes, inflammatory ureteral stricture",
+      "raw": "Gradual tapering of ureters at lower lumbar spine / upper sacral region ← extrinsic compression DDx:  primary ureteral tumor, periureteral lymph nodes, inflammatory ureteral stricture",
+      "frequency": null
+    },
+    {
+      "name": "Perianeurysmal fibrosis",
+      "raw": "Perianeurysmal fibrosis (dilated encased aorta)",
+      "frequency": null
+    },
+    {
+      "name": "Malignant retroperitoneal fibrosis / sarcoma",
+      "raw": "Malignant retroperitoneal fibrosis / sarcoma (mass with irregular lobular / nodular margins, more cephalad location, anterior displacement of aorta, edema, Doppler flow, contrast enhancement)",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal lymphadenopathy, lymphoma",
+      "raw": "Retroperitoneal lymphadenopathy, lymphoma (anterior elevation of aorta / IVC off vertebral body)",
+      "frequency": null
+    },
+    {
+      "name": "Primary amyloidosis",
+      "raw": "Primary amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Subacute retroperitoneal hematoma",
+      "raw": "Subacute retroperitoneal hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Withdrawal of possible causative agent",
+      "raw": "Withdrawal of possible causative agent",
+      "frequency": null
+    },
+    {
+      "name": "Interventional relief of urinary obstruction",
+      "raw": "Interventional relief of urinary obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Corticosteroids / immunotherapeutic drugs",
+      "raw": "Corticosteroids / immunotherapeutic drugs",
+      "frequency": null
+    },
+    {
+      "name": "Disease-modifying antirheumatic drugs, tamoxifen",
+      "raw": "Disease-modifying antirheumatic drugs, tamoxifen",
+      "frequency": null
+    },
+    {
+      "name": "Ureterolysis for refractory cases",
+      "raw": "Ureterolysis for refractory cases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  tethering of aorta / IVC to vertebrae without anterior displacement √  usually mild uni- / bilateral pyelocaliectasis → hydronephrosis → renal failure (56-100%) ◊  Diagnostic clue: incongruity between severe degree of renal failure + mild degree of hydronephrosis! IVP / retrograde pyelography: √  Classic TRIAD: US (poor sensitivity): √  hypo- / isoechoic well-demarcated irregularly contoured homogeneous mass with smooth margins anterior to lower lumbar spine / sacral promontory √  varying degrees of uni- / bilateral hydronephrosis √  NO flow on Doppler imaging CT: √  well-delimited irregula"
+}

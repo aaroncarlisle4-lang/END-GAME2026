@@ -1,0 +1,91 @@
+{
+  "name": "ANKYLOSING SPONDYLITIS",
+  "slug": "ankylosing_spondylitis",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/ankylosing_spondylitis.md",
+  "definition": "autoimmune disease of unknown etiology characterized by inflammation of multiple articular",
+  "demographics": {
+    "Prevalence": "0.1-0.2% of general population",
+    "Peak age": "15-35 years; M÷F = 3÷1 to 10÷1; Caucasian÷Blacks = 3÷1",
+    "Associated with": "(1)  Ulcerative colitis, regional enteritis",
+    "Frequency": "1% of patients with ankylosing spondylitis, usually at an advanced stage of",
+    "Histo": "interstitial + pleural fibrosis with foci of dense collagen deposition, NO granulomas",
+    "Location": "apices / upper lung fields"
+  },
+  "dominant_finding": "peripheral interstitial lung disease",
+  "distribution": "apices / upper lung fields",
+  "discriminating_features": [
+    "peripheral interstitial lung disease",
+    "bronchiectasis",
+    "paraseptal emphysema",
+    "tracheobronchomegaly",
+    "apical fibrosis"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "anterior / posterior / marginal spondylitis",
+      "spondylodiskitis",
+      "transdiskal / transvertebral insufficiency fracture",
+      "arthritis of zygapophyseal (facet), costovertebral, costotransverse joints (best seen on",
+      "bone marrow edema",
+      "joint effusion, synovitis, erosions",
+      "ankylosis in late stage → impairing chest excursion",
+      "enthesitis of interspinous ligaments ± osteitis of subjacent spinous processes",
+      "syndesmophytes + ankylosis of diskovertebral unit"
+    ],
+    "HRCT": [
+      "peripheral interstitial lung disease",
+      "bronchiectasis",
+      "paraseptal emphysema",
+      "tracheobronchomegaly",
+      "apical fibrosis"
+    ],
+    "Skull": [
+      "temporomandibular joint space narrowing, erosions, osteophytosis"
+    ],
+    "Hand": [
+      "exuberant osseous proliferation",
+      "osteoporosis, joint space narrowing, osseous erosions (deformities less striking than in"
+    ],
+    "Sacroiliac joint / symphysis pubis": [
+      "initially sclerosis of joint margins primarily on iliac side (bilateral + symmetric late in",
+      "later irregularities + widening of joint (= cartilage destruction)",
+      "bony fusion"
+    ],
+    "Pelvis": [
+      "periostitic \"whiskering\": ischial tuberosity, iliac crest, ischiopubic rami, greater femoral"
+    ],
+    "Spine": [
+      "squaring = straightened / convex anterior vertebral margins = erosive osteitis of anterior",
+      "\"shiny corners\" = reactive sclerosis of corners of vertebral body",
+      "diskitis = erosive abnormalities of diskovertebral junction",
+      "\"diskal ballooning\" = biconvex shape of intervertebral disk related to osteoporotic",
+      "marginal syndesmophyte formation (in 15%) = thin vertical radiodense spicules bridging",
+      "\"bamboo spine\" on AP view = undulating contour due to syndesmophytosis",
+      "ankylosis of vertebral edges / center (with bony extension through disk)",
+      "asymmetric erosions of laminar + spinous processes of lumbar spine",
+      "ossification of supraspinous + interspinous ligaments:",
+      "\"dagger\" sign = single radiodense line on AP view",
+      "\"trolley-track\" sign on AP view = central line of ossification with two lateral lines of",
+      "apophyseal + costovertebral joint ankylosis (on oblique views)",
+      "dorsal arachnoid diverticula in lumbar spine with erosion of posterior elements (Cx:",
+      "atlantoaxial subluxation"
+    ],
+    "Chest": [
+      "sternomanubrial joint irregularities + sclerosis",
+      "uni- / bilateral coarse upper lobe pulmonary fibrosis with upward retraction of hila",
+      "reticulonodular progressively confluent opacities in lung apices",
+      "apical bullae, cysts + cavitation (mimicking TB)"
+    ],
+    "Cardiovascular (up to 80% paralleling duration of disease)": [
+      "aortic wall thickening (60%)",
+      "aortic valve thickening + nodularity → aortic valve insufficiency"
+    ]
+  },
+  "clinical": {
+    "Cx": "prone to insufficiency fracture → pseudarthrosis",
+    "Prognosis": "20% progress to significant disability; occasionally death from cervical spine",
+    "Rx": "regular lifelong exercises + NSAID; tumor-necrosis factor (TNF)-α inhibitors"
+  }
+}

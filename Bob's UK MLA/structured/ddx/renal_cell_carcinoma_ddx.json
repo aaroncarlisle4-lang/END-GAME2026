@@ -1,0 +1,32 @@
+{
+  "finding": "Renal Cell Carcinoma (DDx)",
+  "slug": "renal_cell_carcinoma_ddx",
+  "chapter": "Renal Cell Carcinoma",
+  "source_file": "processed_clusters/renal_cell_carcinoma/renal_cell_carcinoma_ddx.md",
+  "quality_score": 0.65,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Wilms tumor (younger age",
+      "raw": "Wilms tumor (younger age",
+      "frequency": null
+    },
+    {
+      "name": "larger at presentation",
+      "raw": "larger at presentation",
+      "frequency": null
+    },
+    {
+      "name": "calcifications less frequent",
+      "raw": "calcifications less frequent [9% versus 25%]",
+      "frequency": "9%"
+    },
+    {
+      "name": "less dense / homogeneous)",
+      "raw": "less dense / homogeneous)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

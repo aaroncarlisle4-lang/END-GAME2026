@@ -1,0 +1,42 @@
+{
+  "finding": "Vertebral Border Abnormality",
+  "slug": "vertebral_border_abnormality",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/vertebral_border_abnormality.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Psoriatic arthritis",
+      "raw": "Psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Reiter disease",
+      "raw": "Reiter disease",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Normal variant",
+      "raw": "Normal variant",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Straightening of Anterior Border"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PENILE FRACTURE",
+  "slug": "penile_fracture",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/penile_fracture.md",
+  "definition": "tear in tunica albuginea → rupture of corpus cavernosum",
+  "demographics": {
+    "Associated with": "urethral injury (in 10-20%)",
+    "Age": "younger man; often related to sports"
+  },
+  "dominant_finding": "focal disruption of T1- and T2-hypointense tunica albuginea",
+  "distribution": "focal disruption of T1- and T2-hypointense tunica albuginea",
+  "discriminating_features": [
+    "focal disruption of T1- and T2-hypointense tunica albuginea",
+    "adjacent T2-hyperintense hematoma"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "focal disruption of T1- and T2-hypointense tunica albuginea",
+      "adjacent T2-hyperintense hematoma"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "Symmetric Periosteal Reaction in Adulthood",
+  "slug": "symmetric_periosteal_reaction_in_adulthood_526463",
+  "chapter": "BONE OVERGROWTH",
+  "source_file": "processed_clusters/bone_overgrowth/symmetric_periosteal_reaction_in_adulthood_526463.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Venous stasis",
+      "raw": "Venous stasis (lower extremity)",
+      "frequency": null
+    },
+    {
+      "name": "Hypertrophic osteoarthropathy",
+      "raw": "Hypertrophic osteoarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Pachydermoperiostosis",
+      "raw": "Pachydermoperiostosis",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid acropachy",
+      "raw": "Thyroid acropachy",
+      "frequency": null
+    },
+    {
+      "name": "Fluorosis",
+      "raw": "Fluorosis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Psoriatic arthritis",
+      "raw": "Psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Reiter syndrome",
+      "raw": "Reiter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic-degenerative",
+      "raw": "Idiopathic-degenerative",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

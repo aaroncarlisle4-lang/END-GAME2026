@@ -1,0 +1,22 @@
+{
+  "finding": "Renal Agenesis (DDx)",
+  "slug": "renal_agenesis_ddx",
+  "chapter": "Renal Agenesis",
+  "source_file": "processed_clusters/renal_agenesis/renal_agenesis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "functional cause of in utero renal failure (eg",
+      "raw": "functional cause of in utero renal failure (eg",
+      "frequency": null
+    },
+    {
+      "name": "severe IUGR)",
+      "raw": "severe IUGR)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "inability to visualize urine in fetal bladder (after 13 weeks) ← bladder agenesis / | flattened discoid shape of adrenals ← absence of pressure by kidney | bell-shaped thorax in mid to late 3rd trimester ← pulmonary hypoplasia | compression deformities of extremities → clubfoot, flexion contractures, joint dislocations"
+}

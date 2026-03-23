@@ -1,0 +1,33 @@
+{
+  "name": "SUPERIOR MESENTERIC ARTERY SYNDROME",
+  "slug": "superior_mesenteric_artery_syndrome",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/superior_mesenteric_artery_syndrome.md",
+  "definition": "ARTERIOMESENTERIC DUODENAL COMPRESSION SYNDROME = WILKIE SYNDROME = CHRONIC rare cause of duodenal obstruction ← compression of 3rd portion of duodenum between SMA",
+  "demographics": {
+    "Frequency": "0.1-0.3% of barium studies",
+    "Age": "10-39 years; M÷F = 1÷2"
+  },
+  "dominant_finding": "reduced distance between SMA + aorta to 2-8 mm (AMD)",
+  "distribution": "",
+  "discriminating_features": [
+    "narrowing of angle between SMA + aorta to 6-22° (AMA)",
+    "reduced distance between SMA + aorta to 2-8 mm (AMD)",
+    "megaduodenum = pronounced dilatation of 1st + 2nd portion of duodenum + frequently",
+    "vertical linear compression defect in transverse portion of duodenum overlying spine",
+    "abrupt change in caliber distal to compression defect"
+  ],
+  "other_features": {
+    "general": [
+      "narrowing of angle between SMA + aorta to 6-22° (AMA)",
+      "reduced distance between SMA + aorta to 2-8 mm (AMD)",
+      "megaduodenum = pronounced dilatation of 1st + 2nd portion of duodenum + frequently",
+      "vertical linear compression defect in transverse portion of duodenum overlying spine",
+      "abrupt change in caliber distal to compression defect",
+      "antiperistaltic waves proximal to obstruction",
+      "delayed gastroduodenal emptying",
+      "relief of obstruction by postural change into prone knee-elbow position"
+    ]
+  },
+  "clinical": {}
+}

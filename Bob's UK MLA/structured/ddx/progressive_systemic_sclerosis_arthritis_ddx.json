@@ -1,0 +1,27 @@
+{
+  "finding": "Progressive Systemic Sclerosis — Arthritis (DDx)",
+  "slug": "progressive_systemic_sclerosis_arthritis_ddx",
+  "chapter": "Progressive Systemic Sclerosis",
+  "source_file": "processed_clusters/progressive_systemic_sclerosis/progressive_systemic_sclerosis_arthritis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "rheumatoid",
+      "raw": "rheumatoid",
+      "frequency": null
+    },
+    {
+      "name": "psoriatic",
+      "raw": "psoriatic",
+      "frequency": null
+    },
+    {
+      "name": "erosive arthritis √  soft-tissue swelling ± periarticular osteoporosis",
+      "raw": "erosive arthritis √  soft-tissue swelling ± periarticular osteoporosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "central / marginal erosions (50%): | resorption of palmar aspect of terminal phalanges (most frequent sign) | bony erosions of carpal bones (trapezium), distal radius + ulna, mandible, ribs, | joint-space narrowing (late)"
+}

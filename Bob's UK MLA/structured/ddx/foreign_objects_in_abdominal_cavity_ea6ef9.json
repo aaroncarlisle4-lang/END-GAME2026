@@ -1,0 +1,122 @@
+{
+  "finding": "Foreign Objects in Abdominal Cavity",
+  "slug": "foreign_objects_in_abdominal_cavity_ea6ef9",
+  "chapter": "C. INGESTED FOREIGN BODIES",
+  "source_file": "processed_clusters/c_ingested_foreign_bodies/foreign_objects_in_abdominal_cavity_ea6ef9.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INTRALUMINAL OBJECT (a)  pathologic condition",
+      "raw": "INTRALUMINAL OBJECT (a)  pathologic condition",
+      "frequency": null
+    },
+    {
+      "name": "Bezoar",
+      "raw": "Bezoar",
+      "frequency": null
+    },
+    {
+      "name": "Gallstone (b)  dislodged stent and tube",
+      "raw": "Gallstone (b)  dislodged stent and tube",
+      "frequency": null
+    },
+    {
+      "name": "Biliary stent",
+      "raw": "Biliary stent (in up to 6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Feeding tube (c)  ingestion of diagnostic device",
+      "raw": "Feeding tube (c)  ingestion of diagnostic device",
+      "frequency": null
+    },
+    {
+      "name": "pH meter capsule",
+      "raw": "pH meter capsule (Bravo™ pH capsule)",
+      "frequency": null
+    },
+    {
+      "name": "Endoscopic video capsule",
+      "raw": "Endoscopic video capsule",
+      "frequency": null
+    },
+    {
+      "name": "EXTRALUMINAL OBJECT",
+      "raw": "EXTRALUMINAL OBJECT",
+      "frequency": null
+    },
+    {
+      "name": "Prosthetic mesh for hernia repair:",
+      "raw": "Prosthetic mesh for hernia repair:",
+      "frequency": null
+    },
+    {
+      "name": "Dropped gallstone = perforation / spillage: during laparoscopic cholecystectomy",
+      "raw": "Dropped gallstone = perforation / spillage: during laparoscopic cholecystectomy (in up to 30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Dropped surgical clip",
+      "raw": "Dropped surgical clip",
+      "frequency": null
+    },
+    {
+      "name": "Migrated / perforated IUD (1÷1,000 insertions) Cx in 15%:   bowel obstruction, perforation of bowel / urinary bladder / mesentery, rectal stricture, rectouterine fistula",
+      "raw": "Migrated / perforated IUD (1÷1,000 insertions) Cx in 15%:   bowel obstruction, perforation of bowel / urinary bladder / mesentery, rectal stricture, rectouterine fistula",
+      "frequency": "15%"
+    },
+    {
+      "name": "Hepatic packing with sponges",
+      "raw": "Hepatic packing with sponges (for 36-48 hours)",
+      "frequency": null
+    },
+    {
+      "name": "Bioabsorbable sponge for hemostasis: Gelfoam®, Surgicel®, microfibrillar collagen",
+      "raw": "Bioabsorbable sponge for hemostasis: Gelfoam®, Surgicel®, microfibrillar collagen",
+      "frequency": null
+    },
+    {
+      "name": "Urethral bulking agent:",
+      "raw": "Urethral bulking agent:",
+      "frequency": null
+    },
+    {
+      "name": "Retained surgical material",
+      "raw": "Retained surgical material (1÷1000-1500 surgeries): sponge (69%), instrument (31%)",
+      "frequency": "69%"
+    },
+    {
+      "name": "Heterotopic mesenteric ossification",
+      "raw": "Heterotopic mesenteric ossification",
+      "frequency": null
+    },
+    {
+      "name": "Dystrophic calcifications",
+      "raw": "Dystrophic calcifications",
+      "frequency": null
+    },
+    {
+      "name": "Extravasation of oral contrast",
+      "raw": "Extravasation of oral contrast (change in configuration, pooling following gravity, less dense over time)",
+      "frequency": null
+    },
+    {
+      "name": "Osseous metaplasia",
+      "raw": "Osseous metaplasia (trabecular architecture)",
+      "frequency": null
+    },
+    {
+      "name": "Heterotopic ossification in surgical incisions =  subtype of traumatic myositis ossificans",
+      "raw": "Heterotopic ossification in surgical incisions =  subtype of traumatic myositis ossificans",
+      "frequency": null
+    },
+    {
+      "name": "Bogota bag =  clear sterilized plastic bag used for temporary abdominal closure to monitor secondary peritonitis",
+      "raw": "Bogota bag =  clear sterilized plastic bag used for temporary abdominal closure to monitor secondary peritonitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  6 x 5.5 x 25 mm metallic device √  11 x 26 mm metallic device (d)  accidental / nonaccidental ingestion ›  0.44 mm thick polypropylene √  line of attenuation similar to muscle ›  1-mm thick polytetrafluoroethylene √  line of increased attenuation √  usually absorbed within 7-14 days √  mimick abscess due to numerous gas pockets Packing agents mimic an abscess when imaged prior to absorption by 7-14 days post surgery. ›  collagen: attenuation similar to soft tissue ›  carbon-coated microbeads: 1500-2000 HU At risk:   emergency surgery, unplanned change of procedure, obesity A radiopaque mark"
+}

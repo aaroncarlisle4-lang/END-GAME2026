@@ -1,0 +1,31 @@
+{
+  "name": "CARPAL TUNNEL SYNDROME",
+  "slug": "carpal_tunnel_syndrome",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/carpal_tunnel_syndrome.md",
+  "definition": "entrapment syndrome caused by chronic pressure on the median nerve within the carpal tunnel",
+  "demographics": {},
+  "dominant_finding": "swelling of nerve within carpal tunnel",
+  "distribution": "",
+  "discriminating_features": [
+    "\"pseudoneuroma\" of median nerve = swelling of median nerve proximal to carpal tunnel",
+    "swelling of nerve within carpal tunnel",
+    "increased signal intensity of nerve on T2WI",
+    "volar bowing of flexor retinaculum",
+    "swelling of tendon sheath ← tenosynovitis"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "\"pseudoneuroma\" of median nerve = swelling of median nerve proximal to carpal tunnel",
+      "swelling of nerve within carpal tunnel",
+      "increased signal intensity of nerve on T2WI",
+      "volar bowing of flexor retinaculum",
+      "swelling of tendon sheath ← tenosynovitis",
+      "mass(es) within carpal tunnel",
+      "marked enhancement ← nerve edema ← breakdown of blood-nerve barrier",
+      "no enhancement (= ischemia) provoked by wrist held in an extended / flexed position"
+    ]
+  },
+  "clinical": {}
+}

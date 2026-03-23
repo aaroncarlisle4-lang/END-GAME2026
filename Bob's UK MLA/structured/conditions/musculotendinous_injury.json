@@ -1,0 +1,37 @@
+{
+  "name": "MUSCULOTENDINOUS INJURY",
+  "slug": "musculotendinous_injury",
+  "chapter": "MORTON NEUROMA",
+  "source_file": "processed_clusters/disease_entries/morton_neuroma/musculotendinous_injury.md",
+  "definition": "",
+  "demographics": {
+    "Path": "periosteal stripping with hematoma at tendon attachment site"
+  },
+  "dominant_finding": "NO architectural changes",
+  "distribution": "feathery appearance of diffuse muscle edema",
+  "discriminating_features": [
+    "NO architectural changes",
+    "feathery appearance of diffuse muscle edema",
+    "increased muscle girth",
+    "deep intramuscular hematoma (with severe trauma resulting in disruption of muscle fibers):",
+    "high SI on T1WI (= T1 shortening of methemoglobin)"
+  ],
+  "other_features": {
+    "general": [
+      "NO architectural changes",
+      "feathery appearance of diffuse muscle edema",
+      "increased muscle girth",
+      "deep intramuscular hematoma (with severe trauma resulting in disruption of muscle fibers):",
+      "high SI on T1WI (= T1 shortening of methemoglobin)",
+      "low SI on T2WI (= T2 shortening of hemosiderin)",
+      "blooming with gradient-echo sequence",
+      "feathery appearance of muscle",
+      "hematoma at myotendinous junction",
+      "perifascial fluid collection",
+      "retracted muscle tendon",
+      "hematoma at myotendinous junction",
+      "waviness + retraction of the torn end of tendon with fragment of bone / cartilage"
+    ]
+  },
+  "clinical": {}
+}

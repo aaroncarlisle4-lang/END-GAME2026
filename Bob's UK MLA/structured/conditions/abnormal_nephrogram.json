@@ -1,0 +1,46 @@
+{
+  "name": "ABNORMAL NEPHROGRAM",
+  "slug": "abnormal_nephrogram",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF UROGENITAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_urogenital_disorders/abnormal_nephrogram.md",
+  "definition": "rim of cortex receiving collateral blood flow from capsular, peripelvic, and periureteric streaky linear bands of alternating hyper- and hypoattenuation parallel to axis of tubules + random patchy densities reflecting redistribution of blood flow from the cortical initially faint nephrogram becoming increasingly dense over hours to days biliary contrast material detected radiographically following intravenous administration of",
+  "demographics": {},
+  "dominant_finding": "obstructive nephrogram",
+  "distribution": "2-4-mm peripheral band of cortical opacification",
+  "discriminating_features": [
+    "2-4-mm peripheral band of cortical opacification",
+    "prolonged bilateral dense nephrograms = persistent increasing nephrogram",
+    "decrease in renal size",
+    "loss of pyelogram after initial opacification",
+    "prolonged cortical transit + reduced excretion"
+  ],
+  "other_features": {
+    "general": [
+      "2-4-mm peripheral band of cortical opacification",
+      "prolonged bilateral dense nephrograms = persistent increasing nephrogram",
+      "decrease in renal size",
+      "loss of pyelogram after initial opacification",
+      "prolonged cortical transit + reduced excretion",
+      "decreased nephrographic opacity + rim nephrogram",
+      "hyperconcentration in collecting system",
+      "ureteral notching",
+      "decreased perfusion with prolonged excretory phase",
+      "inhomogeneous opacification of cortex",
+      "spotted nephrogram",
+      "irregular cortical nephrogram = spotted nephrogram (DDx: scleroderma,",
+      "obstructive nephrogram",
+      "progressive increase in opacity of entire kidney"
+    ],
+    "NUC": [
+      "obstructive nephrogram",
+      "continuous increase in renal activity",
+      "dilatation of collecting system",
+      "segmental nephrogram",
+      "striated nephrogram",
+      "prolonged cortical transit time + prolonged excretory phase",
+      "immediate persistent nephrogram (common)",
+      "progressive increasing opacity (rare)"
+    ]
+  },
+  "clinical": {}
+}

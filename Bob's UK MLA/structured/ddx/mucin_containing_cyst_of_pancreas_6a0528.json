@@ -1,0 +1,52 @@
+{
+  "finding": "Mucin-Containing Cyst of Pancreas",
+  "slug": "mucin_containing_cyst_of_pancreas_6a0528",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/mucin_containing_cyst_of_pancreas_6a0528.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucinous nonneoplastic cysts =  nonneoplastic mucinous differentiation of epithelial lining without soft-tissue component",
+      "raw": "Mucinous nonneoplastic cysts =  nonneoplastic mucinous differentiation of epithelial lining without soft-tissue component",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous cystadenoma",
+      "raw": "Mucinous cystadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous cystadenocarcinoma",
+      "raw": "Mucinous cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Intraductal papillary mucinous neoplasm",
+      "raw": "Intraductal papillary mucinous neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "PANCREATIC",
+      "raw": "PANCREATIC",
+      "frequency": null
+    },
+    {
+      "name": "Acute / chronic pancreatitis",
+      "raw": "Acute / chronic pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic trauma",
+      "raw": "Pancreatic trauma",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic carcinoma",
+      "raw": "Pancreatic carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Hyperamylasemia"
+}

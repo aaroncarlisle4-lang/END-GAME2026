@@ -1,0 +1,37 @@
+{
+  "finding": "Cause: ?",
+  "slug": "cause",
+  "chapter": "OVARIAN FIBROMATOSIS",
+  "source_file": "processed_clusters/ovarian_fibromatosis/cause.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pelvic pain, menstrual abnormalities, occasional virilization Histo:   proliferation of collagen-producing spindle cells surrounding normal ovarian structures with collagenous thickening of superficial cortex; partial preservation of normal ovarian structures within the fibrous mass, which allows differentiation of ovarian fibromatosis from similar conditions.",
+      "raw": "pelvic pain, menstrual abnormalities, occasional virilization Histo:   proliferation of collagen-producing spindle cells surrounding normal ovarian structures with collagenous thickening of superficial cortex; partial preservation of normal ovarian structures within the fibrous mass, which allows differentiation of ovarian fibromatosis from similar conditions.",
+      "frequency": "occasional"
+    },
+    {
+      "name": "Pelvic aggressive fibromatosis (desmoid) involving ovary",
+      "raw": "Pelvic aggressive fibromatosis (desmoid) involving ovary",
+      "frequency": null
+    },
+    {
+      "name": "Brenner tumor",
+      "raw": "Brenner tumor (calcifications)",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian sex-cord stromal tumors: fibroma, fibrothecoma",
+      "raw": "Ovarian sex-cord stromal tumors: fibroma, fibrothecoma",
+      "frequency": null
+    },
+    {
+      "name": "Krukenberg tumor",
+      "raw": "Krukenberg tumor (bilateral, avid enhancement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Average age:   25 years √  nonspecific enlargement of ovaries √  at least partial preservation of ovarian anatomy US: √  enlarged heterogeneously echogenic ovary with areas of acoustic shadowing √  low flow at Doppler imaging MR: √  hypointense areas on T1WI + T2WI √  \"black garland\" on T2WI ← fibrous tissue encasing peripheral aspect of ovary DDx:"
+}

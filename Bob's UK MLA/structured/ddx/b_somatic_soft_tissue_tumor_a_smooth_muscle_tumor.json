@@ -1,0 +1,77 @@
+{
+  "finding": "B. SOMATIC SOFT TISSUE TUMOR (a) smooth muscle tumor",
+  "slug": "b_somatic_soft_tissue_tumor_a_smooth_muscle_tumor",
+  "chapter": "C. ENDOCRINE ORGANS",
+  "source_file": "processed_clusters/c_endocrine_organs/b_somatic_soft_tissue_tumor_a_smooth_muscle_tumor.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "True leiomyoma",
+      "raw": "True leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "True leiomyosarcoma",
+      "raw": "True leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Plexiform fibromyxoma",
+      "raw": "Plexiform fibromyxoma (b)  neural tumor (4% of all benign gastric tumors)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Plexosarcoma",
+      "raw": "Plexosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma (d)  vascular / perivascular tissue ◊  2% of all benign gastric tumors",
+      "raw": "Liposarcoma (d)  vascular / perivascular tissue ◊  2% of all benign gastric tumors",
+      "frequency": "2%"
+    },
+    {
+      "name": "Glomus tumor",
+      "raw": "Glomus tumor (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma (e)  inflammatory tumor",
+      "raw": "Lymphangioma (e)  inflammatory tumor",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory fibroid polyp",
+      "raw": "Inflammatory fibroid polyp",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory myofibroblastic tumor ◊  Carcinoid tumor originates from Kulchitsky cell within gastric mucosa = epithelial origin. Tumor bulk is often submucosal, so they should be included in DDx of submucosal gastric tumors.",
+      "raw": "Inflammatory myofibroblastic tumor ◊  Carcinoid tumor originates from Kulchitsky cell within gastric mucosa = epithelial origin. Tumor bulk is often submucosal, so they should be included in DDx of submucosal gastric tumors.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(c)  lipocytic tumor MESENCHYMAL GASTRIC TUMOR BY LOCATION Some tumors are seen more frequently in certain parts of the stomach → tumor location is important for DDx @ gastric cardia: leiomyoma @ gastric body: GIST, schwannoma @ gastric antrum: glomus tumor, inflammatory fibroid polyp, lipoma, ectopic panc"
+}

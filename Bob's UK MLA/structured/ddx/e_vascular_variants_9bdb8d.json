@@ -1,0 +1,27 @@
+{
+  "finding": "E. VASCULAR VARIANTS",
+  "slug": "e_vascular_variants_9bdb8d",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/e_vascular_variants_9bdb8d.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Right aortic arch",
+      "raw": "Right aortic arch (in 0.5% of general population)",
+      "frequency": "0.5%"
+    },
+    {
+      "name": "Left SVC",
+      "raw": "Left SVC (in 0.3% of general population)",
+      "frequency": "0.3%"
+    },
+    {
+      "name": "Azygos continuation of IVC",
+      "raw": "Azygos continuation of IVC",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  absence of aortic knuckle"
+}

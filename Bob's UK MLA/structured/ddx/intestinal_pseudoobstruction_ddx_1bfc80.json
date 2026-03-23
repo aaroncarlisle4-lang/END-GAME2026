@@ -1,0 +1,22 @@
+{
+  "finding": "Intestinal Pseudoobstruction (DDx)",
+  "slug": "intestinal_pseudoobstruction_ddx_1bfc80",
+  "chapter": "Intestinal Pseudoobstruction",
+  "source_file": "processed_clusters/intestinal_pseudoobstruction/intestinal_pseudoobstruction_ddx_1bfc80.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "mechanical obstruction",
+      "raw": "mechanical obstruction",
+      "frequency": null
+    },
+    {
+      "name": "paralytic ileus",
+      "raw": "paralytic ileus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "nonspecific findings of gaseous distention of colon | cecal diameter > 12 cm → colonic decompression"
+}

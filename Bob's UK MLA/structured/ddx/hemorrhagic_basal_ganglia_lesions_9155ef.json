@@ -1,0 +1,32 @@
+{
+  "finding": "Hemorrhagic Basal Ganglia Lesions",
+  "slug": "hemorrhagic_basal_ganglia_lesions_9155ef",
+  "chapter": "D. MALIGNANCY",
+  "source_file": "processed_clusters/d_malignancy/hemorrhagic_basal_ganglia_lesions_9155ef.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Poisoning",
+      "raw": "Poisoning",
+      "frequency": null
+    },
+    {
+      "name": "CNS toxoplasmosis",
+      "raw": "CNS toxoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Venous infarction",
+      "raw": "Venous infarction",
+      "frequency": null
+    },
+    {
+      "name": "Flavivirus infection",
+      "raw": "Flavivirus infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

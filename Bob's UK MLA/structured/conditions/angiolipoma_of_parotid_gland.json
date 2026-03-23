@@ -1,0 +1,24 @@
+{
+  "name": "ANGIOLIPOMA OF PAROTID GLAND",
+  "slug": "angiolipoma_of_parotid_gland",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/angiolipoma_of_parotid_gland.md",
+  "definition": "benign nodular lesion similar to ordinary lipomas except for associated angiomatous",
+  "demographics": {
+    "Age": "rare before puberty"
+  },
+  "dominant_finding": "circumscribed (more common) / infiltrating mass",
+  "distribution": "",
+  "discriminating_features": [
+    "circumscribed (more common) / infiltrating mass",
+    "marked enhancement around fatty components"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "circumscribed (more common) / infiltrating mass",
+      "marked enhancement around fatty components"
+    ]
+  },
+  "clinical": {}
+}

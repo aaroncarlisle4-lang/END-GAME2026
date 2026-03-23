@@ -1,0 +1,52 @@
+{
+  "finding": "Physiologic Intracranial Calcification",
+  "slug": "physiologic_intracranial_calcification_e84650",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/physiologic_intracranial_calcification_e84650.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pineal calcification Age:  no calcification < 5 years of age, in 8-10% at 8-14 years of age, in 40% by 20 years of age; in ⅔ of adult population",
+      "raw": "Pineal calcification Age:  no calcification < 5 years of age, in 8-10% at 8-14 years of age, in 40% by 20 years of age; in ⅔ of adult population",
+      "frequency": "10%"
+    },
+    {
+      "name": "Habenula",
+      "raw": "Habenula",
+      "frequency": null
+    },
+    {
+      "name": "Choroid plexus may calcify in all ventricles: most commonly in glomus within atrium of lateral ventricles, near foramen of Monro, tela choroidea of 3rd ventricle, roof of 4th ventricle, along foramina of Luschka",
+      "raw": "Choroid plexus may calcify in all ventricles: most commonly in glomus within atrium of lateral ventricles, near foramen of Monro, tela choroidea of 3rd ventricle, roof of 4th ventricle, along foramina of Luschka",
+      "frequency": null
+    },
+    {
+      "name": "Dura, falx cerebri, falx cerebelli, tentorium",
+      "raw": "Dura, falx cerebri, falx cerebelli, tentorium",
+      "frequency": null
+    },
+    {
+      "name": "Petroclinoid ligament",
+      "raw": "Petroclinoid ligament (= reflection of tentorium between tip of dorsum sellae and apex of petrous bone)",
+      "frequency": null
+    },
+    {
+      "name": "Interclinoid ligament = interclinoid bridging",
+      "raw": "Interclinoid ligament = interclinoid bridging",
+      "frequency": null
+    },
+    {
+      "name": "Arteriosclerosis: particularly intracavernous segment of ICA, basilar a., vertebral a.",
+      "raw": "Arteriosclerosis: particularly intracavernous segment of ICA, basilar a., vertebral a.",
+      "frequency": null
+    },
+    {
+      "name": "Basal ganglia",
+      "raw": "Basal ganglia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  amorphous / ringlike calcification < 3 mm from midline usually < 10 mm in diameter √  ~ 30 mm above highest posterior elevation of pyramids CAVE: pineal calcification > 14 mm suggests pineal neoplasm (teratoma / pinealoma) Frequency:   ~ in ⅓ of population Age:  > 10 years of age √  posteriorly open C-shaped calcification 4-6 mm anterior to pineal gland Age:  > 3 years of age √  20-30 mm behind + slightly below pineal on lateral projection, symmetrical on AP projection DDx:  neurofibromatosis Frequency:   10% of population Age:  > 3 years of age DDx:  basal cell nevus syndrome (Gorlin syndr"
+}

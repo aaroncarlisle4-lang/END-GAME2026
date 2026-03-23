@@ -1,0 +1,47 @@
+{
+  "finding": "Presbyesophagus (DDx)",
+  "slug": "presbyesophagus_ddx",
+  "chapter": "Presbyesophagus",
+  "source_file": "processed_clusters/presbyesophagus/presbyesophagus_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "diabetes",
+      "raw": "diabetes",
+      "frequency": null
+    },
+    {
+      "name": "diffuse esophageal spasm",
+      "raw": "diffuse esophageal spasm",
+      "frequency": null
+    },
+    {
+      "name": "scleroderma",
+      "raw": "scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "esophagitis",
+      "raw": "esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "achalasia",
+      "raw": "achalasia",
+      "frequency": null
+    },
+    {
+      "name": "benign stricture",
+      "raw": "benign stricture",
+      "frequency": null
+    },
+    {
+      "name": "carcinoma",
+      "raw": "carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "impaired / no primary peristalsis | often repetitive nonperistaltic tertiary contractions in distal esophagus | mild / moderate esophageal dilatation | poor LES relaxation"
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Glycogen Acanthosis (DDx)",
+  "slug": "glycogen_acanthosis_ddx",
+  "chapter": "Glycogen Acanthosis",
+  "source_file": "processed_clusters/glycogen_acanthosis/glycogen_acanthosis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "candida esophagitis",
+      "raw": "candida esophagitis (lesions disappear under treatment in contrast to glycogen acanthosis)",
+      "frequency": null
+    },
+    {
+      "name": "reflux esophagitis",
+      "raw": "reflux esophagitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multiple 1-3-mm rounded nodules / plaques"
+}

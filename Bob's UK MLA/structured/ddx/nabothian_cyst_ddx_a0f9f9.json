@@ -1,0 +1,22 @@
+{
+  "finding": "Nabothian Cyst (DDx)",
+  "slug": "nabothian_cyst_ddx_a0f9f9",
+  "chapter": "Nabothian Cyst",
+  "source_file": "processed_clusters/nabothian_cyst/nabothian_cyst_ddx_a0f9f9.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "adenoma malignum = minimal deviation adenocarcinoma (solid components",
+      "raw": "adenoma malignum = minimal deviation adenocarcinoma (solid components",
+      "frequency": null
+    },
+    {
+      "name": "marked hypervascularity)",
+      "raw": "marked hypervascularity)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "simple anechoic cyst without vascularity (incidentally detected at imaging) | may increase in echogenicity ← proteinaceous / hemorrhagic content | \"tunnel cluster\" (in up to 8%) = multicystic dilatation of endocervical glands mimicking"
+}

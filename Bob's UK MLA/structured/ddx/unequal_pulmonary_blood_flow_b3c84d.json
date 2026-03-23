@@ -1,0 +1,27 @@
+{
+  "finding": "Unequal Pulmonary Blood Flow",
+  "slug": "unequal_pulmonary_blood_flow_b3c84d",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/unequal_pulmonary_blood_flow_b3c84d.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tetralogy of Fallot",
+      "raw": "Tetralogy of Fallot",
+      "frequency": null
+    },
+    {
+      "name": "Persistent truncus arteriosus",
+      "raw": "Persistent truncus arteriosus (esp. type IV)",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary valvular stenosis",
+      "raw": "Pulmonary valvular stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  diminished flow on left side (hypoplastic / stenotic pulmonary artery in 40%) √  diminished / increased blood flow to either lung √  increased flow to left lung ← jet phenomenon"
+}

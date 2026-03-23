@@ -1,0 +1,30 @@
+{
+  "name": "POSTERIOR REVERSIBLE ENCEPHALOPATHY SYNDROME",
+  "slug": "posterior_reversible_encephalopathy_syndrome",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/posterior_reversible_encephalopathy_syndrome.md",
+  "definition": "(PRES) = REVERSIBLE POSTERIOR LEUKOENCEPHALOPATHY SYNDROME = heterogeneous collection of disorders associated with a breakdown in cerebral autoregulatory",
+  "demographics": {
+    "Location": "white matter of posterior half of brain"
+  },
+  "dominant_finding": "lesion hypointense on T1WI + hyperintense on T2WI ← vasogenic edema (= fluid",
+  "distribution": "white matter of posterior half of brain",
+  "discriminating_features": [
+    "hypodense white matter on NECT",
+    "lesion hypointense on T1WI + hyperintense on T2WI ← vasogenic edema (= fluid",
+    "lesion hypo- to isointense on DWI + hyperintense on ADC map (due to a net effect of elevated",
+    "NO contrast enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "hypodense white matter on NECT",
+      "lesion hypointense on T1WI + hyperintense on T2WI ← vasogenic edema (= fluid",
+      "lesion hypo- to isointense on DWI + hyperintense on ADC map (due to a net effect of elevated",
+      "NO contrast enhancement"
+    ]
+  },
+  "clinical": {
+    "Cx": "infarction (lesions develop high DWI signal + normal ADC signal)",
+    "Rx": "rapid control of blood pressure / withdrawal of offending drug"
+  }
+}

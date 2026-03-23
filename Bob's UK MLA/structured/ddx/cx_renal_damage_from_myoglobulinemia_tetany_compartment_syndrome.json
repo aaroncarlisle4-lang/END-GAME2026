@@ -1,0 +1,27 @@
+{
+  "finding": "Cx: renal damage from myoglobulinemia, tetany, compartment syndrome",
+  "slug": "cx_renal_damage_from_myoglobulinemia_tetany_compartment_syndrome",
+  "chapter": "GENERALIZED CALCINOSIS",
+  "source_file": "processed_clusters/generalized_calcinosis/cx_renal_damage_from_myoglobulinemia_tetany_compartment_syndrome.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "TRAUMA",
+      "raw": "TRAUMA",
+      "frequency": null
+    },
+    {
+      "name": "Intramuscular hematoma",
+      "raw": "Intramuscular hematoma (eg, severe muscle strain, laceration, contusion, spontaneous)",
+      "frequency": null
+    },
+    {
+      "name": "Myositis ossificans traumatica",
+      "raw": "Myositis ossificans traumatica",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

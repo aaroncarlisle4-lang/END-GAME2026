@@ -1,0 +1,58 @@
+{
+  "finding": "Snapping Hip Syndrome",
+  "slug": "snapping_hip_syndrome_dbaa37",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/snapping_hip_syndrome_dbaa37.md",
+  "quality_score": 0.633,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "INTRAARTICULAR",
+      "raw": "INTRAARTICULAR",
+      "frequency": null
+    },
+    {
+      "name": "Osteocartilaginous bodies",
+      "raw": "Osteocartilaginous bodies",
+      "frequency": null
+    },
+    {
+      "name": "EXTRAARTICULAR = tendon slippage",
+      "raw": "EXTRAARTICULAR = tendon slippage",
+      "frequency": null
+    },
+    {
+      "name": "Fascia lata / gluteus maximus over greater trochanter",
+      "raw": "Fascia lata / gluteus maximus over greater trochanter",
+      "frequency": null
+    },
+    {
+      "name": "Iliopsoas tendon over iliopectineal eminence",
+      "raw": "Iliopsoas tendon over iliopectineal eminence",
+      "frequency": null
+    },
+    {
+      "name": "Long head of biceps femoris over ischial tuberosity",
+      "raw": "Long head of biceps femoris over ischial tuberosity",
+      "frequency": null
+    },
+    {
+      "name": "Iliofemoral ligament over anterior portion of hip capsule",
+      "raw": "Iliofemoral ligament over anterior portion of hip capsule",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "INTRAARTICULAR": [],
+    "Osteocartilaginous bodies": [],
+    "EXTRAARTICULAR = tendon slippage": [],
+    "Fascia lata / gluteus maximus over greater trochanter": [],
+    "Iliopsoas tendon over iliopectineal eminence": [],
+    "Long head of biceps femoris over ischial tuberosity": [
+      "increase in distance between teardrop + femoral head Cause:    hip joint effusion",
+      "medial wall of acetabulum projecting medially to ilioischial line by > 3 mm (in males) / > 6 mm (in females)"
+    ],
+    "Iliofemoral ligament over anterior portion of hip capsule": []
+  },
+  "context": "Increase in Teardrop Width √  increase in distance between teardrop + femoral head Cause:    hip joint effusion √  increase in mediolateral size of teardrop Cause:    hip dysplasia, chronic hip joint effusion during skeletal maturation Protrusio Acetabuli =  acetabular floor bulging into pelvis √  center-edge angle of Wiberg of > 40° √  medial wall of acetabulum projecting medially to ilioischial line by > 3 mm (in males) / > 6 mm (in females) √  crossing of medial + lateral components of pelvic \"teardrop\" (U-shaped radiodense area medial to hip joint) Anatomy: (a) lateral aspect = articular s"
+}

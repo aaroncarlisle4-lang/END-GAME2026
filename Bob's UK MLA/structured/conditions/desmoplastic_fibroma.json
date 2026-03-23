@@ -1,0 +1,36 @@
+{
+  "name": "DESMOPLASTIC FIBROMA",
+  "slug": "desmoplastic_fibroma",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/desmoplastic_fibroma.md",
+  "definition": "INTRAOSSEOUS DESMOID TUMOR rare locally aggressive benign neoplasm of bone with borderline malignancy resembling soft-",
+  "demographics": {
+    "Prevalence": "107 cases in world literature",
+    "Histo": "intracellular collagenous material in fibroblasts with small nuclei",
+    "Age": "mean of 21 years (range, 15 months to 75 years); in 90% < 30 years; M÷F = 1÷1"
+  },
+  "dominant_finding": "narrow (96%) / poorly defined (4%) zone of transition",
+  "distribution": "",
+  "discriminating_features": [
+    "residual columns of bone with \"pseudotrabeculae\" are CLASSIC (91%)",
+    "geographic (96%) / moth-eaten (4%) bone destruction without matrix mineralization",
+    "narrow (96%) / poorly defined (4%) zone of transition",
+    "no marginal sclerosis (94%)",
+    "bone expansion (89%); may grow to massive size (simulating aneurysmal bone cyst /"
+  ],
+  "other_features": {
+    "general": [
+      "geographic (96%) / moth-eaten (4%) bone destruction without matrix mineralization",
+      "narrow (96%) / poorly defined (4%) zone of transition",
+      "no marginal sclerosis (94%)",
+      "residual columns of bone with \"pseudotrabeculae\" are CLASSIC (91%)",
+      "bone expansion (89%); may grow to massive size (simulating aneurysmal bone cyst /",
+      "breach of cortex + soft-tissue mass (29%)"
+    ]
+  },
+  "clinical": {
+    "Cx": "pathologic fracture (9%)",
+    "Prognosis": "52% rate of local recurrence",
+    "Rx": "wide excision"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "finding": "Increased Pulmonary Vasculature",
+  "slug": "increased_pulmonary_vasculature_959f13",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/increased_pulmonary_vasculature_959f13.md",
+  "quality_score": 0.867,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "OVERCIRCULATION =  shunt vascularity = arterial + venous overcirculation",
+      "raw": "OVERCIRCULATION =  shunt vascularity = arterial + venous overcirculation (a)  congenital heart disease (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "L-R shunts",
+      "raw": "L-R shunts",
+      "frequency": null
+    },
+    {
+      "name": "Admixture cyanotic lesions (b)  high-flow syndromes",
+      "raw": "Admixture cyanotic lesions (b)  high-flow syndromes",
+      "frequency": null
+    },
+    {
+      "name": "Thyrotoxicosis",
+      "raw": "Thyrotoxicosis",
+      "frequency": null
+    },
+    {
+      "name": "Anemia",
+      "raw": "Anemia",
+      "frequency": null
+    },
+    {
+      "name": "Pregnancy [Peripheral arteriovenous fistula]",
+      "raw": "Pregnancy",
+      "frequency": null,
+      "sites": [
+        "Peripheral arteriovenous fistula"
+      ]
+    },
+    {
+      "name": "PULMONARY VENOUS HYPERTENSION",
+      "raw": "PULMONARY VENOUS HYPERTENSION",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "OVERCIRCULATION =  shunt vascularity = arterial + venous overcirculation": [],
+    "L-R shunts": [],
+    "Admixture cyanotic lesions (b)  high-flow syndromes": [],
+    "Thyrotoxicosis": [],
+    "Anemia": [],
+    "Pregnancy [Peripheral arteriovenous fistula]": [],
+    "PULMONARY VENOUS HYPERTENSION": [
+      "diameter of right descending pulmonary artery larger than trachea just above aortic knob"
+    ]
+  },
+  "context": "√  diameter of right descending pulmonary artery larger than trachea just above aortic knob √  increased size of vessels (veins + arteries) larger than accompanying bronchus (= \"kissing cousin\" sign), best seen just above hila on AP view √  enlarged hilar vessels (lateral view) √  visualization of vessels below 10th posterior rib √  redistribution of flow (not seen in younger children) √  indistinctness of vessels with Kerley lines (= interstitial edema) √  fine reticulated pattern √  alveolar edema"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "PRIMARY ALDOSTERONISM",
+  "slug": "primary_aldosteronism",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF UROGENITAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_urogenital_disorders/primary_aldosteronism.md",
+  "definition": "inappropriate autonomous hypersecretion of aldosterone WITHOUT activation of renin- blood samples taken from IVC + both adrenal veins during infusion of adrenocorticotropic",
+  "demographics": {
+    "Frequency": "5-15% of unselected hypertensive patients",
+    "Age": "often found in patients < 40 years",
+    "Size": "< 2 cm (usually)"
+  },
+  "dominant_finding": "macronodule > 10 mm",
+  "distribution": "unilateral early uptake < 5 days = APA",
+  "discriminating_features": [
+    "enlargement of both adrenal glands",
+    "small adrenal nodule:",
+    "macronodule > 10 mm",
+    "micronodule < 10 mm",
+    "mean adrenal limb width ≥ 5 mm = BAH"
+  ],
+  "other_features": {
+    "general": [
+      "enlargement of both adrenal glands",
+      "small adrenal nodule:",
+      "macronodule > 10 mm",
+      "micronodule < 10 mm",
+      "mean adrenal limb width ≥ 5 mm = BAH",
+      "cortisol ratio of adrenal vein÷IVC > 2÷1",
+      "lateralization ratio = adrenal vein÷adrenal vein:",
+      "> 4 = aldosterone hypersecretion",
+      "< 3 = BAH",
+      "unilateral early uptake < 5 days = APA",
+      "symmetric early uptake < 5 days = BAH",
+      "symmetric late uptake > 5 days = normal"
+    ]
+  },
+  "clinical": {
+    "Rx": "adrenalectomy"
+  }
+}

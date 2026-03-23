@@ -1,0 +1,32 @@
+{
+  "name": "ULNAR COLLATERAL LIGAMENT TEAR",
+  "slug": "ulnar_collateral_ligament_tear",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/ulnar_collateral_ligament_tear.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "ossification within ulnar collateral ligament (UCL)",
+  "distribution": "",
+  "discriminating_features": [
+    "ossification within ulnar collateral ligament (UCL)",
+    "loose bodies",
+    "osteoarthritis of ulnohumeral articulation",
+    "osteochondritis dissecans of capitellum",
+    "excessive medial joint opening on stress radiographs"
+  ],
+  "other_features": {
+    "general": [
+      "ossification within ulnar collateral ligament (UCL)",
+      "loose bodies",
+      "osteoarthritis of ulnohumeral articulation",
+      "osteochondritis dissecans of capitellum",
+      "excessive medial joint opening on stress radiographs",
+      "laxity / discontinuity of UCL",
+      "increased signal intensity of UCL + surrounding tissues",
+      "poor definition of ligament margins"
+    ]
+  },
+  "clinical": {
+    "Rx": "rest, application of ice, NSAID, exercise, steroid injections; reconstruction of ligament"
+  }
+}

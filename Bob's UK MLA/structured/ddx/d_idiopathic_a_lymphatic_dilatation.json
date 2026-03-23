@@ -1,0 +1,167 @@
+{
+  "finding": "D. IDIOPATHIC (a) lymphatic dilatation",
+  "slug": "d_idiopathic_a_lymphatic_dilatation",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/d_idiopathic_a_lymphatic_dilatation.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphangiectasia",
+      "raw": "Lymphangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory process, tumor growth, irradiation fibrosis",
+      "raw": "Inflammatory process, tumor growth, irradiation fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Whipple disease (b)  cellular infiltration",
+      "raw": "Whipple disease (b)  cellular infiltration",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic enteritis",
+      "raw": "Eosinophilic enteritis",
+      "frequency": null
+    },
+    {
+      "name": "Mastocytosis (c)  deposits",
+      "raw": "Mastocytosis (c)  deposits",
+      "frequency": null
+    },
+    {
+      "name": "Zollinger-Ellison syndrome",
+      "raw": "Zollinger-Ellison syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Alpha chain disease: defective secretory IgA system",
+      "raw": "Alpha chain disease: defective secretory IgA system",
+      "frequency": null
+    },
+    {
+      "name": "A-β-lipoproteinemia: recessive, retinitis pigmentosa, neurologic disease",
+      "raw": "A-β-lipoproteinemia: recessive, retinitis pigmentosa, neurologic disease",
+      "frequency": null
+    },
+    {
+      "name": "A-α-lipoproteinemia",
+      "raw": "A-α-lipoproteinemia",
+      "frequency": null
+    },
+    {
+      "name": "Fibrocystic disease of the pancreas",
+      "raw": "Fibrocystic disease of the pancreas",
+      "frequency": null
+    },
+    {
+      "name": "Polyposis syndrome mnemonic:   G. WILLIAMS",
+      "raw": "Polyposis syndrome mnemonic:   G. WILLIAMS",
+      "frequency": null
+    },
+    {
+      "name": "Giardiasis",
+      "raw": "Giardiasis",
+      "frequency": null
+    },
+    {
+      "name": "Whipple disease, Waldenström macroglobulinemia",
+      "raw": "Whipple disease, Waldenström macroglobulinemia",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia",
+      "raw": "Ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiectasia",
+      "raw": "Lymphangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation",
+      "raw": "Inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis, Agammaglobulinemia",
+      "raw": "Amyloidosis, Agammaglobulinemia",
+      "frequency": null
+    },
+    {
+      "name": "Mastocytosis, Malabsorption",
+      "raw": "Mastocytosis, Malabsorption",
+      "frequency": null
+    },
+    {
+      "name": "Soft-tissue neoplasm: carcinoid, lipoma",
+      "raw": "Soft-tissue neoplasm: carcinoid, lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Tethered Folds",
+      "raw": "Tethered Folds",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative in Gardner syndrome",
+      "raw": "Postoperative in Gardner syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Retractile mesenteritis",
+      "raw": "Retractile mesenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Hodgkin disease",
+      "raw": "Hodgkin disease",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal implants",
+      "raw": "Peritoneal implants",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous peritonitis",
+      "raw": "Tuberculous peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Mesothelioma",
+      "raw": "Mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative adhesions",
+      "raw": "Postoperative adhesions",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  indicative of desmoplastic reaction √  kinking, angulation, tethering, separation of bowel loops"
+}

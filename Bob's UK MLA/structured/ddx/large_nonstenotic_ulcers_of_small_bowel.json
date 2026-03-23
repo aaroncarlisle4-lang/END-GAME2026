@@ -1,0 +1,42 @@
+{
+  "finding": "Large Nonstenotic Ulcers of Small Bowel",
+  "slug": "large_nonstenotic_ulcers_of_small_bowel",
+  "chapter": "Small Bowel Ulcer",
+  "source_file": "processed_clusters/small_bowel_ulcer/large_nonstenotic_ulcers_of_small_bowel.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary nonspecific ulcer  47%  incidence",
+      "raw": "Primary nonspecific ulcer  47%  incidence",
+      "frequency": "47%"
+    },
+    {
+      "name": "Yersiniosis  33%",
+      "raw": "Yersiniosis  33%",
+      "frequency": "33%"
+    },
+    {
+      "name": "Crohn disease  30%",
+      "raw": "Crohn disease  30%",
+      "frequency": "30%"
+    },
+    {
+      "name": "Tuberculosis  18%",
+      "raw": "Tuberculosis  18%",
+      "frequency": "18%"
+    },
+    {
+      "name": "Salmonellosis / shigellosis  7%",
+      "raw": "Salmonellosis / shigellosis  7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "Meckel diverticulum  5%",
+      "raw": "Meckel diverticulum  5%",
+      "frequency": "5%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

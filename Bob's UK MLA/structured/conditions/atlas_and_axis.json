@@ -1,0 +1,34 @@
+{
+  "name": "ATLAS AND AXIS",
+  "slug": "atlas_and_axis",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_skull_and_spine_disorders/atlas_and_axis.md",
+  "definition": "displacement of atlas with respect to axis ligamentous laxity in infants allows for movement of the vertebral bodies on each other,",
+  "demographics": {
+    "Location": "midline (97%); lateral through sulcus of vertebral artery (3%)"
+  },
+  "dominant_finding": "absence of arch-canal line (LAT view)",
+  "distribution": "midline (97%); lateral through sulcus of vertebral artery (3%)",
+  "discriminating_features": [
+    "absence of arch-canal line (LAT view)",
+    "superimposed on odontoid process / axis body simulating a fracture (open-mouth",
+    "plump rounded anterior arch overlapping the odontoid process making",
+    "duplicated anterior margins (LAT view)",
+    "unfused odontoid process > 12 years of age"
+  ],
+  "other_features": {
+    "general": [
+      "absence of arch-canal line (LAT view)",
+      "superimposed on odontoid process / axis body simulating a fracture (open-mouth",
+      "plump rounded anterior arch overlapping the odontoid process making",
+      "duplicated anterior margins (LAT view)",
+      "unfused odontoid process > 12 years of age",
+      "absence of odontoid process",
+      "anterior arch of atlas hypertrophic + situated too far posterior in relation to axis body",
+      "dislocation 8-10 days after onset of symptoms"
+    ]
+  },
+  "clinical": {
+    "Cx": "atlantoaxial instability"
+  }
+}

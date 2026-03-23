@@ -1,0 +1,42 @@
+{
+  "name": "COWDEN DISEASE",
+  "slug": "cowden_disease",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/cowden_disease.md",
+  "definition": "MULTIPLE HAMARTOMA-NEOPLASIA SYNDROME autosomal dominant disease with high penetrance characterized by multiple hamartomas +",
+  "demographics": {
+    "Prevalence": "160 cases reported",
+    "Age": "2nd decade",
+    "Associated with": "dysplastic cerebellar gangliocytoma"
+  },
+  "dominant_finding": "meningioma, glioma",
+  "distribution": "breast cancer (20-30%): often bilateral + ductal",
+  "discriminating_features": [
+    "meningioma, glioma",
+    "fibrocystic disease + fibroadenomas",
+    "breast cancer (20-30%): often bilateral + ductal",
+    "multiple hamartomatous polyps (in 30-60%, commonly in rectosigmoid)",
+    "adenomas + goiter"
+  ],
+  "other_features": {
+    "general": [],
+    "Mucocutaneous lesions": [
+      "meningioma, glioma"
+    ],
+    "Breast lesions (in 50%):": [
+      "fibrocystic disease + fibroadenomas",
+      "breast cancer (20-30%): often bilateral + ductal"
+    ],
+    "GI tract": [
+      "multiple hamartomatous polyps (in 30-60%, commonly in rectosigmoid)"
+    ],
+    "Thyroid abnormalities (in 60-70%):": [
+      "adenomas + goiter",
+      "follicular thyroid adenocarcinoma (3-4%)"
+    ],
+    "Genitourinary lesions": [
+      "multiple randomly distributed 1-6-mm hyperechoic avascular masses (= lipomatosis)"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "B. BENIGN (85-90%) (a) epithelial / mucosal tumor (50%",
+  "slug": "b_benign_85_90_a_epithelial_mucosal_tumor_50",
+  "chapter": "C. ENDOCRINE ORGANS",
+  "source_file": "processed_clusters/c_endocrine_organs/b_benign_85_90_a_epithelial_mucosal_tumor_50.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hyperplastic polyp",
+      "raw": "Hyperplastic polyp",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatous polyp",
+      "raw": "Adenomatous polyp",
+      "frequency": null
+    },
+    {
+      "name": "Brunner gland hyperplasia",
+      "raw": "Brunner gland hyperplasia (b)  mesenchymal tumor (50%)",
+      "frequency": "50%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

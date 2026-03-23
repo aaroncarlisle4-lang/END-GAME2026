@@ -1,0 +1,37 @@
+{
+  "finding": "C. BENIGN TUMOR",
+  "slug": "c_benign_tumor_1",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/c_benign_tumor_1.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Capillary hemangioma of infancy",
+      "raw": "Capillary hemangioma of infancy",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous hemangioma",
+      "raw": "Cavernous hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Extrapleural lipoma",
+      "raw": "Extrapleural lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoma Of Pancreas (DDx)",
+  "slug": "lymphoma_of_pancreas_ddx_1",
+  "chapter": "Lymphoma Of Pancreas",
+  "source_file": "processed_clusters/lymphoma_of_pancreas/lymphoma_of_pancreas_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "primary lymphoma (anterior displacement of pancreas",
+      "raw": "primary lymphoma (anterior displacement of pancreas",
+      "frequency": null
+    },
+    {
+      "name": "intact fat plane between pancreas + adjacent organs)",
+      "raw": "intact fat plane between pancreas + adjacent organs)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "envelopment of adjacent vessels WITHOUT vascular invasion / obstruction: | peripancreatic vessels displaced + stretched | uncommon dilatation of pancreatic + bile duct | direct extension from peripancreatic lymphadenopathy"
+}

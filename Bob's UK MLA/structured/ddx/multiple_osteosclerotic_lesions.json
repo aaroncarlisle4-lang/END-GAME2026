@@ -1,0 +1,62 @@
+{
+  "finding": "Multiple Osteosclerotic Lesions",
+  "slug": "multiple_osteosclerotic_lesions",
+  "chapter": "G. OTHERS",
+  "source_file": "processed_clusters/g_others/multiple_osteosclerotic_lesions.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "FAMILIAL",
+      "raw": "FAMILIAL",
+      "frequency": null
+    },
+    {
+      "name": "Osteopoikilosis",
+      "raw": "Osteopoikilosis",
+      "frequency": null
+    },
+    {
+      "name": "Enchondromatosis = Ollier disease",
+      "raw": "Enchondromatosis = Ollier disease",
+      "frequency": null
+    },
+    {
+      "name": "Melorheostosis",
+      "raw": "Melorheostosis",
+      "frequency": null
+    },
+    {
+      "name": "Multiple osteomas: associated with Gardner syndrome",
+      "raw": "Multiple osteomas: associated with Gardner syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Osteopetrosis",
+      "raw": "Osteopetrosis",
+      "frequency": null
+    },
+    {
+      "name": "Pyknodysostosis",
+      "raw": "Pyknodysostosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteopathia striata",
+      "raw": "Osteopathia striata",
+      "frequency": null
+    },
+    {
+      "name": "Chondrodystrophia calcificans congenita",
+      "raw": "Chondrodystrophia calcificans congenita",
+      "frequency": null
+    },
+    {
+      "name": "Multiple epiphyseal dysplasia = Fairbank disease",
+      "raw": "Multiple epiphyseal dysplasia = Fairbank disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Suprasellar Mass with Calcification",
+  "slug": "suprasellar_mass_with_calcification_875547",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/suprasellar_mass_with_calcification_875547.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "CURVILINEAR",
+      "raw": "CURVILINEAR",
+      "frequency": null
+    },
+    {
+      "name": "Giant carotid aneurysm",
+      "raw": "Giant carotid aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

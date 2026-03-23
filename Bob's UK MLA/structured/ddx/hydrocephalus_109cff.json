@@ -1,0 +1,87 @@
+{
+  "finding": "HYDROCEPHALUS",
+  "slug": "hydrocephalus_109cff",
+  "chapter": "HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS",
+  "source_file": "processed_clusters/hemophagocytic_lymphohistiocytosis/hydrocephalus_109cff.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Overproduction",
+      "raw": "Overproduction (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Impaired absorption",
+      "raw": "Impaired absorption",
+      "frequency": null
+    },
+    {
+      "name": "Blockage of CSF flow within ventricular system, cisterna magna, basilar cisterns, cerebral convexities",
+      "raw": "Blockage of CSF flow within ventricular system, cisterna magna, basilar cisterns, cerebral convexities",
+      "frequency": null
+    },
+    {
+      "name": "Blockage of arachnoid villi / lymphatic channels of cranial nerves, spinal nerves, adventitia of cerebral vessels",
+      "raw": "Blockage of arachnoid villi / lymphatic channels of cranial nerves, spinal nerves, adventitia of cerebral vessels",
+      "frequency": null
+    },
+    {
+      "name": "Aqueductal stenosis",
+      "raw": "Aqueductal stenosis (43%)",
+      "frequency": "43%"
+    },
+    {
+      "name": "Communicating hydrocephalus",
+      "raw": "Communicating hydrocephalus (38%)",
+      "frequency": "38%"
+    },
+    {
+      "name": "Dandy-Walker syndrome",
+      "raw": "Dandy-Walker syndrome (13%)",
+      "frequency": "13%"
+    },
+    {
+      "name": "Other anatomic lesions (6%):",
+      "raw": "Other anatomic lesions (6%):",
+      "frequency": "6%"
+    },
+    {
+      "name": "elevated amniotic α-fetoprotein level OB-US (assessment difficult prior to 20 weeks GA as ventricles ordinarily constitute a large portion of cranial vault):",
+      "raw": "elevated amniotic α-fetoprotein level OB-US (assessment difficult prior to 20 weeks GA as ventricles ordinarily constitute a large portion of cranial vault):",
+      "frequency": null
+    },
+    {
+      "name": "Neonatal death in 17%",
+      "raw": "Neonatal death in 17%",
+      "frequency": "17%"
+    },
+    {
+      "name": "Associated anomalies",
+      "raw": "Associated anomalies",
+      "frequency": null
+    },
+    {
+      "name": "Shift of midline",
+      "raw": "Shift of midline (porencephaly)",
+      "frequency": null
+    },
+    {
+      "name": "Head circumference > 50 cm",
+      "raw": "Head circumference > 50 cm",
+      "frequency": null
+    },
+    {
+      "name": "Absence of cortex",
+      "raw": "Absence of cortex (hydranencephaly)",
+      "frequency": null
+    },
+    {
+      "name": "Cortical thickness < 10 mm",
+      "raw": "Cortical thickness < 10 mm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  excess of CSF ← increased intraventricular pressure ← imbalance of CSF formation and absorption Pathophysiology: Signs of raised intracranial pressure (skull film): (a)  young infant / newborn √  increase in craniofacial ratio √  bulging of anterior fontanel √  sutural diastasis √  macrocephaly + frontal bossing √  \"beaten brass\" = \"hammered silver\" appearance = prominent digital impressions (wide range of normals in 4-10 years of age) (b)  adolescent / adult → changes in sella turcica: √  atrophy of anterior wall of dorsum sellae √  shortening of the dorsum sellae producing pointed appeara"
+}

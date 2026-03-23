@@ -1,0 +1,27 @@
+{
+  "name": "UTRICLE CYST",
+  "slug": "utricle_cyst",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/utricle_cyst.md",
+  "definition": "dilatation of prostatic utricle (sometimes believed to be a remnant of the müllerian duct)",
+  "demographics": {
+    "Prevalence": "1-5% of general population",
+    "Age": "1st-2nd decade",
+    "Location": "arise in midline from verumontanum"
+  },
+  "dominant_finding": "usually 8-10-mm long pear-shaped cyst posterior to urethra",
+  "distribution": "arise in midline from verumontanum",
+  "discriminating_features": [
+    "usually 8-10-mm long pear-shaped cyst posterior to urethra",
+    "NO extension above base of prostate (DDx: müllerian duct cyst, usually larger with extension"
+  ],
+  "other_features": {
+    "general": [
+      "usually 8-10-mm long pear-shaped cyst posterior to urethra",
+      "NO extension above base of prostate (DDx: müllerian duct cyst, usually larger with extension"
+    ]
+  },
+  "clinical": {
+    "Cx": "recurrent epididymitis, hematospermia, carcinomatous metaplasia"
+  }
+}

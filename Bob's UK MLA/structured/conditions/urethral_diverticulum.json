@@ -1,0 +1,39 @@
+{
+  "name": "URETHRAL DIVERTICULUM",
+  "slug": "urethral_diverticulum",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/urethral_diverticulum.md",
+  "definition": "protrusion of urethra into periurethral fascia",
+  "demographics": {
+    "Prevalence": "0.6-6% of women",
+    "Age": "26-74 years; 6 x more common in black women (?)",
+    "Histo": "same as urethral mucosa"
+  },
+  "dominant_finding": "cystic T2-hyperintense lesion with various degrees of extensions around the",
+  "distribution": "",
+  "discriminating_features": [
+    "rounded / elongated sac connected to urethra",
+    "cystic T2-hyperintense lesion with various degrees of extensions around the",
+    "oval / U-shaped \"saddlebag\" / circumferential",
+    "single / multiple",
+    "unilocular / multiseptated"
+  ],
+  "other_features": {
+    "general": [
+      "rounded / elongated sac connected to urethra"
+    ],
+    "US": [
+      "echogenic focus with distinct acoustic shadow ← stone"
+    ],
+    "MR": [
+      "cystic T2-hyperintense lesion with various degrees of extensions around the",
+      "oval / U-shaped \"saddlebag\" / circumferential",
+      "single / multiple",
+      "unilocular / multiseptated",
+      "narrow / wide neck",
+      "heterogeneous hyperintense signal compared with urine on T1WI if content is",
+      "fluid-fluid level on T2WI if inflammation present"
+    ]
+  },
+  "clinical": {}
+}

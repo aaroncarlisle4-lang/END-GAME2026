@@ -1,0 +1,22 @@
+{
+  "finding": "Neonatal Intracranial Hemorrhage (DDx)",
+  "slug": "neonatal_intracranial_hemorrhage_ddx_2",
+  "chapter": "Neonatal Intracranial Hemorrhage",
+  "source_file": "processed_clusters/neonatal_intracranial_hemorrhage/neonatal_intracranial_hemorrhage_ddx_2.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "choroid plexus (attached to inferomedial aspect of ventricular floor",
+      "raw": "choroid plexus (attached to inferomedial aspect of ventricular floor",
+      "frequency": null
+    },
+    {
+      "name": "tapers",
+      "raw": "tapers",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-defined ovoid area of increased echogenicity (= fibrin mesh within clot) | bulbous enlargement of caudothalamic groove anterior to termination of choroid"
+}

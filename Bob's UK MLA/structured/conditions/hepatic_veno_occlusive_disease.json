@@ -1,0 +1,25 @@
+{
+  "name": "HEPATIC VENO-OCCLUSIVE DISEASE",
+  "slug": "hepatic_veno_occlusive_disease",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/hepatic_veno_occlusive_disease.md",
+  "definition": "occlusion of small centrilobular veins without involvement of major hepatic veins",
+  "demographics": {
+    "Etiology": "radiation and chemotherapy in bone-marrow transplant patients; bush tea (alkaloid)"
+  },
+  "dominant_finding": "main hepatic veins + IVC normal",
+  "distribution": "main hepatic veins + IVC normal",
+  "discriminating_features": [
+    "main hepatic veins + IVC normal",
+    "bidirectional / reversed portal venous flow",
+    "gallbladder wall thickening"
+  ],
+  "other_features": {
+    "general": [
+      "main hepatic veins + IVC normal",
+      "bidirectional / reversed portal venous flow",
+      "gallbladder wall thickening"
+    ]
+  },
+  "clinical": {}
+}

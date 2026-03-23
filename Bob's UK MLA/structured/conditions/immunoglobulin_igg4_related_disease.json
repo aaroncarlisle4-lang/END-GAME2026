@@ -1,0 +1,28 @@
+{
+  "name": "IMMUNOGLOBULIN IGG4-RELATED DISEASE",
+  "slug": "immunoglobulin_igg4_related_disease",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/immunoglobulin_igg4_related_disease.md",
+  "definition": "IGG4-RELATED SCLEROSING DISEASE (ISD) = HYPER-IGG4 DISEASE = systemic disease with multiorgan involvement and elevated IgG4 levels",
+  "demographics": {
+    "Histo": "diffuse lymphoplasmacytic infiltration (by T-lymphocytes and plasma cells staining"
+  },
+  "dominant_finding": "intermediate soft-tissue attenuation",
+  "distribution": "",
+  "discriminating_features": [
+    "intermediate soft-tissue attenuation",
+    "low T1 signal intensity (= isointense to muscle)",
+    "homogeneous low to intermediate SI on T2WI ← increased cellularity + fibrosis"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "intermediate soft-tissue attenuation"
+    ],
+    "MR": [
+      "low T1 signal intensity (= isointense to muscle)",
+      "homogeneous low to intermediate SI on T2WI ← increased cellularity + fibrosis"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "E. TRAUMA",
+  "slug": "e_trauma_1_ca3791",
+  "chapter": "D. DEGENERATIVE",
+  "source_file": "processed_clusters/d_degenerative/e_trauma_1_ca3791.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Retinopathy of prematurity 5-13%",
+      "raw": "Retinopathy of prematurity 5-13%",
+      "frequency": "13%"
+    },
+    {
+      "name": "Organized vitreous hemorrhage",
+      "raw": "Organized vitreous hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Long-standing retinal detachment",
+      "raw": "Long-standing retinal detachment",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

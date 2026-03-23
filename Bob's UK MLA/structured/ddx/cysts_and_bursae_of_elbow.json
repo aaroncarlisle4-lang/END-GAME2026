@@ -1,0 +1,47 @@
+{
+  "finding": "Cysts and Bursae of Elbow",
+  "slug": "cysts_and_bursae_of_elbow",
+  "chapter": "ELBOW",
+  "source_file": "processed_clusters/elbow/cysts_and_bursae_of_elbow.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Olecranon bursa",
+      "raw": "Olecranon bursa",
+      "frequency": null
+    },
+    {
+      "name": "Medial + lateral epicondylar bursa",
+      "raw": "Medial + lateral epicondylar bursa",
+      "frequency": null
+    },
+    {
+      "name": "Cubital tunnel bursa",
+      "raw": "Cubital tunnel bursa",
+      "frequency": null
+    },
+    {
+      "name": "Biceps tendon bursa (a)  Bicipitoradial bursa",
+      "raw": "Biceps tendon bursa (a)  Bicipitoradial bursa",
+      "frequency": null
+    },
+    {
+      "name": "posterior interosseous nerve compression (b)  Interosseous bursa",
+      "raw": "posterior interosseous nerve compression (b)  Interosseous bursa",
+      "frequency": null
+    },
+    {
+      "name": "median nerve compression",
+      "raw": "median nerve compression",
+      "frequency": null
+    },
+    {
+      "name": "Ganglion",
+      "raw": "Ganglion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   lateral to biceps insertion Location:   medial to biceps insertion"
+}

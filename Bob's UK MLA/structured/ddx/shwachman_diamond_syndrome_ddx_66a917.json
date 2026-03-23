@@ -1,0 +1,27 @@
+{
+  "finding": "Shwachman-Diamond Syndrome (DDx)",
+  "slug": "shwachman_diamond_syndrome_ddx_66a917",
+  "chapter": "Shwachman-Diamond Syndrome",
+  "source_file": "processed_clusters/shwachman_diamond_syndrome/shwachman_diamond_syndrome_ddx_66a917.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cystic fibrosis (pancreatic calcifications",
+      "raw": "cystic fibrosis (pancreatic calcifications",
+      "frequency": null
+    },
+    {
+      "name": "cyst formation",
+      "raw": "cyst formation",
+      "frequency": null
+    },
+    {
+      "name": "abnormal sweat test)",
+      "raw": "abnormal sweat test)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "total fatty replacement of pancreas | metaphyseal chondrodysplasia resulting in dwarfism"
+}

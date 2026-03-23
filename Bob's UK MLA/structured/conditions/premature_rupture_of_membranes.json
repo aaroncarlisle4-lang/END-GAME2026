@@ -1,0 +1,27 @@
+{
+  "name": "PREMATURE RUPTURE OF MEMBRANES",
+  "slug": "premature_rupture_of_membranes",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/premature_rupture_of_membranes.md",
+  "definition": "spontaneous rupture of chorioamnionic membranes before the onset of labor",
+  "demographics": {
+    "Prevalence": "overall 2.1-17.1%; PPROM 0.9-4.4%;"
+  },
+  "dominant_finding": "blood in cervix / vagina ←signs of impending / ongoing spontaneous abortion",
+  "distribution": "",
+  "discriminating_features": [
+    "decrease in the amount of amniotic fluid",
+    "products of conception low-lying / in cervix",
+    "blood in cervix / vagina ←signs of impending / ongoing spontaneous abortion"
+  ],
+  "other_features": {
+    "general": [
+      "decrease in the amount of amniotic fluid"
+    ],
+    "CT": [
+      "products of conception low-lying / in cervix",
+      "blood in cervix / vagina ←signs of impending / ongoing spontaneous abortion"
+    ]
+  },
+  "clinical": {}
+}

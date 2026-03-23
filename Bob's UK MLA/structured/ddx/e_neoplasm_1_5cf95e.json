@@ -1,0 +1,27 @@
+{
+  "finding": "E. NEOPLASM",
+  "slug": "e_neoplasm_1_5cf95e",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/e_neoplasm_1_5cf95e.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastases: often nodular appearance; may be obscured by effusion",
+      "raw": "Metastases: often nodular appearance; may be obscured by effusion",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse malignant mesothelioma",
+      "raw": "Diffuse malignant mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Pancoast tumor",
+      "raw": "Pancoast tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

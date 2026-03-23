@@ -1,0 +1,42 @@
+{
+  "finding": "SILICOSIS",
+  "slug": "silicosis",
+  "chapter": "SIDEROSIS",
+  "source_file": "processed_clusters/siderosis/silicosis.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute silicosis = alveolar silicoproteinosis",
+      "raw": "Acute silicosis = alveolar silicoproteinosis",
+      "frequency": null
+    },
+    {
+      "name": "Classic silicosis = chronic interstitial reticulonodular",
+      "raw": "Classic silicosis = chronic interstitial reticulonodular",
+      "frequency": null
+    },
+    {
+      "name": "Exposure time:   as short as 6-8 months",
+      "raw": "Exposure time:   as short as 6-8 months",
+      "frequency": null
+    },
+    {
+      "name": "Associated with:   increased risk to develop autoimmune disease",
+      "raw": "Associated with:   increased risk to develop autoimmune disease",
+      "frequency": null
+    },
+    {
+      "name": "Distribution:   lung periphery; predominantly lower lung zones; bilateral",
+      "raw": "Distribution:   lung periphery; predominantly lower lung zones; bilateral",
+      "frequency": null
+    },
+    {
+      "name": "intermittently positive sputa",
+      "raw": "intermittently positive sputa",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  inhalation of crystalline silicon dioxide (= silica, one of the most widespread elements on earth); most prevalent silicosis of progressive nature after termination of exposure; similar to CWP (because of silica component in CWP) Substance:   crystalline silica (quartz); tridymite / cristbalite (less fibrogenic) Occupational exposure: tunneling, mining, quarrying, stone cutting, polishing, glass manufacturing, foundry work, sandblasting, pottery, brick lining, boiler scaling, vitreous enameling, ceramic industry Dust deposition:   dependent on (a)  airflow: deposition of 1-5-µm particles pr"
+}

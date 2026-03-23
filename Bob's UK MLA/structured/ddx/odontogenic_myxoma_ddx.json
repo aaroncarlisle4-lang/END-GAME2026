@@ -1,0 +1,32 @@
+{
+  "finding": "Odontogenic Myxoma (DDx)",
+  "slug": "odontogenic_myxoma_ddx",
+  "chapter": "Odontogenic Myxoma",
+  "source_file": "processed_clusters/odontogenic_myxoma/odontogenic_myxoma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "malignancy",
+      "raw": "malignancy",
+      "frequency": null
+    },
+    {
+      "name": "traumatic bone cyst",
+      "raw": "traumatic bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "central giant cell granuloma",
+      "raw": "central giant cell granuloma",
+      "frequency": null
+    },
+    {
+      "name": "calcifying epithelial odontogenic tumor",
+      "raw": "calcifying epithelial odontogenic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-demarcated / ill-defined lytic lesion of varying size | often multilocular + honeycomb-like internal osseous trabeculae | foci of irregular calcifications (frequent)"
+}

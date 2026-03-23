@@ -1,0 +1,36 @@
+{
+  "name": "PANCREATIC LIPOMATOSIS",
+  "slug": "pancreatic_lipomatosis",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/pancreatic_lipomatosis.md",
+  "definition": "FATTY REPLACEMENT = FATTY INFILTRATION deposition of fat cells in pancreatic parenchyma sparing of fatty change in pancreatic head + uncinate process (ventral pancreatic anlage) as",
+  "demographics": {
+    "Histo": "ventral pancreatic anlage has smaller + more densely packed acini with scanty / absent"
+  },
+  "dominant_finding": "\"marbling\" of pancreatic parenchyma / total fatty replacement / lipomatous",
+  "distribution": "increase in AP diameter of pancreatic head with focal fatty replacement = lipomatous",
+  "discriminating_features": [
+    "fatty replacement often uneven:",
+    "increase in AP diameter of pancreatic head with focal fatty replacement = lipomatous",
+    "prominently lobulated external contour",
+    "\"marbling\" of pancreatic parenchyma / total fatty replacement / lipomatous",
+    "absence of mass effect or ductal / vascular displacement"
+  ],
+  "other_features": {
+    "general": [
+      "fatty replacement often uneven:",
+      "increase in AP diameter of pancreatic head with focal fatty replacement = lipomatous",
+      "prominently lobulated external contour"
+    ],
+    "US": [
+      "increased pancreatic echogenicity",
+      "rounded / triangular hypoechoic area within pancreatic head / uncinate process +"
+    ],
+    "CT": [
+      "\"marbling\" of pancreatic parenchyma / total fatty replacement / lipomatous",
+      "absence of mass effect or ductal / vascular displacement",
+      "higher-density region in pancreatic head + uncinate process with diffusely decreased"
+    ]
+  },
+  "clinical": {}
+}

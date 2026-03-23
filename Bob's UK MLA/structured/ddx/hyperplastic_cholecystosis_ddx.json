@@ -1,0 +1,42 @@
+{
+  "finding": "Hyperplastic Cholecystosis (DDx)",
+  "slug": "hyperplastic_cholecystosis_ddx",
+  "chapter": "Hyperplastic Cholecystosis",
+  "source_file": "processed_clusters/hyperplastic_cholecystosis/hyperplastic_cholecystosis_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "polyposis",
+      "raw": "polyposis",
+      "frequency": null
+    },
+    {
+      "name": "papillomatosis",
+      "raw": "papillomatosis",
+      "frequency": null
+    },
+    {
+      "name": "adenoma",
+      "raw": "adenoma",
+      "frequency": null
+    },
+    {
+      "name": "cystadenoma",
+      "raw": "cystadenoma",
+      "frequency": null
+    },
+    {
+      "name": "gallbladder carcinoma",
+      "raw": "gallbladder carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"pearl necklace\" sign = multiple round spaces in curvilinear intramural arrangement on | signal voids of intramural calculi (crystals) | smooth sessile mass in GB fundus | \"hourglass\" configuration of GB with transverse congenital septum"
+}

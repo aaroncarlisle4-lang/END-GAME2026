@@ -1,0 +1,32 @@
+{
+  "name": "MEDULLARY CYSTIC DISEASE",
+  "slug": "medullary_cystic_disease",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/medullary_cystic_disease.md",
+  "definition": "NEPHRONOPHTHISIS autosomal dominant salt-wasting nephropathy characterized by multiple medullary cysts +",
+  "demographics": {
+    "Genetics": "mutations in > 13 different recessive genes → ciliary dysfunction",
+    "Path": "tubulointerstitial fibrosis → small kidneys with 1.0-1.5 cm corticomedullary cysts (in",
+    "Histo": "variable number of medullary cysts (100 µm to 2 cm) + progressive periglomerular and"
+  },
+  "dominant_finding": "smoothly contoured kidneys with thin cortex",
+  "distribution": "poor opacification of renal collecting system",
+  "discriminating_features": [
+    "smoothly contoured kidneys with thin cortex",
+    "poor opacification of renal collecting system",
+    "\"medullary nephrogram\" = medullary striations persistent for up to 2 hours; occasionally",
+    "communication between collecting system + cysts",
+    "increased parenchymal echogenicity + poor corticomedullary differentiation"
+  ],
+  "other_features": {
+    "general": [
+      "smoothly contoured kidneys with thin cortex",
+      "poor opacification of renal collecting system",
+      "\"medullary nephrogram\" = medullary striations persistent for up to 2 hours; occasionally",
+      "communication between collecting system + cysts",
+      "increased parenchymal echogenicity + poor corticomedullary differentiation",
+      "multiple small medullary / corticomedullary cysts (70%) (secondary feature NOT essential"
+    ]
+  },
+  "clinical": {}
+}

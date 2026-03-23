@@ -1,0 +1,35 @@
+{
+  "finding": "A. DORSAL INDUCTION ANOMALY = defects of neural tube closure",
+  "slug": "a_dorsal_induction_anomaly_defects_of_neural_tube_closure",
+  "chapter": "CLASSIFICATION OF CNS ANOMALIES",
+  "source_file": "processed_clusters/classification_of_cns_anomalies/a_dorsal_induction_anomaly_defects_of_neural_tube_closure.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Anencephaly",
+      "raw": "Anencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Cephalocele at 4 weeks",
+      "raw": "Cephalocele at 4 weeks",
+      "frequency": null
+    },
+    {
+      "name": "Chiari malformation at 4 weeks [Spinal dysraphism]",
+      "raw": "Chiari malformation at 4 weeks",
+      "frequency": null,
+      "sites": [
+        "Spinal dysraphism"
+      ]
+    },
+    {
+      "name": "Hydromyelia",
+      "raw": "Hydromyelia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

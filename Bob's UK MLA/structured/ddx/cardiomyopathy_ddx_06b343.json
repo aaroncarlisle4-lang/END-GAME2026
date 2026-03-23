@@ -1,0 +1,33 @@
+{
+  "finding": "Cardiomyopathy (DDx)",
+  "slug": "cardiomyopathy_ddx_06b343",
+  "chapter": "Cardiomyopathy",
+  "source_file": "processed_clusters/cardiomyopathy/cardiomyopathy_ddx_06b343.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "CAD",
+      "raw": "CAD",
+      "frequency": null
+    },
+    {
+      "name": "myocarditis",
+      "raw": "myocarditis",
+      "frequency": null
+    },
+    {
+      "name": "cardiac sarcoidosis",
+      "raw": "cardiac sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "CAD": [],
+    "myocarditis": [],
+    "cardiac sarcoidosis": [
+      "myocardial wall thinning (= diastolic wall thickness < 5.5.mm) | increase in myocardial mass | mitral / tricuspid regurgitation, atrial enlargement | intracardiac thrombus"
+    ]
+  },
+  "context": "myocardial wall thinning (= diastolic wall thickness < 5.5.mm) | increase in myocardial mass | mitral / tricuspid regurgitation, atrial enlargement | intracardiac thrombus"
+}

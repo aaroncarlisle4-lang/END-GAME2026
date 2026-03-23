@@ -1,0 +1,32 @@
+{
+  "finding": "A. CONGENITAL",
+  "slug": "a_congenital_3_38611a",
+  "chapter": "D. INHALATION",
+  "source_file": "processed_clusters/d_inhalation/a_congenital_3_38611a.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Multiple bronchogenic cysts",
+      "raw": "Multiple bronchogenic cysts",
+      "frequency": null
+    },
+    {
+      "name": "Intralobar sequestration:",
+      "raw": "Intralobar sequestration:",
+      "frequency": null
+    },
+    {
+      "name": "Congenital cystic adenomatoid malformation (CCAM) type I",
+      "raw": "Congenital cystic adenomatoid malformation (CCAM) type I",
+      "frequency": null
+    },
+    {
+      "name": "Diaphragmatic hernia",
+      "raw": "Diaphragmatic hernia (congenital / traumatic)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multicystic structure in lower lobes"
+}

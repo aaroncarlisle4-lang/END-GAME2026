@@ -1,0 +1,42 @@
+{
+  "finding": "E. HEART DISEASE",
+  "slug": "e_heart_disease",
+  "chapter": "B. HYPERTROPHIED GASTRIC RUGAE",
+  "source_file": "processed_clusters/b_hypertrophied_gastric_rugae/e_heart_disease.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Constrictive pericarditis",
+      "raw": "Constrictive pericarditis",
+      "frequency": null
+    },
+    {
+      "name": "Tricuspid insufficiency",
+      "raw": "Tricuspid insufficiency",
+      "frequency": null
+    },
+    {
+      "name": "PRIMARY MALABSORPTION =  the digestive abnormality is the only abnormality present",
+      "raw": "PRIMARY MALABSORPTION =  the digestive abnormality is the only abnormality present",
+      "frequency": null
+    },
+    {
+      "name": "Celiac disease = nontropical sprue",
+      "raw": "Celiac disease = nontropical sprue",
+      "frequency": null
+    },
+    {
+      "name": "Tropical sprue",
+      "raw": "Tropical sprue",
+      "frequency": null
+    },
+    {
+      "name": "Disaccharidase deficiencies",
+      "raw": "Disaccharidase deficiencies",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Malabsorption =  deficient absorption of any essential food materials within small bowel"
+}

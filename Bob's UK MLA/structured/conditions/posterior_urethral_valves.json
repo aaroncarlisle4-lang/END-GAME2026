@@ -1,0 +1,43 @@
+{
+  "name": "POSTERIOR URETHRAL VALVES",
+  "slug": "posterior_urethral_valves",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/posterior_urethral_valves.md",
+  "definition": "congenital thick folds of mucous membrane located in posterior urethra (prostatic +",
+  "demographics": {
+    "Prevalence": "1÷5,000 to 1÷8,000 boys; most common cause of urinary tract obstruction +"
+  },
+  "dominant_finding": "male gender",
+  "distribution": "fusiform distension + elongation of proximal posterior urethra persisting throughout voiding",
+  "discriminating_features": [
+    "vesicoureteral reflux, mainly on left side (in 33%)",
+    "fusiform distension + elongation of proximal posterior urethra persisting throughout voiding",
+    "transverse / curvilinear filling defect in posterior urethra",
+    "diminution of urethral caliber distal to severe obstruction",
+    "hypertrophy of bladder neck"
+  ],
+  "other_features": {
+    "general": [
+      "vesicoureteral reflux, mainly on left side (in 33%)",
+      "fusiform distension + elongation of proximal posterior urethra persisting throughout voiding",
+      "transverse / curvilinear filling defect in posterior urethra",
+      "diminution of urethral caliber distal to severe obstruction",
+      "hypertrophy of bladder neck",
+      "trabeculation + sacculation of bladder wall",
+      "large postvoid bladder residual"
+    ],
+    "US": [
+      "male gender",
+      "oligohydramnios (related to severity + duration of obstruction)",
+      "hypoplastic / multicystic dysplastic kidney (if early occurrence)",
+      "bilateral hydroureteronephrosis → pulmonary hypoplasia",
+      "dilated renal pelvis may be absent in renal dysplasia / rupture of bladder / pelviureteral",
+      "overdistended urinary bladder (= megacystis) in 30%",
+      "thick-walled urinary bladder + trabeculations (best seen after decompression)",
+      "urine leak: urinoma, urine ascites, urothorax",
+      "\"pear / keyhole\" bladder = thick-walled bladder + dilated posterior urethra (on perineal",
+      "dilated utricle (perineal scan)"
+    ]
+  },
+  "clinical": {}
+}

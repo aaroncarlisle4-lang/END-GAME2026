@@ -1,0 +1,152 @@
+{
+  "finding": "HEMOCHROMATOSIS",
+  "slug": "hemochromatosis_2ea81f",
+  "chapter": "GALLBLADDER TORSION",
+  "source_file": "processed_clusters/gallbladder_torsion/hemochromatosis_2ea81f.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lab tests (of low sensitivity + specificity):",
+      "raw": "Lab tests (of low sensitivity + specificity):",
+      "frequency": null
+    },
+    {
+      "name": "↑ ferritin level; ↑ transferrin saturation index",
+      "raw": "↑ ferritin level; ↑ transferrin saturation index",
+      "frequency": null
+    },
+    {
+      "name": "Clinically silent disease often first uncovered by imaging",
+      "raw": "Clinically silent disease often first uncovered by imaging",
+      "frequency": null
+    },
+    {
+      "name": "Monitor effectiveness of clinical treatment noninvasively",
+      "raw": "Monitor effectiveness of clinical treatment noninvasively",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic during 1st decade of disease",
+      "raw": "asymptomatic during 1st decade of disease",
+      "frequency": null
+    },
+    {
+      "name": "symptomatic in 80-90% if iron deposits > 10 g",
+      "raw": "symptomatic in 80-90% if iron deposits > 10 g",
+      "frequency": "90%"
+    },
+    {
+      "name": "hyperpigmentation = bronzing of skin",
+      "raw": "hyperpigmentation = bronzing of skin (90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "hepatomegaly",
+      "raw": "hepatomegaly (90%); arthralgias (50%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "diabetes mellitus",
+      "raw": "diabetes mellitus (30%); CHF + arrhythmia (15%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "low serum testosterone → decreased libido, impotence",
+      "raw": "low serum testosterone → decreased libido, impotence",
+      "frequency": null
+    },
+    {
+      "name": "fatigue, amenorrhea, loss of body hair, testicular atrophy",
+      "raw": "fatigue, amenorrhea, loss of body hair, testicular atrophy",
+      "frequency": null
+    },
+    {
+      "name": "liver iron index > 2",
+      "raw": "liver iron index > 2 (= liver iron concentration [µmol per gram of dry weight] per patient's age)",
+      "frequency": null
+    },
+    {
+      "name": "serum Fe > 300 mg/dL; serum transferrin saturation > 50%",
+      "raw": "serum Fe > 300 mg/dL; serum transferrin saturation > 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "hypopituitarism, hypogonadism ← gonadotroph malfunction",
+      "raw": "hypopituitarism, hypogonadism ← gonadotroph malfunction",
+      "frequency": null
+    },
+    {
+      "name": "arrhythmia",
+      "raw": "arrhythmia",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma (14-36%)",
+      "frequency": "36%"
+    },
+    {
+      "name": "Insulin-dependent diabetes mellitus (30-60%) ← insulin resistance by hepatocytes + damage of pancreatic β-cell ← iron deposition",
+      "raw": "Insulin-dependent diabetes mellitus (30-60%) ← insulin resistance by hepatocytes + damage of pancreatic β-cell ← iron deposition",
+      "frequency": "60%"
+    },
+    {
+      "name": "Hypoparathyroidism",
+      "raw": "Hypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Thalassemia",
+      "raw": "Thalassemia",
+      "frequency": null
+    },
+    {
+      "name": "Congenital dyserythropoietic anemia",
+      "raw": "Congenital dyserythropoietic anemia",
+      "frequency": null
+    },
+    {
+      "name": "Sideroblastic anemia ← impaired protoporphyrin production ◊  NOT in sickle cell anemia",
+      "raw": "Sideroblastic anemia ← impaired protoporphyrin production ◊  NOT in sickle cell anemia",
+      "frequency": null
+    },
+    {
+      "name": "Transfusional siderosis",
+      "raw": "Transfusional siderosis (see below)",
+      "frequency": null
+    },
+    {
+      "name": "Iron overload siderosis ›  secondary to ↑ in iron absorption",
+      "raw": "Iron overload siderosis ›  secondary to ↑ in iron absorption",
+      "frequency": null
+    },
+    {
+      "name": "Alcoholic hepatitis",
+      "raw": "Alcoholic hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Hepatitis C",
+      "raw": "Hepatitis C",
+      "frequency": null
+    },
+    {
+      "name": "Cirrhosis ›  excessive ingestion",
+      "raw": "Cirrhosis ›  excessive ingestion",
+      "frequency": null
+    },
+    {
+      "name": "Bantu siderosis = excessive dietary iron from food preparation in iron containers",
+      "raw": "Bantu siderosis = excessive dietary iron from food preparation in iron containers (Kaffir beer)",
+      "frequency": null
+    },
+    {
+      "name": "abnormal iron deposition in RES is clinically of little significance",
+      "raw": "abnormal iron deposition in RES is clinically of little significance (NO damage of affected organs)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  pathologic state of intracellular iron accumulation / excess iron deposition in various parenchymal organs (liver, pancreas, spleen, kidneys, heart) leading to cirrhosis with portal hypertension Role of imaging: NECT (63% sensitive + 96% specific in iron overload): √  diffuse / rarely focal increase in liver density (> 72 HU) √  depiction of portal + hepatic veins against background of hyperattenuating liver √  dual energy CT (at 80 + 120 kVp) can quantitate amount of iron deposition ◊  Superimposed steatosis reduces sensitivity! ◊  Wilson disease, colloidal gold treatment, long-term amioda"
+}

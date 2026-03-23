@@ -1,0 +1,27 @@
+{
+  "finding": "Chronic Diffuse Confluent Opacities",
+  "slug": "chronic_diffuse_confluent_opacities_68d2fd",
+  "chapter": "Segmental & Lobar Densities",
+  "source_file": "processed_clusters/segmental_lobar_densities/chronic_diffuse_confluent_opacities_68d2fd.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Alveolar proteinosis",
+      "raw": "Alveolar proteinosis",
+      "frequency": null
+    },
+    {
+      "name": "Hemosiderosis",
+      "raw": "Hemosiderosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

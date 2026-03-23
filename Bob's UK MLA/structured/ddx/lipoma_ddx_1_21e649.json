@@ -1,0 +1,22 @@
+{
+  "finding": "Lipoma (DDx)",
+  "slug": "lipoma_ddx_1_21e649",
+  "chapter": "Lipoma",
+  "source_file": "processed_clusters/lipoma/lipoma_ddx_1_21e649.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lipomatosis of ileocecal valve (more common",
+      "raw": "lipomatosis of ileocecal valve (more common",
+      "frequency": "common"
+    },
+    {
+      "name": "symmetric enlargement of valve)",
+      "raw": "symmetric enlargement of valve)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-circumscribed spheric / ovoid subepithelial mass of uniform fat density (-20 to -120 | density increases with inflammation ← ulceration | high fat SI on all sequences | loss of SI on fat-suppressed images"
+}

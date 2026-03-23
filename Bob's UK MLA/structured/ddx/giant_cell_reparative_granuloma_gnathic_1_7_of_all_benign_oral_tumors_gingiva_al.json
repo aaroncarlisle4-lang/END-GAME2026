@@ -1,0 +1,43 @@
+{
+  "finding": "Giant Cell Reparative Granuloma — Gnathic (1-7% of all benign oral tumors): gingiva + alveolar mucosa of mandible, maxilla (DDx)",
+  "slug": "giant_cell_reparative_granuloma_gnathic_1_7_of_all_benign_oral_tumors_gingiva_al",
+  "chapter": "Giant Cell Reparative Granuloma",
+  "source_file": "processed_clusters/giant_cell_reparative_granuloma/giant_cell_reparative_granuloma_gnathic_1_7_of_all_benign_oral_tumors_gingiva_al.md",
+  "quality_score": 0.75,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "indistinguishable from odontogenic cyst",
+      "raw": "indistinguishable from odontogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "ABC",
+      "raw": "ABC",
+      "frequency": null
+    },
+    {
+      "name": "ameloblastoma",
+      "raw": "ameloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "odontogenic myxoma",
+      "raw": "odontogenic myxoma",
+      "frequency": null
+    },
+    {
+      "name": "odontogenic fibroma",
+      "raw": "odontogenic fibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "indistinguishable from odontogenic cyst": [],
+    "ABC": [],
+    "ameloblastoma": [],
+    "odontogenic myxoma": [],
+    "odontogenic fibroma": []
+  },
+  "context": "expansile bone remodeling with multilocular appearance | thinned usually intact cortex"
+}

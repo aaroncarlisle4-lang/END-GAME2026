@@ -1,0 +1,38 @@
+{
+  "name": "CHOLESTEROL GRANULOMA",
+  "slug": "cholesterol_granuloma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/cholesterol_granuloma.md",
+  "definition": "CHOLESTEROL CYST acquired benign chronic inflammatory mass in petrous bone",
+  "demographics": {
+    "Histo": "cholesterol crystals surrounded by foreign-body giant cells; embedded in fibrous",
+    "Location": "in pneumatized petrous apex; (occasionally in)mastoid segment, middle ear,"
+  },
+  "dominant_finding": "nonenhancing mass",
+  "distribution": "in pneumatized petrous apex; (occasionally in)mastoid segment, middle ear,",
+  "discriminating_features": [
+    "bone gaps ← bone remodeling",
+    "ossicles remain intact",
+    "NO enhancement",
+    "expansile homogeneous middle ear lesion with smooth well-defined / imperceptible bone",
+    "nonenhancing mass"
+  ],
+  "other_features": {
+    "general": [
+      "bone gaps ← bone remodeling",
+      "ossicles remain intact",
+      "NO enhancement"
+    ],
+    "CT": [
+      "expansile homogeneous middle ear lesion with smooth well-defined / imperceptible bone",
+      "nonenhancing mass"
+    ],
+    "MR": [
+      "hyperintense signal on T1WI ← methemoglobin",
+      "heterogeneously hyperintense signal on T2WI ← cholesterol crystals + methemoglobin",
+      "remains hyperintense with fat-suppression",
+      "± hypointense rim on T2WI ← hemosiderin deposition / preserved rim of bone"
+    ]
+  },
+  "clinical": {}
+}

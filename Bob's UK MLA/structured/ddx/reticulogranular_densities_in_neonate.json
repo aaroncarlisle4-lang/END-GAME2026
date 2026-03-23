@@ -1,0 +1,52 @@
+{
+  "finding": "Reticulogranular Densities in Neonate",
+  "slug": "reticulogranular_densities_in_neonate",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/reticulogranular_densities_in_neonate.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Respiratory distress syndrome (90%): premature infant, inadequate surfactant",
+      "raw": "Respiratory distress syndrome (90%): premature infant, inadequate surfactant",
+      "frequency": "90%"
+    },
+    {
+      "name": "Prematurity with Accelerated Lung Maturity (PALM) =  IMMATURE LUNG SYNDROME:",
+      "raw": "Prematurity with Accelerated Lung Maturity (PALM) =  IMMATURE LUNG SYNDROME:",
+      "frequency": null
+    },
+    {
+      "name": "Transient tachypnea of the newborn",
+      "raw": "Transient tachypnea of the newborn",
+      "frequency": null
+    },
+    {
+      "name": "Neonatal group-B streptococcal pneumonia",
+      "raw": "Neonatal group-B streptococcal pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic hypoglycemia",
+      "raw": "Idiopathic hypoglycemia",
+      "frequency": null
+    },
+    {
+      "name": "Congestive heart failure",
+      "raw": "Congestive heart failure",
+      "frequency": null
+    },
+    {
+      "name": "Early pulmonary hemorrhage",
+      "raw": "Early pulmonary hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Infant of diabetic mother",
+      "raw": "Infant of diabetic mother",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "premature infant with normal surfactant ← maternal steroid therapy / intrauterine stress √  lung granularity (= almost clear chest) √  small thymus (stress / steroids)"
+}

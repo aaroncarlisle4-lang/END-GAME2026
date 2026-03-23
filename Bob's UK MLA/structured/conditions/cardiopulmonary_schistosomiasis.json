@@ -1,0 +1,37 @@
+{
+  "name": "CARDIOPULMONARY SCHISTOSOMIASIS",
+  "slug": "cardiopulmonary_schistosomiasis",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/cardiopulmonary_schistosomiasis.md",
+  "definition": "form of parasitic embolism",
+  "demographics": {
+    "Path": "intra- and perivascular granulomas, intimal hyperplasia, medial hypertrophy, concentric",
+    "Age": "25-35 (range, 1-93) years"
+  },
+  "dominant_finding": "nodules of 2-15 mm, interstitial thickening",
+  "distribution": "dilatation of right atrium + right ventricle + central pulmonary arteries",
+  "discriminating_features": [
+    "nodules of 2-15 mm, interstitial thickening",
+    "larger nodules surrounded by ground-glass-opacity halo",
+    "dilatation of right atrium + right ventricle + central pulmonary arteries",
+    "cardiomegaly",
+    "central pulmonary arterial enlargement"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "cardiomegaly",
+      "central pulmonary arterial enlargement",
+      "tiny scattered lung nodules occasionally"
+    ],
+    "HRCT": [
+      "nodules of 2-15 mm, interstitial thickening",
+      "larger nodules surrounded by ground-glass-opacity halo",
+      "dilatation of right atrium + right ventricle + central pulmonary arteries"
+    ]
+  },
+  "clinical": {
+    "Cx": "cor pulmonale (2-33%)",
+    "Rx": "praziquantel, oxamniquine"
+  }
+}

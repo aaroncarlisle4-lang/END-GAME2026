@@ -1,0 +1,37 @@
+{
+  "finding": "High-intensity Adnexal Lesion on T1WI",
+  "slug": "high_intensity_adnexal_lesion_on_t1wi_b787f3",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/high_intensity_adnexal_lesion_on_t1wi_b787f3.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endometrioma",
+      "raw": "Endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic ovarian cyst",
+      "raw": "Hemorrhagic ovarian cyst",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid",
+      "raw": "Dermoid",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous cystic neoplasm",
+      "raw": "Mucinous cystic neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian carcinoma",
+      "raw": "Ovarian carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  T1-shortening ← fat, hemorrhage, high protein √  frequently multilocular + bilateral √  shading (= signal loss) on T2WI √  unilocular √  no shading √  resolution with time √  chemical shift artifact √  signal drop-out after fat suppression √  signal intensity less than fat / blood √  solid components, septations √  large size"
+}

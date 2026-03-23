@@ -1,0 +1,32 @@
+{
+  "finding": "Breast Calcifications (DDx)",
+  "slug": "breast_calcifications_ddx",
+  "chapter": "Breast Calcifications",
+  "source_file": "processed_clusters/breast_calcifications/breast_calcifications_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "squamous cell carcinoma",
+      "raw": "squamous cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "sebaceous adenoma",
+      "raw": "sebaceous adenoma",
+      "frequency": null
+    },
+    {
+      "name": "granular cell",
+      "raw": "granular cell",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "uni- / bilateral | spherical with central area of lucency (associated with glands + hair follicles) | nonspecific in association with sutures, fat necrosis, intraductal papilloma, Paget"
+}

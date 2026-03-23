@@ -1,0 +1,47 @@
+{
+  "finding": "Dendritic Enhancement",
+  "slug": "dendritic_enhancement_2b2a52",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/dendritic_enhancement_2b2a52.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenosis",
+      "raw": "Adenosis",
+      "frequency": null
+    },
+    {
+      "name": "Fibrocystic change",
+      "raw": "Fibrocystic change",
+      "frequency": null
+    },
+    {
+      "name": "DCIS",
+      "raw": "DCIS",
+      "frequency": null
+    },
+    {
+      "name": "Motion artifacts on subtraction image",
+      "raw": "Motion artifacts on subtraction image",
+      "frequency": null
+    },
+    {
+      "name": "Superposition of intramammary veins ›  Rare",
+      "raw": "Superposition of intramammary veins ›  Rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "Previous galactography: history",
+      "raw": "Previous galactography: history",
+      "frequency": null
+    },
+    {
+      "name": "Chronic mastitis",
+      "raw": "Chronic mastitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  Common"
+}

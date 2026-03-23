@@ -1,0 +1,92 @@
+{
+  "finding": "Pulmonary Hypoplasia",
+  "slug": "pulmonary_hypoplasia_078c3e",
+  "chapter": "FETAL CHEST ANOMALIES",
+  "source_file": "processed_clusters/fetal_chest_anomalies/pulmonary_hypoplasia_078c3e.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PRIMARY / idiopathic pulmonary hypoplasia",
+      "raw": "PRIMARY / idiopathic pulmonary hypoplasia (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "SECONDARY pulmonary hypoplasia limiting space for lung development (a)  Intrathoracic lung compression",
+      "raw": "SECONDARY pulmonary hypoplasia limiting space for lung development (a)  Intrathoracic lung compression",
+      "frequency": null
+    },
+    {
+      "name": "Intrathoracic mass",
+      "raw": "Intrathoracic mass",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal mass",
+      "raw": "Mediastinal mass",
+      "frequency": null
+    },
+    {
+      "name": "Large hydrothorax",
+      "raw": "Large hydrothorax",
+      "frequency": null
+    },
+    {
+      "name": "Lymphatic malformation",
+      "raw": "Lymphatic malformation",
+      "frequency": null
+    },
+    {
+      "name": "Agenesis of diaphragm",
+      "raw": "Agenesis of diaphragm (b)  Extrathoracic lung compression (= Potter syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Prolonged oligohydramnios (20-25%) ← renal agenesis, bilateral cystic renal disease, obstructive uropathy, premature rupture of membranes",
+      "raw": "Prolonged oligohydramnios (20-25%) ← renal agenesis, bilateral cystic renal disease, obstructive uropathy, premature rupture of membranes",
+      "frequency": "25%"
+    },
+    {
+      "name": "Fetal ascites (c)  Dysplasia of thoracic cage",
+      "raw": "Fetal ascites (c)  Dysplasia of thoracic cage",
+      "frequency": null
+    },
+    {
+      "name": "Jeune",
+      "raw": "Jeune",
+      "frequency": null
+    },
+    {
+      "name": "Thanatophoric dystrophy",
+      "raw": "Thanatophoric dystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Ellis-van Creveld",
+      "raw": "Ellis-van Creveld",
+      "frequency": null
+    },
+    {
+      "name": "Severe achondroplasia (d)  Others ← reduced breathing activity",
+      "raw": "Severe achondroplasia (d)  Others ← reduced breathing activity",
+      "frequency": null
+    },
+    {
+      "name": "Muscular disease",
+      "raw": "Muscular disease",
+      "frequency": null
+    },
+    {
+      "name": "Neurologic condition",
+      "raw": "Neurologic condition",
+      "frequency": null
+    },
+    {
+      "name": "Chromosomal abnormality",
+      "raw": "Chromosomal abnormality",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  completely formed but congenitally small bronchus with rudimentary parenchyma + small vessels Cause: Path:  absolute decrease in lung volume / weight for GA √  thoracic circumference (TC) < 5th percentile for EGA √  TC÷AC length ratio < 0.32 √  FL÷AC ratio < 0.16 √  small hyperlucent lung ← oligemia √  diminutive ipsilateral pulmonary artery √  hyperlucent contralateral lung ← compensatory hyperexpansion √  ipsilateral mediastinal shift"
+}

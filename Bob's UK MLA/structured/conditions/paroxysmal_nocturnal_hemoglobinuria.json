@@ -1,0 +1,24 @@
+{
+  "name": "PAROXYSMAL NOCTURNAL HEMOGLOBINURIA",
+  "slug": "paroxysmal_nocturnal_hemoglobinuria",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/paroxysmal_nocturnal_hemoglobinuria.md",
+  "definition": "rare acquired disorder of nonmalignant hematopoietic stem cells",
+  "demographics": {},
+  "dominant_finding": "low SI of renal cortex on T1WI + T2WI ← hemosiderin deposition ← free hemoglobin is",
+  "distribution": "low SI of renal cortex on T1WI + T2WI ← hemosiderin deposition ← free hemoglobin is",
+  "discriminating_features": [
+    "low SI of renal cortex on T1WI + T2WI ← hemosiderin deposition ← free hemoglobin is",
+    "usually decreased iron concentration in liver + spleen unless transfusions were given (DDx"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "low SI of renal cortex on T1WI + T2WI ← hemosiderin deposition ← free hemoglobin is",
+      "usually decreased iron concentration in liver + spleen unless transfusions were given (DDx"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "venous thrombosis is a major cause of death"
+  }
+}

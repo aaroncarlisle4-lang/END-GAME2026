@@ -1,0 +1,37 @@
+{
+  "finding": "Infectious agents: Salmonella, Shigella, Yersinia",
+  "slug": "infectious_agents_salmonella_shigella_yersinia",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/infectious_agents_salmonella_shigella_yersinia.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ankylosing spondylitis 95%",
+      "raw": "Ankylosing spondylitis 95%",
+      "frequency": "95%"
+    },
+    {
+      "name": "Reiter disease 80%",
+      "raw": "Reiter disease 80%",
+      "frequency": "80%"
+    },
+    {
+      "name": "Arthropathy of inflammatory bowel disease 75%",
+      "raw": "Arthropathy of inflammatory bowel disease 75%",
+      "frequency": "75%"
+    },
+    {
+      "name": "Psoriatic spondylitis 70%",
+      "raw": "Psoriatic spondylitis 70%",
+      "frequency": "70%"
+    },
+    {
+      "name": "Normal population 10%",
+      "raw": "Normal population 10%",
+      "frequency": "10%"
+    }
+  ],
+  "criteria": {},
+  "context": "(c)  after intestinal bypass surgery Spondyloarthritis with Positive HLA-B 27 Histocompatibility Complex Monoarthritis Destructive Monoarthritis ◊  Any destructive monoarthritis should be regarded as infection until proved otherwise!"
+}

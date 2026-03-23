@@ -1,0 +1,62 @@
+{
+  "finding": "Lower Gastrointestinal Lesion",
+  "slug": "lower_gastrointestinal_lesion_db24c7",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/gastrointestinal_hemorrhage/lower_gastrointestinal_lesion_db24c7.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angiectasia",
+      "raw": "Angiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Peptic ulcer",
+      "raw": "Peptic ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Varices",
+      "raw": "Varices",
+      "frequency": null
+    },
+    {
+      "name": "Ulcerated Meckel diverticulum",
+      "raw": "Ulcerated Meckel diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Meckel diverticulum",
+      "raw": "Meckel diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile polyp",
+      "raw": "Juvenile polyp",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory bowel disease",
+      "raw": "Inflammatory bowel disease",
+      "frequency": null
+    },
+    {
+      "name": "Clotting disorder",
+      "raw": "Clotting disorder",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformation",
+      "raw": "Arteriovenous malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Gastrointestinal Bleeding in Infant Gastrointestinal Bleeding in Child"
+}

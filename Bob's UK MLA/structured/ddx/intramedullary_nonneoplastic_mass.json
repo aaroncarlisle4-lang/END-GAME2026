@@ -1,0 +1,42 @@
+{
+  "finding": "Intramedullary Nonneoplastic Mass",
+  "slug": "intramedullary_nonneoplastic_mass",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/intramedullary_nonneoplastic_mass.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epidermoid",
+      "raw": "Epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Congenital lipoma",
+      "raw": "Congenital lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Posttraumatic pseudocyst",
+      "raw": "Posttraumatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granuloma",
+      "raw": "Wegener granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous malformation",
+      "raw": "Cavernous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

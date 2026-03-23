@@ -1,0 +1,47 @@
+{
+  "finding": "Ring-enhancing Targetlike Liver Mass",
+  "slug": "ring_enhancing_targetlike_liver_mass",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/ring_enhancing_targetlike_liver_mass.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Cholangiocarcinoma",
+      "raw": "Cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Treated HCC",
+      "raw": "Treated HCC",
+      "frequency": null
+    },
+    {
+      "name": "Epithelioid hemangioendothelioma",
+      "raw": "Epithelioid hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Confluent hepatic fibrosis",
+      "raw": "Confluent hepatic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Giant atypical cavernous hemangioma",
+      "raw": "Giant atypical cavernous hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Lytic Bone Lesion on Both Sides of Joint",
+  "slug": "lytic_bone_lesion_on_both_sides_of_joint",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/lytic_bone_lesion_on_both_sides_of_joint.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Synovioma",
+      "raw": "Synovioma",
+      "frequency": null
+    },
+    {
+      "name": "Angioma",
+      "raw": "Angioma",
+      "frequency": null
+    },
+    {
+      "name": "Chondroid lesion",
+      "raw": "Chondroid lesion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

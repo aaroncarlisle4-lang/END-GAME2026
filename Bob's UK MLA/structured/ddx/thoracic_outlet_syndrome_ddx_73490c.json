@@ -1,0 +1,30 @@
+{
+  "finding": "Thoracic Outlet Syndrome (DDx)",
+  "slug": "thoracic_outlet_syndrome_ddx_73490c",
+  "chapter": "Thoracic Outlet Syndrome",
+  "source_file": "processed_clusters/thoracic_outlet_syndrome/thoracic_outlet_syndrome_ddx_73490c.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cervical disk disease",
+      "raw": "Cervical disk disease",
+      "frequency": null
+    },
+    {
+      "name": "radiculopathy [spinal cord tumor]",
+      "raw": "radiculopathy",
+      "frequency": null,
+      "sites": [
+        "spinal cord tumor"
+      ]
+    },
+    {
+      "name": "trauma to brachial plexus",
+      "raw": "trauma to brachial plexus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "collateral arterial circulation | denervation-related fatty atrophy of muscles | effacement of fat planes around compressed plexus | abnormal intramuscular course of brachial plexus components"
+}

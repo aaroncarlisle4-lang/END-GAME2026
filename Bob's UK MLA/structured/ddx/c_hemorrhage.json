@@ -1,0 +1,47 @@
+{
+  "finding": "C. HEMORRHAGE",
+  "slug": "c_hemorrhage",
+  "chapter": "B. PERTAINING TO CRANIOTOMY / CRANIECTOMY",
+  "source_file": "processed_clusters/b_pertaining_to_craniotomy_craniectomy/c_hemorrhage.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "\"Plunging\" = inadvertent breach of dura during drilling Cx:   intracerebral hematoma",
+      "raw": "\"Plunging\" = inadvertent breach of dura during drilling Cx:   intracerebral hematoma (71%), cortical laceration (16%), extradural hematoma (5%), subdural hematoma (5%), intraventricular hemorrhage (3%)",
+      "frequency": "71%"
+    },
+    {
+      "name": "Postoperative hemorrhage",
+      "raw": "Postoperative hemorrhage (6-7%)",
+      "frequency": "7%"
+    },
+    {
+      "name": "Extradural hematoma",
+      "raw": "Extradural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Intraparenchymal hemorrhage",
+      "raw": "Intraparenchymal hemorrhage (11%)",
+      "frequency": "11%"
+    },
+    {
+      "name": "Remote cerebellar hemorrhage =  CSF volume depletion → sagging of cerebellum → occlusion of superior bridging veins → hemorrhagic infarction",
+      "raw": "Remote cerebellar hemorrhage =  CSF volume depletion → sagging of cerebellum → occlusion of superior bridging veins → hemorrhagic infarction",
+      "frequency": null
+    },
+    {
+      "name": "mesodiencephalic herniation syndrome: depressed level of consciousness, autonomic instability, signs of brainstem release, focal neurologic deficits At risk:   large craniectomy defect followed by CSF drainage procedure",
+      "raw": "mesodiencephalic herniation syndrome: depressed level of consciousness, autonomic instability, signs of brainstem release, focal neurologic deficits At risk:   large craniectomy defect followed by CSF drainage procedure (lumbar puncture, external ventricular drainage, ventriculoperitoneal shunting)",
+      "frequency": null
+    },
+    {
+      "name": "falling Glasgow coma scale",
+      "raw": "falling Glasgow coma scale",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   intraparenchymal (43%), extradural (33%), subdural (5%), mixed (8%) Location:   regional (63%) = beneath bone flap; adjacent (31%) = at craniotomy margins: remote (6%) = distant to craniotomy site √  \"zebra\" sign = streaky curvilinear areas of increased attenuation in cerebellar sulci + folia Postsurgical Brain Herniation Fungus Cerebri =  EXTRACRANIAL HERNIATION =  herniation of brain tissue through skull defect after trauma / therapeutic craniectomy Cx:  brain infarction Paradoxical Brain Herniation =  SYNDROME OF THE TREPHINED ◊  Neurosurgical emergency! Pathophysiology: decreas"
+}

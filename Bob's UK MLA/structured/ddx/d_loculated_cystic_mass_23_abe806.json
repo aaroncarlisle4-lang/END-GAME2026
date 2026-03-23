@@ -1,0 +1,47 @@
+{
+  "finding": "D. LOCULATED CYSTIC MASS (²/³",
+  "slug": "d_loculated_cystic_mass_23_abe806",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/d_loculated_cystic_mass_23_abe806.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic lymphangioma",
+      "raw": "Cystic lymphangioma (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Pseudomyxoma peritonei",
+      "raw": "Pseudomyxoma peritonei",
+      "frequency": null
+    },
+    {
+      "name": "Cystic mesothelioma",
+      "raw": "Cystic mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric cyst",
+      "raw": "Mesenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric hematoma",
+      "raw": "Mesenteric hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Benign cystic teratoma",
+      "raw": "Benign cystic teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic spindle cell tumor",
+      "raw": "Cystic spindle cell tumor (= centrally necrotic leiomyoma / leiomyosarcoma)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

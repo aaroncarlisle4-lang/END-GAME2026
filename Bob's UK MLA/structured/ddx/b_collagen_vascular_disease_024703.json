@@ -1,0 +1,32 @@
+{
+  "finding": "B. COLLAGEN-VASCULAR DISEASE",
+  "slug": "b_collagen_vascular_disease_024703",
+  "chapter": "C. CENTRAL / PERIPHERAL",
+  "source_file": "processed_clusters/c_central_peripheral/b_collagen_vascular_disease_024703.md",
+  "quality_score": 0.633,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Pulmonary angiitis + granulomatosis ›  Wegener granulomatosis + Wegener variant",
+      "raw": "Pulmonary angiitis + granulomatosis ›  Wegener granulomatosis + Wegener variant",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid nodules + Caplan syndrome",
+      "raw": "Rheumatoid nodules + Caplan syndrome",
+      "frequency": null
+    },
+    {
+      "name": "SLE",
+      "raw": "SLE",
+      "frequency": null
+    },
+    {
+      "name": "Periarteritis nodosa",
+      "raw": "Periarteritis nodosa (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

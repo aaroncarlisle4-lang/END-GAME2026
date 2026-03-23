@@ -1,0 +1,27 @@
+{
+  "finding": "B. ENDOCRINE",
+  "slug": "b_endocrine_c94534",
+  "chapter": "D. MALIGNANCY",
+  "source_file": "processed_clusters/d_malignancy/b_endocrine_c94534.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypoparathyroidism, pseudo-, pseudopseudo-",
+      "raw": "Hypoparathyroidism, pseudo-, pseudopseudo- (60%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Hypothyroidism",
+      "raw": "Hypothyroidism",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

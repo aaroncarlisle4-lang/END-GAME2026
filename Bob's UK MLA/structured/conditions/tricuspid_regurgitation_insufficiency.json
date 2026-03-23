@@ -1,0 +1,41 @@
+{
+  "name": "TRICUSPID REGURGITATION / INSUFFICIENCY",
+  "slug": "tricuspid_regurgitation_insufficiency",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/tricuspid_regurgitation_insufficiency.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "RV displaced to the left",
+  "distribution": "systolic reversal of hepatic vein flow with normal sinus rhythm",
+  "discriminating_features": [
+    "normal / reduced pulmonary vascularity",
+    "cardiomegaly ← RA + RV hypertrophy and enlargement",
+    "distension of IVC > SVC",
+    "systolic reversal of hepatic vein flow with normal sinus rhythm",
+    "dilatation of RA"
+  ],
+  "other_features": {
+    "general": [
+      "normal / reduced pulmonary vascularity",
+      "cardiomegaly ← RA + RV hypertrophy and enlargement",
+      "distension of IVC > SVC",
+      "systolic reversal of hepatic vein flow with normal sinus rhythm",
+      "dilatation of RA",
+      "flattening / leftward bowing of interventricular septum during diastole",
+      "vena contracta (= smallest stream diameter) width > 0.7 cm",
+      "color flow jet area > 10 cm2",
+      "proximal isovelocity surface area radius > 0.9 cm",
+      "decreased S wave = S wave no longer as deep as the D wave, gradually rising with degree",
+      "one large a-S-v complex in severe incompetence"
+    ],
+    "CT": [
+      "RV displaced to the left",
+      "interventricular septum bowed to the left",
+      "hepatic venous congestion",
+      "emphysema, pulmonary hypertension, left heart disease"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "if untreated → RV dysfunction, congestive hepatopathy, cardiac cirrhosis"
+  }
+}

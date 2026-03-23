@@ -1,0 +1,30 @@
+{
+  "name": "PERITONSILLAR ABSCESS",
+  "slug": "peritonsillar_abscess",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/peritonsillar_abscess.md",
+  "definition": "complication of untreated / incompletely treated tonsillitis",
+  "demographics": {
+    "Prevalence": "⅓ of all soft-tissue abscesses of head & neck",
+    "Location": "between tonsillar capsule and pillar"
+  },
+  "dominant_finding": "mass effect on oropharynx",
+  "distribution": "between tonsillar capsule and pillar",
+  "discriminating_features": [
+    "tonsillar enlargement: √ \"kissing tonsils\" = medial apposition of enlarged tonsils",
+    "mass effect on oropharynx",
+    "linear striated enhancement of palatine tonsil + posterior pharyngeal soft tissue",
+    "central liquefaction + surrounding rimlike enhancement",
+    "true tonsillar abscess (rare)"
+  ],
+  "other_features": {
+    "general": [
+      "tonsillar enlargement: √ \"kissing tonsils\" = medial apposition of enlarged tonsils",
+      "mass effect on oropharynx",
+      "linear striated enhancement of palatine tonsil + posterior pharyngeal soft tissue",
+      "central liquefaction + surrounding rimlike enhancement",
+      "true tonsillar abscess (rare)"
+    ]
+  },
+  "clinical": {}
+}

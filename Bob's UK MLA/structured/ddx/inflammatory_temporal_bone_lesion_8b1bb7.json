@@ -1,0 +1,52 @@
+{
+  "finding": "Inflammatory Temporal Bone Lesion",
+  "slug": "inflammatory_temporal_bone_lesion_8b1bb7",
+  "chapter": "TEMPORAL BONE",
+  "source_file": "processed_clusters/temporal_bone/inflammatory_temporal_bone_lesion_8b1bb7.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "EAC cholesteatoma",
+      "raw": "EAC cholesteatoma",
+      "frequency": null
+    },
+    {
+      "name": "Keratosis obturans",
+      "raw": "Keratosis obturans",
+      "frequency": null
+    },
+    {
+      "name": "Malignant otitis externa @   Middle ear",
+      "raw": "Malignant otitis externa @   Middle ear",
+      "frequency": null
+    },
+    {
+      "name": "Acute otitis media",
+      "raw": "Acute otitis media",
+      "frequency": null
+    },
+    {
+      "name": "Chronic otitis media",
+      "raw": "Chronic otitis media",
+      "frequency": null
+    },
+    {
+      "name": "Cholesterol granuloma",
+      "raw": "Cholesterol granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Cholesteatoma @   Inner ear",
+      "raw": "Cholesteatoma @   Inner ear",
+      "frequency": null
+    },
+    {
+      "name": "Labyrinthitis",
+      "raw": "Labyrinthitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "The most common inflammatory condition affecting the temporal bone is acute otitis media. @   External auditory canal"
+}

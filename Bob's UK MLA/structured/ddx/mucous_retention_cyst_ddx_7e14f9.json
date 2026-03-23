@@ -1,0 +1,22 @@
+{
+  "finding": "Mucous Retention Cyst (DDx)",
+  "slug": "mucous_retention_cyst_ddx_7e14f9",
+  "chapter": "Mucous Retention Cyst",
+  "source_file": "processed_clusters/mucous_retention_cyst/mucous_retention_cyst_ddx_7e14f9.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "indistinguishable from polyps",
+      "raw": "indistinguishable from polyps",
+      "frequency": null
+    },
+    {
+      "name": "mucocele",
+      "raw": "mucocele (NEVER surrounded by air)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "infiltrating poorly marginated, more solid, relatively homogeneous lesion with few | partially surrounded by air"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "PELIZAEUS-MERZBACHER DISEASE",
+  "slug": "pelizaeus_merzbacher_disease",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/pelizaeus_merzbacher_disease.md",
+  "definition": "rare X-linked sudanophilic leukodystrophy (5 types with different times of onset, rate of",
+  "demographics": {
+    "Age": "neonatal period"
+  },
+  "dominant_finding": "hypodense white matter",
+  "distribution": "mild / moderate prominence of cortical sulci",
+  "discriminating_features": [
+    "hypodense white matter",
+    "progressive white matter atrophy",
+    "lack of myelination (appearance of newborn brain retained)",
+    "hyperintense internal capsule, optic radiations, proximal corona radiata on T1WI",
+    "near complete absence of hypointensity in supratentorial region on T2WI"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "hypodense white matter",
+      "progressive white matter atrophy"
+    ],
+    "MR": [
+      "lack of myelination (appearance of newborn brain retained)",
+      "hyperintense internal capsule, optic radiations, proximal corona radiata on T1WI",
+      "near complete absence of hypointensity in supratentorial region on T2WI",
+      "mild / moderate prominence of cortical sulci"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death in adolescence / early adulthood"
+  }
+}

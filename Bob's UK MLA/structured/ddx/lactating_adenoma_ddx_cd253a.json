@@ -1,0 +1,22 @@
+{
+  "finding": "Lactating Adenoma (DDx)",
+  "slug": "lactating_adenoma_ddx_cd253a",
+  "chapter": "Lactating Adenoma",
+  "source_file": "processed_clusters/lactating_adenoma/lactating_adenoma_ddx_cd253a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibroadenoma; complex cyst; tubular adenoma (rare",
+      "raw": "fibroadenoma; complex cyst; tubular adenoma (rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "typically in young woman);",
+      "raw": "typically in young woman);",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "posterior acoustic shadowing | fibrous septa may be present | ± small central hyperechoic foci (= fat within milk) | increased vascularity by Doppler"
+}

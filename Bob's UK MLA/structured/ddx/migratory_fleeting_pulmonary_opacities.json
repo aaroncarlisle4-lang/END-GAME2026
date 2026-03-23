@@ -1,0 +1,37 @@
+{
+  "finding": "Migratory / Fleeting Pulmonary Opacities",
+  "slug": "migratory_fleeting_pulmonary_opacities",
+  "chapter": "Air-space Opacification in Trauma",
+  "source_file": "processed_clusters/air_space_opacification_in_trauma/migratory_fleeting_pulmonary_opacities.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Simple pulmonary eosinophilia",
+      "raw": "Simple pulmonary eosinophilia",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary hemorrhage",
+      "raw": "Pulmonary hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary vasculitis",
+      "raw": "Pulmonary vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "Cryptogenic organizing pneumonia",
+      "raw": "Cryptogenic organizing pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent aspiration / infection",
+      "raw": "Recurrent aspiration / infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

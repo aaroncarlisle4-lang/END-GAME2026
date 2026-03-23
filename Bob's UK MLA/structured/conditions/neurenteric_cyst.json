@@ -1,0 +1,38 @@
+{
+  "name": "NEURENTERIC CYST",
+  "slug": "neurenteric_cyst",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/neurenteric_cyst.md",
+  "definition": "incomplete separation of foregut and notochord with persistence of canal of Kovalevski RETRORECTAL CYSTIC HAMARTOMA = RECTAL DUPLICATION CYST = MUCIN- rare congenital abnormality in presacral space ← persistent remnant of embryonic gut",
+  "demographics": {
+    "Frequency": "rarest of bronchopulmonary foregut malformations (like pulmonary sequestration,",
+    "Associated with": "neurofibromatosis; meningocele; spinal malformation (stalk connects cyst and",
+    "Location": "anterior to spinal canal on mesenteric side of gut",
+    "Age": "manifested in childhood / adulthood",
+    "Histo": "NO smooth muscle layer"
+  },
+  "dominant_finding": "posterior mediastinal mass",
+  "distribution": "anterior to spinal canal on mesenteric side of gut",
+  "discriminating_features": [
+    "posterior mediastinal mass",
+    "air-fluid level (if communicating with GI tract through diaphragmatic defect)",
+    "spinal dysraphism at the same level:",
+    "midline cleft in centra (accommodates stalk)",
+    "anterior / posterior spina bifida"
+  ],
+  "other_features": {
+    "general": [
+      "posterior mediastinal mass",
+      "air-fluid level (if communicating with GI tract through diaphragmatic defect)",
+      "spinal dysraphism at the same level:",
+      "midline cleft in centra (accommodates stalk)",
+      "anterior / posterior spina bifida",
+      "vertebral body anomalies: absent vertebra, butterfly vertebra, hemivertebra, scoliosis",
+      "diastematomyelia",
+      "thoracic myelomeningocele",
+      "uni- / multilocular cyst",
+      "high signal intensity on T1WI ← mucoid content"
+    ]
+  },
+  "clinical": {}
+}

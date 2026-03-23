@@ -1,0 +1,97 @@
+{
+  "finding": "B. SENSORINEURAL HEARING LOSS (most common",
+  "slug": "b_sensorineural_hearing_loss_most_common_4f8167",
+  "chapter": "Bell Palsy",
+  "source_file": "processed_clusters/bell_palsy/b_sensorineural_hearing_loss_most_common_4f8167.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "elevated conduction thresholds for bone + air (a)  sensory / cochlear SNHL = damage to cochlea / organ of Corti (less common) ›  bony labyrinth »  demineralization:",
+      "raw": "elevated conduction thresholds for bone + air (a)  sensory / cochlear SNHL = damage to cochlea / organ of Corti (less common) ›  bony labyrinth »  demineralization:",
+      "frequency": "common"
+    },
+    {
+      "name": "Otosclerosis",
+      "raw": "Otosclerosis (otospongiosis)",
+      "frequency": null
+    },
+    {
+      "name": "osteogenesis imperfecta",
+      "raw": "osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease, syphilis »  congenital deformity:",
+      "raw": "Paget disease, syphilis »  congenital deformity:",
+      "frequency": null
+    },
+    {
+      "name": "Cochlear dys- / aplasia",
+      "raw": "Cochlear dys- / aplasia",
+      "frequency": null
+    },
+    {
+      "name": "Michel anomaly",
+      "raw": "Michel anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Mondini dysplasia",
+      "raw": "Mondini dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Enlarged vestibular aqueduct syndrome",
+      "raw": "Enlarged vestibular aqueduct syndrome",
+      "frequency": null
+    },
+    {
+      "name": "X-linked sensorineural hearing loss »  traumatic lesion:",
+      "raw": "X-linked sensorineural hearing loss »  traumatic lesion:",
+      "frequency": null
+    },
+    {
+      "name": "Transverse fracture",
+      "raw": "Transverse fracture",
+      "frequency": null
+    },
+    {
+      "name": "Perilymphatic fistula, cochlear concussion »  destructive lesion: inflammation, neoplasm ◊  High-resolution CT is the modality of choice!",
+      "raw": "Perilymphatic fistula, cochlear concussion »  destructive lesion: inflammation, neoplasm ◊  High-resolution CT is the modality of choice!",
+      "frequency": null
+    },
+    {
+      "name": "Neoplastic lesion: vestibular / trigeminal schwannoma (acoustic neuroma in 1%), meningioma, arachnoid cyst, epidermoid cyst, leptomeningeal carcinomatosis, lymphoma, lipoma, hemangioma",
+      "raw": "Neoplastic lesion: vestibular / trigeminal schwannoma (acoustic neuroma in 1%), meningioma, arachnoid cyst, epidermoid cyst, leptomeningeal carcinomatosis, lymphoma, lipoma, hemangioma",
+      "frequency": "1%"
+    },
+    {
+      "name": "Nonneoplastic lesion: sarcoidosis, meningitis, vascular loop, siderosis ›  intraaxial auditory pathway",
+      "raw": "Nonneoplastic lesion: sarcoidosis, meningitis, vascular loop, siderosis ›  intraaxial auditory pathway (brainstem, thalamus, temporal lobe)",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic lesion",
+      "raw": "Ischemic lesion",
+      "frequency": null
+    },
+    {
+      "name": "Neoplastic lesion",
+      "raw": "Neoplastic lesion",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic lesion",
+      "raw": "Traumatic lesion",
+      "frequency": null
+    },
+    {
+      "name": "Demyelinating lesion ◊  MR is the modality of choice!",
+      "raw": "Demyelinating lesion ◊  MR is the modality of choice!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  membranous labyrinth »  enhancement: labyrinthitis, Cogan syndrome (early phase of autoimmune interstitial keratitis), intralabyrinthine schwannoma, site of postinflammatory perilymphatic fistula »  obliteration: labyrinthitis ossificans, Cogan syndrome (late phase) »  hemorrhage: trauma, labyrinthitis, coagulopathy, tumor fistulization »  Ménière disease (vertigo + fluctuating sensory sensorineural hearing loss) ◊  Thin-section MR is the modality of choice! (b)  neural / retrocochlear SNHL (more common) =  abnormalities of neurons of spiral ganglion + central auditory pathways ›  IAC / cer"
+}

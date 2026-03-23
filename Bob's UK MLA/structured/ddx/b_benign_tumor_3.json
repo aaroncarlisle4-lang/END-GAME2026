@@ -1,0 +1,32 @@
+{
+  "finding": "B. BENIGN TUMOR",
+  "slug": "b_benign_tumor_3",
+  "chapter": "E. DILATED COLLECTING SYSTEM",
+  "source_file": "processed_clusters/e_dilated_collecting_system/b_benign_tumor_3.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Oncocytoma",
+      "raw": "Oncocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous hemangioma",
+      "raw": "Cavernous hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

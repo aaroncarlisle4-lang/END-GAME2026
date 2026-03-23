@@ -1,0 +1,42 @@
+{
+  "finding": "C. INFECTION WITH GAS-FORMING ORGANISM (9%) in mastoiditis, sinusitis",
+  "slug": "c_infection_with_gas_forming_organism_9_in_mastoiditis_sinusitis_8a0d56",
+  "chapter": "B. NEUROVASCULAR",
+  "source_file": "processed_clusters/b_neurovascular/c_infection_with_gas_forming_organism_9_in_mastoiditis_sinusitis_8a0d56.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "SURGERY (4%) hypophysectomy, paranasal sinus surgery",
+      "raw": "SURGERY (4%) hypophysectomy, paranasal sinus surgery",
+      "frequency": "4%"
+    },
+    {
+      "name": "SUPRATENTORIAL CRANIOTOMY",
+      "raw": "SUPRATENTORIAL CRANIOTOMY",
+      "frequency": null
+    },
+    {
+      "name": "ball-valve mechanism during straining, coughing, sneezing",
+      "raw": "ball-valve mechanism during straining, coughing, sneezing",
+      "frequency": null
+    },
+    {
+      "name": "vacuum phenomenon ← loss of CSF Time of onset:   on initial presentation",
+      "raw": "vacuum phenomenon ← loss of CSF Time of onset:   on initial presentation (25%), usually seen within 4-5 days, delay up to 6 months (33%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Meningitis / epidural / brain abscess",
+      "raw": "Meningitis / epidural / brain abscess (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Extracranial pneumocephalus = air collection in subaponeurotic space",
+      "raw": "Extracranial pneumocephalus = air collection in subaponeurotic space",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   in any compartment; most often in subdural space over frontal lobe Duration after surgery:   2 days (100%), 7 days (75%), 2nd week (60%), 3rd week (26%), > 3 weeks (0%) Mechanism of dural laceration: Mortality:  15% Cx:   (1)  CSF rhinorrhea (50%)"
+}

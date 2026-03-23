@@ -1,0 +1,34 @@
+{
+  "name": "MESOTHELIAL CYST",
+  "slug": "mesothelial_cyst",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/mesothelial_cyst.md",
+  "definition": "MESENTERIC / OMENTAL CYST",
+  "demographics": {
+    "Etiology": "failure of mesothelial peritoneal surfaces to coalesce",
+    "Path": "unilocular thin-walled cyst usually with serous, occasionally chylous / hemorrhagic fluid",
+    "Histo": "lined by mesothelial cells + surrounded by thin layer of fibrous tissue",
+    "Location": "small bowel, mesentery (78%), mesocolon"
+  },
+  "dominant_finding": "near-water density / soft-tissue density",
+  "distribution": "small bowel, mesentery (78%), mesocolon",
+  "discriminating_features": [
+    "single cyst up to several cm in size",
+    "omental cysts may be pedunculated",
+    "near-water density / soft-tissue density",
+    "± fluid levels related to fat + water components"
+  ],
+  "other_features": {
+    "general": [
+      "single cyst up to several cm in size",
+      "omental cysts may be pedunculated"
+    ],
+    "CT": [
+      "near-water density / soft-tissue density",
+      "± fluid levels related to fat + water components"
+    ]
+  },
+  "clinical": {
+    "Cx": "torsion, hemorrhage, intestinal obstruction"
+  }
+}

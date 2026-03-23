@@ -1,0 +1,67 @@
+{
+  "finding": "Multiple Pleural Densities",
+  "slug": "multiple_pleural_densities_3fbccf",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/multiple_pleural_densities_3fbccf.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Loculated pleural effusion: infectious, hemorrhagic, neoplastic",
+      "raw": "Loculated pleural effusion: infectious, hemorrhagic, neoplastic",
+      "frequency": null
+    },
+    {
+      "name": "Pleural plaques",
+      "raw": "Pleural plaques",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis (most common cause) Origin:   lung (40%), breast (20%), lymphoma (10%), ovary, melanoma, uterus, GI tract, pancreas, sarcoma ◊  Metastatic adenocarcinoma histologically similar to malignant mesothelioma!",
+      "raw": "Metastasis (most common cause) Origin:   lung (40%), breast (20%), lymphoma (10%), ovary, melanoma, uterus, GI tract, pancreas, sarcoma ◊  Metastatic adenocarcinoma histologically similar to malignant mesothelioma!",
+      "frequency": "40%"
+    },
+    {
+      "name": "Diffuse malignant mesothelioma:",
+      "raw": "Diffuse malignant mesothelioma:",
+      "frequency": null
+    },
+    {
+      "name": "Invasive thymoma",
+      "raw": "Invasive thymoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Thoracic splenosis mnemonic:   Mary Tyler Moore Likes Lemon",
+      "raw": "Thoracic splenosis mnemonic:   Mary Tyler Moore Likes Lemon",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases (especially adenocarcinoma)",
+      "frequency": null
+    },
+    {
+      "name": "Thymoma",
+      "raw": "Thymoma (malignant)",
+      "frequency": null
+    },
+    {
+      "name": "Malignant mesothelioma",
+      "raw": "Malignant mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Loculated pleural effusion",
+      "raw": "Loculated pleural effusion",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  diffuse pleural thickening with lobulated borders almost always unilateral, associated with asbestos exposure √  contiguous spread, invasion of pleura, spreads around lung √  NO pleural effusion"
+}

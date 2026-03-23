@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphangioma Of Orbit (DDx)",
+  "slug": "lymphangioma_of_orbit_ddx_f49d17",
+  "chapter": "Lymphangioma Of Orbit",
+  "source_file": "processed_clusters/lymphangioma_of_orbit/lymphangioma_of_orbit_ddx_f49d17.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "orbital varix (affected by postural changes",
+      "raw": "orbital varix (affected by postural changes",
+      "frequency": null
+    },
+    {
+      "name": "communication with systemic circulation)",
+      "raw": "communication with systemic circulation)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "fat-suppressed T1WI for blood / blood products | fat-suppressed T2WI for nonhemorrhagic fluid | fluid-fluid levels of hemorrhages of various ages / T2 shading in multiple cysts (almost | NO enlarged feeding vessels / flow voids"
+}

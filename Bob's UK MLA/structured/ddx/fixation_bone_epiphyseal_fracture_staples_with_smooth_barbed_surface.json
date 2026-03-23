@@ -1,0 +1,27 @@
+{
+  "finding": "Fixation = bone = epiphyseal = fracture staples with smooth / barbed surface",
+  "slug": "fixation_bone_epiphyseal_fracture_staples_with_smooth_barbed_surface",
+  "chapter": "D. Staples",
+  "source_file": "processed_clusters/d_staples/fixation_bone_epiphyseal_fracture_staples_with_smooth_barbed_surface.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Wires",
+      "raw": "Wires",
+      "frequency": null
+    },
+    {
+      "name": "K wire (= Kirschner wire) = unthreaded segments of extruded wire of variable thickness",
+      "raw": "K wire (= Kirschner wire) = unthreaded segments of extruded wire of variable thickness",
+      "frequency": null
+    },
+    {
+      "name": "Cerclage wiring = wire placed around bone",
+      "raw": "Cerclage wiring = wire placed around bone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  Coventry = stepped osteotomy staple ›  stone = table staple Use:   temporary fixation"
+}

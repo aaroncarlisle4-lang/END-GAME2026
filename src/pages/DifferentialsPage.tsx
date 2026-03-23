@@ -422,20 +422,19 @@ export function DifferentialsPage() {
     suggestions,
     isProcessing: isTextProcessing,
     error: textError,
-  } = useTextIngestion(textTarget?.discriminatorId ?? null);
+  } = useTextIngestion();
 
   const patchField = useMutation(api.discriminators.patchDifferentialField);
 
   const handleTextDrop = useCallback(
     (text: string, discriminator: Doc<"discriminators"> | undefined) => {
       if (!discriminator) {
-        // No toast library — use alert as fallback
         alert("No discriminator table for this pattern");
         return;
       }
       setTextTarget({ discriminatorId: discriminator._id, pattern: discriminator.pattern });
-      // Small delay to ensure state is set before calling action
-      setTimeout(() => processText(text), 0);
+      // Pass discriminatorId directly — no closure timing issue
+      processText(text, discriminator._id);
     },
     [processText]
   );
@@ -926,11 +925,12 @@ export function DifferentialsPage() {
                     sourceId={m._id}
                     imageCount={mnemonicImageCounts?.[m._id] ?? 0}
                     onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
+                    onTextDrop={(text) => handleTextDrop(text, discriminator ?? undefined)}
                     differentialOptions={[m.pattern, ...m.differentials.map(d => d.condition)]}
                   >
-                    <MnemonicCard 
-                      m={m} 
-                      discriminator={discriminator} 
+                    <MnemonicCard
+                      m={m}
+                      discriminator={discriminator}
                       discriminatorOpen={openDiscriminatorId === m._id}
                       setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? m._id : null)}
                       onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
@@ -965,11 +965,12 @@ export function DifferentialsPage() {
                     sourceId={c._id}
                     imageCount={chapmanImageCounts?.[c._id] ?? 0}
                     onViewImages={() => handleViewImages("chapman", c._id, c.pattern)}
+                    onTextDrop={(text) => handleTextDrop(text, discriminator ?? undefined)}
                     differentialOptions={[c.pattern, ...c.families.flatMap(f => f.diagnoses)]}
                   >
-                    <ChapmanCard 
-                      c={c} 
-                      discriminator={discriminator} 
+                    <ChapmanCard
+                      c={c}
+                      discriminator={discriminator}
                       discriminatorOpen={openDiscriminatorId === c._id}
                       setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? c._id : null)}
                       onViewImages={() => handleViewImages("chapman", c._id, c.pattern)}
@@ -986,6 +987,28 @@ export function DifferentialsPage() {
           </div>
         )}
       </div>
+
+      {/* Text Ingestion Review Modal */}
+      <TextReviewModal
+        open={!!textTarget}
+        onClose={handleTextModalClose}
+        patternName={textTarget?.pattern ?? ""}
+        suggestions={suggestions}
+        isProcessing={isTextProcessing}
+        error={textError}
+        onApprove={approveSuggestion}
+        onDismiss={dismissSuggestion}
+        onApproveAll={approveAll}
+        onDismissAll={dismissAll}
+        onRefine={refineSuggestion}
+        onOverride={handleOverride}
+        differentialNames={[
+          ...(textTargetDiscriminator?.differentials.map((d) => d.diagnosis) ?? []),
+          ...(textTargetDiscriminator?.seriousAlternatives?.filter(
+            (alt) => !textTargetDiscriminator.differentials.some((d) => d.diagnosis.toLowerCase() === alt.toLowerCase())
+          ) ?? []),
+        ]}
+      />
 
       {/* Rapid Image Viewer */}
       <RapidImageViewer

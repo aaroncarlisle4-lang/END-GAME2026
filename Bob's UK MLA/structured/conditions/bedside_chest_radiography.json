@@ -1,0 +1,71 @@
+{
+  "name": "BEDSIDE CHEST RADIOGRAPHY",
+  "slug": "bedside_chest_radiography",
+  "chapter": "CHEST WALL",
+  "source_file": "processed_clusters/disease_entries/chest_wall/bedside_chest_radiography.md",
+  "definition": "",
+  "demographics": {
+    "Location": "left lung base (most frequent)"
+  },
+  "dominant_finding": "tip of tube 4-6 cm above carina with neck in neutral position:",
+  "distribution": "left lung base (most frequent)",
+  "discriminating_features": [
+    "cavitation (most specific finding)",
+    "tip of tube 4-6 cm above carina with neck in neutral position:",
+    "migration by 2 cm inferiorly with flexion",
+    "migration by 2 cm superiorly with extension",
+    "tube diameter should be ½ to ⅔ of tracheal lumen"
+  ],
+  "other_features": {
+    "general": [
+      "tip of tube 4-6 cm above carina with neck in neutral position:",
+      "migration by 2 cm inferiorly with flexion",
+      "migration by 2 cm superiorly with extension",
+      "tube diameter should be ½ to ⅔ of tracheal lumen",
+      "diameter of inflated balloon should be less than diameter of trachea",
+      "may not be on film if coiled in hypopharynx",
+      "tip should be in main / right / left pulmonary artery (NOT distal to proximal",
+      "break in radiopaque material (= most proximal side hole should be intrathoracic)",
+      "intrafissural placement makes tube ineffective",
+      "tube diameter should be ⅔ of tracheal lumen",
+      "tip should be at level of T3",
+      "balloon inflates in diastole, deflates in systole",
+      "linear / platelike subsegmental",
+      "lobar / segmental:",
+      "air bronchogram present = collapse of small airways → bronchoscopy not",
+      "air bronchogram absent = central mucoid impaction → bronchoscopy therapeutic",
+      "patchy density mimicking pneumonia",
+      "rapid temporal change possible",
+      "usually cardiomegaly (cardiothoracic ratio ≥ 55%)",
+      "enlarged vascular pedicle (mediastinal width at SVC ≥ 70 mm)",
+      "Kerley lines",
+      "pleural effusion frequent",
+      "central / diffuse lung opacity",
+      "rapid onset + resolution",
+      "cardiomegaly rare",
+      "Kerley lines absent",
+      "pleural effusions unusual + small",
+      "decreased lung volumes frequent",
+      "diffuse / peripheral lung opacity",
+      "delayed onset + resolution",
+      "barotrauma common",
+      "homogeneous density over lower lung",
+      "fluid over apex / in fissures",
+      "intrafissural pseudotumor",
+      "not visible in 30%",
+      "slowly progressing, often multifocal patchy areas of consolidation / poorly defined",
+      "air bronchograms",
+      "cavitation (most specific finding)",
+      "pulmonary interstitial edema (initially)",
+      "anteromedial / subpulmonic location",
+      "tension pneumothorax (in 60-96%) with mediastinal shift masked by PEEP",
+      "focal / multifocal consolidation in dependent location with central predominance",
+      "aspiration pneumonitis (may progress over first day but clearing within a few days)",
+      "aspiration pneumonia (lack of clearing / progression)"
+    ]
+  },
+  "clinical": {
+    "Cx": "placement into branch vein / anomalous vein (eg, persistent left SVC),",
+    "N.B.": "cephalization of vasculature NOT helpful in supine position"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Cortical Sclerotic Lesion in Child",
+  "slug": "cortical_sclerotic_lesion_in_child_e256fd",
+  "chapter": "G. OTHERS",
+  "source_file": "processed_clusters/g_others/cortical_sclerotic_lesion_in_child_e256fd.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteoid osteoma",
+      "raw": "Osteoid osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Stress fracture",
+      "raw": "Stress fracture",
+      "frequency": null
+    },
+    {
+      "name": "Chronic osteomyelitis",
+      "raw": "Chronic osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Healed fibrous cortical defect",
+      "raw": "Healed fibrous cortical defect",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

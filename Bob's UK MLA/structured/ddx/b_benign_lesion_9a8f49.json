@@ -1,0 +1,85 @@
+{
+  "finding": "B. BENIGN LESION",
+  "slug": "b_benign_lesion_9a8f49",
+  "chapter": "RHABDOMYOMA OF HEART",
+  "source_file": "processed_clusters/rhabdomyoma_of_heart/b_benign_lesion_9a8f49.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Granulomatous mediastinitis: usually histoplasmosis, sarcoidosis, TB",
+      "raw": "Granulomatous mediastinitis: usually histoplasmosis, sarcoidosis, TB",
+      "frequency": null
+    },
+    {
+      "name": "Substernal goiter",
+      "raw": "Substernal goiter",
+      "frequency": null
+    },
+    {
+      "name": "Ascending aortic aneurysm",
+      "raw": "Ascending aortic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Pacer wires / central venous catheter",
+      "raw": "Pacer wires / central venous catheter (23%)",
+      "frequency": "23%"
+    },
+    {
+      "name": "Constrictive pericarditis",
+      "raw": "Constrictive pericarditis",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal venous plexus = \"downhill varices\"",
+      "raw": "Esophageal venous plexus = \"downhill varices\" (predominantly upper ²/³ of esophagus)",
+      "frequency": null
+    },
+    {
+      "name": "Azygos + hemiazygos veins",
+      "raw": "Azygos + hemiazygos veins",
+      "frequency": null
+    },
+    {
+      "name": "Accessory hemiazygos + superior intercostal veins = \"aortic nipple\"",
+      "raw": "Accessory hemiazygos + superior intercostal veins = \"aortic nipple\" (visualization in normal population in 5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Lateral thoracic veins + umbilical vein [Vertebral veins]",
+      "raw": "Lateral thoracic veins + umbilical vein",
+      "frequency": null,
+      "sites": [
+        "Vertebral veins"
+      ]
+    },
+    {
+      "name": "head and neck edema (70%), headache, dizziness, syncope",
+      "raw": "head and neck edema (70%), headache, dizziness, syncope",
+      "frequency": "70%"
+    },
+    {
+      "name": "cutaneous enlarged venous collaterals, proptosis, tearing",
+      "raw": "cutaneous enlarged venous collaterals, proptosis, tearing",
+      "frequency": null
+    },
+    {
+      "name": "with benign etiology: slower onset + progression, both sexes at 25-40 years of age",
+      "raw": "with benign etiology: slower onset + progression, both sexes at 25-40 years of age",
+      "frequency": null
+    },
+    {
+      "name": "with malignancy: rapid progression within weeks, mostly males at 40-60 years of age",
+      "raw": "with malignancy: rapid progression within weeks, mostly males at 40-60 years of age",
+      "frequency": null
+    },
+    {
+      "name": "dyspnea, cyanosis, chest pain, hematemesis",
+      "raw": "dyspnea, cyanosis, chest pain, hematemesis (11%)",
+      "frequency": "11%"
+    }
+  ],
+  "criteria": {},
+  "context": "Collateral routes: √  superior mediastinal widening (64%) √  encasement / compression / occlusion of SVC √  dilated cervical + superficial thoracic veins (80%) √  SVC thrombus NUC: √  increased tracer uptake in quadrate lobe + posterior aspect of medial segment of left lobe ← umbilical pathway toward liver when injected in upper extremity"
+}

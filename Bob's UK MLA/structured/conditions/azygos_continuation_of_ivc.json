@@ -1,0 +1,36 @@
+{
+  "name": "AZYGOS CONTINUATION OF IVC",
+  "slug": "azygos_continuation_of_ivc",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/azygos_continuation_of_ivc.md",
+  "definition": "INTERRUPTED IVC WITH AZYGOS / HEMIAZYGOS CONTINUATION = ABSENCE OF THE HEPATIC",
+  "demographics": {
+    "Prevalence": "0.6%",
+    "Etiology": "formation failure of right subcardinal-hepatic venous anastomosis → atrophy of right"
+  },
+  "dominant_finding": "absence of hepatic ± infrahepatic IVC:",
+  "distribution": "absence of hepatic ± infrahepatic IVC:",
+  "discriminating_features": [
+    "absence of hepatic ± infrahepatic IVC:",
+    "drainage of hepatic veins into RA via supra- / posthepatic segment of IVC (N.B.: IVC",
+    "drainage of iliac + renal veins via azygos / hemiazygos vein:",
+    "right renal artery crosses anterior to \"IVC\" on US",
+    "both gonadal veins drain into ipsilateral renal vein (since postcardinal-subcardinal"
+  ],
+  "other_features": {
+    "general": [
+      "absence of hepatic ± infrahepatic IVC:",
+      "drainage of hepatic veins into RA via supra- / posthepatic segment of IVC (N.B.: IVC",
+      "drainage of iliac + renal veins via azygos / hemiazygos vein:",
+      "right renal artery crosses anterior to \"IVC\" on US",
+      "both gonadal veins drain into ipsilateral renal vein (since postcardinal-subcardinal"
+    ],
+    "CXR": [
+      "enlargement of azygos arch to > 7 mm",
+      "widening of right paraspinal stripe contiguous with azygos arch (= enlarged paraspinal +",
+      "widening of left paraspinal stripe (= enlarged hemiazygos v.)",
+      "intensely enhancing well-defined tubular structure behind diaphragmatic crura paralleling"
+    ]
+  },
+  "clinical": {}
+}

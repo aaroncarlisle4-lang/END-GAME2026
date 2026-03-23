@@ -1,0 +1,32 @@
+{
+  "name": "SHIN SPLINTS",
+  "slug": "shin_splints",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/shin_splints.md",
+  "definition": "SHIN SORENESS = MEDIAL TIBIAL STRESS SYNDROME = SOLEUS SYNDROME nonspecific term describing exertional lower leg pain",
+  "demographics": {
+    "Frequency": "75% of exertional leg pain",
+    "Location": "posterior / posteromedial tibial cortex"
+  },
+  "dominant_finding": "marrow edema / hemorrhage",
+  "distribution": "posterior / posteromedial tibial cortex",
+  "discriminating_features": [
+    "normal / longitudinal periosteal new bone",
+    "normal radionuclide angiogram + blood-pool phase (DDx to stress fracture)",
+    "linear longitudinal uptake on delayed images",
+    "marrow edema / hemorrhage",
+    "periosteal fluid"
+  ],
+  "other_features": {
+    "general": [
+      "normal / longitudinal periosteal new bone",
+      "normal radionuclide angiogram + blood-pool phase (DDx to stress fracture)",
+      "linear longitudinal uptake on delayed images"
+    ],
+    "MR": [
+      "marrow edema / hemorrhage",
+      "periosteal fluid"
+    ]
+  },
+  "clinical": {}
+}

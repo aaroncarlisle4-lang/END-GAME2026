@@ -1,0 +1,32 @@
+{
+  "finding": "E. INFECTIOUS CONDITION",
+  "slug": "e_infectious_condition",
+  "chapter": "D. IDIOPATHIC INFLAMMATION",
+  "source_file": "processed_clusters/d_idiopathic_inflammation/e_infectious_condition.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Infectious ileocecitis",
+      "raw": "Infectious ileocecitis",
+      "frequency": null
+    },
+    {
+      "name": "Typhlitis",
+      "raw": "Typhlitis",
+      "frequency": null
+    },
+    {
+      "name": "PROLAPSE (a)  antegrade: indistinguishable from lipomatosis / prolapsing mucosa / neoplasm (b)  retrograde",
+      "raw": "PROLAPSE (a)  antegrade: indistinguishable from lipomatosis / prolapsing mucosa / neoplasm (b)  retrograde",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

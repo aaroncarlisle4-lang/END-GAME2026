@@ -1,0 +1,37 @@
+{
+  "finding": "Fixed Filling Defects of Gallbladder",
+  "slug": "fixed_filling_defects_of_gallbladder",
+  "chapter": "Gallbladder Wall Thickening",
+  "source_file": "processed_clusters/gallbladder_wall_thickening/fixed_filling_defects_of_gallbladder.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polyp",
+      "raw": "Polyp",
+      "frequency": null
+    },
+    {
+      "name": "Adenomyomatosis",
+      "raw": "Adenomyomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Neurinoma",
+      "raw": "Neurinoma",
+      "frequency": null
+    },
+    {
+      "name": "Tumor, primary / secondary",
+      "raw": "Tumor, primary / secondary",
+      "frequency": null
+    },
+    {
+      "name": "Stone, wall-adherent",
+      "raw": "Stone, wall-adherent",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,24 @@
+{
+  "name": "BILIARY SCINTIGRAPHY",
+  "slug": "biliary_scintigraphy",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/biliary_scintigraphy.md",
+  "definition": "hepatic phase; 85% extracted by hepatocytes tracer enters anion pathway of bilirubin",
+  "demographics": {},
+  "dominant_finding": "gallbladder visualization within 30 minutes in 90%",
+  "distribution": "",
+  "discriminating_features": [
+    "gallbladder appearance within 60 minutes",
+    "gallbladder visualization within 30 minutes in 90%",
+    "small bowel activity within 90 min (80% within 60 min)"
+  ],
+  "other_features": {
+    "general": [],
+    "Bowel": [
+      "gallbladder appearance within 60 minutes",
+      "gallbladder visualization within 30 minutes in 90%",
+      "small bowel activity within 90 min (80% within 60 min)"
+    ]
+  },
+  "clinical": {}
+}

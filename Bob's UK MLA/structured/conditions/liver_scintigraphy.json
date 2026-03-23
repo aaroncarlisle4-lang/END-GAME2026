@@ -1,0 +1,23 @@
+{
+  "name": "LIVER SCINTIGRAPHY",
+  "slug": "liver_scintigraphy",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/liver_scintigraphy.md",
+  "definition": "LIVER-SPLEEN SCAN",
+  "demographics": {},
+  "dominant_finding": "colloid shift away from liver in diffuse hepatic dysfunction / decreased hepatic",
+  "distribution": "colloid shift away from liver in diffuse hepatic dysfunction / decreased hepatic",
+  "discriminating_features": [
+    "colloid shift away from liver in diffuse hepatic dysfunction / decreased hepatic",
+    "↑ bone marrow activity in hemolytic anemia",
+    "↑ splenic activity in hypersplenism of splenomegaly / cancer / systemic illness"
+  ],
+  "other_features": {
+    "general": [
+      "colloid shift away from liver in diffuse hepatic dysfunction / decreased hepatic",
+      "↑ bone marrow activity in hemolytic anemia",
+      "↑ splenic activity in hypersplenism of splenomegaly / cancer / systemic illness"
+    ]
+  },
+  "clinical": {}
+}

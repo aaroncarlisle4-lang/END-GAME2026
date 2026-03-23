@@ -1,0 +1,27 @@
+{
+  "finding": "C. Renal disease",
+  "slug": "c_renal_disease",
+  "chapter": "CONTROL OF HEART RATE",
+  "source_file": "processed_clusters/control_of_heart_rate/c_renal_disease.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal dysfunction: obtain baseline BUN + creatinine",
+      "raw": "Renal dysfunction: obtain baseline BUN + creatinine",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus",
+      "raw": "Diabetes mellitus",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma ◊  Hydrate patients and limit contrast dose!",
+      "raw": "Multiple myeloma ◊  Hydrate patients and limit contrast dose!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

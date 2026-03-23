@@ -1,0 +1,32 @@
+{
+  "finding": "D. MALIGNANT TUMOR",
+  "slug": "d_malignant_tumor_1_f633a8",
+  "chapter": "E. MISCELLANEOUS",
+  "source_file": "processed_clusters/e_miscellaneous/d_malignant_tumor_1_f633a8.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma (rare), adenoid cystic carcinoma",
+      "raw": "Adenocarcinoma (rare), adenoid cystic carcinoma",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Location: orbit > nasopharynx > ear"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Ductal / lobular atypical hyperplasia (= borderline lesion with some features of carcinoma",
+  "slug": "ductal_lobular_atypical_hyperplasia_borderline_lesion_with_some_features_of_carc_376de9",
+  "chapter": "FIBROADENOMA",
+  "source_file": "processed_clusters/fibroadenoma/ductal_lobular_atypical_hyperplasia_borderline_lesion_with_some_features_of_carc_376de9.md",
+  "quality_score": 0.733,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "HIGH RISK (8-11 times):",
+      "raw": "HIGH RISK (8-11 times):",
+      "frequency": null
+    },
+    {
+      "name": "Atypical hyperplasia + family history of breast cancer",
+      "raw": "Atypical hyperplasia + family history of breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Ductal / lobular carcinoma in situ",
+      "raw": "Ductal / lobular carcinoma in situ",
+      "frequency": null
+    },
+    {
+      "name": "palpable mass (rare) = \"adenosis tumor\"",
+      "raw": "palpable mass (rare) = \"adenosis tumor\"",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {
+    "HIGH RISK (8-11 times):": [],
+    "Atypical hyperplasia + family history of breast cancer": [],
+    "Ductal / lobular carcinoma in situ": [
+      "in situ) Adenosis Age:     all Path:  lobulocentric lesion derived from TDLU with distortion and effacement of underlying lobules Histo:  epithelial and myoepithelial proliferation of ductules + lobules with nuclear pleomorphism + increase in cell size",
+      "often round intralobular microcalcifications / milk of calcium (less common + less extensive than in sclerosing adenosis) US:"
+    ],
+    "palpable mass (rare) = \"adenosis tumor\"": [
+      "adenosis lobules are sonographically iso- to mildly hypoechoic compared with fat MR:"
+    ]
+  },
+  "context": "in situ) Adenosis Age:     all Path:  lobulocentric lesion derived from TDLU with distortion and effacement of underlying lobules Histo:  epithelial and myoepithelial proliferation of ductules + lobules with nuclear pleomorphism + increase in cell size √  increase in size of TDLUs to 3-7 mm √  \"snowflake pattern\" of widespread ill-defined nodular densities √  often round intralobular microcalcifications / milk of calcium (less common + less extensive than in sclerosing adenosis) US: √  adenosis lobules are sonographically iso- to mildly hypoechoic compared with fat MR: √  no abnormalities on T"
+}

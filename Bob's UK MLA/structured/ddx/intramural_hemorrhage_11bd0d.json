@@ -1,0 +1,27 @@
+{
+  "finding": "Intramural Hemorrhage",
+  "slug": "intramural_hemorrhage_11bd0d",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/gastrointestinal_hemorrhage/intramural_hemorrhage_11bd0d.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "VASCULITIS",
+      "raw": "VASCULITIS",
+      "frequency": null
+    },
+    {
+      "name": "Henoch-Schönlein purpura",
+      "raw": "Henoch-Schönlein purpura",
+      "frequency": null
+    },
+    {
+      "name": "TRAUMA eg, complication of colonoscopic polypectomy",
+      "raw": "TRAUMA eg, complication of colonoscopic polypectomy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

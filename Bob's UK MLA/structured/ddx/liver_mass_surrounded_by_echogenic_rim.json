@@ -1,0 +1,27 @@
+{
+  "finding": "Liver Mass Surrounded by Echogenic Rim",
+  "slug": "liver_mass_surrounded_by_echogenic_rim",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/liver_mass_surrounded_by_echogenic_rim.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastasis: esp., cystic pancreatic endocrine tumor",
+      "raw": "Metastasis: esp., cystic pancreatic endocrine tumor",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "A. ISCHEMIA",
+  "slug": "a_ischemia",
+  "chapter": "SCROTUM",
+  "source_file": "processed_clusters/scrotum/a_ischemia.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute testicular torsion",
+      "raw": "Acute testicular torsion (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Torsion of appendix testis",
+      "raw": "Torsion of appendix testis",
+      "frequency": null
+    },
+    {
+      "name": "Testicular infarction",
+      "raw": "Testicular infarction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

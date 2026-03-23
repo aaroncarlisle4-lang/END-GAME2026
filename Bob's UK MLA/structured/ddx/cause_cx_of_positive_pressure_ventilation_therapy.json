@@ -1,0 +1,27 @@
+{
+  "finding": "Cause: Cx of positive pressure ventilation therapy",
+  "slug": "cause_cx_of_positive_pressure_ventilation_therapy",
+  "chapter": "MEDIASTINUM",
+  "source_file": "processed_clusters/mediastinum/cause_cx_of_positive_pressure_ventilation_therapy.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic cyst: with bronchial connection + check-valve mechanism",
+      "raw": "Bronchogenic cyst: with bronchial connection + check-valve mechanism",
+      "frequency": null
+    },
+    {
+      "name": "Cystic adenomatoid malformation",
+      "raw": "Cystic adenomatoid malformation",
+      "frequency": null
+    },
+    {
+      "name": "Large mass",
+      "raw": "Large mass (pulmonary, mediastinal)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  pattern of diffuse coarse lines @   Cysts / masses"
+}

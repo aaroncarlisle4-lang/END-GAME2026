@@ -1,0 +1,47 @@
+{
+  "finding": "Solid Liver Lesion with Cystic Degeneration",
+  "slug": "solid_liver_lesion_with_cystic_degeneration",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/solid_liver_lesion_with_cystic_degeneration.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatocellular carcinoma / adenoma",
+      "raw": "Hepatocellular carcinoma / adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrolamellar carcinoma",
+      "raw": "Fibrolamellar carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Intrahepatic cholangiocarcinoma",
+      "raw": "Intrahepatic cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Epithelioid hemangioendothelioma",
+      "raw": "Epithelioid hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic disease",
+      "raw": "Metastatic disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

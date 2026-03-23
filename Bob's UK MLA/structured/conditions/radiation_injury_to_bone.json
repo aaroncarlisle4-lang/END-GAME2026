@@ -1,0 +1,55 @@
+{
+  "name": "RADIATION INJURY TO BONE",
+  "slug": "radiation_injury_to_bone",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/radiation_injury_to_bone.md",
+  "definition": "",
+  "demographics": {
+    "Location": "mandible, ribs, clavicle, humerus, spine, pelvis, femur",
+    "Histo": "1.  Osteosarcoma (90%) = 4-11% of all osteogenic sarcomas"
+  },
+  "dominant_finding": "increased intensity of spinal bone marrow on T1WI + T2WI corresponding to radiation",
+  "distribution": "mandible, ribs, clavicle, humerus, spine, pelvis, femur",
+  "discriminating_features": [
+    "homogeneous high-intensity signal within radiation port on T1WI",
+    "occasionally bandlike appearance characterized by peripheral zone of low SI (red",
+    "joint space widening ← cartilage hypertrophy (after 8-10 months)",
+    "growth plate widening in 1-2 months, often returning to normal by 6 months",
+    "permanent alteration in bone length / size ← premature fusion of physis"
+  ],
+  "other_features": {
+    "general": [
+      "homogeneous high-intensity signal within radiation port on T1WI",
+      "occasionally bandlike appearance characterized by peripheral zone of low SI (red",
+      "joint space widening ← cartilage hypertrophy (after 8-10 months)",
+      "growth plate widening in 1-2 months, often returning to normal by 6 months",
+      "permanent alteration in bone length / size ← premature fusion of physis",
+      "metaphyseal bowing",
+      "sclerotic metaphyseal bands",
+      "metaphyseal irregularity + fraying resembling rickets",
+      "longitudinal striations",
+      "overtubulation (= abnormal narrowing of the diaphyseal shaft)"
+    ],
+    "MR": [
+      "increased intensity of spinal bone marrow on T1WI + T2WI corresponding to radiation"
+    ],
+    "NUC": [
+      "bone scan with decreased uptake in radiation field"
+    ],
+    "Axial skeleton (dose of < 15 Gy)": [
+      "\"bone-within-bone\" appearance after 9-12 months",
+      "irreversible scalloping + irregularity of vertebral endplate with decreased height of",
+      "scoliosis concave toward side of irradiation ← asymmetric vertebral growth +",
+      "hypoplasia of ilium + ribs",
+      "acetabular dysplasia, coxa vara / valga",
+      "focal lytic area with abnormal bone matrix:",
+      "radiolucency confined to radiation field with narrow zone of transition",
+      "periostitis",
+      "increased fragility with sclerosis (= pathologic insufficiency fracture)",
+      "± cortical thinning from chronic infection"
+    ]
+  },
+  "clinical": {
+    "Cx": "slippage of femoral / humeral epiphysis ± ischemic necrosis (after doses of > 25"
+  }
+}

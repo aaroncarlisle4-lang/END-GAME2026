@@ -1,0 +1,22 @@
+{
+  "finding": "Cemento-Osseous Dysplasia (DDx)",
+  "slug": "cemento_osseous_dysplasia_ddx_1_fca7aa",
+  "chapter": "Cemento-Osseous Dysplasia",
+  "source_file": "processed_clusters/cemento_osseous_dysplasia/cemento_osseous_dysplasia_ddx_1_fca7aa.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "periapical periodontitis",
+      "raw": "periapical periodontitis",
+      "frequency": null
+    },
+    {
+      "name": "ossifying fibroma",
+      "raw": "ossifying fibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "often multicentric | no extension into adjacent bone | no cortical expansion"
+}

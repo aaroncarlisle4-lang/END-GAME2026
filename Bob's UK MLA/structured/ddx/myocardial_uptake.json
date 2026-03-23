@@ -1,0 +1,57 @@
+{
+  "finding": "Myocardial Uptake",
+  "slug": "myocardial_uptake",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/myocardial_uptake.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Physiologic FDG uptake ← depending on levels of blood glucose and free fatty acids",
+      "raw": "Physiologic FDG uptake ← depending on levels of blood glucose and free fatty acids",
+      "frequency": null
+    },
+    {
+      "name": "Drug interaction (a)  lowering uptake:",
+      "raw": "Drug interaction (a)  lowering uptake:",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Biventricular chemotherapy-induced cardiomyopathy",
+      "raw": "Biventricular chemotherapy-induced cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Ventricular enlargement associated with systemic + pulmonary hypertension and valvular heart disease",
+      "raw": "Ventricular enlargement associated with systemic + pulmonary hypertension and valvular heart disease",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory myocarditis",
+      "raw": "Inflammatory myocarditis",
+      "frequency": null
+    },
+    {
+      "name": "Endocarditis ← infected valve",
+      "raw": "Endocarditis ← infected valve",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasia: sarcoma, metastasis (breast, lung, melanoma, lymphoma), myxoma",
+      "raw": "Neoplasia: sarcoma, metastasis (breast, lung, melanoma, lymphoma), myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Coronary artery disease ← shift from fatty acid metabolism to glucose utilization ← ischemia",
+      "raw": "Coronary artery disease ← shift from fatty acid metabolism to glucose utilization ← ischemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  none / diffuse / focal uptake in walls of ventricles Remedy:   uptake suppressed by low-carbohydrate dinner followed by 12-hour fast ›  Bezafibrate for treating hyperlipidemia ›  Levothyroxine (thyroid hormone) (b)  increasing uptake: ›  benzodiazepines: Diazepam √  hypermetabolic myocardial foci in nonperivascular distribution √  increased metabolic activity in ventricular myocardium √  diffuse uniform increase in myocardial activity"
+}

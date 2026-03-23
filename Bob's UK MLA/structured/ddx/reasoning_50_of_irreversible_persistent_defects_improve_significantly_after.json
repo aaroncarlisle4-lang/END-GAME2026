@@ -1,0 +1,92 @@
+{
+  "finding": "Reasoning: 50% of irreversible persistent defects improve significantly after",
+  "slug": "reasoning_50_of_irreversible_persistent_defects_improve_significantly_after",
+  "chapter": "HEART SCINTIGRAPHY",
+  "source_file": "processed_clusters/heart_scintigraphy/reasoning_50_of_irreversible_persistent_defects_improve_significantly_after.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "EXERCISE IMAGE = DISTRIBUTION IMAGE =  stress thallium image",
+      "raw": "EXERCISE IMAGE = DISTRIBUTION IMAGE =  stress thallium image",
+      "frequency": null
+    },
+    {
+      "name": "REDISTRIBUTION IMAGE =  equilibrium between tracer uptake and efflux dependent on blood flow + mass of viable tissue + concentration gradient =  map of hypoperfused ischemic but viable myocardium obtained at rest after 2-3- 4-6 hours; washout half-life from normal myocardium is 54 min",
+      "raw": "REDISTRIBUTION IMAGE =  equilibrium between tracer uptake and efflux dependent on blood flow + mass of viable tissue + concentration gradient =  map of hypoperfused ischemic but viable myocardium obtained at rest after 2-3- 4-6 hours; washout half-life from normal myocardium is 54 min",
+      "frequency": null
+    },
+    {
+      "name": "DELAYED IMAGE (optional) =  viability study at 24 hours",
+      "raw": "DELAYED IMAGE (optional) =  viability study at 24 hours",
+      "frequency": null
+    },
+    {
+      "name": "Initial phase = first-pass extraction",
+      "raw": "Initial phase = first-pass extraction",
+      "frequency": null
+    },
+    {
+      "name": "Redistribution phase",
+      "raw": "Redistribution phase (on 2-4-hour images)",
+      "frequency": null
+    },
+    {
+      "name": "Severity of stenosis",
+      "raw": "Severity of stenosis (86% + 67% sensitive with stenosis > 75% + < 75%)",
+      "frequency": "86%"
+    },
+    {
+      "name": "Greater number of involved arteries",
+      "raw": "Greater number of involved arteries",
+      "frequency": null
+    },
+    {
+      "name": "Stenosis of left main > LAD > RCA > LCX",
+      "raw": "Stenosis of left main > LAD > RCA > LCX",
+      "frequency": null
+    },
+    {
+      "name": "Prior infarction",
+      "raw": "Prior infarction",
+      "frequency": null
+    },
+    {
+      "name": "High work load during exercise testing in patients with single-vessel disease (b)  decreased with:",
+      "raw": "High work load during exercise testing in patients with single-vessel disease (b)  decreased with:",
+      "frequency": null
+    },
+    {
+      "name": "Presence of collaterals",
+      "raw": "Presence of collaterals",
+      "frequency": null
+    },
+    {
+      "name": "Beta blockers",
+      "raw": "Beta blockers",
+      "frequency": null
+    },
+    {
+      "name": "Time delay for poststress images",
+      "raw": "Time delay for poststress images",
+      "frequency": null
+    },
+    {
+      "name": "Infiltrating myocardial disease",
+      "raw": "Infiltrating myocardial disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "booster reinjection Imaging: =  map of regional perfusion obtained within minutes after injection at peak exercise; initial distribution proportional to myocardial blood flow + arterial concentration of radioisotope + muscle mass; 300,000-400,000 counts / view (~ 5-8 minutes sampling time), should be completed by 30 minutes Interpretation: √  \"apical thinning\" = less myocardial mass of cardiac apex as a normal finding √  normally diminished tracer uptake at basal portions of ventricle (near plane of mitral valve) ← more fibrous tissue + less muscle mass √  variation in tracer intensity by 15-2"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "COLLOID CYST",
+  "slug": "colloid_cyst",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/colloid_cyst.md",
+  "definition": "",
+  "demographics": {
+    "Incidence": "2% of glial tumors of ependymal origin; 0.5-1% of CNS tumors",
+    "Histo": "single layer of ciliated + columnar mucin-secreting epithelium; squamous cells of",
+    "Age": "5th-6th decade; M > F",
+    "Size": "several mm to 3 cm"
+  },
+  "dominant_finding": "fluid contents:",
+  "distribution": "",
+  "discriminating_features": [
+    "± sellar erosion",
+    "3rd ventricular enlargement (to accommodate cyst anteriorly)",
+    "asymmetric lateral ventricular enlargement (invariably)",
+    "occasionally widens septum pellucidum",
+    "may show enhancement of border ← draped choroid plexus / capsule"
+  ],
+  "other_features": {
+    "general": [
+      "± sellar erosion",
+      "3rd ventricular enlargement (to accommodate cyst anteriorly)",
+      "asymmetric lateral ventricular enlargement (invariably)",
+      "occasionally widens septum pellucidum",
+      "may show enhancement of border ← draped choroid plexus / capsule"
+    ],
+    "NECT": [
+      "spherical iso- / (often) hyperattenuating lesion with smooth surface contour without",
+      "fluid contents:"
+    ],
+    "MR": [
+      "variable SI lesion (dependent on mucus composition):",
+      "hyperintense on T1WI + FLAIR ← large protein molecules / paramagnetic effect of",
+      "iso- to hypointense on T2WI (most common)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "asymptomatic and stable in 90%; 10% enlarge / cause hydrocephalus; with rapid"
+  }
+}

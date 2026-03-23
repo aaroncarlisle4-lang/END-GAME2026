@@ -1,0 +1,37 @@
+{
+  "finding": "Decreased T1 Signal Intensity of Spinal Bone Marrow",
+  "slug": "decreased_t1_signal_intensity_of_spinal_bone_marrow_8701fa",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/decreased_t1_signal_intensity_of_spinal_bone_marrow_8701fa.md",
+  "quality_score": 0.533,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "CENTERED ON ENDPLATE",
+      "raw": "CENTERED ON ENDPLATE",
+      "frequency": null
+    },
+    {
+      "name": "Modic type 1 + 3 endplate changes",
+      "raw": "Modic type 1 + 3 endplate changes",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid",
+      "raw": "Amyloid",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "CENTERED ON ENDPLATE": [],
+    "Modic type 1 + 3 endplate changes": [],
+    "Osteomyelitis": [],
+    "Amyloid": []
+  },
+  "context": "=  equal to / lower than SI of muscle"
+}

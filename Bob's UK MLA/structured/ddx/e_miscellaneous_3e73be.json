@@ -1,0 +1,42 @@
+{
+  "finding": "E. MISCELLANEOUS",
+  "slug": "e_miscellaneous_3e73be",
+  "chapter": "D. HYPERCALCEMIA",
+  "source_file": "processed_clusters/d_hypercalcemia/e_miscellaneous_3e73be.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mineral oil aspiration",
+      "raw": "Mineral oil aspiration",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary infarction",
+      "raw": "Pulmonary infarction",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Asbestosis",
+      "raw": "Asbestosis",
+      "frequency": null
+    },
+    {
+      "name": "Fluid",
+      "raw": "Fluid (effusion, empyema, hematoma)",
+      "frequency": null
+    },
+    {
+      "name": "Talc",
+      "raw": "Talc",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√   FDG-avid pleural lesions at PET/CT with corresponding high attenuation at CT suggests pleurodesis, because < 10% of pleural malignancies develop calcifications!"
+}

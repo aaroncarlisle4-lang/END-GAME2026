@@ -1,0 +1,38 @@
+{
+  "name": "CONGENITAL LOBAR OVERINFLATION",
+  "slug": "congenital_lobar_overinflation",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/congenital_lobar_overinflation.md",
+  "definition": "CONGENITAL LOBAR EMPHYSEMA (technically inaccurate term) progressive overdistension of one / multiple lobes",
+  "demographics": {
+    "Histo": "airspace enlargement without maldevelopment",
+    "Associated with": "CHD in 12-15% (PDA, VSD)",
+    "Location": "LUL (42-43%) > RML (32-35%) > RUL (20%) > either lower lobe (< 1%)"
+  },
+  "dominant_finding": "hazy masslike dense opacity immediately following birth ← delayed clearance of lung fluid in",
+  "distribution": "LUL (42-43%) > RML (32-35%) > RUL (20%) > either lower lobe (< 1%)",
+  "discriminating_features": [
+    "hazy masslike dense opacity immediately following birth ← delayed clearance of lung fluid in",
+    "hyperlucent overinflated lobe (after clearing of fluid via lymphatic + capillary system)",
+    "air trapping:",
+    "compression atelectasis of adjacent ipsilateral lobes",
+    "contralateral mediastinal shift"
+  ],
+  "other_features": {
+    "general": [
+      "hazy masslike dense opacity immediately following birth ← delayed clearance of lung fluid in",
+      "hyperlucent overinflated lobe (after clearing of fluid via lymphatic + capillary system)",
+      "air trapping:",
+      "compression atelectasis of adjacent ipsilateral lobes",
+      "contralateral mediastinal shift",
+      "widening of rib spaces",
+      "depression of ipsilateral hemidiaphragm",
+      "widely separated but organized vascular markings",
+      "homogeneously hyperechoic mass",
+      "mass of homogeneously high SI on T2WI"
+    ]
+  },
+  "clinical": {
+    "Rx": "ventilatory support (low-volume, low-pressure); surgical resection"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "ORBITAL SCHWANNOMA",
+  "slug": "orbital_schwannoma",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/orbital_schwannoma.md",
+  "definition": "slowly progressive benign tumor",
+  "demographics": {
+    "Location": "branches of trigeminal (CN V) nerve (most common) > oculomotor > trochlear >"
+  },
+  "dominant_finding": "T2-hyperintense heterogeneous pattern ← mixture of solid and cystic components",
+  "distribution": "branches of trigeminal (CN V) nerve (most common) > oculomotor > trochlear >",
+  "discriminating_features": [
+    "cone-shaped tumor ← involvement of orbital apex",
+    "dumbbell shape ← involvement of superior orbital fissure",
+    "well-circumscribed mass:",
+    "uniformly T1-isointense ± variations",
+    "T2-hyperintense heterogeneous pattern ← mixture of solid and cystic components"
+  ],
+  "other_features": {
+    "general": [
+      "cone-shaped tumor ← involvement of orbital apex",
+      "dumbbell shape ← involvement of superior orbital fissure"
+    ],
+    "MR": [
+      "well-circumscribed mass:",
+      "uniformly T1-isointense ± variations",
+      "T2-hyperintense heterogeneous pattern ← mixture of solid and cystic components",
+      "typically heterogeneous uptake of contrast medium"
+    ]
+  },
+  "clinical": {}
+}

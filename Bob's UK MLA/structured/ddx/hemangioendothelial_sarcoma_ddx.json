@@ -1,0 +1,27 @@
+{
+  "finding": "Hemangioendothelial Sarcoma (DDx)",
+  "slug": "hemangioendothelial_sarcoma_ddx",
+  "chapter": "Hemangioendothelial Sarcoma",
+  "source_file": "processed_clusters/hemangioendothelial_sarcoma/hemangioendothelial_sarcoma_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "aneurysmal bone cyst",
+      "raw": "aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "poorly differentiated fibrosarcoma",
+      "raw": "poorly differentiated fibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "alveolar",
+      "raw": "alveolar",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "low to intermediate signal intensity on T1WI | high signal intensity on T2WI | homogeneous enhancement | no serpentine vascular structures"
+}

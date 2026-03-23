@@ -1,0 +1,32 @@
+{
+  "finding": "Respiratory Distress Syndrome Of Newborn (DDx)",
+  "slug": "respiratory_distress_syndrome_of_newborn_ddx",
+  "chapter": "Respiratory Distress Syndrome Of Newborn",
+  "source_file": "processed_clusters/respiratory_distress_syndrome_of_newborn/respiratory_distress_syndrome_of_newborn_ddx.md",
+  "quality_score": 0.65,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "neonatal pneumonia",
+      "raw": "neonatal pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "meconium aspiration",
+      "raw": "meconium aspiration",
+      "frequency": null
+    },
+    {
+      "name": "unilateral tension pneumothorax",
+      "raw": "unilateral tension pneumothorax",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhagic pulmonary edema",
+      "raw": "hemorrhagic pulmonary edema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

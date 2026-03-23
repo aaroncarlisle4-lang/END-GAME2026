@@ -1,0 +1,27 @@
+{
+  "finding": "B. INTRARENAL = PARENCHYMAL",
+  "slug": "b_intrarenal_parenchymal",
+  "chapter": "B. LOSS OF PERFUSION",
+  "source_file": "processed_clusters/b_loss_of_perfusion/b_intrarenal_parenchymal.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital hypoplasia",
+      "raw": "Congenital hypoplasia",
+      "frequency": null
+    },
+    {
+      "name": "Multicystic dysplastic kidney",
+      "raw": "Multicystic dysplastic kidney (in adult)",
+      "frequency": null
+    },
+    {
+      "name": "Postinflammatory atrophy",
+      "raw": "Postinflammatory atrophy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

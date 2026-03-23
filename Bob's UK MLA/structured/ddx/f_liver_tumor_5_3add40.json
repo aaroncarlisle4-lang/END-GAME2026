@@ -1,0 +1,37 @@
+{
+  "finding": "F. LIVER TUMOR (5%",
+  "slug": "f_liver_tumor_5_3add40",
+  "chapter": "C. LEFT UPPER QUADRANT",
+  "source_file": "processed_clusters/c_left_upper_quadrant/f_liver_tumor_5_3add40.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioendothelioma",
+      "raw": "Hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Mesenchymal hamartoma",
+      "raw": "Mesenchymal hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatoblastoma",
+      "raw": "Hepatoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases: ← neuroblastoma + leukemia",
+      "raw": "Metastases: ← neuroblastoma + leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Congenital leukemia",
+      "raw": "Congenital leukemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   4.7÷1,000,000 live births Prognosis:   poor ← rapidly progressive course Age:   first 4-6 weeks of infancy Associated with:   congenital leukemia of Down syndrome (15-fold increase of leukemia) OB-US: √  hepatosplenomegaly → ↑ abdominal circumference √  hydrops ← fetal anemia / leukemic infiltrate of myocardium / visceral fibrosis with ↑ vascular resistance DDx:   infection, metastatic neuroblastoma"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Tuberculosis Of Abdomen — Gastroduodenal (DDx)",
+  "slug": "tuberculosis_of_abdomen_gastroduodenal_ddx",
+  "chapter": "Tuberculosis Of Abdomen",
+  "source_file": "processed_clusters/tuberculosis_of_abdomen/tuberculosis_of_abdomen_gastroduodenal_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "carcinoma",
+      "raw": "carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "syphilis @   Esophagus",
+      "raw": "syphilis @   Esophagus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "narrowed antrum (= linitis plastica appearance) | antral sinus tract / fistula | multiple large and deep ulcerations on lesser curvature simulating peptic ulcer disease | thickened duodenal folds with irregular contour / dilatation"
+}

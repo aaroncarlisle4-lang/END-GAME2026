@@ -1,0 +1,37 @@
+{
+  "finding": "Pulmonary Mass with Air Bronchogram",
+  "slug": "pulmonary_mass_with_air_bronchogram_1665a3",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/pulmonary_mass_with_air_bronchogram_1665a3.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchioloalveolar carcinoma",
+      "raw": "Bronchioloalveolar carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Pseudolymphoma",
+      "raw": "Pseudolymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Blastomycosis",
+      "raw": "Blastomycosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

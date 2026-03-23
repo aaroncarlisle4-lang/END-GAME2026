@@ -1,0 +1,32 @@
+{
+  "finding": "Fat-containing Masses of Neck",
+  "slug": "fat_containing_masses_of_neck",
+  "chapter": "D. NEUROLOGIC",
+  "source_file": "processed_clusters/d_neurologic/fat_containing_masses_of_neck.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lipoblastoma",
+      "raw": "Lipoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma ◊  4% of all liposarcomas",
+      "raw": "Liposarcoma ◊  4% of all liposarcomas",
+      "frequency": "4%"
+    },
+    {
+      "name": "extremely rare < 10 years of age",
+      "raw": "extremely rare < 10 years of age",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   neck (28%), larynx (20%), pharynx (18%) Lymph node enlargement of neck ◊  Most common neck mass in children!"
+}

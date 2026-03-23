@@ -1,0 +1,37 @@
+{
+  "name": "SPLENIC INFARCTION",
+  "slug": "splenic_infarction",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/splenic_infarction.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "initially ill-defined hypoechoic lesion ← inflammation, edema, necrosis",
+  "distribution": "single / multiple focal wedge-shaped peripheral defects",
+  "discriminating_features": [
+    "single / multiple focal wedge-shaped peripheral defects",
+    "global infarction",
+    "initially ill-defined hypoechoic lesion ← inflammation, edema, necrosis",
+    "later increasingly well-defined echogenic lesion ← organization of infarct with fibrosis",
+    "mottled area of increased attenuation on NECT ← hemorrhage"
+  ],
+  "other_features": {
+    "general": [
+      "single / multiple focal wedge-shaped peripheral defects",
+      "global infarction"
+    ],
+    "US": [
+      "initially ill-defined hypoechoic lesion ← inflammation, edema, necrosis",
+      "later increasingly well-defined echogenic lesion ← organization of infarct with fibrosis",
+      "mottled area of increased attenuation on NECT ← hemorrhage",
+      "large focal hyperattenuating lesion on CECT",
+      "mottled pattern of contrast enhancement",
+      "focal progressively more well-demarcated areas of decreased attenuation without",
+      "size decreases + attenuation returns to normal",
+      "complete resolution / residual contour defect",
+      "areas of calcification"
+    ]
+  },
+  "clinical": {
+    "Cx": "acute febrile illness, abscess formation, pseudocyst formation, splenic rupture, hemorrhage"
+  }
+}

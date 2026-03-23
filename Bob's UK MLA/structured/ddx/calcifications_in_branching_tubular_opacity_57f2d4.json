@@ -1,0 +1,45 @@
+{
+  "finding": "Calcifications in Branching Tubular Opacity",
+  "slug": "calcifications_in_branching_tubular_opacity_57f2d4",
+  "chapter": "BREAST CALCIFICATIONS",
+  "source_file": "processed_clusters/breast_calcifications/calcifications_in_branching_tubular_opacity_57f2d4.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ductal carcinoma in situ",
+      "raw": "Ductal carcinoma in situ",
+      "frequency": null
+    },
+    {
+      "name": "Atypical ductal hyperplasia",
+      "raw": "Atypical ductal hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Secretory disease [Peripheral papillomatosis]",
+      "raw": "Secretory disease",
+      "frequency": null,
+      "sites": [
+        "Peripheral papillomatosis"
+      ]
+    },
+    {
+      "name": "Vascular: calcified artery; Mondor disease",
+      "raw": "Vascular: calcified artery; Mondor disease (= thrombophlebitis of superficial vein)",
+      "frequency": null
+    },
+    {
+      "name": "Fat necrosis",
+      "raw": "Fat necrosis",
+      "frequency": null
+    },
+    {
+      "name": "S/P Galactography",
+      "raw": "S/P Galactography",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

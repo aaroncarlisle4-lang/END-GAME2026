@@ -1,0 +1,22 @@
+{
+  "name": "EPENDYMAL CYST",
+  "slug": "ependymal_cyst",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/ependymal_cyst.md",
+  "definition": "rare benign thin-walled cyst",
+  "demographics": {
+    "Histo": "thin-walled ependyma-lined cyst containing clear serous fluid",
+    "Location": "lateral ventricle, juxtaventricular in temporoparietal region + frontal lobe; rare in"
+  },
+  "dominant_finding": "thin-walled CSF-containing cyst",
+  "distribution": "lateral ventricle, juxtaventricular in temporoparietal region + frontal lobe; rare in",
+  "discriminating_features": [
+    "thin-walled CSF-containing cyst"
+  ],
+  "other_features": {
+    "general": [
+      "thin-walled CSF-containing cyst"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Bilateral Enlargement of Salivary Glands",
+  "slug": "bilateral_enlargement_of_salivary_glands",
+  "chapter": "Parotid Gland Enlargement",
+  "source_file": "processed_clusters/parotid_gland_enlargement/bilateral_enlargement_of_salivary_glands.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Viral infection",
+      "raw": "Viral infection (mumps)",
+      "frequency": null
+    },
+    {
+      "name": "Acute phase of Sjögren syndrome",
+      "raw": "Acute phase of Sjögren syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Mikulicz disease",
+      "raw": "Mikulicz disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Salivary Gland Neoplasm Frequency:   90-95% occur in parotid gland, 5% in submandibular + sublingual glands; only 1% of all pediatric tumors! ◊  Most salivary gland neoplasms are benign (70%-80%) and found in parotid glands (80- 90%)! ◊  The smaller the salivary gland the higher the rate of malignancy: parotid (20-25%) < submandibular (40-50%) < sublingual + minor salivary glands in tongue / floor of mouth / retromolar region (50-81%) ◊  Spread to regional lymph nodes is infrequent!"
+}

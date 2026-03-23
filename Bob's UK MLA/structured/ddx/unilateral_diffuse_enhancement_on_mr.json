@@ -1,0 +1,57 @@
+{
+  "finding": "Unilateral Diffuse Enhancement on MR",
+  "slug": "unilateral_diffuse_enhancement_on_mr",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/unilateral_diffuse_enhancement_on_mr.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Parenchymal asymmetry",
+      "raw": "Parenchymal asymmetry",
+      "frequency": null
+    },
+    {
+      "name": "Fibrocystic changes",
+      "raw": "Fibrocystic changes",
+      "frequency": null
+    },
+    {
+      "name": "Adenosis",
+      "raw": "Adenosis",
+      "frequency": null
+    },
+    {
+      "name": "Unilateral implant",
+      "raw": "Unilateral implant",
+      "frequency": null
+    },
+    {
+      "name": "Normal: unfavorable cycle phase, HRT",
+      "raw": "Normal: unfavorable cycle phase, HRT",
+      "frequency": null
+    },
+    {
+      "name": "Mastitis",
+      "raw": "Mastitis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory breast cancer",
+      "raw": "Inflammatory breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Extensive carcinoma: diffuse lobular carcinoma, lymphangiosis, extensive DCIS",
+      "raw": "Extensive carcinoma: diffuse lobular carcinoma, lymphangiosis, extensive DCIS",
+      "frequency": null
+    },
+    {
+      "name": "Prior ipsilateral radiotherapy within last few months",
+      "raw": "Prior ipsilateral radiotherapy within last few months",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  Common ›  Rare"
+}

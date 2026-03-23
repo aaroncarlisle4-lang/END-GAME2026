@@ -1,0 +1,50 @@
+{
+  "finding": "Azygos Vein Reflux",
+  "slug": "azygos_vein_reflux_49976e",
+  "chapter": "VENA CAVA",
+  "source_file": "processed_clusters/vena_cava/azygos_vein_reflux_49976e.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pulmonary arterial hypertension",
+      "raw": "Pulmonary arterial hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Massive pulmonary embolism",
+      "raw": "Massive pulmonary embolism",
+      "frequency": null
+    },
+    {
+      "name": "Cor pulmonale",
+      "raw": "Cor pulmonale",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic right heart failure",
+      "raw": "Ischemic right heart failure",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac tamponade",
+      "raw": "Cardiac tamponade",
+      "frequency": null
+    },
+    {
+      "name": "Tumoral obstruction of main pulmonary artery [Bilateral pneumothoraces]",
+      "raw": "Tumoral obstruction of main pulmonary artery",
+      "frequency": null,
+      "sites": [
+        "Bilateral pneumothoraces"
+      ]
+    },
+    {
+      "name": "Positive pressure ventilation for ARDS",
+      "raw": "Positive pressure ventilation for ARDS",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  sign of raised central venous pressure"
+}

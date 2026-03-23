@@ -1,0 +1,42 @@
+{
+  "finding": "Supratentorial Intraventricular Tumors",
+  "slug": "supratentorial_intraventricular_tumors_e85251",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/supratentorial_intraventricular_tumors_e85251.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Choroid plexus neoplasm",
+      "raw": "Choroid plexus neoplasm (44%)",
+      "frequency": "44%"
+    },
+    {
+      "name": "Giant cell astrocytoma",
+      "raw": "Giant cell astrocytoma (19%)",
+      "frequency": "19%"
+    },
+    {
+      "name": "Hemangioma in Sturge-Weber syndrome",
+      "raw": "Hemangioma in Sturge-Weber syndrome (12%) (b)  Third ventricle (¼)",
+      "frequency": "12%"
+    },
+    {
+      "name": "Astrocytoma",
+      "raw": "Astrocytoma (13%)",
+      "frequency": "13%"
+    },
+    {
+      "name": "Choroid plexus neoplasm",
+      "raw": "Choroid plexus neoplasm (6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma (6%)",
+      "frequency": "6%"
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  Lateral ventricle (¾)"
+}

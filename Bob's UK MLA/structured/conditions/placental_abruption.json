@@ -1,0 +1,58 @@
+{
+  "name": "PLACENTAL ABRUPTION",
+  "slug": "placental_abruption",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/placental_abruption.md",
+  "definition": "PLACENTAL HEMORRHAGE premature separation of placenta from myometrium ← maternal hemorrhage into decidua ABRUPTIO PLACENTAE accumulation of blood beneath placenta separating placenta from myometrium MARGINAL PLACENTAL HEMORRHAGE SUBMEMBRANOUS PLACENTAL HEMORRHAGE separation of chorionic membrane from decidua with accumulation of blood in BREUS MOLE = SUBCHORIAL HEMORRHAGE = MASSIVE SUBCHORIAL THROMBOSIS variant of placental abruption with progressive slow intracotyledonary bleeding massive retroplacental hematoma dissecting into placenta; related to placental infarcts",
+  "demographics": {
+    "Frequency": "0.5-1.3% of gestations",
+    "Associated with": "intraplacental infarction / hematoma",
+    "Etiology": "massive pooling + stasis ← extensive venous obstruction"
+  },
+  "dominant_finding": "nonenhancing placenta",
+  "distribution": "focal mass of varying echogenicity within placenta",
+  "discriminating_features": [
+    "nonenhancing placenta",
+    "contiguous retroplacental area of decreased enhancement forming acute angles with",
+    "areas of contrast extravasation in infarcted placenta (occasionally)",
+    "increased intrauterine T1 signal at site of bleeding",
+    "thickened heterogeneous appearing placenta (hematoma of similar echogenicity as placenta)"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "hyperechoic / isoechoic hematoma (initially difficult to distinguish from placenta):",
+      "abnormally thick + heterogeneous placenta (if blood isoechoic)",
+      "hypoechoic / complex collection between uterine wall + placenta in 50% within 1 week",
+      "anechoic collection within 2 weeks"
+    ],
+    "NECT": [
+      "lenticular high-attenuating collection = retroplacental hematoma",
+      "high-attenuation blood products in dependent portions of the amniotic sac"
+    ],
+    "CECT": [
+      "nonenhancing placenta",
+      "contiguous retroplacental area of decreased enhancement forming acute angles with",
+      "areas of contrast extravasation in infarcted placenta (occasionally)",
+      "increased intrauterine T1 signal at site of bleeding",
+      "thickened heterogeneous appearing placenta (hematoma of similar echogenicity as placenta)",
+      "becomes anechoic in 1-2 weeks",
+      "rounded placental margins + intraplacental sonolucencies",
+      "placental margin detached from adjacent myometrium (60%):",
+      "separation / rounding of placental margin",
+      "elevation of chorioamnionic membrane",
+      "hematoma contiguous with placental margin (100%) = marginal hematoma",
+      "predominant hemorrhage often separate from placenta, even on opposite side of placenta",
+      "total loss of normal placental architecture",
+      "gelatinous character of placenta elicited by fetal movement / abdominal jostling",
+      "hematoma bulging into amniotic fluid",
+      "severe symmetric IUGR",
+      "focal mass of varying echogenicity within placenta",
+      "internal echoes in amniotic fluid"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "clinically significant if 30-40% of maternal surface of placenta involved",
+    "N.B.": "placental membranes are more easily stripped from myometrium than from placenta"
+  }
+}

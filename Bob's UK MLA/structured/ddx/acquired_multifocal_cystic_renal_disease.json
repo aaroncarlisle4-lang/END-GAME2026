@@ -1,0 +1,42 @@
+{
+  "finding": "Acquired Multifocal Cystic Renal Disease",
+  "slug": "acquired_multifocal_cystic_renal_disease",
+  "chapter": "Potter Classification",
+  "source_file": "processed_clusters/potter_classification/acquired_multifocal_cystic_renal_disease.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Glomerulocystic kidney disease",
+      "raw": "Glomerulocystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Lithium-induced nephropathy",
+      "raw": "Lithium-induced nephropathy",
+      "frequency": null
+    },
+    {
+      "name": "Acquired cystic kidney disease",
+      "raw": "Acquired cystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Multicystic dysplastic kidney",
+      "raw": "Multicystic dysplastic kidney",
+      "frequency": null
+    },
+    {
+      "name": "Localized cystic renal disease",
+      "raw": "Localized cystic renal disease",
+      "frequency": null
+    },
+    {
+      "name": "Renal sinus cyst",
+      "raw": "Renal sinus cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Lung Tumor in Childhood",
+  "slug": "lung_tumor_in_childhood",
+  "chapter": "C. CENTRAL / PERIPHERAL",
+  "source_file": "processed_clusters/c_central_peripheral/lung_tumor_in_childhood.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastatic",
+      "raw": "Metastatic (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Blastoma",
+      "raw": "Blastoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucoepidermoid carcinoma",
+      "raw": "Mucoepidermoid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

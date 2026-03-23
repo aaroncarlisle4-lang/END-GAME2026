@@ -1,0 +1,72 @@
+{
+  "finding": "WITHOUT criteria for an empyema",
+  "slug": "without_criteria_for_an_empyema_afce84",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/without_criteria_for_an_empyema_afce84.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis (in 1%): high protein content (75 g/dL), lymphocytes > 70%, positive culture (only in 20-25%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Fungi: Actinomyces, Nocardia",
+      "raw": "Fungi: Actinomyces, Nocardia",
+      "frequency": null
+    },
+    {
+      "name": "Parasites: amebiasis (→ liver abscess in 15-20%), Echinococcus",
+      "raw": "Parasites: amebiasis (→ liver abscess in 15-20%), Echinococcus",
+      "frequency": "20%"
+    },
+    {
+      "name": "Mycoplasma, rickettsia",
+      "raw": "Mycoplasma, rickettsia (in 20%) (B)  MALIGNANT DISEASE (in 60%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "positive cytologic results",
+      "raw": "positive cytologic results",
+      "frequency": null
+    },
+    {
+      "name": "often serosanguinous (D)  ABDOMINAL DISEASE",
+      "raw": "often serosanguinous (D)  ABDOMINAL DISEASE",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis / pancreatic pseudocyst / pancreaticopleural fistula (in ⅔):",
+      "raw": "Pancreatitis / pancreatic pseudocyst / pancreaticopleural fistula (in ⅔):",
+      "frequency": null
+    },
+    {
+      "name": "high amylase levels",
+      "raw": "high amylase levels",
+      "frequency": null
+    },
+    {
+      "name": "Boerhaave syndrome:",
+      "raw": "Boerhaave syndrome:",
+      "frequency": null
+    },
+    {
+      "name": "Subphrenic abscess",
+      "raw": "Subphrenic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Abdominal tumor with ascites",
+      "raw": "Abdominal tumor with ascites",
+      "frequency": null
+    },
+    {
+      "name": "Meigs-Salmon syndrome =  primary pelvic neoplasms (ovarian fibroma, thecoma, granulosa cell tumor,",
+      "raw": "Meigs-Salmon syndrome =  primary pelvic neoplasms (ovarian fibroma, thecoma, granulosa cell tumor,",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Pathogenesis: ›  pleural metastases → ⇑ pleural permeability ›  lymphatic obstruction ← pleural vessels, mediastinal nodes, thoracic duct disruption ›  bronchial obstruction → loss of volume + resorptive surface ›  hypoproteinemia ← tumor cachexia Cause:   lung cancer (26-49%), breast cancer (8-24%), lymphoma (10-28% with chylothorax in ⅔), ovarian cancer (10%), malignant mesothelioma containing hyaluronic acid (5%) Rx:   sclerosing agents: doxycycline, bleomycin, talc (C)  VASCULAR Pulmonary emboli (in 15-30% of all embolic events): √  usually left-sided pleural effusion left-sided esophageal"
+}

@@ -1,0 +1,50 @@
+{
+  "name": "ESOPHAGEAL VARICES",
+  "slug": "esophageal_varices",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/esophageal_varices.md",
+  "definition": "plexuses formed by (1) dilated subepithelial and submucosal veins + (2) dilated venae collateral blood flow from portal vein → azygos vein → into SVC (usually lower collateral blood flow from SVC → azygos vein → into IVC / portal venous system (upper part of intrathoracic portosystemic collateral network dilated pericardiophrenic veins mimicking a tumor",
+  "demographics": {
+    "Location": "lower esophagus"
+  },
+  "dominant_finding": "dilated collateral vessels surrounding esophagus + descending thoracic aorta",
+  "distribution": "lower esophagus",
+  "discriminating_features": [
+    "lobulated masses in posterior mediastinum (visible in 5-8% of patients with varices)",
+    "silhouetting of descending aorta",
+    "abnormal convex contour of azygoesophageal recess at level of gastroesophageal junction",
+    "thickened sinuous interrupted mucosal folds (earliest sign)",
+    "tortuous radiolucencies of variable size + location"
+  ],
+  "other_features": {
+    "general": [
+      "lobulated masses in posterior mediastinum (visible in 5-8% of patients with varices)",
+      "silhouetting of descending aorta",
+      "abnormal convex contour of azygoesophageal recess at level of gastroesophageal junction",
+      "thickened sinuous interrupted mucosal folds (earliest sign)",
+      "tortuous radiolucencies of variable size + location",
+      "\"worm-eaten\" smooth lobulated filling defects",
+      "findings may be accentuated after sclerotherapy",
+      "nodular thickening of esophageal wall + lobulated outer contour",
+      "scalloped enhancing nodular masses protruding into esophageal lumen",
+      "right- / left-sided soft-tissue masses (= paraesophageal varices)",
+      "marked enhancement following dynamic CT",
+      "varices in lower ½ of esophagus",
+      "varices in upper ⅓ of esophagus"
+    ],
+    "CXR": [
+      "lateral bulging of paraspinal interfaces with obliteration of azygoesophageal recess +",
+      "undulating masses along cardiac borders",
+      "widening of both paraspinal interfaces"
+    ],
+    "CT": [
+      "dilated collateral vessels surrounding esophagus + descending thoracic aorta"
+    ],
+    "CECT": [
+      "enhancing pseudotumor (vascular nature)"
+    ]
+  },
+  "clinical": {
+    "Cx": "variceal hemorrhage at a rate of 10-30% per year; 20-35% mortality with exsanguination"
+  }
+}

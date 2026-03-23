@@ -1,0 +1,52 @@
+{
+  "finding": "C. METASTATIC TUMOR ◊ 5-10% of all cancer patients develop skin metastases",
+  "slug": "c_metastatic_tumor_5_10_of_all_cancer_patients_develop_skin_metastases",
+  "chapter": "D. Vascular",
+  "source_file": "processed_clusters/d_vascular/c_metastatic_tumor_5_10_of_all_cancer_patients_develop_skin_metastases.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carcinoma",
+      "raw": "Carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast",
+      "raw": "Breast",
+      "frequency": null
+    },
+    {
+      "name": "Lung",
+      "raw": "Lung",
+      "frequency": null
+    },
+    {
+      "name": "Ovary",
+      "raw": "Ovary",
+      "frequency": null
+    },
+    {
+      "name": "Colon",
+      "raw": "Colon",
+      "frequency": null
+    },
+    {
+      "name": "Kidney",
+      "raw": "Kidney",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma (in 30% of melanoma patients)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Myeloma",
+      "raw": "Myeloma (in < 5% of multiple myeloma patients)",
+      "frequency": "5%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Synovial Osteochondromatosis (DDx)",
+  "slug": "synovial_osteochondromatosis_ddx_8e9ed6",
+  "chapter": "Synovial Osteochondromatosis",
+  "source_file": "processed_clusters/synovial_osteochondromatosis/synovial_osteochondromatosis_ddx_8e9ed6.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "large effusion",
+      "raw": "large effusion",
+      "frequency": null
+    },
+    {
+      "name": "soft-tissue tumor √  osteochondral bodies:",
+      "raw": "soft-tissue tumor √  osteochondral bodies:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "NO osteoporosis | multiple calcified / ossified intraarticular bodies | intraarticular soft-tissue mass of near-water attenuation containing multiple small | homogeneous lobulated intraarticular mass isointense to muscle on T1WI + hyperintense"
+}

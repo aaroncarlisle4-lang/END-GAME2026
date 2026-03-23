@@ -1,0 +1,47 @@
+{
+  "finding": "BENIGN",
+  "slug": "benign_0c98ad",
+  "chapter": "LARYNX",
+  "source_file": "processed_clusters/larynx/benign_0c98ad.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Angiofibroma",
+      "raw": "Angiofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Angiomatosis",
+      "raw": "Angiomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma pyogenicum",
+      "raw": "Granuloma pyogenicum",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous fistula",
+      "raw": "Arteriovenous fistula",
+      "frequency": null
+    },
+    {
+      "name": "Phlebectasia, telangiectasia",
+      "raw": "Phlebectasia, telangiectasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

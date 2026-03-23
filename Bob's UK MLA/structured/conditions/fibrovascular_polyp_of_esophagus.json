@@ -1,0 +1,31 @@
+{
+  "name": "FIBROVASCULAR POLYP OF ESOPHAGUS",
+  "slug": "fibrovascular_polyp_of_esophagus",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/fibrovascular_polyp_of_esophagus.md",
+  "definition": "HAMARTOMA = LIPOMA = FIBROMA = FIBROLIPOMA = FIBROMYXOMA = FIBROEPITHELIAL POLYP intraluminal esophageal polyp",
+  "demographics": {
+    "Prevalence": "1-2% of benign esophageal tumors",
+    "Path": "elongated intraluminal mass of fibrous + adipose tissue of varying proportions covered",
+    "Age": "53 (range, 1-88) years; M > F",
+    "Size": "7 cm long at time of presentation extending inferiorly as far as into the stomach"
+  },
+  "dominant_finding": "heterogeneous mass with areas of soft-tissue and fat attenuation",
+  "distribution": "",
+  "discriminating_features": [
+    "giant sausage-shaped intraluminal mass originating from cervical esophagus (pedicle",
+    "heterogeneous mass with areas of soft-tissue and fat attenuation",
+    "± punctate calcifications (occasionally)"
+  ],
+  "other_features": {
+    "general": [
+      "giant sausage-shaped intraluminal mass originating from cervical esophagus (pedicle",
+      "heterogeneous mass with areas of soft-tissue and fat attenuation",
+      "± punctate calcifications (occasionally)"
+    ]
+  },
+  "clinical": {
+    "Cx": "asphyxia + sudden death ← after regurgitation of polyp into pharynx / mouth",
+    "Rx": "surgical removal (10% recurrence)"
+  }
+}

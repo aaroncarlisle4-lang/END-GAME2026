@@ -1,0 +1,39 @@
+{
+  "finding": "Primary Neoplasm of the Appendix",
+  "slug": "primary_neoplasm_of_the_appendix_a478c6",
+  "chapter": "APPENDIX",
+  "source_file": "processed_clusters/appendix/primary_neoplasm_of_the_appendix_a478c6.md",
+  "quality_score": 0.733,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Mucocele:",
+      "raw": "Mucocele:",
+      "frequency": null
+    },
+    {
+      "name": "Colonic-type adenocarcinoma  13%",
+      "raw": "Colonic-type adenocarcinoma  13%",
+      "frequency": "13%"
+    },
+    {
+      "name": "NHL",
+      "raw": "NHL",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Mucocele:": [],
+    "Colonic-type adenocarcinoma  13%": [
+      "mucinous adenoma 44% adenocarcinoma 23%"
+    ],
+    "NHL": [],
+    "Carcinoid tumor": []
+  },
+  "context": "mucinous adenoma 44% adenocarcinoma 23%"
+}

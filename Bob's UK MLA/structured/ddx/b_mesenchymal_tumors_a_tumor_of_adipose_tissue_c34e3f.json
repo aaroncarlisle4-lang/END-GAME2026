@@ -1,0 +1,57 @@
+{
+  "finding": "B. MESENCHYMAL TUMORS (a) tumor of adipose tissue",
+  "slug": "b_mesenchymal_tumors_a_tumor_of_adipose_tissue_c34e3f",
+  "chapter": "B. Inflammation",
+  "source_file": "processed_clusters/b_inflammation/b_mesenchymal_tumors_a_tumor_of_adipose_tissue_c34e3f.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatic lipoma",
+      "raw": "Hepatic lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic myelolipoma",
+      "raw": "Hepatic myelolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic angiomyolipoma (b)  tumor of muscle tissue",
+      "raw": "Hepatic angiomyolipoma (b)  tumor of muscle tissue",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma (c)  tumor of blood vessels",
+      "raw": "Leiomyoma (c)  tumor of blood vessels",
+      "frequency": null
+    },
+    {
+      "name": "Infantile hemangioendothelioma",
+      "raw": "Infantile hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Peliosis hepatis (d)  tumor of neural crest",
+      "raw": "Peliosis hepatis (d)  tumor of neural crest",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic paraganglioma (e)  mesothelial tumor",
+      "raw": "Hepatic paraganglioma (e)  mesothelial tumor",
+      "frequency": null
+    },
+    {
+      "name": "Benign mesothelioma",
+      "raw": "Benign mesothelioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

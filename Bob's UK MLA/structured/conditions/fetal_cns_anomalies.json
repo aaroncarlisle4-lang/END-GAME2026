@@ -1,0 +1,33 @@
+{
+  "name": "FETAL CNS ANOMALIES",
+  "slug": "fetal_cns_anomalies",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF OBSTETRIC AND GYNECOLOGIC",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_obstetric_and_gynecologic/fetal_cns_anomalies.md",
+  "definition": "atrial width of 10-15 mm flat / inwardly scalloped contour of both frontal bones",
+  "demographics": {
+    "Prevalence": "2÷1,000 births in USA; 90% as 1st time occurrence",
+    "Associated with": "trisomy 13 and 18",
+    "Location": "originate from base of skull"
+  },
+  "dominant_finding": "width of ventricular atrium > 10 mm",
+  "distribution": "originate from base of skull",
+  "discriminating_features": [
+    "ventricular atrium + cisterna magna are two sensitive anatomic markers for normal brain",
+    "\"dangling\" choroid plexus",
+    "width of ventricular atrium > 10 mm",
+    "cerebellum + vermis remain intact",
+    "en bloc displacement of cerebellum + vermis"
+  ],
+  "other_features": {
+    "general": [
+      "ventricular atrium + cisterna magna are two sensitive anatomic markers for normal brain",
+      "\"dangling\" choroid plexus",
+      "width of ventricular atrium > 10 mm",
+      "cerebellum + vermis remain intact",
+      "en bloc displacement of cerebellum + vermis"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "21% survival rate; 50% with intellectual impairment"
+  }
+}

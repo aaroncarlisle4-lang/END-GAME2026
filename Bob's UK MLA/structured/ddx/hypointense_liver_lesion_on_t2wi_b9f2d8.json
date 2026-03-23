@@ -1,0 +1,197 @@
+{
+  "finding": "Hypointense Liver Lesion on T2WI",
+  "slug": "hypointense_liver_lesion_on_t2wi_b9f2d8",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/hypointense_liver_lesion_on_t2wi_b9f2d8.md",
+  "quality_score": 0.7,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "ABSOLUTE ›  blood degradation products »  acute intracellular deoxyhemoglobin »  subacute intracellular methemoglobin »  chronic intracellular iron ferritin / hemosiderin",
+      "raw": "ABSOLUTE ›  blood degradation products »  acute intracellular deoxyhemoglobin »  subacute intracellular methemoglobin »  chronic intracellular iron ferritin / hemosiderin",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular adenoma ← internal bleeding",
+      "raw": "Hepatocellular adenoma ← internal bleeding",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular carcinoma ← internal bleeding",
+      "raw": "Hepatocellular carcinoma ← internal bleeding",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Focal nodular hyperplasia ← intratumoral hemolysis",
+      "raw": "Focal nodular hyperplasia ← intratumoral hemolysis",
+      "frequency": null
+    },
+    {
+      "name": "Nodular regenerative hyperplasia",
+      "raw": "Nodular regenerative hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Peliosis hepatis ← hemorrhage in large vascular spaces",
+      "raw": "Peliosis hepatis ← hemorrhage in large vascular spaces",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma ›  iron",
+      "raw": "Hematoma ›  iron (intracellular paramagnetic Fe3+)",
+      "frequency": null
+    },
+    {
+      "name": "Siderotic nodule",
+      "raw": "Siderotic nodule",
+      "frequency": null
+    },
+    {
+      "name": "Dysplastic nodule",
+      "raw": "Dysplastic nodule",
+      "frequency": null
+    },
+    {
+      "name": "HCC ›  copper",
+      "raw": "HCC ›  copper (= divalent paramagnetic copper)",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "HCC",
+      "raw": "HCC",
+      "frequency": null
+    },
+    {
+      "name": "Focal nodular hyperplasia ›  macromolecules ← restricted motion of water bound to protein »  smooth muscle",
+      "raw": "Focal nodular hyperplasia ›  macromolecules ← restricted motion of water bound to protein »  smooth muscle",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma »  fibrosis",
+      "raw": "Angiomyolipoma »  fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Fibrolamellar HCC",
+      "raw": "Fibrolamellar HCC",
+      "frequency": null
+    },
+    {
+      "name": "Intrahepatic cholangiocarcinoma",
+      "raw": "Intrahepatic cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "HCC",
+      "raw": "HCC",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis of adenocarcinoma",
+      "raw": "Metastasis of adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Focal nodular hyperplasia",
+      "raw": "Focal nodular hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "HCA »  mucin",
+      "raw": "HCA »  mucin (= desiccated mucinous secretions)",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis »  fibrinogen",
+      "raw": "Metastasis »  fibrinogen (intracytoplasmic inclusions = fibrinogen in dilated rough endoplasmic reticulum)",
+      "frequency": null
+    },
+    {
+      "name": "HCC »  keratin",
+      "raw": "HCC »  keratin",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis »  melanin ← presumably related to higher melanin levels or to old hemorrhage",
+      "raw": "Metastasis »  melanin ← presumably related to higher melanin levels or to old hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Malignant melanoma",
+      "raw": "Malignant melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis ›  necrosis",
+      "raw": "Metastasis ›  necrosis (coagulative = dehydrated necrosis)",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Solitary necrotic nodule",
+      "raw": "Solitary necrotic nodule",
+      "frequency": null
+    },
+    {
+      "name": "HCC",
+      "raw": "HCC",
+      "frequency": null
+    },
+    {
+      "name": "HCA ›  calcium",
+      "raw": "HCA ›  calcium",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Healed inactive hydatid cyst",
+      "raw": "Healed inactive hydatid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Fibrolamellar HCC",
+      "raw": "Fibrolamellar HCC",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: mucinous cancer of colon, stomach, breast, ovary / osteo- and chondrosarcoma",
+      "raw": "Metastasis: mucinous cancer of colon, stomach, breast, ovary / osteo- and chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "HCA",
+      "raw": "HCA",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

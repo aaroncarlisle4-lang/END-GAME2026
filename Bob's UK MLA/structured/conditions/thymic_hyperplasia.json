@@ -1,0 +1,37 @@
+{
+  "name": "THYMIC HYPERPLASIA",
+  "slug": "thymic_hyperplasia",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/thymic_hyperplasia.md",
+  "definition": "increase in size + weight of thymus with preservation of its organized microscopic features increase in number of active lymphoid germinal centers in thymic medulla associated with",
+  "demographics": {
+    "Age": "commonly in child, also in adult"
+  },
+  "dominant_finding": "homogeneously decreased signal on out-of-phase images ← fatty infiltration of normal /",
+  "distribution": "diffuse enlargement",
+  "discriminating_features": [
+    "size:",
+    "diffuse enlargement",
+    "> 50% transient overgrowth (reducible with steroids)",
+    "after recovery regrowth to original size within 9 months",
+    "shape:"
+  ],
+  "other_features": {
+    "general": [
+      "size:",
+      "diffuse enlargement",
+      "> 50% transient overgrowth (reducible with steroids)",
+      "after recovery regrowth to original size within 9 months",
+      "shape:",
+      "smooth contour, normal vessels",
+      "normal / oval shape with loss of its distinct bilobed appearance",
+      "fine mixture of fat and lymphoid tissue"
+    ],
+    "MR": [
+      "homogeneously decreased signal on out-of-phase images ← fatty infiltration of normal /",
+      "may take up FDG mimicking thymoma",
+      "diffuse symmetric enlargement / normal size"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "C. POSTRENAL (5%) = result of outflow obstruction (rare",
+  "slug": "c_postrenal_5_result_of_outflow_obstruction_rare_0abb27",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF UROGENITAL DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_urogenital_disorders/c_postrenal_5_result_of_outflow_obstruction_rare_0abb27.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Prostatism",
+      "raw": "Prostatism",
+      "frequency": null
+    },
+    {
+      "name": "Tumors of bladder, retroperitoneum, pelvis",
+      "raw": "Tumors of bladder, retroperitoneum, pelvis",
+      "frequency": null
+    },
+    {
+      "name": "Calculus",
+      "raw": "Calculus",
+      "frequency": null
+    },
+    {
+      "name": "CONGENITAL bilateral renal agenesis / dysplasia / infantile polycystic kidney disease, congenital nephrotic syndrome, congenital nephritis, perinatal hypoxia Frequency:   ATN + prerenal disease account for 75% of acute renal failure; 5-7% of all hospitalized patients",
+      "raw": "CONGENITAL bilateral renal agenesis / dysplasia / infantile polycystic kidney disease, congenital nephrotic syndrome, congenital nephritis, perinatal hypoxia Frequency:   ATN + prerenal disease account for 75% of acute renal failure; 5-7% of all hospitalized patients",
+      "frequency": "75%"
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "elevated creatinine normal range: 0.5-1.0 mg/dL (about 45-90 μmol/L) for women + 0.7- 1.2 mg/dL (60-110 μmol/L) for men",
+      "raw": "elevated creatinine normal range: 0.5-1.0 mg/dL (about 45-90 μmol/L) for women + 0.7- 1.2 mg/dL (60-110 μmol/L) for men",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  hydronephrosis ◊  30-35% of acutely obstructed kidneys (< 36 hours) have no hydronephrosis! Prognosis:  20-70% mortality Chronic Renal Failure (CRF) =  decrease in renal function over months / years Incidence:  end-stage renal disease in 0.01% of USA population; annually 85,000 patients undergo hemodialysis + 8,000 renal transplantations Etiology:"
+}

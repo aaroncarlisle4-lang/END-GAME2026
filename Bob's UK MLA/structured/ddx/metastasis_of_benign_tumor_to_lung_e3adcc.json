@@ -1,0 +1,42 @@
+{
+  "finding": "Metastasis of Benign Tumor to Lung",
+  "slug": "metastasis_of_benign_tumor_to_lung_e3adcc",
+  "chapter": "MESOTHELIOMA OF CHEST",
+  "source_file": "processed_clusters/mesothelioma_of_chest/metastasis_of_benign_tumor_to_lung_e3adcc.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Leiomyoma of uterus",
+      "raw": "Leiomyoma of uterus",
+      "frequency": null
+    },
+    {
+      "name": "Hydatidiform mole of uterus",
+      "raw": "Hydatidiform mole of uterus",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor of bone",
+      "raw": "Giant cell tumor of bone",
+      "frequency": null
+    },
+    {
+      "name": "Chondroblastoma",
+      "raw": "Chondroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Pleomorphic adenoma of salivary gland",
+      "raw": "Pleomorphic adenoma of salivary gland",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

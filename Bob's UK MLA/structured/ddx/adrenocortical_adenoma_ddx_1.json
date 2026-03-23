@@ -1,0 +1,27 @@
+{
+  "finding": "Adrenocortical Adenoma (DDx)",
+  "slug": "adrenocortical_adenoma_ddx_1",
+  "chapter": "Adrenocortical Adenoma",
+  "source_file": "processed_clusters/adrenocortical_adenoma/adrenocortical_adenoma_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastatic clear cell renal cell carcinoma",
+      "raw": "metastatic clear cell renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "pheochromocytoma",
+      "raw": "pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "adrenocortical carcinoma",
+      "raw": "adrenocortical carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

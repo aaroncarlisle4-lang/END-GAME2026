@@ -1,0 +1,52 @@
+{
+  "finding": "B. MALIGNANCY (24%",
+  "slug": "b_malignancy_24_c60865",
+  "chapter": "GALLBLADDER POLYP",
+  "source_file": "processed_clusters/gallbladder_polyp/b_malignancy_24_c60865.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pancreatic carcinoma",
+      "raw": "Pancreatic carcinoma (18%)",
+      "frequency": "18%"
+    },
+    {
+      "name": "Ampullary / duodenal carcinoma",
+      "raw": "Ampullary / duodenal carcinoma (8%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Cholangiocarcinoma",
+      "raw": "Cholangiocarcinoma (3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Metastatic disease (2%): stomach, pancreas, lung, breast, colon, lymphoma",
+      "raw": "Metastatic disease (2%): stomach, pancreas, lung, breast, colon, lymphoma",
+      "frequency": "2%"
+    },
+    {
+      "name": "INTRAPANCREATIC",
+      "raw": "INTRAPANCREATIC",
+      "frequency": null
+    },
+    {
+      "name": "Choledocholithiasis ◊  Most common cause of biliary obstruction (in 15% of patients with cholelithiasis)!",
+      "raw": "Choledocholithiasis ◊  Most common cause of biliary obstruction (in 15% of patients with cholelithiasis)!",
+      "frequency": "15%"
+    },
+    {
+      "name": "Chronic pancreatitis",
+      "raw": "Chronic pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic carcinoma",
+      "raw": "Pancreatic carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Level and cause of obstruction:"
+}

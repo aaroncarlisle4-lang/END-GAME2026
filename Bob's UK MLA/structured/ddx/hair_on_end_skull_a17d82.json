@@ -1,0 +1,62 @@
+{
+  "finding": "Hair-on-end Skull",
+  "slug": "hair_on_end_skull_a17d82",
+  "chapter": "Sutural Abnormalities",
+  "source_file": "processed_clusters/sutural_abnormalities/hair_on_end_skull_a17d82.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hereditary spherocytosis",
+      "raw": "Hereditary spherocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Iron deficiency anemia",
+      "raw": "Iron deficiency anemia",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Enzyme deficiency: glucose-6-phosphate dehydrogenase deficiency → hemolytic",
+      "raw": "Enzyme deficiency: glucose-6-phosphate dehydrogenase deficiency → hemolytic",
+      "frequency": null
+    },
+    {
+      "name": "anemia",
+      "raw": "anemia",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease",
+      "raw": "Sickle cell disease",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Craniometaphyseal dysplasia",
+      "raw": "Craniometaphyseal dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Hyperphosphatasia",
+      "raw": "Hyperphosphatasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Thalassemia major Leontiasis Ossea =  overgrowth of facial bones causing leonine (lionlike) facies"
+}

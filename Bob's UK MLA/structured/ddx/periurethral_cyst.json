@@ -1,0 +1,57 @@
+{
+  "finding": "Periurethral Cyst",
+  "slug": "periurethral_cyst",
+  "chapter": "URETHRA",
+  "source_file": "processed_clusters/urethra/periurethral_cyst.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vaginal cyst",
+      "raw": "Vaginal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Gartner duct cyst",
+      "raw": "Gartner duct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Bartholin gland cyst",
+      "raw": "Bartholin gland cyst",
+      "frequency": null
+    },
+    {
+      "name": "Müllerian cyst",
+      "raw": "Müllerian cyst",
+      "frequency": null
+    },
+    {
+      "name": "Vaginal (epidermal) inclusion cyst",
+      "raw": "Vaginal (epidermal) inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Paraurethral cyst",
+      "raw": "Paraurethral cyst",
+      "frequency": null
+    },
+    {
+      "name": "Skene duct cyst",
+      "raw": "Skene duct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Urethral diverticulum",
+      "raw": "Urethral diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Urethral caruncle",
+      "raw": "Urethral caruncle",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  NO communication with urethra Site:   anterolateral vaginal wall Site:   lower posterior / lateral vaginal wall"
+}

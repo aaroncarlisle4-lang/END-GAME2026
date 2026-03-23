@@ -1,0 +1,42 @@
+{
+  "finding": "Adrenal Cortical Disease",
+  "slug": "adrenal_cortical_disease_e5fca0",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/adrenal_cortical_disease_e5fca0.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adrenocortical hyperplasia",
+      "raw": "Adrenocortical hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Adrenocortical adenoma",
+      "raw": "Adrenocortical adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Adrenocortical carcinoma",
+      "raw": "Adrenocortical carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Cushing syndrome",
+      "raw": "Cushing syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Conn syndrome",
+      "raw": "Conn syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Adrenogenital syndromes",
+      "raw": "Adrenogenital syndromes",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

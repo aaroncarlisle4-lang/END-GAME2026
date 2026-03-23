@@ -1,0 +1,32 @@
+{
+  "finding": "B. CHRONIC",
+  "slug": "b_chronic_1_bd188e",
+  "chapter": "Ground-glass Opacities & Interlobular Septal Lines",
+  "source_file": "processed_clusters/ground_glass_opacities_interlobular_septal_lines/b_chronic_1_bd188e.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypersensitivity pneumonia",
+      "raw": "Hypersensitivity pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary alveolar proteinosis",
+      "raw": "Pulmonary alveolar proteinosis",
+      "frequency": null
+    },
+    {
+      "name": "Usual interstitial pneumonia",
+      "raw": "Usual interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Bronchioloalveolar cell carcinoma",
+      "raw": "Bronchioloalveolar cell carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

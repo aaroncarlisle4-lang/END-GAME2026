@@ -1,0 +1,23 @@
+{
+  "name": "SCLEROSING STROMAL TUMOR OF OVARY",
+  "slug": "sclerosing_stromal_tumor_of_ovary",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/sclerosing_stromal_tumor_of_ovary.md",
+  "definition": "benign sex cord-stromal tumor",
+  "demographics": {
+    "Age": "< 30 years"
+  },
+  "dominant_finding": "hypointense nodules set against hyperintense stroma on T2WI",
+  "distribution": "peripheral enhancement with centripetal progression",
+  "discriminating_features": [
+    "hypointense nodules set against hyperintense stroma on T2WI",
+    "peripheral enhancement with centripetal progression"
+  ],
+  "other_features": {
+    "general": [
+      "hypointense nodules set against hyperintense stroma on T2WI",
+      "peripheral enhancement with centripetal progression"
+    ]
+  },
+  "clinical": {}
+}

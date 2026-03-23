@@ -1,0 +1,37 @@
+{
+  "name": "BILE DUCTS",
+  "slug": "bile_ducts_1",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/bile_ducts_1.md",
+  "definition": "intrahepatic biliary system runs parallel to portal venous supply of liver SUBVESICAL / ACCESSORY BILE DUCTS small ducts from liver bed draining directly into GB TRIANGLE OF CALOT anatomic space bordered by CHD medially, cystic duct inferiorly, and cystic artery",
+  "demographics": {
+    "Genetics": "PKHD1 (polycystic kidney hepatic disease 1) gene codes for",
+    "Pathology": "mutation of PKHD1 gene → abnormal cilia → abnormal ductal plate formation",
+    "Prevalence": "2.4% of autopsies; 13-18.5% of operative cholangiograms",
+    "Incidence": "2%"
+  },
+  "dominant_finding": "distal cystic duct posterior to CBD (in 95%), anterior to CBD (in 5%)",
+  "distribution": "distal cystic duct posterior to CBD (in 95%), anterior to CBD (in 5%)",
+  "discriminating_features": [
+    "distal cystic duct posterior to CBD (in 95%), anterior to CBD (in 5%)",
+    "almost horizontal course",
+    "more vertical course",
+    "pneumobilia",
+    "cystic duct parallels extrahepatic bile duct (implies common fibrous sheath)"
+  ],
+  "other_features": {
+    "general": [],
+    "Cystic duct": [
+      "distal cystic duct posterior to CBD (in 95%), anterior to CBD (in 5%)",
+      "almost horizontal course",
+      "more vertical course",
+      "pneumobilia",
+      "cystic duct parallels extrahepatic bile duct (implies common fibrous sheath)",
+      "gallbladder drains directly into common bile duct"
+    ]
+  },
+  "clinical": {
+    "N.B.": "important for donor of right hepatic lobe transplant",
+    "Cx": "during cholecystectomy"
+  }
+}

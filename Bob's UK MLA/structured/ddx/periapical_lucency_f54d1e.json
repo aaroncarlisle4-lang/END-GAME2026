@@ -1,0 +1,42 @@
+{
+  "finding": "Periapical Lucency",
+  "slug": "periapical_lucency_f54d1e",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/periapical_lucency_f54d1e.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Periapical cyst",
+      "raw": "Periapical cyst",
+      "frequency": null
+    },
+    {
+      "name": "Periapical cemento-osseous dysplasia",
+      "raw": "Periapical cemento-osseous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Odontogenic keratocyst",
+      "raw": "Odontogenic keratocyst",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia / lymphoma",
+      "raw": "Leukemia / lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

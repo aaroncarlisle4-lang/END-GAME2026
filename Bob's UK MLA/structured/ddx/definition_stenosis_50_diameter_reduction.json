@@ -1,0 +1,32 @@
+{
+  "finding": "Definition: stenosis = ≥ 50% diameter reduction",
+  "slug": "definition_stenosis_50_diameter_reduction",
+  "chapter": "HARD-METAL PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/definition_stenosis_50_diameter_reduction.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchomalacia",
+      "raw": "Bronchomalacia",
+      "frequency": null
+    },
+    {
+      "name": "Vascular stenosis",
+      "raw": "Vascular stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Diaphragmatic hernia from omentopexy Procedure:   omental pedicle is harvested at time of transplantation through a small diaphragmatic incision + wrapped around anastomosis to prevent dehiscence",
+      "raw": "Diaphragmatic hernia from omentopexy Procedure:   omental pedicle is harvested at time of transplantation through a small diaphragmatic incision + wrapped around anastomosis to prevent dehiscence",
+      "frequency": null
+    },
+    {
+      "name": "INFECTION OF LUNG TRANSPLANT Prevalence:   35-50%; major cause of morbidity + mortality in early postoperative period",
+      "raw": "INFECTION OF LUNG TRANSPLANT Prevalence:   35-50%; major cause of morbidity + mortality in early postoperative period",
+      "frequency": "50%"
+    }
+  ],
+  "criteria": {},
+  "context": "DDx:  telescoped anastomosis Rx:  laser resection, balloon bronchoplasty √  transient airway narrowing on expiratory CT Posttransplantation Infection Cause:    immunosuppression, reduced mucociliary clearance, interruption of lymphatic drainage, direct contact of transplant with environment via airways ◊  May occur at any time during postoperative period! Frequency:   35-86% of transplant recipients Cause:   absent cough reflex, impaired mucociliary transport in denervated lung, interruption of lymphatics, immunosuppressive drugs Organism:  bacteria (23%): Staphylococcus, Pseudomonas, Klebsiel"
+}

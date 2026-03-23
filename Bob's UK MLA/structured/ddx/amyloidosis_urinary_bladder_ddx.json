@@ -1,0 +1,27 @@
+{
+  "finding": "Amyloidosis — Urinary bladder (DDx)",
+  "slug": "amyloidosis_urinary_bladder_ddx",
+  "chapter": "Amyloidosis",
+  "source_file": "processed_clusters/amyloidosis/amyloidosis_urinary_bladder_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "schistosomiasis mansoni",
+      "raw": "schistosomiasis mansoni",
+      "frequency": null
+    },
+    {
+      "name": "urothelial carcinoma",
+      "raw": "urothelial carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "other neoplasm √  variable degrees of decreased contrast enhancement",
+      "raw": "other neoplasm √  variable degrees of decreased contrast enhancement",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "nonspecific filling defects + distortion of bladder outline | CHARACTERISTIC linear submucosal / intramural calcifications"
+}

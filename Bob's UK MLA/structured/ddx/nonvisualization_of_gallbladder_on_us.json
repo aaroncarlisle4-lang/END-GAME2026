@@ -1,0 +1,77 @@
+{
+  "finding": "Nonvisualization of Gallbladder on US",
+  "slug": "nonvisualization_of_gallbladder_on_us",
+  "chapter": "GALLBLADDER",
+  "source_file": "processed_clusters/gallbladder/nonvisualization_of_gallbladder_on_us.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Status post cholecystectomy",
+      "raw": "Status post cholecystectomy",
+      "frequency": null
+    },
+    {
+      "name": "Obscured by costal margin",
+      "raw": "Obscured by costal margin",
+      "frequency": null
+    },
+    {
+      "name": "Anomalous position",
+      "raw": "Anomalous position (intrahepatic, subphrenic)",
+      "frequency": null
+    },
+    {
+      "name": "Gallbladder carcinoma replacing gallbladder",
+      "raw": "Gallbladder carcinoma replacing gallbladder",
+      "frequency": null
+    },
+    {
+      "name": "Perforation of gallbladder",
+      "raw": "Perforation of gallbladder",
+      "frequency": null
+    },
+    {
+      "name": "Congenital absence",
+      "raw": "Congenital absence",
+      "frequency": null
+    },
+    {
+      "name": "Contracted gallbladder (a)  nonfasting status without stones (b)  in fasting status with stones",
+      "raw": "Contracted gallbladder (a)  nonfasting status without stones (b)  in fasting status with stones",
+      "frequency": null
+    },
+    {
+      "name": "WES (wall-echo-shadow) triad",
+      "raw": "WES (wall-echo-shadow) triad",
+      "frequency": null
+    },
+    {
+      "name": "Gas in duodenum / colon obscuring gallbladder",
+      "raw": "Gas in duodenum / colon obscuring gallbladder",
+      "frequency": null
+    },
+    {
+      "name": "Porcelain gallbladder",
+      "raw": "Porcelain gallbladder",
+      "frequency": null
+    },
+    {
+      "name": "Emphysematous cholecystitis",
+      "raw": "Emphysematous cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Cholecystoenteric fistula",
+      "raw": "Cholecystoenteric fistula",
+      "frequency": null
+    },
+    {
+      "name": "Status post ERCP with retrograde air injection",
+      "raw": "Status post ERCP with retrograde air injection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  wall-echo-shadow (WES triad) interfaces Acoustic Shadowing in Gallbladder Fossa"
+}

@@ -12,12 +12,24 @@ export function AppShell({ children }: { children: React.ReactNode }) {
             RadQuiz
           </Link>
           <Breadcrumb />
-          <div className="ml-auto">
+          <div className="ml-auto flex items-center gap-1">
             <Link
               to="/differentials"
               className="text-sm font-medium text-violet-600 hover:text-violet-800 transition-colors px-3 py-1.5 rounded-lg hover:bg-violet-50"
             >
               Top 3 DDx
+            </Link>
+            <Link
+              to="/dahnert"
+              className="text-sm font-medium text-teal-600 hover:text-teal-800 transition-colors px-3 py-1.5 rounded-lg hover:bg-teal-50"
+            >
+              Dahnert
+            </Link>
+            <Link
+              to="/dahnert-ddx"
+              className="text-sm font-medium text-violet-600 hover:text-violet-800 transition-colors px-3 py-1.5 rounded-lg hover:bg-violet-50"
+            >
+              DDx Clusters
             </Link>
           </div>
         </div>

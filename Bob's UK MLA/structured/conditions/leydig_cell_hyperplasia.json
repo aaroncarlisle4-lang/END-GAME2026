@@ -1,0 +1,24 @@
+{
+  "name": "LEYDIG CELL HYPERPLASIA",
+  "slug": "leydig_cell_hyperplasia",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/leydig_cell_hyperplasia.md",
+  "definition": "rare benign condition characterized by an increased number of Leydig cells",
+  "demographics": {
+    "Location": "frequently bilateral; multifocal",
+    "Size": "1-6 mm"
+  },
+  "dominant_finding": "hypo- / hyperechoic, T2-hypointense intratesticular nodule(s)",
+  "distribution": "frequently bilateral; multifocal",
+  "discriminating_features": [
+    "hypo- / hyperechoic, T2-hypointense intratesticular nodule(s)",
+    "variable vascularity ± avid enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "hypo- / hyperechoic, T2-hypointense intratesticular nodule(s)",
+      "variable vascularity ± avid enhancement"
+    ]
+  },
+  "clinical": {}
+}

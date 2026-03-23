@@ -1,0 +1,47 @@
+{
+  "finding": "Hyperintense Lesion on DWI",
+  "slug": "hyperintense_lesion_on_dwi",
+  "chapter": "D. NEURONAL MIGRATION ANOMALY due to infection, ischemia, metabolic disorders",
+  "source_file": "processed_clusters/d_neuronal_migration_anomaly_due_to_infection_ischemia_metabolic_disorders/hyperintense_lesion_on_dwi.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cerebral infarction",
+      "raw": "Cerebral infarction",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid inclusion cyst",
+      "raw": "Epidermoid inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Abscess with pus",
+      "raw": "Abscess with pus",
+      "frequency": null
+    },
+    {
+      "name": "Encephalitis of cortex",
+      "raw": "Encephalitis of cortex",
+      "frequency": null
+    },
+    {
+      "name": "Creutzfeldt-Jakob disease",
+      "raw": "Creutzfeldt-Jakob disease",
+      "frequency": null
+    },
+    {
+      "name": "Trauma: axonal shearing injury",
+      "raw": "Trauma: axonal shearing injury",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm: medulloblastoma",
+      "raw": "Neoplasm: medulloblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

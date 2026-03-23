@@ -1,0 +1,28 @@
+{
+  "name": "NUCHAL CORD",
+  "slug": "nuchal_cord",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/nuchal_cord.md",
+  "definition": "umbilical cord encircling fetal neck: single loop (96%) > 2 loops (2-3%) > 3 or more loops",
+  "demographics": {
+    "Prevalence": "5-29% of pregnancies; increases with fetal age; frequently transient",
+    "Associated with": "increased cord length, small fetus, vertex presentation, polyhydramnios"
+  },
+  "dominant_finding": "umbilical cord loop > 360° around fetal neck",
+  "distribution": "",
+  "discriminating_features": [
+    "umbilical cord loop > 360° around fetal neck",
+    "two adjacent cross sections of cord on longitudinal view of neck (diagnosis facilitated by",
+    "\"divot\" sign = indentation of skin by nuchal cord suggests tight loop",
+    "NO effect on fetal MCA + umbilical artery flow velocimetry"
+  ],
+  "other_features": {
+    "general": [
+      "umbilical cord loop > 360° around fetal neck",
+      "two adjacent cross sections of cord on longitudinal view of neck (diagnosis facilitated by",
+      "\"divot\" sign = indentation of skin by nuchal cord suggests tight loop",
+      "NO effect on fetal MCA + umbilical artery flow velocimetry"
+    ]
+  },
+  "clinical": {}
+}

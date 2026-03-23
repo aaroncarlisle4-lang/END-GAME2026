@@ -1,0 +1,67 @@
+{
+  "finding": "RICKETS",
+  "slug": "rickets_3d9beb",
+  "chapter": "Dialysis-associated Disorders",
+  "source_file": "processed_clusters/dialysis_associated_disorders/rickets_3d9beb.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "irritability, bone pain, tenderness",
+      "raw": "irritability, bone pain, tenderness",
+      "frequency": null
+    },
+    {
+      "name": "craniotabes; delayed dentition",
+      "raw": "craniotabes; delayed dentition",
+      "frequency": null
+    },
+    {
+      "name": "bowed legs; swelling of wrists + ankles; rachitic rosary",
+      "raw": "bowed legs; swelling of wrists + ankles; rachitic rosary",
+      "frequency": null
+    },
+    {
+      "name": "Reaction of periosteum may occur",
+      "raw": "Reaction of periosteum may occur",
+      "frequency": null
+    },
+    {
+      "name": "Indistinct cortex",
+      "raw": "Indistinct cortex",
+      "frequency": null
+    },
+    {
+      "name": "Coarse trabeculation",
+      "raw": "Coarse trabeculation",
+      "frequency": null
+    },
+    {
+      "name": "Knees + wrists + ankles mainly affected",
+      "raw": "Knees + wrists + ankles mainly affected",
+      "frequency": null
+    },
+    {
+      "name": "Epiphyseal plates widened + irregular",
+      "raw": "Epiphyseal plates widened + irregular",
+      "frequency": null
+    },
+    {
+      "name": "Tremendous metaphysis",
+      "raw": "Tremendous metaphysis (fraying, splaying, cupping)",
+      "frequency": null
+    },
+    {
+      "name": "Spur",
+      "raw": "Spur (metaphyseal)",
+      "frequency": null
+    },
+    {
+      "name": "Cx:   stress fracture, bowing deformity",
+      "raw": "Cx:   stress fracture, bowing deformity",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  osteomalacia during enchondral bone growth Age:   4-18 months Histo:   zone of maturation has an increase in the number of maturing cartilage cells with loss of normal columnar arrangement; zone of preparatory calcification does not form; failure of osteoid mineralization also in shafts so that osteoid production elevates periosteum Location:   metaphyses of long bones subjected to stress are particularly involved (wrists, ankles, knees); costochondral junction of ribs √  poorly mineralized irregular epiphyseal centers with delayed appearance √  axial widening of growth plate = ↑ distance b"
+}

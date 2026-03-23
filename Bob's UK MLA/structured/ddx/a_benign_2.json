@@ -1,0 +1,47 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_2",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/a_benign_2.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cyst",
+      "raw": "Cyst (45%)",
+      "frequency": "45%"
+    },
+    {
+      "name": "Fibroadenoma",
+      "raw": "Fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing adenoma",
+      "raw": "Sclerosing adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Intraductal papilloma",
+      "raw": "Intraductal papilloma (intracystic / solid)",
+      "frequency": null
+    },
+    {
+      "name": "Galactocele",
+      "raw": "Galactocele",
+      "frequency": null
+    },
+    {
+      "name": "Sebaceous cyst",
+      "raw": "Sebaceous cyst",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoangiomatous stromal hyperplasia",
+      "raw": "Pseudoangiomatous stromal hyperplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

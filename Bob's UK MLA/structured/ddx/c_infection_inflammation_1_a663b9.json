@@ -1,0 +1,27 @@
+{
+  "finding": "C. INFECTION / INFLAMMATION",
+  "slug": "c_infection_inflammation_1_a663b9",
+  "chapter": "PERITONEUM",
+  "source_file": "processed_clusters/peritoneum/c_infection_inflammation_1_a663b9.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Granulomatous peritonitis",
+      "raw": "Granulomatous peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing encapsulating peritonitis",
+      "raw": "Sclerosing encapsulating peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory pseudotumor",
+      "raw": "Inflammatory pseudotumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:   TB, Histoplasma, Pneumocystis, talc, barium, meconium, bowel contents, ruptured ovarian cyst, bile, gallstones"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "A. NEOPLASTIC DISEASE",
+  "slug": "a_neoplastic_disease",
+  "chapter": "Potter Classification",
+  "source_file": "processed_clusters/potter_classification/a_neoplastic_disease.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic renal cell carcinoma",
+      "raw": "Cystic renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Multilocular cystic renal tumor (a)  adult cystic nephroma (b)  cystic partially differentiated nephroblastoma",
+      "raw": "Multilocular cystic renal tumor (a)  adult cystic nephroma (b)  cystic partially differentiated nephroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic Wilms tumor",
+      "raw": "Cystic Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Necrotic tumor (a)  mesoblastic nephroma (b)  clear cell sarcoma",
+      "raw": "Necrotic tumor (a)  mesoblastic nephroma (b)  clear cell sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,759 @@
+{
+  "finding": "R",
+  "slug": "r_e1e1d3",
+  "chapter": "N",
+  "source_file": "processed_clusters/n/r_e1e1d3.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rabbit ears, lung 591",
+      "raw": "Rabbit ears, lung 591",
+      "frequency": null
+    },
+    {
+      "name": "Raccoon eyes 255",
+      "raw": "Raccoon eyes 255",
+      "frequency": null
+    },
+    {
+      "name": "Racemose neurocysticercosis 348",
+      "raw": "Racemose neurocysticercosis 348",
+      "frequency": null
+    },
+    {
+      "name": "Rachischisis of atlas 220",
+      "raw": "Rachischisis of atlas 220",
+      "frequency": null
+    },
+    {
+      "name": "Rachitic rosary 190 [Radial]",
+      "raw": "Rachitic rosary 190",
+      "frequency": null,
+      "sites": [
+        "Radial"
+      ]
+    },
+    {
+      "name": "induced breast cancer 708 sarcoma 185 leukoencephalopathy 382 thyroid cancer 507 injury 184",
+      "raw": "induced breast cancer 708 sarcoma 185 leukoencephalopathy 382 thyroid cancer 507 injury 184",
+      "frequency": null
+    },
+    {
+      "name": "Radicular cyst 218",
+      "raw": "Radicular cyst 218",
+      "frequency": null
+    },
+    {
+      "name": "Radiochemical impurity 1394",
+      "raw": "Radiochemical impurity 1394",
+      "frequency": null
+    },
+    {
+      "name": "Radiographic",
+      "raw": "Radiographic",
+      "frequency": null
+    },
+    {
+      "name": "Radionuclide angiography 337",
+      "raw": "Radionuclide angiography 337",
+      "frequency": null
+    },
+    {
+      "name": "Radiopharmaceuticals, quality control 1394",
+      "raw": "Radiopharmaceuticals, quality control 1394",
+      "frequency": null
+    },
+    {
+      "name": "Radioulnar index 42 [Radius]",
+      "raw": "Radioulnar index 42",
+      "frequency": null,
+      "sites": [
+        "Radius"
+      ]
+    },
+    {
+      "name": "Raider triangle 553",
+      "raw": "Raider triangle 553",
+      "frequency": null
+    },
+    {
+      "name": "Railroad track calcification, heart 835",
+      "raw": "Railroad track calcification, heart 835",
+      "frequency": null
+    },
+    {
+      "name": "Ramsay-Hunt syndrome 488",
+      "raw": "Ramsay-Hunt syndrome 488",
+      "frequency": null
+    },
+    {
+      "name": "Ram's horn sign 1070",
+      "raw": "Ram's horn sign 1070",
+      "frequency": null
+    },
+    {
+      "name": "Randomized trials 1429",
+      "raw": "Randomized trials 1429",
+      "frequency": null
+    },
+    {
+      "name": "Rang classification 106",
+      "raw": "Rang classification 106",
+      "frequency": null
+    },
+    {
+      "name": "Ranitidine 1437",
+      "raw": "Ranitidine 1437",
+      "frequency": null
+    },
+    {
+      "name": "Ranke complex 681",
+      "raw": "Ranke complex 681",
+      "frequency": null
+    },
+    {
+      "name": "Ranula 500",
+      "raw": "Ranula 500",
+      "frequency": null
+    },
+    {
+      "name": "Rapidly destructive articular disease 164",
+      "raw": "Rapidly destructive articular disease 164",
+      "frequency": null
+    },
+    {
+      "name": "Rappaport classification 634",
+      "raw": "Rappaport classification 634",
+      "frequency": null
+    },
+    {
+      "name": "Rashkind procedure 759",
+      "raw": "Rashkind procedure 759",
+      "frequency": null
+    },
+    {
+      "name": "Rasmussen aneurysm 680",
+      "raw": "Rasmussen aneurysm 680",
+      "frequency": null
+    },
+    {
+      "name": "Rastelli procedure 760",
+      "raw": "Rastelli procedure 760",
+      "frequency": null
+    },
+    {
+      "name": "Rat",
+      "raw": "Rat",
+      "frequency": null
+    },
+    {
+      "name": "Reabsorption of sodium 1188",
+      "raw": "Reabsorption of sodium 1188",
+      "frequency": null
+    },
+    {
+      "name": "Reactivation tuberculosis 681",
+      "raw": "Reactivation tuberculosis 681",
+      "frequency": null
+    },
+    {
+      "name": "Reactive",
+      "raw": "Reactive",
+      "frequency": null
+    },
+    {
+      "name": "Recanalized thrombus 811",
+      "raw": "Recanalized thrombus 811",
+      "frequency": null
+    },
+    {
+      "name": "Receiver operating characteristics 1427",
+      "raw": "Receiver operating characteristics 1427",
+      "frequency": null
+    },
+    {
+      "name": "Recipient twin 1386",
+      "raw": "Recipient twin 1386",
+      "frequency": null
+    },
+    {
+      "name": "RECIST 953",
+      "raw": "RECIST 953",
+      "frequency": null
+    },
+    {
+      "name": "Recklinghausen, von 387",
+      "raw": "Recklinghausen, von 387",
+      "frequency": null
+    },
+    {
+      "name": "Reconversion, bone marrow 35, 126",
+      "raw": "Reconversion, bone marrow 35, 126",
+      "frequency": null
+    },
+    {
+      "name": "Recreational drug abuse 843",
+      "raw": "Recreational drug abuse 843",
+      "frequency": null
+    },
+    {
+      "name": "Recrudescent tuberculosis 681",
+      "raw": "Recrudescent tuberculosis 681",
+      "frequency": null
+    },
+    {
+      "name": "Rectal",
+      "raw": "Rectal",
+      "frequency": null
+    },
+    {
+      "name": "Rectangular phalanges 189",
+      "raw": "Rectangular phalanges 189",
+      "frequency": null
+    },
+    {
+      "name": "Rectocele 1130",
+      "raw": "Rectocele 1130",
+      "frequency": null
+    },
+    {
+      "name": "Rectovesical septum 1048",
+      "raw": "Rectovesical septum 1048",
+      "frequency": null
+    },
+    {
+      "name": "Rectum 1036",
+      "raw": "Rectum 1036",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent",
+      "raw": "Recurrent",
+      "frequency": null
+    },
+    {
+      "name": "Reed-Sternberg cell 620",
+      "raw": "Reed-Sternberg cell 620",
+      "frequency": null
+    },
+    {
+      "name": "Reexpansion pulmonary edema 518",
+      "raw": "Reexpansion pulmonary edema 518",
+      "frequency": null
+    },
+    {
+      "name": "Reflex sympathetic dystrophy 185",
+      "raw": "Reflex sympathetic dystrophy 185",
+      "frequency": null
+    },
+    {
+      "name": "Reid lobule 567",
+      "raw": "Reid lobule 567",
+      "frequency": null
+    },
+    {
+      "name": "Reilly bodies 153",
+      "raw": "Reilly bodies 153",
+      "frequency": null
+    },
+    {
+      "name": "Reimann classification 1046",
+      "raw": "Reimann classification 1046",
+      "frequency": null
+    },
+    {
+      "name": "Reimplantation response, lung 631",
+      "raw": "Reimplantation response, lung 631",
+      "frequency": null
+    },
+    {
+      "name": "Reinhardt syndrome 149",
+      "raw": "Reinhardt syndrome 149",
+      "frequency": null
+    },
+    {
+      "name": "Reiter syndrome 185",
+      "raw": "Reiter syndrome 185",
+      "frequency": null
+    },
+    {
+      "name": "Rejection",
+      "raw": "Rejection",
+      "frequency": null
+    },
+    {
+      "name": "Relapsing polychondritis 185",
+      "raw": "Relapsing polychondritis 185",
+      "frequency": null
+    },
+    {
+      "name": "Remote cerebellar hemorrhage 309",
+      "raw": "Remote cerebellar hemorrhage 309",
+      "frequency": null
+    },
+    {
+      "name": "Renal",
+      "raw": "Renal",
+      "frequency": null
+    },
+    {
+      "name": "Rendu-Osler-Weber syndrome 618",
+      "raw": "Rendu-Osler-Weber syndrome 618",
+      "frequency": null
+    },
+    {
+      "name": "Reniculus 1184",
+      "raw": "Reniculus 1184",
+      "frequency": null
+    },
+    {
+      "name": "Renin",
+      "raw": "Renin",
+      "frequency": null
+    },
+    {
+      "name": "aldosterone mechanism 1187 elevation 1151",
+      "raw": "aldosterone mechanism 1187 elevation 1151",
+      "frequency": null
+    },
+    {
+      "name": "Reninoma 1214",
+      "raw": "Reninoma 1214",
+      "frequency": null
+    },
+    {
+      "name": "Ren lobatus 1184",
+      "raw": "Ren lobatus 1184",
+      "frequency": null
+    },
+    {
+      "name": "Renomedullary interstitial cell tumor 1259",
+      "raw": "Renomedullary interstitial cell tumor 1259",
+      "frequency": null
+    },
+    {
+      "name": "Renovascular hypertension 1151",
+      "raw": "Renovascular hypertension 1151",
+      "frequency": null
+    },
+    {
+      "name": "Reperfusion",
+      "raw": "Reperfusion",
+      "frequency": null
+    },
+    {
+      "name": "Resistance index 779",
+      "raw": "Resistance index 779",
+      "frequency": null
+    },
+    {
+      "name": "Resorption of terminal tufts 21",
+      "raw": "Resorption of terminal tufts 21",
+      "frequency": null
+    },
+    {
+      "name": "Resorptive atelectasis 540",
+      "raw": "Resorptive atelectasis 540",
+      "frequency": null
+    },
+    {
+      "name": "Respirator lung",
+      "raw": "Respirator lung",
+      "frequency": null
+    },
+    {
+      "name": "Reticulogranular densities in neonate 521",
+      "raw": "Reticulogranular densities in neonate 521",
+      "frequency": null
+    },
+    {
+      "name": "Reticulonodular lung disease 528",
+      "raw": "Reticulonodular lung disease 528",
+      "frequency": null
+    },
+    {
+      "name": "Reticulum cell sarcoma, bone 143",
+      "raw": "Reticulum cell sarcoma, bone 143",
+      "frequency": null
+    },
+    {
+      "name": "Retinal",
+      "raw": "Retinal",
+      "frequency": null
+    },
+    {
+      "name": "Retinoblastoma 432",
+      "raw": "Retinoblastoma 432",
+      "frequency": null
+    },
+    {
+      "name": "Retinocerebellar angiomatosis 408",
+      "raw": "Retinocerebellar angiomatosis 408",
+      "frequency": null
+    },
+    {
+      "name": "Retinocytoma 434",
+      "raw": "Retinocytoma 434",
+      "frequency": null
+    },
+    {
+      "name": "Retinoids 90",
+      "raw": "Retinoids 90",
+      "frequency": null
+    },
+    {
+      "name": "Retinoma 434",
+      "raw": "Retinoma 434",
+      "frequency": null
+    },
+    {
+      "name": "Retinopathy of prematurity 434",
+      "raw": "Retinopathy of prematurity 434",
+      "frequency": null
+    },
+    {
+      "name": "Retractile",
+      "raw": "Retractile",
+      "frequency": null
+    },
+    {
+      "name": "Retraction, liver capsule 865",
+      "raw": "Retraction, liver capsule 865",
+      "frequency": null
+    },
+    {
+      "name": "Retroalar herniation 290",
+      "raw": "Retroalar herniation 290",
+      "frequency": null
+    },
+    {
+      "name": "Retroaortic left renal vein 756",
+      "raw": "Retroaortic left renal vein 756",
+      "frequency": null
+    },
+    {
+      "name": "Retroatrial sign 782",
+      "raw": "Retroatrial sign 782",
+      "frequency": null
+    },
+    {
+      "name": "Retrocardiac space of Holzknecht 554",
+      "raw": "Retrocardiac space of Holzknecht 554",
+      "frequency": null
+    },
+    {
+      "name": "Retrocaval ureter 1259",
+      "raw": "Retrocaval ureter 1259",
+      "frequency": null
+    },
+    {
+      "name": "Retrocrural",
+      "raw": "Retrocrural",
+      "frequency": null
+    },
+    {
+      "name": "Retrofenestral otosclerosis 496",
+      "raw": "Retrofenestral otosclerosis 496",
+      "frequency": null
+    },
+    {
+      "name": "Retrogastric space, widened 1008",
+      "raw": "Retrogastric space, widened 1008",
+      "frequency": null
+    },
+    {
+      "name": "Retrohyaloid hemorrhage 428",
+      "raw": "Retrohyaloid hemorrhage 428",
+      "frequency": null
+    },
+    {
+      "name": "Retrolental fibroplasia 434",
+      "raw": "Retrolental fibroplasia 434",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal",
+      "raw": "Retroperitoneal",
+      "frequency": null
+    },
+    {
+      "name": "Retroplacental hematoma 1378",
+      "raw": "Retroplacental hematoma 1378",
+      "frequency": null
+    },
+    {
+      "name": "Retropneumoperitoneum 994",
+      "raw": "Retropneumoperitoneum 994",
+      "frequency": null
+    },
+    {
+      "name": "Retrorectal cystic hamartoma 1142",
+      "raw": "Retrorectal cystic hamartoma 1142",
+      "frequency": null
+    },
+    {
+      "name": "Retrotracheal triangle 553",
+      "raw": "Retrotracheal triangle 553",
+      "frequency": null
+    },
+    {
+      "name": "Retzius space 1282",
+      "raw": "Retzius space 1282",
+      "frequency": null
+    },
+    {
+      "name": "Reversal sign 287, 368",
+      "raw": "Reversal sign 287, 368",
+      "frequency": null
+    },
+    {
+      "name": "Reversed",
+      "raw": "Reversed",
+      "frequency": null
+    },
+    {
+      "name": "Colles fracture 108",
+      "raw": "Colles fracture 108",
+      "frequency": null
+    },
+    {
+      "name": "Reynold sign 197",
+      "raw": "Reynold sign 197",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdoid tumor, kidney 1264",
+      "raw": "Rhabdoid tumor, kidney 1264",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyolysis 30",
+      "raw": "Rhabdomyolysis 30",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyoma",
+      "raw": "Rhabdomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhinocerebral mucormycosis 501",
+      "raw": "Rhinocerebral mucormycosis 501",
+      "frequency": null
+    },
+    {
+      "name": "Rhizomelia 1300",
+      "raw": "Rhizomelia 1300",
+      "frequency": null
+    },
+    {
+      "name": "Rhizomelic",
+      "raw": "Rhizomelic",
+      "frequency": null
+    },
+    {
+      "name": "Rhizopus 682",
+      "raw": "Rhizopus 682",
+      "frequency": null
+    },
+    {
+      "name": "RhoGAM® 1358",
+      "raw": "RhoGAM® 1358",
+      "frequency": null
+    },
+    {
+      "name": "Rhombencephalon 311",
+      "raw": "Rhombencephalon 311",
+      "frequency": null
+    },
+    {
+      "name": "Rhombencephalosynapsis 397 [Rib]",
+      "raw": "Rhombencephalosynapsis 397",
+      "frequency": null,
+      "sites": [
+        "Rib"
+      ]
+    },
+    {
+      "name": "like muscle calcifications 348",
+      "raw": "like muscle calcifications 348",
+      "frequency": null
+    },
+    {
+      "name": "Rider's bone 157",
+      "raw": "Rider's bone 157",
+      "frequency": null
+    },
+    {
+      "name": "Riedel thyroiditis 510 [Right]",
+      "raw": "Riedel thyroiditis 510",
+      "frequency": null,
+      "sites": [
+        "Right"
+      ]
+    },
+    {
+      "name": "sided pleural effusion 548 ventricular",
+      "raw": "sided pleural effusion 548 ventricular",
+      "frequency": null
+    },
+    {
+      "name": "enhancing breast lesion 693",
+      "raw": "enhancing breast lesion 693",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma 375 nephrogram 1165 sign biliary scintigraphy 873 gallbladder 908",
+      "raw": "lymphoma 375 nephrogram 1165 sign biliary scintigraphy 873 gallbladder 908",
+      "frequency": null
+    },
+    {
+      "name": "enhancing brain lesion 298 liver mass 866 epiphysis 224 esophageal 1005 lesion, brain 298 sign, liver 944",
+      "raw": "enhancing brain lesion 298 liver mass 866 epiphysis 224 esophageal 1005 lesion, brain 298 sign, liver 944",
+      "frequency": null
+    },
+    {
+      "name": "Riolan arcade 1031",
+      "raw": "Riolan arcade 1031",
+      "frequency": null
+    },
+    {
+      "name": "Robinow syndrome 149",
+      "raw": "Robinow syndrome 149",
+      "frequency": null
+    },
+    {
+      "name": "Rocker-bottom foot 25",
+      "raw": "Rocker-bottom foot 25",
+      "frequency": null
+    },
+    {
+      "name": "Rodent facies 206",
+      "raw": "Rodent facies 206",
+      "frequency": null
+    },
+    {
+      "name": "Rod, orthopedic 34",
+      "raw": "Rod, orthopedic 34",
+      "frequency": null
+    },
+    {
+      "name": "Rokitansky",
+      "raw": "Rokitansky",
+      "frequency": null
+    },
+    {
+      "name": "Aschoff sinus 946 lobe 598",
+      "raw": "Aschoff sinus 946 lobe 598",
+      "frequency": null
+    },
+    {
+      "name": "Mayer-Küster-Hauser syndrome 1386 nodule 1347",
+      "raw": "Mayer-Küster-Hauser syndrome 1386 nodule 1347",
+      "frequency": null
+    },
+    {
+      "name": "Rolandic artery 320",
+      "raw": "Rolandic artery 320",
+      "frequency": null
+    },
+    {
+      "name": "Rolando fracture 110",
+      "raw": "Rolando fracture 110",
+      "frequency": null
+    },
+    {
+      "name": "Rolling",
+      "raw": "Rolling",
+      "frequency": null
+    },
+    {
+      "name": "Root of tongue 457",
+      "raw": "Root of tongue 457",
+      "frequency": null
+    },
+    {
+      "name": "Rosai-Dorfman disease 397, 191",
+      "raw": "Rosai-Dorfman disease 397, 191",
+      "frequency": null
+    },
+    {
+      "name": "Rosary",
+      "raw": "Rosary",
+      "frequency": null
+    },
+    {
+      "name": "Rounded atelectasis 540",
+      "raw": "Rounded atelectasis 540",
+      "frequency": null
+    },
+    {
+      "name": "Roundworm 408",
+      "raw": "Roundworm 408",
+      "frequency": null
+    },
+    {
+      "name": "Rouvière node 443",
+      "raw": "Rouvière node 443",
+      "frequency": null
+    },
+    {
+      "name": "Rubella 194",
+      "raw": "Rubella 194",
+      "frequency": null
+    },
+    {
+      "name": "Rubeola 584",
+      "raw": "Rubeola 584",
+      "frequency": null
+    },
+    {
+      "name": "Rubinstein-Taybi syndrome 194",
+      "raw": "Rubinstein-Taybi syndrome 194",
+      "frequency": null
+    },
+    {
+      "name": "Rudick red flags 383",
+      "raw": "Rudick red flags 383",
+      "frequency": null
+    },
+    {
+      "name": "Rudimentary rib 18",
+      "raw": "Rudimentary rib 18",
+      "frequency": null
+    },
+    {
+      "name": "Ruge-Simon syndrome 1350",
+      "raw": "Ruge-Simon syndrome 1350",
+      "frequency": null
+    },
+    {
+      "name": "Rugger-jersey spine 224",
+      "raw": "Rugger-jersey spine 224",
+      "frequency": null
+    },
+    {
+      "name": "Rule of",
+      "raw": "Rule of",
+      "frequency": null
+    },
+    {
+      "name": "RUQ pain 861",
+      "raw": "RUQ pain 861",
+      "frequency": null
+    },
+    {
+      "name": "Rusty sputum 648",
+      "raw": "Rusty sputum 648",
+      "frequency": null
+    },
+    {
+      "name": "Ruvalcaba-Myhre-Smith syndrome 1051",
+      "raw": "Ruvalcaba-Myhre-Smith syndrome 1051",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "artery harvest 777 scar, breast 731 Radiation dose 1393 to fetus 1336 fetal exposure 1335 hepatitis 942 GI tract 1136 rectum 1136 nephritis 1242 pneumonitis 662 contrast 703 mottle 703 Radiography, bedside chest 562 Radioiodine physiologic activity 1403 therapy for hyperthyroidism 450 tracer 1403 Radiolucent crescent line 66 liver sign 927 Radionuclide angiography, CNS 1400 cisternography 1401 cystogram 1420 esophagram 1418 impurity 1394 production 1394 table 1393 aplasia 1302 hypoplasia 1302 bite erosion 120 tail common bile duct 960 esophagus 1042 Rathke cleft cyst 397 pouch 312 Ratio of cau"
+}

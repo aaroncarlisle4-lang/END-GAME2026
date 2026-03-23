@@ -1,0 +1,84 @@
+{
+  "finding": "Optic Nerve Enlargement",
+  "slug": "optic_nerve_enlargement_d83362",
+  "chapter": "OPTIC NERVE",
+  "source_file": "processed_clusters/optic_nerve/optic_nerve_enlargement_d83362.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "TUMOR:",
+      "raw": "TUMOR:",
+      "frequency": null
+    },
+    {
+      "name": "Optic pathway glioma",
+      "raw": "Optic pathway glioma",
+      "frequency": null
+    },
+    {
+      "name": "Optic nerve sheath meningioma",
+      "raw": "Optic nerve sheath meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Infiltration by leukemia / lymphoma",
+      "raw": "Infiltration by leukemia / lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "FLUID:",
+      "raw": "FLUID:",
+      "frequency": null
+    },
+    {
+      "name": "Perineural hematoma",
+      "raw": "Perineural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Papilledema of intracranial hypertension",
+      "raw": "Papilledema of intracranial hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Patulous subarachnoid space",
+      "raw": "Patulous subarachnoid space",
+      "frequency": null
+    },
+    {
+      "name": "INFLAMMATION:",
+      "raw": "INFLAMMATION:",
+      "frequency": null
+    },
+    {
+      "name": "Optic neuritis",
+      "raw": "Optic neuritis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "TUMOR:": [
+      "excrescentic thickening of optic nerve-sheath complex =  single / multiple nodules along nerve-sheath complex usually due to tumor"
+    ],
+    "Optic pathway glioma": [
+      "fusiform thickening of optic nerve-sheath complex =  lens-shaped thickening (a)  with central lucency: meningioma (b)  without central lucency: optic nerve glioma",
+      "tubular enlargement of optic nerve-sheath complex =  uniform enlargement of nerve-sheath complex (a)  with central lucency: subarachnoid process (metastases, perineuritis, meningioma, perineural hemorrhage) (b)  without central lucency: papilledema, leukemia, lymphoma, sarcoid, optic nerve glioma"
+    ],
+    "Optic nerve sheath meningioma": [],
+    "Infiltration by leukemia / lymphoma": [],
+    "FLUID:": [],
+    "Perineural hematoma": [],
+    "Papilledema of intracranial hypertension": [],
+    "Patulous subarachnoid space": [],
+    "INFLAMMATION:": [],
+    "Optic neuritis": [],
+    "Sarcoidosis": []
+  },
+  "context": "√  fusiform thickening of optic nerve-sheath complex =  lens-shaped thickening (a)  with central lucency: meningioma (b)  without central lucency: optic nerve glioma √  excrescentic thickening of optic nerve-sheath complex =  single / multiple nodules along nerve-sheath complex usually due to tumor √  tubular enlargement of optic nerve-sheath complex =  uniform enlargement of nerve-sheath complex (a)  with central lucency: subarachnoid process (metastases, perineuritis, meningioma, perineural hemorrhage) (b)  without central lucency: papilledema, leukemia, lymphoma, sarcoid, optic nerve glioma"
+}

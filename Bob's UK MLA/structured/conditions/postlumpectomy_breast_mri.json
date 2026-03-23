@@ -1,0 +1,34 @@
+{
+  "name": "POSTLUMPECTOMY BREAST MRI",
+  "slug": "postlumpectomy_breast_mri",
+  "chapter": "BREAST SKIN",
+  "source_file": "processed_clusters/disease_entries/breast_skin/postlumpectomy_breast_mri.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "persists in 25% at 6 years after breast conservation Rx",
+  "distribution": "segmental / ductal / clumped NMLE",
+  "discriminating_features": [
+    "persists in 25% at 6 years after breast conservation Rx",
+    "seen for up to 18 months",
+    "slow initial + persistent delayed enhancement",
+    "persists up to 5 years",
+    "nodular non-masslike enhancement (NMLE) > 5 mm around a seroma cavity"
+  ],
+  "other_features": {
+    "general": [
+      "persists in 25% at 6 years after breast conservation Rx",
+      "seen for up to 18 months",
+      "slow initial + persistent delayed enhancement",
+      "persists up to 5 years",
+      "nodular non-masslike enhancement (NMLE) > 5 mm around a seroma cavity",
+      "segmental / ductal / clumped NMLE",
+      "masslike enhancement",
+      "rapid initial + washout kinetics NOT consistent with fat necrosis",
+      "increasing size of formerly \"probably benign\" lesion",
+      "focal / multifocal masses with rapid initial + delayed washout kinetics",
+      "irregular / spiculated margins (84-91% PPV)",
+      "rim enhancement"
+    ]
+  },
+  "clinical": {}
+}

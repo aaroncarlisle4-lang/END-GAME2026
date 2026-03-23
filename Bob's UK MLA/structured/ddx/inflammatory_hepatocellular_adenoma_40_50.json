@@ -1,0 +1,32 @@
+{
+  "finding": "Inflammatory Hepatocellular Adenoma 40-50%",
+  "slug": "inflammatory_hepatocellular_adenoma_40_50",
+  "chapter": "GALLBLADDER TORSION",
+  "source_file": "processed_clusters/gallbladder_torsion/inflammatory_hepatocellular_adenoma_40_50.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "systemic inflammatory syndrome: fever, leukocytosis, elevated serum levels of C-reactive protein",
+      "raw": "systemic inflammatory syndrome: fever, leukocytosis, elevated serum levels of C-reactive protein",
+      "frequency": null
+    },
+    {
+      "name": "↑ serum levels of transaminase, alkaline phosphatase, γ-glutamyl transferase; chronic anemia Genetics:   somatic gain-of-function mutation of interleukin-6 signal transducer gene (IL6ST) located at chromosome 5q11 Path:     heterogeneous in appearance, with areas of congestion and frank hemorrhage;",
+      "raw": "↑ serum levels of transaminase, alkaline phosphatase, γ-glutamyl transferase; chronic anemia Genetics:   somatic gain-of-function mutation of interleukin-6 signal transducer gene (IL6ST) located at chromosome 5q11 Path:     heterogeneous in appearance, with areas of congestion and frank hemorrhage;",
+      "frequency": null
+    },
+    {
+      "name": "intratumoral bleeding (20-30%), esp. for tumors > 5 cm in maximum diameter;",
+      "raw": "intratumoral bleeding (20-30%), esp. for tumors > 5 cm in maximum diameter;",
+      "frequency": "30%"
+    },
+    {
+      "name": "10% risk of malignancy",
+      "raw": "10% risk of malignancy",
+      "frequency": "10%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  TELANGIECTATIC FOCAL NODULAR HYPERPLASIA = TELANGIECTATIC ADENOMA Age:     young woman with a history of oral contraceptive usage; obese patient sinusoidal dilatation, peliotic areas, abnormal arteries Histo:     intense polymorphous inflammatory infiltrates, marked sinusoidal dilatation / congestion, thick-walled arteries; tumor cells show immunoreactivity to acute phase inflammatory markers like serum amyloid A and C-reactive protein √  delayed persistent enhancement (85% sensitive, 87% specific) US: √  arterial vascularity with centripetal filling + peripheral rim of sustained enhancemen"
+}

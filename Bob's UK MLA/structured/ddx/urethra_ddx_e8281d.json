@@ -1,0 +1,22 @@
+{
+  "finding": "Urethra (DDx)",
+  "slug": "urethra_ddx_e8281d",
+  "chapter": "Urethra",
+  "source_file": "processed_clusters/urethra/urethra_ddx_e8281d.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ectopic ureter",
+      "raw": "ectopic ureter",
+      "frequency": null
+    },
+    {
+      "name": "ureterocele",
+      "raw": "ureterocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hyperintense nodules in urethral wall on T2WI"
+}

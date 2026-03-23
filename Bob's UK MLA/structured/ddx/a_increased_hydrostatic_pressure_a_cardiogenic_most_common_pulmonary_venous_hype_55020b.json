@@ -1,0 +1,47 @@
+{
+  "finding": "A. INCREASED HYDROSTATIC PRESSURE (a) cardiogenic (most common) = PULMONARY VENOUS HYPERTENSION",
+  "slug": "a_increased_hydrostatic_pressure_a_cardiogenic_most_common_pulmonary_venous_hype_55020b",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/a_increased_hydrostatic_pressure_a_cardiogenic_most_common_pulmonary_venous_hype_55020b.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Heart disease: left ventricular failure, mitral valve disease, left atrial myxoma",
+      "raw": "Heart disease: left ventricular failure, mitral valve disease, left atrial myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary venous disease: acute / chronic pulmonary embolism, primary venoocclusive disease, mediastinal fibrosis",
+      "raw": "Pulmonary venous disease: acute / chronic pulmonary embolism, primary venoocclusive disease, mediastinal fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial disease: pericardial effusion, constrictive pericarditis",
+      "raw": "Pericardial disease: pericardial effusion, constrictive pericarditis (extremely rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Drugs: antiarrhythmic drugs; drugs depressing myocardial contractility (beta- blocker) (b)  noncardiogenic",
+      "raw": "Drugs: antiarrhythmic drugs; drugs depressing myocardial contractility (beta- blocker) (b)  noncardiogenic",
+      "frequency": null
+    },
+    {
+      "name": "Renal failure",
+      "raw": "Renal failure",
+      "frequency": null
+    },
+    {
+      "name": "Massive IV fluid overload",
+      "raw": "Massive IV fluid overload",
+      "frequency": null
+    },
+    {
+      "name": "Hyperosmolar fluid (eg, contrast medium) (c)  neurogenic ? sympathetic venoconstriction in cerebrovascular accident, head injury, CNS tumor,",
+      "raw": "Hyperosmolar fluid (eg, contrast medium) (c)  neurogenic ? sympathetic venoconstriction in cerebrovascular accident, head injury, CNS tumor,",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "postictal state"
+}

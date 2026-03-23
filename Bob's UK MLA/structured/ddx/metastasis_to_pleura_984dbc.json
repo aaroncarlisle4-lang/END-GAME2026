@@ -1,0 +1,37 @@
+{
+  "finding": "METASTASIS TO PLEURA",
+  "slug": "metastasis_to_pleura_984dbc",
+  "chapter": "MESOTHELIOMA OF CHEST",
+  "source_file": "processed_clusters/mesothelioma_of_chest/metastasis_to_pleura_984dbc.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lung",
+      "raw": "Lung (36%)",
+      "frequency": "36%"
+    },
+    {
+      "name": "Breast",
+      "raw": "Breast (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Ovary",
+      "raw": "Ovary (5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Stomach",
+      "raw": "Stomach (2%)",
+      "frequency": "2%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

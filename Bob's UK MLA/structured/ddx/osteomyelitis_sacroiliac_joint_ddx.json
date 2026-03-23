@@ -1,0 +1,32 @@
+{
+  "finding": "Osteomyelitis — Sacroiliac joint (DDx)",
+  "slug": "osteomyelitis_sacroiliac_joint_ddx",
+  "chapter": "Osteomyelitis",
+  "source_file": "processed_clusters/osteomyelitis/osteomyelitis_sacroiliac_joint_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "noninfectious inflammatory arthropathy",
+      "raw": "noninfectious inflammatory arthropathy (Charcot joint)",
+      "frequency": null
+    },
+    {
+      "name": "osteoarthritis",
+      "raw": "osteoarthritis",
+      "frequency": null
+    },
+    {
+      "name": "cellulitis",
+      "raw": "cellulitis",
+      "frequency": null
+    },
+    {
+      "name": "normal hematopoietic marrow in children",
+      "raw": "normal hematopoietic marrow in children",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "extramedullary fat-fluid level ← cortical breach | bone marrow hypointense on T1WI in geographic confluent pattern ← infiltration by | hyperintense relative to normal fatty marrow on T2WI / STIR (= water-rich inflammatory"
+}

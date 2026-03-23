@@ -1,0 +1,57 @@
+{
+  "finding": "Lemon Sign",
+  "slug": "lemon_sign_4adccc",
+  "chapter": "B. ABNORMAL KARYOTYPE (10-20%",
+  "source_file": "processed_clusters/b_abnormal_karyotype_10_20/lemon_sign_4adccc.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Spina bifida",
+      "raw": "Spina bifida",
+      "frequency": null
+    },
+    {
+      "name": "Encephalocele",
+      "raw": "Encephalocele",
+      "frequency": null
+    },
+    {
+      "name": "Agenesis of corpus callosum",
+      "raw": "Agenesis of corpus callosum",
+      "frequency": null
+    },
+    {
+      "name": "Thanatophoric dysplasia",
+      "raw": "Thanatophoric dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Cystic hygroma",
+      "raw": "Cystic hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Congenital diaphragmatic hernia",
+      "raw": "Congenital diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Fetal hydronephrosis",
+      "raw": "Fetal hydronephrosis",
+      "frequency": null
+    },
+    {
+      "name": "Umbilical vein varix",
+      "raw": "Umbilical vein varix",
+      "frequency": null
+    },
+    {
+      "name": "Normal fetus",
+      "raw": "Normal fetus (in 0.7-1.3%)",
+      "frequency": "1.3%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  flat / inwardly scalloped contour of both frontal bones Prevalence for fetuses ≤ 24 weeks: 98% (90-93% sensitive, 98-99% specific, 84% PPV for high-risk population, 6% PPV for low-risk population) Prevalence for fetuses > 24 weeks: 13% (disappears in 3rd trimester)"
+}

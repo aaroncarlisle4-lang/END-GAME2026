@@ -1,0 +1,62 @@
+{
+  "finding": "CSF-isointense Focal Spinal Cord Displacement",
+  "slug": "csf_isointense_focal_spinal_cord_displacement_d3ec84",
+  "chapter": "C. VASCULAR",
+  "source_file": "processed_clusters/c_vascular/csf_isointense_focal_spinal_cord_displacement_d3ec84.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "nonspecific symptoms: back pain, weakness, numbness, Brown-Séquard syndrome",
+      "raw": "nonspecific symptoms: back pain, weakness, numbness, Brown-Séquard syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid cyst",
+      "raw": "Epidermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Intradural arachnoid cyst",
+      "raw": "Intradural arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Synovial cyst",
+      "raw": "Synovial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cystic schwannoma",
+      "raw": "Cystic schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Meningocele",
+      "raw": "Meningocele",
+      "frequency": null
+    },
+    {
+      "name": "Epidural abscess of spine",
+      "raw": "Epidural abscess of spine",
+      "frequency": null
+    },
+    {
+      "name": "Epidural hematoma",
+      "raw": "Epidural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic spinal cord herniation",
+      "raw": "Idiopathic spinal cord herniation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  space-occupying CSF-isointense intradural / intraspinal extramedullary lesion with widened CSF space"
+}

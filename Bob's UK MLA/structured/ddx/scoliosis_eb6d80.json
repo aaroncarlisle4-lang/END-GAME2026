@@ -1,0 +1,32 @@
+{
+  "finding": "SCOLIOSIS",
+  "slug": "scoliosis_eb6d80",
+  "chapter": "OSSIFYING FIBROMA",
+  "source_file": "processed_clusters/ossifying_fibroma/scoliosis_eb6d80.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary = idiopathic",
+      "raw": "Primary = idiopathic (80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "Infantile (0-3 yrs.): M÷F=3.5÷1; levoscoliosis; self-limited",
+      "raw": "Infantile (0-3 yrs.): M÷F=3.5÷1; levoscoliosis; self-limited",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile (4-10 yrs.): progression in 70-95%",
+      "raw": "Juvenile (4-10 yrs.): progression in 70-95%",
+      "frequency": "95%"
+    },
+    {
+      "name": "Adolescent (11-18 yrs.): M÷F=1÷4; dextroscoliosis; progression in 5%",
+      "raw": "Adolescent (11-18 yrs.): M÷F=1÷4; dextroscoliosis; progression in 5%",
+      "frequency": "5%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  presence of ≥ 1 lateral curves of the vertebral column in the coronal plane with a Cobb angle of ≥ 10° ◊  A curve of < 10° represents spinal asymmetry and NOT scoliosis, is asymptomatic and nonprogressive! Mechanism:   rotation of vertebrae in axial plane → discrepant axial loading between ventral + dorsal portions Etiology:"
+}

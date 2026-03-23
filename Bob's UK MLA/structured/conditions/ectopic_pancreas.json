@@ -1,0 +1,42 @@
+{
+  "name": "ECTOPIC PANCREAS",
+  "slug": "ectopic_pancreas",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/ectopic_pancreas.md",
+  "definition": "PANCREATIC REST / CHORISTOMA = HETEROTOPIC PANCREAS = MYOEPITHELIAL HAMARTOMA presence of abnormally located pancreatic tissue with its own ductal system and NO vascular",
+  "demographics": {
+    "Frequency": "1-14% of population; M÷F = 2÷1",
+    "Location": "lesions may be multiple",
+    "Prevalence": "1%-2%: in ¾ submucosal",
+    "Size": "usually 0.5-2.0 (up to 5.0 cm in its largest diameter)"
+  },
+  "dominant_finding": "5-20 mm small cystic change in markedly thickened wall of 2nd part of duodenum ←",
+  "distribution": "lesions may be multiple",
+  "discriminating_features": [
+    "PATHOGNOMONIC presence of ducts on MRCP",
+    "smooth cone- / nipple-shaped submucosal nodule 1-5 cm (rarely > 3-4 cm) in size",
+    "central umbilication representing orifice of filiform duct",
+    "flat / ovoid irregularly marginated intramural mass",
+    "homogeneously enhancing with intraluminal extension (= enhancement pattern similar to"
+  ],
+  "other_features": {
+    "general": [
+      "smooth cone- / nipple-shaped submucosal nodule 1-5 cm (rarely > 3-4 cm) in size",
+      "central umbilication representing orifice of filiform duct"
+    ],
+    "CT": [
+      "flat / ovoid irregularly marginated intramural mass",
+      "homogeneously enhancing with intraluminal extension (= enhancement pattern similar to",
+      "5-20 mm small cystic change in markedly thickened wall of 2nd part of duodenum ←"
+    ],
+    "MR": [
+      "area with SI similar to native pancreas",
+      "± surrounding inflammatory changes",
+      "PATHOGNOMONIC presence of ducts on MRCP",
+      "solid mass of intermediate echogenicity"
+    ]
+  },
+  "clinical": {
+    "Cx": "biliary + intestinal obstruction, massive GI bleeding, pancreatitis, paraduodenal"
+  }
+}

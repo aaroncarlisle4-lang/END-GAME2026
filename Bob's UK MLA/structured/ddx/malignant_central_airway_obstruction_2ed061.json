@@ -1,0 +1,42 @@
+{
+  "finding": "Malignant Central Airway Obstruction",
+  "slug": "malignant_central_airway_obstruction_2ed061",
+  "chapter": "TRACHEA & BRONCHI",
+  "source_file": "processed_clusters/trachea_bronchi/malignant_central_airway_obstruction_2ed061.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary lung cancer",
+      "raw": "Primary lung cancer",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic mediastinal adenopathy",
+      "raw": "Metastatic mediastinal adenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial carcinoid",
+      "raw": "Bronchial carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Endobronchial metastasis",
+      "raw": "Endobronchial metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Primary tracheal tumor: chondroma, adenoid cystic ca.",
+      "raw": "Primary tracheal tumor: chondroma, adenoid cystic ca.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

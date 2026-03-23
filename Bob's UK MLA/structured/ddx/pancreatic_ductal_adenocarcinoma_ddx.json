@@ -1,0 +1,37 @@
+{
+  "finding": "Pancreatic Ductal Adenocarcinoma (DDx)",
+  "slug": "pancreatic_ductal_adenocarcinoma_ddx",
+  "chapter": "Pancreatic Ductal Adenocarcinoma",
+  "source_file": "processed_clusters/pancreatic_ductal_adenocarcinoma/pancreatic_ductal_adenocarcinoma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "focal pancreatitis",
+      "raw": "focal pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "islet cell carcinoma",
+      "raw": "islet cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "normal variant",
+      "raw": "normal variant",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "localized encasement with prestenotic upstream dilatation | acinar defect"
+}

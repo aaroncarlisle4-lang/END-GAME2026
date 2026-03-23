@@ -1,0 +1,31 @@
+{
+  "finding": "Hemangioma Of Gastrointestinal Tract (DDx)",
+  "slug": "hemangioma_of_gastrointestinal_tract_ddx_1501d2",
+  "chapter": "Hemangioma Of Gastrointestinal Tract",
+  "source_file": "processed_clusters/hemangioma_of_gastrointestinal_tract/hemangioma_of_gastrointestinal_tract_ddx_1501d2.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "GIST",
+      "raw": "GIST",
+      "frequency": null
+    },
+    {
+      "name": "glomus tumor",
+      "raw": "glomus tumor",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "GIST": [],
+    "glomus tumor": [],
+    "metastasis": []
+  },
+  "context": "segmental transmural circumferential bowel wall thickening = diffuse infiltrating abnormality | ± virtually PATHOGNOMONIC phleboliths in intestinal wall ← calcified thrombi | well-circumscribed avidly enhancing often intraluminal lobulated mass of mixed | slow diffuse enhancement + vascular engorgement within adjacent mesentery around mass"
+}

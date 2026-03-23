@@ -1,0 +1,33 @@
+{
+  "finding": "Fibropolycystic Liver Disease",
+  "slug": "fibropolycystic_liver_disease_be66e6",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/fibropolycystic_liver_disease_be66e6.md",
+  "quality_score": 0.5,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "SMALL INTERLOBULAR BILE DUCTS",
+      "raw": "SMALL INTERLOBULAR BILE DUCTS",
+      "frequency": null
+    },
+    {
+      "name": "Congenital hepatic fibrosis",
+      "raw": "Congenital hepatic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Biliary hamartomas",
+      "raw": "Biliary hamartomas",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "SMALL INTERLOBULAR BILE DUCTS": [],
+    "Congenital hepatic fibrosis": [
+      "=  unique group of entities with derangement of embryonic biliary ductal plate development surrounding portal vein ◊  Coexistence of hepatic + renal anomalies"
+    ],
+    "Biliary hamartomas": []
+  },
+  "context": "=  unique group of entities with derangement of embryonic biliary ductal plate development surrounding portal vein ◊  Coexistence of hepatic + renal anomalies"
+}

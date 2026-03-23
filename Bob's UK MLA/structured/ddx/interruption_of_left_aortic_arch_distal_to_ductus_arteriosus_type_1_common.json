@@ -1,0 +1,47 @@
+{
+  "finding": "Interruption of Left Aortic Arch Distal to Ductus Arteriosus = Type 1 (common",
+  "slug": "interruption_of_left_aortic_arch_distal_to_ductus_arteriosus_type_1_common",
+  "chapter": "RHABDOMYOMA OF HEART",
+  "source_file": "processed_clusters/rhabdomyoma_of_heart/interruption_of_left_aortic_arch_distal_to_ductus_arteriosus_type_1_common.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tetralogy of Fallot",
+      "raw": "Tetralogy of Fallot   (87%)",
+      "frequency": "87%"
+    },
+    {
+      "name": "Multiple defects",
+      "raw": "Multiple defects   (7.5%)",
+      "frequency": "7.5%"
+    },
+    {
+      "name": "Truncus arteriosus",
+      "raw": "Truncus arteriosus   (2-6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Transposition",
+      "raw": "Transposition   (1-10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Tricuspid atresia",
+      "raw": "Tricuspid atresia   (5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "ASD ± VSD   (0.5%) ◊  25% (37%) of patients with tetralogy of Fallot (truncus arteriosus) have a right aortic arch!",
+      "raw": "ASD ± VSD   (0.5%) ◊  25% (37%) of patients with tetralogy of Fallot (truncus arteriosus) have a right aortic arch!",
+      "frequency": "0.5%"
+    },
+    {
+      "name": "congenital subclavian steal syndrome",
+      "raw": "congenital subclavian steal syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Associated with:   cyanotic CHD in 98%: √  NO vascular ring, NO retroesophageal component √  NO structure posterior to trachea √  R arch impression on tracheal air shadow √  NORMAL barium swallow Interruption of Left Aortic Arch Proximal to Ductus Arteriosus = Type 2 (rare) =  true vascular ring (if duct persists); rarely associated with CHD RAA with Isolated Left Subclavian Artery ◊  3rd most common right aortic arch anomaly: 2% =  interruption of embryonic left arch between (a)  left CCA and left subclavian artery and (b)  left ductus and descending aorta resulting in a connection of left su"
+}

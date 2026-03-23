@@ -1,0 +1,24 @@
+{
+  "name": "WILLIAMS-CAMPBELL SYNDROME",
+  "slug": "williams_campbell_syndrome",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/williams_campbell_syndrome.md",
+  "definition": "congenital bronchial cartilage deficiency in the 4th-6th bronchial generation either diffuse or",
+  "demographics": {},
+  "dominant_finding": "cystic bronchiectasis distal to 3rd bronchial generation",
+  "distribution": "",
+  "discriminating_features": [
+    "cystic bronchiectasis distal to 3rd bronchial generation",
+    "emphysematous lung distal to bronchiectasis",
+    "inspiratory ballooning + expiratory collapse of dilated segments"
+  ],
+  "other_features": {
+    "general": [],
+    "HRCT": [
+      "cystic bronchiectasis distal to 3rd bronchial generation",
+      "emphysematous lung distal to bronchiectasis",
+      "inspiratory ballooning + expiratory collapse of dilated segments"
+    ]
+  },
+  "clinical": {}
+}

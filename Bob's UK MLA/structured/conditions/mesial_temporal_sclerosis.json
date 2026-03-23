@@ -1,0 +1,34 @@
+{
+  "name": "MESIAL TEMPORAL SCLEROSIS",
+  "slug": "mesial_temporal_sclerosis",
+  "chapter": "INTRAVENTRICULAR NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/intraventricular_neurocytoma/mesial_temporal_sclerosis.md",
+  "definition": "",
+  "demographics": {
+    "Histo": "marked neuronal loss + astrogliosis in hippocampal subfields CA1 + CA3 + CA4",
+    "Location": "uni- / bilateral; symmetric / asymmetric"
+  },
+  "dominant_finding": "hippocampal atrophy + loss of internal architecture",
+  "distribution": "uni- / bilateral; symmetric / asymmetric",
+  "discriminating_features": [
+    "hippocampal atrophy + loss of internal architecture",
+    "increased signal intensity on T2WI",
+    "dilatation of temporal horn",
+    "ipsilateral atrophy of fornix (55%)",
+    "ipsilateral atrophy of mamillary body (26%)"
+  ],
+  "other_features": {
+    "general": [
+      "hippocampal atrophy + loss of internal architecture",
+      "increased signal intensity on T2WI",
+      "dilatation of temporal horn",
+      "ipsilateral atrophy of fornix (55%)",
+      "ipsilateral atrophy of mamillary body (26%)",
+      "increased SI of anterior temporal lobe cortex (38%)",
+      "cerebral hemiatrophy (1%)"
+    ]
+  },
+  "clinical": {
+    "Rx": "amygdalohippocampectomy"
+  }
+}

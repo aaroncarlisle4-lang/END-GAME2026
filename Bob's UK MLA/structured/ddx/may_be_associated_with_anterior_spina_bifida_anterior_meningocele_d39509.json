@@ -1,0 +1,27 @@
+{
+  "finding": "May be associated with: anterior spina bifida ± anterior meningocele",
+  "slug": "may_be_associated_with_anterior_spina_bifida_anterior_meningocele_d39509",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/may_be_associated_with_anterior_spina_bifida_anterior_meningocele_d39509.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Block vertebra =  congenital vertebral fusion",
+      "raw": "Block vertebra =  congenital vertebral fusion",
+      "frequency": null
+    },
+    {
+      "name": "Hypoplastic vertebra",
+      "raw": "Hypoplastic vertebra",
+      "frequency": null
+    },
+    {
+      "name": "Klippel-Feil syndrome",
+      "raw": "Klippel-Feil syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  widened vertebral body with butterfly configuration (AP view) √  adaptation of vertebral endplates of adjacent vertebral bodies Location:   lumbar / cervical √  height of fused vertebral bodies equals the sum of heights of involved bodies + intervertebral disk √  \"waist\" at level of intervertebral disk space"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "D. PERIOSTEAL / JUXTACORTICAL LESION",
+  "slug": "d_periosteal_juxtacortical_lesion",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/myeloproliferative_disorders/d_periosteal_juxtacortical_lesion.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Juxtacortical chondroma / osteosarcoma",
+      "raw": "Juxtacortical chondroma / osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteochondroma",
+      "raw": "Osteochondroma",
+      "frequency": null
+    },
+    {
+      "name": "Parosteal osteogenic sarcoma",
+      "raw": "Parosteal osteogenic sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

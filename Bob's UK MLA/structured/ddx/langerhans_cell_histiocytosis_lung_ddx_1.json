@@ -1,0 +1,27 @@
+{
+  "finding": "Langerhans Cell Histiocytosis — Lung (DDx)",
+  "slug": "langerhans_cell_histiocytosis_lung_ddx_1",
+  "chapter": "Langerhans Cell Histiocytosis",
+  "source_file": "processed_clusters/langerhans_cell_histiocytosis/langerhans_cell_histiocytosis_lung_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lymphangioleiomyomatosis",
+      "raw": "lymphangioleiomyomatosis",
+      "frequency": null
+    },
+    {
+      "name": "lymphocytic interstitial pneumonia",
+      "raw": "lymphocytic interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "bullous emphysema",
+      "raw": "bullous emphysema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "lesions in meninges + choroid plexus | centrilobular micronodules | usually < 1 cm cysts ± confluence to bulla formation → recurrent spontaneous | pleural effusion + enlarged hilar lymph nodes (rare)"
+}

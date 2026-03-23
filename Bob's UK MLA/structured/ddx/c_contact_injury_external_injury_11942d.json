@@ -1,0 +1,42 @@
+{
+  "finding": "C. CONTACT INJURY / EXTERNAL INJURY",
+  "slug": "c_contact_injury_external_injury_11942d",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/c_contact_injury_external_injury_11942d.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Corrosives: alkali, strictures in 50%",
+      "raw": "Corrosives: alkali, strictures in 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "Alcohol-induced esophagitis",
+      "raw": "Alcohol-induced esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Drug-induced esophagitis",
+      "raw": "Drug-induced esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Radiotherapy: smooth stricture at > 4,500 rad",
+      "raw": "Radiotherapy: smooth stricture at > 4,500 rad",
+      "frequency": null
+    },
+    {
+      "name": "Nasogastric tube",
+      "raw": "Nasogastric tube",
+      "frequency": null
+    },
+    {
+      "name": "Endoscopic sclerotherapy",
+      "raw": "Endoscopic sclerotherapy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  shallow / deep ulcers conforming to radiation portal √  elongated stricture in middle ⅓ + distal ⅓"
+}

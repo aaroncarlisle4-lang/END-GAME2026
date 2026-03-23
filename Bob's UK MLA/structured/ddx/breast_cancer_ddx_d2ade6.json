@@ -1,0 +1,32 @@
+{
+  "finding": "Breast Cancer (DDx)",
+  "slug": "breast_cancer_ddx_d2ade6",
+  "chapter": "Breast Cancer",
+  "source_file": "processed_clusters/breast_cancer/breast_cancer_ddx_d2ade6.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "trauma",
+      "raw": "trauma",
+      "frequency": null
+    },
+    {
+      "name": "biopsy",
+      "raw": "biopsy",
+      "frequency": null
+    },
+    {
+      "name": "abscess",
+      "raw": "abscess",
+      "frequency": null
+    },
+    {
+      "name": "burns",
+      "raw": "burns",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "solitary dilated duct > 3 cm long"
+}

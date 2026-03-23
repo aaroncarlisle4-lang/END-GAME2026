@@ -1,0 +1,32 @@
+{
+  "finding": "Langerhans Cell Histiocytosis — Lung (DDx)",
+  "slug": "langerhans_cell_histiocytosis_lung_ddx_97cf8e",
+  "chapter": "Langerhans Cell Histiocytosis",
+  "source_file": "processed_clusters/langerhans_cell_histiocytosis/langerhans_cell_histiocytosis_lung_ddx_97cf8e.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastases",
+      "raw": "metastases",
+      "frequency": null
+    },
+    {
+      "name": "miliary tuberculosis",
+      "raw": "miliary tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "sarcoidosis",
+      "raw": "sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "silicosis",
+      "raw": "silicosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thickening of pituitary stalk (~70%) on CEMR | leukoencephalopathy-like white matter changes | lesions in meninges + choroid plexus | centrilobular micronodules"
+}

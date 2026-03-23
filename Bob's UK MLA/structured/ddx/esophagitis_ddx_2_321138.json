@@ -1,0 +1,27 @@
+{
+  "finding": "Esophagitis (DDx)",
+  "slug": "esophagitis_ddx_2_321138",
+  "chapter": "Esophagitis",
+  "source_file": "processed_clusters/esophagitis/esophagitis_ddx_2_321138.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "drug-induced esophagitis",
+      "raw": "drug-induced esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "esophageal intramural pseudodiverticulosis",
+      "raw": "esophageal intramural pseudodiverticulosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "initially vesicles / blisters that subsequently rupture | multiple small discrete superficial punctate / round / linear / serpentine / stellate (often | intervening mucosa normal (without plaques) | multiple plaquelike lesions (only with severe infection)"
+}

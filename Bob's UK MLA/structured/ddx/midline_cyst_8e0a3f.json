@@ -1,0 +1,77 @@
+{
+  "finding": "Midline Cyst",
+  "slug": "midline_cyst_8e0a3f",
+  "chapter": "B. NEUROVASCULAR",
+  "source_file": "processed_clusters/b_neurovascular/midline_cyst_8e0a3f.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cavum septi pellucidi",
+      "raw": "Cavum septi pellucidi",
+      "frequency": null
+    },
+    {
+      "name": "Cavum vergae",
+      "raw": "Cavum vergae",
+      "frequency": null
+    },
+    {
+      "name": "Cavum veli interpositi",
+      "raw": "Cavum veli interpositi",
+      "frequency": null
+    },
+    {
+      "name": "Colloid cyst anterior + superior to cavum septi pellucidi",
+      "raw": "Colloid cyst anterior + superior to cavum septi pellucidi",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst in region of quadrigeminal plate cistern",
+      "raw": "Arachnoid cyst in region of quadrigeminal plate cistern",
+      "frequency": null
+    },
+    {
+      "name": "Choroid plexus cyst",
+      "raw": "Choroid plexus cyst (most common, abnormal DWI in ⅔)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Ependymal cyst",
+      "raw": "Ependymal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Neuroglial cyst",
+      "raw": "Neuroglial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Enlarged perivascular spaces",
+      "raw": "Enlarged perivascular spaces (typically multiple, clustered around basal ganglia)",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst (typically extraaxial)",
+      "frequency": null
+    },
+    {
+      "name": "Porencephalic cyst",
+      "raw": "Porencephalic cyst (communication with lateral ventricle, surrounding gliosis)",
+      "frequency": null
+    },
+    {
+      "name": "Infectious cyst of neurocysticercosis",
+      "raw": "Infectious cyst of neurocysticercosis (< 1 cm, partially enhancing)",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid cyst",
+      "raw": "Epidermoid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  curvilinear margins Intracranial Nonneoplastic Cyst Characteristics: √  no detectable wall / associated soft-tissue mass √  homogeneous signal intensity identical to CSF √  absence of surrounding edema / gliosis √  NO contrast enhancement"
+}

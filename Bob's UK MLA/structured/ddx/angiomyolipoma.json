@@ -1,0 +1,77 @@
+{
+  "finding": "ANGIOMYOLIPOMA",
+  "slug": "angiomyolipoma",
+  "chapter": "ANALGESIC NEPHROPATHY",
+  "source_file": "processed_clusters/analgesic_nephropathy/angiomyolipoma.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "small lesions are asymptomatic",
+      "raw": "small lesions are asymptomatic (60%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "acute flank / abdominal pain in 87% ◊  Angiomyolipomas > 4 cm are symptomatic in 82-94% ← spontaneous bleeding in 50-60%!",
+      "raw": "acute flank / abdominal pain in 87% ◊  Angiomyolipomas > 4 cm are symptomatic in 82-94% ← spontaneous bleeding in 50-60%!",
+      "frequency": "87%"
+    },
+    {
+      "name": "gross hematuria, anemia, hypertension",
+      "raw": "gross hematuria, anemia, hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Wunderlich syndrome = hemorrhagic shock ← massive bleeding into angiomyolipoma or into retroperitoneum",
+      "raw": "Wunderlich syndrome = hemorrhagic shock ← massive bleeding into angiomyolipoma or into retroperitoneum (10%) Location:   renal parenchyma; renal hilum; may be exophytic perirenal / completely extrarenal (retroperitoneum, solid + hollow organs, skin, gynecologic region)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Hemorrhage with spontaneous rupture (25%) ← tumor > 4 cm / intratumoral aneurysm > 5 mm",
+      "raw": "Hemorrhage with spontaneous rupture (25%) ← tumor > 4 cm / intratumoral aneurysm > 5 mm",
+      "frequency": "25%"
+    },
+    {
+      "name": "Growth into renal vein / IVC ◊  Not necessarily implying malignant transformation",
+      "raw": "Growth into renal vein / IVC ◊  Not necessarily implying malignant transformation",
+      "frequency": null
+    },
+    {
+      "name": "Renal failure",
+      "raw": "Renal failure",
+      "frequency": null
+    },
+    {
+      "name": "Annual follow-up of lesions < 4 cm",
+      "raw": "Annual follow-up of lesions < 4 cm",
+      "frequency": null
+    },
+    {
+      "name": "Semiannual follow-up of lesions ≥ 4 cm",
+      "raw": "Semiannual follow-up of lesions ≥ 4 cm",
+      "frequency": null
+    },
+    {
+      "name": "Emergency laparotomy (in 25%): nephrectomy, tumor resection",
+      "raw": "Emergency laparotomy (in 25%): nephrectomy, tumor resection",
+      "frequency": "25%"
+    },
+    {
+      "name": "Selective arterial embolization with hemorrhage",
+      "raw": "Selective arterial embolization with hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Prophylactic surgery in pregnant women",
+      "raw": "Prophylactic surgery in pregnant women",
+      "frequency": null
+    },
+    {
+      "name": "Screening for tuberous sclerosis DDx:   renal / perirenal lipoma or liposarcoma; Wilms tumor / renal cell carcinoma (occasionally contains fat if large, but also calcium); clear cell RCC with small amount of intracellular fat",
+      "raw": "Screening for tuberous sclerosis DDx:   renal / perirenal lipoma or liposarcoma; Wilms tumor / renal cell carcinoma (occasionally contains fat if large, but also calcium); clear cell RCC with small amount of intracellular fat",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  AML = Renal choristoma (= benign tumor composed of tissues not normally occurring within the organ of origin) N.B.:     normal cells / tissues in an abnormal location! [= Renal Hamartoma (improper name since fat and smooth muscle do normally occur within renal parenchyma] =  most common benign mesenchymal tumor of kidney composed of varying admixtures of thick- walled blood vessels, smooth muscle cells and mature fat (→ hence name!) Prevalence:   0.3-2.0% of all renal tumors; 1% of all surgically removed renal tumors Genetics: (a)   sporadic (50-70%) (b)  inherited with tuberous sclerosis ("
+}

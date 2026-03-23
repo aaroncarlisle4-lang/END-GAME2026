@@ -1,0 +1,32 @@
+{
+  "finding": "Choledochal Cyst (DDx)",
+  "slug": "choledochal_cyst_ddx_2",
+  "chapter": "Choledochal Cyst",
+  "source_file": "processed_clusters/choledochal_cyst/choledochal_cyst_ddx_2.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "often excludes hepatic cyst",
+      "raw": "often excludes hepatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "pancreatic pseudocyst",
+      "raw": "pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "enteric duplication",
+      "raw": "enteric duplication",
+      "frequency": null
+    },
+    {
+      "name": "spontaneous loculated biloma",
+      "raw": "spontaneous loculated biloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "right-sided cyst in fetal abdomen + adjacent dilated hepatic ducts | photopenic area within liver that fills within 60 min + stasis of tracer within cyst | lack of tracer passage into small intestine | prominent hepatic ductal activity ← dilatation of ducts"
+}

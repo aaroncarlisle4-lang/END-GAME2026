@@ -1,0 +1,27 @@
+{
+  "finding": "Granular Cell Tumor (DDx)",
+  "slug": "granular_cell_tumor_ddx",
+  "chapter": "Granular Cell Tumor",
+  "source_file": "processed_clusters/granular_cell_tumor/granular_cell_tumor_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "carcinoma",
+      "raw": "carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "surrounding hyperechoic halo ← infiltrative growth pattern | low to high SI on T2WI + low to intermediate SI on T1WI | hyperintense rim on T2WI | homogeneous enhancement of varying kinetics / rapid peripheral enhancement"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "HEPATIC CYST",
+  "slug": "hepatic_cyst",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/hepatic_cyst.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "2-7-14%; increasing with age; M < F",
+    "Frequency": "liver cysts detected at autopsy in 50%;",
+    "Path": "no communication with biliary tree",
+    "Histo": "cyst surrounded by fibrous capsule + lined by columnar epithelium, related to bile"
+  },
+  "dominant_finding": "well-circumscribed round / ovoid unilocular lesion:",
+  "distribution": "anechoic with posterior acoustic enhancement",
+  "discriminating_features": [
+    "well-circumscribed round / ovoid unilocular lesion:",
+    "imperceptible wall ± rim calcification",
+    "anechoic with posterior acoustic enhancement",
+    "very bright on T2WI",
+    "water attenuation (-20 to +20 HU)"
+  ],
+  "other_features": {
+    "general": [
+      "well-circumscribed round / ovoid unilocular lesion:",
+      "imperceptible wall ± rim calcification",
+      "anechoic with posterior acoustic enhancement",
+      "very bright on T2WI",
+      "water attenuation (-20 to +20 HU)",
+      "no enhancement",
+      "hypointense on T1WI, hyperintense on T2WI",
+      "\"cold spot\" on IDA, Ga-68, 99mTc-sulfur colloid scans",
+      "fluid-fluid interface",
+      "wall thickening",
+      "intracystic debris ± septations"
+    ]
+  },
+  "clinical": {
+    "Rx": "sclerosing therapy with minocycline hydrochloride (Dose: 1 mg per 1-mL cyst content up"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "B. MULTIPLE MASSES",
+  "slug": "b_multiple_masses_11cc14",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/b_multiple_masses_11cc14.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nephroblastomatosis",
+      "raw": "Nephroblastomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Multiple Wilms tumors",
+      "raw": "Multiple Wilms tumors",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (< 0.5%)",
+      "frequency": "0.5%"
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Adult polycystic kidney disease",
+      "raw": "Adult polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Abscesses",
+      "raw": "Abscesses",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

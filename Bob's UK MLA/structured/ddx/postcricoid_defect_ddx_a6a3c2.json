@@ -1,0 +1,22 @@
+{
+  "finding": "Postcricoid Defect (DDx)",
+  "slug": "postcricoid_defect_ddx_a6a3c2",
+  "chapter": "Postcricoid Defect",
+  "source_file": "processed_clusters/postcricoid_defect/postcricoid_defect_ddx_a6a3c2.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "subepithelial tumor",
+      "raw": "subepithelial tumor",
+      "frequency": null
+    },
+    {
+      "name": "esophageal web",
+      "raw": "esophageal web (persistent configuration)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "marked cluster of air-filled cysts in wall of colon | more linear gas collection | tumor- / weblike lesion with variable configuration during swallowing"
+}

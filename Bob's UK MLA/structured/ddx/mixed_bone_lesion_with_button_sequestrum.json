@@ -1,0 +1,32 @@
+{
+  "finding": "Mixed Bone Lesion with Button Sequestrum",
+  "slug": "mixed_bone_lesion_with_button_sequestrum",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/mixed_bone_lesion_with_button_sequestrum.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosarcoma, desmoplastic fibroma, MFH",
+      "raw": "Fibrosarcoma, desmoplastic fibroma, MFH",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma uncommon:",
+      "raw": "Lymphoma uncommon:",
+      "frequency": "uncommon"
+    }
+  ],
+  "criteria": {},
+  "context": "√  bone opacity surrounded by a well-defined lucent area common: partially calcified intraosseous lipoma, tuberculous osteitis, radiation necrosis, metastatic carcinoma, fibrous dysplasia, dermoid & epidermoid cyst, hemangioma, meningioma"
+}

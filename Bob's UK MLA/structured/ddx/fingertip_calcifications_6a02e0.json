@@ -1,0 +1,42 @@
+{
+  "finding": "Fingertip Calcifications",
+  "slug": "fingertip_calcifications_6a02e0",
+  "chapter": "D. METABOLIC",
+  "source_file": "processed_clusters/d_metabolic/fingertip_calcifications_6a02e0.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Scleroderma / CREST syndrome",
+      "raw": "Scleroderma / CREST syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Raynaud disease",
+      "raw": "Raynaud disease",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "Dermatomyositis",
+      "raw": "Dermatomyositis",
+      "frequency": null
+    },
+    {
+      "name": "Calcinosis circumscripta universalis",
+      "raw": "Calcinosis circumscripta universalis",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

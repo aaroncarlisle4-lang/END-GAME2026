@@ -1,0 +1,32 @@
+{
+  "finding": "Mass on Promontory",
+  "slug": "mass_on_promontory_ebc59b",
+  "chapter": "E. MISCELLANEOUS",
+  "source_file": "processed_clusters/e_miscellaneous/mass_on_promontory_ebc59b.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Glomus tympanicum",
+      "raw": "Glomus tympanicum",
+      "frequency": null
+    },
+    {
+      "name": "Congenital cholesteatoma",
+      "raw": "Congenital cholesteatoma",
+      "frequency": null
+    },
+    {
+      "name": "Aberrant carotid artery",
+      "raw": "Aberrant carotid artery",
+      "frequency": null
+    },
+    {
+      "name": "Persistent stapedial artery",
+      "raw": "Persistent stapedial artery",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "[promontory = bone over basal turn of cochlea]"
+}

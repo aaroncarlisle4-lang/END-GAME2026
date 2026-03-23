@@ -1,0 +1,34 @@
+{
+  "name": "OPTIC NEURITIS",
+  "slug": "optic_neuritis",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/optic_neuritis.md",
+  "definition": "nerve involvement by inflammation, degeneration, demyelination",
+  "demographics": {
+    "Etiology": "demyelination from"
+  },
+  "dominant_finding": "normal / mildly enlarged optic nerve + chiasm",
+  "distribution": "",
+  "discriminating_features": [
+    "normal / mildly enlarged optic nerve + chiasm",
+    "may show enhancement",
+    "mild enlargement + enhancement of optic nerve best demonstrated on axial T1WI",
+    "hyperintense optic nerve on T2WI",
+    "leptomeningeal enhancement obscures lucent optic nerve"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "normal / mildly enlarged optic nerve + chiasm",
+      "may show enhancement"
+    ],
+    "MR": [
+      "mild enlargement + enhancement of optic nerve best demonstrated on axial T1WI",
+      "hyperintense optic nerve on T2WI",
+      "leptomeningeal enhancement obscures lucent optic nerve"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "spontaneous improvement of visual acuity within 1-2 weeks"
+  }
+}

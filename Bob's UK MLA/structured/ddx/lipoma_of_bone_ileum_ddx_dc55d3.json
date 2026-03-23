@@ -1,0 +1,47 @@
+{
+  "finding": "Lipoma Of Bone — Ileum (DDx)",
+  "slug": "lipoma_of_bone_ileum_ddx_dc55d3",
+  "chapter": "Lipoma Of Bone",
+  "source_file": "processed_clusters/lipoma_of_bone/lipoma_of_bone_ileum_ddx_dc55d3.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibrous dysplasia",
+      "raw": "fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "simple bone cyst",
+      "raw": "simple bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "posttraumatic cyst",
+      "raw": "posttraumatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "giant cell tumor",
+      "raw": "giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "desmoplastic fibroma",
+      "raw": "desmoplastic fibroma",
+      "frequency": null
+    },
+    {
+      "name": "chondromyxoid fibroma",
+      "raw": "chondromyxoid fibroma",
+      "frequency": null
+    },
+    {
+      "name": "osteoblastoma",
+      "raw": "osteoblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "marked ossification of margins of lesion | calcified / ossified nidus | similar to fat on all sequences (T1-hyperintense lesion)"
+}

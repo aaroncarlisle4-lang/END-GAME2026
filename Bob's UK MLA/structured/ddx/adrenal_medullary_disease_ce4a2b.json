@@ -1,0 +1,32 @@
+{
+  "finding": "Adrenal Medullary Disease",
+  "slug": "adrenal_medullary_disease_ce4a2b",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/adrenal_medullary_disease_ce4a2b.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioneuroblastoma",
+      "raw": "Ganglioneuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioneuroma",
+      "raw": "Ganglioneuroma",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

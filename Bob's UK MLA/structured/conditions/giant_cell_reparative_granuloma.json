@@ -1,0 +1,39 @@
+{
+  "name": "GIANT CELL REPARATIVE GRANULOMA",
+  "slug": "giant_cell_reparative_granuloma",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/giant_cell_reparative_granuloma.md",
+  "definition": "GIANT CELL REACTION = GIANT CELL GRANULOMA",
+  "demographics": {
+    "Histo": "numerous giant cells in exuberant fibrous matrix arranged in clusters around foci of",
+    "Peak age": "2nd + 3rd decade (range, childhood to 76 years); 74% < 30 years of age; M÷F = 1÷1"
+  },
+  "dominant_finding": "expansile bone remodeling with multilocular appearance",
+  "distribution": "periosteal reaction is unusual (as in GCT)",
+  "discriminating_features": [
+    "expansile bone remodeling with multilocular appearance",
+    "thinned usually intact cortex",
+    "expansile lytic defect of 2-2.5 cm in diameter with internal trabeculations",
+    "thinning of overlying cortex",
+    "matrix mineralization may be seen (DDx to GCT)"
+  ],
+  "other_features": {
+    "general": [],
+    "Gnathic (1-7% of all benign oral tumors): gingiva + alveolar mucosa of mandible, maxilla": [
+      "expansile bone remodeling with multilocular appearance",
+      "thinned usually intact cortex"
+    ],
+    "Small bones of hand + feet (less common): phalanges of hand > metacarpals > metatarsals": [
+      "expansile lytic defect of 2-2.5 cm in diameter with internal trabeculations",
+      "thinning of overlying cortex",
+      "matrix mineralization may be seen (DDx to GCT)",
+      "periosteal reaction is unusual (as in GCT)",
+      "extension beyond cortex is unusual"
+    ]
+  },
+  "clinical": {
+    "Cx": "pathologic fracture",
+    "Prognosis": "may recur; no malignant transformation",
+    "Rx": "curettage (22-50% recurrence rate) / local excision"
+  }
+}

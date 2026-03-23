@@ -1,0 +1,37 @@
+{
+  "finding": "C. CYSTIC",
+  "slug": "c_cystic_de2ba1",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/c_cystic_de2ba1.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dural ectasia",
+      "raw": "Dural ectasia (Marfan syndrome, Ehlers-Danlos syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Synovial cyst",
+      "raw": "Synovial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic pseudomeningocele",
+      "raw": "Traumatic pseudomeningocele",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid cyst",
+      "raw": "Hydatid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

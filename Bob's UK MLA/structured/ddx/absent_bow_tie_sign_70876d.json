@@ -1,0 +1,37 @@
+{
+  "finding": "Absent bow-tie sign",
+  "slug": "absent_bow_tie_sign_70876d",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/absent_bow_tie_sign_70876d.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bucket-handle tear of medial meniscus",
+      "raw": "Bucket-handle tear of medial meniscus",
+      "frequency": null
+    },
+    {
+      "name": "Congenitally hypoplastic / ring-shaped meniscus",
+      "raw": "Congenitally hypoplastic / ring-shaped meniscus",
+      "frequency": null
+    },
+    {
+      "name": "Small meniscus in child / petite adult",
+      "raw": "Small meniscus in child / petite adult",
+      "frequency": null
+    },
+    {
+      "name": "Partial meniscectomy",
+      "raw": "Partial meniscectomy",
+      "frequency": null
+    },
+    {
+      "name": "Arthritic degeneration",
+      "raw": "Arthritic degeneration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

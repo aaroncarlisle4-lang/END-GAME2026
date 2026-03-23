@@ -1,0 +1,29 @@
+{
+  "name": "RHINOCEREBRAL MUCORMYCOSIS",
+  "slug": "rhinocerebral_mucormycosis",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/rhinocerebral_mucormycosis.md",
+  "definition": "paranasal sinus / orbital infection caused by nonseptated fungi Rhizopus arrhizus and",
+  "demographics": {},
+  "dominant_finding": "propensity for vascular invasion by fungal hyphae ← production of elastase",
+  "distribution": "focal areas of bone destruction",
+  "discriminating_features": [
+    "propensity for vascular invasion by fungal hyphae ← production of elastase",
+    "nodular thickening involving nasal septum + turbinates",
+    "mucoperiosteal thickening + clouding of ethmoids",
+    "focal areas of bone destruction"
+  ],
+  "other_features": {
+    "general": [
+      "propensity for vascular invasion by fungal hyphae ← production of elastase",
+      "nodular thickening involving nasal septum + turbinates",
+      "mucoperiosteal thickening + clouding of ethmoids",
+      "focal areas of bone destruction"
+    ]
+  },
+  "clinical": {
+    "Spread": "fungus first involves nasal cavity, then extends into maxillary / ethmoid sinuses / orbits",
+    "Cx": "cerebral infarction, hemorrhage, mycotic aneurysm",
+    "Prognosis": "high mortality rate"
+  }
+}

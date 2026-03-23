@@ -1,0 +1,67 @@
+{
+  "finding": "C. VASCULAR (a) submucosal hemorrhage",
+  "slug": "c_vascular_a_submucosal_hemorrhage_debf1c",
+  "chapter": "Mucosal Mass in Collecting System",
+  "source_file": "processed_clusters/mucosal_mass_in_collecting_system/c_vascular_a_submucosal_hemorrhage_debf1c.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Anticoagulant therapy",
+      "raw": "Anticoagulant therapy",
+      "frequency": null
+    },
+    {
+      "name": "Acquired circulating anticoagulants",
+      "raw": "Acquired circulating anticoagulants",
+      "frequency": null
+    },
+    {
+      "name": "Complication of crystalluria / microlithiasis",
+      "raw": "Complication of crystalluria / microlithiasis",
+      "frequency": null
+    },
+    {
+      "name": "Ureteropelvic varices",
+      "raw": "Ureteropelvic varices",
+      "frequency": null
+    },
+    {
+      "name": "Renal vein occlusion",
+      "raw": "Renal vein occlusion",
+      "frequency": null
+    },
+    {
+      "name": "IVC occlusion",
+      "raw": "IVC occlusion",
+      "frequency": null
+    },
+    {
+      "name": "Vascular malformation",
+      "raw": "Vascular malformation",
+      "frequency": null
+    },
+    {
+      "name": "Retroaortic left renal vein",
+      "raw": "Retroaortic left renal vein",
+      "frequency": null
+    },
+    {
+      "name": "\"Nutcracker\" effect on left renal vein between aorta and SMA",
+      "raw": "\"Nutcracker\" effect on left renal vein between aorta and SMA",
+      "frequency": null
+    },
+    {
+      "name": "Polyarteritis nodosa",
+      "raw": "Polyarteritis nodosa",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  thumbprinting with progressive improvement (b)  vascular notching"
+}

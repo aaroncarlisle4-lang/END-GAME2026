@@ -1,0 +1,27 @@
+{
+  "finding": "A. PRIMARY",
+  "slug": "a_primary_1_330e4f",
+  "chapter": "Ovarian Abnormalities",
+  "source_file": "processed_clusters/ovarian_abnormalities/a_primary_1_330e4f.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nonfunctioning ovaries",
+      "raw": "Nonfunctioning ovaries",
+      "frequency": null
+    },
+    {
+      "name": "Premature ovarian failure",
+      "raw": "Premature ovarian failure",
+      "frequency": null
+    },
+    {
+      "name": "Gonadal dysgenesis",
+      "raw": "Gonadal dysgenesis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

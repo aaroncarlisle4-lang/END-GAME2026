@@ -1,0 +1,52 @@
+{
+  "finding": "MASTITIS",
+  "slug": "mastitis",
+  "chapter": "MAMMARY DUCT ECTASIA",
+  "source_file": "processed_clusters/mammary_duct_ectasia/mastitis.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tender swollen erythematous breast",
+      "raw": "tender swollen erythematous breast (DDx: inflammatory ca.)",
+      "frequency": null
+    },
+    {
+      "name": "enlarged painful axillary lymph nodes",
+      "raw": "enlarged painful axillary lymph nodes",
+      "frequency": null
+    },
+    {
+      "name": "fever (5-12-47%), elevated ESR, leukocytosis",
+      "raw": "fever (5-12-47%), elevated ESR, leukocytosis",
+      "frequency": "47%"
+    },
+    {
+      "name": "Infected cyst",
+      "raw": "Infected cyst",
+      "frequency": null
+    },
+    {
+      "name": "Purulent mastitis with abscess formation",
+      "raw": "Purulent mastitis with abscess formation",
+      "frequency": null
+    },
+    {
+      "name": "Plasma cell mastitis",
+      "raw": "Plasma cell mastitis",
+      "frequency": null
+    },
+    {
+      "name": "Nonspecific mastitis",
+      "raw": "Nonspecific mastitis",
+      "frequency": null
+    },
+    {
+      "name": "acute onset of a distinct firm / hard tender painful mass sparing subareolar region; nipple retraction",
+      "raw": "acute onset of a distinct firm / hard tender painful mass sparing subareolar region; nipple retraction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Acute Mastitis =  infection of the breast with primary ascending canalicular + secondary interstitial spread Cause:  mammary duct obstruction / ectasia; cellulitis; immunocompromised state; nipple injury Pathogen:  S. aureus (most commonly) Histo:  acute + chronic inflammatory infiltration, fibrosis, occasional multinucleated giant cells Age:     any; most commonly in lactating woman √  diffuse increased density √  diffuse skin thickening √  swelling of breast √  enlarged axillary lymph nodes √  rapid resolution under antibiotic therapy US: √  increased echogenicity in fat lobules √  hypoechoi"
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Metastasis To Orbit — melanoma → muscle (DDx)",
+  "slug": "metastasis_to_orbit_melanoma_muscle_ddx_edf907",
+  "chapter": "Metastasis To Orbit",
+  "source_file": "processed_clusters/metastasis_to_orbit/metastasis_to_orbit_melanoma_muscle_ddx_edf907.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "thyroid ophthalmopathy (bilateral",
+      "raw": "thyroid ophthalmopathy (bilateral",
+      "frequency": null
+    },
+    {
+      "name": "sparing tendinous insertions); orbital pseudotumor",
+      "raw": "sparing tendinous insertions); orbital pseudotumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "diffuse enhancement of retrobulbar fat with abnormally heterogeneous hypointensity on T1WI"
+}

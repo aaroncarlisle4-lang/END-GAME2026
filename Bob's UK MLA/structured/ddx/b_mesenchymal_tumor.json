@@ -1,0 +1,27 @@
+{
+  "finding": "B. MESENCHYMAL TUMOR",
+  "slug": "b_mesenchymal_tumor",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/b_mesenchymal_tumor.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibrosarcoma",
+      "raw": "Fibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Myofibroblastoma",
+      "raw": "Myofibroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous hemangioma",
+      "raw": "Cavernous hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

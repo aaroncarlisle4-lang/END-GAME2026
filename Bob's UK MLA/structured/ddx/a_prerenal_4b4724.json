@@ -1,0 +1,62 @@
+{
+  "finding": "A. PRERENAL",
+  "slug": "a_prerenal_4b4724",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/a_prerenal_4b4724.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal artery stenosis (1-4%) ◊  Transient elevation of velocities in immediate postop. period ← vessel wall edema / arterial spasm!",
+      "raw": "Renal artery stenosis (1-4%) ◊  Transient elevation of velocities in immediate postop. period ← vessel wall edema / arterial spasm!",
+      "frequency": "4%"
+    },
+    {
+      "name": "recent onset of hypertension / severe hypertension refractory to multiple drug regimens ◊  1-5% of all causes of posttransplant hypertension",
+      "raw": "recent onset of hypertension / severe hypertension refractory to multiple drug regimens ◊  1-5% of all causes of posttransplant hypertension (nonrenovascular hypertension in 65%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "unexplained graft dysfunction",
+      "raw": "unexplained graft dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "nonspecific audible bruit over graft",
+      "raw": "nonspecific audible bruit over graft (occasionally)",
+      "frequency": null
+    },
+    {
+      "name": "Renal artery thrombosis",
+      "raw": "Renal artery thrombosis (1-6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "early sudden onset of anuria",
+      "raw": "early sudden onset of anuria",
+      "frequency": null
+    },
+    {
+      "name": "graft tenderness + swelling (a)  global",
+      "raw": "graft tenderness + swelling (a)  global",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoaneurysm",
+      "raw": "Pseudoaneurysm (in up to 17%)",
+      "frequency": "17%"
+    },
+    {
+      "name": "Arteriovenous fistula (in 2-18%) Cause:   percutaneous biopsy with simultaneous laceration of artery and vein, faulty surgical technique, perivascular infection",
+      "raw": "Arteriovenous fistula (in 2-18%) Cause:   percutaneous biopsy with simultaneous laceration of artery and vein, faulty surgical technique, perivascular infection",
+      "frequency": "18%"
+    },
+    {
+      "name": "hypertension, hematuria, high-output cardiac failure",
+      "raw": "hypertension, hematuria, high-output cardiac failure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Time of onset:   late = within 3 years; cadaver kidney > young donor kidney > living- related donor kidney Location: (a)  short-segment stenosis at anastomosis: technical (75%) Cause:   use of clamp / cannula, trauma, ischemia of donor vessel (b)  long-segment stenosis of proximal artery (close to anastomosis) > distal artery Cause:   trauma during allograft harvesting, faulty operative technique, chronic rejection, atherosclerosis, kinking, scar formation √  surrounding soft-tissue \"speckle\" ← vibration √  increase in peak systolic velocity > 180-210 cm/s √  2÷1 ratio between peak stenotic an"
+}

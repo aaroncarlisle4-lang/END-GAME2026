@@ -1,0 +1,37 @@
+{
+  "name": "ALZHEIMER DISEASE",
+  "slug": "alzheimer_disease",
+  "chapter": "NERVOUS SYSTEM DISORDERS",
+  "source_file": "processed_clusters/disease_entries/nervous_system_disorders/alzheimer_disease.md",
+  "definition": "diffuse gray matter disease with large loss of cells from cerebral cortex + other areas",
+  "demographics": {
+    "Incidence": "10% of people > 65 years of age; 50% of people > 85 years of age",
+    "Histo": "intraneuronal deposits of abnormally phosphorylated τ protein (neurofibrillary tangles)",
+    "Location": "early neuronal loss + gliosis in mesiotemporal cortex"
+  },
+  "dominant_finding": "focal atrophic change in medial temporal lobe (82% sensitive, 75% specific, 80% accurate):",
+  "distribution": "early neuronal loss + gliosis in mesiotemporal cortex",
+  "discriminating_features": [
+    "focal atrophic change in medial temporal lobe (82% sensitive, 75% specific, 80% accurate):",
+    "classic pattern of altered cortical metabolism:",
+    "\"cracked walnut\" appearance of brain atrophy = symmetrically enlarged sulci in high-",
+    "volume loss of hippocampus + parahippocampal gyrus",
+    "enlargement of perihippocampal fissures"
+  ],
+  "other_features": {
+    "general": [
+      "\"cracked walnut\" appearance of brain atrophy = symmetrically enlarged sulci in high-",
+      "focal atrophic change in medial temporal lobe (82% sensitive, 75% specific, 80% accurate):",
+      "volume loss of hippocampus + parahippocampal gyrus",
+      "enlargement of perihippocampal fissures",
+      "smooth periventricular halo of hyperintensity (50%)",
+      "classic pattern of altered cortical metabolism:",
+      "hypometabolism in posterior cingulate gyrus, precuneus, posterior temporal + parietal",
+      "hypometabolism of prefrontal association cortices ± frontal lobe involvement",
+      "sparing of sensorimotor cortex, visual cortex, anterior cingulate cortex, basal ganglia,"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "4th leading cause of death in individuals > 65 years"
+  }
+}

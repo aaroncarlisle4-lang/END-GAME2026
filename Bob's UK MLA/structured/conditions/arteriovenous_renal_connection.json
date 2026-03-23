@@ -1,0 +1,49 @@
+{
+  "name": "ARTERIOVENOUS RENAL CONNECTION",
+  "slug": "arteriovenous_renal_connection",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/arteriovenous_renal_connection.md",
+  "definition": "",
+  "demographics": {
+    "Location": "adjacent to collecting system",
+    "Path": "single dilated feeding artery + single draining vein"
+  },
+  "dominant_finding": "tubular anechoic structure (DDx: hydronephrosis, hydrocalyx)",
+  "distribution": "adjacent to collecting system",
+  "discriminating_features": [
+    "early enhancement of draining vein + renal vein + IVC",
+    "intraparenchymal / subcapsular / perirenal hematoma (as a result of bleeding)",
+    "large unifocal mass:",
+    "focally attenuated and displaced collecting system",
+    "homogeneously enhancing mass"
+  ],
+  "other_features": {
+    "general": [
+      "early enhancement of draining vein + renal vein + IVC",
+      "intraparenchymal / subcapsular / perirenal hematoma (as a result of bleeding)",
+      "large unifocal mass:",
+      "focally attenuated and displaced collecting system",
+      "homogeneously enhancing mass",
+      "curvilinear calcification",
+      "supplied by multiple segmental / interlobar arteries of normal caliber",
+      "draining into one / more veins"
+    ],
+    "US": [
+      "tubular anechoic structure (DDx: hydronephrosis, hydrocalyx)",
+      "tortuous varices over time",
+      "enlargement of renal vein",
+      "focal area of aliasing / color saturation ← high flow rate + vessel tortuosity",
+      "⇑ flow velocity + ⇓ resistance in feeding artery",
+      "arterial pulsations in draining vein"
+    ],
+    "ANGIO": [
+      "detailed vascular anatomy for planning embolic occlusion",
+      "diminished nephrogram ± cortical atrophy distal to fistula ← reduced flow to renal"
+    ]
+  },
+  "clinical": {
+    "Rx": "transcatheter intraarterial occlusion, surgery",
+    "Cx": "subcapsular / perinephric hematoma (rare)",
+    "Prognosis": "spontaneous closure within a few months"
+  }
+}

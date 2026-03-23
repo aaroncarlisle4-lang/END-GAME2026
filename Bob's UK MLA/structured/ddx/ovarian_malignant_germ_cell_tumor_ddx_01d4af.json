@@ -1,0 +1,22 @@
+{
+  "finding": "Ovarian Malignant Germ Cell Tumor (DDx)",
+  "slug": "ovarian_malignant_germ_cell_tumor_ddx_01d4af",
+  "chapter": "Ovarian Malignant Germ Cell Tumor",
+  "source_file": "processed_clusters/ovarian_malignant_germ_cell_tumor/ovarian_malignant_germ_cell_tumor_ddx_01d4af.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibrothecoma",
+      "raw": "fibrothecoma (predominantly low SI on T2WI)",
+      "frequency": null
+    },
+    {
+      "name": "Brenner tumor (extensive low SI on",
+      "raw": "Brenner tumor (extensive low SI on",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "isointense / slightly hyperintense mass on T2WI | hypo- / isointense septa on T2WI with contrast enhancement on T1WI | heterogeneous hyperechoic solid mass | prominent arterial color Doppler flow within septa"
+}

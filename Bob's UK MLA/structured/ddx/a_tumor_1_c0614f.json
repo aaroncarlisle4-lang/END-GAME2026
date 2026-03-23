@@ -1,0 +1,27 @@
+{
+  "finding": "A. TUMOR",
+  "slug": "a_tumor_1_c0614f",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CHEST DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_chest_disorders/a_tumor_1_c0614f.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carcinoma",
+      "raw": "Carcinoma (35%)",
+      "frequency": "35%"
+    },
+    {
+      "name": "Bronchial carcinoid",
+      "raw": "Bronchial carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Endobronchial metastasis",
+      "raw": "Endobronchial metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

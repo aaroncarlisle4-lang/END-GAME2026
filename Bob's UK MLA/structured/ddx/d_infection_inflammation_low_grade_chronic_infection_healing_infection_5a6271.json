@@ -1,0 +1,37 @@
+{
+  "finding": "D. INFECTION / INFLAMMATION (low-grade chronic infection / healing infection",
+  "slug": "d_infection_inflammation_low_grade_chronic_infection_healing_infection_5a6271",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/d_infection_inflammation_low_grade_chronic_infection_healing_infection_5a6271.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteoid osteoma",
+      "raw": "Osteoid osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Chronic / healed osteomyelitis: bacterial, tuberculous, fungal",
+      "raw": "Chronic / healed osteomyelitis: bacterial, tuberculous, fungal",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing osteomyelitis of Garré",
+      "raw": "Sclerosing osteomyelitis of Garré",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Brodie abscess",
+      "raw": "Brodie abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

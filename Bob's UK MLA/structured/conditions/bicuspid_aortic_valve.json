@@ -1,0 +1,22 @@
+{
+  "name": "BICUSPID AORTIC VALVE",
+  "slug": "bicuspid_aortic_valve",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/bicuspid_aortic_valve.md",
+  "definition": "single fused commissure at birth resulting in 2 separate cusps of unequal size (usually fused L",
+  "demographics": {
+    "Prevalence": "1-2% in general population",
+    "Genetics": "autosomal dominant with incomplete penetrance",
+    "Histo": "cystic medial degeneration; ↑ levels of matrix metalloproteinases; ↓ levels of fibrillin-1",
+    "Associated with": "dilatation of aortic root (50%) + ascending aorta + transverse arch aortic;"
+  },
+  "dominant_finding": "",
+  "distribution": "",
+  "discriminating_features": [],
+  "other_features": {
+    "general": []
+  },
+  "clinical": {
+    "Cx": "stenosis, regurgitation, endocarditis, aneurysmal dilatation of ascending aorta, aortic"
+  }
+}

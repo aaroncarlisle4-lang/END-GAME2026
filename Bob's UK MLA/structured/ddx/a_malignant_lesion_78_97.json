@@ -1,0 +1,37 @@
+{
+  "finding": "A. MALIGNANT LESION (78-97%",
+  "slug": "a_malignant_lesion_78_97",
+  "chapter": "RHABDOMYOMA OF HEART",
+  "source_file": "processed_clusters/rhabdomyoma_of_heart/a_malignant_lesion_78_97.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma (50-80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (2-20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Metastatic mediastinal nodes",
+      "raw": "Metastatic mediastinal nodes (← commonly breast ca.)",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal germ cell tumor",
+      "raw": "Mediastinal germ cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Malignant thymoma",
+      "raw": "Malignant thymoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

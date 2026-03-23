@@ -1,0 +1,20 @@
+{
+  "name": "CORD PROLAPSE",
+  "slug": "cord_prolapse",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/cord_prolapse.md",
+  "definition": "prolapse / descent of cord into endocervical canal after rupture",
+  "demographics": {
+    "Prevalence": "0.5% at delivery, 2-3% prenatally"
+  },
+  "dominant_finding": "",
+  "distribution": "",
+  "discriminating_features": [],
+  "other_features": {
+    "general": []
+  },
+  "clinical": {
+    "Cx": "cord compression with high perinatal mortality",
+    "N.B.": "MEDICAL EMERGENCY! Alert obstetrician immediately!"
+  }
+}

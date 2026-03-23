@@ -1,0 +1,77 @@
+{
+  "finding": "B. PRIMARY ACQUIRED PAP (90%",
+  "slug": "b_primary_acquired_pap_90",
+  "chapter": "ALVEOLAR PROTEINOSIS",
+  "source_file": "processed_clusters/alveolar_proteinosis/b_primary_acquired_pap_90.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "SECONDARY PAP Cause:   hematologic cancers, pharmacologic immunosuppression, inhalation of inorganic dust (eg, silica), toxic fumes, certain infections Pathophysiology:   functional impairment / reduced number of alveolar macrophages Etiology:   ?; associated with dust exposure (eg, silicoproteinosis is histologically identical to",
+      "raw": "SECONDARY PAP Cause:   hematologic cancers, pharmacologic immunosuppression, inhalation of inorganic dust (eg, silica), toxic fumes, certain infections Pathophysiology:   functional impairment / reduced number of alveolar macrophages Etiology:   ?; associated with dust exposure (eg, silicoproteinosis is histologically identical to",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic (10-20%), gradual onset of dyspnea + cough",
+      "raw": "asymptomatic (10-20%), gradual onset of dyspnea + cough",
+      "frequency": "20%"
+    },
+    {
+      "name": "weight loss, weakness, hemoptysis, defect in diffusing capacity",
+      "raw": "weight loss, weakness, hemoptysis, defect in diffusing capacity",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic pulmonary hemosiderosis",
+      "raw": "Idiopathic pulmonary hemosiderosis (boys, symmetric involvement of mid + lower zones, progression to nodular + linear pattern)",
+      "frequency": null
+    },
+    {
+      "name": "Hemosiderosis",
+      "raw": "Hemosiderosis (bleeding diathesis)",
+      "frequency": null
+    },
+    {
+      "name": "Pneumoconiosis",
+      "raw": "Pneumoconiosis",
+      "frequency": null
+    },
+    {
+      "name": "Hypersensitivity pneumonitis",
+      "raw": "Hypersensitivity pneumonitis",
+      "frequency": null
+    },
+    {
+      "name": "Goodpasture syndrome",
+      "raw": "Goodpasture syndrome (more rapid changes, renal disease)",
+      "frequency": null
+    },
+    {
+      "name": "Desquamative interstitial pneumonia",
+      "raw": "Desquamative interstitial pneumonia (\"ground-glass\" appearance, primarily basilar + peripheral)",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary alveolar microlithiasis",
+      "raw": "Pulmonary alveolar microlithiasis (widespread discrete intraalveolar calcifications primarily in lung bases, rare familial disease)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (usually with lymphadenopathy)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Bronchioloalveolar cell carcinoma",
+      "raw": "Bronchioloalveolar cell carcinoma (more focal, slowly enlarging with time)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Age:   median 39 years; M>> F Predisposed:   smoking in 72% PAP), immunodeficiency, hematologic + lymphatic malignancies, AIDS, chemotherapy Pathophysiology: (a)  overproduction of surfactant by granular pneumocytes (b)  defective clearance of surfactant by alveolar macrophages Histo:   alveoli filled with proteinaceous material (the ONLY pure airspace disease), normal interstitium Age peak:   39 years (range, 2-70 years); M÷F = 3÷1 √  bilateral air-space disease with ill-defined nodular / confluent ground-glass pattern: √  perihilar predominance of \"bat-wing\" configuration WITHOUT signs of le"
+}

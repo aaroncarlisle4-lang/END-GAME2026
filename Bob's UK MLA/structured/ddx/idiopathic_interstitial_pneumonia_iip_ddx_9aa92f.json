@@ -1,0 +1,27 @@
+{
+  "finding": "Idiopathic Interstitial Pneumonia (Iip) (DDx)",
+  "slug": "idiopathic_interstitial_pneumonia_iip_ddx_9aa92f",
+  "chapter": "Idiopathic Interstitial Pneumonia (Iip)",
+  "source_file": "processed_clusters/idiopathic_interstitial_pneumonia_iip/idiopathic_interstitial_pneumonia_iip_ddx_9aa92f.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "collagen vascular disease",
+      "raw": "collagen vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "chronic hypersensitivity pneumonitis",
+      "raw": "chronic hypersensitivity pneumonitis",
+      "frequency": null
+    },
+    {
+      "name": "asbestosis",
+      "raw": "asbestosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "subpleural areas of macrocystic honeycombing with cystic spaces outlined by thick | subpleural lines (= fibrosis / functional atelectasis) | interlobular septal thickening (10%)"
+}

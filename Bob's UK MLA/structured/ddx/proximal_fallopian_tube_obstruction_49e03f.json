@@ -1,0 +1,27 @@
+{
+  "finding": "Proximal Fallopian Tube Obstruction",
+  "slug": "proximal_fallopian_tube_obstruction_49e03f",
+  "chapter": "FALLOPIAN TUBE",
+  "source_file": "processed_clusters/fallopian_tube/proximal_fallopian_tube_obstruction_49e03f.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Extensive fibrosis / salpingitis isthmica nodosa",
+      "raw": "Extensive fibrosis / salpingitis isthmica nodosa (40%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "Amorphous debris / minimal adhesions",
+      "raw": "Amorphous debris / minimal adhesions (40%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "Tubal spasm",
+      "raw": "Tubal spasm (20%)",
+      "frequency": "20%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

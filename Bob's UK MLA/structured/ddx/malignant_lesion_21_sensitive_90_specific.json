@@ -1,0 +1,27 @@
+{
+  "finding": "Malignant lesion: 21% sensitive, 90% specific",
+  "slug": "malignant_lesion_21_sensitive_90_specific",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/malignant_lesion_21_sensitive_90_specific.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Initial enhancement percentage",
+      "raw": "Initial enhancement percentage (E1)",
+      "frequency": null
+    },
+    {
+      "name": "Peak enhancement percentage",
+      "raw": "Peak enhancement percentage (Epeak)",
+      "frequency": null
+    },
+    {
+      "name": "Time to peak enhancement",
+      "raw": "Time to peak enhancement (Tpeak)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  76% PPV for malignancy Quantitative Kinetic Parameters"
+}

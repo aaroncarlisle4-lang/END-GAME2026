@@ -1,0 +1,35 @@
+{
+  "name": "OSSIFYING RENAL TUMOR OF INFANCY",
+  "slug": "ossifying_renal_tumor_of_infancy",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/ossifying_renal_tumor_of_infancy.md",
+  "definition": "extremely rare benign renal mass originating from urothelium",
+  "demographics": {
+    "Prevalence": "only 11 cases in literature",
+    "Age": "6 days-14 months; M > F",
+    "Histo": "osteoid core, osteoblasts, spindle cells",
+    "Location": "L > R kidney; attached to renal papilla"
+  },
+  "dominant_finding": "calcified (in 80%) resembling a staghorn calculus",
+  "distribution": "L > R kidney; attached to renal papilla",
+  "discriminating_features": [
+    "2-3-cm polypoid mass:",
+    "calcified (in 80%) resembling a staghorn calculus",
+    "filling defect of collecting system",
+    "partial obstruction of collecting system",
+    "echogenic mass + shadowing"
+  ],
+  "other_features": {
+    "general": [
+      "2-3-cm polypoid mass:",
+      "calcified (in 80%) resembling a staghorn calculus",
+      "filling defect of collecting system",
+      "partial obstruction of collecting system",
+      "echogenic mass + shadowing",
+      "poor enhancement on CT"
+    ]
+  },
+  "clinical": {
+    "Rx": "nephron-sparing resection curative"
+  }
+}

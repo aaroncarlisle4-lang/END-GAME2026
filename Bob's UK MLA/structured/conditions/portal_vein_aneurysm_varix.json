@@ -1,0 +1,24 @@
+{
+  "name": "PORTAL VEIN ANEURYSM / VARIX",
+  "slug": "portal_vein_aneurysm_varix",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/portal_vein_aneurysm_varix.md",
+  "definition": "rare localized saccular / fusiform portal venous dilatation with a portal vein diameter of > 20",
+  "demographics": {
+    "Frequency": "3% of all venous aneurysms; most common type of visceral venous aneurysm",
+    "Prevalence": "0.6-4.3÷1000 patients"
+  },
+  "dominant_finding": "often solitary (80%) and fusiform (97%-100%)",
+  "distribution": "",
+  "discriminating_features": [
+    "often solitary (80%) and fusiform (97%-100%)"
+  ],
+  "other_features": {
+    "general": [
+      "often solitary (80%) and fusiform (97%-100%)"
+    ]
+  },
+  "clinical": {
+    "Cx": "portal hypertension, spontaneous thrombosis (28%), venous varix rupture,"
+  }
+}

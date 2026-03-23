@@ -1,0 +1,29 @@
+{
+  "name": "ODONTOGENIC MYXOMA",
+  "slug": "odontogenic_myxoma",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/odontogenic_myxoma.md",
+  "definition": "clinically + radiographically indistinguishable from ameloblastoma",
+  "demographics": {
+    "Prevalence": "3-6% of odontogenic tumors",
+    "Age": "10-30 years; M < F",
+    "Location": "maxilla > mandible"
+  },
+  "dominant_finding": "well-demarcated / ill-defined lytic lesion of varying size",
+  "distribution": "maxilla > mandible",
+  "discriminating_features": [
+    "well-demarcated / ill-defined lytic lesion of varying size",
+    "often multilocular + honeycomb-like internal osseous trabeculae",
+    "foci of irregular calcifications (frequent)"
+  ],
+  "other_features": {
+    "general": [
+      "well-demarcated / ill-defined lytic lesion of varying size",
+      "often multilocular + honeycomb-like internal osseous trabeculae",
+      "foci of irregular calcifications (frequent)"
+    ]
+  },
+  "clinical": {
+    "Cx": "can be locally aggressive causing considerable destruction of adjacent bone + soft-tissue"
+  }
+}

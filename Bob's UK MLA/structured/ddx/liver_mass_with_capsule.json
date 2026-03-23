@@ -1,0 +1,27 @@
+{
+  "finding": "Liver Mass with Capsule",
+  "slug": "liver_mass_with_capsule",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/liver_mass_with_capsule.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular adenoma",
+      "raw": "Hepatocellular adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Focal nodular hyperplasia",
+      "raw": "Focal nodular hyperplasia (thin incomplete capsule)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

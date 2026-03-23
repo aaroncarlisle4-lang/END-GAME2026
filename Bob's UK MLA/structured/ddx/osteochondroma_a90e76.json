@@ -1,0 +1,137 @@
+{
+  "finding": "OSTEOCHONDROMA",
+  "slug": "osteochondroma_a90e76",
+  "chapter": "NODULAR FASCIITIS",
+  "source_file": "processed_clusters/nodular_fasciitis/osteochondroma_a90e76.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "progressive painless deformity around a joint",
+      "raw": "progressive painless deformity around a joint",
+      "frequency": null
+    },
+    {
+      "name": "Osseous and cosmetic deformity",
+      "raw": "Osseous and cosmetic deformity (most frequent)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "mechanical limitation of joint movement",
+      "raw": "mechanical limitation of joint movement",
+      "frequency": null
+    },
+    {
+      "name": "snapping tendon / ligament",
+      "raw": "snapping tendon / ligament",
+      "frequency": null
+    },
+    {
+      "name": "hematuria",
+      "raw": "hematuria (irritating pubic osteochondroma)",
+      "frequency": null
+    },
+    {
+      "name": "Fracture through stalk of osteochondroma",
+      "raw": "Fracture through stalk of osteochondroma",
+      "frequency": null
+    },
+    {
+      "name": "Vascular compromise ›  venous / arterial stenosis ›  arterial occlusion / venous thrombosis ›  pseudoaneurysm formation:",
+      "raw": "Vascular compromise ›  venous / arterial stenosis ›  arterial occlusion / venous thrombosis ›  pseudoaneurysm formation:",
+      "frequency": null
+    },
+    {
+      "name": "Neurologic compromise ›  peripheral nerve compression with entrapment neuropathy: foot drop with peroneal nerve involvement (most frequent) ›  central nerve compression: cranial nerve deficit, radiculopathy, cauda equina syndrome, cord compression with myelomalacia",
+      "raw": "Neurologic compromise ›  peripheral nerve compression with entrapment neuropathy: foot drop with peroneal nerve involvement (most frequent) ›  central nerve compression: cranial nerve deficit, radiculopathy, cauda equina syndrome, cord compression with myelomalacia",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Reactive bursa formation",
+      "raw": "Reactive bursa formation (in 1.5%)",
+      "frequency": "1.5%"
+    },
+    {
+      "name": "enlarging mass overlying an osteochondroma simulating malignant transformation",
+      "raw": "enlarging mass overlying an osteochondroma simulating malignant transformation",
+      "frequency": null
+    },
+    {
+      "name": "Malignant transformation into secondary / peripheral chondrosarcoma / osteosarcoma",
+      "raw": "Malignant transformation into secondary / peripheral chondrosarcoma / osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Growth after physeal closure",
+      "raw": "Growth after physeal closure",
+      "frequency": null
+    },
+    {
+      "name": "Lucency",
+      "raw": "Lucency (new radiolucency)",
+      "frequency": null
+    },
+    {
+      "name": "Additional scintigraphic activity",
+      "raw": "Additional scintigraphic activity",
+      "frequency": null
+    },
+    {
+      "name": "Destruction",
+      "raw": "Destruction (cortical)",
+      "frequency": null
+    },
+    {
+      "name": "Pain after puberty",
+      "raw": "Pain after puberty",
+      "frequency": null
+    },
+    {
+      "name": "And",
+      "raw": "And",
+      "frequency": null
+    },
+    {
+      "name": "Soft-tissue mass",
+      "raw": "Soft-tissue mass",
+      "frequency": null
+    },
+    {
+      "name": "Thickened cartilaginous cap > 1.5 cm",
+      "raw": "Thickened cartilaginous cap > 1.5 cm",
+      "frequency": null
+    },
+    {
+      "name": "Dysplasia epiphysealis hemimelica",
+      "raw": "Dysplasia epiphysealis hemimelica",
+      "frequency": null
+    },
+    {
+      "name": "Subungual exostosis",
+      "raw": "Subungual exostosis",
+      "frequency": null
+    },
+    {
+      "name": "Turret exostosis",
+      "raw": "Turret exostosis",
+      "frequency": null
+    },
+    {
+      "name": "Traction exostosis",
+      "raw": "Traction exostosis (at tendinous attachments)",
+      "frequency": null
+    },
+    {
+      "name": "Bizarre parosteal osteochondromatous proliferation = Nora lesion",
+      "raw": "Bizarre parosteal osteochondromatous proliferation = Nora lesion",
+      "frequency": null
+    },
+    {
+      "name": "Florid reactive periostitis",
+      "raw": "Florid reactive periostitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  OSTEOCARTILAGINOUS EXOSTOSIS =  developmental hyperplastic / dysplastic bone outgrowth composed of cortical + medullary bone with overlying cartilaginous cap; growth ends when nearest epiphyseal plate fuses ◊  Most common benign growth of the skeleton! ◊  Most common benign cartilage-containing tumor! Prevalence:   20-50% of all benign bone tumors; 10% of all bone tumors Etiology:   separation of a fragment of physeal cartilage herniating through periosteal bone cuff that surrounds the growth plate (encoche of Ranvier); the fragment continues to grow and undergoes enchondral ossification (a"
+}

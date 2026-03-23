@@ -1,0 +1,57 @@
+{
+  "finding": "GI Tract Manifestations in NF1 (10-25%",
+  "slug": "gi_tract_manifestations_in_nf1_10_25",
+  "chapter": "NEUROFIBROMATOSIS",
+  "source_file": "processed_clusters/neurofibromatosis/gi_tract_manifestations_in_nf1_10_25.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "most clinically occult",
+      "raw": "most clinically occult",
+      "frequency": null
+    },
+    {
+      "name": "intestinal bleeding (hematemesis, melena, hematochezia) with mucosal involvement",
+      "raw": "intestinal bleeding (hematemesis, melena, hematochezia) with mucosal involvement",
+      "frequency": null
+    },
+    {
+      "name": "obstruction with nausea, vomiting, abdominal distension",
+      "raw": "obstruction with nausea, vomiting, abdominal distension (intussusception, volvulus, simulating Hirschsprüng disease with plexiform neurofibromas of colon)",
+      "frequency": null
+    },
+    {
+      "name": "Malignant peripheral nerve sheath tumor ◊  Most common malignant abdominal tumor in NF1",
+      "raw": "Malignant peripheral nerve sheath tumor ◊  Most common malignant abdominal tumor in NF1",
+      "frequency": "most common"
+    },
+    {
+      "name": "Ganglioneuroma",
+      "raw": "Ganglioneuroma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "more common in NF1 than in general population",
+      "raw": "more common in NF1 than in general population",
+      "frequency": "common"
+    },
+    {
+      "name": "Gastrointestinal stromal tumor",
+      "raw": "Gastrointestinal stromal tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Neurofibromas appear as well-defined masses but frequently infiltrate into adjacent fat, muscle, or viscera → local recurrence after resection is common. Location:  jejunum > stomach > ileum > duodenum Site:  myenteric > mesenteric / subserosal plexus Associated with:   increased prevalence of carcinoid tumors + GI stromal tumors (a)  single / solitary neurofibroma, neuroma, ganglioneuroma, schwannoma √  subserosal / submucosal filling defect (\"mucosal ganglioneurofibromatosis\") √  displacement of intestine √  external mass effect on serosal surface √  infiltrating submucosal / mucosal polypoi"
+}

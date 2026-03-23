@@ -1,0 +1,27 @@
+{
+  "finding": "Tuberculosis Of Abdomen — Ileocecal area (80-90%) (DDx)",
+  "slug": "tuberculosis_of_abdomen_ileocecal_area_80_90_ddx",
+  "chapter": "Tuberculosis Of Abdomen",
+  "source_file": "processed_clusters/tuberculosis_of_abdomen/tuberculosis_of_abdomen_ileocecal_area_80_90_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "amebiasis",
+      "raw": "amebiasis",
+      "frequency": null
+    },
+    {
+      "name": "cecal carcinoma @   Colon",
+      "raw": "cecal carcinoma @   Colon",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "symmetric annular \"napkin ring\" stenoses | asymmetric circumferential wall thickening of ileocecal valve + medial wall of | exophytic extension engulfing terminal ileum | localized massive mesenteric lymphadenopathy with central areas of low attenuation"
+}

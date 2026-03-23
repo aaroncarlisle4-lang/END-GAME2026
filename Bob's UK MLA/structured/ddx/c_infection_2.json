@@ -1,0 +1,32 @@
+{
+  "finding": "C. INFECTION",
+  "slug": "c_infection_2",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/c_infection_2.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid disease",
+      "raw": "Hydatid disease",
+      "frequency": null
+    },
+    {
+      "name": "Syphilis",
+      "raw": "Syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

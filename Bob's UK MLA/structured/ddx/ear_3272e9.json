@@ -1,0 +1,57 @@
+{
+  "finding": "EAR",
+  "slug": "ear_3272e9",
+  "chapter": "Bell Palsy",
+  "source_file": "processed_clusters/bell_palsy/ear_3272e9.md",
+  "quality_score": 0.267,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "CONDUCTIVE HEARING LOSS",
+      "raw": "CONDUCTIVE HEARING LOSS",
+      "frequency": null
+    },
+    {
+      "name": "decrease in air conduction via EAC, tympanic membrane, ossicular chain, oval window",
+      "raw": "decrease in air conduction via EAC, tympanic membrane, ossicular chain, oval window (sound via headphones)",
+      "frequency": null
+    },
+    {
+      "name": "normal bone conduction (sound via bone oscillator) (a)  congenital (uncommon):",
+      "raw": "normal bone conduction (sound via bone oscillator) (a)  congenital (uncommon):",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "EAC atresia / stenosis",
+      "raw": "EAC atresia / stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Malformed ossicles",
+      "raw": "Malformed ossicles",
+      "frequency": null
+    },
+    {
+      "name": "Absence of oval window (b)  trauma: incudostapedial / malleoincudal subluxation; incus dislocation; stapes dislocation; stapes / malleus fracture (c)  destruction of ossicular chain:",
+      "raw": "Absence of oval window (b)  trauma: incudostapedial / malleoincudal subluxation; incus dislocation; stapes dislocation; stapes / malleus fracture (c)  destruction of ossicular chain:",
+      "frequency": null
+    },
+    {
+      "name": "Otitis media",
+      "raw": "Otitis media",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "CONDUCTIVE HEARING LOSS": [
+      "Hearing deficit (d)  restriction of ossicular chain: fenestral otosclerosis ◊  CT is the modality of choice!"
+    ],
+    "decrease in air conduction via EAC, tympanic membrane, ossicular chain, oval window": [],
+    "normal bone conduction (sound via bone oscillator) (a)  congenital (uncommon):": [],
+    "EAC atresia / stenosis": [],
+    "Malformed ossicles": [],
+    "Absence of oval window (b)  trauma: incudostapedial / malleoincudal subluxation; incus dislocation; stapes dislocation; stapes / malleus fracture (c)  destruction of ossicular chain:": [],
+    "Otitis media": []
+  },
+  "context": "Hearing deficit (d)  restriction of ossicular chain: fenestral otosclerosis ◊  CT is the modality of choice!"
+}

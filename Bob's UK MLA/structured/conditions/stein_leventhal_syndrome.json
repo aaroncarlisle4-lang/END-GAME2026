@@ -1,0 +1,33 @@
+{
+  "name": "STEIN-LEVENTHAL SYNDROME",
+  "slug": "stein_leventhal_syndrome",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/stein_leventhal_syndrome.md",
+  "definition": "POLYCYSTIC OVARY SYNDROME functional NOT imaging diagnosis",
+  "demographics": {
+    "Prevalence": "2.5-8% of women in reproductive age; affects 4-5 million women in USA",
+    "Etiology": "deficient aromatase activity (= catalyst for conversion of androgen into estrogen) →",
+    "Path": "pearly white ovaries with multiple cysts below the capsule → lined by a hyperplastic",
+    "Age": "late 2nd decade",
+    "Associated with": "Cushing syndrome, basophilic pituitary adenoma, postpill amenorrhea,"
+  },
+  "dominant_finding": "normal ovarian size (in 30%), polycystic ovaries have a volume of 6-30 cm3",
+  "distribution": "",
+  "discriminating_features": [
+    "at least one enlarged ovary > 10 cm3",
+    "normal ovarian size (in 30%), polycystic ovaries have a volume of 6-30 cm3",
+    "excessive number of developing follicles:",
+    "multiple (> 12) follicles of 2-9 mm in subcapsular location"
+  ],
+  "other_features": {
+    "general": [
+      "at least one enlarged ovary > 10 cm3",
+      "normal ovarian size (in 30%), polycystic ovaries have a volume of 6-30 cm3",
+      "excessive number of developing follicles:",
+      "multiple (> 12) follicles of 2-9 mm in subcapsular location"
+    ]
+  },
+  "clinical": {
+    "Cx": "endometrial cancer < 40 years of age ← unopposed chronic estrogen stimulation"
+  }
+}

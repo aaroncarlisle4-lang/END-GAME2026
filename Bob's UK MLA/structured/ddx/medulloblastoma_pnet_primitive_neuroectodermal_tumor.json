@@ -1,0 +1,57 @@
+{
+  "finding": "Medulloblastoma; (PNET = primitive neuroectodermal tumor",
+  "slug": "medulloblastoma_pnet_primitive_neuroectodermal_tumor",
+  "chapter": "GERMINOMA",
+  "source_file": "processed_clusters/germinoma/medulloblastoma_pnet_primitive_neuroectodermal_tumor.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Choroid plexus",
+      "raw": "Choroid plexus",
+      "frequency": null
+    },
+    {
+      "name": "become clinically apparent early before ventricular obstruction occurs",
+      "raw": "become clinically apparent early before ventricular obstruction occurs",
+      "frequency": null
+    },
+    {
+      "name": "ipsilateral progressive multiple cranial nerve palsies",
+      "raw": "ipsilateral progressive multiple cranial nerve palsies",
+      "frequency": null
+    },
+    {
+      "name": "cerebellar dysfunction: ataxia, nystagmus",
+      "raw": "cerebellar dysfunction: ataxia, nystagmus",
+      "frequency": null
+    },
+    {
+      "name": "contralateral hemiparesis, eventually respiratory insufficiency Location:   pons > midbrain > medulla; often unilateral at medullopontine junction ◊  Medullary + mesencephalic gliomas are more benign than pontine gliomas!",
+      "raw": "contralateral hemiparesis, eventually respiratory insufficiency Location:   pons > midbrain > medulla; often unilateral at medullopontine junction ◊  Medullary + mesencephalic gliomas are more benign than pontine gliomas!",
+      "frequency": null
+    },
+    {
+      "name": "diminished visual acuity (50%) ← optic atrophy",
+      "raw": "diminished visual acuity (50%) ← optic atrophy",
+      "frequency": "50%"
+    },
+    {
+      "name": "diencephalic syndrome (in up to 20%): marked emaciation, pallor, unusual alertness,",
+      "raw": "diencephalic syndrome (in up to 20%): marked emaciation, pallor, unusual alertness,",
+      "frequency": "20%"
+    },
+    {
+      "name": "short stature (in 20%) ← reduction in growth hormone",
+      "raw": "short stature (in 20%) ← reduction in growth hormone",
+      "frequency": "20%"
+    },
+    {
+      "name": "obese child, sexual precocity, diabetes insipidus",
+      "raw": "obese child, sexual precocity, diabetes insipidus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Choroid plexus papilloma FREQUENCY OF INTRACRANIAL GLIOMAS Glioblastoma multiforme 51% Astrocytoma 25% Ependymoma 6% Oligodendroglioma 6% Spongioblastoma polare 3% Mixed gliomas 3% Astroblastoma 2% Age peak:   middle adult life Location:   cerebral hemispheres; spinal cord; brainstem + cerebellum (in children) Brainstem Glioma Incidence:  1%; 12-15% of all pediatric brain tumors; 20-30% of infratentorial brain tumors in children Histo:  usually anaplastic astrocytoma / glioblastoma multiforme with infiltration along fiber tracts Age:     in children + young adults; peak age 3-13 years; M÷F = 1"
+}

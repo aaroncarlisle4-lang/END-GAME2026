@@ -1,0 +1,117 @@
+{
+  "finding": "M. scrofulaceum: cervical lymphadenitis in infants",
+  "slug": "m_scrofulaceum_cervical_lymphadenitis_in_infants_de7a24",
+  "chapter": "NODULAR LYMPHOID HYPERPLASIA",
+  "source_file": "processed_clusters/nodular_lymphoid_hyperplasia/m_scrofulaceum_cervical_lymphadenitis_in_infants_de7a24.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "avium intracellulare:   esp. in AIDS",
+      "raw": "avium intracellulare:   esp. in AIDS (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Photochromogens M. kansasii, M. simiae, M. asiaticum",
+      "raw": "Photochromogens M. kansasii, M. simiae, M. asiaticum",
+      "frequency": null
+    },
+    {
+      "name": "colonies turn yellow with exposure to light ◊  70-80% of individuals from rural areas test positive on PPD-B (= antigen from M.",
+      "raw": "colonies turn yellow with exposure to light ◊  70-80% of individuals from rural areas test positive on PPD-B (= antigen from M.",
+      "frequency": "80%"
+    },
+    {
+      "name": "Scotochromogens M. scrofulaceum, M. xenopi, M. szulgai, M. gordonae",
+      "raw": "Scotochromogens M. scrofulaceum, M. xenopi, M. szulgai, M. gordonae",
+      "frequency": null
+    },
+    {
+      "name": "yellow colonies turn orange with exposure to light",
+      "raw": "yellow colonies turn orange with exposure to light",
+      "frequency": null
+    },
+    {
+      "name": "Nonchromogens M. avium-intracellulare, M. malmoense, M. terrae",
+      "raw": "Nonchromogens M. avium-intracellulare, M. malmoense, M. terrae",
+      "frequency": null
+    },
+    {
+      "name": "white / beige colonies without color change",
+      "raw": "white / beige colonies without color change",
+      "frequency": null
+    },
+    {
+      "name": "Rapid growers M. fortuitum-chelonei",
+      "raw": "Rapid growers M. fortuitum-chelonei",
+      "frequency": null
+    },
+    {
+      "name": "appear in culture in 3-5 days",
+      "raw": "appear in culture in 3-5 days (all other groups appear in culture in 2-4 weeks)",
+      "frequency": null
+    },
+    {
+      "name": "cough (60-100%), hemoptysis (15-20%), asthma, dyspnea",
+      "raw": "cough (60-100%), hemoptysis (15-20%), asthma, dyspnea",
+      "frequency": "100%"
+    },
+    {
+      "name": "fever distinctly uncommon",
+      "raw": "fever distinctly uncommon (10-13%)",
+      "frequency": "13%"
+    },
+    {
+      "name": "weakness + weight loss",
+      "raw": "weakness + weight loss (up to 50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "weekly positive tuberculin skin test",
+      "raw": "weekly positive tuberculin skin test",
+      "frequency": null
+    },
+    {
+      "name": "CLASSIC FORM",
+      "raw": "CLASSIC FORM",
+      "frequency": null
+    },
+    {
+      "name": "NONCLASSIC FORM",
+      "raw": "NONCLASSIC FORM (20-30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "chronic cough, hemoptysis, malaise, weight loss, fatigue",
+      "raw": "chronic cough, hemoptysis, malaise, weight loss, fatigue",
+      "frequency": null
+    },
+    {
+      "name": "older woman with thin body habitus = \"Lady Windermere syndrome\":",
+      "raw": "older woman with thin body habitus = \"Lady Windermere syndrome\":",
+      "frequency": null
+    },
+    {
+      "name": "pectus excavatum chest wall deformity, thoracic scoliosis",
+      "raw": "pectus excavatum chest wall deformity, thoracic scoliosis",
+      "frequency": null
+    },
+    {
+      "name": "mitral valve prolapse",
+      "raw": "mitral valve prolapse",
+      "frequency": null
+    },
+    {
+      "name": "older men with chronic obstructive pulmonary disease",
+      "raw": "older men with chronic obstructive pulmonary disease",
+      "frequency": null
+    },
+    {
+      "name": "ASYMPTOMATIC GRANULOMAS",
+      "raw": "ASYMPTOMATIC GRANULOMAS",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Organism causing pulmonary disease (Runyon classification): ubiquitous organisms as part of normal environmental flora kansasii)! Histo:   lesions indistinguishable from M. tuberculosis Source:   soil, water, dairy products, bird droppings Infection:   inhalation of aerosolized water droplets (M. avium-intracellulare complex), food aspiration in patients with achalasia (M. fortuitum-chelonei), GI tract (in AIDS) Age:   6th-7th decade; in Whites (80-90%); M > F Predisposing factors: COPD (25-72%), previous TB (20-24%), interstitial lung disease (6%), smoking > 30 pack-years (46%), alcohol abuse"
+}

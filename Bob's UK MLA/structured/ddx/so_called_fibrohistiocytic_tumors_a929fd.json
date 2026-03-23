@@ -1,0 +1,27 @@
+{
+  "finding": "So-called Fibrohistiocytic Tumors",
+  "slug": "so_called_fibrohistiocytic_tumors_a929fd",
+  "chapter": "D. Vascular",
+  "source_file": "processed_clusters/d_vascular/so_called_fibrohistiocytic_tumors_a929fd.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Benign fibrous histiocytoma",
+      "raw": "Benign fibrous histiocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse-type giant cell tumor",
+      "raw": "Diffuse-type giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Malignant fibrous histiocytoma",
+      "raw": "Malignant fibrous histiocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,40 @@
+{
+  "name": "ANNULAR PANCREAS",
+  "slug": "annular_pancreas",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/annular_pancreas.md",
+  "definition": "rare; 2nd most common congenital anomaly",
+  "demographics": {
+    "Prevalence": "5-15÷100,000 (autoptic); 1÷250 (ERCP)",
+    "Associated with": "other congenital anomalies (in 75%) like",
+    "Location": "2nd portion of duodenum (85%);"
+  },
+  "dominant_finding": "enlargement of pancreatic head",
+  "distribution": "2nd portion of duodenum (85%);",
+  "discriminating_features": [
+    "\"double bubble\" = dilated duodenal bulb (= smaller distal bubble) + distended stomach (=",
+    "proximal duodenal dilatation",
+    "eccentric narrowing with lateral notching + medial retraction of 2nd part of duodenum",
+    "concentric ringlike narrowing of mid-descending duodenum between major and minor",
+    "reverse peristalsis, pyloric incompetency"
+  ],
+  "other_features": {
+    "general": [
+      "\"double bubble\" = dilated duodenal bulb (= smaller distal bubble) + distended stomach (=",
+      "proximal duodenal dilatation",
+      "eccentric narrowing with lateral notching + medial retraction of 2nd part of duodenum",
+      "concentric ringlike narrowing of mid-descending duodenum between major and minor",
+      "reverse peristalsis, pyloric incompetency"
+    ],
+    "CT": [
+      "enlargement of pancreatic head",
+      "pancreatic tissue encircling descending duodenum",
+      "normally located main duct in pancreatic body + tail",
+      "small aberrant duct encircles duodenum (= originates anterior to + passes posterior to"
+    ]
+  },
+  "clinical": {
+    "Cx": "in adults increased incidence of",
+    "Rx": "gastrojejunostomy / duodenojejunostomy"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "Chronic Basal Ganglia Lesions",
+  "slug": "chronic_basal_ganglia_lesions",
+  "chapter": "BASAL GANGLIA",
+  "source_file": "processed_clusters/basal_ganglia/chronic_basal_ganglia_lesions.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INBORN ERRORS OF METABOLISM",
+      "raw": "INBORN ERRORS OF METABOLISM",
+      "frequency": null
+    },
+    {
+      "name": "Leigh disease",
+      "raw": "Leigh disease",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "Mitochondrial encephalomyelopathies =  subset of lactic acidemias with structurally abnormal mitochondria",
+      "raw": "Mitochondrial encephalomyelopathies =  subset of lactic acidemias with structurally abnormal mitochondria",
+      "frequency": null
+    },
+    {
+      "name": "\"ragged red\" fibers in muscle biopsy",
+      "raw": "\"ragged red\" fibers in muscle biopsy",
+      "frequency": null
+    },
+    {
+      "name": "Maple syrup urine disease =  inability to catabolize branched-chain amino acids",
+      "raw": "Maple syrup urine disease =  inability to catabolize branched-chain amino acids (leucine, isoleucine, valine)",
+      "frequency": null
+    },
+    {
+      "name": "urine smells of maple syrup",
+      "raw": "urine smells of maple syrup",
+      "frequency": null
+    },
+    {
+      "name": "Methylmalonic acidemia =  group of genetically distinct autosomal recessive disorders of organic acid metabolism affecting conversion of methylmalonyl-CoA to succinyl-CoA",
+      "raw": "Methylmalonic acidemia =  group of genetically distinct autosomal recessive disorders of organic acid metabolism affecting conversion of methylmalonyl-CoA to succinyl-CoA",
+      "frequency": null
+    },
+    {
+      "name": "accumulation of methylmalonic acid in blood + urine Symmetric diffuse abnormalities of the entire lentiform and caudate nuclei suggest systemic / metabolic causes!",
+      "raw": "accumulation of methylmalonic acid in blood + urine Symmetric diffuse abnormalities of the entire lentiform and caudate nuclei suggest systemic / metabolic causes!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

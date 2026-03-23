@@ -1,0 +1,37 @@
+{
+  "finding": "D. NONCARDIAC LESIONS",
+  "slug": "d_noncardiac_lesions_0e0079",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/d_noncardiac_lesions_0e0079.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "AV fistulas: hemangioendothelioma of liver, AV fistula of brain, vein of Galen aneurysm, large pulmonary AV fistula",
+      "raw": "AV fistulas: hemangioendothelioma of liver, AV fistula of brain, vein of Galen aneurysm, large pulmonary AV fistula",
+      "frequency": null
+    },
+    {
+      "name": "Transient tachypnea of the newborn",
+      "raw": "Transient tachypnea of the newborn",
+      "frequency": null
+    },
+    {
+      "name": "Intraventricular / subarachnoid hemorrhage",
+      "raw": "Intraventricular / subarachnoid hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Neonatal hypoglycemia",
+      "raw": "Neonatal hypoglycemia (low birth weight, infants of diabetic mothers)",
+      "frequency": null
+    },
+    {
+      "name": "Thyrotoxicosis",
+      "raw": "Thyrotoxicosis (transplacental passage of LATS hormone)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Congestive Heart Failure & Cardiomegaly mnemonic:   Ma McCae & Co. Myocardial infarction anemia Malformation cardiomyopathy Coronary artery disease aortic insufficiency effusion Coarctation"
+}

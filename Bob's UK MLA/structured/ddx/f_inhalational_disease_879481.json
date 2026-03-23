@@ -1,0 +1,27 @@
+{
+  "finding": "F. INHALATIONAL DISEASE",
+  "slug": "f_inhalational_disease_879481",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/f_inhalational_disease_879481.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Allergic alveolitis: acute stage",
+      "raw": "Allergic alveolitis: acute stage (eg, farmer's lung)",
+      "frequency": null
+    },
+    {
+      "name": "Silicosis",
+      "raw": "Silicosis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic pneumonia",
+      "raw": "Eosinophilic pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

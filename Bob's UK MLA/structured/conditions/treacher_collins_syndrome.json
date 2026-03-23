@@ -1,0 +1,53 @@
+{
+  "name": "TREACHER-COLLINS SYNDROME",
+  "slug": "treacher_collins_syndrome",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/treacher_collins_syndrome.md",
+  "definition": "MANDIBULOFACIAL DYSOSTOSIS autosomal dominant disease (with new mutations in 60%) characterized by bilateral",
+  "demographics": {
+    "Prevalence": "1÷50,000 births"
+  },
+  "dominant_finding": "craniosynostosis",
+  "distribution": "egg-shaped orbits = drooping of outer inferior orbital rim",
+  "discriminating_features": [
+    "craniosynostosis",
+    "narrowing of retropharyngeal space (apnea, speech difficulties)",
+    "egg-shaped orbits = drooping of outer inferior orbital rim",
+    "hypoplasia of lateral wall of orbits + shallow / incomplete orbital floor",
+    "choanal shortening"
+  ],
+  "other_features": {
+    "general": [
+      "craniosynostosis",
+      "narrowing of retropharyngeal space (apnea, speech difficulties)"
+    ],
+    "Eyes": [
+      "egg-shaped orbits = drooping of outer inferior orbital rim",
+      "hypoplasia of lateral wall of orbits + shallow / incomplete orbital floor"
+    ],
+    "Nose": [
+      "choanal shortening"
+    ],
+    "Malar bone": [
+      "sunken cheek ← marked hypoplasia / agenesis of zygomatic arches (= malar hypoplasia)"
+    ],
+    "Maxilla": [
+      "hypoplasia of maxilla + maxillary sinus",
+      "narrow / overprojected maxilla",
+      "high-arched / narrow palate"
+    ],
+    "Mandible": [
+      "pronounced micrognathia = mandibular hypoplasia with broad concave curve on lower"
+    ],
+    "Ear": [
+      "microtia with small middle ear cavity",
+      "deformed / fused / absent auditory ossicles",
+      "atresia / stenosis of external auditory canal",
+      "polyhydramnios ← swallowing difficulty"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "early respiratory problems (tongue relatively too large for hypoplastic mandible)",
+    "Rx": "surgical correction"
+  }
+}

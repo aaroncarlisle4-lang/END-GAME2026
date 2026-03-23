@@ -1,0 +1,22 @@
+{
+  "finding": "Metatropic Dysplasia — Pelvis (DDx)",
+  "slug": "metatropic_dysplasia_pelvis_ddx_0f33b9",
+  "chapter": "Metatropic Dysplasia",
+  "source_file": "processed_clusters/metatropic_dysplasia/metatropic_dysplasia_pelvis_ddx_0f33b9.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "achondroplasia",
+      "raw": "achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "mucopolysaccharidoses",
+      "raw": "mucopolysaccharidoses",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "wedge- / keel-shaped vertebral bodies | coccygeal appendage similar to a tail (rare but CHARACTERISTIC) | short squared iliac bones + irregular acetabula | narrowed greater sciatic notch"
+}

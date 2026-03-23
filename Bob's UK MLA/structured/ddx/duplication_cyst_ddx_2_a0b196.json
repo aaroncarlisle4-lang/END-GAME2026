@@ -1,0 +1,27 @@
+{
+  "finding": "Duplication Cyst (DDx)",
+  "slug": "duplication_cyst_ddx_2_a0b196",
+  "chapter": "Duplication Cyst",
+  "source_file": "processed_clusters/duplication_cyst/duplication_cyst_ddx_2_a0b196.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bronchogenic cyst",
+      "raw": "bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "neurenteric cyst",
+      "raw": "neurenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "intramural esophageal tumor",
+      "raw": "intramural esophageal tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

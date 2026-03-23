@@ -1,0 +1,27 @@
+{
+  "finding": "C. MASSES",
+  "slug": "c_masses",
+  "chapter": "LARYNX",
+  "source_file": "processed_clusters/larynx/c_masses.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epiglottic cyst",
+      "raw": "Epiglottic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Aryepiglottic cyst",
+      "raw": "Aryepiglottic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body",
+      "raw": "Foreign body",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

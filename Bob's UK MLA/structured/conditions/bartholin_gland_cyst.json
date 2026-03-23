@@ -1,0 +1,27 @@
+{
+  "name": "BARTHOLIN GLAND CYST",
+  "slug": "bartholin_gland_cyst",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/bartholin_gland_cyst.md",
+  "definition": "retention cyst",
+  "demographics": {
+    "Histo": "lined by mucinous transitional cell / columnar epithelium",
+    "Location": "posterolateral inferior ⅓ of vaginal introitus medial to labia minora at / below level",
+    "Size": "1-4 cm"
+  },
+  "dominant_finding": "unilocular cyst hyperintense on T2WI",
+  "distribution": "posterolateral inferior ⅓ of vaginal introitus medial to labia minora at / below level",
+  "discriminating_features": [
+    "unilocular cyst hyperintense on T2WI",
+    "variable T1 hyperintensity depending on proteinaceous / mucinous contents"
+  ],
+  "other_features": {
+    "general": [
+      "unilocular cyst hyperintense on T2WI",
+      "variable T1 hyperintensity depending on proteinaceous / mucinous contents"
+    ]
+  },
+  "clinical": {
+    "Rx": "administration of silver nitrate; marsupialization; surgical excision"
+  }
+}

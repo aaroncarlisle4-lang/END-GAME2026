@@ -1,0 +1,22 @@
+{
+  "finding": "Stein-Leventhal Syndrome (DDx)",
+  "slug": "stein_leventhal_syndrome_ddx_14d833",
+  "chapter": "Stein-Leventhal Syndrome",
+  "source_file": "processed_clusters/stein_leventhal_syndrome/stein_leventhal_syndrome_ddx_14d833.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ovaries in congenital adrenal hyperplasia",
+      "raw": "ovaries in congenital adrenal hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "normal ovaries",
+      "raw": "normal ovaries",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "at least one enlarged ovary > 10 cm3 | normal ovarian size (in 30%), polycystic ovaries have a volume of 6-30 cm3 | excessive number of developing follicles: | multiple (> 12) follicles of 2-9 mm in subcapsular location"
+}

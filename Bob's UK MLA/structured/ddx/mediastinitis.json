@@ -1,0 +1,127 @@
+{
+  "finding": "MEDIASTINITIS",
+  "slug": "mediastinitis",
+  "chapter": "HARD-METAL PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/mediastinitis.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "acute chest pain, high fever, chills, shortness of breath",
+      "raw": "acute chest pain, high fever, chills, shortness of breath",
+      "frequency": null
+    },
+    {
+      "name": "leukocytosis",
+      "raw": "leukocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous infection: histoplasmosis (most frequent), tuberculosis, actinomycosis,",
+      "raw": "Granulomatous infection: histoplasmosis (most frequent), tuberculosis, actinomycosis,",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Mediastinal granuloma",
+      "raw": "Mediastinal granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosing mediastinitis",
+      "raw": "Fibrosing mediastinitis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous fibrosing mediastinitis =  focal granulomatous form",
+      "raw": "Granulomatous fibrosing mediastinitis =  focal granulomatous form",
+      "frequency": null
+    },
+    {
+      "name": "Nongranulomatous fibrosing mediastinitis =  diffuse form",
+      "raw": "Nongranulomatous fibrosing mediastinitis =  diffuse form",
+      "frequency": null
+    },
+    {
+      "name": "symptoms of central airway obstruction:",
+      "raw": "symptoms of central airway obstruction:",
+      "frequency": null
+    },
+    {
+      "name": "cough",
+      "raw": "cough (41%), dyspnea (32%)",
+      "frequency": "41%"
+    },
+    {
+      "name": "symptoms of pulmonary venous occlusion:",
+      "raw": "symptoms of pulmonary venous occlusion:",
+      "frequency": null
+    },
+    {
+      "name": "\"pseudo-mitral stenosis syndrome\" = progressive exertional dyspnea, hemoptysis",
+      "raw": "\"pseudo-mitral stenosis syndrome\" = progressive exertional dyspnea, hemoptysis (31%)",
+      "frequency": "31%"
+    },
+    {
+      "name": "cor pulmonale ← pulmonary arterial hypertension ← compression of pulmonary arteries / veins",
+      "raw": "cor pulmonale ← pulmonary arterial hypertension ← compression of pulmonary arteries / veins",
+      "frequency": null
+    },
+    {
+      "name": "dysphagia",
+      "raw": "dysphagia (2%)",
+      "frequency": "2%"
+    },
+    {
+      "name": "superior vena cava syndrome",
+      "raw": "superior vena cava syndrome (6-39%)",
+      "frequency": "39%"
+    },
+    {
+      "name": "low left atrial pressure + widely differential elevation of pulmonary capillary wedge pressures Location:   middle mediastinum (subcarinal and paratracheal regions) + hila; right > left side of mediastinum",
+      "raw": "low left atrial pressure + widely differential elevation of pulmonary capillary wedge pressures Location:   middle mediastinum (subcarinal and paratracheal regions) + hila; right > left side of mediastinum",
+      "frequency": null
+    },
+    {
+      "name": "Chronic obstructive pneumonia (narrowing of trachea / central bronchi) in 5%",
+      "raw": "Chronic obstructive pneumonia (narrowing of trachea / central bronchi) in 5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "Esophageal stenosis",
+      "raw": "Esophageal stenosis (3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Pulmonary infarcts + fibrosis ← narrowing of pulmonary artery",
+      "raw": "Pulmonary infarcts + fibrosis ← narrowing of pulmonary artery",
+      "frequency": null
+    },
+    {
+      "name": "Prominent intercostal arteries ← narrowing of pulmonary artery",
+      "raw": "Prominent intercostal arteries ← narrowing of pulmonary artery",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic carcinoma",
+      "raw": "Metastatic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal sarcoma",
+      "raw": "Mediastinal sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Acute Mediastinitis =  life-threatening condition with high mortality + morbidity Cause:  acute inflammation of connective tissues + fat surrounding mediastinal structures secondary to (a)  surgery (= postoperative) (b)  transmural esophageal perforation (c)  osteomyelitis of adjacent bone (d)  direct extension of head & neck infection (e)  hematogenous spread of any infection CXR: √  widening + loss of normal contours of mediastinum √  diffuse / focal gas bubbles within mediastinum CT (modality of choice): √  increased attenuation of mediastinal fat √  free gas bubbles in mediastinum √  local"
+}

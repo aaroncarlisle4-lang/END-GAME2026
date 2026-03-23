@@ -1,0 +1,27 @@
+{
+  "finding": "Periventricular Enhancement",
+  "slug": "periventricular_enhancement_6a910f",
+  "chapter": "Mycobacteria, Nocardia, Actinomyces, Listeria",
+  "source_file": "processed_clusters/mycobacteria_nocardia_actinomyces_listeria/periventricular_enhancement_6a910f.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary CNS lymphoma",
+      "raw": "Primary CNS lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Primary glial tumor",
+      "raw": "Primary glial tumor",
+      "frequency": null
+    },
+    {
+      "name": "Infectious ependymitis",
+      "raw": "Infectious ependymitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

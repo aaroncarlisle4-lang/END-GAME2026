@@ -1,0 +1,32 @@
+{
+  "finding": "B. MALIGNANCY (in 60%",
+  "slug": "b_malignancy_in_60",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/b_malignancy_in_60.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lung cancer ◊  In < 1% of patients with lung cancer",
+      "raw": "Lung cancer ◊  In < 1% of patients with lung cancer",
+      "frequency": "1%"
+    },
+    {
+      "name": "Metastases to mediastinal lymph nodes",
+      "raw": "Metastases to mediastinal lymph nodes",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal cancer ◊  In 5-10% of patients with advanced esophageal cancer",
+      "raw": "Esophageal cancer ◊  In 5-10% of patients with advanced esophageal cancer",
+      "frequency": "10%"
+    },
+    {
+      "name": "Treatment of mediastinal malignancy by radiation, chemotherapy, laser, esophageal stent placement",
+      "raw": "Treatment of mediastinal malignancy by radiation, chemotherapy, laser, esophageal stent placement",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   middle ⅓ of esophagus"
+}

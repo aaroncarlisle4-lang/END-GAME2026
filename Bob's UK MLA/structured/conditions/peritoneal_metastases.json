@@ -1,0 +1,48 @@
+{
+  "name": "PERITONEAL METASTASES",
+  "slug": "peritoneal_metastases",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/peritoneal_metastases.md",
+  "definition": "PERITONEAL CARCINOMATOSIS relatively common intraabdominal spread of malignant tumors",
+  "demographics": {
+    "Histo": "adenocarcinoma with abundant mucin + signet ring morphology (most frequent)"
+  },
+  "dominant_finding": "hypoechoic tumor nodule / sheetlike mass on visceral / parietal surface",
+  "distribution": "desmoplastic reaction at (a) anterior border of rectum (Blumer shelf), (b) mesenteric side of",
+  "discriminating_features": [
+    "new onset ascites / massive ascites",
+    "loculated fluid collections in peritoneal cavity",
+    "enhancement of peritoneum",
+    "nodules in areas of relative stasis / arrested flow of peritoneal fluid",
+    "desmoplastic reaction at (a) anterior border of rectum (Blumer shelf), (b) mesenteric side of"
+  ],
+  "other_features": {
+    "general": [
+      "new onset ascites / massive ascites",
+      "loculated fluid collections in peritoneal cavity",
+      "enhancement of peritoneum",
+      "nodules in areas of relative stasis / arrested flow of peritoneal fluid",
+      "desmoplastic reaction at (a) anterior border of rectum (Blumer shelf), (b) mesenteric side of",
+      "occasionally sheetlike growth pattern encasing intraperitoneal viscera (DDx: malignant"
+    ],
+    "US": [
+      "ascites: anechoic / with low-level echoes of particulate matter (= proteinaceous exudate)",
+      "hypoechoic tumor nodule / sheetlike mass on visceral / parietal surface",
+      "echogenic plaquelike omentum floating in ascites / adherent to anterior abdominal wall",
+      "small nodular densities studding peritoneal surface",
+      "pleated / stellate small bowel mesentery:",
+      "increased density of linear network in mesenteric fat (= fluid within leaves of mesentery)",
+      "apparent thickening of mesenteric vessels (= tumor infiltration of perivascular spaces)",
+      "\"omental cake\" = thickening of greater omentum",
+      "adnexal mass of cystic / soft-tissue density (= Krukenberg tumor) ← transperitoneal spread",
+      "lobulated mass in pouch of Douglas",
+      "calcified peritoneal implants in serous cystadenocarcinoma of ovary (in up to 40% with",
+      "maximal enhancement of peritoneal implants at 5-10 min",
+      "diffuse uptake spreading uniformly throughout abdomen and pelvis obscuring visceral",
+      "discrete foci of uptake anteriorly within abdomen / dependently within pelvis"
+    ]
+  },
+  "clinical": {
+    "Cx": "small bowel obstruction"
+  }
+}

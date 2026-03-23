@@ -1,0 +1,43 @@
+{
+  "name": "SUBUNGUAL EXOSTOSIS",
+  "slug": "subungual_exostosis",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/subungual_exostosis.md",
+  "definition": "DUPUYTREN EXOSTOSIS uncommon solitary benign bone lesion arising from distal phalanx beneath the nail producing",
+  "demographics": {
+    "Age": "2nd-3rd decade (range, 7-58 years); M÷F = 1÷2",
+    "Histo": "inflammatory growth of proliferating fibroblasts and cartilage undergoing enchondral",
+    "Location": "toes (86-90%, big toe in 77-80%), thumb + index finger (10-14%, dominant hand in"
+  },
+  "dominant_finding": "subungual exostosis hypointense on all sequences",
+  "distribution": "toes (86-90%, big toe in 77-80%), thumb + index finger (10-14%, dominant hand in",
+  "discriminating_features": [
+    "radiographic appearance similar to osteochondroma:",
+    "broad sessile / narrow pedunculated base of bone spur",
+    "indistinct / well-demarcated cartilage cap larger than base",
+    "NO continuity to cortex / medulla of host bone (DDx to osteochondroma)",
+    "ossific mass with trabecular bony overgrowth distal to physeal scar: ± defined cortex"
+  ],
+  "other_features": {
+    "general": [
+      "radiographic appearance similar to osteochondroma:",
+      "broad sessile / narrow pedunculated base of bone spur",
+      "indistinct / well-demarcated cartilage cap larger than base",
+      "NO continuity to cortex / medulla of host bone (DDx to osteochondroma)",
+      "ossific mass with trabecular bony overgrowth distal to physeal scar: ± defined cortex"
+    ],
+    "US": [
+      "heterogeneously hyperechoic lesion",
+      "well-defined margins + calcifications",
+      "hypoechoic fibrocartilaginous cap of < 20 mm in diameter",
+      "no / mild vascularity"
+    ],
+    "MR": [
+      "subungual exostosis hypointense on all sequences"
+    ]
+  },
+  "clinical": {
+    "Rx": "complete surgical excision",
+    "Prognosis": "11-53% recurrence rate"
+  }
+}

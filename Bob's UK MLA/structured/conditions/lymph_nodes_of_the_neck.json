@@ -1,0 +1,38 @@
+{
+  "name": "LYMPH NODES OF THE NECK",
+  "slug": "lymph_nodes_of_the_neck",
+  "chapter": "NECK",
+  "source_file": "processed_clusters/disease_entries/neck/lymph_nodes_of_the_neck.md",
+  "definition": "level VI node (not routinely excised during radical neck dissection)",
+  "demographics": {},
+  "dominant_finding": "iso- or hypoattenuating to muscle",
+  "distribution": "diffuse enlargement + little surrounding inflammation",
+  "discriminating_features": [
+    "iso- or hypoattenuating to muscle",
+    "low to intermediate signal intensity on T1WI",
+    "intermediate to high signal intensity on T2WI",
+    "hypoechoic in comparison with muscle",
+    "ovoid shape with echogenic fatty hilum"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "iso- or hypoattenuating to muscle"
+    ],
+    "MR": [
+      "low to intermediate signal intensity on T1WI",
+      "intermediate to high signal intensity on T2WI"
+    ],
+    "US": [
+      "hypoechoic in comparison with muscle",
+      "ovoid shape with echogenic fatty hilum",
+      "greater enlargement + inflammation of surrounding tissue",
+      "diffuse enlargement + little surrounding inflammation",
+      "normal to slightly enlarged in size",
+      "± enhancement ← increased vascularity"
+    ]
+  },
+  "clinical": {
+    "Cx": "progression to suppurative adenopathy"
+  }
+}

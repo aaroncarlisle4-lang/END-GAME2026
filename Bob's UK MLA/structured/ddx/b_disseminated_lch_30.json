@@ -1,0 +1,157 @@
+{
+  "finding": "B. Disseminated LCH (30%",
+  "slug": "b_disseminated_lch_30",
+  "chapter": "Subungual Keratoacanthoma",
+  "source_file": "processed_clusters/subungual_keratoacanthoma/b_disseminated_lch_30.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic disseminated LCH (20%) = Hand-Schüller-Christian disease",
+      "raw": "Chronic disseminated LCH (20%) = Hand-Schüller-Christian disease",
+      "frequency": "20%"
+    },
+    {
+      "name": "Fulminant disseminated LCH (10%) = Letterer-Siwe disease formerly:   Histiocytosis X = eosinophilic granuloma / Letterer-Siwe disease / Hand-Schüller-",
+      "raw": "Fulminant disseminated LCH (10%) = Letterer-Siwe disease formerly:   Histiocytosis X = eosinophilic granuloma / Letterer-Siwe disease / Hand-Schüller-",
+      "frequency": "10%"
+    },
+    {
+      "name": "asymptomatic/ focal pain",
+      "raw": "asymptomatic/ focal pain",
+      "frequency": null
+    },
+    {
+      "name": "soft-tissue swelling in scalp",
+      "raw": "soft-tissue swelling in scalp",
+      "frequency": null
+    },
+    {
+      "name": "swelling, dizziness, vertigo, otorrhea",
+      "raw": "swelling, dizziness, vertigo, otorrhea",
+      "frequency": null
+    },
+    {
+      "name": "gingival bleeding + facial swelling",
+      "raw": "gingival bleeding + facial swelling",
+      "frequency": null
+    },
+    {
+      "name": "pain, substantial neurologic defects",
+      "raw": "pain, substantial neurologic defects",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic / focal pain + swelling",
+      "raw": "asymptomatic / focal pain + swelling",
+      "frequency": null
+    },
+    {
+      "name": "hepatic dysfunction",
+      "raw": "hepatic dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "ataxia, cognitive dysfunction ← neurodegeneration",
+      "raw": "ataxia, cognitive dysfunction ← neurodegeneration (with T2-hyperintense lesions in cerebellum + basal ganglia)",
+      "frequency": null
+    },
+    {
+      "name": "growth hormone deficiency",
+      "raw": "growth hormone deficiency (later in life)",
+      "frequency": null
+    },
+    {
+      "name": "diabetes insipidus (most common) ← decreased secretion of antidiuretic hormone ← infiltration of posterior pituitary gland",
+      "raw": "diabetes insipidus (most common) ← decreased secretion of antidiuretic hormone ← infiltration of posterior pituitary gland",
+      "frequency": "most common"
+    },
+    {
+      "name": "shortness of breath, nonproductive cough",
+      "raw": "shortness of breath, nonproductive cough",
+      "frequency": null
+    },
+    {
+      "name": "fever / weight loss",
+      "raw": "fever / weight loss (sometimes)",
+      "frequency": null
+    },
+    {
+      "name": "painful tender bone lesion + soft-tissue swelling",
+      "raw": "painful tender bone lesion + soft-tissue swelling (may be misdiagnosed as local trauma / seborrhoic skin lesion)",
+      "frequency": null
+    },
+    {
+      "name": "fever, leukocytosis, elevated sedimentation rate",
+      "raw": "fever, leukocytosis, elevated sedimentation rate",
+      "frequency": null
+    },
+    {
+      "name": "eosinophilia in blood + CSF Location:   limited to single / few bones",
+      "raw": "eosinophilia in blood + CSF Location:   limited to single / few bones (in children); may involve lung (in adults)",
+      "frequency": null
+    },
+    {
+      "name": "diabetes insipidus",
+      "raw": "diabetes insipidus (in 5 -50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "ptosis, palpebral and periocular erythema, enlargement of associated palpebral fissure",
+      "raw": "ptosis, palpebral and periocular erythema, enlargement of associated palpebral fissure",
+      "frequency": null
+    },
+    {
+      "name": "intractable otitis media with chronically draining ear",
+      "raw": "intractable otitis media with chronically draining ear (in temporal bone involvement)",
+      "frequency": null
+    },
+    {
+      "name": "gingival + contiguous soft-tissue swelling",
+      "raw": "gingival + contiguous soft-tissue swelling",
+      "frequency": null
+    },
+    {
+      "name": "pain, rapidly subsiding after bed rest",
+      "raw": "pain, rapidly subsiding after bed rest",
+      "frequency": null
+    },
+    {
+      "name": "mild hyperpyrexia, mild ↑ ESR, slight eosinophilia, slight leukocytosis",
+      "raw": "mild hyperpyrexia, mild ↑ ESR, slight eosinophilia, slight leukocytosis",
+      "frequency": null
+    },
+    {
+      "name": "rarely mild neurologic complications",
+      "raw": "rarely mild neurologic complications",
+      "frequency": null
+    },
+    {
+      "name": "diarrhea, protein-losing enteropathy, malabsorption",
+      "raw": "diarrhea, protein-losing enteropathy, malabsorption",
+      "frequency": null
+    },
+    {
+      "name": "erythematous papules + plaques → become eroded + develop serous / hemorrhagic crust",
+      "raw": "erythematous papules + plaques → become eroded + develop serous / hemorrhagic crust",
+      "frequency": null
+    },
+    {
+      "name": "Exophthalmos",
+      "raw": "Exophthalmos (mass effect on orbital bone)",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes insipidus",
+      "raw": "Diabetes insipidus (basilar skull disease / direct infiltration of posterior pituitary gland)",
+      "frequency": null
+    },
+    {
+      "name": "Destructive bone lesions",
+      "raw": "Destructive bone lesions (often of calvaria)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Christian syndrome ◊  Names should be disregarded as they were thought of formerly as different diseases! @   Bone (80%) √  bone lesions: in 80% (most common radiographic manifestation) Location:  predilection for flat bones (skull > mandible > rib > pelvis > spine) especially in adults ›  Skull: √  well-defined lytic \"punched-out\" lesion of skull √  characteristic beveled edge = asymmetric destruction of inner + outer cortices √  geographic skull = skull lesions may grow in size and coalesce N.B.:   calvarial disease lacks periosteal reaction DDx for single lesion:   epidermoid / dermoid cyst"
+}

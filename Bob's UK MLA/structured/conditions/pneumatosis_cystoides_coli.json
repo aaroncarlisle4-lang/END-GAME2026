@@ -1,0 +1,23 @@
+{
+  "name": "PNEUMATOSIS CYSTOIDES COLI",
+  "slug": "pneumatosis_cystoides_coli",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/pneumatosis_cystoides_coli.md",
+  "definition": "cystic / linear gas collection in colonic wall benign condition",
+  "demographics": {
+    "Location": "submucosal / subserosal"
+  },
+  "dominant_finding": "marked cluster of air-filled cysts in wall of colon",
+  "distribution": "submucosal / subserosal",
+  "discriminating_features": [
+    "marked cluster of air-filled cysts in wall of colon",
+    "more linear gas collection"
+  ],
+  "other_features": {
+    "general": [
+      "marked cluster of air-filled cysts in wall of colon",
+      "more linear gas collection"
+    ]
+  },
+  "clinical": {}
+}

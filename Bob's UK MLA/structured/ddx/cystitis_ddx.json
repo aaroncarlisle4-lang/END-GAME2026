@@ -1,0 +1,37 @@
+{
+  "finding": "Cystitis (DDx)",
+  "slug": "cystitis_ddx",
+  "chapter": "Cystitis",
+  "source_file": "processed_clusters/cystitis/cystitis_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bladder neoplasm",
+      "raw": "bladder neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "ureterocele",
+      "raw": "ureterocele",
+      "frequency": null
+    },
+    {
+      "name": "pseudoureterocele",
+      "raw": "pseudoureterocele",
+      "frequency": null
+    },
+    {
+      "name": "neurofibromatosis",
+      "raw": "neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "pseudosarcomatous myofibroblastic proliferations",
+      "raw": "pseudosarcomatous myofibroblastic proliferations",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "focal / multifocal / circumferential isoechoic bladder wall thickening | decrease in bladder wall thickening during bladder distension (eg, instillation of sterile | bullous lesions | intact mucosa"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "TRACHEOBRONCHOPATHIA OSTEOCHONDROPLASTICA",
+  "slug": "tracheobronchopathia_osteochondroplastica",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/tracheobronchopathia_osteochondroplastica.md",
+  "definition": "rare benign disease characterized by multiple submucosal cartilaginous / osseous nodules",
+  "demographics": {
+    "Path": "foci of submucosal hyaline cartilage with areas of lamellar bone",
+    "Histo": "adipose tissue + calcified areas with foci of bone marrow; thinned normal overlying"
+  },
+  "dominant_finding": "deformed thickened narrowed tracheal wall",
+  "distribution": "",
+  "discriminating_features": [
+    "deformed thickened narrowed tracheal wall",
+    "irregularly spaced 1-3-mm calcific submucosal nodules of trachea + bronchi (similar to",
+    "scalloped / linear opacities surrounding + narrowing trachea (best on lateral view)"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "scalloped / linear opacities surrounding + narrowing trachea (best on lateral view)"
+    ],
+    "CT": [
+      "deformed thickened narrowed tracheal wall",
+      "irregularly spaced 1-3-mm calcific submucosal nodules of trachea + bronchi (similar to"
+    ]
+  },
+  "clinical": {}
+}

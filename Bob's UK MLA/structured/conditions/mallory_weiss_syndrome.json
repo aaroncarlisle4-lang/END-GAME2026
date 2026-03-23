@@ -1,0 +1,30 @@
+{
+  "name": "MALLORY-WEISS SYNDROME",
+  "slug": "mallory_weiss_syndrome",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/mallory_weiss_syndrome.md",
+  "definition": "mucosal ± submucosal partial thickness tear of distal esophagus ± gastric cardia with",
+  "demographics": {
+    "Age": "30-60 years; M > F",
+    "Location": "at / above / below (76%) esophagogastric junction"
+  },
+  "dominant_finding": "1-4 cm longitudinal collection of barium (single tear in 77%, multiple tears in 23%)",
+  "distribution": "at / above / below (76%) esophagogastric junction",
+  "discriminating_features": [
+    "1-4 cm longitudinal collection of barium (single tear in 77%, multiple tears in 23%)",
+    "extravasation of barium",
+    "bleeding site at gastric cardia"
+  ],
+  "other_features": {
+    "general": [
+      "1-4 cm longitudinal collection of barium (single tear in 77%, multiple tears in 23%)",
+      "extravasation of barium"
+    ],
+    "ANGIO": [
+      "bleeding site at gastric cardia"
+    ]
+  },
+  "clinical": {
+    "Rx": "supportive"
+  }
+}

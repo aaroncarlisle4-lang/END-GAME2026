@@ -1,0 +1,42 @@
+{
+  "finding": "B. INFLAMMATION",
+  "slug": "b_inflammation_2",
+  "chapter": "Gastric Atony",
+  "source_file": "processed_clusters/gastric_atony/b_inflammation_2.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic gastric ulcer disease with intense spasm",
+      "raw": "Chronic gastric ulcer disease with intense spasm",
+      "frequency": null
+    },
+    {
+      "name": "Pseudo-Billroth-I pattern of Crohn disease",
+      "raw": "Pseudo-Billroth-I pattern of Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic gastritis",
+      "raw": "Eosinophilic gastritis",
+      "frequency": null
+    },
+    {
+      "name": "Polyarteritis nodosa",
+      "raw": "Polyarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "Stenosing antral gastritis / hypertrophic pyloric stenosis",
+      "raw": "Stenosing antral gastritis / hypertrophic pyloric stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  polypoid appearance, pyloric hypertrophy √  gastric ulcers, duodenal deformity"
+}

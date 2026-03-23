@@ -1,0 +1,33 @@
+{
+  "name": "SEX DEVELOPMENT",
+  "slug": "sex_development",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/sex_development.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "adducted fetal legs",
+  "distribution": "",
+  "discriminating_features": [
+    "adducted fetal legs",
+    "US beam at wrong angle",
+    "3 parallel lines between legs on transverse US",
+    "3 bumps with clitoris in midline directed caudally",
+    "small semicircular structure (= scrotal sac)"
+  ],
+  "other_features": {
+    "general": [],
+    "scrotum:": [
+      "adducted fetal legs",
+      "US beam at wrong angle",
+      "3 parallel lines between legs on transverse US",
+      "3 bumps with clitoris in midline directed caudally",
+      "small semicircular structure (= scrotal sac)",
+      "penis in midline directed anteriorly and superiorly",
+      "visualization of testes in scrotum in late 2nd trimester",
+      "thorough fetal survey to detect associated anomalies",
+      "repeated US examinations with early GA",
+      "MRI with present oligohydramnios / multiple anomalies"
+    ]
+  },
+  "clinical": {}
+}

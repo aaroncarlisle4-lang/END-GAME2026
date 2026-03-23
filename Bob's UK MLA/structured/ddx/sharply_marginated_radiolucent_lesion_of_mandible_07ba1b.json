@@ -1,0 +1,67 @@
+{
+  "finding": "Sharply Marginated Radiolucent Lesion of Mandible",
+  "slug": "sharply_marginated_radiolucent_lesion_of_mandible_07ba1b",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/sharply_marginated_radiolucent_lesion_of_mandible_07ba1b.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "around apex of tooth",
+      "raw": "around apex of tooth",
+      "frequency": null
+    },
+    {
+      "name": "Radicular cyst",
+      "raw": "Radicular cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cementoma",
+      "raw": "Cementoma",
+      "frequency": null
+    },
+    {
+      "name": "around unerupted tooth",
+      "raw": "around unerupted tooth",
+      "frequency": null
+    },
+    {
+      "name": "Dentigerous cyst",
+      "raw": "Dentigerous cyst",
+      "frequency": null
+    },
+    {
+      "name": "Ameloblastoma",
+      "raw": "Ameloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "unrelated to tooth",
+      "raw": "unrelated to tooth",
+      "frequency": null
+    },
+    {
+      "name": "Simple bone cyst",
+      "raw": "Simple bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Fong disease",
+      "raw": "Fong disease",
+      "frequency": null
+    },
+    {
+      "name": "Basal cell nevus syndrome",
+      "raw": "Basal cell nevus syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Early ossifying fibroma",
+      "raw": "Early ossifying fibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DDx:  (1)  Early cemento-osseous dysplasia"
+}

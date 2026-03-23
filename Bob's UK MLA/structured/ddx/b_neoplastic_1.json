@@ -1,0 +1,47 @@
+{
+  "finding": "B. NEOPLASTIC",
+  "slug": "b_neoplastic_1",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/b_neoplastic_1.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mesenchymal hamartoma",
+      "raw": "Mesenchymal hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Undifferentiated (embryonal) sarcoma",
+      "raw": "Undifferentiated (embryonal) sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant mesenchymoma",
+      "raw": "Malignant mesenchymoma",
+      "frequency": null
+    },
+    {
+      "name": "Biliary cystadenoma / cystadenocarcinoma ◊  < 5% of intrahepatic cysts are of biliary origin!",
+      "raw": "Biliary cystadenoma / cystadenocarcinoma ◊  < 5% of intrahepatic cysts are of biliary origin!",
+      "frequency": "5%"
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Necrotic ischemic neoplasm: HCC, giant cavernous hemangioma",
+      "raw": "Necrotic ischemic neoplasm: HCC, giant cavernous hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic metastasis: ovarian / gastric carcinoma",
+      "raw": "Cystic metastasis: ovarian / gastric carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

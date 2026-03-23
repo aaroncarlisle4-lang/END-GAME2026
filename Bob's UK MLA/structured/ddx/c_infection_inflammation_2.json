@@ -1,0 +1,27 @@
+{
+  "finding": "C. INFECTION / INFLAMMATION",
+  "slug": "c_infection_inflammation_2",
+  "chapter": "COLON",
+  "source_file": "processed_clusters/colon/c_infection_inflammation_2.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Yersinia enterocolitis",
+      "raw": "Yersinia enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Herpes",
+      "raw": "Herpes",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

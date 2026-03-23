@@ -1,0 +1,37 @@
+{
+  "finding": "D. BENIGN TUMORS",
+  "slug": "d_benign_tumors",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/d_benign_tumors.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital cyst",
+      "raw": "Congenital cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous hemangioma",
+      "raw": "Cavernous hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular adenoma",
+      "raw": "Hepatocellular adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Capsule of regenerating nodules",
+      "raw": "Capsule of regenerating nodules",
+      "frequency": null
+    },
+    {
+      "name": "Infantile hemangioendothelioma",
+      "raw": "Infantile hemangioendothelioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  large coarse centrally located calcification (in 10-20%)"
+}

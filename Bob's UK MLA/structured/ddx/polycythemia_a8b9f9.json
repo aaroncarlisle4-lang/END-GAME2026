@@ -1,0 +1,52 @@
+{
+  "finding": "POLYCYTHEMIA",
+  "slug": "polycythemia_a8b9f9",
+  "chapter": "Nephrogenic Diabetes Insipidus",
+  "source_file": "processed_clusters/nephrogenic_diabetes_insipidus/polycythemia_a8b9f9.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "RENAL (a)  intrarenal",
+      "raw": "RENAL (a)  intrarenal",
+      "frequency": null
+    },
+    {
+      "name": "Vascular impairment",
+      "raw": "Vascular impairment",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma (5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Benign fibroma",
+      "raw": "Benign fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Simple cyst",
+      "raw": "Simple cyst (14%)",
+      "frequency": "14%"
+    },
+    {
+      "name": "Polycystic kidney disease (b)  postrenal",
+      "raw": "Polycystic kidney disease (b)  postrenal",
+      "frequency": null
+    },
+    {
+      "name": "Obstructive uropathy",
+      "raw": "Obstructive uropathy (14%)",
+      "frequency": "14%"
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:   increased level of erythropoietin (acting on erythroid stem cells) ← decrease in pO2; erythropoietin precursor is produced in juxtaglomerular epithelioid cells of kidney + converted in blood"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "B. AIRWAY DISEASE (a) Unilateral pleural / parenchymal disease (23%) (b) Bronchial obstruction",
+  "slug": "b_airway_disease_a_unilateral_pleural_parenchymal_disease_23_b_bronchial_obstruc_154315",
+  "chapter": "Organism: Pseudomonas aeruginosa, Gram-negative",
+  "source_file": "processed_clusters/organism_pseudomonas_aeruginosa_gram_negative/b_airway_disease_a_unilateral_pleural_parenchymal_disease_23_b_bronchial_obstruc_154315.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma (23%)",
+      "frequency": "23%"
+    },
+    {
+      "name": "Bronchial adenoma",
+      "raw": "Bronchial adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Aspirated endobronchial foreign body",
+      "raw": "Aspirated endobronchial foreign body",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

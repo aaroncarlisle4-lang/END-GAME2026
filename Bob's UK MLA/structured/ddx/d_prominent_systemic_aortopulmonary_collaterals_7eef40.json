@@ -1,0 +1,35 @@
+{
+  "finding": "D. PROMINENT SYSTEMIC / AORTOPULMONARY COLLATERALS",
+  "slug": "d_prominent_systemic_aortopulmonary_collaterals_7eef40",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/d_prominent_systemic_aortopulmonary_collaterals_7eef40.md",
+  "quality_score": 0.5,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Tetralogy of Fallot with pulmonary atresia",
+      "raw": "Tetralogy of Fallot with pulmonary atresia (= pseudotruncus)",
+      "frequency": null
+    },
+    {
+      "name": "VSD + pulmonary atresia",
+      "raw": "VSD + pulmonary atresia (single ventricle, complete transposition, corrected transposition)",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary-systemic collaterals",
+      "raw": "Pulmonary-systemic collaterals",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Tetralogy of Fallot with pulmonary atresia": [
+      "coarse vascular pattern with irregular branching arteries (from aorta / subclavian arteries)",
+      "small central vessels despite apparent ↑ in vascularity Decreased Pulmonary Vascularity =  obstruction to pulmonary flow",
+      "small pulmonary artery segment + hilar vessels"
+    ],
+    "VSD + pulmonary atresia": [],
+    "Pulmonary-systemic collaterals": []
+  },
+  "context": "√  coarse vascular pattern with irregular branching arteries (from aorta / subclavian arteries) √  small central vessels despite apparent ↑ in vascularity Decreased Pulmonary Vascularity =  obstruction to pulmonary flow √  vessels reduced in size and number √  hyperlucent lungs √  small pulmonary artery segment + hilar vessels"
+}

@@ -1,0 +1,102 @@
+{
+  "finding": "Benign Teratoid Tumor (75-86%",
+  "slug": "benign_teratoid_tumor_75_86",
+  "chapter": "Neuropsychiatric SLE / CNS Lupus",
+  "source_file": "processed_clusters/neuropsychiatric_sle_cns_lupus/benign_teratoid_tumor_75_86.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epidermoid (52%) = ectodermal derivatives",
+      "raw": "Epidermoid (52%) = ectodermal derivatives",
+      "frequency": "52%"
+    },
+    {
+      "name": "Dermoid (27%) = ecto- + mesodermal derivatives",
+      "raw": "Dermoid (27%) = ecto- + mesodermal derivatives",
+      "frequency": "27%"
+    },
+    {
+      "name": "Teratoma (21%) = ecto- + meso- + endodermal derivatives Path:  spherical lobulated well-encapsulated tumor; typically multi- / unilocular cystic cavities with clear / yellow / brown liquid",
+      "raw": "Teratoma (21%) = ecto- + meso- + endodermal derivatives Path:  spherical lobulated well-encapsulated tumor; typically multi- / unilocular cystic cavities with clear / yellow / brown liquid",
+      "frequency": "21%"
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic (in up to 53%)",
+      "frequency": "53%"
+    },
+    {
+      "name": "cough, dyspnea, chest pain, pulmonary infection, respiratory distress ← compression by large tumor",
+      "raw": "cough, dyspnea, chest pain, pulmonary infection, respiratory distress ← compression by large tumor",
+      "frequency": null
+    },
+    {
+      "name": "Seminoma = germinoma = dysgerminoma",
+      "raw": "Seminoma = germinoma = dysgerminoma",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic (20-30%); SVC obstruction (10%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "chest pain / pressure, shortness of breath, weight loss, hoarseness, dysphagia, fever",
+      "raw": "chest pain / pressure, shortness of breath, weight loss, hoarseness, dysphagia, fever",
+      "frequency": null
+    },
+    {
+      "name": "↑ serum levels of hCG",
+      "raw": "↑ serum levels of hCG (7-18%)",
+      "frequency": "18%"
+    },
+    {
+      "name": "↑ serum levels of LDH (80%) correlate with tumor burden + rate of tumor growth",
+      "raw": "↑ serum levels of LDH (80%) correlate with tumor burden + rate of tumor growth",
+      "frequency": "80%"
+    },
+    {
+      "name": "Nonseminomatous malignant germ cell tumor (a)  embryonic tissue",
+      "raw": "Nonseminomatous malignant germ cell tumor (a)  embryonic tissue",
+      "frequency": null
+    },
+    {
+      "name": "Embryonal carcinoma (b)  extraembryonic tissue",
+      "raw": "Embryonal carcinoma (b)  extraembryonic tissue",
+      "frequency": null
+    },
+    {
+      "name": "Yolk sac = endodermal sinus tumor",
+      "raw": "Yolk sac = endodermal sinus tumor",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma (least frequent) (c)  combination = mixed germ cell tumor Path:   large unencapsulated heterogeneous soft-tissue mass with tendency for invasion of adjacent structures",
+      "raw": "Choriocarcinoma (least frequent) (c)  combination = mixed germ cell tumor Path:   large unencapsulated heterogeneous soft-tissue mass with tendency for invasion of adjacent structures",
+      "frequency": "frequent"
+    },
+    {
+      "name": "chest pain, dyspnea, cough, weight loss, fever, SVC syndrome",
+      "raw": "chest pain, dyspnea, cough, weight loss, fever, SVC syndrome (90-100%)",
+      "frequency": "100%"
+    },
+    {
+      "name": "↑ serum level of α-fetoprotein (80%) for endodermal sinus tumor / embryonal carcinoma",
+      "raw": "↑ serum level of α-fetoprotein (80%) for endodermal sinus tumor / embryonal carcinoma",
+      "frequency": "80%"
+    },
+    {
+      "name": "↑ serum level of LDH",
+      "raw": "↑ serum level of LDH (60%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "↑ serum level of hCG (30%) (DDx: lung cancer; hepatocellular carcinoma;",
+      "raw": "↑ serum level of hCG (30%) (DDx: lung cancer; hepatocellular carcinoma;",
+      "frequency": "30%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  MATURE (CYSTIC) TERATOMA = BENIGN TERATOMA ◊  Most common histologic type Histo: (a)  ectoderm: skin, sebaceous material, hair, cysts lined by squamous epithelium (b)  mesoderm: bone, cartilage, muscle (c)  endoderm: GI + respiratory tissue, mucus glands ◊  Tumor capsule commonly has remnants of thymic tissue! ◊  Cyst formation is typical (usually lined by mucus-secreting tall epithelial cells)! Age:     young adults / children; M = F Location: (a)  anterior superior mediastinum near thymus / within thymic parenchyma (b)  posterior mediastinum (rare, 3-8%) CT: √  smooth round mass bulging i"
+}

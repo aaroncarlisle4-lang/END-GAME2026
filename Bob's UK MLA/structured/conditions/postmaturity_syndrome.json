@@ -1,0 +1,29 @@
+{
+  "name": "POSTMATURITY SYNDROME",
+  "slug": "postmaturity_syndrome",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/postmaturity_syndrome.md",
+  "definition": "inability of aging placenta to support demands of fetus fetus undelivered by 42nd week MA",
+  "demographics": {
+    "Prevalence": "in 15% of all postterm gravidas"
+  },
+  "dominant_finding": "grade 3 placenta (in 85%), grade 2 (in 15%), grade 1 (in 0%)",
+  "distribution": "",
+  "discriminating_features": [
+    "grade 3 placenta (in 85%), grade 2 (in 15%), grade 1 (in 0%)",
+    "decreased subcutaneous fat + wrinkling of skin",
+    "long fingernails",
+    "decreased vernix"
+  ],
+  "other_features": {
+    "general": [
+      "grade 3 placenta (in 85%), grade 2 (in 15%), grade 1 (in 0%)",
+      "decreased subcutaneous fat + wrinkling of skin",
+      "long fingernails",
+      "decreased vernix"
+    ]
+  },
+  "clinical": {
+    "Cx": "meconium aspiration, perinatal asphyxia, thermal instability"
+  }
+}

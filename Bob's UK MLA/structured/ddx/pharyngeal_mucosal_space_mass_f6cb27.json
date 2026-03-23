@@ -1,0 +1,87 @@
+{
+  "finding": "Pharyngeal Mucosal Space Mass",
+  "slug": "pharyngeal_mucosal_space_mass_f6cb27",
+  "chapter": "PHARYNX",
+  "source_file": "processed_clusters/pharynx/pharyngeal_mucosal_space_mass_f6cb27.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Asymmetric fossa of Rosenmüller =  lateral pharyngeal recess = asymmetry in amount of lymphoid tissue",
+      "raw": "Asymmetric fossa of Rosenmüller =  lateral pharyngeal recess = asymmetry in amount of lymphoid tissue",
+      "frequency": null
+    },
+    {
+      "name": "Tonsillar / peritonsillar abscess",
+      "raw": "Tonsillar / peritonsillar abscess",
+      "frequency": null
+    },
+    {
+      "name": "sore throat, fever, painful swallowing",
+      "raw": "sore throat, fever, painful swallowing",
+      "frequency": null
+    },
+    {
+      "name": "Postinflammatory retention cyst",
+      "raw": "Postinflammatory retention cyst",
+      "frequency": null
+    },
+    {
+      "name": "Postinflammatory calcification",
+      "raw": "Postinflammatory calcification",
+      "frequency": null
+    },
+    {
+      "name": "remote history of severe pharyngitis",
+      "raw": "remote history of severe pharyngitis",
+      "frequency": null
+    },
+    {
+      "name": "Benign mixed tumor",
+      "raw": "Benign mixed tumor",
+      "frequency": null
+    },
+    {
+      "name": "pedunculated mass arising from minor salivary glands",
+      "raw": "pedunculated mass arising from minor salivary glands",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Non-Hodgkin lymphoma",
+      "raw": "Non-Hodgkin lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Minor salivary gland malignancy",
+      "raw": "Minor salivary gland malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Thornwaldt cyst ◊  Most common congenital head and neck cyst in a child!",
+      "raw": "Thornwaldt cyst ◊  Most common congenital head and neck cyst in a child!",
+      "frequency": "most common"
+    },
+    {
+      "name": "Mucosal primary not identified (in 1-5%): 25-35% sensitive",
+      "raw": "Mucosal primary not identified (in 1-5%): 25-35% sensitive",
+      "frequency": "5%"
+    },
+    {
+      "name": "Staging: detection of contralateral nodal involvement",
+      "raw": "Staging: detection of contralateral nodal involvement",
+      "frequency": null
+    },
+    {
+      "name": "Restaging (88-100% sensitive, 75-100% specific): more sensitive and specific than",
+      "raw": "Restaging (88-100% sensitive, 75-100% specific): more sensitive and specific than",
+      "frequency": "100%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  1-2-cm well-circumscribed cystic mass √  multiple clumps of calcification √  oval / round well-circumscribed mass protruding into airway √  infiltrating mass with epicenter medial to + invading parapharyngeal space √  middle-ear fluid (eustachian tube malfunction) √  cervical adenopathy PET in Squamous Cell Carcinoma of Head and Neck"
+}

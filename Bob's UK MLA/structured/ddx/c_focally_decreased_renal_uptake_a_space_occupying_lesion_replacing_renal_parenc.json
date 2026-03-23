@@ -1,0 +1,42 @@
+{
+  "finding": "C. Focally decreased renal uptake (a) space-occupying lesion replacing renal parenchyma",
+  "slug": "c_focally_decreased_renal_uptake_a_space_occupying_lesion_replacing_renal_parenc",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/c_focally_decreased_renal_uptake_a_space_occupying_lesion_replacing_renal_parenc.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Cyst",
+      "raw": "Cyst",
+      "frequency": null
+    },
+    {
+      "name": "Primary / metastatic renal neoplasm (b)  scar",
+      "raw": "Primary / metastatic renal neoplasm (b)  scar",
+      "frequency": null
+    },
+    {
+      "name": "Infarct",
+      "raw": "Infarct",
+      "frequency": null
+    },
+    {
+      "name": "Chronic pyelonephritis",
+      "raw": "Chronic pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Partial nephrectomy",
+      "raw": "Partial nephrectomy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,77 @@
+{
+  "finding": "D. OTHER",
+  "slug": "d_other_236c6f",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/d_other_236c6f.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Large left atrium: mitral stenosis + LLL atelectasis",
+      "raw": "Large left atrium: mitral stenosis + LLL atelectasis",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body: food aspiration, endotracheal intubation",
+      "raw": "Foreign body: food aspiration, endotracheal intubation",
+      "frequency": null
+    },
+    {
+      "name": "Broncholithiasis",
+      "raw": "Broncholithiasis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial transection",
+      "raw": "Bronchial transection",
+      "frequency": null
+    },
+    {
+      "name": "Tumor",
+      "raw": "Tumor",
+      "frequency": null
+    },
+    {
+      "name": "Stricture",
+      "raw": "Stricture",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body",
+      "raw": "Foreign body",
+      "frequency": null
+    },
+    {
+      "name": "Mucus plug",
+      "raw": "Mucus plug",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial rupture",
+      "raw": "Bronchial rupture",
+      "frequency": null
+    },
+    {
+      "name": "airless collapse within minutes to hours",
+      "raw": "airless collapse within minutes to hours",
+      "frequency": null
+    },
+    {
+      "name": "collapsed lung NOT completely airless",
+      "raw": "collapsed lung NOT completely airless (up to 40% residual air)",
+      "frequency": "40%"
+    }
+  ],
+  "criteria": {},
+  "context": "Signs: √  local increase in lung density √  crowding of pulmonary vessels √  bronchial rearrangement √  displacement of fissures √  displacement of hilum √  mediastinal shift √  elevation of hemidiaphragm √  cardiac rotation √  approximation of ribs √  compensatory overinflation of normal lung Obstructive Atelectasis RESORPTIVE ATELECTASIS Pathophysiology: sum of partial gas pressures in venous blood perfusing atelectatic region is less than atmospheric pressure, → gradual resorption of air trapped distal to site of obstruction; continuing secretion into small airways leads to consolidation →"
+}

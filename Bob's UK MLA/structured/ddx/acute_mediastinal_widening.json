@@ -1,0 +1,47 @@
+{
+  "finding": "Acute Mediastinal Widening",
+  "slug": "acute_mediastinal_widening",
+  "chapter": "MEDIASTINUM",
+  "source_file": "processed_clusters/mediastinum/acute_mediastinal_widening.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rupture of aorta / brachiocephalic arteries",
+      "raw": "Rupture of aorta / brachiocephalic arteries",
+      "frequency": null
+    },
+    {
+      "name": "Venous hemorrhage: traumatic / iatrogenic",
+      "raw": "Venous hemorrhage: traumatic / iatrogenic (malpositioning of central venous line)",
+      "frequency": null
+    },
+    {
+      "name": "Congestive heart failure",
+      "raw": "Congestive heart failure (venous dilatation)",
+      "frequency": null
+    },
+    {
+      "name": "Rupture of esophagus",
+      "raw": "Rupture of esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Rupture of thoracic duct",
+      "raw": "Rupture of thoracic duct",
+      "frequency": null
+    },
+    {
+      "name": "Atelectasis abutting the mediastinum",
+      "raw": "Atelectasis abutting the mediastinum",
+      "frequency": null
+    },
+    {
+      "name": "Magnification + geometric distortion on supine radiograph",
+      "raw": "Magnification + geometric distortion on supine radiograph (attempt at suspended full inspiration, no rotation, 10-15° caudal angulation of central beam)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

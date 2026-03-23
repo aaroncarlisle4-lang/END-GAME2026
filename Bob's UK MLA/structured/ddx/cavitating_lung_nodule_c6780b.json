@@ -1,0 +1,67 @@
+{
+  "finding": "Cavitating Lung Nodule",
+  "slug": "cavitating_lung_nodule_c6780b",
+  "chapter": "C. CENTRAL / PERIPHERAL",
+  "source_file": "processed_clusters/c_central_peripheral/cavitating_lung_nodule_c6780b.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NEOPLASM (a)  Lung primary:",
+      "raw": "NEOPLASM (a)  Lung primary:",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma (9.5%)",
+      "frequency": "9.5%"
+    },
+    {
+      "name": "Bronchioloalveolar carcinoma",
+      "raw": "Bronchioloalveolar carcinoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Hodgkin disease (rare) (b)  Metastases (4% cavitate):",
+      "raw": "Hodgkin disease (rare) (b)  Metastases (4% cavitate):",
+      "frequency": "4%"
+    },
+    {
+      "name": "Squamous cell carcinoma (⅔):",
+      "raw": "Squamous cell carcinoma (⅔):",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma (colorectal)",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma: Ewing sarcoma, osteo-, myxo-, angiosarcoma",
+      "raw": "Sarcoma: Ewing sarcoma, osteo-, myxo-, angiosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Seminoma, teratocarcinoma",
+      "raw": "Seminoma, teratocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "nasopharynx (males), cervix (females), esophagus"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Papillary Endolymphatic Sac Tumor (DDx)",
+  "slug": "papillary_endolymphatic_sac_tumor_ddx",
+  "chapter": "Papillary Endolymphatic Sac Tumor",
+  "source_file": "processed_clusters/papillary_endolymphatic_sac_tumor/papillary_endolymphatic_sac_tumor_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "paraganglioma",
+      "raw": "paraganglioma",
+      "frequency": null
+    },
+    {
+      "name": "cystic and papillary adenocarcinoma",
+      "raw": "cystic and papillary adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "chondroid lesions (benign",
+      "raw": "chondroid lesions (benign",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "speckled pattern of hyperintensity on T1WI (mimicking glomus tumor) | commonly contains blood products (hyperintense on T1WI + hypointense on T2WI) | areas of low SI may represent hemosiderin | heterogeneous enhancement"
+}

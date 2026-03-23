@@ -1,0 +1,27 @@
+{
+  "finding": "LOW SI OF T1-HYPERINTENSE ADNEXAL MASS ON STIR",
+  "slug": "low_si_of_t1_hyperintense_adnexal_mass_on_stir",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/low_si_of_t1_hyperintense_adnexal_mass_on_stir.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fat of mature cystic teratoma",
+      "raw": "Fat of mature cystic teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic ovarian cyst",
+      "raw": "Hemorrhagic ovarian cyst",
+      "frequency": null
+    },
+    {
+      "name": "Endometrioma ◊  Use selective fat-suppressed T1WI to identify fat!",
+      "raw": "Endometrioma ◊  Use selective fat-suppressed T1WI to identify fat!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "B. NONHEREDITARY",
+  "slug": "b_nonhereditary",
+  "chapter": "Prolonged Contrast Coating of Bowel Wall",
+  "source_file": "processed_clusters/prolonged_contrast_coating_of_bowel_wall/b_nonhereditary.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cronkhite-Canada syndrome",
+      "raw": "Cronkhite-Canada syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile polyposis",
+      "raw": "Juvenile polyposis",
+      "frequency": null
+    },
+    {
+      "name": "Postinflammatory polyposis",
+      "raw": "Postinflammatory polyposis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoid hyperplasia",
+      "raw": "Lymphoid hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Multiple lymphomatous polyposis",
+      "raw": "Multiple lymphomatous polyposis",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Pneumatosis coli",
+      "raw": "Pneumatosis coli",
+      "frequency": null
+    },
+    {
+      "name": "Disseminated gastrointestinal polyps",
+      "raw": "Disseminated gastrointestinal polyps",
+      "frequency": null
+    },
+    {
+      "name": "Multiple adenomatous polyps",
+      "raw": "Multiple adenomatous polyps",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DDx:   polyposis look-alikes on barium studies"
+}

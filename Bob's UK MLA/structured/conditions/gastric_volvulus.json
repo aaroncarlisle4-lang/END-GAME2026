@@ -1,0 +1,53 @@
+{
+  "name": "GASTRIC VOLVULUS",
+  "slug": "gastric_volvulus",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/gastric_volvulus.md",
+  "definition": "abnormal torsion (twisting) of stomach, usually > 180° → complete obstruction → ischemia",
+  "demographics": {
+    "Peak age": "40-50 years (in 20% in infants < 1 year of age); most often in elderly with hiatal",
+    "Age": "usually in adulthood",
+    "Associated with": "diaphragmatic defect (hiatal hernia, diaphragmatic eventration / rupture"
+  },
+  "dominant_finding": "antrum moves anterosuperiorly + fundus rotates posteroinferiorly:",
+  "distribution": "no underlying diaphragmatic defect",
+  "discriminating_features": [
+    "ingested contrast may pass through stomach",
+    "stomach becomes dilated + fills with fluid",
+    "oral contrast is retained in stomach",
+    "antrum moves anterosuperiorly + fundus rotates posteroinferiorly:",
+    "gastroesophageal junction lower than normal"
+  ],
+  "other_features": {
+    "general": [
+      "ingested contrast may pass through stomach",
+      "stomach becomes dilated + fills with fluid",
+      "oral contrast is retained in stomach"
+    ],
+    "CXR": [
+      "massively distended stomach in LUQ extending into chest /retrocardiac location (=",
+      "unexpected location of stomach gas bubble",
+      "paucity of distal gas",
+      "air-fluid levels in mediastinum / upper abdomen",
+      "incomplete / absent entrance of barium into stomach",
+      "displaced gastroesophageal junction",
+      "barium demonstrates area of twist",
+      "horizontally oriented stomach with a single air-fluid level:",
+      "\"mirror-image\" stomach = greater curvature to right of lesser curvature (in vertically"
+    ],
+    "CT": [
+      "antrum moves anterosuperiorly + fundus rotates posteroinferiorly:",
+      "gastroesophageal junction lower than normal",
+      "\"upside-down\" stomach = lesser curvature below greater curvature",
+      "distortion of duodenum",
+      "fundus rotates posteroinferiorly",
+      "usually partial volvulus",
+      "no underlying diaphragmatic defect",
+      "antrum moves above gastroesophageal junction:",
+      "\"right-side up\" stomach = antrum / pylorus rotates anterosuperiorly and from right"
+    ]
+  },
+  "clinical": {
+    "Rx": "open / laparoscopic gastropexy + repair of diaphragmatic hernia"
+  }
+}

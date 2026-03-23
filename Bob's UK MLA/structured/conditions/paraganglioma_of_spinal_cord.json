@@ -1,0 +1,41 @@
+{
+  "name": "PARAGANGLIOMA OF SPINAL CORD",
+  "slug": "paraganglioma_of_spinal_cord",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/paraganglioma_of_spinal_cord.md",
+  "definition": "",
+  "demographics": {
+    "Mean age": "46 years; M > F",
+    "Path": "soft encapsulated (75%) slightly hemorrhagic mass supplied by numerous feeding",
+    "Histo": "chief cells + sustentacular cells surrounded by fibrovascular stroma; nests of chief cells",
+    "Location": "cauda equina, filum terminale"
+  },
+  "dominant_finding": "bone erosion of spine",
+  "distribution": "cauda equina, filum terminale",
+  "discriminating_features": [
+    "bone erosion of spine",
+    "well-circumscribed mass isointense to cord on T1WI",
+    "iso- to hyperintense on T2WI:",
+    "\"cap\" sign = low-signal-intensity rim on T2WI from hemorrhage",
+    "± \"salt-and-pepper\" appearance"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "bone erosion of spine"
+    ],
+    "MR": [
+      "well-circumscribed mass isointense to cord on T1WI",
+      "iso- to hyperintense on T2WI:",
+      "\"cap\" sign = low-signal-intensity rim on T2WI from hemorrhage",
+      "± \"salt-and-pepper\" appearance",
+      "intense enhancement",
+      "serpentine flow voids along surface + within tumor nodule",
+      "± syringohydromyelia"
+    ],
+    "ANGIO": [
+      "intense early blush persisting well into late arterial + early venous phase"
+    ]
+  },
+  "clinical": {}
+}

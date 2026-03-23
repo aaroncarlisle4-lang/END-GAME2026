@@ -1,0 +1,47 @@
+{
+  "finding": "Rx: adrenalectomy",
+  "slug": "rx_adrenalectomy",
+  "chapter": "Nephrogenic Diabetes Insipidus",
+  "source_file": "processed_clusters/nephrogenic_diabetes_insipidus/rx_adrenalectomy.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adrenal carcinoma  rare",
+      "raw": "Adrenal carcinoma  rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "Type 1 familial hyperaldosteronism  rare",
+      "raw": "Type 1 familial hyperaldosteronism  rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "Type 2 familial hyperaldosteronism  rare",
+      "raw": "Type 2 familial hyperaldosteronism  rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "hypertension",
+      "raw": "hypertension",
+      "frequency": null
+    },
+    {
+      "name": "hyperaldosteronism, suppressed renin, hypernatremia",
+      "raw": "hyperaldosteronism, suppressed renin, hypernatremia",
+      "frequency": null
+    },
+    {
+      "name": "abnormal aldosterone (↑)-renin (↓)ratio, metabolic alkalosis",
+      "raw": "abnormal aldosterone (↑)-renin (↓)ratio, metabolic alkalosis",
+      "frequency": null
+    },
+    {
+      "name": "failure to suppress plasma aldosterone levels by oral salt-loading / IV administration of saline solution / fluorocortisone",
+      "raw": "failure to suppress plasma aldosterone levels by oral salt-loading / IV administration of saline solution / fluorocortisone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "CT (40-100% sensitive) & MR (70-100% sensitive): √  small adrenal nodule: √  macronodule > 10 mm √  micronodule < 10 mm √  mean adrenal limb width ≥ 5 mm = BAH Adrenal vein sampling: =  blood samples taken from IVC + both adrenal veins during infusion of adrenocorticotropic hormone √  cortisol ratio of adrenal vein÷IVC > 2÷1 √  lateralization ratio = adrenal vein÷adrenal vein: √  > 4 = aldosterone hypersecretion √  < 3 = BAH NUC (131Iodine-6-β-iodomethylnorcholesterol = NP-59 or Selenium-75-6-β- selenomethylcholesterol): ›  dexamethasone depression increases sensitivity √  unilateral early upt"
+}

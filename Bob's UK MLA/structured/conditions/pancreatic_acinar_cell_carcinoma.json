@@ -1,0 +1,37 @@
+{
+  "name": "PANCREATIC ACINAR CELL CARCINOMA",
+  "slug": "pancreatic_acinar_cell_carcinoma",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/pancreatic_acinar_cell_carcinoma.md",
+  "definition": "rare neoplasm of exocrine origin disseminated subcutaneous + intraosseous fat necrosis (usually distal to knees / elbows)",
+  "demographics": {
+    "Frequency": "1-2% of pancreatic exocrine tumors",
+    "Mean age": "62 (range, 40-81) years; M÷F = 86÷14; 87% Caucasian; more common than ductal",
+    "Path": "similar to pancreatoblastoma (= embryonic counterpart)",
+    "Prevalence": "4-16% of adult patients",
+    "Location": "anywhere in pancreas; frequently exophytic",
+    "Size": "10 (range, 2-30) cm"
+  },
+  "dominant_finding": "soft lobulated well-defined heterogeneous mass",
+  "distribution": "anywhere in pancreas; frequently exophytic",
+  "discriminating_features": [
+    "soft lobulated well-defined heterogeneous mass",
+    "partial / complete thin enhancing capsule",
+    "tumor necrosis usually present",
+    "punctate / chunky peripheral / central tumor calcifications (33-50%)",
+    "enhancement less than normal pancreas (greater than ductal adenocarcinomas + less than islet"
+  ],
+  "other_features": {
+    "general": [
+      "soft lobulated well-defined heterogeneous mass",
+      "partial / complete thin enhancing capsule",
+      "tumor necrosis usually present",
+      "punctate / chunky peripheral / central tumor calcifications (33-50%)",
+      "enhancement less than normal pancreas (greater than ductal adenocarcinomas + less than islet",
+      "moderately vascular tumor + neovascularity + arterial and venous encasement"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "median survival of 7-9 months; 57% (26%) [6%] 1-year (3-year) [5-year] survival,"
+  }
+}

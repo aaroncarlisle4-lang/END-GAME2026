@@ -1,0 +1,57 @@
+{
+  "finding": "Hyperintense Liver Mass on T1WI",
+  "slug": "hyperintense_liver_mass_on_t1wi",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/hyperintense_liver_mass_on_t1wi.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatocellular adenoma",
+      "raw": "Hepatocellular adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Regenerative & dysplastic nodule",
+      "raw": "Regenerative & dysplastic nodule",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage (methemoglobin), hemorrhagic tumor",
+      "raw": "Hemorrhage (methemoglobin), hemorrhagic tumor",
+      "frequency": null
+    },
+    {
+      "name": "Focal fat deposit, lipoma",
+      "raw": "Focal fat deposit, lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Cyst with high protein content",
+      "raw": "Cyst with high protein content",
+      "frequency": null
+    },
+    {
+      "name": "Thrombosed hemangioma",
+      "raw": "Thrombosed hemangioma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Paramagnetic contrast agents + iodized oil",
+      "raw": "Paramagnetic contrast agents + iodized oil",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Usually due to lipid, hemorrhage or melanin!"
+}

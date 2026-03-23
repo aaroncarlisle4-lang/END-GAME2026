@@ -1,0 +1,30 @@
+{
+  "name": "BRAIN ATROPHY",
+  "slug": "brain_atrophy",
+  "chapter": "TRIGEMINAL NEUROPATHY",
+  "source_file": "processed_clusters/disease_entries/trigeminal_neuropathy/brain_atrophy.md",
+  "definition": "irreversible loss of brain substance + subsequent enlargement of intra- and extracerebral",
+  "demographics": {},
+  "dominant_finding": "enlarged ventricles + sulci",
+  "distribution": "ipsilateral dilatation of basal cisterns + ventricles",
+  "discriminating_features": [
+    "enlarged ventricles + sulci",
+    "prominent sulci",
+    "ipsilateral dilatation of basal cisterns + ventricles",
+    "ex vacuo dilatation of ventricles",
+    "thinning of gyri"
+  ],
+  "other_features": {
+    "general": [
+      "enlarged ventricles + sulci",
+      "prominent sulci",
+      "ipsilateral dilatation of basal cisterns + ventricles",
+      "ex vacuo dilatation of ventricles",
+      "thinning of gyri",
+      "focal areas of periventricular high signal intensity",
+      "increased iron deposition in putamen approaching the concentration in globus pallidus",
+      "dilatation of Virchow-Robin perivascular space"
+    ]
+  },
+  "clinical": {}
+}

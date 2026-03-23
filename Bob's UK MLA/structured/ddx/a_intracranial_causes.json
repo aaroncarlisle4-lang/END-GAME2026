@@ -1,0 +1,62 @@
+{
+  "finding": "A. INTRACRANIAL CAUSES",
+  "slug": "a_intracranial_causes",
+  "chapter": "LARYNX",
+  "source_file": "processed_clusters/larynx/a_intracranial_causes.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Birth injury",
+      "raw": "Birth injury",
+      "frequency": null
+    },
+    {
+      "name": "Arnold-Chiari malformation",
+      "raw": "Arnold-Chiari malformation",
+      "frequency": null
+    },
+    {
+      "name": "Intracranial tumor",
+      "raw": "Intracranial tumor",
+      "frequency": null
+    },
+    {
+      "name": "Medullary infarct",
+      "raw": "Medullary infarct",
+      "frequency": null
+    },
+    {
+      "name": "MEDIASTINAL CAUSES (a)  neoplastic: bronchogenic ca., lymphoma, esophageal ca., thyroid ca., neurogenic tumor (paraganglioma, schwannoma), thymic malignancy, nodal metastasis (breast, lung, esophagus), retrosternal goiter (b)  inflammatory: sarcoidosis, silicosis, fibrosing mediastinitis (c)  infectious: TB, histoplasmosis, coccidioidomycosis, bacterial abscess, mycotic aortic aneurysm (d)  infiltrative: amyloidosis (e)  vascular / cardiac: vascular ring, aortic dissection / pseudoaneurysm, left atrial enlargement, CHD, pulmonary artery enlargement, pulmonary embolism (f)  traumatic / surgical procedure: median sternotomy (CABG, valve repair), ligation of",
+      "raw": "MEDIASTINAL CAUSES (a)  neoplastic: bronchogenic ca., lymphoma, esophageal ca., thyroid ca., neurogenic tumor (paraganglioma, schwannoma), thymic malignancy, nodal metastasis (breast, lung, esophagus), retrosternal goiter (b)  inflammatory: sarcoidosis, silicosis, fibrosing mediastinitis (c)  infectious: TB, histoplasmosis, coccidioidomycosis, bacterial abscess, mycotic aortic aneurysm (d)  infiltrative: amyloidosis (e)  vascular / cardiac: vascular ring, aortic dissection / pseudoaneurysm, left atrial enlargement, CHD, pulmonary artery enlargement, pulmonary embolism (f)  traumatic / surgical procedure: median sternotomy (CABG, valve repair), ligation of",
+      "frequency": null
+    },
+    {
+      "name": "PARALYTIC PERIPHERAL NEUROPATHY",
+      "raw": "PARALYTIC PERIPHERAL NEUROPATHY",
+      "frequency": null
+    },
+    {
+      "name": "Radioactive iodine ablation treatment",
+      "raw": "Radioactive iodine ablation treatment",
+      "frequency": null
+    },
+    {
+      "name": "External beam radiation effect",
+      "raw": "External beam radiation effect",
+      "frequency": null
+    },
+    {
+      "name": "Chemotherapy",
+      "raw": "Chemotherapy (vinca alkaloids)",
+      "frequency": null
+    },
+    {
+      "name": "Jugular vein thrombosis",
+      "raw": "Jugular vein thrombosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  outward bowing of ipsilateral oropharynx √  atrophic thinning of pharyngeal constrictor muscle √  uvular deviation away from side of causative lesion PDA, mediastinoscopy, radical esophagectomy, left pneumonectomy / left upper lobectomy, carotid endarterectomy, thyroidectomy, anterior cervical spine fusion, central venous line placement, endotracheal intubation, deceleration injury Fluoroscopy √  fixed vocal cords CT (true axial): √  ipsilateral dilatation of piriform sinus √  ipsilateral dilatation of laryngeal ventricle √  medial rotation + thickening of aryepiglottic fold √  anteromedial"
+}

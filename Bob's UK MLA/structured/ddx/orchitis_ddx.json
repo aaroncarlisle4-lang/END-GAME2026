@@ -1,0 +1,22 @@
+{
+  "finding": "Orchitis (DDx)",
+  "slug": "orchitis_ddx",
+  "chapter": "Orchitis",
+  "source_file": "processed_clusters/orchitis/orchitis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "leukemia",
+      "raw": "leukemia",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "peripheral adjacent to abnormal epididymis | increased / no color Doppler flow | tendency to involve epididymis first | multiple hypo- / hyperechoic masses within testis / epididymis"
+}

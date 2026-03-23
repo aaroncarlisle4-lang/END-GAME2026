@@ -1,0 +1,52 @@
+{
+  "finding": "Endobronchial Tumor",
+  "slug": "endobronchial_tumor",
+  "chapter": "TRACHEA & BRONCHI",
+  "source_file": "processed_clusters/trachea_bronchi/endobronchial_tumor.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neuroendocrine tumor",
+      "raw": "Neuroendocrine tumor (typical / atypical carcinoid)",
+      "frequency": null
+    },
+    {
+      "name": "Mucoepidermoid carcinoma",
+      "raw": "Mucoepidermoid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoid cystic carcinoma",
+      "raw": "Adenoid cystic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hamartoma",
+      "raw": "Hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Myoblastoma",
+      "raw": "Myoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucous gland adenoma",
+      "raw": "Mucous gland adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

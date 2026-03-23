@@ -1,0 +1,32 @@
+{
+  "finding": "A. PRERENAL = VASCULAR",
+  "slug": "a_prerenal_vascular",
+  "chapter": "B. LOSS OF PERFUSION",
+  "source_file": "processed_clusters/b_loss_of_perfusion/a_prerenal_vascular.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Arterial hypotension",
+      "raw": "Arterial hypotension (acute)",
+      "frequency": null
+    },
+    {
+      "name": "Generalized arteriosclerosis",
+      "raw": "Generalized arteriosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Atheroembolic disease",
+      "raw": "Atheroembolic disease",
+      "frequency": null
+    },
+    {
+      "name": "Benign & malignant nephrosclerosis",
+      "raw": "Benign & malignant nephrosclerosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

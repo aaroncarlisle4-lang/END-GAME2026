@@ -1,0 +1,97 @@
+{
+  "finding": "Pulmonary Edema without Cardiomegaly",
+  "slug": "pulmonary_edema_without_cardiomegaly_c60b17",
+  "chapter": "C. RIGHT UPPER LOBE",
+  "source_file": "processed_clusters/c_right_upper_lobe/pulmonary_edema_without_cardiomegaly_c60b17.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Uremia",
+      "raw": "Uremia",
+      "frequency": null
+    },
+    {
+      "name": "Drugs",
+      "raw": "Drugs",
+      "frequency": null
+    },
+    {
+      "name": "Overhydration",
+      "raw": "Overhydration",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary hemorrhage",
+      "raw": "Pulmonary hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Acute myocardial infarction, Arrhythmia",
+      "raw": "Acute myocardial infarction, Arrhythmia",
+      "frequency": null
+    },
+    {
+      "name": "ARDS, Alveolar proteinosis, Aspiration, Anaphylaxis",
+      "raw": "ARDS, Alveolar proteinosis, Aspiration, Anaphylaxis",
+      "frequency": null
+    },
+    {
+      "name": "Bleeding diathesis, Blood transfusion reaction",
+      "raw": "Bleeding diathesis, Blood transfusion reaction",
+      "frequency": null
+    },
+    {
+      "name": "CNS",
+      "raw": "CNS (increased pressure, trauma, surgery, CVA, cancer)",
+      "frequency": null
+    },
+    {
+      "name": "Drowning (near), Drug reaction",
+      "raw": "Drowning (near), Drug reaction",
+      "frequency": null
+    },
+    {
+      "name": "Embolus",
+      "raw": "Embolus (fat, thrombus)",
+      "frequency": null
+    },
+    {
+      "name": "Fluid overload, Foreign-body inhalation",
+      "raw": "Fluid overload, Foreign-body inhalation",
+      "frequency": null
+    },
+    {
+      "name": "Glomerulonephritis, Goodpasture syndrome, Gastrografin® aspiration",
+      "raw": "Glomerulonephritis, Goodpasture syndrome, Gastrografin® aspiration",
+      "frequency": null
+    },
+    {
+      "name": "High altitude, Heroin, Hypoproteinemia",
+      "raw": "High altitude, Heroin, Hypoproteinemia",
+      "frequency": null
+    },
+    {
+      "name": "Inhalation",
+      "raw": "Inhalation (SO2, smoke, CO, cadmium, silica)",
+      "frequency": null
+    },
+    {
+      "name": "Narcotics, Nitrofurantoin",
+      "raw": "Narcotics, Nitrofurantoin",
+      "frequency": null
+    },
+    {
+      "name": "Oxygen toxicity",
+      "raw": "Oxygen toxicity",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis",
+      "raw": "Pancreatitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Noncardiogenic Pulmonary Edema mnemonic:   The alphabet - - Rapid reexpansion of pneumothorax / removal of pleural effusion - Transfusion Uremia"
+}

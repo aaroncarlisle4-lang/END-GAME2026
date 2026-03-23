@@ -1,0 +1,36 @@
+{
+  "name": "BRACHIAL PLEXUS INJURY",
+  "slug": "brachial_plexus_injury",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/brachial_plexus_injury.md",
+  "definition": "most severe nerve injury of extremities",
+  "demographics": {},
+  "dominant_finding": "focal T2-hypointense cord changes ← hemosiderin",
+  "distribution": "focal T2-hyperintense cord changes ← edema of acute phase / myelomalacia in chronic",
+  "discriminating_features": [
+    "displacement of spinal cord to contralateral side ← absence of normal nerve root traction",
+    "pouchlike nerve root sleeve at site of avulsion",
+    "asymmetric slightly deformed root sleeve + nerve roots",
+    "obliteration of tip of root sleeve",
+    "traumatic meningocele"
+  ],
+  "other_features": {
+    "general": [
+      "displacement of spinal cord to contralateral side ← absence of normal nerve root traction",
+      "pouchlike nerve root sleeve at site of avulsion",
+      "asymmetric slightly deformed root sleeve + nerve roots",
+      "obliteration of tip of root sleeve",
+      "traumatic meningocele",
+      "contrast extravasation collecting in axilla",
+      "metrizamide in neural foramina"
+    ],
+    "MR": [
+      "focal T2-hyperintense cord changes ← edema of acute phase / myelomalacia in chronic",
+      "focal T2-hypointense cord changes ← hemosiderin",
+      "enhancement of morphologically normal intradural nerve root / root stump ← functional",
+      "abnormal enhancement of paraspinal (multifidus) muscle ← muscle denervation = indirect",
+      "thickening of postganglionic brachial plexus ← edema + fibrosis"
+    ]
+  },
+  "clinical": {}
+}

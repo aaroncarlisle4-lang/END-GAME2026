@@ -1,0 +1,42 @@
+{
+  "finding": "D. TRAUMA",
+  "slug": "d_trauma",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/d_trauma.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "BILATERAL with cataract",
+      "raw": "BILATERAL with cataract",
+      "frequency": null
+    },
+    {
+      "name": "Congenital rubella",
+      "raw": "Congenital rubella",
+      "frequency": null
+    },
+    {
+      "name": "Persistent hyperplastic vitreous",
+      "raw": "Persistent hyperplastic vitreous",
+      "frequency": null
+    },
+    {
+      "name": "Retinopathy of prematurity",
+      "raw": "Retinopathy of prematurity",
+      "frequency": null
+    },
+    {
+      "name": "Retinal folds",
+      "raw": "Retinal folds",
+      "frequency": null
+    },
+    {
+      "name": "Lowe syndrome",
+      "raw": "Lowe syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Microphthalmia =  congenital underdevelopment / acquired diminution of globe √  small globe + small orbit"
+}

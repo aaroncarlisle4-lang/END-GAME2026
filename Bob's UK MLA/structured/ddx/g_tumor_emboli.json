@@ -1,0 +1,87 @@
+{
+  "finding": "G. TUMOR EMBOLI",
+  "slug": "g_tumor_emboli",
+  "chapter": "C. Pneumoconiosis",
+  "source_file": "processed_clusters/c_pneumoconiosis/g_tumor_emboli.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gastric cancer",
+      "raw": "Gastric cancer",
+      "frequency": null
+    },
+    {
+      "name": "Breast cancer",
+      "raw": "Breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Renal cancer",
+      "raw": "Renal cancer",
+      "frequency": null
+    },
+    {
+      "name": "ASPIRATION of irritant substance",
+      "raw": "ASPIRATION of irritant substance",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration pneumonitis",
+      "raw": "Aspiration pneumonitis",
+      "frequency": null
+    },
+    {
+      "name": "INHALATION of toxic fumes + gases =  alveolocapillary damage → pulmonary edema + bronchitis + bronchiolitis ± complicated by atelectasis + pneumonia",
+      "raw": "INHALATION of toxic fumes + gases =  alveolocapillary damage → pulmonary edema + bronchitis + bronchiolitis ± complicated by atelectasis + pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Chronic bronchitis / bronchiolitis obliterans",
+      "raw": "Chronic bronchitis / bronchiolitis obliterans",
+      "frequency": null
+    },
+    {
+      "name": "Bronchiectasis",
+      "raw": "Bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "Emphysema",
+      "raw": "Emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Asthma",
+      "raw": "Asthma",
+      "frequency": null
+    },
+    {
+      "name": "also: sarcoidosis, hypersensitivity pneumonia",
+      "raw": "also: sarcoidosis, hypersensitivity pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Chronic thromboembolic pulmonary hypertension",
+      "raw": "Chronic thromboembolic pulmonary hypertension (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Pulmonary venoocclusive disease",
+      "raw": "Pulmonary venoocclusive disease",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic pulmonary hypertension",
+      "raw": "Idiopathic pulmonary hypertension",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Mosaic Attenuation / Perfusion =  CT imaging pattern consisting of a heterogeneous patchwork of normal and air- attenuated segments √  hypoattenuated areas with small vessels in 94% ← diminished blood flow √  hyperattenuated areas with normal / dilated arteries and enhancement in 77% ← increased perfusion The best method to differentiate between causes of mosaic attenuation is to perform expiratory imaging → thus allowing identification of areas trapping air. Pathophysiology: (a)  air trapping Cause:   any obstructive lung disease √  attenuation differences are accentuated on expiratory HRCT ◊"
+}

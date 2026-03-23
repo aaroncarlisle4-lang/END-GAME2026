@@ -1,0 +1,37 @@
+{
+  "finding": "Vaginal & Paravaginal Neoplasm",
+  "slug": "vaginal_paravaginal_neoplasm_3e87ed",
+  "chapter": "VAGINA",
+  "source_file": "processed_clusters/vagina/vaginal_paravaginal_neoplasm_3e87ed.md",
+  "quality_score": 0.667,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "PRIMARY benign",
+      "raw": "PRIMARY benign",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous hemangioma of vulva",
+      "raw": "Cavernous hemangioma of vulva",
+      "frequency": null
+    },
+    {
+      "name": "Pedunculated submucosal leiomyoma prolapsed into vagina",
+      "raw": "Pedunculated submucosal leiomyoma prolapsed into vagina",
+      "frequency": null
+    },
+    {
+      "name": "Primary malignant Frequency:   1-2% of all gynecologic malignancies; 20% of all vaginal malignancies",
+      "raw": "Primary malignant Frequency:   1-2% of all gynecologic malignancies; 20% of all vaginal malignancies",
+      "frequency": "2%"
+    },
+    {
+      "name": "Vaginal carcinoma",
+      "raw": "Vaginal carcinoma (a)  squamous cell carcinoma (90%)",
+      "frequency": "90%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

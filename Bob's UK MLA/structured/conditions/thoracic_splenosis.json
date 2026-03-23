@@ -1,0 +1,25 @@
+{
+  "name": "THORACIC SPLENOSIS",
+  "slug": "thoracic_splenosis",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/thoracic_splenosis.md",
+  "definition": "autotransplantation of splenic tissue to pleural space following thoracoabdominal trauma;",
+  "demographics": {
+    "Frequency": "18% with injury of spleen and diaphragm by blunt trauma; more common in"
+  },
+  "dominant_finding": "one or several nodules in left pleura / fissures measuring several mm to 6 cm",
+  "distribution": "",
+  "discriminating_features": [
+    "one or several nodules in left pleura / fissures measuring several mm to 6 cm",
+    "splenectomy / splenules in left upper quadrant",
+    "positive 99mTc-labeled heat-damaged RBCs (most sensitive), 99mTc-sulfur colloid scan /"
+  ],
+  "other_features": {
+    "general": [
+      "one or several nodules in left pleura / fissures measuring several mm to 6 cm",
+      "splenectomy / splenules in left upper quadrant",
+      "positive 99mTc-labeled heat-damaged RBCs (most sensitive), 99mTc-sulfur colloid scan /"
+    ]
+  },
+  "clinical": {}
+}

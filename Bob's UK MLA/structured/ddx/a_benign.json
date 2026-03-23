@@ -1,0 +1,52 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign",
+  "chapter": "PHARYNX",
+  "source_file": "processed_clusters/pharynx/a_benign.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Asymmetric pterygoid venous plexus",
+      "raw": "Asymmetric pterygoid venous plexus",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Atypical second branchial cleft cyst",
+      "raw": "Atypical second branchial cleft cyst",
+      "frequency": null
+    },
+    {
+      "name": "Third branchial arch anomaly",
+      "raw": "Third branchial arch anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Pleomorphic adenoma of ectopic salivary tissue / of deep lobe of parotid gland",
+      "raw": "Pleomorphic adenoma of ectopic salivary tissue / of deep lobe of parotid gland (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Schwannoma, neurofibroma",
+      "raw": "Schwannoma, neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Paraganglioma",
+      "raw": "Paraganglioma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  racemose, enhancing area along medial border of lateral pterygoid muscle Origin:   pharyngitis (most common), dental infection, parotid calculus disease, penetrating trauma √  exits pharynx at level of tonsillar fossa √  exits pharynx at piriform sinus Origin:   usually from cranial nerve X √  carotid artery pushed anteriorly √  posterior to carotid artery √  extremely vascular (numerous flow voids)"
+}

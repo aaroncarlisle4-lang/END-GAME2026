@@ -1,0 +1,52 @@
+{
+  "finding": "Lymphangiomatosis Of Bone (DDx)",
+  "slug": "lymphangiomatosis_of_bone_ddx",
+  "chapter": "Lymphangiomatosis Of Bone",
+  "source_file": "processed_clusters/lymphangiomatosis_of_bone/lymphangiomatosis_of_bone_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "fibrous dysplasia",
+      "raw": "fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "brown tumor of hyperparathyroidism",
+      "raw": "brown tumor of hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "infection",
+      "raw": "infection",
+      "frequency": null
+    },
+    {
+      "name": "trauma",
+      "raw": "trauma",
+      "frequency": null
+    },
+    {
+      "name": "tumor",
+      "raw": "tumor",
+      "frequency": null
+    },
+    {
+      "name": "gout",
+      "raw": "gout",
+      "frequency": null
+    },
+    {
+      "name": "scleroderma",
+      "raw": "scleroderma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "varying SI depending on disease activity | hypointense soft tissue around osteolytic area on T1WI | hyperintense soft tissue around osteolytic area on T2WI | minimal contrast enhancement"
+}

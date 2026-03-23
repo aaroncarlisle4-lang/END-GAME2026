@@ -1,0 +1,152 @@
+{
+  "finding": "Blunt Trauma to Liver (20%",
+  "slug": "blunt_trauma_to_liver_20",
+  "chapter": "BEZOAR",
+  "source_file": "processed_clusters/bezoar/blunt_trauma_to_liver_20.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "clinical manifestation often delayed by days / weeks",
+      "raw": "clinical manifestation often delayed by days / weeks",
+      "frequency": null
+    },
+    {
+      "name": "beam-hardening artifact from adjacent ribs / from air-contrast level in stomach",
+      "raw": "beam-hardening artifact from adjacent ribs / from air-contrast level in stomach",
+      "frequency": null
+    },
+    {
+      "name": "Focal fatty infiltration",
+      "raw": "Focal fatty infiltration",
+      "frequency": null
+    },
+    {
+      "name": "delayed hemorrhage",
+      "raw": "delayed hemorrhage(2-6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "abscess (0.6-4%) ← superinfection of hematoma / biloma / devascularized hepatic parenchyma",
+      "raw": "abscess (0.6-4%) ← superinfection of hematoma / biloma / devascularized hepatic parenchyma",
+      "frequency": "4%"
+    },
+    {
+      "name": "pseudoaneurysm",
+      "raw": "pseudoaneurysm (1%) → hemobilia, melena, hematemesis (decompression into biliary system)",
+      "frequency": "1%"
+    },
+    {
+      "name": "bile peritonitis",
+      "raw": "bile peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "biliary fistula: external (to skin / hollow viscus), internal (to intestine / bronchus), biliovascular (to hepatic artery, portal / hepatic vein) Rx:     conservative treatment in up to 80% in adults + 97% in children; transcatheter embolization",
+      "raw": "biliary fistula: external (to skin / hollow viscus), internal (to intestine / bronchus), biliovascular (to hepatic artery, portal / hepatic vein) Rx:     conservative treatment in up to 80% in adults + 97% in children; transcatheter embolization",
+      "frequency": "80%"
+    },
+    {
+      "name": "crush / compression injury: direct force; near spine",
+      "raw": "crush / compression injury: direct force; near spine",
+      "frequency": null
+    },
+    {
+      "name": "burst injury: sudden increase in intraluminal pressure",
+      "raw": "burst injury: sudden increase in intraluminal pressure",
+      "frequency": null
+    },
+    {
+      "name": "shear injury: rapid deceleration at points of transition between mobile and fixed bowel portions Location:  jejunum distal to ligament of Treitz > duodenum > ascending colon at ileocecal valve > descending colon > distal ileum near ileocecal valve",
+      "raw": "shear injury: rapid deceleration at points of transition between mobile and fixed bowel portions Location:  jejunum distal to ligament of Treitz > duodenum > ascending colon at ileocecal valve > descending colon > distal ileum near ileocecal valve",
+      "frequency": null
+    },
+    {
+      "name": "Classic triad (in only 33%):",
+      "raw": "Classic triad (in only 33%):",
+      "frequency": "33%"
+    },
+    {
+      "name": "abdominal pain + tenderness",
+      "raw": "abdominal pain + tenderness (100% sensitive)",
+      "frequency": "100%"
+    },
+    {
+      "name": "abdominal rigidity; absent / decreased bowel sounds",
+      "raw": "abdominal rigidity; absent / decreased bowel sounds",
+      "frequency": null
+    },
+    {
+      "name": "↑ temperature + heart rate; ↓ urine output over 24 hours",
+      "raw": "↑ temperature + heart rate; ↓ urine output over 24 hours",
+      "frequency": null
+    },
+    {
+      "name": "lap belt ecchymosis",
+      "raw": "lap belt ecchymosis (not highly correlated)",
+      "frequency": null
+    },
+    {
+      "name": "Lavage:  90% sensitive for hemoperitoneum → compromises interpretation of CT exam N.B.:     clinical signs + symptoms may be delayed for 24 hours",
+      "raw": "Lavage:  90% sensitive for hemoperitoneum → compromises interpretation of CT exam N.B.:     clinical signs + symptoms may be delayed for 24 hours (increasing mortality to 65%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "II  parenchymal injury without major duct injury",
+      "raw": "II  parenchymal injury without major duct injury",
+      "frequency": null
+    },
+    {
+      "name": "III  major ductal injury",
+      "raw": "III  major ductal injury",
+      "frequency": null
+    },
+    {
+      "name": "IV  severe crush injury",
+      "raw": "IV  severe crush injury",
+      "frequency": null
+    },
+    {
+      "name": "epigastric/ diffuse abdominal pain, vomiting",
+      "raw": "epigastric/ diffuse abdominal pain, vomiting",
+      "frequency": null
+    },
+    {
+      "name": "leukocytosis, ↑ serum amylase activity",
+      "raw": "leukocytosis, ↑ serum amylase activity",
+      "frequency": null
+    },
+    {
+      "name": "contusion = diffuse / localized hypoattenuating area within normally enhancing parenchyma",
+      "raw": "contusion = diffuse / localized hypoattenuating area within normally enhancing parenchyma",
+      "frequency": null
+    },
+    {
+      "name": "laceration (actual site of laceration difficult to visualize) N.B.:   pancreatic laceration of > 50% of pancreatic diameter suggests ductal injury. Evaluation of the integrity of the main pancreatic duct remains the critical role of MRCP!",
+      "raw": "laceration (actual site of laceration difficult to visualize) N.B.:   pancreatic laceration of > 50% of pancreatic diameter suggests ductal injury. Evaluation of the integrity of the main pancreatic duct remains the critical role of MRCP!",
+      "frequency": "50%"
+    },
+    {
+      "name": "transection (fracture) = hypoattenuating linear findings with separated parenchyma",
+      "raw": "transection (fracture) = hypoattenuating linear findings with separated parenchyma",
+      "frequency": null
+    },
+    {
+      "name": "Morbidity:  11-62%",
+      "raw": "Morbidity:  11-62%",
+      "frequency": "62%"
+    },
+    {
+      "name": "Mortality:  5%",
+      "raw": "Mortality:  5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "Rx:   I + II  conservative management",
+      "raw": "Rx:   I + II  conservative management",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   2nd most frequently injured abdominal viscus Associated with:   splenic injury in 45% Location:  right (posterior segment) > left lobe Site:     perivascular, paralleling right + middle hepatic arteries + posterior branches of right portal vein, avulsion of right hepatic vein from IVC (13%) ◊  Left lobe injuries are more often associated with damage to duodenum, pancreas, transverse colon CECT: √  liver laceration = predominantly irregular linear branching / round regions of low attenuation: (a) superficial ≤ 3 cm deep; (b) > 3 cm in depth ◊  Most frequently identified injury pat"
+}

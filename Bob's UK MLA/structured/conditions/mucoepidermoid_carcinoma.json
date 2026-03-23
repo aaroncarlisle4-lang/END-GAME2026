@@ -1,0 +1,38 @@
+{
+  "name": "MUCOEPIDERMOID CARCINOMA",
+  "slug": "mucoepidermoid_carcinoma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/mucoepidermoid_carcinoma.md",
+  "definition": "",
+  "demographics": {
+    "Path": "arises from intercalated ducts of seromucinous glands",
+    "Histo": "composed of a mixture of 3 cells: mucin-secreting cells + squamous cells + mucous",
+    "Age": "30-50 years",
+    "Prevalence": "~100 cases",
+    "Location": "epiglottis (most common)"
+  },
+  "dominant_finding": "may contain cystic low-attenuating areas",
+  "distribution": "epiglottis (most common)",
+  "discriminating_features": [
+    "may contain cystic low-attenuating areas",
+    "focal calcifications (rare)",
+    "well-circumscribed parotid mass",
+    "hypo- to isointense on T1WI",
+    "hyperintense on T2WI"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "may contain cystic low-attenuating areas",
+      "focal calcifications (rare)",
+      "well-circumscribed parotid mass",
+      "hypo- to isointense on T1WI",
+      "hyperintense on T2WI",
+      "infiltrating poorly marginated, more solid, relatively homogeneous lesion with few"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "variable (well-encapsulated low-grade to infiltrating highly aggressive malignancy)",
+    "Rx": "complete surgical removal"
+  }
+}

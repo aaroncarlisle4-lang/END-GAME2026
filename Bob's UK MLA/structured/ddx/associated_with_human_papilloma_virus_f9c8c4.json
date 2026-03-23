@@ -1,0 +1,39 @@
+{
+  "finding": "Associated with: human papilloma virus",
+  "slug": "associated_with_human_papilloma_virus_f9c8c4",
+  "chapter": "VAGINA",
+  "source_file": "processed_clusters/vagina/associated_with_human_papilloma_virus_f9c8c4.md",
+  "quality_score": 0.733,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma (3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Sarcoma (1%): rhabdomyosarcoma",
+      "raw": "Sarcoma (1%): rhabdomyosarcoma",
+      "frequency": "1%"
+    },
+    {
+      "name": "Adenoid cystic carcinoma of Bartholin gland",
+      "raw": "Adenoid cystic carcinoma of Bartholin gland",
+      "frequency": null
+    },
+    {
+      "name": "SECONDARY MALIGNANT",
+      "raw": "SECONDARY MALIGNANT",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Melanoma": [],
+    "Sarcoma (1%): rhabdomyosarcoma": [],
+    "Adenoid cystic carcinoma of Bartholin gland": [
+      "(b)  adenocarcinoma (9%) Frequency:   80% of all vaginal malignancies ← direct extension from bladder, rectum, cervix, uterus"
+    ],
+    "SECONDARY MALIGNANT": []
+  },
+  "context": "(b)  adenocarcinoma (9%) Frequency:   80% of all vaginal malignancies ← direct extension from bladder, rectum, cervix, uterus"
+}

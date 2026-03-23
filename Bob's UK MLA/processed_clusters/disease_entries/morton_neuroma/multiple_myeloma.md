@@ -1,0 +1,69 @@
+# Disease: MULTIPLE MYELOMA
+
+**Source section:** MORTON NEUROMA
+
+## Definition
+
+hematologic malignancy characterized by monoclonal proliferation of mature plasma cells focal proliferation of malignant plasma cells without diffuse bone marrow involvement =
+
+## Key Facts
+
+- **Frequency:** 10% of all hematologic malignancies
+- **Incidence:** 22,350 new patients + 10,710 deaths in USA (2013)
+- **Histo:** normal / pleomorphic plasma cells (not PATHOGNOMONIC), may be mistaken for
+- **Genetics:** deletion of chromosome 13q14 (del13q14), amplification of chromosome 1q21
+- **Associated with:** POEMS syndrome
+- **Age:** 5th-7th decade; > 60 years (in 70%)
+
+## Imaging Findings
+
+### General
+
+- sparing of posterior elements (no red marrow) (DDx: metastatic disease)
+- paraspinal soft-tissue mass with extradural extension
+- scalloping of anterior margin of vertebral bodies (osseous pressure from adjacent
+- generalized osteopenia only (15%) with accentuation of trabecular pattern, especially in spine
+- widespread punched-out osteolytic lesions (skull, long bones) with endosteal scalloping and
+- diffuse osteolysis (pelvis, sacrum)
+- expansile osteolytic lesions (ballooning) in ribs, pelvis, long bones
+- soft-tissue mass adjacent to bone destruction (= extrapleural + paraspinal mass adjacent to
+- periosteal new-bone formation exceedingly rare
+- involvement of mandible (rarely affected by metastatic disease)
+- sclerosis may occur after chemotherapy, radiotherapy, fluoride administration
+- sclerotic form of multiple myeloma (1-3%)
+- osteosclerotic lesions mimicking metastatic prostate carcinoma
+- pattern of multiple myeloma infiltration:
+- normal marrow
+- micronodular pattern = variegated / salt-and-pepper
+- focal pattern
+- diffuse pattern
+- hypointense multiple focal areas on T1WI (25%)
+- hyperintense multiple focal areas on T2WI (53%)
+- absence of fatty infiltration (nonspecific)
+- metabolic activity of bone lesions
+- extraosseous manifestations of disease
+- quantification of marrow metabolic activity (SUV)
+- generalized deossification without discrete tumors
+- vertebral flattening
+- solitary "bubbly" osteolytic grossly expansile lesion replacing cancellous bone
+- poorly defined margins, Swiss-cheese pattern
+- hollow vertebral body / pedicle = partly preserved / sclerotic cortical bone
+- frequently pathologic fracture (collapse of vertebra)
+
+### MR
+
+- low signal intensity on T1WI + high SI on T2WI
+- homogeneous marked enhancement
+
+## Clinical
+
+- **Spread:** to extramedullary sites (in 70%)
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

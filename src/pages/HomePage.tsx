@@ -110,20 +110,6 @@ export function HomePage() {
         <p className="text-gray-500 mt-1">Select a section to begin studying</p>
       </div>
 
-      {/* Long Cases */}
-      <SectionGateway
-        title="Long Cases"
-        subtitle="Full reporting format — findings, interpretation, diagnosis, differentials, management"
-        icon={BookOpen}
-        accent="text-teal-700"
-        accentBg="bg-teal-50"
-        accentBorder="border-teal-200"
-        categories={longCases}
-        defaultOpen={true}
-      />
-
-      <ManagementFormula />
-
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {/* Top 3 Differentials */}
         <Link
@@ -183,8 +169,22 @@ export function HomePage() {
         accentBg="bg-amber-50"
         accentBorder="border-amber-200"
         categories={rapidCases}
-        defaultOpen={true}
+        defaultOpen={false}
       />
+
+      {/* Long Cases */}
+      <SectionGateway
+        title="Long Cases"
+        subtitle="Full reporting format — findings, interpretation, diagnosis, differentials, management"
+        icon={BookOpen}
+        accent="text-teal-700"
+        accentBg="bg-teal-50"
+        accentBorder="border-teal-200"
+        categories={longCases}
+        defaultOpen={false}
+      />
+
+      <ManagementFormula />
     </div>
   );
 }

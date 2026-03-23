@@ -1,0 +1,32 @@
+{
+  "name": "CALCIFIC LONGUS COLLI TENDINITIS",
+  "slug": "calcific_longus_colli_tendinitis",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/calcific_longus_colli_tendinitis.md",
+  "definition": "ACUTE CALCIFIC RETROPHARYNGEAL TENDINITIS calcification anterior to C1-C2 ← deposition of calcium hydroxyapatite",
+  "demographics": {
+    "Location": "near insertion of longus colli tendon in close proximity to anterior arch of C1"
+  },
+  "dominant_finding": "prevertebral / retropharyngeal soft-tissue swelling",
+  "distribution": "near insertion of longus colli tendon in close proximity to anterior arch of C1",
+  "discriminating_features": [
+    "prevertebral / retropharyngeal soft-tissue swelling",
+    "amorphous calcification anterior to C1-C2 (CT most sensitive)",
+    "fluid originating in prevertebral space ± extension to retropharyngeal space:",
+    "retropharyngeal space smoothly expanded in all directions from C1 tapering inferiorly to",
+    "effusions may involve both lateral atlantoaxial joints"
+  ],
+  "other_features": {
+    "general": [
+      "prevertebral / retropharyngeal soft-tissue swelling",
+      "amorphous calcification anterior to C1-C2 (CT most sensitive)",
+      "fluid originating in prevertebral space ± extension to retropharyngeal space:",
+      "retropharyngeal space smoothly expanded in all directions from C1 tapering inferiorly to",
+      "effusions may involve both lateral atlantoaxial joints",
+      "no rimlike enhancement"
+    ]
+  },
+  "clinical": {
+    "Rx": "antiinflammatory medication"
+  }
+}

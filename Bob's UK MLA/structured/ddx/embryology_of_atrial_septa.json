@@ -1,0 +1,57 @@
+{
+  "finding": "Embryology of Atrial Septa",
+  "slug": "embryology_of_atrial_septa",
+  "chapter": "ATRIA",
+  "source_file": "processed_clusters/atria/embryology_of_atrial_septa.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Septum primum = thin partition dividing primitive atrium into right and left atria at 4th week; membrane grows from dorsal atrial wall toward endocardial cushion → ultimately forms thin flap valve of fossa ovalis",
+      "raw": "Septum primum = thin partition dividing primitive atrium into right and left atria at 4th week; membrane grows from dorsal atrial wall toward endocardial cushion → ultimately forms thin flap valve of fossa ovalis",
+      "frequency": null
+    },
+    {
+      "name": "Ostium primum = temporary orifice between septum primum + endocardial cushions close to AV valves; it becomes obliterated by 5th week",
+      "raw": "Ostium primum = temporary orifice between septum primum + endocardial cushions close to AV valves; it becomes obliterated by 5th week",
+      "frequency": null
+    },
+    {
+      "name": "Ostium secundum = multiple small coalescing fenestrations in center of septum primum",
+      "raw": "Ostium secundum = multiple small coalescing fenestrations in center of septum primum",
+      "frequency": null
+    },
+    {
+      "name": "Septum secundum = stiff membrane developing on right side of septum primum growing from right atrial roof → ultimately forms thicker limbus of fossa ovalis",
+      "raw": "Septum secundum = stiff membrane developing on right side of septum primum growing from right atrial roof → ultimately forms thicker limbus of fossa ovalis",
+      "frequency": null
+    },
+    {
+      "name": "Foramen ovale = orifice limited by septum secundum + septum primum",
+      "raw": "Foramen ovale = orifice limited by septum secundum + septum primum",
+      "frequency": null
+    },
+    {
+      "name": "Foramen ovale flap = lower edge of septum primum (patent in 6%, probe-patent in 25%); not considered an ASD",
+      "raw": "Foramen ovale flap = lower edge of septum primum (patent in 6%, probe-patent in 25%); not considered an ASD",
+      "frequency": "6%"
+    },
+    {
+      "name": "appendage",
+      "raw": "appendage",
+      "frequency": null
+    },
+    {
+      "name": "venous part",
+      "raw": "venous part",
+      "frequency": null
+    },
+    {
+      "name": "vestibule",
+      "raw": "vestibule",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Right Atrium (RA) Components: Embryology:   originates from primitive trabeculated RA (persists as RA appendage) + from sinus venosus forming smooth-walled portion of RA Right Atrial Appendage =  triangular superior extension of RA that wraps around aortic root √  pyramidal shape with narrow base Rx:  right atrial lead tip is typically placed at right atrial appendage for pacemaker / internal cardiac defibrillator Sinus Venosus ›  located in posterolateral wall of RA between orifices of SVC and IVC (a)  right horn: gives rise to crista terminalis, eustachian ridge, thebesian valve (b)  left ho"
+}

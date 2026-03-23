@@ -1,0 +1,52 @@
+{
+  "finding": "D. Benign disease",
+  "slug": "d_benign_disease_470990",
+  "chapter": "B. 99mTc DTPA",
+  "source_file": "processed_clusters/b_99mtc_dtpa/d_benign_disease_470990.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cyst with passive diffusion: lactational duct, renal, ovarian, pleuropericardial, bronchogenic",
+      "raw": "Cyst with passive diffusion: lactational duct, renal, ovarian, pleuropericardial, bronchogenic",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation: lung, pericardium, joint, sinus, wound healing, etc.",
+      "raw": "Inflammation: lung, pericardium, joint, sinus, wound healing, etc.",
+      "frequency": null
+    },
+    {
+      "name": "Third spacing: pericardial effusion, pleural effusion, ascites, scrotal hydrocele",
+      "raw": "Third spacing: pericardial effusion, pleural effusion, ascites, scrotal hydrocele",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm: meningioma, non-small cell lung carcinoma, teratoma, salivary gland + ovarian + gastric adenocarcinoma",
+      "raw": "Neoplasm: meningioma, non-small cell lung carcinoma, teratoma, salivary gland + ovarian + gastric adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Contamination: urine, feces, drooling",
+      "raw": "Contamination: urine, feces, drooling",
+      "frequency": null
+    },
+    {
+      "name": "No interference with flooded iodine pool / thyroid meds",
+      "raw": "No interference with flooded iodine pool / thyroid meds",
+      "frequency": null
+    },
+    {
+      "name": "Measures total iodine content",
+      "raw": "Measures total iodine content",
+      "frequency": null
+    },
+    {
+      "name": "Low radiation exposure (15 mrad) acceptable for children + pregnant women",
+      "raw": "Low radiation exposure (15 mrad) acceptable for children + pregnant women",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Iodine Fluorescence Imaging Technique:  collimated beam of 60 keV gamma photons from an 241Am source is directed at thyroid, which results in production of K-characteristic x-rays of 28.5 keV; x-rays are detected by semiconductor detector Advantages: Disadvantage:   dedicated equipment necessary"
+}

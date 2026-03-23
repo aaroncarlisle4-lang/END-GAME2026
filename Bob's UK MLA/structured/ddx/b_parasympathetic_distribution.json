@@ -1,0 +1,77 @@
+{
+  "finding": "B. PARASYMPATHETIC DISTRIBUTION",
+  "slug": "b_parasympathetic_distribution",
+  "chapter": "OTOMASTOIDITIS",
+  "source_file": "processed_clusters/otomastoiditis/b_parasympathetic_distribution.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Associated with vagal nerve",
+      "raw": "Associated with vagal nerve",
+      "frequency": null
+    },
+    {
+      "name": "Associated with aorticosympathetic chain in thoracolumbar region from aortic arch to urinary bladder, including organ of Zuckerkandl at origin of inferior mesenteric artery",
+      "raw": "Associated with aorticosympathetic chain in thoracolumbar region from aortic arch to urinary bladder, including organ of Zuckerkandl at origin of inferior mesenteric artery",
+      "frequency": null
+    },
+    {
+      "name": "Associated with visceral organs Histo:   acidophil-epithelioid cells in contact with endothelial cells of a vessel; storage of catecholamines (usually nonfunctioning); histologically similar to pheochromocytoma",
+      "raw": "Associated with visceral organs Histo:   acidophil-epithelioid cells in contact with endothelial cells of a vessel; storage of catecholamines (usually nonfunctioning); histologically similar to pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "tumor may secrete catecholamine in 40% (= functional paraganglioma); proportion of hormonally active tumors high for pheochromocytomas, intermediate for aorticosympathetic paragangliomas, low for parasympathetic paragangliomas",
+      "raw": "tumor may secrete catecholamine in 40% (= functional paraganglioma); proportion of hormonally active tumors high for pheochromocytomas, intermediate for aorticosympathetic paragangliomas, low for parasympathetic paragangliomas",
+      "frequency": "40%"
+    },
+    {
+      "name": "paroxysmal / permanent hypertension ← secretion of vasopressor amines responsible for:",
+      "raw": "paroxysmal / permanent hypertension ← secretion of vasopressor amines responsible for:",
+      "frequency": null
+    },
+    {
+      "name": "elevated urinary metanephrine / vanillylmandelic acid",
+      "raw": "elevated urinary metanephrine / vanillylmandelic acid",
+      "frequency": null
+    },
+    {
+      "name": "pheochromocytomas secrete norepinephrine + epinephrine, extraadrenal paragangliomas secrete only norepinephrine, some paragangliomas produce dopamine",
+      "raw": "pheochromocytomas secrete norepinephrine + epinephrine, extraadrenal paragangliomas secrete only norepinephrine, some paragangliomas produce dopamine",
+      "frequency": null
+    },
+    {
+      "name": "determination of free norepinephrine most sensitive with gas chromatography / high-pressure liquid chromatography (HPLC) performed on 24-hour urine specimens",
+      "raw": "determination of free norepinephrine most sensitive with gas chromatography / high-pressure liquid chromatography (HPLC) performed on 24-hour urine specimens",
+      "frequency": null
+    },
+    {
+      "name": "Carotid body",
+      "raw": "Carotid body",
+      "frequency": null
+    },
+    {
+      "name": "Jugular foramen",
+      "raw": "Jugular foramen",
+      "frequency": null
+    },
+    {
+      "name": "Path of vagus nerve",
+      "raw": "Path of vagus nerve",
+      "frequency": null
+    },
+    {
+      "name": "Middle ear",
+      "raw": "Middle ear",
+      "frequency": null
+    },
+    {
+      "name": "painless pulsatile firm neck mass below the angle of the jaw, laterally mobile but vertically fixed Location:   within / outside adventitial layer of CCA at level of carotid bifurcation, commonly along posteromedial wall; bilateral in 5% with sporadic occurrence, in 32% with autosomal dominant transmission",
+      "raw": "painless pulsatile firm neck mass below the angle of the jaw, laterally mobile but vertically fixed Location:   within / outside adventitial layer of CCA at level of carotid bifurcation, commonly along posteromedial wall; bilateral in 5% with sporadic occurrence, in 32% with autosomal dominant transmission",
+      "frequency": "5%"
+    }
+  ],
+  "criteria": {},
+  "context": "Peak age:   5th-6th decade (range, 6 months to 80 years); M÷F = 1÷1 ›  pain in head (headache) ›  pallor ›  perspiration (excessive sweating) ›  palpitations Location of functioning paragangliomas: (a)  adrenal medulla (> 80%) (b)  extraadrenal intraabdominal (8-16%) (c)  extraadrenal in head & neck (2-4%) Four primary sites in head & neck: Less common sites in head & neck: sella turcica, pineal gland, cavernous sinus, larynx (laryngeal branches of vagus nerve), orbit (ciliary ganglion of the eye), thyroid gland, nasopharynx, mandible, soft palate, face, cheek (d)  spinal paraganglioma (e)  mu"
+}

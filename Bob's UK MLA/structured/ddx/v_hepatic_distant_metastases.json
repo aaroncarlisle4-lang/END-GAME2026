@@ -1,0 +1,77 @@
+{
+  "finding": "V hepatic / distant metastases",
+  "slug": "v_hepatic_distant_metastases",
+  "chapter": "GALLBLADDER ADENOMA",
+  "source_file": "processed_clusters/gallbladder_adenoma/v_hepatic_distant_metastases.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Early diagnosis usually unsuspected ← lack of specific signs + symptoms:",
+      "raw": "Early diagnosis usually unsuspected ← lack of specific signs + symptoms:",
+      "frequency": null
+    },
+    {
+      "name": "history of past GB disease",
+      "raw": "history of past GB disease (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "malaise, vomiting, weight loss; chronic RUQ pain",
+      "raw": "malaise, vomiting, weight loss; chronic RUQ pain (54-76%)",
+      "frequency": "76%"
+    },
+    {
+      "name": "obstructive jaundice",
+      "raw": "obstructive jaundice (35-74%)",
+      "frequency": "74%"
+    },
+    {
+      "name": "abnormal liver function tests",
+      "raw": "abnormal liver function tests (20-75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "± elevated α-fetoprotein and CEA",
+      "raw": "± elevated α-fetoprotein and CEA",
+      "frequency": null
+    },
+    {
+      "name": "Xanthogranulomatous cholecystitis",
+      "raw": "Xanthogranulomatous cholecystitis (lobulated mass filling gallbladder + stones)",
+      "frequency": null
+    },
+    {
+      "name": "Acute / chronic cholecystitis",
+      "raw": "Acute / chronic cholecystitis (generalized gallbladder wall thickening < 10 mm)",
+      "frequency": null
+    },
+    {
+      "name": "Liver tumor invading gallbladder fossa",
+      "raw": "Liver tumor invading gallbladder fossa",
+      "frequency": null
+    },
+    {
+      "name": "Tumors from adjacent organs: pancreas, duodenum",
+      "raw": "Tumors from adjacent organs: pancreas, duodenum",
+      "frequency": null
+    },
+    {
+      "name": "Metastases: melanoma, leukemia, lymphoma",
+      "raw": "Metastases: melanoma, leukemia, lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Polyps: cholesterol ~, hyperplastic ~, granulation polyp",
+      "raw": "Polyps: cholesterol ~, hyperplastic ~, granulation polyp",
+      "frequency": null
+    },
+    {
+      "name": "Adenomyomatosis",
+      "raw": "Adenomyomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   fundus (60%), body (30%), neck (10%) Growth types: √  mass replacing the gallbladder (37-70%) with engulfed gallstones √  irregular eccentric thickening of GB wall (20-30%) ← submucosal spread: √  focal (59%) / diffuse (41%) wall thickening DDx:  acute / chronic inflammation (usually < 10 mm) √  intraluminal polypoid / fungating \"cauliflower-like\" mass with wide base (15-25%) √  pericholecystic infiltration: in 76% focal, in 24% diffuse √  dilatation of biliary tree (38-70%): √  infiltrative tumor growth along cystic duct √  lymph node enlargement causing biliary obstruction √  int"
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "Bilateral Adrenal Hemorrhage",
+  "slug": "bilateral_adrenal_hemorrhage_7e7e30",
+  "chapter": "E. OTHERS",
+  "source_file": "processed_clusters/e_others/bilateral_adrenal_hemorrhage_7e7e30.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NEONATAL STRESS ◊  Most common neonatal lesion of adrenal gland",
+      "raw": "NEONATAL STRESS ◊  Most common neonatal lesion of adrenal gland",
+      "frequency": "most common"
+    },
+    {
+      "name": "Difficult labor / delivery: forceps / breech delivery",
+      "raw": "Difficult labor / delivery: forceps / breech delivery",
+      "frequency": null
+    },
+    {
+      "name": "Asphyxia / hypoxia ← prematurity",
+      "raw": "Asphyxia / hypoxia ← prematurity",
+      "frequency": null
+    },
+    {
+      "name": "Septicemia",
+      "raw": "Septicemia",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic disorders: DIC, hypoprothrombinemia",
+      "raw": "Hemorrhagic disorders: DIC, hypoprothrombinemia",
+      "frequency": null
+    },
+    {
+      "name": "Extracorporeal membrane oxygenation",
+      "raw": "Extracorporeal membrane oxygenation (in 4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Thrombus extending from renal vein thrombosis",
+      "raw": "Thrombus extending from renal vein thrombosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

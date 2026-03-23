@@ -1,0 +1,35 @@
+{
+  "name": "ALPHA-1 ANTITRYPSIN DEFICIENCY",
+  "slug": "alpha_1_antitrypsin_deficiency",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/alpha_1_antitrypsin_deficiency.md",
+  "definition": "rare autosomal recessive disorder",
+  "demographics": {
+    "Age": "early age of onset (20-30 years); M÷F = 1÷1"
+  },
+  "dominant_finding": "severe panacinar emphysema with basilar predominance ← gravitational distribution of",
+  "distribution": "severe panacinar emphysema with basilar predominance ← gravitational distribution of",
+  "discriminating_features": [
+    "severe panacinar emphysema with basilar predominance ← gravitational distribution of",
+    "↓ in size + ↓ in number of pulmonary vessels in lower lobes",
+    "redistribution of blood flow to unaffected upper lung zones",
+    "bullae at both lung bases",
+    "marked flattening of diaphragm"
+  ],
+  "other_features": {
+    "general": [
+      "severe panacinar emphysema with basilar predominance ← gravitational distribution of",
+      "↓ in size + ↓ in number of pulmonary vessels in lower lobes",
+      "redistribution of blood flow to unaffected upper lung zones",
+      "bullae at both lung bases",
+      "marked flattening of diaphragm",
+      "minimal diaphragmatic excursion",
+      "multilobar cystic bronchiectasis (40%)",
+      "hepatopulmonary syndrome"
+    ]
+  },
+  "clinical": {
+    "Cx": "hepatic cirrhosis (in homozygotic individuals)",
+    "Prognosis": "15-20-year decrease in longevity in smokers relative to nonsmokers"
+  }
+}

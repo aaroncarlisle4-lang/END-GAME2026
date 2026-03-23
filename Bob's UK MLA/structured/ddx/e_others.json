@@ -1,0 +1,72 @@
+{
+  "finding": "E. OTHERS",
+  "slug": "e_others",
+  "chapter": "Gastric Atony",
+  "source_file": "processed_clusters/gastric_atony/e_others.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Perigastric adhesions: normal mucosa, no interval change, normal peristalsis",
+      "raw": "Perigastric adhesions: normal mucosa, no interval change, normal peristalsis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Pseudolymphoma",
+      "raw": "Pseudolymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Exogastric mass: hepatomegaly, pancreatic pseudocyst",
+      "raw": "Exogastric mass: hepatomegaly, pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Scirrhous carcinoma of stomach",
+      "raw": "Scirrhous carcinoma of stomach",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Infiltration from adjacent neoplasm",
+      "raw": "Infiltration from adjacent neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (breast carcinoma)",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Acids",
+      "raw": "Acids (corrosive ingestion)",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease",
+      "raw": "Granulomatous disease (TB, sarcoidosis, Crohn)",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic gastroenteritis",
+      "raw": "Eosinophilic gastroenteritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

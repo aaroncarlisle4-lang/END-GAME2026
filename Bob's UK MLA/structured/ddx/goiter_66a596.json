@@ -1,0 +1,32 @@
+{
+  "finding": "GOITER",
+  "slug": "goiter_66a596",
+  "chapter": "GENICULATE HEMANGIOMA",
+  "source_file": "processed_clusters/geniculate_hemangioma/goiter_66a596.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "low serum T4",
+      "raw": "low serum T4",
+      "frequency": null
+    },
+    {
+      "name": "elevated T4, suppressed TSH",
+      "raw": "elevated T4, suppressed TSH",
+      "frequency": null
+    },
+    {
+      "name": "Surgery → hypothyroidism in 11%",
+      "raw": "Surgery → hypothyroidism in 11%",
+      "frequency": "11%"
+    },
+    {
+      "name": "Percutaneous ethanol injection → hypothyroidism in < 1%, → transient damage of recurrent laryngeal nerve in 4%",
+      "raw": "Percutaneous ethanol injection → hypothyroidism in < 1%, → transient damage of recurrent laryngeal nerve in 4%",
+      "frequency": "1%"
+    }
+  ],
+  "criteria": {},
+  "context": "[gutteria, Latin = throat] Definition:   visible enlargement of thyroid gland Volume definition:   > 18 mL for women; > 25 mL for men Clinical classification: Class I: palpable but not visible in normal posture of head Class II: palpable and easily visible Class III: very large + retrosternal with compression marks Adenomatous Goiter =  MULTINODULAR GOITER US: (89% sensitive, 84% specific, 73% positive predictive value, 94% negative predictive value) √  increased size + asymmetry of gland √  multiple 1-4-cm solid nodules √  areas of hemorrhage + necrosis √  coarse calcifications may occur with"
+}

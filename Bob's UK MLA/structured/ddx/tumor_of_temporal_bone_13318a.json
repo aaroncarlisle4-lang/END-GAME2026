@@ -1,0 +1,87 @@
+{
+  "finding": "Tumor of Temporal Bone",
+  "slug": "tumor_of_temporal_bone_13318a",
+  "chapter": "TEMPORAL BONE",
+  "source_file": "processed_clusters/temporal_bone/tumor_of_temporal_bone_13318a.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "CEREBELLOPONTINE ANGLE + IAC",
+      "raw": "CEREBELLOPONTINE ANGLE + IAC",
+      "frequency": null
+    },
+    {
+      "name": "Vestibular schwannoma",
+      "raw": "Vestibular schwannoma (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "MIDDLE EAR ◊  First exclude a vascular structure!",
+      "raw": "MIDDLE EAR ◊  First exclude a vascular structure!",
+      "frequency": null
+    },
+    {
+      "name": "Persistent stapedial artery",
+      "raw": "Persistent stapedial artery",
+      "frequency": null
+    },
+    {
+      "name": "Lateral / aberrant carotid artery",
+      "raw": "Lateral / aberrant carotid artery",
+      "frequency": null
+    },
+    {
+      "name": "Dehiscent jugular bulb (b)  benign neoplasm Paraganglioma (glomus tumor / chemodectoma) is the 2nd most common tumor to involve the temporal bone and most common tumor of the middle ear.",
+      "raw": "Dehiscent jugular bulb (b)  benign neoplasm Paraganglioma (glomus tumor / chemodectoma) is the 2nd most common tumor to involve the temporal bone and most common tumor of the middle ear.",
+      "frequency": "most common"
+    },
+    {
+      "name": "Paraganglioma",
+      "raw": "Paraganglioma",
+      "frequency": null
+    },
+    {
+      "name": "Facial nerve schwannoma",
+      "raw": "Facial nerve schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Geniculate hemangioma",
+      "raw": "Geniculate hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Salivary choristoma",
+      "raw": "Salivary choristoma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Middle ear adenoma",
+      "raw": "Middle ear adenoma (c)  malignant neoplasm (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Carcinoma",
+      "raw": "Carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Perineural spread along facial n.",
+      "raw": "Perineural spread along facial n.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  Vascular structure"
+}

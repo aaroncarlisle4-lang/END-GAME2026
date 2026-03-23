@@ -1,0 +1,32 @@
+{
+  "finding": "Benign Heart Tumor in Adults (75%",
+  "slug": "benign_heart_tumor_in_adults_75_d0c0e8",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/benign_heart_tumor_in_adults_75_d0c0e8.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myxoma",
+      "raw": "Myxoma (with almost 50% the most common primary cardiac tumor; 25% of all cardiac tumors)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Papillary fibroelastoma",
+      "raw": "Papillary fibroelastoma (10% of all primary cardiac tumors; with 75% most common valvular tumor)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma (10% of all cardiac tumors)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Hydatid cyst (uncommon):",
+      "raw": "Hydatid cyst (uncommon):",
+      "frequency": "uncommon"
+    }
+  ],
+  "criteria": {},
+  "context": "◊  More common than malignant neoplasms √  localized bulge of left cardiac contour √  curvilinear / spotty calcifications (resembling myocardial aneurysm) Cx:  may rupture into cardiac chamber / pericardium"
+}

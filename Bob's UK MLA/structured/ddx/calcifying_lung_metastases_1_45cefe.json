@@ -1,0 +1,67 @@
+{
+  "finding": "Calcifying Lung Metastases (< 1%",
+  "slug": "calcifying_lung_metastases_1_45cefe",
+  "chapter": "MESOTHELIOMA OF CHEST",
+  "source_file": "processed_clusters/mesothelioma_of_chest/calcifying_lung_metastases_1_45cefe.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Breast",
+      "raw": "Breast",
+      "frequency": null
+    },
+    {
+      "name": "Osteo- / chondrosarcoma",
+      "raw": "Osteo- / chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid",
+      "raw": "Thyroid (papillary)",
+      "frequency": null
+    },
+    {
+      "name": "Testicular",
+      "raw": "Testicular",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian",
+      "raw": "Ovarian",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous adenocarcinoma (colon) + others:   synovial sarcoma, giant cell tumor of bone, lung metastases following radiation",
+      "raw": "Mucinous adenocarcinoma (colon) + others:   synovial sarcoma, giant cell tumor of bone, lung metastases following radiation",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma, Sarcoma",
+      "raw": "Squamous cell carcinoma, Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Colon",
+      "raw": "Colon",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Transitional cell carcinoma",
+      "raw": "Transitional cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Cervix, during Chemotherapy",
+      "raw": "Cervix, during Chemotherapy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "/ chemotherapy Cavitating Lung Metastases Frequency:   4% (compared with 9% in primary bronchogenic carcinoma) Histo:     squamous cell carcinoma (10%), adenocarcinoma (9.5%) mnemonic:   Squamous Cell Metastases Tend to Cavitate"
+}

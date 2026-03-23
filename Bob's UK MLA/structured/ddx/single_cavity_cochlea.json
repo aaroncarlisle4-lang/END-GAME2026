@@ -1,0 +1,67 @@
+{
+  "finding": "Single-cavity Cochlea",
+  "slug": "single_cavity_cochlea",
+  "chapter": "OTIC CAPSULE DYSPLASIA",
+  "source_file": "processed_clusters/otic_capsule_dysplasia/single_cavity_cochlea.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "profound hearing loss discovered in early childhood",
+      "raw": "profound hearing loss discovered in early childhood",
+      "frequency": null
+    },
+    {
+      "name": "some high-frequency hearing preserved; vertigo",
+      "raw": "some high-frequency hearing preserved; vertigo",
+      "frequency": null
+    },
+    {
+      "name": "otorrhea, rhinorrhea, recurrent meningitis",
+      "raw": "otorrhea, rhinorrhea, recurrent meningitis (perilymphatic fistula caused by absence / defect of stapes footplate)",
+      "frequency": null
+    },
+    {
+      "name": "total sensorineural hearing loss",
+      "raw": "total sensorineural hearing loss",
+      "frequency": null
+    },
+    {
+      "name": "Anomalies of Membranous Labyrinth",
+      "raw": "Anomalies of Membranous Labyrinth",
+      "frequency": null
+    },
+    {
+      "name": "Scheibe dysplasia = abnormal cochlea + saccule",
+      "raw": "Scheibe dysplasia = abnormal cochlea + saccule",
+      "frequency": null
+    },
+    {
+      "name": "Alexander dysplasia = dysplasia of basal turn",
+      "raw": "Alexander dysplasia = dysplasia of basal turn",
+      "frequency": null
+    },
+    {
+      "name": "total sensorineural hearing loss",
+      "raw": "total sensorineural hearing loss",
+      "frequency": null
+    },
+    {
+      "name": "sensorineural hearing loss",
+      "raw": "sensorineural hearing loss (most common cause)",
+      "frequency": "most common"
+    },
+    {
+      "name": "unilateral congenital deafness (commonly missed) ◊  in 12% of children with congenital SNHL",
+      "raw": "unilateral congenital deafness (commonly missed) ◊  in 12% of children with congenital SNHL",
+      "frequency": "12%"
+    },
+    {
+      "name": "vertigo, tinnitus",
+      "raw": "vertigo, tinnitus (in 50%)",
+      "frequency": "50%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  cochlear cavity malformation =  saccular defect / cavity in otic capsule in the position normally occupied by cochlea without recognizable modiolus, osseous spiral lamina, interscalar septum May be associated with:   recurrent bacterial meningitis, perilymphatic fistula of oval window √  cystic cochlea (= developed basal turn, middle + apical turn occupy common nondeveloped space) Type: (a)   incomplete partition type I =  cystic cochleovestibular malformation =  complete lack of partitioning of cochlea √  cystic structure at CT (b)  incomplete partition type II (see below) =  classic Mondi"
+}

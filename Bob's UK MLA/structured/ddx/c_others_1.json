@@ -1,0 +1,27 @@
+{
+  "finding": "C. OTHERS",
+  "slug": "c_others_1",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/c_others_1.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Basal cell carcinoma of nipple",
+      "raw": "Basal cell carcinoma of nipple",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / leukemia =  most common hematopoietic disease of the breast",
+      "raw": "Lymphoma / leukemia =  most common hematopoietic disease of the breast",
+      "frequency": "most common"
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  axillary lymphadenopathy: unilateral in primary / bilateral in secondary breast lymphoma"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Mesenteric Ischemia — Extramural signs (DDx)",
+  "slug": "mesenteric_ischemia_extramural_signs_ddx",
+  "chapter": "Mesenteric Ischemia",
+  "source_file": "processed_clusters/mesenteric_ischemia/mesenteric_ischemia_extramural_signs_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "typhlitis",
+      "raw": "typhlitis",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "infectious / ulcerative colitis",
+      "raw": "infectious / ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "proctosigmoiditis",
+      "raw": "proctosigmoiditis",
+      "frequency": null
+    },
+    {
+      "name": "sigmoid",
+      "raw": "sigmoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "tracer accumulation 5 hours after onset of ischemia (more intense uptake with | decreased washout with abnormal perfusion of strangulated bowel"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "NODULAR REGENERATIVE HYPERPLASIA",
+  "slug": "nodular_regenerative_hyperplasia",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/nodular_regenerative_hyperplasia.md",
+  "definition": "uncommon benign liver disease defined as diffuse nodularity produced by multiple",
+  "demographics": {
+    "Associated with": "Budd-Chiari syndrome, collagen vascular disease, myelo- and",
+    "Path": "lesions resemble FNH containing Kupffer cells surrounded by acinar atrophy without"
+  },
+  "dominant_finding": "hypo- (typically) or isoattenuating nodules",
+  "distribution": "typically no enhancement / diffuse mild enhancement",
+  "discriminating_features": [
+    "hypo- (typically) or isoattenuating nodules",
+    "typically no enhancement / diffuse mild enhancement",
+    "heterogeneous hepatic parenchyma",
+    "hypo- to iso- to hyperintense on T1WI",
+    "iso- to minimally hypointense on T2WI (= difficult to visualize!)"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "well-circumscribed homogeneous hypo- / hyperechoic nodule, if visible at all"
+    ],
+    "CT": [
+      "hypo- (typically) or isoattenuating nodules",
+      "typically no enhancement / diffuse mild enhancement",
+      "heterogeneous hepatic parenchyma"
+    ],
+    "MR": [
+      "hypo- to iso- to hyperintense on T1WI",
+      "iso- to minimally hypointense on T2WI (= difficult to visualize!)",
+      "± ↓ SI on fat-suppressed T1WI ← intracellular fat",
+      "decreased enhancement relative to pancreas",
+      "multiple small similar-sized enhancing nodules",
+      "fading to isointensity",
+      "progressive enhancement",
+      "hyper- / isointense on 1-hour delayed images after gadobenate dimeglumine = Gd"
+    ]
+  },
+  "clinical": {}
+}

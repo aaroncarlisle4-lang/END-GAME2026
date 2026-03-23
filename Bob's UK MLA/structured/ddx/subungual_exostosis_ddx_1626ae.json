@@ -1,0 +1,22 @@
+{
+  "finding": "Subungual Exostosis (DDx)",
+  "slug": "subungual_exostosis_ddx_1626ae",
+  "chapter": "Subungual Exostosis",
+  "source_file": "processed_clusters/subungual_exostosis/subungual_exostosis_ddx_1626ae.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "osteochondroma (exostosis continuous with cortex and medulla of host bone",
+      "raw": "osteochondroma (exostosis continuous with cortex and medulla of host bone",
+      "frequency": null
+    },
+    {
+      "name": "hyaline cartilage of high SI on T2WI)",
+      "raw": "hyaline cartilage of high SI on T2WI)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-defined margins + calcifications | hypoechoic fibrocartilaginous cap of < 20 mm in diameter | no / mild vascularity | subungual exostosis hypointense on all sequences"
+}

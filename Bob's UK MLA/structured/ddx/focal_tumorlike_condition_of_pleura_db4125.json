@@ -1,0 +1,37 @@
+{
+  "finding": "Focal Tumorlike Condition of Pleura",
+  "slug": "focal_tumorlike_condition_of_pleura_db4125",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/focal_tumorlike_condition_of_pleura_db4125.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pleural plaque",
+      "raw": "Pleural plaque",
+      "frequency": null
+    },
+    {
+      "name": "Thoracic splenosis",
+      "raw": "Thoracic splenosis",
+      "frequency": null
+    },
+    {
+      "name": "Catamenial pneumothorax",
+      "raw": "Catamenial pneumothorax",
+      "frequency": null
+    },
+    {
+      "name": "Pleural pseudotumor",
+      "raw": "Pleural pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Extrapleural hematoma =  injury to internal mammary / intercostal vessels without disruption of parietal pleura ◊  May expand rapidly causing respiratory / circulatory collapse",
+      "raw": "Extrapleural hematoma =  injury to internal mammary / intercostal vessels without disruption of parietal pleura ◊  May expand rapidly causing respiratory / circulatory collapse",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  pleural fluid (frequently transudate) collected within lung fissure (most frequently minor fissure) √  \"extrapleural fat\" sign = inward displacement of extrapleural fat"
+}

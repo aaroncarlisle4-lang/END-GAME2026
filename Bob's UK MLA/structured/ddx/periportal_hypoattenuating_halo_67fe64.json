@@ -1,0 +1,37 @@
+{
+  "finding": "Periportal Hypoattenuating Halo",
+  "slug": "periportal_hypoattenuating_halo_67fe64",
+  "chapter": "LIVER CIRCULATION",
+  "source_file": "processed_clusters/liver_circulation/periportal_hypoattenuating_halo_67fe64.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Edema: CHF, acute hepatitis, hepatic venoocclusive disease",
+      "raw": "Edema: CHF, acute hepatitis, hepatic venoocclusive disease",
+      "frequency": null
+    },
+    {
+      "name": "Infiltration: lymphoma, extramedullary hematopoiesis",
+      "raw": "Infiltration: lymphoma, extramedullary hematopoiesis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphatic dilatation ← obstruction in porta hepatis by enlarged nodes / mass / in liver transplant",
+      "raw": "Lymphatic dilatation ← obstruction in porta hepatis by enlarged nodes / mass / in liver transplant",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage (asymmetric involvement)",
+      "frequency": null
+    },
+    {
+      "name": "Fat accumulation",
+      "raw": "Fat accumulation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  accumulation of lymph around the portal tract"
+}

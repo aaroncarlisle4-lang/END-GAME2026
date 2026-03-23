@@ -1,0 +1,27 @@
+{
+  "finding": "B. INFECTION / INFLAMMATION",
+  "slug": "b_infection_inflammation_5_27caf8",
+  "chapter": "Small Bowel Ulcer",
+  "source_file": "processed_clusters/small_bowel_ulcer/b_infection_inflammation_5_27caf8.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bacillary dysentery",
+      "raw": "Bacillary dysentery",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic enteritis",
+      "raw": "Ischemic enteritis",
+      "frequency": null
+    },
+    {
+      "name": "Ulcerative jejunoileitis as complication of celiac disease",
+      "raw": "Ulcerative jejunoileitis as complication of celiac disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

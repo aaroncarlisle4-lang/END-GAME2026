@@ -1,0 +1,27 @@
+{
+  "finding": "Solid-appearing Fetal Abdominal Mass",
+  "slug": "solid_appearing_fetal_abdominal_mass_b63ffc",
+  "chapter": "C. LEFT UPPER QUADRANT",
+  "source_file": "processed_clusters/c_left_upper_quadrant/solid_appearing_fetal_abdominal_mass_b63ffc.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neoplasm: neuroblastoma, mesoblastic nephroma, liver tumor",
+      "raw": "Neoplasm: neuroblastoma, mesoblastic nephroma, liver tumor (eg, hemangioendothelioma)",
+      "frequency": null
+    },
+    {
+      "name": "Abdominal bronchopulmonary sequestration",
+      "raw": "Abdominal bronchopulmonary sequestration",
+      "frequency": null
+    },
+    {
+      "name": "Fetus in fetu",
+      "raw": "Fetus in fetu",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

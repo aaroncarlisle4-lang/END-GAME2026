@@ -1,0 +1,25 @@
+{
+  "name": "ACUTE INTERSTITIAL NEPHRITIS",
+  "slug": "acute_interstitial_nephritis",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/acute_interstitial_nephritis.md",
+  "definition": "infiltration of interstitium by lymphocytes, plasma cells, eosinophils, few PMNs + edema",
+  "demographics": {},
+  "dominant_finding": "normal / increased echogenicity",
+  "distribution": "",
+  "discriminating_features": [
+    "large smooth kidneys with thick parenchyma",
+    "normal / diminished contrast density",
+    "normal / increased echogenicity"
+  ],
+  "other_features": {
+    "general": [
+      "large smooth kidneys with thick parenchyma",
+      "normal / diminished contrast density"
+    ],
+    "US": [
+      "normal / increased echogenicity"
+    ]
+  },
+  "clinical": {}
+}

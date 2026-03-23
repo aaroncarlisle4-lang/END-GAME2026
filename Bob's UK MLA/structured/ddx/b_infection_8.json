@@ -1,0 +1,27 @@
+{
+  "finding": "B. Infection",
+  "slug": "b_infection_8",
+  "chapter": "D. MISCELLANEOUS",
+  "source_file": "processed_clusters/d_miscellaneous/b_infection_8.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pyogenic abscess",
+      "raw": "Pyogenic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Echinococcal cyst",
+      "raw": "Echinococcal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory pseudotumor",
+      "raw": "Inflammatory pseudotumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

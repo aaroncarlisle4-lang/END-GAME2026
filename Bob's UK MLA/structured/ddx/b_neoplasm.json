@@ -1,0 +1,52 @@
+{
+  "finding": "B. NEOPLASM",
+  "slug": "b_neoplasm",
+  "chapter": "D. UNDERDISTENDED BLADDER",
+  "source_file": "processed_clusters/d_underdistended_bladder/b_neoplasm.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary neoplasm of bladder: TCC, squamous cell carcinoma, leiomyosarcoma, hemangioma, neuroblastoma, osteogenic sarcoma",
+      "raw": "Primary neoplasm of bladder: TCC, squamous cell carcinoma, leiomyosarcoma, hemangioma, neuroblastoma, osteogenic sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Urachal carcinoma",
+      "raw": "Urachal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Cytoxan",
+      "raw": "Cytoxan",
+      "frequency": null
+    },
+    {
+      "name": "Radiation",
+      "raw": "Radiation",
+      "frequency": null
+    },
+    {
+      "name": "Interstitial cystitis",
+      "raw": "Interstitial cystitis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Transitional cell carcinoma",
+      "raw": "Transitional cell carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

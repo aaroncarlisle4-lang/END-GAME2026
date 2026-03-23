@@ -1,0 +1,93 @@
+{
+  "name": "DOWN SYNDROME",
+  "slug": "down_syndrome",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/down_syndrome.md",
+  "definition": "MONGOLISM = TRISOMY 21 positive lateral lumbar index (ratio of horizontal to vertical diameters of L2) \"Mickey Mouse ears\" / \"elephant ears\": measurement of space between spine and overlying skin on midsagittal view",
+  "demographics": {
+    "Prevalence": "1÷870 live births, most common karyotype / chromosomal abnormality in USA"
+  },
+  "dominant_finding": "persistent metopic suture (40-79%) after age 10",
+  "distribution": "anterior scalloping of vertebral bodies",
+  "discriminating_features": [
+    "hypotelorism",
+    "persistent metopic suture (40-79%) after age 10",
+    "hypoplasia of sinuses + facial bones",
+    "microcrania (brachycephaly)",
+    "delayed closure of sutures + fontanels"
+  ],
+  "other_features": {
+    "general": [
+      "hypotelorism",
+      "persistent metopic suture (40-79%) after age 10",
+      "hypoplasia of sinuses + facial bones",
+      "microcrania (brachycephaly)",
+      "delayed closure of sutures + fontanels",
+      "dental abnormalities (underdeveloped tooth No. 2)",
+      "flat-bridged nose"
+    ],
+    "Axial skeleton": [
+      "atlantoaxial subluxation (25%)",
+      "anterior scalloping of vertebral bodies",
+      "\"squared vertebral bodies\" = centra high and narrow"
+    ],
+    "Chest": [
+      "congenital heart disease (40%): endocardial cushion defect, VSD, tetralogy of Fallot",
+      "hypersegmentation of manubrium = 2-3 ossification centers (90%)",
+      "gracile ribs; 11 pairs of ribs (25%)"
+    ],
+    "Pelvis (frontal view)": [
+      "flaring of iliac wings (= rotation of iliac wings toward coronal plane at sacroiliac joints)",
+      "decreased iliac angle + index (in 70-80%)",
+      "flattening of acetabular roof (small acetabular angle)",
+      "elongated + tapered ischia"
+    ],
+    "Extremities": [
+      "metaphyseal flaring",
+      "clinodactyly (50%); widened space between first two digits of hands + feet",
+      "hypoplastic and triangular middle + distal phalanges of 5th finger = acromicria (DDx:",
+      "pseudoepiphyses of 1st + 2nd metacarpals"
+    ],
+    "Gastrointestinal": [
+      "umbilical hernia",
+      "\"double bubble\" sign (8-10%) = duodenal atresia / stenosis / annular pancreas",
+      "tracheoesophageal fistula",
+      "anorectal anomalies",
+      "Hirschsprüng disease",
+      "first-trimester ultrasound markers:",
+      "nuchal translucency",
+      "≥ 5 mm during 14-18 weeks",
+      "≥ 6 mm during 19-24 weeks",
+      "absent nasal bone",
+      "absent / reversed Doppler flow in ductus venosus during atrial contraction",
+      "major structural malformations:",
+      "VSD / complete AV canal (50%)",
+      "cystic hygroma, resolved by 20th week MA (DDx: Turner syndrome, trisomy 18, trisomy",
+      "omphalocele",
+      "double bubble of duodenal atresia (8-10%), not apparent before 22 weeks GA",
+      "hydrothorax",
+      "mild cerebral ventricular dilatation",
+      "agenesis of corpus callosum",
+      "imperforate anus",
+      "minor markers:",
+      "elevated BPD / femur ratio ← short femur",
+      "ratio of measured-to-expected femur length ≤ 0.91 [expected femur length: -9.3105 +",
+      "ratio of measured-to-expected humerus length ≤ 0.90 [expected humerus length: -7.9404",
+      "flared iliac crest = iliac wings rotated toward coronal plane:",
+      "mean iliac angle at superiormost level of 95.6 ± 11.7° (compared to 76.4 ± 16.8° for",
+      "sandal-gap deformity = separation of great toe (45%)",
+      "hypoplasia of middle phalanx of 5th digit resulting in clinodactyly (= inward curve) in",
+      "mild fetal pyelectasis (17-25%)",
+      "echogenic bowel at < 20 weeks GA (15%, in 0.6% of normals)",
+      "echogenic intracardiac focus, usually in left ventricle = thickening of papillary muscle",
+      "frontal lobe shortening (measured from the inner table of the frontal bone to the posterior",
+      "brachycephaly",
+      "small cerebellum",
+      "IUGR (in 30%)",
+      "polyhydramnios"
+    ]
+  },
+  "clinical": {
+    "Cx": "leukemia (increased frequency by 3-20 x)"
+  }
+}

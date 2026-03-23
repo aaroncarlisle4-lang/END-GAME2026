@@ -1,0 +1,27 @@
+{
+  "finding": "Echogenic Intracardiac Focus",
+  "slug": "echogenic_intracardiac_focus",
+  "chapter": "C. SHORT-AXIS VIEW OF OUTFLOW TRACTS",
+  "source_file": "processed_clusters/c_short_axis_view_of_outflow_tracts/echogenic_intracardiac_focus.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trisomy 21",
+      "raw": "Trisomy 21 (in 30% of affected fetuses)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Trisomy 13",
+      "raw": "Trisomy 13 (in 50% of affected fetuses)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Normal pregnancy",
+      "raw": "Normal pregnancy (4% in a population at high risk for fetal anomalies)",
+      "frequency": "4%"
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:  mineralization of a papillary muscle ◊  Isolated anomaly in 90%!"
+}

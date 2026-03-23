@@ -1,0 +1,42 @@
+{
+  "finding": "B. OBSTRUCTION (a) malignant neoplasm",
+  "slug": "b_obstruction_a_malignant_neoplasm",
+  "chapter": "B. NONPHYSIOLOGIC",
+  "source_file": "processed_clusters/b_nonphysiologic/b_obstruction_a_malignant_neoplasm.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatoblastoma",
+      "raw": "Hepatoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcomas: angiosarcoma, lymphosarcoma, rhabdomyosarcoma of bile ducts, undifferentiated embryonal sarcoma",
+      "raw": "Sarcomas: angiosarcoma, lymphosarcoma, rhabdomyosarcoma of bile ducts, undifferentiated embryonal sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic disease: neuroblastoma, Wilms tumor, leukemia/lymphoma (b)  benign neoplasm",
+      "raw": "Metastatic disease: neuroblastoma, Wilms tumor, leukemia/lymphoma (b)  benign neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Infantile hemangioendothelioma",
+      "raw": "Infantile hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Mesenchymal hamartoma",
+      "raw": "Mesenchymal hamartoma (c)  benign stricture: congenital choledochal cyst (d)  cholelithiasis / choledocholithiasis (uncommon)",
+      "frequency": "uncommon"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

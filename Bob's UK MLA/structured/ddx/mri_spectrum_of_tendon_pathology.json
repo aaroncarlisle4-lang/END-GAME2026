@@ -1,0 +1,42 @@
+{
+  "finding": "MRI Spectrum of Tendon Pathology",
+  "slug": "mri_spectrum_of_tendon_pathology",
+  "chapter": "TENDON",
+  "source_file": "processed_clusters/tendon/mri_spectrum_of_tendon_pathology.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tendinosis",
+      "raw": "Tendinosis",
+      "frequency": null
+    },
+    {
+      "name": "Tenosynovitis",
+      "raw": "Tenosynovitis",
+      "frequency": null
+    },
+    {
+      "name": "Peritendinosis",
+      "raw": "Peritendinosis",
+      "frequency": null
+    },
+    {
+      "name": "Tendon rupture (a)  partial rupture",
+      "raw": "Tendon rupture (a)  partial rupture",
+      "frequency": null
+    },
+    {
+      "name": "Tendon entrapment",
+      "raw": "Tendon entrapment",
+      "frequency": null
+    },
+    {
+      "name": "Tendon instability: subluxation / dislocation",
+      "raw": "Tendon instability: subluxation / dislocation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  fusiform thickening of tendon + ↑ SI on PDWI + T1WI √  ↑ SI on T2WI ← severe intrasubstance degeneration √  fluid + synovial proliferation within tendon sheath √  fluid in adjacent soft tissues √  focal areas of fiber discontinuity often outlined by fluid (b)  complete rupture √  complete fiber discontinuity (= disruption) of tendon √  fluid outlining retracted proximal + distal stumps"
+}

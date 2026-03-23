@@ -1,0 +1,73 @@
+# Disease: THANATOPHORIC DYSPLASIA
+
+**Source section:** NEUROPATHIC OSTEOARTHROPATHY
+
+## Definition
+
+sporadic lethal skeletal dysplasia characterized by severe rhizomelia (micromelic dwarfism)
+
+## Key Facts
+
+- **Prevalence:** 6.9÷100,000 births; 1÷6,400-16,700 births;
+- **Genetics:** autosomal dominant mutation of gene-encoding fibroblast growth factor receptor 3
+
+## Imaging Findings
+
+### General
+
+- disproportionately large head with short base of skull + prominent forehead
+- occasionally trilobed cloverleaf skull = "Kleeblattschädel"
+- depressed nasal bridge + protruding eyes
+
+### Chest radiograph (PATHOGNOMONIC)
+
+- narrow chest with normal trunk length
+- short horizontal ribs:
+- not extending beyond anterior axillary line
+- cupped anterior ends
+- short curved "telephone handle" humeri
+- H- / U-shaped vertebra plana
+- small scapula + normal clavicles
+
+### Spine
+
+- normal length of trunk
+- reduction of interpediculate space of last few lumbar vertebrae
+- extreme generalized platyspondyly = severe H- / U-shaped vertebra plana
+- excessive intervertebral space height
+
+### Pelvis (hypoplastic iliac bones)
+
+- iliac wings small + square (vertical shortening but wide horizontally)
+- flat acetabulum
+- narrow sacrosciatic notch
+- short pubic bones
+
+### Extremities
+
+- severe micromelia:
+- bowing of extremities (type 1) / straight (type 2)
+- metaphyseal flaring = "telephone handle" appearance of long bones
+- thornlike projections in metaphyseal area
+- polydactyly
+- polyhydramnios (50-71%)
+- short-limbed dwarfism with extremely short + bowed "telephone receiver"-like femurs
+- extremely small hypoplastic thorax with short ribs + narrowed in anteroposterior
+- protuberant abdomen
+- macrocrania with frontal bossing ± hydrocephalus (increased HC÷AC ratio)
+- "cloverleaf skull" (in 14%) (DDx: encephalocele)
+- diffuse platyspondyly
+- redundant soft tissues
+
+## Clinical
+
+- **Prognosis:** often stillborn; uniformly fatal within a few hours / days after birth ← respiratory
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

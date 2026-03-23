@@ -1,0 +1,46 @@
+{
+  "name": "LYMPHANGITIC CARCINOMATOSIS",
+  "slug": "lymphangitic_carcinomatosis",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/lymphangitic_carcinomatosis.md",
+  "definition": "INTERSTITIAL CARCINOMA = LYMPHANGITIS CARCINOMATOSA tumor cell accumulation within connective tissue (bronchovascular bundles, interlobular",
+  "demographics": {
+    "Frequency": "7% of all pulmonary metastases",
+    "Path": "(a)",
+    "Location": "bilateral; unilateral if secondary to lung primary"
+  },
+  "dominant_finding": "well-defined smoothly thickened polygonal reticular network of 10-25 mm in diameter (=",
+  "distribution": "bilateral; unilateral if secondary to lung primary",
+  "discriminating_features": [
+    "normal chest radiograph",
+    "reticular / reticulonodular opacities",
+    "coarsened bronchovascular markings",
+    "Kerley A + B lines",
+    "small lung volume"
+  ],
+  "other_features": {
+    "general": [
+      "normal chest radiograph",
+      "reticular / reticulonodular opacities",
+      "coarsened bronchovascular markings",
+      "Kerley A + B lines",
+      "small lung volume",
+      "hilar (20-50%) / mediastinal lymphadenopathy",
+      "pleural effusion"
+    ],
+    "HRCT": [
+      "normal lung architecture without distortion",
+      "focal / diffuse, uni- / bilateral distribution",
+      "well-defined smoothly thickened polygonal reticular network of 10-25 mm in diameter (=",
+      "irregular / nodular = \"beaded\" thickening of interlobular septa",
+      "central dot within secondary pulmonary lobule = thickened centrilobular bronchovascular",
+      "smooth / nodular thickening of fissures",
+      "subpleural thickening",
+      "pleural effusion (30-50%)",
+      "hilar / mediastinal lymphadenopathy (30-50%)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death within 1 year"
+  }
+}

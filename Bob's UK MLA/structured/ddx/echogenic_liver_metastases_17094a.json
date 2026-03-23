@@ -1,0 +1,27 @@
+{
+  "finding": "Echogenic Liver Metastases",
+  "slug": "echogenic_liver_metastases_17094a",
+  "chapter": "LIPOMA OF LIVER",
+  "source_file": "processed_clusters/lipoma_of_liver/echogenic_liver_metastases_17094a.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Colonic carcinoma (mucinous adenocarcinoma) 54%",
+      "raw": "Colonic carcinoma (mucinous adenocarcinoma) 54%",
+      "frequency": "54%"
+    },
+    {
+      "name": "Hepatoma 25%",
+      "raw": "Hepatoma 25%",
+      "frequency": "25%"
+    },
+    {
+      "name": "Treated breast carcinoma 21%",
+      "raw": "Treated breast carcinoma 21%",
+      "frequency": "21%"
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   25%"
+}

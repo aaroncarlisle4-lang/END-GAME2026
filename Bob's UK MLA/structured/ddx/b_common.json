@@ -1,0 +1,37 @@
+{
+  "finding": "B. Common",
+  "slug": "b_common",
+  "chapter": "HEMANGIOPERICYTOMA",
+  "source_file": "processed_clusters/hemangiopericytoma/b_common.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemorrhagic infarction = hemorrhagic transformation of stroke",
+      "raw": "Hemorrhagic infarction = hemorrhagic transformation of stroke",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid angiopathy (20%): elderly patients",
+      "raw": "Amyloid angiopathy (20%): elderly patients",
+      "frequency": "20%"
+    },
+    {
+      "name": "Coagulopathy (5%): DIC, hemophilia, idiopathic thrombocytopenic purpura; aspirin, heparin, coumadin",
+      "raw": "Coagulopathy (5%): DIC, hemophilia, idiopathic thrombocytopenic purpura; aspirin, heparin, coumadin",
+      "frequency": "5%"
+    },
+    {
+      "name": "Drug abuse (5%): amphetamines, cocaine, heroine",
+      "raw": "Drug abuse (5%): amphetamines, cocaine, heroine",
+      "frequency": "5%"
+    },
+    {
+      "name": "Bleeding into tumor (a)  primary: GBM, ependymoma, oligodendroglioma, pituitary adenoma (b)  metastatic: melanoma, choriocarcinoma, renal cancer, thyroid cancer, adenocarcinoma",
+      "raw": "Bleeding into tumor (a)  primary: GBM, ependymoma, oligodendroglioma, pituitary adenoma (b)  metastatic: melanoma, choriocarcinoma, renal cancer, thyroid cancer, adenocarcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

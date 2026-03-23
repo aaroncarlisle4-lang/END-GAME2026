@@ -1,0 +1,27 @@
+{
+  "finding": "Meningioma (DDx)",
+  "slug": "meningioma_ddx_39e72c",
+  "chapter": "Meningioma",
+  "source_file": "processed_clusters/meningioma/meningioma_ddx_39e72c.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "glioma",
+      "raw": "glioma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "blood supply: posterior ethmoidal branches of ophthalmic artery, branches of | large mass isointense to gray matter on T1WI + T2WI | hyperintense flattened pituitary gland within floor of sella | marked homogeneous enhancement on T1WI"
+}

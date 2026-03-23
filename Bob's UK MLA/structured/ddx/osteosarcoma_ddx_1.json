@@ -1,0 +1,37 @@
+{
+  "finding": "Osteosarcoma (DDx)",
+  "slug": "osteosarcoma_ddx_1",
+  "chapter": "Osteosarcoma",
+  "source_file": "processed_clusters/osteosarcoma/osteosarcoma_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastatic disease (lung",
+      "raw": "metastatic disease (lung",
+      "frequency": null
+    },
+    {
+      "name": "breast",
+      "raw": "breast",
+      "frequency": null
+    },
+    {
+      "name": "kidney)",
+      "raw": "kidney)",
+      "frequency": null
+    },
+    {
+      "name": "multiple myeloma",
+      "raw": "multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "direct invasion by",
+      "raw": "direct invasion by",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "osteoid matrix (60-80%) | aggressive periosteal reaction for mandibular lesion | soft-tissue mass (100%) | opacification of maxillary sinus (frequent in maxillary lesions)"
+}

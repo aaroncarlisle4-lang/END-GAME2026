@@ -1,0 +1,52 @@
+{
+  "finding": "Most Frequent Benign Soft-tissue Tumors",
+  "slug": "most_frequent_benign_soft_tissue_tumors",
+  "chapter": "D. Vascular",
+  "source_file": "processed_clusters/d_vascular/most_frequent_benign_soft_tissue_tumors.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma 16%",
+      "raw": "Lipoma 16%",
+      "frequency": "16%"
+    },
+    {
+      "name": "Fibrous histiocytoma 13%",
+      "raw": "Fibrous histiocytoma 13%",
+      "frequency": "13%"
+    },
+    {
+      "name": "Nodular fasciitis 11%",
+      "raw": "Nodular fasciitis 11%",
+      "frequency": "11%"
+    },
+    {
+      "name": "Neurogenic neoplasm 10%",
+      "raw": "Neurogenic neoplasm 10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "Hemangioma 7%",
+      "raw": "Hemangioma 7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "Fibromatosis 7%",
+      "raw": "Fibromatosis 7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "PVNS / giant cell tumor of tendon sheath 4%",
+      "raw": "PVNS / giant cell tumor of tendon sheath 4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Ganglion cyst",
+      "raw": "Ganglion cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "8 pathologic diagnoses make up 70% of all benign tumors!"
+}

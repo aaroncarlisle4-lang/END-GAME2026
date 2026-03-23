@@ -1,0 +1,25 @@
+{
+  "finding": "Adamantinoma (DDx)",
+  "slug": "adamantinoma_ddx",
+  "chapter": "Adamantinoma",
+  "source_file": "processed_clusters/adamantinoma/adamantinoma_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibrous dysplasia (in child < 10 years of age",
+      "raw": "fibrous dysplasia (in child < 10 years of age",
+      "frequency": null
+    },
+    {
+      "name": "painless enlargement of tibia [anterior]",
+      "raw": "painless enlargement of tibia",
+      "frequency": null,
+      "sites": [
+        "anterior"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "synchronous fibular involvement in 5-10% | intermediate signal intensity relative to muscle on T1WI | intensity similar to fat on T2WI | marked homogeneous enhancement"
+}

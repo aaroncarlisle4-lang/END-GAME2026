@@ -1,0 +1,200 @@
+{
+  "finding": "Site: unilateral ? ← leg length discrepancy",
+  "slug": "site_unilateral_leg_length_discrepancy_0bd6ec",
+  "chapter": "FLORID REACTIVE PERIOSTITIS",
+  "source_file": "processed_clusters/florid_reactive_periostitis/site_unilateral_leg_length_discrepancy_0bd6ec.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Clavicle: postoperative",
+      "raw": "Clavicle: postoperative (radical neck dissection)",
+      "frequency": null
+    },
+    {
+      "name": "Coracoid process of scapula: trap shooting",
+      "raw": "Coracoid process of scapula: trap shooting",
+      "frequency": null
+    },
+    {
+      "name": "Coronoid process of ulna: pitching ball, throwing javelin, pitchfork work, propelling wheelchairs",
+      "raw": "Coronoid process of ulna: pitching ball, throwing javelin, pitchfork work, propelling wheelchairs",
+      "frequency": null
+    },
+    {
+      "name": "Distal shaft of humerus: throwing ball",
+      "raw": "Distal shaft of humerus: throwing ball (basketball, baseball, softball, javelin)",
+      "frequency": null
+    },
+    {
+      "name": "Hook of hamate: swinging golf club / tennis racquet / baseball bat",
+      "raw": "Hook of hamate: swinging golf club / tennis racquet / baseball bat",
+      "frequency": null
+    },
+    {
+      "name": "Other wrist bones: capitate > lunate > scaphoid @    Lower extremity",
+      "raw": "Other wrist bones: capitate > lunate > scaphoid @    Lower extremity",
+      "frequency": null
+    },
+    {
+      "name": "Femur ›  neck: ballet, long-distance running",
+      "raw": "Femur ›  neck: ballet, long-distance running",
+      "frequency": null
+    },
+    {
+      "name": "Patella: hurdling [Tibial shaft:]",
+      "raw": "Patella: hurdling",
+      "frequency": null,
+      "sites": [
+        "Tibial shaft:"
+      ]
+    },
+    {
+      "name": "Fibula (distal diaphysis): long-distance running, jumping, parachuting @    Foot (in order of frequency):",
+      "raw": "Fibula (distal diaphysis): long-distance running, jumping, parachuting @    Foot (in order of frequency):",
+      "frequency": null
+    },
+    {
+      "name": "2nd > 3rd + 4th metatarsal: marching, stomping on ground, prolonged standing, ballet, long-distance running, postoperative bunionectomy",
+      "raw": "2nd > 3rd + 4th metatarsal: marching, stomping on ground, prolonged standing, ballet, long-distance running, postoperative bunionectomy",
+      "frequency": null
+    },
+    {
+      "name": "Calcaneus: jumping, parachuting, prolonged standing, long standing, recent immobilization",
+      "raw": "Calcaneus: jumping, parachuting, prolonged standing, long standing, recent immobilization",
+      "frequency": null
+    },
+    {
+      "name": "Tarsal navicular: stomping on ground, marching, long-distance running, prolonged standing, ballet",
+      "raw": "Tarsal navicular: stomping on ground, marching, long-distance running, prolonged standing, ballet",
+      "frequency": null
+    },
+    {
+      "name": "Sesamoids of metatarsal: prolonged standing, gymnastics, long jumping",
+      "raw": "Sesamoids of metatarsal: prolonged standing, gymnastics, long jumping",
+      "frequency": null
+    },
+    {
+      "name": "Shin splints",
+      "raw": "Shin splints (activity not increased in angiographic / blood-pool phase)",
+      "frequency": null
+    },
+    {
+      "name": "Osteoid osteoma",
+      "raw": "Osteoid osteoma (eccentric, nidus, solid periosteal reaction, night pain)",
+      "frequency": null
+    },
+    {
+      "name": "Chronic sclerosing osteomyelitis",
+      "raw": "Chronic sclerosing osteomyelitis (dense, sclerotic, involving entire circumference, little change on serial radiographs)",
+      "frequency": null
+    },
+    {
+      "name": "Osteomalacia",
+      "raw": "Osteomalacia (bowed long bones, looser zones, gross fractures, demineralization)",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenic sarcoma",
+      "raw": "Osteogenic sarcoma (metaphyseal, aggressive periosteal reaction)",
+      "frequency": null
+    },
+    {
+      "name": "Ewing tumor",
+      "raw": "Ewing tumor (lytic destructive appearance with soft-tissue component, little change on serial radiographs)",
+      "frequency": null
+    },
+    {
+      "name": "pain, point tenderness, swelling",
+      "raw": "pain, point tenderness, swelling",
+      "frequency": null
+    },
+    {
+      "name": "progressive angular deformity from segmental arrest of germinal zone growth with formation of a bone bridge across physis = \"bone bar\"",
+      "raw": "progressive angular deformity from segmental arrest of germinal zone growth with formation of a bone bridge across physis = \"bone bar\"",
+      "frequency": null
+    },
+    {
+      "name": "limb length discrepancy from total cessation of growth",
+      "raw": "limb length discrepancy from total cessation of growth",
+      "frequency": null
+    },
+    {
+      "name": "articular incongruity from disruption of articular surface",
+      "raw": "articular incongruity from disruption of articular surface",
+      "frequency": null
+    },
+    {
+      "name": "Bone infarction in metaphysis / epiphysis",
+      "raw": "Bone infarction in metaphysis / epiphysis",
+      "frequency": null
+    },
+    {
+      "name": "anatomic head",
+      "raw": "anatomic head",
+      "frequency": null
+    },
+    {
+      "name": "metaphyseal fragment with lesser tuberosity",
+      "raw": "metaphyseal fragment with lesser tuberosity",
+      "frequency": null
+    },
+    {
+      "name": "metaphyseal fragment with greater tuberosity",
+      "raw": "metaphyseal fragment with greater tuberosity",
+      "frequency": null
+    },
+    {
+      "name": "humeral shaft Prognosis:  anatomic neck fractures are associated with an increased risk of avascular necrosis. The PPV is 97% if combined with a medial metaphyseal fragment < 8 mm short and > 2 mm displaced.",
+      "raw": "humeral shaft Prognosis:  anatomic neck fractures are associated with an increased risk of avascular necrosis. The PPV is 97% if combined with a medial metaphyseal fragment < 8 mm short and > 2 mm displaced.",
+      "frequency": "97%"
+    },
+    {
+      "name": "Lateral collateral ligament complex",
+      "raw": "Lateral collateral ligament complex",
+      "frequency": null
+    },
+    {
+      "name": "Joint capsule + other lateral structures",
+      "raw": "Joint capsule + other lateral structures",
+      "frequency": null
+    },
+    {
+      "name": "MCL complex",
+      "raw": "MCL complex",
+      "frequency": null
+    },
+    {
+      "name": "Essex-Lopresti fracture",
+      "raw": "Essex-Lopresti fracture (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Forearm Fracture",
+      "raw": "Forearm Fracture",
+      "frequency": null
+    },
+    {
+      "name": "Pediatric Distal Forearm Fracture",
+      "raw": "Pediatric Distal Forearm Fracture",
+      "frequency": null
+    },
+    {
+      "name": "BUCKLE / TORUS FRACTURE",
+      "raw": "BUCKLE / TORUS FRACTURE",
+      "frequency": null
+    },
+    {
+      "name": "Residual positive ulnar variance > 5 mm indicates unsatisfactory outcome in 40%",
+      "raw": "Residual positive ulnar variance > 5 mm indicates unsatisfactory outcome in 40%",
+      "frequency": "40%"
+    },
+    {
+      "name": "Dorsal angulation of palmar tilt > 15° decreases grip strength + endurance in > 50%",
+      "raw": "Dorsal angulation of palmar tilt > 15° decreases grip strength + endurance in > 50%",
+      "frequency": "50%"
+    }
+  ],
+  "criteria": {},
+  "context": "@    Upper extremity Site:   inferior surface of medial femoral neck √  subtle lucency / sclerosis (= acute fracture) √  lucent line surrounded by sclerosis (= subacute fracture) ›  shaft: ballet, marching, long-distance running, gymnastics ›  distal metaphysis: endurance athlete (runner, soccer player, triathlete) ›  proximal diaphysis: running ›  middle + distal diaphysis: football, soccer, tennis, ballet, jogging ◊  Shin splint = early stress response √  vertical / oblique fracture orientation anterior to tuberosity √  vertically oriented fracture in midbody ◊  Midfoot fractures are difficu"
+}

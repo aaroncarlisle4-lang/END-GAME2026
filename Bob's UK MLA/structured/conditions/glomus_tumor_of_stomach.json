@@ -1,0 +1,33 @@
+{
+  "name": "GLOMUS TUMOR OF STOMACH",
+  "slug": "glomus_tumor_of_stomach",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/glomus_tumor_of_stomach.md",
+  "definition": "rare benign vascular tumor that originates from glomus body",
+  "demographics": {
+    "Frequency": "2% of all benign gastric tumors",
+    "Path": "dilated irregularly shaped thin-walled vessels (= modified capillaries) covered by nests",
+    "Histo": "sheets of monotonous round cells interspersed with numerous delicate vessels",
+    "Location": "gastric antrum",
+    "Size": "1-4 cm in diameter"
+  },
+  "dominant_finding": "change in shape + size during fluoroscopy (similar to lipoma)",
+  "distribution": "gastric antrum",
+  "discriminating_features": [
+    "CHARACTERISTIC strong peripheral homogeneous enhancement in arterial + portal venous",
+    "SPECIFIC peripheral nodular enhancement pattern + delayed filling-in (reminiscent of",
+    "solitary smooth intramural / intraluminal subepithelial mass ± mucosal ulceration",
+    "change in shape + size during fluoroscopy (similar to lipoma)",
+    "tiny flecks of calcifications (occasionally)"
+  ],
+  "other_features": {
+    "general": [
+      "solitary smooth intramural / intraluminal subepithelial mass ± mucosal ulceration",
+      "change in shape + size during fluoroscopy (similar to lipoma)",
+      "tiny flecks of calcifications (occasionally)",
+      "CHARACTERISTIC strong peripheral homogeneous enhancement in arterial + portal venous",
+      "SPECIFIC peripheral nodular enhancement pattern + delayed filling-in (reminiscent of"
+    ]
+  },
+  "clinical": {}
+}

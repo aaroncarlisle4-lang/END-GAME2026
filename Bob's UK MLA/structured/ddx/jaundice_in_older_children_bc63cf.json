@@ -1,0 +1,52 @@
+{
+  "finding": "Jaundice in Older Children",
+  "slug": "jaundice_in_older_children_bc63cf",
+  "chapter": "B. NONPHYSIOLOGIC",
+  "source_file": "processed_clusters/b_nonphysiologic/jaundice_in_older_children_bc63cf.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "DISEASE OF HEPATOCYTES (a)  infection / inflammaton",
+      "raw": "DISEASE OF HEPATOCYTES (a)  infection / inflammaton",
+      "frequency": null
+    },
+    {
+      "name": "Acute hepatitis: infection, toxic agents, drugs",
+      "raw": "Acute hepatitis: infection, toxic agents, drugs",
+      "frequency": null
+    },
+    {
+      "name": "Chronic hepatitis (b)  metabolic",
+      "raw": "Chronic hepatitis (b)  metabolic",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Glycogen storage disease",
+      "raw": "Glycogen storage disease",
+      "frequency": null
+    },
+    {
+      "name": "Tyrosinemia",
+      "raw": "Tyrosinemia",
+      "frequency": null
+    },
+    {
+      "name": "Alpha-1 antitrypsin deficiency",
+      "raw": "Alpha-1 antitrypsin deficiency",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Progeria — Soft tissue (DDx)",
+  "slug": "progeria_soft_tissue_ddx",
+  "chapter": "Progeria",
+  "source_file": "processed_clusters/progeria/progeria_soft_tissue_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cockayne syndrome (mental retardation",
+      "raw": "Cockayne syndrome (mental retardation",
+      "frequency": null
+    },
+    {
+      "name": "retinal atrophy",
+      "raw": "retinal atrophy",
+      "frequency": null
+    },
+    {
+      "name": "deafness",
+      "raw": "deafness",
+      "frequency": null
+    },
+    {
+      "name": "family history)",
+      "raw": "family history)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "widespread osteomyelitis + septic arthritis (hands, feet, limbs) | soft-tissue atrophy of extremities | soft-tissue calcifications around bony prominences (ankle, wrist, elbow, knee) | peripheral vascular calcifications = premature atherosclerosis"
+}

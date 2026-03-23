@@ -1,0 +1,26 @@
+{
+  "name": "ARTERIOVENOUS MALFORMATION OF UTERUS",
+  "slug": "arteriovenous_malformation_of_uterus",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/arteriovenous_malformation_of_uterus.md",
+  "definition": "UTERINE ARTERIOVENOUS FISTULA = UTERINE CIRSOID ANEURYSM",
+  "demographics": {
+    "Associated with": "dilatation & curettage, endometrial carcinoma, gestational trophoblastic"
+  },
+  "dominant_finding": "vascular lake with sluggish flow hyperintense on T2WI",
+  "distribution": "",
+  "discriminating_features": [
+    "tortuous tubular signal voids in myometrium / parametrium / protruding into endometrial",
+    "vascular lake with sluggish flow hyperintense on T2WI",
+    "intensely enhancing lesion isointense to vessels on contrast-enhanced dynamic subtraction"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "tortuous tubular signal voids in myometrium / parametrium / protruding into endometrial",
+      "vascular lake with sluggish flow hyperintense on T2WI",
+      "intensely enhancing lesion isointense to vessels on contrast-enhanced dynamic subtraction"
+    ]
+  },
+  "clinical": {}
+}

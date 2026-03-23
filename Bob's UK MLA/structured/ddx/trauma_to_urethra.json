@@ -1,0 +1,37 @@
+{
+  "finding": "TRAUMA TO URETHRA",
+  "slug": "trauma_to_urethra",
+  "chapter": "TRAUMA TO BLADDER",
+  "source_file": "processed_clusters/trauma_to_bladder/trauma_to_urethra.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "gross hematuria, blood at meatus (50%), swelling / hematoma of perineum / penis, \"high- riding\" prostate at digital exam",
+      "raw": "gross hematuria, blood at meatus (50%), swelling / hematoma of perineum / penis, \"high- riding\" prostate at digital exam",
+      "frequency": "50%"
+    },
+    {
+      "name": "inability to void",
+      "raw": "inability to void",
+      "frequency": null
+    },
+    {
+      "name": "Urethral stricture",
+      "raw": "Urethral stricture (38-100%)",
+      "frequency": "100%"
+    },
+    {
+      "name": "Impotence",
+      "raw": "Impotence (in up to 40%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "Incontinence",
+      "raw": "Incontinence (30%)",
+      "frequency": "30%"
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   in 4-14% of pelvic fractures in males, in < 6% of pelvic fractures in females Associated with:   bladder laceration in up to 20% Location: (a)  posterior urethra (in 4-14% of pelvic fractures) (b)  anterior urethra (often isolated) ← straddle injury N.B.:   blind urethral catheterization is contraindicated! CT (indirect findings): √  pelvic diastasis / fractures √  distortion of periprostatic structures √  hematoma of ischiocavernosus / obturator muscle √  excretory contrast extravasation around bladder base Urethrographic technique: (a)  ascending (retrograde) urethrography »  ex"
+}

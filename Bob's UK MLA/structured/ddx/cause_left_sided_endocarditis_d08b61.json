@@ -1,0 +1,47 @@
+{
+  "finding": "Cause: left-sided endocarditis",
+  "slug": "cause_left_sided_endocarditis_d08b61",
+  "chapter": "Respiratory Complications of Drug Abuse",
+  "source_file": "processed_clusters/respiratory_complications_of_drug_abuse/cause_left_sided_endocarditis_d08b61.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cellulitis from subcutaneous injection (\"skin popping\") after exhausting all venous access",
+      "raw": "Cellulitis from subcutaneous injection (\"skin popping\") after exhausting all venous access",
+      "frequency": null
+    },
+    {
+      "name": "Pyomyositis",
+      "raw": "Pyomyositis",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing fasciitis",
+      "raw": "Necrotizing fasciitis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess: esp. iliopsoas",
+      "raw": "Abscess: esp. iliopsoas",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Foreign bodies",
+      "raw": "Foreign bodies",
+      "frequency": null
+    },
+    {
+      "name": "Lymphadenopathy",
+      "raw": "Lymphadenopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Soft-tissue Complications of Drug Abuse"
+}

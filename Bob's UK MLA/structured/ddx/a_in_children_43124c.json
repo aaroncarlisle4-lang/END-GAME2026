@@ -1,0 +1,32 @@
+{
+  "finding": "A. IN CHILDREN",
+  "slug": "a_in_children_43124c",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/a_in_children_43124c.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypothalamic-chiasmatic glioma",
+      "raw": "Hypothalamic-chiasmatic glioma",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Hamartoma of tuber cinereum",
+      "raw": "Hamartoma of tuber cinereum",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytosis",
+      "raw": "Histiocytosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

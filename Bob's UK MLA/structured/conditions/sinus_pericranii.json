@@ -1,0 +1,39 @@
+{
+  "name": "SINUS PERICRANII",
+  "slug": "sinus_pericranii",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/sinus_pericranii.md",
+  "definition": "venous anomaly (? subperiosteal venous angioma) collection of abnormal nonmuscular scalp veins adherent to skull (= dilated subperiosteal",
+  "demographics": {
+    "Etiology": "congenital; ? traumatic",
+    "Age": "childhood; M = F",
+    "Location": "frontal + parietal bone"
+  },
+  "dominant_finding": "transcalvarial perforating channels",
+  "distribution": "frontal + parietal bone",
+  "discriminating_features": [
+    "calvarial thinning + defect",
+    "mild ↓ / mild ↑ / no change in size over time",
+    "sessile sharply marginated homogeneous densely enhancing mass adjacent to outer table of",
+    "transcalvarial perforating channels",
+    "connection to adjacent dural venous sinus"
+  ],
+  "other_features": {
+    "general": [
+      "calvarial thinning + defect",
+      "mild ↓ / mild ↑ / no change in size over time"
+    ],
+    "CT": [
+      "sessile sharply marginated homogeneous densely enhancing mass adjacent to outer table of",
+      "transcalvarial perforating channels",
+      "connection to adjacent dural venous sinus",
+      "possible drainage into extracranial scalp veins"
+    ],
+    "ANGIO": [
+      "extracalvarial sinus may not opacify ← slow flow"
+    ]
+  },
+  "clinical": {
+    "Rx": "ligation of communicating veins + removal of sinus; endovascular embolization"
+  }
+}

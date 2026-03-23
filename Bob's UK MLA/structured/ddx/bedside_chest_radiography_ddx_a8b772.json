@@ -1,0 +1,27 @@
+{
+  "finding": "Bedside Chest Radiography (DDx)",
+  "slug": "bedside_chest_radiography_ddx_a8b772",
+  "chapter": "Bedside Chest Radiography",
+  "source_file": "processed_clusters/bedside_chest_radiography/bedside_chest_radiography_ddx_a8b772.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "atelectasis",
+      "raw": "atelectasis",
+      "frequency": null
+    },
+    {
+      "name": "empyema",
+      "raw": "empyema (loculated nonmobile effusion)",
+      "frequency": null
+    },
+    {
+      "name": "postpericardiotomy syndrome",
+      "raw": "postpericardiotomy syndrome (increasing effusion beyond 3rd postop. day)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "homogeneous density over lower lung | fluid over apex / in fissures | intrafissural pseudotumor | not visible in 30%"
+}

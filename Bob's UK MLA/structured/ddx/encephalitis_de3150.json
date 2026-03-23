@@ -1,0 +1,42 @@
+{
+  "finding": "ENCEPHALITIS",
+  "slug": "encephalitis_de3150",
+  "chapter": "CRYPTOCOCCOSIS OF BRAIN",
+  "source_file": "processed_clusters/cryptococcosis_of_brain/encephalitis_de3150.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "headache, altered mental status, focal neurologic deficits",
+      "raw": "headache, altered mental status, focal neurologic deficits",
+      "frequency": null
+    },
+    {
+      "name": "preceding viral syndrome, low-grade fever, headache, seizures",
+      "raw": "preceding viral syndrome, low-grade fever, headache, seizures",
+      "frequency": null
+    },
+    {
+      "name": "mental status changes: confusion, disorientation, hallucination, personality change, aphasia Location:   inferomedial temporal > frontal > parietal lobes; propensity for limbic system (olfactory tract, temporal lobes, cingulate gyrus, insular cortex); initially predominantly unilateral",
+      "raw": "mental status changes: confusion, disorientation, hallucination, personality change, aphasia Location:   inferomedial temporal > frontal > parietal lobes; propensity for limbic system (olfactory tract, temporal lobes, cingulate gyrus, insular cortex); initially predominantly unilateral",
+      "frequency": null
+    },
+    {
+      "name": "fluorescein antibody staining / viral culture from brain biopsy",
+      "raw": "fluorescein antibody staining / viral culture from brain biopsy",
+      "frequency": null
+    },
+    {
+      "name": "Low-grade glioma",
+      "raw": "Low-grade glioma",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  term generally reserved for diffuse inflammatory process of viral etiology, most commonly arthropod-borne arboviruses (Eastern + Western equine encephalitis, California virus encephalitis, St. Louis encephalitis) √  diffuse mild cerebral edema √  small infarctions / hemorrhage (less frequent) √  hyperintensity on T2WI in areas of cortical involvement Granulomatous Amebic Encephalitis =  usually in immunocompromised patients Organism:  Acanthamoeba histolytica, Balamuthia species Endemic:  southern California, Texas, Georgia, Florida Transmission: (a)  hematogenous: skin / lower respiratory"
+}

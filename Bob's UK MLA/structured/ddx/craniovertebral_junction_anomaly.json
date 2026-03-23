@@ -1,0 +1,142 @@
+{
+  "finding": "Craniovertebral Junction Anomaly",
+  "slug": "craniovertebral_junction_anomaly",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/craniovertebral_junction_anomaly.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis, Rickets",
+      "raw": "Rheumatoid arthritis, Rickets",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta, Osteomalacia",
+      "raw": "Osteogenesis imperfecta, Osteomalacia",
+      "frequency": null
+    },
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Cleidocranial dysostosis, Chiari malformation",
+      "raw": "Cleidocranial dysostosis, Chiari malformation",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Mucopolysaccharidosis",
+      "raw": "Mucopolysaccharidosis",
+      "frequency": null
+    },
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Cleidocranial dysostosis",
+      "raw": "Cleidocranial dysostosis",
+      "frequency": null
+    },
+    {
+      "name": "Klippel-Feil syndrome",
+      "raw": "Klippel-Feil syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "limitation in range of motion of CVJ",
+      "raw": "limitation in range of motion of CVJ",
+      "frequency": null
+    },
+    {
+      "name": "Condylus tertius = ossicle at distal end of clivus",
+      "raw": "Condylus tertius = ossicle at distal end of clivus",
+      "frequency": null
+    },
+    {
+      "name": "Condylar hypoplasia",
+      "raw": "Condylar hypoplasia",
+      "frequency": null
+    },
+    {
+      "name": "Basiocciput hypoplasia",
+      "raw": "Basiocciput hypoplasia",
+      "frequency": null
+    },
+    {
+      "name": "Atlanto-occipital assimilation =  complete / partial failure of segmentation between skull + 1st cervical vertebra",
+      "raw": "Atlanto-occipital assimilation =  complete / partial failure of segmentation between skull + 1st cervical vertebra",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Osteomalacia",
+      "raw": "Osteomalacia",
+      "frequency": null
+    },
+    {
+      "name": "Rickets",
+      "raw": "Rickets",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Infection of skull base",
+      "raw": "Infection of skull base",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Platybasia",
+      "raw": "Platybasia",
+      "frequency": null
+    },
+    {
+      "name": "cord symptoms",
+      "raw": "cord symptoms",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cx:     compression of brainstem (a)  → aqueductal stenosis → hydrocephalus (b)  → cord edema, syrinx Rx:     surgical decompression of posterior cranial fossa / foramen magnum (posterior approach); resection of odontoid (anterior approach) Basilar Invagination =  congenital primary developmental anomaly with abnormally high position of vertebral column prolapsing into skull base ← bone softening Associated with:   Chiari malformation, syringohydromyelia in 25-35% Cause:    mnemonic: MACKO √  abnormal craniometry: √  pseudojoint with odontoid process / anterior arch of C1 √  lateral masses of"
+}

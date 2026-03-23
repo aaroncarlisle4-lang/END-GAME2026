@@ -1,0 +1,28 @@
+{
+  "name": "CONGENITAL LUNG ABNORMALITIES",
+  "slug": "congenital_lung_abnormalities",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_chest_disorders/congenital_lung_abnormalities.md",
+  "definition": "SEQUESTRATION SPECTRUM collective name for congenital underdevelopment of one / more lobes of a lung separated",
+  "demographics": {
+    "Incidence": "1÷10,000; R÷L = 1÷1"
+  },
+  "dominant_finding": "missing bronchus + lobe(s)",
+  "distribution": "",
+  "discriminating_features": [
+    "missing bronchus + lobe(s)",
+    "absence of ipsilateral pulmonary artery",
+    "bronchus terminates in dilated blind pouch",
+    "absence of ipsilateral pulmonary tissue"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "missing bronchus + lobe(s)",
+      "absence of ipsilateral pulmonary artery",
+      "bronchus terminates in dilated blind pouch",
+      "absence of ipsilateral pulmonary tissue"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "E. CONNECTIVE-TISSUE DISEASE",
+  "slug": "e_connective_tissue_disease",
+  "chapter": "I. Vasculitis",
+  "source_file": "processed_clusters/i_vasculitis/e_connective_tissue_disease.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rheumatoid lung",
+      "raw": "Rheumatoid lung",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  reticulations in late stages"
+}

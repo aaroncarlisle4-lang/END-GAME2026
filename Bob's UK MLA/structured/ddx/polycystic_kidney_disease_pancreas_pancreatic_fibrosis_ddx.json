@@ -1,0 +1,22 @@
+{
+  "finding": "Polycystic Kidney Disease — Pancreas: pancreatic fibrosis (DDx)",
+  "slug": "polycystic_kidney_disease_pancreas_pancreatic_fibrosis_ddx",
+  "chapter": "Polycystic Kidney Disease",
+  "source_file": "processed_clusters/polycystic_kidney_disease/polycystic_kidney_disease_pancreas_pancreatic_fibrosis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meckel-Gruber syndrome",
+      "raw": "Meckel-Gruber syndrome",
+      "frequency": null
+    },
+    {
+      "name": "adult polycystic kidney disease (absence of tiny tubular",
+      "raw": "adult polycystic kidney disease (absence of tiny tubular",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "small / absent urinary bladder | small fetal thorax with pulmonary hypoplasia | club foot | congenital dislocation of hips"
+}

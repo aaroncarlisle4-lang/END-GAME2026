@@ -1,0 +1,72 @@
+{
+  "finding": "D. chronic inflammation",
+  "slug": "d_chronic_inflammation",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/d_chronic_inflammation.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoid",
+      "raw": "Sarcoid",
+      "frequency": null
+    },
+    {
+      "name": "Transverse myelitis",
+      "raw": "Transverse myelitis",
+      "frequency": null
+    },
+    {
+      "name": "Multiple sclerosis mnemonic:   I'M ASHAMED",
+      "raw": "Multiple sclerosis mnemonic:   I'M ASHAMED",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation",
+      "raw": "Inflammation (multiple sclerosis, sarcoidosis, myelitis)",
+      "frequency": null
+    },
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Astrocytoma",
+      "raw": "Astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Syringomyelia / hydromyelia",
+      "raw": "Syringomyelia / hydromyelia",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma, Hemangioblastoma",
+      "raw": "Hematoma, Hemangioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformation",
+      "raw": "Arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid",
+      "raw": "Dermoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

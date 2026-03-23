@@ -1,0 +1,35 @@
+{
+  "finding": "B. BILATERAL",
+  "slug": "b_bilateral_2",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/b_bilateral_2.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hydronephrosis",
+      "raw": "Hydronephrosis",
+      "frequency": null
+    },
+    {
+      "name": "Polycystic kidney disease",
+      "raw": "Polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Multicystic kidney + contralateral hydronephrosis",
+      "raw": "Multicystic kidney + contralateral hydronephrosis",
+      "frequency": null
+    },
+    {
+      "name": "Nephroblastomatosis [Bilateral multicystic kidney]",
+      "raw": "Nephroblastomatosis",
+      "frequency": null,
+      "sites": [
+        "Bilateral multicystic kidney"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

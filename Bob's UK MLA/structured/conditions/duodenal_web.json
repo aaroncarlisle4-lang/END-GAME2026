@@ -1,0 +1,23 @@
+{
+  "name": "DUODENAL WEB",
+  "slug": "duodenal_web",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/duodenal_web.md",
+  "definition": "failure of recanalization process in primitive foregut between 9th-11th week GA",
+  "demographics": {},
+  "dominant_finding": "fluid- / contrast-filled blind-ending saccular structure",
+  "distribution": "",
+  "discriminating_features": [
+    "fluid- / contrast-filled blind-ending saccular structure",
+    "thin enhancing diverticular wall"
+  ],
+  "other_features": {
+    "general": [
+      "fluid- / contrast-filled blind-ending saccular structure",
+      "thin enhancing diverticular wall"
+    ]
+  },
+  "clinical": {
+    "Cx": "pancreatitis ← reflux of duodenal contents through papilla of Vater"
+  }
+}

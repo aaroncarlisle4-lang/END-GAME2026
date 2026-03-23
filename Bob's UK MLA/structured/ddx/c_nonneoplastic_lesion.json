@@ -1,0 +1,42 @@
+{
+  "finding": "C. NONNEOPLASTIC LESION",
+  "slug": "c_nonneoplastic_lesion",
+  "chapter": "PERITONEUM",
+  "source_file": "processed_clusters/peritoneum/c_nonneoplastic_lesion.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pleural plaque",
+      "raw": "Pleural plaque",
+      "frequency": null
+    },
+    {
+      "name": "Pleural fibrosis",
+      "raw": "Pleural fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial cyst",
+      "raw": "Pericardial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing encapsulating peritonitis",
+      "raw": "Sclerosing encapsulating peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing mesenteritis",
+      "raw": "Sclerosing mesenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal inclusion cyst",
+      "raw": "Peritoneal inclusion cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

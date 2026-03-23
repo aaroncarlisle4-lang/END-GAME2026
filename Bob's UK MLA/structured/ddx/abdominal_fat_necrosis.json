@@ -1,0 +1,47 @@
+{
+  "finding": "Abdominal Fat Necrosis",
+  "slug": "abdominal_fat_necrosis",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/abdominal_fat_necrosis.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epiploic appendagitis",
+      "raw": "Epiploic appendagitis",
+      "frequency": null
+    },
+    {
+      "name": "Omental infarction",
+      "raw": "Omental infarction",
+      "frequency": null
+    },
+    {
+      "name": "Encapsulated fat necrosis",
+      "raw": "Encapsulated fat necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Fat saponification from pancreatitis = retroperitoneal fat necrosis",
+      "raw": "Fat saponification from pancreatitis = retroperitoneal fat necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Focal lipohypertrophy Cause:   insulin injections into subcutaneous tissue in insulin-dependent diabetics",
+      "raw": "Focal lipohypertrophy Cause:   insulin injections into subcutaneous tissue in insulin-dependent diabetics",
+      "frequency": null
+    },
+    {
+      "name": "Lipodystrophy =  heterogeneous group of disorders interfering with normal distribution of adipose tissue",
+      "raw": "Lipodystrophy =  heterogeneous group of disorders interfering with normal distribution of adipose tissue",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma",
+      "raw": "Liposarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Mimicks:"
+}

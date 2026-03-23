@@ -1,0 +1,37 @@
+{
+  "finding": "Tertiary Esophageal Contractions",
+  "slug": "tertiary_esophageal_contractions",
+  "chapter": "E. EXTRINSIC COMPRESSION",
+  "source_file": "processed_clusters/e_extrinsic_compression/tertiary_esophageal_contractions.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Presbyesophagus",
+      "raw": "Presbyesophagus",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse esophageal spasm",
+      "raw": "Diffuse esophageal spasm",
+      "frequency": null
+    },
+    {
+      "name": "Hyperactive achalasia",
+      "raw": "Hyperactive achalasia",
+      "frequency": null
+    },
+    {
+      "name": "Neuromuscular disease:",
+      "raw": "Neuromuscular disease:",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction of cardia:",
+      "raw": "Obstruction of cardia:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  nonpropulsive esophageal motor event characterized by disorderly up-and-down movement of bolus without clearing of esophagus Cause: diabetes mellitus, parkinsonism, amyotrophic lateral sclerosis, multiple sclerosis, thyrotoxic myopathy, myotonic dystrophy neoplasm, distal esophageal stricture, benign lesion, S/P repair of hiatal hernia ◊  Tertiary activity does not necessarily imply a significant motility disturbance! Age:  in 5-10% of normal adults during 4th-6th decade (a)  nonsegmental = partial luminal indentation Location:   in lower ²/³ of esophagus √  spontaneous repetitive nonpropul"
+}

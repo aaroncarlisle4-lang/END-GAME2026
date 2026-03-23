@@ -1,0 +1,31 @@
+{
+  "name": "SCHWANNOMA OF ADRENAL GLAND",
+  "slug": "schwannoma_of_adrenal_gland",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/schwannoma_of_adrenal_gland.md",
+  "definition": "benign nerve sheath tumor of neural crest origin",
+  "demographics": {
+    "Location": "retroperitoneum (3%), adrenal gland (rare)",
+    "Age": "20-40 years"
+  },
+  "dominant_finding": "heterogeneously enhancing hypoattenuating mass",
+  "distribution": "retroperitoneum (3%), adrenal gland (rare)",
+  "discriminating_features": [
+    "heterogeneously enhancing hypoattenuating mass",
+    "marked variability depending on degree of degeneration",
+    "isointense signal to muscle on T1WI",
+    "hyperintensity on T2WI"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "heterogeneously enhancing hypoattenuating mass"
+    ],
+    "MR": [
+      "marked variability depending on degree of degeneration",
+      "isointense signal to muscle on T1WI",
+      "hyperintensity on T2WI"
+    ]
+  },
+  "clinical": {}
+}

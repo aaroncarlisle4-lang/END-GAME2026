@@ -1,0 +1,57 @@
+{
+  "finding": "Demineralization of Temporal Bone",
+  "slug": "demineralization_of_temporal_bone_6c2a56",
+  "chapter": "D. PETROUS APEX",
+  "source_file": "processed_clusters/d_petrous_apex/demineralization_of_temporal_bone_6c2a56.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Otosclerosis = otospongiosis",
+      "raw": "Otosclerosis = otospongiosis",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease = osteoporosis circumscripta",
+      "raw": "Paget disease = osteoporosis circumscripta",
+      "frequency": null
+    },
+    {
+      "name": "sensorineural / mixed hearing loss",
+      "raw": "sensorineural / mixed hearing loss (cochlear involvement / stapes fixation in oval window)",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia monostotic with temporal bone involvement Cause:   inability to form mature lamellar bone owing to disordered osteoblastic activity",
+      "raw": "Fibrous dysplasia monostotic with temporal bone involvement Cause:   inability to form mature lamellar bone owing to disordered osteoblastic activity",
+      "frequency": null
+    },
+    {
+      "name": "painless mastoid swelling",
+      "raw": "painless mastoid swelling",
+      "frequency": null
+    },
+    {
+      "name": "conductive hearing loss ← narrowing of EAC / middle ear",
+      "raw": "conductive hearing loss ← narrowing of EAC / middle ear",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Otosyphilis: labyrinthitis + gummatous lesion of internal auditory canal + inflammatory",
+      "raw": "Otosyphilis: labyrinthitis + gummatous lesion of internal auditory canal + inflammatory",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  usually lytic changes beginning in petrous pyramid + progressing laterally; otic capsule last to be affected √  calvarial changes ± basilar impression √  homogeneously dense thickened structurally weak bone (fibro-osseous tissue less dense than calvarial bone) √  bone expansion with preserved cortex → osseous narrowing of vascular channels + neuroforamina √  lytic lesions (less frequent) √  sparing of membranous labyrinth, facial nerve canal, IAC is the rule √  changes similar to otosclerosis van der Hoeve-de Kleyn syndrome =  osteogenesis imperfecta + hearing loss + blue sclerae in patient"
+}

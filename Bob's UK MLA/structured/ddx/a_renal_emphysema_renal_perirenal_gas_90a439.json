@@ -1,0 +1,32 @@
+{
+  "finding": "A. RENAL EMPHYSEMA = renal / perirenal gas",
+  "slug": "a_renal_emphysema_renal_perirenal_gas_90a439",
+  "chapter": "GAS IN URINARY TRACT",
+  "source_file": "processed_clusters/gas_in_urinary_tract/a_renal_emphysema_renal_perirenal_gas_90a439.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Emphysematous pyelonephritis",
+      "raw": "Emphysematous pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Emphysematous pyelitis",
+      "raw": "Emphysematous pyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Gas-forming perinephric abscess",
+      "raw": "Gas-forming perinephric abscess",
+      "frequency": null
+    },
+    {
+      "name": "Perinephric emphysema",
+      "raw": "Perinephric emphysema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

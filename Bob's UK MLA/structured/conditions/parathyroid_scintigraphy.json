@@ -1,0 +1,23 @@
+{
+  "name": "PARATHYROID SCINTIGRAPHY",
+  "slug": "parathyroid_scintigraphy",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/parathyroid_scintigraphy.md",
+  "definition": "DUAL ISOTOPE SCINTIGRAPHY",
+  "demographics": {},
+  "dominant_finding": "pertechnetate concentrates only in thyroid",
+  "distribution": "focal / multifocal excess 201Tl",
+  "discriminating_features": [
+    "concentrates in normal thyroid + enlarged parathyroid glands (extraction proportional",
+    "pertechnetate concentrates only in thyroid",
+    "focal / multifocal excess 201Tl"
+  ],
+  "other_features": {
+    "general": [
+      "concentrates in normal thyroid + enlarged parathyroid glands (extraction proportional",
+      "pertechnetate concentrates only in thyroid",
+      "focal / multifocal excess 201Tl"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Gastric Volvulus (DDx)",
+  "slug": "gastric_volvulus_ddx_88b70f",
+  "chapter": "Gastric Volvulus",
+  "source_file": "processed_clusters/gastric_volvulus/gastric_volvulus_ddx_88b70f.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "incarcerated hiatal hernia",
+      "raw": "incarcerated hiatal hernia",
+      "frequency": null
+    },
+    {
+      "name": "gastric atony",
+      "raw": "gastric atony",
+      "frequency": null
+    },
+    {
+      "name": "acute gastric dilatation",
+      "raw": "acute gastric dilatation",
+      "frequency": null
+    },
+    {
+      "name": "pyloric obstruction",
+      "raw": "pyloric obstruction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "usually partial volvulus | no underlying diaphragmatic defect | antrum moves above gastroesophageal junction: | \"right-side up\" stomach = antrum / pylorus rotates anterosuperiorly and from right"
+}

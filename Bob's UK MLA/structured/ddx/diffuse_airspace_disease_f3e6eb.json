@@ -1,0 +1,45 @@
+{
+  "finding": "Diffuse Airspace Disease",
+  "slug": "diffuse_airspace_disease_f3e6eb",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/diffuse_airspace_disease_f3e6eb.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "INFLAMMATORY EXUDATE = \"PUS\"",
+      "raw": "INFLAMMATORY EXUDATE = \"PUS\"",
+      "frequency": null
+    },
+    {
+      "name": "Lobar pneumonia",
+      "raw": "Lobar pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Bronchopneumonia: especially gram-negative organisms",
+      "raw": "Bronchopneumonia: especially gram-negative organisms",
+      "frequency": null
+    },
+    {
+      "name": "Unusual pneumonia (a)  viral: extensive hemorrhagic edema especially in immunocompromised patient with hematologic malignancy + transplant (b)  Pneumocystis (c)  fungal: Aspergillus, Candida, Cryptococcus, Phycomycetes (d)  tuberculosis",
+      "raw": "Unusual pneumonia (a)  viral: extensive hemorrhagic edema especially in immunocompromised patient with hematologic malignancy + transplant (b)  Pneumocystis (c)  fungal: Aspergillus, Candida, Cryptococcus, Phycomycetes (d)  tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Complication of pneumonia = lung abscess",
+      "raw": "Complication of pneumonia = lung abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "INFLAMMATORY EXUDATE = \"PUS\"": [],
+    "Lobar pneumonia": [],
+    "Bronchopneumonia: especially gram-negative organisms": [],
+    "Unusual pneumonia (a)  viral: extensive hemorrhagic edema especially in immunocompromised patient with hematologic malignancy + transplant (b)  Pneumocystis (c)  fungal: Aspergillus, Candida, Cryptococcus, Phycomycetes (d)  tuberculosis": [
+      "=  alveoli filled with"
+    ],
+    "Complication of pneumonia = lung abscess": []
+  },
+  "context": "=  alveoli filled with"
+}

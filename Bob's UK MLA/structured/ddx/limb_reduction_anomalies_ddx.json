@@ -1,0 +1,22 @@
+{
+  "finding": "Limb Reduction Anomalies (DDx)",
+  "slug": "limb_reduction_anomalies_ddx",
+  "chapter": "Limb Reduction Anomalies",
+  "source_file": "processed_clusters/limb_reduction_anomalies/limb_reduction_anomalies_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "oligodactyly",
+      "raw": "oligodactyly (= reduced number of well-formed fingers)",
+      "frequency": null
+    },
+    {
+      "name": "constrictive amniotic bands",
+      "raw": "constrictive amniotic bands",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "deep V- or U-shaped central defect"
+}

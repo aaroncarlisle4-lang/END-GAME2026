@@ -1,0 +1,92 @@
+{
+  "finding": "Spontaneous Pneumoperitoneum",
+  "slug": "spontaneous_pneumoperitoneum_4f712e",
+  "chapter": "ABNORMAL INTRAABDOMINAL AIR",
+  "source_file": "processed_clusters/abnormal_intraabdominal_air/spontaneous_pneumoperitoneum_4f712e.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Perforated peptic ulcer",
+      "raw": "Perforated peptic ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia",
+      "raw": "Ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Bowel obstruction",
+      "raw": "Bowel obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Toxic megacolon",
+      "raw": "Toxic megacolon",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation: appendicitis, tuberculosis, necrotizing enterocolitis",
+      "raw": "Inflammation: appendicitis, tuberculosis, necrotizing enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Benign pneumoperitoneum of systemic sclerosis",
+      "raw": "Benign pneumoperitoneum of systemic sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy (8-10%): colorectal carcinoma (3-10%), gastrointestinal lymphoma",
+      "raw": "Malignancy (8-10%): colorectal carcinoma (3-10%), gastrointestinal lymphoma",
+      "frequency": "10%"
+    },
+    {
+      "name": "Perforating foreign body: eg, thermometer injury to rectum, vaginal stimulator in rectum",
+      "raw": "Perforating foreign body: eg, thermometer injury to rectum, vaginal stimulator in rectum",
+      "frequency": null
+    },
+    {
+      "name": "Barotrauma:",
+      "raw": "Barotrauma:",
+      "frequency": null
+    },
+    {
+      "name": "ABDOMINAL GAS =  presence of gas confined to inner layer of abdominal wall but external to parietal peritoneum (a)  gastrointestinal gas",
+      "raw": "ABDOMINAL GAS =  presence of gas confined to inner layer of abdominal wall but external to parietal peritoneum (a)  gastrointestinal gas",
+      "frequency": null
+    },
+    {
+      "name": "\"Pseudo-wall\" sign = apposition of gas-distended bowel loops",
+      "raw": "\"Pseudo-wall\" sign = apposition of gas-distended bowel loops",
+      "frequency": null
+    },
+    {
+      "name": "Chilaiditi syndrome",
+      "raw": "Chilaiditi syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Diaphragmatic hernia",
+      "raw": "Diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Diverticulum of esophagus / stomach / duodenum (b)  extraintestinal gas",
+      "raw": "Diverticulum of esophagus / stomach / duodenum (b)  extraintestinal gas",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal air: eg, rectal injury",
+      "raw": "Retroperitoneal air: eg, rectal injury",
+      "frequency": null
+    },
+    {
+      "name": "Subdiaphragmatic abscess",
+      "raw": "Subdiaphragmatic abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "CT √  depiction of primary malignancy + site and extent of perforation √  pneumoperitoneum √  extravasation of bowel content + oral contrast √  contained leak √  gas within tumor √  formation of enteroenteric fistula Traumatic Pneumoperitoneum (a)  Blunt trauma (b)  Penetrating trauma: (a)  compressor air directed toward anus (b)  pulmonary barotrauma (c)  mechanical ventilation Pseudopneumoperitoneum =  process mimicking free air"
+}

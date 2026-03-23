@@ -1,0 +1,29 @@
+{
+  "name": "KRUKENBERG TUMOR",
+  "slug": "krukenberg_tumor",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/krukenberg_tumor.md",
+  "definition": "metastatic ovarian adenocarcinoma most commonly originating in GI tract",
+  "demographics": {
+    "Age": "any age, most common in 5th-6th decade"
+  },
+  "dominant_finding": "variable hypointensity on T2WI ← mucin-filled signet-ring cells + abundant collagen",
+  "distribution": "solid mass + intratumoral cysts; in 60-80% bilateral",
+  "discriminating_features": [
+    "solid mass + intratumoral cysts; in 60-80% bilateral",
+    "hypo- / hyperechoic mass ± cystic degeneration",
+    "variable hypointensity on T2WI ← mucin-filled signet-ring cells + abundant collagen",
+    "moderate to marked enhancement of solid components"
+  ],
+  "other_features": {
+    "general": [
+      "solid mass + intratumoral cysts; in 60-80% bilateral",
+      "hypo- / hyperechoic mass ± cystic degeneration"
+    ],
+    "MR": [
+      "variable hypointensity on T2WI ← mucin-filled signet-ring cells + abundant collagen",
+      "moderate to marked enhancement of solid components"
+    ]
+  },
+  "clinical": {}
+}

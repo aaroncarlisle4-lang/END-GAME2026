@@ -1,0 +1,37 @@
+{
+  "finding": "D. MALIGNANT",
+  "slug": "d_malignant_1",
+  "chapter": "Absence of Innominate Line",
+  "source_file": "processed_clusters/absence_of_innominate_line/d_malignant_1.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastasis: prostate, lung, breast",
+      "raw": "Metastasis: prostate, lung, breast",
+      "frequency": null
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Nasopharyngeal carcinoma",
+      "raw": "Nasopharyngeal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Perineural tumor spread: head + neck neoplasm",
+      "raw": "Perineural tumor spread: head + neck neoplasm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

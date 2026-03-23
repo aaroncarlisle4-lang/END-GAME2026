@@ -1,0 +1,37 @@
+{
+  "finding": "Spondyloepiphyseal Dysplasia Congenita",
+  "slug": "spondyloepiphyseal_dysplasia_congenita",
+  "chapter": "SPONDYLOEPIPHYSEAL DYSPLASIA",
+  "source_file": "processed_clusters/spondyloepiphyseal_dysplasia/spondyloepiphyseal_dysplasia_congenita.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "disproportionate dwarfism with spine + hips more involved than extremities",
+      "raw": "disproportionate dwarfism with spine + hips more involved than extremities",
+      "frequency": null
+    },
+    {
+      "name": "waddling gait + muscular weakness",
+      "raw": "waddling gait + muscular weakness",
+      "frequency": null
+    },
+    {
+      "name": "flat facies; short neck; deafness",
+      "raw": "flat facies; short neck; deafness",
+      "frequency": null
+    },
+    {
+      "name": "Retinal detachment, myopia",
+      "raw": "Retinal detachment, myopia (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Secondary arthritis in weight-bearing joints",
+      "raw": "Secondary arthritis in weight-bearing joints",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Autosomal dominant / sporadic (most) √  cleft palate @   Axial skeleton √  ovoid vertebral bodies + severe platyspondyly (incomplete fusion of ossification centers + flattening of vertebral bodies) √  hypoplasia of odontoid process (Cx: cervical myelopathy) √  progressive kyphoscoliosis (short trunk) involving thoracic + lumbar spine √  narrowing of disk spaces → short trunk √  broad iliac bases + deficient ossification of pubis √  flat acetabular roof @   Chest √  bell-shaped thorax √  pectus carinatum @   Extremities √  normal / slightly shortened limbs √  severe coxa vara + genu valgum √  m"
+}

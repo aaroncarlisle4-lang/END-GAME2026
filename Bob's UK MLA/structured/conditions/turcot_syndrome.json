@@ -1,0 +1,25 @@
+{
+  "name": "TURCOT SYNDROME",
+  "slug": "turcot_syndrome",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/turcot_syndrome.md",
+  "definition": "autosomal recessive disease with",
+  "demographics": {
+    "Age": "symptomatic during 2nd decade",
+    "Histo": "adenomatous polyps"
+  },
+  "dominant_finding": "multiple 1-30-mm polyps in colon + rectum",
+  "distribution": "",
+  "discriminating_features": [
+    "multiple 1-30-mm polyps in colon + rectum"
+  ],
+  "other_features": {
+    "general": [
+      "multiple 1-30-mm polyps in colon + rectum"
+    ]
+  },
+  "clinical": {
+    "Cx": "malignant transformation of colonic polyps in 100%",
+    "Prognosis": "death from brain tumor in 2nd + 3rd decade"
+  }
+}

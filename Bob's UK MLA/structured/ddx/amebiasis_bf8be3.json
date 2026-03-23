@@ -1,0 +1,42 @@
+{
+  "finding": "AMEBIASIS",
+  "slug": "amebiasis_bf8be3",
+  "chapter": "AIDS",
+  "source_file": "processed_clusters/aids/amebiasis_bf8be3.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "asymptomatic for months / years; fever, headache, nausea",
+      "raw": "asymptomatic for months / years; fever, headache, nausea",
+      "frequency": null
+    },
+    {
+      "name": "acute attacks of diarrhea (= loose mucoid bloodstained stools) Location:   (areas of relative stasis) right colon + cecum (90%) > hepatic + splenic flexures > rectosigmoid",
+      "raw": "acute attacks of diarrhea (= loose mucoid bloodstained stools) Location:   (areas of relative stasis) right colon + cecum (90%) > hepatic + splenic flexures > rectosigmoid",
+      "frequency": "90%"
+    },
+    {
+      "name": "Toxic megacolon with perforation",
+      "raw": "Toxic megacolon with perforation",
+      "frequency": null
+    },
+    {
+      "name": "Amebic abscess in liver (2%), brain, lung, pericolic, ischiorectal, subphrenic space",
+      "raw": "Amebic abscess in liver (2%), brain, lung, pericolic, ischiorectal, subphrenic space",
+      "frequency": "2%"
+    },
+    {
+      "name": "Intussusception in children ← ameboma",
+      "raw": "Intussusception in children ← ameboma",
+      "frequency": null
+    },
+    {
+      "name": "Fistula formation: colovesical, rectovesical, rectovaginal, enterocolic, hepatobronchial, bronchobiliary",
+      "raw": "Fistula formation: colovesical, rectovesical, rectovaginal, enterocolic, hepatobronchial, bronchobiliary",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  primary infection of colon by protozoan Entamoeba histolytica Organism:   free-living protozoa widespread in water, soil, air Countries:   worldwide distribution, most common in warm climates; South Africa, Egypt, India, Asia, Central + South America (20%); USA (5%) Route:   ingestion of cysts in contaminated food / water → cyst dissolves in small bowel → trophozoites settle in colon; invasion of bowel wall ← proteolytic enzymes and hyaluronidase that lyse intestinal epithelium; may embolize into portal venous + systemic blood system Histo:   amebic invasion of mucosa + submucosa causing ti"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Diffusely Enlarged Pancreas",
+  "slug": "diffusely_enlarged_pancreas_a8a804",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/diffusely_enlarged_pancreas_a8a804.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malignant lymphoma",
+      "raw": "Malignant lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma",
+      "raw": "Plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse infiltrative pancreatic carcinoma",
+      "raw": "Diffuse infiltrative pancreatic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Autoimmune pancreatitis",
+      "raw": "Autoimmune pancreatitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

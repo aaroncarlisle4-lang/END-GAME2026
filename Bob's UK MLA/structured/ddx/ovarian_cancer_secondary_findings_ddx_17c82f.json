@@ -1,0 +1,32 @@
+{
+  "finding": "Ovarian Cancer — Secondary findings: (DDx)",
+  "slug": "ovarian_cancer_secondary_findings_ddx_17c82f",
+  "chapter": "Ovarian Cancer",
+  "source_file": "processed_clusters/ovarian_cancer/ovarian_cancer_secondary_findings_ddx_17c82f.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "endometrioma",
+      "raw": "endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "benign cystic teratoma",
+      "raw": "benign cystic teratoma",
+      "frequency": null
+    },
+    {
+      "name": "inflammatory mass",
+      "raw": "inflammatory mass (PID)",
+      "frequency": null
+    },
+    {
+      "name": "physiologic change",
+      "raw": "physiologic change",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "high SI on T1WI = fat / blood | subsequent loss of SI on fat-suppressed T1WI = blood | low SI on T2WI = fibrous tissue / hemosiderin | lack of enhancement"
+}

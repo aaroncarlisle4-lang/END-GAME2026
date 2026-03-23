@@ -1,0 +1,39 @@
+{
+  "name": "PITUITARY GLAND",
+  "slug": "pituitary_gland",
+  "chapter": "ANATOMY OF THE NERVOUS SYSTEM",
+  "source_file": "processed_clusters/disease_entries/anatomy_of_the_nervous_system/pituitary_gland.md",
+  "definition": "hypophysis cerebri within hypophyseal fossa of sphenoid, covered superiorly by sellar larger anterior portion of adenohypophysis comprising 80% of pituitary gland volume posterior portion of adenohypophysis, separated from anterior lobe by hypophyseal cleft in major portion of neurohypophysis termination point of neurosecretory axons from supraoptic and paraventricular nuclei of",
+  "demographics": {
+    "Size": "(adult size is achieved at puberty)",
+    "Histo": "formed from axons of cells lying in supraoptic + paraventricular nuclei of hypothalamus"
+  },
+  "dominant_finding": "prominent contrast enhancement (during first 3 minutes) ← lack of blood-brain barrier",
+  "distribution": "flat / downwardly convex superior border",
+  "discriminating_features": [
+    "flat / downwardly convex superior border",
+    "upwardly convex during puberty, pregnancy, in hypothyroidism (due to hyperplasia)",
+    "larger homogeneous component isointense to white matter on T1WI + T2WI",
+    "prominent contrast enhancement (during first 3 minutes) ← lack of blood-brain barrier",
+    "hyperintense in newborn fading to normal adult signal by 2nd month of life"
+  ],
+  "other_features": {
+    "general": [
+      "flat / downwardly convex superior border",
+      "upwardly convex during puberty, pregnancy, in hypothyroidism (due to hyperplasia)"
+    ],
+    "MR": [
+      "larger homogeneous component isointense to white matter on T1WI + T2WI",
+      "prominent contrast enhancement (during first 3 minutes) ← lack of blood-brain barrier",
+      "hyperintense in newborn fading to normal adult signal by 2nd month of life",
+      "not visible with imaging techniques",
+      "crescent of T1-hyperintensity + T2-isointensity compared with anterior pituitary lobe ←",
+      "isointense in 10% of normal individuals",
+      "joins posterior lobe at junction of anterior + posterior lobes",
+      "up to 3 mm thick superiorly, up to 2 mm thick inferiorly",
+      "usually in midline, may be slightly tilted to one side",
+      "prominent contrast enhancement"
+    ]
+  },
+  "clinical": {}
+}

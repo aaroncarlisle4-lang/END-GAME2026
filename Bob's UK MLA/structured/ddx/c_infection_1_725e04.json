@@ -1,0 +1,32 @@
+{
+  "finding": "C. Infection",
+  "slug": "c_infection_1_725e04",
+  "chapter": "CRYPTOCOCCOSIS OF BRAIN",
+  "source_file": "processed_clusters/cryptococcosis_of_brain/c_infection_1_725e04.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Virus: CMV, rubella",
+      "raw": "Virus: CMV, rubella",
+      "frequency": null
+    },
+    {
+      "name": "Protozoan: toxoplasmosis",
+      "raw": "Protozoan: toxoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Teratogen: alcohol, sodium warfarin",
+      "raw": "Teratogen: alcohol, sodium warfarin",
+      "frequency": null
+    },
+    {
+      "name": "Multifactorial",
+      "raw": "Multifactorial",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Pseudo-Dandy-Walker Malformation =  developing normal rhombencephalon during 1st trimester √  fluid-filled space in posterior aspect of fetal head"
+}

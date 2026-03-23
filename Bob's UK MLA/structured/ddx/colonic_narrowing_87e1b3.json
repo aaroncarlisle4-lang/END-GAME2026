@@ -1,0 +1,102 @@
+{
+  "finding": "Colonic Narrowing",
+  "slug": "colonic_narrowing_87e1b3",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/colonic_narrowing_87e1b3.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "CHRONIC STAGE OF ANY ULCERATING COLITIS (a)  inflammatory:",
+      "raw": "CHRONIC STAGE OF ANY ULCERATING COLITIS (a)  inflammatory:",
+      "frequency": null
+    },
+    {
+      "name": "Ulcerative colitis",
+      "raw": "Ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "Crohn colitis",
+      "raw": "Crohn colitis",
+      "frequency": null
+    },
+    {
+      "name": "Solitary rectal ulcer syndrome",
+      "raw": "Solitary rectal ulcer syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Nonspecific benign ulcer (b)  infectious:",
+      "raw": "Nonspecific benign ulcer (b)  infectious:",
+      "frequency": null
+    },
+    {
+      "name": "Amebiasis",
+      "raw": "Amebiasis",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Bacillary dysentery",
+      "raw": "Bacillary dysentery",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Fungal disease",
+      "raw": "Fungal disease",
+      "frequency": null
+    },
+    {
+      "name": "Lymphogranuloma venereum",
+      "raw": "Lymphogranuloma venereum",
+      "frequency": null
+    },
+    {
+      "name": "Herpes zoster",
+      "raw": "Herpes zoster",
+      "frequency": null
+    },
+    {
+      "name": "Cytomegalovirus",
+      "raw": "Cytomegalovirus",
+      "frequency": null
+    },
+    {
+      "name": "Strongyloides (c)  ischemic",
+      "raw": "Strongyloides (c)  ischemic",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic colitis (d)  traumatic",
+      "raw": "Ischemic colitis (d)  traumatic",
+      "frequency": null
+    },
+    {
+      "name": "Radiation injury",
+      "raw": "Radiation injury",
+      "frequency": null
+    },
+    {
+      "name": "Cathartic colon",
+      "raw": "Cathartic colon",
+      "frequency": null
+    },
+    {
+      "name": "Caustic colitis",
+      "raw": "Caustic colitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

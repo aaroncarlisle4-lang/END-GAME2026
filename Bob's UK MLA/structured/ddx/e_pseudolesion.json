@@ -1,0 +1,27 @@
+{
+  "finding": "E. PSEUDOLESION",
+  "slug": "e_pseudolesion",
+  "chapter": "D. MISCELLANEOUS",
+  "source_file": "processed_clusters/d_miscellaneous/e_pseudolesion.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Focal fatty infiltration",
+      "raw": "Focal fatty infiltration",
+      "frequency": null
+    },
+    {
+      "name": "Focal fat sparing",
+      "raw": "Focal fat sparing",
+      "frequency": null
+    },
+    {
+      "name": "Confluent hepatic fibrosis",
+      "raw": "Confluent hepatic fibrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

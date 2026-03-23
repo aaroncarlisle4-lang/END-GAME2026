@@ -1,0 +1,22 @@
+{
+  "finding": "Esophagitis (DDx)",
+  "slug": "esophagitis_ddx_3",
+  "chapter": "Esophagitis",
+  "source_file": "processed_clusters/esophagitis/esophagitis_ddx_3.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "herpes esophagitis (immunosuppressed patient",
+      "raw": "herpes esophagitis (immunosuppressed patient",
+      "frequency": null
+    },
+    {
+      "name": "less localized); reflux esophagitis",
+      "raw": "less localized); reflux esophagitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "EN FACE: central punctate collections of barium surrounded by a radiolucent halo (= | IN PROFILE: elongated flat plaquelike filling defects | superficial solitary / several discrete ulcers with sharply delineated margins with | ulcers may be invisible"
+}

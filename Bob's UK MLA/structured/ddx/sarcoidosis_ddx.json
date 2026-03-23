@@ -1,0 +1,32 @@
+{
+  "finding": "Sarcoidosis (DDx)",
+  "slug": "sarcoidosis_ddx",
+  "chapter": "Sarcoidosis",
+  "source_file": "processed_clusters/sarcoidosis/sarcoidosis_ddx.md",
+  "quality_score": 0.65,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "indistinguishable from granulomas of berylliosis",
+      "raw": "indistinguishable from granulomas of berylliosis",
+      "frequency": null
+    },
+    {
+      "name": "treated TB",
+      "raw": "treated TB",
+      "frequency": null
+    },
+    {
+      "name": "leprosy",
+      "raw": "leprosy",
+      "frequency": null
+    },
+    {
+      "name": "fungal",
+      "raw": "fungal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

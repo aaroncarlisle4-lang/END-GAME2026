@@ -1,0 +1,32 @@
+{
+  "finding": "F. MALIGNANT TUMOR",
+  "slug": "f_malignant_tumor",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/f_malignant_tumor.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Solitary / multiple metastases",
+      "raw": "Solitary / multiple metastases",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma",
+      "raw": "Multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

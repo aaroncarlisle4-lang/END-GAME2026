@@ -1,0 +1,27 @@
+{
+  "finding": "C. Omental / mesenteric conditions",
+  "slug": "c_omental_mesenteric_conditions",
+  "chapter": "B. Malignancy",
+  "source_file": "processed_clusters/b_malignancy/c_omental_mesenteric_conditions.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epiploic appendagitis",
+      "raw": "Epiploic appendagitis",
+      "frequency": null
+    },
+    {
+      "name": "Omental infarction",
+      "raw": "Omental infarction",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric adenitis",
+      "raw": "Mesenteric adenitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

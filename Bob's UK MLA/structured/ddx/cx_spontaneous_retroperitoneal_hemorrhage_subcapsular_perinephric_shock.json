@@ -1,0 +1,47 @@
+{
+  "finding": "Cx: spontaneous retroperitoneal hemorrhage (subcapsular / perinephric) → shock",
+  "slug": "cx_spontaneous_retroperitoneal_hemorrhage_subcapsular_perinephric_shock",
+  "chapter": "TERATOMA OF CNS",
+  "source_file": "processed_clusters/teratoma_of_cns/cx_spontaneous_retroperitoneal_hemorrhage_subcapsular_perinephric_shock.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Multiple cysts of varying size in cortex + medulla mimicking adult polycystic kidney disease (15%) Path:   cysts lined by columnar epithelium with foci of hyperplasia projecting into cyst lumen",
+      "raw": "Multiple cysts of varying size in cortex + medulla mimicking adult polycystic kidney disease (15%) Path:   cysts lined by columnar epithelium with foci of hyperplasia projecting into cyst lumen",
+      "frequency": "15%"
+    },
+    {
+      "name": "Renal cell carcinoma / Malignant epithelioid form of angiomyolipoma (1-3%), bilateral in 40%;",
+      "raw": "Renal cell carcinoma / Malignant epithelioid form of angiomyolipoma (1-3%), bilateral in 40%;",
+      "frequency": "3%"
+    },
+    {
+      "name": "progressive respiratory insufficiency",
+      "raw": "progressive respiratory insufficiency",
+      "frequency": null
+    },
+    {
+      "name": "congenital cardiomyopathy; typically clinically silent",
+      "raw": "congenital cardiomyopathy; typically clinically silent",
+      "frequency": null
+    },
+    {
+      "name": "Adenomas + lipomyomas of liver",
+      "raw": "Adenomas + lipomyomas of liver",
+      "frequency": null
+    },
+    {
+      "name": "Adenomas of pancreas",
+      "raw": "Adenomas of pancreas",
+      "frequency": null
+    },
+    {
+      "name": "Tumors of spleen @   VASCULAR INVOLVEMENT",
+      "raw": "Tumors of spleen @   VASCULAR INVOLVEMENT (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "√  polycystic involvement in infants Average age:   28 years (= 25 years younger than for RCC in general population) √  rapid growth + presence of calcifications Recommendation: US evaluation every 2-3 years before puberty + yearly thereafter to identify growing lesions @   LUNG INVOLVEMENT (1-4%) Age:   3rd-5th decade; in women √  interstitial fibrosis in lower lung fields + miliary nodular pattern may progress to honeycomb lung (lymphangioleiomyomatosis = smooth muscle proliferation around blood vessels) √  multiple bilateral small cysts in lung parenchyma on CT (26-39%) √  repeated episodes"
+}

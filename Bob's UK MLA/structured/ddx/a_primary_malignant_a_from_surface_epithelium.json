@@ -1,0 +1,57 @@
+{
+  "finding": "A. PRIMARY MALIGNANT (a) from surface epithelium",
+  "slug": "a_primary_malignant_a_from_surface_epithelium",
+  "chapter": "TRACHEA & BRONCHI",
+  "source_file": "processed_clusters/trachea_bronchi/a_primary_malignant_a_from_surface_epithelium.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Squamous-cell carcinoma (commonest primary) ◊  50% of all malignant tracheal lesions",
+      "raw": "Squamous-cell carcinoma (commonest primary) ◊  50% of all malignant tracheal lesions",
+      "frequency": "50%"
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroendocrine tumor = carcinoid (b)  from salivary gland",
+      "raw": "Neuroendocrine tumor = carcinoid (b)  from salivary gland",
+      "frequency": null
+    },
+    {
+      "name": "Cylindroma = adenoid cystic ca.",
+      "raw": "Cylindroma = adenoid cystic ca.",
+      "frequency": null
+    },
+    {
+      "name": "Mucoepidermoid carcinoma (c)  from mesenchyme",
+      "raw": "Mucoepidermoid carcinoma (c)  from mesenchyme",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma",
+      "raw": "Plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "SECONDARY MALIGNANT (a)  direct invasion: thyroid, lung, larynx, esophagus (b)  hematogenous: malignant melanoma, breast cancer, renal cell carcinoma, colon cancer",
+      "raw": "SECONDARY MALIGNANT (a)  direct invasion: thyroid, lung, larynx, esophagus (b)  hematogenous: malignant melanoma, breast cancer, renal cell carcinoma, colon cancer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

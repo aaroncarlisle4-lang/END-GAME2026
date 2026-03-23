@@ -1,0 +1,52 @@
+{
+  "finding": "Multifocal Intrahepatic Bile Duct Strictures",
+  "slug": "multifocal_intrahepatic_bile_duct_strictures_912e11",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/multifocal_intrahepatic_bile_duct_strictures_912e11.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary sclerosing cholangitis",
+      "raw": "Primary sclerosing cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Ascending cholangitis ← stricture / stone / bile duct anomaly",
+      "raw": "Ascending cholangitis ← stricture / stone / bile duct anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Oriental cholangiohepatitis",
+      "raw": "Oriental cholangiohepatitis",
+      "frequency": null
+    },
+    {
+      "name": "AIDS-related cholangitis",
+      "raw": "AIDS-related cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia",
+      "raw": "Ischemia (a)  floxuridine treatment (b)  hepatic arterial thrombosis (in liver transplant)",
+      "frequency": null
+    },
+    {
+      "name": "NEOPLASM (a)  cholangiocarcinoma (b)  metastases: GI tract, lymphoma, breast, lung",
+      "raw": "NEOPLASM (a)  cholangiocarcinoma (b)  metastases: GI tract, lymphoma, breast, lung",
+      "frequency": null
+    },
+    {
+      "name": "Previous bile surgery",
+      "raw": "Previous bile surgery",
+      "frequency": null
+    },
+    {
+      "name": "Congenital biliary anomalies",
+      "raw": "Congenital biliary anomalies",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

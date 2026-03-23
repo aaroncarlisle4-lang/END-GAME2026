@@ -1,0 +1,37 @@
+{
+  "finding": "A. INFECTION",
+  "slug": "a_infection_4_7f3877",
+  "chapter": "D. INHALATION",
+  "source_file": "processed_clusters/d_inhalation/a_infection_4_7f3877.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bacteria: cavitating pneumonia, lung abscess",
+      "raw": "Bacteria: cavitating pneumonia, lung abscess",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous infection: TB, sarcoidosis",
+      "raw": "Granulomatous infection: TB, sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Fungal infection: coccidioidomycosis",
+      "raw": "Fungal infection: coccidioidomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic infection: echinococcosis",
+      "raw": "Parasitic infection: echinococcosis",
+      "frequency": null
+    },
+    {
+      "name": "Protozoan infection: pneumocystosis",
+      "raw": "Protozoan infection: pneumocystosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,25 @@
+{
+  "finding": "Omental Infarction (DDx)",
+  "slug": "omental_infarction_ddx_665c20",
+  "chapter": "Omental Infarction",
+  "source_file": "processed_clusters/omental_infarction/omental_infarction_ddx_665c20.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "epiploic appendagitis (< 5 cm in diameter [peripheral hyperdense rim]",
+      "raw": "epiploic appendagitis (< 5 cm in diameter",
+      "frequency": null,
+      "sites": [
+        "peripheral hyperdense rim"
+      ]
+    },
+    {
+      "name": "\"central dot\" sign); diverticulitis",
+      "raw": "\"central dot\" sign); diverticulitis (bowel wall thickening)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "omental torsion (rare) with swirling of vessels in omentum | absent / (rarely) mild thickening of adjacent bowel wall corresponding to site of focal | nonmobile noncompressible hyperechoic tender mass | mild uptake of 18F-fluorodeoxyglucose (FDG)"
+}

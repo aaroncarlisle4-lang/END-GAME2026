@@ -1,0 +1,45 @@
+{
+  "name": "NOONAN SYNDROME",
+  "slug": "noonan_syndrome",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/noonan_syndrome.md",
+  "definition": "PSEUDO-TURNER = MALE TURNER SYNDROME phenotype similar to Turner syndrome but with normal karyotype (occurs in both males +",
+  "demographics": {
+    "Genetics": "striking familial incidence"
+  },
+  "dominant_finding": "osteoporosis",
+  "distribution": "right-sided CHD (valvar pulmonic stenosis, ASD, eccentric hypertrophy of left ventricle,",
+  "discriminating_features": [
+    "osteoporosis",
+    "retarded bone age",
+    "cubitus valgus",
+    "mandibular hypoplasia with dental malocclusion",
+    "hypertelorism"
+  ],
+  "other_features": {
+    "general": [
+      "osteoporosis",
+      "retarded bone age",
+      "cubitus valgus"
+    ],
+    "Skull": [
+      "mandibular hypoplasia with dental malocclusion",
+      "hypertelorism",
+      "biparietal foramina",
+      "dolichocephaly, microcephaly / cranial enlargement",
+      "webbed neck"
+    ],
+    "Chest": [
+      "sternal deformity: pectus excavatum / carinatum",
+      "right-sided CHD (valvar pulmonic stenosis, ASD, eccentric hypertrophy of left ventricle,",
+      "coronal clefts of spine",
+      "may have pulmonary lymphangiectasis"
+    ],
+    "Gastrointestinal tract": [
+      "intestinal lymphangiectasia",
+      "eventration of diaphragm",
+      "renal malrotation, renal duplication, hydronephrosis, large redundant extrarenal pelvis"
+    ]
+  },
+  "clinical": {}
+}

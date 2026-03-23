@@ -1,0 +1,37 @@
+{
+  "finding": "A. POLYPOSIS SYNDROMES",
+  "slug": "a_polyposis_syndromes",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/a_polyposis_syndromes.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Peutz-Jeghers syndrome",
+      "raw": "Peutz-Jeghers syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Gardner syndrome",
+      "raw": "Gardner syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Disseminated gastrointestinal polyposis",
+      "raw": "Disseminated gastrointestinal polyposis",
+      "frequency": null
+    },
+    {
+      "name": "Generalized gastrointestinal juvenile polyposis",
+      "raw": "Generalized gastrointestinal juvenile polyposis",
+      "frequency": null
+    },
+    {
+      "name": "Cronkhite-Canada syndrome",
+      "raw": "Cronkhite-Canada syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

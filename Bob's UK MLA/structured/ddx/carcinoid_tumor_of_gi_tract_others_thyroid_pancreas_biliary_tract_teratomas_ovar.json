@@ -1,0 +1,32 @@
+{
+  "finding": "Carcinoid Tumor Of Gi Tract — Others: thyroid, pancreas, biliary tract, teratomas (ovarian, sacrococcygeal, testicular) (DDx)",
+  "slug": "carcinoid_tumor_of_gi_tract_others_thyroid_pancreas_biliary_tract_teratomas_ovar",
+  "chapter": "Carcinoid Tumor Of Gi Tract",
+  "source_file": "processed_clusters/carcinoid_tumor_of_gi_tract/carcinoid_tumor_of_gi_tract_others_thyroid_pancreas_biliary_tract_teratomas_ovar.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "oat-cell carcinoma",
+      "raw": "oat-cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "pancreatic carcinoma",
+      "raw": "pancreatic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "medullary thyroid carcinoma",
+      "raw": "medullary thyroid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "retractile",
+      "raw": "retractile",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "higher frequency of radiotracer uptake in midgut carcinoids + with elevated serotonin | type I uptake mechanism for guanethidine"
+}

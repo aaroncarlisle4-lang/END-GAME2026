@@ -1,0 +1,27 @@
+{
+  "finding": "Reticulonodular Pattern & Lower Lobe Predominance",
+  "slug": "reticulonodular_pattern_lower_lobe_predominance",
+  "chapter": "D. IATROGENIC",
+  "source_file": "processed_clusters/d_iatrogenic/reticulonodular_pattern_lower_lobe_predominance.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Collagen vascular disease",
+      "raw": "Collagen vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Asbestosis",
+      "raw": "Asbestosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

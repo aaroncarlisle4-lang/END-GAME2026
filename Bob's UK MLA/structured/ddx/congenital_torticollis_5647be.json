@@ -1,0 +1,27 @@
+{
+  "finding": "Congenital Torticollis",
+  "slug": "congenital_torticollis_5647be",
+  "chapter": "NECK",
+  "source_file": "processed_clusters/neck/congenital_torticollis_5647be.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "MUSCULAR",
+      "raw": "MUSCULAR",
+      "frequency": null
+    },
+    {
+      "name": "Congenital muscular torticollis (a)  fibromatosis colli (b)  muscular torticollis = muscular tightness (c)  postural torticollis",
+      "raw": "Congenital muscular torticollis (a)  fibromatosis colli (b)  muscular torticollis = muscular tightness (c)  postural torticollis",
+      "frequency": null
+    },
+    {
+      "name": "Absence of sternocleidomastoid muscle",
+      "raw": "Absence of sternocleidomastoid muscle (SCM)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

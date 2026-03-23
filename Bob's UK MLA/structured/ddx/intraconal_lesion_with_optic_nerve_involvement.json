@@ -1,0 +1,47 @@
+{
+  "finding": "Intraconal Lesion with Optic Nerve Involvement",
+  "slug": "intraconal_lesion_with_optic_nerve_involvement",
+  "chapter": "Spectrum of Orbital Disorders",
+  "source_file": "processed_clusters/spectrum_of_orbital_disorders/intraconal_lesion_with_optic_nerve_involvement.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Optic nerve glioma",
+      "raw": "Optic nerve glioma",
+      "frequency": null
+    },
+    {
+      "name": "Optic nerve sheath meningioma",
+      "raw": "Optic nerve sheath meningioma (10% of orbital neoplasm)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Optic neuritis",
+      "raw": "Optic neuritis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory pseudotumor",
+      "raw": "Inflammatory pseudotumor (may surround optic nerve)",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Intraorbital lymphoma",
+      "raw": "Intraorbital lymphoma (may surround optic nerve, older patient)",
+      "frequency": null
+    },
+    {
+      "name": "Elevated intracranial pressure →  distension of optic sheath",
+      "raw": "Elevated intracranial pressure →  distension of optic sheath",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  bilateral tortuous enlarged optic nerve-sheath complex"
+}

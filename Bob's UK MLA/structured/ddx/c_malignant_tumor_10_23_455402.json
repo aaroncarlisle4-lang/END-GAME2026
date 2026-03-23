@@ -1,0 +1,77 @@
+{
+  "finding": "C. MALIGNANT TUMOR (10-23%",
+  "slug": "c_malignant_tumor_10_23_455402",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/c_malignant_tumor_10_23_455402.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carcinoma",
+      "raw": "Carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Colloid cyst",
+      "raw": "Colloid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Thyroiditis",
+      "raw": "Thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma",
+      "raw": "Carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma, Lymph node",
+      "raw": "Lymphoma, Lymph node",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (kidney, breast)",
+      "frequency": null
+    },
+    {
+      "name": "Parathyroid",
+      "raw": "Parathyroid",
+      "frequency": null
+    },
+    {
+      "name": "= background corrected (thigh) + decay corrected ˇ = decay corrected",
+      "raw": "= background corrected (thigh) + decay corrected ˇ = decay corrected",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "US features of cold nodule: √  hypoechoic (71%), isoechoic (22%), hyperechoic (3%) √  mixed echogenicity (4%) √  cystic (rarely malignant) Probability of a cold nodule to represent thyroid cancer: (a)  5-25% for solitary cold nodule (b)  1-6% for multiple nodules (DDx: multinodular goiter) (c)  4% for palpable cold nodule in Graves disease (d)  with history of neck irradiation in childhood ›  31% for solitary nodule (found in 70% of irradiations) ›  37% for multiple nodules (found in 25% of irradiations) ›  20% with normal thyroid scan (found in 5%) ◊  Solitary cold nodule by scintigraphy → mu"
+}

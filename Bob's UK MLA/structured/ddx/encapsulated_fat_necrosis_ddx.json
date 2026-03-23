@@ -1,0 +1,27 @@
+{
+  "finding": "Encapsulated Fat Necrosis (DDx)",
+  "slug": "encapsulated_fat_necrosis_ddx",
+  "chapter": "Encapsulated Fat Necrosis",
+  "source_file": "processed_clusters/encapsulated_fat_necrosis/encapsulated_fat_necrosis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Liposarcoma (invasion of adjacent organs",
+      "raw": "Liposarcoma (invasion of adjacent organs",
+      "frequency": null
+    },
+    {
+      "name": "no history of surgery",
+      "raw": "no history of surgery",
+      "frequency": null
+    },
+    {
+      "name": "increase in size over time); Failed kidney transplant replaced by fat",
+      "raw": "increase in size over time); Failed kidney transplant replaced by fat",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mild mass effect on adjacent structures | weak enhancement of capsule | ± inflammatory fat stranding + calcification"
+}

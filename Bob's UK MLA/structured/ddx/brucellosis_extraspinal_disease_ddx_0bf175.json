@@ -1,0 +1,27 @@
+{
+  "finding": "Brucellosis — Extraspinal disease (DDx)",
+  "slug": "brucellosis_extraspinal_disease_ddx_0bf175",
+  "chapter": "Brucellosis",
+  "source_file": "processed_clusters/brucellosis/brucellosis_extraspinal_disease_ddx_0bf175.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibrous dysplasia",
+      "raw": "fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "benign tumor",
+      "raw": "benign tumor",
+      "frequency": null
+    },
+    {
+      "name": "osteoid osteoma",
+      "raw": "osteoid osteoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "bilateral sacroiliitis | indistinguishable from tuberculous / pyogenic arthritis"
+}

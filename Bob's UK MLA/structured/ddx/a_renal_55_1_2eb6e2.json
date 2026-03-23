@@ -1,0 +1,32 @@
+{
+  "finding": "A. RENAL (55%",
+  "slug": "a_renal_55_1_2eb6e2",
+  "chapter": "B. GENITAL (15%",
+  "source_file": "processed_clusters/b_genital_15/a_renal_55_1_2eb6e2.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor (22%)",
+      "frequency": "22%"
+    },
+    {
+      "name": "Hydronephrosis",
+      "raw": "Hydronephrosis (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Cystic renal mass",
+      "raw": "Cystic renal mass",
+      "frequency": null
+    },
+    {
+      "name": "Congenital anomaly",
+      "raw": "Congenital anomaly",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

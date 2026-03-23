@@ -1,0 +1,32 @@
+{
+  "finding": "Decreased Diameter of Pulmonary Artery",
+  "slug": "decreased_diameter_of_pulmonary_artery_eb6850",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/decreased_diameter_of_pulmonary_artery_eb6850.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lung cancer ◊  Tumor extending > 180° of arterial circumference of main pulmonary artery indicates unresectability!",
+      "raw": "Lung cancer ◊  Tumor extending > 180° of arterial circumference of main pulmonary artery indicates unresectability!",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal fibrosis",
+      "raw": "Mediastinal fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Takayasu arteritis",
+      "raw": "Takayasu arteritis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic thromboembolic disease",
+      "raw": "Chronic thromboembolic disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

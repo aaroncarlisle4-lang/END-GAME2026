@@ -1,0 +1,27 @@
+{
+  "finding": "D. INFECTIOUS / INFLAMMATORY",
+  "slug": "d_infectious_inflammatory",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/d_infectious_inflammatory.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TB, syphilis, histoplasmosis, actinomycosis, Crohn disease",
+      "raw": "TB, syphilis, histoplasmosis, actinomycosis, Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Perforated diverticulum",
+      "raw": "Perforated diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary sequestration / cyst",
+      "raw": "Pulmonary sequestration / cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

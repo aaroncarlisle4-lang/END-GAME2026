@@ -1,0 +1,35 @@
+{
+  "name": "BRENNER TUMOR",
+  "slug": "brenner_tumor",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/brenner_tumor.md",
+  "definition": "almost always benign uncommon epithelial-stromal ovarian tumor",
+  "demographics": {
+    "Frequency": "1.5-2.5%",
+    "Histo": "transitional epithelial cells (similar to urothelium) within prominent fibrous connective",
+    "Associated with": "mucinous cystadenoma / other epithelial tumor in 20-30%",
+    "Peak age": "40-70 years",
+    "Size": "most 1-2 cm (up to 30 cm) in diameter; bilateral in 5-7%"
+  },
+  "dominant_finding": "moderate enhancement (DDx: hypovascular fibrothecoma)",
+  "distribution": "",
+  "discriminating_features": [
+    "± extensive calcifications",
+    "markedly hypointense tumor component on T2WI (fibrous component + calcifications)",
+    "moderate enhancement (DDx: hypovascular fibrothecoma)",
+    "usually hypoechoic solid homogeneous tumor with well-defined back wall"
+  ],
+  "other_features": {
+    "general": [
+      "± extensive calcifications"
+    ],
+    "US": [
+      "usually hypoechoic solid homogeneous tumor with well-defined back wall"
+    ],
+    "MR": [
+      "markedly hypointense tumor component on T2WI (fibrous component + calcifications)",
+      "moderate enhancement (DDx: hypovascular fibrothecoma)"
+    ]
+  },
+  "clinical": {}
+}

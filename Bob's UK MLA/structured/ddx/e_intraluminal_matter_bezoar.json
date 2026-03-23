@@ -1,0 +1,47 @@
+{
+  "finding": "E. INTRALUMINAL MATTER: bezoar",
+  "slug": "e_intraluminal_matter_bezoar",
+  "chapter": "C. INTUSSUSCEPTION",
+  "source_file": "processed_clusters/c_intussusception/e_intraluminal_matter_bezoar.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polyp",
+      "raw": "Polyp (hyperplastic polyp due to bile reflux)",
+      "frequency": null
+    },
+    {
+      "name": "Ulcer",
+      "raw": "Ulcer (anastomotic)",
+      "frequency": null
+    },
+    {
+      "name": "Bezoar, Blind loop syndrome",
+      "raw": "Bezoar, Blind loop syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Loop",
+      "raw": "Loop (afferent loop syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Intussusception at gastrojejunostomy",
+      "raw": "Intussusception at gastrojejunostomy",
+      "frequency": null
+    },
+    {
+      "name": "Cancer",
+      "raw": "Cancer (recurrent, residual, de novo)",
+      "frequency": null
+    },
+    {
+      "name": "Surgical deformity, Suture granuloma",
+      "raw": "Surgical deformity, Suture granuloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

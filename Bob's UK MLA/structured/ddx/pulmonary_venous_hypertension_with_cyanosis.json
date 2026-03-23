@@ -1,0 +1,52 @@
+{
+  "finding": "Pulmonary Venous Hypertension with Cyanosis",
+  "slug": "pulmonary_venous_hypertension_with_cyanosis",
+  "chapter": "Bronchial Situs",
+  "source_file": "processed_clusters/bronchial_situs/pulmonary_venous_hypertension_with_cyanosis.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypoplastic left heart syndrome",
+      "raw": "Hypoplastic left heart syndrome",
+      "frequency": null
+    },
+    {
+      "name": "TAPVR below diaphragm",
+      "raw": "TAPVR below diaphragm",
+      "frequency": null
+    },
+    {
+      "name": "Aortic coarctation",
+      "raw": "Aortic coarctation",
+      "frequency": null
+    },
+    {
+      "name": "Aortic atresia (c)  during 4th-6th week of life",
+      "raw": "Aortic atresia (c)  during 4th-6th week of life",
+      "frequency": null
+    },
+    {
+      "name": "Critical aortic stenosis",
+      "raw": "Critical aortic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Endocardial fibroelastosis",
+      "raw": "Endocardial fibroelastosis",
+      "frequency": null
+    },
+    {
+      "name": "Anomalous origin of LCA",
+      "raw": "Anomalous origin of LCA",
+      "frequency": null
+    },
+    {
+      "name": "Atresia of common pulmonary vein",
+      "raw": "Atresia of common pulmonary vein",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  during 1st week of life √  marked cardiomegaly √  normal cardiac size (b)  during 2nd week of life"
+}

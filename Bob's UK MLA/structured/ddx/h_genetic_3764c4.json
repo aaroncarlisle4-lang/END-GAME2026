@@ -1,0 +1,52 @@
+{
+  "finding": "H. GENETIC",
+  "slug": "h_genetic_3764c4",
+  "chapter": "PERIVENTRICULAR REGION",
+  "source_file": "processed_clusters/periventricular_region/h_genetic_3764c4.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neurofibromatosis 1",
+      "raw": "Neurofibromatosis 1",
+      "frequency": null
+    },
+    {
+      "name": "CADASIL",
+      "raw": "CADASIL (= cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy)",
+      "frequency": null
+    },
+    {
+      "name": "Fabry disease",
+      "raw": "Fabry disease",
+      "frequency": null
+    },
+    {
+      "name": "Globoid cell leukodystrophy = Krabbe disease",
+      "raw": "Globoid cell leukodystrophy = Krabbe disease",
+      "frequency": null
+    },
+    {
+      "name": "Metachromatic leukodystrophy",
+      "raw": "Metachromatic leukodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Spongiform leukoencephalopathy",
+      "raw": "Spongiform leukoencephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Adrenoleukodystrophy",
+      "raw": "Adrenoleukodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Fibrinoid leukodystrophy = Alexander disease",
+      "raw": "Fibrinoid leukodystrophy = Alexander disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

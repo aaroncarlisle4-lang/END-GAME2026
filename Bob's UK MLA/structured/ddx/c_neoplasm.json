@@ -1,0 +1,47 @@
+{
+  "finding": "C. NEOPLASM",
+  "slug": "c_neoplasm",
+  "chapter": "Segmental & Lobar Densities",
+  "source_file": "processed_clusters/segmental_lobar_densities/c_neoplasm.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Obstructive pneumonia",
+      "raw": "Obstructive pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Bronchioloalveolar cell carcinoma",
+      "raw": "Bronchioloalveolar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "ATELECTASIS",
+      "raw": "ATELECTASIS",
+      "frequency": null
+    },
+    {
+      "name": "Asthma, Agammaglobulinemia, Aspiration",
+      "raw": "Asthma, Agammaglobulinemia, Aspiration",
+      "frequency": null
+    },
+    {
+      "name": "Bronchiectasis",
+      "raw": "Bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Sequestration, intralobar",
+      "raw": "Sequestration, intralobar",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Chronic Infiltrates Chronic Infiltrates in Childhood mnemonic:   ABC'S"
+}

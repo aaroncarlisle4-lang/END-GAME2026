@@ -1,0 +1,32 @@
+{
+  "name": "EPIDURAL HEMATOMA OF SPINE",
+  "slug": "epidural_hematoma_of_spine",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/epidural_hematoma_of_spine.md",
+  "definition": "",
+  "demographics": {
+    "Mean age": "41-52 years",
+    "Location": "cervical > thoracic > lumbar spine"
+  },
+  "dominant_finding": "strikingly low SI on gradient-echo sequences ← deoxyhemoglobin",
+  "distribution": "cervical > thoracic > lumbar spine",
+  "discriminating_features": [
+    "spinal cord compression",
+    "high attenuation lesion on CT",
+    "iso- / hyperintense on T1WI + hyperintense on T2WI compared to spinal cord (intensities",
+    "strikingly low SI on gradient-echo sequences ← deoxyhemoglobin"
+  ],
+  "other_features": {
+    "general": [
+      "spinal cord compression",
+      "high attenuation lesion on CT"
+    ],
+    "MR": [
+      "iso- / hyperintense on T1WI + hyperintense on T2WI compared to spinal cord (intensities",
+      "strikingly low SI on gradient-echo sequences ← deoxyhemoglobin"
+    ]
+  },
+  "clinical": {
+    "Rx": "conservative management"
+  }
+}

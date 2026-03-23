@@ -1,0 +1,52 @@
+{
+  "finding": "Premature Osteoarthritis",
+  "slug": "premature_osteoarthritis",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/premature_osteoarthritis.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Calcium pyrophosphate dihydrate arthropathy",
+      "raw": "Calcium pyrophosphate dihydrate arthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Ochronosis",
+      "raw": "Ochronosis",
+      "frequency": null
+    },
+    {
+      "name": "Marfan syndrome",
+      "raw": "Marfan syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Epiphyseal dysplasia",
+      "raw": "Epiphyseal dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Charcot joint = neuroarthropathy",
+      "raw": "Charcot joint = neuroarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Hemophilic arthropathy",
+      "raw": "Hemophilic arthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

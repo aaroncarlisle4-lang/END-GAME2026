@@ -1,0 +1,32 @@
+{
+  "name": "JUVENILE POLYPOSIS",
+  "slug": "juvenile_polyposis",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/juvenile_polyposis.md",
+  "definition": "rare autosomal dominant disease with variable penetrance characterized by development of",
+  "demographics": {
+    "Age": "4-6 years (range 1-10 years); M÷F = 3÷2",
+    "Path": "hamartomatous polyps; adenomas may coexist",
+    "Histo": "little / no smooth muscle; hyperplasia of mucous glands; retention cysts develop with",
+    "Location": "rectosigmoid (80%); rare in small bowel + stomach; not in esophagus"
+  },
+  "dominant_finding": "solitary polyp (75%); multiple polyps (⅓) of smooth round contour",
+  "distribution": "rectosigmoid (80%); rare in small bowel + stomach; not in esophagus",
+  "discriminating_features": [
+    "intussusception",
+    "solitary polyp (75%); multiple polyps (⅓) of smooth round contour",
+    "lesion of pinpoint size / up to several cm in diameter",
+    "invariably on stalk of variable length"
+  ],
+  "other_features": {
+    "general": [
+      "intussusception",
+      "solitary polyp (75%); multiple polyps (⅓) of smooth round contour",
+      "lesion of pinpoint size / up to several cm in diameter",
+      "invariably on stalk of variable length"
+    ]
+  },
+  "clinical": {
+    "Cx": "colorectal cancer by 35 years of age (in 15%)"
+  }
+}

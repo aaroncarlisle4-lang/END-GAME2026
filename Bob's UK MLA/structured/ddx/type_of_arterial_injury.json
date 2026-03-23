@@ -1,0 +1,57 @@
+{
+  "finding": "Type of Arterial Injury",
+  "slug": "type_of_arterial_injury",
+  "chapter": "D. NEURONAL MIGRATION ANOMALY due to infection, ischemia, metabolic disorders",
+  "source_file": "processed_clusters/d_neuronal_migration_anomaly_due_to_infection_ischemia_metabolic_disorders/type_of_arterial_injury.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Minimal intimal injury",
+      "raw": "Minimal intimal injury",
+      "frequency": null
+    },
+    {
+      "name": "Raised intimal flap",
+      "raw": "Raised intimal flap",
+      "frequency": null
+    },
+    {
+      "name": "Dissection with intramural hematoma",
+      "raw": "Dissection with intramural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Arterial occlusion",
+      "raw": "Arterial occlusion",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoaneurysm",
+      "raw": "Pseudoaneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Transection with active hemorrhage",
+      "raw": "Transection with active hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous fistula",
+      "raw": "Arteriovenous fistula",
+      "frequency": null
+    },
+    {
+      "name": "Coiled / looped cervical ICA segment",
+      "raw": "Coiled / looped cervical ICA segment (5-15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Congenitally absent / small ICA",
+      "raw": "Congenitally absent / small ICA (small / absent carotid canal)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  nonstenotic luminal irregularity DDx:  arterial spasm √  linear intraluminal filling defect emanating from arterial wall √  eccentric / circumferential mural thickening: √  narrowed arterial lumen √  increased arterial diameter √  lack of intraluminal enhancement √  eccentric outpouching from native arterial lumen: √  minimal contour abnormality √  large irregular saccular outpouching √  focal ballooning of arterial lumen √  irregular collection of extravascular contrast material surrounding parent vessel √  early venous enhancement during the arterial phase √  enlargement of draining vein"
+}

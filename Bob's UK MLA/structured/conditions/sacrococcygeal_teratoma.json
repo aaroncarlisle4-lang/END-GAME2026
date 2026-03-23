@@ -1,0 +1,53 @@
+{
+  "name": "SACROCOCCYGEAL TERATOMA",
+  "slug": "sacrococcygeal_teratoma",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/sacrococcygeal_teratoma.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "1÷40,000 live births",
+    "Associated with": "other congenital anomalies (in 18%):",
+    "Age": "as early as 14 weeks GA"
+  },
+  "dominant_finding": "amorphous, punctate, spiculated calcifications, possibly resembling bone (36-50%);",
+  "distribution": "",
+  "discriminating_features": [
+    "amorphous, punctate, spiculated calcifications, possibly resembling bone (36-50%);",
+    "soft-tissue mass in pelvis protruding anteriorly + inferiorly",
+    "anterosuperior displacement of rectum",
+    "luminal constriction",
+    "displacement of bladder anterosuperiorly"
+  ],
+  "other_features": {
+    "general": [
+      "amorphous, punctate, spiculated calcifications, possibly resembling bone (36-50%);",
+      "soft-tissue mass in pelvis protruding anteriorly + inferiorly",
+      "anterosuperior displacement of rectum",
+      "luminal constriction",
+      "displacement of bladder anterosuperiorly",
+      "development of bladder neck obstruction",
+      "intraspinal component may be present"
+    ],
+    "ANGIO": [
+      "neovascularity (arterial supply by middle + lateral sacral + gluteal branches of internal",
+      "enlargement of feeding vessels",
+      "arterial encasement",
+      "arteriovenous shunting",
+      "early venous filling with serpiginous dilated tumor veins",
+      "solid (25%) / mixed (60%) / cystic (15%) sacral mass",
+      "polyhydramnios (⅔)",
+      "poor prognostic factors : oligohydramnios, fetal hydrops with ascites, fetal hydronephrosis,",
+      "increased size of uterus ← mass / polyhydramnios",
+      "rapid growth reaching enormous volumes:",
+      "assessment of tumor volume, amniotic fluid index, placental thickness, diameter of IVC,",
+      "oligohydramnios ← obstruction of urinary tract",
+      "arteriovenous shunting (Doppler US)",
+      "lobulated + sharply demarcated tumor extremely heterogeneous on T1WI ← high signal",
+      "best modality to detect spinal canal invasion"
+    ]
+  },
+  "clinical": {
+    "Rx": "US-guided drainage of cystic component, fetal surgery + Cesarean section for solid",
+    "Prognosis": "likely benign: predominantly fatty / cystic tumor"
+  }
+}

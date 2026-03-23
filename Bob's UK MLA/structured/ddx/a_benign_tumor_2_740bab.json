@@ -1,0 +1,32 @@
+{
+  "finding": "A. BENIGN TUMOR",
+  "slug": "a_benign_tumor_2_740bab",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/a_benign_tumor_2_740bab.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nonfunctioning adenoma",
+      "raw": "Nonfunctioning adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Cyst",
+      "raw": "Cyst (11-20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Involutional nodule",
+      "raw": "Involutional nodule",
+      "frequency": null
+    },
+    {
+      "name": "Parathyroid tumor",
+      "raw": "Parathyroid tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

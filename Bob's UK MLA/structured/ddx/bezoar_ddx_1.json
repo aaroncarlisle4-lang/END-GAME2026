@@ -1,0 +1,27 @@
+{
+  "finding": "Bezoar (DDx)",
+  "slug": "bezoar_ddx_1",
+  "chapter": "Bezoar",
+  "source_file": "processed_clusters/bezoar/bezoar_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "\"small bowel feces\" sign (amorphous",
+      "raw": "\"small bowel feces\" sign (amorphous",
+      "frequency": null
+    },
+    {
+      "name": "affects longer segment",
+      "raw": "affects longer segment",
+      "frequency": null
+    },
+    {
+      "name": "related to adhesion)",
+      "raw": "related to adhesion)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-defined focal ovoid mass of soft-tissue attenuation | mottled gas pattern"
+}

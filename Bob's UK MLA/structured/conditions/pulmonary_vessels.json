@@ -1,0 +1,21 @@
+{
+  "name": "PULMONARY VESSELS",
+  "slug": "pulmonary_vessels",
+  "chapter": "LYMPH FLOW DISORDERS",
+  "source_file": "processed_clusters/disease_entries/lymph_flow_disorders/pulmonary_vessels.md",
+  "definition": "2 (superior + inferior) veins from R and L lung drain into either side of LA with separate",
+  "demographics": {
+    "Location": "near bronchus"
+  },
+  "dominant_finding": "aberrant insertion with perpendicular orientation to posterior left atrial wall",
+  "distribution": "near bronchus",
+  "discriminating_features": [
+    "aberrant insertion with perpendicular orientation to posterior left atrial wall"
+  ],
+  "other_features": {
+    "general": [
+      "aberrant insertion with perpendicular orientation to posterior left atrial wall"
+    ]
+  },
+  "clinical": {}
+}

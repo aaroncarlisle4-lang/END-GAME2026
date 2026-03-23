@@ -1,0 +1,32 @@
+{
+  "finding": "Benign Enhancing Lesion",
+  "slug": "benign_enhancing_lesion",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/benign_enhancing_lesion.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nonproliferative lesion: mild hyperplasia, fibroadenoma",
+      "raw": "Nonproliferative lesion: mild hyperplasia, fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Proliferative lesion without atypia: sclerosing adenosis, radial and complexing sclerosing lesion, moderate hyperplasia, intraductal papilloma",
+      "raw": "Proliferative lesion without atypia: sclerosing adenosis, radial and complexing sclerosing lesion, moderate hyperplasia, intraductal papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Atypical lobular and ductal hyperplasia",
+      "raw": "Atypical lobular and ductal hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Normal breast parenchyma in premenopausal woman",
+      "raw": "Normal breast parenchyma in premenopausal woman",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Morphologic Criteria for Benignity √  smooth margin (95% NPV) √  low-signal-intensity internal septa (98% NPV) √lobulated margin + minimal / no enhancement (100% NPV) √  enhanced portion on T1WI shows hyperintensity on T2WI Morphologic Criteria for Malignancy √  regional enhancement with a mass (81% PPV) √  segmental distribution (78% PPV) √  irregular / spiculated margin (84-91% PPV) √  rimlike enhancement (84% PPV) √  heterogeneous internal enhancement √  enhancing internal septa √  linear / branching ductal distribution (24-85% PPV) √  regional enhancement WITHOUT a mass: √  homogeneous enh"
+}

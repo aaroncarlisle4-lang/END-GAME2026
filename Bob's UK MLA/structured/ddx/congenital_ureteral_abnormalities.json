@@ -1,0 +1,27 @@
+{
+  "finding": "Congenital Ureteral Abnormalities",
+  "slug": "congenital_ureteral_abnormalities",
+  "chapter": "URETER",
+  "source_file": "processed_clusters/ureter/congenital_ureteral_abnormalities.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "URETERAL DUPLICATION",
+      "raw": "URETERAL DUPLICATION (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Complete ureteral duplication",
+      "raw": "Complete ureteral duplication",
+      "frequency": null
+    },
+    {
+      "name": "Partial ureteral duplication",
+      "raw": "Partial ureteral duplication",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

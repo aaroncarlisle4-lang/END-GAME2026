@@ -1,0 +1,27 @@
+{
+  "finding": "Fahr Disease (DDx)",
+  "slug": "fahr_disease_ddx",
+  "chapter": "Fahr Disease",
+  "source_file": "processed_clusters/fahr_disease/fahr_disease_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hypoparathyroidism",
+      "raw": "hypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "pseudohypoparathyroidism",
+      "raw": "pseudohypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "pseudopseudohypoparathyroidism",
+      "raw": "pseudopseudohypoparathyroidism",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "bilaterally symmetric hyperdense + T1-hyperintense calcifications"
+}

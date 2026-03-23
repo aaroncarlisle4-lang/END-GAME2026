@@ -1,0 +1,44 @@
+{
+  "name": "PULMONARY ARTERIAL MALFORMATION",
+  "slug": "pulmonary_arterial_malformation",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/pulmonary_arterial_malformation.md",
+  "definition": "PULMONARY ARTERIOVENOUS ANEURYSM = PAVM PULMONARY ARTERIOVENOUS FISTULA = PULMONARY ARTERIOVENOUS MALFORMATION = abnormal vascular communication between pulmonary artery and vein (95%) or systemic",
+  "demographics": {
+    "Path": "hemangioma of cavernous type",
+    "Age": "3rd-4th decade; manifest in adult life, 10% in childhood",
+    "Associated with": "Rendu-Osler-Weber syndrome (in 30-60-88%) = hereditary",
+    "Location": "lower lobes (60-70%) > middle lobe > upper lobes; bilateral (8-20%); medial third"
+  },
+  "dominant_finding": "\"coin lesion\" = sharply defined, lobulated oval / round mass (90%) of 1 to several cm in size",
+  "distribution": "lower lobes (60-70%) > middle lobe > upper lobes; bilateral (8-20%); medial third",
+  "discriminating_features": [
+    "\"coin lesion\" = sharply defined, lobulated oval / round mass (90%) of 1 to several cm in size",
+    "cordlike bands from mass to hilum (= feeding artery + draining veins)",
+    "enlargement with advancing age",
+    "change in lesion size:",
+    "decrease: expiration, Valsalva maneuver, recumbent position"
+  ],
+  "other_features": {
+    "general": [
+      "\"coin lesion\" = sharply defined, lobulated oval / round mass (90%) of 1 to several cm in size",
+      "cordlike bands from mass to hilum (= feeding artery + draining veins)",
+      "enlargement with advancing age",
+      "change in lesion size:",
+      "decrease: expiration, Valsalva maneuver, recumbent position",
+      "increase: inspiration, Müller maneuver (= forced inspiration against a closed glottis after",
+      "phleboliths (occasionally)",
+      "increased pulsations of hilar vessels",
+      "homogeneous circumscribed noncalcified nodule / serpiginous mass up to several cm in",
+      "vascular connection of mass with enlarged feeding artery + draining vein",
+      "sequential enhancement of feeding artery + aneurysmal part + efferent vein on dynamic CT",
+      "irregular T2-hypointense lesion, usually adjacent to hilum",
+      "signal void on standard spin echo / high SI on GRASS images"
+    ]
+  },
+  "clinical": {
+    "Cx": "CNS symptoms are commonly the initial manifestation",
+    "Prognosis": "26% morbidity, 11% mortality",
+    "Rx": "embolization with coils / detachable balloons"
+  }
+}

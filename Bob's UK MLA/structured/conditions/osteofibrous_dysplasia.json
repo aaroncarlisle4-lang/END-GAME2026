@@ -1,0 +1,33 @@
+{
+  "name": "OSTEOFIBROUS DYSPLASIA",
+  "slug": "osteofibrous_dysplasia",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/osteofibrous_dysplasia.md",
+  "definition": "entity previously mistaken for fibrous dysplasia",
+  "demographics": {
+    "Age": "newborn up to 5 years",
+    "Histo": "fibrous tissue surrounding trabeculae in a whorled storiform pattern",
+    "Location": "normally confined to tibia (middiaphysis in 50%), lesion begins in anterior cortex;"
+  },
+  "dominant_finding": "enlargement of tibia with anterior bowing",
+  "distribution": "normally confined to tibia (middiaphysis in 50%), lesion begins in anterior cortex;",
+  "discriminating_features": [
+    "enlargement of tibia with anterior bowing",
+    "cortex thin / invisible",
+    "periosteal expansion",
+    "sclerotic margin (DDx: nonosteogenic fibroma, chondromyxoid fibroma)",
+    "spontaneous regression in ⅓"
+  ],
+  "other_features": {
+    "general": [
+      "enlargement of tibia with anterior bowing",
+      "cortex thin / invisible",
+      "periosteal expansion",
+      "sclerotic margin (DDx: nonosteogenic fibroma, chondromyxoid fibroma)",
+      "spontaneous regression in ⅓"
+    ]
+  },
+  "clinical": {
+    "Cx": "pathologic fracture in 25%, fractures will heal with immobilization; infrequently"
+  }
+}

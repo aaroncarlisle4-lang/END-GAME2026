@@ -1,0 +1,82 @@
+{
+  "finding": "PSEUDOFRACTURES",
+  "slug": "pseudofractures_2e330f",
+  "chapter": "PROGERIA",
+  "source_file": "processed_clusters/progeria/pseudofractures_2e330f.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteomalacia / rickets",
+      "raw": "Osteomalacia / rickets",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease (\"banana fracture\")",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta tarda",
+      "raw": "Osteogenesis imperfecta tarda",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Organic renal disease in 1%",
+      "raw": "Organic renal disease in 1%",
+      "frequency": "1%"
+    },
+    {
+      "name": "Renal tubular dysfunction",
+      "raw": "Renal tubular dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "Congenital hypophosphatasia",
+      "raw": "Congenital hypophosphatasia",
+      "frequency": null
+    },
+    {
+      "name": "Congenital hyperphosphatasia",
+      "raw": "Congenital hyperphosphatasia (\"juvenile Paget disease\")",
+      "frequency": null
+    },
+    {
+      "name": "Vitamin D malabsorption / deficiency",
+      "raw": "Vitamin D malabsorption / deficiency",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis mnemonic:   \"POOF\"",
+      "raw": "Neurofibromatosis mnemonic:   \"POOF\"",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Osteomalacia",
+      "raw": "Osteomalacia",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  LOOSER LINES = LOOSER ZONES = OSTEOID SEAMS = MILKMAN SYNDROME =  insufficiency stress fractures + nonunion (incomplete healing ← mineral deficiency) Path:   area of unmineralized woven bone occurring at sites of mechanical stress / nutrient vessel entry Associated with: Common locations: scapulae (axillary margin, lateral + superior margin), medial femoral neck + shaft, pubic + ischial rami, ribs, lesser trochanter, ischial tuberosity, proximal ⅓ of ulna, distal ⅓ of radius, phalanges, metatarsals, metacarpals, clavicle √  typically bilateral + symmetric at right angles to bone margin √  p"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Acquired Syndromes with Increased Bone Density",
+  "slug": "acquired_syndromes_with_increased_bone_density",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/acquired_syndromes_with_increased_bone_density.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal osteodystrophy",
+      "raw": "Renal osteodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Osteoblastic metastases",
+      "raw": "Osteoblastic metastases",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease of bone",
+      "raw": "Paget disease of bone",
+      "frequency": null
+    },
+    {
+      "name": "Erdheim-Chester disease",
+      "raw": "Erdheim-Chester disease",
+      "frequency": null
+    },
+    {
+      "name": "Myelofibrosis",
+      "raw": "Myelofibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease",
+      "raw": "Sickle cell disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Gastritis (DDx)",
+  "slug": "gastritis_ddx_1_5213cf",
+  "chapter": "Gastritis",
+  "source_file": "processed_clusters/gastritis/gastritis_ddx_1_5213cf.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "benign gastric emphysema",
+      "raw": "benign gastric emphysema (recent gastric procedure)",
+      "frequency": null
+    },
+    {
+      "name": "gastric ischemia",
+      "raw": "gastric ischemia",
+      "frequency": null
+    },
+    {
+      "name": "caustic ingestion",
+      "raw": "caustic ingestion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cobblestone appearance of mucosa on upper GI | intramural penetration of contrast material | gastric wall thickening (DDx: emphysematous gastritis) | intramural gas → dissecting into gastric veins + portal venous system"
+}

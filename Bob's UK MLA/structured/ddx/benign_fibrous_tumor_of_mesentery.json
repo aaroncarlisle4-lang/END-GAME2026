@@ -1,0 +1,32 @@
+{
+  "finding": "Benign Fibrous Tumor of Mesentery",
+  "slug": "benign_fibrous_tumor_of_mesentery",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/benign_fibrous_tumor_of_mesentery.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mesenteric fibromatosis",
+      "raw": "Mesenteric fibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing mesenteritis",
+      "raw": "Sclerosing mesenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory pseudotumor",
+      "raw": "Inflammatory pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Extrapleural solitary fibrous tumor",
+      "raw": "Extrapleural solitary fibrous tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Glomus Tumor Of Stomach (DDx)",
+  "slug": "glomus_tumor_of_stomach_ddx",
+  "chapter": "Glomus Tumor Of Stomach",
+  "source_file": "processed_clusters/glomus_tumor_of_stomach/glomus_tumor_of_stomach_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lipoma",
+      "raw": "lipoma",
+      "frequency": null
+    },
+    {
+      "name": "hemangioma",
+      "raw": "hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "GIST",
+      "raw": "GIST",
+      "frequency": null
+    },
+    {
+      "name": "carcinoid tumor",
+      "raw": "carcinoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "ectopic pancreas",
+      "raw": "ectopic pancreas",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "change in shape + size during fluoroscopy (similar to lipoma) | tiny flecks of calcifications (occasionally) | CHARACTERISTIC strong peripheral homogeneous enhancement in arterial + portal venous | SPECIFIC peripheral nodular enhancement pattern + delayed filling-in (reminiscent of"
+}

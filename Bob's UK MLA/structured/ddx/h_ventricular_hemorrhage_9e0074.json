@@ -1,0 +1,122 @@
+{
+  "finding": "H. Ventricular hemorrhage",
+  "slug": "h_ventricular_hemorrhage_9e0074",
+  "chapter": "HEAD TRAUMA",
+  "source_file": "processed_clusters/head_trauma/h_ventricular_hemorrhage_9e0074.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Evaluation of difficult depressed skull fracture / fracture of base of skull",
+      "raw": "Evaluation of difficult depressed skull fracture / fracture of base of skull",
+      "frequency": null
+    },
+    {
+      "name": "Loss of consciousness",
+      "raw": "Loss of consciousness (more than transient)",
+      "frequency": null
+    },
+    {
+      "name": "Altered mental status during observation",
+      "raw": "Altered mental status during observation",
+      "frequency": null
+    },
+    {
+      "name": "Focal neurologic signs",
+      "raw": "Focal neurologic signs",
+      "frequency": null
+    },
+    {
+      "name": "Clinically suspected basilar fracture",
+      "raw": "Clinically suspected basilar fracture",
+      "frequency": null
+    },
+    {
+      "name": "Depressed skull fracture",
+      "raw": "Depressed skull fracture (= outer table of fragment below level of inner table of calvarium)",
+      "frequency": null
+    },
+    {
+      "name": "Penetrating wound",
+      "raw": "Penetrating wound (eg, bullet)",
+      "frequency": null
+    },
+    {
+      "name": "Suspected acute subarachnoid hemorrhage, epidural / subdural / parenchymal hematoma",
+      "raw": "Suspected acute subarachnoid hemorrhage, epidural / subdural / parenchymal hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Postconcussive symptomatology",
+      "raw": "Postconcussive symptomatology",
+      "frequency": null
+    },
+    {
+      "name": "Diagnosis of small sub- / epidural hematoma",
+      "raw": "Diagnosis of small sub- / epidural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Suspected diffuse axonal (shearing) injury, cortical contusion, primary brainstem injury",
+      "raw": "Suspected diffuse axonal (shearing) injury, cortical contusion, primary brainstem injury",
+      "frequency": null
+    },
+    {
+      "name": "Vascular damage",
+      "raw": "Vascular damage (eg, pseudoaneurysm formation due to basilar skull fracture)",
+      "frequency": null
+    },
+    {
+      "name": "Posttraumatic hydrocephalus (⅓) =  obstruction of CSF pathways ← intracranial hemorrhage; develops within 3 months",
+      "raw": "Posttraumatic hydrocephalus (⅓) =  obstruction of CSF pathways ← intracranial hemorrhage; develops within 3 months",
+      "frequency": null
+    },
+    {
+      "name": "Generalized cerebral atrophy (⅓) =  result of ischemia + hypoxia",
+      "raw": "Generalized cerebral atrophy (⅓) =  result of ischemia + hypoxia",
+      "frequency": null
+    },
+    {
+      "name": "Encephalomalacia",
+      "raw": "Encephalomalacia",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoporencephaly =  CSF-filled space communicating with ventricle / subarachnoid space from cystic degeneration",
+      "raw": "Pseudoporencephaly =  CSF-filled space communicating with ventricle / subarachnoid space from cystic degeneration",
+      "frequency": null
+    },
+    {
+      "name": "Subdural hygroma",
+      "raw": "Subdural hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Leptomeningeal cyst =  progressive protrusion of leptomeninges through traumatic calvarial defect",
+      "raw": "Leptomeningeal cyst =  progressive protrusion of leptomeninges through traumatic calvarial defect",
+      "frequency": null
+    },
+    {
+      "name": "Cerebrospinal fluid leak",
+      "raw": "Cerebrospinal fluid leak",
+      "frequency": null
+    },
+    {
+      "name": "rhinorrhea, otorrhea",
+      "raw": "rhinorrhea, otorrhea (indicating basilar fracture with meningeal tear)",
+      "frequency": null
+    },
+    {
+      "name": "Posttraumatic abscess due to (a) penetrating injury, (b) basilar skull fracture, (c) infection of traumatic hematoma",
+      "raw": "Posttraumatic abscess due to (a) penetrating injury, (b) basilar skull fracture, (c) infection of traumatic hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Parenchymal injury brain atrophy, residual hemoglobin degradation products, wallerian-type axonal degeneration, demyelination, cavitation, microglial scarring",
+      "raw": "Parenchymal injury brain atrophy, residual hemoglobin degradation products, wallerian-type axonal degeneration, demyelination, cavitation, microglial scarring",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Indications for radiographic skull series: Only in conjunction with positive CT scan findings! Indications for CT: CT report in CNS trauma must address: √  midline shift √  localized mass effect √  distortion / effacement of basal, perimesencephalic, suprasellar, quadrigeminal cisterns √  pressure on brainstem, brainstem abnormality √  hemorrhage / contusion: extraaxial, intraaxial, subarachnoid, intraventricular √  edema: generalized / localized √  hydrocephalus √  presence of foreign bodies, bullet, bone fragments, air √  base of skull, face, orbit √  scalp swelling Indications for MR: Seque"
+}

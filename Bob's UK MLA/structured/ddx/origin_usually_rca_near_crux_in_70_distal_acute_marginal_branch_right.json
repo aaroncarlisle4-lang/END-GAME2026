@@ -1,0 +1,82 @@
+{
+  "finding": "Origin: usually RCA near crux (in 70%) / distal acute marginal branch (= right",
+  "slug": "origin_usually_rca_near_crux_in_70_distal_acute_marginal_branch_right",
+  "chapter": "Supply: RV",
+  "source_file": "processed_clusters/supply_rv/origin_usually_rca_near_crux_in_70_distal_acute_marginal_branch_right.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Atrioventricular node artery (AVNA) =  small branch to AV node Origin:   apex of U-turn of distal RCA (80-87%) / terminal portion of LCx (8-13%) / both",
+      "raw": "Atrioventricular node artery (AVNA) =  small branch to AV node Origin:   apex of U-turn of distal RCA (80-87%) / terminal portion of LCx (8-13%) / both",
+      "frequency": "87%"
+    },
+    {
+      "name": "Posterolateral segment arteries (PLSA) supplies posterolateral wall of LV",
+      "raw": "Posterolateral segment arteries (PLSA) supplies posterolateral wall of LV",
+      "frequency": null
+    },
+    {
+      "name": "Monomeric ionic contrast material:",
+      "raw": "Monomeric ionic contrast material:",
+      "frequency": null
+    },
+    {
+      "name": "Meglumine diatrizoate",
+      "raw": "Meglumine diatrizoate (contains small quantities of sodium citrate + EDTA)",
+      "frequency": null
+    },
+    {
+      "name": "Nonionic contrast material = slight increase in LV contractility",
+      "raw": "Nonionic contrast material = slight increase in LV contractility",
+      "frequency": null
+    },
+    {
+      "name": "Multiple ventricular premature contractions",
+      "raw": "Multiple ventricular premature contractions",
+      "frequency": null
+    },
+    {
+      "name": "Congestive heart failure",
+      "raw": "Congestive heart failure",
+      "frequency": null
+    },
+    {
+      "name": "Systemic hypertension",
+      "raw": "Systemic hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Severe triple-vessel coronary artery disease",
+      "raw": "Severe triple-vessel coronary artery disease (highest risk)",
+      "frequency": null
+    },
+    {
+      "name": "LV ejection fraction < 30%",
+      "raw": "LV ejection fraction < 30%",
+      "frequency": "30%"
+    },
+    {
+      "name": "Left main coronary artery stenosis",
+      "raw": "Left main coronary artery stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Eccentric lesion in 75%",
+      "raw": "Eccentric lesion in 75%",
+      "frequency": "75%"
+    },
+    {
+      "name": "Foreshortening of vessel",
+      "raw": "Foreshortening of vessel",
+      "frequency": null
+    },
+    {
+      "name": "Overlap of other vessels remedied by angulated projections: improved diagnosis",
+      "raw": "Overlap of other vessels remedied by angulated projections: improved diagnosis (50%), upgrade to more significant stenosis (30%), lesion unmasked (20%)",
+      "frequency": "50%"
+    }
+  ],
+  "criteria": {},
+  "context": "dominance) Supply:   posterior third of ventricular septum + diaphragmatic segment of LV + posteromedial papillary muscle RCA and LCx (2-10%) Supply:   posterior interventricular septum, interatrial septum, AV node, His bundle √  penetrates base of posterior interatrial septum at crux √  may course beneath endocardium near ostium of coronary sinus + septal isthmus ◊  High risk for AV nodal artery coagulation during RF ablation! Coronary Artery Territory septum = LAD anterior wall = LAD lateral wall = LCx posterior wall = RCA inferior / diaphragmatic wall = RCA apex + inferolateral wall = water"
+}

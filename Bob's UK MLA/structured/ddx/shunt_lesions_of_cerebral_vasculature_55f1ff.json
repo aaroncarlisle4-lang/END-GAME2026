@@ -1,0 +1,27 @@
+{
+  "finding": "Shunt Lesions of Cerebral Vasculature",
+  "slug": "shunt_lesions_of_cerebral_vasculature_55f1ff",
+  "chapter": "D. NEURONAL MIGRATION ANOMALY due to infection, ischemia, metabolic disorders",
+  "source_file": "processed_clusters/d_neuronal_migration_anomaly_due_to_infection_ischemia_metabolic_disorders/shunt_lesions_of_cerebral_vasculature_55f1ff.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "AV malformation",
+      "raw": "AV malformation",
+      "frequency": null
+    },
+    {
+      "name": "AV fistula: pia, dura, carotid-cavernous sinus",
+      "raw": "AV fistula: pia, dura, carotid-cavernous sinus",
+      "frequency": null
+    },
+    {
+      "name": "Vein of Galen malformation",
+      "raw": "Vein of Galen malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,43 @@
+{
+  "name": "TRANSIENT SYNOVITIS OF HIP",
+  "slug": "transient_synovitis_of_hip",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/transient_synovitis_of_hip.md",
+  "definition": "OBSERVATION HIP = TRANSITORY SYNOVITIS = TOXIC SYNOVITIS = COXITIS nonspecific inflammatory reaction",
+  "demographics": {
+    "Etiology": "unknown; no organism on joint aspiration"
+  },
+  "dominant_finding": "joint effusion",
+  "distribution": "fluid in anterior recess between capsule + femoral neck",
+  "discriminating_features": [
+    "radiographs usually normal",
+    "joint effusion:",
+    "displacement of femur from acetabulum",
+    "displacement of psoas line",
+    "lateral displacement of gluteal line (least sensitive + least reliable)"
+  ],
+  "other_features": {
+    "general": [
+      "radiographs usually normal",
+      "joint effusion:",
+      "displacement of femur from acetabulum",
+      "displacement of psoas line",
+      "lateral displacement of gluteal line (least sensitive + least reliable)",
+      "regional osteoporosis (? hyperemia, disuse)"
+    ],
+    "US": [
+      "fluid in anterior recess between capsule + femoral neck"
+    ],
+    "MR": [
+      "joint effusion",
+      "intense enhancement of hypertrophied synovium (DDx: septic arthritis)"
+    ],
+    "NUC": [
+      "normal / slight increase in activity → excluding osteomyelitis + avascular necrosis"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "complete recovery within a few weeks",
+    "Rx": "non-weight-bearing treatment"
+  }
+}

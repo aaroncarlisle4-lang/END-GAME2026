@@ -1,0 +1,77 @@
+{
+  "finding": "Aphthous Ulcers of Colon",
+  "slug": "aphthous_ulcers_of_colon",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/aphthous_ulcers_of_colon.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Amebic colitis",
+      "raw": "Amebic colitis",
+      "frequency": null
+    },
+    {
+      "name": "Yersinia enterocolitis",
+      "raw": "Yersinia enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "fever, diarrhea, RLQ pain",
+      "raw": "fever, diarrhea, RLQ pain",
+      "frequency": null
+    },
+    {
+      "name": "Salmonella, shigella infection",
+      "raw": "Salmonella, shigella infection",
+      "frequency": null
+    },
+    {
+      "name": "Herpes virus infection",
+      "raw": "Herpes virus infection",
+      "frequency": null
+    },
+    {
+      "name": "Behçet disease",
+      "raw": "Behçet disease",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia",
+      "raw": "Ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma and",
+      "raw": "Melanoma and",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma",
+      "raw": "Carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Organism:  gram-negative Location:   terminal ileum √  thickened folds + ulceration √  lymphoid nodular hyperplasia Multiple Bull's-eye Lesions of Colonic Wall mnemonic:   MaCK CLaN"
+}

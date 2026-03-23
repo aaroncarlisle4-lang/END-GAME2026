@@ -1,0 +1,45 @@
+{
+  "name": "PULMONARY HEMORRHAGE",
+  "slug": "pulmonary_hemorrhage",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_chest_disorders/pulmonary_hemorrhage.md",
+  "definition": "bleeding from lower respiratory tract",
+  "demographics": {},
+  "dominant_finding": "cluster of avidly enhancing \"nodular\" bronchial arteries in posterior mediastinum below",
+  "distribution": "cluster of avidly enhancing \"nodular\" bronchial arteries in posterior mediastinum below",
+  "discriminating_features": [
+    "cluster of avidly enhancing \"nodular\" bronchial arteries in posterior mediastinum below",
+    "abnormal bronchial arteries show tortuosity, dilatation, hypervascularity, neovascularity,",
+    "bilateral patchy / confluent ground-glass opacities / consolidation",
+    "ground-glass centrilobular nodules",
+    "may delineate underlying etiology (bronchiectasis, lung cancer, TB, pulmonary embolism)"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "bilateral heterogeneous + homogeneous opacities",
+      "multifocal patchy segmental / lobar consolidation"
+    ],
+    "HRCT": [
+      "bilateral patchy / confluent ground-glass opacities / consolidation",
+      "ground-glass centrilobular nodules",
+      "may delineate underlying etiology (bronchiectasis, lung cancer, TB, pulmonary embolism)"
+    ],
+    "NUC": [
+      "typically matched defect on V/Q scan in bronchial artery bleeding",
+      "bronchial blood flow may increase by 300% in the weeks following pulmonary"
+    ],
+    "CT": [
+      "cluster of avidly enhancing \"nodular\" bronchial arteries in posterior mediastinum below",
+      "abnormal bronchial arteries show tortuosity, dilatation, hypervascularity, neovascularity,"
+    ],
+    "ANGIO": [
+      "vasodilated enlarged tortuous bronchial arteries → bronchial-to-pulmonary-artery"
+    ]
+  },
+  "clinical": {
+    "N.B.": "multidetector CT mapping prior to angiography reduces the rate of catheterization",
+    "Prognosis": "50-100% mortality rate of conservatively treated massive hemoptysis; death",
+    "Rx": "transcatheter particulate embolization of bronchial aa. using polyvinyl alcohol (PVA) +"
+  }
+}

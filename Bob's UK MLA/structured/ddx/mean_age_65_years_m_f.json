@@ -1,0 +1,57 @@
+{
+  "finding": "Mean age: 65 years; M > F",
+  "slug": "mean_age_65_years_m_f",
+  "chapter": "INFLAMMATORY POLYP OF GALLBLADDER",
+  "source_file": "processed_clusters/inflammatory_polyp_of_gallbladder/mean_age_65_years_m_f.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "recurrent episodes of dull pain / acute pancreatitis ← impaired outflow of pancreatic secretions:",
+      "raw": "recurrent episodes of dull pain / acute pancreatitis ← impaired outflow of pancreatic secretions:",
+      "frequency": null
+    },
+    {
+      "name": "hyperamylasemia",
+      "raw": "hyperamylasemia (occasionally)",
+      "frequency": null
+    },
+    {
+      "name": "viscosity of fluid greater than normal serum",
+      "raw": "viscosity of fluid greater than normal serum (89% sensitive, 100% specific)",
+      "frequency": "89%"
+    },
+    {
+      "name": "spillage of thick jellylike mucin from ampulla of Vater with protrusion from bulging patulous duodenal papilla",
+      "raw": "spillage of thick jellylike mucin from ampulla of Vater with protrusion from bulging patulous duodenal papilla",
+      "frequency": null
+    },
+    {
+      "name": "Chronic obstructive pancreatitis",
+      "raw": "Chronic obstructive pancreatitis (calcifications)",
+      "frequency": null
+    },
+    {
+      "name": "Serous / mucinous cystic tumors",
+      "raw": "Serous / mucinous cystic tumors (NO communication with pancreatic duct, lobulated contour)",
+      "frequency": null
+    },
+    {
+      "name": "Pseudocyst",
+      "raw": "Pseudocyst (communication with duct)",
+      "frequency": null
+    },
+    {
+      "name": "usually incidental finding when tumor small",
+      "raw": "usually incidental finding when tumor small",
+      "frequency": null
+    },
+    {
+      "name": "symptoms mimicking acute / chronic pancreatitis",
+      "raw": "symptoms mimicking acute / chronic pancreatitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   frequently multifocal; 5-10% involve entire pancreas ◊  Location is an important factor for prognosis! √  communication between cystic lesion + main pancreatic duct (= most reliable diagnostic finding!): √  narrow neck at cyst-duct junction √  mural nodules projecting into main pancreatic duct √  protrusion of major papilla ERCP: √  plugging of papilla of Vater √  elongated band- / threadlike / nodular amorphous filling defects in dilated pancreatic duct (= depiction of mucin) √  usually small mural polypoid / flat tumor √  dilated pancreatic ductal system in the absence of an obst"
+}

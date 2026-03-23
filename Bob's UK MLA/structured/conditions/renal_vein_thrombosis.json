@@ -1,0 +1,78 @@
+{
+  "name": "RENAL VEIN THROMBOSIS",
+  "slug": "renal_vein_thrombosis",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/renal_vein_thrombosis.md",
+  "definition": "good collateral drainage; impaired function with steady state or recanalization indolent stage",
+  "demographics": {
+    "Prevalence": "0.5% (autopsy)",
+    "Path": "hemorrhagic renal infarction + edema from ruptured venules + capillaries without time",
+    "Location": "more common on left (longer left renal vein)"
+  },
+  "dominant_finding": "prolonged cortical nephrographic phase with coarse striations + persistent",
+  "distribution": "more common on left (longer left renal vein)",
+  "discriminating_features": [
+    "no characteristic pattern on sequential functional study",
+    "focal hemorrhagic infarction + capsular rupture",
+    "smooth enlargement of kidney ← edema + hemorrhage",
+    "initially faint + delayed dense nephrogram",
+    "range of completely normal to pyelocaliceal nonvisualization"
+  ],
+  "other_features": {
+    "general": [
+      "focal hemorrhagic infarction + capsular rupture",
+      "smooth enlargement of kidney ← edema + hemorrhage",
+      "initially faint + delayed dense nephrogram",
+      "range of completely normal to pyelocaliceal nonvisualization"
+    ],
+    "US": [
+      "focal / generalized areas of increased echogenicity ← hemorrhage / edema",
+      "loss of corticomedullary differentiation",
+      "thrombus within distended renal vein / IVC",
+      "venous flow present in segmental veins + collateral veins overlying renal hilum",
+      "steady / less pulsatile venous flow compared with contralateral main renal vein",
+      "main renal vein not traceable into IVC on color Doppler",
+      "elevated resistive index > 0.70 ± reversed end-diastolic renal arterial flow in native",
+      "branching linear calcifications (calcified thrombus)",
+      "small atrophic echogenic kidney"
+    ],
+    "CT": [
+      "prolonged cortical nephrographic phase with coarse striations + persistent",
+      "edema in renal sinus + perinephric space",
+      "thickened renal fascia + perirenal stranding",
+      "development of collateral venous vessels",
+      "retroperitoneal hemorrhage",
+      "attenuated renal vein ← retraction of blood clot + IVC thrombus (24%)",
+      "collaterals along proximal + middle ureter + perirenal",
+      "prolonged corticomedullary differentiation",
+      "delayed / absent pyelocaliceal opacification + attenuated collecting system",
+      "thickening of Gerota fascia",
+      "enlarged venous collaterals on delayed images"
+    ],
+    "MR": [
+      "high signal intensity on T1WI + T2WI"
+    ],
+    "ANGIO": [
+      "poorly filling cortical arteries",
+      "absent inflow from renal vein into IVC",
+      "thrombus extending into IVC"
+    ],
+    "NUC": [
+      "no characteristic pattern on sequential functional study",
+      "markedly decreased / absent perfusion",
+      "delayed radiotracer uptake + excretion",
+      "retention of 99mTc mertiatide",
+      "enlarged edematous boggy kidney",
+      "slightly diminished / normal nephrographic density (may increase over time)",
+      "compression of collecting system (\"spidery calices\")",
+      "hypoechoic large kidney",
+      "collateral veins allow venous efflux → normalizing arterial waveform",
+      "main renal vein appears small ← recanalization",
+      "normal excretory urogram in 25% (with good collateral circulation especially if left side",
+      "notching of collecting system + proximal ureter",
+      "retroperitoneal dilated collaterals",
+      "lacelike intrarenal pattern of calcifications"
+    ]
+  },
+  "clinical": {}
+}

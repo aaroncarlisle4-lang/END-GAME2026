@@ -1,0 +1,62 @@
+{
+  "finding": "Mass in Anterior Portion of Third Ventricle",
+  "slug": "mass_in_anterior_portion_of_third_ventricle",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/mass_in_anterior_portion_of_third_ventricle.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Germinoma",
+      "raw": "Germinoma",
+      "frequency": null
+    },
+    {
+      "name": "Pilocytic astrocytoma",
+      "raw": "Pilocytic astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis (b)  adult patient",
+      "raw": "Langerhans cell histiocytosis (b)  adult patient",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary macroadenoma",
+      "raw": "Pituitary macroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease: eg, sarcoidosis",
+      "raw": "Granulomatous disease: eg, sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Sellar meningioma",
+      "raw": "Sellar meningioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  pediatric patient"
+}

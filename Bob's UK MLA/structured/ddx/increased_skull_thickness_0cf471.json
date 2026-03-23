@@ -1,0 +1,47 @@
+{
+  "finding": "Increased Skull Thickness",
+  "slug": "increased_skull_thickness_0cf471",
+  "chapter": "Sutural Abnormalities",
+  "source_file": "processed_clusters/sutural_abnormalities/increased_skull_thickness_0cf471.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "GENERALIZED",
+      "raw": "GENERALIZED",
+      "frequency": null
+    },
+    {
+      "name": "Chronic severe anemia",
+      "raw": "Chronic severe anemia (eg, thalassemia, sickle cell dz)",
+      "frequency": null
+    },
+    {
+      "name": "Cerebral atrophy following shunting of hydrocephalus",
+      "raw": "Cerebral atrophy following shunting of hydrocephalus",
+      "frequency": null
+    },
+    {
+      "name": "Engelmann disease: mainly skull base",
+      "raw": "Engelmann disease: mainly skull base",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Osteopetrosis",
+      "raw": "Osteopetrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,70 @@
+{
+  "finding": "Elbow Joint Stabilizers",
+  "slug": "elbow_joint_stabilizers_d079c1",
+  "chapter": "ELBOW",
+  "source_file": "processed_clusters/elbow/elbow_joint_stabilizers_d079c1.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Medial /",
+      "raw": "Medial / (ulnar) collateral ligament complex (MCL)",
+      "frequency": null
+    },
+    {
+      "name": "Lateral / radial collateral ligament complex [Radial collateral ligament]",
+      "raw": "Lateral / radial collateral ligament complex",
+      "frequency": null,
+      "sites": [
+        "Radial collateral ligament"
+      ]
+    },
+    {
+      "name": "Lateral ulnar collateral ligament (LUCL): functionally important - resists varus forces",
+      "raw": "Lateral ulnar collateral ligament (LUCL): functionally important - resists varus forces",
+      "frequency": null
+    },
+    {
+      "name": "Annular ligament",
+      "raw": "Annular ligament",
+      "frequency": null
+    },
+    {
+      "name": "Ulnohumeral articulation",
+      "raw": "Ulnohumeral articulation",
+      "frequency": null
+    },
+    {
+      "name": "Anterior bundle of MCL",
+      "raw": "Anterior bundle of MCL",
+      "frequency": null
+    },
+    {
+      "name": "LUCL",
+      "raw": "LUCL",
+      "frequency": null
+    },
+    {
+      "name": "Radiocapitellar articulation",
+      "raw": "Radiocapitellar articulation",
+      "frequency": null
+    },
+    {
+      "name": "Common flexor-pronator tendon",
+      "raw": "Common flexor-pronator tendon",
+      "frequency": "common"
+    },
+    {
+      "name": "Common extensor tendon",
+      "raw": "Common extensor tendon",
+      "frequency": "common"
+    },
+    {
+      "name": "Joint capsule",
+      "raw": "Joint capsule",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Origin:   anteroinferior margin of medial epicondyle (a)  anterior bundle (functionally important): inserts on sublime tubercle (= anteromedial aspect of coronoid process) - resists valgus forces (b)  posterior bundle (c)  transverse (oblique) bundle = Cooper lig. Origin:   inferior margin of lateral epicondyle Insertion:   on annular ligament Insertion:   distal to tubercle of crista supinatoris ulnae Functionally primary stabilization: Functionally secondary stabilization:"
+}

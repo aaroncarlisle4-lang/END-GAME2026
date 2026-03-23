@@ -1,0 +1,71 @@
+{
+  "finding": "A. CONGENITAL (most common",
+  "slug": "a_congenital_most_common",
+  "chapter": "REFLUX ATROPHY",
+  "source_file": "processed_clusters/reflux_atrophy/a_congenital_most_common.md",
+  "quality_score": 0.9,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Congenital renal aneurysm",
+      "raw": "Congenital renal aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "hypertension in 25% ← segmental renal ischemia",
+      "raw": "hypertension in 25% ← segmental renal ischemia",
+      "frequency": "25%"
+    },
+    {
+      "name": "ARTERITIS",
+      "raw": "ARTERITIS",
+      "frequency": null
+    },
+    {
+      "name": "Polyarteritis nodosa",
+      "raw": "Polyarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "SLE",
+      "raw": "SLE",
+      "frequency": null
+    },
+    {
+      "name": "Allergic vasculitis",
+      "raw": "Allergic vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Transplant rejection",
+      "raw": "Transplant rejection",
+      "frequency": null
+    },
+    {
+      "name": "Drug-abuse vasculitis ◊  Kidney most commonly affected organ!",
+      "raw": "Drug-abuse vasculitis ◊  Kidney most commonly affected organ!",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Congenital renal aneurysm": [
+      "saccular aneurysm close to vascular bifurcations, may calcify",
+      "often bilateral Rx:   surgical / endovascular repair for aneurysm > 1.0 cm in hypertensive patient / for aneurysm > 1.5 cm in asymptomatic normotensive patient Cause: (a)  immunologic injury from circulating hepatitis antigen-antibody complexes producing a necrotizing angiitis (b)  bacterial endocarditis (c)  drug-related (d)  impurity-related Drugs:   methamphetamine, heroin, LSD",
+      "multiple small aneurysms in interlobar branches near corticomedullary junction"
+    ],
+    "hypertension in 25% ← segmental renal ischemia": [],
+    "ARTERITIS": [],
+    "Polyarteritis nodosa": [],
+    "SLE": [],
+    "Allergic vasculitis": [],
+    "Wegener granulomatosis": [],
+    "Transplant rejection": [],
+    "Drug-abuse vasculitis ◊  Kidney most commonly affected organ!": []
+  },
+  "context": "Age at Dx:   30 years or older; M÷F = 1÷1 √  saccular aneurysm close to vascular bifurcations, may calcify √  often bilateral Rx:   surgical / endovascular repair for aneurysm > 1.0 cm in hypertensive patient / for aneurysm > 1.5 cm in asymptomatic normotensive patient Cause: (a)  immunologic injury from circulating hepatitis antigen-antibody complexes producing a necrotizing angiitis (b)  bacterial endocarditis (c)  drug-related (d)  impurity-related Drugs:   methamphetamine, heroin, LSD √  multiple small aneurysms in interlobar branches near corticomedullary junction √  inhomogeneous spotty"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Odontoma (DDx)",
+  "slug": "odontoma_ddx_386964",
+  "chapter": "Odontoma",
+  "source_file": "processed_clusters/odontoma/odontoma_ddx_386964.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "focal cemento-osseous dysplasia",
+      "raw": "focal cemento-osseous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "osteoma",
+      "raw": "osteoma",
+      "frequency": null
+    },
+    {
+      "name": "ameloblastic fibroodontoma",
+      "raw": "ameloblastic fibroodontoma",
+      "frequency": null
+    },
+    {
+      "name": "adenomatoid odontogenic tumor",
+      "raw": "adenomatoid odontogenic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "supernumerary tooth | multiple small toothlike structures (abortive teeth = denticles) | well-defined lesion with amorphous calcifications | low-attenuation halo surrounds odontoma"
+}

@@ -1,0 +1,85 @@
+{
+  "finding": "A. COMPLETE TEAR",
+  "slug": "a_complete_tear_a0ba91",
+  "chapter": "CRUCIATE LIGAMENT INJURY",
+  "source_file": "processed_clusters/cruciate_ligament_injury/a_complete_tear_a0ba91.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PARTIAL / INTRASUBSTANCE TEAR",
+      "raw": "PARTIAL / INTRASUBSTANCE TEAR",
+      "frequency": null
+    },
+    {
+      "name": "pivot shift test (82-90% sensitive) = examiner applies valgus stress on internally rotated leg while flexing the knee; induced anterolateral rotary subluxation reduces spontaneously at 40° flexion with an audible \"pop\"",
+      "raw": "pivot shift test (82-90% sensitive) = examiner applies valgus stress on internally rotated leg while flexing the knee; induced anterolateral rotary subluxation reduces spontaneously at 40° flexion with an audible \"pop\"",
+      "frequency": "90%"
+    },
+    {
+      "name": "\"anterior drawer\" sign (22-80% sensitive) = proximal tibia displaces anteriorly with the",
+      "raw": "\"anterior drawer\" sign (22-80% sensitive) = proximal tibia displaces anteriorly with the",
+      "frequency": "80%"
+    },
+    {
+      "name": "Lachman test (77-99% sensitive) = same as \"anterior drawer\" sign with knee flexed at 10°- 20° Location:   midsubstance of ligament / near femoral attachment (in adults) / avulsion of anterior intercondylar eminence or tibial spines (in children) ◊  If the ACL appears intact in one of the sagittal oblique sequences discordant findings in other sequences can be disregarded!",
+      "raw": "Lachman test (77-99% sensitive) = same as \"anterior drawer\" sign with knee flexed at 10°- 20° Location:   midsubstance of ligament / near femoral attachment (in adults) / avulsion of anterior intercondylar eminence or tibial spines (in children) ◊  If the ACL appears intact in one of the sagittal oblique sequences discordant findings in other sequences can be disregarded!",
+      "frequency": "99%"
+    },
+    {
+      "name": "slice thickness / interslice gap too great",
+      "raw": "slice thickness / interslice gap too great",
+      "frequency": null
+    },
+    {
+      "name": "adjacent fluid / synovial proliferation",
+      "raw": "adjacent fluid / synovial proliferation",
+      "frequency": null
+    },
+    {
+      "name": "cruciate ganglion / synovial cyst",
+      "raw": "cruciate ganglion / synovial cyst",
+      "frequency": null
+    },
+    {
+      "name": "conservative: strengthening of quadriceps muscle + brace for activities",
+      "raw": "conservative: strengthening of quadriceps muscle + brace for activities",
+      "frequency": null
+    },
+    {
+      "name": "arthroscopic reconstruction with autograft",
+      "raw": "arthroscopic reconstruction with autograft (patellar tendon / combined semitendinosus and gracilis tendon) or allograft (cadaveric patellar / Achilles tendon)",
+      "frequency": null
+    },
+    {
+      "name": "positive Lachman test",
+      "raw": "positive Lachman test (in 12-30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Direct blow to proximal anterior tibia with knee flexed",
+      "raw": "Direct blow to proximal anterior tibia with knee flexed (dashboard injury)",
+      "frequency": null
+    },
+    {
+      "name": "Hyperextension of knee",
+      "raw": "Hyperextension of knee",
+      "frequency": null
+    },
+    {
+      "name": "Severe ab- / adduction + rotational forces [posterior tibial laxity]",
+      "raw": "Severe ab- / adduction + rotational forces",
+      "frequency": null,
+      "sites": [
+        "posterior tibial laxity"
+      ]
+    },
+    {
+      "name": "difficult to evaluate arthroscopically unless ACL torn",
+      "raw": "difficult to evaluate arthroscopically unless ACL torn",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  failure to identify ligament √  amorphous area of high SI on T1WI + T2WI with inability to define ligamentous fibers √  focal discrete complete disruption of all visible fibers √  abnormal SI within substance of ligament with some intact + some discontinuous fibers Anterior Cruciate Ligament Injury (ACL Tear) Frequency:   in up to 69% of all patients undergoing arthroscopy; in up to 72% of acutely injured knees with hemarthrosis Mechanism:   twisting, valgus impaction + internal rotation, hyperextension of knee with foot planted (football) / lower leg forcibly externally rotated during knee"
+}

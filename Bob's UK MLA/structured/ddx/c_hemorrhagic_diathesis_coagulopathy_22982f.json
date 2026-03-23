@@ -1,0 +1,27 @@
+{
+  "finding": "C. HEMORRHAGIC DIATHESIS & COAGULOPATHY",
+  "slug": "c_hemorrhagic_diathesis_coagulopathy_22982f",
+  "chapter": "E. OTHERS",
+  "source_file": "processed_clusters/e_others/c_hemorrhagic_diathesis_coagulopathy_22982f.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Anticoagulant therapy (heparin, coumadin): during initial 3 weeks",
+      "raw": "Anticoagulant therapy (heparin, coumadin): during initial 3 weeks",
+      "frequency": null
+    },
+    {
+      "name": "Disseminated intravascular coagulopathy",
+      "raw": "Disseminated intravascular coagulopathy",
+      "frequency": null
+    },
+    {
+      "name": "Antiphospholipid syndrome ± systemic lupus erythematosus",
+      "raw": "Antiphospholipid syndrome ± systemic lupus erythematosus (hypercoagulable state causes adrenal vein thrombosis + venous infarction)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

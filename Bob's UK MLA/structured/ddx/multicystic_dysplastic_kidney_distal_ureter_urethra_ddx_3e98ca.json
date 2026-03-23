@@ -1,0 +1,27 @@
+{
+  "finding": "Multicystic Dysplastic Kidney — distal ureter / urethra (DDx)",
+  "slug": "multicystic_dysplastic_kidney_distal_ureter_urethra_ddx_3e98ca",
+  "chapter": "Multicystic Dysplastic Kidney",
+  "source_file": "processed_clusters/multicystic_dysplastic_kidney/multicystic_dysplastic_kidney_distal_ureter_urethra_ddx_3e98ca.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "severe hydronephrosis",
+      "raw": "severe hydronephrosis (peripheral activity)",
+      "frequency": null
+    },
+    {
+      "name": "UPJ obstruction",
+      "raw": "UPJ obstruction (minimal uptake)",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "severe hydronephrosis": [
+      "absence / severe atrophy of ipsilateral ureter + renal collecting system + renal vasculature | contralateral renal hypertrophy | contralateral vesicoureteral reflux (VUR) in 5-43% | NO function"
+    ],
+    "UPJ obstruction": []
+  },
+  "context": "absence / severe atrophy of ipsilateral ureter + renal collecting system + renal vasculature | contralateral renal hypertrophy | contralateral vesicoureteral reflux (VUR) in 5-43% | NO function"
+}

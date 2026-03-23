@@ -1,0 +1,27 @@
+{
+  "finding": "Metastasis To Brain (DDx)",
+  "slug": "metastasis_to_brain_ddx_1",
+  "chapter": "Metastasis To Brain",
+  "source_file": "processed_clusters/metastasis_to_brain/metastasis_to_brain_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bacterial / fungal meningitis",
+      "raw": "bacterial / fungal meningitis",
+      "frequency": null
+    },
+    {
+      "name": "postoperative changes",
+      "raw": "postoperative changes (fibrosis)",
+      "frequency": null
+    },
+    {
+      "name": "previous subarachnoid",
+      "raw": "previous subarachnoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "short discontinuous thin sections of enhancement localized / diffuse curvilinear | thin rim of subarachnoid enhancement following convolutions of gyri \"coating the | discrete leptomeningeal nodules | invasion of underlying brain → mass effect + edema"
+}

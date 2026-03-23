@@ -1,0 +1,32 @@
+{
+  "finding": "I. MINOR RENAL INJURY (75-85%",
+  "slug": "i_minor_renal_injury_75_85_2cc35f",
+  "chapter": "TRAUMA TO BLADDER",
+  "source_file": "processed_clusters/trauma_to_bladder/i_minor_renal_injury_75_85_2cc35f.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intrarenal hemorrhage / hematoma = renal contusion",
+      "raw": "Intrarenal hemorrhage / hematoma = renal contusion",
+      "frequency": null
+    },
+    {
+      "name": "Subcapsular hematoma",
+      "raw": "Subcapsular hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Perinephric hematoma without extension to collecting system / medulla",
+      "raw": "Perinephric hematoma without extension to collecting system / medulla",
+      "frequency": null
+    },
+    {
+      "name": "Small subsegmental cortical infarct Cause:   stretching + thrombotic occlusion of accessory renal artery / capsular artery / segmental artery",
+      "raw": "Small subsegmental cortical infarct Cause:   stretching + thrombotic occlusion of accessory renal artery / capsular artery / segmental artery",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  no / limited perinephric hematoma DDx:  respiratory motion artifact (low-attenuation area surrounding kidney) √  no extravasation of urine (= no caliceal disruption) √  hyperattenuating area of 40-70 HU (= acute clotted blood) on NECT √  sharply / poorly defined round / ovoid area of decreased enhancement during CECT (DDx: renal infarction with no enhancement) √  focal area of striation on delayed nephrogram √  area of persistent contrast material staining on very delayed scan √  round / lenticular-shaped fluid collection + flattening of subjacent parenchyma √  defects in periphery of renal"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CARDIAC VEINS",
+  "slug": "cardiac_veins",
+  "chapter": "LYMPH FLOW DISORDERS",
+  "source_file": "processed_clusters/disease_entries/lymph_flow_disorders/cardiac_veins.md",
+  "definition": "distal portion of great cardiac vein",
+  "demographics": {
+    "Location": "within 10 mm of each other",
+    "Size": "45 mm long; 10-12 mm in diameter",
+    "Prevalence": "95%; single v. (60%), up to 3 veins"
+  },
+  "dominant_finding": "kink in vein → luminal obstruction of great cardiac v.",
+  "distribution": "within 10 mm of each other",
+  "discriminating_features": [
+    "kink in vein → luminal obstruction of great cardiac v."
+  ],
+  "other_features": {
+    "general": [],
+    "beginning of coronary sinus": [
+      "kink in vein → luminal obstruction of great cardiac v."
+    ]
+  },
+  "clinical": {}
+}

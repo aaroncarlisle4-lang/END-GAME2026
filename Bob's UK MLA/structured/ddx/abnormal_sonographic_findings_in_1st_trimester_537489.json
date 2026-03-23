@@ -1,0 +1,27 @@
+{
+  "finding": "Abnormal Sonographic Findings in 1st Trimester",
+  "slug": "abnormal_sonographic_findings_in_1st_trimester_537489",
+  "chapter": "C. SAC VULNERABILITY",
+  "source_file": "processed_clusters/c_sac_vulnerability/abnormal_sonographic_findings_in_1st_trimester_537489.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Embryonic demise = abortion",
+      "raw": "Embryonic demise = abortion (clinical term)",
+      "frequency": null
+    },
+    {
+      "name": "Nondevelopment = blighted ovum",
+      "raw": "Nondevelopment = blighted ovum",
+      "frequency": null
+    },
+    {
+      "name": "Maldevelopment = hydatidiform mole",
+      "raw": "Maldevelopment = hydatidiform mole",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

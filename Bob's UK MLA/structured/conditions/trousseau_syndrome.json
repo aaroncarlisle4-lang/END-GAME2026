@@ -1,0 +1,25 @@
+{
+  "name": "TROUSSEAU SYNDROME",
+  "slug": "trousseau_syndrome",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/trousseau_syndrome.md",
+  "definition": "PARANEOPLASTIC THROMBOEMBOLISM",
+  "demographics": {
+    "Prevalence": "1-11%; higher in terminally ill cancer patients"
+  },
+  "dominant_finding": "deep vein thrombosis",
+  "distribution": "",
+  "discriminating_features": [
+    "deep vein thrombosis",
+    "pulmonary embolism",
+    "nonbacterial thrombotic endocarditis   (echocardiography)"
+  ],
+  "other_features": {
+    "general": [
+      "deep vein thrombosis",
+      "pulmonary embolism",
+      "nonbacterial thrombotic endocarditis   (echocardiography)"
+    ]
+  },
+  "clinical": {}
+}

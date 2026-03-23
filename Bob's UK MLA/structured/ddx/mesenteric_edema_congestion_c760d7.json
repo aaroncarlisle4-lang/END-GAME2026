@@ -1,0 +1,43 @@
+{
+  "finding": "Mesenteric Edema / Congestion",
+  "slug": "mesenteric_edema_congestion_c760d7",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/mesenteric_edema_congestion_c760d7.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "SYSTEMIC FLUID OVERLOAD",
+      "raw": "SYSTEMIC FLUID OVERLOAD",
+      "frequency": null
+    },
+    {
+      "name": "Hypoalbuminemia",
+      "raw": "Hypoalbuminemia",
+      "frequency": null
+    },
+    {
+      "name": "Liver cirrhosis",
+      "raw": "Liver cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Nephrosis",
+      "raw": "Nephrosis",
+      "frequency": null
+    },
+    {
+      "name": "Heart failure",
+      "raw": "Heart failure",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "SYSTEMIC FLUID OVERLOAD": [],
+    "Hypoalbuminemia": [],
+    "Liver cirrhosis": [],
+    "Nephrosis": [],
+    "Heart failure": []
+  },
+  "context": "√  increase of mesenteric fat attenuation to -40 to -60 HU √  loss of sharp interfaces between mesenteric vessels + fat"
+}

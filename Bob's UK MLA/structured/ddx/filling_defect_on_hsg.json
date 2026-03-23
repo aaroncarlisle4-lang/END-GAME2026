@@ -1,0 +1,37 @@
+{
+  "finding": "Filling Defect on HSG",
+  "slug": "filling_defect_on_hsg",
+  "chapter": "HYSTEROSALPINGOGRAPHY",
+  "source_file": "processed_clusters/hysterosalpingography/filling_defect_on_hsg.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Synechia",
+      "raw": "Synechia",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial polyp",
+      "raw": "Endometrial polyp",
+      "frequency": null
+    },
+    {
+      "name": "Submucosal myoma",
+      "raw": "Submucosal myoma",
+      "frequency": null
+    },
+    {
+      "name": "Uterine folds = parallel to long axis of uterus",
+      "raw": "Uterine folds = parallel to long axis of uterus",
+      "frequency": null
+    },
+    {
+      "name": "Air bubbles",
+      "raw": "Air bubbles",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

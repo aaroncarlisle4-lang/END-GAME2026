@@ -1,0 +1,27 @@
+{
+  "finding": "A. Infectious",
+  "slug": "a_infectious_1",
+  "chapter": "LIVER",
+  "source_file": "processed_clusters/liver/a_infectious_1.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatitis",
+      "raw": "Hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Candidiasis",
+      "raw": "Candidiasis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

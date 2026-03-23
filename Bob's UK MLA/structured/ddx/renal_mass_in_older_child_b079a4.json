@@ -1,0 +1,67 @@
+{
+  "finding": "Renal Mass in Older Child",
+  "slug": "renal_mass_in_older_child_b079a4",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/renal_mass_in_older_child_b079a4.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "SINGLE MASS (a)  single solid mass",
+      "raw": "SINGLE MASS (a)  single solid mass",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor  87%",
+      "raw": "Wilms tumor  87%",
+      "frequency": "87%"
+    },
+    {
+      "name": "Clear cell sarcoma of kidney  6%",
+      "raw": "Clear cell sarcoma of kidney  6%",
+      "frequency": "6%"
+    },
+    {
+      "name": "Mesoblastic nephroma  2%",
+      "raw": "Mesoblastic nephroma  2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Rhabdoid tumor  2%",
+      "raw": "Rhabdoid tumor  2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Renal cell carcinoma  < 0.5%",
+      "raw": "Renal cell carcinoma  < 0.5%",
+      "frequency": "0.5%"
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Intrarenal neuroblastoma (b)  single cystic mass",
+      "raw": "Intrarenal neuroblastoma (b)  single cystic mass",
+      "frequency": null
+    },
+    {
+      "name": "Focal hydronephrosis",
+      "raw": "Focal hydronephrosis",
+      "frequency": null
+    },
+    {
+      "name": "Multilocular cystic nephroma",
+      "raw": "Multilocular cystic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic cyst, abscess",
+      "raw": "Traumatic cyst, abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

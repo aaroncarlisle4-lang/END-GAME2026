@@ -1,0 +1,62 @@
+{
+  "finding": "Renin Elevation",
+  "slug": "renin_elevation",
+  "chapter": "Nephrogenic Diabetes Insipidus",
+  "source_file": "processed_clusters/nephrogenic_diabetes_insipidus/renin_elevation.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Juxtaglomerular cell tumor",
+      "raw": "Juxtaglomerular cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Hypernephroma",
+      "raw": "Hypernephroma",
+      "frequency": null
+    },
+    {
+      "name": "Lung cancer",
+      "raw": "Lung cancer",
+      "frequency": null
+    },
+    {
+      "name": "Paraovarian tumor",
+      "raw": "Paraovarian tumor",
+      "frequency": null
+    },
+    {
+      "name": "Fallopian tube adenocarcinoma",
+      "raw": "Fallopian tube adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Epithelial liver hamartoma",
+      "raw": "Epithelial liver hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Orbital hemangiopericytoma",
+      "raw": "Orbital hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic cancer",
+      "raw": "Pancreatic cancer",
+      "frequency": null
+    },
+    {
+      "name": "Angiolymphoid hyperplasia",
+      "raw": "Angiolymphoid hyperplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

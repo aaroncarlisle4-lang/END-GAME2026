@@ -1,0 +1,47 @@
+{
+  "finding": "Chordoma (DDx)",
+  "slug": "chordoma_ddx",
+  "chapter": "Chordoma",
+  "source_file": "processed_clusters/chordoma/chordoma_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "meningioma",
+      "raw": "meningioma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "plasmacytoma",
+      "raw": "plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "giant cell tumor",
+      "raw": "giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "sphenoid sinus cyst",
+      "raw": "sphenoid sinus cyst",
+      "frequency": null
+    },
+    {
+      "name": "nasopharyngeal carcinoma",
+      "raw": "nasopharyngeal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "chondrosarcoma",
+      "raw": "chondrosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "posterior displacement of brainstem | usually hypo- / isointense to brain / occasionally inhomogeneously hyperintense on T1WI | hyperintense on T2WI | ± CHARACTERISTIC honeycomb enhancement pattern"
+}

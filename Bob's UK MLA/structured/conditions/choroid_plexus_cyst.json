@@ -1,0 +1,40 @@
+{
+  "name": "CHOROID PLEXUS CYST",
+  "slug": "choroid_plexus_cyst",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/choroid_plexus_cyst.md",
+  "definition": "cyst arising from folding of neuroepithelium with trapping of secretory products +",
+  "demographics": {
+    "Incidence": "0.9-3.6% in sonographic population; in up to 50% of autopsied brains",
+    "Histo": "epithelial-lined cyst, filled with clear fluid ± debris"
+  },
+  "dominant_finding": "iso- to slightly hyperattenuating compared with CSF",
+  "distribution": "",
+  "discriminating_features": [
+    "iso- to slightly hyperattenuating compared with CSF",
+    "iso- to hyperintense on T1WI compared with CSF",
+    "hyperintense on T2WI compared with CSF",
+    "incompletely hypointense (suppressed) on FLAIR",
+    "restricted diffusion = hyperintense on DWI (66%)"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "single / multiple round anechoic cysts"
+    ],
+    "CT": [
+      "iso- to slightly hyperattenuating compared with CSF"
+    ],
+    "MR": [
+      "iso- to hyperintense on T1WI compared with CSF",
+      "hyperintense on T2WI compared with CSF",
+      "incompletely hypointense (suppressed) on FLAIR",
+      "restricted diffusion = hyperintense on DWI (66%)",
+      "nodular / rim enhancement"
+    ]
+  },
+  "clinical": {
+    "Cx": "hydrocephalus (if cyst large)",
+    "Prognosis": "90% disappear by 26th-28th week; may persist; in 95% of no significance"
+  }
+}

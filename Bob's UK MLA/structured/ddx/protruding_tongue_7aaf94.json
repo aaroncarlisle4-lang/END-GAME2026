@@ -1,0 +1,42 @@
+{
+  "finding": "Protruding Tongue",
+  "slug": "protruding_tongue_7aaf94",
+  "chapter": "C. NONCHROMOSOMAL DISORDERS",
+  "source_file": "processed_clusters/c_nonchromosomal_disorders/protruding_tongue_7aaf94.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Macroglossia",
+      "raw": "Macroglossia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma of the tongue",
+      "raw": "Lymphangioma of the tongue",
+      "frequency": null
+    },
+    {
+      "name": "Beckwith-Wiedemann syndrome",
+      "raw": "Beckwith-Wiedemann syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Down syndrome",
+      "raw": "Down syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hypothyroidism",
+      "raw": "Hypothyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Mental retardation",
+      "raw": "Mental retardation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Macroglossia"
+}

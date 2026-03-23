@@ -1,0 +1,72 @@
+{
+  "finding": "CHONDROBLASTOMA",
+  "slug": "chondroblastoma",
+  "chapter": "BONE CONTUSION",
+  "source_file": "processed_clusters/bone_contusion/chondroblastoma.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "symptomatic for months to years prior to treatment",
+      "raw": "symptomatic for months to years prior to treatment",
+      "frequency": null
+    },
+    {
+      "name": "mild joint pain, tenderness, swelling",
+      "raw": "mild joint pain, tenderness, swelling (joint effusion)",
+      "frequency": null
+    },
+    {
+      "name": "limitation of motion",
+      "raw": "limitation of motion",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic necrosis of femoral head",
+      "raw": "Ischemic necrosis of femoral head (may be indistinguishable, more irregular configuration)",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor (usually larger + less well demarcated, not calcified, older age group with closed growth plate)",
+      "frequency": null
+    },
+    {
+      "name": "Chondromyxoid fibroma",
+      "raw": "Chondromyxoid fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis (less well-defined, variable margins)",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Intraosseous ganglion",
+      "raw": "Intraosseous ganglion",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis (less well-defined, variable margins)",
+      "frequency": null
+    },
+    {
+      "name": "Primary bone sarcoma",
+      "raw": "Primary bone sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  CODMAN TUMOR = BENIGN CHONDROBLASTOMA = CARTILAGE-CONTAINING GIANT CELL TUMOR =  benign cartilaginous tumor with predilection for growing skeleton Frequency:   1% of primary bone neoplasms (700 cases in world literature) Age:   peak in 2nd decade (range, 8-59 years); 10-26 years (90%); M÷F = 2÷1; occurs before cessation of enchondral bone growth Path:   derived from primitive cartilage cells Histo:   polyhedral chondroblasts + reactive multinucleated giant cells + nodules of pink amorphous material (= chondroid) = epiphyseal chondromatous giant cell tumor (resembles chondromyxoid fibroma);"
+}

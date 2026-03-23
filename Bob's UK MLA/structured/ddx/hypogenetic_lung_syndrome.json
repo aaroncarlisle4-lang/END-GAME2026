@@ -1,0 +1,62 @@
+{
+  "finding": "Hypogenetic Lung Syndrome",
+  "slug": "hypogenetic_lung_syndrome",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/hypogenetic_lung_syndrome.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pulmonary agenesis =  complete absence of a lobe + its bronchus",
+      "raw": "Pulmonary agenesis =  complete absence of a lobe + its bronchus",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary aplasia =  rudimentary bronchus ending in blind pouch + absence of parenchyma + vessels",
+      "raw": "Pulmonary aplasia =  rudimentary bronchus ending in blind pouch + absence of parenchyma + vessels",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary hypoplasia =  completely formed but congenitally small bronchus with rudimentary parenchyma + small vessels",
+      "raw": "Pulmonary hypoplasia =  completely formed but congenitally small bronchus with rudimentary parenchyma + small vessels",
+      "frequency": null
+    },
+    {
+      "name": "Oligohydramnios",
+      "raw": "Oligohydramnios (renal agenesis, bilateral cystic renal disease, obstructive uropathy, premature rupture of membranes)",
+      "frequency": null
+    },
+    {
+      "name": "Fetal ascites (c)  Thoracic cage compression",
+      "raw": "Fetal ascites (c)  Thoracic cage compression",
+      "frequency": null
+    },
+    {
+      "name": "Thoracic bone dysplasia: Ellis-van Creveld, Jeune, thanatophoric dystrophy, severe achondroplasia",
+      "raw": "Thoracic bone dysplasia: Ellis-van Creveld, Jeune, thanatophoric dystrophy, severe achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Muscular disease (d)  Intrathoracic compression",
+      "raw": "Muscular disease (d)  Intrathoracic compression",
+      "frequency": null
+    },
+    {
+      "name": "Diaphragmatic defect",
+      "raw": "Diaphragmatic defect",
+      "frequency": null
+    },
+    {
+      "name": "Excess pleural fluid",
+      "raw": "Excess pleural fluid",
+      "frequency": null
+    },
+    {
+      "name": "Large intrathoracic cyst / tumor",
+      "raw": "Large intrathoracic cyst / tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  collective name for congenital underdevelopment of one / more lobes of a lung separated into 3 forms: CT: √  missing bronchus + lobe(s) Incidence:   1÷10,000; R÷L = 1÷1 CT: √  absence of ipsilateral pulmonary artery √  bronchus terminates in dilated blind pouch √  absence of ipsilateral pulmonary tissue Developmental causes: resulting in intrauterine compression of chest (a)  Idiopathic (rare) (b)  Extrathoracic compression (= Potter syndrome)"
+}

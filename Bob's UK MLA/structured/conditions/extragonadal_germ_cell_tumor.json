@@ -1,0 +1,34 @@
+{
+  "name": "EXTRAGONADAL GERM CELL TUMOR",
+  "slug": "extragonadal_germ_cell_tumor",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/extragonadal_germ_cell_tumor.md",
+  "definition": "PRIMARY EXTRAGONADAL GERM CELL TUMOR",
+  "demographics": {
+    "Frequency": "1.0-2.5% of germ cell tumors; M > F",
+    "Histo": "seminoma (rare in retroperitoneum) / nonseminomatous germ cell tumor (embryonal"
+  },
+  "dominant_finding": "large lobulated well-defined homogeneous solid mass with ringlike / speckled",
+  "distribution": "",
+  "discriminating_features": [
+    "large lobulated well-defined homogeneous solid mass with ringlike / speckled",
+    "hypointense fibrous septa on T2WI",
+    "contrast enhancement of septa",
+    "heterogeneous tumor with areas of hemorrhage + necrosis",
+    "heterogeneous contrast enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "large lobulated well-defined homogeneous solid mass with ringlike / speckled",
+      "hypointense fibrous septa on T2WI",
+      "contrast enhancement of septa",
+      "heterogeneous tumor with areas of hemorrhage + necrosis",
+      "heterogeneous contrast enhancement",
+      "± flow voids ← hypervascularity",
+      "± invasion of adjacent structures"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "worse compared to gonadal location"
+  }
+}

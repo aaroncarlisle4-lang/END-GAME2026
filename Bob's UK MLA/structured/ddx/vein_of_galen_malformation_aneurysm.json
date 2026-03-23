@@ -1,0 +1,67 @@
+{
+  "finding": "VEIN OF GALEN MALFORMATION / ANEURYSM",
+  "slug": "vein_of_galen_malformation_aneurysm",
+  "chapter": "TERATOMA OF CNS",
+  "source_file": "processed_clusters/teratoma_of_cns/vein_of_galen_malformation_aneurysm.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "high-output cardiac failure (36%) ← massive shunting",
+      "raw": "high-output cardiac failure (36%) ← massive shunting",
+      "frequency": "36%"
+    },
+    {
+      "name": "cranial bruit",
+      "raw": "cranial bruit (b)  infantile pattern (1-12 months)",
+      "frequency": null
+    },
+    {
+      "name": "macrocrania from obstructive hydrocephalus; seizures",
+      "raw": "macrocrania from obstructive hydrocephalus; seizures (c)  adult pattern (> 1 year)",
+      "frequency": null
+    },
+    {
+      "name": "headaches ± intracranial hemorrhage ± hydrocephalus",
+      "raw": "headaches ± intracranial hemorrhage ± hydrocephalus",
+      "frequency": null
+    },
+    {
+      "name": "focal neurologic deficits (5%) ← steal of blood from surrounding structures ◊  Rarely diagnosed > 3 years of age",
+      "raw": "focal neurologic deficits (5%) ← steal of blood from surrounding structures ◊  Rarely diagnosed > 3 years of age",
+      "frequency": "5%"
+    },
+    {
+      "name": "Choroidal type",
+      "raw": "Choroidal type",
+      "frequency": null
+    },
+    {
+      "name": "Mural type",
+      "raw": "Mural type",
+      "frequency": null
+    },
+    {
+      "name": "Dural AV fistula",
+      "raw": "Dural AV fistula",
+      "frequency": null
+    },
+    {
+      "name": "Giant developmental venous anomaly",
+      "raw": "Giant developmental venous anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Pineal tumor",
+      "raw": "Pineal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid / colloid / porencephalic cyst",
+      "raw": "Arachnoid / colloid / porencephalic cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  central embryonic AVM of quadrigeminal plate cistern directly drains into a secondarily enlarged ectatic vein of Galen (aneurysm is a misnomer) Prevalence:   < 1% of all vascular brain malformations Cause:   arteriovenous fistula between primitive choroidal vessels and embryonic median prosencephalic vein of Markowski; fistula prevents involution of this embryonic vein + leads to development of the vein of Galen Anatomical types: = AV fistula fed by enlarged arterial branches → dilatation of vein of Galen + straight Type = angiomatous malformation involving basal ganglia + thalami ± midbrai"
+}

@@ -1,0 +1,52 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_1",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/a_benign_1.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Uterine fibroids",
+      "raw": "Uterine fibroids (99%)",
+      "frequency": "99%"
+    },
+    {
+      "name": "Pyometra",
+      "raw": "Pyometra",
+      "frequency": null
+    },
+    {
+      "name": "Hemato- / hydrocolpos",
+      "raw": "Hemato- / hydrocolpos",
+      "frequency": null
+    },
+    {
+      "name": "Transient uterine contraction: during pregnancy",
+      "raw": "Transient uterine contraction: during pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Bicornuate uterus",
+      "raw": "Bicornuate uterus",
+      "frequency": null
+    },
+    {
+      "name": "Adenomyosis",
+      "raw": "Adenomyosis",
+      "frequency": null
+    },
+    {
+      "name": "Intrauterine pregnancy",
+      "raw": "Intrauterine pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Lipoleiomyoma",
+      "raw": "Lipoleiomyoma (< 50 cases in world literature)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "LEPROSY",
+  "slug": "leprosy",
+  "chapter": "Subungual Keratoacanthoma",
+  "source_file": "processed_clusters/subungual_keratoacanthoma/leprosy.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lepromatous: in cutis, mucous membranes, viscera",
+      "raw": "lepromatous: in cutis, mucous membranes, viscera",
+      "frequency": null
+    },
+    {
+      "name": "neural: enlarged indurated nodular nerve trunks; anesthesia, muscular atrophy, neurotrophic changes",
+      "raw": "neural: enlarged indurated nodular nerve trunks; anesthesia, muscular atrophy, neurotrophic changes",
+      "frequency": null
+    },
+    {
+      "name": "mixed form @   Osseous changes",
+      "raw": "mixed form @   Osseous changes (in 15-54% of patients)",
+      "frequency": "54%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  HANSEN DISEASE Organism:   Mycobacterium leprae Types: √  specific osseous signs of leprosy: Location:   center of distal end of phalanges / eccentric √  ill-defined areas of decalcification, reticulated trabecular pattern, small rounded osteolytic lesions, cortical erosions √  joint spaces preserved √  healing phase: complete resolution / bone defect with sclerotic rim + endosteal thickening √  nasal spine absorption + destruction of maxilla, nasal bone, alveolar ridge √  enlarged nutrient foramina in clawlike hand √  erosive changes of ungual tufts √  nonspecific osseous signs of leprosy:"
+}

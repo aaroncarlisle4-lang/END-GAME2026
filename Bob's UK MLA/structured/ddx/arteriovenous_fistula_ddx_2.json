@@ -1,0 +1,27 @@
+{
+  "finding": "Arteriovenous Fistula (DDx)",
+  "slug": "arteriovenous_fistula_ddx_2",
+  "chapter": "Arteriovenous Fistula",
+  "source_file": "processed_clusters/arteriovenous_fistula/arteriovenous_fistula_ddx_2.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "AV malformation",
+      "raw": "AV malformation",
+      "frequency": null
+    },
+    {
+      "name": "dural AV fistula",
+      "raw": "dural AV fistula",
+      "frequency": null
+    },
+    {
+      "name": "vein of Galen malformation",
+      "raw": "vein of Galen malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "dilated often (serpentine) varicose draining vein | ± dilated venous pouches outside brain parenchyma | NO nidus / classic intraparenchymal tangle of vessels | ± spontaneous intracranial hemorrhage"
+}

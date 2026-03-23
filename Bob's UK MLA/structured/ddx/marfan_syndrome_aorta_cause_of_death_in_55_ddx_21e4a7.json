@@ -1,0 +1,32 @@
+{
+  "finding": "Marfan Syndrome — Aorta (cause of death in 55%) (DDx)",
+  "slug": "marfan_syndrome_aorta_cause_of_death_in_55_ddx_21e4a7",
+  "chapter": "Marfan Syndrome",
+  "source_file": "processed_clusters/marfan_syndrome/marfan_syndrome_aorta_cause_of_death_in_55_ddx_21e4a7.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "atherosclerotic aneurysm (older patient",
+      "raw": "atherosclerotic aneurysm (older patient",
+      "frequency": null
+    },
+    {
+      "name": "less rapid enlargement",
+      "raw": "less rapid enlargement",
+      "frequency": null
+    },
+    {
+      "name": "frequent thrombosis",
+      "raw": "frequent thrombosis",
+      "frequency": "frequent"
+    },
+    {
+      "name": "intimal calcifications common)",
+      "raw": "intimal calcifications common)",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {},
+  "context": "fusiform dilatation of ascending aorta, rarely beyond innominate artery (rapid | more rapid enlargement than atherosclerotic aneurysm | rarely intimal calcifications of the aortic wall"
+}

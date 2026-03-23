@@ -1,0 +1,32 @@
+{
+  "finding": "Adenomatoid Tumor Of Scrotum (DDx)",
+  "slug": "adenomatoid_tumor_of_scrotum_ddx_554bbe",
+  "chapter": "Adenomatoid Tumor Of Scrotum",
+  "source_file": "processed_clusters/adenomatoid_tumor_of_scrotum/adenomatoid_tumor_of_scrotum_ddx_554bbe.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "germ cell tumor",
+      "raw": "germ cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "granulomatous epididymitis (painful",
+      "raw": "granulomatous epididymitis (painful",
+      "frequency": null
+    },
+    {
+      "name": "avascular)",
+      "raw": "avascular)",
+      "frequency": null
+    },
+    {
+      "name": "metastasis from B-cell",
+      "raw": "metastasis from B-cell",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "indentation of the testicular contour | isointense relative to testis on T1WI | slightly hypointense relative to testis on T2WI | enhancement similar to testicular enhancement"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "A. UNILATERAL",
+  "slug": "a_unilateral_2_f0e83f",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/a_unilateral_2_f0e83f.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculous arthritis",
+      "raw": "Tuberculous arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

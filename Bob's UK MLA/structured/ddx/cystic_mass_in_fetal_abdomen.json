@@ -1,0 +1,47 @@
+{
+  "finding": "Cystic Mass in Fetal Abdomen",
+  "slug": "cystic_mass_in_fetal_abdomen",
+  "chapter": "B. OTHERS",
+  "source_file": "processed_clusters/b_others/cystic_mass_in_fetal_abdomen.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "POSTERIOR MID ABDOMEN",
+      "raw": "POSTERIOR MID ABDOMEN",
+      "frequency": null
+    },
+    {
+      "name": "Simple renal cyst",
+      "raw": "Simple renal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hydroureteronephrosis",
+      "raw": "Hydroureteronephrosis",
+      "frequency": null
+    },
+    {
+      "name": "Multicystic dysplastic kidney",
+      "raw": "Multicystic dysplastic kidney",
+      "frequency": null
+    },
+    {
+      "name": "Paranephric collection = urinoma",
+      "raw": "Paranephric collection = urinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic neuroblastoma",
+      "raw": "Cystic neuroblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence:  abdominal cyst in 1÷500 - 1÷1,000 live births; 1÷2,625 pregnancies"
+}

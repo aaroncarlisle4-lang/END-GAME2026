@@ -1,0 +1,27 @@
+{
+  "finding": "B. INFECTION",
+  "slug": "b_infection_9_cdfe40",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/b_infection_9_cdfe40.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Multiple abscesses / microabscesses",
+      "raw": "Multiple abscesses / microabscesses",
+      "frequency": null
+    },
+    {
+      "name": "Mycobacterial + fungal infection",
+      "raw": "Mycobacterial + fungal infection",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory pseudotumors",
+      "raw": "Inflammatory pseudotumors",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

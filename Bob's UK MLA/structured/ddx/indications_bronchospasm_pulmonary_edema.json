@@ -1,0 +1,57 @@
+{
+  "finding": "Indications: bronchospasm, pulmonary edema",
+  "slug": "indications_bronchospasm_pulmonary_edema",
+  "chapter": "Treatment of Premedicated Patients",
+  "source_file": "processed_clusters/treatment_of_premedicated_patients/indications_bronchospasm_pulmonary_edema.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Terbutaline",
+      "raw": "Terbutaline",
+      "frequency": null
+    },
+    {
+      "name": "0.25-0.50 mg IM/SQ",
+      "raw": "0.25-0.50 mg IM/SQ",
+      "frequency": null
+    },
+    {
+      "name": "Sedatives ♦  Midazolam",
+      "raw": "Sedatives ♦  Midazolam (Versed®)",
+      "frequency": null
+    },
+    {
+      "name": "Dose:   < 50 mg/min IV; 150-200 mg IM",
+      "raw": "Dose:   < 50 mg/min IV; 150-200 mg IM",
+      "frequency": null
+    },
+    {
+      "name": "Indications:   toxic convulsions",
+      "raw": "Indications:   toxic convulsions",
+      "frequency": null
+    },
+    {
+      "name": "Cx:   respiratory depression, apnea, laryngospasm, hypotension",
+      "raw": "Cx:   respiratory depression, apnea, laryngospasm, hypotension",
+      "frequency": null
+    },
+    {
+      "name": "Pain ♦  Fentanyl",
+      "raw": "Pain ♦  Fentanyl",
+      "frequency": null
+    },
+    {
+      "name": "Volume expander ♦  Crystalloid solution as 0.9% saline ♦  Hydroxylethyl starch",
+      "raw": "Volume expander ♦  Crystalloid solution as 0.9% saline ♦  Hydroxylethyl starch (high-molecular-weight colloid)",
+      "frequency": "0.9%"
+    },
+    {
+      "name": "Furosemide",
+      "raw": "Furosemide (Lasix®)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cx:   hypotension, cardiac arrhythmia Dose:   1-2.5 mg IV over 2 minutes; titrate to effect q 2 minutes; maximum 5 mg Indications:   sedation ♦  Diazepam (Valium®) Dose:   2-10 mg IM/IV q 3-4 hours; maximum 30 mg Indications:   seizures ♦  Pentobarbital (Nembutal®) Dose:   25-50 mg IV; short acting ♦  Morphine Dose:   1-3 mg IV Indications:   pain; pulmonary edema ♦  Demerol Cx:   respiratory depression"
+}

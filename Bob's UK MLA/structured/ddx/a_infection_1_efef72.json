@@ -1,0 +1,37 @@
+{
+  "finding": "A. INFECTION (< 1%",
+  "slug": "a_infection_1_efef72",
+  "chapter": "COMPLICATIONS OF BRAIN SURGERY",
+  "source_file": "processed_clusters/complications_of_brain_surgery/a_infection_1_efef72.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bone flap infection",
+      "raw": "Bone flap infection (44% of all infections) At risk:   postoperative CSF leakage, breach of paranasal sinuses, septic surgery performed for active infection, source of intracerebral contamination (compound skull fracture / penetrating injury)",
+      "frequency": "44%"
+    },
+    {
+      "name": "Meningitis",
+      "raw": "Meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Extradural abscess",
+      "raw": "Extradural abscess (0.43% of all craniotomies)",
+      "frequency": "0.43%"
+    },
+    {
+      "name": "Subdural empyema",
+      "raw": "Subdural empyema (0.11% of all craniotomies)",
+      "frequency": "0.11%"
+    },
+    {
+      "name": "Brain abscess",
+      "raw": "Brain abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

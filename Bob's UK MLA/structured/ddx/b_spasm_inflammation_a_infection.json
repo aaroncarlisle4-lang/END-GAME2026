@@ -1,0 +1,27 @@
+{
+  "finding": "B. SPASM / INFLAMMATION (a) infection",
+  "slug": "b_spasm_inflammation_a_infection",
+  "chapter": "Effaced Collecting System",
+  "source_file": "processed_clusters/effaced_collecting_system/b_spasm_inflammation_a_infection.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute pyelonephritis",
+      "raw": "Acute pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Acute bacterial nephritis",
+      "raw": "Acute bacterial nephritis",
+      "frequency": null
+    },
+    {
+      "name": "Acute tuberculosis (b)  hematuria",
+      "raw": "Acute tuberculosis (b)  hematuria",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

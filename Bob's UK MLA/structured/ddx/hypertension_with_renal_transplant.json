@@ -1,0 +1,42 @@
+{
+  "finding": "Hypertension with Renal Transplant",
+  "slug": "hypertension_with_renal_transplant",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/hypertension_with_renal_transplant.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TRANSPLANT RELATED",
+      "raw": "TRANSPLANT RELATED",
+      "frequency": null
+    },
+    {
+      "name": "Acute transplant rejection",
+      "raw": "Acute transplant rejection",
+      "frequency": null
+    },
+    {
+      "name": "Chronic rejection",
+      "raw": "Chronic rejection",
+      "frequency": null
+    },
+    {
+      "name": "Cyclosporine toxicity",
+      "raw": "Cyclosporine toxicity",
+      "frequency": null
+    },
+    {
+      "name": "Ureteral obstruction",
+      "raw": "Ureteral obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Renal artery stenosis (1-5%) (a)  accelerated atherosclerosis (b)  postsurgical fibrosis at anastomosis",
+      "raw": "Renal artery stenosis (1-5%) (a)  accelerated atherosclerosis (b)  postsurgical fibrosis at anastomosis",
+      "frequency": "5%"
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Leading cause of death in renal transplant recipient! Prevalence:   up to 60% 1 year after transplantation Cause:"
+}

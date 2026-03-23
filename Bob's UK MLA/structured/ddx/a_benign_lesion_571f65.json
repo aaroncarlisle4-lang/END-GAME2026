@@ -1,0 +1,37 @@
+{
+  "finding": "A. BENIGN LESION",
+  "slug": "a_benign_lesion_571f65",
+  "chapter": "SALIVARY GLANDS",
+  "source_file": "processed_clusters/salivary_glands/a_benign_lesion_571f65.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pleomorphic adenoma",
+      "raw": "Pleomorphic adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Basal cell adenoma",
+      "raw": "Basal cell adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Benign lymphoepithelial lesions",
+      "raw": "Benign lymphoepithelial lesions",
+      "frequency": null
+    },
+    {
+      "name": "Warthin tumor",
+      "raw": "Warthin tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "BERYLLIOSIS",
+  "slug": "berylliosis",
+  "chapter": "BARITOSIS",
+  "source_file": "processed_clusters/baritosis/berylliosis.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "positive beryllium lymphocyte transformation test",
+      "raw": "positive beryllium lymphocyte transformation test (= sample of blood / bronchoalveolar lavage tested for T-lymphocyte transformation + proliferation to beryllium)",
+      "frequency": null
+    },
+    {
+      "name": "Metabolism:   removed from lungs → excreted via kidneys",
+      "raw": "Metabolism:   removed from lungs → excreted via kidneys",
+      "frequency": null
+    },
+    {
+      "name": "Latent period:   5-15 years",
+      "raw": "Latent period:   5-15 years",
+      "frequency": null
+    },
+    {
+      "name": "Associated with:   granulomatous hepatitis, hypercalcemia, kidney stones",
+      "raw": "Associated with:   granulomatous hepatitis, hypercalcemia, kidney stones",
+      "frequency": null
+    },
+    {
+      "name": "dyspnea, cough, fever, anorexia, weight loss, skin lesions",
+      "raw": "dyspnea, cough, fever, anorexia, weight loss, skin lesions",
+      "frequency": null
+    },
+    {
+      "name": "Asbestosis",
+      "raw": "Asbestosis (no hilar adenopathy)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  chronic granulomatous disorder caused by exposure to beryllium dust / fumes (= acid salts from extraction of beryllium oxide) Substance:   one of the lightest metals (atomic weight 9), marked heat resistance, great hardness, fatigue resistance, no corrosion Occupational exposure:  fluorescent light bulb factories, ceramics manufacture, nuclear weapon production, aerospace industry Immunology:   cell-mediated immune response (= delayed hyper-sensitivity reaction) → accumulation of CD4+ T helper cells + macrophages in lower respiratory tract Histo:   noncaseating granulomas within interstitiu"
+}

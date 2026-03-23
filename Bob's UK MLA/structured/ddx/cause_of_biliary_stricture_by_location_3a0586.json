@@ -1,0 +1,62 @@
+{
+  "finding": "Cause of Biliary Stricture by Location",
+  "slug": "cause_of_biliary_stricture_by_location_3a0586",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/cause_of_biliary_stricture_by_location_3a0586.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "IgG4-related sclerosing cholangitis @    junction of cystic duct + CHD",
+      "raw": "IgG4-related sclerosing cholangitis @    junction of cystic duct + CHD",
+      "frequency": null
+    },
+    {
+      "name": "Cholecystectomy",
+      "raw": "Cholecystectomy",
+      "frequency": null
+    },
+    {
+      "name": "Mirizzi syndrome @    confluence of left + right hepatic ducts",
+      "raw": "Mirizzi syndrome @    confluence of left + right hepatic ducts",
+      "frequency": null
+    },
+    {
+      "name": "Cholecystectomy",
+      "raw": "Cholecystectomy",
+      "frequency": null
+    },
+    {
+      "name": "IgG4-related sclerosing cholangitis @    intrapancreatic portion of CBD",
+      "raw": "IgG4-related sclerosing cholangitis @    intrapancreatic portion of CBD",
+      "frequency": null
+    },
+    {
+      "name": "Chronic pancreatitis @    intra- and extrahepatic bile ducts",
+      "raw": "Chronic pancreatitis @    intra- and extrahepatic bile ducts",
+      "frequency": null
+    },
+    {
+      "name": "Primary sclerosing cholangitis",
+      "raw": "Primary sclerosing cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "IgG4-related sclerosing cholangitis",
+      "raw": "IgG4-related sclerosing cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent pyogenic cholangitis",
+      "raw": "Recurrent pyogenic cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "AIDS cholangiopathy",
+      "raw": "AIDS cholangiopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "@    distal CBD"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Branchial Cleft Anomalies (DDx)",
+  "slug": "branchial_cleft_anomalies_ddx_1",
+  "chapter": "Branchial Cleft Anomalies",
+  "source_file": "processed_clusters/branchial_cleft_anomalies/branchial_cleft_anomalies_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "inflammatory parotid cyst",
+      "raw": "inflammatory parotid cyst",
+      "frequency": null
+    },
+    {
+      "name": "benign cystic parotid tumor",
+      "raw": "benign cystic parotid tumor",
+      "frequency": null
+    },
+    {
+      "name": "necrotic metastatic lymphadenopathy",
+      "raw": "necrotic metastatic lymphadenopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cystic mass within parotid or immediate periparotid region (superficial to / deep to parotid | may extend into adjacent fat-containing parapharyngeal space ± connection to EAC"
+}

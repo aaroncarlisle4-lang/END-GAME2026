@@ -1,0 +1,33 @@
+{
+  "name": "GENITOURINARY DIABETES MELLITUS",
+  "slug": "genitourinary_diabetes_mellitus",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/genitourinary_diabetes_mellitus.md",
+  "definition": "defined as persistent proteinuria (> 500 mg of albumin/24 hours) + retinopathy + elevated",
+  "demographics": {
+    "Prevalence": "35-45% of IDDM; < 20% of NIDDM; M > F",
+    "Histo": "diffuse intercapillary glomerulosclerosis"
+  },
+  "dominant_finding": "renal enlargement (= renal hypertrophy with glomerular expansion)",
+  "distribution": "renal enlargement (= renal hypertrophy with glomerular expansion)",
+  "discriminating_features": [
+    "renal enlargement (= renal hypertrophy with glomerular expansion)",
+    "progressive decrease in size",
+    "diffuse cortical hyperechogenicity with gradual loss of corticomedullary differentiation",
+    "resistive index > 0.7 (very late)",
+    "contrast material may induce renal failure (= rise in serum creatinine level 1-5 days after"
+  ],
+  "other_features": {
+    "general": [
+      "renal enlargement (= renal hypertrophy with glomerular expansion)",
+      "progressive decrease in size",
+      "diffuse cortical hyperechogenicity with gradual loss of corticomedullary differentiation",
+      "resistive index > 0.7 (very late)",
+      "contrast material may induce renal failure (= rise in serum creatinine level 1-5 days after",
+      "enlarged postvoid residual urine volume"
+    ]
+  },
+  "clinical": {
+    "Cx": "vesicoureteral reflux, recurrent pyelonephritis, pyohydronephrosis, overflow"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Pyelonephritis (DDx)",
+  "slug": "pyelonephritis_ddx_1_6e02ef",
+  "chapter": "Pyelonephritis",
+  "source_file": "processed_clusters/pyelonephritis/pyelonephritis_ddx_1_6e02ef.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pyonephrosis",
+      "raw": "pyonephrosis",
+      "frequency": null
+    },
+    {
+      "name": "long-standing hydronephrosis",
+      "raw": "long-standing hydronephrosis",
+      "frequency": null
+    },
+    {
+      "name": "avascular tumor",
+      "raw": "avascular tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "signal void of calculus within collecting system | stretching of segmental / interlobar arteries around large avascular masses | hypervascularity / blush around periphery of masses in late arterial phase (= granulation | venous encasement + occlusion"
+}

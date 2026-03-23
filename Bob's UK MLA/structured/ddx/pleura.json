@@ -1,0 +1,122 @@
+{
+  "finding": "PLEURA",
+  "slug": "pleura",
+  "chapter": "D. INHALATION",
+  "source_file": "processed_clusters/d_inhalation/pleura.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pleuritic back / shoulder pain, dyspnea",
+      "raw": "pleuritic back / shoulder pain, dyspnea (in 80-90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Honeycomb lung, Hamman-Rich syndrome",
+      "raw": "Honeycomb lung, Hamman-Rich syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Emphysema, Esophageal rupture",
+      "raw": "Emphysema, Esophageal rupture",
+      "frequency": null
+    },
+    {
+      "name": "Chronic obstructive pulmonary disease",
+      "raw": "Chronic obstructive pulmonary disease",
+      "frequency": null
+    },
+    {
+      "name": "Hyaline membrane disease",
+      "raw": "Hyaline membrane disease",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous, Scleroderma",
+      "raw": "Spontaneous, Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma (osteo-), Sarcoidosis",
+      "raw": "Sarcoma (osteo-), Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis + fungus",
+      "raw": "Tuberculosis + fungus",
+      "frequency": null
+    },
+    {
+      "name": "Closed pneumothorax = intact thoracic cage",
+      "raw": "Closed pneumothorax = intact thoracic cage",
+      "frequency": null
+    },
+    {
+      "name": "Open pneumothorax = \"sucking\" chest wound",
+      "raw": "Open pneumothorax = \"sucking\" chest wound",
+      "frequency": null
+    },
+    {
+      "name": "Tension pneumothorax (clinical diagnosis) =  accumulation of air within pleural space ← free ingress + limited egress of air",
+      "raw": "Tension pneumothorax (clinical diagnosis) =  accumulation of air within pleural space ← free ingress + limited egress of air",
+      "frequency": null
+    },
+    {
+      "name": "compromised venous return",
+      "raw": "compromised venous return",
+      "frequency": null
+    },
+    {
+      "name": "Tension hydropneumothorax",
+      "raw": "Tension hydropneumothorax",
+      "frequency": null
+    },
+    {
+      "name": "Anteromedial pneumothorax",
+      "raw": "Anteromedial pneumothorax (earliest location)",
+      "frequency": null
+    },
+    {
+      "name": "Subpulmonic / anterolateral pneumothorax",
+      "raw": "Subpulmonic / anterolateral pneumothorax (2nd most common location)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Apicolateral pneumothorax",
+      "raw": "Apicolateral pneumothorax (least common location)",
+      "frequency": "common"
+    },
+    {
+      "name": "Posteromedial pneumothorax",
+      "raw": "Posteromedial pneumothorax (in presence of lower lobe collapse)",
+      "frequency": null
+    },
+    {
+      "name": "Pneumothorax → outlines pulmonary ligament Prognosis:  resorption of pneumothorax occurs at a rate of 1.25% per day",
+      "raw": "Pneumothorax → outlines pulmonary ligament Prognosis:  resorption of pneumothorax occurs at a rate of 1.25% per day (accelerated by increasing inspired oxygen concentrations)",
+      "frequency": "1.25%"
+    }
+  ],
+  "criteria": {},
+  "context": "Pneumothorax =  accumulation of air within pleural space Pathophysiology:   disruption of visceral pleura / trauma to parietal pleura Cause: Types: Pathophysiology: intrapleural pressure exceeds atmospheric pressure in lung during expiration (check-valve mechanism) Frequency:   in 3-5% of patients with spontaneous pneumothorax, higher in barotrauma √  hyperexpanded ipsilateral chest √  mediastinal shift to contralateral side √  contralateral displacement of anterior junction line √  \"deep sulcus\" sign = on frontal view larger lateral costodiaphragmatic recess than on opposite side √  flattenin"
+}

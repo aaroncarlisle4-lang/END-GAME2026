@@ -1,0 +1,62 @@
+{
+  "finding": "Congenital Syphilis",
+  "slug": "congenital_syphilis",
+  "chapter": "SYPHILIS OF BONE",
+  "source_file": "processed_clusters/syphilis_of_bone/congenital_syphilis.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "positive rapid plasma reagin",
+      "raw": "positive rapid plasma reagin (measures quantity of antibodies to assess new infection / efficacy of Rx)",
+      "frequency": null
+    },
+    {
+      "name": "positive microhemagglutination test for Treponema pallidum",
+      "raw": "positive microhemagglutination test for Treponema pallidum (remains reactive for life)",
+      "frequency": null
+    },
+    {
+      "name": "Early phase ◊  Skeletal radiography abnormal in 19% of infected newborns without overt disease!",
+      "raw": "Early phase ◊  Skeletal radiography abnormal in 19% of infected newborns without overt disease!",
+      "frequency": "19%"
+    },
+    {
+      "name": "Metaphysitis",
+      "raw": "Metaphysitis",
+      "frequency": null
+    },
+    {
+      "name": "Diaphyseal periostitis = \"luetic diaphysitis\"",
+      "raw": "Diaphyseal periostitis = \"luetic diaphysitis\"",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous epiphyseal fractures causing Parrot pseudopalsy",
+      "raw": "Spontaneous epiphyseal fractures causing Parrot pseudopalsy (DDx: battered child syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Bone destruction",
+      "raw": "Bone destruction",
+      "frequency": null
+    },
+    {
+      "name": "Wimberger sign",
+      "raw": "Wimberger sign",
+      "frequency": null
+    },
+    {
+      "name": "Late phase",
+      "raw": "Late phase",
+      "frequency": null
+    },
+    {
+      "name": "Hutchinson triad = dental abnormality, interstitial keratitis, 8th nerve deafness",
+      "raw": "Hutchinson triad = dental abnormality, interstitial keratitis, 8th nerve deafness",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Transplacental transmission cannot occur < 16 weeks gestational age √  pneumonia alba √  hepatomegaly Location:   symmetrical bilateral osteomyelitis involving multiple bones (HALLMARK) √  lucent metaphyseal band adjacent to thin / widened zone of provisional calcification ← disturbance in enchondral bone growth √  frayed edge of metaphyseal-physeal junction (osteochondritis) = erosions + lytic defects √  solid / lamellated periosteal new-bone growth = bone-within-bone appearance √  marginal destruction of spongiosa + cortex along side of shaft with widening of medullary canal (in short tub"
+}

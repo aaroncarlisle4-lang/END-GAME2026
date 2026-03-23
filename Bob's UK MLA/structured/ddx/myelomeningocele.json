@@ -1,0 +1,167 @@
+{
+  "finding": "MYELOMENINGOCELE",
+  "slug": "myelomeningocele",
+  "chapter": "MENINGIOMA OF SPINE",
+  "source_file": "processed_clusters/meningioma_of_spine/myelomeningocele.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "positive family history in 10%",
+      "raw": "positive family history in 10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "neural placode = reddish neural tissue in the middle of back made up of open spinal cord",
+      "raw": "neural placode = reddish neural tissue in the middle of back made up of open spinal cord",
+      "frequency": null
+    },
+    {
+      "name": "normal skin / cutaneous abnormality: pigmented nevus, abnormal distribution of hair, skin dimple, angioma, lipoma",
+      "raw": "normal skin / cutaneous abnormality: pigmented nevus, abnormal distribution of hair, skin dimple, angioma, lipoma",
+      "frequency": null
+    },
+    {
+      "name": "MS-AFP (≥ 2.5 S.D. over mean) permits detection in 80% (2-5% PPV) if defect not covered by full skin thickness Recurrence rate:   3-7% chance of NTD with previously affected sibling / in fetus of affected parent",
+      "raw": "MS-AFP (≥ 2.5 S.D. over mean) permits detection in 80% (2-5% PPV) if defect not covered by full skin thickness Recurrence rate:   3-7% chance of NTD with previously affected sibling / in fetus of affected parent",
+      "frequency": "80%"
+    },
+    {
+      "name": "Hydrocephalus (70-90%): requiring ventriculoperitoneal shunt in 90% ◊  25% of patients with hydrocephalus have spina bifida!",
+      "raw": "Hydrocephalus (70-90%): requiring ventriculoperitoneal shunt in 90% ◊  25% of patients with hydrocephalus have spina bifida!",
+      "frequency": "90%"
+    },
+    {
+      "name": "Chiari II malformation",
+      "raw": "Chiari II malformation (99%)",
+      "frequency": "99%"
+    },
+    {
+      "name": "Congenital / acquired kyphoscoliosis",
+      "raw": "Congenital / acquired kyphoscoliosis (90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Vertebral anomalies: vertebral body fusion, hemivertebrae, cleft vertebrae, butterfly vertebrae",
+      "raw": "Vertebral anomalies: vertebral body fusion, hemivertebrae, cleft vertebrae, butterfly vertebrae",
+      "frequency": null
+    },
+    {
+      "name": "Diastematomyelia (20-46%): spinal cord split above (31%), below (25%), at the same level (22%) as the myelomeningocele",
+      "raw": "Diastematomyelia (20-46%): spinal cord split above (31%), below (25%), at the same level (22%) as the myelomeningocele",
+      "frequency": "46%"
+    },
+    {
+      "name": "Duplication of central canal (5%) cephalic to + at level of placode",
+      "raw": "Duplication of central canal (5%) cephalic to + at level of placode",
+      "frequency": "5%"
+    },
+    {
+      "name": "Hemimyelocele (10%) = two hemicords in separate dural tubes separated by fibrous / bony spur: one hemicord with myelomeningocele on one side of midline, one hemicord normal / with smaller myelomeningocele at a lower level",
+      "raw": "Hemimyelocele (10%) = two hemicords in separate dural tubes separated by fibrous / bony spur: one hemicord with myelomeningocele on one side of midline, one hemicord normal / with smaller myelomeningocele at a lower level",
+      "frequency": "10%"
+    },
+    {
+      "name": "impaired neurological function on side of hemimyelocele",
+      "raw": "impaired neurological function on side of hemimyelocele",
+      "frequency": null
+    },
+    {
+      "name": "Hydromyelia (29-77%) cranial to placode ← disturbed CSF circulation",
+      "raw": "Hydromyelia (29-77%) cranial to placode ← disturbed CSF circulation",
+      "frequency": "77%"
+    },
+    {
+      "name": "Chromosomal anomalies (10-17%): trisomy 18, trisomy 13, triploidy, unbalanced translocation ◊  In 20% no detectable associated anomalies!",
+      "raw": "Chromosomal anomalies (10-17%): trisomy 18, trisomy 13, triploidy, unbalanced translocation ◊  In 20% no detectable associated anomalies!",
+      "frequency": "17%"
+    },
+    {
+      "name": "Tethering of spinal cord",
+      "raw": "Tethering of spinal cord (70-90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst (2%) ← developmental deficiency during formation of arachnoid / dura mater with a subdural location Distribution:   thoracic (2%), thoracolumbar (32%), lumbar (22%), lumbosacral (44%)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Repair within 48 hr",
+      "raw": "Repair within 48 hr",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative tethering of spinal cord by placode / scar",
+      "raw": "Postoperative tethering of spinal cord by placode / scar",
+      "frequency": null
+    },
+    {
+      "name": "Constricting dural ring",
+      "raw": "Constricting dural ring",
+      "frequency": null
+    },
+    {
+      "name": "Cord compression by lipoma / dermoid / epidermoid cyst",
+      "raw": "Cord compression by lipoma / dermoid / epidermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia from vascular compromise",
+      "raw": "Ischemia from vascular compromise",
+      "frequency": null
+    },
+    {
+      "name": "Syringohydromyelia",
+      "raw": "Syringohydromyelia",
+      "frequency": null
+    },
+    {
+      "name": "Mortality 15% by age 10 years",
+      "raw": "Mortality 15% by age 10 years",
+      "frequency": "15%"
+    },
+    {
+      "name": "Intelligence: IQ < 80",
+      "raw": "Intelligence: IQ < 80 (27%); IQ > 100 (27%); learning disability (50%)",
+      "frequency": "27%"
+    },
+    {
+      "name": "Urinary incontinence: 85% achieve social continence",
+      "raw": "Urinary incontinence: 85% achieve social continence (scheduled intermittent catheterization)",
+      "frequency": "85%"
+    },
+    {
+      "name": "Motor function: some deficit",
+      "raw": "Motor function: some deficit (100%); improvement after repair (37%)",
+      "frequency": "100%"
+    },
+    {
+      "name": "Hindbrain dysfunction associated with Chiari II malformation",
+      "raw": "Hindbrain dysfunction associated with Chiari II malformation (32%)",
+      "frequency": "32%"
+    },
+    {
+      "name": "ventriculitis: 7% in initial repair within 48 hours, more common in delayed repair > 48 hours",
+      "raw": "ventriculitis: 7% in initial repair within 48 hours, more common in delayed repair > 48 hours",
+      "frequency": "7%"
+    },
+    {
+      "name": "usually asymptomatic in older children",
+      "raw": "usually asymptomatic in older children",
+      "frequency": null
+    },
+    {
+      "name": "constipation, dysmenorrhea, urinary incontinence ← mass effect",
+      "raw": "constipation, dysmenorrhea, urinary incontinence ← mass effect",
+      "frequency": null
+    },
+    {
+      "name": "back pain, numbness in lower limbs, headache ← neurologic compromise / meningitis / rupture",
+      "raw": "back pain, numbness in lower limbs, headache ← neurologic compromise / meningitis / rupture",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  sac covered by leptomeninges containing CSF + variable amount of neural tissue; herniated through a defect in the posterior / anterior elements of spine Prevalence:   1÷1,000-2,000 births (in Great Britain 1÷200 births); twice as common in infants of mothers > 35 years of age; Caucasians > Blacks > Orientals; most common congenital anomaly of CNS Etiology:   localized defect of closure of caudal neuropore (usually closed by 28 days); persistence of neural placode causes derangement in the development of mesenchymal + ectodermal structures Associated with: Location: (a)  cranial meningocele"
+}

@@ -1,0 +1,256 @@
+# Finding: H
+
+**Source section:** Symbols
+**Quality score:** 0.5
+**Differential count:** 229
+
+## Differentials
+
+- HAGL 87
+- Hair-on-end skull 215
+- Hairy plaque 579
+- Hajdu-Cheney syndrome 96
+- Haller cells 454
+- Hallervorden-Spatz disease 359
+- Halo sign
+- Hamate fracture 109
+- Hamburger vertebrae 224
+- Hamman-Rich syndrome 623
+- Hammered silver skull 366
+- Hammocklike posterior bowing of mitral valve 831
+- Hamoudi tumor 982
+- Hampton
+- foot syndrome 197 fracture 109 metacarpal sign 20
+  - Schüller-Christian disease 138
+- Handle-bar clavicles 62
+- Hanging noose sign 1299
+- Hangman's fracture 259
+- Hansemann macrophages 1217
+- Hansen disease 139
+- Hard metal pneumoconiosis 618
+- Harlequin orbit 388
+- Harris lines 128
+- Hashimoto thyroiditis 509
+- Hasner membrane 420
+- Haudek niche 1093
+- Hawkins sign 67
+- Hay fork sign 1108
+- Head
+- Healing skull fracture 254
+- Hearing deficit 437
+- Heart
+- Heerfordt syndrome 669
+- Heffner tumor 497
+- Helicobacter pylori infection 1099
+- Heliotrope rash 80
+- Hellmer sign 1136, 996
+- HELLP syndrome 1359
+- Helminthiasis 1028
+- Hemangioblastoma
+- CNS 361
+- Hemangiosarcoma, liver 937
+- Hemarthrosis 126
+- Hematoma
+- Hematometrocolpos 1361
+- Hematopoiesis, extramedullary 95
+- Hematosalpinx 1376
+- Hematuria 1280
+- HemeSelect™ 1063
+- Hemiatrophy, cerebral 351
+- Hemihypertrophy
+- Wilms tumor 1291
+- Hemimelia 1300
+- Hemimyelocele 267
+- Hemithorax, opacification 539
+- Hemitruncus 856
+- Hemivertebra 221
+- Hemobilia 873
+- Hemoccult® test 1063
+- Hemochromatosis
+- uremic syndrome 1211
+- Hemophagocytic lymphohistiocytosis 364
+- Hemophilia 126
+- Hemoptysis 513
+- Hemothorax 548
+- Henoch-Schönlein purpura 817
+- Hensen node 273
+- Hepar lobatum 872
+- Hepatic
+- pulmonary disorders 515 steatosis 926 subcapsular steatosis 928 trauma 1054 vein Doppler dampening 869 waveform 779, 887 venoocclusive disease 940 wedge pressure 975
+- Herlyn-Werner-Wunderlich syndrome 1358
+- Hermaphroditism 1182
+- Hernia 1100
+- Amyand 1101
+- induced pulmonary edema 517
+- Hers disease 932
+- Hesselbach triangle 1100
+- Heterogeneous carotid plaque 479
+- Heterotaxy 739
+- Heterozygous achondroplasia 57
+- Heubner artery 320
+- Hexabrix® 1431
+- Hiatal hernia 1103
+- Hiatus semilunaris 455
+- Hibernating myocardium 823
+- Hibernoma 127
+- Hidebound folds 1134
+- High
+- altitude pulmonary edema 517
+- density bile 872 renal cyst 1252
+  - flow priapism 1235 vascular malformation 758
+  - resolution CT bronchiolitis 530 diffuse lung disease 528
+  - riding third ventricle 327
+- Hildreth sign 119
+- Hilgenreiner line 82
+- Hill-Sachs defect 87
+- Hilum
+- Hindbrain 311
+- Hindgut duplication 1078
+- Hine-Duley phantom 1396
+- Hinman syndrome 1175
+- Hip
+- Hippuran® 1419
+- Hirschsprüng disease 1104
+- Hirsutism 1382
+- His angle 1088
+- Histiocytic lymphoma
+- associated lymphoepithelial cysts 475 encephalitis 328, 353 esophagitis 1089 nephropathy 1193 parotitis 502
+- Hives, contrast reaction Endpaper A
+- HIV-related cholangitis 905
+- HLA-B 27 histocompatibility complex 14
+- Hodgkin disease 620
+- Hofman-Rigler rule 742
+- Holdsworth fracture 260
+- Hole-within-hole bone lesion 137
+- Holman carotid slim sign 477
+- Holo
+- Homans sign 811
+- Homer-Wright rosettes 433
+- Homocystinuria 127
+- Homogeneous carotid plaque 479
+- Homovanillic acid 1226
+- Homozygous achondroplasia 57
+- Honda sign 103
+- Honeycomb
+- Hong Kong disease 907
+- Hood syndrome 158
+- Hook-like osteophytes 125
+- Hormones
+- Wright rosettes 1226
+- Houston valves 1144
+- Howell-Jolly bodies 198, 818
+- HSG
+- Hulka® Clip 1362
+- Hulten variance 42
+- Human
+- Humerus fracture, proximal 106
+- Hump and dip sign, breast 721
+- Humphrey ligament 49
+- Hunner ulcer 1207
+- Hunter disease 152
+- Hurler syndrome
+- CHD 736
+- Hurst phenomenon 1042
+- Hürthle-cell adenoma 507
+- Hutch diverticulum 1203
+- Hutchinson
+- Gilford syndrome 181 syndrome 1226 triad 205
+- Hyaloserositis, pleura 549
+- Hybridoma 1399
+- Hybrid PET/CT imaging, indications 1399
+- Hydatid
+- Hydatidiform mole 1360
+- Hydranencephaly 365
+- Hydrocalicosis 1213
+- Hydrocalyx 1213
+- Hydrocarbon 600
+- Hydrocele 1212
+- Hydrocephalus 366
+- Hydrogen sulfide 600
+- Hydrolethalus syndrome 1302
+- Hydrometrocolpos 1361
+- Hydromyelia 280
+- Hydronephrosis 1212
+- Hydrophthalmos 419
+- Hydropic villi 1360
+- Hydrops
+- Hydroureter 1171
+- Hydroxyproline, increased 178
+- Hydroxyzine 1437
+- Hygroma
+- Hymen, imperforate 1388
+- Hyoid arch 456
+- Hypaque® 1432
+- Hyperabduction maneuver 850
+- Hyperacute
+- Hyperaldosteronism, primary 1204
+- Hyperamylasemia 880
+- Hyperbilirubinemia, infants 874
+- Hypercalcemia 1150
+- Hypercalciuria 1169, 1287
+- Hypercementosis 218
+- Hypercoagulability 759
+- Hyperconvex nails 209
+- Hypercortisolism 1205
+- Hyperdense
+- Hyperelasticity of skin 91
+- Hypereosinophilic syndrome 614
+- Hyperextension injury
+- Hyperflexion injury, spine 256
+- Hyperfunctioning adrenocortical adenoma 1197
+- Hypergonadotropic hypogonadism 1311
+- Hyperhidrosis 185
+- Hyper-IgG4 disease 487
+- Hyperinflation
+- Hyperoxaluria 1287
+- Hyperparathyroidism 128
+- Hyperperfusion abnormalities of liver 868
+- Hyperphosphatasia, hereditary 126
+- Hyperplasia
+- Hyperstimulation, ovary 1371
+- Hypertelorism 1304
+- Hypertension
+- Hypervitaminosis
+- A 131
+- D 131
+- Hyphema 427
+- Hypodense brain lesion
+- Hypoechoic renal sinus 1168
+- Hypogammaglobulinemia, acquired 678
+- Hypogenetic lung 783
+- Hypoglossal canal 235
+- Hypogonadotropic hypogonadism 1311
+- Hypointense
+- T2 signal, prostate 1180
+- Hypokinesis, heart 823
+- Hypomineralization in fetus 1301
+- Hypoparathyroidism 131
+- Hypoperfusion
+- Hypopharyngeal carcinoma 487
+- Hypopharynx 458
+- Hypophosphatasia 132
+- Hypophosphatemic familial rickets 187
+- Hypophysis cerebri 312
+- Hypophysitis lymphoid 375
+- Hypoplasia
+- MSK 132
+- Hypotympanum 465
+- Hypovascular
+- Hypovitaminosis C 195
+- Hypovolemia, trauma 1052
+- Hypoxic-ischemic encephalopathy 368
+
+## Context
+
+Habenula 295 breast 685 duodenal diverticulum 1076 gallbladder 908 lung 581 rectum 1136 thyroid 507 Hamartoma benign fetal, kidney 1220 breast 724 Brunner gland 1056 chest wall 617 CNS 359 fetal renal 1220 fibrolipomatous nerve 141 hypothalamic 359 leiomyomatous, kidney 1220 lung 617 lymphoid 599 mesenchymal liver 951 multiple, bile duct 956 renal 1200 spleen 983 subependymal 404 tuber cinereum 359 Hamartomatosis, generalized 79 Hamartomatous polyp colon 1025 stomach 1092 hump 654 line 1093 Hamstrings 47 Hancock valve 760 Hand articular disorders 16 collateral circulation 776 circumference, fe
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Convert ## Differentials into a comparison table.
+  2. Columns = each differential diagnosis.
+  3. Rows = Dominant finding | Demographics | Distribution |
+            Key discriminator | Other findings | Relative frequency.
+  4. Preserve any percentages or 'most common/rare' qualifiers.
+  5. Use ## Context paragraph for additional demographic / distribution clues.
+-->

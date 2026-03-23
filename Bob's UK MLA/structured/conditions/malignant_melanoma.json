@@ -1,0 +1,52 @@
+{
+  "name": "MALIGNANT MELANOMA",
+  "slug": "malignant_melanoma",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/malignant_melanoma.md",
+  "definition": "develops from melanocytes derived from neural crest cells, arising in preexisting benign nevi",
+  "demographics": {
+    "Frequency": "1% of all cancers; increasing at 3.9% annually",
+    "Prevalence": "30-40% at autopsy",
+    "Location": "axial skeleton (80%), ribs (38%)"
+  },
+  "dominant_finding": "intraoperative intradermal injection of dye",
+  "distribution": "axial skeleton (80%), ribs (38%)",
+  "discriminating_features": [
+    "intraoperative intradermal injection of dye",
+    "preoperative lymphoscintigraphy",
+    "predominantly osteolytic",
+    "hypo- / isointense on T1WI + T2WI + STIR images (most commonly)",
+    "hyperintense on T1WI + hypointense on T2WI ← T1-shortening effect of the"
+  ],
+  "other_features": {
+    "general": [],
+    "Lymphadenopathy": [
+      "intraoperative intradermal injection of dye",
+      "preoperative lymphoscintigraphy"
+    ],
+    "Bone (7-17%)": [
+      "predominantly osteolytic",
+      "hypo- / isointense on T1WI + T2WI + STIR images (most commonly)",
+      "hyperintense on T1WI + hypointense on T2WI ← T1-shortening effect of the"
+    ],
+    "Lung (70% at autopsy): most common site of relapse": [
+      "single / multiple lesions 0.5-15 cm in size",
+      "larger lesion often necrotic",
+      "may be partially calcified"
+    ],
+    "Spleen (1-5%; 33% at autopsy)": [
+      "single / multiple lesions of variable size",
+      "solid / cystic"
+    ],
+    "GI tract + mesentery (4-8%)": [
+      "multiple hypervascular subepithelial nodules:",
+      "\"bull's-eye / target\" appearance on BE = central ulceration ← tendency to outgrow",
+      "localized to antimesenteric border of bowel wall ← embolic metastases to intramural",
+      "irregular amorphous cavity (exoenteric growth) in larger lesion ← necrosis, hemorrhage,",
+      "intussusception (10-20%)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "30-40% eventually die from this tumor"
+  }
+}

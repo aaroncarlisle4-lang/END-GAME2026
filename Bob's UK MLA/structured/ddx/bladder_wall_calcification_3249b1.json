@@ -1,0 +1,42 @@
+{
+  "finding": "Bladder Wall Calcification",
+  "slug": "bladder_wall_calcification_3249b1",
+  "chapter": "D. UNDERDISTENDED BLADDER",
+  "source_file": "processed_clusters/d_underdistended_bladder/bladder_wall_calcification_3249b1.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INFLAMMATION",
+      "raw": "INFLAMMATION",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Cystitis: postirradiation cystitis, alkaline incrusted cystitis and pyelitis, cytotoxin cystitis",
+      "raw": "Cystitis: postirradiation cystitis, alkaline incrusted cystitis and pyelitis, cytotoxin cystitis",
+      "frequency": null
+    },
+    {
+      "name": "Bacillary UTI",
+      "raw": "Bacillary UTI (extremely uncommon)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Encrusted foreign material",
+      "raw": "Encrusted foreign material",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  relatively normal distensibility of bladder √  thin arcuate pattern of calcification √  bladder markedly contracted"
+}

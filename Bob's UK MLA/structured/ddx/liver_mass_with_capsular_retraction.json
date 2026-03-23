@@ -1,0 +1,32 @@
+{
+  "finding": "Liver Mass with Capsular Retraction",
+  "slug": "liver_mass_with_capsular_retraction",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/liver_mass_with_capsular_retraction.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cholangiocarcinoma",
+      "raw": "Cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrolamellar carcinoma",
+      "raw": "Fibrolamellar carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Epithelioid hemangioendothelioma",
+      "raw": "Epithelioid hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Confluent hepatic fibrosis or any hepatic malignancy",
+      "raw": "Confluent hepatic fibrosis or any hepatic malignancy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

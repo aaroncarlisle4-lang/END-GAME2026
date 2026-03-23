@@ -1,0 +1,27 @@
+{
+  "finding": "Extraocular Muscle Enlargement",
+  "slug": "extraocular_muscle_enlargement_2cd7db",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/extraocular_muscle_enlargement_2cd7db.md",
+  "quality_score": 0.3,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "ENDOCRINE",
+      "raw": "ENDOCRINE",
+      "frequency": null
+    },
+    {
+      "name": "Graves disease",
+      "raw": "Graves disease (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

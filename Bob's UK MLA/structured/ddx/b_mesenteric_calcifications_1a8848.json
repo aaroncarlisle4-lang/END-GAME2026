@@ -1,0 +1,27 @@
+{
+  "finding": "B. MESENTERIC CALCIFICATIONS",
+  "slug": "b_mesenteric_calcifications_1a8848",
+  "chapter": "B. CHEST",
+  "source_file": "processed_clusters/b_chest/b_mesenteric_calcifications_1a8848.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dystrophic calcification of omental fat deposits + appendices epiploicae ← infarction / pancreatitis / TB",
+      "raw": "Dystrophic calcification of omental fat deposits + appendices epiploicae ← infarction / pancreatitis / TB",
+      "frequency": null
+    },
+    {
+      "name": "Cysts: mesenteric cyst, hydatid cyst",
+      "raw": "Cysts: mesenteric cyst, hydatid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Calcified mesenteric lipoma",
+      "raw": "Calcified mesenteric lipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

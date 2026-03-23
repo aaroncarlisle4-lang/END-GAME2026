@@ -1,0 +1,27 @@
+{
+  "finding": "Tumors of Histiocytic Origin",
+  "slug": "tumors_of_histiocytic_origin_1813c3",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/tumors_of_histiocytic_origin_1813c3.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "LOCALLY AGGRESSIVE",
+      "raw": "LOCALLY AGGRESSIVE",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Benign fibrous histiocytoma",
+      "raw": "Benign fibrous histiocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

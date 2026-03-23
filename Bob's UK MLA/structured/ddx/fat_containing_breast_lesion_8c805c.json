@@ -1,0 +1,42 @@
+{
+  "finding": "Fat-containing Breast Lesion",
+  "slug": "fat_containing_breast_lesion_8c805c",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/fat_containing_breast_lesion_8c805c.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Galactocele =  fluid with high lipid content",
+      "raw": "Galactocele =  fluid with high lipid content (last phase)",
+      "frequency": null
+    },
+    {
+      "name": "during / shortly after lactation",
+      "raw": "during / shortly after lactation",
+      "frequency": null
+    },
+    {
+      "name": "Oil cyst= traumatic lipid cyst = fat necrosis",
+      "raw": "Oil cyst= traumatic lipid cyst = fat necrosis",
+      "frequency": null
+    },
+    {
+      "name": "site of prior surgery / trauma",
+      "raw": "site of prior surgery / trauma",
+      "frequency": null
+    },
+    {
+      "name": "Focal collection of normal breast fat",
+      "raw": "Focal collection of normal breast fat",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Fat contained within a lesion usually proves benignity!"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Focal Renal Cystic Disease",
+  "slug": "focal_renal_cystic_disease",
+  "chapter": "Potter Classification",
+  "source_file": "processed_clusters/potter_classification/focal_renal_cystic_disease.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mixed epithelial and stromal tumor",
+      "raw": "Mixed epithelial and stromal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Multilocular cystic nephroma",
+      "raw": "Multilocular cystic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "Pyelocalyceal diverticulum",
+      "raw": "Pyelocalyceal diverticulum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

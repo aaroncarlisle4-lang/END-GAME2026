@@ -1,0 +1,47 @@
+{
+  "finding": "B. BILATERAL",
+  "slug": "b_bilateral_1",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/b_bilateral_1.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Osteomalacia",
+      "raw": "Osteomalacia",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Osteomalacia",
+      "raw": "Osteomalacia (HPT)",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

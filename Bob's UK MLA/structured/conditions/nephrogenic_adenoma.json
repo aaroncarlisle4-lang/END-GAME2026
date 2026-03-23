@@ -1,0 +1,27 @@
+{
+  "name": "NEPHROGENIC ADENOMA",
+  "slug": "nephrogenic_adenoma",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/nephrogenic_adenoma.md",
+  "definition": "uncommon benign metaplastic response to urothelial injury / prolonged irritation",
+  "demographics": {
+    "Age": "3 weeks to 83 years; M÷F = 3÷1 (more common in females if < 20 years of age)",
+    "Path": "discrete raised papillary / polypoid / cystic areas projecting from epithelial surface",
+    "Histo": "variable number of small tubules (resembling loops of Henle and collecting ducts) +",
+    "Size": "usually 1 mm, up to 7 cm in diameter"
+  },
+  "dominant_finding": "papillary / polypoid filling defect",
+  "distribution": "",
+  "discriminating_features": [
+    "papillary / polypoid filling defect"
+  ],
+  "other_features": {
+    "general": [
+      "papillary / polypoid filling defect"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "high likelihood of recurrence; rarely malignant transformation",
+    "Rx": "resection / fulguration"
+  }
+}

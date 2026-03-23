@@ -1,0 +1,32 @@
+{
+  "finding": "Rectal Narrowing",
+  "slug": "rectal_narrowing_c14a8a",
+  "chapter": "RECTUM & ANUS",
+  "source_file": "processed_clusters/rectum_anus/rectal_narrowing_c14a8a.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pelvic lipomatosis + fibrolipomatosis",
+      "raw": "Pelvic lipomatosis + fibrolipomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphogranuloma venereum",
+      "raw": "Lymphogranuloma venereum",
+      "frequency": null
+    },
+    {
+      "name": "Radiation injury of rectum",
+      "raw": "Radiation injury of rectum",
+      "frequency": null
+    },
+    {
+      "name": "Chronic ulcerative colitis",
+      "raw": "Chronic ulcerative colitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

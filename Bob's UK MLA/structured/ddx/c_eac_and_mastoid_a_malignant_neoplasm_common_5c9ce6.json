@@ -1,0 +1,47 @@
+{
+  "finding": "C. EAC AND MASTOID (a) malignant neoplasm (common",
+  "slug": "c_eac_and_mastoid_a_malignant_neoplasm_common_5c9ce6",
+  "chapter": "TEMPORAL BONE",
+  "source_file": "processed_clusters/temporal_bone/c_eac_and_mastoid_a_malignant_neoplasm_common_5c9ce6.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Others: basal cell carcinoma, melanoma, lymphoma, myeloma, metastasis, chondro-, osteosarcoma (b)  benign process",
+      "raw": "Others: basal cell carcinoma, melanoma, lymphoma, myeloma, metastasis, chondro-, osteosarcoma (b)  benign process",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Malignant otitis media",
+      "raw": "Malignant otitis media",
+      "frequency": null
+    },
+    {
+      "name": "Radiation necrosis",
+      "raw": "Radiation necrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

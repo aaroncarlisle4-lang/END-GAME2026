@@ -1,0 +1,22 @@
+{
+  "finding": "Metastasis To Brain (DDx)",
+  "slug": "metastasis_to_brain_ddx_2_e704e9",
+  "chapter": "Metastasis To Brain",
+  "source_file": "processed_clusters/metastasis_to_brain/metastasis_to_brain_ddx_2_e704e9.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "benign cyst",
+      "raw": "benign cyst",
+      "frequency": null
+    },
+    {
+      "name": "abscess",
+      "raw": "abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hyperdense without contrast | hypervascular with contrast"
+}

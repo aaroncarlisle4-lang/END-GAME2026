@@ -1,0 +1,37 @@
+{
+  "finding": "Esophagitis (DDx)",
+  "slug": "esophagitis_ddx_1",
+  "chapter": "Esophagitis",
+  "source_file": "processed_clusters/esophagitis/esophagitis_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "CMV esophagitis",
+      "raw": "CMV esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "mycobacterial esophagitis",
+      "raw": "mycobacterial esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "actinomycosis",
+      "raw": "actinomycosis",
+      "frequency": null
+    },
+    {
+      "name": "potassium chloride",
+      "raw": "potassium chloride",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "CMV esophagitis": [],
+    "mycobacterial esophagitis": [],
+    "actinomycosis": [],
+    "potassium chloride": []
+  },
+  "context": "one / more giant (> 1 cm) flat ovoid / diamond-shaped ulcers (at time of seroconversion)"
+}

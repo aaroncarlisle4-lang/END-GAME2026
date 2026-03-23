@@ -1,0 +1,37 @@
+{
+  "finding": "Cholesterol-containing CNS Lesions",
+  "slug": "cholesterol_containing_cns_lesions",
+  "chapter": "B. NEUROVASCULAR",
+  "source_file": "processed_clusters/b_neurovascular/cholesterol_containing_cns_lesions.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epidermoid inclusion cyst",
+      "raw": "Epidermoid inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cholesterol granuloma",
+      "raw": "Cholesterol granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Acquired epidermoid of middle ear",
+      "raw": "Acquired epidermoid of middle ear",
+      "frequency": null
+    },
+    {
+      "name": "Congenital cholesteatoma of middle ear",
+      "raw": "Congenital cholesteatoma of middle ear",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

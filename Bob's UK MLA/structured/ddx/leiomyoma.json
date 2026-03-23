@@ -1,0 +1,92 @@
+{
+  "finding": "LEIOMYOMA",
+  "slug": "leiomyoma",
+  "chapter": "LADD BANDS",
+  "source_file": "processed_clusters/ladd_bands/leiomyoma.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "negative for c-KIT, strongly diffusely positive for desmin + smooth muscle actin",
+      "raw": "negative for c-KIT, strongly diffusely positive for desmin + smooth muscle actin (DDx to GIST) @   Stomach (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "usually asymptomatic",
+      "raw": "usually asymptomatic (due to slow growth)",
+      "frequency": null
+    },
+    {
+      "name": "dysphagia, odynophagia, dyspepsia usually for > 2 years",
+      "raw": "dysphagia, odynophagia, dyspepsia usually for > 2 years",
+      "frequency": null
+    },
+    {
+      "name": "hematemesis if large (rare) Site:     frequently lower + mid ⅓ of esophagus (smooth muscle portion); intramural (97%);",
+      "raw": "hematemesis if large (rare) Site:     frequently lower + mid ⅓ of esophagus (smooth muscle portion); intramural (97%);",
+      "frequency": "97%"
+    },
+    {
+      "name": "GIST",
+      "raw": "GIST (positive for CD117 + CD34, central low attenuation, 10 x less frequent than leiomyoma)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Duplication cyst",
+      "raw": "Duplication cyst (2nd most common benign lesion of esophagus, manifestation during childhood, may communicate with lumen)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Granular cell tumor",
+      "raw": "Granular cell tumor (often multiple, less common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Lymphoma; metastasis",
+      "raw": "Lymphoma; metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Sporadic",
+      "raw": "Sporadic (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Familial disease (20%): leiomyomas of uterus, vulva, tracheobronchial tree, small bowel, rectum",
+      "raw": "Familial disease (20%): leiomyomas of uterus, vulva, tracheobronchial tree, small bowel, rectum",
+      "frequency": "20%"
+    },
+    {
+      "name": "Alport syndrome (30%) = nephritis, high-frequency sensorineural hearing loss, congenital cataract ← germline deletion of collagen IV subunit genes on",
+      "raw": "Alport syndrome (30%) = nephritis, high-frequency sensorineural hearing loss, congenital cataract ← germline deletion of collagen IV subunit genes on",
+      "frequency": "30%"
+    },
+    {
+      "name": "slowly progressive dysphagia over years",
+      "raw": "slowly progressive dysphagia over years",
+      "frequency": null
+    },
+    {
+      "name": "Primary achalasia",
+      "raw": "Primary achalasia (shorter narrowed segment)",
+      "frequency": null
+    },
+    {
+      "name": "Secondary achalasia",
+      "raw": "Secondary achalasia (older individual, recent onset of dysphagia)",
+      "frequency": null
+    },
+    {
+      "name": "Stricture from reflux esophagitis",
+      "raw": "Stricture from reflux esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic muscular hypertrophy of the esophagus",
+      "raw": "Idiopathic muscular hypertrophy of the esophagus (in late adulthood, corkscrew appearance of esophagus with nonperistaltic contractions, cardia rarely involved)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "N.B.:   In older literature synonymous with GIST (far more frequent, variable risk of progression and metastasis) Path:   arising from muscularis propria Histo:   low to moderate cellularity, intersecting fascicles of spindle cells with eosinophilic cytoplasm, desmin globules (occasionally) Location:   gastric cardia √  low-attenuation mass with endoluminal growth pattern √  central ulceration for tumor > 2 cm in diameter Size:   1.3-4.7 cm DDx:   GIST, schwannoma Leiomyoma of Esophagus ◊  Most common benign subepithelial tumor of esophagus; 50 x less common than esophageal carcinoma Frequency"
+}

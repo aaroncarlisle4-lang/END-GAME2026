@@ -1,0 +1,34 @@
+{
+  "finding": "Holt-Oram Syndrome",
+  "slug": "holt_oram_syndrome_3cb91f",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/holt_oram_syndrome_3cb91f.md",
+  "quality_score": 0.533,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "ASD",
+      "raw": "ASD",
+      "frequency": null
+    },
+    {
+      "name": "VSD",
+      "raw": "VSD",
+      "frequency": null
+    },
+    {
+      "name": "Valvular pulmonary stenosis [Radial dysplasia]",
+      "raw": "Valvular pulmonary stenosis",
+      "frequency": null,
+      "sites": [
+        "Radial dysplasia"
+      ]
+    }
+  ],
+  "criteria": {
+    "ASD": [],
+    "VSD": [],
+    "Valvular pulmonary stenosis [Radial dysplasia]": []
+  },
+  "context": "=  UPPER LIMB-CARDIAC SYNDROME Incidence of CHD:   50%"
+}

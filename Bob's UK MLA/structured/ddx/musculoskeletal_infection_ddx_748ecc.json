@@ -1,0 +1,22 @@
+{
+  "finding": "Musculoskeletal Infection (DDx)",
+  "slug": "musculoskeletal_infection_ddx_748ecc",
+  "chapter": "Musculoskeletal Infection",
+  "source_file": "processed_clusters/musculoskeletal_infection/musculoskeletal_infection_ddx_748ecc.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cellulitis",
+      "raw": "cellulitis",
+      "frequency": null
+    },
+    {
+      "name": "fasciitis",
+      "raw": "fasciitis (no rim enhancement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "skin thickening | septation of SQ fat | thickening of underlying superficial fascia | well-demarcated fluid collection with peripheral pseudo-capsule showing rim"
+}

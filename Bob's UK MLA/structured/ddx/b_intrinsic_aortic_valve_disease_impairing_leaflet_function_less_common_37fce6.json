@@ -1,0 +1,77 @@
+{
+  "finding": "B. INTRINSIC AORTIC VALVE DISEASE impairing leaflet function (less common",
+  "slug": "b_intrinsic_aortic_valve_disease_impairing_leaflet_function_less_common_37fce6",
+  "chapter": "Cause: mural thrombus dispersed by delivery system",
+  "source_file": "processed_clusters/cause_mural_thrombus_dispersed_by_delivery_system/b_intrinsic_aortic_valve_disease_impairing_leaflet_function_less_common_37fce6.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital bicuspid valve",
+      "raw": "Congenital bicuspid valve",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatic endocarditis",
+      "raw": "Rheumatic endocarditis",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial endocarditis",
+      "raw": "Bacterial endocarditis (perforation / prolapse of cusp)",
+      "frequency": null
+    },
+    {
+      "name": "Rupture of congenitally fenestrated cusp",
+      "raw": "Rupture of congenitally fenestrated cusp",
+      "frequency": null
+    },
+    {
+      "name": "Myxomatous valve associated with cystic medial necrosis",
+      "raw": "Myxomatous valve associated with cystic medial necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Atherosclerotic degeneration ◊  Severely calcified aortic valves are often regurgitant",
+      "raw": "Atherosclerotic degeneration ◊  Severely calcified aortic valves are often regurgitant",
+      "frequency": null
+    },
+    {
+      "name": "Connective tissue disorder: Marfan syndrome",
+      "raw": "Connective tissue disorder: Marfan syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ergot toxicity, anorectic drugs",
+      "raw": "Ergot toxicity, anorectic drugs",
+      "frequency": null
+    },
+    {
+      "name": "Systemic inflammation: lupus erythematosus, Crohn disease, Takayasu arteritis, giant cell arteritis",
+      "raw": "Systemic inflammation: lupus erythematosus, Crohn disease, Takayasu arteritis, giant cell arteritis",
+      "frequency": null
+    },
+    {
+      "name": "Aortic valve prolapse Pathogenesis:   LV volume overload → progressive enlargement of diastolic + systolic LV dimensions → increase in myocardial fiber length + increase in stroke volume;",
+      "raw": "Aortic valve prolapse Pathogenesis:   LV volume overload → progressive enlargement of diastolic + systolic LV dimensions → increase in myocardial fiber length + increase in stroke volume;",
+      "frequency": null
+    },
+    {
+      "name": "\"water-hammer pulse\" = twin-peaked pulse",
+      "raw": "\"water-hammer pulse\" = twin-peaked pulse",
+      "frequency": null
+    },
+    {
+      "name": "systolic ejection murmur + high-pitched diastolic murmur",
+      "raw": "systolic ejection murmur + high-pitched diastolic murmur",
+      "frequency": null
+    },
+    {
+      "name": "Austin Flint murmur = soft mid-diastolic or presystolic bruit",
+      "raw": "Austin Flint murmur = soft mid-diastolic or presystolic bruit",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "N.B.:   Most common cause in developed nations N.B.:   Most common cause in developing world decompensation occurs if critical limit of fiber length is reached √  LV enlargement (cardiothoracic ratio > 0.55) + initially normal pulmonary vascularity (DDx: congestive cardiomyopathy, pericardial effusion): √  LV wall may appear thin even with ventricular hypertrophy √  normal aorta (in intrinsic valve disease) √  dilatation of aorta (in systemic disease): √  ± calcification of ascending aorta (in aortic wall disease) √  ±   enlarged aortic arch + tortuous descending aorta √  increased pulsations"
+}

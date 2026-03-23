@@ -1,0 +1,27 @@
+{
+  "finding": "Diabetes Mellitus — additional sites due to neuropathic foot deformity: cuboid, midfoot (from arch (DDx)",
+  "slug": "diabetes_mellitus_additional_sites_due_to_neuropathic_foot_deformity_cuboid_midf_340af3",
+  "chapter": "Diabetes Mellitus",
+  "source_file": "processed_clusters/diabetes_mellitus/diabetes_mellitus_additional_sites_due_to_neuropathic_foot_deformity_cuboid_midf_340af3.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "infectious / inflammatory myositis",
+      "raw": "infectious / inflammatory myositis",
+      "frequency": null
+    },
+    {
+      "name": "deep vein thrombosis",
+      "raw": "deep vein thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "compartment syndrome",
+      "raw": "compartment syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "muscle enlargement | edema of muscle + fascia | muscle enhancement + central nonenhancing region"
+}

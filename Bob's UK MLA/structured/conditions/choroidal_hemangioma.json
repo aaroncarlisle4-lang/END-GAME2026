@@ -1,0 +1,41 @@
+{
+  "name": "CHOROIDAL HEMANGIOMA",
+  "slug": "choroidal_hemangioma",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/choroidal_hemangioma.md",
+  "definition": "congenital vascular hamartoma",
+  "demographics": {
+    "Mean age": "31 (range, 7-58) years (most common benign tumor in adults); M÷F = 1÷1",
+    "Location": "posterior to equator, temporal to optic disc (70%)"
+  },
+  "dominant_finding": "ill-defined mass with intense enhancement",
+  "distribution": "posterior to equator, temporal to optic disc (70%)",
+  "discriminating_features": [
+    "lenticular mass of 7.5 (range, 3-11) mm",
+    "intense enhancement similar to choroid",
+    "focal thickening of posterior wall of globe",
+    "ill-defined mass with intense enhancement",
+    "hyperintense to vitreus on T1WI (rule)"
+  ],
+  "other_features": {
+    "general": [
+      "lenticular mass of 7.5 (range, 3-11) mm",
+      "intense enhancement similar to choroid",
+      "focal thickening of posterior wall of globe"
+    ],
+    "CT": [
+      "ill-defined mass with intense enhancement"
+    ],
+    "MR": [
+      "hyperintense to vitreus on T1WI (rule)",
+      "isointense to vitreus on T2WI (rule)"
+    ],
+    "US": [
+      "hyperechoic homogeneous mass"
+    ]
+  },
+  "clinical": {
+    "Cx": "retinal detachment (frequent)",
+    "Rx": "usually none; photocoagulation with retinal detachment"
+  }
+}

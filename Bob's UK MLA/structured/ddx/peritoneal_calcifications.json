@@ -1,0 +1,42 @@
+{
+  "finding": "Peritoneal Calcifications",
+  "slug": "peritoneal_calcifications",
+  "chapter": "PERITONEUM",
+  "source_file": "processed_clusters/peritoneum/peritoneal_calcifications.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomyxoma peritonei",
+      "raw": "Pseudomyxoma peritonei",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal carcinomatosis",
+      "raw": "Peritoneal carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Meconium peritonitis",
+      "raw": "Meconium peritonitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

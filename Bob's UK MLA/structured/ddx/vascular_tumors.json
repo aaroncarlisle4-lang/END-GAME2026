@@ -1,0 +1,47 @@
+{
+  "finding": "Vascular Tumors",
+  "slug": "vascular_tumors",
+  "chapter": "Classification of International Society for the Study of Vascular Anomalies (ISSVA",
+  "source_file": "processed_clusters/classification_of_international_society_for_the_study_of_vascular_anomalies_issv/vascular_tumors.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infantile hemangioma",
+      "raw": "Infantile hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Congenital hemangioma",
+      "raw": "Congenital hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Kaposiform hemangioendothelioma",
+      "raw": "Kaposiform hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Tufted angioma",
+      "raw": "Tufted angioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Pyogenic granuloma",
+      "raw": "Pyogenic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Spindle cell hemangioendothelioma",
+      "raw": "Spindle cell hemangioendothelioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  true neoplastic lesion with cellular proliferation and hyperplasia characterized by rapid early proliferative stage and later involuting stage"
+}

@@ -1,0 +1,72 @@
+{
+  "finding": "B. INFECTION / INFLAMMATION",
+  "slug": "b_infection_inflammation",
+  "chapter": "GENERALIZED CALCINOSIS",
+  "source_file": "processed_clusters/generalized_calcinosis/b_infection_inflammation.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intramuscular abscess",
+      "raw": "Intramuscular abscess",
+      "frequency": null
+    },
+    {
+      "name": "Focal myositis = benign inflammatory pseudotumor",
+      "raw": "Focal myositis = benign inflammatory pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing fasciitis",
+      "raw": "Necrotizing fasciitis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "MYONECROSIS",
+      "raw": "MYONECROSIS",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell crisis",
+      "raw": "Sickle cell crisis",
+      "frequency": null
+    },
+    {
+      "name": "Poorly controlled diabetes",
+      "raw": "Poorly controlled diabetes",
+      "frequency": null
+    },
+    {
+      "name": "Compartment syndrome",
+      "raw": "Compartment syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Crush injury",
+      "raw": "Crush injury",
+      "frequency": null
+    },
+    {
+      "name": "Severe ischemia",
+      "raw": "Severe ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Intraarterial chemotherapy",
+      "raw": "Intraarterial chemotherapy",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyolysis = severe muscle injury with loss of integrity of muscle cell membranes",
+      "raw": "Rhabdomyolysis = severe muscle injury with loss of integrity of muscle cell membranes",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  nodules with central star-shaped area of fibrosis surrounded by granuloma Cause:   trauma, severe exercise, ischemia, burn, toxin, IV heparin therapy, autoimmune inflammation"
+}

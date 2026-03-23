@@ -1,0 +1,29 @@
+{
+  "name": "ACQUIRED HEART DISEASE",
+  "slug": "acquired_heart_disease",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_cardiovascular_disorders/acquired_heart_disease.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "LA enlargement = MV disease",
+  "distribution": "",
+  "discriminating_features": [
+    "LA enlargement = MV disease",
+    "dilated ascending aorta = aortic valve disease",
+    "RA enlargement = tricuspid valve disease",
+    "↑ LV mass, ↑ LV diastolic cavity dimension, ↑ LV wall thickness",
+    "lack of areas of delayed myocardial hyperenhancement"
+  ],
+  "other_features": {
+    "general": [
+      "LA enlargement = MV disease",
+      "dilated ascending aorta = aortic valve disease",
+      "RA enlargement = tricuspid valve disease",
+      "↑ LV mass, ↑ LV diastolic cavity dimension, ↑ LV wall thickness",
+      "lack of areas of delayed myocardial hyperenhancement",
+      "concentric thickening of LV wall",
+      "delayed hyperenhancement of LV midwall on CEMR"
+    ]
+  },
+  "clinical": {}
+}

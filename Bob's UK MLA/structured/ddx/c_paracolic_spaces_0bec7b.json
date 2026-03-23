@@ -1,0 +1,46 @@
+{
+  "finding": "C. PARACOLIC SPACES",
+  "slug": "c_paracolic_spaces_0bec7b",
+  "chapter": "B. EFFLUX",
+  "source_file": "processed_clusters/b_efflux/c_paracolic_spaces_0bec7b.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Right + left paracolic gutter",
+      "raw": "Right + left paracolic gutter",
+      "frequency": null
+    },
+    {
+      "name": "INFRAMESOCOLIC SPACES [Right inframesocolic space] [Left inframesocolic space]",
+      "raw": "INFRAMESOCOLIC SPACES",
+      "frequency": null,
+      "sites": [
+        "Right inframesocolic space",
+        "Left inframesocolic space"
+      ]
+    },
+    {
+      "name": "Superior + inferior ileocecal recesses",
+      "raw": "Superior + inferior ileocecal recesses",
+      "frequency": null
+    },
+    {
+      "name": "Intersigmoid recess",
+      "raw": "Intersigmoid recess",
+      "frequency": null
+    },
+    {
+      "name": "Retrocecal space",
+      "raw": "Retrocecal space",
+      "frequency": null
+    },
+    {
+      "name": "present only if peritoneum reflects posterior to cecum",
+      "raw": "present only if peritoneum reflects posterior to cecum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   lateral to ascending + descending colon Location:   medial to ascending colon √  limited inferiorly by attachment of small bowel mesentery to cecum Location:   medial to descending colon √  communicates freely with pelvis Location:   above + below terminal ileum Location:   along undersurface of sigmoid mesocolon"
+}

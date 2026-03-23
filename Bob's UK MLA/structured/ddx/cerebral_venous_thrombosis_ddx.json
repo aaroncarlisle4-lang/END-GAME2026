@@ -1,0 +1,37 @@
+{
+  "finding": "Cerebral Venous Thrombosis (DDx)",
+  "slug": "cerebral_venous_thrombosis_ddx",
+  "chapter": "Cerebral Venous Thrombosis",
+  "source_file": "processed_clusters/cerebral_venous_thrombosis/cerebral_venous_thrombosis_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "neoplasm (meningioma",
+      "raw": "neoplasm (meningioma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma)",
+      "raw": "lymphoma)",
+      "frequency": null
+    },
+    {
+      "name": "sarcoidosis",
+      "raw": "sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "cavernous-carotid fistula",
+      "raw": "cavernous-carotid fistula",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "enlarged convex-shaped cavernous sinus + filling defect | enlarged superior ophthalmic vein | proptosis"
+}

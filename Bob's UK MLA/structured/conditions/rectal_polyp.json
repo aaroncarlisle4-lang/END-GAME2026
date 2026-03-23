@@ -1,0 +1,31 @@
+{
+  "name": "RECTAL POLYP",
+  "slug": "rectal_polyp",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/rectal_polyp.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "7-50% (more common in older patients)",
+    "Path": "hyperplastic÷adenomatous polyps = 1÷4",
+    "Size": "usually < 5 mm"
+  },
+  "dominant_finding": "tends to flatten out with air distention",
+  "distribution": "",
+  "discriminating_features": [
+    "tends to flatten out with air distention",
+    "not visible adjacent to rectal balloon",
+    "sessile > pedunculated > flat",
+    "carpetlike nodular appearance (for villous adenoma)",
+    "underdistended / redundant rectal mucosa may simulate villous adenoma"
+  ],
+  "other_features": {
+    "general": [
+      "tends to flatten out with air distention",
+      "not visible adjacent to rectal balloon",
+      "sessile > pedunculated > flat",
+      "carpetlike nodular appearance (for villous adenoma)",
+      "underdistended / redundant rectal mucosa may simulate villous adenoma"
+    ]
+  },
+  "clinical": {}
+}

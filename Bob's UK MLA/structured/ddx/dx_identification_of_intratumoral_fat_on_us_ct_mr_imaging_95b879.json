@@ -1,0 +1,52 @@
+{
+  "finding": "Dx: identification of intratumoral fat on US, CT, MR imaging",
+  "slug": "dx_identification_of_intratumoral_fat_on_us_ct_mr_imaging_95b879",
+  "chapter": "STRUMA OVARII",
+  "source_file": "processed_clusters/struma_ovarii/dx_identification_of_intratumoral_fat_on_us_ct_mr_imaging_95b879.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ruptured teratoma",
+      "raw": "Ruptured teratoma (1-4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Malignant transformation",
+      "raw": "Malignant transformation (1-2%)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection (1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Autoimmune hemolytic anemia",
+      "raw": "Autoimmune hemolytic anemia (< 1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "serum squamous carcinoma antigen level > 2 ng/mL",
+      "raw": "serum squamous carcinoma antigen level > 2 ng/mL",
+      "frequency": null
+    },
+    {
+      "name": "elevated CA-125 level > 35 U/mL",
+      "raw": "elevated CA-125 level > 35 U/mL (in 67%)",
+      "frequency": "67%"
+    },
+    {
+      "name": "elevated CA 19-9 level > 37 U/mL",
+      "raw": "elevated CA 19-9 level > 37 U/mL (in 75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "carcinoid syndrome (⅓) in the absence of metastases ← NO inactivation of serotonin ← tumor drains directly into systemic circulation bypassing the liver",
+      "raw": "carcinoid syndrome (⅓) in the absence of metastases ← NO inactivation of serotonin ← tumor drains directly into systemic circulation bypassing the liver",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cx: 1. Torsion (16%) √  discontinuity of tumor wall √  fatty implants within peritoneal cavity √  chronic granulomatous peritonitis: √  ascites, hazy omental infiltration √  inflammatory omental mass Malignant Transformation of Ovarian Teratoma Prevalence:   1-2% of ovarian teratomas; 1% of all ovarian malignancies Path:  squamous cell carcinoma arising from squamous lining of the cyst (in 80%); adenocarcinoma Age:     > 45 years Location:  in any of 3 germ cell layers Common site:   Rokitansky nodule Size of tumor:   > 10 cm √  transmural growth of Rokitansky nodule √  contrast enhancement of"
+}

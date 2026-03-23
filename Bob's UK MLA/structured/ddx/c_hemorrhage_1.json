@@ -1,0 +1,52 @@
+{
+  "finding": "C. Hemorrhage",
+  "slug": "c_hemorrhage_1",
+  "chapter": "Anterior Epidural Space Abnormality",
+  "source_file": "processed_clusters/anterior_epidural_space_abnormality/c_hemorrhage_1.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Disk herniation",
+      "raw": "Disk herniation",
+      "frequency": null
+    },
+    {
+      "name": "Multiple sclerosis",
+      "raw": "Multiple sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Amyotrophic lateral sclerosis",
+      "raw": "Amyotrophic lateral sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Cervical spondylosis",
+      "raw": "Cervical spondylosis",
+      "frequency": null
+    },
+    {
+      "name": "Sequelae of trauma",
+      "raw": "Sequelae of trauma",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia",
+      "raw": "Ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "AVM of cord",
+      "raw": "AVM of cord",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  frequently central convex appearance (= disruption of posterior vertebral cortex by fracture) √  no enhancement √  sequestered / extruded disk rarely crosses midline Cord Atrophy"
+}

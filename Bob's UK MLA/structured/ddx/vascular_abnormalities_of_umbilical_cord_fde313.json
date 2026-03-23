@@ -1,0 +1,42 @@
+{
+  "finding": "Vascular Abnormalities of Umbilical Cord",
+  "slug": "vascular_abnormalities_of_umbilical_cord_fde313",
+  "chapter": "UMBILICAL CORD",
+  "source_file": "processed_clusters/umbilical_cord/vascular_abnormalities_of_umbilical_cord_fde313.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Single umbilical artery",
+      "raw": "Single umbilical artery",
+      "frequency": null
+    },
+    {
+      "name": "Persistent Right Umbilical Vein (PRUV) =  regression of left umbilical vein → abnormal course of blood flow in fetal liver",
+      "raw": "Persistent Right Umbilical Vein (PRUV) =  regression of left umbilical vein → abnormal course of blood flow in fetal liver",
+      "frequency": null
+    },
+    {
+      "name": "Umbilical vein / Cord varix",
+      "raw": "Umbilical vein / Cord varix",
+      "frequency": null
+    },
+    {
+      "name": "Thrombosis with subsequent fetal death",
+      "raw": "Thrombosis with subsequent fetal death",
+      "frequency": null
+    },
+    {
+      "name": "Partial thrombosis with IUGR",
+      "raw": "Partial thrombosis with IUGR",
+      "frequency": null
+    },
+    {
+      "name": "Umbilical artery aneurysm Often associated with single umbilical artery, aneuploidy, fetal structural abnormalities",
+      "raw": "Umbilical artery aneurysm Often associated with single umbilical artery, aneuploidy, fetal structural abnormalities",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   0.1-0.3% Cause:   altered development of umbilical cord during 4th -7th week GA May be associated with:   situs inversus, heterotaxy, anomalies of GU / GI tract, heart, skeletal development Path of blood flow: (a)  intrahepatic PRUV = isolated right umbilical vein joins fetal portal system at sinus venosus + gives rise to ductus venosus (b)  extrahepatic PRUV = right umbilical vein bypasses liver and drains into RA / IVC / right iliac vein + absent ductus venosus √  fetal portal vein curves toward (rather than parallel to) stomach √  fetal gallbladder between umbilical vein and st"
+}

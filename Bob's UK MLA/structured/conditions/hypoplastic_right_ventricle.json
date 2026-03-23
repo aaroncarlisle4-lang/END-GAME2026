@@ -1,0 +1,27 @@
+{
+  "name": "HYPOPLASTIC RIGHT VENTRICLE",
+  "slug": "hypoplastic_right_ventricle",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/hypoplastic_right_ventricle.md",
+  "definition": "PULMONARY ATRESIA WITH INTACT VENTRICULAR SEPTUM underdeveloped right ventricle ← pulmonary atresia in the presence of an intact",
+  "demographics": {},
+  "dominant_finding": "small right ventricular cavity (apex of RV + LV should be at same level)",
+  "distribution": "",
+  "discriminating_features": [
+    "small right ventricular cavity (apex of RV + LV should be at same level)",
+    "atresia of pulmonary valve",
+    "hypoplastic proximal pulmonary artery",
+    "secundum atrial septal defect (frequently associated)"
+  ],
+  "other_features": {
+    "general": [
+      "small right ventricular cavity (apex of RV + LV should be at same level)",
+      "atresia of pulmonary valve",
+      "hypoplastic proximal pulmonary artery",
+      "secundum atrial septal defect (frequently associated)"
+    ]
+  },
+  "clinical": {
+    "Rx": "prostaglandin E1 infusion + valvotomy + systemic-pulmonary artery shunt"
+  }
+}

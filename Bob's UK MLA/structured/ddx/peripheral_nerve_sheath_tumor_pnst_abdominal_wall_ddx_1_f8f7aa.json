@@ -1,0 +1,22 @@
+{
+  "finding": "Peripheral Nerve Sheath Tumor (Pnst) — Abdominal wall (DDx)",
+  "slug": "peripheral_nerve_sheath_tumor_pnst_abdominal_wall_ddx_1_f8f7aa",
+  "chapter": "Peripheral Nerve Sheath Tumor (Pnst)",
+  "source_file": "processed_clusters/peripheral_nerve_sheath_tumor_pnst/peripheral_nerve_sheath_tumor_pnst_abdominal_wall_ddx_1_f8f7aa.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "schwannoma (encapsulated",
+      "raw": "schwannoma (encapsulated",
+      "frequency": null
+    },
+    {
+      "name": "difficult DDx)",
+      "raw": "difficult DDx)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "characteristically low signal intensity on T1WI | heterogeneously high on T2WI: | high SI on T2WI ← areas of cystic degeneration / myxoid matrix | areas of low T2 signal show enhancement ← collagen + fibrous tissue"
+}

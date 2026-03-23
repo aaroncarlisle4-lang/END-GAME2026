@@ -1,0 +1,27 @@
+{
+  "finding": "Ganglion (DDx)",
+  "slug": "ganglion_ddx",
+  "chapter": "Ganglion",
+  "source_file": "processed_clusters/ganglion/ganglion_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "periosteal chondroma without matrix calcification",
+      "raw": "periosteal chondroma without matrix calcification",
+      "frequency": null
+    },
+    {
+      "name": "cortical desmoid",
+      "raw": "cortical desmoid",
+      "frequency": null
+    },
+    {
+      "name": "subperiosteal",
+      "raw": "subperiosteal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-defined soft-tissue mass adjacent to bone cortex with fluid contents | homogeneously isointense compared to muscle on T1WI | homogeneously hyperintense compared to fat on T2WI | NO internal septations (DDx to soft-tissue ganglion)"
+}

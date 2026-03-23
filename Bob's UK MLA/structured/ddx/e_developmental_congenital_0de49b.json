@@ -1,0 +1,27 @@
+{
+  "finding": "E. DEVELOPMENTAL / CONGENITAL",
+  "slug": "e_developmental_congenital_0de49b",
+  "chapter": "Ground-glass Opacities & Interlobular Septal Lines",
+  "source_file": "processed_clusters/ground_glass_opacities_interlobular_septal_lines/e_developmental_congenital_0de49b.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic cyst",
+      "raw": "Bronchogenic cyst (fluid-filled)",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary sequestration",
+      "raw": "Pulmonary sequestration",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial atresia",
+      "raw": "Bronchial atresia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

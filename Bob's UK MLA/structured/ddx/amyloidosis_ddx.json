@@ -1,0 +1,25 @@
+{
+  "finding": "Amyloidosis (DDx)",
+  "slug": "amyloidosis_ddx",
+  "chapter": "Amyloidosis",
+  "source_file": "processed_clusters/amyloidosis/amyloidosis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "inflammatory arthritis",
+      "raw": "inflammatory arthritis",
+      "frequency": null
+    },
+    {
+      "name": "PVNS",
+      "raw": "PVNS",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "inflammatory arthritis": [],
+    "PVNS": []
+  },
+  "context": "subluxation of proximal humerus + femoral neck | extensive deposition of abnormal soft tissue of low to intermediate SI on T1WI + T2WI | low SI on T1WI + T2WI subjacent to vertebral endplates in lower cervical > thoracic / | joint effusion"
+}

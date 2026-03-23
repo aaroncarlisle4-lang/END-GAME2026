@@ -1,0 +1,27 @@
+{
+  "finding": "Actinomycosis — CNS (2-3%), skin, pericardium (DDx)",
+  "slug": "actinomycosis_cns_2_3_skin_pericardium_ddx_9eb082",
+  "chapter": "Actinomycosis",
+  "source_file": "processed_clusters/actinomycosis/actinomycosis_cns_2_3_skin_pericardium_ddx_9eb082.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "malignancy",
+      "raw": "malignancy",
+      "frequency": null
+    },
+    {
+      "name": "chronic granulomatous disease (TB",
+      "raw": "chronic granulomatous disease (TB",
+      "frequency": null
+    },
+    {
+      "name": "fungal infection)",
+      "raw": "fungal infection)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "rarely regional lymphadenopathy | usually no / minimal ascites | destructive lesion of mottled permeating type | cartilage destruction + subarticular erosive defects in joints (simulating TB)"
+}

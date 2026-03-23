@@ -1,0 +1,92 @@
+{
+  "finding": "Bone Tumors Favoring Vertebral Bodies",
+  "slug": "bone_tumors_favoring_vertebral_bodies_08b842",
+  "chapter": "Average age: 4th decade; M > F",
+  "source_file": "processed_clusters/average_age_4th_decade_m_f/bone_tumors_favoring_vertebral_bodies_08b842.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor (b)  malignant",
+      "raw": "Giant cell tumor (b)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Myeloma",
+      "raw": "Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma",
+      "raw": "Plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Osteoid osteoma, Osteoblastoma",
+      "raw": "Osteoid osteoma, Osteoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Myeloma, Metastasis",
+      "raw": "Myeloma, Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  benign"
+}

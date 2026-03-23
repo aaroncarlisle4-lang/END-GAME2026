@@ -1,0 +1,72 @@
+{
+  "finding": "D. DEMYELINATING DISORDER",
+  "slug": "d_demyelinating_disorder",
+  "chapter": "Mycobacteria, Nocardia, Actinomyces, Listeria",
+  "source_file": "processed_clusters/mycobacteria_nocardia_actinomyces_listeria/d_demyelinating_disorder.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Radiation necrosis",
+      "raw": "Radiation necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Tumefactive demyelinating lesion",
+      "raw": "Tumefactive demyelinating lesion (\"singular sclerosis\")",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing leukoencephalopathy after methotrexate",
+      "raw": "Necrotizing leukoencephalopathy after methotrexate",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess / cerebritis",
+      "raw": "Abscess / cerebritis",
+      "frequency": null
+    },
+    {
+      "name": "Glioblastoma multiforme, Glioma",
+      "raw": "Glioblastoma multiforme, Glioma",
+      "frequency": null
+    },
+    {
+      "name": "Infarct (resolving), Impact",
+      "raw": "Infarct (resolving), Impact",
+      "frequency": null
+    },
+    {
+      "name": "Contusion",
+      "raw": "Contusion",
+      "frequency": null
+    },
+    {
+      "name": "AIDS toxoplasmosis",
+      "raw": "AIDS toxoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (often AIDS-related)",
+      "frequency": null
+    },
+    {
+      "name": "Demyelinating disease",
+      "raw": "Demyelinating disease",
+      "frequency": null
+    },
+    {
+      "name": "Radiation necrosis, Resolving hematoma",
+      "raw": "Radiation necrosis, Resolving hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  often incomplete ring enhancement with open portion of ring abutting gray matter √  arc pattern with ongoing plaque activity at one margin = more classic asymmetric comma-shaped peripheral-enhancement pattern compared with abscess"
+}

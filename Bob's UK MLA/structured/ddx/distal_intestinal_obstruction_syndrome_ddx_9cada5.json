@@ -1,0 +1,27 @@
+{
+  "finding": "Distal Intestinal Obstruction Syndrome (DDx)",
+  "slug": "distal_intestinal_obstruction_syndrome_ddx_9cada5",
+  "chapter": "Distal Intestinal Obstruction Syndrome",
+  "source_file": "processed_clusters/distal_intestinal_obstruction_syndrome/distal_intestinal_obstruction_syndrome_ddx_9cada5.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "severe constipation",
+      "raw": "severe constipation (subacute presentation)",
+      "frequency": null
+    },
+    {
+      "name": "appendicitis",
+      "raw": "appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "partial intestinal obstruction",
+      "raw": "partial intestinal obstruction (adhesion / stricture from previous bowel surgery)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "diffuse colonic thickening | mural striation (50%) | mesenteric soft-tissue infiltration (100%) | increased pericolonic fat (60%)"
+}

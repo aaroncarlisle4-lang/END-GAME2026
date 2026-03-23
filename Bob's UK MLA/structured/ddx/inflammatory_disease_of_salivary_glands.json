@@ -1,0 +1,37 @@
+{
+  "finding": "Inflammatory Disease of Salivary Glands",
+  "slug": "inflammatory_disease_of_salivary_glands",
+  "chapter": "SALIVARY GLANDS",
+  "source_file": "processed_clusters/salivary_glands/inflammatory_disease_of_salivary_glands.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute inflammation",
+      "raw": "Acute inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Chronic sialadenitis",
+      "raw": "Chronic sialadenitis",
+      "frequency": null
+    },
+    {
+      "name": "Sialolithiasis",
+      "raw": "Sialolithiasis",
+      "frequency": null
+    },
+    {
+      "name": "Sjögren syndrome",
+      "raw": "Sjögren syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Organism:   viral (mumps, CMV); bacterial (S. aureus) √  hypoechoic enlargement of gland √  multiple small oval hypoechoic areas √  enlarged lymph nodes with increased blood flow"
+}

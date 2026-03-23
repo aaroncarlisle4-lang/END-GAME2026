@@ -1,0 +1,31 @@
+{
+  "name": "COLONIC ATRESIA",
+  "slug": "colonic_atresia",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/colonic_atresia.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "less common than ileal atresia"
+  },
+  "dominant_finding": "dilated hyperechoic distal small bowel + proximal colon ← retained meconium",
+  "distribution": "",
+  "discriminating_features": [
+    "massive dilatation of colon proximal to obstruction",
+    "mottled pattern of gas + feces proximal to point of atresia",
+    "functional microcolon",
+    "obstruction to retrograde flow of barium",
+    "dilated hyperechoic distal small bowel + proximal colon ← retained meconium"
+  ],
+  "other_features": {
+    "general": [
+      "massive dilatation of colon proximal to obstruction",
+      "mottled pattern of gas + feces proximal to point of atresia",
+      "functional microcolon",
+      "obstruction to retrograde flow of barium"
+    ],
+    "US": [
+      "dilated hyperechoic distal small bowel + proximal colon ← retained meconium"
+    ]
+  },
+  "clinical": {}
+}

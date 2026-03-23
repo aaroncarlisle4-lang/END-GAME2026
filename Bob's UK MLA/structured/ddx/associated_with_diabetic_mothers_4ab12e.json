@@ -1,0 +1,82 @@
+{
+  "finding": "Associated with: diabetic mothers",
+  "slug": "associated_with_diabetic_mothers_4ab12e",
+  "chapter": "Age peak: 65-75 years; M÷F = 1÷3",
+  "source_file": "processed_clusters/age_peak_65_75_years_mf_13/associated_with_diabetic_mothers_4ab12e.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cyanosis: most common cause for cyanosis in neonate; 2nd most common cause of cyanosis after tetralogy of Fallot",
+      "raw": "cyanosis: most common cause for cyanosis in neonate; 2nd most common cause of cyanosis after tetralogy of Fallot",
+      "frequency": "most common"
+    },
+    {
+      "name": "symptomatic 1-2 weeks following birth",
+      "raw": "symptomatic 1-2 weeks following birth",
+      "frequency": null
+    },
+    {
+      "name": "Prostaglandin E1 administration to maintain ductal patency",
+      "raw": "Prostaglandin E1 administration to maintain ductal patency",
+      "frequency": null
+    },
+    {
+      "name": "Rashkind procedure = balloon septostomy to create ASD",
+      "raw": "Rashkind procedure = balloon septostomy to create ASD",
+      "frequency": null
+    },
+    {
+      "name": "Blalock-Hanlon procedure = surgical creation of ASD",
+      "raw": "Blalock-Hanlon procedure = surgical creation of ASD",
+      "frequency": null
+    },
+    {
+      "name": "Mustard operation (corrective) = removal of atrial septum + creation of intraatrial baffle directing the pulmonary venous return to RV + systemic venous return to LV; 79% 1-year survival rate; 64-89% 5-year survival",
+      "raw": "Mustard operation (corrective) = removal of atrial septum + creation of intraatrial baffle directing the pulmonary venous return to RV + systemic venous return to LV; 79% 1-year survival rate; 64-89% 5-year survival",
+      "frequency": "79%"
+    },
+    {
+      "name": "Transposition of great arteries",
+      "raw": "Transposition of great arteries (= aorta anterior + to right of PA)",
+      "frequency": null
+    },
+    {
+      "name": "Inversion of ventricles (LV on right side, RV on left side):",
+      "raw": "Inversion of ventricles (LV on right side, RV on left side):",
+      "frequency": null
+    },
+    {
+      "name": "AV valves + coronary arteries follow their corresponding ventricles",
+      "raw": "AV valves + coronary arteries follow their corresponding ventricles",
+      "frequency": null
+    },
+    {
+      "name": "Usually perimembranous VSD",
+      "raw": "Usually perimembranous VSD (in > 50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Pulmonic stenosis",
+      "raw": "Pulmonic stenosis (in 50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Anomaly of left (= tricuspid) atrioventricular valves (Ebstein-like) → insufficiency",
+      "raw": "Anomaly of left (= tricuspid) atrioventricular valves (Ebstein-like) → insufficiency",
+      "frequency": null
+    },
+    {
+      "name": "Dextrocardia",
+      "raw": "Dextrocardia (high incidence)",
+      "frequency": null
+    },
+    {
+      "name": "NO cyanosis, atrioventricular block",
+      "raw": "NO cyanosis, atrioventricular block (malalignment of atrial + ventricular septa)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "CXR: √  \"egg-on-a-string\" appearance of heart (on frontal CXR): √  abnormal convexity of RA border (= \"egg\") √  narrow superior mediastinum (= \"string\" = MOST CONSISTENT SIGN): √  PA situated to the right of its normal location √  PA obscured by aorta √  stress-induced thymic atrophy √  hyperaeration √  cardiac enlargement beginning 2 weeks after birth (= \"egg on its side\") following closure of PDA: √  enlargement of right heart √  enlargement of LA (with VSD) √  absent pulmonary trunk (99%) = PA located posteriorly in midline √  increased pulmonary blood flow (if not associated with PS) → enl"
+}

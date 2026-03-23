@@ -1,0 +1,27 @@
+{
+  "finding": "Laryngeal Cyst (DDx)",
+  "slug": "laryngeal_cyst_ddx_8d9315",
+  "chapter": "Laryngeal Cyst",
+  "source_file": "processed_clusters/laryngeal_cyst/laryngeal_cyst_ddx_8d9315.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "laryngocele",
+      "raw": "laryngocele",
+      "frequency": null
+    },
+    {
+      "name": "branchial cleft cyst",
+      "raw": "branchial cleft cyst",
+      "frequency": null
+    },
+    {
+      "name": "oncocytic papillary cystadenoma",
+      "raw": "oncocytic papillary cystadenoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "smoothly hemispheric mass ± distortion of coated surfaces of pharyngeal / laryngeal"
+}

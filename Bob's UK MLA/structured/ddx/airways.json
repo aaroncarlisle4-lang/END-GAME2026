@@ -1,0 +1,97 @@
+{
+  "finding": "AIRWAYS",
+  "slug": "airways",
+  "chapter": "MEDICAL DEVICES ON CXR",
+  "source_file": "processed_clusters/medical_devices_on_cxr/airways.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "recurrent pneumonia, respiratory distress in childhood",
+      "raw": "recurrent pneumonia, respiratory distress in childhood",
+      "frequency": null
+    },
+    {
+      "name": "almost invariably asymptomatic in adults",
+      "raw": "almost invariably asymptomatic in adults",
+      "frequency": null
+    },
+    {
+      "name": "mostly asymptomatic",
+      "raw": "mostly asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "gas exchange",
+      "raw": "gas exchange",
+      "frequency": null
+    },
+    {
+      "name": "Air-blood barrier ›  epithelial cells",
+      "raw": "Air-blood barrier ›  epithelial cells (25%) = lining of air space ›  endothelial cells (25%) = lining of vessels ›  interstitial cells (35%), collagen fibres (15%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Alveolar epithelium ›  lining cells",
+      "raw": "Alveolar epithelium ›  lining cells (type I pneumocyte) → tight junctions, no mitosis ›  secretory cells (type II pneumocyte) → synthesis + storage + secretion of surfactant ›  brush cells [Primary Pulmonary Lobule]",
+      "frequency": null
+    },
+    {
+      "name": "visible on surface of lung",
+      "raw": "visible on surface of lung",
+      "frequency": null
+    },
+    {
+      "name": "Bronchovascular interstitium surrounding bronchovascular bundle",
+      "raw": "Bronchovascular interstitium surrounding bronchovascular bundle",
+      "frequency": null
+    },
+    {
+      "name": "Centrilobular interstitium surrounds distal bronchiolovascular bundle",
+      "raw": "Centrilobular interstitium surrounds distal bronchiolovascular bundle",
+      "frequency": null
+    },
+    {
+      "name": "Interlobular septal interstitium",
+      "raw": "Interlobular septal interstitium",
+      "frequency": null
+    },
+    {
+      "name": "Pleural interstitium",
+      "raw": "Pleural interstitium",
+      "frequency": null
+    },
+    {
+      "name": "Embryonic phase",
+      "raw": "Embryonic phase",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoglandular phase",
+      "raw": "Pseudoglandular phase",
+      "frequency": null
+    },
+    {
+      "name": "Canalicular phase",
+      "raw": "Canalicular phase",
+      "frequency": null
+    },
+    {
+      "name": "Terminal sac phase",
+      "raw": "Terminal sac phase",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar phase",
+      "raw": "Alveolar phase",
+      "frequency": null
+    },
+    {
+      "name": "Surfactant",
+      "raw": "Surfactant",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "The carina is normally at the level of T4/T5. Embryology of Airways & Maldevelopment first 5 weeks GA lung buds grow from ventral aspect of primitive foregut (from caudal end of laryngotracheal groove of primitive pharyngeal floor) abnormal: pulmonary agenesis 5th week GA separation of trachea + esophagus 5-16 weeks formation of tracheobronchial tree with bronchi, bronchioles, alveolar ducts, alveoli abnormal: bronchogenic cyst ← abnormal budding; pulmonary hypoplasia ← fewer than expected bronchi 16-24 weeks dramatic increase in number + complexity of airspaces and blood vessels abnormal: sma"
+}

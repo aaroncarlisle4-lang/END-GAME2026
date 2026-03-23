@@ -1,0 +1,82 @@
+{
+  "finding": "ASCARIASIS",
+  "slug": "ascariasis",
+  "chapter": "AGENESIS OF DORSAL PANCREAS",
+  "source_file": "processed_clusters/agenesis_of_dorsal_pancreas/ascariasis.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pulmonary + intestinal symptoms:",
+      "raw": "pulmonary + intestinal symptoms:",
+      "frequency": null
+    },
+    {
+      "name": "fever, cough, expectoration",
+      "raw": "fever, cough, expectoration (hematemesis / pneumonitis)",
+      "frequency": null
+    },
+    {
+      "name": "appendicitis",
+      "raw": "appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "biliary symptoms:",
+      "raw": "biliary symptoms:",
+      "frequency": null
+    },
+    {
+      "name": "jaundice (if bile ducts infested); abnormal liver function tests",
+      "raw": "jaundice (if bile ducts infested); abnormal liver function tests",
+      "frequency": null
+    },
+    {
+      "name": "biliary colic ← Ascaris secretions induce spasm of sphincter of Oddi",
+      "raw": "biliary colic ← Ascaris secretions induce spasm of sphincter of Oddi",
+      "frequency": null
+    },
+    {
+      "name": "eosinophilia:",
+      "raw": "eosinophilia:",
+      "frequency": null
+    },
+    {
+      "name": "hypereosinophilia only present during acute stage of larval migration; Löffler syndrome = pulmonary eosinophilia Pancreatic / biliary manifestations occur when the adult worm migrates from small bowel into the main pancreatic duct / biliary tree. Related complications are biliary colic, gallstone formation, cholecystitis, liver abscess, and pancreatitis.",
+      "raw": "hypereosinophilia only present during acute stage of larval migration; Löffler syndrome = pulmonary eosinophilia Pancreatic / biliary manifestations occur when the adult worm migrates from small bowel into the main pancreatic duct / biliary tree. Related complications are biliary colic, gallstone formation, cholecystitis, liver abscess, and pancreatitis.",
+      "frequency": null
+    },
+    {
+      "name": "Intestinal obstruction ← massive infestation",
+      "raw": "Intestinal obstruction ← massive infestation",
+      "frequency": null
+    },
+    {
+      "name": "Bowel perforation",
+      "raw": "Bowel perforation",
+      "frequency": null
+    },
+    {
+      "name": "Intermittent biliary obstruction with acute cholangitis, cholecystitis, pancreatitis",
+      "raw": "Intermittent biliary obstruction with acute cholangitis, cholecystitis, pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent pyogenic cholangitis",
+      "raw": "Recurrent pyogenic cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Liver abscess",
+      "raw": "Liver abscess (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Granulomatous stricture of extrahepatic bile ducts",
+      "raw": "Granulomatous stricture of extrahepatic bile ducts (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Organism:   nematode (roundworm) Ascaris lumbricoides, 15-50 cm long + 3-6 mm thick adult worm; life span of 1 year ◊  3rd most common helminthic infection (after hookworm + trichuriasis) Endemic:   in tropical + subtropical areas (a)  in parts of Africa (along Gulf Coast, Nigeria), Southeast Asia, China, South America: 90% (b)  in USA: 12% in blacks, 1% in whites; endemic in Appalachian range + Ozark Mountains Prevalence:   most common cosmopolitan parasitic infection (25% of world population infected); 1 billion humans harbor the roundworm [ cosmos , Greek = world; polites , Greek = citizen]"
+}

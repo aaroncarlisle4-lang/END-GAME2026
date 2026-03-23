@@ -1,0 +1,23 @@
+{
+  "name": "POSTOBSTRUCTIVE PNEUMONIA",
+  "slug": "postobstructive_pneumonia",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/postobstructive_pneumonia.md",
+  "definition": "chronic inflammatory disease distal to bronchial obstruction; despite the name coexistent",
+  "demographics": {},
+  "dominant_finding": "frequently associated with some degree of atelectasis",
+  "distribution": "",
+  "discriminating_features": [
+    "frequently associated with some degree of atelectasis",
+    "persists unchanged for weeks",
+    "recurrent pneumonia in same region after antibiotic Rx"
+  ],
+  "other_features": {
+    "general": [
+      "frequently associated with some degree of atelectasis",
+      "persists unchanged for weeks",
+      "recurrent pneumonia in same region after antibiotic Rx"
+    ]
+  },
+  "clinical": {}
+}

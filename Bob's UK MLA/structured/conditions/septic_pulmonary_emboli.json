@@ -1,0 +1,36 @@
+{
+  "name": "SEPTIC PULMONARY EMBOLI",
+  "slug": "septic_pulmonary_emboli",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/septic_pulmonary_emboli.md",
+  "definition": "lodgement of an infected thrombus in a pulmonary artery",
+  "demographics": {
+    "Age": "majority < 40 years",
+    "Location": "predilection for lung bases"
+  },
+  "dominant_finding": "multiple nondescript pulmonary infiltrates (initially)",
+  "distribution": "predilection for lung bases",
+  "discriminating_features": [
+    "multiple nondescript pulmonary infiltrates (initially)",
+    "migratory infiltrates (old ones heal, new ones appear)",
+    "cavitation (frequent), usually thin-walled",
+    "pleural effusion (rare)",
+    "multiple peripheral parenchymal nodules ± cavitation / air bronchogram (83%)"
+  ],
+  "other_features": {
+    "general": [
+      "multiple nondescript pulmonary infiltrates (initially)",
+      "migratory infiltrates (old ones heal, new ones appear)",
+      "cavitation (frequent), usually thin-walled",
+      "pleural effusion (rare)",
+      "multiple peripheral parenchymal nodules ± cavitation / air bronchogram (83%)",
+      "wedge-shaped subpleural lesion with apex of lesion directed toward pulmonary hilum",
+      "\"feeding vessel\" sign = pulmonary artery leading to nodule (67%)",
+      "cavitation (50%), esp. in staphylococcal emboli",
+      "air bronchogram within pulmonary nodule (28%)"
+    ]
+  },
+  "clinical": {
+    "Cx": "empyema (39%)"
+  }
+}

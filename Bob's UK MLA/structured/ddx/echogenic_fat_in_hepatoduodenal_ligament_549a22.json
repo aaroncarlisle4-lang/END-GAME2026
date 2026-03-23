@@ -1,0 +1,97 @@
+{
+  "finding": "Echogenic Fat in Hepatoduodenal Ligament",
+  "slug": "echogenic_fat_in_hepatoduodenal_ligament_549a22",
+  "chapter": "GALLBLADDER POLYP",
+  "source_file": "processed_clusters/gallbladder_polyp/echogenic_fat_in_hepatoduodenal_ligament_549a22.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cholecystitis",
+      "raw": "Cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Perforated duodenal ulcer",
+      "raw": "Perforated duodenal ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis",
+      "raw": "Pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Diverticulitis",
+      "raw": "Diverticulitis",
+      "frequency": null
+    },
+    {
+      "name": "Fasting / total parenteral nutrition",
+      "raw": "Fasting / total parenteral nutrition (GB full)",
+      "frequency": null
+    },
+    {
+      "name": "Cystic duct cholangiocarcinoma",
+      "raw": "Cystic duct cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Chronic cholecystitis",
+      "raw": "Chronic cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis, acute",
+      "raw": "Pancreatitis, acute",
+      "frequency": null
+    },
+    {
+      "name": "Alcoholism",
+      "raw": "Alcoholism (= alcohol-toxic hepatitis)",
+      "frequency": null
+    },
+    {
+      "name": "Liver dysfunction",
+      "raw": "Liver dysfunction (hepatitis)",
+      "frequency": null
+    },
+    {
+      "name": "False-negative DISIDA Scan",
+      "raw": "False-negative DISIDA Scan",
+      "frequency": null
+    },
+    {
+      "name": "Acalculous cholecystitis",
+      "raw": "Acalculous cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal diverticulum simulating GB",
+      "raw": "Duodenal diverticulum simulating GB",
+      "frequency": null
+    },
+    {
+      "name": "Accessory cystic duct",
+      "raw": "Accessory cystic duct",
+      "frequency": null
+    },
+    {
+      "name": "Acute cholecystitis",
+      "raw": "Acute cholecystitis (34-61% sensitive)",
+      "frequency": "61%"
+    },
+    {
+      "name": "Complicated acute cholecystitis",
+      "raw": "Complicated acute cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic cholecystitis",
+      "raw": "Chronic cholecystitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  sign of pericholecystic inflammation False-positive DISIDA Scan mnemonic:   F2C2 PAL Food (meal within last 4 hours = GB empty) Rim Sign =  curvilinear pericholecystic rim of increased hepatic tracer activity adjacent to a photopenic gallbladder fossa Cause:  local hyperemia with increased perfusion + injury of hepatocytes with impaired excretion of radiotracer √  nonvisualization of GB @ 1 hour (94-100% PPV, 95-100% specific)"
+}

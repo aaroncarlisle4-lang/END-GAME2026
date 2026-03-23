@@ -1,0 +1,25 @@
+{
+  "name": "EXTRACARDIAC RHABDOMYOMA",
+  "slug": "extracardiac_rhabdomyoma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/extracardiac_rhabdomyoma.md",
+  "definition": "benign tumor consisting of immature striated muscle cells",
+  "demographics": {
+    "Location": "70%-90% in head & neck",
+    "Age": "5th decade; M > F",
+    "Size": "large ← slow rate of growth"
+  },
+  "dominant_finding": "signal intensity similar to muscle on T1WI and T2WI",
+  "distribution": "70%-90% in head & neck",
+  "discriminating_features": [
+    "signal intensity similar to muscle on T1WI and T2WI",
+    "usually enhancement after contrast administration"
+  ],
+  "other_features": {
+    "general": [
+      "signal intensity similar to muscle on T1WI and T2WI",
+      "usually enhancement after contrast administration"
+    ]
+  },
+  "clinical": {}
+}

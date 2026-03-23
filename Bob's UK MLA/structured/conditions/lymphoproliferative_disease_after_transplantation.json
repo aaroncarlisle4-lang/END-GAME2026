@@ -1,0 +1,65 @@
+{
+  "name": "LYMPHOPROLIFERATIVE DISEASE AFTER TRANSPLANTATION",
+  "slug": "lymphoproliferative_disease_after_transplantation",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/lymphoproliferative_disease_after_transplantation.md",
+  "definition": "POSTTRANSPLANT LYMPHOPROLIFERATIVE DISEASE (PTLD)",
+  "demographics": {
+    "Location": "distal jejunum + ileum > duodenum > colon (prox > distal) > stomach >"
+  },
+  "dominant_finding": "pulmonary mass (50%)",
+  "distribution": "distal jejunum + ileum > duodenum > colon (prox > distal) > stomach >",
+  "discriminating_features": [
+    "multifocal discrete round hypovascular parenchymal masses (almost always unilateral)",
+    "pulmonary mass (50%)",
+    "multiple / solitary discrete well-circumscribed pulmonary nodules (40-50%) (DDx:",
+    "± low-attenuation center ± ground-glass halo",
+    "patchy airspace consolidation (7-10%) (DDx: edema, infection, rejection)"
+  ],
+  "other_features": {
+    "general": [],
+    "Thorax (most commonly involved in 1st year)": [
+      "pulmonary mass (50%)",
+      "multiple / solitary discrete well-circumscribed pulmonary nodules (40-50%) (DDx:",
+      "± low-attenuation center ± ground-glass halo",
+      "patchy airspace consolidation (7-10%) (DDx: edema, infection, rejection)",
+      "mediastinal / hilar lymphadenopathy (in up to 50%)",
+      "pleural masses"
+    ],
+    "Gastrointestinal tract": [
+      "bowel wall thickening + dilatation",
+      "eccentric mass, luminal ulceration",
+      "short-segment intussusception"
+    ],
+    "Gallbladder": [
+      "gallbladder thickening, biliary obstruction"
+    ],
+    "Liver": [
+      "discrete hypoattenuating hypovascular nodular lesion:",
+      "single / multiple parenchymal lesions",
+      "diffuse ill-defined infiltrative pattern of hepatic involvement → hepatomegaly",
+      "hypoechoic heterogeneous soft tissue mass encasing hilar structures",
+      "periportal adenopathy",
+      "portal vein constriction / focal thrombus (15%)"
+    ],
+    "Spleen": [
+      "splenomegaly",
+      "multiple focal hypoattenuating lesions (less frequent)"
+    ],
+    "Kidney": [
+      "heterogeneous mass surrounding hilar vessels",
+      "multifocal discrete round hypovascular parenchymal masses (almost always unilateral)",
+      "diffuse infiltrative disease → renal enlargement"
+    ],
+    "CNS": [
+      "solitary hyperdense typically periventricular mass usually surrounded by vasogenic"
+    ],
+    "Disseminated disease (10-14% of various allografts)": [
+      "extremely hypermetabolic active lesions"
+    ]
+  },
+  "clinical": {
+    "Cx": "visceral perforation (frequent)",
+    "Rx": "(1)  Antiviral agents (controversial)"
+  }
+}

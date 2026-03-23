@@ -1,0 +1,38 @@
+{
+  "name": "GLOMUS TUMOR",
+  "slug": "glomus_tumor",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/glomus_tumor.md",
+  "definition": "composed of cells closely resembling modified smooth muscle cells of glomus bodies of GLOMANGIOPERICYTOMA = SINONASAL-TYPE HEMANGIOPERICYTOMA",
+  "demographics": {
+    "Prevalence": "< 2% of all soft tissue tumors",
+    "Location": "distal extremities, head & neck (15-30%)",
+    "Path": "well-delineated unencapsulated cellular tumors",
+    "Histo": "closely packed cells (= high cellularity) forming short fascicles, sometimes exhibiting",
+    "Peak age": "7th decade; M = F"
+  },
+  "dominant_finding": "soft tissue mass with strong enhancement",
+  "distribution": "distal extremities, head & neck (15-30%)",
+  "discriminating_features": [
+    "soft tissue mass with strong enhancement",
+    "extension into orbits + intracranial compartment and destruction of adjacent bone (if",
+    "tumor isointense relative to muscle on T1WI",
+    "hypo- to isointense relative to muscle on T2WI",
+    "variable degrees of (usually marked) enhancement"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "soft tissue mass with strong enhancement",
+      "extension into orbits + intracranial compartment and destruction of adjacent bone (if"
+    ],
+    "MR": [
+      "tumor isointense relative to muscle on T1WI",
+      "hypo- to isointense relative to muscle on T2WI",
+      "variable degrees of (usually marked) enhancement"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "low tendency for metastasis (5%)"
+  }
+}

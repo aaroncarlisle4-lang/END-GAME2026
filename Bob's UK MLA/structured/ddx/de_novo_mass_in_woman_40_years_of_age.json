@@ -1,0 +1,42 @@
+{
+  "finding": "De Novo Mass in Woman > 40 Years of Age",
+  "slug": "de_novo_mass_in_woman_40_years_of_age",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/de_novo_mass_in_woman_40_years_of_age.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cyst",
+      "raw": "Cyst",
+      "frequency": null
+    },
+    {
+      "name": "Papilloma",
+      "raw": "Papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma (10-20%) (a)  Invasive ductal carcinoma (not otherwise specified) (b)  Mucinous carcinoma (c)  Medullary carcinoma (d)  Intracystic papillary carcinoma (e)  Invasive papillary carcinoma (f)  Metaplastic carcinoma (g)  Malignant phyllodes tumor",
+      "raw": "Carcinoma (10-20%) (a)  Invasive ductal carcinoma (not otherwise specified) (b)  Mucinous carcinoma (c)  Medullary carcinoma (d)  Intracystic papillary carcinoma (e)  Invasive papillary carcinoma (f)  Metaplastic carcinoma (g)  Malignant phyllodes tumor",
+      "frequency": "20%"
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Fibroadenoma",
+      "raw": "Fibroadenoma (exceedingly rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (extremely rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "(h)  Adenoid cystic carcinoma"
+}

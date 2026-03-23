@@ -1,0 +1,42 @@
+{
+  "finding": "Posterior Wall Mass",
+  "slug": "posterior_wall_mass_a579c6",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/posterior_wall_mass_a579c6.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Melanocytic nevus",
+      "raw": "Melanocytic nevus",
+      "frequency": null
+    },
+    {
+      "name": "Choroidal hemangioma",
+      "raw": "Choroidal hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioblastoma",
+      "raw": "Hemangioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomass: subretinal hematoma, granuloma",
+      "raw": "Pseudomass: subretinal hematoma, granuloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Origin:   vascular uvea"
+}

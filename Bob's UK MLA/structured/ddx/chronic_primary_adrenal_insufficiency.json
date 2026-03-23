@@ -1,0 +1,37 @@
+{
+  "finding": "Chronic Primary Adrenal Insufficiency",
+  "slug": "chronic_primary_adrenal_insufficiency",
+  "chapter": "ABORTIVE CALYX",
+  "source_file": "processed_clusters/abortive_calyx/chronic_primary_adrenal_insufficiency.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Idiopathic adrenal atrophy (60-70%): likely autoimmune disorder",
+      "raw": "Idiopathic adrenal atrophy (60-70%): likely autoimmune disorder",
+      "frequency": "70%"
+    },
+    {
+      "name": "Fungal infection: histoplasmosis, blastomycosis, coccidioidomycosis",
+      "raw": "Fungal infection: histoplasmosis, blastomycosis, coccidioidomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease: tuberculosis, sarcoidosis",
+      "raw": "Granulomatous disease: tuberculosis, sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Bilateral metastatic disease",
+      "raw": "Bilateral metastatic disease (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "hyponatremia, hyperkalemia, azotemia, hypercalcemia",
+      "raw": "hyponatremia, hyperkalemia, azotemia, hypercalcemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause: √  diminutive glands ← idiopathic atrophy + chronic inflammation √  calcifications (in 25% of chronic course)"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "C. INTRACRANIAL NEOPLASM",
+  "slug": "c_intracranial_neoplasm",
+  "chapter": "FETAL CNS ANOMALIES",
+  "source_file": "processed_clusters/fetal_cns_anomalies/c_intracranial_neoplasm.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Teratoma (> 50%): benign / malignant",
+      "raw": "Teratoma (> 50%): benign / malignant",
+      "frequency": "50%"
+    },
+    {
+      "name": "Glioblastoma",
+      "raw": "Glioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Astrocytoma",
+      "raw": "Astrocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   originate from base of skull"
+}

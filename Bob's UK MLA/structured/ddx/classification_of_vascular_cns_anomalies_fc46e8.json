@@ -1,0 +1,72 @@
+{
+  "finding": "Classification of Vascular CNS Anomalies",
+  "slug": "classification_of_vascular_cns_anomalies_fc46e8",
+  "chapter": "D. NEURONAL MIGRATION ANOMALY due to infection, ischemia, metabolic disorders",
+  "source_file": "processed_clusters/d_neuronal_migration_anomaly_due_to_infection_ischemia_metabolic_disorders/classification_of_vascular_cns_anomalies_fc46e8.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "VASCULAR MALFORMATION",
+      "raw": "VASCULAR MALFORMATION (a)  arterial = arteriovenous malformation (AVM)",
+      "frequency": null
+    },
+    {
+      "name": "Classic brain AVM",
+      "raw": "Classic brain AVM",
+      "frequency": null
+    },
+    {
+      "name": "Cerebral proliferative angiopathy",
+      "raw": "Cerebral proliferative angiopathy",
+      "frequency": null
+    },
+    {
+      "name": "Cerebrofacial arteriovenous metameric syndrome",
+      "raw": "Cerebrofacial arteriovenous metameric syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Vein of Galen malformation (b)  capillary = capillary telangiectasia",
+      "raw": "Vein of Galen malformation (b)  capillary = capillary telangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Capillary telangiectasia",
+      "raw": "Capillary telangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Facial port-wine stain (c)  venous = venous malformation",
+      "raw": "Facial port-wine stain (c)  venous = venous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Developmental venous anomaly",
+      "raw": "Developmental venous anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Sinus pericranii (d)  lymphatic",
+      "raw": "Sinus pericranii (d)  lymphatic",
+      "frequency": null
+    },
+    {
+      "name": "Cystic hygroma (e)  combinations",
+      "raw": "Cystic hygroma (e)  combinations",
+      "frequency": null
+    },
+    {
+      "name": "Sturge-Weber disease",
+      "raw": "Sturge-Weber disease",
+      "frequency": null
+    },
+    {
+      "name": "Rendu-Osler-Weber disease",
+      "raw": "Rendu-Osler-Weber disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Radiation Injury — CHRONIC radiation enteropathy (after months to years) (DDx)",
+  "slug": "radiation_injury_chronic_radiation_enteropathy_after_months_to_years_ddx",
+  "chapter": "Radiation Injury",
+  "source_file": "processed_clusters/radiation_injury/radiation_injury_chronic_radiation_enteropathy_after_months_to_years_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "ischemia",
+      "raw": "ischemia",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhage",
+      "raw": "hemorrhage",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "serrated bowel margin | shortening of small bowel | fixation + immobilization of bowel loops with similar radiographic appearance | increased attenuation of mesentery"
+}

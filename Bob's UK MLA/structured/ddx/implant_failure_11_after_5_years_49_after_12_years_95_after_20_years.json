@@ -1,0 +1,77 @@
+{
+  "finding": "Implant failure: 11% after 5 years, 49% after 12 years, 95% after 20 years",
+  "slug": "implant_failure_11_after_5_years_49_after_12_years_95_after_20_years",
+  "chapter": "MAMMARY DUCT ECTASIA",
+  "source_file": "processed_clusters/mammary_duct_ectasia/implant_failure_11_after_5_years_49_after_12_years_95_after_20_years.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "change in contour / location of implant",
+      "raw": "change in contour / location of implant",
+      "frequency": null
+    },
+    {
+      "name": "flattening of implant, breast pain",
+      "raw": "flattening of implant, breast pain",
+      "frequency": null
+    },
+    {
+      "name": "\"Gel bleed\" = silicone leaching (100% = normal condition as all implants bleed) =  leakage of microscopic quantities of silicone oil through semiporous but intact barrier shell made of silicone elastomer",
+      "raw": "\"Gel bleed\" = silicone leaching (100% = normal condition as all implants bleed) =  leakage of microscopic quantities of silicone oil through semiporous but intact barrier shell made of silicone elastomer",
+      "frequency": "100%"
+    },
+    {
+      "name": "Infection / hematoma formation",
+      "raw": "Infection / hematoma formation",
+      "frequency": null
+    },
+    {
+      "name": "Localized pain / paresthesia N.B.:   NO association between silicone breast implants and connective tissue disease / malignancy",
+      "raw": "Localized pain / paresthesia N.B.:   NO association between silicone breast implants and connective tissue disease / malignancy",
+      "frequency": null
+    },
+    {
+      "name": "palpable breast masses",
+      "raw": "palpable breast masses",
+      "frequency": null
+    },
+    {
+      "name": "silicone lymphadenopathy",
+      "raw": "silicone lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "paresthesia of arm ← nerve impingement ← fibrosis surrounding silicone migrated to axilla / brachial plexus",
+      "raw": "paresthesia of arm ← nerve impingement ← fibrosis surrounding silicone migrated to axilla / brachial plexus",
+      "frequency": null
+    },
+    {
+      "name": "silicone nipple discharge",
+      "raw": "silicone nipple discharge (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "migration to arm (→ constrictive neuropathy of radial nerve), subcutaneous tissue of lower abdominal wall, inguinal canal",
+      "raw": "migration to arm (→ constrictive neuropathy of radial nerve), subcutaneous tissue of lower abdominal wall, inguinal canal",
+      "frequency": null
+    },
+    {
+      "name": "Aesthetics to achieve desired breast size",
+      "raw": "Aesthetics to achieve desired breast size",
+      "frequency": null
+    },
+    {
+      "name": "Relief of back pain",
+      "raw": "Relief of back pain",
+      "frequency": null
+    },
+    {
+      "name": "Restore chest symmetry after contralateral lumpectomy",
+      "raw": "Restore chest symmetry after contralateral lumpectomy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:   violation of elastomer shell during surgery (years 1-5); mechanical / fatigue (years 5-10) Result:   total / partial / no collapse of shell √  silicone-equivalent signal within keyhole-shaped terminal bend of radial folds + between capsule and implant shell Dx:  microscope Intracapsular Rupture =  broken implant casing, which swims within silicone gel contained by intact fibrous capsule Frequency:   80-90% of all ruptures Mammo (11-23% sensitive, 89-98% specific): √  bulging / peaking of implant contour (DDx: herniation through locally weakened capsule) US (59-70% sensitive, 57-92% sp"
+}

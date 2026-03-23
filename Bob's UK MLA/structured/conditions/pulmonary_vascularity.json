@@ -1,0 +1,48 @@
+{
+  "name": "PULMONARY VASCULARITY",
+  "slug": "pulmonary_vascularity",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_cardiovascular_disorders/pulmonary_vascularity.md",
+  "definition": "obstruction to pulmonary flow",
+  "demographics": {},
+  "dominant_finding": "upper limits of normal for main pulmonary artery = 3 cm",
+  "distribution": "artery within 1st anterior intercostal space measure ≤ 3 mm",
+  "discriminating_features": [
+    "pulmonary vessels within upper perihilum approximate ⅓ of total vascularity",
+    "pulmonary vessels within lower perihilum approximate ²/³ of total vascularity",
+    "pulmonary vessels taper near transition of middle ⅓ to outer ⅓ of lung",
+    "straight / slightly concave main pulmonary artery contour (mild convexity is normal in",
+    "pulmonary trunk measures < 4.5 cm (leftward distance from vertical line at carina to"
+  ],
+  "other_features": {
+    "general": [
+      "pulmonary vessels within upper perihilum approximate ⅓ of total vascularity",
+      "pulmonary vessels within lower perihilum approximate ²/³ of total vascularity",
+      "pulmonary vessels taper near transition of middle ⅓ to outer ⅓ of lung",
+      "straight / slightly concave main pulmonary artery contour (mild convexity is normal in",
+      "pulmonary trunk measures < 4.5 cm (leftward distance from vertical line at carina to",
+      "right interlobar / intermediate pulmonary artery measures 10-15 (9-14) mm in males",
+      "pulmonary vessel size < 1-2 mm in extreme lung periphery",
+      "artery within 1st anterior intercostal space measure ≤ 3 mm"
+    ],
+    "CT": [
+      "upper limits of normal for main pulmonary artery = 3 cm",
+      "diameter of right descending pulmonary artery larger than trachea just above aortic",
+      "increased size of vessels (veins + arteries) larger than accompanying bronchus (=",
+      "enlarged hilar vessels (lateral view)",
+      "visualization of vessels below 10th posterior rib",
+      "redistribution of flow (not seen in younger children)",
+      "indistinctness of vessels with Kerley lines (= interstitial edema)",
+      "fine reticulated pattern",
+      "alveolar edema",
+      "enlarged main + right and left pulmonary arteries",
+      "abrupt tapering of pulmonary arteries",
+      "coarse vascular pattern with irregular branching arteries (from aorta / subclavian",
+      "small central vessels despite apparent ↑ in vascularity",
+      "vessels reduced in size and number",
+      "hyperlucent lungs",
+      "small pulmonary artery segment + hilar vessels"
+    ]
+  },
+  "clinical": {}
+}

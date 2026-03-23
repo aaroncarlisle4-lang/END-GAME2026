@@ -1,0 +1,35 @@
+{
+  "finding": "Pleural Effusion & Subsegmental Atelectasis",
+  "slug": "pleural_effusion_subsegmental_atelectasis",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/pleural_effusion_subsegmental_atelectasis.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Postoperative (thoracotomy, splenectomy, renal surgery) ← thoracic splinting + mucous plugging of small airway",
+      "raw": "Postoperative (thoracotomy, splenectomy, renal surgery) ← thoracic splinting + mucous plugging of small airway",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary embolus",
+      "raw": "Pulmonary embolus",
+      "frequency": null
+    },
+    {
+      "name": "Abdominal mass",
+      "raw": "Abdominal mass",
+      "frequency": null
+    },
+    {
+      "name": "Ascites [Rib fractures]",
+      "raw": "Ascites",
+      "frequency": null,
+      "sites": [
+        "Rib fractures"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

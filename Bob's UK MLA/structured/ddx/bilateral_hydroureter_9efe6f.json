@@ -1,0 +1,42 @@
+{
+  "finding": "Bilateral Hydroureter",
+  "slug": "bilateral_hydroureter_9efe6f",
+  "chapter": "D. COMPRESSION",
+  "source_file": "processed_clusters/d_compression/bilateral_hydroureter_9efe6f.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polyuria / diuresis",
+      "raw": "Polyuria / diuresis",
+      "frequency": null
+    },
+    {
+      "name": "Bladder outlet obstruction",
+      "raw": "Bladder outlet obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Neurogenic bladder",
+      "raw": "Neurogenic bladder",
+      "frequency": null
+    },
+    {
+      "name": "Pregnancy: R > L",
+      "raw": "Pregnancy: R > L",
+      "frequency": null
+    },
+    {
+      "name": "VESICOURETERAL REFLUX (a)  primary vesicoureteral reflux",
+      "raw": "VESICOURETERAL REFLUX (a)  primary vesicoureteral reflux",
+      "frequency": null
+    },
+    {
+      "name": "Primary reflux megaureter",
+      "raw": "Primary reflux megaureter",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Megaureter"
+}

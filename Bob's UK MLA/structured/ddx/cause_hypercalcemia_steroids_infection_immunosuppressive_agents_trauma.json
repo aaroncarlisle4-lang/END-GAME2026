@@ -1,0 +1,27 @@
+{
+  "finding": "Cause: hypercalcemia, steroids, infection, immunosuppressive agents, trauma",
+  "slug": "cause_hypercalcemia_steroids_infection_immunosuppressive_agents_trauma",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/gastrointestinal_hemorrhage/cause_hypercalcemia_steroids_infection_immunosuppressive_agents_trauma.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "GI hemorrhage Cause:   gastritis, ulcer, colonic diverticula, ischemic bowel, infectious colitis, pseudomembranous colitis, nonspecific cecal ulceration",
+      "raw": "GI hemorrhage Cause:   gastritis, ulcer, colonic diverticula, ischemic bowel, infectious colitis, pseudomembranous colitis, nonspecific cecal ulceration",
+      "frequency": null
+    },
+    {
+      "name": "Bowel perforation: in 1-4% of transplant recipients",
+      "raw": "Bowel perforation: in 1-4% of transplant recipients",
+      "frequency": "4%"
+    },
+    {
+      "name": "Opportunistic infection",
+      "raw": "Opportunistic infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "@   General"
+}

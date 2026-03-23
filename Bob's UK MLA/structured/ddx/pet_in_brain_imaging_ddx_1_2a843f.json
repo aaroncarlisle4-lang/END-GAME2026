@@ -1,0 +1,32 @@
+{
+  "finding": "Pet In Brain Imaging (DDx)",
+  "slug": "pet_in_brain_imaging_ddx_1_2a843f",
+  "chapter": "Pet In Brain Imaging",
+  "source_file": "processed_clusters/pet_in_brain_imaging/pet_in_brain_imaging_ddx_1_2a843f.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "drug-induced chorea",
+      "raw": "drug-induced chorea",
+      "frequency": null
+    },
+    {
+      "name": "Huntington disease",
+      "raw": "Huntington disease",
+      "frequency": null
+    },
+    {
+      "name": "tardive dyskinesia",
+      "raw": "tardive dyskinesia",
+      "frequency": null
+    },
+    {
+      "name": "progressive",
+      "raw": "progressive",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "bilateral temporoparietal hypoperfusion + hypometabolism → decreased FDG uptake | sparing of sensory and motor cortex + basal ganglia + thalamus | atrophy of entire brain with predilection for hippocampus"
+}

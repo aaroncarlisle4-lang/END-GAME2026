@@ -1,0 +1,31 @@
+{
+  "name": "DESMOID TUMOR (MAMMARY FIBROMATOSIS",
+  "slug": "desmoid_tumor_mammary_fibromatosis",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/desmoid_tumor_mammary_fibromatosis.md",
+  "definition": "LOW-GRADE FIBROSARCOMA = AGGRESSIVE FIBROMATOSIS rare tumor without metastatic potential",
+  "demographics": {
+    "Incidence": "over 100 isolated cases reported",
+    "Histo": "spindled fibroblasts + myofibroblasts forming interlacing fascicles entrapping ducts +",
+    "Size": "0.5-10 cm"
+  },
+  "dominant_finding": "spiculated mass without calcifications",
+  "distribution": "",
+  "discriminating_features": [
+    "spiculated mass without calcifications",
+    "hypoechoic mass with spiculated / irregular / microlobulated margins",
+    "low to intermediate SI on T1WI + variable SI on T2WI",
+    "benign progressive kinetic enhancement pattern (common)"
+  ],
+  "other_features": {
+    "general": [
+      "spiculated mass without calcifications",
+      "hypoechoic mass with spiculated / irregular / microlobulated margins",
+      "low to intermediate SI on T1WI + variable SI on T2WI",
+      "benign progressive kinetic enhancement pattern (common)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "27-29% recurrence rate"
+  }
+}

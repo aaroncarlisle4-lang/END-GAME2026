@@ -1,0 +1,32 @@
+{
+  "name": "VESICOURETERIC REFLUX",
+  "slug": "vesicoureteric_reflux",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/vesicoureteric_reflux.md",
+  "definition": "abnormal valve mechanism at UVJ resulting in reflux, ureteral dilatation, clubbed calices,",
+  "demographics": {
+    "Location": "uni- / bilateral (frequently involves lower pole ureter in total ureteral"
+  },
+  "dominant_finding": "renal scars in 22-50%",
+  "distribution": "uni- / bilateral (frequently involves lower pole ureter in total ureteral",
+  "discriminating_features": [
+    "renal scars in 22-50%",
+    "intermittent hydroureteronephrosis = variable size of collecting system",
+    "redundant mucosa causing apparent thickening of renal pelvic wall",
+    "large thin-walled bladder",
+    "midline-to-orifice distance > 7-9 mm has high probability of vesicoureteric reflux"
+  ],
+  "other_features": {
+    "general": [
+      "renal scars in 22-50%",
+      "intermittent hydroureteronephrosis = variable size of collecting system",
+      "redundant mucosa causing apparent thickening of renal pelvic wall",
+      "large thin-walled bladder",
+      "midline-to-orifice distance > 7-9 mm has high probability of vesicoureteric reflux"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "disappears spontaneously in 80%",
+    "Cx": "reflux atrophy / nephropathy in 22-50%; end-stage renal disease in 5-15% of adults"
+  }
+}

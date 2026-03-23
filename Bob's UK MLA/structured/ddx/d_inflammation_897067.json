@@ -1,0 +1,52 @@
+{
+  "finding": "D. Inflammation",
+  "slug": "d_inflammation_897067",
+  "chapter": "Musculoskeletal Fibromatoses",
+  "source_file": "processed_clusters/musculoskeletal_fibromatoses/d_inflammation_897067.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Inflammatory process (abscess, pyogenic / fungal infection):",
+      "raw": "Inflammatory process (abscess, pyogenic / fungal infection):",
+      "frequency": null
+    },
+    {
+      "name": "Crystalline arthropathy",
+      "raw": "Crystalline arthropathy (eg, gout)",
+      "frequency": null
+    },
+    {
+      "name": "Dermatomyositis, scleroderma",
+      "raw": "Dermatomyositis, scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Radiation: eg, radiation pneumonitis",
+      "raw": "Radiation: eg, radiation pneumonitis",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing enterocolitis",
+      "raw": "Necrotizing enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse pericarditis",
+      "raw": "Diffuse pericarditis",
+      "frequency": null
+    },
+    {
+      "name": "Bursitis",
+      "raw": "Bursitis",
+      "frequency": null
+    },
+    {
+      "name": "Pneumonia",
+      "raw": "Pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  adsorption onto calcium deposits (b)  binding to denatured proteins, iron deposits, immature collagen (c)  hyperemia"
+}

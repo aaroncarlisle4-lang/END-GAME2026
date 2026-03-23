@@ -1,0 +1,37 @@
+{
+  "finding": "Miliary Hepatosplenic Lesions",
+  "slug": "miliary_hepatosplenic_lesions",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/miliary_hepatosplenic_lesions.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Fungal infections",
+      "raw": "Fungal infections",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "B. BENIGN TUMOR",
+  "slug": "b_benign_tumor_2",
+  "chapter": "SPLEEN",
+  "source_file": "processed_clusters/spleen/b_benign_tumor_2.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hamartoma = splenoma",
+      "raw": "Hamartoma = splenoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Hematopoietic",
+      "raw": "Hematopoietic",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Gaucher disease",
+      "raw": "Gaucher disease (islands of RES cells laden with glucosylceramide)",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory pseudotumor",
+      "raw": "Inflammatory pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

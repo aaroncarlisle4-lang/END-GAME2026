@@ -1,0 +1,42 @@
+{
+  "finding": "Small Bowel Obstruction in Adulthood",
+  "slug": "small_bowel_obstruction_in_adulthood_a48d69",
+  "chapter": "E. EXTRINSIC COMPRESSION",
+  "source_file": "processed_clusters/e_extrinsic_compression/small_bowel_obstruction_in_adulthood_a48d69.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Stone",
+      "raw": "Stone (gallstone ileus)",
+      "frequency": null
+    },
+    {
+      "name": "Hernia",
+      "raw": "Hernia (21%)",
+      "frequency": "21%"
+    },
+    {
+      "name": "Adhesion",
+      "raw": "Adhesion (49%)",
+      "frequency": "49%"
+    },
+    {
+      "name": "Volvulus",
+      "raw": "Volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Intussusception",
+      "raw": "Intussusception",
+      "frequency": null
+    },
+    {
+      "name": "Tumor",
+      "raw": "Tumor (16%)",
+      "frequency": "16%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

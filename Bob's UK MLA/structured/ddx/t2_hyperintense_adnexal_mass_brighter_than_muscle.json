@@ -1,0 +1,32 @@
+{
+  "finding": "T2-Hyperintense Adnexal Mass Brighter than Muscle",
+  "slug": "t2_hyperintense_adnexal_mass_brighter_than_muscle",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/t2_hyperintense_adnexal_mass_brighter_than_muscle.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemorrhagic cyst ›  with enhancement",
+      "raw": "Hemorrhagic cyst ›  with enhancement",
+      "frequency": null
+    },
+    {
+      "name": "Malignant transformation of endometrioma (b)  ↓ T1WI ›  without enhancement",
+      "raw": "Malignant transformation of endometrioma (b)  ↓ T1WI ›  without enhancement",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous cystic neoplasm ›  with enhancement",
+      "raw": "Mucinous cystic neoplasm ›  with enhancement",
+      "frequency": null
+    },
+    {
+      "name": "Krukenberg tumor",
+      "raw": "Krukenberg tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  ↑ T1WI ›  without enhancement"
+}

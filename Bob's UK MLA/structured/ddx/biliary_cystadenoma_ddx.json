@@ -1,0 +1,32 @@
+{
+  "finding": "Biliary Cystadenoma (DDx)",
+  "slug": "biliary_cystadenoma_ddx",
+  "chapter": "Biliary Cystadenoma",
+  "source_file": "processed_clusters/biliary_cystadenoma/biliary_cystadenoma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "biliary cystadenocarcinoma",
+      "raw": "biliary cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "liver abscess",
+      "raw": "liver abscess",
+      "frequency": null
+    },
+    {
+      "name": "echinococcal cyst",
+      "raw": "echinococcal cyst",
+      "frequency": null
+    },
+    {
+      "name": "cystic mesenchymal",
+      "raw": "cystic mesenchymal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "locules with variable SI on T1WI + T2WI depending on their protein content | avascular mass with small clusters of peripheral abnormal vessels | stretching + displacement of vessels | thin subtle blush of neovascularity in septa + wall"
+}

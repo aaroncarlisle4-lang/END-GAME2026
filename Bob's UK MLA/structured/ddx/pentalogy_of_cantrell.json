@@ -1,0 +1,37 @@
+{
+  "finding": "PENTALOGY OF CANTRELL",
+  "slug": "pentalogy_of_cantrell",
+  "chapter": "PENA-SHOKEIR PHENOTYPE",
+  "source_file": "processed_clusters/pena_shokeir_phenotype/pentalogy_of_cantrell.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Omphalocele (63%) = defect of supraumbilical abdominal wall and sternum",
+      "raw": "Omphalocele (63%) = defect of supraumbilical abdominal wall and sternum",
+      "frequency": "63%"
+    },
+    {
+      "name": "Ectopia cordis",
+      "raw": "Ectopia cordis",
+      "frequency": null
+    },
+    {
+      "name": "Deficiency of anterior diaphragm → herniation of intraabdominal organs into thoracic cavity is rare",
+      "raw": "Deficiency of anterior diaphragm → herniation of intraabdominal organs into thoracic cavity is rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "Deficiency of diaphragmatic pericardium",
+      "raw": "Deficiency of diaphragmatic pericardium",
+      "frequency": null
+    },
+    {
+      "name": "Congenital cardiovascular malformation: atrioventricular septal defect (50%), VSD (18%), tetralogy of Fallot (11%), left ventricular diverticulum, Ebstein malformation",
+      "raw": "Congenital cardiovascular malformation: atrioventricular septal defect (50%), VSD (18%), tetralogy of Fallot (11%), left ventricular diverticulum, Ebstein malformation",
+      "frequency": "50%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  sporadic very rare abnormality Prevalence:   5.5÷1,000,000 live births; M÷F = 2.7÷1 Cause:   failure of fusion of lateral thoracic folds + transverse diaphragmatic septum with variable extension inferiorly during days 14-18 of embryonic life Associated with: (a)  chromosomal anomalies: trisomies 13, 18, Turner syndrome (b)  facial defects: cleft lip or palate (c)  CNS anomalies: exencephaly, encephalocele, spina bifida, hydrocephalus (d)  musculoskeletal anomalies: clubfoot, absent radius √  exteriorization of heart Prognosis:   death within a few days after birth"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Adrenal Mass with Small Foci of Fat",
+  "slug": "adrenal_mass_with_small_foci_of_fat_f84107",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/adrenal_mass_with_small_foci_of_fat_f84107.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myelolipoma",
+      "raw": "Myelolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Adrenocortical adenoma with myelolipomatous changes",
+      "raw": "Adrenocortical adenoma with myelolipomatous changes",
+      "frequency": null
+    },
+    {
+      "name": "Adrenocortical carcinoma",
+      "raw": "Adrenocortical carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Not every adrenal mass with a small amount of fat is a myelolipoma!"
+}

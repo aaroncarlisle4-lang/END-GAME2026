@@ -1,0 +1,32 @@
+{
+  "finding": "Whirlpool Sign of Small Bowel Mesentery",
+  "slug": "whirlpool_sign_of_small_bowel_mesentery",
+  "chapter": "MESENTERY & OMENTUM",
+  "source_file": "processed_clusters/mesentery_omentum/whirlpool_sign_of_small_bowel_mesentery.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Midgut volvulus",
+      "raw": "Midgut volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Internal hernia",
+      "raw": "Internal hernia",
+      "frequency": null
+    },
+    {
+      "name": "Adhesions",
+      "raw": "Adhesions",
+      "frequency": null
+    },
+    {
+      "name": "Surgical disruption of normal anatomy",
+      "raw": "Surgical disruption of normal anatomy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

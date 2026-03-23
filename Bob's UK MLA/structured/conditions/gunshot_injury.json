@@ -1,0 +1,37 @@
+{
+  "name": "GUNSHOT INJURY",
+  "slug": "gunshot_injury",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/gunshot_injury.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "200,000 gun-related injuries per year; 31,224 firearm-related deaths in USA",
+    "Location": "liver > small bowel > colon > spleen > kidney > pancreas"
+  },
+  "dominant_finding": "fully jacketed bullets show no trail of lead fragments",
+  "distribution": "liver > small bowel > colon > spleen > kidney > pancreas",
+  "discriminating_features": [
+    "fully jacketed bullets show no trail of lead fragments",
+    "semi- / non jacketed bullets distribute lead fragments along bullet track",
+    "hollow-point bullets transform into mushroom shape",
+    "\"lead snowstorm\" of high-velocity soft-point rifle bullets:",
+    "conical distribution with apex pointing toward entry site"
+  ],
+  "other_features": {
+    "general": [
+      "fully jacketed bullets show no trail of lead fragments",
+      "semi- / non jacketed bullets distribute lead fragments along bullet track",
+      "hollow-point bullets transform into mushroom shape",
+      "\"lead snowstorm\" of high-velocity soft-point rifle bullets:",
+      "conical distribution with apex pointing toward entry site",
+      "steel pellets remain round, lead pellets become deformed + fragmented",
+      "bullet tips points to entry wound (after tumbling through 180°):",
+      "impact deformation of bullet modifies tumbling",
+      "bullet + bone fragments deposited along track",
+      "bone fracture beveled toward the direction of travel"
+    ]
+  },
+  "clinical": {
+    "Cx": "pellet embolization, magnetization in MRI"
+  }
+}

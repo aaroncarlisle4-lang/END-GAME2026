@@ -1,0 +1,22 @@
+{
+  "finding": "Fetal Tumor (DDx)",
+  "slug": "fetal_tumor_ddx",
+  "chapter": "Fetal Tumor",
+  "source_file": "processed_clusters/fetal_tumor/fetal_tumor_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "infection",
+      "raw": "infection",
+      "frequency": null
+    },
+    {
+      "name": "metastatic neuroblastoma",
+      "raw": "metastatic neuroblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hepatosplenomegaly → ↑ abdominal circumference | hydrops ← fetal anemia / leukemic infiltrate of myocardium / visceral fibrosis with ↑"
+}

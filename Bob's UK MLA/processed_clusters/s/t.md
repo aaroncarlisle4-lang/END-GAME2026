@@ -1,0 +1,222 @@
+# Finding: T
+
+**Source section:** S
+**Quality score:** 0.5
+**Differential count:** 194
+
+## Differentials
+
+- T1-hyperintense intracranial lesions 296
+- T2-hyperintense periventricular brain lesions 301
+- T2 shading 1354
+- Table of
+- Taeniasis 348
+- Taenia solium 347
+- Tagamet® 1437
+- Tailgut cyst 269, 1142
+- Tail sign, lung 591
+- Takayasu arteritis 847
+- Talar beak
+- Talocalcaneal angle 55
+- Talus, vertical 25
+- Talwin 843
+- Tamm-Horsfall protein 1224
+- Tanner stages 698
+- Tapered fingers 1135
+- Tapeworm 347
+- Target
+- Targetoid growth, breast 714
+- Tarlov cyst 266
+- Tarsal
+- Tarsoepiphyseal aclasis 91
+- TAR syndrome 207
+- Taussig-Bing heart 813
+- Taxoid derivatives 515
+- T-cell lymphoma, peripheral 1116
+- Teacup
+- like breast calcifications 688
+- Teboroxime 1413
+- Technegas 1406
+- Technetium-99m
+- labeled autologous RBCs blood pool agents 1409 intestinal bleeding 989 macroaggregated albumin 1405 mercaptoacetyltriglycine 1419 mertiatide 1419 mini-microaggregated albumin colloid 1422 pertechnetate
+- thallium subtraction imaging 1404
+- Tectal beaking 343
+- Tegmental cap 395
+- Tegmen tympani 464
+- Telangiectasia
+- Telencephalon 311
+- Telephone handle bone 207
+- Telltale triangle sign 993
+- Temporal
+- Tennis elbow 138
+- Tenosynovial giant cell tumor 181
+- Tension
+- Tetralogy of Fallot 849
+- Tetrofosmin 1413
+- Teutschländer disease 210
+- Textiloma 1154
+- Thalassemia 206
+- Thalidomide 1303
+- Thallium-201
+- Thanatophoric dysplasia 206
+- Thebesian valve 766
+- Theca
+- Thermoactinomyces vulgaris 615
+- Thermophilic actinomycetes 615
+- Thickened
+- Thigh muscles, anatomy 47
+- Thimble bladder 1281
+- Thin skull 215
+- Third
+- degree heart block 1357 hepatic inflow 868 inflow to liver 886
+- Thorium dioxide 984
+- Thorny radiations, bone 69
+- Thorotrastosis 984
+- Thread and streaks sign
+- chamber view 763
+  - channel aorta 790
+  - phase bone scanning 1422
+- Thrombangiitis obliterans 799
+- Thrombocytopenia-absent radius syndrome 207
+- Thromboembolism
+- Thymolipoma 677
+- Thymoma 677
+- Thymus
+- DeQuervain 509
+- Hashimoto 509
+- IgG4-related 510
+- binding globulin 470
+- Tibiotalar joint slanting 25
+- Tic douloureux 285
+- Tidal
+- Tie sternum 2
+- Tight filum terminale syndrome 280
+- Tillaux fracture 114
+- Tinel sign 205, 272
+- Tip of the iceberg sign 1347
+- TIPS failure 979
+- Todani classification 876
+- Toddler fracture 113
+- Toldt
+- Tophaceous gout 120
+- TORCH infection 286
+- Torcular-lambdoid inversion 350
+- Tornwaldt cyst 510
+- Torsion
+- Tortuosity, arterial 198
+- Torulosis 606
+- Torus
+- Touraine-Solente-Gole disease 178
+- Towering cerebellum 343
+- Tower vertebrae 198
+- Toxemia of pregnancy 1380
+- Toxic
+- Toxoplasmosis 402
+- Trabecular bone resorption 129
+- Trabeculated bone lesion 11
+- Trachea
+- like bronchial walls 582 line sign, NUC 131 lines, lung 589 track calcifications ductus arteriosus 835 gyral 399 renal cortical necrosis 1194 sign, optic nerve sheath 412, 429
+- Transaminases 887
+- Transcalvarial herniation 290
+- Transchondral fracture 102
+- Transection, aorta 852
+- Transependymal CSF flow 366
+- Transethmoidal encephalocele 339
+- Transforaminal herniation 290
+- Transfusional siderosis 933
+- Transient
+- Transjugular intrahepatic portosystemic shunt 979
+- Transmesenteric hernia 1102
+- Transmesocolic hernia 1103
+- Transmural perforation, esophagus 1085
+- Transomental hernia 1102
+- Transscaphoid perilunate dislocation 88
+- Transtentorial herniation 290
+- Transudate 546
+- Transverse
+- Trapezium fracture 109
+- Trapping defect, thyroid 449
+- Trauma
+- barking, kidney 1240
+  - in-bud appearance, lung 531 bronchioles 590
+  - in-winter appearance, bile ducts 906
+- Tremolite 578
+- Trendelenburg test 82
+- Trephine syndrome 309
+- Trevor disease 91
+- Triangle of Laimer 1147
+- Triangular ligament, abdomen 1039
+- Trichobezoar 1052
+- Trichoptysis 675
+- Trichuriasis 1144
+- Tricuspid
+- Trigger point, breast 730
+- Trigonocephaly 215
+- Triiodothyronine 470
+- Trilateral retinoblastoma 394
+- Trilogy of Fallot 850
+- Triphalangeal thumb 127
+- Triplane fracture 106
+- Triple
+- Triploidy 1385
+- Tripod fracture 256
+- Triquetral fracture 109
+- Trismus
+- CHD 736
+- D syndrome 208
+- E syndrome 209
+- Trocar site hernia 1100
+- Trolley-track sign, spine 242
+- Trophoblastic disease 1358
+- Trophotropism 1323
+- Tropical
+- Tropolone 1423
+- Trough sign 87
+- Trousseau syndrome 855
+- True
+- Trueta shunting 1166
+- Trümmerfeld zone 196
+- Trumpet
+- like pelvicalyceal system 1269 sign, nerve root 250
+- Truncal obesity 1206
+- Truncation artifact 280
+- Truncus arteriosus 856
+- Trypanosoma cruzi 1061
+- Trypanosomiasis 1061
+- T-shaped uterus 1388
+- Tubal
+- Tubulointerstitial nephritis 1239
+- Tubulovillous adenoma, colon 1042
+- Tulip bulb aorta 145
+- Tumefactive
+- like bone lesions 8
+  - mimicking breast lesions 685 scintigraphy, gallium 1425 testicular 1270 vertebra 225
+- Tunnel subaortic stenosis 794
+- Turcot syndrome 1144
+- Turner syndrome 211
+- CHD 737
+- Turret exostosis 211
+- Turricephaly 215
+- Turtle back calcification 981
+- Tuttle test 1088
+- Twin
+- peaked pulse 793 peak sign 1327, 1328 perfused 1339
+- like ribs 388
+- Two-vessel cord 1381
+- Tylosis palmaris et plantaris 1082
+- Tympanic
+
+## Context
+
+dose, energy, half-life 1393 radiation dose 1393 dorsal 205 ventral 25 Talcosis, lung inhalational 674 mainline 652 Talipes 25 equinovarus 25 abnormal nephrogram 1166 Tamoxifen 1317 Tamponade external brain 309 heart 803 lesion, lung 619 sign appendicitis 1049, 1050 CMV colitis 1044 common bile duct 914 Crohn disease 1069, 1070 erosive gastritis 1096 giant aneurysm, brain 330 hypertrophic pyloric stenosis 1105 intussusception 1108 liver 901 malignant melanoma 1118 mural stratification, GI tract 1023 neurofibroma 270 pseudomembranous colitis 1062 rectum 1136 tuberculoma, brain 403 coalition 205
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Convert ## Differentials into a comparison table.
+  2. Columns = each differential diagnosis.
+  3. Rows = Dominant finding | Demographics | Distribution |
+            Key discriminator | Other findings | Relative frequency.
+  4. Preserve any percentages or 'most common/rare' qualifiers.
+  5. Use ## Context paragraph for additional demographic / distribution clues.
+-->

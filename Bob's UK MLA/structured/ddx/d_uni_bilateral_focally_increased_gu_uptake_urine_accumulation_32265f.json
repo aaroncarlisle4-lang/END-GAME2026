@@ -1,0 +1,37 @@
+{
+  "finding": "D. Uni- / bilateral focally increased GU uptake ← urine accumulation",
+  "slug": "d_uni_bilateral_focally_increased_gu_uptake_urine_accumulation_32265f",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/d_uni_bilateral_focally_increased_gu_uptake_urine_accumulation_32265f.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Normal upper pole calyces: in supine position",
+      "raw": "Normal upper pole calyces: in supine position",
+      "frequency": null
+    },
+    {
+      "name": "Urinary tract diversion / ileal conduit",
+      "raw": "Urinary tract diversion / ileal conduit",
+      "frequency": null
+    },
+    {
+      "name": "Urinoma",
+      "raw": "Urinoma",
+      "frequency": null
+    },
+    {
+      "name": "Change in location of kidney",
+      "raw": "Change in location of kidney",
+      "frequency": null
+    },
+    {
+      "name": "Congenital anomaly: eg, pelvic kidney",
+      "raw": "Congenital anomaly: eg, pelvic kidney",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

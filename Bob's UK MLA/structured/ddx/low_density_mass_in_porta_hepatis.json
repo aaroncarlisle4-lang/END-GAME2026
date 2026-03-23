@@ -1,0 +1,47 @@
+{
+  "finding": "Low-density Mass in Porta Hepatis",
+  "slug": "low_density_mass_in_porta_hepatis",
+  "chapter": "E. CONNECTIVE TISSUE",
+  "source_file": "processed_clusters/e_connective_tissue/low_density_mass_in_porta_hepatis.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Choledochal cyst",
+      "raw": "Choledochal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic cyst",
+      "raw": "Hepatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Enteric duplication",
+      "raw": "Enteric duplication",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic artery aneurysm",
+      "raw": "Hepatic artery aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Biloma",
+      "raw": "Biloma",
+      "frequency": null
+    },
+    {
+      "name": "Embryonal rhabdomyosarcoma of biliary tree",
+      "raw": "Embryonal rhabdomyosarcoma of biliary tree",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

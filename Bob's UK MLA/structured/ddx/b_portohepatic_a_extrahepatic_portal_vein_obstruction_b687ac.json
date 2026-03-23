@@ -1,0 +1,47 @@
+{
+  "finding": "B. PORTOHEPATIC (a) extrahepatic portal vein obstruction",
+  "slug": "b_portohepatic_a_extrahepatic_portal_vein_obstruction_b687ac",
+  "chapter": "C. INGESTED FOREIGN BODIES",
+  "source_file": "processed_clusters/c_ingested_foreign_bodies/b_portohepatic_a_extrahepatic_portal_vein_obstruction_b687ac.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Atresia of veins",
+      "raw": "Atresia of veins",
+      "frequency": null
+    },
+    {
+      "name": "Compression by mass (b)  intrahepatic portal vein obstruction",
+      "raw": "Compression by mass (b)  intrahepatic portal vein obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Portal cirrhosis: neonatal hepatitis",
+      "raw": "Portal cirrhosis: neonatal hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Biliary cirrhosis: biliary atresia (c)  bile leakage",
+      "raw": "Biliary cirrhosis: biliary atresia (c)  bile leakage",
+      "frequency": null
+    },
+    {
+      "name": "Biliary obstruction",
+      "raw": "Biliary obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Biliary perforation",
+      "raw": "Biliary perforation",
+      "frequency": null
+    },
+    {
+      "name": "URINARY TRACT ◊  Urine ascites (most common cause): lower urinary tract obstruction + upper urinary tract rupture: posterior / anterior urethral valves, ureterovesical / ureteropelvic junction obstruction, renal / bladder rupture, anterior urethral diverticulum, bladder diverticula, neurogenic bladder, extrinsic bladder mass",
+      "raw": "URINARY TRACT ◊  Urine ascites (most common cause): lower urinary tract obstruction + upper urinary tract rupture: posterior / anterior urethral valves, ureterovesical / ureteropelvic junction obstruction, renal / bladder rupture, anterior urethral diverticulum, bladder diverticula, neurogenic bladder, extrinsic bladder mass",
+      "frequency": "most common"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

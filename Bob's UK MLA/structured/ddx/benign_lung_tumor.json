@@ -1,0 +1,32 @@
+{
+  "finding": "Benign Lung Tumor",
+  "slug": "benign_lung_tumor",
+  "chapter": "Clinical Assessment of Indeterminate SPN",
+  "source_file": "processed_clusters/clinical_assessment_of_indeterminate_spn/benign_lung_tumor.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "CENTRAL LOCATION",
+      "raw": "CENTRAL LOCATION",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial polyp",
+      "raw": "Bronchial polyp",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial papilloma",
+      "raw": "Bronchial papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Granular cell myoblastoma",
+      "raw": "Granular cell myoblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

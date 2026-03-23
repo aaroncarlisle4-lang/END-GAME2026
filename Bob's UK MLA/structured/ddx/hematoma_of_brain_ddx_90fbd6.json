@@ -1,0 +1,32 @@
+{
+  "finding": "Hematoma Of Brain (DDx)",
+  "slug": "hematoma_of_brain_ddx_90fbd6",
+  "chapter": "Hematoma Of Brain",
+  "source_file": "processed_clusters/hematoma_of_brain/hematoma_of_brain_ddx_90fbd6.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "melanin",
+      "raw": "melanin",
+      "frequency": null
+    },
+    {
+      "name": "high-protein concentration",
+      "raw": "high-protein concentration",
+      "frequency": null
+    },
+    {
+      "name": "flow-related enhancement",
+      "raw": "flow-related enhancement",
+      "frequency": null
+    },
+    {
+      "name": "gadolinium- based contrast agent",
+      "raw": "gadolinium- based contrast agent",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "increase in size of hemorrhagic area over days / weeks | high-density lesion within 1st week; often with layering | very hyperintense on T1WI (= oxidation of deoxyhemo-globin to methemoglobin →"
+}

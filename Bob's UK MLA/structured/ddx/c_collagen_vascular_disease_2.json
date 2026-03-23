@@ -1,0 +1,27 @@
+{
+  "finding": "C. COLLAGEN-VASCULAR DISEASE",
+  "slug": "c_collagen_vascular_disease_2",
+  "chapter": "B. NEUROPATHIC",
+  "source_file": "processed_clusters/b_neuropathic/c_collagen_vascular_disease_2.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Dermatomyositis",
+      "raw": "Dermatomyositis",
+      "frequency": null
+    },
+    {
+      "name": "Raynaud disease",
+      "raw": "Raynaud disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

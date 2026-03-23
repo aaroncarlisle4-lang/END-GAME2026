@@ -1,0 +1,57 @@
+{
+  "finding": "Cause: obstruction of small seromucinous gland",
+  "slug": "cause_obstruction_of_small_seromucinous_gland",
+  "chapter": "Opacification of Maxillary Sinus",
+  "source_file": "processed_clusters/opacification_of_maxillary_sinus/cause_obstruction_of_small_seromucinous_gland.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sinonasal polyp",
+      "raw": "Sinonasal polyp",
+      "frequency": null
+    },
+    {
+      "name": "Antrochoanal polyp",
+      "raw": "Antrochoanal polyp",
+      "frequency": null
+    },
+    {
+      "name": "Inverting papilloma",
+      "raw": "Inverting papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Sinusitis",
+      "raw": "Sinusitis",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma",
+      "raw": "Carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma (of adulthood)",
+      "frequency": null
+    },
+    {
+      "name": "Chronic irritants",
+      "raw": "Chronic irritants",
+      "frequency": null
+    },
+    {
+      "name": "Beryllium",
+      "raw": "Beryllium",
+      "frequency": null
+    },
+    {
+      "name": "Chromate salts",
+      "raw": "Chromate salts",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   commonly in floor of maxilla √  smoothly marginated soft-tissue mass Site:   ethmoid sinuses Prognosis:   poor (due to frequent intracranial extension) Sinonasal Granulomatous Disease √  sinus mucosal thickening √  osseous + cartilaginous erosion (through cribriform plate) √  nasal septal perforation √   intraorbital extension"
+}

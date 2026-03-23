@@ -1,0 +1,42 @@
+{
+  "finding": "B. BENIGN TUMORS",
+  "slug": "b_benign_tumors_1_d08814",
+  "chapter": "FOOT",
+  "source_file": "processed_clusters/foot/b_benign_tumors_1_d08814.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Plantar fibromatosis",
+      "raw": "Plantar fibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Deep fibromatosis",
+      "raw": "Deep fibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Infantile digital fibromatosis",
+      "raw": "Infantile digital fibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Nerve sheath tumor",
+      "raw": "Nerve sheath tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma, angiolipoma",
+      "raw": "Lipoma, angiolipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

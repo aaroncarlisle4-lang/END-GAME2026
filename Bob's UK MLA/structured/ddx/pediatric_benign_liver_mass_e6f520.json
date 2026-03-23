@@ -1,0 +1,37 @@
+{
+  "finding": "Pediatric Benign Liver Mass",
+  "slug": "pediatric_benign_liver_mass_e6f520",
+  "chapter": "D. MISCELLANEOUS",
+  "source_file": "processed_clusters/d_miscellaneous/pediatric_benign_liver_mass_e6f520.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infantile hemangioendothelioma",
+      "raw": "Infantile hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Mesenchymal hamartoma infrequent:",
+      "raw": "Mesenchymal hamartoma infrequent:",
+      "frequency": null
+    },
+    {
+      "name": "Focal nodular hyperplasia",
+      "raw": "Focal nodular hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular adenoma",
+      "raw": "Hepatocellular adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Nodular regenerative hyperplasia",
+      "raw": "Nodular regenerative hyperplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Gout — Joints (DDx)",
+  "slug": "gout_joints_ddx",
+  "chapter": "Gout",
+  "source_file": "processed_clusters/gout/gout_joints_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "rheumatoid arthritis (marginal erosions without sclerotic rim",
+      "raw": "rheumatoid arthritis (marginal erosions without sclerotic rim",
+      "frequency": null
+    },
+    {
+      "name": "periarticular demineralization)",
+      "raw": "periarticular demineralization)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "eccentric erosions with thin sclerotic margins: | scalloped erosion of bases of ulnar metacarpals | chondrocalcinosis (5%): | round / oval well-marginated subarticular cysts (pseudotumor) up to 3 cm (containing"
+}

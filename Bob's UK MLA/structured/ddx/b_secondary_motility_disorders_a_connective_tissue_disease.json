@@ -1,0 +1,172 @@
+{
+  "finding": "B. SECONDARY MOTILITY DISORDERS (a) connective tissue disease",
+  "slug": "b_secondary_motility_disorders_a_connective_tissue_disease",
+  "chapter": "A. PRIMARY MOTILITY DISORDERS",
+  "source_file": "processed_clusters/a_primary_motility_disorders/b_secondary_motility_disorders_a_connective_tissue_disease.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "SLE",
+      "raw": "SLE",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Polymyositis",
+      "raw": "Polymyositis",
+      "frequency": null
+    },
+    {
+      "name": "Dermatomyositis",
+      "raw": "Dermatomyositis",
+      "frequency": null
+    },
+    {
+      "name": "Muscular dystrophy (b)  chemical / physical injury",
+      "raw": "Muscular dystrophy (b)  chemical / physical injury",
+      "frequency": null
+    },
+    {
+      "name": "Reflux / peptic esophagitis",
+      "raw": "Reflux / peptic esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "S/P vagotomy",
+      "raw": "S/P vagotomy",
+      "frequency": null
+    },
+    {
+      "name": "Caustic esophagitis",
+      "raw": "Caustic esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Radiotherapy (c)  infection › fungal:",
+      "raw": "Radiotherapy (c)  infection › fungal:",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus",
+      "raw": "Diabetes mellitus",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Alcoholism",
+      "raw": "Alcoholism",
+      "frequency": null
+    },
+    {
+      "name": "Electrolyte disturbances (e)  endocrine disease",
+      "raw": "Electrolyte disturbances (e)  endocrine disease",
+      "frequency": null
+    },
+    {
+      "name": "Myxedema",
+      "raw": "Myxedema",
+      "frequency": null
+    },
+    {
+      "name": "Thyrotoxicosis (f)  neoplasm (g)  drug-related: atropine, propantheline, curare (h)  muscle disease",
+      "raw": "Thyrotoxicosis (f)  neoplasm (g)  drug-related: atropine, propantheline, curare (h)  muscle disease",
+      "frequency": null
+    },
+    {
+      "name": "Myotonic dystrophy",
+      "raw": "Myotonic dystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Muscular dystrophy",
+      "raw": "Muscular dystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Oculopharyngeal dystrophy",
+      "raw": "Oculopharyngeal dystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Myasthenia gravis",
+      "raw": "Myasthenia gravis (= disturbed motility only in striated muscle of upper ⅓ of esophagus)",
+      "frequency": null
+    },
+    {
+      "name": "Parkinsonism",
+      "raw": "Parkinsonism",
+      "frequency": null
+    },
+    {
+      "name": "Multiple sclerosis",
+      "raw": "Multiple sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "CNS neoplasm",
+      "raw": "CNS neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Amyotrophic lateral sclerosis",
+      "raw": "Amyotrophic lateral sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Bulbar poliomyelitis",
+      "raw": "Bulbar poliomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Cerebrovascular disease",
+      "raw": "Cerebrovascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Huntington chorea",
+      "raw": "Huntington chorea",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioneuromatosis",
+      "raw": "Ganglioneuromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "Friedreich ataxia",
+      "raw": "Friedreich ataxia",
+      "frequency": null
+    },
+    {
+      "name": "Familial dysautonomia",
+      "raw": "Familial dysautonomia (Riley-Day)",
+      "frequency": null
+    },
+    {
+      "name": "Stiff-man syndrome",
+      "raw": "Stiff-man syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Candidiasis › parasitic: Chagas disease › bacterial: TB, diphtheria › viral: Herpes simplex (d)  metabolic disease √  persistent collection of barium in upper third of esophagus √  findings reversed by cholinesterase inhibitor edrophonium (Tensilon®) (i)  neurologic disease"
+}

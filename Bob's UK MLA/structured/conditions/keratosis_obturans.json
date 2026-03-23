@@ -1,0 +1,25 @@
+{
+  "name": "KERATOSIS OBTURANS",
+  "slug": "keratosis_obturans",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/keratosis_obturans.md",
+  "definition": "expansile accumulation of keratin debris within EAC",
+  "demographics": {
+    "Age": "younger patient < 40 years",
+    "Associated with": "chronic sinusitis, bronchiectasis",
+    "Location": "usually bilateral process"
+  },
+  "dominant_finding": "diffuse widening of EAC by epidermal plug",
+  "distribution": "usually bilateral process",
+  "discriminating_features": [
+    "diffuse widening of EAC by epidermal plug",
+    "± smooth scalloping of surrounding bone"
+  ],
+  "other_features": {
+    "general": [
+      "diffuse widening of EAC by epidermal plug",
+      "± smooth scalloping of surrounding bone"
+    ]
+  },
+  "clinical": {}
+}

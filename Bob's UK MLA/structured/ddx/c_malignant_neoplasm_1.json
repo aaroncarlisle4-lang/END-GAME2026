@@ -1,0 +1,52 @@
+{
+  "finding": "C. MALIGNANT NEOPLASM",
+  "slug": "c_malignant_neoplasm_1",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/c_malignant_neoplasm_1.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malignant fibrous histiocytoma",
+      "raw": "Malignant fibrous histiocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Dedifferentiated liposarcoma",
+      "raw": "Dedifferentiated liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma",
+      "raw": "Leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant mesenchymoma",
+      "raw": "Malignant mesenchymoma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant teratoma",
+      "raw": "Malignant teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Extraskeletal osteosarcoma",
+      "raw": "Extraskeletal osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

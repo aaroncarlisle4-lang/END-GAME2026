@@ -1,0 +1,32 @@
+{
+  "finding": "Thymic Mass",
+  "slug": "thymic_mass_cf4df5",
+  "chapter": "THYMUS",
+  "source_file": "processed_clusters/thymus/thymic_mass_cf4df5.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thymoma",
+      "raw": "Thymoma",
+      "frequency": null
+    },
+    {
+      "name": "Thymolipoma",
+      "raw": "Thymolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Thymic cyst",
+      "raw": "Thymic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Thymic carcinoid",
+      "raw": "Thymic carcinoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

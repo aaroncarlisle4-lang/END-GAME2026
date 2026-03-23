@@ -1,0 +1,42 @@
+{
+  "finding": "Congenital Cardiomyopathy",
+  "slug": "congenital_cardiomyopathy",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/congenital_cardiomyopathy.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic medial necrosis of coronary arteries",
+      "raw": "Cystic medial necrosis of coronary arteries",
+      "frequency": null
+    },
+    {
+      "name": "Aberrant left coronary artery / Absent coronary artery",
+      "raw": "Aberrant left coronary artery / Absent coronary artery",
+      "frequency": null
+    },
+    {
+      "name": "Viral myocarditis",
+      "raw": "Viral myocarditis",
+      "frequency": null
+    },
+    {
+      "name": "Endocardial fibroelastosis",
+      "raw": "Endocardial fibroelastosis",
+      "frequency": null
+    },
+    {
+      "name": "Glycogen storage disease",
+      "raw": "Glycogen storage disease (Pompe)",
+      "frequency": null
+    },
+    {
+      "name": "Infant of diabetic mother / Ischemia",
+      "raw": "Infant of diabetic mother / Ischemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "B. ACQUIRED / POSTTRAUMATIC",
+  "slug": "b_acquired_posttraumatic_1096a1",
+  "chapter": "Age peak: 65-75 years; M÷F = 1÷3",
+  "source_file": "processed_clusters/age_peak_65_75_years_mf_13/b_acquired_posttraumatic_1096a1.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fracture of clavicle / 1st rib (34%) with nonanatomic alignment / exuberant callus",
+      "raw": "Fracture of clavicle / 1st rib (34%) with nonanatomic alignment / exuberant callus",
+      "frequency": "34%"
+    },
+    {
+      "name": "Posttraumatic fibrosis of scalene muscles",
+      "raw": "Posttraumatic fibrosis of scalene muscles",
+      "frequency": null
+    },
+    {
+      "name": "Slender body habitus = long neck, sagging / drooping shoulders ← backpacking",
+      "raw": "Slender body habitus = long neck, sagging / drooping shoulders ← backpacking",
+      "frequency": null
+    },
+    {
+      "name": "Muscular body habitus =  arterial compression in pectoralis minor tunnel affecting weight lifter, swimmer, tennis player",
+      "raw": "Muscular body habitus =  arterial compression in pectoralis minor tunnel affecting weight lifter, swimmer, tennis player",
+      "frequency": null
+    },
+    {
+      "name": "Supraclavicular tumor (lipoma, neurogenic tumor) / lymphadenopathy",
+      "raw": "Supraclavicular tumor (lipoma, neurogenic tumor) / lymphadenopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

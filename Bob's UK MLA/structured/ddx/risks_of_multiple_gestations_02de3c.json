@@ -1,0 +1,57 @@
+{
+  "finding": "Risks of Multiple Gestations",
+  "slug": "risks_of_multiple_gestations_02de3c",
+  "chapter": "B. THERAPEUTIC CORDOCENTESIS",
+  "source_file": "processed_clusters/b_therapeutic_cordocentesis/risks_of_multiple_gestations_02de3c.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Placental abruption    3-fold",
+      "raw": "Placental abruption    3-fold",
+      "frequency": null
+    },
+    {
+      "name": "Anemia    2.5-fold",
+      "raw": "Anemia    2.5-fold",
+      "frequency": null
+    },
+    {
+      "name": "Hypertension    2.5-fold",
+      "raw": "Hypertension    2.5-fold",
+      "frequency": null
+    },
+    {
+      "name": "Congenital anomaly    2-3-fold",
+      "raw": "Congenital anomaly    2-3-fold",
+      "frequency": null
+    },
+    {
+      "name": "Preterm delivery    12-fold",
+      "raw": "Preterm delivery    12-fold",
+      "frequency": null
+    },
+    {
+      "name": "Perinatal mortality    4-6-fold ◊  Risk increases with number of fetuses, monozygosity, monochorionicity",
+      "raw": "Perinatal mortality    4-6-fold ◊  Risk increases with number of fetuses, monozygosity, monochorionicity",
+      "frequency": null
+    },
+    {
+      "name": "Perinatal mortality 5-10 times that of singleton pregnancy (91-124÷1,000 births) ›  9% for dichorionic diamniotic twins ›  26% for monochorionic diamniotic twins",
+      "raw": "Perinatal mortality 5-10 times that of singleton pregnancy (91-124÷1,000 births) ›  9% for dichorionic diamniotic twins ›  26% for monochorionic diamniotic twins",
+      "frequency": "9%"
+    },
+    {
+      "name": "Fetal death in utero: 0.5-6.8%; 3 times as often in monochorionic than in dichorionic gestations ◊  50% of twin gestations seen at 10 weeks GA will be singletons at birth!",
+      "raw": "Fetal death in utero: 0.5-6.8%; 3 times as often in monochorionic than in dichorionic gestations ◊  50% of twin gestations seen at 10 weeks GA will be singletons at birth!",
+      "frequency": "6.8%"
+    },
+    {
+      "name": "Increased risk of congenital anomalies: 23÷1,000 births = twice as frequent as in singletons; 3-7 times more frequent in mono- than in dizygotic twins",
+      "raw": "Increased risk of congenital anomalies: 23÷1,000 births = twice as frequent as in singletons; 3-7 times more frequent in mono- than in dizygotic twins",
+      "frequency": "frequent"
+    }
+  ],
+  "criteria": {},
+  "context": "Risk for IUGR in Multiple Gestations monochorionic-monoamniotic > monochorionic-diamniotic > dichorionic-diamniotic Risk for Perinatal Mortality in Multiple Gestations 1% for singletons, 9% for diamniotic dichorionic twins, 26% for diamniotic monochorionic twins, 50% for monoamniotic monochorionic twins Prognosis: ›  50% for monochorionic monoamniotic twins (a)  preterm delivery with birth weight < 2,500 g (b)  IUGR (25-32%; 2nd most common cause of perinatal mortality + morbidity) (c)  amniotic fluid infection (60%) (d)  premature rupture of membranes (11%) (e)  twin-twin transfusion syndrome"
+}

@@ -1,0 +1,77 @@
+{
+  "finding": "FRACTURE",
+  "slug": "fracture",
+  "chapter": "FLORID REACTIVE PERIOSTITIS",
+  "source_file": "processed_clusters/florid_reactive_periostitis/fracture.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "OPEN / CLOSED open Fx =  communication between fractured bone + skin",
+      "raw": "OPEN / CLOSED open Fx =  communication between fractured bone + skin",
+      "frequency": null
+    },
+    {
+      "name": "COMPLETE / INCOMPLETE complete Fx =  all cortical surfaces disrupted incomplete Fx =  partial separation of bone",
+      "raw": "COMPLETE / INCOMPLETE complete Fx =  all cortical surfaces disrupted incomplete Fx =  partial separation of bone",
+      "frequency": null
+    },
+    {
+      "name": "SIMPLE / COMMINUTED simple Fx =  noncomminuted comminuted Fx =  > 2 fragments segmental Fx =  isolated segment of shaft butterfly fragment = V-shaped fragment not completely circumscribed by cortex",
+      "raw": "SIMPLE / COMMINUTED simple Fx =  noncomminuted comminuted Fx =  > 2 fragments segmental Fx =  isolated segment of shaft butterfly fragment = V-shaped fragment not completely circumscribed by cortex",
+      "frequency": null
+    },
+    {
+      "name": "DIRECTION OF FRACTURE LINE relative to long axis of bone:",
+      "raw": "DIRECTION OF FRACTURE LINE relative to long axis of bone:",
+      "frequency": null
+    },
+    {
+      "name": "Acute phase (3-4 weeks) abnormal in 80% < 24 hours, in 95% < 72 hours ◊  Elderly patients show delayed appearance of positive scan",
+      "raw": "Acute phase (3-4 weeks) abnormal in 80% < 24 hours, in 95% < 72 hours ◊  Elderly patients show delayed appearance of positive scan",
+      "frequency": "80%"
+    },
+    {
+      "name": "Subacute phase (2-3 months) = time of most intense tracer accumulation",
+      "raw": "Subacute phase (2-3 months) = time of most intense tracer accumulation",
+      "frequency": null
+    },
+    {
+      "name": "Chronic phase",
+      "raw": "Chronic phase (1-2 years)",
+      "frequency": null
+    },
+    {
+      "name": "Simple fractures: 90% normal by 2 years",
+      "raw": "Simple fractures: 90% normal by 2 years",
+      "frequency": "90%"
+    },
+    {
+      "name": "Open reduction / fixation: < 50% normal by 3 years",
+      "raw": "Open reduction / fixation: < 50% normal by 3 years",
+      "frequency": "50%"
+    },
+    {
+      "name": "Delayed union: slower than normal for type of fracture",
+      "raw": "Delayed union: slower than normal for type of fracture",
+      "frequency": null
+    },
+    {
+      "name": "Nonunion: persistent intense uptake in 80%",
+      "raw": "Nonunion: persistent intense uptake in 80%",
+      "frequency": "80%"
+    },
+    {
+      "name": "Complicated union",
+      "raw": "Complicated union (true pseudarthrosis, soft-tissue interposition, impaired blood supply, presence of infection)",
+      "frequency": null
+    },
+    {
+      "name": "Vertebral compression fractures: 60% normal by 1 year; 90% by 2 years; 97% by 3 years",
+      "raw": "Vertebral compression fractures: 60% normal by 1 year; 90% by 2 years; 97% by 3 years",
+      "frequency": "60%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  soft-tissue injury with break in continuity of bone or cartilage General description: Incomplete pediatric fractures: (a)  longitudinal compressive force: buckle / torus Fx bowing Fx =  plastic deformity of thin long bone (ulna > clavicle, fibula) (b)  force perpendicular to long axis of bone greenstick Fx (c)  combination fracture lead-pipe Fx =  combination of greenstick + torus Fx transverse, oblique, oblique-transverse, spiral Special terminology: avulsion Fx = fragment pulled off by tendon / joint capsule / ligament from parent bone transchondral Fx = cartilaginous surface involved cho"
+}

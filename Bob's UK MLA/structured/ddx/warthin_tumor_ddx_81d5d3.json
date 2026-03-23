@@ -1,0 +1,22 @@
+{
+  "finding": "Warthin Tumor (DDx)",
+  "slug": "warthin_tumor_ddx_81d5d3",
+  "chapter": "Warthin Tumor",
+  "source_file": "processed_clusters/warthin_tumor/warthin_tumor_ddx_81d5d3.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "inflammatory disease",
+      "raw": "inflammatory disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "oval hypoechoic well-defined tumor | frequently multiple anechoic areas | increased vascularity | increased uptake with 99mTc, 201Tl, FDG"
+}

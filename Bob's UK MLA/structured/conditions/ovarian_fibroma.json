@@ -1,0 +1,46 @@
+{
+  "name": "OVARIAN FIBROMA",
+  "slug": "ovarian_fibroma",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/ovarian_fibroma.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "3-4% of all ovarian tumors; bilateral in < 10%",
+    "Age": "4th- 6th decade",
+    "Path": "solid firm white mass",
+    "Histo": "pure mesenchymal tumor consisting of intersecting whorled bundles of spindle-shaped",
+    "Location": "unilateral (common); bilateral in 4-8%"
+  },
+  "dominant_finding": "poor delayed contrast enhancement",
+  "distribution": "unilateral (common); bilateral in 4-8%",
+  "discriminating_features": [
+    "well-circumscribed mass with nonspecific hypo- to isointensity on T1WI",
+    "± cystic degeneration and edema in larger lesions",
+    "calcification + hemorrhage (< 10%)",
+    "well-defined solid homogeneous / slightly heterogeneous mildly hypoattenuating mass",
+    "poor delayed contrast enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "± cystic degeneration and edema in larger lesions",
+      "calcification + hemorrhage (< 10%)"
+    ],
+    "US": [
+      "solid hypoechoic mass with marked sound attenuation",
+      "occasionally hyperechoic / with increased through-transmission"
+    ],
+    "MR": [
+      "well-circumscribed mass with nonspecific hypo- to isointensity on T1WI",
+      "low-SI mass on T2WI less than or equal to myometrium ← abundant collagen content",
+      "scattered high-signal-intensity areas on T2WI (= edema / cystic degeneration)",
+      "delayed mild enhancement with gadolinium"
+    ],
+    "CT": [
+      "well-defined solid homogeneous / slightly heterogeneous mildly hypoattenuating mass",
+      "poor delayed contrast enhancement"
+    ]
+  },
+  "clinical": {
+    "Rx": "may be managed conservatively; rarely recurs after excision"
+  }
+}

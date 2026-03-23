@@ -1,0 +1,77 @@
+{
+  "finding": "B. CONGENITAL AORTIC STENOSIS (most common) = most frequent CHD associated with IUGR",
+  "slug": "b_congenital_aortic_stenosis_most_common_most_frequent_chd_associated_with_iugr_31e0ca",
+  "chapter": "Cause: mural thrombus dispersed by delivery system",
+  "source_file": "processed_clusters/cause_mural_thrombus_dispersed_by_delivery_system/b_congenital_aortic_stenosis_most_common_most_frequent_chd_associated_with_iugr_31e0ca.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Subvalvular AS",
+      "raw": "Subvalvular AS (15-30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Valvular AS",
+      "raw": "Valvular AS (60-70%)",
+      "frequency": "70%"
+    },
+    {
+      "name": "Supravalvular AS",
+      "raw": "Supravalvular AS (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Bicuspid aortic valve → predisposed to early stenosis",
+      "raw": "Bicuspid aortic valve → predisposed to early stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Williams syndrome",
+      "raw": "Williams syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Rubella",
+      "raw": "Rubella",
+      "frequency": null
+    },
+    {
+      "name": "Mucopolysaccharidosis",
+      "raw": "Mucopolysaccharidosis",
+      "frequency": null
+    },
+    {
+      "name": "Hypoplastic left heart syndrome",
+      "raw": "Hypoplastic left heart syndrome",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic for many years",
+      "raw": "asymptomatic for many years (until valve area 1 cm2)",
+      "frequency": null
+    },
+    {
+      "name": "angina, dyspnea, syncope, heart failure, systolic murmur",
+      "raw": "angina, dyspnea, syncope, heart failure, systolic murmur",
+      "frequency": null
+    },
+    {
+      "name": "diminished aortic component of 2nd heart sound",
+      "raw": "diminished aortic component of 2nd heart sound",
+      "frequency": null
+    },
+    {
+      "name": "sudden death in severe stenosis (20%) after exercise (diminished flow in coronary arteries causes ventricular dysrhythmias + fibrillation); carotid pulsus parvus et tardus",
+      "raw": "sudden death in severe stenosis (20%) after exercise (diminished flow in coronary arteries causes ventricular dysrhythmias + fibrillation); carotid pulsus parvus et tardus",
+      "frequency": "20%"
+    }
+  ],
+  "criteria": {},
+  "context": "Location: Cause: Pathogenesis: gradual decrease in valve area → ↑ gradient across valve → ↑ LV afterload LV → hypertrophy and diminished LV compliance; ↑ muscle mass may outstrip coronary blood supply (subendocardial myocardial ischemia with angina → fibrosis); LV decompensation with impaired contractility + compliance → LV dilatation + pulmonary venous congestion Aortic stenosis increases afterload on LV → compensatory LV hypertrophy, which initially minimizes wall stress and maintains cardiac output! √  poststenotic dilatation of ascending aorta (in 90% of acquired, in 70% of congenital AS)"
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "Contrast Extravasation",
+  "slug": "contrast_extravasation",
+  "chapter": "CONTROL OF HEART RATE",
+  "source_file": "processed_clusters/control_of_heart_rate/contrast_extravasation.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "may be asymptomatic; edema, erythema",
+      "raw": "may be asymptomatic; edema, erythema",
+      "frequency": null
+    },
+    {
+      "name": "swelling, tightness, tenderness, stinging, burning pain",
+      "raw": "swelling, tightness, tenderness, stinging, burning pain",
+      "frequency": null
+    },
+    {
+      "name": "Palpate catheter venipuncture site during initial seconds of injection",
+      "raw": "Palpate catheter venipuncture site during initial seconds of injection",
+      "frequency": null
+    },
+    {
+      "name": "Ask patient to report any sensation of pain / swelling at injection site",
+      "raw": "Ask patient to report any sensation of pain / swelling at injection site",
+      "frequency": null
+    },
+    {
+      "name": "Elevate affected extremity / site",
+      "raw": "Elevate affected extremity / site",
+      "frequency": null
+    },
+    {
+      "name": "Apply a warm / cold compress",
+      "raw": "Apply a warm / cold compress",
+      "frequency": null
+    },
+    {
+      "name": "Monitor for a sufficiently long period",
+      "raw": "Monitor for a sufficiently long period",
+      "frequency": null
+    },
+    {
+      "name": "Discharge with instructions to watch for symptoms that indicate a need for surgical evaluation",
+      "raw": "Discharge with instructions to watch for symptoms that indicate a need for surgical evaluation",
+      "frequency": null
+    },
+    {
+      "name": "Initiate surgical consultation for progressive pain / swelling, decreased capillary refill, paresthesia, skin ulceration / blistering",
+      "raw": "Initiate surgical consultation for progressive pain / swelling, decreased capillary refill, paresthesia, skin ulceration / blistering",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  escape of contrast material from vascular lumen + infiltration of interstitial tissue during injection Incidence:  < 1%; no direct correlation with injection flow rate Dx: Severe Cx (uncommon):   compartment syndrome, skin ulceration, tissue necrosis Rx:"
+}

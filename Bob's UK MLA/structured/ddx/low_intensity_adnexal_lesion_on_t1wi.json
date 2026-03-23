@@ -1,0 +1,52 @@
+{
+  "finding": "Low-intensity Adnexal Lesion on T1WI",
+  "slug": "low_intensity_adnexal_lesion_on_t1wi",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/low_intensity_adnexal_lesion_on_t1wi.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibroma",
+      "raw": "Fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrothecoma",
+      "raw": "Fibrothecoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystadenofibroma",
+      "raw": "Cystadenofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Brenner tumor",
+      "raw": "Brenner tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian fibromatosis",
+      "raw": "Ovarian fibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Krukenberg tumor",
+      "raw": "Krukenberg tumor",
+      "frequency": null
+    },
+    {
+      "name": "Wall of chronic pelvic abscess",
+      "raw": "Wall of chronic pelvic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Pedunculated leiomyoma",
+      "raw": "Pedunculated leiomyoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

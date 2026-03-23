@@ -1,0 +1,27 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_20",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/a_benign_20.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mesenteric panniculitis",
+      "raw": "Mesenteric panniculitis",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric lipodystrophy",
+      "raw": "Mesenteric lipodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Retractile mesenteritis",
+      "raw": "Retractile mesenteritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

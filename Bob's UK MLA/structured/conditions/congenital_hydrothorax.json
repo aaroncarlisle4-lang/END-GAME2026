@@ -1,0 +1,23 @@
+{
+  "name": "CONGENITAL HYDROTHORAX",
+  "slug": "congenital_hydrothorax",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/congenital_hydrothorax.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "1÷15,000 pregnancies"
+  },
+  "dominant_finding": "lungs surrounded by fluid collection = hypointense on T1WI + hyperintense on T2WI",
+  "distribution": "",
+  "discriminating_features": [
+    "lungs surrounded by fluid collection = hypointense on T1WI + hyperintense on T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "lungs surrounded by fluid collection = hypointense on T1WI + hyperintense on T2WI"
+    ]
+  },
+  "clinical": {
+    "Rx": "fetal intervention (thoracentesis / thoracoamniotic shunting) reserved for hydrothorax with"
+  }
+}

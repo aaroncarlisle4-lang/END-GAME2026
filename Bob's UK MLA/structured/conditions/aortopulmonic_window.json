@@ -1,0 +1,34 @@
+{
+  "name": "AORTOPULMONIC WINDOW",
+  "slug": "aortopulmonic_window",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/aortopulmonic_window.md",
+  "definition": "AORTOPULMONARY WINDOW large round / oval communication between left wall of ascending aorta + right wall of proximal communication near semilunar valves (70-96%) distal communication near pulmonary bifurcation at level of right pulmonary artery total absence of aortopulmonary septum (5%)",
+  "demographics": {
+    "Prevalence": "0.1% of all CHD",
+    "Associated with": "other congenital cardiac anomalies (in up to 44%)"
+  },
+  "dominant_finding": "cardiomegaly ← LA + LV enlarged",
+  "distribution": "",
+  "discriminating_features": [
+    "shunt vascularity",
+    "cardiomegaly ← LA + LV enlarged",
+    "diminutive aortic knob",
+    "prominent pulmonary trunk ← arterial pHTN",
+    "defect several mm above aortic valve"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "shunt vascularity",
+      "cardiomegaly ← LA + LV enlarged",
+      "diminutive aortic knob",
+      "prominent pulmonary trunk ← arterial pHTN",
+      "defect several mm above aortic valve",
+      "pulmonary valve identified (DDx to truncus arteriosus)"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgery (pulmonary artery flap, pericardial patch); nonsurgical (Amplatzer device"
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "finding": "B. LOW-DENSITY LESION = vessels + parenchyma seen superimposed on lesion",
+  "slug": "b_low_density_lesion_vessels_parenchyma_seen_superimposed_on_lesion_576577",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/b_low_density_lesion_vessels_parenchyma_seen_superimposed_on_lesion_576577.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibroadenoma",
+      "raw": "Fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Galactocele",
+      "raw": "Galactocele",
+      "frequency": null
+    },
+    {
+      "name": "Cystosarcoma phylloides",
+      "raw": "Cystosarcoma phylloides",
+      "frequency": null
+    },
+    {
+      "name": "PSEUDOSTELLATE STRUCTURE =  SUMMATION SHADOW / ARTIFACT caused by fortuitous superimposition of normal fibrous + glandular structures; unveiled by rolled views, spot compression views ± microfocus magnification technique",
+      "raw": "PSEUDOSTELLATE STRUCTURE =  SUMMATION SHADOW / ARTIFACT caused by fortuitous superimposition of normal fibrous + glandular structures; unveiled by rolled views, spot compression views ± microfocus magnification technique",
+      "frequency": null
+    },
+    {
+      "name": "\"BLACK STAR\"",
+      "raw": "\"BLACK STAR\"",
+      "frequency": null
+    },
+    {
+      "name": "Radial scar = sclerosing duct hyperplasia",
+      "raw": "Radial scar = sclerosing duct hyperplasia (86%)",
+      "frequency": "86%"
+    },
+    {
+      "name": "Sclerosing adenosis",
+      "raw": "Sclerosing adenosis",
+      "frequency": null
+    },
+    {
+      "name": "Posttraumatic fat necrosis",
+      "raw": "Posttraumatic fat necrosis (11%)",
+      "frequency": "11%"
+    },
+    {
+      "name": "\"WHITE STAR\"",
+      "raw": "\"WHITE STAR\"",
+      "frequency": null
+    },
+    {
+      "name": "Invasive ductal carcinoma (65%) = scirrhous carcinoma =  desmoplastic reaction + secondary retraction of surrounding structures",
+      "raw": "Invasive ductal carcinoma (65%) = scirrhous carcinoma =  desmoplastic reaction + secondary retraction of surrounding structures",
+      "frequency": "65%"
+    },
+    {
+      "name": "clinical dimensions > mammographic size",
+      "raw": "clinical dimensions > mammographic size",
+      "frequency": null
+    },
+    {
+      "name": "Invasive lobular carcinoma",
+      "raw": "Invasive lobular carcinoma (21%)",
+      "frequency": "21%"
+    },
+    {
+      "name": "palpable mass",
+      "raw": "palpable mass",
+      "frequency": null
+    },
+    {
+      "name": "Tubular carcinoma",
+      "raw": "Tubular carcinoma (9%)",
+      "frequency": "9%"
+    },
+    {
+      "name": "Other (5%) (b)  benign lesions",
+      "raw": "Other (5%) (b)  benign lesions",
+      "frequency": "5%"
+    },
+    {
+      "name": "Postoperative scar",
+      "raw": "Postoperative scar",
+      "frequency": null
+    },
+    {
+      "name": "correlation with history + site of biopsy",
+      "raw": "correlation with history + site of biopsy",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative hematoma",
+      "raw": "Postoperative hematoma",
+      "frequency": null
+    },
+    {
+      "name": "clinical information",
+      "raw": "clinical information",
+      "frequency": null
+    },
+    {
+      "name": "Breast abscess",
+      "raw": "Breast abscess",
+      "frequency": null
+    },
+    {
+      "name": "clinical information",
+      "raw": "clinical information",
+      "frequency": null
+    },
+    {
+      "name": "Hyalinized fibroadenoma with fibrosis",
+      "raw": "Hyalinized fibroadenoma with fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Granular cell myoblastoma",
+      "raw": "Granular cell myoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis",
+      "raw": "Fibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Extra-abdominal desmoid",
+      "raw": "Extra-abdominal desmoid",
+      "frequency": null
+    },
+    {
+      "name": "Summation shadow",
+      "raw": "Summation shadow",
+      "frequency": null
+    },
+    {
+      "name": "Tumor",
+      "raw": "Tumor (malignant)",
+      "frequency": null
+    },
+    {
+      "name": "Abscess [Radial scar]",
+      "raw": "Abscess",
+      "frequency": null,
+      "sites": [
+        "Radial scar"
+      ]
+    },
+    {
+      "name": "Fibroadenoma (hyalinized), Fat necrosis",
+      "raw": "Fibroadenoma (hyalinized), Fat necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Adenosis",
+      "raw": "Adenosis (sclerosing)",
+      "frequency": null
+    },
+    {
+      "name": "Scar",
+      "raw": "Scar (postoperative)",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma (postoperative)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Stellate / Spiculated Breast Lesion =  mass / architectural distortion characterized by thin lines radiating from its margins ›  The majority of invasive breast cancers are stellate (stellate÷circular = 65÷35) ›  93% of all stellate lesions are malignant Risk of malignancy: ›  75% for nonpalpable spiculated masses ›  32% for nonpalpable irregular masses √  groups of fine straight / curvilinear fibrous strands bunched together like a broom √  circular / oval lucencies within center √  change in appearance from view to view √  individual straight dense spicules √  central solid tumor mass √  lit"
+}

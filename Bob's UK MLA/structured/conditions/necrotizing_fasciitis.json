@@ -1,0 +1,38 @@
+{
+  "name": "NECROTIZING FASCIITIS",
+  "slug": "necrotizing_fasciitis",
+  "chapter": "MORTON NEUROMA",
+  "source_file": "processed_clusters/disease_entries/morton_neuroma/necrotizing_fasciitis.md",
+  "definition": "progressive rapidly spreading infection of deep fascia → secondary necrosis of SQ tissue",
+  "demographics": {
+    "Prevalence": "500 cases in literature",
+    "Age": "58 ± 14 years; M> F",
+    "Histo": "necrotic superficial fascia, leukocytic infiltration of deep fascial layers; fibrinoid"
+  },
+  "dominant_finding": "asymmetric fascial thickening with fat stranding (80%) ← fluid",
+  "distribution": "",
+  "discriminating_features": [
+    "image findings similar to cellulitis but more severe with involvement of deeper structures",
+    "asymmetric fascial thickening with fat stranding (80%) ← fluid",
+    "fluid collections along deep fascial sheaths",
+    "gas in soft-tissues dissecting along fascial planes ← gas-forming organisms (in 55%)",
+    "associated deep abscess (35%)"
+  ],
+  "other_features": {
+    "general": [
+      "image findings similar to cellulitis but more severe with involvement of deeper structures",
+      "asymmetric fascial thickening with fat stranding (80%) ← fluid",
+      "fluid collections along deep fascial sheaths",
+      "gas in soft-tissues dissecting along fascial planes ← gas-forming organisms (in 55%)",
+      "associated deep abscess (35%)",
+      "± secondary muscle involvement:",
+      "extension of edema into intermuscular septa and muscles",
+      "no demonstrable enhancement of fascia ← necrosis"
+    ]
+  },
+  "clinical": {
+    "N.B.": "life-threatening surgical emergency!",
+    "Prognosis": "poor with delay in diagnosis ← progresses rapidly; morbidity and mortality rate of",
+    "Rx": "extensive surgical débridement + antibiotics"
+  }
+}

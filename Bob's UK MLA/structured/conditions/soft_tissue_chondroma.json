@@ -1,0 +1,51 @@
+{
+  "name": "SOFT-TISSUE CHONDROMA",
+  "slug": "soft_tissue_chondroma",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/soft_tissue_chondroma.md",
+  "definition": "EXTRASKELETAL CHONDROMA = CHONDROMA OF SOFT PARTS rare benign cartilage-forming tumor in extraarticular soft tissue consisting of small nodule of benign hyaline cartilage tumor akin to enchondroma",
+  "demographics": {
+    "Frequency": "1.5% of all benign soft-tissue tumors",
+    "Age": "30-60 (range, 1-85) years; M÷F = 1.2÷1",
+    "Histo": "lobules of adult-type hyaline cartilage with areas of calcification + ossification; myxoid",
+    "Location": "metaphyseal surface of long bones"
+  },
+  "dominant_finding": "typically punctate / curvilinear / ringlike chondroid calcifications (in 33-70%)",
+  "distribution": "metaphyseal surface of long bones",
+  "discriminating_features": [
+    "lobulated well-defined extraskeletal mass < 2 cm in size",
+    "may contain calcifications (33-70%) with ringlike appearance / ossifications",
+    "scalloping of adjacent bone with sclerotic reaction",
+    "circumscribed heterogeneously enhancing mass",
+    "typically punctate / curvilinear / ringlike chondroid calcifications (in 33-70%)"
+  ],
+  "other_features": {
+    "general": [
+      "lobulated well-defined extraskeletal mass < 2 cm in size",
+      "may contain calcifications (33-70%) with ringlike appearance / ossifications",
+      "scalloping of adjacent bone with sclerotic reaction"
+    ],
+    "CT": [
+      "circumscribed heterogeneously enhancing mass",
+      "typically punctate / curvilinear / ringlike chondroid calcifications (in 33-70%)"
+    ],
+    "US": [
+      "well-defined heterogeneously hypoechoic mass",
+      "salient vascularity in subungual area"
+    ],
+    "MR": [
+      "multilobulated mass of high signal intensity on T2WI",
+      "low to intermediate SI relative to muscle on T1WI",
+      "conspicuous peripheral / septal contrast enhancement",
+      "radiolucent lesion with variable degrees of chondroid matrix calcifications",
+      "cortical excavation of tissue forming shallow shelving depression = saucerization ← local",
+      "well-formed periosteal reaction",
+      "round mass with hyperintense T2 signal ← high water content of chondroid matrix",
+      "adjacent marrow edema (uncommon)"
+    ]
+  },
+  "clinical": {
+    "Rx": "local excision",
+    "Prognosis": "15-25% recurrence rate"
+  }
+}

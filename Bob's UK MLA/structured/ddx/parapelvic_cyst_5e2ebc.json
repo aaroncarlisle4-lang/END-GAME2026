@@ -1,0 +1,42 @@
+{
+  "finding": "Parapelvic Cyst",
+  "slug": "parapelvic_cyst_5e2ebc",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/parapelvic_cyst_5e2ebc.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hematuria ← cyst rupture",
+      "raw": "hematuria ← cyst rupture",
+      "frequency": null
+    },
+    {
+      "name": "pain ← obstructive caliectasis / infection",
+      "raw": "pain ← obstructive caliectasis / infection",
+      "frequency": null
+    },
+    {
+      "name": "renovascular hypertension ← compression of renal arteries",
+      "raw": "renovascular hypertension ← compression of renal arteries",
+      "frequency": null
+    },
+    {
+      "name": "Caliectasis / localized hydronephrosis) ← compression of collecting system",
+      "raw": "Caliectasis / localized hydronephrosis) ← compression of collecting system",
+      "frequency": null
+    },
+    {
+      "name": "hypertension ← compression of renal artery",
+      "raw": "hypertension ← compression of renal artery",
+      "frequency": null
+    },
+    {
+      "name": "infection, hemorrhage",
+      "raw": "infection, hemorrhage",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  protrusion of medial parenchymal cyst into sinus fat Histo:  lined with single epithelial layer Location:   usually single unilateral cyst, may be multiple √  simple cortical renal cyst that extends into renal sinus fat Cx: Rx:  cyst ablation with 95% ethanol if symptomatic"
+}

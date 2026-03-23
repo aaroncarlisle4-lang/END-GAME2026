@@ -1,0 +1,157 @@
+{
+  "finding": "B. INTRINSIC TO WALL (a) benign neoplastic mass",
+  "slug": "b_intrinsic_to_wall_a_benign_neoplastic_mass",
+  "chapter": "G. GLANDULAR ENLARGEMENT",
+  "source_file": "processed_clusters/g_glandular_enlargement/b_intrinsic_to_wall_a_benign_neoplastic_mass.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Hamartoma",
+      "raw": "Hamartoma (Peutz-Jeghers syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Prolapsed antral polyp",
+      "raw": "Prolapsed antral polyp",
+      "frequency": null
+    },
+    {
+      "name": "Brunner gland adenoma",
+      "raw": "Brunner gland adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Villous adenoma",
+      "raw": "Villous adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Islet cell tumor",
+      "raw": "Islet cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Gangliocytic paraganglioma (b)  malignant neoplastic mass",
+      "raw": "Gangliocytic paraganglioma (b)  malignant neoplastic mass",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Ampullary cancer",
+      "raw": "Ampullary cancer",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: stomach, pancreas, gallbladder, colon, kidney, melanoma",
+      "raw": "Metastasis: stomach, pancreas, gallbladder, colon, kidney, melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal lymph node involvement (c)  nonneoplastic mass",
+      "raw": "Retroperitoneal lymph node involvement (c)  nonneoplastic mass",
+      "frequency": null
+    },
+    {
+      "name": "Papilla of Vater",
+      "raw": "Papilla of Vater",
+      "frequency": null
+    },
+    {
+      "name": "Choledochocele",
+      "raw": "Choledochocele",
+      "frequency": null
+    },
+    {
+      "name": "Duplication cyst",
+      "raw": "Duplication cyst",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal varix",
+      "raw": "Duodenal varix",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric artery collaterals",
+      "raw": "Mesenteric artery collaterals",
+      "frequency": null
+    },
+    {
+      "name": "Intramural hematoma",
+      "raw": "Intramural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory mass: adjacent abscess, stitch abscess",
+      "raw": "Inflammatory mass: adjacent abscess, stitch abscess",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic pancreas, heterotopic gastric mucosa",
+      "raw": "Ectopic pancreas, heterotopic gastric mucosa",
+      "frequency": null
+    },
+    {
+      "name": "Prolapsed antral mucosa",
+      "raw": "Prolapsed antral mucosa",
+      "frequency": null
+    },
+    {
+      "name": "Brunner gland hyperplasia",
+      "raw": "Brunner gland hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Benign lymphoid hyperplasia",
+      "raw": "Benign lymphoid hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Flexural pseudopolyp",
+      "raw": "Flexural pseudopolyp",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

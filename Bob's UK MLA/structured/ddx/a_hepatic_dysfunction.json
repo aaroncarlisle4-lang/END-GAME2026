@@ -1,0 +1,42 @@
+{
+  "finding": "A. HEPATIC DYSFUNCTION",
+  "slug": "a_hepatic_dysfunction",
+  "chapter": "Colloid Shift",
+  "source_file": "processed_clusters/colloid_shift/a_hepatic_dysfunction.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cirrhosis",
+      "raw": "Cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Hepatitis",
+      "raw": "Hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic passive congestion",
+      "raw": "Chronic passive congestion",
+      "frequency": null
+    },
+    {
+      "name": "AUGMENTED PERFUSION of spleen + bone marrow",
+      "raw": "AUGMENTED PERFUSION of spleen + bone marrow",
+      "frequency": null
+    },
+    {
+      "name": "Hematopoietic disorders",
+      "raw": "Hematopoietic disorders",
+      "frequency": null
+    },
+    {
+      "name": "Long-term corticosteroid therapy",
+      "raw": "Long-term corticosteroid therapy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

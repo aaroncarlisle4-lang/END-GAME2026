@@ -1,0 +1,128 @@
+{
+  "finding": "CNS Tumors in Pediatric Age Group",
+  "slug": "cns_tumors_in_pediatric_age_group_cf112c",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/cns_tumors_in_pediatric_age_group_cf112c.md",
+  "quality_score": 1.0,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "increased intracranial pressure",
+      "raw": "increased intracranial pressure",
+      "frequency": null
+    },
+    {
+      "name": "increasing head size",
+      "raw": "increasing head size",
+      "frequency": null
+    },
+    {
+      "name": "SUPRATENTORIAL",
+      "raw": "SUPRATENTORIAL (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Incidence of Brain Tumors",
+      "raw": "Incidence of Brain Tumors",
+      "frequency": null
+    },
+    {
+      "name": "All Age Groups",
+      "raw": "All Age Groups",
+      "frequency": null
+    },
+    {
+      "name": "Pediatric Age Group",
+      "raw": "Pediatric Age Group",
+      "frequency": null
+    },
+    {
+      "name": "Glioma",
+      "raw": "Glioma",
+      "frequency": null
+    },
+    {
+      "name": "Differences of Some Pediatric CNS Tumors",
+      "raw": "Differences of Some Pediatric CNS Tumors",
+      "frequency": null
+    },
+    {
+      "name": "PNET",
+      "raw": "PNET",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Astrocytoma",
+      "raw": "Astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "INFRATENTORIAL",
+      "raw": "INFRATENTORIAL (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Brainstem glioma",
+      "raw": "Brainstem glioma",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "AVM",
+      "raw": "AVM",
+      "frequency": null
+    },
+    {
+      "name": "Cystic astrocytoma",
+      "raw": "Cystic astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioblastoma",
+      "raw": "Hemangioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Other",
+      "raw": "Other",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "increased intracranial pressure": [],
+    "increasing head size": [],
+    "SUPRATENTORIAL": [],
+    "Incidence of Brain Tumors": [
+      "Prevalence: 2.4÷100,000 (< 15 years of age); 2nd most common pediatric tumor (after leukemia); 15% of all pediatric neoplasms; 15-20% of all primary brain tumors; M > F Age:   first 2-3 years of life Covering of brain : dural sarcoma, schwannoma, meningioma (3%) Cerebral hemisphere : astrocytoma (37%), oligodendroglioma Corpus callosum : astrocytoma 3rd ventricle : colloid cyst, ependymoma Lateral ventricle : ependymoma (5%), choroid plexus papilloma (12%) Optic chiasm : craniopharyngioma (12%), optic nerve glioma (13%), teratoma, pituitary adenoma Hypothalamus : glioma (8%), hamartoma Pineal"
+    ],
+    "All Age Groups": [],
+    "Pediatric Age Group": [],
+    "Glioma": [],
+    "Differences of Some Pediatric CNS Tumors": [],
+    "PNET": [],
+    "Ependymoma": [],
+    "Astrocytoma": [],
+    "INFRATENTORIAL": [],
+    "Brainstem glioma": [],
+    "Medulloblastoma": [],
+    "AVM": [],
+    "Cystic astrocytoma": [],
+    "Hemangioblastoma": [],
+    "Other": []
+  },
+  "context": "Prevalence: 2.4÷100,000 (< 15 years of age); 2nd most common pediatric tumor (after leukemia); 15% of all pediatric neoplasms; 15-20% of all primary brain tumors; M > F Age:   first 2-3 years of life Covering of brain : dural sarcoma, schwannoma, meningioma (3%) Cerebral hemisphere : astrocytoma (37%), oligodendroglioma Corpus callosum : astrocytoma 3rd ventricle : colloid cyst, ependymoma Lateral ventricle : ependymoma (5%), choroid plexus papilloma (12%) Optic chiasm : craniopharyngioma (12%), optic nerve glioma (13%), teratoma, pituitary adenoma Hypothalamus : glioma (8%), hamartoma Pineal"
+}

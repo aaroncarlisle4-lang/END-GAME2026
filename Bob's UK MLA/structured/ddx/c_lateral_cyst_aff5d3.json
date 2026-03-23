@@ -1,0 +1,37 @@
+{
+  "finding": "C. LATERAL CYST",
+  "slug": "c_lateral_cyst_aff5d3",
+  "chapter": "PROSTATE",
+  "source_file": "processed_clusters/prostate/c_lateral_cyst_aff5d3.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Prostatic retention cyst",
+      "raw": "Prostatic retention cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cystic degeneration of BPH",
+      "raw": "Cystic degeneration of BPH",
+      "frequency": null
+    },
+    {
+      "name": "Cystic carcinoma of prostate / multilocular prostatic cystadenoma, papillary adenocarcinoma",
+      "raw": "Cystic carcinoma of prostate / multilocular prostatic cystadenoma, papillary adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhagic aspirate!",
+      "raw": "hemorrhagic aspirate!",
+      "frequency": null
+    },
+    {
+      "name": "Cyst associated with infection",
+      "raw": "Cyst associated with infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  solid tissue invaginating into cyst (a)  Cavitary / diverticular prostatitis (b)  Prostatic abscess (c)  Parasitic cyst (Echinococcus, bilharziasis)"
+}

@@ -1,0 +1,54 @@
+{
+  "name": "ESOPHAGEAL TRAUMA",
+  "slug": "esophageal_trauma",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/esophageal_trauma.md",
+  "definition": "SUBMUCOSAL DISSECTION = INTRAMURAL RUPTURE OF ESOPHAGUS = DISSECTING mucosal tear with dissecting hemorrhage into submucosa + involvement of venous plexus ESOPHAGEAL PERFORATION = ESOPHAGEAL RUPTURE",
+  "demographics": {
+    "Frequency": "1% of all blunt chest trauma",
+    "Age": "middle-aged; M < F",
+    "Location": "usually posterior"
+  },
+  "dominant_finding": "symmetric / asymmetric esophageal wall thickening",
+  "distribution": "usually posterior",
+  "discriminating_features": [
+    "well-defined focal filling defect = intramural hematoma simulating retained solid material",
+    "luminal narrowing of the esophagus",
+    "\"double-barrel esophagus\" = mucosal flap with submucosal distribution of gas / contrast",
+    "\"mucosal stripe\" sign = dissected mucosa floating within lumen",
+    "eccentric / concentric nonenhancing hyperattenuating mass within esophageal wall"
+  ],
+  "other_features": {
+    "general": [
+      "well-defined focal filling defect = intramural hematoma simulating retained solid material",
+      "luminal narrowing of the esophagus",
+      "\"double-barrel esophagus\" = mucosal flap with submucosal distribution of gas / contrast",
+      "\"mucosal stripe\" sign = dissected mucosa floating within lumen",
+      "eccentric / concentric nonenhancing hyperattenuating mass within esophageal wall"
+    ],
+    "CT": [
+      "symmetric / asymmetric esophageal wall thickening",
+      "well-defined nonenhancing intramural esophageal mass of high attenuation",
+      "extensive pneumomediastinum",
+      "\"V\" sign of Naclerio = extrapleural air within lower mediastinum between parietal",
+      "subcutaneous emphysema of the neck",
+      "delayed widening of the mediastinum ← mediastinitis",
+      "hydrothorax (after rupture into pleural cavity), usually unilateral on left side",
+      "hydropneumothorax (often initially missed)",
+      "left lower lobe atelectasis",
+      "confirmation with contrast study (90% of contrast esophagrams are positive)",
+      "extravasation of oral contrast material into mediastinum ± pleural space",
+      "focal extraluminal air collection at site of tear (92%; most useful sign)",
+      "periesophageal / mediastinal hematoma / fluid (92%)",
+      "pleural effusion (75%)",
+      "esophageal wall thickening",
+      "widening of upper mediastinum",
+      "right-sided hydrothorax",
+      "left-sided hydrothorax",
+      "little mediastinal changes"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "progression to frank esophageal rupture / resolution within a few weeks"
+  }
+}

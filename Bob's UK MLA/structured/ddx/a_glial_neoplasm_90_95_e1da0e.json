@@ -1,0 +1,27 @@
+{
+  "finding": "A. GLIAL NEOPLASM (90-95%",
+  "slug": "a_glial_neoplasm_90_95_e1da0e",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/a_glial_neoplasm_90_95_e1da0e.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ependymoma 60%",
+      "raw": "Ependymoma 60%",
+      "frequency": "60%"
+    },
+    {
+      "name": "Astrocytoma 33%",
+      "raw": "Astrocytoma 33%",
+      "frequency": "33%"
+    },
+    {
+      "name": "Ganglioglioma 1%",
+      "raw": "Ganglioglioma 1%",
+      "frequency": "1%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

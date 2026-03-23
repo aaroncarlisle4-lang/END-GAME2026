@@ -1,0 +1,32 @@
+{
+  "name": "OVARIAN FIBROMATOSIS",
+  "slug": "ovarian_fibromatosis",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/ovarian_fibromatosis.md",
+  "definition": "rare benign condition causing tumorlike enlargement of ovaries related to massive ovarian",
+  "demographics": {},
+  "dominant_finding": "\"black garland\" on T2WI ← fibrous tissue encasing peripheral aspect of ovary",
+  "distribution": "\"black garland\" on T2WI ← fibrous tissue encasing peripheral aspect of ovary",
+  "discriminating_features": [
+    "nonspecific enlargement of ovaries",
+    "at least partial preservation of ovarian anatomy",
+    "hypointense areas on T1WI + T2WI",
+    "\"black garland\" on T2WI ← fibrous tissue encasing peripheral aspect of ovary",
+    "enlarged heterogeneously echogenic ovary with areas of acoustic shadowing"
+  ],
+  "other_features": {
+    "general": [
+      "nonspecific enlargement of ovaries",
+      "at least partial preservation of ovarian anatomy"
+    ],
+    "US": [
+      "enlarged heterogeneously echogenic ovary with areas of acoustic shadowing",
+      "low flow at Doppler imaging"
+    ],
+    "MR": [
+      "hypointense areas on T1WI + T2WI",
+      "\"black garland\" on T2WI ← fibrous tissue encasing peripheral aspect of ovary"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Benign Tumor of Spine with Soft-tissue Extension",
+  "slug": "benign_tumor_of_spine_with_soft_tissue_extension_417def",
+  "chapter": "Average age: 4th decade; M > F",
+  "source_file": "processed_clusters/average_age_4th_decade_m_f/benign_tumor_of_spine_with_soft_tissue_extension_417def.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Aggressive hemangioma",
+      "raw": "Aggressive hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

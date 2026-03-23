@@ -1,0 +1,33 @@
+{
+  "name": "HYBRID PET/CT IMAGING",
+  "slug": "hybrid_petct_imaging",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/hybrid_petct_imaging.md",
+  "definition": "combination of high-resolution PET scanner + CT scanner allows acquisition of 3- histologically heterogeneous group of cancers derived from cells of immune system",
+  "demographics": {
+    "Prevalence": "5% of all cancers in USA",
+    "Location": "skin, stomach, small intestine (most common)"
+  },
+  "dominant_finding": "enlargement of lymph nodes / secondary lymphoid tissues",
+  "distribution": "skin, stomach, small intestine (most common)",
+  "discriminating_features": [
+    "enlargement of lymph nodes / secondary lymphoid tissues",
+    "may arise from almost any organ = extranodal lymphoma",
+    "uptake lower for indolent compared to aggressive lymphoma (SUV > 10 likely to",
+    "aggressive transformation (= change from low-grade to high-grade lymphoma) in 5-",
+    "splenic > hepatic uptake indicates splenic involvement"
+  ],
+  "other_features": {
+    "general": [
+      "enlargement of lymph nodes / secondary lymphoid tissues",
+      "may arise from almost any organ = extranodal lymphoma",
+      "uptake lower for indolent compared to aggressive lymphoma (SUV > 10 likely to",
+      "aggressive transformation (= change from low-grade to high-grade lymphoma) in 5-",
+      "splenic > hepatic uptake indicates splenic involvement",
+      "heterogeneous scattered uptake in bone marrow involvement"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "6.0÷100,000 (= 20,150) deaths annually in 2013"
+  }
+}

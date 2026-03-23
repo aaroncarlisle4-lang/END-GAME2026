@@ -1,0 +1,36 @@
+{
+  "name": "TEMPOROMANDIBULAR JOINT",
+  "slug": "temporomandibular_joint",
+  "chapter": "NECK",
+  "source_file": "processed_clusters/disease_entries/neck/temporomandibular_joint.md",
+  "definition": "",
+  "demographics": {
+    "Location": "between mandibular condyle and temporal bone component of TMJ"
+  },
+  "dominant_finding": "lies immediately in front of condyle + junction of bilaminar zone",
+  "distribution": "between mandibular condyle and temporal bone component of TMJ",
+  "discriminating_features": [
+    "lies immediately in front of condyle + junction of bilaminar zone",
+    "may form bulge (? normal variant)",
+    "lies at superior part of the condyle",
+    "best depicted in open-mouth position",
+    "thick posterior band of meniscus lies immediately above condyle near 12 o'clock position"
+  ],
+  "other_features": {
+    "general": [
+      "lies immediately in front of condyle + junction of bilaminar zone",
+      "may form bulge (? normal variant)",
+      "lies at superior part of the condyle",
+      "best depicted in open-mouth position",
+      "best depicted in open-mouth position",
+      "thick posterior band of meniscus lies immediately above condyle near 12 o'clock position",
+      "junction of posterior band + bilaminar zone should fall within 10° of vertical",
+      "best depiction of posterior band + retrodiskal tissue",
+      "anterior band lies immediately in front of condyle + junction of bilaminar zone",
+      "condyle may lie beneath anterior band of meniscus when mouth is fully opened",
+      "disk lies at superior part of condyle",
+      "anterior band may be seen as a bulge"
+    ]
+  },
+  "clinical": {}
+}

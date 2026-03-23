@@ -1,0 +1,42 @@
+{
+  "finding": "RECTUM",
+  "slug": "rectum",
+  "chapter": "COLON",
+  "source_file": "processed_clusters/colon/rectum.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Origin:   derived from fetal hindgut",
+      "raw": "Origin:   derived from fetal hindgut",
+      "frequency": null
+    },
+    {
+      "name": "Boundaries:   sigmoid colon and anus",
+      "raw": "Boundaries:   sigmoid colon and anus",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal investment:  proximal portion only",
+      "raw": "Peritoneal investment:  proximal portion only",
+      "frequency": null
+    },
+    {
+      "name": "Blood supply:   superior + middle hemorrhoidal arteries",
+      "raw": "Blood supply:   superior + middle hemorrhoidal arteries",
+      "frequency": null
+    },
+    {
+      "name": "liver metastasis ← via IMV + portal venous system / via endolymphatic spread along course of IMV",
+      "raw": "liver metastasis ← via IMV + portal venous system / via endolymphatic spread along course of IMV",
+      "frequency": null
+    },
+    {
+      "name": "lung metastasis ← via internal iliac veins + IVC",
+      "raw": "lung metastasis ← via internal iliac veins + IVC",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  last segment of GI tract Venous drainage: ›  proximal rectum: drained by inferior mesenteric vein ›  distal rectum + anorectal junction: drained by internal iliac / inferior mesenteric vein (IMV) ◊  2 hematogenous metastatic patterns of rectal cancer: Rectosigmoid junction: superior aspect of rectum = line formed by confluence of taeniae coli muscles on serosal surface of sigmoid (surgical definition); less precise: sacral promontory / peritoneal reflection endoscopically: extension to 12 cm above anal verge Anorectal junction:   inferior aspect of rectum corresponding to dentate line (anat"
+}

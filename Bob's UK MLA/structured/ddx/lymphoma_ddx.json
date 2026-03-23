@@ -1,0 +1,32 @@
+{
+  "finding": "Lymphoma (DDx)",
+  "slug": "lymphoma_ddx",
+  "chapter": "Lymphoma",
+  "source_file": "processed_clusters/lymphoma/lymphoma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastases",
+      "raw": "metastases",
+      "frequency": null
+    },
+    {
+      "name": "primary cancer",
+      "raw": "primary cancer",
+      "frequency": null
+    },
+    {
+      "name": "infection",
+      "raw": "infection",
+      "frequency": null
+    },
+    {
+      "name": "granulomatous disease",
+      "raw": "granulomatous disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± bull's-eye appearance | absence of posterior acoustic enhancement | nodules of low to intermediate SI on T1WI + moderately high SI on T2WI | moderate uniform contrast enhancement"
+}

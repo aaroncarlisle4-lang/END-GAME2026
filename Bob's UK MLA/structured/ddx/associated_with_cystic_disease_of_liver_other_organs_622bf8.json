@@ -1,0 +1,37 @@
+{
+  "finding": "Associated with: cystic disease of liver / other organs",
+  "slug": "associated_with_cystic_disease_of_liver_other_organs_622bf8",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/associated_with_cystic_disease_of_liver_other_organs_622bf8.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Autosomal dominant polycystic kidney disease",
+      "raw": "Autosomal dominant polycystic kidney disease (ADPKD); autoptic liver (pancreatic) cysts in 90% (9%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Von Hippel-Lindau disease pancreatic cysts in 72%",
+      "raw": "Von Hippel-Lindau disease pancreatic cysts in 72% (25%) at autopsy (CT)",
+      "frequency": "72%"
+    },
+    {
+      "name": "Beckwith-Wiedemann syndrome",
+      "raw": "Beckwith-Wiedemann syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Meckel-Gruber syndrome",
+      "raw": "Meckel-Gruber syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  nearly always associated with renal cysts √  renal involvement in all cases"
+}

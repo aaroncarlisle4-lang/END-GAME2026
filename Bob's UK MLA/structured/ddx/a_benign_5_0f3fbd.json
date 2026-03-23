@@ -1,0 +1,32 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_5_0f3fbd",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/a_benign_5_0f3fbd.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor (2nd most common primary)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Cavernous hemangioma",
+      "raw": "Cavernous hemangioma (very rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Osteoid osteoma / osteoblastoma",
+      "raw": "Osteoid osteoma / osteoblastoma (very rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

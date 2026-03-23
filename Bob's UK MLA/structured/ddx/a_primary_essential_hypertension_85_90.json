@@ -1,0 +1,112 @@
+{
+  "finding": "A. PRIMARY / ESSENTIAL HYPERTENSION (85-90%",
+  "slug": "a_primary_essential_hypertension_85_90",
+  "chapter": "Nephrogenic Diabetes Insipidus",
+  "source_file": "processed_clusters/nephrogenic_diabetes_insipidus/a_primary_essential_hypertension_85_90.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "SECONDARY HYPERTENSION (a)  Renal parenchymal disease (5-10%) (b)  Potentially curable secondary hypertension (1-2%) ›  vascular",
+      "raw": "SECONDARY HYPERTENSION (a)  Renal parenchymal disease (5-10%) (b)  Potentially curable secondary hypertension (1-2%) ›  vascular",
+      "frequency": "10%"
+    },
+    {
+      "name": "Renovascular disease  0.18-4.4%",
+      "raw": "Renovascular disease  0.18-4.4%",
+      "frequency": "4.4%"
+    },
+    {
+      "name": "Coarctation  0.6% ›  hormonal",
+      "raw": "Coarctation  0.6% ›  hormonal",
+      "frequency": "0.6%"
+    },
+    {
+      "name": "Pheochromocytoma  0.04-0.2%",
+      "raw": "Pheochromocytoma  0.04-0.2%",
+      "frequency": "0.2%"
+    },
+    {
+      "name": "Cushing syndrome  0.3%",
+      "raw": "Cushing syndrome  0.3%",
+      "frequency": "0.3%"
+    },
+    {
+      "name": "Primary aldosteronism  0.01-0.4%",
+      "raw": "Primary aldosteronism  0.01-0.4%",
+      "frequency": "0.4%"
+    },
+    {
+      "name": "Hyperthyroidism",
+      "raw": "Hyperthyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Myxedema ›  renal",
+      "raw": "Myxedema ›  renal",
+      "frequency": null
+    },
+    {
+      "name": "Unilateral renal disease",
+      "raw": "Unilateral renal disease",
+      "frequency": null
+    },
+    {
+      "name": "Atherosclerosis (60-90%) in individuals > 50 years",
+      "raw": "Atherosclerosis (60-90%) in individuals > 50 years",
+      "frequency": "90%"
+    },
+    {
+      "name": "Fibromuscular dysplasia (10-35%) in women < 40 years",
+      "raw": "Fibromuscular dysplasia (10-35%) in women < 40 years",
+      "frequency": "35%"
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous bands: congenital stenosis, retroperitoneal fibrosis, postradiation artery stenosis",
+      "raw": "Fibrous bands: congenital stenosis, retroperitoneal fibrosis, postradiation artery stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Arteritis: Buerger disease, polyarteritis nodosa, Takayasu disease, thrombangiitis obliterans, syphilitic arteritis",
+      "raw": "Arteritis: Buerger disease, polyarteritis nodosa, Takayasu disease, thrombangiitis obliterans, syphilitic arteritis",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformation / fistula",
+      "raw": "Arteriovenous malformation / fistula",
+      "frequency": null
+    },
+    {
+      "name": "renin-mediated hypertension ← renal ischemia distal to fistula",
+      "raw": "renin-mediated hypertension ← renal ischemia distal to fistula",
+      "frequency": null
+    },
+    {
+      "name": "Thromboembolic disease: eg, atrial fibrillation, prosthetic valve thrombi, cardiac myxoma, paradoxical emboli, atheromatous emboli",
+      "raw": "Thromboembolic disease: eg, atrial fibrillation, prosthetic valve thrombi, cardiac myxoma, paradoxical emboli, atheromatous emboli",
+      "frequency": null
+    },
+    {
+      "name": "Renal artery aneurysm",
+      "raw": "Renal artery aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic compression: eg, renal cyst, neoplasm, chronic subcapsular hematoma (=",
+      "raw": "Extrinsic compression: eg, renal cyst, neoplasm, chronic subcapsular hematoma (=",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Renovascular Hypertension =  normalization of blood pressure following nephrectomy / reestablishment of normal renal blood flow (Diagnosis made in retrospect) Prevalence:   1-5% of general population; 2nd most common cause of potentially curable hypertension Pathophysiology: usually > 50% stenosis at any level in renovascular bed → mildly reduced pressure in glomerular afferent arteriole (pressure falls precipitously in > 80% stenosis); reduced pressure → stimulates release of renin → followed by angiotensin-II and aldosterone causing (a)  constriction of efferent glomerular arterioles (b)  in"
+}

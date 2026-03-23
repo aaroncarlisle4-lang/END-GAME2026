@@ -1,0 +1,37 @@
+{
+  "finding": "A. TUMOR",
+  "slug": "a_tumor",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/a_tumor.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma (⅔ of squamous cell carcinomas occur as an endobronchial mass with persistent or recurrent atelectasis / recurrent pneumonia)",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial carcinoid",
+      "raw": "Bronchial carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: primary tumor of kidney, colon, rectum, breast, melanoma",
+      "raw": "Metastasis: primary tumor of kidney, colon, rectum, breast, melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (usually as a late presentation)",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma, granular cell myoblastoma, amyloid tumor, fibroepithelial polyp",
+      "raw": "Lipoma, granular cell myoblastoma, amyloid tumor, fibroepithelial polyp",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

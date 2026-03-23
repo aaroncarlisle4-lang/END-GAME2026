@@ -1,0 +1,57 @@
+{
+  "finding": "Chronic Complications of RDS",
+  "slug": "chronic_complications_of_rds",
+  "chapter": "Organism: Pseudomonas aeruginosa, Gram-negative",
+  "source_file": "processed_clusters/organism_pseudomonas_aeruginosa_gram_negative/chronic_complications_of_rds.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchopulmonary dysplasia",
+      "raw": "Bronchopulmonary dysplasia (10-20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Subglottic stenosis",
+      "raw": "Subglottic stenosis (intubation)",
+      "frequency": null
+    },
+    {
+      "name": "Localized interstitial emphysema",
+      "raw": "Localized interstitial emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Hyperinflation",
+      "raw": "Hyperinflation",
+      "frequency": null
+    },
+    {
+      "name": "Retrolental fibroplasia",
+      "raw": "Retrolental fibroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Malnutrition, rickets",
+      "raw": "Malnutrition, rickets",
+      "frequency": null
+    },
+    {
+      "name": "Lobar emphysema",
+      "raw": "Lobar emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Delayed onset of diaphragmatic hernia",
+      "raw": "Delayed onset of diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent inspiratory tract infections",
+      "raw": "Recurrent inspiratory tract infections",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Complication of Continuous Positive Pressure Ventilation Cause:  airway overdistension (volutrauma) rather than high airway pressure (barotrauma) Path: (a)  rupture of alveoli along margins of interlobular septa + vascular structures (= parenchymal pseudocyst) (b)  air dissecting along interlobular septa + perivascular spaces = pulmonary interstitial emphysema (PIE) √  \"pseudoclearing\" of RDS (c)  interstitial air migrating centripetally into pleural space (= pneumothorax) / mediastinum (= pneumomediastinum) / pericardial cavity (= pneumopericardium) (d)  interstitial air rupturing into perito"
+}

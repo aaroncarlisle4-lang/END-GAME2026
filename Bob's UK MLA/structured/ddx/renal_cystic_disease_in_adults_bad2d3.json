@@ -1,0 +1,37 @@
+{
+  "finding": "Renal Cystic Disease in Adults",
+  "slug": "renal_cystic_disease_in_adults_bad2d3",
+  "chapter": "Potter Classification",
+  "source_file": "processed_clusters/potter_classification/renal_cystic_disease_in_adults_bad2d3.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "HEREDITARY",
+      "raw": "HEREDITARY",
+      "frequency": null
+    },
+    {
+      "name": "Autosomal dominant polycystic kidney disease",
+      "raw": "Autosomal dominant polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Von Hippel-Lindau disease",
+      "raw": "Von Hippel-Lindau disease",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis complex",
+      "raw": "Tuberous sclerosis complex",
+      "frequency": null
+    },
+    {
+      "name": "Medullary cystic kidney disease",
+      "raw": "Medullary cystic kidney disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

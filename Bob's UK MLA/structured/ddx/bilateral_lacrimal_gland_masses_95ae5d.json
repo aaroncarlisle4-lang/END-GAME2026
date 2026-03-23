@@ -1,0 +1,32 @@
+{
+  "finding": "Bilateral Lacrimal Gland Masses",
+  "slug": "bilateral_lacrimal_gland_masses_95ae5d",
+  "chapter": "LACRIMAL GLAND",
+  "source_file": "processed_clusters/lacrimal_gland/bilateral_lacrimal_gland_masses_95ae5d.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "And",
+      "raw": "And",
+      "frequency": null
+    },
+    {
+      "name": "Collagen-vascular disease",
+      "raw": "Collagen-vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

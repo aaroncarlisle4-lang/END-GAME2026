@@ -1,0 +1,67 @@
+{
+  "finding": "HYPOPHOSPHATASIA",
+  "slug": "hypophosphatasia_b14588",
+  "chapter": "HYPERVITAMINOSIS D",
+  "source_file": "processed_clusters/hypervitaminosis_d/hypophosphatasia_b14588.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "phosphoethanolamine in urine as precursor of alkaline phosphatase; normal serum calcium + phosphorus",
+      "raw": "phosphoethanolamine in urine as precursor of alkaline phosphatase; normal serum calcium + phosphorus",
+      "frequency": null
+    },
+    {
+      "name": "GROUP I = neonatal = congenital lethal form",
+      "raw": "GROUP I = neonatal = congenital lethal form",
+      "frequency": null
+    },
+    {
+      "name": "GROUP II = juvenile severe form onset of symptoms within weeks to months",
+      "raw": "GROUP II = juvenile severe form onset of symptoms within weeks to months",
+      "frequency": null
+    },
+    {
+      "name": "moderate / severe dwarfism",
+      "raw": "moderate / severe dwarfism",
+      "frequency": null
+    },
+    {
+      "name": "delayed weight bearing",
+      "raw": "delayed weight bearing",
+      "frequency": null
+    },
+    {
+      "name": "GROUP III = adult mild form recognized later in childhood / adolescence / adulthood",
+      "raw": "GROUP III = adult mild form recognized later in childhood / adolescence / adulthood",
+      "frequency": null
+    },
+    {
+      "name": "dwarfism",
+      "raw": "dwarfism",
+      "frequency": null
+    },
+    {
+      "name": "GROUP IV = latent form of heterozygous state",
+      "raw": "GROUP IV = latent form of heterozygous state",
+      "frequency": null
+    },
+    {
+      "name": "normal / borderline levels of alkaline phosphatase",
+      "raw": "normal / borderline levels of alkaline phosphatase",
+      "frequency": null
+    },
+    {
+      "name": "patients are small for age",
+      "raw": "patients are small for age",
+      "frequency": null
+    },
+    {
+      "name": "disturbance of primary dentition",
+      "raw": "disturbance of primary dentition",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  autosomal recessive congenital disease with low activity of serum-, bone-, liver-alkaline phosphatase resulting in poor mineralization (= deficient generation of bone crystals) Prevalence:   1÷100,000 Histo:   indistinguishable from rickets √  marked demineralization of calvarium (\"caput membranaceum\" = soft skull) √  lack of calcification of metaphyseal end of long bones √  streaky irregular spotty margins of calcification √  cupping of metaphysis √  angulated shaft fractures with abundant callus formation √  short poorly ossified ribs √  poorly ossified vertebrae (especially neural arches"
+}

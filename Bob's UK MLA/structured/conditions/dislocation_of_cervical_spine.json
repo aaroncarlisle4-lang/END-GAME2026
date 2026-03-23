@@ -1,0 +1,47 @@
+{
+  "name": "DISLOCATION OF CERVICAL SPINE",
+  "slug": "dislocation_of_cervical_spine",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/dislocation_of_cervical_spine.md",
+  "definition": "CRANIOCERVICAL DISSOCIATION ATLANTOOCCIPITAL DISTRACTION INJURY = ATLANTO-OCCIPITAL disruption of tectorial membrane + paired alar ligaments resulting in grossly unstable injury traumatic widening of atlantoaxial interval",
+  "demographics": {
+    "Age": "in adults much less common than in children ← larger size of head relative to body,"
+  },
+  "dominant_finding": "fluid in articular capsules, nuchal ligament, interspinous ligament",
+  "distribution": "Powers ratio (assessment for anterior subluxation) = BC÷OA ratio > 1 = ratio of",
+  "discriminating_features": [
+    "Powers ratio (assessment for anterior subluxation) = BC÷OA ratio > 1 = ratio of",
+    "basion-dens interval (BD) > 12 mm on X-ray / 9.5 mm on CT without traction placed on",
+    "basion-axial interval > 12 mm anterior / > 4 mm posterior to posterior axial line (PAL)",
+    "atlanto-dental interval > 3 mm (man) / > 2.5 mm (woman):",
+    "\"V sign\" = cranially divergent predental lines ← transverse ligament injury"
+  ],
+  "other_features": {
+    "general": [
+      "Powers ratio (assessment for anterior subluxation) = BC÷OA ratio > 1 = ratio of",
+      "basion-dens interval (BD) > 12 mm on X-ray / 9.5 mm on CT without traction placed on",
+      "basion-axial interval > 12 mm anterior / > 4 mm posterior to posterior axial line (PAL)",
+      "atlanto-dental interval > 3 mm (man) / > 2.5 mm (woman):",
+      "\"V sign\" = cranially divergent predental lines ← transverse ligament injury",
+      "atlanto-occipital interval > 4 mm",
+      "atlanto-axial interval > 2.6-4 mm",
+      "> 10 mm soft-tissue swelling anterior to C2 + pathologic convexity of soft tissues (80%)",
+      "blood in region of tectorial membrane + alar ligaments",
+      "condylar fracture ± fracture extension through hypoglossal canal (for cranial nerve XII)",
+      "widening / incongruity of articulation between occipital condyles + lateral masses of C1"
+    ],
+    "MR": [
+      "fluid in articular capsules, nuchal ligament, interspinous ligament",
+      "prevertebral soft-tissue swelling",
+      "subluxation with enlargement of predental space to",
+      "widening of C1-C2 facets",
+      "prevertebral, interspinous, nuchal ligament edema",
+      "facet widening / fluid",
+      "increased signal intensity of spinal cord",
+      "± epidural hematoma"
+    ]
+  },
+  "clinical": {
+    "Cx": "(1)   Injury to caudal cranial nn. + upper 3 cervical nerves"
+  }
+}

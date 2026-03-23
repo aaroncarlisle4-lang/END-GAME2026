@@ -1,0 +1,23 @@
+{
+  "name": "CONGENITAL TRUE PANCREATIC CYST",
+  "slug": "congenital_true_pancreatic_cyst",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/congenital_true_pancreatic_cyst.md",
+  "definition": "very rare entity",
+  "demographics": {
+    "Age": "mostly in children < 2 years; M < F",
+    "Histo": "cuboidal epithelium",
+    "Location": "pancreatic body / tail"
+  },
+  "dominant_finding": "uniform thin-walled single / multiple cysts",
+  "distribution": "pancreatic body / tail",
+  "discriminating_features": [
+    "uniform thin-walled single / multiple cysts"
+  ],
+  "other_features": {
+    "general": [
+      "uniform thin-walled single / multiple cysts"
+    ]
+  },
+  "clinical": {}
+}

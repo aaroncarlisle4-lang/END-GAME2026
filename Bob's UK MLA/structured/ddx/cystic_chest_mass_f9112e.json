@@ -1,0 +1,47 @@
+{
+  "finding": "Cystic Chest Mass",
+  "slug": "cystic_chest_mass_f9112e",
+  "chapter": "FETAL CHEST ANOMALIES",
+  "source_file": "processed_clusters/fetal_chest_anomalies/cystic_chest_mass_f9112e.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic cyst",
+      "raw": "Bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Enteric cyst",
+      "raw": "Enteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Neurenteric cyst",
+      "raw": "Neurenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cystic adenomatoid malformation type I",
+      "raw": "Cystic adenomatoid malformation type I",
+      "frequency": null
+    },
+    {
+      "name": "Congenital diaphragmatic hernia",
+      "raw": "Congenital diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial cyst",
+      "raw": "Pericardial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal meningocele",
+      "raw": "Mediastinal meningocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

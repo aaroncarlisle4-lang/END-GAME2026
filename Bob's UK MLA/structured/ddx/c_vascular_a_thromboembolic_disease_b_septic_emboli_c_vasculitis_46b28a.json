@@ -1,0 +1,37 @@
+{
+  "finding": "C. VASCULAR (a) thromboembolic disease (b) septic emboli (c) vasculitis",
+  "slug": "c_vascular_a_thromboembolic_disease_b_septic_emboli_c_vasculitis_46b28a",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/c_vascular_a_thromboembolic_disease_b_septic_emboli_c_vasculitis_46b28a.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Wegener variants: limited Wegener, lymphomatoid granulomatosis",
+      "raw": "Wegener variants: limited Wegener, lymphomatoid granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Infectious vasculitis = invasion of pulmonary arteries: mucormycosis, invasive form of aspergillosis, Rocky Mountain spotted fever",
+      "raw": "Infectious vasculitis = invasion of pulmonary arteries: mucormycosis, invasive form of aspergillosis, Rocky Mountain spotted fever",
+      "frequency": null
+    },
+    {
+      "name": "Goodpasture syndrome",
+      "raw": "Goodpasture syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

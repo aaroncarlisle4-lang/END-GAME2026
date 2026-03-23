@@ -1,0 +1,32 @@
+{
+  "finding": "A. NONTUMOROUS",
+  "slug": "a_nontumorous_568ac7",
+  "chapter": "Average age: 4th decade; M > F",
+  "source_file": "processed_clusters/average_age_4th_decade_m_f/a_nontumorous_568ac7.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Extramedullary hematopoiesis",
+      "raw": "Extramedullary hematopoiesis",
+      "frequency": null
+    },
+    {
+      "name": "hemolytic anemia / myelofibrosis",
+      "raw": "hemolytic anemia / myelofibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Pott abscess",
+      "raw": "Pott abscess",
+      "frequency": null
+    },
+    {
+      "name": "Castleman disease",
+      "raw": "Castleman disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√   calcification in a large paraspinal abscess WITHOUT new bone formation / sclerosis favors tuberculosis √  intense homogeneous enhancement √  frequent calcifications"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "B. BENIGN TUMORS",
+  "slug": "b_benign_tumors",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/b_benign_tumors.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Multiple simple adenomatous polyps",
+      "raw": "Multiple simple adenomatous polyps",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma, blue rubber bleb nevus syndrome",
+      "raw": "Hemangioma, blue rubber bleb nevus syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma, neurofibroma, lipoma",
+      "raw": "Leiomyoma, neurofibroma, lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Nodular lymphoid hyperplasia =  normal terminal ileum in children + adolescents; may be associated with dysgammaglobulinemia",
+      "raw": "Nodular lymphoid hyperplasia =  normal terminal ileum in children + adolescents; may be associated with dysgammaglobulinemia",
+      "frequency": null
+    },
+    {
+      "name": "Varices",
+      "raw": "Varices (= multiple phlebectasia in jejunum, oral mucosa, tongue, scrotum)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  symmetric fairly sharply demarcated filling defects"
+}

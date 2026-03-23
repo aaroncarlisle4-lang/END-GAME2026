@@ -1,0 +1,57 @@
+{
+  "finding": "HYPOPARATHYROIDISM",
+  "slug": "hypoparathyroidism_892d7f",
+  "chapter": "HYPERVITAMINOSIS D",
+  "source_file": "processed_clusters/hypervitaminosis_d/hypoparathyroidism_892d7f.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tetany = hypocalcemic neuromuscular excitability",
+      "raw": "tetany = hypocalcemic neuromuscular excitability (numbness, cramps, carpopedal spasm, laryngeal stridor, generalized convulsions)",
+      "frequency": null
+    },
+    {
+      "name": "hypocalcemia + hyperphosphatemia",
+      "raw": "hypocalcemia + hyperphosphatemia",
+      "frequency": null
+    },
+    {
+      "name": "normal / low serum alkaline phosphatase",
+      "raw": "normal / low serum alkaline phosphatase",
+      "frequency": null
+    },
+    {
+      "name": "round face, short dwarflike, obese; mental retardation",
+      "raw": "round face, short dwarflike, obese; mental retardation",
+      "frequency": null
+    },
+    {
+      "name": "cataracts; dry scaly skin, atrophy of nails",
+      "raw": "cataracts; dry scaly skin, atrophy of nails",
+      "frequency": null
+    },
+    {
+      "name": "dental hypoplasia",
+      "raw": "dental hypoplasia (delayed tooth eruption, impaction of teeth, supernumerary teeth)",
+      "frequency": null
+    },
+    {
+      "name": "Endorgan resistance",
+      "raw": "Endorgan resistance",
+      "frequency": null
+    },
+    {
+      "name": "Presence of antienzymes",
+      "raw": "Presence of antienzymes",
+      "frequency": null
+    },
+    {
+      "name": "Defective hormone",
+      "raw": "Defective hormone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  premature closure of epiphyses √  hypoplasia of tooth enamel + dentine; blunting of roots √  generalized increase in bone density in 9%: √  localized thickening of skull √  sacroiliac sclerosis √  bandlike density in metaphysis of long bones (25%), iliac crest, vertebral bodies √  thickened lamina dura (inner table) + widened diploe √  deformed hips with thickening + sclerosis of femoral head + acetabulum @   Soft tissue √  intracranial calcifications in basal ganglia, choroid plexus, occasionally in cerebellum √  calcification of spinal and other ligaments √  subcutaneous calcifications √"
+}

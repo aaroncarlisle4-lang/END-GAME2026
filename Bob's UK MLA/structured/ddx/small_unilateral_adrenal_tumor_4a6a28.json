@@ -1,0 +1,42 @@
+{
+  "finding": "Small Unilateral Adrenal Tumor",
+  "slug": "small_unilateral_adrenal_tumor_4a6a28",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/small_unilateral_adrenal_tumor_4a6a28.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cortical adenoma",
+      "raw": "Cortical adenoma (in 1-9% of autopsies)",
+      "frequency": "9%"
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Asymmetric hyperplasia",
+      "raw": "Asymmetric hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease",
+      "raw": "Granulomatous disease (TB, histoplasmosis)",
+      "frequency": null
+    },
+    {
+      "name": "Myelolipoma",
+      "raw": "Myelolipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  < 10 HU imply an adenoma (in 96%) √  diffuse enlargement / discrete mass √  ± central cystic changes ± calcification"
+}

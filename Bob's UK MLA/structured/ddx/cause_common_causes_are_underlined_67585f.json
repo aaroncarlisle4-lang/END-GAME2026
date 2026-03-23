@@ -1,0 +1,182 @@
+{
+  "finding": "Cause: [common causes are underlined]",
+  "slug": "cause_common_causes_are_underlined_67585f",
+  "chapter": "ASPHYXIATING THORACIC DYSPLASIA",
+  "source_file": "processed_clusters/asphyxiating_thoracic_dysplasia/cause_common_causes_are_underlined_67585f.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trauma / thermal injury → interruption of arteries",
+      "raw": "Trauma / thermal injury → interruption of arteries",
+      "frequency": null
+    },
+    {
+      "name": "Femoral neck fracture",
+      "raw": "Femoral neck fracture (60-75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "Dislocation of hip joint",
+      "raw": "Dislocation of hip joint (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Slipped capital femoral epiphysis (15-40%) @   Carpal scaphoid:",
+      "raw": "Slipped capital femoral epiphysis (15-40%) @   Carpal scaphoid:",
+      "frequency": "40%"
+    },
+    {
+      "name": "Nontraumatic",
+      "raw": "Nontraumatic",
+      "frequency": null
+    },
+    {
+      "name": "Thrombus: thromboembolic disease, sickle-cell disease",
+      "raw": "Thrombus: thromboembolic disease, sickle-cell disease (SS + SC hemoglobin), polycythemia rubra vera, pheochromocytoma (microscopic thrombotic disease)",
+      "frequency": null
+    },
+    {
+      "name": "Nitrogen bubbles: Caisson disease, astronauts",
+      "raw": "Nitrogen bubbles: Caisson disease, astronauts",
+      "frequency": null
+    },
+    {
+      "name": "Fat: pancreatitis (intramedullary fat necrosis from circulating lipase), alcoholism",
+      "raw": "Fat: pancreatitis (intramedullary fat necrosis from circulating lipase), alcoholism",
+      "frequency": null
+    },
+    {
+      "name": "Thromboembolism, arteriosclerosis",
+      "raw": "Thromboembolism, arteriosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Pregnancy (b)  Vessel wall disease:",
+      "raw": "Pregnancy (b)  Vessel wall disease:",
+      "frequency": null
+    },
+    {
+      "name": "Collagen-vascular disease: SLE, rheumatoid arthritis, polyarteritis nodosa, sarcoidosis",
+      "raw": "Collagen-vascular disease: SLE, rheumatoid arthritis, polyarteritis nodosa, sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Infectious vasculitis",
+      "raw": "Infectious vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "Arteriosclerosis (c)  Vascular compression by abnormal deposition of:",
+      "raw": "Arteriosclerosis (c)  Vascular compression by abnormal deposition of:",
+      "frequency": null
+    },
+    {
+      "name": "Fat: corticosteroid therapy (eg, renal transplant, Cushing disease), diabetes",
+      "raw": "Fat: corticosteroid therapy (eg, renal transplant, Cushing disease), diabetes",
+      "frequency": null
+    },
+    {
+      "name": "Blood: hemophilia, trauma",
+      "raw": "Blood: hemophilia, trauma (fractures, dislocations)",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory cells: osteomyelitis, infection, Langerhans cell histiocytosis",
+      "raw": "Inflammatory cells: osteomyelitis, infection, Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Tumor cells: leukemia, lymphoma",
+      "raw": "Tumor cells: leukemia, lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Edema: radiation therapy, hypothyroidism, frostbite",
+      "raw": "Edema: radiation therapy, hypothyroidism, frostbite",
+      "frequency": null
+    },
+    {
+      "name": "Substances: Gaucher disease (vascular compression by lipid-filled histiocytes), gout (d)  Direct cell toxicity",
+      "raw": "Substances: Gaucher disease (vascular compression by lipid-filled histiocytes), gout (d)  Direct cell toxicity",
+      "frequency": null
+    },
+    {
+      "name": "Drug therapy: immunosuppressives, cytotoxics, biphosphonates",
+      "raw": "Drug therapy: immunosuppressives, cytotoxics, biphosphonates",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy (e)  Idiopathic",
+      "raw": "Radiation therapy (e)  Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous osteonecrosis of knee",
+      "raw": "Spontaneous osteonecrosis of knee",
+      "frequency": null
+    },
+    {
+      "name": "Legg-Calvé-Perthes disease",
+      "raw": "Legg-Calvé-Perthes disease",
+      "frequency": null
+    },
+    {
+      "name": "Freiberg disease",
+      "raw": "Freiberg disease (repetitive microtrauma)",
+      "frequency": null
+    },
+    {
+      "name": "Hypopituitarism mnemonic:   PLASTIC RAGS x 2",
+      "raw": "Hypopituitarism mnemonic:   PLASTIC RAGS x 2",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis, Pregnancy",
+      "raw": "Pancreatitis, Pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Legg-Perthes disease, Lupus erythematosus",
+      "raw": "Legg-Perthes disease, Lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "Alcoholism, Atherosclerosis",
+      "raw": "Alcoholism, Atherosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Steroids, Sickle-cell disease",
+      "raw": "Steroids, Sickle-cell disease",
+      "frequency": null
+    },
+    {
+      "name": "Trauma, Thermal injury",
+      "raw": "Trauma, Thermal injury",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic (Legg-Perthes disease), Infection",
+      "raw": "Idiopathic (Legg-Perthes disease), Infection",
+      "frequency": null
+    },
+    {
+      "name": "Caisson disease, Collagen disease",
+      "raw": "Caisson disease, Collagen disease (SLE)",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis, Radiation treatment",
+      "raw": "Rheumatoid arthritis, Radiation treatment",
+      "frequency": null
+    },
+    {
+      "name": "Alcoholism, Amyloid",
+      "raw": "Alcoholism, Amyloid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  NO predisposing factors in 25%! √  typically unilateral @   Femoral head: 4-6 months after fracture (in 10-15%), in 30-40% of nonunions of scaphoid fracture Site:   proximal fragment (most common) @   humeral head (infrequent) @   talus (after talar neck fracture) √  bilateral (in 70-80%) (a)  Occlusion / embolization of artery"
+}

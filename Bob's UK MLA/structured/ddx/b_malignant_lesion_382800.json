@@ -1,0 +1,27 @@
+{
+  "finding": "B. MALIGNANT LESION",
+  "slug": "b_malignant_lesion_382800",
+  "chapter": "SALIVARY GLANDS",
+  "source_file": "processed_clusters/salivary_glands/b_malignant_lesion_382800.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucoepidermoid carcinoma",
+      "raw": "Mucoepidermoid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Acinic cell carcinoma",
+      "raw": "Acinic cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Necrotic metastatic node",
+      "raw": "Necrotic metastatic node",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Fetal Ventriculomegaly",
+  "slug": "fetal_ventriculomegaly",
+  "chapter": "FETAL CNS ANOMALIES",
+  "source_file": "processed_clusters/fetal_cns_anomalies/fetal_ventriculomegaly.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "MORPHOLOGIC ANOMALY (70-80%):",
+      "raw": "MORPHOLOGIC ANOMALY (70-80%):",
+      "frequency": "80%"
+    },
+    {
+      "name": "Spina bifida",
+      "raw": "Spina bifida (30-65%)",
+      "frequency": "65%"
+    },
+    {
+      "name": "Dandy-Walker malformation",
+      "raw": "Dandy-Walker malformation",
+      "frequency": null
+    },
+    {
+      "name": "Encephalocele",
+      "raw": "Encephalocele",
+      "frequency": null
+    },
+    {
+      "name": "Holoprosencephaly",
+      "raw": "Holoprosencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Agenesis of corpus callosum",
+      "raw": "Agenesis of corpus callosum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:"
+}

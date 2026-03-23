@@ -1,0 +1,27 @@
+{
+  "finding": "Meniscal Tear — Lateral meniscus (DDx)",
+  "slug": "meniscal_tear_lateral_meniscus_ddx_1_1000ce",
+  "chapter": "Meniscal Tear",
+  "source_file": "processed_clusters/meniscal_tear/meniscal_tear_lateral_meniscus_ddx_1_1000ce.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ligament of Humphry (smaller and thinner",
+      "raw": "ligament of Humphry (smaller and thinner",
+      "frequency": null
+    },
+    {
+      "name": "very close to PCL); oblique meniscomeniscal ligament",
+      "raw": "very close to PCL); oblique meniscomeniscal ligament",
+      "frequency": null
+    },
+    {
+      "name": "intercondylar osseous bodies",
+      "raw": "intercondylar osseous bodies",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"absent bow-tie\" sign (SAG image) = peripheral image fails to demonstrate normal bow- | \"fragment-in-notch\" sign (COR image) = displaced fragment in intercondylar notch | \"double PCL\" sign (SAG image) = medial meniscal fragment displaced into notch"
+}

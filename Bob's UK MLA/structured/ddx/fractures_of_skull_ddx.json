@@ -1,0 +1,22 @@
+{
+  "finding": "Fractures Of Skull (DDx)",
+  "slug": "fractures_of_skull_ddx",
+  "chapter": "Fractures Of Skull",
+  "source_file": "processed_clusters/fractures_of_skull/fractures_of_skull_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "suture (same diameter",
+      "raw": "suture (same diameter",
+      "frequency": null
+    },
+    {
+      "name": "interdigitating \"zigzag\" pattern)",
+      "raw": "interdigitating \"zigzag\" pattern)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "diastasis of suture | pneumocephalus | air in sulci | air-fluid level in sinuses"
+}

@@ -1,0 +1,30 @@
+{
+  "finding": "OSTEOMA",
+  "slug": "osteoma",
+  "chapter": "OSTEOFIBROUS DYSPLASIA",
+  "source_file": "processed_clusters/osteofibrous_dysplasia/osteoma.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "inner / outer table of calvarium",
+      "raw": "inner / outer table of calvarium (usually from external table)",
+      "frequency": null
+    },
+    {
+      "name": "paranasal sinuses [mandible]",
+      "raw": "paranasal sinuses (frontal / ethmoid sinuses)",
+      "frequency": null,
+      "sites": [
+        "mandible"
+      ]
+    },
+    {
+      "name": "nasal bones",
+      "raw": "nasal bones",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  benign tumor of membranous bone (= hamartoma) Histo:   mature compact / cancellous bone Age:   adult life Associated with:   Gardner syndrome (multiple osteomas + colonic polyposis) Location:   craniofacial bones √  non-tooth-related circumscribed sclerotic mass DDx:   idiopathic osteosclerosis WITHOUT bone expansion cannot be differentiated from osteoma. √  well-circumscribed round extremely dense structureless lesion usually < 2 cm in size √  ± bone expansion / exophytic growth √  NO perilesional halo Fibrous Osteoma Probably a form of fibrous dysplasia Age:     childhood √  less dense th"
+}

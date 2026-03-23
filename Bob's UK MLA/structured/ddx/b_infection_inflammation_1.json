@@ -1,0 +1,52 @@
+{
+  "finding": "B. INFECTION / INFLAMMATION",
+  "slug": "b_infection_inflammation_1",
+  "chapter": "Navaho, Pima, Chippewa Indians",
+  "source_file": "processed_clusters/navaho_pima_chippewa_indians/b_infection_inflammation_1.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic viral hepatitis B",
+      "raw": "Chronic viral hepatitis B",
+      "frequency": null
+    },
+    {
+      "name": "Chronic viral hepatitis C ← silent epidemic in USA in 1960s to 1980s with 4 million chronically infected",
+      "raw": "Chronic viral hepatitis C ← silent epidemic in USA in 1960s to 1980s with 4 million chronically infected",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "BILIARY OBSTRUCTION",
+      "raw": "BILIARY OBSTRUCTION",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory bowel disease",
+      "raw": "Inflammatory bowel disease",
+      "frequency": null
+    },
+    {
+      "name": "Primary biliary cirrhosis",
+      "raw": "Primary biliary cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Obstructive infantile cholangiopathy",
+      "raw": "Obstructive infantile cholangiopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

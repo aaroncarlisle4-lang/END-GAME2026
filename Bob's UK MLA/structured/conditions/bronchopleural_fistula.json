@@ -1,0 +1,24 @@
+{
+  "name": "BRONCHOPLEURAL FISTULA",
+  "slug": "bronchopleural_fistula",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/bronchopleural_fistula.md",
+  "definition": "BRONCHOPULMONARY FISTULA communication between the bronchial system / lung parenchyma + pleural space",
+  "demographics": {},
+  "dominant_finding": "direct visualization of bronchopleural fistula (in 50%)",
+  "distribution": "peripheral air + fluid collection (indirect sign)",
+  "discriminating_features": [
+    "direct visualization of bronchopleural fistula (in 50%)",
+    "peripheral air + fluid collection (indirect sign)"
+  ],
+  "other_features": {
+    "general": [],
+    "HRCT": [
+      "direct visualization of bronchopleural fistula (in 50%)",
+      "peripheral air + fluid collection (indirect sign)"
+    ]
+  },
+  "clinical": {
+    "Rx": "tube thoracostomy, open drainage, decortication, thoraco-plasty, muscle-pedicle closure,"
+  }
+}

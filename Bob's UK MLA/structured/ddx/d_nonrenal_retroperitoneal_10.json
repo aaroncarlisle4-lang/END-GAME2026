@@ -1,0 +1,27 @@
+{
+  "finding": "D. NONRENAL RETROPERITONEAL (10%",
+  "slug": "d_nonrenal_retroperitoneal_10",
+  "chapter": "B. GENITAL (15%",
+  "source_file": "processed_clusters/b_genital_15/d_nonrenal_retroperitoneal_10.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adrenal hemorrhage",
+      "raw": "Adrenal hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

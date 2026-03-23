@@ -1,0 +1,27 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_18_0f3fbd",
+  "chapter": "Average age: 4th decade; M > F",
+  "source_file": "processed_clusters/average_age_4th_decade_m_f/a_benign_18_0f3fbd.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

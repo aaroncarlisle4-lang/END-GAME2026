@@ -1,0 +1,27 @@
+{
+  "finding": "Sinusoidal Obstruction Syndrome (DDx)",
+  "slug": "sinusoidal_obstruction_syndrome_ddx",
+  "chapter": "Sinusoidal Obstruction Syndrome",
+  "source_file": "processed_clusters/sinusoidal_obstruction_syndrome/sinusoidal_obstruction_syndrome_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "graft versus host disease",
+      "raw": "graft versus host disease",
+      "frequency": null
+    },
+    {
+      "name": "viral hepatitis",
+      "raw": "viral hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "sepsis",
+      "raw": "sepsis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "heterogeneous hepatic attenuation | heterogeneous enhancement ← altered perfusion in areas of increased sinusoidal pressure | small obstructed hepatic venules NOT visible at imaging | heterogeneous liver with areas of increased signal intensity on T2WI ← edema"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "B. TUMORLIKE CONDITIONS 1 Endometriosis",
+  "slug": "b_tumorlike_conditions_1_endometriosis",
+  "chapter": "PERITONEUM",
+  "source_file": "processed_clusters/peritoneum/b_tumorlike_conditions_1_endometriosis.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gliomatosis peritonei",
+      "raw": "Gliomatosis peritonei",
+      "frequency": null
+    },
+    {
+      "name": "Osseous metaplasia = heterotopic mesenteric ossification",
+      "raw": "Osseous metaplasia = heterotopic mesenteric ossification",
+      "frequency": null
+    },
+    {
+      "name": "Cartilaginous metaplasia",
+      "raw": "Cartilaginous metaplasia",
+      "frequency": null
+    },
+    {
+      "name": "Splenosis",
+      "raw": "Splenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

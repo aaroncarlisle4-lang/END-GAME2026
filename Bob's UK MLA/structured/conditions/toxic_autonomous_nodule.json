@@ -1,0 +1,23 @@
+{
+  "name": "TOXIC AUTONOMOUS NODULE",
+  "slug": "toxic_autonomous_nodule",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/toxic_autonomous_nodule.md",
+  "definition": "PLUMMER DISEASE = TOXIC ADENOMA hyperthyroidism caused by one / two hyperfunctioning nodules independent of normal",
+  "demographics": {
+    "Histo": "adenoma"
+  },
+  "dominant_finding": "radioiodine uptake (RAIU) mildly to moderately elevated",
+  "distribution": "",
+  "discriminating_features": [
+    "radioiodine uptake (RAIU) mildly to moderately elevated",
+    "concentration of radiopharmaceutical to a far greater degree than surrounding extranodular"
+  ],
+  "other_features": {
+    "general": [
+      "radioiodine uptake (RAIU) mildly to moderately elevated",
+      "concentration of radiopharmaceutical to a far greater degree than surrounding extranodular"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "Iliotibial Tract",
+  "slug": "iliotibial_tract",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/iliotibial_tract.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Distal extension of superficial + deep layers of fascia lata",
+      "raw": "Distal extension of superficial + deep layers of fascia lata",
+      "frequency": null
+    },
+    {
+      "name": "Tensor fasciae latae",
+      "raw": "Tensor fasciae latae",
+      "frequency": null
+    },
+    {
+      "name": "Gluteus maximus m.",
+      "raw": "Gluteus maximus m.",
+      "frequency": null
+    },
+    {
+      "name": "Gluteus medius m.",
+      "raw": "Gluteus medius m.",
+      "frequency": null
+    },
+    {
+      "name": "Semimembranosus m.",
+      "raw": "Semimembranosus m.",
+      "frequency": null
+    },
+    {
+      "name": "Semitendinosus m.",
+      "raw": "Semitendinosus m.",
+      "frequency": null
+    },
+    {
+      "name": "Biceps femoris m.",
+      "raw": "Biceps femoris m.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Function:  primary stabilizing structure of anterolateral knee together with lateral capsular ligaments Consists of: Insertion: (a)  supracondylar tubercle of lateral femoral condyle (b)  intermuscular septum of distal femur (deep component) (c)  Gerdy Gerdy, Pierre Nicolas (1797-1856), surgeon in Paris tubercle (main site of superficial component) = anterolateral tubercle of tibia [Pierre Nicolas Gerdy (1797-1856), surgeon in Paris] (d)  patella + patellar ligament Hamstring Muscle Complex ◊  Most frequently injured muscle! (a)  medial hamstring Function:   flexion + medial rotation of knee j"
+}

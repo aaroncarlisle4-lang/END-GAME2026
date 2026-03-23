@@ -1,0 +1,42 @@
+{
+  "finding": "C. BENIGN",
+  "slug": "c_benign_4cbd91",
+  "chapter": "Absence of Innominate Line",
+  "source_file": "processed_clusters/absence_of_innominate_line/c_benign_4cbd91.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Juvenile angiofibroma",
+      "raw": "Juvenile angiofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary tumor",
+      "raw": "Pituitary tumor",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

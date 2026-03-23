@@ -1,0 +1,57 @@
+{
+  "finding": "Hypervascular Subepithelial (Submucosal) Mass",
+  "slug": "hypervascular_subepithelial_submucosal_mass",
+  "chapter": "Prolonged Contrast Coating of Bowel Wall",
+  "source_file": "processed_clusters/prolonged_contrast_coating_of_bowel_wall/hypervascular_subepithelial_submucosal_mass.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neuroendocrine tumor",
+      "raw": "Neuroendocrine tumor",
+      "frequency": null
+    },
+    {
+      "name": "Gastrointestinal stromal tumor",
+      "raw": "Gastrointestinal stromal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Glomus tumor",
+      "raw": "Glomus tumor",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma: extremely rare in GI tract",
+      "raw": "Angiosarcoma: extremely rare in GI tract",
+      "frequency": "rare"
+    },
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Peripheral nerve sheath tumor",
+      "raw": "Peripheral nerve sheath tumor",
+      "frequency": null
+    },
+    {
+      "name": "Hypervascular metastasis",
+      "raw": "Hypervascular metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Heterotopic pancreatic tissue The term subepithelial is favored over submucosal because lesions in this category do not necessarily arise from the submucosa, but can arise from any layer of the GI wall (intramural) or intraabdominal structures (extramural).",
+      "raw": "Heterotopic pancreatic tissue The term subepithelial is favored over submucosal because lesions in this category do not necessarily arise from the submucosa, but can arise from any layer of the GI wall (intramural) or intraabdominal structures (extramural).",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

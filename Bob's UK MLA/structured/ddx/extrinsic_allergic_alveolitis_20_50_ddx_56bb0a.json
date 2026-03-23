@@ -1,0 +1,25 @@
+{
+  "finding": "Extrinsic Allergic Alveolitis — 20-50%) (DDx)",
+  "slug": "extrinsic_allergic_alveolitis_20_50_ddx_56bb0a",
+  "chapter": "Extrinsic Allergic Alveolitis",
+  "source_file": "processed_clusters/extrinsic_allergic_alveolitis/extrinsic_allergic_alveolitis_20_50_ddx_56bb0a.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "UIP",
+      "raw": "UIP",
+      "frequency": null
+    },
+    {
+      "name": "NSIP",
+      "raw": "NSIP",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "UIP": [],
+    "NSIP": []
+  },
+  "context": "usually bilateral symmetric homogeneous patchy ground-glass opacities concentrated | numerous round centrilobular ground-glass opacities usually < 5 mm in diameter with | hypoattenuation + hypovascularity of scattered secondary lobules ← air trapping | diffuse dense airspace consolidation (= confluent collections of intraalveolar histiocytes,"
+}

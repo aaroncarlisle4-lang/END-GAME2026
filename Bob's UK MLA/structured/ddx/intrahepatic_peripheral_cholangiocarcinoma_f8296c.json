@@ -1,0 +1,47 @@
+{
+  "finding": "Intrahepatic Peripheral Cholangiocarcinoma",
+  "slug": "intrahepatic_peripheral_cholangiocarcinoma_f8296c",
+  "chapter": "CANDIDIASIS OF LIVER",
+  "source_file": "processed_clusters/candidiasis_of_liver/intrahepatic_peripheral_cholangiocarcinoma_f8296c.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NO jaundice",
+      "raw": "NO jaundice",
+      "frequency": null
+    },
+    {
+      "name": "abdominal pain, discomfort, anorexia, weight loss",
+      "raw": "abdominal pain, discomfort, anorexia, weight loss",
+      "frequency": null
+    },
+    {
+      "name": "pruritus, jaundice",
+      "raw": "pruritus, jaundice (late symptom)",
+      "frequency": null
+    },
+    {
+      "name": "Invasion of right / left hepatic duct with extension to 2nd-order biliary radicles",
+      "raw": "Invasion of right / left hepatic duct with extension to 2nd-order biliary radicles",
+      "frequency": null
+    },
+    {
+      "name": "Atrophy of 1 hepatic lobe + involvement of contra- lateral portal vein branch / 2nd-order biliary radicle",
+      "raw": "Atrophy of 1 hepatic lobe + involvement of contra- lateral portal vein branch / 2nd-order biliary radicle",
+      "frequency": null
+    },
+    {
+      "name": "Vascular encasement / invasion of main portal vein or main hepatic artery",
+      "raw": "Vascular encasement / invasion of main portal vein or main hepatic artery",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic disease: lymph node / distant",
+      "raw": "Metastatic disease: lymph node / distant",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   right lobe predilection √  solitary mass (nodular form) without hypoechoic halo √  diffusely abnormal liver texture (infiltrative form): √  tumor more hypoechoic if < 3 cm √  tumor more hyperechoic if > 3 cm √  well-marginated cystic mass (papillary mucin-producing tumor) ± diffuse hyperechoic flecks of tumor calcification √  capsular retraction √  delayed enhancement at 10 minutes √  dilatation of bile ducts peripheral to tumor (31%) √  tumor fingers in bile duct DDx:  metastatic adenocarcinoma / leiomyosarcoma; sclerosing hepatocellular carcinoma Klatskin Tumor [Gerald Klatskin ("
+}

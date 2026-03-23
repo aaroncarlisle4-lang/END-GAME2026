@@ -1,0 +1,32 @@
+{
+  "finding": "B. SOLID TERATOID LESIONS = germ cell tumors",
+  "slug": "b_solid_teratoid_lesions_germ_cell_tumors",
+  "chapter": "MEDIASTINUM",
+  "source_file": "processed_clusters/mediastinum/b_solid_teratoid_lesions_germ_cell_tumors.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Embryonal cell carcinoma",
+      "raw": "Embryonal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Seminoma",
+      "raw": "Seminoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

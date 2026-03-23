@@ -1,0 +1,37 @@
+{
+  "finding": "Aphthous Ulcer",
+  "slug": "aphthous_ulcer",
+  "chapter": "Prolonged Contrast Coating of Bowel Wall",
+  "source_file": "processed_clusters/prolonged_contrast_coating_of_bowel_wall/aphthous_ulcer.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Yersinia enterocolitis",
+      "raw": "Yersinia enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Amebiasis",
+      "raw": "Amebiasis",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic enteritis",
+      "raw": "Ischemic enteritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  ulcer crater surrounded by a rim of edema overlying submucosal lymphoid follicle"
+}

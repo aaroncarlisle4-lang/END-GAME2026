@@ -1,0 +1,42 @@
+{
+  "finding": "Right Atrial Mass",
+  "slug": "right_atrial_mass_d7b649",
+  "chapter": "C. MYOCARDIAL / INTRAMURAL",
+  "source_file": "processed_clusters/c_myocardial_intramural/right_atrial_mass_d7b649.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thrombus",
+      "raw": "Thrombus",
+      "frequency": null
+    },
+    {
+      "name": "Myxoma",
+      "raw": "Myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Hypernephroma",
+      "raw": "Hypernephroma",
+      "frequency": null
+    },
+    {
+      "name": "Eustachian valve",
+      "raw": "Eustachian valve",
+      "frequency": null
+    },
+    {
+      "name": "Chiari network",
+      "raw": "Chiari network",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

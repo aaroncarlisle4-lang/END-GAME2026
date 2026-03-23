@@ -1,0 +1,105 @@
+{
+  "finding": "Mediastinal Cyst",
+  "slug": "mediastinal_cyst",
+  "chapter": "MEDIASTINUM",
+  "source_file": "processed_clusters/mediastinum/mediastinal_cyst.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thymic cyst",
+      "raw": "Thymic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Parathyroid cyst (uncommon as mediastinal mass) @   Middle mediastinum",
+      "raw": "Parathyroid cyst (uncommon as mediastinal mass) @   Middle mediastinum",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Pericardial cyst",
+      "raw": "Pericardial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic cyst @   Posterior mediastinum",
+      "raw": "Bronchogenic cyst @   Posterior mediastinum",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal duplication cyst",
+      "raw": "Esophageal duplication cyst",
+      "frequency": null
+    },
+    {
+      "name": "Neurenteric cyst",
+      "raw": "Neurenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Thoracic duct cyst",
+      "raw": "Thoracic duct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Transdiaphragmatic jejunal duplication",
+      "raw": "Transdiaphragmatic jejunal duplication",
+      "frequency": null
+    },
+    {
+      "name": "Cystic hygroma [Lateral thoracic meningocele]",
+      "raw": "Cystic hygroma",
+      "frequency": null,
+      "sites": [
+        "Lateral thoracic meningocele"
+      ]
+    },
+    {
+      "name": "Posttraumatic lymphocele =  contained pleural / mediastinal lymph collection",
+      "raw": "Posttraumatic lymphocele =  contained pleural / mediastinal lymph collection",
+      "frequency": null
+    },
+    {
+      "name": "history of prolonged chylous chest tube drainage",
+      "raw": "history of prolonged chylous chest tube drainage",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid cyst",
+      "raw": "Hydatid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Enterogenous cyst = Foregut cyst 45%",
+      "raw": "Enterogenous cyst = Foregut cyst 45% (a)  bronchogenic cyst (30%) (b)  esophageal duplication cyst (15%) (c)  neurenteric cyst (least common)",
+      "frequency": "45%"
+    },
+    {
+      "name": "Pericardial cyst 30%",
+      "raw": "Pericardial cyst 30%",
+      "frequency": "30%"
+    },
+    {
+      "name": "Thymic cyst 10%",
+      "raw": "Thymic cyst 10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "Nonspecific mesothelial cyst 10%",
+      "raw": "Nonspecific mesothelial cyst 10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "Cystic hygroma 5%",
+      "raw": "Cystic hygroma 5%",
+      "frequency": "5%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  21% of all primary mediastinal tumors @   Anterior mediastinum Time of onset:   several months after injury Location:   paravertebral gutter √  erosion of ribs + vertebrae Frequency of Developmental Mediastinal Cyst"
+}

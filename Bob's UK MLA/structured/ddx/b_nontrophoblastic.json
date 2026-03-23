@@ -1,0 +1,27 @@
+{
+  "finding": "B. NONTROPHOBLASTIC",
+  "slug": "b_nontrophoblastic",
+  "chapter": "PLACENTA",
+  "source_file": "processed_clusters/placenta/b_nontrophoblastic.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chorioangioma",
+      "raw": "Chorioangioma (in up to 1% of placentas)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Metastatic lesion (rare): melanoma, breast carcinoma, bronchial carcinoma",
+      "raw": "Metastatic lesion (rare): melanoma, breast carcinoma, bronchial carcinoma",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

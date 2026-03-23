@@ -1,0 +1,87 @@
+{
+  "finding": "Inspiratory Stridor in Children",
+  "slug": "inspiratory_stridor_in_children",
+  "chapter": "AIRWAYS",
+  "source_file": "processed_clusters/airways/inspiratory_stridor_in_children.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Croup",
+      "raw": "Croup",
+      "frequency": null
+    },
+    {
+      "name": "Congenital subglottic stenosis",
+      "raw": "Congenital subglottic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Subglottic hemangioma",
+      "raw": "Subglottic hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Airway foreign body",
+      "raw": "Airway foreign body",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal foreign body",
+      "raw": "Esophageal foreign body",
+      "frequency": null
+    },
+    {
+      "name": "Epiglottitis",
+      "raw": "Epiglottitis",
+      "frequency": null
+    },
+    {
+      "name": "Narrower nasopharynx",
+      "raw": "Narrower nasopharynx",
+      "frequency": null
+    },
+    {
+      "name": "Shorter trachea",
+      "raw": "Shorter trachea",
+      "frequency": null
+    },
+    {
+      "name": "Larynx location more anterosuperiorly at level of C3-C4",
+      "raw": "Larynx location more anterosuperiorly at level of C3-C4",
+      "frequency": null
+    },
+    {
+      "name": "Cricoid cartilage = narrowest part",
+      "raw": "Cricoid cartilage = narrowest part",
+      "frequency": null
+    },
+    {
+      "name": "Conus elasticus (located 1 cm below glottis): very susceptible to edema",
+      "raw": "Conus elasticus (located 1 cm below glottis): very susceptible to edema",
+      "frequency": null
+    },
+    {
+      "name": "Vocal cords more anteriorly angled",
+      "raw": "Vocal cords more anteriorly angled",
+      "frequency": null
+    },
+    {
+      "name": "Epiglottis broader and longer",
+      "raw": "Epiglottis broader and longer",
+      "frequency": null
+    },
+    {
+      "name": "Tongue larger",
+      "raw": "Tongue larger",
+      "frequency": null
+    },
+    {
+      "name": "Intercostal and diaphragmatic muscles weaker In acute upper airway obstruction obtain lateral and frontal soft-tissue radiographs of the neck in upright position. If unstable, a single upright soft-tissue lateral radiograph is usually sufficiently diagnostic.",
+      "raw": "Intercostal and diaphragmatic muscles weaker In acute upper airway obstruction obtain lateral and frontal soft-tissue radiographs of the neck in upright position. If unstable, a single upright soft-tissue lateral radiograph is usually sufficiently diagnostic.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Airway Obstruction in Childhood Predisposing anatomy compared to adult: In acute lower airway obstruction → upright frontal CXR during inspiration with depiction of > 6 anterior ribs at mid-hemidiaphragmatic level + lateral neck radiograph and also expiratory CXR with possible foreign body aspiration. Nasopharyngeal Narrowing choanal atresia, choanal stenosis, encephalocele (a) Congenital: adenoidal enlargement (= pharyngeal tonsils narrow pharynx), polyps (b) Inflammatory: (c) Neoplastic: juvenile angiofibroma, rhabdomyosarcoma, teratoma, neuroblastoma, lymphoepithelioma (d) Traumatic: foreig"
+}

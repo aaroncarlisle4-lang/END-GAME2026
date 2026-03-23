@@ -1,0 +1,82 @@
+{
+  "finding": "Hypovascular Liver Metastases",
+  "slug": "hypovascular_liver_metastases_0a74e1",
+  "chapter": "LIPOMA OF LIVER",
+  "source_file": "processed_clusters/lipoma_of_liver/hypovascular_liver_metastases_0a74e1.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Stomach",
+      "raw": "Stomach",
+      "frequency": null
+    },
+    {
+      "name": "Colon / rectum",
+      "raw": "Colon / rectum",
+      "frequency": null
+    },
+    {
+      "name": "Head & neck",
+      "raw": "Head & neck",
+      "frequency": null
+    },
+    {
+      "name": "Pancreas",
+      "raw": "Pancreas",
+      "frequency": null
+    },
+    {
+      "name": "Lung",
+      "raw": "Lung",
+      "frequency": null
+    },
+    {
+      "name": "Breast",
+      "raw": "Breast",
+      "frequency": null
+    },
+    {
+      "name": "Transitional cell carcinoma",
+      "raw": "Transitional cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Prostate",
+      "raw": "Prostate",
+      "frequency": null
+    },
+    {
+      "name": "Colon carcinoma",
+      "raw": "Colon carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid carcinoma",
+      "raw": "Thyroid carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast carcinoma",
+      "raw": "Breast carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  decreased enhancement relative to normal liver √  low SI on T1WI images + iso- to hyperintense on T2WI √  delayed enhancement during portal venous phase / (occasionally) early ring enhancement ◊  Most conspicuous on portal venous phase images! Hemorrhagic Liver Metastases mnemonic:   CT BeComes MR and:  lung, testicle √  hyperintense on T1WI"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "B. SOLID MALIGNANT",
+  "slug": "b_solid_malignant_237e16",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/b_solid_malignant_237e16.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastatic destruction of pedicle: neuroblastoma",
+      "raw": "Metastatic destruction of pedicle: neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant PNST",
+      "raw": "Malignant PNST",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma / primitive neuroectodermal tumor",
+      "raw": "Ewing sarcoma / primitive neuroectodermal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Solitary bone plasmacytoma",
+      "raw": "Solitary bone plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

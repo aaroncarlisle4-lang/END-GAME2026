@@ -1,0 +1,62 @@
+{
+  "finding": "Absent Greater Sphenoid Wing",
+  "slug": "absent_greater_sphenoid_wing",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/absent_greater_sphenoid_wing.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Optic glioma",
+      "raw": "Optic glioma",
+      "frequency": null
+    },
+    {
+      "name": "Relapsing hematoma",
+      "raw": "Relapsing hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Retinoblastoma",
+      "raw": "Retinoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

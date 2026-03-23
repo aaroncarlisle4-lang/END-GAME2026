@@ -1,0 +1,37 @@
+{
+  "finding": "Fibrous Dysplasia (DDx)",
+  "slug": "fibrous_dysplasia_ddx",
+  "chapter": "Fibrous Dysplasia",
+  "source_file": "processed_clusters/fibrous_dysplasia/fibrous_dysplasia_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "central ossifying fibroma",
+      "raw": "central ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "central giant cell granuloma",
+      "raw": "central giant cell granuloma",
+      "frequency": null
+    },
+    {
+      "name": "aneurysmal bone cyst",
+      "raw": "aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "osteomyelitis",
+      "raw": "osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "early fibro-osseous lesion",
+      "raw": "early fibro-osseous lesion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "attenuation of typically 70-130 HU + intermixed areas of sclerosis with higher values: | pagetoid / ground glass appearance (53%) ← equal mixture of dense woven trabecular | homogeneously dense opaque sclerotic bone (23%) ← predominance of osseous | radiolucent cystic bone (21%) = spherical / ovoid density surrounded by dense bony"
+}

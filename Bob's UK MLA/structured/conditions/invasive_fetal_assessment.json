@@ -1,0 +1,25 @@
+{
+  "name": "INVASIVE FETAL ASSESSMENT",
+  "slug": "invasive_fetal_assessment",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF OBSTETRIC AND GYNECOLOGIC",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_obstetric_and_gynecologic/invasive_fetal_assessment.md",
+  "definition": "aspiration of cells from chorion frondosum for genetic studies (karyotype, DNA analysis, PERCUTANEOUS UMBILICAL BLOOD SAMPLING (PUBS)",
+  "demographics": {},
+  "dominant_finding": "use continuous ultrasound guidance",
+  "distribution": "",
+  "discriminating_features": [
+    "avoid fetus, placenta, umbilical cord, uterine contraction, fibroid, large uterine",
+    "use continuous ultrasound guidance",
+    "inject 2-5 mL of indigo carmine dye in first sac of twin (colorless fluid assures"
+  ],
+  "other_features": {
+    "general": [
+      "avoid fetus, placenta, umbilical cord, uterine contraction, fibroid, large uterine",
+      "use continuous ultrasound guidance",
+      "inject 2-5 mL of indigo carmine dye in first sac of twin (colorless fluid assures"
+    ]
+  },
+  "clinical": {
+    "Cx": "1. Chorioamnionitis"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Congenital Pancreatic Anomalies",
+  "slug": "congenital_pancreatic_anomalies_ceb963",
+  "chapter": "PANCREAS",
+  "source_file": "processed_clusters/pancreas/congenital_pancreatic_anomalies_ceb963.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fusion Anomaly",
+      "raw": "Fusion Anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Pancreas divisum",
+      "raw": "Pancreas divisum",
+      "frequency": null
+    },
+    {
+      "name": "Agenesis of dorsal pancreas",
+      "raw": "Agenesis of dorsal pancreas",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

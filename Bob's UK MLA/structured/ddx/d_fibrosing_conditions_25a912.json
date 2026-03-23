@@ -1,0 +1,27 @@
+{
+  "finding": "D. Fibrosing conditions",
+  "slug": "d_fibrosing_conditions_25a912",
+  "chapter": "CATAMENIAL PNEUMOTHORAX",
+  "source_file": "processed_clusters/catamenial_pneumothorax/d_fibrosing_conditions_25a912.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mediastinitis",
+      "raw": "Mediastinitis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Filariasis",
+      "raw": "Filariasis (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

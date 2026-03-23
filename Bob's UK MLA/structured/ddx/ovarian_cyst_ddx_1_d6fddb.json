@@ -1,0 +1,27 @@
+{
+  "finding": "Ovarian Cyst (DDx)",
+  "slug": "ovarian_cyst_ddx_1_d6fddb",
+  "chapter": "Ovarian Cyst",
+  "source_file": "processed_clusters/ovarian_cyst/ovarian_cyst_ddx_1_d6fddb.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "endometrioma",
+      "raw": "endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "ovarian tumor",
+      "raw": "ovarian tumor",
+      "frequency": null
+    },
+    {
+      "name": "organized clot in any enclosed space",
+      "raw": "organized clot in any enclosed space",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "posterior through-transmission | unilocular cyst with thick crenulated enhancing wall | intracystic blood products with high attenuation | fluid surrounding adnexa (after rupture)"
+}

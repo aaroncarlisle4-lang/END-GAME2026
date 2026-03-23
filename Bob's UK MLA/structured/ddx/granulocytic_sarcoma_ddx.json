@@ -1,0 +1,37 @@
+{
+  "finding": "Granulocytic Sarcoma (DDx)",
+  "slug": "granulocytic_sarcoma_ddx",
+  "chapter": "Granulocytic Sarcoma",
+  "source_file": "processed_clusters/granulocytic_sarcoma/granulocytic_sarcoma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "osteomyelitis",
+      "raw": "osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "histiocytosis X",
+      "raw": "histiocytosis X",
+      "frequency": null
+    },
+    {
+      "name": "neuroblastoma",
+      "raw": "neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "multiple myeloma",
+      "raw": "multiple myeloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "generally homogeneously isoattenuating to slightly hyperattenuating relative to muscle / | homogeneous enhancement on CT / MR (DDx to hematoma / abscess) | iso- to hypointense relative to gray matter / bone marrow / muscle on T1WI | heterogeneously iso- to slightly hyperintense on T2WI"
+}

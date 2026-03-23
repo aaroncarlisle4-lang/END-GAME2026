@@ -1,0 +1,27 @@
+{
+  "name": "ESSENTIAL OSTEOLYSIS",
+  "slug": "essential_osteolysis",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/essential_osteolysis.md",
+  "definition": "progressive slow bone-resorptive disease",
+  "demographics": {
+    "Histo": "proliferation + hyperplasia of smooth muscle cells of synovial arterioles"
+  },
+  "dominant_finding": "progressive osteolysis of carpal + tarsal bones",
+  "distribution": "",
+  "discriminating_features": [
+    "progressive osteolysis of carpal + tarsal bones",
+    "thinned pointed proximal ends of metacarpals + metatarsals",
+    "elbows show same type of destruction",
+    "bathyrocephalic depression of base of skull"
+  ],
+  "other_features": {
+    "general": [
+      "progressive osteolysis of carpal + tarsal bones",
+      "thinned pointed proximal ends of metacarpals + metatarsals",
+      "elbows show same type of destruction",
+      "bathyrocephalic depression of base of skull"
+    ]
+  },
+  "clinical": {}
+}

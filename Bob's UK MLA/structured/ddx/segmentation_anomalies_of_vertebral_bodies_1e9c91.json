@@ -1,0 +1,32 @@
+{
+  "finding": "Segmentation Anomalies of Vertebral Bodies",
+  "slug": "segmentation_anomalies_of_vertebral_bodies_1e9c91",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/segmentation_anomalies_of_vertebral_bodies_1e9c91.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Asomia = agenesis of vertebral body",
+      "raw": "Asomia = agenesis of vertebral body",
+      "frequency": null
+    },
+    {
+      "name": "Hemivertebra (a)  Unilateral wedge vertebra",
+      "raw": "Hemivertebra (a)  Unilateral wedge vertebra",
+      "frequency": null
+    },
+    {
+      "name": "Coronal cleft =  failure of fusion of anterior + posterior ossification centers May be associated with:   premature male infant, Chondrodystrophia calcificans congenita",
+      "raw": "Coronal cleft =  failure of fusion of anterior + posterior ossification centers May be associated with:   premature male infant, Chondrodystrophia calcificans congenita",
+      "frequency": null
+    },
+    {
+      "name": "Butterfly vertebra =  failure of fusion of lateral halves ← persistence of notochordal tissue",
+      "raw": "Butterfly vertebra =  failure of fusion of lateral halves ← persistence of notochordal tissue",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "during 9th-12th week of gestation two ossification centers form for the ventral + dorsal half of vertebral body √  complete absence of vertebral body √  hypoplastic posterior elements may be present √  right / left hemivertebra √  scoliosis at birth (b)  Dorsal hemivertebra √  rapidly progressive kyphoscoliosis (c)  Ventral hemivertebra (extremely rare) Location:   usually in lower thoracic + lumbar spine √  vertical radiolucent band just behind midportion of vertebral body; disappears mostly by 6 months of life"
+}

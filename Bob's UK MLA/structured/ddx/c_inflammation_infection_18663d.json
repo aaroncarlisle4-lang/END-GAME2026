@@ -1,0 +1,42 @@
+{
+  "finding": "C. INFLAMMATION / INFECTION",
+  "slug": "c_inflammation_infection_18663d",
+  "chapter": "D. UNDERDISTENDED BLADDER",
+  "source_file": "processed_clusters/d_underdistended_bladder/c_inflammation_infection_18663d.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystitis: hemorrhagic cystitis, abacterial cystitis, bullous cystitis, edematous cystitis, interstitial cystitis, cystitis cystica, eosinophilic cystitis, granulomatous cystitis, emphysematous cystitis, cyclophosphamide cystitis, cystitis glandularis",
+      "raw": "Cystitis: hemorrhagic cystitis, abacterial cystitis, bullous cystitis, edematous cystitis, interstitial cystitis, cystitis cystica, eosinophilic cystitis, granulomatous cystitis, emphysematous cystitis, cyclophosphamide cystitis, cystitis glandularis (premalignant lesion with villous lesions in bladder dome from proliferation of \"intestinelike\" glands in submucosa)",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Malakoplakia",
+      "raw": "Malakoplakia",
+      "frequency": null
+    },
+    {
+      "name": "Extravesical inflammation:",
+      "raw": "Extravesical inflammation:",
+      "frequency": null
+    },
+    {
+      "name": "HEMATOMA after instrumentation, surgery, trauma",
+      "raw": "HEMATOMA after instrumentation, surgery, trauma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  Diverticulitis (b)  Crohn disease (c)  endometriosis"
+}

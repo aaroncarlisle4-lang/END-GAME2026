@@ -1,0 +1,30 @@
+{
+  "name": "VASCULAR BREAST DISEASE",
+  "slug": "vascular_breast_disease",
+  "chapter": "BREAST SKIN",
+  "source_file": "processed_clusters/disease_entries/breast_skin/vascular_breast_disease.md",
+  "definition": "loss of normal blood supply → infarction of breast tissue most commonly associated with",
+  "demographics": {
+    "Location": "axilla / axillary tail of breast"
+  },
+  "dominant_finding": "unilateral dilatation of breast veins ← axillary or subclavian vein blockage",
+  "distribution": "axilla / axillary tail of breast",
+  "discriminating_features": [
+    "unilateral dilatation of breast veins ← axillary or subclavian vein blockage",
+    "bilaterally enlarged breast veins ← occlusion of SVC",
+    "bilateral breast venous congestion",
+    "bilateral skin thickening",
+    "interstitial breast edema"
+  ],
+  "other_features": {
+    "general": [
+      "unilateral dilatation of breast veins ← axillary or subclavian vein blockage",
+      "bilaterally enlarged breast veins ← occlusion of SVC",
+      "bilateral breast venous congestion",
+      "bilateral skin thickening",
+      "interstitial breast edema",
+      "solitary lobulated mass with single cystic space (lymphangioma circumscriptum) /"
+    ]
+  },
+  "clinical": {}
+}

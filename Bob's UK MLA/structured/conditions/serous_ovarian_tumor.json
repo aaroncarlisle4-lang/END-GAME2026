@@ -1,0 +1,50 @@
+{
+  "name": "SEROUS OVARIAN TUMOR",
+  "slug": "serous_ovarian_tumor",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/serous_ovarian_tumor.md",
+  "definition": "variant of serous cystadenoma, rarely malignant SEROUS PAPILLARY CARCINOMA OF OVARY",
+  "demographics": {
+    "Frequency": "30% of all ovarian tumors 60-80% of all malignant ovarian neoplasms",
+    "Path": "areas of solid tissue components + hemorrhage and necrosis (more common in malignant",
+    "Histo": "lined by tall columnar epithelial cells (as in fallopian tubes), filled with serous fluid,",
+    "Age": "20-50 years (malignant variety later)",
+    "Prevalence": "nearly 50% of all benign ovarian cystic serous tumors; bilateral in 6%",
+    "Mean age": "31 (range, 15-65) years"
+  },
+  "dominant_finding": "psammomatous calcifications (12%)",
+  "distribution": "bilateral in 7-20-30%",
+  "discriminating_features": [
+    "usually unilocular (occasionally multilocular) thin-walled cyst up to 20 cm in diameter",
+    "only small amount of solid tissue: occasional septum / mural nodule (papillary projections",
+    "bilateral in 7-20-30%",
+    "small multilocular cystic tumor",
+    "clusters of short rounded papillary processes"
+  ],
+  "other_features": {
+    "general": [
+      "usually unilocular (occasionally multilocular) thin-walled cyst up to 20 cm in diameter",
+      "only small amount of solid tissue: occasional septum / mural nodule (papillary projections",
+      "bilateral in 7-20-30%",
+      "small multilocular cystic tumor",
+      "clusters of short rounded papillary processes"
+    ],
+    "MR": [
+      "multiloculated cystic mass",
+      "solid fibrous component:",
+      "low SI on T2WI",
+      "mild enhancement on T1WI",
+      "papillary projections within cyst (in 67%)",
+      "multilocular cyst with large amount of solid tissue: papillomatous excrescences within cyst",
+      "may have calcifications",
+      "bilateral in 50-70%",
+      "loss of capsular definition + tumor fixation",
+      "ascites ← peritoneal surface implantation",
+      "lymph node enlargement: periaortic, mediastinal, supra- clavicular"
+    ],
+    "CT": [
+      "psammomatous calcifications (12%)"
+    ]
+  },
+  "clinical": {}
+}

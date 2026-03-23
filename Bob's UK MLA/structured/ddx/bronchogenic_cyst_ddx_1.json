@@ -1,0 +1,25 @@
+{
+  "finding": "Bronchogenic Cyst (DDx)",
+  "slug": "bronchogenic_cyst_ddx_1",
+  "chapter": "Bronchogenic Cyst",
+  "source_file": "processed_clusters/bronchogenic_cyst/bronchogenic_cyst_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "esophageal duplication cyst",
+      "raw": "esophageal duplication cyst (middle / posterior mediastinum)",
+      "frequency": null
+    },
+    {
+      "name": "neurenteric cyst (posterior mediastinum [vertebral defect)]",
+      "raw": "neurenteric cyst (posterior mediastinum",
+      "frequency": null,
+      "sites": [
+        "vertebral defect)"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "echogenic distended lung obstructed by bronchogenic cyst | hyperintense signal relative to lung + CSF on T2WI | occasionally hyperintense signal relative to lung on T1WI (mucoid / hemorrhagic content) | hyperintense obstructed lobe on T2WI"
+}

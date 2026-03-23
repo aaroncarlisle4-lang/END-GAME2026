@@ -1,0 +1,55 @@
+{
+  "finding": "Congenital Urethral Anomalies",
+  "slug": "congenital_urethral_anomalies",
+  "chapter": "URETHRA",
+  "source_file": "processed_clusters/urethra/congenital_urethral_anomalies.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Anomaly of number",
+      "raw": "Anomaly of number",
+      "frequency": null
+    },
+    {
+      "name": "Duplication of urethra",
+      "raw": "Duplication of urethra",
+      "frequency": null
+    },
+    {
+      "name": "Anomaly of form [Posterior urethral valves]",
+      "raw": "Anomaly of form",
+      "frequency": null,
+      "sites": [
+        "Posterior urethral valves"
+      ]
+    },
+    {
+      "name": "Congenital stricture",
+      "raw": "Congenital stricture",
+      "frequency": null
+    },
+    {
+      "name": "Congenital polyp",
+      "raw": "Congenital polyp",
+      "frequency": null
+    },
+    {
+      "name": "Congenital diverticulum",
+      "raw": "Congenital diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Malformation of urethral groove",
+      "raw": "Malformation of urethral groove",
+      "frequency": null
+    },
+    {
+      "name": "Epispadia =  absent roof of urethra with opening anywhere between base of bladder and glans penis",
+      "raw": "Epispadia =  absent roof of urethra with opening anywhere between base of bladder and glans penis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

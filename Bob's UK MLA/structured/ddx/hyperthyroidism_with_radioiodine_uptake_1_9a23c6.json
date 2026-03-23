@@ -1,0 +1,107 @@
+{
+  "finding": "Hyperthyroidism with Radioiodine Uptake < 1%",
+  "slug": "hyperthyroidism_with_radioiodine_uptake_1_9a23c6",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/hyperthyroidism_with_radioiodine_uptake_1_9a23c6.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Subacute thyroiditis",
+      "raw": "Subacute thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic hyperthyroidism =  extrathyroidal source of thyroid hormone (a)  Thyrotoxicosis factitia / medicamentosa = factitious surreptitious (stealthy) self-administration of thyroid hormones (eg, hamburger thyroiditis ← bovine thyroid in hamburger meat) (b)  Struma ovarii =  monodermal ovarian teratoma containing thyroid tissue",
+      "raw": "Ectopic hyperthyroidism =  extrathyroidal source of thyroid hormone (a)  Thyrotoxicosis factitia / medicamentosa = factitious surreptitious (stealthy) self-administration of thyroid hormones (eg, hamburger thyroiditis ← bovine thyroid in hamburger meat) (b)  Struma ovarii =  monodermal ovarian teratoma containing thyroid tissue",
+      "frequency": null
+    },
+    {
+      "name": "hyperthyroidism in 5%",
+      "raw": "hyperthyroidism in 5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "mild T3 toxicosis",
+      "raw": "mild T3 toxicosis",
+      "frequency": null
+    },
+    {
+      "name": "PRIMARY HYPOTHYROIDISM (most common) =  thyroid's inability to produce sufficient thyroid hormone",
+      "raw": "PRIMARY HYPOTHYROIDISM (most common) =  thyroid's inability to produce sufficient thyroid hormone",
+      "frequency": "most common"
+    },
+    {
+      "name": "TSH >10 mU/L + FT4 below reference range",
+      "raw": "TSH >10 mU/L + FT4 below reference range",
+      "frequency": null
+    },
+    {
+      "name": "Agenesis of thyroid",
+      "raw": "Agenesis of thyroid",
+      "frequency": null
+    },
+    {
+      "name": "Congenital dyshormonogenesis",
+      "raw": "Congenital dyshormonogenesis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic thyroiditis",
+      "raw": "Chronic thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "Previous radioiodine therapy",
+      "raw": "Previous radioiodine therapy",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic thyroid",
+      "raw": "Ectopic thyroid (1÷4,000)",
+      "frequency": null
+    },
+    {
+      "name": "SECONDARY HYPOTHYROIDISM =  failure of anterior pituitary to release sufficient quantities of TSH",
+      "raw": "SECONDARY HYPOTHYROIDISM =  failure of anterior pituitary to release sufficient quantities of TSH",
+      "frequency": null
+    },
+    {
+      "name": "low to mildly elevated TSH + low FT4",
+      "raw": "low to mildly elevated TSH + low FT4",
+      "frequency": null
+    },
+    {
+      "name": "Sheehan syndrome",
+      "raw": "Sheehan syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Head trauma",
+      "raw": "Head trauma",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary tumor",
+      "raw": "Pituitary tumor (primary / secondary)",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Surgery",
+      "raw": "Surgery",
+      "frequency": null
+    },
+    {
+      "name": "TERTIARY / HYPOTHALAMIC HYPOTHYROIDISM =  failure of hypothalamus to produce sufficient amounts of TRH",
+      "raw": "TERTIARY / HYPOTHALAMIC HYPOTHYROIDISM =  failure of hypothalamus to produce sufficient amounts of TRH",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   up to 3% of all teratomas (malignant teratoma in 24% of cases) Peak age:   50 years √  multilocular cystic ovarian mass with solid components MR: √  multiple intracystic areas with low SI on T2WI + intermediate SI on T1WI NUC: √  higher uptake than thyroid gland DDx:   thyroid cancer metastatic to the ovary Prognosis:   > 95% benign; malignant transformation to papillary / follicular thyroid cancer (rare) (c)  Metastatic functional thyroid cancer (very rare, 25 cases) Hypothyroidism"
+}

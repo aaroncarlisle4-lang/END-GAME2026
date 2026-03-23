@@ -1,0 +1,22 @@
+{
+  "finding": "Cholangitis — Liver parenchyma (DDx)",
+  "slug": "cholangitis_liver_parenchyma_ddx_1_448171",
+  "chapter": "Cholangitis",
+  "source_file": "processed_clusters/cholangitis/cholangitis_liver_parenchyma_ddx_1_448171.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ascending cholangitis",
+      "raw": "ascending cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "cholangiocarcinoma",
+      "raw": "cholangiocarcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"cobblestone\" appearance (= coarse nodular mural irregularities) in 50% | new strictures + lengthening of strictures between 6 months and 6 years (< 20%) | minimal duct dilatation ← periductal inflammation + fibrosis | marked ductal dilatation (24%)"
+}

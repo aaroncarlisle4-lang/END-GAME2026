@@ -1,0 +1,29 @@
+{
+  "name": "SUPERIOR VENA CAVA SYNDROME",
+  "slug": "superior_vena_cava_syndrome",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/superior_vena_cava_syndrome.md",
+  "definition": "obstruction of SVC with development of collateral pathways",
+  "demographics": {},
+  "dominant_finding": "increased tracer uptake in quadrate lobe + posterior aspect of medial segment of left lobe",
+  "distribution": "superior mediastinal widening (64%)",
+  "discriminating_features": [
+    "superior mediastinal widening (64%)",
+    "encasement / compression / occlusion of SVC",
+    "dilated cervical + superficial thoracic veins (80%)",
+    "SVC thrombus",
+    "increased tracer uptake in quadrate lobe + posterior aspect of medial segment of left lobe"
+  ],
+  "other_features": {
+    "general": [
+      "superior mediastinal widening (64%)",
+      "encasement / compression / occlusion of SVC",
+      "dilated cervical + superficial thoracic veins (80%)",
+      "SVC thrombus"
+    ],
+    "NUC": [
+      "increased tracer uptake in quadrate lobe + posterior aspect of medial segment of left lobe"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Ectopic Pregnancy — Abdominal cavity (DDx)",
+  "slug": "ectopic_pregnancy_abdominal_cavity_ddx",
+  "chapter": "Ectopic Pregnancy",
+  "source_file": "processed_clusters/ectopic_pregnancy/ectopic_pregnancy_abdominal_cavity_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "uterine fibroid",
+      "raw": "uterine fibroid",
+      "frequency": null
+    },
+    {
+      "name": "calcified ovarian malignancy / cyst",
+      "raw": "calcified ovarian malignancy / cyst",
+      "frequency": null
+    },
+    {
+      "name": "sarcoma",
+      "raw": "sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "large densely calcified mass in lower abdomen / upper pelvis | CT scan reveals fetal skeleton"
+}

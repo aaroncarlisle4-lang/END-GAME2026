@@ -1,0 +1,42 @@
+{
+  "finding": "The aorta is normally very resistant to infection. However, an abnormal aortic wall as occurs with",
+  "slug": "the_aorta_is_normally_very_resistant_to_infection_however_an_abnormal_aortic_wal",
+  "chapter": "HYPOPLASTIC RIGHT VENTRICLE",
+  "source_file": "processed_clusters/hypoplastic_right_ventricle/the_aorta_is_normally_very_resistant_to_infection_however_an_abnormal_aortic_wal.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bacterial: Staphylococcus > Streptococcus > Salmonella, Clostridium septicum",
+      "raw": "Bacterial: Staphylococcus > Streptococcus > Salmonella, Clostridium septicum (exceedingly rare, but strongly associated with GI / hematologic malignancy)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Luetic = syphilis",
+      "raw": "Luetic = syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Mycobacterial = Mycobacterium tuberculosis",
+      "raw": "Mycobacterial = Mycobacterium tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Viral: eg, HIV infection / AIDS",
+      "raw": "Viral: eg, HIV infection / AIDS",
+      "frequency": null
+    },
+    {
+      "name": "Stenosis of coronary ostia ← intimal thickening",
+      "raw": "Stenosis of coronary ostia ← intimal thickening",
+      "frequency": null
+    },
+    {
+      "name": "Aortic regurgitation",
+      "raw": "Aortic regurgitation (syphilitic valvulitis), rare DDx:  Degenerative calcification of ascending aorta (older population, no aneurysm, no aortic regurgitation)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "atherosclerotic disease, preexisting aneurysm, cystic medial necrosis, diabetes, vascular malformation, medical devices, or surgery, makes it susceptible to infection! Organism: √  thickening of aortic wall + intramural gas (KEY FEATURE) N.B.:   aorta may appear normal on imaging Rx:   empiric antibiotic therapy against S. aureus and gram-negative rods DDx:   infected aortic aneurysm (dilated aorta prone to rupture) Syphilitic Aortitis =  LUETIC AORTITIS Prevalence:   in 10-15% of untreated patients (accounts for death in ⅓) Path:  periaortitis (via lymphatics), mesaortitis (via vasa vasorum)"
+}

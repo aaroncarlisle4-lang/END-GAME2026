@@ -1,0 +1,32 @@
+{
+  "finding": "D. Sacral mass with presacral extension (a) benign primary sacral tumor",
+  "slug": "d_sacral_mass_with_presacral_extension_a_benign_primary_sacral_tumor",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/d_sacral_mass_with_presacral_extension_a_benign_primary_sacral_tumor.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst (b)  malignant primary sacral tumor",
+      "raw": "Aneurysmal bone cyst (b)  malignant primary sacral tumor",
+      "frequency": null
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

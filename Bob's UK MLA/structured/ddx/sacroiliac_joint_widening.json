@@ -1,0 +1,52 @@
+{
+  "finding": "Sacroiliac Joint Widening",
+  "slug": "sacroiliac_joint_widening",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/sacroiliac_joint_widening.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Colitis",
+      "raw": "Colitis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess (infection)",
+      "frequency": null
+    },
+    {
+      "name": "Parathyroid disease",
+      "raw": "Parathyroid disease",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Reiter syndrome",
+      "raw": "Reiter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Psoriasis",
+      "raw": "Psoriasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

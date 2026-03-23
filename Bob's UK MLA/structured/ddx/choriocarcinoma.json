@@ -1,0 +1,97 @@
+{
+  "finding": "CHORIOCARCINOMA",
+  "slug": "choriocarcinoma",
+  "chapter": "CHORIOANGIOMA",
+  "source_file": "processed_clusters/chorioangioma/choriocarcinoma.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "↑ serum hCG",
+      "raw": "↑ serum hCG (100% sensitive, 100% specific)",
+      "frequency": "100%"
+    },
+    {
+      "name": "isosexual precocity",
+      "raw": "isosexual precocity (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Preceded by:   mnemonic:   MEAN",
+      "raw": "Preceded by:   mnemonic:   MEAN",
+      "frequency": null
+    },
+    {
+      "name": "Mole (hydatidiform)    in 50.0%",
+      "raw": "Mole (hydatidiform)    in 50.0%",
+      "frequency": "50.0%"
+    },
+    {
+      "name": "Ectopic pregnancy    in 2.5%",
+      "raw": "Ectopic pregnancy    in 2.5%",
+      "frequency": "2.5%"
+    },
+    {
+      "name": "Abortion, spontaneous    in 25.0%",
+      "raw": "Abortion, spontaneous    in 25.0%",
+      "frequency": "25.0%"
+    },
+    {
+      "name": "Normal pregnancy    in 22.5%",
+      "raw": "Normal pregnancy    in 22.5%",
+      "frequency": "22.5%"
+    },
+    {
+      "name": "continued elevation of hCG after expulsion of molar / normal pregnancy (25%); continued vaginal bleeding",
+      "raw": "continued elevation of hCG after expulsion of molar / normal pregnancy (25%); continued vaginal bleeding",
+      "frequency": "25%"
+    },
+    {
+      "name": "Chemotherapy: methotrexate, actinomycin D ± cyclophosphamide",
+      "raw": "Chemotherapy: methotrexate, actinomycin D ± cyclophosphamide",
+      "frequency": null
+    },
+    {
+      "name": "Hysterectomy",
+      "raw": "Hysterectomy (if at risk for uterine rupture)",
+      "frequency": null
+    },
+    {
+      "name": "True mole",
+      "raw": "True mole",
+      "frequency": null
+    },
+    {
+      "name": "Hydropic degeneration of placenta",
+      "raw": "Hydropic degeneration of placenta",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial proliferation",
+      "raw": "Endometrial proliferation",
+      "frequency": null
+    },
+    {
+      "name": "Coexistent mole and fetus",
+      "raw": "Coexistent mole and fetus",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma (degenerated)",
+      "frequency": null
+    },
+    {
+      "name": "Incomplete abortion",
+      "raw": "Incomplete abortion",
+      "frequency": null
+    },
+    {
+      "name": "Products of conception",
+      "raw": "Products of conception (retained)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  remarkably aggressive Frequency:   < 1% Primary Ovarian Choriocarcinoma =  NONGESTATIONAL CHORIOCARCINOMA Prevalence:   extremely rare; 50 cases in world literature Age:     < 20 years Associated with:   germ cell tumor / epithelial neoplasm √  usually unilateral √  vascular predominantly solid tumor with areas of hemorrhage + necrosis + cyst formation Prognosis:  90% 5-year survival in spite of typically late diagnosis at advanced stage DDx:  ectopic pregnancy (frequently mistaken diagnosis!), metastasis to ovary from gestational choriocarcinoma (reproductive age) Gestational Ovarian Chori"
+}

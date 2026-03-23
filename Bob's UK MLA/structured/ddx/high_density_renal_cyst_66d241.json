@@ -1,0 +1,52 @@
+{
+  "finding": "High-density Renal Cyst",
+  "slug": "high_density_renal_cyst_66d241",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/high_density_renal_cyst_66d241.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Proteinaceous content",
+      "raw": "Proteinaceous content (20-40 HU)",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage (> 40 HU)",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Calcification",
+      "raw": "Calcification",
+      "frequency": null
+    },
+    {
+      "name": "Communication with calyx",
+      "raw": "Communication with calyx",
+      "frequency": null
+    },
+    {
+      "name": "Streak artifact",
+      "raw": "Streak artifact",
+      "frequency": null
+    },
+    {
+      "name": "clear straw-colored serous fluid",
+      "raw": "clear straw-colored serous fluid",
+      "frequency": null
+    },
+    {
+      "name": "almost always asymptomatic",
+      "raw": "almost always asymptomatic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  completely homogeneous cyst content ≥ 20 HU (often 50-90 HU) without enhancement √  simple cyst on US √  complex cyst on US √  pseudoenhancement (see above) ◊  Cyst wall cannot be evaluated in high-attenuation cysts! ◊  Considered a Bosniak Class II lesion if: ≤ 3 cm in size, partially exophytic, round, sharply marginated, homogeneous, nonenhancing ◊  A homogeneous renal mass with attenuation > 70 HU on NECT is benign with a 99% probability! Cyst of Renal Pelvis =  generic term for spherical fluid-filled mass intimately attached to renal pelvis without connection to pelvicaliceal system Pre"
+}

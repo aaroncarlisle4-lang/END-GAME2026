@@ -1,0 +1,63 @@
+{
+  "finding": "Columbia University + New York Hospital]",
+  "slug": "columbia_university_new_york_hospital_dbca27",
+  "chapter": "Layers of Penile Shaft",
+  "source_file": "processed_clusters/layers_of_penile_shaft/columbia_university_new_york_hospital_dbca27.md",
+  "quality_score": 0.367,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Tunica albuginea: surrounding corpora cavernosa",
+      "raw": "Tunica albuginea: surrounding corpora cavernosa (thick) and corpus spongiosum (thin)",
+      "frequency": null
+    },
+    {
+      "name": "ARTERIAL INFLOW:",
+      "raw": "ARTERIAL INFLOW:",
+      "frequency": null
+    },
+    {
+      "name": "Dorsal artery: lateral to deep dorsal vein",
+      "raw": "Dorsal artery: lateral to deep dorsal vein",
+      "frequency": null
+    },
+    {
+      "name": "Cavernosal artery: located in center of corpus callosum; terminal branch of internal pudendal artery",
+      "raw": "Cavernosal artery: located in center of corpus callosum; terminal branch of internal pudendal artery",
+      "frequency": null
+    },
+    {
+      "name": "Bulbourethral artery",
+      "raw": "Bulbourethral artery",
+      "frequency": null
+    },
+    {
+      "name": "VENOUS DRAINAGE:",
+      "raw": "VENOUS DRAINAGE:",
+      "frequency": null
+    },
+    {
+      "name": "Superficial dorsal vein = superficial to Buck fascia",
+      "raw": "Superficial dorsal vein = superficial to Buck fascia",
+      "frequency": null
+    },
+    {
+      "name": "Deep dorsal vein = deep to Buck fascia",
+      "raw": "Deep dorsal vein = deep to Buck fascia",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Tunica albuginea: surrounding corpora cavernosa": [
+      "Corpora cavernosa =  dorsally located paired structures consisting of venous sinusoids surrounded by strong fascial sheath (= tunica albuginea) Function:  erection Corpus spongiosum =  ventrally located midline structure surrounding urethra terminating in glans penis + surrounded by tunica albuginea Attached to:   ischial tuberosity via crura Perfusion of Penis Supply for:   glans penis, skin Supply for:   corpus cavernosum during erection Supply for:   urethral bulb + posterior corpus spongiosum"
+    ],
+    "ARTERIAL INFLOW:": [],
+    "Dorsal artery: lateral to deep dorsal vein": [],
+    "Cavernosal artery: located in center of corpus callosum; terminal branch of internal pudendal artery": [],
+    "Bulbourethral artery": [],
+    "VENOUS DRAINAGE:": [],
+    "Superficial dorsal vein = superficial to Buck fascia": [],
+    "Deep dorsal vein = deep to Buck fascia": []
+  },
+  "context": "Corpora cavernosa =  dorsally located paired structures consisting of venous sinusoids surrounded by strong fascial sheath (= tunica albuginea) Function:  erection Corpus spongiosum =  ventrally located midline structure surrounding urethra terminating in glans penis + surrounded by tunica albuginea Attached to:   ischial tuberosity via crura Perfusion of Penis Supply for:   glans penis, skin Supply for:   corpus cavernosum during erection Supply for:   urethral bulb + posterior corpus spongiosum"
+}

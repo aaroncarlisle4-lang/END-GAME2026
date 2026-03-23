@@ -1,0 +1,72 @@
+{
+  "finding": "Classification by Histology",
+  "slug": "classification_by_histology",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/classification_by_histology.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Astrocytic tumors",
+      "raw": "Astrocytic tumors (33.5%)",
+      "frequency": "33.5%"
+    },
+    {
+      "name": "\"Primitive\" neuroectodermal tumor = PNET",
+      "raw": "\"Primitive\" neuroectodermal tumor = PNET (21%) ›  Medulloblastoma (16%) ›  Ependymoblastoma (2.5%) ›  PNET of cerebral hemisphere (2.5%)",
+      "frequency": "21%"
+    },
+    {
+      "name": "Mixed gliomas",
+      "raw": "Mixed gliomas (16%)",
+      "frequency": "16%"
+    },
+    {
+      "name": "Malformative tumors",
+      "raw": "Malformative tumors (11.5%) ›  Craniopharyngioma (5.5%) ›  Lipoma (4.5%) ›  Dermoid cyst (1%) ›  Epidermal cyst (0.5%)",
+      "frequency": "11.5%"
+    },
+    {
+      "name": "Choroid plexus tumors",
+      "raw": "Choroid plexus tumors (4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Ependymal tumors",
+      "raw": "Ependymal tumors (4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Tumors of meningeal tissues",
+      "raw": "Tumors of meningeal tissues (3.5%) ›  Meningioma (3%) ›  Meningeal sarcoma (0.5%)",
+      "frequency": "3.5%"
+    },
+    {
+      "name": "Germ cell tumors",
+      "raw": "Germ cell tumors (2.5%) ›  Germinoma (1.5%) ›  Teratomatous tumor (1%)",
+      "frequency": "2.5%"
+    },
+    {
+      "name": "Neuronal tumors ›  Gangliocytoma",
+      "raw": "Neuronal tumors ›  Gangliocytoma (1.5%)",
+      "frequency": "1.5%"
+    },
+    {
+      "name": "Tumors of neuroendocrine origin ›  Pituitary adenoma",
+      "raw": "Tumors of neuroendocrine origin ›  Pituitary adenoma (1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Oligodendroglial tumors",
+      "raw": "Oligodendroglial tumors (0.5%)",
+      "frequency": "0.5%"
+    },
+    {
+      "name": "Tumors of blood vessel ›  Hemangioma",
+      "raw": "Tumors of blood vessel ›  Hemangioma (1%)",
+      "frequency": "1%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

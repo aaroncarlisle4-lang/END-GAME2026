@@ -1,0 +1,46 @@
+{
+  "name": "SPLENIC HEMANGIOMA",
+  "slug": "splenic_hemangioma",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/splenic_hemangioma.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "0.03-14% (autopsy); M > F",
+    "Age": "20-50 years",
+    "Histo": "proliferation of vascular channels lined by single layer of endothelium; mostly of",
+    "Associated with": "generalized angiomatosis, Klippel-Trénaunay-Weber syndrome, Beckwith-"
+  },
+  "dominant_finding": "predominantly avascular cystic lesion",
+  "distribution": "",
+  "discriminating_features": [
+    "usually small single lesion < 4 cm, up to 17 cm in size",
+    "foci of speckled / snowflakelike calcifications",
+    "predominantly avascular cystic lesion",
+    "solid areas hypo- / isodense to normal spleen and enhancing",
+    "hypo- / isointense on T1WI + hyperintense on T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "usually small single lesion < 4 cm, up to 17 cm in size",
+      "foci of speckled / snowflakelike calcifications"
+    ],
+    "US": [
+      "well-marginated predominantly hyperechoic lesion"
+    ],
+    "CT": [
+      "predominantly avascular cystic lesion",
+      "solid areas hypo- / isodense to normal spleen and enhancing"
+    ],
+    "MR": [
+      "hypo- / isointense on T1WI + hyperintense on T2WI",
+      "hypointense areas ← hemosiderin deposits",
+      "progressive centripetal enhancement with persistent uniform enhancement on delayed"
+    ],
+    "NUC": [
+      "no uptake of 99mTc-sulfur colloid"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "slow growth, thus becoming symptomatic in adulthood"
+  }
+}

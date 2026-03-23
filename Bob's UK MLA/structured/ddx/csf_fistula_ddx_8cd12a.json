@@ -1,0 +1,32 @@
+{
+  "finding": "Csf Fistula (DDx)",
+  "slug": "csf_fistula_ddx_8cd12a",
+  "chapter": "Csf Fistula",
+  "source_file": "processed_clusters/csf_fistula/csf_fistula_ddx_8cd12a.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "mucosal reaction",
+      "raw": "mucosal reaction",
+      "frequency": null
+    },
+    {
+      "name": "cholesteatoma",
+      "raw": "cholesteatoma",
+      "frequency": null
+    },
+    {
+      "name": "granulation tissue",
+      "raw": "granulation tissue",
+      "frequency": null
+    },
+    {
+      "name": "cholesterin granuloma",
+      "raw": "cholesterin granuloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "adjacent prominent arachnoid granulations | air-fluid level / opacification of contiguous sinus / middle ear / mastoid | pneumocephalus | lobular / nondependent area of soft-tissue opacification (meningocele,"
+}

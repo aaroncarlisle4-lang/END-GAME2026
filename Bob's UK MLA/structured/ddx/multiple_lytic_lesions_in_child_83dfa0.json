@@ -1,0 +1,37 @@
+{
+  "finding": "Multiple Lytic Lesions in Child",
+  "slug": "multiple_lytic_lesions_in_child_83dfa0",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/multiple_lytic_lesions_in_child_83dfa0.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Histiocytosis X",
+      "raw": "Histiocytosis X",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic neuroblastoma / leukemia",
+      "raw": "Metastatic neuroblastoma / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Enchondromatosis",
+      "raw": "Enchondromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Rare: cystic angiomatosis, multifocal osteomyelitis",
+      "raw": "Rare: cystic angiomatosis, multifocal osteomyelitis",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

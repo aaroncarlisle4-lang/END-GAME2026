@@ -1,0 +1,31 @@
+{
+  "name": "DIFFUSE AXONAL INJURY",
+  "slug": "diffuse_axonal_injury",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/diffuse_axonal_injury.md",
+  "definition": "WHITE MATTER SHEARING INJURY",
+  "demographics": {
+    "Incidence": "most common type of primary traumatic injury in patients with severe head trauma",
+    "Path": "much of the injury is microscopic",
+    "Histo": "multiple axonal retraction balls (HALLMARK), numerous perivascular hemorrhages"
+  },
+  "dominant_finding": "20% of lesions with small central areas of petechial hemorrhage",
+  "distribution": "20% of lesions with small central areas of petechial hemorrhage",
+  "discriminating_features": [
+    "often associated with intraventricular hemorrhage",
+    "sparing of cortex",
+    "20% of lesions with small central areas of petechial hemorrhage",
+    "foci of decreased density (usually seen when > 1.5 cm in size)",
+    "multiple small oval / round foci of decreased signal intensity on T1WI + increased signal"
+  ],
+  "other_features": {
+    "general": [
+      "often associated with intraventricular hemorrhage",
+      "sparing of cortex",
+      "20% of lesions with small central areas of petechial hemorrhage",
+      "foci of decreased density (usually seen when > 1.5 cm in size)",
+      "multiple small oval / round foci of decreased signal intensity on T1WI + increased signal"
+    ]
+  },
+  "clinical": {}
+}

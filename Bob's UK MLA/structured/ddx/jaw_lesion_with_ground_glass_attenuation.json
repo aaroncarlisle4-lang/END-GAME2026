@@ -1,0 +1,47 @@
+{
+  "finding": "Jaw Lesion with Ground-glass Attenuation",
+  "slug": "jaw_lesion_with_ground_glass_attenuation",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/jaw_lesion_with_ground_glass_attenuation.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal osteodystrophy",
+      "raw": "Renal osteodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia (b)  multifocal",
+      "raw": "Fibrous dysplasia (b)  multifocal",
+      "frequency": null
+    },
+    {
+      "name": "Florid cemento-osseous dysplasia",
+      "raw": "Florid cemento-osseous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Multiple ossifying fibromas",
+      "raw": "Multiple ossifying fibromas",
+      "frequency": null
+    },
+    {
+      "name": "Brown tumor of HPT (c)  unifocal jaw lesion with ground-glass attenuation",
+      "raw": "Brown tumor of HPT (c)  unifocal jaw lesion with ground-glass attenuation",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying fibroma",
+      "raw": "Ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Monostotic fibrous dysplasia",
+      "raw": "Monostotic fibrous dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  diffuse Path:   osteoblastic rim √  narrow zone of transition √  wide zone of transition √  longitudinal growth pattern √  nondisplaced teeth"
+}

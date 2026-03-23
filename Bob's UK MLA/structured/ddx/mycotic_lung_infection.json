@@ -1,0 +1,32 @@
+{
+  "finding": "Mycotic Lung Infection",
+  "slug": "mycotic_lung_infection",
+  "chapter": "C. RIGHT UPPER LOBE",
+  "source_file": "processed_clusters/c_right_upper_lobe/mycotic_lung_infection.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "IN HEALTHY SUBJECTS",
+      "raw": "IN HEALTHY SUBJECTS",
+      "frequency": null
+    },
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Coccidioidomycosis",
+      "raw": "Coccidioidomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Blastomycosis",
+      "raw": "Blastomycosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

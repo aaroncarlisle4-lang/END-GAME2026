@@ -1,0 +1,37 @@
+{
+  "finding": "Gastritis (DDx)",
+  "slug": "gastritis_ddx",
+  "chapter": "Gastritis",
+  "source_file": "processed_clusters/gastritis/gastritis_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "infection",
+      "raw": "infection",
+      "frequency": null
+    },
+    {
+      "name": "inflammation",
+      "raw": "inflammation",
+      "frequency": null
+    },
+    {
+      "name": "malignancy (focal wall thickening > 5 mm",
+      "raw": "malignancy (focal wall thickening > 5 mm",
+      "frequency": null
+    },
+    {
+      "name": "perigastric tissue abnormalities",
+      "raw": "perigastric tissue abnormalities",
+      "frequency": null
+    },
+    {
+      "name": "lymphadenopathy)",
+      "raw": "lymphadenopathy)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "single / multiple discrete punched-out ulcers with sharply defined smooth border: | central punctate collection of barium surrounded by radiolucent halo corresponding to | linear serpiginous barium collection (= incomplete erosion) surrounded by halo of edema | (occasionally) deep ulcer penetrating through muscularis mucosae with involvement of"
+}

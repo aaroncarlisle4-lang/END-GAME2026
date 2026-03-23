@@ -1,0 +1,37 @@
+{
+  "finding": "Congenital Inclusion Cysts Of Cns (DDx)",
+  "slug": "congenital_inclusion_cysts_of_cns_ddx",
+  "chapter": "Congenital Inclusion Cysts Of Cns",
+  "source_file": "processed_clusters/congenital_inclusion_cysts_of_cns/congenital_inclusion_cysts_of_cns_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "arachnoid cyst (smooth surface",
+      "raw": "arachnoid cyst (smooth surface",
+      "frequency": null
+    },
+    {
+      "name": "earlier diffusion",
+      "raw": "earlier diffusion",
+      "frequency": null
+    },
+    {
+      "name": "equal to CSF)",
+      "raw": "equal to CSF)",
+      "frequency": null
+    },
+    {
+      "name": "lipoma",
+      "raw": "lipoma",
+      "frequency": null
+    },
+    {
+      "name": "cystic",
+      "raw": "cystic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "incomplete saturation on FLAIR = hyperintense relative to CSF (DDx: arachnoid cyst) | lesion very hyperintense on DWI | signal intensity suppression on fat-suppressed sequence (DDx: lipoma exhibits more | papillary / frondlike surface with contrast material extending into tumor interstices"
+}

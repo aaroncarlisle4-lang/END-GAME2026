@@ -1,0 +1,32 @@
+{
+  "finding": "Diffuse Infiltrates in Immunocompromised Patient",
+  "slug": "diffuse_infiltrates_in_immunocompromised_patient_78f8ae",
+  "chapter": "G. DRUG REACTIONS",
+  "source_file": "processed_clusters/g_drug_reactions/diffuse_infiltrates_in_immunocompromised_patient_78f8ae.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Failure",
+      "raw": "Failure (CHF)",
+      "frequency": null
+    },
+    {
+      "name": "Opportunistic infection",
+      "raw": "Opportunistic infection",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangitic tumor spread",
+      "raw": "Lymphangitic tumor spread",
+      "frequency": null
+    },
+    {
+      "name": "Drug reaction",
+      "raw": "Drug reaction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

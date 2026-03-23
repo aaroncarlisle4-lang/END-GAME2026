@@ -1,0 +1,27 @@
+{
+  "finding": "B. INFECTION / INFLAMMATION",
+  "slug": "b_infection_inflammation_3",
+  "chapter": "Mycobacteria, Nocardia, Actinomyces, Listeria",
+  "source_file": "processed_clusters/mycobacteria_nocardia_actinomyces_listeria/b_infection_inflammation_3.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Acute disseminated encephalomyelitis",
+      "raw": "Acute disseminated encephalomyelitis (ADEM)",
+      "frequency": null
+    },
+    {
+      "name": "Multiple sclerosis",
+      "raw": "Multiple sclerosis (1st episode)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,240 @@
+{
+  "finding": "Metacarpal Sign",
+  "slug": "metacarpal_sign_325468",
+  "chapter": "HAND",
+  "source_file": "processed_clusters/hand/metacarpal_sign_325468.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Pseudo- and pseudopseudohypoparathyroidism",
+      "raw": "Pseudo- and pseudopseudohypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Basal cell nevus syndrome",
+      "raw": "Basal cell nevus syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Multiple epiphyseal dysplasia",
+      "raw": "Multiple epiphyseal dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Beckwith-Wiedemann syndrome",
+      "raw": "Beckwith-Wiedemann syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell anemia",
+      "raw": "Sickle cell anemia",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile chronic arthritis",
+      "raw": "Juvenile chronic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Gonadal dysgenesis: Turner + Klinefelter syndrome",
+      "raw": "Gonadal dysgenesis: Turner + Klinefelter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ectodermal dysplasia = Cornelia de Lange syndrome",
+      "raw": "Ectodermal dysplasia = Cornelia de Lange syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary multiple exostoses [Peripheral dysostosis]",
+      "raw": "Hereditary multiple exostoses",
+      "frequency": null,
+      "sites": [
+        "Peripheral dysostosis"
+      ]
+    },
+    {
+      "name": "Melorheostosis mnemonic:   Ping Pong Is Tough To Teach",
+      "raw": "Melorheostosis mnemonic:   Ping Pong Is Tough To Teach",
+      "frequency": null
+    },
+    {
+      "name": "Pseudohypoparathyroidism",
+      "raw": "Pseudohypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Pseudopseudohypoparathyroidism",
+      "raw": "Pseudopseudohypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Turner syndrome",
+      "raw": "Turner syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Trisomy 13-18",
+      "raw": "Trisomy 13-18",
+      "frequency": null
+    },
+    {
+      "name": "Brachydactyly",
+      "raw": "Brachydactyly",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Arthritis",
+      "raw": "Arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Turner syndrome",
+      "raw": "Turner syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Osteochondrodysplasia",
+      "raw": "Osteochondrodysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Pseudohypoparathyroidism, Pseudopseudohypoparathyroidism",
+      "raw": "Pseudohypoparathyroidism, Pseudopseudohypoparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Mucopolysaccharidoses",
+      "raw": "Mucopolysaccharidoses",
+      "frequency": null
+    },
+    {
+      "name": "Cornelia de Lange syndrome",
+      "raw": "Cornelia de Lange syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Basal cell nevus syndrome",
+      "raw": "Basal cell nevus syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary multiple exostoses",
+      "raw": "Hereditary multiple exostoses",
+      "frequency": null
+    },
+    {
+      "name": "Normal variant",
+      "raw": "Normal variant",
+      "frequency": null
+    },
+    {
+      "name": "Down syndrome",
+      "raw": "Down syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Multiple dysplasia",
+      "raw": "Multiple dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Trauma, arthritis, contracture",
+      "raw": "Trauma, arthritis, contracture",
+      "frequency": null
+    },
+    {
+      "name": "Carpenter syndrome",
+      "raw": "Carpenter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ellis-van Creveld syndrome",
+      "raw": "Ellis-van Creveld syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Meckel-Gruber syndrome",
+      "raw": "Meckel-Gruber syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Polysyndactyly syndrome",
+      "raw": "Polysyndactyly syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Short rib-polydactyly syndrome",
+      "raw": "Short rib-polydactyly syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Trisomy 13",
+      "raw": "Trisomy 13",
+      "frequency": null
+    },
+    {
+      "name": "Apert syndrome",
+      "raw": "Apert syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Carpenter syndrome",
+      "raw": "Carpenter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Down syndrome",
+      "raw": "Down syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Poland syndrome",
+      "raw": "Poland syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Others",
+      "raw": "Others",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  relative shortening of 4th + 5th metacarpals √  tangential line along heads of 5th + 4th metacarpals intersects 3rd metacarpal =  shortening / broadening of metacarpals ± phalanges Clinodactyly =  curvature of finger in mediolateral plane Polydactyly Frequently associated with: Syndactyly =  osseous ± cutaneous fusion of digits"
+}

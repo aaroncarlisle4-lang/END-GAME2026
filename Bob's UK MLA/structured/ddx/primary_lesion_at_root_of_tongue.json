@@ -1,0 +1,67 @@
+{
+  "finding": "Primary Lesion at Root of Tongue",
+  "slug": "primary_lesion_at_root_of_tongue",
+  "chapter": "ORAL CAVITY",
+  "source_file": "processed_clusters/oral_cavity/primary_lesion_at_root_of_tongue.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "CONGENITAL (75%) (a)  nonvascular",
+      "raw": "CONGENITAL (75%) (a)  nonvascular",
+      "frequency": "75%"
+    },
+    {
+      "name": "Thyroglossal duct cyst",
+      "raw": "Thyroglossal duct cyst (70%)",
+      "frequency": "70%"
+    },
+    {
+      "name": "Dermoid / epidermoid cyst",
+      "raw": "Dermoid / epidermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Foregut duplication cyst",
+      "raw": "Foregut duplication cyst (7%)",
+      "frequency": "7%"
+    },
+    {
+      "name": "Lingual thyroid",
+      "raw": "Lingual thyroid",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma (0.1-5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Capillary hemangioma (b)  vascular",
+      "raw": "Capillary hemangioma (b)  vascular",
+      "frequency": null
+    },
+    {
+      "name": "Lymphatic malformation",
+      "raw": "Lymphatic malformation",
+      "frequency": null
+    },
+    {
+      "name": "Venous malformation",
+      "raw": "Venous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Venolymphatic malformation",
+      "raw": "Venolymphatic malformation",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformation",
+      "raw": "Arteriovenous malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

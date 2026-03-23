@@ -1,0 +1,42 @@
+{
+  "finding": "More severely + frequently affected after renal transplantation",
+  "slug": "more_severely_frequently_affected_after_renal_transplantation_36b068",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/gastrointestinal_hemorrhage/more_severely_frequently_affected_after_renal_transplantation_36b068.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Progressive distention + pseudoobstruction Contributing factors:   dehydration, alteration of diet, inactivity, nonabsorbable antacids, high-dose steroids",
+      "raw": "Progressive distention + pseudoobstruction Contributing factors:   dehydration, alteration of diet, inactivity, nonabsorbable antacids, high-dose steroids",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic colitis (a)  primary disease responsible for end-stage renal disease: eg, diabetes, vasculitis (b)  trauma of renal transplantation",
+      "raw": "Ischemic colitis (a)  primary disease responsible for end-stage renal disease: eg, diabetes, vasculitis (b)  trauma of renal transplantation",
+      "frequency": null
+    },
+    {
+      "name": "Diverticulitis Contributing factors:   chronic obstipation, steroids, autonomic nervous dysfunction",
+      "raw": "Diverticulitis Contributing factors:   chronic obstipation, steroids, autonomic nervous dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomembranous colitis",
+      "raw": "Pseudomembranous colitis",
+      "frequency": null
+    },
+    {
+      "name": "Uremic colitis = nonspecific colitis",
+      "raw": "Uremic colitis = nonspecific colitis",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous colonic perforation",
+      "raw": "Spontaneous colonic perforation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

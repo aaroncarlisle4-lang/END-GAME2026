@@ -1,0 +1,62 @@
+{
+  "finding": "Acute Hepatitis",
+  "slug": "acute_hepatitis",
+  "chapter": "HEPATITIS",
+  "source_file": "processed_clusters/hepatitis/acute_hepatitis.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "markedly elevated AST + ALT",
+      "raw": "markedly elevated AST + ALT",
+      "frequency": null
+    },
+    {
+      "name": "increase in serum-conjugated bilirubin",
+      "raw": "increase in serum-conjugated bilirubin",
+      "frequency": null
+    },
+    {
+      "name": "Acute hepatitis",
+      "raw": "Acute hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Cholestatic hepatitis",
+      "raw": "Cholestatic hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Bland cholestasis",
+      "raw": "Bland cholestasis",
+      "frequency": null
+    },
+    {
+      "name": "Sinusoidal obstructive syndrome",
+      "raw": "Sinusoidal obstructive syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Steatosis",
+      "raw": "Steatosis (= nonalcoholic fatty liver)",
+      "frequency": null
+    },
+    {
+      "name": "Cholestatic Hepatitis",
+      "raw": "Cholestatic Hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Mechanism:   compromised perfusion of bile ducts",
+      "raw": "Mechanism:   compromised perfusion of bile ducts",
+      "frequency": null
+    },
+    {
+      "name": "Common drugs:   cyclosporine, trimethoprim-sulfamethoxazole, chlorpromazine",
+      "raw": "Common drugs:   cyclosporine, trimethoprim-sulfamethoxazole, chlorpromazine",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {},
+  "context": "=  process present for < 6 months √  hepatomegaly / normal size of liver √  gallbladder wall thickening √  lymphadenopathy CT: √  periportal low attenuation (lymph edema) US: √  diffuse decrease in liver echogenicity √  increased brightness of portal triads (\"starry sky\" pattern) = centrilobular pattern ← edema in hepatocytes (DDx: leukemic infiltrate, diffuse lymphomatous involvement, toxic shock syndrome) √  edema of gallbladder fossa + gallbladder wall thickening √  thickening + increase in echogenicity of fat within falciform ligament, ligamentum venosum, porta hepatis, periportal connecti"
+}

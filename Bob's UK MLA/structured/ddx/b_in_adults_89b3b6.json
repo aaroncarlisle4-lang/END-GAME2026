@@ -1,0 +1,42 @@
+{
+  "finding": "B. IN ADULTS",
+  "slug": "b_in_adults_89b3b6",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/b_in_adults_89b3b6.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Suprasellar extension of pituitary adenoma",
+      "raw": "Suprasellar extension of pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid cyst",
+      "raw": "Epidermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Thrombosed aneurysm",
+      "raw": "Thrombosed aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Low-grade hypothalamic / optic glioma",
+      "raw": "Low-grade hypothalamic / optic glioma",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory lesion: sarcoidosis, TB, sphenoid mucocele",
+      "raw": "Inflammatory lesion: sarcoidosis, TB, sphenoid mucocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

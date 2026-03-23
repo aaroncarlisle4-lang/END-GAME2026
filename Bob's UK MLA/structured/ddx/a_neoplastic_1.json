@@ -1,0 +1,57 @@
+{
+  "finding": "A. Neoplastic",
+  "slug": "a_neoplastic_1",
+  "chapter": "SOFT TISSUES",
+  "source_file": "processed_clusters/soft_tissues/a_neoplastic_1.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Desmoid tumor",
+      "raw": "Desmoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ganglion cyst",
+      "raw": "Ganglion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Pigmented villonodular synovitis",
+      "raw": "Pigmented villonodular synovitis",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma (5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Lipoblastoma (b)  malignant",
+      "raw": "Lipoblastoma (b)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Malignant fibrous histiocytoma",
+      "raw": "Malignant fibrous histiocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma",
+      "raw": "Liposarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence:   300÷100,000 / year; benign÷malignant = 100÷1 (a)  benign (most frequent) Frequency:   1% of all cancers in adults, increasing with age"
+}

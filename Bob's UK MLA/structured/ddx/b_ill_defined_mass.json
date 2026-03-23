@@ -1,0 +1,37 @@
+{
+  "finding": "B. ILL-DEFINED MASS",
+  "slug": "b_ill_defined_mass",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/b_ill_defined_mass.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastases",
+      "raw": "Metastases (ovary)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis, fibrosing mesenteritis",
+      "raw": "Fibromatosis, fibrosing mesenteritis (associated with Gardner syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Lipodystrophy",
+      "raw": "Lipodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric panniculitis",
+      "raw": "Mesenteric panniculitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

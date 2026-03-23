@@ -1,0 +1,27 @@
+{
+  "finding": "B. malignant",
+  "slug": "b_malignant_16",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/b_malignant_16.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "RCC",
+      "raw": "RCC",
+      "frequency": null
+    },
+    {
+      "name": "Malignant fibrous histiocytoma",
+      "raw": "Malignant fibrous histiocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / leukemia",
+      "raw": "Lymphoma / leukemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Pineal Cell Tumors (DDx)",
+  "slug": "pineal_cell_tumors_ddx",
+  "chapter": "Pineal Cell Tumors",
+  "source_file": "processed_clusters/pineal_cell_tumors/pineal_cell_tumors_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pineal cyst (NO trabeculations",
+      "raw": "pineal cyst (NO trabeculations",
+      "frequency": null
+    },
+    {
+      "name": "NO enhancement)",
+      "raw": "NO enhancement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "dense focal tumor calcifications possible | well-defined marked homogeneous enhancement | well-circumscribed hypointense / isointense mass on T1WI + hyperintense on T2WI | avid homogeneous / internal nodular Gd-DTPA enhancement"
+}

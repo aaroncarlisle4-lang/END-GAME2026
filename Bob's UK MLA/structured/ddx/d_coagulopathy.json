@@ -1,0 +1,27 @@
+{
+  "finding": "D. COAGULOPATHY",
+  "slug": "d_coagulopathy",
+  "chapter": "Calcification of Pyelocaliceal System",
+  "source_file": "processed_clusters/calcification_of_pyelocaliceal_system/d_coagulopathy.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Anticoagulant therapy (in 4.3-6.6% of IV heparin, in 01.-0.6% of oral anticoagulants) Source:   idiopathic (42%), tumor (21%), stone disease (17%), hemorrhagic cystitis",
+      "raw": "Anticoagulant therapy (in 4.3-6.6% of IV heparin, in 01.-0.6% of oral anticoagulants) Source:   idiopathic (42%), tumor (21%), stone disease (17%), hemorrhagic cystitis",
+      "frequency": "6.6%"
+    },
+    {
+      "name": "Bleeding diathesis",
+      "raw": "Bleeding diathesis",
+      "frequency": null
+    },
+    {
+      "name": "Long-term hemodialysis",
+      "raw": "Long-term hemodialysis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

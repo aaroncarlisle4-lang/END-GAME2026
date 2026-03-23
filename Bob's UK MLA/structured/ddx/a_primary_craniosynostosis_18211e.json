@@ -1,0 +1,97 @@
+{
+  "finding": "A. PRIMARY CRANIOSYNOSTOSIS",
+  "slug": "a_primary_craniosynostosis_18211e",
+  "chapter": "Sutural Abnormalities",
+  "source_file": "processed_clusters/sutural_abnormalities/a_primary_craniosynostosis_18211e.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "SECONDARY CRANIOSYNOSTOSIS (a)  hematologic: sickle cell anemia, thalassemia",
+      "raw": "SECONDARY CRANIOSYNOSTOSIS (a)  hematologic: sickle cell anemia, thalassemia",
+      "frequency": null
+    },
+    {
+      "name": "Scaphocephaly = Dolichocephaly",
+      "raw": "Scaphocephaly = Dolichocephaly (55%): premature closure of sagittal suture (long skull)",
+      "frequency": "55%"
+    },
+    {
+      "name": "Brachycephaly = Turricephaly",
+      "raw": "Brachycephaly = Turricephaly (10%): premature closure of coronal / lambdoid sutures (short tall skull)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Plagiocephaly",
+      "raw": "Plagiocephaly (7%): unilateral early fusion of coronal + lambdoidal suture (lopsided skull)",
+      "frequency": "7%"
+    },
+    {
+      "name": "Trigonocephaly: premature closure of metopic suture",
+      "raw": "Trigonocephaly: premature closure of metopic suture (forward pointing skull)",
+      "frequency": null
+    },
+    {
+      "name": "Oxycephaly= Acrocephaly: premature closure of coronal, sagittal, lambdoid sutures (conical skull); most severe form of craniosynostosis",
+      "raw": "Oxycephaly= Acrocephaly: premature closure of coronal, sagittal, lambdoid sutures (conical skull); most severe form of craniosynostosis",
+      "frequency": null
+    },
+    {
+      "name": "Cloverleaf skull = Kleeblattschädel: intrauterine premature closure of sagittal, coronal, lambdoid sutures",
+      "raw": "Cloverleaf skull = Kleeblattschädel: intrauterine premature closure of sagittal, coronal, lambdoid sutures (3-fold bulging skull)",
+      "frequency": null
+    },
+    {
+      "name": "Pyknodysostosis",
+      "raw": "Pyknodysostosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Rickets in healing phase",
+      "raw": "Rickets in healing phase",
+      "frequency": null
+    },
+    {
+      "name": "Kinky hair syndrome",
+      "raw": "Kinky hair syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Cleidocranial dysostosis",
+      "raw": "Cleidocranial dysostosis",
+      "frequency": null
+    },
+    {
+      "name": "Hypothyroidism / Hypophosphatasia",
+      "raw": "Hypothyroidism / Hypophosphatasia",
+      "frequency": null
+    },
+    {
+      "name": "Otopalatodigital syndrome",
+      "raw": "Otopalatodigital syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Primary acroosteolysis (Hajdu-Cheney) / Pachydermoperiostosis / Progeria",
+      "raw": "Primary acroosteolysis (Hajdu-Cheney) / Pachydermoperiostosis / Progeria",
+      "frequency": null
+    },
+    {
+      "name": "Syndrome of Down",
+      "raw": "Syndrome of Down",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic (normal variant)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(b)  metabolic: rickets, hypercalcemia, hyperthyroidism, hypervitaminosis D (c)  bone dysplasia: hypophosphatasia, achondroplasia, metaphyseal dysplasia, mongolism, Hurler disease, skull hyperostosis, Rubinstein-Taybi syndrome (d)  syndromes: Crouzon, Apert, Carpenter, Treacher-Collins, cloverleaf skull, craniotelencephalic dysplasia, arrhinencephaly (e)  microcephaly: brain atrophy / dysgenesis (f)  after shunting procedures Types: Sagittal suture most commonly affected followed by coronal suture May be associated with:   thanatophoric dysplasia √  sharply defined thickened sclerotic suture m"
+}

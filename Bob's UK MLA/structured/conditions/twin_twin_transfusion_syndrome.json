@@ -1,0 +1,45 @@
+{
+  "name": "TWIN-TWIN TRANSFUSION SYNDROME",
+  "slug": "twin_twin_transfusion_syndrome",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/twin_twin_transfusion_syndrome.md",
+  "definition": "FETOFETAL TRANSFUSION SYNDROME = MONOVULAR TWIN TRANSFUSION = INTRAUTERINE complication of monozygotic twinning with one placenta or one fused placenta of mono- /",
+  "demographics": {
+    "Prevalence": "5-18% of twin pregnancies; 5-15% of monozygotic multiple pregnancies; 15-30%",
+    "Path": "large communication between arterial circulation of one twin + venous circulation of the"
+  },
+  "dominant_finding": "discordant BPD by > 5 mm (57%)",
+  "distribution": "",
+  "discriminating_features": [
+    "discrepant amniotic fluid volume (75%)",
+    "discordant BPD by > 5 mm (57%)",
+    "discordant estimated fetal weight > 25% (67-100%)",
+    "oligohydramnios (75-80%)",
+    "\"stuck twin\" ← severe oligohydramnios (60%) ← oliguria"
+  ],
+  "other_features": {
+    "general": [
+      "discrepant amniotic fluid volume (75%)",
+      "discordant BPD by > 5 mm (57%)",
+      "discordant estimated fetal weight > 25% (67-100%)",
+      "oligohydramnios (75-80%)",
+      "\"stuck twin\" ← severe oligohydramnios (60%) ← oliguria",
+      "amnion invisible ← close contact with fetal parts",
+      "fetus fixed relative to the uterine wall → without change during shift in maternal position",
+      "diminished / absent active fetal motion",
+      "absence of intermingling of fetal parts between twins",
+      "IUGR (= intrauterine growth restriction, common) diagnosed by discordant EFW of >",
+      "morphologically normal",
+      "polyhydramnios (70-75%) ← increased fetal urination",
+      "fetal hydrops (10-25%): pericardial + pleural effusions, ascites, skin thickening",
+      "organomegaly",
+      "fetus papyraceus = macerated dead fetus",
+      "velamentous cord insertion (64%)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "fetal death in utero",
+    "Cx": "amniorrhexis, preterm labor",
+    "Rx": "elective termination, volume-reduction amniocentesis of polyhydramniotic sac (decreases"
+  }
+}

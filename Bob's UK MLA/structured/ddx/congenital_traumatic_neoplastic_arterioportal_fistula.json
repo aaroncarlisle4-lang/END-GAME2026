@@ -1,0 +1,192 @@
+{
+  "finding": "CONGENITAL / traumatic / neoplastic arterioportal fistula",
+  "slug": "congenital_traumatic_neoplastic_arterioportal_fistula",
+  "chapter": "PORCELAIN GALLBLADDER",
+  "source_file": "processed_clusters/porcelain_gallbladder/congenital_traumatic_neoplastic_arterioportal_fistula.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INCREASED PORTAL RESISTANCE @  Prehepatic ›  portal vein thrombosis: portal phlebitis, oral contraceptives, coagulopathy, neoplastic invasion, pancreatitis, neonatal omphalitis ›  portal vein compression: tumor, trauma, lymphadeno-pathy, portal phlebosclerosis, pancreatic pseudocyst @  Intrahepatic",
+      "raw": "INCREASED PORTAL RESISTANCE @  Prehepatic ›  portal vein thrombosis: portal phlebitis, oral contraceptives, coagulopathy, neoplastic invasion, pancreatitis, neonatal omphalitis ›  portal vein compression: tumor, trauma, lymphadeno-pathy, portal phlebosclerosis, pancreatic pseudocyst @  Intrahepatic (= obstruction of portal venules)",
+      "frequency": null
+    },
+    {
+      "name": "Congenital hepatic fibrosis",
+      "raw": "Congenital hepatic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic noncirrhotic fibrosis",
+      "raw": "Idiopathic noncirrhotic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Primary biliary cirrhosis",
+      "raw": "Primary biliary cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Alpha-1 antitrypsin deficiency",
+      "raw": "Alpha-1 antitrypsin deficiency",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoid liver disease",
+      "raw": "Sarcoid liver disease",
+      "frequency": null
+    },
+    {
+      "name": "Toxic fibrosis",
+      "raw": "Toxic fibrosis (arsenic, copper, PVC)",
+      "frequency": null
+    },
+    {
+      "name": "Reticuloendotheliosis",
+      "raw": "Reticuloendotheliosis",
+      "frequency": null
+    },
+    {
+      "name": "Myelofibrosis",
+      "raw": "Myelofibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Felty syndrome",
+      "raw": "Felty syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic malaria ›  sinusoidal",
+      "raw": "Chronic malaria ›  sinusoidal",
+      "frequency": null
+    },
+    {
+      "name": "Hepatitis",
+      "raw": "Hepatitis",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease ›  postsinusoidal",
+      "raw": "Sickle cell disease ›  postsinusoidal",
+      "frequency": null
+    },
+    {
+      "name": "Cirrhosis (most frequent): Laennec cirrhosis, postnecrotic cirrhosis from hepatitis",
+      "raw": "Cirrhosis (most frequent): Laennec cirrhosis, postnecrotic cirrhosis from hepatitis",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Venoocclusive disease of liver @  Posthepatic",
+      "raw": "Venoocclusive disease of liver @  Posthepatic",
+      "frequency": null
+    },
+    {
+      "name": "Budd-Chiari syndrome",
+      "raw": "Budd-Chiari syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Constrictive pericarditis",
+      "raw": "Constrictive pericarditis",
+      "frequency": null
+    },
+    {
+      "name": "CHF",
+      "raw": "CHF (tricuspid incompetence)",
+      "frequency": null
+    },
+    {
+      "name": "low / stagnant portal venous flow rates (b)  forward flow theory = hyperdynamic flow theory =  splanchnic flow increases ← mesenteric vasodilators + increase in cardiac output to preserve hepatic perfusion + intrahepatic endogenous vasoconstrictors",
+      "raw": "low / stagnant portal venous flow rates (b)  forward flow theory = hyperdynamic flow theory =  splanchnic flow increases ← mesenteric vasodilators + increase in cardiac output to preserve hepatic perfusion + intrahepatic endogenous vasoconstrictors",
+      "frequency": null
+    },
+    {
+      "name": "increased portal venous flow rates > 15 mL/min/kg",
+      "raw": "increased portal venous flow rates > 15 mL/min/kg",
+      "frequency": null
+    },
+    {
+      "name": "elevated hepatic wedge pressure (HWP) = portal venous pressure; normal values seen in presinusoidal portal hypertension",
+      "raw": "elevated hepatic wedge pressure (HWP) = portal venous pressure; normal values seen in presinusoidal portal hypertension",
+      "frequency": null
+    },
+    {
+      "name": "caput medusae = drainage from paraumbilical + omental veins through superficial veins of chest (lateral thoracic vein to axillary vein; superficial epigastric vein to internal mammary",
+      "raw": "caput medusae = drainage from paraumbilical + omental veins through superficial veins of chest (lateral thoracic vein to axillary vein; superficial epigastric vein to internal mammary",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhaging esophageal varices (50%) @  Splanchnic system:",
+      "raw": "hemorrhaging esophageal varices (50%) @  Splanchnic system:",
+      "frequency": "50%"
+    },
+    {
+      "name": "high frequency of hepatic encephalopathy",
+      "raw": "high frequency of hepatic encephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal varices",
+      "raw": "Esophageal varices",
+      "frequency": null
+    },
+    {
+      "name": "Paraesophageal varices (b)  connection to pulmonary circulation",
+      "raw": "Paraesophageal varices (b)  connection to pulmonary circulation",
+      "frequency": null
+    },
+    {
+      "name": "Gastropulmonary shunt",
+      "raw": "Gastropulmonary shunt (between gastric / esophageal vv. and left pericardiophrenic / inferior pulmonary vv.)",
+      "frequency": null
+    },
+    {
+      "name": "Veins of Retzius (= anastomoses between portal vein and IVC) ›  ileocolic veins → right gonadal vein → IVC ›  pancreaticoduodenal vein → IVC ›  proximal small left branches of SMV → left gonadal vein → left renal vein ›  ileocolic veins → directly into IVC (d)  retroperitoneal collaterals",
+      "raw": "Veins of Retzius (= anastomoses between portal vein and IVC) ›  ileocolic veins → right gonadal vein → IVC ›  pancreaticoduodenal vein → IVC ›  proximal small left branches of SMV → left gonadal vein → left renal vein ›  ileocolic veins → directly into IVC (d)  retroperitoneal collaterals",
+      "frequency": null
+    },
+    {
+      "name": "Splenorenal / splenoadrenorenal shunt",
+      "raw": "Splenorenal / splenoadrenorenal shunt",
+      "frequency": null
+    },
+    {
+      "name": "Gastrorenal shunt",
+      "raw": "Gastrorenal shunt",
+      "frequency": null
+    },
+    {
+      "name": "Mesenterorenal shunt",
+      "raw": "Mesenterorenal shunt (SMV → right renal vein)",
+      "frequency": null
+    },
+    {
+      "name": "Mesenterogonadal shunt",
+      "raw": "Mesenterogonadal shunt (ileocolic vein → right testicular vein)",
+      "frequency": null
+    },
+    {
+      "name": "Splenocaval shunt",
+      "raw": "Splenocaval shunt (splenic vein → left hypogastric v.) (e)  intrahepatic shunt (portal vein → hepatic veins) @  Cruveilhier-von Baumgarten syndrome (20-35%) =  recanalized paraumbilical veins (NOT recanalized umbilical veins)",
+      "frequency": "35%"
+    }
+  ],
+  "criteria": {},
+  "context": "›  presinusoidal Pathophysiology: continued elevated pressure despite formation of portal venous collateral vessels may be explained by (a)  backward flow theory = hypodynamic flow theory =  increase in sinusoidal pressure ← deposition of collagen in spaces of Disse + hepatocyte swelling Flow direction: (a)  hepatopetal ( petere, Latin = to seek) (b)  hepatofugal ( fugere, Latin = to flee) = flow reversal Cause:   intrahepatic arterioportal communications (inside portal triads vasa vasorum of portal veins + hepatic arteries connect via bile duct capillaries to portal v.) vein and subclavian ve"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Marked Decrease in Hepatic T2 Signal Intensity",
+  "slug": "marked_decrease_in_hepatic_t2_signal_intensity_9f98d8",
+  "chapter": "B. COPPER",
+  "source_file": "processed_clusters/b_copper/marked_decrease_in_hepatic_t2_signal_intensity_9f98d8.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary / hereditary hemochromatosis",
+      "raw": "Primary / hereditary hemochromatosis (dietary iron)",
+      "frequency": null
+    },
+    {
+      "name": "Secondary hemochromatosis",
+      "raw": "Secondary hemochromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Transfusional siderosis",
+      "raw": "Transfusional siderosis (RES)",
+      "frequency": null
+    },
+    {
+      "name": "Intravenous administration of ultrasmall superparamagnetic iron oxide",
+      "raw": "Intravenous administration of ultrasmall superparamagnetic iron oxide",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  paramagnetic effect of intracellular iron deposition (ferritin, hemosiderin) ◊  Signal intensity of pancreas does not help distinguish between primary + secondary hemochromatosis! √  bone marrow of low SI (DDx: myelofibrosis) √  bone marrow of low signal intensity √  decreased T2 signal in spleen"
+}

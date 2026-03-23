@@ -1,0 +1,97 @@
+{
+  "finding": "E. DESTRUCTIVE LESION",
+  "slug": "e_destructive_lesion",
+  "chapter": "D. NEURONAL MIGRATION ANOMALY due to infection, ischemia, metabolic disorders",
+  "source_file": "processed_clusters/d_neuronal_migration_anomaly_due_to_infection_ischemia_metabolic_disorders/e_destructive_lesion.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hydranencephaly",
+      "raw": "Hydranencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Porencephaly",
+      "raw": "Porencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Hypoxia: periventricular leukomalacia, germinal matrix hemorrhage",
+      "raw": "Hypoxia: periventricular leukomalacia, germinal matrix hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Toxicosis",
+      "raw": "Toxicosis",
+      "frequency": null
+    },
+    {
+      "name": "Infections (TORCH) (a)  Toxoplasmosis (b)  Other: syphilis, hepatitis, zoster (c)  Rubella",
+      "raw": "Infections (TORCH) (a)  Toxoplasmosis (b)  Other: syphilis, hepatitis, zoster (c)  Rubella",
+      "frequency": null
+    },
+    {
+      "name": "Holoprosencephaly",
+      "raw": "Holoprosencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Callosal agenesis",
+      "raw": "Callosal agenesis",
+      "frequency": null
+    },
+    {
+      "name": "Septo-optic dysplasia",
+      "raw": "Septo-optic dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Schizencephaly",
+      "raw": "Schizencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Severe chronic hydrocephalus",
+      "raw": "Severe chronic hydrocephalus",
+      "frequency": null
+    },
+    {
+      "name": "Destructive porencephaly",
+      "raw": "Destructive porencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis (von Recklinghausen)",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis (Bourneville)",
+      "frequency": null
+    },
+    {
+      "name": "Retinocerebellar hemangioblastoma",
+      "raw": "Retinocerebellar hemangioblastoma (Von Hippel-Lindau)",
+      "frequency": null
+    },
+    {
+      "name": "Neurocutaneous melanosis (b)  not autosomal dominant:",
+      "raw": "Neurocutaneous melanosis (b)  not autosomal dominant:",
+      "frequency": null
+    },
+    {
+      "name": "Encephalotrigeminal angiomatosis",
+      "raw": "Encephalotrigeminal angiomatosis (Sturge-Weber-Dimitri)",
+      "frequency": null
+    },
+    {
+      "name": "Ataxia-telangiectasia",
+      "raw": "Ataxia-telangiectasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  punctate / nodular calcifications √  porencephalic cysts √  occasionally microcephaly (d)  Cytomegalovirus inclusion disease √  typically punctate / stippled / curvilinear periventricular calcifications √  often hydrocephalus (e)  Herpes simplex Absence of Septum Pellucidum Phakomatoses [ phako , Greek = lens / lentil-shaped object] =  NEUROCUTANEOUS SYNDROMES = NEUROECTODERMAL DYSPLASIAS =  development of benign tumors / malformations in organs of ectodermal origin (CNS, eye, skin) (a)  autosomal dominant:"
+}

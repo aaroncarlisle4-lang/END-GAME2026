@@ -1,0 +1,92 @@
+{
+  "finding": "B. MIDESOPHAGUS (17%",
+  "slug": "b_midesophagus_17",
+  "chapter": "DUODENAL VARICES",
+  "source_file": "processed_clusters/duodenal_varices/b_midesophagus_17.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "severe upper airway obstruction in early infancy",
+      "raw": "severe upper airway obstruction in early infancy",
+      "frequency": null
+    },
+    {
+      "name": "DISTAL ESOPHAGUS",
+      "raw": "DISTAL ESOPHAGUS (60%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "frequently asymptomatic",
+      "raw": "frequently asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "Peptic ulceration ← gastric mucosa",
+      "raw": "Peptic ulceration ← gastric mucosa",
+      "frequency": null
+    },
+    {
+      "name": "Perforation ← penetrating ulcer",
+      "raw": "Perforation ← penetrating ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Hematemesis ← erosion into esophagus",
+      "raw": "Hematemesis ← erosion into esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Hemoptysis + autodigestion of pulmonary tissue ← erosion into tracheobronchial tree",
+      "raw": "Hemoptysis + autodigestion of pulmonary tissue ← erosion into tracheobronchial tree",
+      "frequency": null
+    },
+    {
+      "name": "severe respiratory distress, chest pain, GI bleeding, anemia",
+      "raw": "severe respiratory distress, chest pain, GI bleeding, anemia",
+      "frequency": null
+    },
+    {
+      "name": "pain ← overdistension of cyst, rupture with peritonitis, peptic ulcer formation, internal pancreatitis",
+      "raw": "pain ← overdistension of cyst, rupture with peritonitis, peptic ulcer formation, internal pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "vomiting, anemia, fever",
+      "raw": "vomiting, anemia, fever",
+      "frequency": null
+    },
+    {
+      "name": "symptoms mimicking congenital hypertrophic pyloric stenosis",
+      "raw": "symptoms mimicking congenital hypertrophic pyloric stenosis (if duplication in antrum / pylorus)",
+      "frequency": null
+    },
+    {
+      "name": "Partial / complete small bowel obstruction",
+      "raw": "Partial / complete small bowel obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Relapsing pancreatitis",
+      "raw": "Relapsing pancreatitis (with ductal communication)",
+      "frequency": null
+    },
+    {
+      "name": "Ulceration, perforation, fistula formation DDx:  pancreatic cyst, pancreatic pseudocyst, mesenteric cyst, leiomyoma, adenomatous polyp, hamartoma, lipoma, neurofibroma, teratoma",
+      "raw": "Ulceration, perforation, fistula formation DDx:  pancreatic cyst, pancreatic pseudocyst, mesenteric cyst, leiomyoma, adenomatous polyp, hamartoma, lipoma, neurofibroma, teratoma",
+      "frequency": null
+    },
+    {
+      "name": "neonatal bowel obstruction, intussusception, palpable mass",
+      "raw": "neonatal bowel obstruction, intussusception, palpable mass",
+      "frequency": null
+    },
+    {
+      "name": "acute abdominal pain, GI hemorrhage",
+      "raw": "acute abdominal pain, GI hemorrhage (may be painless)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DDx:   bronchogenic cyst, neurenteric cyst, intramural esophageal tumor Location:   paraspinal DDx:   bronchogenic cyst, neurenteric cyst, intramural esophageal tumor √  thick-walled closed spherical cyst, almost never communicating CXR: √  posterior mediastinal mass ± air-fluid level √  lobar consolidation + central cavitation ← autodigestion of lung tissue by gastric secretions √  thoracic vertebral anomalies UGI: √  displacement of esophagus by paraesophageal mass √  intramural extramucosal mass US: √  hypoechoic fluid-filled cyst + layered wall: √  inner echogenic layer (mucosa) and outer"
+}

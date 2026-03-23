@@ -1,0 +1,32 @@
+{
+  "finding": "E. CYSTIC TUMORS",
+  "slug": "e_cystic_tumors",
+  "chapter": "Potter Classification",
+  "source_file": "processed_clusters/potter_classification/e_cystic_tumors.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Multilocular cystic nephroma",
+      "raw": "Multilocular cystic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic Wilms tumor",
+      "raw": "Cystic Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Cystic renal cell carcinoma",
+      "raw": "Cystic renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mixed epithelial and stromal tumor",
+      "raw": "Mixed epithelial and stromal tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

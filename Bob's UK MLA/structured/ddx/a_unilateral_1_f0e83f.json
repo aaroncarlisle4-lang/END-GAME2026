@@ -1,0 +1,32 @@
+{
+  "finding": "A. UNILATERAL",
+  "slug": "a_unilateral_1_f0e83f",
+  "chapter": "ABNORMAL NEPHROGRAM",
+  "source_file": "processed_clusters/abnormal_nephrogram/a_unilateral_1_f0e83f.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute ureteric obstruction",
+      "raw": "Acute ureteric obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Acute bacterial nephritis / pyelonephritis",
+      "raw": "Acute bacterial nephritis / pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Renal contusion",
+      "raw": "Renal contusion",
+      "frequency": null
+    },
+    {
+      "name": "Renal vein thrombosis",
+      "raw": "Renal vein thrombosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

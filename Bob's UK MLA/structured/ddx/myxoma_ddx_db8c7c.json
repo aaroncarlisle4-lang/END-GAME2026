@@ -1,0 +1,27 @@
+{
+  "finding": "Myxoma (DDx)",
+  "slug": "myxoma_ddx_db8c7c",
+  "chapter": "Myxoma",
+  "source_file": "processed_clusters/myxoma/myxoma_ddx_db8c7c.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "myxoid peripheral nerve sheath tumor",
+      "raw": "myxoid peripheral nerve sheath tumor",
+      "frequency": null
+    },
+    {
+      "name": "myxofibrosarcoma",
+      "raw": "myxofibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "myxoid liposarcoma",
+      "raw": "myxoid liposarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thin peritumoral rim of perilesional fat on T1WI (70%): | T2 hyperintense ← fatty atrophy of muscle | fine inner linear stranding on T2WI ← fibrous septa | internal enhancement: (a) peripheral ← pseudocapsule (b) peripheral + internal linear"
+}

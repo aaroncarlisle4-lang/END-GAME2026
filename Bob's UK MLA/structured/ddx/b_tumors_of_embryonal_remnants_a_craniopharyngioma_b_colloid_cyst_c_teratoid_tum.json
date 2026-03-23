@@ -1,0 +1,27 @@
+{
+  "finding": "B. TUMORS OF EMBRYONAL REMNANTS (a) Craniopharyngioma (b) Colloid cyst (c) Teratoid tumor",
+  "slug": "b_tumors_of_embryonal_remnants_a_craniopharyngioma_b_colloid_cyst_c_teratoid_tum",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/b_tumors_of_embryonal_remnants_a_craniopharyngioma_b_colloid_cyst_c_teratoid_tum.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epidermoid",
+      "raw": "Epidermoid (0.2-1.8%)",
+      "frequency": "1.8%"
+    },
+    {
+      "name": "Dermoid",
+      "raw": "Dermoid",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,30 @@
+{
+  "name": "INNER EAR",
+  "slug": "inner_ear",
+  "chapter": "NECK",
+  "source_file": "processed_clusters/disease_entries/neck/inner_ear.md",
+  "definition": "central and most capacious ovoid part of bony labyrinth posterior to cochlea horizontal bony septum dividing IAC into superior and inferior compartments",
+  "demographics": {
+    "Location": "petrous portion of temporal bone",
+    "Size": "≤ 0.1-0.2 mm"
+  },
+  "dominant_finding": "juts into epitympanum",
+  "distribution": "petrous portion of temporal bone",
+  "discriminating_features": [
+    "juts into epitympanum",
+    "vertical orientation transverse to long axis of petrous part of temporal bone",
+    "forms convexity of arcuate eminence",
+    "nearly parallel to posterior surface of petrous bone",
+    "filled with endolymph"
+  ],
+  "other_features": {
+    "general": [
+      "juts into epitympanum",
+      "vertical orientation transverse to long axis of petrous part of temporal bone",
+      "forms convexity of arcuate eminence",
+      "nearly parallel to posterior surface of petrous bone",
+      "filled with endolymph"
+    ]
+  },
+  "clinical": {}
+}

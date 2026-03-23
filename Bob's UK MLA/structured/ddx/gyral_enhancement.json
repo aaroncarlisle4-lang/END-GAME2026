@@ -1,0 +1,57 @@
+{
+  "finding": "Gyral Enhancement",
+  "slug": "gyral_enhancement",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/gyral_enhancement.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "VASCULAR",
+      "raw": "VASCULAR",
+      "frequency": null
+    },
+    {
+      "name": "abrupt onset of symptoms",
+      "raw": "abrupt onset of symptoms",
+      "frequency": null
+    },
+    {
+      "name": "Reperfusion of ischemic brain",
+      "raw": "Reperfusion of ischemic brain",
+      "frequency": null
+    },
+    {
+      "name": "Vasodilative phase of migraine headaches",
+      "raw": "Vasodilative phase of migraine headaches",
+      "frequency": null
+    },
+    {
+      "name": "Posterior reversible encephalopathy syndrome",
+      "raw": "Posterior reversible encephalopathy syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Vasodilation with seizures",
+      "raw": "Vasodilation with seizures",
+      "frequency": null
+    },
+    {
+      "name": "Subarachnoid hemorrhage",
+      "raw": "Subarachnoid hemorrhage (enhancing fibroblastic proliferation)",
+      "frequency": null
+    },
+    {
+      "name": "Subacute / acute brain infarct: luxury perfusion",
+      "raw": "Subacute / acute brain infarct: luxury perfusion",
+      "frequency": null
+    },
+    {
+      "name": "Dural sinus thrombosis: venous congestion",
+      "raw": "Dural sinus thrombosis: venous congestion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  serpentine enhancement √  often in territory of single artery (MCA in 60%)"
+}

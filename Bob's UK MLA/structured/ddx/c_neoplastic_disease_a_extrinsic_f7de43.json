@@ -1,0 +1,47 @@
+{
+  "finding": "C. NEOPLASTIC DISEASE (a) extrinsic",
+  "slug": "c_neoplastic_disease_a_extrinsic_f7de43",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/c_neoplastic_disease_a_extrinsic_f7de43.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic lymphadenopathy",
+      "raw": "Metastatic lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Bone metastases with soft-tissue involvement",
+      "raw": "Bone metastases with soft-tissue involvement",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal sarcoma (b)  intrinsic",
+      "raw": "Retroperitoneal sarcoma (b)  intrinsic",
+      "frequency": null
+    },
+    {
+      "name": "Muscle tumors",
+      "raw": "Muscle tumors",
+      "frequency": null
+    },
+    {
+      "name": "Nervous system tumors",
+      "raw": "Nervous system tumors",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma / liposarcoma",
+      "raw": "Lipoma / liposarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

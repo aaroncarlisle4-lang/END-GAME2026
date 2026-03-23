@@ -1,0 +1,107 @@
+{
+  "finding": "Pancreatic Neoplasm",
+  "slug": "pancreatic_neoplasm_f4b25c",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/pancreatic_neoplasm_f4b25c.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "EXOCRINE NEOPLASM (a)  Ductal cell origin",
+      "raw": "EXOCRINE NEOPLASM (a)  Ductal cell origin",
+      "frequency": null
+    },
+    {
+      "name": "Ductal adenocarcinoma",
+      "raw": "Ductal adenocarcinoma (90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Ductectatic mucinous tumor =  mucin-hypersecreting carcinoma",
+      "raw": "Ductectatic mucinous tumor =  mucin-hypersecreting carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic neoplasm (10-15%) ›  serous microcystic neoplasm ›  mucinous macrocystic neoplasm ›  cystic PET",
+      "raw": "Cystic neoplasm (10-15%) ›  serous microcystic neoplasm ›  mucinous macrocystic neoplasm ›  cystic PET",
+      "frequency": "15%"
+    },
+    {
+      "name": "Solid pseudopapillary tumor",
+      "raw": "Solid pseudopapillary tumor (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Von Hippel-Lindau disease (b)  Acinar cell origin",
+      "raw": "Von Hippel-Lindau disease (b)  Acinar cell origin",
+      "frequency": null
+    },
+    {
+      "name": "Acinar cell carcinoma",
+      "raw": "Acinar cell carcinoma (1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Adenoma (c)  Indeterminate origin",
+      "raw": "Adenoma (c)  Indeterminate origin",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatoblastoma",
+      "raw": "Pancreatoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst (< 27 years of age, 8-12 cm in size)",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "PANCREATIC ENDOCRINE TUMOR (PET in 5%) (a)  Nonfunctioning (nonsyndromic) PET (b)  Functioning (syndromic) PET",
+      "raw": "PANCREATIC ENDOCRINE TUMOR (PET in 5%) (a)  Nonfunctioning (nonsyndromic) PET (b)  Functioning (syndromic) PET",
+      "frequency": "5%"
+    },
+    {
+      "name": "Insulinoma",
+      "raw": "Insulinoma (β cells)",
+      "frequency": null
+    },
+    {
+      "name": "Glucagonoma",
+      "raw": "Glucagonoma",
+      "frequency": null
+    },
+    {
+      "name": "Gastrinoma",
+      "raw": "Gastrinoma (δ cells)",
+      "frequency": null
+    },
+    {
+      "name": "Somatostatinoma",
+      "raw": "Somatostatinoma",
+      "frequency": null
+    },
+    {
+      "name": "VIPoma",
+      "raw": "VIPoma (WDHA syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "\"PPoma\" = pancreatic polypeptide",
+      "raw": "\"PPoma\" = pancreatic polypeptide",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Origin:  ›  in  99%  exocrine ductal epithelium ›   in 1.0%   acinar portion of pancreatic glands ›   in 0.1%   malignant ampullary tumor with better prognosis"
+}

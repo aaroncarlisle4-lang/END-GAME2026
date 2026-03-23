@@ -1,0 +1,32 @@
+{
+  "finding": "Intraocular Hemorrhage",
+  "slug": "intraocular_hemorrhage_909a8c",
+  "chapter": "MEDULLOEPITHELIOMA",
+  "source_file": "processed_clusters/medulloepithelioma/intraocular_hemorrhage_909a8c.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vitreous hemorrhage (53%) Mechanism:   disruption of retinal blood vessels → hemorrhage into vitreous humor of posterior segment",
+      "raw": "Vitreous hemorrhage (53%) Mechanism:   disruption of retinal blood vessels → hemorrhage into vitreous humor of posterior segment",
+      "frequency": "53%"
+    },
+    {
+      "name": "\"black rain\" / decreased visual acuity",
+      "raw": "\"black rain\" / decreased visual acuity (frequent)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Retrohyaloid hemorrhage",
+      "raw": "Retrohyaloid hemorrhage (2%)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Hematoma in retroocular space",
+      "raw": "Hematoma in retroocular space",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "US: √  normal / slightly increased vitreous echogenicity (= mild acute bleeding) √  poorly defined low-level echoes / hypoechoic clots within vitreous (= abundant hemorrhage) √  echogenic material moving freely within vitreous chamber during eye movement CAVE:   Severe vitreous hemorrhage may obscure other ocular findings! CT: √  hyperattenuating fluid in posterior segment Cx:   retinal detachment ← vitreous traction ← fibrovascular ingrowth following hemorrhage Prognosis:   resolution may occur within 2-8 weeks Rx:   vitrectomy √  echogenic material remaining behind detached vitreous capsule"
+}

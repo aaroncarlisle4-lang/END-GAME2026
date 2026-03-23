@@ -1,0 +1,38 @@
+{
+  "name": "MULTIPLE ENDOCRINE NEOPLASIA",
+  "slug": "multiple_endocrine_neoplasia",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/multiple_endocrine_neoplasia.md",
+  "definition": "MEN = MULTIPLE ENDOCRINE ADENOMAS (MEA) familial autosomal dominant adenomatous hyperplasia characterized by neoplasia of 2 or WERMER SYNDROME autosomal dominant syndrome with 95% penetrance SIPPLE DISEASE = MEN TYPE 2A autosomal dominant cancer syndrome MUCOSAL NEUROMA SYNDROME = MEN TYPE 2B",
+  "demographics": {
+    "Prevalence": "1÷5,000 to 1÷50,000",
+    "Genetics": "autosomal dominant MEN1 gene defect encoding protein menin located on",
+    "Path": "multiple < 5 mm microadenomas producing clinically insignificant active",
+    "Location": "duodenum > pancreas",
+    "Age": "more commonly < 40 years",
+    "Mean age": "3rd-4th decade; M÷F = 1÷1"
+  },
+  "dominant_finding": "multiple duodenal microgastrinomas (< 5 mm) account for > 50% of gastrinomas",
+  "distribution": "duodenum > pancreas",
+  "discriminating_features": [
+    "multiple duodenal microgastrinomas (< 5 mm) account for > 50% of gastrinomas",
+    "typically multiple microadenomas + nonfunctioning pancreatic endocrine tumors throughout",
+    "also often functioning tumor, most commonly gastrinoma (in 60%) / insulinoma (in 30%)",
+    "thickened / plaquelike colonic wall",
+    "chronic megacolon = dilated colon with abnormal haustral markings"
+  ],
+  "other_features": {
+    "general": [
+      "multiple duodenal microgastrinomas (< 5 mm) account for > 50% of gastrinomas",
+      "typically multiple microadenomas + nonfunctioning pancreatic endocrine tumors throughout",
+      "also often functioning tumor, most commonly gastrinoma (in 60%) / insulinoma (in 30%)",
+      "thickened / plaquelike colonic wall",
+      "chronic megacolon = dilated colon with abnormal haustral markings",
+      "alternating areas of colonic spasm + dilatation (rarely associated with Hirschsprüng",
+      "multiple submucosal neuromas throughout small bowel, may act as lead point for"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "premature death from neoplasia (likely due to metachronous multiplicity of"
+  }
+}

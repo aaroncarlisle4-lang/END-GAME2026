@@ -1,0 +1,22 @@
+{
+  "finding": "Infarction Of Brain (DDx)",
+  "slug": "infarction_of_brain_ddx_1",
+  "chapter": "Infarction Of Brain",
+  "source_file": "processed_clusters/infarction_of_brain/infarction_of_brain_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "enlarged Virchow-Robin spaces",
+      "raw": "enlarged Virchow-Robin spaces",
+      "frequency": null
+    },
+    {
+      "name": "neurocysticercosis",
+      "raw": "neurocysticercosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hypointense center + hyperintense rim (= gliosis) on FLAIR | normal signal intensity on DWI | may enhance in late acute / early subacute stage (up to 8 weeks) | unilateral pontine infarcts are sharply marginated at midline"
+}

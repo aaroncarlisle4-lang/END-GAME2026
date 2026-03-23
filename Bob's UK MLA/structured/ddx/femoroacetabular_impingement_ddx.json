@@ -1,0 +1,27 @@
+{
+  "finding": "Femoroacetabular Impingement (DDx)",
+  "slug": "femoroacetabular_impingement_ddx",
+  "chapter": "Femoroacetabular Impingement",
+  "source_file": "processed_clusters/femoroacetabular_impingement/femoroacetabular_impingement_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "healthy young adult",
+      "raw": "healthy young adult (common!)",
+      "frequency": "common"
+    },
+    {
+      "name": "adult hip dysplasia",
+      "raw": "adult hip dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "pseudoacetabular overcoverage in",
+      "raw": "pseudoacetabular overcoverage in",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cystic / bony proliferative changes at femoral head-neck junction | ossicle along acetabular rim / os acetabuli"
+}

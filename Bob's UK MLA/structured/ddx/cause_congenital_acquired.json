@@ -1,0 +1,47 @@
+{
+  "finding": "Cause: congenital / acquired",
+  "slug": "cause_congenital_acquired",
+  "chapter": "PROSTATE",
+  "source_file": "processed_clusters/prostate/cause_congenital_acquired.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "asymptomatic, chronic recurrent prostatitis / epididymitis",
+      "raw": "asymptomatic, chronic recurrent prostatitis / epididymitis",
+      "frequency": null
+    },
+    {
+      "name": "painful ejaculation, perineal / testicular pain",
+      "raw": "painful ejaculation, perineal / testicular pain",
+      "frequency": null
+    },
+    {
+      "name": "urgency, hesitancy, tenesmus, pain upon defecation",
+      "raw": "urgency, hesitancy, tenesmus, pain upon defecation",
+      "frequency": null
+    },
+    {
+      "name": "hematuria, hematospermia, infertility; urethral discharge",
+      "raw": "hematuria, hematospermia, infertility; urethral discharge",
+      "frequency": null
+    },
+    {
+      "name": "acute urinary retention, constipation ← bladder / bowel obstruction",
+      "raw": "acute urinary retention, constipation ← bladder / bowel obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Vas Deferens Cyst",
+      "raw": "Vas Deferens Cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cowper Duct Cyst",
+      "raw": "Cowper Duct Cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Age:   10-40 years May be associated with:   ipsilateral renal agenesis, autosomal dominant polycystic kidney disease Size:   usually < 5 cm √  well-defined intraseminal unilocular round / oval cyst √  cyst superior to prostate along course of vas deferens"
+}

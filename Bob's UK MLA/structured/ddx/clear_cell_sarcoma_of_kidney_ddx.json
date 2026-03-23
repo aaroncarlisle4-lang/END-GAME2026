@@ -1,0 +1,27 @@
+{
+  "finding": "Clear Cell Sarcoma Of Kidney (DDx)",
+  "slug": "clear_cell_sarcoma_of_kidney_ddx",
+  "chapter": "Clear Cell Sarcoma Of Kidney",
+  "source_file": "processed_clusters/clear_cell_sarcoma_of_kidney/clear_cell_sarcoma_of_kidney_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cystic form of Wilms tumor",
+      "raw": "cystic form of Wilms tumor (vascular invasion)",
+      "frequency": null
+    },
+    {
+      "name": "multilocular cystic nephroma",
+      "raw": "multilocular cystic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "cystic dysplasia",
+      "raw": "cystic dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "water-density areas ← cysts | low to intermediate signal intensity on T1WI | high signal intensity on T2WI | bone scan recommended after diagnosis is established"
+}

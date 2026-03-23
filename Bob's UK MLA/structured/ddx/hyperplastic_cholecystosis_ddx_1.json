@@ -1,0 +1,27 @@
+{
+  "finding": "Hyperplastic Cholecystosis (DDx)",
+  "slug": "hyperplastic_cholecystosis_ddx_1",
+  "chapter": "Hyperplastic Cholecystosis",
+  "source_file": "processed_clusters/hyperplastic_cholecystosis/hyperplastic_cholecystosis_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "papilloma",
+      "raw": "papilloma",
+      "frequency": null
+    },
+    {
+      "name": "adenoma",
+      "raw": "adenoma",
+      "frequency": null
+    },
+    {
+      "name": "inflammatory granuloma",
+      "raw": "inflammatory granuloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "small round smoothly contoured intraluminal lesion: | multiple (on average 8) small filling defects Size:   < 10 mm (rarely up to 20 mm) in | \"ball on the wall\" sign ← lesion attached to wall with stalk (rarely seen)"
+}

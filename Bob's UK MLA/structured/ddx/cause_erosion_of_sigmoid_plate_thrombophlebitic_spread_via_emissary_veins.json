@@ -1,0 +1,32 @@
+{
+  "finding": "Cause: erosion of sigmoid plate / thrombophlebitic spread via emissary veins",
+  "slug": "cause_erosion_of_sigmoid_plate_thrombophlebitic_spread_via_emissary_veins",
+  "chapter": "OTOMASTOIDITIS",
+  "source_file": "processed_clusters/otomastoiditis/cause_erosion_of_sigmoid_plate_thrombophlebitic_spread_via_emissary_veins.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "headache, otalgia, papilledema, fever",
+      "raw": "headache, otalgia, papilledema, fever",
+      "frequency": null
+    },
+    {
+      "name": "Subdural empyema Route:   communication through intact bone and dura with vessels in subarachnoid space + brain parenchyma",
+      "raw": "Subdural empyema Route:   communication through intact bone and dura with vessels in subarachnoid space + brain parenchyma",
+      "frequency": null
+    },
+    {
+      "name": "meningismus, focal neurologic deficits, focal seizures",
+      "raw": "meningismus, focal neurologic deficits, focal seizures",
+      "frequency": null
+    },
+    {
+      "name": "Intraparenchymal brain abscess and empyema",
+      "raw": "Intraparenchymal brain abscess and empyema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   (commonly) sigmoid + transverse sinus √  sinus of low attenuation on NECT and CECT √  absence of normal flow void on spin-echo MR √  no flow-related enhancement on gradient-echo MR √  occlusion on MRV DDx:   aberrant arachnoid granulation Location:   along posterior interhemispheric fissure; tentorium cerebelli √  widening of extracerebral space √  compression of adjacent sulci Rx:   prompt neurosurgical drainage"
+}

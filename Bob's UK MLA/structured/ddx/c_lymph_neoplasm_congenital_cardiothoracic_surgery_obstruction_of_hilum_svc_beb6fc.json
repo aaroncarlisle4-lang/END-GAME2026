@@ -1,0 +1,82 @@
+{
+  "finding": "C. LYMPH neoplasm, congenital, cardiothoracic surgery, obstruction of hilum / SVC",
+  "slug": "c_lymph_neoplasm_congenital_cardiothoracic_surgery_obstruction_of_hilum_svc_beb6fc",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/c_lymph_neoplasm_congenital_cardiothoracic_surgery_obstruction_of_hilum_svc_beb6fc.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "FIBRIN = exudate (a)  infection: viral, pyogenic, tuberculous (b)  renal insufficiency: 18% in acute uremia; 51% in chronic uremia; dialysis patient (c)  collagen vascular disease: SLE, rheumatoid arthritis, acute rheumatic fever (d)  hypersensitivity: Dressler syndrome",
+      "raw": "FIBRIN = exudate (a)  infection: viral, pyogenic, tuberculous (b)  renal insufficiency: 18% in acute uremia; 51% in chronic uremia; dialysis patient (c)  collagen vascular disease: SLE, rheumatoid arthritis, acute rheumatic fever (d)  hypersensitivity: Dressler syndrome",
+      "frequency": "18%"
+    },
+    {
+      "name": "Collagen vascular disease",
+      "raw": "Collagen vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Uremia",
+      "raw": "Uremia",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Acute myocardial infarction",
+      "raw": "Acute myocardial infarction",
+      "frequency": null
+    },
+    {
+      "name": "Purulent infection",
+      "raw": "Purulent infection",
+      "frequency": null
+    },
+    {
+      "name": "Post MI syndrome",
+      "raw": "Post MI syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Virus",
+      "raw": "Virus",
+      "frequency": null
+    },
+    {
+      "name": "chest pain, dyspnea, cyanosis, hypotension, tachycardia",
+      "raw": "chest pain, dyspnea, cyanosis, hypotension, tachycardia",
+      "frequency": null
+    },
+    {
+      "name": "cardiac tamponade + hemodynamic compromise",
+      "raw": "cardiac tamponade + hemodynamic compromise",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "CXR: √  normal with fluid < 250 mL / in acute pericarditis √  \"water bottle configuration\" = symmetrically enlarged cardiac silhouette √  loss of retrosternal clear space √  \"fat-pad\" sign = separation of retrosternal from epicardial fat line > 2 mm (in 15%) by water density √  rapidly appearing cardiomegaly + normal pulmonary vascularity √  \"differential density\" sign = increase in lucency at heart margin ← slight difference in contrast between pericardial fluid + heart muscle √  diminished cardiac pulsations CT: √  effusion of greater than water density = hemopericardium, malignancy, purulen"
+}

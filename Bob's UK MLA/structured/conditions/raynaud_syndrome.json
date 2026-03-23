@@ -1,0 +1,29 @@
+{
+  "name": "RAYNAUD SYNDROME",
+  "slug": "raynaud_syndrome",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/raynaud_syndrome.md",
+  "definition": "episodic digital ischemia in response to cold / emotional stimuli PRIMARY VASOSPASM = SPASTIC FORM OF RAYNAUD SYNDROME exaggerated cold-induced constriction of smooth muscle cells in otherwise normal artery SECONDARY VASOSPASM WITH OBSTRUCTION OBSTRUCTIVE FORM OF RAYNAUD SYNDROME digital artery occlusion ← stenotic process in normally constricting artery / associated with",
+  "demographics": {
+    "Age": "most common in young women"
+  },
+  "dominant_finding": "normal segmental arm + digit pressures at room temperature",
+  "distribution": "normal segmental arm + digit pressures at room temperature",
+  "discriminating_features": [
+    "normal segmental arm + digit pressures at room temperature",
+    "peaked digit volume pulse = rapid rise in systole, anacrotic notch just before the peak,",
+    "flat-line tracing at low temperatures (10°-22°C) with sudden reappearance of normal",
+    "reduced segmental arm + digit pressures at room temperature",
+    "flat-line / barely detectable tracing at low temperature with gradual increase of"
+  ],
+  "other_features": {
+    "general": [
+      "normal segmental arm + digit pressures at room temperature",
+      "peaked digit volume pulse = rapid rise in systole, anacrotic notch just before the peak,",
+      "flat-line tracing at low temperatures (10°-22°C) with sudden reappearance of normal",
+      "reduced segmental arm + digit pressures at room temperature",
+      "flat-line / barely detectable tracing at low temperature with gradual increase of"
+    ]
+  },
+  "clinical": {}
+}

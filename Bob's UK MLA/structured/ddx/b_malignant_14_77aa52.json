@@ -1,0 +1,27 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_14_77aa52",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/b_malignant_14_77aa52.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Drop metastases",
+      "raw": "Drop metastases",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

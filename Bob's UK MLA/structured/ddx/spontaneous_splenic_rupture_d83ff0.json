@@ -1,0 +1,107 @@
+{
+  "finding": "Spontaneous Splenic Rupture",
+  "slug": "spontaneous_splenic_rupture_d83ff0",
+  "chapter": "Iron Accumulation in Spleen",
+  "source_file": "processed_clusters/iron_accumulation_in_spleen/spontaneous_splenic_rupture_d83ff0.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Posttraumatic delayed rupture",
+      "raw": "Posttraumatic delayed rupture",
+      "frequency": null
+    },
+    {
+      "name": "Splenomegaly",
+      "raw": "Splenomegaly",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid cyst",
+      "raw": "Epidermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Peliosis",
+      "raw": "Peliosis",
+      "frequency": null
+    },
+    {
+      "name": "Previous splenic infarction",
+      "raw": "Previous splenic infarction",
+      "frequency": null
+    },
+    {
+      "name": "ANATOMIC ABSENCE OF SPLEEN",
+      "raw": "ANATOMIC ABSENCE OF SPLEEN",
+      "frequency": null
+    },
+    {
+      "name": "Congenital asplenia = Ivemark syndrome",
+      "raw": "Congenital asplenia = Ivemark syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Splenectomy",
+      "raw": "Splenectomy",
+      "frequency": null
+    },
+    {
+      "name": "FUNCTIONAL ASPLENIA =  marked decrease in splenic phagocytic function despite presence of splenic tissue within the body",
+      "raw": "FUNCTIONAL ASPLENIA =  marked decrease in splenic phagocytic function despite presence of splenic tissue within the body",
+      "frequency": null
+    },
+    {
+      "name": "Circulatory disturbances: occlusion of splenic artery / vein, hemoglobinopathies (sickle cell disease, hemoglobin-SC disease, thalassemia), polycythemia vera, idiopathic thrombocytopenic purpura",
+      "raw": "Circulatory disturbances: occlusion of splenic artery / vein, hemoglobinopathies (sickle cell disease, hemoglobin-SC disease, thalassemia), polycythemia vera, idiopathic thrombocytopenic purpura",
+      "frequency": null
+    },
+    {
+      "name": "Altered RES activity: thorotrast, irradiation, combined splenic irradiation + chemotherapy, replacement of RES by tumor / infiltrate, splenic anoxia (cyanotic congenital heart disease), sprue",
+      "raw": "Altered RES activity: thorotrast, irradiation, combined splenic irradiation + chemotherapy, replacement of RES by tumor / infiltrate, splenic anoxia (cyanotic congenital heart disease), sprue",
+      "frequency": null
+    },
+    {
+      "name": "Autoimmune disease Cx:   children at risk for pneumococcal pneumonia",
+      "raw": "Autoimmune disease Cx:   children at risk for pneumococcal pneumonia (liver partially takes over immune response later in life)",
+      "frequency": null
+    },
+    {
+      "name": "FUNCTIONAL ASPLENIA + SPLENIC ATROPHY ulcerative colitis, Crohn disease, celiac disease, tropical sprue, dermatitis herpetiformis, thyrotoxicosis, idiopathic thrombocytopenic purpura, thorotrast",
+      "raw": "FUNCTIONAL ASPLENIA + SPLENIC ATROPHY ulcerative colitis, Crohn disease, celiac disease, tropical sprue, dermatitis herpetiformis, thyrotoxicosis, idiopathic thrombocytopenic purpura, thorotrast",
+      "frequency": null
+    },
+    {
+      "name": "FUNCTIONAL ASPLENIA + NORMAL / LARGE SPLEEN sarcoidosis, amyloidosis, sickle cell anemia (if not infarcted), after bone marrow transplantation",
+      "raw": "FUNCTIONAL ASPLENIA + NORMAL / LARGE SPLEEN sarcoidosis, amyloidosis, sickle cell anemia (if not infarcted), after bone marrow transplantation",
+      "frequency": null
+    },
+    {
+      "name": "RBC",
+      "raw": "RBC (acanthocytes, siderocytes)",
+      "frequency": null
+    },
+    {
+      "name": "lymphocytosis, monocytosis",
+      "raw": "lymphocytosis, monocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Howell-Jolly bodies",
+      "raw": "Howell-Jolly bodies (intraerythrocytic inclusions)",
+      "frequency": null
+    },
+    {
+      "name": "thrombocytosis",
+      "raw": "thrombocytosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Hyposplenism =  no uptake of 99mTc-sulfur colloid √  spleen not visualized on 99mTc-sulfur colloid √  99mTc-heat-damaged RBCs / 111In-labeled platelets may demonstrate splenic tissue if 99mTc-sulfur colloid does not Cx:     increased risk of infection (pneumococcus, meningococcus, influenza) ANATOMY OF LIVER, BILE DUCTS, PANCREAS AND SPLEEN"
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "A. BENIGN DISEASE (76%",
+  "slug": "a_benign_disease_76_ecabeb",
+  "chapter": "GALLBLADDER POLYP",
+  "source_file": "processed_clusters/gallbladder_polyp/a_benign_disease_76_ecabeb.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Traumatic / postoperative stricture (44%): cholecystectomy (incidence of 0.2- 0.7%), liver transplantation",
+      "raw": "Traumatic / postoperative stricture (44%): cholecystectomy (incidence of 0.2- 0.7%), liver transplantation",
+      "frequency": "44%"
+    },
+    {
+      "name": "Calculi",
+      "raw": "Calculi (21%)",
+      "frequency": "21%"
+    },
+    {
+      "name": "Chronic pancreatitis",
+      "raw": "Chronic pancreatitis (8%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Sclerosing cholangitis (1%): primary sclerosing cholangitis, IgG4-related sclerosing disease",
+      "raw": "Sclerosing cholangitis (1%): primary sclerosing cholangitis, IgG4-related sclerosing disease",
+      "frequency": "1%"
+    },
+    {
+      "name": "Recurrent pyogenic cholangitis",
+      "raw": "Recurrent pyogenic cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic disease: eg, ascariasis",
+      "raw": "Parasitic disease: eg, ascariasis",
+      "frequency": null
+    },
+    {
+      "name": "Liver cysts",
+      "raw": "Liver cysts",
+      "frequency": null
+    },
+    {
+      "name": "Aortic aneurysm",
+      "raw": "Aortic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Papillary stenosis",
+      "raw": "Papillary stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

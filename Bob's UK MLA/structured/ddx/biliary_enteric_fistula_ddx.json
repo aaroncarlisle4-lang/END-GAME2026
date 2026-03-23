@@ -1,0 +1,37 @@
+{
+  "finding": "Biliary-Enteric Fistula (DDx)",
+  "slug": "biliary_enteric_fistula_ddx",
+  "chapter": "Biliary-Enteric Fistula",
+  "source_file": "processed_clusters/biliary_enteric_fistula/biliary_enteric_fistula_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "patulous sphincter of Oddi",
+      "raw": "patulous sphincter of Oddi",
+      "frequency": null
+    },
+    {
+      "name": "ascending cholangitis",
+      "raw": "ascending cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "surgery (choledochoduodenostomy",
+      "raw": "surgery (choledochoduodenostomy",
+      "frequency": null
+    },
+    {
+      "name": "cholecystojejunostomy",
+      "raw": "cholecystojejunostomy",
+      "frequency": null
+    },
+    {
+      "name": "sphincterotomy)",
+      "raw": "sphincterotomy)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "pneumobilia = branching tubular radiolucencies, more prominent centrally within the liver | barium filling of biliary tree | shrunken gallbladder mimicking pseudodiverticulum of duodenal bulb | multiple hyperechoic foci with dirty shadowing"
+}

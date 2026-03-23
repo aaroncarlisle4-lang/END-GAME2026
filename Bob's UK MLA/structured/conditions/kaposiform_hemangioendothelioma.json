@@ -1,0 +1,29 @@
+{
+  "name": "KAPOSIFORM HEMANGIOENDOTHELIOMA",
+  "slug": "kaposiform_hemangioendothelioma",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/kaposiform_hemangioendothelioma.md",
+  "definition": "vascular neoplasm of borderline malignancy + intermediate aggressiveness",
+  "demographics": {
+    "Associated with": "Kasabach-Merritt syndrome",
+    "Location": "extremity, trunk, head and neck"
+  },
+  "dominant_finding": "small feeding + draining vessels",
+  "distribution": "extremity, trunk, head and neck",
+  "discriminating_features": [
+    "ill-defined margins with involvement of multiple tissue planes + destructive changes",
+    "small feeding + draining vessels",
+    "hemosiderin deposits"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "ill-defined margins with involvement of multiple tissue planes + destructive changes",
+      "small feeding + draining vessels",
+      "hemosiderin deposits"
+    ]
+  },
+  "clinical": {
+    "Spread": "to regional lymph nodes (rare)"
+  }
+}

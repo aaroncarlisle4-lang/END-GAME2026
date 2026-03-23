@@ -1,0 +1,57 @@
+{
+  "finding": "Mean age: 41 years; extremely rare in infants + children",
+  "slug": "mean_age_41_years_extremely_rare_in_infants_children_11075e",
+  "chapter": "AZYGOS CONTINUATION OF IVC",
+  "source_file": "processed_clusters/azygos_continuation_of_ivc/mean_age_41_years_extremely_rare_in_infants_children_11075e.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma (37-80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "Undifferentiated sarcoma",
+      "raw": "Undifferentiated sarcoma (24-37%)",
+      "frequency": "37%"
+    },
+    {
+      "name": "Malignant fibrous histiocytoma",
+      "raw": "Malignant fibrous histiocytoma (11-24%)",
+      "frequency": "24%"
+    },
+    {
+      "name": "Leiomyosarcoma (1-9%): predilection for left atrium; tends to invade pulmonary veins + mitral valve",
+      "raw": "Leiomyosarcoma (1-9%): predilection for left atrium; tends to invade pulmonary veins + mitral valve",
+      "frequency": "9%"
+    },
+    {
+      "name": "Primary cardiac osteogenic sarcoma",
+      "raw": "Primary cardiac osteogenic sarcoma (3-9%)",
+      "frequency": "9%"
+    },
+    {
+      "name": "dyspnea, pericardial tamponade, arrhythmia, syncope, peripheral edema, sudden death",
+      "raw": "dyspnea, pericardial tamponade, arrhythmia, syncope, peripheral edema, sudden death",
+      "frequency": null
+    },
+    {
+      "name": "embolic phenomena, chest pain, pneumonia, fever",
+      "raw": "embolic phenomena, chest pain, pneumonia, fever",
+      "frequency": null
+    },
+    {
+      "name": "chest pain, right heart failure, supraventricular arrhythmia",
+      "raw": "chest pain, right heart failure, supraventricular arrhythmia",
+      "frequency": null
+    },
+    {
+      "name": "fever, weight loss; pericardial tamponade = bloody fluid on pericardiocentesis",
+      "raw": "fever, weight loss; pericardial tamponade = bloody fluid on pericardiocentesis (rarely with malignant cells)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  right-sided heart inflow obstruction (tumor in right atrium) (b)  mitral valve obstruction (tumor in left atrium) Age:   5-10 years earlier than other sarcomas DDx:   myxoma (at fossa ovalis) √  contrast enhancement, areas of hemorrhage, central necrosis CXR: √  cardiomegaly, RA enlargement √  CHF √  pleural effusion, pericardial effusion √  focal cardiac mass √  pulmonary consolidation PET: √  difficult identification of sarcoma if myocardial FDG activity is high Metastatic to:   lung, lymph nodes, bone, liver, brain, bowel, spleen, adrenal gland, pleura, diaphragm, kidney, thyroid, skin"
+}

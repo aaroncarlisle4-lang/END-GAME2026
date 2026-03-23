@@ -1,0 +1,45 @@
+{
+  "finding": "Mesencephalic Low-density Lesion",
+  "slug": "mesencephalic_low_density_lesion",
+  "chapter": "B. NEUROVASCULAR",
+  "source_file": "processed_clusters/b_neurovascular/mesencephalic_low_density_lesion.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Normal: decussation of superior cerebellar peduncles at level of inferior colliculi",
+      "raw": "Normal: decussation of superior cerebellar peduncles at level of inferior colliculi",
+      "frequency": null
+    },
+    {
+      "name": "Syringobulbia found in conjunction with syringomyelia, Arnold-Chiari malformation, trauma",
+      "raw": "Syringobulbia found in conjunction with syringomyelia, Arnold-Chiari malformation, trauma",
+      "frequency": null
+    },
+    {
+      "name": "Brainstem infarction [Central pontine myelinolysis]",
+      "raw": "Brainstem infarction",
+      "frequency": null,
+      "sites": [
+        "Central pontine myelinolysis"
+      ]
+    },
+    {
+      "name": "Brainstem glioma",
+      "raw": "Brainstem glioma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma in TB / sarcoidosis",
+      "raw": "Granuloma in TB / sarcoidosis (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "√  CSF density centrally √  intrathecal contrast enters central cavity √  abnormal contrast enhancement after 1 week √  well-defined low-attenuation region without enhancement after 2-4 weeks √  well-defined contrast enhancement"
+}

@@ -1,0 +1,46 @@
+{
+  "name": "PRIMARY ANGIITIS OF CNS",
+  "slug": "primary_angiitis_of_cns",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/primary_angiitis_of_cns.md",
+  "definition": "PACNS = idiopathic inflammatory disease of medium-sized to small arteries affecting CNS /",
+  "demographics": {
+    "Age": "5-6th decade",
+    "Location": "spinal cord abnormalities (5%)"
+  },
+  "dominant_finding": "areas of low attenuation ← suggestive of ischemic events",
+  "distribution": "spinal cord abnormalities (5%)",
+  "discriminating_features": [
+    "nonspecific mass lesions characterized by central necrosis, surrounding edema,",
+    "areas of low attenuation ← suggestive of ischemic events",
+    "discrete / diffuse supra- and infratentorial lesions involving deep + superficial white matter",
+    "± vessel irregularities",
+    "± areas of infarct + hemorrhage"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "areas of low attenuation ← suggestive of ischemic events"
+    ],
+    "MR": [
+      "discrete / diffuse supra- and infratentorial lesions involving deep + superficial white matter",
+      "± vessel irregularities",
+      "± areas of infarct + hemorrhage",
+      "lesion enhancement in 90%",
+      "focal / multifocal segmental narrowing / occlusion / irregularities in both hemispheres",
+      "collateral vessel formation",
+      "prolonged circulation time",
+      "microaneurysm (unusual)",
+      "intracerebral > subarachnoid hemorrhage",
+      "nonspecific mass lesions characterized by central necrosis, surrounding edema,",
+      "numerous bilateral lesions of large cerebral vessels",
+      "several bilateral cerebral infarctions",
+      "meningeal / parenchymal enhancing lesions at MR"
+    ]
+  },
+  "clinical": {
+    "N.B.": "often misinterpreted as malignant neoplasms",
+    "Prognosis": "poor, often fatal",
+    "Rx": "high-dose steroids, cytotoxic agents"
+  }
+}

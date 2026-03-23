@@ -1,0 +1,22 @@
+{
+  "finding": "Drug-Induced Pulmonary Damage (DDx)",
+  "slug": "drug_induced_pulmonary_damage_ddx_d8b24f",
+  "chapter": "Drug-Induced Pulmonary Damage",
+  "source_file": "processed_clusters/drug_induced_pulmonary_damage/drug_induced_pulmonary_damage_ddx_d8b24f.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pneumocystis pneumonia",
+      "raw": "Pneumocystis pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "interstitial leukemic infiltrate",
+      "raw": "interstitial leukemic infiltrate",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "nonspecific interstitial pneumonia | BOOP (least common) | diffuse linear pattern (occasionally reticulonodular / nodular pattern) | partial / complete clearing after withdrawal of drug"
+}

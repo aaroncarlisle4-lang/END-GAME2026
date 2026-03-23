@@ -1,0 +1,22 @@
+{
+  "finding": "Median Arcuate Ligament Compression (DDx)",
+  "slug": "median_arcuate_ligament_compression_ddx",
+  "chapter": "Median Arcuate Ligament Compression",
+  "source_file": "processed_clusters/median_arcuate_ligament_compression/median_arcuate_ligament_compression_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fixed celiac stenosis (atherosclerosis",
+      "raw": "fixed celiac stenosis (atherosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "vasculitis)",
+      "raw": "vasculitis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "collateral filling via SMA + pancreaticoduodenal arcades | absence of atherosclerotic changes in adjacent aorta and proximal celiac segment | peak systolic velocity in celiac artery ≥ 250 cm/s (70-99% stenosis) or in SMA ≥ 275 | normalization of elevated velocity during deep inspiration / standing upright position"
+}

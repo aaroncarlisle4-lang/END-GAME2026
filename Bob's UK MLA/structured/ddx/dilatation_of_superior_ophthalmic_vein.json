@@ -1,0 +1,37 @@
+{
+  "finding": "Dilatation of Superior Ophthalmic Vein",
+  "slug": "dilatation_of_superior_ophthalmic_vein",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/dilatation_of_superior_ophthalmic_vein.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carotid-cavernous sinus fistula",
+      "raw": "Carotid-cavernous sinus fistula",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous sinus thrombosis",
+      "raw": "Cavernous sinus thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Venous varix",
+      "raw": "Venous varix",
+      "frequency": null
+    },
+    {
+      "name": "Graves disease",
+      "raw": "Graves disease",
+      "frequency": null
+    },
+    {
+      "name": "Normal variant",
+      "raw": "Normal variant",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

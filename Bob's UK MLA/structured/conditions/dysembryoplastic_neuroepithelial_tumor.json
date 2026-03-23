@@ -1,0 +1,36 @@
+{
+  "name": "DYSEMBRYOPLASTIC NEUROEPITHELIAL TUMOR",
+  "slug": "dysembryoplastic_neuroepithelial_tumor",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/dysembryoplastic_neuroepithelial_tumor.md",
+  "definition": "benign tumor of neuroepithelial origin arising from cortical / deep gray matter",
+  "demographics": {
+    "Histo": "specific glioneuronal element in a columnar pattern oriented perpendicular to cortical",
+    "Age": "usually < 20 years; M > F"
+  },
+  "dominant_finding": "hypoattenuating mass ± calcifications",
+  "distribution": "cortical mass without surrounding vasogenic edema:",
+  "discriminating_features": [
+    "hypoattenuating mass ± calcifications",
+    "remodeling of inner table of skull",
+    "cortical mass without surrounding vasogenic edema:",
+    "hypointense on T1WI + hyperintense on T2WI",
+    "\"soap bubble\" / megagyrus appearance at cortical margin = enlargement of cortical"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "hypoattenuating mass ± calcifications",
+      "remodeling of inner table of skull"
+    ],
+    "MR": [
+      "cortical mass without surrounding vasogenic edema:",
+      "hypointense on T1WI + hyperintense on T2WI",
+      "\"soap bubble\" / megagyrus appearance at cortical margin = enlargement of cortical",
+      "contrast enhancement (in 33%)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "partial resection stops seizure activity; rarely recurs"
+  }
+}

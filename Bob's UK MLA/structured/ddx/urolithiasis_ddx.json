@@ -1,0 +1,22 @@
+{
+  "finding": "Urolithiasis (DDx)",
+  "slug": "urolithiasis_ddx",
+  "chapter": "Urolithiasis",
+  "source_file": "processed_clusters/urolithiasis/urolithiasis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "gonadal vein phlebolith (in front of upper ureter",
+      "raw": "gonadal vein phlebolith (in front of upper ureter",
+      "frequency": null
+    },
+    {
+      "name": "lateral to mid ureter); 2-8% of phleboliths have a \"soft-tissue rim\" sign",
+      "raw": "lateral to mid ureter); 2-8% of phleboliths have a \"soft-tissue rim\" sign",
+      "frequency": "8%"
+    }
+  ],
+  "criteria": {},
+  "context": "stone at ureterovesical junction | \"soft-tissue rim\" sign (50-77% sensitive, 92% specific): | visible in 90% of stones < 4 mm | not visible in 33% of stones > 5 mm ← thinning of ureteral wall by impaction of"
+}

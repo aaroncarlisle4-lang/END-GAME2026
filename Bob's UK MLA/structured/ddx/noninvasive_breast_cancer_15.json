@@ -1,0 +1,117 @@
+{
+  "finding": "NONINVASIVE BREAST CANCER (15 %",
+  "slug": "noninvasive_breast_cancer_15",
+  "chapter": "Breast Cancer Evaluation",
+  "source_file": "processed_clusters/breast_cancer_evaluation/noninvasive_breast_cancer_15.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "may persist for years without palpable abnormality",
+      "raw": "may persist for years without palpable abnormality (in screening population)",
+      "frequency": null
+    },
+    {
+      "name": "palpable mass (12%) / Paget disease of nipple / nipple discharge (in 12% of symptomatic patients) ◊  50% of DCIS are > 5 cm in size ◊  Histologic size of DCIS is independent of histologic subgroup ◊  Almost all \"comedo\" type DCIS contain significant microcalcifications ◊  DCIS often involves the nipple + subareolar ducts ◊  Calcifications in ductal orientation like \"string of beads\"",
+      "raw": "palpable mass (12%) / Paget disease of nipple / nipple discharge (in 12% of symptomatic patients) ◊  50% of DCIS are > 5 cm in size ◊  Histologic size of DCIS is independent of histologic subgroup ◊  Almost all \"comedo\" type DCIS contain significant microcalcifications ◊  DCIS often involves the nipple + subareolar ducts ◊  Calcifications in ductal orientation like \"string of beads\"",
+      "frequency": "12%"
+    },
+    {
+      "name": "Multicentricity:   in 8-47%",
+      "raw": "Multicentricity:   in 8-47% (increasing with tumor size)",
+      "frequency": "47%"
+    },
+    {
+      "name": "Multifocality:   in 27%",
+      "raw": "Multifocality:   in 27%",
+      "frequency": "27%"
+    },
+    {
+      "name": "Average size:   10-15 mm",
+      "raw": "Average size:   10-15 mm",
+      "frequency": null
+    },
+    {
+      "name": "Simple / modified mastectomy: cure rate of 98%; reserved for tumor > 5 cm or multicentric / diffuse disease",
+      "raw": "Simple / modified mastectomy: cure rate of 98%; reserved for tumor > 5 cm or multicentric / diffuse disease",
+      "frequency": "98%"
+    },
+    {
+      "name": "Local excision alone (breast-conserving Rx): local recurrence in 4 years:",
+      "raw": "Local excision alone (breast-conserving Rx): local recurrence in 4 years:",
+      "frequency": null
+    },
+    {
+      "name": "Lumpectomy + radiotherapy: 7% rate of recurrence",
+      "raw": "Lumpectomy + radiotherapy: 7% rate of recurrence",
+      "frequency": "7%"
+    },
+    {
+      "name": "Occult invasion in 5-20% of patients",
+      "raw": "Occult invasion in 5-20% of patients",
+      "frequency": "20%"
+    },
+    {
+      "name": "Multifocality in 30%",
+      "raw": "Multifocality in 30%",
+      "frequency": "30%"
+    },
+    {
+      "name": "Multicentricity in 14% of lesions < 25 mm, in 100% of lesions > 50 mm",
+      "raw": "Multicentricity in 14% of lesions < 25 mm, in 100% of lesions > 50 mm",
+      "frequency": "14%"
+    },
+    {
+      "name": "Axillary metastases in 1-2%",
+      "raw": "Axillary metastases in 1-2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Positive margins after surgery",
+      "raw": "Positive margins after surgery",
+      "frequency": null
+    },
+    {
+      "name": "Residual synchronous foci of DCIS",
+      "raw": "Residual synchronous foci of DCIS",
+      "frequency": null
+    },
+    {
+      "name": "estrogen-receptor + progesterone-receptor negative",
+      "raw": "estrogen-receptor + progesterone-receptor negative",
+      "frequency": null
+    },
+    {
+      "name": "overexpression of ErbB-2 oncogene product and P53 suppressor gene mutation",
+      "raw": "overexpression of ErbB-2 oncogene product and P53 suppressor gene mutation",
+      "frequency": null
+    },
+    {
+      "name": "often symptomatic lesion with nipple discharge",
+      "raw": "often symptomatic lesion with nipple discharge",
+      "frequency": null
+    },
+    {
+      "name": "not palpable",
+      "raw": "not palpable",
+      "frequency": null
+    },
+    {
+      "name": "well-circumscribed + freely movable",
+      "raw": "well-circumscribed + freely movable",
+      "frequency": null
+    },
+    {
+      "name": "aspiration yields straw-colored / dark red / brown fluid ← ruptured capillaries in cyst wall / necrosis of tumor cells; reaccumulation of fluid within 3-4 weeks",
+      "raw": "aspiration yields straw-colored / dark red / brown fluid ← ruptured capillaries in cyst wall / necrosis of tumor cells; reaccumulation of fluid within 3-4 weeks",
+      "frequency": null
+    },
+    {
+      "name": "fluid cytology negative for cancer in 80%",
+      "raw": "fluid cytology negative for cancer in 80%",
+      "frequency": "80%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  malignant transformation of epithelial cells lining mammary ducts + lobules confined within boundaries of basement membrane Rx:   few data are available to provide insight into proper treatment Ductal Carcinoma In Situ (DCIS) =  highly heterogeneous group of intraductal carcinomas (\"cancer waiting to become malignant\") =  nonobligate precursor to invasive cancer ◊  30% become invasive over 10 years Incidence:  20-25% of all cancers in screening population; 70% of noninvasive carcinomas Age-adjusted prevalence:   32.5÷100,000 women (2005); 88÷100,000 women 50-64 years Age:     most > 55 (40-"
+}

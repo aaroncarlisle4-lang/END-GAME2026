@@ -1,0 +1,42 @@
+{
+  "finding": "Epiphyseolysis",
+  "slug": "epiphyseolysis",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/epiphyseolysis.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Idiopathic / juvenile epiphyseolysis",
+      "raw": "Idiopathic / juvenile epiphyseolysis",
+      "frequency": null
+    },
+    {
+      "name": "adiposogenital type; tall stature",
+      "raw": "adiposogenital type; tall stature",
+      "frequency": null
+    },
+    {
+      "name": "Renal osteodystrophy",
+      "raw": "Renal osteodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism in chronic renal disease",
+      "raw": "Hyperparathyroidism in chronic renal disease",
+      "frequency": null
+    },
+    {
+      "name": "Hypothyroidism",
+      "raw": "Hypothyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Radiotherapy",
+      "raw": "Radiotherapy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  SLIPPED EPIPHYSIS (zone of maturing hypertrophic cartilage affected, NOT zone of proliferation) Age:   12-15 years (? puberty-related hormonal dysregulation)"
+}

@@ -1,0 +1,67 @@
+{
+  "finding": "Benign Small Bowel Tumors",
+  "slug": "benign_small_bowel_tumors",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/benign_small_bowel_tumors.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic (80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "melena, intermittent abdominal pain, weakness",
+      "raw": "melena, intermittent abdominal pain, weakness",
+      "frequency": null
+    },
+    {
+      "name": "palpable abdominal mass",
+      "raw": "palpable abdominal mass (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "GIST  36-49%",
+      "raw": "GIST  36-49%",
+      "frequency": "49%"
+    },
+    {
+      "name": "Adenoma  15-20%",
+      "raw": "Adenoma  15-20%",
+      "frequency": "20%"
+    },
+    {
+      "name": "Lipoma  14-16%",
+      "raw": "Lipoma  14-16%",
+      "frequency": "16%"
+    },
+    {
+      "name": "Hemangioma  13-16%",
+      "raw": "Hemangioma  13-16%",
+      "frequency": "16%"
+    },
+    {
+      "name": "Lymphangioma  5%",
+      "raw": "Lymphangioma  5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "Neurogenic tumor  1%",
+      "raw": "Neurogenic tumor  1%",
+      "frequency": "1%"
+    },
+    {
+      "name": "Hamartomatous polyps",
+      "raw": "Hamartomatous polyps (Peutz-Jeghers syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Hyperplastic polyp",
+      "raw": "Hyperplastic polyp",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Types: Location:   duodenum > jejunum > ileum"
+}

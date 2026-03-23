@@ -1,0 +1,34 @@
+{
+  "name": "ALVEOLAR (CONSOLIDATIVE) PATTERN",
+  "slug": "alveolar_consolidative_pattern",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_chest_disorders/alveolar_consolidative_pattern.md",
+  "definition": "alveoli filled with homogeneous low attenuation of lung consolidation, which allows vessels to be clearly",
+  "demographics": {},
+  "dominant_finding": "poorly marginated densities within primary lobule (up to 1 cm in size)",
+  "distribution": "Butterfly / bat-wing distribution: perihilar / bibasilar",
+  "discriminating_features": [
+    "Acinar rosettes: rounded poorly defined nodules of acinus size (6-10 mm), best seen at",
+    "Air alveologram / bronchogram",
+    "Butterfly / bat-wing distribution: perihilar / bibasilar",
+    "Coalescent / confluent cloudlike ill-defined opacities",
+    "Consolidation in diffuse, perihilar / bibasilar, segmental / lobar, multifocal / lobular"
+  ],
+  "other_features": {
+    "general": [
+      "Acinar rosettes: rounded poorly defined nodules of acinus size (6-10 mm), best seen at",
+      "Air alveologram / bronchogram",
+      "Butterfly / bat-wing distribution: perihilar / bibasilar",
+      "Coalescent / confluent cloudlike ill-defined opacities",
+      "Consolidation in diffuse, perihilar / bibasilar, segmental / lobar, multifocal / lobular",
+      "Changes occur rapidly (labile / fleeting)"
+    ],
+    "HRCT": [
+      "poorly marginated densities within primary lobule (up to 1 cm in size)",
+      "rapid coalescence with neighboring lesions in segmental distribution",
+      "predominantly central location with sparing of subpleural zones",
+      "air bronchograms"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Bladder Exstrophy (DDx)",
+  "slug": "bladder_exstrophy_ddx_9e5209",
+  "chapter": "Bladder Exstrophy",
+  "source_file": "processed_clusters/bladder_exstrophy/bladder_exstrophy_ddx_9e5209.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cloacal exstrophy (NO extruded bowel loops",
+      "raw": "cloacal exstrophy (NO extruded bowel loops",
+      "frequency": null
+    },
+    {
+      "name": "abnormal rectum)",
+      "raw": "abnormal rectum)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "irregular thickening of everted posterior bladder wall ← inflammation of exposed mucosa | ventral defect of infraumbilical abdominal wall | low position of umbilicus | pubic diastasis = widening of pubic symphysis"
+}

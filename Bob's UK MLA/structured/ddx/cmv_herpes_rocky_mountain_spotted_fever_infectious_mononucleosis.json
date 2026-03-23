@@ -1,0 +1,45 @@
+{
+  "finding": "CMV, herpes, Rocky Mountain spotted fever, infectious mononucleosis",
+  "slug": "cmv_herpes_rocky_mountain_spotted_fever_infectious_mononucleosis",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CHEST DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_chest_disorders/cmv_herpes_rocky_mountain_spotted_fever_infectious_mononucleosis.md",
+  "quality_score": 0.5,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Fungi:",
+      "raw": "Fungi:",
+      "frequency": null
+    },
+    {
+      "name": "BLEEDING METASTASIS, eg, choriocarcinoma",
+      "raw": "BLEEDING METASTASIS, eg, choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "acute respiratory distress, hemoptysis",
+      "raw": "acute respiratory distress, hemoptysis (uncommon)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "frothy sputum, bright red blood, alkaline pH",
+      "raw": "frothy sputum, bright red blood, alkaline pH",
+      "frequency": null
+    },
+    {
+      "name": "massive hemoptysis = expectoration of greater than 300-600 mL of blood in 24 hours",
+      "raw": "massive hemoptysis = expectoration of greater than 300-600 mL of blood in 24 hours",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Fungi:": [],
+    "BLEEDING METASTASIS, eg, choriocarcinoma": [
+      "typically matched defect on V/Q scan in bronchial artery bleeding Hemoptysis =  bleeding from lower respiratory tract Risk:     airway compromise Source: (a)  bronchial artery (90-95%) (b)  pulmonary artery (c)  nonbronchial systemic aa. (brachiocep"
+    ],
+    "acute respiratory distress, hemoptysis": [],
+    "frothy sputum, bright red blood, alkaline pH": [],
+    "massive hemoptysis = expectoration of greater than 300-600 mL of blood in 24 hours": []
+  },
+  "context": "aspergillosis, mucormycosis CXR: √  bilateral heterogeneous + homogeneous opacities √  multifocal patchy segmental / lobar consolidation HRCT: √  bilateral patchy / confluent ground-glass opacities / consolidation √  ground-glass centrilobular nodules √  may delineate underlying etiology (bronchiectasis, lung cancer, TB, pulmonary embolism) NUC: √  typically matched defect on V/Q scan in bronchial artery bleeding Hemoptysis =  bleeding from lower respiratory tract Risk:     airway compromise Source: (a)  bronchial artery (90-95%) (b)  pulmonary artery (c)  nonbronchial systemic aa. (brachiocep"
+}

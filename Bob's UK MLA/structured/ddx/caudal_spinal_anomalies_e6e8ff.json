@@ -1,0 +1,25 @@
+{
+  "finding": "Caudal Spinal Anomalies",
+  "slug": "caudal_spinal_anomalies_e6e8ff",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/caudal_spinal_anomalies_e6e8ff.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Terminal myelocystocele [Lateral meningocele]",
+      "raw": "Terminal myelocystocele",
+      "frequency": null,
+      "sites": [
+        "Lateral meningocele"
+      ]
+    },
+    {
+      "name": "Caudal regression",
+      "raw": "Caudal regression",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  malformation of distal spine and cord Associated with:   hindgut, renal, genitourinary anomalies"
+}

@@ -1,0 +1,92 @@
+{
+  "finding": "Postpartum Hemorrhage (PPH",
+  "slug": "postpartum_hemorrhage_pph_a90cb5",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/postpartum_hemorrhage_pph_a90cb5.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tachycardia, hypotension, oliguria =  blood loss > 500 mL after vaginal birth / > 1,000 mL after cesarean delivery",
+      "raw": "tachycardia, hypotension, oliguria =  blood loss > 500 mL after vaginal birth / > 1,000 mL after cesarean delivery",
+      "frequency": null
+    },
+    {
+      "name": "Uterine atony",
+      "raw": "Uterine atony (75-90% of 1° PPH) =  generalized ineffective contraction of uterine corpus with bleeding at placental site Risk factors:   uterine overdistension (multiple pregnancy, macrosomia, polyhydramnios), labor related factors (prolonged labor, precipitate labor, induction of labor, forceps delivery, prolonged use of oxytocin, use of uterorelaxant drug)",
+      "frequency": "90%"
+    },
+    {
+      "name": "hemorrhage in immediate postpartum period",
+      "raw": "hemorrhage in immediate postpartum period",
+      "frequency": null
+    },
+    {
+      "name": "pliable uncontracted uterus",
+      "raw": "pliable uncontracted uterus",
+      "frequency": null
+    },
+    {
+      "name": "Retained products of conception",
+      "raw": "Retained products of conception (most frequent cause of secondary PPH)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Lower genital tract trauma",
+      "raw": "Lower genital tract trauma (2-4% of all PPH)",
+      "frequency": "4%"
+    },
+    {
+      "name": "diagnosis by inspection + vaginal bleeding",
+      "raw": "diagnosis by inspection + vaginal bleeding",
+      "frequency": null
+    },
+    {
+      "name": "NO obvious vaginal bleeding → delay in diagnosis",
+      "raw": "NO obvious vaginal bleeding → delay in diagnosis",
+      "frequency": null
+    },
+    {
+      "name": "abdominal pain, hypovolemic shock",
+      "raw": "abdominal pain, hypovolemic shock",
+      "frequency": null
+    },
+    {
+      "name": "Coagulation disorder",
+      "raw": "Coagulation disorder (acquired / congenital)",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial hyperplasia",
+      "raw": "Endometrial hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Secretory endometrium ◊  Improve timing of the examination!",
+      "raw": "Secretory endometrium ◊  Improve timing of the examination!",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial cancer",
+      "raw": "Endometrial cancer",
+      "frequency": null
+    },
+    {
+      "name": "Endometritis",
+      "raw": "Endometritis",
+      "frequency": null
+    },
+    {
+      "name": "Tamoxifen-related endometrial changes =  nonsteroidal antiestrogen in breast acts as a weak estrogen agonist → proliferative effects on endometrium",
+      "raw": "Tamoxifen-related endometrial changes =  nonsteroidal antiestrogen in breast acts as a weak estrogen agonist → proliferative effects on endometrium",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhage",
+      "raw": "hemorrhage (requires further evaluation)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  blood loss sufficient to cause symptoms of hypovolemia Physiology:   bleeding decreases over 1st postpartum week Incidence:  3.3% in developed countries Classification: (a)  Primary PPH = early postpartum hemorrhage > 500 mL within 24 hours in 4-6% of all deliveries Cause:   uterine atony (75%-90%), laceration of lower genital tract, bladder flap hematoma, uterine rupture, acute uterine inversion (b)  Secondary PPH = late postpartum hemorrhage between 24 hours and 6 weeks in 1- 2% of all deliveries Cause:   endometritis, retained products DDx:  endometritis, uterine dehiscence / perforation"
+}

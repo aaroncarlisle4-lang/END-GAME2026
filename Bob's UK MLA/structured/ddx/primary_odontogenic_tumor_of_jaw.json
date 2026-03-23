@@ -1,0 +1,47 @@
+{
+  "finding": "Primary Odontogenic Tumor of Jaw",
+  "slug": "primary_odontogenic_tumor_of_jaw",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/primary_odontogenic_tumor_of_jaw.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Odontoma",
+      "raw": "Odontoma",
+      "frequency": null
+    },
+    {
+      "name": "Ameloblastoma = Adamantinoma of Jaw",
+      "raw": "Ameloblastoma = Adamantinoma of Jaw",
+      "frequency": null
+    },
+    {
+      "name": "Odontogenic Myxoma",
+      "raw": "Odontogenic Myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Calcifying Epithelial Odontogenic Tumor",
+      "raw": "Calcifying Epithelial Odontogenic Tumor",
+      "frequency": null
+    },
+    {
+      "name": "Cementoblastoma",
+      "raw": "Cementoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Ameloblastic fibroma",
+      "raw": "Ameloblastic fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatoid odontogenic tumor",
+      "raw": "Adenomatoid odontogenic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

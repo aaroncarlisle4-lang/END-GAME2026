@@ -1,0 +1,42 @@
+{
+  "finding": "Acute Renal Failure (ARF",
+  "slug": "acute_renal_failure_arf",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF UROGENITAL DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_urogenital_disorders/acute_renal_failure_arf.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PRERENAL =  renal hypoperfusion ← systemic illness",
+      "raw": "PRERENAL =  renal hypoperfusion ← systemic illness",
+      "frequency": null
+    },
+    {
+      "name": "Fluid + electrolyte depletion",
+      "raw": "Fluid + electrolyte depletion",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic failure + hepatorenal syndrome",
+      "raw": "Hepatic failure + hepatorenal syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Congestive heart failure",
+      "raw": "Congestive heart failure",
+      "frequency": null
+    },
+    {
+      "name": "Sepsis",
+      "raw": "Sepsis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  clinical condition associated with rapid steadily increasing azotemia ± oliguria (< 500 mL urine per day) over days / weeks Etiology: √  abnormally elevated resistive index √  resistive index < 0.75 in 80% of kidneys Frequency:   70% of community-acquired ARF (glomerulonephritis); 40% of hospital- acquired ARF (acute tubular necrosis)"
+}

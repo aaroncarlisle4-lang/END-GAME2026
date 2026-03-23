@@ -1,0 +1,72 @@
+{
+  "finding": "Prevalence of Solid Benign Mandibular Lesions",
+  "slug": "prevalence_of_solid_benign_mandibular_lesions",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/prevalence_of_solid_benign_mandibular_lesions.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Most common",
+      "raw": "Most common",
+      "frequency": "most common"
+    },
+    {
+      "name": "Odontoma",
+      "raw": "Odontoma",
+      "frequency": null
+    },
+    {
+      "name": "Fairly common",
+      "raw": "Fairly common",
+      "frequency": "common"
+    },
+    {
+      "name": "Ameloblastoma",
+      "raw": "Ameloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Periapical cemento-osseous dysplasia",
+      "raw": "Periapical cemento-osseous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Florid cemento-osseous dysplasia",
+      "raw": "Florid cemento-osseous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying fibroma",
+      "raw": "Ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Less common",
+      "raw": "Less common",
+      "frequency": "common"
+    },
+    {
+      "name": "Calcifying epithelial odontogenic (Pindborg) tumor",
+      "raw": "Calcifying epithelial odontogenic (Pindborg) tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ameloblastic fibroma",
+      "raw": "Ameloblastic fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Odontogenic myxoma",
+      "raw": "Odontogenic myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Cementoblastoma",
+      "raw": "Cementoblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "Focal Air-trapping on HRCT",
+  "slug": "focal_air_trapping_on_hrct",
+  "chapter": "C. Pneumoconiosis",
+  "source_file": "processed_clusters/c_pneumoconiosis/focal_air_trapping_on_hrct.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Asthma",
+      "raw": "Asthma",
+      "frequency": null
+    },
+    {
+      "name": "Bronchiolitis obliterans",
+      "raw": "Bronchiolitis obliterans",
+      "frequency": null
+    },
+    {
+      "name": "Bronchiectasis",
+      "raw": "Bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "Desquamative interstitial pneumonia",
+      "raw": "Desquamative interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic allergic alveolitis",
+      "raw": "Extrinsic allergic alveolitis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Usual interstitial pneumonia",
+      "raw": "Usual interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar proteinosis",
+      "raw": "Alveolar proteinosis",
+      "frequency": null
+    },
+    {
+      "name": "Cryptogenic organizing pneumonia",
+      "raw": "Cryptogenic organizing pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Ground-glass Attenuation Cause: (a)  partial airspace filling (b)  interstitial thickening with ›  inflammation ›  edema ›  fibrosis (c)  neoplastic proliferation ›  bronchioloalveolar cell carcinoma ›  lymphoma"
+}

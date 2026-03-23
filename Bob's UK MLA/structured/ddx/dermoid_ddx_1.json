@@ -1,0 +1,22 @@
+{
+  "finding": "Dermoid (DDx)",
+  "slug": "dermoid_ddx_1",
+  "chapter": "Dermoid",
+  "source_file": "processed_clusters/dermoid/dermoid_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tubercular peritonitis",
+      "raw": "tubercular peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "carcinomatosis",
+      "raw": "carcinomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "distorted / flattened shape of tumor | spilled sebaceous material / hair ball on T1WI + fat-suppressed T1WI (DDx to fluid) | calcifications outside confines of cyst | thickened peritoneum / intraperitoneal adhesions on contrast-enhanced fat-suppressed"
+}

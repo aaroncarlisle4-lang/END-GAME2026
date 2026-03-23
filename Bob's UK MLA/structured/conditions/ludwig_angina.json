@@ -1,0 +1,40 @@
+{
+  "name": "LUDWIG ANGINA",
+  "slug": "ludwig_angina",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/ludwig_angina.md",
+  "definition": "serious potentially life-threatening necrotizing infection of floor of mouth rapidly involving",
+  "demographics": {
+    "Age": "usually in young adults",
+    "Location": "bilateral sublingual and submandibular spaces"
+  },
+  "dominant_finding": "± extension deep into submandibular + parapharyngeal spaces + pharynx → airway",
+  "distribution": "bilateral sublingual and submandibular spaces",
+  "discriminating_features": [
+    "underlying dental disease",
+    "local skin thickening, muscle enlargement",
+    "increased attenuation of subcutaneous fat",
+    "loss of fat planes within submandibular space",
+    "soft tissue emphysema"
+  ],
+  "other_features": {
+    "general": [
+      "underlying dental disease",
+      "local skin thickening, muscle enlargement",
+      "increased attenuation of subcutaneous fat",
+      "loss of fat planes within submandibular space",
+      "soft tissue emphysema",
+      "ill-defined abscesses in submandibular / sublingual spaces"
+    ],
+    "CT": [
+      "inflammatory change with small cystic spaces = serosanguinous accumulation in floor of",
+      "± extension deep into submandibular + parapharyngeal spaces + pharynx → airway",
+      "well-defined fluid collection with rimlike enhancement"
+    ]
+  },
+  "clinical": {
+    "Spread": "by direct extension of infection = tooth apices of 2nd / 3rd molar of jaw extend",
+    "Cx": "mandibular osteomyelitis, spread of infection into deep fascial spaces of neck,",
+    "Rx": "IV antibiotics, aggressive drainage, surgical airway creation"
+  }
+}

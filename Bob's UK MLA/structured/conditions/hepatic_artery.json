@@ -1,0 +1,32 @@
+{
+  "name": "HEPATIC ARTERY",
+  "slug": "hepatic_artery",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/hepatic_artery.md",
+  "definition": "2nd most common type of splanchnic aneurysm = up to 20% of visceral aneurysms",
+  "demographics": {},
+  "dominant_finding": "turbulent high-velocity low-resistance flow",
+  "distribution": "soft-tissue bruit (= random assignment of color in perivascular soft tissue due to",
+  "discriminating_features": [
+    "turbulent high-velocity low-resistance flow",
+    "soft-tissue bruit (= random assignment of color in perivascular soft tissue due to",
+    "arterialized frequently retrograde flow in portal vein",
+    "large tortuous feeding arteries with high velocity + aliased flow",
+    "multiple dilated vessels (representing AVMs)"
+  ],
+  "other_features": {
+    "general": [
+      "turbulent high-velocity low-resistance flow",
+      "soft-tissue bruit (= random assignment of color in perivascular soft tissue due to",
+      "arterialized frequently retrograde flow in portal vein",
+      "large tortuous feeding arteries with high velocity + aliased flow",
+      "multiple dilated vessels (representing AVMs)",
+      "large draining veins",
+      "areas of fatty change + fibrosis"
+    ]
+  },
+  "clinical": {
+    "Cx": "aneurysm rupture → hemobilia / hemoperitoneum (20-35% mortality rate)",
+    "Rx": "endovascular stenting (89% success rate)"
+  }
+}

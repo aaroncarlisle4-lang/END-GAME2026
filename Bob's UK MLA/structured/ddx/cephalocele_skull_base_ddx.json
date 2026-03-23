@@ -1,0 +1,47 @@
+{
+  "finding": "Cephalocele — Skull base (DDx)",
+  "slug": "cephalocele_skull_base_ddx",
+  "chapter": "Cephalocele",
+  "source_file": "processed_clusters/cephalocele/cephalocele_skull_base_ddx.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "teratoma",
+      "raw": "teratoma",
+      "frequency": null
+    },
+    {
+      "name": "cystic hygroma",
+      "raw": "cystic hygroma",
+      "frequency": null
+    },
+    {
+      "name": "iniencephaly",
+      "raw": "iniencephaly",
+      "frequency": null
+    },
+    {
+      "name": "scalp edema",
+      "raw": "scalp edema",
+      "frequency": null
+    },
+    {
+      "name": "hemangioma",
+      "raw": "hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "branchial cleft cyst",
+      "raw": "branchial cleft cyst",
+      "frequency": null
+    },
+    {
+      "name": "cloverleaf skull",
+      "raw": "cloverleaf skull",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Mikulicz Disease (DDx)",
+  "slug": "mikulicz_disease_ddx_2f0bb4",
+  "chapter": "Mikulicz Disease",
+  "source_file": "processed_clusters/mikulicz_disease/mikulicz_disease_ddx_2f0bb4.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "viral infection",
+      "raw": "viral infection (mumps)",
+      "frequency": null
+    },
+    {
+      "name": "acute phase of Sjögren syndrome",
+      "raw": "acute phase of Sjögren syndrome",
+      "frequency": null
+    },
+    {
+      "name": "sarcoidosis",
+      "raw": "sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "leukemia",
+      "raw": "leukemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "homogeneous attenuation + enhancement of involved glands | intermediate soft-tissue attenuation | low signal intensity (= isointense to muscle) on T1WI | homogeneous low to intermediate SI on T2WI ← increased cellularity + fibrosis"
+}

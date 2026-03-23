@@ -1,0 +1,97 @@
+{
+  "finding": "B. INFLAMMATION / HEMORRHAGE",
+  "slug": "b_inflammation_hemorrhage",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/b_inflammation_hemorrhage.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thyroiditis: chronic lymphocytic",
+      "raw": "Thyroiditis: chronic lymphocytic (Hashimoto)",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory lymph node in subacute + chronic thyroiditis",
+      "raw": "Inflammatory lymph node in subacute + chronic thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage / hematoma: frequently associated with adenomas",
+      "raw": "Hemorrhage / hematoma: frequently associated with adenomas",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "MALIGNANCY (5-7% of all thyroid nodules) ◊   Higher risk of malignancy if ›  patient < 15-20 and > 45-60 years of age ›  patient is male ›  Hx of radiation therapy to neck / upper chest ›  family Hx of thyroid cancer / MEN syndrome ›  new nodule in long-standing goiter ›  nodule firm / fixed to adjacent structures ›  growth rapid ›  vocal cord paralyzed ›  regional lymph nodes enlarged",
+      "raw": "MALIGNANCY (5-7% of all thyroid nodules) ◊   Higher risk of malignancy if ›  patient < 15-20 and > 45-60 years of age ›  patient is male ›  Hx of radiation therapy to neck / upper chest ›  family Hx of thyroid cancer / MEN syndrome ›  new nodule in long-standing goiter ›  nodule firm / fixed to adjacent structures ›  growth rapid ›  vocal cord paralyzed ›  regional lymph nodes enlarged",
+      "frequency": "7%"
+    },
+    {
+      "name": "Thyroid carcinoma (a)  papillary carcinoma (70%) (b)  follicular carcinoma (15%) ›  Hürthle cell carcinoma",
+      "raw": "Thyroid carcinoma (a)  papillary carcinoma (70%) (b)  follicular carcinoma (15%) ›  Hürthle cell carcinoma",
+      "frequency": "70%"
+    },
+    {
+      "name": "Nonthyroidal neoplasm (a)  Metastasis: from breast, lung, kidney, malignant melanoma (b)  Lymphoma (uncommon):",
+      "raw": "Nonthyroidal neoplasm (a)  Metastasis: from breast, lung, kidney, malignant melanoma (b)  Lymphoma (uncommon):",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Hürthle cell carcinoma",
+      "raw": "Hürthle cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma in situ",
+      "raw": "Carcinoma in situ",
+      "frequency": null
+    },
+    {
+      "name": "Dx:   benign follicular nodule / thyroiditis",
+      "raw": "Dx:   benign follicular nodule / thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "Recommendation:   clinical follow-up",
+      "raw": "Recommendation:   clinical follow-up",
+      "frequency": null
+    },
+    {
+      "name": "Risk of malignancy:   0-3%",
+      "raw": "Risk of malignancy:   0-3%",
+      "frequency": "3%"
+    },
+    {
+      "name": "Nondiagnostic rate:   9-30% for palpation; 4-17% for US",
+      "raw": "Nondiagnostic rate:   9-30% for palpation; 4-17% for US",
+      "frequency": "30%"
+    },
+    {
+      "name": "Technique of Fine-Needle Aspiration Biopsy",
+      "raw": "Technique of Fine-Needle Aspiration Biopsy",
+      "frequency": null
+    },
+    {
+      "name": "Needles:   27-gauge, 18- / 20-gauge core biopsy",
+      "raw": "Needles:   27-gauge, 18- / 20-gauge core biopsy",
+      "frequency": null
+    },
+    {
+      "name": "Target:   solid / central vascular component of nodule",
+      "raw": "Target:   solid / central vascular component of nodule",
+      "frequency": null
+    },
+    {
+      "name": "each pass consists of ~ 50 vigorous controlled excursions of the needle through nodule for a 20-second period",
+      "raw": "each pass consists of ~ 50 vigorous controlled excursions of the needle through nodule for a 20-second period",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  Poorly differentiated carcinoma (c)  medullary carcinoma (5-10%) (d)  anaplastic / undifferentiated carcinoma (5%) (e)  primary thyroid lymphoma (5%) (usually) NHL as secondary involvement in generalized lymphoma / primary lymphoma in Hashimoto thyroiditis √  very thin hypoechoic halo √  echogenic area inside a goiter nodule Role of Fine-needle Aspiration Biopsy (FNAB): ◊  FNAB as initial test leads to a better selection of patients for surgery than any other test! ◊  Large-needle biopsy has more complications with no increase in diagnostic yield Diagnostic adequacy: > 6 follicular cell gro"
+}

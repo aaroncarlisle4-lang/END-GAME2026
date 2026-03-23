@@ -1,0 +1,52 @@
+{
+  "finding": "B. INFECTION",
+  "slug": "b_infection_3_cdfe40",
+  "chapter": "G. INTUSSUSCEPTION",
+  "source_file": "processed_clusters/g_intussusception/b_infection_3_cdfe40.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Amebiasis",
+      "raw": "Amebiasis",
+      "frequency": null
+    },
+    {
+      "name": "Actinomycosis",
+      "raw": "Actinomycosis",
+      "frequency": null
+    },
+    {
+      "name": "palpable abdominal mass",
+      "raw": "palpable abdominal mass",
+      "frequency": null
+    },
+    {
+      "name": "indolent sinus tracts in abdominal wall",
+      "raw": "indolent sinus tracts in abdominal wall",
+      "frequency": null
+    },
+    {
+      "name": "Blastomycosis",
+      "raw": "Blastomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Anisakiasis",
+      "raw": "Anisakiasis",
+      "frequency": null
+    },
+    {
+      "name": "Typhoid, Yersinia",
+      "raw": "Typhoid, Yersinia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  colonic involvement more prominent than that of terminal ileum √  involvement of cecum in 90% of amebiasis √  thickened ileocecal valve fixed in open position √  reflux into normal terminal ileum √  skip lesions in colon"
+}

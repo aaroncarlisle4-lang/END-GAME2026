@@ -1,0 +1,33 @@
+{
+  "name": "AFFERENT LOOP SYNDROME",
+  "slug": "afferent_loop_syndrome",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/afferent_loop_syndrome.md",
+  "definition": "PROXIMAL LOOP / BLIND LOOP SYNDROME partial intermittent obstruction of afferent loop leading to overdistension of loop by gastric",
+  "demographics": {},
+  "dominant_finding": "oral contrast material may not enter loop",
+  "distribution": "",
+  "discriminating_features": [
+    "normal in 85% (no air in lumen of afferent loop)",
+    "preferential emptying of stomach into proximal loop",
+    "proximal loop stasis",
+    "regurgitation",
+    "rounded water-density masses adjacent to head + tail of pancreas forming a U-shaped loop"
+  ],
+  "other_features": {
+    "general": [
+      "normal in 85% (no air in lumen of afferent loop)",
+      "preferential emptying of stomach into proximal loop",
+      "proximal loop stasis",
+      "regurgitation"
+    ],
+    "CT": [
+      "rounded water-density masses adjacent to head + tail of pancreas forming a U-shaped loop",
+      "oral contrast material may not enter loop",
+      "may result in biliary obstruction (increased pressure at ampulla)"
+    ]
+  },
+  "clinical": {
+    "Rx": "antibiotic therapy"
+  }
+}

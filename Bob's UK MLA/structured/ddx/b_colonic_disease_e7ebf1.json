@@ -1,0 +1,92 @@
+{
+  "finding": "B. COLONIC DISEASE",
+  "slug": "b_colonic_disease_e7ebf1",
+  "chapter": "COLON",
+  "source_file": "processed_clusters/colon/b_colonic_disease_e7ebf1.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Colon cancer",
+      "raw": "Colon cancer",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric thrombosis",
+      "raw": "Mesenteric thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic colitis",
+      "raw": "Ischemic colitis",
+      "frequency": null
+    },
+    {
+      "name": "Perforated appendicitis",
+      "raw": "Perforated appendicitis (in 20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "ISCHEMIA = Ischemic colitis occlusive vascular disease, hypercoagulability state, hemorrhage into bowel wall (bleeding diathesis, anticoagulants), traumatic intramural hematoma",
+      "raw": "ISCHEMIA = Ischemic colitis occlusive vascular disease, hypercoagulability state, hemorrhage into bowel wall (bleeding diathesis, anticoagulants), traumatic intramural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "INFLAMMATION ulcerative colitis, Crohn colitis",
+      "raw": "INFLAMMATION ulcerative colitis, Crohn colitis",
+      "frequency": null
+    },
+    {
+      "name": "INFECTION acute amebiasis, schistosomiasis, strongyloidiasis, cytomegalovirus (in renal transplant recipients), pseudomembranous colitis",
+      "raw": "INFECTION acute amebiasis, schistosomiasis, strongyloidiasis, cytomegalovirus (in renal transplant recipients), pseudomembranous colitis",
+      "frequency": null
+    },
+    {
+      "name": "MALIGNANT LESIONS localized primary lymphoma, hematogenous metastases",
+      "raw": "MALIGNANT LESIONS localized primary lymphoma, hematogenous metastases",
+      "frequency": null
+    },
+    {
+      "name": "MISCELLANEOUS endometriosis, amyloidosis, pneumatosis intestinalis, diverticulosis, diverticulitis, hereditary angioneurotic edema",
+      "raw": "MISCELLANEOUS endometriosis, amyloidosis, pneumatosis intestinalis, diverticulosis, diverticulitis, hereditary angioneurotic edema",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomembranous colitis",
+      "raw": "Pseudomembranous colitis",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Amebic colitis",
+      "raw": "Amebic colitis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases (to colon)",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic colitis",
+      "raw": "Ischemic colitis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory bowel disease",
+      "raw": "Inflammatory bowel disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "N.B.:   amputation of gas at the hepatic flexure ← spastic ascending colon Colonic Thumbprinting =  sharply defined fingerlike marginal indentations at contours of wall"
+}

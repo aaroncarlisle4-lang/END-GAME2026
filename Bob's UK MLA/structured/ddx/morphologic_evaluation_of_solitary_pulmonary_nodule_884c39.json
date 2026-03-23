@@ -1,0 +1,56 @@
+{
+  "finding": "Morphologic Evaluation of Solitary Pulmonary Nodule",
+  "slug": "morphologic_evaluation_of_solitary_pulmonary_nodule_884c39",
+  "chapter": "F. INHALATIONAL",
+  "source_file": "processed_clusters/f_inhalational/morphologic_evaluation_of_solitary_pulmonary_nodule_884c39.md",
+  "quality_score": 0.767,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "SIZE ◊  The smaller the nodule the more likely it is benign!",
+      "raw": "SIZE ◊  The smaller the nodule the more likely it is benign!",
+      "frequency": null
+    },
+    {
+      "name": "MARGIN / EDGE",
+      "raw": "MARGIN / EDGE",
+      "frequency": null
+    },
+    {
+      "name": "CONTOUR",
+      "raw": "CONTOUR",
+      "frequency": null
+    },
+    {
+      "name": "SATELLITE LESION =  nodule(s) in association with larger peripheral nodule ›  in 99% due to inflammatory disease (often TB) ›  in 1% due to primary lung cancer",
+      "raw": "SATELLITE LESION =  nodule(s) in association with larger peripheral nodule ›  in 99% due to inflammatory disease (often TB) ›  in 1% due to primary lung cancer",
+      "frequency": "99%"
+    },
+    {
+      "name": "LOCATION",
+      "raw": "LOCATION",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "SIZE ◊  The smaller the nodule the more likely it is benign!": [
+      "< 3 mm nodule: in 99.8% benign",
+      "4-7 mm nodule: in 99.1% benign",
+      "8-20 mm nodule: in 82% benign",
+      "> 20 mm nodule: in 50% benign",
+      "> 30 mm nodule: in > 93% malignant",
+      "smooth well-defined margin = likely benign ◊  Mostly benign, in 21% malignant",
+      "corona radiata = irregular spiculated margin ◊  In 89% malignant, in 10% benign",
+      "pleural tag ◊  In 25% malignant, in 9% benign",
+      "\"halo\" sign (= nodule surrounded by ground-glass opacity) ◊  In neutropenic patient suggests aspergillosis",
+      "vessels feeding a smooth / lobulated nodule ◊  in arteriovenous malformation"
+    ],
+    "MARGIN / EDGE": [
+      "sharply marginated nod"
+    ],
+    "CONTOUR": [],
+    "SATELLITE LESION =  nodule(s) in association with larger peripheral nodule ›  in 99% due to inflammatory disease (often TB) ›  in 1% due to primary lung cancer": [],
+    "LOCATION": []
+  },
+  "context": "√  < 3 mm nodule: in 99.8% benign √  4-7 mm nodule: in 99.1% benign √  8-20 mm nodule: in 82% benign √  > 20 mm nodule: in 50% benign √  > 30 mm nodule: in > 93% malignant √  smooth well-defined margin = likely benign ◊  Mostly benign, in 21% malignant √  corona radiata = irregular spiculated margin ◊  In 89% malignant, in 10% benign √  pleural tag ◊  In 25% malignant, in 9% benign √  \"halo\" sign (= nodule surrounded by ground-glass opacity) ◊  In neutropenic patient suggests aspergillosis √  vessels feeding a smooth / lobulated nodule ◊  in arteriovenous malformation √  sharply marginated nod"
+}

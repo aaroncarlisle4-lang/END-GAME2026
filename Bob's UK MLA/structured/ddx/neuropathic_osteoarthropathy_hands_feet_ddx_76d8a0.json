@@ -1,0 +1,47 @@
+{
+  "finding": "Neuropathic Osteoarthropathy — Hands + feet (DDx)",
+  "slug": "neuropathic_osteoarthropathy_hands_feet_ddx_76d8a0",
+  "chapter": "Neuropathic Osteoarthropathy",
+  "source_file": "processed_clusters/neuropathic_osteoarthropathy/neuropathic_osteoarthropathy_hands_feet_ddx_76d8a0.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "diabetes mellitus",
+      "raw": "diabetes mellitus",
+      "frequency": null
+    },
+    {
+      "name": "frostbite",
+      "raw": "frostbite",
+      "frequency": null
+    },
+    {
+      "name": "pernicious anemia",
+      "raw": "pernicious anemia",
+      "frequency": null
+    },
+    {
+      "name": "scleroderma",
+      "raw": "scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "syringomyelia",
+      "raw": "syringomyelia",
+      "frequency": null
+    },
+    {
+      "name": "tabes dorsalis",
+      "raw": "tabes dorsalis",
+      "frequency": null
+    },
+    {
+      "name": "familial sensory neuropathy",
+      "raw": "familial sensory neuropathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "scoliosis + abrupt curvature | rimlike enhancement of disk + signal intensity changes of bone marrow | claw hand / claw toes | \"licked candy cane\" appearance of metatarsal bone / tapered phalanx ← concentric bone"
+}

@@ -1,0 +1,112 @@
+{
+  "finding": "B. DISTAL OBSTRUCTION",
+  "slug": "b_distal_obstruction",
+  "chapter": "A. PRIMARY MOTILITY DISORDERS",
+  "source_file": "processed_clusters/a_primary_motility_disorders/b_distal_obstruction.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infiltrating lesion of distal esophagus / gastric cardia (eg, carcinoma) = pseudoachalasia",
+      "raw": "Infiltrating lesion of distal esophagus / gastric cardia (eg, carcinoma) = pseudoachalasia",
+      "frequency": null
+    },
+    {
+      "name": "Benign stricture",
+      "raw": "Benign stricture",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic compression mnemonic:   MA'S TACO in a SHell",
+      "raw": "Extrinsic compression mnemonic:   MA'S TACO in a SHell",
+      "frequency": null
+    },
+    {
+      "name": "Muscular disorder",
+      "raw": "Muscular disorder (eg, myasthenia gravis)",
+      "frequency": null
+    },
+    {
+      "name": "Achalasia",
+      "raw": "Achalasia",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Trypanosomiasis",
+      "raw": "Trypanosomiasis (Chagas disease)",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma",
+      "raw": "Carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Stricture",
+      "raw": "Stricture (lye, potassium, tetracycline)",
+      "frequency": null
+    },
+    {
+      "name": "Hiatal hernia",
+      "raw": "Hiatal hernia",
+      "frequency": null
+    },
+    {
+      "name": "Air Esophagram",
+      "raw": "Air Esophagram",
+      "frequency": null
+    },
+    {
+      "name": "Normal variant",
+      "raw": "Normal variant",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Distal obstruction: tumor, stricture, achalasia",
+      "raw": "Distal obstruction: tumor, stricture, achalasia",
+      "frequency": null
+    },
+    {
+      "name": "Thoracic surgery",
+      "raw": "Thoracic surgery",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal inflammatory disease",
+      "raw": "Mediastinal inflammatory disease",
+      "frequency": null
+    },
+    {
+      "name": "S/P total laryngectomy: esophageal speech",
+      "raw": "S/P total laryngectomy: esophageal speech",
+      "frequency": null
+    },
+    {
+      "name": "Endotracheal intubation + PEEP",
+      "raw": "Endotracheal intubation + PEEP",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

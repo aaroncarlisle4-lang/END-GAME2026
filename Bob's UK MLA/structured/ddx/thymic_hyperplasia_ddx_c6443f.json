@@ -1,0 +1,22 @@
+{
+  "finding": "Thymic Hyperplasia (DDx)",
+  "slug": "thymic_hyperplasia_ddx_c6443f",
+  "chapter": "Thymic Hyperplasia",
+  "source_file": "processed_clusters/thymic_hyperplasia/thymic_hyperplasia_ddx_c6443f.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "thymoma (focal mass",
+      "raw": "thymoma (focal mass",
+      "frequency": null
+    },
+    {
+      "name": "loss of normal fatty infiltration)",
+      "raw": "loss of normal fatty infiltration)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "direct extension / fibrous cord along migratory tract of thymic tissue into mediastinum in 50%: | may show partial wall calcification (rare) | low-density fluid (0-10 HU), may be higher depending on cyst contents | typically anechoic"
+}

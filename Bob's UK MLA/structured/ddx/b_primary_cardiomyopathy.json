@@ -1,0 +1,27 @@
+{
+  "finding": "B. PRIMARY CARDIOMYOPATHY",
+  "slug": "b_primary_cardiomyopathy",
+  "chapter": "LYMPH FLOW DISORDERS",
+  "source_file": "processed_clusters/lymph_flow_disorders/b_primary_cardiomyopathy.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypertrophic / dilated / noncompaction cardiomyopathy",
+      "raw": "Hypertrophic / dilated / noncompaction cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "Lysosomal / glycogen storage disease",
+      "raw": "Lysosomal / glycogen storage disease",
+      "frequency": null
+    },
+    {
+      "name": "Arrhythmogenic right ventricular hypertrophy",
+      "raw": "Arrhythmogenic right ventricular hypertrophy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "B. CYSTIC MASS",
+  "slug": "b_cystic_mass_1737f3",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/b_cystic_mass_1737f3.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epidermoid",
+      "raw": "Epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Hypothalamic pilocytic astrocytoma",
+      "raw": "Hypothalamic pilocytic astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic craniopharyngioma",
+      "raw": "Cystic craniopharyngioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "N.B.:   Cystic lesion may be inapparent within surrounding CSF; metrizamide cisternography is helpful in detection + to exclude aqueduct stenosis"
+}

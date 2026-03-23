@@ -1,0 +1,35 @@
+{
+  "name": "MENINGEAL CYST",
+  "slug": "meningeal_cyst",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/meningeal_cyst.md",
+  "definition": "abnormal dilatation of meninges within sacral canal / foramina ± presacral component dilated nerve-root sleeve as normal variant OCCULT INTRASACRAL MENINGOCELE",
+  "demographics": {
+    "Prevalence": "5%",
+    "Location": "posterior rootlets (S2 + S3 most common)"
+  },
+  "dominant_finding": "remodeling erosion of sacral canal / foramen ← CSF pulsations",
+  "distribution": "posterior rootlets (S2 + S3 most common)",
+  "discriminating_features": [
+    "unilocular / multilocular cyst",
+    "remodeling erosion of sacral canal / foramen ← CSF pulsations",
+    "thinned cortical margins",
+    "cyst communicates freely with subarachnoid space",
+    "cyst wall continuous with arachnoid + dura"
+  ],
+  "other_features": {
+    "general": [
+      "unilocular / multilocular cyst",
+      "remodeling erosion of sacral canal / foramen ← CSF pulsations",
+      "thinned cortical margins",
+      "cyst communicates freely with subarachnoid space",
+      "cyst wall continuous with arachnoid + dura",
+      "cyst cavity occupies space between peri- and endoneurium",
+      "bone remodeling + enlargement of neural foramen",
+      "cyst does not communicate with subarachnoid space"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical decompression, sacral laminectomy, percutaneous drainage"
+  }
+}

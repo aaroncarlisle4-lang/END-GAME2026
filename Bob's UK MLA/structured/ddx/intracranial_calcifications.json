@@ -1,0 +1,47 @@
+{
+  "finding": "Intracranial Calcifications",
+  "slug": "intracranial_calcifications",
+  "chapter": "B. NEUROVASCULAR",
+  "source_file": "processed_clusters/b_neurovascular/intracranial_calcifications.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Physiologic",
+      "raw": "Physiologic",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Endocrine",
+      "raw": "Endocrine",
+      "frequency": null
+    },
+    {
+      "name": "Embryologic",
+      "raw": "Embryologic",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous",
+      "raw": "Arteriovenous",
+      "frequency": null
+    },
+    {
+      "name": "Leftover Ls",
+      "raw": "Leftover Ls",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

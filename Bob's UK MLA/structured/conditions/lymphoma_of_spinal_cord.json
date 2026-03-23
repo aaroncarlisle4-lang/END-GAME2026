@@ -1,0 +1,37 @@
+{
+  "name": "LYMPHOMA OF SPINAL CORD",
+  "slug": "lymphoma_of_spinal_cord",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/lymphoma_of_spinal_cord.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "3.3% of CNS lymphoma, 1% of all lymphomas",
+    "Mean age": "47 years; M< F",
+    "Histo": "monotonous collection of lymphocytes packed tightly into perivascular space;",
+    "Location": "cervical > thoracic > lumbar cord"
+  },
+  "dominant_finding": "mostly solitary, rarely multicentric",
+  "distribution": "cervical > thoracic > lumbar cord",
+  "discriminating_features": [
+    "mostly solitary, rarely multicentric",
+    "isointense relative to cord on T1WI",
+    "hypointense with cord on T2WI (related to high nuclear-to-cytoplasmic ratio)",
+    "extensive cord edema",
+    "hetero- / robust homogeneous enhancement"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "mostly solitary, rarely multicentric",
+      "isointense relative to cord on T1WI",
+      "hypointense with cord on T2WI (related to high nuclear-to-cytoplasmic ratio)",
+      "extensive cord edema",
+      "hetero- / robust homogeneous enhancement",
+      "restricted diffusion ← high cellularity + reduced extracellular matrix"
+    ]
+  },
+  "clinical": {
+    "Cx": "compression of cord due to narrowing of spinal canal",
+    "Rx": "initial response to steroids; radiation therapy results in rapid reduction in size +"
+  }
+}

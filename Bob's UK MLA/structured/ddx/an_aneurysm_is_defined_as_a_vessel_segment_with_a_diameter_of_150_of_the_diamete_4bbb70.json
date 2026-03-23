@@ -1,0 +1,140 @@
+{
+  "finding": "An aneurysm is defined as a vessel segment with a diameter of > 150% of the diameter of a normal",
+  "slug": "an_aneurysm_is_defined_as_a_vessel_segment_with_a_diameter_of_150_of_the_diamete_4bbb70",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/cardiovascular_disorders/an_aneurysm_is_defined_as_a_vessel_segment_with_a_diameter_of_150_of_the_diamete_4bbb70.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aortic dissection",
+      "raw": "Aortic dissection (53%)",
+      "frequency": "53%"
+    },
+    {
+      "name": "Atherosclerosis (29-80%): descending aorta; usually multiple",
+      "raw": "Atherosclerosis (29-80%): descending aorta; usually multiple",
+      "frequency": "80%"
+    },
+    {
+      "name": "Traumatic (15-20%): descending aorta; ← transection",
+      "raw": "Traumatic (15-20%): descending aorta; ← transection",
+      "frequency": "20%"
+    },
+    {
+      "name": "Congenital (2%): aortic sinus, post coarctation, ductus diverticulum",
+      "raw": "Congenital (2%): aortic sinus, post coarctation, ductus diverticulum",
+      "frequency": "2%"
+    },
+    {
+      "name": "Syphilis (4%): ascending aorta + arch",
+      "raw": "Syphilis (4%): ascending aorta + arch",
+      "frequency": "4%"
+    },
+    {
+      "name": "Mycotic infection = bacterial dissection; anywhere",
+      "raw": "Mycotic infection = bacterial dissection; anywhere",
+      "frequency": null
+    },
+    {
+      "name": "Cystic media necrosis (Marfan / Ehlers-Danlos syndrome, annuloaortic ectasia):",
+      "raw": "Cystic media necrosis (Marfan / Ehlers-Danlos syndrome, annuloaortic ectasia):",
+      "frequency": null
+    },
+    {
+      "name": "Aortitis = inflammation of media + adventitia: Takayasu arteritis, giant cell arteritis, relapsing polychondritis, rheumatic fever, rheumatoid arthritis, ankylosing spondylitis,",
+      "raw": "Aortitis = inflammation of media + adventitia: Takayasu arteritis, giant cell arteritis, relapsing polychondritis, rheumatic fever, rheumatoid arthritis, ankylosing spondylitis,",
+      "frequency": null
+    },
+    {
+      "name": "Increased pressure: systemic hypertension, aortic valve stenosis",
+      "raw": "Increased pressure: systemic hypertension, aortic valve stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Abnormal volume load: severe aortic regurgitation",
+      "raw": "Abnormal volume load: severe aortic regurgitation",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic (30%), abdominal mass (26%) / pain (37%) ◊  Imaging should provide information about:",
+      "raw": "asymptomatic (30%), abdominal mass (26%) / pain (37%) ◊  Imaging should provide information about:",
+      "frequency": "30%"
+    },
+    {
+      "name": "Aortic rupture [Peripheral embolization]",
+      "raw": "Aortic rupture (25%)",
+      "frequency": "25%",
+      "sites": [
+        "Peripheral embolization"
+      ]
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous occlusion of aorta Prognosis:  17% 5-year survival without surgery, 50-60% 5-year survival with surgery",
+      "raw": "Spontaneous occlusion of aorta Prognosis:  17% 5-year survival without surgery, 50-60% 5-year survival with surgery",
+      "frequency": "17%"
+    },
+    {
+      "name": "Excision of aneurysm + aortic interposition graft",
+      "raw": "Excision of aneurysm + aortic interposition graft (4-5% surgical mortality for nonruptured, 30-80% for ruptured aneurysm)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Endovascular aneurysm repair (70%) with post-repair complications of graft migration > 5 mm, graft kinking / fracture, persistent endoleak",
+      "raw": "Endovascular aneurysm repair (70%) with post-repair complications of graft migration > 5 mm, graft kinking / fracture, persistent endoleak",
+      "frequency": "70%"
+    },
+    {
+      "name": "Left colonic ischemia (1.6%) with 10% mortality",
+      "raw": "Left colonic ischemia (1.6%) with 10% mortality",
+      "frequency": "1.6%"
+    },
+    {
+      "name": "Renal failure",
+      "raw": "Renal failure (14%)",
+      "frequency": "14%"
+    },
+    {
+      "name": "0-8% mortality rate for elective surgery",
+      "raw": "0-8% mortality rate for elective surgery",
+      "frequency": "8%"
+    },
+    {
+      "name": "pain + tenderness ◊  The exact moment of rupture is unpredictable",
+      "raw": "pain + tenderness ◊  The exact moment of rupture is unpredictable",
+      "frequency": null
+    },
+    {
+      "name": "sudden severe abdominal pain ± radiating into back",
+      "raw": "sudden severe abdominal pain ± radiating into back",
+      "frequency": null
+    },
+    {
+      "name": "faintness, syncope, hypotension",
+      "raw": "faintness, syncope, hypotension",
+      "frequency": null
+    },
+    {
+      "name": "into retroperitoneum: commonly on left",
+      "raw": "into retroperitoneum: commonly on left",
+      "frequency": null
+    },
+    {
+      "name": "into GI tract: massive GI hemorrhage",
+      "raw": "into GI tract: massive GI hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "into IVC: rapid cardiac decompensation",
+      "raw": "into IVC: rapid cardiac decompensation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "adjacent segment + involving < 50% of the total vessel length! Cause: ascending aorta Reiter syndrome, psoriasis, ulcerative colitis, systemic lupus erythematosus, scleroderma, Behçet disease, ulcerative colitis, radiation Pathophysiology: intimal injury of aortic wall → lipid-laden macrophage + lymphocyte infiltration → inflammatory cells secrete cytokines → activation of multiple proteolytic cascades → degradation of collagen + elastin within tunica media → weakening + dilatation of aortic wall Location:   abdominal aorta (31%), ascending aorta (22%), arch (12%), descending thoracic aorta (8"
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Heart Scintigraphy — Right ventricle (DDx)",
+  "slug": "heart_scintigraphy_right_ventricle_ddx_280a49",
+  "chapter": "Heart Scintigraphy",
+  "source_file": "processed_clusters/heart_scintigraphy/heart_scintigraphy_right_ventricle_ddx_280a49.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cardiomyopathy",
+      "raw": "cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "valvular disease",
+      "raw": "valvular disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "EF may be decreased in CAD"
+}

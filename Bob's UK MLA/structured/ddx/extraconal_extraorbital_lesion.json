@@ -1,0 +1,62 @@
+{
+  "finding": "Extraconal-extraorbital Lesion",
+  "slug": "extraconal_extraorbital_lesion",
+  "chapter": "Spectrum of Orbital Disorders",
+  "source_file": "processed_clusters/spectrum_of_orbital_disorders/extraconal_extraorbital_lesion.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "FROM SINUS maxillary / sphenoid sinuses are rare locations of origin",
+      "raw": "FROM SINUS maxillary / sphenoid sinuses are rare locations of origin",
+      "frequency": "rare"
+    },
+    {
+      "name": "Tumor:",
+      "raw": "Tumor:",
+      "frequency": null
+    },
+    {
+      "name": "Mucocele",
+      "raw": "Mucocele",
+      "frequency": null
+    },
+    {
+      "name": "Paranasal sinusitis:",
+      "raw": "Paranasal sinusitis:",
+      "frequency": null
+    },
+    {
+      "name": "Epidural abscess",
+      "raw": "Epidural abscess",
+      "frequency": null
+    },
+    {
+      "name": "Subdural empyema",
+      "raw": "Subdural empyema",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous sinus thrombosis",
+      "raw": "Cavernous sinus thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Meningitis",
+      "raw": "Meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Cerebritis",
+      "raw": "Cerebritis",
+      "frequency": null
+    },
+    {
+      "name": "Brain abscess",
+      "raw": "Brain abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "squamous cell carcinoma (80%), lymphoma, adenocarcinoma, adenoid cystic carcinoma ◊  Most common cause of orbital infection! Origin:   from ethmoid sinuses (in children), from frontal sinus (in adolescence) √  preseptal / orbital edema / cellulitis √  subperiosteal / orbital abscess √  mucormycosis (in diabetics) destroys bone and extends into cavernous sinus Cx:"
+}

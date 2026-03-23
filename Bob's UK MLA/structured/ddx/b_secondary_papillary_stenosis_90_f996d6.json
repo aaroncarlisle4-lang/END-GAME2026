@@ -1,0 +1,67 @@
+{
+  "finding": "B. SECONDARY PAPILLARY STENOSIS (90%",
+  "slug": "b_secondary_papillary_stenosis_90_f996d6",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/b_secondary_papillary_stenosis_90_f996d6.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sphincter of Oddi dysfunction",
+      "raw": "Sphincter of Oddi dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "Mechanical trauma of stone passage → papillitis ›  choledocholithiasis in 64% ›  cholecystolithiasis in 26%",
+      "raw": "Mechanical trauma of stone passage → papillitis ›  choledocholithiasis in 64% ›  cholecystolithiasis in 26%",
+      "frequency": "64%"
+    },
+    {
+      "name": "Reflex spasm = papillary dyskinesia",
+      "raw": "Reflex spasm = papillary dyskinesia",
+      "frequency": null
+    },
+    {
+      "name": "Scar from previous surgical manipulation",
+      "raw": "Scar from previous surgical manipulation",
+      "frequency": null
+    },
+    {
+      "name": "Periampullary neoplasm",
+      "raw": "Periampullary neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Papillitis: ← acute pancreatitis, acute cholangitis, passage of biliary stone, periampullary diverticulum, parasite, infection",
+      "raw": "Papillitis: ← acute pancreatitis, acute cholangitis, passage of biliary stone, periampullary diverticulum, parasite, infection",
+      "frequency": null
+    },
+    {
+      "name": "Intraductal papillary mucinous neoplasm",
+      "raw": "Intraductal papillary mucinous neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Ampullary neoplasm",
+      "raw": "Ampullary neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Periampullary neoplasm",
+      "raw": "Periampullary neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Autoimmune pancreatitis",
+      "raw": "Autoimmune pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Choledochocele",
+      "raw": "Choledochocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   1.5% (most common cause) Associated with:  pancreas divisum, history of pancreatitis √  prestenotic dilatation of CBD √  increase in pancreatic duct diameter (83%) √  long smooth narrowing / beak ← fibrotic stenosis √  prolonged bile-to-bowel transit time > 45 minutes on Tc-IDA scintigraphy √  papillary size < 12.3 mm = the only independently reliable variable for differentiating benign from malignant causes N.B.:     for suspected ampullary stenosis employ secretin stimulation test with imaging 4-10 min post injection Bulging Papilla Signs of malignant ampullary obstruction: √"
+}

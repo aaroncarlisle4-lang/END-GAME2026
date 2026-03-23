@@ -1,0 +1,27 @@
+{
+  "finding": "Hyperdense Intracranial Lesions (DDx)",
+  "slug": "hyperdense_intracranial_lesions_ddx",
+  "chapter": "Hyperdense Intracranial Lesions",
+  "source_file": "processed_clusters/hyperdense_intracranial_lesions/hyperdense_intracranial_lesions_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "basal cell nevus syndrome",
+      "raw": "basal cell nevus syndrome (Gorlin syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "pseudoxanthoma elasticum",
+      "raw": "pseudoxanthoma elasticum",
+      "frequency": null
+    },
+    {
+      "name": "congenital myotonic dystrophy",
+      "raw": "congenital myotonic dystrophy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "posteriorly open C-shaped calcification 4-6 mm anterior to pineal gland | 20-30 mm behind + slightly below pineal on lateral projection, symmetrical on AP"
+}

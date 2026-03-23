@@ -1,0 +1,42 @@
+{
+  "finding": "C. Usually asymptomatic lesions",
+  "slug": "c_usually_asymptomatic_lesions_f980be",
+  "chapter": "AORTA",
+  "source_file": "processed_clusters/aorta/c_usually_asymptomatic_lesions_f980be.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "L aortic arch + aberrant R subclavian artery",
+      "raw": "L aortic arch + aberrant R subclavian artery",
+      "frequency": null
+    },
+    {
+      "name": "L aortic arch with R descending aorta",
+      "raw": "L aortic arch with R descending aorta",
+      "frequency": null
+    },
+    {
+      "name": "R aortic arch with R descending aorta + mirror-image branching",
+      "raw": "R aortic arch with R descending aorta + mirror-image branching",
+      "frequency": null
+    },
+    {
+      "name": "R aortic arch with R descending aorta + aberrant L subclavian artery",
+      "raw": "R aortic arch with R descending aorta + aberrant L subclavian artery",
+      "frequency": null
+    },
+    {
+      "name": "R aortic arch with R descending aorta + isolation of L subclavian artery",
+      "raw": "R aortic arch with R descending aorta + isolation of L subclavian artery",
+      "frequency": null
+    },
+    {
+      "name": "R aortic arch with L descending aorta + L ductus / ligamentum",
+      "raw": "R aortic arch with L descending aorta + L ductus / ligamentum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

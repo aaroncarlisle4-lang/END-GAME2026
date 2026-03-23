@@ -1,0 +1,37 @@
+{
+  "finding": "Intervertebral Disk Ossification",
+  "slug": "intervertebral_disk_ossification",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/intervertebral_disk_ossification.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Ochronosis",
+      "raw": "Ochronosis",
+      "frequency": null
+    },
+    {
+      "name": "Sequelae of trauma",
+      "raw": "Sequelae of trauma",
+      "frequency": null
+    },
+    {
+      "name": "Sequelae of disk-space infection",
+      "raw": "Sequelae of disk-space infection",
+      "frequency": null
+    },
+    {
+      "name": "Degenerative disk disease",
+      "raw": "Degenerative disk disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Associated with:   fusion of vertebral bodies"
+}

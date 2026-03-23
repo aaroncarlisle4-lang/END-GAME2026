@@ -1,0 +1,39 @@
+{
+  "name": "ANORECTAL MALFORMATION",
+  "slug": "anorectal_malformation",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/anorectal_malformation.md",
+  "definition": "complex group of congenital anomalies involving distal anus, rectum, urinary and genital",
+  "demographics": {
+    "Prevalence": "1÷5,000 live births; M > F"
+  },
+  "dominant_finding": "position of rectal pouch",
+  "distribution": "",
+  "discriminating_features": [
+    "oligohydramnios (26%) + distended bladder",
+    "abdominal / pelvic cystic mass (52%) ← distended bladder + septate fluid-filled vagina",
+    "fetal hydronephrosis (49%)",
+    "fetal ascites (22%)",
+    "intestinal distension (18%)"
+  ],
+  "other_features": {
+    "general": [
+      "oligohydramnios (26%) + distended bladder",
+      "abdominal / pelvic cystic mass (52%) ← distended bladder + septate fluid-filled vagina",
+      "fetal hydronephrosis (49%)",
+      "fetal ascites (22%)",
+      "intestinal distension (18%)",
+      "bowel-skin distance on midline SAG (rectal pouch to anus)",
+      "linear tract / fistula may be identified"
+    ],
+    "MR": [
+      "position of rectal pouch",
+      "size + morphology + development of levator ani muscle group (levator prostate m. /",
+      "low small bowel / colonic obstruction",
+      "\"M\" line accurately represents level of puborectal muscle = line drawn horizontally"
+    ]
+  },
+  "clinical": {
+    "Rx": "corrective surgery on day 2-3 of life ± colostomy"
+  }
+}

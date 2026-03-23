@@ -1,0 +1,27 @@
+{
+  "finding": "Pleomorphic Adenoma Of Orbit (DDx)",
+  "slug": "pleomorphic_adenoma_of_orbit_ddx_118d93",
+  "chapter": "Pleomorphic Adenoma Of Orbit",
+  "source_file": "processed_clusters/pleomorphic_adenoma_of_orbit/pleomorphic_adenoma_of_orbit_ddx_118d93.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lacrimal gland malignancy (infiltrative borders",
+      "raw": "lacrimal gland malignancy (infiltrative borders",
+      "frequency": null
+    },
+    {
+      "name": "nodularity",
+      "raw": "nodularity",
+      "frequency": null
+    },
+    {
+      "name": "bone erosion)",
+      "raw": "bone erosion)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-circumscribed usually homogeneously enhancing mass | larger lesion heterogeneous ← cystic degeneration, hemorrhage, serous / mucous collections, | smooth concavity of lacrimal fossa ← bone remodeling | T1-hypointense + T2-hyperintense mass"
+}

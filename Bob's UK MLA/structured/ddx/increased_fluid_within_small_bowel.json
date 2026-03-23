@@ -1,0 +1,42 @@
+{
+  "finding": "Increased Fluid within Small Bowel",
+  "slug": "increased_fluid_within_small_bowel",
+  "chapter": "SMALL BOWEL",
+  "source_file": "processed_clusters/small_bowel/increased_fluid_within_small_bowel.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ingestion",
+      "raw": "Ingestion",
+      "frequency": null
+    },
+    {
+      "name": "Resection / removal of stomach",
+      "raw": "Resection / removal of stomach",
+      "frequency": null
+    },
+    {
+      "name": "Small-bowel obstruction",
+      "raw": "Small-bowel obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Enteritis",
+      "raw": "Enteritis",
+      "frequency": null
+    },
+    {
+      "name": "Malabsorption: celiac disease, Whipple disease",
+      "raw": "Malabsorption: celiac disease, Whipple disease",
+      "frequency": null
+    },
+    {
+      "name": "Peritoneal carcinomatosis",
+      "raw": "Peritoneal carcinomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

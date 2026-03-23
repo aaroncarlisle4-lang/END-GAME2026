@@ -1,0 +1,47 @@
+{
+  "finding": "Renal Mass (DDx)",
+  "slug": "renal_mass_ddx_01cc17",
+  "chapter": "Renal Mass",
+  "source_file": "processed_clusters/renal_mass/renal_mass_ddx_01cc17.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "accessory spleen",
+      "raw": "accessory spleen",
+      "frequency": null
+    },
+    {
+      "name": "medial lobule of spleen",
+      "raw": "medial lobule of spleen",
+      "frequency": null
+    },
+    {
+      "name": "splenosis",
+      "raw": "splenosis",
+      "frequency": null
+    },
+    {
+      "name": "normal / abnormal bowel",
+      "raw": "normal / abnormal bowel",
+      "frequency": null
+    },
+    {
+      "name": "pancreatic disease",
+      "raw": "pancreatic disease",
+      "frequency": null
+    },
+    {
+      "name": "gallbladder",
+      "raw": "gallbladder",
+      "frequency": null
+    },
+    {
+      "name": "adrenal abnormalities",
+      "raw": "adrenal abnormalities",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "enhancement pattern like renal cortex | enhancement pattern like cortex with medulla | hypertrophy usually evident within 2 months; less likely to occur > age 50 | \"mass\" enhances identically to renal parenchyma"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "AORTIC HYPOPLASIA",
+  "slug": "aortic_hypoplasia",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/aortic_hypoplasia.md",
+  "definition": "combination of abnormally small diameter + increased length (> 5 mm in infants) between",
+  "demographics": {
+    "Prevalence": "5-10% of congenital cardiac lesions",
+    "Genetics": "usually sporadic; increased frequency among patients with Turner syndrome (13-"
+  },
+  "dominant_finding": "patent ductus arteriosus",
+  "distribution": "",
+  "discriminating_features": [
+    "patent ductus arteriosus"
+  ],
+  "other_features": {
+    "general": [
+      "patent ductus arteriosus"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "11% mortality prior to 6 months of age",
+    "Rx": "ages 3-5 years are ideal time for operation (late enough to avoid restenosis + early enough"
+  }
+}

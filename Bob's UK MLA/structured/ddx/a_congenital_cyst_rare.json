@@ -1,0 +1,42 @@
+{
+  "finding": "A. CONGENITAL CYST (rare",
+  "slug": "a_congenital_cyst_rare",
+  "chapter": "D. INHALATION",
+  "source_file": "processed_clusters/d_inhalation/a_congenital_cyst_rare.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic cyst",
+      "raw": "Bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Intralobar sequestration: multicystic structure in lower lobes",
+      "raw": "Intralobar sequestration: multicystic structure in lower lobes",
+      "frequency": null
+    },
+    {
+      "name": "Congenital cystic adenomatoid malformation (CCAM) type I",
+      "raw": "Congenital cystic adenomatoid malformation (CCAM) type I",
+      "frequency": null
+    },
+    {
+      "name": "Congenital lobar emphysema",
+      "raw": "Congenital lobar emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Diaphragmatic hernia",
+      "raw": "Diaphragmatic hernia (congenital / traumatic)",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial atresia",
+      "raw": "Bronchial atresia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

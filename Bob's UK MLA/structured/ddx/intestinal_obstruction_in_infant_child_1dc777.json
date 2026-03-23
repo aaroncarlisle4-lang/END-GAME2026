@@ -1,0 +1,27 @@
+{
+  "finding": "Intestinal Obstruction in Infant & Child",
+  "slug": "intestinal_obstruction_in_infant_child_1dc777",
+  "chapter": "Passage of Meconium",
+  "source_file": "processed_clusters/passage_of_meconium/intestinal_obstruction_in_infant_child_1dc777.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypertrophic pyloric stenosis",
+      "raw": "Hypertrophic pyloric stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis",
+      "raw": "Appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "Intussusception",
+      "raw": "Intussusception",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

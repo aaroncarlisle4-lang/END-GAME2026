@@ -1,0 +1,57 @@
+{
+  "finding": "Pediatric Pancreatic Tumors",
+  "slug": "pediatric_pancreatic_tumors_759d06",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/pediatric_pancreatic_tumors_759d06.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pancreatoblastoma",
+      "raw": "Pancreatoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Solid-pseudopapillary tumor",
+      "raw": "Solid-pseudopapillary tumor",
+      "frequency": null
+    },
+    {
+      "name": "Islet cell tumor",
+      "raw": "Islet cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Nesidioblastosis",
+      "raw": "Nesidioblastosis",
+      "frequency": null
+    },
+    {
+      "name": "Acinar cell carcinoma",
+      "raw": "Acinar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Burkitt lymphoma",
+      "raw": "Burkitt lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Primitive neuroectodermal tumor",
+      "raw": "Primitive neuroectodermal tumor (PNET)",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma (secondary involvement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

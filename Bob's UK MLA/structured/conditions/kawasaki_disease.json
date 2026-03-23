@@ -1,0 +1,49 @@
+{
+  "name": "KAWASAKI DISEASE",
+  "slug": "kawasaki_disease",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/kawasaki_disease.md",
+  "definition": "MUCOCUTANEOUS LYMPH NODE SYNDROME acute febrile generalized multisystem vasculitis of unknown cause involving medium-sized",
+  "demographics": {
+    "Incidence": "20.8÷100,000 annually in children < 5 years of age; highest in Asian countries",
+    "Histo": "necrotizing panvasculitis",
+    "Age": "< 5 years of age (in 85%); peak age of 2-3 years;",
+    "Associated with": "polyarthritis (30-50%), aseptic meningitis (25%), hepatitis (5-10%),"
+  },
+  "dominant_finding": "coronary artery stenosis (39%) ← thrombus formation in aneurysm with intimal",
+  "distribution": "posterior reversible encephalopathy syndrome",
+  "discriminating_features": [
+    "mild coronary artery dilatation (in up to 50%)",
+    "coronary artery aneurysm: LCA (²/³), RCA (⅓); proximal segment in 70%; as early",
+    "coronary artery stenosis (39%) ← thrombus formation in aneurysm with intimal",
+    "coronary artery occlusion (8%) in aneurysms > 9 mm",
+    "subdural effusion"
+  ],
+  "other_features": {
+    "general": [
+      "mild coronary artery dilatation (in up to 50%)",
+      "coronary artery aneurysm: LCA (²/³), RCA (⅓); proximal segment in 70%; as early",
+      "coronary artery stenosis (39%) ← thrombus formation in aneurysm with intimal",
+      "coronary artery occlusion (8%) in aneurysms > 9 mm"
+    ],
+    "CNS": [
+      "subdural effusion",
+      "cerebral infarction, atrophy",
+      "lesion with reversible T2 hyperintensity in splenium of corpus callosum + subcortically",
+      "posterior reversible encephalopathy syndrome"
+    ],
+    "Neck": [
+      "typically unilaterally enlarged nonsuppurative lymph nodes"
+    ],
+    "Abdomen": [
+      "intestinal pseudoobstruction",
+      "focal colitis",
+      "bowel infarction → ischemic stricture",
+      "transient gallbladder hydrops (15%)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "0.4-3.0% mortality (from myocardial infarction / myocarditis with congestive heart",
+    "Rx": "aspirin (100 mg/kg per day) + gamma globulin"
+  }
+}

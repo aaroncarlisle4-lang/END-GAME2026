@@ -1,0 +1,77 @@
+{
+  "finding": "Solid Ovarian Tumor",
+  "slug": "solid_ovarian_tumor",
+  "chapter": "D. CUTANEOUS DISORDERS",
+  "source_file": "processed_clusters/d_cutaneous_disorders/solid_ovarian_tumor.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ovarian fibroma",
+      "raw": "Ovarian fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Theca cell tumor of ovary",
+      "raw": "Theca cell tumor of ovary",
+      "frequency": null
+    },
+    {
+      "name": "Granulosa cell tumor",
+      "raw": "Granulosa cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Sertoli-Leydig cell tumor",
+      "raw": "Sertoli-Leydig cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Brenner tumor",
+      "raw": "Brenner tumor",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Dysgerminoma",
+      "raw": "Dysgerminoma",
+      "frequency": null
+    },
+    {
+      "name": "Yolk sac tumor of ovary",
+      "raw": "Yolk sac tumor of ovary",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma of ovary",
+      "raw": "Teratoma of ovary",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Endometrioma",
+      "raw": "Endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "Massive ovarian edema",
+      "raw": "Massive ovarian edema",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Functioning Ovarian Tumor ◊  ²/³ of gonadal stromal tumors produce steroids ◊  The most common functioning ovarian tumor is the sex cord-stromal tumor (= 8% of ovarian neoplasms)"
+}

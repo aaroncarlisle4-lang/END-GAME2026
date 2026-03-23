@@ -1,0 +1,42 @@
+{
+  "finding": "A. INFECTION",
+  "slug": "a_infection_3",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/a_infection_3.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Invasive pulmonary aspergillosis",
+      "raw": "Invasive pulmonary aspergillosis",
+      "frequency": null
+    },
+    {
+      "name": "Noninvasive mycetoma",
+      "raw": "Noninvasive mycetoma",
+      "frequency": null
+    },
+    {
+      "name": "Echinococcal lung cyst",
+      "raw": "Echinococcal lung cyst",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculoma",
+      "raw": "Tuberculoma",
+      "frequency": null
+    },
+    {
+      "name": "Rasmussen aneurysm",
+      "raw": "Rasmussen aneurysm (most too small to be identified on CXR)",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial lung abscess ± pulmonary gangrene",
+      "raw": "Bacterial lung abscess ± pulmonary gangrene",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

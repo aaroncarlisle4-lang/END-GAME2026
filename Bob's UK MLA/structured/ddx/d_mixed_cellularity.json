@@ -1,0 +1,27 @@
+{
+  "finding": "D. Mixed cellularity",
+  "slug": "d_mixed_cellularity",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/d_mixed_cellularity.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Brenner tumor",
+      "raw": "Brenner tumor",
+      "frequency": null
+    },
+    {
+      "name": "Struma ovarii",
+      "raw": "Struma ovarii",
+      "frequency": null
+    },
+    {
+      "name": "Krukenberg tumor",
+      "raw": "Krukenberg tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

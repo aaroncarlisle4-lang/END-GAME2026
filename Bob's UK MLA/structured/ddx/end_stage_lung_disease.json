@@ -1,0 +1,48 @@
+{
+  "finding": "End-stage Lung Disease",
+  "slug": "end_stage_lung_disease",
+  "chapter": "D. IATROGENIC",
+  "source_file": "processed_clusters/d_iatrogenic/end_stage_lung_disease.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "DISTRIBUTION",
+      "raw": "DISTRIBUTION",
+      "frequency": null
+    },
+    {
+      "name": "Usual interstitial pneumonia",
+      "raw": "Usual interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Asbestosis",
+      "raw": "Asbestosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic allergic alveolitis",
+      "raw": "Extrinsic allergic alveolitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "DISTRIBUTION": [
+      "subpleural distribution + lower lobe predominance",
+      "subpleural distribution + lower lobe predominance + pleural thickening",
+      "peribronchovascular distribution",
+      "diffuse random distribution + patchy areas of ground-glass attenuation"
+    ],
+    "Usual interstitial pneumonia": [],
+    "Asbestosis": [],
+    "Sarcoidosis": [],
+    "Extrinsic allergic alveolitis": []
+  },
+  "context": "=  evidence of honeycombing / cystic change / conglomerate fibrosis √  subpleural distribution + lower lobe predominance √  subpleural distribution + lower lobe predominance + pleural thickening √  subpleural honeycombing √  central cystic bronchiectasis √  conglomerate fibrosis √  peribronchovascular distribution √  upper lobe predominance √  diffuse random distribution + patchy areas of ground-glass attenuation"
+}

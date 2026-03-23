@@ -1,0 +1,57 @@
+{
+  "finding": "B. INFLAMMATION / INFECTION",
+  "slug": "b_inflammation_infection_1",
+  "chapter": "Gastric Atony",
+  "source_file": "processed_clusters/gastric_atony/b_inflammation_infection_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Foreign-body granuloma",
+      "raw": "Foreign-body granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic gastritis",
+      "raw": "Eosinophilic gastritis",
+      "frequency": null
+    },
+    {
+      "name": "Tertiary syphilis: infiltrative / ulcerative / tumorous type",
+      "raw": "Tertiary syphilis: infiltrative / ulcerative / tumorous type",
+      "frequency": null
+    },
+    {
+      "name": "Echinococcal cyst",
+      "raw": "Echinococcal cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

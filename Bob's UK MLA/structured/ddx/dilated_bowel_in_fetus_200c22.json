@@ -1,0 +1,82 @@
+{
+  "finding": "Dilated Bowel in Fetus",
+  "slug": "dilated_bowel_in_fetus_200c22",
+  "chapter": "B. LIVER",
+  "source_file": "processed_clusters/b_liver/dilated_bowel_in_fetus_200c22.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meconium ileus ◊  All newborns with meconium ileus have cystic fibrosis!",
+      "raw": "Meconium ileus ◊  All newborns with meconium ileus have cystic fibrosis!",
+      "frequency": null
+    },
+    {
+      "name": "\"Apple peel\" atresia of small bowel",
+      "raw": "\"Apple peel\" atresia of small bowel",
+      "frequency": null
+    },
+    {
+      "name": "Jejunal atresia",
+      "raw": "Jejunal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Megacystis-microcolon-intestinal hypoperistalsis syndrome",
+      "raw": "Megacystis-microcolon-intestinal hypoperistalsis syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Colonic aganglionosis = Hirschsprüng disease",
+      "raw": "Colonic aganglionosis = Hirschsprüng disease (may be associated with Down syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Anorectal atresia: associated with CNS abnormalities, part of VACTERL complex",
+      "raw": "Anorectal atresia: associated with CNS abnormalities, part of VACTERL complex",
+      "frequency": null
+    },
+    {
+      "name": "Other cystic masses: duodenal atresia, hydronephrosis, ovarian cyst, mesenteric cyst",
+      "raw": "Other cystic masses: duodenal atresia, hydronephrosis, ovarian cyst, mesenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Chronic chloride diarrhea",
+      "raw": "Chronic chloride diarrhea",
+      "frequency": null
+    },
+    {
+      "name": "Normal small bowel variant",
+      "raw": "Normal small bowel variant (especially < 20 weeks MA) with resolution on follow-up sonogram toward end of 2nd trimester (in 50-70%)",
+      "frequency": "70%"
+    },
+    {
+      "name": "Normal colon variant in 3rd trimester ← echogenic meconium",
+      "raw": "Normal colon variant in 3rd trimester ← echogenic meconium",
+      "frequency": null
+    },
+    {
+      "name": "Meconium ileus ◊  Increased abdominal echogenicity is seen in 60-70% of fetuses with cystic fibrosis!",
+      "raw": "Meconium ileus ◊  Increased abdominal echogenicity is seen in 60-70% of fetuses with cystic fibrosis!",
+      "frequency": "70%"
+    },
+    {
+      "name": "Chromosomal abnormality (3-25%) (a)  Down syndrome (5-14%) (b)  Trisomy 13, 18 (c)  Turner syndrome",
+      "raw": "Chromosomal abnormality (3-25%) (a)  Down syndrome (5-14%) (b)  Trisomy 13, 18 (c)  Turner syndrome",
+      "frequency": "25%"
+    },
+    {
+      "name": "Severe IUGR",
+      "raw": "Severe IUGR (16%)",
+      "frequency": "16%"
+    },
+    {
+      "name": "Intraamniotic bleeding with subsequent swallowing of blood by fetus",
+      "raw": "Intraamniotic bleeding with subsequent swallowing of blood by fetus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  10-15% of newborns with cystic fibrosis present with meconium ileus! Bowel Obstruction in Fetus Etiology:   intestinal atresia / stenosis secondary to vascular accident, volvulus, meconium ileus, intussusception after organogenesis Prevalence:   imperforate anus 1÷3,000; small bowel 1÷5,000; colon 1÷20,000 Pathologic types: I one / more transverse diaphragms II blind-ending loops connected by fibrous string III complete separation of blind-ending loops IV apple-peel atresia of small bowel ← occlusion of SMA branch Associated with:   GI anomalies in 45% (malrotation, duplication, microcolon,"
+}

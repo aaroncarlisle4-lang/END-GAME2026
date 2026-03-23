@@ -1,0 +1,172 @@
+{
+  "finding": "ILEUS",
+  "slug": "ileus",
+  "chapter": "E. EXTRINSIC COMPRESSION",
+  "source_file": "processed_clusters/e_extrinsic_compression/ileus.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hyperbilirubinemia",
+      "raw": "Hyperbilirubinemia",
+      "frequency": null
+    },
+    {
+      "name": "Intracranial hemorrhage",
+      "raw": "Intracranial hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration pneumonia",
+      "raw": "Aspiration pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing enterocolitis",
+      "raw": "Necrotizing enterocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Aganglionosis ›  in child / adult:",
+      "raw": "Aganglionosis ›  in child / adult:",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative ileus",
+      "raw": "Postoperative ileus",
+      "frequency": null
+    },
+    {
+      "name": "usually resolves by 4th postoperative day",
+      "raw": "usually resolves by 4th postoperative day",
+      "frequency": null
+    },
+    {
+      "name": "Visceral pain: obstructing ureteral stone, common bile duct stone, twisted ovarian cyst, blunt abdominal / chest trauma",
+      "raw": "Visceral pain: obstructing ureteral stone, common bile duct stone, twisted ovarian cyst, blunt abdominal / chest trauma",
+      "frequency": "common"
+    },
+    {
+      "name": "Intraabdominal inflammation / infection: peritonitis, appendicitis, cholecystitis, pancreatitis, salpingitis, abdominal abscess, hemolytic-uremic syndrome, gastroenteritis",
+      "raw": "Intraabdominal inflammation / infection: peritonitis, appendicitis, cholecystitis, pancreatitis, salpingitis, abdominal abscess, hemolytic-uremic syndrome, gastroenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic bowel disease",
+      "raw": "Ischemic bowel disease",
+      "frequency": null
+    },
+    {
+      "name": "Anticholinergic drugs: atropine, propantheline, morphine + derivatives, tricyclic antidepressants, dilantin, phenothiazines, hexamethonium bromide",
+      "raw": "Anticholinergic drugs: atropine, propantheline, morphine + derivatives, tricyclic antidepressants, dilantin, phenothiazines, hexamethonium bromide",
+      "frequency": null
+    },
+    {
+      "name": "Neuromuscular disorder: diabetes, hypothyroidism, porphyria, lead poisoning, uremia, hypokalemia, amyloidosis, urticaria, sprue, scleroderma, Chagas disease, vagotomy, myotonic dystrophy, CNS trauma, paraplegia, quadriplegia",
+      "raw": "Neuromuscular disorder: diabetes, hypothyroidism, porphyria, lead poisoning, uremia, hypokalemia, amyloidosis, urticaria, sprue, scleroderma, Chagas disease, vagotomy, myotonic dystrophy, CNS trauma, paraplegia, quadriplegia",
+      "frequency": null
+    },
+    {
+      "name": "Systemic disease: septic / hypovolemic shock, urticaria",
+      "raw": "Systemic disease: septic / hypovolemic shock, urticaria",
+      "frequency": null
+    },
+    {
+      "name": "Chest disease: lower lobe pneumonia, pleuritis, myocardial infarction, acute pericarditis, CHF",
+      "raw": "Chest disease: lower lobe pneumonia, pleuritis, myocardial infarction, acute pericarditis, CHF",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal disease: hemorrhage (spine trauma), abscess mnemonic:   Remember the P's",
+      "raw": "Retroperitoneal disease: hemorrhage (spine trauma), abscess mnemonic:   Remember the P's",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis",
+      "raw": "Pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Pendicitis",
+      "raw": "Pendicitis",
+      "frequency": null
+    },
+    {
+      "name": "Peptic ulcer",
+      "raw": "Peptic ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Perforation",
+      "raw": "Perforation",
+      "frequency": null
+    },
+    {
+      "name": "Peritonitis",
+      "raw": "Peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Pneumonia",
+      "raw": "Pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Porphyria",
+      "raw": "Porphyria",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative",
+      "raw": "Postoperative",
+      "frequency": null
+    },
+    {
+      "name": "Potassium paucity",
+      "raw": "Potassium paucity",
+      "frequency": null
+    },
+    {
+      "name": "Pregnancy",
+      "raw": "Pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Pyelonephritis",
+      "raw": "Pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "intestinal sounds decreased / absent; abdominal distension",
+      "raw": "intestinal sounds decreased / absent; abdominal distension",
+      "frequency": null
+    },
+    {
+      "name": "Acute pancreatitis:  duodenum, jejunum, transverse colon",
+      "raw": "Acute pancreatitis:  duodenum, jejunum, transverse colon",
+      "frequency": null
+    },
+    {
+      "name": "Acute cholecystitis:  hepatic flexure of colon",
+      "raw": "Acute cholecystitis:  hepatic flexure of colon",
+      "frequency": null
+    },
+    {
+      "name": "Acute appendicitis:  terminal ileum, cecum",
+      "raw": "Acute appendicitis:  terminal ileum, cecum",
+      "frequency": null
+    },
+    {
+      "name": "Acute diverticulitis:  descending colon",
+      "raw": "Acute diverticulitis:  descending colon",
+      "frequency": null
+    },
+    {
+      "name": "Acute ureteral colic:  GI tract along course of ureter",
+      "raw": "Acute ureteral colic:  GI tract along course of ureter",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "[ileus = stasis / inability to push fluid along (term does not distinguish between mechanical and nonmechanical causes)] =  ADYNAMIC / PARALYTIC / NONOBSTRUCTIVE ILEUS =  derangement impairing proper distal propulsion of intestinal contents Cause: ›  in neonate: √  large + small bowel ± gastric distension √  decreased small bowel distension on serial films √  delayed but free passage of contrast material US: √  patent dilated fluid filled bowel lumen √  minimal peristalsis Rx:   not amenable to surgical correction Localized Ileus =  isolated distended loop of small / large bowel =  SENTINEL LO"
+}

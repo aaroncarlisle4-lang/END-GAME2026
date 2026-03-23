@@ -1,0 +1,30 @@
+{
+  "finding": "C. BOWEL ISCHEMIA / INFARCTION",
+  "slug": "c_bowel_ischemia_infarction_18b8d3",
+  "chapter": "MURAL STRATIFICATION OF INTESTINAL TRACT",
+  "source_file": "processed_clusters/mural_stratification_of_intestinal_tract/c_bowel_ischemia_infarction_18b8d3.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Arterial obstruction: thromboembolism, plaque thrombus [Peripheral vasculopathy]",
+      "raw": "Arterial obstruction: thromboembolism, plaque thrombus",
+      "frequency": null,
+      "sites": [
+        "Peripheral vasculopathy"
+      ]
+    },
+    {
+      "name": "Venous obstruction: thrombosis, bowel torsion, closed-loop obstruction",
+      "raw": "Venous obstruction: thrombosis, bowel torsion, closed-loop obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Hypoperfusion: proximal arterial stenosis potentiated by myocardial infarction, bradycardia, dehydration N.B.:   closed-loop obstruction with signs of bowel infarction is a surgical condition!",
+      "raw": "Hypoperfusion: proximal arterial stenosis potentiated by myocardial infarction, bradycardia, dehydration N.B.:   closed-loop obstruction with signs of bowel infarction is a surgical condition!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  signs of bowel infarction: √  free peritoneal fluid √  asymmetric bowel wall enhancement √  persistent enhancement of bowel wall / segmental arteries √  arterial / venous filling defects √  increased density of mesentery √  bowel obstruction"
+}

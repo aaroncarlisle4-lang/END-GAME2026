@@ -1,0 +1,47 @@
+{
+  "finding": "Postbulbar Ulceration",
+  "slug": "postbulbar_ulceration",
+  "chapter": "D. TRAUMA",
+  "source_file": "processed_clusters/d_trauma/postbulbar_ulceration.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Benign postbulbar peptic ulcer",
+      "raw": "Benign postbulbar peptic ulcer (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Zollinger-Ellison syndrome",
+      "raw": "Zollinger-Ellison syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Gastrointestinal stromal tumor",
+      "raw": "Gastrointestinal stromal tumor (GIST)",
+      "frequency": null
+    },
+    {
+      "name": "Malignant tumors:",
+      "raw": "Malignant tumors:",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease: Crohn disease, TB, CMV",
+      "raw": "Granulomatous disease: Crohn disease, TB, CMV",
+      "frequency": null
+    },
+    {
+      "name": "Aorticoduodenal fistula",
+      "raw": "Aorticoduodenal fistula",
+      "frequency": null
+    },
+    {
+      "name": "Mimickers: ectopic pancreas, diverticulum",
+      "raw": "Mimickers: ectopic pancreas, diverticulum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  primary adenocarcinoma, lymphoma, sarcoma (b)  contiguous spread pancreas, colon, kidney, gallbladder (c)  hematogenous spread melanoma, Kaposi sarcoma (d)  lymphogenic spread metastases to periduodenal lymph nodes"
+}

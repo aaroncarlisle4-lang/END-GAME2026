@@ -1,0 +1,57 @@
+{
+  "finding": "Mondor disease",
+  "slug": "mondor_disease_f47fea",
+  "chapter": "Nipple-Areolar Complex",
+  "source_file": "processed_clusters/nipple_areolar_complex/mondor_disease_f47fea.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Inflammation / abscess",
+      "raw": "Inflammation / abscess",
+      "frequency": null
+    },
+    {
+      "name": "Mammary duct ectasia",
+      "raw": "Mammary duct ectasia",
+      "frequency": null
+    },
+    {
+      "name": "Calcifications",
+      "raw": "Calcifications",
+      "frequency": null
+    },
+    {
+      "name": "Cutaneous horn =  conical projection of keratin above skin surface that may grow rapidly",
+      "raw": "Cutaneous horn =  conical projection of keratin above skin surface that may grow rapidly",
+      "frequency": null
+    },
+    {
+      "name": "vulnerable to trauma",
+      "raw": "vulnerable to trauma",
+      "frequency": null
+    },
+    {
+      "name": "Nipple adenoma (B)  MALIGNANT PROCESS",
+      "raw": "Nipple adenoma (B)  MALIGNANT PROCESS",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Subareolar carcinoma",
+      "raw": "Subareolar carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  uni- / bilateral DDx:   malignancy (developing over a few months) √  spherical with central area of lucency (associated with glands + hair follicles) √  nonspecific in association with sutures, fat necrosis, intraductal papilloma, Paget disease, intraductal ca. DDx:   squamous cell carcinoma, Paget disease, sebaceous adenoma, granular cell tumor"
+}

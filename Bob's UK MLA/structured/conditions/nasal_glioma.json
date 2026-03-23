@@ -1,0 +1,34 @@
+{
+  "name": "NASAL GLIOMA",
+  "slug": "nasal_glioma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/nasal_glioma.md",
+  "definition": "rare congenital mass composed of dysplastic sequestered neurogenic tissue (= distal part of a",
+  "demographics": {
+    "Age": "usually identified at birth",
+    "Location": "(a)   extranasal (60%)"
+  },
+  "dominant_finding": "no growth / very little growth / growth similar to brain",
+  "distribution": "(a)   extranasal (60%)",
+  "discriminating_features": [
+    "no growth / very little growth / growth similar to brain",
+    "attached to middle turbinate bone / nasal septum",
+    "foramen cecum may be deeper than normal",
+    "± small and bifid crista galli (intracranial extension likely)",
+    "soft-tissue mass of glabella"
+  ],
+  "other_features": {
+    "general": [
+      "no growth / very little growth / growth similar to brain",
+      "attached to middle turbinate bone / nasal septum",
+      "foramen cecum may be deeper than normal",
+      "± small and bifid crista galli (intracranial extension likely)",
+      "soft-tissue mass of glabella",
+      "attached to brain by stalk of tissue (in 1-15-30%)",
+      "iso- / hypointense relative to normal gray matter on T1WI",
+      "hyperintense on T2WI (as a result of gliosis)",
+      "contrast enhancement may depict tract to frontobasal region"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,38 @@
+{
+  "name": "SECKEL SYNDROME",
+  "slug": "seckel_syndrome",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/seckel_syndrome.md",
+  "definition": "BIRD-HEADED DWARFISM rare autosomal recessive disorder (44 cases)",
+  "demographics": {},
+  "dominant_finding": "severe microcephaly",
+  "distribution": "",
+  "discriminating_features": [
+    "severe microcephaly",
+    "receding forehead, large beaked nose, micrognathia",
+    "dislocation of radial head + hypoplasia of proximal end of radius",
+    "absence of phalangeal epiphysis",
+    "clinodactyly of 5th digit"
+  ],
+  "other_features": {
+    "general": [
+      "severe microcephaly",
+      "receding forehead, large beaked nose, micrognathia"
+    ],
+    "Skeleton": [
+      "dislocation of radial head + hypoplasia of proximal end of radius",
+      "absence of phalangeal epiphysis",
+      "clinodactyly of 5th digit",
+      "gap between 1st and 2nd toe",
+      "hip dislocation",
+      "hypoplasia of proximal fibula",
+      "absence of patella",
+      "11 pairs of ribs",
+      "severe IUGR",
+      "oligohydramnios",
+      "decreased bone length: femur, tibia, fibula",
+      "decreased AC, HC"
+    ]
+  },
+  "clinical": {}
+}

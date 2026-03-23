@@ -1,0 +1,32 @@
+{
+  "finding": "Strongyloidiasis — Lung (DDx)",
+  "slug": "strongyloidiasis_lung_ddx_a67737",
+  "chapter": "Strongyloidiasis",
+  "source_file": "processed_clusters/strongyloidiasis/strongyloidiasis_lung_ddx_a67737.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "tuberculosis",
+      "raw": "tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "other causes of enterocolitis",
+      "raw": "other causes of enterocolitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "ulcerations | stricture of 3rd + 4th part of duodenum | rigid pipestem appearance + irregular narrowing of duodenum (in advanced cases) | transient pulmonary opacities"
+}

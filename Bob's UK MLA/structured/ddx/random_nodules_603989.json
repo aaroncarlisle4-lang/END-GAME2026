@@ -1,0 +1,37 @@
+{
+  "finding": "Random Nodules",
+  "slug": "random_nodules_603989",
+  "chapter": "C. Pneumoconiosis",
+  "source_file": "processed_clusters/c_pneumoconiosis/random_nodules_603989.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hematogenous metastases: thyroid, kidney, breast",
+      "raw": "Hematogenous metastases: thyroid, kidney, breast",
+      "frequency": null
+    },
+    {
+      "name": "Miliary infection",
+      "raw": "Miliary infection",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Silicosis",
+      "raw": "Silicosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

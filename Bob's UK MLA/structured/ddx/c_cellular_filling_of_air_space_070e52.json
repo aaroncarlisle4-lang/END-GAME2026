@@ -1,0 +1,62 @@
+{
+  "finding": "C. CELLULAR FILLING OF AIR SPACE",
+  "slug": "c_cellular_filling_of_air_space_070e52",
+  "chapter": "D. IATROGENIC",
+  "source_file": "processed_clusters/d_iatrogenic/c_cellular_filling_of_air_space_070e52.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Desquamative interstitial pneumonia",
+      "raw": "Desquamative interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Pneumocystis carinii pneumonia",
+      "raw": "Pneumocystis carinii pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Pneumoconiosis",
+      "raw": "Pneumoconiosis",
+      "frequency": null
+    },
+    {
+      "name": "Drugs",
+      "raw": "Drugs",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Fungal disease",
+      "raw": "Fungal disease",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Exanthem",
+      "raw": "Exanthem (measles, chickenpox)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Reticulonodular Lung Disease mnemonic:   Please Don't Eat Stale Tuna Fish Sandwiches Every Morning"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "ELASTOFIBROMA DORSI",
+  "slug": "elastofibroma_dorsi",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/elastofibroma_dorsi.md",
+  "definition": "degenerative / reactive fibrous pseudotumor forming as a reaction to chronic mechanical",
+  "demographics": {
+    "Frequency": "in 24% of women + 11% of men > 55 years (autopsy study); in 2% of CT",
+    "Histo": "enlarged irregular serrated elastic hypereosinophilic fibers, collagen, scattered"
+  },
+  "dominant_finding": "heterogeneous poorly defined lesion of soft-tissue attenuation similar to muscle",
+  "distribution": "",
+  "discriminating_features": [
+    "heterogeneous poorly defined lesion of soft-tissue attenuation similar to muscle",
+    "well-defined heterogeneous intermediate-SI lesion similar to muscle on T1WI + T2WI",
+    "interspersed streaks of fat intensity in fascicular pattern",
+    "heterogeneous enhancement"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "heterogeneous poorly defined lesion of soft-tissue attenuation similar to muscle"
+    ],
+    "MR": [
+      "well-defined heterogeneous intermediate-SI lesion similar to muscle on T1WI + T2WI",
+      "interspersed streaks of fat intensity in fascicular pattern",
+      "heterogeneous enhancement"
+    ]
+  },
+  "clinical": {
+    "Rx": "local excision for symptomatic lesions"
+  }
+}

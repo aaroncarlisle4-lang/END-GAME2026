@@ -1,0 +1,23 @@
+{
+  "name": "DIAPHRAGM DISEASE",
+  "slug": "diaphragm_disease",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/diaphragm_disease.md",
+  "definition": "small bowel webs ← NSAIDs",
+  "demographics": {
+    "Frequency": "in 10% of patients receiving long-term NSAIDs",
+    "Path": "foci of submucosal fibrosis with interruption of adjacent muscularis mucosae",
+    "Location": "ileum > jejunum"
+  },
+  "dominant_finding": "multiple concentric diaphragm-like strictures",
+  "distribution": "ileum > jejunum",
+  "discriminating_features": [
+    "multiple concentric diaphragm-like strictures"
+  ],
+  "other_features": {
+    "general": [
+      "multiple concentric diaphragm-like strictures"
+    ]
+  },
+  "clinical": {}
+}

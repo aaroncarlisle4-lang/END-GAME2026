@@ -1,0 +1,27 @@
+{
+  "finding": "C. CONGENITAL DISORDER",
+  "slug": "c_congenital_disorder_b7636e",
+  "chapter": "C. Pneumoconiosis",
+  "source_file": "processed_clusters/c_pneumoconiosis/c_congenital_disorder_b7636e.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Kartagener syndrome",
+      "raw": "Kartagener syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Yellow nail syndrome",
+      "raw": "Yellow nail syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

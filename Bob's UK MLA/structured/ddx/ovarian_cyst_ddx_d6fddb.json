@@ -1,0 +1,27 @@
+{
+  "finding": "Ovarian Cyst (DDx)",
+  "slug": "ovarian_cyst_ddx_d6fddb",
+  "chapter": "Ovarian Cyst",
+  "source_file": "processed_clusters/ovarian_cyst/ovarian_cyst_ddx_d6fddb.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cystadenoma (larger",
+      "raw": "cystadenoma (larger",
+      "frequency": null
+    },
+    {
+      "name": "persistent",
+      "raw": "persistent",
+      "frequency": null
+    },
+    {
+      "name": "in older woman)",
+      "raw": "in older woman)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± minimal mobile low-level internal echoes | well-defined round simple fluid collection | thin nonenhancing wall | internal attenuation of < 15 HU"
+}

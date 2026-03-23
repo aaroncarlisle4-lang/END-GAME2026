@@ -1,0 +1,82 @@
+{
+  "finding": "B. SOFT-TISSUE TUMOR (a) adipocytic tumor",
+  "slug": "b_soft_tissue_tumor_a_adipocytic_tumor",
+  "chapter": "D. HYPERCALCEMIA",
+  "source_file": "processed_clusters/d_hypercalcemia/b_soft_tissue_tumor_a_adipocytic_tumor.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma (b)  vascular tumor",
+      "raw": "Liposarcoma (b)  vascular tumor",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma (c)  fibroblastic-myofibroblastic tumor",
+      "raw": "Angiosarcoma (c)  fibroblastic-myofibroblastic tumor",
+      "frequency": null
+    },
+    {
+      "name": "Elastofibroma",
+      "raw": "Elastofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis (d)  fibrohistiocytic tumor",
+      "raw": "Fibromatosis (d)  fibrohistiocytic tumor",
+      "frequency": null
+    },
+    {
+      "name": "Undifferentiated pleomorphic sarcoma",
+      "raw": "Undifferentiated pleomorphic sarcoma (e)  peripheral nerve sheath tumor (PNST)",
+      "frequency": null
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant PNST (f)  cutaneous lesion",
+      "raw": "Malignant PNST (f)  cutaneous lesion",
+      "frequency": null
+    },
+    {
+      "name": "Epidermal inclusion cyst",
+      "raw": "Epidermal inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Pilomatricoma",
+      "raw": "Pilomatricoma",
+      "frequency": null
+    },
+    {
+      "name": "Dermatofibrosarcoma protuberans",
+      "raw": "Dermatofibrosarcoma protuberans (DFSP)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

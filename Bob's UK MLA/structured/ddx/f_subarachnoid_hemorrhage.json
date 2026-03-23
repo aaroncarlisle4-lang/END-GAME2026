@@ -1,0 +1,27 @@
+{
+  "finding": "F. Subarachnoid hemorrhage",
+  "slug": "f_subarachnoid_hemorrhage",
+  "chapter": "HEAD TRAUMA",
+  "source_file": "processed_clusters/head_trauma/f_subarachnoid_hemorrhage.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Brain injury",
+      "raw": "Brain injury",
+      "frequency": null
+    },
+    {
+      "name": "Contusion/ edema",
+      "raw": "Contusion/ edema",
+      "frequency": null
+    },
+    {
+      "name": "Brain hematoma",
+      "raw": "Brain hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

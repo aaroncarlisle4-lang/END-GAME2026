@@ -1,0 +1,32 @@
+{
+  "finding": "A. BENIGN TUMOR",
+  "slug": "a_benign_tumor_3_740bab",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/a_benign_tumor_3_740bab.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cavernous hemangioma",
+      "raw": "Cavernous hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Regenerating hepatic nodules",
+      "raw": "Regenerating hepatic nodules",
+      "frequency": null
+    },
+    {
+      "name": "Biliary microhamartomas",
+      "raw": "Biliary microhamartomas",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

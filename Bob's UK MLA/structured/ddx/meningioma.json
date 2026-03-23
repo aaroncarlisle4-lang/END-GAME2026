@@ -1,0 +1,172 @@
+{
+  "finding": "MENINGIOMA",
+  "slug": "meningioma",
+  "chapter": "MELANOCYTOMA",
+  "source_file": "processed_clusters/melanocytoma/meningioma.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NO gender predilection",
+      "raw": "NO gender predilection",
+      "frequency": null
+    },
+    {
+      "name": "Higher risk of sarcomatous change",
+      "raw": "Higher risk of sarcomatous change",
+      "frequency": null
+    },
+    {
+      "name": "Consider association with neurofibromatosis type 2",
+      "raw": "Consider association with neurofibromatosis type 2",
+      "frequency": null
+    },
+    {
+      "name": "Globular meningioma (most common):",
+      "raw": "Globular meningioma (most common):",
+      "frequency": "most common"
+    },
+    {
+      "name": "Meningioma en plaque:",
+      "raw": "Meningioma en plaque:",
+      "frequency": null
+    },
+    {
+      "name": "Multicentric meningioma (2-9%):",
+      "raw": "Multicentric meningioma (2-9%):",
+      "frequency": "9%"
+    },
+    {
+      "name": "Supratentorial (90%) (a)  convexity = lateral hemisphere (20-34%) (b)  parasagittal = medial hemisphere (18-22%):",
+      "raw": "Supratentorial (90%) (a)  convexity = lateral hemisphere (20-34%) (b)  parasagittal = medial hemisphere (18-22%):",
+      "frequency": "90%"
+    },
+    {
+      "name": "Infratentorial",
+      "raw": "Infratentorial (9-15%) (a)  cerebellar convexity (5%) (b)  tentorium cerebelli (2-4%) (c)  cerebellopontine angle (2-4%) (d)  clivus (< 1%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Spine",
+      "raw": "Spine (12%)",
+      "frequency": "12%"
+    },
+    {
+      "name": "External carotid artery (almost always):",
+      "raw": "External carotid artery (almost always):",
+      "frequency": null
+    },
+    {
+      "name": "vault: middle meningeal artery",
+      "raw": "vault: middle meningeal artery",
+      "frequency": null
+    },
+    {
+      "name": "sphenoid plane + tuberculum: recurrent meningeal branch of ophthalmic a.",
+      "raw": "sphenoid plane + tuberculum: recurrent meningeal branch of ophthalmic a.",
+      "frequency": null
+    },
+    {
+      "name": "tentorium: meningeal branch of meningohypophyseal trunk of ICA",
+      "raw": "tentorium: meningeal branch of meningohypophyseal trunk of ICA",
+      "frequency": null
+    },
+    {
+      "name": "clivus + posterior fossa: vertebral artery / ascending pharyngeal artery",
+      "raw": "clivus + posterior fossa: vertebral artery / ascending pharyngeal artery",
+      "frequency": null
+    },
+    {
+      "name": "falx: partly middle meningeal artery + others",
+      "raw": "falx: partly middle meningeal artery + others",
+      "frequency": null
+    },
+    {
+      "name": "Internal carotid artery (rare):",
+      "raw": "Internal carotid artery (rare):",
+      "frequency": "rare"
+    },
+    {
+      "name": "intraventricular: choroidal vessels",
+      "raw": "intraventricular: choroidal vessels",
+      "frequency": null
+    },
+    {
+      "name": "Low attenuation area of necrosis, old hemorrhage, cyst formation, fat",
+      "raw": "Low attenuation area of necrosis, old hemorrhage, cyst formation, fat (DDx: malignant glioma, metastasis) (a)  Cystic meningioma (2-4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Heterogeneous / ring enhancement ← bland tumor infarction / necrosis in aggressive histologic variants / true cyst formation from benign fluid accumulation",
+      "raw": "Heterogeneous / ring enhancement ← bland tumor infarction / necrosis in aggressive histologic variants / true cyst formation from benign fluid accumulation",
+      "frequency": null
+    },
+    {
+      "name": "\"En plaque\" morphology",
+      "raw": "\"En plaque\" morphology",
+      "frequency": null
+    },
+    {
+      "name": "\"Comma shape\" = combination of semilunar component bounded by dural interface + spherical component growing beyond dural margin",
+      "raw": "\"Comma shape\" = combination of semilunar component bounded by dural interface + spherical component growing beyond dural margin",
+      "frequency": null
+    },
+    {
+      "name": "Sarcomatous transformation with spread over hemisphere + invasion of cerebral parenchyma",
+      "raw": "Sarcomatous transformation with spread over hemisphere + invasion of cerebral parenchyma (leptomeningeal supply)",
+      "frequency": null
+    },
+    {
+      "name": "M eningeal hemangiopericytoma",
+      "raw": "M eningeal hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Hyperostotic meningioma en plaque",
+      "raw": "Hyperostotic meningioma en plaque",
+      "frequency": null
+    },
+    {
+      "name": "slowly progressive unilateral painless exophthalmos",
+      "raw": "slowly progressive unilateral painless exophthalmos",
+      "frequency": null
+    },
+    {
+      "name": "numbness in distribution of cranial nerve V1 + V2",
+      "raw": "numbness in distribution of cranial nerve V1 + V2",
+      "frequency": null
+    },
+    {
+      "name": "headaches, seizures",
+      "raw": "headaches, seizures",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma arising from middle third of sphenoid ridge",
+      "raw": "Meningioma arising from middle third of sphenoid ridge",
+      "frequency": null
+    },
+    {
+      "name": "headaches, seizures",
+      "raw": "headaches, seizures",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma arising from clinoid process",
+      "raw": "Meningioma arising from clinoid process",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma of planum sphenoidale",
+      "raw": "Meningioma of planum sphenoidale",
+      "frequency": null
+    },
+    {
+      "name": "hypothalamic / pituitary dysfunction",
+      "raw": "hypothalamic / pituitary dysfunction (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence:   most common extraaxial tumor: 15-18% of intracranial tumors in adults; 1-2% of primary brain tumors in children; 33% of all incidental intracranial neoplasms Origin:   derived from meningothelial cells concentrated in arachnoid villi (= \"arachnoid cap cells\"), which penetrate the dura (villi are numerous in large dural sinuses, in smaller veins, along root sleeves of exiting cranial + spinal nerves, choroid plexus) Histologic classification: ›  benign behavior pattern (a)  fibroblastic (fibrous) type = interwoven bands of spindle cells + collagen + reticulin fibers (b)  transition"
+}

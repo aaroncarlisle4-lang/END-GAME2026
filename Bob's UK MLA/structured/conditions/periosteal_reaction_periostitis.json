@@ -1,0 +1,29 @@
+{
+  "name": "PERIOSTEAL REACTION / PERIOSTITIS",
+  "slug": "periosteal_reaction_periostitis",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/myeloproliferative_disorders/periosteal_reaction_periostitis.md",
+  "definition": "reaction to periosteal irritant pleomorphic, rapidly progressing process undergoing constant change",
+  "demographics": {
+    "Location": "at site of tendon + ligament attachment"
+  },
+  "dominant_finding": "even + uniform thickness > 1 mm",
+  "distribution": "at site of tendon + ligament attachment",
+  "discriminating_features": [
+    "even + uniform thickness > 1 mm",
+    "persistent + unchanged for weeks",
+    "bone proliferation (enthesophyte)",
+    "calcification of tendon + ligament",
+    "erosion"
+  ],
+  "other_features": {
+    "general": [
+      "even + uniform thickness > 1 mm",
+      "persistent + unchanged for weeks",
+      "bone proliferation (enthesophyte)",
+      "calcification of tendon + ligament",
+      "erosion"
+    ]
+  },
+  "clinical": {}
+}

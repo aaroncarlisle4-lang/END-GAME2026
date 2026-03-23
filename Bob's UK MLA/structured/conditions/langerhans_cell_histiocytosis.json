@@ -1,0 +1,159 @@
+{
+  "name": "LANGERHANS CELL HISTIOCYTOSIS",
+  "slug": "langerhans_cell_histiocytosis",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/langerhans_cell_histiocytosis.md",
+  "definition": "LCH = HISTIOCYTOSIS X (former name) poorly understood group of disorders characterized by abnormal nonmalignant proliferation EOSINOPHILIC GRANULOMA localized often solitary bone lesion as the most benign variety of LCH Hand-Schüller-Christian Disease chronic disseminated form of LCH characterized by CLASSIC triad (in 10-15%) of LETTERER-SIWE DISEASE acute disseminated fulminant form of LCH characterized by wasting, pancytopenia (from",
+  "demographics": {
+    "Prevalence": "1÷2,000,000 children per year",
+    "Path": "influx of eosinophilic leukocytes simulating inflammation; reticulum cells accumulate",
+    "Age": "any age, mostly presenting at 1-4 years; adults affected in < 30%; < 30 years in 80%;",
+    "Location": "bone + bone marrow, lymph nodes, thymus, ear, liver and spleen, gallbladder, GI",
+    "Distribution": "bilateral symmetric upper- to mid-lung with sparing of costophrenic angles",
+    "Histo": "considerable number of eosinophils in addition to the dominant Langerhans cell",
+    "Frequency": "1÷ 2,000,000"
+  },
+  "dominant_finding": "moderately to markedly enhancing soft-tissue mass with bone erosion",
+  "distribution": "bone + bone marrow, lymph nodes, thymus, ear, liver and spleen, gallbladder, GI",
+  "discriminating_features": [
+    "characteristic beveled edge = asymmetric destruction of inner + outer cortices",
+    "moderately to markedly enhancing soft-tissue mass with bone erosion",
+    "low to intermediate SI on T1WI + hyperintense T2WI",
+    "diffuse avid contrast enhancement (fat suppression!)",
+    "depicts intracranial extension of LCH"
+  ],
+  "other_features": {
+    "general": [],
+    "XRAY": [
+      "osteolytic bone lesions 1-15 cm in diameter:",
+      "geographic / permeative / moth-eaten configuration",
+      "well- / poorly defined borders",
+      "± sclerosis"
+    ],
+    "CT": [
+      "moderately to markedly enhancing soft-tissue mass with bone erosion"
+    ],
+    "MR": [
+      "low to intermediate SI on T1WI + hyperintense T2WI",
+      "diffuse avid contrast enhancement (fat suppression!)",
+      "depicts intracranial extension of LCH"
+    ],
+    "NUC": [
+      "negative bone scans in 35% (radiographs more sensitive)",
+      "bone lesions generally not 67Ga avid",
+      "67Ga may be helpful for detecting nonosseous lesions"
+    ],
+    "Bone": [
+      "bone lesions: in 80% (most common radiographic manifestation)",
+      "well-defined lytic \"punched-out\" lesion of skull",
+      "characteristic beveled edge = asymmetric destruction of inner + outer cortices",
+      "geographic skull = skull lesions may grow in size and coalesce",
+      "soft-tissue component : T1-isointense + T2-hyperintense + enhancement; isoechoic",
+      "\"floating teeth\" = destruction of alveolar ridge",
+      "lytic lesion in early disease",
+      "vertebra plana = symmetric uniform vertebral collapse + preservation of intervertebral",
+      "lytic expansile aggressive lesion (in early disease)",
+      "cortical thickening, smooth periosteal reaction",
+      "extramedullary soft-tissue component with decreased T1 + increased T2 signal",
+      "increased radiotracer uptake on bone scan; may be falsely negative (not uncommon)",
+      "lesion resolution turning sclerotic ← periosteal new bone + sharply defined sclerotic",
+      "osteolytic skull lesions with overlying soft-tissue nodules",
+      "\"geographic skull\" = ovoid / serpiginous destruction of large area",
+      "\"floating teeth\" with mandibular involvement",
+      "destruction of petrous ridge + mastoids + sella turcica"
+    ],
+    "Liver": [
+      "hepatomegaly + focal solid / cystlike lesions",
+      "hypoattenuating, hypoechoic, hypointense T1 and T2 signal along biliary tracts + portal",
+      "hepatosplenomegaly (rare)",
+      "scattered echogenic / hypoattenuating liver granuloma",
+      "lymphadenopathy (may be massive)",
+      "gallbladder wall thickening (from infiltration)"
+    ],
+    "Spleen (< 15%)": [
+      "splenomegaly → hypersplenism → cytopenias"
+    ],
+    "Lymph Nodes": [
+      "hard / soft matted groups of nodes → lymphedema"
+    ],
+    "CNS": [
+      "loss of normal posterior pituitary bright spot",
+      "thickening of pituitary stalk (~70%) on CEMR",
+      "leukoencephalopathy-like white matter changes",
+      "lesions in meninges + choroid plexus"
+    ],
+    "Lung": [
+      "centrilobular micronodules",
+      "usually < 1 cm cysts ± confluence to bulla formation → recurrent spontaneous",
+      "pleural effusion + enlarged hilar lymph nodes (rare)",
+      "cyst + bleb formation → spontaneous pneumothorax (25%)",
+      "ill-defined diffuse nodular infiltration often progressing to fibrosis + honeycomb lung"
+    ],
+    "Skull (40-50%)": [
+      "round / ovoid punched-out lytic lesion:",
+      "beveled edge / \"hole-within-hole\" appearance ← asymmetric destruction of inner +",
+      "sharply marginated without sclerotic rim (DDx: epidermoid with bone sclerosis)",
+      "sclerotic margin during healing phase (50%)",
+      "\"button sequestrum\" = remnants of bone as a central bone density within a lytic lesion",
+      "soft-tissue mass overlying the lytic process in calvarium (often palpable)"
+    ],
+    "CNS involvement": [
+      "thickening of the infundibular stalk > 3 mm",
+      "isodense markedly homogeneously enhancing mass in superior aspect of stalk /",
+      "absence of posterior pituitary \"bright spot\" on T1WI",
+      "partially / completely empty sella",
+      "threadlike narrowing of infundibulum (< 1 mm)"
+    ],
+    "Orbit": [
+      "osseous destruction + soft-tissue mass extending into orbit / temporal fossa / forehead /",
+      "diffuse orbital disease with multiple osteolytic bone lesions"
+    ],
+    "Mastoid process": [
+      "destructive lesion near mastoid antrum"
+    ],
+    "Jaw": [
+      "\"floating\" teeth = destruction of alveolar bone",
+      "mandibular fracture"
+    ],
+    "Axial skeleton (8-25%)": [
+      "\"vertebra plana\" = \"coin on edge\" = Calvé disease (6%) = collapse of vertebra (most",
+      "pertinent negatives:",
+      "increased opacity in collapsed vertebral body",
+      "absence of osteolysis",
+      "preserved disk space + pedicles",
+      "rare involvement of posterior elements",
+      "no kyphosis",
+      "absence of adjacent paravertebral soft-tissue",
+      "lytic lesion in supraacetabular region"
+    ],
+    "Rib (9-15%)": [
+      "rib lesions with fractures (common)",
+      "± perilesional edema, especially in early phase"
+    ],
+    "Proximal long bones (15-33%)": [
+      "expansile lytic lesion with ill-defined / sclerotic edges",
+      "endosteal scalloping, widening of medullary cavity",
+      "cortical thinning, intracortical tunneling",
+      "erosion of cortex + soft-tissue mass",
+      "laminated periosteal reaction (frequent), may show interruptions",
+      "may appear rapidly within 3 weeks",
+      "lesions respect joint space + growth plate"
+    ],
+    "GI tract": [
+      "diffuse concentric bowel wall thickening"
+    ],
+    "Thymus": [
+      "enlarged thymus + punctate calcifications",
+      "hepatosplenomegaly + lymphadenopathy (most often cervical)",
+      "obstructive jaundice"
+    ],
+    "Bone involvement (50%):": [
+      "widespread multiple lytic lesions; \"raindrop\" pattern in calvarium"
+    ]
+  },
+  "clinical": {
+    "N.B.": "calvarial disease lacks periosteal reaction",
+    "Cx": "progressive sclerosing cholangitis",
+    "Prognosis": "reconstitution of vertebral height is usual"
+  }
+}

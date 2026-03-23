@@ -1,0 +1,105 @@
+{
+  "finding": "EXTRA-ARTICULAR MANIFESTATIONS (50-76%",
+  "slug": "extra_articular_manifestations_50_76_3804c4",
+  "chapter": "Dialysis-associated Disorders",
+  "source_file": "processed_clusters/dialysis_associated_disorders/extra_articular_manifestations_50_76_3804c4.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "rapid weight loss; therapy refractory leg ulcers",
+      "raw": "rapid weight loss; therapy refractory leg ulcers",
+      "frequency": null
+    },
+    {
+      "name": "brown pigmentation over exposed surfaces of extremities (b)  Sjögren syndrome (15%) =  keratoconjunctivitis + xerostomia + rheumatoid arthritis (c)  Rheumatoid lung (d)  Subcutaneous nodules (in 5-35% with active arthritis) over extensor surfaces of forearm + other pressure points",
+      "raw": "brown pigmentation over exposed surfaces of extremities (b)  Sjögren syndrome (15%) =  keratoconjunctivitis + xerostomia + rheumatoid arthritis (c)  Rheumatoid lung (d)  Subcutaneous nodules (in 5-35% with active arthritis) over extensor surfaces of forearm + other pressure points",
+      "frequency": "15%"
+    },
+    {
+      "name": "Pericarditis",
+      "raw": "Pericarditis (20-50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Myocarditis: arrhythmia, heart block",
+      "raw": "Myocarditis: arrhythmia, heart block",
+      "frequency": null
+    },
+    {
+      "name": "Aortitis",
+      "raw": "Aortitis (5%) of ascending aorta → aneurysm (2%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Leaflet thickening of aortic valve → regurgitation (f)  Rheumatoid vasculitis =  leukocytoclastic lesion of small venules mimicking periarteritis nodosa",
+      "raw": "Leaflet thickening of aortic valve → regurgitation (f)  Rheumatoid vasculitis =  leukocytoclastic lesion of small venules mimicking periarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "polyneuropathy, cutaneous ulceration, gangrene, polymyopathy, myocardial / visceral infarction (g)  Neurologic sequelae [Distal neuropathy]",
+      "raw": "polyneuropathy, cutaneous ulceration, gangrene, polymyopathy, myocardial / visceral infarction (g)  Neurologic sequelae",
+      "frequency": null,
+      "sites": [
+        "Distal neuropathy"
+      ]
+    },
+    {
+      "name": "Nerve entrapment: atlantoaxial subluxation, carpal tunnel syndrome, Baker cyst",
+      "raw": "Nerve entrapment: atlantoaxial subluxation, carpal tunnel syndrome, Baker cyst (h)  Lymphadenopathy (up to 25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "seronegative in 50%",
+      "raw": "seronegative in 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "morning stiffness, arthralgia; subcutaneous nodules",
+      "raw": "morning stiffness, arthralgia; subcutaneous nodules (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "skin rash (50%); fever, lymphadenopathy Location:   early involvement of large joints (hips, knees, ankles, wrists, elbows); later of hands + feet",
+      "raw": "skin rash (50%); fever, lymphadenopathy Location:   early involvement of large joints (hips, knees, ankles, wrists, elbows); later of hands + feet",
+      "frequency": "50%"
+    },
+    {
+      "name": "Juvenile-onset adult type",
+      "raw": "Juvenile-onset adult type (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "IgM RA factor positive; age 8-9; poor prognosis",
+      "raw": "IgM RA factor positive; age 8-9; poor prognosis",
+      "frequency": null
+    },
+    {
+      "name": "Polyarthritis of the ankylosing spondylitic type",
+      "raw": "Polyarthritis of the ankylosing spondylitic type",
+      "frequency": null
+    },
+    {
+      "name": "iridocyclitis; boys age 9-11 years",
+      "raw": "iridocyclitis; boys age 9-11 years",
+      "frequency": null
+    },
+    {
+      "name": "Still disease",
+      "raw": "Still disease (a)  systemic (b)  polyarticular (c)  pauciarticular + iridocyclitis (30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "fever, rash, lymphadenopathy, hepatosplenomegaly; pericarditis, dwarfism",
+      "raw": "fever, rash, lymphadenopathy, hepatosplenomegaly; pericarditis, dwarfism",
+      "frequency": null
+    },
+    {
+      "name": "fatal kidney disease in 20%",
+      "raw": "fatal kidney disease in 20%",
+      "frequency": "20%"
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  Felty syndrome (< 1%) =  rheumatoid arthritis (present for > 10 years) + splenomegaly + neutropenia Age:   40-70 years; F > M; rare in Blacks (eg, olecranon) without calcifications (DDx to gout) (e)  Cardiovascular involvement √  splenomegaly (1-5%) Cystic Rheumatoid Arthritis =  intraosseous cystic lesions as dominant feature Pathogenesis:   increased pressure in synovial space from joint effusion → decompresses through microfractures of weakened marginal cortex into subarticular bone ◊  Increase in size + extent of cysts correlates with increased level of activity + absence of synovial"
+}

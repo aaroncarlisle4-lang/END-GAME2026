@@ -1,0 +1,57 @@
+{
+  "finding": "Destructive Sacral Lesion",
+  "slug": "destructive_sacral_lesion_a3a9ee",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/destructive_sacral_lesion_a3a9ee.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoma: chondrosarcoma",
+      "raw": "Sarcoma: chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma",
+      "raw": "Plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma, myxopapillary",
+      "raw": "Ependymoma, myxopapillary",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "B. VASCULAR DISEASE (18-26%",
+  "slug": "b_vascular_disease_18_26_004fe5",
+  "chapter": "Calcification of Pyelocaliceal System",
+  "source_file": "processed_clusters/calcification_of_pyelocaliceal_system/b_vascular_disease_18_26_004fe5.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ruptured renal artery aneurysm",
+      "raw": "Ruptured renal artery aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Vasculitis: eg, polyarteritis nodosa in 13%",
+      "raw": "Vasculitis: eg, polyarteritis nodosa in 13%",
+      "frequency": "13%"
+    },
+    {
+      "name": "Arteriovenous malformation",
+      "raw": "Arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Segmental renal infarction",
+      "raw": "Segmental renal infarction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

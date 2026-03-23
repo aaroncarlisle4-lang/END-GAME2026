@@ -1,0 +1,27 @@
+{
+  "finding": "B. INTRARENAL",
+  "slug": "b_intrarenal",
+  "chapter": "B. LOSS OF PERFUSION",
+  "source_file": "processed_clusters/b_loss_of_perfusion/b_intrarenal.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hereditary nephropathies: medullary cystic disease, hereditary chronic nephritis",
+      "raw": "Hereditary nephropathies: medullary cystic disease, hereditary chronic nephritis (Alport syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Chronic glomerulonephritis",
+      "raw": "Chronic glomerulonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis (late)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

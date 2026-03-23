@@ -1,0 +1,62 @@
+{
+  "finding": "Homogeneously Enhancing Well-Demarcated Round Lesion",
+  "slug": "homogeneously_enhancing_well_demarcated_round_lesion_ac45a3",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/homogeneously_enhancing_well_demarcated_round_lesion_ac45a3.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibroadenoma: endotumoral septa",
+      "raw": "Fibroadenoma: endotumoral septa",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Papilloma",
+      "raw": "Papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma ›  Rare",
+      "raw": "Carcinoma ›  Rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "Intramammary node:",
+      "raw": "Intramammary node:",
+      "frequency": null
+    },
+    {
+      "name": "Fat necrosis:",
+      "raw": "Fat necrosis:",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma: esp. medullary form",
+      "raw": "Carcinoma: esp. medullary form",
+      "frequency": null
+    },
+    {
+      "name": "Phylloides tumor",
+      "raw": "Phylloides tumor",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Homogeneous enhancement suggests benign disease! ›  Common √  lipomatous hilum √  macrocalcifications on mammogram"
+}

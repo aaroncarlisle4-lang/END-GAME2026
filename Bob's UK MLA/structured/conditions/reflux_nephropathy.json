@@ -1,0 +1,39 @@
+{
+  "name": "REFLUX NEPHROPATHY",
+  "slug": "reflux_nephropathy",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/reflux_nephropathy.md",
+  "definition": "CHRONIC ATROPHIC PYELONEPHRITIS ascending bacterial urinary tract infection ← reflux of infected urine from lower tract +",
+  "demographics": {
+    "Etiology": "3 essential elements:",
+    "Age": "usually young adults (subclinical diagnosis starting in childhood); M < F"
+  },
+  "dominant_finding": "focally increased echogenicity within cortex ← scar",
+  "distribution": "normal / small kidney; uni- / bilateral; uni- / multifocal",
+  "discriminating_features": [
+    "normal / small kidney; uni- / bilateral; uni- / multifocal",
+    "focal parenchymal thinning with contour depression in upper / lower pole (more compound",
+    "retracted papilla with clubbed calyx subjacent to scar",
+    "contralateral / focal compensatory hypertrophy (= renal pseudotumor)",
+    "dilated ureters ← reflux, sometimes with linear striations (= redundant / edematous mucosa)"
+  ],
+  "other_features": {
+    "general": [
+      "normal / small kidney; uni- / bilateral; uni- / multifocal",
+      "focal parenchymal thinning with contour depression in upper / lower pole (more compound",
+      "retracted papilla with clubbed calyx subjacent to scar",
+      "contralateral / focal compensatory hypertrophy (= renal pseudotumor)",
+      "dilated ureters ← reflux, sometimes with linear striations (= redundant / edematous mucosa)"
+    ],
+    "US": [
+      "focally increased echogenicity within cortex ← scar"
+    ],
+    "ANGIO": [
+      "small tortuous intrarenal arteries, pruning of intrarenal vessels",
+      "vascular stenoses, occlusion, aneurysms",
+      "inhomogeneous nephrographic phase",
+      "focal / multifocal photon-deficient areas"
+    ]
+  },
+  "clinical": {}
+}

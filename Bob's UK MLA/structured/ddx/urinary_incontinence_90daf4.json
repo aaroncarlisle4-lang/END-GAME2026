@@ -1,0 +1,192 @@
+{
+  "finding": "Urinary Incontinence",
+  "slug": "urinary_incontinence_90daf4",
+  "chapter": "VOIDING DYSFUNCTION",
+  "source_file": "processed_clusters/voiding_dysfunction/urinary_incontinence_90daf4.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Stress incontinence",
+      "raw": "Stress incontinence",
+      "frequency": null
+    },
+    {
+      "name": "Vesicovaginal / ureterovaginal fistula",
+      "raw": "Vesicovaginal / ureterovaginal fistula",
+      "frequency": null
+    },
+    {
+      "name": "Urge incontinence",
+      "raw": "Urge incontinence",
+      "frequency": null
+    },
+    {
+      "name": "Psychogenic incontinence",
+      "raw": "Psychogenic incontinence",
+      "frequency": null
+    },
+    {
+      "name": "Overflow incontinence ← lesions of sacral spinal cord / sacral reflex arc or severe outlet obstruction",
+      "raw": "Overflow incontinence ← lesions of sacral spinal cord / sacral reflex arc or severe outlet obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Reflex voiding (a)  hyperreflexive lesion ← lesion of upper spinal cord (b)  uninhibited / unstable bladder",
+      "raw": "Reflex voiding (a)  hyperreflexive lesion ← lesion of upper spinal cord (b)  uninhibited / unstable bladder",
+      "frequency": null
+    },
+    {
+      "name": "Continual dribbling =  extravesical ectopic termination of ureter",
+      "raw": "Continual dribbling =  extravesical ectopic termination of ureter",
+      "frequency": null
+    },
+    {
+      "name": "Stress urinary incontinence",
+      "raw": "Stress urinary incontinence",
+      "frequency": null
+    },
+    {
+      "name": "Overactive bladder = urge incontinence",
+      "raw": "Overactive bladder = urge incontinence",
+      "frequency": null
+    },
+    {
+      "name": "Bladder outlet obstruction",
+      "raw": "Bladder outlet obstruction",
+      "frequency": null
+    },
+    {
+      "name": "frequency, urgency",
+      "raw": "frequency, urgency (involuntary filling of bladder neck)",
+      "frequency": null
+    },
+    {
+      "name": "Symptoms of nocturnal enuresis + frequency / incontinence dating back to childhood",
+      "raw": "Symptoms of nocturnal enuresis + frequency / incontinence dating back to childhood",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic instability occurring in middle age",
+      "raw": "Idiopathic instability occurring in middle age",
+      "frequency": null
+    },
+    {
+      "name": "Outflow obstruction commonly in men with BPH / women with pelvic floor dysfunction",
+      "raw": "Outflow obstruction commonly in men with BPH / women with pelvic floor dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "Degenerative instability ← cardiovascular + neurologic disease later in life",
+      "raw": "Degenerative instability ← cardiovascular + neurologic disease later in life",
+      "frequency": null
+    },
+    {
+      "name": "frequency, urgency, urge incontinence, occasionally nocturia",
+      "raw": "frequency, urgency, urge incontinence, occasionally nocturia",
+      "frequency": null
+    },
+    {
+      "name": "hesitancy + difficulty in voiding may occur in men without significant prostatic hypertrophy",
+      "raw": "hesitancy + difficulty in voiding may occur in men without significant prostatic hypertrophy",
+      "frequency": null
+    },
+    {
+      "name": "frequency, urgency, sometimes nocturia",
+      "raw": "frequency, urgency, sometimes nocturia",
+      "frequency": null
+    },
+    {
+      "name": "difficulty in voiding ± frequency",
+      "raw": "difficulty in voiding ± frequency",
+      "frequency": null
+    },
+    {
+      "name": "lifelong history of poor stream",
+      "raw": "lifelong history of poor stream",
+      "frequency": null
+    },
+    {
+      "name": "clinical criteria:",
+      "raw": "clinical criteria:",
+      "frequency": null
+    },
+    {
+      "name": "Intact perineal sensation + anal tone",
+      "raw": "Intact perineal sensation + anal tone",
+      "frequency": null
+    },
+    {
+      "name": "Normal anatomy + function of lower extremities",
+      "raw": "Normal anatomy + function of lower extremities",
+      "frequency": null
+    },
+    {
+      "name": "Absence of skin lesions overlying sacrum",
+      "raw": "Absence of skin lesions overlying sacrum",
+      "frequency": null
+    },
+    {
+      "name": "Normal lumbosacral spine at plain radiography",
+      "raw": "Normal lumbosacral spine at plain radiography",
+      "frequency": null
+    },
+    {
+      "name": "Normal spinal cord at MR imaging",
+      "raw": "Normal spinal cord at MR imaging",
+      "frequency": null
+    },
+    {
+      "name": "Enuresis =  manifestation of neuromuscular vesicourethral immaturity; M÷F = 3÷2",
+      "raw": "Enuresis =  manifestation of neuromuscular vesicourethral immaturity; M÷F = 3÷2",
+      "frequency": null
+    },
+    {
+      "name": "intermittent wetting, usually at night during sleep",
+      "raw": "intermittent wetting, usually at night during sleep",
+      "frequency": null
+    },
+    {
+      "name": "often positive history of enuresis from one parent",
+      "raw": "often positive history of enuresis from one parent",
+      "frequency": null
+    },
+    {
+      "name": "normal physical examination",
+      "raw": "normal physical examination",
+      "frequency": null
+    },
+    {
+      "name": "Epispadia",
+      "raw": "Epispadia",
+      "frequency": null
+    },
+    {
+      "name": "Sacral agenesis =  segmental defect (below S2) with deficiency of nerves that innervate bladder, urethra, rectum, feet ◊  Children of diabetic mothers are affected in 17%!",
+      "raw": "Sacral agenesis =  segmental defect (below S2) with deficiency of nerves that innervate bladder, urethra, rectum, feet ◊  Children of diabetic mothers are affected in 17%!",
+      "frequency": "17%"
+    },
+    {
+      "name": "Extravesical infrasphincteric ectopic ureter only affects girls, as boys do NOT have infrasphincteric ureteral orifices",
+      "raw": "Extravesical infrasphincteric ectopic ureter only affects girls, as boys do NOT have infrasphincteric ureteral orifices (a)  ureter draining upper pole of duplex system → exits below urethral sphincter (90%) (b)  ureter draining single system → ectopic extravesical orifice (10%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Synechia vulvae =  adhesive fusion of minor labia → directs urine primarily into vagina, from where it dribbles out post micturition",
+      "raw": "Synechia vulvae =  adhesive fusion of minor labia → directs urine primarily into vagina, from where it dribbles out post micturition",
+      "frequency": null
+    },
+    {
+      "name": "Vaginal reflux in obese older girls with fat thighs and fat labia",
+      "raw": "Vaginal reflux in obese older girls with fat thighs and fat labia",
+      "frequency": null
+    },
+    {
+      "name": "Miscellaneous posterior urethral valves, urethral stricture, urethral diverticula",
+      "raw": "Miscellaneous posterior urethral valves, urethral stricture, urethral diverticula",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Associated with pelvic floor dysfunction: Stress Incontinence =  SPHINCTER WEAKNESS INCONTINENCE= URETHRAL INCOMPETENCE =  involuntary loss of urine during physical activity such as coughing, sneezing, laughing, exercise Cause: (a)  male: S/P prostatectomy with damage to distal sphincter (b)  female: congenital bladder neck weakness, pregnancy, childbirth, aging ← changes in anatomic relationship of urethra + bladder base √  opening of bladder neck during coughing √  impairment of milk-back mechanism (= retrograde emptying of urethra during interruption of voiding phase does not occur) √  uret"
+}

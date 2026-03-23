@@ -1,0 +1,37 @@
+{
+  "finding": "Radial Scar — T2WI (DDx)",
+  "slug": "radial_scar_t2wi_ddx_59cc53",
+  "chapter": "Radial Scar",
+  "source_file": "processed_clusters/radial_scar/radial_scar_t2wi_ddx_59cc53.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "carcinoma",
+      "raw": "carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "postsurgical scar",
+      "raw": "postsurgical scar",
+      "frequency": null
+    },
+    {
+      "name": "fat necrosis",
+      "raw": "fat necrosis",
+      "frequency": null
+    },
+    {
+      "name": "fibromatosis",
+      "raw": "fibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "granular cell myoblastoma",
+      "raw": "granular cell myoblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "no skin thickening / retraction | stellate lesion with SI equal to parenchyma (difficult / impossible to visualize within | slight to moderate uptake with nonspecific curve | no characteristic finding"
+}

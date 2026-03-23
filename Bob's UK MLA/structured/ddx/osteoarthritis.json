@@ -1,0 +1,82 @@
+{
+  "finding": "OSTEOARTHRITIS",
+  "slug": "osteoarthritis",
+  "chapter": "NODULAR FASCIITIS",
+  "source_file": "processed_clusters/nodular_fasciitis/osteoarthritis.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "abnormal forces acting on a normal joint",
+      "raw": "abnormal forces acting on a normal joint (eg, slipped capital femoral epiphysis)",
+      "frequency": null
+    },
+    {
+      "name": "normal forces acting on abnormal joint due to",
+      "raw": "normal forces acting on abnormal joint due to (a)  cartilage abnormality (b)  subchondral bone abnormality Path:   ↓ chondroitin sulfate with age creates unsupported collagen fibrils → irreversible hyaline cartilage degeneration (= inability for regeneration)",
+      "frequency": null
+    },
+    {
+      "name": "Epiphyseal dysplasia, multiple",
+      "raw": "Epiphyseal dysplasia, multiple",
+      "frequency": null
+    },
+    {
+      "name": "Ochronosis",
+      "raw": "Ochronosis",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Milwaukee Shoulder",
+      "raw": "Milwaukee Shoulder",
+      "frequency": null
+    },
+    {
+      "name": "Complete rotator cuff tear",
+      "raw": "Complete rotator cuff tear",
+      "frequency": null
+    },
+    {
+      "name": "Osteoarthritic changes",
+      "raw": "Osteoarthritic changes",
+      "frequency": null
+    },
+    {
+      "name": "Noninflammatory joint effusion containing calcium hydroxyapatite and calcium pyrophosphate dihydrate (CPPD) crystals",
+      "raw": "Noninflammatory joint effusion containing calcium hydroxyapatite and calcium pyrophosphate dihydrate (CPPD) crystals",
+      "frequency": null
+    },
+    {
+      "name": "Hyperplasia of synovium",
+      "raw": "Hyperplasia of synovium",
+      "frequency": null
+    },
+    {
+      "name": "Destruction of cartilage + subchondral bone",
+      "raw": "Destruction of cartilage + subchondral bone",
+      "frequency": null
+    },
+    {
+      "name": "Multiple osteochondral loose bodies",
+      "raw": "Multiple osteochondral loose bodies",
+      "frequency": null
+    },
+    {
+      "name": "frequent history of trauma",
+      "raw": "frequent history of trauma",
+      "frequency": "frequent"
+    },
+    {
+      "name": "rapidly progressive arthritis of shoulder",
+      "raw": "rapidly progressive arthritis of shoulder",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  DEGENERATIVE JOINT DISEASE = ARTHROSIS =  predominantly noninflammatory degeneration of cartilage in synovial joints ◊  Most common arthropathy ← repetitive articular cartilage damage Age:   prevalence increasing with age Cause: √  joint space narrowing (stage III) = inaccurate indicator of cartilage integrity √  subchondral sclerosis / eburnation in areas of stress √  subchondral cyst formation (geodes) √  increased joint fluid √  synovial inflammation (in severe osteoarthritis) √  osteophytosis at articular margin / nonstressed area US: √  step-up prominences of cortex = peripheral margin"
+}

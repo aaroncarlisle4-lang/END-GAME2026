@@ -1,0 +1,27 @@
+{
+  "finding": "Lymphangioma (DDx)",
+  "slug": "lymphangioma_ddx_d83f11",
+  "chapter": "Lymphangioma",
+  "source_file": "processed_clusters/lymphangioma/lymphangioma_ddx_d83f11.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hemangioma (different location",
+      "raw": "hemangioma (different location",
+      "frequency": null
+    },
+    {
+      "name": "feeding vessels",
+      "raw": "feeding vessels",
+      "frequency": null
+    },
+    {
+      "name": "contrast enhancement)",
+      "raw": "contrast enhancement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "low signal intensity on T1WI | high SI lesion with low-SI septations of variable thickness on T2WI | may be hyperintense on T1WI ← clotted blood / high chylous lipid content / high protein | ± fluid-fluid level (if hemorrhage present)"
+}

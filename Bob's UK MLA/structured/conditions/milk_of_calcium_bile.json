@@ -1,0 +1,27 @@
+{
+  "name": "MILK OF CALCIUM BILE",
+  "slug": "milk_of_calcium_bile",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/milk_of_calcium_bile.md",
+  "definition": "LIMY BILE = CALCIUM SOAP precipitation of particulate material with high concentration of calcium carbonate, calcium",
+  "demographics": {
+    "Associated with": "chronic cholecystitis + gallstone obstruction of cystic duct"
+  },
+  "dominant_finding": "intermediate features between sludge + gallstones",
+  "distribution": "diffuse opacification of GB lumen with dependent layering",
+  "discriminating_features": [
+    "diffuse opacification of GB lumen with dependent layering",
+    "usually functionless GB on oral cholecystogram",
+    "intermediate features between sludge + gallstones"
+  ],
+  "other_features": {
+    "general": [
+      "diffuse opacification of GB lumen with dependent layering",
+      "usually functionless GB on oral cholecystogram"
+    ],
+    "US": [
+      "intermediate features between sludge + gallstones"
+    ]
+  },
+  "clinical": {}
+}

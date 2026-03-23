@@ -1,0 +1,27 @@
+{
+  "finding": "B. INFECTION / INFLAMMATION",
+  "slug": "b_infection_inflammation_4_27caf8",
+  "chapter": "Enlarged Lymph Nodes of Porta Hepatis",
+  "source_file": "processed_clusters/enlarged_lymph_nodes_of_porta_hepatis/b_infection_inflammation_4_27caf8.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Autoimmune diseases",
+      "raw": "Autoimmune diseases",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

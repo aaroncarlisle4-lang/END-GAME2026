@@ -1,0 +1,27 @@
+{
+  "finding": "Cholangitis — Liver parenchyma (DDx)",
+  "slug": "cholangitis_liver_parenchyma_ddx_448171",
+  "chapter": "Cholangitis",
+  "source_file": "processed_clusters/cholangitis/cholangitis_liver_parenchyma_ddx_448171.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "acalculous cholecystitis",
+      "raw": "acalculous cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "papillary stenosis",
+      "raw": "papillary stenosis",
+      "frequency": null
+    },
+    {
+      "name": "sclerosing cholangitis",
+      "raw": "sclerosing cholangitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "irregular wall thickening of dilated CBD ← papillary stenosis | thickened gallbladder wall ← acalculous cholecystitis | strictures + beading of central intrahepatic bile ducts | pruning of peripheral bile ducts"
+}

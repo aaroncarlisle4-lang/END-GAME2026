@@ -1,0 +1,47 @@
+{
+  "finding": "Hyperthyroidism with Low Radioiodine Uptake",
+  "slug": "hyperthyroidism_with_low_radioiodine_uptake",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/hyperthyroidism_with_low_radioiodine_uptake.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Iodine-induced hyperthyroidism = Jod-Basedow",
+      "raw": "Iodine-induced hyperthyroidism = Jod-Basedow",
+      "frequency": null
+    },
+    {
+      "name": "Foods: seaweed, sushi, Japanese cuisine, Portuguese stew",
+      "raw": "Foods: seaweed, sushi, Japanese cuisine, Portuguese stew",
+      "frequency": null
+    },
+    {
+      "name": "Health food supplement: Kelp tablets",
+      "raw": "Health food supplement: Kelp tablets",
+      "frequency": null
+    },
+    {
+      "name": "Radiographic contrast agent: renografin, Gastrografin®",
+      "raw": "Radiographic contrast agent: renografin, Gastrografin®",
+      "frequency": null
+    },
+    {
+      "name": "Topical antiseptic: povidone iodine, iodoform gauze",
+      "raw": "Topical antiseptic: povidone iodine, iodoform gauze",
+      "frequency": null
+    },
+    {
+      "name": "Medication: amiodarone, Entero-Vioform®, COMBID®, iodine-containing expectorants",
+      "raw": "Medication: amiodarone, Entero-Vioform®, COMBID®, iodine-containing expectorants",
+      "frequency": null
+    },
+    {
+      "name": "Iodine solutions: KI, Lugol's solution, saturated solution of potassium iodide",
+      "raw": "Iodine solutions: KI, Lugol's solution, saturated solution of potassium iodide",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Mechanism of low thyroid uptake: large serum concentration of exogenous non-radioactive iodine dilutes radioiodine tracer Sources of iodine: Wolff-Chaikoff effect = continued organification of iodine is inhibited once intrathyroidal iodide stores reach a critical level Escape from the Wolff-Chaikoff effect = intrathyroidal level of iodide decreases despite persistent high serum iodine levels → iodide organification and thyroid hormone synthesis resume Duration:  weeks - months"
+}

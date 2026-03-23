@@ -1,0 +1,32 @@
+{
+  "finding": "Familial Adenomatous Polyposis — Small bowel (< 5%) (DDx)",
+  "slug": "familial_adenomatous_polyposis_small_bowel_5_ddx_75f145",
+  "chapter": "Familial Adenomatous Polyposis",
+  "source_file": "processed_clusters/familial_adenomatous_polyposis/familial_adenomatous_polyposis_small_bowel_5_ddx_75f145.md",
+  "quality_score": 0.65,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "other polyposes",
+      "raw": "other polyposes",
+      "frequency": null
+    },
+    {
+      "name": "lymphoid hyperplasia",
+      "raw": "lymphoid hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "lymphosarcoma",
+      "raw": "lymphosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "ulcerative colitis with inflammatory pseudopolyps",
+      "raw": "ulcerative colitis with inflammatory pseudopolyps",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

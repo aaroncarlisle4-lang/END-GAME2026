@@ -1,0 +1,22 @@
+{
+  "finding": "Bedside Chest Radiography (DDx)",
+  "slug": "bedside_chest_radiography_ddx_1",
+  "chapter": "Bedside Chest Radiography",
+  "source_file": "processed_clusters/bedside_chest_radiography/bedside_chest_radiography_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "(a)   interstitial pulmonary edema changes daily (b)   pneumonia (CMV",
+      "raw": "(a)   interstitial pulmonary edema changes daily (b)   pneumonia (CMV",
+      "frequency": null
+    },
+    {
+      "name": "pneumocystis)",
+      "raw": "pneumocystis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "not visible in 30% | slowly progressing, often multifocal patchy areas of consolidation / poorly defined | air bronchograms | cavitation (most specific finding)"
+}

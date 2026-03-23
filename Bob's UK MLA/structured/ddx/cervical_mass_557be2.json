@@ -1,0 +1,42 @@
+{
+  "finding": "Cervical Mass",
+  "slug": "cervical_mass_557be2",
+  "chapter": "CERVIX",
+  "source_file": "processed_clusters/cervix/cervical_mass_557be2.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibroid",
+      "raw": "Fibroid",
+      "frequency": null
+    },
+    {
+      "name": "Cervical carcinoma",
+      "raw": "Cervical carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Endocervical polyp",
+      "raw": "Endocervical polyp",
+      "frequency": null
+    },
+    {
+      "name": "Nabothian cyst",
+      "raw": "Nabothian cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cervical leiomyoma",
+      "raw": "Cervical leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis Use of transducer pressure may show lesion mobility if a lesion is in the endocervical canal (pedunculated intracavitary myoma / polyp). Lesions arising from the cervical stroma will remain fixed in position with transducer pressure.",
+      "raw": "Endometriosis Use of transducer pressure may show lesion mobility if a lesion is in the endocervical canal (pedunculated intracavitary myoma / polyp). Lesions arising from the cervical stroma will remain fixed in position with transducer pressure.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,72 @@
+{
+  "finding": "Genitourinary Manifestations of NF1 (rare",
+  "slug": "genitourinary_manifestations_of_nf1_rare_7fcb6a",
+  "chapter": "NEUROFIBROMATOSIS",
+  "source_file": "processed_clusters/neurofibromatosis/genitourinary_manifestations_of_nf1_rare_7fcb6a.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal artery stenosis",
+      "raw": "Renal artery stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Urinary bladder neurofibroma",
+      "raw": "Urinary bladder neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "symptoms of urinary tract obstruction: frequency, urgency, incontinence, hematuria, abdominal pain",
+      "raw": "symptoms of urinary tract obstruction: frequency, urgency, incontinence, hematuria, abdominal pain",
+      "frequency": null
+    },
+    {
+      "name": "pulsatile exophthalmos / unilateral proptosis",
+      "raw": "pulsatile exophthalmos / unilateral proptosis (herniation of subarachnoid space + temporal lobe into orbit)",
+      "frequency": null
+    },
+    {
+      "name": "buphthalmos",
+      "raw": "buphthalmos",
+      "frequency": null
+    },
+    {
+      "name": "Plexiform neurofibroma",
+      "raw": "Plexiform neurofibroma (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Lisch nodules =  PATHOGNOMONIC asymptomatic melanocytic iris hamartomas < 2 mm in size",
+      "raw": "Lisch nodules =  PATHOGNOMONIC asymptomatic melanocytic iris hamartomas < 2 mm in size",
+      "frequency": null
+    },
+    {
+      "name": "yellow / brown pigmented nodular elevations projecting from surface of iris; mostly bilateral",
+      "raw": "yellow / brown pigmented nodular elevations projecting from surface of iris; mostly bilateral",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "Optic glioma",
+      "raw": "Optic glioma (in 12% of patients, in 4% bilateral)",
+      "frequency": "12%"
+    },
+    {
+      "name": "Perioptic meningioma",
+      "raw": "Perioptic meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Choroidal hamartoma: in 50% of patients",
+      "raw": "Choroidal hamartoma: in 50% of patients",
+      "frequency": "50%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  plexiform neurofibroma with vascular narrowing Origin:   vesicoprostatic (male) / urethrovaginal neural plexus (female) √  solitary hypoechoic bladder wall mass √  diffuse bladder wall thickening; mass may surround uterus, vagina, sigmoid colon √  scalloped contour of urinary bladder Cx:  hydronephrosis Ocular Manifestations in NF1 (6%) Age:  5-10 years; > 20 years of age in > 90% Age:  75% in 1st decade √  extension into optic chiasm (up to 25%), optic tracts, optic radiation √  increased intensity on T2WI if chiasm and visual pathway involved"
+}

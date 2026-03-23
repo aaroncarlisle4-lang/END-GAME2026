@@ -1,0 +1,42 @@
+{
+  "finding": "Adrenal Tuberculosis 6%",
+  "slug": "adrenal_tuberculosis_6",
+  "chapter": "IVP (abnormal in 85-90%",
+  "source_file": "processed_clusters/ivp_abnormal_in_85_90/adrenal_tuberculosis_6.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Addisonian type clinical picture",
+      "raw": "Addisonian type clinical picture",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous prostatitis / prostatic abscess:",
+      "raw": "Tuberculous prostatitis / prostatic abscess:",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous epididymitis ascending / descending route of infection",
+      "raw": "Tuberculous epididymitis ascending / descending route of infection",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous orchitis (rare) direct extension from epididymal infection, rarely from hematogenous spread",
+      "raw": "Tuberculous orchitis (rare) direct extension from epididymal infection, rarely from hematogenous spread",
+      "frequency": "rare"
+    },
+    {
+      "name": "Salpingitis (94%): mostly bilateral",
+      "raw": "Salpingitis (94%): mostly bilateral",
+      "frequency": "94%"
+    },
+    {
+      "name": "Tuboovarian abscess: → extension into extraperitoneal compartment",
+      "raw": "Tuboovarian abscess: → extension into extraperitoneal compartment",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  5th most common site of extrapulmonary tuberculosis √  bilaterally enlarged glands (91%) √  low-attenuation center + peripheral enhancement (47%) √  dotlike calcifications (59%) Renal Tuberculosis ◊  Renal TB in 5-10% of patients with pulmonary TB! ◊  Radiographic evidence of pulmonary TB in < 50% of patients with renal TB (only 5% have active cavitary TB)! Location:   unilateral (75%) √  renal size: enlarged (early) / small (late) / normal (most common): √  \"putty kidney\" = tuberculous pyonephrosis from ureteral stricture √  autonephrectomy = small shrunken scarred nonfunctioning kidney ±"
+}

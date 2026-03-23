@@ -1,0 +1,37 @@
+{
+  "finding": "Coal Worker Pneumoconiosis (DDx)",
+  "slug": "coal_worker_pneumoconiosis_ddx_cd4cff",
+  "chapter": "Coal Worker Pneumoconiosis",
+  "source_file": "processed_clusters/coal_worker_pneumoconiosis/coal_worker_pneumoconiosis_ddx_cd4cff.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lung cancer",
+      "raw": "lung cancer (increased SI on T2WI)",
+      "frequency": null
+    },
+    {
+      "name": "sarcoidosis",
+      "raw": "sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "berylliosis",
+      "raw": "berylliosis",
+      "frequency": null
+    },
+    {
+      "name": "tuberculosis",
+      "raw": "tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "talcosis",
+      "raw": "talcosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± enlargement + calcifications of mediastinal + hilar lymph nodes | low SI on T1WI + T2WI compared to muscle ← fibrosis | peripheral contrast enhancement | hypermetabolic nodules (majority)"
+}

@@ -1,0 +1,67 @@
+{
+  "finding": "Loss of Disk Space",
+  "slug": "loss_of_disk_space",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/loss_of_disk_space.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Degenerative disk disease",
+      "raw": "Degenerative disk disease",
+      "frequency": null
+    },
+    {
+      "name": "Neuropathic osteoarthropathy",
+      "raw": "Neuropathic osteoarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Dialysis spondyloarthropathy with amyloidosis",
+      "raw": "Dialysis spondyloarthropathy with amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Ochronosis",
+      "raw": "Ochronosis",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis with pseudarthrosis",
+      "raw": "Ankylosing spondylitis with pseudarthrosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Primary / secondary degeneration of nucleus pulposus",
+      "raw": "Primary / secondary degeneration of nucleus pulposus",
+      "frequency": null
+    },
+    {
+      "name": "Intraosseous herniation of disk",
+      "raw": "Intraosseous herniation of disk (= Schmorl node)",
+      "frequency": null
+    },
+    {
+      "name": "Spondylosis deformans",
+      "raw": "Spondylosis deformans (gas in annulus fibrosus)",
+      "frequency": null
+    },
+    {
+      "name": "Adjacent vertebral metastatic disease with vertebral collapse",
+      "raw": "Adjacent vertebral metastatic disease with vertebral collapse",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection (extremely rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Spinal Vacuum Phenomena Pathophysiology: =  gaslike density due to (a)  acute / true vacuum phenomenon ← rapid increase in volume of joint space √  acute protraction of shoulder in children (b)  subacute / chronic vacuum phenomenon √  common in degenerative disk of spine Cause:   reduction of barometric pressure up to 1/20th of atmosphere Location:  joint under traction, spine (a)  nucleus pulposus Osteochondrosis (b)  annulus fibrosus Spondylosis deformans (c)  disk within vertebral body Cartilaginous node (d)  disk within spinal canal Intraspinal disk herniation (e)  apophyseal facet joint O"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "E. RENAL TUMOR (5%",
+  "slug": "e_renal_tumor_5",
+  "chapter": "C. LEFT UPPER QUADRANT",
+  "source_file": "processed_clusters/c_left_upper_quadrant/e_renal_tumor_5.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mesoblastic nephroma",
+      "raw": "Mesoblastic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdoid tumor",
+      "raw": "Rhabdoid tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

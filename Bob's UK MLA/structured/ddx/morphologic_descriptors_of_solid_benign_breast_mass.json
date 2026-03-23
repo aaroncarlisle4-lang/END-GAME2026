@@ -1,0 +1,37 @@
+{
+  "finding": "Morphologic Descriptors of Solid Benign Breast Mass",
+  "slug": "morphologic_descriptors_of_solid_benign_breast_mass",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/morphologic_descriptors_of_solid_benign_breast_mass.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Invasive carcinoma",
+      "raw": "Invasive carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative scar",
+      "raw": "Postoperative scar",
+      "frequency": null
+    },
+    {
+      "name": "Complex sclerosing lesion",
+      "raw": "Complex sclerosing lesion",
+      "frequency": null
+    },
+    {
+      "name": "Microcalcifications",
+      "raw": "Microcalcifications",
+      "frequency": null
+    },
+    {
+      "name": "Dense breast tissue",
+      "raw": "Dense breast tissue",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Posterior Acoustic Shadowing"
+}

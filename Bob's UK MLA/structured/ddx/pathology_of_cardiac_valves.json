@@ -1,0 +1,27 @@
+{
+  "finding": "Pathology of Cardiac Valves",
+  "slug": "pathology_of_cardiac_valves",
+  "chapter": "HEART VALVES",
+  "source_file": "processed_clusters/heart_valves/pathology_of_cardiac_valves.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Degenerative disease",
+      "raw": "Degenerative disease",
+      "frequency": null
+    },
+    {
+      "name": "Inherited cause",
+      "raw": "Inherited cause",
+      "frequency": null
+    },
+    {
+      "name": "Postrheumatic heart disease",
+      "raw": "Postrheumatic heart disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

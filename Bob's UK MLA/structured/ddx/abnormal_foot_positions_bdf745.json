@@ -1,0 +1,62 @@
+{
+  "finding": "Abnormal Foot Positions",
+  "slug": "abnormal_foot_positions_bdf745",
+  "chapter": "FOOT",
+  "source_file": "processed_clusters/foot/abnormal_foot_positions_bdf745.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "FOREFOOT",
+      "raw": "FOREFOOT",
+      "frequency": null
+    },
+    {
+      "name": "Varus = adduction =  axis of 1st metatarsal deviated medially relative to axis of talus",
+      "raw": "Varus = adduction =  axis of 1st metatarsal deviated medially relative to axis of talus",
+      "frequency": null
+    },
+    {
+      "name": "Valgus = abduction",
+      "raw": "Valgus = abduction",
+      "frequency": null
+    },
+    {
+      "name": "Inversion = supination =  inward turning of sole of foot",
+      "raw": "Inversion = supination =  inward turning of sole of foot",
+      "frequency": null
+    },
+    {
+      "name": "Eversion = pronation =  outward turning of sole of foot",
+      "raw": "Eversion = pronation =  outward turning of sole of foot",
+      "frequency": null
+    },
+    {
+      "name": "HINDFOOT talipes = any deformity of the ankle and hindfoot",
+      "raw": "HINDFOOT talipes = any deformity of the ankle and hindfoot [talus, Latin = ankle; pes, Latin = foot]",
+      "frequency": null
+    },
+    {
+      "name": "Equinus =  hindfoot abnormality with reversal of calcaneal pitch so that the heel cannot touch the ground",
+      "raw": "Equinus =  hindfoot abnormality with reversal of calcaneal pitch so that the heel cannot touch the ground",
+      "frequency": null
+    },
+    {
+      "name": "Calcaneal foot =  very high calcaneal pitch so that forefoot cannot touch the ground",
+      "raw": "Calcaneal foot =  very high calcaneal pitch so that forefoot cannot touch the ground",
+      "frequency": null
+    },
+    {
+      "name": "Pes planus = flatfoot =  low calcaneal pitch + (usually) heel valgus + forefoot eversion",
+      "raw": "Pes planus = flatfoot =  low calcaneal pitch + (usually) heel valgus + forefoot eversion",
+      "frequency": null
+    },
+    {
+      "name": "Pes cavus =  high calcaneal pitch",
+      "raw": "Pes cavus =  high calcaneal pitch (fixed high arch)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  axis of 1st metatarsal deviated laterally relative to axis of talus"
+}

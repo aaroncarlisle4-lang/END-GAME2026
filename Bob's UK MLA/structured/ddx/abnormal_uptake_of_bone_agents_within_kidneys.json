@@ -1,0 +1,57 @@
+{
+  "finding": "Abnormal Uptake of Bone Agents within Kidneys",
+  "slug": "abnormal_uptake_of_bone_agents_within_kidneys",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/abnormal_uptake_of_bone_agents_within_kidneys.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Effect of chemotherapeutic drugs: bleomycin, cyclophosphamide, doxorubicin, mitomycin",
+      "raw": "Effect of chemotherapeutic drugs: bleomycin, cyclophosphamide, doxorubicin, mitomycin",
+      "frequency": null
+    },
+    {
+      "name": "S/P radiation therapy",
+      "raw": "S/P radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic calcification",
+      "raw": "Metastatic calcification",
+      "frequency": null
+    },
+    {
+      "name": "Pyelonephritis",
+      "raw": "Pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Acute tubular necrosis",
+      "raw": "Acute tubular necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Iron overload",
+      "raw": "Iron overload",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma",
+      "raw": "Multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Renal vein thrombosis",
+      "raw": "Renal vein thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Ureteral obstruction",
+      "raw": "Ureteral obstruction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "C, 6-mercaptopurine"
+}

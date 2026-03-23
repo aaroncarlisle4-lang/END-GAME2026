@@ -1,0 +1,62 @@
+{
+  "finding": "Lethal Bone Dysplasia",
+  "slug": "lethal_bone_dysplasia_71c7bb",
+  "chapter": "UMBILICAL CORD",
+  "source_file": "processed_clusters/umbilical_cord/lethal_bone_dysplasia_71c7bb.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thanatophoric dysplasia",
+      "raw": "Thanatophoric dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta type II",
+      "raw": "Osteogenesis imperfecta type II",
+      "frequency": null
+    },
+    {
+      "name": "Achondrogenesis type I + II",
+      "raw": "Achondrogenesis type I + II",
+      "frequency": null
+    },
+    {
+      "name": "Jeune syndrome",
+      "raw": "Jeune syndrome (may be nonlethal)",
+      "frequency": null
+    },
+    {
+      "name": "Hypophosphatasia, congenital lethal form",
+      "raw": "Hypophosphatasia, congenital lethal form",
+      "frequency": null
+    },
+    {
+      "name": "Chondroectodermal dysplasia",
+      "raw": "Chondroectodermal dysplasia (usually nonlethal)",
+      "frequency": null
+    },
+    {
+      "name": "Chondrodysplasia punctata, rhizomelic type",
+      "raw": "Chondrodysplasia punctata, rhizomelic type",
+      "frequency": null
+    },
+    {
+      "name": "Camptomelic dysplasia",
+      "raw": "Camptomelic dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Short-rib polydactyly syndrome",
+      "raw": "Short-rib polydactyly syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Homozygous achondroplasia ◊  Lethal short-limbed dysplasias typically are manifest on sonograms < 24 weeks MA!",
+      "raw": "Homozygous achondroplasia ◊  Lethal short-limbed dysplasias typically are manifest on sonograms < 24 weeks MA!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "in order of frequency:"
+}

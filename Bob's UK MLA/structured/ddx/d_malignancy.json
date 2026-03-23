@@ -1,0 +1,27 @@
+{
+  "finding": "D. MALIGNANCY",
+  "slug": "d_malignancy",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/d_malignancy.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastases",
+      "raw": "Metastases (most common malignant liver tumor)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Multifocal hepatoma",
+      "raw": "Multifocal hepatoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

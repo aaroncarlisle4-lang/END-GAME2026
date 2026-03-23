@@ -1,0 +1,45 @@
+{
+  "finding": "Congenital Anomalies of Pulmonary Veins",
+  "slug": "congenital_anomalies_of_pulmonary_veins_4d15ff",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/congenital_anomalies_of_pulmonary_veins_4d15ff.md",
+  "quality_score": 0.567,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "ANOMALIES IN NUMBER",
+      "raw": "ANOMALIES IN NUMBER",
+      "frequency": null
+    },
+    {
+      "name": "Anomalous unilateral single pulmonary vein = meandering pulmonary vein",
+      "raw": "Anomalous unilateral single pulmonary vein = meandering pulmonary vein",
+      "frequency": null
+    },
+    {
+      "name": "ANOMALIES IN DIAMETER",
+      "raw": "ANOMALIES IN DIAMETER",
+      "frequency": null
+    },
+    {
+      "name": "Congenital unilateral pulmonary vein stenosis / atresia",
+      "raw": "Congenital unilateral pulmonary vein stenosis / atresia",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary vein varix",
+      "raw": "Pulmonary vein varix",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "ANOMALIES IN NUMBER": [],
+    "Anomalous unilateral single pulmonary vein = meandering pulmonary vein": [
+      "reticular opacities with Kerley B lines DDx:   pulmonary neoplasm, fibrosing mediastinitis"
+    ],
+    "ANOMALIES IN DIAMETER": [],
+    "Congenital unilateral pulmonary vein stenosis / atresia": [],
+    "Pulmonary vein varix": []
+  },
+  "context": "√  serpentine tubular opacity adjacent to lung hilum DDx:   scimitar syndrome, AVM, lung nodule √  small lung with ipsilateral mediastinal deviation √  reticular opacities with Kerley B lines DDx:   pulmonary neoplasm, fibrosing mediastinitis"
+}

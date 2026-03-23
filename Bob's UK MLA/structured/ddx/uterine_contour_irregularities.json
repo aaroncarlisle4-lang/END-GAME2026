@@ -1,0 +1,27 @@
+{
+  "finding": "Uterine Contour Irregularities",
+  "slug": "uterine_contour_irregularities",
+  "chapter": "C. COMBINATION OF FACTORS (15-25%",
+  "source_file": "processed_clusters/c_combination_of_factors_15_25/uterine_contour_irregularities.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenomyosis",
+      "raw": "Adenomyosis",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Müllerian duct anomalies",
+      "raw": "Müllerian duct anomalies (up to 25%)",
+      "frequency": "25%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

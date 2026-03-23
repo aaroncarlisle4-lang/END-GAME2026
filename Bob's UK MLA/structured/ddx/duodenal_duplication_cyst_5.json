@@ -1,0 +1,72 @@
+{
+  "finding": "Duodenal Duplication Cyst (5%",
+  "slug": "duodenal_duplication_cyst_5",
+  "chapter": "DUODENAL VARICES",
+  "source_file": "processed_clusters/duodenal_varices/duodenal_duplication_cyst_5.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "obstructive symptoms, palpable abdominal mass",
+      "raw": "obstructive symptoms, palpable abdominal mass",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhage ← peptic ulceration",
+      "raw": "hemorrhage ← peptic ulceration",
+      "frequency": null
+    },
+    {
+      "name": "jaundice ← biliary obstruction",
+      "raw": "jaundice ← biliary obstruction",
+      "frequency": null
+    },
+    {
+      "name": "pancreatitis ← ectopic pancreatic tissue",
+      "raw": "pancreatitis ← ectopic pancreatic tissue",
+      "frequency": null
+    },
+    {
+      "name": "bowel obstruction / constipation",
+      "raw": "bowel obstruction / constipation",
+      "frequency": null
+    },
+    {
+      "name": "passage of feces through vagina",
+      "raw": "passage of feces through vagina",
+      "frequency": null
+    },
+    {
+      "name": "abdominal mass, bowel obstruction / constipation",
+      "raw": "abdominal mass, bowel obstruction / constipation",
+      "frequency": null
+    },
+    {
+      "name": "GI hemorrhage",
+      "raw": "GI hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "constipation + fecal soiling",
+      "raw": "constipation + fecal soiling",
+      "frequency": null
+    },
+    {
+      "name": "intractable excoriation of perianal skin (with chronic perianal fistula); palpable retrorectal / retroanal mass",
+      "raw": "intractable excoriation of perianal skin (with chronic perianal fistula); palpable retrorectal / retroanal mass",
+      "frequency": null
+    },
+    {
+      "name": "Anterior meningocele, sacrococcygeal teratoma, retrorectal abscess, pilonidal cyst, sacral bone tumor",
+      "raw": "Anterior meningocele, sacrococcygeal teratoma, retrorectal abscess, pilonidal cyst, sacral bone tumor",
+      "frequency": null
+    },
+    {
+      "name": "Tailgut cyst",
+      "raw": "Tailgut cyst (no smooth muscle layer)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Path:  noncommunicating spherical cyst; may contain ectopic gastric mucosa in 21%, small bowel mucosa, pancreatic tissue Location:   1st + 2nd portion of duodenum Site:  on mesenteric side of anterior wall √  mass in concavity of duodenal C-loop √  compression + displacement of 1st / 2nd portion of duodenum superiorly + anteriorly Cholangiography: √  may communicate with pancreatic ductal system through the aberrant duct of an accessory lobe Cx:  pancreatitis ← perforation of duplication cyst DDx:  pancreatic cyst, pancreatic pseudocyst, choledochal cyst, choledochocele, duodenal intramural tu"
+}

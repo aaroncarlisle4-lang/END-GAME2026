@@ -1,0 +1,22 @@
+{
+  "finding": "Urachal Carcinoma (DDx)",
+  "slug": "urachal_carcinoma_ddx",
+  "chapter": "Urachal Carcinoma",
+  "source_file": "processed_clusters/urachal_carcinoma/urachal_carcinoma_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "infected benign urachal cyst; primary benign bladder tumor (adenoma",
+      "raw": "infected benign urachal cyst; primary benign bladder tumor (adenoma",
+      "frequency": null
+    },
+    {
+      "name": "fibroadenoma",
+      "raw": "fibroadenoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "heterogeneous enhancement | midline fluid-filled cavity with mixed echogenicity + calcifications adjacent to anterior | low-attenuation mass in 60% (mucin) | markedly increased SI on T2WI ← mucin"
+}

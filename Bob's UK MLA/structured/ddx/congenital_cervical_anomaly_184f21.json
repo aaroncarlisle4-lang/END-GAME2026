@@ -1,0 +1,27 @@
+{
+  "finding": "Congenital Cervical Anomaly",
+  "slug": "congenital_cervical_anomaly_184f21",
+  "chapter": "CERVIX",
+  "source_file": "processed_clusters/cervix/congenital_cervical_anomaly_184f21.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Septate uterus",
+      "raw": "Septate uterus (34-55%)",
+      "frequency": "55%"
+    },
+    {
+      "name": "Duplication of cervix: uterus didelphys, septate uterus, bicornuate uterus",
+      "raw": "Duplication of cervix: uterus didelphys, septate uterus, bicornuate uterus",
+      "frequency": null
+    },
+    {
+      "name": "Cervical agenesis = blind-ending vagina often with complete absence of uterus / rudimentary uterine tissue",
+      "raw": "Cervical agenesis = blind-ending vagina often with complete absence of uterus / rudimentary uterine tissue",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  2 endocervical canals usually divided by thicker plane of tissue than with a cervical septum √  evaluate for concurrent renal anomalies (30-50%)"
+}

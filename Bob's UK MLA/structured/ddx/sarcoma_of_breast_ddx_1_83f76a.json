@@ -1,0 +1,22 @@
+{
+  "finding": "Sarcoma Of Breast (DDx)",
+  "slug": "sarcoma_of_breast_ddx_1_83f76a",
+  "chapter": "Sarcoma Of Breast",
+  "source_file": "processed_clusters/sarcoma_of_breast/sarcoma_of_breast_ddx_1_83f76a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hematoma",
+      "raw": "hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "large solid + complex cystic mass: | hypointense SI on T1WI | hyperintense SI on T2WI | homogeneous enhancement"
+}

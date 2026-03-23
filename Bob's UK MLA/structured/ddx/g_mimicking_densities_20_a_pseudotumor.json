@@ -1,0 +1,92 @@
+{
+  "finding": "G. MIMICKING DENSITIES (20%) (a) Pseudotumor",
+  "slug": "g_mimicking_densities_20_a_pseudotumor",
+  "chapter": "F. INHALATIONAL",
+  "source_file": "processed_clusters/f_inhalational/g_mimicking_densities_20_a_pseudotumor.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fluid in fissure",
+      "raw": "Fluid in fissure",
+      "frequency": null
+    },
+    {
+      "name": "Composite area of increased opacity (b)  Mediastinal mass (c)  Chest wall lesion",
+      "raw": "Composite area of increased opacity (b)  Mediastinal mass (c)  Chest wall lesion",
+      "frequency": null
+    },
+    {
+      "name": "Nipple",
+      "raw": "Nipple",
+      "frequency": null
+    },
+    {
+      "name": "Skin tumor: mole, neurofibroma, lipoma, keloid",
+      "raw": "Skin tumor: mole, neurofibroma, lipoma, keloid",
+      "frequency": null
+    },
+    {
+      "name": "Bone island, rib osteochondroma",
+      "raw": "Bone island, rib osteochondroma",
+      "frequency": null
+    },
+    {
+      "name": "Rib fracture / osteophyte",
+      "raw": "Rib fracture / osteophyte",
+      "frequency": null
+    },
+    {
+      "name": "Pleural plaque / mass (mesothelioma) (d)  External object",
+      "raw": "Pleural plaque / mass (mesothelioma) (d)  External object",
+      "frequency": null
+    },
+    {
+      "name": "Electrocardiographic lead attachment",
+      "raw": "Electrocardiographic lead attachment",
+      "frequency": null
+    },
+    {
+      "name": "Buttons, snaps mnemonic:   Big Solitary Pulmonary Masses Commonly Appear Hopeless And Lonely",
+      "raw": "Buttons, snaps mnemonic:   Big Solitary Pulmonary Masses Commonly Appear Hopeless And Lonely",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic carcinoma",
+      "raw": "Bronchogenic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Solitary metastasis, Sequestration",
+      "raw": "Solitary metastasis, Sequestration",
+      "frequency": null
+    },
+    {
+      "name": "Pseudotumor",
+      "raw": "Pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Mesothelioma",
+      "raw": "Mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Cyst",
+      "raw": "Cyst (bronchogenic, neurenteric, echinococcal)",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma, Arteriovenous malformation",
+      "raw": "Adenoma, Arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Hamartoma, Histoplasmosis",
+      "raw": "Hamartoma, Histoplasmosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

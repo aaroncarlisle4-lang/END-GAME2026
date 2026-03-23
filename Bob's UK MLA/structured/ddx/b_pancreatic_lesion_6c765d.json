@@ -1,0 +1,42 @@
+{
+  "finding": "B. PANCREATIC LESION",
+  "slug": "b_pancreatic_lesion_6c765d",
+  "chapter": "Widened Duodenal Sweep",
+  "source_file": "processed_clusters/widened_duodenal_sweep/b_pancreatic_lesion_6c765d.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute pancreatitis",
+      "raw": "Acute pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Groove pancreatitis",
+      "raw": "Groove pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic carcinoma",
+      "raw": "Pancreatic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis to pancreas",
+      "raw": "Metastasis to pancreas",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic cystadenoma",
+      "raw": "Pancreatic cystadenoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

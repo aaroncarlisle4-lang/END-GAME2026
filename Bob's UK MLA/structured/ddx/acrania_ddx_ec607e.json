@@ -1,0 +1,32 @@
+{
+  "finding": "Acrania (DDx)",
+  "slug": "acrania_ddx_ec607e",
+  "chapter": "Acrania",
+  "source_file": "processed_clusters/acrania/acrania_ddx_ec607e.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "encephalocele",
+      "raw": "encephalocele",
+      "frequency": null
+    },
+    {
+      "name": "anencephaly",
+      "raw": "anencephaly",
+      "frequency": null
+    },
+    {
+      "name": "osteogenesis imperfecta",
+      "raw": "osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "hypophosphatasia",
+      "raw": "hypophosphatasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "absence of calvarium | normal ossification of chondrocranium (face, skull base) | hemispheres surrounded by thin membrane"
+}

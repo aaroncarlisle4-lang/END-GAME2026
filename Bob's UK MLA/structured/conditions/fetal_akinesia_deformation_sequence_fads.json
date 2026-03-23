@@ -1,0 +1,27 @@
+{
+  "name": "FETAL AKINESIA DEFORMATION SEQUENCE (FADS",
+  "slug": "fetal_akinesia_deformation_sequence_fads",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/fetal_akinesia_deformation_sequence_fads.md",
+  "definition": "",
+  "demographics": {
+    "Location": "generalized + symmetric; lower > upper limbs"
+  },
+  "dominant_finding": "abnormal limb position, craniofacial deformation",
+  "distribution": "generalized + symmetric; lower > upper limbs",
+  "discriminating_features": [
+    "abnormal limb position, craniofacial deformation",
+    "growth restriction, polyhydramnios",
+    "abnormally short umbilical cord"
+  ],
+  "other_features": {
+    "general": [
+      "abnormal limb position, craniofacial deformation",
+      "growth restriction, polyhydramnios",
+      "abnormally short umbilical cord"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "usually lethal ← lung hypoplasia"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Ochronosis — Joints = ochronotic arthropathy (DDx)",
+  "slug": "ochronosis_joints_ochronotic_arthropathy_ddx_0d879e",
+  "chapter": "Ochronosis",
+  "source_file": "processed_clusters/ochronosis/ochronosis_joints_ochronotic_arthropathy_ddx_0d879e.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ankylosing spondylitis (erosions and ankylosis of SI joints",
+      "raw": "ankylosing spondylitis (erosions and ankylosis of SI joints",
+      "frequency": null
+    },
+    {
+      "name": "severe facet joint involvement)",
+      "raw": "severe facet joint involvement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "joint narrowing + subchondral sclerosis | prominence of intraarticular osteochondral fragments | relative lack of prominent osteophyte formation | small calcifications in paraarticular soft tissues + tendon insertions"
+}

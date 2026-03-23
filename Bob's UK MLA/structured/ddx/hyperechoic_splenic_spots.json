@@ -1,0 +1,37 @@
+{
+  "finding": "Hyperechoic Splenic Spots",
+  "slug": "hyperechoic_splenic_spots",
+  "chapter": "Iron Accumulation in Spleen",
+  "source_file": "processed_clusters/iron_accumulation_in_spleen/hyperechoic_splenic_spots.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Granulomas: miliary tuberculosis, histoplasmosis",
+      "raw": "Granulomas: miliary tuberculosis, histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Phleboliths",
+      "raw": "Phleboliths",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / leukemia",
+      "raw": "Lymphoma / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Myelofibrosis",
+      "raw": "Myelofibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Gamna-Gandy nodules",
+      "raw": "Gamna-Gandy nodules (in portal hypertension)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

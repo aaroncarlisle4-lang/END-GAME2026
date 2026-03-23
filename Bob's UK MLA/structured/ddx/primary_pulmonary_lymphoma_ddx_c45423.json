@@ -1,0 +1,32 @@
+{
+  "finding": "Primary Pulmonary Lymphoma (DDx)",
+  "slug": "primary_pulmonary_lymphoma_ddx_c45423",
+  "chapter": "Primary Pulmonary Lymphoma",
+  "source_file": "processed_clusters/primary_pulmonary_lymphoma/primary_pulmonary_lymphoma_ddx_c45423.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "granulomatosis with polyangiitis",
+      "raw": "granulomatosis with polyangiitis (= Wegener granulomatosis)",
+      "frequency": null
+    },
+    {
+      "name": "sarcoidosis",
+      "raw": "sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "perilymphatic spread of metastatic disease",
+      "raw": "perilymphatic spread of metastatic disease",
+      "frequency": null
+    },
+    {
+      "name": "infection",
+      "raw": "infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mosaic attenuation ← infiltration along airways | hilar / mediastinal lymphadenopathy (in up to 30%) | pleural effusions (uncommon) | hypermetabolic at PET/CT (50%)"
+}

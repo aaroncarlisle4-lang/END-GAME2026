@@ -1,0 +1,50 @@
+{
+  "name": "APERT SYNDROME",
+  "slug": "apert_syndrome",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/apert_syndrome.md",
+  "definition": "ACROCEPHALOSYNDACTYLY TYPE I",
+  "demographics": {
+    "Frequency": "5.5÷1,000,000 neonates",
+    "Etiology": "autosomal dominant with incomplete penetrance; sporadic (in majority)"
+  },
+  "dominant_finding": "brachycephalic skull (← coronal craniosynostosis) + flat occiput",
+  "distribution": "widened metopic + sagittal sutures extending from glabella to posterior fontanel (closing",
+  "discriminating_features": [
+    "brachycephalic skull (← coronal craniosynostosis) + flat occiput",
+    "widened metopic + sagittal sutures extending from glabella to posterior fontanel (closing",
+    "hypoplastic / retruded midface:",
+    "hypertelorism",
+    "shallow orbits with proptosis"
+  ],
+  "other_features": {
+    "general": [
+      "brachycephalic skull (← coronal craniosynostosis) + flat occiput",
+      "widened metopic + sagittal sutures extending from glabella to posterior fontanel (closing",
+      "hypoplastic / retruded midface:",
+      "hypertelorism",
+      "shallow orbits with proptosis",
+      "underdeveloped paranasal sinuses",
+      "underdeveloped maxilla with prognathism",
+      "high pointed arch of palate",
+      "prominent vertical crest in middle of forehead (← increased intracranial pressure)",
+      "V-shaped anterior fossa ← elevation of lateral margins of lesser sphenoid",
+      "± enlargement of sella",
+      "stylohyoid ligament calcification (38-88%)",
+      "cervical spine fusion (in up to 71%), commonly of 5th and 6th vertebrae",
+      "choanal stenosis"
+    ],
+    "Hand & feet": [
+      "severe symmetric syndactyly = fusion of distal portions of phalanges, metacarpals /",
+      "absence of middle phalanges",
+      "missing / supernumerary carpal / tarsal bones",
+      "pseudarthroses"
+    ],
+    "GU": [
+      "hydronephrosis",
+      "polycystic kidneys (rare)",
+      "bicornuate uterus (rare)"
+    ]
+  },
+  "clinical": {}
+}

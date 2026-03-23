@@ -1,0 +1,37 @@
+{
+  "finding": "Low-attenuation Lesion in Basal Ganglia",
+  "slug": "low_attenuation_lesion_in_basal_ganglia",
+  "chapter": "D. MALIGNANCY",
+  "source_file": "processed_clusters/d_malignancy/low_attenuation_lesion_in_basal_ganglia.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Poisoning: carbon monoxide, cyanide poisoning, methanol intoxication, barbiturate intoxication, hydrogen sulfide poisoning",
+      "raw": "Poisoning: carbon monoxide, cyanide poisoning, methanol intoxication, barbiturate intoxication, hydrogen sulfide poisoning",
+      "frequency": null
+    },
+    {
+      "name": "Hypoxic ischemic encephalopathy",
+      "raw": "Hypoxic ischemic encephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Hypoglycemia",
+      "raw": "Hypoglycemia",
+      "frequency": null
+    },
+    {
+      "name": "Hypotension",
+      "raw": "Hypotension (lacunar infarcts)",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

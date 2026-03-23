@@ -1,0 +1,47 @@
+{
+  "finding": "Chronic Alveolar Infiltrate",
+  "slug": "chronic_alveolar_infiltrate",
+  "chapter": "Air-space Opacification in Trauma",
+  "source_file": "processed_clusters/air_space_opacification_in_trauma/chronic_alveolar_infiltrate.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar cell carcinoma",
+      "raw": "Alveolar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoid pneumonia",
+      "raw": "Lipoid pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar proteinosis",
+      "raw": "Alveolar proteinosis",
+      "frequency": null
+    },
+    {
+      "name": "Goodpasture syndrome",
+      "raw": "Goodpasture syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

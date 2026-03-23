@@ -1,0 +1,22 @@
+{
+  "finding": "Abscess Of Breast — T2WI (DDx)",
+  "slug": "abscess_of_breast_t2wi_ddx",
+  "chapter": "Abscess Of Breast",
+  "source_file": "processed_clusters/abscess_of_breast/abscess_of_breast_t2wi_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "seroma",
+      "raw": "seroma",
+      "frequency": null
+    },
+    {
+      "name": "inflammatory breast cancer",
+      "raw": "inflammatory breast cancer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hyperintense round / ovoid lesion (high protein content) | no contrast uptake centrally | strong enhancement of abscess wall | hyperintense round / oval lesion"
+}

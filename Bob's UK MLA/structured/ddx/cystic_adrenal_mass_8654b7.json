@@ -1,0 +1,47 @@
+{
+  "finding": "Cystic Adrenal Mass",
+  "slug": "cystic_adrenal_mass_8654b7",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/cystic_adrenal_mass_8654b7.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pseudocyst: old hemorrhage / infarction",
+      "raw": "Pseudocyst: old hemorrhage / infarction",
+      "frequency": null
+    },
+    {
+      "name": "Vascular cystic space (endothelial lining): lymphangioma, hemangioma",
+      "raw": "Vascular cystic space (endothelial lining): lymphangioma, hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "True cyst (epithelial lining): glandular cyst, embryonal cyst, mesothelial inclusion cyst",
+      "raw": "True cyst (epithelial lining): glandular cyst, embryonal cyst, mesothelial inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic cyst: hydatid cyst",
+      "raw": "Parasitic cyst: hydatid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic complication / degeneration of a tumor:",
+      "raw": "Hemorrhagic complication / degeneration of a tumor:",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Cortical adenoma with low density",
+      "raw": "Cortical adenoma with low density",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cystic adenoma, cystic pheochromocytoma, cystic adenomatoid tumor, cystic adrenocortical carcinoma, schwannoma with cystic degeneration"
+}

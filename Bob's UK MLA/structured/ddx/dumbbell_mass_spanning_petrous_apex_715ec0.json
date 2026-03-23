@@ -1,0 +1,27 @@
+{
+  "finding": "Dumbbell Mass Spanning Petrous Apex",
+  "slug": "dumbbell_mass_spanning_petrous_apex_715ec0",
+  "chapter": "D. PETROUS APEX",
+  "source_file": "processed_clusters/d_petrous_apex/dumbbell_mass_spanning_petrous_apex_715ec0.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Large trigeminal schwannoma",
+      "raw": "Large trigeminal schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid cyst",
+      "raw": "Epidermoid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

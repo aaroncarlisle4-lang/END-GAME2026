@@ -1,0 +1,27 @@
+{
+  "finding": "Thymoma (DDx)",
+  "slug": "thymoma_ddx_f8ecf9",
+  "chapter": "Thymoma",
+  "source_file": "processed_clusters/thymoma/thymoma_ddx_f8ecf9.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "malignant mesothelioma",
+      "raw": "malignant mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "thymic carcinoma / malignant germ cell tumor",
+      "raw": "thymic carcinoma / malignant germ cell tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "pleural effusion UNCOMMON | distant metastases + regional lymphadenopathy | high signal intensity on both T1WI and T2WI | heterogeneous signal intensity ← hemorrhage / necrosis"
+}

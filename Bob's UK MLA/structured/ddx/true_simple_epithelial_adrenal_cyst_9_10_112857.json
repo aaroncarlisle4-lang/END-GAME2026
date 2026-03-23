@@ -1,0 +1,27 @@
+{
+  "finding": "True Simple / Epithelial Adrenal Cyst (9-10%",
+  "slug": "true_simple_epithelial_adrenal_cyst_9_10_112857",
+  "chapter": "ABORTIVE CALYX",
+  "source_file": "processed_clusters/abortive_calyx/true_simple_epithelial_adrenal_cyst_9_10_112857.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Embryonal cyst",
+      "raw": "Embryonal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cystic adenoma",
+      "raw": "Cystic adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Mesothelial inclusion cyst",
+      "raw": "Mesothelial inclusion cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause: 1. Glandular / retention cyst Histo:  simple epithelial lining √  unilocular thin-walled cyst Parasitic Adrenal Cyst (7%) Cause:   usually Echinococcus granulosus Path:  purely cystic to more complex contents depending on stage of infection √  variable internal complexity ← daughter vesicles, freed scolices, brood capsules √  septal / mural calcifications √  \"water lily\" sign √  extra-adrenal foci of hydatid disease"
+}

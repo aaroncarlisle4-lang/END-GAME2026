@@ -1,0 +1,29 @@
+{
+  "name": "ENDOBRONCHIAL LIPOMA",
+  "slug": "endobronchial_lipoma",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/endobronchial_lipoma.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "0.1-0.5% of lung tumors",
+    "Age": "middle-aged men",
+    "Location": "usually segmental bronchus"
+  },
+  "dominant_finding": "atelectasis, consolidation, or both",
+  "distribution": "usually segmental bronchus",
+  "discriminating_features": [
+    "atelectasis, consolidation, or both",
+    "mass or nodule:",
+    "homogeneous fatty mass without enhancement is DIAGNOSTIC (may not be large enough to",
+    "high SI on T1WI + intermediate SI on T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "atelectasis, consolidation, or both",
+      "mass or nodule:",
+      "homogeneous fatty mass without enhancement is DIAGNOSTIC (may not be large enough to",
+      "high SI on T1WI + intermediate SI on T2WI"
+    ]
+  },
+  "clinical": {}
+}

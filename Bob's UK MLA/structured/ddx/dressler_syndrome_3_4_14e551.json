@@ -1,0 +1,37 @@
+{
+  "finding": "Dressler Syndrome (3-4%",
+  "slug": "dressler_syndrome_3_4_14e551",
+  "chapter": "MITRAL REGURGITATION",
+  "source_file": "processed_clusters/mitral_regurgitation/dressler_syndrome_3_4_14e551.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "relapses occur as late as 2 years after initial episode",
+      "raw": "relapses occur as late as 2 years after initial episode",
+      "frequency": null
+    },
+    {
+      "name": "pleuritic chest pain, fever",
+      "raw": "pleuritic chest pain, fever",
+      "frequency": null
+    },
+    {
+      "name": "Cardiogenic shock",
+      "raw": "Cardiogenic shock (unusual)",
+      "frequency": null
+    },
+    {
+      "name": "Elevation of RA pressure",
+      "raw": "Elevation of RA pressure",
+      "frequency": null
+    },
+    {
+      "name": "Decrease of pulmonary artery pressure",
+      "raw": "Decrease of pulmonary artery pressure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  POSTMYOCARDIAL INFARCTION SYNDROME = LATE PERICARDITIS Etiology:   autoimmune reaction to myocardial infarction Onset:  2-3 weeks (range 1 week-several months) following infarction √  thickening of pericardium √  pericardial effusion √  pleural effusion √  pneumonitis Right Ventricular Infarction ◊  RV involved in 33% of left inferior myocardial infarction √  decreased RV ejection fraction √  accumulation of 99mTc-pyrophosphate Prognosis:  in 50% RV ejection fraction returns to normal within 10 days Cx:"
+}

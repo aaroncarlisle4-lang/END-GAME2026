@@ -1,0 +1,37 @@
+{
+  "finding": "D. CONGENITAL",
+  "slug": "d_congenital",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/d_congenital.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epidermoid / dermoid",
+      "raw": "Epidermoid / dermoid",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis (asterion defect)",
+      "frequency": null
+    },
+    {
+      "name": "Meningoencephalocele",
+      "raw": "Meningoencephalocele",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Osteoporosis circumscripta of Paget disease",
+      "raw": "Osteoporosis circumscripta of Paget disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

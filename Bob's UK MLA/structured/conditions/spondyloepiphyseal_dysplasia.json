@@ -1,0 +1,49 @@
+{
+  "name": "SPONDYLOEPIPHYSEAL DYSPLASIA",
+  "slug": "spondyloepiphyseal_dysplasia",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/spondyloepiphyseal_dysplasia.md",
+  "definition": "sex-linked recessive form with milder manifestation + later clinical onset",
+  "demographics": {
+    "Age": "apparent by 10 years; exclusive to males"
+  },
+  "dominant_finding": "cleft palate",
+  "distribution": "hyperostotic new bone along posterior ²/³ of vertebral end plate (PATHOGNOMONIC)",
+  "discriminating_features": [
+    "hyperostotic new bone along posterior ²/³ of vertebral end plate (PATHOGNOMONIC)",
+    "cleft palate",
+    "ovoid vertebral bodies + severe platyspondyly (incomplete fusion of ossification",
+    "hypoplasia of odontoid process (Cx: cervical myelopathy)",
+    "progressive kyphoscoliosis (short trunk) involving thoracic + lumbar spine"
+  ],
+  "other_features": {
+    "general": [
+      "cleft palate"
+    ],
+    "Axial skeleton": [
+      "ovoid vertebral bodies + severe platyspondyly (incomplete fusion of ossification",
+      "hypoplasia of odontoid process (Cx: cervical myelopathy)",
+      "progressive kyphoscoliosis (short trunk) involving thoracic + lumbar spine",
+      "narrowing of disk spaces → short trunk",
+      "broad iliac bases + deficient ossification of pubis",
+      "flat acetabular roof"
+    ],
+    "Chest": [
+      "bell-shaped thorax",
+      "pectus carinatum"
+    ],
+    "Extremities": [
+      "normal / slightly shortened limbs",
+      "severe coxa vara + genu valgum",
+      "multiple accessory epiphyses in hands + feet",
+      "talipes equinovarus",
+      "hyperostotic new bone along posterior ²/³ of vertebral end plate (PATHOGNOMONIC)",
+      "platyspondyly with depression of anterior ⅓ of vertebral body",
+      "narrowing with calcification of disk spaces + spondylitic bridging",
+      "short trunk",
+      "dysplastic joints (eg, flattened femoral heads)",
+      "premature osteoarthritis"
+    ]
+  },
+  "clinical": {}
+}

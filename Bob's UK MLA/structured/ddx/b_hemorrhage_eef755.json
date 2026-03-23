@@ -1,0 +1,32 @@
+{
+  "finding": "B. Hemorrhage",
+  "slug": "b_hemorrhage_eef755",
+  "chapter": "E. HYDROPS FETALIS",
+  "source_file": "processed_clusters/e_hydrops_fetalis/b_hemorrhage_eef755.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Injury of liver / spleen",
+      "raw": "Injury of liver / spleen",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic pancreatitis",
+      "raw": "Hemorrhagic pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Bleeding from ruptured neoplasms",
+      "raw": "Bleeding from ruptured neoplasms",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative fluid: gastric / hepatobiliary surgery",
+      "raw": "Postoperative fluid: gastric / hepatobiliary surgery [D.  Ascitic transudate (most common + associated with fluid elsewhere in peritoneal cavity): hepatic / renal failure]",
+      "frequency": "most common"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

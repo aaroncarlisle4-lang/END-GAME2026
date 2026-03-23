@@ -1,0 +1,30 @@
+{
+  "name": "ARTERIOVENOUS FISTULA OF BONE",
+  "slug": "arteriovenous_fistula_of_bone",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/arteriovenous_fistula_of_bone.md",
+  "definition": "",
+  "demographics": {
+    "Location": "lower extremity most frequent"
+  },
+  "dominant_finding": "soft-tissue mass",
+  "distribution": "lower extremity most frequent",
+  "discriminating_features": [
+    "soft-tissue mass",
+    "presence of large vessels",
+    "phleboliths (DDx: long-standing varicosity)",
+    "accelerated bone growth",
+    "cortical osteolytic defect (= large-vessel pathway into medulla)"
+  ],
+  "other_features": {
+    "general": [
+      "soft-tissue mass",
+      "presence of large vessels",
+      "phleboliths (DDx: long-standing varicosity)",
+      "accelerated bone growth",
+      "cortical osteolytic defect (= large-vessel pathway into medulla)",
+      "increased bone density"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,52 @@
+{
+  "finding": "A. FAILURE TO STORE URINE",
+  "slug": "a_failure_to_store_urine_8f84ff",
+  "chapter": "VOIDING DYSFUNCTION",
+  "source_file": "processed_clusters/voiding_dysfunction/a_failure_to_store_urine_8f84ff.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "urinary frequency, urgency, incontinence (a)  bladder causes",
+      "raw": "urinary frequency, urgency, incontinence (a)  bladder causes",
+      "frequency": null
+    },
+    {
+      "name": "Involuntary detrusor contractions ›  detrusor instability: idiopathic / neurogenic ›  detrusor hyperreflexia ← upper cord lesion",
+      "raw": "Involuntary detrusor contractions ›  detrusor instability: idiopathic / neurogenic ›  detrusor hyperreflexia ← upper cord lesion",
+      "frequency": null
+    },
+    {
+      "name": "Poor bladder compliance ›  detrusor hyperreflexia ›  bladder wall fibrosis",
+      "raw": "Poor bladder compliance ›  detrusor hyperreflexia ›  bladder wall fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Sensory urgency ›  infection, inflammation, irritation ›  neoplasia",
+      "raw": "Sensory urgency ›  infection, inflammation, irritation ›  neoplasia",
+      "frequency": null
+    },
+    {
+      "name": "Vesicovaginal fistula",
+      "raw": "Vesicovaginal fistula",
+      "frequency": null
+    },
+    {
+      "name": "Psychogenic condition (b)  sphincter causes",
+      "raw": "Psychogenic condition (b)  sphincter causes",
+      "frequency": null
+    },
+    {
+      "name": "Stress incontinence",
+      "raw": "Stress incontinence",
+      "frequency": null
+    },
+    {
+      "name": "Sphincteric incontinence (c)  extravesical ectopic insertion of ureter in females",
+      "raw": "Sphincteric incontinence (c)  extravesical ectopic insertion of ureter in females",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

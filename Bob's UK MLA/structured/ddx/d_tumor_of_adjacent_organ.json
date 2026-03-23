@@ -1,0 +1,47 @@
+{
+  "finding": "D. TUMOR OF ADJACENT ORGAN",
+  "slug": "d_tumor_of_adjacent_organ",
+  "chapter": "E. OTHERS",
+  "source_file": "processed_clusters/e_others/d_tumor_of_adjacent_organ.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pancreatic carcinoma + cystadenoma",
+      "raw": "Pancreatic carcinoma + cystadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Liver carcinoma",
+      "raw": "Liver carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoma of gallbladder",
+      "raw": "Carcinoma of gallbladder",
+      "frequency": null
+    },
+    {
+      "name": "Colonic carcinoma",
+      "raw": "Colonic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Renal carcinoma",
+      "raw": "Renal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Adrenal carcinoma",
+      "raw": "Adrenal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymph node involvement",
+      "raw": "Lymph node involvement",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

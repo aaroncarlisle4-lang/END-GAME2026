@@ -1,0 +1,87 @@
+{
+  "finding": "B. INFECTION",
+  "slug": "b_infection",
+  "chapter": "B. VASCULAR",
+  "source_file": "processed_clusters/b_vascular/b_infection.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Abscess ◊  Tuberculous abscess frequently calcifies!",
+      "raw": "Abscess ◊  Tuberculous abscess frequently calcifies!",
+      "frequency": null
+    },
+    {
+      "name": "Echinococcal cyst ◊  Renal involvement in 3% of hydatid disease;",
+      "raw": "Echinococcal cyst ◊  Renal involvement in 3% of hydatid disease;",
+      "frequency": "3%"
+    },
+    {
+      "name": "Xanthogranulomatous pyelonephritis",
+      "raw": "Xanthogranulomatous pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "CYSTS ◊  Calcification is related to prior hemorrhage / infection!",
+      "raw": "CYSTS ◊  Calcification is related to prior hemorrhage / infection!",
+      "frequency": null
+    },
+    {
+      "name": "Simple renal cyst",
+      "raw": "Simple renal cyst (calcifies in 1-3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Multicystic dysplastic kidney",
+      "raw": "Multicystic dysplastic kidney (in adult)",
+      "frequency": null
+    },
+    {
+      "name": "Autosomal dominant polycystic kidney disease",
+      "raw": "Autosomal dominant polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Milk of calcium: cyst, caliceal diverticulum, obstructed hydrocalyx",
+      "raw": "Milk of calcium: cyst, caliceal diverticulum, obstructed hydrocalyx",
+      "frequency": null
+    },
+    {
+      "name": "VASCULAR",
+      "raw": "VASCULAR",
+      "frequency": null
+    },
+    {
+      "name": "Subcapsular / perirenal hematoma",
+      "raw": "Subcapsular / perirenal hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Renal artery aneurysm",
+      "raw": "Renal artery aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Congenital / posttraumatic arteriovenous malformation",
+      "raw": "Congenital / posttraumatic arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Arteriosclerosis: in severe atherosclerotic disease, diabetes mellitus, hyperparathyroidism",
+      "raw": "Arteriosclerosis: in severe atherosclerotic disease, diabetes mellitus, hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Sloughed papilla: in papillary necrosis",
+      "raw": "Sloughed papilla: in papillary necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Pyogenic abscess rarely calcifies! ◊  50% of echinococcal cysts calcify √  large obstructive calculus in > 70% √  thin peripheral \"eggshell\"-like calcification DDx:  residual pantopaque used in cyst puncture √  circular cracked eggshell appearance"
+}

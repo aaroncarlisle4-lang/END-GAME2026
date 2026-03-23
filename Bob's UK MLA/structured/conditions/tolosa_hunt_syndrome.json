@@ -1,0 +1,46 @@
+{
+  "name": "TOLOSA-HUNT SYNDROME",
+  "slug": "tolosa_hunt_syndrome",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/tolosa_hunt_syndrome.md",
+  "definition": "rare disorder characterized by painful ophthalmoplegia ← cavernous sinus inflammation",
+  "demographics": {
+    "Path": "lymphofibroblastic lesion (similar to orbital pseudotumor)",
+    "Age": "5th decade",
+    "Location": "unilateral, bilateral (5%)"
+  },
+  "dominant_finding": "inflammatory soft-tissue density around orbital apex",
+  "distribution": "unilateral, bilateral (5%)",
+  "discriminating_features": [
+    "inflammatory soft-tissue density around orbital apex",
+    "asymmetric enlargement of cavernous sinus",
+    "abnormal nodular enhancement in prepontine cistern",
+    "loss of SI of orbital fat",
+    "enlargement of the cavernous sinus with convex outer margin"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "inflammatory soft-tissue density around orbital apex",
+      "asymmetric enlargement of cavernous sinus",
+      "abnormal nodular enhancement in prepontine cistern",
+      "loss of SI of orbital fat",
+      "enlargement of the cavernous sinus with convex outer margin",
+      "abnormal soft tissue in cavernous sinus:",
+      "isointense to gray matter on T1WI",
+      "hypo- to isointense to gray matter on T2WI ← fibrous tissue",
+      "homogeneous enhancement",
+      "extension of lesion into orbital apex through superior orbital fissure with involvement of",
+      "narrowing of cavernous segment of ICA (in 50%)",
+      "enhancement of dura, trigeminal n., facial n. (uncommon)"
+    ],
+    "ANGIO": [
+      "narrowing of carotid siphon",
+      "occlusion of superior ophthalmic vein",
+      "nonvisualization of cavernous sinus"
+    ]
+  },
+  "clinical": {
+    "Rx": "corticosteroids, immunosuppressive agents (methotrexate, azathioprine)"
+  }
+}

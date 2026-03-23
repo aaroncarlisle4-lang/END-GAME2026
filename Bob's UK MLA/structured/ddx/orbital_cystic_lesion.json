@@ -1,0 +1,42 @@
+{
+  "finding": "Orbital Cystic Lesion",
+  "slug": "orbital_cystic_lesion",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/orbital_cystic_lesion.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Intraorbital hematoma",
+      "raw": "Intraorbital hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lacrimal cyst",
+      "raw": "Lacrimal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Hydatid cyst",
+      "raw": "Hydatid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

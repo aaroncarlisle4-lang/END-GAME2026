@@ -1,0 +1,42 @@
+{
+  "finding": "B. EFFLUX",
+  "slug": "b_efflux",
+  "chapter": "B. EFFLUX",
+  "source_file": "processed_clusters/b_efflux/b_efflux.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Peranal  0.1 L",
+      "raw": "Peranal  0.1 L",
+      "frequency": null
+    },
+    {
+      "name": "Intestinal resorption (primarily in ileum + ascending colon)  10.6 L",
+      "raw": "Intestinal resorption (primarily in ileum + ascending colon)  10.6 L",
+      "frequency": null
+    },
+    {
+      "name": "Breath tests: hydrogen; urea-labeled 13C",
+      "raw": "Breath tests: hydrogen; urea-labeled 13C",
+      "frequency": null
+    },
+    {
+      "name": "Scintigraphy",
+      "raw": "Scintigraphy",
+      "frequency": null
+    },
+    {
+      "name": "Radiopaque markers",
+      "raw": "Radiopaque markers",
+      "frequency": null
+    },
+    {
+      "name": "Ingestible wireless motility capsule (measuring pH, pressure, temperature) ◊  It takes ~ 2 hours for a contrast bolus to reach ileocecal valve following esophagram and radiographs of the stomach!",
+      "raw": "Ingestible wireless motility capsule (measuring pH, pressure, temperature) ◊  It takes ~ 2 hours for a contrast bolus to reach ileocecal valve following esophagram and radiographs of the stomach!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Intestinal Transit Time greatly affected by type of diet Measurement techniques: Normal Transit Times: Stomach: 2-5 hours Small bowel: 2.5-6.0 hours Colon: 5-60 hours Whole gut: 10-73 hours While it may not be possible to diagnose a specific disease that produces a change in bowel motility, alterations in motility may be used in support of a diagnosis and disease severity."
+}

@@ -1,0 +1,67 @@
+{
+  "finding": "Secondary Diverticulum (60%",
+  "slug": "secondary_diverticulum_60_32567a",
+  "chapter": "Isolated Angiomyolipoma (50-70%",
+  "source_file": "processed_clusters/isolated_angiomyolipoma_50_70/secondary_diverticulum_60_32567a.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Posterior urethral valves",
+      "raw": "Posterior urethral valves",
+      "frequency": null
+    },
+    {
+      "name": "Urethral stricture",
+      "raw": "Urethral stricture",
+      "frequency": null
+    },
+    {
+      "name": "Large ureterocele",
+      "raw": "Large ureterocele",
+      "frequency": null
+    },
+    {
+      "name": "Neurogenic dysfunction",
+      "raw": "Neurogenic dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "Enlarged prostate",
+      "raw": "Enlarged prostate",
+      "frequency": null
+    },
+    {
+      "name": "Bladder neck stenosis (c)  associated with congenital syndromes",
+      "raw": "Bladder neck stenosis (c)  associated with congenital syndromes",
+      "frequency": null
+    },
+    {
+      "name": "Prune belly syndrome",
+      "raw": "Prune belly syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Menkes kinky-hair syndrome",
+      "raw": "Menkes kinky-hair syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Williams syndrome",
+      "raw": "Williams syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ehlers-Danlos type 9 syndrome",
+      "raw": "Ehlers-Danlos type 9 syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Diamond-Blackfan syndrome",
+      "raw": "Diamond-Blackfan syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  in 50% multiple diverticula (a)  postoperative state (b)  associated with bladder outlet obstruction"
+}

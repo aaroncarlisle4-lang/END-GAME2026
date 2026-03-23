@@ -1,0 +1,31 @@
+{
+  "finding": "Early-Phase Pulmonary Complications",
+  "slug": "early_phase_pulmonary_complications",
+  "chapter": "BONE MARROW TRANSPLANTATION",
+  "source_file": "processed_clusters/bone_marrow_transplantation/early_phase_pulmonary_complications.md",
+  "quality_score": 0.7,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "CMV pneumonia",
+      "raw": "CMV pneumonia (23%)",
+      "frequency": "23%"
+    },
+    {
+      "name": "Pneumocystis carinii pneumonia",
+      "raw": "Pneumocystis carinii pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic interstitial pneumonia",
+      "raw": "Idiopathic interstitial pneumonia (12%)",
+      "frequency": "12%"
+    }
+  ],
+  "criteria": {
+    "CMV pneumonia": [],
+    "Pneumocystis carinii pneumonia": [],
+    "Idiopathic interstitial pneumonia": []
+  },
+  "context": "Time:  up to 100 days after transplantation √  multiple small nodules + associated areas of consolidation + ground-glass attenuation (= hemorrhagic nodules) √  diffuse / predominantly perihilar / mosaic pattern of ground-glass attenuation with sparing of some secondary pulmonary lobules √  nonspecific findings (diagnosis of exclusion)"
+}

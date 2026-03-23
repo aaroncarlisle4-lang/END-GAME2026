@@ -1,0 +1,32 @@
+{
+  "finding": "B. PERIVENTRICULAR MASS",
+  "slug": "b_periventricular_mass",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/b_periventricular_mass.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary CNS lymphoma",
+      "raw": "Primary CNS lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis (a)  subependymal tuber (b)  giant cell astrocytoma",
+      "raw": "Tuberous sclerosis (a)  subependymal tuber (b)  giant cell astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis from mucin-producing adenocarcinoma / hemorrhagic metastasis",
+      "raw": "Metastasis from mucin-producing adenocarcinoma / hemorrhagic metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Glioblastoma of septum pellucidum",
+      "raw": "Glioblastoma of septum pellucidum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(melanoma, choriocarcinoma, hypernephroma, bronchogenic carcinoma, breast carcinoma)"
+}

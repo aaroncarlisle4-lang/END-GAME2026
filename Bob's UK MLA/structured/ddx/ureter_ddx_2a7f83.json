@@ -1,0 +1,25 @@
+{
+  "finding": "Ureter (DDx)",
+  "slug": "ureter_ddx_2a7f83",
+  "chapter": "Ureter",
+  "source_file": "processed_clusters/ureter/ureter_ddx_2a7f83.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "UPJ obstruction",
+      "raw": "UPJ obstruction",
+      "frequency": null
+    },
+    {
+      "name": "distal obstruction √  NO associated caliectasis",
+      "raw": "distal obstruction √  NO associated caliectasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "UPJ obstruction": [],
+    "distal obstruction √  NO associated caliectasis": []
+  },
+  "context": "may be dilated under normal circumstances"
+}

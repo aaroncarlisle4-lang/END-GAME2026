@@ -1,0 +1,142 @@
+{
+  "finding": "Congenital Dyshormonogenesis",
+  "slug": "congenital_dyshormonogenesis_008aa1",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/congenital_dyshormonogenesis_008aa1.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trapping defect =  defective cellular uptake of iodine into thyroid, salivary glands, gastric mucosa ◊  High doses of inorganic iodine facilitate diffusion into thyroid permitting a normal rate of thyroid hormone synthesis ◊  Normal ratio of iodine concentration for gastric juice÷plasma = 20÷1",
+      "raw": "Trapping defect =  defective cellular uptake of iodine into thyroid, salivary glands, gastric mucosa ◊  High doses of inorganic iodine facilitate diffusion into thyroid permitting a normal rate of thyroid hormone synthesis ◊  Normal ratio of iodine concentration for gastric juice÷plasma = 20÷1",
+      "frequency": null
+    },
+    {
+      "name": "Organification defect =  deficient peroxidase activity, which catalyzes the oxidation of iodide by H2O2 to form monoiodotyrosine",
+      "raw": "Organification defect =  deficient peroxidase activity, which catalyzes the oxidation of iodide by H2O2 to form monoiodotyrosine (MIT) / diiodotyrosine (DIT)",
+      "frequency": null
+    },
+    {
+      "name": "↑ serum TSH; ↓ serum T4",
+      "raw": "↑ serum TSH; ↓ serum T4",
+      "frequency": null
+    },
+    {
+      "name": "diffuse symmetric thyromegaly",
+      "raw": "diffuse symmetric thyromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Deiodinase (dehalogenase) defect =  deficient deiodination of MIT / DIT to release iodide, which is reutilized to synthesize thyroid hormone production",
+      "raw": "Deiodinase (dehalogenase) defect =  deficient deiodination of MIT / DIT to release iodide, which is reutilized to synthesize thyroid hormone production",
+      "frequency": null
+    },
+    {
+      "name": "hypothyroidism; \"intrinsic\" iodine deficiency goiter",
+      "raw": "hypothyroidism; \"intrinsic\" iodine deficiency goiter",
+      "frequency": null
+    },
+    {
+      "name": "identification of MIT + DIT in serum + urine following administration of 131I",
+      "raw": "identification of MIT + DIT in serum + urine following administration of 131I",
+      "frequency": null
+    },
+    {
+      "name": "Thyroxin-binding globulin (TBG) deficiency",
+      "raw": "Thyroxin-binding globulin (TBG) deficiency",
+      "frequency": null
+    },
+    {
+      "name": "abnormal T4 transport",
+      "raw": "abnormal T4 transport",
+      "frequency": null
+    },
+    {
+      "name": "low bound serum T4 concentration",
+      "raw": "low bound serum T4 concentration",
+      "frequency": null
+    },
+    {
+      "name": "euthyroid",
+      "raw": "euthyroid",
+      "frequency": null
+    },
+    {
+      "name": "End-organ resistance to thyroid hormone",
+      "raw": "End-organ resistance to thyroid hormone",
+      "frequency": null
+    },
+    {
+      "name": "high serum T4",
+      "raw": "high serum T4",
+      "frequency": null
+    },
+    {
+      "name": "euthyroid / hypothyroid; growth retardation",
+      "raw": "euthyroid / hypothyroid; growth retardation",
+      "frequency": null
+    },
+    {
+      "name": "elevated free T4, elevated free T3, or both",
+      "raw": "elevated free T4, elevated free T3, or both",
+      "frequency": null
+    },
+    {
+      "name": "Graves disease",
+      "raw": "Graves disease",
+      "frequency": null
+    },
+    {
+      "name": "Marine-Lenhart syndrome = nodular Graves = Graves disease coexistent in multinodular goiter",
+      "raw": "Marine-Lenhart syndrome = nodular Graves = Graves disease coexistent in multinodular goiter",
+      "frequency": null
+    },
+    {
+      "name": "Toxic autonomous nodule",
+      "raw": "Toxic autonomous nodule",
+      "frequency": null
+    },
+    {
+      "name": "Toxic multinodular goiter (b)  thyroid inflammation",
+      "raw": "Toxic multinodular goiter (b)  thyroid inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Subacute thyroiditis",
+      "raw": "Subacute thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "Painless / silent thyroiditis",
+      "raw": "Painless / silent thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "Postpartum thyroiditis (c)  iodine-induced hyperthyroidism (d)  hyperthyroidism of extrathyroidal origin",
+      "raw": "Postpartum thyroiditis (c)  iodine-induced hyperthyroidism (d)  hyperthyroidism of extrathyroidal origin",
+      "frequency": null
+    },
+    {
+      "name": "Factitious hyperthyroidism",
+      "raw": "Factitious hyperthyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic thyroid hormone production: metastatic thyroid cancer, toxic struma ovarii",
+      "raw": "Ectopic thyroid hormone production: metastatic thyroid cancer, toxic struma ovarii",
+      "frequency": null
+    },
+    {
+      "name": "Thyrotropin-induced hyperthyroidism",
+      "raw": "Thyrotropin-induced hyperthyroidism (pituitary adenoma)",
+      "frequency": null
+    },
+    {
+      "name": "tachycardia, weight loss, muscle weakness, anxiety, decreased temperature tolerance",
+      "raw": "tachycardia, weight loss, muscle weakness, anxiety, decreased temperature tolerance",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  nearly entire dose of administered radioiodine is excreted within 24 hours √  high thyroidal uptake of radioiodine / pertechnetate √  rapid 131I turnover √  positive perchlorate washout test Pendred syndrome = autosomal recessive trait of deficient peroxidase regeneration characterized by hypothyroidism + goiter + nerve deafness √  high thyroidal 131I uptake √  rapid intrathyroidal turnover of 131I √  goiter √  stippled epiphyses Thyrotoxicosis =  clinical syndrome of increased systemic metabolism Cause: (a)  increased thyroid function Hyperthyroidism =  excessive thyroid hormone activity R"
+}

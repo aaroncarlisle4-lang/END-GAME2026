@@ -1,0 +1,81 @@
+# Disease: TERATOID TUMOR OF MEDIASTINUM
+
+**Source section:** PNEUMONECTOMY CHEST
+
+## Definition
+
+MEDIASTINAL GERM CELL TUMOR = [= TERATOMA] MATURE (CYSTIC) TERATOMA = BENIGN TERATOMA TERATOCARCINOMA = MALIGNANT TERATOMA
+
+## Key Facts
+
+- **Location:** mediastinum is 3rd most common site for teratoid lesions (after gonadal +
+- **Age:** young adults / children; M = F
+- **Histo:** similar to mature teratoma but with primitive / immature tissue elements; commonly
+- **Frequency:** 2-6% of all mediastinal tumors; 5-13% of all malignant mediastinal tumors
+- **Path:** large unencapsulated well-circumscribed mass
+- **Associated with:** Klinefelter syndrome (in 20%), hematologic malignancy
+
+## Imaging Findings
+
+### CXR
+
+- usually incidental large round lobulated mediastinal mass
+- DIAGNOSTIC teeth / bone / fat / amorphous peripheral wall calcifications (in 20%)
+- frontal CXR:
+- silhouetting of heart
+- obtuse angle to mediastinum + lung
+- disruption of azygoesophageal recess / anterior junction line
+- "hilum overlay" sign (= not of hilar origin!)
+- obliteration of retrosternal clear space
+
+### MR
+
+- variable appearance depending on components of teratoma:
+- areas of high signal intensity on T1WI ← fat
+- areas of low SI on T1WI + high SI on T2WI ← fluid
+- fat, fluid, soft-tissue signal intensities on T1WI + T2WI
+- macroscopic fat on fat-suppressed imaging
+- intracellular lipid on in- and out-of-phase imaging
+- features of malignancy:
+- nodular poorly defined mass with more solid components
+- areas of necrosis or hemorrhage; fat density in 40%
+- thick enhancing capsule
+- compression of adjacent structures
+- large bulky well-marginated lobulated mass
+- usually NO calcification
+- homogeneous soft-tissue density with slight enhancement
+- large tumor of heterogeneous texture with central hemorrhage / necrosis
+- well circumscribed / with irregular margins
+- enhancement of tumor periphery
+- lobulation suggests malignancy
+- invasion of mediastinal structures (SVC obstruction is ominous)
+- ± pleural / pericardial effusion (from local invasion)
+
+### CT
+
+- smooth round mass bulging into right / left hemithorax
+- mass sharply demarcated by well-encapsulated wall
+- multicystic mass of internal heterogeneity with densities varying from -100 to +300 HU
+- water density (85-90%), fat density (65-75%)
+- DIAGNOSTIC fat-fluid level (in 10%)
+- proteinaceous / hemorrhagic fluid component
+- homogeneous soft-tissue density (indistinguishable from lymphoma / thymoma)
+- curvilinear peripheral / central calcification (20-53%, 4 x more common in benign
+- PATHOGNOMONIC visualization of tooth
+- often inseparable from thymic gland
+- enhancement of rim / tissue septa
+
+## Clinical
+
+- **Cx:** (1)  Hemorrhage
+- **Prognosis:** ~ 100% 5-year survival rate
+- **Rx:** complete surgical excision
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

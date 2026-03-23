@@ -1,0 +1,32 @@
+{
+  "finding": "Malignant Gastric Ulcer (5%",
+  "slug": "malignant_gastric_ulcer_5_7f94c6",
+  "chapter": "GASTRIC ULCER",
+  "source_file": "processed_clusters/gastric_ulcer/malignant_gastric_ulcer_5_7f94c6.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gastric carcinoma",
+      "raw": "Gastric carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (2% of all gastric neoplasms)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Leiomyosarcoma, neurogenic sarcoma, fibrosarcoma, liposarcoma",
+      "raw": "Leiomyosarcoma, neurogenic sarcoma, fibrosarcoma, liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases (a)  hematogenic: malignant melanoma, breast cancer, lung cancer (b)  per continuum: pancreas, colon, kidney Location:  anywhere within stomach; fundal ulcers above level of cardia are usually malignant",
+      "raw": "Metastases (a)  hematogenic: malignant melanoma, breast cancer, lung cancer (b)  per continuum: pancreas, colon, kidney Location:  anywhere within stomach; fundal ulcers above level of cardia are usually malignant",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause: √  multiple ulcers with aneurysmal appearance √  ulcer location within gastric lumen, ie, not projecting beyond expected margin of stomach (profile view) √  eccentrically located ulcer within the tumor √  irregularly shaped ulcer √  shallow ulcer with width greater than depth √  nodular ulcer floor √  abrupt transition between normal mucosa + abnormal tissue at some distance (usually 2-4 cm) from ulcer edge √  rolled / rounded / shouldered edges surrounding ulcer √  nodular irregular folds approaching ulcer with fused / clubbed / amputated tips √  rigidity / lack of distensibility √  as"
+}

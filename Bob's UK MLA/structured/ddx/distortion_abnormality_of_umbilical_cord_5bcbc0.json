@@ -1,0 +1,37 @@
+{
+  "finding": "Distortion Abnormality of Umbilical Cord",
+  "slug": "distortion_abnormality_of_umbilical_cord_5bcbc0",
+  "chapter": "UMBILICAL CORD",
+  "source_file": "processed_clusters/umbilical_cord/distortion_abnormality_of_umbilical_cord_5bcbc0.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cord torsion =  excessive twisting of cord as rare form of cord constriction",
+      "raw": "Cord torsion =  excessive twisting of cord as rare form of cord constriction",
+      "frequency": "rare"
+    },
+    {
+      "name": "Cord entanglement Cause:   nearby umbilical cord insertions on single placenta in monoamniotic twin pregnancy",
+      "raw": "Cord entanglement Cause:   nearby umbilical cord insertions on single placenta in monoamniotic twin pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Noncoiled \"straight\" cord counterclockwise÷clockwise umbilical cords = 7÷1 right-handed÷left-handed persons = 7÷1",
+      "raw": "Noncoiled \"straight\" cord counterclockwise÷clockwise umbilical cords = 7÷1 right-handed÷left-handed persons = 7÷1",
+      "frequency": null
+    },
+    {
+      "name": "Body cord =  loop around fetal body / any fetal body part",
+      "raw": "Body cord =  loop around fetal body / any fetal body part",
+      "frequency": null
+    },
+    {
+      "name": "Nuchal cord",
+      "raw": "Nuchal cord",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Timing:   any time during pregnancy; more common during 2nd and 3rd trimester √  evaluation of pitch value of cord coiling √  abnormal S/D flow velocity ratio of umbilical artery Cx:   critically reduced fetal blood flow and fetal hypoxia, oligohydramnios, IUGR, and fetal death Dx:   difficult to diagnose prenatally; mostly detected during postnatal examination √  branching pattern at level of entanglement √  end systolic notch on umbilical artery waveform ← vascular compression / narrowing Cx:   vascular compromise in one / both fetuses → fetal demise Prevalence:   3.7-5% √  absent vascular c"
+}

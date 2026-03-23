@@ -1,0 +1,37 @@
+{
+  "finding": "A. COMPLETE OBSTRUCTION",
+  "slug": "a_complete_obstruction",
+  "chapter": "C. ENDOCRINE ORGANS",
+  "source_file": "processed_clusters/c_endocrine_organs/a_complete_obstruction.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gastric atresia",
+      "raw": "Gastric atresia",
+      "frequency": null
+    },
+    {
+      "name": "regurgitation of bile-free vomitus within first few hours after birth",
+      "raw": "regurgitation of bile-free vomitus within first few hours after birth",
+      "frequency": null
+    },
+    {
+      "name": "Congenital peritoneal bands",
+      "raw": "Congenital peritoneal bands",
+      "frequency": null
+    },
+    {
+      "name": "Annular pancreatic tissue",
+      "raw": "Annular pancreatic tissue",
+      "frequency": null
+    },
+    {
+      "name": "Gastric volvulus",
+      "raw": "Gastric volvulus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   < 1% of all GI obstructions May be associated with:   epidermolysis bullosa Site:   antrum + pylorus √  \"single bubble\" appearance of air in stomach √  membranous mucosal diaphragm"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Low-attenuation Extraaxial Lesion",
+  "slug": "low_attenuation_extraaxial_lesion_1aacfd",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/low_attenuation_extraaxial_lesion_1aacfd.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acoustic schwannoma",
+      "raw": "Acoustic schwannoma (occasionally low-density mass)",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid tumor",
+      "raw": "Epidermoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

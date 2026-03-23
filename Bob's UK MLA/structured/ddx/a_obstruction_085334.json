@@ -1,0 +1,127 @@
+{
+  "finding": "A. OBSTRUCTION",
+  "slug": "a_obstruction_085334",
+  "chapter": "Displaced Gallbladder",
+  "source_file": "processed_clusters/displaced_gallbladder/a_obstruction_085334.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic duct obstruction (40%) (a)  hydrops: chronic cystic duct obstruction + distension with clear sterile mucus (white bile) (b)  empyema: acute / chronic obstruction with superinfection of bile",
+      "raw": "Cystic duct obstruction (40%) (a)  hydrops: chronic cystic duct obstruction + distension with clear sterile mucus (white bile) (b)  empyema: acute / chronic obstruction with superinfection of bile",
+      "frequency": "40%"
+    },
+    {
+      "name": "Cholelithiasis causing obstruction",
+      "raw": "Cholelithiasis causing obstruction (37%)",
+      "frequency": "37%"
+    },
+    {
+      "name": "Cholecystitis with cholelithiasis",
+      "raw": "Cholecystitis with cholelithiasis (11%)",
+      "frequency": "11%"
+    },
+    {
+      "name": "Courvoisier phenomenon (10%) ← neoplastic process in pancreas / duodenal papilla / ampulla of Vater / common bile duct",
+      "raw": "Courvoisier phenomenon (10%) ← neoplastic process in pancreas / duodenal papilla / ampulla of Vater / common bile duct",
+      "frequency": "10%"
+    },
+    {
+      "name": "Pancreatitis",
+      "raw": "Pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Infection: leptospirosis, ascariasis, typhoid fever, scarlet fever, familial",
+      "raw": "Infection: leptospirosis, ascariasis, typhoid fever, scarlet fever, familial",
+      "frequency": null
+    },
+    {
+      "name": "UNOBSTRUCTED",
+      "raw": "UNOBSTRUCTED (mostly neuropathic)",
+      "frequency": null
+    },
+    {
+      "name": "S/P vagotomy",
+      "raw": "S/P vagotomy",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus",
+      "raw": "Diabetes mellitus",
+      "frequency": null
+    },
+    {
+      "name": "Alcoholism",
+      "raw": "Alcoholism",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis",
+      "raw": "Appendicitis (in children)",
+      "frequency": null
+    },
+    {
+      "name": "Narcotic analgesia",
+      "raw": "Narcotic analgesia",
+      "frequency": null
+    },
+    {
+      "name": "WDHA syndrome",
+      "raw": "WDHA syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hyperalimentation",
+      "raw": "Hyperalimentation",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Kawasaki syndrome",
+      "raw": "Kawasaki syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Anticholinergics",
+      "raw": "Anticholinergics",
+      "frequency": null
+    },
+    {
+      "name": "Bedridden patient with prolonged illness",
+      "raw": "Bedridden patient with prolonged illness",
+      "frequency": null
+    },
+    {
+      "name": "AIDS",
+      "raw": "AIDS (in 18%)",
+      "frequency": "18%"
+    },
+    {
+      "name": "Dehydration",
+      "raw": "Dehydration",
+      "frequency": null
+    },
+    {
+      "name": "Prolonged fasting",
+      "raw": "Prolonged fasting",
+      "frequency": null
+    },
+    {
+      "name": "Total parenteral nutrition",
+      "raw": "Total parenteral nutrition",
+      "frequency": null
+    },
+    {
+      "name": "Sepsis",
+      "raw": "Sepsis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Mediterranean fever"
+}

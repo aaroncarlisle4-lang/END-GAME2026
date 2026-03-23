@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoma Of Gastrointestinal Tract (DDx)",
+  "slug": "lymphoma_of_gastrointestinal_tract_ddx_2",
+  "chapter": "Lymphoma Of Gastrointestinal Tract",
+  "source_file": "processed_clusters/lymphoma_of_gastrointestinal_tract/lymphoma_of_gastrointestinal_tract_ddx_2.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "adenocarcinoma (shorter segment of involvement",
+      "raw": "adenocarcinoma (shorter segment of involvement",
+      "frequency": null
+    },
+    {
+      "name": "more abrupt transition from tumor to normal bowel)",
+      "raw": "more abrupt transition from tumor to normal bowel)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "focal / diffuse thickening of bowel wall | decreased / absent peristalsis | ± hose- / tubelike segments of luminal narrowing with obstruction (rare) ← | ± ulceration with considerable excavation"
+}

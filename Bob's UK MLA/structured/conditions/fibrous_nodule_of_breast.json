@@ -1,0 +1,26 @@
+{
+  "name": "FIBROUS NODULE OF BREAST",
+  "slug": "fibrous_nodule_of_breast",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/fibrous_nodule_of_breast.md",
+  "definition": "FIBROUS DISEASE OF THE BREAST = FIBROUS DISEASE = FOCAL FIBROSIS OF THE BREAST =",
+  "demographics": {
+    "Frequency": "3-4% of benign masses; 8% of surgical breast specimens",
+    "Histo": "focally dense collagenous stroma surrounding atrophic epithelium; NONSPECIFIC",
+    "Age": "20-50 years; only 8% postmenopausal",
+    "Location": "unilateral (80-85%) / bilateral (15-20%)"
+  },
+  "dominant_finding": "circumscribed (55%) / indistinct (32%) margin",
+  "distribution": "unilateral (80-85%) / bilateral (15-20%)",
+  "discriminating_features": [
+    "circumscribed (55%) / indistinct (32%) margin",
+    "suggestive of malignancy (11%): irregular shape, spiculated margin, posterior acoustic"
+  ],
+  "other_features": {
+    "general": [
+      "circumscribed (55%) / indistinct (32%) margin",
+      "suggestive of malignancy (11%): irregular shape, spiculated margin, posterior acoustic"
+    ]
+  },
+  "clinical": {}
+}

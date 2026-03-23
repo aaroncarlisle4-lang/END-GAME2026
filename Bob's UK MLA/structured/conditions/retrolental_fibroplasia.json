@@ -1,0 +1,34 @@
+{
+  "name": "RETROLENTAL FIBROPLASIA",
+  "slug": "retrolental_fibroplasia",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/retrolental_fibroplasia.md",
+  "definition": "RETINOPATHY OF PREMATURITY bilateral often asymmetric postnatal fibrovascular organization of vitreous humor, which",
+  "demographics": {},
+  "dominant_finding": "dense vitreus bilaterally (neovascular ingrowth)",
+  "distribution": "bilateral microphthalmia ± retinal detachment",
+  "discriminating_features": [
+    "bilateral microphthalmia ± retinal detachment",
+    "dense vitreus bilaterally (neovascular ingrowth)",
+    "± dystrophic calcifications in choroid + lens (late stage)",
+    "hyperintense vitreus on T1WI + T2WI ← chronic subretinal hemorrhage",
+    "hypointense retrolental mass ← apposition of detached leaves of retina displaced from"
+  ],
+  "other_features": {
+    "general": [
+      "bilateral microphthalmia ± retinal detachment"
+    ],
+    "US": [
+      "hyperechoic tracts extending from temporal side of periphery of retina to vitreus behind"
+    ],
+    "CT": [
+      "dense vitreus bilaterally (neovascular ingrowth)",
+      "± dystrophic calcifications in choroid + lens (late stage)"
+    ],
+    "MR": [
+      "hyperintense vitreus on T1WI + T2WI ← chronic subretinal hemorrhage",
+      "hypointense retrolental mass ← apposition of detached leaves of retina displaced from"
+    ]
+  },
+  "clinical": {}
+}

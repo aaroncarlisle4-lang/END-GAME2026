@@ -1,0 +1,43 @@
+{
+  "name": "SWYER-JAMES SYNDROME",
+  "slug": "swyer_james_syndrome",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/swyer_james_syndrome.md",
+  "definition": "MACLEOD SYNDROME = UNILATERAL LOBAR EMPHYSEMA = IDIOPATHIC UNILATERAL chronic complication of infectious obliterative bronchiolitis in infancy or childhood as early",
+  "demographics": {
+    "Etiology": "acute viral bronchiolitis in infancy / early childhood (adenovirus, RSV, mycoplasma)",
+    "Path": "variant of postinfectious constrictive bronchiolitis with acute obliterative bronchiolitis,"
+  },
+  "dominant_finding": "hyperlucency of one lung ← air trapping ← bronchiolar obstruction",
+  "distribution": "small ipsilateral hilum ← diminuted hilar vessels + attenuated arteries)",
+  "discriminating_features": [
+    "hyperlucency of one lung ← air trapping ← bronchiolar obstruction",
+    "diminished number + size of pulmonary vessels:",
+    "small ipsilateral hilum ← diminuted hilar vessels + attenuated arteries)",
+    "small hemithorax with decreased volume",
+    "normal hyperexpanded hemithorax ← collateral air drift"
+  ],
+  "other_features": {
+    "general": [
+      "hyperlucency of one lung ← air trapping ← bronchiolar obstruction",
+      "diminished number + size of pulmonary vessels:",
+      "small ipsilateral hilum ← diminuted hilar vessels + attenuated arteries)",
+      "small hemithorax with decreased volume",
+      "normal hyperexpanded hemithorax ← collateral air drift",
+      "air trapping during expiration",
+      "mild cylindrical bronchiectasis with paucity of bronchial subdivisions (cutoff at 4th-5th",
+      "bilateral areas of decreased attenuation:",
+      "areas of normal lung attenuation within hypoattenuating lung",
+      "air trapping within hypoattenuating lung",
+      "ipsilateral bronchiectasis",
+      "diminished size of pulmonary vessels in hyperlucent areas"
+    ],
+    "ANGIO": [
+      "\"pruned tree\" appearance",
+      "matched defects of perfusion + ventilation (with delayed washout) in hyperlucent regions",
+      "incomplete filling of ipsilateral peripheral bronchioles",
+      "dilated bronchi with sharply terminating segments"
+    ]
+  },
+  "clinical": {}
+}

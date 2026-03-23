@@ -1,0 +1,37 @@
+{
+  "finding": "US and CT.",
+  "slug": "us_and_ct",
+  "chapter": "GANGLIOCYTIC PARAGANGLIOMA",
+  "source_file": "processed_clusters/gangliocytic_paraganglioma/us_and_ct.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "GI bleeding, abdominal pain, weight loss",
+      "raw": "GI bleeding, abdominal pain, weight loss",
+      "frequency": null
+    },
+    {
+      "name": "Direct invasion: along peritoneal ligaments",
+      "raw": "Direct invasion: along peritoneal ligaments",
+      "frequency": null
+    },
+    {
+      "name": "Lymphatic: to local lymph nodes",
+      "raw": "Lymphatic: to local lymph nodes",
+      "frequency": null
+    },
+    {
+      "name": "Hematogenous: to liver",
+      "raw": "Hematogenous: to liver (most common), adrenals, ovary, bone (1.8%), lymphangitic carcinomatosis of lung (rare)",
+      "frequency": "1.8%"
+    },
+    {
+      "name": "Peritoneal seeding ›  on rectal wall = Blumer shelf [George Blumer (1872-1962), surgeon at Albany Medical College, Cooper Medical",
+      "raw": "Peritoneal seeding ›  on rectal wall = Blumer shelf [George Blumer (1872-1962), surgeon at Albany Medical College, Cooper Medical",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "UGI: √  rigidity √  filling defect √  amputation of folds ± ulceration ± stenosis √  miliary / punctate calcifications ← mucinous adenocarcinoma CT: √  irregular nodular luminal surface √  asymmetric thickening of folds √  mass of uniform density / varying attenuation √  wall thickness > 6 mm (with gas distension) and 13 mm (with positive contrast material distension): √  diffuse low attenuation in mucinous carcinoma √  increased density in perigastric fat √  enhancement exclusively in linitis plastica type √  nodules of serosal surface ← dilated surface lymphatics √  diameter of esophagus at"
+}

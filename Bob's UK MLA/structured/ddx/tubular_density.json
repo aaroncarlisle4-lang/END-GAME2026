@@ -1,0 +1,97 @@
+{
+  "finding": "Tubular Density",
+  "slug": "tubular_density",
+  "chapter": "D. TRAUMA",
+  "source_file": "processed_clusters/d_trauma/tubular_density.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucoid impaction",
+      "raw": "Mucoid impaction",
+      "frequency": null
+    },
+    {
+      "name": "Vascular malformation",
+      "raw": "Vascular malformation",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformation",
+      "raw": "Arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary varix",
+      "raw": "Pulmonary varix",
+      "frequency": null
+    },
+    {
+      "name": "BRONCHIAL OBSTRUCTION (a)  congenital",
+      "raw": "BRONCHIAL OBSTRUCTION (a)  congenital",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial atresia",
+      "raw": "Bronchial atresia",
+      "frequency": null
+    },
+    {
+      "name": "Interlobar sequestration",
+      "raw": "Interlobar sequestration",
+      "frequency": null
+    },
+    {
+      "name": "Intrapulmonary bronchogenic cyst (b)  endobronchial tumor",
+      "raw": "Intrapulmonary bronchogenic cyst (b)  endobronchial tumor",
+      "frequency": null
+    },
+    {
+      "name": "Endobronchial hamartoma",
+      "raw": "Endobronchial hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Endobronchial lipoma",
+      "raw": "Endobronchial lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic carcinoma / adenoma",
+      "raw": "Bronchogenic carcinoma / adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Laryngeal papillomatosis",
+      "raw": "Laryngeal papillomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: breast, kidney, colon, rectum, uterus, skin (c)  others",
+      "raw": "Metastasis: breast, kidney, colon, rectum, uterus, skin (c)  others",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous stricture",
+      "raw": "Tuberculous stricture",
+      "frequency": null
+    },
+    {
+      "name": "Broncholithiasis",
+      "raw": "Broncholithiasis",
+      "frequency": null
+    },
+    {
+      "name": "Foreign body aspiration",
+      "raw": "Foreign body aspiration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Mucoid Impaction =  BRONCHIAL MUCOCELE = BRONCHOCELE =  V-/Y-shaped branching tubular opacities of dilated bronchi filled with inspissated mucus surrounded by aerated lung (collateral air drift circumvents obstructed bronchi) √  \"gloved finger / finger-in-glove\" sign √  usually associated with bronchial dilatation CT: √  bronchiectasis √  low-attenuation mucus inspissated in bronchi √  clear connection with central airway"
+}

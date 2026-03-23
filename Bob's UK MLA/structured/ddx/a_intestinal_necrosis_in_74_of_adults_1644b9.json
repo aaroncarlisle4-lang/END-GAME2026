@@ -1,0 +1,32 @@
+{
+  "finding": "A. INTESTINAL NECROSIS (in 74% of adults",
+  "slug": "a_intestinal_necrosis_in_74_of_adults_1644b9",
+  "chapter": "D. PERSISTENT DUCTUS VENOSUS",
+  "source_file": "processed_clusters/d_persistent_ductus_venosus/a_intestinal_necrosis_in_74_of_adults_1644b9.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bowel infarction ← arterial and venous occlusions",
+      "raw": "Bowel infarction ← arterial and venous occlusions (vascular accidents, SMA syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Ulcerative colitis",
+      "raw": "Ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing enterocolitis associated with mesenteric arterial thrombosis",
+      "raw": "Necrotizing enterocolitis associated with mesenteric arterial thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Perforated gastric ulcer",
+      "raw": "Perforated gastric ulcer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "C. DISSEMINATED INFECTION",
+  "slug": "c_disseminated_infection_ecafed",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/c_disseminated_infection_ecafed.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cysticercosis",
+      "raw": "Cysticercosis",
+      "frequency": null
+    },
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

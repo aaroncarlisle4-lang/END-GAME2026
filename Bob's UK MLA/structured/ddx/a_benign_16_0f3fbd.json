@@ -1,0 +1,27 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_16_0f3fbd",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/myeloproliferative_disorders/a_benign_16_0f3fbd.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Diagnosis certain: no further work-up necessary",
+      "raw": "Diagnosis certain: no further work-up necessary",
+      "frequency": null
+    },
+    {
+      "name": "Asymptomatic lesion with highly probable benign diagnosis may be followed clinically",
+      "raw": "Asymptomatic lesion with highly probable benign diagnosis may be followed clinically",
+      "frequency": null
+    },
+    {
+      "name": "Symptomatic lesion with highly probable benign diagnosis may be treated without further work-up",
+      "raw": "Symptomatic lesion with highly probable benign diagnosis may be treated without further work-up",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

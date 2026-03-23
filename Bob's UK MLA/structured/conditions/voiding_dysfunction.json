@@ -1,0 +1,68 @@
+{
+  "name": "VOIDING DYSFUNCTION",
+  "slug": "voiding_dysfunction",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/voiding_dysfunction.md",
+  "definition": "SPHINCTER WEAKNESS INCONTINENCE= URETHRAL INCOMPETENCE involuntary loss of urine during physical activity such as coughing, sneezing, laughing, MOTOR URGE INCONTINENCE = UNSTABLE BLADDER sudden contraction of detrusor muscle often related to inflammation / infection / nervous overactivity of bladder neck muscle with failure to relax at beginning of voiding NONNEUROGENIC NEUROGENIC BLADDER [NNNB] = DETRUSOR-SPHINCTER DYSSYNERGIA urethral compression by hypertrophic prostatic tissue",
+  "demographics": {
+    "Age": "some time after toilet training with onset during early / late childhood / puberty"
+  },
+  "dominant_finding": "urethral hypermobility (80-90%) ← laxity of urethral supporting structures:",
+  "distribution": "posterior urethrovesical angle (= angle between posterior urethra + bladder base)",
+  "discriminating_features": [
+    "opening of bladder neck during coughing",
+    "impairment of milk-back mechanism (= retrograde emptying of urethra during interruption",
+    "urethrovesical descent (in types I + II)",
+    "posterior urethrovesical angle (= angle between posterior urethra + bladder base)",
+    "upper urethral axis (= angle between upper urethra + vertical line) increased > 35°"
+  ],
+  "other_features": {
+    "general": [
+      "opening of bladder neck during coughing",
+      "impairment of milk-back mechanism (= retrograde emptying of urethra during interruption",
+      "urethrovesical descent (in types I + II)",
+      "posterior urethrovesical angle (= angle between posterior urethra + bladder base)",
+      "upper urethral axis (= angle between upper urethra + vertical line) increased > 35°"
+    ],
+    "MR": [
+      "urethral hypermobility (80-90%) ← laxity of urethral supporting structures:",
+      "rotational descent during straining = rotation of urethral axis from vertical to",
+      "funneling = bladder neck + proximal urethra pushed low + appearing widely patent",
+      "involuntary bladder contractions with NO relationship to bladder distension",
+      "progressively vigorous contractions during bladder filling",
+      "postural instability limited to upright position",
+      "impaired milk-back mechanism ← high bladder pressure",
+      "strong contractions following bladder emptying",
+      "patient uncomfortable with low bladder filling",
+      "no abnormal rise in bladder pressure",
+      "normal voiding function",
+      "collarlike indentation of bladder neck during voiding (= persistent / intermittent",
+      "may have high voiding pressure + reduced flow",
+      "trapping of contrast in urethra during interruption of flow",
+      "massive reflux into prostatic ducts during voiding ← high pressure within prostatic",
+      "severely trabeculated \"Christmas-tree\" bladder + bilateral hydroureteronephrosis",
+      "high-pressure uninhibited detrusor contractions",
+      "lack of coordination between detrusor contraction + periurethral striated sphincter",
+      "inability to suppress bladder contractions",
+      "normal response of detrusor muscle to reflex stimulation",
+      "increased bladder capacity + pressure",
+      "sphincter activity may increase paradoxically during detrusor contraction"
+    ],
+    "US": [
+      "trabeculated bladder",
+      "dilatation of upper urinary tracts",
+      "renal damage",
+      "urethra normal during early voiding",
+      "urethral distension after contraction of external sphincter as voiding progresses",
+      "ureterovesical obstruction / reflux",
+      "no structural abnormality; urography NOT indicated",
+      "high-pressure bladder",
+      "slow + prolonged flow",
+      "increase in bladder capacity with reduced contractility (late)"
+    ]
+  },
+  "clinical": {
+    "Cx": "thickening of bladder wall, bladder diverticula",
+    "Rx": "treatment of obstruction, anticholinergic drug (oxybutynin), operative increase in"
+  }
+}

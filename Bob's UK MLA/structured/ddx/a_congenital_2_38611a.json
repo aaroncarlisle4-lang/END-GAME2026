@@ -1,0 +1,37 @@
+{
+  "finding": "A. CONGENITAL",
+  "slug": "a_congenital_2_38611a",
+  "chapter": "E. MISCELLANEOUS",
+  "source_file": "processed_clusters/e_miscellaneous/a_congenital_2_38611a.md",
+  "quality_score": 0.533,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Congenital / primary cholesteatoma",
+      "raw": "Congenital / primary cholesteatoma",
+      "frequency": null
+    },
+    {
+      "name": "INFLAMMATION",
+      "raw": "INFLAMMATION",
+      "frequency": null
+    },
+    {
+      "name": "Cholesterol granuloma",
+      "raw": "Cholesterol granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Petrous apex mucocele",
+      "raw": "Petrous apex mucocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Congenital / primary cholesteatoma": [],
+    "INFLAMMATION": [],
+    "Cholesterol granuloma": [],
+    "Petrous apex mucocele": []
+  },
+  "context": "= epidermoid tumor (3rd most common CPA tumor)"
+}

@@ -1,0 +1,92 @@
+{
+  "finding": "Unilocular Well-demarcated Bone Defect",
+  "slug": "unilocular_well_demarcated_bone_defect",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/unilocular_well_demarcated_bone_defect.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibrous cortical defect",
+      "raw": "Fibrous cortical defect",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Simple unicameral bone cyst",
+      "raw": "Simple unicameral bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Brown tumor of HPT",
+      "raw": "Brown tumor of HPT",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid inclusion cyst",
+      "raw": "Epidermoid inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Posttraumatic / degenerative cyst",
+      "raw": "Posttraumatic / degenerative cyst",
+      "frequency": null
+    },
+    {
+      "name": "Pseudotumor of hemophilia",
+      "raw": "Pseudotumor of hemophilia",
+      "frequency": null
+    },
+    {
+      "name": "Intraosseous ganglion",
+      "raw": "Intraosseous ganglion",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytoma",
+      "raw": "Histiocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Arthritic lesion",
+      "raw": "Arthritic lesion",
+      "frequency": null
+    },
+    {
+      "name": "Endosteal pigmented villonodular synovitis",
+      "raw": "Endosteal pigmented villonodular synovitis",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Infectious lesion",
+      "raw": "Infectious lesion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

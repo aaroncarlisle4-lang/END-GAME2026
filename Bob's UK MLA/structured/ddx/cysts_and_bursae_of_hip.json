@@ -1,0 +1,42 @@
+{
+  "finding": "Cysts and Bursae of Hip",
+  "slug": "cysts_and_bursae_of_hip",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/cysts_and_bursae_of_hip.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Iliopsoas bursa",
+      "raw": "Iliopsoas bursa",
+      "frequency": null
+    },
+    {
+      "name": "Greater trochanteric bursae (a)  Trochanteric bursa Location:   covers posterior facet, beneath gluteus maximus muscle + iliotibial tract (b)  Subgluteus medius bursa",
+      "raw": "Greater trochanteric bursae (a)  Trochanteric bursa Location:   covers posterior facet, beneath gluteus maximus muscle + iliotibial tract (b)  Subgluteus medius bursa",
+      "frequency": null
+    },
+    {
+      "name": "Ischiotrochanteric bursa",
+      "raw": "Ischiotrochanteric bursa",
+      "frequency": null
+    },
+    {
+      "name": "Obturator externus bursa",
+      "raw": "Obturator externus bursa",
+      "frequency": null
+    },
+    {
+      "name": "Ischial bursa",
+      "raw": "Ischial bursa (= weaver's bottom)",
+      "frequency": null
+    },
+    {
+      "name": "Paralabral cyst",
+      "raw": "Paralabral cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   surrounds iliopsoas tendon √  largest bursa in body √  communication with hip in 15% Location:   covers superior portion of lateral facet, beneath lateral portion of gluteus medius m. (c)  Subgluteus minimus bursa Location:   covers superomedial portion of anterior facet, beneath + medial to gluteus minimus m. Location:   posteroinferior communication of hip joint capsule"
+}

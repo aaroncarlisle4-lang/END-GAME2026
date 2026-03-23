@@ -1,0 +1,27 @@
+{
+  "finding": "F. NEOPLASM",
+  "slug": "f_neoplasm",
+  "chapter": "C. Pneumoconiosis",
+  "source_file": "processed_clusters/c_pneumoconiosis/f_neoplasm.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary pulmonary lymphoma",
+      "raw": "Primary pulmonary lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Laryngotracheal papillomatosis",
+      "raw": "Laryngotracheal papillomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Tumor embolism",
+      "raw": "Tumor embolism",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

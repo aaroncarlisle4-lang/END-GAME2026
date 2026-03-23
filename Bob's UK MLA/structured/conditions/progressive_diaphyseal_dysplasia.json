@@ -1,0 +1,38 @@
+{
+  "name": "PROGRESSIVE DIAPHYSEAL DYSPLASIA",
+  "slug": "progressive_diaphyseal_dysplasia",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/progressive_diaphyseal_dysplasia.md",
+  "definition": "ENGELMANN-CAMURATI DISEASE = CAMURATI-ENGELMANN DISEASE autosomal dominant disorder of intramembranous ossification",
+  "demographics": {
+    "Genetics": "mutation in gene encoding transforming growth factor TGF-β1 (= latency-associated",
+    "Age": "5-25 years (primarily in childhood); M > F"
+  },
+  "dominant_finding": "amorphous sclerosis of skull base → cranial nerve palsy",
+  "distribution": "bilateral symmetric cortical thickening involving periosteal + endosteal surfaces of long",
+  "discriminating_features": [
+    "amorphous sclerosis of skull base → cranial nerve palsy",
+    "encroachment of frontal + sphenoid sinus; sparing of maxillary sinus",
+    "mandible rarely affected",
+    "bilateral symmetric cortical thickening involving periosteal + endosteal surfaces of long",
+    "fusiform enlargement of diaphysis"
+  ],
+  "other_features": {
+    "general": [
+      "amorphous sclerosis of skull base → cranial nerve palsy",
+      "encroachment of frontal + sphenoid sinus; sparing of maxillary sinus",
+      "mandible rarely affected"
+    ],
+    "Long bones": [
+      "bilateral symmetric cortical thickening involving periosteal + endosteal surfaces of long",
+      "fusiform enlargement of diaphysis",
+      "abrupt demarcation of lesions ← sparing of metaphyses + epiphyses ← formed by",
+      "cortical thickening (= endosteal + periosteal accretion of mottled new bone) →",
+      "progression of lesions along long axis of bone toward either end",
+      "relative elongation of extremities"
+    ]
+  },
+  "clinical": {
+    "Rx": "low-dose corticosteroids"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "B. MALIGNANT NARROWING (most common cause",
+  "slug": "b_malignant_narrowing_most_common_cause_06481c",
+  "chapter": "Passage of Meconium",
+  "source_file": "processed_clusters/passage_of_meconium/b_malignant_narrowing_most_common_cause_06481c.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Antral carcinoma: cause in adults in 30-35%",
+      "raw": "Antral carcinoma: cause in adults in 30-35%",
+      "frequency": "35%"
+    },
+    {
+      "name": "Scirrhous carcinoma of pyloric channel",
+      "raw": "Scirrhous carcinoma of pyloric channel",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic adenocarcinoma",
+      "raw": "Pancreatic adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Primary duodenal tumor",
+      "raw": "Primary duodenal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Primary biliary tumor",
+      "raw": "Primary biliary tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (rarely)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

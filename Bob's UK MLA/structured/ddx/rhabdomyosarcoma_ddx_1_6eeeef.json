@@ -1,0 +1,32 @@
+{
+  "finding": "Rhabdomyosarcoma (DDx)",
+  "slug": "rhabdomyosarcoma_ddx_1_6eeeef",
+  "chapter": "Rhabdomyosarcoma",
+  "source_file": "processed_clusters/rhabdomyosarcoma/rhabdomyosarcoma_ddx_1_6eeeef.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "polyp",
+      "raw": "polyp",
+      "frequency": null
+    },
+    {
+      "name": "hemangioma",
+      "raw": "hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "ectopic ureterocele",
+      "raw": "ectopic ureterocele",
+      "frequency": null
+    },
+    {
+      "name": "hemorrhagic cystitis",
+      "raw": "hemorrhagic cystitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± invasion of periurethral / perivesical tissues | retroperitoneal lymph node enlargement | low signal intensity on T1WI + hyperintense on T2WI | heterogeneous enhancement"
+}

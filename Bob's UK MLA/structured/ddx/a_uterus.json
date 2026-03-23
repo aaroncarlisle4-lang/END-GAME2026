@@ -1,0 +1,42 @@
+{
+  "finding": "A. UTERUS",
+  "slug": "a_uterus",
+  "chapter": "GAS IN GENITAL TRACT",
+  "source_file": "processed_clusters/gas_in_genital_tract/a_uterus.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endometritis",
+      "raw": "Endometritis",
+      "frequency": null
+    },
+    {
+      "name": "Superinfection of leiomyoma: more common in submucosal leiomyoma",
+      "raw": "Superinfection of leiomyoma: more common in submucosal leiomyoma (insufficient blood supply)",
+      "frequency": "common"
+    },
+    {
+      "name": "Bacterial metabolism of necrotic neoplastic tissue",
+      "raw": "Bacterial metabolism of necrotic neoplastic tissue",
+      "frequency": null
+    },
+    {
+      "name": "Fistula to GI tract: uterine cancer",
+      "raw": "Fistula to GI tract: uterine cancer",
+      "frequency": null
+    },
+    {
+      "name": "Pyometra ← obstruction by cervical cancer",
+      "raw": "Pyometra ← obstruction by cervical cancer",
+      "frequency": null
+    },
+    {
+      "name": "Gas gangrene ← clostridial infection from septic abortion",
+      "raw": "Gas gangrene ← clostridial infection from septic abortion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

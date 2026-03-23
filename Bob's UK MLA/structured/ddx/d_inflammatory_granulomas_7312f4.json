@@ -1,0 +1,87 @@
+{
+  "finding": "D. INFLAMMATORY GRANULOMAS",
+  "slug": "d_inflammatory_granulomas_7312f4",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/d_inflammatory_granulomas_7312f4.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fungal: coccidioidomycosis, histoplasmosis, cryptococcosis",
+      "raw": "Fungal: coccidioidomycosis, histoplasmosis, cryptococcosis",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial: nocardiosis, tuberculosis",
+      "raw": "Bacterial: nocardiosis, tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Viral: atypical measles",
+      "raw": "Viral: atypical measles",
+      "frequency": null
+    },
+    {
+      "name": "Parasites: hydatid cysts, paragonimiasis",
+      "raw": "Parasites: hydatid cysts, paragonimiasis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis: large accumulation of interstitial granulomas",
+      "raw": "Sarcoidosis: large accumulation of interstitial granulomas",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory pseudotumors: fibrous histiocytoma, plasma cell granuloma, hyalinizing pulmonary nodules, pseudolymphoma",
+      "raw": "Inflammatory pseudotumors: fibrous histiocytoma, plasma cell granuloma, hyalinizing pulmonary nodules, pseudolymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar proteinosis",
+      "raw": "Alveolar proteinosis",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Drugs",
+      "raw": "Drugs",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar cell carcinoma",
+      "raw": "Alveolar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Pneumonias",
+      "raw": "Pneumonias",
+      "frequency": null
+    },
+    {
+      "name": "Infarcts",
+      "raw": "Infarcts",
+      "frequency": null
+    },
+    {
+      "name": "Goodpasture syndrome",
+      "raw": "Goodpasture syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

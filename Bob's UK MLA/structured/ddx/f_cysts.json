@@ -1,0 +1,42 @@
+{
+  "finding": "F. CYSTS",
+  "slug": "f_cysts",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/f_cysts.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic hygroma",
+      "raw": "Cystic hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic cyst",
+      "raw": "Bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Extralobar sequestration",
+      "raw": "Extralobar sequestration",
+      "frequency": null
+    },
+    {
+      "name": "Thymic cysts / dermoid cysts",
+      "raw": "Thymic cysts / dermoid cysts",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial cyst: true cyst; pericardial diverticulum",
+      "raw": "Pericardial cyst: true cyst; pericardial diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

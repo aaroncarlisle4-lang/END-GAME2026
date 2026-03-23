@@ -1,0 +1,30 @@
+{
+  "name": "RETINAL ASTROCYTOMA",
+  "slug": "retinal_astrocytoma",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/retinal_astrocytoma.md",
+  "definition": "RETINAL ASTROCYTIC HAMARTOMA low-grade benign neoplasm / hamartoma arising from the nerve fiber layer of retina / optic",
+  "demographics": {
+    "Etiology": "tuberous sclerosis (53%); neurofibromatosis type 1 (14%); sporadic (33%)",
+    "Path": "usually multiple + bilateral in tuberous sclerosis;",
+    "Histo": "spindle-shaped fibrous astrocytes with small oval nuclei",
+    "Age": "congenital",
+    "Location": "retina near optic disc; bilateral in 25%"
+  },
+  "dominant_finding": "retinal mass ± enhancement ± calcifications",
+  "distribution": "retina near optic disc; bilateral in 25%",
+  "discriminating_features": [
+    "retinal mass ± enhancement ± calcifications",
+    "typically unilateral (DDx to drusen)"
+  ],
+  "other_features": {
+    "general": [
+      "retinal mass ± enhancement ± calcifications",
+      "typically unilateral (DDx to drusen)"
+    ]
+  },
+  "clinical": {
+    "Cx": "(1)  Central retinal vein occlusion + secondary hemorrhage",
+    "Rx": "not necessary"
+  }
+}

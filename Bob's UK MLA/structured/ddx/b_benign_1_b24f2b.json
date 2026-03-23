@@ -1,0 +1,47 @@
+{
+  "finding": "B. BENIGN",
+  "slug": "b_benign_1_b24f2b",
+  "chapter": "URETHRA",
+  "source_file": "processed_clusters/urethra/b_benign_1_b24f2b.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibroepithelial polyp",
+      "raw": "Fibroepithelial polyp",
+      "frequency": null
+    },
+    {
+      "name": "Transitional cell papilloma",
+      "raw": "Transitional cell papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatous polyp",
+      "raw": "Adenomatous polyp",
+      "frequency": null
+    },
+    {
+      "name": "hematuria",
+      "raw": "hematuria",
+      "frequency": null
+    },
+    {
+      "name": "Penile squamous papilloma",
+      "raw": "Penile squamous papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Urethral leiomyoma",
+      "raw": "Urethral leiomyoma (female)",
+      "frequency": null
+    },
+    {
+      "name": "Others: caruncle, urethral mucosal prolapse, inflammatory tags",
+      "raw": "Others: caruncle, urethral mucosal prolapse, inflammatory tags (in female)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Age:   older patient Location:   in prostatic / bulbomembranous urethra ◊  Frequently associated with concomitant bladder papillomas Age:   young men Histo:   columnar epithelium ← aberrant prostatic epithelium Location:   adjacent to verumontanum √  well-defined homogeneous tumor with increased vascularity √  T1-hypointense + T2-hyperintense relative to muscle + uniform enhancement"
+}

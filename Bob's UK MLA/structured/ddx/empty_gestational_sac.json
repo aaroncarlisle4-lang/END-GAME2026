@@ -1,0 +1,37 @@
+{
+  "finding": "Empty Gestational Sac",
+  "slug": "empty_gestational_sac",
+  "chapter": "C. SAC VULNERABILITY",
+  "source_file": "processed_clusters/c_sac_vulnerability/empty_gestational_sac.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Normal early IUP between 5 and 7 weeks MA",
+      "raw": "Normal early IUP between 5 and 7 weeks MA",
+      "frequency": null
+    },
+    {
+      "name": "Blighted ovum",
+      "raw": "Blighted ovum",
+      "frequency": null
+    },
+    {
+      "name": "Abortion in progress",
+      "raw": "Abortion in progress",
+      "frequency": null
+    },
+    {
+      "name": "Cervical ectopic pregnancy",
+      "raw": "Cervical ectopic pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Fundal fibroid compressing sac downward",
+      "raw": "Fundal fibroid compressing sac downward",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DDx:  Pseudosac of ectopic pregnancy Gestational Sac in Low Position √  no placental blood flow"
+}

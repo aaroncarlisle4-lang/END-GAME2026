@@ -1,0 +1,27 @@
+{
+  "finding": "A. CONGENITAL LESION",
+  "slug": "a_congenital_lesion",
+  "chapter": "Passage of Meconium",
+  "source_file": "processed_clusters/passage_of_meconium/a_congenital_lesion.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Antral mucosal diaphragm = antral web",
+      "raw": "Antral mucosal diaphragm = antral web",
+      "frequency": null
+    },
+    {
+      "name": "Gastric duplication: usually along greater curvature, abdominal mass in infancy",
+      "raw": "Gastric duplication: usually along greater curvature, abdominal mass in infancy",
+      "frequency": null
+    },
+    {
+      "name": "Hypertrophic pyloric stenosis",
+      "raw": "Hypertrophic pyloric stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Mediastinal Mass",
+  "slug": "mediastinal_mass_1_aff58f",
+  "chapter": "FETAL CHEST ANOMALIES",
+  "source_file": "processed_clusters/fetal_chest_anomalies/mediastinal_mass_1_aff58f.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Goiter",
+      "raw": "Goiter",
+      "frequency": null
+    },
+    {
+      "name": "Cystic hygroma",
+      "raw": "Cystic hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial teratoma",
+      "raw": "Pericardial teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "A. DIFFUSE OSTEOPENIA",
+  "slug": "a_diffuse_osteopenia",
+  "chapter": "OSTEOPENIA",
+  "source_file": "processed_clusters/osteopenia/a_diffuse_osteopenia.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteoporosis = decreased osteoid production",
+      "raw": "Osteoporosis = decreased osteoid production",
+      "frequency": null
+    },
+    {
+      "name": "Osteomalacia = undermineralization of osteoid",
+      "raw": "Osteomalacia = undermineralization of osteoid",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma / diffuse metastases",
+      "raw": "Multiple myeloma / diffuse metastases",
+      "frequency": null
+    },
+    {
+      "name": "Drugs",
+      "raw": "Drugs",
+      "frequency": null
+    },
+    {
+      "name": "Mastocytosis",
+      "raw": "Mastocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "REGIONAL OSTEOPENIA",
+      "raw": "REGIONAL OSTEOPENIA",
+      "frequency": null
+    },
+    {
+      "name": "Type I (postmenopausal) osteoporosis =  accelerated trabecular bone resorption ← estrogen deficiency",
+      "raw": "Type I (postmenopausal) osteoporosis =  accelerated trabecular bone resorption ← estrogen deficiency",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Osteoporosis =  reduced bone mass of normal composition secondary to (a)  osteoclastic resorption (85%): trabecular, endosteal, intracortical, subperiosteal (b) osteocytic resorption (15%) Prevalence:  7% of all women aged 35-40 years; 12% for males + females aged 50-79 years; ◊  Most common of all metabolic bone disorders; 14 million worldwide by Classification: (a)  Primary / involutional osteoporosis ← cumulative bone loss as people age and undergo sex hormone changes"
+}

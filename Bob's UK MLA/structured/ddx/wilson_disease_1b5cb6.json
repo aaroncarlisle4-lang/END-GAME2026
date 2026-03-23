@@ -1,0 +1,41 @@
+{
+  "finding": "Wilson disease",
+  "slug": "wilson_disease_1b5cb6",
+  "chapter": "B. COPPER",
+  "source_file": "processed_clusters/b_copper/wilson_disease_1b5cb6.md",
+  "quality_score": 0.533,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "IODINE",
+      "raw": "IODINE",
+      "frequency": null
+    },
+    {
+      "name": "GOLD",
+      "raw": "GOLD",
+      "frequency": null
+    },
+    {
+      "name": "THOROTRAST",
+      "raw": "THOROTRAST",
+      "frequency": null
+    },
+    {
+      "name": "THALLIUM",
+      "raw": "THALLIUM",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "IODINE": [
+      "Amiodarone (= antiarrhythmic drug with 37% iodine by weight)"
+    ],
+    "GOLD": [
+      "95-145 HU (range of normal for liver 30-70 HU) Colloidal form of gold for therapy of rheumatoid arthritis Alpha-emitter with atomic number of 90 Accidental / suicidal ingestion of rodenticides (lethal dose is 0.2-1.0 gram)"
+    ],
+    "THOROTRAST": [],
+    "THALLIUM": []
+  },
+  "context": "Amiodarone (= antiarrhythmic drug with 37% iodine by weight) √  95-145 HU (range of normal for liver 30-70 HU) Colloidal form of gold for therapy of rheumatoid arthritis Alpha-emitter with atomic number of 90 Accidental / suicidal ingestion of rodenticides (lethal dose is 0.2-1.0 gram)"
+}

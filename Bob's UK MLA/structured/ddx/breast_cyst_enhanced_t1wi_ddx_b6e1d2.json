@@ -1,0 +1,32 @@
+{
+  "finding": "Breast Cyst — enhanced T1WI (DDx)",
+  "slug": "breast_cyst_enhanced_t1wi_ddx_b6e1d2",
+  "chapter": "Breast Cyst",
+  "source_file": "processed_clusters/breast_cyst/breast_cyst_enhanced_t1wi_ddx_b6e1d2.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "artifactual scatter in superficial / deep small cysts",
+      "raw": "artifactual scatter in superficial / deep small cysts",
+      "frequency": null
+    },
+    {
+      "name": "fibroadenoma",
+      "raw": "fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "papilloma",
+      "raw": "papilloma",
+      "frequency": null
+    },
+    {
+      "name": "carcinoma",
+      "raw": "carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "spongelike cluster of microcysts | hyper- / isointense cyst content (hemorrhage) ± sign of sedimentation | thick ring-enhancing cyst wall (inflammation) | slight contrast uptake in surrounding tissue (= reactive hyperemia)"
+}

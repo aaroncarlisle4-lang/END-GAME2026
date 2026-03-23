@@ -1,0 +1,32 @@
+{
+  "finding": "B. BLUNT TRAUMA",
+  "slug": "b_blunt_trauma",
+  "chapter": "Traumatic Pneumothorax",
+  "source_file": "processed_clusters/traumatic_pneumothorax/b_blunt_trauma.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rib fracture",
+      "raw": "Rib fracture",
+      "frequency": null
+    },
+    {
+      "name": "Increased intrathoracic pressure against closed glottis: lung contusion / laceration",
+      "raw": "Increased intrathoracic pressure against closed glottis: lung contusion / laceration",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial fracture",
+      "raw": "Bronchial fracture",
+      "frequency": null
+    },
+    {
+      "name": "IATROGENIC tracheostomy, central venous catheter, PEEP ventilator (3-16%), thoracic irradiation Rx:  indication for chest tube placement dependent on symptoms + physiologic response",
+      "raw": "IATROGENIC tracheostomy, central venous catheter, PEEP ventilator (3-16%), thoracic irradiation Rx:  indication for chest tube placement dependent on symptoms + physiologic response",
+      "frequency": "16%"
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   15-40% of blunt chest trauma Pathophysiology:   ruptured alveoli (sudden increase in intrathoracic pressure), blunt crushing force, deceleration force √  \"fallen lung\" sign = hilum of lung below expected level within chest cavity √  persistent pneumothorax with functioning chest tube √  mediastinal pneumothorax"
+}

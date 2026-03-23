@@ -1,0 +1,27 @@
+{
+  "finding": "Adrenal Hemorrhage — chronic stage (> 7 weeks): (DDx)",
+  "slug": "adrenal_hemorrhage_chronic_stage_7_weeks_ddx_8d4ddf",
+  "chapter": "Adrenal Hemorrhage",
+  "source_file": "processed_clusters/adrenal_hemorrhage/adrenal_hemorrhage_chronic_stage_7_weeks_ddx_8d4ddf.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "neuroblastoma (stippled calcifications",
+      "raw": "neuroblastoma (stippled calcifications",
+      "frequency": null
+    },
+    {
+      "name": "increase in vanillylmandelic acid",
+      "raw": "increase in vanillylmandelic acid",
+      "frequency": null
+    },
+    {
+      "name": "no decrease on follow-up)",
+      "raw": "no decrease on follow-up)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hypointense rim on T1WI + T2WI | \"blooming effect\" (= magnetic susceptibility) of hemosiderin in gradient-echo imaging"
+}

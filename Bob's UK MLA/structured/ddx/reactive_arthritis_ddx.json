@@ -1,0 +1,27 @@
+{
+  "finding": "Reactive Arthritis (DDx)",
+  "slug": "reactive_arthritis_ddx",
+  "chapter": "Reactive Arthritis",
+  "source_file": "processed_clusters/reactive_arthritis/reactive_arthritis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Psoriasis (radiographically indistinguishable; no predilection for lower extremities",
+      "raw": "Psoriasis (radiographically indistinguishable; no predilection for lower extremities",
+      "frequency": null
+    },
+    {
+      "name": "asymmetric involvement",
+      "raw": "asymmetric involvement",
+      "frequency": null
+    },
+    {
+      "name": "clinical findings)",
+      "raw": "clinical findings)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "periarticular deossification | marginal erosions, loss of joint space | bilateral sacroiliac changes indistinguishable from ankylosing / psoriatic spondylitis (in | paravertebral ossification = isolated \"floating osteophyte\" usually in thoracolumbar area"
+}

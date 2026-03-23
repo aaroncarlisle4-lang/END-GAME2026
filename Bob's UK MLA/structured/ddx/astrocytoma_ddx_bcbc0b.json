@@ -1,0 +1,37 @@
+{
+  "finding": "Astrocytoma (DDx)",
+  "slug": "astrocytoma_ddx_bcbc0b",
+  "chapter": "Astrocytoma",
+  "source_file": "processed_clusters/astrocytoma/astrocytoma_ddx_bcbc0b.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "meningioma",
+      "raw": "meningioma",
+      "frequency": null
+    },
+    {
+      "name": "glioblastoma multiforme",
+      "raw": "glioblastoma multiforme",
+      "frequency": null
+    },
+    {
+      "name": "oligodendroglioma",
+      "raw": "oligodendroglioma",
+      "frequency": null
+    },
+    {
+      "name": "metastatic disease",
+      "raw": "metastatic disease",
+      "frequency": null
+    },
+    {
+      "name": "infection",
+      "raw": "infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "peritumoral vasogenic edema / calcification / skull erosion are uncommon | hypo- / isoattenuating mass | hypo- to isointense mass relative to gray matter on T1WI | hyper- to isointense mass on T2WI"
+}

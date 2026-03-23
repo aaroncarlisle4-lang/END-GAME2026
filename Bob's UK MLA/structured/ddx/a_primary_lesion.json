@@ -1,0 +1,42 @@
+{
+  "finding": "A. PRIMARY LESION",
+  "slug": "a_primary_lesion",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/a_primary_lesion.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Extramedullary hematopoiesis",
+      "raw": "Extramedullary hematopoiesis",
+      "frequency": null
+    },
+    {
+      "name": "Extraadrenal myelolipoma",
+      "raw": "Extraadrenal myelolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Castleman disease",
+      "raw": "Castleman disease",
+      "frequency": null
+    },
+    {
+      "name": "Erdheim-Chester disease (b)  malignant",
+      "raw": "Erdheim-Chester disease (b)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / leukemia",
+      "raw": "Lymphoma / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (lung)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  benign"
+}

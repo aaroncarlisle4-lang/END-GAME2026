@@ -1,0 +1,67 @@
+{
+  "finding": "B. MEDIUM-SIZED-VESSEL VASCULITIS",
+  "slug": "b_medium_sized_vessel_vasculitis",
+  "chapter": "VENA CAVA",
+  "source_file": "processed_clusters/vena_cava/b_medium_sized_vessel_vasculitis.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polyarteritis nodosa",
+      "raw": "Polyarteritis nodosa",
+      "frequency": null
+    },
+    {
+      "name": "Kawasaki disease",
+      "raw": "Kawasaki disease",
+      "frequency": null
+    },
+    {
+      "name": "Relapsing polychondritis",
+      "raw": "Relapsing polychondritis",
+      "frequency": null
+    },
+    {
+      "name": "Drug-induced vasculitis:",
+      "raw": "Drug-induced vasculitis:",
+      "frequency": null
+    },
+    {
+      "name": "SMALL-VESSEL VASCULITIS",
+      "raw": "SMALL-VESSEL VASCULITIS (a)  ANCA-associated small-vessel vasculitis (= antineutrophil cytoplasmic autoantibodies)",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatosis with polyangiitis = Wegener granulomatosis",
+      "raw": "Granulomatosis with polyangiitis = Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granulomatosis with polyangiitis = Churg-Strauss syndrome",
+      "raw": "Eosinophilic granulomatosis with polyangiitis = Churg-Strauss syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Microscopic polyangiitis (b)  immune-complex small-vessel vasculitis",
+      "raw": "Microscopic polyangiitis (b)  immune-complex small-vessel vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "IgA vasculitis = Henoch-Schönlein purpura",
+      "raw": "IgA vasculitis = Henoch-Schönlein purpura",
+      "frequency": null
+    },
+    {
+      "name": "Essential cryoglobulinemic vasculitis",
+      "raw": "Essential cryoglobulinemic vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "Cutaneous leukocytoclastic angiitis others:   lupus, rheumatoid, Sjögren, Behçet, Goodpasture, serum sickness, drug- induced, hypocomplementemic urticaria (c)  inflammatory bowel disease vasculitis",
+      "raw": "Cutaneous leukocytoclastic angiitis others:   lupus, rheumatoid, Sjögren, Behçet, Goodpasture, serum sickness, drug- induced, hypocomplementemic urticaria (c)  inflammatory bowel disease vasculitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  methamphetamine ›  cocaine: neurovascular, cardiovascular complications, aortic dissection, venous thrombosis, mesenteric artery thrombosis, renal infarction"
+}

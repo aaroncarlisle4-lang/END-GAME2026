@@ -1,0 +1,62 @@
+{
+  "finding": "B. METABOLIC DISEASE",
+  "slug": "b_metabolic_disease",
+  "chapter": "C. POSTRENAL = COLLECTING SYSTEM",
+  "source_file": "processed_clusters/c_postrenal_collecting_system/b_metabolic_disease.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gout",
+      "raw": "Gout",
+      "frequency": null
+    },
+    {
+      "name": "Lesch-Nyhan syndrome",
+      "raw": "Lesch-Nyhan syndrome (urate)",
+      "frequency": null
+    },
+    {
+      "name": "Fanconi syndrome",
+      "raw": "Fanconi syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Glycogen storage disease",
+      "raw": "Glycogen storage disease (distal RTA)",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease (distal RTA)",
+      "frequency": null
+    },
+    {
+      "name": "Alpha-1 antitrypsin deficiency",
+      "raw": "Alpha-1 antitrypsin deficiency",
+      "frequency": null
+    },
+    {
+      "name": "Tyrosinemia",
+      "raw": "Tyrosinemia",
+      "frequency": null
+    },
+    {
+      "name": "Cystinosis",
+      "raw": "Cystinosis",
+      "frequency": null
+    },
+    {
+      "name": "Oxalosis",
+      "raw": "Oxalosis",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

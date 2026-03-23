@@ -1,0 +1,31 @@
+{
+  "name": "RETAINED FETAL LUNG FLUID",
+  "slug": "retained_fetal_lung_fluid",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/retained_fetal_lung_fluid.md",
+  "definition": "NEONATAL WET LUNG DISEASE = TRANSIENT RESPIRATORY DISTRESS OF THE NEWBORN =",
+  "demographics": {
+    "Frequency": "6%; most common cause of respiratory distress in newborn"
+  },
+  "dominant_finding": "symmetric perihilar radiating congestion",
+  "distribution": "linear opacities + perivascular haze + thickened fissures + interlobular septal thickening",
+  "discriminating_features": [
+    "linear opacities + perivascular haze + thickened fissures + interlobular septal thickening",
+    "symmetric perihilar radiating congestion",
+    "mild hyperaeration",
+    "mild cardiomegaly",
+    "small amount of pleural fluid"
+  ],
+  "other_features": {
+    "general": [
+      "linear opacities + perivascular haze + thickened fissures + interlobular septal thickening",
+      "symmetric perihilar radiating congestion",
+      "mild hyperaeration",
+      "mild cardiomegaly",
+      "small amount of pleural fluid"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "resolving within 1-2-4 days (retrospective Dx)"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "B. VASCULAR TUMOR",
+  "slug": "b_vascular_tumor",
+  "chapter": "D. NEURONAL MIGRATION ANOMALY due to infection, ischemia, metabolic disorders",
+  "source_file": "processed_clusters/d_neuronal_migration_anomaly_due_to_infection_ischemia_metabolic_disorders/b_vascular_tumor.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioma (a)  capillary hemangioma: seen in children, involution by 7 years of age in 95% (b)  cavernous hemangioma: seen in adults, no involution",
+      "raw": "Hemangioma (a)  capillary hemangioma: seen in children, involution by 7 years of age in 95% (b)  cavernous hemangioma: seen in adults, no involution",
+      "frequency": "95%"
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioendothelioma",
+      "raw": "Hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Angiosarcoma",
+      "raw": "Angiosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Brain ischemia ← steal phenomenon by AV fistula",
+      "raw": "Brain ischemia ← steal phenomenon by AV fistula",
+      "frequency": null
+    },
+    {
+      "name": "Fatal exsanguination",
+      "raw": "Fatal exsanguination",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Blunt Cerebrovascular Injury =  carotid (CA) + vertebral artery (VA) injuries during generalized multitrauma / direct craniocervical trauma Prevalence:   1.1-1.6% of all blunt trauma Mechanism:   partial / complete failure of arterial mural integrity ← longitudinal stretching of artery, direct blow to artery, piercing by bone fragment Prognosis:   25-38% mortality if injury untreated Cx:   (1)   Infarction ← intimal disruption / flap / hematoma →  thromboembolism of platelet aggregates →  critical luminal stenosis + occlusion"
+}

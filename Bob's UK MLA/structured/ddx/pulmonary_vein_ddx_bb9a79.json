@@ -1,0 +1,33 @@
+{
+  "finding": "Pulmonary Vein (DDx)",
+  "slug": "pulmonary_vein_ddx_bb9a79",
+  "chapter": "Pulmonary Vein",
+  "source_file": "processed_clusters/pulmonary_vein/pulmonary_vein_ddx_bb9a79.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "scimitar syndrome",
+      "raw": "scimitar syndrome",
+      "frequency": null
+    },
+    {
+      "name": "AVM",
+      "raw": "AVM",
+      "frequency": null
+    },
+    {
+      "name": "lung nodule",
+      "raw": "lung nodule",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "scimitar syndrome": [],
+    "AVM": [],
+    "lung nodule": [
+      "serpentine tubular opacity adjacent to lung hilum"
+    ]
+  },
+  "context": "serpentine tubular opacity adjacent to lung hilum"
+}

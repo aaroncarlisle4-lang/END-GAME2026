@@ -1,0 +1,27 @@
+{
+  "finding": "Osteosarcoma (DDx)",
+  "slug": "osteosarcoma_ddx_3",
+  "chapter": "Osteosarcoma",
+  "source_file": "processed_clusters/osteosarcoma/osteosarcoma_ddx_3.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteoid osteoma",
+      "raw": "Osteoid osteoma",
+      "frequency": null
+    },
+    {
+      "name": "sclerosing osteomyelitis",
+      "raw": "sclerosing osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Charcot joint",
+      "raw": "Charcot joint",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

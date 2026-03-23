@@ -1,0 +1,37 @@
+{
+  "finding": "B. FOREGUT CYST",
+  "slug": "b_foregut_cyst",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/b_foregut_cyst.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchogenic / respiratory cyst",
+      "raw": "Bronchogenic / respiratory cyst (cartilage, respiratory epithelium)",
+      "frequency": null
+    },
+    {
+      "name": "Enteric cyst = esophageal duplication cyst",
+      "raw": "Enteric cyst = esophageal duplication cyst",
+      "frequency": null
+    },
+    {
+      "name": "Extralobar sequestration",
+      "raw": "Extralobar sequestration (anomalous feeding vessel)",
+      "frequency": null
+    },
+    {
+      "name": "Hiatal hernia",
+      "raw": "Hiatal hernia",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal diverticula: Zenker, traction, epiphrenic",
+      "raw": "Esophageal diverticula: Zenker, traction, epiphrenic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

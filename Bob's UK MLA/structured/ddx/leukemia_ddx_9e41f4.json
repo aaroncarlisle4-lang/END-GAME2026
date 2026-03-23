@@ -1,0 +1,27 @@
+{
+  "finding": "Leukemia (DDx)",
+  "slug": "leukemia_ddx_9e41f4",
+  "chapter": "Leukemia",
+  "source_file": "processed_clusters/leukemia/leukemia_ddx_9e41f4.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hodgkin disease",
+      "raw": "Hodgkin disease",
+      "frequency": null
+    },
+    {
+      "name": "malignant lymphoma",
+      "raw": "malignant lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "multiple myeloma",
+      "raw": "multiple myeloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "loss of definition + distortion of central sinus complex | normal to increased coarse echoes throughout renal cortex with preservation of renal | single / multiple focal anechoic masses | unifocal mass in renal cortex / renal sinus"
+}

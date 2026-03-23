@@ -1,0 +1,34 @@
+{
+  "name": "EPIDERMAL INCLUSION CYST",
+  "slug": "epidermal_inclusion_cyst",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/epidermal_inclusion_cyst.md",
+  "definition": "most common benign cutaneous / subcutaneous lesion",
+  "demographics": {
+    "Path": "cyst filled with keratin",
+    "Histo": "wall lined by stratified squamous epithelium"
+  },
+  "dominant_finding": "heterogeneous content ← variable amounts of internal keratinous debris and granulation",
+  "distribution": "ill-defined margins + peripheral vascularity if inflamed",
+  "discriminating_features": [
+    "circumscribed isodense or high-density mass",
+    "contiguous with dermis (tangential view)",
+    "± calcifications",
+    "hypoechoic well-circumscribed solid / cystic lesion",
+    "heterogeneous content ← variable amounts of internal keratinous debris and granulation"
+  ],
+  "other_features": {
+    "general": [
+      "circumscribed isodense or high-density mass",
+      "contiguous with dermis (tangential view)",
+      "± calcifications"
+    ],
+    "US": [
+      "hypoechoic well-circumscribed solid / cystic lesion",
+      "heterogeneous content ← variable amounts of internal keratinous debris and granulation",
+      "± internal whorled / onion-ring appearance (= lamellated keratinous material)",
+      "ill-defined margins + peripheral vascularity if inflamed"
+    ]
+  },
+  "clinical": {}
+}

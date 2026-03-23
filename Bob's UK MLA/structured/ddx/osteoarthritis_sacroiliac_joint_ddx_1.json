@@ -1,0 +1,32 @@
+{
+  "finding": "Osteoarthritis — Sacroiliac joint (DDx)",
+  "slug": "osteoarthritis_sacroiliac_joint_ddx_1",
+  "chapter": "Osteoarthritis",
+  "source_file": "processed_clusters/osteoarthritis/osteoarthritis_sacroiliac_joint_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "osteonecrosis",
+      "raw": "osteonecrosis",
+      "frequency": null
+    },
+    {
+      "name": "septic arthritis",
+      "raw": "septic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "neuroarthropathy",
+      "raw": "neuroarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "crystal-induced arthropathy",
+      "raw": "crystal-induced arthropathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "progressive loss of joint space | loss of subchondral bone in femoral head + acetabulum resulting in \"hatchet\" deformity of | superolateral subluxation of femoral head / intrusion deformity within ilium | no / small osteophytes"
+}

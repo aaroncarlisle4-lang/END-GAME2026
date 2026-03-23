@@ -1,0 +1,24 @@
+{
+  "name": "DEMENTIA WITH LEWY BODIES",
+  "slug": "dementia_with_lewy_bodies",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/dementia_with_lewy_bodies.md",
+  "definition": "2nd most common neurodegenerative disorder in patients > 65 years",
+  "demographics": {
+    "Histo": "loss of dopaminergic neurons in substantia nigra"
+  },
+  "dominant_finding": "± involvement of occipital lobes (spared in Alzheimer's)",
+  "distribution": "hypometabolism in both parietal + posterior temporal lobes and posterior cingulate gyrus",
+  "discriminating_features": [
+    "hypometabolism in both parietal + posterior temporal lobes and posterior cingulate gyrus",
+    "± involvement of occipital lobes (spared in Alzheimer's)"
+  ],
+  "other_features": {
+    "general": [],
+    "PET": [
+      "hypometabolism in both parietal + posterior temporal lobes and posterior cingulate gyrus",
+      "± involvement of occipital lobes (spared in Alzheimer's)"
+    ]
+  },
+  "clinical": {}
+}

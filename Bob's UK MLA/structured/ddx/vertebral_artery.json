@@ -1,0 +1,94 @@
+{
+  "finding": "Vertebral Artery",
+  "slug": "vertebral_artery",
+  "chapter": "CEREBELLAR VESSELS",
+  "source_file": "processed_clusters/cerebellar_vessels/vertebral_artery.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PREVERTEBRAL SEGMENT (V1) ascends posterosuperiorly between longus colli + anterior scalene muscle; enters transverse foramen at C6",
+      "raw": "PREVERTEBRAL SEGMENT (V1) ascends posterosuperiorly between longus colli + anterior scalene muscle; enters transverse foramen at C6",
+      "frequency": null
+    },
+    {
+      "name": "MIDCERVICAL SEGMENT (V2) ascends through transverse foramina of C6 to C2 in close proximity to uncinate processes [Anterior meningeal a.]",
+      "raw": "MIDCERVICAL SEGMENT (V2) ascends through transverse foramina of C6 to C2 in close proximity to uncinate processes",
+      "frequency": null,
+      "sites": [
+        "Anterior meningeal a."
+      ]
+    },
+    {
+      "name": "ATLANTIC SEGMENT = Atlas loop (V3) exits transverse foramen of atlas; passes posteriorly in a groove on superior surface of posterior arch of atlas; pierces atlanto-occipital membrane + dura mater to enter cranial cavity",
+      "raw": "ATLANTIC SEGMENT = Atlas loop (V3) exits transverse foramen of atlas; passes posteriorly in a groove on superior surface of posterior arch of atlas; pierces atlanto-occipital membrane + dura mater to enter cranial cavity",
+      "frequency": null
+    },
+    {
+      "name": "Posterior meningeal branch to posterior falx + tentorium",
+      "raw": "Posterior meningeal branch to posterior falx + tentorium",
+      "frequency": null
+    },
+    {
+      "name": "INTRACRANIAL SEGMENT (V4) ascends anteriorly + laterally around medulla to reach midline at pontomedullary junction;",
+      "raw": "INTRACRANIAL SEGMENT (V4) ascends anteriorly + laterally around medulla to reach midline at pontomedullary junction;",
+      "frequency": null
+    },
+    {
+      "name": "Anterior + posterior spinal a.",
+      "raw": "Anterior + posterior spinal a.",
+      "frequency": null
+    },
+    {
+      "name": "Posterior inferior cerebellar a.",
+      "raw": "Posterior inferior cerebellar a. (PICA)",
+      "frequency": null
+    },
+    {
+      "name": "Anterior inferior cerebellar a.",
+      "raw": "Anterior inferior cerebellar a. (AICA)",
+      "frequency": null
+    },
+    {
+      "name": "Internal auditory a. [Superior cerebellar a.] [Posterior cerebral a.]",
+      "raw": "Internal auditory a.",
+      "frequency": null,
+      "sites": [
+        "Superior cerebellar a.",
+        "Posterior cerebral a."
+      ]
+    },
+    {
+      "name": "Medullary + pontine perforating branches ◊  May terminate in common AICA-PICA trunk",
+      "raw": "Medullary + pontine perforating branches ◊  May terminate in common AICA-PICA trunk",
+      "frequency": "common"
+    },
+    {
+      "name": "Premedullar segment = caudal loop around medulla, may descend below level of foramen magnum",
+      "raw": "Premedullar segment = caudal loop around medulla, may descend below level of foramen magnum",
+      "frequency": null
+    },
+    {
+      "name": "Retromedullar segment = ascending portion up to the level of 4th ventricle and tonsils",
+      "raw": "Retromedullar segment = ascending portion up to the level of 4th ventricle and tonsils",
+      "frequency": null
+    },
+    {
+      "name": "Supratonsillar segment = the most cranial point is the choroidal point",
+      "raw": "Supratonsillar segment = the most cranial point is the choroidal point",
+      "frequency": null
+    },
+    {
+      "name": "perpendicular line from choroid point onto Twining's line = TTT-line (Twining's",
+      "raw": "perpendicular line from choroid point onto Twining's line = TTT-line (Twining's",
+      "frequency": null
+    },
+    {
+      "name": "perpendicular line from choroid point cuts CT-line (Clivus-Torcular line) < 1 mm",
+      "raw": "perpendicular line from choroid point cuts CT-line (Clivus-Torcular line) < 1 mm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "originates from subclavian a. proximal to thyrocervical trunk; left vertebral a. usually greater than right cerebral a.; left vertebral a. may originate directly from aorta (5%) Branches:   muscular branches Branches: Branches: anastomoses with contralateral side to form basilar artery at clivus Branches: Anterior Inferior Cerebellar Artery =  AICA = first branch of basilar artery Supply:   lateroinferior part of pons, middle cerebellar peduncle, floccular region, anterior petrosal surface of cerebellar hemisphere ◊  Quite variable course + vascular supply with reciprocal relation between vasc"
+}

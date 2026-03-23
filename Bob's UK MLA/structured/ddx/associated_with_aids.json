@@ -1,0 +1,57 @@
+{
+  "finding": "Associated with: AIDS",
+  "slug": "associated_with_aids",
+  "chapter": "ESOPHAGITIS",
+  "source_file": "processed_clusters/esophagitis/associated_with_aids.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "severe odynophagia",
+      "raw": "severe odynophagia",
+      "frequency": null
+    },
+    {
+      "name": "Rx:  ganciclovir",
+      "raw": "Rx:  ganciclovir (relatively toxic)",
+      "frequency": null
+    },
+    {
+      "name": "Dx:  endoscopic brushings, biopsy specimen, cultures",
+      "raw": "Dx:  endoscopic brushings, biopsy specimen, cultures",
+      "frequency": null
+    },
+    {
+      "name": "Herpes Esophagitis",
+      "raw": "Herpes Esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "history of recent exposure to sexual partners with herpetic lesions on lips / buccal mucosa",
+      "raw": "history of recent exposure to sexual partners with herpetic lesions on lips / buccal mucosa",
+      "frequency": null
+    },
+    {
+      "name": "flulike prodrome of 3-10 days",
+      "raw": "flulike prodrome of 3-10 days (headaches, fever, sore throat, upper respiratory symptoms, myalgia)",
+      "frequency": null
+    },
+    {
+      "name": "severe acute dysphagia / odynophagia May be associated with:   oropharyngeal herpetic lesions / oropharyngeal candidiasis",
+      "raw": "severe acute dysphagia / odynophagia May be associated with:   oropharyngeal herpetic lesions / oropharyngeal candidiasis",
+      "frequency": null
+    },
+    {
+      "name": "maculopapular rash + ulcers of soft palate",
+      "raw": "maculopapular rash + ulcers of soft palate (occasionally)",
+      "frequency": null
+    },
+    {
+      "name": "recent seroconversion / known AIDS",
+      "raw": "recent seroconversion / known AIDS",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  diffusely normal mucosal background √  one / more giant ovoid flat ulcers (up to several cm in size) near gastroesophageal junction √  discrete small superficial ulcers indistinguishable from herpes esophagitis (uncommon) ◊  2nd most common cause of opportunistic infection! Organism:   Herpes simplex virus type I (DNA core virus) secreted in saliva of 2% of healthy population Age:  15-30 years; usually males Predisposed:   immunocompromised patient with HIV, organ transplant, and on chemotherapy; may occur in immunocompetent patient Location:   midesophagus (level of left main bronchus) √"
+}

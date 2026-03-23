@@ -1,0 +1,27 @@
+{
+  "finding": "D. CARDIAC / VASCULAR",
+  "slug": "d_cardiac_vascular_891b51",
+  "chapter": "Navaho, Pima, Chippewa Indians",
+  "source_file": "processed_clusters/navaho_pima_chippewa_indians/d_cardiac_vascular_891b51.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Prolonged CHF = cardiac cirrhosis",
+      "raw": "Prolonged CHF = cardiac cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic venoocclusive disease",
+      "raw": "Hepatic venoocclusive disease",
+      "frequency": null
+    },
+    {
+      "name": "Budd-Chiari syndrome",
+      "raw": "Budd-Chiari syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

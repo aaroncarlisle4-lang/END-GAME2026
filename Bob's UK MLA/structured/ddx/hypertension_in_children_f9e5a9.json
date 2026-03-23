@@ -1,0 +1,57 @@
+{
+  "finding": "Hypertension in Children",
+  "slug": "hypertension_in_children_f9e5a9",
+  "chapter": "Nephrogenic Diabetes Insipidus",
+  "source_file": "processed_clusters/nephrogenic_diabetes_insipidus/hypertension_in_children_f9e5a9.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Coarse renal cortex scarring  36%",
+      "raw": "Coarse renal cortex scarring  36%",
+      "frequency": "36%"
+    },
+    {
+      "name": "Glomerulonephritis  23%",
+      "raw": "Glomerulonephritis  23%",
+      "frequency": "23%"
+    },
+    {
+      "name": "Coarctation of aorta  10%",
+      "raw": "Coarctation of aorta  10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "Renovascular disease  10%",
+      "raw": "Renovascular disease  10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "Polycystic renal disease  6%",
+      "raw": "Polycystic renal disease  6%",
+      "frequency": "6%"
+    },
+    {
+      "name": "Hemolytic-uremic syndrome  4%",
+      "raw": "Hemolytic-uremic syndrome  4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Catecholamine excess: pheochromocytoma, neuroblastoma  3%",
+      "raw": "Catecholamine excess: pheochromocytoma, neuroblastoma  3%",
+      "frequency": "3%"
+    },
+    {
+      "name": "Renal tumor  2%",
+      "raw": "Renal tumor  2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Essential hypertension  3%",
+      "raw": "Essential hypertension  3%",
+      "frequency": "3%"
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   1-3%"
+}

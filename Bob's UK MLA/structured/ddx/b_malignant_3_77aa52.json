@@ -1,0 +1,42 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_3_77aa52",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/b_malignant_3_77aa52.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Medullary carcinoma",
+      "raw": "Medullary carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous carcinoma",
+      "raw": "Mucinous carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Intracystic papillary carcinoma",
+      "raw": "Intracystic papillary carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Invasive ductal cancer not otherwise specified",
+      "raw": "Invasive ductal cancer not otherwise specified (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Pathologic intramammary lymph node",
+      "raw": "Pathologic intramammary lymph node",
+      "frequency": null
+    },
+    {
+      "name": "Metastases to breast: melanoma, lymphoma / leukemia, lung cancer, hypernephroma",
+      "raw": "Metastases to breast: melanoma, lymphoma / leukemia, lung cancer, hypernephroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Adnexal Mass with Restricted Diffusion",
+  "slug": "adnexal_mass_with_restricted_diffusion_f39b47",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/adnexal_mass_with_restricted_diffusion_f39b47.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malignancy",
+      "raw": "Malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Benign hemorrhagic ovarian cyst",
+      "raw": "Benign hemorrhagic ovarian cyst",
+      "frequency": null
+    },
+    {
+      "name": "Endometrioma",
+      "raw": "Endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "Benign mature cystic teratoma",
+      "raw": "Benign mature cystic teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

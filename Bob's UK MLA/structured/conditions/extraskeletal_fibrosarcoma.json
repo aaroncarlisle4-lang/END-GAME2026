@@ -1,0 +1,28 @@
+{
+  "name": "EXTRASKELETAL FIBROSARCOMA",
+  "slug": "extraskeletal_fibrosarcoma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/extraskeletal_fibrosarcoma.md",
+  "definition": "malignant tumor of fibroblasts of classic herringbone-like architecture",
+  "demographics": {
+    "Prevalence": "1-3% of sarcomas in adults; 11-12% of sarcomas in infants",
+    "Age": "40 -70 years; M÷F = 3÷2",
+    "Location": "sinonasal cavity, larynx, neck"
+  },
+  "dominant_finding": "heterogeneous high signal intensity on T2WI",
+  "distribution": "sinonasal cavity, larynx, neck",
+  "discriminating_features": [
+    "heterogeneous mass of predominantly low signal intensity with variable enhancement on",
+    "heterogeneous high signal intensity on T2WI"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "heterogeneous mass of predominantly low signal intensity with variable enhancement on",
+      "heterogeneous high signal intensity on T2WI"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "infantile extraskeletal fibrosarcoma better than adult fibrosarcoma"
+  }
+}

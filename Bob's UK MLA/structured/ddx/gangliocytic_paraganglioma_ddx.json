@@ -1,0 +1,27 @@
+{
+  "finding": "Gangliocytic Paraganglioma (DDx)",
+  "slug": "gangliocytic_paraganglioma_ddx",
+  "chapter": "Gangliocytic Paraganglioma",
+  "source_file": "processed_clusters/gangliocytic_paraganglioma/gangliocytic_paraganglioma_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "adenocarcinoma (biliary duct dilatation",
+      "raw": "adenocarcinoma (biliary duct dilatation",
+      "frequency": null
+    },
+    {
+      "name": "hypovascular)",
+      "raw": "hypovascular)",
+      "frequency": null
+    },
+    {
+      "name": "leiomyosarcoma (cystic internal",
+      "raw": "leiomyosarcoma (cystic internal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "polypoid smooth-surfaced intraluminal mass | homogeneously enhancing mural / extrinsic solid mass of soft-tissue attenuation | well-circumscribed hypoechoic mass contiguous with bowel | no biliary duct dilatation"
+}

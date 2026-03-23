@@ -1,0 +1,22 @@
+{
+  "finding": "Sarcoidosis — Meningeal / ependymal invasion (DDx)",
+  "slug": "sarcoidosis_meningeal_ependymal_invasion_ddx_4fc64a",
+  "chapter": "Sarcoidosis",
+  "source_file": "processed_clusters/sarcoidosis/sarcoidosis_meningeal_ependymal_invasion_ddx_4fc64a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "granulomatous meningitis",
+      "raw": "granulomatous meningitis",
+      "frequency": null
+    },
+    {
+      "name": "carcinomatous meningitis √  ependymal enhancement",
+      "raw": "carcinomatous meningitis √  ependymal enhancement",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "diffuse meningeal thickening + enhancement (most common) / meningeal nodules (less | dense enhancement of falx + tentorium (granulomatous invasion of dura) | solitary / multiple dura-based small enhancing nodules / masses on brain surface + in"
+}

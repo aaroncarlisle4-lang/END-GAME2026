@@ -1,0 +1,32 @@
+{
+  "name": "SWALLOWING FUNCTION",
+  "slug": "swallowing_function",
+  "chapter": "MESENTERIC VENOUS SYSTEM",
+  "source_file": "processed_clusters/disease_entries/mesenteric_venous_system/swallowing_function.md",
+  "definition": "",
+  "demographics": {
+    "Path": "cricopharyngeal achalasia (with reflux of bolus into oropharynx / pooling in"
+  },
+  "dominant_finding": "food chewed + mixed with saliva",
+  "distribution": "",
+  "discriminating_features": [
+    "food chewed + mixed with saliva",
+    "bolus propelled posteriorly to tongue",
+    "elevation of soft palate + valleculae (to seal nasopharynx)",
+    "elevation of larynx (to close vestibule)",
+    "relaxation of cricopharyngeal muscle"
+  ],
+  "other_features": {
+    "general": [
+      "food chewed + mixed with saliva",
+      "bolus propelled posteriorly to tongue",
+      "elevation of soft palate + valleculae (to seal nasopharynx)",
+      "elevation of larynx (to close vestibule)",
+      "relaxation of cricopharyngeal muscle",
+      "contraction of lateral pharyngeal wall",
+      "contraction of cricopharyngeal muscle",
+      "bolus transfer into esophagus"
+    ]
+  },
+  "clinical": {}
+}

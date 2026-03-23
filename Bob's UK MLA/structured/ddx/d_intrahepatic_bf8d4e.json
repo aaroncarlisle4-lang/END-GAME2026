@@ -1,0 +1,67 @@
+{
+  "finding": "D. INTRAHEPATIC",
+  "slug": "d_intrahepatic_bf8d4e",
+  "chapter": "B. SUPRAPANCREATIC (5%",
+  "source_file": "processed_clusters/b_suprapancreatic_5/d_intrahepatic_bf8d4e.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystadenoma, cystadenocarcinoma",
+      "raw": "Cystadenoma, cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mirizzi syndrome",
+      "raw": "Mirizzi syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Caroli disease",
+      "raw": "Caroli disease",
+      "frequency": null
+    },
+    {
+      "name": "Cholangitis: recurrent pyogenic cholangitis, sclerosing cholangitis, AIDS cholangitis",
+      "raw": "Cholangitis: recurrent pyogenic cholangitis, sclerosing cholangitis, AIDS cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Intravenous cholangiography depends on level of bilirubin: < 1 (2) mg/dL in 92%; < 2 mg/dL in 82%; < 3 mg/dL (>",
+      "raw": "Intravenous cholangiography depends on level of bilirubin: < 1 (2) mg/dL in 92%; < 2 mg/dL in 82%; < 3 mg/dL (>",
+      "frequency": "92%"
+    },
+    {
+      "name": "in 40%",
+      "raw": "in 40% (< 10%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "US 88-90% sensitivity for dilatation of CBD ◊  In 27-95% US gives correct level of obstruction ◊  In 23-81% US gives correct cause of obstruction",
+      "raw": "US 88-90% sensitivity for dilatation of CBD ◊  In 27-95% US gives correct level of obstruction ◊  In 23-81% US gives correct cause of obstruction",
+      "frequency": "90%"
+    },
+    {
+      "name": "CT 100% visualization in tumorous obstruction 60% visualization in nontumorous obstruction",
+      "raw": "CT 100% visualization in tumorous obstruction 60% visualization in nontumorous obstruction",
+      "frequency": "100%"
+    },
+    {
+      "name": "CEMR cholangiopancreatography",
+      "raw": "CEMR cholangiopancreatography",
+      "frequency": null
+    },
+    {
+      "name": "MRCP provides information about the biliary tree that cannot be obtained with more invasive methods:",
+      "raw": "MRCP provides information about the biliary tree that cannot be obtained with more invasive methods:",
+      "frequency": null
+    },
+    {
+      "name": "NUC",
+      "raw": "NUC",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence of infected bile in bile duct obstruction: (a)  in 64% with incomplete / partial obstruction (b)  in 10 with complete obstruction ◊  Infection twice as high with biliary calculi than with malignant obstruction! Organism:   E. coli (21%), Klebsiella (21%), enterococci (18%), Proteus (15%) Test sensitivity for common bile duct obstruction: False-negative rate:   45% Cx:  adverse reactions in 4-10% √  CBD > 4-6 mm / 10% of patient's age in years in mm √  increase in CBD size after fatty meal √  \"Swiss cheese\" sign = abundance of fluid-filled structures on liver sections ← dilated intrah"
+}

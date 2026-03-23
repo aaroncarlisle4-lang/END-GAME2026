@@ -1,0 +1,39 @@
+{
+  "name": "OSMOTIC DEMYELINATION SYNDROME",
+  "slug": "osmotic_demyelination_syndrome",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/osmotic_demyelination_syndrome.md",
+  "definition": "CENTRAL PONTINE MYELINOLYSIS = OSMOTIC MYELINOLYSIS",
+  "demographics": {
+    "Etiology": "unknown; comatose patient receiving rapid correction / overcorrection of severe",
+    "Histo": "abundant foamy histiocytes without lymphocytes / neutrophils; luxol fast blue staining",
+    "Age": "middle age; M > F",
+    "Location": "(a) isolated pons lesion (most commonly)"
+  },
+  "dominant_finding": "diminished attenuation in central basilar region of pons without mass effect",
+  "distribution": "(a) isolated pons lesion (most commonly)",
+  "discriminating_features": [
+    "diminished attenuation in central basilar region of pons without mass effect",
+    "hypoattenuated areas in basal ganglia + thalamus",
+    "single central symmetric midline pons lesion:",
+    "hyperintense symmetric trident-shaped / round (coronal scan) + bat-wing configuration",
+    "hypointense / (less commonly) isointense on T1WI"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "diminished attenuation in central basilar region of pons without mass effect",
+      "hypoattenuated areas in basal ganglia + thalamus",
+      "single central symmetric midline pons lesion:",
+      "hyperintense symmetric trident-shaped / round (coronal scan) + bat-wing configuration",
+      "hypointense / (less commonly) isointense on T1WI",
+      "sparing of ventrolateral pons + pontine portions of corticospinal tracts",
+      "bilateral symmetric well-demarcated lesions in basal ganglia ± other extrapontine sites",
+      "± restricted diffusion (24 hours after onset of symptoms)",
+      "no enhancement of lesions"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "5-10% survival rate beyond 6 months; significant neurologic sequelae (in most)"
+  }
+}

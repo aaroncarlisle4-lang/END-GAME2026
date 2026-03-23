@@ -1,0 +1,47 @@
+{
+  "finding": "Esophageal Mucosal Nodules / Plaques",
+  "slug": "esophageal_mucosal_nodules_plaques",
+  "chapter": "C. VASCULAR",
+  "source_file": "processed_clusters/c_vascular/esophageal_mucosal_nodules_plaques.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Candida esophagitis",
+      "raw": "Candida esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Reflux esophagitis",
+      "raw": "Reflux esophagitis (early stage)",
+      "frequency": null
+    },
+    {
+      "name": "Barrett esophagus",
+      "raw": "Barrett esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Glycogen acanthosis",
+      "raw": "Glycogen acanthosis",
+      "frequency": null
+    },
+    {
+      "name": "Superficial spreading carcinoma",
+      "raw": "Superficial spreading carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal varices",
+      "raw": "Esophageal varices",
+      "frequency": null
+    },
+    {
+      "name": "Artifacts: undissolved effervescent agent, air bubbles, debris",
+      "raw": "Artifacts: undissolved effervescent agent, air bubbles, debris",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "plaque  =  discrete irregular / ovoid elevation barely protruding above mucosal surface nodule  =  small more rounded elevation"
+}

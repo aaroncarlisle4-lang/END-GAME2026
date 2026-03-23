@@ -1,0 +1,36 @@
+{
+  "name": "NUTCRACKER PHENOMENON",
+  "slug": "nutcracker_phenomenon",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/nutcracker_phenomenon.md",
+  "definition": "RENAL VEIN ENTRAPMENT SYNDROME entrapment of left renal vein (LRV) between SMA and aorta (= anterior nutcracker) / between",
+  "demographics": {
+    "Prevalence": "rare (unknown);",
+    "Age": "3rd-4th decade; M < F"
+  },
+  "dominant_finding": "venous flow velocity of > 100 cm/s (78% sensitive, 100% specific)",
+  "distribution": "compression of left renal vein + prestenotic dilatation",
+  "discriminating_features": [
+    "venous flow velocity of > 100 cm/s (78% sensitive, 100% specific)",
+    "compression of left renal vein + prestenotic dilatation",
+    "reflux into dilated adrenal + gonadal veins",
+    "hilar + periureteric + perirenal + pelvic venous collaterals",
+    "decreased aortomesenteric space (AMD) of 3 mm"
+  ],
+  "other_features": {
+    "general": [
+      "compression of left renal vein + prestenotic dilatation",
+      "reflux into dilated adrenal + gonadal veins",
+      "hilar + periureteric + perirenal + pelvic venous collaterals",
+      "decreased aortomesenteric space (AMD) of 3 mm",
+      "decreased aortomesenteric angle (AMA) of < 16°"
+    ],
+    "US": [
+      "venous flow velocity of > 100 cm/s (78% sensitive, 100% specific)",
+      "peak systolic velocity ratio of > 4.7 at point of renal vein compression compared to hilar",
+      "indentations / scalloping of renal pelvis / ureter ← enlarged retroperitoneal varices",
+      "renal venous-caval pressure gradient > 3 mmHg (less than 1 mmHg in healthy subjects)"
+    ]
+  },
+  "clinical": {}
+}

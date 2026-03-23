@@ -1,0 +1,52 @@
+{
+  "finding": "Long Smooth Esophageal Narrowing",
+  "slug": "long_smooth_esophageal_narrowing",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/long_smooth_esophageal_narrowing.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital esophageal stenosis",
+      "raw": "Congenital esophageal stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Surgical repair of esophageal atresia",
+      "raw": "Surgical repair of esophageal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Caustic burns = alkaline burns",
+      "raw": "Caustic burns = alkaline burns",
+      "frequency": null
+    },
+    {
+      "name": "Alendronate",
+      "raw": "Alendronate (= inhibitor of osteoclastic activity)",
+      "frequency": null
+    },
+    {
+      "name": "Gastric acid: reflux, hyperemesis gravidarum",
+      "raw": "Gastric acid: reflux, hyperemesis gravidarum",
+      "frequency": null
+    },
+    {
+      "name": "Intubation: reflux + compromise of circulation",
+      "raw": "Intubation: reflux + compromise of circulation",
+      "frequency": null
+    },
+    {
+      "name": "Radiotherapy for esophageal carcinoma; tumor of lung, breast, or thymus; lymphoma;",
+      "raw": "Radiotherapy for esophageal carcinoma; tumor of lung, breast, or thymus; lymphoma;",
+      "frequency": null
+    },
+    {
+      "name": "Postinfectious: moniliasis",
+      "raw": "Postinfectious: moniliasis (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "√  interruption of primary peristaltic wave at anastomosis √  secondary contractions may produce retrograde flow with aspiration √  impaction of food metastases to mediastinal lymph nodes Onset of stricture:   usually 4-8 months post Rx Dose:   3,000-5,000 rad"
+}

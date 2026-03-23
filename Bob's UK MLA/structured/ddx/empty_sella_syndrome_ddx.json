@@ -1,0 +1,22 @@
+{
+  "finding": "Empty Sella Syndrome (DDx)",
+  "slug": "empty_sella_syndrome_ddx",
+  "chapter": "Empty Sella Syndrome",
+  "source_file": "processed_clusters/empty_sella_syndrome/empty_sella_syndrome_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cystic tumor",
+      "raw": "cystic tumor",
+      "frequency": null
+    },
+    {
+      "name": "large herniated 3rd ventricle",
+      "raw": "large herniated 3rd ventricle (displaced infundibulum)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "slowly progressive symmetrical / asymmetrical (double floor) enlargement of sella | remodeled lamina dura remains mineralized | small rim of pituitary tissue displaced posteriorly + inferiorly | \"infundibulum\" sign = infundibulum extends to floor of sella"
+}

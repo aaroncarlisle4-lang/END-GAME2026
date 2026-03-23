@@ -1,0 +1,72 @@
+{
+  "finding": "Intraabdominal Cyst in Childhood",
+  "slug": "intraabdominal_cyst_in_childhood",
+  "chapter": "E. HYDROPS FETALIS",
+  "source_file": "processed_clusters/e_hydrops_fetalis/intraabdominal_cyst_in_childhood.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Omental cyst: greater omentum / lesser sac, multilocular",
+      "raw": "Omental cyst: greater omentum / lesser sac, multilocular",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric cyst: between leaves of small bowel mesentery",
+      "raw": "Mesenteric cyst: between leaves of small bowel mesentery",
+      "frequency": null
+    },
+    {
+      "name": "Choledochal cyst",
+      "raw": "Choledochal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Intestinal duplication",
+      "raw": "Intestinal duplication",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian cyst",
+      "raw": "Ovarian cyst",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Cystic renal tumor",
+      "raw": "Cystic renal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Meckel diverticulum: communication with GI tract",
+      "raw": "Meckel diverticulum: communication with GI tract",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric lymphoma",
+      "raw": "Mesenteric lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Intramural tumor",
+      "raw": "Intramural tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

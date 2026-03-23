@@ -1,0 +1,92 @@
+{
+  "finding": "Malignant transformation: in 0.4-3.7%",
+  "slug": "malignant_transformation_in_04_37_23a4f5",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/malignant_transformation_in_04_37_23a4f5.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary carcinoma of the endometrium Risk factors:   exposure to unopposed estrogen, obesity, nulliparity, hypertension, diabetes",
+      "raw": "Primary carcinoma of the endometrium Risk factors:   exposure to unopposed estrogen, obesity, nulliparity, hypertension, diabetes",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic carcinoma: ovary, cervix, fallopian tube, leukemia",
+      "raw": "Metastatic carcinoma: ovary, cervix, fallopian tube, leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Hydatidiform mole",
+      "raw": "Hydatidiform mole",
+      "frequency": null
+    },
+    {
+      "name": "Incomplete abortion",
+      "raw": "Incomplete abortion",
+      "frequency": null
+    },
+    {
+      "name": "Submucosal leiomyoma",
+      "raw": "Submucosal leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Focal adenomyoma",
+      "raw": "Focal adenomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Intrauterine synechiae",
+      "raw": "Intrauterine synechiae",
+      "frequency": null
+    },
+    {
+      "name": "PREMENOPAUSAL",
+      "raw": "PREMENOPAUSAL",
+      "frequency": null
+    },
+    {
+      "name": "Infection: endometritis, pyometrium",
+      "raw": "Infection: endometritis, pyometrium",
+      "frequency": null
+    },
+    {
+      "name": "Congenital obstructive lesion: imperforate hymen, vaginal septum, vaginal / cervical atresia",
+      "raw": "Congenital obstructive lesion: imperforate hymen, vaginal septum, vaginal / cervical atresia",
+      "frequency": null
+    },
+    {
+      "name": "Acquired obstructive lesion: cervical stenosis (following instrumentation / cone biopsy / radiation), cervical carcinoma",
+      "raw": "Acquired obstructive lesion: cervical stenosis (following instrumentation / cone biopsy / radiation), cervical carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous hematometra in bleeding disorders",
+      "raw": "Spontaneous hematometra in bleeding disorders",
+      "frequency": null
+    },
+    {
+      "name": "Pregnancy: intrauterine, ectopic, incomplete abortion",
+      "raw": "Pregnancy: intrauterine, ectopic, incomplete abortion",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial cancer",
+      "raw": "Endometrial cancer",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial polyp, submucosal fibroid",
+      "raw": "Endometrial polyp, submucosal fibroid",
+      "frequency": null
+    },
+    {
+      "name": "Functional: during menstruation",
+      "raw": "Functional: during menstruation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   predominantly in uterine fundus; 24% in isthmic portion) ◊  10% cancer rate with endometrial thickness of 6-15 mm ◊  50% cancer rate with endometrial thickness of > 15 mm √  irregular heterogeneous endometrium > 5 mm in thickness √  focal / diffuse endometrial thickening (mean thickness of 18.2 mm) √  irregular poorly defined endometrial-myometrial interface √  increased echogenicity in myometrium (= invasive endometrial cancer) √  Doppler waveforms with resistive index < 0.7 suggest malignancy √  echogenic mass with irregular sonolucent areas √  mass hypo- / hyperechoic relative t"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "HEMATOMA OF BRAIN",
+  "slug": "hematoma_of_brain",
+  "chapter": "HEMANGIOPERICYTOMA",
+  "source_file": "processed_clusters/hemangiopericytoma/hematoma_of_brain.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Very common",
+      "raw": "Very common",
+      "frequency": "common"
+    },
+    {
+      "name": "Chronic hypertension",
+      "raw": "Chronic hypertension (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Vascular malformation: AVM, cavernous hemangioma, venous angioma, capillary telangiectasia",
+      "raw": "Vascular malformation: AVM, cavernous hemangioma, venous angioma, capillary telangiectasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  INTRACEREBRAL HEMATOMA Etiology: Age:   > 60 years Location:   external capsule and basal ganglia (putamen in 65%) / thalamus (25%), pons (5%), brainstem (10%), cerebellum (5%), cerebral hemisphere (5%)"
+}

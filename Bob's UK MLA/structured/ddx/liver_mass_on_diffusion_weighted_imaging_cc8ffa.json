@@ -1,0 +1,52 @@
+{
+  "finding": "Liver Mass on Diffusion-Weighted Imaging",
+  "slug": "liver_mass_on_diffusion_weighted_imaging_cc8ffa",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/liver_mass_on_diffusion_weighted_imaging_cc8ffa.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tissue with restricted diffusion",
+      "raw": "Tissue with restricted diffusion (↓ ADC)",
+      "frequency": null
+    },
+    {
+      "name": "Tumor: usually lower ADC for malignant lesion",
+      "raw": "Tumor: usually lower ADC for malignant lesion",
+      "frequency": null
+    },
+    {
+      "name": "Cytotoxic edema",
+      "raw": "Cytotoxic edema",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Tissue with less restricted diffusion (↑ ADC) =  tissue of low cellularity / with disrupted cell membranes",
+      "raw": "Tissue with less restricted diffusion (↑ ADC) =  tissue of low cellularity / with disrupted cell membranes",
+      "frequency": null
+    },
+    {
+      "name": "Cyst",
+      "raw": "Cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Treated nonviable / necrotic tumor",
+      "raw": "Treated nonviable / necrotic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  quantification of water diffusion + microcapillary blood perfusion ← based on incoherent intravoxel motion"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Abortion — Subchorionic hemorrhage (DDx)",
+  "slug": "abortion_subchorionic_hemorrhage_ddx_c84ce8",
+  "chapter": "Abortion",
+  "source_file": "processed_clusters/abortion/abortion_subchorionic_hemorrhage_ddx_c84ce8.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "intraluminal blood clot",
+      "raw": "intraluminal blood clot",
+      "frequency": null
+    },
+    {
+      "name": "mole",
+      "raw": "mole",
+      "frequency": null
+    },
+    {
+      "name": "blighted ovum",
+      "raw": "blighted ovum",
+      "frequency": null
+    },
+    {
+      "name": "embryonic demise",
+      "raw": "embryonic demise",
+      "frequency": null
+    },
+    {
+      "name": "intrauterine fetal death",
+      "raw": "intrauterine fetal death",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "flow velocity > 21 cm/sec (supplying residual trophoblastic tissue) | ± low-resistance internal blood flow often at endometrial-myometrial interface | partially / delayed enhancing heterogeneous mass on T1WI + T2WI (DDx: gestational"
+}

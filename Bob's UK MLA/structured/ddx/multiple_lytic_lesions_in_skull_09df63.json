@@ -1,0 +1,97 @@
+{
+  "finding": "Multiple Lytic Lesions in Skull",
+  "slug": "multiple_lytic_lesions_in_skull_09df63",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/multiple_lytic_lesions_in_skull_09df63.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Brown tumor",
+      "raw": "Brown tumor",
+      "frequency": null
+    },
+    {
+      "name": "AVM",
+      "raw": "AVM",
+      "frequency": null
+    },
+    {
+      "name": "Myeloma",
+      "raw": "Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytosis",
+      "raw": "Histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation necrosis",
+      "raw": "Radiation necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Avascular necrosis",
+      "raw": "Avascular necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Tumor",
+      "raw": "Tumor",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Button Sequestrum",
+      "raw": "Button Sequestrum",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation",
+      "raw": "Radiation",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid",
+      "raw": "Epidermoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Lytic Area in Bone Flap mnemonic:   \"RATI\""
+}

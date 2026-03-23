@@ -1,0 +1,32 @@
+{
+  "finding": "Gallium in Renal Imaging",
+  "slug": "gallium_in_renal_imaging_648bbb",
+  "chapter": "Gallium in Lung Imaging",
+  "source_file": "processed_clusters/gallium_in_lung_imaging/gallium_in_renal_imaging_648bbb.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal tumor",
+      "raw": "Renal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Primary renal tumor",
+      "raw": "Primary renal tumor (variable uptake)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / leukemia",
+      "raw": "Lymphoma / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases (eg, melanoma)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Abnormal uptake on delayed images at 48-72 hours"
+}

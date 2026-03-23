@@ -1,0 +1,47 @@
+{
+  "finding": "Endometriosis — Cutaneous Tissue (DDx)",
+  "slug": "endometriosis_cutaneous_tissue_ddx",
+  "chapter": "Endometriosis",
+  "source_file": "processed_clusters/endometriosis/endometriosis_cutaneous_tissue_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "abscess",
+      "raw": "abscess",
+      "frequency": null
+    },
+    {
+      "name": "hematoma",
+      "raw": "hematoma",
+      "frequency": null
+    },
+    {
+      "name": "hernia",
+      "raw": "hernia",
+      "frequency": null
+    },
+    {
+      "name": "sebaceous cyst",
+      "raw": "sebaceous cyst",
+      "frequency": null
+    },
+    {
+      "name": "lipoma",
+      "raw": "lipoma",
+      "frequency": null
+    },
+    {
+      "name": "hemangioma",
+      "raw": "hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "malignant tumor @   CNS",
+      "raw": "malignant tumor @   CNS",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "catamenial pneumothorax | pleural effusion | well-defined hypoechoic / cystic / solid mass | hyperechoic border / tissue stranding ← inflammatory reaction"
+}

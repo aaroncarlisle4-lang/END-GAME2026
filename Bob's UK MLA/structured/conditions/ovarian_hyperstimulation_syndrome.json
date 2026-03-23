@@ -1,0 +1,34 @@
+{
+  "name": "OVARIAN HYPERSTIMULATION SYNDROME",
+  "slug": "ovarian_hyperstimulation_syndrome",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/ovarian_hyperstimulation_syndrome.md",
+  "definition": "potentially life-threatening iatrogenic complication of ovulation induction / ovarian",
+  "demographics": {},
+  "dominant_finding": "cysts with increased SI on T1WI (common) ← hemorrhage",
+  "distribution": "\"spoke-wheel\" appearance of ovaries = bilateral symmetrically enlarged ovaries > 5 cm in",
+  "discriminating_features": [
+    "\"spoke-wheel\" appearance of ovaries = bilateral symmetrically enlarged ovaries > 5 cm in",
+    "cysts separated by thin septa",
+    "cysts usually anechoic, unless complicated by hemorrhage",
+    "resolution on follow-up",
+    "ovarian cyst > 10 cm (100%): usually disappears after 20-40 days; may persist for 12-16"
+  ],
+  "other_features": {
+    "general": [
+      "\"spoke-wheel\" appearance of ovaries = bilateral symmetrically enlarged ovaries > 5 cm in",
+      "cysts separated by thin septa",
+      "cysts usually anechoic, unless complicated by hemorrhage",
+      "resolution on follow-up",
+      "ovarian cyst > 10 cm (100%): usually disappears after 20-40 days; may persist for 12-16",
+      "ascites (33%)",
+      "pleural effusion (5%)",
+      "hydroureter (11%)"
+    ],
+    "MR": [
+      "cysts with increased SI on T1WI (common) ← hemorrhage",
+      "↑ SI of ovarian stroma on T2WI ← edema"
+    ]
+  },
+  "clinical": {}
+}

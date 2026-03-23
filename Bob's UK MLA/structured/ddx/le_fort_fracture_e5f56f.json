@@ -1,0 +1,27 @@
+{
+  "finding": "Le Fort Fracture",
+  "slug": "le_fort_fracture_e5f56f",
+  "chapter": "DIASTEMATOMYELIA",
+  "source_file": "processed_clusters/diastematomyelia/le_fort_fracture_e5f56f.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Le Fort I = transverse (horizontal) maxillary fracture caused by blow to premaxilla",
+      "raw": "Le Fort I = transverse (horizontal) maxillary fracture caused by blow to premaxilla",
+      "frequency": null
+    },
+    {
+      "name": "Le Fort II = \"pyramidal fracture\" ◊  May be unilateral",
+      "raw": "Le Fort II = \"pyramidal fracture\" ◊  May be unilateral",
+      "frequency": null
+    },
+    {
+      "name": "Le Fort III = \"craniofacial disjunction\"",
+      "raw": "Le Fort III = \"craniofacial disjunction\"",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "[René Le Fort (1869-1951), French surgeon] ◊  All Le Fort fractures involve the pterygoid process! Fracture line: (a) alveolar ridge (b) lateral aperture of nose (c) inferior wall of maxillary sinus √  detachment of alveolar process of maxilla √  teeth contained in detached fragment Fracture line: arch through (a) posterior alveolar ridge (b) medial orbital rim (c) across nasal bones √  separation of midportion of face √  floor of orbit + hard palate + nasal cavity involved Fracture line: horizontal course through (a) nasofrontal suture (b) maxillofrontal suture (c) orbital wall (d) zygomatic"
+}

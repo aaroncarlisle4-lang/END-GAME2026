@@ -1,0 +1,26 @@
+{
+  "name": "PHARYNGEAL ABSCESS",
+  "slug": "pharyngeal_abscess",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/pharyngeal_abscess.md",
+  "definition": "",
+  "demographics": {
+    "Etiology": "spread of infection from tonsils / pharynx",
+    "Age": "children > adults"
+  },
+  "dominant_finding": "isodense / low-density mass with unsharp margins",
+  "distribution": "",
+  "discriminating_features": [
+    "isodense / low-density mass with unsharp margins",
+    "rim enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "isodense / low-density mass with unsharp margins",
+      "rim enhancement"
+    ]
+  },
+  "clinical": {
+    "Cx": "mycotic aneurysm of carotid artery (within 10 days)"
+  }
+}

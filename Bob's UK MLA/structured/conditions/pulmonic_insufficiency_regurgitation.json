@@ -1,0 +1,28 @@
+{
+  "name": "PULMONIC INSUFFICIENCY / REGURGITATION",
+  "slug": "pulmonic_insufficiency_regurgitation",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/pulmonic_insufficiency_regurgitation.md",
+  "definition": "Volumeregurgitant × 100 / Volumeforward [%]",
+  "demographics": {},
+  "dominant_finding": "inadequate apposition of cusp at end-diastole",
+  "distribution": "",
+  "discriminating_features": [
+    "inadequate apposition of cusp at end-diastole",
+    "dilatation of pulmonic ring + pulmonary artery",
+    "RV dilatation + hypertrophy",
+    "± late diastolic forward flow in pulmonary trunk with each atrial contraction →",
+    "accurately quantified with through-plane (true transverse with < 15° angulation)"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "inadequate apposition of cusp at end-diastole",
+      "dilatation of pulmonic ring + pulmonary artery",
+      "RV dilatation + hypertrophy",
+      "± late diastolic forward flow in pulmonary trunk with each atrial contraction →",
+      "accurately quantified with through-plane (true transverse with < 15° angulation)"
+    ]
+  },
+  "clinical": {}
+}

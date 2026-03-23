@@ -1,0 +1,37 @@
+{
+  "finding": "Cervical Carcinoma — Parametrial spread (30-58% accuracy): (DDx)",
+  "slug": "cervical_carcinoma_parametrial_spread_30_58_accuracy_ddx",
+  "chapter": "Cervical Carcinoma",
+  "source_file": "processed_clusters/cervical_carcinoma/cervical_carcinoma_parametrial_spread_30_58_accuracy_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "parametrial inflammation ← instrumentation",
+      "raw": "parametrial inflammation ← instrumentation",
+      "frequency": null
+    },
+    {
+      "name": "ulceration",
+      "raw": "ulceration",
+      "frequency": null
+    },
+    {
+      "name": "infection",
+      "raw": "infection",
+      "frequency": null
+    },
+    {
+      "name": "prior pelvic surgery",
+      "raw": "prior pelvic surgery",
+      "frequency": null
+    },
+    {
+      "name": "endometriosis",
+      "raw": "endometriosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "> 4-mm soft-tissue strands of increased attenuation extending from cervix into | obliteration of fat planes | ill-defined irregular cervical margins | eccentric parametrial enlargement"
+}

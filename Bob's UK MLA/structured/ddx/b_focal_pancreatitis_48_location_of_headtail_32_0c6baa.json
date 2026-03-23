@@ -1,0 +1,77 @@
+{
+  "finding": "B. Focal pancreatitis (48%): location of head÷tail = 3÷2",
+  "slug": "b_focal_pancreatitis_48_location_of_headtail_32_0c6baa",
+  "chapter": "I. MALIGNANCY",
+  "source_file": "processed_clusters/i_malignancy/b_focal_pancreatitis_48_location_of_headtail_32_0c6baa.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Interstitial edematous pancreatitis  70-80%",
+      "raw": "Interstitial edematous pancreatitis  70-80%",
+      "frequency": "80%"
+    },
+    {
+      "name": "Necrotizing pancreatitis (more severe form)  20-30%",
+      "raw": "Necrotizing pancreatitis (more severe form)  20-30%",
+      "frequency": "30%"
+    },
+    {
+      "name": "Pleural effusion",
+      "raw": "Pleural effusion",
+      "frequency": null
+    },
+    {
+      "name": "Pseudocyst formation",
+      "raw": "Pseudocyst formation (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Hemorrhagic pancreatitis",
+      "raw": "Hemorrhagic pancreatitis (2-5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Main pancreatic duct stricture",
+      "raw": "Main pancreatic duct stricture (late Cx)",
+      "frequency": null
+    },
+    {
+      "name": "Disconnected pancreatic duct",
+      "raw": "Disconnected pancreatic duct",
+      "frequency": null
+    },
+    {
+      "name": "Peripancreatic inflammation",
+      "raw": "Peripancreatic inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Displacement and compression of adjacent organs (a)  bile duct obstruction ›  choledocholithiasis ›  mass effect ← inflammation / collection ›  stricture ← exposure to proteolytic enzymes (b)  obstruction of stomach (c)  duodenal stricture ← extrinsic compression by enlarged pancreatic head / adjacent fluid collection / duodenal mural edema or hemorrhage (d)  hydronephrosis ◊  At risk for abdominal compartment syndrome",
+      "raw": "Displacement and compression of adjacent organs (a)  bile duct obstruction ›  choledocholithiasis ›  mass effect ← inflammation / collection ›  stricture ← exposure to proteolytic enzymes (b)  obstruction of stomach (c)  duodenal stricture ← extrinsic compression by enlarged pancreatic head / adjacent fluid collection / duodenal mural edema or hemorrhage (d)  hydronephrosis ◊  At risk for abdominal compartment syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic ascites",
+      "raw": "Pancreatic ascites",
+      "frequency": null
+    },
+    {
+      "name": "Venous thrombosis Cause:   local prothrombotic inflammatory factors, reduced venous flow, mass effect on vein from adjacent necrotic tissue / collection",
+      "raw": "Venous thrombosis Cause:   local prothrombotic inflammatory factors, reduced venous flow, mass effect on vein from adjacent necrotic tissue / collection",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoaneurysm (typically late Cx) =  digestion of arterial wall by proteolytic enzymes",
+      "raw": "Pseudoaneurysm (typically late Cx) =  digestion of arterial wall by proteolytic enzymes",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage (1-5%)",
+      "frequency": "5%"
+    }
+  ],
+  "criteria": {},
+  "context": "Morphologic subtypes: Abdominal film: √  \"colon cutoff\" sign (2-52%) = dilated transverse colon with abrupt change to a gasless descending colon (inflammation via phrenicocolic ligament causes spasm + obstruction at splenic flexure impinging on a paralytic transverse colon) √  \"sentinel loop\" (10-55%) = localized segment of gas-containing bowel in duodenum (in 20-45%) / terminal ileum / cecum √  \"renal halo\" sign = water-density of inflammation in anterior pararenal space contrasts with perirenal fat; more common on left side √  mottled appearance of peripancreatic area ← fat necrosis in pancr"
+}

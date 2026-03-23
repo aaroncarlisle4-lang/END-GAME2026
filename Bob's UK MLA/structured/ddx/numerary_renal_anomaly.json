@@ -1,0 +1,32 @@
+{
+  "finding": "Numerary Renal Anomaly",
+  "slug": "numerary_renal_anomaly",
+  "chapter": "KIDNEY",
+  "source_file": "processed_clusters/kidney/numerary_renal_anomaly.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Supernumerary kidney",
+      "raw": "Supernumerary kidney",
+      "frequency": null
+    },
+    {
+      "name": "Complete / partial renal duplication",
+      "raw": "Complete / partial renal duplication",
+      "frequency": null
+    },
+    {
+      "name": "Abortive calyx",
+      "raw": "Abortive calyx",
+      "frequency": null
+    },
+    {
+      "name": "Unicaliceal (unipapillary) kidney",
+      "raw": "Unicaliceal (unipapillary) kidney",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

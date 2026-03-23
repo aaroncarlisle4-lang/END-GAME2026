@@ -1,0 +1,32 @@
+{
+  "finding": "Assessment of Bone Tumor",
+  "slug": "assessment_of_bone_tumor_2253c5",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/myeloproliferative_disorders/assessment_of_bone_tumor_2253c5.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Age (and gender) of patient",
+      "raw": "Age (and gender) of patient",
+      "frequency": null
+    },
+    {
+      "name": "Precise tumor location (a)  transverse: medullary, cortical, juxtacortical (b)  longitudinal: epi-, meta-, diaphyseal",
+      "raw": "Precise tumor location (a)  transverse: medullary, cortical, juxtacortical (b)  longitudinal: epi-, meta-, diaphyseal",
+      "frequency": null
+    },
+    {
+      "name": "Pattern of bone destruction / aggressiveness (a)  nonaggressive",
+      "raw": "Pattern of bone destruction / aggressiveness (a)  nonaggressive",
+      "frequency": null
+    },
+    {
+      "name": "Lesion matrix",
+      "raw": "Lesion matrix",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "A systematic approach is imperative for assessment of a bone tumor with attention to size, number, and location of lesions; margins and zone of transition; periosteal reaction; matrix mineralization; soft-tissue component. √  well-defined sharp margins √  smooth solid-appearing periosteal reaction (b)  aggressive infiltrative osseous process √  broad zone of transition √  poorly defined borders √  disrupted / \"sunburst\" appearance DDx:   destructive metabolic / infectious process √  \"rings-and-arcs\" appearance = chondral origin √  opaque cloud-like matrix = osseous mineralization √  osteolytic"
+}

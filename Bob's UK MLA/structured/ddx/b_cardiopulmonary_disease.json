@@ -1,0 +1,72 @@
+{
+  "finding": "B. CARDIOPULMONARY DISEASE",
+  "slug": "b_cardiopulmonary_disease",
+  "chapter": "BEDSIDE CHEST RADIOGRAPHY",
+  "source_file": "processed_clusters/bedside_chest_radiography/b_cardiopulmonary_disease.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Atelectasis",
+      "raw": "Atelectasis",
+      "frequency": null
+    },
+    {
+      "name": "most common CXR abnormality in ICU",
+      "raw": "most common CXR abnormality in ICU",
+      "frequency": "most common"
+    },
+    {
+      "name": "Pulmonary edema (a)  cardiac (hydrostatic) including CHF, overhydration, renal failure",
+      "raw": "Pulmonary edema (a)  cardiac (hydrostatic) including CHF, overhydration, renal failure",
+      "frequency": null
+    },
+    {
+      "name": "Pleural effusion",
+      "raw": "Pleural effusion (due to CHF)",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar disease = pneumonia",
+      "raw": "Alveolar disease = pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "in 10% of ICU patients, in 60% with ARDS",
+      "raw": "in 10% of ICU patients, in 60% with ARDS",
+      "frequency": "10%"
+    },
+    {
+      "name": "commonly related to aspiration",
+      "raw": "commonly related to aspiration",
+      "frequency": null
+    },
+    {
+      "name": "Interstitial disease",
+      "raw": "Interstitial disease",
+      "frequency": null
+    },
+    {
+      "name": "Barotrauma",
+      "raw": "Barotrauma (in 4-15% of ventilated patients)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Aspiration Increased risk:   general anesthesia, depressed consciousness, neuromuscular disorder, esophageal disease, presence of NG / ET tube Location:   posterior aspect of upper lobes, superior segments + posterior basilar segments of lower lobes",
+      "raw": "Aspiration Increased risk:   general anesthesia, depressed consciousness, neuromuscular disorder, esophageal disease, presence of NG / ET tube Location:   posterior aspect of upper lobes, superior segments + posterior basilar segments of lower lobes",
+      "frequency": null
+    },
+    {
+      "name": "Thoracic bleeding",
+      "raw": "Thoracic bleeding",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal disease",
+      "raw": "Mediastinal disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence increased: after general anesthesia, thoracic / upper abdominal surgery, pre-existing lung disease, smoking, obesity, elderly Location:   left lung base (most frequent) √  linear / platelike subsegmental √  lobar / segmental: √  air bronchogram present = collapse of small airways → bronchoscopy not beneficial √  air bronchogram absent = central mucoid impaction → bronchoscopy therapeutic √  patchy density mimicking pneumonia √  rapid temporal change possible N.B.:   cephalization of vasculature NOT helpful in supine position √  usually cardiomegaly (cardiothoracic ratio ≥ 55%) √  enl"
+}

@@ -1,0 +1,87 @@
+{
+  "finding": "Acute Obstruction by Ureteric Calculi",
+  "slug": "acute_obstruction_by_ureteric_calculi",
+  "chapter": "Radiographic Shape of Kidney Stone",
+  "source_file": "processed_clusters/radiographic_shape_of_kidney_stone/acute_obstruction_by_ureteric_calculi.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "renal colic = acute severe spasmodic / steady continuous flank pain",
+      "raw": "renal colic = acute severe spasmodic / steady continuous flank pain",
+      "frequency": null
+    },
+    {
+      "name": "frequently radiating into pelvis / groin / scrotum / labia",
+      "raw": "frequently radiating into pelvis / groin / scrotum / labia",
+      "frequency": null
+    },
+    {
+      "name": "hematuria (85%): absent in completely obstructing stone",
+      "raw": "hematuria (85%): absent in completely obstructing stone",
+      "frequency": "85%"
+    },
+    {
+      "name": "Medical expulsive therapy: α-blocker, calcium channel blocker, steroids,",
+      "raw": "Medical expulsive therapy: α-blocker, calcium channel blocker, steroids,",
+      "frequency": null
+    },
+    {
+      "name": "Hydration (during strenuous physical activity, at bedtime, within 3 hours after meal) maintaining urine output of 2-3 L/days",
+      "raw": "Hydration (during strenuous physical activity, at bedtime, within 3 hours after meal) maintaining urine output of 2-3 L/days",
+      "frequency": null
+    },
+    {
+      "name": "Diet: restrict amounts of protein, sodium, calcium",
+      "raw": "Diet: restrict amounts of protein, sodium, calcium",
+      "frequency": null
+    },
+    {
+      "name": "Drugs: thiazide diuretics",
+      "raw": "Drugs: thiazide diuretics (lowers urinary calcium), allopurinol (lowers urate + oxalate excretion)",
+      "frequency": null
+    },
+    {
+      "name": "Extracorporeal shock wave lithotripsy",
+      "raw": "Extracorporeal shock wave lithotripsy (ESWL)",
+      "frequency": null
+    },
+    {
+      "name": "Recent passage of stone",
+      "raw": "Recent passage of stone",
+      "frequency": null
+    },
+    {
+      "name": "Phlebolith",
+      "raw": "Phlebolith",
+      "frequency": null
+    },
+    {
+      "name": "Arterial calcification",
+      "raw": "Arterial calcification",
+      "frequency": null
+    },
+    {
+      "name": "Calcified lymph node",
+      "raw": "Calcified lymph node",
+      "frequency": null
+    },
+    {
+      "name": "Surgical clip",
+      "raw": "Surgical clip",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous passage of ureteral calculi (in 93%) ◊  Stones > 6 mm rarely pass!",
+      "raw": "Spontaneous passage of ureteral calculi (in 93%) ◊  Stones > 6 mm rarely pass!",
+      "frequency": "93%"
+    },
+    {
+      "name": "Without treatment stone recurrence is 10% at 1 year, 33% at 5 years, 50% at 10 years, 75% by 20 years",
+      "raw": "Without treatment stone recurrence is 10% at 1 year, 33% at 5 years, 50% at 10 years, 75% by 20 years",
+      "frequency": "10%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  URETEROLITHIASIS Site:     at points of ureteral narrowing (a)  ureterovesical junction (UVJ) (b)  ureteropelvic junction (UPJ) (c)  iliac vessel crossing Plain radiography = KUB (45% sensitive, 77% specific): Useful:   planning ESWL, monitoring stone fragments in 1-2-week intervals Visualization: ◊  90% of urinary calculi are radiopaque Confounding factors: small size of calculus, overlying bowel gas / fecal matter, osseous structures (transverse process, sacrum), extrarenal calcifications (gallstone, calcific pancreatitis, mesenteric lymph node, arterial calcification, phlebolith), obesit"
+}

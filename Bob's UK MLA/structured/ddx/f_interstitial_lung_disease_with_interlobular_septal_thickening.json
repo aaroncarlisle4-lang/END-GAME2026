@@ -1,0 +1,27 @@
+{
+  "finding": "F. Interstitial lung disease with interlobular septal thickening",
+  "slug": "f_interstitial_lung_disease_with_interlobular_septal_thickening",
+  "chapter": "D. Pneumoconiosis",
+  "source_file": "processed_clusters/d_pneumoconiosis/f_interstitial_lung_disease_with_interlobular_septal_thickening.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphangitic carcinomatosis",
+      "raw": "Lymphangitic carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Interstitial pulmonary edema",
+      "raw": "Interstitial pulmonary edema",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar proteinosis",
+      "raw": "Alveolar proteinosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "name": "KARTAGENER SYNDROME",
+  "slug": "kartagener_syndrome",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/kartagener_syndrome.md",
+  "definition": "IMMOTILE / DYSMOTILE CILIA SYNDROME uncommon autosomal recessive disease characterized by congenital impairment of",
+  "demographics": {
+    "Frequency": "1÷40,00; high familial incidence",
+    "Etiology": "abnormal mucociliary function ← generalized deficiency of dynein arms of cilia",
+    "Location": "middle lobe, lingula, lower lobes"
+  },
+  "dominant_finding": "ground-glass opacity / pulmonary consolidation (60%)",
+  "distribution": "middle lobe, lingula, lower lobes",
+  "discriminating_features": [
+    "ground-glass opacity / pulmonary consolidation (60%)",
+    "peribronchial / bronchial wall thickening (96%)",
+    "mucous plug (85%) + atelectatic areas",
+    "bronchiectasis (73%) / bronchiolectasis",
+    "air trapping (38%) = hyperinflation"
+  ],
+  "other_features": {
+    "general": [
+      "ground-glass opacity / pulmonary consolidation (60%)",
+      "peribronchial / bronchial wall thickening (96%)",
+      "mucous plug (85%) + atelectatic areas",
+      "bronchiectasis (73%) / bronchiolectasis",
+      "air trapping (38%) = hyperinflation",
+      "± small centrilobular opacities = tree-in-bud pattern"
+    ]
+  },
+  "clinical": {}
+}

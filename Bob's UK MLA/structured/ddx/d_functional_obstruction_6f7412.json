@@ -1,0 +1,32 @@
+{
+  "finding": "D. FUNCTIONAL OBSTRUCTION",
+  "slug": "d_functional_obstruction_6f7412",
+  "chapter": "VENA CAVA",
+  "source_file": "processed_clusters/vena_cava/d_functional_obstruction_6f7412.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pregnant uterus",
+      "raw": "Pregnant uterus",
+      "frequency": null
+    },
+    {
+      "name": "Valsalva maneuver",
+      "raw": "Valsalva maneuver",
+      "frequency": null
+    },
+    {
+      "name": "Straining / crying",
+      "raw": "Straining / crying (in children)",
+      "frequency": null
+    },
+    {
+      "name": "Supine position with large abdominal mass",
+      "raw": "Supine position with large abdominal mass",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

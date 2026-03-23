@@ -1,0 +1,32 @@
+{
+  "name": "LYME ARTHRITIS",
+  "slug": "lyme_arthritis",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/lyme_arthritis.md",
+  "definition": "heterogeneous zoonosis with geographical variation in animal reservoir + tick species +",
+  "demographics": {
+    "Histo": "inflammatory synovial fluid, hypertrophic synovia with vascular proliferation + cellular",
+    "Location": "mono- / oligoarthritis of large joints (especially knee)"
+  },
+  "dominant_finding": "erosion of cartilage / bone (4%)",
+  "distribution": "mono- / oligoarthritis of large joints (especially knee)",
+  "discriminating_features": [
+    "erosion of cartilage / bone (4%)",
+    "no neuroimaging manifestations (frequent)",
+    "painful meningoradiculitis (= Bannwarth syndrome)",
+    "abnormal smooth leptomeningeal enhancement with cranial or spinal nerve involvement",
+    "enhancing periventricular + callososeptal + infratentorial white matter lesions ←"
+  ],
+  "other_features": {
+    "general": [
+      "erosion of cartilage / bone (4%)",
+      "no neuroimaging manifestations (frequent)",
+      "painful meningoradiculitis (= Bannwarth syndrome)",
+      "abnormal smooth leptomeningeal enhancement with cranial or spinal nerve involvement",
+      "enhancing periventricular + callososeptal + infratentorial white matter lesions ←"
+    ]
+  },
+  "clinical": {
+    "Rx": "antibiotics"
+  }
+}

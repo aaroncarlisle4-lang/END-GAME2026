@@ -1,0 +1,22 @@
+{
+  "finding": "Fibromuscular Dysplasia — Abdominal aorta: (DDx)",
+  "slug": "fibromuscular_dysplasia_abdominal_aorta_ddx_1",
+  "chapter": "Fibromuscular Dysplasia",
+  "source_file": "processed_clusters/fibromuscular_dysplasia/fibromuscular_dysplasia_abdominal_aorta_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "atherosclerosis",
+      "raw": "atherosclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Takayasu arteritis",
+      "raw": "Takayasu arteritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "focal narrow annular radiolucent band | smooth tubular stenosis | poststenotic fusiform dilatation"
+}

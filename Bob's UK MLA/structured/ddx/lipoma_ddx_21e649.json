@@ -1,0 +1,27 @@
+{
+  "finding": "Lipoma (DDx)",
+  "slug": "lipoma_ddx_21e649",
+  "chapter": "Lipoma",
+  "source_file": "processed_clusters/lipoma/lipoma_ddx_21e649.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "dermoid (denser",
+      "raw": "dermoid (denser",
+      "frequency": null
+    },
+    {
+      "name": "extraaxial)",
+      "raw": "extraaxial)",
+      "frequency": null
+    },
+    {
+      "name": "teratoma",
+      "raw": "teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "curvilinear peripheral / nodular central calcification within fibrous capsule (more | hyperintense midline mass superior + posterior to corpus callosum on T1WI | no callosal fibers dorsal to lipoma | branches of pericallosal artery frequently course through lipoma"
+}

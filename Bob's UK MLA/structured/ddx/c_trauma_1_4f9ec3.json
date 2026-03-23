@@ -1,0 +1,42 @@
+{
+  "finding": "C. TRAUMA",
+  "slug": "c_trauma_1_4f9ec3",
+  "chapter": "B. BLADDER",
+  "source_file": "processed_clusters/b_bladder/c_trauma_1_4f9ec3.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Penetrating trauma",
+      "raw": "Penetrating trauma",
+      "frequency": null
+    },
+    {
+      "name": "Ureterosigmoidostomy, ileal conduit, catheterization with vesicoureteral reflux,",
+      "raw": "Ureterosigmoidostomy, ileal conduit, catheterization with vesicoureteral reflux,",
+      "frequency": null
+    },
+    {
+      "name": "Infarction of renal carcinoma: therapeutic / spontaneous",
+      "raw": "Infarction of renal carcinoma: therapeutic / spontaneous",
+      "frequency": null
+    },
+    {
+      "name": "FISTULA TO URINARY TRACT Connection:   bronchus / cutis / GI tract",
+      "raw": "FISTULA TO URINARY TRACT Connection:   bronchus / cutis / GI tract (colon > duodenum > stomach > small bowel > appendix)",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation: chronic purulent renal infection, diverticulitis, Crohn disease",
+      "raw": "Inflammation: chronic purulent renal infection, diverticulitis, Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Neoplastic: colonic carcinoma",
+      "raw": "Neoplastic: colonic carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "percutaneous procedure CAVE:   anomalous posterior position of colon"
+}

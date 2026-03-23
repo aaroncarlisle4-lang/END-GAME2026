@@ -1,0 +1,43 @@
+{
+  "name": "HEPATIC ANGIOMYOLIPOMA",
+  "slug": "hepatic_angiomyolipoma",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/hepatic_angiomyolipoma.md",
+  "definition": "rare benign mesenchymal tumor",
+  "demographics": {
+    "Associated with": "tuberous sclerosis",
+    "Histo": "smooth muscle cells, fat, proliferating blood vessels"
+  },
+  "dominant_finding": "areas of macroscopic fat",
+  "distribution": "marked enhancement with visualization of large central vessels during arterial phase",
+  "discriminating_features": [
+    "intratumoral fat is DIAGNOSTIC",
+    "soft-tissue component may enhance",
+    "areas of macroscopic fat",
+    "marked enhancement with visualization of large central vessels during arterial phase",
+    "hyperintense areas of macroscopic fat on T1WI"
+  ],
+  "other_features": {
+    "general": [
+      "intratumoral fat is DIAGNOSTIC",
+      "soft-tissue component may enhance"
+    ],
+    "US": [
+      "circumscribed hyperechoic mass (DDx: hemangioma)",
+      "sound attenuation + subtle acoustic shadowing",
+      "relative hypervascularity"
+    ],
+    "CT": [
+      "areas of macroscopic fat",
+      "marked enhancement with visualization of large central vessels during arterial phase"
+    ],
+    "MR": [
+      "hyperintense areas of macroscopic fat on T1WI",
+      "marked decrease in SI with T1 fat suppression technique",
+      "intense enhancement during arterial phase with dark areas of macroscopic fat on fat-"
+    ]
+  },
+  "clinical": {
+    "Cx": "intratumoral hemorrhage"
+  }
+}

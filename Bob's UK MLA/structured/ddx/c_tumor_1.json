@@ -1,0 +1,37 @@
+{
+  "finding": "C. TUMOR",
+  "slug": "c_tumor_1",
+  "chapter": "E. MISCELLANEOUS",
+  "source_file": "processed_clusters/e_miscellaneous/c_tumor_1.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Glomus jugulare tumor",
+      "raw": "Glomus jugulare tumor",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma, fibro-osseous lesion",
+      "raw": "Hemangioma, fibro-osseous lesion",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Facial nerve neurinoma",
+      "raw": "Facial nerve neurinoma",
+      "frequency": null
+    },
+    {
+      "name": "Large CPA tumors: acoustic neuroma, meningioma",
+      "raw": "Large CPA tumors: acoustic neuroma, meningioma (2nd most common CPA tumor)",
+      "frequency": "most common"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

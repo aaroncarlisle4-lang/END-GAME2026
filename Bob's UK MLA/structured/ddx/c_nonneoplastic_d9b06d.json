@@ -1,0 +1,27 @@
+{
+  "finding": "C. NONNEOPLASTIC",
+  "slug": "c_nonneoplastic_d9b06d",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/c_nonneoplastic_d9b06d.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis (32%)",
+      "frequency": "32%"
+    },
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Incarcerated hernia",
+      "raw": "Incarcerated hernia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

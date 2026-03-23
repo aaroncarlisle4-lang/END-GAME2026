@@ -1,0 +1,52 @@
+{
+  "finding": "C. MENDELIAN SYNDROMES",
+  "slug": "c_mendelian_syndromes_99cb5c",
+  "chapter": "F. TWINS",
+  "source_file": "processed_clusters/f_twins/c_mendelian_syndromes_99cb5c.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Ellis-van Creveld syndrome",
+      "raw": "Ellis-van Creveld syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Noonan syndrome",
+      "raw": "Noonan syndrome",
+      "frequency": null
+    },
+    {
+      "name": "FAMILIAL RISK FACTORS FOR RECURRENCE OF HEART DISEASE › overall incidence : 6-8÷1,000 live births › affected sibling : 1-4% (risk doubled) › affected parent : 2.5-4% ◊  In 50% of neonates with CHD there is no identifiable risk factor!",
+      "raw": "FAMILIAL RISK FACTORS FOR RECURRENCE OF HEART DISEASE › overall incidence : 6-8÷1,000 live births › affected sibling : 1-4% (risk doubled) › affected parent : 2.5-4% ◊  In 50% of neonates with CHD there is no identifiable risk factor!",
+      "frequency": "4%"
+    },
+    {
+      "name": "Intrauterine cardiac failure → hydrops",
+      "raw": "Intrauterine cardiac failure → hydrops",
+      "frequency": null
+    },
+    {
+      "name": "Severe trisomy: 18, 13",
+      "raw": "Severe trisomy: 18, 13",
+      "frequency": null
+    },
+    {
+      "name": "Hypoplastic left heart + endocardial fibroelastosis",
+      "raw": "Hypoplastic left heart + endocardial fibroelastosis",
+      "frequency": null
+    },
+    {
+      "name": "Delivery in center without pediatric cardiology",
+      "raw": "Delivery in center without pediatric cardiology",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Poor prognostic features:"
+}

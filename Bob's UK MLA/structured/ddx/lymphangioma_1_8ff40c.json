@@ -1,0 +1,27 @@
+{
+  "finding": "LYMPHANGIOMA",
+  "slug": "lymphangioma_1_8ff40c",
+  "chapter": "LYME ARTHRITIS",
+  "source_file": "processed_clusters/lyme_arthritis/lymphangioma_1_8ff40c.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Capillary lymphangioma",
+      "raw": "Capillary lymphangioma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Cavernous lymphangioma",
+      "raw": "Cavernous lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic lymphangioma (most common) =  cystic hygroma",
+      "raw": "Cystic lymphangioma (most common) =  cystic hygroma",
+      "frequency": "most common"
+    }
+  ],
+  "criteria": {},
+  "context": "=  sequestered noncommunicating lymphoid tissue lined by lymphatic endothelium Cause:   congenital obstruction of lymphatic drainage Subtypes: Location:   subcutaneous tissue Location:   about the mouth + tongue"
+}

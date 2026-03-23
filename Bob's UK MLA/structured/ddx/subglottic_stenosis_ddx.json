@@ -1,0 +1,30 @@
+{
+  "finding": "Subglottic Stenosis (DDx)",
+  "slug": "subglottic_stenosis_ddx",
+  "chapter": "Subglottic Stenosis",
+  "source_file": "processed_clusters/subglottic_stenosis/subglottic_stenosis_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cystic hygroma (septated fluid-filled collection [posterior location)]",
+      "raw": "cystic hygroma (septated fluid-filled collection",
+      "frequency": null,
+      "sites": [
+        "posterior location)"
+      ]
+    },
+    {
+      "name": "goiter",
+      "raw": "goiter",
+      "frequency": null
+    },
+    {
+      "name": "branchial",
+      "raw": "branchial",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "heterogeneous contents in teratomas | hypo- to isointense on T1WI + hyperintense on T2WI: | dermoid cysts may be hyperintense on T1WI ← lipid-containing areas | coronal imaging useful to depict relationship to mylohyoid muscle"
+}

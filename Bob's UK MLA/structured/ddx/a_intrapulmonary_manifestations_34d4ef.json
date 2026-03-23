@@ -1,0 +1,32 @@
+{
+  "finding": "A. INTRAPULMONARY MANIFESTATIONS",
+  "slug": "a_intrapulmonary_manifestations_34d4ef",
+  "chapter": "HARD-METAL PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/a_intrapulmonary_manifestations_34d4ef.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchovascular form",
+      "raw": "Bronchovascular form (most common type)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Subpleural form",
+      "raw": "Subpleural form",
+      "frequency": null
+    },
+    {
+      "name": "Massive pneumonic form",
+      "raw": "Massive pneumonic form (68%)",
+      "frequency": "68%"
+    },
+    {
+      "name": "Nodular form",
+      "raw": "Nodular form",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   6-11%; in 4.3% bilateral (more frequent in recurrent disease) ◊  Most commonly in nodular sclerosing type ◊  Subsequent to hilar adenopathy in ipsilateral lung √  coarse reticulonodular pattern contiguous with mediastinum = direct extension from mediastinal nodes along lymphatics √  nodular parenchymal lesions √  miliary nodules √  endobronchial involvement √  lobar atelectasis ← endobronchial obstruction (rare) √   cavitation ← necrosis (rare) √  circumscribed subpleural masses √  pleural effusion (20-50%) ← lymphatic obstruction √  diffuse nonsegmental infiltrate (pneumonic type"
+}

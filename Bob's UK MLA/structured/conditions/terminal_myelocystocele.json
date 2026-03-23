@@ -1,0 +1,27 @@
+{
+  "name": "TERMINAL MYELOCYSTOCELE",
+  "slug": "terminal_myelocystocele",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/terminal_myelocystocele.md",
+  "definition": "combination of posterior spina bifida + meningocele + tethered cord + hydromyelia + cystic",
+  "demographics": {
+    "Associated with": "anorectal + genitourinary + vertebral anomalies: anal atresia, cloacal"
+  },
+  "dominant_finding": "nerve root exit ventrally",
+  "distribution": "",
+  "discriminating_features": [
+    "spinal cord surrounded dorsally + ventrally by dilated subarachnoid space of the meningocele",
+    "nerve root exit ventrally",
+    "bifid spinal cord",
+    "hydromyelia"
+  ],
+  "other_features": {
+    "general": [
+      "spinal cord surrounded dorsally + ventrally by dilated subarachnoid space of the meningocele",
+      "nerve root exit ventrally",
+      "bifid spinal cord",
+      "hydromyelia"
+    ]
+  },
+  "clinical": {}
+}

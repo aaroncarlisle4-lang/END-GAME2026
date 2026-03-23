@@ -1,0 +1,37 @@
+{
+  "finding": "C. EXTRAHEPATIC MASS",
+  "slug": "c_extrahepatic_mass",
+  "chapter": "Displaced Gallbladder",
+  "source_file": "processed_clusters/displaced_gallbladder/c_extrahepatic_mass.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Retroperitoneal tumor",
+      "raw": "Retroperitoneal tumor (renal, adrenal)",
+      "frequency": null
+    },
+    {
+      "name": "Polycystic kidney",
+      "raw": "Polycystic kidney",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymph node metastasis to porta hepatis",
+      "raw": "Lymph node metastasis to porta hepatis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Alteration in Gallbladder Size Enlarged Gallbladder =  CHOLECYSTOMEGALY = HYDROPS OF GALLBLADDER Size: (a) infants < 1 year: > 3 cm in length (b) children: > 7 cm in length (c) adults: > 10 x 4 cm (L x W)"
+}

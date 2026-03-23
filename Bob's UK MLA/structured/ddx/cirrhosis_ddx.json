@@ -1,0 +1,22 @@
+{
+  "finding": "Cirrhosis (DDx)",
+  "slug": "cirrhosis_ddx",
+  "chapter": "Cirrhosis",
+  "source_file": "processed_clusters/cirrhosis/cirrhosis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hepatocellular carcinoma (growth in 3- to 6-month intervals",
+      "raw": "hepatocellular carcinoma (growth in 3- to 6-month intervals",
+      "frequency": null
+    },
+    {
+      "name": "defect on portal venous phase)",
+      "raw": "defect on portal venous phase)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "rapid tapering of intrahepatic portal + hepatic venous branches | enlarged tortuous hepatic artery ← compensatory increase in arterial blood flow | arterioportal shunts (= trans-sinusoidal shunts in liver periphery + transplexal shunts with | poorly demarcated transient peripheral wedge-shaped hepatic parenchymal enhancement"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "OSTEOCHONDROSIS DISSECANS",
+  "slug": "osteochondrosis_dissecans",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/osteochondrosis_dissecans.md",
+  "definition": "OSTEOCHONDRITIS DISSECANS = OSTEOCHONDRAL FRACTURE fragmentation + possible separation of a portion of the articular surface disease manifestation before physeal closure",
+  "demographics": {
+    "Age": "adolescence; M > F",
+    "Location": "posterior region of knee joint, olecranon fossa, axillary / subscapular recess of",
+    "Etiology": "repetitive trauma"
+  },
+  "dominant_finding": "focus of abnormal signal in subarticular marrow",
+  "distribution": "posterior region of knee joint, olecranon fossa, axillary / subscapular recess of",
+  "discriminating_features": [
+    "purely cartilaginous fragment unrecognized on plain film",
+    "fracture line parallels joint surface",
+    "mouse = osteochondrotic fragment",
+    "mouse bed = sclerosed pit in articular surface",
+    "soft-tissue swelling, joint effusion"
+  ],
+  "other_features": {
+    "general": [
+      "purely cartilaginous fragment unrecognized on plain film",
+      "fracture line parallels joint surface",
+      "mouse = osteochondrotic fragment",
+      "mouse bed = sclerosed pit in articular surface",
+      "soft-tissue swelling, joint effusion"
+    ],
+    "MR": [
+      "focus of abnormal signal in subarticular marrow",
+      "defect in overlying cartilage",
+      "loose bodies of heterogeneous low-SI in coronoid and olecranon fossa outlined by",
+      "signs of lesion instability (= high-grade lesion):",
+      "line of fluid signal intensity on T2WI between fragment + parent bone surrounded by",
+      "multiple / > 5 mm cysts near lesion",
+      "fracture in articular cartilage",
+      "fluid-filled osteochondritis dissecans lesion",
+      "lucent defect within capitellum",
+      "flattening of anterior border of capitellum"
+    ]
+  },
+  "clinical": {}
+}

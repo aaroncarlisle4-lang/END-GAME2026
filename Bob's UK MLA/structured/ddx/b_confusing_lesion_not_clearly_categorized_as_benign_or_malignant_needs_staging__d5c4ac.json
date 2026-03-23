@@ -1,0 +1,62 @@
+{
+  "finding": "B. CONFUSING LESION not clearly categorized as benign or malignant; needs staging work-up",
+  "slug": "b_confusing_lesion_not_clearly_categorized_as_benign_or_malignant_needs_staging__d5c4ac",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/myeloproliferative_disorders/b_confusing_lesion_not_clearly_categorized_as_benign_or_malignant_needs_staging__d5c4ac.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "MALIGNANT: needs staging work-up",
+      "raw": "MALIGNANT: needs staging work-up",
+      "frequency": null
+    },
+    {
+      "name": "Margins: encapsulated / infiltrating",
+      "raw": "Margins: encapsulated / infiltrating",
+      "frequency": null
+    },
+    {
+      "name": "Compartment: intra- / extracompartmental",
+      "raw": "Compartment: intra- / extracompartmental",
+      "frequency": null
+    },
+    {
+      "name": "Intraosseous extent + skip lesions",
+      "raw": "Intraosseous extent + skip lesions",
+      "frequency": null
+    },
+    {
+      "name": "Soft-tissue extent",
+      "raw": "Soft-tissue extent (DDx: hematoma, edema)",
+      "frequency": null
+    },
+    {
+      "name": "Joint involvement",
+      "raw": "Joint involvement",
+      "frequency": null
+    },
+    {
+      "name": "Neurovascular involvement",
+      "raw": "Neurovascular involvement",
+      "frequency": null
+    },
+    {
+      "name": "180-360° =  indicates infiltration by tumor",
+      "raw": "180-360° =  indicates infiltration by tumor",
+      "frequency": null
+    },
+    {
+      "name": "90-180° =  indeterminate for infiltration by tumor",
+      "raw": "90-180° =  indeterminate for infiltration by tumor",
+      "frequency": null
+    },
+    {
+      "name": "0-90° =  infiltration by tumor unlikely",
+      "raw": "0-90° =  infiltration by tumor unlikely",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Staging work-up: Bone scan:   identifies polyostotic lesions (eg, multiple myeloma, metastatic disease, primary osteosarcoma with bone-forming metastases, histiocytosis, Paget disease) Chest CT:    identifies metastatic deposits + changes further work-up and therapy Local staging with MR imaging: Local assessment with CT imaging: √  matrix / rim calcifications VESSEL AND NERVE INVOLVEMENT √  tumor encasement of neurovascular bundle by"
+}

@@ -1,0 +1,52 @@
+{
+  "finding": "Cause: (a) rapidly growing malignant bone tumor",
+  "slug": "cause_a_rapidly_growing_malignant_bone_tumor_a8ed6d",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/myeloproliferative_disorders/cause_a_rapidly_growing_malignant_bone_tumor_a8ed6d.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Histiocytosis X",
+      "raw": "Histiocytosis X",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma",
+      "raw": "Multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "PERMEATIVE BONE DESTRUCTION",
+      "raw": "PERMEATIVE BONE DESTRUCTION",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(b)  osteomyelitis √  less well-defined / demarcated lesional margin √  broad zone of transition Cause:   aggressive bone tumor with rapid growth potential (eg, Ewing sarcoma) √  poorly demarcated lesion imperceptibly merging with uninvolved bone √  broad zone of transition Size, Shape, and Margin of Bone Tumors ◊  Primary malignant tumors are larger than benign tumors √  elongated lesion (= greatest diameter of > 1.5 times the least diameter): Ewing sarcoma, histiocytic lymphoma, chondrosarcoma, angiosarcoma √  sclerotic margin (= reaction of host tissue to tumor)"
+}

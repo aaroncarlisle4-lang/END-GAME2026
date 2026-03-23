@@ -1,0 +1,32 @@
+{
+  "finding": "Fractures Of Cervical Spine (DDx)",
+  "slug": "fractures_of_cervical_spine_ddx",
+  "chapter": "Fractures Of Cervical Spine",
+  "source_file": "processed_clusters/fractures_of_cervical_spine/fractures_of_cervical_spine_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "os odontoideum",
+      "raw": "os odontoideum",
+      "frequency": null
+    },
+    {
+      "name": "ossiculum terminale",
+      "raw": "ossiculum terminale",
+      "frequency": null
+    },
+    {
+      "name": "hypoplasia of dens",
+      "raw": "hypoplasia of dens",
+      "frequency": null
+    },
+    {
+      "name": "aplasia of dens",
+      "raw": "aplasia of dens",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "obliquely oriented fracture through tip of odontoid that is difficult to detect"
+}

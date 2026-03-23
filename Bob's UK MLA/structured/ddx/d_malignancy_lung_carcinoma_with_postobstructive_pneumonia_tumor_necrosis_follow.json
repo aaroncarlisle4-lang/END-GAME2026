@@ -1,0 +1,27 @@
+{
+  "finding": "D. MALIGNANCY: lung carcinoma with postobstructive pneumonia / tumor necrosis following therapy",
+  "slug": "d_malignancy_lung_carcinoma_with_postobstructive_pneumonia_tumor_necrosis_follow",
+  "chapter": "BRONCHIOLITIS",
+  "source_file": "processed_clusters/bronchiolitis/d_malignancy_lung_carcinoma_with_postobstructive_pneumonia_tumor_necrosis_follow.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "large / persistent air leak; acute / chronic empyema",
+      "raw": "large / persistent air leak; acute / chronic empyema",
+      "frequency": null
+    },
+    {
+      "name": "Sinography",
+      "raw": "Sinography",
+      "frequency": null
+    },
+    {
+      "name": "Bronchography",
+      "raw": "Bronchography",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "HRCT: √  direct visualization of bronchopleural fistula (in 50%) √  peripheral air + fluid collection (indirect sign) Dx:    (1)  Introduction of methylene blue into pleural space, in 65% dye appears in sputum Rx:   tube thoracostomy, open drainage, decortication, thoraco-plasty, muscle-pedicle closure, transbronchial occlusions"
+}

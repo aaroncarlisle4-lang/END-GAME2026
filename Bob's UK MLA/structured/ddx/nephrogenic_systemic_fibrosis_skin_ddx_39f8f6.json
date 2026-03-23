@@ -1,0 +1,42 @@
+{
+  "finding": "Nephrogenic Systemic Fibrosis — Skin (DDx)",
+  "slug": "nephrogenic_systemic_fibrosis_skin_ddx_39f8f6",
+  "chapter": "Nephrogenic Systemic Fibrosis",
+  "source_file": "processed_clusters/nephrogenic_systemic_fibrosis/nephrogenic_systemic_fibrosis_skin_ddx_39f8f6.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cellulitis",
+      "raw": "cellulitis",
+      "frequency": null
+    },
+    {
+      "name": "fasciitis",
+      "raw": "fasciitis",
+      "frequency": null
+    },
+    {
+      "name": "scleroderma",
+      "raw": "scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "cutaneous lymphoma",
+      "raw": "cutaneous lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "lymphatic / venous obstruction",
+      "raw": "lymphatic / venous obstruction",
+      "frequency": null
+    },
+    {
+      "name": "dermatopolymyositis",
+      "raw": "dermatopolymyositis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

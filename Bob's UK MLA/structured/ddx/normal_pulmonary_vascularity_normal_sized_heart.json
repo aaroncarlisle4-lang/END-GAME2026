@@ -1,0 +1,27 @@
+{
+  "finding": "Normal Pulmonary Vascularity & Normal-sized Heart",
+  "slug": "normal_pulmonary_vascularity_normal_sized_heart",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/normal_pulmonary_vascularity_normal_sized_heart.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myocardial ischemia",
+      "raw": "Myocardial ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Afterload",
+      "raw": "Afterload (= pressure overload problems)",
+      "frequency": null
+    },
+    {
+      "name": "Normal",
+      "raw": "Normal",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

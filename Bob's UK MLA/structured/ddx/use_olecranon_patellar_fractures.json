@@ -1,0 +1,37 @@
+{
+  "finding": "Use: olecranon / patellar fractures",
+  "slug": "use_olecranon_patellar_fractures",
+  "chapter": "D. Staples",
+  "source_file": "processed_clusters/d_staples/use_olecranon_patellar_fractures.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Steinmann pin = large-caliber wire with pointed tip",
+      "raw": "Steinmann pin = large-caliber wire with pointed tip",
+      "frequency": null
+    },
+    {
+      "name": "Rush pin = smooth intramedullary pin",
+      "raw": "Rush pin = smooth intramedullary pin",
+      "frequency": null
+    },
+    {
+      "name": "Schanz screw = pin threaded at one end to engage cortex, smooth at other end to connect to external fixation device",
+      "raw": "Schanz screw = pin threaded at one end to engage cortex, smooth at other end to connect to external fixation device",
+      "frequency": null
+    },
+    {
+      "name": "Knowles pin (for femoral neck fracture) (b)  transfixing pin = passes through extremity supported by external fixation device on both ends",
+      "raw": "Knowles pin (for femoral neck fracture) (b)  transfixing pin = passes through extremity supported by external fixation device on both ends",
+      "frequency": null
+    },
+    {
+      "name": "Rush pin = beveled end + hooked end",
+      "raw": "Rush pin = beveled end + hooked end",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "External Fixation Devices =  smooth / threaded pins / wires attached to an external frame (a)  unilateral pin = enters bone only from one side Intramedullary Fixation Devices Use:     diaphyseal long bone fractures (a)  nail / pin= driven into bone without reaming (b)  rod = solid / hollow device with blunted tip driven into reamed channel (reaming disrupts blood supply and may decrease the rate of fracture healing) (c)  interlocking nail = accessory pins / screws / deployable fins placed to prevent rotation"
+}

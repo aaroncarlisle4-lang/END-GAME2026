@@ -1,0 +1,34 @@
+{
+  "name": "SCHATZKI RING",
+  "slug": "schatzki_ring",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/schatzki_ring.md",
+  "definition": "LOWER ESOPHAGEAL MUCOSAL RING constant lower esophageal ring (mucosal thickening) presumed to result from reflux",
+  "demographics": {
+    "Frequency": "6-14% of population; old age > young age; M > F",
+    "Histo": "usually squamous epithelium on upper surface + columnar epithelium on undersurface;",
+    "Associated with": "hiatal hernia (typical)"
+  },
+  "dominant_finding": "constant shape + size",
+  "distribution": "",
+  "discriminating_features": [
+    "nondistensible concentric transverse ring of shelflike projection with smooth symmetric",
+    "constant shape + size",
+    "visible only with adequate distension of esophagogastric region and when located above the",
+    "best demonstrated in prone position during arrested deep inspiration with Valsalva maneuver",
+    "short esophagus + intrahiatal / intrathoracic gastric segment = sliding hiatal hernia if Schatzki"
+  ],
+  "other_features": {
+    "general": [
+      "nondistensible concentric transverse ring of shelflike projection with smooth symmetric",
+      "constant shape + size",
+      "visible only with adequate distension of esophagogastric region and when located above the",
+      "best demonstrated in prone position during arrested deep inspiration with Valsalva maneuver",
+      "short esophagus + intrahiatal / intrathoracic gastric segment = sliding hiatal hernia if Schatzki"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "decrease in caliber over 5 years (in 25-33%)",
+    "Cx": "impaction of food bolus (associated with severe chest pain)"
+  }
+}

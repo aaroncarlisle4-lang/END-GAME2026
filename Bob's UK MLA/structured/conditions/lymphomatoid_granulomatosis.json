@@ -1,0 +1,42 @@
+{
+  "name": "LYMPHOMATOID GRANULOMATOSIS",
+  "slug": "lymphomatoid_granulomatosis",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/lymphomatoid_granulomatosis.md",
+  "definition": "angioinvasive + angiodestructive oligo- / monoclonal lymphoproliferative + granulomatous",
+  "demographics": {
+    "Mean age": "48 (range, 7-85) years; M÷F = 2÷1",
+    "Path": "multiple sharply marginated masses adjacent to a bronchus causing obstructive",
+    "Histo": "angiocentric infiltrate of atypical lymphoid cells (CD20-positive B-cells, some infected",
+    "Distribution": "peribronchovascular"
+  },
+  "dominant_finding": "reticular / nodular airspace opacities (10-43%):",
+  "distribution": "peribronchovascular",
+  "discriminating_features": [
+    "normal CXR",
+    "diffuse reticulonodular opacities (= granulomas)",
+    "large masslike opacities (= granulomas + pulmonary infarcts)",
+    "multiple bilateral nodules in middle + lower lobes (80%)",
+    "unilateral involvement (21%)"
+  ],
+  "other_features": {
+    "general": [
+      "normal CXR",
+      "diffuse reticulonodular opacities (= granulomas)",
+      "large masslike opacities (= granulomas + pulmonary infarcts)",
+      "multiple bilateral nodules in middle + lower lobes (80%)",
+      "unilateral involvement (21%)",
+      "small pleural effusions (40%)",
+      "hilar lymphadenopathy (25%)"
+    ],
+    "CT": [
+      "peripheral subpleural 0.6-8.0 cm large nodules / masses",
+      "reticular / nodular airspace opacities (10-43%):",
+      "central cavitation (30%)",
+      "peripheral ground-glass halo ± air bronchogram"
+    ]
+  },
+  "clinical": {
+    "Cx": "lymphoma (12-47%)"
+  }
+}

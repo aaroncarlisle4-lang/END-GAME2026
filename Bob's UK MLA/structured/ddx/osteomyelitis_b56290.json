@@ -1,0 +1,187 @@
+{
+  "finding": "OSTEOMYELITIS",
+  "slug": "osteomyelitis_b56290",
+  "chapter": "OSTEOFIBROUS DYSPLASIA",
+  "source_file": "processed_clusters/osteofibrous_dysplasia/osteomyelitis_b56290.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "prominent local signs and symptoms",
+      "raw": "prominent local signs and symptoms (b)  hematogenous: bacteremia (commonly in elderly / child)",
+      "frequency": null
+    },
+    {
+      "name": "slow insidious progression of symptoms",
+      "raw": "slow insidious progression of symptoms",
+      "frequency": null
+    },
+    {
+      "name": "positive blood culture (in 50%) (c)  extension from adjacent soft-tissue infection",
+      "raw": "positive blood culture (in 50%) (c)  extension from adjacent soft-tissue infection",
+      "frequency": "50%"
+    },
+    {
+      "name": "purulent material draining from site of osteomyelitis",
+      "raw": "purulent material draining from site of osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "positive findings at bone tissue / blood culture",
+      "raw": "positive findings at bone tissue / blood culture",
+      "frequency": null
+    },
+    {
+      "name": "localized classic physical findings of bone tenderness",
+      "raw": "localized classic physical findings of bone tenderness",
+      "frequency": null
+    },
+    {
+      "name": "positive radiologic findings",
+      "raw": "positive radiologic findings",
+      "frequency": null
+    },
+    {
+      "name": "genitourinary tract infection",
+      "raw": "genitourinary tract infection (72%)",
+      "frequency": "72%"
+    },
+    {
+      "name": "lung infection",
+      "raw": "lung infection (14%)",
+      "frequency": "14%"
+    },
+    {
+      "name": "dermal infection (14%): direct contamination from a soft-tissue lesion in diabetic patient",
+      "raw": "dermal infection (14%): direct contamination from a soft-tissue lesion in diabetic patient",
+      "frequency": "14%"
+    },
+    {
+      "name": "leukocytosis + fever",
+      "raw": "leukocytosis + fever (66%)",
+      "frequency": "66%"
+    },
+    {
+      "name": "67Ga scan: 100% sensitivity; increased uptake 1 day earlier than for 99mTc-MDP ◊  Gallium also helpful for chronic osteomyelitis!",
+      "raw": "67Ga scan: 100% sensitivity; increased uptake 1 day earlier than for 99mTc-MDP ◊  Gallium also helpful for chronic osteomyelitis!",
+      "frequency": "100%"
+    },
+    {
+      "name": "Static 99mTc-diphosphonate: 83% sensitive with 5-60% false-negative rate in neonates + children because of (a)  masking effect of epiphyseal plates (b)  early diminished blood flow with infection (c)  spectrum of uptake pattern from hot to cold",
+      "raw": "Static 99mTc-diphosphonate: 83% sensitive with 5-60% false-negative rate in neonates + children because of (a)  masking effect of epiphyseal plates (b)  early diminished blood flow with infection (c)  spectrum of uptake pattern from hot to cold",
+      "frequency": "83%"
+    },
+    {
+      "name": "Triple-phase skeletal scintigraphy:",
+      "raw": "Triple-phase skeletal scintigraphy:",
+      "frequency": null
+    },
+    {
+      "name": "WBC-scan:",
+      "raw": "WBC-scan:",
+      "frequency": null
+    },
+    {
+      "name": "Bone marrow imaging (99mTc-sulfur colloid) in combination with WBC-scan",
+      "raw": "Bone marrow imaging (99mTc-sulfur colloid) in combination with WBC-scan",
+      "frequency": null
+    },
+    {
+      "name": "Abscess of soft-tissue / bone",
+      "raw": "Abscess of soft-tissue / bone",
+      "frequency": null
+    },
+    {
+      "name": "Fistula formation",
+      "raw": "Fistula formation",
+      "frequency": null
+    },
+    {
+      "name": "Pathologic fracture",
+      "raw": "Pathologic fracture",
+      "frequency": null
+    },
+    {
+      "name": "Septic arthritis",
+      "raw": "Septic arthritis (← extension into joint)",
+      "frequency": null
+    },
+    {
+      "name": "Growth disturbance due to epiphyseal involvement",
+      "raw": "Growth disturbance due to epiphyseal involvement",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Severe deformity with delayed treatment",
+      "raw": "Severe deformity with delayed treatment",
+      "frequency": null
+    },
+    {
+      "name": "little / no systemic disturbance",
+      "raw": "little / no systemic disturbance",
+      "frequency": null
+    },
+    {
+      "name": "Increased uptake in contralateral limb in patient with a limp",
+      "raw": "Increased uptake in contralateral limb in patient with a limp",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse hyperemia in normal bones of an extremity involved with focal osteomyelitis should not be mistaken for multifocal osteomyelitis / septic arthritis.",
+      "raw": "Diffuse hyperemia in normal bones of an extremity involved with focal osteomyelitis should not be mistaken for multifocal osteomyelitis / septic arthritis.",
+      "frequency": null
+    },
+    {
+      "name": "pain, tenderness soft-tissue swelling",
+      "raw": "pain, tenderness soft-tissue swelling",
+      "frequency": null
+    },
+    {
+      "name": "limited range of motion",
+      "raw": "limited range of motion",
+      "frequency": null
+    },
+    {
+      "name": "elevated ESR + C-reactive protein; normal WBC Associated with:   psoriasis, palmoplantar pustulosis, inflammatory bowel disease",
+      "raw": "elevated ESR + C-reactive protein; normal WBC Associated with:   psoriasis, palmoplantar pustulosis, inflammatory bowel disease",
+      "frequency": null
+    },
+    {
+      "name": "history of childhood osteomyelitis",
+      "raw": "history of childhood osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "exacerbation of symptoms with increasing pain, enlarging mass",
+      "raw": "exacerbation of symptoms with increasing pain, enlarging mass",
+      "frequency": null
+    },
+    {
+      "name": "change in character / amount of sinus drainage Location:   at site of chronically / intermittently draining sinus; tibia",
+      "raw": "change in character / amount of sinus drainage Location:   at site of chronically / intermittently draining sinus; tibia (50%), femur (21%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Early metastases in 14-20-40%",
+      "raw": "Early metastases in 14-20-40% (within 18 months)",
+      "frequency": "40%"
+    },
+    {
+      "name": "No recurrence in 80%",
+      "raw": "No recurrence in 80%",
+      "frequency": "80%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  inflammation of bone and marrow caused by bacteria (most commonly pyogenic bacteria + mycobacteria), fungi, parasites, viruses Predisposed:   immunosuppression, diabetes mellitus, sickle cell disease, intravenous drug abuse, alcoholism Source of infection: (a)  direct inoculation: open fracture / direct trauma (commonly in young adults) Location:   tibia, wrist, femur, rib, thoracolumbar spine Dx:   requires 2 out of 4 of the following criteria Acute Pyogenic Osteomyelitis Age:     most commonly affects children Organism: (a) newborns: S. aureus, group B streptococcus, E. coli (b) children:"
+}

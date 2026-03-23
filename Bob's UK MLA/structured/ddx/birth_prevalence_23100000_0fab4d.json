@@ -1,0 +1,27 @@
+{
+  "finding": "Birth prevalence: 2.3÷100,000",
+  "slug": "birth_prevalence_23100000_0fab4d",
+  "chapter": "ACHONDROGENESIS",
+  "source_file": "processed_clusters/achondrogenesis/birth_prevalence_23100000_0fab4d.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TYPE I = Parenti-Fraccaro disease =  defective enchondral + membranous ossification",
+      "raw": "TYPE I = Parenti-Fraccaro disease =  defective enchondral + membranous ossification",
+      "frequency": null
+    },
+    {
+      "name": "TYPE II = Langer-Saldino disease =  defective enchondral ossification only",
+      "raw": "TYPE II = Langer-Saldino disease =  defective enchondral ossification only",
+      "frequency": null
+    },
+    {
+      "name": "often subcutaneous edema",
+      "raw": "often subcutaneous edema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Path:   disorganization of cartilage √  complete lack of ossification of calvarium + spine + pelvis √  absent sacrum + pubic bone √  extremely short long bones without bowing: especially femur, radius, ulna √  thin ribs with multiple fractures (frequent) √  good ossification of skull vault √  nonossification of lower lumbar vertebrae + sacrum √  short + stubby horizontal ribs without fractures √  irregular flared metaphyses: esp. humerus √  short trunk with narrow chest + protruding abdomen √  redundant soft tissues √  polyhydramnios (common) √  increase in HC÷AC ratio Prognosis: lethal often"
+}

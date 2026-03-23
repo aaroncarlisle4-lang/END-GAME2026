@@ -1,0 +1,32 @@
+{
+  "finding": "Coal Worker Pneumoconiosis (DDx)",
+  "slug": "coal_worker_pneumoconiosis_ddx_1_cd4cff",
+  "chapter": "Coal Worker Pneumoconiosis",
+  "source_file": "processed_clusters/coal_worker_pneumoconiosis/coal_worker_pneumoconiosis_ddx_1_cd4cff.md",
+  "quality_score": 0.65,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "silicosis",
+      "raw": "silicosis",
+      "frequency": null
+    },
+    {
+      "name": "mycobacterial infection",
+      "raw": "mycobacterial infection",
+      "frequency": null
+    },
+    {
+      "name": "sarcoidosis",
+      "raw": "sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "subacute hypersensitivity pneumonitis",
+      "raw": "subacute hypersensitivity pneumonitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,26 @@
+{
+  "name": "AMYOTROPHIC LATERAL SCLEROSIS",
+  "slug": "amyotrophic_lateral_sclerosis",
+  "chapter": "NERVOUS SYSTEM DISORDERS",
+  "source_file": "processed_clusters/disease_entries/nervous_system_disorders/amyotrophic_lateral_sclerosis.md",
+  "definition": "Lou Gehrig's disease (famous baseball player for NY Yankees) most common form of motor neuron disease (without autonomic / sensory / cognitive",
+  "demographics": {
+    "Age": "middle - late adulthood; M > F",
+    "Path": "atrophy of precentral gyrus",
+    "Histo": "loss of pyramidal + Betz cells in motor cortex; loss of anterior horn cells in spinal cord;"
+  },
+  "dominant_finding": "low SI in motor cortex on T2WI ← iron deposition",
+  "distribution": "hyperintense corticospinal tracts (corona radiata, corpus callosum, posterior limb of",
+  "discriminating_features": [
+    "hyperintense corticospinal tracts (corona radiata, corpus callosum, posterior limb of",
+    "low SI in motor cortex on T2WI ← iron deposition"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "hyperintense corticospinal tracts (corona radiata, corpus callosum, posterior limb of",
+      "low SI in motor cortex on T2WI ← iron deposition"
+    ]
+  },
+  "clinical": {}
+}

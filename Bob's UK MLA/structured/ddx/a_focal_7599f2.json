@@ -1,0 +1,42 @@
+{
+  "finding": "A. FOCAL",
+  "slug": "a_focal_7599f2",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/a_focal_7599f2.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma (11%)",
+      "frequency": "11%"
+    },
+    {
+      "name": "Modic type 2 endplate changes",
+      "raw": "Modic type 2 endplate changes",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease (later stage)",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage (with fracture)",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

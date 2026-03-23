@@ -1,0 +1,28 @@
+{
+  "name": "BILIARY-ENTERIC FISTULA",
+  "slug": "biliary_enteric_fistula",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/biliary_enteric_fistula.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "5% at cholecystectomy; 0.5% at autopsy",
+    "Etiology": "cholelithiasis (90%), acute / chronic cholecystitis, biliary tract carcinoma, regional"
+  },
+  "dominant_finding": "barium filling of biliary tree",
+  "distribution": "",
+  "discriminating_features": [
+    "pneumobilia = branching tubular radiolucencies, more prominent centrally within the liver",
+    "barium filling of biliary tree",
+    "shrunken gallbladder mimicking pseudodiverticulum of duodenal bulb",
+    "multiple hyperechoic foci with dirty shadowing"
+  ],
+  "other_features": {
+    "general": [
+      "pneumobilia = branching tubular radiolucencies, more prominent centrally within the liver",
+      "barium filling of biliary tree",
+      "shrunken gallbladder mimicking pseudodiverticulum of duodenal bulb",
+      "multiple hyperechoic foci with dirty shadowing"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,32 @@
+{
+  "name": "SALIVARY GLANDS",
+  "slug": "salivary_glands_1",
+  "chapter": "NECK",
+  "source_file": "processed_clusters/disease_entries/neck/salivary_glands_1.md",
+  "definition": "main excretory duct of parotid gland",
+  "demographics": {
+    "Location": "mainly in upper + lower poles of parotid"
+  },
+  "dominant_finding": "short axis-to-long axis ratio > 0.5 (in 60%)",
+  "distribution": "mainly in upper + lower poles of parotid",
+  "discriminating_features": [
+    "homogeneous texture varying from markedly hyperechoic to slightly hyperechoic (compared",
+    "short axis-to-long axis ratio > 0.5 (in 60%)",
+    "short axis diameter < 5-6 mm",
+    "hyperechoic hilum",
+    "normal duct sonographically not visible"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "homogeneous texture varying from markedly hyperechoic to slightly hyperechoic (compared",
+      "short axis-to-long axis ratio > 0.5 (in 60%)",
+      "short axis diameter < 5-6 mm",
+      "hyperechoic hilum",
+      "normal duct sonographically not visible",
+      "may be connected to parotid / sublingual glands by glandular processes",
+      "duct sonographically not visible"
+    ]
+  },
+  "clinical": {}
+}

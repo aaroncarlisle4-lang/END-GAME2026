@@ -1,0 +1,49 @@
+{
+  "finding": "E. ABDOMINAL MANIFESTATION",
+  "slug": "e_abdominal_manifestation_8a8fca",
+  "chapter": "MACRODYSTROPHIA LIPOMATOSA",
+  "source_file": "processed_clusters/macrodystrophia_lipomatosa/e_abdominal_manifestation_8a8fca.md",
+  "quality_score": 0.267,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "INTEGUMENTUM",
+      "raw": "INTEGUMENTUM",
+      "frequency": null
+    },
+    {
+      "name": "striae atrophicae",
+      "raw": "striae atrophicae",
+      "frequency": null
+    },
+    {
+      "name": "Homocystinuria",
+      "raw": "Homocystinuria (osteoporosis)",
+      "frequency": null
+    },
+    {
+      "name": "Ehlers-Danlos syndrome",
+      "raw": "Ehlers-Danlos syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Congenital contractural arachnodactyly",
+      "raw": "Congenital contractural arachnodactyly (ear deformities, NO ocular / cardiac abnormalities)",
+      "frequency": null
+    },
+    {
+      "name": "MEN 3",
+      "raw": "MEN 3 (medullary thyroid carcinoma, mucosal neuromas, pheochromocytoma, marfanoid habitus)",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "INTEGUMENTUM": [],
+    "striae atrophicae": [],
+    "Homocystinuria": [],
+    "Ehlers-Danlos syndrome": [],
+    "Congenital contractural arachnodactyly": [],
+    "MEN 3": []
+  },
+  "context": "√  recurrent biliary obstruction √  recurrent incisional hernia Prognosis:   life expectancy close to normal; death (in 90% from aortic dissection, CHF, valvular disease) DDx:"
+}

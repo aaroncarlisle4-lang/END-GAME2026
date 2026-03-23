@@ -1,0 +1,167 @@
+{
+  "finding": "Myelinoclastic / Demyelinating Disease",
+  "slug": "myelinoclastic_demyelinating_disease_ee16fa",
+  "chapter": "D. NEURONAL MIGRATION ANOMALY due to infection, ischemia, metabolic disorders",
+  "source_file": "processed_clusters/d_neuronal_migration_anomaly_due_to_infection_ischemia_metabolic_disorders/myelinoclastic_demyelinating_disease_ee16fa.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Progressive multifocal leukoencephalopathy",
+      "raw": "Progressive multifocal leukoencephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Subacute sclerosing panencephalitis",
+      "raw": "Subacute sclerosing panencephalitis (SSPE)",
+      "frequency": null
+    },
+    {
+      "name": "Acute disseminated encephalomyelitis (ADEM) (b)  noninfectious",
+      "raw": "Acute disseminated encephalomyelitis (ADEM) (b)  noninfectious",
+      "frequency": null
+    },
+    {
+      "name": "Radiation",
+      "raw": "Radiation",
+      "frequency": null
+    },
+    {
+      "name": "Anoxia",
+      "raw": "Anoxia",
+      "frequency": null
+    },
+    {
+      "name": "Hypertensive encephalopathy",
+      "raw": "Hypertensive encephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Disseminated necrotizing leukoencephalopathy",
+      "raw": "Disseminated necrotizing leukoencephalopathy (from methotrexate therapy)",
+      "frequency": null
+    },
+    {
+      "name": "Multiple sclerosis",
+      "raw": "Multiple sclerosis (most frequent of primary demyelinating disease)",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Alzheimer disease",
+      "raw": "Alzheimer disease (most common of diffuse gray matter degenerative diseases)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Parkinson disease",
+      "raw": "Parkinson disease (most common of subcortical degenerative disease)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Creutzfeldt-Jakob disease",
+      "raw": "Creutzfeldt-Jakob disease",
+      "frequency": null
+    },
+    {
+      "name": "Menkes disease",
+      "raw": "Menkes disease (sex-linked recessive disorder of copper metabolism)",
+      "frequency": null
+    },
+    {
+      "name": "Globoid cell leukodystrophy",
+      "raw": "Globoid cell leukodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Spongiform degeneration",
+      "raw": "Spongiform degeneration",
+      "frequency": null
+    },
+    {
+      "name": "Cockayne syndrome",
+      "raw": "Cockayne syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Spongiform leukoencephalopathy",
+      "raw": "Spongiform leukoencephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Myelinoclastic diffuse sclerosis",
+      "raw": "Myelinoclastic diffuse sclerosis (= Schilder disease)",
+      "frequency": null
+    },
+    {
+      "name": "Alexander disease",
+      "raw": "Alexander disease (frontal areas affected first)",
+      "frequency": null
+    },
+    {
+      "name": "Canavan disease (white matter diffusely affected) (b)  hyperdense thalami, caudate nuclei, corona radiata",
+      "raw": "Canavan disease (white matter diffusely affected) (b)  hyperdense thalami, caudate nuclei, corona radiata",
+      "frequency": null
+    },
+    {
+      "name": "Krabbe disease",
+      "raw": "Krabbe disease (c)  family history (X-linked recessive)",
+      "frequency": null
+    },
+    {
+      "name": "X-linked adrenoleukodystrophy",
+      "raw": "X-linked adrenoleukodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Pelizaeus-Merzbacher disease (d)  others",
+      "raw": "Pelizaeus-Merzbacher disease (d)  others",
+      "frequency": null
+    },
+    {
+      "name": "Metachromatic leukodystrophy",
+      "raw": "Metachromatic leukodystrophy (most common hereditary leukodystrophy)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Binswanger disease",
+      "raw": "Binswanger disease (SAE)",
+      "frequency": null
+    },
+    {
+      "name": "Multi-infarct dementia",
+      "raw": "Multi-infarct dementia (MID)",
+      "frequency": null
+    },
+    {
+      "name": "Pick disease",
+      "raw": "Pick disease",
+      "frequency": null
+    },
+    {
+      "name": "Huntington disease",
+      "raw": "Huntington disease",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "Reye syndrome",
+      "raw": "Reye syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Mineralizing microangiopathy",
+      "raw": "Mineralizing microangiopathy",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse sclerosis",
+      "raw": "Diffuse sclerosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  disease that destroys normally formed myelin ◊  Usually affects older children / adults (a)  infectious (c)  others Dysmyelinating Disease =  metabolic disorder (= enzyme deficiency) resulting in deficient / absent myelin sheaths ◊  Usually presents in first 2 years / 1st decade of life! ◊  Associated with white matter atrophy (a)  macrencephalic:"
+}

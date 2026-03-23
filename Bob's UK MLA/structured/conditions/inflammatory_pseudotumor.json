@@ -1,0 +1,44 @@
+{
+  "name": "INFLAMMATORY PSEUDOTUMOR",
+  "slug": "inflammatory_pseudotumor",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/inflammatory_pseudotumor.md",
+  "definition": "INFLAMMATORY MYOBLASTIC PSEUDOTUMOR = PLASMA CELL GRANULOMA = PLASMACYTOMA = rare mass characterized by fibroblastic / myofibroblastic spindle cell proliferation with",
+  "demographics": {
+    "Associated with": "minor trauma, surgery, malignancy, occult infection (Epstein-Barr virus,",
+    "Prevalence": "< 1% of all tumors of lung + airways",
+    "Path": "nonencapsulated circumscribed nodular mass, occasionally with infiltrative margins",
+    "Histo": "mixture of inflammatory cells (plasma cells, lymphocytes, eosinophils, neutrophils) +",
+    "Age": "young patient",
+    "Location": "described in all major organs"
+  },
+  "dominant_finding": "variable heterogeneous attenuation ± central calcification",
+  "distribution": "described in all major organs",
+  "discriminating_features": [
+    "variable heterogeneous attenuation ± central calcification",
+    "no / heterogeneous / peripheral enhancement",
+    "hypointense lesion ← fibrotic component",
+    "NO restricted diffusion",
+    "solid process with variable echogenicity ± Doppler flow"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "solid process with variable echogenicity ± Doppler flow"
+    ],
+    "CT": [
+      "variable heterogeneous attenuation ± central calcification",
+      "no / heterogeneous / peripheral enhancement"
+    ],
+    "MR": [
+      "hypointense lesion ← fibrotic component",
+      "NO restricted diffusion"
+    ],
+    "Abdomen: liver (2nd most common), spleen, pancreas, adrenal gland, kidney,": [
+      "well-defined smoothly marginated / infiltrating mass"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical excision"
+  }
+}

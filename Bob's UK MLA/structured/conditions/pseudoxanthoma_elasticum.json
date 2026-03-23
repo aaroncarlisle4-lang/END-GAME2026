@@ -1,0 +1,32 @@
+{
+  "name": "PSEUDOXANTHOMA ELASTICUM",
+  "slug": "pseudoxanthoma_elasticum",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/pseudoxanthoma_elasticum.md",
+  "definition": "recessive hereditary systemic disorder characterized by degeneration of elastic tissue",
+  "demographics": {
+    "Histo": "tissue degeneration of internal elastic lamina + medial thickening"
+  },
+  "dominant_finding": "large amorphous calcific deposits in soft tissue about joints",
+  "distribution": "",
+  "discriminating_features": [
+    "large amorphous calcific deposits in soft tissue about joints",
+    "lobulated appearance of arteries (similar to fibromuscular hyperplasia)",
+    "aneurysm formation",
+    "vessel calcification at early age"
+  ],
+  "other_features": {
+    "general": [],
+    "Skin": [
+      "large amorphous calcific deposits in soft tissue about joints"
+    ],
+    "Eyes": [
+      "lobulated appearance of arteries (similar to fibromuscular hyperplasia)",
+      "aneurysm formation",
+      "vessel calcification at early age"
+    ]
+  },
+  "clinical": {
+    "Cx": "GI tract hemorrhage"
+  }
+}

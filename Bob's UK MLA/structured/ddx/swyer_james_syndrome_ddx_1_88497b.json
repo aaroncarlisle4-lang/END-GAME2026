@@ -1,0 +1,27 @@
+{
+  "finding": "Swyer-James Syndrome (DDx)",
+  "slug": "swyer_james_syndrome_ddx_1_88497b",
+  "chapter": "Swyer-James Syndrome",
+  "source_file": "processed_clusters/swyer_james_syndrome/swyer_james_syndrome_ddx_1_88497b.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pulmonary artery atresia",
+      "raw": "pulmonary artery atresia (uncommon in adults)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "localized bullous emphysema",
+      "raw": "localized bullous emphysema (deviation of vessels)",
+      "frequency": null
+    },
+    {
+      "name": "bronchial obstruction",
+      "raw": "bronchial obstruction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"pruned tree\" appearance | matched defects of perfusion + ventilation (with delayed washout) in hyperlucent regions | incomplete filling of ipsilateral peripheral bronchioles | dilated bronchi with sharply terminating segments"
+}

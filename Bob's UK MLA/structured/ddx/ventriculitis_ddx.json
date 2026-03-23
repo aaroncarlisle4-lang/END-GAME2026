@@ -1,0 +1,27 @@
+{
+  "finding": "Ventriculitis (DDx)",
+  "slug": "ventriculitis_ddx",
+  "chapter": "Ventriculitis",
+  "source_file": "processed_clusters/ventriculitis/ventriculitis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ependymal metastases",
+      "raw": "ependymal metastases",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "infiltrating glioma",
+      "raw": "infiltrating glioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thin uniform enhancement of involved ependymal lining | often associated with intraventricular inflammatory exudate + septations | intraventricular pus shows restricted diffusion on DWI"
+}

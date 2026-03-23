@@ -1,0 +1,57 @@
+{
+  "finding": "Genital Prolapse",
+  "slug": "genital_prolapse",
+  "chapter": "MESENTERIC LYMPHADENITIS",
+  "source_file": "processed_clusters/mesenteric_lymphadenitis/genital_prolapse.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bulging vaginal mass outside external genitalia",
+      "raw": "bulging vaginal mass outside external genitalia",
+      "frequency": null
+    },
+    {
+      "name": "dyspareunia, urinary retention, back pain",
+      "raw": "dyspareunia, urinary retention, back pain",
+      "frequency": null
+    },
+    {
+      "name": "Rx:  pessary, pelvic floor exercises, hysterectomy, vaginal repair",
+      "raw": "Rx:  pessary, pelvic floor exercises, hysterectomy, vaginal repair",
+      "frequency": null
+    },
+    {
+      "name": "Cx:  insidious progressive ureteral obstruction",
+      "raw": "Cx:  insidious progressive ureteral obstruction",
+      "frequency": null
+    },
+    {
+      "name": "UTERINE PROCIDENTIA",
+      "raw": "UTERINE PROCIDENTIA",
+      "frequency": null
+    },
+    {
+      "name": "symptoms of bowel obstruction, vaginal pressure, dyspareunia, low back pain",
+      "raw": "symptoms of bowel obstruction, vaginal pressure, dyspareunia, low back pain",
+      "frequency": null
+    },
+    {
+      "name": "difficult to diagnose on physical examination",
+      "raw": "difficult to diagnose on physical examination",
+      "frequency": null
+    },
+    {
+      "name": "often missed at physical examination",
+      "raw": "often missed at physical examination",
+      "frequency": null
+    },
+    {
+      "name": "impaired emptying → need for digital assistance",
+      "raw": "impaired emptying → need for digital assistance",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  UTERINE AND VAGINAL VAULT PROLAPSE Cause:   muscle damage + stretching (laxity) / tearing of uterosacral ligaments MR: √  descent of vaginal fornix and uterus below PCL √  progressive uterine retroversion → subsequent prolapse √  loss of banana-shaped vaginal axis (= loss of elevation of distal vagina by ligaments and muscles) =  uterus prolapse completely outside of hiatus Enterocele =  CUL-DE-SAC HERNIA =  herniation of peritoneal membrane protruding between uterosacral ligaments at apex of vagina through rectovaginal space (cul-de-sac) and posterior perineum + extending distally into rec"
+}

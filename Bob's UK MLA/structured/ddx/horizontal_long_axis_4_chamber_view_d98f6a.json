@@ -1,0 +1,37 @@
+{
+  "finding": "Horizontal Long Axis / 4-Chamber View",
+  "slug": "horizontal_long_axis_4_chamber_view_d98f6a",
+  "chapter": "HEART SIZE",
+  "source_file": "processed_clusters/heart_size/horizontal_long_axis_4_chamber_view_d98f6a.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chamber size and valve position",
+      "raw": "Chamber size and valve position",
+      "frequency": null
+    },
+    {
+      "name": "Septal + apical + lateral LV walls",
+      "raw": "Septal + apical + lateral LV walls",
+      "frequency": null
+    },
+    {
+      "name": "AV valve",
+      "raw": "AV valve (subjective assessment in cine mode)",
+      "frequency": null
+    },
+    {
+      "name": "Ventricular function",
+      "raw": "Ventricular function (subjective assessment)",
+      "frequency": null
+    },
+    {
+      "name": "LA size",
+      "raw": "LA size (quick measurement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  horizontal plane bisecting all 4 chambers Best assessment of:"
+}

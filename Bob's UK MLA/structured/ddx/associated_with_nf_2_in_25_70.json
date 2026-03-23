@@ -1,0 +1,27 @@
+{
+  "finding": "Associated with: NF 2 (in 25-70%",
+  "slug": "associated_with_nf_2_in_25_70",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/associated_with_nf_2_in_25_70.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epidermal cyst",
+      "raw": "Epidermal cyst",
+      "frequency": null
+    },
+    {
+      "name": "Pilomatricoma",
+      "raw": "Pilomatricoma",
+      "frequency": null
+    },
+    {
+      "name": "Dermatofibrosarcoma protuberans",
+      "raw": "Dermatofibrosarcoma protuberans",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(f)  cutaneous lesions √  NO high signal intensity on T2WI √  calcified subdermal nodule + peritumoral edema"
+}

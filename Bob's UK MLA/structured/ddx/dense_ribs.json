@@ -1,0 +1,52 @@
+{
+  "finding": "Dense Ribs",
+  "slug": "dense_ribs",
+  "chapter": "Slender Ribs",
+  "source_file": "processed_clusters/slender_ribs/dense_ribs.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteopetrosis",
+      "raw": "Osteopetrosis",
+      "frequency": null
+    },
+    {
+      "name": "Mastocytosis",
+      "raw": "Mastocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Fluorosis",
+      "raw": "Fluorosis",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Chronic infection",
+      "raw": "Chronic infection",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Subperiosteal rib resection",
+      "raw": "Subperiosteal rib resection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

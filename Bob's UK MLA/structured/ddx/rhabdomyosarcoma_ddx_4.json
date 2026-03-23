@@ -1,0 +1,27 @@
+{
+  "finding": "Rhabdomyosarcoma (DDx)",
+  "slug": "rhabdomyosarcoma_ddx_4",
+  "chapter": "Rhabdomyosarcoma",
+  "source_file": "processed_clusters/rhabdomyosarcoma/rhabdomyosarcoma_ddx_4.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "primitive neuroectodermal tumor",
+      "raw": "primitive neuroectodermal tumor",
+      "frequency": null
+    },
+    {
+      "name": "extraosseous Ewing sarcoma",
+      "raw": "extraosseous Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "synovial cell",
+      "raw": "synovial cell",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,31 @@
+{
+  "name": "HETEROTOPIC PANCREAS",
+  "slug": "heterotopic_pancreas",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/heterotopic_pancreas.md",
+  "definition": "pancreatic tissue at aberrant sites that lack a vascular / ductal connection to main pancreatic",
+  "demographics": {
+    "Prevalence": "1-15% (autoptic)"
+  },
+  "dominant_finding": "mass with irregular border",
+  "distribution": "intraluminal growth ± central umbilication (= orifice of rudimentary pancreatic duct)",
+  "discriminating_features": [
+    "flat ovoid intramural subepithelial nodule of < 3 cm",
+    "intraluminal growth ± central umbilication (= orifice of rudimentary pancreatic duct)",
+    "mass with irregular border",
+    "usually homogeneously enhancing mass with attenuation similar to pancreas",
+    "occasionally poor enhancement (if pancreatic acini remain a minor component of the mass)"
+  ],
+  "other_features": {
+    "general": [
+      "flat ovoid intramural subepithelial nodule of < 3 cm",
+      "intraluminal growth ± central umbilication (= orifice of rudimentary pancreatic duct)"
+    ],
+    "CT": [
+      "mass with irregular border",
+      "usually homogeneously enhancing mass with attenuation similar to pancreas",
+      "occasionally poor enhancement (if pancreatic acini remain a minor component of the mass)"
+    ]
+  },
+  "clinical": {}
+}

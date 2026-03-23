@@ -1,0 +1,27 @@
+{
+  "finding": "Arteriovenous Malformation (DDx)",
+  "slug": "arteriovenous_malformation_ddx_dad577",
+  "chapter": "Arteriovenous Malformation",
+  "source_file": "processed_clusters/arteriovenous_malformation/arteriovenous_malformation_ddx_dad577.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "glioblastoma with AV shunting",
+      "raw": "glioblastoma with AV shunting",
+      "frequency": null
+    },
+    {
+      "name": "dural AV fistula",
+      "raw": "dural AV fistula",
+      "frequency": null
+    },
+    {
+      "name": "cerebral proliferative angiopathy",
+      "raw": "cerebral proliferative angiopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "grossly dilated efferent + afferent vessels with a racemose tangle (\"bag of worms\") | arteriovenous shunting into at least one early draining vein | negative angiogram ← compression by hematoma / thrombosis"
+}

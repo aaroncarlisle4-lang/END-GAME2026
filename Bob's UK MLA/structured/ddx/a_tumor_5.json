@@ -1,0 +1,27 @@
+{
+  "finding": "A. TUMOR",
+  "slug": "a_tumor_5",
+  "chapter": "PERIVENTRICULAR REGION",
+  "source_file": "processed_clusters/periventricular_region/a_tumor_5.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "GBM",
+      "raw": "GBM",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Centrilobular Nodules",
+  "slug": "centrilobular_nodules_5b7908",
+  "chapter": "D. IATROGENIC",
+  "source_file": "processed_clusters/d_iatrogenic/centrilobular_nodules_5b7908.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute / chronic bronchiolar infection",
+      "raw": "Acute / chronic bronchiolar infection",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial infection",
+      "raw": "Bacterial infection",
+      "frequency": null
+    },
+    {
+      "name": "Viral infection",
+      "raw": "Viral infection",
+      "frequency": null
+    },
+    {
+      "name": "Fungal infection",
+      "raw": "Fungal infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

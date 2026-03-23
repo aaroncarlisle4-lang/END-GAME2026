@@ -1,0 +1,42 @@
+{
+  "finding": "Soap-bubble Appearance in Abdomen of Neonate",
+  "slug": "soap_bubble_appearance_in_abdomen_of_neonate",
+  "chapter": "B. CHEST",
+  "source_file": "processed_clusters/b_chest/soap_bubble_appearance_in_abdomen_of_neonate.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Feces in infant fed by mouth",
+      "raw": "Feces in infant fed by mouth",
+      "frequency": null
+    },
+    {
+      "name": "Meconium ileus:",
+      "raw": "Meconium ileus:",
+      "frequency": null
+    },
+    {
+      "name": "Meconium plug:",
+      "raw": "Meconium plug:",
+      "frequency": null
+    },
+    {
+      "name": "Necrotizing enterocolitis: submucosal pneumatosis",
+      "raw": "Necrotizing enterocolitis: submucosal pneumatosis",
+      "frequency": null
+    },
+    {
+      "name": "Atresia / severe stenosis: pneumatosis",
+      "raw": "Atresia / severe stenosis: pneumatosis",
+      "frequency": null
+    },
+    {
+      "name": "Hirschsprüng disease: impacted stool, sometimes pneumatosis",
+      "raw": "Hirschsprüng disease: impacted stool, sometimes pneumatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "gas mixed with meconium, usually RLQ gas in and around plug, in distribution of colon"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Cause: strict coronal orientation of ECA + ICA",
+  "slug": "cause_strict_coronal_orientation_of_eca_ica_64953d",
+  "chapter": "Carotid Plaque",
+  "source_file": "processed_clusters/carotid_plaque/cause_strict_coronal_orientation_of_eca_ica_64953d.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Severe stenosis mistaken for occlusion",
+      "raw": "Severe stenosis mistaken for occlusion",
+      "frequency": null
+    },
+    {
+      "name": "Weak signals misinterpreted as occlusion",
+      "raw": "Weak signals misinterpreted as occlusion",
+      "frequency": null
+    },
+    {
+      "name": "Normal / weak signals in severe stenosis Cause:   severe stenosis causes a decrease in blood flow and peak velocity → return to normal velocity levels",
+      "raw": "Normal / weak signals in severe stenosis Cause:   severe stenosis causes a decrease in blood flow and peak velocity → return to normal velocity levels",
+      "frequency": null
+    },
+    {
+      "name": "Point of maximum frequency shift not identified",
+      "raw": "Point of maximum frequency shift not identified",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  superimposition can be avoided by rotation of patient's head to opposite side √  minimal flow not detectable √  angiogram necessary with delayed images √  high resistivity in CCA"
+}

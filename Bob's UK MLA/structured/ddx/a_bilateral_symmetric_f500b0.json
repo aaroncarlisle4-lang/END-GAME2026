@@ -1,0 +1,37 @@
+{
+  "finding": "A. BILATERAL SYMMETRIC",
+  "slug": "a_bilateral_symmetric_f500b0",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/a_bilateral_symmetric_f500b0.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Enteropathic arthropathy",
+      "raw": "Enteropathic arthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis (in late stages)",
+      "frequency": null
+    },
+    {
+      "name": "Deposition arthropathy: gout, CPPD, ochronosis, acromegaly",
+      "raw": "Deposition arthropathy: gout, CPPD, ochronosis, acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Osteitis condensans ilii",
+      "raw": "Osteitis condensans ilii",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  small regular erosion = loss of definition of white cortical line on iliac side (initially) √  subchondral sclerosis + subsequent ankylosis √  ossification of interosseous ligaments √  same signs as in ankylosing spondylitis √  joint space narrowing without reparation √  osteoporosis √  ankylosis may occur √  slow loss of cartilage √  subchondral reparative bone + osteophytes DDx:   Hyperparathyroidism (subchondral bone resorption on iliac side resembling erosion + widening of joint)"
+}

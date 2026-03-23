@@ -1,0 +1,37 @@
+{
+  "finding": "Aryepiglottic Cyst",
+  "slug": "aryepiglottic_cyst",
+  "chapter": "LARYNX",
+  "source_file": "processed_clusters/larynx/aryepiglottic_cyst.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Retention cyst",
+      "raw": "Retention cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic hygroma",
+      "raw": "Cystic hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroglossal cyst",
+      "raw": "Thyroglossal cyst",
+      "frequency": null
+    },
+    {
+      "name": "may be symptomatic at birth",
+      "raw": "may be symptomatic at birth",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  well-defined mass in aryepiglottic fold"
+}

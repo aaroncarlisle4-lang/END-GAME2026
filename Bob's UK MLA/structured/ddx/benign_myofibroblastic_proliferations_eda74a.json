@@ -1,0 +1,37 @@
+{
+  "finding": "Benign Myofibroblastic Proliferations",
+  "slug": "benign_myofibroblastic_proliferations_eda74a",
+  "chapter": "D. Vascular",
+  "source_file": "processed_clusters/d_vascular/benign_myofibroblastic_proliferations_eda74a.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nodular fasciitis",
+      "raw": "Nodular fasciitis",
+      "frequency": null
+    },
+    {
+      "name": "Proliferative fasciitis / myositis",
+      "raw": "Proliferative fasciitis / myositis",
+      "frequency": null
+    },
+    {
+      "name": "Fibroma of tendon sheath",
+      "raw": "Fibroma of tendon sheath",
+      "frequency": null
+    },
+    {
+      "name": "Keloid and hypertrophic scar",
+      "raw": "Keloid and hypertrophic scar",
+      "frequency": null
+    },
+    {
+      "name": "Elastofibroma",
+      "raw": "Elastofibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

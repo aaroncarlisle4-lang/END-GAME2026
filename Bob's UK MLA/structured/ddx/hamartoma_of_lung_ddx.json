@@ -1,0 +1,27 @@
+{
+  "finding": "Hamartoma Of Lung (DDx)",
+  "slug": "hamartoma_of_lung_ddx",
+  "chapter": "Hamartoma Of Lung",
+  "source_file": "processed_clusters/hamartoma_of_lung/hamartoma_of_lung_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lipoid pneumonia (ill-defined mass / lung infiltrate); granulomatous disease",
+      "raw": "lipoid pneumonia (ill-defined mass / lung infiltrate); granulomatous disease",
+      "frequency": null
+    },
+    {
+      "name": "carcinoid tumor; metastatic mucinous adenocarcinoma",
+      "raw": "carcinoid tumor; metastatic mucinous adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "amyloidoma",
+      "raw": "amyloidoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "growth patterns: slow / rapid / stable with later growth | usually diameter increase by 1.5 mm/year doubling in size every 14 years | fat density detectable in 34% (-80 to -120 HU) | calcium + fat detectable in 19%"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "A. OBSTRUCTION",
+  "slug": "a_obstruction_1",
+  "chapter": "COLON",
+  "source_file": "processed_clusters/colon/a_obstruction_1.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Obstructing carcinoma",
+      "raw": "Obstructing carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Cecal volvulus",
+      "raw": "Cecal volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Colonic ileus",
+      "raw": "Colonic ileus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

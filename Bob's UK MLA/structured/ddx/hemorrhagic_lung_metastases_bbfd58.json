@@ -1,0 +1,37 @@
+{
+  "finding": "Hemorrhagic Lung Metastases",
+  "slug": "hemorrhagic_lung_metastases_bbfd58",
+  "chapter": "MESOTHELIOMA OF CHEST",
+  "source_file": "processed_clusters/mesothelioma_of_chest/hemorrhagic_lung_metastases_bbfd58.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angiocarcinoma",
+      "raw": "Angiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid carcinoma",
+      "raw": "Thyroid carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "CT:     √ill-defined nodules with fuzzy margin + \"halo\" sign (= surrounding ground-glass opacity)"
+}

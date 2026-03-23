@@ -1,0 +1,60 @@
+{
+  "name": "RETROPERITONEAL FIBROSIS",
+  "slug": "retroperitoneal_fibrosis",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/retroperitoneal_fibrosis.md",
+  "definition": "RPF = ORMOND DISEASE = CHRONIC PERIAORTITIS = PERIURETERITIS FIBROSA = GEROTA FASCIITIS SCLEROSING RETROPERITONEAL GRANULOMA uncommon collagen vascular disease of unknown cause characterized by aggressive confluent",
+  "demographics": {
+    "Prevalence": "1.3÷100,000 to 1÷200,000",
+    "Peak age": "40-65 years; M÷F = 2÷1 to 3÷1",
+    "Path": "hard retroperitoneal plaque with ill-defined margins enveloping abdominal aorta, iliac"
+  },
+  "dominant_finding": "localized reactive infracentimetric lymphadenopathy (25%)",
+  "distribution": "anterior displacement of aorta + IVC",
+  "discriminating_features": [
+    "Classic TRIAD:",
+    "anterior displacement of aorta + IVC",
+    "nodularity of retroperitoneal mass",
+    "hyperintense SI on T2WI",
+    "tethering of aorta / IVC to vertebrae without anterior displacement"
+  ],
+  "other_features": {
+    "general": [
+      "anterior displacement of aorta + IVC",
+      "nodularity of retroperitoneal mass",
+      "hyperintense SI on T2WI",
+      "tethering of aorta / IVC to vertebrae without anterior displacement",
+      "usually mild uni- / bilateral pyelocaliectasis → hydronephrosis → renal failure (56-100%)",
+      "Classic TRIAD:",
+      "hypo- / isoechoic well-demarcated irregularly contoured homogeneous mass with smooth",
+      "varying degrees of uni- / bilateral hydronephrosis",
+      "NO flow on Doppler imaging"
+    ],
+    "CT": [
+      "well-delimited irregular periaortic rindlike layer of soft tissue isoattenuating to muscle",
+      "contrast enhancement (during active inflammation of immature plaque)",
+      "localized reactive infracentimetric lymphadenopathy (25%)",
+      "NO aortic displacement (!)"
+    ],
+    "MR": [
+      "low to medium homogeneous signal intensity on T1WI",
+      "T2WI:",
+      "heterogeneous high SI on T2WI (DDx: malignancy)",
+      "early soft-tissue enhancement mirrors degree of inflammatory activity",
+      "low SI on T2WI",
+      "little / NO enhancement during venous phase",
+      "delayed enhancement"
+    ],
+    "NUC": [
+      "67Ga-citrate uptake during active inflammation",
+      "little / NO gallium uptake in chronic fibrotic stage"
+    ],
+    "PET": [
+      "increased uptake of FDG paralleling degree of activity",
+      "may detect remote disease (multifocal fibrosclerosis, infectious / neoplastic disease, other"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "chronic relapsing course"
+  }
+}

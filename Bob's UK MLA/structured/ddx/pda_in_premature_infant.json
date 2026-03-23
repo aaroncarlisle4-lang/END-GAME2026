@@ -1,0 +1,39 @@
+{
+  "finding": "PDA in Premature Infant",
+  "slug": "pda_in_premature_infant",
+  "chapter": "PAPILLARY FIBROELASTOMA",
+  "source_file": "processed_clusters/papillary_fibroelastoma/pda_in_premature_infant.md",
+  "quality_score": 0.533,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "CHF",
+      "raw": "CHF",
+      "frequency": null
+    },
+    {
+      "name": "Supportive oxygen, diuretics, digitalis",
+      "raw": "Supportive oxygen, diuretics, digitalis",
+      "frequency": null
+    },
+    {
+      "name": "Avoid fluid overload",
+      "raw": "Avoid fluid overload (NOT to increase shunt volume)",
+      "frequency": null
+    },
+    {
+      "name": "Antiprostaglandins = indomethacin opposes prostaglandins, which are potent duct dilators (b)  Surgical ligation",
+      "raw": "Antiprostaglandins = indomethacin opposes prostaglandins, which are potent duct dilators (b)  Surgical ligation",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "CHF": [],
+    "Supportive oxygen, diuretics, digitalis": [],
+    "Avoid fluid overload": [],
+    "Antiprostaglandins = indomethacin opposes prostaglandins, which are potent duct dilators (b)  Surgical ligation": [
+      "premature infant not subject to medial muscular hypertrophy of small pulmonary artery branches (which occurs in normal infants subsequent to progressive hypoxia in 3rd trimester) Cause: (a)  pulmonary artery pressure remains low without opposing any L-to-R shunts (PDA / VSD) (b)  ductus arteriosus remains open ← hypoxia in RDS"
+    ]
+  },
+  "context": "premature infant not subject to medial muscular hypertrophy of small pulmonary artery branches (which occurs in normal infants subsequent to progressive hypoxia in 3rd trimester) Cause: (a)  pulmonary artery pressure remains low without opposing any L-to-R shunts (PDA / VSD) (b)  ductus arteriosus remains open ← hypoxia in RDS √  recurrence of alveolar airspace filling after resolution of RDS √  granular pattern of hyaline membrane disease becomes more opaque √  enlargement of heart (masked by positive pressure ventilation) Rx: (a)  Medical therapy:"
+}

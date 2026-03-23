@@ -1,0 +1,27 @@
+{
+  "name": "PINEAL TERATOCARCINOMA",
+  "slug": "pineal_teratocarcinoma",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/pineal_teratocarcinoma.md",
+  "definition": "highly malignant variant of germ cell tumors",
+  "demographics": {
+    "Age": "< 20 years; males"
+  },
+  "dominant_finding": "intratumoral hemorrhage (esp. choriocarcinoma)",
+  "distribution": "",
+  "discriminating_features": [
+    "intratumoral hemorrhage (esp. choriocarcinoma)",
+    "invasion of adjacent structures",
+    "intense homogeneous contrast enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "intratumoral hemorrhage (esp. choriocarcinoma)",
+      "invasion of adjacent structures",
+      "intense homogeneous contrast enhancement"
+    ]
+  },
+  "clinical": {
+    "Cx": "seeding via CSF"
+  }
+}

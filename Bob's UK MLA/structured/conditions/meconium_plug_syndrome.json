@@ -1,0 +1,31 @@
+{
+  "name": "MECONIUM PLUG SYNDROME",
+  "slug": "meconium_plug_syndrome",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/meconium_plug_syndrome.md",
+  "definition": "local inspissation of meconium leading to low colonic obstruction; probably related to small",
+  "demographics": {
+    "Age": "newborn infant (symptomatic within first 24 hours of life)"
+  },
+  "dominant_finding": "small left colon with change in caliber at splenic flexure",
+  "distribution": "small left colon with change in caliber at splenic flexure",
+  "discriminating_features": [
+    "distended transverse + ascending colon + dilated small bowel (proximal to obstruction)",
+    "small left colon with change in caliber at splenic flexure",
+    "occasionally bubbly appearance in colon (DDx: submucosal air in necrotizing enterocolitis)",
+    "presacral pseudotumor → no gas in rectum",
+    "double-contrast effect = barium between meconium plug + colonic wall"
+  ],
+  "other_features": {
+    "general": [
+      "distended transverse + ascending colon + dilated small bowel (proximal to obstruction)",
+      "small left colon with change in caliber at splenic flexure",
+      "occasionally bubbly appearance in colon (DDx: submucosal air in necrotizing enterocolitis)",
+      "presacral pseudotumor → no gas in rectum",
+      "double-contrast effect = barium between meconium plug + colonic wall"
+    ]
+  },
+  "clinical": {
+    "Rx": "water-soluble enema"
+  }
+}

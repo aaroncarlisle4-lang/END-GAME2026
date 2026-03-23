@@ -1,0 +1,52 @@
+{
+  "finding": "F. FALSE CYST = PSEUDOCYST (lacking epithelial lining",
+  "slug": "f_false_cyst_pseudocyst_lacking_epithelial_lining_99593e",
+  "chapter": "SPLEEN",
+  "source_file": "processed_clusters/spleen/f_false_cyst_pseudocyst_lacking_epithelial_lining_99593e.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Traumatic cyst",
+      "raw": "Traumatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Postinfarct cyst",
+      "raw": "Postinfarct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Cyst",
+      "raw": "Cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma, Hemangioma, Hamartoma",
+      "raw": "Hematoma, Hemangioma, Hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Infarct",
+      "raw": "Infarct",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Solitary Splenic Lesion mnemonic:   L'CHAIM"
+}

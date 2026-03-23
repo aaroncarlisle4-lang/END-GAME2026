@@ -1,0 +1,29 @@
+{
+  "name": "FARBER DISEASE",
+  "slug": "farber_disease",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/farber_disease.md",
+  "definition": "DISSEMINATED LIPOGRANULOMATOSIS",
+  "demographics": {
+    "Histo": "foam cell granulomas; lipid storage of neuronal tissue (accumulation of ceramide +"
+  },
+  "dominant_finding": "capsular distension of multiple joints (hand, elbow, knee)",
+  "distribution": "",
+  "discriminating_features": [
+    "capsular distension of multiple joints (hand, elbow, knee)",
+    "juxtaarticular bone erosions from soft-tissue granulomas",
+    "subluxation / dislocation",
+    "disuse / steroid deossification"
+  ],
+  "other_features": {
+    "general": [
+      "capsular distension of multiple joints (hand, elbow, knee)",
+      "juxtaarticular bone erosions from soft-tissue granulomas",
+      "subluxation / dislocation",
+      "disuse / steroid deossification"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death from respiratory failure within 2 years"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "CONGENITAL INSENSITIVITY TO PAIN WITH ANHYDROSIS",
+  "slug": "congenital_insensitivity_to_pain_with_anhydrosis",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/congenital_insensitivity_to_pain_with_anhydrosis.md",
+  "definition": "rare autosomal recessive disorder presumably on the basis of abnormal neural crest",
+  "demographics": {
+    "Age": "presenting at birth",
+    "Prevalence": "15 reported cases",
+    "Path": "absence of dorsal + sympathetic ganglia, deficiency of neural fibers < 6 µm in diameter"
+  },
+  "dominant_finding": "epiphyseal separation in infancy → epiphyseal injuries → growth problems",
+  "distribution": "epiphyseal separation in infancy → epiphyseal injuries → growth problems",
+  "discriminating_features": [
+    "epiphyseal separation in infancy → epiphyseal injuries → growth problems",
+    "metaphyseal fractures in early childhood",
+    "diaphyseal fractures in late childhood",
+    "Charcot joints = neurotrophic joints (usually weight-bearing joints) with effusions + synovial",
+    "ligamentous laxity"
+  ],
+  "other_features": {
+    "general": [
+      "epiphyseal separation in infancy → epiphyseal injuries → growth problems",
+      "metaphyseal fractures in early childhood",
+      "diaphyseal fractures in late childhood",
+      "Charcot joints = neurotrophic joints (usually weight-bearing joints) with effusions + synovial",
+      "ligamentous laxity",
+      "bizarre deformities + gross displacement + considerable hemorrhage ← unnoticed fractures +",
+      "± osteomyelitis + septic arthritis → may progress extensively"
+    ]
+  },
+  "clinical": {}
+}

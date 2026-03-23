@@ -1,0 +1,27 @@
+{
+  "finding": "Amyloidosis Of The Chest (DDx)",
+  "slug": "amyloidosis_of_the_chest_ddx_1_abf007",
+  "chapter": "Amyloidosis Of The Chest",
+  "source_file": "processed_clusters/amyloidosis_of_the_chest/amyloidosis_of_the_chest_ddx_1_abf007.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pneumoconiosis",
+      "raw": "pneumoconiosis (especially asbestosis)",
+      "frequency": null
+    },
+    {
+      "name": "idiopathic pulmonary fibrosis",
+      "raw": "idiopathic pulmonary fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "rheumatoid",
+      "raw": "rheumatoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "punctate lung calcifications | pleural thickening | ± pleural effusion | rarely associated with thin-walled cysts (most commonly in Sjögren syndrome)"
+}

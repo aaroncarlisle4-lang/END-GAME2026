@@ -1,0 +1,62 @@
+{
+  "finding": "Increased Pulmonary Blood Flow without Cyanosis",
+  "slug": "increased_pulmonary_blood_flow_without_cyanosis",
+  "chapter": "Bronchial Situs",
+  "source_file": "processed_clusters/bronchial_situs/increased_pulmonary_blood_flow_without_cyanosis.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "WITH LEFT ATRIAL ENLARGEMENT indicates shunt distal to mitral valve = increased volume without escape defect",
+      "raw": "WITH LEFT ATRIAL ENLARGEMENT indicates shunt distal to mitral valve = increased volume without escape defect",
+      "frequency": null
+    },
+    {
+      "name": "VSD (25%): small aorta in intracardiac shunt",
+      "raw": "VSD (25%): small aorta in intracardiac shunt",
+      "frequency": "25%"
+    },
+    {
+      "name": "PDA (12%): aorta + pulmonary artery of equal size in extracardiac shunt",
+      "raw": "PDA (12%): aorta + pulmonary artery of equal size in extracardiac shunt",
+      "frequency": "12%"
+    },
+    {
+      "name": "Ruptured sinus of Valsalva aneurysm",
+      "raw": "Ruptured sinus of Valsalva aneurysm (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Coronary arteriovenous fistula",
+      "raw": "Coronary arteriovenous fistula (very rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Aortopulmonary window",
+      "raw": "Aortopulmonary window (extremely rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "WITH NORMAL LEFT ATRIUM indicates shunt proximal to mitral valve = volume increased with escape mechanism through defect",
+      "raw": "WITH NORMAL LEFT ATRIUM indicates shunt proximal to mitral valve = volume increased with escape mechanism through defect",
+      "frequency": null
+    },
+    {
+      "name": "ASD",
+      "raw": "ASD (8%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Partial anomalous pulmonary venous return (PAPVR) + sinus venosus ASD",
+      "raw": "Partial anomalous pulmonary venous return (PAPVR) + sinus venosus ASD",
+      "frequency": null
+    },
+    {
+      "name": "Endocardial cushion defect",
+      "raw": "Endocardial cushion defect (ECD) (4%)",
+      "frequency": "4%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  indicates L-R shunt with increased pulmonary blood flow (shunt volume > 40%)"
+}

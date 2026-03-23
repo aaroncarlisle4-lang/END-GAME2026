@@ -1,0 +1,27 @@
+{
+  "finding": "Neoplasm (ie, mesothelioma",
+  "slug": "neoplasm_ie_mesothelioma",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/neoplasm_ie_mesothelioma.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Consolidation",
+      "raw": "Consolidation",
+      "frequency": null
+    },
+    {
+      "name": "Effusion",
+      "raw": "Effusion",
+      "frequency": null
+    },
+    {
+      "name": "Atelectasis",
+      "raw": "Atelectasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Double PCL sign on MRI",
+  "slug": "double_pcl_sign_on_mri_0b6b7d",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/double_pcl_sign_on_mri_0b6b7d.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bucket-handle tear of medial / lateral meniscus",
+      "raw": "Bucket-handle tear of medial / lateral meniscus",
+      "frequency": null
+    },
+    {
+      "name": "Ligament of Humphrey",
+      "raw": "Ligament of Humphrey",
+      "frequency": null
+    },
+    {
+      "name": "Torn ACL",
+      "raw": "Torn ACL",
+      "frequency": null
+    },
+    {
+      "name": "Fracture fragments",
+      "raw": "Fracture fragments",
+      "frequency": null
+    },
+    {
+      "name": "Osteophyte",
+      "raw": "Osteophyte",
+      "frequency": null
+    },
+    {
+      "name": "Loose body",
+      "raw": "Loose body",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

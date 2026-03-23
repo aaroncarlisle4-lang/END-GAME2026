@@ -1,0 +1,27 @@
+{
+  "finding": "Subendocardial Enhancement",
+  "slug": "subendocardial_enhancement",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/subendocardial_enhancement.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ischemic heart disease",
+      "raw": "Ischemic heart disease",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Löffler endocarditis",
+      "raw": "Löffler endocarditis (hypereosinophilic syndrome)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

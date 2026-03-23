@@ -1,0 +1,22 @@
+{
+  "finding": "Cholesteatoma (DDx)",
+  "slug": "cholesteatoma_ddx_8a848a",
+  "chapter": "Cholesteatoma",
+  "source_file": "processed_clusters/cholesteatoma/cholesteatoma_ddx_8a848a.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "carcinoma",
+      "raw": "carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "otitis externa",
+      "raw": "otitis externa",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "focal soft-tissue within EAC (typically inferior wall) | canal wall erosion into underlying bone"
+}

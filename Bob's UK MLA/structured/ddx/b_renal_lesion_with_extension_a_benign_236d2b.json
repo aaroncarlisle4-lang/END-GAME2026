@@ -1,0 +1,42 @@
+{
+  "finding": "B. RENAL LESION WITH EXTENSION (a) benign",
+  "slug": "b_renal_lesion_with_extension_a_benign_236d2b",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/b_renal_lesion_with_extension_a_benign_236d2b.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Xanthogranulomatous pyelonephritis",
+      "raw": "Xanthogranulomatous pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma (b)  malignant",
+      "raw": "Lymphangioma (b)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

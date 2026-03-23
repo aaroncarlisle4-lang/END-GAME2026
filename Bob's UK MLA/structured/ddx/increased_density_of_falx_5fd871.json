@@ -1,0 +1,77 @@
+{
+  "finding": "Increased Density of Falx",
+  "slug": "increased_density_of_falx_5fd871",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/increased_density_of_falx_5fd871.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Subarachnoid hemorrhage",
+      "raw": "Subarachnoid hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Interhemispheric subdural hematoma",
+      "raw": "Interhemispheric subdural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse cerebral edema",
+      "raw": "Diffuse cerebral edema (= increased density relative to low-density brain)",
+      "frequency": null
+    },
+    {
+      "name": "Dural calcifications",
+      "raw": "Dural calcifications (hypercalcemia from chronic renal failure, basal cell nevus syndrome, hyperparathyroidism)",
+      "frequency": null
+    },
+    {
+      "name": "Normal falx",
+      "raw": "Normal falx (can be normal in pediatric population)",
+      "frequency": null
+    },
+    {
+      "name": "Infarction",
+      "raw": "Infarction (hemorrhagic)",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Hypertensive hemorrhage",
+      "raw": "Hypertensive hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformation",
+      "raw": "Arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Coagulopathy",
+      "raw": "Coagulopathy",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm, Amyloid angiopathy",
+      "raw": "Aneurysm, Amyloid angiopathy",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm: metastasis / primary neoplasm",
+      "raw": "Neoplasm: metastasis / primary neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Sinus thrombosis",
+      "raw": "Sinus thrombosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Intraparenchymal Hemorrhage mnemonic:   \"ITHACANS\""
+}

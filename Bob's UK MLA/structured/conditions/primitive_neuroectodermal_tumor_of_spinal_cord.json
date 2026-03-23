@@ -1,0 +1,27 @@
+{
+  "name": "PRIMITIVE NEUROECTODERMAL TUMOR OF SPINAL CORD",
+  "slug": "primitive_neuroectodermal_tumor_of_spinal_cord",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/primitive_neuroectodermal_tumor_of_spinal_cord.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "20 cases reported in literature",
+    "Location": "spinal cord, intradural-extramedullary compartment, extradural compartment",
+    "Age": "more common in adults than children; M÷F = 6÷4",
+    "Histo": "small round blue cells with hyperchromatic nuclei + scanty cytoplasm, frequent mitoses"
+  },
+  "dominant_finding": "T1 and T2 prolongation",
+  "distribution": "spinal cord, intradural-extramedullary compartment, extradural compartment",
+  "discriminating_features": [
+    "T1 and T2 prolongation"
+  ],
+  "other_features": {
+    "general": [
+      "T1 and T2 prolongation"
+    ]
+  },
+  "clinical": {
+    "Spread": "throughout CSF space into cranium, lung, bone, lymph node",
+    "Prognosis": "in > 50% death within 2 years"
+  }
+}

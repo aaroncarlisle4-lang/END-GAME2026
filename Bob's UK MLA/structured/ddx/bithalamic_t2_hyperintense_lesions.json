@@ -1,0 +1,37 @@
+{
+  "finding": "Bithalamic T2-hyperintense Lesions",
+  "slug": "bithalamic_t2_hyperintense_lesions",
+  "chapter": "B. CHROMOSOMAL ABNORMALITY",
+  "source_file": "processed_clusters/b_chromosomal_abnormality/bithalamic_t2_hyperintense_lesions.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Artery of Percheron infarction",
+      "raw": "Artery of Percheron infarction",
+      "frequency": null
+    },
+    {
+      "name": "Encephalitis",
+      "raw": "Encephalitis",
+      "frequency": null
+    },
+    {
+      "name": "Acute disseminated encephalomyelitis",
+      "raw": "Acute disseminated encephalomyelitis (ADEM)",
+      "frequency": null
+    },
+    {
+      "name": "Creutzfeldt-Jakob disease",
+      "raw": "Creutzfeldt-Jakob disease",
+      "frequency": null
+    },
+    {
+      "name": "Wernicke encephalitis",
+      "raw": "Wernicke encephalitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Only a few naturally occurring substances (methemoglobin, melanin, lipid, protein, minerals) are known to reduce T1 relaxation times, and the extent of that reduction depends on their occurrence in substantial concentrations."
+}

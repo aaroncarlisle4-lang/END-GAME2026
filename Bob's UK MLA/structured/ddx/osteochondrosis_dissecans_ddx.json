@@ -1,0 +1,32 @@
+{
+  "finding": "Osteochondrosis Dissecans (DDx)",
+  "slug": "osteochondrosis_dissecans_ddx",
+  "chapter": "Osteochondrosis Dissecans",
+  "source_file": "processed_clusters/osteochondrosis_dissecans/osteochondrosis_dissecans_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "spontaneous osteonecrosis",
+      "raw": "spontaneous osteonecrosis",
+      "frequency": null
+    },
+    {
+      "name": "neuroarthropathy",
+      "raw": "neuroarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "degenerative joint disease",
+      "raw": "degenerative joint disease",
+      "frequency": null
+    },
+    {
+      "name": "synovial osteochondromatosis",
+      "raw": "synovial osteochondromatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "soft-tissue swelling, joint effusion | focus of abnormal signal in subarticular marrow | defect in overlying cartilage | loose bodies of heterogeneous low-SI in coronoid and olecranon fossa outlined by"
+}

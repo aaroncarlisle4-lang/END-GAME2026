@@ -1,0 +1,31 @@
+{
+  "name": "BASAL NUCLEI",
+  "slug": "basal_nuclei",
+  "chapter": "ANATOMY OF THE NERVOUS SYSTEM",
+  "source_file": "processed_clusters/disease_entries/anatomy_of_the_nervous_system/basal_nuclei.md",
+  "definition": "BASAL GANGLIA (earlier incorrect designation)",
+  "demographics": {
+    "Location": "between lateral ventricle + insular cortex"
+  },
+  "dominant_finding": "isointense to cortical gray matter on all pulse sequences",
+  "distribution": "between lateral ventricle + insular cortex",
+  "discriminating_features": [
+    "isointense to cortical gray matter on all pulse sequences",
+    "no enhancement",
+    "may exhibit dilated Virchow-Robin perivascular spaces",
+    "may contain bilateral symmetric age-related calcifications",
+    "slightly hypointense relative to putamen ← progressive iron deposition with age"
+  ],
+  "other_features": {
+    "general": [
+      "isointense to cortical gray matter on all pulse sequences",
+      "no enhancement",
+      "may exhibit dilated Virchow-Robin perivascular spaces",
+      "may contain bilateral symmetric age-related calcifications",
+      "slightly hypointense relative to putamen ← progressive iron deposition with age",
+      "isointense to cortical gray matter on all pulse sequences",
+      "no enhancement"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "B. Acquired Lesions",
+  "slug": "b_acquired_lesions",
+  "chapter": "Lumps & Bumps of Pediatric Skull",
+  "source_file": "processed_clusters/lumps_bumps_of_pediatric_skull/b_acquired_lesions.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosarcoma",
+      "raw": "Fibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic neuroblastoma",
+      "raw": "Metastatic neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Infection: Pott puffy tumor",
+      "raw": "Infection: Pott puffy tumor",
+      "frequency": null
+    },
+    {
+      "name": "Trauma: cephalohematoma",
+      "raw": "Trauma: cephalohematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

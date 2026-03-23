@@ -1,0 +1,22 @@
+{
+  "finding": "Pancreatic Transplantation (DDx)",
+  "slug": "pancreatic_transplantation_ddx",
+  "chapter": "Pancreatic Transplantation",
+  "source_file": "processed_clusters/pancreatic_transplantation/pancreatic_transplantation_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "acute pancreatitis",
+      "raw": "acute pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "ischemia",
+      "raw": "ischemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "graft enlargement + heterogeneity | poor margination of transplant | dilated pancreatic duct | resistive indices not helpful"
+}

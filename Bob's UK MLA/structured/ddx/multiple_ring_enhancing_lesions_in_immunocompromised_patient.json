@@ -1,0 +1,27 @@
+{
+  "finding": "Multiple Ring-enhancing Lesions in Immunocompromised Patient",
+  "slug": "multiple_ring_enhancing_lesions_in_immunocompromised_patient",
+  "chapter": "Mycobacteria, Nocardia, Actinomyces, Listeria",
+  "source_file": "processed_clusters/mycobacteria_nocardia_actinomyces_listeria/multiple_ring_enhancing_lesions_in_immunocompromised_patient.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (necrotic)",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic disease",
+      "raw": "Metastatic disease",
+      "frequency": null
+    },
+    {
+      "name": "Multiple abscesses",
+      "raw": "Multiple abscesses",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  thick nodular ring enhancement √  restricted diffusion (ADC values lower than lymphoma / metastatic disease / toxoplasmosis)"
+}

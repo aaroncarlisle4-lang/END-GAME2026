@@ -1,0 +1,28 @@
+{
+  "name": "AINHUM DISEASE",
+  "slug": "ainhum_disease",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/ainhum_disease.md",
+  "definition": "DACTYLOLYSIS SPONTANEA",
+  "demographics": {
+    "Etiology": "unknown",
+    "Histo": "hyperkeratotic epidermis with fibrotic thickening of collagen bundles below; chronic",
+    "Frequency": "up to 2%",
+    "Age": "usually in males in 4th + 5th decades; Blacks (West Africa) + their American descendants;"
+  },
+  "dominant_finding": "osteoporosis",
+  "distribution": "",
+  "discriminating_features": [
+    "sharply demarcated progressive bone resorption of distal / middle phalanx with tapering of",
+    "osteoporosis"
+  ],
+  "other_features": {
+    "general": [
+      "sharply demarcated progressive bone resorption of distal / middle phalanx with tapering of",
+      "osteoporosis"
+    ]
+  },
+  "clinical": {
+    "Rx": "early surgical resection of groove with Z-plasty"
+  }
+}

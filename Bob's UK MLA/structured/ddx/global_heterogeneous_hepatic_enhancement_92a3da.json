@@ -1,0 +1,52 @@
+{
+  "finding": "Global Heterogeneous Hepatic Enhancement",
+  "slug": "global_heterogeneous_hepatic_enhancement_92a3da",
+  "chapter": "LIVER CIRCULATION",
+  "source_file": "processed_clusters/liver_circulation/global_heterogeneous_hepatic_enhancement_92a3da.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Passive hepatic congestion",
+      "raw": "Passive hepatic congestion",
+      "frequency": null
+    },
+    {
+      "name": "Budd-Chiari Syndrome",
+      "raw": "Budd-Chiari Syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary hemorrhagic telangiectasia",
+      "raw": "Hereditary hemorrhagic telangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Peliosis hepatis",
+      "raw": "Peliosis hepatis",
+      "frequency": null
+    },
+    {
+      "name": "LOBAR / SEGMENTAL",
+      "raw": "LOBAR / SEGMENTAL",
+      "frequency": null
+    },
+    {
+      "name": "Portal vein obstruction: portal vein thrombosis, tumor invasion, surgical ligation",
+      "raw": "Portal vein obstruction: portal vein thrombosis, tumor invasion, surgical ligation",
+      "frequency": null
+    },
+    {
+      "name": "Cirrhosis with arterioportal shunt",
+      "raw": "Cirrhosis with arterioportal shunt",
+      "frequency": null
+    },
+    {
+      "name": "Hypervascular gallbladder disease",
+      "raw": "Hypervascular gallbladder disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Transient Hepatic Parenchymal Enhancement =  HYPERPERFUSION ABNORMALITIES OF LIVER =  TRANSIENT HEPATIC ATTENUATION DIFFERENCE (THAD LESION) = TRANSIENT HEPATIC INTENSITY DIFFERENCE (THID) =  attenuation difference of liver appearing during dynamic bolus-enhanced CT √  patchy area of transient high attenuation during early arterial phase √  fading with return to normal during portal venous phase √  peripheral location, triangular shape, straight margins √  presence of normal vessels coursing through lesion Cause:  imbalance between hepatic arterial + portal venous supply ← decreased portal blo"
+}

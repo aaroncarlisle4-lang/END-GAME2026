@@ -1,0 +1,47 @@
+{
+  "finding": "Intraocular Calcifications",
+  "slug": "intraocular_calcifications",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/intraocular_calcifications.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Retinoblastoma",
+      "raw": "Retinoblastoma (> 50% of all cases)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Astrocytic hamartoma",
+      "raw": "Astrocytic hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Choroidal osteoma",
+      "raw": "Choroidal osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Optic drusen",
+      "raw": "Optic drusen",
+      "frequency": null
+    },
+    {
+      "name": "Scleral calcifications (a)  in systemic hypercalcemic states (HPT, sarcoidosis, hypervitaminosis D, in chronic renal disease) (b)  in elderly: scleral plaques at insertion of extraocular muscles, esp. medial + lateral rectus mm.",
+      "raw": "Scleral calcifications (a)  in systemic hypercalcemic states (HPT, sarcoidosis, hypervitaminosis D, in chronic renal disease) (b)  in elderly: scleral plaques at insertion of extraocular muscles, esp. medial + lateral rectus mm.",
+      "frequency": null
+    },
+    {
+      "name": "Retrolental fibroplasia",
+      "raw": "Retrolental fibroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Phthisis bulbi",
+      "raw": "Phthisis bulbi",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

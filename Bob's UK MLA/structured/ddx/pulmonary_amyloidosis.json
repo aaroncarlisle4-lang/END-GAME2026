@@ -1,0 +1,52 @@
+{
+  "finding": "Pulmonary Amyloidosis",
+  "slug": "pulmonary_amyloidosis",
+  "chapter": "AMYLOIDOSIS OF THE CHEST",
+  "source_file": "processed_clusters/amyloidosis_of_the_chest/pulmonary_amyloidosis.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NODULAR PARENCHYMAL TYPE",
+      "raw": "NODULAR PARENCHYMAL TYPE (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "usually asymptomatic, incidental discovery on CXR",
+      "raw": "usually asymptomatic, incidental discovery on CXR",
+      "frequency": null
+    },
+    {
+      "name": "Size:   5-15 cm",
+      "raw": "Size:   5-15 cm",
+      "frequency": null
+    },
+    {
+      "name": "Site:   subpleural / peripheral",
+      "raw": "Site:   subpleural / peripheral",
+      "frequency": null
+    },
+    {
+      "name": "Distribution:   concentrated in lower lobes",
+      "raw": "Distribution:   concentrated in lower lobes",
+      "frequency": null
+    },
+    {
+      "name": "DIFFUSE ALVEOLAR SEPTAL TYPE (least common) ◊  Most commonly associated with systemic amyloidosis",
+      "raw": "DIFFUSE ALVEOLAR SEPTAL TYPE (least common) ◊  Most commonly associated with systemic amyloidosis",
+      "frequency": "common"
+    },
+    {
+      "name": "usually asymptomatic with normal CXR",
+      "raw": "usually asymptomatic with normal CXR",
+      "frequency": null
+    },
+    {
+      "name": "cough + dyspnea with abnormal CXR",
+      "raw": "cough + dyspnea with abnormal CXR",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   1° amyloidosis (in up to 70%), 2° amyloidosis (rare) Age:   50-60 years of age; M÷F = 1÷1 √  solitary mass = amyloidoma (60%) √  multiple pulmonary nodules: √  smooth lobulated / spiculated margins √  cavitation (rare) √  ± central calcification / ossification (in up to 50%) DDx:   chronic renal failure √  mediastinal / hilar adenopathy Dx:   AL amyloid (= amyloid light chain) on biopsy Prognosis:   excellent with slow progression over years; incurable; treatment rarely required Rx:   low-dose prednisone, colchicine DDx:   metastatic disease, granulomatous disease (fungal, TB), rh"
+}

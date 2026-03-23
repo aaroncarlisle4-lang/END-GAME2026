@@ -1,0 +1,175 @@
+{
+  "finding": "J. RADIATION THERAPY",
+  "slug": "j_radiation_therapy_71a0a0",
+  "chapter": "A. CONGENITAL DISORDERS",
+  "source_file": "processed_clusters/a_congenital_disorders/j_radiation_therapy_71a0a0.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "LOCALIZED OSTEOPOROSIS immobilization / disuse, Sudeck dystrophy, transient osteoporosis of large joints, regional migratory osteoporosis of lower extremities",
+      "raw": "LOCALIZED OSTEOPOROSIS immobilization / disuse, Sudeck dystrophy, transient osteoporosis of large joints, regional migratory osteoporosis of lower extremities",
+      "frequency": null
+    },
+    {
+      "name": "serum calcium, phosphorus, alkaline phosphatase frequently normal",
+      "raw": "serum calcium, phosphorus, alkaline phosphatase frequently normal",
+      "frequency": null
+    },
+    {
+      "name": "hydroxyproline may be elevated during acute stage",
+      "raw": "hydroxyproline may be elevated during acute stage",
+      "frequency": null
+    },
+    {
+      "name": "Age",
+      "raw": "Age",
+      "frequency": null
+    },
+    {
+      "name": "History of fracture",
+      "raw": "History of fracture",
+      "frequency": null
+    },
+    {
+      "name": "Failed chair test",
+      "raw": "Failed chair test (= inability to rise from a chair in 3 successions without using arms)",
+      "frequency": null
+    },
+    {
+      "name": "Fall within past 12 months [Vertebral compression fracture]",
+      "raw": "Fall within past 12 months",
+      "frequency": null,
+      "sites": [
+        "Vertebral compression fracture"
+      ]
+    },
+    {
+      "name": "Femoral fracture: neck + intertrochanteric region",
+      "raw": "Femoral fracture: neck + intertrochanteric region",
+      "frequency": null
+    },
+    {
+      "name": "Fracture of distal radius (Colles) and tibia",
+      "raw": "Fracture of distal radius (Colles) and tibia",
+      "frequency": null
+    },
+    {
+      "name": "Single-Photon Absorptiometry measures primarily cortical bone of appendicular bones, single-energy 125I radioisotope source",
+      "raw": "Single-Photon Absorptiometry measures primarily cortical bone of appendicular bones, single-energy 125I radioisotope source",
+      "frequency": null
+    },
+    {
+      "name": "Dual-Photon Absorptiometry radioactive energy source with 2 photon peaks; should be reserved for patients < 65 years of age because of interference from osteophytosis + vascular calcifications",
+      "raw": "Dual-Photon Absorptiometry radioactive energy source with 2 photon peaks; should be reserved for patients < 65 years of age because of interference from osteophytosis + vascular calcifications",
+      "frequency": null
+    },
+    {
+      "name": "Site:  vertebrae, femoral neck",
+      "raw": "Site:  vertebrae, femoral neck",
+      "frequency": null
+    },
+    {
+      "name": "Dose:  5-10 mrem",
+      "raw": "Dose:  5-10 mrem",
+      "frequency": null
+    },
+    {
+      "name": "Precision:  2-4%",
+      "raw": "Precision:  2-4%",
+      "frequency": "4%"
+    },
+    {
+      "name": "Single X-ray Absorptiometry =  area projectional technique for quantitative bone density measurement",
+      "raw": "Single X-ray Absorptiometry =  area projectional technique for quantitative bone density measurement",
+      "frequency": null
+    },
+    {
+      "name": "Site:  distal radius, calcaneus",
+      "raw": "Site:  distal radius, calcaneus",
+      "frequency": null
+    },
+    {
+      "name": "Dose:  low",
+      "raw": "Dose:  low",
+      "frequency": null
+    },
+    {
+      "name": "Precision:  0.5-2%",
+      "raw": "Precision:  0.5-2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Dual Energy X-ray Absorptiometry (DXA / DEXA) =  quantitative digital radiography ◊  Most widely used & most precise technique!",
+      "raw": "Dual Energy X-ray Absorptiometry (DXA / DEXA) =  quantitative digital radiography ◊  Most widely used & most precise technique!",
+      "frequency": null
+    },
+    {
+      "name": "low radiation dose with higher radiation flux than radioisotope source of dual- photon absorptiometry",
+      "raw": "low radiation dose with higher radiation flux than radioisotope source of dual- photon absorptiometry",
+      "frequency": null
+    },
+    {
+      "name": "uses sites where osteoporotic fractures occur",
+      "raw": "uses sites where osteoporotic fractures occur",
+      "frequency": null
+    },
+    {
+      "name": "low cost; ease of use; rapidity of measurement",
+      "raw": "low cost; ease of use; rapidity of measurement",
+      "frequency": null
+    },
+    {
+      "name": "no distinction between cortical + trabecular bone",
+      "raw": "no distinction between cortical + trabecular bone",
+      "frequency": null
+    },
+    {
+      "name": "no discrimination between changes secondary to bone geometry + increased bone density",
+      "raw": "no discrimination between changes secondary to bone geometry + increased bone density",
+      "frequency": null
+    },
+    {
+      "name": "regulatory oversight for ionizing radiation",
+      "raw": "regulatory oversight for ionizing radiation",
+      "frequency": null
+    },
+    {
+      "name": "Quantitative Computed Tomography =  determines true volumetric density",
+      "raw": "Quantitative Computed Tomography =  determines true volumetric density (mg/cm3) by providing separate estimates of trabecular + cortical bone BMD over 2-4 vertebrae (T12-L4)",
+      "frequency": null
+    },
+    {
+      "name": "high-turnover cancellous bone is important for vertebral strength and has high responsiveness",
+      "raw": "high-turnover cancellous bone is important for vertebral strength and has high responsiveness",
+      "frequency": null
+    },
+    {
+      "name": "trabecular bone + low-turnover compact bone can be measured separately",
+      "raw": "trabecular bone + low-turnover compact bone can be measured separately",
+      "frequency": null
+    },
+    {
+      "name": "Peripheral Quantitative CT =  exact 3-dimensional localization of target volumes with multisection data acquisition capability covering a large volume of bone",
+      "raw": "Peripheral Quantitative CT =  exact 3-dimensional localization of target volumes with multisection data acquisition capability covering a large volume of bone",
+      "frequency": null
+    },
+    {
+      "name": "Quantitative Heel Ultrasound =  determines US stiffness index(SI) using formula",
+      "raw": "Quantitative Heel Ultrasound =  determines US stiffness index(SI) using formula",
+      "frequency": null
+    },
+    {
+      "name": "Fractures at sites rich in labile trabecular bone (eg, vertebrae, wrist) in postmenopausal osteoporosis",
+      "raw": "Fractures at sites rich in labile trabecular bone (eg, vertebrae, wrist) in postmenopausal osteoporosis",
+      "frequency": null
+    },
+    {
+      "name": "Fractures at sites containing cortical + trabecular bone (eg, hip) in senile osteoporosis Rx:     calcitonin, sodium fluoride, diphosphonates, parathyroid hormone supplements, estrogen replacement",
+      "raw": "Fractures at sites containing cortical + trabecular bone (eg, hip) in senile osteoporosis Rx:     calcitonin, sodium fluoride, diphosphonates, parathyroid hormone supplements, estrogen replacement",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Significant predictors of osteoporotic fractures: Clinical manifestation: Technique of Bone Densitometry: Site:  distal radius (= wrist bone density), os calcis Dose:  2-3 mrem Precision:  1-3% ◊  Standard of reference for diagnosis of osteoporosis in conjunction with Fracture Risk Assessment Tool at http://www.shef.ac.uk/FRAX/ for results of a 10-year probability of a major osteoporotic fracture in hip, spine, proximal humerus, distal forearm Technique: »  mobile x-ray source composed of 2 different photon energy levels (constant + pulsed) moves together with detection system »  rectilinear /"
+}

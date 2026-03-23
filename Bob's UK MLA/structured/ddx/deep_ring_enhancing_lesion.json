@@ -1,0 +1,57 @@
+{
+  "finding": "Deep Ring-enhancing Lesion",
+  "slug": "deep_ring_enhancing_lesion",
+  "chapter": "Mycobacteria, Nocardia, Actinomyces, Listeria",
+  "source_file": "processed_clusters/mycobacteria_nocardia_actinomyces_listeria/deep_ring_enhancing_lesion.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Glioma (40%): single lesion in 77%",
+      "raw": "Glioma (40%): single lesion in 77%",
+      "frequency": "40%"
+    },
+    {
+      "name": "Metastasis (30%): single lesion in 45%",
+      "raw": "Metastasis (30%): single lesion in 45%",
+      "frequency": "30%"
+    },
+    {
+      "name": "Abscess (8%): multiple lesions in 75%",
+      "raw": "Abscess (8%): multiple lesions in 75%",
+      "frequency": "8%"
+    },
+    {
+      "name": "Demyelinating disease (6%): multiple lesions in 85%",
+      "raw": "Demyelinating disease (6%): multiple lesions in 85%",
+      "frequency": "6%"
+    },
+    {
+      "name": "Necrotic high-grade primary neoplasm",
+      "raw": "Necrotic high-grade primary neoplasm (GBM)",
+      "frequency": null
+    },
+    {
+      "name": "Fluid-secreting low-grade primary neoplasm",
+      "raw": "Fluid-secreting low-grade primary neoplasm (pilocytic astrocytoma, hemangioblastoma)",
+      "frequency": null
+    },
+    {
+      "name": "hypervascular margin of lesion = granulation tissue / peripheral vascular channels / hypervascular tumor capsule",
+      "raw": "hypervascular margin of lesion = granulation tissue / peripheral vascular channels / hypervascular tumor capsule",
+      "frequency": null
+    },
+    {
+      "name": "breakdown of blood-brain barrier = leakage of contrast out of abnormally permeable vessels into extracellular fluid space",
+      "raw": "breakdown of blood-brain barrier = leakage of contrast out of abnormally permeable vessels into extracellular fluid space",
+      "frequency": null
+    },
+    {
+      "name": "hypodense center = avascular / hypovascular (requires time to fill) / cystic degeneration",
+      "raw": "hypodense center = avascular / hypovascular (requires time to fill) / cystic degeneration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause: √  wavy undulating rim of > 10 mm in thickness √  enhancing mural nodule within cyst Pathogenesis: Incidence of ring blush: abscess (in 73%); glioblastoma (in 48%); metastasis (in 33%); grade II astrocytoma (in 26%) [NOT in grade I astrocytoma]"
+}

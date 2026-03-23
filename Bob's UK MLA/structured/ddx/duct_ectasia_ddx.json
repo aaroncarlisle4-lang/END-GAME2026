@@ -1,0 +1,22 @@
+{
+  "finding": "Duct Ectasia (DDx)",
+  "slug": "duct_ectasia_ddx",
+  "chapter": "Duct Ectasia",
+  "source_file": "processed_clusters/duct_ectasia/duct_ectasia_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "blocked duct (during lactation); inflammatory infiltrate (masslike intraductal lesions); periductal mastitis (premenopausal",
+      "raw": "blocked duct (during lactation); inflammatory infiltrate (masslike intraductal lesions); periductal mastitis (premenopausal",
+      "frequency": null
+    },
+    {
+      "name": "periductal enhancement)",
+      "raw": "periductal enhancement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± coarse smooth-bordered rod-/ cigar-shaped calcifications pointing toward the nipple | irregularity of duct margin | focal thickening of duct wall | adjacent hypoechoic tissue"
+}

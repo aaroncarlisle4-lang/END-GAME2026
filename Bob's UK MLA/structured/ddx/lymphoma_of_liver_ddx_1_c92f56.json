@@ -1,0 +1,22 @@
+{
+  "finding": "Lymphoma Of Liver (DDx)",
+  "slug": "lymphoma_of_liver_ddx_1_c92f56",
+  "chapter": "Lymphoma Of Liver",
+  "source_file": "processed_clusters/lymphoma_of_liver/lymphoma_of_liver_ddx_1_c92f56.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Opportunistic infection (fungal microabscesses",
+      "raw": "Opportunistic infection (fungal microabscesses",
+      "frequency": null
+    },
+    {
+      "name": "septic emboli)",
+      "raw": "septic emboli)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "NO alteration in hepatic architecture | discrete homogeneous nodules ± miliary pattern | paraaortic, celiac, mesenteric, periportal nodes typically involved (lymphadenopathy | splenic lesions (30-40%)"
+}

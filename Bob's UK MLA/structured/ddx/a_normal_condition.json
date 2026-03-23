@@ -1,0 +1,27 @@
+{
+  "finding": "A. NORMAL CONDITION",
+  "slug": "a_normal_condition",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/a_normal_condition.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vasopressin storage",
+      "raw": "Vasopressin storage",
+      "frequency": null
+    },
+    {
+      "name": "Anterior pituitary lobe hyperactivity",
+      "raw": "Anterior pituitary lobe hyperactivity",
+      "frequency": null
+    },
+    {
+      "name": "Bone",
+      "raw": "Bone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Source:   vasopressin-neurophysin II-copeptin macroprotein complex Site:   posterior aspect of sella turcica immediately anterior to dorsum sellae Source:   ↑ in intracellular protein concentration Cause:   hypersecretion during first few weeks of life in newborn, pregnancy, postpartum period, lactation"
+}

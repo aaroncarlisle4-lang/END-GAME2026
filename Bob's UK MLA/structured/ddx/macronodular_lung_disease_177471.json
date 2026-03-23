@@ -1,0 +1,62 @@
+{
+  "finding": "Macronodular Lung Disease",
+  "slug": "macronodular_lung_disease_177471",
+  "chapter": "D. IATROGENIC",
+  "source_file": "processed_clusters/d_iatrogenic/macronodular_lung_disease_177471.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma (eosinophilic granuloma, fungus)",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma",
+      "raw": "Multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "AVM",
+      "raw": "AVM",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid lung",
+      "raw": "Rheumatoid lung",
+      "frequency": null
+    },
+    {
+      "name": "Parasites",
+      "raw": "Parasites (Echinococcus, paragonimiasis)",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  nodules > 5 mm in diameter"
+}

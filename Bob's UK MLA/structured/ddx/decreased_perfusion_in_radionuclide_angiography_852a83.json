@@ -1,0 +1,97 @@
+{
+  "finding": "Decreased Perfusion in Radionuclide Angiography",
+  "slug": "decreased_perfusion_in_radionuclide_angiography_852a83",
+  "chapter": "B. 99mTc DTPA",
+  "source_file": "processed_clusters/b_99mtc_dtpa/decreased_perfusion_in_radionuclide_angiography_852a83.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Arterial stenosis",
+      "raw": "Arterial stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Alzheimer disease:",
+      "raw": "Alzheimer disease:",
+      "frequency": null
+    },
+    {
+      "name": "Most tumors",
+      "raw": "Most tumors",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage",
+      "raw": "Hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Subdural hematoma",
+      "raw": "Subdural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "35% cerebral tumors: meningioma in 34%, metastases in 17%",
+      "raw": "35% cerebral tumors: meningioma in 34%, metastases in 17%",
+      "frequency": "35%"
+    },
+    {
+      "name": "Cerebrovascular disease",
+      "raw": "Cerebrovascular disease (more common in > 50 years of age)",
+      "frequency": "common"
+    },
+    {
+      "name": "Trauma, inflammation, CNS effects of systemic disease",
+      "raw": "Trauma, inflammation, CNS effects of systemic disease",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma (increased activity in 60-80%);",
+      "raw": "Meningioma (increased activity in 60-80%);",
+      "frequency": "80%"
+    },
+    {
+      "name": "Metastases (increased activity in 11-23%);",
+      "raw": "Metastases (increased activity in 11-23%);",
+      "frequency": "23%"
+    },
+    {
+      "name": "Vascular metastases: thyroid, renal cell, melanoma, anaplastic tumors from lung / breast",
+      "raw": "Vascular metastases: thyroid, renal cell, melanoma, anaplastic tumors from lung / breast",
+      "frequency": null
+    },
+    {
+      "name": "Complete occlusion / > 80% stenosis of ICA:",
+      "raw": "Complete occlusion / > 80% stenosis of ICA:",
+      "frequency": "80%"
+    },
+    {
+      "name": "50-80% stenosis of ICA: 50% sensitivity",
+      "raw": "50-80% stenosis of ICA: 50% sensitivity",
+      "frequency": "80%"
+    },
+    {
+      "name": "< 50% stenosis of ICA: 10% sensitivity",
+      "raw": "< 50% stenosis of ICA: 10% sensitivity",
+      "frequency": "50%"
+    },
+    {
+      "name": "Bilaterally similar degree of stenosis",
+      "raw": "Bilaterally similar degree of stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Occlusion of MCA + unilateral ACA",
+      "raw": "Occlusion of MCA + unilateral ACA",
+      "frequency": null
+    },
+    {
+      "name": "Vertebrobasilar occlusive disease",
+      "raw": "Vertebrobasilar occlusive disease (20% sensitivity)",
+      "frequency": "20%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  bilateral temporoparietal hypoperfusion Indications for Radionuclide Angiography of Brain Seizures Abnormal cerebral radionuclide angiography within 1 week of seizure activity even without underlying organic lesion Etiology: √  transient hyperperfusion of involved hemisphere SEIZURE FOCUS IMAGING for localizing intractable seizures √  focal hypoperfusion during interictal injection of tracer (less sensitive) √  focal hyperperfusion during ictal injection of tracer (better detection) Brain Tumor Etiology: √  good correlation between hyperperfusion and enlarged supplying vessels: Arterial Ste"
+}

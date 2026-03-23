@@ -1,0 +1,37 @@
+{
+  "finding": "Double-barrel Esophagus",
+  "slug": "double_barrel_esophagus",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/double_barrel_esophagus.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dissecting intramural hematoma from emetogenic injury",
+      "raw": "Dissecting intramural hematoma from emetogenic injury",
+      "frequency": null
+    },
+    {
+      "name": "Mallory-Weiss tear: trauma, esophagoscopy",
+      "raw": "Mallory-Weiss tear: trauma, esophagoscopy (in 0.25%), bougienage (in 0.5%), ingestion of foreign bodies, spontaneous (bleeding diathesis)",
+      "frequency": "0.25%"
+    },
+    {
+      "name": "Intramural abscess",
+      "raw": "Intramural abscess",
+      "frequency": null
+    },
+    {
+      "name": "Intraluminal diverticulum",
+      "raw": "Intraluminal diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal duplication",
+      "raw": "Esophageal duplication (if communication with esophageal lumen present)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

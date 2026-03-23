@@ -1,0 +1,67 @@
+{
+  "finding": "Low-density Retroperitoneal Mass",
+  "slug": "low_density_retroperitoneal_mass",
+  "chapter": "RETROPERITONEUM",
+  "source_file": "processed_clusters/retroperitoneum/low_density_retroperitoneal_mass.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Renal angiomyolipoma",
+      "raw": "Renal angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Adrenal myelolipoma",
+      "raw": "Adrenal myelolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Xanthogranulomatous pyelonephritis",
+      "raw": "Xanthogranulomatous pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic retroperitoneal tumors",
+      "raw": "Metastatic retroperitoneal tumors",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosarcoma, fibrous histiocytoma, mesenchymal sarcoma, malignant teratoma",
+      "raw": "Fibrosarcoma, fibrous histiocytoma, mesenchymal sarcoma, malignant teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal liposarcoma",
+      "raw": "Retroperitoneal liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoblastoma",
+      "raw": "Lipoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Hibernoma",
+      "raw": "Hibernoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  sharply marginated, homogeneously fatty mass √  similar to lipoma if enough fat content √  density close to muscle"
+}

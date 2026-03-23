@@ -1,0 +1,27 @@
+{
+  "finding": "Thickened Bronchovascular, Interlobular Septal & Pleural Interstitium",
+  "slug": "thickened_bronchovascular_interlobular_septal_pleural_interstitium",
+  "chapter": "C. Pneumoconiosis",
+  "source_file": "processed_clusters/c_pneumoconiosis/thickened_bronchovascular_interlobular_septal_pleural_interstitium.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Uni- / bilateral",
+      "raw": "Uni- / bilateral",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangitic tumor",
+      "raw": "Lymphangitic tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

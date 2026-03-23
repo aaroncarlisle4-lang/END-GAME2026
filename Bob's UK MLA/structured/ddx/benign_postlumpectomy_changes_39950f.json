@@ -1,0 +1,47 @@
+{
+  "finding": "Benign Postlumpectomy Changes",
+  "slug": "benign_postlumpectomy_changes_39950f",
+  "chapter": "POSTLUMPECTOMY BREAST MRI",
+  "source_file": "processed_clusters/postlumpectomy_breast_mri/benign_postlumpectomy_changes_39950f.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Skin thickening",
+      "raw": "Skin thickening",
+      "frequency": null
+    },
+    {
+      "name": "Architectural distortion",
+      "raw": "Architectural distortion",
+      "frequency": null
+    },
+    {
+      "name": "Edema",
+      "raw": "Edema",
+      "frequency": null
+    },
+    {
+      "name": "may never resolve entirely",
+      "raw": "may never resolve entirely",
+      "frequency": null
+    },
+    {
+      "name": "Signal voids / flare from surgical / biopsy clips",
+      "raw": "Signal voids / flare from surgical / biopsy clips",
+      "frequency": null
+    },
+    {
+      "name": "Fluid cavity filled with blood / seroma",
+      "raw": "Fluid cavity filled with blood / seroma",
+      "frequency": null
+    },
+    {
+      "name": "Bleeding / hemosiderin",
+      "raw": "Bleeding / hemosiderin",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  persists in 25% at 6 years after breast conservation Rx"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "PRIMARY PULMONARY LYMPHOMA",
+  "slug": "primary_pulmonary_lymphoma",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/primary_pulmonary_lymphoma.md",
+  "definition": "monoclonal lymphoid proliferation within lung parenchyma low-grade marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue",
+  "demographics": {
+    "Prevalence": "3-4% of extranodal lymphomas; 1% of lung malignancies",
+    "Age": "6th decade",
+    "Histo": "sheets of monoclonal lymphocytes + occasional interspersed plasma cells",
+    "Location": "bi- / unilateral"
+  },
+  "dominant_finding": "multiple nodules / masses / consolidations",
+  "distribution": "bi- / unilateral",
+  "discriminating_features": [
+    "multiple nodules / masses / consolidations",
+    "areas of ground-glass attenuation / consolidation in bronchovascular distribution",
+    "air bronchograms (frequent) ± dilatation",
+    "patchy large areas of ground-glass attenuation throughout lungs (rare)",
+    "mosaic attenuation ← infiltration along airways"
+  ],
+  "other_features": {
+    "general": [
+      "multiple nodules / masses / consolidations",
+      "areas of ground-glass attenuation / consolidation in bronchovascular distribution",
+      "air bronchograms (frequent) ± dilatation",
+      "patchy large areas of ground-glass attenuation throughout lungs (rare)",
+      "mosaic attenuation ← infiltration along airways",
+      "hilar / mediastinal lymphadenopathy (in up to 30%)",
+      "pleural effusions (uncommon)",
+      "hypermetabolic at PET/CT (50%)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "84-88% 5-10-year survival rate"
+  }
+}

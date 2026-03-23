@@ -1,0 +1,37 @@
+{
+  "finding": "Pena-Shokeir Phenotype — Limbs:   limited movement, knee + hip ankylosis (arthrogryposis), abnormal shape + (DDx)",
+  "slug": "pena_shokeir_phenotype_limbs_limited_movement_knee_hip_ankylosis_arthrogryposis__467190",
+  "chapter": "Pena-Shokeir Phenotype",
+  "source_file": "processed_clusters/pena_shokeir_phenotype/pena_shokeir_phenotype_limbs_limited_movement_knee_hip_ankylosis_arthrogryposis__467190.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "multiple pterygium syndrome",
+      "raw": "multiple pterygium syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Neu-Laxova syndrome",
+      "raw": "Neu-Laxova syndrome",
+      "frequency": null
+    },
+    {
+      "name": "restrictive dermopathy",
+      "raw": "restrictive dermopathy",
+      "frequency": null
+    },
+    {
+      "name": "Larsen syndrome",
+      "raw": "Larsen syndrome",
+      "frequency": null
+    },
+    {
+      "name": "trisomies 13 + 18",
+      "raw": "trisomies 13 + 18",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "craniofacial anomalies | polyhydramnios | IUGR | short umbilical cord"
+}

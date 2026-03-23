@@ -1,0 +1,122 @@
+{
+  "finding": "ACHONDROPLASIA",
+  "slug": "achondroplasia",
+  "chapter": "ACHONDROGENESIS",
+  "source_file": "processed_clusters/achondrogenesis/achondroplasia.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "normal intelligence + motor function",
+      "raw": "normal intelligence + motor function",
+      "frequency": null
+    },
+    {
+      "name": "neurologic defects",
+      "raw": "neurologic defects",
+      "frequency": null
+    },
+    {
+      "name": "classically circus dwarfs",
+      "raw": "classically circus dwarfs",
+      "frequency": null
+    },
+    {
+      "name": "flat nasal bridge",
+      "raw": "flat nasal bridge (= hypoplastic base of skull)",
+      "frequency": null
+    },
+    {
+      "name": "macrocephaly + brachycephaly with enlarged bulging forehead",
+      "raw": "macrocephaly + brachycephaly with enlarged bulging forehead (= nonprogressive hydrocephalus)",
+      "frequency": null
+    },
+    {
+      "name": "relative prognathism",
+      "raw": "relative prognathism",
+      "frequency": null
+    },
+    {
+      "name": "protuberant abdomen; prominent buttocks",
+      "raw": "protuberant abdomen; prominent buttocks",
+      "frequency": null
+    },
+    {
+      "name": "rolling gait from backward tilt of pelvis and hip joints",
+      "raw": "rolling gait from backward tilt of pelvis and hip joints",
+      "frequency": null
+    },
+    {
+      "name": "trident hand = separation of 2nd + 3rd digit and inability to approximate 3rd + 4th finger;",
+      "raw": "trident hand = separation of 2nd + 3rd digit and inability to approximate 3rd + 4th finger;",
+      "frequency": null
+    },
+    {
+      "name": "limited range of motion of elbow",
+      "raw": "limited range of motion of elbow",
+      "frequency": null
+    },
+    {
+      "name": "Hydrocephalus + syringomyelia",
+      "raw": "Hydrocephalus + syringomyelia (small foramen magnum)",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent ear infection",
+      "raw": "Recurrent ear infection (poorly developed facial bones)",
+      "frequency": null
+    },
+    {
+      "name": "Neurologic complications (compression of spinal cord, lower brainstem, cauda equina, nerve roots): → apnea and sudden death",
+      "raw": "Neurologic complications (compression of spinal cord, lower brainstem, cauda equina, nerve roots): → apnea and sudden death",
+      "frequency": null
+    },
+    {
+      "name": "Crowded dentition + malocclusion",
+      "raw": "Crowded dentition + malocclusion",
+      "frequency": null
+    },
+    {
+      "name": "normal facial features and intelligence",
+      "raw": "normal facial features and intelligence",
+      "frequency": null
+    },
+    {
+      "name": "mean adult height 118 (range, 82-130) cm",
+      "raw": "mean adult height 118 (range, 82-130) cm",
+      "frequency": null
+    },
+    {
+      "name": "disturbance of gait; joint laxity @   Skull: normal @   Spine",
+      "raw": "disturbance of gait; joint laxity @   Skull: normal @   Spine",
+      "frequency": null
+    },
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia (large head with prominent frontal region + depressed bridge of nose, normal epiphyses, trident hands)",
+      "frequency": null
+    },
+    {
+      "name": "Multiple epiphyseal dysplasia",
+      "raw": "Multiple epiphyseal dysplasia (near normal pelvis)",
+      "frequency": null
+    },
+    {
+      "name": "Spondyloepiphyseal dysplasia congenita",
+      "raw": "Spondyloepiphyseal dysplasia congenita (hip joints more affected + near normal extremities)",
+      "frequency": null
+    },
+    {
+      "name": "Diastrophic dwarfism",
+      "raw": "Diastrophic dwarfism (joint contractures and scoliosis at birth / in early infancy)",
+      "frequency": null
+    },
+    {
+      "name": "Metatropic dwarfism",
+      "raw": "Metatropic dwarfism (dumbbell-shaped long bones + flattened vertebrae in infancy, less epiphyseal involvement)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Heterozygous Achondroplasia ◊  Prototype of rhizomelic dwarfism! =  autosomal dominant / sporadic (80%) disease with quantitatively defective endochondral bone formation; related to advanced paternal age; epiphyseal maturation + ossification unaffected Prevalence:   1÷26,000-66,000 births; M < F ◊ Most common of lethal bone dysplasias! @   Skull √  large calvarium with frontal bossing √  depression of nasion √  broad mandible √  constricted basicranium + small foramen magnum: √  communicating hydrocephalus caused by obstruction of basal cisterns + aqueduct Cx:     apnea + sudden death ← compre"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Extraaxial Tumor",
+  "slug": "extraaxial_tumor",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/extraaxial_tumor.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Bony lesion",
+      "raw": "Bony lesion",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid",
+      "raw": "Epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Leukemic / lymphomatous infiltration",
+      "raw": "Leukemic / lymphomatous infiltration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

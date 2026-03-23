@@ -1,0 +1,97 @@
+{
+  "finding": "A. VIRAL PATHOGENS",
+  "slug": "a_viral_pathogens",
+  "chapter": "AIDS",
+  "source_file": "processed_clusters/aids/a_viral_pathogens.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cytomegalovirus infection ◊  Most common cause of life-threatening opportunistic viral infection in AIDS patients!",
+      "raw": "Cytomegalovirus infection ◊  Most common cause of life-threatening opportunistic viral infection in AIDS patients!",
+      "frequency": "most common"
+    },
+    {
+      "name": "hematochezia, crampy abdominal pain, fever",
+      "raw": "hematochezia, crampy abdominal pain, fever",
+      "frequency": null
+    },
+    {
+      "name": "Herpes simplex virus infection ◊  Result of reactivation of latent virus in previously infected host",
+      "raw": "Herpes simplex virus infection ◊  Result of reactivation of latent virus in previously infected host",
+      "frequency": null
+    },
+    {
+      "name": "Human immunodeficiency virus infection ◊  Not an AIDS-defining illness!",
+      "raw": "Human immunodeficiency virus infection ◊  Not an AIDS-defining illness!",
+      "frequency": null
+    },
+    {
+      "name": "FUNGAL PATHOGENS",
+      "raw": "FUNGAL PATHOGENS",
+      "frequency": null
+    },
+    {
+      "name": "Candidiasis",
+      "raw": "Candidiasis",
+      "frequency": null
+    },
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "PROTOZOAN PATHOGENS",
+      "raw": "PROTOZOAN PATHOGENS",
+      "frequency": null
+    },
+    {
+      "name": "Cryptosporidiosis ◊  One of the most common causes of enteric + biliary disease in AIDS patients!",
+      "raw": "Cryptosporidiosis ◊  One of the most common causes of enteric + biliary disease in AIDS patients!",
+      "frequency": "most common"
+    },
+    {
+      "name": "severe choleralike debilitating diarrhea with fluid loss of 10-17 L/d",
+      "raw": "severe choleralike debilitating diarrhea with fluid loss of 10-17 L/d",
+      "frequency": null
+    },
+    {
+      "name": "Pneumocystosis ◊  Likely to occur in patients treated with aerosolized pentamidine!",
+      "raw": "Pneumocystosis ◊  Likely to occur in patients treated with aerosolized pentamidine!",
+      "frequency": null
+    },
+    {
+      "name": "BACTERIAL PATHOGENS",
+      "raw": "BACTERIAL PATHOGENS",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis ◊  Most common cause of serious HIV-related infection worldwide with tendency to occur earlier than other AIDS-defining opportunistic infections!",
+      "raw": "Tuberculosis ◊  Most common cause of serious HIV-related infection worldwide with tendency to occur earlier than other AIDS-defining opportunistic infections!",
+      "frequency": "most common"
+    },
+    {
+      "name": "Mycobacterium avium complex infection =  PSEUDO-WHIPPLE DISEASE IN AIDS ◊  Most common opportunistic infection of bacterial origin in AIDS patients!",
+      "raw": "Mycobacterium avium complex infection =  PSEUDO-WHIPPLE DISEASE IN AIDS ◊  Most common opportunistic infection of bacterial origin in AIDS patients!",
+      "frequency": "most common"
+    },
+    {
+      "name": "diarrhea, malabsorption (similar clinical picture as in Whipple disease caused by",
+      "raw": "diarrhea, malabsorption (similar clinical picture as in Whipple disease caused by",
+      "frequency": null
+    },
+    {
+      "name": "Visualization of large numbers of intracellular acid-fast bacilli in foamy histiocytes of tissue specimen",
+      "raw": "Visualization of large numbers of intracellular acid-fast bacilli in foamy histiocytes of tissue specimen",
+      "frequency": null
+    },
+    {
+      "name": "Tissue culture DDx:   Whipple disease",
+      "raw": "Tissue culture DDx:   Whipple disease (positive with periodic acid-Schiff stain just like M. avium, but not with acid-fast stain, responsive to tetracyclines)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Organism:   double-stranded DNA virus of herpes family Infection:   ubiquitous among humans occurring at an early age in populations with poor sanitation + crowded living conditions ◊  Result of reactivation of latent virus in previously infected host! Prevalence:   13% of all GI diseases in AIDS patients Path:   infection of endothelial cells → small vessel vasculitis → hemorrhage, ischemic necrosis, ulcer Histo:   large mononuclear epithelial / endothelial cells that contain intranuclear / cytoplasmatic inclusions with surrounding inflammation Location:   colon > small bowel (terminal ileum)"
+}

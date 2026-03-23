@@ -1,0 +1,37 @@
+{
+  "finding": "B. BENIGN",
+  "slug": "b_benign_2",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/b_benign_2.md",
+  "quality_score": 0.533,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Collagen vascular disease",
+      "raw": "Collagen vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease",
+      "raw": "Granulomatous disease",
+      "frequency": null
+    },
+    {
+      "name": "HIV",
+      "raw": "HIV",
+      "frequency": null
+    },
+    {
+      "name": "Silicone-related adenopathy",
+      "raw": "Silicone-related adenopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Collagen vascular disease": [],
+    "Granulomatous disease": [],
+    "HIV": [],
+    "Silicone-related adenopathy": []
+  },
+  "context": "Lymph Node Features Suspicious For Malignancy √  size increase of > 100% over baseline: √  size > 3.3 cm ◊  Size of node usually NOT useful criterion (although small nodes have high NPV) √  change in shape: √round shape / long-to-short axis ratio of < 2 √  focal bulge / eccentric cortical thickening √  spiculation of margins √  intranodal microcalcifications (without history of gold Rx) √  loss of radiolucent fatty center / hilar notch √  increase in density Ultrasound of Malignant Lymph Nodes Ultrasound is the primary nonsurgical method for evaluating axillary nodes! Value:   62-92% sensitive"
+}

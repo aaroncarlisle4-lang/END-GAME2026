@@ -1,0 +1,22 @@
+{
+  "finding": "Urolithiasis (DDx)",
+  "slug": "urolithiasis_ddx_1_3cdfad",
+  "chapter": "Urolithiasis",
+  "source_file": "processed_clusters/urolithiasis/urolithiasis_ddx_1_3cdfad.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "extrarenal pelvis",
+      "raw": "extrarenal pelvis",
+      "frequency": null
+    },
+    {
+      "name": "parapelvic cysts",
+      "raw": "parapelvic cysts",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "secondary signs of urinary tract obstruction (in 96%): | asymmetric stranding of perinephric fat (in 65%, 76% sensitive, 90% specific) with | periureteral edema (in 31%) | hydronephrosis (in 69%, 83% sensitive, 94% specific) = rounded fluid-filled calices"
+}

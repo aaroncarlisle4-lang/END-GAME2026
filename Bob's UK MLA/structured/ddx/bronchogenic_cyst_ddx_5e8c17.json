@@ -1,0 +1,32 @@
+{
+  "finding": "Bronchogenic Cyst (DDx)",
+  "slug": "bronchogenic_cyst_ddx_5e8c17",
+  "chapter": "Bronchogenic Cyst",
+  "source_file": "processed_clusters/bronchogenic_cyst/bronchogenic_cyst_ddx_5e8c17.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "solitary pulmonary nodule",
+      "raw": "solitary pulmonary nodule",
+      "frequency": null
+    },
+    {
+      "name": "cavitated neoplasm",
+      "raw": "cavitated neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "cavitated pneumonia",
+      "raw": "cavitated pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "lung abscess",
+      "raw": "lung abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "rarely communicates with tracheal lumen | may show esophageal compression | 36% will eventually contain air"
+}

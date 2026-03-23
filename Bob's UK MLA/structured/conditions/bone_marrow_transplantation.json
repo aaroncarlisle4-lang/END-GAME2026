@@ -1,0 +1,34 @@
+{
+  "name": "BONE MARROW TRANSPLANTATION",
+  "slug": "bone_marrow_transplantation",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/bone_marrow_transplantation.md",
+  "definition": "intravenous infusion of hematopoietic progenitor cells from patient's own marrow (autologous",
+  "demographics": {},
+  "dominant_finding": "segmental / subsegmental consolidation",
+  "distribution": "segmental / subsegmental consolidation",
+  "discriminating_features": [
+    "nonspecific findings (diagnosis of exclusion)",
+    "nodule surrounded by halo of ground-glass attenuation (= fungal infection spreading",
+    "segmental / subsegmental consolidation",
+    "cavitation of nodule with \"air-crescent\" sign (during recovery phase with resolving",
+    "< 5-mm centrilobular nodules to 5-cm peribronchial consolidation (= airway invasion"
+  ],
+  "other_features": {
+    "general": [
+      "nodule surrounded by halo of ground-glass attenuation (= fungal infection spreading",
+      "segmental / subsegmental consolidation",
+      "cavitation of nodule with \"air-crescent\" sign (during recovery phase with resolving",
+      "< 5-mm centrilobular nodules to 5-cm peribronchial consolidation (= airway invasion",
+      "bilateral areas of ground-glass attenuation / consolidation",
+      "prominent pulmonary vessels, interlobar septal thickening, ground-glass attenuation,",
+      "bilateral areas of ground-glass attenuation / consolidation / reticular attenuation (=",
+      "multiple small nodules + associated areas of consolidation + ground-glass attenuation",
+      "diffuse / predominantly perihilar / mosaic pattern of ground-glass attenuation with",
+      "nonspecific findings (diagnosis of exclusion)"
+    ]
+  },
+  "clinical": {
+    "Cx": "pulmonary complications in 40-60%"
+  }
+}

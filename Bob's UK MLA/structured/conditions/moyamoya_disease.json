@@ -1,0 +1,40 @@
+{
+  "name": "MOYAMOYA DISEASE",
+  "slug": "moyamoya_disease",
+  "chapter": "INTRAVENTRICULAR NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/intraventricular_neurocytoma/moyamoya_disease.md",
+  "definition": "uncommon occlusive cerebral arteritis classically involving supraclinoid internal carotid underlying cause for moyamoya image identified",
+  "demographics": {
+    "Etiology": "unknown; NO underlying cause identified",
+    "Age": "bimodal distribution in 1st decade + 4th decade of life",
+    "Path": "development of extensive tiny basal perforator and transdural collateral vessels",
+    "Histo": "endothelial hyperplasia + fibrosis without associated inflammatory reaction"
+  },
+  "dominant_finding": "microbleeds (in 15-44%)",
+  "distribution": "bilateral stenosis / occlusion of supraclinoid portion of ICA extending to proximal portions of",
+  "discriminating_features": [
+    "bilateral stenosis / occlusion of supraclinoid portion of ICA extending to proximal portions of",
+    "large network of moyamoya vessels in basal ganglia + upper brainstem fed by basilar a. +",
+    "anastomoses between dural meningeal + leptomeningeal aa.",
+    "tiny flow voids commonly arising from basal cisterns extending into basal ganglia /",
+    "microbleeds (in 15-44%)"
+  ],
+  "other_features": {
+    "general": [
+      "bilateral stenosis / occlusion of supraclinoid portion of ICA extending to proximal portions of",
+      "large network of moyamoya vessels in basal ganglia + upper brainstem fed by basilar a. +",
+      "anastomoses between dural meningeal + leptomeningeal aa."
+    ],
+    "MR": [
+      "tiny flow voids commonly arising from basal cisterns extending into basal ganglia /",
+      "microbleeds (in 15-44%)",
+      "ischemia and infarction",
+      "NO nidus / dilated vessels",
+      "\"ivy\" sign = curvilinear high signal intensities along cortical sulci + brain surface = sulcal",
+      "marked leptomeningeal enhancement along cortical sulci"
+    ]
+  },
+  "clinical": {
+    "Cx": "in children:"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Bronchopulmonary Sequestration (DDx)",
+  "slug": "bronchopulmonary_sequestration_ddx_7e9367",
+  "chapter": "Bronchopulmonary Sequestration",
+  "source_file": "processed_clusters/bronchopulmonary_sequestration/bronchopulmonary_sequestration_ddx_7e9367.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bronchiectasis",
+      "raw": "bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "lung abscess",
+      "raw": "lung abscess",
+      "frequency": null
+    },
+    {
+      "name": "empyema",
+      "raw": "empyema",
+      "frequency": null
+    },
+    {
+      "name": "bronchial atresia",
+      "raw": "bronchial atresia",
+      "frequency": null
+    },
+    {
+      "name": "congenital lobar emphysema",
+      "raw": "congenital lobar emphysema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "fetal hydrops (? venous compression): | edema, ascites | hydrothorax (obstructed lymphatics + veins in torsed sequestration) | solid well-defined uniform hyperintense mass on T2WI"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Cerebral Amyloid Angiopathy (DDx)",
+  "slug": "cerebral_amyloid_angiopathy_ddx",
+  "chapter": "Cerebral Amyloid Angiopathy",
+  "source_file": "processed_clusters/cerebral_amyloid_angiopathy/cerebral_amyloid_angiopathy_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hypertensive hemorrhage (basal ganglia",
+      "raw": "hypertensive hemorrhage (basal ganglia",
+      "frequency": null
+    },
+    {
+      "name": "thalami",
+      "raw": "thalami",
+      "frequency": null
+    },
+    {
+      "name": "brainstem)",
+      "raw": "brainstem)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "may be associated with subarachnoid / subdural hemorrhage | leukoencephalopathy ± involvement of U-fibers | cerebral atrophy | multiple foci of marked signal loss at GRE imaging (most sensitive sequence for"
+}

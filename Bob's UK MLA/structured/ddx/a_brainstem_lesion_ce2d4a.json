@@ -1,0 +1,32 @@
+{
+  "finding": "A. BRAINSTEM LESION",
+  "slug": "a_brainstem_lesion_ce2d4a",
+  "chapter": "TRIGEMINAL NEUROPATHY",
+  "source_file": "processed_clusters/trigeminal_neuropathy/a_brainstem_lesion_ce2d4a.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vascular: infarct, AVM",
+      "raw": "Vascular: infarct, AVM",
+      "frequency": null
+    },
+    {
+      "name": "Neoplastic: glioma, metastasis",
+      "raw": "Neoplastic: glioma, metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory: multiple sclerosis (1-8%), herpes rhombencephalitis",
+      "raw": "Inflammatory: multiple sclerosis (1-8%), herpes rhombencephalitis",
+      "frequency": "8%"
+    },
+    {
+      "name": "Other: syringobulbia",
+      "raw": "Other: syringobulbia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

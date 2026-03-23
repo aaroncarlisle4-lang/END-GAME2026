@@ -1,0 +1,51 @@
+# Disease: MECKEL DIVERTICULUM
+
+**Source section:** GASTROINTESTINAL AND ABDOMINAL DISORDERS
+
+## Definition
+
+remnant of omphalomesenteric (= vitelline) duct, which usually obliterates by 5th embryonic
+
+## Key Facts
+
+- **Frequency:** 2-3% of autopsies
+- **Age:** majority in children < 10 years of age; M÷F = 1÷1
+- **Path:** true diverticulum with all layers of intestinal wall ± connection to umbilicus by fibrous
+- **Histo:** contains ectopic mucosa: gastric / pancreatic / colonic
+- **Location:** within terminal 6 feet of ileum (= 30-60-100 cm from ileocecal valve); in 94% on
+
+## Imaging Findings
+
+### CT
+
+- fluid- or air-filled blind-ending pouch (without Cx) ± particulate matter
+- isolated small bowel obstruction
+- intussusception with small bowel obstruction
+- inverted diverticulum:
+- central intraluminal area of entrapped fat
+- surrounded by thick collar of soft-tissue attenuation
+- volvulus
+- inflammatory mass attached to adjacent small bowel
+- intradiverticular enteroliths (3-10%)
+- luminal extravasation of contrast material from bleeding
+- nodular / polypoid intraluminal mass
+- small focal collection of tracer in RLQ appearing at the same time / shortly after gastric
+- tracer activity increases in intensity with time parallel to that of stomach
+- improved visualization through
+- poor visualization with use of perchlorate + atropine → depressed uptake
+- elongated, smoothly marginated, clublike, intraluminal mass parallel to long axis of distal
+- 0.5-20-cm-long blind pouch on the antimesenteric border of ileum with junctional fold
+- presence of vitelline artery (= anomalous end branch of superior mesenteric artery) is
+
+## Clinical
+
+- **N.B.:** sensitivity drops after adolescence, because patients who are asymptomatic
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

@@ -1,0 +1,27 @@
+{
+  "finding": "C. MALIGNANT TUMOR",
+  "slug": "c_malignant_tumor_d159ff",
+  "chapter": "Gallbladder Wall Thickening",
+  "source_file": "processed_clusters/gallbladder_wall_thickening/c_malignant_tumor_d159ff.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carcinoma of gallbladder: adenocarcinoma / squamous cell carcinoma",
+      "raw": "Carcinoma of gallbladder: adenocarcinoma / squamous cell carcinoma (in 59% focal)",
+      "frequency": "59%"
+    },
+    {
+      "name": "Leiomyosarcoma",
+      "raw": "Leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases: from malignant melanoma (15%), lung, kidney, esophagus, breast, carcinoid, Kaposi sarcoma, lymphoma, leukemia",
+      "raw": "Metastases: from malignant melanoma (15%), lung, kidney, esophagus, breast, carcinoid, Kaposi sarcoma, lymphoma, leukemia",
+      "frequency": "15%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

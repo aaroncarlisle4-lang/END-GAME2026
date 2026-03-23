@@ -1,0 +1,27 @@
+{
+  "finding": "Perisellar Vascular Lesion",
+  "slug": "perisellar_vascular_lesion",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/perisellar_vascular_lesion.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ICA aneurysm ◊  Giant aneurysms are those > 2.5 cm in diameter",
+      "raw": "ICA aneurysm ◊  Giant aneurysms are those > 2.5 cm in diameter",
+      "frequency": null
+    },
+    {
+      "name": "Ectatic carotid artery",
+      "raw": "Ectatic carotid artery",
+      "frequency": null
+    },
+    {
+      "name": "Carotid-cavernous sinus fistula",
+      "raw": "Carotid-cavernous sinus fistula",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  destruction of bony sella / superior orbital fissure √  calcified wall / thrombus √  CECT enhancement, nonuniform with thrombosis √  curvilinear calcifications √  encroachment upon sella turcica"
+}

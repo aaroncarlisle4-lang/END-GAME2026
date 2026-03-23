@@ -1,0 +1,92 @@
+{
+  "finding": "Intramedullary Lesion",
+  "slug": "intramedullary_lesion",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/intramedullary_lesion.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TUMOR",
+      "raw": "TUMOR",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma 60% ◊  Most common glial tumor in adults",
+      "raw": "Ependymoma 60% ◊  Most common glial tumor in adults",
+      "frequency": "60%"
+    },
+    {
+      "name": "Astrocytoma 25% ◊  Most common intramedullary tumor in children",
+      "raw": "Astrocytoma 25% ◊  Most common intramedullary tumor in children",
+      "frequency": "25%"
+    },
+    {
+      "name": "Hemangioblastoma 5%",
+      "raw": "Hemangioblastoma 5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "Oligodendroglioma 3%",
+      "raw": "Oligodendroglioma 3%",
+      "frequency": "3%"
+    },
+    {
+      "name": "Epidermoid, dermoid, teratoma 1-2%",
+      "raw": "Epidermoid, dermoid, teratoma 1-2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Ganglioglioma 1%",
+      "raw": "Ganglioglioma 1%",
+      "frequency": "1%"
+    },
+    {
+      "name": "Lipoma 1%",
+      "raw": "Lipoma 1%",
+      "frequency": "1%"
+    },
+    {
+      "name": "CYSTIC LESION",
+      "raw": "CYSTIC LESION",
+      "frequency": null
+    },
+    {
+      "name": "Syringomyelia",
+      "raw": "Syringomyelia",
+      "frequency": null
+    },
+    {
+      "name": "Hydromyelia",
+      "raw": "Hydromyelia",
+      "frequency": null
+    },
+    {
+      "name": "Reactive cyst (b)  tumoral cyst",
+      "raw": "Reactive cyst (b)  tumoral cyst",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioglioma",
+      "raw": "Ganglioglioma (in 46%)",
+      "frequency": "46%"
+    },
+    {
+      "name": "Astrocytoma",
+      "raw": "Astrocytoma (in 20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma (in 3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "Hemangioblastoma",
+      "raw": "Hemangioblastoma (2-4%)",
+      "frequency": "4%"
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   4-10% of all CNS tumors; 20% of all intraspinal tumors in adults (35% in children) √  expansion of cord √  heterogeneous signal on T2WI √  cysts + necrosis √  variable degrees of enhancement (vast majority with some enhancement) (a)  primary: Location: › cervical region: astrocytoma › thoracic region: teratoma-dermoid, astrocytoma › lumbar region: ependymoma, dermoid (b)  metastatic: eg, malignant melanoma, breast, lung √  fluid isointense to CSF √  smooth well-defined internal margins √  thinned adjacent parenchyma √  cord atrophy √  no contrast enhancement (a)  peritumoral cyst"
+}

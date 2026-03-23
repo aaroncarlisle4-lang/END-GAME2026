@@ -1,0 +1,30 @@
+{
+  "name": "PAPILLARY ADENOMA OF BILE DUCTS",
+  "slug": "papillary_adenoma_of_bile_ducts",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/papillary_adenoma_of_bile_ducts.md",
+  "definition": "very rare benign tumor of biliary tract",
+  "demographics": {
+    "Path": "usually solitary tumor / biliary papillomatosis with papillary fronds extending into",
+    "Histo": "columnar epithelium supported by connective tissue from lamina propria ± mucin",
+    "Location": "common bile duct > right / left hepatic duct"
+  },
+  "dominant_finding": "usually small intraductal mass",
+  "distribution": "common bile duct > right / left hepatic duct",
+  "discriminating_features": [
+    "usually small intraductal mass",
+    "visualized at cross-sectional imaging only if large enough",
+    "segmental biliary ductal dilatation"
+  ],
+  "other_features": {
+    "general": [
+      "usually small intraductal mass",
+      "visualized at cross-sectional imaging only if large enough",
+      "segmental biliary ductal dilatation"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "high rate of recurrence after surgical resection",
+    "Cx": "malignant transformation (rare in solitary adenoma, significant risk in papillomatosis))"
+  }
+}

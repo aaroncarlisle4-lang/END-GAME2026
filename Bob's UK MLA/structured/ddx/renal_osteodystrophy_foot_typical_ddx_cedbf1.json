@@ -1,0 +1,22 @@
+{
+  "finding": "Renal Osteodystrophy — Foot (typical) (DDx)",
+  "slug": "renal_osteodystrophy_foot_typical_ddx_cedbf1",
+  "chapter": "Renal Osteodystrophy",
+  "source_file": "processed_clusters/renal_osteodystrophy/renal_osteodystrophy_foot_typical_ddx_cedbf1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "gout",
+      "raw": "gout (presence of urate crystals)",
+      "frequency": null
+    },
+    {
+      "name": "pigmented villonodular synovitis",
+      "raw": "pigmented villonodular synovitis (monoarticular)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "splenomegaly (1-5%) | juxtaarticular subcortical lytic lesions with well-defined sclerotic margins | relative lack of cartilage loss, osteoporosis, joint disruption"
+}

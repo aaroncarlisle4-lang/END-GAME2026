@@ -1,0 +1,37 @@
+{
+  "finding": "Esophageal Cancer (DDx)",
+  "slug": "esophageal_cancer_ddx",
+  "chapter": "Esophageal Cancer",
+  "source_file": "processed_clusters/esophageal_cancer/esophageal_cancer_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibrovascular polyp",
+      "raw": "fibrovascular polyp",
+      "frequency": null
+    },
+    {
+      "name": "myofibroma",
+      "raw": "myofibroma",
+      "frequency": null
+    },
+    {
+      "name": "pedunculated lipoma",
+      "raw": "pedunculated lipoma",
+      "frequency": null
+    },
+    {
+      "name": "leiomyoma",
+      "raw": "leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "expands esophageal lumen to an average diameter of 8 cm WITHOUT obstruction | ulceration rare; may be polypoid + pedunculated | expansile hypoattenuating intraluminal mass | ± focal esophageal wall thickening at attachment site"
+}

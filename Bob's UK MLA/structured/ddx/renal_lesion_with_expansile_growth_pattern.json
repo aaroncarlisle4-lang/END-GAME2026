@@ -1,0 +1,112 @@
+{
+  "finding": "Renal Lesion with Expansile Growth Pattern",
+  "slug": "renal_lesion_with_expansile_growth_pattern",
+  "chapter": "B. VASCULAR",
+  "source_file": "processed_clusters/b_vascular/renal_lesion_with_expansile_growth_pattern.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Oncocytoma",
+      "raw": "Oncocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Juxtaglomerular tumor",
+      "raw": "Juxtaglomerular tumor",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic tumor: eg, lymphoma",
+      "raw": "Metastatic tumor: eg, lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Mesenchymal tumor",
+      "raw": "Mesenchymal tumor",
+      "frequency": null
+    },
+    {
+      "name": "NEOPLASM (a)  lymphoproliferative",
+      "raw": "NEOPLASM (a)  lymphoproliferative",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma / leukemia",
+      "raw": "Lymphoma / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Extramedullary plasmacytoma (b)  epithelial tumor of renal parenchyma",
+      "raw": "Extramedullary plasmacytoma (b)  epithelial tumor of renal parenchyma",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma (unusual)",
+      "frequency": null
+    },
+    {
+      "name": "High-grade and sarcomatoid type of RCC (c)  epithelial tumors of the renal pelvis",
+      "raw": "High-grade and sarcomatoid type of RCC (c)  epithelial tumors of the renal pelvis",
+      "frequency": null
+    },
+    {
+      "name": "Invasive transitional cell carcinoma",
+      "raw": "Invasive transitional cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma (d)  medullary tumor of uncertain cell origin",
+      "raw": "Squamous cell carcinoma (d)  medullary tumor of uncertain cell origin",
+      "frequency": null
+    },
+    {
+      "name": "Collecting duct carcinoma",
+      "raw": "Collecting duct carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Renal medullary carcinoma",
+      "raw": "Renal medullary carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mesoblastic nephroma",
+      "raw": "Mesoblastic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdoid tumor of the kidney",
+      "raw": "Rhabdoid tumor of the kidney",
+      "frequency": null
+    },
+    {
+      "name": "Nephroblastomatosis",
+      "raw": "Nephroblastomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Primitive neuroectodermal tumor",
+      "raw": "Primitive neuroectodermal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor (unusual)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Renal Lesions with Infiltrative Growth Pattern Imaging hallmarks: √  growth initially respects renal contour √  invasion of normal structures √  poorly defined interface between normal renal parenchyma and lesion √  enlarged kidney with preservation of reniform shape IVP: √  decreased / absent nephrogram Angio: √  vascular encasement, pruning, amputation √  no vascular displacement CT: √  poorly marginated area of diminished enhancement √  encasement of collecting system without displacement √  replacement of renal sinus fat US: √  poorly circumscribed hypo- / hyperechoic regions √  mass arise"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "PARATHYROID ADENOMA",
+  "slug": "parathyroid_adenoma",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/parathyroid_adenoma.md",
+  "definition": "",
+  "demographics": {
+    "Location": "posterior to thyroid gland; ectopic in 5-15%"
+  },
+  "dominant_finding": "hypointense on T1WI, hyperintense on T2WI + STIR",
+  "distribution": "posterior to thyroid gland; ectopic in 5-15%",
+  "discriminating_features": [
+    "well-defined oval hypoechoic mass",
+    "multilobulated mass ± echogenic areas (in large adenoma)",
+    "hypointense on T1WI, hyperintense on T2WI + STIR",
+    "increased radiotracer uptake"
+  ],
+  "other_features": {
+    "general": [
+      "well-defined oval hypoechoic mass",
+      "multilobulated mass ± echogenic areas (in large adenoma)"
+    ],
+    "MR": [
+      "hypointense on T1WI, hyperintense on T2WI + STIR",
+      "increased radiotracer uptake"
+    ]
+  },
+  "clinical": {}
+}

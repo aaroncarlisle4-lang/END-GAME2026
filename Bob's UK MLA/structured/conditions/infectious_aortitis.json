@@ -1,0 +1,34 @@
+{
+  "name": "INFECTIOUS AORTITIS",
+  "slug": "infectious_aortitis",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/infectious_aortitis.md",
+  "definition": "inflammation of aorta caused by bacterium / virus / fungus LUETIC AORTITIS",
+  "demographics": {
+    "Prevalence": "in 10-15% of untreated patients (accounts for death in ⅓)",
+    "Path": "periaortitis (via lymphatics), mesaortitis (via vasa vasorum) = primarily disease of",
+    "Age": "40-65 years"
+  },
+  "dominant_finding": "saccular (75%) / fusiform (25%) dilatation of ascending aorta:",
+  "distribution": "",
+  "discriminating_features": [
+    "thickening of aortic wall + intramural gas (KEY FEATURE)",
+    "thick aortic wall ← fibrous + inflammatory tissue",
+    "saccular (75%) / fusiform (25%) dilatation of ascending aorta:",
+    "small saccular aneurysm often protrudes from fusiform aneurysm",
+    "fine pencil-like calcifications of intima (15-20%) in ascending aorta, late in disease"
+  ],
+  "other_features": {
+    "general": [
+      "thickening of aortic wall + intramural gas (KEY FEATURE)",
+      "thick aortic wall ← fibrous + inflammatory tissue",
+      "saccular (75%) / fusiform (25%) dilatation of ascending aorta:",
+      "small saccular aneurysm often protrudes from fusiform aneurysm",
+      "fine pencil-like calcifications of intima (15-20%) in ascending aorta, late in disease"
+    ]
+  },
+  "clinical": {
+    "N.B.": "aorta may appear normal on imaging",
+    "Rx": "empiric antibiotic therapy against S. aureus and gram-negative rods"
+  }
+}

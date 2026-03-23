@@ -1,0 +1,42 @@
+{
+  "finding": "A. INFECTION",
+  "slug": "a_infection_1",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/a_infection_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bacterial bronchopneumonia",
+      "raw": "Bacterial bronchopneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Fungal pneumonia:",
+      "raw": "Fungal pneumonia:",
+      "frequency": null
+    },
+    {
+      "name": "Viral pneumonia",
+      "raw": "Viral pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis (primary infection)",
+      "frequency": null
+    },
+    {
+      "name": "Rocky Mountain spotted fever",
+      "raw": "Rocky Mountain spotted fever",
+      "frequency": null
+    },
+    {
+      "name": "Pneumocystis carinii",
+      "raw": "Pneumocystis carinii",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "histoplasmosis, blastomycosis, actinomycosis, coccidioidomycosis, aspergillosis, cryptococcosis, mucormycosis, sporotrichosis"
+}

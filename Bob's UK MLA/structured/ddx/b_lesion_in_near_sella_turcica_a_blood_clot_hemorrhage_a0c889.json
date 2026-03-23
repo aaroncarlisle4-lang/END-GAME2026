@@ -1,0 +1,87 @@
+{
+  "finding": "B. LESION IN / NEAR SELLA TURCICA (a) blood clot / hemorrhage",
+  "slug": "b_lesion_in_near_sella_turcica_a_blood_clot_hemorrhage_a0c889",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/b_lesion_in_near_sella_turcica_a_blood_clot_hemorrhage_a0c889.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pituitary apoplexy",
+      "raw": "Pituitary apoplexy",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm (b)  lesion with high protein content",
+      "raw": "Aneurysm (b)  lesion with high protein content",
+      "frequency": null
+    },
+    {
+      "name": "Rathke cleft cyst",
+      "raw": "Rathke cleft cyst",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Mucocele",
+      "raw": "Mucocele",
+      "frequency": null
+    },
+    {
+      "name": "Cholesterol granuloma (c)  lesion with high fat content",
+      "raw": "Cholesterol granuloma (c)  lesion with high fat content",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma of floor of 3rd ventricle, infundibulum, adjacent cranial nn.",
+      "raw": "Lipoma of floor of 3rd ventricle, infundibulum, adjacent cranial nn.",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lipoblastic meningioma (c)  intratumoral calcifications depending on degree of mineralization",
+      "raw": "Lipoblastic meningioma (c)  intratumoral calcifications depending on degree of mineralization",
+      "frequency": null
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Cartilaginous tumor (chondroma, chondrosarcoma) (c)  others",
+      "raw": "Cartilaginous tumor (chondroma, chondrosarcoma) (c)  others",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary abscess",
+      "raw": "Pituitary abscess (very rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Excess manganese",
+      "raw": "Excess manganese",
+      "frequency": null
+    },
+    {
+      "name": "parenteral nutrition / chronic liver deficiency",
+      "raw": "parenteral nutrition / chronic liver deficiency",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  bilateral hyperintense T1 signal in adenohypophysis + globus pallidus"
+}

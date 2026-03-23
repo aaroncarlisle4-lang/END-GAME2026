@@ -1,0 +1,57 @@
+{
+  "finding": "B. URETERAL WALL",
+  "slug": "b_ureteral_wall",
+  "chapter": "D. COMPRESSION",
+  "source_file": "processed_clusters/d_compression/b_ureteral_wall.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid infiltration",
+      "raw": "Amyloid infiltration",
+      "frequency": null
+    },
+    {
+      "name": "Ureteral tumor",
+      "raw": "Ureteral tumor",
+      "frequency": null
+    },
+    {
+      "name": "Phlebolith in gonadal vein",
+      "raw": "Phlebolith in gonadal vein (multiple, not along course of ureter, centrally radiolucent)",
+      "frequency": null
+    },
+    {
+      "name": "Orally administered contrast material trapped in appendix / diverticulum",
+      "raw": "Orally administered contrast material trapped in appendix / diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid cyst with calcification",
+      "raw": "Dermoid cyst with calcification",
+      "frequency": null
+    },
+    {
+      "name": "Silastic fallopian tube band",
+      "raw": "Silastic fallopian tube band",
+      "frequency": null
+    },
+    {
+      "name": "Radiation seeds used for prostate cancer",
+      "raw": "Radiation seeds used for prostate cancer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DDx:"
+}

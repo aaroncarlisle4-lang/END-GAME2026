@@ -1,0 +1,92 @@
+{
+  "finding": "Interstitial Calcinosis",
+  "slug": "interstitial_calcinosis",
+  "chapter": "GENERALIZED CALCINOSIS",
+  "source_file": "processed_clusters/generalized_calcinosis/interstitial_calcinosis.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "firm white commonly ulcerating dermal papules / plaques / subcutaneous nodules extruding a chalky white material of hydroxyapatite",
+      "raw": "firm white commonly ulcerating dermal papules / plaques / subcutaneous nodules extruding a chalky white material of hydroxyapatite",
+      "frequency": null
+    },
+    {
+      "name": "Acrosclerosis: granular deposits around joints of fingers and toes, fingertips",
+      "raw": "Acrosclerosis: granular deposits around joints of fingers and toes, fingertips",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma + CREST syndrome: acrosclerosis and absorption of ends of distal phalanges",
+      "raw": "Scleroderma + CREST syndrome: acrosclerosis and absorption of ends of distal phalanges",
+      "frequency": null
+    },
+    {
+      "name": "Dermatomyositis: extensive subcutaneous deposits",
+      "raw": "Dermatomyositis: extensive subcutaneous deposits",
+      "frequency": null
+    },
+    {
+      "name": "Varicosities: particularly in calf",
+      "raw": "Varicosities: particularly in calf",
+      "frequency": null
+    },
+    {
+      "name": "1° Hyperparathyroidism: infrequently periarticular calcinosis",
+      "raw": "1° Hyperparathyroidism: infrequently periarticular calcinosis",
+      "frequency": null
+    },
+    {
+      "name": "Renal osteodystrophy with 2° hyperparathyroidism: extensive vascular deposits even in young individuals",
+      "raw": "Renal osteodystrophy with 2° hyperparathyroidism: extensive vascular deposits even in young individuals",
+      "frequency": null
+    },
+    {
+      "name": "Hypoparathyroidism: occasionally around joints; symmetrical in basal ganglia",
+      "raw": "Hypoparathyroidism: occasionally around joints; symmetrical in basal ganglia",
+      "frequency": null
+    },
+    {
+      "name": "Vitamin D intoxication: periarticular in rheumatoid arthritis (puttylike); calcium deposit in tophi",
+      "raw": "Vitamin D intoxication: periarticular in rheumatoid arthritis (puttylike); calcium deposit in tophi",
+      "frequency": null
+    },
+    {
+      "name": "Myositis ossificans progressiva / circumscripta",
+      "raw": "Myositis ossificans progressiva / circumscripta",
+      "frequency": null
+    },
+    {
+      "name": "Paraosteoarthropathy",
+      "raw": "Paraosteoarthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Soft-tissue osteosarcoma",
+      "raw": "Soft-tissue osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Parosteal osteosarcoma",
+      "raw": "Parosteal osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Posttraumatic periostitis = periosteoma",
+      "raw": "Posttraumatic periostitis = periosteoma",
+      "frequency": null
+    },
+    {
+      "name": "Surgical scar",
+      "raw": "Surgical scar",
+      "frequency": null
+    },
+    {
+      "name": "Severely burned patient",
+      "raw": "Severely burned patient",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Calcinosis Circumscripta Calcinosis Universalis =  progressive disease of unknown origin Age:  children + young adults Associated with:   poly- and dermatomyositis √  diffuse plaque- / sheetlike calcium deposits in skin and subcutis; sometimes in tendons + muscles + fascia √  NO true bone formation Soft-tissue Ossification =  formation of trabecular bone"
+}

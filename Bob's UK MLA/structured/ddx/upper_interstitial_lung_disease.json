@@ -1,0 +1,157 @@
+{
+  "finding": "Upper Interstitial Lung Disease",
+  "slug": "upper_interstitial_lung_disease",
+  "chapter": "I. Vasculitis",
+  "source_file": "processed_clusters/i_vasculitis/upper_interstitial_lung_disease.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Postprimary TB",
+      "raw": "Postprimary TB (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Silicosis (common) (b)  chronic slowly progressive with volume loss",
+      "raw": "Silicosis (common) (b)  chronic slowly progressive with volume loss",
+      "frequency": "common"
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Sulfa drugs (rare) (c)  chronic slowly progressive without volume loss",
+      "raw": "Sulfa drugs (rare) (c)  chronic slowly progressive without volume loss",
+      "frequency": "rare"
+    },
+    {
+      "name": "Extrinsic allergic alveolitis",
+      "raw": "Extrinsic allergic alveolitis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration pneumonia",
+      "raw": "Aspiration pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Postradiation pneumonitis",
+      "raw": "Postradiation pneumonitis",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent Pneumocystis carinii pneumonia (PCP) under aerosolized pentamidine prophylaxis",
+      "raw": "Recurrent Pneumocystis carinii pneumonia (PCP) under aerosolized pentamidine prophylaxis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis (postprimary)",
+      "frequency": null
+    },
+    {
+      "name": "Chronic extrinsic alveolitis",
+      "raw": "Chronic extrinsic alveolitis",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Progressive massive fibrosis",
+      "raw": "Progressive massive fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "dyspnea",
+      "raw": "dyspnea (primary complaint)",
+      "frequency": null
+    },
+    {
+      "name": "dry basilar rales / crackles that fail to clear with coughing",
+      "raw": "dry basilar rales / crackles that fail to clear with coughing",
+      "frequency": null
+    },
+    {
+      "name": "Hamman-Rich, Hemosiderosis",
+      "raw": "Hamman-Rich, Hemosiderosis",
+      "frequency": null
+    },
+    {
+      "name": "Infection, Irradiation, Idiopathic",
+      "raw": "Infection, Irradiation, Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Dust, Drugs",
+      "raw": "Dust, Drugs",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma, Edema",
+      "raw": "Eosinophilic granuloma, Edema",
+      "frequency": null
+    },
+    {
+      "name": "Fungal, Farmer's lung",
+      "raw": "Fungal, Farmer's lung",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration",
+      "raw": "Aspiration (oil), Arthritis (rheumatoid, ankylosing spondylitis)",
+      "frequency": null
+    },
+    {
+      "name": "Collagen vascular disease",
+      "raw": "Collagen vascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Tumor, TB, Tuberous sclerosis",
+      "raw": "Tumor, TB, Tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis, Scleroderma",
+      "raw": "Sarcoidosis, Scleroderma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  chronic slowly progressive ± volume loss Chronic Diffuse Infiltrative Lung Disease =  CHRONIC INTERSTITIAL LUNG DISEASE = GENERALIZED INTERSTITIAL LUNG DISEASE Prevalence:   up to 15% of pulmonary conditions Cause:  > 200 described disorders; in only 25-30% known / established etiology; 15-20 diseases comprise > 90% of cases CXR: ◊  Difficult to characterize due to similar findings ◊  Differentiation into alveolar + interstitial disease is unreliable as \"interstitial disease\" invariably involves alveoli + vice versa √  ± nonspecific abnormality"
+}

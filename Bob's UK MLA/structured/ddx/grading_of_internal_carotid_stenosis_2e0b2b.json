@@ -1,0 +1,88 @@
+{
+  "finding": "Grading of Internal Carotid Stenosis",
+  "slug": "grading_of_internal_carotid_stenosis_2e0b2b",
+  "chapter": "CALCIFIC LONGUS COLLI TENDINITIS",
+  "source_file": "processed_clusters/calcific_longus_colli_tendinitis/grading_of_internal_carotid_stenosis_2e0b2b.md",
+  "quality_score": 0.967,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "Calcification > 1 cm in length obscures vessel lumen ◊  A jet associated with a stenosis of > 70% usually travels at least 1 cm downstream allowing conclusion about degree of obscured stenosis!",
+      "raw": "Calcification > 1 cm in length obscures vessel lumen ◊  A jet associated with a stenosis of > 70% usually travels at least 1 cm downstream allowing conclusion about degree of obscured stenosis!",
+      "frequency": "70%"
+    },
+    {
+      "name": "Contralateral high-grade stenosis =  ipsilateral ICA functions as collateral → increased blood flow velocities ◊  Use velocity ratios to compensate for this effect!",
+      "raw": "Contralateral high-grade stenosis =  ipsilateral ICA functions as collateral → increased blood flow velocities ◊  Use velocity ratios to compensate for this effect!",
+      "frequency": null
+    },
+    {
+      "name": "Tortuosity of artery",
+      "raw": "Tortuosity of artery",
+      "frequency": null
+    },
+    {
+      "name": "Increased depth of artery",
+      "raw": "Increased depth of artery",
+      "frequency": null
+    },
+    {
+      "name": "\"High\" bifurcation → possibly obscured by mandible",
+      "raw": "\"High\" bifurcation → possibly obscured by mandible",
+      "frequency": null
+    },
+    {
+      "name": "NORMAL",
+      "raw": "NORMAL (0% diameter reduction)",
+      "frequency": "0%"
+    },
+    {
+      "name": "MINIMAL DISEASE",
+      "raw": "MINIMAL DISEASE (0-15% diameter reduction)",
+      "frequency": "15%"
+    },
+    {
+      "name": "MODERATE DISEASE",
+      "raw": "MODERATE DISEASE (16-49% diameter reduction)",
+      "frequency": "49%"
+    },
+    {
+      "name": "SEVERE DISEASE = hemodynamically SIGNIFICANT LESION (a)  50-69% stenosis",
+      "raw": "SEVERE DISEASE = hemodynamically SIGNIFICANT LESION (a)  50-69% stenosis",
+      "frequency": "69%"
+    },
+    {
+      "name": "CRITICAL STENOSIS",
+      "raw": "CRITICAL STENOSIS (> 95% diameter reduction)",
+      "frequency": "95%"
+    },
+    {
+      "name": "OCCLUSION",
+      "raw": "OCCLUSION",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Calcification > 1 cm in length obscures vessel lumen ◊  A jet associated with a stenosis of > 70% usually travels at least 1 cm downstream allowing conclusion about degree of obscured stenosis!": [
+      "=  severity of stenosis is primarily graded as a ratio of lumen diameter narrowing NOT reduction in cross sectional area Limitations of assessment by US: Accuracy of duplex scans (compared to arteriography) for ICA lesions: 91-94% sensitivity, 85-99% specificity, 90-95% accuracy for > 50% ICA diameter stenosis"
+    ],
+    "Contralateral high-grade stenosis =  ipsilateral ICA functions as collateral → increased blood flow velocities ◊  Use velocity ratios to compensate for this effect!": [
+      "peak systolic velocity (PSV) < 125 cm/sec"
+    ],
+    "Tortuosity of artery": [],
+    "Increased depth of artery": [],
+    "\"High\" bifurcation → possibly obscured by mandible": [],
+    "NORMAL": [],
+    "MINIMAL DISEASE": [
+      "minimal amount of plaque",
+      "minimal spectral broadening in deceleration phase of systole"
+    ],
+    "MODERATE DISEASE": [
+      "moderate amount of plaque"
+    ],
+    "SEVERE DISEASE = hemodynamically SIGNIFICANT LESION (a)  50-69% stenosis": [],
+    "CRITICAL STENOSIS": [],
+    "OCCLUSION": []
+  },
+  "context": "=  severity of stenosis is primarily graded as a ratio of lumen diameter narrowing NOT reduction in cross sectional area Limitations of assessment by US: Accuracy of duplex scans (compared to arteriography) for ICA lesions: 91-94% sensitivity, 85-99% specificity, 90-95% accuracy for > 50% ICA diameter stenosis √  no evidence of plaque √  peak systolic velocity (PSV) < 125 cm/sec √  no spectral broadening (= clear window under systole) √  minimal amount of plaque √  PSV < 125 cm/sec √  minimal spectral broadening in deceleration phase of systole √  moderate amount of plaque √  peak systole < 12"
+}

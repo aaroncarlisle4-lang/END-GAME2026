@@ -1,0 +1,34 @@
+{
+  "name": "FOREIGN BODY INGESTION",
+  "slug": "foreign_body_ingestion",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/foreign_body_ingestion.md",
+  "definition": "",
+  "demographics": {
+    "Location": "predominantly in ileocecal region, rectosigmoid, areas of bowel"
+  },
+  "dominant_finding": "wood difficult to recognize:",
+  "distribution": "predominantly in ileocecal region, rectosigmoid, areas of bowel",
+  "discriminating_features": [
+    "wood difficult to recognize:",
+    "air attenuation in acute phase mimicking bubbles of gas",
+    "becoming progressively isoattenuating in subacute phase",
+    "hyperattenuating ← granulomatous reaction",
+    "calcified in chronic phase"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "wood difficult to recognize:",
+      "air attenuation in acute phase mimicking bubbles of gas",
+      "becoming progressively isoattenuating in subacute phase",
+      "hyperattenuating ← granulomatous reaction",
+      "calcified in chronic phase",
+      "± pneumoperitoneum (rare ← progressive impaction of foreign body in intestinal wall"
+    ]
+  },
+  "clinical": {
+    "Cx": "(1)  Perforation(< 1%): fish / chicken bone, toothpick",
+    "Rx": "most foreign bodies are amenable to endoscopic removal"
+  }
+}

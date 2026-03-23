@@ -1,0 +1,34 @@
+{
+  "name": "CSF FISTULA",
+  "slug": "csf_fistula",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/csf_fistula.md",
+  "definition": "characterized by egress of CSF from intracranial cavity through abnormal communication",
+  "demographics": {
+    "Location": "cribriform plate along course of anterior ethmoid artery (most common), lateral"
+  },
+  "dominant_finding": "bone defect / dehiscence at skull base",
+  "distribution": "cribriform plate along course of anterior ethmoid artery (most common), lateral",
+  "discriminating_features": [
+    "bone defect / dehiscence at skull base",
+    "adjacent prominent arachnoid granulations",
+    "air-fluid level / opacification of contiguous sinus / middle ear / mastoid",
+    "pneumocephalus",
+    "lobular / nondependent area of soft-tissue opacification (meningocele,"
+  ],
+  "other_features": {
+    "general": [
+      "bone defect / dehiscence at skull base",
+      "adjacent prominent arachnoid granulations",
+      "air-fluid level / opacification of contiguous sinus / middle ear / mastoid",
+      "pneumocephalus",
+      "lobular / nondependent area of soft-tissue opacification (meningocele,",
+      "hyperintense CSF fistulous tract",
+      "CSF collection = meningocele",
+      "extradural brain = meningoencephalocele",
+      "secondary gliosis of herniated brain",
+      "dural enhancement in stalk of meningoencephalocele"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Cyst Aspiration",
+  "slug": "cyst_aspiration_729c79",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/breast_cyst/cyst_aspiration_729c79.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "inspection of cyst fluid:",
+      "raw": "inspection of cyst fluid:",
+      "frequency": null
+    },
+    {
+      "name": "Fluid without blood should be discarded",
+      "raw": "Fluid without blood should be discarded",
+      "frequency": null
+    },
+    {
+      "name": "Bloody fluid should be examined cytologically",
+      "raw": "Bloody fluid should be examined cytologically",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  normal: turbid greenish / grayish / black fluid (b)  abnormal: straw-colored clear fluid / dark blood √  needle moves within nonaspiratable complex cyst Processing of fluid:"
+}

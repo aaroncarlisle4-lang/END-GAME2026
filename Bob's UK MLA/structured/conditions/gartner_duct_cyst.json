@@ -1,0 +1,34 @@
+{
+  "name": "GARTNER DUCT CYST",
+  "slug": "gartner_duct_cyst",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/gartner_duct_cyst.md",
+  "definition": "secretory retention cyst of remnant mesonephric duct",
+  "demographics": {
+    "Frequency": "1-2%",
+    "Histo": "lined by nonmucinous flat cuboidal / low columnar epithelium",
+    "Size": "usually < 2 cm"
+  },
+  "dominant_finding": "well-defined round lesion with fluid contents:",
+  "distribution": "",
+  "discriminating_features": [
+    "well-defined round lesion with fluid contents:",
+    "T2-hyperintense + T1-hypointense fluid",
+    "hemorrhagic / proteinaceous contents hypointense on T2WI + hyperintense on T1WI",
+    "may contain septa",
+    "large cyst may displace ureter upward / protrude through introitus"
+  ],
+  "other_features": {
+    "general": [
+      "well-defined round lesion with fluid contents:",
+      "T2-hyperintense + T1-hypointense fluid",
+      "hemorrhagic / proteinaceous contents hypointense on T2WI + hyperintense on T1WI",
+      "may contain septa",
+      "large cyst may displace ureter upward / protrude through introitus"
+    ]
+  },
+  "clinical": {
+    "Cx": "dyspareunia; interference with vaginal delivery",
+    "Rx": "cyst aspiration; tetracycline sclerotherapy; surgical excision"
+  }
+}

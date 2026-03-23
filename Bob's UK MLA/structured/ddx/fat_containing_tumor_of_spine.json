@@ -1,0 +1,32 @@
+{
+  "finding": "Fat-containing Tumor of Spine",
+  "slug": "fat_containing_tumor_of_spine",
+  "chapter": "Average age: 4th decade; M > F",
+  "source_file": "processed_clusters/average_age_4th_decade_m_f/fat_containing_tumor_of_spine.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vertebral hemangioma",
+      "raw": "Vertebral hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Schmorl node",
+      "raw": "Schmorl node",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

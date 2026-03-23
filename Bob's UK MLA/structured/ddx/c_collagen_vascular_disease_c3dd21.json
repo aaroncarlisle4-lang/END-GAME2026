@@ -1,0 +1,32 @@
+{
+  "finding": "C. COLLAGEN-VASCULAR DISEASE",
+  "slug": "c_collagen_vascular_disease_c3dd21",
+  "chapter": "F. DRUG REACTIONS",
+  "source_file": "processed_clusters/f_drug_reactions/c_collagen_vascular_disease_c3dd21.md",
+  "quality_score": 0.633,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Rheumatoid lung",
+      "raw": "Rheumatoid lung",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis: upper lobes",
+      "raw": "Ankylosing spondylitis: upper lobes",
+      "frequency": null
+    },
+    {
+      "name": "SLE: rarely produces honeycombing",
+      "raw": "SLE: rarely produces honeycombing",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

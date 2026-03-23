@@ -1,0 +1,27 @@
+{
+  "finding": "Drug-Induced Msk Anomalies — appendicular skeleton (DDx)",
+  "slug": "drug_induced_msk_anomalies_appendicular_skeleton_ddx_58f2e9",
+  "chapter": "Drug-Induced Msk Anomalies",
+  "source_file": "processed_clusters/drug_induced_msk_anomalies/drug_induced_msk_anomalies_appendicular_skeleton_ddx_58f2e9.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Caffey disease (mandibular involvement",
+      "raw": "Caffey disease (mandibular involvement",
+      "frequency": null
+    },
+    {
+      "name": "fever",
+      "raw": "fever",
+      "frequency": null
+    },
+    {
+      "name": "> 4 months of age)",
+      "raw": "> 4 months of age)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cortical thickening of tubular bones | cupping + fraying of metaphyses | irregularity of growth plates | premature fusion of ossification centers"
+}

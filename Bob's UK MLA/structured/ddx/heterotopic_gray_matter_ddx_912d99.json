@@ -1,0 +1,27 @@
+{
+  "finding": "Heterotopic Gray Matter (DDx)",
+  "slug": "heterotopic_gray_matter_ddx_912d99",
+  "chapter": "Heterotopic Gray Matter",
+  "source_file": "processed_clusters/heterotopic_gray_matter/heterotopic_gray_matter_ddx_912d99.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "subependymal spread of neoplasm",
+      "raw": "subependymal spread of neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "subependymal hemorrhage",
+      "raw": "subependymal hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "vascular malformation",
+      "raw": "vascular malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "single / multiple bilateral subependymal nodules along lateral ventricles | isointense with gray matter on all sequences, NO surrounding edema, NO contrast"
+}

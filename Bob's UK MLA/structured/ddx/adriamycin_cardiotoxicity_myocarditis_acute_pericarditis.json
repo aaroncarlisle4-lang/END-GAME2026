@@ -1,0 +1,122 @@
+{
+  "finding": "Adriamycin® cardiotoxicity, myocarditis, acute pericarditis",
+  "slug": "adriamycin_cardiotoxicity_myocarditis_acute_pericarditis",
+  "chapter": "HEART SCINTIGRAPHY",
+  "source_file": "processed_clusters/heart_scintigraphy/adriamycin_cardiotoxicity_myocarditis_acute_pericarditis.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Previous injury: left ventricular aneurysm, mural thrombus, unstable angina, previous infarct with persistent uptake",
+      "raw": "Previous injury: left ventricular aneurysm, mural thrombus, unstable angina, previous infarct with persistent uptake",
+      "frequency": null
+    },
+    {
+      "name": "Calcified heart valves / calcified coronary arteries (rare) / chronic pericarditis",
+      "raw": "Calcified heart valves / calcified coronary arteries (rare) / chronic pericarditis",
+      "frequency": "rare"
+    },
+    {
+      "name": "Cardiomyopathy: eg, amyloidosis",
+      "raw": "Cardiomyopathy: eg, amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Extracardiac causes:",
+      "raw": "Extracardiac causes:",
+      "frequency": null
+    },
+    {
+      "name": "Soft-tissue uptake: breast tumor / inflammation, chest wall injury, paddle burns from cardioversion, surgical drain, lung tumor",
+      "raw": "Soft-tissue uptake: breast tumor / inflammation, chest wall injury, paddle burns from cardioversion, surgical drain, lung tumor",
+      "frequency": null
+    },
+    {
+      "name": "Osseous: calcified costal cartilage (most common), lesions in rib / sternum",
+      "raw": "Osseous: calcified costal cartilage (most common), lesions in rib / sternum",
+      "frequency": "most common"
+    },
+    {
+      "name": "Increased blood pool activity secondary to renal dysfunction / poor labeling technique",
+      "raw": "Increased blood pool activity secondary to renal dysfunction / poor labeling technique (improvement on delayed images)",
+      "frequency": null
+    },
+    {
+      "name": "Subendocardial infarction",
+      "raw": "Subendocardial infarction (extensive)",
+      "frequency": null
+    },
+    {
+      "name": "Cardiomyopathy / myocarditis",
+      "raw": "Cardiomyopathy / myocarditis",
+      "frequency": null
+    },
+    {
+      "name": "Unstable angina",
+      "raw": "Unstable angina",
+      "frequency": null
+    },
+    {
+      "name": "Blood pool activity",
+      "raw": "Blood pool activity",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "FALSE NEGATIVES",
+      "raw": "FALSE NEGATIVES (5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Myocardial metastasis",
+      "raw": "Myocardial metastasis",
+      "frequency": null
+    },
+    {
+      "name": "PERSISTENTLY POSITIVE SCAN",
+      "raw": "PERSISTENTLY POSITIVE SCAN (> 2 weeks)",
+      "frequency": null
+    },
+    {
+      "name": "Normal",
+      "raw": "Normal",
+      "frequency": null
+    },
+    {
+      "name": "L-R shunt Indication:   ASD, VSD, AV canal, aortopulmonic window, rupture of sinus of Valsalva aneurysm",
+      "raw": "L-R shunt Indication:   ASD, VSD, AV canal, aortopulmonic window, rupture of sinus of Valsalva aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "= systemic circulation; QP ÷ QS = area A / area (A - B) > 1.2",
+      "raw": "= systemic circulation; QP ÷ QS = area A / area (A - B) > 1.2",
+      "frequency": null
+    },
+    {
+      "name": "R-L shunt",
+      "raw": "R-L shunt",
+      "frequency": null
+    },
+    {
+      "name": "Radiopharmaceutical breakdown",
+      "raw": "Radiopharmaceutical breakdown",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic cirrhosis abnormal pulmonary vascular channels bypassing the lung",
+      "raw": "Hepatic cirrhosis abnormal pulmonary vascular channels bypassing the lung (in 10- 70%)",
+      "frequency": "70%"
+    },
+    {
+      "name": "Pulmonary AVM",
+      "raw": "Pulmonary AVM",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  ongoing myocardial necrosis indicating poor prognosis, may continue on to cardiac aneurysm, repeat infarction, cardiac death ›  in 77% of persistent / unstable angina pectoris ›  in 41% of compensated congestive heart failure ›  in 51% of ECG evidence of ventricular dyssynergy Prognosis:   the larger the area, the worse the mortality + morbidity 99mTc-Antimyosin Fab Fragments =  specific marker for myocyte damage =  Fab fragments of an antibody raised against water-insoluble heavy chains of cardiac myosin exposed due to necrosis Sensitivity:   95% √  uptake ONLY in acute infarct with decrea"
+}

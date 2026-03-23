@@ -1,0 +1,32 @@
+{
+  "finding": "B. CONGENITAL",
+  "slug": "b_congenital_1",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/b_congenital_1.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Atresia",
+      "raw": "Atresia",
+      "frequency": null
+    },
+    {
+      "name": "Hypoplasia: corrected TGA",
+      "raw": "Hypoplasia: corrected TGA",
+      "frequency": null
+    },
+    {
+      "name": "Unroofed coronary sinus",
+      "raw": "Unroofed coronary sinus",
+      "frequency": null
+    },
+    {
+      "name": "CHD: corrected TGA, tetralogy of Fallot, Ebstein",
+      "raw": "CHD: corrected TGA, tetralogy of Fallot, Ebstein",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

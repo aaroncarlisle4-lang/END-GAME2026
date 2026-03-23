@@ -1,0 +1,57 @@
+{
+  "finding": "Thoracoacromial a.",
+  "slug": "thoracoacromial_a_6d73a2",
+  "chapter": "Axillary Artery",
+  "source_file": "processed_clusters/axillary_artery/thoracoacromial_a_6d73a2.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Segment: lateral to pectoralis minor m.",
+      "raw": "Segment: lateral to pectoralis minor m.",
+      "frequency": null
+    },
+    {
+      "name": "Subscapular a.",
+      "raw": "Subscapular a.",
+      "frequency": null
+    },
+    {
+      "name": "Anterior humeral circumflex a.",
+      "raw": "Anterior humeral circumflex a.",
+      "frequency": null
+    },
+    {
+      "name": "Posterior humeral circumflex a.",
+      "raw": "Posterior humeral circumflex a.",
+      "frequency": null
+    },
+    {
+      "name": "Branches of internal thoracic artery",
+      "raw": "Branches of internal thoracic artery (= dominant vessel)",
+      "frequency": null
+    },
+    {
+      "name": "Branches of lateral thoracic artery",
+      "raw": "Branches of lateral thoracic artery",
+      "frequency": null
+    },
+    {
+      "name": "Branches of subclavian + axillary arteries",
+      "raw": "Branches of subclavian + axillary arteries (including thoracoacromial + subscapular + thoracodorsal arteries)",
+      "frequency": null
+    },
+    {
+      "name": "Branches of musculophrenic artery",
+      "raw": "Branches of musculophrenic artery (= continuation of internal thoracic artery)",
+      "frequency": null
+    },
+    {
+      "name": "Perforating branches of anterior + posterior intercostal arteries perforate chest wall musculature",
+      "raw": "Perforating branches of anterior + posterior intercostal arteries perforate chest wall musculature",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Lateral thoracic a. Terminus:  lower margin of teres major m. (into brachial a.) Arterial Supply of Breast Supply:   medial + central breast parenchyma Supply:   superolateral breast parenchyma Supply:   portion of superior breast parenchyma Supply:   variable portion of inferior breast Supply:   deep central breast parenchyma"
+}

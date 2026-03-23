@@ -1,0 +1,33 @@
+{
+  "name": "INFANTILE CORTICAL HYPEROSTOSIS",
+  "slug": "infantile_cortical_hyperostosis",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/infantile_cortical_hyperostosis.md",
+  "definition": "CAFFEY DISEASE uncommon self-limiting proliferative bone disease of infancy; remission + exacerbations are",
+  "demographics": {
+    "Age": "< 6 months, reported in utero; M÷F = 1÷1",
+    "Histo": "inflammation of periosteal membrane, proliferation of osteoblasts + connective tissue"
+  },
+  "dominant_finding": "massive periosteal new-bone formation + perifocal soft-tissue swelling",
+  "distribution": "massive periosteal new-bone formation + perifocal soft-tissue swelling",
+  "discriminating_features": [
+    "massive periosteal new-bone formation + perifocal soft-tissue swelling",
+    "\"double-exposed\" ribs",
+    "narrowing of medullary space (= proliferation of endosteum)",
+    "bone expansion with remodeling of old cortex",
+    "bowing deformities, osseous bridging, diaphyseal expansion"
+  ],
+  "other_features": {
+    "general": [
+      "massive periosteal new-bone formation + perifocal soft-tissue swelling",
+      "\"double-exposed\" ribs",
+      "narrowing of medullary space (= proliferation of endosteum)",
+      "bone expansion with remodeling of old cortex",
+      "bowing deformities, osseous bridging, diaphyseal expansion"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "usually complete recovery by 30 months",
+    "Rx": "mild analgesics, steroids"
+  }
+}

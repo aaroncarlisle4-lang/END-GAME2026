@@ -1,0 +1,37 @@
+{
+  "finding": "Congenital Rib Anomalies",
+  "slug": "congenital_rib_anomalies",
+  "chapter": "RIBS",
+  "source_file": "processed_clusters/ribs/congenital_rib_anomalies.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cervical rib",
+      "raw": "Cervical rib (0.2-1-8%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "usually asymptomatic",
+      "raw": "usually asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "thoracic outlet syndrome (due to elevation of floor of scalene triangle with decrease of costoclavicular space):",
+      "raw": "thoracic outlet syndrome (due to elevation of floor of scalene triangle with decrease of costoclavicular space):",
+      "frequency": null
+    },
+    {
+      "name": "Forked / bifid rib (0.6%) = duplication of anterior portion",
+      "raw": "Forked / bifid rib (0.6%) = duplication of anterior portion",
+      "frequency": "0.6%"
+    },
+    {
+      "name": "Rib fusion",
+      "raw": "Rib fusion (0.3%)",
+      "frequency": "0.3%"
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:  1.4% M< F ◊  10-20% of symptomatic patients have a responsible cervical rib ◊  5-10% of complete cervical ribs cause symptoms May be associated with:   Klippel-Feil anomaly √  uni- / bilateral √  may fuse with first ribs anteriorly √  adjacent transverse process angulated inferiorly Cx:   aneurysmal dilatation of subclavian a. DDx:   elongated transverse process of 7th cervical vertebra; hypoplastic 1st thoracic rib Location:   4th rib (most often) May be associated with:   Gorlin basal cell nevus syndrome ◊  A single bifid rib is most commonly a normal incidental finding!"
+}

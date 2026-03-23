@@ -1,0 +1,27 @@
+{
+  "finding": "Anterior Temporal Cysts with Leukoencephalopathy",
+  "slug": "anterior_temporal_cysts_with_leukoencephalopathy_8d4a98",
+  "chapter": "B. NEUROVASCULAR",
+  "source_file": "processed_clusters/b_neurovascular/anterior_temporal_cysts_with_leukoencephalopathy_8d4a98.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital CMV infection",
+      "raw": "Congenital CMV infection",
+      "frequency": null
+    },
+    {
+      "name": "Leukoencephalopathy with subcortical temporal cysts and megalencephaly",
+      "raw": "Leukoencephalopathy with subcortical temporal cysts and megalencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Vanishing white matter disease",
+      "raw": "Vanishing white matter disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

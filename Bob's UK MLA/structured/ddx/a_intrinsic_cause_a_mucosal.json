@@ -1,0 +1,47 @@
+{
+  "finding": "A. INTRINSIC CAUSE (a) mucosal",
+  "slug": "a_intrinsic_cause_a_mucosal",
+  "chapter": "D. COMPRESSION",
+  "source_file": "processed_clusters/d_compression/a_intrinsic_cause_a_mucosal.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary ureteral tumors",
+      "raw": "Primary ureteral tumors",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation ← stone passage (b)  mural",
+      "raw": "Inflammation ← stone passage (b)  mural",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis common disorder in menstruating women (15%); ureteral involvement is rare and indicates widespread pelvic disease",
+      "raw": "Endometriosis common disorder in menstruating women (15%); ureteral involvement is rare and indicates widespread pelvic disease",
+      "frequency": "15%"
+    },
+    {
+      "name": "Infection: tuberculosis, schistosomiasis",
+      "raw": "Infection: tuberculosis, schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic / iatrogenic ureterolithotomy, endoscopic stone extraction, gynecologic procedures (esp.",
+      "raw": "Traumatic / iatrogenic ureterolithotomy, endoscopic stone extraction, gynecologic procedures (esp.",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Nonspecific",
+      "raw": "Nonspecific (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "√  abrupt smooth stricture of 0.5-2.5 cm length √  rectosigmoid involvement on BE hysterectomy), ureteral anastomosis (urinary diversion) √  distal stricture with submucosal calcification"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Langerhans Cell Histiocytosis — Lung (DDx)",
+  "slug": "langerhans_cell_histiocytosis_lung_ddx_2",
+  "chapter": "Langerhans Cell Histiocytosis",
+  "source_file": "processed_clusters/langerhans_cell_histiocytosis/langerhans_cell_histiocytosis_lung_ddx_2.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "neuroblastoma metastasis",
+      "raw": "neuroblastoma metastasis",
+      "frequency": null
+    },
+    {
+      "name": "leukemia",
+      "raw": "leukemia",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "osteolytic bone lesions 1-15 cm in diameter: | geographic / permeative / moth-eaten configuration | well- / poorly defined borders | ± sclerosis"
+}

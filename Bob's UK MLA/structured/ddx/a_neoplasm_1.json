@@ -1,0 +1,31 @@
+{
+  "finding": "A. NEOPLASM",
+  "slug": "a_neoplasm_1",
+  "chapter": "Mycobacteria, Nocardia, Actinomyces, Listeria",
+  "source_file": "processed_clusters/mycobacteria_nocardia_actinomyces_listeria/a_neoplasm_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Primary neoplasm: high-grade glioma, meningioma, lymphoma, leukemia, pituitary macroadenoma, acoustic neuroma, craniopharyngioma",
+      "raw": "Primary neoplasm: high-grade glioma, meningioma, lymphoma, leukemia, pituitary macroadenoma, acoustic neuroma, craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic carcinoma + sarcoma",
+      "raw": "Metastatic carcinoma + sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "INFECTION / INFLAMMATION",
+      "raw": "INFECTION / INFLAMMATION",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Primary neoplasm: high-grade glioma, meningioma, lymphoma, leukemia, pituitary macroadenoma, acoustic neuroma, craniopharyngioma": [],
+    "Metastatic carcinoma + sarcoma": [],
+    "INFECTION / INFLAMMATION": []
+  },
+  "context": "√  thick irregular peripheral enhancement √  more nodular + irregular appearance compared with abscess"
+}

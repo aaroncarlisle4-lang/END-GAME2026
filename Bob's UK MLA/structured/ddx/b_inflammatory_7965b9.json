@@ -1,0 +1,77 @@
+{
+  "finding": "B. INFLAMMATORY",
+  "slug": "b_inflammatory_7965b9",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/b_inflammatory_7965b9.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "nonspecific headache / lethargy",
+      "raw": "nonspecific headache / lethargy",
+      "frequency": null
+    },
+    {
+      "name": "Herpes simplex encephalitis",
+      "raw": "Herpes simplex encephalitis",
+      "frequency": null
+    },
+    {
+      "name": "NEOPLASTIC (a)  Meningeal carcinomatosis from systemic tumor, eg, breast carcinoma, small cell carcinoma of lung, malignant melanoma, lymphoma / leukemia (b)  Seeding primary CNS tumor:",
+      "raw": "NEOPLASTIC (a)  Meningeal carcinomatosis from systemic tumor, eg, breast carcinoma, small cell carcinoma of lung, malignant melanoma, lymphoma / leukemia (b)  Seeding primary CNS tumor:",
+      "frequency": null
+    },
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Pineoblastoma",
+      "raw": "Pineoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Cerebritis",
+      "raw": "Cerebritis",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformation",
+      "raw": "Arteriovenous malformation",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Meningitis",
+      "raw": "Meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Infarct",
+      "raw": "Infarct",
+      "frequency": null
+    },
+    {
+      "name": "Carcinomatosis",
+      "raw": "Carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Encephalitis",
+      "raw": "Encephalitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  multiple territories"
+}

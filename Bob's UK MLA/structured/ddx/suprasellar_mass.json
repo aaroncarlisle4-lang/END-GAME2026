@@ -1,0 +1,92 @@
+{
+  "finding": "Suprasellar Mass",
+  "slug": "suprasellar_mass",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/suprasellar_mass.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma: in 80% suprasellar",
+      "raw": "Craniopharyngioma: in 80% suprasellar",
+      "frequency": "80%"
+    },
+    {
+      "name": "Chiasmal + optic nerve glioma in 38% of neurofibromatosis; adolescent girls",
+      "raw": "Chiasmal + optic nerve glioma in 38% of neurofibromatosis; adolescent girls",
+      "frequency": "38%"
+    },
+    {
+      "name": "Hypothalamic glioma",
+      "raw": "Hypothalamic glioma",
+      "frequency": null
+    },
+    {
+      "name": "Hamartoma of tuber cinereum",
+      "raw": "Hamartoma of tuber cinereum",
+      "frequency": null
+    },
+    {
+      "name": "Infundibular tumor: metastasis (esp. breast); glioma; lymphoma / leukemia; histiocytosis",
+      "raw": "Infundibular tumor: metastasis (esp. breast); glioma; lymphoma / leukemia; histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Germinoma =  malignant tumor similar to seminoma",
+      "raw": "Germinoma =  malignant tumor similar to seminoma (= \"ectopic pinealoma\")",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid / dermoid",
+      "raw": "Epidermoid / dermoid",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "hydrocephalus (common), visual impairment",
+      "raw": "hydrocephalus (common), visual impairment",
+      "frequency": "common"
+    },
+    {
+      "name": "endocrine dysfunction",
+      "raw": "endocrine dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "Enlarged 3rd ventricle extending into pituitary fossa",
+      "raw": "Enlarged 3rd ventricle extending into pituitary fossa",
+      "frequency": null
+    },
+    {
+      "name": "Suprasellar aneurysm",
+      "raw": "Suprasellar aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis, Teratoma: dysgerminoma (usually), dermoid, epidermoid",
+      "raw": "Tuberculosis, Teratoma: dysgerminoma (usually), dermoid, epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma, Chordoma",
+      "raw": "Craniopharyngioma, Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Hypothalamic glioma, Histiocytoma, Hamartoma",
+      "raw": "Hypothalamic glioma, Histiocytoma, Hamartoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DDx:   chiasmal neuritis X; sarcoidosis; tuberculosis √  diameter of infundibulum > 4.5 mm immediately above level of dorsum; cone-shaped (on coronal scan) √  frequently calcified (teratoma) √  CSF spread (germinoma + teratocarcinoma) √  enhancement on CECT (common) √  cystic lesion containing calcifications + fat √  minimal / no contrast enhancement Age:   most common in infancy √  rim calcification + eccentric position Suprasellar Mass in Adulthood mnemonic:   SATCHMO Sarcoidosis, Sella neoplasm with superior extension Aneurysm (ectatic carotid, carotid-cavernous sinus fistula), Arachnoid cy"
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "D. NEOPLASTIC",
+  "slug": "d_neoplastic",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/d_neoplastic.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchioloalveolar cell carcinoma =  only primary lung tumor to produce multifocal ill-defined densities with air bronchograms",
+      "raw": "Bronchioloalveolar cell carcinoma =  only primary lung tumor to produce multifocal ill-defined densities with air bronchograms",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar type of lymphoma =  massive accumulation of tumor cells in interstitium with compression atelectasis + obstructive pneumonia",
+      "raw": "Alveolar type of lymphoma =  massive accumulation of tumor cells in interstitium with compression atelectasis + obstructive pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Metastases (a)  Choriocarcinoma: hemorrhage (however rare) (b)  Vascular tumors: malignant hemangiomas",
+      "raw": "Metastases (a)  Choriocarcinoma: hemorrhage (however rare) (b)  Vascular tumors: malignant hemangiomas",
+      "frequency": "rare"
+    },
+    {
+      "name": "Waldenström macroglobulinemia",
+      "raw": "Waldenström macroglobulinemia",
+      "frequency": null
+    },
+    {
+      "name": "Angioblastic lymphadenopathy",
+      "raw": "Angioblastic lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Mycosis fungoides",
+      "raw": "Mycosis fungoides",
+      "frequency": null
+    },
+    {
+      "name": "Amyloid tumor",
+      "raw": "Amyloid tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

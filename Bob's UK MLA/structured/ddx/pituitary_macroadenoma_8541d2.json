@@ -1,0 +1,47 @@
+{
+  "finding": "Pituitary Macroadenoma",
+  "slug": "pituitary_macroadenoma_8541d2",
+  "chapter": "PERSISTENT EMBRYONIC INFUNDIBULAR RECESS",
+  "source_file": "processed_clusters/persistent_embryonic_infundibular_recess/pituitary_macroadenoma_8541d2.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "symptoms of mass effect: hypopituitarism, bitemporal hemianopia (with superior extension), pituitary apoplexy, hydrocephalus, cranial nerve involvement III, IV, VI",
+      "raw": "symptoms of mass effect: hypopituitarism, bitemporal hemianopia (with superior extension), pituitary apoplexy, hydrocephalus, cranial nerve involvement III, IV, VI",
+      "frequency": null
+    },
+    {
+      "name": "usually endocrinologically inactive Extension into:   suprasellar cistern / cavernous sinus / sphenoid sinus + nasopharynx",
+      "raw": "usually endocrinologically inactive Extension into:   suprasellar cistern / cavernous sinus / sphenoid sinus + nasopharynx (up to 67% invasive)",
+      "frequency": "67%"
+    },
+    {
+      "name": "Obstructive hydrocephalus",
+      "raw": "Obstructive hydrocephalus (at foramen of Monro)",
+      "frequency": null
+    },
+    {
+      "name": "Encasement of carotid artery",
+      "raw": "Encasement of carotid artery",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary apoplexy",
+      "raw": "Pituitary apoplexy (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (more bone destruction, rapid growth)",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary abscess",
+      "raw": "Pituitary abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  tumor > 10 mm in size Incidence:  10% (= 70-80% of pituitary adenomas) Age:     25-60 years; M÷F = 1÷1 √  occasionally tumor hemorrhage √  lucent areas ← cysts / focal necrosis √  invasion of cavernous sinus → encasement of carotid artery (SUREST sign) CT: √  tumor isodense to brain tissue √  erosion of bone (eg, floor of sella) √  calcifications infrequent MR: (allows differentiation from aneurysm) √  homogeneous enhancement Cx: DDx:"
+}

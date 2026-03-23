@@ -1,0 +1,241 @@
+# Finding: McCune-Albright Syndrome 100
+
+**Source section:** K
+**Quality score:** 1.0
+**Differential count:** 217
+
+## Differentials
+
+- Kaufman syndrome 1391
+- McRae line 235
+- Meandering pulmonary vein 749
+- Measles, atypical pneumonia 584
+- Mechanical intestinal obstruction 998
+- Mecholyl test 1061
+- Meckel
+- Gruber syndrome 1218
+- Medulloblastoma 376
+- Medulloepithelioma 426
+- Megabulb
+- Megacalicosis 1219
+- Megacisterna magna 377, 315
+- Megacolon
+- Megacystis-microcolon syndrome 1220
+- Megaduodenum 1013
+- Megaesophagus 1003
+- Megalencephaly, unilateral 406
+- Megalo
+- Meglumine 1189
+- Megophthalmos 419
+- Meigs
+- Salmon syndrome 547 syndrome 1365, 1371
+- Meissner plexus 1104
+- Melanocytoma 377
+- Melanoma 1118
+- Melanosis coli 1122
+- MELAS 303
+- Melorheostosis 146
+- Melting sign, lung 654
+- Membrane
+- MEN 956
+- Menarche 1334
+- Mendelson syndrome 584
+- Ménétrier disease 1122
+- Ménière disease 437
+- Meningeal
+- Meningoencephalitis, primary amebic 353
+- Meningoencephalocele 338
+- Meningofacial angiomatosis 399
+- Meningohypophyseal trunk 319
+- Meningovascular neurosyphilis 205
+- Meniscal
+- Menopause 1331
+- Menorrhagia 1389
+- Menstrual
+- Meromelia 1300
+- MERRF 303
+- Mesencephalic low-density lesion 294
+- Mesencephalon 311
+- Mesenchymal
+- Mesial temporal sclerosis 380
+- Mesoatrial shunt 979
+- Mesoblastic nephroma 1220
+- Mesocardia 739
+- Mesocaval shunt 979
+- Mesodermal dysplasia 72
+- Mesomelia 1300
+- Mesomelic dwarfism 149
+- Mesonephroid tumor, ovary 1345
+- Mesonephros 1183
+- Mesothelial cyst 1126
+- Mesothelioma
+- Mesotympanum 465
+- Mesovarium 1332
+- Metabolic calcification 29
+- Metacarpal
+- Metaphysitis 204
+- Metaplastic breast cancer 715
+- Metaproterenol 1437
+- Metatropic dysplasia 152
+- Metencephalon 311
+- Metformin 1434, 1436
+- Methadone, lung damage 515
+- Methanol poisoning 302
+- Methimazole 133
+- Methotrexate 515
+- Methylene diphosphonate 1421
+- Methylmalonic acidemia 302
+- Methylprednisolone 1437
+- Metopic suture, persistent
+- Metrorrhagia 1389
+- Mexican hat sign 1092
+- Meyerding method 278
+- Michaelis-Gutmann bodies 1217
+- Michel aplasia 495
+- Michels classification 885
+- Mickey Mouse ears
+- Microadenoma, pituitary 395
+- Microangiopathy, mineralizing 382
+- Microcalcifications, breast 687
+- Microcephaly 382
+- Microcolon 1021
+- megacystis syndrome 1220
+- Microdactyly of big toe 97
+- Microgallbladder 607
+- Microgastria 819
+- Micrognathia 216
+- Microhamartomas, liver 956
+- Microlithiasis
+- Micromelia 1300
+- Micromelic dwarfism 1301
+- Micronodular
+- Microphthalmia 414
+- Micropolyspora faeni 615
+- Microscopic polyangiitis 828
+- Micturition attack 1173
+- Midazolam 1437
+- Midbrain 311
+- Midbrain syndrome, progressive 348
+- Middle
+- Milky way, breast 694
+- Milroy disease 826
+- Milwaukee shoulder 163
+- Mineral
+- Miniaturized mitral valve 805
+- Minicalyx 1239
+- Miracidia
+- Mirizzi syndrome 954
+- Mirror image aneurysm 331
+- Misery perfusion, brain 372
+- Missed
+- Mobile duodenum 1035
+- Mobitz heart block 1357
+- Moderator band, heart 762, 765
+- Modic endplate changes 249
+- Modiolus 467
+- Molar
+- Molluscoid pseudotumors 91
+- Molybdenum-99 breakthrough test 1394
+- Monad sign 581
+- Mondini malformation 495
+- Mondor disease 729
+- Mongolism
+- CHD 736
+- Moniliasis 1087
+- Monoarthritis 14
+- Monochorionic
+- Monoclonal antibodies 1399
+- Monocular blindness 411
+- Monocyte chemotactic factor 665
+- Monodermal dermoid 1273
+- Monorchia 1217
+- Monosomy 211
+- Monostotic fibrous dysplasia 101
+- Monoventricle 365
+- Monovular twin transfusion 1385
+- Monozygotic twins 1327
+- Monstrocellular sarcoma 357
+- Monteggia fracture 108
+- Montgomery gland 698
+- Moon
+- Morison pouch 1038
+- Morning stiffness 188
+- Morphea 1134
+- Morphine 1437
+- Morquio syndrome 153
+- Mortality 1427
+- Morton neuroma 152
+- Mother-in-law phenomenon 378
+- Motor urge incontinence 1175
+- Mottled hepatic uptake 867
+- Mottle, radiographic 703
+- Moulage sign 1139
+- Mounier-Kuhn syndrome 679
+- Mount Fuji sign 309
+- Mouse
+- containing cyst, pancreas 880
+  - hypersecreting neoplasm 947
+- Mucopolysaccharidoses 152
+- Mucopus 1167
+- Mucopyocele 494
+- Mucormycosis
+- Multiloculated renal mass 1164
+- Multinodular goiter 486
+- Multiple
+- Multiseptated gallbladder 889
+- Mumps orchitis 1227
+- Mural
+- SLE 673
+- Musculotendinous injury 155
+- Mushroom
+- Mustache sign 993
+- Mustard procedure 759
+- Mutational dysostosis 75
+- Myasthenia gravis 677
+- Mycetoma 581
+- Myelencephalon 311
+- Myelination, brain 310
+- Myelinoclastic
+- Myelinolysis, osmotic 392
+- Myeloblastoma, bone 121
+- Myelocele 221
+- Myelocystocele 267
+- Myelofibrosis 156
+- Myelography, extraarachnoid 231
+- Myeloid
+- Myelolipoma 1224
+- Myeloma, solitary bone 155
+- Myelomatosis 155
+- Myelomeningocele 267
+- Myelosclerosis 156
+- Myleran®, lung damage 514
+- Myocardial
+- Myocarditis 832
+- Myocardium anatomy 774
+- Myoclonus 1226
+- Myoepithelial
+- Myofibroblastoma 730
+- Myofibroma 79
+- Myofibromatosis, infantile 79
+- Myoma, uterus 1388
+- Myositis
+- Myotendinous strain 156
+- Myxofibroma, heart 834
+- Myxofibrosarcoma 158
+- Myxoglobulosis 1128
+- Myxoid
+
+## Context
+
+McGregor line 235 McKusick disease 150 cave 315 diverticulum 1120 Meconium aspiration syndrome 639 ileus 1121 equivalent 1072 passage 998 peritonitis 1121 plug syndrome 1122 pseudocyst 1122 Medial calcification 754 collateral ligament 48 dissection 816 fibroplasia 816 hyperplasia 816 tibial stress syndrome 196 umbilical fold 1332 Median arcuate ligament compression 828 cleft lip 365 facial cleft 1355 umbilical ligament 1332 Mediastinal bronchogenic cyst 596 collagenosis 640 cyst 552 fat 552 fibrosis 640 granuloma, histoplasmosis 619 hematoma 550, 853 lipomatosis 639 mass 553 in fetus 1305 low-
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Convert ## Differentials into a comparison table.
+  2. Columns = each differential diagnosis.
+  3. Rows = Dominant finding | Demographics | Distribution |
+            Key discriminator | Other findings | Relative frequency.
+  4. Preserve any percentages or 'most common/rare' qualifiers.
+  5. Use ## Context paragraph for additional demographic / distribution clues.
+-->

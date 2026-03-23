@@ -1,0 +1,22 @@
+{
+  "finding": "Subglottic Stenosis (DDx)",
+  "slug": "subglottic_stenosis_ddx_1_64ac86",
+  "chapter": "Subglottic Stenosis",
+  "source_file": "processed_clusters/subglottic_stenosis/subglottic_stenosis_ddx_1_64ac86.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "frontal encephalocele",
+      "raw": "frontal encephalocele",
+      "frequency": null
+    },
+    {
+      "name": "myoblastoma",
+      "raw": "myoblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hyperextension of neck | solid + cystic structures within heterogeneous mass | calcifications (more frequent than cartilage / bone) | mass filling oral cavity + extending out through mouth"
+}

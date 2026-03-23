@@ -1,0 +1,22 @@
+{
+  "finding": "Medullary Renal Tumor (DDx)",
+  "slug": "medullary_renal_tumor_ddx",
+  "chapter": "Medullary Renal Tumor",
+  "source_file": "processed_clusters/medullary_renal_tumor/medullary_renal_tumor_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "transitional cell carcinoma",
+      "raw": "transitional cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "rhabdoid tumor",
+      "raw": "rhabdoid tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± peripheral caliectasis | heterogeneous enhancement | reniform enlargement with shape of kidney preserved | small peripheral satellite nodules"
+}

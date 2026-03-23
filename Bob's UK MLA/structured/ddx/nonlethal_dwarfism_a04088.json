@@ -1,0 +1,52 @@
+{
+  "finding": "Nonlethal Dwarfism",
+  "slug": "nonlethal_dwarfism_a04088",
+  "chapter": "UMBILICAL CORD",
+  "source_file": "processed_clusters/umbilical_cord/nonlethal_dwarfism_a04088.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Achondroplasia",
+      "raw": "Achondroplasia (heterozygous)",
+      "frequency": null
+    },
+    {
+      "name": "Asphyxiating thoracic dysplasia",
+      "raw": "Asphyxiating thoracic dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Chondroectodermal dysplasia",
+      "raw": "Chondroectodermal dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Chondrodysplasia punctata",
+      "raw": "Chondrodysplasia punctata",
+      "frequency": null
+    },
+    {
+      "name": "Spondyloepiphyseal dysplasia",
+      "raw": "Spondyloepiphyseal dysplasia (congenital)",
+      "frequency": null
+    },
+    {
+      "name": "Diastrophic dysplasia",
+      "raw": "Diastrophic dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Metatrophic dwarfism",
+      "raw": "Metatrophic dwarfism",
+      "frequency": null
+    },
+    {
+      "name": "Hypochondroplasia",
+      "raw": "Hypochondroplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

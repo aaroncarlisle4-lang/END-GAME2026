@@ -1,0 +1,44 @@
+{
+  "name": "GLYCOGEN STORAGE DISEASE",
+  "slug": "glycogen_storage_disease",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/glycogen_storage_disease.md",
+  "definition": "autosomal recessive diseases with varying severity and clinical syndromes (13 different abnormal metabolism with enlargement of myocardial cells ← glycogen deposition; similar",
+  "demographics": {
+    "Etiology": "defect in glucose-6-phosphatase with excess deposition of glycogen in liver,"
+  },
+  "dominant_finding": "increased (glycogen) / normal / decreased (fat) parenchymal attenuation",
+  "distribution": "increased cortical + medullary echogenicity ← nephrocalcinosis, nephrolithiasis",
+  "discriminating_features": [
+    "increased (glycogen) / normal / decreased (fat) parenchymal attenuation",
+    "increased liver echogenicity (glycogen / fat)",
+    "nephromegaly",
+    "hepatomegaly",
+    "increased cortical + medullary echogenicity ← nephrocalcinosis, nephrolithiasis"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "increased liver echogenicity (glycogen / fat)",
+      "nephromegaly"
+    ],
+    "CT": [
+      "increased (glycogen) / normal / decreased (fat) parenchymal attenuation"
+    ],
+    "Liver": [
+      "hepatomegaly"
+    ],
+    "Kidney": [
+      "nephromegaly",
+      "increased cortical + medullary echogenicity ← nephrocalcinosis, nephrolithiasis",
+      "amyloidosis",
+      "high renal blood flow",
+      "massive cardiomegaly with CHF",
+      "hepatomegaly"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death in infancy, may survive into adulthood with early therapy",
+    "Cx": "hepatic adenoma, cirrhosis"
+  }
+}

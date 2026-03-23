@@ -1,0 +1,32 @@
+{
+  "finding": "B. DEGENERATIVE DISEASE",
+  "slug": "b_degenerative_disease",
+  "chapter": "BASAL GANGLIA",
+  "source_file": "processed_clusters/basal_ganglia/b_degenerative_disease.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Huntington disease",
+      "raw": "Huntington disease",
+      "frequency": null
+    },
+    {
+      "name": "Creutzfeldt-Jakob disease",
+      "raw": "Creutzfeldt-Jakob disease",
+      "frequency": null
+    },
+    {
+      "name": "Fahr disease",
+      "raw": "Fahr disease",
+      "frequency": null
+    },
+    {
+      "name": "Neurodegeneration with brain iron accumulation",
+      "raw": "Neurodegeneration with brain iron accumulation (NBIA)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

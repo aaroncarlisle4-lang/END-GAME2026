@@ -1,0 +1,42 @@
+{
+  "finding": "Superficial Fibromatoses (DDx)",
+  "slug": "superficial_fibromatoses_ddx_51fd0c",
+  "chapter": "Superficial Fibromatoses",
+  "source_file": "processed_clusters/superficial_fibromatoses/superficial_fibromatoses_ddx_51fd0c.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "synovial sarcoma (commonly calcifies",
+      "raw": "synovial sarcoma (commonly calcifies",
+      "frequency": null
+    },
+    {
+      "name": "bone erosion)",
+      "raw": "bone erosion)",
+      "frequency": null
+    },
+    {
+      "name": "chondroma",
+      "raw": "chondroma",
+      "frequency": null
+    },
+    {
+      "name": "fibrosarcoma",
+      "raw": "fibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "osteosarcoma",
+      "raw": "osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "myositis ossificans",
+      "raw": "myositis ossificans",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "nonspecific soft-tissue mass overlying inflamed bursa (often mistaken for calcified bursitis) | stippled calcifications (frequent) | interosseous soft-tissue mass of forearm + wrist | erosion / scalloping of bone may occur"
+}

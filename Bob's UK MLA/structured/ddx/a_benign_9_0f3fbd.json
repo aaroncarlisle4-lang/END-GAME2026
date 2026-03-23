@@ -1,0 +1,55 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_9_0f3fbd",
+  "chapter": "BREAST DENSITY",
+  "source_file": "processed_clusters/breast_density/a_benign_9_0f3fbd.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Postsurgical scarring",
+      "raw": "Postsurgical scarring",
+      "frequency": null
+    },
+    {
+      "name": "Noniatrogenic trauma",
+      "raw": "Noniatrogenic trauma",
+      "frequency": null
+    },
+    {
+      "name": "Postinflammatory fibrosis [Radial scar]",
+      "raw": "Postinflammatory fibrosis",
+      "frequency": null,
+      "sites": [
+        "Radial scar"
+      ]
+    },
+    {
+      "name": "Ectopic / accessory breast tissue",
+      "raw": "Ectopic / accessory breast tissue (in axillary tail / close to abdomen)",
+      "frequency": null
+    },
+    {
+      "name": "Asymmetric breast development / asymmetric involution",
+      "raw": "Asymmetric breast development / asymmetric involution",
+      "frequency": null
+    },
+    {
+      "name": "Simple cyst",
+      "raw": "Simple cyst",
+      "frequency": null
+    },
+    {
+      "name": "Fibrocystic conditions: fibrosis / sclerosing adenosis",
+      "raw": "Fibrocystic conditions: fibrosis / sclerosing adenosis",
+      "frequency": null
+    },
+    {
+      "name": "Hormonal therapy: replacement, contraceptives",
+      "raw": "Hormonal therapy: replacement, contraceptives",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,337 @@
+{
+  "finding": "Associated with: obstructing biliary stone or malignancy",
+  "slug": "associated_with_obstructing_biliary_stone_or_malignancy_a7bb2b",
+  "chapter": "CHOLANGITIS",
+  "source_file": "processed_clusters/cholangitis/associated_with_obstructing_biliary_stone_or_malignancy_a7bb2b.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "biliary sepsis, CNS depression, lethargy, mental confusion, shock",
+      "raw": "biliary sepsis, CNS depression, lethargy, mental confusion, shock (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "recurrent episodes of sepsis + RUQ pain",
+      "raw": "recurrent episodes of sepsis + RUQ pain",
+      "frequency": null
+    },
+    {
+      "name": "Charcot triad (70%): fever + chills + jaundice",
+      "raw": "Charcot triad (70%): fever + chills + jaundice",
+      "frequency": "70%"
+    },
+    {
+      "name": "bile cultures in 90% positive for infection",
+      "raw": "bile cultures in 90% positive for infection",
+      "frequency": "90%"
+    },
+    {
+      "name": "Charcot triad (75%) = fever, pain, jaundice",
+      "raw": "Charcot triad (75%) = fever, pain, jaundice",
+      "frequency": "75%"
+    },
+    {
+      "name": "Reynolds pentad = fever, pain, jaundice, shock, lethargy",
+      "raw": "Reynolds pentad = fever, pain, jaundice, shock, lethargy",
+      "frequency": null
+    },
+    {
+      "name": "positive culture: bile (50%), blood (20-30%) @   CBD:",
+      "raw": "positive culture: bile (50%), blood (20-30%) @   CBD:",
+      "frequency": "50%"
+    },
+    {
+      "name": "opportunistic organism isolated from bile (in 50%) (b)  direct invasion of epithelium: Herpes simplex virus",
+      "raw": "opportunistic organism isolated from bile (in 50%) (b)  direct invasion of epithelium: Herpes simplex virus",
+      "frequency": "50%"
+    },
+    {
+      "name": "RUQ pain, fever, nausea; jaundice",
+      "raw": "RUQ pain, fever, nausea; jaundice (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "abnormal LFTs (esp. serum alkaline phosphatase; normal / mildly elevated bilirubin);",
+      "raw": "abnormal LFTs (esp. serum alkaline phosphatase; normal / mildly elevated bilirubin);",
+      "frequency": null
+    },
+    {
+      "name": "combination of sclerosing cholangitis appearance + papillary stenosis",
+      "raw": "combination of sclerosing cholangitis appearance + papillary stenosis (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "isolated intrahepatic sclerosing cholangitis-like appearance",
+      "raw": "isolated intrahepatic sclerosing cholangitis-like appearance (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "isolated papillary stenosis",
+      "raw": "isolated papillary stenosis (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "long-segment extrahepatic duct stricture in isolation / with intrahepatic disease",
+      "raw": "long-segment extrahepatic duct stricture in isolation / with intrahepatic disease (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "± obstructive jaundice",
+      "raw": "± obstructive jaundice",
+      "frequency": null
+    },
+    {
+      "name": "elevated serum IgG4 level",
+      "raw": "elevated serum IgG4 level",
+      "frequency": null
+    },
+    {
+      "name": "Primary sclerosing cholangitis",
+      "raw": "Primary sclerosing cholangitis (multifocal + short intrahepatic biliary strictures with beaded / \"pruned-tree\" lesions)",
+      "frequency": null
+    },
+    {
+      "name": "Cholangiocarcinoma",
+      "raw": "Cholangiocarcinoma (confined to bile ducts, not affecting pancreatic duct, hepatic capsular retraction)",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic adenocarcinoma",
+      "raw": "Pancreatic adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic biliary strictures",
+      "raw": "Ischemic biliary strictures",
+      "frequency": null
+    },
+    {
+      "name": "AIDS cholangiopathy",
+      "raw": "AIDS cholangiopathy",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory bowel disease (ulcerative colitis in 50-74%, Crohn disease in 13%) ◊  1-4% of patients with inflammatory bowel disease develop primary sclerosing cholangitis!",
+      "raw": "Inflammatory bowel disease (ulcerative colitis in 50-74%, Crohn disease in 13%) ◊  1-4% of patients with inflammatory bowel disease develop primary sclerosing cholangitis!",
+      "frequency": "74%"
+    },
+    {
+      "name": "Cirrhosis, chronic active hepatitis, pericholangitis, fatty degeneration",
+      "raw": "Cirrhosis, chronic active hepatitis, pericholangitis, fatty degeneration",
+      "frequency": null
+    },
+    {
+      "name": "Peyronie disease",
+      "raw": "Peyronie disease",
+      "frequency": null
+    },
+    {
+      "name": "Sjögren syndrome",
+      "raw": "Sjögren syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "abnormal liver function tests: serum bilirubin, serum alkaline phosphatase, γ- glutamyltransferase",
+      "raw": "abnormal liver function tests: serum bilirubin, serum alkaline phosphatase, γ- glutamyltransferase",
+      "frequency": null
+    },
+    {
+      "name": "progressive chronic / intermittent obstructive jaundice",
+      "raw": "progressive chronic / intermittent obstructive jaundice (75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "fever, night sweats, chills, RUQ pain, pruritus",
+      "raw": "fever, night sweats, chills, RUQ pain, pruritus (10-15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "ANCA and antinuclear antibodies",
+      "raw": "ANCA and antinuclear antibodies(low titers with low specificity)",
+      "frequency": null
+    },
+    {
+      "name": "history of previous biliary surgery",
+      "raw": "history of previous biliary surgery (53%) + chronic / recurrent pancreatitis (14%)",
+      "frequency": "53%"
+    },
+    {
+      "name": "CBD almost always involved",
+      "raw": "CBD almost always involved",
+      "frequency": null
+    },
+    {
+      "name": "Intra- and extrahepatic ducts",
+      "raw": "Intra- and extrahepatic ducts (68-89%)",
+      "frequency": "89%"
+    },
+    {
+      "name": "Cystic duct",
+      "raw": "Cystic duct (15-18%)",
+      "frequency": "18%"
+    },
+    {
+      "name": "Intrahepatic ducts only",
+      "raw": "Intrahepatic ducts only (1-11-25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Extrahepatic ducts only (2-3%) Dx:   PSC is diagnosed in patients with clinical + biochemical signs of cholestasis, typical cholangiographic imaging findings and after exclusion of secondary causes of sclerosing cholangitis.",
+      "raw": "Extrahepatic ducts only (2-3%) Dx:   PSC is diagnosed in patients with clinical + biochemical signs of cholestasis, typical cholangiographic imaging findings and after exclusion of secondary causes of sclerosing cholangitis.",
+      "frequency": "3%"
+    },
+    {
+      "name": "Biliary cirrhosis (up to 49%) after > 10 years",
+      "raw": "Biliary cirrhosis (up to 49%) after > 10 years",
+      "frequency": "49%"
+    },
+    {
+      "name": "Portal hypertension",
+      "raw": "Portal hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy (10-15%):",
+      "raw": "Malignancy (10-15%):",
+      "frequency": "15%"
+    },
+    {
+      "name": "screening with tumor marker CA-19.9 > 129 U/mL (79% sensitive, 99% specific) (b)  colorectal cancer (10- to 14-fold increased risk compared to general population) (c)  pancreatic cancer",
+      "raw": "screening with tumor marker CA-19.9 > 129 U/mL (79% sensitive, 99% specific) (b)  colorectal cancer (10- to 14-fold increased risk compared to general population) (c)  pancreatic cancer",
+      "frequency": "79%"
+    },
+    {
+      "name": "Secondary recurrent bacterial cholangitis",
+      "raw": "Secondary recurrent bacterial cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Palliative: ursodeoxycholic acid, dilatation of dominant strictures",
+      "raw": "Palliative: ursodeoxycholic acid, dilatation of dominant strictures",
+      "frequency": null
+    },
+    {
+      "name": "Curative: liver transplantation",
+      "raw": "Curative: liver transplantation (4th leading indication)",
+      "frequency": null
+    },
+    {
+      "name": "IgG4-related sclerosing cholangitis Primary sclerosing cholangitis occurs in younger patients, is associated with inflammatory bowel disease, and is less acute with longer duration of symptoms compared to IgG4-related sclerosing cholangitis.",
+      "raw": "IgG4-related sclerosing cholangitis Primary sclerosing cholangitis occurs in younger patients, is associated with inflammatory bowel disease, and is less acute with longer duration of symptoms compared to IgG4-related sclerosing cholangitis.",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing cholangiocarcinoma",
+      "raw": "Sclerosing cholangiocarcinoma (progressive cholangiographic changes within 0.5-1.5 years of initial diagnosis, marked ductal dilatation upstream from a dominant stricture, intraductal mass > 1 cm in diameter)",
+      "frequency": null
+    },
+    {
+      "name": "Acute ascending cholangitis",
+      "raw": "Acute ascending cholangitis (history)",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent pyogenic cholangitis",
+      "raw": "Recurrent pyogenic cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Primary biliary cirrhosis",
+      "raw": "Primary biliary cirrhosis (disease limited to intrahepatic ducts, strictures less pronounced, pruning + crowding of bile ducts, normal AMA titer)",
+      "frequency": null
+    },
+    {
+      "name": "AIDS cholangiopathy",
+      "raw": "AIDS cholangiopathy (same cholangiographic findings)",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic strictures",
+      "raw": "Ischemic strictures",
+      "frequency": null
+    },
+    {
+      "name": "poor nutritional + low socioeconomic status of patient",
+      "raw": "poor nutritional + low socioeconomic status of patient",
+      "frequency": null
+    },
+    {
+      "name": "recurrent attacks of fever, chills, abdominal pain, jaundice Location:  particularly in lateral segment of L lobe + posterior segment of R lobe + extrahepatic duct",
+      "raw": "recurrent attacks of fever, chills, abdominal pain, jaundice Location:  particularly in lateral segment of L lobe + posterior segment of R lobe + extrahepatic duct",
+      "frequency": null
+    },
+    {
+      "name": "Caroli disease",
+      "raw": "Caroli disease (saccular dilatation of intrahepatic bile ducts)",
+      "frequency": null
+    },
+    {
+      "name": "Primary sclerosing cholangitis",
+      "raw": "Primary sclerosing cholangitis (focal discontinuous bile duct dilatation)",
+      "frequency": null
+    },
+    {
+      "name": "Clonorchiasis",
+      "raw": "Clonorchiasis (biliary ductal dilatation limited to intrahepatic bile ducts)",
+      "frequency": null
+    },
+    {
+      "name": "Intraductal stone disease / choledocholithiasis → bile duct stricture → recurrent pyogenic cholangitis",
+      "raw": "Intraductal stone disease / choledocholithiasis → bile duct stricture → recurrent pyogenic cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic cholangiopathy from treatment with intraarterial chemotherapy / floxuridine",
+      "raw": "Ischemic cholangiopathy from treatment with intraarterial chemotherapy / floxuridine",
+      "frequency": null
+    },
+    {
+      "name": "Autoimmune pancreatitis",
+      "raw": "Autoimmune pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "AIDS-asscociated cholangiopathy",
+      "raw": "AIDS-asscociated cholangiopathy",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic cholangitis",
+      "raw": "Eosinophilic cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "Previous biliary tract surgery / blunt trauma",
+      "raw": "Previous biliary tract surgery / blunt trauma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic inflammatory pseudotumor",
+      "raw": "Hepatic inflammatory pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Congenital biliary tree anomalies",
+      "raw": "Congenital biliary tree anomalies",
+      "frequency": null
+    },
+    {
+      "name": "Bile duct neoplasm",
+      "raw": "Bile duct neoplasm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  purulent material fills biliary ducts √  marked inhomogeneous hepatic parenchymal enhancement during arterial phase (60%) Prognosis:  100% mortality if not decompressed; 40-60% mortality with treatment; 13-16% overall mortality rate Organism:  E coli (31%), Klebsiella pneumoniae (17%), Enterococcus faecalis (17%), Streptococcus (17%) √  may have gas in biliary tree CECT: √  nodular / patchy / wedge-shaped / geographic inhomogeneous transient hepatic parenchymal enhancement in periportal location on hepatic arterial phase (= hyperemic changes around bile ducts) √  diffuse concentric thickeni"
+}

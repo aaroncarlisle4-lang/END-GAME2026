@@ -1,0 +1,142 @@
+{
+  "finding": "RETINOBLASTOMA",
+  "slug": "retinoblastoma_071247",
+  "chapter": "RETINAL DETACHMENT",
+  "source_file": "processed_clusters/retinal_detachment/retinoblastoma_071247.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "months; M÷F = 1÷1; no race predilection",
+      "raw": "months; M÷F = 1÷1; no race predilection",
+      "frequency": null
+    },
+    {
+      "name": "Sporadic postzygotic somatic mutation",
+      "raw": "Sporadic postzygotic somatic mutation (subsequent generations unaffected)",
+      "frequency": null
+    },
+    {
+      "name": "Chromosomal anomaly =  monosomy 13 / deletions of 13q",
+      "raw": "Chromosomal anomaly =  monosomy 13 / deletions of 13q",
+      "frequency": null
+    },
+    {
+      "name": "Heritable sporadic form",
+      "raw": "Heritable sporadic form (20-25%) =  sporadic germline mutation (50% chance to occur in subsequent generations)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Familial retinoblastoma",
+      "raw": "Familial retinoblastoma (10-30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Exophytic form = growth toward sclera into subretinal space → retinal detachment + invasion of vascular choroid → hematogenous spread",
+      "raw": "Exophytic form = growth toward sclera into subretinal space → retinal detachment + invasion of vascular choroid → hematogenous spread",
+      "frequency": null
+    },
+    {
+      "name": "Mixture of endo- and exophytic growth",
+      "raw": "Mixture of endo- and exophytic growth (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Diffuse infiltrating form = thin en-plaque lesion extending along retina",
+      "raw": "Diffuse infiltrating form = thin en-plaque lesion extending along retina (in 1-2%) → cells discharged into vitreus → seeding of anterior chamber mimicking an inflammatory process (= pseudohypopyon)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Necrotic retinoblastoma with orbital cellulitis",
+      "raw": "Necrotic retinoblastoma with orbital cellulitis",
+      "frequency": null
+    },
+    {
+      "name": "Complete spontaneous regression",
+      "raw": "Complete spontaneous regression (rare) → phthisis bulbi (= shrunken nonfunctioning globe)",
+      "frequency": "rare"
+    },
+    {
+      "name": "\"cat's eye\" = leukokoria (white pupillary reflex) in 56-72% ◊  About 50% of all childhood leukokoria cases are caused by retinoblastoma!",
+      "raw": "\"cat's eye\" = leukokoria (white pupillary reflex) in 56-72% ◊  About 50% of all childhood leukokoria cases are caused by retinoblastoma!",
+      "frequency": "72%"
+    },
+    {
+      "name": "strabismus = crossed eyes = lack of binocular vision",
+      "raw": "strabismus = crossed eyes = lack of binocular vision (22-24%)",
+      "frequency": "24%"
+    },
+    {
+      "name": "proptosis",
+      "raw": "proptosis (less common)",
+      "frequency": "common"
+    },
+    {
+      "name": "decreased visual acuity, heterochromia iridis, anisokoria",
+      "raw": "decreased visual acuity, heterochromia iridis, anisokoria",
+      "frequency": null
+    },
+    {
+      "name": "spontaneous hyphema, periocular inflammation",
+      "raw": "spontaneous hyphema, periocular inflammation",
+      "frequency": null
+    },
+    {
+      "name": "iris neovascularization",
+      "raw": "iris neovascularization",
+      "frequency": null
+    },
+    {
+      "name": "ocular pain ← secondary angle-closure glaucoma Location:   posterolateral wall of globe",
+      "raw": "ocular pain ← secondary angle-closure glaucoma Location:   posterolateral wall of globe (most commonly); 60% unilateral; 40% bilateral + frequently synchronous (90% bilateral in inherited forms)",
+      "frequency": "60%"
+    },
+    {
+      "name": "Radiation-induced sarcomas develop in 15-20%",
+      "raw": "Radiation-induced sarcomas develop in 15-20%",
+      "frequency": "20%"
+    },
+    {
+      "name": "Persistent fetal vasculature (no calcifications, microphthalmia, vertical septum",
+      "raw": "Persistent fetal vasculature (no calcifications, microphthalmia, vertical septum",
+      "frequency": null
+    },
+    {
+      "name": "Coats disease",
+      "raw": "Coats disease (subretinal exudation, no calcification, slightly older age group, no enhancement of subretinal space)",
+      "frequency": null
+    },
+    {
+      "name": "Toxocara endophthalmitis",
+      "raw": "Toxocara endophthalmitis (no calcification, usually > 5 years of age, contact with dogs, serology)",
+      "frequency": null
+    },
+    {
+      "name": "Retrolental fibroplasia",
+      "raw": "Retrolental fibroplasia (microphthalmia, bilateral, low birth weight, periventricular leukomalacia)",
+      "frequency": null
+    },
+    {
+      "name": "Giant drusen = nodular type of retinal astrocytic hamartoma",
+      "raw": "Giant drusen = nodular type of retinal astrocytic hamartoma (confined to sensory retina / optic disc, often lack hemorrhage / necrosis, may be associated with tuberous sclerosis / NF1)",
+      "frequency": null
+    },
+    {
+      "name": "Norrie disease",
+      "raw": "Norrie disease (retinal dysplasia)",
+      "frequency": null
+    },
+    {
+      "name": "Coloboma of choroid / optic disc coloboma",
+      "raw": "Coloboma of choroid / optic disc coloboma",
+      "frequency": null
+    },
+    {
+      "name": "Retinoma = retinocytoma",
+      "raw": "Retinoma = retinocytoma (benign variant)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  NEUROEPITHELIOMA OF RETINA =  rare aggressive malignant congenital intraocular tumor Prevalence: 1÷18,000 children < 5 years old in USA; 1÷17,000 - 1÷24,000 live births ◊ Most common intraocular childhood malignancy Frequency:   1% of all pediatric malignancies; 11% of all cancers in 1st year of life; in 80% diagnosed < 3 years of age; in 95% < 5 years of age Origin:   primitive photoreceptor cells of immature retina (included in primitive neuroectodermal tumor group) Cause:   biallelic mutation (= loss of function of both alleles) in primitive neuroepithelial cells located on long arm of c"
+}

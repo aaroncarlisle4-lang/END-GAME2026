@@ -1,0 +1,74 @@
+{
+  "finding": "D. MALIGNANT",
+  "slug": "d_malignant_6f728a",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/d_malignant_6f728a.md",
+  "quality_score": 0.733,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Esophageal carcinoma",
+      "raw": "Esophageal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Barrett ulcer in islets of gastric mucosa @    Midesophagus",
+      "raw": "Barrett ulcer in islets of gastric mucosa @    Midesophagus",
+      "frequency": null
+    },
+    {
+      "name": "Herpes esophagitis",
+      "raw": "Herpes esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "CMV esophagitis",
+      "raw": "CMV esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Drug-induced esophagitis @    Distal esophagus",
+      "raw": "Drug-induced esophagitis @    Distal esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Reflux esophagitis",
+      "raw": "Reflux esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "CMV esophagitis",
+      "raw": "CMV esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Sacculation =  outpouching in distal esophagus due to asymmetric scarring in reflux esophagitis",
+      "raw": "Sacculation =  outpouching in distal esophagus due to asymmetric scarring in reflux esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal intramural pseudodiverticula",
+      "raw": "Esophageal intramural pseudodiverticula",
+      "frequency": null
+    },
+    {
+      "name": "Artifact (a)  tiny precipitates of barium (b)  transient mucosal crinkling in inadequate distension (c)  irregular Z-line",
+      "raw": "Artifact (a)  tiny precipitates of barium (b)  transient mucosal crinkling in inadequate distension (c)  irregular Z-line",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Esophageal carcinoma": [],
+    "Barrett ulcer in islets of gastric mucosa @    Midesophagus": [],
+    "Herpes esophagitis": [],
+    "CMV esophagitis": [],
+    "Drug-induced esophagitis @    Distal esophagus": [
+      "Location: @    Upper esophagus DDx:"
+    ],
+    "Reflux esophagitis": [],
+    "Sacculation =  outpouching in distal esophagus due to asymmetric scarring in reflux esophagitis": [],
+    "Esophageal intramural pseudodiverticula": [],
+    "Artifact (a)  tiny precipitates of barium (b)  transient mucosal crinkling in inadequate distension (c)  irregular Z-line": []
+  },
+  "context": "Location: @    Upper esophagus DDx:"
+}

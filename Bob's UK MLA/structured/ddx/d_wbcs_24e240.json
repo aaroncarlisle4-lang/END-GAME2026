@@ -1,0 +1,37 @@
+{
+  "finding": "D. WBCs",
+  "slug": "d_wbcs_24e240",
+  "chapter": "C. RBCs",
+  "source_file": "processed_clusters/c_rbcs/d_wbcs_24e240.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypersensitivity pneumonia",
+      "raw": "Hypersensitivity pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Acute / chronic eosinophilic pneumonia",
+      "raw": "Acute / chronic eosinophilic pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Desquamative interstitial pneumonia",
+      "raw": "Desquamative interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Churg-Strauss syndrome",
+      "raw": "Churg-Strauss syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Atypical pneumonia",
+      "raw": "Atypical pneumonia (viral, pneumocystis, mycoplasma)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,62 @@
+{
+  "finding": "Lumbar Spinal Stenosis",
+  "slug": "lumbar_spinal_stenosis",
+  "chapter": "SINUS PERICRANII",
+  "source_file": "processed_clusters/sinus_pericranii/lumbar_spinal_stenosis.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Achondroplasia:",
+      "raw": "Achondroplasia:",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease: bony overgrowth",
+      "raw": "Paget disease: bony overgrowth",
+      "frequency": null
+    },
+    {
+      "name": "Spondylolisthesis",
+      "raw": "Spondylolisthesis",
+      "frequency": null
+    },
+    {
+      "name": "Operative posterior spinal fusion",
+      "raw": "Operative posterior spinal fusion",
+      "frequency": null
+    },
+    {
+      "name": "Herniated disk",
+      "raw": "Herniated disk",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis to vertebrae",
+      "raw": "Metastasis to vertebrae",
+      "frequency": null
+    },
+    {
+      "name": "Developmental / congenital",
+      "raw": "Developmental / congenital",
+      "frequency": null
+    },
+    {
+      "name": "often asymptomatic until middle age (until development of secondary degenerative changes); low back pain",
+      "raw": "often asymptomatic until middle age (until development of secondary degenerative changes); low back pain",
+      "frequency": null
+    },
+    {
+      "name": "\"neurogenic / spinal claudication\" = bilateral lower extremity pain, numbness, weakness worse during walking / standing + relieved in supine position and flexion",
+      "raw": "\"neurogenic / spinal claudication\" = bilateral lower extremity pain, numbness, weakness worse during walking / standing + relieved in supine position and flexion",
+      "frequency": null
+    },
+    {
+      "name": "cauda equina syndrome: paraparesis, incontinence, sensory findings in saddlelike pattern, areflexia",
+      "raw": "cauda equina syndrome: paraparesis, incontinence, sensory findings in saddlelike pattern, areflexia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause: √  narrowed interpediculate distance progressive toward lumbar spine Age:     presentation between 30 and 50 years of age √  sagittal diameter of spinal canal < 16 mm (normal range in adults: 15-23 mm) √  diminished amount of CSF + crowding of nerve roots √  unusual small quantity of contrast material to fill thecal sac √  constricted anteroposterior + interpediculate diameter of spinal canal √  dural sac area < 100 mm2 √  hourglass configuration of thecal sac (SAG view) √  triangular / trefoil shape of thecal sac (AXIAL view) √  redundant serpiginous nerve roots above + below stenosis"
+}

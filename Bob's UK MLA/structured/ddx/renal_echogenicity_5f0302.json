@@ -1,0 +1,66 @@
+{
+  "finding": "Renal Echogenicity",
+  "slug": "renal_echogenicity_5f0302",
+  "chapter": "ANATOMY AND FUNCTION OF UROGENITAL TRACT",
+  "source_file": "processed_clusters/anatomy_and_function_of_urogenital_tract/renal_echogenicity_5f0302.md",
+  "quality_score": 0.867,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "ADULTHOOD liver ≥ spleen ≥ renal cortex > renal medulla",
+      "raw": "ADULTHOOD liver ≥ spleen ≥ renal cortex > renal medulla",
+      "frequency": null
+    },
+    {
+      "name": "INFANCY",
+      "raw": "INFANCY (in neonate up to 6 months of age)",
+      "frequency": null
+    },
+    {
+      "name": "Renal Vascular Anatomy",
+      "raw": "Renal Vascular Anatomy",
+      "frequency": null
+    },
+    {
+      "name": "Hilar Arteries",
+      "raw": "Hilar Arteries",
+      "frequency": null
+    },
+    {
+      "name": "Entry:   renal hilum",
+      "raw": "Entry:   renal hilum",
+      "frequency": null
+    },
+    {
+      "name": "CIRCUMAORTIC LEFT RENAL VEIN",
+      "raw": "CIRCUMAORTIC LEFT RENAL VEIN (5-6-17%)",
+      "frequency": "17%"
+    },
+    {
+      "name": "SINGLE RETROAORTIC LEFT RENAL VEIN",
+      "raw": "SINGLE RETROAORTIC LEFT RENAL VEIN (2-3%)",
+      "frequency": "3%"
+    },
+    {
+      "name": "LUMBAR VEINS JOINING LEFT RENAL VEIN",
+      "raw": "LUMBAR VEINS JOINING LEFT RENAL VEIN (75%)",
+      "frequency": "75%"
+    }
+  ],
+  "criteria": {
+    "ADULTHOOD liver ≥ spleen ≥ renal cortex > renal medulla": [
+      "cortex may be more echogenic than adjacent normal liver / spleen Cause:   glomeruli occupy 18% of cortex in neonate compared with 9% in adult",
+      "increase in corticomedullary differentiation Cause:   ratio of cortex to medulla 1.64÷1 in neonate compared with 2.59÷1 in adult",
+      "hypoechoic pyramids appear relatively large Cause:   thin immature cortex in neonate N.B.:   may be misinterpreted as dilated calices / renal cystic disease",
+      "renal sinus echogenicity less prominent Cause:   paucity of fat 1st order:   main renal arteries at level of L1 / upper margin of L2 2nd order:   5 segmental br"
+    ],
+    "INFANCY": [],
+    "Renal Vascular Anatomy": [],
+    "Hilar Arteries": [],
+    "Entry:   renal hilum": [],
+    "CIRCUMAORTIC LEFT RENAL VEIN": [],
+    "SINGLE RETROAORTIC LEFT RENAL VEIN": [],
+    "LUMBAR VEINS JOINING LEFT RENAL VEIN": []
+  },
+  "context": "√  cortex may be more echogenic than adjacent normal liver / spleen Cause:   glomeruli occupy 18% of cortex in neonate compared with 9% in adult √  increase in corticomedullary differentiation Cause:   ratio of cortex to medulla 1.64÷1 in neonate compared with 2.59÷1 in adult √  hypoechoic pyramids appear relatively large Cause:   thin immature cortex in neonate N.B.:   may be misinterpreted as dilated calices / renal cystic disease √  renal sinus echogenicity less prominent Cause:   paucity of fat 1st order:   main renal arteries at level of L1 / upper margin of L2 2nd order:   5 segmental br"
+}

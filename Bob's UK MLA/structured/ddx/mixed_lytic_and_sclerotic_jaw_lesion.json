@@ -1,0 +1,32 @@
+{
+  "finding": "Mixed Lytic and Sclerotic Jaw Lesion",
+  "slug": "mixed_lytic_and_sclerotic_jaw_lesion",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/mixed_lytic_and_sclerotic_jaw_lesion.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteoradionecrosis",
+      "raw": "Osteoradionecrosis",
+      "frequency": null
+    },
+    {
+      "name": "Biphosphonate-related osteonecrosis of jaw",
+      "raw": "Biphosphonate-related osteonecrosis of jaw (BRONJ)",
+      "frequency": null
+    },
+    {
+      "name": "Mandibular osteomyelitis",
+      "raw": "Mandibular osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Primary chronic osteomyelitis",
+      "raw": "Primary chronic osteomyelitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Vulnerability:  mandible > maxilla buccal > lingual cortex ◊  Chin + angle of mandible spared ← muscle insertions √  area of marked osteosclerosis √  loss of trabeculation in spongiosa √  cortical interruptions + fragmentation √  poorly marginated areas of soft-tissue attenuation + fluid collections + gas attenuation √  sequestration Cause:   caries, extractions, fracture, osteoradionecrosis √  cortical interruption √  sclerotic sequestra in low-attenuation zones √  periosteal new bone formation √  areas of gas attenuation"
+}

@@ -1,0 +1,40 @@
+{
+  "name": "RETINAL DETACHMENT",
+  "slug": "retinal_detachment",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/retinal_detachment.md",
+  "definition": "separation of the sensory retina from retinal pigment epithelium (RPE) = deep retinal layer",
+  "demographics": {},
+  "dominant_finding": "differentiation of serous vs. proteinaceous vs. hemorrhagic fluid",
+  "distribution": "",
+  "discriminating_features": [
+    "CHARACTERISTIC V-shape (= total detachment)",
+    "in one quadrant only (= partial detachment)",
+    "thick folded retina with loss of mobility (long-standing detachment)",
+    "subretinal space normal / occupied by blood / inflammation / tumor (depending on cause)",
+    "differentiation of serous vs. proteinaceous vs. hemorrhagic fluid"
+  ],
+  "other_features": {
+    "general": [
+      "CHARACTERISTIC V-shape (= total detachment)",
+      "in one quadrant only (= partial detachment)",
+      "thick folded retina with loss of mobility (long-standing detachment)",
+      "subretinal space normal / occupied by blood / inflammation / tumor (depending on cause)"
+    ],
+    "MR": [
+      "differentiation of serous vs. proteinaceous vs. hemorrhagic fluid"
+    ],
+    "US": [
+      "curvilinear line of high echogenicity fixed at optic disc (= papilla) + extending to ora",
+      "floating echogenic line fixed at papilla extending to ora serrata (if acute)",
+      "thick folded fixed echogenic line (if chronic)",
+      "± anechoic retinal cysts",
+      "fluid = anechoic; blood = anechoic / hypoechoic with low-level echoes; neoplasm = solid"
+    ]
+  },
+  "clinical": {
+    "Cx": "vision loss (if macula involved)",
+    "Rx": "scleral buckle, pneumatic retinopexy, laser therapy, cryotherapy, vitrectomy",
+    "N.B.": "Examine subretinal space and vitreous for blood / exudative fluid / tumor since"
+  }
+}

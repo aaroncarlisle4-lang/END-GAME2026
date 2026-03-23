@@ -1,0 +1,22 @@
+{
+  "finding": "Lithium-Induced Nephrotoxicity (DDx)",
+  "slug": "lithium_induced_nephrotoxicity_ddx",
+  "chapter": "Lithium-Induced Nephrotoxicity",
+  "source_file": "processed_clusters/lithium_induced_nephrotoxicity/lithium_induced_nephrotoxicity_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "autosomal dominant polycystic kidney disease",
+      "raw": "autosomal dominant polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "glomerulocystic kidney disease",
+      "raw": "glomerulocystic kidney disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "abundant uniformly distributed renal microcysts | 1-2 mm microcysts (in 33-62%) | multiple tiny hypoattenuating lesions | multiple T2-hyperintense foci"
+}

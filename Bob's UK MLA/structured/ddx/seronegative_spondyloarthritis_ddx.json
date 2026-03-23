@@ -1,0 +1,27 @@
+{
+  "finding": "Seronegative Spondyloarthritis (DDx)",
+  "slug": "seronegative_spondyloarthritis_ddx",
+  "chapter": "Seronegative Spondyloarthritis",
+  "source_file": "processed_clusters/seronegative_spondyloarthritis/seronegative_spondyloarthritis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "rheumatoid arthritis",
+      "raw": "rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "degenerative disk disease",
+      "raw": "degenerative disk disease",
+      "frequency": null
+    },
+    {
+      "name": "diffuse idiopathic skeletal hyperostosis",
+      "raw": "diffuse idiopathic skeletal hyperostosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "sacroiliitis | calcaneal enthesitis | peripheral arthritis"
+}

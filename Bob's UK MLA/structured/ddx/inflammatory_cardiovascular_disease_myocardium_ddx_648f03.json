@@ -1,0 +1,32 @@
+{
+  "finding": "Inflammatory Cardiovascular Disease — Myocardium (DDx)",
+  "slug": "inflammatory_cardiovascular_disease_myocardium_ddx_648f03",
+  "chapter": "Inflammatory Cardiovascular Disease",
+  "source_file": "processed_clusters/inflammatory_cardiovascular_disease/inflammatory_cardiovascular_disease_myocardium_ddx_648f03.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "low-signal-intensity striations",
+      "raw": "low-signal-intensity striations",
+      "frequency": null
+    },
+    {
+      "name": "septa",
+      "raw": "septa",
+      "frequency": null
+    },
+    {
+      "name": "thrombosed vessels",
+      "raw": "thrombosed vessels",
+      "frequency": null
+    },
+    {
+      "name": "phleboliths (a)  Venous malformation",
+      "raw": "phleboliths (a)  Venous malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "absence of flow voids on SE images"
+}

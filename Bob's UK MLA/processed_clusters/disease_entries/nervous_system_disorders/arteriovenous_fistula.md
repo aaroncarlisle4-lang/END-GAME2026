@@ -1,0 +1,77 @@
+# Disease: ARTERIOVENOUS FISTULA
+
+**Source section:** NERVOUS SYSTEM DISORDERS
+
+## Definition
+
+AVF abnormal communication between artery + vein resulting in tremendous amount of flow due to abnormal communication between veins of cavernous sinus and ≥ 1 branches of internal / often high-flow lesions with direct fistulous communication between a pial artery + a vein
+
+## Key Facts
+
+- **Age:** any
+- **Etiology:** atherosclerosis
+- **Prevalence:** 10-15% of intracranial AV shunts
+- **Peak age:** 20-40 years; M=F
+- **Location:** cavernous sinus (20-40%), transverse / sigmoid sinus (20-60%), tentorium (12-
+- **Associated with:** hereditary hemorrhagic telangiectasia (frequent)
+
+## Imaging Findings
+
+### General
+
+- ± visualization of feeding dural branches of ECA / ICA
+- dilatation + tortuosity of ipsilateral superior ophthalmic vein, facial veins, internal jugular
+- enlargement of dural venous sinuses ← increased venous flow + pressure
+- enlarged edematous extraocular muscles
+- focal asymmetric / diffuse enlargement of cavernous sinus
+- occasionally sellar erosion / enlargement
+- enlargement of superior orbital fissure (in chronic phase)
+- stretching of optic nerve
+- proptosis
+- subchoroidal effusion
+
+### US
+
+- arterial flow in cavernous sinus + superior ophthalmic vein
+
+### CECT
+
+- early opacification of cavernous sinus
+- multiple small vessels within wall of thrombosed / partially recanalized stenotic dural
+- prominent feeding meningeal artery:
+- enlarged draining veins
+- dilated transcalvarial channels ← transosseous feeding artery
+
+### MR
+
+- flow voids in cavernous sinus
+- dilated cortical veins (= pseudophlebitic pattern):
+- abnormal enhancing tubular structures
+- flow voids within cortical sulci
+- NO true nidus within brain parenchyma
+- dilated vessels of brain surface (from MCA, ACA, PCA)
+- asymmetric dilatation of pial feeder artery
+- dilated often (serpentine) varicose draining vein
+- ± dilated venous pouches outside brain parenchyma
+- NO nidus / classic intraparenchymal tangle of vessels
+- ± spontaneous intracranial hemorrhage
+
+### ANGIO
+
+- ipsilateral ICA contrast injection shows wall of ICA to be incomplete
+- contralateral ICA contrast injection + compression of involved ICA
+- early opacification of veins of cavernous sinus
+- retrograde flow through dilated superior ophthalmic vein
+
+## Clinical
+
+- **Rx:** transvenous / transarterial coil ablation ± stent placement; latex / silicone balloon
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

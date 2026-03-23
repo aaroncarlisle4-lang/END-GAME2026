@@ -1,0 +1,23 @@
+{
+  "name": "TOXIC MULTINODULAR GOITER",
+  "slug": "toxic_multinodular_goiter",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/toxic_multinodular_goiter.md",
+  "definition": "multinodular goiter associated with hyperthyroidism",
+  "demographics": {
+    "Age": "elderly"
+  },
+  "dominant_finding": "RAIU normal / slightly elevated",
+  "distribution": "",
+  "discriminating_features": [
+    "RAIU normal / slightly elevated",
+    "multiple \"hot\" nodules in thyroid with suppressed extranodular thyroid tissue"
+  ],
+  "other_features": {
+    "general": [
+      "RAIU normal / slightly elevated",
+      "multiple \"hot\" nodules in thyroid with suppressed extranodular thyroid tissue"
+    ]
+  },
+  "clinical": {}
+}

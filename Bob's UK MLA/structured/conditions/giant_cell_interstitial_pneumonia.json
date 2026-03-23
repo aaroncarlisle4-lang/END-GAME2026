@@ -1,0 +1,31 @@
+{
+  "name": "GIANT CELL INTERSTITIAL PNEUMONIA",
+  "slug": "giant_cell_interstitial_pneumonia",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/giant_cell_interstitial_pneumonia.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "bilateral areas of ground-glass attenuation",
+  "distribution": "diffuse micronodular pattern",
+  "discriminating_features": [
+    "diffuse micronodular pattern",
+    "reticular pattern; in advanced disease coarse and accompanied by small cystic spaces",
+    "± lymph node enlargement",
+    "bilateral areas of ground-glass attenuation",
+    "areas of consolidation"
+  ],
+  "other_features": {
+    "general": [
+      "diffuse micronodular pattern",
+      "reticular pattern; in advanced disease coarse and accompanied by small cystic spaces",
+      "± lymph node enlargement"
+    ],
+    "HRCT": [
+      "bilateral areas of ground-glass attenuation",
+      "areas of consolidation",
+      "extensive reticulations",
+      "traction bronchiectasis"
+    ]
+  },
+  "clinical": {}
+}

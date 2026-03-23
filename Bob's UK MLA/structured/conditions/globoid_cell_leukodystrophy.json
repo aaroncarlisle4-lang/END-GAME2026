@@ -1,0 +1,29 @@
+{
+  "name": "GLOBOID CELL LEUKODYSTROPHY",
+  "slug": "globoid_cell_leukodystrophy",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/globoid_cell_leukodystrophy.md",
+  "definition": "KRABBE DISEASE autosomal recessive neurodegenerative disorder characterized by severe myelin loss +",
+  "demographics": {
+    "Age": "3-6 months"
+  },
+  "dominant_finding": "decreased attenuation of white matter",
+  "distribution": "symmetric hyperintensity / hyperdensity in periventricular white matter, thalami, basal",
+  "discriminating_features": [
+    "symmetric hyperintensity / hyperdensity in periventricular white matter, thalami, basal",
+    "decreased attenuation of white matter",
+    "brain atrophy with enlargement of ventricles",
+    "elevated choline + creatine + myo-inositol associated with moderate N-acetylaspartate"
+  ],
+  "other_features": {
+    "general": [
+      "symmetric hyperintensity / hyperdensity in periventricular white matter, thalami, basal",
+      "decreased attenuation of white matter",
+      "brain atrophy with enlargement of ventricles",
+      "elevated choline + creatine + myo-inositol associated with moderate N-acetylaspartate"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death within first few years of life"
+  }
+}

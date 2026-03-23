@@ -1,0 +1,34 @@
+{
+  "name": "NEAR DROWNING",
+  "slug": "near_drowning",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/near_drowning.md",
+  "definition": "asphyxiation ← water inhalation followed by survival for a minimum of 24 hour laryngospasm + swallowing of water into the stomach",
+  "demographics": {},
+  "dominant_finding": "NO roentgenographic abnormality",
+  "distribution": "Kerley lines, peribronchial cuffing",
+  "discriminating_features": [
+    "NO roentgenographic abnormality",
+    "Kerley lines, peribronchial cuffing",
+    "patchy perihilar alveolar airspace consolidation",
+    "pressure edema",
+    "permeability edema ← hypoxia + diffuse alveolar damage"
+  ],
+  "other_features": {
+    "general": [
+      "NO roentgenographic abnormality",
+      "Kerley lines, peribronchial cuffing",
+      "patchy perihilar alveolar airspace consolidation",
+      "pressure edema",
+      "permeability edema ← hypoxia + diffuse alveolar damage",
+      "no roentgenographic abnormality",
+      "central extensive fluffy areas of increased opacity (alveolar edema indistinguishable from",
+      "tendency for opacities to coalesce",
+      "hyaline membrane formation = considerable loss of protein from blood"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "resolution within 24-48 hours (under therapy)",
+    "Cx": "ARDS, aspiration of gastric fluid, infection by fresh-water saprophytic bacteria"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "finding": "Essex-Lopresti Fracture",
+  "slug": "essex_lopresti_fracture",
+  "chapter": "FLORID REACTIVE PERIOSTITIS",
+  "source_file": "processed_clusters/florid_reactive_periostitis/essex_lopresti_fracture.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "wrist pain / tenderness",
+      "raw": "wrist pain / tenderness",
+      "frequency": null
+    },
+    {
+      "name": "High incidence of nonunion, delayed union, malunion",
+      "raw": "High incidence of nonunion, delayed union, malunion (unstable fracture)",
+      "frequency": null
+    },
+    {
+      "name": "Limitation of pronation / supination",
+      "raw": "Limitation of pronation / supination",
+      "frequency": null
+    },
+    {
+      "name": "Cx:  altered function of carpus [Carpal Injury]",
+      "raw": "Cx:  altered function of carpus",
+      "frequency": null,
+      "sites": [
+        "Carpal Injury"
+      ]
+    },
+    {
+      "name": "Hamate Fracture",
+      "raw": "Hamate Fracture",
+      "frequency": null
+    },
+    {
+      "name": "grip weakness; pain with resistance to flexion of 5th finger",
+      "raw": "grip weakness; pain with resistance to flexion of 5th finger",
+      "frequency": null
+    },
+    {
+      "name": "Fracture orientation:   transverse, sagittal",
+      "raw": "Fracture orientation:   transverse, sagittal",
+      "frequency": null
+    },
+    {
+      "name": "Cx:  nonunion → Kienböck disease",
+      "raw": "Cx:  nonunion → Kienböck disease",
+      "frequency": null
+    },
+    {
+      "name": "Pisiform Fracture",
+      "raw": "Pisiform Fracture",
+      "frequency": null
+    },
+    {
+      "name": "Fracture type:   linear, comminuted, chip",
+      "raw": "Fracture type:   linear, comminuted, chip",
+      "frequency": null
+    },
+    {
+      "name": "Cx:  ulnar nerve injury",
+      "raw": "Cx:  ulnar nerve injury",
+      "frequency": null
+    },
+    {
+      "name": "Rx:  excision of pisiform bone",
+      "raw": "Rx:  excision of pisiform bone",
+      "frequency": null
+    },
+    {
+      "name": "Scaphoid Fracture",
+      "raw": "Scaphoid Fracture",
+      "frequency": null
+    },
+    {
+      "name": "pain + tenderness at anatomic snuff box",
+      "raw": "pain + tenderness at anatomic snuff box",
+      "frequency": null
+    },
+    {
+      "name": "Malunion; delayed union; nonunion",
+      "raw": "Malunion; delayed union; nonunion (5-15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Progressive fragment displacement",
+      "raw": "Progressive fragment displacement",
+      "frequency": null
+    },
+    {
+      "name": "Avascular necrosis of proximal fragment (13-50%); higher prevalence if proximal pole fractured ← distal location of main nutrient a.",
+      "raw": "Avascular necrosis of proximal fragment (13-50%); higher prevalence if proximal pole fractured ← distal location of main nutrient a.",
+      "frequency": "50%"
+    },
+    {
+      "name": "Cx:  pseudarthrosis",
+      "raw": "Cx:  pseudarthrosis",
+      "frequency": null
+    },
+    {
+      "name": "Boxer's Fracture",
+      "raw": "Boxer's Fracture",
+      "frequency": null
+    },
+    {
+      "name": "Mechanism:   direct blow with clenched fist",
+      "raw": "Mechanism:   direct blow with clenched fist",
+      "frequency": null
+    },
+    {
+      "name": "paradoxic motion of fractured chest wall with respiration on clinical examination",
+      "raw": "paradoxic motion of fractured chest wall with respiration on clinical examination",
+      "frequency": null
+    },
+    {
+      "name": "respiratory failure",
+      "raw": "respiratory failure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "[Peter Gordon Essex-Lopresti (1918-1951), surgeon at Birmingham Accident Center, England] Mechanism:   FOOSH-type injury √  \"floating radius\": √  comminuted displaced radial head fracture √  dislocation of distal radioulnar joint = discrepancy of radioulnar distance > 5 mm compared to contralateral uninjured wrist (on lateral radiograph) √  disruption of interosseous membrane Rx:  nearly always surgical intervention Galeazzi Fracture [Ricardo Galeazzi (1866-1952), orthopedic surgeon in Italy] =  PIEDMONT FRACTURE Mechanism:   fall on outstretched hand with elbow flexed √  radial shaft fracture"
+}

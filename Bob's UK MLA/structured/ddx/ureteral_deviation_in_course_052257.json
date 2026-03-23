@@ -1,0 +1,62 @@
+{
+  "finding": "Ureteral Deviation in Course",
+  "slug": "ureteral_deviation_in_course_052257",
+  "chapter": "B. SMOOTH MUSCLE DYSFUNCTION",
+  "source_file": "processed_clusters/b_smooth_muscle_dysfunction/ureteral_deviation_in_course_052257.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "LUMBAR URETER",
+      "raw": "LUMBAR URETER (a)  lateral deviation (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "Hypertrophy of psoas muscle",
+      "raw": "Hypertrophy of psoas muscle",
+      "frequency": null
+    },
+    {
+      "name": "Enlargement of paracaval / para-aortic lymph nodes",
+      "raw": "Enlargement of paracaval / para-aortic lymph nodes",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal dilatation of aorta",
+      "raw": "Aneurysmal dilatation of aorta",
+      "frequency": null
+    },
+    {
+      "name": "Neurogenic tumors",
+      "raw": "Neurogenic tumors",
+      "frequency": null
+    },
+    {
+      "name": "Fluid collections: abscess, urinoma, lymphocele, hematoma (b)  medial deviation",
+      "raw": "Fluid collections: abscess, urinoma, lymphocele, hematoma (b)  medial deviation",
+      "frequency": null
+    },
+    {
+      "name": "Retrocaval ureter",
+      "raw": "Retrocaval ureter (on right side only)",
+      "frequency": null
+    },
+    {
+      "name": "Circumcaval ureter",
+      "raw": "Circumcaval ureter",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal fibrosis",
+      "raw": "Retroperitoneal fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory aortic aneurysm",
+      "raw": "Inflammatory aortic aneurysm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

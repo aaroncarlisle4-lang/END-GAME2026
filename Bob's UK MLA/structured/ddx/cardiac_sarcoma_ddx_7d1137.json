@@ -1,0 +1,22 @@
+{
+  "finding": "Cardiac Sarcoma (DDx)",
+  "slug": "cardiac_sarcoma_ddx_7d1137",
+  "chapter": "Cardiac Sarcoma",
+  "source_file": "processed_clusters/cardiac_sarcoma/cardiac_sarcoma_ddx_7d1137.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastatic osteosarcoma",
+      "raw": "metastatic osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "myxoma",
+      "raw": "myxoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "broad base of attachment with invasive behavior | dense calcifications (frequent) on CT | heterogeneously hypointense on T1WI | hyperintense on T2WI"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Focal Alimentary Tract Calcifications",
+  "slug": "focal_alimentary_tract_calcifications",
+  "chapter": "B. CHEST",
+  "source_file": "processed_clusters/b_chest/focal_alimentary_tract_calcifications.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ENTEROLITHS= fecalith = coprolith",
+      "raw": "ENTEROLITHS= fecalith = coprolith [faex, Latin = dregs; kopros, Greek = dung]",
+      "frequency": null
+    },
+    {
+      "name": "Appendicolith: in 10-15% of acute appendicitis",
+      "raw": "Appendicolith: in 10-15% of acute appendicitis",
+      "frequency": "15%"
+    },
+    {
+      "name": "Stone in Meckel diverticulum",
+      "raw": "Stone in Meckel diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Diverticular stone",
+      "raw": "Diverticular stone",
+      "frequency": null
+    },
+    {
+      "name": "Rectal stone",
+      "raw": "Rectal stone",
+      "frequency": null
+    },
+    {
+      "name": "Proximal to partial obstruction: TB, Crohn disease",
+      "raw": "Proximal to partial obstruction: TB, Crohn disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

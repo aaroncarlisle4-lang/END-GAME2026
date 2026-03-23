@@ -1,0 +1,32 @@
+{
+  "finding": "B. Papillary edema",
+  "slug": "b_papillary_edema",
+  "chapter": "Enlargement of Papilla of Vater",
+  "source_file": "processed_clusters/enlargement_of_papilla_of_vater/b_papillary_edema.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Impacted stone",
+      "raw": "Impacted stone",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis",
+      "raw": "Pancreatitis (Poppel sign)",
+      "frequency": null
+    },
+    {
+      "name": "Acute duodenal ulcer disease",
+      "raw": "Acute duodenal ulcer disease",
+      "frequency": null
+    },
+    {
+      "name": "Papillitis",
+      "raw": "Papillitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

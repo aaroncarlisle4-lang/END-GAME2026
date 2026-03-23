@@ -1,0 +1,72 @@
+{
+  "finding": "C. TRANSUDATE = \"WATER\" = PULMONARY EDEMA / ARDS",
+  "slug": "c_transudate_water_pulmonary_edema_ards",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/c_transudate_water_pulmonary_edema_ards.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cardiac edema",
+      "raw": "Cardiac edema",
+      "frequency": null
+    },
+    {
+      "name": "Neurogenic edema",
+      "raw": "Neurogenic edema",
+      "frequency": null
+    },
+    {
+      "name": "Hypoproteinemia",
+      "raw": "Hypoproteinemia",
+      "frequency": null
+    },
+    {
+      "name": "Fluid overload",
+      "raw": "Fluid overload",
+      "frequency": null
+    },
+    {
+      "name": "Renal failure",
+      "raw": "Renal failure",
+      "frequency": null
+    },
+    {
+      "name": "Radiotherapy",
+      "raw": "Radiotherapy",
+      "frequency": null
+    },
+    {
+      "name": "Shock",
+      "raw": "Shock",
+      "frequency": null
+    },
+    {
+      "name": "Toxic inhalation",
+      "raw": "Toxic inhalation",
+      "frequency": null
+    },
+    {
+      "name": "Drug reaction",
+      "raw": "Drug reaction",
+      "frequency": null
+    },
+    {
+      "name": "Drowning",
+      "raw": "Drowning",
+      "frequency": null
+    },
+    {
+      "name": "Aspiration",
+      "raw": "Aspiration",
+      "frequency": null
+    },
+    {
+      "name": "Adult respiratory distress syndrome",
+      "raw": "Adult respiratory distress syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,23 @@
+{
+  "name": "LEIGH DISEASE",
+  "slug": "leigh_disease",
+  "chapter": "INTRAVENTRICULAR NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/intraventricular_neurocytoma/leigh_disease.md",
+  "definition": "SUBACUTE NECROTIZING ENCEPHALOMYELOPATHY autosomal recessive disorder characterized by deficiencies in pyruvate carboxylase +",
+  "demographics": {
+    "Location": "putamen (consistently), periaqueductal region, cerebral peduncles"
+  },
+  "dominant_finding": "T2 prolongation of affected areas",
+  "distribution": "putamen (consistently), periaqueductal region, cerebral peduncles",
+  "discriminating_features": [
+    "T2 prolongation of affected areas",
+    "abnormally high lactate levels on MR spectroscopy"
+  ],
+  "other_features": {
+    "general": [
+      "T2 prolongation of affected areas",
+      "abnormally high lactate levels on MR spectroscopy"
+    ]
+  },
+  "clinical": {}
+}

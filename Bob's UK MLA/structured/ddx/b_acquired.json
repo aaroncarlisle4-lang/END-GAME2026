@@ -1,0 +1,87 @@
+{
+  "finding": "B. ACQUIRED",
+  "slug": "b_acquired",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/b_acquired.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pericardial effusion",
+      "raw": "Pericardial effusion",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac tamponade",
+      "raw": "Cardiac tamponade",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory pericarditis",
+      "raw": "Inflammatory pericarditis",
+      "frequency": null
+    },
+    {
+      "name": "Constrictive pericarditis",
+      "raw": "Constrictive pericarditis",
+      "frequency": null
+    },
+    {
+      "name": "PERICARDIAL PSEUDOMASS cystic lesion, hematoma, gossypiboma (= foreign body granuloma around surgical sponge), complex organized effusion, abundant epicardial fat, epicardial fat necrosis",
+      "raw": "PERICARDIAL PSEUDOMASS cystic lesion, hematoma, gossypiboma (= foreign body granuloma around surgical sponge), complex organized effusion, abundant epicardial fat, epicardial fat necrosis",
+      "frequency": null
+    },
+    {
+      "name": "TRUE PERICARDIAL MASS Pericardial neoplasms are rarely asymptomatic usually presenting with nonspecific diverse symptoms:",
+      "raw": "TRUE PERICARDIAL MASS Pericardial neoplasms are rarely asymptomatic usually presenting with nonspecific diverse symptoms:",
+      "frequency": null
+    },
+    {
+      "name": "exertional dyspnea, chest pain, cough, palpitations",
+      "raw": "exertional dyspnea, chest pain, cough, palpitations",
+      "frequency": null
+    },
+    {
+      "name": "fatigue, night sweats, fever",
+      "raw": "fatigue, night sweats, fever",
+      "frequency": null
+    },
+    {
+      "name": "facial / lower-extremity edema due to:   pericarditis, pericardial effusion, invasion of adjacent structures",
+      "raw": "facial / lower-extremity edema due to:   pericarditis, pericardial effusion, invasion of adjacent structures (a)  Primary pericardial tumor (extremely rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Pericardial mesothelioma",
+      "raw": "Pericardial mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial sarcoma: angio-, lipo-, rhabdomyo-, synovial sarcoma, undifferentiated sarcoma",
+      "raw": "Pericardial sarcoma: angio-, lipo-, rhabdomyo-, synovial sarcoma, undifferentiated sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial lymphoma",
+      "raw": "Pericardial lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial teratoma",
+      "raw": "Pericardial teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial fibroma, hemangioma, lipoma (b)  Secondary pericardial tumor (in 10-12%):",
+      "raw": "Pericardial fibroma, hemangioma, lipoma (b)  Secondary pericardial tumor (in 10-12%):",
+      "frequency": "12%"
+    },
+    {
+      "name": "constrictive physiology",
+      "raw": "constrictive physiology",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  direct invasion by neoplasm of lung, mediastinum (lymphoma), heart (angiosarcoma) ›  hematologic spread from malignant melanoma, lymphoma, breast cancer ›  venous extension from renal cell carcinoma, HCC Cx: (1) invasion of mediastinal structures (2) regional / distant metastases (3) pericardial effusion (4) cardiac tamponade (5) compression of vascular structures / cardiac chambers (6) encasement of vital structures (7) involvement of coronary arteries (8) myocardial infarction (9) diastolic dysfunction"
+}

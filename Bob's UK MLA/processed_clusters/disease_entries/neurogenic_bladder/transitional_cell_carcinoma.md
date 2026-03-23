@@ -1,0 +1,96 @@
+# Disease: TRANSITIONAL CELL CARCINOMA
+
+**Source section:** NEUROGENIC BLADDER
+
+## Definition
+
+UROTHELIAL CELL CARCINOMA frondlike structure with central fibrovascular core lined by epithelial layer
+
+## Key Facts
+
+- **Mean age:** 68 years; M÷F = 2.7÷1; Whites > Blacks
+- **Location:** typically multifocal
+- **Prevalence:** 7% of all renal neoplasms; bilateral in 2-4%; 90% of all tumors arising from
+- **Age:** 6th & 7th decades; M÷F = 3÷1
+- **Incidence:** 1% of all upper urinary tract cancers
+
+## Imaging Findings
+
+### US
+
+- bulky hypoechoic (similar to renal parenchyma) / slightly hyperechoic mass lesion
+- infiltrative without disruption of renal contour
+- splitting / separation of central renal sinus complex
+- ± caliectasis without pelviectasis
+
+### NECT
+
+- tumor density of 5-30 HU:
+- hyperattenuating relative to urine + renal parenchyma
+- hypoattenuating relative to clot (40-80 HU) / calculus (> 100 HU)
+- hydronephrosis / hydrocalyx (most frequent finding)
+- "faceless" kidney on cross-sectional imaging → coronal imaging helpful
+- focal or diffuse mural thickening of pelvicaliceal wall
+- pelvicaliceal irregularity
+- oncocalyx
+- central sessile solid filling defect centrifugally expanding renal pelvis
+- obliteration / compression of renal sinus fat
+- invasion of renal parenchyma (infiltrating growth pattern) with preservation of reniform
+- coarse punctate calcific deposits (0.7-6.7%) may mimic urinary calculi
+- variable enhancement of tumor
+
+### MR
+
+- typically isointense relative to renal medulla on T1WI
+- hypointense filling defect in hyperintense urine on T2WI
+- hypointense soft-tissue mass infiltrating renal parenchyma of intermediate SI
+- hypoenhancing tumor mass on postcontrast imaging, (rarely) avidly enhancing
+- enhancing focal filling defect in collecting system
+- nonfunctioning kidney in advanced tumor (46%)
+- hydronephrosis ± hydroureter (34%)
+- single / multiple ureteral filling defects (19%) ± surface stippling
+- irregular nontapering narrowing of ureteral lumen
+- stricture suggestive of malignancy:
+- ureteric fixation + nontapering margins
+- eccentric / circumferential stricture
+- "champagne glass / chalice / goblet" sign = focal expansion of ureter around + distal to
+- Bergman sign = "catheter-coiling" sign = coiling of catheter on retrograde catheterization
+
+### CT
+
+- enhancing intraluminal soft-tissue mass
+- eccentric / circumferential thickening of ureteral wall
+- periureteric fat stranding ← extramural spread
+
+### Upper urinary tract
+
+- single / multiple sessile / pedunculated mulberry-like filling defects in renal pelvis
+- "stipple" sign = contrast material trapped in interstices of papillary lesion (DDx:
+- dilated calyx with filling defect (26%) ← stricture / complete obstruction of
+- ± focal delayed increasingly dense nephrogram
+- caliceal amputation (19%) = "phantom calyx" = failure to opacify ← obstruction
+- "oncocalyx" = contrast outlining distended calyx completely filled with tumor
+- absent / decreased excretion with renal atrophy (13%) ← long-standing obstruction of
+- renal enlargement:
+- large bean-shaped kidney ← infiltrative tumor invasion of renal parenchyma
+- hydronephrosis (6%) ← tumor obstructing ureteropelvic junction
+- tumor calcifications in 2-7%
+- smooth / irregular / stippled intraluminal filling defect
+- irregular papillary / nodular mucosa
+- "amputated" calyx ± focal hydronephrosis
+- "oncocalyx" = tumor-filled distended calyx
+- calculus ← urinary stasis
+
+## Clinical
+
+- **Prognosis:** 77-80% 5-year survival rate without invasion of muscularis mucosa; 5% 5-year
+- **Rx:** total nephroureterectomy + excision of ipsilateral ureteric orifice with cuff of bladder
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

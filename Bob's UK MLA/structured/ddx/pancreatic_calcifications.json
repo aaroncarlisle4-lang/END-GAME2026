@@ -1,0 +1,48 @@
+{
+  "finding": "Pancreatic Calcifications",
+  "slug": "pancreatic_calcifications",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/pancreatic_calcifications.md",
+  "quality_score": 0.767,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "CHRONIC PANCREATITIS Numerous irregular stippled calcifications of varying size; predominantly intraductal (a)  Alcoholic pancreatitis (in 20-50%):",
+      "raw": "CHRONIC PANCREATITIS Numerous irregular stippled calcifications of varying size; predominantly intraductal (a)  Alcoholic pancreatitis (in 20-50%):",
+      "frequency": "50%"
+    },
+    {
+      "name": "NEOPLASM (a)  Microcystic adenoma (in 33%):",
+      "raw": "NEOPLASM (a)  Microcystic adenoma (in 33%):",
+      "frequency": "33%"
+    },
+    {
+      "name": "INTRAPARENCHYMAL HEMORRHAGE (a)  Old hematoma / abscess / infarction (b)  Rupture of intrapancreatic aneurysm",
+      "raw": "INTRAPARENCHYMAL HEMORRHAGE (a)  Old hematoma / abscess / infarction (b)  Rupture of intrapancreatic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "HYPERPARATHYROIDISM (in 20%):",
+      "raw": "HYPERPARATHYROIDISM (in 20%):",
+      "frequency": "20%"
+    },
+    {
+      "name": "CYSTIC FIBROSIS",
+      "raw": "CYSTIC FIBROSIS",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "CHRONIC PANCREATITIS Numerous irregular stippled calcifications of varying size; predominantly intraductal (a)  Alcoholic pancreatitis (in 20-50%):": [
+      "small speckled intraductal calculi limited to head / tail in 25% (b)  Biliary pancreatitis (in 2%) (c)  Hereditary pancreatitis (in 35-60%):",
+      "round calcifications throughout gland (d)  Idiopathic pancreatitis (e)  Pancreatic pseudocyst (f)  Juvenile tropical pancreatitis",
+      "\"sunburst\" appearance of calcifications (b)  Macrocystic cystadenoma In 15%):",
+      "amorphous peripheral calcifications (c)  Adenocarcinoma (in 2%): with \"sunburst\" pattern (d)  Cavernous lymphangioma / hemangioma:"
+    ],
+    "NEOPLASM (a)  Microcystic adenoma (in 33%):": [],
+    "INTRAPARENCHYMAL HEMORRHAGE (a)  Old hematoma / abscess / infarction (b)  Rupture of intrapancreatic aneurysm": [],
+    "HYPERPARATHYROIDISM (in 20%):": [],
+    "CYSTIC FIBROSIS": []
+  },
+  "context": "√  small speckled intraductal calculi limited to head / tail in 25% (b)  Biliary pancreatitis (in 2%) (c)  Hereditary pancreatitis (in 35-60%): √  round calcifications throughout gland (d)  Idiopathic pancreatitis (e)  Pancreatic pseudocyst (f)  Juvenile tropical pancreatitis √  discrete dense up to 5 cm large calculi √  \"sunburst\" appearance of calcifications (b)  Macrocystic cystadenoma In 15%): √  amorphous peripheral calcifications (c)  Adenocarcinoma (in 2%): with \"sunburst\" pattern (d)  Cavernous lymphangioma / hemangioma: √  multiple phleboliths (e)  Metastases from colon cancer ◊  50%"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "THYROID GLAND",
+  "slug": "thyroid_gland",
+  "chapter": "NECK",
+  "source_file": "processed_clusters/disease_entries/neck/thyroid_gland.md",
+  "definition": "small temporary channel along which thyroid primordium descends in midline of neck to its",
+  "demographics": {
+    "Location": "(a) base of the tongue (90%);"
+  },
+  "dominant_finding": "mildly increased attenuation of 70 HU ± 10 relative to adjacent muscle ← intrinsic",
+  "distribution": "(a) base of the tongue (90%);",
+  "discriminating_features": [
+    "intense homogeneous enhancement",
+    "homogeneous mildly hyperattenuating relative to surrounding neck musculature with an",
+    "mildly increased attenuation of 70 HU ± 10 relative to adjacent muscle ← intrinsic",
+    "well-circumscribed homogeneous avidly enhancing mass",
+    "islands of low attenuation within ectopic thyroid tissue = clue to diagnosis of ectopic"
+  ],
+  "other_features": {
+    "general": [
+      "intense homogeneous enhancement"
+    ],
+    "CT": [
+      "homogeneous mildly hyperattenuating relative to surrounding neck musculature with an",
+      "mildly increased attenuation of 70 HU ± 10 relative to adjacent muscle ← intrinsic",
+      "well-circumscribed homogeneous avidly enhancing mass",
+      "islands of low attenuation within ectopic thyroid tissue = clue to diagnosis of ectopic"
+    ],
+    "MR": [
+      "slightly hyperintense on T1WI + iso- to slightly hyperintense on T2WI relative to the neck",
+      "symmetric uniform uptake in both lobes",
+      "absence of orthotopic thyroid tissue (in 70-80%)",
+      "thyroid tissue identified in usual thyroid bed / at ectopic sites",
+      "isointense to mildly hyperintense relative to musculature on T1WI",
+      "mildly hyperintense with variable enhancement on T2WI"
+    ]
+  },
+  "clinical": {
+    "N.B.": "intravenous contrast medium impairs thyroid uptake of radioactive iodine for 4-8"
+  }
+}

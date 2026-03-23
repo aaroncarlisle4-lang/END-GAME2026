@@ -1,0 +1,67 @@
+{
+  "name": "MITRAL STENOSIS",
+  "slug": "mitral_stenosis",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/mitral_stenosis.md",
+  "definition": "characterized by fusion of edges of anterior + posterior leaflets along commissure rheumatic mitral valve stenosis + ASD",
+  "demographics": {},
+  "dominant_finding": "enlarged LA ± wall calcification:",
+  "distribution": "bulge of superior posterior cardiac border below carina (lateral view)",
+  "discriminating_features": [
+    "enlarged LA ± wall calcification:",
+    "\"double density\" seen through right upper cardiac border (AP view)",
+    "bulge of superior posterior cardiac border below carina (lateral view)",
+    "splaying of mainstem bronchi",
+    "esophagus displaced toward right + posteriorly"
+  ],
+  "other_features": {
+    "general": [],
+    "Left heart": [
+      "enlarged LA ± wall calcification:",
+      "\"double density\" seen through right upper cardiac border (AP view)",
+      "bulge of superior posterior cardiac border below carina (lateral view)",
+      "splaying of mainstem bronchi",
+      "esophagus displaced toward right + posteriorly",
+      "dilated left atrial appendage (not present with retracting clot), in 90% associated with",
+      "calcification of valve leaflets in 60% of severe mitral stenosis, usually > 50 years of age",
+      "normal / undersized LV ← LV hypertrophy",
+      "small aorta ← decrease of forward cardiac output"
+    ],
+    "Right heart": [
+      "prominent pulmonary artery segment ← precapillary pulmonary hypertension",
+      "RV hypertrophy",
+      "dilatation of RV ← tricuspid insufficiency / pulmonary hypertension",
+      "increase in cardiothoracic ratio",
+      "diminution of retrosternal clear space",
+      "IVC pushed backward (lateral view)"
+    ],
+    "Lung": [
+      "pulmonary arterial enlargement ← pulmonary hypertension",
+      "pulmonary vascular cephalization = redistribution of pulmonary blood flow to upper",
+      "diameter of pulmonary artery > corresponding bronchus",
+      "diameter of upper lobe vessels > lower lobe vessels",
+      "interstitial pulmonary edema (= postcapillary pressure 20-25 mmHg)",
+      "alveolar edema (= postcapillary pressure 25-30 mmHg)",
+      "pulmonary hemosiderosis:",
+      "1-3 mm ill-defined nodules",
+      "fine / coarse reticular areas of increased opacity with bias for middle and lower lungs",
+      "pulmonary ossification (3-13%) = densely calcified 1-3-5 mm nodules (± trabeculae)",
+      "thickening of leaflets toward free edge (fibrosis, calcification)",
+      "flattening of EF slope = MV remains open throughout diastole ← persistently high LA",
+      "diastolic anterior tracking of pML in 80% ← diastolic anterior pull by larger + more",
+      "diastolic doming of MV leaflets",
+      "commissure fusion = increased echodensity + decreased leaflet motion at level of",
+      "area reduction of MV orifice: (see under Quantification) (reproducible to within 0.3 cm2)",
+      "shortening + fibrosis of chordae tendineae",
+      "abnormal septal motion = early diastolic dip of IVS due to rapid filling of RV (in severe",
+      "slowed LV filling pattern of small LV",
+      "dilatation of LA (> 5 cm increases risk of atrial fibrillation + left atrial thrombus)",
+      "DE opening amplitude reduced to < 20 mm indicating loss of valve pliability (DDx: low",
+      "absent A-wave common (atrial fibrillation)",
+      "increase in valve gradient + pressure halftime on Doppler",
+      "\"fish-mouth\" appearance of thickened valve with commissural fusion on short-axis images",
+      "\"hockey-stick\" appearance of bowed thickened fibrotic anterior leaflet during diastole on"
+    ]
+  },
+  "clinical": {}
+}

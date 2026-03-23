@@ -1,0 +1,47 @@
+{
+  "finding": "Pelvic Pain in Nongynecological Condition",
+  "slug": "pelvic_pain_in_nongynecological_condition_fdd59d",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF OBSTETRIC AND GYNECOLOGIC",
+  "source_file": "processed_clusters/differential_diagnosis_of_obstetric_and_gynecologic/pelvic_pain_in_nongynecological_condition_fdd59d.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Appendicitis",
+      "raw": "Appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "Diverticulitis",
+      "raw": "Diverticulitis",
+      "frequency": null
+    },
+    {
+      "name": "Epiploic appendagitis",
+      "raw": "Epiploic appendagitis",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Infectious ileocolitis",
+      "raw": "Infectious ileocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Colonic malignancy",
+      "raw": "Colonic malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Ureterolithiasis",
+      "raw": "Ureterolithiasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

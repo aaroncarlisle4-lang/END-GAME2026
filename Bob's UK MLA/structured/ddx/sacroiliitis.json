@@ -1,0 +1,94 @@
+{
+  "finding": "SACROILIITIS",
+  "slug": "sacroiliitis",
+  "chapter": "OSSIFYING FIBROMA",
+  "source_file": "processed_clusters/ossifying_fibroma/sacroiliitis.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "Grading: IA",
+      "raw": "Grading: IA",
+      "frequency": null
+    },
+    {
+      "name": "SI joint space > 4 mm",
+      "raw": "SI joint space > 4 mm",
+      "frequency": null
+    },
+    {
+      "name": "IB",
+      "raw": "IB",
+      "frequency": null
+    },
+    {
+      "name": "SI joint space < 2 mm",
+      "raw": "SI joint space < 2 mm",
+      "frequency": null
+    },
+    {
+      "name": "IIA",
+      "raw": "IIA",
+      "frequency": null
+    },
+    {
+      "name": "IIIA significant subchondral sclerosis",
+      "raw": "IIIA significant subchondral sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "IIIB spur formation",
+      "raw": "IIIB spur formation",
+      "frequency": null
+    },
+    {
+      "name": "IVA transarticular bone bridge",
+      "raw": "IVA transarticular bone bridge",
+      "frequency": null
+    },
+    {
+      "name": "IVB total ankylosis",
+      "raw": "IVB total ankylosis",
+      "frequency": null
+    },
+    {
+      "name": "Septic sacroiliitis [Sacral insufficiency fracture]",
+      "raw": "Septic sacroiliitis (joint effusion, bone marrow edema, intramuscular abscess)",
+      "frequency": null,
+      "sites": [
+        "Sacral insufficiency fracture"
+      ]
+    },
+    {
+      "name": "Osteitis condensans ilii",
+      "raw": "Osteitis condensans ilii (middle-aged woman, mainly iliac bone sclerosis, normal joint space)",
+      "frequency": null
+    },
+    {
+      "name": "Bone tumor",
+      "raw": "Bone tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Grading: IA": [
+      "articular \"vacuum\" sign Grading: 0 normal 1 incipient sclerosis + ↓ focal joint width 2 minimally abnormal with loss of definition of articular margins, subchondral osteoporosis, areas of reactive sclerosis 3 unequivocally abnormal with subchondral sclerosis of sacral + iliac articular margins, erosions"
+    ],
+    "SI joint space > 4 mm": [
+      "uniform narrowing of joint space"
+    ],
+    "IB": [],
+    "SI joint space < 2 mm": [],
+    "IIA": [],
+    "IIIA significant subchondral sclerosis": [],
+    "IIIB spur formation": [],
+    "IVA transarticular bone bridge": [],
+    "IVB total ankylosis": [
+      "intraarticular ankylosis"
+    ],
+    "Septic sacroiliitis [Sacral insufficiency fracture]": [],
+    "Osteitis condensans ilii": [],
+    "Bone tumor": []
+  },
+  "context": "Radiography: ◊  Conventional radiographic diagnosis insensitive (= delay in diagnosis by 8-11 years) Benefit:   helpful if positive Disadvantage:   low intra- and interobserver agreement √  uniform narrowing of joint space √  erosions √  intraarticular ankylosis √  osteophytes √  pneumocysts √  articular \"vacuum\" sign Grading: 0 normal 1 incipient sclerosis + ↓ focal joint width 2 minimally abnormal with loss of definition of articular margins, subchondral osteoporosis, areas of reactive sclerosis 3 unequivocally abnormal with subchondral sclerosis of sacral + iliac articular margins, erosions"
+}

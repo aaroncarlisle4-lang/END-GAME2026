@@ -1,0 +1,27 @@
+{
+  "finding": "Malignant Pleural Tumor",
+  "slug": "malignant_pleural_tumor",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/malignant_pleural_tumor.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Drop metastasis from thymoma / thymic carcinoma",
+      "raw": "Drop metastasis from thymoma / thymic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mesothelioma",
+      "raw": "Mesothelioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Origin:   lung, breast, GI tract √  tumor nodule + pleural effusion √  anterior mediastinal mass"
+}

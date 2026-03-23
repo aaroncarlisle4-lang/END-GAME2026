@@ -1,0 +1,37 @@
+{
+  "name": "FETAL HYDROPS",
+  "slug": "fetal_hydrops",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/fetal_hydrops.md",
+  "definition": "excess of total body water → extracellular accumulation of fluid in tissues + serous ERYTHROBLASTOSIS FETALIS lysis of fetal RBCs by maternal IgG antibodies",
+  "demographics": {
+    "Prevalence": "1÷1,500 to 1÷4,000 deliveries"
+  },
+  "dominant_finding": "fetal ascites in 2nd trimester (present in only 66%) → indicates severe anemia with Hct <",
+  "distribution": "",
+  "discriminating_features": [
+    "anasarca (= skin edema)",
+    "fetal ascites in 2nd trimester (present in only 66%) → indicates severe anemia with Hct <",
+    "pleural effusion",
+    "increased diameter of umbilical vein",
+    "subcutaneous edema (skin thickness > 5 mm)"
+  ],
+  "other_features": {
+    "general": [
+      "anasarca (= skin edema)",
+      "fetal ascites in 2nd trimester (present in only 66%) → indicates severe anemia with Hct <",
+      "pleural effusion",
+      "increased diameter of umbilical vein",
+      "subcutaneous edema (skin thickness > 5 mm)",
+      "polyhydramnios (75%)",
+      "placentomegaly > 6 cm",
+      "pericardial effusion",
+      "hepatosplenomegaly",
+      "increased blood flow in middle cerebral artery ← increased cardiac output + decline in"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "46% death in utero; 17% neonatal death",
+    "Rx": "umbilical vein transfusion during PUBS (necessary in only 10% before 34 weeks GA)"
+  }
+}

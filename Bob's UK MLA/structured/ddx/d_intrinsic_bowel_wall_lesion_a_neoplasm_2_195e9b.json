@@ -1,0 +1,132 @@
+{
+  "finding": "D. INTRINSIC BOWEL WALL LESION (a) neoplasm (< 2%",
+  "slug": "d_intrinsic_bowel_wall_lesion_a_neoplasm_2_195e9b",
+  "chapter": "E. EXTRINSIC COMPRESSION",
+  "source_file": "processed_clusters/e_extrinsic_compression/d_intrinsic_bowel_wall_lesion_a_neoplasm_2_195e9b.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Gastrointestinal stromal tumor (b)  inflammatory lesion",
+      "raw": "Gastrointestinal stromal tumor (b)  inflammatory lesion",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease (acute bowel wall thickening, chronic cicatricial stenosis, postsurgical)",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous enteritis",
+      "raw": "Tuberculous enteritis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic gastroenteritis",
+      "raw": "Eosinophilic gastroenteritis",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic disease (c)  vascular insufficiency",
+      "raw": "Parasitic disease (c)  vascular insufficiency",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia: arterial / venous occlusion",
+      "raw": "Ischemia: arterial / venous occlusion",
+      "frequency": null
+    },
+    {
+      "name": "Radiation enteropathy: 1 year post radiation (d)  intramural hemorrhage",
+      "raw": "Radiation enteropathy: 1 year post radiation (d)  intramural hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Blunt trauma",
+      "raw": "Blunt trauma",
+      "frequency": null
+    },
+    {
+      "name": "Henoch-Schönlein purpura",
+      "raw": "Henoch-Schönlein purpura",
+      "frequency": null
+    },
+    {
+      "name": "Anticoagulants (e)  strictures",
+      "raw": "Anticoagulants (e)  strictures",
+      "frequency": null
+    },
+    {
+      "name": "Surgical anastomosis",
+      "raw": "Surgical anastomosis",
+      "frequency": null
+    },
+    {
+      "name": "Irradiation",
+      "raw": "Irradiation",
+      "frequency": null
+    },
+    {
+      "name": "Potassium chloride tablets",
+      "raw": "Potassium chloride tablets",
+      "frequency": null
+    },
+    {
+      "name": "Massive deposition of amyloid",
+      "raw": "Massive deposition of amyloid",
+      "frequency": null
+    },
+    {
+      "name": "Normal =  absence of small intestinal gas / gas within 3-4 variably shaped loops < 2.5 cm in diameter",
+      "raw": "Normal =  absence of small intestinal gas / gas within 3-4 variably shaped loops < 2.5 cm in diameter",
+      "frequency": null
+    },
+    {
+      "name": "Mild small bowel stasis =  single / multiple loops of 2.5-3.0 cm in diameter with ≥ 3 air-fluid levels",
+      "raw": "Mild small bowel stasis =  single / multiple loops of 2.5-3.0 cm in diameter with ≥ 3 air-fluid levels",
+      "frequency": null
+    },
+    {
+      "name": "Probable SBO pattern =  dilated multiple gas- / fluid-filled loops with air-fluid levels + moderate amount of colonic gas",
+      "raw": "Probable SBO pattern =  dilated multiple gas- / fluid-filled loops with air-fluid levels + moderate amount of colonic gas",
+      "frequency": null
+    },
+    {
+      "name": "Definite SBO pattern =  clearly disproportionate gaseous / fluid distension of small bowel relative to colon",
+      "raw": "Definite SBO pattern =  clearly disproportionate gaseous / fluid distension of small bowel relative to colon",
+      "frequency": null
+    },
+    {
+      "name": "closed-loop obstruction of the involved segment",
+      "raw": "closed-loop obstruction of the involved segment (majority of cases)",
+      "frequency": null
+    },
+    {
+      "name": "mechanical obstruction proximal to the involved segment",
+      "raw": "mechanical obstruction proximal to the involved segment",
+      "frequency": null
+    },
+    {
+      "name": "venous congestion of the involved loop",
+      "raw": "venous congestion of the involved loop",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Plain abdominal radiograph (50-66% sensitive): ◊  High sensitivity only for high-grade obstruction! Results:   diagnostic in 50-60%; equivocal in 20-30%; normal / nonspecific / misleading in 10-20% √  \"candy cane\" appearance in erect position = > 2-3 distended small bowel loops with gas-fluid levels (> 3-5 hours after onset of obstruction): √  gas-fluid levels > 2.5 cm wide √  gas-fluid levels differing > 2 cm in height from one another within same bowel loop √  disparity in size between obstructed loops and contiguous small bowel loops of normal caliber beyond site of obstruction √  small bow"
+}

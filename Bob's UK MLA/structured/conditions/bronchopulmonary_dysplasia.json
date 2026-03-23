@@ -1,0 +1,43 @@
+{
+  "name": "BRONCHOPULMONARY DYSPLASIA",
+  "slug": "bronchopulmonary_dysplasia",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/bronchopulmonary_dysplasia.md",
+  "definition": "RESPIRATOR LUNG = BPD complication of respirator therapy (PPV or nasal CPAP) treated with > 21% oxygen for > 28",
+  "demographics": {
+    "Path": "loss of ciliated cells + necrosis of bronchiolar mucosa",
+    "Associated with": "congestive failure from PDA"
+  },
+  "dominant_finding": "regional air trapping",
+  "distribution": "lower lobe emphysema",
+  "discriminating_features": [
+    "RDS pattern of hyaline membrane disease",
+    "complete opacification with air bronchogram",
+    "small round cystic lucencies alternating with regions of irregular opacity",
+    "\"spongy\" / \"bubbly\" coarse linear densities, esp. in upper lobes",
+    "hyperaeration of lung"
+  ],
+  "other_features": {
+    "general": [
+      "RDS pattern of hyaline membrane disease",
+      "complete opacification with air bronchogram",
+      "small round cystic lucencies alternating with regions of irregular opacity",
+      "\"spongy\" / \"bubbly\" coarse linear densities, esp. in upper lobes",
+      "hyperaeration of lung",
+      "lower lobe emphysema"
+    ],
+    "CT": [
+      "regional air trapping",
+      "thickened interlobular septa",
+      "subsegmental atelectasis",
+      "reduced bronchoarterial diameter ratios",
+      "bronchial wall thickening",
+      "bullae + pneumatoceles"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "40% mortality if not resolved by 1 month",
+    "Cx": "(1)  Increased airway reactivity = increased frequency of lower respiratory tract",
+    "Rx": "supportive"
+  }
+}

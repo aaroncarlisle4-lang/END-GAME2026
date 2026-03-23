@@ -1,0 +1,62 @@
+{
+  "finding": "Age of detection: childhood, neonate, fetus; M÷F = 1÷1",
+  "slug": "age_of_detection_childhood_neonate_fetus_mf_11_3a1674",
+  "chapter": "CATAMENIAL PNEUMOTHORAX",
+  "source_file": "processed_clusters/catamenial_pneumothorax/age_of_detection_childhood_neonate_fetus_mf_11_3a1674.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "respiratory distress + severe cyanosis in 1st week of life (66%) / within 1st year of life (90%) ← compression of normal lung + airways",
+      "raw": "respiratory distress + severe cyanosis in 1st week of life (66%) / within 1st year of life (90%) ← compression of normal lung + airways",
+      "frequency": "66%"
+    },
+    {
+      "name": "superimposed chronic recurrent infection (10%) after 1st year Location:   equal frequency in all lobes (rare in middle lobe); more than one lobe involved in 20%; L÷R = 1÷1 ◊  Mostly unilateral affecting an entire lobe!",
+      "raw": "superimposed chronic recurrent infection (10%) after 1st year Location:   equal frequency in all lobes (rare in middle lobe); more than one lobe involved in 20%; L÷R = 1÷1 ◊  Mostly unilateral affecting an entire lobe!",
+      "frequency": "10%"
+    },
+    {
+      "name": "EXIT (ex utero intra partum) procedure after 32 weeks",
+      "raw": "EXIT (ex utero intra partum) procedure after 32 weeks",
+      "frequency": null
+    },
+    {
+      "name": "Surgical resection > 1 month of life",
+      "raw": "Surgical resection > 1 month of life (reason: risk of infection / small risk of malignancy)",
+      "frequency": null
+    },
+    {
+      "name": "Diaphragmatic hernia",
+      "raw": "Diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Bronchogenic cyst",
+      "raw": "Bronchogenic cyst (small solitary cyst near midline)",
+      "frequency": null
+    },
+    {
+      "name": "Neurenteric cyst",
+      "raw": "Neurenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial atresia",
+      "raw": "Bronchial atresia",
+      "frequency": null
+    },
+    {
+      "name": "Bronchopulmonary sequestration",
+      "raw": "Bronchopulmonary sequestration (less frequently associated with polyhydramnios / hydrops)",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinal / pericardial teratoma",
+      "raw": "Mediastinal / pericardial teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "CXR: √  may appear normal due to prenatal regression √  almost always unilateral expansile mass with well-defined margins (80%) ← retained fetal lung fluid / type III lesion √  multiple air-filled cysts ← progressive expansion of cysts ← communication with tracheobronchial tree √  effects of compression of adjacent lung: √  contralateral shift of mediastinum (87%) √  ipsilateral hypoplasia of uninvolved lung √  proper position of abdominal viscera √  spontaneous pneumothorax (late sign) CT: ◊  Postnatally becoming obstructed and filled with air √  solitary / multiple thin-walled cysts filled w"
+}

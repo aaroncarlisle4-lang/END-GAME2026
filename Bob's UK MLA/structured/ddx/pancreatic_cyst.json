@@ -1,0 +1,47 @@
+{
+  "finding": "Pancreatic Cyst",
+  "slug": "pancreatic_cyst",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/pancreatic_cyst.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INFLAMMATORY / INFECTIOUS (a)  pseudocyst (85%):",
+      "raw": "INFLAMMATORY / INFECTIOUS (a)  pseudocyst (85%):",
+      "frequency": "85%"
+    },
+    {
+      "name": "Retention cyst",
+      "raw": "Retention cyst (= exudate within bursa omentalis from acute pancreatitis)",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic cyst: Echinococcus multilocularis, amebiasis",
+      "raw": "Parasitic cyst: Echinococcus multilocularis, amebiasis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic abscess",
+      "raw": "Pancreatic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoepithelial cyst: cysts are lined by squamous epithelium and surrounded by dense lymphoid tissue",
+      "raw": "Lymphoepithelial cyst: cysts are lined by squamous epithelium and surrounded by dense lymphoid tissue",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous non-neoplastic unilocular cyst",
+      "raw": "Mucinous non-neoplastic unilocular cyst",
+      "frequency": null
+    },
+    {
+      "name": "CONGENITAL (rare) (a)  solitary true pancreatic cyst (b)  systemic disease / syndromes with multiple true cysts",
+      "raw": "CONGENITAL (rare) (a)  solitary true pancreatic cyst (b)  systemic disease / syndromes with multiple true cysts",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "With clearer depiction of septa, cyst contents and pancreatic ductal system, MRI can often achieve a more specific diagnosis. Incidence:  2.6% of consecutive CT scans, 13.5% at MRI (b)  acquired cyst:"
+}

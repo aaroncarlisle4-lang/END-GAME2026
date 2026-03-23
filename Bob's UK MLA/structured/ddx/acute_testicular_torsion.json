@@ -1,0 +1,77 @@
+{
+  "finding": "Acute Testicular Torsion",
+  "slug": "acute_testicular_torsion",
+  "chapter": "RETROPERITONEAL TERATOMA",
+  "source_file": "processed_clusters/retroperitoneal_teratoma/acute_testicular_torsion.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "70% of patients present within first 6 hours from onset of pain:",
+      "raw": "70% of patients present within first 6 hours from onset of pain:",
+      "frequency": "70%"
+    },
+    {
+      "name": "sudden severe pain in 100%",
+      "raw": "sudden severe pain in 100% (frequently at night)",
+      "frequency": "100%"
+    },
+    {
+      "name": "negative urine analysis",
+      "raw": "negative urine analysis (98%), nausea + vomiting (50%)",
+      "frequency": "98%"
+    },
+    {
+      "name": "history of similar episode in same / contralateral testis",
+      "raw": "history of similar episode in same / contralateral testis (42%); history of trauma / extreme exertion (13%)",
+      "frequency": "42%"
+    },
+    {
+      "name": "scrotal swelling + tenderness",
+      "raw": "scrotal swelling + tenderness (42%)",
+      "frequency": "42%"
+    },
+    {
+      "name": "leukocytosis",
+      "raw": "leukocytosis (32%), low-grade fever (20%)",
+      "frequency": "32%"
+    },
+    {
+      "name": "Brunzel sign = elevated horizontal lie of testis",
+      "raw": "Brunzel sign = elevated horizontal lie of testis",
+      "frequency": null
+    },
+    {
+      "name": "Ger sign = skin pitting at scrotal base",
+      "raw": "Ger sign = skin pitting at scrotal base",
+      "frequency": null
+    },
+    {
+      "name": "testis usually turns medially up to 1,080°",
+      "raw": "testis usually turns medially up to 1,080°",
+      "frequency": null
+    },
+    {
+      "name": "Detorsion (should be attempted by radiologist):",
+      "raw": "Detorsion (should be attempted by radiologist):",
+      "frequency": null
+    },
+    {
+      "name": "Orchiopexy DDx:  epididymo-orchitis",
+      "raw": "Orchiopexy DDx:  epididymo-orchitis (more gradual onset of pain, however, in 5% sudden onset of pain)",
+      "frequency": "5%"
+    },
+    {
+      "name": "gradual / sudden intense pain localized to upper pole of testis",
+      "raw": "gradual / sudden intense pain localized to upper pole of testis",
+      "frequency": null
+    },
+    {
+      "name": "\"blue dot\" sign (21%) = PATHOGNOMONIC nodule visible as bluish dot beneath skin in upper scrotum",
+      "raw": "\"blue dot\" sign (21%) = PATHOGNOMONIC nodule visible as bluish dot beneath skin in upper scrotum",
+      "frequency": "21%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  symptoms present for < 24 hours ◊  SURGICAL EMERGENCY! Testicular viability related to: (a)  degree of torsion (720° necessary for complete ischemia) Degree of torsion and blood flow: √  diminished blood flow in < 180°-torsion at 1 hour √  absent blood flow in any degree of torsion > 4 hours (b)  length of ischemia Salvage rate versus time from onset of pain to surgery 97-100%  < 6 hrs 57%  6-12 hrs 35%  12-24 hrs 0-9%  > 24 hrs ◊  Irreversible ischemic damage begins at 3-6 hours after onset of torsion! (c)  intermittent torsion ◊  Spontaneous detorsion in 7% √  hyperemia after spontaneous"
+}

@@ -1,0 +1,72 @@
+{
+  "finding": "G. OTHER",
+  "slug": "g_other",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/g_other.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Loculated pleural effusion",
+      "raw": "Loculated pleural effusion",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Lateral meningocele: neurofibromatosis; enlarged neural foramen",
+      "raw": "Lateral meningocele: neurofibromatosis; enlarged neural foramen",
+      "frequency": null
+    },
+    {
+      "name": "Extramedullary hematopoiesis:",
+      "raw": "Extramedullary hematopoiesis:",
+      "frequency": null
+    },
+    {
+      "name": "\"Pseudomass\" of the newborn",
+      "raw": "\"Pseudomass\" of the newborn",
+      "frequency": null
+    },
+    {
+      "name": "Bochdalek hernia",
+      "raw": "Bochdalek hernia",
+      "frequency": null
+    },
+    {
+      "name": "Extramedullary hematopoiesis",
+      "raw": "Extramedullary hematopoiesis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphadenopathy",
+      "raw": "Lymphadenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Meningocele",
+      "raw": "Meningocele (lateral)",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm",
+      "raw": "Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Neurogenic tumor",
+      "raw": "Neurogenic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "in chronic bone marrow deficiency; paraspinal area rich in RES-elements √  splenomegaly; widening of ribs"
+}

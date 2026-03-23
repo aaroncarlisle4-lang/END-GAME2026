@@ -1,0 +1,42 @@
+{
+  "finding": "Fallopian Tube Occlusion, Irregularity and Adhesions",
+  "slug": "fallopian_tube_occlusion_irregularity_and_adhesions",
+  "chapter": "C. COMBINATION OF FACTORS (15-25%",
+  "source_file": "processed_clusters/c_combination_of_factors_15_25/fallopian_tube_occlusion_irregularity_and_adhesions.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pelvic inflammatory disease (a)  granulomatous salpingitis: TB (b)  parasitic infection",
+      "raw": "Pelvic inflammatory disease (a)  granulomatous salpingitis: TB (b)  parasitic infection",
+      "frequency": null
+    },
+    {
+      "name": "Congenital anomaly",
+      "raw": "Congenital anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Postsurgical anomaly",
+      "raw": "Postsurgical anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Tubal spasm",
+      "raw": "Tubal spasm",
+      "frequency": null
+    },
+    {
+      "name": "Intraluminal endometriosis",
+      "raw": "Intraluminal endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Salpingitis isthmica nodosa",
+      "raw": "Salpingitis isthmica nodosa",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   30-40%"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Rectal Disease",
+  "slug": "rectal_disease",
+  "chapter": "RECTUM & ANUS",
+  "source_file": "processed_clusters/rectum_anus/rectal_disease.md",
+  "quality_score": 0.433,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "NEOPLASIA",
+      "raw": "NEOPLASIA",
+      "frequency": null
+    },
+    {
+      "name": "Rectal polyp",
+      "raw": "Rectal polyp",
+      "frequency": null
+    },
+    {
+      "name": "Rectal cancer",
+      "raw": "Rectal cancer",
+      "frequency": null
+    },
+    {
+      "name": "Multiple lymphomatous polyposis",
+      "raw": "Multiple lymphomatous polyposis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Most common intramural tumor; 2nd most common benign tumor; M < F",
+  "slug": "most_common_intramural_tumor_2nd_most_common_benign_tumor_m_f",
+  "chapter": "D. POSTSURGICAL",
+  "source_file": "processed_clusters/d_postsurgical/most_common_intramural_tumor_2nd_most_common_benign_tumor_m_f.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carcinoid: 10% metastasize",
+      "raw": "Carcinoid: 10% metastasize",
+      "frequency": "10%"
+    },
+    {
+      "name": "Spindle cell tumor (leiomyoma, fibroma, neurofibroma); 4th most common benign tumor; rectum > cecum",
+      "raw": "Spindle cell tumor (leiomyoma, fibroma, neurofibroma); 4th most common benign tumor; rectum > cecum",
+      "frequency": "most common"
+    },
+    {
+      "name": "Lymphangioma, hemangioma",
+      "raw": "Lymphangioma, hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "MALIGNANT TUMOR (a)  primary tumor: carcinoma, sarcoma (b)  secondary tumor: metastases (breast, stomach, lung, pancreas, kidney, female genital tract), lymphoma, invasion by adjacent tumors",
+      "raw": "MALIGNANT TUMOR (a)  primary tumor: carcinoma, sarcoma (b)  secondary tumor: metastases (breast, stomach, lung, pancreas, kidney, female genital tract), lymphoma, invasion by adjacent tumors",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   ascending colon + cecum > left side of colon"
+}

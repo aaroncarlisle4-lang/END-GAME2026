@@ -1,0 +1,130 @@
+{
+  "finding": "Skin Manifestations in NF1",
+  "slug": "skin_manifestations_in_nf1",
+  "chapter": "NEUROFIBROMATOSIS",
+  "source_file": "processed_clusters/neurofibromatosis/skin_manifestations_in_nf1.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Café-au-lait spots =  tan / light brown pigmented often ovoid cutaneous macules + patches with irregular borders ≥ 6 in number > 5 mm in greatest diameter prior to puberty > 15 mm in postpubertal individuals",
+      "raw": "Café-au-lait spots =  tan / light brown pigmented often ovoid cutaneous macules + patches with irregular borders ≥ 6 in number > 5 mm in greatest diameter prior to puberty > 15 mm in postpubertal individuals",
+      "frequency": null
+    },
+    {
+      "name": "randomly distributed",
+      "raw": "randomly distributed",
+      "frequency": null
+    },
+    {
+      "name": "\"coast of California\" type",
+      "raw": "\"coast of California\" type (= smooth outline)",
+      "frequency": null
+    },
+    {
+      "name": "Intertriginous freckling (= Crowe sign) =  pigmented cutaneous macules < 5 mm in size",
+      "raw": "Intertriginous freckling (= Crowe sign) =  pigmented cutaneous macules < 5 mm in size",
+      "frequency": null
+    },
+    {
+      "name": "Dermal (cutaneous) neurofibroma Histo:  benign mixture of Schwann cells + fibroblasts + perineural cells + mast cells Age:  begins to appear around early childhood / puberty subsequent to detection of café-au-lait spots (a)  localized = fibroma molluscum = string of pearls along peripheral nerve",
+      "raw": "Dermal (cutaneous) neurofibroma Histo:  benign mixture of Schwann cells + fibroblasts + perineural cells + mast cells Age:  begins to appear around early childhood / puberty subsequent to detection of café-au-lait spots (a)  localized = fibroma molluscum = string of pearls along peripheral nerve",
+      "frequency": null
+    },
+    {
+      "name": "firm well-circumscribed movable tumor",
+      "raw": "firm well-circumscribed movable tumor",
+      "frequency": null
+    },
+    {
+      "name": "soft compressible fleshy nodule of cutis",
+      "raw": "soft compressible fleshy nodule of cutis",
+      "frequency": null
+    },
+    {
+      "name": "firm rubbery nodule of subcutis",
+      "raw": "firm rubbery nodule of subcutis",
+      "frequency": null
+    },
+    {
+      "name": "soft gritty often hyperpigmented tumor feeling like a \"bag of worms / braided ropes\"",
+      "raw": "soft gritty often hyperpigmented tumor feeling like a \"bag of worms / braided ropes\"",
+      "frequency": null
+    },
+    {
+      "name": "may become very large hanging in a pendulous fashion associated with massive disfiguring enlargement of an extremity",
+      "raw": "may become very large hanging in a pendulous fashion associated with massive disfiguring enlargement of an extremity (= elephantiasis neuromatosa)",
+      "frequency": null
+    },
+    {
+      "name": "Multiple Inherited Schwannomas",
+      "raw": "Multiple Inherited Schwannomas",
+      "frequency": null
+    },
+    {
+      "name": "Meningiomas",
+      "raw": "Meningiomas",
+      "frequency": null
+    },
+    {
+      "name": "Ependymomas",
+      "raw": "Ependymomas",
+      "frequency": null
+    },
+    {
+      "name": "bilateral 8th cranial nerve masses",
+      "raw": "bilateral 8th cranial nerve masses",
+      "frequency": null
+    },
+    {
+      "name": "first-degree relative with unilateral 8th nerve mass, neurofibroma, meningioma, glioma (spinal ependymoma), schwannoma, juvenile posterior subcapsular lenticular opacity",
+      "raw": "first-degree relative with unilateral 8th nerve mass, neurofibroma, meningioma, glioma (spinal ependymoma), schwannoma, juvenile posterior subcapsular lenticular opacity",
+      "frequency": null
+    },
+    {
+      "name": "NO Lisch nodules, skeletal dysplasia, optic pathway glioma, vascular dysplasia, learning disability",
+      "raw": "NO Lisch nodules, skeletal dysplasia, optic pathway glioma, vascular dysplasia, learning disability",
+      "frequency": null
+    },
+    {
+      "name": "café-au-lait spots (< 50%): pale and < 5 in number",
+      "raw": "café-au-lait spots (< 50%): pale and < 5 in number",
+      "frequency": "50%"
+    },
+    {
+      "name": "cutaneous neurofibroma: minimal in size + number / absent @   Intracranial [Bilateral acoustic schwannomas]",
+      "raw": "cutaneous neurofibroma: minimal in size + number / absent @   Intracranial",
+      "frequency": null,
+      "sites": [
+        "Bilateral acoustic schwannomas"
+      ]
+    },
+    {
+      "name": "Schwannoma of other cranial nerves",
+      "raw": "Schwannoma of other cranial nerves",
+      "frequency": null
+    },
+    {
+      "name": "Multiple meningiomas: intraventricular in choroid plexus of trigone, parasagittal, sphenoid ridge, olfactory groove, along intracranial nerves",
+      "raw": "Multiple meningiomas: intraventricular in choroid plexus of trigone, parasagittal, sphenoid ridge, olfactory groove, along intracranial nerves",
+      "frequency": null
+    },
+    {
+      "name": "Meningiomatosis = dura studded with innumerable small meningiomas",
+      "raw": "Meningiomatosis = dura studded with innumerable small meningiomas",
+      "frequency": null
+    },
+    {
+      "name": "Glioma of ependymal derivation @   Spinal",
+      "raw": "Glioma of ependymal derivation @   Spinal",
+      "frequency": null
+    },
+    {
+      "name": "symptoms of cord compression",
+      "raw": "symptoms of cord compression",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "DDx:   \"coast-of-Maine\" spots of McCune-Albright syndrome (with more jagged borders) Age:  usually present at birth, increase in number over first 1-2 years of life ◊  One of the earliest manifestations of NF1 Histo:  increased melanin pigment in basal epidermal layer DDx:  tuberous sclerosis, fibrous dysplasia Extent:   often parallels disease severity Age:  3-5 years Location:  intertriginous skin of axilla (in 66%), groin, submammary fold, neck Cx:   NO malignant degeneration! (b)  plexiform neurofibroma = multilobulated tortuous entanglement / interdigitating network of tumor along a nerve"
+}

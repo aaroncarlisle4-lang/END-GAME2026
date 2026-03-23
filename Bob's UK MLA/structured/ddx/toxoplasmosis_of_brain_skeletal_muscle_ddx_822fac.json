@@ -1,0 +1,37 @@
+{
+  "finding": "Toxoplasmosis Of Brain — Skeletal muscle (DDx)",
+  "slug": "toxoplasmosis_of_brain_skeletal_muscle_ddx_822fac",
+  "chapter": "Toxoplasmosis Of Brain",
+  "source_file": "processed_clusters/toxoplasmosis_of_brain/toxoplasmosis_of_brain_skeletal_muscle_ddx_822fac.md",
+  "quality_score": 0.75,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "CNS lymphoma (single lesion",
+      "raw": "CNS lymphoma (single lesion",
+      "frequency": null
+    },
+    {
+      "name": "hyperattenuation",
+      "raw": "hyperattenuation",
+      "frequency": null
+    },
+    {
+      "name": "T2 hypointensity",
+      "raw": "T2 hypointensity",
+      "frequency": null
+    },
+    {
+      "name": "restricted",
+      "raw": "restricted",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "CNS lymphoma (single lesion": [],
+    "hyperattenuation": [],
+    "T2 hypointensity": [],
+    "restricted": []
+  },
+  "context": "poorly defined peripheral enhancement = poor host response | HIGHLY SUGGESTIVE \"eccentric target\" sign (30%) = small enhancing nodule along | diffuse cerebral volume loss (30%) | lipid breakdown products without elevated choline levels"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Diverticular Disease Of Colon (DDx)",
+  "slug": "diverticular_disease_of_colon_ddx",
+  "chapter": "Diverticular Disease Of Colon",
+  "source_file": "processed_clusters/diverticular_disease_of_colon/diverticular_disease_of_colon_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "volvulus",
+      "raw": "volvulus",
+      "frequency": null
+    },
+    {
+      "name": "bowel duplication",
+      "raw": "bowel duplication",
+      "frequency": null
+    },
+    {
+      "name": "Meckel / duodenal diverticulum",
+      "raw": "Meckel / duodenal diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "infected pancreatic",
+      "raw": "infected pancreatic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "opacification by barium (in 60%) | large gas-, fluid-, stool-filled cavity + thin regular wall | NO contrast enhancement / wall thickening unless inflamed | ± wall calcifications ← chronic inflammation"
+}

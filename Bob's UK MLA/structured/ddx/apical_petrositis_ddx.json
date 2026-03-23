@@ -1,0 +1,22 @@
+{
+  "finding": "Apical Petrositis (DDx)",
+  "slug": "apical_petrositis_ddx",
+  "chapter": "Apical Petrositis",
+  "source_file": "processed_clusters/apical_petrositis/apical_petrositis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "petrous apex osteomyelitis (nonpneumatized petrous apex",
+      "raw": "petrous apex osteomyelitis (nonpneumatized petrous apex",
+      "frequency": null
+    },
+    {
+      "name": "septal + cortical destruction",
+      "raw": "septal + cortical destruction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "fluid in ipsilateral middle ear + mastoid | hyperintense signal on T2WI + hypointense on T1WI | avidly enhancing mass in pneumatized petrous apex | enhancing meninges ← adjacent meningeal inflammation"
+}

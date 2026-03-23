@@ -1,0 +1,27 @@
+{
+  "finding": "Transitional Cell Carcinoma — Upper urinary tract (DDx)",
+  "slug": "transitional_cell_carcinoma_upper_urinary_tract_ddx",
+  "chapter": "Transitional Cell Carcinoma",
+  "source_file": "processed_clusters/transitional_cell_carcinoma/transitional_cell_carcinoma_upper_urinary_tract_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "papilloma (benign lesion",
+      "raw": "papilloma (benign lesion",
+      "frequency": null
+    },
+    {
+      "name": "fronds lined by normal epithelium)",
+      "raw": "fronds lined by normal epithelium)",
+      "frequency": null
+    },
+    {
+      "name": "blood clot",
+      "raw": "blood clot",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hypointense filling defect in hyperintense urine on T2WI | hypointense soft-tissue mass infiltrating renal parenchyma of intermediate SI | hypoenhancing tumor mass on postcontrast imaging, (rarely) avidly enhancing | enhancing focal filling defect in collecting system"
+}

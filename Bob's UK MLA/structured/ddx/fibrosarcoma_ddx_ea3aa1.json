@@ -1,0 +1,42 @@
+{
+  "finding": "Fibrosarcoma (DDx)",
+  "slug": "fibrosarcoma_ddx_ea3aa1",
+  "chapter": "Fibrosarcoma",
+  "source_file": "processed_clusters/fibrosarcoma/fibrosarcoma_ddx_ea3aa1.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "malignant fibrous histiocytoma",
+      "raw": "malignant fibrous histiocytoma",
+      "frequency": null
+    },
+    {
+      "name": "myeloma",
+      "raw": "myeloma",
+      "frequency": null
+    },
+    {
+      "name": "telangiectatic osteosarcoma",
+      "raw": "telangiectatic osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "desmoplastic fibroma",
+      "raw": "desmoplastic fibroma",
+      "frequency": null
+    },
+    {
+      "name": "osteolytic metastasis",
+      "raw": "osteolytic metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "sequestration of bone may be present (DDx: eosinophilic granuloma, bacterial | sparse periosteal proliferation (uncommon) | intramedullary discontinuous spread | no calcification"
+}

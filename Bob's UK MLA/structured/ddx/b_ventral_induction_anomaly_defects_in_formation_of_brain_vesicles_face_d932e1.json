@@ -1,0 +1,32 @@
+{
+  "finding": "B. VENTRAL INDUCTION ANOMALY = defects in formation of brain vesicles + face",
+  "slug": "b_ventral_induction_anomaly_defects_in_formation_of_brain_vesicles_face_d932e1",
+  "chapter": "CLASSIFICATION OF CNS ANOMALIES",
+  "source_file": "processed_clusters/classification_of_cns_anomalies/b_ventral_induction_anomaly_defects_in_formation_of_brain_vesicles_face_d932e1.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Holoprosencephaly: 5-6 weeks",
+      "raw": "Holoprosencephaly: 5-6 weeks",
+      "frequency": null
+    },
+    {
+      "name": "Septo-optic dysplasia: 6-7 weeks",
+      "raw": "Septo-optic dysplasia: 6-7 weeks",
+      "frequency": null
+    },
+    {
+      "name": "Dandy-Walker malformation: 7-10 weeks",
+      "raw": "Dandy-Walker malformation: 7-10 weeks",
+      "frequency": null
+    },
+    {
+      "name": "Agenesis of septum pellucidum",
+      "raw": "Agenesis of septum pellucidum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

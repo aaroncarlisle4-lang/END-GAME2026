@@ -1,0 +1,72 @@
+{
+  "finding": "Cystic Areas in Thyroid",
+  "slug": "cystic_areas_in_thyroid_c52186",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/cystic_areas_in_thyroid_c52186.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Anechoic fluid + smooth regular wall:",
+      "raw": "Anechoic fluid + smooth regular wall:",
+      "frequency": null
+    },
+    {
+      "name": "Colloid accumulation in goiter = colloid-filled dilated macrofollicle",
+      "raw": "Colloid accumulation in goiter = colloid-filled dilated macrofollicle",
+      "frequency": null
+    },
+    {
+      "name": "Simple cyst",
+      "raw": "Simple cyst (extremely uncommon)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Solid particles + irregular outline:",
+      "raw": "Solid particles + irregular outline:",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic colloid nodule",
+      "raw": "Hemorrhagic colloid nodule",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic adenoma",
+      "raw": "Hemorrhagic adenoma (30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Necrotic papillary cancer",
+      "raw": "Necrotic papillary cancer (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Liquefaction necrosis in adenoma / goiter",
+      "raw": "Liquefaction necrosis in adenoma / goiter",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Cystic parathyroid tumor",
+      "raw": "Cystic parathyroid tumor",
+      "frequency": null
+    },
+    {
+      "name": "bloody fluid = benign / malignant lesion",
+      "raw": "bloody fluid = benign / malignant lesion",
+      "frequency": null
+    },
+    {
+      "name": "clear amber fluid = benign lesion",
+      "raw": "clear amber fluid = benign lesion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  15-25% of all thyroid nodules! ◊  Cystic component in 13-26% of all thyroid malignancies!"
+}

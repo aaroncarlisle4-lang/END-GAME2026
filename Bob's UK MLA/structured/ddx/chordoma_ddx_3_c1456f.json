@@ -1,0 +1,27 @@
+{
+  "finding": "Chordoma (DDx)",
+  "slug": "chordoma_ddx_3_c1456f",
+  "chapter": "Chordoma",
+  "source_file": "processed_clusters/chordoma/chordoma_ddx_3_c1456f.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cartilaginous tumor (more lateral location",
+      "raw": "cartilaginous tumor (more lateral location",
+      "frequency": null
+    },
+    {
+      "name": "at petrooccipital synchondrosis",
+      "raw": "at petrooccipital synchondrosis",
+      "frequency": null
+    },
+    {
+      "name": "curvilinear calcifications)",
+      "raw": "curvilinear calcifications)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mass of usually T1 hypointensity + T2 signal hyperintensity | hypointense intratumoral septations | foci of T1 signal hyperintensity within tumor / periphery ← residual ossified fragments / | posterior extension indenting pons"
+}

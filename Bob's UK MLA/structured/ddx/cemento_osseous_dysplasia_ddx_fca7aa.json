@@ -1,0 +1,27 @@
+{
+  "finding": "Cemento-Osseous Dysplasia (DDx)",
+  "slug": "cemento_osseous_dysplasia_ddx_fca7aa",
+  "chapter": "Cemento-Osseous Dysplasia",
+  "source_file": "processed_clusters/cemento_osseous_dysplasia/cemento_osseous_dysplasia_ddx_fca7aa.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ossifying fibroma",
+      "raw": "ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "fibrous dysplasia",
+      "raw": "fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "periapical sclerotic sharply marginated area NOT fused to tooth | ± low-attenuation halo | adjacent lesions may coalesce | often multicentric"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "D. INFLAMMATION / INFECTION",
+  "slug": "d_inflammation_infection_506491",
+  "chapter": "Gallbladder Wall Thickening",
+  "source_file": "processed_clusters/gallbladder_wall_thickening/d_inflammation_infection_506491.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Inflammatory polyp: in chronic cholecystitis",
+      "raw": "Inflammatory polyp: in chronic cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic granuloma: Ascaris lumbricoides, Paragonimus westermani, Clonorchis, filariasis, Schistosoma, Fasciola",
+      "raw": "Parasitic granuloma: Ascaris lumbricoides, Paragonimus westermani, Clonorchis, filariasis, Schistosoma, Fasciola",
+      "frequency": null
+    },
+    {
+      "name": "Intramural epithelial cyst / mucinous retention cyst",
+      "raw": "Intramural epithelial cyst / mucinous retention cyst",
+      "frequency": null
+    },
+    {
+      "name": "Xanthogranulomatous cholecystitis",
+      "raw": "Xanthogranulomatous cholecystitis (in 9% focal)",
+      "frequency": "9%"
+    },
+    {
+      "name": "WALL-ADHERENT GALLSTONE = embedded stone",
+      "raw": "WALL-ADHERENT GALLSTONE = embedded stone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Acute Lower Airway Obstruction in Childhood",
+  "slug": "acute_lower_airway_obstruction_in_childhood",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/acute_lower_airway_obstruction_in_childhood.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fever, cough, wheeze ›  < 2 years old:",
+      "raw": "fever, cough, wheeze ›  < 2 years old:",
+      "frequency": null
+    },
+    {
+      "name": "Bronchiolitis",
+      "raw": "Bronchiolitis",
+      "frequency": null
+    },
+    {
+      "name": "Lower respiratory tract inflammation",
+      "raw": "Lower respiratory tract inflammation",
+      "frequency": null
+    },
+    {
+      "name": "Reactive airways disease",
+      "raw": "Reactive airways disease",
+      "frequency": null
+    },
+    {
+      "name": "Aspirated foreign body",
+      "raw": "Aspirated foreign body",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:  intrathoracic trachea + bronchi (a)  infectious / inflammatory: √  bronchial wall thickening + hyperinflation ›  > 2 years old: √  bronchial wall thickening √  bronchial wall thickening + hyperinflation (b)  others:"
+}

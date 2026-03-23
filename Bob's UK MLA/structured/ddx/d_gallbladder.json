@@ -1,0 +1,217 @@
+{
+  "finding": "D. GALLBLADDER",
+  "slug": "d_gallbladder",
+  "chapter": "CANDIDIASIS OF LIVER",
+  "source_file": "processed_clusters/candidiasis_of_liver/d_gallbladder.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "homogeneous sclerotic mass typically without hemorrhage / necrosis",
+      "raw": "homogeneous sclerotic mass typically without hemorrhage / necrosis",
+      "frequency": null
+    },
+    {
+      "name": "central portion with variable degree of fibrosis + coagulative necrosis with scanty tumor cells (b)   periductal infiltrating / diffuse type:",
+      "raw": "central portion with variable degree of fibrosis + coagulative necrosis with scanty tumor cells (b)   periductal infiltrating / diffuse type:",
+      "frequency": null
+    },
+    {
+      "name": "elongated spiculated / branching growth along dilated / narrowed bile duct (c)  intraductal tubular polypoid / papillary type:",
+      "raw": "elongated spiculated / branching growth along dilated / narrowed bile duct (c)  intraductal tubular polypoid / papillary type:",
+      "frequency": null
+    },
+    {
+      "name": "infrequent slow growing tumor with relatively favorable prognosis",
+      "raw": "infrequent slow growing tumor with relatively favorable prognosis",
+      "frequency": null
+    },
+    {
+      "name": "frequently associated with marked mucin production (d)  mixed = combination of mass-forming + periductal Histo:   well / moderately / poorly differentiated ductal adenocarcinoma (most common) / papillary / mucinous / signet-ring cell / mucoepidermoid / adenosquamous adenocarcinoma with abundant fibrous stroma",
+      "raw": "frequently associated with marked mucin production (d)  mixed = combination of mass-forming + periductal Histo:   well / moderately / poorly differentiated ductal adenocarcinoma (most common) / papillary / mucinous / signet-ring cell / mucoepidermoid / adenosquamous adenocarcinoma with abundant fibrous stroma",
+      "frequency": "most common"
+    },
+    {
+      "name": "Mucin-hypersecreting cholangiocarcinoma",
+      "raw": "Mucin-hypersecreting cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma =  metaplastic transformation of adenocarcinoma",
+      "raw": "Squamous cell carcinoma =  metaplastic transformation of adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory bowel disease",
+      "raw": "Inflammatory bowel disease (10 x increased risk); incidence of 0.4-1.4% in ulcerative colitis; latent period of 15 years; tumors usually multicentric + predominantly in extrahepatic sites; GB involved in 15% (simultaneous presence of gallstones is rare)",
+      "frequency": "1.4%"
+    },
+    {
+      "name": "Biliary lithiasis: cholecystolithiasis",
+      "raw": "Biliary lithiasis: cholecystolithiasis (20-50%), hepatolithiasis (5-10%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Primary sclerosing cholangitis",
+      "raw": "Primary sclerosing cholangitis (10-15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Infection with liver flukes: Opisthorchis viverrini and Clonorchis sinensis infestation (Far East) ◊  Most common cause worldwide!",
+      "raw": "Infection with liver flukes: Opisthorchis viverrini and Clonorchis sinensis infestation (Far East) ◊  Most common cause worldwide!",
+      "frequency": "most common"
+    },
+    {
+      "name": "Recurrent pyogenic cholangitis = hepatolithiasis",
+      "raw": "Recurrent pyogenic cholangitis = hepatolithiasis",
+      "frequency": null
+    },
+    {
+      "name": "Viral infection: HIV, hepatitis B virus, hepatitis C virus, Epstein-Barr virus",
+      "raw": "Viral infection: HIV, hepatitis B virus, hepatitis C virus, Epstein-Barr virus",
+      "frequency": null
+    },
+    {
+      "name": "Congenital biliary cystic disease: choledochal cyst / congenital hepatic cyst / congenital biliary atresia",
+      "raw": "Congenital biliary cystic disease: choledochal cyst / congenital hepatic cyst / congenital biliary atresia",
+      "frequency": null
+    },
+    {
+      "name": "Anomalous pancreaticobiliary junction",
+      "raw": "Anomalous pancreaticobiliary junction",
+      "frequency": null
+    },
+    {
+      "name": "Ductal plate malformation:",
+      "raw": "Ductal plate malformation:",
+      "frequency": null
+    },
+    {
+      "name": "Papillomatosis of bile ducts",
+      "raw": "Papillomatosis of bile ducts",
+      "frequency": null
+    },
+    {
+      "name": "Choledochoenteric anastomosis",
+      "raw": "Choledochoenteric anastomosis",
+      "frequency": null
+    },
+    {
+      "name": "History of other malignancy",
+      "raw": "History of other malignancy (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Toxins: thorotrast exposure, polyvinyl chloride",
+      "raw": "Toxins: thorotrast exposure, polyvinyl chloride",
+      "frequency": null
+    },
+    {
+      "name": "Heavy alcohol consumption",
+      "raw": "Heavy alcohol consumption",
+      "frequency": null
+    },
+    {
+      "name": "Alpha−1 antitrypsin deficiency",
+      "raw": "Alpha−1 antitrypsin deficiency",
+      "frequency": null
+    },
+    {
+      "name": "Familial polyposis",
+      "raw": "Familial polyposis",
+      "frequency": null
+    },
+    {
+      "name": "gradual onset of fluctuating painless jaundice",
+      "raw": "gradual onset of fluctuating painless jaundice",
+      "frequency": null
+    },
+    {
+      "name": "cholangitis (10%), weight loss, fatigability",
+      "raw": "cholangitis (10%), weight loss, fatigability",
+      "frequency": "10%"
+    },
+    {
+      "name": "intermittent epigastric pain, enlarged tender liver",
+      "raw": "intermittent epigastric pain, enlarged tender liver",
+      "frequency": null
+    },
+    {
+      "name": "elevated bilirubin + alkaline phosphatase",
+      "raw": "elevated bilirubin + alkaline phosphatase",
+      "frequency": null
+    },
+    {
+      "name": "Infiltrating / sclerosing type",
+      "raw": "Infiltrating / sclerosing type (94%)",
+      "frequency": "94%"
+    },
+    {
+      "name": "Papillary / tubular polypoid type",
+      "raw": "Papillary / tubular polypoid type (5-6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Obstruction leading to biliary cirrhosis",
+      "raw": "Obstruction leading to biliary cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Hepatomegaly",
+      "raw": "Hepatomegaly",
+      "frequency": null
+    },
+    {
+      "name": "Intrahepatic (subdiaphragmatic, perihepatic) abscess → septicemia",
+      "raw": "Intrahepatic (subdiaphragmatic, perihepatic) abscess → septicemia",
+      "frequency": null
+    },
+    {
+      "name": "Biliary peritonitis",
+      "raw": "Biliary peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Portal vein invasion",
+      "raw": "Portal vein invasion",
+      "frequency": null
+    },
+    {
+      "name": "abdominal pain",
+      "raw": "abdominal pain (47%); painless jaundice (12%)",
+      "frequency": "47%"
+    },
+    {
+      "name": "palpable mass",
+      "raw": "palpable mass (18%), weight loss (18%)",
+      "frequency": "18%"
+    },
+    {
+      "name": "Metastatic adenocarcinoma",
+      "raw": "Metastatic adenocarcinoma (central necrosis = strongly T2-hyperintense + T1- hypointense)",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma (strong globular enhancement, NO ragged rim)",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing / cirrhotic HCC",
+      "raw": "Sclerosing / cirrhotic HCC (NO distinguishing features)",
+      "frequency": null
+    },
+    {
+      "name": "Organizing abscess",
+      "raw": "Organizing abscess (thick enhancing wall with central cystic change)",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis (multilayered appearance)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Path (Japanese Liver Cancer Study Group): (a)  mass-forming (= nodular / exophytic) type: commonly in peripheral cholangiocarcinoma commonly in hilar + extrahepatic cholangiocarcinoma Unusual manifestation: √  severe diffuse dilatation of intra- and extrahepatic bile ducts proximal + distal to tumor Genetics:   mutation in p53 tumor suppressor gene + k-ras gene Peak prevalence:   7th decade; M > F Predisposed:   conditions causing chronic biliary inflammation ›  Biliary hamartoma ›  Autosomal dominant polycystic disease ›  Congenital hepatic fibrosis ›  Caroli disease ← chronic biliary stasis"
+}

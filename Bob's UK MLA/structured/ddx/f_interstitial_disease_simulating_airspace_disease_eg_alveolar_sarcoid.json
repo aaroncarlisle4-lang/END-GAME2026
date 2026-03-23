@@ -1,0 +1,57 @@
+{
+  "finding": "F. INTERSTITIAL DISEASE simulating airspace disease, eg, \"alveolar sarcoid\"",
+  "slug": "f_interstitial_disease_simulating_airspace_disease_eg_alveolar_sarcoid",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/f_interstitial_disease_simulating_airspace_disease_eg_alveolar_sarcoid.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aspiration",
+      "raw": "Aspiration",
+      "frequency": null
+    },
+    {
+      "name": "Inhalation, Inflammatory",
+      "raw": "Inhalation, Inflammatory",
+      "frequency": null
+    },
+    {
+      "name": "Renal",
+      "raw": "Renal (uremia)",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Proteinosis",
+      "raw": "Proteinosis (alveolar)",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar cell carcinoma",
+      "raw": "Alveolar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Congestive",
+      "raw": "Congestive (CHF)",
+      "frequency": null
+    },
+    {
+      "name": "Emboli",
+      "raw": "Emboli",
+      "frequency": null
+    },
+    {
+      "name": "Drug reaction, Drowning",
+      "raw": "Drug reaction, Drowning",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

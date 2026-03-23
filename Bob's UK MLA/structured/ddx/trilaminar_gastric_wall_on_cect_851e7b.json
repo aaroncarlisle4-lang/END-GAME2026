@@ -1,0 +1,77 @@
+{
+  "finding": "Trilaminar Gastric Wall on CECT",
+  "slug": "trilaminar_gastric_wall_on_cect_851e7b",
+  "chapter": "STOMACH",
+  "source_file": "processed_clusters/stomach/trilaminar_gastric_wall_on_cect_851e7b.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucosa:",
+      "raw": "Mucosa:",
+      "frequency": null
+    },
+    {
+      "name": "Submucosa:",
+      "raw": "Submucosa:",
+      "frequency": null
+    },
+    {
+      "name": "Muscularis propria:",
+      "raw": "Muscularis propria:",
+      "frequency": null
+    },
+    {
+      "name": "Serosa",
+      "raw": "Serosa",
+      "frequency": null
+    },
+    {
+      "name": "Chief cells = peptic / zymogenic cells",
+      "raw": "Chief cells = peptic / zymogenic cells",
+      "frequency": null
+    },
+    {
+      "name": "Parietal cells = oxyntic cells",
+      "raw": "Parietal cells = oxyntic cells",
+      "frequency": null
+    },
+    {
+      "name": "Mucous neck cells produce:   mucoprotein, mucopolysaccharide, aminopolysaccharide sulfate",
+      "raw": "Mucous neck cells produce:   mucoprotein, mucopolysaccharide, aminopolysaccharide sulfate",
+      "frequency": null
+    },
+    {
+      "name": "Argentaffine cells = enteroendocrine cells",
+      "raw": "Argentaffine cells = enteroendocrine cells",
+      "frequency": null
+    },
+    {
+      "name": "G-cells",
+      "raw": "G-cells",
+      "frequency": null
+    },
+    {
+      "name": "decreased MOTILITY of stomach + intestines",
+      "raw": "decreased MOTILITY of stomach + intestines",
+      "frequency": null
+    },
+    {
+      "name": "decreased GASTRIC SECRETION",
+      "raw": "decreased GASTRIC SECRETION",
+      "frequency": null
+    },
+    {
+      "name": "decreased TONE OF GALLBLADDER + bile ducts",
+      "raw": "decreased TONE OF GALLBLADDER + bile ducts",
+      "frequency": null
+    },
+    {
+      "name": "increased TONE OF SPHINCTERS",
+      "raw": "increased TONE OF SPHINCTERS (Oddi + lower esophageal sphincter)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "avid enhancement low in attenuation high in attenuation Suspicious findings: √  focal / eccentric gastric wall thickening √  low attenuation / nodularity of gastric wall √ mucosal hyperenhancement √ adjacent fat stranding Gastric Cells Location:   body + fundus produce:   pepsinogen Location:   body + fundus produce:   H+, Cl-, intrinsic factor, prostaglandins Location:   body + fundus produce:   glucagon-like substance (A-cells), somatostatin (D-cells), vasoactive intestinal polypeptide (D1-cells), 5-hydroxytryptamine (EC-cells) Location:   pylorus produce:   gastrin Effect of Bilateral Vagot"
+}

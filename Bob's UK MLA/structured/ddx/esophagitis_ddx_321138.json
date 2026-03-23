@@ -1,0 +1,32 @@
+{
+  "finding": "Esophagitis (DDx)",
+  "slug": "esophagitis_ddx_321138",
+  "chapter": "Esophagitis",
+  "source_file": "processed_clusters/esophagitis/esophagitis_ddx_321138.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "glycogen acanthosis",
+      "raw": "glycogen acanthosis",
+      "frequency": null
+    },
+    {
+      "name": "reflux esophagitis",
+      "raw": "reflux esophagitis",
+      "frequency": null
+    },
+    {
+      "name": "superficial spreading carcinoma",
+      "raw": "superficial spreading carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "artifacts",
+      "raw": "artifacts",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"intramural diverticulosis\" = multiple tiny indentations + protrusions | sluggish / absent primary peristalsis | strictures (rare) | mycetoma resembling large intraluminal tumor (rare)"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Chorioangioma (DDx)",
+  "slug": "chorioangioma_ddx_2c634b",
+  "chapter": "Chorioangioma",
+  "source_file": "processed_clusters/chorioangioma/chorioangioma_ddx_2c634b.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "partial hydatidiform mole",
+      "raw": "partial hydatidiform mole",
+      "frequency": null
+    },
+    {
+      "name": "placental hematoma",
+      "raw": "placental hematoma",
+      "frequency": null
+    },
+    {
+      "name": "teratoma",
+      "raw": "teratoma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "leiomyoma",
+      "raw": "leiomyoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "arterial signal on Doppler ultrasound in angiomatous chorioangioma | placental mass with high T2 SI (similar to hemangioma) | heterogeneous SI ← acute infarction + degenerative changes"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "E. MINERAL DEPOSITION",
+  "slug": "e_mineral_deposition_c44447",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/e_mineral_deposition_c44447.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Calcium concentration < 30%",
+      "raw": "Calcium concentration < 30%",
+      "frequency": "30%"
+    },
+    {
+      "name": "Manganese, copper, iron",
+      "raw": "Manganese, copper, iron",
+      "frequency": null
+    },
+    {
+      "name": "Cockayne syndrome",
+      "raw": "Cockayne syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Neurodegeneration with iron accumulation",
+      "raw": "Neurodegeneration with iron accumulation (eg, Hallervorden-Spatz disease)",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic encephalopathy",
+      "raw": "Hepatic encephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

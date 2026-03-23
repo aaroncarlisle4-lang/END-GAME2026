@@ -1,0 +1,37 @@
+{
+  "finding": "B. EXUDATIVE PHASE OF INTERSTITIAL PNEUMONIA",
+  "slug": "b_exudative_phase_of_interstitial_pneumonia",
+  "chapter": "D. IATROGENIC",
+  "source_file": "processed_clusters/d_iatrogenic/b_exudative_phase_of_interstitial_pneumonia.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "UIP",
+      "raw": "UIP",
+      "frequency": null
+    },
+    {
+      "name": "Adult respiratory distress syndrome",
+      "raw": "Adult respiratory distress syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Radiation pneumonitis",
+      "raw": "Radiation pneumonitis",
+      "frequency": null
+    },
+    {
+      "name": "Drug reaction",
+      "raw": "Drug reaction",
+      "frequency": null
+    },
+    {
+      "name": "Reaction to noxious gases",
+      "raw": "Reaction to noxious gases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

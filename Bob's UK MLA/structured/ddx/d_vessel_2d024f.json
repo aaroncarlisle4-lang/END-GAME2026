@@ -1,0 +1,52 @@
+{
+  "finding": "D. VESSEL",
+  "slug": "d_vessel_2d024f",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/d_vessel_2d024f.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Arterial aneurysm",
+      "raw": "Arterial aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Ectatic internal carotid artery",
+      "raw": "Ectatic internal carotid artery",
+      "frequency": null
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Hydrocephalus",
+      "raw": "Hydrocephalus (empty sella)",
+      "frequency": null
+    },
+    {
+      "name": "AVM, Aneurysm",
+      "raw": "AVM, Aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary adenoma",
+      "raw": "Pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis, TB",
+      "raw": "Sarcoidosis, TB",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

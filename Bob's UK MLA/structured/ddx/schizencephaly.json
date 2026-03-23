@@ -1,0 +1,57 @@
+{
+  "finding": "SCHIZENCEPHALY",
+  "slug": "schizencephaly",
+  "chapter": "SCHISTOSOMIASIS OF CNS",
+  "source_file": "processed_clusters/schistosomiasis_of_cns/schizencephaly.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Closed-lip schizencephaly",
+      "raw": "Closed-lip schizencephaly (type 1) = gray matter-lined lips in contact with each other (may be missed in imaging planes parallel to the plane of cleft)",
+      "frequency": null
+    },
+    {
+      "name": "Open-lip schizencephaly (type 2) = separated lips",
+      "raw": "Open-lip schizencephaly (type 2) = separated lips",
+      "frequency": null
+    },
+    {
+      "name": "seizure disorder",
+      "raw": "seizure disorder",
+      "frequency": null
+    },
+    {
+      "name": "motor + mental deficiencies correlate with extent of defect:",
+      "raw": "motor + mental deficiencies correlate with extent of defect:",
+      "frequency": null
+    },
+    {
+      "name": "mild / moderate developmental motor delay",
+      "raw": "mild / moderate developmental motor delay",
+      "frequency": null
+    },
+    {
+      "name": "range of normal mentation to severe mental retardation",
+      "raw": "range of normal mentation to severe mental retardation",
+      "frequency": null
+    },
+    {
+      "name": "blindness possible (optic nerve hypoplasia in 33%) Location:   most commonly near pre- and postcentral gyri (sylvian fissure); uni- / (mostly) bilateral; in middle cerebral artery distribution",
+      "raw": "blindness possible (optic nerve hypoplasia in 33%) Location:   most commonly near pre- and postcentral gyri (sylvian fissure); uni- / (mostly) bilateral; in middle cerebral artery distribution",
+      "frequency": "33%"
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cystic tumor",
+      "raw": "Cystic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  AGENETIC PORENCEPHALY = TRUE PORENCEPHALY =  \"split brain\" =  rare CNS malformation consisting of a full-thickness CSF-filled parenchymal cleft lined by gray matter extending from subarachnoid space to subependyma of lateral ventricles Frequency:   1÷1,650 Cause:   ? vascular ischemia of portion of germinal matrix / genetic mutation → segmental developmental failure of neuronal cell migration to form cerebral cortex; NOT porencephaly Time of injury:   30-60 days of gestation Often associated with:   polymicrogyria, microcephaly, gray matter heterotopia, septooptic dysplasia Types: √  walls"
+}

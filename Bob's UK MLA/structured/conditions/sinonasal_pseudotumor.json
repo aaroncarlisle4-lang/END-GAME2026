@@ -1,0 +1,29 @@
+{
+  "name": "SINONASAL PSEUDOTUMOR",
+  "slug": "sinonasal_pseudotumor",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/sinonasal_pseudotumor.md",
+  "definition": "",
+  "demographics": {
+    "Location": "nasal cavity, nasopharynx, skull base, temporal bone, maxillary sinus, larynx,"
+  },
+  "dominant_finding": "more aggressive appearance than orbital pseudotumors:",
+  "distribution": "nasal cavity, nasopharynx, skull base, temporal bone, maxillary sinus, larynx,",
+  "discriminating_features": [
+    "more aggressive appearance than orbital pseudotumors:",
+    "osseous erosion, remodeling, sclerosis (common)",
+    "± perineural spread along maxillary, mandibular, hypoglossal nn."
+  ],
+  "other_features": {
+    "general": [
+      "more aggressive appearance than orbital pseudotumors:",
+      "osseous erosion, remodeling, sclerosis (common)",
+      "± perineural spread along maxillary, mandibular, hypoglossal nn."
+    ]
+  },
+  "clinical": {
+    "Cx": "internal carotid occlusion",
+    "Prognosis": "good after complete resection",
+    "Rx": "less responsive to steroid therapy than orbital pseudotumors"
+  }
+}

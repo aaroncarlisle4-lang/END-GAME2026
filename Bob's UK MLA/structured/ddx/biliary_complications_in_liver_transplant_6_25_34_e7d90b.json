@@ -1,0 +1,27 @@
+{
+  "finding": "Biliary Complications in Liver Transplant (6-25-34%",
+  "slug": "biliary_complications_in_liver_transplant_6_25_34_e7d90b",
+  "chapter": "LIPOMA OF LIVER",
+  "source_file": "processed_clusters/lipoma_of_liver/biliary_complications_in_liver_transplant_6_25_34_e7d90b.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Biliary obstruction",
+      "raw": "Biliary obstruction (15-18%) (a)  anastomotic stricture (extrahepatic)",
+      "frequency": "18%"
+    },
+    {
+      "name": "Bile leak",
+      "raw": "Bile leak (10-15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Biloma formation (11%) within 1st year after transplantation",
+      "raw": "Biloma formation (11%) within 1st year after transplantation",
+      "frequency": "11%"
+    }
+  ],
+  "criteria": {},
+  "context": "◊  2nd most common cause of liver dysfunction after rejection Time of onset:   within first 3 months Stricture and leak = the most common biliary complications Cause:   iatrogenic trauma → ischemia + scar formation (b)  nonanastomotic (intrahepatic) stricture Cause:   hepatic arterial thrombosis / stenosis (in 50%), prolonged preservation time, bacterial / viral cholangitis, rejection, recurrent primary sclerosing cholangitis, cholangiocarcinoma, kinking of redundant CBD, sphincter of Oddi dysfunction (c)  tension mucocele of allograft cystic duct remnant Cause:   ligation of cystic duct proxi"
+}

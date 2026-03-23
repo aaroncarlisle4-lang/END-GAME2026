@@ -1,0 +1,37 @@
+{
+  "finding": "Small Gallbladder",
+  "slug": "small_gallbladder",
+  "chapter": "C. NORMAL (2%",
+  "source_file": "processed_clusters/c_normal_2/small_gallbladder.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic cholecystitis",
+      "raw": "Chronic cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis: in 25% of patients",
+      "raw": "Cystic fibrosis: in 25% of patients",
+      "frequency": "25%"
+    },
+    {
+      "name": "Congenital hypoplasia / multiseptated gallbladder",
+      "raw": "Congenital hypoplasia / multiseptated gallbladder",
+      "frequency": null
+    },
+    {
+      "name": "Postprandial",
+      "raw": "Postprandial",
+      "frequency": null
+    },
+    {
+      "name": "Intrahepatic cholestasis: viral, drug-related",
+      "raw": "Intrahepatic cholestasis: viral, drug-related",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

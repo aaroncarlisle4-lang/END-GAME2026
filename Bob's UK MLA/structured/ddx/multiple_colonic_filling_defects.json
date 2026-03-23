@@ -1,0 +1,67 @@
+{
+  "finding": "Multiple Colonic Filling Defects",
+  "slug": "multiple_colonic_filling_defects",
+  "chapter": "D. POSTSURGICAL",
+  "source_file": "processed_clusters/d_postsurgical/multiple_colonic_filling_defects.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NEOPLASMS (a)  polyposis syndrome (b)  hematogenous metastases: from breast, lung, stomach, ovary, pancreas, uterus (c)  multiple tumors ›  benign: neurofibromatosis, colonic lipomatosis, multiple hamartoma syndrome (Cowden disease) ›  malignant: lymphoma, leukemia, adenocarcinoma",
+      "raw": "NEOPLASMS (a)  polyposis syndrome (b)  hematogenous metastases: from breast, lung, stomach, ovary, pancreas, uterus (c)  multiple tumors ›  benign: neurofibromatosis, colonic lipomatosis, multiple hamartoma syndrome (Cowden disease) ›  malignant: lymphoma, leukemia, adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "INFLAMMATORY PSEUDOPOLYPS ulcerative colitis, Crohn colitis, ischemic colitis, amebiasis, schistosomiasis, strongyloidiasis, trichuriasis",
+      "raw": "INFLAMMATORY PSEUDOPOLYPS ulcerative colitis, Crohn colitis, ischemic colitis, amebiasis, schistosomiasis, strongyloidiasis, trichuriasis",
+      "frequency": null
+    },
+    {
+      "name": "ARTIFACTS feces, air bubbles, oil bubbles, mucous strands, ingested foreign body",
+      "raw": "ARTIFACTS feces, air bubbles, oil bubbles, mucous strands, ingested foreign body (eg, corn kernels)",
+      "frequency": null
+    },
+    {
+      "name": "MISCELLANEOUS nodular lymphoid hyperplasia, lymphoid follicular pattern, hemorrhoids, diverticula, pneumatosis intestinalis, colitis cystica profunda, colonic urticaria, submucosal colonic edema ← obstruction, cystic fibrosis, amyloidosis, ulcerative pseudopolyps, proximal to obstruction mnemonic:   MILL P3",
+      "raw": "MISCELLANEOUS nodular lymphoid hyperplasia, lymphoid follicular pattern, hemorrhoids, diverticula, pneumatosis intestinalis, colitis cystica profunda, colonic urticaria, submucosal colonic edema ← obstruction, cystic fibrosis, amyloidosis, ulcerative pseudopolyps, proximal to obstruction mnemonic:   MILL P3",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases (to colon)",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia",
+      "raw": "Ischemia (thumbprinting)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoid hyperplasia",
+      "raw": "Lymphoid hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Polyposis",
+      "raw": "Polyposis",
+      "frequency": null
+    },
+    {
+      "name": "Pseudopolyposis",
+      "raw": "Pseudopolyposis (with inflammatory bowel disease)",
+      "frequency": null
+    },
+    {
+      "name": "Pneumatosis cystoides",
+      "raw": "Pneumatosis cystoides",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

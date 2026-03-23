@@ -1,0 +1,27 @@
+{
+  "finding": "Popcorn-type Calcification",
+  "slug": "popcorn_type_calcification",
+  "chapter": "C. DIAPHRAGM",
+  "source_file": "processed_clusters/c_diaphragm/popcorn_type_calcification.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hamartoma",
+      "raw": "Hamartoma (lung)",
+      "frequency": null
+    },
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis (mediastinum)",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (mediastinum)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

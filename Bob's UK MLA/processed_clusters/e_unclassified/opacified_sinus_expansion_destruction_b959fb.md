@@ -1,0 +1,30 @@
+# Finding: Opacified Sinus & Expansion / Destruction
+
+**Source section:** E. Unclassified
+**Quality score:** 0.667
+**Differential count:** 11
+
+## Differentials
+
+- Plasmacytoma
+- Lymphoma
+- Unknown etiology: Wegener granulomatosis
+- Mucocele
+- Polyp
+- Fibrous dysplasia, Fibroma (ossifying)
+- Aneurysmal bone cyst, Angiofibroma
+- Cancer
+- Inverting papilloma
+- Esthesioneuroblastoma
+- Sarcoma: ie, rhabdomyosarcoma
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Convert ## Differentials into a comparison table.
+  2. Columns = each differential diagnosis.
+  3. Rows = Dominant finding | Demographics | Distribution |
+            Key discriminator | Other findings | Relative frequency.
+  4. Preserve any percentages or 'most common/rare' qualifiers.
+  5. Use ## Context paragraph for additional demographic / distribution clues.
+-->

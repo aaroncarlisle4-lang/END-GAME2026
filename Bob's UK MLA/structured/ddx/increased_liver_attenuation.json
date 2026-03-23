@@ -1,0 +1,62 @@
+{
+  "finding": "Increased Liver Attenuation",
+  "slug": "increased_liver_attenuation",
+  "chapter": "D. VASCULAR",
+  "source_file": "processed_clusters/d_vascular/increased_liver_attenuation.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "IRON",
+      "raw": "IRON",
+      "frequency": null
+    },
+    {
+      "name": "Genetic hemochromatosis",
+      "raw": "Genetic hemochromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Erythropoietic hemochromatosis: intravascular hemolysis, paroxysmal nocturnal hemoglobulinuria",
+      "raw": "Erythropoietic hemochromatosis: intravascular hemolysis, paroxysmal nocturnal hemoglobulinuria",
+      "frequency": null
+    },
+    {
+      "name": "Bantu siderosis",
+      "raw": "Bantu siderosis",
+      "frequency": null
+    },
+    {
+      "name": "Cirrhosis ›  recticuloendothelial deposition",
+      "raw": "Cirrhosis ›  recticuloendothelial deposition",
+      "frequency": null
+    },
+    {
+      "name": "Transfusional iron overload (b)  focal iron accumulation",
+      "raw": "Transfusional iron overload (b)  focal iron accumulation",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic metastases: choriocarcinoma, melanoma",
+      "raw": "Hemorrhagic metastases: choriocarcinoma, melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic adenoma",
+      "raw": "Hepatic adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Siderotic regenerative nodules of cirrhosis",
+      "raw": "Siderotic regenerative nodules of cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Focal hemochromatosis",
+      "raw": "Focal hemochromatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  abnormal deposits of substances with high atomic numbers √  normal liver density on NECT: 55-65 HU √  density of iron-laden liver on NECT: > 72-80 HU (a)  diffuse iron deposition ›  hepatocyte deposition"
+}

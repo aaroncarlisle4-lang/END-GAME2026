@@ -1,0 +1,57 @@
+{
+  "finding": "Associated with: fall",
+  "slug": "associated_with_fall_2fd68b",
+  "chapter": "CHORISTOMA",
+  "source_file": "processed_clusters/choristoma/associated_with_fall_2fd68b.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "common: along anterior + lateral + inferior surfaces of frontal lobe",
+      "raw": "common: along anterior + lateral + inferior surfaces of frontal lobe (in orbitofrontal, inferior frontal, and rectal gyri above cribriform plate, planum sphenoidale, lesser sphenoid wing) and temporal lobe (just above petrous bone / posterior to greater sphenoid wing)",
+      "frequency": "common"
+    },
+    {
+      "name": "less frequent: in parietal + occipital lobes, cerebellar hemispheres, vermis, cerebellar tonsils",
+      "raw": "less frequent: in parietal + occipital lobes, cerebellar hemispheres, vermis, cerebellar tonsils",
+      "frequency": "frequent"
+    },
+    {
+      "name": "often bilateral / beneath an acute subdural hematoma",
+      "raw": "often bilateral / beneath an acute subdural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "confusion (mild initial impairment), focal cerebral dysfunction",
+      "raw": "confusion (mild initial impairment), focal cerebral dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "seizures, personality changes",
+      "raw": "seizures, personality changes",
+      "frequency": null
+    },
+    {
+      "name": "focal neurologic deficits",
+      "raw": "focal neurologic deficits (late changes)",
+      "frequency": null
+    },
+    {
+      "name": "Encephalomalacia",
+      "raw": "Encephalomalacia (= scarred brain)",
+      "frequency": null
+    },
+    {
+      "name": "Porencephaly",
+      "raw": "Porencephaly (= formation of cystic cavity lined with gliotic brain and communicating with ventricles / subarachnoid space)",
+      "frequency": null
+    },
+    {
+      "name": "Hydrocephalus ← adhesions ← subarachnoid blood",
+      "raw": "Hydrocephalus ← adhesions ← subarachnoid blood",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   multiple bilateral lesions; CT (sensitive only to hemorrhage in acute phase): ◊  Look for scalp swelling to focus your attention on the location of the coup! √  \"salt and pepper lesion\" = mottled / speckled densities as focal / multiple (29%) poorly defined areas of low attenuation with irregular contour (edema) intermixed with a few tiny areas of increased density (petechial hemorrhage) √  diffuse cerebral hypodensity + swelling without hemorrhage in immediate posttraumatic period (common in children) ← hyperemia / ischemic edema √  some degree of contrast enhancement ← leaking ne"
+}

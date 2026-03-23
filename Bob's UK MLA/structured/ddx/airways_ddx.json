@@ -1,0 +1,27 @@
+{
+  "finding": "Airways (DDx)",
+  "slug": "airways_ddx",
+  "chapter": "Airways",
+  "source_file": "processed_clusters/airways/airways_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "\"pseudothickening\" ← flexed position",
+      "raw": "\"pseudothickening\" ← flexed position (exacerbates respiratory distress)",
+      "frequency": null
+    },
+    {
+      "name": "young age",
+      "raw": "young age",
+      "frequency": null
+    },
+    {
+      "name": "during expiration",
+      "raw": "during expiration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "PREECLAMPSIA",
+  "slug": "preeclampsia",
+  "chapter": "PENA-SHOKEIR PHENOTYPE",
+  "source_file": "processed_clusters/pena_shokeir_phenotype/preeclampsia.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Clinical triad:",
+      "raw": "Clinical triad: [EPH = Edema, Proteinuria, Hypertension]",
+      "frequency": null
+    },
+    {
+      "name": "Peripheral edema + weight gain",
+      "raw": "Peripheral edema + weight gain",
+      "frequency": null
+    },
+    {
+      "name": "Proteinuria",
+      "raw": "Proteinuria",
+      "frequency": null
+    },
+    {
+      "name": "Pregnancy-induced / -aggravated hypertension Histo:   blunted invasion of vasa media of spiral arterioles + focal vasculitis + atheromatous degeneration + fibrin deposits in intima of maternal placental arterioles",
+      "raw": "Pregnancy-induced / -aggravated hypertension Histo:   blunted invasion of vasa media of spiral arterioles + focal vasculitis + atheromatous degeneration + fibrin deposits in intima of maternal placental arterioles",
+      "frequency": null
+    },
+    {
+      "name": "convulsions + coma",
+      "raw": "convulsions + coma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  TOXEMIA OF PREGNANCY = EPH GESTOSIS Prevalence:   5% of pregnancies, typically during 3rd trimester √  heavy calcium deposition (in areas of placental degeneration) √  IUGR (6% with late-onset preeclampsia, 18% with early-onset preeclampsia) Cx: @   CNS: convulsive eclampsia, stroke @   Liver: hematoma, infarction @   Kidney: glomerular endotheliosis = variant of thrombotic microangiopathy → decreased GFR Eclampsia"
+}

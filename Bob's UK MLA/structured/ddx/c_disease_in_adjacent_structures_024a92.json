@@ -1,0 +1,32 @@
+{
+  "finding": "C. DISEASE IN ADJACENT STRUCTURES",
+  "slug": "c_disease_in_adjacent_structures_024a92",
+  "chapter": "Enlargement of Papilla of Vater",
+  "source_file": "processed_clusters/enlargement_of_papilla_of_vater/c_disease_in_adjacent_structures_024a92.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pancreatitis, pseudocyst, pancreatic carcinoma",
+      "raw": "Pancreatitis, pseudocyst, pancreatic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Cholecystitis",
+      "raw": "Cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Contiguous abscess",
+      "raw": "Contiguous abscess",
+      "frequency": null
+    },
+    {
+      "name": "Metastases to pancreaticoduodenal nodes: lymphoma, lung cancer, breast cancer",
+      "raw": "Metastases to pancreaticoduodenal nodes: lymphoma, lung cancer, breast cancer",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

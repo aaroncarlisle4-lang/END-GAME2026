@@ -1,0 +1,32 @@
+{
+  "finding": "Neonatal Intracranial Hemorrhage (DDx)",
+  "slug": "neonatal_intracranial_hemorrhage_ddx_81f82c",
+  "chapter": "Neonatal Intracranial Hemorrhage",
+  "source_file": "processed_clusters/neonatal_intracranial_hemorrhage/neonatal_intracranial_hemorrhage_ddx_81f82c.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tissue damage from ventriculitis",
+      "raw": "tissue damage from ventriculitis (sequelae of meningitis)",
+      "frequency": null
+    },
+    {
+      "name": "metabolic disorders",
+      "raw": "metabolic disorders",
+      "frequency": null
+    },
+    {
+      "name": "in utero ischemia (eg",
+      "raw": "in utero ischemia (eg",
+      "frequency": null
+    },
+    {
+      "name": "maternal cocaine abuse)",
+      "raw": "maternal cocaine abuse)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "periventricular hypodensity (DDx: immature brain with increased water + incomplete | hypointense areas on T1WI | hyperintense periventricular signals on T2WI in peritrigonal region ← delay in | thinning of posterior body + splenium of corpus callosum (= degeneration of"
+}

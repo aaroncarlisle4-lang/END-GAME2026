@@ -1,0 +1,27 @@
+{
+  "finding": "Diaphragmatic Hernia (DDx)",
+  "slug": "diaphragmatic_hernia_ddx_1_16c220",
+  "chapter": "Diaphragmatic Hernia",
+  "source_file": "processed_clusters/diaphragmatic_hernia/diaphragmatic_hernia_ddx_1_16c220.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bronchopulmonary foregut malformation",
+      "raw": "bronchopulmonary foregut malformation",
+      "frequency": null
+    },
+    {
+      "name": "mediastinal cyst (bronchogenic",
+      "raw": "mediastinal cyst (bronchogenic",
+      "frequency": null
+    },
+    {
+      "name": "neurenteric",
+      "raw": "neurenteric",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

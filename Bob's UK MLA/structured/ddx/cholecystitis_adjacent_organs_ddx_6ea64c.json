@@ -1,0 +1,27 @@
+{
+  "finding": "Cholecystitis — Adjacent organs (DDx)",
+  "slug": "cholecystitis_adjacent_organs_ddx_6ea64c",
+  "chapter": "Cholecystitis",
+  "source_file": "processed_clusters/cholecystitis/cholecystitis_adjacent_organs_ddx_6ea64c.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "gallbladder carcinoma with local spread (in 59% focal",
+      "raw": "gallbladder carcinoma with local spread (in 59% focal",
+      "frequency": "59%"
+    },
+    {
+      "name": "in 41% diffuse thickening of gallbladder wall",
+      "raw": "in 41% diffuse thickening of gallbladder wall",
+      "frequency": "41%"
+    },
+    {
+      "name": "multiple masses within liver)",
+      "raw": "multiple masses within liver)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "5-20-mm small intramural hypoattenuating nodules | poor / heterogeneous contrast enhancement | areas of marked T2-hyperintensity ← necrosis / abscess | xanthogranulomas show delayed strong enhancement"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Acute Mitral Regurgitation",
+  "slug": "acute_mitral_regurgitation_2fe988",
+  "chapter": "MITRAL REGURGITATION",
+  "source_file": "processed_clusters/mitral_regurgitation/acute_mitral_regurgitation_2fe988.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Spontaneous rupture of chordae tendineae",
+      "raw": "Spontaneous rupture of chordae tendineae",
+      "frequency": null
+    },
+    {
+      "name": "Myocardial infarction → rupture / dysfunction of papillary muscle",
+      "raw": "Myocardial infarction → rupture / dysfunction of papillary muscle (posteromedial > anterolateral papillary muscle)",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial (= infectious) endocarditis with rupture of chordae tendineae / leaflet perforation",
+      "raw": "Bacterial (= infectious) endocarditis with rupture of chordae tendineae / leaflet perforation",
+      "frequency": null
+    },
+    {
+      "name": "Periprosthetic valve leak",
+      "raw": "Periprosthetic valve leak",
+      "frequency": null
+    },
+    {
+      "name": "markedly elevated LA pressure",
+      "raw": "markedly elevated LA pressure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause: √  pulmonary venous hypertension with engorged pulmonary vessels and cephalization (less than with mitral stenosis) √  symmetric interstitial / alveolar pulmonary edema: √  asymmetric right upper lobe edema (9%) ← preferential flow of regurgitant jet into pulmonary vein of RUL (PATHOGNOMONIC) √  limited cardiac enlargement"
+}

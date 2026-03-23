@@ -1,0 +1,97 @@
+{
+  "finding": "Cause: ? autoimmune phenomenon",
+  "slug": "cause_autoimmune_phenomenon",
+  "chapter": "MYXOMA",
+  "source_file": "processed_clusters/myxoma/cause_autoimmune_phenomenon.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "positional symptoms (ie, change with position) due to hemodynamic obstruction:",
+      "raw": "positional symptoms (ie, change with position) due to hemodynamic obstruction:",
+      "frequency": null
+    },
+    {
+      "name": "arrhythmia (20%), heart murmur",
+      "raw": "arrhythmia (20%), heart murmur",
+      "frequency": "20%"
+    },
+    {
+      "name": "congestive heart failure (valve obstruction); syncope",
+      "raw": "congestive heart failure (valve obstruction); syncope",
+      "frequency": null
+    },
+    {
+      "name": "embolization (30-40%) to CNS, coronary artery, aorta, kidney, spleen, extremities, pulmonary artery ← tumor fragments / accumulated thrombus Location:   LA (75-80%); RA (10-20%); ventricle (5%); biatrial ← growth through fossa ovalis Site:   attached to interatrial septum by small stalk adjacent to or in fossa ovalis (75%) / to wall of cardiac chambers / to valve surfaces; may protrude into ventricle causing partial obstruction of atrioventricular valve",
+      "raw": "embolization (30-40%) to CNS, coronary artery, aorta, kidney, spleen, extremities, pulmonary artery ← tumor fragments / accumulated thrombus Location:   LA (75-80%); RA (10-20%); ventricle (5%); biatrial ← growth through fossa ovalis Site:   attached to interatrial septum by small stalk adjacent to or in fossa ovalis (75%) / to wall of cardiac chambers / to valve surfaces; may protrude into ventricle causing partial obstruction of atrioventricular valve",
+      "frequency": "40%"
+    },
+    {
+      "name": "LEFT ATRIAL MYXOMA (75-80%) with obstruction of mitral valve:",
+      "raw": "LEFT ATRIAL MYXOMA (75-80%) with obstruction of mitral valve:",
+      "frequency": "80%"
+    },
+    {
+      "name": "RIGHT ATRIAL MYXOMA (10-20%) with obstruction of tricuspid valve:",
+      "raw": "RIGHT ATRIAL MYXOMA (10-20%) with obstruction of tricuspid valve:",
+      "frequency": "20%"
+    },
+    {
+      "name": "peripheral edema, hepatic congestion, ascites ← potential obstruction of systemic venous return",
+      "raw": "peripheral edema, hepatic congestion, ascites ← potential obstruction of systemic venous return",
+      "frequency": null
+    },
+    {
+      "name": "Thrombus",
+      "raw": "Thrombus (more likely in posterior location in LA and LV, NO contrast enhancement, NO transvalvular prolapse)",
+      "frequency": null
+    },
+    {
+      "name": "Papillary fibroelastoma",
+      "raw": "Papillary fibroelastoma (also arises from narrow stalk, much smaller, different SI characteristics)",
+      "frequency": null
+    },
+    {
+      "name": "Other cardiac tumors: sarcoma, malignant mesenchymoma, metastasis",
+      "raw": "Other cardiac tumors: sarcoma, malignant mesenchymoma, metastasis",
+      "frequency": null
+    },
+    {
+      "name": "endocrine overactivity:",
+      "raw": "endocrine overactivity:",
+      "frequency": null
+    },
+    {
+      "name": "Cushing syndrome; sexual precocity; acromegaly (a)  Cardiac myxomas: multifocal (66%), outside left atrium, recurring at an increased rate after resection (b)  Hyperpigmented skin lesions: lentigines, ephelides, blue nevi (c)  Extracardiac tumors:",
+      "raw": "Cushing syndrome; sexual precocity; acromegaly (a)  Cardiac myxomas: multifocal (66%), outside left atrium, recurring at an increased rate after resection (b)  Hyperpigmented skin lesions: lentigines, ephelides, blue nevi (c)  Extracardiac tumors:",
+      "frequency": "66%"
+    },
+    {
+      "name": "Pituitary adenoma",
+      "raw": "Pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Myxoid fibroadenoma of the breast",
+      "raw": "Myxoid fibroadenoma of the breast",
+      "frequency": null
+    },
+    {
+      "name": "Psammomatous melanotic schwannoma",
+      "raw": "Psammomatous melanotic schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Testicular tumor: large-cell calcifying Sertoli cell tumor",
+      "raw": "Testicular tumor: large-cell calcifying Sertoli cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Primary pigmented nodular adrenocortical hyperplasia N.B.:     not related to Carney triad",
+      "raw": "Primary pigmented nodular adrenocortical hyperplasia N.B.:     not related to Carney triad (pulmonary hamartomas, extraadrenal paragangliomas, gastric leiomyosarcoma)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  small myxomas produce no CXR findings √  cardiomegaly √  atrial obstruction (mimicking valvular stenosis) √  persistent defect in atrium / diastolic defect in ventricle √  pulmonary venous hypertension: √  pulmonary vascular redistribution √  interstitial pulmonary edema √  enlargement of LA √  NO enlargement of atrial appendage √  ossific lung nodules Cx:   systemic emboli (27%) in 50% to CNS (= stroke / \"mycotic\" aneurysm) ← thrombotic nature of mass √  tumor calcification: R > L √  enlargement of RA √  prominent SVC, IVC, azygos vein √  decreased pulmonary vascularity √  pleural effusion"
+}

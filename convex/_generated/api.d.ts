@@ -10,6 +10,8 @@
 
 import type * as categories from "../categories.js";
 import type * as chapman from "../chapman.js";
+import type * as dahnertConditions from "../dahnertConditions.js";
+import type * as dahnertDDxClusters from "../dahnertDDxClusters.js";
 import type * as data_cardiothoracicsLongCases from "../data/cardiothoracicsLongCases.js";
 import type * as data_caseQualitySpec from "../data/caseQualitySpec.js";
 import type * as data_chapmanSeed from "../data/chapmanSeed.js";
@@ -34,18 +36,22 @@ import type * as data_womensHealthGU_longCases from "../data/womensHealthGU_long
 import type * as differentialPatterns from "../differentialPatterns.js";
 import type * as discriminators from "../discriminators.js";
 import type * as enhanceHighYield from "../enhanceHighYield.js";
+import type * as highYield from "../highYield.js";
 import type * as longCases from "../longCases.js";
 import type * as migrate from "../migrate.js";
 import type * as mnemonics from "../mnemonics.js";
 import type * as qa_validateCases from "../qa/validateCases.js";
 import type * as rag from "../rag.js";
 import type * as rapidCases from "../rapidCases.js";
+import type * as s3Storage from "../s3Storage.js";
 import type * as sections from "../sections.js";
 import type * as seed from "../seed.js";
 import type * as seedAllData from "../seedAllData.js";
 import type * as seedData_mskCases from "../seedData/mskCases.js";
 import type * as seedDukeCases from "../seedDukeCases.js";
+import type * as seedHighYield from "../seedHighYield.js";
 import type * as studyImages from "../studyImages.js";
+import type * as textIngestion from "../textIngestion.js";
 import type * as textbookReferences from "../textbookReferences.js";
 import type * as updateCategoryCounts from "../updateCategoryCounts.js";
 import type * as updateFindings from "../updateFindings.js";
@@ -60,6 +66,8 @@ import type {
 declare const fullApi: ApiFromModules<{
   categories: typeof categories;
   chapman: typeof chapman;
+  dahnertConditions: typeof dahnertConditions;
+  dahnertDDxClusters: typeof dahnertDDxClusters;
   "data/cardiothoracicsLongCases": typeof data_cardiothoracicsLongCases;
   "data/caseQualitySpec": typeof data_caseQualitySpec;
   "data/chapmanSeed": typeof data_chapmanSeed;
@@ -84,18 +92,22 @@ declare const fullApi: ApiFromModules<{
   differentialPatterns: typeof differentialPatterns;
   discriminators: typeof discriminators;
   enhanceHighYield: typeof enhanceHighYield;
+  highYield: typeof highYield;
   longCases: typeof longCases;
   migrate: typeof migrate;
   mnemonics: typeof mnemonics;
   "qa/validateCases": typeof qa_validateCases;
   rag: typeof rag;
   rapidCases: typeof rapidCases;
+  s3Storage: typeof s3Storage;
   sections: typeof sections;
   seed: typeof seed;
   seedAllData: typeof seedAllData;
   "seedData/mskCases": typeof seedData_mskCases;
   seedDukeCases: typeof seedDukeCases;
+  seedHighYield: typeof seedHighYield;
   studyImages: typeof studyImages;
+  textIngestion: typeof textIngestion;
   textbookReferences: typeof textbookReferences;
   updateCategoryCounts: typeof updateCategoryCounts;
   updateFindings: typeof updateFindings;

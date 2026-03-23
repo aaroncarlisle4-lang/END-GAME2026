@@ -1,0 +1,37 @@
+{
+  "finding": "B. BENIGN (20%",
+  "slug": "b_benign_20",
+  "chapter": "DIAPHRAGM",
+  "source_file": "processed_clusters/diaphragm/b_benign_20.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Myofibroma",
+      "raw": "Myofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Major Aortopulmonary Collateral Arteries",
+  "slug": "major_aortopulmonary_collateral_arteries",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/major_aortopulmonary_collateral_arteries.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pulmonary atresia with VSD = severe form of tetralogy of Fallot",
+      "raw": "Pulmonary atresia with VSD = severe form of tetralogy of Fallot",
+      "frequency": null
+    },
+    {
+      "name": "Tetralogy of Fallot",
+      "raw": "Tetralogy of Fallot",
+      "frequency": null
+    },
+    {
+      "name": "Transposition of great arteries",
+      "raw": "Transposition of great arteries",
+      "frequency": null
+    },
+    {
+      "name": "Double-outlet right ventricle",
+      "raw": "Double-outlet right ventricle",
+      "frequency": null
+    },
+    {
+      "name": "Truncus arteriosus",
+      "raw": "Truncus arteriosus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  systemic pulmonary supply via aortic branches"
+}

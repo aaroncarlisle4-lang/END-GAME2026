@@ -1,0 +1,37 @@
+{
+  "finding": "C. TUMOR",
+  "slug": "c_tumor_2",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/c_tumor_2.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Retinoblastoma",
+      "raw": "Retinoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Choroidal hemangioma",
+      "raw": "Choroidal hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Retinal angiomatosis",
+      "raw": "Retinal angiomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Melanocytoma",
+      "raw": "Melanocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Choroidal osteoma",
+      "raw": "Choroidal osteoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

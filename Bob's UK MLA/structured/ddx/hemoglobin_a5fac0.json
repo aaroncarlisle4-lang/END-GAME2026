@@ -1,0 +1,73 @@
+{
+  "finding": "HEMOGLOBIN",
+  "slug": "hemoglobin_a5fac0",
+  "chapter": "PHASICITY",
+  "source_file": "processed_clusters/phasicity/hemoglobin_a5fac0.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Variants:   Hb H (β4).",
+      "raw": "Variants:   Hb H (β4).",
+      "frequency": null
+    },
+    {
+      "name": "Hb S",
+      "raw": "Hb S (α2βS2)",
+      "frequency": null
+    },
+    {
+      "name": "Hb C",
+      "raw": "Hb C (α2βC2)",
+      "frequency": null
+    },
+    {
+      "name": "Hb SA",
+      "raw": "Hb SA",
+      "frequency": null
+    },
+    {
+      "name": "Hb SC",
+      "raw": "Hb SC",
+      "frequency": null
+    },
+    {
+      "name": "HBA1 on chromosome 16p13.3",
+      "raw": "HBA1 on chromosome 16p13.3",
+      "frequency": null
+    },
+    {
+      "name": "HBA2 on chromosome 16p13.3",
+      "raw": "HBA2 on chromosome 16p13.3",
+      "frequency": null
+    },
+    {
+      "name": "HBB on chromosome 11p15.5",
+      "raw": "HBB on chromosome 11p15.5",
+      "frequency": null
+    },
+    {
+      "name": "2 α globin chains",
+      "raw": "2 α globin chains (141 amino acids)",
+      "frequency": null
+    },
+    {
+      "name": "2 β globin chains",
+      "raw": "2 β globin chains (146 amino acids)",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Variants:   Hb H (β4).": [],
+    "Hb S": [],
+    "Hb C": [],
+    "Hb SA": [],
+    "Hb SC": [],
+    "HBA1 on chromosome 16p13.3": [],
+    "HBA2 on chromosome 16p13.3": [],
+    "HBB on chromosome 11p15.5": [],
+    "2 α globin chains": [],
+    "2 β globin chains": []
+  },
+  "context": "composed of 4 globular protein subunits + porphyrin ring holding an Fe2+ ion in fetus:   Hb F in adult:   Hb A, Hb A2, Hb F Hb A (96-98%) =  in Adult composed of 4 subunits of polypeptides Hb α1, Hb α2, Hb β, Hb β Genes & Locus: tetramer α2β2 composed of"
+}

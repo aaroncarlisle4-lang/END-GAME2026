@@ -1,0 +1,32 @@
+{
+  "finding": "B. ESOPHAGEAL WALL LESIONS (a) muscle",
+  "slug": "b_esophageal_wall_lesions_a_muscle",
+  "chapter": "Extrinsic Esophageal Impression",
+  "source_file": "processed_clusters/extrinsic_esophageal_impression/b_esophageal_wall_lesions_a_muscle.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cricopharyngeus",
+      "raw": "Cricopharyngeus",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal web (b)  vessel",
+      "raw": "Esophageal web (b)  vessel",
+      "frequency": null
+    },
+    {
+      "name": "Pharyngeal venous plexus",
+      "raw": "Pharyngeal venous plexus",
+      "frequency": null
+    },
+    {
+      "name": "Lymph node enlargement",
+      "raw": "Lymph node enlargement",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

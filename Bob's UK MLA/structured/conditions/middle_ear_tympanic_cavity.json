@@ -1,0 +1,33 @@
+{
+  "name": "MIDDLE EAR / TYMPANIC CAVITY",
+  "slug": "middle_ear_tympanic_cavity",
+  "chapter": "NECK",
+  "source_file": "processed_clusters/disease_entries/neck/middle_ear_tympanic_cavity.md",
+  "definition": "air-filled cavity within petrous portion of temporal bone containing ossicular chain carotid wall mastoid wall including from lateral to medial small triangular fragile 2-layered membrane in upper region loosely attached to larger robust tightly attached region consisting of 3 layers (skin + fibrous tissue + rounded promontory",
+  "demographics": {
+    "Location": "above malleolar folds; forms superior ⅛ of drum circumference"
+  },
+  "dominant_finding": "may be faintly discerned on CT",
+  "distribution": "above malleolar folds; forms superior ⅛ of drum circumference",
+  "discriminating_features": [
+    "may be faintly discerned on CT",
+    "wall prominence posteriorly + superiorly",
+    "wall prominence inferior and anterior to (1)",
+    "wall prominence anterior to (2)",
+    "inferior to (3)"
+  ],
+  "other_features": {
+    "general": [
+      "may be faintly discerned on CT",
+      "wall prominence posteriorly + superiorly",
+      "wall prominence inferior and anterior to (1)",
+      "wall prominence anterior to (2)",
+      "inferior to (3)",
+      "convexity inferior + slightly anterior to (4)",
+      "recess on posterior wall",
+      "recess on posterior wall lateral to (6)",
+      "situated between sinus tympani + facial nerve recess"
+    ]
+  },
+  "clinical": {}
+}

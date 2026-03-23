@@ -1,0 +1,39 @@
+{
+  "name": "PERICARDIAL DEFECT",
+  "slug": "pericardial_defect",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/pericardial_defect.md",
+  "definition": "CONGENITAL ABSENCE OF PERICARDIUM failure of pericardial development ← premature atrophy of left duct of Cuvier (cardinal vein), herniation of cardiac structures / lung levoposition of heart",
+  "demographics": {
+    "Frequency": "1÷13,000; M÷F = 3÷1"
+  },
+  "dominant_finding": "variations in size:",
+  "distribution": "prominence / focal bulge in the area of RVOT, main pulmonary artery, left atrial appendage",
+  "discriminating_features": [
+    "variations in size:",
+    "absence of left pericardial fat-pad",
+    "levoposition of heart + aortic knob with lack of visualization of right heart border while",
+    "prominence / focal bulge in the area of RVOT, main pulmonary artery, left atrial appendage",
+    "sharp margination + elongation of left heart border"
+  ],
+  "other_features": {
+    "general": [
+      "variations in size:",
+      "absence of left pericardial fat-pad",
+      "levoposition of heart + aortic knob with lack of visualization of right heart border while",
+      "prominence / focal bulge in the area of RVOT, main pulmonary artery, left atrial appendage",
+      "sharp margination + elongation of left heart border",
+      "insinuation of lung between heart + left hemidiaphragm",
+      "insinuation of lung between aortic knob + pulmonary artery",
+      "increased distance between heart + sternum ← absence of sternopericardial ligament (cross-",
+      "pneumopericardium following pneumothorax",
+      "NO tracheal deviation",
+      "excessive levorotation + displacement of heart",
+      "cardiac indentation at location of defect"
+    ]
+  },
+  "clinical": {
+    "Cx": "cardiac strangulation",
+    "Rx": "foraminal defect requires surgery because of"
+  }
+}

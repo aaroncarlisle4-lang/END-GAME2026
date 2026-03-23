@@ -1,0 +1,50 @@
+{
+  "name": "CEREBRAL CAVERNOUS MALFORMATION",
+  "slug": "cerebral_cavernous_malformation",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/cerebral_cavernous_malformation.md",
+  "definition": "CAVERNOUS ANGIOMA OF BRAIN = CAVERNOUS HEMANGIOMA = CAVERNOMA benign vascular hamartoma of immature blood vessels + intralesional hemorrhage",
+  "demographics": {
+    "Prevalence": "0.2-0.4% of general population",
+    "Associated with": "? developmental venous anomaly",
+    "Path": "well-circumscribed nodule of honeycomblike dilated endothelial lined spaces separated",
+    "Age": "any; 3rd-6th decade (most common); M = F"
+  },
+  "dominant_finding": "none / minimal / intense enhancement",
+  "distribution": "",
+  "discriminating_features": [
+    "NO obvious mass effect / edema",
+    "usually contain blood degradation products of different stages",
+    "slow blood flow in vascular channels",
+    "none / minimal / intense enhancement",
+    "low-attenuation areas due to thrombosed portions"
+  ],
+  "other_features": {
+    "general": [
+      "NO obvious mass effect / edema",
+      "usually contain blood degradation products of different stages",
+      "slow blood flow in vascular channels"
+    ],
+    "NECT": [
+      "small round / lobulated hyperdense region (CLUE)",
+      "minimal surrounding edema",
+      "extensive calcifications = hemangioma calcificans (20%)"
+    ],
+    "CECT": [
+      "none / minimal / intense enhancement",
+      "low-attenuation areas due to thrombosed portions",
+      "typically popcorn appearance with bright lobulated center on T1WI + T2WI",
+      "well-defined area of mixed signal intensity centrally (= \"mulberry\"-shaped lesion) with a",
+      "increased signal intensity (= extracellular methemoglobin / slow blood flow /",
+      "decreased intensity (= deoxyhemoglobin / intracellular methemoglobin / hemosiderin /",
+      "surrounded by hypointense rim (= hemosiderin) on T2WI"
+    ],
+    "ANGIO": [
+      "negative = \"cryptic / occult vascular malformation\""
+    ]
+  },
+  "clinical": {
+    "Cx": "hemorrhage of varying age",
+    "Rx": "none; microsurgery (if symptomatic)"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "C. INFECTIOUS",
+  "slug": "c_infectious",
+  "chapter": "C. Trauma",
+  "source_file": "processed_clusters/c_trauma/c_infectious.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pyogenic abscess",
+      "raw": "Pyogenic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Amebic abscess",
+      "raw": "Amebic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Echinococcal cyst",
+      "raw": "Echinococcal cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

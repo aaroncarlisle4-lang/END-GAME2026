@@ -1,0 +1,37 @@
+{
+  "finding": "Chordoma (DDx)",
+  "slug": "chordoma_ddx_1_c1456f",
+  "chapter": "Chordoma",
+  "source_file": "processed_clusters/chordoma/chordoma_ddx_1_c1456f.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "primary bone tumor",
+      "raw": "primary bone tumor",
+      "frequency": null
+    },
+    {
+      "name": "primary soft-tissue tumor",
+      "raw": "primary soft-tissue tumor",
+      "frequency": null
+    },
+    {
+      "name": "neuroma",
+      "raw": "neuroma",
+      "frequency": null
+    },
+    {
+      "name": "meningioma",
+      "raw": "meningioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "solitary midline spinal mass | sclerosis / \"ivory vertebra\" in 43-62% | total destruction of vertebra, initially without collapse | amorphous peripheral calcifications in 40%"
+}

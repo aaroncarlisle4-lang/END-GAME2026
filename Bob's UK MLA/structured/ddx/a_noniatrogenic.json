@@ -1,0 +1,82 @@
+{
+  "finding": "A. NONIATROGENIC",
+  "slug": "a_noniatrogenic",
+  "chapter": "D. VASCULAR",
+  "source_file": "processed_clusters/d_vascular/a_noniatrogenic.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Liver abscess",
+      "raw": "Liver abscess",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric infarction, necrotizing enterocolitis, colitis → portal venous gas",
+      "raw": "Mesenteric infarction, necrotizing enterocolitis, colitis → portal venous gas",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic artery thrombosis in liver transplant",
+      "raw": "Hepatic artery thrombosis in liver transplant",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory bowel disease",
+      "raw": "Inflammatory bowel disease",
+      "frequency": null
+    },
+    {
+      "name": "Abdominal trauma",
+      "raw": "Abdominal trauma",
+      "frequency": null
+    },
+    {
+      "name": "Emphysematous cholecystitis, ascending cholangitis",
+      "raw": "Emphysematous cholecystitis, ascending cholangitis",
+      "frequency": null
+    },
+    {
+      "name": "IATROGENIC Hepatic gas is to be expected after therapeutic interventions like surgery, embolization, or tumor ablation.",
+      "raw": "IATROGENIC Hepatic gas is to be expected after therapeutic interventions like surgery, embolization, or tumor ablation.",
+      "frequency": null
+    },
+    {
+      "name": "Biliary gas: sphincterotomy / choledochojejunostomy",
+      "raw": "Biliary gas: sphincterotomy / choledochojejunostomy",
+      "frequency": null
+    },
+    {
+      "name": "Colonoscopy, barium enema examination",
+      "raw": "Colonoscopy, barium enema examination",
+      "frequency": null
+    },
+    {
+      "name": "Liver biopsy",
+      "raw": "Liver biopsy",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic artery embolization: chemoembolization, brachytherapy, posttraumatic embolization",
+      "raw": "Hepatic artery embolization: chemoembolization, brachytherapy, posttraumatic embolization",
+      "frequency": null
+    },
+    {
+      "name": "Percutaneous tumor ablation",
+      "raw": "Percutaneous tumor ablation",
+      "frequency": null
+    },
+    {
+      "name": "Migration of hepatic venous gas: femoral venous / spinal / epidural catheter or lumbar puncture",
+      "raw": "Migration of hepatic venous gas: femoral venous / spinal / epidural catheter or lumbar puncture",
+      "frequency": null
+    },
+    {
+      "name": "Oxidized cellulose sponge (SURGICEL®) Hepatic venous gas may be seen after placement of a femoral central venous catheter and aggressive fluid resuscitation.",
+      "raw": "Oxidized cellulose sponge (SURGICEL®) Hepatic venous gas may be seen after placement of a femoral central venous catheter and aggressive fluid resuscitation.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

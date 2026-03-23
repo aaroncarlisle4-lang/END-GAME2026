@@ -1,0 +1,39 @@
+{
+  "name": "THORACIC DUCT CYST",
+  "slug": "thoracic_duct_cyst",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/thoracic_duct_cyst.md",
+  "definition": "exceedingly rare benign mass of posterior mediastinum",
+  "demographics": {
+    "Histo": "cystic space lined by hyalinized fibrous connective tissue surrounded by patchy",
+    "Location": "anywhere along thoracic duct",
+    "Size": "3-22 cm"
+  },
+  "dominant_finding": "homogeneous well-defined mass of water attenuation",
+  "distribution": "anywhere along thoracic duct",
+  "discriminating_features": [
+    "well-circumscribed posterior mediastinal mass",
+    "contiguity with cisterna chyli",
+    "enhancement of a smooth thin wall",
+    "homogeneous well-defined mass of water attenuation",
+    "variable SI on T1WI; mildly hyperintense ← increased lipids + proteins"
+  ],
+  "other_features": {
+    "general": [
+      "well-circumscribed posterior mediastinal mass",
+      "contiguity with cisterna chyli",
+      "enhancement of a smooth thin wall"
+    ],
+    "CT": [
+      "homogeneous well-defined mass of water attenuation"
+    ],
+    "MR": [
+      "variable SI on T1WI; mildly hyperintense ← increased lipids + proteins",
+      "variously heterogeneous hyperintense mass on T2WI"
+    ]
+  },
+  "clinical": {
+    "Cx": "rapid enlargement / spontaneous rupture after high-fat meal",
+    "Rx": "resection under preservation of thoracic duct pedicles to avoid postoperative chylothorax"
+  }
+}

@@ -1,0 +1,110 @@
+# Disease: FOCAL NODULAR HYPERPLASIA
+
+**Source section:** AND SPLENIC DISORDERS
+
+## Definition
+
+FNH = 2nd most common benign tumor of liver after hemangioma
+
+## Key Facts
+
+- **Prevalence:** 0.9%; 3-8% of all primary hepatic tumors in adult population, 2-4% in pediatric
+- **Path:** localized well-delineated usually solitary (80-95%) subcapsular mass composed of
+- **Histo:** composed of multiple spherical aggregates of hyperplastic hepatocytes often containing
+- **Associated with:** hepatic hemangioma (in 23%), meningioma, astrocytoma, arterial dysplasia of
+- **Location:** right lobe÷left lobe = 2÷1; multiple in 5-20%
+- **Frequency:** 10% of all FNH
+- **Mean age:** 38 years; women
+
+## Imaging Findings
+
+### General
+
+- globally resembling hepatic adenoma
+- no prominent septa
+- vaguely lobulated contours
+- central scar (in only 4%)
+- well-circumscribed nonencapsulated nodular cirrhotic-like mass in an otherwise normal
+- often near liver surface
+- pedunculated mass (in 5-20%)
+- multiple masses (in 20%)
+- central stellate scar = central fibrous core (NOT true scar) with radiating fibrous septa
+- spoke-wheel pattern (in 50% on average, in 80% if > 3 cm) (DDx: fibrolamellar HCC)
+- highly vascular tumor:
+- supplied by enlarged anomalous hepatic artery
+- venous drainage always into hepatic veins (DDx: HCC drains into portal venous system in
+- hemorrhage is unlikely
+- pseudocapsule of a few mm in thickness ← surrounding compressed hepatic parenchyma,
+- fuzzy margins
+- calcifications EXTREMELY rare
+
+### NECT
+
+- iso- / slightly hyperattenuating homogeneous mass
+- transient intense hyperdensity of most of the lesion except for central scar
+- hypodense central scar (15-33%)
+- early washout into hyperdense draining vein
+- lesion becomes isodense
+- lesion remains isodense
+- hyperdense central scar ← delayed washout of contrast from myxomatous scar tissue
+
+### US
+
+- iso- / mildly hypo- / mildly hyperechoic (33%) homogeneous mass
+- hypoechoic halo (of compressed liver parenchyma / displaced hepatic vessels)
+- hyperechoic central scar in 18%
+- enlarged afferent blood vessel with central arterial hypervascularity + centrifugal filling to
+- large draining veins at tumor margins
+- may show high-velocity Doppler signals with arterial pulsatility from arteriovenous shunts
+- usually homogeneous signal intensity of lesion
+- iso- to mildly hypointense (94%)
+- atypically hyperintense lesion in 6%
+- T2WI: isointense / mildly hyperintense (94-100%)
+- central scar (more often detected than on US / CT)
+- hypointense on T1WI
+- hyperintense on T2WI in 75-84% ← edema within myxomatous tissue + vascular
+- hypointense on T2WI in 25% ← absent / minimal edema
+- marked homogeneous enhancement in arterial phase fading to isointensity on delayed image
+- iso- to slightly hyperintense during portal venous / delayed phase relative to liver
+- occasionally slightly hyperenhancing in equilibrium phase ← entrapment of Gd-DTPA by
+- central scar after Gd-chelate administration:
+- low SI on early phase of enhancement
+- late + prolonged enhancement of central scar ← enlarged interstitial space with
+- enhancement of pseudocapsule on delayed images
+- homogeneously iso- to hyperintense (in 96%) / peripheral ring enhancement on 1-hour
+- less uptake of IV superparamagnetic iron oxide (ferucarbotran, mangafodipir trisodium)
+
+### NUC
+
+- normal uptake (60-75%)
+- increased uptake = virtually DIAGNOSTIC
+- cold spot (33%) ← less Kupffer cells (DDx: hepatic adenoma, hemangioma,
+- increased uptake (90%), normal uptake, cold spot (10%) with delayed excretion ←
+- increased uptake during early phase
+- defect relative to liver on delayed images
+
+### ANGIO
+
+- discretely marginated hypervascular mass (90%) with intense capillary blush /
+- enlargement of main feeding artery with central blood supply (= "spoke-wheel" pattern in
+- homogeneous parenchymal stain
+- decreased vascularity in central stellate fibrous scar
+- multiple lesions in 20-50%
+- strong arterial enhancement
+- persistent lesion enhancement (61%) ← sinusoidal dilatation
+- absence of a central scar (92%)
+- heterogeneous pattern (43%) ← necrosis, sinusoidal dilatation, hemorrhagic foci
+
+### MR
+
+- hyperintensity on T1WI (53%) ← intrasinusoidal dilatation
+- strong hyperintensity on T2WI (44%)
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

@@ -1,0 +1,87 @@
+{
+  "finding": "Small Vertebral Body",
+  "slug": "small_vertebral_body_90cd66",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/small_vertebral_body_90cd66.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Radiation therapy during early childhood in excess of 1,000 rad",
+      "raw": "Radiation therapy during early childhood in excess of 1,000 rad",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile rheumatoid arthritis",
+      "raw": "Juvenile rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Gaucher disease =  deposits of glucocerebrosides within RES",
+      "raw": "Gaucher disease =  deposits of glucocerebrosides within RES",
+      "frequency": null
+    },
+    {
+      "name": "Platyspondyly generalisata =  flattened vertebral bodies associated with many hereditary systemic disorders:",
+      "raw": "Platyspondyly generalisata =  flattened vertebral bodies associated with many hereditary systemic disorders:",
+      "frequency": null
+    },
+    {
+      "name": "Fracture",
+      "raw": "Fracture (trauma, osteogenesis imperfecta)",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma (Langerhans cell histiocytosis)",
+      "frequency": null
+    },
+    {
+      "name": "Tumor (metastatic neuroblastoma, myeloma, leukemia, aneurysmal bone cyst, Ewing",
+      "raw": "Tumor (metastatic neuroblastoma, myeloma, leukemia, aneurysmal bone cyst, Ewing",
+      "frequency": null
+    },
+    {
+      "name": "sarcoma)",
+      "raw": "sarcoma)",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Steroids",
+      "raw": "Steroids (avascular necrosis)",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis / Myeloma",
+      "raw": "Metastasis / Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Trauma / TB",
+      "raw": "Trauma / TB",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   cervical spine √  atlantoaxial subluxation may be present √  vertebral fusion may occur Location:   lumbar / lower thoracic spine √  compression deformity / vertebra plana √  compression deformity achondroplasia, spondyloepiphyseal dysplasia tarda, mucopolysaccharidosis, osteopetrosis, neurofibromatosis, osteogenesis imperfecta, thanatophoric dwarfism √  disk spaces of normal height Vertebra Plana Hemangioma"
+}

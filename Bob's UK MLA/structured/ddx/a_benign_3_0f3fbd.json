@@ -1,0 +1,47 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_3_0f3fbd",
+  "chapter": "D. HEMATOMA",
+  "source_file": "processed_clusters/d_hematoma/a_benign_3_0f3fbd.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Complicated benign cyst: hemorrhagic, protein-rich, gelatinous (most common), eg, in autosomal dominant polycystic kidney disease",
+      "raw": "Complicated benign cyst: hemorrhagic, protein-rich, gelatinous (most common), eg, in autosomal dominant polycystic kidney disease",
+      "frequency": "most common"
+    },
+    {
+      "name": "Hematoma, renal contusion",
+      "raw": "Hematoma, renal contusion",
+      "frequency": null
+    },
+    {
+      "name": "Vascular abnormality: AVM, pseudoaneurysm, aneurysm, thrombosed renal vein",
+      "raw": "Vascular abnormality: AVM, pseudoaneurysm, aneurysm, thrombosed renal vein",
+      "frequency": null
+    },
+    {
+      "name": "Focal inflammation: focal bacterial nephritis",
+      "raw": "Focal inflammation: focal bacterial nephritis",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma (4-5% without fat)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Metanephric adenoma",
+      "raw": "Metanephric adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

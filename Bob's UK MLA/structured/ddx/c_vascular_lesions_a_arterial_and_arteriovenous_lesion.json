@@ -1,0 +1,57 @@
+{
+  "finding": "C. VASCULAR LESIONS (a) arterial and arteriovenous lesion",
+  "slug": "c_vascular_lesions_a_arterial_and_arteriovenous_lesion",
+  "chapter": "Spectrum of Orbital Disorders",
+  "source_file": "processed_clusters/spectrum_of_orbital_disorders/c_vascular_lesions_a_arterial_and_arteriovenous_lesion.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ophthalmic artery aneurysm",
+      "raw": "Ophthalmic artery aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous fistula (rare) eg, Wyburn-Mason syndrome",
+      "raw": "Arteriovenous fistula (rare) eg, Wyburn-Mason syndrome",
+      "frequency": "rare"
+    },
+    {
+      "name": "Carotid-cavernous fistula (b)  capillary lesion",
+      "raw": "Carotid-cavernous fistula (b)  capillary lesion",
+      "frequency": null
+    },
+    {
+      "name": "Capillary hemangioma / benign hemangioendotheliloma (c)  venous vascular malformation",
+      "raw": "Capillary hemangioma / benign hemangioendotheliloma (c)  venous vascular malformation",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous hemangioma",
+      "raw": "Cavernous hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Orbital varix (d)  venous lymphatic malformation",
+      "raw": "Orbital varix (d)  venous lymphatic malformation",
+      "frequency": null
+    },
+    {
+      "name": "Capillary lymphangioma",
+      "raw": "Capillary lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous lymphangioma",
+      "raw": "Cavernous lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic lymphangioma",
+      "raw": "Cystic lymphangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

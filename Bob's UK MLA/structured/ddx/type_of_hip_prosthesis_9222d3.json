@@ -1,0 +1,42 @@
+{
+  "finding": "Type of Hip Prosthesis",
+  "slug": "type_of_hip_prosthesis_9222d3",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/type_of_hip_prosthesis_9222d3.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemiprosthesis",
+      "raw": "Hemiprosthesis",
+      "frequency": null
+    },
+    {
+      "name": "Unipolar head =  1 articulation between metal implant head + native acetabular cartilage",
+      "raw": "Unipolar head =  1 articulation between metal implant head + native acetabular cartilage",
+      "frequency": null
+    },
+    {
+      "name": "Bipolar head =  2 articulations to improve range of motion:",
+      "raw": "Bipolar head =  2 articulations to improve range of motion:",
+      "frequency": null
+    },
+    {
+      "name": "Total prosthesis",
+      "raw": "Total prosthesis (mostly for treatment of arthritis)",
+      "frequency": null
+    },
+    {
+      "name": "Conventional",
+      "raw": "Conventional",
+      "frequency": null
+    },
+    {
+      "name": "Resurfacing = replacing articulating surfaces of hip joint and removing very little bone",
+      "raw": "Resurfacing = replacing articulating surfaces of hip joint and removing very little bone",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  preservation of acetabular cartilage + subchondral bone plate √  only femoral stem is fixed by (a)  bone cement (polymethylmethacrylate) (b)  press-fit / in-growth with textured surface facilitating in-growth of trabecular bone (a)  between inner head + liner of bipolar head (b)  between bipolar head (shell) + acetabulum √  smooth outer surface √  slightly greater than hemispheric shape √  no screw holes √  acetabulum reamed √  screw holes in acetabular cup √  small acetabular cup in pelvic socket √  femoral head component seated with a pegged stem inside a preserved femoral neck"
+}

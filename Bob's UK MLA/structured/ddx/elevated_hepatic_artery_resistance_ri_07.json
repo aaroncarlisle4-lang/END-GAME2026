@@ -1,0 +1,27 @@
+{
+  "finding": "Elevated Hepatic Artery Resistance (RI > 0.7",
+  "slug": "elevated_hepatic_artery_resistance_ri_07",
+  "chapter": "LIVER CIRCULATION",
+  "source_file": "processed_clusters/liver_circulation/elevated_hepatic_artery_resistance_ri_07.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "PHYSIOLOGIC",
+      "raw": "PHYSIOLOGIC",
+      "frequency": null
+    },
+    {
+      "name": "Postprandial state",
+      "raw": "Postprandial state",
+      "frequency": null
+    },
+    {
+      "name": "Advanced age of patient",
+      "raw": "Advanced age of patient",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

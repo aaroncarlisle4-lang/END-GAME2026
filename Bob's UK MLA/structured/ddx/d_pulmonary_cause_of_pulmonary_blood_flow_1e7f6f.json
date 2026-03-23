@@ -1,0 +1,32 @@
+{
+  "finding": "D. PULMONARY CAUSE of ↓ pulmonary blood flow",
+  "slug": "d_pulmonary_cause_of_pulmonary_blood_flow_1e7f6f",
+  "chapter": "D. TRAUMA",
+  "source_file": "processed_clusters/d_trauma/d_pulmonary_cause_of_pulmonary_blood_flow_1e7f6f.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pulmonary artery hypoplasia",
+      "raw": "Pulmonary artery hypoplasia",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary embolism",
+      "raw": "Pulmonary embolism",
+      "frequency": null
+    },
+    {
+      "name": "Congenital lobar emphysema",
+      "raw": "Congenital lobar emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Compensatory overaeration",
+      "raw": "Compensatory overaeration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

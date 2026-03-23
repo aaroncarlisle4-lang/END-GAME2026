@@ -1,0 +1,62 @@
+{
+  "finding": "Acute Pleural Complications of Lung Transplant",
+  "slug": "acute_pleural_complications_of_lung_transplant",
+  "chapter": "HARD-METAL PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/acute_pleural_complications_of_lung_transplant.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pneumothorax",
+      "raw": "Pneumothorax (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Postoperative effusion",
+      "raw": "Postoperative effusion (resolves by 2 weeks)",
+      "frequency": null
+    },
+    {
+      "name": "Air leaks ← airway ischemia, bronchial dehiscence",
+      "raw": "Air leaks ← airway ischemia, bronchial dehiscence",
+      "frequency": null
+    },
+    {
+      "name": "increasing hypoxia before extubation; poor correlation between radiographic severity + physiologic parameters",
+      "raw": "increasing hypoxia before extubation; poor correlation between radiographic severity + physiologic parameters",
+      "frequency": null
+    },
+    {
+      "name": "Rx:  diuresis, mechanical support",
+      "raw": "Rx:  diuresis, mechanical support",
+      "frequency": null
+    },
+    {
+      "name": "Intermediate Complications",
+      "raw": "Intermediate Complications (8 days - 2 months)",
+      "frequency": null
+    },
+    {
+      "name": "Acute Rejection of Lung Transplant",
+      "raw": "Acute Rejection of Lung Transplant",
+      "frequency": null
+    },
+    {
+      "name": "drop in arterial oxygen pressure WITHOUT infection /airway obstruction / fluid overload",
+      "raw": "drop in arterial oxygen pressure WITHOUT infection /airway obstruction / fluid overload",
+      "frequency": null
+    },
+    {
+      "name": "pyrexia, fatigue, decreased exercise tolerance",
+      "raw": "pyrexia, fatigue, decreased exercise tolerance",
+      "frequency": null
+    },
+    {
+      "name": "Rapid improvement of radiologic abnormalities after treatment with IV bolus of corticosteroids for 3 days Rx:  methylprednisolone, polyclonal T-cell antibody (antithymocyte globulin), monoclonal antibodies (CD3, OKT3), lymphoid irradiation",
+      "raw": "Rapid improvement of radiologic abnormalities after treatment with IV bolus of corticosteroids for 3 days Rx:  methylprednisolone, polyclonal T-cell antibody (antithymocyte globulin), monoclonal antibodies (CD3, OKT3), lymphoid irradiation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   22% Types: Reperfusion Edema =  ISCHEMIA-REPERFUSION INJURY = PULMONARY REIMPLANTATION RESPONSE =  noncardiogenic pulmonary edema = infiltrate appearing within 48 hours after transplantation unrelated to fluid overload, LV failure, infection, atelectasis, or rejection; diagnosed by exclusion ◊  Most frequent immediate postoperative complication! Risk factors:   poor organ preservation, prolonged ischemic time, unsuspected donor pathology (contusion, aspiration), interrupted lymphatic flow, cytokine- mediated injury Pathogenesis:   permeability edema ← lymphatic disruption, pulmona"
+}

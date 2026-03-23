@@ -1,0 +1,37 @@
+{
+  "finding": "Segmental Anatomy of Stomach",
+  "slug": "segmental_anatomy_of_stomach",
+  "chapter": "STOMACH",
+  "source_file": "processed_clusters/stomach/segmental_anatomy_of_stomach.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cardia",
+      "raw": "Cardia",
+      "frequency": null
+    },
+    {
+      "name": "Fundus Dependency:   most superior portion when upright most dependent portion when supine",
+      "raw": "Fundus Dependency:   most superior portion when upright most dependent portion when supine",
+      "frequency": null
+    },
+    {
+      "name": "Body (a)  lesser curvature: left and posteriorly on CT (b)  greater curvature: right and anteriorly on CT",
+      "raw": "Body (a)  lesser curvature: left and posteriorly on CT (b)  greater curvature: right and anteriorly on CT",
+      "frequency": null
+    },
+    {
+      "name": "Antrum =  thickest gastric segment ← most muscular",
+      "raw": "Antrum =  thickest gastric segment ← most muscular",
+      "frequency": null
+    },
+    {
+      "name": "Pylorus Inadequate gastric distention limits diagnostic evaluation and may create a false appearance of thickening or may obscure true disease.",
+      "raw": "Pylorus Inadequate gastric distention limits diagnostic evaluation and may create a false appearance of thickening or may obscure true disease.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  stomach bubble on CXR √  accumulation of intraluminal contents on CT √  ≤ 5 mm in thickness (in distended state) »  Incisura angularis =  transition to antral-type mucosa ◊  Most common site for gastric ulcers! √  ≤ 12 mm in thickness (in distended state) √  exhibits the most peristalsis √   may display mural stratification on CECT"
+}

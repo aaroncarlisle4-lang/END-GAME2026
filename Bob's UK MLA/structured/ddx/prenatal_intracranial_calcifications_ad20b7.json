@@ -1,0 +1,42 @@
+{
+  "finding": "Prenatal Intracranial Calcifications",
+  "slug": "prenatal_intracranial_calcifications_ad20b7",
+  "chapter": "B. ABNORMAL KARYOTYPE (10-20%",
+  "source_file": "processed_clusters/b_abnormal_karyotype_10_20/prenatal_intracranial_calcifications_ad20b7.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Toxoplasmosis",
+      "raw": "Toxoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "CMV infection",
+      "raw": "CMV infection",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Sturge-Weber syndrome",
+      "raw": "Sturge-Weber syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Venous sinus thrombosis",
+      "raw": "Venous sinus thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

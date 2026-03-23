@@ -1,0 +1,27 @@
+{
+  "finding": "Nephroblastomatosis (DDx)",
+  "slug": "nephroblastomatosis_ddx",
+  "chapter": "Nephroblastomatosis",
+  "source_file": "processed_clusters/nephroblastomatosis/nephroblastomatosis_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "autosomal recessive polycystic kidney disease",
+      "raw": "autosomal recessive polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "leukemia",
+      "raw": "leukemia",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma ◊  Strong association with Wilms tumor!",
+      "raw": "lymphoma ◊  Strong association with Wilms tumor!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "loss of corticomedullary differentiation | kidneys diffusely echogenic / of normal echogenicity | cysts of variable size | thick rind at periphery of kidney with poor / striated enhancement"
+}

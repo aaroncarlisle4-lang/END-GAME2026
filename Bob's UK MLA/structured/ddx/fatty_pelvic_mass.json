@@ -1,0 +1,27 @@
+{
+  "finding": "Fatty Pelvic Mass",
+  "slug": "fatty_pelvic_mass",
+  "chapter": "E. LITHOPEDION",
+  "source_file": "processed_clusters/e_lithopedion/fatty_pelvic_mass.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "UTERUS",
+      "raw": "UTERUS",
+      "frequency": null
+    },
+    {
+      "name": "Lipoleiomyoma",
+      "raw": "Lipoleiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibromyolipoma",
+      "raw": "Fibromyolipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

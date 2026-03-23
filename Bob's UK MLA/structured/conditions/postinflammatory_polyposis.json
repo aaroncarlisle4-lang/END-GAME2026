@@ -1,0 +1,26 @@
+{
+  "name": "POSTINFLAMMATORY POLYPOSIS",
+  "slug": "postinflammatory_polyposis",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/postinflammatory_polyposis.md",
+  "definition": "PSEUDOPOLYPOSIS reepithelialized inflammatory polyps as sequelae of mucosal ulceration",
+  "demographics": {
+    "Etiology": "ulcerative colitis (10-20%); granulomatous colitis (less frequent); schistosomiasis",
+    "Location": "most common in left hemicolon, may occur in stomach / small intestine"
+  },
+  "dominant_finding": "sessile + frondlike appearance (often)",
+  "distribution": "most common in left hemicolon, may occur in stomach / small intestine",
+  "discriminating_features": [
+    "sessile + frondlike appearance (often)",
+    "filiform polyposis = multiple wormlike projections only attached at their bases"
+  ],
+  "other_features": {
+    "general": [
+      "sessile + frondlike appearance (often)",
+      "filiform polyposis = multiple wormlike projections only attached at their bases"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "NO malignant potential"
+  }
+}

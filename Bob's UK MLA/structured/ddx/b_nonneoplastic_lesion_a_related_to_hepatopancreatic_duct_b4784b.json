@@ -1,0 +1,77 @@
+{
+  "finding": "B. NONNEOPLASTIC LESION (a) related to hepatopancreatic duct",
+  "slug": "b_nonneoplastic_lesion_a_related_to_hepatopancreatic_duct_b4784b",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/b_nonneoplastic_lesion_a_related_to_hepatopancreatic_duct_b4784b.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Papillary stenosis",
+      "raw": "Papillary stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Choledocholithiasis",
+      "raw": "Choledocholithiasis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreas divisum",
+      "raw": "Pancreas divisum",
+      "frequency": null
+    },
+    {
+      "name": "Santorinicele",
+      "raw": "Santorinicele",
+      "frequency": null
+    },
+    {
+      "name": "Choledochocele (b)  related to pancreas",
+      "raw": "Choledochocele (b)  related to pancreas",
+      "frequency": null
+    },
+    {
+      "name": "Groove pancreatitis",
+      "raw": "Groove pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Autoimmune pancreatitis",
+      "raw": "Autoimmune pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreaticoduodenal artery pseudoaneurysm (c)  related to duodenum",
+      "raw": "Pancreaticoduodenal artery pseudoaneurysm (c)  related to duodenum",
+      "frequency": null
+    },
+    {
+      "name": "Brunner gland hyperplasia and hamartoma",
+      "raw": "Brunner gland hyperplasia and hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Duodenitis",
+      "raw": "Duodenitis",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal Crohn disease",
+      "raw": "Duodenal Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal diverticula",
+      "raw": "Duodenal diverticula",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal perforation and transection",
+      "raw": "Duodenal perforation and transection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Periampullary Tumor =  tumor arising within 2 cm of major duodenal papilla including carcinoma of ampulla of Vater, distal CBD, head + uncinate process of pancreas, periampullary portion of duodenum"
+}

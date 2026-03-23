@@ -1,0 +1,28 @@
+{
+  "name": "URACHAL ANOMALIES",
+  "slug": "urachal_anomalies",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/urachal_anomalies.md",
+  "definition": "cystic dilatation of urachus periodically emptying into bladder / umbilicus fistula between bladder and umbilicus gradually enlarging cyst ← closure of both ends of urachus urachus communicates only with bladder dome urachus patent only at umbilicus",
+  "demographics": {
+    "Prevalence": "1÷200,000 live births",
+    "Associated with": "urachal cyst"
+  },
+  "dominant_finding": "cystic extraperitoneal mass",
+  "distribution": "",
+  "discriminating_features": [
+    "cystic extraperitoneal mass",
+    "no communication with bladder or umbilicus",
+    "thickened tubular structure with echogenic center"
+  ],
+  "other_features": {
+    "general": [
+      "cystic extraperitoneal mass",
+      "no communication with bladder or umbilicus",
+      "thickened tubular structure with echogenic center"
+    ]
+  },
+  "clinical": {
+    "Cx": "infection (23%), intestinal obstruction, hemorrhage into cyst, peritonitis from rupture,"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "ACQUIRED CYSTIC KIDNEY DISEASE",
+  "slug": "acquired_cystic_kidney_disease",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/acquired_cystic_kidney_disease.md",
+  "definition": "ACQUIRED CYSTIC DISEASE OF UREMIA development of numerous fluid-filled renal cysts in end-stage kidney disease without",
+  "demographics": {
+    "Prevalence": "in 8-13% before dialysis",
+    "Histo": "cysts lined by flattened cuboidal epithelium with papillary proliferations within renal"
+  },
+  "dominant_finding": "atrophic echogenic kidneys",
+  "distribution": "occasionally progressive renal enlargement due to cysts",
+  "discriminating_features": [
+    "small hypoplastic end-stage kidneys (< 280 g)",
+    "multiple ½-3-cm cysts bilaterally (early = small, late = large): must have at least 3 cysts in",
+    "occasionally progressive renal enlargement due to cysts",
+    "atrophic echogenic kidneys",
+    "cysts of varying size and complexity"
+  ],
+  "other_features": {
+    "general": [
+      "small hypoplastic end-stage kidneys (< 280 g)",
+      "multiple ½-3-cm cysts bilaterally (early = small, late = large): must have at least 3 cysts in",
+      "occasionally progressive renal enlargement due to cysts"
+    ],
+    "US": [
+      "atrophic echogenic kidneys",
+      "cysts of varying size and complexity"
+    ]
+  },
+  "clinical": {
+    "Cx": "spontaneous hemorrhage into cyst (macrohematuria / retroperitoneal hemorrhage from cyst"
+  }
+}

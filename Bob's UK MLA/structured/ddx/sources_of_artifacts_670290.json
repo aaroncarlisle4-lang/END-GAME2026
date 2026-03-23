@@ -1,0 +1,107 @@
+{
+  "finding": "SOURCES OF ARTIFACTS",
+  "slug": "sources_of_artifacts_670290",
+  "chapter": "QUALITY CONTROL OF CALIBRATORS",
+  "source_file": "processed_clusters/quality_control_of_calibrators/sources_of_artifacts_670290.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Attenuator between source and detector Materials:   cable, lead marker, solder dropped into collimator during repair, belt buckle / watch / key on patient, defective collimator (a)  at time of correction flood procedure:",
+      "raw": "Attenuator between source and detector Materials:   cable, lead marker, solder dropped into collimator during repair, belt buckle / watch / key on patient, defective collimator (a)  at time of correction flood procedure:",
+      "frequency": null
+    },
+    {
+      "name": "Cracked crystal",
+      "raw": "Cracked crystal",
+      "frequency": null
+    },
+    {
+      "name": "PMT failure + loss of optical coupling between PMT + crystal",
+      "raw": "PMT failure + loss of optical coupling between PMT + crystal",
+      "frequency": null
+    },
+    {
+      "name": "Problems during film exposure + processing",
+      "raw": "Problems during film exposure + processing",
+      "frequency": null
+    },
+    {
+      "name": "Double exposed film",
+      "raw": "Double exposed film",
+      "frequency": null
+    },
+    {
+      "name": "Light leak in multiformat camera",
+      "raw": "Light leak in multiformat camera",
+      "frequency": null
+    },
+    {
+      "name": "Water lines from film processing",
+      "raw": "Water lines from film processing",
+      "frequency": null
+    },
+    {
+      "name": "Frozen shutter:",
+      "raw": "Frozen shutter:",
+      "frequency": null
+    },
+    {
+      "name": "Variations in film processing",
+      "raw": "Variations in film processing",
+      "frequency": null
+    },
+    {
+      "name": "Improper window setting",
+      "raw": "Improper window setting",
+      "frequency": null
+    },
+    {
+      "name": "Photopeak window set too high:",
+      "raw": "Photopeak window set too high:",
+      "frequency": null
+    },
+    {
+      "name": "Photopeak window set too low:",
+      "raw": "Photopeak window set too low:",
+      "frequency": null
+    },
+    {
+      "name": "Administration of wrong isotope",
+      "raw": "Administration of wrong isotope",
+      "frequency": null
+    },
+    {
+      "name": "Excessive amounts of free 99mTc-pertechnetate",
+      "raw": "Excessive amounts of free 99mTc-pertechnetate",
+      "frequency": null
+    },
+    {
+      "name": "Faulty Injection Technique eg, inadvertently labeled blood clot in syringe leading to iatrogenic pulmonary emboli",
+      "raw": "Faulty Injection Technique eg, inadvertently labeled blood clot in syringe leading to iatrogenic pulmonary emboli",
+      "frequency": null
+    },
+    {
+      "name": "Contamination with radiotracer on patient's skin, stretcher, collimator, crystal",
+      "raw": "Contamination with radiotracer on patient's skin, stretcher, collimator, crystal",
+      "frequency": null
+    },
+    {
+      "name": "CRT problems",
+      "raw": "CRT problems",
+      "frequency": null
+    },
+    {
+      "name": "Burnt spot on CRT phosphor",
+      "raw": "Burnt spot on CRT phosphor",
+      "frequency": null
+    },
+    {
+      "name": "Dirty / scratched CRT face plates",
+      "raw": "Dirty / scratched CRT face plates",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  hot spot (b)  after correction flood procedure: √  cold spot √  white band with hot edges √  cold defect √  part of film cut off √  hot tubes √  cold tubes √  atypically imaged organs √  too much uptake in choroid plexus, salivary glands, thyroid, stomach"
+}

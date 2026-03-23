@@ -1,0 +1,27 @@
+{
+  "finding": "Blunt Abdominal Trauma — bowel injury (CT 94% sensitive, 88% accurate) (DDx)",
+  "slug": "blunt_abdominal_trauma_bowel_injury_ct_94_sensitive_88_accurate_ddx_b4f626",
+  "chapter": "Blunt Abdominal Trauma",
+  "source_file": "processed_clusters/blunt_abdominal_trauma/blunt_abdominal_trauma_bowel_injury_ct_94_sensitive_88_accurate_ddx_b4f626.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hyperattenuating blood",
+      "raw": "hyperattenuating blood",
+      "frequency": null
+    },
+    {
+      "name": "extravasating vascular contrast material",
+      "raw": "extravasating vascular contrast material",
+      "frequency": null
+    },
+    {
+      "name": "leak of contrast material ← ruptured urinary tract",
+      "raw": "leak of contrast material ← ruptured urinary tract",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intramural air | hypodense free fluid (90-100% sensitive, 15-25% specific), particularly in interloop | \"sentinel clot\" sign adjacent to bowel | extravasation of oral contrast material (8-15% sensitive, 100% specific), densest"
+}

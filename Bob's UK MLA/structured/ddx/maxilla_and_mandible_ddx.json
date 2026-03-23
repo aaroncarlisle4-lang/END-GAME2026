@@ -1,0 +1,27 @@
+{
+  "finding": "Maxilla And Mandible (DDx)",
+  "slug": "maxilla_and_mandible_ddx",
+  "chapter": "Maxilla And Mandible",
+  "source_file": "processed_clusters/maxilla_and_mandible/maxilla_and_mandible_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "vascular lesion",
+      "raw": "vascular lesion",
+      "frequency": null
+    },
+    {
+      "name": "central giant cell granuloma",
+      "raw": "central giant cell granuloma",
+      "frequency": null
+    },
+    {
+      "name": "ossifying fibroma",
+      "raw": "ossifying fibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "may extend to buccal cortex | unilocular sharply marginated lucent defect | CHARACTERISTIC scalloped superior margin with fingerlike projections extending | ± thinning of mandibular cortex ± osseous expansion"
+}

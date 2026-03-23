@@ -1,0 +1,37 @@
+{
+  "finding": "Small Pulmonary Nodules",
+  "slug": "small_pulmonary_nodules_61c542",
+  "chapter": "E. BRONCHIECTASIS",
+  "source_file": "processed_clusters/e_bronchiectasis/small_pulmonary_nodules_61c542.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoid",
+      "raw": "Sarcoid",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases (esp. thyroid)",
+      "frequency": null
+    },
+    {
+      "name": "Alveolar cell carcinoma",
+      "raw": "Alveolar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma, Leukemia",
+      "raw": "Lymphoma, Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "TB",
+      "raw": "TB",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

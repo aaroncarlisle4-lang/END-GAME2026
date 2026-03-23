@@ -1,0 +1,222 @@
+# Disease: PULMONARY THROMBOEMBOLIC DISEASE
+
+**Source section:** PNEUMONECTOMY CHEST
+
+## Definition
+
+PULMONARY EMBOLISM ( PE) CHRONIC THROMBOEMBOLIC DISEASE involves 26-75% of a known bronchopulmonary segment involves > 75% of a known bronchopulmonary segment area of abnormal ventilation identical to perfusion defect in size, shape, a matched ventilation-perfusion defect with an associated matching area of area with better perfusion than ventilation suggestive of non-thromboembo
+
+## Key Facts
+
+- **Incidence:** 600,000 Americans / year (0.23%) with missed / delayed diagnosis in 400,000,
+- **Age:** 60% > 60 years of age
+- **Distribution:** RUL (16%), RML (9%), RLL (25%), LUL (14%), LLL (26%)
+- **Histo:** hemorrhage + edema
+- **Frequency:** 1-5% of patients with acute pulmonary thromboembolism, especially in patients
+- **Path:** fibrous webs and bands (= organized thromboemboli), often with overlying recent
+- **Location:** lower lung (70%), often multiple
+- **Associated with:** functional venous-to-systemic shunt contributing to hypoxemia
+
+## Imaging Findings
+
+### General
+
+- straightening / leftward bowing of IVS
+- paradoxical motion of interventricular septum
+- "empty LV" appearance = ↓ LV volume
+- loss of inspiratory collapse of IVC
+- tricuspid regurgitation + dilatation of PA
+- McConnell sign = regional RV wall motion abnormality with sparing of apex
+
+### CT
+
+- RV÷LV diameter ratio > 1 on 4-chamber view
+- leftward septal bowing (with RV wall < 6 mm thick)
+- ↑ size of azygos v. + SVC ← ↑ R heart pressure
+- contrast reflux into IVC ← tricuspid valve insufficiency
+- general findings (patients with PE versus no PE):
+- atelectasis / infiltrate (68% versus 48%)
+- pleural effusion (48% versus 31%)
+- pleural opacity (35% versus 21%)
+- elevated diaphragm (24% versus 19%)
+- decreased vascularity (21% versus 12%)
+- prominent pulmonary artery (17% versus 28%)
+- cardiomegaly (12% versus 11%)
+- pulmonary edema (4% versus. 13%)
+- local findings:
+- Westermark sign = area of oligemia in 2-7% ← vasoconstriction distal to embolus
+- Fleischner sign = local widening of artery by impaction of embolus ← distension by
+- "knuckle" sign = abrupt tapering of an occluded vessel distally
+- Fleischner lines = long-line shadows (fibrotic scar) from invagination of pleura at the
+- Hampton hump = segmentally distributed pleura-based shallow wedge-shaped
+- NO air-bronchogram ← hemorrhage into alveoli
+- ± cavitation
+- "melting" sign = within few days to weeks regression from periphery toward center
+- subsequent nodular / linear scar
+- thoracentesis: bloody (65%), predominantly PMNs (61%), exudate (65%)
+- depiction of acute changes of PE:
+- atelectasis / linear bands (100%)
+- pleural effusion (87%)
+- consolidation (57%)
+- ground-glass opacification (57%)
+- Hampton's hump (50%)
+- intraluminal area of high attenuation (= hyperdense artery) measuring 33 ± 15 HU
+- dilated central / segmental pulmonary artery
+- depiction of chronic changes of PE
+- chest findings leading to alternative diagnosis
+- localization of volume-of-interest for CECT
+- complete filling defect of low attenuation occupying entire arterial section creating
+- ± enlargement of thrombosed artery
+- "railway track" sign = partial filling defect = embolus floating freely within lumen
+- eccentric mural filling defect forming acute angles with arterial wall
+- RV dysfunction (ratio RV÷LV ≥ 1÷1)
+- peripheral wedge-shaped area of infarct / hemorrhage in arteries of < 3 mm in diameter
+- linear parenchymal band
+- subpleural linear + wedge-shaped opacities (at sites of pulmonary infarctions)
+- companion manifestations: lymphadenopathy, pulmonary venous hypertension,
+- multifocal dilatation / beading of vessels
+- thickening of interlobular septa
+- tree-in-bud pattern ← filling of centrilobular arteries with tumor cells / carcinomatous
+
+### MR
+
+- filling defect in pulmonary artery on coronal contrast-enhanced 3-D maximum intensity
+- intraluminal defect (94%)
+- abrupt termination of pulmonary arterial branch
+- pruning + attenuation of branches
+- wedge-shaped parenchymal hypovascularity
+- absence of draining vein in affected segment
+- tortuous arterial collaterals
+- low- / intermediate-probability scans in 50-70%:
+- high-probability scan: in 12% normal angiogram
+- discrete fixed areas of low-to-medium SI on T1WI
+
+### CXR
+
+- prominence of right side of heart
+- asymmetric enlargement of central pulmonary arteries
+- oligemic vascularity in patchy distribution
+- triangular / rounded opacity + adjacent pleural thickening ← pulmonary infarction
+- patchy bilateral perihilar alveolar opacities of "reperfusion edema" after
+- enlarged central pulmonary arteries
+- cardiomegaly
+- ill-defined nodular / confluent peripheral parenchymal opacities (with multiple
+- focal / diffuse heterogeneous opacities = lymphangitic carcinomatosis
+
+### NUC
+
+- V/Q scan characteristically of high probability with multiple unmatched segmental
+- webs, bands
+- stenotic / absent arterial segments
+- pouchlike filling defects = convex margin of contrast material bolus
+- abrupt cutoffs often confined to one / two lung segments
+- unilateral occlusion / hypoperfusion
+- selective bronchial arteriography shows dilated bronchial artery collaterals (up to 30%
+- no perfusion defect
+- perfusion defect WITHOUT lung disease (= normal ventilation + normal CXR = V/Q
+- perfusion defect WITH lung disease:
+- perfusion defect larger than CXR opacity
+- perfusion defect substantially smaller than opacity
+- perfusion defect of comparable size
+- "stripe" sign = rim of preserved peripheral activity around a perfusion defect usually
+- focal lung opacity:
+- not ventilated + not perfused = "indeterminate scan"
+- not changed > 1 week + not ventilated + not perfused = low probability for PE
+- nonsegmental perfusion defect
+- characteristic decortication appearance in uppermost portion on perfusion
+- defect localized to radiation port
+- perfusion defect depending on tumor size + location
+- small subsegmental defects in both lungs
+- upward redistribution + large hilar defects
+- multiple small peripheral perfusion defects
+- predilection for right middle lobe + superior segments of lower lobes
+- diffuse nonsegmental V/Q mismatch
+- enlargement of cardiac silhouette + perihilar regions
+- reversed distribution: more activity anteriorly than posteriorly
+- accentuation of fissures
+- flattening of posterior margins of lung (lateral view)
+- pleural effusion
+- perfusion defects in area of hypoxia
+- abnormal ventilation to a similar / more severe degree
+- mostly multiple nonanatomic defects (in 20%)
+
+### CECT
+
+- filling defects in main pulmonary artery branches
+- multifocal beading + dilatation of subsegmental pulmonary arteries
+- multiple small subsegmental unmatched perfusion defects
+
+### ANGIO
+
+- delayed arterial phase
+- filling defects / occlusions of subsegmental arterial branches
+- arterial wall irregularities
+- peripheral pruning of smaller arteries
+- high-density fine-caliber branching structures in symmetric distribution
+- mercury collection within apex of right ventricle
+
+### Heart
+
+- enlargement + hypertrophy of RA + RV:
+- RV myocardial thickness > 4 mm
+- cardiomegaly ← chamber dilatation
+- transverse diameter of RA > 35 mm
+- transverse diameter of RV > 45 mm
+- RV÷LV > 1÷1 with leftward bowing of interventricular septum into LV
+- ± opacification of IVC + suprahepatic veins ← tricuspid valve regurgitation ←
+- mild pericardial thickening
+- small pericardial effusion
+
+### Pulmonary vessels
+
+- pulmonary hypertension (secondary signs):
+- pulmonary trunk diameter > 29 mm measured in scan plane of its bifurcation at
+- diameter ratio of main pulmonary artery to aorta > 1÷1
+- right + left pulmonary arteries > 18 mm in diameter measured in their
+- visualization of chronic thrombus (most specific):
+- flattened eccentric incomplete filling defect of organized thrombus forming obtuse
+- irregular contour of intimal surface
+- completely obstructing thrombus:
+- abrupt termination / narrowing / obliteration of a pulmonary artery
+- convex margin of contrast column (= "pouch defect") best appreciated on
+- occlusion of main pulmonary artery (3%)
+- thrombus of increased density (87 ± 30 HU) ←
+- clot may become calcified = atherosclerotic pulmonary artery plaque (rare)
+- postobstructive signs:
+- absence of contrast in distal vessel segment
+- abrupt persistent decrease in caliber of artery distal to occlusion compared to
+- poststenotic dilatation / aneurysm / tortuosity
+- recanalized thrombus:
+- thickened walls of arteries with irregular contour of intimal surface in vessel
+- arterial band (= 1-3-mm linear structure attached at both ends to vessel wall) /
+- collateral systemic supply of occluded pulmonary arterial bed ← participation in gas
+- bronchial artery dilatation ≥ 1.5 mm + tortuosity (47-77%) within mediastinum
+
+### Parenchymal abnormalities:
+
+- mosaic perfusion on HRCT (77-100%) in segmental / subsegmental distribution:
+- scattered geometric areas of low attenuation with vessels of small cross-sectional
+- regional sharply demarcated enhancing areas of high attenuation with enlarged
+- NO air trapping on expiratory scan
+- isolated focal areas of ground-glass attenuation in perihilar region ← systemic
+- infarcted tissue replaced by scar (72-87%):
+- wedge-shaped pleura-based opacities with tip pointing to hilum
+- linear opacities (= parenchymal bands)
+- peripheral nodule / cavity
+- often accompanied by pleural thickening
+- cylindrical bronchial dilatation of segmental and subsegmental bronchi (64%)
+
+## Clinical
+
+- **N.B.:** CT (2.2-6.0 mSv) has a 1.6-4.3 times higher radiation dose than a V/Q scan (1.4 mSv)!
+- **Cx:** pulmonary arterial hypertension (in 4%)
+- **Prognosis:** partial or complete obstruction of the pulmonary vascular bed → pulmonary
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

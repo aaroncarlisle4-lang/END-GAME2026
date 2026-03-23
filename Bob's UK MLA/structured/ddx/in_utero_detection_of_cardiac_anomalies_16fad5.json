@@ -1,0 +1,37 @@
+{
+  "finding": "In Utero Detection of Cardiac Anomalies",
+  "slug": "in_utero_detection_of_cardiac_anomalies_16fad5",
+  "chapter": "F. TWINS",
+  "source_file": "processed_clusters/f_twins/in_utero_detection_of_cardiac_anomalies_16fad5.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "ABNORMAL HEART POSITION",
+      "raw": "ABNORMAL HEART POSITION",
+      "frequency": null
+    },
+    {
+      "name": "Diaphragmatic hernia",
+      "raw": "Diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Lung anomaly",
+      "raw": "Lung anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Pleural effusion",
+      "raw": "Pleural effusion",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac defect",
+      "raw": "Cardiac defect",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

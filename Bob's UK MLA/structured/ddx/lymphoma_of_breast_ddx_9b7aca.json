@@ -1,0 +1,32 @@
+{
+  "finding": "Lymphoma Of Breast (DDx)",
+  "slug": "lymphoma_of_breast_ddx_9b7aca",
+  "chapter": "Lymphoma Of Breast",
+  "source_file": "processed_clusters/lymphoma_of_breast/lymphoma_of_breast_ddx_9b7aca.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "circumscribed breast carcinoma",
+      "raw": "circumscribed breast carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "fibroadenoma",
+      "raw": "fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "phylloides tumor",
+      "raw": "phylloides tumor",
+      "frequency": null
+    },
+    {
+      "name": "metastatic disease",
+      "raw": "metastatic disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "bilateral axillary adenopathy in 30-50% | oval / round homo- / heterogeneously hypoechoic mass(es) | sharply defined / poorly defined borders | posterior acoustic shadowing / enhancement"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "WILLIAMS SYNDROME",
+  "slug": "williams_syndrome",
+  "chapter": "ULNAR NEUROPATHY",
+  "source_file": "processed_clusters/disease_entries/ulnar_neuropathy/williams_syndrome.md",
+  "definition": "IDIOPATHIC HYPERCALCEMIA OF INFANCY",
+  "demographics": {},
+  "dominant_finding": "osteosclerosis ← trabecular thickening",
+  "distribution": "radiolucent metaphyseal bands",
+  "discriminating_features": [
+    "osteosclerosis ← trabecular thickening",
+    "dense broad zone of provisional calcification",
+    "radiolucent metaphyseal bands",
+    "dense vertebral end plates + acetabular roofs",
+    "bone islands in spongiosa"
+  ],
+  "other_features": {
+    "general": [
+      "osteosclerosis ← trabecular thickening",
+      "dense broad zone of provisional calcification",
+      "radiolucent metaphyseal bands",
+      "dense vertebral end plates + acetabular roofs",
+      "bone islands in spongiosa",
+      "metastatic calcification",
+      "craniostenosis"
+    ],
+    "Cardiovascular manifestations": [
+      "supravalvular aortic stenosis (33%), aortic hypoplasia",
+      "valvular + peripheral pulmonary artery stenosis",
+      "ASD, VSD",
+      "stenoses of major vessels (innominate, carotids, renal aa.)"
+    ],
+    "GI and GU tract:": [
+      "colonic diverticula",
+      "bladder diverticula"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "spontaneous resolution after 1 year in most",
+    "Rx": "withhold vitamin D + calcium"
+  }
+}

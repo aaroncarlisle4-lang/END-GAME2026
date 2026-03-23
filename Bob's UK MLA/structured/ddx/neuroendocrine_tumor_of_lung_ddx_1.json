@@ -1,0 +1,22 @@
+{
+  "finding": "Neuroendocrine Tumor Of Lung (DDx)",
+  "slug": "neuroendocrine_tumor_of_lung_ddx_1",
+  "chapter": "Neuroendocrine Tumor Of Lung",
+  "source_file": "processed_clusters/neuroendocrine_tumor_of_lung/neuroendocrine_tumor_of_lung_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "small cell lung cancer",
+      "raw": "small cell lung cancer",
+      "frequency": null
+    },
+    {
+      "name": "atypical carcinoid",
+      "raw": "atypical carcinoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "homo- / heterogeneous enhancement | attendant atelectasis / distal mucus plugging | pleural effusion (24%) | avid FDG uptake; SUV > 13.7 suggests shortened survival"
+}

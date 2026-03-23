@@ -1,0 +1,22 @@
+{
+  "finding": "Mucopolysaccharidoses — Brain (DDx)",
+  "slug": "mucopolysaccharidoses_brain_ddx",
+  "chapter": "Mucopolysaccharidoses",
+  "source_file": "processed_clusters/mucopolysaccharidoses/mucopolysaccharidoses_brain_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gaucher disease",
+      "raw": "Gaucher disease",
+      "frequency": null
+    },
+    {
+      "name": "Niemann-Pick disease",
+      "raw": "Niemann-Pick disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "varying degrees of hydrocephalus | dilated Virchow-Robin spaces (from accumulation of glycosaminoglycan) resulting in | increased SI of white matter surrounding Virchow-Robin spaces on T2WI + FLAIR ← | ± arachnoid cyst ← meningeal glycosaminoglycan deposition"
+}

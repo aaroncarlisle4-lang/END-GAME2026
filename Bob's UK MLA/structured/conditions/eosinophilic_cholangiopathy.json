@@ -1,0 +1,26 @@
+{
+  "name": "EOSINOPHILIC CHOLANGIOPATHY",
+  "slug": "eosinophilic_cholangiopathy",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/eosinophilic_cholangiopathy.md",
+  "definition": "rare benign cause of biliary obstruction",
+  "demographics": {
+    "Prevalence": "15 cases in literature",
+    "Histo": "transmural eosinophilic infiltration of biliary tract"
+  },
+  "dominant_finding": "thickened bile duct wall ± biliary dilatation",
+  "distribution": "",
+  "discriminating_features": [
+    "thickened bile duct wall ± biliary dilatation",
+    "wall irregularities in beaded pattern"
+  ],
+  "other_features": {
+    "general": [
+      "thickened bile duct wall ± biliary dilatation",
+      "wall irregularities in beaded pattern"
+    ]
+  },
+  "clinical": {
+    "Rx": "steroids"
+  }
+}

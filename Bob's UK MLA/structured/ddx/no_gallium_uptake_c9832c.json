@@ -1,0 +1,87 @@
+{
+  "finding": "No Gallium Uptake",
+  "slug": "no_gallium_uptake_c9832c",
+  "chapter": "Indications for Non-organ-specific Whole Body Imaging",
+  "source_file": "processed_clusters/indications_for_non_organ_specific_whole_body_imaging/no_gallium_uptake_c9832c.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infection Gallium has been largely replaced with WBC imaging but can be used in chronic infection",
+      "raw": "Infection Gallium has been largely replaced with WBC imaging but can be used in chronic infection",
+      "frequency": null
+    },
+    {
+      "name": "Inflamed / infarcted bowel",
+      "raw": "Inflamed / infarcted bowel (eg, Crohn disease)",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse lung uptake sarcoidosis, diffuse infections (TB, CMV, PCP), lymphangitic metastases, pneumoconioses (asbestosis, silicosis), diffuse interstitial fibrosis (UIP), drug-induced pneumonitis (bleomycin, cyclophosphamide, busulfan), acute radiation pneumonitis, recent lymphangiographic contrast",
+      "raw": "Diffuse lung uptake sarcoidosis, diffuse infections (TB, CMV, PCP), lymphangitic metastases, pneumoconioses (asbestosis, silicosis), diffuse interstitial fibrosis (UIP), drug-induced pneumonitis (bleomycin, cyclophosphamide, busulfan), acute radiation pneumonitis, recent lymphangiographic contrast",
+      "frequency": null
+    },
+    {
+      "name": "Lymph node involvement sarcoidosis, TB, MAI, Hodgkin disease",
+      "raw": "Lymph node involvement sarcoidosis, TB, MAI, Hodgkin disease",
+      "frequency": null
+    },
+    {
+      "name": "Tumor Neoplastic uptake is variable; prominent uptake is usually seen in:",
+      "raw": "Tumor Neoplastic uptake is variable; prominent uptake is usually seen in:",
+      "frequency": null
+    },
+    {
+      "name": "Non-Hodgkin lymphoma",
+      "raw": "Non-Hodgkin lymphoma (especially Burkitt)",
+      "frequency": null
+    },
+    {
+      "name": "Hodgkin disease",
+      "raw": "Hodgkin disease",
+      "frequency": null
+    },
+    {
+      "name": "Hepatoma",
+      "raw": "Hepatoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Active osteomyelitis",
+      "raw": "Active osteomyelitis (90% sensitivity is higher than for 99mTc-MDP)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Cellulitis",
+      "raw": "Cellulitis (bone scan followed by gallium scan)",
+      "frequency": null
+    },
+    {
+      "name": "Septic arthritis, rheumatoid arthritis",
+      "raw": "Septic arthritis, rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases (65% sensitivity, less than for bone agents)",
+      "frequency": "65%"
+    }
+  ],
+  "criteria": {},
+  "context": "most benign neoplasms; hemangioma; cirrhosis; cystic disease of the breast, liver, thyroid; reactive lymphadenopathy; inactive granulomatous disease Indications for Gallium Imaging DDx:   normal bowel excretions (must be cleared by enema; bowel pathology shows persistent activity) DDx:   NOT seen in Kaposi sarcoma, a useful distinction in AIDS patients with hilar nodes Useful in: ›  detection of tumor recurrence ›  DDx of focal cold liver lesions on Tc-99m sulfur colloid scan Gallium in Bone Imaging Increased activity in:"
+}

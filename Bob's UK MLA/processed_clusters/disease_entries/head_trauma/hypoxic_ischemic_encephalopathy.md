@@ -1,0 +1,64 @@
+# Disease: HYPOXIC-ISCHEMIC ENCEPHALOPATHY
+
+**Source section:** HEAD TRAUMA
+
+## Definition
+
+HIE = HYPOPERFUSION INJURY
+
+## Key Facts
+
+- **Frequency:** 2-9÷1,000 live births
+
+## Imaging Findings
+
+### US
+
+- increased parenchymal echogenicity in days 2-10
+- globular hyperechoic change = PVL (early)
+- localized anechoic / hypoechoic lesions = cystic PVL (2-6 weeks later)
+- progressive periventricular necrosis + ventricular enlargement = end-stage PVL
+
+### CT
+
+- parenchyma of low attenuation in days 1-7
+- decreased attenuation of cortical gray matter (diffuse edema)
+- loss of normal gray matter-white matter differentiation
+- bilateral decreased attenuation of basal ganglia and thalami
+- "reversal" sign = higher attenuation of white matter
+- "white cerebellum" sign = lower attenuation of supratentorial brain with relative sparing
+
+### MR
+
+- immediate ⇑ lactate (spectroscopy most useful within hours) → pseudonormalization ~ 24 hours
+- restricted diffusion (DWI in days 1-5 most sensitive test) → pseudonormalization 5 days after birth
+- T1WI and T2WI (most useful after day 2):
+- T2 prolongation ← edema
+- T2 shortening ← mineral deposition
+- increased signal intensity on DWI (after 2 hours)
+- subtle increased intensity + swelling of affected areas (after > 24 hours)
+- diffuse T2 prolongation in subcortical white matter (= delayed postanoxic
+- hyperintense areas on T1WI within larger hyperintense area on T2WI (early)
+- ventricular enlargement with irregular margins of body + trigone of lateral ventricles
+- loss of periventricular white matter with ↑ T2 signal
+- thinning of corpus callosum
+- restricted diffusion in parasagittal cortex and underlying subcortical white matter
+- cortical thinning + diminution of underlying white matter
+- ex vacuo dilatation of adjacent lateral ventricles in trigones and occipital horns
+- bilateral abnormal T1 hyperintensity (days 3-7) in posterolateral putamen, ventrolateral
+- absent posterior limb sign = loss of normal mildly hyperintense T1 focus in posterior limb of
+- indistinct / abnormally iso- or hyperintense T2 foci relative to adjacent gray matter instead of
+
+## Clinical
+
+- **Prognosis:** (a)   full recovery
+- **Cx:** cerebral palsy in up to 19% of infants < 28 weeks EGA
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

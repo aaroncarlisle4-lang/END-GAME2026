@@ -1,0 +1,27 @@
+{
+  "finding": "Elastofibroma Dorsi (DDx)",
+  "slug": "elastofibroma_dorsi_ddx",
+  "chapter": "Elastofibroma Dorsi",
+  "source_file": "processed_clusters/elastofibroma_dorsi/elastofibroma_dorsi_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "extraabdominal desmoid",
+      "raw": "extraabdominal desmoid",
+      "frequency": null
+    },
+    {
+      "name": "neurofibroma",
+      "raw": "neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "malignant fibrous histiocytoma",
+      "raw": "malignant fibrous histiocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "heterogeneous poorly defined lesion of soft-tissue attenuation similar to muscle | well-defined heterogeneous intermediate-SI lesion similar to muscle on T1WI + T2WI | interspersed streaks of fat intensity in fascicular pattern | heterogeneous enhancement"
+}

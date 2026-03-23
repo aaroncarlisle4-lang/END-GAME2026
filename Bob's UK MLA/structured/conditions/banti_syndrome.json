@@ -1,0 +1,27 @@
+{
+  "name": "BANTI SYNDROME",
+  "slug": "banti_syndrome",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/banti_syndrome.md",
+  "definition": "NONCIRRHOTIC IDIOPATHIC PORTAL HYPERTENSION = NONCIRRHOTIC PORTAL FIBROSIS = syndrome characterized by",
+  "demographics": {
+    "Age": "middle-aged women; rare in America + Europe; common in India + Japan"
+  },
+  "dominant_finding": "esophageal varices",
+  "distribution": "patent hepatic veins",
+  "discriminating_features": [
+    "esophageal varices",
+    "patent hepatic veins",
+    "patent extrahepatic portal vein + multiple collaterals"
+  ],
+  "other_features": {
+    "general": [
+      "esophageal varices",
+      "patent hepatic veins",
+      "patent extrahepatic portal vein + multiple collaterals"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "90% 5-year survival; 55% 30-year survival"
+  }
+}

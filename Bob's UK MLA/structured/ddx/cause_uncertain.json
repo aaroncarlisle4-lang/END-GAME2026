@@ -1,0 +1,37 @@
+{
+  "finding": "Cause: uncertain",
+  "slug": "cause_uncertain",
+  "chapter": "E. VASCULAR CONGESTION",
+  "source_file": "processed_clusters/e_vascular_congestion/cause_uncertain.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Obstructed hydronephrosis",
+      "raw": "Obstructed hydronephrosis",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia: ATN, medullary / cortical necrosis, renal vein thrombosis",
+      "raw": "Ischemia: ATN, medullary / cortical necrosis, renal vein thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Infection: candida",
+      "raw": "Infection: candida",
+      "frequency": null
+    },
+    {
+      "name": "Polycystic kidney disease: ADPKD, Beckwith-Wiedemann syndrome",
+      "raw": "Polycystic kidney disease: ADPKD, Beckwith-Wiedemann syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Metabolic",
+      "raw": "Metabolic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

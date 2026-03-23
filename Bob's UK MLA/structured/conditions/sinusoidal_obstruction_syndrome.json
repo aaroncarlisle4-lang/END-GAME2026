@@ -1,0 +1,33 @@
+{
+  "name": "SINUSOIDAL OBSTRUCTION SYNDROME",
+  "slug": "sinusoidal_obstruction_syndrome",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/sinusoidal_obstruction_syndrome.md",
+  "definition": "SOS = venoocclusive disease blockage of small hepatic venules",
+  "demographics": {},
+  "dominant_finding": "heterogeneous hepatic attenuation",
+  "distribution": "hepatomegaly and hepatic congestion",
+  "discriminating_features": [
+    "hepatomegaly and hepatic congestion",
+    "heterogeneous hepatic attenuation",
+    "heterogeneous enhancement ← altered perfusion in areas of increased sinusoidal pressure",
+    "small obstructed hepatic venules NOT visible at imaging",
+    "heterogeneous liver with areas of increased signal intensity on T2WI ← edema"
+  ],
+  "other_features": {
+    "general": [
+      "hepatomegaly and hepatic congestion"
+    ],
+    "CT": [
+      "heterogeneous hepatic attenuation"
+    ],
+    "CECT": [
+      "heterogeneous enhancement ← altered perfusion in areas of increased sinusoidal pressure",
+      "small obstructed hepatic venules NOT visible at imaging"
+    ],
+    "MR": [
+      "heterogeneous liver with areas of increased signal intensity on T2WI ← edema"
+    ]
+  },
+  "clinical": {}
+}

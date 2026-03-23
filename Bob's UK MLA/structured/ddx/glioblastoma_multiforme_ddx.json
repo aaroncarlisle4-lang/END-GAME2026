@@ -1,0 +1,27 @@
+{
+  "finding": "Glioblastoma Multiforme (DDx)",
+  "slug": "glioblastoma_multiforme_ddx",
+  "chapter": "Glioblastoma Multiforme",
+  "source_file": "processed_clusters/glioblastoma_multiforme/glioblastoma_multiforme_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "solitary metastasis",
+      "raw": "solitary metastasis",
+      "frequency": null
+    },
+    {
+      "name": "tumefactive demyelinating lesion",
+      "raw": "tumefactive demyelinating lesion (\"singular sclerosis\")",
+      "frequency": null
+    },
+    {
+      "name": "atypical abscess",
+      "raw": "atypical abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

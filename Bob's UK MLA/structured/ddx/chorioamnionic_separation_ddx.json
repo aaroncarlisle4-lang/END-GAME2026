@@ -1,0 +1,32 @@
+{
+  "finding": "Chorioamnionic Separation (DDx)",
+  "slug": "chorioamnionic_separation_ddx",
+  "chapter": "Chorioamnionic Separation",
+  "source_file": "processed_clusters/chorioamnionic_separation/chorioamnionic_separation_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "amniotic band syndrome",
+      "raw": "amniotic band syndrome",
+      "frequency": null
+    },
+    {
+      "name": "uterine synechia",
+      "raw": "uterine synechia",
+      "frequency": null
+    },
+    {
+      "name": "fibrin strand after amniocentesis",
+      "raw": "fibrin strand after amniocentesis",
+      "frequency": null
+    },
+    {
+      "name": "cystic hygroma",
+      "raw": "cystic hygroma (moves with embryo)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "membrane extends over fetal surface + stops at origin of umbilical cord | elevated membrane thinner than chorionic membrane"
+}

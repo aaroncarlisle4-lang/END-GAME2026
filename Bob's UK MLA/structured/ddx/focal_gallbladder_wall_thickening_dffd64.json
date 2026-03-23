@@ -1,0 +1,27 @@
+{
+  "finding": "Focal Gallbladder Wall Thickening",
+  "slug": "focal_gallbladder_wall_thickening_dffd64",
+  "chapter": "Gallbladder Wall Thickening",
+  "source_file": "processed_clusters/gallbladder_wall_thickening/focal_gallbladder_wall_thickening_dffd64.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "METABOLIC",
+      "raw": "METABOLIC",
+      "frequency": null
+    },
+    {
+      "name": "Metachromatic sulfatides",
+      "raw": "Metachromatic sulfatides",
+      "frequency": null
+    },
+    {
+      "name": "Hyperplastic cholecystoses",
+      "raw": "Hyperplastic cholecystoses",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

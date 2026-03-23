@@ -1,0 +1,27 @@
+{
+  "finding": "Sarcoidosis — parenchymal disease (in 60% by CT): (DDx)",
+  "slug": "sarcoidosis_parenchymal_disease_in_60_by_ct_ddx_2_e4ee12",
+  "chapter": "Sarcoidosis",
+  "source_file": "processed_clusters/sarcoidosis/sarcoidosis_parenchymal_disease_in_60_by_ct_ddx_2_e4ee12.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pneumonia",
+      "raw": "pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "tuberculosis",
+      "raw": "tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "BOOP √  patchy ground-glass opacities",
+      "raw": "BOOP √  patchy ground-glass opacities (40%)",
+      "frequency": "40%"
+    }
+  ],
+  "criteria": {},
+  "context": "nonspecific \"galaxy\" sign = small satellite nodules at periphery of masses | \"sarcoid cluster\" = cluster of multiple micronodules distributed along lymph | solitary lung nodule / mass (rare) | \"alveolar sarcoidosis\" = bilateral symmetric patchy airspace consolidation ± air"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Cause: hemorrhage during transplacental amniocentesis",
+  "slug": "cause_hemorrhage_during_transplacental_amniocentesis_e1fb69",
+  "chapter": "C. FIBRIN STRAND",
+  "source_file": "processed_clusters/c_fibrin_strand/cause_hemorrhage_during_transplacental_amniocentesis_e1fb69.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Separation",
+      "raw": "Separation (chorioamnionic)",
+      "frequency": null
+    },
+    {
+      "name": "Twins",
+      "raw": "Twins (intertwin membrane)",
+      "frequency": null
+    },
+    {
+      "name": "Abruption",
+      "raw": "Abruption",
+      "frequency": null
+    },
+    {
+      "name": "Bands",
+      "raw": "Bands (amniotic band syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Synechia",
+      "raw": "Synechia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

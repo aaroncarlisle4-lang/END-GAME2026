@@ -1,0 +1,45 @@
+{
+  "finding": "PULSATILITY",
+  "slug": "pulsatility",
+  "chapter": "PHASICITY",
+  "source_file": "processed_clusters/phasicity/pulsatility.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Full pulsatility index of Gosling (PIF) = 1/A02 SAi2",
+      "raw": "Full pulsatility index of Gosling (PIF) = 1/A02 SAi2",
+      "frequency": null
+    },
+    {
+      "name": "Simplified pulsatility index (PI) = (S - D)/mean",
+      "raw": "Simplified pulsatility index (PI) = (S - D)/mean",
+      "frequency": null
+    },
+    {
+      "name": "Resistance index",
+      "raw": "Resistance index (RI) = Pourcelot index = (S - D)/S or 1 - (D/S)",
+      "frequency": null
+    },
+    {
+      "name": "Stuart index = A/B ratio = S/D ratio",
+      "raw": "Stuart index = A/B ratio = S/D ratio",
+      "frequency": null
+    },
+    {
+      "name": "B/A ratio = B(100%)/A",
+      "raw": "B/A ratio = B(100%)/A",
+      "frequency": "100%"
+    }
+  ],
+  "criteria": {
+    "Full pulsatility index of Gosling (PIF) = 1/A02 SAi2": [
+      "=  assessment of vascular resistance (increased resistance reduces diastolic flow) ◊  Can be assessed in vessels too small / tortuous to be imaged (Doppler angle unnecessary)! ◊  Index should be calculated for each of several cardiac cycles (5 heartbeats adequate) an average value taken S = A = maximal systolic shift D = B = end-diastolic frequency shift"
+    ],
+    "Simplified pulsatility index (PI) = (S - D)/mean": [],
+    "Resistance index": [],
+    "Stuart index = A/B ratio = S/D ratio": [],
+    "B/A ratio = B(100%)/A": []
+  },
+  "context": "=  assessment of vascular resistance (increased resistance reduces diastolic flow) ◊  Can be assessed in vessels too small / tortuous to be imaged (Doppler angle unnecessary)! ◊  Index should be calculated for each of several cardiac cycles (5 heartbeats adequate) an average value taken S = A = maximal systolic shift D = B = end-diastolic frequency shift"
+}

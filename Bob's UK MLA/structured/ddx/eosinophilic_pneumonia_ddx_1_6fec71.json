@@ -1,0 +1,37 @@
+{
+  "finding": "Eosinophilic Pneumonia (DDx)",
+  "slug": "eosinophilic_pneumonia_ddx_1_6fec71",
+  "chapter": "Eosinophilic Pneumonia",
+  "source_file": "processed_clusters/eosinophilic_pneumonia/eosinophilic_pneumonia_ddx_1_6fec71.md",
+  "quality_score": 0.75,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "hydrostatic pulmonary edema",
+      "raw": "hydrostatic pulmonary edema (cardiomegaly)",
+      "frequency": null
+    },
+    {
+      "name": "ARDS",
+      "raw": "ARDS",
+      "frequency": null
+    },
+    {
+      "name": "acute interstitial pneumonia",
+      "raw": "acute interstitial pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "atypical bacterial / viral pneumonia",
+      "raw": "atypical bacterial / viral pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "hydrostatic pulmonary edema": [],
+    "ARDS": [],
+    "acute interstitial pneumonia": [],
+    "atypical bacterial / viral pneumonia": []
+  },
+  "context": "poorly defined centrilobular nodules | airspace consolidation | thickening of bronchovascular bundle | enlarged lymph nodes"
+}

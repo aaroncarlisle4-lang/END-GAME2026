@@ -1,0 +1,32 @@
+{
+  "name": "JACCOUD ARTHROPATHY",
+  "slug": "jaccoud_arthropathy",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/jaccoud_arthropathy.md",
+  "definition": "irreversible nonerosive deforming arthropathy after subsidence of frequent severe attacks of",
+  "demographics": {
+    "Path": "pericapsular soft-tissue edema (= synovitis around small joints); periarticular fascial +",
+    "Location": "primarily involvement of hands; occasionally in great toe"
+  },
+  "dominant_finding": "> 3 mm distance between scaphoid and lunate / other carpal bones = carpal instability (in",
+  "distribution": "primarily involvement of hands; occasionally in great toe",
+  "discriminating_features": [
+    "periarticular swelling of small joints of hands + feet",
+    "ulnar deviation + flexion of MCP joints most marked in 4th + 5th finger",
+    "> 3 mm distance between scaphoid and lunate / other carpal bones = carpal instability (in",
+    "swan neck + boutonniere deformity",
+    "NO joint narrowing / erosion"
+  ],
+  "other_features": {
+    "general": [
+      "periarticular swelling of small joints of hands + feet",
+      "ulnar deviation + flexion of MCP joints most marked in 4th + 5th finger",
+      "> 3 mm distance between scaphoid and lunate / other carpal bones = carpal instability (in",
+      "swan neck + boutonniere deformity",
+      "NO joint narrowing / erosion",
+      "juxtaarticular osteoporosis",
+      "muscular atrophy"
+    ]
+  },
+  "clinical": {}
+}

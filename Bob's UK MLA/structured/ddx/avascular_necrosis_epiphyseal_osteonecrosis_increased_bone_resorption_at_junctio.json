@@ -1,0 +1,22 @@
+{
+  "finding": "Avascular Necrosis — epiphyseal osteonecrosis: increased bone resorption at junction of reactive zone and (DDx)",
+  "slug": "avascular_necrosis_epiphyseal_osteonecrosis_increased_bone_resorption_at_junctio",
+  "chapter": "Avascular Necrosis",
+  "source_file": "processed_clusters/avascular_necrosis/avascular_necrosis_epiphyseal_osteonecrosis_increased_bone_resorption_at_junctio.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "eosinophilic granuloma",
+      "raw": "eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "metastatic disease",
+      "raw": "metastatic disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "increased density of vertebra | neural arches NOT affected | disks are normal with normal intervertebral disk space | intravertebral \"vacuum cleft\" sign (PATHOGNOMONIC)"
+}

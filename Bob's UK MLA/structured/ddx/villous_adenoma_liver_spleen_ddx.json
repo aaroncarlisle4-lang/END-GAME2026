@@ -1,0 +1,22 @@
+{
+  "finding": "Villous Adenoma — Liver & spleen (DDx)",
+  "slug": "villous_adenoma_liver_spleen_ddx",
+  "chapter": "Villous Adenoma",
+  "source_file": "processed_clusters/villous_adenoma/villous_adenoma_liver_spleen_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "multiple myeloma (lymphadenopathy rare",
+      "raw": "multiple myeloma (lymphadenopathy rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "lytic lesions in 31%)",
+      "raw": "lytic lesions in 31%)",
+      "frequency": "31%"
+    }
+  ],
+  "criteria": {},
+  "context": "marrow iso- / hypointense to muscle on T1WI | enhancement of abnormal marrow on T1WI | lymphadenopathy (43%) | hepatosplenomegaly"
+}

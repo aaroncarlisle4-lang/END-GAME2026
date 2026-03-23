@@ -1,0 +1,27 @@
+{
+  "finding": "E. TUMOR",
+  "slug": "e_tumor",
+  "chapter": "PERIVENTRICULAR REGION",
+  "source_file": "processed_clusters/periventricular_region/e_tumor.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Subependymal tumor",
+      "raw": "Subependymal tumor",
+      "frequency": null
+    },
+    {
+      "name": "Multiple parenchymal metastases",
+      "raw": "Multiple parenchymal metastases",
+      "frequency": null
+    },
+    {
+      "name": "Intravascular (angiocentric) lymphoma",
+      "raw": "Intravascular (angiocentric) lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

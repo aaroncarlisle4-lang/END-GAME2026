@@ -1,0 +1,32 @@
+{
+  "finding": "Pericardial Compressive Syndromes",
+  "slug": "pericardial_compressive_syndromes_dbeaa9",
+  "chapter": "PERICARDIUM",
+  "source_file": "processed_clusters/pericardium/pericardial_compressive_syndromes_dbeaa9.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cardiac tamponade",
+      "raw": "Cardiac tamponade",
+      "frequency": null
+    },
+    {
+      "name": "Constrictive pericarditis ← loss of elasticity ← scarring",
+      "raw": "Constrictive pericarditis ← loss of elasticity ← scarring",
+      "frequency": null
+    },
+    {
+      "name": "Concomitant effusive-constrictive pericarditis =  constrictive physiology + coexisting pericardial effusion",
+      "raw": "Concomitant effusive-constrictive pericarditis =  constrictive physiology + coexisting pericardial effusion",
+      "frequency": null
+    },
+    {
+      "name": "central venous pressure remains elevated after drainage of pericardial effusion",
+      "raw": "central venous pressure remains elevated after drainage of pericardial effusion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

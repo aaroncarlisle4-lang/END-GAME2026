@@ -1,0 +1,30 @@
+{
+  "name": "PENILE CARCINOMA",
+  "slug": "penile_carcinoma",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/penile_carcinoma.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "0.4% of all male malignancies in US; 1% in Western countries; 10-20% of all",
+    "Histo": "squamous cell carcinoma (95%), sarcoma (epitheloid ~, Kaposi ~, leiomyo~,",
+    "Age": "6th and 7th decade; < 25% are less than 40 years of age"
+  },
+  "dominant_finding": "solitary ill-defined infiltrating tumor:",
+  "distribution": "",
+  "discriminating_features": [
+    "solitary ill-defined infiltrating tumor:",
+    "hypointense relative to corpora on T1WI + T2WI",
+    "enhancement with Gd (less than corpora)"
+  ],
+  "other_features": {
+    "general": [],
+    "MR": [
+      "solitary ill-defined infiltrating tumor:",
+      "hypointense relative to corpora on T1WI + T2WI",
+      "enhancement with Gd (less than corpora)"
+    ]
+  },
+  "clinical": {
+    "Rx": "circumcision, partial / total penectomy ± inguinal lymphadenectomy; radiation therapy"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Dieulafoy disease = abnormally dilated submucosal vessels of pulmonary artery",
+  "slug": "dieulafoy_disease_abnormally_dilated_submucosal_vessels_of_pulmonary_artery",
+  "chapter": "B. BRONCHIAL WALL INJURY",
+  "source_file": "processed_clusters/b_bronchial_wall_injury/dieulafoy_disease_abnormally_dilated_submucosal_vessels_of_pulmonary_artery.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bronchiectasis, mouthful",
+      "raw": "Bronchiectasis, mouthful (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis (Rasmussen aneurysm)",
+      "frequency": null
+    },
+    {
+      "name": "Aspergillosis",
+      "raw": "Aspergillosis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "CRYPTOGENIC (3-10-42%) ◊  6-10% of patients who smoke present with unresectable lung cancer within subsequent 3 years!",
+      "raw": "CRYPTOGENIC (3-10-42%) ◊  6-10% of patients who smoke present with unresectable lung cancer within subsequent 3 years!",
+      "frequency": "42%"
+    }
+  ],
+  "criteria": {},
+  "context": "prone to hemorrhage [Paul Georges Dieulafoy (1839-1911), chief of medical services at the Hôtel-Dieu, Paris, France] CT: √  cluster of avidly enhancing \"nodular\" bronchial arteries in posterior mediastinum below level of aortic arch paralleling bronchial anatomy √  abnormal bronchial arteries show tortuosity, dilatation, hypervascularity, neovascularity, aneurysms, shunts N.B.:   multidetector CT mapping prior to angiography reduces the rate of catheterization failures and the number of patients needing surgical intervention! Angio: √  vasodilated enlarged tortuous bronchial arteries → bronchi"
+}

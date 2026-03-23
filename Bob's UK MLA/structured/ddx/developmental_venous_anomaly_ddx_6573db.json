@@ -1,0 +1,32 @@
+{
+  "finding": "Developmental Venous Anomaly (DDx)",
+  "slug": "developmental_venous_anomaly_ddx_6573db",
+  "chapter": "Developmental Venous Anomaly",
+  "source_file": "processed_clusters/developmental_venous_anomaly/developmental_venous_anomaly_ddx_6573db.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "vascular neoplasm",
+      "raw": "vascular neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "cavernous vascular malformation",
+      "raw": "cavernous vascular malformation",
+      "frequency": null
+    },
+    {
+      "name": "venous varix",
+      "raw": "venous varix",
+      "frequency": null
+    },
+    {
+      "name": "Sturge-Weber",
+      "raw": "Sturge-Weber",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "interspersed normal brain parenchyma | dense capillary stain in larger lesion | linear / curvilinear enhancing structure = venous collector draining into superficial dural sinus | NO enlarged arterial vessels"
+}

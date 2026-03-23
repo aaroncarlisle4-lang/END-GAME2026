@@ -1,0 +1,67 @@
+{
+  "finding": "Computer-Aided Detection (CAD",
+  "slug": "computer_aided_detection_cad",
+  "chapter": "MAMMOGRAPHIC TECHNIQUE",
+  "source_file": "processed_clusters/mammographic_technique/computer_aided_detection_cad.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Clustered microcalcifications",
+      "raw": "Clustered microcalcifications",
+      "frequency": null
+    },
+    {
+      "name": "Spiculated lesion (b)  moderate",
+      "raw": "Spiculated lesion (b)  moderate",
+      "frequency": null
+    },
+    {
+      "name": "Poorly defined mass / asymmetry (c)  low",
+      "raw": "Poorly defined mass / asymmetry (c)  low",
+      "frequency": null
+    },
+    {
+      "name": "Focal asymmetry",
+      "raw": "Focal asymmetry",
+      "frequency": null
+    },
+    {
+      "name": "Architectural distortion (1-2% detected) (d)  none",
+      "raw": "Architectural distortion (1-2% detected) (d)  none",
+      "frequency": "2%"
+    },
+    {
+      "name": "Developing asymmetry",
+      "raw": "Developing asymmetry (no comparison with prior)",
+      "frequency": null
+    },
+    {
+      "name": "Microcalcifications few",
+      "raw": "Microcalcifications few",
+      "frequency": null
+    },
+    {
+      "name": "Nonspiculated mass 20%",
+      "raw": "Nonspiculated mass 20%",
+      "frequency": "20%"
+    },
+    {
+      "name": "Architectural distortion 50%",
+      "raw": "Architectural distortion 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "Focal asymmetry 99%",
+      "raw": "Focal asymmetry 99%",
+      "frequency": "99%"
+    },
+    {
+      "name": "Developing asymmetry 100%",
+      "raw": "Developing asymmetry 100%",
+      "frequency": "100%"
+    }
+  ],
+  "criteria": {},
+  "context": "Utility of Computer-Aided Detection (CAD): (a)  significant Cancers missed by Computer-Aided Detection (CAD):"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "SBO IN VIRGIN ABDOMEN OF ADULTHOOD",
+  "slug": "sbo_in_virgin_abdomen_of_adulthood_02b52b",
+  "chapter": "E. EXTRINSIC COMPRESSION",
+  "source_file": "processed_clusters/e_extrinsic_compression/sbo_in_virgin_abdomen_of_adulthood_02b52b.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bowel ischemia including ischemic stricture",
+      "raw": "Bowel ischemia including ischemic stricture",
+      "frequency": null
+    },
+    {
+      "name": "Primary small bowel neoplasm",
+      "raw": "Primary small bowel neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic small bowel neoplasm",
+      "raw": "Metastatic small bowel neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic abdominal mass",
+      "raw": "Extrinsic abdominal mass",
+      "frequency": null
+    },
+    {
+      "name": "Internal / abdominal wall hernia",
+      "raw": "Internal / abdominal wall hernia",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

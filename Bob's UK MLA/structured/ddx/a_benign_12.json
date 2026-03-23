@@ -1,0 +1,37 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_12",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/a_benign_12.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Glomus tumor",
+      "raw": "Glomus tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic angiomatosis",
+      "raw": "Cystic angiomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

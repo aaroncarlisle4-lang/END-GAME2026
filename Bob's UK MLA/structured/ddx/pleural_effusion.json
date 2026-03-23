@@ -1,0 +1,47 @@
+{
+  "finding": "Pleural Effusion",
+  "slug": "pleural_effusion",
+  "chapter": "FETAL CHEST ANOMALIES",
+  "source_file": "processed_clusters/fetal_chest_anomalies/pleural_effusion.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary idiopathic chylothorax",
+      "raw": "Primary idiopathic chylothorax (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Hydrops fetalis",
+      "raw": "Hydrops fetalis (multiple causes)",
+      "frequency": null
+    },
+    {
+      "name": "Chromosome anomaly: trisomy 21, 45 XO",
+      "raw": "Chromosome anomaly: trisomy 21, 45 XO (mostly)",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary lymphangiectasia / cystic hygroma",
+      "raw": "Pulmonary lymphangiectasia / cystic hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Lung mass: cystic adenomatoid malformation, bronchopulmonary sequestration, congenital diaphragmatic hernia, chest wall hamartoma",
+      "raw": "Lung mass: cystic adenomatoid malformation, bronchopulmonary sequestration, congenital diaphragmatic hernia, chest wall hamartoma (uncommon)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Pulmonary vein atresia",
+      "raw": "Pulmonary vein atresia",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

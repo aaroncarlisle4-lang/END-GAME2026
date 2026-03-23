@@ -1,0 +1,43 @@
+{
+  "name": "MIXED EPITHELIAL AND STROMAL TUMOR",
+  "slug": "mixed_epithelial_and_stromal_tumor",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/mixed_epithelial_and_stromal_tumor.md",
+  "definition": "MEST = LEIOMYOMATOUS RENAL HAMARTOMA = CYSTIC HAMARTOMA OF RENAL PELVIS = ADULT",
+  "demographics": {
+    "Prevalence": "< 100 cases reported in literature",
+    "Associated with": "oral estrogen supplements / contraceptives",
+    "Path": "benign complex solid + cystic renal tumor",
+    "Histo": "› stromal spindle cells mimicking ovarian stroma with estrogen + progesterone"
+  },
+  "dominant_finding": "cystic region with T1 hypointensity + T2 hyperintensity",
+  "distribution": "may herniate into renal pelvis",
+  "discriminating_features": [
+    "well-circumscribed expansile multiseptate complex (= cystic and solid) mass",
+    "may herniate into renal pelvis",
+    "variable contrast enhancement of intervening septa",
+    "delayed contrast enhancement",
+    "± adipose tissue"
+  ],
+  "other_features": {
+    "general": [
+      "well-circumscribed expansile multiseptate complex (= cystic and solid) mass",
+      "may herniate into renal pelvis",
+      "variable contrast enhancement of intervening septa",
+      "delayed contrast enhancement",
+      "± adipose tissue",
+      "± enhancing mural nodule / mural calcifications",
+      "± intralesional hemorrhage"
+    ],
+    "US": [
+      "heterogeneous hyperechoic / partially cystic mass"
+    ],
+    "MR": [
+      "cystic region with T1 hypointensity + T2 hyperintensity",
+      "nodular component T1 hyperintense + T2 hypointense"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgery (impossible DDx from cystic RRC)"
+  }
+}

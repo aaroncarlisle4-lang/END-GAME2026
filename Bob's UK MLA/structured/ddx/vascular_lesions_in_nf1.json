@@ -1,0 +1,32 @@
+{
+  "finding": "Vascular Lesions in NF1",
+  "slug": "vascular_lesions_in_nf1",
+  "chapter": "NEUROFIBROMATOSIS",
+  "source_file": "processed_clusters/neurofibromatosis/vascular_lesions_in_nf1.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cranial artery stenosis",
+      "raw": "Cranial artery stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Renal artery stenosis: very proximal, funnel-shaped",
+      "raw": "Renal artery stenosis: very proximal, funnel-shaped",
+      "frequency": null
+    },
+    {
+      "name": "Renal artery aneurysm",
+      "raw": "Renal artery aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Thoracic / abdominal aortic coarctation",
+      "raw": "Thoracic / abdominal aortic coarctation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  Schwann cell proliferation within vessel wall Age:  common in childhood ◊  Renal artery stenosis in NF1 is one of the most common causes of hypertension in childhood!"
+}

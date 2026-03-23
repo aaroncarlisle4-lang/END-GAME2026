@@ -1,0 +1,27 @@
+{
+  "finding": "Lacrimal Sac Lesion",
+  "slug": "lacrimal_sac_lesion_081997",
+  "chapter": "LACRIMAL GLAND",
+  "source_file": "processed_clusters/lacrimal_gland/lacrimal_sac_lesion_081997.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "INFLAMMATION",
+      "raw": "INFLAMMATION",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

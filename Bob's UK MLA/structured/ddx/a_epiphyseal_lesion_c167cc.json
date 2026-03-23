@@ -1,0 +1,72 @@
+{
+  "finding": "A. EPIPHYSEAL LESION",
+  "slug": "a_epiphyseal_lesion_c167cc",
+  "chapter": "MYELOPROLIFERATIVE DISORDERS",
+  "source_file": "processed_clusters/myeloproliferative_disorders/a_epiphyseal_lesion_c167cc.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chondroblastoma",
+      "raw": "Chondroblastoma (prior to closure of growth plate)",
+      "frequency": null
+    },
+    {
+      "name": "Intraosseous ganglion, subchondral cyst",
+      "raw": "Intraosseous ganglion, subchondral cyst",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor (originating in metaphysis)",
+      "frequency": null
+    },
+    {
+      "name": "Clear cell chondrosarcoma",
+      "raw": "Clear cell chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Chondroblastoma",
+      "raw": "Chondroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Geode",
+      "raw": "Geode",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma",
+      "raw": "Eosinophilic granuloma [after 40 years of age throw out \"CEA\" and insert metastases / myeloma]",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

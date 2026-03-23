@@ -1,0 +1,42 @@
+{
+  "finding": "B. INFECTION",
+  "slug": "b_infection_4",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/b_infection_4.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pyogenic vertebral osteomyelitis",
+      "raw": "Pyogenic vertebral osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous spondylitis",
+      "raw": "Tuberculous spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "Brucellosis",
+      "raw": "Brucellosis",
+      "frequency": null
+    },
+    {
+      "name": "Fungal disease",
+      "raw": "Fungal disease",
+      "frequency": null
+    },
+    {
+      "name": "Echinococcosis",
+      "raw": "Echinococcosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

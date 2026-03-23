@@ -1,0 +1,42 @@
+{
+  "finding": "B. HEMORRHAGE = \"BLOOD\"",
+  "slug": "b_hemorrhage_blood",
+  "chapter": "D. SEPTIC EMBOLI",
+  "source_file": "processed_clusters/d_septic_emboli/b_hemorrhage_blood.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trauma: contusion",
+      "raw": "Trauma: contusion",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary embolism, thromboembolism",
+      "raw": "Pulmonary embolism, thromboembolism",
+      "frequency": null
+    },
+    {
+      "name": "Bleeding diathesis: leukemia, hemophilia, anticoagulants, DIC, immune thrombocytopenia",
+      "raw": "Bleeding diathesis: leukemia, hemophilia, anticoagulants, DIC, immune thrombocytopenia (ITP)",
+      "frequency": null
+    },
+    {
+      "name": "Vasculitis:",
+      "raw": "Vasculitis:",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic pulmonary hemosiderosis",
+      "raw": "Idiopathic pulmonary hemosiderosis",
+      "frequency": null
+    },
+    {
+      "name": "Bleeding metastasis: eg, choriocarcinoma",
+      "raw": "Bleeding metastasis: eg, choriocarcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Wegener granulomatosis, Goodpasture syndrome, SLE, mucormycosis, aspergillosis, Rocky Mountain spotted fever, infectious mononucleosis"
+}

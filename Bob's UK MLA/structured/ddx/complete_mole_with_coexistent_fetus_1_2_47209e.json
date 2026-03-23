@@ -1,0 +1,62 @@
+{
+  "finding": "Complete Mole with Coexistent Fetus (1-2%",
+  "slug": "complete_mole_with_coexistent_fetus_1_2_47209e",
+  "chapter": "HYDATIDIFORM MOLE",
+  "source_file": "processed_clusters/hydatidiform_mole/complete_mole_with_coexistent_fetus_1_2_47209e.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "vaginal bleeding in 2nd trimester; uterus large for dates",
+      "raw": "vaginal bleeding in 2nd trimester; uterus large for dates",
+      "frequency": null
+    },
+    {
+      "name": "abnormally elevated serum β-hCG",
+      "raw": "abnormally elevated serum β-hCG",
+      "frequency": null
+    },
+    {
+      "name": "amniocentesis with normal diploid karyotype excludes diagnosis of partial mole",
+      "raw": "amniocentesis with normal diploid karyotype excludes diagnosis of partial mole",
+      "frequency": null
+    },
+    {
+      "name": "history of previous molar gestation / missed abortion",
+      "raw": "history of previous molar gestation / missed abortion (75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "continued uterine bleeding",
+      "raw": "continued uterine bleeding",
+      "frequency": null
+    },
+    {
+      "name": "persistently elevated β-hCG levels ← failure of β-hCG to return to undetectable levels after treatment of a complete hydatidiform mole",
+      "raw": "persistently elevated β-hCG levels ← failure of β-hCG to return to undetectable levels after treatment of a complete hydatidiform mole",
+      "frequency": null
+    },
+    {
+      "name": "early onset of preeclampsia",
+      "raw": "early onset of preeclampsia",
+      "frequency": null
+    },
+    {
+      "name": "frequently spontaneous abortion",
+      "raw": "frequently spontaneous abortion (unrecognized as mole for lack of karyotyping of the abortus)",
+      "frequency": null
+    },
+    {
+      "name": "no survival of triploid fetus",
+      "raw": "no survival of triploid fetus",
+      "frequency": null
+    },
+    {
+      "name": "3% risk of persistent gestational trophoblastic neoplasia",
+      "raw": "3% risk of persistent gestational trophoblastic neoplasia",
+      "frequency": "3%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  molar degeneration of one conceptus of a dizygotic twin pregnancy with same risk of malignant degeneration as in classic mole √  normal gestation with placenta + separate typical echogenic material of a hydatidiform mole √  ovarian theca lutein cysts Prognosis:  fetal survival unlikely ← maternal complications from coexistent mole Invasive Mole =  CHORIOADENOMA DESTRUENS =  locally invasive nonmetastasizing neoplasm Histo:  excessive trophoblastic proliferation with presence of villous structure + invasion of myometrium Preexisting condition:   complete / partial hydatidiform mole Spread:"
+}

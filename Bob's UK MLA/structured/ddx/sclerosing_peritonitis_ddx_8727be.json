@@ -1,0 +1,42 @@
+{
+  "finding": "Sclerosing Peritonitis (DDx)",
+  "slug": "sclerosing_peritonitis_ddx_8727be",
+  "chapter": "Sclerosing Peritonitis",
+  "source_file": "processed_clusters/sclerosing_peritonitis/sclerosing_peritonitis_ddx_8727be.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tuberculosis",
+      "raw": "tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "amyloidosis",
+      "raw": "amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "hyperparathyroidism",
+      "raw": "hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "pseudomyxoma peritonei",
+      "raw": "pseudomyxoma peritonei",
+      "frequency": null
+    },
+    {
+      "name": "peritoneal carcinomatosis",
+      "raw": "peritoneal carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "meconium peritonitis",
+      "raw": "meconium peritonitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mantle of soft-tissue attenuation | peritoneal calcifications of parietal and visceral peritoneum | mural fibrosis + thickening of small bowel along its antimesenteric wall → adhesions → | formation of loculated fluid collections"
+}

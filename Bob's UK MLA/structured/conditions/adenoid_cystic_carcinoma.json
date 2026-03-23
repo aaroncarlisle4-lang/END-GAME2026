@@ -1,0 +1,29 @@
+{
+  "name": "ADENOID CYSTIC CARCINOMA",
+  "slug": "adenoid_cystic_carcinoma",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/adenoid_cystic_carcinoma.md",
+  "definition": "most common malignancy of lacrimal gland",
+  "demographics": {
+    "Frequency": "29% of all lacrimal epithelial neoplasms; ~ 5% of all primary orbital neoplasms",
+    "Age": "4th decade of life",
+    "Histo": "nonencapsulated bland-appearing epithelial cells arranged in nests / chords forming a"
+  },
+  "dominant_finding": "± bone erosion + calcifications",
+  "distribution": "",
+  "discriminating_features": [
+    "irregular borders with distortion of globe + orbital contents (with more advanced disease)",
+    "± bone erosion + calcifications",
+    "perineural invasion (lacrimal branch of ophthalmic nerve)"
+  ],
+  "other_features": {
+    "general": [
+      "irregular borders with distortion of globe + orbital contents (with more advanced disease)",
+      "± bone erosion + calcifications",
+      "perineural invasion (lacrimal branch of ophthalmic nerve)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "poor; 20% 10-year-survival rate"
+  }
+}

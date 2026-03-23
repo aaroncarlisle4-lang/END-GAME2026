@@ -1,0 +1,27 @@
+{
+  "name": "MEGACISTERNA MAGNA",
+  "slug": "megacisterna_magna",
+  "chapter": "INTRAVENTRICULAR NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/intraventricular_neurocytoma/megacisterna_magna.md",
+  "definition": "normal variant of focal enlargement of subarachnoid space in posteroinferior aspect of",
+  "demographics": {},
+  "dominant_finding": "cisterna magna ≥ 10 mm (on midsagittal image)",
+  "distribution": "occasionally enlarged posterior fossa",
+  "discriminating_features": [
+    "cisterna magna ≥ 10 mm (on midsagittal image)",
+    "free communication with 4th ventricle + cervical subarachnoid space (confirmed with CSF",
+    "intact vermis + normal 4th ventricle",
+    "absence of hydrocephalus",
+    "occasionally enlarged posterior fossa"
+  ],
+  "other_features": {
+    "general": [
+      "cisterna magna ≥ 10 mm (on midsagittal image)",
+      "free communication with 4th ventricle + cervical subarachnoid space (confirmed with CSF",
+      "intact vermis + normal 4th ventricle",
+      "absence of hydrocephalus",
+      "occasionally enlarged posterior fossa"
+    ]
+  },
+  "clinical": {}
+}

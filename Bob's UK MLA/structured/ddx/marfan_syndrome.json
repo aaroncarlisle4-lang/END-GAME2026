@@ -1,0 +1,32 @@
+{
+  "finding": "Marfan Syndrome",
+  "slug": "marfan_syndrome",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/marfan_syndrome.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Annuloaortic ectasia",
+      "raw": "Annuloaortic ectasia",
+      "frequency": null
+    },
+    {
+      "name": "Aortic aneurysm",
+      "raw": "Aortic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Aortic regurgitation",
+      "raw": "Aortic regurgitation",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary aneurysm",
+      "raw": "Pulmonary aneurysm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  ARACHNODACTYLY"
+}

@@ -1,0 +1,52 @@
+{
+  "finding": "C. MISCELLANEOUS",
+  "slug": "c_miscellaneous_dcd611",
+  "chapter": "D. PERSISTENT DUCTUS VENOSUS",
+  "source_file": "processed_clusters/d_persistent_ductus_venosus/c_miscellaneous_dcd611.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemorrhagic pancreatitis",
+      "raw": "Hemorrhagic pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Sigmoid diverticulitis",
+      "raw": "Sigmoid diverticulitis",
+      "frequency": null
+    },
+    {
+      "name": "Intraabdominal abscess",
+      "raw": "Intraabdominal abscess",
+      "frequency": null
+    },
+    {
+      "name": "Pneumonia",
+      "raw": "Pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Iatrogenic injection of air during endoscopy / BE",
+      "raw": "Iatrogenic injection of air during endoscopy / BE",
+      "frequency": null
+    },
+    {
+      "name": "Dead fetus",
+      "raw": "Dead fetus",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes",
+      "raw": "Diabetes",
+      "frequency": null
+    },
+    {
+      "name": "Diarrhea mnemonic:   BE NICE",
+      "raw": "Diarrhea mnemonic:   BE NICE",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "BE (air embolism during double contrast barium enema) Necrotizing enterocolitis"
+}

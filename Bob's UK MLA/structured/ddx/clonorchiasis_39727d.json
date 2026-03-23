@@ -1,0 +1,37 @@
+{
+  "finding": "CLONORCHIASIS",
+  "slug": "clonorchiasis_39727d",
+  "chapter": "Navaho, Pima, Chippewa Indians",
+  "source_file": "processed_clusters/navaho_pima_chippewa_indians/clonorchiasis_39727d.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "remittent incomplete obstruction + bacterial superinfection Location:   medium-sized + small intrahepatic bile ducts, primarily in subcapsular region",
+      "raw": "remittent incomplete obstruction + bacterial superinfection Location:   medium-sized + small intrahepatic bile ducts, primarily in subcapsular region",
+      "frequency": null
+    },
+    {
+      "name": "Bile duct obstruction ← conglomerate of worms / adenomatous proliferation of ducts",
+      "raw": "Bile duct obstruction ← conglomerate of worms / adenomatous proliferation of ducts",
+      "frequency": null
+    },
+    {
+      "name": "Calculus formation ← stasis / dead worms / epithelial debris",
+      "raw": "Calculus formation ← stasis / dead worms / epithelial debris",
+      "frequency": null
+    },
+    {
+      "name": "Jaundice in 8% ← stone / stricture / tumor",
+      "raw": "Jaundice in 8% ← stone / stricture / tumor",
+      "frequency": "8%"
+    },
+    {
+      "name": "Generalized dilatation of bile ducts",
+      "raw": "Generalized dilatation of bile ducts (2%)",
+      "frequency": "2%"
+    }
+  ],
+  "criteria": {},
+  "context": "Rarely of clinical significance Country:   endemic to Southeast Asia: Japan, Korea, Central + South China, Taiwan, Indochina; Eastern Europe Organism:   Chinese liver fluke = Clonorchis sinensis Closely related:   Opisthorchis viverrini (Thailand and Laos); Opisthorchis felineus (Siberia) Cycle:   parasite cysts digested by gastric juice → larvae migrate up the bile ducts → remain in small intrahepatic ducts until maturity (10-30 mm in length) → travel to larger ducts to deposit eggs Infection:   snail + freshwater fish serve as intermediate hosts; infection occurs by eating raw fish; hog, dog"
+}

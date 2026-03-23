@@ -1,0 +1,47 @@
+{
+  "finding": "B. MALIGNANT PRIMARY TUMOR (exceedingly rare) (a) osseous malignancy",
+  "slug": "b_malignant_primary_tumor_exceedingly_rare_a_osseous_malignancy_237f1d",
+  "chapter": "FINGER",
+  "source_file": "processed_clusters/finger/b_malignant_primary_tumor_exceedingly_rare_a_osseous_malignancy_237f1d.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chondrosarcoma ◊  Most common primary malignant bone tumor of the hand!",
+      "raw": "Chondrosarcoma ◊  Most common primary malignant bone tumor of the hand!",
+      "frequency": "most common"
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosarcoma",
+      "raw": "Fibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioendotheliosarcoma",
+      "raw": "Hemangioendotheliosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma (b)  nail bed malignancy",
+      "raw": "Ewing sarcoma (b)  nail bed malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant melanoma",
+      "raw": "Malignant melanoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

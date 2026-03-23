@@ -1,0 +1,40 @@
+{
+  "name": "EISENMENGER SYNDROME",
+  "slug": "eisenmenger_syndrome",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/eisenmenger_syndrome.md",
+  "definition": "EISENMENGER REACTION development of high pulmonary vascular resistance after many years of L-to-R shunt (ASD,",
+  "demographics": {
+    "Path": "adaptive anastomotic pathways connect plexiform lesions of pulmonary arterial vessels"
+  },
+  "dominant_finding": "massive aneurysmal dilatation of pulmonary trunk",
+  "distribution": "linear calcification + thrombus in central pulmonary arteries",
+  "discriminating_features": [
+    "massive aneurysmal dilatation of pulmonary trunk",
+    "linear calcification + thrombus in central pulmonary arteries",
+    "atheromatous calcification of pulmonary arteries",
+    "mural calcification / aneurysmal dilatation of ductus arteriosus (in case of patent ductus",
+    "pronounced dilatation of central pulmonary arteries (pulmonary trunk, main pulmonary a.,"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "pronounced dilatation of central pulmonary arteries (pulmonary trunk, main pulmonary a.,",
+      "pruning of peripheral pulmonary arteries",
+      "enlargement of RV + RA (proportionate to volume overload)",
+      "LA + LV return to normal size (with decrease of L-to-R shunt ← markedly elevated",
+      "normal pulmonary veins (unless superimposed cardiac volume overload):",
+      "pulmonary veins NOT distended ← NO increase in pulmonary blood flow)",
+      "NO redistribution of pulmonary veins (normal venous pressure)"
+    ],
+    "CT": [
+      "massive aneurysmal dilatation of pulmonary trunk",
+      "linear calcification + thrombus in central pulmonary arteries",
+      "atheromatous calcification of pulmonary arteries",
+      "mural calcification / aneurysmal dilatation of ductus arteriosus (in case of patent ductus"
+    ]
+  },
+  "clinical": {
+    "Rx": "heart-lung transplant"
+  }
+}

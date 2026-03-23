@@ -1,0 +1,52 @@
+{
+  "finding": "B. HEMATOGENOUS METASTASES",
+  "slug": "b_hematogenous_metastases_eb0e44",
+  "chapter": "C. INFILTRATIVE PROCESS",
+  "source_file": "processed_clusters/c_infiltrative_process/b_hematogenous_metastases_eb0e44.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malignant melanoma",
+      "raw": "Malignant melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast cancer",
+      "raw": "Breast cancer (15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "Cancer of lung",
+      "raw": "Cancer of lung",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Bladder carcinoma",
+      "raw": "Bladder carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "ECTOPIC PANCREAS in duodenum / stomach",
+      "raw": "ECTOPIC PANCREAS in duodenum / stomach",
+      "frequency": null
+    },
+    {
+      "name": "EOSINOPHILIC GRANULOMA most frequently in stomach",
+      "raw": "EOSINOPHILIC GRANULOMA most frequently in stomach",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  usually spares large bowel √  scirrhous appearance in stomach"
+}

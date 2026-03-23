@@ -1,0 +1,62 @@
+{
+  "finding": "Cause: unknown",
+  "slug": "cause_unknown_7bb7af",
+  "chapter": "CONTROL OF HEART RATE",
+  "source_file": "processed_clusters/control_of_heart_rate/cause_unknown_7bb7af.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hives, itching; facial / laryngeal edema",
+      "raw": "hives, itching; facial / laryngeal edema",
+      "frequency": null
+    },
+    {
+      "name": "bronchospasm, respiratory collapse; circulatory collapse",
+      "raw": "bronchospasm, respiratory collapse; circulatory collapse",
+      "frequency": null
+    },
+    {
+      "name": "Delayed reactions",
+      "raw": "Delayed reactions",
+      "frequency": null
+    },
+    {
+      "name": "erythematous rashes, pruritus, fever, chills, flulike symptoms",
+      "raw": "erythematous rashes, pruritus, fever, chills, flulike symptoms",
+      "frequency": null
+    },
+    {
+      "name": "joint pain, loss of appetite, taste disturbance, headache",
+      "raw": "joint pain, loss of appetite, taste disturbance, headache",
+      "frequency": null
+    },
+    {
+      "name": "fatigue, depression, abdominal pain, constipation, diarrhea",
+      "raw": "fatigue, depression, abdominal pain, constipation, diarrhea",
+      "frequency": null
+    },
+    {
+      "name": "General status",
+      "raw": "General status",
+      "frequency": null
+    },
+    {
+      "name": "History of significant allergies",
+      "raw": "History of significant allergies",
+      "frequency": null
+    },
+    {
+      "name": "Prior anaphylactic response to any allergen",
+      "raw": "Prior anaphylactic response to any allergen",
+      "frequency": null
+    },
+    {
+      "name": "Asthma",
+      "raw": "Asthma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Significant underlying medical conditions (a)  renal disease (b)  cardiac disease (c)  blood dyscrasias (d)  pheochromocytoma (e)  ↑ symptoms with COPD plus pulmonary hypertension (f)  ↑ sickling in patients with sickle-cell disease ◊  Approximately 20-40% of population are at increased risk for adverse reaction to contrast media! ◊  In patients with adverse reactions to HOCM repeated reactions will be lowered to 5% by using LOCM ◊  No direct correlation / association to povidone-iodine skin cleansing solution (Betadine®) Assessment of Patients before Contrast Injection Assess hemodynamic, neu"
+}

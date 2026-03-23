@@ -1,0 +1,37 @@
+{
+  "finding": "Mesothelioma Of Chest (DDx)",
+  "slug": "mesothelioma_of_chest_ddx_bf836f",
+  "chapter": "Mesothelioma Of Chest",
+  "source_file": "processed_clusters/mesothelioma_of_chest/mesothelioma_of_chest_ddx_bf836f.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pleural fibrosis from infection (TB",
+      "raw": "pleural fibrosis from infection (TB",
+      "frequency": null
+    },
+    {
+      "name": "fungal",
+      "raw": "fungal",
+      "frequency": null
+    },
+    {
+      "name": "actinomycosis)",
+      "raw": "actinomycosis)",
+      "frequency": null
+    },
+    {
+      "name": "fibrothorax",
+      "raw": "fibrothorax",
+      "frequency": null
+    },
+    {
+      "name": "empyema",
+      "raw": "empyema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "invasion of intercostal muscles | separation / destruction of ribs by tumor | invasion of mediastinum: | obliteration of fat planes around heart, great vessels, esophagus, trachea"
+}

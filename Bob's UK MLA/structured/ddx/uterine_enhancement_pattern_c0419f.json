@@ -1,0 +1,67 @@
+{
+  "finding": "Uterine Enhancement Pattern",
+  "slug": "uterine_enhancement_pattern_c0419f",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/uterine_enhancement_pattern_c0419f.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myometrium demarcates level of internal cervical os",
+      "raw": "Myometrium demarcates level of internal cervical os",
+      "frequency": null
+    },
+    {
+      "name": "Inner mucosal + outer stromal layers of cervix",
+      "raw": "Inner mucosal + outer stromal layers of cervix",
+      "frequency": null
+    },
+    {
+      "name": "Inner stromal layer of cervix",
+      "raw": "Inner stromal layer of cervix",
+      "frequency": null
+    },
+    {
+      "name": "Supravaginal upper portion = endocervix",
+      "raw": "Supravaginal upper portion = endocervix",
+      "frequency": null
+    },
+    {
+      "name": "not palpable / visible by pelvic exam",
+      "raw": "not palpable / visible by pelvic exam",
+      "frequency": null
+    },
+    {
+      "name": "Lower portion protruding into vagina = ectocervix encircled by vagina",
+      "raw": "Lower portion protruding into vagina = ectocervix encircled by vagina (higher posteriorly and laterally) forming fornices (= vaginal recesses)",
+      "frequency": null
+    },
+    {
+      "name": "palpable during pelvic exam + visible with speculum",
+      "raw": "palpable during pelvic exam + visible with speculum",
+      "frequency": null
+    },
+    {
+      "name": "Central stripe of high signal intensity",
+      "raw": "Central stripe of high signal intensity",
+      "frequency": null
+    },
+    {
+      "name": "Middle layer of low SI continuous with junctional zone Histo:  inner zone of fibromuscular stroma with percentage of nuclear area 2.5 times greater than in outer zone",
+      "raw": "Middle layer of low SI continuous with junctional zone Histo:  inner zone of fibromuscular stroma with percentage of nuclear area 2.5 times greater than in outer zone",
+      "frequency": null
+    },
+    {
+      "name": "Outer layer of intermediate signal intensity Histo:  outer zone of fibromuscular stroma with greater number of fibroblasts + smooth muscle cells and less vascularized connective tissue",
+      "raw": "Outer layer of intermediate signal intensity Histo:  outer zone of fibromuscular stroma with greater number of fibroblasts + smooth muscle cells and less vascularized connective tissue",
+      "frequency": null
+    },
+    {
+      "name": "Outermost thin low-intensity serosal layer continuous with uterine serosa",
+      "raw": "Outermost thin low-intensity serosal layer continuous with uterine serosa",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  hypoattenuating on CECT Cervix =  lower cylindrical portion of uterus Size:     2.5-3.0 cm (L) x 2.5 cm (W) Stroma:   primarily collagenous tissue + smooth muscle (15%) Portions: US: √  ovoid / round on short-axis (coronal endovaginal) view √  cylindrical on long-axis (sagittal) √  little / NO vascularity on color Doppler Ectocervix Histo:   mucosa composed of stratified squamous epithelium similar to vaginal epithelium Transformation zone =   squamocolumnar junction =  region where glandular tissue (columnar epithelium) is replaced by squamous epithelium Location:   (a) on ectocervix in 94"
+}

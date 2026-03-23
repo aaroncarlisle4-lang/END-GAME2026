@@ -1,0 +1,22 @@
+{
+  "finding": "Retinal Detachment (DDx)",
+  "slug": "retinal_detachment_ddx",
+  "chapter": "Retinal Detachment",
+  "source_file": "processed_clusters/retinal_detachment/retinal_detachment_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "proliferative vitreous membranes",
+      "raw": "proliferative vitreous membranes (lines / irregularities)",
+      "frequency": null
+    },
+    {
+      "name": "choroidal detachment",
+      "raw": "choroidal detachment (point of fixation not at papilla)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "floating echogenic line fixed at papilla extending to ora serrata (if acute) | thick folded fixed echogenic line (if chronic) | ± anechoic retinal cysts | fluid = anechoic; blood = anechoic / hypoechoic with low-level echoes; neoplasm = solid"
+}

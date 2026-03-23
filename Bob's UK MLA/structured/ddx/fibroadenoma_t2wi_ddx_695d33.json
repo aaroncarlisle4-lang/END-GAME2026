@@ -1,0 +1,27 @@
+{
+  "finding": "Fibroadenoma — T2WI (DDx)",
+  "slug": "fibroadenoma_t2wi_ddx_695d33",
+  "chapter": "Fibroadenoma",
+  "source_file": "processed_clusters/fibroadenoma/fibroadenoma_t2wi_ddx_695d33.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "phyllodes tumor (rapid growth",
+      "raw": "phyllodes tumor (rapid growth",
+      "frequency": null
+    },
+    {
+      "name": "recurrence of fibroadenoma",
+      "raw": "recurrence of fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "cellular fibroadenoma in postmenopausal patient); adenosis tumor / florid adenosis",
+      "raw": "cellular fibroadenoma in postmenopausal patient); adenosis tumor / florid adenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "endotumoral septa with mild contrast uptake | high SI (for tumor with proportionately larger epithelial component) in 50% | occasionally endotumoral septations ← fibrotic component | iso- / slightly hypointense compared to breast parenchyma (for predominantly fibrotic"
+}

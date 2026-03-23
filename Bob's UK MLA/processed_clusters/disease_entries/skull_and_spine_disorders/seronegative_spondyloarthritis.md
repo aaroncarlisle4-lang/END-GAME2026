@@ -1,0 +1,52 @@
+# Disease: SERONEGATIVE SPONDYLOARTHRITIS
+
+**Source section:** SKULL AND SPINE DISORDERS
+
+## Definition
+
+SPONDYLOARTHROPATHY group of chronic inflammatory rheumatic diseases not associated with rheumatoid factor / ROMANUS LESION (ENTHESITIS) inflammation of attachment of annulus fibrosus to vertebral endplate (rim of endplate) ANDERSON LESION = RHEUMATIC SPONDYLODISKITIS noninfectious inflammation of intervertebral disk by spondyloarthritis spondyloarthropathy in patients on long-term hemodialysis of > 3 years duration
+
+## Key Facts
+
+- **Prevalence:** 0.5-1.9%
+- **Location:** predominantly axial skeleton (sacroiliac joints frequently first involved)
+- **Frequency:** 20% of patients on long-term hemodialysis
+- **Associated with:** amyloid arthropathy of hands + wrists
+
+## Imaging Findings
+
+### General
+
+- NO definite signs of sacroiliitis
+- parasyndesmophytes
+- sacroiliitis
+- calcaneal enthesitis
+- peripheral arthritis
+- irregularities / erosions involving edges of vertebral endplates (epiphyseal ring)
+- "shiny corners" = sclerotic changes of edges of vertebral endplates during chronic phase
+
+### MR
+
+- hypointense on T1WI + hyperintense on STIR (← bone marrow edema / osteitis during
+- hyperintense on T1WI (← postinflammatory fatty bone marrow degeneration during
+- irregularities / erosions of central portion of vertebral endplates (during late phase)
+- T1-hypointense + STIR-hyperintense disk signals involving one / both halves of adjacent
+- intervertebral disk space loss ± disc vacuum phenomenon
+- extensive marginated erosions of vertebral endplates and facet joints + cyst formation
+- NO / minimal osteophytosis
+- frequently subluxation + spondylolisthesis
+- mostly hypointense disk space on T2WI
+
+## Clinical
+
+- **Prognosis:** syndesmophytes + ankylosing spondylitis with longstanding disease
+- **Rx:** NSAID, TNF (tumor necrosis factor)-α inhibitors, intensive physical therapy
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

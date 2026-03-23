@@ -1,0 +1,52 @@
+{
+  "finding": "Hypoechoic Lesion of Prostate",
+  "slug": "hypoechoic_lesion_of_prostate",
+  "chapter": "PROSTATE",
+  "source_file": "processed_clusters/prostate/hypoechoic_lesion_of_prostate.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenocarcinoma  35%",
+      "raw": "Adenocarcinoma  35%",
+      "frequency": "35%"
+    },
+    {
+      "name": "Benign prostatic hyperplasia  18%",
+      "raw": "Benign prostatic hyperplasia  18%",
+      "frequency": "18%"
+    },
+    {
+      "name": "\"Normal\" prostatic tissue  18% (a)  cluster of prostate retention cysts (b)  prominent ejaculatory / other dilated duct (c)  external sphincter veins (d)  neurovascular bundle (e)  seminal vesicle (f)  sonographic artifact",
+      "raw": "\"Normal\" prostatic tissue  18% (a)  cluster of prostate retention cysts (b)  prominent ejaculatory / other dilated duct (c)  external sphincter veins (d)  neurovascular bundle (e)  seminal vesicle (f)  sonographic artifact",
+      "frequency": "18%"
+    },
+    {
+      "name": "Acute / chronic prostatitis  14%",
+      "raw": "Acute / chronic prostatitis  14%",
+      "frequency": "14%"
+    },
+    {
+      "name": "Granulomatous prostatitis  1% most frequently ← intravesical Calmette-Guérin bacillus (BCG) therapy for bladder cancer",
+      "raw": "Granulomatous prostatitis  1% most frequently ← intravesical Calmette-Guérin bacillus (BCG) therapy for bladder cancer",
+      "frequency": "1%"
+    },
+    {
+      "name": "Atrophy  10%",
+      "raw": "Atrophy  10%",
+      "frequency": "10%"
+    },
+    {
+      "name": "occurs in 70% of young healthy men ◊  May be confused with carcinoma histologically!",
+      "raw": "occurs in 70% of young healthy men ◊  May be confused with carcinoma histologically!",
+      "frequency": "70%"
+    },
+    {
+      "name": "Prostatic dysplasia  6%",
+      "raw": "Prostatic dysplasia  6%",
+      "frequency": "6%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  rarely originating in peripheral zone"
+}

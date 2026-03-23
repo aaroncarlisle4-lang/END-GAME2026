@@ -1,0 +1,87 @@
+{
+  "finding": "HERNIA",
+  "slug": "hernia",
+  "chapter": "HEMANGIOMA OF GASTROINTESTINAL TRACT",
+  "source_file": "processed_clusters/hemangioma_of_gastrointestinal_tract/hernia.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bowel obstruction",
+      "raw": "bowel obstruction",
+      "frequency": null
+    },
+    {
+      "name": "incarceration",
+      "raw": "incarceration (= irreducible hernia) [incarcerare, Latin = to imprison]",
+      "frequency": null
+    },
+    {
+      "name": "strangulation",
+      "raw": "strangulation (= constriction of blood flow) [ strangulare , Latin = to choke]",
+      "frequency": null
+    },
+    {
+      "name": "abdominal bulge ± Valsalva maneuver ◊  Look for multiple hernias (present in 18-22%)!",
+      "raw": "abdominal bulge ± Valsalva maneuver ◊  Look for multiple hernias (present in 18-22%)!",
+      "frequency": "22%"
+    },
+    {
+      "name": "Umbilical hernia (most common) =  usually small protrusion of abdominal contents / fat into anterior abdominal wall via umbilical ring",
+      "raw": "Umbilical hernia (most common) =  usually small protrusion of abdominal contents / fat into anterior abdominal wall via umbilical ring",
+      "frequency": "most common"
+    },
+    {
+      "name": "Periumbilical hernia",
+      "raw": "Periumbilical hernia",
+      "frequency": null
+    },
+    {
+      "name": "Epigastric / hypogastric hernia",
+      "raw": "Epigastric / hypogastric hernia",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative / incisional",
+      "raw": "Postoperative / incisional (0.5-14.0%, most common type)",
+      "frequency": "14.0%"
+    },
+    {
+      "name": "Parastomal hernia",
+      "raw": "Parastomal hernia",
+      "frequency": null
+    },
+    {
+      "name": "Trocar site hernia",
+      "raw": "Trocar site hernia",
+      "frequency": null
+    },
+    {
+      "name": "Spigelian hernia",
+      "raw": "Spigelian hernia [Adriaan van den Spiegel = Adrianus Spigelius (1578-1625) Flemish anatomist and botanist working in Padua, Italy]",
+      "frequency": null
+    },
+    {
+      "name": "Interparietal / interstitial =  hernia sac located in fascial plane between abdominal muscles NOT connected to",
+      "raw": "Interparietal / interstitial =  hernia sac located in fascial plane between abdominal muscles NOT connected to",
+      "frequency": null
+    },
+    {
+      "name": "Bochdalek hernia",
+      "raw": "Bochdalek hernia",
+      "frequency": null
+    },
+    {
+      "name": "Morgagni hernia @    Lumbar",
+      "raw": "Morgagni hernia @    Lumbar",
+      "frequency": null
+    },
+    {
+      "name": "Superior lumbar triangle (Grynfeltt-Lesshaft) [Joseph C. Grynfeltt (1840-1913), French surgeon",
+      "raw": "Superior lumbar triangle (Grynfeltt-Lesshaft) [Joseph C. Grynfeltt (1840-1913), French surgeon",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  ABDOMINAL HERNIA =  protrusion of an organ / fascia of an organ through the wall of the cavity that normally contains it Prevalence:   2nd most common cause (= 10%) of SBO Nomenclature:   according to anatomic site of its orifice Cx: External Hernia =  bowel extending outside the abdominal cavity Frequency:   95% of all hernias ◊  5% lifetime risk for spontaneous abdominal hernias Location: @    Ventral = Anterior abdominal wall hernia =  protrusion of part of peritoneal sac through defect in muscle layers of anterior abdominal wall Content:   fat, omentum, bowel √  small-bowel loops extend"
+}

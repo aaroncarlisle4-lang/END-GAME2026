@@ -1,0 +1,32 @@
+{
+  "finding": "Traumatic CSF Fistula",
+  "slug": "traumatic_csf_fistula",
+  "chapter": "CONDENSING OSTEITIS OF JAW",
+  "source_file": "processed_clusters/condensing_osteitis_of_jaw/traumatic_csf_fistula.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "traumatic leak: usually unilateral; onset within 48 hours after trauma, usually scanty;",
+      "raw": "traumatic leak: usually unilateral; onset within 48 hours after trauma, usually scanty;",
+      "frequency": null
+    },
+    {
+      "name": "nontraumatic leak: profuse flow; may persist for years",
+      "raw": "nontraumatic leak: profuse flow; may persist for years",
+      "frequency": null
+    },
+    {
+      "name": "anosmia",
+      "raw": "anosmia (in 78% of trauma cases) Location:  fractures through frontoethmoidal complex + middle cranial fossa (most commonly) Cx:   (1)   meningitis / encephalitis / brain abscess (in 25-50% of untreated cases)",
+      "frequency": "78%"
+    },
+    {
+      "name": "pneumocephalus",
+      "raw": "pneumocephalus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "resolves in 1 week"
+}

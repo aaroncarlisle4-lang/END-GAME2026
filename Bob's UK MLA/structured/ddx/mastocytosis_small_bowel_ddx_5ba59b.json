@@ -1,0 +1,22 @@
+{
+  "finding": "Mastocytosis — Small bowel (DDx)",
+  "slug": "mastocytosis_small_bowel_ddx_5ba59b",
+  "chapter": "Mastocytosis",
+  "source_file": "processed_clusters/mastocytosis/mastocytosis_small_bowel_ddx_5ba59b.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "carcinoid",
+      "raw": "carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "pheochromocytoma",
+      "raw": "pheochromocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "diffuse irregular thickening of distorted folds | generalized 2-3-mm sandlike mucosal nodules ← infiltration by mast cells, lymphocytes, | urticaria-like lesions of gastric + intestinal mucosa"
+}

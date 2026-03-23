@@ -1,0 +1,37 @@
+{
+  "finding": "Gastrointestinal Stromal Tumor — Stomach (DDx)",
+  "slug": "gastrointestinal_stromal_tumor_stomach_ddx_dc7979",
+  "chapter": "Gastrointestinal Stromal Tumor",
+  "source_file": "processed_clusters/gastrointestinal_stromal_tumor/gastrointestinal_stromal_tumor_stomach_ddx_dc7979.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "leiomyoma",
+      "raw": "leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "leiomyosarcoma",
+      "raw": "leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "schwannoma",
+      "raw": "schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "neurofibroma",
+      "raw": "neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "carcinoid",
+      "raw": "carcinoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "solid tumor portion hypointense on T1WI + intermediate intense to hyperintense on | heterogeneous enhancement of large tumors ← central necrosis + cavitation | tumoral hemorrhage varies from high to low SI on T1WI + T2WI depending on age | high sensitivity for detection unless extensively necrotic"
+}

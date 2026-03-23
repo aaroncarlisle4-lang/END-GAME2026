@@ -1,0 +1,47 @@
+{
+  "finding": "Fibrous Breast Lesion",
+  "slug": "fibrous_breast_lesion",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/fibrous_breast_lesion.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibroadenoma",
+      "raw": "Fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Phyllodes tumor",
+      "raw": "Phyllodes tumor",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing lobular hyperplasia",
+      "raw": "Sclerosing lobular hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoangiomatous stromal hyperplasia",
+      "raw": "Pseudoangiomatous stromal hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Diabetic mastopathy",
+      "raw": "Diabetic mastopathy",
+      "frequency": null
+    },
+    {
+      "name": "Focal fibrosis",
+      "raw": "Focal fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis",
+      "raw": "Fibromatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

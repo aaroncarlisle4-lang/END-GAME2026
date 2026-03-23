@@ -1,0 +1,187 @@
+{
+  "finding": "Roentgenographic Signs in Malabsorption",
+  "slug": "roentgenographic_signs_in_malabsorption_87a460",
+  "chapter": "B. HYPERTROPHIED GASTRIC RUGAE",
+  "source_file": "processed_clusters/b_hypertrophied_gastric_rugae/roentgenographic_signs_in_malabsorption_87a460.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Maldigestion",
+      "raw": "Maldigestion (deficiency of bile salt / pancreatic enzymes)",
+      "frequency": null
+    },
+    {
+      "name": "Gastric surgery",
+      "raw": "Gastric surgery",
+      "frequency": null
+    },
+    {
+      "name": "Alactasia",
+      "raw": "Alactasia",
+      "frequency": null
+    },
+    {
+      "name": "Sprue",
+      "raw": "Sprue",
+      "frequency": null
+    },
+    {
+      "name": "Dermatitis herpetiformis",
+      "raw": "Dermatitis herpetiformis",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Dermatomyositis",
+      "raw": "Dermatomyositis",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoobstruction: no peristaltic activity",
+      "raw": "Pseudoobstruction: no peristaltic activity",
+      "frequency": null
+    },
+    {
+      "name": "Sprue",
+      "raw": "Sprue",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Blind loop",
+      "raw": "Blind loop",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis: malabsorption is unusual",
+      "raw": "Amyloidosis: malabsorption is unusual",
+      "frequency": null
+    },
+    {
+      "name": "Radiation",
+      "raw": "Radiation",
+      "frequency": null
+    },
+    {
+      "name": "Ischemia",
+      "raw": "Ischemia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Macroglobulinemia",
+      "raw": "Macroglobulinemia (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Zollinger-Ellison syndrome",
+      "raw": "Zollinger-Ellison syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Abetalipoproteinemia: rare inherited disease characterized by CNS damage, retinal abnormalities, steatorrhea, acanthocytosis",
+      "raw": "Abetalipoproteinemia: rare inherited disease characterized by CNS damage, retinal abnormalities, steatorrhea, acanthocytosis",
+      "frequency": "rare"
+    },
+    {
+      "name": "Lymphoid hyperplasia",
+      "raw": "Lymphoid hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Whipple disease",
+      "raw": "Whipple disease",
+      "frequency": null
+    },
+    {
+      "name": "Mastocytosis",
+      "raw": "Mastocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiectasia",
+      "raw": "Lymphangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Giardiasis",
+      "raw": "Giardiasis",
+      "frequency": null
+    },
+    {
+      "name": "Whipple disease",
+      "raw": "Whipple disease (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Whipple disease",
+      "raw": "Whipple disease",
+      "frequency": null
+    },
+    {
+      "name": "Intestinal lymphangiectasia",
+      "raw": "Intestinal lymphangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytosis",
+      "raw": "Histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Mastocytosis",
+      "raw": "Mastocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma, Lymph node hyperplasia",
+      "raw": "Lymphoma, Lymph node hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Edema",
+      "raw": "Edema",
+      "frequency": null
+    },
+    {
+      "name": "Blood",
+      "raw": "Blood",
+      "frequency": null
+    },
+    {
+      "name": "Giardiasis",
+      "raw": "Giardiasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  SMALL BOWEL WITH NORMAL FOLDS + FLUID √  SMALL BOWEL WITH NORMAL FOLDS + WET √  DILATED DRY SMALL BOWEL √  DILATED WET SMALL BOWEL √  THICKENED STRAIGHT FOLDS + DRY SMALL BOWEL √  THICKENED STRAIGHT FOLDS + WET SMALL BOWEL √  THICKENED NODULAR IRREGULAR FOLDS + DRY SMALL BOWEL √  THICKENED NODULAR IRREGULAR FOLDS + WET SMALL BOWEL Small Bowel Nodularity with Malabsorption mnemonic:   What Is His Main Aim? Lay Eggs, By God"
+}

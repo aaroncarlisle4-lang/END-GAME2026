@@ -1,0 +1,32 @@
+{
+  "finding": "Psammoma Bodies in Tumor",
+  "slug": "psammoma_bodies_in_tumor",
+  "chapter": "E. LITHOPEDION",
+  "source_file": "processed_clusters/e_lithopedion/psammoma_bodies_in_tumor.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Papillary serous cystadenoma / cystadenocarcinoma",
+      "raw": "Papillary serous cystadenoma / cystadenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mucinous carcinoma of colon",
+      "raw": "Mucinous carcinoma of colon",
+      "frequency": null
+    },
+    {
+      "name": "Papillary thyroid cancer",
+      "raw": "Papillary thyroid cancer",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

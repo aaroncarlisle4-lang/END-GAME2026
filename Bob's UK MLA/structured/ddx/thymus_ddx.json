@@ -1,0 +1,25 @@
+{
+  "finding": "Thymus (DDx)",
+  "slug": "thymus_ddx",
+  "chapter": "Thymus",
+  "source_file": "processed_clusters/thymus/thymus_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "mediastinal mass [upper lobe pneumonia]",
+      "raw": "mediastinal mass",
+      "frequency": null,
+      "sites": [
+        "upper lobe pneumonia"
+      ]
+    },
+    {
+      "name": "atelectasis",
+      "raw": "atelectasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"notch\" sign = indentation at junction of thymus + heart | \"sail\" sign (5%) = triangular slightly right-convex density extending from superior | \"wave\" sign = rippled / undulated / scalloped / wavy lateral border due to indentation by | shape changes with respiration + position"
+}

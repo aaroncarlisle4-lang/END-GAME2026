@@ -1,0 +1,27 @@
+{
+  "finding": "Irregular Flow Pattern in Hepatic Veins",
+  "slug": "irregular_flow_pattern_in_hepatic_veins",
+  "chapter": "LIVER CIRCULATION",
+  "source_file": "processed_clusters/liver_circulation/irregular_flow_pattern_in_hepatic_veins.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Arrhythmia",
+      "raw": "Arrhythmia",
+      "frequency": null
+    },
+    {
+      "name": "Turbulent blood flow",
+      "raw": "Turbulent blood flow",
+      "frequency": null
+    },
+    {
+      "name": "Technical / patient factors: sedated patient, mechanical ventilation, SOB",
+      "raw": "Technical / patient factors: sedated patient, mechanical ventilation, SOB",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

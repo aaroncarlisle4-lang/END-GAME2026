@@ -1,0 +1,22 @@
+{
+  "finding": "Mucinous Ovarian Tumor (DDx)",
+  "slug": "mucinous_ovarian_tumor_ddx_5b3c57",
+  "chapter": "Mucinous Ovarian Tumor",
+  "source_file": "processed_clusters/mucinous_ovarian_tumor/mucinous_ovarian_tumor_ddx_5b3c57.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "serous ovarian tumor (smaller",
+      "raw": "serous ovarian tumor (smaller",
+      "frequency": null
+    },
+    {
+      "name": "unilocular)",
+      "raw": "unilocular)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

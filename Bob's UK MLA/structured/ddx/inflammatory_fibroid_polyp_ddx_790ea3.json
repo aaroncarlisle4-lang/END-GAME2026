@@ -1,0 +1,32 @@
+{
+  "finding": "Inflammatory Fibroid Polyp (DDx)",
+  "slug": "inflammatory_fibroid_polyp_ddx_790ea3",
+  "chapter": "Inflammatory Fibroid Polyp",
+  "source_file": "processed_clusters/inflammatory_fibroid_polyp/inflammatory_fibroid_polyp_ddx_790ea3.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "adenomatous polyp",
+      "raw": "adenomatous polyp",
+      "frequency": null
+    },
+    {
+      "name": "intraluminal GIST",
+      "raw": "intraluminal GIST",
+      "frequency": null
+    },
+    {
+      "name": "carcinoid tumor",
+      "raw": "carcinoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "schwannoma",
+      "raw": "schwannoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intraluminal subepithelial polypoid mass / pedunculated polyp with smooth / slightly"
+}

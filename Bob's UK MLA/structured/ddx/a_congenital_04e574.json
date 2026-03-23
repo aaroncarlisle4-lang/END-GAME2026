@@ -1,0 +1,42 @@
+{
+  "finding": "A. Congenital",
+  "slug": "a_congenital_04e574",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/a_congenital_04e574.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Occipitalization of atlas 0.75% of population; fusion of basion + anterior arch of atlas",
+      "raw": "Occipitalization of atlas 0.75% of population; fusion of basion + anterior arch of atlas",
+      "frequency": "0.75%"
+    },
+    {
+      "name": "Congenital insufficiency of transverse ligament",
+      "raw": "Congenital insufficiency of transverse ligament",
+      "frequency": null
+    },
+    {
+      "name": "Os odontoideum / aplasia of dens",
+      "raw": "Os odontoideum / aplasia of dens",
+      "frequency": null
+    },
+    {
+      "name": "Down syndrome",
+      "raw": "Down syndrome (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Morquio syndrome",
+      "raw": "Morquio syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Bone dysplasia",
+      "raw": "Bone dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

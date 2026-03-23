@@ -1,0 +1,82 @@
+{
+  "finding": "JOINTS",
+  "slug": "joints_eb0dd0",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/joints_eb0dd0.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Alignment",
+      "raw": "Alignment",
+      "frequency": null
+    },
+    {
+      "name": "Bone mineralization",
+      "raw": "Bone mineralization",
+      "frequency": null
+    },
+    {
+      "name": "Cartilage loss",
+      "raw": "Cartilage loss",
+      "frequency": null
+    },
+    {
+      "name": "Distribution",
+      "raw": "Distribution",
+      "frequency": null
+    },
+    {
+      "name": "Erosion",
+      "raw": "Erosion",
+      "frequency": null
+    },
+    {
+      "name": "Soft tissues",
+      "raw": "Soft tissues",
+      "frequency": null
+    },
+    {
+      "name": "Signs of Arthritis",
+      "raw": "Signs of Arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Prevalence of arthritis:   15% of population in USA",
+      "raw": "Prevalence of arthritis:   15% of population in USA",
+      "frequency": "15%"
+    },
+    {
+      "name": "SEPTIC ARTHRITIS",
+      "raw": "SEPTIC ARTHRITIS",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous",
+      "raw": "Tuberculous",
+      "frequency": null
+    },
+    {
+      "name": "Pyogenic",
+      "raw": "Pyogenic",
+      "frequency": null
+    },
+    {
+      "name": "Lyme arthritis",
+      "raw": "Lyme arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Fungal arthritis: Candida, Coccidioides immitis, Blastomyces dermatitidis, Histoplasma capsulatum, Sporothrix schenckii, Cryptococcus neoformans, Aspergillus fumigatus N.B.:   Tuberculous + fungal arthritis show Phemister triad (1) prominent osteoporosis,",
+      "raw": "Fungal arthritis: Candida, Coccidioides immitis, Blastomyces dermatitidis, Histoplasma capsulatum, Sporothrix schenckii, Cryptococcus neoformans, Aspergillus fumigatus N.B.:   Tuberculous + fungal arthritis show Phemister triad (1) prominent osteoporosis,",
+      "frequency": null
+    },
+    {
+      "name": "slower rate of destruction, and (3) less joint narrowing than a pyogenic infection",
+      "raw": "slower rate of destruction, and (3) less joint narrowing than a pyogenic infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Approach to Arthritis mnemonic:   ABCDE'S Conventional x-ray: √  narrowing of radiologic joint space: (a)  uniform = inflammatory arthritis (b)  nonuniform = degenerative arthritis √  evidence of disease on both sides of joint: √  osteopenia √  subchondral sclerosis √  erosion √  subchondral cyst formation √  malalignment √  joint effusion √  joint bodies NUC: √  increase in regional blood flow (active disease) √  distribution of disease MR: √  bone marrow edema = predictor of erosions √  Gd-DTPA enhancement of synovium (active disease) √  radiographically occult extraarticular inflammation ="
+}

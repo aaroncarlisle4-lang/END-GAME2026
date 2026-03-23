@@ -1,0 +1,32 @@
+{
+  "finding": "A. INCREASED",
+  "slug": "a_increased_25db22",
+  "chapter": "STOMACH",
+  "source_file": "processed_clusters/stomach/a_increased_25db22.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vagal stimulation",
+      "raw": "Vagal stimulation",
+      "frequency": null
+    },
+    {
+      "name": "Acetylcholine",
+      "raw": "Acetylcholine",
+      "frequency": null
+    },
+    {
+      "name": "Anticholinesterase",
+      "raw": "Anticholinesterase (eg, neostigmine)",
+      "frequency": null
+    },
+    {
+      "name": "Cholecystokinin",
+      "raw": "Cholecystokinin",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

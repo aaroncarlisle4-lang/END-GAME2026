@@ -1,0 +1,27 @@
+{
+  "finding": "Physeal / Metaphyseal Widening & Irregularity",
+  "slug": "physeal_metaphyseal_widening_irregularity_cf2788",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/physeal_metaphyseal_widening_irregularity_cf2788.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rickets",
+      "raw": "Rickets",
+      "frequency": null
+    },
+    {
+      "name": "Hypophosphatasia",
+      "raw": "Hypophosphatasia",
+      "frequency": null
+    },
+    {
+      "name": "Metaphyseal chondroplasia",
+      "raw": "Metaphyseal chondroplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

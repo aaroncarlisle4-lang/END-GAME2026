@@ -1,0 +1,27 @@
+{
+  "finding": "High-density Ascites",
+  "slug": "high_density_ascites",
+  "chapter": "C. INGESTED FOREIGN BODIES",
+  "source_file": "processed_clusters/c_ingested_foreign_bodies/high_density_ascites.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis: 20-45 HU; may be lower",
+      "raw": "Tuberculosis: 20-45 HU; may be lower",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian tumor",
+      "raw": "Ovarian tumor",
+      "frequency": null
+    },
+    {
+      "name": "Appendiceal tumor",
+      "raw": "Appendiceal tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

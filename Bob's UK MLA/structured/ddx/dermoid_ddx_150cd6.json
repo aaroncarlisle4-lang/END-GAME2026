@@ -1,0 +1,32 @@
+{
+  "finding": "Dermoid (DDx)",
+  "slug": "dermoid_ddx_150cd6",
+  "chapter": "Dermoid",
+  "source_file": "processed_clusters/dermoid/dermoid_ddx_150cd6.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "tuboovarian abscess",
+      "raw": "tuboovarian abscess",
+      "frequency": null
+    },
+    {
+      "name": "acute hemorrhagic cyst",
+      "raw": "acute hemorrhagic cyst",
+      "frequency": null
+    },
+    {
+      "name": "atypical endometrioma",
+      "raw": "atypical endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "bowel gas",
+      "raw": "bowel gas",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "opposed-phase GRE image: | dependent fluid still hypointense compared with muscle | slightly hypointense compared with surrounding fat | thin black outline at interface between water and fat ← phase cancellation of water +"
+}

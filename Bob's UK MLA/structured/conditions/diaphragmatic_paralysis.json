@@ -1,0 +1,34 @@
+{
+  "name": "DIAPHRAGMATIC PARALYSIS",
+  "slug": "diaphragmatic_paralysis",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/diaphragmatic_paralysis.md",
+  "definition": "absent orthograde diaphragmatic excursion on quiet deep breathing with paradoxical motion on",
+  "demographics": {},
+  "dominant_finding": "elevation of one hemidiaphragm on CXR (not sensitive or specific)",
+  "distribution": "",
+  "discriminating_features": [
+    "elevation of one hemidiaphragm on CXR (not sensitive or specific)",
+    "evaluate comparative movement of domes, excursion of individual dome, and shift of",
+    "sniff test:",
+    "both normal hemidiaphragms move downward",
+    "reduced excursion of weakened hemidiaphragm"
+  ],
+  "other_features": {
+    "general": [
+      "elevation of one hemidiaphragm on CXR (not sensitive or specific)"
+    ],
+    "FLUOROSCOPY": [
+      "evaluate comparative movement of domes, excursion of individual dome, and shift of",
+      "sniff test:",
+      "both normal hemidiaphragms move downward",
+      "reduced excursion of weakened hemidiaphragm",
+      "absent / paradoxical motion (= elevation during inspiration and vice versa) of",
+      "diaphragm moves toward transducer during inspiration by < 4 mm",
+      "> 50% difference in excursion between domes"
+    ]
+  },
+  "clinical": {
+    "Cx": "pneumonia, atelectasis, pulmonary collapse"
+  }
+}

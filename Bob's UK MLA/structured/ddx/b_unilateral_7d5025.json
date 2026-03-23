@@ -1,0 +1,47 @@
+{
+  "finding": "B. UNILATERAL",
+  "slug": "b_unilateral_7d5025",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/b_unilateral_7d5025.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trauma / surgery / radiation therapy",
+      "raw": "Trauma / surgery / radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation with disorganization of eye",
+      "raw": "Inflammation with disorganization of eye (phthisis bulbi)",
+      "frequency": null
+    },
+    {
+      "name": "WITHOUT INTRAOCULAR MASS (a)  generalized enlargement",
+      "raw": "WITHOUT INTRAOCULAR MASS (a)  generalized enlargement",
+      "frequency": null
+    },
+    {
+      "name": "Axial myopia",
+      "raw": "Axial myopia (most common cause)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Buphthalmos",
+      "raw": "Buphthalmos",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile glaucoma",
+      "raw": "Juvenile glaucoma",
+      "frequency": null
+    },
+    {
+      "name": "Connective tissue disorder:",
+      "raw": "Connective tissue disorder:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  shrunken calcified globe + normal orbit Macrophthalmia =  enlargement of globe √  enlargement of globe in AP direction √  ± thinning of sclera"
+}

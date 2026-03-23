@@ -1,0 +1,35 @@
+{
+  "finding": "Cystic Mass in Cerebellar Hemisphere",
+  "slug": "cystic_mass_in_cerebellar_hemisphere",
+  "chapter": "D. PREDOMINANTLY MIDBRAIN",
+  "source_file": "processed_clusters/d_predominantly_midbrain/cystic_mass_in_cerebellar_hemisphere.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioblastoma",
+      "raw": "Hemangioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Cerebellar astrocytoma",
+      "raw": "Cerebellar astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis [Lateral medulloblastoma]",
+      "raw": "Metastasis",
+      "frequency": null,
+      "sites": [
+        "Lateral medulloblastoma"
+      ]
+    },
+    {
+      "name": "Choroid plexus papilloma with lateral extension",
+      "raw": "Choroid plexus papilloma with lateral extension",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

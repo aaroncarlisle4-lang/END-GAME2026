@@ -1,0 +1,37 @@
+{
+  "name": "CANAVAN DISEASE",
+  "slug": "canavan_disease",
+  "chapter": "NERVOUS SYSTEM DISORDERS",
+  "source_file": "processed_clusters/disease_entries/nervous_system_disorders/canavan_disease.md",
+  "definition": "SPONGIFORM LEUKODYSTROPHY rare form of leukodystrophy as an autosomal recessive disorder, most common in Ashkenazi",
+  "demographics": {
+    "Incidence": "< 100 reported cases",
+    "Histo": "spongy degeneration of white matter with astrocytic swelling + mitochondrial",
+    "Age": "3-6 months"
+  },
+  "dominant_finding": "low-density white matter",
+  "distribution": "diffuse symmetric white matter abnormality",
+  "discriminating_features": [
+    "diffuse symmetric white matter abnormality",
+    "may involve basal ganglia",
+    "cortical atrophy",
+    "low-density white matter",
+    "white matter hypointense on T1WI + hyperintense on T2WI"
+  ],
+  "other_features": {
+    "general": [
+      "diffuse symmetric white matter abnormality",
+      "may involve basal ganglia",
+      "cortical atrophy"
+    ],
+    "CT": [
+      "low-density white matter"
+    ],
+    "MR": [
+      "white matter hypointense on T1WI + hyperintense on T2WI"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death in 2nd-5th year of life"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Williams Syndrome",
+  "slug": "williams_syndrome_0b2728",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/williams_syndrome_0b2728.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "peculiar elfinlike facies, mental + physical retardation",
+      "raw": "peculiar elfinlike facies, mental + physical retardation",
+      "frequency": null
+    },
+    {
+      "name": "hypercalcemia",
+      "raw": "hypercalcemia (not in all patients)",
+      "frequency": null
+    },
+    {
+      "name": "Supravalvular aortic stenosis",
+      "raw": "Supravalvular aortic stenosis (33%)",
+      "frequency": "33%"
+    },
+    {
+      "name": "ASD, VSD",
+      "raw": "ASD, VSD",
+      "frequency": null
+    },
+    {
+      "name": "Valvular + peripheral pulmonary artery stenosis",
+      "raw": "Valvular + peripheral pulmonary artery stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Aortic hypoplasia, stenoses of more peripheral arteries",
+      "raw": "Aortic hypoplasia, stenoses of more peripheral arteries",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  IDIOPATHIC HYPERCALCEMIA"
+}

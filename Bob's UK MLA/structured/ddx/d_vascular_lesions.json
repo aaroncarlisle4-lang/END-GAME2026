@@ -1,0 +1,27 @@
+{
+  "finding": "D. VASCULAR LESIONS",
+  "slug": "d_vascular_lesions",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/d_vascular_lesions.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aneurysm of transverse aorta",
+      "raw": "Aneurysm of transverse aorta",
+      "frequency": null
+    },
+    {
+      "name": "Distended veins: SVC, azygos vein",
+      "raw": "Distended veins: SVC, azygos vein",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Comb Sign",
+  "slug": "comb_sign",
+  "chapter": "E. OTHER",
+  "source_file": "processed_clusters/e_other/comb_sign.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Crohn disease",
+      "raw": "Crohn disease",
+      "frequency": null
+    },
+    {
+      "name": "Ulcerative colitis",
+      "raw": "Ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "Vasculitis: Lupus, polyarteritis nodosa, Behçet disease, Henoch-Schönlein syndrome, microscopic polyangiitis",
+      "raw": "Vasculitis: Lupus, polyarteritis nodosa, Behçet disease, Henoch-Schönlein syndrome, microscopic polyangiitis",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric thromboembolism",
+      "raw": "Mesenteric thromboembolism",
+      "frequency": null
+    },
+    {
+      "name": "Strangulated bowel obstruction",
+      "raw": "Strangulated bowel obstruction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  vascular dilatation of vasa recta + interconnected arterial arcades aligned as the teeth of a comb √  multiple tubular tortuous opacities on mesenteric side of ileum"
+}

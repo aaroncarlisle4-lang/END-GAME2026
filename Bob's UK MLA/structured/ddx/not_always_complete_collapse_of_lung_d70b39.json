@@ -1,0 +1,52 @@
+{
+  "finding": "NOT always complete collapse of lung",
+  "slug": "not_always_complete_collapse_of_lung_d70b39",
+  "chapter": "MEDIASTINUM",
+  "source_file": "processed_clusters/mediastinum/not_always_complete_collapse_of_lung_d70b39.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Large diaphragmatic hernia:",
+      "raw": "Large diaphragmatic hernia:",
+      "frequency": null
+    },
+    {
+      "name": "Large pleural mass",
+      "raw": "Large pleural mass",
+      "frequency": null
+    },
+    {
+      "name": "Partial absence of pericardium / pectus excavatum",
+      "raw": "Partial absence of pericardium / pectus excavatum",
+      "frequency": null
+    },
+    {
+      "name": "INTRATHORACIC",
+      "raw": "INTRATHORACIC",
+      "frequency": null
+    },
+    {
+      "name": "Trachea, major bronchi: blunt chest trauma",
+      "raw": "Trachea, major bronchi: blunt chest trauma",
+      "frequency": null
+    },
+    {
+      "name": "Esophagus",
+      "raw": "Esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Lung (a)  narrowed / plugged airways (most common) = air trapping in small airways as in asthma (b)  straining against closed glottis: vomiting, parturition, weight-lifting (c)  blunt / penetrating chest trauma (d)  alveolar rupture",
+      "raw": "Lung (a)  narrowed / plugged airways (most common) = air trapping in small airways as in asthma (b)  straining against closed glottis: vomiting, parturition, weight-lifting (c)  blunt / penetrating chest trauma (d)  alveolar rupture",
+      "frequency": "most common"
+    },
+    {
+      "name": "Pleural space",
+      "raw": "Pleural space",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "usually detected in neonatal period √  shift of heart WITHOUT shift of trachea / aorta / mediastinal border Pneumomediastinum =  free air around mediastinal structures Frequency:   in 1% of patients with pneumothorax Source of air:"
+}

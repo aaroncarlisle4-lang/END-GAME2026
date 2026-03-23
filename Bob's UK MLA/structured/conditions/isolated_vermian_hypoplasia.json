@@ -1,0 +1,25 @@
+{
+  "name": "ISOLATED VERMIAN HYPOPLASIA",
+  "slug": "isolated_vermian_hypoplasia",
+  "chapter": "INTRAVENTRICULAR NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/intraventricular_neurocytoma/isolated_vermian_hypoplasia.md",
+  "definition": "DANDY-WALKER VARIANT (nonpreferred term)",
+  "demographics": {
+    "Genetics": "usually no recurrence risk"
+  },
+  "dominant_finding": "partial absence of inferior vermis (best on midsagittal image)",
+  "distribution": "partial absence of inferior vermis (best on midsagittal image)",
+  "discriminating_features": [
+    "partial absence of inferior vermis (best on midsagittal image)",
+    "remainder of vermis + cerebellar hemispheres + 4th ventricle + posterior fossa of normal size"
+  ],
+  "other_features": {
+    "general": [
+      "partial absence of inferior vermis (best on midsagittal image)",
+      "remainder of vermis + cerebellar hemispheres + 4th ventricle + posterior fossa of normal size"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "favorable outcome in 75%"
+  }
+}

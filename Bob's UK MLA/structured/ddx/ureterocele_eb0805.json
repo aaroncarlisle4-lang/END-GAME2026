@@ -1,0 +1,45 @@
+{
+  "finding": "URETEROCELE",
+  "slug": "ureterocele_eb0805",
+  "chapter": "URACHAL ANOMALIES",
+  "source_file": "processed_clusters/urachal_anomalies/ureterocele_eb0805.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pyelocaliceal dilatation",
+      "raw": "Pyelocaliceal dilatation",
+      "frequency": null
+    },
+    {
+      "name": "Prolapse into bladder neck / urethra → obstruction",
+      "raw": "Prolapse into bladder neck / urethra → obstruction (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Wall thickening ← edema from impacted stone / infection",
+      "raw": "Wall thickening ← edema from impacted stone / infection",
+      "frequency": null
+    },
+    {
+      "name": "hypoplastic / absent ipsilateral trigone",
+      "raw": "hypoplastic / absent ipsilateral trigone",
+      "frequency": null
+    },
+    {
+      "name": "Bladder outlet obstruction ← ectopic ureterocele prolapsing into bladder neck / urethra [Contralateral ureteral obstruction]",
+      "raw": "Bladder outlet obstruction ← ectopic ureterocele prolapsing into bladder neck / urethra",
+      "frequency": null,
+      "sites": [
+        "Contralateral ureteral obstruction"
+      ]
+    },
+    {
+      "name": "Multicystic dysplastic kidney",
+      "raw": "Multicystic dysplastic kidney (the further the orifice from normal site of insertion, the more dysplastic the kidney!)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  bulbous dilatation / cystic ectasia of subepithelial segment of intravesical ureter Prevalence:   1÷5,000 to 1÷12,000 children IVP: √  early filling of bulbous terminal ureter (\"cobra head / spring onion\" sign) projecting into urinary bladder √  surrounded by a thin radiolucent halo (= combined thickness of ureteral wall + prolapsed bladder mucosa) VCUG: √  round / oval lucent defect near trigone √  effacement with increased bladder distension √  ± eversion during voiding Simple Ureterocele =  ORTHOTOPIC URETEROCELE =  congenital prolapse of dilated distal ureter + orifice into bladder lume"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "THYMIC CYST",
+  "slug": "thymic_cyst",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/thymic_cyst.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "very uncommon lesion; 1-2% of mediastinal masses",
+    "Age": "⅔ in 1st decade; ⅓ in 2nd + 3rd decades; M > F",
+    "Path": "unilocular thin-walled cyst with thymic tissue",
+    "Histo": "squamous / cuboidal / respiratory epithelium in cyst wall; lobulated lymphoid tissue in"
+  },
+  "dominant_finding": "typically anechoic",
+  "distribution": "",
+  "discriminating_features": [
+    "unilocular cyst with thin walls containing clear fluid / multilocular cyst with thick walls",
+    "direct extension / fibrous cord along migratory tract of thymic tissue into mediastinum in 50%:",
+    "may show partial wall calcification (rare)",
+    "low-density fluid (0-10 HU), may be higher depending on cyst contents",
+    "typically anechoic"
+  ],
+  "other_features": {
+    "general": [
+      "unilocular cyst with thin walls containing clear fluid / multilocular cyst with thick walls",
+      "direct extension / fibrous cord along migratory tract of thymic tissue into mediastinum in 50%:",
+      "may show partial wall calcification (rare)",
+      "low-density fluid (0-10 HU), may be higher depending on cyst contents"
+    ],
+    "US": [
+      "typically anechoic"
+    ]
+  },
+  "clinical": {}
+}

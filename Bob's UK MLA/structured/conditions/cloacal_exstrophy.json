@@ -1,0 +1,27 @@
+{
+  "name": "CLOACAL EXSTROPHY",
+  "slug": "cloacal_exstrophy",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/cloacal_exstrophy.md",
+  "definition": "exstrophy of all structures forming cloaca (rectum, bladder, lower GU tract) similar to",
+  "demographics": {
+    "Prevalence": "1÷200,000-400,000 live births; M < F"
+  },
+  "dominant_finding": "low abdominal wall defect",
+  "distribution": "omphalocele (initial observation) as craniad part of large complex anterior wall defect",
+  "discriminating_features": [
+    "low abdominal wall defect",
+    "absence of visible bladder",
+    "omphalocele (initial observation) as craniad part of large complex anterior wall defect",
+    "\"elephant trunk\" = bowel herniation between everted bladder halves"
+  ],
+  "other_features": {
+    "general": [
+      "low abdominal wall defect",
+      "absence of visible bladder",
+      "omphalocele (initial observation) as craniad part of large complex anterior wall defect",
+      "\"elephant trunk\" = bowel herniation between everted bladder halves"
+    ]
+  },
+  "clinical": {}
+}

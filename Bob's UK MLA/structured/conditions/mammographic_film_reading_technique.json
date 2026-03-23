@@ -1,0 +1,17 @@
+{
+  "name": "MAMMOGRAPHIC FILM READING TECHNIQUE",
+  "slug": "mammographic_film_reading_technique",
+  "chapter": "BREAST SKIN",
+  "source_file": "processed_clusters/disease_entries/breast_skin/mammographic_film_reading_technique.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "",
+  "distribution": "",
+  "discriminating_features": [],
+  "other_features": {
+    "general": []
+  },
+  "clinical": {
+    "Note": "magnification (requires ↑ in exposure time → ↑ likelihood of motion-related"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "D. HYPOTHYROIDISM",
+  "slug": "d_hypothyroidism_ea3935",
+  "chapter": "B. BLOCKED ORGANIFICATION",
+  "source_file": "processed_clusters/b_blocked_organification/d_hypothyroidism_ea3935.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital hypothyroidism",
+      "raw": "Congenital hypothyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Surgical / radioiodine ablation",
+      "raw": "Surgical / radioiodine ablation",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid ectopia",
+      "raw": "Thyroid ectopia (struma ovarii, intrathoracic goiter)",
+      "frequency": null
+    },
+    {
+      "name": "Hypothyroidism",
+      "raw": "Hypothyroidism (congenital)",
+      "frequency": null
+    },
+    {
+      "name": "Medications: PTU, perchlorate, Cytomel®, Synthroid®, Lugol solution",
+      "raw": "Medications: PTU, perchlorate, Cytomel®, Synthroid®, Lugol solution",
+      "frequency": null
+    },
+    {
+      "name": "Iodine overload",
+      "raw": "Iodine overload (eg, after IVP)",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid ablation",
+      "raw": "Thyroid ablation (surgery, radioiodine)",
+      "frequency": null
+    },
+    {
+      "name": "Thyroiditis",
+      "raw": "Thyroiditis (subacute / chronic)",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic thyroid hormone production",
+      "raw": "Ectopic thyroid hormone production",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

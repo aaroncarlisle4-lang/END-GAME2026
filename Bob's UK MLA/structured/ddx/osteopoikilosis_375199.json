@@ -1,0 +1,82 @@
+{
+  "finding": "OSTEOPOIKILOSIS",
+  "slug": "osteopoikilosis_375199",
+  "chapter": "OSTEOPATHIA STRIATA",
+  "source_file": "processed_clusters/osteopathia_striata/osteopoikilosis_375199.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dermatofibrosis lenticularis disseminata (Buschke-Ollendorff syndrome) = asymptomatic small flesh-colored to yellow dermal papules / coalescent plaques (in 25%) on buttocks, trunk, arms, skin folds",
+      "raw": "Dermatofibrosis lenticularis disseminata (Buschke-Ollendorff syndrome) = asymptomatic small flesh-colored to yellow dermal papules / coalescent plaques (in 25%) on buttocks, trunk, arms, skin folds",
+      "frequency": "25%"
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Keloid formation @   Bone abnormalities:",
+      "raw": "Keloid formation @   Bone abnormalities:",
+      "frequency": null
+    },
+    {
+      "name": "Melorheostosis",
+      "raw": "Melorheostosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteopathia striata",
+      "raw": "Osteopathia striata",
+      "frequency": null
+    },
+    {
+      "name": "Synovial chondromatosis",
+      "raw": "Synovial chondromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "commonly asymptomatic",
+      "raw": "commonly asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "mild articular pain + joint effusion",
+      "raw": "mild articular pain + joint effusion (15-20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "Epiphyseal dysplasia",
+      "raw": "Epiphyseal dysplasia (metaphyses normal)",
+      "frequency": null
+    },
+    {
+      "name": "Melorheostosis",
+      "raw": "Melorheostosis (diaphyseal involvement)",
+      "frequency": null
+    },
+    {
+      "name": "Mastocytosis",
+      "raw": "Mastocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberous sclerosis",
+      "raw": "Tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Osteoblastic metastases",
+      "raw": "Osteoblastic metastases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "[poikilos, Greek = mottled] =  OSTEOPATHIA CONDENSANS DISSEMINATA =  rare autosomal dominant sclerosing bone dysplasia ← disorder of endochondral ossification involving the secondary spongiosa characterized by multiple bone islands / enostoses Age:   no age predilection (may not develop until after childhood); M = F Histo:   hamartomatous foci of lamellar cortical bone within dense trabeculae of spongy bone / inner bone cortex = compact bone islands Genetics:   inactivating mutation in LEM domain-containing protein 3 gene (LEMD = protein that antagonizes transforming growth factor (TGF)-b and"
+}

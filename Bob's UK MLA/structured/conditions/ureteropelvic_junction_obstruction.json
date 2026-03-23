@@ -1,0 +1,46 @@
+{
+  "name": "URETEROPELVIC JUNCTION OBSTRUCTION",
+  "slug": "ureteropelvic_junction_obstruction",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/ureteropelvic_junction_obstruction.md",
+  "definition": "congenital partial functional / anatomic obstruction at junction of renal pelvis + proximal",
+  "demographics": {
+    "Prevalence": "1÷20,000 live births",
+    "Location": "left > right side; bilateral (10-20-40%)"
+  },
+  "dominant_finding": "anteroposterior diameter of renal pelvis ≥ 10 mm",
+  "distribution": "left > right side; bilateral (10-20-40%)",
+  "discriminating_features": [
+    "vessel to lower renal pole (in 25-39% of adult patients): anterior to UPJ (90-",
+    "hugely dilated largely extrarenal pelvis:",
+    "draped over lower pole vessel as inverted teardrop shape",
+    "proximal ureter hooking over lower pole vessel",
+    "variable degree of caliceal dilatation"
+  ],
+  "other_features": {
+    "general": [
+      "vessel to lower renal pole (in 25-39% of adult patients): anterior to UPJ (90-",
+      "hugely dilated largely extrarenal pelvis:",
+      "draped over lower pole vessel as inverted teardrop shape",
+      "proximal ureter hooking over lower pole vessel",
+      "variable degree of caliceal dilatation",
+      "NO dilatation of ureter",
+      "sharply defined narrowing at UPJ",
+      "pelvicaliectasis without ureterectasis",
+      "anterior rotation of pelvis",
+      "broad tangential sharply defined extrinsic compression (in arterial crossing)",
+      "longitudinal striae of redundant mucosa (in dehydrated state)",
+      "late changes: unilateral renal enlargement, diminished opacification, wasting of kidney",
+      "\"balloon-on-a-string\" sign:",
+      "caliceal crescents surrounding dilated collecting system",
+      "eccentric exit of ureter from dilated renal pelvis",
+      "accurate detection of crossing vessels (100% PPV) during late arterial phase"
+    ],
+    "NUC": [
+      "progressive enlargement of renal pelvis + branching infundibula + calices",
+      "anteroposterior diameter of renal pelvis ≥ 10 mm",
+      "large unilocular fluid collection (severely dilated collecting system)"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,35 @@
+{
+  "name": "INTESTINAL LYMPHANGIECTASIA",
+  "slug": "intestinal_lymphangiectasia",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/intestinal_lymphangiectasia.md",
+  "definition": "",
+  "demographics": {
+    "Age": "presentation before 30 years"
+  },
+  "dominant_finding": "micronodularity ← dilated lacteal vessels in submucosa + lamina propria",
+  "distribution": "marked irregular diffuse symmetric thickening of folds in jejunum + ileum ← dilated intestinal",
+  "discriminating_features": [
+    "marked irregular diffuse symmetric thickening of folds in jejunum + ileum ← dilated intestinal",
+    "micronodularity ← dilated lacteal vessels in submucosa + lamina propria",
+    "slight separation + rigidity of folds",
+    "dilution of barium column ← considerable increase in intestinal secretions from",
+    "no / mild dilatation of bowel"
+  ],
+  "other_features": {
+    "general": [
+      "marked irregular diffuse symmetric thickening of folds in jejunum + ileum ← dilated intestinal",
+      "micronodularity ← dilated lacteal vessels in submucosa + lamina propria",
+      "slight separation + rigidity of folds",
+      "dilution of barium column ← considerable increase in intestinal secretions from",
+      "no / mild dilatation of bowel",
+      "hypoplasia of lower extremity lymphatics",
+      "occlusion of thoracic duct / large tortuous thoracic duct",
+      "obstruction of cisterna chyli with backflow into mesenteric + intestinal lymphatics",
+      "hypoplastic lymph nodes"
+    ]
+  },
+  "clinical": {
+    "Rx": "low-fat diet with medium-chain triglycerides (direct absorption into portal venous system)"
+  }
+}

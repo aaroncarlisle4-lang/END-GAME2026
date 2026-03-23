@@ -1,0 +1,29 @@
+{
+  "name": "PROTEUS SYNDROME",
+  "slug": "proteus_syndrome",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/proteus_syndrome.md",
+  "definition": "cutaneous + visceral combined lymphatic-venous malformations with multiple subcutaneous",
+  "demographics": {
+    "Incidence": "> 200 cases"
+  },
+  "dominant_finding": "asymmetric overgrowth of bones + soft tissues",
+  "distribution": "",
+  "discriminating_features": [
+    "asymmetric overgrowth of bones + soft tissues",
+    "hypertrophy of fat",
+    "skull enlargement",
+    "wall thickening of digestive tract",
+    "cystic emphysematous changes of lung"
+  ],
+  "other_features": {
+    "general": [
+      "asymmetric overgrowth of bones + soft tissues",
+      "hypertrophy of fat",
+      "skull enlargement",
+      "wall thickening of digestive tract",
+      "cystic emphysematous changes of lung"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Eggshell Calcification of Nodes",
+  "slug": "eggshell_calcification_of_nodes_a86306",
+  "chapter": "C. DIAPHRAGM",
+  "source_file": "processed_clusters/c_diaphragm/eggshell_calcification_of_nodes_a86306.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "PNEUMOCONIOSIS",
+      "raw": "PNEUMOCONIOSIS",
+      "frequency": null
+    },
+    {
+      "name": "Silicosis",
+      "raw": "Silicosis (5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Coal worker's pneumoconiosis (1.3-6%) not seen in: asbestosis, berylliosis, talcosis, baritosis",
+      "raw": "Coal worker's pneumoconiosis (1.3-6%) not seen in: asbestosis, berylliosis, talcosis, baritosis",
+      "frequency": "6%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

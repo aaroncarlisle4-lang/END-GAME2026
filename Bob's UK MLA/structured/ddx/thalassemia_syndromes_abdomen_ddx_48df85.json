@@ -1,0 +1,27 @@
+{
+  "finding": "Thalassemia Syndromes — Abdomen: (DDx)",
+  "slug": "thalassemia_syndromes_abdomen_ddx_48df85",
+  "chapter": "Thalassemia Syndromes",
+  "source_file": "processed_clusters/thalassemia_syndromes/thalassemia_syndromes_abdomen_ddx_48df85.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "chronic anemia",
+      "raw": "chronic anemia",
+      "frequency": null
+    },
+    {
+      "name": "storage diseases",
+      "raw": "storage diseases",
+      "frequency": null
+    },
+    {
+      "name": "fibrous dysplasia",
+      "raw": "fibrous dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cortical erosion | rib-within-rib appearance | hepatosplenomegaly | gallstones"
+}

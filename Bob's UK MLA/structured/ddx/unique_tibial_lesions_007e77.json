@@ -1,0 +1,27 @@
+{
+  "finding": "Unique Tibial Lesions",
+  "slug": "unique_tibial_lesions_007e77",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/unique_tibial_lesions_007e77.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying fibroma",
+      "raw": "Ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Adamantinoma",
+      "raw": "Adamantinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,39 @@
+{
+  "finding": "Pelvic Inflammatory Disease (Pid) (DDx)",
+  "slug": "pelvic_inflammatory_disease_pid_ddx",
+  "chapter": "Pelvic Inflammatory Disease (Pid)",
+  "source_file": "processed_clusters/pelvic_inflammatory_disease_pid/pelvic_inflammatory_disease_pid_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "dilated uterine / ovarian vein",
+      "raw": "dilated uterine / ovarian vein",
+      "frequency": null
+    },
+    {
+      "name": "TOA",
+      "raw": "TOA",
+      "frequency": null
+    },
+    {
+      "name": "cystic ovarian neoplasm",
+      "raw": "cystic ovarian neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "endometrioma",
+      "raw": "endometrioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "dilated uterine / ovarian vein": [
+      "undulating / folded tubular structure in extraovarian location filled with sterile fluid / | \"kissing ovary\" sign = adhesions pull ovaries and tubes toward the midline | serpentine C- or S-shaped complex cystic solid adnexal mass ← encasement of ovary by"
+    ],
+    "TOA": [],
+    "cystic ovarian neoplasm": [],
+    "endometrioma": []
+  },
+  "context": "undulating / folded tubular structure in extraovarian location filled with sterile fluid / | \"kissing ovary\" sign = adhesions pull ovaries and tubes toward the midline | serpentine C- or S-shaped complex cystic solid adnexal mass ← encasement of ovary by"
+}

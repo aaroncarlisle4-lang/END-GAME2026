@@ -1,0 +1,35 @@
+{
+  "name": "DOUBLE AORTIC ARCH",
+  "slug": "double_aortic_arch",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/double_aortic_arch.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "55% of all vascular rings",
+    "Age": "usually detected in infancy"
+  },
+  "dominant_finding": "\"four-artery\" sign = each arch gives rise to 2 dorsal subclavian + 2 ventral carotid arteries",
+  "distribution": "trachea narrowed and displaced posteriorly with small anterior impression",
+  "discriminating_features": [
+    "two separate arches arise from single ascending aorta",
+    "each arch joins to form a common descending aorta",
+    "trachea in midline:",
+    "impressions may be present on both sides of trachea: usually R > L (in older children)",
+    "trachea narrowed and displaced posteriorly with small anterior impression"
+  ],
+  "other_features": {
+    "general": [
+      "two separate arches arise from single ascending aorta",
+      "each arch joins to form a common descending aorta",
+      "trachea in midline:",
+      "impressions may be present on both sides of trachea: usually R > L (in older children)",
+      "trachea narrowed and displaced posteriorly with small anterior impression",
+      "broad horizontal posterior indentation at the level of 3rd / 4th thoracic vertebra ← right arch",
+      "bilateral esophageal indentations with a reversed S-shaped configuration (= right"
+    ],
+    "CT": [
+      "\"four-artery\" sign = each arch gives rise to 2 dorsal subclavian + 2 ventral carotid arteries"
+    ]
+  },
+  "clinical": {}
+}

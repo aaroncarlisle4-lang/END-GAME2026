@@ -1,0 +1,82 @@
+{
+  "finding": "B. NONEPITHELIAL / MESENCHYMAL TUMORS (a) primary benign bladder tumor originating from › muscle",
+  "slug": "b_nonepithelial_mesenchymal_tumors_a_primary_benign_bladder_tumor_originating_fr_2cce91",
+  "chapter": "D. UNDERDISTENDED BLADDER",
+  "source_file": "processed_clusters/d_underdistended_bladder/b_nonepithelial_mesenchymal_tumors_a_primary_benign_bladder_tumor_originating_fr_2cce91.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Leiomyoma (0.43%) ◊  Most common nonepithelial tumor",
+      "raw": "Leiomyoma (0.43%) ◊  Most common nonepithelial tumor",
+      "frequency": "0.43%"
+    },
+    {
+      "name": "hematuria ← ulceration",
+      "raw": "hematuria ← ulceration",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyoma (rare) ›  nerve",
+      "raw": "Rhabdomyoma (rare) ›  nerve",
+      "frequency": "rare"
+    },
+    {
+      "name": "Neurofibroma / NF1 in 60%",
+      "raw": "Neurofibroma / NF1 in 60%",
+      "frequency": "60%"
+    },
+    {
+      "name": "Paraganglioma = pheochromocytoma (0.1%) ◊  1% of all pheochromocytomas",
+      "raw": "Paraganglioma = pheochromocytoma (0.1%) ◊  1% of all pheochromocytomas",
+      "frequency": "0.1%"
+    },
+    {
+      "name": "adrenergic attack in 50% during micturition",
+      "raw": "adrenergic attack in 50% during micturition (\"micturition attack\") or bladder filling (headaches, weakness)",
+      "frequency": "50%"
+    },
+    {
+      "name": "intermittent hypertension",
+      "raw": "intermittent hypertension",
+      "frequency": null
+    },
+    {
+      "name": "elevated catecholamine levels",
+      "raw": "elevated catecholamine levels",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma ›  fibrous tissue",
+      "raw": "Lipoma ›  fibrous tissue",
+      "frequency": null
+    },
+    {
+      "name": "Fibroma",
+      "raw": "Fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Solitary fibrous tumor ›  blood vessels",
+      "raw": "Solitary fibrous tumor ›  blood vessels",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma",
+      "raw": "Plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "Nephrogenic adenoma",
+      "raw": "Nephrogenic adenoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Age:   22-78 years; M÷F = 1÷1 Location:   arise in submucosa Site:   submucosal (7%) / intravesical (63%) / extravesical (30%) √  solid homogeneous mass √  smooth indentation of bladder wall √  intraluminal mass ± degeneration √  typically of low attenuation on CT √  hypointense mass on T1WI √  \"target\" sign on T2WI in plexiform neurofibroma= central hypointense fibrosis surrounded by hyperintense myxoid stroma Age:   10-78 years; M < F Origin:  paraganglia of bladder wall √  submucosal mass √  ring calcification around circumference √  marked enhancement (KEY FEATURE) N.B.:   biopsy may incit"
+}

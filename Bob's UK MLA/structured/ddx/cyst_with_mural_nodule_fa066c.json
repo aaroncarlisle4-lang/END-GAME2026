@@ -1,0 +1,42 @@
+{
+  "finding": "Cyst with Mural Nodule",
+  "slug": "cyst_with_mural_nodule_fa066c",
+  "chapter": "B. NEUROVASCULAR",
+  "source_file": "processed_clusters/b_neurovascular/cyst_with_mural_nodule_fa066c.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Pilocytic astrocytoma",
+      "raw": "Pilocytic astrocytoma (childhood)",
+      "frequency": null
+    },
+    {
+      "name": "Pleomorphic xanthoastrocytoma",
+      "raw": "Pleomorphic xanthoastrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioglioma",
+      "raw": "Ganglioglioma",
+      "frequency": null
+    },
+    {
+      "name": "Glioblastoma multiforme",
+      "raw": "Glioblastoma multiforme",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioblastoma",
+      "raw": "Hemangioblastoma (posterior fossa, spinal cord)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

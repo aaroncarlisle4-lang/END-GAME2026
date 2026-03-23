@@ -1,0 +1,42 @@
+{
+  "finding": "A. BENIGN TUMOR",
+  "slug": "a_benign_tumor_1_740bab",
+  "chapter": "FINGER",
+  "source_file": "processed_clusters/finger/a_benign_tumor_1_740bab.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid inclusion cyst",
+      "raw": "Epidermoid inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Reparative granuloma",
+      "raw": "Reparative granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Glomus tumor (rare) others:   aneurysmal bone cyst, brown tumor, hemophilic pseudotumor, solitary bone cyst, osteoblastoma",
+      "raw": "Glomus tumor (rare) others:   aneurysmal bone cyst, brown tumor, hemophilic pseudotumor, solitary bone cyst, osteoblastoma",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Left Atrial Mass",
+  "slug": "left_atrial_mass_f0136a",
+  "chapter": "C. MYOCARDIAL / INTRAMURAL",
+  "source_file": "processed_clusters/c_myocardial_intramural/left_atrial_mass_f0136a.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myxoma",
+      "raw": "Myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Thrombus",
+      "raw": "Thrombus",
+      "frequency": null
+    },
+    {
+      "name": "Septal lipoma",
+      "raw": "Septal lipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

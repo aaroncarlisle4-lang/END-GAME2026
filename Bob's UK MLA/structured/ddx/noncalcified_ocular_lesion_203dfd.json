@@ -1,0 +1,37 @@
+{
+  "finding": "Noncalcified Ocular Lesion",
+  "slug": "noncalcified_ocular_lesion_203dfd",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/noncalcified_ocular_lesion_203dfd.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Choroidal hemangioma",
+      "raw": "Choroidal hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Vitreous lymphoma",
+      "raw": "Vitreous lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Developmental anomalies (a)  Primary glaucoma = enlargement of eye ← narrowing of Schlemm canal (b)  Coloboma (c)  Staphyloma",
+      "raw": "Developmental anomalies (a)  Primary glaucoma = enlargement of eye ← narrowing of Schlemm canal (b)  Coloboma (c)  Staphyloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  diffuse ill-defined soft-tissue density"
+}

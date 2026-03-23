@@ -1,0 +1,57 @@
+{
+  "finding": "A. NEOPLASTIC",
+  "slug": "a_neoplastic_2",
+  "chapter": "Gastric Atony",
+  "source_file": "processed_clusters/gastric_atony/a_neoplastic_2.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Leiomyoma  48%",
+      "raw": "Leiomyoma  48%",
+      "frequency": "48%"
+    },
+    {
+      "name": "Neurogenic tumor  14%",
+      "raw": "Neurogenic tumor  14%",
+      "frequency": "14%"
+    },
+    {
+      "name": "Heterotopic pancreas  12%",
+      "raw": "Heterotopic pancreas  12%",
+      "frequency": "12%"
+    },
+    {
+      "name": "Fibrous tumor  11%",
+      "raw": "Fibrous tumor  11%",
+      "frequency": "11%"
+    },
+    {
+      "name": "Lipoma  7%",
+      "raw": "Lipoma  7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "Hemangioma  7%",
+      "raw": "Hemangioma  7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "Glomus tumor  rare",
+      "raw": "Glomus tumor  rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic tumor",
+      "raw": "Metastatic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

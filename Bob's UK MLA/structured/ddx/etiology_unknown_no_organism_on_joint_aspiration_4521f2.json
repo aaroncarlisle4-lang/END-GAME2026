@@ -1,0 +1,67 @@
+{
+  "finding": "Etiology: unknown; no organism on joint aspiration",
+  "slug": "etiology_unknown_no_organism_on_joint_aspiration_4521f2",
+  "chapter": "TRANSIENT SYNOVITIS OF HIP",
+  "source_file": "processed_clusters/transient_synovitis_of_hip/etiology_unknown_no_organism_on_joint_aspiration_4521f2.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "history of recent viral illness",
+      "raw": "history of recent viral illness (65%)",
+      "frequency": "65%"
+    },
+    {
+      "name": "mild fever",
+      "raw": "mild fever (25%), mildly elevated ESR (50%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "developing limp over 1-2 days; pain in hip, thigh, knee",
+      "raw": "developing limp over 1-2 days; pain in hip, thigh, knee",
+      "frequency": null
+    },
+    {
+      "name": "serosanguinous joint fluid",
+      "raw": "serosanguinous joint fluid",
+      "frequency": null
+    },
+    {
+      "name": "Septic arthritis",
+      "raw": "Septic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Legg-Perthes disease",
+      "raw": "Legg-Perthes disease",
+      "frequency": null
+    },
+    {
+      "name": "Acute rheumatoid arthritis",
+      "raw": "Acute rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Acute rheumatic fever",
+      "raw": "Acute rheumatic fever",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy",
+      "raw": "Malignancy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Average age:   6 (range, 5-10) years; M÷F = 2÷1 √  radiographs usually normal √  joint effusion: √  displacement of femur from acetabulum √  displacement of psoas line √  lateral displacement of gluteal line (least sensitive + least reliable) √  regional osteoporosis (? hyperemia, disuse) US: √  fluid in anterior recess between capsule + femoral neck MR: √  joint effusion √  intense enhancement of hypertrophied synovium (DDx: septic arthritis) NUC: √  normal / slight increase in activity → excluding osteomyelitis + avascular necrosis Prognosis:   complete recovery within a few weeks Dx:   per"
+}

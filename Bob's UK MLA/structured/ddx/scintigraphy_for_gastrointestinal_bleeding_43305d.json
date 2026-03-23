@@ -1,0 +1,67 @@
+{
+  "finding": "Scintigraphy for Gastrointestinal Bleeding",
+  "slug": "scintigraphy_for_gastrointestinal_bleeding_43305d",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/gastrointestinal_hemorrhage/scintigraphy_for_gastrointestinal_bleeding_43305d.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rate of hemorrhage ◊  If bleeding not detectable by RBC scintigraphy, it will not be detectable by angiography!",
+      "raw": "Rate of hemorrhage ◊  If bleeding not detectable by RBC scintigraphy, it will not be detectable by angiography!",
+      "frequency": null
+    },
+    {
+      "name": "RBC scan detects bleeding as low as 0.1 mL/min",
+      "raw": "RBC scan detects bleeding as low as 0.1 mL/min",
+      "frequency": null
+    },
+    {
+      "name": "Catheter angiography requires bleeding rates of ≥ 0.5 mL/min:",
+      "raw": "Catheter angiography requires bleeding rates of ≥ 0.5 mL/min:",
+      "frequency": null
+    },
+    {
+      "name": "Continuous versus intermittent bleeding: most GI hemorrhages are intermittent",
+      "raw": "Continuous versus intermittent bleeding: most GI hemorrhages are intermittent",
+      "frequency": null
+    },
+    {
+      "name": "Site of hemorrhage in reference to specific vascular territory: eg, celiac, superior mesenteric, inferior mesenteric artery",
+      "raw": "Site of hemorrhage in reference to specific vascular territory: eg, celiac, superior mesenteric, inferior mesenteric artery",
+      "frequency": null
+    },
+    {
+      "name": "Characteristics of radionuclide agent 99mTc-Labeled Autologous RBCs (In Vivtro Labeling Preferred) ◊  Generally preferred and accepted most sensitive imaging method for lower GI bleeding ◊  Serves to triage patients for angiography as a negative exam predicts a negative arteriogram Indications:   acute / intermittent arterial or venous bleeding; NOT useful in occult bleeding",
+      "raw": "Characteristics of radionuclide agent 99mTc-Labeled Autologous RBCs (In Vivtro Labeling Preferred) ◊  Generally preferred and accepted most sensitive imaging method for lower GI bleeding ◊  Serves to triage patients for angiography as a negative exam predicts a negative arteriogram Indications:   acute / intermittent arterial or venous bleeding; NOT useful in occult bleeding",
+      "frequency": null
+    },
+    {
+      "name": "Esophagus",
+      "raw": "Esophagus",
+      "frequency": null
+    },
+    {
+      "name": "Duodenum",
+      "raw": "Duodenum",
+      "frequency": null
+    },
+    {
+      "name": "Small bowel",
+      "raw": "Small bowel",
+      "frequency": null
+    },
+    {
+      "name": "Meckel diverticulum",
+      "raw": "Meckel diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Duplication cyst",
+      "raw": "Duplication cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Detection depends on: 63% (39%) sensitive for upper (lower) GI bleed ◊  Only 50% of angiograms will be positive after a positive scintigram! ◊  A positive scintigram increases likelihood of a positive angiogram from 22% to 53%! ◊  A hemodynamically unstable patient with systolic pressures < 100 mmHg should go to angiography! Pharmacokinetics: »  remains in vascular system for a prolonged period »  liver + spleen activity are low allowing detection of upper GI tract hemorrhage »  low target-to-background ratio (high activity in great vessels, liver, spleen, kidneys, stomach, colon; probably rel"
+}

@@ -1,0 +1,195 @@
+{
+  "finding": "Variants: McCune-Albright syndrome (10%), Jaffé-Lichtenstein Disease (10%",
+  "slug": "variants_mccune_albright_syndrome_10_jaffe_lichtenstein_disease_10_c4f133",
+  "chapter": "FIBROMA OF TENDON SHEATH",
+  "source_file": "processed_clusters/fibroma_of_tendon_sheath/variants_mccune_albright_syndrome_10_jaffe_lichtenstein_disease_10_c4f133.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cherubism (special variant)1",
+      "raw": "Cherubism (special variant)1",
+      "frequency": null
+    },
+    {
+      "name": "renal phosphate wasting (c)  aneurysmal bone cyst",
+      "raw": "renal phosphate wasting (c)  aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "swelling + tenderness; limp, pain",
+      "raw": "swelling + tenderness; limp, pain (± pathologic fracture)",
+      "frequency": null
+    },
+    {
+      "name": "increased alkaline phosphatase",
+      "raw": "increased alkaline phosphatase",
+      "frequency": null
+    },
+    {
+      "name": "advanced skeletal + somatic maturation (early) Common location:   rib cage (30%), craniofacial bones [calvarium, mandible] (25%), femoral neck + tibia (25%), pelvis",
+      "raw": "advanced skeletal + somatic maturation (early) Common location:   rib cage (30%), craniofacial bones [calvarium, mandible] (25%), femoral neck + tibia (25%), pelvis",
+      "frequency": "30%"
+    },
+    {
+      "name": "short stature as adult / dwarfism",
+      "raw": "short stature as adult / dwarfism",
+      "frequency": null
+    },
+    {
+      "name": "frequently asymptomatic / pain / fracture",
+      "raw": "frequently asymptomatic / pain / fracture",
+      "frequency": null
+    },
+    {
+      "name": "Dedifferentiation into osteo- / fibro- /",
+      "raw": "Dedifferentiation into osteo- / fibro- / (rarely) chondrosarcoma or malignant fibrous histiocytoma (0.4-1%; more often in polyostotic form)",
+      "frequency": "1%"
+    },
+    {
+      "name": "increasing pain",
+      "raw": "increasing pain",
+      "frequency": null
+    },
+    {
+      "name": "Pathologic fractures: transformation of woven into lamellar bone may be seen, subperiosteal healing without endosteal healing",
+      "raw": "Pathologic fractures: transformation of woven into lamellar bone may be seen, subperiosteal healing without endosteal healing",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease (older age group, mosaic pattern histologically, radiographically similar to monostotic cranial lesion, outer table involved, usually sparing of facial bones)",
+      "frequency": null
+    },
+    {
+      "name": "Ossifying fibroma",
+      "raw": "Ossifying fibroma (narrow zone of transition, displacement of teeth)",
+      "frequency": null
+    },
+    {
+      "name": "HPT",
+      "raw": "HPT (polyostotic, no bone expansion, chemical changes, generalized deossification, subperiosteal resorption)",
+      "frequency": null
+    },
+    {
+      "name": "Osteofibrous dysplasia",
+      "raw": "Osteofibrous dysplasia (almost exclusively in tibia of children < 10 years + anterior bowing, monostotic, lesion begins in cortex, spontaneous regression)",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis",
+      "raw": "Neurofibromatosis (rarely osseous lesions, vertebral column is primary target, ribbon ribs, cystic intraosseous neurofibroma rare, café-au-lait spots smooth, familial disease)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Nonossifying fibroma = fibroxanthoma",
+      "raw": "Nonossifying fibroma = fibroxanthoma",
+      "frequency": null
+    },
+    {
+      "name": "Simple bone cyst",
+      "raw": "Simple bone cyst (more lucent than fibrous dysplasia, not affecting growth plate, straw-colored fluid on aspiration)",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor (no well-defined sclerotic margin)",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma (often calcified chondroid matrix)",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic granuloma = LCH",
+      "raw": "Eosinophilic granuloma = LCH",
+      "frequency": null
+    },
+    {
+      "name": "Osteoblastoma",
+      "raw": "Osteoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Low-grade osteosarcoma",
+      "raw": "Low-grade osteosarcoma (invasion of surrounding soft tissues, osteolysis, cortical destruction)",
+      "frequency": null
+    },
+    {
+      "name": "cranial asymmetry, facial deformity; nasal stuffiness",
+      "raw": "cranial asymmetry, facial deformity; nasal stuffiness",
+      "frequency": null
+    },
+    {
+      "name": "hypertelorism, proptosis, exophthalmos, diplopia",
+      "raw": "hypertelorism, proptosis, exophthalmos, diplopia",
+      "frequency": null
+    },
+    {
+      "name": "visual impairment, extraocular muscle palsy Location:  frontal > sphenoid > ethmoid maxilla > zygoma > parietal > occipital > temporal area; orbit [bilateral jaw fullness]",
+      "raw": "visual impairment, extraocular muscle palsy Location:  frontal > sphenoid > ethmoid maxilla > zygoma > parietal > occipital > temporal area; orbit (20-39%); hemicranial involvement (DDx: Paget disease is bilateral)",
+      "frequency": "39%",
+      "sites": [
+        "bilateral jaw fullness"
+      ]
+    },
+    {
+      "name": "slight upward turning of eyes directed heavenward",
+      "raw": "slight upward turning of eyes directed heavenward",
+      "frequency": null
+    },
+    {
+      "name": "Polyostotic fibrous dysplasia",
+      "raw": "Polyostotic fibrous dysplasia (mostly unilateral)",
+      "frequency": null
+    },
+    {
+      "name": "Café-au-lait macules (35%) =  few large segmental yellowish to brownish dark tan patches of cutaneous pigmentation with jagged irregular / serrated border = coast of Maine patches (DDx:",
+      "raw": "Café-au-lait macules (35%) =  few large segmental yellowish to brownish dark tan patches of cutaneous pigmentation with jagged irregular / serrated border = coast of Maine patches (DDx:",
+      "frequency": "35%"
+    },
+    {
+      "name": "Endocrinopathy = increased endocrine function:",
+      "raw": "Endocrinopathy = increased endocrine function:",
+      "frequency": null
+    },
+    {
+      "name": "menarche in infancy",
+      "raw": "menarche in infancy (in 20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "pituitary gigantism",
+      "raw": "pituitary gigantism",
+      "frequency": null
+    },
+    {
+      "name": "Cushing syndrome, galactorrhea",
+      "raw": "Cushing syndrome, galactorrhea",
+      "frequency": null
+    },
+    {
+      "name": "hepatobiliary dysfunction",
+      "raw": "hepatobiliary dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "renal phosphate wasting",
+      "raw": "renal phosphate wasting",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "May be associated with: (a)  endocrine disorders: ›  precocious puberty in girls ›  hyperthyroidism ›  hyperparathyroidism: renal stones, calcinosis ›  acromegaly ›  diabetes mellitus ›  Cushing syndrome: osteoporosis, acne ›  growth retardation (b)  intramuscular soft-tissue myxoma (rare) =  Mazabraud syndrome: [André Mazabraud (1921-2006), French rheumatologist and pathologist at Curie Institute, Paris] √  typically multiple intramuscular myxomas in vicinity of most severely affected bone √  polyostotic fibrous dysplasia (in 81%); M÷F = 1÷2 Site:   metaphysis is primary site with extension i"
+}

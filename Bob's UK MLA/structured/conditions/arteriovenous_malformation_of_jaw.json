@@ -1,0 +1,29 @@
+{
+  "name": "ARTERIOVENOUS MALFORMATION OF JAW",
+  "slug": "arteriovenous_malformation_of_jaw",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/arteriovenous_malformation_of_jaw.md",
+  "definition": "",
+  "demographics": {
+    "Location": "ramus + posterior body of mandible"
+  },
+  "dominant_finding": "cystlike due to bone resorption ± calcifications",
+  "distribution": "ramus + posterior body of mandible",
+  "discriminating_features": [
+    "cystlike due to bone resorption ± calcifications",
+    "± multilocular ± bone expansion",
+    "± erosive margins",
+    "angiogram confirms diagnosis"
+  ],
+  "other_features": {
+    "general": [
+      "cystlike due to bone resorption ± calcifications",
+      "± multilocular ± bone expansion",
+      "± erosive margins",
+      "angiogram confirms diagnosis"
+    ]
+  },
+  "clinical": {
+    "Cx": "Tooth extraction can result in lethal exsanguination!"
+  }
+}

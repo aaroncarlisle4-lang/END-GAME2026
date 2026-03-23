@@ -1,0 +1,50 @@
+{
+  "finding": "OLIGODENDROGLIOMA",
+  "slug": "oligodendroglioma",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/neurosyphilis/oligodendroglioma.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "long clinical presentation > 5 years",
+      "raw": "long clinical presentation > 5 years",
+      "frequency": null
+    },
+    {
+      "name": "seizures (35-85%), headache, mental status change",
+      "raw": "seizures (35-85%), headache, mental status change",
+      "frequency": "85%"
+    },
+    {
+      "name": "paralysis (50%), visual loss (49%), papilledema (47%) ◊  Worse prognosis with neurologic deficit!",
+      "raw": "paralysis (50%), visual loss (49%), papilledema (47%) ◊  Worse prognosis with neurologic deficit!",
+      "frequency": "50%"
+    },
+    {
+      "name": "ataxia",
+      "raw": "ataxia (39%), abnormal reflexes (37%), meningismus (10%)",
+      "frequency": "39%"
+    },
+    {
+      "name": "Ganglioglioma (in temporal lobes + deep cerebral tissues",
+      "raw": "Ganglioglioma (in temporal lobes + deep cerebral tissues",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma (enhancing tumor, often with internal bleeding producing fluid levels)",
+      "frequency": null
+    },
+    {
+      "name": "Glioblastoma [Central neurocytoma]",
+      "raw": "Glioblastoma (infiltrating, enhancing, edema, NO calcifications)",
+      "frequency": null,
+      "sites": [
+        "Central neurocytoma"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "=  uncommon form of slowly growing glioma presenting with large size at time of diagnosis Incidence:   0.3÷100,000 annually; 3rd most common glioma; 2-5% of all primary brain tumors; 5-25% of all glial neoplasms; < 1% of pediatric CNS neoplasms Path:        (a) well-differentiated oligodendroglioma (b)  anaplastic oligodendroglioma (20-54%) (c)  \"mixed glioma\" containing neoplastic astrocytes (9%) Histo:   monotonous \"fried-egg\" appearance = uniformly rounded hyperchromatic nuclei surrounded by perinuclear halo of clear cytoplasm; \"chicken-wire\" pattern = delicate branching network of capillar"
+}

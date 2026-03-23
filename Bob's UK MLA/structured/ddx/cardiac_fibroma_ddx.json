@@ -1,0 +1,22 @@
+{
+  "finding": "Cardiac Fibroma (DDx)",
+  "slug": "cardiac_fibroma_ddx",
+  "chapter": "Cardiac Fibroma",
+  "source_file": "processed_clusters/cardiac_fibroma/cardiac_fibroma_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "focal hypertrophic cardiomyopathy",
+      "raw": "focal hypertrophic cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "hypertrophy of ventricular septum",
+      "raw": "hypertrophy of ventricular septum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "noncontractile echogenic heterogeneous solid mass: | mean diameter > 5 cm; may obliterate cardiac chamber | multifocal dystrophic central tumor calcifications | affected myocardium hypokinetic"
+}

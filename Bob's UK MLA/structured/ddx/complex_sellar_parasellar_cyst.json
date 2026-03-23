@@ -1,0 +1,27 @@
+{
+  "finding": "Complex Sellar / Parasellar Cyst",
+  "slug": "complex_sellar_parasellar_cyst",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/complex_sellar_parasellar_cyst.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic craniopharyngioma",
+      "raw": "Cystic craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic pituitary adenoma",
+      "raw": "Hemorrhagic pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic / proteinaceous Rathke cleft cyst",
+      "raw": "Hemorrhagic / proteinaceous Rathke cleft cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

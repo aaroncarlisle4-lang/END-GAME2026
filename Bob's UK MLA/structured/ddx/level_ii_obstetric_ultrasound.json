@@ -1,0 +1,47 @@
+{
+  "finding": "Level II Obstetric Ultrasound",
+  "slug": "level_ii_obstetric_ultrasound",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF OBSTETRIC AND GYNECOLOGIC",
+  "source_file": "processed_clusters/differential_diagnosis_of_obstetric_and_gynecologic/level_ii_obstetric_ultrasound.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Open neural tube defect: anencephaly, encephalocele, open spina bifida, amniotic band syndrome resulting in open neural tube defect",
+      "raw": "Open neural tube defect: anencephaly, encephalocele, open spina bifida, amniotic band syndrome resulting in open neural tube defect",
+      "frequency": null
+    },
+    {
+      "name": "Closed neural axis anomaly:",
+      "raw": "Closed neural axis anomaly:",
+      "frequency": null
+    },
+    {
+      "name": "Abdominal wall defect: gastroschisis, omphalocele, gastropleuroschisis from amniotic band syndrome",
+      "raw": "Abdominal wall defect: gastroschisis, omphalocele, gastropleuroschisis from amniotic band syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Upper GI obstruction: esophageal atresia ± tracheoesophageal fistula, duodenal obstruction",
+      "raw": "Upper GI obstruction: esophageal atresia ± tracheoesophageal fistula, duodenal obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Cystic hygroma",
+      "raw": "Cystic hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma: sacrococcygeal, lingual, retropharyngeal",
+      "raw": "Teratoma: sacrococcygeal, lingual, retropharyngeal",
+      "frequency": null
+    },
+    {
+      "name": "Renal anomalies: obstructive uropathy, renal agenesis, multicystic dysplastic kidney, congenital Finnish nephrosis ◊  Risk of fetal chromosomal anomaly is only 0.6-1.1% with normal level II sonogram!",
+      "raw": "Renal anomalies: obstructive uropathy, renal agenesis, multicystic dysplastic kidney, congenital Finnish nephrosis ◊  Risk of fetal chromosomal anomaly is only 0.6-1.1% with normal level II sonogram!",
+      "frequency": "1.1%"
+    }
+  ],
+  "criteria": {},
+  "context": "Indication:   AF-AFP ≥ 2 MoM Accuracy:  identification of abnormal fetuses in 99% Examination targeted for: hydrocephalus, Dandy-Walker malformation"
+}

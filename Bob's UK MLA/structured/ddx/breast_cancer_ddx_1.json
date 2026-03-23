@@ -1,0 +1,27 @@
+{
+  "finding": "Breast Cancer (DDx)",
+  "slug": "breast_cancer_ddx_1",
+  "chapter": "Breast Cancer",
+  "source_file": "processed_clusters/breast_cancer/breast_cancer_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "postsurgical fibrosis",
+      "raw": "postsurgical fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "traumatic fat necrosis",
+      "raw": "traumatic fat necrosis",
+      "frequency": null
+    },
+    {
+      "name": "sclerosing duct hyperplasia",
+      "raw": "sclerosing duct hyperplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "denser relative to other areas (= vessels + trabeculae cannot be seen within high- | fat does not traverse density | corona of spicules | in any quadrant → but fatty replacement occurs last in upper outer quadrant"
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "A. LOCALIZED INFLAMMATION / INFECTION",
+  "slug": "a_localized_inflammation_infection",
+  "chapter": "Parotid Gland Enlargement",
+  "source_file": "processed_clusters/parotid_gland_enlargement/a_localized_inflammation_infection.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic recurrent sialadenitis",
+      "raw": "Chronic recurrent sialadenitis",
+      "frequency": null
+    },
+    {
+      "name": "Sialosis",
+      "raw": "Sialosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Cat-scratch fever",
+      "raw": "Cat-scratch fever",
+      "frequency": null
+    },
+    {
+      "name": "Syphilis",
+      "raw": "Syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Parotid abscess ← acute bacterial (suppurative) sialadenitis",
+      "raw": "Parotid abscess ← acute bacterial (suppurative) sialadenitis",
+      "frequency": null
+    },
+    {
+      "name": "Reactive adenopathy",
+      "raw": "Reactive adenopathy",
+      "frequency": null
+    },
+    {
+      "name": "Parotitis",
+      "raw": "Parotitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

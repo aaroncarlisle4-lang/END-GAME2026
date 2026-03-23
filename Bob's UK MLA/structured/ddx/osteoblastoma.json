@@ -1,0 +1,102 @@
+{
+  "finding": "OSTEOBLASTOMA",
+  "slug": "osteoblastoma",
+  "chapter": "NODULAR FASCIITIS",
+  "source_file": "processed_clusters/nodular_fasciitis/osteoblastoma.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "dull localized pain of insidious onset (84%), worse at night in 7-13%; asymptomatic in < 2%",
+      "raw": "dull localized pain of insidious onset (84%), worse at night in 7-13%; asymptomatic in < 2%",
+      "frequency": "84%"
+    },
+    {
+      "name": "response to salicylates in 7%",
+      "raw": "response to salicylates in 7%",
+      "frequency": "7%"
+    },
+    {
+      "name": "localized swelling, tenderness, decreased range of motion",
+      "raw": "localized swelling, tenderness, decreased range of motion (29%)",
+      "frequency": "29%"
+    },
+    {
+      "name": "painful scoliosis in 50% (with spinal / rib location) ← muscle spasm, may be convex toward side of tumor",
+      "raw": "painful scoliosis in 50% (with spinal / rib location) ← muscle spasm, may be convex toward side of tumor",
+      "frequency": "50%"
+    },
+    {
+      "name": "paresthesias, mild muscle weakness, paraparesis, paraplegia",
+      "raw": "paresthesias, mild muscle weakness, paraparesis, paraplegia (← cord compression)",
+      "frequency": null
+    },
+    {
+      "name": "occasional systemic toxicity",
+      "raw": "occasional systemic toxicity (high WBC, fever)",
+      "frequency": "occasional"
+    },
+    {
+      "name": "Osteo- / chondrosarcoma",
+      "raw": "Osteo- / chondrosarcoma (periosteal new bone)",
+      "frequency": null
+    },
+    {
+      "name": "Osteoid osteoma",
+      "raw": "Osteoid osteoma (dense calcification + halo of bone sclerosis, stable lesion size < 2 cm due to limited growth potential)",
+      "frequency": null
+    },
+    {
+      "name": "Cartilaginous tumors (lumpy matrix calcification",
+      "raw": "Cartilaginous tumors (lumpy matrix calcification",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor (no calcification, epiphyseal involvement)",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid",
+      "raw": "Epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  GIANT OSTEOID OSTEOMA = OSTEOGENIC FIBROMA OF BONE = OSSIFYING FIBROMA =  rare benign locally aggressive tumor with unlimited growth potential + capability of malignant transformation Frequency:   < 1% of all primary bone tumors; 3% of all benign bone tumors Mean age:   6-19 years; 6-30 years (90%); 2nd decade (55%); 3rd decade (20%); M÷F = 2÷1 Size:   lesion > 1.5 cm N.B.:   smaller lesions are classified as osteoid osteoma Histo:   numerous multinucleated giant cells (osteoclasts), irregularly arranged osteoid + bone; very vascular connective tissue stroma with interconnecting trabecular"
+}

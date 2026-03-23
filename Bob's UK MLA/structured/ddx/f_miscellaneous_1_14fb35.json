@@ -1,0 +1,82 @@
+{
+  "finding": "F. MISCELLANEOUS",
+  "slug": "f_miscellaneous_1_14fb35",
+  "chapter": "E. HYDROPS FETALIS",
+  "source_file": "processed_clusters/e_hydrops_fetalis/f_miscellaneous_1_14fb35.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chylous ascites",
+      "raw": "Chylous ascites",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiectasia",
+      "raw": "Lymphangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Congenital syphilis, trauma",
+      "raw": "Congenital syphilis, trauma",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic",
+      "frequency": null
+    },
+    {
+      "name": "Biloma",
+      "raw": "Biloma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphocele, Lymphangioma, Lymphoma",
+      "raw": "Lymphocele, Lymphangioma, Lymphoma (almost anechoic by US)",
+      "frequency": null
+    },
+    {
+      "name": "Urinoma",
+      "raw": "Urinoma",
+      "frequency": null
+    },
+    {
+      "name": "Seroma",
+      "raw": "Seroma",
+      "frequency": null
+    },
+    {
+      "name": "Cyst: pseudocyst, peritoneal inclusion cyst",
+      "raw": "Cyst: pseudocyst, peritoneal inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage, Hematoma: aneurysm, AVM",
+      "raw": "Hemorrhage, Hematoma: aneurysm, AVM",
+      "frequency": null
+    },
+    {
+      "name": "Infection, Infestation: empyema, abscess, Echinococcus",
+      "raw": "Infection, Infestation: empyema, abscess, Echinococcus",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm (necrotic)",
+      "frequency": null
+    },
+    {
+      "name": "G I tract: dilated loops, ileus, duplication",
+      "raw": "G I tract: dilated loops, ileus, duplication",
+      "frequency": null
+    },
+    {
+      "name": "Serosa: ascites, pleural fluid, pericardial effusion",
+      "raw": "Serosa: ascites, pleural fluid, pericardial effusion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Chylous Ascites IN ADULTS: 1. Inflammatory process 35% 2. Tumor 30% 3. Idiopathic 23% 4. Trauma 11% 5. Congenital 1% IN CHILDREN: 1. Congenital 39% 2. Inflammatory process 15% 3. Trauma 12% 4. Tumor 3% 5. Idiopathic 33% Fluid Collections"
+}

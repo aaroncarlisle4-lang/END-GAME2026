@@ -1,0 +1,67 @@
+{
+  "finding": "MEDIASTINUM",
+  "slug": "mediastinum_eb31a8",
+  "chapter": "LUNG ZONES",
+  "source_file": "processed_clusters/lung_zones/mediastinum_eb31a8.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "SUPERIOR MEDIASTINAL COMPARTMENT =  thoracic inlet [INFERIOR MEDIASTINAL COMPARTMENT]",
+      "raw": "SUPERIOR MEDIASTINAL COMPARTMENT =  thoracic inlet",
+      "frequency": null,
+      "sites": [
+        "INFERIOR MEDIASTINAL COMPARTMENT"
+      ]
+    },
+    {
+      "name": "Anterior mediastinum = retrosternal region [Anterior boundary:   sternum]",
+      "raw": "Anterior mediastinum = retrosternal region",
+      "frequency": null,
+      "sites": [
+        "Anterior boundary:   sternum"
+      ]
+    },
+    {
+      "name": "Posterior boundary:   pericardium, aorta, brachiocephalic vessels",
+      "raw": "Posterior boundary:   pericardium, aorta, brachiocephalic vessels",
+      "frequency": null
+    },
+    {
+      "name": "Superior boundary:   thoracic inlet [Inferior boundary:   diaphragm]",
+      "raw": "Superior boundary:   thoracic inlet",
+      "frequency": null,
+      "sites": [
+        "Inferior boundary:   diaphragm"
+      ]
+    },
+    {
+      "name": "Middle mediastinum = visceral region [Anterior boundary:   pericardium]",
+      "raw": "Middle mediastinum = visceral region",
+      "frequency": null,
+      "sites": [
+        "Anterior boundary:   pericardium"
+      ]
+    },
+    {
+      "name": "Posterior boundary:   pericardium, posterior tracheal wall",
+      "raw": "Posterior boundary:   pericardium, posterior tracheal wall",
+      "frequency": null
+    },
+    {
+      "name": "Superior boundary:   thoracic inlet [Inferior boundary:   diaphragm]",
+      "raw": "Superior boundary:   thoracic inlet",
+      "frequency": null,
+      "sites": [
+        "Inferior boundary:   diaphragm"
+      ]
+    },
+    {
+      "name": "Posterior mediastinum = contains esophagus, descending aorta, paraspinal region",
+      "raw": "Posterior mediastinum = contains esophagus, descending aorta, paraspinal region",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Terminology:   coined by Spigelius \"Quod per medium stat\" = \"what sits in the middle\" Contents:   thymus, lymph nodes, adipose tissue, internal mammary vessels Contents:   heart, pericardium, ascending + transverse aorta, SVC, IVC, brachiocephalic vessels, pulmonary vessels, trachea + main bronchi, lymph nodes, phrenic n., vagus n., left recurrent laryngeal n. Anterior boundary:   posterior trachea, pericardium Posterior boundary:   line 1 cm posterior to the anterior edge of vertebral column Superior boundary:   thoracic inlet Inferior boundary:   diaphragm Contents:   esophagus, descending a"
+}

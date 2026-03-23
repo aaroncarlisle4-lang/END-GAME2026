@@ -1,0 +1,27 @@
+{
+  "finding": "Congenital Anomalies of the IVC",
+  "slug": "congenital_anomalies_of_the_ivc",
+  "chapter": "Inferior Vena Cava",
+  "source_file": "processed_clusters/inferior_vena_cava/congenital_anomalies_of_the_ivc.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Absence of hepatic segment of IVC with azygos continuation",
+      "raw": "Absence of hepatic segment of IVC with azygos continuation",
+      "frequency": null
+    },
+    {
+      "name": "Absence of infrarenal IVC with azygos / hemiazygos continuation",
+      "raw": "Absence of infrarenal IVC with azygos / hemiazygos continuation",
+      "frequency": null
+    },
+    {
+      "name": "Duplication of IVC with azygos / hemiazygos continuation",
+      "raw": "Duplication of IVC with azygos / hemiazygos continuation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

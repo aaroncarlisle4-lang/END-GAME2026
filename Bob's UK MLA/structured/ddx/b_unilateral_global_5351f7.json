@@ -1,0 +1,27 @@
+{
+  "finding": "B. UNILATERAL GLOBAL",
+  "slug": "b_unilateral_global_5351f7",
+  "chapter": "Persistent Nephrogram",
+  "source_file": "processed_clusters/persistent_nephrogram/b_unilateral_global_5351f7.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal artery stenosis",
+      "raw": "Renal artery stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Renal vein thrombosis",
+      "raw": "Renal vein thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "Urinary tract obstruction",
+      "raw": "Urinary tract obstruction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

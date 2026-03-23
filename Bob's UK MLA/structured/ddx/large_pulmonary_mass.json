@@ -1,0 +1,47 @@
+{
+  "finding": "Large Pulmonary Mass",
+  "slug": "large_pulmonary_mass",
+  "chapter": "C. CENTRAL / PERIPHERAL",
+  "source_file": "processed_clusters/c_central_peripheral/large_pulmonary_mass.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Carcinoma (large cell, squamous cell, cannon ball metastasis",
+      "raw": "Carcinoma (large cell, squamous cell, cannon ball metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    },
+    {
+      "name": "Toruloma",
+      "raw": "Toruloma (Cryptococcus)",
+      "frequency": null
+    },
+    {
+      "name": "Pseudotumor, Plasmacytoma",
+      "raw": "Pseudotumor, Plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory",
+      "raw": "Inflammatory",
+      "frequency": null
+    },
+    {
+      "name": "Echinococcal disease",
+      "raw": "Echinococcal disease",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma, Sequestration",
+      "raw": "Sarcoma, Sequestration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,197 @@
+{
+  "finding": "Cor Pulmonale",
+  "slug": "cor_pulmonale",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/cor_pulmonale.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thoracic deformity",
+      "raw": "Thoracic deformity",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic: primary pulmonary hypertension",
+      "raw": "Idiopathic: primary pulmonary hypertension (1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Chronic pulmonary embolism",
+      "raw": "Chronic pulmonary embolism",
+      "frequency": null
+    },
+    {
+      "name": "COPD",
+      "raw": "COPD",
+      "frequency": null
+    },
+    {
+      "name": "Shunt: ASD, VSD, etc",
+      "raw": "Shunt: ASD, VSD, etc",
+      "frequency": null
+    },
+    {
+      "name": "Bronchiectasis",
+      "raw": "Bronchiectasis",
+      "frequency": null
+    },
+    {
+      "name": "Emphysema",
+      "raw": "Emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Vasculitis",
+      "raw": "Vasculitis",
+      "frequency": null
+    },
+    {
+      "name": "LV INFLOW TRACT OBSTRUCTION",
+      "raw": "LV INFLOW TRACT OBSTRUCTION",
+      "frequency": null
+    },
+    {
+      "name": "TAPVR below the diaphragm",
+      "raw": "TAPVR below the diaphragm",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary venoocclusive disease",
+      "raw": "Pulmonary venoocclusive disease",
+      "frequency": null
+    },
+    {
+      "name": "Stenosis of individual pulmonary veins",
+      "raw": "Stenosis of individual pulmonary veins",
+      "frequency": null
+    },
+    {
+      "name": "Atresia of common pulmonary vein ›  mediastinum",
+      "raw": "Atresia of common pulmonary vein ›  mediastinum",
+      "frequency": "common"
+    },
+    {
+      "name": "Fibrosing mediastinitis",
+      "raw": "Fibrosing mediastinitis (may also affect precapillary vessels)",
+      "frequency": null
+    },
+    {
+      "name": "Constrictive pericarditis ›  left atrium",
+      "raw": "Constrictive pericarditis ›  left atrium",
+      "frequency": null
+    },
+    {
+      "name": "Cor triatriatum",
+      "raw": "Cor triatriatum",
+      "frequency": null
+    },
+    {
+      "name": "Left atrial mass: thrombus, myxoma, sarcoma, metastasis",
+      "raw": "Left atrial mass: thrombus, myxoma, sarcoma, metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Supravalvular ring of left atrium @   at mitral valve level = mitral valve stenosis",
+      "raw": "Supravalvular ring of left atrium @   at mitral valve level = mitral valve stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatic mitral valve stenosis ± regurgitation",
+      "raw": "Rheumatic mitral valve stenosis ± regurgitation (99%)",
+      "frequency": "99%"
+    },
+    {
+      "name": "Congenital mitral valve stenosis",
+      "raw": "Congenital mitral valve stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Parachute mitral valve",
+      "raw": "Parachute mitral valve (= single bulky papillary muscle)",
+      "frequency": null
+    },
+    {
+      "name": "LEFT VENTRICULAR FAILURE",
+      "raw": "LEFT VENTRICULAR FAILURE (more common) (a)  ABNORMAL PRELOAD with secondary mitral valve incompetence (= volume overload)",
+      "frequency": "common"
+    },
+    {
+      "name": "Aortic valve regurgitation",
+      "raw": "Aortic valve regurgitation",
+      "frequency": null
+    },
+    {
+      "name": "Eisenmenger syndrome",
+      "raw": "Eisenmenger syndrome (= R-to-L shunt in VSD)",
+      "frequency": null
+    },
+    {
+      "name": "High-output failure:",
+      "raw": "High-output failure:",
+      "frequency": null
+    },
+    {
+      "name": "Hypoplastic left heart syndrome",
+      "raw": "Hypoplastic left heart syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Aortic stenosis",
+      "raw": "Aortic stenosis (supravalvular, valvular, anatomic subaortic)",
+      "frequency": null
+    },
+    {
+      "name": "Interrupted aortic arch",
+      "raw": "Interrupted aortic arch",
+      "frequency": null
+    },
+    {
+      "name": "Coarctation of the aorta (c)  DISORDERS OF CONTRACTION AND RELAXATION",
+      "raw": "Coarctation of the aorta (c)  DISORDERS OF CONTRACTION AND RELAXATION",
+      "frequency": null
+    },
+    {
+      "name": "Endocardial fibroelastosis",
+      "raw": "Endocardial fibroelastosis",
+      "frequency": null
+    },
+    {
+      "name": "Glycogen storage disease",
+      "raw": "Glycogen storage disease (Pompe disease)",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac aneurysm",
+      "raw": "Cardiac aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Cardiomyopathy ›  congestive (alcohol) ›  hypertrophic obstructive cardiomyopathy, particularly in IDM",
+      "raw": "Cardiomyopathy ›  congestive (alcohol) ›  hypertrophic obstructive cardiomyopathy, particularly in IDM",
+      "frequency": null
+    },
+    {
+      "name": "Asymmetric septal hypertrophy",
+      "raw": "Asymmetric septal hypertrophy",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic hypertrophic subaortic stenosis (d)  MYOCARDIAL ISCHEMIA",
+      "raw": "Idiopathic hypertrophic subaortic stenosis (d)  MYOCARDIAL ISCHEMIA",
+      "frequency": null
+    },
+    {
+      "name": "Anomalous left coronary artery",
+      "raw": "Anomalous left coronary artery",
+      "frequency": null
+    },
+    {
+      "name": "Coronary artery disease",
+      "raw": "Coronary artery disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Pulmonary Venous Hypertension (PVH) =  INCREASED VENOUS PULMONARY PRESSURE = VENOUS CONGESTION =  postcapillary pHTN = primary findings located within pulmonary venous circulation between capillary bed + LA Dx:     uniform / widely variable elevation of pulmonary capillary wedge pressure (PCWP) > 15 mmHg Cause: √  normal-sized heart with right ventricular hypertrophy √  prominent pulmonary trunk @   proximal to mitral valve: √  normal-sized left atrium ›  pulmonary veins √  enlarged left atrium √  enlarged left atrial appendage noncardiac AVM (cerebral AVM, vein of Galen aneurysm, large pulmon"
+}

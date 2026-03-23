@@ -1,0 +1,32 @@
+{
+  "finding": "B. INFECTION",
+  "slug": "b_infection_5",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/b_infection_5.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bacterial meningitis",
+      "raw": "Bacterial meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous meningitis",
+      "raw": "Tuberculous meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Fungal meningitis",
+      "raw": "Fungal meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Neurosyphilis",
+      "raw": "Neurosyphilis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

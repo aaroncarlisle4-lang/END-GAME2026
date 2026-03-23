@@ -1,0 +1,82 @@
+{
+  "finding": "Cholecystolithiasis",
+  "slug": "cholecystolithiasis_3dbc7f",
+  "chapter": "Navaho, Pima, Chippewa Indians",
+  "source_file": "processed_clusters/navaho_pima_chippewa_indians/cholecystolithiasis_3dbc7f.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "asymptomatic (60-65%); become symptomatic at a rate of 1-2-4% per year",
+      "raw": "asymptomatic (60-65%); become symptomatic at a rate of 1-2-4% per year",
+      "frequency": "65%"
+    },
+    {
+      "name": "biliary colic (misnomer) ← transient obstruction of cystic duct / common bile duct develops in 33% (18% overall risk in 20 years):",
+      "raw": "biliary colic (misnomer) ← transient obstruction of cystic duct / common bile duct develops in 33% (18% overall risk in 20 years):",
+      "frequency": "33%"
+    },
+    {
+      "name": "no tenderness upon palpation",
+      "raw": "no tenderness upon palpation",
+      "frequency": null
+    },
+    {
+      "name": "Recent history of jaundice",
+      "raw": "Recent history of jaundice",
+      "frequency": null
+    },
+    {
+      "name": "Recent history of pancreatitis",
+      "raw": "Recent history of pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Elevated serum bilirubin > 17 µmol/L",
+      "raw": "Elevated serum bilirubin > 17 µmol/L",
+      "frequency": null
+    },
+    {
+      "name": "Elevated serum amylase > 120 IU/L",
+      "raw": "Elevated serum amylase > 120 IU/L",
+      "frequency": null
+    },
+    {
+      "name": "Dilated CBD > 6 mm",
+      "raw": "Dilated CBD > 6 mm (16%)",
+      "frequency": "16%"
+    },
+    {
+      "name": "Obscured bile duct",
+      "raw": "Obscured bile duct",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic: 10% of patients treated with cholecystectomy have unsuspected CBD calculi",
+      "raw": "asymptomatic: 10% of patients treated with cholecystectomy have unsuspected CBD calculi",
+      "frequency": "10%"
+    },
+    {
+      "name": "recurrent episodes of right upper quadrant pain, jaundice, chills, fever",
+      "raw": "recurrent episodes of right upper quadrant pain, jaundice, chills, fever (25-50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "elevated serum bilirubin + alkaline phosphate levels",
+      "raw": "elevated serum bilirubin + alkaline phosphate levels",
+      "frequency": null
+    },
+    {
+      "name": "elevated transaminase",
+      "raw": "elevated transaminase (75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "spontaneous passage with stones < 6 mm size",
+      "raw": "spontaneous passage with stones < 6 mm size",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  acute RUQ / epigastric / LUQ / precordial / lower abdominal pain increasing over seconds / minutes + remaining fairly steady for 1-3(-6) hours associated with nausea + vomiting Abdominal plain film (10-16% sensitive): √  calcified gallstones CT (80% sensitive): √  hyperdense calcified gallstones in 60% √  hypodense cholesterol stones ≤ 140 HU = pure cholesterol stone (= ≥ 80% cholesterol content): ◊  Inverse relationship between CT attenuation number + cholesterol content √  gallstones isointense to bile (< 30 HU) in 21-24% and thus undetectable by CT US (91-98% sensitive; in 5% falsely neg"
+}

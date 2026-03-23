@@ -1,0 +1,37 @@
+{
+  "finding": "Supratentorial Tumor with Mural Nodule",
+  "slug": "supratentorial_tumor_with_mural_nodule",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/supratentorial_tumor_with_mural_nodule.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Extraventricular ependymoma",
+      "raw": "Extraventricular ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Pleomorphic xanthoastrocytoma",
+      "raw": "Pleomorphic xanthoastrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemispheric pilocytic astrocytoma",
+      "raw": "Hemispheric pilocytic astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioglioma",
+      "raw": "Ganglioglioma",
+      "frequency": null
+    },
+    {
+      "name": "Dysembryoplastic neuroepithelial tumor",
+      "raw": "Dysembryoplastic neuroepithelial tumor (DNET)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

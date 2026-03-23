@@ -1,0 +1,347 @@
+{
+  "finding": "Nonlocalizing Signs of Breast Cancer",
+  "slug": "nonlocalizing_signs_of_breast_cancer",
+  "chapter": "Breast Cancer Evaluation",
+  "source_file": "processed_clusters/breast_cancer_evaluation/nonlocalizing_signs_of_breast_cancer.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Asymmetric thickening",
+      "raw": "Asymmetric thickening",
+      "frequency": null
+    },
+    {
+      "name": "Asymmetric ducts especially if discontinuous with subareolar area",
+      "raw": "Asymmetric ducts especially if discontinuous with subareolar area",
+      "frequency": null
+    },
+    {
+      "name": "Skin changes (a)  skin retraction = dimpling of skin Cause:   desmoplastic reaction → shortening of Cooper ligaments / direct extension of tumor to skin",
+      "raw": "Skin changes (a)  skin retraction = dimpling of skin Cause:   desmoplastic reaction → shortening of Cooper ligaments / direct extension of tumor to skin",
+      "frequency": null
+    },
+    {
+      "name": "peau d'orange",
+      "raw": "peau d'orange",
+      "frequency": null
+    },
+    {
+      "name": "Nipple / areolar abnormalities (a)  retraction / flattening of nipple",
+      "raw": "Nipple / areolar abnormalities (a)  retraction / flattening of nipple",
+      "frequency": null
+    },
+    {
+      "name": "spontaneous persistent discharge",
+      "raw": "spontaneous persistent discharge",
+      "frequency": null
+    },
+    {
+      "name": "need not be bloody",
+      "raw": "need not be bloody",
+      "frequency": null
+    },
+    {
+      "name": "Axillary nodes",
+      "raw": "Axillary nodes (sign of advanced / occult cancer)",
+      "frequency": null
+    },
+    {
+      "name": "Abnormal veins",
+      "raw": "Abnormal veins",
+      "frequency": null
+    },
+    {
+      "name": "Breast self-examination to begin at age 20",
+      "raw": "Breast self-examination to begin at age 20",
+      "frequency": null
+    },
+    {
+      "name": "Breast examination by physician every 3 years between 20-40 years, in yearly intervals after age 40",
+      "raw": "Breast examination by physician every 3 years between 20-40 years, in yearly intervals after age 40",
+      "frequency": null
+    },
+    {
+      "name": "Baseline mammogram between age 35-40; follow-up screening based upon parenchymal pattern + family Hx",
+      "raw": "Baseline mammogram between age 35-40; follow-up screening based upon parenchymal pattern + family Hx",
+      "frequency": null
+    },
+    {
+      "name": "Initial screening at 30 years if patient has first-degree relative with breast cancer in premenopausal years; follow-up screening based upon parenchymal pattern",
+      "raw": "Initial screening at 30 years if patient has first-degree relative with breast cancer in premenopausal years; follow-up screening based upon parenchymal pattern",
+      "frequency": null
+    },
+    {
+      "name": "Mammography at yearly intervals after age 40",
+      "raw": "Mammography at yearly intervals after age 40",
+      "frequency": null
+    },
+    {
+      "name": "All women who have had prior breast cancer require annual follow-up",
+      "raw": "All women who have had prior breast cancer require annual follow-up",
+      "frequency": null
+    },
+    {
+      "name": "Screening at 2-year intervals for women > 70 years",
+      "raw": "Screening at 2-year intervals for women > 70 years",
+      "frequency": null
+    },
+    {
+      "name": "Baseline mammogram 10 years earlier than age of mother / sister when their cancer was diagnosed",
+      "raw": "Baseline mammogram 10 years earlier than age of mother / sister when their cancer was diagnosed",
+      "frequency": null
+    },
+    {
+      "name": "Health Insurance Plan (HIP) 1963-1969 randomized controlled study of 62,000 women aged 40-64 ›  25-30% reduction in mortality in women > 50 years (followed for 18 years) ›  25% reduction in mortality in women 40-49 years (followed for 18 years); no significant effect at 5- and 10-year follow-up ›  19% of cancers found by mammography alone ›  61% of cancers found at physical examination ›  effectiveness of screening < 50 years of age is uncertain",
+      "raw": "Health Insurance Plan (HIP) 1963-1969 randomized controlled study of 62,000 women aged 40-64 ›  25-30% reduction in mortality in women > 50 years (followed for 18 years) ›  25% reduction in mortality in women 40-49 years (followed for 18 years); no significant effect at 5- and 10-year follow-up ›  19% of cancers found by mammography alone ›  61% of cancers found at physical examination ›  effectiveness of screening < 50 years of age is uncertain",
+      "frequency": "30%"
+    },
+    {
+      "name": "Breast Cancer Detection Demonstration Project (BCDDP) 1973-1980",
+      "raw": "Breast Cancer Detection Demonstration Project (BCDDP) 1973-1980",
+      "frequency": null
+    },
+    {
+      "name": "Swedish Two-county Trial 1977-1990 randomized controlled study of 78,000 women in study group + 56,700 in control group aged 40-74 years with screening phase lasting 7 years (a)  single MLO mammogram at 2-year intervals for women < 50 years of age (b)  single MLO mammogram at 3-year intervals for women ≥ 50 years of age ›  40% reduction in mortality at 7 years in women 50-74 years ›  0% reduction in mortality at 7 years in women 40-49 years ›  At 29-year follow-up 34 years of life per 1000 women were saved screened over a 7-year period ›  At 29-year follow-up 1 breast cancer was prevented for each 519 women screened for 7 years",
+      "raw": "Swedish Two-county Trial 1977-1990 randomized controlled study of 78,000 women in study group + 56,700 in control group aged 40-74 years with screening phase lasting 7 years (a)  single MLO mammogram at 2-year intervals for women < 50 years of age (b)  single MLO mammogram at 3-year intervals for women ≥ 50 years of age ›  40% reduction in mortality at 7 years in women 50-74 years ›  0% reduction in mortality at 7 years in women 40-49 years ›  At 29-year follow-up 34 years of life per 1000 women were saved screened over a 7-year period ›  At 29-year follow-up 1 breast cancer was prevented for each 519 women screened for 7 years",
+      "frequency": "40%"
+    },
+    {
+      "name": "Meta-analysis of combined results of 5 Swedish trials for women aged 39-49",
+      "raw": "Meta-analysis of combined results of 5 Swedish trials for women aged 39-49",
+      "frequency": null
+    },
+    {
+      "name": "29% reduction in breast cancer mortality with screening mammograms offered at intervals from 18 to 28 months",
+      "raw": "29% reduction in breast cancer mortality with screening mammograms offered at intervals from 18 to 28 months",
+      "frequency": "29%"
+    },
+    {
+      "name": "Logistical error (a)  prior films not made available (a)  prior films not back far enough",
+      "raw": "Logistical error (a)  prior films not made available (a)  prior films not back far enough",
+      "frequency": null
+    },
+    {
+      "name": "Interpretation error (52%):",
+      "raw": "Interpretation error (52%):",
+      "frequency": "52%"
+    },
+    {
+      "name": "Observer error (30-43%):",
+      "raw": "Observer error (30-43%):",
+      "frequency": "43%"
+    },
+    {
+      "name": "Wrong assumption (a)  misleading long history of a lump results in screening rather than diagnostic mammogram (b)  acceptance of irreconcilable size discrepancy / lesion location between sonogram and mammogram (c)  suspicious findings remain suspicious!",
+      "raw": "Wrong assumption (a)  misleading long history of a lump results in screening rather than diagnostic mammogram (b)  acceptance of irreconcilable size discrepancy / lesion location between sonogram and mammogram (c)  suspicious findings remain suspicious!",
+      "frequency": null
+    },
+    {
+      "name": "Technical error (5%):",
+      "raw": "Technical error (5%):",
+      "frequency": "5%"
+    },
+    {
+      "name": "Tumor biology:",
+      "raw": "Tumor biology:",
+      "frequency": null
+    },
+    {
+      "name": "Difficult location:",
+      "raw": "Difficult location:",
+      "frequency": null
+    },
+    {
+      "name": "Provide facts about events = presence of error / system failure if known",
+      "raw": "Provide facts about events = presence of error / system failure if known",
+      "frequency": null
+    },
+    {
+      "name": "Express regret = apology (b)  Institutional requirements:",
+      "raw": "Express regret = apology (b)  Institutional requirements:",
+      "frequency": null
+    },
+    {
+      "name": "Integrate disclosure, patient safety and risk management",
+      "raw": "Integrate disclosure, patient safety and risk management",
+      "frequency": null
+    },
+    {
+      "name": "Establish disclosure support system",
+      "raw": "Establish disclosure support system",
+      "frequency": null
+    },
+    {
+      "name": "Use performance improvement tools to track and enhance disclosure",
+      "raw": "Use performance improvement tools to track and enhance disclosure",
+      "frequency": null
+    },
+    {
+      "name": "TARGETED EXAM",
+      "raw": "TARGETED EXAM",
+      "frequency": null
+    },
+    {
+      "name": "Initial study of palpable lump in patient < 30 years of age / pregnant / lactating ◊  Ultrasound will not add useful information in an area that contains only fatty tissue on a mammogram!",
+      "raw": "Initial study of palpable lump in patient < 30 years of age / pregnant / lactating ◊  Ultrasound will not add useful information in an area that contains only fatty tissue on a mammogram!",
+      "frequency": null
+    },
+    {
+      "name": "Characterization of mammographic / palpable mass as fluid-filled / solid ◊  Ultrasound will add useful information if there is water-density tissue in the area of palpable abnormality!",
+      "raw": "Characterization of mammographic / palpable mass as fluid-filled / solid ◊  Ultrasound will add useful information if there is water-density tissue in the area of palpable abnormality!",
+      "frequency": null
+    },
+    {
+      "name": "Additional evaluation of nonpalpable abnormality with uncertain mammographic diagnosis",
+      "raw": "Additional evaluation of nonpalpable abnormality with uncertain mammographic diagnosis",
+      "frequency": null
+    },
+    {
+      "name": "Search for focal lesion as cause for mammographic asymmetric density",
+      "raw": "Search for focal lesion as cause for mammographic asymmetric density",
+      "frequency": null
+    },
+    {
+      "name": "Confirmation of lesion seen in one mammographic projection only",
+      "raw": "Confirmation of lesion seen in one mammographic projection only",
+      "frequency": null
+    },
+    {
+      "name": "WHOLE-BREAST EXAM",
+      "raw": "WHOLE-BREAST EXAM",
+      "frequency": null
+    },
+    {
+      "name": "Breast secretions",
+      "raw": "Breast secretions",
+      "frequency": null
+    },
+    {
+      "name": "Suspected leaks from silicone implant",
+      "raw": "Suspected leaks from silicone implant",
+      "frequency": null
+    },
+    {
+      "name": "Follow-up of multiple known mammographic / sonographic lesions",
+      "raw": "Follow-up of multiple known mammographic / sonographic lesions",
+      "frequency": null
+    },
+    {
+      "name": "Radiographically dense breast with strong family history of breast cancer",
+      "raw": "Radiographically dense breast with strong family history of breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Metastases thought to be of breast origin, but with negative clinical + mammographic exam",
+      "raw": "Metastases thought to be of breast origin, but with negative clinical + mammographic exam",
+      "frequency": null
+    },
+    {
+      "name": "Mammography not possible: \"radiophobic\" patient, bedridden patient, after mastectomy",
+      "raw": "Mammography not possible: \"radiophobic\" patient, bedridden patient, after mastectomy",
+      "frequency": null
+    },
+    {
+      "name": "INTERVENTIONAL PROCEDURE",
+      "raw": "INTERVENTIONAL PROCEDURE",
+      "frequency": null
+    },
+    {
+      "name": "Ultrasound-guided cyst aspiration",
+      "raw": "Ultrasound-guided cyst aspiration",
+      "frequency": null
+    },
+    {
+      "name": "Ultrasound-guided core biopsy",
+      "raw": "Ultrasound-guided core biopsy",
+      "frequency": null
+    },
+    {
+      "name": "Ultrasound-guided ductography, if (a)  secretions cannot be expressed (b)  duct cannot be cannulated Accuracy:  98% accuracy for cysts; 99% accuracy for solid masses; small carcinomas have the least characteristic features",
+      "raw": "Ultrasound-guided ductography, if (a)  secretions cannot be expressed (b)  duct cannot be cannulated Accuracy:  98% accuracy for cysts; 99% accuracy for solid masses; small carcinomas have the least characteristic features",
+      "frequency": "98%"
+    },
+    {
+      "name": "Improve detection + characterization of primary",
+      "raw": "Improve detection + characterization of primary",
+      "frequency": null
+    },
+    {
+      "name": "palpable mass + negative mammogram + sonogram",
+      "raw": "palpable mass + negative mammogram + sonogram",
+      "frequency": null
+    },
+    {
+      "name": "status post lumpectomy with positive resection margins ◊  Helps to reduce the rate of re-excision",
+      "raw": "status post lumpectomy with positive resection margins ◊  Helps to reduce the rate of re-excision (4-43%)",
+      "frequency": "43%"
+    },
+    {
+      "name": "repeated indeterminate mammogram",
+      "raw": "repeated indeterminate mammogram",
+      "frequency": null
+    },
+    {
+      "name": "staging:",
+      "raw": "staging:",
+      "frequency": null
+    },
+    {
+      "name": "\"Clearing\" (= screening) of contralateral breast:",
+      "raw": "\"Clearing\" (= screening) of contralateral breast:",
+      "frequency": null
+    },
+    {
+      "name": "Screening of high-risk groups",
+      "raw": "Screening of high-risk groups",
+      "frequency": null
+    },
+    {
+      "name": "young patient with positive BRCA1 gene",
+      "raw": "young patient with positive BRCA1 gene",
+      "frequency": null
+    },
+    {
+      "name": "dense breast + high-risk lesion of LCIS",
+      "raw": "dense breast + high-risk lesion of LCIS",
+      "frequency": null
+    },
+    {
+      "name": "status post mastectomy + breast reconstruction with implant",
+      "raw": "status post mastectomy + breast reconstruction with implant (yearly screening)",
+      "frequency": null
+    },
+    {
+      "name": "Improve detection of recurrent breast cancer",
+      "raw": "Improve detection of recurrent breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "planning for biopsy to determine scar versus recurrent tumor after breast-conserving therapy",
+      "raw": "planning for biopsy to determine scar versus recurrent tumor after breast-conserving therapy",
+      "frequency": null
+    },
+    {
+      "name": "Evaluate response to neoadjuvant chemotherapy",
+      "raw": "Evaluate response to neoadjuvant chemotherapy",
+      "frequency": null
+    },
+    {
+      "name": "Examine breasts in patient with metastatic breast cancer but unknown origin of primary",
+      "raw": "Examine breasts in patient with metastatic breast cancer but unknown origin of primary (2-7%)",
+      "frequency": "7%"
+    },
+    {
+      "name": "axillary node malignancy + negative mammogram",
+      "raw": "axillary node malignancy + negative mammogram",
+      "frequency": null
+    },
+    {
+      "name": "Implant imaging",
+      "raw": "Implant imaging",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  SECONDARY SIGNS OF BREAST CANCER DDx:   trauma, biopsy, abscess, burns (b)  skin thickening ← blocked lymphatic drainage / tumor in lymphatics DDx:   normal in inframammary region DDx:   normal variant (b)  Paget disease = eczematoid appearance of nipple + areola in ductal carcinoma √  associated with ductal calcifications toward nipple DDx:   nipple eczema (c)  nipple discharge DDx:   lactational discharge √  > 1.5 cm without fatty center DDx:  reactive hyperplasia √  venous diameter ratio of > 1.4÷1 in 75% of cancers (= late sign + thus not very important) Location of Breast Masses benign"
+}

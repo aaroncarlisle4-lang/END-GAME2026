@@ -1,0 +1,27 @@
+{
+  "finding": "Spectrum of Disease of Porta Hepatis",
+  "slug": "spectrum_of_disease_of_porta_hepatis",
+  "chapter": "PORTA HEPATIS",
+  "source_file": "processed_clusters/porta_hepatis/spectrum_of_disease_of_porta_hepatis.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "VASCULAR",
+      "raw": "VASCULAR",
+      "frequency": null
+    },
+    {
+      "name": "Main portal vein (MPV): thrombosis, stenosis, aneurysm, gas",
+      "raw": "Main portal vein (MPV): thrombosis, stenosis, aneurysm, gas",
+      "frequency": null
+    },
+    {
+      "name": "Common hepatic artery (CHA): thrombosis, stenosis, aneurysm",
+      "raw": "Common hepatic artery (CHA): thrombosis, stenosis, aneurysm",
+      "frequency": "common"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

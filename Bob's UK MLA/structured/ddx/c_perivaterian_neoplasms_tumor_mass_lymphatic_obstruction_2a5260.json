@@ -1,0 +1,37 @@
+{
+  "finding": "C. Perivaterian neoplasms = tumor mass + lymphatic obstruction",
+  "slug": "c_perivaterian_neoplasms_tumor_mass_lymphatic_obstruction_2a5260",
+  "chapter": "Enlargement of Papilla of Vater",
+  "source_file": "processed_clusters/enlargement_of_papilla_of_vater/c_perivaterian_neoplasms_tumor_mass_lymphatic_obstruction_2a5260.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatous polyp",
+      "raw": "Adenomatous polyp (premalignant lesion)",
+      "frequency": null
+    },
+    {
+      "name": "Lesions simulating enlarged papilla",
+      "raw": "Lesions simulating enlarged papilla",
+      "frequency": null
+    },
+    {
+      "name": "Benign spindle cell tumor",
+      "raw": "Benign spindle cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic pancreatic tissue",
+      "raw": "Ectopic pancreatic tissue",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  irregular surface + erosions"
+}

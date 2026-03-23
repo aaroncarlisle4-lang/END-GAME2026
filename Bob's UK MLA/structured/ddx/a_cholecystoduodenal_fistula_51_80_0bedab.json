@@ -1,0 +1,32 @@
+{
+  "finding": "A. CHOLECYSTODUODENAL FISTULA (51-80%",
+  "slug": "a_cholecystoduodenal_fistula_51_80_0bedab",
+  "chapter": "AGENESIS OF DORSAL PANCREAS",
+  "source_file": "processed_clusters/agenesis_of_dorsal_pancreas/a_cholecystoduodenal_fistula_51_80_0bedab.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Perforated gallstone (90%):",
+      "raw": "Perforated gallstone (90%):",
+      "frequency": "90%"
+    },
+    {
+      "name": "Perforated duodenal ulcer",
+      "raw": "Perforated duodenal ulcer (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Surgical anastomosis",
+      "raw": "Surgical anastomosis",
+      "frequency": null
+    },
+    {
+      "name": "Gallbladder carcinoma",
+      "raw": "Gallbladder carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "associated with gallstone ileus in 20%"
+}

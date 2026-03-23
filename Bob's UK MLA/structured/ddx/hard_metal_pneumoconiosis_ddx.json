@@ -1,0 +1,22 @@
+{
+  "finding": "Hard-Metal Pneumoconiosis (DDx)",
+  "slug": "hard_metal_pneumoconiosis_ddx",
+  "chapter": "Hard-Metal Pneumoconiosis",
+  "source_file": "processed_clusters/hard_metal_pneumoconiosis/hard_metal_pneumoconiosis_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "idiopathic pulmonary fibrosis",
+      "raw": "idiopathic pulmonary fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "non-specific interstitial pneumonia",
+      "raw": "non-specific interstitial pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "diffuse small reticulonodular pattern + small cystic spaces | panlobular bilateral ground-glass opacities / consolidation | parenchymal distortion, honeycombing, traction bronchiectasis"
+}

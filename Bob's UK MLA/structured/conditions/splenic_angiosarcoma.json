@@ -1,0 +1,34 @@
+{
+  "name": "SPLENIC ANGIOSARCOMA",
+  "slug": "splenic_angiosarcoma",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/splenic_angiosarcoma.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "rare, < 100 cases in literature",
+    "Age": "50-60 years"
+  },
+  "dominant_finding": "focal / diffuse hypointense foci on T1WI + T2WI ← iron deposition from hemorrhage",
+  "distribution": "focal / diffuse hypointense foci on T1WI + T2WI ← iron deposition from hemorrhage",
+  "discriminating_features": [
+    "multiple nodules of varying size → usually enlarging spleen",
+    "solitary complex mass with variable contrast enhancement",
+    "metastasizes to liver (in 70%)",
+    "spontaneous rupture (in 33%)",
+    "focal / diffuse hypointense foci on T1WI + T2WI ← iron deposition from hemorrhage"
+  ],
+  "other_features": {
+    "general": [
+      "multiple nodules of varying size → usually enlarging spleen",
+      "solitary complex mass with variable contrast enhancement",
+      "metastasizes to liver (in 70%)",
+      "spontaneous rupture (in 33%)"
+    ],
+    "MR": [
+      "focal / diffuse hypointense foci on T1WI + T2WI ← iron deposition from hemorrhage"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "20% survival rate after 6 months"
+  }
+}

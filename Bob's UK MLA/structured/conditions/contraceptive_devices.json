@@ -1,0 +1,44 @@
+{
+  "name": "CONTRACEPTIVE DEVICES",
+  "slug": "contraceptive_devices",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/contraceptive_devices.md",
+  "definition": "improper position within uterine cavity",
+  "demographics": {
+    "Frequency": "10%",
+    "Location": "cervix, vagina",
+    "Prevalence": "2÷100 women annually"
+  },
+  "dominant_finding": "double echogenic line with plastic IUD",
+  "distribution": "cervix, vagina",
+  "discriminating_features": [
+    "double echogenic line with plastic IUD",
+    "reverberation echoes with metal IUD",
+    "4-5 echogenic dots on SAG view",
+    "horizontal line / dot on TRV view",
+    "echogenic solid line on SAG view"
+  ],
+  "other_features": {
+    "general": [
+      "double echogenic line with plastic IUD",
+      "reverberation echoes with metal IUD",
+      "4-5 echogenic dots on SAG view",
+      "horizontal line / dot on TRV view",
+      "echogenic solid line on SAG view",
+      "series of echoes / dot on TRV view",
+      "dot in fundus + solid line in corpus on SAG view",
+      "solid line in fundus + dot in corpus on TRV view",
+      "embedment in endometrium / myometrium (18%)",
+      "migration into peritoneal cavity → freely floating / encased in adhesions / adherent to",
+      "IUD may not be visualized after 1st trimester → as uterus grows IUD is drawn into cavity",
+      "± ectopic pregnancy",
+      "< 50% of inner coil within uterine cavity",
+      "central tubal end of inner coil (arrow ↑ in drawing) extends < 30 mm into"
+    ]
+  },
+  "clinical": {
+    "Cx": "PID, sepsis, 17 deaths",
+    "Prognosis": "high risk of spontaneous (40-50%) / septic abortion, premature labor,",
+    "Rx": "early removal of IUD during 1st trimester using IUD hook / alligator forceps unless"
+  }
+}

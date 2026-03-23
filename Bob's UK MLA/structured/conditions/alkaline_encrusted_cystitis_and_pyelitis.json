@@ -1,0 +1,25 @@
+{
+  "name": "ALKALINE-ENCRUSTED CYSTITIS AND PYELITIS",
+  "slug": "alkaline_encrusted_cystitis_and_pyelitis",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/alkaline_encrusted_cystitis_and_pyelitis.md",
+  "definition": "chronic severe urinary tract infection affecting urothelial lining",
+  "demographics": {
+    "Path": "mucosal inflammation + encrustation of urothelial lining with struvite + calcium"
+  },
+  "dominant_finding": "diffuse thin / coarse superficial linear urothelial calcifications",
+  "distribution": "diffuse thin / coarse superficial linear urothelial calcifications",
+  "discriminating_features": [
+    "diffuse thin / coarse superficial linear urothelial calcifications"
+  ],
+  "other_features": {
+    "general": [],
+    "NECT": [
+      "diffuse thin / coarse superficial linear urothelial calcifications"
+    ]
+  },
+  "clinical": {
+    "Cx": "septic shock, graft failure",
+    "Rx": "antibiotics, oral acidification of urine"
+  }
+}

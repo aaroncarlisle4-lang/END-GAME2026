@@ -1,0 +1,36 @@
+{
+  "name": "SINONASAL POLYPOSIS",
+  "slug": "sinonasal_polyposis",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/sinonasal_polyposis.md",
+  "definition": "benign sinonasal mucosal lesions benign antral polyp, which widens the sinus ostium and extends into nasal cavity; 5% of all derivative of choanal polyp (following ischemia of polyp with secondary neovascularity",
+  "demographics": {
+    "Frequency": "in 25% of patients with allergic rhinitis;",
+    "Location": "commonly maxillary antrum",
+    "Age": "teenagers + young adults"
+  },
+  "dominant_finding": "remodeling / expansion of sinus with enlargement",
+  "distribution": "commonly maxillary antrum",
+  "discriminating_features": [
+    "multiple homogeneous soft-tissue masses with smooth convex borders within nasal cavity",
+    "remodeling / expansion of sinus with enlargement",
+    "thinning of bony trabeculae ± erosive changes at anterior skull base",
+    "usually peripheral / occasionally solid heterogeneous enhancement",
+    "antral clouding"
+  ],
+  "other_features": {
+    "general": [
+      "multiple homogeneous soft-tissue masses with smooth convex borders within nasal cavity",
+      "remodeling / expansion of sinus with enlargement",
+      "thinning of bony trabeculae ± erosive changes at anterior skull base",
+      "usually peripheral / occasionally solid heterogeneous enhancement",
+      "antral clouding",
+      "ipsilateral nasal mass",
+      "smooth mass enlarging the sinus ostium",
+      "NO sinus expansion"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "75% surgical failure rate"
+  }
+}

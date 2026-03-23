@@ -1,0 +1,42 @@
+{
+  "finding": "Delayed Uptake of Water-Soluble Contrast in Cord Lesion",
+  "slug": "delayed_uptake_of_water_soluble_contrast_in_cord_lesion_7c76ae",
+  "chapter": "Anterior Epidural Space Abnormality",
+  "source_file": "processed_clusters/anterior_epidural_space_abnormality/delayed_uptake_of_water_soluble_contrast_in_cord_lesion_7c76ae.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Syringohydromyelia",
+      "raw": "Syringohydromyelia",
+      "frequency": null
+    },
+    {
+      "name": "Cystic tumor of cord",
+      "raw": "Cystic tumor of cord",
+      "frequency": null
+    },
+    {
+      "name": "Osteomalacia exceedingly rare:",
+      "raw": "Osteomalacia exceedingly rare:",
+      "frequency": "rare"
+    },
+    {
+      "name": "Demyelinating disease",
+      "raw": "Demyelinating disease",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Infarction",
+      "raw": "Infarction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

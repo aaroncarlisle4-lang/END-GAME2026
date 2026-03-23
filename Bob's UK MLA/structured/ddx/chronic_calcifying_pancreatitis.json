@@ -1,0 +1,42 @@
+{
+  "finding": "Chronic Calcifying Pancreatitis",
+  "slug": "chronic_calcifying_pancreatitis",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/chronic_calcifying_pancreatitis.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Alcoholism (70-80%) in developed countries",
+      "raw": "Alcoholism (70-80%) in developed countries",
+      "frequency": "80%"
+    },
+    {
+      "name": "Juvenile tropical pancreatitis",
+      "raw": "Juvenile tropical pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary pancreatitis",
+      "raw": "Hereditary pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Inborn errors of metabolism",
+      "raw": "Inborn errors of metabolism",
+      "frequency": null
+    },
+    {
+      "name": "Hyperlipidemia",
+      "raw": "Hyperlipidemia",
+      "frequency": null
+    },
+    {
+      "name": "Hypercalcemia",
+      "raw": "Hypercalcemia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

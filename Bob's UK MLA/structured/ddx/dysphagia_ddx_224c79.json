@@ -1,0 +1,27 @@
+{
+  "finding": "Dysphagia (DDx)",
+  "slug": "dysphagia_ddx_224c79",
+  "chapter": "Dysphagia",
+  "source_file": "processed_clusters/dysphagia/dysphagia_ddx_224c79.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "odynophagia",
+      "raw": "odynophagia",
+      "frequency": null
+    },
+    {
+      "name": "globus sensation",
+      "raw": "globus sensation",
+      "frequency": null
+    },
+    {
+      "name": "heartburn",
+      "raw": "heartburn",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

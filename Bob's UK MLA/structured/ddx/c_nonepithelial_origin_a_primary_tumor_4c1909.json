@@ -1,0 +1,72 @@
+{
+  "finding": "C. NONEPITHELIAL ORIGIN (a) Primary tumor",
+  "slug": "c_nonepithelial_origin_a_primary_tumor_4c1909",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/c_nonepithelial_origin_a_primary_tumor_4c1909.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary lymphoma < 1% of pancreatic neoplasms",
+      "raw": "Primary lymphoma < 1% of pancreatic neoplasms",
+      "frequency": "1%"
+    },
+    {
+      "name": "Primitive neuroectodermal tumor",
+      "raw": "Primitive neuroectodermal tumor (in children, part of Ewing sarcoma family of tumors)",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma (b)  Solid mesenchymal tumor (1%) Benign primary nonepithelial neoplasms of the pancreas are a rare group of usually sharply marginated solid and cystic tumors.",
+      "raw": "Rhabdomyosarcoma (b)  Solid mesenchymal tumor (1%) Benign primary nonepithelial neoplasms of the pancreas are a rare group of usually sharply marginated solid and cystic tumors.",
+      "frequency": "1%"
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Ganglioneuroma",
+      "raw": "Ganglioneuroma",
+      "frequency": null
+    },
+    {
+      "name": "Desmoid tumor",
+      "raw": "Desmoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Perivascular epithelioid cell tumor: clear cell \"sugar tumor\", angiomyolipoma, lymphangiomyomatosis, clear cell tumor (c)  Cystic nonepithelial neoplasm",
+      "raw": "Perivascular epithelioid cell tumor: clear cell \"sugar tumor\", angiomyolipoma, lymphangiomyomatosis, clear cell tumor (c)  Cystic nonepithelial neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Mature cystic teratoma",
+      "raw": "Mature cystic teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma (d)  Metastases to pancreas",
+      "raw": "Lymphangioma (d)  Metastases to pancreas",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

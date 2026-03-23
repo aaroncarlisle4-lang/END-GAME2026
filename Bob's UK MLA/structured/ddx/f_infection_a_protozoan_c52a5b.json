@@ -1,0 +1,72 @@
+{
+  "finding": "F. INFECTION (a) protozoan",
+  "slug": "f_infection_a_protozoan_c52a5b",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/f_infection_a_protozoan_c52a5b.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Amebiasis",
+      "raw": "Amebiasis",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Strongyloidiasis (b)  bacterial",
+      "raw": "Strongyloidiasis (b)  bacterial",
+      "frequency": null
+    },
+    {
+      "name": "Shigellosis, salmonellosis",
+      "raw": "Shigellosis, salmonellosis",
+      "frequency": null
+    },
+    {
+      "name": "Staphylococcal colitis",
+      "raw": "Staphylococcal colitis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Gonorrheal proctitis",
+      "raw": "Gonorrheal proctitis",
+      "frequency": null
+    },
+    {
+      "name": "Yersinia colitis",
+      "raw": "Yersinia colitis",
+      "frequency": null
+    },
+    {
+      "name": "Campylobacter fetus colitis (c)  fungal histoplasmosis, mucormycosis, actinomycosis, candidiasis (d)  viral",
+      "raw": "Campylobacter fetus colitis (c)  fungal histoplasmosis, mucormycosis, actinomycosis, candidiasis (d)  viral",
+      "frequency": null
+    },
+    {
+      "name": "Lymphogranuloma venereum",
+      "raw": "Lymphogranuloma venereum",
+      "frequency": null
+    },
+    {
+      "name": "Herpes proctocolitis",
+      "raw": "Herpes proctocolitis",
+      "frequency": null
+    },
+    {
+      "name": "Cytomegalovirus",
+      "raw": "Cytomegalovirus (transplants)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

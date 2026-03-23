@@ -1,0 +1,27 @@
+{
+  "finding": "D. OBLITERATION OF PERIRENAL FAT",
+  "slug": "d_obliteration_of_perirenal_fat",
+  "chapter": "B. SMALL KIDNEY",
+  "source_file": "processed_clusters/b_small_kidney/d_obliteration_of_perirenal_fat.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Perirenal abscess",
+      "raw": "Perirenal abscess",
+      "frequency": null
+    },
+    {
+      "name": "Perirenal hematoma",
+      "raw": "Perirenal hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Renal tumors",
+      "raw": "Renal tumors",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

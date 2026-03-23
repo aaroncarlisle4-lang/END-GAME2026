@@ -1,0 +1,27 @@
+{
+  "finding": "Acute Aortic Syndrome",
+  "slug": "acute_aortic_syndrome_4163b5",
+  "chapter": "AORTA",
+  "source_file": "processed_clusters/aorta/acute_aortic_syndrome_4163b5.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intramural hematoma",
+      "raw": "Intramural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Penetrating atherosclerotic ulcer",
+      "raw": "Penetrating atherosclerotic ulcer",
+      "frequency": null
+    },
+    {
+      "name": "Aortic dissection with overt false lumen",
+      "raw": "Aortic dissection with overt false lumen",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

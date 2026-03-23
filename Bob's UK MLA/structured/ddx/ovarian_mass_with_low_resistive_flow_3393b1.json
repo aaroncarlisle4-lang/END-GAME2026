@@ -1,0 +1,42 @@
+{
+  "finding": "Ovarian Mass with Low Resistive Flow",
+  "slug": "ovarian_mass_with_low_resistive_flow_3393b1",
+  "chapter": "ADNEXA",
+  "source_file": "processed_clusters/adnexa/ovarian_mass_with_low_resistive_flow_3393b1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Physiologic corpus luteum",
+      "raw": "Physiologic corpus luteum",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory mass",
+      "raw": "Inflammatory mass",
+      "frequency": null
+    },
+    {
+      "name": "Endometrioma",
+      "raw": "Endometrioma",
+      "frequency": null
+    },
+    {
+      "name": "Mesothelial cyst",
+      "raw": "Mesothelial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Benign tumor: serous / mucinous cystadenoma, mature cystic teratoma, cystadenofibroma",
+      "raw": "Benign tumor: serous / mucinous cystadenoma, mature cystic teratoma, cystadenofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant ovarian tumor ◊  Some malignancies have high resistive blood flow!",
+      "raw": "Malignant ovarian tumor ◊  Some malignancies have high resistive blood flow!",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Low resistance flow = RI < 0.5 or PI ≤ 1.0"
+}

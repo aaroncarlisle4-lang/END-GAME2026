@@ -1,0 +1,27 @@
+{
+  "finding": "Optic Pathway Glioma (DDx)",
+  "slug": "optic_pathway_glioma_ddx_eda09e",
+  "chapter": "Optic Pathway Glioma",
+  "source_file": "processed_clusters/optic_pathway_glioma/optic_pathway_glioma_ddx_eda09e.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "optic nerve sheath meningioma (middle age",
+      "raw": "optic nerve sheath meningioma (middle age",
+      "frequency": null
+    },
+    {
+      "name": "hyperattenuating mass",
+      "raw": "hyperattenuating mass",
+      "frequency": null
+    },
+    {
+      "name": "plaquelike",
+      "raw": "plaquelike",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "other gliomas | macrocephaly | hydrocephalus ← aqueductal stenosis (almost exclusive to patients without NF1) | neurofibromatosis spots (= foci of T2 prolongation due to myelin vacuolization)"
+}

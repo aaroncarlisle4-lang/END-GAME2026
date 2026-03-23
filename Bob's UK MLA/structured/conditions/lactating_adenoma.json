@@ -1,0 +1,46 @@
+{
+  "name": "LACTATING ADENOMA",
+  "slug": "lactating_adenoma",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/lactating_adenoma.md",
+  "definition": "newly discovered painless benign breast mass during pregnancy / lactation",
+  "demographics": {
+    "Etiology": "?",
+    "Path": "well-circumscribed yellow spherical mass with lobulated surface + rubbery firm texture",
+    "Histo": "pure adenoma composed of secretory lobules lined by granular and foamy to vacuolated",
+    "Size": "typically < 3 cm"
+  },
+  "dominant_finding": "usually benign features:",
+  "distribution": "posterior acoustic enhancement",
+  "discriminating_features": [
+    "mass of equal / slightly decreased density = fat content of milk ← lactational hyperplasia",
+    "punctate calcifications may be present",
+    "usually benign features:",
+    "homogeneously hypoechoic / isoechoic mass",
+    "smooth lobulations + well-defined margins"
+  ],
+  "other_features": {
+    "general": [
+      "mass of equal / slightly decreased density = fat content of milk ← lactational hyperplasia",
+      "punctate calcifications may be present"
+    ],
+    "US": [
+      "usually benign features:",
+      "homogeneously hypoechoic / isoechoic mass",
+      "smooth lobulations + well-defined margins",
+      "long axis parallel to chest wall",
+      "posterior acoustic enhancement",
+      "occasionally malignant features:",
+      "irregular angulated margins",
+      "posterior acoustic shadowing",
+      "fibrous septa may be present",
+      "± small central hyperechoic foci (= fat within milk)",
+      "increased vascularity by Doppler"
+    ]
+  },
+  "clinical": {
+    "Cx": "infarction → painful breast mass",
+    "Prognosis": "regression after completion of breast feeding",
+    "Rx": "excision if without spontaneous resolution / with pain"
+  }
+}

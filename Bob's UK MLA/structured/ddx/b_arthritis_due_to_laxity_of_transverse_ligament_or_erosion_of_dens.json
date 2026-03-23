@@ -1,0 +1,47 @@
+{
+  "finding": "B. Arthritis due to laxity of transverse ligament or erosion of dens",
+  "slug": "b_arthritis_due_to_laxity_of_transverse_ligament_or_erosion_of_dens",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/b_arthritis_due_to_laxity_of_transverse_ligament_or_erosion_of_dens.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Psoriatic arthritis",
+      "raw": "Psoriatic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Reiter syndrome",
+      "raw": "Reiter syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Ankylosing spondylitis",
+      "raw": "Ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "SLE rare:  in gout + CPPD",
+      "raw": "SLE rare:  in gout + CPPD",
+      "frequency": "rare"
+    },
+    {
+      "name": "Inflammatory process pharyngeal infection in childhood, retropharyngeal abscess, coryza, otitis media, mastoiditis, cervical adenitis, parotitis, alveolar abscess",
+      "raw": "Inflammatory process pharyngeal infection in childhood, retropharyngeal abscess, coryza, otitis media, mastoiditis, cervical adenitis, parotitis, alveolar abscess",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma (very rare without odontoid fracture)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "√  dislocation 8-10 days after onset of symptoms"
+}

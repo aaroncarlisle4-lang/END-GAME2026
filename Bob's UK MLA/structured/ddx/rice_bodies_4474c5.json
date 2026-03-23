@@ -1,0 +1,47 @@
+{
+  "finding": "Rice Bodies",
+  "slug": "rice_bodies_4474c5",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/rice_bodies_4474c5.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Juvenile rheumatoid arthritis",
+      "raw": "Juvenile rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculous arthritis",
+      "raw": "Tuberculous arthritis",
+      "frequency": null
+    },
+    {
+      "name": "microinfarction of synovium / detachment of hypertrophied synovium → sloughed synovium falls into joint space → coated with fibrinogen",
+      "raw": "microinfarction of synovium / detachment of hypertrophied synovium → sloughed synovium falls into joint space → coated with fibrinogen",
+      "frequency": null
+    },
+    {
+      "name": "precipitate of fibrin + fibronectin / core of mononuclear cells, blood cells and amorphous material",
+      "raw": "precipitate of fibrin + fibronectin / core of mononuclear cells, blood cells and amorphous material",
+      "frequency": null
+    },
+    {
+      "name": "Synovial osteochondromatosis",
+      "raw": "Synovial osteochondromatosis (monoarticular, large joint, hyperintense cartilage components on T2WI)",
+      "frequency": null
+    },
+    {
+      "name": "Pigmented villonodular synovitis",
+      "raw": "Pigmented villonodular synovitis (monoarticular, large joint, hemosiderin deposition)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  subset of loose bodies as a nonspecific response to chronic synovial inflammation resembling polished rice Pathogenesis: MRI: √  well-defined nodules of intermediate SI on T1WI + relatively low intensity on T2WI DDx:"
+}

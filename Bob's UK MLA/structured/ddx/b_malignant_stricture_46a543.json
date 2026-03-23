@@ -1,0 +1,37 @@
+{
+  "finding": "B. MALIGNANT STRICTURE",
+  "slug": "b_malignant_stricture_46a543",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/b_malignant_stricture_46a543.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pancreatic adenocarcinoma",
+      "raw": "Pancreatic adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Ampullary cancer",
+      "raw": "Ampullary cancer",
+      "frequency": null
+    },
+    {
+      "name": "Cholangiocarcinoma",
+      "raw": "Cholangiocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Compression by enlarged lymph node",
+      "raw": "Compression by enlarged lymph node",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis A narrowed segment with the following MRI features is more likely to be malignant:",
+      "raw": "Metastasis A narrowed segment with the following MRI features is more likely to be malignant:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  hyperenhancement relative to liver during portal venous phase √  length of > 12 mm √  wall thickness > 3 mm √  indistinct outer margin √  luminal irregularity and asymmetry"
+}

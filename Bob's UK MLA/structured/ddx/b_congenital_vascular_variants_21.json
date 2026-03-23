@@ -1,0 +1,27 @@
+{
+  "finding": "B. CONGENITAL VASCULAR VARIANTS (21%",
+  "slug": "b_congenital_vascular_variants_21",
+  "chapter": "Pulsatile tinnitus ± Vascular Tympanic Membrane",
+  "source_file": "processed_clusters/pulsatile_tinnitus_vascular_tympanic_membrane/b_congenital_vascular_variants_21.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aberrant ICA",
+      "raw": "Aberrant ICA",
+      "frequency": null
+    },
+    {
+      "name": "Dehiscent jugular bulb",
+      "raw": "Dehiscent jugular bulb",
+      "frequency": null
+    },
+    {
+      "name": "High-riding nondehiscent jugular bulb",
+      "raw": "High-riding nondehiscent jugular bulb (= jugular megabulb)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  high jugular bulb with diverticulum projecting cephalad into petrous temporal bone"
+}

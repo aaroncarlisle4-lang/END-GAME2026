@@ -1,0 +1,27 @@
+{
+  "finding": "Solitary Lesion of Parotid Gland",
+  "slug": "solitary_lesion_of_parotid_gland",
+  "chapter": "Parotid Gland Enlargement",
+  "source_file": "processed_clusters/parotid_gland_enlargement/solitary_lesion_of_parotid_gland.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pleomorphic adenoma",
+      "raw": "Pleomorphic adenoma (80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "Warthin tumor",
+      "raw": "Warthin tumor",
+      "frequency": null
+    },
+    {
+      "name": "Mucoepidermoid carcinoma",
+      "raw": "Mucoepidermoid carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "B. Renal inflammation",
+  "slug": "b_renal_inflammation_d5fbe2",
+  "chapter": "Gallium in Lung Imaging",
+  "source_file": "processed_clusters/gallium_in_lung_imaging/b_renal_inflammation_d5fbe2.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute pyelonephritis",
+      "raw": "Acute pyelonephritis (88% sensitivity)",
+      "frequency": "88%"
+    },
+    {
+      "name": "Lobar nephronia",
+      "raw": "Lobar nephronia",
+      "frequency": null
+    },
+    {
+      "name": "Renal abscess",
+      "raw": "Renal abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  diffuse / focal uptake"
+}

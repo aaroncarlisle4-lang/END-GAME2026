@@ -1,0 +1,29 @@
+{
+  "name": "DYKE-DAVIDOFF-MASON SYNDROME",
+  "slug": "dyke_davidoff_mason_syndrome",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/dyke_davidoff_mason_syndrome.md",
+  "definition": "CEREBRAL HEMIATROPHY = INFANTILE / CONGENITAL HEMIPLEGIA = unilateral cerebral atrophy with ipsilateral small skull",
+  "demographics": {
+    "Age": "presents in adolescence"
+  },
+  "dominant_finding": "unilateral thickening of skull",
+  "distribution": "unilateral thickening of skull",
+  "discriminating_features": [
+    "unilateral thickening of skull",
+    "unilateral decrease in size of cranial fossa",
+    "unilateral overdevelopment of sinuses",
+    "contraction of a hemisphere / lobe",
+    "compensatory enlargement of adjacent ventricle + sulci with midline shift"
+  ],
+  "other_features": {
+    "general": [
+      "unilateral thickening of skull",
+      "unilateral decrease in size of cranial fossa",
+      "unilateral overdevelopment of sinuses",
+      "contraction of a hemisphere / lobe",
+      "compensatory enlargement of adjacent ventricle + sulci with midline shift"
+    ]
+  },
+  "clinical": {}
+}

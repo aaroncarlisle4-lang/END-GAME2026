@@ -1,0 +1,27 @@
+{
+  "finding": "Endometriosis (DDx)",
+  "slug": "endometriosis_ddx_a8e115",
+  "chapter": "Endometriosis",
+  "source_file": "processed_clusters/endometriosis/endometriosis_ddx_a8e115.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hemorrhagic functional ovarian cyst (solitary",
+      "raw": "hemorrhagic functional ovarian cyst (solitary",
+      "frequency": null
+    },
+    {
+      "name": "thin-walled",
+      "raw": "thin-walled",
+      "frequency": null
+    },
+    {
+      "name": "SI lower on T1WI + higher on T2WI); mature cystic teratoma",
+      "raw": "SI lower on T1WI + higher on T2WI); mature cystic teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "irregular margins | typically homogeneously hyperintense \"light bulb\" SI of cyst(s) on T1WI similar to fat | hyperintensity on fat-suppressed T1WI (effectively excludes fat in a dermoid) | ± \"T2 shading\" sign = faint / complete loss of signal of entire cyst (lower than that of"
+}

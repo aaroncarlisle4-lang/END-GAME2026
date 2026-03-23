@@ -1,0 +1,52 @@
+{
+  "finding": "Posterior Acoustic Enhancement",
+  "slug": "posterior_acoustic_enhancement",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/posterior_acoustic_enhancement.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Normal anatomic structure",
+      "raw": "Normal anatomic structure",
+      "frequency": null
+    },
+    {
+      "name": "Cyst: simple / complicated",
+      "raw": "Cyst: simple / complicated",
+      "frequency": null
+    },
+    {
+      "name": "Fibroadenoma",
+      "raw": "Fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "Nodular sclerosing adenosis",
+      "raw": "Nodular sclerosing adenosis",
+      "frequency": null
+    },
+    {
+      "name": "Papilloma",
+      "raw": "Papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Complex cystic mass",
+      "raw": "Complex cystic mass",
+      "frequency": null
+    },
+    {
+      "name": "Invasive ductal carcinoma",
+      "raw": "Invasive ductal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

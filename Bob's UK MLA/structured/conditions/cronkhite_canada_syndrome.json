@@ -1,0 +1,28 @@
+{
+  "name": "CRONKHITE-CANADA SYNDROME",
+  "slug": "cronkhite_canada_syndrome",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/cronkhite_canada_syndrome.md",
+  "definition": "nonneoplastic nonhereditary polyps (as in juvenile polyposis) associated with ectodermal",
+  "demographics": {
+    "Prevalence": "> 100 cases described",
+    "Histo": "hamartomatous polyps resemble juvenile / retention polyps = multiple cystic spaces",
+    "Age": "62 (range, 42-75) years; M < F",
+    "Location": "stomach (100%); small bowel (> 50%); colon (100%)"
+  },
+  "dominant_finding": "multiple polyps",
+  "distribution": "stomach (100%); small bowel (> 50%); colon (100%)",
+  "discriminating_features": [
+    "multiple polyps",
+    "thickened gastric rugae"
+  ],
+  "other_features": {
+    "general": [
+      "multiple polyps",
+      "thickened gastric rugae"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "rapidly fatal in women within 6-18 months ← cachexia; tendency toward remission"
+  }
+}

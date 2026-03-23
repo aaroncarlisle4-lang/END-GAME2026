@@ -1,0 +1,32 @@
+{
+  "finding": "B. DEMYELINATING DISEASE",
+  "slug": "b_demyelinating_disease",
+  "chapter": "PERIVENTRICULAR REGION",
+  "source_file": "processed_clusters/periventricular_region/b_demyelinating_disease.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Multiple sclerosis",
+      "raw": "Multiple sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Acute disseminated encephalomyelitis (ADEM) = postviral leukoencephalopathy",
+      "raw": "Acute disseminated encephalomyelitis (ADEM) = postviral leukoencephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Progressive multifocal leukoencephalopathy",
+      "raw": "Progressive multifocal leukoencephalopathy",
+      "frequency": null
+    },
+    {
+      "name": "Lymphomatoid granulomatosis",
+      "raw": "Lymphomatoid granulomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

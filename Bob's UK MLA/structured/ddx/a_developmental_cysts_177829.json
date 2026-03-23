@@ -1,0 +1,27 @@
+{
+  "finding": "A. DEVELOPMENTAL CYSTS",
+  "slug": "a_developmental_cysts_177829",
+  "chapter": "B. CHROMOSOMAL ABNORMALITY",
+  "source_file": "processed_clusters/b_chromosomal_abnormality/a_developmental_cysts_177829.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epidermoid cyst /dermoid",
+      "raw": "Epidermoid cyst /dermoid",
+      "frequency": null
+    },
+    {
+      "name": "Rathke cleft cyst",
+      "raw": "Rathke cleft cyst",
+      "frequency": null
+    },
+    {
+      "name": "Colloid cyst",
+      "raw": "Colloid cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

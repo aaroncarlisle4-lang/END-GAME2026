@@ -1,0 +1,40 @@
+{
+  "finding": "Pediatric Presacral Mass",
+  "slug": "pediatric_presacral_mass",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/pediatric_presacral_mass.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital & developmental mass",
+      "raw": "Congenital & developmental mass",
+      "frequency": null
+    },
+    {
+      "name": "Sacrococcygeal teratoma [Anterior sacral meningocele]",
+      "raw": "Sacrococcygeal teratoma",
+      "frequency": null,
+      "sites": [
+        "Anterior sacral meningocele"
+      ]
+    },
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Enteric cyst",
+      "raw": "Enteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cystic lymphatic malformation",
+      "raw": "Cystic lymphatic malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

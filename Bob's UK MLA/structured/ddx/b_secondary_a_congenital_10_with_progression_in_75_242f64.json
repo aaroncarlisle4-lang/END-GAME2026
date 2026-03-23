@@ -1,0 +1,62 @@
+{
+  "finding": "B. Secondary (a) congenital (10%) with progression in 75%",
+  "slug": "b_secondary_a_congenital_10_with_progression_in_75_242f64",
+  "chapter": "OSSIFYING FIBROMA",
+  "source_file": "processed_clusters/ossifying_fibroma/b_secondary_a_congenital_10_with_progression_in_75_242f64.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteogenic: wedge-shaped vertebra, hemivertebra, fused vertebra, unilateral bar",
+      "raw": "Osteogenic: wedge-shaped vertebra, hemivertebra, fused vertebra, unilateral bar",
+      "frequency": null
+    },
+    {
+      "name": "Neuropathic: tethered cord, syringomyelia, Chiari malformation, (myelo)meningocele, diastematomyelia (b)  developmental",
+      "raw": "Neuropathic: tethered cord, syringomyelia, Chiari malformation, (myelo)meningocele, diastematomyelia (b)  developmental",
+      "frequency": null
+    },
+    {
+      "name": "Skeletal dysplasia: achondroplasia",
+      "raw": "Skeletal dysplasia: achondroplasia",
+      "frequency": null
+    },
+    {
+      "name": "Skeletal dysostosis: neurofibromatosis, osteogenesis imperfecta",
+      "raw": "Skeletal dysostosis: neurofibromatosis, osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Degenerative scoliosis",
+      "raw": "Degenerative scoliosis",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic scoliosis (c)  neuromuscular",
+      "raw": "Traumatic scoliosis (c)  neuromuscular",
+      "frequency": null
+    },
+    {
+      "name": "Neuropathic (acquired): cerebral palsy, spinocerebellar degeneration, poliomyelitis",
+      "raw": "Neuropathic (acquired): cerebral palsy, spinocerebellar degeneration, poliomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Myopathic: muscular dystrophy (d)  tumor-associated",
+      "raw": "Myopathic: muscular dystrophy (d)  tumor-associated",
+      "frequency": null
+    },
+    {
+      "name": "Osseous: osteoid osteoma, osteoblastoma",
+      "raw": "Osseous: osteoid osteoma, osteoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Extraosseous: extramedullary (eg, neurofibroma) / intramedullary (eg, astrocytoma) tumor A focal short-segment scoliosis or painful scoliosis should raise suspicion for an underlying lesion.",
+      "raw": "Extraosseous: extramedullary (eg, neurofibroma) / intramedullary (eg, astrocytoma) tumor A focal short-segment scoliosis or painful scoliosis should raise suspicion for an underlying lesion.",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Nomenclature: apex  =   vertebra / disk with the greatest rotation / farthest deviation from center of vertebral column end vertebra  =   vertebra with maximum tilt toward apex of curvature; used to measure Cobb angle neutral vertebra  =   vertebra without rotation (= symmetric pedicles) on standing frontal radiograph stable vertebra  =   vertebra farthest cephalad roughly bisected by CSVL below end vertebra of distal curve CSVL  =   central sacral vertical line = line drawn perpendicular to tangential line across iliac crests bisecting sacrum Primary and Secondary Curves Major curve  =   prim"
+}

@@ -1,0 +1,40 @@
+{
+  "finding": "Fluid Collection in Lesser Sac",
+  "slug": "fluid_collection_in_lesser_sac_547182",
+  "chapter": "E. HYDROPS FETALIS",
+  "source_file": "processed_clusters/e_hydrops_fetalis/fluid_collection_in_lesser_sac_547182.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Inflammatory exudate",
+      "raw": "Inflammatory exudate",
+      "frequency": null
+    },
+    {
+      "name": "Acute pancreatitis",
+      "raw": "Acute pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Cholecystitis",
+      "raw": "Cholecystitis",
+      "frequency": null
+    },
+    {
+      "name": "Perforated gastric ulcer [Left perinephric abscess]",
+      "raw": "Perforated gastric ulcer",
+      "frequency": null,
+      "sites": [
+        "Left perinephric abscess"
+      ]
+    },
+    {
+      "name": "Ascending pelvic inflammation (rare): appendicitis, diverticulitis",
+      "raw": "Ascending pelvic inflammation (rare): appendicitis, diverticulitis",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Vaginal Fistula",
+  "slug": "vaginal_fistula",
+  "chapter": "VAGINA",
+  "source_file": "processed_clusters/vagina/vaginal_fistula.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Enterovaginal fistula:",
+      "raw": "Enterovaginal fistula:",
+      "frequency": null
+    },
+    {
+      "name": "Vesicovaginal fistula: hysterectomy, radiation therapy",
+      "raw": "Vesicovaginal fistula: hysterectomy, radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Ureterovaginal fistula: vaginal hysterectomy",
+      "raw": "Ureterovaginal fistula: vaginal hysterectomy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  rectovaginal: incomplete healing of perineal laceration ← obstetric trauma, radiation therapy (b)  anovaginal: inflammatory bowel disease (10% of patients with Crohn disease) (c)  colovaginal: diverticulitis"
+}

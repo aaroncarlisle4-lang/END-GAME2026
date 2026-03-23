@@ -1,0 +1,35 @@
+{
+  "name": "GOLTZ-GORLIN SYNDROME",
+  "slug": "goltz_gorlin_syndrome",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/goltz_gorlin_syndrome.md",
+  "definition": "FOCAL DERMAL HYPOPLASIA X-linked dominant connective tissue genodermatosis",
+  "demographics": {
+    "Genetics": "defect in PORCN gene encoding a key protein involved in developmental Wnt",
+    "Location": "antecubital + popliteal fossa",
+    "Age": "present at birth"
+  },
+  "dominant_finding": "scoliosis",
+  "distribution": "antecubital + popliteal fossa",
+  "discriminating_features": [
+    "scoliosis",
+    "generalized osteopenia",
+    "osteopathia striata = bilateral symmetric vertical metaphyseal striations of long bones with",
+    "skeletal defects:",
+    "\"lobster claw\" deformity = split hands and feet"
+  ],
+  "other_features": {
+    "general": [
+      "scoliosis",
+      "generalized osteopenia",
+      "osteopathia striata = bilateral symmetric vertical metaphyseal striations of long bones with",
+      "skeletal defects:",
+      "\"lobster claw\" deformity = split hands and feet",
+      "clinodactyly, oligodactyly, polydactyly, syndactyly",
+      "regional asymmetric underdevelopment",
+      "spina bifida",
+      "rib and clavicular abnormalities"
+    ]
+  },
+  "clinical": {}
+}

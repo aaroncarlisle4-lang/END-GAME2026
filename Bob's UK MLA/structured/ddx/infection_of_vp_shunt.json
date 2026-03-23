@@ -1,0 +1,62 @@
+{
+  "finding": "Infection of VP Shunt",
+  "slug": "infection_of_vp_shunt",
+  "chapter": "Leakage of VP Shunt",
+  "source_file": "processed_clusters/leakage_of_vp_shunt/infection_of_vp_shunt.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "intermittent low-grade fever",
+      "raw": "intermittent low-grade fever",
+      "frequency": null
+    },
+    {
+      "name": "anemia, dehydration, hepatosplenomegaly",
+      "raw": "anemia, dehydration, hepatosplenomegaly",
+      "frequency": null
+    },
+    {
+      "name": "stiff neck; swelling + redness over shunting tract; peritonitis",
+      "raw": "stiff neck; swelling + redness over shunting tract; peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Ascites",
+      "raw": "Ascites",
+      "frequency": null
+    },
+    {
+      "name": "Pseudocyst formation",
+      "raw": "Pseudocyst formation",
+      "frequency": null
+    },
+    {
+      "name": "Perforation of viscus / abdominal wall",
+      "raw": "Perforation of viscus / abdominal wall",
+      "frequency": null
+    },
+    {
+      "name": "Intestinal obstruction",
+      "raw": "Intestinal obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Metastases to peritoneum: germinoma, medulloblastoma, astrocytoma, glioblastoma",
+      "raw": "Metastases to peritoneum: germinoma, medulloblastoma, astrocytoma, glioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "intermittent / chronic headaches, vomiting, malaise",
+      "raw": "intermittent / chronic headaches, vomiting, malaise",
+      "frequency": null
+    },
+    {
+      "name": "slowed refill of shunt reservoir",
+      "raw": "slowed refill of shunt reservoir",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence:  1-5-38% Time of onset:   within 2 months of shunt placement √  ventriculitis (= enlarged ventricles with irregular enhancing ventricular wall ± septations) √  meningitis (= enhancement of cerebral cortical sulci) Abdominal Complications of VP Shunt Subdural Hematoma / Hygroma of VP Shunt Cause:  precipitous drainage of markedly enlarged ventricles Age:     usually seen in children > 3 years of age with relatively fixed head size Prognosis:  small hematomas resolve on their own Granulomatous Lesion of VP Shunt =  rare granulomatous reaction adjacent to shunt tube within / near ventr"
+}

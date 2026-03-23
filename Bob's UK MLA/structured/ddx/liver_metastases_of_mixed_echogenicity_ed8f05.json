@@ -1,0 +1,107 @@
+{
+  "finding": "Liver Metastases of Mixed Echogenicity",
+  "slug": "liver_metastases_of_mixed_echogenicity_ed8f05",
+  "chapter": "LIPOMA OF LIVER",
+  "source_file": "processed_clusters/lipoma_of_liver/liver_metastases_of_mixed_echogenicity_ed8f05.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Breast cancer   31%",
+      "raw": "Breast cancer   31%",
+      "frequency": "31%"
+    },
+    {
+      "name": "Rectal cancer   20%",
+      "raw": "Rectal cancer   20%",
+      "frequency": "20%"
+    },
+    {
+      "name": "Lung cancer   17%",
+      "raw": "Lung cancer   17%",
+      "frequency": "17%"
+    },
+    {
+      "name": "Stomach cancer   14%",
+      "raw": "Stomach cancer   14%",
+      "frequency": "14%"
+    },
+    {
+      "name": "Anaplastic cancer   11%",
+      "raw": "Anaplastic cancer   11%",
+      "frequency": "11%"
+    },
+    {
+      "name": "Cervical cancer   5%",
+      "raw": "Cervical cancer   5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "Carcinoid   1%",
+      "raw": "Carcinoid   1%",
+      "frequency": "1%"
+    },
+    {
+      "name": "Mucinous ovarian carcinoma",
+      "raw": "Mucinous ovarian carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Colonic carcinoma",
+      "raw": "Colonic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Lung carcinoma",
+      "raw": "Lung carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid tumor",
+      "raw": "Carcinoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyosarcoma",
+      "raw": "Leiomyosarcoma (and other sarcomas)",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Gastric carcinoma",
+      "raw": "Gastric carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian carcinoma",
+      "raw": "Ovarian carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial carcinoma",
+      "raw": "Endometrial carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Small cell carcinoma",
+      "raw": "Small cell carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Prevalence:   37.5% Cystic Liver Metastases Pathophysiology of cystic metastases: (a)  necrosis of hypervascular metastases ← rapid growth beyond capacity of vascular supply: neuroendocrine tumor, melanoma, GIST (b)  abundant mucin production by mucinous adenocarcinoma: colorectal / ovarian carcinoma (c)  systemic / locoregional treatment"
+}

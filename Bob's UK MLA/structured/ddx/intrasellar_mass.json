@@ -1,0 +1,77 @@
+{
+  "finding": "Intrasellar Mass",
+  "slug": "intrasellar_mass",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/intrasellar_mass.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pituitary adenoma / carcinoma",
+      "raw": "Pituitary adenoma / carcinoma (most common cause)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma (2nd most common cause)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Meningioma: from surface of diaphragm / tuberculum sellae",
+      "raw": "Meningioma: from surface of diaphragm / tuberculum sellae",
+      "frequency": null
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis: lung, breast, prostate, kidney, GI tract, spread from nasopharynx",
+      "raw": "Metastasis: lung, breast, prostate, kidney, GI tract, spread from nasopharynx",
+      "frequency": null
+    },
+    {
+      "name": "Intracavernous ICA aneurysm: bilateral in 25%",
+      "raw": "Intracavernous ICA aneurysm: bilateral in 25%",
+      "frequency": "25%"
+    },
+    {
+      "name": "Pituitary abscess: rapidly expanding mass associated with meningitis",
+      "raw": "Pituitary abscess: rapidly expanding mass associated with meningitis",
+      "frequency": null
+    },
+    {
+      "name": "Empty sella",
+      "raw": "Empty sella",
+      "frequency": null
+    },
+    {
+      "name": "Rathke cleft cyst: commonly at junction of anterior + posterior pituitary gland",
+      "raw": "Rathke cleft cyst: commonly at junction of anterior + posterior pituitary gland",
+      "frequency": null
+    },
+    {
+      "name": "Choristoma: benign neoplasm of posterior pituitary gland",
+      "raw": "Choristoma: benign neoplasm of posterior pituitary gland",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma: sarcoidosis, giant cell granuloma, TB, syphilis, eosinophilic granuloma",
+      "raw": "Granuloma: sarcoidosis, giant cell granuloma, TB, syphilis, eosinophilic granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoid adenohypophysitis",
+      "raw": "Lymphoid adenohypophysitis",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary hyperplasia, eg, in Nelson syndrome",
+      "raw": "Pituitary hyperplasia, eg, in Nelson syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

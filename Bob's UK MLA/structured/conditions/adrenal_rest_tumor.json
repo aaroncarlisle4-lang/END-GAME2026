@@ -1,0 +1,33 @@
+{
+  "name": "ADRENAL REST TUMOR",
+  "slug": "adrenal_rest_tumor",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/adrenal_rest_tumor.md",
+  "definition": "ADRENOCORTICAL REST",
+  "demographics": {
+    "Prevalence": "7-15% of newborns; 1.6% of adults",
+    "Location": "near testicular hilum; usually bilateral"
+  },
+  "dominant_finding": "nodules isointense relative to normal testis on T1WI",
+  "distribution": "near testicular hilum; usually bilateral",
+  "discriminating_features": [
+    "nodules isointense relative to normal testis on T1WI",
+    "nodules hypointense relative to normal testis on T2WI",
+    "diffuse enhancement after contrast administration",
+    "multiple hypoechoic nodules",
+    "may become hyperechoic with acoustic shadowing"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "multiple hypoechoic nodules",
+      "may become hyperechoic with acoustic shadowing"
+    ],
+    "MR": [
+      "nodules isointense relative to normal testis on T1WI",
+      "nodules hypointense relative to normal testis on T2WI",
+      "diffuse enhancement after contrast administration"
+    ]
+  },
+  "clinical": {}
+}

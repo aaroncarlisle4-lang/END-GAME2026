@@ -1,0 +1,32 @@
+{
+  "finding": "A. CYST",
+  "slug": "a_cyst_66ded6",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/a_cyst_66ded6.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Ependymal cyst of 3rd ventricle",
+      "raw": "Ependymal cyst of 3rd ventricle",
+      "frequency": null
+    },
+    {
+      "name": "Parasitic cyst of 3rd ventricle",
+      "raw": "Parasitic cyst of 3rd ventricle (cysticercosis)",
+      "frequency": null
+    },
+    {
+      "name": "Dilated 3rd ventricle",
+      "raw": "Dilated 3rd ventricle (in aqueductal stenosis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

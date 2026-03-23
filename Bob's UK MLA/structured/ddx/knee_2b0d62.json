@@ -1,0 +1,94 @@
+{
+  "finding": "KNEE",
+  "slug": "knee_2b0d62",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/knee_2b0d62.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "anterior cruciate lig.",
+      "raw": "anterior cruciate lig. (midsubstance > femoral attachment > tibial attachment site)",
+      "frequency": null
+    },
+    {
+      "name": "posterior joint capsule + arcuate ligament",
+      "raw": "posterior joint capsule + arcuate ligament",
+      "frequency": null
+    },
+    {
+      "name": "posterior horn of lateral / medial meniscus [medial collateral ligament]",
+      "raw": "posterior horn of lateral / medial meniscus",
+      "frequency": null,
+      "sites": [
+        "medial collateral ligament"
+      ]
+    },
+    {
+      "name": "rupture of posterior cruciate lig.",
+      "raw": "rupture of posterior cruciate lig. (midsubstance > femoral attachment > tibial attachment site)",
+      "frequency": null
+    },
+    {
+      "name": "tear of posterior joint capsule",
+      "raw": "tear of posterior joint capsule",
+      "frequency": null
+    },
+    {
+      "name": "fracture / osteochondral injury of patella",
+      "raw": "fracture / osteochondral injury of patella",
+      "frequency": null
+    },
+    {
+      "name": "injury of hip",
+      "raw": "injury of hip",
+      "frequency": null
+    },
+    {
+      "name": "injury to posterior / anterior cruciate lig.",
+      "raw": "injury to posterior / anterior cruciate lig.",
+      "frequency": null
+    },
+    {
+      "name": "meniscal injury",
+      "raw": "meniscal injury",
+      "frequency": null
+    },
+    {
+      "name": "dislocation of knee",
+      "raw": "dislocation of knee",
+      "frequency": null
+    },
+    {
+      "name": "popliteal neurovascular injury",
+      "raw": "popliteal neurovascular injury",
+      "frequency": null
+    },
+    {
+      "name": "complete disruption of posterolateral complex",
+      "raw": "complete disruption of posterolateral complex",
+      "frequency": null
+    },
+    {
+      "name": "medial collateral ligament (at femoral attachment site [anterior cruciate ligament] [medial meniscus]",
+      "raw": "medial collateral ligament (at femoral attachment site",
+      "frequency": null,
+      "sites": [
+        "anterior cruciate ligament",
+        "medial meniscus"
+      ]
+    },
+    {
+      "name": "combination of all three = methyl triad [medial retinaculum] [medial patellofemoral ligament] [medial patellotibial ligament]",
+      "raw": "combination of all three = methyl triad",
+      "frequency": null,
+      "sites": [
+        "medial retinaculum",
+        "medial patellofemoral ligament",
+        "medial patellotibial ligament"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "Bone Contusion Pattern √  edema of mid portion of lateral femoral condyle Cause:    pivot shift injury = valgus load + external rotation of tibia / external rotation of femur applied to various states of flexion (noncontact injury) Predisposed:   skier, football player Associated with injury of: √  ± edema of posterior patellar surface Cause:    dashboard injury = force upon anterior proximal tibia with knee in flexed position Associated with: √  \"kissing\" bone contusion pattern = anterior aspect of tibial plateau + anterior aspect of femoral condyle Cause:    hyperextension injury = direct fo"
+}

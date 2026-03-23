@@ -1,0 +1,62 @@
+{
+  "finding": "Cystic Lesions on Head Ultrasound",
+  "slug": "cystic_lesions_on_head_ultrasound_e3a631",
+  "chapter": "B. NEUROVASCULAR",
+  "source_file": "processed_clusters/b_neurovascular/cystic_lesions_on_head_ultrasound_e3a631.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "NORMAL VARIANTS",
+      "raw": "NORMAL VARIANTS",
+      "frequency": null
+    },
+    {
+      "name": "Cavum septi pellucidi",
+      "raw": "Cavum septi pellucidi",
+      "frequency": null
+    },
+    {
+      "name": "Cavum vergae",
+      "raw": "Cavum vergae",
+      "frequency": null
+    },
+    {
+      "name": "Cavum veli interpositi",
+      "raw": "Cavum veli interpositi",
+      "frequency": null
+    },
+    {
+      "name": "CYSTIC LESIONS OF POSTERIOR FOSSA",
+      "raw": "CYSTIC LESIONS OF POSTERIOR FOSSA",
+      "frequency": null
+    },
+    {
+      "name": "Megacisterna magna",
+      "raw": "Megacisterna magna",
+      "frequency": null
+    },
+    {
+      "name": "Dandy-Walker continuum disorder",
+      "raw": "Dandy-Walker continuum disorder",
+      "frequency": null
+    },
+    {
+      "name": "Blake pouch cyst",
+      "raw": "Blake pouch cyst",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Vein of Galen malformation",
+      "raw": "Vein of Galen malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Evaluate ›  size of 4th ventricle + communication with 4th ventricle ›  size of vermis + cerebellar hemispheres ›  mass effect on cerebellum"
+}

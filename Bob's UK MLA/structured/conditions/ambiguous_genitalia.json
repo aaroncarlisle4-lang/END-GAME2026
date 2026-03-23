@@ -1,0 +1,50 @@
+{
+  "name": "AMBIGUOUS GENITALIA",
+  "slug": "ambiguous_genitalia",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/ambiguous_genitalia.md",
+  "definition": "INTERSEX external genitalia that are not clearly of either sex FEMALE INTERSEX = 46,XX DISORDER OF SEX DEVELOPMENT 46,XY DISORDER OF SEX DEVELOPMENT TRUE INTERSEX = OVOTESTICULAR DISORDER OF SEX DEVELOPMENT condition characterized by presence of ovarian + testicular tissue either separate or in same",
+  "demographics": {
+    "Prevalence": "1÷1,000 live births",
+    "Location": "in pelvis predominantly ovarian tissue; in scrotum / inguinal region",
+    "Age": "diagnosed within first 2 decades (75%)"
+  },
+  "dominant_finding": "enlarged adrenal glands ←adrenal hyperplasia",
+  "distribution": "in pelvis predominantly ovarian tissue; in scrotum / inguinal region",
+  "discriminating_features": [
+    "normal ovaries, fallopian tubes, uterus, vagina",
+    "enlarged adrenal glands ←adrenal hyperplasia",
+    "no testicular tissue / internal wolffian duct derivatives",
+    "commonly undescended normal / mildly defective bilateral testes",
+    "prostatic tissue"
+  ],
+  "other_features": {
+    "general": [
+      "normal ovaries, fallopian tubes, uterus, vagina",
+      "enlarged adrenal glands ←adrenal hyperplasia",
+      "no testicular tissue / internal wolffian duct derivatives",
+      "commonly undescended normal / mildly defective bilateral testes",
+      "prostatic tissue",
+      "no müllerian duct derivatives (production of müllerian regression factor by testes not",
+      "occasionally blind-ending vaginal pouch emptying into perineum (= pseudovagina) /",
+      "small / rudimentary uterus + vagina",
+      "fallopian tube present on side of streak gonad",
+      "urogenital sinus commonly empties at base of phallus",
+      "dysgenetic gonads ← inability to secrete müllerian regression factor",
+      "bilateral streak gonads / dysgenetic testes",
+      "müllerian + wolffian duct derivatives both absent / partially developed",
+      "absent testes",
+      "müllerian + wolffian duct derivatives both absent / partially developed",
+      "hypoplastic uterus (in virtually 100%)",
+      "ovotestis with heterogeneous appearance ← combination of testicular tissue + ovarian",
+      "internal gonadal duct fits the gonad:",
+      "deferent duct on side of testis",
+      "fallopian tube on side of ovary",
+      "ipsilateral fallopian tube absent ← suppression of development by fetal testis",
+      "testis / testicular portion of ovotestis usually dysgenetic"
+    ]
+  },
+  "clinical": {
+    "Cx": "gonadal neoplasia"
+  }
+}

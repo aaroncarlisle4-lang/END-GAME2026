@@ -1,0 +1,37 @@
+{
+  "finding": "Neutropenic-Phase Pulmonary Complications",
+  "slug": "neutropenic_phase_pulmonary_complications_3e9da6",
+  "chapter": "BONE MARROW TRANSPLANTATION",
+  "source_file": "processed_clusters/bone_marrow_transplantation/neutropenic_phase_pulmonary_complications_3e9da6.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angioinvasive aspergillosis",
+      "raw": "Angioinvasive aspergillosis",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse alveolar hemorrhage",
+      "raw": "Diffuse alveolar hemorrhage (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "hemosiderin-laden macrophages on lavage",
+      "raw": "hemosiderin-laden macrophages on lavage",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary edema Cause:   infusion of large volumes of fluid combined with cardiac + renal dysfunction",
+      "raw": "Pulmonary edema Cause:   infusion of large volumes of fluid combined with cardiac + renal dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "Drug toxicity",
+      "raw": "Drug toxicity",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Time:  2-3 weeks after transplantation √  nodule surrounded by halo of ground-glass attenuation (= fungal infection spreading into lung parenchyma with surrounding area of hemorrhagic infarction) √  segmental / subsegmental consolidation (= pulmonary infarction) √  cavitation of nodule with \"air-crescent\" sign (during recovery phase with resolving neutropenia) √  < 5-mm centrilobular nodules to 5-cm peribronchial consolidation (= airway invasion with surrounding zone of hemorrhage / organizing pneumonia) √  bilateral areas of ground-glass attenuation / consolidation √  prominent pulmonary vess"
+}

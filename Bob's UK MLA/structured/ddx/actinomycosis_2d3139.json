@@ -1,0 +1,87 @@
+{
+  "finding": "ACTINOMYCOSIS",
+  "slug": "actinomycosis_2d3139",
+  "chapter": "ACROMEGALY",
+  "source_file": "processed_clusters/acromegaly/actinomycosis_2d3139.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mandibulo- / cervicofacial actinomycosis",
+      "raw": "Mandibulo- / cervicofacial actinomycosis (50-65%)",
+      "frequency": "65%"
+    },
+    {
+      "name": "draining cutaneous sinuses",
+      "raw": "draining cutaneous sinuses",
+      "frequency": null
+    },
+    {
+      "name": "\"sulfur granules\" in sputum / exudate = colonies of organisms arranged in circular fashion = mycelial clumps with thin hyphae 1-2 mm in diameter",
+      "raw": "\"sulfur granules\" in sputum / exudate = colonies of organisms arranged in circular fashion = mycelial clumps with thin hyphae 1-2 mm in diameter",
+      "frequency": null
+    },
+    {
+      "name": "acute form:",
+      "raw": "acute form:",
+      "frequency": null
+    },
+    {
+      "name": "subacute to chronic form:",
+      "raw": "subacute to chronic form:",
+      "frequency": null
+    },
+    {
+      "name": "Pleuropulmonary / thoracic actinomycosis",
+      "raw": "Pleuropulmonary / thoracic actinomycosis (15-30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "draining chest wall sinuses ← spread through fascial planes Predisposed:   areas of parenchymal destruction and bronchiectasis ← prior TB / other organisms",
+      "raw": "draining chest wall sinuses ← spread through fascial planes Predisposed:   areas of parenchymal destruction and bronchiectasis ← prior TB / other organisms (= tendency of actinomyces for invasion of devitalized tissue)",
+      "frequency": null
+    },
+    {
+      "name": "Abdominopelvic / ileocecal / abdominal actinomycosis (20%) Cause:   appendicitis, colonic diverticulitis; penetrating trauma, gut surgery; prolonged",
+      "raw": "Abdominopelvic / ileocecal / abdominal actinomycosis (20%) Cause:   appendicitis, colonic diverticulitis; penetrating trauma, gut surgery; prolonged",
+      "frequency": "20%"
+    },
+    {
+      "name": "fever, leukocytosis, mild anemia",
+      "raw": "fever, leukocytosis, mild anemia",
+      "frequency": null
+    },
+    {
+      "name": "weight loss, nausea, vomiting, lower abdominal pain",
+      "raw": "weight loss, nausea, vomiting, lower abdominal pain",
+      "frequency": null
+    },
+    {
+      "name": "chronic sinus in groin, vaginal discharge",
+      "raw": "chronic sinus in groin, vaginal discharge",
+      "frequency": null
+    },
+    {
+      "name": "yellow / brown sulfur granules on cervical Papanicolaou smear",
+      "raw": "yellow / brown sulfur granules on cervical Papanicolaou smear",
+      "frequency": null
+    },
+    {
+      "name": "abscess in liver",
+      "raw": "abscess in liver (15%), retroperitoneum, psoas muscle, pelvis, tuboovarian abscess (containing yellow \"sulfur granules\" = 1-2-mm colony of gram-positive bacilli)",
+      "frequency": "15%"
+    },
+    {
+      "name": "hydronephrosis ← compression of ureter by pelvic abscess",
+      "raw": "hydronephrosis ← compression of ureter by pelvic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Mixed organs (10%) @   Tubular bones of hands",
+      "raw": "Mixed organs (10%) @   Tubular bones of hands",
+      "frequency": "10%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  chronic suppurative infection characterized by formation of multiple abscesses, draining sinuses, abundant granulation tissue ← mucosal disruption + low tissue oxygen tension Organism:   Actinomyces israelii / naeslundii / odontolyticus / viscosus / meyeri / gerencseriae / eriksonii, gram-positive non-acid-fast anaerobic pleomorphic small branching filamentous bacterium with proteolytic activity, superficially resembling the morphology of a hyphal fungus (Gömöri methenamine silver stain-positive filaments); closely related to mycobacteria ◊  Actinomycotic infections are polymicrobial! Patho"
+}

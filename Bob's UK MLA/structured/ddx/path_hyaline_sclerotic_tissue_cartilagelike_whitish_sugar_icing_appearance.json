@@ -1,0 +1,42 @@
+{
+  "finding": "Path: hyaline sclerotic tissue = cartilagelike whitish sugar icing appearance",
+  "slug": "path_hyaline_sclerotic_tissue_cartilagelike_whitish_sugar_icing_appearance",
+  "chapter": "F. OTHER",
+  "source_file": "processed_clusters/f_other/path_hyaline_sclerotic_tissue_cartilagelike_whitish_sugar_icing_appearance.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mimicked by extrathoracic musculature, 1st + 2nd rib companion shadow, subpleural fat, focal scarring around old rib fractures",
+      "raw": "Mimicked by extrathoracic musculature, 1st + 2nd rib companion shadow, subpleural fat, focal scarring around old rib fractures",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma (healed hemothorax)",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis (collagen vascular disease)",
+      "frequency": null
+    },
+    {
+      "name": "Inhalation disease",
+      "raw": "Inhalation disease (asbestosis, talcosis)",
+      "frequency": null
+    },
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(Zuckerguss) with occasional calcification"
+}

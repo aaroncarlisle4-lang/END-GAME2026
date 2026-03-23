@@ -1,0 +1,27 @@
+{
+  "finding": "B. BENIGN TUMOR",
+  "slug": "b_benign_tumor_4_93a2e6",
+  "chapter": "D. HEMATOMA",
+  "source_file": "processed_clusters/d_hematoma/b_benign_tumor_4_93a2e6.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous renal hemangioma",
+      "raw": "Cavernous renal hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Oncocytoma",
+      "raw": "Oncocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

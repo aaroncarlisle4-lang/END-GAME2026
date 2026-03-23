@@ -1,0 +1,32 @@
+{
+  "finding": "Multiple Myeloma (DDx)",
+  "slug": "multiple_myeloma_ddx_6af7e9",
+  "chapter": "Multiple Myeloma",
+  "source_file": "processed_clusters/multiple_myeloma/multiple_myeloma_ddx_6af7e9.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "giant cell tumor",
+      "raw": "giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "aneurysmal bone cyst",
+      "raw": "aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "osteoblastoma",
+      "raw": "osteoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "solitary metastasis from renal cell / thyroid carcinoma",
+      "raw": "solitary metastasis from renal cell / thyroid carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hollow vertebral body / pedicle = partly preserved / sclerotic cortical bone | frequently pathologic fracture (collapse of vertebra) | low signal intensity on T1WI + high SI on T2WI | homogeneous marked enhancement"
+}

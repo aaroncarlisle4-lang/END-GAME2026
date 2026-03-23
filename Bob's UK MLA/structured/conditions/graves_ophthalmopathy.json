@@ -1,0 +1,45 @@
+{
+  "name": "GRAVES OPHTHALMOPATHY",
+  "slug": "graves_ophthalmopathy",
+  "chapter": "ORBITAL AND OCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/orbital_and_ocular_disorders/graves_ophthalmopathy.md",
+  "definition": "THYROID OPHTHALMOPATHY = ENDOCRINE EXOPHTHALMOS autoimmune disease unrelated to thyroid function with an increase in orbital pressure",
+  "demographics": {
+    "Etiology": "produced by long-acting thyroid-stimulating factor (LATS); probably immunologic",
+    "Age": "adulthood; 5% younger than 15 years; M÷F = 1÷4",
+    "Histo": "deposition of hygroscopic mucopolysaccharides + glycoprotein (early) + collagen"
+  },
+  "dominant_finding": "high SI in enlarged eye muscles on T2WI (edema in acute inflammation)",
+  "distribution": "proptosis = globe protrusion > 21 mm anterior to interzygomatic line on axial scans at level of",
+  "discriminating_features": [
+    "eyelid edema",
+    "proptosis = globe protrusion > 21 mm anterior to interzygomatic line on axial scans at level of",
+    "\"Coke-bottle\" sign = swelling of muscles maximally in midportion (relative sparing of",
+    "slight uveal-scleral thickening",
+    "tenting of posterior globe"
+  ],
+  "other_features": {
+    "general": [
+      "eyelid edema",
+      "proptosis = globe protrusion > 21 mm anterior to interzygomatic line on axial scans at level of",
+      "\"Coke-bottle\" sign = swelling of muscles maximally in midportion (relative sparing of",
+      "slight uveal-scleral thickening",
+      "tenting of posterior globe",
+      "apical crowding = orbital apex involved late → pressure on optic nerve",
+      "dilatation of superior ophthalmic vein ← compromised orbital venous drainage at orbital",
+      "increase in diameter of retrobulbar optic nerve sheath ← dural distension ← accumulation of",
+      "stretching of optic nerve",
+      "increased orbital fat:",
+      "increased density of orbital fat (late)",
+      "intracranial fat herniation through superior ophthalmic fissure (best correlation with",
+      "enlargement of lacrimal gland with anterior displacement"
+    ],
+    "MR": [
+      "high SI in enlarged eye muscles on T2WI (edema in acute inflammation)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "in 90% spontaneous resolution within 3-36 months; in 10% decrease in visual",
+    "Rx": "short- and long-term steroid therapy, cyclosporine, radiation, surgical decompression,"
+  }
+}

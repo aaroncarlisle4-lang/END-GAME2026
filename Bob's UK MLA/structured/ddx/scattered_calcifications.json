@@ -1,0 +1,27 @@
+{
+  "finding": "Scattered Calcifications",
+  "slug": "scattered_calcifications",
+  "chapter": "B. LIVER",
+  "source_file": "processed_clusters/b_liver/scattered_calcifications.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "PERITONEAL",
+      "raw": "PERITONEAL",
+      "frequency": null
+    },
+    {
+      "name": "Meconium peritonitis",
+      "raw": "Meconium peritonitis",
+      "frequency": null
+    },
+    {
+      "name": "Plastic peritonitis associated with hydrometrocolpos",
+      "raw": "Plastic peritonitis associated with hydrometrocolpos",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

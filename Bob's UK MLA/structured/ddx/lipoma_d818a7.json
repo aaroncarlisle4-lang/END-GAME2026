@@ -1,0 +1,52 @@
+{
+  "finding": "LIPOMA",
+  "slug": "lipoma_d818a7",
+  "chapter": "ISOLATED VERMIAN HYPOPLASIA",
+  "source_file": "processed_clusters/isolated_vermian_hypoplasia/lipoma_d818a7.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "asymptomatic in 50% Location:   tendency to involve midline structures (usually in subarachnoid space): callosal cistern (25-50%), sylvian fissure, quadrigeminal cistern, chiasmatic cistern, interpeduncular cistern, CP angle cistern, cerebellomedullary cistern, tuber cinereum, choroid plexus of lateral ventricle",
+      "raw": "asymptomatic in 50% Location:   tendency to involve midline structures (usually in subarachnoid space): callosal cistern (25-50%), sylvian fissure, quadrigeminal cistern, chiasmatic cistern, interpeduncular cistern, CP angle cistern, cerebellomedullary cistern, tuber cinereum, choroid plexus of lateral ventricle",
+      "frequency": "50%"
+    },
+    {
+      "name": "anomalies of corpus callosum (30% with small posterior lipoma, 90% with large",
+      "raw": "anomalies of corpus callosum (30% with small posterior lipoma, 90% with large",
+      "frequency": "30%"
+    },
+    {
+      "name": "frontal bone defect (frequent) = encephalocele",
+      "raw": "frontal bone defect (frequent) = encephalocele",
+      "frequency": "frequent"
+    },
+    {
+      "name": "cutaneous frontal lipoma",
+      "raw": "cutaneous frontal lipoma",
+      "frequency": null
+    },
+    {
+      "name": "in 50% symptomatic:",
+      "raw": "in 50% symptomatic:",
+      "frequency": "50%"
+    },
+    {
+      "name": "seizure disorder, mental retardation, dementia",
+      "raw": "seizure disorder, mental retardation, dementia",
+      "frequency": null
+    },
+    {
+      "name": "emotional lability, headaches, hemiplegia",
+      "raw": "emotional lability, headaches, hemiplegia",
+      "frequency": null
+    },
+    {
+      "name": "rarely symptomatic: variety of neurologic symptoms + endocrinologic disturbances",
+      "raw": "rarely symptomatic: variety of neurologic symptoms + endocrinologic disturbances",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  uncommon congenital malformation developing within subarachnoid space as a result of abnormal differentiation of the meninx primitiva (which differentiates into pia mater, arachnoid, inner meningeal layer of dura mater) Incidence:   < 1% of brain tumors Age:   presentation in childhood / adulthood Associated with congenital anomalies: (a)  in anterior location: various degrees of agenesis of corpus callosum (in 50-80%) (b)  in posterior location (in < 33%) √  NO enhancement CT: √  well-circumscribed mass with CT density of -100 HU √  occasionally calcified rim (esp. in corpus callosum) MR:"
+}

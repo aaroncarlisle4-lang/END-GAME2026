@@ -1,0 +1,27 @@
+{
+  "finding": "Adrenocortical Hyperfunction",
+  "slug": "adrenocortical_hyperfunction",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/adrenocortical_hyperfunction.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adrenogenital syndrome",
+      "raw": "Adrenogenital syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Conn syndrome = hyperaldosteronism",
+      "raw": "Conn syndrome = hyperaldosteronism",
+      "frequency": null
+    },
+    {
+      "name": "Cushing syndrome = hypercortisolism",
+      "raw": "Cushing syndrome = hypercortisolism",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,35 @@
+{
+  "name": "SOLITARY BONE CYST",
+  "slug": "solitary_bone_cyst",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/solitary_bone_cyst.md",
+  "definition": "UNICAMERAL / SIMPLE BONE CYST",
+  "demographics": {
+    "Frequency": "up to 5% of primary bone lesions",
+    "Etiology": "? trauma (synovial entrapment at capsular reflection), ? vascular anomaly (blockage",
+    "Histo": "cyst filled with clear yellowish fluid often under pressure, wall lined with fibrous",
+    "Age": "3-19 years (80%); occurs during active phase of bone growth; M÷F = 3÷1"
+  },
+  "dominant_finding": "2-3 cm oval radiolucency with long axis parallel to long axis of host bone",
+  "distribution": "",
+  "discriminating_features": [
+    "2-3 cm oval radiolucency with long axis parallel to long axis of host bone",
+    "fine sclerotic boundary",
+    "scalloping + erosion of internal aspect of underlying cortex",
+    "photopenic area on bone scan (if not fractured)",
+    "\"fallen fragment\" sign if fractured (20%) = centrally dislodged fragment falls into a dependent"
+  ],
+  "other_features": {
+    "general": [
+      "2-3 cm oval radiolucency with long axis parallel to long axis of host bone",
+      "fine sclerotic boundary",
+      "scalloping + erosion of internal aspect of underlying cortex",
+      "photopenic area on bone scan (if not fractured)",
+      "\"fallen fragment\" sign if fractured (20%) = centrally dislodged fragment falls into a dependent"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "mostly spontaneous regression",
+    "Cx": "pathologic fracture (65%)"
+  }
+}

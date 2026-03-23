@@ -1,0 +1,22 @@
+{
+  "finding": "Actinomycosis — Lung (DDx)",
+  "slug": "actinomycosis_lung_ddx_6791c7",
+  "chapter": "Actinomycosis",
+  "source_file": "processed_clusters/actinomycosis/actinomycosis_lung_ddx_6791c7.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "carcinoma",
+      "raw": "carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "bacterial / fungal pneumonia @   Vertebra + ribs",
+      "raw": "bacterial / fungal pneumonia @   Vertebra + ribs",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "multiple small cavitary lesions with ringlike enhancement (= abscesses) | fibrotic pleuritis | chronic pleural effusion / empyema (in > 50%) | rarely acute airspace pneumonia ← postobstructive endobronchial actinomycosis"
+}

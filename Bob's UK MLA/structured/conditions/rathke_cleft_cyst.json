@@ -1,0 +1,37 @@
+{
+  "name": "RATHKE CLEFT CYST",
+  "slug": "rathke_cleft_cyst",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/rathke_cleft_cyst.md",
+  "definition": "usually asymptomatic benign cystic sellar lesion",
+  "demographics": {
+    "Histo": "lined with single layer of epithelial cells; CSF / mucopolysaccharide content"
+  },
+  "dominant_finding": "homogeneously high T1 SI (50%) ← high protein content",
+  "distribution": "NO central enhancement / hemorrhagic component",
+  "discriminating_features": [
+    "may contain thick mucinous material",
+    "no contrast enhancement",
+    "calcifications rare",
+    "round well-demarcated lesion",
+    "variable SI ranging from hypo- to hyperintense on T1WI ← dependent on biochemical"
+  ],
+  "other_features": {
+    "general": [
+      "may contain thick mucinous material",
+      "no contrast enhancement",
+      "calcifications rare"
+    ],
+    "MR": [
+      "round well-demarcated lesion",
+      "variable SI ranging from hypo- to hyperintense on T1WI ← dependent on biochemical",
+      "homogeneously high T1 SI (50%) ← high protein content",
+      "low T2 intensity (30%) ← low intracystic water content",
+      "simple / complex cyst content ± fluid-fluid level",
+      "NO central enhancement / hemorrhagic component",
+      "small intracystic nodules of lower T2 + higher T1 SI (75%) ← proteinaceous concretions",
+      "wall enhancement due to squamous metaplasia / displaced rim of pituitary tissue"
+    ]
+  },
+  "clinical": {}
+}

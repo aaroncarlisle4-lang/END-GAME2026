@@ -1,0 +1,27 @@
+{
+  "finding": "Peripheral Interstitial Lung Disease",
+  "slug": "peripheral_interstitial_lung_disease",
+  "chapter": "I. Vasculitis",
+  "source_file": "processed_clusters/i_vasculitis/peripheral_interstitial_lung_disease.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Interstitial pulmonary edema with Kerley B lines",
+      "raw": "Interstitial pulmonary edema with Kerley B lines (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Active fibrosing alveolitis (b)  chronic slowly progressive",
+      "raw": "Active fibrosing alveolitis (b)  chronic slowly progressive",
+      "frequency": null
+    },
+    {
+      "name": "Secondary pulmonary hemosiderosis",
+      "raw": "Secondary pulmonary hemosiderosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  acute rapidly changing"
+}

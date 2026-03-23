@@ -1,0 +1,49 @@
+{
+  "finding": "Cause: nonspecific, hepatitis, fatty infiltration, lymphoma, Kaposi sarcoma",
+  "slug": "cause_nonspecific_hepatitis_fatty_infiltration_lymphoma_kaposi_sarcoma_7745cc",
+  "chapter": "AIDS",
+  "source_file": "processed_clusters/aids/cause_nonspecific_hepatitis_fatty_infiltration_lymphoma_kaposi_sarcoma_7745cc.md",
+  "quality_score": 0.6,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "AIDS-related cholangiopathy:",
+      "raw": "AIDS-related cholangiopathy:",
+      "frequency": null
+    },
+    {
+      "name": "AIDS-related esophagitis:",
+      "raw": "AIDS-related esophagitis:",
+      "frequency": null
+    },
+    {
+      "name": "Gastritis",
+      "raw": "Gastritis",
+      "frequency": null
+    },
+    {
+      "name": "AIDS enteritis",
+      "raw": "AIDS enteritis",
+      "frequency": null
+    },
+    {
+      "name": "AIDS colitis ›  ischemic bowel ›  acute appendicitis ›  neutropenic colitis ›  pseudomembranous colitis ›  infectious colitis / ileitis",
+      "raw": "AIDS colitis ›  ischemic bowel ›  acute appendicitis ›  neutropenic colitis ›  pseudomembranous colitis ›  infectious colitis / ileitis",
+      "frequency": null
+    },
+    {
+      "name": "Bowel obstruction (a)  infection (b)  intussusception: Kaposi sarcoma, lymphoma",
+      "raw": "Bowel obstruction (a)  infection (b)  intussusception: Kaposi sarcoma, lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "AIDS-related cholangiopathy:": [],
+    "AIDS-related esophagitis:": [],
+    "Gastritis": [],
+    "AIDS enteritis": [],
+    "AIDS colitis ›  ischemic bowel ›  acute appendicitis ›  neutropenic colitis ›  pseudomembranous colitis ›  infectious colitis / ileitis": [],
+    "Bowel obstruction (a)  infection (b)  intussusception: Kaposi sarcoma, lymphoma": []
+  },
+  "context": "Organism:   CMV, Cryptosporidium √  papillary stenosis of CBD √  dilatation of extra- and intrahepatic bile ducts √  periductal fibrosis √  strictures + irregularities of bile ducts resembling primary sclerosing cholangitis √  intraluminal polypoid filling defects Organism:   Candida, herpes simplex, CMV √  giant esophageal ulcer: HIV (76%), CMV (14%) √  esophageal fistula / perforation: TB, actinomycosis Organism:   CMV (GE junction + prepyloric antrum), Cryptosporidium (antrum) Organism:   Cryptosporidium, M. avium complex"
+}

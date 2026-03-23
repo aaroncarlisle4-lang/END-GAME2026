@@ -1,0 +1,29 @@
+{
+  "name": "LARYNGEAL CHONDROSARCOMA",
+  "slug": "laryngeal_chondrosarcoma",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/laryngeal_chondrosarcoma.md",
+  "definition": "",
+  "demographics": {
+    "Age": "50-70 years; M >> F"
+  },
+  "dominant_finding": "very high SI of tumor matrix on T2WI (= hyaline cartilage)",
+  "distribution": "",
+  "discriminating_features": [
+    "coarse / stippled intratumoral calcifications",
+    "± locally invasive",
+    "very high SI of tumor matrix on T2WI (= hyaline cartilage)"
+  ],
+  "other_features": {
+    "general": [
+      "coarse / stippled intratumoral calcifications",
+      "± locally invasive"
+    ],
+    "MR": [
+      "very high SI of tumor matrix on T2WI (= hyaline cartilage)"
+    ]
+  },
+  "clinical": {
+    "Rx": "function-preserving laryngeal resection (local recurrence may be seen 10 years or more)"
+  }
+}

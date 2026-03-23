@@ -1,0 +1,32 @@
+{
+  "finding": "Rhabdomyosarcoma (DDx)",
+  "slug": "rhabdomyosarcoma_ddx_2_6eeeef",
+  "chapter": "Rhabdomyosarcoma",
+  "source_file": "processed_clusters/rhabdomyosarcoma/rhabdomyosarcoma_ddx_2_6eeeef.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "polyp",
+      "raw": "polyp",
+      "frequency": null
+    },
+    {
+      "name": "urethral prolapse",
+      "raw": "urethral prolapse",
+      "frequency": null
+    },
+    {
+      "name": "hydrometrocolpos",
+      "raw": "hydrometrocolpos",
+      "frequency": null
+    },
+    {
+      "name": "neoplasm",
+      "raw": "neoplasm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "retroperitoneal lymph node enlargement | low signal intensity on T1WI + hyperintense on T2WI | heterogeneous enhancement"
+}

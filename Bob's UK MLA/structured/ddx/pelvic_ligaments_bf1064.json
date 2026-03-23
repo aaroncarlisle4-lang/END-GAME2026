@@ -1,0 +1,72 @@
+{
+  "finding": "Pelvic Ligaments",
+  "slug": "pelvic_ligaments_bf1064",
+  "chapter": "UTERUS",
+  "source_file": "processed_clusters/uterus/pelvic_ligaments_bf1064.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Broad ligament Histo:   double fold of peritoneum covering anterior + posterior surfaces of uterus",
+      "raw": "Broad ligament Histo:   double fold of peritoneum covering anterior + posterior surfaces of uterus",
+      "frequency": null
+    },
+    {
+      "name": "Round ligament =  anterior suspensory ligament of uterus",
+      "raw": "Round ligament =  anterior suspensory ligament of uterus",
+      "frequency": null
+    },
+    {
+      "name": "Cardinal ligament = transverse cervical ligament = Mackenrodt ligament",
+      "raw": "Cardinal ligament = transverse cervical ligament = Mackenrodt ligament",
+      "frequency": null
+    },
+    {
+      "name": "Uterosacral ligament",
+      "raw": "Uterosacral ligament",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian ligament = utero-ovarian lig. = round ligament of the ovary =  round fibromuscular band just inferior + posterior to fallopian tube + round ligament enclosed between 2 layers of broad ligament",
+      "raw": "Ovarian ligament = utero-ovarian lig. = round ligament of the ovary =  round fibromuscular band just inferior + posterior to fallopian tube + round ligament enclosed between 2 layers of broad ligament",
+      "frequency": null
+    },
+    {
+      "name": "Origin:   medial aspect of ovary",
+      "raw": "Origin:   medial aspect of ovary",
+      "frequency": null
+    },
+    {
+      "name": "Attachment:   uterine cornu",
+      "raw": "Attachment:   uterine cornu",
+      "frequency": null
+    },
+    {
+      "name": "Contents:   ovarian branches of uterine artery + vein",
+      "raw": "Contents:   ovarian branches of uterine artery + vein",
+      "frequency": null
+    },
+    {
+      "name": "Suspensory ligament of ovary = infundibulopelvic lig.",
+      "raw": "Suspensory ligament of ovary = infundibulopelvic lig.",
+      "frequency": null
+    },
+    {
+      "name": "Lateral umbilical fold / ligament =  reflection of peritoneum over deep inferior epigastric vessels",
+      "raw": "Lateral umbilical fold / ligament =  reflection of peritoneum over deep inferior epigastric vessels",
+      "frequency": null
+    },
+    {
+      "name": "Medial umbilical fold / ligament",
+      "raw": "Medial umbilical fold / ligament",
+      "frequency": null
+    },
+    {
+      "name": "Median umbilical ligament =  reflection of peritoneum over obliterated urachus",
+      "raw": "Median umbilical ligament =  reflection of peritoneum over obliterated urachus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Origin:   uterine peritoneum Location:   lateral uterine margin to pelvic sidewall incompletely dividing true pelvis into anterior + posterior compartments Attachment:   pelvic sidewall ›  medial superior free edge (= point where peritoneal layers are continuous): encloses fallopian tube ›  lateral superior free edge: suspensory ligament of ovary ›  lower margin: cardinal ligament Contents (= parametrium): extraperitoneal connective tissue, smooth muscle, fat, fallopian tube, round ligament, ovarian ligament, uterine + ovarian blood vessels, nerves, lymphatics, mesonephric remnants √  usually"
+}

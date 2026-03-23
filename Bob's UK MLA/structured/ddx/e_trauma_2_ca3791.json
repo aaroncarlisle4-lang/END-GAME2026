@@ -1,0 +1,37 @@
+{
+  "finding": "E. TRAUMA",
+  "slug": "e_trauma_2_ca3791",
+  "chapter": "B. CELLULAR INFILTRATE",
+  "source_file": "processed_clusters/b_cellular_infiltrate/e_trauma_2_ca3791.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Subacute muscle denervation",
+      "raw": "Subacute muscle denervation",
+      "frequency": null
+    },
+    {
+      "name": "Muscle contusion",
+      "raw": "Muscle contusion (from direct blow)",
+      "frequency": null
+    },
+    {
+      "name": "Muscle strain",
+      "raw": "Muscle strain (= injury at musculotendinous junction from overly forceful muscle contraction)",
+      "frequency": null
+    },
+    {
+      "name": "Delayed-onset muscle soreness =  overuse injury becoming symptomatic hours / days after overuse episode",
+      "raw": "Delayed-onset muscle soreness =  overuse injury becoming symptomatic hours / days after overuse episode",
+      "frequency": null
+    },
+    {
+      "name": "Compartment syndrome =  increased pressure within indistensible space of confining fascia leading to venous occlusion, muscle + nerve ischemia, arterial occlusion, tissue necrosis",
+      "raw": "Compartment syndrome =  increased pressure within indistensible space of confining fascia leading to venous occlusion, muscle + nerve ischemia, arterial occlusion, tissue necrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Time of onset:   2-4 weeks after denervation Mechanism: spinal cord injury, poliomyelitis, peripheral nerve injury / compression (ganglion cyst, bone spur), Graves disease, neuritis Predilection for:  hamstring, gastrocnemius m., biceps brachii m.)"
+}

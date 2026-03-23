@@ -1,0 +1,42 @@
+{
+  "finding": "Pseudomembranous Colitis",
+  "slug": "pseudomembranous_colitis",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/pseudomembranous_colitis.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Clostridium difficile",
+      "raw": "Clostridium difficile",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic colitis: acute / subacute",
+      "raw": "Ischemic colitis: acute / subacute",
+      "frequency": null
+    },
+    {
+      "name": "Staphylococcus",
+      "raw": "Staphylococcus",
+      "frequency": null
+    },
+    {
+      "name": "Shigella",
+      "raw": "Shigella",
+      "frequency": null
+    },
+    {
+      "name": "Pseudomonas aeruginosa",
+      "raw": "Pseudomonas aeruginosa",
+      "frequency": null
+    },
+    {
+      "name": "Drugs:  chlorpropamide, mercuric compounds, gold, NSAIDs",
+      "raw": "Drugs:  chlorpropamide, mercuric compounds, gold, NSAIDs",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  endoscopically diagnosed colonic infection / inflammation characterized by pseudomembranes consisting of an exudate of necrotic cells on a denuded mucosa"
+}

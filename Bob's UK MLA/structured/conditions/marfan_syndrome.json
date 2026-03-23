@@ -1,0 +1,112 @@
+{
+  "name": "MARFAN SYNDROME",
+  "slug": "marfan_syndrome",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/marfan_syndrome.md",
+  "definition": "Arachnodactyly autosomal dominant (in 75%) multisystemic connective tissue disorder with high penetrance ballooning / widening of dural sac ± nerve root sleeves",
+  "demographics": {
+    "Genetics": "> 135 mutations in fibrillin-1 gene (FBN1) on chromosome 15 which encodes a large",
+    "Prevalence": "2-3÷10,000; M÷F = 1÷1",
+    "Path": "disintegration and elastolysis of connective tissue with abnormal cross-linking of",
+    "Age": "young patient; M÷F = 1÷1",
+    "Location": "lumbosacral spine",
+    "Histo": "degeneration of elastic tissue in aortic media + cystic medial necrosis of smooth"
+  },
+  "dominant_finding": "intimal flap + false lumen (in 70%) PATHOGNOMONIC",
+  "distribution": "lumbosacral spine",
+  "discriminating_features": [
+    "intimal flap + false lumen (in 70%) PATHOGNOMONIC",
+    "generalized osteopenia",
+    "increased attenuation of thrombosed false lumen",
+    "internal displacement of intimal calcification",
+    "mediastinal / pericardial hematoma"
+  ],
+  "other_features": {
+    "general": [
+      "generalized osteopenia"
+    ],
+    "CXR": [
+      "progressive aortic enlargement at serial imaging",
+      "enlarged aortic arch",
+      "double contour of aortic arch",
+      "displacement of intimal calcifications > 6 mm",
+      "new pericardial / pleural effusion"
+    ],
+    "CT": [
+      "intimal flap + false lumen (in 70%) PATHOGNOMONIC",
+      "increased attenuation of thrombosed false lumen",
+      "internal displacement of intimal calcification",
+      "mediastinal / pericardial hematoma",
+      "infarction of organs supplied by branch vessels from the false lumen"
+    ],
+    "Skull": [
+      "dolichocephaly",
+      "prominent jaw",
+      "high arched palate"
+    ],
+    "Hand": [
+      "arachnodactyly = elongation of phalanges + metacarpals:",
+      "flexion deformity of 5th finger"
+    ],
+    "Foot": [
+      "pes planus (25%) / planovalgus ← increased ligamentous laxity",
+      "clubfoot",
+      "hallux valgus",
+      "hammer toes",
+      "disproportionate elongation of 1st digit of foot"
+    ],
+    "Chest wall deformity": [
+      "pectus excavatum = retraction of lower sternum:",
+      "displacement of heart + lungs + diaphragm",
+      "pectus carinatum = anterior protrusion of upper portion of sternum"
+    ],
+    "Spine": [
+      "severe rigid progressive scoliosis (45-62%) / kyphosis (16%) / kyphoscoliosis",
+      "atlantoaxial translation (54%)",
+      "increased incidence of Schmorl nodes (Scheuermann disease) and spondylolisthesis",
+      "straight back syndrome",
+      "winged scapulae",
+      "dural ectasia (56-65%) of lumbosacral spine:",
+      "widening of interpediculate distance",
+      "posterior scalloping of vertebral body",
+      "dilatation of nerve root sleeve",
+      "expansion of sacral spinal canal",
+      "presacral + lateral sacral meningoceles",
+      "enlargement of sacral foramina"
+    ],
+    "Joints": [
+      "premature osteoarthritis",
+      "patella alta",
+      "genu recurvatum",
+      "recurrent dislocations of patella, hip, clavicle, mandible",
+      "slipped capital femoral epiphysis",
+      "progressive protrusio acetabuli (16-27%) = invasion of acetabulum + femoral head",
+      "increased center-edge angle of Wiberg > 40°",
+      "\"teardrop\" crossed by ilioischial line / obscured by femoral head"
+    ],
+    "Aorta (cause of death in 55%)": [
+      "\"tulip bulb aorta\" = symmetrical dilatation of aortic sinuses of Valsalva slightly",
+      "triangular coaptation defect of valve cusps (during middiastolic closure at 70% of",
+      "tethered valve cusps at midsystolic opening (= at 10% of R-R interval of a gated",
+      "fusiform dilatation of ascending aorta, rarely beyond innominate artery (rapid",
+      "more rapid enlargement than atherosclerotic aneurysm",
+      "rarely intimal calcifications of the aortic wall"
+    ],
+    "Mitral valve": [
+      "\"floppy valve syndrome\" (95%) = redundant chordae tendineae with mitral valve"
+    ],
+    "Cor pulmonale ← chest deformity": [
+      "lung cysts, bullae, blebs + diffuse apical bullous emphysema",
+      "congenital malformation of bronchus + bronchiectasis",
+      "recurrent spontaneous pneumothoraces (4-15%; 10 x times more common than in general",
+      "interstitial parenchymal disease ± honeycombing",
+      "recurrent biliary obstruction",
+      "recurrent incisional hernia"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgery (Ravitch / Nuss procedure) for pectus index > 3.25 (dividing width of",
+    "Cx": "aortic regurgitation (in 81% if root diameter > 5 cm; in 100% if root diameter",
+    "Prognosis": "average age of death at 35 (75) years in untreated (treated) patients"
+  }
+}

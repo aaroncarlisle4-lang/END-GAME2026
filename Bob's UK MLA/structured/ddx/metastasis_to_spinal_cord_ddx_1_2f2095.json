@@ -1,0 +1,27 @@
+{
+  "finding": "Metastasis To Spinal Cord (DDx)",
+  "slug": "metastasis_to_spinal_cord_ddx_1_2f2095",
+  "chapter": "Metastasis To Spinal Cord",
+  "source_file": "processed_clusters/metastasis_to_spinal_cord/metastasis_to_spinal_cord_ddx_1_2f2095.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "moderate to severe meningitis",
+      "raw": "moderate to severe meningitis",
+      "frequency": null
+    },
+    {
+      "name": "benign postoperative arachnoiditis",
+      "raw": "benign postoperative arachnoiditis",
+      "frequency": null
+    },
+    {
+      "name": "neurofibromatosis",
+      "raw": "neurofibromatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "thickening of meninges (especially in lymphoma, breast cancer, prostate cancer) | thickened + nodular matted nerve roots | nodular + irregularly narrowed thecal sac | Gd-DTPA enhancement (difficult to detect due to adjacent fat + enhancing epidural venous"
+}

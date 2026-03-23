@@ -1,0 +1,29 @@
+{
+  "name": "ESOPHAGEAL WEB",
+  "slug": "esophageal_web",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/esophageal_web.md",
+  "definition": "complete / incomplete circumferential narrowing caused by 1-2-mm thick (vertical length)",
+  "demographics": {
+    "Age": "middle-aged females",
+    "Path": "hyperkeratosis + chronic inflammation of submucosa",
+    "Histo": "mucosal membrane covered by squamous epithelium on superior + inferior surfaces"
+  },
+  "dominant_finding": "thin delicate membrane of uniform thickness of < 3 mm",
+  "distribution": "arises at right angles from anterior esophageal wall",
+  "discriminating_features": [
+    "visualized during maximal distension (in ¹/¹0 of a second)",
+    "arises at right angles from anterior esophageal wall",
+    "thin delicate membrane of uniform thickness of < 3 mm"
+  ],
+  "other_features": {
+    "general": [
+      "visualized during maximal distension (in ¹/¹0 of a second)",
+      "arises at right angles from anterior esophageal wall",
+      "thin delicate membrane of uniform thickness of < 3 mm"
+    ]
+  },
+  "clinical": {
+    "Cx": "high risk of upper esophageal + hypopharyngeal (postcricoid) carcinoma"
+  }
+}

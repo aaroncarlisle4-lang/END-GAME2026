@@ -1,0 +1,47 @@
+{
+  "finding": "Administration: suppository, PO (tablet, liquid), IM, IV",
+  "slug": "administration_suppository_po_tablet_liquid_im_iv",
+  "chapter": "SEDATION",
+  "source_file": "processed_clusters/sedation/administration_suppository_po_tablet_liquid_im_iv.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nonopioids reserved for less severe pain in outpatients, not used in a procedure, not associated with dependency",
+      "raw": "Nonopioids reserved for less severe pain in outpatients, not used in a procedure, not associated with dependency",
+      "frequency": null
+    },
+    {
+      "name": "Acetaminophen",
+      "raw": "Acetaminophen",
+      "frequency": null
+    },
+    {
+      "name": "Nonsteroidal anti-inflammatory drug",
+      "raw": "Nonsteroidal anti-inflammatory drug (NSAID)",
+      "frequency": null
+    },
+    {
+      "name": "Celecoxib",
+      "raw": "Celecoxib (Celebrex®)",
+      "frequency": null
+    },
+    {
+      "name": "Aspirin",
+      "raw": "Aspirin",
+      "frequency": null
+    },
+    {
+      "name": "Diflunisal",
+      "raw": "Diflunisal (Dolobid®)",
+      "frequency": null
+    },
+    {
+      "name": "Indomethacin",
+      "raw": "Indomethacin (Indocin®)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Action:   4-8 x potency of morphine; antitussive Side effect:   few Side effect:   liver toxicity with dose excess of 4 g per day Administration:   PO; limit to maximally 2 months of Rx Action:   more effective against inflammation Side effect:   depression of platelet function (a)  selective COX-2 inhibitor Side effect:   less GI irritation + bleeding (a)  nonselective COX-2 inhibitor ›  acetylated carboxylic acid derivative Side effect:   GI irritation + bleeding ›  nonacetylated carboxylic acid derivative Side effect:   better gastric tolerance ›  acetic acid derivative"
+}

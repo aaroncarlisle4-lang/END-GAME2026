@@ -1,0 +1,27 @@
+{
+  "finding": "Cause: desmoplastic reaction",
+  "slug": "cause_desmoplastic_reaction_c416da",
+  "chapter": "Breast Cancer Evaluation",
+  "source_file": "processed_clusters/breast_cancer_evaluation/cause_desmoplastic_reaction_c416da.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Interval change (a)  neodensity = de novo developing density → in 6% malignant (b)  enlarging mass → in 10-15% malignant",
+      "raw": "Interval change (a)  neodensity = de novo developing density → in 6% malignant (b)  enlarging mass → in 10-15% malignant",
+      "frequency": "6%"
+    },
+    {
+      "name": "Enlarged single duct =  low probability for cancer in asymptomatic woman with normal breast palpation",
+      "raw": "Enlarged single duct =  low probability for cancer in asymptomatic woman with normal breast palpation",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse increase in density",
+      "raw": "Diffuse increase in density (late finding)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  ragged irregular borders DDx:  postsurgical fibrosis √  solitary dilated duct > 3 cm long DDx:  inspissated debris / blood / papilloma"
+}

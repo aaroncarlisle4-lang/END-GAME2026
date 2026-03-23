@@ -1,0 +1,41 @@
+{
+  "name": "BASAL CELL NEVUS SYNDROME",
+  "slug": "basal_cell_nevus_syndrome",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/basal_cell_nevus_syndrome.md",
+  "definition": "NEVOID BASAL CELL CARCINOMA (BCC) SYNDROME = GORLIN-GOLTZ syndrome of autosomal dominant inheritance characterized by",
+  "demographics": {
+    "Mean age": "19 years",
+    "Distribution": "nose, mouth, chest, back; affected by solar + ionizing radiation"
+  },
+  "dominant_finding": "forked = bifid rib (most commonly 4th rib) in 26%",
+  "distribution": "nose, mouth, chest, back; affected by solar + ionizing radiation",
+  "discriminating_features": [
+    "multiple aggressive uni- / multiloculated mandibular > maxillary cystic lesions = odontogenic",
+    "anomalies of upper 5 ribs:",
+    "forked = bifid rib (most commonly 4th rib) in 26%",
+    "agenesis / supernumerary ribs",
+    "fusion of adjacent ribs"
+  ],
+  "other_features": {
+    "general": [
+      "multiple aggressive uni- / multiloculated mandibular > maxillary cystic lesions = odontogenic",
+      "anomalies of upper 5 ribs:",
+      "forked = bifid rib (most commonly 4th rib) in 26%",
+      "agenesis / supernumerary ribs",
+      "fusion of adjacent ribs",
+      "hypo- / dysplastic distorted splayed ribs",
+      "bifid spinous processes, spina bifida",
+      "scoliosis (cervical + upper thoracic)",
+      "hemivertebrae + block vertebrae",
+      "Sprengel deformity (scapula elevated, hypoplastic, bowed)",
+      "deficiency of lateral clavicle",
+      "brachydactyly",
+      "extensive early calcification of falx + tentorium (65%)",
+      "ectopic calcifications of subcutaneous tissue, ovaries, sacrotuberous ligaments, mesentery",
+      "bony bridging of sella turcica",
+      "macrocephaly"
+    ]
+  },
+  "clinical": {}
+}

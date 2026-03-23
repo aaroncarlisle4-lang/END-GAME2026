@@ -1,0 +1,52 @@
+{
+  "finding": "B. NEUROBLASTOMA (30%",
+  "slug": "b_neuroblastoma_30",
+  "chapter": "C. LEFT UPPER QUADRANT",
+  "source_file": "processed_clusters/c_left_upper_quadrant/b_neuroblastoma_30.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "SOFT-TISSUE TUMOR (12-22%) (a)  benign: fibromatosis, digital fibromatosis, myofibromatosis, fibrous hamartoma (b)  malignant: infantile fibrosarcoma, rhabdosarcoma, primitive neuroectodermal tumor, rhabdoid tumor, hemangiopericytoma (b)  developmental vascular: hemangioma, lymphangioma, AV malformation",
+      "raw": "SOFT-TISSUE TUMOR (12-22%) (a)  benign: fibromatosis, digital fibromatosis, myofibromatosis, fibrous hamartoma (b)  malignant: infantile fibrosarcoma, rhabdosarcoma, primitive neuroectodermal tumor, rhabdoid tumor, hemangiopericytoma (b)  developmental vascular: hemangioma, lymphangioma, AV malformation",
+      "frequency": "22%"
+    },
+    {
+      "name": "INTRACRANIAL TUMOR",
+      "raw": "INTRACRANIAL TUMOR (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Intracranial teratoma",
+      "raw": "Intracranial teratoma (50% of all fetal CNS tumors)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Astrocytoma",
+      "raw": "Astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Choroid plexus papilloma",
+      "raw": "Choroid plexus papilloma (5-9%)",
+      "frequency": "9%"
+    },
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Primitive neuroectodermal tumor",
+      "raw": "Primitive neuroectodermal tumor (3.4-13.2%)",
+      "frequency": "13.2%"
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   pineal region, suprasellar area, cerebral hemispheres Site:   supratentorial > infratentorial (unlike pediatric age) √  macrocephaly, hydrocephalus, polyhydramnios ← depressed swallowing ← hypothalamic dysfunction Mortality:   97% (except for lipoma) DDx:   intracranial hemorrhage"
+}

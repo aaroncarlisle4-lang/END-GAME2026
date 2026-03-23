@@ -1,0 +1,57 @@
+{
+  "finding": "Chronic Mitral Regurgitation",
+  "slug": "chronic_mitral_regurgitation_a3eec6",
+  "chapter": "MITRAL REGURGITATION",
+  "source_file": "processed_clusters/mitral_regurgitation/chronic_mitral_regurgitation_a3eec6.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rheumatic heart disease ← acute rheumatic fever",
+      "raw": "Rheumatic heart disease ← acute rheumatic fever (a)  isolated: frequently seen in children (b)  uncommon in adults (mostly combined with stenosis)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Mitral valve prolapse syndrome",
+      "raw": "Mitral valve prolapse syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Atrial myxoma",
+      "raw": "Atrial myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Coronary artery disease = ischemic cardiomyopathy → regional wall motion abnormality, LV / annular dilatation → functional mitral regurgitation",
+      "raw": "Coronary artery disease = ischemic cardiomyopathy → regional wall motion abnormality, LV / annular dilatation → functional mitral regurgitation",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic hypertrophic subaortic stenosis",
+      "raw": "Idiopathic hypertrophic subaortic stenosis (IHSS)",
+      "frequency": null
+    },
+    {
+      "name": "Myxomatous degeneration of mitral valve: eg, Marfan syndrome, SLE",
+      "raw": "Myxomatous degeneration of mitral valve: eg, Marfan syndrome, SLE",
+      "frequency": null
+    },
+    {
+      "name": "Mitral annulus calcification",
+      "raw": "Mitral annulus calcification",
+      "frequency": null
+    },
+    {
+      "name": "Dilated / hypertrophic obstructive / amyloid cardiomyopathy → severe dilatation of LV → dilatation of mitral ring",
+      "raw": "Dilated / hypertrophic obstructive / amyloid cardiomyopathy → severe dilatation of LV → dilatation of mitral ring",
+      "frequency": null
+    },
+    {
+      "name": "Congenital heart disease: short / abnormally inserted chordae tendineae; persistent ostium primum ASD with cleft mitral valve; corrected transposition with Ebstein-like anomaly",
+      "raw": "Congenital heart disease: short / abnormally inserted chordae tendineae; persistent ostium primum ASD with cleft mitral valve; corrected transposition with Ebstein-like anomaly",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause: √  massively dilated left atrium: √  posterior LA wall calcification (McCallum patch) √  enlarged LA appendage (with history of previous rheumatic heart disease) √  elevation of left mainstem bronchus √  enlarged pulmonary arteries ← venous hypertension √  marked LV enlargement (cardiothoracic ratio > 0.55) √  left heart failure √  mitral annular calcification (frequent)"
+}

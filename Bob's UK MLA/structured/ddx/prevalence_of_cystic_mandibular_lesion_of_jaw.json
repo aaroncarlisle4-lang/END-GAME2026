@@ -1,0 +1,27 @@
+{
+  "finding": "Prevalence of Cystic Mandibular Lesion of Jaw",
+  "slug": "prevalence_of_cystic_mandibular_lesion_of_jaw",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/prevalence_of_cystic_mandibular_lesion_of_jaw.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Most common",
+      "raw": "Most common",
+      "frequency": "most common"
+    },
+    {
+      "name": "Periapical (radicular) cyst",
+      "raw": "Periapical (radicular) cyst",
+      "frequency": null
+    },
+    {
+      "name": "Follicular",
+      "raw": "Follicular (dentigerous) cyst)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

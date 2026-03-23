@@ -1,0 +1,55 @@
+{
+  "finding": "Short Mesentery",
+  "slug": "short_mesentery_d61e52",
+  "chapter": "MESENTERY & OMENTUM",
+  "source_file": "processed_clusters/mesentery_omentum/short_mesentery_d61e52.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malrotation + midgut volvulus",
+      "raw": "Malrotation + midgut volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Omphalocele",
+      "raw": "Omphalocele",
+      "frequency": null
+    },
+    {
+      "name": "Gastroschisis",
+      "raw": "Gastroschisis",
+      "frequency": null
+    },
+    {
+      "name": "Congenital diaphragmatic hernia",
+      "raw": "Congenital diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Asplenia + polysplenia \"Apple peel\" Small Bowel =  distal small intestines spirals around its vascular supply resembling an apple peel resulting in a very short intestine [Proximal jejunal atresia]",
+      "raw": "Asplenia + polysplenia \"Apple peel\" Small Bowel =  distal small intestines spirals around its vascular supply resembling an apple peel resulting in a very short intestine",
+      "frequency": null,
+      "sites": [
+        "Proximal jejunal atresia"
+      ]
+    },
+    {
+      "name": "Absence of distal superior mesenteric artery",
+      "raw": "Absence of distal superior mesenteric artery",
+      "frequency": null
+    },
+    {
+      "name": "Shortening of small bowel distal to atresia",
+      "raw": "Shortening of small bowel distal to atresia",
+      "frequency": null
+    },
+    {
+      "name": "Absence of dorsal mesentery",
+      "raw": "Absence of dorsal mesentery",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  shortened line of fixation Cx:     propensity toward necrotizing enterocolitis Prognosis:  high mortality"
+}

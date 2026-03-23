@@ -1,0 +1,32 @@
+{
+  "finding": "B. DEVELOPMENTAL",
+  "slug": "b_developmental_4aaa54",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/b_developmental_4aaa54.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Persistent fetal vasculature 19-28%",
+      "raw": "Persistent fetal vasculature 19-28%",
+      "frequency": "28%"
+    },
+    {
+      "name": "Coats disease 4-16%",
+      "raw": "Coats disease 4-16%",
+      "frequency": "16%"
+    },
+    {
+      "name": "Retrolental fibroplasia",
+      "raw": "Retrolental fibroplasia (3-5%)",
+      "frequency": "5%"
+    },
+    {
+      "name": "Coloboma of choroid / optic disc",
+      "raw": "Coloboma of choroid / optic disc (11%)",
+      "frequency": "11%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

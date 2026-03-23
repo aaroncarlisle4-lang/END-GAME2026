@@ -1,0 +1,47 @@
+{
+  "finding": "A. NO INCREASED RISK (70%",
+  "slug": "a_no_increased_risk_70",
+  "chapter": "FIBROADENOMA",
+  "source_file": "processed_clusters/fibroadenoma/a_no_increased_risk_70.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nonproliferative lesions: adenosis, florid adenosis, apocrine metaplasia without atypia, macro- / microcysts, duct ectasia, fibrosis, mild hyperplasia (more than 2 but not more than 4 epithelial cells deep), mastitis, periductal mastitis, squamous metaplasia",
+      "raw": "Nonproliferative lesions: adenosis, florid adenosis, apocrine metaplasia without atypia, macro- / microcysts, duct ectasia, fibrosis, mild hyperplasia (more than 2 but not more than 4 epithelial cells deep), mastitis, periductal mastitis, squamous metaplasia",
+      "frequency": null
+    },
+    {
+      "name": "Fibroadenoma",
+      "raw": "Fibroadenoma",
+      "frequency": null
+    },
+    {
+      "name": "SLIGHTLY INCREASED RISK (1.5-2 times):",
+      "raw": "SLIGHTLY INCREASED RISK (1.5-2 times):",
+      "frequency": null
+    },
+    {
+      "name": "Moderate + florid solid / papillary hyperplasia",
+      "raw": "Moderate + florid solid / papillary hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Papilloma with fibrovascular core",
+      "raw": "Papilloma with fibrovascular core",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing adenosis",
+      "raw": "Sclerosing adenosis",
+      "frequency": null
+    },
+    {
+      "name": "MODERATELY INCREASED RISK (5 times):",
+      "raw": "MODERATELY INCREASED RISK (5 times):",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

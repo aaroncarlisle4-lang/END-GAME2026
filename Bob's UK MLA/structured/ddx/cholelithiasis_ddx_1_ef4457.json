@@ -1,0 +1,27 @@
+{
+  "finding": "Cholelithiasis (DDx)",
+  "slug": "cholelithiasis_ddx_1_ef4457",
+  "chapter": "Cholelithiasis",
+  "source_file": "processed_clusters/cholelithiasis/cholelithiasis_ddx_1_ef4457.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "air bubbles",
+      "raw": "air bubbles",
+      "frequency": null
+    },
+    {
+      "name": "neoplasm",
+      "raw": "neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "concentrated bile",
+      "raw": "concentrated bile",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "stone visualization in 92% | dependent round filling defects"
+}

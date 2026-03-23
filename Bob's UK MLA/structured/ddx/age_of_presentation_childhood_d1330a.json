@@ -1,0 +1,62 @@
+{
+  "finding": "Age of presentation: childhood",
+  "slug": "age_of_presentation_childhood_d1330a",
+  "chapter": "PULMONIC INSUFFICIENCY / REGURGITATION",
+  "source_file": "processed_clusters/pulmonic_insufficiency_regurgitation/age_of_presentation_childhood_d1330a.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pulmonic click",
+      "raw": "pulmonic click",
+      "frequency": null
+    },
+    {
+      "name": "ECG: hypertrophy of RV",
+      "raw": "ECG: hypertrophy of RV",
+      "frequency": null
+    },
+    {
+      "name": "DYSPLASTIC PULMONIC VALVE STENOSIS (5%) =  thickened redundant immobile distorted cusps ← myxomatous tissue",
+      "raw": "DYSPLASTIC PULMONIC VALVE STENOSIS (5%) =  thickened redundant immobile distorted cusps ← myxomatous tissue",
+      "frequency": "5%"
+    },
+    {
+      "name": "NO click",
+      "raw": "NO click",
+      "frequency": null
+    },
+    {
+      "name": "Valvular pulmonic stenosis, supravalvular aortic stenosis, VSD, PDA, systemic arterial stenoses",
+      "raw": "Valvular pulmonic stenosis, supravalvular aortic stenosis, VSD, PDA, systemic arterial stenoses",
+      "frequency": null
+    },
+    {
+      "name": "Familial peripheral pulmonic stenoses + supravalvular aortic stenosis",
+      "raw": "Familial peripheral pulmonic stenoses + supravalvular aortic stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Williams-Beuren syndrome: autosomal dominant multisystem disorder with supravalvular AS (in 71%), MV prolapse, PS, peculiar facies",
+      "raw": "Williams-Beuren syndrome: autosomal dominant multisystem disorder with supravalvular AS (in 71%), MV prolapse, PS, peculiar facies",
+      "frequency": "71%"
+    },
+    {
+      "name": "Ehlers-Danlos syndrome",
+      "raw": "Ehlers-Danlos syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Postrubella syndrome: peripheral pulmonic stenoses, valvular pulmonic stenosis,",
+      "raw": "Postrubella syndrome: peripheral pulmonic stenoses, valvular pulmonic stenosis,",
+      "frequency": null
+    },
+    {
+      "name": "Tetralogy of Fallot / critical valvular pulmonic stenosis",
+      "raw": "Tetralogy of Fallot / critical valvular pulmonic stenosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  dome-shaped valve: √  mobile valve with 2-4 raphes √  incomplete separation of valve cusps √  jet of contrast through small central orifice √  dilated main + left pulmonary artery Rx:   balloon valvuloplasty (for peak instantaneous gradient above 50 mmHg) √  cauliflower-like thickening at free margin of leaflets √  NO poststenotic dilatation Rx:   surgical resection of redundant valve tissue Hemodynamics:   obstruction of RV systolic ejection with pressure burden on RV CXR: √  normal pulmonary vascularity √  normal-sized heart √  enlargement of main + left pulmonary artery CT: √  poststenot"
+}

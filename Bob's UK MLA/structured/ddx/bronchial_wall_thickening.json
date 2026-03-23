@@ -1,0 +1,42 @@
+{
+  "finding": "Bronchial Wall Thickening",
+  "slug": "bronchial_wall_thickening",
+  "chapter": "TRACHEA & BRONCHI",
+  "source_file": "processed_clusters/trachea_bronchi/bronchial_wall_thickening.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PERIBRONCHOVASCULAR",
+      "raw": "PERIBRONCHOVASCULAR",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangitic carcinomatosis",
+      "raw": "Lymphangitic carcinomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Kaposi sarcoma",
+      "raw": "Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary edema",
+      "raw": "Pulmonary edema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Apparent thickness of bronchial wall varies with lung window chosen on CT: a mean window that is too low can make the bronchial wall appear abnormal! Windowing:   level at -250 to -700 HU, width at > 1000 HU"
+}

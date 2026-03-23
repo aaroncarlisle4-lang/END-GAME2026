@@ -1,0 +1,27 @@
+{
+  "name": "UTERINE RUPTURE IN PREGNANCY",
+  "slug": "uterine_rupture_in_pregnancy",
+  "chapter": "OBSTETRIC AND GYNECOLOGIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/obstetric_and_gynecologic_disorders/uterine_rupture_in_pregnancy.md",
+  "definition": "disruption of all layers surrounding the fetus (membranes, decidua, myometrium, serosa)",
+  "demographics": {
+    "Prevalence": "3-5% for classic cesarean sections; 1-2% for lower segment operations; 1% of"
+  },
+  "dominant_finding": "full-thickness defect of uterine wall",
+  "distribution": "",
+  "discriminating_features": [
+    "full-thickness defect of uterine wall",
+    "extrusion of fetus into the abdomen",
+    "hemoperitoneum"
+  ],
+  "other_features": {
+    "general": [
+      "full-thickness defect of uterine wall",
+      "extrusion of fetus into the abdomen",
+      "hemoperitoneum"
+    ]
+  },
+  "clinical": {
+    "Cx": "hypofibrinogenemia (triggered by excessive blood loss, trauma, amniotic fluid embolism)"
+  }
+}

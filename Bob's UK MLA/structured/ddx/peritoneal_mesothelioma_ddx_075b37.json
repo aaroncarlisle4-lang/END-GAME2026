@@ -1,0 +1,27 @@
+{
+  "finding": "Peritoneal Mesothelioma (DDx)",
+  "slug": "peritoneal_mesothelioma_ddx_075b37",
+  "chapter": "Peritoneal Mesothelioma",
+  "source_file": "processed_clusters/peritoneal_mesothelioma/peritoneal_mesothelioma_ddx_075b37.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Paraovarian cyst",
+      "raw": "Paraovarian cyst (ovoid cyst outside ovary)",
+      "frequency": null
+    },
+    {
+      "name": "Hydrosalpinx (visible folds",
+      "raw": "Hydrosalpinx (visible folds",
+      "frequency": null
+    },
+    {
+      "name": "located",
+      "raw": "located",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "septal enhancement | signal pattern typical of serous fluid = low on T1WI, high on T2WI | enhancement of septa only | may contain hemorrhage"
+}

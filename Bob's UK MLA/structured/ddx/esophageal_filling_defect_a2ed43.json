@@ -1,0 +1,47 @@
+{
+  "finding": "Esophageal Filling Defect",
+  "slug": "esophageal_filling_defect_a2ed43",
+  "chapter": "B. INFLAMMATION",
+  "source_file": "processed_clusters/b_inflammation/esophageal_filling_defect_a2ed43.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "BENIGN TUMORS < 1% of all clinical esophageal tumors; 20% at autopsy (a)  Subepithelial tumor (75%) =  nonepithelial, intramural",
+      "raw": "BENIGN TUMORS < 1% of all clinical esophageal tumors; 20% at autopsy (a)  Subepithelial tumor (75%) =  nonepithelial, intramural",
+      "frequency": "1%"
+    },
+    {
+      "name": "Leiomyoma (50% of all benign tumors) ◊  Most common subepithelial mass in esophagus",
+      "raw": "Leiomyoma (50% of all benign tumors) ◊  Most common subepithelial mass in esophagus",
+      "frequency": "50%"
+    },
+    {
+      "name": "Granular cell myoblastoma",
+      "raw": "Granular cell myoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma, fibroma, lipoma, fibrolipoma, myxofibroma, hamartoma, hemangioma, lymphangioma, neurofibroma, schwannoma",
+      "raw": "Lipoma, fibroma, lipoma, fibrolipoma, myxofibroma, hamartoma, hemangioma, lymphangioma, neurofibroma, schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Squamous papilloma =  most common benign mucosal tumor; rarely multiple",
+      "raw": "Squamous papilloma =  most common benign mucosal tumor; rarely multiple (as in esophageal papillomatosis)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Fibrovascular polyp",
+      "raw": "Fibrovascular polyp",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory esophagogastric polyp =  sentinel polyp = bulbous tip of thickened gastric fold",
+      "raw": "Inflammatory esophagogastric polyp =  sentinel polyp = bulbous tip of thickened gastric fold",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  primary wave stops at level of tumor √  proximal esophageal dilatation + hypotonicity √  rigid esophageal wall at site of tumoral implant √  disorganized / altered / effaced mucosal folds around defect √  tumor shadow on tangential view extending beyond esophageal margin (b)  Mucosal tumor (25%) = epithelial, intraluminal √  small sessile slightly lobulated polyp √  average size of 4 mm"
+}

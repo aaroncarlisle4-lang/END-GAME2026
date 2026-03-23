@@ -1,0 +1,27 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_8_0f3fbd",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/a_benign_8_0f3fbd.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neurofibroma: multiple suggestive of NF",
+      "raw": "Neurofibroma: multiple suggestive of NF",
+      "frequency": null
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma (very rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

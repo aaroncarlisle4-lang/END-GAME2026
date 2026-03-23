@@ -1,0 +1,37 @@
+{
+  "finding": "Leptomeningeal Disease",
+  "slug": "leptomeningeal_disease_346801",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/leptomeningeal_disease_346801.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "INFLAMMATION",
+      "raw": "INFLAMMATION",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Chemical meningitis: rupture of epidermoid",
+      "raw": "Chemical meningitis: rupture of epidermoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

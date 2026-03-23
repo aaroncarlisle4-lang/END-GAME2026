@@ -1,0 +1,27 @@
+{
+  "finding": "Osteomyelitis — Sacroiliac joint (DDx)",
+  "slug": "osteomyelitis_sacroiliac_joint_ddx_1_a9586e",
+  "chapter": "Osteomyelitis",
+  "source_file": "processed_clusters/osteomyelitis/osteomyelitis_sacroiliac_joint_ddx_1_a9586e.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "subacute + chronic infectious osteomyelitis; histiocytosis; hypophosphatasia; malignancy (leukemia",
+      "raw": "subacute + chronic infectious osteomyelitis; histiocytosis; hypophosphatasia; malignancy (leukemia",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma)",
+      "raw": "Ewing sarcoma)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "progressive sclerosis surrounding osteolytic foci | bone marrow edema, periostitis, soft-tissue inflammation, transphyseal disease | joint effusion (30%), synovial thickening, cartilage destruction, destruction of | sclerosis + hyperostosis"
+}

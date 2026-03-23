@@ -1,0 +1,42 @@
+{
+  "finding": "Cord Lesions",
+  "slug": "cord_lesions_90655b",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/cord_lesions_90655b.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "INFLAMMATION",
+      "raw": "INFLAMMATION",
+      "frequency": null
+    },
+    {
+      "name": "Multiple sclerosis",
+      "raw": "Multiple sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Acute disseminated encephalomyelitis",
+      "raw": "Acute disseminated encephalomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Acute transverse myelitis",
+      "raw": "Acute transverse myelitis",
+      "frequency": null
+    },
+    {
+      "name": "Lyme disease",
+      "raw": "Lyme disease",
+      "frequency": null
+    },
+    {
+      "name": "Devic syndrome",
+      "raw": "Devic syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  involves half the cross-sectional area of cord"
+}

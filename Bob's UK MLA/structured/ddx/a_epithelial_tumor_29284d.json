@@ -1,0 +1,52 @@
+{
+  "finding": "A. EPITHELIAL TUMOR",
+  "slug": "a_epithelial_tumor_29284d",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/a_epithelial_tumor_29284d.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucinous carcinoma",
+      "raw": "Mucinous carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Invasive ductal carcinoma",
+      "raw": "Invasive ductal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metaplastic carcinoma",
+      "raw": "Metaplastic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Papillary carcinoma",
+      "raw": "Papillary carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Invasive lobular carcinoma",
+      "raw": "Invasive lobular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenoid cystic carcinoma",
+      "raw": "Adenoid cystic carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Sebaceous carcinoma",
+      "raw": "Sebaceous carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Intraductal papilloma",
+      "raw": "Intraductal papilloma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,60 @@
+{
+  "finding": "Cause: developmental, degenerative, posttraumatic",
+  "slug": "cause_developmental_degenerative_posttraumatic_77bef4",
+  "chapter": "KNEE",
+  "source_file": "processed_clusters/knee/cause_developmental_degenerative_posttraumatic_77bef4.md",
+  "quality_score": 0.933,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chondrocalcinosis [Fibular collateral ligament]",
+      "raw": "Chondrocalcinosis",
+      "frequency": null,
+      "sites": [
+        "Fibular collateral ligament"
+      ]
+    },
+    {
+      "name": "Arcuate ligament",
+      "raw": "Arcuate ligament",
+      "frequency": null
+    },
+    {
+      "name": "Popliteus musculotendinous complex",
+      "raw": "Popliteus musculotendinous complex",
+      "frequency": null
+    },
+    {
+      "name": "Popliteofibular ligament",
+      "raw": "Popliteofibular ligament",
+      "frequency": null
+    },
+    {
+      "name": "Fabellofibular ligament",
+      "raw": "Fabellofibular ligament",
+      "frequency": null
+    },
+    {
+      "name": "Posterolateral capsule",
+      "raw": "Posterolateral capsule",
+      "frequency": null
+    },
+    {
+      "name": "Function:   anchors fabellofibular ligament",
+      "raw": "Function:   anchors fabellofibular ligament",
+      "frequency": null
+    },
+    {
+      "name": "FABELLOFIBULAR LIGAMENT",
+      "raw": "FABELLOFIBULAR LIGAMENT (present in 40%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "Origin:   fabella",
+      "raw": "Origin:   fabella",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:  posterior horn of MM √  calcification on radiograph mimicks loose body √  increased signal intensity can mimic a tear Prevalence:   5- 15% (increasing with age) √  calcifications on radiograph √  increased signal intensity → lowers sensitivity and specificity for detection of meniscal tear Posterolateral Corner Structures =  arcuate complex Popliteus Musculotendinous Complex Origin:   posteromedial tibial surface proximal to soleal line forming floor of popliteal fossa Course:   forms long strong popliteal tendon that passes underneath posterolateral joint capsule + arcuate ligament"
+}

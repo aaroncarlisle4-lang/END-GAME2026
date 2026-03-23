@@ -1,0 +1,70 @@
+{
+  "name": "ABNORMAL INTRAABDOMINAL AIR",
+  "slug": "abnormal_intraabdominal_air",
+  "chapter": "GASTROINTESTINAL HEMORRHAGE",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_hemorrhage/abnormal_intraabdominal_air.md",
+  "definition": "air outlining the luminal + serosal surface of the bowel wall with patient in supine process mimicking free air PNEUMATOSIS CYSTOIDES INTESTINALIS = BULLOUS EMPHYSEMA OF THE INTESTINE = cystic / linear gas collection in bowel wall",
+  "demographics": {
+    "Prevalence": "0.025%-0.28%",
+    "Location": "small bowel > colon; may be discontinuous with spread to distant sites along"
+  },
+  "dominant_finding": "hypointense signal on 2-D dual-echo GRE MRI with blooming artifact ← effect of air on",
+  "distribution": "small bowel > colon; may be discontinuous with spread to distant sites along",
+  "discriminating_features": [
+    "air in lesser peritoneal sac",
+    "gas in scrotum ← open processus vaginalis",
+    "\"abdominal distension, NO gastric air-fluid level",
+    "\"football\" sign = large pneumoperitoneum outlining entire abdominal cavity",
+    "\"double wall / bas-relief\" sign = Rigler sign"
+  ],
+  "other_features": {
+    "general": [
+      "air in lesser peritoneal sac",
+      "gas in scrotum ← open processus vaginalis",
+      "\"abdominal distension, NO gastric air-fluid level",
+      "\"football\" sign = large pneumoperitoneum outlining entire abdominal cavity",
+      "\"double wall / bas-relief\" sign = Rigler sign",
+      "\"telltale triangle\" sign = triangular air pocket between 3 loops of bowel",
+      "depiction of diaphragmatic muscle slips = two or three 6-13-cm long and 8-10-mm wide",
+      "outline of ligaments of anterior inferior abdominal wall:",
+      "\"inverted V\" sign = outline of both lateral umbilical ligaments (containing inferior",
+      "outline of medial umbilical ligaments (= obliterated umbilical arteries)",
+      "\"urachus\" sign = outline of middle umbilical ligament",
+      "single large area of hyperlucency over the liver",
+      "oblique linear area of hyperlucency outlining the posteroinferior margin of liver",
+      "\"doge's cap\" sign = triangular collection of gas in Morison pouch (posterior hepatorenal",
+      "outline of falciform ligament = long vertical line to the right of midline extending from",
+      "\"ligamentum teres\" sign = air outlining fissure of ligamentum teres hepatis (= posterior",
+      "ligamentum teres notch = inverted V-shaped area of hyperlucency along undersurface of",
+      "\"saddlebag / mustache / cupola\" sign = gas trapped below central tendon of diaphragm",
+      "parahepatic air = gas bubble lateral to right edge of liver",
+      "enhancement of peritoneal stripe",
+      "posterior shadowing / reverberation artifacts depending on amount of free air",
+      "depiction of primary malignancy + site and extent of perforation",
+      "pneumoperitoneum",
+      "extravasation of bowel content + oral contrast",
+      "contained leak",
+      "gas within tumor",
+      "formation of enteroenteric fistula",
+      "kidney outlined by gas",
+      "outline of psoas margin ± gas streaks in muscle bundles",
+      "radiolucent clusters of cysts along contour of bowel wall (best demonstrated on CT)",
+      "segmental mucosal nodularity",
+      "primary radiologic finding:",
+      "linear / cystic gas collection within bowel wall paralleling mucosa",
+      "secondary radiologic findings:",
+      "± pneumoperitoneum / pneumoretroperitoneum (asymptomatic large pneumoperitoneum",
+      "± gas in mesenteric + portal vein",
+      "free fluid"
+    ],
+    "MR": [
+      "hypointense signal on 2-D dual-echo GRE MRI with blooming artifact ← effect of air on"
+    ],
+    "US": [
+      "echogenic reverberation artifacts within bowel wall"
+    ]
+  },
+  "clinical": {
+    "Note": "normal peritoneal stripe = single / double hyperechoic line deep to anterior"
+  }
+}

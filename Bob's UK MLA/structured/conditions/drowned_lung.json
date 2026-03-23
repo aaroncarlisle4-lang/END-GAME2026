@@ -1,0 +1,42 @@
+{
+  "name": "DROWNED LUNG",
+  "slug": "drowned_lung",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/drowned_lung.md",
+  "definition": "abnormal increase in lobar / rarely whole lung volume",
+  "demographics": {},
+  "dominant_finding": "postobstructive consolidation",
+  "distribution": "little / no mediastinal shift to contralateral side",
+  "discriminating_features": [
+    "T2WI differentiates drowned lung from obstructing tumor",
+    "bulging interlobar fissure",
+    "little / no mediastinal shift to contralateral side",
+    "obliteration of bronchial lumen leading to obstructed lobe",
+    "absence of air bronchogram"
+  ],
+  "other_features": {
+    "general": [
+      "bulging interlobar fissure",
+      "little / no mediastinal shift to contralateral side",
+      "obliteration of bronchial lumen leading to obstructed lobe",
+      "absence of air bronchogram",
+      "hilar mass + regional lymphadenopathy"
+    ],
+    "CT": [
+      "postobstructive consolidation",
+      "mucus bronchogram = bronchi filled with low-attenuation material"
+    ],
+    "CECT": [
+      "delineates enhancing tumor + lymph nodes from consolidated lung of low attenuation (="
+    ],
+    "MR": [
+      "T2WI differentiates drowned lung from obstructing tumor"
+    ],
+    "PET": [
+      "high tumor activity centrally"
+    ]
+  },
+  "clinical": {
+    "Cx": "necrosis, cavitation, secondary infection"
+  }
+}

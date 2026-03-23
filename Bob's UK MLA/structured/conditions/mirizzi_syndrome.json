@@ -1,0 +1,37 @@
+{
+  "name": "MIRIZZI SYNDROME",
+  "slug": "mirizzi_syndrome",
+  "chapter": "AND SPLENIC DISORDERS",
+  "source_file": "processed_clusters/disease_entries/and_splenic_disorders/mirizzi_syndrome.md",
+  "definition": "extrinsic right-sided compression of common hepatic duct by large gallstone impacted in",
+  "demographics": {},
+  "dominant_finding": "gallstone not always visualized",
+  "distribution": "focal stricture of CHD",
+  "discriminating_features": [
+    "normal CBD",
+    "TRIAD:",
+    "partial obstruction of CHD ← external compression on lateral side of duct / eroding stone",
+    "gallstone not always visualized",
+    "cholelithiasis with stone in cystic duct"
+  ],
+  "other_features": {
+    "general": [
+      "normal CBD",
+      "TRIAD:",
+      "partial obstruction of CHD ← external compression on lateral side of duct / eroding stone"
+    ],
+    "CT": [
+      "gallstone not always visualized"
+    ],
+    "MR": [
+      "cholelithiasis with stone in cystic duct",
+      "focal stricture of CHD",
+      "dilatation of intrahepatic bile ducts + proximal CHD",
+      "normal caliber of distal CBD"
+    ]
+  },
+  "clinical": {
+    "Cx": "cholecystobiliary fistula",
+    "Rx": "open surgery"
+  }
+}

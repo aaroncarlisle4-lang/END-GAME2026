@@ -1,0 +1,27 @@
+{
+  "name": "PERIODONTAL DISEASE",
+  "slug": "periodontal_disease",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/periodontal_disease.md",
+  "definition": "",
+  "demographics": {},
+  "dominant_finding": "rimlike enhancement of fluid collection (abscess), cellulitis, myositis",
+  "distribution": "cortical dehiscence commonly on lingual aspect of mandible",
+  "discriminating_features": [
+    "rimlike enhancement of fluid collection (abscess), cellulitis, myositis",
+    "cortical dehiscence commonly on lingual aspect of mandible",
+    "permeative bone changes, osseous destruction, periosteal reaction"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "rimlike enhancement of fluid collection (abscess), cellulitis, myositis",
+      "cortical dehiscence commonly on lingual aspect of mandible",
+      "permeative bone changes, osseous destruction, periosteal reaction"
+    ]
+  },
+  "clinical": {
+    "Cx": "descending necrotizing mediastinitis",
+    "Rx": "tooth extraction, abscess drainage, IV antibiotics"
+  }
+}

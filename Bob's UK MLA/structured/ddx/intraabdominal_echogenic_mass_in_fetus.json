@@ -1,0 +1,32 @@
+{
+  "finding": "Intraabdominal Echogenic Mass in Fetus",
+  "slug": "intraabdominal_echogenic_mass_in_fetus",
+  "chapter": "Fetal Hepatomegaly",
+  "source_file": "processed_clusters/fetal_hepatomegaly/intraabdominal_echogenic_mass_in_fetus.md",
+  "quality_score": 0.633,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "ABDOMEN",
+      "raw": "ABDOMEN",
+      "frequency": null
+    },
+    {
+      "name": "Echogenic bowel",
+      "raw": "Echogenic bowel",
+      "frequency": null
+    },
+    {
+      "name": "Enteric duplication cyst",
+      "raw": "Enteric duplication cyst (rarely echogenic)",
+      "frequency": null
+    },
+    {
+      "name": "Subdiaphragmatic extralobar pulmonary sequestration",
+      "raw": "Subdiaphragmatic extralobar pulmonary sequestration (4÷1 left-sided predominance)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

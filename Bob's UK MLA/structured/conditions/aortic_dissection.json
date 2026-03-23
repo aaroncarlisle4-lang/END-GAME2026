@@ -1,0 +1,86 @@
+{
+  "name": "AORTIC DISSECTION",
+  "slug": "aortic_dissection",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/aortic_dissection.md",
+  "definition": "spontaneous longitudinal separation of aortic intima and adventitia by circulating blood II + III",
+  "demographics": {
+    "Incidence": "3÷1,000 (more common than all ruptures of thoracic + abdominal aorta combined);",
+    "Peak age": "60 years (range 13-87 years); M÷F = 3÷1",
+    "Path": "destruction of media leads to formation of a false channel:"
+  },
+  "dominant_finding": "extravasation of vascular contrast material",
+  "distribution": "widening of superior mediastinum to > 8 cm ← hemorrhage / enlarging false channel (40-",
+  "discriminating_features": [
+    "SPECIFIC \"cobweb\" sign = slender linear areas of low attenuation ← residual ribbons of",
+    "usually smaller and oval / semiround",
+    "in continuity with undissected portion of aorta",
+    "higher concentration of contrast",
+    "ribbonlike"
+  ],
+  "other_features": {
+    "general": [
+      "usually smaller and oval / semiround",
+      "in continuity with undissected portion of aorta",
+      "higher concentration of contrast",
+      "ribbonlike",
+      "SPECIFIC \"cobweb\" sign = slender linear areas of low attenuation ← residual ribbons of",
+      "\"beak\" sign at cross-sectional imaging = wedge of hematoma creating space for",
+      "rewinding around true lumen on axial plane",
+      "may become thrombosed",
+      "circumferential intimal flap ← dissection of entire intima",
+      "filiform intimal flap creating an extremely narrow true lumen ± ischemic complications",
+      "mural calcification of false lumen (in chronic dissection)",
+      "three-channel aorta (= \"Mercedes-Benz\" sign) ← two false channels ← secondary",
+      "intimointimal intussusception → \"windsock\" appearance",
+      "internal displacement of intimal calcification",
+      "delayed enhancement of false lumen",
+      "widening of aorta and mediastinum",
+      "pleural / pericardial hematoma",
+      "normal CXR in 10-25-40%",
+      "\"calcification\" sign = inward displacement of atherosclerotic plaque by > 4-10 mm from",
+      "disparity in size between ascending + descending aorta",
+      "irregular wavy contour / indistinct outline of aorta",
+      "widening of superior mediastinum to > 8 cm ← hemorrhage / enlarging false channel (40-",
+      "cardiac enlargement ← LV hypertrophy / hemopericardium",
+      "left pleural effusion (27%)",
+      "atelectasis of lower lobe",
+      "rightward displacement of trachea / endotracheal tube",
+      "intimal flap (seen in more than one view)",
+      "pericardial fluid",
+      "aortic insufficiency",
+      "visualization of intimal / medial flap (75-79%) = linear radiolucency within opacified",
+      "\"double barrel aorta\" (87%) = opacification of two aortic lumens",
+      "abnormal catheter position outside anticipated aortic course",
+      "compression of true lumen by false channel (72-85%)",
+      "aortic valvular regurgitation (30%)",
+      "increase in aortic wall thickness > 6-10 mm",
+      "obstruction of aortic branches: left renal artery (25-30%)",
+      "ulcerlike projections caused by truncated branches",
+      "slower blood flow in false lumen"
+    ],
+    "NECT": [
+      "high attenuation within aortic wall 2° to:",
+      "intimal flap separating two aortic channels (may be seen without contrast in anemic",
+      "intimal flap separating two aortic channels",
+      "crescentic high-attenuation clot within false lumen",
+      "internally displaced intimal calcification (DDx: calcification of thrombus on luminal",
+      "entry tear = most proximal split / discontinuity in intimal flap",
+      "intimal flap of medium intensity outlined by signal voids of rapidly flowing blood in true",
+      "intimal flap more difficult to detect in the presence of slow flow / thrombus ← false",
+      "\"cobwebs\" (25%) traversing the corners of the false lumen = bands of medial elastic",
+      "lower-intensity intimal flap between high-intensity channels of flowing blood",
+      "intermediate signal from thrombosed lumen",
+      "aortic valve insufficiency = conical area of signal loss from aortic valve into LV during",
+      "flap enters branch-vessel origin",
+      "collapsed true lumen outlined by a C-shaped flap envelope which is concave"
+    ],
+    "CECT": [
+      "extravasation of vascular contrast material"
+    ]
+  },
+  "clinical": {
+    "N.B.": "NOT syphilis",
+    "Cx": "death from rupture of aortic aneurysm in 46% of hypertensive + 17% of"
+  }
+}

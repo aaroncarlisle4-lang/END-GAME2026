@@ -1,0 +1,62 @@
+{
+  "finding": "BRONCHIECTASIS",
+  "slug": "bronchiectasis_07a1c3",
+  "chapter": "BRONCHIAL ATRESIA",
+  "source_file": "processed_clusters/bronchial_atresia/bronchiectasis_07a1c3.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic or recurrent infection (a)  congenital",
+      "raw": "Chronic or recurrent infection (a)  congenital",
+      "frequency": null
+    },
+    {
+      "name": "Structural defect of bronchi: bronchial atresia, Williams-Campbell syndrome",
+      "raw": "Structural defect of bronchi: bronchial atresia, Williams-Campbell syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Abnormal mucociliary transport: Kartagener syndrome = primary ciliary dyskinesia",
+      "raw": "Abnormal mucociliary transport: Kartagener syndrome = primary ciliary dyskinesia",
+      "frequency": null
+    },
+    {
+      "name": "Abnormal secretions: cystic fibrosis",
+      "raw": "Abnormal secretions: cystic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Mounier-Kuhn syndrome",
+      "raw": "Mounier-Kuhn syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Chronic granulomatous disease of childhood",
+      "raw": "Chronic granulomatous disease of childhood",
+      "frequency": null
+    },
+    {
+      "name": "Alpha-1 antitrypsin deficiency (c)  postinfectious childhood pneumonias (after necrotizing viral / bacterial bronchitis):",
+      "raw": "Alpha-1 antitrypsin deficiency (c)  postinfectious childhood pneumonias (after necrotizing viral / bacterial bronchitis):",
+      "frequency": null
+    },
+    {
+      "name": "Measles",
+      "raw": "Measles",
+      "frequency": null
+    },
+    {
+      "name": "Whooping cough",
+      "raw": "Whooping cough",
+      "frequency": null
+    },
+    {
+      "name": "Swyer-James syndrome",
+      "raw": "Swyer-James syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  localized mostly irreversible dilatation of bronchi often with thickening of the bronchial wall Pathophysiology: \"vicious cycle\" hypothesis = airway damage + infection play reinforcing roles in the development of bronchiectasis. Host factors that predispose to infection are impaired glandular secretion (cystic fibrosis), impaired ciliary function (ciliary dyskinesia), or systemic immune dysfunction. Etiology: Distribution:   midorder bronchi √  cartilage deficiency Distribution:   middle lobe, lingula √  situs inversus, chronic sinusitis, bronchiectasis Distribution:   central upper lung zo"
+}

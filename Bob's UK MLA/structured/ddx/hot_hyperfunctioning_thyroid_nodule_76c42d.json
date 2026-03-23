@@ -1,0 +1,37 @@
+{
+  "finding": "Hot / Hyperfunctioning Thyroid Nodule",
+  "slug": "hot_hyperfunctioning_thyroid_nodule_76c42d",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/hot_hyperfunctioning_thyroid_nodule_76c42d.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenoma (a)  Autonomous adenoma = TSH-independent",
+      "raw": "Adenoma (a)  Autonomous adenoma = TSH-independent",
+      "frequency": null
+    },
+    {
+      "name": "euthyroid",
+      "raw": "euthyroid (80%), thyrotoxicosis (20%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "Thyroid carcinoma",
+      "raw": "Thyroid carcinoma (extremely rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Any hot nodule on 99mTc scan must be imaged with 123I to differentiate between autonomous and cancerous lesion",
+      "raw": "Any hot nodule on 99mTc scan must be imaged with 123I to differentiate between autonomous and cancerous lesion",
+      "frequency": null
+    },
+    {
+      "name": "A hot hyperfunctioning (= low TSH level) nodule is rarely malignant → further evaluation with US / FNAB NOT NECESSARY",
+      "raw": "A hot hyperfunctioning (= low TSH level) nodule is rarely malignant → further evaluation with US / FNAB NOT NECESSARY",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Frequency:   5-8% √  partial / total suppression of remainder of gland (b)  Adenomatous hyperplasia = TSH-dependent ← defective thyroid hormone production √  discordant uptake N.B.:"
+}

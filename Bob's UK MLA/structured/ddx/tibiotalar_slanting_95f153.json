@@ -1,0 +1,37 @@
+{
+  "finding": "Tibiotalar Slanting",
+  "slug": "tibiotalar_slanting_95f153",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/tibiotalar_slanting_95f153.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemophilia",
+      "raw": "Hemophilia",
+      "frequency": null
+    },
+    {
+      "name": "Still disease",
+      "raw": "Still disease",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease",
+      "raw": "Sickle cell disease",
+      "frequency": null
+    },
+    {
+      "name": "Epiphyseal dysplasia",
+      "raw": "Epiphyseal dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  downward slanting of medial tibial plafond"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "DUCTUS ARTERIOSUS ANEURYSM",
+  "slug": "ductus_arteriosus_aneurysm",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/ductus_arteriosus_aneurysm.md",
+  "definition": "fusiform aneurysm of ductus arteriosus, usually patent toward aorta + completely /",
+  "demographics": {
+    "Prevalence": "< 100 cases",
+    "Age": "most < 2 months of age"
+  },
+  "dominant_finding": "contrast-enhancing mass in classic location",
+  "distribution": "left upper mediastinal mass in aorticopulmonary window",
+  "discriminating_features": [
+    "contrast-enhancing mass in classic location",
+    "pulmonary artery displaced anteromedially",
+    "distal aortic arch displaced laterally",
+    "cystic mass with pulsatile flow",
+    "left upper mediastinal mass in aorticopulmonary window"
+  ],
+  "other_features": {
+    "general": [
+      "pulmonary artery displaced anteromedially",
+      "distal aortic arch displaced laterally"
+    ],
+    "CXR": [
+      "left upper mediastinal mass in aorticopulmonary window",
+      "tracheal displacement to right + anteriorly / posteriorly",
+      "consolidation of adjacent lung (compression, fibrosis, hemorrhage)"
+    ],
+    "CT": [
+      "contrast-enhancing mass in classic location",
+      "cystic mass with pulsatile flow"
+    ]
+  },
+  "clinical": {
+    "Cx": "rupture, dissection, infection, thromboembolic disease, phrenic nerve compression",
+    "Prognosis": "usually fatal (without prompt surgery)"
+  }
+}

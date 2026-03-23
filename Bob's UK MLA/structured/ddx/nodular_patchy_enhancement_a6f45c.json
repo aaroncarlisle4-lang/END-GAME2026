@@ -1,0 +1,27 @@
+{
+  "finding": "Nodular Patchy Enhancement",
+  "slug": "nodular_patchy_enhancement_a6f45c",
+  "chapter": "Small Coronary Sinus",
+  "source_file": "processed_clusters/small_coronary_sinus/nodular_patchy_enhancement_a6f45c.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis",
+      "frequency": null
+    },
+    {
+      "name": "Myocarditis",
+      "raw": "Myocarditis",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac sarcoidosis",
+      "raw": "Cardiac sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

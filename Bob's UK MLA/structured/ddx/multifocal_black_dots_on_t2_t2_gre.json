@@ -1,0 +1,47 @@
+{
+  "finding": "Multifocal Black Dots on T2 + T2* GRE",
+  "slug": "multifocal_black_dots_on_t2_t2_gre",
+  "chapter": "PERIVENTRICULAR REGION",
+  "source_file": "processed_clusters/periventricular_region/multifocal_black_dots_on_t2_t2_gre.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cerebral amyloid disease",
+      "raw": "Cerebral amyloid disease",
+      "frequency": null
+    },
+    {
+      "name": "Hypertensive microhemorrhages",
+      "raw": "Hypertensive microhemorrhages",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic lacunar infarcts",
+      "raw": "Hemorrhagic lacunar infarcts",
+      "frequency": null
+    },
+    {
+      "name": "Multiple vascular malformations",
+      "raw": "Multiple vascular malformations (capillary telangiectasia, cavernous malformation)",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic diffuse axonal injury",
+      "raw": "Traumatic diffuse axonal injury",
+      "frequency": null
+    },
+    {
+      "name": "Embolic microhemorrhages:",
+      "raw": "Embolic microhemorrhages:",
+      "frequency": null
+    },
+    {
+      "name": "CADASIL",
+      "raw": "CADASIL (= cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  \"blooming\" susceptibility artifacts on T2* GRE (a)  Hemorrhagic micrometastases (b)  Metallic microemboli from artificial heart valves (c)  Microhemorrhages from fat emboli"
+}

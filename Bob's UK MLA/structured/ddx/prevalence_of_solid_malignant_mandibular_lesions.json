@@ -1,0 +1,52 @@
+{
+  "finding": "Prevalence of Solid Malignant Mandibular Lesions",
+  "slug": "prevalence_of_solid_malignant_mandibular_lesions",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/prevalence_of_solid_malignant_mandibular_lesions.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Most common",
+      "raw": "Most common",
+      "frequency": "most common"
+    },
+    {
+      "name": "Squamous cell carcinoma arising from adjacent mucosa",
+      "raw": "Squamous cell carcinoma arising from adjacent mucosa",
+      "frequency": null
+    },
+    {
+      "name": "Fairly common",
+      "raw": "Fairly common",
+      "frequency": "common"
+    },
+    {
+      "name": "Multiple myeloma, plasmacytoma",
+      "raw": "Multiple myeloma, plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma, leukemia",
+      "raw": "Lymphoma, leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Mucoepidermoid carcinoma arising from adjacent mucosa",
+      "raw": "Mucoepidermoid carcinoma arising from adjacent mucosa",
+      "frequency": null
+    },
+    {
+      "name": "Adenoid cystic carcinoma arising from adjacent mucosa",
+      "raw": "Adenoid cystic carcinoma arising from adjacent mucosa",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

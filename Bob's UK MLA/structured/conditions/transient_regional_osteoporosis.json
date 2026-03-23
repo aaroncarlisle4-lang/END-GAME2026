@@ -1,0 +1,45 @@
+{
+  "name": "TRANSIENT REGIONAL OSTEOPOROSIS",
+  "slug": "transient_regional_osteoporosis",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/disease_entries/neuropathic_osteoarthropathy/transient_regional_osteoporosis.md",
+  "definition": "TRANSIENT BONE MARROW EDEMA rapid onset of self-limiting episodes of severe localized osteoporosis and pain but variant of regional migratory osteoporosis with more focal pattern of osteoporosis, which self-limiting disease of unknown etiology",
+  "demographics": {
+    "Age": "middle-aged males",
+    "Location": "usually lower extremity (ie, ankle, knee, hip, foot)"
+  },
+  "dominant_finding": "affected area has low SI on T1WI, high SI on T2WI (= bone marrow edema)",
+  "distribution": "usually lower extremity (ie, ankle, knee, hip, foot)",
+  "discriminating_features": [
+    "virtually PATHOGNOMONIC striking loss of subchondral cortex of femoral head + neck",
+    "rapid localized osteoporosis within 4-8 weeks after onset migrating from one joint to",
+    "linear / wavy periosteal reaction",
+    "preservation of subchondral cortical bone",
+    "no joint space narrowing / bone erosion"
+  ],
+  "other_features": {
+    "general": [
+      "rapid localized osteoporosis within 4-8 weeks after onset migrating from one joint to",
+      "linear / wavy periosteal reaction",
+      "preservation of subchondral cortical bone",
+      "no joint space narrowing / bone erosion"
+    ],
+    "MR": [
+      "affected area has low SI on T1WI, high SI on T2WI (= bone marrow edema)",
+      "diffuse bone marrow edema involving femoral head + neck + sometimes intertrochanteric",
+      "small joint effusion"
+    ],
+    "NUC": [
+      "increased activity",
+      "progressive marked osteoporosis of femoral head, neck, acetabulum (3-8 weeks after onset",
+      "virtually PATHOGNOMONIC striking loss of subchondral cortex of femoral head + neck",
+      "NO joint space narrowing / subchondral bone collapse",
+      "markedly increased uptake on bone scan without cold spots / inhomogeneities (positive"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "persists for 6-9 months in one area; cycle of symptoms may last for several years",
+    "Rx": "variable response to analgesics / corticosteroids",
+    "Cx": "pathologic fracture common"
+  }
+}

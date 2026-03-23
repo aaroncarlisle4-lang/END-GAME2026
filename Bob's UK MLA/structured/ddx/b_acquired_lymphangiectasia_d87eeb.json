@@ -1,0 +1,72 @@
+{
+  "finding": "B. ACQUIRED LYMPHANGIECTASIA",
+  "slug": "b_acquired_lymphangiectasia_d87eeb",
+  "chapter": "INTESTINAL LYMPHANGIECTASIA",
+  "source_file": "processed_clusters/intestinal_lymphangiectasia/b_acquired_lymphangiectasia_d87eeb.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mesenteric adenitis",
+      "raw": "Mesenteric adenitis",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal fibrosis",
+      "raw": "Retroperitoneal fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse small bowel lymphoma",
+      "raw": "Diffuse small bowel lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatitis",
+      "raw": "Pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial effusion with obstruction of thoracic duct",
+      "raw": "Pericardial effusion with obstruction of thoracic duct",
+      "frequency": null
+    },
+    {
+      "name": "peripheral edema / anasarca",
+      "raw": "peripheral edema / anasarca (KEY SYMPTOM)",
+      "frequency": null
+    },
+    {
+      "name": "chylous + serous effusion; malabsorption",
+      "raw": "chylous + serous effusion; malabsorption",
+      "frequency": null
+    },
+    {
+      "name": "diarrhea, vomiting, abdominal pain, steatorrhea",
+      "raw": "diarrhea, vomiting, abdominal pain, steatorrhea",
+      "frequency": null
+    },
+    {
+      "name": "hypoproteinemia ← protein loss into intestinal lumen Path:   dilatation of lymph vessels in mucosa + submucosa + abundance of foamy fat-staining macrophages",
+      "raw": "hypoproteinemia ← protein loss into intestinal lumen Path:   dilatation of lymph vessels in mucosa + submucosa + abundance of foamy fat-staining macrophages (DDx to Whipple disease: negative for PAS)",
+      "frequency": null
+    },
+    {
+      "name": "Whipple disease",
+      "raw": "Whipple disease (more segmentation + fragmentation, wild folds)",
+      "frequency": null
+    },
+    {
+      "name": "Amyloidosis",
+      "raw": "Amyloidosis (edema + secretions usually absent)",
+      "frequency": null
+    },
+    {
+      "name": "Hypoalbuminemia",
+      "raw": "Hypoalbuminemia (less pronounced symmetric thickening of folds, less prominent secretions)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Causes leading to dilatation of intestinal lymphatics: √  marked irregular diffuse symmetric thickening of folds in jejunum + ileum ← dilated intestinal lymphatics + hypoproteinemic edema √  micronodularity ← dilated lacteal vessels in submucosa + lamina propria √  slight separation + rigidity of folds √  dilution of barium column ← considerable increase in intestinal secretions from malabsorption √  no / mild dilatation of bowel Lymphangiogram (not always diagnostic): √  hypoplasia of lower extremity lymphatics √  occlusion of thoracic duct / large tortuous thoracic duct √  obstruction of cis"
+}

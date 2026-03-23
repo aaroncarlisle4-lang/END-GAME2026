@@ -1,0 +1,33 @@
+{
+  "finding": "Colonic Volvulus (DDx)",
+  "slug": "colonic_volvulus_ddx_8a8816",
+  "chapter": "Colonic Volvulus",
+  "source_file": "processed_clusters/colonic_volvulus/colonic_volvulus_ddx_8a8816.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "gastric distension",
+      "raw": "gastric distension",
+      "frequency": null
+    },
+    {
+      "name": "SBO",
+      "raw": "SBO",
+      "frequency": null
+    },
+    {
+      "name": "sigmoid volvulus",
+      "raw": "sigmoid volvulus",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "gastric distension": [
+      "collapsed left colon | cecal gaseous distension: | \"kidney-shaped\" distended cecum inverts + rotates into left upper quadrant (type II) | dilated cecum rotates upward + anterior to ascending colon without twisting (type III)"
+    ],
+    "SBO": [],
+    "sigmoid volvulus": []
+  },
+  "context": "collapsed left colon | cecal gaseous distension: | \"kidney-shaped\" distended cecum inverts + rotates into left upper quadrant (type II) | dilated cecum rotates upward + anterior to ascending colon without twisting (type III)"
+}

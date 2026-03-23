@@ -1,0 +1,27 @@
+{
+  "finding": "Cause: empyema, hemothorax, connective tissue disorder, asbestos exposure",
+  "slug": "cause_empyema_hemothorax_connective_tissue_disorder_asbestos_exposure_4d6161",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/cause_empyema_hemothorax_connective_tissue_disorder_asbestos_exposure_4d6161.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "± restrictive lung physiology",
+      "raw": "± restrictive lung physiology",
+      "frequency": null
+    },
+    {
+      "name": "Erdheim-Chester disease",
+      "raw": "Erdheim-Chester disease",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse pulmonary lymphangiomatosis",
+      "raw": "Diffuse pulmonary lymphangiomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  ill-defined irregular thickening spanning multiple ribs √  costophrenic angle blunting √  often undergoing calcification"
+}

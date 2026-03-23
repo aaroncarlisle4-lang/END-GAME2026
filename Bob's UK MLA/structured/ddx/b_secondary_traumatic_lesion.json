@@ -1,0 +1,42 @@
+{
+  "finding": "B. Secondary traumatic lesion",
+  "slug": "b_secondary_traumatic_lesion",
+  "chapter": "HEAD TRAUMA",
+  "source_file": "processed_clusters/head_trauma/b_secondary_traumatic_lesion.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "deterioration of consciousness / new neurologic signs some time after initial injury",
+      "raw": "deterioration of consciousness / new neurologic signs some time after initial injury",
+      "frequency": null
+    },
+    {
+      "name": "Major territorial arterial infarction Cause:   prolonged transtentorial / subfalcine herniation pinching the artery against a rigid dural margin",
+      "raw": "Major territorial arterial infarction Cause:   prolonged transtentorial / subfalcine herniation pinching the artery against a rigid dural margin",
+      "frequency": null
+    },
+    {
+      "name": "Boundary + terminal zone infarction",
+      "raw": "Boundary + terminal zone infarction",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse hypoxic injury",
+      "raw": "Diffuse hypoxic injury",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse brain swelling / edema",
+      "raw": "Diffuse brain swelling / edema",
+      "frequency": null
+    },
+    {
+      "name": "Pressure necrosis from brain herniation",
+      "raw": "Pressure necrosis from brain herniation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   PCA, ACA territory"
+}

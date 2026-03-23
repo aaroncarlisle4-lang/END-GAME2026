@@ -1,0 +1,27 @@
+{
+  "finding": "B. CAVITATING NEOPLASM",
+  "slug": "b_cavitating_neoplasm",
+  "chapter": "F. TRAUMA",
+  "source_file": "processed_clusters/f_trauma/b_cavitating_neoplasm.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary / metastatic carcinoma / sarcoma",
+      "raw": "Primary / metastatic carcinoma / sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Bronchial adenoma",
+      "raw": "Bronchial adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic hamartoma",
+      "raw": "Cystic hamartoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

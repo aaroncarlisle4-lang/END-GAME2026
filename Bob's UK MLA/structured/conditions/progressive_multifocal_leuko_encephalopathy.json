@@ -1,0 +1,43 @@
+{
+  "name": "PROGRESSIVE MULTIFOCAL LEUKO-ENCEPHALOPATHY",
+  "slug": "progressive_multifocal_leuko_encephalopathy",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/progressive_multifocal_leuko_encephalopathy.md",
+  "definition": "rapidly progressive fatal demyelinating disease in patients with impaired immune system",
+  "demographics": {
+    "Prevalence": "4% of AIDS patients",
+    "Etiology": "reactivation of ubiquitous JC papovavirus",
+    "Histo": "intranuclear inclusion bodies within swollen oligodendrocytes (viral particles in"
+  },
+  "dominant_finding": "NO mass effect, NO edema",
+  "distribution": "bilateral white matter lesions (92%); confluent (94%); discrete (67%) in periventricular",
+  "discriminating_features": [
+    "bilateral white matter lesions (92%); confluent (94%); discrete (67%) in periventricular",
+    "gray matter lesions in thalamus + basal ganglia (from involvement of traversing white matter",
+    "sparing of cortical gray matter",
+    "mild cortical atrophy (up to 69%)",
+    "ventricular dilatation (50%)"
+  ],
+  "other_features": {
+    "general": [
+      "bilateral white matter lesions (92%); confluent (94%); discrete (67%) in periventricular",
+      "gray matter lesions in thalamus + basal ganglia (from involvement of traversing white matter",
+      "sparing of cortical gray matter",
+      "mild cortical atrophy (up to 69%)",
+      "ventricular dilatation (50%)",
+      "NO contrast enhancement"
+    ],
+    "CT": [
+      "multicentric confluent white matter lesions of low attenuation with scalloped borders along",
+      "NO mass effect, NO edema"
+    ],
+    "MR": [
+      "hypointense lesions on T1WI",
+      "patchy hyperintense lesions of white matter away from ependyma in asymmetric",
+      "NO enhancement"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death usually within 6 months"
+  }
+}

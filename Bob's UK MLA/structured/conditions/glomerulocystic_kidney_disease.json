@@ -1,0 +1,31 @@
+{
+  "name": "GLOMERULOCYSTIC KIDNEY DISEASE",
+  "slug": "glomerulocystic_kidney_disease",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/glomerulocystic_kidney_disease.md",
+  "definition": "GCKD = rare form of cystic renal disease characterized by cystic dilatation of Bowman",
+  "demographics": {
+    "Genetics": "often inherited autosomal-dominant disease in families with ADPKD / component of",
+    "Age": "neonate, young child",
+    "Histo": "uniform cystic dilatation of Bowman capsule around glomerulus"
+  },
+  "dominant_finding": "cortical hyperechogenicity ← if cysts difficult to define",
+  "distribution": "small round cysts in renal cortex",
+  "discriminating_features": [
+    "normal-sized / hypoplastic kidneys",
+    "small round cysts in renal cortex",
+    "cortical hyperechogenicity ← if cysts difficult to define",
+    "numerous T2-hyperintense lesions predominantly in subcapsular portion of renal cortex"
+  ],
+  "other_features": {
+    "general": [
+      "normal-sized / hypoplastic kidneys"
+    ],
+    "US": [
+      "small round cysts in renal cortex",
+      "cortical hyperechogenicity ← if cysts difficult to define",
+      "numerous T2-hyperintense lesions predominantly in subcapsular portion of renal cortex"
+    ]
+  },
+  "clinical": {}
+}

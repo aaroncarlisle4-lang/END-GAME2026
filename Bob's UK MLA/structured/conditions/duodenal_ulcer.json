@@ -1,0 +1,38 @@
+{
+  "name": "DUODENAL ULCER",
+  "slug": "duodenal_ulcer",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/duodenal_ulcer.md",
+  "definition": "",
+  "demographics": {
+    "Incidence": "60,000 hospitalizations in USA (2006); 2-3 x more frequent than gastric ulcers;"
+  },
+  "dominant_finding": "eccentric luminal narrowing + smooth round wall indentation (chronic)",
+  "distribution": "\"kissing ulcers\" = ulcers opposite from each other on anterior + posterior wall (in acute",
+  "discriminating_features": [
+    "bulbar deformity in 85%",
+    "round collection of barium in a niche + radiolucent halo of edema + circumferential / eccentric",
+    "frequently < 1 cm round / ovoid (5% linear) ulcer niche",
+    "\"kissing ulcers\" = ulcers opposite from each other on anterior + posterior wall (in acute",
+    "giant duodenal ulcer > 2 cm (rare) with higher morbidity + mortality; may be overlooked by"
+  ],
+  "other_features": {
+    "general": [
+      "bulbar deformity in 85%",
+      "round collection of barium in a niche + radiolucent halo of edema + circumferential / eccentric",
+      "frequently < 1 cm round / ovoid (5% linear) ulcer niche",
+      "\"kissing ulcers\" = ulcers opposite from each other on anterior + posterior wall (in acute",
+      "giant duodenal ulcer > 2 cm (rare) with higher morbidity + mortality; may be overlooked by",
+      "\"cloverleaf deformity, hourglass stenosis\" (in healed stage) with prestenotic dilatation of"
+    ],
+    "CT": [
+      "outpouching of duodenal wall + adjacent mural thickening + periduodenal fat stranding",
+      "radiating folds with central punctate / small linear deposit of contrast material (chronic)",
+      "eccentric luminal narrowing + smooth round wall indentation (chronic)"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "healing → development of scar",
+    "Rx": "antral resection (Billroth I) + vagotomy"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "finding": "ZYGOMYCOSIS",
+  "slug": "zygomycosis",
+  "chapter": "TRACHEOBRONCHOMEGALY",
+  "source_file": "processed_clusters/tracheobronchomegaly/zygomycosis.md",
+  "quality_score": 0.467,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Lymphoproliferative malignancies and leukemia",
+      "raw": "Lymphoproliferative malignancies and leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Acidotic diabetes mellitus",
+      "raw": "Acidotic diabetes mellitus",
+      "frequency": null
+    },
+    {
+      "name": "Immunosuppression through steroids, antibiotics, immunosuppressive drugs",
+      "raw": "Immunosuppression through steroids, antibiotics, immunosuppressive drugs (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "RHINOCEREBRAL FORM =  involvement of paranasal sinuses (frontal sinus usually spared) with extension into:",
+      "raw": "RHINOCEREBRAL FORM =  involvement of paranasal sinuses (frontal sinus usually spared) with extension into:",
+      "frequency": null
+    },
+    {
+      "name": "PULMONARY FORM",
+      "raw": "PULMONARY FORM",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "Lymphoproliferative malignancies and leukemia": [],
+    "Acidotic diabetes mellitus": [],
+    "Immunosuppression through steroids, antibiotics, immunosuppressive drugs": [],
+    "RHINOCEREBRAL FORM =  involvement of paranasal sinuses (frontal sinus usually spared) with extension into:": [
+      "=  PHYCOMYCOSIS =  group of severe opportunistic sinonasal + pulmonary disease caused by a variety of Phycomycetes (soil fungi) Organism:   ubiquitous Mucor (most common), Rhizopus, Absidia with broad nonseptated hyphae of irregular branching pattern At risk:   immunoincompetent host with Entry:   inhalation / aspiration from sinonasal colonization Path:   angioinvasive behavior similar to aspergillosis (a)  orbit = orbital cellulitis (b)  base of skull = meningoencephalitis + cerebritis"
+    ],
+    "PULMONARY FORM": []
+  },
+  "context": "=  PHYCOMYCOSIS =  group of severe opportunistic sinonasal + pulmonary disease caused by a variety of Phycomycetes (soil fungi) Organism:   ubiquitous Mucor (most common), Rhizopus, Absidia with broad nonseptated hyphae of irregular branching pattern At risk:   immunoincompetent host with Entry:   inhalation / aspiration from sinonasal colonization Path:   angioinvasive behavior similar to aspergillosis (a)  orbit = orbital cellulitis (b)  base of skull = meningoencephalitis + cerebritis √  segmental homogeneous consolidation √  cavitary consolidation + \"air-crescent\" sign √  nodules (from art"
+}

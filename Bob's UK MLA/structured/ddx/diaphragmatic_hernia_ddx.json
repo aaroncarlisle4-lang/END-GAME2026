@@ -1,0 +1,27 @@
+{
+  "finding": "Diaphragmatic Hernia (DDx)",
+  "slug": "diaphragmatic_hernia_ddx",
+  "chapter": "Diaphragmatic Hernia",
+  "source_file": "processed_clusters/diaphragmatic_hernia/diaphragmatic_hernia_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "congenital hernia",
+      "raw": "congenital hernia",
+      "frequency": null
+    },
+    {
+      "name": "acquired defect = fenestration",
+      "raw": "acquired defect = fenestration",
+      "frequency": null
+    },
+    {
+      "name": "diaphragmatic eventration",
+      "raw": "diaphragmatic eventration",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intraabdominal injuries (72%): | perforation of hollow viscus | rupture of spleen / kidney"
+}

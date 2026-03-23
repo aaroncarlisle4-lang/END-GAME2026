@@ -1,0 +1,27 @@
+{
+  "finding": "B. CARDIAC DISPLACEMENT by extracardiac factors (eg, lung hypoplasia, pulmonary mass",
+  "slug": "b_cardiac_displacement_by_extracardiac_factors_eg_lung_hypoplasia_pulmonary_mass",
+  "chapter": "Bronchial Situs",
+  "source_file": "processed_clusters/bronchial_situs/b_cardiac_displacement_by_extracardiac_factors_eg_lung_hypoplasia_pulmonary_mass.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dextroposition suggests hypoplasia of ipsilateral pulmonary artery",
+      "raw": "Dextroposition suggests hypoplasia of ipsilateral pulmonary artery (PAPVR implies scimitar syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "Levoposition",
+      "raw": "Levoposition",
+      "frequency": null
+    },
+    {
+      "name": "Mesoposition",
+      "raw": "Mesoposition",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Abortion — Subchorionic hemorrhage (DDx)",
+  "slug": "abortion_subchorionic_hemorrhage_ddx_2",
+  "chapter": "Abortion",
+  "source_file": "processed_clusters/abortion/abortion_subchorionic_hemorrhage_ddx_2.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "nongravid state",
+      "raw": "nongravid state",
+      "frequency": null
+    },
+    {
+      "name": "very early IUP",
+      "raw": "very early IUP",
+      "frequency": null
+    },
+    {
+      "name": "ectopic pregnancy",
+      "raw": "ectopic pregnancy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mean diameter of amniotic cavity > CRL | IUP no longer visualized although documented previously | thin regular endometrium (< 10-15 mm) with apposed surfaces | absence of central / eccentric fluid-filled sac"
+}

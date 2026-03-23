@@ -1,0 +1,47 @@
+{
+  "finding": "E. OTHERS",
+  "slug": "e_others_2",
+  "chapter": "D. VASCULAR",
+  "source_file": "processed_clusters/d_vascular/e_others_2.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Early cirrhosis",
+      "raw": "Early cirrhosis",
+      "frequency": null
+    },
+    {
+      "name": "Polycystic liver disease",
+      "raw": "Polycystic liver disease",
+      "frequency": null
+    },
+    {
+      "name": "Disorders associated with extramedullary hematopoiesis + hemolytic anemia",
+      "raw": "Disorders associated with extramedullary hematopoiesis + hemolytic anemia",
+      "frequency": null
+    },
+    {
+      "name": "Metabolic storage disease",
+      "raw": "Metabolic storage disease",
+      "frequency": null
+    },
+    {
+      "name": "Viral infection",
+      "raw": "Viral infection",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia, lymphoma, myeloproliferative disease",
+      "raw": "Leukemia, lymphoma, myeloproliferative disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Hepatosplenomegaly"
+}

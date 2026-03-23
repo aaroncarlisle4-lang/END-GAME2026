@@ -1,0 +1,42 @@
+{
+  "finding": "Superficial Gliomas",
+  "slug": "superficial_gliomas_928cef",
+  "chapter": "Transcalvarial / External Herniation",
+  "source_file": "processed_clusters/transcalvarial_external_herniation/superficial_gliomas_928cef.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ganglioglioma",
+      "raw": "Ganglioglioma",
+      "frequency": null
+    },
+    {
+      "name": "Desmoplastic infantile ganglioglioma",
+      "raw": "Desmoplastic infantile ganglioglioma",
+      "frequency": null
+    },
+    {
+      "name": "Gangliocytoma",
+      "raw": "Gangliocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Dysplastic cerebellar gangliocytoma",
+      "raw": "Dysplastic cerebellar gangliocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Pleomorphic xanthoastrocytoma",
+      "raw": "Pleomorphic xanthoastrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "Dysembryoplastic neuroepithelial tumor",
+      "raw": "Dysembryoplastic neuroepithelial tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  peripherally located cortical neoplasms serving as a seizure focus"
+}

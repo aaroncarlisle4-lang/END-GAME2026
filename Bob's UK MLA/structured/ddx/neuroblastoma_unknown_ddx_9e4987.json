@@ -1,0 +1,32 @@
+{
+  "finding": "Neuroblastoma — Unknown (DDx)",
+  "slug": "neuroblastoma_unknown_ddx_9e4987",
+  "chapter": "Neuroblastoma",
+  "source_file": "processed_clusters/neuroblastoma/neuroblastoma_unknown_ddx_9e4987.md",
+  "quality_score": 0.65,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "adrenal hemorrhage",
+      "raw": "adrenal hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "exophytic Wilms tumor",
+      "raw": "exophytic Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "mesoblastic nephroma",
+      "raw": "mesoblastic nephroma",
+      "frequency": null
+    },
+    {
+      "name": "multicystic kidney",
+      "raw": "multicystic kidney",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,32 @@
+{
+  "name": "HELICOBACTER PYLORI INFECTION",
+  "slug": "helicobacter_pylori_infection",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/helicobacter_pylori_infection.md",
+  "definition": "",
+  "demographics": {
+    "Prevalence": "increasing with age; in > 50% of Americans > 60 years of age",
+    "Path": "surface epithelial damage + inflammation with mucosal infiltration by neutrophils,",
+    "Location": "gastric antrum > proximal half of stomach"
+  },
+  "dominant_finding": "gastritis (75% prevalence of H. pylori):",
+  "distribution": "gastric antrum > proximal half of stomach",
+  "discriminating_features": [
+    "gastritis (75% prevalence of H. pylori):",
+    "thickened gastric folds",
+    "polypoid gastritis mimicking malignant tumor",
+    "enlarged areae gastricae",
+    "gastric ulcer (60-80% prevalence of H. pylori)"
+  ],
+  "other_features": {
+    "general": [
+      "gastritis (75% prevalence of H. pylori):",
+      "thickened gastric folds",
+      "polypoid gastritis mimicking malignant tumor",
+      "enlarged areae gastricae",
+      "gastric ulcer (60-80% prevalence of H. pylori)",
+      "duodenal ulcer (90-100% prevalence of H. pylori)"
+    ]
+  },
+  "clinical": {}
+}

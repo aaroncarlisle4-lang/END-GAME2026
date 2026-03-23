@@ -1,0 +1,32 @@
+{
+  "finding": "J. MULTISYSTEM CONDITIONS",
+  "slug": "j_multisystem_conditions_046cd9",
+  "chapter": "I. MALIGNANCY",
+  "source_file": "processed_clusters/i_malignancy/j_multisystem_conditions_046cd9.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sepsis and shock",
+      "raw": "Sepsis and shock",
+      "frequency": null
+    },
+    {
+      "name": "Hemolytic-uremic syndrome",
+      "raw": "Hemolytic-uremic syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Reye syndrome",
+      "raw": "Reye syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Systemic lupus erythematosus",
+      "raw": "Systemic lupus erythematosus",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Theories of pathogenesis: reflux of bile / pancreatic enzymes / duodenal succus (a)  terminal duct segment shared by common bile duct and pancreatic duct (b)  obstruction at papilla of Vater from inflammatory stenosis, edema / spasm of sphincter of Oddi, tumor, periduodenal diverticulum (c)  incompetent sphincter of Oddi"
+}

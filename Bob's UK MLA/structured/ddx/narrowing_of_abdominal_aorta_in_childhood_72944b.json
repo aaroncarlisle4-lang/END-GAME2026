@@ -1,0 +1,102 @@
+{
+  "finding": "Narrowing of Abdominal Aorta in Childhood",
+  "slug": "narrowing_of_abdominal_aorta_in_childhood_72944b",
+  "chapter": "AORTA",
+  "source_file": "processed_clusters/aorta/narrowing_of_abdominal_aorta_in_childhood_72944b.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Takayasu arteritis",
+      "raw": "Takayasu arteritis",
+      "frequency": null
+    },
+    {
+      "name": "Fibromuscular dysplasia",
+      "raw": "Fibromuscular dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Prior radiation therapy",
+      "raw": "Prior radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibromatosis-1",
+      "raw": "Neurofibromatosis-1",
+      "frequency": null
+    },
+    {
+      "name": "Williams syndrome",
+      "raw": "Williams syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Midaortic syndrome",
+      "raw": "Midaortic syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Usually symptomatic vascular ring",
+      "raw": "Usually symptomatic vascular ring",
+      "frequency": null
+    },
+    {
+      "name": "chronic stridor, wheezing, recurrent pneumonia",
+      "raw": "chronic stridor, wheezing, recurrent pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "dysphagia, failure to thrive",
+      "raw": "dysphagia, failure to thrive",
+      "frequency": null
+    },
+    {
+      "name": "Double aortic arch with R descending aorta + L ductus arteriosus",
+      "raw": "Double aortic arch with R descending aorta + L ductus arteriosus",
+      "frequency": null
+    },
+    {
+      "name": "R aortic arch with R descending aorta + aberrant L subclavian artery + persistent L ductus / ligamentum arteriosum",
+      "raw": "R aortic arch with R descending aorta + aberrant L subclavian artery + persistent L ductus / ligamentum arteriosum",
+      "frequency": null
+    },
+    {
+      "name": "symptoms + radiographic findings identical to double aortic arch",
+      "raw": "symptoms + radiographic findings identical to double aortic arch",
+      "frequency": null
+    },
+    {
+      "name": "L arch with L descending aorta + R ductus / ligamentum",
+      "raw": "L arch with L descending aorta + R ductus / ligamentum",
+      "frequency": null
+    },
+    {
+      "name": "Aberrant L pulmonary artery = \"pulmonary sling\"",
+      "raw": "Aberrant L pulmonary artery = \"pulmonary sling\"",
+      "frequency": null
+    },
+    {
+      "name": "Occasionally symptomatic lesions",
+      "raw": "Occasionally symptomatic lesions",
+      "frequency": null
+    },
+    {
+      "name": "Anomalous R innominate artery",
+      "raw": "Anomalous R innominate artery",
+      "frequency": null
+    },
+    {
+      "name": "Anomalous L common carotid artery / common trunk",
+      "raw": "Anomalous L common carotid artery / common trunk",
+      "frequency": "common"
+    },
+    {
+      "name": "R aortic arch with L descending aorta + L ductus / ligamentum",
+      "raw": "R aortic arch with L descending aorta + L ductus / ligamentum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Aortic Calcifications Intimal Calcification Cause:    part of atherosclerotic plaque Associated with:   inflammatory cells, lipid, vascular smooth muscle cells Site:  within perimeter of internal elastic lamina √  discrete punctate lesion on radiograph Medial Calcification Cause:    aging, diabetes, end-stage renal disease, neuropathy, genetic syndromes Associated with:   elastin + vascular smooth muscle cells √  linear deposit along elastic lamellae resembling railroad tracks (when severe) Vascular Rings =  anomaly characterized by encirclement of trachea + esophagus by aortic arch + branches"
+}

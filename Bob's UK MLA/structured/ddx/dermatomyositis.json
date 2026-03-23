@@ -1,0 +1,102 @@
+{
+  "finding": "DERMATOMYOSITIS",
+  "slug": "dermatomyositis",
+  "chapter": "CRUCIATE LIGAMENT INJURY",
+  "source_file": "processed_clusters/cruciate_ligament_injury/dermatomyositis.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "elevated muscle enzymes",
+      "raw": "elevated muscle enzymes (creatinine kinase, aldolase)",
+      "frequency": null
+    },
+    {
+      "name": "myositis-specific autoantibodies: anti-Jo-1 (a)  anti-aminoacyl-tRNA synthetase",
+      "raw": "myositis-specific autoantibodies: anti-Jo-1 (a)  anti-aminoacyl-tRNA synthetase",
+      "frequency": null
+    },
+    {
+      "name": "arthritis, Raynaud phenomenon, fever, fatigue",
+      "raw": "arthritis, Raynaud phenomenon, fever, fatigue",
+      "frequency": null
+    },
+    {
+      "name": "interstitial lung disease",
+      "raw": "interstitial lung disease",
+      "frequency": null
+    },
+    {
+      "name": "V-shaped chest rash",
+      "raw": "V-shaped chest rash (= shawl rash)",
+      "frequency": null
+    },
+    {
+      "name": "cuticular overgrowth",
+      "raw": "cuticular overgrowth",
+      "frequency": null
+    },
+    {
+      "name": "abrupt onset myositis ± heart involvement @   Skeletal musculature Location:   thigh (vastus lateralis + intermedius m. with relative sparing of rectus + biceps femoris m.) > pelvic girdle > upper extremity > neck flexors > pharyngeal muscles",
+      "raw": "abrupt onset myositis ± heart involvement @   Skeletal musculature Location:   thigh (vastus lateralis + intermedius m. with relative sparing of rectus + biceps femoris m.) > pelvic girdle > upper extremity > neck flexors > pharyngeal muscles",
+      "frequency": null
+    },
+    {
+      "name": "aspiration pneumonia is the most common occurrence ← pharyngeal muscle weakness",
+      "raw": "aspiration pneumonia is the most common occurrence ← pharyngeal muscle weakness",
+      "frequency": "most common"
+    },
+    {
+      "name": "hypoventilation + respiratory failure ← respiratory muscle weakness",
+      "raw": "hypoventilation + respiratory failure ← respiratory muscle weakness",
+      "frequency": null
+    },
+    {
+      "name": "may precede development of myositis",
+      "raw": "may precede development of myositis",
+      "frequency": null
+    },
+    {
+      "name": "associated with presence of anti-Jo-1 antibodies",
+      "raw": "associated with presence of anti-Jo-1 antibodies",
+      "frequency": null
+    },
+    {
+      "name": "dysphagia ← progressive weakness of proximal striated m.",
+      "raw": "dysphagia ← progressive weakness of proximal striated m.",
+      "frequency": null
+    },
+    {
+      "name": "ACUTE FORM = childhood-onset form",
+      "raw": "ACUTE FORM = childhood-onset form",
+      "frequency": null
+    },
+    {
+      "name": "fever, joint pain, lymphadenopathy, splenomegaly, subcutaneous edema",
+      "raw": "fever, joint pain, lymphadenopathy, splenomegaly, subcutaneous edema",
+      "frequency": null
+    },
+    {
+      "name": "CHRONIC FORM = adult-onset form =  insidious onset with periods of spontaneous remission and relapse",
+      "raw": "CHRONIC FORM = adult-onset form =  insidious onset with periods of spontaneous remission and relapse",
+      "frequency": null
+    },
+    {
+      "name": "low-grade fever, muscular aches + pains, edema",
+      "raw": "low-grade fever, muscular aches + pains, edema",
+      "frequency": null
+    },
+    {
+      "name": "muscle weakness (1st symptom in 50%) ← active inflammation, necrosis, muscle atrophy with fatty replacement, steroid-induced myopathy",
+      "raw": "muscle weakness (1st symptom in 50%) ← active inflammation, necrosis, muscle atrophy with fatty replacement, steroid-induced myopathy",
+      "frequency": "50%"
+    },
+    {
+      "name": "skin erythema",
+      "raw": "skin erythema (1st symptom in 25%): heliotrope rash (= dusky blue-purple erythema of eyelids) with periorbital edema, Gottron papules (= raised scaly violaceous rash over knuckles, major joints and upper body) Cx:   increased prevalence of malignant neoplasms of lung, breast, prostate, ovary, GI tract, kidney Dx:   measurement of serum muscle enzyme concentration; electromyography; muscle biopsy (normal in up to 15%)",
+      "frequency": "25%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  most common inflammatory myopathy with diffuse nonsuppurative inflammation of striated muscle + skin Cause:   cell-mediated (type IV) autoimmune attack on striated muscle Pathophysiology:   damaged chondroitin sulfate no longer inhibits calcification Path:   atrophy of muscle bundles followed by edema and coagulation necrosis, fibrosis, calcification Histo:   mucoid degeneration with round cell infiltrates concentrated around blood vessels Age:   bimodal: 5-15 and 50-60 years; M÷F = 1÷2 Prognosis:   requires prolonged treatment (b)  anti-Mi-2 antibodies: Prognosis:   good response to medica"
+}

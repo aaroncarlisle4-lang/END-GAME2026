@@ -1,0 +1,34 @@
+{
+  "name": "FIBROEPITHELIAL POLYP",
+  "slug": "fibroepithelial_polyp",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/fibroepithelial_polyp.md",
+  "definition": "FIBROUS POLYP = FIBROEPITHELIOMA = VASCULAR FIBROUS POLYP = POLYPOID FIBROMA",
+  "demographics": {
+    "Histo": "mesodermal tumor with fibrovascular stroma covered by normal transitional cell",
+    "Age": "in child / young adult 20-40 years"
+  },
+  "dominant_finding": "mobile elongated cylindrical filling defect on a thin stalk",
+  "distribution": "",
+  "discriminating_features": [
+    "mobile elongated cylindrical filling defect on a thin stalk",
+    "multilocular wormlike appearance with smooth margins",
+    "(occasionally) frondlike appearance",
+    "polyp may extend through bladder neck into bladder",
+    "extension into midpoint of bulbar urethra during voiding phase of cystourethrography"
+  ],
+  "other_features": {
+    "general": [
+      "mobile elongated cylindrical filling defect on a thin stalk",
+      "multilocular wormlike appearance with smooth margins",
+      "(occasionally) frondlike appearance"
+    ],
+    "Ureter": [
+      "polyp may extend through bladder neck into bladder",
+      "extension into midpoint of bulbar urethra during voiding phase of cystourethrography"
+    ]
+  },
+  "clinical": {
+    "Cx": "bladder outlet obstruction"
+  }
+}

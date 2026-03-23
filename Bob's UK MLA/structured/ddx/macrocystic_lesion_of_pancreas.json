@@ -1,0 +1,32 @@
+{
+  "finding": "Macrocystic Lesion of Pancreas",
+  "slug": "macrocystic_lesion_of_pancreas",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/macrocystic_lesion_of_pancreas.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucinous cystic neoplasm",
+      "raw": "Mucinous cystic neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Intraductal papillary mucinous neoplasm: side-branch / mixed",
+      "raw": "Intraductal papillary mucinous neoplasm: side-branch / mixed",
+      "frequency": null
+    },
+    {
+      "name": "Nonfunctioning neuroendocrine tumor",
+      "raw": "Nonfunctioning neuroendocrine tumor",
+      "frequency": null
+    },
+    {
+      "name": "Congenital lymphangioma",
+      "raw": "Congenital lymphangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  multilocular cyst, each compartment > 2 cm in size √  in body + tail of pancreas √  peripheral eggshell calcification √  septated cyst communicating with main duct"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "B. BENIGN NEOPLASM",
+  "slug": "b_benign_neoplasm",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/b_benign_neoplasm.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ganglioneuroma",
+      "raw": "Ganglioneuroma",
+      "frequency": null
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Paraganglioma",
+      "raw": "Paraganglioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Mature teratoma",
+      "raw": "Mature teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Tuberculosis Of Bone (DDx)",
+  "slug": "tuberculosis_of_bone_ddx",
+  "chapter": "Tuberculosis Of Bone",
+  "source_file": "processed_clusters/tuberculosis_of_bone/tuberculosis_of_bone_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pyogenic / fungal arthritis (central erosion of articular cartilage",
+      "raw": "pyogenic / fungal arthritis (central erosion of articular cartilage",
+      "frequency": null
+    },
+    {
+      "name": "early joint space narrowing",
+      "raw": "early joint space narrowing",
+      "frequency": null
+    },
+    {
+      "name": "bony ankylosis)",
+      "raw": "bony ankylosis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"kissing sequestra\" = wedge-shaped areas of necrosis on both sides of the joint ← | increased density with extensive soft-tissue calcifications in healing phase | rice bodies | sinus formation"
+}

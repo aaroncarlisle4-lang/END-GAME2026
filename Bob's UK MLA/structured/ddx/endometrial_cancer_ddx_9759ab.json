@@ -1,0 +1,32 @@
+{
+  "finding": "Endometrial Cancer (DDx)",
+  "slug": "endometrial_cancer_ddx_9759ab",
+  "chapter": "Endometrial Cancer",
+  "source_file": "processed_clusters/endometrial_cancer/endometrial_cancer_ddx_9759ab.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "blood clot",
+      "raw": "blood clot",
+      "frequency": null
+    },
+    {
+      "name": "uterine secretions",
+      "raw": "uterine secretions",
+      "frequency": null
+    },
+    {
+      "name": "adenomatous hyperplasia",
+      "raw": "adenomatous hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "submucosal leiomyoma",
+      "raw": "submucosal leiomyoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Doppler pulsatility index of < 1.5 or resistive index < 0.7 suggests malignancy (DDx: | areas of venous flow (DDx: endometrial hyperplasia) | endometrial cancer has a slightly lower SI than endometrium but higher SI than myometrium | endometrial thickness abnormal if > 3 mm (postmenopausal woman) / > 10 mm (under"
+}

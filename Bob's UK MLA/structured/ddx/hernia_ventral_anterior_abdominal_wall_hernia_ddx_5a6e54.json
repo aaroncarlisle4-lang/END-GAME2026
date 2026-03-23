@@ -1,0 +1,32 @@
+{
+  "finding": "Hernia — Ventral = Anterior abdominal wall hernia (DDx)",
+  "slug": "hernia_ventral_anterior_abdominal_wall_hernia_ddx_5a6e54",
+  "chapter": "Hernia",
+  "source_file": "processed_clusters/hernia/hernia_ventral_anterior_abdominal_wall_hernia_ddx_5a6e54.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "paraumbilical",
+      "raw": "paraumbilical",
+      "frequency": null
+    },
+    {
+      "name": "spigelian",
+      "raw": "spigelian",
+      "frequency": null
+    },
+    {
+      "name": "epigastric",
+      "raw": "epigastric",
+      "frequency": null
+    },
+    {
+      "name": "incisional hernia",
+      "raw": "incisional hernia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "provocative (Valsalva) maneuver facilitates detection | luminal narrowing at entry + exit site of hernia orifice | fluoroscopic manipulation to document reducibility | may contain fat / small bowel / colon"
+}

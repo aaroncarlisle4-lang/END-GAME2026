@@ -1,0 +1,27 @@
+{
+  "finding": "B. FOCAL DEFECT from displacement by infiltrating disease",
+  "slug": "b_focal_defect_from_displacement_by_infiltrating_disease_169704",
+  "chapter": "Indications for Bone Imaging",
+  "source_file": "processed_clusters/indications_for_bone_imaging/b_focal_defect_from_displacement_by_infiltrating_disease_169704.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Marrow replacement disorders: eg, Gaucher disease",
+      "raw": "Marrow replacement disorders: eg, Gaucher disease",
+      "frequency": null
+    },
+    {
+      "name": "Bone infarction: eg, sickle cell anemia",
+      "raw": "Bone infarction: eg, sickle cell anemia (DDx from osteomyelitis)",
+      "frequency": null
+    },
+    {
+      "name": "Avascular necrosis in children",
+      "raw": "Avascular necrosis in children",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

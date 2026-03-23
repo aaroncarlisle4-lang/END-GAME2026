@@ -1,0 +1,22 @@
+{
+  "finding": "Fibromuscular Dysplasia — Abdominal aorta: (DDx)",
+  "slug": "fibromuscular_dysplasia_abdominal_aorta_ddx_2_e78dab",
+  "chapter": "Fibromuscular Dysplasia",
+  "source_file": "processed_clusters/fibromuscular_dysplasia/fibromuscular_dysplasia_abdominal_aorta_ddx_2_e78dab.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "atherosclerotic disease",
+      "raw": "atherosclerotic disease",
+      "frequency": null
+    },
+    {
+      "name": "posttraumatic aneurysm",
+      "raw": "posttraumatic aneurysm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "long segmental stenosis | false channel, aneurysm | web = smooth / corrugated mass involving only one wall of vessel + projecting into"
+}

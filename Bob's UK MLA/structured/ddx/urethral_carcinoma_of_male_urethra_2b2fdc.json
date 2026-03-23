@@ -1,0 +1,87 @@
+{
+  "finding": "Urethral Carcinoma of Male Urethra",
+  "slug": "urethral_carcinoma_of_male_urethra_2b2fdc",
+  "chapter": "URACHAL ANOMALIES",
+  "source_file": "processed_clusters/urachal_anomalies/urethral_carcinoma_of_male_urethra_2b2fdc.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "palpable mass in perineum / along shaft of urethra",
+      "raw": "palpable mass in perineum / along shaft of urethra",
+      "frequency": null
+    },
+    {
+      "name": "periurethral abscess, obstructive voiding symptoms",
+      "raw": "periurethral abscess, obstructive voiding symptoms",
+      "frequency": null
+    },
+    {
+      "name": "urethrocutaneous fistula, serosanguinous discharge",
+      "raw": "urethrocutaneous fistula, serosanguinous discharge",
+      "frequency": null
+    },
+    {
+      "name": "Squamous cell carcinoma",
+      "raw": "Squamous cell carcinoma (70-80%)",
+      "frequency": "80%"
+    },
+    {
+      "name": "Transitional cell carcinoma (16%) part of multifocal urothelial neoplasia; in 10% after cystectomy for bladder tumor",
+      "raw": "Transitional cell carcinoma (16%) part of multifocal urothelial neoplasia; in 10% after cystectomy for bladder tumor",
+      "frequency": "16%"
+    },
+    {
+      "name": "Adenocarcinoma (6%) in bulbous urethra originating in glands of Cowper / Littré",
+      "raw": "Adenocarcinoma (6%) in bulbous urethra originating in glands of Cowper / Littré",
+      "frequency": "6%"
+    },
+    {
+      "name": "Malignant melanoma, leiomyosarcoma, rhabdomyosarcoma, fibrosarcoma",
+      "raw": "Malignant melanoma, leiomyosarcoma, rhabdomyosarcoma, fibrosarcoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Metastases from bladder / prostatic carcinoma",
+      "raw": "Metastases from bladder / prostatic carcinoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Squamous cell carcinoma (70%):",
+      "raw": "Squamous cell carcinoma (70%):",
+      "frequency": "70%"
+    },
+    {
+      "name": "TCC (8-24%):",
+      "raw": "TCC (8-24%):",
+      "frequency": "24%"
+    },
+    {
+      "name": "Adenocarcinoma (10-18-28%):",
+      "raw": "Adenocarcinoma (10-18-28%):",
+      "frequency": "28%"
+    },
+    {
+      "name": "Secondary tumor: contiguous extension from bladder, cervix, vagina, anus",
+      "raw": "Secondary tumor: contiguous extension from bladder, cervix, vagina, anus",
+      "frequency": null
+    },
+    {
+      "name": "urethral bleeding, urinary frequency, dysuria",
+      "raw": "urethral bleeding, urinary frequency, dysuria",
+      "frequency": null
+    },
+    {
+      "name": "palpable mass at urethral orifice",
+      "raw": "palpable mass at urethral orifice",
+      "frequency": null
+    },
+    {
+      "name": "urinary retention, urethral abscess, urethrovaginal fistula",
+      "raw": "urinary retention, urethral abscess, urethrovaginal fistula",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:  chronic urethritis from venereal disease (25-44%) + urethral strictures (50-88%) √  urethral stricture Site:   @ Prostatic urethra (10%): TCC (90%) > squamous cell ca. (10%) @   Bulbomembranous urethra (60%): squamous cell ca. (80%) > TCC (10%) > adenocarcinoma + undifferentiated carcinoma (10%) @   Penile urethra (30%): squamous cell ca. (90%) > TCC (10%) Histo: Stage I:   confined to subepithelial connective tissue Stage II:   invasion of corpus spongiosum / prostate / periurethral muscle Stage III:   invasion of corpus cavernosum + bladder neck beyond prostatic capsule Stage IV:   i"
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "Density of Carotid Plaque",
+  "slug": "density_of_carotid_plaque",
+  "chapter": "Carotid Plaque",
+  "source_file": "processed_clusters/carotid_plaque/density_of_carotid_plaque.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hypoechoic = low-echogenicity plaque =  fibrofatty plaque / hemorrhage",
+      "raw": "Hypoechoic = low-echogenicity plaque =  fibrofatty plaque / hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Isoechoic plaque =  smooth muscle cell proliferation / laminar thrombus",
+      "raw": "Isoechoic plaque =  smooth muscle cell proliferation / laminar thrombus",
+      "frequency": null
+    },
+    {
+      "name": "Hyperechoic = moderately echogenic (fibrous) plaque",
+      "raw": "Hyperechoic = moderately echogenic (fibrous) plaque",
+      "frequency": null
+    },
+    {
+      "name": "Calcification = strongly echogenic plaque",
+      "raw": "Calcification = strongly echogenic plaque",
+      "frequency": null
+    },
+    {
+      "name": "Homogeneous (stable) plaque",
+      "raw": "Homogeneous (stable) plaque",
+      "frequency": null
+    },
+    {
+      "name": "Heterogeneous (unstable) plaque =  mixture of high, medium, and low-level echoes with smooth / irregular surface; may fissure / tear resulting in intraplaque hemorrhage / ulceration + thrombus formation → embolus / increasing stenosis",
+      "raw": "Heterogeneous (unstable) plaque =  mixture of high, medium, and low-level echoes with smooth / irregular surface; may fissure / tear resulting in intraplaque hemorrhage / ulceration + thrombus formation → embolus / increasing stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Intimal thickening",
+      "raw": "Intimal thickening",
+      "frequency": null
+    },
+    {
+      "name": "Ulcerated plaque",
+      "raw": "Ulcerated plaque",
+      "frequency": null
+    },
+    {
+      "name": "Error in proper localization of stenosis",
+      "raw": "Error in proper localization of stenosis (6%)",
+      "frequency": "6%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  echogenicity less than sternocleidomastoid muscle √  flow void / flow disturbance on color Duplex √  echogenicity equal to sternocleidomastoid muscle + lower than adventitia √  echogenicity higher than sternocleidomastoid muscle + similar to adventitia √  acoustic shadow impairs visualization of intima Texture of Carotid Plaque Histo:  deposition of fatty streaks + fibrous tissue; rarely shows intraplaque hemorrhage / ulcerations √  homogeneous uniform echo pattern with smooth surface (acoustic impedance similar to blood) B-mode ultrasound has 90-94% sensitivity, 75-88% specificity, 90% acc"
+}

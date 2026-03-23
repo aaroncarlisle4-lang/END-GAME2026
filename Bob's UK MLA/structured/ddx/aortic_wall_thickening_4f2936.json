@@ -1,0 +1,37 @@
+{
+  "finding": "Aortic Wall Thickening",
+  "slug": "aortic_wall_thickening_4f2936",
+  "chapter": "AORTA",
+  "source_file": "processed_clusters/aorta/aortic_wall_thickening_4f2936.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intramural hematoma =  aortic dissection without intimal tear",
+      "raw": "Intramural hematoma =  aortic dissection without intimal tear",
+      "frequency": null
+    },
+    {
+      "name": "Aortitis segments of aortic arch + branch vessels",
+      "raw": "Aortitis segments of aortic arch + branch vessels",
+      "frequency": null
+    },
+    {
+      "name": "Atherosclerotic plaque",
+      "raw": "Atherosclerotic plaque",
+      "frequency": null
+    },
+    {
+      "name": "Adherent thrombus",
+      "raw": "Adherent thrombus",
+      "frequency": null
+    },
+    {
+      "name": "Infectious aortitis",
+      "raw": "Infectious aortitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  irregular narrowing of aortic lumen Aortitis"
+}

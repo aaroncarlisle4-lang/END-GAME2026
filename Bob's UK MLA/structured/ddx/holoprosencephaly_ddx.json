@@ -1,0 +1,27 @@
+{
+  "finding": "Holoprosencephaly (DDx)",
+  "slug": "holoprosencephaly_ddx",
+  "chapter": "Holoprosencephaly",
+  "source_file": "processed_clusters/holoprosencephaly/holoprosencephaly_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "severe hydrocephalus",
+      "raw": "severe hydrocephalus",
+      "frequency": null
+    },
+    {
+      "name": "hydranencephaly (normal thalamic cleavage",
+      "raw": "hydranencephaly (normal thalamic cleavage",
+      "frequency": null
+    },
+    {
+      "name": "partially visualized falx cerebri)",
+      "raw": "partially visualized falx cerebri)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± single / azygos anterior cerebral artery: | ± absence of middle + anterior cerebral arteries replaced by network of vessels arising | midbrain, brainstem, cerebellum structurally normal | midline clefts in maxilla + palate"
+}

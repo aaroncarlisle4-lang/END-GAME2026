@@ -1,0 +1,27 @@
+{
+  "finding": "Beneficial PDA",
+  "slug": "beneficial_pda_df5634",
+  "chapter": "PAPILLARY FIBROELASTOMA",
+  "source_file": "processed_clusters/papillary_fibroelastoma/beneficial_pda_df5634.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tetralogy of Fallot cyanosis usually occurs during closure of duct shortly after birth",
+      "raw": "Tetralogy of Fallot cyanosis usually occurs during closure of duct shortly after birth",
+      "frequency": null
+    },
+    {
+      "name": "Eisenmenger pulmonary hypertension",
+      "raw": "Eisenmenger pulmonary hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Interrupted aortic arch supply of lower extremity via PDA",
+      "raw": "Interrupted aortic arch supply of lower extremity via PDA",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  compensatory effect of PDA (= decreasing shunt volume) in: PDA acts as escape valve shunting blood to descending aorta Nonbeneficial PDA in L-to-R shunts (VSD, aortopulmonic window) a PDA increases shunt volume"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "B. INFLAMMATION / INFECTION",
+  "slug": "b_inflammation_infection",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/b_inflammation_infection.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infectious spondylitis: pyogenic, tuberculous, fungal",
+      "raw": "Infectious spondylitis: pyogenic, tuberculous, fungal",
+      "frequency": null
+    },
+    {
+      "name": "Mediastinitis",
+      "raw": "Mediastinitis",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic pseudocyst",
+      "raw": "Pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoid hyperplasia",
+      "raw": "Lymphoid hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (in 2%, typically asymptomatic patient)",
+      "frequency": "2%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  destruction of endplates + disk space √  paravertebral soft-tissue mass"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Intrauterine Filling Defect on HSG",
+  "slug": "intrauterine_filling_defect_on_hsg",
+  "chapter": "C. COMBINATION OF FACTORS (15-25%",
+  "source_file": "processed_clusters/c_combination_of_factors_15_25/intrauterine_filling_defect_on_hsg.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intrauterine synechiae",
+      "raw": "Intrauterine synechiae",
+      "frequency": null
+    },
+    {
+      "name": "Submucosal leiomyoma",
+      "raw": "Submucosal leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial polyps",
+      "raw": "Endometrial polyps",
+      "frequency": null
+    },
+    {
+      "name": "Blood clot",
+      "raw": "Blood clot",
+      "frequency": null
+    },
+    {
+      "name": "Air bubbles",
+      "raw": "Air bubbles",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

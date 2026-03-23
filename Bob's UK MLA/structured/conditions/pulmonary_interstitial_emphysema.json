@@ -1,0 +1,32 @@
+{
+  "name": "PULMONARY INTERSTITIAL EMPHYSEMA",
+  "slug": "pulmonary_interstitial_emphysema",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/pulmonary_interstitial_emphysema.md",
+  "definition": "PIE = complication of respirator therapy with PEEP",
+  "demographics": {
+    "Location": "right parahilar region"
+  },
+  "dominant_finding": "bilateral symmetrical distribution",
+  "distribution": "right parahilar region",
+  "discriminating_features": [
+    "meandering tubular + cystic lucencies following distribution of bronchovascular tree",
+    "bilateral symmetrical distribution",
+    "pseudocysts (localized form of PIE) = multiple circular well-defined air collections with",
+    "lobar overdistension (occasionally)",
+    "microcardia"
+  ],
+  "other_features": {
+    "general": [
+      "meandering tubular + cystic lucencies following distribution of bronchovascular tree",
+      "bilateral symmetrical distribution",
+      "pseudocysts (localized form of PIE) = multiple circular well-defined air collections with",
+      "lobar overdistension (occasionally)",
+      "microcardia"
+    ]
+  },
+  "clinical": {
+    "Cx": "(1)  pneumothorax (77%) ← rupture of cyst",
+    "Rx": "(1)  High-frequency jet / oscillatory ventilation"
+  }
+}

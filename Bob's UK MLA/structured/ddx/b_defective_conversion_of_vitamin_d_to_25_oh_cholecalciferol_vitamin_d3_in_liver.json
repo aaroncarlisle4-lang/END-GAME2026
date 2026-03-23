@@ -1,0 +1,67 @@
+{
+  "finding": "B. Defective conversion of vitamin D to 25-OH-cholecalciferol (vitamin D3) in liver",
+  "slug": "b_defective_conversion_of_vitamin_d_to_25_oh_cholecalciferol_vitamin_d3_in_liver",
+  "chapter": "Dialysis-associated Disorders",
+  "source_file": "processed_clusters/dialysis_associated_disorders/b_defective_conversion_of_vitamin_d_to_25_oh_cholecalciferol_vitamin_d3_in_liver.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Liver disease",
+      "raw": "Liver disease",
+      "frequency": null
+    },
+    {
+      "name": "Anticonvulsant drug therapy",
+      "raw": "Anticonvulsant drug therapy (= induction of hepatic enzymes that accelerate degradation of biologically active vitamin D metabolites)",
+      "frequency": null
+    },
+    {
+      "name": "Defective conversion of prehormone calcifediol [25(OH)D3] to cholecalciferol [1,25(OH)2D3] in kidney",
+      "raw": "Defective conversion of prehormone calcifediol [25(OH)D3] to cholecalciferol [1,25(OH)2D3] in kidney",
+      "frequency": null
+    },
+    {
+      "name": "Chronic renal failure = renal osteodystrophy",
+      "raw": "Chronic renal failure = renal osteodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Vitamin D-dependent rickets = autosomal recessive enzyme defect of 25(OH)D-",
+      "raw": "Vitamin D-dependent rickets = autosomal recessive enzyme defect of 25(OH)D-",
+      "frequency": null
+    },
+    {
+      "name": "Phosphate deficiency",
+      "raw": "Phosphate deficiency",
+      "frequency": null
+    },
+    {
+      "name": "Intestinal malabsorption of phosphates",
+      "raw": "Intestinal malabsorption of phosphates",
+      "frequency": null
+    },
+    {
+      "name": "Ingestion of aluminum salts [Al(OH)3] forming insoluble complexes with phosphate",
+      "raw": "Ingestion of aluminum salts [Al(OH)3] forming insoluble complexes with phosphate",
+      "frequency": null
+    },
+    {
+      "name": "Low phosphate feeding in prematurely born infants",
+      "raw": "Low phosphate feeding in prematurely born infants",
+      "frequency": null
+    },
+    {
+      "name": "Severe malabsorption state",
+      "raw": "Severe malabsorption state",
+      "frequency": null
+    },
+    {
+      "name": "Parenteral hyperalimentation",
+      "raw": "Parenteral hyperalimentation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "1α-hydroxylase II.  ABNORMALITY IN PHOSPHATE METABOLISM not associated with hyperparathyroidism ← normal serum calcium"
+}

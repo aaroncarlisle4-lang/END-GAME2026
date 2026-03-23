@@ -1,0 +1,37 @@
+{
+  "finding": "B. FALSE ANEURYSM",
+  "slug": "b_false_aneurysm_f05ba1",
+  "chapter": "REFLUX ATROPHY",
+  "source_file": "processed_clusters/reflux_atrophy/b_false_aneurysm_f05ba1.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Trauma; renal artery angioplasty",
+      "raw": "Trauma; renal artery angioplasty",
+      "frequency": null
+    },
+    {
+      "name": "Behçet disease",
+      "raw": "Behçet disease",
+      "frequency": null
+    },
+    {
+      "name": "Mycotic aneurysm 2.5% of all aneurysms",
+      "raw": "Mycotic aneurysm 2.5% of all aneurysms",
+      "frequency": "2.5%"
+    },
+    {
+      "name": "Conservative in asymptomatic patient for well-calcified aneurysm < 2 cm in diameter",
+      "raw": "Conservative in asymptomatic patient for well-calcified aneurysm < 2 cm in diameter",
+      "frequency": null
+    },
+    {
+      "name": "Surgery for (a) interval growth, (b) emboli to kidney, (c) in woman of childbearing age, (d) diminished renal function / ischemia / hypertension / dissection",
+      "raw": "Surgery for (a) interval growth, (b) emboli to kidney, (c) in woman of childbearing age, (d) diminished renal function / ischemia / hypertension / dissection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Cause:   bacteremia, SBE, perivascular extension of inflammation Organism:   Streptococcus, Staphylococcus, Pneumococcus, Salmonella √  incomplete / complete ring of calcification √  variable enhancement (depending on amount of thrombus) Rx:"
+}

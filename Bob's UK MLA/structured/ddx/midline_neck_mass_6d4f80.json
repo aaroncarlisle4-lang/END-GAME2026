@@ -1,0 +1,32 @@
+{
+  "finding": "Midline Neck Mass",
+  "slug": "midline_neck_mass_6d4f80",
+  "chapter": "D. NEUROLOGIC",
+  "source_file": "processed_clusters/d_neurologic/midline_neck_mass_6d4f80.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thyroglossal duct cyst",
+      "raw": "Thyroglossal duct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid / dermoid cyst",
+      "raw": "Epidermoid / dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Lymph node",
+      "raw": "Lymph node",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

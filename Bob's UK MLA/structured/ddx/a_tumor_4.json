@@ -1,0 +1,37 @@
+{
+  "finding": "A. TUMOR",
+  "slug": "a_tumor_4",
+  "chapter": "B. LIVER",
+  "source_file": "processed_clusters/b_liver/a_tumor_4.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hepatoblastoma",
+      "raw": "Hepatoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic neuroblastoma",
+      "raw": "Metastatic neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma / hemangioendothelioma",
+      "raw": "Hemangioma / hemangioendothelioma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian dermoid",
+      "raw": "Ovarian dermoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

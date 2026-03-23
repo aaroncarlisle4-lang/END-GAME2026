@@ -1,0 +1,27 @@
+{
+  "finding": "Radiation Injury To Bone — Axial skeleton (dose of < 15 Gy) (DDx)",
+  "slug": "radiation_injury_to_bone_axial_skeleton_dose_of_15_gy_ddx",
+  "chapter": "Radiation Injury To Bone",
+  "source_file": "processed_clusters/radiation_injury_to_bone/radiation_injury_to_bone_axial_skeleton_dose_of_15_gy_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "recurrent malignancy",
+      "raw": "recurrent malignancy",
+      "frequency": null
+    },
+    {
+      "name": "radiation-induced sarcoma",
+      "raw": "radiation-induced sarcoma (soft-tissue mass)",
+      "frequency": null
+    },
+    {
+      "name": "infection",
+      "raw": "infection",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "increased fragility with sclerosis (= pathologic insufficiency fracture) | ± cortical thinning from chronic infection | increased intensity of spinal bone marrow on T1WI + T2WI corresponding to radiation | bone scan with decreased uptake in radiation field"
+}

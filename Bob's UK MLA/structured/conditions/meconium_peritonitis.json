@@ -1,0 +1,50 @@
+{
+  "name": "MECONIUM PERITONITIS",
+  "slug": "meconium_peritonitis",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/meconium_peritonitis.md",
+  "definition": "sterile chemical peritonitis ← perforation of bowel proximal to high-grade / complete intense chemical reaction of peritoneum, which seals off the perforation",
+  "demographics": {
+    "Frequency": "1÷35,000 livebirths",
+    "Age": "antenatal perforation after 3rd month of gestation"
+  },
+  "dominant_finding": "\"snowstorm appearance\" = highly echogenic material throughout abdomen in between",
+  "distribution": "larger aggregates of calcifications along inferior surface of liver / flank / processus",
+  "discriminating_features": [
+    "dense mass with calcium deposits",
+    "calcific plaques scattered throughout peritoneal cavity",
+    "cyst outlined by calcific rim",
+    "complicated ascites",
+    "intraabdominal calcifications (CONSPICUOUSLY ABSENT in cystic fibrosis):"
+  ],
+  "other_features": {
+    "general": [
+      "dense mass with calcium deposits",
+      "calcific plaques scattered throughout peritoneal cavity",
+      "cyst outlined by calcific rim",
+      "complicated ascites",
+      "intraabdominal calcifications (CONSPICUOUSLY ABSENT in cystic fibrosis):",
+      "peripherally calcified pseudocysts",
+      "small flecks of calcifications scattered throughout abdomen",
+      "larger aggregates of calcifications along inferior surface of liver / flank / processus",
+      "obstructive roentgen signs following birth",
+      "separation of bowel loops by fluid",
+      "microcolon = \"unused colon\"",
+      "meconium hydrocele producing labial mass"
+    ],
+    "US": [
+      "highly echogenic linear / clumped foci with posterior acoustic shadowing in scrotum",
+      "\"snowstorm appearance\" = highly echogenic material throughout abdomen in between",
+      "ill- / well-defined homo- / heterogeneous encysted collections of meconium",
+      "polyhydramnios (64-71%)",
+      "fetal ascites (54-57%)",
+      "bowel dilatation (27-29%)",
+      "intraabdominal bright echogenic mass",
+      "multiple linear / clumped foci of scattered calcifications (85%); may develop within 12 hrs",
+      "meconium pseudocyst = well-defined hypoechoic mass surrounded by an echogenic"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "generally good; surgery may not be required when perforation site is completely"
+  }
+}

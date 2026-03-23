@@ -1,0 +1,26 @@
+{
+  "name": "CAPILLARY TELANGIECTASIA",
+  "slug": "capillary_telangiectasia",
+  "chapter": "NERVOUS SYSTEM DISORDERS",
+  "source_file": "processed_clusters/disease_entries/nervous_system_disorders/capillary_telangiectasia.md",
+  "definition": "CAPILLARY ANGIOMA nest of dilated capillaries separated by normal neural tissue; commonly \"cryptic\"",
+  "demographics": {
+    "Age": "typically in elderly"
+  },
+  "dominant_finding": "poorly defined area of dilated vessels (resembling petechiae)",
+  "distribution": "",
+  "discriminating_features": [
+    "poorly defined area of dilated vessels (resembling petechiae)",
+    "best delineated with MR (due to hemorrhage) with focus of increased signal intensity on"
+  ],
+  "other_features": {
+    "general": [
+      "poorly defined area of dilated vessels (resembling petechiae)",
+      "best delineated with MR (due to hemorrhage) with focus of increased signal intensity on"
+    ]
+  },
+  "clinical": {
+    "Cx": "punctate hemorrhage (uncommon); gliosis + calcifications (rare)",
+    "Prognosis": "bleeding in pons (usually fatal)"
+  }
+}

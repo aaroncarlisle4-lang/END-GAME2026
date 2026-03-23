@@ -1,0 +1,52 @@
+{
+  "name": "LUCENT LUNG LESIONS",
+  "slug": "lucent_lung_lesions",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_chest_disorders/lucent_lung_lesions.md",
+  "definition": "reduction in pulmonary blood volume tissue necrosis with bronchial drainage round circumscribed space surrounded by an epithelial / fibrous wall of uniform /",
+  "demographics": {},
+  "dominant_finding": "hyperlucent lung on side which patient rotates toward tube / away from film ←",
+  "distribution": "very thin-walled cavities less likely to follow the apical distribution of TB /",
+  "discriminating_features": [
+    "LV enlargement",
+    "hyperlucent lung on side which patient rotates toward tube / away from film ←",
+    "level of inflation beyond 8th rib posteriorly",
+    "depressed configuration of hemidiaphragms best judged on LAT view",
+    "very thin-walled cavities less likely to follow the apical distribution of TB /"
+  ],
+  "other_features": {
+    "general": [
+      "LV enlargement",
+      "hyperlucent lung on side which patient rotates toward tube / away from film ←",
+      "level of inflation beyond 8th rib posteriorly",
+      "depressed configuration of hemidiaphragms best judged on LAT view",
+      "very thin-walled cavities less likely to follow the apical distribution of TB /",
+      "typically at lung apex",
+      "slow progressive enlargement",
+      "multiple thin-walled lucencies with air-fluid levels in lower lobes",
+      "involvement of proximal perihilar bronchi",
+      "often seen at end of feeding vessel",
+      "bronchial wall thickening",
+      "imperceptible walls",
+      "chiefly in upper lung zones",
+      "lobular architecture preserved with bronchovascular bundle in central position,",
+      "cysts with walls arrayed in a single subpleural tier",
+      "randomly scattered cysts surrounded by normal lung",
+      "normal / increased lung volumes",
+      "3-10-mm small irregular thick-walled cystic air spaces usually of comparable",
+      "predominantly peripheral + basilar distribution",
+      "bibasilar reticular opacities",
+      "progressive reduction in lung volumes",
+      "cysts with walls of variable thickness + irregular shape",
+      "in combination with nodules ± cavitation",
+      "septal thickening",
+      "predilection for upper lung zones with relative sparing of lung bases",
+      "thickening of interlobular septa + bronchovascular bundles",
+      "enlarged mediastinal nodes",
+      "cystic air spaces predominantly apical"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical resection if bulla > ⅓ of hemithorax"
+  }
+}

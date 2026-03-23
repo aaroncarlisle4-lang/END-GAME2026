@@ -1,0 +1,52 @@
+{
+  "name": "RENAL ABSCESS",
+  "slug": "renal_abscess",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/renal_abscess.md",
+  "definition": "PYOGENIC RENAL ABSCESS = KIDNEY ABSCESS usually complication of renal inflammation with liquefactive necrosis; 2% of all renal masses",
+  "demographics": {},
+  "dominant_finding": "well-defined hypoattenuating irregular focal round renal mass:",
+  "distribution": "focal mass displacing collecting system",
+  "discriminating_features": [
+    "focal mass displacing collecting system",
+    "well-defined hypoattenuating irregular focal round renal mass:",
+    "thick rim / halo of enhancing wall / pseudocapsule",
+    "no enhancement of center of abscess",
+    "± presence of gas"
+  ],
+  "other_features": {
+    "general": [
+      "focal mass displacing collecting system"
+    ],
+    "CECT": [
+      "well-defined hypoattenuating irregular focal round renal mass:",
+      "thick rim / halo of enhancing wall / pseudocapsule",
+      "no enhancement of center of abscess",
+      "± presence of gas",
+      "thickened septa + Gerota fascia",
+      "perinephric fat obliteration ← perinephric extension"
+    ],
+    "US": [
+      "slightly hypoechoic (early), hypo- to anechoic (late) mass",
+      "irregular margins + increased through-transmission",
+      "± septations ± microbubbles of gas"
+    ],
+    "MR": [
+      "heterogeneous thick-rimmed complex T1-hypointense and T2-hyperintense lesion replacing",
+      "restricted diffusion",
+      "surrounding thick hypointense rim on T2WI",
+      "elevated perinephric SI on T2WI",
+      "blooming artifact on GRE ← gas",
+      "hot spot",
+      "loss of psoas margin / obscuration of renal contour",
+      "renal displacement",
+      "focal renal mass",
+      "scoliosis concave to involved side",
+      "respiratory immobility of kidney = renal fixation",
+      "occasionally gas in renal fossa",
+      "unilateral impaired excretion",
+      "pleural effusion"
+    ]
+  },
+  "clinical": {}
+}

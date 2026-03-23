@@ -1,0 +1,37 @@
+{
+  "finding": "B. MESENCHYMAL TUMOR › benign",
+  "slug": "b_mesenchymal_tumor_benign_206329",
+  "chapter": "DIAPHRAGM",
+  "source_file": "processed_clusters/diaphragm/b_mesenchymal_tumor_benign_206329.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma, leiomyoma, lymphangioma",
+      "raw": "Lipoma, leiomyoma, lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma, hemangioma ›  malignant",
+      "raw": "Hemangiopericytoma, hemangioma ›  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma, leiomyosarcoma",
+      "raw": "Liposarcoma, leiomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma, fibrosarcoma",
+      "raw": "Rhabdomyosarcoma, fibrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Malignant fibrous histiocytoma",
+      "raw": "Malignant fibrous histiocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,22 @@
+{
+  "finding": "Toxic Multinodular Goiter (DDx)",
+  "slug": "toxic_multinodular_goiter_ddx",
+  "chapter": "Toxic Multinodular Goiter",
+  "source_file": "processed_clusters/toxic_multinodular_goiter/toxic_multinodular_goiter_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Graves disease (younger patient",
+      "raw": "Graves disease (younger patient",
+      "frequency": null
+    },
+    {
+      "name": "milder degree of thyrotoxicosis)",
+      "raw": "milder degree of thyrotoxicosis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "concentration of radiopharmaceutical to a far greater degree than surrounding extranodular | RAIU normal / slightly elevated | multiple \"hot\" nodules in thyroid with suppressed extranodular thyroid tissue"
+}

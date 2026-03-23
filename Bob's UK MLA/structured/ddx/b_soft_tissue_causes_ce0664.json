@@ -1,0 +1,127 @@
+{
+  "finding": "B. SOFT-TISSUE CAUSES",
+  "slug": "b_soft_tissue_causes_ce0664",
+  "chapter": "Endplate and Disk Abnormalities",
+  "source_file": "processed_clusters/endplate_and_disk_abnormalities/b_soft_tissue_causes_ce0664.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Perioperative intraspinal hemorrhage",
+      "raw": "Perioperative intraspinal hemorrhage (onset < 1 week)",
+      "frequency": null
+    },
+    {
+      "name": "Residual disk herniation",
+      "raw": "Residual disk herniation (onset < 1 week)",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent disk herniation",
+      "raw": "Recurrent disk herniation (onset 1 week - 1 month)",
+      "frequency": null
+    },
+    {
+      "name": "Spinal / meningeal / neural inflammation / infection (onset 1 week - 1 month) = Postoperative diskitis",
+      "raw": "Spinal / meningeal / neural inflammation / infection (onset 1 week - 1 month) = Postoperative diskitis",
+      "frequency": null
+    },
+    {
+      "name": "elevated ESR + frequently normal WBC count",
+      "raw": "elevated ESR + frequently normal WBC count",
+      "frequency": null
+    },
+    {
+      "name": "Intraspinal scar formation",
+      "raw": "Intraspinal scar formation (onset > 1 month) (a)  Epidural fibrosis (scarring)",
+      "frequency": null
+    },
+    {
+      "name": "SURGICAL ERRORS",
+      "raw": "SURGICAL ERRORS",
+      "frequency": null
+    },
+    {
+      "name": "Wrong level / side of surgery",
+      "raw": "Wrong level / side of surgery",
+      "frequency": null
+    },
+    {
+      "name": "Direct nerve injury",
+      "raw": "Direct nerve injury",
+      "frequency": null
+    },
+    {
+      "name": "Remote phenomena unrelated to spine",
+      "raw": "Remote phenomena unrelated to spine",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoiditis",
+      "raw": "Arachnoiditis",
+      "frequency": null
+    },
+    {
+      "name": "Bleeding",
+      "raw": "Bleeding",
+      "frequency": null
+    },
+    {
+      "name": "Contamination",
+      "raw": "Contamination (infection)",
+      "frequency": null
+    },
+    {
+      "name": "Disk",
+      "raw": "Disk (residual / recurrent / new level)",
+      "frequency": null
+    },
+    {
+      "name": "Error",
+      "raw": "Error (wrong disk excised)",
+      "frequency": null
+    },
+    {
+      "name": "Fibrosis",
+      "raw": "Fibrosis (scar)",
+      "frequency": null
+    },
+    {
+      "name": "Displaced disk fragment",
+      "raw": "Displaced disk fragment",
+      "frequency": null
+    },
+    {
+      "name": "Intra- / extramedullary tumor",
+      "raw": "Intra- / extramedullary tumor",
+      "frequency": null
+    },
+    {
+      "name": "Osseous: Paget disease, osteomyelitis, osteoarthrosis of facet joints, complication of ankylosing spondylitis",
+      "raw": "Osseous: Paget disease, osteomyelitis, osteoarthrosis of facet joints, complication of ankylosing spondylitis",
+      "frequency": null
+    },
+    {
+      "name": "diminished sensation in lower lumbar + sacral dermatomes",
+      "raw": "diminished sensation in lower lumbar + sacral dermatomes",
+      "frequency": null
+    },
+    {
+      "name": "wasting + weakness of muscles; decreased ankle reflexes",
+      "raw": "wasting + weakness of muscles; decreased ankle reflexes",
+      "frequency": null
+    },
+    {
+      "name": "impotence; decreased sphincter tone",
+      "raw": "impotence; decreased sphincter tone",
+      "frequency": null
+    },
+    {
+      "name": "disturbed sphincter function + overflow incontinence",
+      "raw": "disturbed sphincter function + overflow incontinence",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  no enhancement on early T1WI (appears enhanced ≥ 30 min post injection) √  deceased marrow signal intensity on T1WI √  contrast enhancement of disk + adjacent vertebral bodies √  enhancing epidural plaque / mass √  heterogeneous enhancement on early T1WI (maximum at about 5 min post injection) most pronounced within 9 months of surgery (b)  Fibrosing arachnoiditis = adhesive arachnoiditis √  thickened irregular clumped nerve roots √  adhesion of roots to wall of thecal sac √  abnormal enhancement of thickened meninges + matted nerve roots Cauda Equina Syndrome =  constellation of signs + sy"
+}

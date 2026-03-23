@@ -1,0 +1,42 @@
+{
+  "finding": "Hormonal Influence on BPE",
+  "slug": "hormonal_influence_on_bpe_582e39",
+  "chapter": "BREAST ANATOMY",
+  "source_file": "processed_clusters/breast_anatomy/hormonal_influence_on_bpe_582e39.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Menstruation",
+      "raw": "Menstruation",
+      "frequency": null
+    },
+    {
+      "name": "Lactation ◊  Breast involution after lactation takes 3 months",
+      "raw": "Lactation ◊  Breast involution after lactation takes 3 months",
+      "frequency": null
+    },
+    {
+      "name": "Postmenopausal period without HRT",
+      "raw": "Postmenopausal period without HRT",
+      "frequency": null
+    },
+    {
+      "name": "Hormone replacement therapy",
+      "raw": "Hormone replacement therapy (HRT)",
+      "frequency": null
+    },
+    {
+      "name": "Endocrine antihormonal therapy Antiestrogenic agents:   selective estrogen receptor modulators, aromatase inhibitors",
+      "raw": "Endocrine antihormonal therapy Antiestrogenic agents:   selective estrogen receptor modulators, aromatase inhibitors",
+      "frequency": null
+    },
+    {
+      "name": "Oophorectomy → decrease in BPE",
+      "raw": "Oophorectomy → decrease in BPE",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  enhancement high during days 21-28 and days 1-6 after menstruation + low during days 7-20 Note:  NO impairment in cancer detection in lactating patients! Breast-feeding:   safe after contrast-enhanced MRI ← minute amounts of Gd in breast milk √  decrease in fibroglandular tissue → degree of BPE typically less than that in premenopausal women √  increase in BPE in amount + degree + distribution with great interindividual variations: ◊  Hormonal effect reverses after 30-60 days √  significant decrease in amount of fibroglandular tissue + cysts + BPE √  effect on BPE evident early in treatment"
+}

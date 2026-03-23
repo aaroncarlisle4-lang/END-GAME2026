@@ -1,0 +1,27 @@
+{
+  "finding": "Functioning Adrenal Mass",
+  "slug": "functioning_adrenal_mass",
+  "chapter": "C. BORDERLINE",
+  "source_file": "processed_clusters/c_borderline/functioning_adrenal_mass.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cushing syndrome and Cushing disease",
+      "raw": "Cushing syndrome and Cushing disease",
+      "frequency": null
+    },
+    {
+      "name": "Primary aldosteronism",
+      "raw": "Primary aldosteronism",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma",
+      "raw": "Pheochromocytoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

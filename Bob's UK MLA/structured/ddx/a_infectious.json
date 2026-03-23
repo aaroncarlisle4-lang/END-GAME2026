@@ -1,0 +1,32 @@
+{
+  "finding": "A. INFECTIOUS",
+  "slug": "a_infectious",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/a_infectious.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Actinomycosis",
+      "raw": "Actinomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Nocardia",
+      "raw": "Nocardia",
+      "frequency": null
+    },
+    {
+      "name": "Blastomycosis",
+      "raw": "Blastomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

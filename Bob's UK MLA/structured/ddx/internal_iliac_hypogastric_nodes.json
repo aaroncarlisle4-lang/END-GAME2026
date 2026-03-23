@@ -1,0 +1,45 @@
+{
+  "finding": "Internal Iliac = Hypogastric Nodes",
+  "slug": "internal_iliac_hypogastric_nodes",
+  "chapter": "ANATOMY OF LYMPH NODES",
+  "source_file": "processed_clusters/anatomy_of_lymph_nodes/internal_iliac_hypogastric_nodes.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Junctional nodes",
+      "raw": "Junctional nodes",
+      "frequency": null
+    },
+    {
+      "name": "Sacral + promontory nodes [Lateral chain]",
+      "raw": "Sacral + promontory nodes",
+      "frequency": null,
+      "sites": [
+        "Lateral chain"
+      ]
+    },
+    {
+      "name": "Middle chain",
+      "raw": "Middle chain",
+      "frequency": null
+    },
+    {
+      "name": "Medial chain = obturator nodes",
+      "raw": "Medial chain = obturator nodes",
+      "frequency": null
+    },
+    {
+      "name": "Superficial inguinal nodes Location:   subcutis anterior to inguinal ligament along femoral vein + saphenous vein",
+      "raw": "Superficial inguinal nodes Location:   subcutis anterior to inguinal ligament along femoral vein + saphenous vein",
+      "frequency": null
+    },
+    {
+      "name": "Deep inguinal nodes",
+      "raw": "Deep inguinal nodes",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "accompany each visceral branch of internal iliac artery Location:   at junction between internal + external iliac nodes Location:   central location of presacral space External Iliac Nodes Location:   lateral relative to external iliac artery) Location:   between external iliac artery + vein) Location:   medial + posterior to external iliac vein) Inguinal nodes demarcated from external iliac nodes by inguinal ligament Saphenofemoral junction node = sentinel node Location:   along common femoral artery + vein"
+}

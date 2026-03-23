@@ -1,0 +1,53 @@
+{
+  "name": "RADIATION INJURY",
+  "slug": "radiation_injury",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/radiation_injury.md",
+  "definition": "obliterative endarteritis with irradiation in excess of 4,000-4,500 rad from high doses of mediastinal radiation (usually > 5,000 cGy); Adriamycin® can",
+  "demographics": {
+    "Frequency": "5%; increased risk after pelvic surgery",
+    "Location": "ileum; concomitant radiation damage to colon / rectum"
+  },
+  "dominant_finding": "ridgelike appearance of mucosa ← submucosal fibrosis",
+  "distribution": "ileum; concomitant radiation damage to colon / rectum",
+  "discriminating_features": [
+    "radiographic changes within field of radiation only",
+    "smooth relatively long segment of concentric tapered narrowing within a preexisting",
+    "gastric ulceration + deformity (pylorus)",
+    "enlargement + effacement of gastric folds",
+    "antral narrowing + rigidity (similar to linitis plastica)"
+  ],
+  "other_features": {
+    "general": [
+      "radiographic changes within field of radiation only",
+      "smooth relatively long segment of concentric tapered narrowing within a preexisting",
+      "gastric ulceration + deformity (pylorus)",
+      "enlargement + effacement of gastric folds",
+      "antral narrowing + rigidity (similar to linitis plastica)"
+    ],
+    "CT": [
+      "increased attenuation of mesentery",
+      "ridgelike appearance of mucosa ← submucosal fibrosis",
+      "irregularly outlined ulcerations (rare)",
+      "narrowed partially distensible rectum",
+      "thick homogeneous rectal wall",
+      "\"target\" sign = submucosal circumferential lucency",
+      "proliferation of perirectal fat > 10 mm",
+      "thickening of perirectal fascia",
+      "\"halo\" sign = increase in pararectal fibrosis"
+    ],
+    "ACUTE radiation enteropathy": [
+      "mucosal hyperenhancement",
+      "irregular nodular thickening of folds with straight transverse course ± ulcerations",
+      "separation of adjacent bowel loops by > 2 mm"
+    ],
+    "CHRONIC radiation enteropathy (after months to years)": [
+      "thickened bowel wall with luminal narrowing",
+      "multiple strictures + partial mechanical obstruction",
+      "serrated bowel margin",
+      "shortening of small bowel",
+      "fixation + immobilization of bowel loops with similar radiographic appearance"
+    ]
+  },
+  "clinical": {}
+}

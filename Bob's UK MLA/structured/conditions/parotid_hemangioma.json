@@ -1,0 +1,39 @@
+{
+  "name": "PAROTID HEMANGIOMA",
+  "slug": "parotid_hemangioma",
+  "chapter": "OLFACTORY NEUROBLASTOMA",
+  "source_file": "processed_clusters/disease_entries/olfactory_neuroblastoma/parotid_hemangioma.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "90% of parotid gland tumors during 1st year of life; M < F",
+    "Histo": "capillary type >> cavernous type (in older children)"
+  },
+  "dominant_finding": "occasionally phleboliths",
+  "distribution": "",
+  "discriminating_features": [
+    "occasionally phleboliths",
+    "well-defined mass with uniform intense enhancement",
+    "low to intermediate signal intensity on short TR",
+    "bright signal intensity on long TR",
+    "flow voids due to prominent vasculature"
+  ],
+  "other_features": {
+    "general": [],
+    "US": [
+      "hypoechoic mass relative to parotid tissue",
+      "variable degree of abnormal flow"
+    ],
+    "CT": [
+      "occasionally phleboliths",
+      "well-defined mass with uniform intense enhancement"
+    ],
+    "MR": [
+      "low to intermediate signal intensity on short TR",
+      "bright signal intensity on long TR",
+      "flow voids due to prominent vasculature"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgery, sclerotherapy, laser ablation (therapy only with large size + encroachment on"
+  }
+}

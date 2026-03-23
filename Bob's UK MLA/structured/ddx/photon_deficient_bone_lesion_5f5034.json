@@ -1,0 +1,82 @@
+{
+  "finding": "Photon-deficient Bone Lesion",
+  "slug": "photon_deficient_bone_lesion_5f5034",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/photon_deficient_bone_lesion_5f5034.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Interruption of blood flow in local bone =  vessel trauma or vascular obstruction by thrombus / tumor",
+      "raw": "Interruption of blood flow in local bone =  vessel trauma or vascular obstruction by thrombus / tumor",
+      "frequency": null
+    },
+    {
+      "name": "Early osteomyelitis",
+      "raw": "Early osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Posttraumatic aseptic necrosis",
+      "raw": "Posttraumatic aseptic necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell crisis",
+      "raw": "Sickle cell crisis",
+      "frequency": null
+    },
+    {
+      "name": "Replacement of bone by destructive process",
+      "raw": "Replacement of bone by destructive process",
+      "frequency": null
+    },
+    {
+      "name": "Metastases (most common cause): central axis skeleton > extremity, most commonly in carcinoma of kidney + lung + breast + multiple myeloma",
+      "raw": "Metastases (most common cause): central axis skeleton > extremity, most commonly in carcinoma of kidney + lung + breast + multiple myeloma",
+      "frequency": "most common"
+    },
+    {
+      "name": "Primary bone tumor",
+      "raw": "Primary bone tumor (exceptional)",
+      "frequency": null
+    },
+    {
+      "name": "Histiocytosis X",
+      "raw": "Histiocytosis X",
+      "frequency": null
+    },
+    {
+      "name": "Multiple myeloma",
+      "raw": "Multiple myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Anaplastic tumors",
+      "raw": "Anaplastic tumors (reticulum cell sarcoma)",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid carcinoma",
+      "raw": "Thyroid carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  decreased radiotracer uptake"
+}

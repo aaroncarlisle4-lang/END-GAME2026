@@ -1,0 +1,137 @@
+{
+  "finding": "Cerebellopontine Angle Tumor",
+  "slug": "cerebellopontine_angle_tumor_da4140",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/cerebellopontine_angle_tumor_da4140.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cranial neuropathy: high frequency hearing loss",
+      "raw": "cranial neuropathy: high frequency hearing loss (CN VIII), tinnitus, facial motor dysfunction (CN VII), facial sensory dysfunction (CN V), taste disturbance (chorda tympani)",
+      "frequency": null
+    },
+    {
+      "name": "signs of posterior fossa mass effect: headache, nausea, vomiting, disequilibrium, ataxia",
+      "raw": "signs of posterior fossa mass effect: headache, nausea, vomiting, disequilibrium, ataxia",
+      "frequency": null
+    },
+    {
+      "name": "hemifacial spasm, trigeminal neuralgia",
+      "raw": "hemifacial spasm, trigeminal neuralgia (tic douloureux)",
+      "frequency": null
+    },
+    {
+      "name": "Vestibular schwannoma",
+      "raw": "Vestibular schwannoma (60-90%)",
+      "frequency": "90%"
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma (10-18%)",
+      "frequency": "18%"
+    },
+    {
+      "name": "Epidermoid cyst",
+      "raw": "Epidermoid cyst (5-9%)",
+      "frequency": "9%"
+    },
+    {
+      "name": "Nonvestibular schwannoma:",
+      "raw": "Nonvestibular schwannoma:",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst(< 1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma (< 1%)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Dermoid",
+      "raw": "Dermoid",
+      "frequency": null
+    },
+    {
+      "name": "Choroid plexus papilloma",
+      "raw": "Choroid plexus papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Glomus jugulare tumor",
+      "raw": "Glomus jugulare tumor",
+      "frequency": null
+    },
+    {
+      "name": "Chordoma",
+      "raw": "Chordoma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm of basilar / vertebral / posterior inferior cerebellar artery",
+      "raw": "Aneurysm of basilar / vertebral / posterior inferior cerebellar artery",
+      "frequency": null
+    },
+    {
+      "name": "Atherosclerotic dolichoectasia (b)  malignancy",
+      "raw": "Atherosclerotic dolichoectasia (b)  malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis (0.2-2%)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Exophytic brainstem glioma mnemonic:   Ever Grave CerebelloPontine Angle Masses",
+      "raw": "Exophytic brainstem glioma mnemonic:   Ever Grave CerebelloPontine Angle Masses",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid",
+      "raw": "Epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Glomus jugulare tumor",
+      "raw": "Glomus jugulare tumor",
+      "frequency": null
+    },
+    {
+      "name": "Chondroma, Chordoma, Cholesteatoma",
+      "raw": "Chondroma, Chordoma, Cholesteatoma",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary tumor, Pontine glioma",
+      "raw": "Pituitary tumor, Pontine glioma (exophytic)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  extraaxial tumor arising in CSF-filled space bound by pons + cerebellar hemisphere + petrous bone Frequency:   5-10% of all intracranial tumors √  may widen CSF space (cistern) in 25% √  bone erosion / hyperostosis √  sharp margination with brain Types: (a)  benign condition ›  trigeminal schwannoma ›  facial schwannoma ›  glossopharyngeal schwannoma Acoustic + trigeminal schwannoma, Aneurysm of basilar / vertebral artery, Arachnoid cyst Meningioma, Metastasis"
+}

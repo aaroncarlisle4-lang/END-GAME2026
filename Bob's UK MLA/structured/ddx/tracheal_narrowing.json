@@ -1,0 +1,57 @@
+{
+  "finding": "Tracheal Narrowing",
+  "slug": "tracheal_narrowing",
+  "chapter": "TRACHEA & BRONCHI",
+  "source_file": "processed_clusters/trachea_bronchi/tracheal_narrowing.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ANTERIOR COMPRESSION (a)  congenital",
+      "raw": "ANTERIOR COMPRESSION (a)  congenital",
+      "frequency": null
+    },
+    {
+      "name": "Congenital goiter",
+      "raw": "Congenital goiter",
+      "frequency": null
+    },
+    {
+      "name": "Innominate artery syndrome",
+      "raw": "Innominate artery syndrome",
+      "frequency": null
+    },
+    {
+      "name": "ablation of right radial pulse by rigid endoscopic pressure",
+      "raw": "ablation of right radial pulse by rigid endoscopic pressure",
+      "frequency": null
+    },
+    {
+      "name": "Cervical / mediastinal abscess (c)  neoplastic",
+      "raw": "Cervical / mediastinal abscess (c)  neoplastic",
+      "frequency": null
+    },
+    {
+      "name": "Cervical / intrathoracic teratoma",
+      "raw": "Cervical / intrathoracic teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Thymoma",
+      "raw": "Thymoma",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid tumors",
+      "raw": "Thyroid tumors",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma (d)  traumatic: hematoma",
+      "raw": "Lymphoma (d)  traumatic: hematoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  posterior tracheal displacement √  focal collapse of trachea at fluoroscopy √  pulsatile indentation of anterior tracheal wall by innominate artery on MR Rx:   surgical attachment of innominate artery to manubrium (b)  inflammatory √  amorphous calcifications + ossifications"
+}

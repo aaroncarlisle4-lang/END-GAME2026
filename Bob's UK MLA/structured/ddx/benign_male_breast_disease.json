@@ -1,0 +1,52 @@
+{
+  "finding": "Benign Male Breast Disease",
+  "slug": "benign_male_breast_disease",
+  "chapter": "BREAST LESION",
+  "source_file": "processed_clusters/breast_lesion/benign_male_breast_disease.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Gynecomastia",
+      "raw": "Gynecomastia",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Pseudoangiomatous stromal hyperplasia",
+      "raw": "Pseudoangiomatous stromal hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Granular cell tumor",
+      "raw": "Granular cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Fibromatosis / desmoid tumor",
+      "raw": "Fibromatosis / desmoid tumor",
+      "frequency": null
+    },
+    {
+      "name": "Myofibroblastoma",
+      "raw": "Myofibroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Schwannoma",
+      "raw": "Schwannoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,65 @@
+# Disease: THYROGLOSSAL DUCT CYST
+
+**Source section:** OLFACTORY NEUROBLASTOMA
+
+## Definition
+
+failure of complete involution of embryonic thyroglossal duct
+
+## Key Facts
+
+- **Frequency:** most common congenital neck mass (70% of all congenital neck anomalies); 2nd
+- **Histo:** cyst lined by stratified squamous epithelium / ciliated pseudostratified columnar
+- **Age:** < 10 years in 50%; 2nd peak at 20-30 years; M=F
+- **Location:** suprahyoid (15-25%), at level of hyoid (15-50%), infrahyoid (20-65%)
+- **Size:** 1.5-3.0 (range, 0.5-6.0) cm
+
+## Imaging Findings
+
+### General
+
+- cyst with occasional septation within 2 cm of midline
+- infrahyoid cyst embedded within / deep to strap muscle:
+- infrahyoid strap muscles beaks over edge of cyst
+- thin connecting stalk to midline
+- paramedian cyst with a tail that dives into hyoid bone
+
+### US
+
+- anechoic cyst (42%) in midline
+- hypoechoic mass with fine to coarse internal echoes (= proteinaceous material) + increased
+
+### SCINTIGRAPHY
+
+- uptake in functional thyroid tissue of thyroglossal duct cyst
+
+### CT
+
+- smooth well-circumscribed midline mass with thin wall
+- homogeneous mucoid attenuation of 0-20 HU / occasionally higher ← increased protein
+- thin peripheral rim of enhancement
+- tract of thyroid tissue between cystic mass + thyroid
+
+### MR
+
+- cyst of low to intermediate SI on T1WI + high SI on T2WI
+- NO restricted diffusion
+- nonenhancing / enhancing very thin rim (unless inflamed)
+- heterogeneous complex cyst with infection:
+- thick irregular rim of enhancement
+- variable SI of fluid ← infection / hemorrhage
+- profuse surrounding soft-tissue edema
+
+## Clinical
+
+- **Cx:** (1)  Infection → thick external wall ± internal septa
+- **Rx:** Sistrunk procedure (= resection of central portion of hyoid bone + core of tissue
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

@@ -1,0 +1,45 @@
+{
+  "finding": "Important Stabilizing Wrist Ligaments",
+  "slug": "important_stabilizing_wrist_ligaments_2bec1c",
+  "chapter": "ELBOW",
+  "source_file": "processed_clusters/elbow/important_stabilizing_wrist_ligaments_2bec1c.md",
+  "quality_score": 0.333,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Intrinsic = between carpal bones",
+      "raw": "Intrinsic = between carpal bones",
+      "frequency": null
+    },
+    {
+      "name": "Scapholunate lig.",
+      "raw": "Scapholunate lig.",
+      "frequency": null
+    },
+    {
+      "name": "Lunotriquetral lig.",
+      "raw": "Lunotriquetral lig.",
+      "frequency": null
+    },
+    {
+      "name": "Extrinsic = between carpal + metacarpal bones or between carpal bones + radius / ulna (a)  Palmar: carpal stability [Radial collateral lig.]",
+      "raw": "Extrinsic = between carpal + metacarpal bones or between carpal bones + radius / ulna (a)  Palmar: carpal stability",
+      "frequency": null,
+      "sites": [
+        "Radial collateral lig."
+      ]
+    },
+    {
+      "name": "Radiolunotriquetral lig. (RLTL): preventing ulnar translation",
+      "raw": "Radiolunotriquetral lig. (RLTL): preventing ulnar translation",
+      "frequency": null
+    },
+    {
+      "name": "Radioscaphocapitate lig. (RSCL): keeps scaphoid in position (b)  Dorsal radiocarpal ligg.: prevent perilunate instability + volar intercalated segment instability (c)  Dorsal intercarpal ligg.: prevent perilunate instability + dorsal intercalated segment instability",
+      "raw": "Radioscaphocapitate lig. (RSCL): keeps scaphoid in position (b)  Dorsal radiocarpal ligg.: prevent perilunate instability + volar intercalated segment instability (c)  Dorsal intercarpal ligg.: prevent perilunate instability + dorsal intercalated segment instability",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Important for carpal stability!"
+}

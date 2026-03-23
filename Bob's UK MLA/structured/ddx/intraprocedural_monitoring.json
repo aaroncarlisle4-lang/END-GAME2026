@@ -1,0 +1,102 @@
+{
+  "finding": "Intraprocedural Monitoring",
+  "slug": "intraprocedural_monitoring",
+  "chapter": "SEDATION",
+  "source_file": "processed_clusters/sedation/intraprocedural_monitoring.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Respiratory rate: continuous monitoring with pulse oximetry",
+      "raw": "Respiratory rate: continuous monitoring with pulse oximetry",
+      "frequency": null
+    },
+    {
+      "name": "ECG: continuous monitoring",
+      "raw": "ECG: continuous monitoring",
+      "frequency": null
+    },
+    {
+      "name": "Blood pressure: every 5 min + before every dose",
+      "raw": "Blood pressure: every 5 min + before every dose",
+      "frequency": null
+    },
+    {
+      "name": "Assessment of Alertness",
+      "raw": "Assessment of Alertness",
+      "frequency": null
+    },
+    {
+      "name": "Pain assessment: verbal descriptor, linear numeric, face-pain scale",
+      "raw": "Pain assessment: verbal descriptor, linear numeric, face-pain scale",
+      "frequency": null
+    },
+    {
+      "name": "Benzodiazepines Action:   facilitate actions of g-aminobutyric acid (= main inhibitory neurotransmitter) in",
+      "raw": "Benzodiazepines Action:   facilitate actions of g-aminobutyric acid (= main inhibitory neurotransmitter) in",
+      "frequency": null
+    },
+    {
+      "name": "Midazolam",
+      "raw": "Midazolam (Versed®)",
+      "frequency": null
+    },
+    {
+      "name": "Lorazepam",
+      "raw": "Lorazepam (Ativan®)",
+      "frequency": null
+    },
+    {
+      "name": "Diazepam (Valium®): also anticonvulsant",
+      "raw": "Diazepam (Valium®): also anticonvulsant",
+      "frequency": null
+    },
+    {
+      "name": "Diphenhydramine",
+      "raw": "Diphenhydramine (Benadryl®)",
+      "frequency": null
+    },
+    {
+      "name": "Action:   blocks histamine-1 receptors (H1 blocker); anticholinergic",
+      "raw": "Action:   blocks histamine-1 receptors (H1 blocker); anticholinergic",
+      "frequency": null
+    },
+    {
+      "name": "Contraindication:   asthma, narrow-angle glaucoma, urinary retention",
+      "raw": "Contraindication:   asthma, narrow-angle glaucoma, urinary retention",
+      "frequency": null
+    },
+    {
+      "name": "Side effect:   dry mouth, dizziness, sedation",
+      "raw": "Side effect:   dry mouth, dizziness, sedation",
+      "frequency": null
+    },
+    {
+      "name": "Reversal Agents",
+      "raw": "Reversal Agents",
+      "frequency": null
+    },
+    {
+      "name": "reversing effects of opioids",
+      "raw": "reversing effects of opioids (reverse first)",
+      "frequency": null
+    },
+    {
+      "name": "Naloxone",
+      "raw": "Naloxone (NARCAN®)",
+      "frequency": null
+    },
+    {
+      "name": "reversing effects of benzodiazepines",
+      "raw": "reversing effects of benzodiazepines (reverse second)",
+      "frequency": null
+    },
+    {
+      "name": "Flumazenil",
+      "raw": "Flumazenil (Romazicon®)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Postprocedural Monitoring =  monitoring for postprocedural complications as drugs are unopposed by anxiety and pain related to procedure → deepening of sedation + respiratory depression Frequency:   in 15-minute intervals for ≥ 30 minutes after last dose; for ≥ 2 hours after use of reversal agent Sedatives CNS; synergistic with opioids Properties:   anxiolytic, amnestic Administration:   IM, IV (rapid onset of action) Elimination half-life:   1-4 hours (short) Administration:   PO, IM, IV (variable peak effect) Elimination half-life:   mean of 15 hours Elimination half-life:   20-100 hours Adm"
+}

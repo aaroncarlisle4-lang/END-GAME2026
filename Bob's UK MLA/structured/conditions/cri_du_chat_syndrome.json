@@ -1,0 +1,32 @@
+{
+  "name": "CRI-DU-CHAT SYNDROME",
+  "slug": "cri_du_chat_syndrome",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/cri_du_chat_syndrome.md",
+  "definition": "deletion of short arm of 5th chromosome (5 p)",
+  "demographics": {
+    "Associated with": "congenital heart disease (obtain CXR!)"
+  },
+  "dominant_finding": "agenesis of corpus callosum",
+  "distribution": "",
+  "discriminating_features": [
+    "agenesis of corpus callosum",
+    "microcephaly",
+    "hypertelorism",
+    "small mandible",
+    "faulty long-bone development"
+  ],
+  "other_features": {
+    "general": [
+      "agenesis of corpus callosum",
+      "microcephaly",
+      "hypertelorism",
+      "small mandible",
+      "faulty long-bone development",
+      "short 3rd, 4th, 5th metacarpals",
+      "long 2nd, 3rd, 4th, 5th proximal phalanges",
+      "horseshoe kidney"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Meniscal Tear — Lateral meniscus (DDx)",
+  "slug": "meniscal_tear_lateral_meniscus_ddx",
+  "chapter": "Meniscal Tear",
+  "source_file": "processed_clusters/meniscal_tear/meniscal_tear_lateral_meniscus_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "radial tear of body",
+      "raw": "radial tear of body",
+      "frequency": null
+    },
+    {
+      "name": "macerated meniscus",
+      "raw": "macerated meniscus",
+      "frequency": null
+    },
+    {
+      "name": "prior partial meniscectomy",
+      "raw": "prior partial meniscectomy (in small / pediatric patient)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"absent bow-tie\" sign (SAG image) = peripheral image fails to demonstrate normal bow-"
+}

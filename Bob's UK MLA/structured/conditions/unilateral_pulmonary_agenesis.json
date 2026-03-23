@@ -1,0 +1,30 @@
+{
+  "name": "UNILATERAL PULMONARY AGENESIS",
+  "slug": "unilateral_pulmonary_agenesis",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/unilateral_pulmonary_agenesis.md",
+  "definition": "one-sided lack of primitive mesenchyme",
+  "demographics": {
+    "Location": "R (worse prognosis) > L (better prognosis)"
+  },
+  "dominant_finding": "completely opaque hemithorax",
+  "distribution": "R (worse prognosis) > L (better prognosis)",
+  "discriminating_features": [
+    "completely opaque hemithorax",
+    "ipsilateral absence of pulmonary vessels (arteries + veins)",
+    "absent ipsilateral mainstem bronchus + airways",
+    "symmetrical chest cage with approximation of ribs",
+    "marked contralateral lung hyperexpansion + hyperlucency"
+  ],
+  "other_features": {
+    "general": [
+      "completely opaque hemithorax",
+      "ipsilateral absence of pulmonary vessels (arteries + veins)",
+      "absent ipsilateral mainstem bronchus + airways",
+      "symmetrical chest cage with approximation of ribs",
+      "marked contralateral lung hyperexpansion + hyperlucency",
+      "ipsilateral shift of mediastinum + diaphragm"
+    ]
+  },
+  "clinical": {}
+}

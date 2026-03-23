@@ -1,0 +1,31 @@
+{
+  "name": "LIPOMATOUS HYPERTROPHY OF INTERATRIAL SEPTUM",
+  "slug": "lipomatous_hypertrophy_of_interatrial_septum",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/lipomatous_hypertrophy_of_interatrial_septum.md",
+  "definition": "LHIAS = excessive deposition of brown fat in interatrial septum",
+  "demographics": {
+    "Prevalence": "3%; ↑ with older age",
+    "Associated with": "obesity, pulmonary emphysema",
+    "Histo": "unencapsulated infiltration of adipocytes (brown fat) between atrial muscle cells, NOT"
+  },
+  "dominant_finding": "fatty mass of dumbbell shape ← sparing of fossa ovalis",
+  "distribution": "increase in mediastinal and epicardial fat",
+  "discriminating_features": [
+    "fatty mass of dumbbell shape ← sparing of fossa ovalis",
+    "no contrast enhancement",
+    "increase in mediastinal and epicardial fat",
+    "± focally increased FDG activity = mean SUV of 1.84 (range, 0.48-3.48) ← metabolically active"
+  ],
+  "other_features": {
+    "general": [
+      "fatty mass of dumbbell shape ← sparing of fossa ovalis",
+      "no contrast enhancement",
+      "increase in mediastinal and epicardial fat",
+      "± focally increased FDG activity = mean SUV of 1.84 (range, 0.48-3.48) ← metabolically active"
+    ]
+  },
+  "clinical": {
+    "Cx": "supraventricular arrhythmias, vena caval obstruction"
+  }
+}

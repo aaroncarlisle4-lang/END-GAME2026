@@ -1,0 +1,27 @@
+{
+  "finding": "Cardiac Imaging Choices",
+  "slug": "cardiac_imaging_choices",
+  "chapter": "HEART SCINTIGRAPHY",
+  "source_file": "processed_clusters/heart_scintigraphy/cardiac_imaging_choices.md",
+  "quality_score": 0.4,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "PLANAR imaging",
+      "raw": "PLANAR imaging",
+      "frequency": null
+    },
+    {
+      "name": "SPECT imaging",
+      "raw": "SPECT imaging",
+      "frequency": null
+    },
+    {
+      "name": "QUANTITATIVE analysis =  circumferential profiles = plotting of average counts along equally spaced radii emanating from center of LV makes interpretation more objective + reproducible",
+      "raw": "QUANTITATIVE analysis =  circumferential profiles = plotting of average counts along equally spaced radii emanating from center of LV makes interpretation more objective + reproducible",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

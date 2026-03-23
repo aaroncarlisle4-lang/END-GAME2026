@@ -1,0 +1,21 @@
+{
+  "finding": "Asbestos-Related Disease (DDx)",
+  "slug": "asbestos_related_disease_ddx_1",
+  "chapter": "Asbestos-Related Disease",
+  "source_file": "processed_clusters/asbestos_related_disease/asbestos_related_disease_ddx_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "chest wall fat [rib fractures] [rib companion shadow]",
+      "raw": "chest wall fat",
+      "frequency": null,
+      "sites": [
+        "rib fractures",
+        "rib companion shadow"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "thin layer of extrapleural fat separates plaque from underlying rib + intercostal | \"hairy plaque\" = visceral pleural plaque + underlying short interstitial lines | no hilar adenopathy | calcified (in 10-15% by X-ray, in 15-20% by CT)"
+}

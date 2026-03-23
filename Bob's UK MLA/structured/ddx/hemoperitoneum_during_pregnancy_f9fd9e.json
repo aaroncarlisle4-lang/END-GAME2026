@@ -1,0 +1,42 @@
+{
+  "finding": "Hemoperitoneum during Pregnancy",
+  "slug": "hemoperitoneum_during_pregnancy_f9fd9e",
+  "chapter": "C. SAC VULNERABILITY",
+  "source_file": "processed_clusters/c_sac_vulnerability/hemoperitoneum_during_pregnancy_f9fd9e.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemorrhagic corpus luteum cyst",
+      "raw": "Hemorrhagic corpus luteum cyst",
+      "frequency": null
+    },
+    {
+      "name": "Placenta accreta",
+      "raw": "Placenta accreta",
+      "frequency": null
+    },
+    {
+      "name": "Spontaneous abortion",
+      "raw": "Spontaneous abortion",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic pregnancy",
+      "raw": "Ectopic pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "HELLP syndrome",
+      "raw": "HELLP syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Uterine rupture",
+      "raw": "Uterine rupture",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  hemorrhage in cul-de-sac (= rectouterine pouch)"
+}

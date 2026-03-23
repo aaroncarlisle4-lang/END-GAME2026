@@ -1,0 +1,77 @@
+{
+  "finding": "Micropolyspora faeni",
+  "slug": "micropolyspora_faeni",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/erdheim_chester_disease/micropolyspora_faeni.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bagassosis from moldy sugar cane in sugar mill",
+      "raw": "Bagassosis from moldy sugar cane in sugar mill (contamination with Thermoactinomyces sacchari /vulgaris and Micropolyspora faeni)",
+      "frequency": null
+    },
+    {
+      "name": "Malt worker's lung from malt dust",
+      "raw": "Malt worker's lung from malt dust (Aspergillus clavatus)",
+      "frequency": null
+    },
+    {
+      "name": "Maple bark disease from moldy maple bark in saw mill",
+      "raw": "Maple bark disease from moldy maple bark in saw mill (Cryptostroma corticale)",
+      "frequency": null
+    },
+    {
+      "name": "Suberosis from moldy cork dust",
+      "raw": "Suberosis from moldy cork dust (Penicillium frequentans)",
+      "frequency": null
+    },
+    {
+      "name": "Sequoiosis from redwood dust",
+      "raw": "Sequoiosis from redwood dust (Graphium species)",
+      "frequency": null
+    },
+    {
+      "name": "Mollusk shell pneumonitis",
+      "raw": "Mollusk shell pneumonitis",
+      "frequency": null
+    },
+    {
+      "name": "Hot tub lung from colonization of heated water by M. avium",
+      "raw": "Hot tub lung from colonization of heated water by M. avium",
+      "frequency": null
+    },
+    {
+      "name": "fever, chills, myalgia, malaise, frontal headache",
+      "raw": "fever, chills, myalgia, malaise, frontal headache",
+      "frequency": null
+    },
+    {
+      "name": "chest tightness, cough, dyspnea, scanty mucoid expectoration",
+      "raw": "chest tightness, cough, dyspnea, scanty mucoid expectoration",
+      "frequency": null
+    },
+    {
+      "name": "arthralgia",
+      "raw": "arthralgia (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "recurrent respiratory / systemic symptoms:",
+      "raw": "recurrent respiratory / systemic symptoms:",
+      "frequency": null
+    },
+    {
+      "name": "breathlessness upon exertion, fever + cough",
+      "raw": "breathlessness upon exertion, fever + cough",
+      "frequency": null
+    },
+    {
+      "name": "weight loss, muscle + joint pain",
+      "raw": "weight loss, muscle + joint pain",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Average duration of exposure:   5 years Average duration of exposure:   11 years Average duration of exposure:   2 years Thermophilic actinomycetes: = bacteria < 1 µm in diameter with morphologic characteristics of fungi; found in soil, grains, compost, fresh water, forced-air heating, cooling system, humidifier, air- conditioning system Isocyanates:   used for large-scale production of polyurethane polymers in the manufacture of flexible / rigid foams, elastomers, glue, adhesives, surface coating, spray paint ◊  Principal cause of occupational asthma! Mycobacterium avium: colonization of heat"
+}

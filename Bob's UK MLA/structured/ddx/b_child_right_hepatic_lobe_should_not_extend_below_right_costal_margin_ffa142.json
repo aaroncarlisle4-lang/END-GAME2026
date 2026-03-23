@@ -1,0 +1,52 @@
+{
+  "finding": "B. CHILD right hepatic lobe should not extend below right costal margin",
+  "slug": "b_child_right_hepatic_lobe_should_not_extend_below_right_costal_margin_ffa142",
+  "chapter": "Size of Liver",
+  "source_file": "processed_clusters/size_of_liver/b_child_right_hepatic_lobe_should_not_extend_below_right_costal_margin_ffa142.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ADULT (a)  midclavicular line (vertical / craniocaudad axis):",
+      "raw": "ADULT (a)  midclavicular line (vertical / craniocaudad axis):",
+      "frequency": null
+    },
+    {
+      "name": "Alkaline phosphatase",
+      "raw": "Alkaline phosphatase (AP)",
+      "frequency": null
+    },
+    {
+      "name": "Gamma-glutamyl transpeptidase (γGT) very sensitive in almost all forms of liver disease Utility:   confirms hepatic source of elevated AP, may indicate significant alcohol use",
+      "raw": "Gamma-glutamyl transpeptidase (γGT) very sensitive in almost all forms of liver disease Utility:   confirms hepatic source of elevated AP, may indicate significant alcohol use",
+      "frequency": null
+    },
+    {
+      "name": "Transaminases",
+      "raw": "Transaminases",
+      "frequency": null
+    },
+    {
+      "name": "rather specific elevation in liver disease",
+      "raw": "rather specific elevation in liver disease",
+      "frequency": null
+    },
+    {
+      "name": "Bilirubin helps differentiate between various causes of jaundice (a)  unconjugated / indirect bilirubin = insoluble in water",
+      "raw": "Bilirubin helps differentiate between various causes of jaundice (a)  unconjugated / indirect bilirubin = insoluble in water",
+      "frequency": null
+    },
+    {
+      "name": "Lactic dehydrogenase (LDH) nonspecific and therefore not helpful high increase:   primary or metastatic liver involvement",
+      "raw": "Lactic dehydrogenase (LDH) nonspecific and therefore not helpful high increase:   primary or metastatic liver involvement",
+      "frequency": null
+    },
+    {
+      "name": "Alpha-fetoprotein (AFP) > 400 ng/mL   strongly suggests that a focal mass represents a hepatocellular carcinoma",
+      "raw": "Alpha-fetoprotein (AFP) > 400 ng/mL   strongly suggests that a focal mass represents a hepatocellular carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "< 13 cm = normal 13.0-15.5 cm = indeterminate (in 25%) > 15.5 cm = hepatomegaly (87% accuracy) (b)  preaortic line < 10 cm (c)  prerenal line < 14 cm Liver Capsule =  2 adherent layers: (a)  thick, fibrous inner layer = Glisson capsule (b)  outer serous layer derived from peritoneum excluding ›  bare area near diaphragm ›  porta hepatis ›  gallbladder attachment Liver Echogenicity & Attenuation US:     pancreatic > splenic ≥ hepatic > renal echogenicity CT:     50-65 HU (precontrast) CECT:   early arterial phase (20 sec), late arterial phase (30-40 sec), portal venous phase (60-70 sec); maxima"
+}

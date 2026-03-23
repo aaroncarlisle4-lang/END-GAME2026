@@ -1,0 +1,132 @@
+{
+  "finding": "Path: interstitial + alveolar edema containing a large number of eosinophils",
+  "slug": "path_interstitial_alveolar_edema_containing_a_large_number_of_eosinophils_03921d",
+  "chapter": "DROWNED LUNG",
+  "source_file": "processed_clusters/drowned_lung/path_interstitial_alveolar_edema_containing_a_large_number_of_eosinophils_03921d.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "no / mild symptoms, history of asthma + atopy",
+      "raw": "no / mild symptoms, history of asthma + atopy (common)",
+      "frequency": "common"
+    },
+    {
+      "name": "high WBC + peripheral eosinophilia",
+      "raw": "high WBC + peripheral eosinophilia",
+      "frequency": null
+    },
+    {
+      "name": "acute febrile illness peaking in 1-5 days, myalgia, chest pain",
+      "raw": "acute febrile illness peaking in 1-5 days, myalgia, chest pain",
+      "frequency": null
+    },
+    {
+      "name": "acute life-threatening respiratory failure within a few hours in previously healthy individuals",
+      "raw": "acute life-threatening respiratory failure within a few hours in previously healthy individuals",
+      "frequency": null
+    },
+    {
+      "name": "restrictive pulmonary function",
+      "raw": "restrictive pulmonary function",
+      "frequency": null
+    },
+    {
+      "name": "DIAGNOSTIC markedly elevated levels of eosinophils of > 25% in bronchoalveolar lavage (BAL) fluid",
+      "raw": "DIAGNOSTIC markedly elevated levels of eosinophils of > 25% in bronchoalveolar lavage (BAL) fluid",
+      "frequency": "25%"
+    },
+    {
+      "name": "no peripheral eosinophilia",
+      "raw": "no peripheral eosinophilia",
+      "frequency": null
+    },
+    {
+      "name": "insidious onset of fever, malaise, cough, chest pain, dyspnea develops over 4-8 months",
+      "raw": "insidious onset of fever, malaise, cough, chest pain, dyspnea develops over 4-8 months (DDx to Löffler syndrome)",
+      "frequency": null
+    },
+    {
+      "name": "common history of atopy in ~ 50%",
+      "raw": "common history of atopy in ~ 50% (may occur during therapeutic desensitization procedure)",
+      "frequency": "50%"
+    },
+    {
+      "name": "history of allergic rhinitis",
+      "raw": "history of allergic rhinitis",
+      "frequency": null
+    },
+    {
+      "name": "adult-onset asthma (wheezing) in 50%",
+      "raw": "adult-onset asthma (wheezing) in 50%",
+      "frequency": "50%"
+    },
+    {
+      "name": "usually mild / moderate peripheral blood eosinophilia (with rare exceptions) of > 1000/µL",
+      "raw": "usually mild / moderate peripheral blood eosinophilia (with rare exceptions) of > 1000/µL",
+      "frequency": "rare"
+    },
+    {
+      "name": "increased serum IgE levels",
+      "raw": "increased serum IgE levels (in up to 75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "> 25% (usually > 40%) of eosinophils in BAL fluid",
+      "raw": "> 25% (usually > 40%) of eosinophils in BAL fluid",
+      "frequency": "25%"
+    },
+    {
+      "name": "restrictive / obstructive (asthma) pulmonary function",
+      "raw": "restrictive / obstructive (asthma) pulmonary function",
+      "frequency": null
+    },
+    {
+      "name": "Löffler syndrome",
+      "raw": "Löffler syndrome (shifting and transient pulmonary opacities in identical distribution)",
+      "frequency": null
+    },
+    {
+      "name": "Cryptogenic organizing pneumonia",
+      "raw": "Cryptogenic organizing pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Persistent eosinophilia of > 500 eosinophils/mm3 for more than 6 months",
+      "raw": "Persistent eosinophilia of > 500 eosinophils/mm3 for more than 6 months",
+      "frequency": null
+    },
+    {
+      "name": "Absence of known causes of eosinophilia",
+      "raw": "Absence of known causes of eosinophilia",
+      "frequency": null
+    },
+    {
+      "name": "Evidence of eosinophil-mediated end organ damage (heart, CNS) with multiorgan system dysfunction @  Heart",
+      "raw": "Evidence of eosinophil-mediated end organ damage (heart, CNS) with multiorgan system dysfunction @  Heart",
+      "frequency": null
+    },
+    {
+      "name": "restrictive cardiomyopathy",
+      "raw": "restrictive cardiomyopathy",
+      "frequency": null
+    },
+    {
+      "name": "BAL fluid eosinophilia",
+      "raw": "BAL fluid eosinophilia (as high as 73%)",
+      "frequency": "73%"
+    },
+    {
+      "name": "urticaria, angioedema",
+      "raw": "urticaria, angioedema",
+      "frequency": null
+    },
+    {
+      "name": "Eosinophilic leukemia",
+      "raw": "Eosinophilic leukemia (immature eosinophils)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "CXR: √   peripheral patchy migratory / fleeting (= transient and shifting) noncavitary pleural-based pulmonary infiltrates changing within one to several days √  NO associated lymphadenopathy, NO pleural effusion Location:  mainly middle and upper lobes Distribution:   uni- or bilateral, nonsegmental distribution, predominantly in lung periphery HRCT: √  peripheral ground-glass and/or airspace consolidation with upper and middle lobe predominance √  solitary / multiple pulmonary nodular opacities with surrounding ground-glass halo (rare) Prognosis:  typically spontaneous resolution within 1 mo"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "VENTRICULAR SEPTAL DEFECT",
+  "slug": "ventricular_septal_defect",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/ventricular_septal_defect.md",
+  "definition": "small restrictive VSD with defect < 1 cm; little / no hemodynamic significance with PATHOGNOMONIC for pulmonary arterial hypertension",
+  "demographics": {
+    "Location": "(a) inlet portion",
+    "Frequency": "10% of large VSDs by 2 years of age"
+  },
+  "dominant_finding": "slight prominence of pulmonary vessels (45% shunt)",
+  "distribution": "(a) inlet portion",
+  "discriminating_features": [
+    "normal plain film",
+    "slight prominence of pulmonary vessels (45% shunt)",
+    "slight enlargement of LA",
+    "prominent pulmonary segment + vessels (= shunt vascularity)",
+    "calcification of pulmonary arteries"
+  ],
+  "other_features": {
+    "general": [
+      "normal plain film",
+      "slight prominence of pulmonary vessels (45% shunt)",
+      "slight enlargement of LA",
+      "prominent pulmonary segment + vessels (= shunt vascularity)",
+      "calcification of pulmonary arteries",
+      "enlargement of LA + LV",
+      "normal / small thoracic aorta",
+      "eventual decrease of pulmonary vessel caliber",
+      "eventual decrease in size of LA + LV",
+      "variable appearance ← variations in defect size",
+      "enlargement of LA",
+      "enlargement of pulmonary artery segment",
+      "enlargement of LV",
+      "RV hypertrophy",
+      "increase in pulmonary blood flow (if > 45% of pulmonary blood flow from systemic",
+      "Eisenmenger reaction",
+      "prolapse of aortic valve cusp (in supracristal VSD)",
+      "deformity of aortic cusp (in membranous VSD)",
+      "lack of echoes in region of interventricular septum with sharp edges (DDx: artifactual",
+      "LA enlargement"
+    ],
+    "ANGIO": [
+      "RVOT / pulmonary valve fill without filling of RV chamber (in supracristal VSD)"
+    ]
+  },
+  "clinical": {
+    "Cx": "right aortic valve cusp may herniate into VSD → aortic insufficiency",
+    "Prognosis": "spontaneous closure"
+  }
+}

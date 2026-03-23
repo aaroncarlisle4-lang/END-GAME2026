@@ -1,0 +1,31 @@
+{
+  "name": "RENAL PHYSIOLOGY",
+  "slug": "renal_physiology",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/renal_physiology.md",
+  "definition": "contrast material in collecting system",
+  "demographics": {},
+  "dominant_finding": "exclusive renal cortical enhancement with minimally enhancing renal medulla (=",
+  "distribution": "occasional failure of renal visualization",
+  "discriminating_features": [
+    "occasional failure of renal visualization",
+    "exclusive renal cortical enhancement with minimally enhancing renal medulla (=",
+    "enhancement of both cortex and medulla",
+    "improved visualization on radionuclide studies"
+  ],
+  "other_features": {
+    "general": [
+      "occasional failure of renal visualization"
+    ],
+    "NUC": [
+      "improved visualization on radionuclide studies"
+    ],
+    "CT": [
+      "exclusive renal cortical enhancement with minimally enhancing renal medulla (=",
+      "enhancement of both cortex and medulla"
+    ]
+  },
+  "clinical": {
+    "N.B.": "most valuable phase for detecting renal masses"
+  }
+}

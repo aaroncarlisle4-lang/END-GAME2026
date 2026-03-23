@@ -1,0 +1,90 @@
+# Disease: POLYARTERITIS NODOSA
+
+**Source section:** CARDIOVASCULAR DISORDERS
+
+## Definition
+
+PERIARTERITIS NODOSA = PAN systemic necrotizing inflammation of medium-sized + small muscular arteries WITHOUT
+
+## Key Facts
+
+- **Frequency:** 4-9÷1,000,000 annually(rare); 70÷1,000,000 annually in patients with hepatitis B
+- **Etiology:** ? deposition of immune complexes
+- **Mean age:** 55 (range, 8-81) years; M÷F = 2÷1 3% of childhood vasculitides in USA
+- **Path:** focal panmural necrotizing vasculitis with nodules along the vessel walls; mucoid
+- **Histo:** polymorphonuclear cell infiltrate in all layers of arterial wall + perivascular tissue
+- **Associated with:** hepatitis B + HIV antigenemia
+- **Location:** small intestine > mesentery > colon
+
+## Imaging Findings
+
+### General
+
+- irregular nephrogram
+- radiolucent cortical areas
+- prolonged washout of contrast material
+- multiple small intrarenal microaneurysms (at bifurcation of interlobar / arcuate arteries)
+- aneurysms may disappear (thrombosis) or appear in new locations
+- arterial narrowing + thrombosis (chronic / healing stage)
+- multiple small cortical infarcts
+
+### CECT
+
+- lobulated renal contour + irregular thinning ← prior cortical infarcts
+- multiple hypoattenuating bands (arterial occlusion)
+
+### Chest (involved in 70%)
+
+- cardiac enlargement / pericardial effusion (14%)
+- pleural effusion (14%)
+- pulmonary venous engorgement (21%)
+- massive pulmonary edema (4%)
+- linear densities / platelike atelectasis (10%)
+- wedge-shaped / round peripheral infiltrates of nonsegmental distribution (14%)
+- cavitation may occur
+- interstitial pneumonitis in lower lung fields
+
+### Liver (involved in 50-66%)
+
+- prolonged washout of contrast material ← increase in peripheral hepatic arterial
+
+### GI tract (involved in 50-70%)
+
+- ulcer formation, GI bleeding (6%)
+- bowel perforation (5%), intestinal infarction (1.4%)
+- pneumatosis intestinalis ± portal venous gas
+
+### Skeletal muscle (involved in 39%)
+
+- aneurysms of lumbar + intercostal arteries (19%)
+- lower extremity ischemia (16%)
+
+### Skin (involved in 20%)
+
+- sulci of high-signal-intensity on FLAIR image
+- leptomeningeal enhancement on T1WI
+- multiple (> 10) aneurysms of small + medium-sized arteries typically at branching points as
+- 1-5 mm saccular aneurysms in 60-75%
+- fusiform aneurysms / arterial ectasia
+- luminal irregularities (in up to 90%)
+- stenoses of arteries
+- arterial occlusions + organ infarcts (98%)
+- aneurysms in small to medium-sized renal arteries (40%)
+- segmental narrowing
+- variations in arterial caliber
+- pruning of peripheral vascular tree
+
+## Clinical
+
+- **Cx:** intrarenal / subcapsular / perinephric hemorrhage ← rupture of aneurysm
+- **Prognosis:** clinical course lasts several months to > 1 year; relapse in 40% with median
+- **Rx:** immunosuppression with corticosteroids + cyclophosphamide (increases 5-year survival
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

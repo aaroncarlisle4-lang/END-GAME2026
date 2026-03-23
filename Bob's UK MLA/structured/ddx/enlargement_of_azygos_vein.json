@@ -1,0 +1,64 @@
+{
+  "finding": "Enlargement of Azygos Vein",
+  "slug": "enlargement_of_azygos_vein",
+  "chapter": "D. FIBROSING MEDIASTINITIS",
+  "source_file": "processed_clusters/d_fibrosing_mediastinitis/enlargement_of_azygos_vein.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "COLLATERAL CIRCULATION",
+      "raw": "COLLATERAL CIRCULATION",
+      "frequency": null
+    },
+    {
+      "name": "Portal hypertension",
+      "raw": "Portal hypertension",
+      "frequency": null
+    },
+    {
+      "name": "SVC obstruction / compression below azygos vein",
+      "raw": "SVC obstruction / compression below azygos vein",
+      "frequency": null
+    },
+    {
+      "name": "IVC obstruction / compression",
+      "raw": "IVC obstruction / compression",
+      "frequency": null
+    },
+    {
+      "name": "Interrupted IVC with azygos continuation",
+      "raw": "Interrupted IVC with azygos continuation",
+      "frequency": null
+    },
+    {
+      "name": "Partial anomalous venous return",
+      "raw": "Partial anomalous venous return (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Pregnancy",
+      "raw": "Pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic vein occlusion",
+      "raw": "Hepatic vein occlusion",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "COLLATERAL CIRCULATION": [],
+    "Portal hypertension": [],
+    "SVC obstruction / compression below azygos vein": [
+      "Normal azygos vein (on upright CXR): ≤ 7 mm",
+      "round / oval opacity at right tracheobronchial angle marks terminal portion of azygos vein"
+    ],
+    "IVC obstruction / compression": [],
+    "Interrupted IVC with azygos continuation": [],
+    "Partial anomalous venous return": [],
+    "Pregnancy": [],
+    "Hepatic vein occlusion": []
+  },
+  "context": "Normal azygos vein (on upright CXR): ≤ 7 mm √  round / oval opacity at right tracheobronchial angle marks terminal portion of azygos vein"
+}

@@ -1,0 +1,52 @@
+{
+  "finding": "Most Frequent Benign Bone Tumor",
+  "slug": "most_frequent_benign_bone_tumor_3152d3",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/most_frequent_benign_bone_tumor_3152d3.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteochondroma 20-30%",
+      "raw": "Osteochondroma 20-30%",
+      "frequency": "30%"
+    },
+    {
+      "name": "Enchondroma 10-20%",
+      "raw": "Enchondroma 10-20%",
+      "frequency": "20%"
+    },
+    {
+      "name": "Simple bone cyst 10-20%",
+      "raw": "Simple bone cyst 10-20%",
+      "frequency": "20%"
+    },
+    {
+      "name": "Osteoid osteoma",
+      "raw": "Osteoid osteoma",
+      "frequency": null
+    },
+    {
+      "name": "Nonossifying fibroma",
+      "raw": "Nonossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysmal bone cyst 5%",
+      "raw": "Aneurysmal bone cyst 5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Noonan Syndrome",
+  "slug": "noonan_syndrome_795f00",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_cardiovascular_disorders/noonan_syndrome_795f00.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Pulmonary stenosis",
+      "raw": "Pulmonary stenosis",
+      "frequency": null
+    },
+    {
+      "name": "ASD",
+      "raw": "ASD",
+      "frequency": null
+    },
+    {
+      "name": "Hypertrophic cardiomyopathy",
+      "raw": "Hypertrophic cardiomyopathy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

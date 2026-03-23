@@ -1,0 +1,132 @@
+{
+  "finding": "Cause: oxygen toxicity (lung damage by oxygen radicals) + barotrauma (bronchopulmonary",
+  "slug": "cause_oxygen_toxicity_lung_damage_by_oxygen_radicals_barotrauma_bronchopulmonary_b03b70",
+  "chapter": "BRONCHIOLITIS",
+  "source_file": "processed_clusters/bronchiolitis/cause_oxygen_toxicity_lung_damage_by_oxygen_radicals_barotrauma_bronchopulmonary_b03b70.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "chronic oxygen dependency in premature neonates:",
+      "raw": "chronic oxygen dependency in premature neonates:",
+      "frequency": null
+    },
+    {
+      "name": "mild BPD = breathing room air",
+      "raw": "mild BPD = breathing room air",
+      "frequency": null
+    },
+    {
+      "name": "moderate BPD = need for < 30% oxygen",
+      "raw": "moderate BPD = need for < 30% oxygen",
+      "frequency": "30%"
+    },
+    {
+      "name": "severe BPD = need for ≥ 30% oxygen ± PPV or nasal CPAP",
+      "raw": "severe BPD = need for ≥ 30% oxygen ± PPV or nasal CPAP",
+      "frequency": "30%"
+    },
+    {
+      "name": "Obstructive airway disease = asthmalike clinical picture",
+      "raw": "Obstructive airway disease = asthmalike clinical picture",
+      "frequency": null
+    },
+    {
+      "name": "Focal atelectasis",
+      "raw": "Focal atelectasis",
+      "frequency": null
+    },
+    {
+      "name": "Cor pulmonale",
+      "raw": "Cor pulmonale",
+      "frequency": null
+    },
+    {
+      "name": "Rib fractures, rickets, renal calcifications",
+      "raw": "Rib fractures, rickets, renal calcifications (← chronic furosemide therapy)",
+      "frequency": null
+    },
+    {
+      "name": "Cholelithiasis",
+      "raw": "Cholelithiasis (← hyperalimentation ± ? furosemide)",
+      "frequency": null
+    },
+    {
+      "name": "Focal areas of tracheomalacia, tracheal stenosis, acquired lobar emphysema",
+      "raw": "Focal areas of tracheomalacia, tracheal stenosis, acquired lobar emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Complete clearing over months / years",
+      "raw": "Complete clearing over months / years (⅓)",
+      "frequency": null
+    },
+    {
+      "name": "Retained linear densities in upper lobe emphysema",
+      "raw": "Retained linear densities in upper lobe emphysema (29%)",
+      "frequency": "29%"
+    },
+    {
+      "name": "Diffuse neonatal pneumonia",
+      "raw": "Diffuse neonatal pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Meconium aspiration",
+      "raw": "Meconium aspiration",
+      "frequency": null
+    },
+    {
+      "name": "Total anomalous pulmonary venous return",
+      "raw": "Total anomalous pulmonary venous return",
+      "frequency": null
+    },
+    {
+      "name": "Congenital pulmonary lymphangiectasia (b)  conditions developing over time:",
+      "raw": "Congenital pulmonary lymphangiectasia (b)  conditions developing over time:",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent pneumonias with scarring",
+      "raw": "Recurrent pneumonias with scarring (gastroesophageal reflux, tracheoesophageal fistula, immune deficiency, etc)",
+      "frequency": null
+    },
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic pulmonary fibrosis (c)  conditions not apparent at birth:",
+      "raw": "Idiopathic pulmonary fibrosis (c)  conditions not apparent at birth:",
+      "frequency": null
+    },
+    {
+      "name": "Wilson-Mikity syndrome",
+      "raw": "Wilson-Mikity syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary interstitial emphysema",
+      "raw": "Pulmonary interstitial emphysema",
+      "frequency": null
+    },
+    {
+      "name": "Patent ductus arteriosus",
+      "raw": "Patent ductus arteriosus (uncommon appearance)",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Overhydration",
+      "raw": "Overhydration",
+      "frequency": null
+    },
+    {
+      "name": "Perinatally acquired viral infection",
+      "raw": "Perinatally acquired viral infection (especially CMV)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "injury from assisted ventilation) Pathogenesis:   hypoxia + oxygen toxicity ›  capillary wall damage, leakage of fluid into interstitium and pulmonary edema Stage I (0-3 days): Path:   loss of ciliated cells + necrosis of bronchiolar mucosa √  RDS pattern of hyaline membrane disease Stage II (4-10 days): Path:   hyaline membranes, eosinophilic exudate, squamous metaplasia, interstitial edema Associated with:   congestive failure from PDA √  complete opacification with air bronchogram ›  fibrosis of interstitium + groups of emphysematous alveoli Stage III (10-20 days): Path:   fewer hyaline mem"
+}

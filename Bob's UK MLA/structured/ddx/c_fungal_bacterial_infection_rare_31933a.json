@@ -1,0 +1,27 @@
+{
+  "finding": "C. FUNGAL + BACTERIAL INFECTION (rare",
+  "slug": "c_fungal_bacterial_infection_rare_31933a",
+  "chapter": "B. SARCOIDOSIS (5%",
+  "source_file": "processed_clusters/b_sarcoidosis_5/c_fungal_bacterial_infection_rare_31933a.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Histoplasmosis",
+      "raw": "Histoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "Coccidioidomycosis",
+      "raw": "Coccidioidomycosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

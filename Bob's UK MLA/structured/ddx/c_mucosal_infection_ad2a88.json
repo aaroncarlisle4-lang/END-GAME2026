@@ -1,0 +1,32 @@
+{
+  "finding": "C. MUCOSAL INFECTION",
+  "slug": "c_mucosal_infection_ad2a88",
+  "chapter": "TRACHEA & BRONCHI",
+  "source_file": "processed_clusters/trachea_bronchi/c_mucosal_infection_ad2a88.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Croup",
+      "raw": "Croup",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Fungal disease",
+      "raw": "Fungal disease",
+      "frequency": null
+    },
+    {
+      "name": "Aspergillosis",
+      "raw": "Aspergillosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

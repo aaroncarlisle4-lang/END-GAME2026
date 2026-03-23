@@ -1,0 +1,37 @@
+{
+  "finding": "Congenital Biliary Cysts",
+  "slug": "congenital_biliary_cysts_f0f7d6",
+  "chapter": "B. BILIARY CALCULI",
+  "source_file": "processed_clusters/b_biliary_calculi/congenital_biliary_cysts_f0f7d6.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Choledochal cyst",
+      "raw": "Choledochal cyst (77-87%)",
+      "frequency": "87%"
+    },
+    {
+      "name": "Ia  diffuse cystic dilatation of entire extrahepatic duct",
+      "raw": "Ia  diffuse cystic dilatation of entire extrahepatic duct",
+      "frequency": null
+    },
+    {
+      "name": "Ib  focal segmental dilatation of extrahepatic duct",
+      "raw": "Ib  focal segmental dilatation of extrahepatic duct",
+      "frequency": null
+    },
+    {
+      "name": "Ic  fusiform cystic dilatation of only CBD",
+      "raw": "Ic  fusiform cystic dilatation of only CBD",
+      "frequency": null
+    },
+    {
+      "name": "Caroli disease = intrahepatic biliary cysts",
+      "raw": "Caroli disease = intrahepatic biliary cysts",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(Todani classification) Cause:   anomalous pancreaticobiliary union II.  Diverticulum of extrahepatic ducts (1.2-3%) originating from extrahepatic bile duct (CBD / CHD) √  neck of diverticulum open / closed III.  Choledochocele (1.4-6%) IV.  Multiple segmental bile duct cysts IVa   multiple intra- and extrahepatic biliary cysts + saccular dilatation of CBD (19%) IVb   multiple extrahepatic biliary cysts + normal intrahepatic bile ducts (rare)"
+}

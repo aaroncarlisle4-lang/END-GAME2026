@@ -1,0 +1,42 @@
+{
+  "finding": "Constricting Lesion of Small Bowel",
+  "slug": "constricting_lesion_of_small_bowel",
+  "chapter": "Abnormal Small Bowel Folds",
+  "source_file": "processed_clusters/abnormal_small_bowel_folds/constricting_lesion_of_small_bowel.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Primary adenocarcinoma",
+      "raw": "Primary adenocarcinoma (proximal jejunum)",
+      "frequency": null
+    },
+    {
+      "name": "Carcinoid",
+      "raw": "Carcinoid (distal ileum)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma, metastasis",
+      "raw": "Lymphoma, metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Adhesion, mucosal diaphragm",
+      "raw": "Adhesion, mucosal diaphragm",
+      "frequency": null
+    },
+    {
+      "name": "Strictures: Crohn disease, radiation enteritis, ischemia, potassium chloride tablets",
+      "raw": "Strictures: Crohn disease, radiation enteritis, ischemia, potassium chloride tablets",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

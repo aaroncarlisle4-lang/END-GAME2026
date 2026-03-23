@@ -1,0 +1,62 @@
+{
+  "finding": "Cause: erosion of vasculature, rupture of pseudoaneurysm, rupture of varices",
+  "slug": "cause_erosion_of_vasculature_rupture_of_pseudoaneurysm_rupture_of_varices_734750",
+  "chapter": "I. MALIGNANCY",
+  "source_file": "processed_clusters/i_malignancy/cause_erosion_of_vasculature_rupture_of_pseudoaneurysm_rupture_of_varices_734750.md",
+  "quality_score": 0.833,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thoracopancreatic fistula (a)  pancreaticopleural fistula (b)  pancreaticopericardial fistula (c)  pancreaticoesophageal fistula (d)  pancreaticobronchial fistula (e)  mediastinal pseudocyst",
+      "raw": "Thoracopancreatic fistula (a)  pancreaticopleural fistula (b)  pancreaticopericardial fistula (c)  pancreaticoesophageal fistula (d)  pancreaticobronchial fistula (e)  mediastinal pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "established by 48-72 hours after disease onset CT should be performed 3-5 days after presentation because parenchymal pancreatic necrosis cannot be excluded prior to 72 hours after onset!",
+      "raw": "established by 48-72 hours after disease onset CT should be performed 3-5 days after presentation because parenchymal pancreatic necrosis cannot be excluded prior to 72 hours after onset!",
+      "frequency": null
+    },
+    {
+      "name": "(nondiagnostic) fever, tachycardia, elevated WBCs",
+      "raw": "(nondiagnostic) fever, tachycardia, elevated WBCs",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic (20%) most common cause of chronic pancreatitis in children",
+      "raw": "Idiopathic (20%) most common cause of chronic pancreatitis in children",
+      "frequency": "20%"
+    },
+    {
+      "name": "Chronic calcifying pancreatitis",
+      "raw": "Chronic calcifying pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic obstructive pancreatitis",
+      "raw": "Chronic obstructive pancreatitis",
+      "frequency": null
+    },
+    {
+      "name": "acute exacerbation of epigastric pain (93%):",
+      "raw": "acute exacerbation of epigastric pain (93%):",
+      "frequency": "93%"
+    },
+    {
+      "name": "jaundice (42%) from common bile duct obstruction",
+      "raw": "jaundice (42%) from common bile duct obstruction",
+      "frequency": "42%"
+    },
+    {
+      "name": "steatorrhea (80%); negative secretin stimulation test",
+      "raw": "steatorrhea (80%); negative secretin stimulation test",
+      "frequency": "80%"
+    },
+    {
+      "name": "diabetes mellitus (58%) ← endocrine insufficiency",
+      "raw": "diabetes mellitus (58%) ← endocrine insufficiency",
+      "frequency": "58%"
+    }
+  ],
+  "criteria": {},
+  "context": "Source:   splenic artery, portal vein, splenic vein, small peripancreatic vessels Location:  within pancreatic parenchyma, into fluid collection, into GI tract Mortality:  34-52% BILIARY PANCREATITIS =  gallstone / biliary sludge impaction at ampulla of Vater → ampullary spasm → pancreaticobiliary reflux → obstruction of common bile duct + pancreatic duct At risk:   common pancreaticobiliary channel, pancreas divisum MR:   preferred in suspected choledocholithiasis (more sensitive than CT for detecting gallstones) HEMORRHAGIC PANCREATITIS MR: √  elevated SI on precontrast fat-saturated T1WI In"
+}

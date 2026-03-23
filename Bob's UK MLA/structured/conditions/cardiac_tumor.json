@@ -1,0 +1,47 @@
+{
+  "name": "CARDIAC TUMOR",
+  "slug": "cardiac_tumor",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_cardiovascular_disorders/cardiac_tumor.md",
+  "definition": "neoplasm arising in infradiaphragmatic sites focal area of attenuation < 20 HU / fat-suppression on MR",
+  "demographics": {
+    "Prevalence": "0.002-0.250%; 0.001-0.030% (autopsy series)",
+    "Age": "typically > 60 years with disseminated tumor",
+    "Location": "anterolateral free wall + RVOT"
+  },
+  "dominant_finding": "well-defined peripherally calcified mass",
+  "distribution": "anterolateral free wall + RVOT",
+  "discriminating_features": [
+    "nonspecific imaging features",
+    "well-defined peripherally calcified mass",
+    "central region of variable attenuation",
+    "multicystic mass",
+    "hypointense mass on all sequences"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "cardiomegaly, pericardial effusion",
+      "signs of CHF",
+      "abnormal cardiac contour",
+      "pleural effusion",
+      "localized bulge of left cardiac contour",
+      "curvilinear / spotty calcifications (resembling myocardial aneurysm)",
+      "nonspecific imaging features"
+    ],
+    "MR": [
+      "multicystic mass",
+      "hypointense mass on all sequences",
+      "increase of total myocardial thickness: RV > LV",
+      "thin linear / curvilinear configuration"
+    ],
+    "CT": [
+      "well-defined peripherally calcified mass",
+      "central region of variable attenuation"
+    ]
+  },
+  "clinical": {
+    "Cx": "may rupture into cardiac chamber / pericardium",
+    "Prognosis": "death (⅓) ← cardiac tamponade / CHF / coronary artery invasion, sinoatrial"
+  }
+}

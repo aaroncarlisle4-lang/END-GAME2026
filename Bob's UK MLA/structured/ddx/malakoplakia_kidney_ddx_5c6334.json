@@ -1,0 +1,22 @@
+{
+  "finding": "Malakoplakia — Kidney (DDx)",
+  "slug": "malakoplakia_kidney_ddx_5c6334",
+  "chapter": "Malakoplakia",
+  "source_file": "processed_clusters/malakoplakia/malakoplakia_kidney_ddx_5c6334.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "infiltrative neoplasm; XGP (unilateral",
+      "raw": "infiltrative neoplasm; XGP (unilateral",
+      "frequency": null
+    },
+    {
+      "name": "urinary tract calcification)",
+      "raw": "urinary tract calcification)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "urinary tract calcification rare | lesions of variable echogenicity | ill-defined low-attenuation lesions | ± perinephric extension"
+}

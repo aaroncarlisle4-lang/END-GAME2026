@@ -1,0 +1,26 @@
+{
+  "name": "RETROCAVAL URETER",
+  "slug": "retrocaval_ureter",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/retrocaval_ureter.md",
+  "definition": "CIRCUMCAVAL URETER",
+  "demographics": {
+    "Etiology": "abnormality in embryogenesis of IVC with persistence of right posterior cardinal vein",
+    "Prevalence": "0.07%; M÷F = 3÷1"
+  },
+  "dominant_finding": "varying degrees of hydronephrosis + proximal hydrouretero-nephrosis",
+  "distribution": "",
+  "discriminating_features": [
+    "proximal right ureter swings medially over pedicle of L3-4, passes behind IVC, and emerges",
+    "varying degrees of hydronephrosis + proximal hydrouretero-nephrosis"
+  ],
+  "other_features": {
+    "general": [
+      "proximal right ureter swings medially over pedicle of L3-4, passes behind IVC, and emerges",
+      "varying degrees of hydronephrosis + proximal hydrouretero-nephrosis"
+    ]
+  },
+  "clinical": {
+    "Cx": "recurrent urinary tract infections"
+  }
+}

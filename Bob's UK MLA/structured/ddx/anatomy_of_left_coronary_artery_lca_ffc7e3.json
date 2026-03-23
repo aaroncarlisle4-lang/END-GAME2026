@@ -1,0 +1,45 @@
+{
+  "finding": "Anatomy of Left Coronary Artery (LCA",
+  "slug": "anatomy_of_left_coronary_artery_lca_ffc7e3",
+  "chapter": "CORONARY ARTERIES",
+  "source_file": "processed_clusters/coronary_arteries/anatomy_of_left_coronary_artery_lca_ffc7e3.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Left main coronary artery [Left anterior descending]",
+      "raw": "Left main coronary artery (LM)",
+      "frequency": null,
+      "sites": [
+        "Left anterior descending"
+      ]
+    },
+    {
+      "name": "otherwise split halfway between 1st septal perforator and apex into:",
+      "raw": "otherwise split halfway between 1st septal perforator and apex into:",
+      "frequency": null
+    },
+    {
+      "name": "Left circumflex artery (LCx) travels within left atrioventricular sulcus (groove);",
+      "raw": "Left circumflex artery (LCx) travels within left atrioventricular sulcus (groove);",
+      "frequency": null
+    },
+    {
+      "name": "Conus artery",
+      "raw": "Conus artery (CB) =  1st branch of RCA (in 50-60% of patients); may originate directly from coronary sinus of aorta (in 30-35%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "Sinoatrial node artery",
+      "raw": "Sinoatrial node artery (SANA) =  2nd branch of RCA (in 60%) / from LCx (in 40%)",
+      "frequency": "60%"
+    },
+    {
+      "name": "Marginal branches (M1, M2, etc) have an anterior course ›  acute marginal branch = at junction of middle + distal RCA",
+      "raw": "Marginal branches (M1, M2, etc) have an anterior course ›  acute marginal branch = at junction of middle + distal RCA",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "arises from left (posterior) coronary sinus (= left sinus of Valsalva) near sinotubular ridge; passes to left and posterior to pulmonary trunk Segments:   ostium to bifurcation = 5-20 mm short stem ›  bifurcates into LAD + LCx ›  trifurcates (in 15%) = ramus intermedius (RI) branch coursing laterally toward LV free wall similar to D1 Course:   within anterior interventricular groove toward apex Supply:   majority of LV + anterolateral papillary muscle ± small branches to anterior RV wall Segments: ›  proximal: from left main bifurcation to origin of 1st septal branch ›  midportion: from 1st se"
+}

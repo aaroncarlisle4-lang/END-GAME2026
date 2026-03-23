@@ -1,0 +1,52 @@
+{
+  "finding": "Abdominal Wall Mass",
+  "slug": "abdominal_wall_mass_2633ea",
+  "chapter": "D. GENITAL (4%",
+  "source_file": "processed_clusters/d_genital_4/abdominal_wall_mass_2633ea.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TUMOR (a)  benign",
+      "raw": "TUMOR (a)  benign",
+      "frequency": null
+    },
+    {
+      "name": "Desmoid tumor / fibromatosis",
+      "raw": "Desmoid tumor / fibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroma",
+      "raw": "Neuroma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma (b)  malignant",
+      "raw": "Hemangioma (b)  malignant",
+      "frequency": null
+    },
+    {
+      "name": "Metastatic implants",
+      "raw": "Metastatic implants",
+      "frequency": null
+    },
+    {
+      "name": "Primary malignancy",
+      "raw": "Primary malignancy",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

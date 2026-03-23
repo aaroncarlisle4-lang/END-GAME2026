@@ -1,0 +1,27 @@
+{
+  "finding": "Aberrant Internal Carotid Artery (DDx)",
+  "slug": "aberrant_internal_carotid_artery_ddx",
+  "chapter": "Aberrant Internal Carotid Artery",
+  "source_file": "processed_clusters/aberrant_internal_carotid_artery/aberrant_internal_carotid_artery_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "neoplastic process (eg",
+      "raw": "neoplastic process (eg",
+      "frequency": null
+    },
+    {
+      "name": "paraganglioma); inflammation (eg",
+      "raw": "paraganglioma); inflammation (eg",
+      "frequency": null
+    },
+    {
+      "name": "effusive otitis media)",
+      "raw": "effusive otitis media)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "tubular soft-tissue density entering middle ear cavity posterolateral to cochlea → crossing | protrusion into middle ear without bony margin"
+}

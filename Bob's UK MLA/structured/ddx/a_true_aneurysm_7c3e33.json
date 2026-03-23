@@ -1,0 +1,32 @@
+{
+  "finding": "A. TRUE ANEURYSM",
+  "slug": "a_true_aneurysm_7c3e33",
+  "chapter": "REFLUX ATROPHY",
+  "source_file": "processed_clusters/reflux_atrophy/a_true_aneurysm_7c3e33.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Atherosclerotic",
+      "raw": "Atherosclerotic (most common)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Fibromuscular dysplasia",
+      "raw": "Fibromuscular dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Pregnancy",
+      "raw": "Pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Mesenchymal disease: neurofibromatosis, Ehlers-Danlos syndrome",
+      "raw": "Mesenchymal disease: neurofibromatosis, Ehlers-Danlos syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

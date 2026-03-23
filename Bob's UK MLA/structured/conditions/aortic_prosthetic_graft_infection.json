@@ -1,0 +1,37 @@
+{
+  "name": "AORTIC PROSTHETIC GRAFT INFECTION",
+  "slug": "aortic_prosthetic_graft_infection",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/aortic_prosthetic_graft_infection.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "1.3-6% of prosthetic graft procedures"
+  },
+  "dominant_finding": "uptake of 99mTc-hexametazine labeled leukocytes (drawbacks: not performed quickly,",
+  "distribution": "focal bowel wall thickening → indicates fistula",
+  "discriminating_features": [
+    "ring of fat attenuation in early postoperative period < 5 mm between aneurysm wall and",
+    "perigraft fluid",
+    "perigraft soft-tissue attenuation with indistinctness of graft margins",
+    "ectopic gas ← fistulous communication with bowel / gas-producing organism",
+    "pseudoaneurysm (25%)"
+  ],
+  "other_features": {
+    "general": [
+      "ring of fat attenuation in early postoperative period < 5 mm between aneurysm wall and",
+      "perigraft fluid",
+      "perigraft soft-tissue attenuation with indistinctness of graft margins",
+      "ectopic gas ← fistulous communication with bowel / gas-producing organism",
+      "pseudoaneurysm (25%)",
+      "focal bowel wall thickening → indicates fistula",
+      "> 5 mm soft tissue between graft + surrounding wrap (beyond 7th postoperative week)",
+      "focal discontinuity of calcified aneurysmal wrap"
+    ],
+    "NUC": [
+      "uptake of 99mTc-hexametazine labeled leukocytes (drawbacks: not performed quickly,"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "17-75% mortality; 30-50% morbidity"
+  }
+}

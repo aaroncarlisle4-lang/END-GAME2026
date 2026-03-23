@@ -1,0 +1,32 @@
+{
+  "finding": "Multilocular Well-demarcated Bone Defect",
+  "slug": "multilocular_well_demarcated_bone_defect_e179b7",
+  "chapter": "D. REPLACED BY FIBROUS TISSUE",
+  "source_file": "processed_clusters/d_replaced_by_fibrous_tissue/multilocular_well_demarcated_bone_defect_e179b7.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aneurysmal bone cyst",
+      "raw": "Aneurysmal bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "Giant cell tumor",
+      "raw": "Giant cell tumor",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Simple bone cyst",
+      "raw": "Simple bone cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

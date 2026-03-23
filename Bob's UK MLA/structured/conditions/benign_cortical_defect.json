@@ -1,0 +1,27 @@
+{
+  "name": "BENIGN CORTICAL DEFECT",
+  "slug": "benign_cortical_defect",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/benign_cortical_defect.md",
+  "definition": "developmental intracortical bone defect",
+  "demographics": {
+    "Age": "usually 1st-2nd decade; uncommon in boys < 2 years of age; uncommon in girls < 4 years"
+  },
+  "dominant_finding": "usually < 2 cm long",
+  "distribution": "",
+  "discriminating_features": [
+    "well-defined intracortical round / oval lucency",
+    "usually < 2 cm long",
+    "sclerotic margins"
+  ],
+  "other_features": {
+    "general": [
+      "well-defined intracortical round / oval lucency",
+      "usually < 2 cm long",
+      "sclerotic margins"
+    ]
+  },
+  "clinical": {
+    "Cx": "pathologic / avulsion fracture following minor trauma (infrequent)"
+  }
+}

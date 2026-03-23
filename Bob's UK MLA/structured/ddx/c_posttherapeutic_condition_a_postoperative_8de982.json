@@ -1,0 +1,42 @@
+{
+  "finding": "C. POSTTHERAPEUTIC CONDITION (a) postoperative",
+  "slug": "c_posttherapeutic_condition_a_postoperative_8de982",
+  "chapter": "G. LEFTOVER Ls",
+  "source_file": "processed_clusters/g_leftover_ls/c_posttherapeutic_condition_a_postoperative_8de982.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Blood products",
+      "raw": "Blood products",
+      "frequency": null
+    },
+    {
+      "name": "Surgical packing: fat, gelatin sponge",
+      "raw": "Surgical packing: fat, gelatin sponge",
+      "frequency": null
+    },
+    {
+      "name": "Metallic artifact",
+      "raw": "Metallic artifact",
+      "frequency": null
+    },
+    {
+      "name": "Mucocele (b)  medical therapy",
+      "raw": "Mucocele (b)  medical therapy",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage: bromocriptine",
+      "raw": "Hemorrhage: bromocriptine",
+      "frequency": null
+    },
+    {
+      "name": "Hyperactive residual adenophysis",
+      "raw": "Hyperactive residual adenophysis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,57 @@
+{
+  "finding": "Normal Variants of Gallium Uptake",
+  "slug": "normal_variants_of_gallium_uptake",
+  "chapter": "Indications for Non-organ-specific Whole Body Imaging",
+  "source_file": "processed_clusters/indications_for_non_organ_specific_whole_body_imaging/normal_variants_of_gallium_uptake.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Breasts: increased uptake under stimulus of menarche, estrogens, pregnancy, lactation, phenothiazine medication, renal failure, hypothalamic lesion",
+      "raw": "Breasts: increased uptake under stimulus of menarche, estrogens, pregnancy, lactation, phenothiazine medication, renal failure, hypothalamic lesion",
+      "frequency": null
+    },
+    {
+      "name": "Liver: suppressed uptake by chemotherapeutic agents / high levels of circulating iron / irradiation / severe acute liver disease",
+      "raw": "Liver: suppressed uptake by chemotherapeutic agents / high levels of circulating iron / irradiation / severe acute liver disease",
+      "frequency": null
+    },
+    {
+      "name": "Lung: prominent uptake after lymphangiography",
+      "raw": "Lung: prominent uptake after lymphangiography",
+      "frequency": null
+    },
+    {
+      "name": "Spleen: increased uptake in splenomegaly",
+      "raw": "Spleen: increased uptake in splenomegaly",
+      "frequency": null
+    },
+    {
+      "name": "Thymus: uptake in children",
+      "raw": "Thymus: uptake in children",
+      "frequency": null
+    },
+    {
+      "name": "Salivary glands: uptake within first 6 months after radiation therapy to neck",
+      "raw": "Salivary glands: uptake within first 6 months after radiation therapy to neck (may persist for years)",
+      "frequency": null
+    },
+    {
+      "name": "Epiphyseal plates in children",
+      "raw": "Epiphyseal plates in children",
+      "frequency": null
+    },
+    {
+      "name": "Previous steroid therapy, chemotherapy, and radiation therapy may decrease Ga uptake",
+      "raw": "Previous steroid therapy, chemotherapy, and radiation therapy may decrease Ga uptake",
+      "frequency": null
+    },
+    {
+      "name": "Healing surgical incision",
+      "raw": "Healing surgical incision",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

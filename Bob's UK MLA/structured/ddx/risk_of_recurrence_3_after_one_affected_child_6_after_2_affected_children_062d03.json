@@ -1,0 +1,42 @@
+{
+  "finding": "Risk of recurrence: 3% after one affected child; 6% after 2 affected children",
+  "slug": "risk_of_recurrence_3_after_one_affected_child_6_after_2_affected_children_062d03",
+  "chapter": "E. FETAL ANOMALIES (61%",
+  "source_file": "processed_clusters/e_fetal_anomalies_61/risk_of_recurrence_3_after_one_affected_child_6_after_2_affected_children_062d03.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ventral wall defects (21%):",
+      "raw": "Ventral wall defects (21%):",
+      "frequency": "21%"
+    },
+    {
+      "name": "Proximal fetal gut obstruction:",
+      "raw": "Proximal fetal gut obstruction:",
+      "frequency": null
+    },
+    {
+      "name": "Cystic hygroma, teratoma: pharyngeal, sacral",
+      "raw": "Cystic hygroma, teratoma: pharyngeal, sacral",
+      "frequency": null
+    },
+    {
+      "name": "Amniotic band syndrome:",
+      "raw": "Amniotic band syndrome:",
+      "frequency": null
+    },
+    {
+      "name": "Renal abnormalities:",
+      "raw": "Renal abnormalities:",
+      "frequency": null
+    },
+    {
+      "name": "Oligohydramnios",
+      "raw": "Oligohydramnios",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "gastroschisis, omphalocele (sensitivity of 50%) esophageal / duodenal atresia → diminished AFP degradation in small bowel asymmetric cephalocele, gastropleuroschisis multicystic dysplastic kidney, renal agenesis, pelviectasis, congenital Finnish nephrosis → typically ≥ 10 MoM + negative amniotic fluid acetylcholinesterase"
+}

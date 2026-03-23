@@ -1,0 +1,32 @@
+{
+  "finding": "A. BENIGN NEOPLASM",
+  "slug": "a_benign_neoplasm",
+  "chapter": "Ileocecal Valve Abnormalities",
+  "source_file": "processed_clusters/ileocecal_valve_abnormalities/a_benign_neoplasm.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipomatosis of ileocecal valve: predominantly in female > 40 years of age",
+      "raw": "Lipomatosis of ileocecal valve: predominantly in female > 40 years of age",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatous polyp, villous adenoma",
+      "raw": "Adenomatous polyp, villous adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoid hyperplasia",
+      "raw": "Lymphoid hyperplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  symmetric stellate / rosette pattern"
+}

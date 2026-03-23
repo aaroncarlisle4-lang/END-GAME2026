@@ -1,0 +1,88 @@
+# Disease: DUPLICATION CYST
+
+**Source section:** GASTROINTESTINAL AND ABDOMINAL DISORDERS
+
+## Definition
+
+GASTROINTESTINAL DUPLICATION CYST uncommon congenital anomaly found anywhere along mesenteric side of alimentary tract from FOREGUT DUPLICATION long tubular cyst closed at its cranial end, passing through diaphragm in its own hiatus, in intramural gastric cyst lined with secretory epithelium DUPLICATION OF THE HINDGUT double-barreled duplication involving part / all of large bowel with "twin" segment on CYSTIC COLONIC DUPLICATION
+
+## Key Facts
+
+- **Frequency:** 15% of pediatric abdominal masses are gastrointestinal duplication cysts
+- **Age:** presentation often in 1st year of life / early childhood
+- **Histo:** wall of smooth muscle lined with alimentary tract mucosa; ectopic mucosa; squamous,
+- **Path:** contains ectopic gastric mucosa in 43%
+- **Associated with:** vertebral anomalies (spina bifida, hemivertebra, fusion defects),
+- **Location:** adjacent to esophagus / within esophageal musculature at any level, paraspinal
+
+## Imaging Findings
+
+### General
+
+- mass extrinsic to bowel lumen
+
+### US
+
+- elongated tubular / spherical cystic mass with "double-wall / muscular rim" sign:
+- "muscular rim" sign (= echogenic inner mucosal lining + hypoechoic outer rim) in 47%
+- sonolucent content with good through transmission ← clear fluid
+- echogenic content ← hemorrhage + inspissated material
+- cyst paralleling normal bowel lumen
+- hypoechoic fluid-filled cyst + layered wall:
+- inner echogenic layer (mucosa) and outer hypoechoic layer (muscle)
+- cyst with two wall layers: inner echogenic layer of mucosa + outer hypoechoic layer of
+- clear / debris-containing fluid
+- low small bowel obstruction ± soft-tissue mass
+- cyst may serve as lead point for intussusception
+- mass in concavity of duodenal C-loop
+- compression + displacement of 1st / 2nd portion of duodenum superiorly + anteriorly
+- may communicate with pancreatic ductal system through the aberrant duct of an
+- simultaneous opacification of true + twin colon
+- duplication may terminate at
+- air / intestinal matter can enter cyst (20%)
+- cystic mass: may be echogenic ← solid material ± gas from communication with rectum
+- spherical cystic lesion that may communicate internally with anorectal lumen / externally
+
+### CT
+
+- smoothly rounded fluid-filled cyst / tubular structure
+- thin slightly enhancing wall
+- sharply marginated homogeneous near-water density mass without enhancement
+- contrast-enhancing cyst wall
+- tubular right posterior mediastinal mass ± air
+- thoracic vertebral anomaly
+- contrast material may enter through distal connection
+- paragastric cystic mass up to 12 cm in size, indenting greater curvature
+- seldom communicates with main gastric lumen at one / both ends
+- may enlarge + ulcerate
+- 99mTc uptake
+
+### MR
+
+- heterogeneous SI of intracystic fluid on T1WI + homogeneous high SI on T2WI
+- area of high attenuation ← hemorrhage / proteinaceous material
+- thick enhancing wall / septum + surrounding inflammation
+- enhancing solid focus within cyst
+- thick-walled closed spherical cyst, almost never communicating
+
+### CXR
+
+- posterior mediastinal mass ± air-fluid level
+- lobar consolidation + central cavitation ← autodigestion of lung tissue by gastric
+- thoracic vertebral anomalies
+- displacement of esophagus by paraesophageal mass
+- intramural extramucosal mass
+
+## Clinical
+
+- **Cx:** (1)  Bowel obstruction by intussusception ← cyst at ileocecal junction
+- **Rx:** surgical excision
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

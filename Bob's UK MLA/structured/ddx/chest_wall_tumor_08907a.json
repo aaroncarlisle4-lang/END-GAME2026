@@ -1,0 +1,72 @@
+{
+  "finding": "Chest Wall Tumor",
+  "slug": "chest_wall_tumor_08907a",
+  "chapter": "D. HYPERCALCEMIA",
+  "source_file": "processed_clusters/d_hypercalcemia/chest_wall_tumor_08907a.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "BONE TUMOR (a)  malignant osseous chest wall tumor ◊  Primary bone tumors of the chest wall represent only 5-8% of all skeletal masses!",
+      "raw": "BONE TUMOR (a)  malignant osseous chest wall tumor ◊  Primary bone tumors of the chest wall represent only 5-8% of all skeletal masses!",
+      "frequency": "8%"
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Chondrosarcoma",
+      "raw": "Chondrosarcoma (33% of primary rib tumors)",
+      "frequency": "33%"
+    },
+    {
+      "name": "Myeloma",
+      "raw": "Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma (b)  benign osseous chest wall tumor",
+      "raw": "Ewing sarcoma (b)  benign osseous chest wall tumor",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Enchondroma",
+      "raw": "Enchondroma",
+      "frequency": null
+    },
+    {
+      "name": "Osteochondroma",
+      "raw": "Osteochondroma (8% of all rib tumors)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Chondroblastoma",
+      "raw": "Chondroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "ABC",
+      "raw": "ABC",
+      "frequency": null
+    },
+    {
+      "name": "GCT",
+      "raw": "GCT",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  Sternal tumors are usually malignant!"
+}

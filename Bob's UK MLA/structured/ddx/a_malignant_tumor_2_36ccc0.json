@@ -1,0 +1,32 @@
+{
+  "finding": "A. MALIGNANT TUMOR",
+  "slug": "a_malignant_tumor_2_36ccc0",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/a_malignant_tumor_2_36ccc0.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malignant lymphoma / Hodgkin disease",
+      "raw": "Malignant lymphoma / Hodgkin disease",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

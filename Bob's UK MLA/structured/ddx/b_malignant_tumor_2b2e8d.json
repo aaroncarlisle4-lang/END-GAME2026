@@ -1,0 +1,47 @@
+{
+  "finding": "B. MALIGNANT TUMOR",
+  "slug": "b_malignant_tumor_2b2e8d",
+  "chapter": "Spectrum of Orbital Disorders",
+  "source_file": "processed_clusters/spectrum_of_orbital_disorders/b_malignant_tumor_2b2e8d.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma / leukemia",
+      "raw": "Lymphoma / leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Others",
+      "raw": "Others (rhabdomyosarcoma, lymphangioma, sinus lesion)",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma, Lacrimal gland tumor",
+      "raw": "Lymphoma, Lacrimal gland tumor",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid",
+      "raw": "Dermoid",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

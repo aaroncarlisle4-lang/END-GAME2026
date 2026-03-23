@@ -1,0 +1,57 @@
+{
+  "finding": "E. INFLAMMATORY LESION",
+  "slug": "e_inflammatory_lesion_479e6d",
+  "chapter": "D. Vascular",
+  "source_file": "processed_clusters/d_vascular/e_inflammatory_lesion_479e6d.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cellulitis",
+      "raw": "Cellulitis",
+      "frequency": null
+    },
+    {
+      "name": "Fasciitis =  inflammation / infection of fascia",
+      "raw": "Fasciitis =  inflammation / infection of fascia",
+      "frequency": null
+    },
+    {
+      "name": "Adenitis",
+      "raw": "Adenitis",
+      "frequency": null
+    },
+    {
+      "name": "Abscess =  confined focal collection of pus or necrotic tissue + WBCs + bacteria",
+      "raw": "Abscess =  confined focal collection of pus or necrotic tissue + WBCs + bacteria",
+      "frequency": null
+    },
+    {
+      "name": "Phlegmon =  poorly defined region with edema-like pattern and indistinct margins",
+      "raw": "Phlegmon =  poorly defined region with edema-like pattern and indistinct margins",
+      "frequency": null
+    },
+    {
+      "name": "FATTY",
+      "raw": "FATTY",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiolipoma",
+      "raw": "Angiolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma",
+      "raw": "Liposarcoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  inflammation / infection of cutis + subcutis without gross suppuration √  thickened skin with reticulated fluidlike SI √  fascial thickening + enhancement √  intermediate SI on non-fat-suppressed T2WI √  fluidlike signal intensity + rim of enhancement Histologic Classification of Soft-tissue Lesions"
+}

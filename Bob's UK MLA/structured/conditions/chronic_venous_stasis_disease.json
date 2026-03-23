@@ -1,0 +1,21 @@
+{
+  "name": "CHRONIC VENOUS STASIS DISEASE",
+  "slug": "chronic_venous_stasis_disease",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/chronic_venous_stasis_disease.md",
+  "definition": "CHRONIC VENOUS INSUFFICIENCY insufficiency / incompetence of venous valves in deep venous system of lower extremity to level of upper thigh to level of lower thigh to level of calf veins",
+  "demographics": {
+    "Associated with": "incompetent venous valves in calf ← pressure dilatation from stasis in"
+  },
+  "dominant_finding": "venous reflux on descending venography with Valsalva:",
+  "distribution": "",
+  "discriminating_features": [
+    "venous reflux on descending venography with Valsalva:"
+  ],
+  "other_features": {
+    "general": [
+      "venous reflux on descending venography with Valsalva:"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "B. DIFFUSE FORM = Pneumonic form (10-40%",
+  "slug": "b_diffuse_form_pneumonic_form_10_40",
+  "chapter": "BRONCHIOLITIS",
+  "source_file": "processed_clusters/bronchiolitis/b_diffuse_form_pneumonic_form_10_40.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Diffuse consolidation",
+      "raw": "Diffuse consolidation (30%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Lobar form",
+      "raw": "Lobar form",
+      "frequency": null
+    },
+    {
+      "name": "Multinodular form",
+      "raw": "Multinodular form (27%)",
+      "frequency": "27%"
+    },
+    {
+      "name": "consolidation despite treatment with antibiotics",
+      "raw": "consolidation despite treatment with antibiotics",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  acinar airspace consolidation + air bronchogram + poorly marginated borders √  airspace consolidation may affect both lungs (mucus secretion) √  ± cavitation within consolidation √  \"CT angiogram\" sign = low-attenuation consolidation does NOT obscure vessels (mucin-producing subtype) √  ± expansion of a lobe with bulging of interlobar fissures √  multiple bilateral poorly / well-defined nodules similar to metastatic disease √  multiple poorly defined areas of ground-glass attenuation / consolidation √  pleural effusion (8-10%) Prognosis:   worse with extensive consolidation / multifocal / b"
+}

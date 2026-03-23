@@ -1,0 +1,43 @@
+{
+  "name": "AORTOENTERIC FISTULA",
+  "slug": "aortoenteric_fistula",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/aortoenteric_fistula.md",
+  "definition": "life-threatening condition complication of atherosclerotic aortic aneurysms WITHOUT previous aortic surgery / trauma complication of aortic reconstructive surgery / stent graft rare life-threatening subtype of intramural hematoma",
+  "demographics": {
+    "Incidence": "0.007÷1,000,000 annually",
+    "Location": "horizontal + ascending duodenum (80%)",
+    "Frequency": "3.5% of all deaths ← upper esophageal bleeding"
+  },
+  "dominant_finding": "enhancing subepithelial esophageal mass with fistulous tract between aorta +",
+  "distribution": "horizontal + ascending duodenum (80%)",
+  "discriminating_features": [
+    "extravasation of contrast material into bowel lumen (extremely rare but most SPECIFIC)",
+    "ectopic gas adjacent to / within aorta (KEY FINDING)",
+    "obliteration of fat plane between aorta and bowel",
+    "± hematoma in retroperitoneum / bowel wall or lumen",
+    "loss of fat plane between aorta and adjacent bowel, pseudoaneurysm, disruption of aortic"
+  ],
+  "other_features": {
+    "general": [
+      "ectopic gas adjacent to / within aorta (KEY FINDING)",
+      "obliteration of fat plane between aorta and bowel",
+      "± hematoma in retroperitoneum / bowel wall or lumen",
+      "loss of fat plane between aorta and adjacent bowel, pseudoaneurysm, disruption of aortic",
+      "tethering / puckering of bowel wall toward aorta",
+      "perigraft soft-tissue edema, fluid / hematoma:",
+      "hyperattenuating fluid collection / mass acute = hematoma / partially thrombosed",
+      "ectopic gas",
+      "focal bowel wall thickening (challenging if involved bowel loop not distended)",
+      "breach of the aortic wall",
+      "extravasation of contrast material into bowel lumen (extremely rare but most SPECIFIC)",
+      "leakage of enteric contrast into periaortic space (rare)"
+    ],
+    "CT": [
+      "enhancing subepithelial esophageal mass with fistulous tract between aorta +"
+    ]
+  },
+  "clinical": {
+    "N.B.": "resolution within 2-3 months after surgery"
+  }
+}

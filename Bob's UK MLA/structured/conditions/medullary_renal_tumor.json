@@ -1,0 +1,49 @@
+{
+  "name": "MEDULLARY RENAL TUMOR",
+  "slug": "medullary_renal_tumor",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/medullary_renal_tumor.md",
+  "definition": "BELLINI DUCT CARCINOMA highly aggressive malignant tumor of epithelial origin occurring almost exclusively in",
+  "demographics": {
+    "Frequency": "1-2% of all renal cancers",
+    "Mean age": "55 (range, 13-80) years",
+    "Histo": "mostly high-grade tumor"
+  },
+  "dominant_finding": "heterogeneous ← varying amounts of hemorrhage and necrosis",
+  "distribution": "renal sinus invasion",
+  "discriminating_features": [
+    "infiltrative neoplasm centered in medulla:",
+    "renal sinus invasion",
+    "extension into cortex (frequent)",
+    "± coexisting expansile component",
+    "large tumor at presentation"
+  ],
+  "other_features": {
+    "general": [
+      "infiltrative neoplasm centered in medulla:",
+      "renal sinus invasion",
+      "extension into cortex (frequent)",
+      "± coexisting expansile component",
+      "large tumor at presentation"
+    ],
+    "US": [
+      "hyperechoic mass"
+    ],
+    "ANGIO": [
+      "hypovascular mass"
+    ],
+    "MR": [
+      "hypointense mass on T2WI",
+      "large ill-defined mass centered in renal medulla:",
+      "heterogeneous ← varying amounts of hemorrhage and necrosis",
+      "extension into renal sinus and cortex",
+      "± peripheral caliectasis",
+      "heterogeneous enhancement",
+      "reniform enlargement with shape of kidney preserved",
+      "small peripheral satellite nodules"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "aggressive clinical course with 33% surviving > 2 years"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "finding": "Intradural Extramedullary Mass",
+  "slug": "intradural_extramedullary_mass",
+  "chapter": "C. VASCULAR",
+  "source_file": "processed_clusters/c_vascular/intradural_extramedullary_mass.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nerve sheath tumor",
+      "raw": "Nerve sheath tumor (35%)",
+      "frequency": "35%"
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid commonly conus / cauda equina; associated with spinal dysraphism",
+      "raw": "Dermoid commonly conus / cauda equina; associated with spinal dysraphism (⅓)",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma commonly filum terminale; NO spinal dysraphism",
+      "raw": "Ependymoma commonly filum terminale; NO spinal dysraphism",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis (a)  \"Drop metastases\" from CNS tumors (b)  Metastases from outside CNS",
+      "raw": "Metastasis (a)  \"Drop metastases\" from CNS tumors (b)  Metastases from outside CNS",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Neurenteric cyst",
+      "raw": "Neurenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioblastoma",
+      "raw": "Hemangioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Paraganglioma",
+      "raw": "Paraganglioma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoiditis",
+      "raw": "Arachnoiditis",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "AVM, Arachnoid cyst",
+      "raw": "AVM, Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "C. Hypodense",
+  "slug": "c_hypodense_3f5a81",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/c_hypodense_3f5a81.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Chronic subdural hematoma",
+      "raw": "Chronic subdural hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Subdural hygroma",
+      "raw": "Subdural hygroma",
+      "frequency": null
+    },
+    {
+      "name": "Effusion from meningoencephalitis",
+      "raw": "Effusion from meningoencephalitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

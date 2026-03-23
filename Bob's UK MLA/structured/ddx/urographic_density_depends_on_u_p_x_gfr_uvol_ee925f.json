@@ -1,0 +1,52 @@
+{
+  "finding": "UROGRAPHIC DENSITY depends on [U] = {[P] x GFR} / Uvol",
+  "slug": "urographic_density_depends_on_u_p_x_gfr_uvol_ee925f",
+  "chapter": "Potential Routes of Interfascial Communication",
+  "source_file": "processed_clusters/potential_routes_of_interfascial_communication/urographic_density_depends_on_u_p_x_gfr_uvol_ee925f.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Concentration of contrast material in plasma [P] is a function of (a)  total iodine dose (b)  contrast injection rate (c)  volume distribution",
+      "raw": "Concentration of contrast material in plasma [P] is a function of (a)  total iodine dose (b)  contrast injection rate (c)  volume distribution",
+      "frequency": null
+    },
+    {
+      "name": "rapid mixing within vascular compartment",
+      "raw": "rapid mixing within vascular compartment",
+      "frequency": null
+    },
+    {
+      "name": "diffusion into extravascular extracellular fluid space",
+      "raw": "diffusion into extravascular extracellular fluid space (capillary permeation)",
+      "frequency": null
+    },
+    {
+      "name": "renal excretion",
+      "raw": "renal excretion",
+      "frequency": null
+    },
+    {
+      "name": "Glomerular filtration rate (GFR): 99% filtered",
+      "raw": "Glomerular filtration rate (GFR): 99% filtered",
+      "frequency": "99%"
+    },
+    {
+      "name": "Urine volume (Uvol):",
+      "raw": "Urine volume (Uvol):",
+      "frequency": null
+    },
+    {
+      "name": "MEGLUMINE no metabolization, excreted by glomerular filtration alone",
+      "raw": "MEGLUMINE no metabolization, excreted by glomerular filtration alone",
+      "frequency": null
+    },
+    {
+      "name": "SODIUM extensive reabsorption by tubules with delayed excretion",
+      "raw": "SODIUM extensive reabsorption by tubules with delayed excretion",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Rapid decline of concentration of contrast material in vessels due to: (a)  in dehydrated state → increased ADH activity → higher concentrations of contrast material ◊  Dehydration is considered a risk-potentiating factor for nephrotoxicity! (b)  in volume-expanded state → decreased ADH activity → lower concentrations of contrast material ◊  Patients with CHF require higher doses of contrast material! Meglumine effect of osmotic diuresis: (a)  lower concentration of urinary iodine per mL urine (b)  greater distension of collecting system N.B.:   Avoid meglumine in \"at risk\" patients (higher in"
+}

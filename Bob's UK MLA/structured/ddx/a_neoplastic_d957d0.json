@@ -1,0 +1,82 @@
+{
+  "finding": "A. NEOPLASTIC",
+  "slug": "a_neoplastic_d957d0",
+  "chapter": "RETROPERITONEUM",
+  "source_file": "processed_clusters/retroperitoneum/a_neoplastic_d957d0.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic degeneration of solid neoplasm:",
+      "raw": "Cystic degeneration of solid neoplasm:",
+      "frequency": null
+    },
+    {
+      "name": "Cystic teratoma",
+      "raw": "Cystic teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Retroperitoneal lymphangioma",
+      "raw": "Retroperitoneal lymphangioma (1% of all retroperitoneal neoplasms)",
+      "frequency": "1%"
+    },
+    {
+      "name": "Lymphangiomatosis",
+      "raw": "Lymphangiomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiomyomatosis",
+      "raw": "Lymphangiomyomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Cystadenoma / cystadenocarcinoma: mucinous / serous",
+      "raw": "Cystadenoma / cystadenocarcinoma: mucinous / serous",
+      "frequency": null
+    },
+    {
+      "name": "Cystic mesothelioma",
+      "raw": "Cystic mesothelioma",
+      "frequency": null
+    },
+    {
+      "name": "CYSTS:",
+      "raw": "CYSTS:",
+      "frequency": null
+    },
+    {
+      "name": "Müllerian cyst",
+      "raw": "Müllerian cyst",
+      "frequency": null
+    },
+    {
+      "name": "obese woman under hormonal replacement therapy",
+      "raw": "obese woman under hormonal replacement therapy",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid cyst",
+      "raw": "Epidermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Tailgut cyst",
+      "raw": "Tailgut cyst",
+      "frequency": null
+    },
+    {
+      "name": "Pseudocyst",
+      "raw": "Pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "Hx of acute pancreatitis, elevated amylase level",
+      "raw": "Hx of acute pancreatitis, elevated amylase level",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  paraganglioma ›  schwannoma (neurilemmoma) »  ancient schwannoma ›  leiomyosarcoma Location:   midline presacral √  unilocular"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Pseudomonas infection; other gram-negative organisms",
+  "slug": "pseudomonas_infection_other_gram_negative_organisms_38a9c3",
+  "chapter": "E. OTHERS",
+  "source_file": "processed_clusters/e_others/pseudomonas_infection_other_gram_negative_organisms_38a9c3.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Burns",
+      "raw": "Burns",
+      "frequency": null
+    },
+    {
+      "name": "Hypotension",
+      "raw": "Hypotension",
+      "frequency": null
+    },
+    {
+      "name": "Pregnancy",
+      "raw": "Pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Cardiovascular disease",
+      "raw": "Cardiovascular disease",
+      "frequency": null
+    },
+    {
+      "name": "Exogenous adrenocorticotropic hormone",
+      "raw": "Exogenous adrenocorticotropic hormone",
+      "frequency": null
+    },
+    {
+      "name": "Exogenous steroids",
+      "raw": "Exogenous steroids",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "Mimics of Vocal Cord Paralysis",
+  "slug": "mimics_of_vocal_cord_paralysis",
+  "chapter": "LARYNX",
+  "source_file": "processed_clusters/larynx/mimics_of_vocal_cord_paralysis.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tilted patient positioning",
+      "raw": "Tilted patient positioning (oblique imaging)",
+      "frequency": null
+    },
+    {
+      "name": "Invasion of aryepiglottic cartilage by squamous cell carcinoma of larynx / piriform sinus",
+      "raw": "Invasion of aryepiglottic cartilage by squamous cell carcinoma of larynx / piriform sinus",
+      "frequency": null
+    },
+    {
+      "name": "Arytenoid cartilage dislocation / subluxation",
+      "raw": "Arytenoid cartilage dislocation / subluxation",
+      "frequency": null
+    },
+    {
+      "name": "Injection laryngoplasty",
+      "raw": "Injection laryngoplasty",
+      "frequency": null
+    },
+    {
+      "name": "NORMAL VARIANT",
+      "raw": "NORMAL VARIANT",
+      "frequency": null
+    },
+    {
+      "name": "Prominent normal epiglottis",
+      "raw": "Prominent normal epiglottis",
+      "frequency": null
+    },
+    {
+      "name": "Omega epiglottis",
+      "raw": "Omega epiglottis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  subglottic air seen anterior to obliquely imaged vocal cord ≠ dilated laryngeal ventricle √  immobilization of vocal cords √  apparent medialization of cord by thickening from enhancing tumor √  obliteration of normal fat planes √  sclerosis of adjacent cartilage √  regional lymphadenopathy √  poorly defined cricoarytenoid joint √  disparity in height of vocal cords (coronal CT) √  \"medialization\" of paralyzed cord (to improve glottis closure + competence) Epiglottic Enlargement"
+}

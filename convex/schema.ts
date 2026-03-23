@@ -86,6 +86,7 @@ export default defineSchema({
         associatedFindings: v.optional(v.string()),
         complicationsSeriousAlternatives: v.optional(v.string()),
         isCorrectDiagnosis: v.optional(v.boolean()),
+        dahnertConditionSlug: v.optional(v.string()), // links to dahnertConditions.slug
         // Old fields for backward compatibility during migration
         keyImagingPattern: v.optional(v.string()),
         distribution: v.optional(v.string()),
@@ -108,7 +109,9 @@ export default defineSchema({
     })),
     // Problem cluster for differential reasoning
     problemCluster: v.optional(v.string()), // e.g. "aggressive bone lesion", "erosive arthropathy", "metabolic bone disease"
-  }).index("by_longCaseId", ["longCaseId"]),
+  })
+    .index("by_longCaseId", ["longCaseId"])
+    .index("by_pattern", ["pattern"]),
 
   rapidCases: defineTable({
     categoryId: v.id("categories"),
@@ -200,10 +203,12 @@ export default defineSchema({
     clinicalPresentation: v.string(),
     top3: v.array(v.string()),
     additional: v.array(v.string()),
+    dahnertDdxSlug: v.optional(v.string()), // links to dahnertDDxClusters.slug
   })
     .index("by_category", ["categoryAbbreviation"])
     .index("by_section", ["section"])
-    .index("by_caseNumber", ["obrienCaseNumber"]),
+    .index("by_caseNumber", ["obrienCaseNumber"])
+    .index("by_pattern", ["pattern"]),
 
   chapmanACE: defineTable({
     itemNumber: v.string(),
@@ -235,15 +240,49 @@ export default defineSchema({
     sourceType: v.union(
       v.literal("differentialPattern"),
       v.literal("mnemonic"),
-      v.literal("chapman")
+      v.literal("chapman"),
+      v.literal("rapidCase")
     ),
     sourceId: v.string(),
     storageId: v.optional(v.id("_storage")),
     externalUrl: v.optional(v.string()),
+    s3Key: v.optional(v.string()),
+    s3Bucket: v.optional(v.string()),
+    storageProvider: v.optional(v.union(
+      v.literal("convex"),
+      v.literal("external"),
+      v.literal("s3")
+    )),
     caption: v.optional(v.string()),
     caseGroup: v.optional(v.string()),
     attribution: v.optional(v.string()),
     sortOrder: v.number(),
+    createdAt: v.number(),
+  })
+    .index("by_source", ["sourceType", "sourceId"]),
+
+  studyManifests: defineTable({
+    sourceType: v.union(
+      v.literal("differentialPattern"),
+      v.literal("mnemonic"),
+      v.literal("chapman"),
+      v.literal("rapidCase")
+    ),
+    sourceId: v.string(),
+    caseGroup: v.string(),
+    attribution: v.optional(v.string()),
+    storageProvider: v.union(
+      v.literal("convex"),
+      v.literal("external"),
+      v.literal("s3")
+    ),
+    slices: v.array(v.object({
+      url: v.string(),
+      storageId: v.optional(v.id("_storage")),
+      s3Key: v.optional(v.string()),
+      caption: v.optional(v.string()),
+      sortOrder: v.number(),
+    })),
     createdAt: v.number(),
   })
     .index("by_source", ["sourceType", "sourceId"]),
@@ -302,10 +341,74 @@ export default defineSchema({
       filterFields: ["category", "sourceBook"],
     }),
 
+  highYieldClusters: defineTable({
+    category: v.string(),
+    clusterName: v.string(),
+    sortOrder: v.number(),
+    sourceType: v.union(v.literal("pattern"), v.literal("mnemonic")),
+    patternId: v.optional(v.id("differentialPatterns")),
+    mnemonicId: v.optional(v.id("mnemonics")),
+    dahnertDdxSlug: v.optional(v.string()), // links to dahnertDDxClusters.slug
+  }).index("by_category", ["category"]),
+
   searchCache: defineTable({
     query: v.string(),
     embedding: v.array(v.float64()),
     results: v.array(v.id("textbookKnowledge")),
     createdAt: v.number(),
   }).index("by_query", ["query"]),
+
+  dahnertDDxClusters: defineTable({
+    finding: v.string(),          // "Solitary Pulmonary Nodule"
+    slug: v.string(),             // unique, deduped key
+    chapter: v.string(),          // Dahnert chapter / section heading
+    clusterType: v.string(),      // "differential" | "framework" | "mixed"
+    qualityScore: v.number(),     // 0.0–1.0 from extraction pipeline
+    differentials: v.array(v.object({
+      name: v.string(),                          // diagnosis name
+      rank: v.number(),                          // list position (frequency proxy)
+      frequency: v.optional(v.string()),
+      // Dahnert condition enrichment (populated by enrich script)
+      conditionSlug: v.optional(v.string()),     // links to dahnertConditions.slug
+      definition: v.optional(v.string()),
+      dominantFinding: v.optional(v.string()),
+      distribution: v.optional(v.string()),
+      demographics: v.optional(v.string()),      // joined demographics string
+      discriminatingFeatures: v.optional(v.array(v.string())),
+    })),
+    context: v.optional(v.string()), // extra context text from source
+  })
+    .index("by_slug", ["slug"])
+    .index("by_finding", ["finding"])
+    .index("by_chapter", ["chapter"])
+    .index("by_quality", ["qualityScore"]),
+
+  dahnertConditions: defineTable({
+    name: v.string(),                         // "GLIOBLASTOMA MULTIFORME"
+    slug: v.string(),                         // "glioblastoma_multiforme" — unique source key
+    chapter: v.string(),                      // Dahnert chapter heading
+    definition: v.optional(v.string()),
+    demographics: v.optional(v.array(v.string())),  // ["Age: peak 65-75 years", "M:F = 3:2"]
+    dominantFinding: v.optional(v.string()),
+    distribution: v.optional(v.string()),
+    discriminatingFeatures: v.array(v.string()),
+    modalityFindings: v.object({
+      general:  v.optional(v.array(v.string())),
+      xray:     v.optional(v.array(v.string())),
+      cxr:      v.optional(v.array(v.string())),
+      ct:       v.optional(v.array(v.string())),
+      cect:     v.optional(v.array(v.string())),
+      nect:     v.optional(v.array(v.string())),
+      hrct:     v.optional(v.array(v.string())),
+      mri:      v.optional(v.array(v.string())),
+      us:       v.optional(v.array(v.string())),
+      angio:    v.optional(v.array(v.string())),
+      nuc:      v.optional(v.array(v.string())),
+      pet:      v.optional(v.array(v.string())),
+    }),
+    clinical: v.optional(v.array(v.string())), // ["Rx: surgery + radiation", "Prognosis: 16 months"]
+  })
+    .index("by_slug", ["slug"])
+    .index("by_chapter", ["chapter"])
+    .index("by_name", ["name"]),
 });

@@ -1,0 +1,22 @@
+{
+  "finding": "Congenital Lobar Overinflation (DDx)",
+  "slug": "congenital_lobar_overinflation_ddx",
+  "chapter": "Congenital Lobar Overinflation",
+  "source_file": "processed_clusters/congenital_lobar_overinflation/congenital_lobar_overinflation_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pneumothorax",
+      "raw": "pneumothorax",
+      "frequency": null
+    },
+    {
+      "name": "pulmonary cyst",
+      "raw": "pulmonary cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "depression of ipsilateral hemidiaphragm | widely separated but organized vascular markings | homogeneously hyperechoic mass | mass of homogeneously high SI on T2WI"
+}

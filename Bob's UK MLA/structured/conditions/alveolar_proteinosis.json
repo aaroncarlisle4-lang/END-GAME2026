@@ -1,0 +1,41 @@
+{
+  "name": "ALVEOLAR PROTEINOSIS",
+  "slug": "alveolar_proteinosis",
+  "chapter": "CHEST DISORDERS",
+  "source_file": "processed_clusters/disease_entries/chest_disorders/alveolar_proteinosis.md",
+  "definition": "PULMONARY ALVEOLAR PROTEINOSIS (PAP) rare disorder characterized by accumulation of lipoproteinaceous material in alveoli ←",
+  "demographics": {
+    "Age": "median 39 years; M>> F",
+    "Histo": "alveoli filled with proteinaceous material (the ONLY pure airspace disease), normal"
+  },
+  "dominant_finding": "sharp demarcation between normal + abnormal lung",
+  "distribution": "bilateral air-space disease with ill-defined nodular / confluent ground-glass pattern:",
+  "discriminating_features": [
+    "bilateral air-space disease with ill-defined nodular / confluent ground-glass pattern:",
+    "perihilar predominance of \"bat-wing\" configuration WITHOUT signs of left-sided heart",
+    "small acinar nodules + coalescence + consolidation",
+    "patchy peripheral / primarily unilateral infiltrates (rare)",
+    "reticular / reticulonodular / linear interstitial pattern with Kerley B lines (late stage)"
+  ],
+  "other_features": {
+    "general": [
+      "bilateral air-space disease with ill-defined nodular / confluent ground-glass pattern:",
+      "perihilar predominance of \"bat-wing\" configuration WITHOUT signs of left-sided heart",
+      "small acinar nodules + coalescence + consolidation",
+      "patchy peripheral / primarily unilateral infiltrates (rare)",
+      "reticular / reticulonodular / linear interstitial pattern with Kerley B lines (late stage)",
+      "slow clearing over weeks or months",
+      "slow progression (⅓), remaining stable (⅔)",
+      "NO adenopathy, NO cardiomegaly, NO pleural effusion"
+    ],
+    "HRCT": [
+      "crazy-paving pattern = combination of patchy ground-glass opacities + smooth interlobular",
+      "sharp demarcation between normal + abnormal lung",
+      "consolidation"
+    ]
+  },
+  "clinical": {
+    "Cx": "susceptible to pulmonary infections ← poorly functioning macrophages + excellent culture",
+    "Rx": "bronchopulmonary lavage"
+  }
+}

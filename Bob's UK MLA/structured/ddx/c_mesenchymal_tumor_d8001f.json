@@ -1,0 +1,42 @@
+{
+  "finding": "C. MESENCHYMAL TUMOR",
+  "slug": "c_mesenchymal_tumor_d8001f",
+  "chapter": "B. LYMPHOPROLIFERATIVE",
+  "source_file": "processed_clusters/b_lymphoproliferative/c_mesenchymal_tumor_d8001f.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoma",
+      "raw": "Sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Solitary fibrous tumor",
+      "raw": "Solitary fibrous tumor",
+      "frequency": null
+    },
+    {
+      "name": "Leiomyoma",
+      "raw": "Leiomyoma",
+      "frequency": null
+    },
+    {
+      "name": "GIST",
+      "raw": "GIST",
+      "frequency": null
+    },
+    {
+      "name": "Hemangiopericytoma",
+      "raw": "Hemangiopericytoma",
+      "frequency": null
+    },
+    {
+      "name": "Congenital pelvic AVM",
+      "raw": "Congenital pelvic AVM",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

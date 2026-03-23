@@ -1,0 +1,27 @@
+{
+  "finding": "Arteriovenous Fistula (DDx)",
+  "slug": "arteriovenous_fistula_ddx",
+  "chapter": "Arteriovenous Fistula",
+  "source_file": "processed_clusters/arteriovenous_fistula/arteriovenous_fistula_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cavernous sinus thrombosis",
+      "raw": "cavernous sinus thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "enhancing cavernous sinus mass (meningioma",
+      "raw": "enhancing cavernous sinus mass (meningioma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis)",
+      "raw": "metastasis)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "ipsilateral ICA contrast injection shows wall of ICA to be incomplete | contralateral ICA contrast injection + compression of involved ICA | early opacification of veins of cavernous sinus | retrograde flow through dilated superior ophthalmic vein"
+}

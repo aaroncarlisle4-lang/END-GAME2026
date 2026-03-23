@@ -1,0 +1,32 @@
+{
+  "finding": "Fibromuscular Dysplasia — Abdominal aorta: (DDx)",
+  "slug": "fibromuscular_dysplasia_abdominal_aorta_ddx_e78dab",
+  "chapter": "Fibromuscular Dysplasia",
+  "source_file": "processed_clusters/fibromuscular_dysplasia/fibromuscular_dysplasia_abdominal_aorta_ddx_e78dab.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Takayasu arteritis",
+      "raw": "Takayasu arteritis",
+      "frequency": null
+    },
+    {
+      "name": "sclerosing arteritis",
+      "raw": "sclerosing arteritis",
+      "frequency": null
+    },
+    {
+      "name": "vessel spasm",
+      "raw": "vessel spasm",
+      "frequency": null
+    },
+    {
+      "name": "arterial hypoplasia",
+      "raw": "arterial hypoplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "long irregular stenosis | beading = NO aneurysm formation (diameter of beads not wider than normal diameter | long smooth concentric tubular narrowing"
+}

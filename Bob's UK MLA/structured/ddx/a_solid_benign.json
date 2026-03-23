@@ -1,0 +1,32 @@
+{
+  "finding": "A. SOLID BENIGN",
+  "slug": "a_solid_benign",
+  "chapter": "ATLAS AND AXIS",
+  "source_file": "processed_clusters/atlas_and_axis/a_solid_benign.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Benign peripheral nerve sheath tumor (PNST):",
+      "raw": "Benign peripheral nerve sheath tumor (PNST):",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Extradural cavernous hemangioma",
+      "raw": "Extradural cavernous hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Congenital absence / hypoplasia of pedicle",
+      "raw": "Congenital absence / hypoplasia of pedicle",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  Neurofibroma ›  Neurilemmoma = schwannoma"
+}

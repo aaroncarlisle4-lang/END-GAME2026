@@ -1,0 +1,22 @@
+{
+  "finding": "Ossifying Fibroma — Mandible, maxilla (DDx)",
+  "slug": "ossifying_fibroma_mandible_maxilla_ddx",
+  "chapter": "Ossifying Fibroma",
+  "source_file": "processed_clusters/ossifying_fibroma/ossifying_fibroma_mandible_maxilla_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "fibrous dysplasia",
+      "raw": "fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "cementifying fibroma (arises from periodontal ligament in molar",
+      "raw": "cementifying fibroma (arises from periodontal ligament in molar",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "enhancement of shell + solid tumor portions | lesion isointense relative to muscle on T1WI | hypointense relative to muscle on T2WI | foci of high T2-signal intensity ← fluid-filled cystic spaces"
+}

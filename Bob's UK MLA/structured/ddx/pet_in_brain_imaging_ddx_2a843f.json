@@ -1,0 +1,32 @@
+{
+  "finding": "Pet In Brain Imaging (DDx)",
+  "slug": "pet_in_brain_imaging_ddx_2a843f",
+  "chapter": "Pet In Brain Imaging",
+  "source_file": "processed_clusters/pet_in_brain_imaging/pet_in_brain_imaging_ddx_2a843f.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "frontal lobe dementia",
+      "raw": "frontal lobe dementia",
+      "frequency": null
+    },
+    {
+      "name": "primary progressive aphasia without dementia",
+      "raw": "primary progressive aphasia without dementia",
+      "frequency": null
+    },
+    {
+      "name": "normal- pressure hydrocephalus",
+      "raw": "normal- pressure hydrocephalus",
+      "frequency": null
+    },
+    {
+      "name": "multi-infarct dementia",
+      "raw": "multi-infarct dementia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "measurement of opiate receptor density with 11C-labeled carfentanil (= high-affinity | bilateral temporoparietal hypoperfusion + hypometabolism → decreased FDG uptake | sparing of sensory and motor cortex + basal ganglia + thalamus | atrophy of entire brain with predilection for hippocampus"
+}

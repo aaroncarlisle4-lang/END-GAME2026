@@ -1,0 +1,57 @@
+{
+  "finding": "Mass in Nasopharynx",
+  "slug": "mass_in_nasopharynx_f8769c",
+  "chapter": "NOSE",
+  "source_file": "processed_clusters/nose/mass_in_nasopharynx_f8769c.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Nasopharyngeal carcinoma",
+      "raw": "Nasopharyngeal carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiofibroma",
+      "raw": "Angiofibroma (juvenile)",
+      "frequency": null
+    },
+    {
+      "name": "Spine / skull fracture",
+      "raw": "Spine / skull fracture",
+      "frequency": null
+    },
+    {
+      "name": "Adenoids",
+      "raw": "Adenoids",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Polyp",
+      "raw": "Polyp",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Plasmacytoma",
+      "raw": "Plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "Extension of neoplasm",
+      "raw": "Extension of neoplasm (sphenoid / ethmoid sinus ca.)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

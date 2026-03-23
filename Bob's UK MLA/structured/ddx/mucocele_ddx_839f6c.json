@@ -1,0 +1,27 @@
+{
+  "finding": "Mucocele (DDx)",
+  "slug": "mucocele_ddx_839f6c",
+  "chapter": "Mucocele",
+  "source_file": "processed_clusters/mucocele/mucocele_ddx_839f6c.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "paranasal sinus carcinoma",
+      "raw": "paranasal sinus carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "mucus retention cyst",
+      "raw": "mucus retention cyst",
+      "frequency": null
+    },
+    {
+      "name": "Aspergillus infection (enlargement of",
+      "raw": "Aspergillus infection (enlargement of",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "expansive well-delineated mass with homogeneously hyperintense T1 and T2 signal: | signal intensity varies with state of hydration, protein content, hemorrhage, air content, | hypointense on T1WI + signal void on T2WI ← inspissated debris + fungus | NO enhancement / peripheral enhancement pattern (DDx from solid enhancement pattern"
+}

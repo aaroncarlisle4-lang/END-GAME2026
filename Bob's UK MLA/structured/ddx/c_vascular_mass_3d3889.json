@@ -1,0 +1,57 @@
+{
+  "finding": "C. VASCULAR MASS",
+  "slug": "c_vascular_mass_3d3889",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/c_vascular_mass_3d3889.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Aneurysm of descending aorta",
+      "raw": "Aneurysm of descending aorta (curvilinear calcification; elderly)",
+      "frequency": null
+    },
+    {
+      "name": "Enlarged azygos + accessory hemiazygos vein",
+      "raw": "Enlarged azygos + accessory hemiazygos vein",
+      "frequency": null
+    },
+    {
+      "name": "Esophageal varices",
+      "raw": "Esophageal varices",
+      "frequency": null
+    },
+    {
+      "name": "Congenital vascular anomalies:",
+      "raw": "Congenital vascular anomalies:",
+      "frequency": null
+    },
+    {
+      "name": "TRAUMA",
+      "raw": "TRAUMA",
+      "frequency": null
+    },
+    {
+      "name": "Aortic aneurysm / pseudoaneurysm",
+      "raw": "Aortic aneurysm / pseudoaneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Loculated hemothorax",
+      "raw": "Loculated hemothorax",
+      "frequency": null
+    },
+    {
+      "name": "Traumatic pseudomeningocele",
+      "raw": "Traumatic pseudomeningocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "aberrant subclavian artery, double aortic arch, pulmonary sling, interruption of IVC with azygos / hemiazygos continuation"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Metastasis To Brain (DDx)",
+  "slug": "metastasis_to_brain_ddx",
+  "chapter": "Metastasis To Brain",
+  "source_file": "processed_clusters/metastasis_to_brain/metastasis_to_brain_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "glioma (indistinct border",
+      "raw": "glioma (indistinct border",
+      "frequency": null
+    },
+    {
+      "name": "less well defined",
+      "raw": "less well defined",
+      "frequency": null
+    },
+    {
+      "name": "lesser amount of vasogenic edema); multifocal inflammatory lesions",
+      "raw": "lesser amount of vasogenic edema); multifocal inflammatory lesions",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hypointensity more pronounced in melanoma + mucinous adenocarcinoma ← | homogeneous / ring / nodular mixed enhancement after Gd-DTPA; often more than one | asymmetric enhancement of dura with dural spread | leptomeningeal enhancement (eg, in metastatic ependymoma)"
+}

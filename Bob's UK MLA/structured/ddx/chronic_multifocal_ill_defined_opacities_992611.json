@@ -1,0 +1,37 @@
+{
+  "finding": "Chronic Multifocal Ill-defined Opacities",
+  "slug": "chronic_multifocal_ill_defined_opacities_992611",
+  "chapter": "Segmental & Lobar Densities",
+  "source_file": "processed_clusters/segmental_lobar_densities/chronic_multifocal_ill_defined_opacities_992611.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Organizing pneumonia",
+      "raw": "Organizing pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous disease",
+      "raw": "Granulomatous disease",
+      "frequency": null
+    },
+    {
+      "name": "Allergic alveolitis",
+      "raw": "Allergic alveolitis",
+      "frequency": null
+    },
+    {
+      "name": "Bronchioloalveolar cell carcinoma",
+      "raw": "Bronchioloalveolar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

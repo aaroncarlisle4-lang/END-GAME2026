@@ -1,0 +1,27 @@
+{
+  "finding": "Fibrous Dysplasia — Spine (DDx)",
+  "slug": "fibrous_dysplasia_spine_ddx",
+  "chapter": "Fibrous Dysplasia",
+  "source_file": "processed_clusters/fibrous_dysplasia/fibrous_dysplasia_spine_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "juvenile ossifying fibroma",
+      "raw": "juvenile ossifying fibroma",
+      "frequency": null
+    },
+    {
+      "name": "cherubism",
+      "raw": "cherubism (limited to jaw)",
+      "frequency": null
+    },
+    {
+      "name": "renal osteodystrophy",
+      "raw": "renal osteodystrophy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "teeth nondisplaced (DDx from ossifying fibroma) | feline facial appearance (\"leontiasis ossea\"): | slowly progressive protrusion of malar surface | loss of the nasomaxillary angle"
+}

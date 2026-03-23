@@ -1,0 +1,41 @@
+{
+  "name": "ANOMALOUS LEFT CORONARY ARTERY",
+  "slug": "anomalous_left_coronary_artery",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/anomalous_left_coronary_artery.md",
+  "definition": "A NOMALOUS ORIGIN OF L EFT C ORONARY A RTERY FROM P ULMONARY A RTERY SYNDROME =",
+  "demographics": {
+    "Prevalence": "1÷300,000 live births; 0.25-0.50% of congenital heart defects",
+    "Age": "infancy / early childhood; adulthood (rare)",
+    "Location": "LCA arises from left inferolateral aspect of main pulmonary artery just beyond"
+  },
+  "dominant_finding": "LCA arising from the main pulmonary artery (HALLMARK) along its left inferolateral aspect",
+  "distribution": "LCA arises from left inferolateral aspect of main pulmonary artery just beyond",
+  "discriminating_features": [
+    "LCA arising from the main pulmonary artery (HALLMARK) along its left inferolateral aspect",
+    "coronary steal into PA",
+    "left ventricular wall motion abnormalities, mostly global hypokinesis",
+    "massive cardiomegaly during newborn period:",
+    "dilatation of LV ← chronic myocardial ischemia"
+  ],
+  "other_features": {
+    "general": [
+      "LCA arising from the main pulmonary artery (HALLMARK) along its left inferolateral aspect",
+      "coronary steal into PA",
+      "left ventricular wall motion abnormalities, mostly global hypokinesis",
+      "massive cardiomegaly during newborn period:",
+      "dilatation of LV ← chronic myocardial ischemia",
+      "enlargement of LA",
+      "congestive heart failure",
+      "mitral insufficiency ← myocardial infarction",
+      "normal pulmonary vascularity / redistribution",
+      "massively enlarged and tortuous collateral circulation from RCA to LCA ← increased",
+      "abundant intercoronary collaterals on epicardial surface",
+      "development of dilated bronchial artery collaterals"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "if untreated death within 1st year (in up to 90%)",
+    "Cx": "chronic left ventricular subendocardial ischemia → malignant ventricular dysrhythmia"
+  }
+}

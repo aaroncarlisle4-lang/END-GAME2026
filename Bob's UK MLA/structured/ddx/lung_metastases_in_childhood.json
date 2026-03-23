@@ -1,0 +1,42 @@
+{
+  "finding": "Lung Metastases in Childhood",
+  "slug": "lung_metastases_in_childhood",
+  "chapter": "MESOTHELIOMA OF CHEST",
+  "source_file": "processed_clusters/mesothelioma_of_chest/lung_metastases_in_childhood.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rhabdomyosarcoma",
+      "raw": "Rhabdomyosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteosarcoma",
+      "raw": "Osteosarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Ewing sarcoma",
+      "raw": "Ewing sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Adenocarcinoma of GI tract",
+      "raw": "Adenocarcinoma of GI tract (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "Adenocarcinoma of breast / ovary",
+      "raw": "Adenocarcinoma of breast / ovary",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Metastases with Airspace Pattern =  lepedic growth along intact alveolar walls similar to bronchioloalveolar carcinoma mimicking pneumonia √  airspace nodules √  consolidation with air bronchogram √  focal /extensive ground-glass opacities"
+}

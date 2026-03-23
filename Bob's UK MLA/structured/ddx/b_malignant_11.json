@@ -1,0 +1,32 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_11",
+  "chapter": "BREAST DENSITY",
+  "source_file": "processed_clusters/breast_density/b_malignant_11.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Invasive ductal carcinoma: desmoplastic reaction",
+      "raw": "Invasive ductal carcinoma: desmoplastic reaction",
+      "frequency": null
+    },
+    {
+      "name": "Invasive lobular carcinoma",
+      "raw": "Invasive lobular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Tubular carcinoma",
+      "raw": "Tubular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Primary lymphoma of breast",
+      "raw": "Primary lymphoma of breast",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

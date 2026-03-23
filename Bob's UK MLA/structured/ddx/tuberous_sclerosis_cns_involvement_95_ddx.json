@@ -1,0 +1,22 @@
+{
+  "finding": "Tuberous Sclerosis — CNS INVOLVEMENT (> 95%) (DDx)",
+  "slug": "tuberous_sclerosis_cns_involvement_95_ddx",
+  "chapter": "Tuberous Sclerosis",
+  "source_file": "processed_clusters/tuberous_sclerosis/tuberous_sclerosis_cns_involvement_95_ddx.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "neurofibromatosis type 1",
+      "raw": "neurofibromatosis type 1",
+      "frequency": null
+    },
+    {
+      "name": "fibrous dysplasia",
+      "raw": "fibrous dysplasia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

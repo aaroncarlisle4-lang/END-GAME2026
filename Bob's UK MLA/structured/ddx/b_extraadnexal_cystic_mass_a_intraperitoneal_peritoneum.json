@@ -1,0 +1,105 @@
+{
+  "finding": "B. EXTRAADNEXAL CYSTIC MASS (a) intraperitoneal @ Peritoneum",
+  "slug": "b_extraadnexal_cystic_mass_a_intraperitoneal_peritoneum",
+  "chapter": "E. LITHOPEDION",
+  "source_file": "processed_clusters/e_lithopedion/b_extraadnexal_cystic_mass_a_intraperitoneal_peritoneum.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Peritoneal inclusion cyst",
+      "raw": "Peritoneal inclusion cyst",
+      "frequency": null
+    },
+    {
+      "name": "Paraovarian cyst @   Bowel",
+      "raw": "Paraovarian cyst @   Bowel",
+      "frequency": null
+    },
+    {
+      "name": "Mucocele of the appendix",
+      "raw": "Mucocele of the appendix",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric cyst",
+      "raw": "Mesenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Fluid-distended bowel @   Fallopian tube",
+      "raw": "Fluid-distended bowel @   Fallopian tube",
+      "frequency": null
+    },
+    {
+      "name": "Hydro-, pyo-, hematosalpinx",
+      "raw": "Hydro-, pyo-, hematosalpinx",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic gestation @   Uterus",
+      "raw": "Ectopic gestation @   Uterus",
+      "frequency": null
+    },
+    {
+      "name": "Pedunculated / parasitized leiomyoma with cystic degeneration",
+      "raw": "Pedunculated / parasitized leiomyoma with cystic degeneration",
+      "frequency": null
+    },
+    {
+      "name": "Cystic adenomyosis",
+      "raw": "Cystic adenomyosis",
+      "frequency": null
+    },
+    {
+      "name": "Unicornuate uterus with obstructed rudimentary horn (b)  extraperitoneal @   Presacral space [Spinal meningeal cyst]",
+      "raw": "Unicornuate uterus with obstructed rudimentary horn (b)  extraperitoneal @   Presacral space",
+      "frequency": null,
+      "sites": [
+        "Spinal meningeal cyst"
+      ]
+    },
+    {
+      "name": "Retrorectal developmental cyst: dermoid, epidermoid, enteric tailgut / duplication cyst @   Lymphatics",
+      "raw": "Retrorectal developmental cyst: dermoid, epidermoid, enteric tailgut / duplication cyst @   Lymphatics",
+      "frequency": null
+    },
+    {
+      "name": "Lymphocele",
+      "raw": "Lymphocele",
+      "frequency": null
+    },
+    {
+      "name": "Cystic degeneration of lymph node",
+      "raw": "Cystic degeneration of lymph node",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioleiomyomatosis",
+      "raw": "Lymphangioleiomyomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma (c)  intra- and extraperitoneal",
+      "raw": "Lymphangioma (c)  intra- and extraperitoneal",
+      "frequency": null
+    },
+    {
+      "name": "Loculated pelvic abscess: appendiceal, diverticular, postoperative, Crohn disease, tuberculous, pelvic actinomycosis",
+      "raw": "Loculated pelvic abscess: appendiceal, diverticular, postoperative, Crohn disease, tuberculous, pelvic actinomycosis",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Bladder diverticulum",
+      "raw": "Bladder diverticulum",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

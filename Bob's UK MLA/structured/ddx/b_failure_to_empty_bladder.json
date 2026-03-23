@@ -1,0 +1,72 @@
+{
+  "finding": "B. FAILURE TO EMPTY BLADDER",
+  "slug": "b_failure_to_empty_bladder",
+  "chapter": "VOIDING DYSFUNCTION",
+  "source_file": "processed_clusters/voiding_dysfunction/b_failure_to_empty_bladder.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "poor flow, straining, hesitancy",
+      "raw": "poor flow, straining, hesitancy",
+      "frequency": null
+    },
+    {
+      "name": "inability to completely empty bladder (a)  bladder causes",
+      "raw": "inability to completely empty bladder (a)  bladder causes",
+      "frequency": null
+    },
+    {
+      "name": "Detrusor areflexia ← sacral arc lesion",
+      "raw": "Detrusor areflexia ← sacral arc lesion",
+      "frequency": null
+    },
+    {
+      "name": "Impaired detrusor contractility ← myogenic",
+      "raw": "Impaired detrusor contractility ← myogenic",
+      "frequency": null
+    },
+    {
+      "name": "Psychogenic condition (b)  bladder outlet obstruction",
+      "raw": "Psychogenic condition (b)  bladder outlet obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Bladder neck contracture",
+      "raw": "Bladder neck contracture",
+      "frequency": null
+    },
+    {
+      "name": "Prostatic enlargement",
+      "raw": "Prostatic enlargement",
+      "frequency": null
+    },
+    {
+      "name": "Detrusor-external sphincter dyssynergia",
+      "raw": "Detrusor-external sphincter dyssynergia",
+      "frequency": null
+    },
+    {
+      "name": "Scarring from surgery / radiation therapy",
+      "raw": "Scarring from surgery / radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Ectopic ureterocele",
+      "raw": "Ectopic ureterocele",
+      "frequency": null
+    },
+    {
+      "name": "Urethral stenosis",
+      "raw": "Urethral stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Urethral kinking: eg, ← cystocele",
+      "raw": "Urethral kinking: eg, ← cystocele",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

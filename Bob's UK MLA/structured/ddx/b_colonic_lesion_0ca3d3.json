@@ -1,0 +1,32 @@
+{
+  "finding": "B. COLONIC LESION",
+  "slug": "b_colonic_lesion_0ca3d3",
+  "chapter": "G. INTUSSUSCEPTION",
+  "source_file": "processed_clusters/g_intussusception/b_colonic_lesion_0ca3d3.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Ameboma",
+      "raw": "Ameboma",
+      "frequency": null
+    },
+    {
+      "name": "Primary cecal neoplasm",
+      "raw": "Primary cecal neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Ileocolic intussusception",
+      "raw": "Ileocolic intussusception",
+      "frequency": null
+    },
+    {
+      "name": "Lipomatosis of ileocecal valve",
+      "raw": "Lipomatosis of ileocecal valve",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

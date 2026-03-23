@@ -1,0 +1,31 @@
+{
+  "name": "HALLERVORDEN-SPATZ DISEASE",
+  "slug": "hallervorden_spatz_disease",
+  "chapter": "CENTRAL NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/central_neurocytoma/hallervorden_spatz_disease.md",
+  "definition": "PANTOTHENATE KINASE-ASSOCIATED NEURODEGENERATION rare familial neurodegenerative metabolic disorder with abnormal iron retention in basal",
+  "demographics": {
+    "Age": "2nd decade of life",
+    "Histo": "hyperpigmentation and symmetrical destruction of globus pallidus + substantia nigra"
+  },
+  "dominant_finding": "low- (= tissue destruction) / high-density (= dystrophic calcification) foci in globus",
+  "distribution": "initially bilateral hypointense globus pallidus on T2WI (= iron accumulation)",
+  "discriminating_features": [
+    "low- (= tissue destruction) / high-density (= dystrophic calcification) foci in globus",
+    "\"eye-of-the-tiger\" sign = high-signal-intensity center surrounded by the more typical",
+    "initially bilateral hypointense globus pallidus on T2WI (= iron accumulation)",
+    "later central hyperintense foci on T2WI (= tissue destruction + gliosis)"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "low- (= tissue destruction) / high-density (= dystrophic calcification) foci in globus"
+    ],
+    "MR": [
+      "\"eye-of-the-tiger\" sign = high-signal-intensity center surrounded by the more typical",
+      "initially bilateral hypointense globus pallidus on T2WI (= iron accumulation)",
+      "later central hyperintense foci on T2WI (= tissue destruction + gliosis)"
+    ]
+  },
+  "clinical": {}
+}

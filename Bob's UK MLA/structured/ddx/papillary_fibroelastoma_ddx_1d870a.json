@@ -1,0 +1,32 @@
+{
+  "finding": "Papillary Fibroelastoma (DDx)",
+  "slug": "papillary_fibroelastoma_ddx_1d870a",
+  "chapter": "Papillary Fibroelastoma",
+  "source_file": "processed_clusters/papillary_fibroelastoma/papillary_fibroelastoma_ddx_1d870a.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "vegetation (destruction of valvular leaflets",
+      "raw": "vegetation (destruction of valvular leaflets",
+      "frequency": null
+    },
+    {
+      "name": "valvular incompetence",
+      "raw": "valvular incompetence",
+      "frequency": null
+    },
+    {
+      "name": "fever",
+      "raw": "fever",
+      "frequency": null
+    },
+    {
+      "name": "murmur",
+      "raw": "murmur",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "turbulent blood flow | slightly hypoattenuating mass | intermediate SI / hypointense compared to myocardium | mobile mass (on cine gradient-echo images)"
+}

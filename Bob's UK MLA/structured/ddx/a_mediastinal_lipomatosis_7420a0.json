@@ -1,0 +1,37 @@
+{
+  "finding": "A. MEDIASTINAL LIPOMATOSIS",
+  "slug": "a_mediastinal_lipomatosis_7420a0",
+  "chapter": "MEDIASTINUM",
+  "source_file": "processed_clusters/mediastinum/a_mediastinal_lipomatosis_7420a0.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "FAT HERNIATION =  omental fat herniating into chest",
+      "raw": "FAT HERNIATION =  omental fat herniating into chest",
+      "frequency": null
+    },
+    {
+      "name": "Foramen of Morgagni =  sternocostal triangle mass, R >> L side",
+      "raw": "Foramen of Morgagni =  sternocostal triangle mass, R >> L side",
+      "frequency": null
+    },
+    {
+      "name": "Foramen of Bochdalek =  lumbocostal triangle mass, almost always on left",
+      "raw": "Foramen of Bochdalek =  lumbocostal triangle mass, almost always on left",
+      "frequency": null
+    },
+    {
+      "name": "Paraesophageal hernia =  perigastric fat through phrenicoesophageal membrane",
+      "raw": "Paraesophageal hernia =  perigastric fat through phrenicoesophageal membrane",
+      "frequency": null
+    },
+    {
+      "name": "LIPOMA =  un- / encapsulated fatty tissue with variable amount of fibrous septa",
+      "raw": "LIPOMA =  un- / encapsulated fatty tissue with variable amount of fibrous septa",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "CT: √  fat with fine linear densities (= omental vessels) √  smooth + sharply defined boundaries DDx:   liposarcoma, lipoblastoma (infancy), fat-containing teratoma, thymolipoma (inhomogeneous, higher CT numbers, poor demarcation, ± invasion of surrounding structures)"
+}

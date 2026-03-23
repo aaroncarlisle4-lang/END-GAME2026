@@ -1,0 +1,52 @@
+{
+  "finding": "F. OTHERS: synovial cyst, arachnoid cyst, extradural lipomatosis, extramedullary hematopoiesis",
+  "slug": "f_others_synovial_cyst_arachnoid_cyst_extradural_lipomatosis_extramedullary_hema_099689",
+  "chapter": "C. VASCULAR",
+  "source_file": "processed_clusters/c_vascular/f_others_synovial_cyst_arachnoid_cyst_extradural_lipomatosis_extramedullary_hema_099689.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastasis (drop mets from CNS tumor), Meningioma",
+      "raw": "Metastasis (drop mets from CNS tumor), Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoiditis, Arachnoid cyst",
+      "raw": "Arachnoiditis, Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Neurofibroma",
+      "raw": "Neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "Dermoid / epidermoid",
+      "raw": "Dermoid / epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection (TB, cysticercosis)",
+      "frequency": null
+    },
+    {
+      "name": "Normal but tortuous roots",
+      "raw": "Normal but tortuous roots",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Invisible Main Pulmonary Artery",
+  "slug": "invisible_main_pulmonary_artery_d03ec9",
+  "chapter": "A. PERICARDITIS WITH RESTRICTION",
+  "source_file": "processed_clusters/a_pericarditis_with_restriction/invisible_main_pulmonary_artery_d03ec9.md",
+  "quality_score": 0.4,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "UNDERDEVELOPED = RVOT obstruction",
+      "raw": "UNDERDEVELOPED = RVOT obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Tetralogy of Fallot",
+      "raw": "Tetralogy of Fallot",
+      "frequency": null
+    },
+    {
+      "name": "Hypoplastic right heart syndrome",
+      "raw": "Hypoplastic right heart syndrome (tricuspid / pulmonary atresia)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

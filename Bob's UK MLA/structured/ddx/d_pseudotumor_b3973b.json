@@ -1,0 +1,42 @@
+{
+  "finding": "D. PSEUDOTUMOR",
+  "slug": "d_pseudotumor_b3973b",
+  "chapter": "C. CENTRAL / PERIPHERAL",
+  "source_file": "processed_clusters/c_central_peripheral/d_pseudotumor_b3973b.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibroxanthoma / xanthogranuloma",
+      "raw": "Fibroxanthoma / xanthogranuloma",
+      "frequency": null
+    },
+    {
+      "name": "Plasma cell granuloma",
+      "raw": "Plasma cell granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Sclerosing hemangioma: middle-aged woman, RML / RLL (most commonly), may be multiple",
+      "raw": "Sclerosing hemangioma: middle-aged woman, RML / RLL (most commonly), may be multiple",
+      "frequency": null
+    },
+    {
+      "name": "Pseudolymphoma",
+      "raw": "Pseudolymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Round atelectasis",
+      "raw": "Round atelectasis",
+      "frequency": null
+    },
+    {
+      "name": "Pleural pseudotumor = accumulation of pleural fluid within interlobar fissure",
+      "raw": "Pleural pseudotumor = accumulation of pleural fluid within interlobar fissure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

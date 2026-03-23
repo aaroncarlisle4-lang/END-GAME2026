@@ -1,0 +1,26 @@
+{
+  "name": "PULMONARY VEIN VARIX",
+  "slug": "pulmonary_vein_varix",
+  "chapter": "PNEUMONECTOMY CHEST",
+  "source_file": "processed_clusters/disease_entries/pneumonectomy_chest/pulmonary_vein_varix.md",
+  "definition": "abnormal tortuosity + focal dilatation of pulmonary vein just before entrance into left atrium",
+  "demographics": {
+    "Etiology": "congenital / associated with chronic pulmonary venous hypertension or mitral valve",
+    "Location": "medial ⅓ of either lung below hila close to left atrium"
+  },
+  "dominant_finding": "well-defined lobulated round / oval mass without Ca2+",
+  "distribution": "medial ⅓ of either lung below hila close to left atrium",
+  "discriminating_features": [
+    "well-defined lobulated round / oval mass without Ca2+",
+    "change in size during Valsalva / Müller maneuver",
+    "opacification at same time as LA (on CECT)"
+  ],
+  "other_features": {
+    "general": [
+      "well-defined lobulated round / oval mass without Ca2+",
+      "change in size during Valsalva / Müller maneuver",
+      "opacification at same time as LA (on CECT)"
+    ]
+  },
+  "clinical": {}
+}

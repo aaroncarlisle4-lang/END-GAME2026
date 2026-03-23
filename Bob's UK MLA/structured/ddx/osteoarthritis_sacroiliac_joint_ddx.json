@@ -1,0 +1,32 @@
+{
+  "finding": "Osteoarthritis — Sacroiliac joint (DDx)",
+  "slug": "osteoarthritis_sacroiliac_joint_ddx",
+  "chapter": "Osteoarthritis",
+  "source_file": "processed_clusters/osteoarthritis/osteoarthritis_sacroiliac_joint_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "chronic liver disease",
+      "raw": "chronic liver disease",
+      "frequency": null
+    },
+    {
+      "name": "hemochromatosis",
+      "raw": "hemochromatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "well-defined line of sclerosis, esp. on iliac side of articulation | prominent bridging osteophyte at superior + inferior limits of joint | \"bird-wing\" / \"sea-gull\" joint configuration = central erosions + osteophytosis | may lead to bony ankylosis"
+}

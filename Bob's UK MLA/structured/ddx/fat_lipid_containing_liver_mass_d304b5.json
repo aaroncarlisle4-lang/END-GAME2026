@@ -1,0 +1,67 @@
+{
+  "finding": "Fat- / Lipid containing Liver Mass",
+  "slug": "fat_lipid_containing_liver_mass_d304b5",
+  "chapter": "D. TRAUMATIC",
+  "source_file": "processed_clusters/d_traumatic/fat_lipid_containing_liver_mass_d304b5.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiolipoma",
+      "raw": "Angiolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Angiomyolipoma: eg, tuberous sclerosis",
+      "raw": "Angiomyolipoma: eg, tuberous sclerosis",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular carcinoma",
+      "raw": "Hepatocellular carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hepatocellular adenoma",
+      "raw": "Hepatocellular adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Liposarcoma metastasis",
+      "raw": "Liposarcoma metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Malignant teratoma metastasis",
+      "raw": "Malignant teratoma metastasis (+ calcifications)",
+      "frequency": null
+    },
+    {
+      "name": "Focal fatty change",
+      "raw": "Focal fatty change",
+      "frequency": null
+    },
+    {
+      "name": "Focal nodular hyperplasia",
+      "raw": "Focal nodular hyperplasia (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Regenerative & dysplastic nodules",
+      "raw": "Regenerative & dysplastic nodules",
+      "frequency": null
+    },
+    {
+      "name": "Fat packing",
+      "raw": "Fat packing",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

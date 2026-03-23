@@ -1,0 +1,23 @@
+{
+  "name": "MEDICAL DEVICES ON CXR",
+  "slug": "medical_devices_on_cxr",
+  "chapter": "CHEST WALL",
+  "source_file": "processed_clusters/disease_entries/chest_wall/medical_devices_on_cxr.md",
+  "definition": "CVP = CENTRAL CATHETER = CENTRAL LINE SUBCUTANEOUS PORT",
+  "demographics": {},
+  "dominant_finding": "median sternotomy wires",
+  "distribution": "",
+  "discriminating_features": [
+    "median sternotomy wires",
+    "vascular clips",
+    "anastomotic markers"
+  ],
+  "other_features": {
+    "general": [
+      "median sternotomy wires",
+      "vascular clips",
+      "anastomotic markers"
+    ]
+  },
+  "clinical": {}
+}

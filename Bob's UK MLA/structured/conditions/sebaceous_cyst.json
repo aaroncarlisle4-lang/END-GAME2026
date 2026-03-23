@@ -1,0 +1,33 @@
+{
+  "name": "SEBACEOUS CYST",
+  "slug": "sebaceous_cyst",
+  "chapter": "BREAST CYST",
+  "source_file": "processed_clusters/disease_entries/breast_cyst/sebaceous_cyst.md",
+  "definition": "epithelial cyst ← obstructed sebaceous gland arising from outer root sheath of hair follicle",
+  "demographics": {
+    "Prevalence": "less common dermal lesion than epidermal inclusion cyst",
+    "Location": "dermis ± expansion into subcutaneous fat;",
+    "Size": "0.8-10.0 cm in diameter"
+  },
+  "dominant_finding": "circumscribed mixed (commonly) / hyperechoic (occasionally) solid mass",
+  "distribution": "dermis ± expansion into subcutaneous fat;",
+  "discriminating_features": [
+    "circumscribed round / oval mass of low (fatty) to variable density",
+    "circumscribed mixed (commonly) / hyperechoic (occasionally) solid mass",
+    "cystic / solid depending on the internal contents",
+    "contiguous with dermis on tangential view",
+    "exiting hypoechoic track toward skin surface"
+  ],
+  "other_features": {
+    "general": [
+      "circumscribed round / oval mass of low (fatty) to variable density"
+    ],
+    "US": [
+      "circumscribed mixed (commonly) / hyperechoic (occasionally) solid mass",
+      "cystic / solid depending on the internal contents",
+      "contiguous with dermis on tangential view",
+      "exiting hypoechoic track toward skin surface"
+    ]
+  },
+  "clinical": {}
+}

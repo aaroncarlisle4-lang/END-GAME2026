@@ -1,0 +1,27 @@
+{
+  "finding": "B. VASCULAR",
+  "slug": "b_vascular_aa8549",
+  "chapter": "SPLEEN",
+  "source_file": "processed_clusters/spleen/b_vascular_aa8549.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Splenic laceration / fracture",
+      "raw": "Splenic laceration / fracture",
+      "frequency": null
+    },
+    {
+      "name": "Hematoma",
+      "raw": "Hematoma",
+      "frequency": null
+    },
+    {
+      "name": "False cyst = posttraumatic cyst = nonpancreatic pseudocyst of the spleen ◊  80% of all splenic cysts are pseudocysts",
+      "raw": "False cyst = posttraumatic cyst = nonpancreatic pseudocyst of the spleen ◊  80% of all splenic cysts are pseudocysts (= secondary cysts)",
+      "frequency": "80%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

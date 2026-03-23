@@ -1,0 +1,47 @@
+{
+  "finding": "Hot Bone Lesions",
+  "slug": "hot_bone_lesions",
+  "chapter": "A. CONSTITUTIONAL",
+  "source_file": "processed_clusters/a_constitutional/hot_bone_lesions.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Arthropathy",
+      "raw": "Arthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Infection",
+      "raw": "Infection",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Aseptic Necrosis",
+      "raw": "Aseptic Necrosis",
+      "frequency": null
+    },
+    {
+      "name": "Long Segmental Diaphyseal Uptake",
+      "raw": "Long Segmental Diaphyseal Uptake",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

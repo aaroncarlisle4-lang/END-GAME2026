@@ -1,0 +1,49 @@
+{
+  "name": "CARDIAC FIBROMA",
+  "slug": "cardiac_fibroma",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/cardiac_fibroma.md",
+  "definition": "FIBROMATOSIS = FIBROUS HAMARTOMA = FIBROELASTIC HAMARTOMA congenital neoplasm / hamartoma of the heart",
+  "demographics": {
+    "Prevalence": "100 cases reported; 2nd most common benign cardiac neoplasm of childhood (after",
+    "Mean age": "13 (range, 0-56) years; 33% in children < 1 year of age / in utero; 15% in",
+    "Location": "ventricular septum > left ventricular free wall"
+  },
+  "dominant_finding": "calcifications (25%)",
+  "distribution": "ventricular septum > left ventricular free wall",
+  "discriminating_features": [
+    "cardiomegaly",
+    "focal cardiac bulge ← tumor in free ventricular wall",
+    "may be pedunculated",
+    "centrally cystic degeneration (rare)",
+    "± pericardial effusion"
+  ],
+  "other_features": {
+    "general": [
+      "cardiomegaly",
+      "focal cardiac bulge ← tumor in free ventricular wall",
+      "may be pedunculated",
+      "centrally cystic degeneration (rare)",
+      "± pericardial effusion",
+      "noncontractile echogenic heterogeneous solid mass:",
+      "mean diameter > 5 cm; may obliterate cardiac chamber",
+      "multifocal dystrophic central tumor calcifications",
+      "affected myocardium hypokinetic"
+    ],
+    "CT": [
+      "homogeneous mural mass of soft-issue attenuation",
+      "sharply marginated / infiltrative",
+      "calcifications (25%)",
+      "variable enhancement"
+    ],
+    "MR": [
+      "iso- / hypointense homogeneous discrete mural mass / myocardial thickening on T1WI",
+      "homogeneously hypointense on T2WI",
+      "no / little hetero- or homogeneous enhancement"
+    ]
+  },
+  "clinical": {
+    "Cx": "fetal hydrops ← obstruction, pericardial effusion, fetal arrhythmia, fetal death",
+    "Rx": "surgical excision / partial resection"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "MADELUNG DISEASE",
+  "slug": "madelung_disease",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/madelung_disease.md",
+  "definition": "BENIGN SYMMETRICAL LIPOMATOSIS = MULTIPLE SYMMETRIC LIPOMATOSIS rare benign condition characterized by symmetric proliferation of adipose tissue",
+  "demographics": {
+    "Location": "head, neck, shoulders (periscapular), upper chest; NO involvement of anterior",
+    "Age": "25-60 years; white men"
+  },
+  "dominant_finding": "",
+  "distribution": "head, neck, shoulders (periscapular), upper chest; NO involvement of anterior",
+  "discriminating_features": [],
+  "other_features": {
+    "general": []
+  },
+  "clinical": {
+    "Cx": "respiratory compromise ← tracheal compression at neck"
+  }
+}

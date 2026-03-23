@@ -1,0 +1,42 @@
+{
+  "finding": "Multiple Homogeneously Enhancing Lesions with Well-defined Borders",
+  "slug": "multiple_homogeneously_enhancing_lesions_with_well_defined_borders",
+  "chapter": "Imaging of Normal Lymph Nodes",
+  "source_file": "processed_clusters/imaging_of_normal_lymph_nodes/multiple_homogeneously_enhancing_lesions_with_well_defined_borders.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Fibrocystic changes",
+      "raw": "Fibrocystic changes",
+      "frequency": null
+    },
+    {
+      "name": "Fibroadenomas",
+      "raw": "Fibroadenomas",
+      "frequency": null
+    },
+    {
+      "name": "Adenoma",
+      "raw": "Adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Papilloma ›  Rare",
+      "raw": "Papilloma ›  Rare",
+      "frequency": "rare"
+    },
+    {
+      "name": "Multicentric carcinoma",
+      "raw": "Multicentric carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "›  Common"
+}

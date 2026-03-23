@@ -1,0 +1,42 @@
+{
+  "name": "PAPILLARY FIBROELASTOMA",
+  "slug": "papillary_fibroelastoma",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/papillary_fibroelastoma.md",
+  "definition": "FIBROELASTIC PAPILLOMA = PAPILLOMA / MYXOMA / FIBROMA OF VALVES = GIANT LAMBL MYXOFIBROMA = HYALINE FIBROMA rare benign excrescence predominantly affecting surface of cardiac valves",
+  "demographics": {
+    "Prevalence": "25% of all cardiac valvular tumors (most common valvular tumor); 10% of all",
+    "Peak age": "7th and 8th decade; M÷F = 1÷1",
+    "Path": "gelatinous mass with \"sea anemone\" appearance ← multiple delicate branching",
+    "Histo": "avascular papilloma = avascular connective tissue composed of fibrous core + lined by",
+    "Size": "usually < 1.0-1.5 cm in diameter (may be as large as 5 cm)"
+  },
+  "dominant_finding": "slightly hypoattenuating mass",
+  "distribution": "",
+  "discriminating_features": [
+    "CHARACTERISTIC stippled edge with a \"shimmer / vibration\" at interface between tumor",
+    "homogeneous mobile pedunculated mass:",
+    "elongated strandlike projection / well-defined head",
+    "flutters / prolapses with cardiac motion",
+    "turbulent blood flow"
+  ],
+  "other_features": {
+    "general": [
+      "homogeneous mobile pedunculated mass:",
+      "elongated strandlike projection / well-defined head",
+      "CHARACTERISTIC stippled edge with a \"shimmer / vibration\" at interface between tumor",
+      "flutters / prolapses with cardiac motion",
+      "turbulent blood flow"
+    ],
+    "CT": [
+      "slightly hypoattenuating mass"
+    ],
+    "MR": [
+      "intermediate SI / hypointense compared to myocardium",
+      "mobile mass (on cine gradient-echo images)"
+    ]
+  },
+  "clinical": {
+    "Rx": "surgical excision ± leaflet repair / valve replacement"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Hypointense T2 Signal of Prostate",
+  "slug": "hypointense_t2_signal_of_prostate_37a39e",
+  "chapter": "PROSTATE",
+  "source_file": "processed_clusters/prostate/hypointense_t2_signal_of_prostate_37a39e.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Adenocarcinoma",
+      "raw": "Adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Post-biopsy hemorrhage ◊  Wait 6-8 weeks after biopsy before MR imaging",
+      "raw": "Post-biopsy hemorrhage ◊  Wait 6-8 weeks after biopsy before MR imaging",
+      "frequency": null
+    },
+    {
+      "name": "Bacterial prostatitis, fibrosis, scarring",
+      "raw": "Bacterial prostatitis, fibrosis, scarring",
+      "frequency": null
+    },
+    {
+      "name": "Hyperplastic nodules",
+      "raw": "Hyperplastic nodules",
+      "frequency": null
+    },
+    {
+      "name": "Hormonal / radiation treatment",
+      "raw": "Hormonal / radiation treatment",
+      "frequency": null
+    },
+    {
+      "name": "Anterior fibromuscular stroma DDx:  The normal central zone appears homogeneously hypointense on T2WI and dark on ADC map of 42-84-year old men mimicking prostate cancer. Location and symmetry of the central zone help to differentiate it from prostate cancer, although it is asymmetric in 20%.",
+      "raw": "Anterior fibromuscular stroma DDx:  The normal central zone appears homogeneously hypointense on T2WI and dark on ADC map of 42-84-year old men mimicking prostate cancer. Location and symmetry of the central zone help to differentiate it from prostate cancer, although it is asymmetric in 20%.",
+      "frequency": "20%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

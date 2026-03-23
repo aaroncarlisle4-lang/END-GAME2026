@@ -1,0 +1,32 @@
+{
+  "finding": "Pericardium (DDx)",
+  "slug": "pericardium_ddx",
+  "chapter": "Pericardium",
+  "source_file": "processed_clusters/pericardium/pericardium_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "lymph nodes",
+      "raw": "lymph nodes",
+      "frequency": null
+    },
+    {
+      "name": "esophageal / thymic process",
+      "raw": "esophageal / thymic process",
+      "frequency": null
+    },
+    {
+      "name": "vascular abnormality",
+      "raw": "vascular abnormality",
+      "frequency": null
+    },
+    {
+      "name": "pericardial cyst / tumor",
+      "raw": "pericardial cyst / tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "extending down to level of aortic valve | behind left atrium + anterior to esophagus | separated from transverse sinus by double reflection of pericardium (and fat) between | behind distal right pulmonary artery + medial to bronchus intermedius"
+}

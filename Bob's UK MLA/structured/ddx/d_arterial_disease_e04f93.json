@@ -1,0 +1,27 @@
+{
+  "finding": "D. ARTERIAL DISEASE",
+  "slug": "d_arterial_disease_e04f93",
+  "chapter": "Organism: Pseudomonas aeruginosa, Gram-negative",
+  "source_file": "processed_clusters/organism_pseudomonas_aeruginosa_gram_negative/d_arterial_disease_e04f93.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Swyer-James syndrome",
+      "raw": "Swyer-James syndrome (8%)",
+      "frequency": "8%"
+    },
+    {
+      "name": "Congenital pulmonary artery hypoplasia / stenosis",
+      "raw": "Congenital pulmonary artery hypoplasia / stenosis",
+      "frequency": null
+    },
+    {
+      "name": "Shunt procedure to pulmonary artery",
+      "raw": "Shunt procedure to pulmonary artery (eg, Blalock-Taussig)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

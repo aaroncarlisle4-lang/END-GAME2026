@@ -1,0 +1,27 @@
+{
+  "finding": "Hemangioma Of Breast (DDx)",
+  "slug": "hemangioma_of_breast_ddx_3c99a3",
+  "chapter": "Hemangioma Of Breast",
+  "source_file": "processed_clusters/hemangioma_of_breast/hemangioma_of_breast_ddx_3c99a3.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "low-grade angiosarcoma (skin discoloration",
+      "raw": "low-grade angiosarcoma (skin discoloration",
+      "frequency": null
+    },
+    {
+      "name": "large palpable lesion",
+      "raw": "large palpable lesion",
+      "frequency": null
+    },
+    {
+      "name": "positive for S-phase",
+      "raw": "positive for S-phase",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hyperintense on T2WI ← cavernous / cystic spaces with slow-flowing blood | low-signal-intensity foci ← calcification / flow void / fibrosis / thrombosis | early diffuse enhancement (DDx: angiosarcoma) | delayed central fill-in enhancement"
+}

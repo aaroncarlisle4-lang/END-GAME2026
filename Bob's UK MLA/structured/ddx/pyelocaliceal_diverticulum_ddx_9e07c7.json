@@ -1,0 +1,27 @@
+{
+  "finding": "Pyelocaliceal Diverticulum (DDx)",
+  "slug": "pyelocaliceal_diverticulum_ddx_9e07c7",
+  "chapter": "Pyelocaliceal Diverticulum",
+  "source_file": "processed_clusters/pyelocaliceal_diverticulum/pyelocaliceal_diverticulum_ddx_9e07c7.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "ruptured simple nephrogenic cyst",
+      "raw": "ruptured simple nephrogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "evacuated abscess / hematoma",
+      "raw": "evacuated abscess / hematoma",
+      "frequency": null
+    },
+    {
+      "name": "renal papillary",
+      "raw": "renal papillary",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "opacification during excretory phase may be delayed and remain so for prolonged period → | mass effect on adjacent pelvicaliceal system if large enough | anechoic cyst | ± layering mobile echogenic material ← formation of single / multiple stones (50%) / milk"
+}

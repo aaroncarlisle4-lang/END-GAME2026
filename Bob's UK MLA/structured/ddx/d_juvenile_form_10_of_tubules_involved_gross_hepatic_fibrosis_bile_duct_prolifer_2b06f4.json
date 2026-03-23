@@ -1,0 +1,87 @@
+{
+  "finding": "D. JUVENILE FORM 10% of tubules involved + gross hepatic fibrosis + bile duct proliferation",
+  "slug": "d_juvenile_form_10_of_tubules_involved_gross_hepatic_fibrosis_bile_duct_prolifer_2b06f4",
+  "chapter": "PAROXYSMAL NOCTURNAL HEMOGLOBINURIA",
+  "source_file": "processed_clusters/paroxysmal_nocturnal_hemoglobinuria/d_juvenile_form_10_of_tubules_involved_gross_hepatic_fibrosis_bile_duct_prolifer_2b06f4.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "disease appears at 6 months to 5 years of age",
+      "raw": "disease appears at 6 months to 5 years of age",
+      "frequency": null
+    },
+    {
+      "name": "thrombocytopenia ← hypersplenism",
+      "raw": "thrombocytopenia ← hypersplenism",
+      "frequency": null
+    },
+    {
+      "name": "gastroesophageal variceal bleeding",
+      "raw": "gastroesophageal variceal bleeding",
+      "frequency": null
+    },
+    {
+      "name": "portal venous hypertension",
+      "raw": "portal venous hypertension (5-13 years of age)",
+      "frequency": null
+    },
+    {
+      "name": "decreased fetal urine output",
+      "raw": "decreased fetal urine output",
+      "frequency": null
+    },
+    {
+      "name": "Potter facies: low-set + flattened ears, short + snubbed nose, deep eye creases, micrognathia",
+      "raw": "Potter facies: low-set + flattened ears, short + snubbed nose, deep eye creases, micrognathia",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary hypoplasia",
+      "raw": "Pulmonary hypoplasia",
+      "frequency": null
+    },
+    {
+      "name": "Oligohydramnios",
+      "raw": "Oligohydramnios",
+      "frequency": null
+    },
+    {
+      "name": "Twisted wrinkly skin",
+      "raw": "Twisted wrinkly skin",
+      "frequency": null
+    },
+    {
+      "name": "Twisted Potter face",
+      "raw": "Twisted Potter face",
+      "frequency": null
+    },
+    {
+      "name": "Extremity defects",
+      "raw": "Extremity defects",
+      "frequency": null
+    },
+    {
+      "name": "Renal agenesis, bilateral",
+      "raw": "Renal agenesis, bilateral",
+      "frequency": null
+    },
+    {
+      "name": "Chromosome studies to determine if other malformations present",
+      "raw": "Chromosome studies to determine if other malformations present (eg, trisomy 13 / 18)",
+      "frequency": null
+    },
+    {
+      "name": "Option of pregnancy termination < 24 weeks",
+      "raw": "Option of pregnancy termination < 24 weeks",
+      "frequency": null
+    },
+    {
+      "name": "Nonintervention for fetal distress > 24 weeks if severe oligohydramnios present",
+      "raw": "Nonintervention for fetal distress > 24 weeks if severe oligohydramnios present",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  portal hypertension: √  hepatosplenomegaly √  ascites Prognosis:  death from portal hypertension Radiography √  abdominal distension √  gas-filled bowel loops deviated centrally √  small bell-shaped thorax → severe pulmonary hypoplasia √  pneumothorax / pneumomediastinum IVP: √  bilateral gross smooth renal enlargement √  faint nephrogram + blotchy opacification on initial images √  increasingly dense nephrogram √  poor visualization of collecting system √  \"sunburst nephrogram\" = striated nephrogram with persistent radiating opaque streaks (= collecting ducts) on delayed images √  prominen"
+}

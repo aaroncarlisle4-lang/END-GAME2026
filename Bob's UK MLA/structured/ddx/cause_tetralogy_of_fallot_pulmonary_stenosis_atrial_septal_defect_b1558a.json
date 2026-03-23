@@ -1,0 +1,42 @@
+{
+  "finding": "Cause: tetralogy of Fallot, pulmonary stenosis, atrial septal defect",
+  "slug": "cause_tetralogy_of_fallot_pulmonary_stenosis_atrial_septal_defect_b1558a",
+  "chapter": "C. MYOCARDIAL / INTRAMURAL",
+  "source_file": "processed_clusters/c_myocardial_intramural/cause_tetralogy_of_fallot_pulmonary_stenosis_atrial_septal_defect_b1558a.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tricuspid valve (extremely rare) Cause:   rheumatic heart disease, septal defect, tricuspid valve defect, infective endocarditis @   Annulus =  valve rings serve as fibrous skeleton of the heart for attachment of myocardial fibers + cardiac valves",
+      "raw": "Tricuspid valve (extremely rare) Cause:   rheumatic heart disease, septal defect, tricuspid valve defect, infective endocarditis @   Annulus =  valve rings serve as fibrous skeleton of the heart for attachment of myocardial fibers + cardiac valves",
+      "frequency": "rare"
+    },
+    {
+      "name": "Mitral annulus",
+      "raw": "Mitral annulus",
+      "frequency": null
+    },
+    {
+      "name": "Aortic annulus",
+      "raw": "Aortic annulus",
+      "frequency": null
+    },
+    {
+      "name": "Tricuspid annulus",
+      "raw": "Tricuspid annulus",
+      "frequency": null
+    },
+    {
+      "name": "patient usually in CHF + atrial fibrillation",
+      "raw": "patient usually in CHF + atrial fibrillation",
+      "frequency": null
+    },
+    {
+      "name": "Mönckeberg medial sclerosis",
+      "raw": "Mönckeberg medial sclerosis (exceedingly rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "√  calcific pattern similar to calcified mitral valve Cause:   degenerative (physiologic in elderly) Age:   > 65 years; M÷F = 1÷4 May be associated with:   mitral valve prolapse Commonly associated with: aortic valve calcium (= aortic stenosis), hypertension, hypertrophic cardiomyopathy; NOT MV dysfunction √  dense bandlike calcification starting at posterior aspect + progressing laterally frequently forming a \"reversed C\" / \"O\" / \"U\" / \"J\" Cx:      mitral insufficiency (← impaired anterior mitral leaflet); atrial fibrillation; heart block (← infiltration into posterior wall conduction pathway"
+}

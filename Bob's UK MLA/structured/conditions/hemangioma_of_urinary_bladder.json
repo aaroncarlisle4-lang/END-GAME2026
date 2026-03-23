@@ -1,0 +1,35 @@
+{
+  "name": "HEMANGIOMA OF URINARY BLADDER",
+  "slug": "hemangioma_of_urinary_bladder",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/hemangioma_of_urinary_bladder.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "0.6% of primary bladder neoplasms;",
+    "Age": "< 20 years (in > 50%); M÷F = 1÷1",
+    "Histo": "capillary / venous / cavernous / hemangiolymphomatous form",
+    "Location": "dome, posterolateral wall"
+  },
+  "dominant_finding": "solid predominantly hyperechoic mass",
+  "distribution": "dome, posterolateral wall",
+  "discriminating_features": [
+    "compressible solitary (²/³) / multiple (⅓) masses:",
+    "rounded well-marginated intraluminal mass",
+    "diffuse bladder wall thickening + punctate calcifications (= phleboliths)",
+    "rounded / lobulated filling defect",
+    "solid predominantly hyperechoic mass"
+  ],
+  "other_features": {
+    "general": [
+      "compressible solitary (²/³) / multiple (⅓) masses:",
+      "rounded well-marginated intraluminal mass",
+      "diffuse bladder wall thickening + punctate calcifications (= phleboliths)",
+      "rounded / lobulated filling defect"
+    ],
+    "US": [
+      "solid predominantly hyperechoic mass",
+      "hypoechoic spaces within thickened bladder wall"
+    ]
+  },
+  "clinical": {}
+}

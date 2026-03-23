@@ -1,0 +1,27 @@
+{
+  "finding": "Pineal Cyst (DDx)",
+  "slug": "pineal_cyst_ddx",
+  "chapter": "Pineal Cyst",
+  "source_file": "processed_clusters/pineal_cyst/pineal_cyst_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cystic tumors (astrocytoma",
+      "raw": "cystic tumors (astrocytoma",
+      "frequency": null
+    },
+    {
+      "name": "pineocytoma",
+      "raw": "pineocytoma",
+      "frequency": null
+    },
+    {
+      "name": "pineoblastoma)",
+      "raw": "pineoblastoma)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "signal not completely suppressed on FLAIR ← proteinaceous content | typically incomplete enhancement of cyst wall ← fragmentation of pineal parenchyma as | appearance of a solid mass on delayed contrast images (contrast may diffuse from enhanced | slight impression on superior colliculi (sagittal image)"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Pancreatic Cyst with Solid Component",
+  "slug": "pancreatic_cyst_with_solid_component",
+  "chapter": "E. Underdevelopment",
+  "source_file": "processed_clusters/e_underdevelopment/pancreatic_cyst_with_solid_component.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Mucinous cystic neoplasm",
+      "raw": "Mucinous cystic neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Intraductal papillary mucinous neoplasm (IPMN) ›  cystically degenerated neoplasm",
+      "raw": "Intraductal papillary mucinous neoplasm (IPMN) ›  cystically degenerated neoplasm",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic endocrine tumor",
+      "raw": "Pancreatic endocrine tumor",
+      "frequency": null
+    },
+    {
+      "name": "Solid pseudopapillary tumor",
+      "raw": "Solid pseudopapillary tumor",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic adenocarcinoma",
+      "raw": "Pancreatic adenocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "◊  All tumors are either malignant or have a high malignant potential! ›  true cystic neoplasm"
+}

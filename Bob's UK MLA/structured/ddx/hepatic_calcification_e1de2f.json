@@ -1,0 +1,67 @@
+{
+  "finding": "Hepatic Calcification",
+  "slug": "hepatic_calcification_e1de2f",
+  "chapter": "D. OTHERS",
+  "source_file": "processed_clusters/d_others/hepatic_calcification_e1de2f.md",
+  "quality_score": 0.9,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "INFECTION",
+      "raw": "INFECTION (most common cause)",
+      "frequency": "most common"
+    },
+    {
+      "name": "Granulomatous disease: tuberculosis (48%), histoplasmosis, brucellosis, coccidioidomycosis",
+      "raw": "Granulomatous disease: tuberculosis (48%), histoplasmosis, brucellosis, coccidioidomycosis",
+      "frequency": "48%"
+    },
+    {
+      "name": "Echinococcal cyst",
+      "raw": "Echinococcal cyst (in 10-20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "CMV, toxoplasmosis, Pneumocystis carinii",
+      "raw": "CMV, toxoplasmosis, Pneumocystis carinii",
+      "frequency": null
+    },
+    {
+      "name": "Chronic granulomatous disease of childhood",
+      "raw": "Chronic granulomatous disease of childhood",
+      "frequency": null
+    },
+    {
+      "name": "Old pyogenic / amebic abscess",
+      "raw": "Old pyogenic / amebic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Cysticercosis, filariasis, paragonimiasis, Armillifer infection, dracunculiasis",
+      "raw": "Cysticercosis, filariasis, paragonimiasis, Armillifer infection, dracunculiasis",
+      "frequency": null
+    },
+    {
+      "name": "Syphilitic gumma",
+      "raw": "Syphilitic gumma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "INFECTION": [],
+    "Granulomatous disease: tuberculosis (48%), histoplasmosis, brucellosis, coccidioidomycosis": [],
+    "Echinococcal cyst": [],
+    "CMV, toxoplasmosis, Pneumocystis carinii": [],
+    "Chronic granulomatous disease of childhood": [],
+    "Old pyogenic / amebic abscess": [],
+    "Schistosomiasis": [],
+    "Cysticercosis, filariasis, paragonimiasis, Armillifer infection, dracunculiasis": [],
+    "Syphilitic gumma": []
+  },
+  "context": "√  calcium involves entire lesion √  curvilinear / ring calcification √  turtleback / tortoise shell calcifications"
+}

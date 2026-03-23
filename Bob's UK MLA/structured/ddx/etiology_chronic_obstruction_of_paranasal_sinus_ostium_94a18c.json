@@ -1,0 +1,47 @@
+{
+  "finding": "Etiology: chronic obstruction of paranasal sinus ostium",
+  "slug": "etiology_chronic_obstruction_of_paranasal_sinus_ostium_94a18c",
+  "chapter": "MUCOCELE",
+  "source_file": "processed_clusters/mucocele/etiology_chronic_obstruction_of_paranasal_sinus_ostium_94a18c.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "history of chronic nasal polyposis + pansinusitis",
+      "raw": "history of chronic nasal polyposis + pansinusitis",
+      "frequency": null
+    },
+    {
+      "name": "commonly present with unilateral proptosis",
+      "raw": "commonly present with unilateral proptosis",
+      "frequency": null
+    },
+    {
+      "name": "↓ visual acuity, visual field defect, intractable headaches",
+      "raw": "↓ visual acuity, visual field defect, intractable headaches",
+      "frequency": null
+    },
+    {
+      "name": "palpable mass in superomedial aspect of orbit",
+      "raw": "palpable mass in superomedial aspect of orbit (frontal mucocele)",
+      "frequency": null
+    },
+    {
+      "name": "Protrusion into orbit displacing medial rectus muscle laterally",
+      "raw": "Protrusion into orbit displacing medial rectus muscle laterally",
+      "frequency": null
+    },
+    {
+      "name": "Expansion into subarachnoid space → CSF leak",
+      "raw": "Expansion into subarachnoid space → CSF leak",
+      "frequency": null
+    },
+    {
+      "name": "Mucopyocele = superimposed infection",
+      "raw": "Mucopyocele = superimposed infection (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "Path:   expanded sinus cyst lined by mucosa + filled with accumulated secretions and desquamations Age:   usually adulthood Location: mnemonic:   fems frontal (60%) > ethmoid (30%) > maxillary (10%) > sphenoid (rare) √  expanded airless sinus filled with homogeneous mucoid material N.B.:     Presence of air in an affected sinus effectively rules out a mucocele! √  sinus cavity expansion (DDx: never in sinusitis) √  bone demineralization + remodeling at late stage but NO bone destruction (impossible DDx from neoplasm) √  surrounding zone of bone sclerosis / calcification at edges of mucocele (f"
+}

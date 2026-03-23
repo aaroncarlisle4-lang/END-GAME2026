@@ -1,0 +1,40 @@
+{
+  "name": "CARDIAC THROMBUS",
+  "slug": "cardiac_thrombus",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/cardiac_thrombus.md",
+  "definition": "",
+  "demographics": {
+    "Associated with": "mitral valve disease",
+    "Incidence": "4-7% with suspected pulmonary embolism"
+  },
+  "dominant_finding": "atrial dilatation",
+  "distribution": "peripheral enhancement ← neovascularization in chronic thrombus",
+  "discriminating_features": [
+    "atrial dilatation",
+    "irregular / lobulated border",
+    "microcavitations",
+    "laminated appearance",
+    "hyperechoic mass (DDx: crista terminalis, myxoma)"
+  ],
+  "other_features": {
+    "general": [
+      "atrial dilatation",
+      "irregular / lobulated border",
+      "microcavitations",
+      "laminated appearance",
+      "hyperechoic mass (DDx: crista terminalis, myxoma)",
+      "absence of mobility",
+      "multiple lesions favor thrombus",
+      "usually NO enhancement:",
+      "peripheral enhancement ← neovascularization in chronic thrombus",
+      "homogeneous attenuation on CT",
+      "heterogeneous signal on SE MR images",
+      "low-signal intensity on GRE MR images"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "80-100% mortality in untreated patients",
+    "Rx": "anticoagulation, thrombectomy, thrombolysis, surgical resection"
+  }
+}

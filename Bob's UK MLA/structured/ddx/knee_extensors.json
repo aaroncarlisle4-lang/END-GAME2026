@@ -1,0 +1,154 @@
+{
+  "finding": "Knee Extensors",
+  "slug": "knee_extensors",
+  "chapter": "KNEE",
+  "source_file": "processed_clusters/knee/knee_extensors.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Vastus medialis m.",
+      "raw": "Vastus medialis m.",
+      "frequency": null
+    },
+    {
+      "name": "Vastus lateralis m.",
+      "raw": "Vastus lateralis m.",
+      "frequency": null
+    },
+    {
+      "name": "Vastus intermedius m.",
+      "raw": "Vastus intermedius m.",
+      "frequency": null
+    },
+    {
+      "name": "Rectus femoris m.",
+      "raw": "Rectus femoris m.",
+      "frequency": null
+    },
+    {
+      "name": "Sartorius tendon",
+      "raw": "Sartorius tendon (anterior)",
+      "frequency": null
+    },
+    {
+      "name": "Gracilis tendon",
+      "raw": "Gracilis tendon (middle)",
+      "frequency": null
+    },
+    {
+      "name": "Semitendinosus tendon [Patella Alta]",
+      "raw": "Semitendinosus tendon (posterior)",
+      "frequency": null,
+      "sites": [
+        "Patella Alta"
+      ]
+    },
+    {
+      "name": "mostly asymptomatic",
+      "raw": "mostly asymptomatic",
+      "frequency": null
+    },
+    {
+      "name": "large posterior bulk = spiraling together at femoral origin",
+      "raw": "large posterior bulk = spiraling together at femoral origin",
+      "frequency": null
+    },
+    {
+      "name": "small anteromedial bundle diverging at tibial insertion",
+      "raw": "small anteromedial bundle diverging at tibial insertion",
+      "frequency": null
+    },
+    {
+      "name": "Collateral Ligaments of Knee Joint",
+      "raw": "Collateral Ligaments of Knee Joint",
+      "frequency": null
+    },
+    {
+      "name": "Medial (Tibial) Collateral Ligament",
+      "raw": "Medial (Tibial) Collateral Ligament",
+      "frequency": null
+    },
+    {
+      "name": "Origin:   just distal to adductor tubercle of femur",
+      "raw": "Origin:   just distal to adductor tubercle of femur",
+      "frequency": null
+    },
+    {
+      "name": "Lateral (Fibular) Collateral Ligament",
+      "raw": "Lateral (Fibular) Collateral Ligament",
+      "frequency": null
+    },
+    {
+      "name": "Origin:   lateral aspect of lateral femoral condyle",
+      "raw": "Origin:   lateral aspect of lateral femoral condyle",
+      "frequency": null
+    },
+    {
+      "name": "Insertion:   styloid process of fibular head",
+      "raw": "Insertion:   styloid process of fibular head",
+      "frequency": null
+    },
+    {
+      "name": "Semimembranosus tendon Attachment:   infraglenoid tubercle of posteromedial tibia; posterior joint capsule; [Posterior joint capsule] [Posterior oblique ligament]",
+      "raw": "Semimembranosus tendon Attachment:   infraglenoid tubercle of posteromedial tibia; posterior joint capsule;",
+      "frequency": null,
+      "sites": [
+        "Posterior joint capsule",
+        "Posterior oblique ligament"
+      ]
+    },
+    {
+      "name": "circumferential (longitudinal) type I collagen bundles parallel to long axis of meniscus → hoop strength resisting axial load + preventing meniscal extrusion",
+      "raw": "circumferential (longitudinal) type I collagen bundles parallel to long axis of meniscus → hoop strength resisting axial load + preventing meniscal extrusion",
+      "frequency": null
+    },
+    {
+      "name": "radial thin fibers perpendicular to longitudinal bundles forming a lattice → tying bundles together + providing structural support",
+      "raw": "radial thin fibers perpendicular to longitudinal bundles forming a lattice → tying bundles together + providing structural support",
+      "frequency": null
+    },
+    {
+      "name": "Transverse meniscal (geniculate) ligament (83-90%) =  thin fibrous band that connects and stabilizes the anterior horns of the menisci",
+      "raw": "Transverse meniscal (geniculate) ligament (83-90%) =  thin fibrous band that connects and stabilizes the anterior horns of the menisci",
+      "frequency": "90%"
+    },
+    {
+      "name": "Meniscofemoral ligaments (MFL) in 89-93% (a)  Wrisberg ligament",
+      "raw": "Meniscofemoral ligaments (MFL) in 89-93% (a)  Wrisberg ligament",
+      "frequency": "93%"
+    },
+    {
+      "name": "Popliteomeniscal fascicles (visualized in 90%) (a)  anteroinferior fascicle = floor of popliteal hiatus (b)  posterosuperior fascicle = roof of popliteal hiatus =  synovial-lined fibrous bands that attach to posterior horn of lateral meniscus + help form popliteal hiatus",
+      "raw": "Popliteomeniscal fascicles (visualized in 90%) (a)  anteroinferior fascicle = floor of popliteal hiatus (b)  posterosuperior fascicle = roof of popliteal hiatus =  synovial-lined fibrous bands that attach to posterior horn of lateral meniscus + help form popliteal hiatus",
+      "frequency": "90%"
+    },
+    {
+      "name": "Popliteal hiatus =  separates lateral meniscus from joint capsule",
+      "raw": "Popliteal hiatus =  separates lateral meniscus from joint capsule",
+      "frequency": null
+    },
+    {
+      "name": "Oblique meniscomeniscal ligament (1-4%) =  connects meniscal horns in X-wise fashion on AXIAL image (a)  medial oblique meniscomeniscal ligament",
+      "raw": "Oblique meniscomeniscal ligament (1-4%) =  connects meniscal horns in X-wise fashion on AXIAL image (a)  medial oblique meniscomeniscal ligament",
+      "frequency": "4%"
+    },
+    {
+      "name": "Diskoid meniscus =  abnormally shaped enlarged meniscus with further central extension onto tibial articular surface",
+      "raw": "Diskoid meniscus =  abnormally shaped enlarged meniscus with further central extension onto tibial articular surface",
+      "frequency": null
+    },
+    {
+      "name": "Meniscal flounce =  rippled appearance of free nonanchored inner edge of medial meniscus",
+      "raw": "Meniscal flounce =  rippled appearance of free nonanchored inner edge of medial meniscus",
+      "frequency": null
+    },
+    {
+      "name": "Meniscal ossicle",
+      "raw": "Meniscal ossicle (rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": "=  quadriceps muscle consisting of Insertion:  combined as quadriceps tendon on patella Pes Anserinus [pes, Latin = foot; anser, Latin = goose] =  tendinous configuration of 3 flexors + medial rotators of knee joint attaching inferomedially to tibial tuberosity mnemonic:   Say GraceSe before eating goose =  high-riding patella as normal anatomic variant Cause:   patellar tendon too long → reduced patellar contact area → patellar dislocation ◊  High-riding patella in 25% of patients with acute patellar dislocation MR measurement: patellar height ratio (Insall-Salvati index) = TL÷PL = patellar t"
+}

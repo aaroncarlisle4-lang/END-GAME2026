@@ -1,0 +1,52 @@
+{
+  "finding": "Cause: infection complicated by obstruction",
+  "slug": "cause_infection_complicated_by_obstruction",
+  "chapter": "Radiographic Shape of Kidney Stone",
+  "source_file": "processed_clusters/radiographic_shape_of_kidney_stone/cause_infection_complicated_by_obstruction.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Jack stone (resembling a child's toy jack) =  stone of spiked configuration",
+      "raw": "Jack stone (resembling a child's toy jack) =  stone of spiked configuration",
+      "frequency": null
+    },
+    {
+      "name": "Mulberry stone = mamillated contour",
+      "raw": "Mulberry stone = mamillated contour",
+      "frequency": null
+    },
+    {
+      "name": "Hemp-seed calculi =  multiple small stones of similar size with lapidary appearance",
+      "raw": "Hemp-seed calculi =  multiple small stones of similar size with lapidary appearance (like cut gems) [lapis, Latin = stone; lapidarius = stonecutter]",
+      "frequency": null
+    },
+    {
+      "name": "Milk of calcium",
+      "raw": "Milk of calcium (with urine-calcium level)",
+      "frequency": null
+    },
+    {
+      "name": "Struvite",
+      "raw": "Struvite (rarely of pure magnesium ammonium phosphate)",
+      "frequency": null
+    },
+    {
+      "name": "Matrix stone",
+      "raw": "Matrix stone (mucoprotein, mucopolysaccharide)",
+      "frequency": null
+    },
+    {
+      "name": "Uric acid",
+      "raw": "Uric acid",
+      "frequency": null
+    },
+    {
+      "name": "Xanthine",
+      "raw": "Xanthine",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  pyonephrosis (b)  XGP Composition:   calcium oxalate dihydrate Location:   urinary bladder > kidney Composition:   calcium oxalate dihydrate Composition:   calcium oxalate / calcium phosphate Location:   caliceal diverticulum, cyst, hydronephrosis) Composition:   calcium carbonate Location:   any epithelium-lined structure directly communicating with the collecting system (caliceal diverticulum, hydrocalyx, renal cyst) Nonradiopaque Stones Calculi often Associated with Infection mnemonic:   S and M Struvite (magnesium ammonium phosphate ± calcium phosphate) Matrix stone (mucoprotein, muco"
+}

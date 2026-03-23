@@ -1,0 +1,52 @@
+{
+  "finding": "STATISTICS",
+  "slug": "statistics",
+  "chapter": "Gallium in Lung Imaging",
+  "source_file": "processed_clusters/gallium_in_lung_imaging/statistics.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "TP  =  test positive in diseased subjects",
+      "raw": "TP  =  test positive in diseased subjects",
+      "frequency": null
+    },
+    {
+      "name": "FP  =  test positive in nondiseased subjects",
+      "raw": "FP  =  test positive in nondiseased subjects",
+      "frequency": null
+    },
+    {
+      "name": "FN  =  test negative in diseased subjects",
+      "raw": "FN  =  test negative in diseased subjects",
+      "frequency": null
+    },
+    {
+      "name": "TN  =  test negative in nondiseased subjects",
+      "raw": "TN  =  test negative in nondiseased subjects",
+      "frequency": null
+    },
+    {
+      "name": "T+   =  abnormal test results",
+      "raw": "T+   =  abnormal test results",
+      "frequency": null
+    },
+    {
+      "name": "T-    =  normal test results",
+      "raw": "T-    =  normal test results",
+      "frequency": null
+    },
+    {
+      "name": "D+   =  diseased subjects",
+      "raw": "D+   =  diseased subjects",
+      "frequency": null
+    },
+    {
+      "name": "D-   =  nondiseased subjects",
+      "raw": "D-   =  nondiseased subjects",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

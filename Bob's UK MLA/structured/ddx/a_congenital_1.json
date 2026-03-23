@@ -1,0 +1,42 @@
+{
+  "finding": "A. CONGENITAL",
+  "slug": "a_congenital_1",
+  "chapter": "MALE INFERTILITY",
+  "source_file": "processed_clusters/male_infertility/a_congenital_1.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal agenesis / atrophy",
+      "raw": "Renal agenesis / atrophy",
+      "frequency": null
+    },
+    {
+      "name": "Vas deferens agenesis / cyst",
+      "raw": "Vas deferens agenesis / cyst",
+      "frequency": null
+    },
+    {
+      "name": "Seminal vesicle agenesis / cyst",
+      "raw": "Seminal vesicle agenesis / cyst",
+      "frequency": null
+    },
+    {
+      "name": "Ejaculatory duct cyst (b)  Müllerian duct anomalies",
+      "raw": "Ejaculatory duct cyst (b)  Müllerian duct anomalies",
+      "frequency": null
+    },
+    {
+      "name": "Müllerian duct cyst",
+      "raw": "Müllerian duct cyst",
+      "frequency": null
+    },
+    {
+      "name": "Utricle cyst",
+      "raw": "Utricle cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  Wolffian duct anomalies"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "Marfan syndrome, Ehlers-Danlos syndrome, Weill-Marchesani syndrome",
+  "slug": "marfan_syndrome_ehlers_danlos_syndrome_weill_marchesani_syndrome_499747",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/marfan_syndrome_ehlers_danlos_syndrome_weill_marchesani_syndrome_499747.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Staphyloma",
+      "raw": "Staphyloma",
+      "frequency": null
+    },
+    {
+      "name": "Apparent enlargement due to contralateral microphthalmia",
+      "raw": "Apparent enlargement due to contralateral microphthalmia",
+      "frequency": null
+    },
+    {
+      "name": "WITH INTRAOCULAR MASS (rare cause for enlargement) (a)  with calcifications:",
+      "raw": "WITH INTRAOCULAR MASS (rare cause for enlargement) (a)  with calcifications:",
+      "frequency": "rare"
+    },
+    {
+      "name": "Retinoblastoma",
+      "raw": "Retinoblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Melanoma",
+      "raw": "Melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(congenital mesodermal dysmorphodystrophy), homocystinuria √  \"wavy\" contour of sclera (b)  focal enlargement (b)  without calcifications:"
+}

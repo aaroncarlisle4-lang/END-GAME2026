@@ -1,0 +1,37 @@
+{
+  "finding": "Multifocal Enhancing Lesions",
+  "slug": "multifocal_enhancing_lesions",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/multifocal_enhancing_lesions.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Multiple infarctions",
+      "raw": "Multiple infarctions",
+      "frequency": null
+    },
+    {
+      "name": "Arteriovenous malformations",
+      "raw": "Arteriovenous malformations",
+      "frequency": null
+    },
+    {
+      "name": "Multifocal primary / secondary neoplasms",
+      "raw": "Multifocal primary / secondary neoplasms",
+      "frequency": null
+    },
+    {
+      "name": "Multifocal infectious processes",
+      "raw": "Multifocal infectious processes",
+      "frequency": null
+    },
+    {
+      "name": "Demyelinating disease: eg, multiple sclerosis",
+      "raw": "Demyelinating disease: eg, multiple sclerosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

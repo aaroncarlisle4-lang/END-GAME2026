@@ -1,0 +1,27 @@
+{
+  "finding": "B. NEUROENDOCRINE TUMORS IN NF1",
+  "slug": "b_neuroendocrine_tumors_in_nf1_d15cb2",
+  "chapter": "NEUROFIBROMATOSIS",
+  "source_file": "processed_clusters/neurofibromatosis/b_neuroendocrine_tumors_in_nf1_d15cb2.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Periampullary carcinoid",
+      "raw": "Periampullary carcinoid",
+      "frequency": null
+    },
+    {
+      "name": "Pheochromocytoma in adults",
+      "raw": "Pheochromocytoma in adults",
+      "frequency": null
+    },
+    {
+      "name": "Paraganglioma",
+      "raw": "Paraganglioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   solitary + unilateral (84%); bilateral (10%); extraadrenal (6%)"
+}

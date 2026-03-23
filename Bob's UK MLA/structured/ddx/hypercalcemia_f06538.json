@@ -1,0 +1,67 @@
+{
+  "finding": "HYPERCALCEMIA",
+  "slug": "hypercalcemia_f06538",
+  "chapter": "Nephrogenic Diabetes Insipidus",
+  "source_file": "processed_clusters/nephrogenic_diabetes_insipidus/hypercalcemia_f06538.md",
+  "quality_score": 0.367,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism, Hyperthyroidism",
+      "raw": "Hyperparathyroidism, Hyperthyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Alkali-milk syndrome",
+      "raw": "Alkali-milk syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Metastases, Myeloma",
+      "raw": "Metastases, Myeloma",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Osteopetrosis",
+      "raw": "Osteopetrosis",
+      "frequency": null
+    },
+    {
+      "name": "D vitamin intoxication",
+      "raw": "D vitamin intoxication",
+      "frequency": null
+    },
+    {
+      "name": "Immobility",
+      "raw": "Immobility",
+      "frequency": null
+    },
+    {
+      "name": "Renal tubular acidosis",
+      "raw": "Renal tubular acidosis",
+      "frequency": null
+    },
+    {
+      "name": "Thiazides",
+      "raw": "Thiazides",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

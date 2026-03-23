@@ -1,0 +1,52 @@
+{
+  "finding": "Gallium Imaging in Malignant Melanoma",
+  "slug": "gallium_imaging_in_malignant_melanoma_c2f21a",
+  "chapter": "Gallium in Lung Imaging",
+  "source_file": "processed_clusters/gallium_in_lung_imaging/gallium_imaging_in_malignant_melanoma_c2f21a.md",
+  "quality_score": 0.867,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lentigo maligna: low invasiveness, low metastatic potential",
+      "raw": "Lentigo maligna: low invasiveness, low metastatic potential",
+      "frequency": null
+    },
+    {
+      "name": "Superficial spreading melanoma: intermediate prognosis",
+      "raw": "Superficial spreading melanoma: intermediate prognosis",
+      "frequency": null
+    },
+    {
+      "name": "Nodular melanoma: most lethal",
+      "raw": "Nodular melanoma: most lethal",
+      "frequency": null
+    },
+    {
+      "name": "Level  I  (in situ)  100%",
+      "raw": "Level  I  (in situ)  100%",
+      "frequency": "100%"
+    },
+    {
+      "name": "Level  II  (within papillary dermis)  100%",
+      "raw": "Level  II  (within papillary dermis)  100%",
+      "frequency": "100%"
+    },
+    {
+      "name": "Level  III  (extending to reticular dermis)  88%",
+      "raw": "Level  III  (extending to reticular dermis)  88%",
+      "frequency": "88%"
+    },
+    {
+      "name": "Level  IV  (invading reticular dermis)  66%",
+      "raw": "Level  IV  (invading reticular dermis)  66%",
+      "frequency": "66%"
+    },
+    {
+      "name": "Level  V  (subcutaneous infiltration)  15%",
+      "raw": "Level  V  (subcutaneous infiltration)  15%",
+      "frequency": "15%"
+    }
+  ],
+  "criteria": {},
+  "context": "Types: Prognosis (level of invasion versus 5-year survival): Ga-67: > 50% sensitivity for primary + metastatic sites Detectability versus tumor size: 73% sensitivity > 2 cm; 17% sensitivity < 2 cm Bone, brain, liver scintigraphy: show very low yield in detecting metastases at time of preoperative assessment and are not indicated"
+}

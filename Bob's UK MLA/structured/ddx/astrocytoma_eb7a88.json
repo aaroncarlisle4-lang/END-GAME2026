@@ -1,0 +1,122 @@
+{
+  "finding": "ASTROCYTOMA",
+  "slug": "astrocytoma_eb7a88",
+  "chapter": "ANENCEPHALY",
+  "source_file": "processed_clusters/anencephaly/astrocytoma_eb7a88.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cystic lesion with tumor nodule",
+      "raw": "cystic lesion with tumor nodule (\"mural nodule\") in cyst wall (50%); (midline astrocytomas cystic in 50%, hemispheric astrocytomas cystic in 80%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "solid mass with cystic",
+      "raw": "solid mass with cystic (= necrotic) center (40-45%)",
+      "frequency": "45%"
+    },
+    {
+      "name": "solid tumor without necrosis",
+      "raw": "solid tumor without necrosis (< 10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "hydrocephalus, headache, vomiting, neck pain, 6th nerve palsy",
+      "raw": "hydrocephalus, headache, vomiting, neck pain, 6th nerve palsy",
+      "frequency": null
+    },
+    {
+      "name": "blurred vision, diplopia, papilledema, nystagmus",
+      "raw": "blurred vision, diplopia, papilledema, nystagmus",
+      "frequency": null
+    },
+    {
+      "name": "cerebellar signs: truncal ataxia, dysdiadochokinesia appendicular dysmetria, gait disturbance Location:   originating in midline with extension into cerebellar hemisphere",
+      "raw": "cerebellar signs: truncal ataxia, dysdiadochokinesia appendicular dysmetria, gait disturbance Location:   originating in midline with extension into cerebellar hemisphere (29-53%), vermis (16-71%) > tonsils > brainstem (34%)",
+      "frequency": "53%"
+    },
+    {
+      "name": "40% 25-year survival rate for solid cerebellar astrocytoma",
+      "raw": "40% 25-year survival rate for solid cerebellar astrocytoma",
+      "frequency": "40%"
+    },
+    {
+      "name": "90% 25-year survival rate for cystic juvenile pilocytic astrocytoma",
+      "raw": "90% 25-year survival rate for cystic juvenile pilocytic astrocytoma",
+      "frequency": "90%"
+    },
+    {
+      "name": "Medulloblastoma",
+      "raw": "Medulloblastoma (hyperdense mass, noncalcified)",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma",
+      "raw": "Ependymoma (4th ventricle, 50% calcify)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Hemangioblastoma",
+      "raw": "Hemangioblastoma (lesion < 5 cm)",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Trapped 4th ventricle",
+      "raw": "Trapped 4th ventricle",
+      "frequency": null
+    },
+    {
+      "name": "Megacisterna magna",
+      "raw": "Megacisterna magna",
+      "frequency": null
+    },
+    {
+      "name": "Dandy-Walker cyst",
+      "raw": "Dandy-Walker cyst",
+      "frequency": null
+    },
+    {
+      "name": "Cyst with intensely enhancing mural nodule",
+      "raw": "Cyst with intensely enhancing mural nodule (67%) (a)  nonenhancing cyst wall (21%) (b)  enhancing cyst wall (46%)",
+      "frequency": "67%"
+    },
+    {
+      "name": "Solid mass",
+      "raw": "Solid mass (33%) (a)  central nonenhancing necrotic zone (16%) (b)  minimal / no cystic component (17%)",
+      "frequency": "33%"
+    },
+    {
+      "name": "nausea, vomiting, ataxia, torticollis",
+      "raw": "nausea, vomiting, ataxia, torticollis",
+      "frequency": null
+    },
+    {
+      "name": "papilledema, nystagmus, 6th & 7th nerve palsy",
+      "raw": "papilledema, nystagmus, 6th & 7th nerve palsy",
+      "frequency": null
+    },
+    {
+      "name": "obesity, diabetes insipidus ← hypothalamic-pituitary dysfunction",
+      "raw": "obesity, diabetes insipidus ← hypothalamic-pituitary dysfunction",
+      "frequency": null
+    },
+    {
+      "name": "diencephalic syndrome",
+      "raw": "diencephalic syndrome (= emaciation despite normal / slightly decreased caloric intake, alert appearance, hyperkinesis, irritability, normal / accelerated growth)",
+      "frequency": null
+    },
+    {
+      "name": "hemiparesis ← compression of corticospinal tracts",
+      "raw": "hemiparesis ← compression of corticospinal tracts",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Incidence:   70-75% of all primary intracranial tumors; most common brain tumor in children (40-50% of all primary pediatric intracranial neoplasms) Distribution:   proportional to amount of white matter Location: cerebral hemisphere (lobar), thalamus, pons, midbrain, may spread across corpus callosum; no particular lobar distribution (a)  in adults: central white matter of cerebrum (15-30% of all gliomas) (b)  in children: cerebellum (40%), brainstem (20%), supratentorial (30%) Well-differentiated = Low-grade Astrocytoma Incidence:  9% of all primary intracranial tumors; 10-15% of gliomas Age"
+}

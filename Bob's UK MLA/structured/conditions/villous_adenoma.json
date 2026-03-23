@@ -1,0 +1,48 @@
+{
+  "name": "VILLOUS ADENOMA",
+  "slug": "villous_adenoma",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/villous_adenoma.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "7% of all colonic tumors",
+    "Age": "presentation late in life; M = F",
+    "Location": "rectum + sigmoid (75%), cecum, ileocecal valve; 2% of all tumors in rectum +",
+    "Associated with": "other GI tumors (25%)",
+    "Prevalence": "1% [50%] of all [benign] duodenal neoplasms; more common in colon + rectum",
+    "Size": "3-9 cm"
+  },
+  "dominant_finding": "heterogeneous low attenuation on CT ← capacious mucin becoming trapped within",
+  "distribution": "rectum + sigmoid (75%), cecum, ileocecal valve; 2% of all tumors in rectum +",
+  "discriminating_features": [
+    "CHARACTERISTIC surface gyral pattern for large tumor",
+    "solitary sessile polypoid mass with numerous frondlike projections of reticular \"soap",
+    "may completely encircle the colon",
+    "broad-based sessile bulky tumor often > 20 mm in diameter:",
+    "innumerable papillary mucosal projections (\"villous fronds\") with reticular / granular"
+  ],
+  "other_features": {
+    "general": [
+      "solitary sessile polypoid mass with numerous frondlike projections of reticular \"soap",
+      "may completely encircle the colon",
+      "broad-based sessile bulky tumor often > 20 mm in diameter:",
+      "innumerable papillary mucosal projections (\"villous fronds\") with reticular / granular",
+      "spongelike corrugated appearance (= barium within interstices)",
+      "striated \"brushlike\" surface",
+      "soft pliable tumor with change in shape:",
+      "apparent decrease in size on postevacuation films"
+    ],
+    "CT": [
+      "heterogeneous low attenuation on CT ← capacious mucin becoming trapped within",
+      "sessile soft mostly nonobstructive mass",
+      "\"lace\" / \"soap bubble\" pattern ← frondlike projections",
+      "preservation of peristaltic activity + bowel distensibility",
+      "variegated attenuation + variable enhancement patterns",
+      "CHARACTERISTIC surface gyral pattern for large tumor"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "higher malignant potential than tubular adenoma",
+    "Cx": "malignant transformation / invasion (in 36%) related to size of tumor < 5 cm (9%); > 5"
+  }
+}

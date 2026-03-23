@@ -1,0 +1,31 @@
+{
+  "finding": "Scurvy — Teeth (DDx)",
+  "slug": "scurvy_teeth_ddx_28c93b",
+  "chapter": "Scurvy",
+  "source_file": "processed_clusters/scurvy/scurvy_teeth_ddx_28c93b.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "TORCH infections",
+      "raw": "TORCH infections",
+      "frequency": null
+    },
+    {
+      "name": "leukemia",
+      "raw": "leukemia",
+      "frequency": null
+    },
+    {
+      "name": "neuroblastoma",
+      "raw": "neuroblastoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "TORCH infections": [],
+    "leukemia": [],
+    "neuroblastoma": []
+  },
+  "context": "Park corner sign = subepiphyseal infraction / comminution resulting in mushrooming / | Wimberger ring = sclerotic ring around low-density epiphysis ← osteopenia of | subperiosteal hematoma with calcification of elevated periosteum (sure sign of | cyst formation + hemorrhage in enamel"
+}

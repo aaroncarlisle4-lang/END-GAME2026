@@ -1,0 +1,27 @@
+{
+  "finding": "Miscellaneous Causes of Pneumoperitoneum",
+  "slug": "miscellaneous_causes_of_pneumoperitoneum",
+  "chapter": "ABNORMAL INTRAABDOMINAL AIR",
+  "source_file": "processed_clusters/abnormal_intraabdominal_air/miscellaneous_causes_of_pneumoperitoneum.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Drugs: steroids, NSAID",
+      "raw": "Drugs: steroids, NSAID",
+      "frequency": null
+    },
+    {
+      "name": "Pneumatosis coli / intestinalis",
+      "raw": "Pneumatosis coli / intestinalis",
+      "frequency": null
+    },
+    {
+      "name": "Entry through female genital tract: douching, sexual intercourse, insufflation",
+      "raw": "Entry through female genital tract: douching, sexual intercourse, insufflation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

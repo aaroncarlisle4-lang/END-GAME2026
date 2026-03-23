@@ -1,0 +1,107 @@
+{
+  "finding": "Chronic Contained Aortic Aneurysm Rupture",
+  "slug": "chronic_contained_aortic_aneurysm_rupture",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/cardiovascular_disorders/chronic_contained_aortic_aneurysm_rupture.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "hemodynamically stable",
+      "raw": "hemodynamically stable",
+      "frequency": null
+    },
+    {
+      "name": "± previous episode of abdominal pain",
+      "raw": "± previous episode of abdominal pain",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic",
+      "raw": "asymptomatic (most)",
+      "frequency": null
+    },
+    {
+      "name": "chest pain; symptoms related to compression of adjacent structures (dysphagia, hoarseness, lobar atelectasis, pneumonia, parenchymal hemorrhage, superior vena cava syndrome) Location:   distal abdominal aorta (66%) > iliac a. > popliteal a. > common femoral a. > aortic + descending thoracic aorta > carotid a. > ascending aorta",
+      "raw": "chest pain; symptoms related to compression of adjacent structures (dysphagia, hoarseness, lobar atelectasis, pneumonia, parenchymal hemorrhage, superior vena cava syndrome) Location:   distal abdominal aorta (66%) > iliac a. > popliteal a. > common femoral a. > aortic + descending thoracic aorta > carotid a. > ascending aorta",
+      "frequency": "66%"
+    },
+    {
+      "name": "Infrarenal aorta",
+      "raw": "Infrarenal aorta (associated with thoracic aneurysm in 29%)",
+      "frequency": "29%"
+    },
+    {
+      "name": "Descending thoracic aorta distal to left subclavian artery",
+      "raw": "Descending thoracic aorta distal to left subclavian artery",
+      "frequency": null
+    },
+    {
+      "name": "Thoracoabdominal aorta",
+      "raw": "Thoracoabdominal aorta",
+      "frequency": null
+    },
+    {
+      "name": "Genetically transmitted metabolic disorder: Marfan syndrome, Ehlers-Danlos syndrome",
+      "raw": "Genetically transmitted metabolic disorder: Marfan syndrome, Ehlers-Danlos syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Acquired: result of repetitive aortic injury + repair associated with aging",
+      "raw": "Acquired: result of repetitive aortic injury + repair associated with aging",
+      "frequency": null
+    },
+    {
+      "name": "thickened wall of aneurysm",
+      "raw": "thickened wall of aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "extensive perianeurysmal + retroperitoneal fibrosis",
+      "raw": "extensive perianeurysmal + retroperitoneal fibrosis",
+      "frequency": null
+    },
+    {
+      "name": "dense adhesions of adjacent abdominal organs Cause:  slow leakage from aneurysm related to periaortic retroperitoneal fibrosis and autoimmune diseases",
+      "raw": "dense adhesions of adjacent abdominal organs Cause:  slow leakage from aneurysm related to periaortic retroperitoneal fibrosis and autoimmune diseases (rheumatoid arthritis, systemic lupus erythematosus, giant cell arteritis)",
+      "frequency": null
+    },
+    {
+      "name": "abdominal / back pain; weight loss + anorexia",
+      "raw": "abdominal / back pain; weight loss + anorexia (20-41%)",
+      "frequency": "41%"
+    },
+    {
+      "name": "elevated ESR (40-88%), fever",
+      "raw": "elevated ESR (40-88%), fever",
+      "frequency": "88%"
+    },
+    {
+      "name": "tender pulsatile abdominal mass",
+      "raw": "tender pulsatile abdominal mass (15-30%) Comorbidities:   arterial hypertension (34-69%), arterial occlusive disease (10-47%), diabetes mellitus (3-13%), coronary artery disease (33-55%)",
+      "frequency": "30%"
+    },
+    {
+      "name": "Entrapment of ureters (10-21%) + hydronephrosis",
+      "raw": "Entrapment of ureters (10-21%) + hydronephrosis",
+      "frequency": "21%"
+    },
+    {
+      "name": "Aortic-sigmoid colon fistula + bleeding",
+      "raw": "Aortic-sigmoid colon fistula + bleeding",
+      "frequency": null
+    },
+    {
+      "name": "Secondary bacterial infection",
+      "raw": "Secondary bacterial infection (eg, Salmonella)",
+      "frequency": null
+    },
+    {
+      "name": "Enlargement + rupture irrespective of size",
+      "raw": "Enlargement + rupture irrespective of size (lower rate than in noninflammatory aneurysm)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  aortic wall no longer fully intact with hemorrhage enclosed by a thrombus and/or retroperitoneal soft tissues Angio: √  absent parenchymal stain = avascular halo √  displacement + stretching of aortic branches CT: √  loss of periaortic fat planes: √  commonly posterolateral focal area of soft-tissue attenuation intimately associated with aorta √  \"draped aorta\" sign = posterior aortic wall not identifiable as distinct from adjacent structures / closely apposed to adjacent vertebral body contour √  new saccular outpouching (= focal breach) of aneurysm wall in the region that appears draped o"
+}

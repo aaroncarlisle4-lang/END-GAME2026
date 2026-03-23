@@ -1,0 +1,62 @@
+{
+  "finding": "Complications of Spinal Instrumentation",
+  "slug": "complications_of_spinal_instrumentation",
+  "chapter": "Anterior Lumbar Surgical Procedures",
+  "source_file": "processed_clusters/anterior_lumbar_surgical_procedures/complications_of_spinal_instrumentation.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pseudarthrosis",
+      "raw": "Pseudarthrosis",
+      "frequency": null
+    },
+    {
+      "name": "Malpositioned pedicle screws",
+      "raw": "Malpositioned pedicle screws (2.4% complication rate)",
+      "frequency": "2.4%"
+    },
+    {
+      "name": "nerve root irritation",
+      "raw": "nerve root irritation (medial angulation of screw)",
+      "frequency": null
+    },
+    {
+      "name": "Malpositioned anterior cervical plate",
+      "raw": "Malpositioned anterior cervical plate",
+      "frequency": null
+    },
+    {
+      "name": "Herniation of graft material",
+      "raw": "Herniation of graft material",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative hematoma",
+      "raw": "Postoperative hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Surgery at wrong level",
+      "raw": "Surgery at wrong level",
+      "frequency": null
+    },
+    {
+      "name": "Accelerated degenerative changes / ligamentous instability / fracture at adjacent levels",
+      "raw": "Accelerated degenerative changes / ligamentous instability / fracture at adjacent levels",
+      "frequency": null
+    },
+    {
+      "name": "Superficial / deep infection",
+      "raw": "Superficial / deep infection (diskitis, osteomyelitis)",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoiditis",
+      "raw": "Arachnoiditis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  corticated linear lucency across graft material √  focally increased signal on T2WI √  increased tracer activity on bone scintigraphy √  disruption of cortical bone (a)  medial deviation (b)  lateral deviation (c)  penetration of anterior cortex (exception are sacral screws which may be anchored in anterior cortex of the sacrum for additional stability) √  lucent rim around screw threads ← loosening √  penetration into adjacent disk space / foramen transversarium / spinal cord / nerve roots √  anteriorly / posteriorly displaced graft Assessment of Bridging Spinal Fusion Time from surgery:"
+}

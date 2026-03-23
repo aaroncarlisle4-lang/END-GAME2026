@@ -1,0 +1,47 @@
+{
+  "finding": "Solid Chest Mass",
+  "slug": "solid_chest_mass",
+  "chapter": "FETAL CHEST ANOMALIES",
+  "source_file": "processed_clusters/fetal_chest_anomalies/solid_chest_mass.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital diaphragmatic hernia: bowel ± liver",
+      "raw": "Congenital diaphragmatic hernia: bowel ± liver",
+      "frequency": null
+    },
+    {
+      "name": "Cystic adenomatoid malformation type III",
+      "raw": "Cystic adenomatoid malformation type III",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary sequestration",
+      "raw": "Pulmonary sequestration",
+      "frequency": null
+    },
+    {
+      "name": "Obstructed lung ← bronchial atresia, laryngeal atresia, bronchogenic cyst",
+      "raw": "Obstructed lung ← bronchial atresia, laryngeal atresia, bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Bronchopulmonary foregut malformation",
+      "raw": "Bronchopulmonary foregut malformation",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial tumor",
+      "raw": "Pericardial tumor",
+      "frequency": null
+    },
+    {
+      "name": "Heterotopic brain tissue",
+      "raw": "Heterotopic brain tissue",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

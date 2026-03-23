@@ -1,0 +1,27 @@
+{
+  "finding": "B. SHUNT AT ATRIAL LEVEL mnemonic: PET",
+  "slug": "b_shunt_at_atrial_level_mnemonic_pet",
+  "chapter": "Bronchial Situs",
+  "source_file": "processed_clusters/bronchial_situs/b_shunt_at_atrial_level_mnemonic_pet.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pulmonary stenosis / atresia with intact ventricular septum",
+      "raw": "Pulmonary stenosis / atresia with intact ventricular septum",
+      "frequency": null
+    },
+    {
+      "name": "Ebstein malformation + Uhl anomaly",
+      "raw": "Ebstein malformation + Uhl anomaly",
+      "frequency": null
+    },
+    {
+      "name": "Tricuspid atresia",
+      "raw": "Tricuspid atresia (ASD in 100%)",
+      "frequency": "100%"
+    }
+  ],
+  "criteria": {},
+  "context": "√  moderate to severe cardiomegaly √  RA dilatation √  RV enlargement ← massive tricuspid incompetence √  inapparent aorta √  left aortic arch"
+}

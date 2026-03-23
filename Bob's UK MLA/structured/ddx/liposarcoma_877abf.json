@@ -1,0 +1,57 @@
+{
+  "finding": "LIPOSARCOMA",
+  "slug": "liposarcoma_877abf",
+  "chapter": "LIPOMA OF BONE",
+  "source_file": "processed_clusters/lipoma_of_bone/liposarcoma_877abf.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "well-differentiated = lipogenic subtype",
+      "raw": "well-differentiated = lipogenic subtype (50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "dedifferentiated round cell subtype",
+      "raw": "dedifferentiated round cell subtype (10%)",
+      "frequency": "10%"
+    },
+    {
+      "name": "myxoid subtype",
+      "raw": "myxoid subtype (20-50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "pleomorphic subtype",
+      "raw": "pleomorphic subtype (5-15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "mixed subtype",
+      "raw": "mixed subtype (5-12%)",
+      "frequency": "12%"
+    },
+    {
+      "name": "typically painless, slow-growing",
+      "raw": "typically painless, slow-growing (months - years) soft-tissue mass; pain + tenderness (10- 15%)",
+      "frequency": "15%"
+    },
+    {
+      "name": "male patient age > 60 years",
+      "raw": "male patient age > 60 years",
+      "frequency": null
+    },
+    {
+      "name": "Myxoma",
+      "raw": "Myxoma (intramuscular, only thin rind of perilesional fat on T1WI, surrounding muscle atrophy + edema)",
+      "frequency": null
+    },
+    {
+      "name": "Synovial cyst / ganglion",
+      "raw": "Synovial cyst / ganglion (typical location, thick wall and surrounding edema, clinical history of liquefied hematoma / abscess)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  malignant tumor of mesenchymal origin rarely arising from lipoma Frequency:   10-16-35% of all soft-tissue sarcomas; 2nd most common soft-tissue sarcoma in adults (after malignant fibrous histiocytoma) Prevalence:   4.1÷1,000,000 in USA (2001) Age:   5th-6th decade; M÷F = 1÷1 Path:   wide spectrum of pathologic appearances varying from circumscribed lesions consisting predominantly of adipose tissue to circumscribed / infiltrating masses without any macroscopically visible adipose elements Histo:   < 50% of liposarcomas contain lipid material; nonadipose components include fibrosis, inflamm"
+}

@@ -1,0 +1,52 @@
+{
+  "finding": "Choledochal Cyst (DDx)",
+  "slug": "choledochal_cyst_ddx",
+  "chapter": "Choledochal Cyst",
+  "source_file": "processed_clusters/choledochal_cyst/choledochal_cyst_ddx.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "mesenteric",
+      "raw": "mesenteric",
+      "frequency": null
+    },
+    {
+      "name": "omental",
+      "raw": "omental",
+      "frequency": null
+    },
+    {
+      "name": "ovarian",
+      "raw": "ovarian",
+      "frequency": null
+    },
+    {
+      "name": "renal",
+      "raw": "renal",
+      "frequency": null
+    },
+    {
+      "name": "adrenal",
+      "raw": "adrenal",
+      "frequency": null
+    },
+    {
+      "name": "hepatic",
+      "raw": "hepatic",
+      "frequency": null
+    },
+    {
+      "name": "enteric duplication cyst",
+      "raw": "enteric duplication cyst",
+      "frequency": null
+    },
+    {
+      "name": "pancreatic",
+      "raw": "pancreatic",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

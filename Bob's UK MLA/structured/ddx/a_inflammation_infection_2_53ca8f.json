@@ -1,0 +1,32 @@
+{
+  "finding": "A. INFLAMMATION / INFECTION",
+  "slug": "a_inflammation_infection_2_53ca8f",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF UROGENITAL DISORDERS",
+  "source_file": "processed_clusters/differential_diagnosis_of_urogenital_disorders/a_inflammation_infection_2_53ca8f.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Glomerulonephritis",
+      "raw": "Glomerulonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Chronic pyelonephritis",
+      "raw": "Chronic pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

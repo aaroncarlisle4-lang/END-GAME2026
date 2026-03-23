@@ -1,0 +1,42 @@
+{
+  "finding": "LÜCKENSCHÄDEL",
+  "slug": "luckenschadel_af1c80",
+  "chapter": "HEMANGIOBLASTOMA OF SPINE",
+  "source_file": "processed_clusters/hemangioblastoma_of_spine/luckenschadel_af1c80.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Meningocele / myelomeningocele / encephalocele",
+      "raw": "Meningocele / myelomeningocele / encephalocele",
+      "frequency": null
+    },
+    {
+      "name": "Spina bifida",
+      "raw": "Spina bifida",
+      "frequency": null
+    },
+    {
+      "name": "Cleft palate",
+      "raw": "Cleft palate",
+      "frequency": null
+    },
+    {
+      "name": "Arnold-Chiari II malformation",
+      "raw": "Arnold-Chiari II malformation",
+      "frequency": null
+    },
+    {
+      "name": "normal intracranial pressure",
+      "raw": "normal intracranial pressure",
+      "frequency": null
+    },
+    {
+      "name": "\"Hammered silver\" appearance of increased intracranial pressure",
+      "raw": "\"Hammered silver\" appearance of increased intracranial pressure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  CRANIOLACUNIA = LACUNAR SKULL =  mesenchymal dysplasia of calvarial ossification (developmental disturbance) Age:   present at birth Associated with: Location:   particularly upper parietal area √  honeycombed appearance about 2 cm in diameter (thinning of diploic space) √  premature closure of sutures (turricephaly / scaphocephaly) Prognosis:   spontaneous regression within first 6 months of life DDx: (1)  Convolutional impressions = \"digital\" markings (visible at 2 years, maximally apparent at 4 years, disappear by 8 years of age)"
+}

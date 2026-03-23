@@ -1,0 +1,27 @@
+{
+  "finding": "B. INFLAMMATION",
+  "slug": "b_inflammation_1",
+  "chapter": "PNEUMOCONIOSIS",
+  "source_file": "processed_clusters/pneumoconiosis/b_inflammation_1.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis (endobronchial granuloma, broncholith, bronchial stenosis)",
+      "frequency": null
+    },
+    {
+      "name": "Right middle lobe syndrome",
+      "raw": "Right middle lobe syndrome (chronic right middle lobe atelectasis)",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (endobronchial granuloma - rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

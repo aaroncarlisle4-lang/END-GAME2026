@@ -1,0 +1,42 @@
+{
+  "finding": "B. LIVER",
+  "slug": "b_liver_eae063",
+  "chapter": "A. BILE DUCTS",
+  "source_file": "processed_clusters/a_bile_ducts/b_liver_eae063.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Acute hepatitis:",
+      "raw": "Acute hepatitis:",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic abscess",
+      "raw": "Hepatic abscess",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic tumor: metastases, hepatocellular carcinoma, hemangioma, focal nodular hyperplasia, hepatic adenoma",
+      "raw": "Hepatic tumor: metastases, hepatocellular carcinoma, hemangioma, focal nodular hyperplasia, hepatic adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhagic cyst",
+      "raw": "Hemorrhagic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Hepatic congestion: acute hepatic congestion, Budd-Chiari syndrome",
+      "raw": "Hepatic congestion: acute hepatic congestion, Budd-Chiari syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Perihepatitis = Fitz-Hugh-Curtis syndrome",
+      "raw": "Perihepatitis = Fitz-Hugh-Curtis syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "(a)  alcoholic, viral, drug-related, toxic (b)  steatohepatitis"
+}

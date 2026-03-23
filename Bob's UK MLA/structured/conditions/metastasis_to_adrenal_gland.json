@@ -1,0 +1,36 @@
+{
+  "name": "METASTASIS TO ADRENAL GLAND",
+  "slug": "metastasis_to_adrenal_gland",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/metastasis_to_adrenal_gland.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "4th most common site of metastatic disease in the body; in 3% of all autopsy cases",
+    "Location": "bilateral (49%); L÷R = 1.5÷1; collision tumor = rare coexistence of metastasis +"
+  },
+  "dominant_finding": "low-signal intensity on T1WI ← edema, necrosis",
+  "distribution": "bilateral (49%); L÷R = 1.5÷1; collision tumor = rare coexistence of metastasis +",
+  "discriminating_features": [
+    "large heterogeneously attenuating mass with irregular contour and progressive heterogeneous",
+    "lack of signal loss on out-of-phase images (DDx: adrenal adenoma)",
+    "low-signal intensity on T1WI ← edema, necrosis",
+    "heterogeneous high-signal intensity on T2WI",
+    "strong rapid progressive enhancement"
+  ],
+  "other_features": {
+    "general": [
+      "large heterogeneously attenuating mass with irregular contour and progressive heterogeneous"
+    ],
+    "MR": [
+      "lack of signal loss on out-of-phase images (DDx: adrenal adenoma)",
+      "low-signal intensity on T1WI ← edema, necrosis",
+      "heterogeneous high-signal intensity on T2WI",
+      "strong rapid progressive enhancement",
+      "prolonged retention of contrast material ← large interstitial spaces of edema + necrosis"
+    ],
+    "PET": [
+      "18F-fluorodeoxyglucose uptake in 100% with rare false-positive results"
+    ]
+  },
+  "clinical": {}
+}

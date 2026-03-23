@@ -1,0 +1,37 @@
+{
+  "finding": "Langerhans Cell Histiocytosis — Bone (DDx)",
+  "slug": "langerhans_cell_histiocytosis_bone_ddx_1",
+  "chapter": "Langerhans Cell Histiocytosis",
+  "source_file": "processed_clusters/langerhans_cell_histiocytosis/langerhans_cell_histiocytosis_bone_ddx_1.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "chondromyxoid fibroma",
+      "raw": "chondromyxoid fibroma",
+      "frequency": null
+    },
+    {
+      "name": "plasmacytoma",
+      "raw": "plasmacytoma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "unicameral cyst",
+      "raw": "unicameral cyst",
+      "frequency": null
+    },
+    {
+      "name": "aneurysmal bone cyst",
+      "raw": "aneurysmal bone cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cortical thickening, smooth periosteal reaction | extramedullary soft-tissue component with decreased T1 + increased T2 signal | increased radiotracer uptake on bone scan; may be falsely negative (not uncommon) | lesion resolution turning sclerotic ← periosteal new bone + sharply defined sclerotic"
+}

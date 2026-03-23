@@ -1,0 +1,42 @@
+{
+  "finding": "B. MALIGNANT",
+  "slug": "b_malignant_4",
+  "chapter": "D. HEMATOMA",
+  "source_file": "processed_clusters/d_hematoma/b_malignant_4.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malignant multiseptate cyst: multilocular cystic nephroma, cystic renal cell carcinoma",
+      "raw": "Malignant multiseptate cyst: multilocular cystic nephroma, cystic renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma (2% hyperattenuating)",
+      "frequency": "2%"
+    },
+    {
+      "name": "Papillary renal cell carcinoma",
+      "raw": "Papillary renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Oncocytoma",
+      "raw": "Oncocytoma (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Metastasis from thyroid carcinoma",
+      "raw": "Metastasis from thyroid carcinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

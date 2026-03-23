@@ -1,0 +1,37 @@
+{
+  "finding": "B. SECONDARY",
+  "slug": "b_secondary_dba511",
+  "chapter": "Ovarian Abnormalities",
+  "source_file": "processed_clusters/ovarian_abnormalities/b_secondary_dba511.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polycystic ovary syndrome",
+      "raw": "Polycystic ovary syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Endometriosis",
+      "raw": "Endometriosis",
+      "frequency": null
+    },
+    {
+      "name": "Ovarian cancer",
+      "raw": "Ovarian cancer",
+      "frequency": null
+    },
+    {
+      "name": "FEMALE ANATOMIC ANOMALIES =  Müllerian",
+      "raw": "FEMALE ANATOMIC ANOMALIES =  Müllerian (uterovaginal) anomalies (20%)",
+      "frequency": "20%"
+    },
+    {
+      "name": "CONGENITAL DISORDERS OF SEXUAL DIFFERENTIATION",
+      "raw": "CONGENITAL DISORDERS OF SEXUAL DIFFERENTIATION (a)  pure gonadal dysgenesis = Turner syndrome (33%)",
+      "frequency": "33%"
+    }
+  ],
+  "criteria": {},
+  "context": "Amenorrhea Primary Amenorrhea Definition: (a)  no menarche by 16 years of age (b)  no thelarche / adrenarche by 14 years of age (c)  no menarche > 3 years after adrenarche + thelarche Cause: √  bilateral dysfunctional / streak gonads (b)  mixed gonadal dysgenesis √  testis + streak gonad Risk:   in 25% development of dysgerminoma / gonadoblastoma in dysgenetic gonads with Y chromosome"
+}

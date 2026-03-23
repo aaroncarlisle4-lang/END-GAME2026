@@ -1,0 +1,75 @@
+{
+  "finding": "C. FLEXION-ROTATION INJURY (12%",
+  "slug": "c_flexion_rotation_injury_12",
+  "chapter": "Ossicular Injury",
+  "source_file": "processed_clusters/ossicular_injury/c_flexion_rotation_injury_12.md",
+  "quality_score": 0.6,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "Unilateral facet lock",
+      "raw": "Unilateral facet lock (oblique views!, stable fracture)",
+      "frequency": null
+    },
+    {
+      "name": "VERTICAL COMPRESSION",
+      "raw": "VERTICAL COMPRESSION (4%)",
+      "frequency": "4%"
+    },
+    {
+      "name": "Jefferson fracture",
+      "raw": "Jefferson fracture",
+      "frequency": null
+    },
+    {
+      "name": "Burst fracture = intervertebral disk driven into vertebral body below",
+      "raw": "Burst fracture = intervertebral disk driven into vertebral body below (fracture may be stable / unstable)",
+      "frequency": null
+    },
+    {
+      "name": "LATERAL FLEXION / SHEARING",
+      "raw": "LATERAL FLEXION / SHEARING (4-6%)",
+      "frequency": "6%"
+    },
+    {
+      "name": "Uncinate fracture",
+      "raw": "Uncinate fracture",
+      "frequency": null
+    },
+    {
+      "name": "Isolated pillar fracture",
+      "raw": "Isolated pillar fracture",
+      "frequency": null
+    },
+    {
+      "name": "Transverse process fracture [Lateral vertebral compression]",
+      "raw": "Transverse process fracture",
+      "frequency": null,
+      "sites": [
+        "Lateral vertebral compression"
+      ]
+    }
+  ],
+  "criteria": {
+    "Unilateral facet lock": [
+      "\"bow-tie\" sign = the 4 rotated facets on LAT view",
+      "\"naked facet\" (on CT) =  axial loading"
+    ],
+    "VERTICAL COMPRESSION": [],
+    "Jefferson fracture": [
+      "sagittal fracture component extending to inferior endplate",
+      "posterior element fracture Associated with:   widening of apophyseal joints, fracture of posterior vertebral arches"
+    ],
+    "Burst fracture = intervertebral disk driven into vertebral body below": [
+      "anterolisthesis < ¼ vertebral body width",
+      "loss of posterior vertebral body height with several fragments:"
+    ],
+    "LATERAL FLEXION / SHEARING": [],
+    "Uncinate fracture": [],
+    "Isolated pillar fracture": [],
+    "Transverse process fracture [Lateral vertebral compression]": [
+      "rotation of spinous process (on AP view)"
+    ]
+  },
+  "context": "√  anterolisthesis < ¼ vertebral body width √  \"bow-tie\" sign = the 4 rotated facets on LAT view √  decrease in spinolaminar space √  rotation of spinous process (on AP view) √  \"naked facet\" (on CT) =  axial loading √  loss of posterior vertebral body height with several fragments: √  sagittal fracture component extending to inferior endplate √  retropulsed fragment from posterior superior margin in spinal canal √  interpedicular widening √  posterior element fracture Associated with:   widening of apophyseal joints, fracture of posterior vertebral arches"
+}

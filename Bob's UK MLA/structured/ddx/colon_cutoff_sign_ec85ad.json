@@ -1,0 +1,39 @@
+{
+  "finding": "Colon Cutoff Sign",
+  "slug": "colon_cutoff_sign_ec85ad",
+  "chapter": "COLON",
+  "source_file": "processed_clusters/colon/colon_cutoff_sign_ec85ad.md",
+  "quality_score": 0.533,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "IMPINGEMENT VIA PHRENICOCOLIC LIGAMENT",
+      "raw": "IMPINGEMENT VIA PHRENICOCOLIC LIGAMENT",
+      "frequency": null
+    },
+    {
+      "name": "Acute pancreatitis / postpancreatitic stricture",
+      "raw": "Acute pancreatitis / postpancreatitic stricture",
+      "frequency": null
+    },
+    {
+      "name": "Pancreatic / gastric carcinoma",
+      "raw": "Pancreatic / gastric carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hemorrhage from rupture of splenic artery / abdominal aortic aneurysm",
+      "raw": "Hemorrhage from rupture of splenic artery / abdominal aortic aneurysm",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "IMPINGEMENT VIA PHRENICOCOLIC LIGAMENT": [],
+    "Acute pancreatitis / postpancreatitic stricture": [],
+    "Pancreatic / gastric carcinoma": [],
+    "Hemorrhage from rupture of splenic artery / abdominal aortic aneurysm": [
+      "=  abrupt termination of colonic gas column at splenic flexure with decompression of the distal colon due to spasm + obstruction at the splenic flexure impinging on a paralytic transverse colon"
+    ]
+  },
+  "context": "=  abrupt termination of colonic gas column at splenic flexure with decompression of the distal colon due to spasm + obstruction at the splenic flexure impinging on a paralytic transverse colon"
+}

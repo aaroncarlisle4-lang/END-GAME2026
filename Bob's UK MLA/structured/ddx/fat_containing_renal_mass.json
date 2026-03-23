@@ -1,0 +1,47 @@
+{
+  "finding": "Fat-containing Renal Mass",
+  "slug": "fat_containing_renal_mass",
+  "chapter": "D. HEMATOMA",
+  "source_file": "processed_clusters/d_hematoma/fat_containing_renal_mass.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Angiomyolipoma",
+      "raw": "Angiomyolipoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma, liposarcoma",
+      "raw": "Lipoma, liposarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Teratoma",
+      "raw": "Teratoma",
+      "frequency": null
+    },
+    {
+      "name": "Wilms tumor",
+      "raw": "Wilms tumor",
+      "frequency": null
+    },
+    {
+      "name": "Xanthogranulomatous pyelonephritis",
+      "raw": "Xanthogranulomatous pyelonephritis",
+      "frequency": null
+    },
+    {
+      "name": "Oncocytoma engulfing renal sinus fat",
+      "raw": "Oncocytoma engulfing renal sinus fat",
+      "frequency": null
+    },
+    {
+      "name": "Renal cell carcinoma (a)  invasion of perirenal fat (b)  intratumoral metaplasia into fatty marrow (in 32% of RCCs < 3 cm in diameter) ◊  If a lesion contains fat + calcium RCC is likely, NOT angiomyolipoma!",
+      "raw": "Renal cell carcinoma (a)  invasion of perirenal fat (b)  intratumoral metaplasia into fatty marrow (in 32% of RCCs < 3 cm in diameter) ◊  If a lesion contains fat + calcium RCC is likely, NOT angiomyolipoma!",
+      "frequency": "32%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

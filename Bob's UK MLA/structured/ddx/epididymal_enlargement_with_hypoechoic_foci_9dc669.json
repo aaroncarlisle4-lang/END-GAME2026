@@ -1,0 +1,57 @@
+{
+  "finding": "Epididymal Enlargement with Hypoechoic Foci",
+  "slug": "epididymal_enlargement_with_hypoechoic_foci_9dc669",
+  "chapter": "Cause: obstruction + dilatation of efferent ductal system",
+  "source_file": "processed_clusters/cause_obstruction_dilatation_of_efferent_ductal_system/epididymal_enlargement_with_hypoechoic_foci_9dc669.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Epididymitis",
+      "raw": "Epididymitis",
+      "frequency": null
+    },
+    {
+      "name": "Sperm granulomas",
+      "raw": "Sperm granulomas",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphogranuloma venereum",
+      "raw": "Lymphogranuloma venereum",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma inguinale",
+      "raw": "Granuloma inguinale",
+      "frequency": null
+    },
+    {
+      "name": "Filarial granuloma",
+      "raw": "Filarial granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Fungal disease",
+      "raw": "Fungal disease",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoproliferative disease",
+      "raw": "Lymphoproliferative disease",
+      "frequency": null
+    },
+    {
+      "name": "Metastases",
+      "raw": "Metastases",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

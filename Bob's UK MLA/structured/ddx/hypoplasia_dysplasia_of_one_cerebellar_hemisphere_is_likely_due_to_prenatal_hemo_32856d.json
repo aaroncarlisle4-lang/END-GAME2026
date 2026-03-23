@@ -1,0 +1,82 @@
+{
+  "finding": "Hypoplasia ± dysplasia of one cerebellar hemisphere is likely due to prenatal hemorrhage.",
+  "slug": "hypoplasia_dysplasia_of_one_cerebellar_hemisphere_is_likely_due_to_prenatal_hemo_32856d",
+  "chapter": "POSTERIOR FOSSA",
+  "source_file": "processed_clusters/posterior_fossa/hypoplasia_dysplasia_of_one_cerebellar_hemisphere_is_likely_due_to_prenatal_hemo_32856d.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "PREDOMINANTLY CEREBELLUM (a)  predominantly vermian involvement",
+      "raw": "PREDOMINANTLY CEREBELLUM (a)  predominantly vermian involvement",
+      "frequency": null
+    },
+    {
+      "name": "Dandy-Walker malformation",
+      "raw": "Dandy-Walker malformation",
+      "frequency": null
+    },
+    {
+      "name": "Blake pouch cyst",
+      "raw": "Blake pouch cyst",
+      "frequency": null
+    },
+    {
+      "name": "Megacisterna magna",
+      "raw": "Megacisterna magna",
+      "frequency": null
+    },
+    {
+      "name": "Arachnoid cyst",
+      "raw": "Arachnoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Isolated vermian hypoplasia",
+      "raw": "Isolated vermian hypoplasia",
+      "frequency": null
+    },
+    {
+      "name": "Rhombencephalosynapsis (b)  global cerebellar cortical maldevelopment",
+      "raw": "Rhombencephalosynapsis (b)  global cerebellar cortical maldevelopment",
+      "frequency": null
+    },
+    {
+      "name": "Lissencephaly",
+      "raw": "Lissencephaly",
+      "frequency": null
+    },
+    {
+      "name": "Polymicrogyria",
+      "raw": "Polymicrogyria",
+      "frequency": null
+    },
+    {
+      "name": "Periventricular nodular heterotopia",
+      "raw": "Periventricular nodular heterotopia",
+      "frequency": null
+    },
+    {
+      "name": "Primary microcephaly",
+      "raw": "Primary microcephaly",
+      "frequency": null
+    },
+    {
+      "name": "Congenital CMV infection (c)  unilateral cerebellar involvement",
+      "raw": "Congenital CMV infection (c)  unilateral cerebellar involvement",
+      "frequency": null
+    },
+    {
+      "name": "PHACES syndrome",
+      "raw": "PHACES syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Cerebellar cleft",
+      "raw": "Cerebellar cleft",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

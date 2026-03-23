@@ -1,0 +1,115 @@
+{
+  "finding": "C. Iatrogenic",
+  "slug": "c_iatrogenic_0f449d",
+  "chapter": "NEUROPATHIC OSTEOARTHROPATHY",
+  "source_file": "processed_clusters/neuropathic_osteoarthropathy/c_iatrogenic_0f449d.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Prolonged use of pain-relieving drugs",
+      "raw": "Prolonged use of pain-relieving drugs",
+      "frequency": null
+    },
+    {
+      "name": "Intraarticular / systemic steroid injections mnemonic:   DS6",
+      "raw": "Intraarticular / systemic steroid injections mnemonic:   DS6",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes",
+      "raw": "Diabetes",
+      "frequency": null
+    },
+    {
+      "name": "Syphilis",
+      "raw": "Syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Steroids [Spinal cord injury]",
+      "raw": "Steroids",
+      "frequency": null,
+      "sites": [
+        "Spinal cord injury"
+      ]
+    },
+    {
+      "name": "Spina bifida",
+      "raw": "Spina bifida",
+      "frequency": null
+    },
+    {
+      "name": "Syringomyelia",
+      "raw": "Syringomyelia",
+      "frequency": null
+    },
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Neurotraumatic theory =  repetitive trauma with absence of normal protective sensory feedback",
+      "raw": "Neurotraumatic theory =  repetitive trauma with absence of normal protective sensory feedback",
+      "frequency": null
+    },
+    {
+      "name": "Neurovascular theory =  absence of neural stimuli → loss of sympathetic tone resulting in vasodilatation and hyperemia, which promotes bone resorption + weakening of subchondral bone",
+      "raw": "Neurovascular theory =  absence of neural stimuli → loss of sympathetic tone resulting in vasodilatation and hyperemia, which promotes bone resorption + weakening of subchondral bone",
+      "frequency": null
+    },
+    {
+      "name": "notable absence of osteosclerosis + osteophyte formation",
+      "raw": "notable absence of osteosclerosis + osteophyte formation",
+      "frequency": null
+    },
+    {
+      "name": "osteosclerosis + osteophyte formation",
+      "raw": "osteosclerosis + osteophyte formation (early, attaining enormous size)",
+      "frequency": null
+    },
+    {
+      "name": "no history of trauma",
+      "raw": "no history of trauma",
+      "frequency": null
+    },
+    {
+      "name": "swollen + warm joint with normal WBC count + ESR",
+      "raw": "swollen + warm joint with normal WBC count + ESR (infection may coexist)",
+      "frequency": null
+    },
+    {
+      "name": "usually painless joint; pain at presentation (in ⅓) with decreased response to deep pain + proprioception",
+      "raw": "usually painless joint; pain at presentation (in ⅓) with decreased response to deep pain + proprioception",
+      "frequency": null
+    },
+    {
+      "name": "joint changes frequently precede neurologic deficit",
+      "raw": "joint changes frequently precede neurologic deficit",
+      "frequency": null
+    },
+    {
+      "name": "synovial fluid: frequently xanthochromic / bloody, lipid crystals",
+      "raw": "synovial fluid: frequently xanthochromic / bloody, lipid crystals (from bone marrow)",
+      "frequency": null
+    },
+    {
+      "name": "shoulder mass",
+      "raw": "shoulder mass (due to fluid distension)",
+      "frequency": null
+    },
+    {
+      "name": "mild pain and spinal deformity",
+      "raw": "mild pain and spinal deformity",
+      "frequency": null
+    },
+    {
+      "name": "soft-tissue swelling, warmth, erythema",
+      "raw": "soft-tissue swelling, warmth, erythema",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Pathophysiology: loss of proprioception with sensory deficits arising in the spinal cord / peripheral nerves Pathology: (a)  atrophic pattern (most common): joint destruction, resorption of fragments (osteoclasts + macrophages remove bone + cartilage debris), dissolution / \"amputation\" of periarticular bones, joint effusion Associated with:   syringomyelia, peripheral nerve lesion, also in diabetes Location:   non-weight-bearing joints of upper extremity DDx:   surgical amputation, septic arthritis (b)  hypertrophic pattern (only sensory nerves affected): joint destruction, fragmentation of bo"
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "B. INFECTION",
+  "slug": "b_infection_2",
+  "chapter": "D. INHALATION",
+  "source_file": "processed_clusters/d_inhalation/b_infection_2.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Pneumocystis carinii pneumonia in AIDS",
+      "raw": "Pneumocystis carinii pneumonia in AIDS",
+      "frequency": null
+    },
+    {
+      "name": "VASCULAR-EMBOLIC",
+      "raw": "VASCULAR-EMBOLIC",
+      "frequency": null
+    },
+    {
+      "name": "Cavitating septic emboli",
+      "raw": "Cavitating septic emboli",
+      "frequency": null
+    },
+    {
+      "name": "Angioinvasive infection: invasive pulmonary aspergillosis, candida, P. aeruginosa",
+      "raw": "Angioinvasive infection: invasive pulmonary aspergillosis, candida, P. aeruginosa",
+      "frequency": null
+    },
+    {
+      "name": "Pulmonary vasculitis: Wegener granulomatosis",
+      "raw": "Pulmonary vasculitis: Wegener granulomatosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  often seen at end of feeding vessel"
+}

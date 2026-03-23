@@ -1,0 +1,38 @@
+{
+  "name": "LARYNGEAL PAPILLOMATOSIS",
+  "slug": "laryngeal_papillomatosis",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/laryngeal_papillomatosis.md",
+  "definition": "RECURRENT RESPIRATORY PAPILLOMATOSIS",
+  "demographics": {
+    "Etiology": "human papilloma virus serotypes 6 + 11 (papova virus causing genital condyloma",
+    "Histo": "core of vascular connective tissue covered by stratified squamous epithelium",
+    "Location": "(a)   uvula, palate"
+  },
+  "dominant_finding": "tree-in-bud opacities",
+  "distribution": "(a)   uvula, palate",
+  "discriminating_features": [
+    "thickened lumpy cords",
+    "bronchiectasis",
+    "solid pulmonary nodules in mid + posterior lung fields",
+    "2-3 cm large thin-walled cavity with 2-4 mm thick nodular wall (foci of squamous",
+    "peripheral atelectasis + obstructive pneumonitis"
+  ],
+  "other_features": {
+    "general": [
+      "thickened lumpy cords",
+      "bronchiectasis",
+      "solid pulmonary nodules in mid + posterior lung fields",
+      "2-3 cm large thin-walled cavity with 2-4 mm thick nodular wall (foci of squamous",
+      "peripheral atelectasis + obstructive pneumonitis"
+    ],
+    "HRCT": [
+      "tree-in-bud opacities",
+      "irregularities of tracheal / bronchial walls",
+      "noncalcified granulomata progressing to cavitation"
+    ]
+  },
+  "clinical": {
+    "Rx": "CO2 laser resection / surgical excision"
+  }
+}

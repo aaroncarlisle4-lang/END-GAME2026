@@ -1,0 +1,22 @@
+{
+  "finding": "Empyema (DDx)",
+  "slug": "empyema_ddx_b2aea5",
+  "chapter": "Empyema",
+  "source_file": "processed_clusters/empyema/empyema_ddx_b2aea5.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "simple / complicated parapneumonic effusion",
+      "raw": "simple / complicated parapneumonic effusion (negative Gram + culture stain)",
+      "frequency": null
+    },
+    {
+      "name": "malignant",
+      "raw": "malignant",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "increased thickness + density of paraspinal subcostal tissue (= inflammation of extrapleural | curvilinear enhancement of chest wall boundary in 96% (= inflammatory hyperemia of | \"split pleura\" sign = pleural fluid between enhancing thickened parietal + visceral pleura | gas bubbles in pleural space (gas-forming organism / bronchopleural fistula)"
+}

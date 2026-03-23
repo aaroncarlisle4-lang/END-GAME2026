@@ -1,0 +1,22 @@
+{
+  "finding": "Multiple Epiphyseal Dysplasia (DDx)",
+  "slug": "multiple_epiphyseal_dysplasia_ddx_6671d2",
+  "chapter": "Multiple Epiphyseal Dysplasia",
+  "source_file": "processed_clusters/multiple_epiphyseal_dysplasia/multiple_epiphyseal_dysplasia_ddx_6671d2.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Legg-Perthes disease",
+      "raw": "Legg-Perthes disease",
+      "frequency": null
+    },
+    {
+      "name": "hypothyroidism",
+      "raw": "hypothyroidism",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mild limb shortening | irregular mottled calcifications of epiphyses (in childhood + adolescence) | epiphyseal irregularities + premature degenerative joint disease, especially of hips (in | short phalanges"
+}

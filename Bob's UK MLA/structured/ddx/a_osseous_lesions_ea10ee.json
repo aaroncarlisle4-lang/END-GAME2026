@@ -1,0 +1,35 @@
+{
+  "finding": "A. OSSEOUS LESIONS",
+  "slug": "a_osseous_lesions_ea10ee",
+  "chapter": "Extrinsic Esophageal Impression",
+  "source_file": "processed_clusters/extrinsic_esophageal_impression/a_osseous_lesions_ea10ee.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Anterior marginal osteophyte / DISH [Anterior disk herniation]",
+      "raw": "Anterior marginal osteophyte / DISH",
+      "frequency": null,
+      "sites": [
+        "Anterior disk herniation"
+      ]
+    },
+    {
+      "name": "Cervical trauma + hematoma",
+      "raw": "Cervical trauma + hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Bone neoplasm",
+      "raw": "Bone neoplasm",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

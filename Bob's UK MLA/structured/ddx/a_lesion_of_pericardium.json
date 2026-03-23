@@ -1,0 +1,32 @@
+{
+  "finding": "A. LESION OF PERICARDIUM",
+  "slug": "a_lesion_of_pericardium",
+  "chapter": "E. CARDIOVASCULAR",
+  "source_file": "processed_clusters/e_cardiovascular/a_lesion_of_pericardium.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pericardial cyst",
+      "raw": "Pericardial cyst",
+      "frequency": null
+    },
+    {
+      "name": "Intrapericardiac bronchogenic cyst",
+      "raw": "Intrapericardiac bronchogenic cyst",
+      "frequency": null
+    },
+    {
+      "name": "Benign intrapericardiac neoplasm:",
+      "raw": "Benign intrapericardiac neoplasm:",
+      "frequency": null
+    },
+    {
+      "name": "Malignant neoplasm:",
+      "raw": "Malignant neoplasm:",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "teratoma, leiomyoma, hemangioma, lipoma mesothelioma, metastasis (lung, breast, lymphoma, melanoma)"
+}

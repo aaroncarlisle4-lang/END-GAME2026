@@ -1,0 +1,87 @@
+{
+  "finding": "Developmental Vascular Malformations",
+  "slug": "developmental_vascular_malformations",
+  "chapter": "Classification of International Society for the Study of Vascular Anomalies (ISSVA",
+  "source_file": "processed_clusters/classification_of_international_society_for_the_study_of_vascular_anomalies_issv/developmental_vascular_malformations.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "greater conspicuity with age ← steady growth commensurate with patient growth",
+      "raw": "greater conspicuity with age ← steady growth commensurate with patient growth (puberty, pregnancy, trauma, surgery may cause growth spurts)",
+      "frequency": null
+    },
+    {
+      "name": "NO spontaneous involution / regression",
+      "raw": "NO spontaneous involution / regression",
+      "frequency": null
+    },
+    {
+      "name": "Slow-flow vascular malformation",
+      "raw": "Slow-flow vascular malformation",
+      "frequency": null
+    },
+    {
+      "name": "High-flow vascular malformation",
+      "raw": "High-flow vascular malformation",
+      "frequency": null
+    },
+    {
+      "name": "Klippel-Trénaunay syndrome",
+      "raw": "Klippel-Trénaunay syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Sturge-Weber syndrome",
+      "raw": "Sturge-Weber syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Blue rubber bleb nevus",
+      "raw": "Blue rubber bleb nevus",
+      "frequency": null
+    },
+    {
+      "name": "Proteus syndrome",
+      "raw": "Proteus syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Gorham-Stout syndrome",
+      "raw": "Gorham-Stout syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Maffucci syndrome",
+      "raw": "Maffucci syndrome",
+      "frequency": null
+    },
+    {
+      "name": "PHACE syndrome",
+      "raw": "PHACE syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Kasabach-Merritt syndrome (b)  NO mass = high-flow vascular malformation",
+      "raw": "Kasabach-Merritt syndrome (b)  NO mass = high-flow vascular malformation",
+      "frequency": null
+    },
+    {
+      "name": "Parkes Weber syndrome",
+      "raw": "Parkes Weber syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Hereditary hemorrhagic telangiectasia",
+      "raw": "Hereditary hemorrhagic telangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Vascular metameric syndrome (a)  Wyburn-Mason syndrome (b)  Cobb syndrome",
+      "raw": "Vascular metameric syndrome (a)  Wyburn-Mason syndrome (b)  Cobb syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  error of vascular morphogenesis → collection of dysplastic abnormally dilated arteries, veins, capillaries, lymphatics characterized by √  absence of flow voids on SE images DDx:  low-signal-intensity striations, septa, thrombosed vessels, phleboliths (a)  Venous malformation (b)  Lymphatic malformation (c)  Capillary malformation Frequency:   10% of malformations in extremities √  presence of signal voids demonstrating enhancement and high-signal-intensity foci on GRE images (a)  Arteriovenous malformation (b)  Congenital arteriovenous fistula Characterization: √  NO blood flow = lymphatic"
+}

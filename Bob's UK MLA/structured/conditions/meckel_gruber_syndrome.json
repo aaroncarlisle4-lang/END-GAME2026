@@ -1,0 +1,36 @@
+{
+  "name": "MECKEL-GRUBER SYNDROME",
+  "slug": "meckel_gruber_syndrome",
+  "chapter": "GANGLIONEUROMA",
+  "source_file": "processed_clusters/disease_entries/ganglioneuroma/meckel_gruber_syndrome.md",
+  "definition": "autosomal-recessive perinatally lethal disease characterized by occipital encephalocele,",
+  "demographics": {
+    "Prevalence": "1÷12,000 to 1÷50,000;"
+  },
+  "dominant_finding": "large polycystic kidneys containing 2-10-mm cysts",
+  "distribution": "",
+  "discriminating_features": [
+    "large polycystic kidneys containing 2-10-mm cysts",
+    "occipital encephalocele",
+    "postaxial polydactyly",
+    "other intracranial abnormalities: microcephaly, Dandy-Walker malformation",
+    "cleft lip and palate"
+  ],
+  "other_features": {
+    "general": [
+      "large polycystic kidneys containing 2-10-mm cysts",
+      "occipital encephalocele",
+      "postaxial polydactyly",
+      "other intracranial abnormalities: microcephaly, Dandy-Walker malformation",
+      "cleft lip and palate",
+      "cardiac anomalies",
+      "ductal plate malformation of liver",
+      "ambiguous genitalia in males",
+      "moderate-to-severe oligohydramnios (onset midtrimester)",
+      "inability to visualize urine in fetal bladder"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "invariably fatal at birth ← pulmonary hypoplasia with renal failure"
+  }
+}

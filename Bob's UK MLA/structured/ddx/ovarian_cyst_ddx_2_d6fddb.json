@@ -1,0 +1,27 @@
+{
+  "finding": "Ovarian Cyst (DDx)",
+  "slug": "ovarian_cyst_ddx_2_d6fddb",
+  "chapter": "Ovarian Cyst",
+  "source_file": "processed_clusters/ovarian_cyst/ovarian_cyst_ddx_2_d6fddb.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "endometrioma (\"light bulb\" T1-hyperintensity",
+      "raw": "endometrioma (\"light bulb\" T1-hyperintensity",
+      "frequency": null
+    },
+    {
+      "name": "T2 shading",
+      "raw": "T2 shading",
+      "frequency": null
+    },
+    {
+      "name": "stable over time)",
+      "raw": "stable over time)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intermediate to high intensity on fat-suppressed T1WI | hyperintense / intermediate intensity with distinct central area of hypointensity on | heterogeneous mild signal loss with NO shading on T2WI | pelvic peritoneal fluid of elevated T1 signal ← hemorrhage"
+}

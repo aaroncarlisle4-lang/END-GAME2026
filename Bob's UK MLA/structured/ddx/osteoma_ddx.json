@@ -1,0 +1,27 @@
+{
+  "finding": "Osteoma (DDx)",
+  "slug": "osteoma_ddx",
+  "chapter": "Osteoma",
+  "source_file": "processed_clusters/osteoma/osteoma_ddx.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "endostoma",
+      "raw": "endostoma",
+      "frequency": null
+    },
+    {
+      "name": "bone island",
+      "raw": "bone island",
+      "frequency": null
+    },
+    {
+      "name": "bone infarct",
+      "raw": "bone infarct (located in medulla)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "± bone expansion / exophytic growth | NO perilesional halo | less dense than osteoma / radiolucent | expanding external table without affecting internal table"
+}

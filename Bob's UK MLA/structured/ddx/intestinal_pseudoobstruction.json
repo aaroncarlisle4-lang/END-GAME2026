@@ -1,0 +1,32 @@
+{
+  "finding": "Intestinal Pseudoobstruction",
+  "slug": "intestinal_pseudoobstruction",
+  "chapter": "E. EXTRINSIC COMPRESSION",
+  "source_file": "processed_clusters/e_extrinsic_compression/intestinal_pseudoobstruction.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Transient pseudoobstruction",
+      "raw": "Transient pseudoobstruction",
+      "frequency": null
+    },
+    {
+      "name": "Electrolyte imbalance",
+      "raw": "Electrolyte imbalance",
+      "frequency": null
+    },
+    {
+      "name": "Renal failure",
+      "raw": "Renal failure",
+      "frequency": null
+    },
+    {
+      "name": "Congestive heart failure",
+      "raw": "Congestive heart failure",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

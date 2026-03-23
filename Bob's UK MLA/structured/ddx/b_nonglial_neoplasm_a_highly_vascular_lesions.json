@@ -1,0 +1,37 @@
+{
+  "finding": "B. NONGLIAL NEOPLASM (a) highly vascular lesions",
+  "slug": "b_nonglial_neoplasm_a_highly_vascular_lesions",
+  "chapter": "SACRUM",
+  "source_file": "processed_clusters/sacrum/b_nonglial_neoplasm_a_highly_vascular_lesions.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Hemangioblastoma",
+      "raw": "Hemangioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Paraganglioma (b)  rare lesions",
+      "raw": "Paraganglioma (b)  rare lesions",
+      "frequency": "rare"
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Primitive neuroectodermal tumor",
+      "raw": "Primitive neuroectodermal tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

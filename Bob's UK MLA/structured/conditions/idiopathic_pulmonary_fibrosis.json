@@ -1,0 +1,41 @@
+{
+  "name": "IDIOPATHIC PULMONARY FIBROSIS",
+  "slug": "idiopathic_pulmonary_fibrosis",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/idiopathic_pulmonary_fibrosis.md",
+  "definition": "USUAL INTERSTITIAL PNEUMONIA specific form of chronic progressive fibrosing interstitial pneumonia of unknown cause clinical syndrome associated with morphologic pattern of UIP and related to cigarette",
+  "demographics": {
+    "Histo": "UIP pattern = cluster of fibroblasts + immature connective tissue within pulmonary",
+    "Distribution": "bibasilar peripheral + subpleural",
+    "Age": "50-70 years; M = F"
+  },
+  "dominant_finding": "honeycombing (30%)",
+  "distribution": "bibasilar peripheral + subpleural",
+  "discriminating_features": [
+    "decreased lung volume, progressive over time",
+    "bibasilar subpleural reticular opacities",
+    "honeycombing (30%)",
+    "bibasilar ground-glass appearance (uncommon)",
+    "small nodules (< 10%), occasionally ossified"
+  ],
+  "other_features": {
+    "general": [],
+    "CXR": [
+      "decreased lung volume, progressive over time",
+      "bibasilar subpleural reticular opacities",
+      "honeycombing (30%)",
+      "bibasilar ground-glass appearance (uncommon)",
+      "small nodules (< 10%), occasionally ossified",
+      "lower zone macrocystic honeycombing (90%) often combined with traction",
+      "irregular reticular opacities (= intralobular interstitial thickening) in peripheral basal",
+      "ground-glass opacities in area of fibrosis (occasionally)",
+      "discrete nodules (occasionally)",
+      "mild mediastinal lymph node enlargement (70%)",
+      "coexisting emphysema (common) makes Dx less reliable"
+    ]
+  },
+  "clinical": {
+    "Rx": "cyclosporine A + corticosteroids (for acute exacerbations only); lung transplantation",
+    "Prognosis": "poor with invariable deterioration and a mean survival of 2.5-3.5 years (30-50%"
+  }
+}

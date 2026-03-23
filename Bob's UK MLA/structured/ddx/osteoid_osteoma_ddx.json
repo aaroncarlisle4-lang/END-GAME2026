@@ -1,0 +1,37 @@
+{
+  "finding": "Osteoid Osteoma (DDx)",
+  "slug": "osteoid_osteoma_ddx",
+  "chapter": "Osteoid Osteoma",
+  "source_file": "processed_clusters/osteoid_osteoma/osteoid_osteoma_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Brodie abscess",
+      "raw": "Brodie abscess",
+      "frequency": null
+    },
+    {
+      "name": "sclerosing osteomyelitis",
+      "raw": "sclerosing osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "syphilis",
+      "raw": "syphilis",
+      "frequency": null
+    },
+    {
+      "name": "bone island",
+      "raw": "bone island",
+      "frequency": null
+    },
+    {
+      "name": "stress fracture",
+      "raw": "stress fracture",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "solid / laminated periosteal reaction | fusiform sclerotic cortical thickening | round / oval radiolucent area < 2 cm in diameter within center of osteosclerosis"
+}

@@ -1,0 +1,72 @@
+{
+  "finding": "Insufficiency Fracture",
+  "slug": "insufficiency_fracture_b5cea8",
+  "chapter": "FLORID REACTIVE PERIOSTITIS",
+  "source_file": "processed_clusters/florid_reactive_periostitis/insufficiency_fracture_b5cea8.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Osteoporosis",
+      "raw": "Osteoporosis",
+      "frequency": null
+    },
+    {
+      "name": "Renal osteodystrophy",
+      "raw": "Renal osteodystrophy",
+      "frequency": null
+    },
+    {
+      "name": "Osteomalacia / rickets",
+      "raw": "Osteomalacia / rickets",
+      "frequency": null
+    },
+    {
+      "name": "Hyperparathyroidism",
+      "raw": "Hyperparathyroidism",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Fibrous dysplasia",
+      "raw": "Fibrous dysplasia",
+      "frequency": null
+    },
+    {
+      "name": "Osteogenesis imperfecta",
+      "raw": "Osteogenesis imperfecta",
+      "frequency": null
+    },
+    {
+      "name": "Osteopetrosis",
+      "raw": "Osteopetrosis",
+      "frequency": null
+    },
+    {
+      "name": "Prolonged corticosteroid treatment",
+      "raw": "Prolonged corticosteroid treatment",
+      "frequency": null
+    },
+    {
+      "name": "Tumor treatment with ifosfamide, methotrexate Location:   thoracic vertebra, sacrum, pubic bone, ilium, lower extremity",
+      "raw": "Tumor treatment with ifosfamide, methotrexate Location:   thoracic vertebra, sacrum, pubic bone, ilium, lower extremity (calcaneus, tibia, fibula)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  normal physiologic stress applied to bone with abnormal elastic resistance / deficient mineralization Cause: Fracture orientation:   perpendicular to long axis of bone Plain film / CT (1-2 weeks after onset of fracture): √  often normal in early stage of fracture √  cortical linear lucency ← disruption (= fracture line) √  localized cortical thickening √  periosteal new bone formation √  medullary sclerosis (endosteal callus formation) MR: √  zone of low SI on T1WI + variable intensity on T2WI (= discrete fracture line) √  surrounded by diffuse marrow edema (hypointense on T1WI + hyperinten"
+}

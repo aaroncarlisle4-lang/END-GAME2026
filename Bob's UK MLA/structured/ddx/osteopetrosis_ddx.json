@@ -1,0 +1,32 @@
+{
+  "finding": "Osteopetrosis (DDx)",
+  "slug": "osteopetrosis_ddx",
+  "chapter": "Osteopetrosis",
+  "source_file": "processed_clusters/osteopetrosis/osteopetrosis_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "chronic renal failure",
+      "raw": "chronic renal failure",
+      "frequency": null
+    },
+    {
+      "name": "oxalosis",
+      "raw": "oxalosis",
+      "frequency": null
+    },
+    {
+      "name": "pyknodysostosis",
+      "raw": "pyknodysostosis",
+      "frequency": null
+    },
+    {
+      "name": "physiologic sclerosis",
+      "raw": "physiologic sclerosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "dense skeleton | splayed metaphyses + costochondral junctions | fractures from minor trauma ← brittle bones"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "AMNIOTIC FLUID VOLUME",
+  "slug": "amniotic_fluid_volume",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF OBSTETRIC AND GYNECOLOGIC",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_obstetric_and_gynecologic/amniotic_fluid_volume.md",
+  "definition": "amniotic fluid volume > 1,500-2,000 cm3 at term amniotic fluid volume < 500 cm3 at term",
+  "demographics": {
+    "Prevalence": "1.1-2-3.5%",
+    "Associated with": "macrosomia in 19-37%"
+  },
+  "dominant_finding": "single largest pocket devoid of fetal parts / cord > 8 cm in vertical direction",
+  "distribution": "",
+  "discriminating_features": [
+    "fetus does not fill the AP diameter of uterus",
+    "single largest pocket devoid of fetal parts / cord > 8 cm in vertical direction",
+    "AFI ≥ 20-24 cm",
+    "single largest pocket devoid of fetal parts / cord ≤ 1-2 cm in vertical direction",
+    "AFI ≤ 5-7 cm"
+  ],
+  "other_features": {
+    "general": [
+      "fetus does not fill the AP diameter of uterus",
+      "single largest pocket devoid of fetal parts / cord > 8 cm in vertical direction",
+      "AFI ≥ 20-24 cm",
+      "single largest pocket devoid of fetal parts / cord ≤ 1-2 cm in vertical direction",
+      "AFI ≤ 5-7 cm"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "64% perinatal mortality with severe polyhydramnios",
+    "N.B.": "bilateral renal obstruction, if combined with intestinal obstruction, may be",
+    "Cx": "pulmonary hypoplasia, cord compression"
+  }
+}

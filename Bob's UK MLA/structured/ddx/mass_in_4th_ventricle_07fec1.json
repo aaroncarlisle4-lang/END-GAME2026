@@ -1,0 +1,52 @@
+{
+  "finding": "Mass in 4th Ventricle",
+  "slug": "mass_in_4th_ventricle_07fec1",
+  "chapter": "B. INTRAAXIAL",
+  "source_file": "processed_clusters/b_intraaxial/mass_in_4th_ventricle_07fec1.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Choroid plexus papilloma",
+      "raw": "Choroid plexus papilloma",
+      "frequency": null
+    },
+    {
+      "name": "Ependymoma / glioma",
+      "raw": "Ependymoma / glioma",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioblastoma",
+      "raw": "Hemangioblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Vermian metastasis",
+      "raw": "Vermian metastasis",
+      "frequency": null
+    },
+    {
+      "name": "AVM",
+      "raw": "AVM",
+      "frequency": null
+    },
+    {
+      "name": "Epidermoid tumor",
+      "raw": "Epidermoid tumor (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Inflammatory mass",
+      "raw": "Inflammatory mass",
+      "frequency": null
+    },
+    {
+      "name": "Cyst",
+      "raw": "Cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

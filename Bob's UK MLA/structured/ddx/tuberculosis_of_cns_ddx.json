@@ -1,0 +1,42 @@
+{
+  "finding": "Tuberculosis Of Cns (DDx)",
+  "slug": "tuberculosis_of_cns_ddx",
+  "chapter": "Tuberculosis Of Cns",
+  "source_file": "processed_clusters/tuberculosis_of_cns/tuberculosis_of_cns_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "other CNS infection (esp. toxoplasmosis",
+      "raw": "other CNS infection (esp. toxoplasmosis",
+      "frequency": null
+    },
+    {
+      "name": "cysticercosis",
+      "raw": "cysticercosis",
+      "frequency": null
+    },
+    {
+      "name": "fungus)",
+      "raw": "fungus)",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "atypical meningioma",
+      "raw": "atypical meningioma",
+      "frequency": null
+    },
+    {
+      "name": "radiation necrosis",
+      "raw": "radiation necrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "varying central T2 hyperintensity depending on extent of liquefaction / caseation | \"target\" sign = small focal area of calcification / enhancement in center of ring- | lipid level peaks at 0.9 ppm, 1.3 ppm, 2.0 ppm, 2.8 ppm | NO amino acid resonance at 0.9 ppm"
+}

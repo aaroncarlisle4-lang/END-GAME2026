@@ -1,0 +1,167 @@
+{
+  "finding": "Bone-within-bone Appearance",
+  "slug": "bone_within_bone_appearance_d6fbe5",
+  "chapter": "G. OTHERS",
+  "source_file": "processed_clusters/g_others/bone_within_bone_appearance_d6fbe5.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Normal",
+      "raw": "Normal (a)  thoracic + lumbar vertebrae (in infants) (b)  growth recovery lines (after infancy)",
+      "frequency": null
+    },
+    {
+      "name": "Infantile cortical hyperostosis",
+      "raw": "Infantile cortical hyperostosis (Caffey)",
+      "frequency": null
+    },
+    {
+      "name": "Sickle cell disease / thalassemia",
+      "raw": "Sickle cell disease / thalassemia",
+      "frequency": null
+    },
+    {
+      "name": "Congenital syphilis",
+      "raw": "Congenital syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Osteopetrosis / oxalosis",
+      "raw": "Osteopetrosis / oxalosis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation",
+      "raw": "Radiation",
+      "frequency": null
+    },
+    {
+      "name": "Acromegaly",
+      "raw": "Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Paget disease",
+      "raw": "Paget disease",
+      "frequency": null
+    },
+    {
+      "name": "Gaucher disease",
+      "raw": "Gaucher disease",
+      "frequency": null
+    },
+    {
+      "name": "Bismuth ingestion",
+      "raw": "Bismuth ingestion",
+      "frequency": null
+    },
+    {
+      "name": "Lead ingestion",
+      "raw": "Lead ingestion",
+      "frequency": null
+    },
+    {
+      "name": "Thorium ingestion",
+      "raw": "Thorium ingestion",
+      "frequency": null
+    },
+    {
+      "name": "Petrosis",
+      "raw": "Petrosis (osteopetrosis)",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Rickets",
+      "raw": "Rickets",
+      "frequency": null
+    },
+    {
+      "name": "Scurvy",
+      "raw": "Scurvy",
+      "frequency": null
+    },
+    {
+      "name": "D toxicity",
+      "raw": "D toxicity (vitamin D)",
+      "frequency": null
+    },
+    {
+      "name": "RSD",
+      "raw": "RSD (reflex sympathetic dystrophy)",
+      "frequency": null
+    },
+    {
+      "name": "Dense Metaphyseal Bands",
+      "raw": "Dense Metaphyseal Bands",
+      "frequency": null
+    },
+    {
+      "name": "mnemonic:   DENSE LINES",
+      "raw": "mnemonic:   DENSE LINES",
+      "frequency": null
+    },
+    {
+      "name": "D-vitamin intoxication",
+      "raw": "D-vitamin intoxication",
+      "frequency": null
+    },
+    {
+      "name": "Elemental arsenic + heavy metals: lead, bismuth, phosphorus",
+      "raw": "Elemental arsenic + heavy metals: lead, bismuth, phosphorus",
+      "frequency": null
+    },
+    {
+      "name": "Normal variant",
+      "raw": "Normal variant",
+      "frequency": null
+    },
+    {
+      "name": "Systemic illness",
+      "raw": "Systemic illness",
+      "frequency": null
+    },
+    {
+      "name": "Estrogen to mother during pregnancy",
+      "raw": "Estrogen to mother during pregnancy",
+      "frequency": null
+    },
+    {
+      "name": "Leukemia",
+      "raw": "Leukemia",
+      "frequency": null
+    },
+    {
+      "name": "Infection (TORCH), Idiopathic hypercalcemia",
+      "raw": "Infection (TORCH), Idiopathic hypercalcemia",
+      "frequency": null
+    },
+    {
+      "name": "Never forget healed rickets",
+      "raw": "Never forget healed rickets",
+      "frequency": null
+    },
+    {
+      "name": "Early hypothyroidism",
+      "raw": "Early hypothyroidism (cretinism)",
+      "frequency": null
+    },
+    {
+      "name": "Scurvy, congenital Syphilis, Sickle cell disease",
+      "raw": "Scurvy, congenital Syphilis, Sickle cell disease",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  endosteal new bone formation also:  methotrexate therapy"
+}

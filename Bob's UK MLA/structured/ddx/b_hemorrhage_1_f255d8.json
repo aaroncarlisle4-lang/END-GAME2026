@@ -1,0 +1,27 @@
+{
+  "finding": "B. HEMORRHAGE",
+  "slug": "b_hemorrhage_1_f255d8",
+  "chapter": "Iron Accumulation in Kidney",
+  "source_file": "processed_clusters/iron_accumulation_in_kidney/b_hemorrhage_1_f255d8.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Coagulopathy and anticoagulant therapy",
+      "raw": "Coagulopathy and anticoagulant therapy",
+      "frequency": null
+    },
+    {
+      "name": "Ruptured aortic aneurysm",
+      "raw": "Ruptured aortic aneurysm",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative aneurysm repair / other surgery / trauma",
+      "raw": "Postoperative aneurysm repair / other surgery / trauma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

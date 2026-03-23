@@ -1,0 +1,137 @@
+{
+  "finding": "Pain with / after Hip Prosthesis",
+  "slug": "pain_with_after_hip_prosthesis_1fc56c",
+  "chapter": "HIP",
+  "source_file": "processed_clusters/hip/pain_with_after_hip_prosthesis_1fc56c.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Postoperative hematoma",
+      "raw": "Postoperative hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Heterotopic ossification",
+      "raw": "Heterotopic ossification",
+      "frequency": null
+    },
+    {
+      "name": "loss of motion ← ossifications bridging the joint",
+      "raw": "loss of motion ← ossifications bridging the joint",
+      "frequency": null
+    },
+    {
+      "name": "Trochanteric bursitis",
+      "raw": "Trochanteric bursitis",
+      "frequency": null
+    },
+    {
+      "name": "Prosthetic / periprosthetic / cement fracture",
+      "raw": "Prosthetic / periprosthetic / cement fracture",
+      "frequency": null
+    },
+    {
+      "name": "audible crack during tapping of stem",
+      "raw": "audible crack during tapping of stem (intraoperative!)",
+      "frequency": null
+    },
+    {
+      "name": "Dislocation Risk factors:   component malposition, imbalance of tissue tension, implant design, surgical approach, extent of surgical soft-tissue dissection, small femoral",
+      "raw": "Dislocation Risk factors:   component malposition, imbalance of tissue tension, implant design, surgical approach, extent of surgical soft-tissue dissection, small femoral",
+      "frequency": null
+    },
+    {
+      "name": "Synovitis (a)  nonspecific mechanical irritation",
+      "raw": "Synovitis (a)  nonspecific mechanical irritation",
+      "frequency": null
+    },
+    {
+      "name": "Iliopsoas impingement syndrome & tendinopathy",
+      "raw": "Iliopsoas impingement syndrome & tendinopathy",
+      "frequency": null
+    },
+    {
+      "name": "Aseptic loosening =  complete loss of implant fixation",
+      "raw": "Aseptic loosening =  complete loss of implant fixation",
+      "frequency": null
+    },
+    {
+      "name": "Infection of Hip Prosthesis",
+      "raw": "Infection of Hip Prosthesis (= septic loosening)",
+      "frequency": null
+    },
+    {
+      "name": "clinical signs of infection often absent",
+      "raw": "clinical signs of infection often absent",
+      "frequency": null
+    },
+    {
+      "name": "joint aspiration: high number of FP + FN",
+      "raw": "joint aspiration: high number of FP + FN",
+      "frequency": null
+    },
+    {
+      "name": "Evaluation of Total Hip Arthroplasty",
+      "raw": "Evaluation of Total Hip Arthroplasty",
+      "frequency": null
+    },
+    {
+      "name": "MEASUREMENTS",
+      "raw": "MEASUREMENTS",
+      "frequency": null
+    },
+    {
+      "name": "Reference line:   transischial tuberosity line",
+      "raw": "Reference line:   transischial tuberosity line (R)",
+      "frequency": null
+    },
+    {
+      "name": "Leg length = vertical position of acetabular component",
+      "raw": "Leg length = vertical position of acetabular component",
+      "frequency": null
+    },
+    {
+      "name": "Vertical center of rotation =  distance from center of femoral head (C) to line R",
+      "raw": "Vertical center of rotation =  distance from center of femoral head (C) to line R",
+      "frequency": null
+    },
+    {
+      "name": "Horizontal center of rotation =  distance from center of femoral head (C) to teardrop / other medial landmark Lateral position:   iliopsoas tendon crosses medial to femoral head center of rotation increasing risk of dislocation",
+      "raw": "Horizontal center of rotation =  distance from center of femoral head (C) to teardrop / other medial landmark Lateral position:   iliopsoas tendon crosses medial to femoral head center of rotation increasing risk of dislocation",
+      "frequency": null
+    },
+    {
+      "name": "Lateral acetabular inclination = horizontal version =  angle of cup in reference to line R",
+      "raw": "Lateral acetabular inclination = horizontal version =  angle of cup in reference to line R (40° ± 10° desirable)",
+      "frequency": null
+    },
+    {
+      "name": "Acetabular anteversion (15° ± 10° desirable) =  lateral radiograph of groin",
+      "raw": "Acetabular anteversion (15° ± 10° desirable) =  lateral radiograph of groin",
+      "frequency": null
+    },
+    {
+      "name": "Varus / neutral / valgus stem position Varus position:   tip of stem rests against lateral endosteum, increased risk for loosening Valgus position:   tip of stem rests against medial endosteum, not a significant problem",
+      "raw": "Varus / neutral / valgus stem position Varus position:   tip of stem rests against lateral endosteum, increased risk for loosening Valgus position:   tip of stem rests against medial endosteum, not a significant problem",
+      "frequency": null
+    },
+    {
+      "name": "Femoral neck anteversion works synergistically with acetabular anteversion, true angle assessed by CT",
+      "raw": "Femoral neck anteversion works synergistically with acetabular anteversion, true angle assessed by CT",
+      "frequency": null
+    },
+    {
+      "name": "Cup overhang > 12 mm associated with iliopsoas impingement, assessed by CT",
+      "raw": "Cup overhang > 12 mm associated with iliopsoas impingement, assessed by CT",
+      "frequency": null
+    },
+    {
+      "name": "Unfavorable position of screw tip eg, abutting the L5 nerve root in sciatic notch",
+      "raw": "Unfavorable position of screw tip eg, abutting the L5 nerve root in sciatic notch",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  pain in groin / thigh after hip arthroplasty Prevalence of pain:   40%; ~ 120,000 hip arthroplasties per year in USA Incidence:   1.7% (within first 2 weeks) Cx:   wound dehiscence, infection Incidence:   50-60% (within 8 weeks after surgery) Risk factors:   male gender, DISH, history of heterotopic ossification, osteoarthritis with preexisting heterotopic bone, ankylosing spondylitis Incidence:   in up to 18% Predisposition:   osteoporosis, osteolysis, stress shielding (= bone resorption due to decreased stress to bone) typically at base of greater trochanter and calcar head, failure of ab"
+}

@@ -1,0 +1,37 @@
+{
+  "finding": "Indication: moderate to severe drug-refractory CHF associated with inter- /",
+  "slug": "indication_moderate_to_severe_drug_refractory_chf_associated_with_inter_e63e9e",
+  "chapter": "PULSUS ALTERNANS",
+  "source_file": "processed_clusters/pulsus_alternans/indication_moderate_to_severe_drug_refractory_chf_associated_with_inter_e63e9e.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "1 lead into apex of RV",
+      "raw": "1 lead into apex of RV",
+      "frequency": null
+    },
+    {
+      "name": "1 lead through coronary sinus into a posterior / lateral cardiac vein for LV",
+      "raw": "1 lead through coronary sinus into a posterior / lateral cardiac vein for LV",
+      "frequency": null
+    },
+    {
+      "name": "1 lead into RA =  right atrial-biventricular synchronous pervenous device",
+      "raw": "1 lead into RA =  right atrial-biventricular synchronous pervenous device",
+      "frequency": null
+    },
+    {
+      "name": "1 shock coil at junction of brachiocephalic vein + SVC",
+      "raw": "1 shock coil at junction of brachiocephalic vein + SVC",
+      "frequency": null
+    },
+    {
+      "name": "1 shock coil into RV",
+      "raw": "1 shock coil into RV",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "intraventricular dyssynchrony; weakened enlarged heart Placement: Rx:      cardiac resynchronization therapy (CRT) in combination with implantable defibrillator into appendage of RA Implantable Cardioverter-Defibrillator (ICD) =  AUTOMATIC IMPLANTABLE CARDIOVERTER-DEFIBRILLATOR (AICD) =  electronic device generating a large amount of electrical energy to defibrillate the heart back into a normal rhythm Indication:   tachydysrhymthia (ventricular tachycardia / ventricular fibrillation) to prevent cardiac arrest √  single lead with 2 shock coils Placement:"
+}

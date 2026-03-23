@@ -1,0 +1,22 @@
+{
+  "finding": "Osteoid Osteoma (DDx)",
+  "slug": "osteoid_osteoma_ddx_1",
+  "chapter": "Osteoid Osteoma",
+  "source_file": "processed_clusters/osteoid_osteoma/osteoid_osteoma_ddx_1.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "inflammatory / septic / tuberculous / rheumatoid arthritis",
+      "raw": "inflammatory / septic / tuberculous / rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "nonspecific synovitis / Legg-",
+      "raw": "nonspecific synovitis / Legg-",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "juxtacortical mass excavating the cortex with almost no reactive sclerosis ← bony pressure | prominent joint effusion ± synovial hypertrophy | minimal / absent reactive cortical thickening ← lack of cambium (= inner layer of"
+}

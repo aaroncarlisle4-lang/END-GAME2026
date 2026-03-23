@@ -1,0 +1,32 @@
+{
+  "finding": "D. TUMOR",
+  "slug": "d_tumor_1",
+  "chapter": "REFLUX ATROPHY",
+  "source_file": "processed_clusters/reflux_atrophy/d_tumor_1.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Neoplasm",
+      "raw": "Neoplasm (RCC in 14%; adult Wilms tumor)",
+      "frequency": "14%"
+    },
+    {
+      "name": "Hamartoma",
+      "raw": "Hamartoma (angiomyolipoma in 50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Metastatic arterial myxoma",
+      "raw": "Metastatic arterial myxoma",
+      "frequency": null
+    },
+    {
+      "name": "Vascular malformation",
+      "raw": "Vascular malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

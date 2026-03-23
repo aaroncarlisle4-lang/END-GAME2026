@@ -1,0 +1,47 @@
+{
+  "finding": "B. INFLAMMATION / INFECTION",
+  "slug": "b_inflammation_infection_2",
+  "chapter": "Mucosal Mass in Collecting System",
+  "source_file": "processed_clusters/mucosal_mass_in_collecting_system/b_inflammation_infection_2.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Candidiasis",
+      "raw": "Candidiasis",
+      "frequency": null
+    },
+    {
+      "name": "Schistosomiasis",
+      "raw": "Schistosomiasis",
+      "frequency": null
+    },
+    {
+      "name": "Pyeloureteritis cystica",
+      "raw": "Pyeloureteritis cystica",
+      "frequency": null
+    },
+    {
+      "name": "Leukoplakia",
+      "raw": "Leukoplakia",
+      "frequency": null
+    },
+    {
+      "name": "Malakoplakia",
+      "raw": "Malakoplakia",
+      "frequency": null
+    },
+    {
+      "name": "Xanthogranulomatous pyelonephritis",
+      "raw": "Xanthogranulomatous pyelonephritis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

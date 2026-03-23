@@ -1,0 +1,31 @@
+{
+  "name": "WOLMAN DISEASE",
+  "slug": "wolman_disease",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/wolman_disease.md",
+  "definition": "PRIMARY FAMILIAL XANTHOMATOSIS rare autosomal recessive lipidosis with accumulation of cholesterol esters and triglycerides",
+  "demographics": {
+    "Etiology": "deficiency of lysosomal acid esterase / acid lipase"
+  },
+  "dominant_finding": "hepatosplenomegaly",
+  "distribution": "extensive bilateral punctate calcifications (calcification of fatty-acid soaps) throughout",
+  "discriminating_features": [
+    "hepatosplenomegaly",
+    "extensive bilateral punctate calcifications (calcification of fatty-acid soaps) throughout",
+    "enlarged fat-containing lymph nodes",
+    "small bowel wall thickening ← infiltration of mucosa of small bowel by lipid-filled",
+    "generalized osteoporosis"
+  ],
+  "other_features": {
+    "general": [
+      "hepatosplenomegaly",
+      "extensive bilateral punctate calcifications (calcification of fatty-acid soaps) throughout",
+      "enlarged fat-containing lymph nodes",
+      "small bowel wall thickening ← infiltration of mucosa of small bowel by lipid-filled",
+      "generalized osteoporosis"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death occurs within first 6 months of life"
+  }
+}

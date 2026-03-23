@@ -1,0 +1,52 @@
+{
+  "finding": "Striated Angiographic Nephrogram",
+  "slug": "striated_angiographic_nephrogram_a8cdfc",
+  "chapter": "A. PROXIMAL TUBULE",
+  "source_file": "processed_clusters/a_proximal_tubule/striated_angiographic_nephrogram_a8cdfc.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Obliterative diseases of renal microvasculature:",
+      "raw": "Obliterative diseases of renal microvasculature:",
+      "frequency": null
+    },
+    {
+      "name": "Acute bacterial nephritis",
+      "raw": "Acute bacterial nephritis",
+      "frequency": null
+    },
+    {
+      "name": "Renal vein thrombosis",
+      "raw": "Renal vein thrombosis",
+      "frequency": null
+    },
+    {
+      "name": "VASCULAR = diminished perfusion",
+      "raw": "VASCULAR = diminished perfusion",
+      "frequency": null
+    },
+    {
+      "name": "Systemic arterial hypotension",
+      "raw": "Systemic arterial hypotension (bilateral)",
+      "frequency": null
+    },
+    {
+      "name": "Severe main renal artery stenosis",
+      "raw": "Severe main renal artery stenosis (unilateral)",
+      "frequency": null
+    },
+    {
+      "name": "Acute tubular necrosis (in 33%):",
+      "raw": "Acute tubular necrosis (in 33%):",
+      "frequency": "33%"
+    },
+    {
+      "name": "Acute renal vein thrombosis",
+      "raw": "Acute renal vein thrombosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  random patchy densities reflecting redistribution of blood flow from the cortical vasculature to vasa recta of medulla polyarteritis nodosa, scleroderma, necrotizing angiitis, catheter-induced vasospasm Increasingly Dense Nephrogram =  initially faint nephrogram becoming increasingly dense over hours to days Mechanism: (a)  diminished plasma clearance of contrast material (b)  leakage of contrast material into renal interstitial space (c)  increase in tubular transit time Cause: ← contrast material nephrotoxicity"
+}

@@ -1,0 +1,32 @@
+{
+  "finding": "Adrenocortical Adenoma (DDx)",
+  "slug": "adrenocortical_adenoma_ddx_6ff2ca",
+  "chapter": "Adrenocortical Adenoma",
+  "source_file": "processed_clusters/adrenocortical_adenoma/adrenocortical_adenoma_ddx_6ff2ca.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pheochromocytoma",
+      "raw": "pheochromocytoma",
+      "frequency": null
+    },
+    {
+      "name": "adrenocortical carcinoma",
+      "raw": "adrenocortical carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "metastasis",
+      "raw": "metastasis",
+      "frequency": null
+    },
+    {
+      "name": "functioning adenoma",
+      "raw": "functioning adenoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "adenomas tend to enhance less rapidly + less intensely than metastases on time- | relatively rapid washout of contrast material compared with metastases with return to | well-circumscribed round or oval lesion of slightly heterogeneous mixed echogenicity | adenoma may calcify → often in areas of old hemorrhage"
+}

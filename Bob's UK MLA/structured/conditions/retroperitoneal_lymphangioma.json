@@ -1,0 +1,40 @@
+{
+  "name": "RETROPERITONEAL LYMPHANGIOMA",
+  "slug": "retroperitoneal_lymphangioma",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/retroperitoneal_lymphangioma.md",
+  "definition": "exceedingly rare tumor usually discovered incidentally RENAL LYMPHANGIECTASIA / LYMPHANGIOMATOSIS exacerbation during pregnancy",
+  "demographics": {
+    "Prevalence": "0.06%",
+    "Age": "any; peaks during 3rd-6th decade of life",
+    "Frequency": "rare benign renal tumor (50 cases in literature)",
+    "Histo": "multiple communicating cysts lined by flattened endothelial cells; multiple septa",
+    "Location": "renal sinus, perinephric region; (commonly) bilateral"
+  },
+  "dominant_finding": "thin-walled multilocular cystic lesion near fluid attenuation",
+  "distribution": "renal sinus, perinephric region; (commonly) bilateral",
+  "discriminating_features": [
+    "thin-walled multilocular cystic lesion near fluid attenuation",
+    "thin septa WITHOUT internal enhancement",
+    "decreased SI on T1WI + increased intensity on T2WI",
+    "uni- / multilocular cystic mass",
+    "hypointense on T1WI + uniformly hyperintense on T2WI"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "thin-walled multilocular cystic lesion near fluid attenuation",
+      "thin septa WITHOUT internal enhancement"
+    ],
+    "MR": [
+      "decreased SI on T1WI + increased intensity on T2WI",
+      "uni- / multilocular cystic mass",
+      "hypointense on T1WI + uniformly hyperintense on T2WI",
+      "variable SI of intracystic fluid (depending on presence of hemorrhage / debris / protein",
+      "increasing perinephric collection, ascites"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "spontaneous regression (occasionally)"
+  }
+}

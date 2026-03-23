@@ -1,0 +1,67 @@
+{
+  "finding": "Suprasellar Mass with Uniform Enhancement",
+  "slug": "suprasellar_mass_with_uniform_enhancement",
+  "chapter": "SELLA",
+  "source_file": "processed_clusters/sella/suprasellar_mass_with_uniform_enhancement.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pituitary adenoma",
+      "raw": "Pituitary adenoma",
+      "frequency": null
+    },
+    {
+      "name": "Pituitary Hyperplasia",
+      "raw": "Pituitary Hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "appropriate clinical setting",
+      "raw": "appropriate clinical setting (hypothyroidism, pregnancy)",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphocytic adenohypophysitis",
+      "raw": "Lymphocytic adenohypophysitis",
+      "frequency": null
+    },
+    {
+      "name": "usually in women during postpartum period",
+      "raw": "usually in women during postpartum period",
+      "frequency": null
+    },
+    {
+      "name": "diabetes insipidus common",
+      "raw": "diabetes insipidus common",
+      "frequency": "common"
+    },
+    {
+      "name": "Chiasmatic / hypothalamic glioma",
+      "raw": "Chiasmatic / hypothalamic glioma",
+      "frequency": null
+    },
+    {
+      "name": "Unusual craniopharyngioma",
+      "raw": "Unusual craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans histiocytosis",
+      "raw": "Langerhans histiocytosis",
+      "frequency": null
+    },
+    {
+      "name": "Germinoma",
+      "raw": "Germinoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  symmetrical masslike contour √  midline suprasellar lesion √  suprasellar extension common"
+}

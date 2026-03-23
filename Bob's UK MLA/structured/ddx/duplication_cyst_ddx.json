@@ -1,0 +1,42 @@
+{
+  "finding": "Duplication Cyst (DDx)",
+  "slug": "duplication_cyst_ddx",
+  "chapter": "Duplication Cyst",
+  "source_file": "processed_clusters/duplication_cyst/duplication_cyst_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "pancreatic cyst",
+      "raw": "pancreatic cyst",
+      "frequency": null
+    },
+    {
+      "name": "pancreatic pseudocyst",
+      "raw": "pancreatic pseudocyst",
+      "frequency": null
+    },
+    {
+      "name": "choledochal cyst",
+      "raw": "choledochal cyst",
+      "frequency": null
+    },
+    {
+      "name": "choledochocele",
+      "raw": "choledochocele",
+      "frequency": null
+    },
+    {
+      "name": "duodenal intramural tumor",
+      "raw": "duodenal intramural tumor",
+      "frequency": null
+    },
+    {
+      "name": "pancreatic tumor",
+      "raw": "pancreatic tumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "mass in concavity of duodenal C-loop | compression + displacement of 1st / 2nd portion of duodenum superiorly + anteriorly | may communicate with pancreatic ductal system through the aberrant duct of an"
+}

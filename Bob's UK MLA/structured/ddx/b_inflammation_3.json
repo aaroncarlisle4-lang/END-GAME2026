@@ -1,0 +1,42 @@
+{
+  "finding": "B. INFLAMMATION",
+  "slug": "b_inflammation_3",
+  "chapter": "C. FROM LACRIMAL GLAND",
+  "source_file": "processed_clusters/c_from_lacrimal_gland/b_inflammation_3.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Myositis",
+      "raw": "Myositis",
+      "frequency": null
+    },
+    {
+      "name": "rapid onset of proptosis, erythema of lids, conjunctival injection",
+      "raw": "rapid onset of proptosis, erythema of lids, conjunctival injection",
+      "frequency": null
+    },
+    {
+      "name": "Orbital cellulitis",
+      "raw": "Orbital cellulitis",
+      "frequency": null
+    },
+    {
+      "name": "Sjögren disease, Wegener granulomatosis, lethal midline granuloma, SLE",
+      "raw": "Sjögren disease, Wegener granulomatosis, lethal midline granuloma, SLE",
+      "frequency": null
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Foreign-body reaction",
+      "raw": "Foreign-body reaction",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Location:   single muscle (in adults); multiple muscles (in children) √  enlarged extraocular muscle √  positive response to steroids"
+}

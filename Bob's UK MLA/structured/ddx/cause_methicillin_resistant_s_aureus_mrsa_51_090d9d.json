@@ -1,0 +1,32 @@
+{
+  "finding": "Cause: methicillin-resistant S. aureus (MRSA, 51%",
+  "slug": "cause_methicillin_resistant_s_aureus_mrsa_51_090d9d",
+  "chapter": "MUSCULOSKELETAL INFECTION",
+  "source_file": "processed_clusters/musculoskeletal_infection/cause_methicillin_resistant_s_aureus_mrsa_51_090d9d.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Infectious myositis",
+      "raw": "Infectious myositis",
+      "frequency": null
+    },
+    {
+      "name": "Osteomyelitis",
+      "raw": "Osteomyelitis",
+      "frequency": null
+    },
+    {
+      "name": "Septic arthritis",
+      "raw": "Septic arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Septic bursitis",
+      "raw": "Septic bursitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  well-demarcated fluid collection with peripheral pseudo-capsule showing rim enhancement DDx:   cellulitis, fasciitis (no rim enhancement)"
+}

@@ -1,0 +1,27 @@
+{
+  "finding": "Arteriovenous Malformation Of Jaw (DDx)",
+  "slug": "arteriovenous_malformation_of_jaw_ddx_123655",
+  "chapter": "Arteriovenous Malformation Of Jaw",
+  "source_file": "processed_clusters/arteriovenous_malformation_of_jaw/arteriovenous_malformation_of_jaw_ddx_123655.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "traumatic bone cyst",
+      "raw": "traumatic bone cyst",
+      "frequency": null
+    },
+    {
+      "name": "central giant cell granuloma",
+      "raw": "central giant cell granuloma",
+      "frequency": null
+    },
+    {
+      "name": "ossifying fibroma",
+      "raw": "ossifying fibroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "cystlike due to bone resorption ± calcifications | ± multilocular ± bone expansion | ± erosive margins | angiogram confirms diagnosis"
+}

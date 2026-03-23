@@ -1,0 +1,77 @@
+{
+  "finding": "PSEUDOTUMOR OF ORBIT",
+  "slug": "pseudotumor_of_orbit",
+  "chapter": "PLEOMORPHIC ADENOMA OF ORBIT",
+  "source_file": "processed_clusters/pleomorphic_adenoma_of_orbit/pseudotumor_of_orbit.md",
+  "quality_score": 0.967,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "sudden acute onset of unilateral eye pain",
+      "raw": "sudden acute onset of unilateral eye pain",
+      "frequency": null
+    },
+    {
+      "name": "ophthalmoplegia (= impaired ocular movement) + diplopia",
+      "raw": "ophthalmoplegia (= impaired ocular movement) + diplopia",
+      "frequency": null
+    },
+    {
+      "name": "decreased visual acuity, proptosis; eyelid swelling, chemosis Location:   retrobulbar fat (76%), commonly superior + medial extraocular muscle (57%), optic",
+      "raw": "decreased visual acuity, proptosis; eyelid swelling, chemosis Location:   retrobulbar fat (76%), commonly superior + medial extraocular muscle (57%), optic",
+      "frequency": "76%"
+    },
+    {
+      "name": "Myositic type (most common) affects extraocular muscles",
+      "raw": "Myositic type (most common) affects extraocular muscles",
+      "frequency": "most common"
+    },
+    {
+      "name": "Dacryoadenitis-related form affects lacrimal glands",
+      "raw": "Dacryoadenitis-related form affects lacrimal glands",
+      "frequency": null
+    },
+    {
+      "name": "Neuritis-associated form affects optic nerve sheath",
+      "raw": "Neuritis-associated form affects optic nerve sheath",
+      "frequency": null
+    },
+    {
+      "name": "Apical form affects orbital apex",
+      "raw": "Apical form affects orbital apex",
+      "frequency": null
+    },
+    {
+      "name": "Episcleral form affects anterior orbit with sclera and preseptal soft tissues",
+      "raw": "Episcleral form affects anterior orbit with sclera and preseptal soft tissues",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse form affects entire orbit",
+      "raw": "Diffuse form affects entire orbit",
+      "frequency": null
+    },
+    {
+      "name": "Remitting / chronic + progressive course",
+      "raw": "Remitting / chronic + progressive course (= intermediate malignant potential)",
+      "frequency": null
+    },
+    {
+      "name": "Rapid dramatic + lasting response to steroid therapy",
+      "raw": "Rapid dramatic + lasting response to steroid therapy",
+      "frequency": null
+    },
+    {
+      "name": "Thyroid ophthalmopathy",
+      "raw": "Thyroid ophthalmopathy (tapering of distal muscles, painless proptosis)",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy",
+      "raw": "Radiation therapy",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  INFLAMMATORY MYOFIBROBLASTIC TUMOR = IDIOPATHIC ORBITAL INFLAMMATORY SYNDROME =  idiopathic nongranulomatous inflammatory process affecting all intraorbital soft tissues Etiology: (a)  cause not apparent at time of study: bacterial, viral, foreign body (b)  systemic disease presently not apparent: part of in IgG4-related disease, sarcoidosis, collagen, endocrine (c)  idiopathic: probably abnormal immune response Frequency:   6% of all orbital lesions ◊  2nd most common cause of exophthalmos (25% of all unilateral exophthalmos) ◊  3rd most common primary tumor of the orbit Age:   young to mi"
+}

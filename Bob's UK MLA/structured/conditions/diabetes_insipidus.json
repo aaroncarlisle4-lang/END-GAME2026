@@ -1,0 +1,23 @@
+{
+  "name": "DIABETES INSIPIDUS",
+  "slug": "diabetes_insipidus",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF UROGENITAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_urogenital_disorders/diabetes_insipidus.md",
+  "definition": "characterized by daily production of very large volume of dilute urine (specific gravity < HYPOTHALAMIC DIABETES INSIPIDUS VASOPRESSIN-SENSITIVE DIABETES INSIPIDUS vasopressin (ADH) production is reduced to < 10% compulsive intake of large amounts of fluid → inhibits normal vasopressin production poor reabsorption of water in collecting ducts ← end-organ resistance to vasopressin",
+  "demographics": {
+    "Histo": "atrophic supraoptic nucleus"
+  },
+  "dominant_finding": "bilateral hydroureteronephrosis",
+  "distribution": "bilateral hydroureteronephrosis",
+  "discriminating_features": [
+    "bilateral hydroureteronephrosis"
+  ],
+  "other_features": {
+    "general": [
+      "bilateral hydroureteronephrosis"
+    ]
+  },
+  "clinical": {
+    "Rx": "thiazide diuretics, low-salt diet, encouragement of frequent micturition, indomethacin"
+  }
+}

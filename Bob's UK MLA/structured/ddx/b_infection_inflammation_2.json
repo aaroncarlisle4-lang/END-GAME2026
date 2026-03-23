@@ -1,0 +1,37 @@
+{
+  "finding": "B. INFECTION / INFLAMMATION",
+  "slug": "b_infection_inflammation_2",
+  "chapter": "Absence of Innominate Line",
+  "source_file": "processed_clusters/absence_of_innominate_line/b_infection_inflammation_2.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Extension from paranasal sinus / mastoid infection",
+      "raw": "Extension from paranasal sinus / mastoid infection",
+      "frequency": null
+    },
+    {
+      "name": "Complication of trauma",
+      "raw": "Complication of trauma",
+      "frequency": null
+    },
+    {
+      "name": "Fungal disease: mucormycosis in diabetic, aspergillosis in immunosuppressed patient",
+      "raw": "Fungal disease: mucormycosis in diabetic, aspergillosis in immunosuppressed patient",
+      "frequency": null
+    },
+    {
+      "name": "Sinus + nasopharyngeal sarcoidosis",
+      "raw": "Sinus + nasopharyngeal sarcoidosis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation necrosis",
+      "raw": "Radiation necrosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

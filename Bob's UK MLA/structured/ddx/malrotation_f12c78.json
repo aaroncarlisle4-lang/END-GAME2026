@@ -1,0 +1,82 @@
+{
+  "finding": "MALROTATION",
+  "slug": "malrotation_f12c78",
+  "chapter": "LYMPHOGRANULOMA VENEREUM",
+  "source_file": "processed_clusters/lymphogranuloma_venereum/malrotation_f12c78.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "symptoms of partial / complete proximal bowel obstruction ← volvulus / peritoneal (Ladd) bands / internal hernia:",
+      "raw": "symptoms of partial / complete proximal bowel obstruction ← volvulus / peritoneal (Ladd) bands / internal hernia:",
+      "frequency": null
+    },
+    {
+      "name": "bilious vomiting (77% of neonates; in 39% within 1st week of life ± abdominal distension",
+      "raw": "bilious vomiting (77% of neonates; in 39% within 1st week of life ± abdominal distension",
+      "frequency": "77%"
+    },
+    {
+      "name": "recurrent attacks of vomiting + distension",
+      "raw": "recurrent attacks of vomiting + distension (in older children)",
+      "frequency": null
+    },
+    {
+      "name": "insidious onset in adulthood with chronic nonspecific symptoms ← intermittent volvulus",
+      "raw": "insidious onset in adulthood with chronic nonspecific symptoms ← intermittent volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Midintestinal / midgut volvulus",
+      "raw": "Midintestinal / midgut volvulus",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal obstruction",
+      "raw": "Duodenal obstruction",
+      "frequency": null
+    },
+    {
+      "name": "Ladd bands",
+      "raw": "Ladd bands",
+      "frequency": null
+    },
+    {
+      "name": "Internal herniation",
+      "raw": "Internal herniation",
+      "frequency": null
+    },
+    {
+      "name": "Mortality:   3-5%",
+      "raw": "Mortality:   3-5%",
+      "frequency": "5%"
+    },
+    {
+      "name": "Rx:   Ladd procedure",
+      "raw": "Rx:   Ladd procedure",
+      "frequency": null
+    },
+    {
+      "name": "Nonrotation",
+      "raw": "Nonrotation",
+      "frequency": null
+    },
+    {
+      "name": "generally asymptomatic: often incidental finding in older children + adults",
+      "raw": "generally asymptomatic: often incidental finding in older children + adults",
+      "frequency": null
+    },
+    {
+      "name": "prearterial segment of midgut reenters abdomen first toward left side",
+      "raw": "prearterial segment of midgut reenters abdomen first toward left side",
+      "frequency": null
+    },
+    {
+      "name": "postarterial segment of midgut reenters abdomen first =  cecum migrates first passing behind SMA toward right thus unwinding the normal counterclockwise rotation of the first stage with additional final 90° clockwise rotation",
+      "raw": "postarterial segment of midgut reenters abdomen first =  cecum migrates first passing behind SMA toward right thus unwinding the normal counterclockwise rotation of the first stage with additional final 90° clockwise rotation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  abnormal position of small + large bowel ← narrow mesenteric attachment ← arrest in the embryologic development of gut rotation + fixation Frequency:   1÷500 births Age:   in symptomatic cases: 75% in newborns + 90% in 1st year of life; 5 years average delay in diagnosis; incidental diagnosis in adults Embryology: Normal fixation: in LUQ at ligament of Treitz (an extension of the right crus of diaphragm + fibrous tissue around celiac artery, located to left of L2) + RLQ fixation of cecum Abnormal fixation of mesentery: its upper point below the normal position of ligament of Treitz, its low"
+}

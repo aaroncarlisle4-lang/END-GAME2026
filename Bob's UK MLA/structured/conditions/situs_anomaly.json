@@ -1,0 +1,26 @@
+{
+  "name": "SITUS ANOMALY",
+  "slug": "situs_anomaly",
+  "chapter": "DIFFERENTIAL DIAGNOSIS OF CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/differential_diagnosis_of_cardiovascular_disorders/situs_anomaly.md",
+  "definition": "mirror-image arrangement of situs solitus visceral malposition + dysmorphism associated with indeterminate atrial arrangement location of heart other than within left hemothorax in situs solitus or within left hemithorax",
+  "demographics": {
+    "Associated with": "CHD, primary ciliary dyskinesia, abdominal anomalies (eg, intestinal",
+    "Frequency": "0.01%Associated with:"
+  },
+  "dominant_finding": "atrial septum characteristically bowed into LA in cardiac situs solitus with",
+  "distribution": "bilateral eparterial upper lobe bronchi = morphologically right lung",
+  "discriminating_features": [
+    "atrial septum characteristically bowed into LA in cardiac situs solitus with",
+    "bilateral eparterial upper lobe bronchi = morphologically right lung",
+    "bilateral hyparterial upper lobe bronchi = morphologically left lung"
+  ],
+  "other_features": {
+    "general": [
+      "bilateral eparterial upper lobe bronchi = morphologically right lung",
+      "bilateral hyparterial upper lobe bronchi = morphologically left lung",
+      "atrial septum characteristically bowed into LA in cardiac situs solitus with"
+    ]
+  },
+  "clinical": {}
+}

@@ -1,0 +1,42 @@
+{
+  "finding": "C. NEOPLASM",
+  "slug": "c_neoplasm_1_2f82d8",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/c_neoplasm_1_2f82d8.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "GIST",
+      "raw": "GIST",
+      "frequency": null
+    },
+    {
+      "name": "Neurogenic tumors: mesenteric plexiform neurofibroma associated with neurofibromatosis",
+      "raw": "Neurogenic tumors: mesenteric plexiform neurofibroma associated with neurofibromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Vascular tumors: hemangioma",
+      "raw": "Vascular tumors: hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Colon cancer",
+      "raw": "Colon cancer (2nd decade of life)",
+      "frequency": null
+    },
+    {
+      "name": "Langerhans cell histiocytosis",
+      "raw": "Langerhans cell histiocytosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

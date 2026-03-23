@@ -1,0 +1,47 @@
+{
+  "finding": "Accordion Sign",
+  "slug": "accordion_sign_2f0119",
+  "chapter": "C. TRAUMATIC",
+  "source_file": "processed_clusters/c_traumatic/accordion_sign_2f0119.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Radiation-induced colitis",
+      "raw": "Radiation-induced colitis",
+      "frequency": null
+    },
+    {
+      "name": "Ischemic colitis",
+      "raw": "Ischemic colitis",
+      "frequency": null
+    },
+    {
+      "name": "Infectious colitis: Clostridium difficile, tuberculosis",
+      "raw": "Infectious colitis: Clostridium difficile, tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Typhlitis, neutropenic colitis",
+      "raw": "Typhlitis, neutropenic colitis",
+      "frequency": null
+    },
+    {
+      "name": "Inflammation: Crohn disease, ulcerative colitis",
+      "raw": "Inflammation: Crohn disease, ulcerative colitis",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangiectasia",
+      "raw": "Lymphangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Intramural hemorrhage",
+      "raw": "Intramural hemorrhage",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  gross irregular polypoid thickening of colonic wall with wide separation of inner + outer walls ◊  The only 2 conditions with wall thickening > 10 mm"
+}

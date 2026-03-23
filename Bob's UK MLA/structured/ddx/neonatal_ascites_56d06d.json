@@ -1,0 +1,47 @@
+{
+  "finding": "Neonatal Ascites",
+  "slug": "neonatal_ascites_56d06d",
+  "chapter": "C. INGESTED FOREIGN BODIES",
+  "source_file": "processed_clusters/c_ingested_foreign_bodies/neonatal_ascites_56d06d.md",
+  "quality_score": 0.533,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "GASTROINTESTINAL (a)  perforation of hollow viscus",
+      "raw": "GASTROINTESTINAL (a)  perforation of hollow viscus",
+      "frequency": null
+    },
+    {
+      "name": "Meconium peritonitis (b)  inflammatory lesions",
+      "raw": "Meconium peritonitis (b)  inflammatory lesions",
+      "frequency": null
+    },
+    {
+      "name": "Meckel diverticulum",
+      "raw": "Meckel diverticulum",
+      "frequency": null
+    },
+    {
+      "name": "Appendicitis (c)  cyst rupture",
+      "raw": "Appendicitis (c)  cyst rupture",
+      "frequency": null
+    },
+    {
+      "name": "Mesenteric cyst",
+      "raw": "Mesenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Omental cyst",
+      "raw": "Omental cyst",
+      "frequency": null
+    },
+    {
+      "name": "Choledochal cyst",
+      "raw": "Choledochal cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

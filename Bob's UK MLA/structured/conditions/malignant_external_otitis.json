@@ -1,0 +1,41 @@
+{
+  "name": "MALIGNANT EXTERNAL OTITIS",
+  "slug": "malignant_external_otitis",
+  "chapter": "EAR, NOSE, AND THROAT DISORDERS",
+  "source_file": "processed_clusters/disease_entries/ear_nose_and_throat_disorders/malignant_external_otitis.md",
+  "definition": "NECROTIZING EXTERNAL OTITIS severe bacterial infection of the soft tissues + bones at base of skull",
+  "demographics": {
+    "Age": "elderly",
+    "Location": "at bone-cartilage junction of EAC"
+  },
+  "dominant_finding": "soft-tissue density in external auditory canal (100%)",
+  "distribution": "at bone-cartilage junction of EAC",
+  "discriminating_features": [
+    "osseous erosion of external auditory canal",
+    "soft-tissue density in external auditory canal (100%)",
+    "fluid in middle ear / mastoid air cells (89%)",
+    "disease around eustachian tube (64%)",
+    "obliteration of fat planes beneath temporal bone (64%)"
+  ],
+  "other_features": {
+    "general": [
+      "osseous erosion of external auditory canal"
+    ],
+    "CT": [
+      "soft-tissue density in external auditory canal (100%)",
+      "fluid in middle ear / mastoid air cells (89%)",
+      "disease around eustachian tube (64%)",
+      "obliteration of fat planes beneath temporal bone (64%)",
+      "involvement of parapharyngeal space (54%)",
+      "masticator space disease (27%)",
+      "mass effect in nasopharynx (54%)",
+      "bone erosion of clivus (9%)",
+      "intracranial extension (9%)",
+      "abnormal signal intensity + obliteration of fat within stylomastoid foramen"
+    ]
+  },
+  "clinical": {
+    "Cx": "bone destruction; skull base osteomyelitis (clivus, jugular foramen); abscess of epidural",
+    "Prognosis": "20% recurrence rate; high mortality rate"
+  }
+}

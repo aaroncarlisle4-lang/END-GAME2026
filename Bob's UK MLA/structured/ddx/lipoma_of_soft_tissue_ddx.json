@@ -1,0 +1,42 @@
+{
+  "finding": "Lipoma Of Soft Tissue (DDx)",
+  "slug": "lipoma_of_soft_tissue_ddx",
+  "chapter": "Lipoma Of Soft Tissue",
+  "source_file": "processed_clusters/lipoma_of_soft_tissue/lipoma_of_soft_tissue_ddx.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "cyst",
+      "raw": "cyst",
+      "frequency": null
+    },
+    {
+      "name": "ganglion",
+      "raw": "ganglion",
+      "frequency": null
+    },
+    {
+      "name": "lipoma",
+      "raw": "lipoma",
+      "frequency": null
+    },
+    {
+      "name": "traumatic neuroma",
+      "raw": "traumatic neuroma",
+      "frequency": null
+    },
+    {
+      "name": "plexiform neurofibroma",
+      "raw": "plexiform neurofibroma",
+      "frequency": null
+    },
+    {
+      "name": "vascular",
+      "raw": "vascular",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "may not be visible radiographically | longitudinally oriented, cylindrical, linear / serpiginous structures of signal void about 3 | \"cablelike appearance\" = alternating hyper- and hypoechoic bands on US"
+}

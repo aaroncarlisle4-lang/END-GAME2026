@@ -1,0 +1,22 @@
+{
+  "finding": "Fetal Skeletal Dysplasia (DDx)",
+  "slug": "fetal_skeletal_dysplasia_ddx_5b29bb",
+  "chapter": "Fetal Skeletal Dysplasia",
+  "source_file": "processed_clusters/fetal_skeletal_dysplasia/fetal_skeletal_dysplasia_ddx_5b29bb.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "constitutionally short limbs",
+      "raw": "constitutionally short limbs",
+      "frequency": null
+    },
+    {
+      "name": "severe IUGR",
+      "raw": "severe IUGR",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"rocker-bottom\" foot, clubbed foot | HC and BPD | binocular and interocular diameter | micrognathia, short upper lip, abnormally shaped ears"
+}

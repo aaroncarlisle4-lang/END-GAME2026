@@ -1,0 +1,47 @@
+{
+  "name": "DIFFUSE IDIOPATHIC SKELETAL HYPEROSTOSIS",
+  "slug": "diffuse_idiopathic_skeletal_hyperostosis",
+  "chapter": "BONE AND SOFT-TISSUE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/bone_and_soft_tissue_disorders/diffuse_idiopathic_skeletal_hyperostosis.md",
+  "definition": "DISH = FORESTIER DISEASE = ANKYLOSING HYPEROSTOSIS common ossifying diathesis characterized by bone proliferation at sites of tendinous +",
+  "demographics": {
+    "Age": "> 50 years; M÷F = 3÷1",
+    "Location": "middle + lower thoracic > lower cervical > entire lumbar spine"
+  },
+  "dominant_finding": "increased incidence of hyperostosis frontalis interna",
+  "distribution": "middle + lower thoracic > lower cervical > entire lumbar spine",
+  "discriminating_features": [
+    "increased incidence of hyperostosis frontalis interna",
+    "flowing ossification of at least 4 contiguous vertebral bodies:",
+    "osteophytes located anteriorly + laterally on right side (not on left because of aortic",
+    "osteophytes largest at level of intervertebral disk",
+    "radiolucency beneath deposited bone"
+  ],
+  "other_features": {
+    "general": [
+      "increased incidence of hyperostosis frontalis interna"
+    ],
+    "Spine": [
+      "flowing ossification of at least 4 contiguous vertebral bodies:",
+      "osteophytes located anteriorly + laterally on right side (not on left because of aortic",
+      "osteophytes largest at level of intervertebral disk",
+      "radiolucency beneath deposited bone",
+      "disk spaces well preserved, no apophyseal ankylosis, no sacroiliitis"
+    ],
+    "Pelvis": [
+      "bridge across superior aspect of symphysis pubis",
+      "ossification of iliolumbar + sacrotuberous + sacroiliac ligaments (high probability for",
+      "\"whiskering\" at iliac crest, ischial tuberosity, trochanters",
+      "broad osteophytes at lateral acetabular edge, inferior portions of sacroiliac joints"
+    ],
+    "Extremities": [
+      "big heel spurs (on plantar + posterior surface of calcaneus)",
+      "spur of olecranon process of ulna",
+      "spur on anterior surface of patella",
+      "ossification of coracoclavicular ligament, patellar ligament, tibial tuberosity, interosseous"
+    ]
+  },
+  "clinical": {
+    "Cx": "postoperative heterotopic bone formation (hip)"
+  }
+}

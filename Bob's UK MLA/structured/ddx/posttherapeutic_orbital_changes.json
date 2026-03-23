@@ -1,0 +1,37 @@
+{
+  "finding": "Posttherapeutic Orbital Changes",
+  "slug": "posttherapeutic_orbital_changes",
+  "chapter": "Spectrum of Ocular Disorders",
+  "source_file": "processed_clusters/spectrum_of_ocular_disorders/posttherapeutic_orbital_changes.md",
+  "quality_score": 0.267,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Lens implant",
+      "raw": "Lens implant",
+      "frequency": null
+    },
+    {
+      "name": "Scleral band / buckle",
+      "raw": "Scleral band / buckle",
+      "frequency": null
+    },
+    {
+      "name": "Intraocular silicone oil injection",
+      "raw": "Intraocular silicone oil injection",
+      "frequency": null
+    },
+    {
+      "name": "Pneumatic retinopexy",
+      "raw": "Pneumatic retinopexy",
+      "frequency": null
+    },
+    {
+      "name": "Globe prosthesis",
+      "raw": "Globe prosthesis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  radiopaque / radiolucent device at midglobe level √  silicone > 100 HU (DDx: blood < 90 HU) √  silicone-related chemical shift artifact √  gas within globe"
+}

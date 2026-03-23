@@ -1,0 +1,37 @@
+{
+  "finding": "Pleural Effusion & Hilar Enlargement",
+  "slug": "pleural_effusion_hilar_enlargement_2c263a",
+  "chapter": "Spontaneous Pneumothorax",
+  "source_file": "processed_clusters/spontaneous_pneumothorax/pleural_effusion_hilar_enlargement_2c263a.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pulmonary embolus",
+      "raw": "Pulmonary embolus",
+      "frequency": null
+    },
+    {
+      "name": "Tumor: bronchogenic carcinoma, lymphoma, metastasis",
+      "raw": "Tumor: bronchogenic carcinoma, lymphoma, metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Fungal infection",
+      "raw": "Fungal infection (rare)",
+      "frequency": "rare"
+    },
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (very rare)",
+      "frequency": "rare"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,38 @@
+{
+  "name": "MICROSCOPIC POLYANGIITIS",
+  "slug": "microscopic_polyangiitis",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/microscopic_polyangiitis.md",
+  "definition": "MICROSCOPIC POLYARTERITIS = HYPERSENSITIVITY VASCULITIS = LEUKOCYTOCLASTIC pauci-immune necrotizing small-vessel angiitis without granulomatous inflammation",
+  "demographics": {
+    "Path": "necrotizing arteritis identical to polyarteritis nodosa but in vessels smaller than arteries",
+    "Location": "skin, mucous membranes, lung, brain, heart, GI tract, kidney, muscle"
+  },
+  "dominant_finding": "glomerulonephritis (90%)",
+  "distribution": "skin, mucous membranes, lung, brain, heart, GI tract, kidney, muscle",
+  "discriminating_features": [
+    "glomerulonephritis (90%)",
+    "pulmonary infiltrates ← capillaritis",
+    "mononeuritis multiplex",
+    "cerebral hemorrhage, nonhemorrhagic cerebral infarction",
+    "pachymeningitis"
+  ],
+  "other_features": {
+    "general": [],
+    "Kidney": [
+      "glomerulonephritis (90%)"
+    ],
+    "Lung": [
+      "pulmonary infiltrates ← capillaritis"
+    ],
+    "CNS (involved in 37-72%)": [
+      "mononeuritis multiplex",
+      "cerebral hemorrhage, nonhemorrhagic cerebral infarction",
+      "pachymeningitis",
+      "variable degrees of small-vessel disease involving white and gray matter"
+    ]
+  },
+  "clinical": {
+    "Rx": "removal of offending agent"
+  }
+}

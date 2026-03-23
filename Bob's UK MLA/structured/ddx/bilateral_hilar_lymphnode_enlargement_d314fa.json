@@ -1,0 +1,27 @@
+{
+  "finding": "Bilateral Hilar Lymphnode Enlargement",
+  "slug": "bilateral_hilar_lymphnode_enlargement_d314fa",
+  "chapter": "C. DIAPHRAGM",
+  "source_file": "processed_clusters/c_diaphragm/bilateral_hilar_lymphnode_enlargement_d314fa.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Sarcoidosis",
+      "raw": "Sarcoidosis (75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "Fungal / mycobacterial infection",
+      "raw": "Fungal / mycobacterial infection",
+      "frequency": null
+    },
+    {
+      "name": "Malignancy: lymphoma",
+      "raw": "Malignancy: lymphoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "in the absence of specific symptoms / signs"
+}

@@ -1,0 +1,47 @@
+{
+  "finding": "D. OTHERS",
+  "slug": "d_others",
+  "chapter": "C. NO EAR ANOMALIES",
+  "source_file": "processed_clusters/c_no_ear_anomalies/d_others.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Seckel syndrome",
+      "raw": "Seckel syndrome (bird-headed dwarfism)",
+      "frequency": null
+    },
+    {
+      "name": "Multiple pterygium syndrome",
+      "raw": "Multiple pterygium syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Pena-Shokeir syndrome",
+      "raw": "Pena-Shokeir syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Beckwith-Wiedemann syndrome",
+      "raw": "Beckwith-Wiedemann syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Arthrogryposis",
+      "raw": "Arthrogryposis",
+      "frequency": null
+    },
+    {
+      "name": "Skeletal dysplasias",
+      "raw": "Skeletal dysplasias",
+      "frequency": null
+    },
+    {
+      "name": "Trisomy 13, 18, 9",
+      "raw": "Trisomy 13, 18, 9 (abnormal karyotype in 25%)",
+      "frequency": "25%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

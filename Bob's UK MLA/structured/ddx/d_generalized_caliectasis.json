@@ -1,0 +1,77 @@
+{
+  "finding": "D. GENERALIZED CALIECTASIS",
+  "slug": "d_generalized_caliectasis",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/collecting_system/d_generalized_caliectasis.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Postobstructive atrophy",
+      "raw": "Postobstructive atrophy",
+      "frequency": null
+    },
+    {
+      "name": "Congenital megacalices",
+      "raw": "Congenital megacalices",
+      "frequency": null
+    },
+    {
+      "name": "Obstructive uropathy",
+      "raw": "Obstructive uropathy (hydronephrosis)",
+      "frequency": null
+    },
+    {
+      "name": "Nonobstructive hydronephrosis",
+      "raw": "Nonobstructive hydronephrosis",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes insipidus",
+      "raw": "Diabetes insipidus",
+      "frequency": null
+    },
+    {
+      "name": "Clot",
+      "raw": "Clot",
+      "frequency": null
+    },
+    {
+      "name": "Cancer",
+      "raw": "Cancer",
+      "frequency": null
+    },
+    {
+      "name": "Cyst",
+      "raw": "Cyst",
+      "frequency": null
+    },
+    {
+      "name": "Calculus",
+      "raw": "Calculus",
+      "frequency": null
+    },
+    {
+      "name": "Candida + other fungi",
+      "raw": "Candida + other fungi",
+      "frequency": null
+    },
+    {
+      "name": "Cystitis cystica",
+      "raw": "Cystitis cystica",
+      "frequency": null
+    },
+    {
+      "name": "Polyp",
+      "raw": "Polyp",
+      "frequency": null
+    },
+    {
+      "name": "Papilla",
+      "raw": "Papilla (sloughed)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Filling Defect in Collecting System mnemonic:   6 C\"s & 2 P's"
+}

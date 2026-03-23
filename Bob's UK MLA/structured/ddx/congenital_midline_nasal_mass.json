@@ -1,0 +1,42 @@
+{
+  "finding": "Congenital Midline Nasal Mass",
+  "slug": "congenital_midline_nasal_mass",
+  "chapter": "NOSE",
+  "source_file": "processed_clusters/nose/congenital_midline_nasal_mass.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Teratoma, dermoid, epidermoid",
+      "raw": "Teratoma, dermoid, epidermoid",
+      "frequency": null
+    },
+    {
+      "name": "Nasal glioma = nasal cerebral heterotopia",
+      "raw": "Nasal glioma = nasal cerebral heterotopia",
+      "frequency": null
+    },
+    {
+      "name": "Sincipital encephalocele",
+      "raw": "Sincipital encephalocele",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma / lymphangioma",
+      "raw": "Hemangioma / lymphangioma",
+      "frequency": null
+    },
+    {
+      "name": "Dacryocystocele",
+      "raw": "Dacryocystocele",
+      "frequency": null
+    },
+    {
+      "name": "Dacryocystitis",
+      "raw": "Dacryocystitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  result of faulty regression of embryologic dural diverticulum through foramen cecum + fonticulus frontalis (= nasofrontal fontanel) from the prenasal space Frequency:   1÷20,000 to 1÷40,000 births"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "ALEXANDER DISEASE",
+  "slug": "alexander_disease",
+  "chapter": "NERVOUS SYSTEM DISORDERS",
+  "source_file": "processed_clusters/disease_entries/nervous_system_disorders/alexander_disease.md",
+  "definition": "FIBRINOID LEUKODYSTROPHY rare autosomal dominant / sporadic CNS disease (< 500 cases)",
+  "demographics": {
+    "Age": "as early as first few weeks of life to 2 years"
+  },
+  "dominant_finding": "low-density white matter lesion",
+  "distribution": "",
+  "discriminating_features": [
+    "low-density white matter lesion",
+    "contrast enhancement near tip of frontal horn",
+    "prolonged T1 + T2 relaxation times"
+  ],
+  "other_features": {
+    "general": [],
+    "CT": [
+      "low-density white matter lesion",
+      "contrast enhancement near tip of frontal horn"
+    ],
+    "MR": [
+      "prolonged T1 + T2 relaxation times"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "death in infancy / childhood usually within 10 years"
+  }
+}

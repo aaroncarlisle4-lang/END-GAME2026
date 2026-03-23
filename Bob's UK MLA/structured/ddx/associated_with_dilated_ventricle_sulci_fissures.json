@@ -1,0 +1,47 @@
+{
+  "finding": "Associated with: dilated ventricle, sulci, fissures",
+  "slug": "associated_with_dilated_ventricle_sulci_fissures",
+  "chapter": "PERIVENTRICULAR REGION",
+  "source_file": "processed_clusters/periventricular_region/associated_with_dilated_ventricle_sulci_fissures.md",
+  "quality_score": 0.8,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Resolving hematoma",
+      "raw": "Resolving hematoma",
+      "frequency": null
+    },
+    {
+      "name": "history of previously demonstrated hematoma",
+      "raw": "history of previously demonstrated hematoma",
+      "frequency": null
+    },
+    {
+      "name": "Cystic tumor",
+      "raw": "Cystic tumor",
+      "frequency": null
+    },
+    {
+      "name": "NORMAL (increasing with age) Frequency:   22% between 0 and 20 years; 22% between 21 and 40 years; 51% between 41 and 60 years; 92% over 60 years",
+      "raw": "NORMAL (increasing with age) Frequency:   22% between 0 and 20 years; 22% between 21 and 40 years; 51% between 41 and 60 years; 92% over 60 years",
+      "frequency": "22%"
+    },
+    {
+      "name": "Enlarged perivascular spaces",
+      "raw": "Enlarged perivascular spaces",
+      "frequency": null
+    },
+    {
+      "name": "Ependymitis granularis",
+      "raw": "Ependymitis granularis",
+      "frequency": null
+    },
+    {
+      "name": "Neuroepithelial cyst",
+      "raw": "Neuroepithelial cyst",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  CSF density √  may show ring enhancement + compression of adjacent structures √  mass effect + contrast enhancement Periventricular T2-hyperintense Lesions Leukoencephalopathy = disease of white matter Leukodystrophy = degenerative diffuse sclerosis with symmetrical bilateral white matter lesions Histo:  reduced myelin, axonal loss, astrocytic gliosis Associated with:   dementia, gait abnormalities, late-onset depression"
+}

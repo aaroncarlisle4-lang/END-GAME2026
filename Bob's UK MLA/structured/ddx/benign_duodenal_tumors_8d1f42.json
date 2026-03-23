@@ -1,0 +1,57 @@
+{
+  "finding": "Benign Duodenal Tumors",
+  "slug": "benign_duodenal_tumors_8d1f42",
+  "chapter": "G. GLANDULAR ENLARGEMENT",
+  "source_file": "processed_clusters/g_glandular_enlargement/benign_duodenal_tumors_8d1f42.md",
+  "quality_score": 0.9,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "GIST  27%",
+      "raw": "GIST  27%",
+      "frequency": "27%"
+    },
+    {
+      "name": "Leiomyoma  ?",
+      "raw": "Leiomyoma  ?",
+      "frequency": null
+    },
+    {
+      "name": "Adenomatous polyp   21% ›  villous adenoma ›  tubular adenoma ›  Brunner gland adenoma  17%",
+      "raw": "Adenomatous polyp   21% ›  villous adenoma ›  tubular adenoma ›  Brunner gland adenoma  17%",
+      "frequency": "21%"
+    },
+    {
+      "name": "Lipoma  21%",
+      "raw": "Lipoma  21%",
+      "frequency": "21%"
+    },
+    {
+      "name": "Angiomatous tumor  6%",
+      "raw": "Angiomatous tumor  6%",
+      "frequency": "6%"
+    },
+    {
+      "name": "Ectopic pancreas  2%",
+      "raw": "Ectopic pancreas  2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Duodenal cyst  2%",
+      "raw": "Duodenal cyst  2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Neurofibroma  2%",
+      "raw": "Neurofibroma  2%",
+      "frequency": "2%"
+    },
+    {
+      "name": "Hamartoma   2%",
+      "raw": "Hamartoma   2%",
+      "frequency": "2%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  typically small polyps < 2 cm in diameter"
+}

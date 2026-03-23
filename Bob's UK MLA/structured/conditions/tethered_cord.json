@@ -1,0 +1,45 @@
+{
+  "name": "TETHERED CORD",
+  "slug": "tethered_cord",
+  "chapter": "SKULL AND SPINE DISORDERS",
+  "source_file": "processed_clusters/disease_entries/skull_and_spine_disorders/tethered_cord.md",
+  "definition": "TIGHT FILUM TERMINALE SYNDROME = LOW CONUS MEDULLARIS abnormally short + thickened filum terminale with position of conus medullaris below L2-3",
+  "demographics": {
+    "Etiology": "incomplete involution of distal spinal cord with failure of ascent of conus",
+    "Associated with": "filar lipoma in 29-78%, filar cyst, diastematomyelia, imperforate anus"
+  },
+  "dominant_finding": "prolonged T1 relaxation in center of spinal cord on T1WI in 25% (? myelomalacia / mild",
+  "distribution": "",
+  "discriminating_features": [
+    "diameter of filum terminale > 2 mm (normal range, 0.5-2.0 mm) at L5/S1 level (55%)",
+    "small fibrolipoma within thickened filum (23%)",
+    "small filar cyst (3%)",
+    "spinal cord ending in a small lipoma (13%)",
+    "prolonged T1 relaxation in center of spinal cord on T1WI in 25% (? myelomalacia / mild"
+  ],
+  "other_features": {
+    "general": [
+      "diameter of filum terminale > 2 mm (normal range, 0.5-2.0 mm) at L5/S1 level (55%)",
+      "small fibrolipoma within thickened filum (23%)",
+      "small filar cyst (3%)",
+      "spinal cord ending in a small lipoma (13%)"
+    ],
+    "MR": [
+      "prolonged T1 relaxation in center of spinal cord on T1WI in 25% (? myelomalacia / mild"
+    ],
+    "Tethered cord": [
+      "conus medullaris below level of L3 at birth + below L2 by age 12 (86%)",
+      "abnormal dorsal fixation of cord adjacent to vertebral arches (in prone position)",
+      "reduced / absent pulsatile movement of the cord + nerve roots (on M-mode scanning)",
+      "widened triangular thecal sac tented posteriorly (thecal sac pulled posteriorly by filum)",
+      "abnormal lateral course of nerve roots (> 15° angle relative to spinal cord)"
+    ],
+    "Vertebrae": [
+      "lumbar spina bifida occulta with interpedicular widening",
+      "scoliosis (20%)"
+    ]
+  },
+  "clinical": {
+    "Rx": "decompressive laminectomy / partial removal of lipoma ± freeing of cord"
+  }
+}

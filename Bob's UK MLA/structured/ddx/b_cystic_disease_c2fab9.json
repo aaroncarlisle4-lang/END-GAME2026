@@ -1,0 +1,27 @@
+{
+  "finding": "B. CYSTIC DISEASE",
+  "slug": "b_cystic_disease_c2fab9",
+  "chapter": "Spectrum of Orbital Disorders",
+  "source_file": "processed_clusters/spectrum_of_orbital_disorders/b_cystic_disease_c2fab9.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Dermoid cyst",
+      "raw": "Dermoid cyst",
+      "frequency": null
+    },
+    {
+      "name": "Mucocele",
+      "raw": "Mucocele",
+      "frequency": null
+    },
+    {
+      "name": "Retroocular cyst",
+      "raw": "Retroocular cyst (developmental)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

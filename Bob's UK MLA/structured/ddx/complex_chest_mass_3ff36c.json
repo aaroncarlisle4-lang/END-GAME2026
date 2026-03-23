@@ -1,0 +1,37 @@
+{
+  "finding": "Complex Chest Mass",
+  "slug": "complex_chest_mass_3ff36c",
+  "chapter": "FETAL CHEST ANOMALIES",
+  "source_file": "processed_clusters/fetal_chest_anomalies/complex_chest_mass_3ff36c.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Congenital diaphragmatic hernia",
+      "raw": "Congenital diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Congenital pulmonary airway malformation",
+      "raw": "Congenital pulmonary airway malformation",
+      "frequency": null
+    },
+    {
+      "name": "Bronchopulmonary sequestration",
+      "raw": "Bronchopulmonary sequestration",
+      "frequency": null
+    },
+    {
+      "name": "Complex enteric cyst",
+      "raw": "Complex enteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "Pericardial teratoma",
+      "raw": "Pericardial teratoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

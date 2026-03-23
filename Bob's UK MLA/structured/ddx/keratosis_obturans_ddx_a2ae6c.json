@@ -1,0 +1,27 @@
+{
+  "finding": "Keratosis Obturans (DDx)",
+  "slug": "keratosis_obturans_ddx_a2ae6c",
+  "chapter": "Keratosis Obturans",
+  "source_file": "processed_clusters/keratosis_obturans/keratosis_obturans_ddx_a2ae6c.md",
+  "quality_score": 0.5,
+  "cluster_type": "framework",
+  "differentials": [
+    {
+      "name": "EAC cholesteatoma (periostitis",
+      "raw": "EAC cholesteatoma (periostitis",
+      "frequency": null
+    },
+    {
+      "name": "bone erosion)",
+      "raw": "bone erosion)",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "EAC cholesteatoma (periostitis": [],
+    "bone erosion)": [
+      "diffuse widening of EAC by epidermal plug | ± smooth scalloping of surrounding bone"
+    ]
+  },
+  "context": "diffuse widening of EAC by epidermal plug | ± smooth scalloping of surrounding bone"
+}

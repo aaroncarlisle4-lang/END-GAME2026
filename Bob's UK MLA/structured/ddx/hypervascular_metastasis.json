@@ -1,0 +1,87 @@
+{
+  "finding": "Hypervascular Metastasis",
+  "slug": "hypervascular_metastasis",
+  "chapter": "MESENTERIC LYMPHADENITIS",
+  "source_file": "processed_clusters/mesenteric_lymphadenitis/hypervascular_metastasis.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Malignant melanoma",
+      "raw": "Malignant melanoma",
+      "frequency": null
+    },
+    {
+      "name": "Breast cancer uncommon:",
+      "raw": "Breast cancer uncommon:",
+      "frequency": "uncommon"
+    },
+    {
+      "name": "Renal cell carcinoma",
+      "raw": "Renal cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Choriocarcinoma",
+      "raw": "Choriocarcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Neuroendocrine carcinoma",
+      "raw": "Neuroendocrine carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "Mesenchymal sarcoma",
+      "raw": "Mesenchymal sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Hematogenous",
+      "raw": "Hematogenous (embolic)",
+      "frequency": null
+    },
+    {
+      "name": "Direct invasion by contiguous tumor ›  ovary  inferior border of sigmoid ›  left kidney  splenic flexure ›  pancreatic tail  splenic flexure ›  pelvis (uterus, bladder)  anterior border of rectum ›  prostate  rectosigmoid",
+      "raw": "Direct invasion by contiguous tumor ›  ovary  inferior border of sigmoid ›  left kidney  splenic flexure ›  pancreatic tail  splenic flexure ›  pelvis (uterus, bladder)  anterior border of rectum ›  prostate  rectosigmoid",
+      "frequency": null
+    },
+    {
+      "name": "Direct invasion along mesenteric reflections ›  stomach  transverse colon superior margin ›  pancreas  transverse colon inferior margin ›  omental cake  transverse colon superior margin",
+      "raw": "Direct invasion along mesenteric reflections ›  stomach  transverse colon superior margin ›  pancreas  transverse colon inferior margin ›  omental cake  transverse colon superior margin",
+      "frequency": null
+    },
+    {
+      "name": "Intraperitoneal seeding",
+      "raw": "Intraperitoneal seeding",
+      "frequency": null
+    },
+    {
+      "name": "Intraperitoneal seeding: primary mucinous tumor of ovary, appendix, colon; breast cancer",
+      "raw": "Intraperitoneal seeding: primary mucinous tumor of ovary, appendix, colon; breast cancer",
+      "frequency": null
+    },
+    {
+      "name": "Hematogenous dissemination with submucosal deposits: malignant melanoma, breast carcinoma, lung carcinoma, Kaposi sarcoma",
+      "raw": "Hematogenous dissemination with submucosal deposits: malignant melanoma, breast carcinoma, lung carcinoma, Kaposi sarcoma",
+      "frequency": null
+    },
+    {
+      "name": "Direct extension from adjacent neoplasm: ovary, uterus, prostate, pancreas, colon, kidney",
+      "raw": "Direct extension from adjacent neoplasm: ovary, uterus, prostate, pancreas, colon, kidney",
+      "frequency": null
+    },
+    {
+      "name": "GI bleeding + anemia",
+      "raw": "GI bleeding + anemia (40%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "epigastric pain",
+      "raw": "epigastric pain",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Metastasis to Colon Spread: √  subepithelial masses / bull's-eye lesions √  diffusely infiltrating lesions mimicking inflammatory bowel disease Origin:   ovarian, gastric, colonic, pancreatic cancers (most commonly) Classic sites of seeding: ›  pouch of Douglas (50%): anterior border of rectosigmoid ›  lower small bowel mesentery (40%): medial border of cecum ›  sigmoid mesocolon (20%): superior border of sigmoid colon ›  right paracolic gutter (10%): lateral border of ascending colon Metastasis to Small Bowel Origin:   colon > stomach > breast > ovary > uterine cervix > melanoma > lung > panc"
+}

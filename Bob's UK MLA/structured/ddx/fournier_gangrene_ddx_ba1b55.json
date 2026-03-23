@@ -1,0 +1,27 @@
+{
+  "finding": "Fournier Gangrene (DDx)",
+  "slug": "fournier_gangrene_ddx_ba1b55",
+  "chapter": "Fournier Gangrene",
+  "source_file": "processed_clusters/fournier_gangrene/fournier_gangrene_ddx_ba1b55.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "epididymoorchitis",
+      "raw": "epididymoorchitis",
+      "frequency": null
+    },
+    {
+      "name": "gas-containing scrotal abscess",
+      "raw": "gas-containing scrotal abscess",
+      "frequency": null
+    },
+    {
+      "name": "scrotal hernia with gas-containing",
+      "raw": "scrotal hernia with gas-containing",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "gas in scrotal wall + perineum | scrotal skin thickening + normal testes"
+}

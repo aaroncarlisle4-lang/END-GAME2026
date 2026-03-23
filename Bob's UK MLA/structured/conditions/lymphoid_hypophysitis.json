@@ -1,0 +1,25 @@
+{
+  "name": "LYMPHOID HYPOPHYSITIS",
+  "slug": "lymphoid_hypophysitis",
+  "chapter": "INTRAVENTRICULAR NEUROCYTOMA",
+  "source_file": "processed_clusters/disease_entries/intraventricular_neurocytoma/lymphoid_hypophysitis.md",
+  "definition": "rare inflammatory autoimmune disorder with lymphocytic infiltration of pituitary gland",
+  "demographics": {
+    "Associated with": "thyrotoxicosis + hypopituitarism",
+    "Age": "almost exclusively in early postpartum women"
+  },
+  "dominant_finding": "enlarged homogeneously enhancing pituitary gland",
+  "distribution": "",
+  "discriminating_features": [
+    "enlarged homogeneously enhancing pituitary gland"
+  ],
+  "other_features": {
+    "general": [
+      "enlarged homogeneously enhancing pituitary gland"
+    ]
+  },
+  "clinical": {
+    "Prognosis": "spontaneous regression",
+    "Rx": "steroids (reduction in pituitary size on follow-up)"
+  }
+}

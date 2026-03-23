@@ -1,0 +1,43 @@
+{
+  "name": "CUSHING SYNDROME",
+  "slug": "cushing_syndrome",
+  "chapter": "COLLECTING SYSTEM",
+  "source_file": "processed_clusters/disease_entries/collecting_system/cushing_syndrome.md",
+  "definition": "HYPERCORTISOLISM excessive glucocorticoid from either exogenous / endogenous sources autonomous cortisol production by adrenal gland",
+  "demographics": {
+    "Prevalence": "1÷1,000 autopsies; M÷F = 1÷4",
+    "Age": "30-40 years (highest incidence); more often following pregnancy"
+  },
+  "dominant_finding": "macronodular adrenal hyperplasia (in up to 85%)",
+  "distribution": "diffuse adrenal enlargement",
+  "discriminating_features": [
+    "normal adrenal glands",
+    "diffuse adrenal enlargement",
+    "macronodular adrenal hyperplasia (in up to 85%)",
+    "often > 2 cm in size",
+    "atrophy of remaining adrenal tissue ← adenoma suppresses ACTH levels"
+  ],
+  "other_features": {
+    "general": [
+      "normal adrenal glands",
+      "diffuse adrenal enlargement",
+      "macronodular adrenal hyperplasia (in up to 85%)",
+      "often > 2 cm in size",
+      "atrophy of remaining adrenal tissue ← adenoma suppresses ACTH levels",
+      "multiple small bilateral nodules / normal adrenal",
+      "multiple bilateral macronodules",
+      "retarded bone maturation",
+      "most often axial osteoporosis",
+      "stippled calvarium",
+      "demineralized dorsum sellae",
+      "excess callus formation",
+      "2-4-cm focal mass in one adrenal gland + atrophy of contralateral gland = adrenal",
+      "> 4-cm large focal mass with central necrosis in one adrenal gland + atrophy of",
+      "diffuse uniform thickening = Cushing disease",
+      "macronodules = multinodular hyperplasia of long-standing Cushing disease",
+      "large nodules (autonomous ACTH-independent) = massive macronodular hyperplasia",
+      "small nodules = primary pigmented nodular adrenocortical disease"
+    ]
+  },
+  "clinical": {}
+}

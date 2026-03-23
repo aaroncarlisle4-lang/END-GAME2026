@@ -1,0 +1,35 @@
+{
+  "finding": "Mucocele Of Appendix (DDx)",
+  "slug": "mucocele_of_appendix_ddx_0da908",
+  "chapter": "Mucocele Of Appendix",
+  "source_file": "processed_clusters/mucocele_of_appendix/mucocele_of_appendix_ddx_0da908.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "appendicitis",
+      "raw": "appendicitis",
+      "frequency": null
+    },
+    {
+      "name": "periappendiceal abscess",
+      "raw": "periappendiceal abscess",
+      "frequency": null
+    },
+    {
+      "name": "mesenteric cyst",
+      "raw": "mesenteric cyst",
+      "frequency": null
+    },
+    {
+      "name": "enteric duplication cyst [right]",
+      "raw": "enteric duplication cyst",
+      "frequency": null,
+      "sites": [
+        "right"
+      ]
+    }
+  ],
+  "criteria": {},
+  "context": "variably hypo- to isointense on T1WI depending on mucin concentration | soft-tissue thickening, infiltration of perifocal fat, irregular mucocele wall = signs of | intense early gallium uptake ← affinity to acid mucopolysaccharides of mucus"
+}

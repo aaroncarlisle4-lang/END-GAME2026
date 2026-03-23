@@ -1,0 +1,32 @@
+{
+  "finding": "E. INFECTION",
+  "slug": "e_infection_2c7441",
+  "chapter": "C. CENTRAL / PERIPHERAL",
+  "source_file": "processed_clusters/c_central_peripheral/e_infection_2c7441.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Bacterial: pneumatoceles from staphylococcal / gram-negative pneumonia",
+      "raw": "Bacterial: pneumatoceles from staphylococcal / gram-negative pneumonia",
+      "frequency": null
+    },
+    {
+      "name": "Mycobacterial: TB",
+      "raw": "Mycobacterial: TB",
+      "frequency": null
+    },
+    {
+      "name": "Fungal: nocardiosis, cryptococcosis, coccidioidomycosis (in 10%), aspergillosis",
+      "raw": "Fungal: nocardiosis, cryptococcosis, coccidioidomycosis (in 10%), aspergillosis",
+      "frequency": "10%"
+    },
+    {
+      "name": "Parasitic: echinococcosis (multiple in 20-30%), paragonimiasis",
+      "raw": "Parasitic: echinococcosis (multiple in 20-30%), paragonimiasis",
+      "frequency": "30%"
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

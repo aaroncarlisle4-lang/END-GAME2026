@@ -1,0 +1,26 @@
+{
+  "name": "RENOMEDULLARY INTERSTITIAL CELL TUMOR",
+  "slug": "renomedullary_interstitial_cell_tumor",
+  "chapter": "NEUROGENIC BLADDER",
+  "source_file": "processed_clusters/disease_entries/neurogenic_bladder/renomedullary_interstitial_cell_tumor.md",
+  "definition": "MEDULLARY FIBROMA rare benign often incidental mesenchymal neoplasm of kidney",
+  "demographics": {
+    "Frequency": "50% of autopsies in adults",
+    "Histo": "stellate spindle cells on basophilic stroma",
+    "Size": "< 5 mm (most)",
+    "Location": "renal pyramid"
+  },
+  "dominant_finding": "hypointense on T1WI + T2WI (← rich collagen content)",
+  "distribution": "renal pyramid",
+  "discriminating_features": [
+    "small nonenhancing noncalcified hypoattenuating solid mass",
+    "hypointense on T1WI + T2WI (← rich collagen content)"
+  ],
+  "other_features": {
+    "general": [
+      "small nonenhancing noncalcified hypoattenuating solid mass",
+      "hypointense on T1WI + T2WI (← rich collagen content)"
+    ]
+  },
+  "clinical": {}
+}

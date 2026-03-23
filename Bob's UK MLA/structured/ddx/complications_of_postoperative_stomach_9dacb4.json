@@ -1,0 +1,87 @@
+{
+  "finding": "Complications of Postoperative Stomach",
+  "slug": "complications_of_postoperative_stomach_9dacb4",
+  "chapter": "C. INFILTRATIVE PROCESS",
+  "source_file": "processed_clusters/c_infiltrative_process/complications_of_postoperative_stomach_9dacb4.md",
+  "quality_score": 0.6,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Filling defect of gastric remnant",
+      "raw": "Filling defect of gastric remnant",
+      "frequency": null
+    },
+    {
+      "name": "Retained gastric antrum",
+      "raw": "Retained gastric antrum",
+      "frequency": null
+    },
+    {
+      "name": "Dumping syndrome",
+      "raw": "Dumping syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Afferent loop syndrome",
+      "raw": "Afferent loop syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Stomal obstruction",
+      "raw": "Stomal obstruction (a)  temporary reversible: edema of suture line, abscess / hematoma, potassium deficiency, inadequate electrolyte replacement, hypoproteinemia, hypoacidity (b)  late mechanical: stomal ulcer (75%)",
+      "frequency": "75%"
+    },
+    {
+      "name": "Leaks",
+      "raw": "Leaks (early)",
+      "frequency": null
+    },
+    {
+      "name": "Obstruction",
+      "raw": "Obstruction (early)",
+      "frequency": null
+    },
+    {
+      "name": "Bezoar",
+      "raw": "Bezoar",
+      "frequency": null
+    },
+    {
+      "name": "Ulcer: especially marginal",
+      "raw": "Ulcer: especially marginal",
+      "frequency": null
+    },
+    {
+      "name": "Loop: afferent loop syndrome",
+      "raw": "Loop: afferent loop syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Anemia: macrocytic ← decreased intrinsic factor",
+      "raw": "Anemia: macrocytic ← decreased intrinsic factor",
+      "frequency": null
+    },
+    {
+      "name": "Tumor",
+      "raw": "Tumor (? increased incidence)",
+      "frequency": null
+    },
+    {
+      "name": "Intussusception",
+      "raw": "Intussusception",
+      "frequency": null
+    },
+    {
+      "name": "Not feeling well after meals: dumping syndrome",
+      "raw": "Not feeling well after meals: dumping syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Gastritis: bile reflux",
+      "raw": "Gastritis: bile reflux",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

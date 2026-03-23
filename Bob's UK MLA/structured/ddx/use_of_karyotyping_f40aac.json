@@ -1,0 +1,73 @@
+{
+  "finding": "Use of Karyotyping",
+  "slug": "use_of_karyotyping_f40aac",
+  "chapter": "ELEVATED AMNIOTIC FLUID AFP (AF-AFP",
+  "source_file": "processed_clusters/elevated_amniotic_fluid_afp_af_afp/use_of_karyotyping_f40aac.md",
+  "quality_score": 0.633,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "FETAL ANOMALIES",
+      "raw": "FETAL ANOMALIES",
+      "frequency": null
+    },
+    {
+      "name": "CNS anomalies: holoprosencephaly",
+      "raw": "CNS anomalies: holoprosencephaly (43-59%), Dandy-Walker malformation (29- 50%), cerebellar hypoplasia, agenesis of corpus callosum, myelomeningocele (33- 50%)",
+      "frequency": "59%"
+    },
+    {
+      "name": "Cystic hygroma (72%): Turner syndrome",
+      "raw": "Cystic hygroma (72%): Turner syndrome",
+      "frequency": "72%"
+    },
+    {
+      "name": "Omphalocele",
+      "raw": "Omphalocele (30-40%)",
+      "frequency": "40%"
+    },
+    {
+      "name": "Cardiac malformations",
+      "raw": "Cardiac malformations",
+      "frequency": null
+    },
+    {
+      "name": "Nonimmune hydrops",
+      "raw": "Nonimmune hydrops",
+      "frequency": null
+    },
+    {
+      "name": "Duodenal atresia",
+      "raw": "Duodenal atresia",
+      "frequency": null
+    },
+    {
+      "name": "Severe early-onset IUGR: trisomy 18, 13, triploidy",
+      "raw": "Severe early-onset IUGR: trisomy 18, 13, triploidy",
+      "frequency": null
+    },
+    {
+      "name": "Congenital diaphragmatic hernia",
+      "raw": "Congenital diaphragmatic hernia",
+      "frequency": null
+    },
+    {
+      "name": "Bone-echodense bowel (20%): trisomy 21",
+      "raw": "Bone-echodense bowel (20%): trisomy 21",
+      "frequency": "20%"
+    }
+  ],
+  "criteria": {
+    "FETAL ANOMALIES": [],
+    "CNS anomalies: holoprosencephaly": [],
+    "Cystic hygroma (72%): Turner syndrome": [],
+    "Omphalocele": [],
+    "Cardiac malformations": [],
+    "Nonimmune hydrops": [],
+    "Duodenal atresia": [],
+    "Severe early-onset IUGR: trisomy 18, 13, triploidy": [],
+    "Congenital diaphragmatic hernia": [],
+    "Bone-echodense bowel (20%): trisomy 21": []
+  },
+  "context": "Frequency:   11-35% of fetuses with sonographically identified abnormalities have chromosomal abnormalities"
+}

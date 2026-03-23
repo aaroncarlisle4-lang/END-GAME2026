@@ -1,0 +1,32 @@
+{
+  "finding": "B. DEVELOPMENTAL TUMORS",
+  "slug": "b_developmental_tumors_77b381",
+  "chapter": "B. CHROMOSOMAL ABNORMALITY",
+  "source_file": "processed_clusters/b_chromosomal_abnormality/b_developmental_tumors_77b381.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Craniopharyngioma",
+      "raw": "Craniopharyngioma",
+      "frequency": null
+    },
+    {
+      "name": "Germinoma",
+      "raw": "Germinoma",
+      "frequency": null
+    },
+    {
+      "name": "Hamartoma",
+      "raw": "Hamartoma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma",
+      "raw": "Lipoma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

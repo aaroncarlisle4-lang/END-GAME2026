@@ -1,0 +1,42 @@
+{
+  "finding": "Intraarticular Process with Cortical Erosion",
+  "slug": "intraarticular_process_with_cortical_erosion",
+  "chapter": "D. VASCULAR MALFORMATION",
+  "source_file": "processed_clusters/d_vascular_malformation/intraarticular_process_with_cortical_erosion.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pigmented villonodular synovitis",
+      "raw": "Pigmented villonodular synovitis",
+      "frequency": null
+    },
+    {
+      "name": "Synovial osteochondromatosis",
+      "raw": "Synovial osteochondromatosis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Gout",
+      "raw": "Gout",
+      "frequency": null
+    },
+    {
+      "name": "Synovial hemangioma",
+      "raw": "Synovial hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lipoma arborescens",
+      "raw": "Lipoma arborescens",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

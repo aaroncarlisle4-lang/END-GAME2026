@@ -1,0 +1,45 @@
+{
+  "finding": "Muscle Edema",
+  "slug": "muscle_edema_dec8b5",
+  "chapter": "GENERALIZED CALCINOSIS",
+  "source_file": "processed_clusters/generalized_calcinosis/muscle_edema_dec8b5.md",
+  "quality_score": 0.567,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "INFLAMMATION",
+      "raw": "INFLAMMATION",
+      "frequency": null
+    },
+    {
+      "name": "Dermatomyositis",
+      "raw": "Dermatomyositis",
+      "frequency": null
+    },
+    {
+      "name": "Polymyositis",
+      "raw": "Polymyositis",
+      "frequency": null
+    },
+    {
+      "name": "Radiation therapy: straight sharp margins, involves muscle + subcutaneous fat",
+      "raw": "Radiation therapy: straight sharp margins, involves muscle + subcutaneous fat",
+      "frequency": null
+    },
+    {
+      "name": "Early stage of myositis ossificans",
+      "raw": "Early stage of myositis ossificans",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "INFLAMMATION": [],
+    "Dermatomyositis": [],
+    "Polymyositis": [],
+    "Radiation therapy: straight sharp margins, involves muscle + subcutaneous fat": [
+      "muscle hyperintensity on STIR images"
+    ],
+    "Early stage of myositis ossificans": []
+  },
+  "context": "√  muscle hyperintensity on STIR images"
+}

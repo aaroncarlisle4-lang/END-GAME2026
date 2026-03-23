@@ -1,0 +1,65 @@
+{
+  "finding": "A. MORPHOLOGY OF STENOSIS",
+  "slug": "a_morphology_of_stenosis_4fb0d1",
+  "chapter": "CALCIFIC LONGUS COLLI TENDINITIS",
+  "source_file": "processed_clusters/calcific_longus_colli_tendinitis/a_morphology_of_stenosis_4fb0d1.md",
+  "quality_score": 0.767,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Degree of stenosis: velocities increase up to a luminal diameter of 1.0-1.5 mm",
+      "raw": "Degree of stenosis: velocities increase up to a luminal diameter of 1.0-1.5 mm",
+      "frequency": null
+    },
+    {
+      "name": "Length of stenosis: peak velocities decrease with length of stenosis",
+      "raw": "Length of stenosis: peak velocities decrease with length of stenosis",
+      "frequency": null
+    },
+    {
+      "name": "PHYSIOLOGIC VARIABILITY ◊  A range of velocities may be encountered with a given degree of stenosis!",
+      "raw": "PHYSIOLOGIC VARIABILITY ◊  A range of velocities may be encountered with a given degree of stenosis!",
+      "frequency": null
+    },
+    {
+      "name": "Cardiac output",
+      "raw": "Cardiac output",
+      "frequency": null
+    },
+    {
+      "name": "Pulse rate",
+      "raw": "Pulse rate",
+      "frequency": null
+    },
+    {
+      "name": "Flow velocity: ↑ with obstruction in collateral vessels, ↓ with proximal obstruction in same vessel",
+      "raw": "Flow velocity: ↑ with obstruction in collateral vessels, ↓ with proximal obstruction in same vessel",
+      "frequency": null
+    },
+    {
+      "name": "Normal helical nature of blood flow with many different velocity vectors + nonaxial blood flow NOT detectable by color Duplex imaging [Peripheral resistance]",
+      "raw": "Normal helical nature of blood flow with many different velocity vectors + nonaxial blood flow NOT detectable by color Duplex imaging",
+      "frequency": null,
+      "sites": [
+        "Peripheral resistance"
+      ]
+    },
+    {
+      "name": "Arterial compliance",
+      "raw": "Arterial compliance",
+      "frequency": null
+    },
+    {
+      "name": "Hypertension",
+      "raw": "Hypertension",
+      "frequency": null
+    },
+    {
+      "name": "Blood viscosity",
+      "raw": "Blood viscosity",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  use the same angle + beam steering direction when following a patient for disease progression ◊  ICA÷CCA ratio obviates effects of physiologic variability! ◊  Compare left with right waveforms to avoid errors! ◊  Measure volume flow (more sensitive because of contralateral compensatory flow increase) Cause:"
+}

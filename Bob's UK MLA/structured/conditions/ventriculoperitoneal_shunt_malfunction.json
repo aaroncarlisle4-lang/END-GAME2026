@@ -1,0 +1,49 @@
+{
+  "name": "VENTRICULOPERITONEAL SHUNT MALFUNCTION",
+  "slug": "ventriculoperitoneal_shunt_malfunction",
+  "chapter": "NEUROSYPHILIS",
+  "source_file": "processed_clusters/disease_entries/neurosyphilis/ventriculoperitoneal_shunt_malfunction.md",
+  "definition": "CSF escape without complete break / disconnection rare granulomatous reaction adjacent to shunt tube within / near ventricle proximal shunt failure from ventricular collapse",
+  "demographics": {
+    "Location": "ventricular end > peritoneal end",
+    "Incidence": "1-5-38%",
+    "Age": "usually seen in children > 3 years of age with relatively fixed head size"
+  },
+  "dominant_finding": "contrast verifies leak site",
+  "distribution": "ventricular end > peritoneal end",
+  "discriminating_features": [
+    "sutural diastasis + increased size of cranial cavity",
+    "increasing ventricular size:",
+    "interval increase since last exam",
+    "enlargement of temporal horns (earliest finding)",
+    "preferential enlargement of temporal horns in infants"
+  ],
+  "other_features": {
+    "general": [
+      "sutural diastasis + increased size of cranial cavity",
+      "increasing ventricular size:",
+      "interval increase since last exam",
+      "enlargement of temporal horns (earliest finding)",
+      "preferential enlargement of temporal horns in infants",
+      "shuntogram (by scintigram / contrast radiography) determines site of obstruction",
+      "brain edema tracking along shunt + within interstices of centrum semiovale (with partial",
+      "formation of white matter cyst surrounding ventricular catheter"
+    ],
+    "NUC": [
+      "no uptake within ventricles + normal peritoneal activity (= proximal obstruction)",
+      "collection of contrast material at peritoneal end of shunt without spillage (= distal",
+      "contrast verifies leak site",
+      "shunt tubing coiled in an abdominal soft-tissue mass",
+      "cyst surrounding catheter tip",
+      "ventriculitis (= enlarged ventricles with irregular enhancing ventricular wall ± septations)",
+      "meningitis (= enhancement of cerebral cortical sulci)",
+      "irregular contrast-enhancing mass along course of shunt tube",
+      "small / slitlike ventricles"
+    ]
+  },
+  "clinical": {
+    "N.B.": "(1) no enlargement with scarring of ventricular walls",
+    "Cx": "bowel obstruction",
+    "Prognosis": "small hematomas resolve on their own"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "finding": "Synovial Disease with Decreased Signal Intensity",
+  "slug": "synovial_disease_with_decreased_signal_intensity",
+  "chapter": "Premature Epiphyseal Ossification",
+  "source_file": "processed_clusters/premature_epiphyseal_ossification/synovial_disease_with_decreased_signal_intensity.md",
+  "quality_score": 1.0,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Pigmented villonodular synovitis",
+      "raw": "Pigmented villonodular synovitis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Hemophiliac arthropathy",
+      "raw": "Hemophiliac arthropathy",
+      "frequency": null
+    },
+    {
+      "name": "Synovial hemangioma",
+      "raw": "Synovial hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Wilson disease",
+      "raw": "Wilson disease",
+      "frequency": null
+    },
+    {
+      "name": "Hemochromatosis, Hemophilia, Hypothyroidism, 1° Hyperparathyroidism (15%),",
+      "raw": "Hemochromatosis, Hemophilia, Hypothyroidism, 1° Hyperparathyroidism (15%),",
+      "frequency": "15%"
+    },
+    {
+      "name": "Hypophosphatasia, Familial Hypomagnesemia",
+      "raw": "Hypophosphatasia, Familial Hypomagnesemia",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic",
+      "raw": "Idiopathic (aging)",
+      "frequency": null
+    },
+    {
+      "name": "Pseudogout",
+      "raw": "Pseudogout (CPPD)",
+      "frequency": null
+    },
+    {
+      "name": "Arthritis (rheumatoid, postinfectious, traumatic, degenerative), Amyloidosis, Acromegaly",
+      "raw": "Arthritis (rheumatoid, postinfectious, traumatic, degenerative), Amyloidosis, Acromegaly",
+      "frequency": null
+    },
+    {
+      "name": "Diabetes mellitus",
+      "raw": "Diabetes mellitus",
+      "frequency": null
+    },
+    {
+      "name": "Ochronosis",
+      "raw": "Ochronosis",
+      "frequency": null
+    },
+    {
+      "name": "Gout",
+      "raw": "Gout",
+      "frequency": null
+    },
+    {
+      "name": "Crystals",
+      "raw": "Crystals",
+      "frequency": null
+    },
+    {
+      "name": "CPPD, sodium urate",
+      "raw": "CPPD, sodium urate (gout)",
+      "frequency": null
+    },
+    {
+      "name": "Cations",
+      "raw": "Cations",
+      "frequency": null
+    },
+    {
+      "name": "Cause by mnemonic:   COORS",
+      "raw": "Cause by mnemonic:   COORS",
+      "frequency": null
+    },
+    {
+      "name": "CPPD",
+      "raw": "CPPD",
+      "frequency": null
+    },
+    {
+      "name": "Osteoarthritis",
+      "raw": "Osteoarthritis",
+      "frequency": null
+    },
+    {
+      "name": "Osteonecrosis",
+      "raw": "Osteonecrosis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Synovial tumor",
+      "raw": "Synovial tumor",
+      "frequency": null
+    },
+    {
+      "name": "Pigmented villonodular synovitis",
+      "raw": "Pigmented villonodular synovitis",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Intraosseous ganglion",
+      "raw": "Intraosseous ganglion",
+      "frequency": null
+    },
+    {
+      "name": "Brown tumor of hemophilia",
+      "raw": "Brown tumor of hemophilia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  blooming\" artifact of low SI on gradient-echo pulse sequences ← magnetic susceptibility artifact of hemosiderin Chondrocalcinosis mnemonic:   WHIP A DOG mnemonic:   3 C's calcium (any cause of hypercalcemia), copper, iron Cartilage degeneration osteoarthritis, acromegaly, ochronosis Subchondral Cyst =  SYNOVIAL CYST = SUBARTICULAR PSEUDOCYST =  NECROTIC PSEUDOCYST = GEODES Etiology:   bone necrosis allows pressure-induced intrusion of synovial fluid into subchondral bone; in conditions with synovial inflammation √  size of cyst usually 2-35 mm √  may be large + expansile (especially in CPPD"
+}

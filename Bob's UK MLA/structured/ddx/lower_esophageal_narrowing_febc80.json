@@ -1,0 +1,37 @@
+{
+  "finding": "Lower Esophageal Narrowing",
+  "slug": "lower_esophageal_narrowing_febc80",
+  "chapter": "B. RADIATION INJURY",
+  "source_file": "processed_clusters/b_radiation_injury/lower_esophageal_narrowing_febc80.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Scleroderma",
+      "raw": "Scleroderma",
+      "frequency": null
+    },
+    {
+      "name": "Presbyesophagus",
+      "raw": "Presbyesophagus",
+      "frequency": null
+    },
+    {
+      "name": "Achalasia; Anticholinergics",
+      "raw": "Achalasia; Anticholinergics",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse esophageal spasm",
+      "raw": "Diffuse esophageal spasm",
+      "frequency": null
+    },
+    {
+      "name": "Esophagitis",
+      "raw": "Esophagitis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

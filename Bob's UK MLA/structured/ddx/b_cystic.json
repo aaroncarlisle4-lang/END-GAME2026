@@ -1,0 +1,32 @@
+{
+  "finding": "B. CYSTIC",
+  "slug": "b_cystic",
+  "chapter": "C. INFILTRATION",
+  "source_file": "processed_clusters/c_infiltration/b_cystic.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Renal sinus cysts",
+      "raw": "Renal sinus cysts",
+      "frequency": null
+    },
+    {
+      "name": "Caliectasis",
+      "raw": "Caliectasis",
+      "frequency": null
+    },
+    {
+      "name": "Dilated veins, varix",
+      "raw": "Dilated veins, varix",
+      "frequency": null
+    },
+    {
+      "name": "Aneurysm, arteriovenous malformation",
+      "raw": "Aneurysm, arteriovenous malformation",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,98 @@
+{
+  "finding": "SYRINGOHYDROMYELIA",
+  "slug": "syringohydromyelia",
+  "chapter": "SINUS PERICRANII",
+  "source_file": "processed_clusters/sinus_pericranii/syringohydromyelia.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "loss of sensation to pain + temperature ← interruption of spinothalamic tracts",
+      "raw": "loss of sensation to pain + temperature ← interruption of spinothalamic tracts",
+      "frequency": null
+    },
+    {
+      "name": "trophic changes =",
+      "raw": "trophic changes = (skin lesions; Charcot joints in 25% affecting shoulder, elbow, wrist)",
+      "frequency": "25%"
+    },
+    {
+      "name": "muscle weakness ← anterior horn cell involvement",
+      "raw": "muscle weakness ← anterior horn cell involvement",
+      "frequency": null
+    },
+    {
+      "name": "spasticity, hyperreflexia ← upper motor neuron involvement",
+      "raw": "spasticity, hyperreflexia ← upper motor neuron involvement",
+      "frequency": null
+    },
+    {
+      "name": "abnormal plantar reflexes ← pyramidal tract involvement Location:   predominantly lower end of cervical cord; extension into brainstem",
+      "raw": "abnormal plantar reflexes ← pyramidal tract involvement Location:   predominantly lower end of cervical cord; extension into brainstem (= syringobulbia)",
+      "frequency": null
+    },
+    {
+      "name": "Chiari malformation in 20-70% [Spinal dysraphism]",
+      "raw": "Chiari malformation in 20-70%",
+      "frequency": "70%",
+      "sites": [
+        "Spinal dysraphism"
+      ]
+    },
+    {
+      "name": "Myelocele",
+      "raw": "Myelocele",
+      "frequency": null
+    },
+    {
+      "name": "Dandy-Walker syndrome",
+      "raw": "Dandy-Walker syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Diastematomyelia",
+      "raw": "Diastematomyelia",
+      "frequency": null
+    },
+    {
+      "name": "Scoliosis in 48-87%",
+      "raw": "Scoliosis in 48-87%",
+      "frequency": "87%"
+    },
+    {
+      "name": "Klippel-Feil syndrome [Spinal segmentation defects]",
+      "raw": "Klippel-Feil syndrome",
+      "frequency": null,
+      "sites": [
+        "Spinal segmentation defects"
+      ]
+    },
+    {
+      "name": "Tethered cord",
+      "raw": "Tethered cord (in up to 25%) DDx:  transient dilatation of the central canal (transient finding in newborns during the first weeks in life)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Posttraumatic syringomyelia",
+      "raw": "Posttraumatic syringomyelia",
+      "frequency": null
+    },
+    {
+      "name": "Postinflammatory syringomyelia subarachnoid hemorrhage, arachnoid adhesions, S/P surgery, infection",
+      "raw": "Postinflammatory syringomyelia subarachnoid hemorrhage, arachnoid adhesions, S/P surgery, infection (tuberculosis, syphilis)",
+      "frequency": null
+    },
+    {
+      "name": "Tumor-associated syringomyelia = peritumoral cyst of spinal cord tumor / herniated disk ← circulatory disturbance + thoracic spinal cord atrophy",
+      "raw": "Tumor-associated syringomyelia = peritumoral cyst of spinal cord tumor / herniated disk ← circulatory disturbance + thoracic spinal cord atrophy",
+      "frequency": null
+    },
+    {
+      "name": "Vascular insufficiency",
+      "raw": "Vascular insufficiency",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "=  SYRINGOMYELIA = SYRINX (used in a general manner reflecting difficulty in classification) =  longitudinally oriented CSF-filled cavities + gliosis within spinal cord frequently involving both parenchyma + central canal Age:   primarily childhood / early adult life Cause:   Chiari I malformation (41%), trauma (28%), neoplasm (15%), idiopathic (15%) CT: √  distinct area of decreased attenuation in spinal cord (100%) √  swollen / normal-sized / atrophic cord √  NO contrast enhancement √  change in shape + size of cord with change in position (rare) √  flattened vertebral border (rare) with inc"
+}

@@ -1,0 +1,162 @@
+{
+  "finding": "LYMPHANGIOMA",
+  "slug": "lymphangioma",
+  "chapter": "LINGUAL THYROID",
+  "source_file": "processed_clusters/lingual_thyroid/lymphangioma.md",
+  "quality_score": 0.7,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Early sequestration of embryonic lymphatic tissue with failure to join central lymphatic channels",
+      "raw": "Early sequestration of embryonic lymphatic tissue with failure to join central lymphatic channels",
+      "frequency": null
+    },
+    {
+      "name": "Congenital obstruction of lymphatic drainage ← abnormal budding of lymph vessels",
+      "raw": "Congenital obstruction of lymphatic drainage ← abnormal budding of lymph vessels (= loss of connection / noncommunication of primordial jugular lymphatic sac with jugular vein)",
+      "frequency": null
+    },
+    {
+      "name": "Cystic lymphangioma = cystic hygroma",
+      "raw": "Cystic lymphangioma = cystic hygroma (see below)",
+      "frequency": null
+    },
+    {
+      "name": "Cavernous lymphangioma =  mildly dilated cavernous lymphatic spaces with cysts of intermediate size",
+      "raw": "Cavernous lymphangioma =  mildly dilated cavernous lymphatic spaces with cysts of intermediate size",
+      "frequency": null
+    },
+    {
+      "name": "Capillary / simple lymphangioma (least common) =  capillary-sized lymphatic channels",
+      "raw": "Capillary / simple lymphangioma (least common) =  capillary-sized lymphatic channels",
+      "frequency": "common"
+    },
+    {
+      "name": "Vasculolymphatic malformation composed of lymphatic + vascular elements, eg, lymphangiohemangioma Histo:   endothelial-lined lymphatic channels containing serous / milky fluid + separated by connective tissue stroma",
+      "raw": "Vasculolymphatic malformation composed of lymphatic + vascular elements, eg, lymphangiohemangioma Histo:   endothelial-lined lymphatic channels containing serous / milky fluid + separated by connective tissue stroma",
+      "frequency": null
+    },
+    {
+      "name": "asymptomatic (in majority) soft / semifirm mass",
+      "raw": "asymptomatic (in majority) soft / semifirm mass",
+      "frequency": null
+    },
+    {
+      "name": "rapid increase in size",
+      "raw": "rapid increase in size (from infection / hemorrhage)",
+      "frequency": null
+    },
+    {
+      "name": "± dyspnea / dysphagia with encroachment upon trachea, pharynx, esophagus Location:   anywhere in developing lymphatic system; mostly in posterior cervical triangle, occasionally in floor of mouth / tongue (a)  posterior triangle of neck (75%), with extension into mediastinum in 3-10%",
+      "raw": "± dyspnea / dysphagia with encroachment upon trachea, pharynx, esophagus Location:   anywhere in developing lymphatic system; mostly in posterior cervical triangle, occasionally in floor of mouth / tongue (a)  posterior triangle of neck (75%), with extension into mediastinum in 3-10%",
+      "frequency": "75%"
+    },
+    {
+      "name": "visible at birth in 65%",
+      "raw": "visible at birth in 65%",
+      "frequency": "65%"
+    },
+    {
+      "name": "clinically apparent by end of 2nd decade in 90% (b)  anterior mediastinum (< 1%) (c)  axilla (20%), chest wall, groin (d)  retroperitoneum (1%), abdominal organs, bone",
+      "raw": "clinically apparent by end of 2nd decade in 90% (b)  anterior mediastinum (< 1%) (c)  axilla (20%), chest wall, groin (d)  retroperitoneum (1%), abdominal organs, bone",
+      "frequency": "90%"
+    },
+    {
+      "name": "Turner syndrome (45 XO, mosaic) in 40-80%",
+      "raw": "Turner syndrome (45 XO, mosaic) in 40-80%",
+      "frequency": "80%"
+    },
+    {
+      "name": "Trisomies 13, 18, 21, 13q, 18p, 22",
+      "raw": "Trisomies 13, 18, 21, 13q, 18p, 22",
+      "frequency": null
+    },
+    {
+      "name": "Noonan syndrome",
+      "raw": "Noonan syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Distichiasis",
+      "raw": "Distichiasis (= second row of hair behind eyelash) -lymphedema syndrome [stichos, Greek = row]",
+      "frequency": null
+    },
+    {
+      "name": "Familial pterygium colli",
+      "raw": "Familial pterygium colli",
+      "frequency": null
+    },
+    {
+      "name": "Roberts, Cumming, Cowchock syndrome",
+      "raw": "Roberts, Cumming, Cowchock syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Achondrogenesis type II",
+      "raw": "Achondrogenesis type II",
+      "frequency": null
+    },
+    {
+      "name": "Lethal pterygium syndrome (b)  exposure to teratogens",
+      "raw": "Lethal pterygium syndrome (b)  exposure to teratogens",
+      "frequency": null
+    },
+    {
+      "name": "Fetal alcohol syndrome",
+      "raw": "Fetal alcohol syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Aminopterin",
+      "raw": "Aminopterin",
+      "frequency": null
+    },
+    {
+      "name": "Trimethadione",
+      "raw": "Trimethadione",
+      "frequency": null
+    },
+    {
+      "name": "Cystic hygroma with abnormal peripheral lymphatic system",
+      "raw": "Cystic hygroma with abnormal peripheral lymphatic system",
+      "frequency": null
+    },
+    {
+      "name": "Diffuse lymphangiectasia",
+      "raw": "Diffuse lymphangiectasia",
+      "frequency": null
+    },
+    {
+      "name": "Isolated cystic hygroma (a)  axillary lymph sac malformation",
+      "raw": "Isolated cystic hygroma (a)  axillary lymph sac malformation",
+      "frequency": null
+    },
+    {
+      "name": "AF-AFP / MS-AFP may be elevated Location:   neck (frequently posterior cervical space) and lower portions of face (75-80%);",
+      "raw": "AF-AFP / MS-AFP may be elevated Location:   neck (frequently posterior cervical space) and lower portions of face (75-80%);",
+      "frequency": "80%"
+    },
+    {
+      "name": "Slow growth / sudden enlargement",
+      "raw": "Slow growth / sudden enlargement (hemorrhage, inflammation)",
+      "frequency": null
+    },
+    {
+      "name": "Intrauterine demise",
+      "raw": "Intrauterine demise (33%)",
+      "frequency": "33%"
+    },
+    {
+      "name": "Mortality of 100% with hydrops",
+      "raw": "Mortality of 100% with hydrops",
+      "frequency": "100%"
+    },
+    {
+      "name": "Spontaneous regression (10-15%) ◊  Favorable prognosis for localized lesions of anterior neck and axilla ◊  Only 2-3% of fetuses with posterior cystic hygroma become healthy living children!",
+      "raw": "Spontaneous regression (10-15%) ◊  Favorable prognosis for localized lesions of anterior neck and axilla ◊  Only 2-3% of fetuses with posterior cystic hygroma become healthy living children!",
+      "frequency": "15%"
+    }
+  ],
+  "criteria": {},
+  "context": "=  congenital lymphatic malformation Frequency:   5.6% of all benign tumors of infancy + childhood Age:   present at birth in 50-65%, in 80-90% evident by age 2 (time of greatest lymphatic growth); M = F Lymphatic development: endothelial buds from veins in jugular region form confluent plexuses, which develop into rapidly enlarging bilateral juguloaxillary lymph sacs (7.5 weeks GA); these fused lymph sacs extend craniad and dorsolateral with extensive outgrowth of lymph vessels in all directions; connection with internal jugular vein at level of confluence + external jugular vein persists on"
+}

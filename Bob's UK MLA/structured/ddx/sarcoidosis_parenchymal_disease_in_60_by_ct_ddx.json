@@ -1,0 +1,32 @@
+{
+  "finding": "Sarcoidosis — parenchymal disease (in 60% by CT): (DDx)",
+  "slug": "sarcoidosis_parenchymal_disease_in_60_by_ct_ddx",
+  "chapter": "Sarcoidosis",
+  "source_file": "processed_clusters/sarcoidosis/sarcoidosis_parenchymal_disease_in_60_by_ct_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "bronchoalveolar cell carcinoma",
+      "raw": "bronchoalveolar cell carcinoma",
+      "frequency": null
+    },
+    {
+      "name": "lymphoma",
+      "raw": "lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "pneumoconiosis",
+      "raw": "pneumoconiosis",
+      "frequency": null
+    },
+    {
+      "name": "pneumonia",
+      "raw": "pneumonia",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "\"sarcoid cluster\" = cluster of multiple micronodules distributed along lymph | solitary lung nodule / mass (rare) | \"alveolar sarcoidosis\" = bilateral symmetric patchy airspace consolidation ± air | patchy ground-glass opacities (40%)"
+}

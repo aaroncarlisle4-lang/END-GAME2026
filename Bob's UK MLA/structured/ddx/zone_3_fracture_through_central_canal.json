@@ -1,0 +1,32 @@
+{
+  "finding": "Zone 3 = fracture through central canal",
+  "slug": "zone_3_fracture_through_central_canal",
+  "chapter": "Ossicular Injury",
+  "source_file": "processed_clusters/ossicular_injury/zone_3_fracture_through_central_canal.md",
+  "quality_score": 0.733,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "significant bilateral neurologic damage (frequent): bowel / bladder incontinence",
+      "raw": "significant bilateral neurologic damage (frequent): bowel / bladder incontinence",
+      "frequency": "frequent"
+    },
+    {
+      "name": "Cx:     chronic disability",
+      "raw": "Cx:     chronic disability (in up to 50%)",
+      "frequency": "50%"
+    },
+    {
+      "name": "Acute Atraumatic Compression Fractures of Spine",
+      "raw": "Acute Atraumatic Compression Fractures of Spine",
+      "frequency": null
+    },
+    {
+      "name": "Osteoporotic Compression Fracture of Vertebra",
+      "raw": "Osteoporotic Compression Fracture of Vertebra",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  low-signal-intensity band on T1WI and T2WI (93% sensitive) √  spared normal bone marrow SI of the vertebral body (85% sensitive) √  retropulsion of a posterior bone fragment into spinal canal (60% sensitive) √  \"fluid\" sign = circumscribed fluidlike SI on T2WI + STIR subjacent to fractured end plate √  multiple compression fractures √  rimlike enhancement around low-signal-intensity bands √  \"wafer-like\" distribution of radionuclide activity along endplate Metastatic Compression Fracture of Vertebra √  convex posterior border of vertebral body (74% sensitive) √  abnormal SI of the pedicle o"
+}

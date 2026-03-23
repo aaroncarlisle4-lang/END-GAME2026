@@ -1,0 +1,49 @@
+{
+  "name": "NAIL-PATELLA SYNDROME",
+  "slug": "nail_patella_syndrome",
+  "chapter": "MORTON NEUROMA",
+  "source_file": "processed_clusters/disease_entries/morton_neuroma/nail_patella_syndrome.md",
+  "definition": "FONG DISEASE = ILIAC HORNS = FAMILIAL / HEREDITARY OSTEO- rare autosomal-dominant disorder characterized by symmetrical meso- and ectodermal",
+  "demographics": {
+    "Etiology": "? enzymatic defect in collagen metabolism",
+    "Genetics": "mutation of LMX1B gene encoding a transcription factor important to development of",
+    "Age": "evident in 2nd + 3rd decades"
+  },
+  "dominant_finding": "4 key features:",
+  "distribution": "flared iliac crest with protuberant anterior iliac spines",
+  "discriminating_features": [
+    "4 key features:",
+    "fragmentation / hypoplasia / absence of patella",
+    "recurrent lateral dislocations (frequent)",
+    "occasionally capped by an epiphysis",
+    "radial head / capitellum hypoplasia with subluxation / dislocation of radial head"
+  ],
+  "other_features": {
+    "general": [
+      "4 key features:",
+      "fragmentation / hypoplasia / absence of patella",
+      "recurrent lateral dislocations (frequent)",
+      "occasionally capped by an epiphysis",
+      "radial head / capitellum hypoplasia with subluxation / dislocation of radial head",
+      "flared iliac crest with protuberant anterior iliac spines",
+      "flexion contractures of hip, knee, elbow, fingers, foot with inability of full extension",
+      "deltoid, triceps, quadriceps hypoplasia",
+      "mandibular cysts (occasionally)",
+      "scoliosis"
+    ],
+    "Hand": [
+      "clinodactyly of 5th finger",
+      "short 5th metacarpal"
+    ],
+    "Knee": [
+      "genu valgum ← asymmetrical development of femoral condyles",
+      "prominent tibial tubercles"
+    ],
+    "Kidney": [
+      "renal osteodystrophy"
+    ]
+  },
+  "clinical": {
+    "Cx": "knee joint instability, restriction, pain, arthritis"
+  }
+}

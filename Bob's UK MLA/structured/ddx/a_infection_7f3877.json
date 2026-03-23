@@ -1,0 +1,32 @@
+{
+  "finding": "A. INFECTION",
+  "slug": "a_infection_7f3877",
+  "chapter": "Small Bowel Ulcer",
+  "source_file": "processed_clusters/small_bowel_ulcer/a_infection_7f3877.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Yersinia enterocolitis",
+      "raw": "Yersinia enterocolitis (25%)",
+      "frequency": "25%"
+    },
+    {
+      "name": "Salmonellosis",
+      "raw": "Salmonellosis",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Rickettsiosis",
+      "raw": "Rickettsiosis",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

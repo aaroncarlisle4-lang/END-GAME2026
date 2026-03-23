@@ -1,0 +1,79 @@
+# Disease: PRIMARY PULMONARY HYPERTENSION
+
+**Source section:** CARDIOVASCULAR DISORDERS
+
+## Definition
+
+PLEXOGENIC PULMONARY ARTERIOPATHY = ppHTN idiopathic precapillary cause of pulmonary hypertension (pHTN)
+
+## Key Facts
+
+- **Histo:** plexogenic arteriopathy (HALLMARK) = intimal cell proliferation with focal disruption
+- **Age:** 3rd decade (range, 20-45 years); M÷F = 1÷3
+
+## Imaging Findings
+
+### General
+
+- right ventricular enlargement ← hypertrophy + dilatation
+- dilatation of central pulmonary arteries
+
+### CXR
+
+- prominent central pulmonary arteries:
+- enlarged pulmonary trunk
+- right descending pulmonary artery > 25 mm wide
+- pulmonary vascularity:
+- oligemia + rapidly tapering vessels
+- overcirculation + vascular distension
+
+### CT
+
+- enlargement of central pulmonary arteries:
+- diameter of main pulmonary artery > 29 mm (87% sensitive, 89% specific) measured at
+- segmental artery-to-bronchus ratio > 1÷1
+- pulmonary artery-to-aorta ratio (rPA) > 1
+- abrupt decrease in caliber of segmental + subsegmental arteries (at outer to medial ⅓ of
+- small tortuous peripheral vessels = plexogenic arteriopathy
+- absence of detectable intraluminal thrombi
+- wall-adherent apposition thrombus in central pulmonary aa.
+- pericardial effusion (worse prognosis)
+- focal perivascular groundglass opacities in peripheral / perihilar distribution
+
+### HRCT
+
+- patchy mosaic pattern of lung attenuation ← regional variations in lung perfusion (rare):
+- hyperdense areas containing large caliber vessels
+- hypodense areas containing small caliber vessels
+
+### MR
+
+- reversal of interventricular septal curvature
+- direct linear correlation between mean pulmonary artery pressure (PAP) and ratio of main
+- abnormal intravascular signal in 92% on gated T1WI ← slow arterial flow ← ↑ pulmonary
+
+### NUC
+
+- normal / low-probability V/Q scans
+
+### ANGIO
+
+- symmetrically enlarged central arteries
+- diffuse pattern of abruptly tapering + pruned subsegmental vessels
+- filamentous / "corkscrew" peripheral arteries
+- subpleural collaterals (occasionally)
+- bronchial artery dilatation is uncommon (14%) in primary pHTN for unknown reasons and is
+
+## Clinical
+
+- **Prognosis:** death in 2-5 years; 34% 5-year survival
+- **Rx:** vasodilators, calcium channel blockers, diuretics, anticoagulants; lung / heart-lung
+
+---
+<!--
+  LLM EXTRACTION INSTRUCTIONS (Stage 2):
+  1. Summarize key imaging discriminators for each modality.
+  2. Extract demographics (age, sex, incidence) for clinical context.
+  3. Note clinical outcomes (Cx, Prognosis) for the complete picture.
+  4. Cross-reference processed_clusters/ DDx files for differential tables.
+-->

@@ -1,0 +1,51 @@
+{
+  "name": "GARDNER SYNDROME",
+  "slug": "gardner_syndrome",
+  "chapter": "GASTROINTESTINAL AND ABDOMINAL DISORDERS",
+  "source_file": "processed_clusters/disease_entries/gastrointestinal_and_abdominal_disorders/gardner_syndrome.md",
+  "definition": "autosomal dominant disease with variable penetrance as a variant of familial adenomatous",
+  "demographics": {
+    "Incidence": "1÷14,000",
+    "Histo": "adenomatous polyps → malignant transformation",
+    "Age": "15-30 years (range, 2 months - 70 years)",
+    "Associated with": "? MEA complex",
+    "Location": "abdominal wall; extra- / intraabdominal"
+  },
+  "dominant_finding": "lymphoid hyperplasia of terminal ileum",
+  "distribution": "abdominal wall; extra- / intraabdominal",
+  "discriminating_features": [
+    "multiple colonic polyps appearing during puberty, increasing in number during 3rd-4th",
+    "lymphoid hyperplasia of terminal ileum",
+    "hamartomas of stomach",
+    "intussusception",
+    "peritoneal adhesions ← desmoplastic tendency"
+  ],
+  "other_features": {
+    "general": [
+      "multiple colonic polyps appearing during puberty, increasing in number during 3rd-4th",
+      "lymphoid hyperplasia of terminal ileum",
+      "hamartomas of stomach",
+      "intussusception"
+    ],
+    "Soft-tissue tumors": [
+      "peritoneal adhesions ← desmoplastic tendency",
+      "mesenteric fibrosis, retroperitoneal fibrosis"
+    ],
+    "Long bones": [
+      "slight shortening + bowing",
+      "endosteal cortical thickening",
+      "may have solid periosteal cortical thickening",
+      "wavy cortical thickening of superior aspect of ribs",
+      "osteomas / exostoses may protrude from periosteal surface"
+    ],
+    "Teeth": [
+      "odontoma, unerupted / supernumerary teeth, hypercementosis",
+      "tendency toward numerous caries → dental prosthesis at early age"
+    ]
+  },
+  "clinical": {
+    "Cx": "small bowel / colonic obstruction; malignant transformation",
+    "Prognosis": "frequent recurrence (⅓) after resection / radiation therapy",
+    "Rx": "prophylactic total colectomy at about 20 years of age"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "CORONARY ARTERY FISTULA",
+  "slug": "coronary_artery_fistula",
+  "chapter": "CARDIOVASCULAR DISORDERS",
+  "source_file": "processed_clusters/disease_entries/cardiovascular_disorders/coronary_artery_fistula.md",
+  "definition": "direct precapillary connection between branch of coronary a. + lumen of heart chamber /",
+  "demographics": {
+    "Prevalence": "0.05-0.25% of coronary angiographies; 0.002% of general population"
+  },
+  "dominant_finding": "may have normal CXR (in small shunts)",
+  "distribution": "",
+  "discriminating_features": [
+    "may have normal CXR (in small shunts)",
+    "cardiomegaly + shunt vascularity (in large shunts)",
+    "dilated tortuous coronary artery with anomalous connection",
+    "single (most) / multiple communications / network of fine vessels"
+  ],
+  "other_features": {
+    "general": [
+      "may have normal CXR (in small shunts)",
+      "cardiomegaly + shunt vascularity (in large shunts)"
+    ],
+    "ANGIO": [
+      "dilated tortuous coronary artery with anomalous connection",
+      "single (most) / multiple communications / network of fine vessels"
+    ]
+  },
+  "clinical": {
+    "Cx": "myocardial ischemia / sudden cardiac death (in large shunt), CHF, endocarditis,",
+    "Rx": "observation, surgical ligation, transcatheter embolization"
+  }
+}

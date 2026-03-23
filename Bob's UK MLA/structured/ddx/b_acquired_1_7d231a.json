@@ -1,0 +1,42 @@
+{
+  "finding": "B. ACQUIRED",
+  "slug": "b_acquired_1_7d231a",
+  "chapter": "CERVIX",
+  "source_file": "processed_clusters/cervix/b_acquired_1_7d231a.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cervical carcinoma: postmenopausal",
+      "raw": "Cervical carcinoma: postmenopausal",
+      "frequency": null
+    },
+    {
+      "name": "Endometrial cancer: premenopausal",
+      "raw": "Endometrial cancer: premenopausal",
+      "frequency": null
+    },
+    {
+      "name": "Benign masses: polyp, fibroid",
+      "raw": "Benign masses: polyp, fibroid",
+      "frequency": null
+    },
+    {
+      "name": "S/P radiation treatment",
+      "raw": "S/P radiation treatment",
+      "frequency": null
+    },
+    {
+      "name": "S/P surgery, endocervical curettage, cone biopsy",
+      "raw": "S/P surgery, endocervical curettage, cone biopsy",
+      "frequency": null
+    },
+    {
+      "name": "obstruction to menstrual flow → amenorrhea, dysmenorrhea",
+      "raw": "obstruction to menstrual flow → amenorrhea, dysmenorrhea",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  distension of endometrial cavity by secretions + blood products √  narrowing of endocervical canal < 5 mm by HSG preventing insertion of HSG catheter Cx:     reflux endometriosis"
+}

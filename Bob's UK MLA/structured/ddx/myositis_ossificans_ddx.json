@@ -1,0 +1,30 @@
+{
+  "finding": "Myositis Ossificans (DDx)",
+  "slug": "myositis_ossificans_ddx",
+  "chapter": "Myositis Ossificans",
+  "source_file": "processed_clusters/myositis_ossificans/myositis_ossificans_ddx.md",
+  "quality_score": 0.75,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "parosteal / periosteal osteogenic sarcoma [peripheral chondrosarcoma]",
+      "raw": "parosteal / periosteal osteogenic sarcoma",
+      "frequency": null,
+      "sites": [
+        "peripheral chondrosarcoma"
+      ]
+    },
+    {
+      "name": "periosteal chondroma",
+      "raw": "periosteal chondroma",
+      "frequency": null
+    },
+    {
+      "name": "soft-tissue chondroma",
+      "raw": "soft-tissue chondroma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "radiopaque soft-tissue mass with radiolucent band between mass + cortex | visible calcifications (50%) | focal periosteal thickening (50%) | cortical erosion (occasionally)"
+}

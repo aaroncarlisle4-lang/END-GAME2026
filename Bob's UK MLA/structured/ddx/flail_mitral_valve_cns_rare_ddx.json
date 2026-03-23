@@ -1,0 +1,22 @@
+{
+  "finding": "Flail Mitral Valve — CNS (rare) (DDx)",
+  "slug": "flail_mitral_valve_cns_rare_ddx",
+  "chapter": "Flail Mitral Valve",
+  "source_file": "processed_clusters/flail_mitral_valve/flail_mitral_valve_cns_rare_ddx.md",
+  "quality_score": 0.5,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "SLE (multiple segments of symmetric bowel thickening in jejunum + ileum",
+      "raw": "SLE (multiple segments of symmetric bowel thickening in jejunum + ileum",
+      "frequency": null
+    },
+    {
+      "name": "bowel",
+      "raw": "bowel",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "hypertensive / uremic encephalopathy | focal ischemic / hemorrhagic lesions"
+}

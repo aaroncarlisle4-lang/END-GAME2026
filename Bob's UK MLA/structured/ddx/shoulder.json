@@ -1,0 +1,42 @@
+{
+  "finding": "SHOULDER",
+  "slug": "shoulder",
+  "chapter": "CLAVICLE",
+  "source_file": "processed_clusters/clavicle/shoulder.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "traumatic, unidrectional, Bankart, surgical",
+      "raw": "traumatic, unidrectional, Bankart, surgical (TUBS)",
+      "frequency": null
+    },
+    {
+      "name": "fall on outstretched hand",
+      "raw": "fall on outstretched hand (FOOSH)",
+      "frequency": null
+    },
+    {
+      "name": "atraumatic, multidirectional, bilateral, responding to rehabilitation, inferior capsular shift",
+      "raw": "atraumatic, multidirectional, bilateral, responding to rehabilitation, inferior capsular shift (AMBRI)",
+      "frequency": null
+    },
+    {
+      "name": "Isolated subcoracoid bursitis",
+      "raw": "Isolated subcoracoid bursitis",
+      "frequency": null
+    },
+    {
+      "name": "Inadvertent injection of contrast material into bursa",
+      "raw": "Inadvertent injection of contrast material into bursa",
+      "frequency": null
+    },
+    {
+      "name": "Posttraumatic inflammatory response with tears of rotator cuff + rotator interval",
+      "raw": "Posttraumatic inflammatory response with tears of rotator cuff + rotator interval",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "Shoulder Instability =  recurrent subluxation / dislocation of humeral head out of the glenoid socket during activities causing symptoms Stabilizer:  inferior glenohumeral ligament-labrum complex = IGHLC (most important); anterior labrum-ligament complex Lesions after first anterior dislocation: Age:  < 40 years √  capsulolabral avulsion (Bankart lesion / its variants) √  anterior-inferior instability Age:  > 40 years √  tear of supraspinatus tendon (33%) √  fracture of greater tuberosity (33%) √  subscapularis avulsion from humerus (33%) Instability lesions: √  detachment of anteroinferior la"
+}

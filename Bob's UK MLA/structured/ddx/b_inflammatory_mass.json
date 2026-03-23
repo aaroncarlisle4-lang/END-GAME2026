@@ -1,0 +1,27 @@
+{
+  "finding": "B. INFLAMMATORY MASS",
+  "slug": "b_inflammatory_mass",
+  "chapter": "THYROID",
+  "source_file": "processed_clusters/thyroid/b_inflammatory_mass.md",
+  "quality_score": 0.4,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Focal thyroiditis",
+      "raw": "Focal thyroiditis",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma",
+      "frequency": null
+    },
+    {
+      "name": "Abscess",
+      "raw": "Abscess",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

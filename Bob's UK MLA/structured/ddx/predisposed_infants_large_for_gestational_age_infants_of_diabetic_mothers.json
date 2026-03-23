@@ -1,0 +1,33 @@
+{
+  "finding": "Predisposed: infants large for gestational age, infants of diabetic mothers",
+  "slug": "predisposed_infants_large_for_gestational_age_infants_of_diabetic_mothers",
+  "chapter": "E. OTHERS",
+  "source_file": "processed_clusters/e_others/predisposed_infants_large_for_gestational_age_infants_of_diabetic_mothers.md",
+  "quality_score": 0.5,
+  "cluster_type": "mixed",
+  "differentials": [
+    {
+      "name": "ADULT STRESS",
+      "raw": "ADULT STRESS",
+      "frequency": null
+    },
+    {
+      "name": "Surgery: orthotopic liver transplantation",
+      "raw": "Surgery: orthotopic liver transplantation",
+      "frequency": null
+    },
+    {
+      "name": "Sepsis: Waterhouse-Friderichsen syndrome (= fulminant meningococcemia);",
+      "raw": "Sepsis: Waterhouse-Friderichsen syndrome (= fulminant meningococcemia);",
+      "frequency": null
+    }
+  ],
+  "criteria": {
+    "ADULT STRESS": [
+      "Age:  1st week of life Site:  R÷L = 7÷3; bilateral in 10% Pathophysiology: stress → severalfold ⇑ in endogenous secretion of adrenocorticotropic hormone → ⇑ in adrenal vascularity; ⇑ in catecholamines, thrombin, fibrin, endotoxin during shock → venoconstriction + venous thrombosis → intraglandular hemorrhage"
+    ],
+    "Surgery: orthotopic liver transplantation": [],
+    "Sepsis: Waterhouse-Friderichsen syndrome (= fulminant meningococcemia);": []
+  },
+  "context": "Age:  1st week of life Site:  R÷L = 7÷3; bilateral in 10% Pathophysiology: stress → severalfold ⇑ in endogenous secretion of adrenocorticotropic hormone → ⇑ in adrenal vascularity; ⇑ in catecholamines, thrombin, fibrin, endotoxin during shock → venoconstriction + venous thrombosis → intraglandular hemorrhage"
+}

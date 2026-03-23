@@ -1,0 +1,32 @@
+{
+  "finding": "A. BENIGN",
+  "slug": "a_benign_15",
+  "chapter": "THYMUS",
+  "source_file": "processed_clusters/thymus/a_benign_15.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Thymic hyperplasia",
+      "raw": "Thymic hyperplasia",
+      "frequency": null
+    },
+    {
+      "name": "Intrathymic hemorrhage",
+      "raw": "Intrathymic hemorrhage",
+      "frequency": null
+    },
+    {
+      "name": "Hemangioma",
+      "raw": "Hemangioma",
+      "frequency": null
+    },
+    {
+      "name": "Lymphangioma",
+      "raw": "Lymphangioma",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

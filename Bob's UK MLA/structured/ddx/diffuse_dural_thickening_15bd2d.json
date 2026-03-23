@@ -1,0 +1,62 @@
+{
+  "finding": "Diffuse Dural Thickening",
+  "slug": "diffuse_dural_thickening_15bd2d",
+  "chapter": "MENINGES",
+  "source_file": "processed_clusters/meninges/diffuse_dural_thickening_15bd2d.md",
+  "quality_score": 0.633,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Metastasis: prostate, melanoma, breast, rectum, lymphoma",
+      "raw": "Metastasis: prostate, melanoma, breast, rectum, lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Meningioma",
+      "raw": "Meningioma",
+      "frequency": null
+    },
+    {
+      "name": "Granuloma: TB, sarcoid, syphilis",
+      "raw": "Granuloma: TB, sarcoid, syphilis",
+      "frequency": null
+    },
+    {
+      "name": "Wegener granulomatosis",
+      "raw": "Wegener granulomatosis",
+      "frequency": null
+    },
+    {
+      "name": "Granulomatous angiitis",
+      "raw": "Granulomatous angiitis",
+      "frequency": null
+    },
+    {
+      "name": "Erdheim-Chester disease",
+      "raw": "Erdheim-Chester disease (lipid granulomatosis)",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid arthritis",
+      "raw": "Rheumatoid arthritis",
+      "frequency": null
+    },
+    {
+      "name": "Neuroblastoma",
+      "raw": "Neuroblastoma",
+      "frequency": null
+    },
+    {
+      "name": "Idiopathic hypertrophic pachymeningitis",
+      "raw": "Idiopathic hypertrophic pachymeningitis",
+      "frequency": null
+    },
+    {
+      "name": "Pachymeningitis interna hemorrhagica",
+      "raw": "Pachymeningitis interna hemorrhagica (breast mets)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

@@ -1,0 +1,52 @@
+{
+  "finding": "Pleura-based Lung Nodule",
+  "slug": "pleura_based_lung_nodule_be1412",
+  "chapter": "E. BRONCHIECTASIS",
+  "source_file": "processed_clusters/e_bronchiectasis/pleura_based_lung_nodule_be1412.md",
+  "quality_score": 0.667,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Granuloma",
+      "raw": "Granuloma (fungus, tuberculosis)",
+      "frequency": null
+    },
+    {
+      "name": "Inflammatory pseudotumor",
+      "raw": "Inflammatory pseudotumor",
+      "frequency": null
+    },
+    {
+      "name": "Metastasis",
+      "raw": "Metastasis",
+      "frequency": null
+    },
+    {
+      "name": "Rheumatoid nodule",
+      "raw": "Rheumatoid nodule",
+      "frequency": null
+    },
+    {
+      "name": "Pancoast tumor",
+      "raw": "Pancoast tumor",
+      "frequency": null
+    },
+    {
+      "name": "Lymphoma",
+      "raw": "Lymphoma",
+      "frequency": null
+    },
+    {
+      "name": "Infarct: Hampton hump",
+      "raw": "Infarct: Hampton hump",
+      "frequency": null
+    },
+    {
+      "name": "Atelectatic pseudotumor",
+      "raw": "Atelectatic pseudotumor",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  ill-defined / sharply defined lesion mimicking a true pleural mass √  associated linear densities in lung parenchyma"
+}

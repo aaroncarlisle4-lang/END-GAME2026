@@ -1,0 +1,34 @@
+{
+  "name": "KLEBSIELLA PNEUMONIA",
+  "slug": "klebsiella_pneumonia",
+  "chapter": "ERDHEIM-CHESTER DISEASE",
+  "source_file": "processed_clusters/disease_entries/erdheim_chester_disease/klebsiella_pneumonia.md",
+  "definition": "",
+  "demographics": {
+    "Frequency": "responsible for 5% of adult pneumonias"
+  },
+  "dominant_finding": "bulging of fissure (large amounts of inflammatory exudate) CHARACTERISTIC but unusual",
+  "distribution": "propensity for posterior portion of upper lobe / superior portion of lower lobe",
+  "discriminating_features": [
+    "bulging of fissure (large amounts of inflammatory exudate) CHARACTERISTIC but unusual",
+    "propensity for posterior portion of upper lobe / superior portion of lower lobe",
+    "dense lobar consolidation",
+    "empyema (one of the most common causes)",
+    "patchy bronchopneumonia may be present"
+  ],
+  "other_features": {
+    "general": [
+      "propensity for posterior portion of upper lobe / superior portion of lower lobe",
+      "dense lobar consolidation",
+      "bulging of fissure (large amounts of inflammatory exudate) CHARACTERISTIC but unusual",
+      "empyema (one of the most common causes)",
+      "patchy bronchopneumonia may be present",
+      "uni- / multilocular cavities (50%) appearing within 4 days",
+      "pulmonary gangrene = infarcted tissue (rare)"
+    ]
+  },
+  "clinical": {
+    "Cx": "meningitis, pericarditis",
+    "Prognosis": "25-50% mortality rate"
+  }
+}

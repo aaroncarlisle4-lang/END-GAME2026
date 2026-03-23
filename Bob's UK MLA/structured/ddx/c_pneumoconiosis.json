@@ -1,0 +1,32 @@
+{
+  "finding": "C. PNEUMOCONIOSIS",
+  "slug": "c_pneumoconiosis",
+  "chapter": "B. TRAUMA",
+  "source_file": "processed_clusters/b_trauma/c_pneumoconiosis.md",
+  "quality_score": 0.433,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Asbestos-related pleural disease (most common):",
+      "raw": "Asbestos-related pleural disease (most common):",
+      "frequency": "most common"
+    },
+    {
+      "name": "Talcosis: similar to asbestos-related disease",
+      "raw": "Talcosis: similar to asbestos-related disease",
+      "frequency": null
+    },
+    {
+      "name": "Bakelite",
+      "raw": "Bakelite",
+      "frequency": null
+    },
+    {
+      "name": "Muscovite mica",
+      "raw": "Muscovite mica",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  combination of basilar reticular interstitial disease (< ⅓) + pleural thickening √  calcifications of parietal pleura frequently diagnostic (diaphragmatic surface of pleura, bilateral but asymmetric), visceral pleura typically spared"
+}

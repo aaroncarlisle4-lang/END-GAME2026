@@ -1,0 +1,37 @@
+{
+  "finding": "E. CONGENITAL",
+  "slug": "e_congenital_835bcd",
+  "chapter": "B. VASCULAR",
+  "source_file": "processed_clusters/b_vascular/e_congenital_835bcd.md",
+  "quality_score": 0.467,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Polycystic kidney disease",
+      "raw": "Polycystic kidney disease",
+      "frequency": null
+    },
+    {
+      "name": "Multicystic dysplastic kidney",
+      "raw": "Multicystic dysplastic kidney",
+      "frequency": null
+    },
+    {
+      "name": "Medullary cystic disease",
+      "raw": "Medullary cystic disease",
+      "frequency": null
+    },
+    {
+      "name": "Alport syndrome",
+      "raw": "Alport syndrome",
+      "frequency": null
+    },
+    {
+      "name": "Infantile nephrotic syndrome",
+      "raw": "Infantile nephrotic syndrome",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": ""
+}

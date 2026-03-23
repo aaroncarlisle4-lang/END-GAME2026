@@ -1,0 +1,42 @@
+{
+  "finding": "Gas in Biliary Tree = Pneumobilia",
+  "slug": "gas_in_biliary_tree_pneumobilia_bcb13d",
+  "chapter": "GALLBLADDER POLYP",
+  "source_file": "processed_clusters/gallbladder_polyp/gas_in_biliary_tree_pneumobilia_bcb13d.md",
+  "quality_score": 0.3,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Incompetent sphincter of Oddi",
+      "raw": "Incompetent sphincter of Oddi (after sphincterotomy / passage of a gallstone)",
+      "frequency": null
+    },
+    {
+      "name": "Gallstone ileus",
+      "raw": "Gallstone ileus",
+      "frequency": null
+    },
+    {
+      "name": "Emphysematous cholecystitis",
+      "raw": "Emphysematous cholecystitis (actually in gallbladder)",
+      "frequency": null
+    },
+    {
+      "name": "Trauma",
+      "raw": "Trauma",
+      "frequency": null
+    },
+    {
+      "name": "Ulcer",
+      "raw": "Ulcer (duodenal ulcer perforating into CBD)",
+      "frequency": null
+    },
+    {
+      "name": "Postoperative",
+      "raw": "Postoperative (eg, cholecystoenterostomy)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  gas outlines choledochus ± gallbladder √  peripheral branches of bile ducts not filled Pneumobilia is a common finding with patent biliary stents. It may not be present when the stent is occluded ← no communication with the duodenum."
+}

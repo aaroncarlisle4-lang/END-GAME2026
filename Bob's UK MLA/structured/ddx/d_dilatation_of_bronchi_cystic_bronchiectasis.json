@@ -1,0 +1,37 @@
+{
+  "finding": "D. DILATATION OF BRONCHI = cystic bronchiectasis",
+  "slug": "d_dilatation_of_bronchi_cystic_bronchiectasis",
+  "chapter": "D. INHALATION",
+  "source_file": "processed_clusters/d_inhalation/d_dilatation_of_bronchi_cystic_bronchiectasis.md",
+  "quality_score": 0.567,
+  "cluster_type": "differential",
+  "differentials": [
+    {
+      "name": "Cystic fibrosis",
+      "raw": "Cystic fibrosis (more obvious in upper lobes)",
+      "frequency": null
+    },
+    {
+      "name": "Agammaglobulinemia",
+      "raw": "Agammaglobulinemia (predisposed to recurrent bacterial infections)",
+      "frequency": null
+    },
+    {
+      "name": "Recurrent bacterial pneumonias",
+      "raw": "Recurrent bacterial pneumonias",
+      "frequency": null
+    },
+    {
+      "name": "Tuberculosis",
+      "raw": "Tuberculosis",
+      "frequency": null
+    },
+    {
+      "name": "Allergic bronchopulmonary aspergillosis",
+      "raw": "Allergic bronchopulmonary aspergillosis (in asthmatic patients)",
+      "frequency": null
+    }
+  ],
+  "criteria": {},
+  "context": "√  bronchial wall thickening"
+}
