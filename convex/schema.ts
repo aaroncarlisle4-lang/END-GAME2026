@@ -294,6 +294,7 @@ export default defineSchema({
     x2: v.number(),
     y2: v.number(),
     captionRotation: v.number(),
+    captionWidth: v.optional(v.number()), // SVG user units (% of image width), default 16
     text: v.string(),
   }).index("by_imageId", ["imageId"]),
 

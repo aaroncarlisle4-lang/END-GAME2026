@@ -35,6 +35,7 @@ export const update = mutation({
     x2: v.optional(v.number()),
     y2: v.optional(v.number()),
     captionRotation: v.optional(v.number()),
+    captionWidth: v.optional(v.number()),
     text: v.optional(v.string()),
   },
   handler: async (ctx, { id, ...fields }) => {

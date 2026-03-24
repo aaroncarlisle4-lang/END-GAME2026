@@ -72,6 +72,10 @@ export function ImageAnnotationLayer({
   // Refs for window-level drag closures (stale-closure-safe)
   const dragTypeRef = useRef<DragType>(null);
   const draggingIdRef = useRef<string | null>(null);
+  const resizingIdRef = useRef<string | null>(null);
+  const resizeStartXRef = useRef<number>(0);
+  const resizeStartWidthRef = useRef<number>(16);
+  const [resizeWidths, setResizeWidths] = useState<Record<string, number>>({});
   const dragPosRef = useRef<AnnPos | null>(null);
 
   const startDrag = useCallback(
@@ -235,8 +239,8 @@ export function ImageAnnotationLayer({
             ? { ...ann, ...dragPosRef.current }
             : ann;
 
-        // captionRotation: 0 = caption right of tail, 1 = caption left of tail
         const captionFlipped = ann.captionRotation === 1;
+        const captionW = resizeWidths[ann._id] ?? ann.captionWidth ?? 16;
 
         return (
           <g key={ann._id}>
@@ -251,31 +255,41 @@ export function ImageAnnotationLayer({
               markerEnd="url(#ann-arrowhead)"
             />
 
-            {/* Caption — foreignObject for text/input only, no buttons inside */}
+            {/* Caption — foreignObject for text/input only */}
             <foreignObject
-              x={captionFlipped ? pos.x2 - 16 : pos.x2 + 1}
+              x={captionFlipped ? pos.x2 - captionW - 1 : pos.x2 + 1}
               y={pos.y2 - 2}
-              width="16"
-              height="4"
+              width={captionW}
+              height="20"
               style={{ overflow: "visible", pointerEvents: "all" }}
             >
               {annotateMode ? (
-                <input
+                <textarea
                   key={ann._id}
                   defaultValue={ann.text}
+                  rows={1}
                   style={{
                     background: "rgba(0,0,0,0.80)",
                     border: `1px solid ${isSelected ? "#f59e0b" : "rgba(245,158,11,0.4)"}`,
                     borderRadius: "2px",
-                    padding: "0 2px",
+                    padding: "1px 2px",
                     color: "#fef3c7",
                     fontSize: "6px",
                     fontWeight: 600,
                     fontFamily: "system-ui, sans-serif",
                     outline: "none",
-                    width: "60px",
+                    width: "100%",
+                    resize: "none",
+                    overflow: "hidden",
                     display: "block",
                     cursor: "text",
+                    boxSizing: "border-box",
+                    lineHeight: "1.3",
+                  }}
+                  onInput={(e) => {
+                    const el = e.target as HTMLTextAreaElement;
+                    el.style.height = "auto";
+                    el.style.height = el.scrollHeight + "px";
                   }}
                   onBlur={(e) => {
                     const newText = e.target.value.trim() || "Finding";
@@ -284,7 +298,7 @@ export function ImageAnnotationLayer({
                     }
                   }}
                   onKeyDown={(e) => {
-                    if (e.key === "Enter") (e.target as HTMLInputElement).blur();
+                    if (e.key === "Escape") (e.target as HTMLTextAreaElement).blur();
                     e.stopPropagation();
                   }}
                   onMouseDown={(e) => e.stopPropagation()}
@@ -295,24 +309,65 @@ export function ImageAnnotationLayer({
                   background: "rgba(0,0,0,0.80)",
                   border: "1px solid rgba(245,158,11,0.4)",
                   borderRadius: "2px",
-                  padding: "0 2px",
+                  padding: "1px 2px",
                   color: "#fef3c7",
                   fontSize: "6px",
                   fontWeight: 600,
                   fontFamily: "system-ui, sans-serif",
-                  whiteSpace: "nowrap",
+                  whiteSpace: "pre-wrap",
+                  wordBreak: "break-word",
                 }}>
                   {ann.text}
                 </div>
               )}
             </foreignObject>
 
-            {/* SVG-native buttons — reliable events, no foreignObject */}
+            {/* Resize grip — drag right edge to change caption width */}
+            {annotateMode && (() => {
+              const gripX = captionFlipped ? pos.x2 - captionW - 1 : pos.x2 + 1 + captionW;
+              const gripY = pos.y2 - 2;
+              return (
+                <rect
+                  x={gripX - 1}
+                  y={gripY}
+                  width="2"
+                  height="4"
+                  rx="0.5"
+                  fill="rgba(100,116,139,0.8)"
+                  style={{ cursor: "ew-resize" }}
+                  onMouseDown={(e) => {
+                    e.stopPropagation();
+                    resizingIdRef.current = ann._id;
+                    resizeStartXRef.current = e.clientX;
+                    resizeStartWidthRef.current = captionW;
+                    const imgEl = imageRef.current;
+                    const onMove = (ev: MouseEvent) => {
+                      if (!imgEl) return;
+                      const rect = imgEl.getBoundingClientRect();
+                      const dxPx = ev.clientX - resizeStartXRef.current;
+                      const dxPct = (dxPx / rect.width) * 100;
+                      const newW = Math.max(8, resizeStartWidthRef.current + (captionFlipped ? -dxPct : dxPct));
+                      setResizeWidths(prev => ({ ...prev, [ann._id]: newW }));
+                    };
+                    const onUp = () => {
+                      window.removeEventListener("mousemove", onMove);
+                      window.removeEventListener("mouseup", onUp);
+                      const finalW = resizeWidths[ann._id] ?? captionW;
+                      updateAnnotation({ id: ann._id as Id<"imageAnnotations">, captionWidth: finalW });
+                      resizingIdRef.current = null;
+                    };
+                    window.addEventListener("mousemove", onMove);
+                    window.addEventListener("mouseup", onUp);
+                  }}
+                />
+              );
+            })()}
+
+            {/* SVG-native buttons */}
             {annotateMode && (() => {
               const btnY = pos.y2 - 2;
-              const afterCaption = captionFlipped ? pos.x2 - 18 : pos.x2 + 18;
-              const flipX = captionFlipped ? pos.x2 - 23 : pos.x2 + 18;
-              const delX = captionFlipped ? pos.x2 - 28 : pos.x2 + 22.5;
+              const flipX = captionFlipped ? pos.x2 - captionW - 7 : pos.x2 + captionW + 3;
+              const delX = captionFlipped ? pos.x2 - captionW - 12 : pos.x2 + captionW + 7.5;
               return (
                 <>
                   {/* Flip button ↔ */}
