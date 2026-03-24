@@ -121,36 +121,6 @@ export function ImageAnnotationLayer({
     [imageRef, updateAnnotation]
   );
 
-  const startRotateDrag = useCallback(
-    (annId: string, captionX: number, captionY: number) => {
-      dragTypeRef.current = "rotate";
-      draggingIdRef.current = annId;
-      setDragType("rotate");
-
-      const onMove = (e: MouseEvent) => {
-        const pos = toPercent(e, imageRef);
-        if (!pos) return;
-        const angle =
-          Math.atan2(pos.y - captionY, pos.x - captionX) * (180 / Math.PI);
-        updateAnnotation({
-          id: annId as Id<"imageAnnotations">,
-          captionRotation: angle,
-        });
-      };
-
-      const onUp = () => {
-        window.removeEventListener("mousemove", onMove);
-        window.removeEventListener("mouseup", onUp);
-        dragTypeRef.current = null;
-        draggingIdRef.current = null;
-        setDragType(null);
-      };
-
-      window.addEventListener("mousemove", onMove);
-      window.addEventListener("mouseup", onUp);
-    },
-    [imageRef, updateAnnotation]
-  );
 
   const handleSvgMouseDown = useCallback(
     (e: React.MouseEvent<SVGSVGElement>) => {
@@ -180,12 +150,6 @@ export function ImageAnnotationLayer({
           if (dist(pos.x, pos.y, a.x2, a.y2) < HANDLE_RADIUS) {
             setSelectedId(ann._id);
             startDrag("tail", ann._id, a);
-            return;
-          }
-          // Rotation handle
-          if (dist(pos.x, pos.y, a.x2 - 3, a.y2 - 6) < HANDLE_RADIUS) {
-            setSelectedId(ann._id);
-            startRotateDrag(ann._id, a.x2, a.y2);
             return;
           }
           // Line body
@@ -225,7 +189,6 @@ export function ImageAnnotationLayer({
       imageId,
       selectedId,
       startDrag,
-      startRotateDrag,
       createAnnotation,
       imageRef,
     ]
@@ -273,8 +236,8 @@ export function ImageAnnotationLayer({
             ? { ...ann, ...dragPosRef.current }
             : ann;
 
-        const rotHandleX = pos.x2 - 3;
-        const rotHandleY = pos.y2 - 6;
+        // captionRotation: 0 = caption right of tail, 1 = caption left of tail
+        const captionFlipped = ann.captionRotation === 1;
 
         return (
           <g key={ann._id}>
@@ -289,18 +252,16 @@ export function ImageAnnotationLayer({
               markerEnd="url(#ann-arrowhead)"
             />
 
-            {/* Caption box */}
+            {/* Caption box — always horizontal, flipped left/right via captionRotation */}
             <foreignObject
-              x={pos.x2}
-              y={pos.y2}
-              width="20"
+              x={captionFlipped ? pos.x2 - 22 : pos.x2}
+              y={pos.y2 - 2.5}
+              width="22"
               height="5"
               style={{ overflow: "visible" }}
             >
               <div
                 style={{
-                  transform: `rotate(${ann.captionRotation}deg)`,
-                  transformOrigin: "0 0",
                   background: "rgba(0,0,0,0.80)",
                   border: isSelected
                     ? "1px solid #f59e0b"
@@ -310,7 +271,7 @@ export function ImageAnnotationLayer({
                   whiteSpace: "nowrap",
                   overflow: "hidden",
                   textOverflow: "ellipsis",
-                  fontSize: "7px",
+                  fontSize: "6px",
                   color: "#fef3c7",
                   fontWeight: 600,
                   fontFamily: "system-ui, sans-serif",
@@ -334,7 +295,7 @@ export function ImageAnnotationLayer({
                       border: "none",
                       outline: "none",
                       color: "#fef3c7",
-                      fontSize: "7px",
+                      fontSize: "6px",
                       fontWeight: 600,
                       fontFamily: "inherit",
                       width: "80px",
@@ -358,6 +319,32 @@ export function ImageAnnotationLayer({
                   />
                 ) : (
                   ann.text
+                )}
+                {/* Flip button — toggles caption left/right of tail */}
+                {annotateMode && (
+                  <button
+                    style={{
+                      background: "transparent",
+                      border: "none",
+                      color: "rgba(245,158,11,0.7)",
+                      cursor: "pointer",
+                      padding: "0 1px",
+                      lineHeight: 1,
+                      flexShrink: 0,
+                      fontSize: "7px",
+                    }}
+                    title="Flip caption side"
+                    onMouseDown={(e) => e.stopPropagation()}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      updateAnnotation({
+                        id: ann._id as Id<"imageAnnotations">,
+                        captionRotation: captionFlipped ? 0 : 1,
+                      });
+                    }}
+                  >
+                    ↔
+                  </button>
                 )}
                 {/* Delete button inline beside caption text — always visible in annotate mode */}
                 {annotateMode && (
@@ -419,29 +406,6 @@ export function ImageAnnotationLayer({
                   onMouseDown={(e) => {
                     e.stopPropagation();
                     startDrag("tail", ann._id, pos);
-                  }}
-                />
-                {/* Rotation handle */}
-                <line
-                  x1={rotHandleX}
-                  y1={rotHandleY}
-                  x2={pos.x2}
-                  y2={pos.y2}
-                  stroke="#818cf8"
-                  strokeWidth="0.3"
-                  strokeDasharray="1,1"
-                />
-                <circle
-                  cx={rotHandleX}
-                  cy={rotHandleY}
-                  r="1.5"
-                  fill="#818cf8"
-                  stroke="white"
-                  strokeWidth="0.4"
-                  style={{ cursor: "crosshair" }}
-                  onMouseDown={(e) => {
-                    e.stopPropagation();
-                    startRotateDrag(ann._id, pos.x2, pos.y2);
                   }}
                 />
 
