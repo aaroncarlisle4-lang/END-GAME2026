@@ -363,6 +363,7 @@ export function ImageAnnotationLayer({
                   alignItems: "center",
                   gap: "3px",
                 }}
+                onMouseDown={(e) => e.stopPropagation()}
                 onClick={(e) => {
                   if (!annotateMode) return;
                   e.stopPropagation();
