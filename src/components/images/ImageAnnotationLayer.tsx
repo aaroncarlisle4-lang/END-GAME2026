@@ -2,7 +2,6 @@ import { useRef, useState, useCallback } from "react";
 import { useQuery, useMutation } from "convex/react";
 import { api } from "../../../convex/_generated/api";
 import type { Id } from "../../../convex/_generated/dataModel";
-import { Trash2 } from "lucide-react";
 
 interface ImageAnnotationLayerProps {
   imageId: string;
@@ -252,163 +251,104 @@ export function ImageAnnotationLayer({
               markerEnd="url(#ann-arrowhead)"
             />
 
-            {/* Caption box — always horizontal, flipped left/right via captionRotation */}
+            {/* Caption — foreignObject for text/input only, no buttons inside */}
             <foreignObject
-              x={captionFlipped ? pos.x2 - 22 : pos.x2}
-              y={pos.y2 - 2.5}
-              width="22"
-              height="5"
-              style={{ overflow: "visible" }}
+              x={captionFlipped ? pos.x2 - 16 : pos.x2 + 1}
+              y={pos.y2 - 2}
+              width="16"
+              height="4"
+              style={{ overflow: "visible", pointerEvents: "all" }}
             >
-              <div
-                style={{
+              {annotateMode ? (
+                <input
+                  key={ann._id}
+                  defaultValue={ann.text}
+                  style={{
+                    background: "rgba(0,0,0,0.80)",
+                    border: `1px solid ${isSelected ? "#f59e0b" : "rgba(245,158,11,0.4)"}`,
+                    borderRadius: "2px",
+                    padding: "0 2px",
+                    color: "#fef3c7",
+                    fontSize: "6px",
+                    fontWeight: 600,
+                    fontFamily: "system-ui, sans-serif",
+                    outline: "none",
+                    width: "60px",
+                    display: "block",
+                    cursor: "text",
+                  }}
+                  onBlur={(e) => {
+                    const newText = e.target.value.trim() || "Finding";
+                    if (newText !== ann.text) {
+                      updateAnnotation({ id: ann._id as Id<"imageAnnotations">, text: newText });
+                    }
+                  }}
+                  onKeyDown={(e) => {
+                    if (e.key === "Enter") (e.target as HTMLInputElement).blur();
+                    e.stopPropagation();
+                  }}
+                  onMouseDown={(e) => e.stopPropagation()}
+                  onClick={(e) => e.stopPropagation()}
+                />
+              ) : (
+                <div style={{
                   background: "rgba(0,0,0,0.80)",
-                  border: isSelected
-                    ? "1px solid #f59e0b"
-                    : "1px solid rgba(245,158,11,0.35)",
+                  border: "1px solid rgba(245,158,11,0.4)",
                   borderRadius: "2px",
-                  padding: "0px 3px",
-                  whiteSpace: "nowrap",
-                  overflow: "hidden",
-                  textOverflow: "ellipsis",
-                  fontSize: "6px",
+                  padding: "0 2px",
                   color: "#fef3c7",
+                  fontSize: "6px",
                   fontWeight: 600,
                   fontFamily: "system-ui, sans-serif",
-                  lineHeight: "1.4",
-                  userSelect: "none",
-                  minWidth: "40px",
-                  maxWidth: "150px",
-                  display: "inline-flex",
-                  alignItems: "center",
-                  gap: "3px",
-                }}
-                onMouseDown={(e) => e.stopPropagation()}
-                onClick={(e) => e.stopPropagation()}
-              >
-                {annotateMode ? (
-                  <input
-                    key={ann._id}
-                    defaultValue={ann.text}
-                    style={{
-                      background: "transparent",
-                      border: "none",
-                      outline: "none",
-                      color: "#fef3c7",
-                      fontSize: "6px",
-                      fontWeight: 600,
-                      fontFamily: "inherit",
-                      width: "80px",
-                      padding: 0,
-                    }}
-                    onBlur={(e) => {
-                      const newText = e.target.value.trim() || "Finding";
-                      if (newText !== ann.text) {
-                        updateAnnotation({
-                          id: ann._id as Id<"imageAnnotations">,
-                          text: newText,
-                        });
-                      }
-                    }}
-                    onKeyDown={(e) => {
-                      if (e.key === "Enter") (e.target as HTMLInputElement).blur();
+                  whiteSpace: "nowrap",
+                }}>
+                  {ann.text}
+                </div>
+              )}
+            </foreignObject>
+
+            {/* SVG-native buttons — reliable events, no foreignObject */}
+            {annotateMode && (() => {
+              const btnY = pos.y2 - 2;
+              const afterCaption = captionFlipped ? pos.x2 - 18 : pos.x2 + 18;
+              const flipX = captionFlipped ? pos.x2 - 23 : pos.x2 + 18;
+              const delX = captionFlipped ? pos.x2 - 28 : pos.x2 + 22.5;
+              return (
+                <>
+                  {/* Flip button ↔ */}
+                  <g
+                    style={{ cursor: "pointer" }}
+                    onMouseDown={(e) => {
                       e.stopPropagation();
-                    }}
-                    onClick={(e) => e.stopPropagation()}
-                    onMouseDown={(e) => e.stopPropagation()}
-                  />
-                ) : (
-                  ann.text
-                )}
-                {/* Flip button — toggles caption left/right of tail */}
-                {annotateMode && (
-                  <button
-                    style={{
-                      background: "transparent",
-                      border: "none",
-                      color: "rgba(245,158,11,0.7)",
-                      cursor: "pointer",
-                      padding: "0 1px",
-                      lineHeight: 1,
-                      flexShrink: 0,
-                      fontSize: "7px",
-                    }}
-                    title="Flip caption side"
-                    onMouseDown={(e) => e.stopPropagation()}
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      updateAnnotation({
-                        id: ann._id as Id<"imageAnnotations">,
-                        captionRotation: captionFlipped ? 0 : 1,
-                      });
+                      updateAnnotation({ id: ann._id as Id<"imageAnnotations">, captionRotation: captionFlipped ? 0 : 1 });
                     }}
                   >
-                    ↔
-                  </button>
-                )}
-                {/* Delete button inline beside caption text — always visible in annotate mode */}
-                {annotateMode && (
-                  <button
-                    style={{
-                      background: "rgba(239,68,68,0.85)",
-                      border: "none",
-                      borderRadius: "2px",
-                      color: "white",
-                      cursor: "pointer",
-                      padding: "0 2px",
-                      lineHeight: 1,
-                      flexShrink: 0,
-                      display: "inline-flex",
-                      alignItems: "center",
-                    }}
-                    title="Delete annotation"
-                    onMouseDown={(e) => e.stopPropagation()}
-                    onClick={(e) => {
+                    <rect x={flipX} y={btnY} width="4" height="4" rx="0.5" fill="rgba(71,85,105,0.9)" />
+                    <text x={flipX + 2} y={btnY + 3} textAnchor="middle" fontSize="3.5" fill="#94a3b8" style={{ userSelect: "none", pointerEvents: "none" }}>↔</text>
+                  </g>
+                  {/* Delete button × */}
+                  <g
+                    style={{ cursor: "pointer" }}
+                    onMouseDown={(e) => {
                       e.stopPropagation();
-                      removeAnnotation({
-                        id: ann._id as Id<"imageAnnotations">,
-                      });
+                      removeAnnotation({ id: ann._id as Id<"imageAnnotations"> });
                       setSelectedId(null);
                     }}
                   >
-                    <Trash2 style={{ width: "7px", height: "7px" }} />
-                  </button>
-                )}
-              </div>
-            </foreignObject>
+                    <rect x={delX} y={btnY} width="4" height="4" rx="0.5" fill="rgba(239,68,68,0.9)" />
+                    <text x={delX + 2} y={btnY + 3} textAnchor="middle" fontSize="4" fill="white" style={{ userSelect: "none", pointerEvents: "none" }}>×</text>
+                  </g>
+                </>
+              );
+            })()}
 
-            {/* Drag handles + delete — only when selected in annotate mode */}
+            {/* Drag handles — shown when selected */}
             {isSelected && annotateMode && (
               <>
-                {/* Arrowhead handle */}
-                <circle
-                  cx={pos.x1}
-                  cy={pos.y1}
-                  r="2"
-                  fill="#f59e0b"
-                  stroke="white"
-                  strokeWidth="0.5"
-                  style={{ cursor: "move" }}
-                  onMouseDown={(e) => {
-                    e.stopPropagation();
-                    startDrag("head", ann._id, pos);
-                  }}
-                />
-                {/* Tail handle */}
-                <circle
-                  cx={pos.x2}
-                  cy={pos.y2}
-                  r="2"
-                  fill="#f59e0b"
-                  stroke="white"
-                  strokeWidth="0.5"
-                  style={{ cursor: "move" }}
-                  onMouseDown={(e) => {
-                    e.stopPropagation();
-                    startDrag("tail", ann._id, pos);
-                  }}
-                />
-
+                <circle cx={pos.x1} cy={pos.y1} r="2" fill="#f59e0b" stroke="white" strokeWidth="0.5" style={{ cursor: "move" }}
+                  onMouseDown={(e) => { e.stopPropagation(); startDrag("head", ann._id, pos); }} />
+                <circle cx={pos.x2} cy={pos.y2} r="2" fill="#f59e0b" stroke="white" strokeWidth="0.5" style={{ cursor: "move" }}
+                  onMouseDown={(e) => { e.stopPropagation(); startDrag("tail", ann._id, pos); }} />
               </>
             )}
           </g>
