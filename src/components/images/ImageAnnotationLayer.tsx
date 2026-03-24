@@ -218,7 +218,7 @@ export function ImageAnnotationLayer({
             return;
           }
           // Rotation handle
-          if (dist(pos.x, pos.y, a.x2 - 4, a.y2 - 8) < HANDLE_RADIUS) {
+          if (dist(pos.x, pos.y, a.x2 - 3, a.y2 - 6) < HANDLE_RADIUS) {
             setSelectedId(ann._id);
             startRotateDrag(ann._id, a.x2, a.y2);
             return;
@@ -294,14 +294,14 @@ export function ImageAnnotationLayer({
       <defs>
         <marker
           id="ann-arrowhead"
-          markerWidth="6"
-          markerHeight="6"
-          refX="5"
-          refY="3"
+          markerWidth="4"
+          markerHeight="4"
+          refX="3.5"
+          refY="2"
           orient="auto"
           markerUnits="userSpaceOnUse"
         >
-          <path d="M0,0 L6,3 L0,6 Z" fill="#f59e0b" />
+          <path d="M0,0 L4,2 L0,4 Z" fill="#f59e0b" />
         </marker>
       </defs>
 
@@ -313,8 +313,8 @@ export function ImageAnnotationLayer({
             ? { ...ann, ...dragPosRef.current }
             : ann;
 
-        const rotHandleX = pos.x2 - 4;
-        const rotHandleY = pos.y2 - 8;
+        const rotHandleX = pos.x2 - 3;
+        const rotHandleY = pos.y2 - 6;
 
         return (
           <g key={ann._id}>
@@ -325,7 +325,7 @@ export function ImageAnnotationLayer({
               x2={pos.x1}
               y2={pos.y1}
               stroke="#f59e0b"
-              strokeWidth="0.6"
+              strokeWidth="0.35"
               markerEnd="url(#ann-arrowhead)"
             />
 
@@ -334,7 +334,7 @@ export function ImageAnnotationLayer({
               x={pos.x2}
               y={pos.y2}
               width="20"
-              height="6"
+              height="5"
               style={{ overflow: "visible" }}
             >
               <div
@@ -345,21 +345,23 @@ export function ImageAnnotationLayer({
                   border: isSelected
                     ? "1px solid #f59e0b"
                     : "1px solid rgba(245,158,11,0.35)",
-                  borderRadius: "3px",
-                  padding: "1px 4px",
+                  borderRadius: "2px",
+                  padding: "0px 3px",
                   whiteSpace: "nowrap",
                   overflow: "hidden",
                   textOverflow: isEditing ? "clip" : "ellipsis",
-                  fontSize: "11px",
+                  fontSize: "9px",
                   color: "#fef3c7",
                   fontWeight: 600,
                   fontFamily: "system-ui, sans-serif",
                   lineHeight: "1.4",
                   userSelect: "none",
                   cursor: annotateMode ? "text" : "default",
-                  minWidth: "60px",
-                  maxWidth: "200px",
-                  display: "inline-block",
+                  minWidth: "40px",
+                  maxWidth: "150px",
+                  display: "inline-flex",
+                  alignItems: "center",
+                  gap: "3px",
                 }}
                 onClick={(e) => {
                   if (!annotateMode) return;
@@ -381,10 +383,10 @@ export function ImageAnnotationLayer({
                       border: "none",
                       outline: "none",
                       color: "#fef3c7",
-                      fontSize: "11px",
+                      fontSize: "9px",
                       fontWeight: 600,
                       fontFamily: "inherit",
-                      width: "120px",
+                      width: "80px",
                       padding: 0,
                     }}
                     onChange={(e) => {
@@ -407,7 +409,6 @@ export function ImageAnnotationLayer({
                         editingIdRef.current = null;
                         setEditingId(null);
                       }
-                      // Prevent viewer keyboard shortcuts from firing while typing
                       e.stopPropagation();
                     }}
                     onClick={(e) => e.stopPropagation()}
@@ -415,6 +416,34 @@ export function ImageAnnotationLayer({
                   />
                 ) : (
                   ann.text
+                )}
+                {/* Delete button inline beside caption text — only when selected */}
+                {isSelected && annotateMode && (
+                  <button
+                    style={{
+                      background: "rgba(239,68,68,0.85)",
+                      border: "none",
+                      borderRadius: "2px",
+                      color: "white",
+                      cursor: "pointer",
+                      padding: "0 2px",
+                      lineHeight: 1,
+                      flexShrink: 0,
+                      display: "inline-flex",
+                      alignItems: "center",
+                    }}
+                    title="Delete annotation"
+                    onMouseDown={(e) => e.stopPropagation()}
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      removeAnnotation({
+                        id: ann._id as Id<"imageAnnotations">,
+                      });
+                      setSelectedId(null);
+                    }}
+                  >
+                    <Trash2 style={{ width: "7px", height: "7px" }} />
+                  </button>
                 )}
               </div>
             </foreignObject>
@@ -474,41 +503,6 @@ export function ImageAnnotationLayer({
                   }}
                 />
 
-                {/* Delete button */}
-                <foreignObject
-                  x={pos.x1 + 2}
-                  y={pos.y1 - 7}
-                  width="7"
-                  height="7"
-                  style={{ overflow: "visible" }}
-                >
-                  <button
-                    style={{
-                      background: "rgba(239,68,68,0.9)",
-                      border: "none",
-                      borderRadius: "2px",
-                      color: "white",
-                      cursor: "pointer",
-                      width: "100%",
-                      height: "100%",
-                      display: "flex",
-                      alignItems: "center",
-                      justifyContent: "center",
-                      padding: 0,
-                    }}
-                    title="Delete annotation"
-                    onMouseDown={(e) => e.stopPropagation()}
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      removeAnnotation({
-                        id: ann._id as Id<"imageAnnotations">,
-                      });
-                      setSelectedId(null);
-                    }}
-                  >
-                    <Trash2 style={{ width: "9px", height: "9px" }} />
-                  </button>
-                </foreignObject>
               </>
             )}
           </g>
