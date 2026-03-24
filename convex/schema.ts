@@ -287,6 +287,29 @@ export default defineSchema({
   })
     .index("by_source", ["sourceType", "sourceId"]),
 
+  imageAnnotations: defineTable({
+    imageId: v.string(),
+    x1: v.number(),
+    y1: v.number(),
+    x2: v.number(),
+    y2: v.number(),
+    captionRotation: v.number(),
+    text: v.string(),
+  }).index("by_imageId", ["imageId"]),
+
+  pendingNotes: defineTable({
+    discriminatorId: v.id("discriminators"),
+    differentialIndex: v.number(),
+    field: v.string(),
+    rawText: v.string(),
+    source: v.optional(v.string()),
+    status: v.union(v.literal("pending"), v.literal("processed")),
+    createdAt: v.number(),
+  })
+    .index("by_status", ["status"])
+    .index("by_discriminator", ["discriminatorId"])
+    .index("by_status_discriminator", ["status", "discriminatorId"]),
+
   textbookReferences: defineTable({
     refNumber: v.number(),
     shortName: v.string(),

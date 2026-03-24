@@ -15,7 +15,9 @@ import {
   Sparkles,
   ZoomIn,
   ZoomOut,
+  Pencil,
 } from "lucide-react";
+import { ImageAnnotationLayer } from "./ImageAnnotationLayer";
 import { useMutation } from "convex/react";
 import { api } from "../../../convex/_generated/api";
 import type { Id } from "../../../convex/_generated/dataModel";
@@ -136,6 +138,10 @@ export function RapidImageViewer({
   const [isPanning, setIsPanning] = useState(false);
   const lastMousePos = useRef({ x: 0, y: 0 });
 
+  // Annotate mode
+  const [annotateMode, setAnnotateMode] = useState(false);
+  const imageRef = useRef<HTMLImageElement>(null);
+
   const resetZoom = useCallback(() => {
     setZoom(1);
     setPan({ x: 0, y: 0 });
@@ -229,6 +235,7 @@ export function RapidImageViewer({
     }
     setSliceIndex(0);
     setExpanded(false);
+    setAnnotateMode(false);
   }, [caseIndex, cases.length, activeBucketIndex, buckets.length]);
 
   const goPrevCase = useCallback(() => {
@@ -245,6 +252,7 @@ export function RapidImageViewer({
     }
     setSliceIndex(0);
     setExpanded(false);
+    setAnnotateMode(false);
   }, [caseIndex, activeBucketIndex, buckets]);
 
   // Keyboard navigation
@@ -306,7 +314,8 @@ export function RapidImageViewer({
       return;
     }
 
-    if (zoom > 1 && e.button === 0) {
+    // Don't pan in annotate mode — ImageAnnotationLayer owns left-click
+    if (!annotateMode && zoom > 1 && e.button === 0) {
       setIsPanning(true);
       lastMousePos.current = { x: e.clientX, y: e.clientY };
     }
@@ -524,6 +533,19 @@ export function RapidImageViewer({
                       <ZoomIn className="w-4 h-4" />
                     </button>
                   </div>
+
+                  {/* Annotate mode toggle */}
+                  <button
+                    onClick={() => setAnnotateMode((m) => !m)}
+                    className={`p-1.5 rounded-lg transition-colors ${
+                      annotateMode
+                        ? "bg-amber-500/20 text-amber-400 ring-1 ring-amber-400/40"
+                        : "text-slate-400 hover:text-white"
+                    }`}
+                    title={annotateMode ? "Exit annotate mode" : "Annotate image"}
+                  >
+                    <Pencil className="w-4 h-4" />
+                  </button>
 
                   {hasDiscriminator && onViewDiscriminators && (
                     <button
@@ -758,21 +780,40 @@ export function RapidImageViewer({
                       )}
 
                       {/* Image — uses every pixel of available space */}
-                      <div className="relative h-full w-full flex items-center justify-center overflow-hidden">
+                      <div className="relative h-full w-full flex items-center justify-center">
                         {currentUrl && !imgError ? (
                           <>
-                            <img
-                              key={currentUrl}
-                              src={currentUrl}
-                              alt={currentImage?.caption || "Study image"}
+                            {/* Shared transform wrapper: image + annotation layer move together */}
+                            <div
                               style={{
                                 transform: `translate(${pan.x}px, ${pan.y}px) scale(${zoom})`,
                                 transition: isPanning ? 'none' : 'transform 0.2s cubic-bezier(0.2, 0, 0.2, 1)',
+                                position: 'relative',
+                                display: 'flex',
+                                alignItems: 'center',
+                                justifyContent: 'center',
+                                maxHeight: '100%',
+                                maxWidth: '100%',
                               }}
-                              className="max-h-full max-w-full object-contain select-none will-change-transform"
-                              draggable={false}
-                              onError={() => setImgError(true)}
-                            />
+                              className={`will-change-transform${annotateMode ? ' ring-1 ring-amber-400/25' : ''}`}
+                            >
+                              <img
+                                ref={imageRef}
+                                key={currentUrl}
+                                src={currentUrl}
+                                alt={currentImage?.caption || "Study image"}
+                                className="max-h-full max-w-full object-contain select-none"
+                                draggable={false}
+                                onError={() => setImgError(true)}
+                              />
+                              {currentImage && (
+                                <ImageAnnotationLayer
+                                  imageId={currentImage._id}
+                                  imageRef={imageRef}
+                                  annotateMode={annotateMode}
+                                />
+                              )}
+                            </div>
                             
                             {/* Prominent Floating Caption & Metadata */}
                             <div className="absolute top-6 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 pointer-events-none z-20">
