@@ -350,7 +350,7 @@ export function ImageAnnotationLayer({
                   whiteSpace: "nowrap",
                   overflow: "hidden",
                   textOverflow: isEditing ? "clip" : "ellipsis",
-                  fontSize: "9px",
+                  fontSize: "7px",
                   color: "#fef3c7",
                   fontWeight: 600,
                   fontFamily: "system-ui, sans-serif",
@@ -383,7 +383,7 @@ export function ImageAnnotationLayer({
                       border: "none",
                       outline: "none",
                       color: "#fef3c7",
-                      fontSize: "9px",
+                      fontSize: "7px",
                       fontWeight: 600,
                       fontFamily: "inherit",
                       width: "80px",
@@ -417,8 +417,8 @@ export function ImageAnnotationLayer({
                 ) : (
                   ann.text
                 )}
-                {/* Delete button inline beside caption text — only when selected */}
-                {isSelected && annotateMode && (
+                {/* Delete button inline beside caption text — always visible in annotate mode */}
+                {annotateMode && (
                   <button
                     style={{
                       background: "rgba(239,68,68,0.85)",
