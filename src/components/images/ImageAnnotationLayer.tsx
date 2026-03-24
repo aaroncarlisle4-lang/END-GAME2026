@@ -1,4 +1,4 @@
-import { useRef, useState, useEffect, useCallback } from "react";
+import { useRef, useState, useCallback } from "react";
 import { useQuery, useMutation } from "convex/react";
 import { api } from "../../../convex/_generated/api";
 import type { Id } from "../../../convex/_generated/dataModel";
@@ -70,45 +70,10 @@ export function ImageAnnotationLayer({
   // dragTick forces re-render when ref values (optimistic drag pos) change
   const [dragTick, setDragTick] = useState(0);
 
-  // Refs for values needed inside window-level drag closures (stale-closure-safe)
-  const editingIdRef = useRef<string | null>(null);
-  const editTextRef = useRef<string>("");
-  const originalTextRef = useRef<string>("");
+  // Refs for window-level drag closures (stale-closure-safe)
   const dragTypeRef = useRef<DragType>(null);
   const draggingIdRef = useRef<string | null>(null);
   const dragPosRef = useRef<AnnPos | null>(null);
-  // Track editing state for render (separate from ref so caption input shows)
-  const [editingId, setEditingId] = useState<string | null>(null);
-
-  // Flush any pending caption edit when imageId changes or on unmount
-  useEffect(() => {
-    return () => {
-      if (
-        editingIdRef.current &&
-        editTextRef.current !== originalTextRef.current
-      ) {
-        updateAnnotation({
-          id: editingIdRef.current as Id<"imageAnnotations">,
-          text: editTextRef.current,
-        });
-      }
-      editingIdRef.current = null;
-    };
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [imageId]);
-
-  // Cancel any in-progress drag when annotateMode turns off
-  useEffect(() => {
-    if (!annotateMode) {
-      dragTypeRef.current = null;
-      draggingIdRef.current = null;
-      dragPosRef.current = null;
-      setDragType(null);
-      setSelectedId(null);
-      setEditingId(null);
-      editingIdRef.current = null;
-    }
-  }, [annotateMode]);
 
   const startDrag = useCallback(
     (type: "head" | "tail", annId: string, ann: AnnPos) => {
@@ -252,10 +217,6 @@ export function ImageAnnotationLayer({
         text: "Finding",
       }).then((newId) => {
         setSelectedId(newId);
-        setEditingId(newId);
-        editingIdRef.current = newId;
-        originalTextRef.current = "Finding";
-        editTextRef.current = "Finding";
       });
     },
     [
@@ -307,7 +268,6 @@ export function ImageAnnotationLayer({
 
       {annotations.map((ann) => {
         const isSelected = selectedId === ann._id;
-        const isEditing = editingId === ann._id;
         const pos =
           draggingIdRef.current === ann._id && dragPosRef.current
             ? { ...ann, ...dragPosRef.current }
@@ -349,14 +309,13 @@ export function ImageAnnotationLayer({
                   padding: "0px 3px",
                   whiteSpace: "nowrap",
                   overflow: "hidden",
-                  textOverflow: isEditing ? "clip" : "ellipsis",
+                  textOverflow: "ellipsis",
                   fontSize: "7px",
                   color: "#fef3c7",
                   fontWeight: 600,
                   fontFamily: "system-ui, sans-serif",
                   lineHeight: "1.4",
                   userSelect: "none",
-                  cursor: annotateMode ? "text" : "default",
                   minWidth: "40px",
                   maxWidth: "150px",
                   display: "inline-flex",
@@ -364,20 +323,11 @@ export function ImageAnnotationLayer({
                   gap: "3px",
                 }}
                 onMouseDown={(e) => e.stopPropagation()}
-                onClick={(e) => {
-                  if (!annotateMode) return;
-                  e.stopPropagation();
-                  setSelectedId(ann._id);
-                  setEditingId(ann._id);
-                  editingIdRef.current = ann._id;
-                  originalTextRef.current = ann.text;
-                  editTextRef.current = ann.text;
-                }}
+                onClick={(e) => e.stopPropagation()}
               >
-                {isEditing && annotateMode ? (
+                {annotateMode ? (
                   <input
-                    // eslint-disable-next-line jsx-a11y/no-autofocus
-                    autoFocus
+                    key={ann._id}
                     defaultValue={ann.text}
                     style={{
                       background: "transparent",
@@ -390,26 +340,17 @@ export function ImageAnnotationLayer({
                       width: "80px",
                       padding: 0,
                     }}
-                    onChange={(e) => {
-                      editTextRef.current = e.target.value;
-                    }}
                     onBlur={(e) => {
                       const newText = e.target.value.trim() || "Finding";
-                      updateAnnotation({
-                        id: ann._id as Id<"imageAnnotations">,
-                        text: newText,
-                      });
-                      editingIdRef.current = null;
-                      setEditingId(null);
+                      if (newText !== ann.text) {
+                        updateAnnotation({
+                          id: ann._id as Id<"imageAnnotations">,
+                          text: newText,
+                        });
+                      }
                     }}
                     onKeyDown={(e) => {
-                      if (e.key === "Enter") {
-                        (e.target as HTMLInputElement).blur();
-                      }
-                      if (e.key === "Escape") {
-                        editingIdRef.current = null;
-                        setEditingId(null);
-                      }
+                      if (e.key === "Enter") (e.target as HTMLInputElement).blur();
                       e.stopPropagation();
                     }}
                     onClick={(e) => e.stopPropagation()}
