@@ -2,6 +2,8 @@
 
 import { action } from "./_generated/server";
 import { v } from "convex/values";
+import { S3Client, PutObjectCommand } from "@aws-sdk/client-s3";
+import { getSignedUrl } from "@aws-sdk/s3-request-presigner";
 
 /**
  * Generate a presigned PUT URL for uploading an image to S3-compatible storage.
@@ -25,9 +27,6 @@ export const generateS3UploadUrl = action({
     prefix: v.optional(v.string()),
   },
   handler: async (_ctx, args) => {
-    const { S3Client, PutObjectCommand } = await import("@aws-sdk/client-s3");
-    const { getSignedUrl } = await import("@aws-sdk/s3-request-presigner");
-
     const bucket = process.env.S3_BUCKET;
     const region = process.env.S3_REGION ?? "auto";
     const endpoint = process.env.S3_ENDPOINT;
@@ -61,6 +60,7 @@ export const generateS3UploadUrl = action({
       Bucket: bucket,
       Key: s3Key,
       ContentType: args.contentType,
+      CacheControl: "public, max-age=31536000, immutable",
     });
 
     // Presigned URL valid for 10 minutes

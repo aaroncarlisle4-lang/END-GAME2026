@@ -3,7 +3,7 @@ import { useQuery, useMutation } from "convex/react";
 import { api } from "../../convex/_generated/api";
 import { Doc, Id } from "../../convex/_generated/dataModel";
 import { getCategoryMeta } from "../lib/categoryConfig";
-import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target } from "lucide-react";
+import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target, BookmarkPlus } from "lucide-react";
 import { HighlightableText } from "../components/ui/HighlightableText";
 import { useKnowledge } from "../lib/knowledgeContext";
 import { KnowledgeTrigger } from "../components/ui/KnowledgeTrigger";
@@ -12,6 +12,7 @@ import { ImageDropZone } from "../components/images/ImageDropZone";
 import { RapidImageViewer } from "../components/images/RapidImageViewer";
 import { useTextIngestion } from "../hooks/useTextIngestion";
 import { TextReviewModal } from "../components/text/TextReviewModal";
+import { AddNoteModal } from "../components/text/AddNoteModal";
 
 interface DifferentialPattern {
   _id: string;
@@ -58,18 +59,22 @@ const CATEGORY_ORDER = [
   "Paeds", "US", "Gynae", "VIR", "NucMed", "Breast", "Cardiac"
 ];
 
-function PatternCard({ 
-  dp, 
+function PatternCard({
+  dp,
   discriminator,
   discriminatorOpen,
   setDiscriminatorOpen,
-  onViewImages
-}: { 
-  dp: DifferentialPattern; 
+  onViewImages,
+  onAddNote,
+  pendingNoteCount,
+}: {
+  dp: DifferentialPattern;
   discriminator?: Doc<"discriminators"> | null;
   discriminatorOpen?: boolean;
   setDiscriminatorOpen?: (open: boolean) => void;
   onViewImages?: () => void;
+  onAddNote?: () => void;
+  pendingNoteCount?: number;
 }) {
   const [expanded, setExpanded] = useState(false);
   const meta = getCategoryMeta(dp.categoryAbbreviation);
@@ -146,8 +151,24 @@ function PatternCard({
 
       {discriminator && (
         <div className="px-5 py-3 border-t border-gray-50 bg-slate-50/50">
-          <InlineDiscriminators 
-            discriminator={discriminator} 
+          {onAddNote && (
+            <div className="flex justify-end mb-2">
+              <button
+                onClick={(e) => { e.stopPropagation(); onAddNote(); }}
+                className="relative flex items-center gap-1 px-2.5 py-1.5 text-[10px] font-bold text-amber-600 bg-amber-50 border border-amber-200 rounded-lg hover:bg-amber-100 transition-colors"
+              >
+                <BookmarkPlus className="w-3 h-3" />
+                Add Note
+                {!!pendingNoteCount && (
+                  <span className="ml-1 bg-amber-500 text-white text-[9px] font-black w-4 h-4 flex items-center justify-center rounded-full leading-none">
+                    {pendingNoteCount}
+                  </span>
+                )}
+              </button>
+            </div>
+          )}
+          <InlineDiscriminators
+            discriminator={discriminator}
             externalOpen={discriminatorOpen}
             setExternalOpen={setDiscriminatorOpen}
             onViewImages={onViewImages}
@@ -158,18 +179,22 @@ function PatternCard({
   );
 }
 
-function MnemonicCard({ 
-  m, 
+function MnemonicCard({
+  m,
   discriminator,
   discriminatorOpen,
   setDiscriminatorOpen,
-  onViewImages
-}: { 
-  m: Mnemonic; 
+  onViewImages,
+  onAddNote,
+  pendingNoteCount,
+}: {
+  m: Mnemonic;
   discriminator?: Doc<"discriminators"> | null;
   discriminatorOpen?: boolean;
   setDiscriminatorOpen?: (open: boolean) => void;
   onViewImages?: () => void;
+  onAddNote?: () => void;
+  pendingNoteCount?: number;
 }) {
   const [expanded, setExpanded] = useState(false);
   const meta = getCategoryMeta(m.categoryAbbreviation);
@@ -258,8 +283,24 @@ function MnemonicCard({
 
       {discriminator && (
         <div className="px-5 py-3 border-t border-gray-50 bg-slate-50/50">
-          <InlineDiscriminators 
-            discriminator={discriminator} 
+          {onAddNote && (
+            <div className="flex justify-end mb-2">
+              <button
+                onClick={(e) => { e.stopPropagation(); onAddNote(); }}
+                className="relative flex items-center gap-1 px-2.5 py-1.5 text-[10px] font-bold text-amber-600 bg-amber-50 border border-amber-200 rounded-lg hover:bg-amber-100 transition-colors"
+              >
+                <BookmarkPlus className="w-3 h-3" />
+                Add Note
+                {!!pendingNoteCount && (
+                  <span className="ml-1 bg-amber-500 text-white text-[9px] font-black w-4 h-4 flex items-center justify-center rounded-full leading-none">
+                    {pendingNoteCount}
+                  </span>
+                )}
+              </button>
+            </div>
+          )}
+          <InlineDiscriminators
+            discriminator={discriminator}
             externalOpen={discriminatorOpen}
             setExternalOpen={setDiscriminatorOpen}
             onViewImages={onViewImages}
@@ -270,18 +311,22 @@ function MnemonicCard({
   );
 }
 
-function ChapmanCard({ 
-  c, 
+function ChapmanCard({
+  c,
   discriminator,
   discriminatorOpen,
   setDiscriminatorOpen,
-  onViewImages
-}: { 
-  c: ChapmanACE; 
+  onViewImages,
+  onAddNote,
+  pendingNoteCount,
+}: {
+  c: ChapmanACE;
   discriminator?: Doc<"discriminators"> | null;
   discriminatorOpen?: boolean;
   setDiscriminatorOpen?: (open: boolean) => void;
   onViewImages?: () => void;
+  onAddNote?: () => void;
+  pendingNoteCount?: number;
 }) {
   const [expanded, setExpanded] = useState(false);
   const meta = getCategoryMeta(c.categoryAbbreviation);
@@ -370,8 +415,24 @@ function ChapmanCard({
 
       {discriminator && (
         <div className="px-5 py-4 border-t border-gray-50 bg-slate-50/50">
-          <InlineDiscriminators 
-            discriminator={discriminator} 
+          {onAddNote && (
+            <div className="flex justify-end mb-2">
+              <button
+                onClick={(e) => { e.stopPropagation(); onAddNote(); }}
+                className="relative flex items-center gap-1 px-2.5 py-1.5 text-[10px] font-bold text-amber-600 bg-amber-50 border border-amber-200 rounded-lg hover:bg-amber-100 transition-colors"
+              >
+                <BookmarkPlus className="w-3 h-3" />
+                Add Note
+                {!!pendingNoteCount && (
+                  <span className="ml-1 bg-amber-500 text-white text-[9px] font-black w-4 h-4 flex items-center justify-center rounded-full leading-none">
+                    {pendingNoteCount}
+                  </span>
+                )}
+              </button>
+            </div>
+          )}
+          <InlineDiscriminators
+            discriminator={discriminator}
             externalOpen={discriminatorOpen}
             setExternalOpen={setDiscriminatorOpen}
             onViewImages={onViewImages}
@@ -410,6 +471,10 @@ export function DifferentialsPage() {
     discriminatorId: Id<"discriminators">;
     pattern: string;
   } | null>(null);
+
+  // Add Note state
+  const [noteTarget, setNoteTarget] = useState<Doc<"discriminators"> | null>(null);
+  const pendingCounts = useQuery(api.pendingNotes.getPendingCounts) ?? {};
 
   const {
     processText,
@@ -813,12 +878,14 @@ export function DifferentialsPage() {
                                 onTextDrop={(text) => handleTextDrop(text, discriminator ?? undefined)}
                                 differentialOptions={[dp.diagnosis, ...dp.top3, ...dp.additional]}
                               >
-                                <PatternCard 
-                                  dp={dp} 
-                                  discriminator={discriminator} 
+                                <PatternCard
+                                  dp={dp}
+                                  discriminator={discriminator}
                                   discriminatorOpen={openDiscriminatorId === dp._id}
                                   setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? dp._id : null)}
                                   onViewImages={() => handleViewImages("differentialPattern", dp._id, dp.pattern)}
+                                  onAddNote={discriminator ? () => setNoteTarget(discriminator) : undefined}
+                                  pendingNoteCount={discriminator ? (pendingCounts[discriminator._id] ?? 0) : 0}
                                 />
                               </ImageDropZone>
                             </div>
@@ -840,12 +907,14 @@ export function DifferentialsPage() {
                                 onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
                                 differentialOptions={[m.pattern, ...m.differentials.map(d => d.condition)]}
                               >
-                                <MnemonicCard 
-                                  m={m} 
-                                  discriminator={discriminator} 
+                                <MnemonicCard
+                                  m={m}
+                                  discriminator={discriminator}
                                   discriminatorOpen={openDiscriminatorId === m._id}
                                   setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? m._id : null)}
                                   onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
+                                  onAddNote={discriminator ? () => setNoteTarget(discriminator) : undefined}
+                                  pendingNoteCount={discriminator ? (pendingCounts[discriminator._id] ?? 0) : 0}
                                 />
                               </ImageDropZone>
                             </div>
@@ -890,12 +959,14 @@ export function DifferentialsPage() {
                           onTextDrop={(text) => handleTextDrop(text, discriminator ?? undefined)}
                           differentialOptions={[dp.diagnosis, ...dp.top3, ...dp.additional]}
                         >
-                          <PatternCard 
-                            dp={dp} 
-                            discriminator={discriminator} 
+                          <PatternCard
+                            dp={dp}
+                            discriminator={discriminator}
                             discriminatorOpen={openDiscriminatorId === dp._id}
                             setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? dp._id : null)}
                             onViewImages={() => handleViewImages("differentialPattern", dp._id, dp.pattern)}
+                            onAddNote={discriminator ? () => setNoteTarget(discriminator) : undefined}
+                            pendingNoteCount={discriminator ? (pendingCounts[discriminator._id] ?? 0) : 0}
                           />
                         </ImageDropZone>
                       );
@@ -934,6 +1005,8 @@ export function DifferentialsPage() {
                       discriminatorOpen={openDiscriminatorId === m._id}
                       setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? m._id : null)}
                       onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
+                      onAddNote={discriminator ? () => setNoteTarget(discriminator) : undefined}
+                      pendingNoteCount={discriminator ? (pendingCounts[discriminator._id] ?? 0) : 0}
                     />
                   </ImageDropZone>
                 );
@@ -974,6 +1047,8 @@ export function DifferentialsPage() {
                       discriminatorOpen={openDiscriminatorId === c._id}
                       setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? c._id : null)}
                       onViewImages={() => handleViewImages("chapman", c._id, c.pattern)}
+                      onAddNote={discriminator ? () => setNoteTarget(discriminator) : undefined}
+                      pendingNoteCount={discriminator ? (pendingCounts[discriminator._id] ?? 0) : 0}
                     />
                   </ImageDropZone>
                 );
@@ -987,6 +1062,15 @@ export function DifferentialsPage() {
           </div>
         )}
       </div>
+
+      {/* Add Note Modal */}
+      {noteTarget && (
+        <AddNoteModal
+          open={!!noteTarget}
+          onClose={() => setNoteTarget(null)}
+          discriminator={noteTarget}
+        />
+      )}
 
       {/* Text Ingestion Review Modal */}
       <TextReviewModal

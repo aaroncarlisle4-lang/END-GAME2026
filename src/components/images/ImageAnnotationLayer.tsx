@@ -74,8 +74,11 @@ export function ImageAnnotationLayer({
   const draggingIdRef = useRef<string | null>(null);
   const resizingIdRef = useRef<string | null>(null);
   const resizeStartXRef = useRef<number>(0);
+  const resizeStartYRef = useRef<number>(0);
   const resizeStartWidthRef = useRef<number>(16);
+  const resizeStartHeightRef = useRef<number>(5);
   const [resizeWidths, setResizeWidths] = useState<Record<string, number>>({});
+  const [resizeHeights, setResizeHeights] = useState<Record<string, number>>({});
   const dragPosRef = useRef<AnnPos | null>(null);
 
   const startDrag = useCallback(
@@ -240,7 +243,8 @@ export function ImageAnnotationLayer({
             : ann;
 
         const captionFlipped = ann.captionRotation === 1;
-        const captionW = resizeWidths[ann._id] ?? ann.captionWidth ?? 16;
+        const captionW = resizeWidths[ann._id] ?? ann.captionWidth ?? 24;
+        const captionH = resizeHeights[ann._id] ?? ann.captionHeight ?? 8;
 
         return (
           <g key={ann._id}>
@@ -260,7 +264,7 @@ export function ImageAnnotationLayer({
               x={captionFlipped ? pos.x2 - captionW - 1 : pos.x2 + 1}
               y={pos.y2 - 2}
               width={captionW}
-              height="20"
+              height={captionH}
               style={{ overflow: "visible", pointerEvents: "all" }}
             >
               {annotateMode ? (
@@ -270,7 +274,7 @@ export function ImageAnnotationLayer({
                   rows={1}
                   style={{
                     background: "rgba(0,0,0,0.80)",
-                    border: `1px solid ${isSelected ? "#f59e0b" : "rgba(245,158,11,0.4)"}`,
+                    border: `0.4px solid ${isSelected ? "#f59e0b" : "rgba(245,158,11,0.35)"}`,
                     borderRadius: "2px",
                     padding: "1px 2px",
                     color: "#fef3c7",
@@ -279,17 +283,13 @@ export function ImageAnnotationLayer({
                     fontFamily: "system-ui, sans-serif",
                     outline: "none",
                     width: "100%",
+                    height: "100%",
                     resize: "none",
                     overflow: "hidden",
                     display: "block",
                     cursor: "text",
                     boxSizing: "border-box",
                     lineHeight: "1.3",
-                  }}
-                  onInput={(e) => {
-                    const el = e.target as HTMLTextAreaElement;
-                    el.style.height = "auto";
-                    el.style.height = el.scrollHeight + "px";
                   }}
                   onBlur={(e) => {
                     const newText = e.target.value.trim() || "Finding";
@@ -301,13 +301,14 @@ export function ImageAnnotationLayer({
                     if (e.key === "Escape") (e.target as HTMLTextAreaElement).blur();
                     e.stopPropagation();
                   }}
+                  spellCheck={false}
                   onMouseDown={(e) => e.stopPropagation()}
                   onClick={(e) => e.stopPropagation()}
                 />
               ) : (
                 <div style={{
                   background: "rgba(0,0,0,0.80)",
-                  border: "1px solid rgba(245,158,11,0.4)",
+                  border: "0.4px solid rgba(245,158,11,0.35)",
                   borderRadius: "2px",
                   padding: "1px 2px",
                   color: "#fef3c7",
@@ -322,44 +323,57 @@ export function ImageAnnotationLayer({
               )}
             </foreignObject>
 
-            {/* Resize grip — drag right edge to change caption width */}
+            {/* Resize grip — drag bottom-right corner to change caption width + height */}
             {annotateMode && (() => {
-              const gripX = captionFlipped ? pos.x2 - captionW - 1 : pos.x2 + 1 + captionW;
-              const gripY = pos.y2 - 2;
+              const gripX = captionFlipped
+                ? pos.x2 - captionW - 1
+                : pos.x2 + 1 + captionW;
+              const gripY = pos.y2 - 2 + captionH;
+              // 5×5 amber handle with two diagonal hash lines (standard resize handle look)
               return (
-                <rect
-                  x={gripX - 1}
-                  y={gripY}
-                  width="2"
-                  height="4"
-                  rx="0.5"
-                  fill="rgba(100,116,139,0.8)"
-                  style={{ cursor: "ew-resize" }}
+                <g
+                  style={{ cursor: "nwse-resize" }}
                   onMouseDown={(e) => {
                     e.stopPropagation();
                     resizingIdRef.current = ann._id;
                     resizeStartXRef.current = e.clientX;
+                    resizeStartYRef.current = e.clientY;
                     resizeStartWidthRef.current = captionW;
+                    resizeStartHeightRef.current = captionH;
                     const imgEl = imageRef.current;
+                    // Track live values in closure-local vars to avoid stale state reads in onUp
+                    let liveW = captionW;
+                    let liveH = captionH;
                     const onMove = (ev: MouseEvent) => {
                       if (!imgEl) return;
                       const rect = imgEl.getBoundingClientRect();
-                      const dxPx = ev.clientX - resizeStartXRef.current;
-                      const dxPct = (dxPx / rect.width) * 100;
-                      const newW = Math.max(8, resizeStartWidthRef.current + (captionFlipped ? -dxPct : dxPct));
-                      setResizeWidths(prev => ({ ...prev, [ann._id]: newW }));
+                      const dxPct = ((ev.clientX - resizeStartXRef.current) / rect.width) * 100;
+                      const dyPct = ((ev.clientY - resizeStartYRef.current) / rect.height) * 100;
+                      liveW = Math.max(6, resizeStartWidthRef.current + (captionFlipped ? -dxPct : dxPct));
+                      liveH = Math.max(3, resizeStartHeightRef.current + dyPct);
+                      setResizeWidths(prev => ({ ...prev, [ann._id]: liveW }));
+                      setResizeHeights(prev => ({ ...prev, [ann._id]: liveH }));
                     };
                     const onUp = () => {
                       window.removeEventListener("mousemove", onMove);
                       window.removeEventListener("mouseup", onUp);
-                      const finalW = resizeWidths[ann._id] ?? captionW;
-                      updateAnnotation({ id: ann._id as Id<"imageAnnotations">, captionWidth: finalW });
+                      updateAnnotation({
+                        id: ann._id as Id<"imageAnnotations">,
+                        captionWidth: liveW,
+                        captionHeight: liveH,
+                      });
                       resizingIdRef.current = null;
                     };
                     window.addEventListener("mousemove", onMove);
                     window.addEventListener("mouseup", onUp);
                   }}
-                />
+                >
+                  {/* Background square */}
+                  <rect x={gripX - 2.5} y={gripY - 2.5} width="5" height="5" rx="0.8" fill="#f59e0b" opacity="0.9" />
+                  {/* Diagonal hash lines (bottom-right resize indicator) */}
+                  <line x1={gripX - 0.5} y1={gripY - 2} x2={gripX + 2} y2={gripY + 0.5} stroke="rgba(0,0,0,0.6)" strokeWidth="0.6" strokeLinecap="round" />
+                  <line x1={gripX - 2} y1={gripY - 0.5} x2={gripX + 0.5} y2={gripY + 2} stroke="rgba(0,0,0,0.6)" strokeWidth="0.6" strokeLinecap="round" />
+                </g>
               );
             })()}
 

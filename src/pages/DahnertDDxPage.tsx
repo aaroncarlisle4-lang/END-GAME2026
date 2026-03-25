@@ -1,7 +1,7 @@
 import { useState, useMemo } from "react";
 import { useQuery } from "convex/react";
 import { api } from "../../convex/_generated/api";
-import { ChevronDown, ChevronUp, Search, List, Network } from "lucide-react";
+import { ChevronDown, ChevronUp, Search, List, Network, LayoutGrid } from "lucide-react";
 
 // Reuse same chapter label logic
 const CHAPTER_LABELS: Record<string, string> = {
@@ -184,45 +184,97 @@ function ClusterCard({ cluster }: { cluster: Cluster }) {
   );
 }
 
+function FrameworkCard({ cluster }: { cluster: Cluster }) {
+  const [expanded, setExpanded] = useState(false);
+  // Detect category headers (ALL_CAPS items) vs sub-items
+  const isHeader = (name: string) => name === name.toUpperCase() && name.length > 2 && !/^\d/.test(name);
+
+  return (
+    <div className="rounded-xl border border-amber-200 bg-white overflow-hidden hover:shadow-sm transition-shadow">
+      <button
+        onClick={() => setExpanded(e => !e)}
+        className="w-full text-left px-4 py-3 flex items-start justify-between gap-3"
+      >
+        <div className="flex-1 min-w-0">
+          <div className="flex items-center gap-2 flex-wrap">
+            <span className="font-semibold text-gray-900 text-sm">{cluster.finding}</span>
+            <span className="text-xs px-2 py-0.5 rounded-full bg-amber-50 text-amber-700 border border-amber-200 font-medium">
+              {chapterLabel(cluster.chapter)}
+            </span>
+            <span className="text-xs px-1.5 py-0.5 rounded bg-amber-100 text-amber-800 font-bold uppercase tracking-wide">
+              Framework
+            </span>
+          </div>
+          {!expanded && (
+            <p className="text-xs text-gray-500 mt-1">
+              {cluster.differentials.filter(d => isHeader(d.name)).map(d => d.name).slice(0, 4).join(" · ")}
+              {cluster.differentials.filter(d => isHeader(d.name)).length > 4 && " …"}
+            </p>
+          )}
+        </div>
+        {expanded ? <ChevronUp className="w-4 h-4 text-gray-400 flex-shrink-0 mt-0.5" /> : <ChevronDown className="w-4 h-4 text-gray-400 flex-shrink-0 mt-0.5" />}
+      </button>
+
+      {expanded && (
+        <div className="border-t border-amber-100 px-4 py-3 bg-amber-50/30 space-y-1">
+          {cluster.context && (
+            <p className="text-xs text-gray-500 italic mb-2">{cluster.context}</p>
+          )}
+          {cluster.differentials.map((d, i) => (
+            <div key={i} className={isHeader(d.name) ? "mt-3 first:mt-0" : "pl-4"}>
+              {isHeader(d.name) ? (
+                <p className="text-[10px] font-black text-amber-700 uppercase tracking-widest border-b border-amber-200 pb-0.5 mb-1">
+                  {d.name}
+                </p>
+              ) : (
+                <p className="text-xs text-gray-700 flex gap-1.5">
+                  <span className="text-amber-400 flex-shrink-0">›</span>
+                  {d.name}
+                </p>
+              )}
+            </div>
+          ))}
+        </div>
+      )}
+    </div>
+  );
+}
+
 export function DahnertDDxPage() {
   const allChapters = useQuery(api.dahnertDDxClusters.chapters, {});
   const [selectedChapter, setSelectedChapter] = useState<string | null>(null);
   const [search, setSearch] = useState("");
   const [minQuality, setMinQuality] = useState(0);
+  const [tab, setTab] = useState<"ddx" | "frameworks">("ddx");
 
   const clusters = useQuery(
     api.dahnertDDxClusters.list,
-    selectedChapter
-      ? { chapter: selectedChapter, minQuality }
-      : { minQuality }
+    selectedChapter ? { chapter: selectedChapter, minQuality } : { minQuality }
   ) as Cluster[] | undefined;
 
-  const filtered = useMemo(() => {
-    if (!clusters) return [];
-    if (!search.trim()) return clusters;
-    const q = search.toLowerCase();
-    return clusters.filter(c =>
-      c.finding.toLowerCase().includes(q) ||
-      c.differentials.some(d => d.name.toLowerCase().includes(q))
-    );
+  const { ddxFiltered, frameworksFiltered } = useMemo(() => {
+    if (!clusters) return { ddxFiltered: [], frameworksFiltered: [] };
+    const q = search.trim().toLowerCase();
+    const match = (c: Cluster) =>
+      !q || c.finding.toLowerCase().includes(q) || c.differentials.some(d => d.name.toLowerCase().includes(q));
+    return {
+      ddxFiltered: clusters.filter(c => c.clusterType !== "framework" && match(c)),
+      frameworksFiltered: clusters.filter(c => c.clusterType === "framework" && match(c)),
+    };
   }, [clusters, search]);
 
-  const totalCount = clusters?.length ?? 0;
+  const activeList = tab === "ddx" ? ddxFiltered : frameworksFiltered;
 
   return (
     <div className="flex gap-6 min-h-0">
       {/* Sidebar */}
       <div className="w-56 flex-shrink-0">
         <div className="sticky top-20 space-y-1">
-          <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide px-2 mb-2">
-            Chapter
-          </p>
+          <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide px-2 mb-2">Chapter</p>
           <button
             onClick={() => setSelectedChapter(null)}
             className={`w-full text-left px-3 py-2 rounded-lg text-sm transition-colors ${
-              selectedChapter === null
-                ? "bg-violet-600 text-white font-medium"
-                : "text-gray-700 hover:bg-gray-100"
+              selectedChapter === null ? "bg-violet-600 text-white font-medium" : "text-gray-700 hover:bg-gray-100"
             }`}
           >
             All chapters
@@ -232,30 +284,18 @@ export function DahnertDDxPage() {
               key={ch}
               onClick={() => setSelectedChapter(ch === selectedChapter ? null : ch)}
               className={`w-full text-left px-3 py-2 rounded-lg text-xs transition-colors leading-snug ${
-                selectedChapter === ch
-                  ? "bg-violet-600 text-white font-medium"
-                  : "text-gray-700 hover:bg-gray-100"
+                selectedChapter === ch ? "bg-violet-600 text-white font-medium" : "text-gray-700 hover:bg-gray-100"
               }`}
             >
               {chapterLabel(ch)}
             </button>
           ))}
-
-          {/* Quality filter */}
           <div className="pt-4 px-2">
-            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">
-              Min Quality
-            </p>
+            <p className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">Min Quality</p>
             <div className="flex items-center gap-2">
-              <input
-                type="range"
-                min={0}
-                max={1}
-                step={0.1}
-                value={minQuality}
+              <input type="range" min={0} max={1} step={0.1} value={minQuality}
                 onChange={e => setMinQuality(parseFloat(e.target.value))}
-                className="flex-1 accent-violet-600"
-              />
+                className="flex-1 accent-violet-600" />
               <span className="text-xs text-gray-600 w-6 text-right">{minQuality.toFixed(1)}</span>
             </div>
           </div>
@@ -264,48 +304,66 @@ export function DahnertDDxPage() {
 
       {/* Main */}
       <div className="flex-1 min-w-0">
-        {/* Header */}
         <div className="flex items-center gap-3 mb-4">
-          <div className="p-2 rounded-lg bg-violet-50 text-violet-700">
-            <Network className="w-5 h-5" />
+          <div className={`p-2 rounded-lg ${tab === "frameworks" ? "bg-amber-50 text-amber-700" : "bg-violet-50 text-violet-700"}`}>
+            {tab === "frameworks" ? <LayoutGrid className="w-5 h-5" /> : <Network className="w-5 h-5" />}
           </div>
           <div>
-            <h1 className="text-xl font-bold text-gray-900">Dahnert DDx Clusters</h1>
+            <h1 className="text-xl font-bold text-gray-900">
+              {tab === "frameworks" ? "Dahnert Frameworks" : "Dahnert DDx Clusters"}
+            </h1>
             <p className="text-sm text-gray-500">
-              {selectedChapter ? chapterLabel(selectedChapter) : "All chapters"} ·{" "}
-              {totalCount} cluster{totalCount !== 1 ? "s" : ""}
-              {filtered.length !== totalCount && ` · ${filtered.length} matching`}
+              {selectedChapter ? chapterLabel(selectedChapter) : "All chapters"} · {activeList.length} {tab === "frameworks" ? "framework" : "cluster"}{activeList.length !== 1 ? "s" : ""}
             </p>
           </div>
         </div>
 
-        {/* Search */}
+        {/* Tab switcher */}
+        <div className="flex gap-1 p-1 bg-gray-100 rounded-lg mb-4 w-fit">
+          <button
+            onClick={() => setTab("ddx")}
+            className={`px-4 py-1.5 rounded-md text-sm font-medium transition-colors ${
+              tab === "ddx" ? "bg-white text-violet-700 shadow-sm" : "text-gray-600 hover:text-gray-900"
+            }`}
+          >
+            DDx Clusters <span className="ml-1 text-xs text-gray-400">{ddxFiltered.length}</span>
+          </button>
+          <button
+            onClick={() => setTab("frameworks")}
+            className={`px-4 py-1.5 rounded-md text-sm font-medium transition-colors ${
+              tab === "frameworks" ? "bg-white text-amber-700 shadow-sm" : "text-gray-600 hover:text-gray-900"
+            }`}
+          >
+            Frameworks <span className="ml-1 text-xs text-gray-400">{frameworksFiltered.length}</span>
+          </button>
+        </div>
+
         <div className="relative mb-4">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-gray-400" />
           <input
             type="text"
-            placeholder="Search findings or diagnoses..."
+            placeholder={tab === "frameworks" ? "Search frameworks…" : "Search findings or diagnoses…"}
             value={search}
             onChange={e => setSearch(e.target.value)}
             className="w-full pl-9 pr-4 py-2 text-sm border border-gray-200 rounded-lg focus:outline-none focus:ring-2 focus:ring-violet-500"
           />
         </div>
 
-        {/* Clusters list */}
         {!clusters ? (
           <div className="text-center py-12 text-gray-400">
             <List className="w-8 h-8 mx-auto mb-2 opacity-50" />
-            <p className="text-sm">Loading DDx clusters…</p>
+            <p className="text-sm">Loading…</p>
           </div>
-        ) : filtered.length === 0 ? (
+        ) : activeList.length === 0 ? (
           <div className="text-center py-12 text-gray-400">
-            <p className="text-sm">No clusters match your search.</p>
+            <p className="text-sm">No results match your search.</p>
           </div>
         ) : (
           <div className="space-y-2">
-            {filtered.map(c => (
-              <ClusterCard key={c._id} cluster={c} />
-            ))}
+            {tab === "frameworks"
+              ? activeList.map(c => <FrameworkCard key={c._id} cluster={c} />)
+              : activeList.map(c => <ClusterCard key={c._id} cluster={c} />)
+            }
           </div>
         )}
       </div>

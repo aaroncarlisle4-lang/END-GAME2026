@@ -81,16 +81,35 @@ export function FormattedMedicalText({ text, isCorrect }: { text: string; isCorr
     negative: /\b(?:ABSENT|NEGATIVE|DECREASED|LOW|NONE)\b/gi,
   };
 
+  // If text contains newlines (Dahnert bullet format), split on lines instead of sentences
+  const lines = text.includes("\n")
+    ? text.split("\n").map(l => l.trim()).filter(Boolean)
+    : text.split(". ").map(l => l.trim()).filter(Boolean);
+
   return (
-    <div className="space-y-2">
-      {text.split(". ").map((sentence, sIdx) => {
+    <div className="space-y-1">
+      {lines.map((sentence, sIdx) => {
         if (!sentence.trim()) return null;
 
-        let content = sentence.trim();
+        // Section header line (e.g. "GENERAL:", "CT:", "MRI:")
+        const isSectionHeader = /^[A-Z][A-Z\s\/]{1,20}:$/.test(sentence.trim());
+        if (isSectionHeader) {
+          return (
+            <div key={sIdx} className="pt-2 pb-0.5">
+              <span className="text-[9px] font-black tracking-widest text-slate-500 uppercase border-b border-slate-200">
+                {sentence.replace(/:$/, "")}
+              </span>
+            </div>
+          );
+        }
+
+        // Bullet point line
+        const isBullet = sentence.startsWith("•");
+        let content = isBullet ? sentence.slice(1).trim() : sentence.trim();
         let label = "";
 
-        // Detect "Label: content"
-        if (content.includes(":")) {
+        // Detect "Label: content" (only for non-bullet lines without newlines)
+        if (!text.includes("\n") && content.includes(":")) {
           const parts = content.split(":");
           label = parts[0].trim().toUpperCase();
           content = parts.slice(1).join(":").trim();
@@ -161,7 +180,7 @@ export function FormattedMedicalText({ text, isCorrect }: { text: string; isCorr
 
         return (
           <div key={sIdx} className="flex items-start gap-2 group/line">
-            <div className={`mt-1.5 w-1 h-1 rounded-full shrink-0 ${isCorrect ? "bg-teal-500" : "bg-slate-300"}`} />
+            <div className={`mt-1.5 w-1 h-1 rounded-full shrink-0 ${isBullet ? (isCorrect ? "bg-teal-500" : "bg-slate-400") : (isCorrect ? "bg-teal-500" : "bg-slate-300")}`} />
             <div className="flex-1">
               {label && (
                 <span className="font-black text-[10px] tracking-widest text-slate-900 mr-2 border-b-2 border-slate-200 uppercase">

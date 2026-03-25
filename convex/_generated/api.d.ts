@@ -40,6 +40,7 @@ import type * as highYield from "../highYield.js";
 import type * as imageAnnotations from "../imageAnnotations.js";
 import type * as longCases from "../longCases.js";
 import type * as migrate from "../migrate.js";
+import type * as migrateImagesToR2 from "../migrateImagesToR2.js";
 import type * as mnemonics from "../mnemonics.js";
 import type * as pendingNotes from "../pendingNotes.js";
 import type * as qa_validateCases from "../qa/validateCases.js";
@@ -98,6 +99,7 @@ declare const fullApi: ApiFromModules<{
   imageAnnotations: typeof imageAnnotations;
   longCases: typeof longCases;
   migrate: typeof migrate;
+  migrateImagesToR2: typeof migrateImagesToR2;
   mnemonics: typeof mnemonics;
   pendingNotes: typeof pendingNotes;
   "qa/validateCases": typeof qa_validateCases;

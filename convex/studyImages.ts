@@ -1,4 +1,4 @@
-import { query, mutation, action } from "./_generated/server";
+import { query, mutation, action, internalQuery, internalMutation } from "./_generated/server";
 import { v } from "convex/values";
 import { Id } from "./_generated/dataModel";
 const sourceTypeValidator = v.union(
@@ -333,6 +333,45 @@ export const batchGetImageCounts = query({
     return counts;
   },
 });
+
+// ─── Internal helpers for R2 migration ───────────────────────────────────────
+
+export const getConvexStoredImages = internalQuery({
+  args: { batchSize: v.number() },
+  handler: async (ctx, args) => {
+    return await ctx.db
+      .query("studyImages")
+      .filter((q) => q.eq(q.field("storageProvider"), "convex"))
+      .take(args.batchSize);
+  },
+});
+
+export const getStorageUrl = internalQuery({
+  args: { storageId: v.id("_storage") },
+  handler: async (ctx, args) => {
+    return await ctx.storage.getUrl(args.storageId);
+  },
+});
+
+export const markImageMigratedToR2 = internalMutation({
+  args: {
+    imageId: v.id("studyImages"),
+    s3Key: v.string(),
+    s3Bucket: v.string(),
+    oldStorageId: v.id("_storage"),
+  },
+  handler: async (ctx, args) => {
+    await ctx.db.patch(args.imageId, {
+      s3Key: args.s3Key,
+      s3Bucket: args.s3Bucket,
+      storageProvider: "s3",
+      storageId: undefined,
+    });
+    await ctx.storage.delete(args.oldStorageId);
+  },
+});
+
+// ─── Radiopaedia fetch ────────────────────────────────────────────────────────
 
 const CDN_BASE = "https://prod-images-static.radiopaedia.org/images";
 

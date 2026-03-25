@@ -134,10 +134,13 @@ export const batchEnrich = mutation({
         distributionLocation: v.optional(v.string()),
         demographicsClinicalContext: v.optional(v.string()),
         discriminatingKeyFeature: v.optional(v.string()),
+        associatedFindings: v.optional(v.string()),
+        complicationsSeriousAlternatives: v.optional(v.string()),
       })),
     })),
   },
   handler: async (ctx, args) => {
+    const PLACEHOLDER = "see dahnert reference";
     let enriched = 0;
     for (const patch of args.patches) {
       const doc = await ctx.db.get(patch.id);
@@ -148,11 +151,14 @@ export const batchEnrich = mutation({
         const d = diffs[e.differentialIndex];
         if (!d) continue;
         const updated = { ...d };
+        const isEmpty = (v: string | undefined) => !v || v.toLowerCase().trim() === PLACEHOLDER;
         if (e.dahnertConditionSlug && !d.dahnertConditionSlug) { updated.dahnertConditionSlug = e.dahnertConditionSlug; changed = true; }
-        if (e.dominantImagingFinding && !d.dominantImagingFinding) { updated.dominantImagingFinding = e.dominantImagingFinding; changed = true; }
-        if (e.distributionLocation && !d.distributionLocation) { updated.distributionLocation = e.distributionLocation; changed = true; }
-        if (e.demographicsClinicalContext && !d.demographicsClinicalContext) { updated.demographicsClinicalContext = e.demographicsClinicalContext; changed = true; }
-        if (e.discriminatingKeyFeature && !d.discriminatingKeyFeature) { updated.discriminatingKeyFeature = e.discriminatingKeyFeature; changed = true; }
+        if (e.dominantImagingFinding && isEmpty(d.dominantImagingFinding)) { updated.dominantImagingFinding = e.dominantImagingFinding; changed = true; }
+        if (e.distributionLocation && isEmpty(d.distributionLocation)) { updated.distributionLocation = e.distributionLocation; changed = true; }
+        if (e.demographicsClinicalContext && isEmpty(d.demographicsClinicalContext)) { updated.demographicsClinicalContext = e.demographicsClinicalContext; changed = true; }
+        if (e.discriminatingKeyFeature && isEmpty(d.discriminatingKeyFeature)) { updated.discriminatingKeyFeature = e.discriminatingKeyFeature; changed = true; }
+        if (e.associatedFindings && isEmpty(d.associatedFindings)) { updated.associatedFindings = e.associatedFindings; changed = true; }
+        if (e.complicationsSeriousAlternatives && isEmpty(d.complicationsSeriousAlternatives)) { updated.complicationsSeriousAlternatives = e.complicationsSeriousAlternatives; changed = true; }
         diffs[e.differentialIndex] = updated;
       }
       if (changed) {
@@ -176,6 +182,8 @@ export const batchEnrichOverwrite = mutation({
         distributionLocation: v.optional(v.string()),
         demographicsClinicalContext: v.optional(v.string()),
         discriminatingKeyFeature: v.optional(v.string()),
+        associatedFindings: v.optional(v.string()),
+        complicationsSeriousAlternatives: v.optional(v.string()),
       })),
     })),
   },
@@ -196,6 +204,8 @@ export const batchEnrichOverwrite = mutation({
           ...(e.distributionLocation !== undefined ? { distributionLocation: e.distributionLocation } : {}),
           ...(e.demographicsClinicalContext !== undefined ? { demographicsClinicalContext: e.demographicsClinicalContext } : {}),
           ...(e.discriminatingKeyFeature !== undefined ? { discriminatingKeyFeature: e.discriminatingKeyFeature } : {}),
+          ...(e.associatedFindings !== undefined ? { associatedFindings: e.associatedFindings } : {}),
+          ...(e.complicationsSeriousAlternatives !== undefined ? { complicationsSeriousAlternatives: e.complicationsSeriousAlternatives } : {}),
         };
         diffs[e.differentialIndex] = updated;
         changed = true;

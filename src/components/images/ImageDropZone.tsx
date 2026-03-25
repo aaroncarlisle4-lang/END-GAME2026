@@ -36,7 +36,7 @@ export function ImageDropZone({
   onTextDrop,
   differentialOptions = [],
 }: ImageDropZoneProps) {
-  const { uploadFile, addByUrl, addByUrlBatch, isUploading, batchProgress, error } =
+  const { uploadFileToS3, addByUrl, addByUrlBatch, isUploading, batchProgress, error } =
     useImageUpload(sourceType, sourceId);
   const [isDragging, setIsDragging] = useState(false);
   const [showUrlInput, setShowUrlInput] = useState(false);
@@ -94,7 +94,7 @@ export function ImageDropZone({
       for (const file of files) {
         if (!ACCEPTED_TYPES.includes(file.type)) continue;
         if (file.size > MAX_SIZE) continue;
-        await uploadFile(file, selectedDifferential || undefined);
+        await uploadFileToS3(file, selectedDifferential || undefined);
       }
 
       const text = e.dataTransfer.getData("text/plain");
@@ -107,7 +107,7 @@ export function ImageDropZone({
         }
       }
     },
-    [uploadFile, addByUrl, onTextDrop, selectedDifferential]
+    [uploadFileToS3, addByUrl, onTextDrop, selectedDifferential]
   );
 
   const isDirectImageUrl = (url: string) =>
