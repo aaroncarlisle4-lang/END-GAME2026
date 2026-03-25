@@ -109,6 +109,10 @@ export default defineSchema({
     })),
     // Problem cluster for differential reasoning
     problemCluster: v.optional(v.string()), // e.g. "aggressive bone lesion", "erosive arthropathy", "metabolic bone disease"
+    // Part A enrichment fields (from NotebookLM structured viva)
+    vivaSummary: v.optional(v.string()),           // 2-3 line spot diagnosis style (Section 5)
+    commonPitfalls: v.optional(v.array(v.string())), // Where candidates go wrong (Section 6)
+    nextBestStep: v.optional(v.string()),          // Further imaging / management (Section 7)
   })
     .index("by_longCaseId", ["longCaseId"])
     .index("by_pattern", ["pattern"]),
@@ -236,12 +240,33 @@ export default defineSchema({
     notes: v.optional(v.string()),
   }).index("by_author", ["authorName"]),
 
+  yjlCases: defineTable({
+    playlistId: v.number(),
+    playlistName: v.string(),
+    playlistCategory: v.string(),
+    sortOrder: v.number(),
+    entryId: v.number(),
+    radiopaediaCaseId: v.number(),
+    radiopaediaCaseUrl: v.string(),
+    title: v.string(),
+    studyIds: v.array(v.number()),
+    presentation: v.optional(v.string()),
+    findings: v.optional(v.string()),
+    top3Differentials: v.array(v.string()),
+    discriminatorId: v.optional(v.id("discriminators")),
+    attribution: v.optional(v.string()),
+  })
+    .index("by_category", ["playlistCategory"])
+    .index("by_playlist", ["playlistId"])
+    .index("by_caseId", ["radiopaediaCaseId"]),
+
   studyImages: defineTable({
     sourceType: v.union(
       v.literal("differentialPattern"),
       v.literal("mnemonic"),
       v.literal("chapman"),
-      v.literal("rapidCase")
+      v.literal("rapidCase"),
+      v.literal("yjlCase")
     ),
     sourceId: v.string(),
     storageId: v.optional(v.id("_storage")),
@@ -266,7 +291,8 @@ export default defineSchema({
       v.literal("differentialPattern"),
       v.literal("mnemonic"),
       v.literal("chapman"),
-      v.literal("rapidCase")
+      v.literal("rapidCase"),
+      v.literal("yjlCase")
     ),
     sourceId: v.string(),
     caseGroup: v.string(),

@@ -70,6 +70,12 @@ const ROW_CONFIG: Record<string, { label: string; icon: any; color: string; bg: 
   },
 };
 
+// Rows that span all columns (pattern-level, not per-differential)
+const PATTERN_ROWS: { key: string; label: string; icon: any; color: string; bg: string; emptyText: string }[] = [
+  { key: "commonPitfalls", label: "COMMON PITFALLS", icon: AlertTriangle, color: "text-orange-700", bg: "bg-orange-50", emptyText: "No pitfalls recorded" },
+  { key: "nextBestStep", label: "NEXT BEST STEP", icon: Info, color: "text-indigo-700", bg: "bg-indigo-50", emptyText: "No next step recorded" },
+];
+
 /**
  * Intelligent medical text parser for rich formatting
  */
@@ -667,6 +673,40 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
                                     </td>
                                   );
                                 })}
+                              </tr>
+                            );
+                          })}
+                          {/* ── Pattern-level rows (pitfalls, next step) ── */}
+                          {PATTERN_ROWS.map((row) => {
+                            const value = (discriminator as any)[row.key];
+                            if (!value || (Array.isArray(value) && value.length === 0)) return null;
+                            const Icon = row.icon;
+                            return (
+                              <tr key={row.key} className="bg-slate-50/50 border-t border-slate-200">
+                                <td className="sticky left-0 z-20 bg-inherit border-r-2 border-slate-200 p-5 shadow-sm">
+                                  <div className="flex items-start gap-3">
+                                    <div className={`p-2 rounded-lg shrink-0 ${row.bg} ${row.color} border border-current/10 shadow-sm`}>
+                                      <Icon className="w-4 h-4" />
+                                    </div>
+                                    <span className={`text-[10px] font-black uppercase tracking-widest leading-tight pt-1 ${row.color}`}>
+                                      {row.label}
+                                    </span>
+                                  </div>
+                                </td>
+                                <td colSpan={currentDiffs.length} className="px-6 py-5 align-top">
+                                  {Array.isArray(value) ? (
+                                    <ul className="space-y-1.5">
+                                      {value.map((item: string, idx: number) => (
+                                        <li key={idx} className="flex items-start gap-2">
+                                          <span className={`mt-1.5 w-1.5 h-1.5 rounded-full shrink-0 ${row.key === "commonPitfalls" ? "bg-orange-400" : "bg-indigo-400"}`} />
+                                          <span className="text-[13px] text-slate-700 font-medium leading-relaxed">{item}</span>
+                                        </li>
+                                      ))}
+                                    </ul>
+                                  ) : (
+                                    <span className="text-[13px] text-slate-700 font-medium leading-relaxed">{value}</span>
+                                  )}
+                                </td>
                               </tr>
                             );
                           })}

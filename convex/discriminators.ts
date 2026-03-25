@@ -64,6 +64,9 @@ export const create = mutation({
       top3Alignment: v.string(),
     })),
     problemCluster: v.optional(v.string()),
+    vivaSummary: v.optional(v.string()),
+    commonPitfalls: v.optional(v.array(v.string())),
+    nextBestStep: v.optional(v.string()),
   },
   handler: async (ctx, args) => {
     return await ctx.db.insert("discriminators", args);
@@ -101,6 +104,9 @@ export const update = mutation({
     })),
     problemCluster: v.optional(v.string()),
     seriousAlternatives: v.optional(v.array(v.string())),
+    vivaSummary: v.optional(v.string()),
+    commonPitfalls: v.optional(v.array(v.string())),
+    nextBestStep: v.optional(v.string()),
   },
   handler: async (ctx, args) => {
     const { id, ...fields } = args;

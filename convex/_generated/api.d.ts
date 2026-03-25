@@ -59,6 +59,7 @@ import type * as textbookReferences from "../textbookReferences.js";
 import type * as updateCategoryCounts from "../updateCategoryCounts.js";
 import type * as updateFindings from "../updateFindings.js";
 import type * as vivaFramework from "../vivaFramework.js";
+import type * as yjlCases from "../yjlCases.js";
 
 import type {
   ApiFromModules,
@@ -118,6 +119,7 @@ declare const fullApi: ApiFromModules<{
   updateCategoryCounts: typeof updateCategoryCounts;
   updateFindings: typeof updateFindings;
   vivaFramework: typeof vivaFramework;
+  yjlCases: typeof yjlCases;
 }>;
 
 /**

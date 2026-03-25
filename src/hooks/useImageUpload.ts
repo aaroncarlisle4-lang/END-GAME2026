@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useMutation, useAction } from "convex/react";
 import { api } from "../../convex/_generated/api";
 
-type SourceType = "differentialPattern" | "mnemonic" | "chapman" | "rapidCase";
+type SourceType = "differentialPattern" | "mnemonic" | "chapman" | "rapidCase" | "yjlCase";
 
 export function useImageUpload(sourceType: SourceType, sourceId: string) {
   const generateUploadUrl = useMutation(api.studyImages.generateUploadUrl);

@@ -3,7 +3,7 @@ import { useQuery, useMutation } from "convex/react";
 import { api } from "../../convex/_generated/api";
 import { Doc, Id } from "../../convex/_generated/dataModel";
 import { getCategoryMeta } from "../lib/categoryConfig";
-import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target, BookmarkPlus } from "lucide-react";
+import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target, BookmarkPlus, PlayCircle, ExternalLink } from "lucide-react";
 import { HighlightableText } from "../components/ui/HighlightableText";
 import { useKnowledge } from "../lib/knowledgeContext";
 import { KnowledgeTrigger } from "../components/ui/KnowledgeTrigger";
@@ -54,9 +54,31 @@ interface ChapmanACE {
   additionalNotes?: string;
 }
 
+interface YJLCase {
+  _id: string;
+  playlistId: number;
+  playlistName: string;
+  playlistCategory: string;
+  sortOrder: number;
+  radiopaediaCaseUrl: string;
+  title: string;
+  presentation?: string;
+  findings?: string;
+  top3Differentials: string[];
+  discriminatorId?: string;
+  attribution?: string;
+}
+
 const CATEGORY_ORDER = [
   "Chest", "GI", "GU", "MSK", "ENT", "Neuro",
   "Paeds", "US", "Gynae", "VIR", "NucMed", "Breast", "Cardiac"
+];
+
+const YJL_CATEGORIES = [
+  "Spine", "Chest", "GI", "GI Oncology", "GU", "Head and Neck",
+  "MSK", "Multi-system", "Neuro", "Nuclear Medicine", "Pediatrics",
+  "Abdominal Trauma", "Acute Pancreatitis", "Colorectal",
+  "GI Emergencies", "HPB", "HPB Acute", "Upper GI"
 ];
 
 function PatternCard({
@@ -443,12 +465,137 @@ function ChapmanCard({
   );
 }
 
+function YJLCard({
+  c,
+  discriminator,
+  discriminatorOpen,
+  setDiscriminatorOpen,
+  onViewImages,
+  onAddNote,
+  pendingNoteCount,
+}: {
+  c: YJLCase;
+  discriminator?: Doc<"discriminators"> | null;
+  discriminatorOpen?: boolean;
+  setDiscriminatorOpen?: (open: boolean) => void;
+  onViewImages?: () => void;
+  onAddNote?: () => void;
+  pendingNoteCount?: number;
+}) {
+  const [expanded, setExpanded] = useState(false);
+  const meta = getCategoryMeta(c.playlistCategory) ?? getCategoryMeta("Chest");
+
+  return (
+    <div className={`rounded-xl border ${meta.accentBorder} bg-white overflow-hidden transition-shadow hover:shadow-md flex flex-col`}>
+      <div className="flex-1">
+        <div
+          role="button"
+          tabIndex={0}
+          onClick={() => setExpanded((e) => !e)}
+          onKeyDown={(e) => e.key === "Enter" && setExpanded((e) => !e)}
+          className="w-full text-left px-5 py-4 cursor-pointer"
+        >
+          <div className="flex items-start justify-between gap-3">
+            <div className="flex-1 min-w-0">
+              <div className="flex items-center gap-2 mb-1.5">
+                <span className={`text-[10px] font-bold uppercase px-2 py-0.5 rounded ${meta.accent} ${meta.accentText}`}>
+                  {c.playlistCategory}
+                </span>
+                <span className="text-xs text-gray-400 font-medium">#{c.sortOrder}</span>
+              </div>
+              <h3 className="font-bold text-gray-900 text-sm leading-snug">{c.title}</h3>
+              <p className="text-[10px] text-gray-400 mt-0.5 font-medium truncate">{c.playlistName}</p>
+            </div>
+            <div className="shrink-0 pt-1 text-gray-400">
+              {expanded ? <ChevronUp className="w-4 h-4" /> : <ChevronDown className="w-4 h-4" />}
+            </div>
+          </div>
+
+          {!expanded && c.top3Differentials.length > 0 && (
+            <div className="mt-3 space-y-1">
+              {c.top3Differentials.slice(0, 3).map((dx, i) => (
+                <div key={i} className="flex items-center gap-2">
+                  <span className={`shrink-0 w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-bold ${
+                    i === 0 ? "bg-amber-100 text-amber-700" :
+                    i === 1 ? "bg-slate-100 text-slate-600" :
+                    "bg-orange-50 text-orange-600"
+                  }`}>{i + 1}</span>
+                  <span className="text-sm text-gray-700">{dx}</span>
+                </div>
+              ))}
+            </div>
+          )}
+
+          {!expanded && c.top3Differentials.length === 0 && (
+            <p className="mt-2 text-[10px] text-slate-400 italic">No differentials yet</p>
+          )}
+        </div>
+
+        {expanded && (
+          <div className="px-5 pb-4 border-t border-gray-100 pt-3 space-y-3">
+            {c.presentation && (
+              <div>
+                <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">Clinical History</p>
+                <p className="text-sm text-gray-700 leading-relaxed">{c.presentation}</p>
+              </div>
+            )}
+            {c.findings && (
+              <div>
+                <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">Discussion</p>
+                <p className="text-sm text-gray-600 leading-relaxed line-clamp-6">{c.findings}</p>
+              </div>
+            )}
+            <a
+              href={`https://radiopaedia.org${c.radiopaediaCaseUrl}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              onClick={(e) => e.stopPropagation()}
+              className="inline-flex items-center gap-1.5 text-[11px] font-bold text-teal-600 hover:text-teal-700 transition-colors"
+            >
+              <ExternalLink className="w-3 h-3" />
+              View on Radiopaedia
+            </a>
+          </div>
+        )}
+      </div>
+
+      {discriminator && (
+        <div className="px-5 py-3 border-t border-gray-50 bg-slate-50/50">
+          {onAddNote && (
+            <div className="flex justify-end mb-2">
+              <button
+                onClick={(e) => { e.stopPropagation(); onAddNote(); }}
+                className="relative flex items-center gap-1 px-2.5 py-1.5 text-[10px] font-bold text-amber-600 bg-amber-50 border border-amber-200 rounded-lg hover:bg-amber-100 transition-colors"
+              >
+                <BookmarkPlus className="w-3 h-3" />
+                Add Note
+                {!!pendingNoteCount && (
+                  <span className="ml-1 bg-amber-500 text-white text-[9px] font-black w-4 h-4 flex items-center justify-center rounded-full leading-none">
+                    {pendingNoteCount}
+                  </span>
+                )}
+              </button>
+            </div>
+          )}
+          <InlineDiscriminators
+            discriminator={discriminator}
+            externalOpen={discriminatorOpen}
+            setExternalOpen={setDiscriminatorOpen}
+            onViewImages={onViewImages}
+          />
+        </div>
+      )}
+    </div>
+  );
+}
+
 export function DifferentialsPage() {
-  const [activeTab, setActiveTab] = useState<"highyield" | "patterns" | "mnemonics" | "chapman">("highyield");
+  const [activeTab, setActiveTab] = useState<"highyield" | "patterns" | "mnemonics" | "yjl2b" | "chapman">("highyield");
   const allHighYield = useQuery(api.highYield.getHighYieldClusters);
   const allPatterns = useQuery(api.differentialPatterns.list) as DifferentialPattern[] | undefined;
   const allMnemonics = useQuery(api.mnemonics.list) as Mnemonic[] | undefined;
   const allChapman = useQuery(api.chapman.list) as ChapmanACE[] | undefined;
+  const allYJL = useQuery(api.yjlCases.list) as YJLCase[] | undefined;
   const allDiscriminators = useQuery(api.discriminators.list) as Doc<"discriminators">[] | undefined;
 
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
@@ -459,7 +606,7 @@ export function DifferentialsPage() {
   // Image library state
   const [viewerOpen, setViewerOpen] = useState(false);
   const [viewerTarget, setViewerTarget] = useState<{
-    sourceType: "differentialPattern" | "mnemonic" | "chapman";
+    sourceType: "differentialPattern" | "mnemonic" | "chapman" | "yjlCase";
     sourceId: string;
     title: string;
   } | null>(null);
@@ -552,6 +699,14 @@ export function DifferentialsPage() {
       : "skip"
   );
 
+  const yjlIds = useMemo(() => allYJL?.map((c) => c._id) ?? [], [allYJL]);
+  const yjlImageCounts = useQuery(
+    api.studyImages.batchGetImageCounts,
+    yjlIds.length > 0
+      ? { sourceType: "yjlCase" as const, sourceIds: yjlIds }
+      : "skip"
+  );
+
   // Fetch images for the viewer target
   const viewerImages = useQuery(
     api.studyImages.listBySource,
@@ -561,7 +716,7 @@ export function DifferentialsPage() {
   );
 
   const handleViewImages = (
-    sourceType: "differentialPattern" | "mnemonic" | "chapman",
+    sourceType: "differentialPattern" | "mnemonic" | "chapman" | "yjlCase",
     sourceId: string,
     title: string
   ) => {
@@ -644,6 +799,38 @@ export function DifferentialsPage() {
     return results;
   }, [allChapman, selectedCategory, searchQuery]);
 
+  const filteredYJL = useMemo(() => {
+    if (!allYJL) return [];
+    let results = allYJL;
+    if (selectedCategory) results = results.filter((c) => c.playlistCategory === selectedCategory);
+    if (searchQuery.trim()) {
+      const q = searchQuery.toLowerCase();
+      results = results.filter(
+        (c) =>
+          c.title.toLowerCase().includes(q) ||
+          c.top3Differentials.some((d) => d.toLowerCase().includes(q)) ||
+          c.playlistName.toLowerCase().includes(q)
+      );
+    }
+    return results;
+  }, [allYJL, selectedCategory, searchQuery]);
+
+  const groupedYJL = useMemo(() => {
+    const map = new Map<string, YJLCase[]>();
+    for (const c of filteredYJL) {
+      const arr = map.get(c.playlistCategory) || [];
+      arr.push(c);
+      map.set(c.playlistCategory, arr);
+    }
+    const entries = Array.from(map.entries());
+    entries.sort((a, b) => {
+      const ai = YJL_CATEGORIES.indexOf(a[0]);
+      const bi = YJL_CATEGORIES.indexOf(b[0]);
+      return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
+    });
+    return entries;
+  }, [filteredYJL]);
+
   const filteredHighYield = useMemo(() => {
     if (!allHighYield) return [];
     let results = allHighYield;
@@ -705,6 +892,15 @@ export function DifferentialsPage() {
   }, [filteredHighYield]);
 
   const availableCategories = useMemo(() => {
+    if (activeTab === "yjl2b") {
+      if (!allYJL) return [];
+      const cats = Array.from(new Set(allYJL.map((c) => c.playlistCategory)));
+      return cats.sort((a, b) => {
+        const ai = YJL_CATEGORIES.indexOf(a);
+        const bi = YJL_CATEGORIES.indexOf(b);
+        return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
+      });
+    }
     const currentList = activeTab === "highyield" ? allHighYield : activeTab === "patterns" ? allPatterns : activeTab === "mnemonics" ? allMnemonics : allChapman;
     if (!currentList) return [];
     const cats = Array.from(new Set(currentList.map((x: any) => x.categoryAbbreviation || x.category)));
@@ -713,9 +909,9 @@ export function DifferentialsPage() {
       const bi = CATEGORY_ORDER.indexOf(b);
       return (ai === -1 ? 99 : ai) - (bi === -1 ? 99 : bi);
     });
-  }, [allPatterns, allMnemonics, allChapman, allHighYield, activeTab]);
+  }, [allPatterns, allMnemonics, allChapman, allHighYield, allYJL, activeTab]);
 
-  if (allPatterns === undefined || allMnemonics === undefined || allChapman === undefined || allHighYield === undefined) {
+  if (allPatterns === undefined || allMnemonics === undefined || allChapman === undefined || allHighYield === undefined || allYJL === undefined) {
     return (
       <div className="space-y-4">
         <div className="h-8 w-72 bg-gray-100 rounded animate-pulse" />
@@ -740,6 +936,8 @@ export function DifferentialsPage() {
               ? `Exploring ${allPatterns.length} O'Brien High-Yield Patterns`
               : activeTab === "mnemonics"
               ? `Mastering ${allMnemonics.length} Viva Mnemonics`
+              : activeTab === "yjl2b"
+              ? `Reviewing ${allYJL.length} YJL Radiopaedia Cases`
               : `Reviewing ${allChapman.length} Chapman ACE Clusters`}
           </p>
         </div>
@@ -749,6 +947,7 @@ export function DifferentialsPage() {
             { id: "highyield", label: "Highest Yield", icon: Target },
             { id: "patterns", label: "Top 3 Patterns", icon: ListTree },
             { id: "mnemonics", label: "Mnemonics", icon: Lightbulb },
+            { id: "yjl2b", label: "YJL 2B", icon: PlayCircle },
             { id: "chapman", label: "ACE Differentials", icon: BookOpen }
           ].map((tab) => (
             <button
@@ -776,10 +975,12 @@ export function DifferentialsPage() {
               placeholder={
                 activeTab === "highyield"
                   ? "Search high-yield clusters..."
-                  : activeTab === "patterns" 
-                  ? "Search O'Brien patterns..." 
-                  : activeTab === "mnemonics" 
-                  ? "Search viva mnemonics..." 
+                  : activeTab === "patterns"
+                  ? "Search O'Brien patterns..."
+                  : activeTab === "mnemonics"
+                  ? "Search viva mnemonics..."
+                  : activeTab === "yjl2b"
+                  ? "Search YJL cases by title or differential..."
                   : "Search Chapman's clusters..."
               }
               value={searchQuery}
@@ -1020,6 +1221,52 @@ export function DifferentialsPage() {
           </div>
         )}
 
+        {activeTab === "yjl2b" && (
+          <div className="space-y-12 animate-in fade-in duration-500">
+            {groupedYJL.map(([category, cases]) => (
+              <div key={category}>
+                <div className="flex items-end gap-3 mb-6 border-b border-slate-100 pb-2">
+                  <h2 className="text-xl font-black text-slate-900 uppercase tracking-tight">{category}</h2>
+                  <span className="text-[10px] font-black bg-slate-100 text-slate-500 px-2 py-1 rounded-md mb-1.5">{cases.length} CASES</span>
+                </div>
+                <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
+                  {cases.sort((a, b) => a.sortOrder - b.sortOrder).map((c) => {
+                    const discriminator = c.discriminatorId
+                      ? allDiscriminators?.find((d) => d._id === c.discriminatorId)
+                      : patternMap.get(c.title.toLowerCase().trim());
+                    return (
+                      <ImageDropZone
+                        key={c._id}
+                        sourceType="yjlCase"
+                        sourceId={c._id}
+                        imageCount={yjlImageCounts?.[c._id] ?? 0}
+                        onViewImages={() => handleViewImages("yjlCase", c._id, c.title)}
+                        differentialOptions={c.top3Differentials}
+                      >
+                        <YJLCard
+                          c={c}
+                          discriminator={discriminator}
+                          discriminatorOpen={openDiscriminatorId === c._id}
+                          setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? c._id : null)}
+                          onViewImages={() => handleViewImages("yjlCase", c._id, c.title)}
+                          onAddNote={discriminator ? () => setNoteTarget(discriminator) : undefined}
+                          pendingNoteCount={discriminator ? (pendingCounts[discriminator._id] ?? 0) : 0}
+                        />
+                      </ImageDropZone>
+                    );
+                  })}
+                </div>
+              </div>
+            ))}
+            {groupedYJL.length === 0 && (
+              <div className="text-center py-24 bg-white rounded-[3rem] border-2 border-dashed border-slate-100">
+                <PlayCircle className="w-12 h-12 text-slate-200 mx-auto mb-4" />
+                <p className="text-lg font-bold text-slate-400">No YJL cases for this filter</p>
+              </div>
+            )}
+          </div>
+        )}
+
         {activeTab === "chapman" && (
           <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-4 animate-in fade-in duration-500">
             {filteredChapman
@@ -1117,6 +1364,19 @@ export function DifferentialsPage() {
             setViewerOpen(false);
           }
         }}
+        differentialFolders={(() => {
+          if (!viewerTarget || viewerTarget.sourceType !== "yjlCase") return undefined;
+          const yjlCase = allYJL?.find(c => c._id === viewerTarget.sourceId);
+          if (!yjlCase) return undefined;
+          return [yjlCase.title, ...yjlCase.top3Differentials, "General / Uncategorized"];
+        })()}
+        vivaSummary={(() => {
+          if (!viewerTarget || viewerTarget.sourceType !== "yjlCase") return undefined;
+          const yjlCase = allYJL?.find(c => c._id === viewerTarget.sourceId);
+          if (!yjlCase?.discriminatorId) return undefined;
+          const disc = allDiscriminators?.find(d => d._id === yjlCase.discriminatorId);
+          return disc?.vivaSummary ?? undefined;
+        })()}
       />
     </div>
   );

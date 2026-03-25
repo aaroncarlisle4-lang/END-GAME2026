@@ -5,7 +5,8 @@ const sourceTypeValidator = v.union(
   v.literal("differentialPattern"),
   v.literal("mnemonic"),
   v.literal("chapman"),
-  v.literal("rapidCase")
+  v.literal("rapidCase"),
+  v.literal("yjlCase")
 );
 
 /**

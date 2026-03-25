@@ -12,7 +12,7 @@ function parseUrls(text: string): string[] {
     .filter((s) => s.startsWith("https://"));
 }
 
-type SourceType = "differentialPattern" | "mnemonic" | "chapman" | "rapidCase";
+type SourceType = "differentialPattern" | "mnemonic" | "chapman" | "rapidCase" | "yjlCase";
 
 const ACCEPTED_TYPES = ["image/jpeg", "image/png", "image/webp"];
 const MAX_SIZE = 10 * 1024 * 1024; // 10MB

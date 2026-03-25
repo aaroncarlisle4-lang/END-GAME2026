@@ -41,6 +41,10 @@ interface RapidImageViewerProps {
   title: string;
   onViewDiscriminators?: () => void;
   hasDiscriminator?: boolean;
+  /** Pre-assigned differential folder names (title + top3 + "General / Uncategorized") */
+  differentialFolders?: string[];
+  /** Viva summary text to show in the primary (title) folder */
+  vivaSummary?: string;
 }
 
 interface CaseCluster {
@@ -63,6 +67,8 @@ export function RapidImageViewer({
   title,
   onViewDiscriminators,
   hasDiscriminator = false,
+  differentialFolders,
+  vivaSummary,
 }: RapidImageViewerProps) {
   const deleteImage = useMutation(api.studyImages.deleteImage);
   const deleteStack = useMutation(api.studyImages.deleteStack);
@@ -116,6 +122,24 @@ export function RapidImageViewer({
       }
     }
 
+    // If differentialFolders are provided, pre-create buckets in order
+    if (differentialFolders && differentialFolders.length > 0) {
+      const result: Bucket[] = [];
+      for (const folderName of differentialFolders) {
+        if (folderName === "General / Uncategorized") continue;
+        const existing = bucketMap.get(folderName);
+        result.push({ name: folderName, clusters: existing || [] });
+        bucketMap.delete(folderName);
+      }
+      // Add any remaining buckets that weren't in differentialFolders
+      for (const [name, clusters] of bucketMap) {
+        result.push({ name, clusters });
+      }
+      // Always add General / Uncategorized at the end
+      result.push({ name: "General / Uncategorized", clusters: unbucketed });
+      return result;
+    }
+
     const result: Bucket[] = [];
     for (const [name, clusters] of bucketMap) {
       result.push({ name, clusters });
@@ -124,7 +148,7 @@ export function RapidImageViewer({
       result.push({ name: "General / Uncategorized", clusters: unbucketed });
     }
     return result;
-  }, [allClusters]);
+  }, [allClusters, differentialFolders]);
 
   const [activeBucketIndex, setActiveBucketId] = useState(0);
   const [caseIndex, setCaseIndex] = useState(0);
@@ -553,8 +577,7 @@ export function RapidImageViewer({
                       className="flex items-center gap-2 px-3 py-1.5 bg-teal-600 hover:bg-teal-500 text-white rounded-lg shadow-lg shadow-teal-900/40 transition-all active:scale-95 mr-2"
                     >
                       <GitBranch className="w-3.5 h-3.5" />
-                      <span className="text-[10px] font-black uppercase tracking-widest">Compare</span>
-                      <Sparkles className="w-2.5 h-2.5 text-teal-200" />
+                      <span className="text-[10px] font-black uppercase tracking-widest">Discriminator Matrix</span>
                     </button>
                   )}
                   <button
@@ -625,8 +648,8 @@ export function RapidImageViewer({
                         }`}
                       >
                         <div className={`w-2.5 h-2.5 rounded-full shrink-0 transition-transform duration-300 ${
-                          activeBucketIndex === idx 
-                            ? 'bg-teal-500 shadow-[0_0_12px_rgba(20,184,166,0.9)] scale-110' 
+                          activeBucketIndex === idx
+                            ? 'bg-teal-500 shadow-[0_0_12px_rgba(20,184,166,0.9)] scale-110'
                             : 'bg-slate-700 group-hover:bg-slate-500'
                         }`} />
                         <span className={`text-[12px] font-black uppercase tracking-normal text-left leading-tight transition-colors ${
@@ -634,8 +657,16 @@ export function RapidImageViewer({
                         }`}>
                           {bucket.name}
                         </span>
+                        <span className="text-[9px] text-slate-600 font-mono">{bucket.clusters.length || 0}</span>
                       </button>
                     ))}
+                    {/* Viva Summary — shown in the primary (first) folder */}
+                    {vivaSummary && activeBucketIndex === 0 && (
+                      <div className="mx-4 mt-4 p-4 bg-teal-950/50 border border-teal-800/40 rounded-xl">
+                        <p className="text-[9px] font-black text-teal-500 uppercase tracking-[0.2em] mb-2">Viva Summary</p>
+                        <p className="text-[11px] text-teal-200/90 leading-relaxed italic">{vivaSummary}</p>
+                      </div>
+                    )}
                   </div>
                 )}
 

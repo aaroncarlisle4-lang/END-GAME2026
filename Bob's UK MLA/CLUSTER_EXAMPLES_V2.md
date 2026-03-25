@@ -2,7 +2,7 @@
 
 **Generated:** 2026-03-19
 **Pipeline version:** extract_clusters.py + stage2_structure.py with framework detection + sub-site merging
-**Total clusters:** 5,412 · differential: 5,058 (93.5%) · framework: 50 (0.9%) · mixed: 304 (5.6%)
+****Total clusters:** 5,412 · differential: 5,058 (93.5%) · framework: 50 (0.9%) · mixed: 304 (5.6%)
 **Sub-site items merged:** 362
 
 These 10 examples demonstrate all three cluster types and the sub-site merge fix.
