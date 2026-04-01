@@ -7,6 +7,37 @@ Usage: python3 scripts/enrich_yjl2b_batch.py <category>
 import subprocess, json, re, sys, time, os
 os.environ["PYTHONUNBUFFERED"] = "1"
 
+def check_auth():
+    """Check if NotebookLM auth is still valid. Returns True/False."""
+    try:
+        result = subprocess.run(
+            ["notebooklm", "auth", "check"],
+            capture_output=True, text=True, timeout=15
+        )
+        return result.returncode == 0 and "pass" in result.stdout.lower()
+    except Exception:
+        return False
+
+def wait_for_auth():
+    """Pause and wait for user to refresh auth. Returns True when ready, False to abort."""
+    print("\n" + "!" * 60)
+    print("  AUTH EXPIRED — cookies need refreshing")
+    print("  Run: python3 scripts/refresh_notebooklm_auth.py")
+    print("  Then press Enter here to resume, or 'q' to quit.")
+    print("!" * 60)
+    try:
+        response = input("\n  Press Enter to resume (or 'q' to quit): ").strip().lower()
+        if response == 'q':
+            return False
+        if check_auth():
+            print("  Auth restored! Resuming...")
+            return True
+        else:
+            print("  Auth still invalid. Stopping batch.")
+            return False
+    except (EOFError, KeyboardInterrupt):
+        return False
+
 def run_convex(func, args_dict):
     """Run a Convex function and return parsed JSON."""
     result = subprocess.run(
@@ -152,10 +183,23 @@ def main():
         print("  ✓ All cases enriched!")
         return
 
+    # Pre-flight auth check
+    print("  Checking auth...")
+    if not check_auth():
+        print("  ⚠ Auth not valid. Run: python3 scripts/refresh_notebooklm_auth.py")
+        if not wait_for_auth():
+            return
+
     success = 0
     failed = []
 
     for i, case in enumerate(unenriched):
+        # Periodic auth check every 10 cases
+        if i > 0 and i % 10 == 0:
+            if not check_auth():
+                print(f"\n  ⚠ Auth expired after {success} cases")
+                if not wait_for_auth():
+                    break
         try:
             ok = enrich_case(case)
             if ok:
@@ -166,9 +210,18 @@ def main():
             print(f"  ✗ ERROR: {e}")
             failed.append(case["title"])
             # Check if auth expired
-            if "Authentication expired" in str(e) or "Redirected to" in str(e):
-                print("\n⚠ Auth expired — stopping batch. Re-authenticate and resume.")
-                break
+            if "Authentication expired" in str(e) or "Redirected to" in str(e) or "auth" in str(e).lower():
+                if not wait_for_auth():
+                    break
+                # Retry this case after auth refresh
+                try:
+                    ok = enrich_case(case)
+                    if ok:
+                        success += 1
+                        failed.pop()  # Remove from failed list
+                except Exception as e2:
+                    print(f"  ✗ Retry also failed: {e2}")
+                    break
 
         # Rate limit pause between queries
         if i < len(unenriched) - 1:
