@@ -16,9 +16,12 @@ import {
   ZoomIn,
   ZoomOut,
   Pencil,
+  Upload,
+  Camera,
 } from "lucide-react";
 import { ImageAnnotationLayer } from "./ImageAnnotationLayer";
 import { useMutation } from "convex/react";
+import { useImageUpload } from "../../hooks/useImageUpload";
 import { api } from "../../../convex/_generated/api";
 import type { Id } from "../../../convex/_generated/dataModel";
 
@@ -45,6 +48,13 @@ interface RapidImageViewerProps {
   differentialFolders?: string[];
   /** Viva summary text to show in the primary (title) folder */
   vivaSummary?: string;
+  /** Source type + ID for inline image import */
+  sourceType?: "differentialPattern" | "mnemonic" | "chapman" | "rapidCase" | "yjlCase";
+  sourceId?: string;
+  /** Primary match dominant imaging finding (from discriminator matrix) */
+  dominantImagingFinding?: string;
+  /** Primary match key discriminating feature (from discriminator matrix) */
+  discriminatingKeyFeature?: string;
 }
 
 interface CaseCluster {
@@ -69,12 +79,24 @@ export function RapidImageViewer({
   hasDiscriminator = false,
   differentialFolders,
   vivaSummary,
+  sourceType,
+  sourceId,
+  dominantImagingFinding,
+  discriminatingKeyFeature,
 }: RapidImageViewerProps) {
   const deleteImage = useMutation(api.studyImages.deleteImage);
   const deleteStack = useMutation(api.studyImages.deleteStack);
   const deleteManifest = useMutation(api.studyImages.deleteManifest);
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [dragOverCenter, setDragOverCenter] = useState(false);
+
+  // Inline import state
+  const canImport = !!(sourceType && sourceId);
+  const imgUpload = useImageUpload(sourceType || "yjlCase", sourceId || "");
+  const [showImport, setShowImport] = useState(false);
+  const [importUrls, setImportUrls] = useState("");
+  const [importLabel, setImportLabel] = useState("");
+  const [importAttribution, setImportAttribution] = useState("");
 
   // 1. Group images into CaseClusters (stacks/standalone)
   const allClusters = useMemo<CaseCluster[]>(() => {
@@ -660,13 +682,6 @@ export function RapidImageViewer({
                         <span className="text-[9px] text-slate-600 font-mono">{bucket.clusters.length || 0}</span>
                       </button>
                     ))}
-                    {/* Viva Summary — shown in the primary (first) folder */}
-                    {vivaSummary && activeBucketIndex === 0 && (
-                      <div className="mx-4 mt-4 p-4 bg-teal-950/50 border border-teal-800/40 rounded-xl">
-                        <p className="text-[9px] font-black text-teal-500 uppercase tracking-[0.2em] mb-2">Viva Summary</p>
-                        <p className="text-[11px] text-teal-200/90 leading-relaxed italic">{vivaSummary}</p>
-                      </div>
-                    )}
                   </div>
                 )}
 
@@ -684,7 +699,83 @@ export function RapidImageViewer({
                       <p className="text-[11px] font-black text-white leading-snug uppercase tracking-tight">
                         {activeBucket.name}
                       </p>
+                      {/* Import button — auto-targets active folder */}
+                      {canImport && (
+                        <button
+                          onClick={() => setShowImport(v => !v)}
+                          className={`mt-2 w-full flex items-center justify-center gap-1.5 px-2 py-2 rounded-lg text-[10px] font-black uppercase tracking-widest transition-all ${
+                            showImport
+                              ? "bg-teal-500 text-white"
+                              : "bg-teal-500/20 text-teal-400 hover:bg-teal-500/30 border border-teal-500/20"
+                          }`}
+                        >
+                          <Upload className="w-3 h-3" />
+                          Import
+                        </button>
+                      )}
                     </div>
+
+                    {/* Inline import panel */}
+                    {showImport && canImport && (
+                      <div className="px-2 py-3 bg-slate-900/60 rounded-xl border border-teal-500/20 space-y-2">
+                        <p className="text-[8px] font-black text-teal-400 uppercase tracking-widest px-1">
+                          Import to: {activeBucket.name}
+                        </p>
+                        <textarea
+                          value={importUrls}
+                          onChange={(e) => {
+                            setImportUrls(e.target.value);
+                            // Auto-detect attribution
+                            for (const line of e.target.value.split("\n")) {
+                              const t = line.trim();
+                              if (t.startsWith("ATTR:")) { setImportAttribution(t.replace("ATTR:", "").trim()); break; }
+                              if (t.startsWith("Case courtesy of")) { setImportAttribution(t); break; }
+                            }
+                          }}
+                          placeholder="Paste URLs..."
+                          rows={3}
+                          className="w-full text-[10px] px-2 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-white placeholder-slate-500 font-mono resize-none focus:border-teal-500 focus:ring-1 focus:ring-teal-500/30"
+                          autoFocus
+                        />
+                        <input
+                          type="text"
+                          value={importLabel}
+                          onChange={(e) => setImportLabel(e.target.value)}
+                          placeholder="Label (optional)"
+                          className="w-full text-[10px] px-2 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-white placeholder-slate-500 focus:border-teal-500"
+                        />
+                        <input
+                          type="text"
+                          value={importAttribution}
+                          onChange={(e) => setImportAttribution(e.target.value)}
+                          placeholder="Credit (optional)"
+                          className="w-full text-[10px] px-2 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-white placeholder-slate-500 focus:border-teal-500"
+                        />
+                        {imgUpload.batchProgress && (
+                          <p className="text-[9px] text-teal-400 font-mono px-1">
+                            {imgUpload.batchProgress.done}/{imgUpload.batchProgress.total}
+                          </p>
+                        )}
+                        <button
+                          onClick={async () => {
+                            const urls = importUrls.split(/[\n,]+/).map(s => s.trim()).filter(s => s.startsWith("https://"));
+                            if (urls.length === 0) return;
+                            const bucket = activeBucket.name;
+                            const label = importLabel.trim() || "Image Stack";
+                            const group = `${bucket} - ${label} [${Date.now()}]`;
+                            await imgUpload.addByUrlBatch(urls, group, label, importAttribution || undefined);
+                            setImportUrls("");
+                            setImportLabel("");
+                            setImportAttribution("");
+                            setShowImport(false);
+                          }}
+                          disabled={!importUrls.includes("https://") || imgUpload.isUploading}
+                          className="w-full px-2 py-2 bg-teal-500 text-white text-[10px] font-black uppercase tracking-widest rounded-lg hover:bg-teal-400 disabled:opacity-40 transition-all active:scale-95"
+                        >
+                          {imgUpload.isUploading ? "Importing..." : `Import ${importUrls.split(/[\n,]+/).filter(s => s.trim().startsWith("https://")).length} Slices`}
+                        </button>
+                      </div>
+                    )}
 
                     {thumbnailItems.map((img, i) => {
                       if (!img) return null;
@@ -780,6 +871,46 @@ export function RapidImageViewer({
                     }
                   }}
                 >
+                  {/* Viva Summary — centered top, primary folder only */}
+                  {vivaSummary && activeBucketIndex === 0 && (
+                    <div className="absolute top-4 left-1/2 -translate-x-1/2 z-30 pointer-events-none max-w-[650px] w-full px-4">
+                      <div className="px-6 py-3 bg-slate-900/90 backdrop-blur-md border border-teal-500/30 rounded-2xl shadow-2xl">
+                        <p className="text-[9px] font-black text-teal-400 uppercase tracking-[0.25em] mb-1.5 text-center">Viva Summary</p>
+                        <p className="text-sm text-teal-100/95 leading-relaxed text-center font-medium italic">{vivaSummary}</p>
+                      </div>
+                    </div>
+                  )}
+                  {/* Dominant Imaging + Key Discriminating — far right sidebar, primary folder only */}
+                  {activeBucketIndex === 0 && (dominantImagingFinding || discriminatingKeyFeature) && (
+                    <div className="absolute top-4 right-3 z-30 pointer-events-none w-[440px] flex flex-col gap-2">
+                      {dominantImagingFinding && (
+                        <div className="px-4 py-3 bg-slate-900/90 backdrop-blur-md border border-blue-500/30 rounded-2xl shadow-2xl">
+                          <p className="text-[9px] font-black text-blue-400 uppercase tracking-[0.25em] mb-2">Dominant Imaging</p>
+                          <ul className="space-y-1">
+                            {dominantImagingFinding.split(/[.;]\s+/).filter(Boolean).map((point, i) => (
+                              <li key={i} className="flex items-start gap-1.5">
+                                <span className="mt-1.5 w-1 h-1 rounded-full bg-blue-400 shrink-0" />
+                                <span className="text-sm text-blue-100/90 leading-snug font-medium">{point.replace(/\.$/, '').trim()}</span>
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+                      {discriminatingKeyFeature && (
+                        <div className="px-4 py-3 bg-slate-900/90 backdrop-blur-md border border-emerald-500/30 rounded-2xl shadow-2xl">
+                          <p className="text-[9px] font-black text-emerald-400 uppercase tracking-[0.25em] mb-2">Key Discriminating</p>
+                          <ul className="space-y-1">
+                            {discriminatingKeyFeature.split(/[.;]\s+/).filter(Boolean).map((point, i) => (
+                              <li key={i} className="flex items-start gap-1.5">
+                                <span className="mt-1.5 w-1 h-1 rounded-full bg-emerald-400 shrink-0" />
+                                <span className="text-sm text-emerald-100/90 leading-snug font-medium">{point.replace(/\.$/, '').trim()}</span>
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
+                    </div>
+                  )}
                   {isLoading ? (
                     <div className="flex flex-col items-center gap-3">
                       <Loader2 className="w-10 h-10 text-teal-400 animate-spin" />

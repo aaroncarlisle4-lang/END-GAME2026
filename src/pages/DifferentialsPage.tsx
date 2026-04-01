@@ -7,7 +7,7 @@ import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, 
 import { HighlightableText } from "../components/ui/HighlightableText";
 import { useKnowledge } from "../lib/knowledgeContext";
 import { KnowledgeTrigger } from "../components/ui/KnowledgeTrigger";
-import { InlineDiscriminators } from "../components/case/InlineDiscriminators";
+import { InlineDiscriminators, YJL2B_ROW_ORDER } from "../components/case/InlineDiscriminators";
 import { ImageDropZone } from "../components/images/ImageDropZone";
 import { RapidImageViewer } from "../components/images/RapidImageViewer";
 import { useTextIngestion } from "../hooks/useTextIngestion";
@@ -582,6 +582,7 @@ function YJLCard({
             externalOpen={discriminatorOpen}
             setExternalOpen={setDiscriminatorOpen}
             onViewImages={onViewImages}
+            rowOrder={YJL2B_ROW_ORDER}
           />
         </div>
       )}
@@ -1241,7 +1242,7 @@ export function DifferentialsPage() {
                         sourceId={c._id}
                         imageCount={yjlImageCounts?.[c._id] ?? 0}
                         onViewImages={() => handleViewImages("yjlCase", c._id, c.title)}
-                        differentialOptions={c.top3Differentials}
+                        differentialOptions={[c.title, ...c.top3Differentials]}
                       >
                         <YJLCard
                           c={c}
@@ -1355,7 +1356,8 @@ export function DifferentialsPage() {
           viewerTarget && (
             (viewerTarget.sourceType === "differentialPattern" && (allPatterns?.some(p => p._id === viewerTarget.sourceId && (obrienMap.get(p.obrienCaseNumber) || patternMap.get(p.pattern.toLowerCase().trim()))))) ||
             (viewerTarget.sourceType === "mnemonic" && (allMnemonics?.some(m => m._id === viewerTarget.sourceId && (mnemonicMap.get(m.mnemonic) || patternMap.get(m.pattern.toLowerCase().trim()))))) ||
-            (viewerTarget.sourceType === "chapman" && (allChapman?.some(c => c._id === viewerTarget.sourceId && patternMap.get(c.pattern.toLowerCase().trim()))))
+            (viewerTarget.sourceType === "chapman" && (allChapman?.some(c => c._id === viewerTarget.sourceId && patternMap.get(c.pattern.toLowerCase().trim())))) ||
+            (viewerTarget.sourceType === "yjlCase" && (allYJL?.some(c => c._id === viewerTarget.sourceId && c.discriminatorId)))
           )
         )}
         onViewDiscriminators={() => {
@@ -1376,6 +1378,24 @@ export function DifferentialsPage() {
           if (!yjlCase?.discriminatorId) return undefined;
           const disc = allDiscriminators?.find(d => d._id === yjlCase.discriminatorId);
           return disc?.vivaSummary ?? undefined;
+        })()}
+        sourceType={viewerTarget?.sourceType as any}
+        sourceId={viewerTarget?.sourceId}
+        dominantImagingFinding={(() => {
+          if (!viewerTarget || viewerTarget.sourceType !== "yjlCase") return undefined;
+          const yjlCase = allYJL?.find(c => c._id === viewerTarget.sourceId);
+          if (!yjlCase?.discriminatorId) return undefined;
+          const disc = allDiscriminators?.find(d => d._id === yjlCase.discriminatorId);
+          const primary = disc?.differentials.find(d => d.isCorrectDiagnosis);
+          return primary?.dominantImagingFinding ?? undefined;
+        })()}
+        discriminatingKeyFeature={(() => {
+          if (!viewerTarget || viewerTarget.sourceType !== "yjlCase") return undefined;
+          const yjlCase = allYJL?.find(c => c._id === viewerTarget.sourceId);
+          if (!yjlCase?.discriminatorId) return undefined;
+          const disc = allDiscriminators?.find(d => d._id === yjlCase.discriminatorId);
+          const primary = disc?.differentials.find(d => d.isCorrectDiagnosis);
+          return primary?.discriminatingKeyFeature ?? undefined;
         })()}
       />
     </div>

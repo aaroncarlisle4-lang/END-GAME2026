@@ -15,6 +15,8 @@ interface Props {
   externalOpen?: boolean;
   setExternalOpen?: (open: boolean) => void;
   onViewImages?: () => void;
+  /** Override the row display order (array of ROW_CONFIG keys) */
+  rowOrder?: string[];
 }
 
 // ── Helpers ──
@@ -257,7 +259,18 @@ function ClampedCell({ children }: { children: React.ReactNode }) {
   );
 }
 
-export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen, onViewImages }: Props) {
+const DEFAULT_ROW_ORDER = Object.keys(ROW_CONFIG);
+
+export const YJL2B_ROW_ORDER = [
+  "dominantImagingFactor",
+  "keyDiscriminatingFactors",
+  "distributionLocation",
+  "associatedFindings",
+  "demographicsClinicalContext",
+  "complicationsSeriousAlternatives",
+];
+
+export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen, onViewImages, rowOrder }: Props) {
   const [internalOpen, setInternalOpen] = useState(false);
   
   const open = externalOpen !== undefined ? (externalOpen as boolean) : internalOpen;
@@ -362,7 +375,7 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
   const totalPages = Math.ceil(diffs.length / itemsPerPage);
   const currentDiffs = diffs.slice(currentPage * itemsPerPage, (currentPage + 1) * itemsPerPage);
   
-  const rows = Object.keys(ROW_CONFIG);
+  const rows = rowOrder || DEFAULT_ROW_ORDER;
 
   // ── Editing Handlers ──
   const handleSave = async () => {

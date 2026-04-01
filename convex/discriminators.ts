@@ -8,6 +8,19 @@ export const list = query({
   },
 });
 
+// Lightweight lookup: returns only id, pattern, and obrienRef for building maps
+export const listLookup = query({
+  args: {},
+  handler: async (ctx) => {
+    const all = await ctx.db.query("discriminators").collect();
+    return all.map((d) => ({
+      _id: d._id,
+      pattern: d.pattern,
+      obrienRef: d.obrienRef,
+    }));
+  },
+});
+
 export const getByLongCase = query({
   args: { longCaseId: v.id("longCases") },
   handler: async (ctx, args) => {
