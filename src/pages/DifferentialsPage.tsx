@@ -473,6 +473,8 @@ function YJLCard({
   onViewImages,
   onAddNote,
   pendingNoteCount,
+  onNavigateDiscriminator,
+  discriminatorPosition,
 }: {
   c: YJLCase;
   discriminator?: Doc<"discriminators"> | null;
@@ -481,6 +483,8 @@ function YJLCard({
   onViewImages?: () => void;
   onAddNote?: () => void;
   pendingNoteCount?: number;
+  onNavigateDiscriminator?: (direction: "prev" | "next") => void;
+  discriminatorPosition?: { current: number; total: number };
 }) {
   const [expanded, setExpanded] = useState(false);
   const meta = getCategoryMeta(c.playlistCategory) ?? getCategoryMeta("Chest");
@@ -583,6 +587,8 @@ function YJLCard({
             setExternalOpen={setDiscriminatorOpen}
             onViewImages={onViewImages}
             rowOrder={YJL2B_ROW_ORDER}
+            onNavigateCase={onNavigateDiscriminator}
+            casePosition={discriminatorPosition}
           />
         </div>
       )}
@@ -724,6 +730,49 @@ export function DifferentialsPage() {
     setViewerTarget({ sourceType, sourceId, title });
     setViewerOpen(true);
   };
+
+  // ── Horizontal navigation: Image Viewer case-to-case ──
+  const viewerSiblings = useMemo(() => {
+    if (!viewerTarget || viewerTarget.sourceType !== "yjlCase" || !allYJL) return null;
+    const currentCase = allYJL.find(c => c._id === viewerTarget.sourceId);
+    if (!currentCase) return null;
+    const category = currentCase.playlistCategory;
+    const siblings = allYJL
+      .filter(c => c.playlistCategory === category)
+      .sort((a, b) => a.sortOrder - b.sortOrder);
+    const currentIndex = siblings.findIndex(c => c._id === viewerTarget.sourceId);
+    return { siblings, currentIndex, category };
+  }, [viewerTarget, allYJL]);
+
+  const handleNavigateViewerCase = useCallback((direction: "prev" | "next") => {
+    if (!viewerSiblings) return;
+    const { siblings, currentIndex } = viewerSiblings;
+    const newIndex = direction === "prev" ? currentIndex - 1 : currentIndex + 1;
+    if (newIndex < 0 || newIndex >= siblings.length) return;
+    const newCase = siblings[newIndex];
+    setViewerTarget({ sourceType: "yjlCase", sourceId: newCase._id, title: newCase.title });
+  }, [viewerSiblings]);
+
+  // ── Horizontal navigation: Discriminator matrix case-to-case ──
+  const discriminatorSiblings = useMemo(() => {
+    if (!openDiscriminatorId || !allYJL) return null;
+    const currentCase = allYJL.find(c => c._id === openDiscriminatorId);
+    if (!currentCase) return null;
+    const siblings = allYJL
+      .filter(c => c.playlistCategory === currentCase.playlistCategory && c.discriminatorId)
+      .sort((a, b) => a.sortOrder - b.sortOrder);
+    const currentIndex = siblings.findIndex(c => c._id === openDiscriminatorId);
+    if (currentIndex === -1) return null;
+    return { siblings, currentIndex };
+  }, [openDiscriminatorId, allYJL]);
+
+  const handleNavigateDiscriminator = useCallback((direction: "prev" | "next") => {
+    if (!discriminatorSiblings) return;
+    const { siblings, currentIndex } = discriminatorSiblings;
+    const newIndex = direction === "prev" ? currentIndex - 1 : currentIndex + 1;
+    if (newIndex < 0 || newIndex >= siblings.length) return;
+    setOpenDiscriminatorId(siblings[newIndex]._id);
+  }, [discriminatorSiblings]);
 
   const obrienMap = useMemo(() => {
     const map = new Map<number, Doc<"discriminators">>();
@@ -1252,6 +1301,11 @@ export function DifferentialsPage() {
                           onViewImages={() => handleViewImages("yjlCase", c._id, c.title)}
                           onAddNote={discriminator ? () => setNoteTarget(discriminator) : undefined}
                           pendingNoteCount={discriminator ? (pendingCounts[discriminator._id] ?? 0) : 0}
+                          onNavigateDiscriminator={openDiscriminatorId === c._id ? handleNavigateDiscriminator : undefined}
+                          discriminatorPosition={openDiscriminatorId === c._id && discriminatorSiblings ? {
+                            current: discriminatorSiblings.currentIndex + 1,
+                            total: discriminatorSiblings.siblings.length,
+                          } : undefined}
                         />
                       </ImageDropZone>
                     );
@@ -1397,6 +1451,12 @@ export function DifferentialsPage() {
           const primary = disc?.differentials.find(d => d.isCorrectDiagnosis);
           return primary?.discriminatingKeyFeature ?? undefined;
         })()}
+        onNavigateCase={viewerSiblings ? handleNavigateViewerCase : undefined}
+        casePosition={viewerSiblings ? {
+          current: viewerSiblings.currentIndex + 1,
+          total: viewerSiblings.siblings.length,
+          categoryName: viewerSiblings.category,
+        } : undefined}
       />
     </div>
   );

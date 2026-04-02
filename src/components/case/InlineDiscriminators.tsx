@@ -17,6 +17,10 @@ interface Props {
   onViewImages?: () => void;
   /** Override the row display order (array of ROW_CONFIG keys) */
   rowOrder?: string[];
+  /** Case-to-case (horizontal) navigation callback */
+  onNavigateCase?: (direction: "prev" | "next") => void;
+  /** Current position in the case list */
+  casePosition?: { current: number; total: number };
 }
 
 // ── Helpers ──
@@ -270,7 +274,7 @@ export const YJL2B_ROW_ORDER = [
   "complicationsSeriousAlternatives",
 ];
 
-export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen, onViewImages, rowOrder }: Props) {
+export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen, onViewImages, rowOrder, onNavigateCase, casePosition }: Props) {
   const [internalOpen, setInternalOpen] = useState(false);
   
   const open = externalOpen !== undefined ? (externalOpen as boolean) : internalOpen;
@@ -525,6 +529,28 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
                   </div>
 
                   <div className="hidden lg:flex items-center gap-4 relative z-10">
+                    {/* Case-to-case navigation arrows */}
+                    {onNavigateCase && casePosition && (
+                      <div className="flex items-center gap-2">
+                        <button
+                          onClick={() => onNavigateCase("prev")}
+                          disabled={casePosition.current <= 1}
+                          className="p-1.5 rounded-lg bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white disabled:opacity-30 transition-all border border-white/5"
+                        >
+                          <ChevronLeft className="w-4 h-4" />
+                        </button>
+                        <span className="text-[10px] font-mono text-slate-400">
+                          {casePosition.current}/{casePosition.total}
+                        </span>
+                        <button
+                          onClick={() => onNavigateCase("next")}
+                          disabled={casePosition.current >= casePosition.total}
+                          className="p-1.5 rounded-lg bg-white/5 hover:bg-white/10 text-slate-400 hover:text-white disabled:opacity-30 transition-all border border-white/5"
+                        >
+                          <ChevronRight className="w-4 h-4" />
+                        </button>
+                      </div>
+                    )}
                     <button
                       onClick={() => {
                         setOpen(false);

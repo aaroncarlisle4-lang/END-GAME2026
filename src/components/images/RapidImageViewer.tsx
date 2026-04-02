@@ -55,6 +55,10 @@ interface RapidImageViewerProps {
   dominantImagingFinding?: string;
   /** Primary match key discriminating feature (from discriminator matrix) */
   discriminatingKeyFeature?: string;
+  /** Case-to-case (horizontal) navigation callback */
+  onNavigateCase?: (direction: "prev" | "next") => void;
+  /** Current position in the case list */
+  casePosition?: { current: number; total: number; categoryName: string };
 }
 
 interface CaseCluster {
@@ -83,6 +87,8 @@ export function RapidImageViewer({
   sourceId,
   dominantImagingFinding,
   discriminatingKeyFeature,
+  onNavigateCase,
+  casePosition,
 }: RapidImageViewerProps) {
   const deleteImage = useMutation(api.studyImages.deleteImage);
   const deleteStack = useMutation(api.studyImages.deleteStack);
@@ -251,6 +257,19 @@ export function RapidImageViewer({
     }
   }, [open, initialIndex, buckets, title]);
 
+  // Reset internal state when navigating to a different case (horizontal navigation)
+  useEffect(() => {
+    if (open && sourceId) {
+      setActiveBucketId(0);
+      setCaseIndex(0);
+      setSliceIndex(0);
+      setExpanded(false);
+      setAnnotateMode(false);
+      resetZoom();
+      sessionInitializedRef.current = null;
+    }
+  }, [sourceId]); // eslint-disable-line react-hooks/exhaustive-deps
+
   const [imgError, setImgError] = useState(false);
   const autoPlayRef = useRef(autoPlay);
   autoPlayRef.current = autoPlay;
@@ -306,6 +325,11 @@ export function RapidImageViewer({
     if (!open) return;
 
     function handleKey(e: KeyboardEvent) {
+      // Case-to-case (horizontal) navigation with Shift+Arrow
+      if (e.shiftKey && onNavigateCase) {
+        if (e.key === "ArrowLeft") { e.preventDefault(); onNavigateCase("prev"); return; }
+        if (e.key === "ArrowRight") { e.preventDefault(); onNavigateCase("next"); return; }
+      }
       if (e.key === "Escape") {
         if (zoom > 1) {
           resetZoom();
@@ -349,7 +373,7 @@ export function RapidImageViewer({
 
     window.addEventListener("keydown", handleKey);
     return () => window.removeEventListener("keydown", handleKey);
-  }, [open, expanded, currentCase, hasMultipleSlices, goNextCase, goPrevCase, onClose, zoom, resetZoom, toggleZoom]);
+  }, [open, expanded, currentCase, hasMultipleSlices, goNextCase, goPrevCase, onClose, zoom, resetZoom, toggleZoom, onNavigateCase]);
 
   // Handle Pan dragging
   const handleMouseDown = (e: React.MouseEvent) => {
@@ -596,12 +620,41 @@ export function RapidImageViewer({
                   {hasDiscriminator && onViewDiscriminators && (
                     <button
                       onClick={onViewDiscriminators}
-                      className="flex items-center gap-2 px-3 py-1.5 bg-teal-600 hover:bg-teal-500 text-white rounded-lg shadow-lg shadow-teal-900/40 transition-all active:scale-95 mr-2"
+                      className="flex items-center gap-2 px-3 py-1.5 bg-teal-600 hover:bg-teal-500 text-white rounded-lg shadow-lg shadow-teal-900/40 transition-all active:scale-95"
                     >
                       <GitBranch className="w-3.5 h-3.5" />
                       <span className="text-[10px] font-black uppercase tracking-widest">Discriminator Matrix</span>
                     </button>
                   )}
+
+                  {/* Case-to-case nav (top bar) */}
+                  {onNavigateCase && casePosition && (
+                    <div className="flex items-center gap-1.5 mr-1">
+                      <button
+                        onClick={() => onNavigateCase("prev")}
+                        disabled={casePosition.current <= 1}
+                        className="p-1.5 rounded-lg bg-slate-700/60 text-slate-300 hover:bg-slate-600 hover:text-white disabled:opacity-30 disabled:cursor-not-allowed transition-all"
+                      >
+                        <ChevronLeft className="w-3.5 h-3.5" />
+                      </button>
+                      <div className="text-center min-w-[4rem]">
+                        <p className="text-[8px] font-black text-slate-500 uppercase tracking-widest leading-none mb-0.5">
+                          {casePosition.categoryName}
+                        </p>
+                        <p className="text-[10px] font-mono text-teal-400 leading-none">
+                          Case {casePosition.current} / {casePosition.total}
+                        </p>
+                      </div>
+                      <button
+                        onClick={() => onNavigateCase("next")}
+                        disabled={casePosition.current >= casePosition.total}
+                        className="p-1.5 rounded-lg bg-slate-700/60 text-slate-300 hover:bg-slate-600 hover:text-white disabled:opacity-30 disabled:cursor-not-allowed transition-all"
+                      >
+                        <ChevronRight className="w-3.5 h-3.5" />
+                      </button>
+                    </div>
+                  )}
+
                   <button
                     onClick={() => setAutoPlay((p) => !p)}
                     className={`p-1.5 rounded-lg transition-colors ${
@@ -682,6 +735,35 @@ export function RapidImageViewer({
                         <span className="text-[9px] text-slate-600 font-mono">{bucket.clusters.length || 0}</span>
                       </button>
                     ))}
+
+                    {/* Case-to-case (horizontal) navigation */}
+                    {onNavigateCase && casePosition && (
+                      <div className="mt-auto pt-3 px-4 pb-4 border-t border-slate-800">
+                        <p className="text-[8px] font-black text-slate-500 uppercase tracking-widest text-center mb-1">
+                          {casePosition.categoryName}
+                        </p>
+                        <p className="text-[10px] font-mono text-teal-400 text-center mb-2">
+                          Case {casePosition.current} / {casePosition.total}
+                        </p>
+                        <div className="flex gap-1">
+                          <button
+                            onClick={() => onNavigateCase("prev")}
+                            disabled={casePosition.current <= 1}
+                            className="flex-1 py-2 rounded-lg bg-slate-700/50 text-slate-300 hover:bg-slate-600 disabled:opacity-30 disabled:cursor-not-allowed transition-all"
+                          >
+                            <ChevronLeft className="w-4 h-4 mx-auto" />
+                          </button>
+                          <button
+                            onClick={() => onNavigateCase("next")}
+                            disabled={casePosition.current >= casePosition.total}
+                            className="flex-1 py-2 rounded-lg bg-slate-700/50 text-slate-300 hover:bg-slate-600 disabled:opacity-30 disabled:cursor-not-allowed transition-all"
+                          >
+                            <ChevronRight className="w-4 h-4 mx-auto" />
+                          </button>
+                        </div>
+                        <p className="text-[8px] text-slate-600 text-center mt-1.5">Shift + arrows</p>
+                      </div>
+                    )}
                   </div>
                 )}
 
