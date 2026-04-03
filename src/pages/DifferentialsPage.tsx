@@ -676,18 +676,23 @@ function EditDifferentialsModal({
 
       if (discriminator) {
         const existing = discriminator.differentials;
-        const existingByName = new Map(
-          existing.map((d) => [d.diagnosis.toLowerCase().trim(), d])
+        const existingNames = new Set(
+          existing.map((d) => d.diagnosis.toLowerCase().trim())
         );
-        const newDiffs = filtered.map((name, i) => {
-          const key = name.toLowerCase().trim();
-          const old = existingByName.get(key);
-          if (old) {
-            return { ...old, sortOrder: i };
-          }
-          return { diagnosis: name, sortOrder: i };
-        });
-        await updateDiscriminator({ id: discriminator._id, differentials: newDiffs });
+        const maxSortOrder = existing.reduce(
+          (max, d) => Math.max(max, d.sortOrder ?? 0),
+          0
+        );
+        const toAppend = filtered
+          .filter((name) => !existingNames.has(name.toLowerCase().trim()))
+          .map((name, i) => ({ diagnosis: name, sortOrder: maxSortOrder + i + 1 }));
+
+        if (toAppend.length > 0) {
+          await updateDiscriminator({
+            id: discriminator._id,
+            differentials: [...existing, ...toAppend],
+          });
+        }
       }
 
       onClose();
