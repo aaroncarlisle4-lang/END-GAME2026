@@ -101,7 +101,9 @@ export function ImageDropZone({
       const text = e.dataTransfer.getData("text/plain");
       if (text) {
         if (text.startsWith("https://")) {
-          const group = selectedDifferential || text.split("/").pop() || "Image";
+          const group = selectedDifferential
+            ? `${selectedDifferential} - ${text.split("/").pop() || "Image"} [${Date.now()}]`
+            : `General / Uncategorized - ${text.split("/").pop() || "Image"} [${Date.now()}]`;
           await addByUrl(text, text.split("/").pop(), group);
         } else if (onTextDrop && text.trim().length > 0) {
           onTextDrop(text);
@@ -117,7 +119,9 @@ export function ImageDropZone({
 
   const handleUrlSubmit = async () => {
     if (!urlValue.startsWith("https://")) return;
-    const group = selectedDifferential || urlValue.split("/").pop() || "Image";
+    const group = selectedDifferential
+      ? `${selectedDifferential} - ${urlValue.split("/").pop() || "Image"} [${Date.now()}]`
+      : `General / Uncategorized - ${urlValue.split("/").pop() || "Image"} [${Date.now()}]`;
     await addByUrl(urlValue, urlValue.split("/").pop(), group);
     setUrlValue("");
     setShowUrlInput(false);
@@ -162,7 +166,7 @@ export function ImageDropZone({
     
     // Default label if none provided
     const finalLabel = stackLabel.trim() || "Image Stack";
-    const bucket = selectedDifferential || "General";
+    const bucket = selectedDifferential || "General / Uncategorized";
     
     // Unique caseGroup per import, but prefixed with differential for "Bucketing"
     const uniqueGroup = `${bucket} - ${finalLabel} [${Date.now()}]`;
