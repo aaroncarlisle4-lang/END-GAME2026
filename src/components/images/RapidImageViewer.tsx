@@ -59,6 +59,10 @@ interface RapidImageViewerProps {
   onNavigateCase?: (direction: "prev" | "next") => void;
   /** Current position in the case list */
   casePosition?: { current: number; total: number; categoryName: string };
+  /** User-editable findings text */
+  findings?: string;
+  /** Callback to save findings text */
+  onSaveFindings?: (text: string) => void;
 }
 
 interface CaseCluster {
@@ -89,12 +93,26 @@ export function RapidImageViewer({
   discriminatingKeyFeature,
   onNavigateCase,
   casePosition,
+  findings,
+  onSaveFindings,
 }: RapidImageViewerProps) {
   const deleteImage = useMutation(api.studyImages.deleteImage);
   const deleteStack = useMutation(api.studyImages.deleteStack);
   const deleteManifest = useMutation(api.studyImages.deleteManifest);
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [dragOverCenter, setDragOverCenter] = useState(false);
+
+  // Findings editing state
+  const [isEditingFindings, setIsEditingFindings] = useState(false);
+  const [findingsDraft, setFindingsDraft] = useState(findings ?? "");
+  const findingsRef = useRef<HTMLTextAreaElement>(null);
+
+  // Sync findings prop into draft when it changes (e.g. navigating cases)
+  useEffect(() => {
+    if (!isEditingFindings) {
+      setFindingsDraft(findings ?? "");
+    }
+  }, [findings, isEditingFindings]);
 
   // Inline import state
   const canImport = !!(sourceType && sourceId);
@@ -959,6 +977,88 @@ export function RapidImageViewer({
                       <div className="px-6 py-3 bg-slate-900/90 backdrop-blur-md border border-teal-500/30 rounded-2xl shadow-2xl">
                         <p className="text-[9px] font-black text-teal-400 uppercase tracking-[0.25em] mb-1.5 text-center">Viva Summary</p>
                         <p className="text-sm text-teal-100/95 leading-relaxed text-center font-medium italic">{vivaSummary}</p>
+                      </div>
+                    </div>
+                  )}
+                  {/* Findings — editable box, far left, primary folder only */}
+                  {activeBucketIndex === 0 && (
+                    <div className="absolute top-4 left-3 z-30 w-[440px] flex flex-col gap-2">
+                      <div className="px-4 py-3 bg-slate-900/90 backdrop-blur-md border border-amber-500/30 rounded-2xl shadow-2xl">
+                        <div className="flex items-center justify-between mb-2">
+                          <p className="text-[9px] font-black text-amber-400 uppercase tracking-[0.25em]">Findings</p>
+                          {onSaveFindings && !isEditingFindings && (
+                            <button
+                              onClick={() => {
+                                setIsEditingFindings(true);
+                                setTimeout(() => findingsRef.current?.focus(), 50);
+                              }}
+                              className="text-[9px] text-amber-400/60 hover:text-amber-400 uppercase tracking-wider transition-colors"
+                            >
+                              Edit
+                            </button>
+                          )}
+                          {isEditingFindings && (
+                            <div className="flex gap-2">
+                              <button
+                                onClick={() => {
+                                  setIsEditingFindings(false);
+                                  setFindingsDraft(findings ?? "");
+                                }}
+                                className="text-[9px] text-slate-400 hover:text-slate-200 uppercase tracking-wider transition-colors"
+                              >
+                                Cancel
+                              </button>
+                              <button
+                                onClick={() => {
+                                  onSaveFindings?.(findingsDraft);
+                                  setIsEditingFindings(false);
+                                }}
+                                className="text-[9px] text-amber-400 hover:text-amber-300 uppercase tracking-wider font-bold transition-colors"
+                              >
+                                Save
+                              </button>
+                            </div>
+                          )}
+                        </div>
+                        {isEditingFindings ? (
+                          <textarea
+                            ref={findingsRef}
+                            value={findingsDraft}
+                            onChange={(e) => setFindingsDraft(e.target.value)}
+                            onKeyDown={(e) => {
+                              if (e.key === "Escape") {
+                                setIsEditingFindings(false);
+                                setFindingsDraft(findings ?? "");
+                              }
+                              // Prevent viewer keyboard shortcuts while editing
+                              e.stopPropagation();
+                            }}
+                            placeholder="Paste findings here..."
+                            className="w-full bg-transparent text-sm text-amber-100/90 leading-snug font-medium resize-none outline-none placeholder:text-amber-400/30 min-h-[60px]"
+                            rows={Math.max(3, findingsDraft.split("\n").length)}
+                          />
+                        ) : findingsDraft ? (
+                          <ul className="space-y-1">
+                            {findingsDraft.split("\n").filter(Boolean).map((line, i) => (
+                              <li key={i} className="flex items-start gap-1.5">
+                                <span className="mt-1.5 w-1 h-1 rounded-full bg-amber-400 shrink-0" />
+                                <span className="text-sm text-amber-100/90 leading-snug font-medium">{line.replace(/^[-•]\s*/, '').trim()}</span>
+                              </li>
+                            ))}
+                          </ul>
+                        ) : (
+                          <p
+                            className="text-sm text-amber-400/30 italic cursor-pointer"
+                            onClick={() => {
+                              if (onSaveFindings) {
+                                setIsEditingFindings(true);
+                                setTimeout(() => findingsRef.current?.focus(), 50);
+                              }
+                            }}
+                          >
+                            Click edit to add findings...
+                          </p>
+                        )}
                       </div>
                     </div>
                   )}

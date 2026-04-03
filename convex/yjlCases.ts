@@ -65,6 +65,61 @@ export const update = mutation({
   },
 });
 
+export const createManual = mutation({
+  args: {
+    playlistCategory: v.string(),
+    title: v.string(),
+    top3Differentials: v.array(v.string()),
+    presentation: v.optional(v.string()),
+    findings: v.optional(v.string()),
+  },
+  handler: async (ctx, args) => {
+    // Find highest sortOrder in this category to append at end
+    const existing = await ctx.db
+      .query("yjlCases")
+      .withIndex("by_category", (q) => q.eq("playlistCategory", args.playlistCategory))
+      .collect();
+    const maxSort = existing.reduce((max, c) => Math.max(max, c.sortOrder), 0);
+    const sortOrder = maxSort + 1;
+    const radiopaediaCaseId = Date.now();
+
+    // Create a blank discriminator matrix with the differentials pre-populated
+    const differentials = args.top3Differentials.map((dx, i) => ({
+      diagnosis: dx,
+      sortOrder: i,
+    }));
+    // Always include the title as the primary/correct diagnosis row if not already a differential
+    const titleLower = args.title.toLowerCase().trim();
+    const hasTitleAsDx = differentials.some(
+      (d) => d.diagnosis.toLowerCase().trim() === titleLower
+    );
+    const allDifferentials = hasTitleAsDx
+      ? differentials
+      : [{ diagnosis: args.title, sortOrder: -1, isCorrectDiagnosis: true as const }, ...differentials];
+
+    const discriminatorId = await ctx.db.insert("discriminators", {
+      pattern: args.title,
+      differentials: allDifferentials,
+    });
+
+    return await ctx.db.insert("yjlCases", {
+      playlistId: 0,
+      playlistName: `Manual - ${args.playlistCategory}`,
+      playlistCategory: args.playlistCategory,
+      sortOrder,
+      entryId: 0,
+      radiopaediaCaseId,
+      radiopaediaCaseUrl: "",
+      title: args.title,
+      studyIds: [],
+      top3Differentials: args.top3Differentials,
+      presentation: args.presentation,
+      findings: args.findings,
+      discriminatorId,
+    });
+  },
+});
+
 export const upsertFromScrape = mutation({
   args: {
     cases: v.array(v.object({

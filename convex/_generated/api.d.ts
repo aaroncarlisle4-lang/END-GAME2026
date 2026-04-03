@@ -58,6 +58,7 @@ import type * as textIngestion from "../textIngestion.js";
 import type * as textbookReferences from "../textbookReferences.js";
 import type * as updateCategoryCounts from "../updateCategoryCounts.js";
 import type * as updateFindings from "../updateFindings.js";
+import type * as viewerFindings from "../viewerFindings.js";
 import type * as vivaFramework from "../vivaFramework.js";
 import type * as yjlCases from "../yjlCases.js";
 
@@ -118,6 +119,7 @@ declare const fullApi: ApiFromModules<{
   textbookReferences: typeof textbookReferences;
   updateCategoryCounts: typeof updateCategoryCounts;
   updateFindings: typeof updateFindings;
+  viewerFindings: typeof viewerFindings;
   vivaFramework: typeof vivaFramework;
   yjlCases: typeof yjlCases;
 }>;

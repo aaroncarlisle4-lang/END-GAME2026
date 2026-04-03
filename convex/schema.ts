@@ -462,4 +462,12 @@ export default defineSchema({
     .index("by_slug", ["slug"])
     .index("by_chapter", ["chapter"])
     .index("by_name", ["name"]),
+
+  viewerFindings: defineTable({
+    sourceType: v.string(),  // "differentialPattern" | "mnemonic" | "chapman" | "rapidCase" | "yjlCase"
+    sourceId: v.string(),
+    findings: v.string(),    // free-text findings entered by user
+    updatedAt: v.number(),
+  })
+    .index("by_source", ["sourceType", "sourceId"]),
 });

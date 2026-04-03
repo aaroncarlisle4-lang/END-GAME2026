@@ -3,7 +3,7 @@ import { useQuery, useMutation } from "convex/react";
 import { api } from "../../convex/_generated/api";
 import { Doc, Id } from "../../convex/_generated/dataModel";
 import { getCategoryMeta } from "../lib/categoryConfig";
-import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target, BookmarkPlus, PlayCircle, ExternalLink } from "lucide-react";
+import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target, BookmarkPlus, PlayCircle, ExternalLink, Plus, X } from "lucide-react";
 import { HighlightableText } from "../components/ui/HighlightableText";
 import { useKnowledge } from "../lib/knowledgeContext";
 import { KnowledgeTrigger } from "../components/ui/KnowledgeTrigger";
@@ -596,6 +596,140 @@ function YJLCard({
   );
 }
 
+function CreateYJLCardModal({
+  open,
+  onClose,
+  defaultCategory,
+}: {
+  open: boolean;
+  onClose: () => void;
+  defaultCategory: string | null;
+}) {
+  const createManual = useMutation(api.yjlCases.createManual);
+  const [title, setTitle] = useState("");
+  const [category, setCategory] = useState(defaultCategory || YJL_CATEGORIES[0]);
+  const [differentials, setDifferentials] = useState(["", "", ""]);
+  const [presentation, setPresentation] = useState("");
+  const [saving, setSaving] = useState(false);
+
+  // Reset form when modal opens
+  const [wasOpen, setWasOpen] = useState(false);
+  if (open && !wasOpen) {
+    setTitle("");
+    setDifferentials(["", "", ""]);
+    setPresentation("");
+    setCategory(defaultCategory || YJL_CATEGORIES[0]);
+    setSaving(false);
+  }
+  if (open !== wasOpen) setWasOpen(open);
+
+  const handleSave = async () => {
+    if (!title.trim()) return;
+    setSaving(true);
+    try {
+      await createManual({
+        playlistCategory: category,
+        title: title.trim(),
+        top3Differentials: differentials.filter((d) => d.trim()),
+        presentation: presentation.trim() || undefined,
+      });
+      onClose();
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  if (!open) return null;
+
+  return (
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm" onClick={onClose}>
+      <div
+        className="bg-white rounded-3xl shadow-2xl w-full max-w-lg mx-4 p-6 space-y-5"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <div className="flex items-center justify-between">
+          <h3 className="text-lg font-black text-slate-900 uppercase tracking-tight">New Play Card</h3>
+          <button onClick={onClose} className="p-1 rounded-lg hover:bg-slate-100 transition-colors">
+            <X className="w-5 h-5 text-slate-400" />
+          </button>
+        </div>
+
+        <div>
+          <label className="block text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1.5">Category</label>
+          {defaultCategory ? (
+            <div className="px-4 py-2.5 rounded-xl bg-slate-50 text-sm font-bold text-slate-700">{defaultCategory}</div>
+          ) : (
+            <select
+              value={category}
+              onChange={(e) => setCategory(e.target.value)}
+              className="w-full px-4 py-2.5 rounded-xl border-2 border-slate-100 text-sm font-bold focus:ring-2 focus:ring-teal-500/20 focus:border-teal-300 transition-all appearance-none bg-white"
+            >
+              {YJL_CATEGORIES.map((cat) => (
+                <option key={cat} value={cat}>{cat}</option>
+              ))}
+            </select>
+          )}
+        </div>
+
+        <div>
+          <label className="block text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1.5">Case Title</label>
+          <input
+            type="text"
+            value={title}
+            onChange={(e) => setTitle(e.target.value)}
+            placeholder="e.g. Solitary Pulmonary Nodule"
+            className="w-full px-4 py-2.5 rounded-xl border-2 border-slate-100 text-sm font-semibold focus:ring-2 focus:ring-teal-500/20 focus:border-teal-300 transition-all placeholder:text-slate-300"
+            autoFocus
+          />
+        </div>
+
+        <div>
+          <label className="block text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1.5">Differentials (up to 3)</label>
+          <div className="space-y-2">
+            {differentials.map((d, i) => (
+              <div key={i} className="flex items-center gap-2">
+                <span className={`w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-black text-white shrink-0 ${
+                  i === 0 ? "bg-amber-400" : i === 1 ? "bg-slate-400" : "bg-orange-400"
+                }`}>{i + 1}</span>
+                <input
+                  type="text"
+                  value={d}
+                  onChange={(e) => {
+                    const next = [...differentials];
+                    next[i] = e.target.value;
+                    setDifferentials(next);
+                  }}
+                  placeholder={`Differential #${i + 1}`}
+                  className="flex-1 px-3 py-2 rounded-lg border-2 border-slate-100 text-sm font-semibold focus:ring-2 focus:ring-teal-500/20 focus:border-teal-300 transition-all placeholder:text-slate-300"
+                />
+              </div>
+            ))}
+          </div>
+        </div>
+
+        <div>
+          <label className="block text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1.5">Clinical History (optional)</label>
+          <textarea
+            value={presentation}
+            onChange={(e) => setPresentation(e.target.value)}
+            placeholder="Brief clinical scenario..."
+            rows={2}
+            className="w-full px-4 py-2.5 rounded-xl border-2 border-slate-100 text-sm font-semibold focus:ring-2 focus:ring-teal-500/20 focus:border-teal-300 transition-all resize-none placeholder:text-slate-300"
+          />
+        </div>
+
+        <button
+          onClick={handleSave}
+          disabled={!title.trim() || saving}
+          className="w-full py-3 rounded-2xl bg-teal-600 hover:bg-teal-700 disabled:opacity-40 text-white text-xs font-black uppercase tracking-widest transition-all shadow-lg active:scale-[0.98]"
+        >
+          {saving ? "Creating..." : "Create Card"}
+        </button>
+      </div>
+    </div>
+  );
+}
+
 export function DifferentialsPage() {
   const [activeTab, setActiveTab] = useState<"highyield" | "patterns" | "mnemonics" | "yjl2b" | "chapman">("highyield");
   const allHighYield = useQuery(api.highYield.getHighYieldClusters);
@@ -625,6 +759,9 @@ export function DifferentialsPage() {
     discriminatorId: Id<"discriminators">;
     pattern: string;
   } | null>(null);
+
+  // Create card modal state
+  const [createCardOpen, setCreateCardOpen] = useState(false);
 
   // Add Note state
   const [noteTarget, setNoteTarget] = useState<Doc<"discriminators"> | null>(null);
@@ -721,6 +858,24 @@ export function DifferentialsPage() {
       ? { sourceType: viewerTarget.sourceType, sourceId: viewerTarget.sourceId }
       : "skip"
   );
+
+  // Fetch and save viewer findings
+  const viewerFindingsData = useQuery(
+    api.viewerFindings.getBySource,
+    viewerTarget
+      ? { sourceType: viewerTarget.sourceType, sourceId: viewerTarget.sourceId }
+      : "skip"
+  );
+  const saveFindings = useMutation(api.viewerFindings.save);
+
+  const handleSaveFindings = useCallback((text: string) => {
+    if (!viewerTarget) return;
+    saveFindings({
+      sourceType: viewerTarget.sourceType,
+      sourceId: viewerTarget.sourceId,
+      findings: text,
+    });
+  }, [viewerTarget, saveFindings]);
 
   const handleViewImages = (
     sourceType: "differentialPattern" | "mnemonic" | "chapman" | "yjlCase",
@@ -1278,6 +1433,13 @@ export function DifferentialsPage() {
                 <div className="flex items-end gap-3 mb-6 border-b border-slate-100 pb-2">
                   <h2 className="text-xl font-black text-slate-900 uppercase tracking-tight">{category}</h2>
                   <span className="text-[10px] font-black bg-slate-100 text-slate-500 px-2 py-1 rounded-md mb-1.5">{cases.length} CASES</span>
+                  <button
+                    onClick={() => setCreateCardOpen(true)}
+                    className="ml-auto mb-1 flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-teal-50 hover:bg-teal-100 text-teal-700 text-[10px] font-black uppercase tracking-widest transition-all active:scale-95"
+                  >
+                    <Plus className="w-3.5 h-3.5" />
+                    Add Card
+                  </button>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
                   {cases.sort((a, b) => a.sortOrder - b.sortOrder).map((c) => {
@@ -1364,6 +1526,13 @@ export function DifferentialsPage() {
           </div>
         )}
       </div>
+
+      {/* Create YJL Card Modal */}
+      <CreateYJLCardModal
+        open={createCardOpen}
+        onClose={() => setCreateCardOpen(false)}
+        defaultCategory={selectedCategory}
+      />
 
       {/* Add Note Modal */}
       {noteTarget && (
@@ -1457,6 +1626,8 @@ export function DifferentialsPage() {
           total: viewerSiblings.siblings.length,
           categoryName: viewerSiblings.category,
         } : undefined}
+        findings={viewerFindingsData?.findings}
+        onSaveFindings={handleSaveFindings}
       />
     </div>
   );
