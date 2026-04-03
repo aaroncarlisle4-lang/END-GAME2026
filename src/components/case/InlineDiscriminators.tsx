@@ -682,8 +682,65 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
                                       } transition-colors hover:bg-slate-100/50`}
                                     >
                                       {isEditing ? (
-                                        <div className="flex flex-col gap-4 min-w-[500px] bg-white p-1 rounded-2xl shadow-sm">
-                                          ... (unchanged editor code) ...
+                                        <div className="flex flex-col gap-3 min-w-[500px] bg-white p-2 rounded-2xl shadow-sm border border-teal-200">
+                                          {/* Format toolbar */}
+                                          <div className="flex items-center gap-1.5 p-1.5 bg-slate-50 rounded-xl border border-slate-200">
+                                            <span className="text-[9px] font-black text-slate-400 uppercase tracking-widest mr-1">Format:</span>
+                                            <button
+                                              onMouseDown={(e) => { e.preventDefault(); applyFormat('capitalize'); }}
+                                              title="Capitalise selection"
+                                              className="px-2 py-1 rounded-lg text-[10px] font-black text-slate-600 hover:bg-white hover:shadow-sm transition-all border border-transparent hover:border-slate-200"
+                                            >
+                                              AA
+                                            </button>
+                                            <button
+                                              onMouseDown={(e) => { e.preventDefault(); applyFormat('highlight'); }}
+                                              title="Highlight selection"
+                                              className="p-1.5 rounded-lg text-amber-600 hover:bg-amber-50 transition-all border border-transparent"
+                                            >
+                                              <Highlighter className="w-3 h-3" />
+                                            </button>
+                                            <button
+                                              onMouseDown={(e) => { e.preventDefault(); applyFormat('underline'); }}
+                                              title="Underline selection"
+                                              className="p-1.5 rounded-lg text-teal-600 hover:bg-teal-50 transition-all border border-transparent"
+                                            >
+                                              <UnderlineIcon className="w-3 h-3" />
+                                            </button>
+                                          </div>
+
+                                          {/* ContentEditable rich editor */}
+                                          <div
+                                            id="visual-editor"
+                                            contentEditable
+                                            suppressContentEditableWarning
+                                            dangerouslySetInnerHTML={{ __html: toHTML(editingCell.text) }}
+                                            onInput={() => {
+                                              const editor = document.getElementById('visual-editor');
+                                              if (editor && editingCell) {
+                                                setEditingCell({ ...editingCell, text: fromHTML(editor.innerHTML) });
+                                              }
+                                            }}
+                                            className="min-h-[80px] p-3 rounded-xl border border-teal-300 bg-white text-sm text-slate-800 leading-relaxed focus:outline-none focus:ring-2 focus:ring-teal-500/30"
+                                          />
+
+                                          {/* Save / Cancel */}
+                                          <div className="flex gap-2 justify-end">
+                                            <button
+                                              onClick={() => setEditingCell(null)}
+                                              className="flex items-center gap-1 px-3 py-1.5 rounded-lg text-[10px] font-black text-slate-500 hover:bg-slate-100 transition-all border border-slate-200"
+                                            >
+                                              <RotateCcw className="w-3 h-3" />
+                                              Cancel
+                                            </button>
+                                            <button
+                                              onClick={handleSave}
+                                              className="flex items-center gap-1 px-3 py-1.5 rounded-lg text-[10px] font-black text-white bg-teal-600 hover:bg-teal-700 transition-all shadow-sm"
+                                            >
+                                              <Save className="w-3 h-3" />
+                                              Save
+                                            </button>
+                                          </div>
                                         </div>
                                       ) : (                                        <>
                                           {d.originalIndex !== -1 && (
