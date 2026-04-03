@@ -1,9 +1,9 @@
-import { useState, useMemo, useCallback } from "react";
+import { useState, useMemo, useCallback, useRef, useEffect } from "react";
 import { useQuery, useMutation } from "convex/react";
 import { api } from "../../convex/_generated/api";
 import { Doc, Id } from "../../convex/_generated/dataModel";
 import { getCategoryMeta } from "../lib/categoryConfig";
-import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target, BookmarkPlus, PlayCircle, ExternalLink, Plus, X } from "lucide-react";
+import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target, BookmarkPlus, PlayCircle, ExternalLink, Plus, X, Edit2 } from "lucide-react";
 import { HighlightableText } from "../components/ui/HighlightableText";
 import { useKnowledge } from "../lib/knowledgeContext";
 import { KnowledgeTrigger } from "../components/ui/KnowledgeTrigger";
@@ -475,6 +475,7 @@ function YJLCard({
   pendingNoteCount,
   onNavigateDiscriminator,
   discriminatorPosition,
+  onEditDifferentials,
 }: {
   c: YJLCase;
   discriminator?: Doc<"discriminators"> | null;
@@ -485,12 +486,13 @@ function YJLCard({
   pendingNoteCount?: number;
   onNavigateDiscriminator?: (direction: "prev" | "next") => void;
   discriminatorPosition?: { current: number; total: number };
+  onEditDifferentials?: () => void;
 }) {
   const [expanded, setExpanded] = useState(false);
   const meta = getCategoryMeta(c.playlistCategory) ?? getCategoryMeta("Chest");
 
   return (
-    <div className={`rounded-xl border ${meta.accentBorder} bg-white overflow-hidden transition-shadow hover:shadow-md flex flex-col`}>
+    <div className={`rounded-xl border ${meta.accentBorder} bg-white overflow-hidden transition-shadow hover:shadow-md flex flex-col group`}>
       <div className="flex-1">
         <div
           role="button"
@@ -510,7 +512,16 @@ function YJLCard({
               <h3 className="font-bold text-gray-900 text-sm leading-snug">{c.title}</h3>
               <p className="text-[10px] text-gray-400 mt-0.5 font-medium truncate">{c.playlistName}</p>
             </div>
-            <div className="shrink-0 pt-1 text-gray-400">
+            <div className="shrink-0 flex items-center gap-1.5 pt-1 text-gray-400">
+              {onEditDifferentials && (
+                <button
+                  onClick={(e) => { e.stopPropagation(); onEditDifferentials(); }}
+                  className="p-1 rounded-lg text-slate-300 hover:text-teal-600 hover:bg-teal-50 transition-colors opacity-0 group-hover:opacity-100"
+                  title="Edit differentials"
+                >
+                  <Edit2 className="w-3.5 h-3.5" />
+                </button>
+              )}
               {expanded ? <ChevronUp className="w-4 h-4" /> : <ChevronDown className="w-4 h-4" />}
             </div>
           </div>
@@ -592,6 +603,176 @@ function YJLCard({
           />
         </div>
       )}
+    </div>
+  );
+}
+
+function EditDifferentialsModal({
+  open,
+  onClose,
+  yjlCase,
+  discriminator,
+}: {
+  open: boolean;
+  onClose: () => void;
+  yjlCase: YJLCase | null;
+  discriminator?: Doc<"discriminators"> | null;
+}) {
+  const updateCase = useMutation(api.yjlCases.update);
+  const updateDiscriminator = useMutation(api.discriminators.update);
+
+  const [items, setItems] = useState<string[]>([]);
+  const [saving, setSaving] = useState(false);
+  const dragIndex = useRef<number | null>(null);
+
+  useEffect(() => {
+    if (open && yjlCase) {
+      setItems([...yjlCase.top3Differentials]);
+    }
+  }, [open, yjlCase]);
+
+  const handleDragStart = (index: number) => {
+    dragIndex.current = index;
+  };
+
+  const handleDragOver = (e: React.DragEvent, index: number) => {
+    e.preventDefault();
+    if (dragIndex.current === null || dragIndex.current === index) return;
+    setItems((prev) => {
+      const next = [...prev];
+      const [moved] = next.splice(dragIndex.current!, 1);
+      next.splice(index, 0, moved);
+      dragIndex.current = index;
+      return next;
+    });
+  };
+
+  const handleDragEnd = () => {
+    dragIndex.current = null;
+  };
+
+  const addItem = () => setItems((prev) => [...prev, ""]);
+
+  const removeItem = (index: number) => {
+    if (items.length <= 1) return;
+    setItems((prev) => prev.filter((_, i) => i !== index));
+  };
+
+  const updateItem = (index: number, value: string) => {
+    setItems((prev) => {
+      const next = [...prev];
+      next[index] = value;
+      return next;
+    });
+  };
+
+  const handleSave = async () => {
+    if (!yjlCase) return;
+    const filtered = items.filter((s) => s.trim());
+    if (filtered.length === 0) return;
+    setSaving(true);
+    try {
+      await updateCase({ id: yjlCase._id as Id<"yjlCases">, top3Differentials: filtered });
+
+      if (discriminator) {
+        const existing = discriminator.differentials;
+        const existingByName = new Map(
+          existing.map((d) => [d.diagnosis.toLowerCase().trim(), d])
+        );
+        const newDiffs = filtered.map((name, i) => {
+          const key = name.toLowerCase().trim();
+          const old = existingByName.get(key);
+          if (old) {
+            return { ...old, sortOrder: i };
+          }
+          return { diagnosis: name, sortOrder: i };
+        });
+        await updateDiscriminator({ id: discriminator._id, differentials: newDiffs });
+      }
+
+      onClose();
+    } finally {
+      setSaving(false);
+    }
+  };
+
+  if (!open || !yjlCase) return null;
+
+  return (
+    <div
+      className="fixed inset-0 z-50 flex items-center justify-center bg-black/40 backdrop-blur-sm"
+      onClick={onClose}
+    >
+      <div
+        className="bg-white rounded-3xl shadow-2xl w-full max-w-md mx-4 p-6 space-y-5"
+        onClick={(e) => e.stopPropagation()}
+      >
+        <div className="flex items-center justify-between">
+          <div>
+            <h3 className="text-lg font-black text-slate-900 uppercase tracking-tight">Edit Differentials</h3>
+            <p className="text-[10px] text-slate-400 font-medium mt-0.5 truncate max-w-[280px]">{yjlCase.title}</p>
+          </div>
+          <button onClick={onClose} className="p-1 rounded-lg hover:bg-slate-100 transition-colors">
+            <X className="w-5 h-5 text-slate-400" />
+          </button>
+        </div>
+
+        {discriminator && (
+          <p className="text-[10px] text-slate-400 bg-slate-50 rounded-lg px-3 py-2 border border-slate-100">
+            Saving will update the discriminator table. Existing cell data is preserved.
+          </p>
+        )}
+
+        <div className="space-y-2">
+          {items.map((item, i) => (
+            <div
+              key={i}
+              draggable
+              onDragStart={() => handleDragStart(i)}
+              onDragOver={(e) => handleDragOver(e, i)}
+              onDragEnd={handleDragEnd}
+              className="flex items-center gap-2 cursor-grab active:cursor-grabbing"
+            >
+              <span className="text-slate-300 select-none text-sm leading-none shrink-0">⠿</span>
+              <span className={`shrink-0 w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-black text-white ${
+                i === 0 ? "bg-amber-400" : i === 1 ? "bg-slate-400" : i === 2 ? "bg-orange-400" : "bg-blue-400"
+              }`}>
+                {i + 1}
+              </span>
+              <input
+                type="text"
+                value={item}
+                onChange={(e) => updateItem(i, e.target.value)}
+                placeholder={`Differential #${i + 1}`}
+                className="flex-1 px-3 py-2 rounded-lg border-2 border-slate-100 text-sm font-semibold focus:ring-2 focus:ring-teal-500/20 focus:border-teal-300 transition-all placeholder:text-slate-300"
+              />
+              <button
+                onClick={() => removeItem(i)}
+                disabled={items.length <= 1}
+                className="p-1.5 rounded-lg text-slate-300 hover:text-rose-500 hover:bg-rose-50 transition-colors disabled:opacity-20"
+              >
+                <X className="w-3.5 h-3.5" />
+              </button>
+            </div>
+          ))}
+        </div>
+
+        <button
+          onClick={addItem}
+          className="flex items-center gap-1.5 text-[10px] font-black text-teal-600 hover:text-teal-700 uppercase tracking-widest transition-colors"
+        >
+          <Plus className="w-3.5 h-3.5" />
+          Add Differential
+        </button>
+
+        <button
+          onClick={handleSave}
+          disabled={items.filter((s) => s.trim()).length === 0 || saving}
+          className="w-full py-3 rounded-2xl bg-teal-600 hover:bg-teal-700 disabled:opacity-40 text-white text-xs font-black uppercase tracking-widest transition-all shadow-lg active:scale-[0.98]"
+        >
+          {saving ? "Saving..." : "Save Changes"}
+        </button>
+      </div>
     </div>
   );
 }
@@ -684,12 +865,12 @@ function CreateYJLCardModal({
         </div>
 
         <div>
-          <label className="block text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1.5">Differentials (up to 3)</label>
+          <label className="block text-[10px] font-black text-slate-400 uppercase tracking-widest mb-1.5">Differentials</label>
           <div className="space-y-2">
             {differentials.map((d, i) => (
               <div key={i} className="flex items-center gap-2">
                 <span className={`w-5 h-5 rounded-full flex items-center justify-center text-[10px] font-black text-white shrink-0 ${
-                  i === 0 ? "bg-amber-400" : i === 1 ? "bg-slate-400" : "bg-orange-400"
+                  i === 0 ? "bg-amber-400" : i === 1 ? "bg-slate-400" : i === 2 ? "bg-orange-400" : "bg-blue-400"
                 }`}>{i + 1}</span>
                 <input
                   type="text"
@@ -702,9 +883,23 @@ function CreateYJLCardModal({
                   placeholder={`Differential #${i + 1}`}
                   className="flex-1 px-3 py-2 rounded-lg border-2 border-slate-100 text-sm font-semibold focus:ring-2 focus:ring-teal-500/20 focus:border-teal-300 transition-all placeholder:text-slate-300"
                 />
+                <button
+                  onClick={() => setDifferentials((prev) => prev.filter((_, idx) => idx !== i))}
+                  disabled={differentials.length <= 1}
+                  className="p-1.5 rounded-lg text-slate-300 hover:text-rose-500 hover:bg-rose-50 transition-colors disabled:opacity-20 shrink-0"
+                >
+                  <X className="w-3.5 h-3.5" />
+                </button>
               </div>
             ))}
           </div>
+          <button
+            onClick={() => setDifferentials((prev) => [...prev, ""])}
+            className="mt-2 flex items-center gap-1.5 text-[10px] font-black text-teal-600 hover:text-teal-700 uppercase tracking-widest transition-colors"
+          >
+            <Plus className="w-3.5 h-3.5" />
+            Add Differential
+          </button>
         </div>
 
         <div>
@@ -762,6 +957,7 @@ export function DifferentialsPage() {
 
   // Create card modal state
   const [createCardOpen, setCreateCardOpen] = useState(false);
+  const [editDiffTarget, setEditDiffTarget] = useState<YJLCase | null>(null);
 
   // Add Note state
   const [noteTarget, setNoteTarget] = useState<Doc<"discriminators"> | null>(null);
@@ -1468,6 +1664,7 @@ export function DifferentialsPage() {
                             current: discriminatorSiblings.currentIndex + 1,
                             total: discriminatorSiblings.siblings.length,
                           } : undefined}
+                          onEditDifferentials={() => setEditDiffTarget(c)}
                         />
                       </ImageDropZone>
                     );
@@ -1526,6 +1723,18 @@ export function DifferentialsPage() {
           </div>
         )}
       </div>
+
+      {/* Edit Differentials Modal */}
+      <EditDifferentialsModal
+        open={!!editDiffTarget}
+        onClose={() => setEditDiffTarget(null)}
+        yjlCase={editDiffTarget}
+        discriminator={
+          editDiffTarget?.discriminatorId
+            ? allDiscriminators?.find((d) => d._id === editDiffTarget.discriminatorId)
+            : null
+        }
+      />
 
       {/* Create YJL Card Modal */}
       <CreateYJLCardModal
