@@ -54,7 +54,8 @@ export function ImageDropZone({
     if (differentialOptions.length > 0 && !selectedDifferential) {
       setSelectedDifferential(differentialOptions[0]);
     }
-  }, [differentialOptions, selectedDifferential]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [differentialOptions]);
 
   const handleDragEnter = useCallback((e: DragEvent) => {
     e.preventDefault();
