@@ -1,4 +1,4 @@
-import { useState, useMemo, Fragment, useRef } from "react";
+import { useState, useMemo, Fragment, useRef, useEffect } from "react";
 import { Dialog, DialogPanel, DialogTitle, Transition, TransitionChild } from "@headlessui/react";
 import { useMutation } from "convex/react";
 import { api } from "../../../convex/_generated/api";
@@ -293,12 +293,13 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
   const patchField = useMutation(api.discriminators.patchDifferentialField);
 
   // State for editing
-  const [editingCell, setEditingCell] = useState<{ 
-    originalIndex: number; 
-    key: string; 
+  const [editingCell, setEditingCell] = useState<{
+    originalIndex: number;
+    key: string;
     dbField: string;
     text: string;
   } | null>(null);
+  const editorRef = useRef<HTMLDivElement>(null);
 
   // ── Combined Logic: Merge differentials and seriousAlternatives ──
   const allDiffs = useMemo(() => {
@@ -402,9 +403,8 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
     const selection = window.getSelection();
     if (!selection || selection.rangeCount === 0) return;
     const range = selection.getRangeAt(0);
-    
-    // Check if selection is inside the editor
-    const editor = document.getElementById('visual-editor');
+
+    const editor = editorRef.current;
     if (!editor || !editor.contains(range.commonAncestorContainer)) return;
 
     if (range.collapsed) return;
@@ -437,11 +437,9 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
       }
     }
 
-    // Update the state from HTML
-    if (editor) {
-      const markerText = fromHTML(editor.innerHTML);
-      if (editingCell) setEditingCell({ ...editingCell, text: markerText });
-    }
+    // Sync formatted HTML back to state (read from DOM, don't re-render DOM)
+    const markerText = fromHTML(editor.innerHTML);
+    if (editingCell) setEditingCell({ ...editingCell, text: markerText });
   };
 
   const fromHTML = (html: string) => {
@@ -468,6 +466,21 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
       .replace(/==([^=]+)==/g, '<mark class="bg-yellow-200 px-0.5 rounded text-slate-900">$1</mark>')
       .replace(/<u>(.*?)<\/u>/gi, '<u class="underline decoration-2 decoration-teal-500 underline-offset-2">$1</u>');
   };
+
+  // Set editor content + cursor position only when a NEW cell opens — never on keystrokes.
+  // This prevents dangerouslySetInnerHTML from resetting the cursor on every render.
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  useEffect(() => {
+    if (!editorRef.current || !editingCell) return;
+    editorRef.current.innerHTML = toHTML(editingCell.text);
+    editorRef.current.focus();
+    const sel = window.getSelection();
+    const range = document.createRange();
+    range.selectNodeContents(editorRef.current);
+    range.collapse(false); // cursor to end
+    sel?.removeAllRanges();
+    sel?.addRange(range);
+  }, [editingCell?.originalIndex, editingCell?.key]); // eslint-disable-line react-hooks/exhaustive-deps
 
   return (
     <>
@@ -709,16 +722,15 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
                                             </button>
                                           </div>
 
-                                          {/* ContentEditable rich editor */}
+                                          {/* ContentEditable rich editor — innerHTML managed via ref+effect only,
+                                              NOT via dangerouslySetInnerHTML, so React never resets the cursor. */}
                                           <div
-                                            id="visual-editor"
+                                            ref={editorRef}
                                             contentEditable
                                             suppressContentEditableWarning
-                                            dangerouslySetInnerHTML={{ __html: toHTML(editingCell.text) }}
                                             onInput={() => {
-                                              const editor = document.getElementById('visual-editor');
-                                              if (editor && editingCell) {
-                                                setEditingCell({ ...editingCell, text: fromHTML(editor.innerHTML) });
+                                              if (editorRef.current && editingCell) {
+                                                setEditingCell({ ...editingCell, text: fromHTML(editorRef.current.innerHTML) });
                                               }
                                             }}
                                             className="min-h-[80px] p-3 rounded-xl border border-teal-300 bg-white text-sm text-slate-800 leading-relaxed focus:outline-none focus:ring-2 focus:ring-teal-500/30"

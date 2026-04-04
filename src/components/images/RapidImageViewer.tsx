@@ -529,7 +529,7 @@ export function RapidImageViewer({
   const currentAttribution = currentCase?.images.find((img) => img.attribution)?.attribution;
 
   const thumbnailItems = expanded
-    ? currentCase.images
+    ? (currentCase?.images ?? [])
     : cases.map((c) => c.images[0]);
 
   return (
@@ -971,19 +971,10 @@ export function RapidImageViewer({
                     }
                   }}
                 >
-                  {/* Viva Summary — centered top, primary folder only */}
-                  {vivaSummary && activeBucketIndex === 0 && (
-                    <div className="absolute top-4 left-1/2 -translate-x-1/2 z-30 pointer-events-none max-w-[650px] w-full px-4">
-                      <div className="px-6 py-3 bg-slate-900/90 backdrop-blur-md border border-teal-500/30 rounded-2xl shadow-2xl">
-                        <p className="text-[9px] font-black text-teal-400 uppercase tracking-[0.25em] mb-1.5 text-center">Viva Summary</p>
-                        <p className="text-sm text-teal-100/95 leading-relaxed text-center font-medium italic">{vivaSummary}</p>
-                      </div>
-                    </div>
-                  )}
-                  {/* Findings — editable box, far left, primary folder only */}
+                  {/* Findings + Viva Summary — left column, primary folder only */}
                   {activeBucketIndex === 0 && (
-                    <div className="absolute top-4 left-3 z-30 w-[440px] flex flex-col gap-2">
-                      <div className="px-4 py-3 bg-slate-900/90 backdrop-blur-md border border-amber-500/30 rounded-2xl shadow-2xl">
+                    <div className="absolute top-4 left-3 z-30 w-[28%] max-w-[440px] flex flex-col gap-2">
+                      <div className="px-3 py-2 2xl:px-4 2xl:py-3 bg-slate-900/90 backdrop-blur-md border border-amber-500/30 rounded-2xl shadow-2xl">
                         <div className="flex items-center justify-between mb-2">
                           <p className="text-[9px] font-black text-amber-400 uppercase tracking-[0.25em]">Findings</p>
                           {onSaveFindings && !isEditingFindings && (
@@ -1034,7 +1025,7 @@ export function RapidImageViewer({
                               e.stopPropagation();
                             }}
                             placeholder="Paste findings here..."
-                            className="w-full bg-transparent text-sm text-amber-100/90 leading-snug font-medium resize-none outline-none placeholder:text-amber-400/30 min-h-[60px]"
+                            className="w-full bg-transparent text-[11px] xl:text-xs 2xl:text-sm text-amber-100/90 leading-snug font-medium resize-none outline-none placeholder:text-amber-400/30 min-h-[60px]"
                             rows={Math.max(3, findingsDraft.split("\n").length)}
                           />
                         ) : findingsDraft ? (
@@ -1042,7 +1033,7 @@ export function RapidImageViewer({
                             {findingsDraft.split("\n").filter(Boolean).map((line, i) => (
                               <li key={i} className="flex items-start gap-1.5">
                                 <span className="mt-1.5 w-1 h-1 rounded-full bg-amber-400 shrink-0" />
-                                <span className="text-sm text-amber-100/90 leading-snug font-medium">{line.replace(/^[-•]\s*/, '').trim()}</span>
+                                <span className="text-[11px] xl:text-xs 2xl:text-sm text-amber-100/90 leading-snug font-medium">{line.replace(/^[-•]\s*/, '').trim()}</span>
                               </li>
                             ))}
                           </ul>
@@ -1060,32 +1051,47 @@ export function RapidImageViewer({
                           </p>
                         )}
                       </div>
+
+                      {/* Viva Summary — stacked below findings, same column */}
+                      {vivaSummary && (
+                        <div className="px-3 py-2 2xl:px-4 2xl:py-3 bg-slate-900/90 backdrop-blur-md border border-teal-500/30 rounded-2xl shadow-2xl pointer-events-none">
+                          <p className="text-[9px] font-black text-teal-400 uppercase tracking-[0.25em] mb-1">Viva Summary</p>
+                          <ul className="space-y-0.5 2xl:space-y-1">
+                            {vivaSummary.split(/(?<=[.;])\s+|\n+/).filter(Boolean).map((point, i) => (
+                              <li key={i} className="flex items-start gap-1.5">
+                                <span className="mt-1.5 w-1 h-1 rounded-full bg-teal-400 shrink-0" />
+                                <span className="text-[11px] 2xl:text-sm text-teal-100/95 leading-snug font-medium italic">{point.replace(/[.;]$/, '').trim()}</span>
+                              </li>
+                            ))}
+                          </ul>
+                        </div>
+                      )}
                     </div>
                   )}
                   {/* Dominant Imaging + Key Discriminating — far right sidebar, primary folder only */}
                   {activeBucketIndex === 0 && (dominantImagingFinding || discriminatingKeyFeature) && (
-                    <div className="absolute top-4 right-3 z-30 pointer-events-none w-[440px] flex flex-col gap-2">
+                    <div className="absolute top-4 right-3 z-30 pointer-events-none w-[28%] max-w-[440px] flex flex-col gap-2">
                       {dominantImagingFinding && (
-                        <div className="px-4 py-3 bg-slate-900/90 backdrop-blur-md border border-blue-500/30 rounded-2xl shadow-2xl">
-                          <p className="text-[9px] font-black text-blue-400 uppercase tracking-[0.25em] mb-2">Dominant Imaging</p>
-                          <ul className="space-y-1">
+                        <div className="px-3 py-2 2xl:px-4 2xl:py-3 bg-slate-900/90 backdrop-blur-md border border-blue-500/30 rounded-2xl shadow-2xl">
+                          <p className="text-[9px] font-black text-blue-400 uppercase tracking-[0.25em] mb-1 2xl:mb-2">Dominant Imaging</p>
+                          <ul className="space-y-0.5 2xl:space-y-1">
                             {dominantImagingFinding.split(/[.;]\s+/).filter(Boolean).map((point, i) => (
                               <li key={i} className="flex items-start gap-1.5">
                                 <span className="mt-1.5 w-1 h-1 rounded-full bg-blue-400 shrink-0" />
-                                <span className="text-sm text-blue-100/90 leading-snug font-medium">{point.replace(/\.$/, '').trim()}</span>
+                                <span className="text-[11px] xl:text-xs 2xl:text-sm text-blue-100/90 leading-snug font-medium">{point.replace(/\.$/, '').trim()}</span>
                               </li>
                             ))}
                           </ul>
                         </div>
                       )}
                       {discriminatingKeyFeature && (
-                        <div className="px-4 py-3 bg-slate-900/90 backdrop-blur-md border border-emerald-500/30 rounded-2xl shadow-2xl">
-                          <p className="text-[9px] font-black text-emerald-400 uppercase tracking-[0.25em] mb-2">Key Discriminating</p>
-                          <ul className="space-y-1">
+                        <div className="px-3 py-2 2xl:px-4 2xl:py-3 bg-slate-900/90 backdrop-blur-md border border-emerald-500/30 rounded-2xl shadow-2xl">
+                          <p className="text-[9px] font-black text-emerald-400 uppercase tracking-[0.25em] mb-1 2xl:mb-2">Key Discriminating</p>
+                          <ul className="space-y-0.5 2xl:space-y-1">
                             {discriminatingKeyFeature.split(/[.;]\s+/).filter(Boolean).map((point, i) => (
                               <li key={i} className="flex items-start gap-1.5">
                                 <span className="mt-1.5 w-1 h-1 rounded-full bg-emerald-400 shrink-0" />
-                                <span className="text-sm text-emerald-100/90 leading-snug font-medium">{point.replace(/\.$/, '').trim()}</span>
+                                <span className="text-[11px] xl:text-xs 2xl:text-sm text-emerald-100/90 leading-snug font-medium">{point.replace(/\.$/, '').trim()}</span>
                               </li>
                             ))}
                           </ul>
@@ -1110,7 +1116,7 @@ export function RapidImageViewer({
                   ) : (
                     <>
                       {/* Left arrow */}
-                      {(expanded ? currentCase.images.length > 1 : (cases.length > 1 || buckets.length > 1)) && (
+                      {(expanded ? (currentCase?.images.length ?? 0) > 1 : (cases.length > 1 || buckets.length > 1)) && (
                         <button
                           onClick={
                             expanded
@@ -1202,7 +1208,7 @@ export function RapidImageViewer({
                       </div>
 
                       {/* Right arrow */}
-                      {(expanded ? currentCase.images.length > 1 : (cases.length > 1 || buckets.length > 1)) && (
+                      {(expanded ? (currentCase?.images.length ?? 0) > 1 : (cases.length > 1 || buckets.length > 1)) && (
                         <button
                           onClick={
                             expanded
