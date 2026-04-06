@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      width: 320px;
+      padding: 16px;
+      font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+      font-size: 13px;
+    }
+    h3 { margin: 0 0 12px 0; font-size: 15px; }
+    #status { margin-top: 12px; padding: 8px; border-radius: 6px; display: none; }
+    .success { background: #d4edda; color: #155724; }
+    .error { background: #f8d7da; color: #721c24; }
+    .info { background: #e2e3e5; color: #383d41; }
+    button {
+      width: 100%;
+      padding: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      background: #1a73e8;
+      color: white;
+    }
+    button:hover { background: #1557b0; }
+    #count { font-size: 12px; color: #666; margin-top: 8px; }
+  </style>
+</head>
+<body>
+  <h3>NotebookLM Cookies</h3>
+  <button id="export">Copy All Cookies to Clipboard</button>
+  <div id="count"></div>
+  <div id="status"></div>
+  <script src="popup.js"></script>
+</body>
+</html>

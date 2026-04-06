@@ -1834,6 +1834,13 @@ export function DifferentialsPage() {
           const primary = disc?.differentials.find(d => d.isCorrectDiagnosis);
           return primary?.discriminatingKeyFeature ?? undefined;
         })()}
+        vivaAnswer={(() => {
+          if (!viewerTarget || viewerTarget.sourceType !== "yjlCase") return undefined;
+          const yjlCase = allYJL?.find(c => c._id === viewerTarget.sourceId);
+          if (!yjlCase?.discriminatorId) return undefined;
+          const disc = allDiscriminators?.find(d => d._id === yjlCase.discriminatorId);
+          return (disc as any)?.vivaAnswer ?? undefined;
+        })()}
         onNavigateCase={viewerSiblings ? handleNavigateViewerCase : undefined}
         casePosition={viewerSiblings ? {
           current: viewerSiblings.currentIndex + 1,

@@ -113,6 +113,34 @@ export default defineSchema({
     vivaSummary: v.optional(v.string()),           // 2-3 line spot diagnosis style (Section 5)
     commonPitfalls: v.optional(v.array(v.string())), // Where candidates go wrong (Section 6)
     nextBestStep: v.optional(v.string()),          // Further imaging / management (Section 7)
+    // Structured FRCR 2B viva ideal answer (phrase-framework)
+    vivaAnswer: v.optional(v.object({
+      findings: v.object({
+        dominantFinding: v.string(),
+        supportingFeatures: v.string(),
+        criticalNegatives: v.string(),
+        influentialFeature: v.string(),
+      }),
+      differentials: v.object({
+        primaryDiagnosis: v.string(),
+        principleDifferential: v.string(),
+        excludeDiagnosis: v.string(),
+        unifyingSummary: v.optional(v.string()),
+      }),
+      management: v.object({
+        priority: v.string(),
+        priorImaging: v.optional(v.string()),
+        furtherImaging: v.optional(v.string()),
+        ctPhases: v.optional(v.string()),
+        mriSequences: v.optional(v.string()),
+        spectralCt: v.optional(v.string()),
+        nuclearMedicine: v.optional(v.string()),
+        intervention: v.optional(v.string()),
+        followUp: v.optional(v.string()),
+        mdtDiscussion: v.string(),
+      }),
+      fullScript: v.string(),
+    })),
   })
     .index("by_longCaseId", ["longCaseId"])
     .index("by_pattern", ["pattern"]),

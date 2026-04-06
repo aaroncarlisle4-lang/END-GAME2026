@@ -238,6 +238,45 @@ export const batchEnrichOverwrite = mutation({
   },
 });
 
+// Store a structured FRCR 2B viva ideal answer on a discriminator
+export const setVivaAnswer = mutation({
+  args: {
+    id: v.id("discriminators"),
+    vivaAnswer: v.object({
+      findings: v.object({
+        dominantFinding: v.string(),
+        supportingFeatures: v.string(),
+        criticalNegatives: v.string(),
+        influentialFeature: v.string(),
+      }),
+      differentials: v.object({
+        primaryDiagnosis: v.string(),
+        principleDifferential: v.string(),
+        excludeDiagnosis: v.string(),
+        unifyingSummary: v.optional(v.string()),
+      }),
+      management: v.object({
+        priority: v.string(),
+        priorImaging: v.optional(v.string()),
+        furtherImaging: v.optional(v.string()),
+        ctPhases: v.optional(v.string()),
+        mriSequences: v.optional(v.string()),
+        spectralCt: v.optional(v.string()),
+        nuclearMedicine: v.optional(v.string()),
+        intervention: v.optional(v.string()),
+        followUp: v.optional(v.string()),
+        mdtDiscussion: v.string(),
+      }),
+      fullScript: v.string(),
+    }),
+  },
+  handler: async (ctx, args) => {
+    const doc = await ctx.db.get(args.id);
+    if (!doc) throw new Error("Discriminator not found");
+    await ctx.db.patch(args.id, { vivaAnswer: args.vivaAnswer });
+  },
+});
+
 export const countEnriched = query({
   args: {},
   handler: async (ctx) => {

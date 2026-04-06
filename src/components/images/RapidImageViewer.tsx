@@ -18,8 +18,11 @@ import {
   Pencil,
   Upload,
   Camera,
+  BookOpen,
 } from "lucide-react";
 import { ImageAnnotationLayer } from "./ImageAnnotationLayer";
+import { VivaAnswerOverlay } from "../viva/VivaAnswerOverlay";
+import type { VivaAnswerData } from "../viva/VivaAnswerOverlay";
 import { useMutation } from "convex/react";
 import { useImageUpload } from "../../hooks/useImageUpload";
 import { api } from "../../../convex/_generated/api";
@@ -59,6 +62,8 @@ interface RapidImageViewerProps {
   onNavigateCase?: (direction: "prev" | "next") => void;
   /** Current position in the case list */
   casePosition?: { current: number; total: number; categoryName: string };
+  /** Structured FRCR 2B viva ideal answer */
+  vivaAnswer?: VivaAnswerData;
   /** User-editable findings text */
   findings?: string;
   /** Callback to save findings text */
@@ -93,6 +98,7 @@ export function RapidImageViewer({
   discriminatingKeyFeature,
   onNavigateCase,
   casePosition,
+  vivaAnswer,
   findings,
   onSaveFindings,
 }: RapidImageViewerProps) {
@@ -101,6 +107,9 @@ export function RapidImageViewer({
   const deleteManifest = useMutation(api.studyImages.deleteManifest);
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [dragOverCenter, setDragOverCenter] = useState(false);
+
+  // Viva ideal answer toggle
+  const [showVivaAnswer, setShowVivaAnswer] = useState(false);
 
   // Findings editing state
   const [isEditingFindings, setIsEditingFindings] = useState(false);
@@ -645,6 +654,20 @@ export function RapidImageViewer({
                     </button>
                   )}
 
+                  {vivaAnswer && (
+                    <button
+                      onClick={() => setShowVivaAnswer((v) => !v)}
+                      className={`flex items-center gap-2 px-3 py-1.5 rounded-lg shadow-lg transition-all active:scale-95 ${
+                        showVivaAnswer
+                          ? "bg-violet-600 hover:bg-violet-500 text-white shadow-violet-900/40"
+                          : "bg-slate-700/60 hover:bg-slate-600 text-slate-300 hover:text-white"
+                      }`}
+                    >
+                      <BookOpen className="w-3.5 h-3.5" />
+                      <span className="text-[10px] font-black uppercase tracking-widest">Ideal Answer</span>
+                    </button>
+                  )}
+
                   {/* Case-to-case nav (top bar) */}
                   {onNavigateCase && casePosition && (
                     <div className="flex items-center gap-1.5 mr-1">
@@ -1068,36 +1091,47 @@ export function RapidImageViewer({
                       )}
                     </div>
                   )}
-                  {/* Dominant Imaging + Key Discriminating — far right sidebar, primary folder only */}
-                  {activeBucketIndex === 0 && (dominantImagingFinding || discriminatingKeyFeature) && (
-                    <div className="absolute top-4 right-3 z-30 pointer-events-none w-[28%] max-w-[440px] flex flex-col gap-2">
-                      {dominantImagingFinding && (
-                        <div className="px-3 py-2 2xl:px-4 2xl:py-3 bg-slate-900/90 backdrop-blur-md border border-blue-500/30 rounded-2xl shadow-2xl">
-                          <p className="text-[9px] font-black text-blue-400 uppercase tracking-[0.25em] mb-1 2xl:mb-2">Dominant Imaging</p>
-                          <ul className="space-y-0.5 2xl:space-y-1">
-                            {dominantImagingFinding.split(/[.;]\s+/).filter(Boolean).map((point, i) => (
-                              <li key={i} className="flex items-start gap-1.5">
-                                <span className="mt-1.5 w-1 h-1 rounded-full bg-blue-400 shrink-0" />
-                                <span className="text-[11px] xl:text-xs 2xl:text-sm text-blue-100/90 leading-snug font-medium">{point.replace(/\.$/, '').trim()}</span>
-                              </li>
-                            ))}
-                          </ul>
+                  {/* Right sidebar overlays — primary folder only */}
+                  {activeBucketIndex === 0 && (
+                    <>
+                      {/* Viva Ideal Answer overlay (replaces discriminator boxes when toggled) */}
+                      {showVivaAnswer && vivaAnswer && (
+                        <div className="absolute top-4 right-3 z-30 pointer-events-auto w-[30%] max-w-[480px]">
+                          <VivaAnswerOverlay vivaAnswer={vivaAnswer} />
                         </div>
                       )}
-                      {discriminatingKeyFeature && (
-                        <div className="px-3 py-2 2xl:px-4 2xl:py-3 bg-slate-900/90 backdrop-blur-md border border-emerald-500/30 rounded-2xl shadow-2xl">
-                          <p className="text-[9px] font-black text-emerald-400 uppercase tracking-[0.25em] mb-1 2xl:mb-2">Key Discriminating</p>
-                          <ul className="space-y-0.5 2xl:space-y-1">
-                            {discriminatingKeyFeature.split(/[.;]\s+/).filter(Boolean).map((point, i) => (
-                              <li key={i} className="flex items-start gap-1.5">
-                                <span className="mt-1.5 w-1 h-1 rounded-full bg-emerald-400 shrink-0" />
-                                <span className="text-[11px] xl:text-xs 2xl:text-sm text-emerald-100/90 leading-snug font-medium">{point.replace(/\.$/, '').trim()}</span>
-                              </li>
-                            ))}
-                          </ul>
+                      {/* Dominant Imaging + Key Discriminating — default right sidebar */}
+                      {!showVivaAnswer && (dominantImagingFinding || discriminatingKeyFeature) && (
+                        <div className="absolute top-4 right-3 z-30 pointer-events-none w-[28%] max-w-[440px] flex flex-col gap-2">
+                          {dominantImagingFinding && (
+                            <div className="px-3 py-2 2xl:px-4 2xl:py-3 bg-slate-900/90 backdrop-blur-md border border-blue-500/30 rounded-2xl shadow-2xl">
+                              <p className="text-[9px] font-black text-blue-400 uppercase tracking-[0.25em] mb-1 2xl:mb-2">Dominant Imaging</p>
+                              <ul className="space-y-0.5 2xl:space-y-1">
+                                {dominantImagingFinding.split(/[.;]\s+/).filter(Boolean).map((point, i) => (
+                                  <li key={i} className="flex items-start gap-1.5">
+                                    <span className="mt-1.5 w-1 h-1 rounded-full bg-blue-400 shrink-0" />
+                                    <span className="text-[11px] xl:text-xs 2xl:text-sm text-blue-100/90 leading-snug font-medium">{point.replace(/\.$/, '').trim()}</span>
+                                  </li>
+                                ))}
+                              </ul>
+                            </div>
+                          )}
+                          {discriminatingKeyFeature && (
+                            <div className="px-3 py-2 2xl:px-4 2xl:py-3 bg-slate-900/90 backdrop-blur-md border border-emerald-500/30 rounded-2xl shadow-2xl">
+                              <p className="text-[9px] font-black text-emerald-400 uppercase tracking-[0.25em] mb-1 2xl:mb-2">Key Discriminating</p>
+                              <ul className="space-y-0.5 2xl:space-y-1">
+                                {discriminatingKeyFeature.split(/[.;]\s+/).filter(Boolean).map((point, i) => (
+                                  <li key={i} className="flex items-start gap-1.5">
+                                    <span className="mt-1.5 w-1 h-1 rounded-full bg-emerald-400 shrink-0" />
+                                    <span className="text-[11px] xl:text-xs 2xl:text-sm text-emerald-100/90 leading-snug font-medium">{point.replace(/\.$/, '').trim()}</span>
+                                  </li>
+                                ))}
+                              </ul>
+                            </div>
+                          )}
                         </div>
                       )}
-                    </div>
+                    </>
                   )}
                   {isLoading ? (
                     <div className="flex flex-col items-center gap-3">
