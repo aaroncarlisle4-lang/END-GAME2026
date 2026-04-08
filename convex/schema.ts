@@ -176,6 +176,7 @@ export default defineSchema({
       author: v.optional(v.string()),       // Contributing author
       licence: v.optional(v.string()),      // CC licence type
     })),
+    imageCount: v.optional(v.number()),
   })
     .index("by_category", ["categoryId"])
     .index("by_caseNumber", ["caseNumber"])
@@ -221,6 +222,7 @@ export default defineSchema({
     modelAnswer: v.string(),
     pearls: v.array(v.string()),
     relatedSections: v.array(v.string()),
+    imageCount: v.optional(v.number()),
   })
     .index("by_chapter", ["chapterNumber"])
     .index("by_category", ["categoryAbbreviation"])
@@ -236,6 +238,7 @@ export default defineSchema({
     top3: v.array(v.string()),
     additional: v.array(v.string()),
     dahnertDdxSlug: v.optional(v.string()), // links to dahnertDDxClusters.slug
+    imageCount: v.optional(v.number()),
   })
     .index("by_category", ["categoryAbbreviation"])
     .index("by_section", ["section"])
@@ -253,6 +256,7 @@ export default defineSchema({
       })
     ),
     additionalNotes: v.optional(v.string()),
+    imageCount: v.optional(v.number()),
   })
     .index("by_category", ["categoryAbbreviation"])
     .index("by_itemNumber", ["itemNumber"])
@@ -283,6 +287,7 @@ export default defineSchema({
     top3Differentials: v.array(v.string()),
     discriminatorId: v.optional(v.id("discriminators")),
     attribution: v.optional(v.string()),
+    imageCount: v.optional(v.number()),
   })
     .index("by_category", ["playlistCategory"])
     .index("by_playlist", ["playlistId"])

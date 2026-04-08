@@ -214,3 +214,4 @@ Browser (logged into Google)
             → Claude Code skills / Python scripts (process responses)
               → Convex database (store structured results)
 ```
+

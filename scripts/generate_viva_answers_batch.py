@@ -54,13 +54,22 @@ def wait_for_auth():
         return False
 
 def run_convex(func, args_dict):
-    result = subprocess.run(
-        ["npx", "convex", "run", func, json.dumps(args_dict)],
-        capture_output=True, text=True, timeout=30
-    )
-    if result.returncode != 0:
-        raise Exception(f"Convex error: {result.stderr.strip()}")
-    return json.loads(result.stdout) if result.stdout.strip() else None
+    import tempfile
+    with tempfile.NamedTemporaryFile(mode='w+', suffix='.json', delete=False) as tmp:
+        tmp_path = tmp.name
+    try:
+        with open(tmp_path, 'w') as out_f:
+            result = subprocess.run(
+                ["npx", "convex", "run", func, json.dumps(args_dict)],
+                stdout=out_f, stderr=subprocess.PIPE, text=True, timeout=60
+            )
+        if result.returncode != 0:
+            raise Exception(f"Convex error: {result.stderr.strip()}")
+        with open(tmp_path, 'r') as in_f:
+            content = in_f.read().strip()
+        return json.loads(content) if content else None
+    finally:
+        os.unlink(tmp_path)
 
 def build_prompt(case, discriminator):
     """Build the FRCR 2B phrase-framework prompt from case + discriminator data."""

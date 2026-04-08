@@ -8,20 +8,23 @@ import { ImageDropZone } from "../images/ImageDropZone";
 import { RapidImageViewer } from "../images/RapidImageViewer";
 import { DicomPlaceholder } from "./DicomPlaceholder";
 import { getCategoryMeta } from "../../lib/categoryConfig";
+import { InlineDiscriminators } from "./InlineDiscriminators";
 
-function RapidCard({ 
-  caseData, 
+function RapidCard({
+  caseData,
   meta,
   abbrev,
   discriminator,
+  hasDiscriminator,
   discriminatorOpen,
   setDiscriminatorOpen,
   onViewImages
-}: { 
+}: {
   caseData: Doc<"rapidCases">;
   meta: ReturnType<typeof getCategoryMeta>;
   abbrev: string;
   discriminator?: Doc<"discriminators"> | null;
+  hasDiscriminator?: boolean;
   discriminatorOpen?: boolean;
   setDiscriminatorOpen?: (open: boolean) => void;
   onViewImages?: () => void;
@@ -65,8 +68,8 @@ function RapidCard({
             {/* Embedded DICOM Viewer Placeholder */}
             <DicomPlaceholder 
               modality={caseData.modality} 
-              onViewDiscriminators={discriminator ? () => setDiscriminatorOpen?.(true) : undefined}
-              hasDiscriminator={!!discriminator}
+              onViewDiscriminators={hasDiscriminator ? () => setDiscriminatorOpen?.(true) : undefined}
+              hasDiscriminator={!!hasDiscriminator}
             />
 
             <div className="space-y-3 mt-4">
@@ -109,14 +112,23 @@ function RapidCard({
               )}
             </div>
 
-            {discriminator && (
+            {(hasDiscriminator || discriminator) && (
               <div className="pt-4 border-t border-gray-100">
-                <InlineDiscriminators 
-                  discriminator={discriminator} 
-                  externalOpen={discriminatorOpen}
-                  setExternalOpen={setDiscriminatorOpen}
-                  onViewImages={onViewImages}
-                />
+                {discriminator ? (
+                  <InlineDiscriminators
+                    discriminator={discriminator}
+                    externalOpen={discriminatorOpen}
+                    setExternalOpen={setDiscriminatorOpen}
+                    onViewImages={onViewImages}
+                  />
+                ) : (
+                  <button
+                    onClick={(e) => { e.stopPropagation(); setDiscriminatorOpen?.(true); }}
+                    className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-teal-50 text-teal-700 hover:bg-teal-600 hover:text-white text-[10px] font-black uppercase tracking-widest transition-all border border-teal-100 active:scale-95"
+                  >
+                    Discriminate
+                  </button>
+                )}
               </div>
             )}
           </div>
@@ -126,10 +138,18 @@ function RapidCard({
   );
 }
 
+type DiscriminatorLookup = {
+  _id: Id<"discriminators">;
+  pattern: string;
+  obrienRef?: { obrienCaseNumber: number };
+  mnemonicRef?: { mnemonic: string };
+  differentialDiagnoses: string[];
+};
+
 export function RapidCardsView({ categoryId, abbrev }: { categoryId: Id<"categories">; abbrev: string }) {
   const [searchQuery, setSearchQuery] = useState("");
   const cases = useQuery(api.rapidCases.getByCategory, { categoryId });
-  const allDiscriminators = useQuery(api.discriminators.list);
+  const allDiscriminatorLookups = useQuery(api.discriminators.listLookup) as DiscriminatorLookup[] | undefined;
   const meta = getCategoryMeta(abbrev);
 
   const [viewerOpen, setViewerOpen] = useState(false);
@@ -142,12 +162,27 @@ export function RapidCardsView({ categoryId, abbrev }: { categoryId: Id<"categor
   const [openDiscriminatorId, setOpenDiscriminatorId] = useState<string | null>(null);
 
   const patternMap = useMemo(() => {
-    const map = new Map<string, Doc<"discriminators">>();
-    allDiscriminators?.forEach(d => {
+    const map = new Map<string, DiscriminatorLookup>();
+    allDiscriminatorLookups?.forEach(d => {
       map.set(d.pattern.toLowerCase().trim(), d);
     });
     return map;
-  }, [allDiscriminators]);
+  }, [allDiscriminatorLookups]);
+
+  // Resolve the discriminator ID for the currently-open rapid case
+  const activeDiscriminatorId = useMemo(() => {
+    if (!openDiscriminatorId || !cases) return undefined;
+    const openCase = cases.find(c => c._id === openDiscriminatorId);
+    if (!openCase) return undefined;
+    const lookup = patternMap.get((openCase.title || openCase.keyFinding || "").toLowerCase().trim());
+    return lookup?._id;
+  }, [openDiscriminatorId, cases, patternMap]);
+
+  // Fetch full discriminator only for the ONE expanded card
+  const activeFullDiscriminator = useQuery(
+    api.discriminators.get,
+    activeDiscriminatorId ? { id: activeDiscriminatorId } : "skip"
+  );
 
   // Group and filter
   const filteredCases = useMemo(() => {
@@ -181,13 +216,6 @@ export function RapidCardsView({ categoryId, abbrev }: { categoryId: Id<"categor
     return entries;
   }, [filteredCases]);
 
-  const caseIds = useMemo(() => cases?.map(c => c._id) ?? [], [cases]);
-  const imageCounts = useQuery(
-    api.studyImages.batchGetImageCounts,
-    caseIds.length > 0
-      ? { sourceType: "rapidCase" as const, sourceIds: caseIds }
-      : "skip"
-  );
 
   const viewerImages = useQuery(
     api.studyImages.listBySource,
@@ -238,25 +266,30 @@ export function RapidCardsView({ categoryId, abbrev }: { categoryId: Id<"categor
             
             <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
               {groupCases.map(c => {
-                const discriminator = patternMap.get((c.title || c.keyFinding || "").toLowerCase().trim());
-                const options = discriminator 
-                  ? Array.from(new Set([c.diagnosis, ...discriminator.differentials.map(d => d.diagnosis)]))
+                const lookup = patternMap.get((c.title || c.keyFinding || "").toLowerCase().trim());
+                const options = lookup
+                  ? Array.from(new Set([c.diagnosis, ...lookup.differentialDiagnoses]))
                   : [c.diagnosis];
+                // Use full doc only for the ONE expanded card
+                const fullDiscriminator = (openDiscriminatorId === c._id && activeFullDiscriminator)
+                  ? activeFullDiscriminator
+                  : undefined;
 
                 return (
                   <ImageDropZone
                     key={c._id}
                     sourceType="rapidCase"
                     sourceId={c._id}
-                    imageCount={imageCounts?.[c._id] ?? 0}
+                    imageCount={c.imageCount ?? 0}
                     onViewImages={() => handleViewImages(c._id, c.title || c.keyFinding)}
                     differentialOptions={options}
                   >
-                    <RapidCard 
-                      caseData={c} 
-                      meta={meta} 
-                      abbrev={abbrev} 
-                      discriminator={discriminator}
+                    <RapidCard
+                      caseData={c}
+                      meta={meta}
+                      abbrev={abbrev}
+                      discriminator={fullDiscriminator}
+                      hasDiscriminator={!!lookup}
                       discriminatorOpen={openDiscriminatorId === c._id}
                       setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? c._id : null)}
                       onViewImages={() => handleViewImages(c._id, c.title || c.keyFinding)}

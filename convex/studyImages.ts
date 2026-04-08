@@ -9,6 +9,53 @@ const sourceTypeValidator = v.union(
   v.literal("yjlCase")
 );
 
+type SourceType = "differentialPattern" | "mnemonic" | "chapman" | "rapidCase" | "yjlCase";
+
+const SOURCE_TABLE_MAP: Record<SourceType, "differentialPatterns" | "mnemonics" | "chapmanACE" | "rapidCases" | "yjlCases"> = {
+  differentialPattern: "differentialPatterns",
+  mnemonic: "mnemonics",
+  chapman: "chapmanACE",
+  rapidCase: "rapidCases",
+  yjlCase: "yjlCases",
+};
+
+/**
+ * Recount images+manifest slices for a source and update its imageCount field.
+ * Called after any write to studyImages or studyManifests.
+ */
+async function syncImageCount(
+  ctx: { db: any },
+  sourceType: SourceType,
+  sourceId: string,
+) {
+  const images = await ctx.db
+    .query("studyImages")
+    .withIndex("by_source", (q: any) =>
+      q.eq("sourceType", sourceType).eq("sourceId", sourceId)
+    )
+    .collect();
+  const manifests = await ctx.db
+    .query("studyManifests")
+    .withIndex("by_source", (q: any) =>
+      q.eq("sourceType", sourceType).eq("sourceId", sourceId)
+    )
+    .collect();
+  const manifestCaseGroups = new Set(manifests.map((m: any) => m.caseGroup));
+  const individualCount = images.filter(
+    (img: any) => !img.caseGroup || !manifestCaseGroups.has(img.caseGroup)
+  ).length;
+  const manifestSliceCount = manifests.reduce(
+    (sum: number, m: any) => sum + m.slices.length, 0
+  );
+  const total = individualCount + manifestSliceCount;
+
+  const tableName = SOURCE_TABLE_MAP[sourceType];
+  const doc = await ctx.db.get(sourceId as Id<typeof tableName>);
+  if (doc) {
+    await ctx.db.patch(sourceId as Id<typeof tableName>, { imageCount: total });
+  }
+}
+
 /**
  * Resolve an image record to a displayable URL.
  * Centralises storage-provider logic so listBySource (and future queries)
@@ -89,7 +136,7 @@ export const addImage = mutation({
     const storageProvider = args.storageProvider
       ?? (args.s3Key ? "s3" : args.storageId ? "convex" : "external");
 
-    return await ctx.db.insert("studyImages", {
+    const id = await ctx.db.insert("studyImages", {
       sourceType: args.sourceType,
       sourceId: args.sourceId,
       storageId: args.storageId,
@@ -102,6 +149,8 @@ export const addImage = mutation({
       sortOrder: maxSort + 1,
       createdAt: Date.now(),
     });
+    await syncImageCount(ctx, args.sourceType, args.sourceId);
+    return id;
   },
 });
 
@@ -186,19 +235,26 @@ export const deleteImage = mutation({
       await ctx.storage.delete(image.storageId);
     }
     await ctx.db.delete(args.id);
+    await syncImageCount(ctx, image.sourceType as SourceType, image.sourceId);
   },
 });
 
 export const deleteStack = mutation({
   args: { ids: v.array(v.id("studyImages")) },
   handler: async (ctx, args) => {
+    const sourcesToSync = new Set<string>();
     for (const id of args.ids) {
       const image = await ctx.db.get(id);
       if (!image) continue;
       if (image.storageId) {
         await ctx.storage.delete(image.storageId);
       }
+      sourcesToSync.add(`${image.sourceType}:${image.sourceId}`);
       await ctx.db.delete(id);
+    }
+    for (const key of sourcesToSync) {
+      const [sourceType, sourceId] = key.split(":");
+      await syncImageCount(ctx, sourceType as SourceType, sourceId);
     }
     return { deleted: args.ids.length };
   },
@@ -227,7 +283,7 @@ export const addManifest = mutation({
       sortOrder: i,
     }));
 
-    return await ctx.db.insert("studyManifests", {
+    const id = await ctx.db.insert("studyManifests", {
       sourceType: args.sourceType,
       sourceId: args.sourceId,
       caseGroup: args.caseGroup,
@@ -236,6 +292,8 @@ export const addManifest = mutation({
       slices,
       createdAt: Date.now(),
     });
+    await syncImageCount(ctx, args.sourceType, args.sourceId);
+    return id;
   },
 });
 
@@ -244,13 +302,13 @@ export const deleteManifest = mutation({
   handler: async (ctx, args) => {
     const manifest = await ctx.db.get(args.id);
     if (!manifest) return;
-    // Delete any Convex storage blobs referenced in slices
     for (const slice of manifest.slices) {
       if (slice.storageId) {
         await ctx.storage.delete(slice.storageId);
       }
     }
     await ctx.db.delete(args.id);
+    await syncImageCount(ctx, manifest.sourceType as SourceType, manifest.sourceId);
   },
 });
 
@@ -289,6 +347,7 @@ export const batchAddImages = mutation({
         createdAt: Date.now(),
       });
     }
+    await syncImageCount(ctx, args.sourceType, args.sourceId);
     return { inserted: args.urls.length };
   },
 });
@@ -332,6 +391,54 @@ export const batchGetImageCounts = query({
       }
     }
     return counts;
+  },
+});
+
+/**
+ * Backfill imageCount on all source tables by recounting images+manifests.
+ * Run once after deploying the schema change, then never again.
+ */
+export const backfillImageCounts = mutation({
+  args: {},
+  handler: async (ctx) => {
+    const allImages = await ctx.db.query("studyImages").collect();
+    const allManifests = await ctx.db.query("studyManifests").collect();
+
+    // Build a map of sourceType:sourceId → { images, manifestSlices }
+    const sourceMap = new Map<string, { images: any[]; manifests: any[] }>();
+    for (const img of allImages) {
+      const key = `${img.sourceType}:${img.sourceId}`;
+      if (!sourceMap.has(key)) sourceMap.set(key, { images: [], manifests: [] });
+      sourceMap.get(key)!.images.push(img);
+    }
+    for (const m of allManifests) {
+      const key = `${m.sourceType}:${m.sourceId}`;
+      if (!sourceMap.has(key)) sourceMap.set(key, { images: [], manifests: [] });
+      sourceMap.get(key)!.manifests.push(m);
+    }
+
+    let updated = 0;
+    for (const [key, { images, manifests }] of sourceMap) {
+      const [sourceType, sourceId] = key.split(":");
+      const manifestCaseGroups = new Set(manifests.map((m: any) => m.caseGroup));
+      const individualCount = images.filter(
+        (img: any) => !img.caseGroup || !manifestCaseGroups.has(img.caseGroup)
+      ).length;
+      const manifestSliceCount = manifests.reduce(
+        (sum: number, m: any) => sum + m.slices.length, 0
+      );
+      const total = individualCount + manifestSliceCount;
+
+      const tableName = SOURCE_TABLE_MAP[sourceType as SourceType];
+      if (tableName) {
+        const doc = await ctx.db.get(sourceId as Id<typeof tableName>);
+        if (doc) {
+          await ctx.db.patch(sourceId as Id<typeof tableName>, { imageCount: total });
+          updated++;
+        }
+      }
+    }
+    return { updated };
   },
 });
 

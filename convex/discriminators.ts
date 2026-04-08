@@ -8,7 +8,7 @@ export const list = query({
   },
 });
 
-// Lightweight lookup: returns only id, pattern, and obrienRef for building maps
+// Lightweight lookup: returns only fields needed for map-building (bandwidth-optimised)
 export const listLookup = query({
   args: {},
   handler: async (ctx) => {
@@ -16,7 +16,9 @@ export const listLookup = query({
     return all.map((d) => ({
       _id: d._id,
       pattern: d.pattern,
-      obrienRef: d.obrienRef,
+      obrienRef: d.obrienRef ? { obrienCaseNumber: d.obrienRef.obrienCaseNumber } : undefined,
+      mnemonicRef: d.mnemonicRef ? { mnemonic: d.mnemonicRef.mnemonic } : undefined,
+      differentialDiagnoses: d.differentials.map((diff) => diff.diagnosis),
     }));
   },
 });
@@ -35,6 +37,23 @@ export const get = query({
   args: { id: v.id("discriminators") },
   handler: async (ctx, args) => {
     return await ctx.db.get(args.id);
+  },
+});
+
+// Returns only the fields needed for the image viewer overlay (bandwidth-optimised)
+export const getViewerDetail = query({
+  args: { id: v.id("discriminators") },
+  handler: async (ctx, args) => {
+    const d = await ctx.db.get(args.id);
+    if (!d) return null;
+    const primary = d.differentials.find((diff) => diff.isCorrectDiagnosis);
+    return {
+      _id: d._id,
+      vivaSummary: d.vivaSummary,
+      vivaAnswer: d.vivaAnswer,
+      dominantImagingFinding: primary?.dominantImagingFinding,
+      discriminatingKeyFeature: primary?.discriminatingKeyFeature,
+    };
   },
 });
 
