@@ -1,0 +1,104 @@
+<h2>Image Viewer — 10 Planned Changes</h2>
+<p class="subtitle">Overview of all features and fixes. Review and confirm scope before we write the spec.</p>
+
+<div class="section">
+  <h3>Bug Fixes (2)</h3>
+  <div class="options" data-multiselect>
+    <div class="option selected" data-choice="fix1" onclick="toggleSelect(this)">
+      <div class="letter">F1</div>
+      <div class="content">
+        <h3>Add Note button broken</h3>
+        <p><strong>Root cause found:</strong> <code>onAddNote</code> captures <code>activeFullDiscriminator</code> which is <code>null</code> unless the discriminator card is already expanded. Fix: refactor <code>AddNoteModal</code> to accept just a discriminator ID and fetch its own data — no expansion required.</p>
+      </div>
+    </div>
+    <div class="option selected" data-choice="fix2" onclick="toggleSelect(this)">
+      <div class="letter">F2</div>
+      <div class="content">
+        <h3>Import goes to wrong folder</h3>
+        <p><strong>Root cause found:</strong> The <code>caseGroup</code> format uses <code>"BucketName - Label [timestamp]"</code> and a <em>lazy</em> regex to extract the bucket name. If a differential name contains <code> - </code> (e.g. "T-cell Lymphoma"), the regex cuts off early, creating an orphan subfolder. Fix: change separator to <code>"||"</code> going forward + retain backward-compatible fallback. Also needs a one-time migration to re-parent existing orphaned images.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h3>Drag &amp; Drop (3 surfaces)</h3>
+  <div class="options" data-multiselect>
+    <div class="option selected" data-choice="dd1" onclick="toggleSelect(this)">
+      <div class="letter">D1</div>
+      <div class="content">
+        <h3>Folder order (left nav)</h3>
+        <p>Drag differential folders up/down in the "Differential Folders" left panel. Images follow their folder. Persists to Convex via new <code>viewerPreferences</code> table (per sourceType+sourceId).</p>
+      </div>
+    </div>
+    <div class="option selected" data-choice="dd2" onclick="toggleSelect(this)">
+      <div class="letter">D2</div>
+      <div class="content">
+        <h3>Image set order (thumbnail strip)</h3>
+        <p>Drag image stack thumbnails up/down within the active folder. Persists by updating <code>sortOrder</code> on <code>studyImages</code> / <code>studyManifests</code> records in Convex.</p>
+      </div>
+    </div>
+    <div class="option selected" data-choice="dd3" onclick="toggleSelect(this)">
+      <div class="letter">D3</div>
+      <div class="content">
+        <h3>Discriminant table column order (per-case)</h3>
+        <p>Drag differential columns (the diagnoses on the X-axis) left/right in the discriminant matrix. Each case stores its own column order in <code>viewerPreferences</code>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h3>Findings Everywhere (3 changes)</h3>
+  <div class="options" data-multiselect>
+    <div class="option selected" data-choice="fin1" onclick="toggleSelect(this)">
+      <div class="letter">E1</div>
+      <div class="content">
+        <h3>Findings box in ALL folders (not just title)</h3>
+        <p>Currently the amber "Findings" box only appears when the primary/title folder is active. It should appear for every folder, each with its own independent saved text. Schema change: add <code>bucketName</code> field to <code>viewerFindings</code> table.</p>
+      </div>
+    </div>
+    <div class="option selected" data-choice="fin2" onclick="toggleSelect(this)">
+      <div class="letter">E2</div>
+      <div class="content">
+        <h3>Import panel always visible (even if folder is empty)</h3>
+        <p>Currently the thumbnail sidebar hides entirely when a folder has no images. The import button and panel must appear regardless, so you can add the first image to any folder.</p>
+      </div>
+    </div>
+    <div class="option selected" data-choice="fin3" onclick="toggleSelect(this)">
+      <div class="letter">E3</div>
+      <div class="content">
+        <h3>Findings field in the import form</h3>
+        <p>Add a "Findings" textarea to the import panel. On import, the entered text is saved as that folder's findings (same as editing the Findings box manually). So you can paste findings and images in one action.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h3>Favourites + High Yield Integration (1 feature)</h3>
+  <div class="options" data-multiselect>
+    <div class="option selected" data-choice="fav1" onclick="toggleSelect(this)">
+      <div class="letter">V1</div>
+      <div class="content">
+        <h3>Heart icon → favourites → High Yield tab</h3>
+        <p>Heart icon (outline → filled) on: play card thumbnail, discriminant table header, image viewer toolbar. Toggling saves to new Convex <code>userFavourites</code> table with <code>sourceType</code> + <code>sourceId</code> + <code>categoryName</code>. Favourited YJL2B cases appear in the Highest Yield tab under their category, visually distinguished with a rose/pink badge.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section">
+  <h3>Caption / Credit (1 polish fix)</h3>
+  <div class="options" data-multiselect>
+    <div class="option selected" data-choice="cap1" onclick="toggleSelect(this)">
+      <div class="letter">C1</div>
+      <div class="content">
+        <h3>Larger attribution text</h3>
+        <p>The image attribution/credit line at the bottom of the viewer is currently very small (8–9px). Increase to a readable size (11–12px) while keeping it in the same position.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<p class="subtitle" style="margin-top:2rem">All 10 items are pre-selected. Deselect any you want to exclude from this round, then confirm in the terminal.</p>

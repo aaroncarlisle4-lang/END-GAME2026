@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=1365">
+<title>{{ pattern }} — {{ mnemonic }}</title>
+<style>
+  /* ─── Reset ─────────────────────────────────────────────── */
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  /* ─── Canvas ─────────────────────────────────────────────── */
+  html, body {
+    width: 1365px;
+    height: 2048px;
+    overflow: hidden;
+    background: #FFF8F0;
+    font-family: "Inter", "Segoe UI", "Helvetica Neue", Arial, system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .canvas {
+    width: 1365px;
+    height: 2048px;
+    background: #FFF8F0;
+    padding: 90px 95px 70px 95px;   /* 6.6% top/bottom, 7% sides */
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  /* ─── Header row ──────────────────────────────────────────── */
+  .header-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 32px;
+  }
+
+  .category-badge {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #fff;
+    background: {{ category_color }};
+    padding: 6px 16px 5px;
+    border-radius: 4px;
+  }
+
+  .chapter-tag {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    color: #9E8E7E;
+    text-transform: uppercase;
+  }
+
+  /* ─── Pattern title ────────────────────────────────────────── */
+  .pattern-title {
+    font-size: 68px;
+    font-weight: 700;
+    line-height: 1.10;
+    color: #1A1A1A;
+    letter-spacing: -0.02em;
+    max-width: 900px;
+    margin-bottom: 8px;
+    word-break: break-word;
+  }
+
+  /* ─── Divider ──────────────────────────────────────────────── */
+  .divider {
+    width: 60px;
+    height: 3px;
+    background: {{ category_color }};
+    border-radius: 2px;
+    margin-bottom: 32px;
+    opacity: 0.7;
+  }
+
+  /* ─── Mnemonic row ─────────────────────────────────────────── */
+  .mnemonic-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 40px;
+  }
+
+  .mnemonic-letter {
+    width: 52px;
+    height: 52px;
+    background: #2D4A3E;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: 800;
+    color: #fff;
+    letter-spacing: 0;
+    flex-shrink: 0;
+  }
+
+  .mnemonic-letter.hyphen {
+    background: #D9CFBF;
+    color: #8B7D6B;
+    font-size: 16px;
+    font-weight: 600;
+  }
+
+  /* ─── Section label ────────────────────────────────────────── */
+  .section-label {
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #B0A090;
+    margin-bottom: 14px;
+  }
+
+  /* ─── Differentials grid ───────────────────────────────────── */
+  .differentials {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+    min-height: 0;
+  }
+
+  .diff-row {
+    display: grid;
+    grid-template-columns: 52px 1fr;
+    gap: 0 18px;
+    align-items: start;
+    background: rgba(255,255,255,0.55);
+    border-radius: 10px;
+    padding: 14px 18px 14px 14px;
+    border-left: 3px solid {{ category_color }};
+    position: relative;
+  }
+
+  .diff-letter-tile {
+    width: 52px;
+    height: 52px;
+    background: #2D4A3E;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    font-weight: 800;
+    color: #fff;
+    flex-shrink: 0;
+    align-self: start;
+    margin-top: 2px;
+  }
+
+  .diff-letter-tile.hyphen {
+    background: #D9CFBF;
+    color: #8B7D6B;
+    font-size: 14px;
+    font-weight: 600;
+  }
+
+  .diff-content {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    min-width: 0;
+  }
+
+  .diff-condition {
+    font-size: 20px;
+    font-weight: 700;
+    color: #3D2B1F;
+    line-height: 1.2;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .diff-dominant {
+    font-size: 15px;
+    font-weight: 400;
+    font-style: italic;
+    color: #8B6F47;
+    line-height: 1.3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .diff-discriminator {
+    font-size: 13.5px;
+    font-weight: 400;
+    color: #7A6A5A;
+    line-height: 1.3;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* ─── Pearl footer ─────────────────────────────────────────── */
+  .pearl-block {
+    margin-top: 22px;
+    background: rgba(45, 74, 62, 0.07);
+    border-radius: 10px;
+    padding: 16px 20px;
+    display: flex;
+    gap: 12px;
+    align-items: flex-start;
+  }
+
+  .pearl-label {
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #2D4A3E;
+    white-space: nowrap;
+    margin-top: 1px;
+    flex-shrink: 0;
+  }
+
+  .pearl-text {
+    font-size: 14.5px;
+    font-weight: 400;
+    color: #3D2B1F;
+    line-height: 1.5;
+  }
+
+  /* ─── Branding footer ──────────────────────────────────────── */
+  .branding-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 16px;
+    padding-top: 14px;
+    border-top: 1px solid rgba(139, 110, 71, 0.18);
+  }
+
+  .brand-name {
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #9E8E7E;
+  }
+
+  .brand-tagline {
+    font-size: 12px;
+    font-weight: 400;
+    color: #B0A090;
+    letter-spacing: 0.04em;
+  }
+</style>
+</head>
+<body>
+<div class="canvas">
+
+  <!-- Header row -->
+  <div class="header-row">
+    <span class="category-badge">{{ category_label }}</span>
+    <span class="chapter-tag">Chapter {{ chapter_number }}</span>
+  </div>
+
+  <!-- Pattern title -->
+  <h1 class="pattern-title">{{ main_title }}</h1>
+  <div class="divider"></div>
+
+  <!-- Mnemonic letters -->
+  <div class="mnemonic-row">
+    {% for letter in mnemonic_letters %}
+      {% if letter == '-' or letter == '–' %}
+        <div class="mnemonic-letter hyphen">·</div>
+      {% else %}
+        <div class="mnemonic-letter">{{ letter }}</div>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Section label -->
+  <div class="section-label">Differentials</div>
+
+  <!-- Differential tiles -->
+  <div class="differentials">
+    {% for d in differentials %}
+    <div class="diff-row">
+      <div class="diff-letter-tile{% if d.letter == '-' or d.letter == '–' %} hyphen{% endif %}">
+        {% if d.letter == '-' or d.letter == '–' %}·{% else %}{{ d.letter }}{% endif %}
+      </div>
+      <div class="diff-content">
+        <div class="diff-condition">{{ d.condition }}</div>
+        {% if d.dominantImaging %}
+        <div class="diff-dominant">{{ d.dominantImaging }}</div>
+        {% endif %}
+        {% if d.keyDiscriminator %}
+        <div class="diff-discriminator">↳ {{ d.keyDiscriminator }}</div>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Clinical pearl -->
+  {% if clinical_pearl %}
+  <div class="pearl-block">
+    <span class="pearl-label">Pearl</span>
+    <span class="pearl-text">{{ clinical_pearl }}</span>
+  </div>
+  {% endif %}
+
+  <!-- FRCRbank branding -->
+  <div class="branding-footer">
+    <span class="brand-name">FRCRbank</span>
+    <span class="brand-tagline">FRCR 2B Exam Preparation</span>
+  </div>
+
+</div>
+</body>
+</html>

@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>STREP ABC — Upper Lobe Fibrosis</title>
+<style>
+    * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+    
+    html, body {
+        width: 1365px;
+        height: 2048px;
+        background-color: #FAF6F0;
+        color: #1A1A1A;
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+        overflow: hidden;
+        position: relative;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        padding: 60px 80px 40px 80px;
+    }
+
+    /* Header */
+    .header {
+        margin-bottom: 25px;
+        flex-shrink: 0;
+    }
+
+    h1 {
+        font-size: 110px;
+        font-weight: 600;
+        letter-spacing: -2px;
+        line-height: 1;
+        margin-bottom: 10px;
+        color: #1A1A1A;
+    }
+
+    .category {
+        font-size: 26px;
+        font-weight: 700;
+        color: #6B8C5A;
+        font-variant: small-caps;
+        letter-spacing: 2px;
+        margin-bottom: 12px;
+    }
+
+    .blurb {
+        font-size: 26px;
+        line-height: 1.4;
+        color: #555;
+        max-width: 1150px;
+    }
+
+    /* Rows */
+    .rows {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        flex: 1;
+        margin-bottom: 25px;
+    }
+
+    .row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        border-bottom: 2px solid rgba(26, 26, 26, 0.06);
+        padding-bottom: 12px;
+        padding-top: 4px;
+    }
+
+    .row:last-child {
+        border-bottom: none;
+    }
+
+    .row-left {
+        display: flex;
+        align-items: center;
+        gap: 35px;
+        flex: 1;
+        padding-right: 40px;
+    }
+
+    .badge {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 42px;
+        font-weight: 800;
+        flex-shrink: 0;
+    }
+
+    .text-content {
+        display: flex;
+        flex-direction: column;
+        gap: 6px;
+    }
+
+    .condition {
+        font-size: 32px;
+        font-weight: 400;
+    }
+
+    .condition strong {
+        font-weight: 700;
+    }
+
+    .key-discriminator {
+        font-size: 23px;
+        font-weight: 500;
+        color: #555;
+    }
+
+    .key-discriminator span {
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        font-size: 20px;
+    }
+
+    /* Right side SVG container */
+    .row-right {
+        width: 160px;
+        height: 130px;
+        flex-shrink: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* Colors */
+    .teal .badge { background-color: rgba(74, 116, 121, 0.15); color: #4A7479; }
+    .teal .key-discriminator span { color: #4A7479; }
+
+    .rust .badge { background-color: rgba(139, 64, 64, 0.15); color: #8B4040; }
+    .rust .key-discriminator span { color: #8B4040; }
+
+    .sage .badge { background-color: rgba(107, 140, 90, 0.15); color: #6B8C5A; }
+    .sage .key-discriminator span { color: #6B8C5A; }
+
+    .brown .badge { background-color: rgba(125, 97, 71, 0.15); color: #7D6147; }
+    .brown .key-discriminator span { color: #7D6147; }
+
+    /* Clinical Pearl */
+    .pearl {
+        background-color: rgba(125, 97, 71, 0.08);
+        border-left: 8px solid #7D6147;
+        padding: 25px 35px;
+        border-radius: 0 12px 12px 0;
+        font-size: 24px;
+        line-height: 1.45;
+        margin-bottom: 35px;
+        flex-shrink: 0;
+    }
+
+    .pearl-label {
+        display: block;
+        font-weight: 800;
+        color: #7D6147;
+        text-transform: uppercase;
+        letter-spacing: 1.5px;
+        font-size: 20px;
+        margin-bottom: 8px;
+    }
+
+    /* Footer & References */
+    .bottom-section {
+        border-top: 1px solid #ddd;
+        padding-top: 32px;
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-end;
+        flex-shrink: 0;
+    }
+
+    .frcr {
+        font-size: 24px;
+        font-weight: 800;
+        color: #1A1A1A;
+        opacity: 0.25;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+    }
+
+    .references {
+        font-size: 10px;
+        color: #999;
+        text-align: right;
+        line-height: 1.4;
+    }
+
+    /* SVGs */
+    svg { display: block; }
+</style>
+</head>
+<body>
+
+    <div class="container">
+        <div class="header">
+            <h1>STREP ABC</h1>
+            <div class="category">Chest — Upper lobe fibrosis</div>
+            <div class="blurb">Upper lobe pulmonary fibrosis has a significantly more restricted differential diagnosis compared to lower lobe fibrosis</div>
+        </div>
+
+        <div class="rows">
+            
+            <!-- S -->
+            <div class="row teal">
+                <div class="row-left">
+                    <div class="badge">S</div>
+                    <div class="text-content">
+                        <div class="condition"><strong>Sarcoidosis:</strong> bilateral hilar adenopathy with upper zone fibrosis<sup style="font-size:0.65em;color:#999">[1]</sup></div>
+                        <div class="key-discriminator"><span>Key:</span> perilymphatic nodules along fissures and bronchovascular bundles</div>
+                    </div>
+                </div>
+                <div class="row-right">
+                    <svg width="160" height="130" viewBox="0 0 160 130">
+                        <!-- Layer 1: Wash blob -->
+                        <ellipse cx="80" cy="65" rx="60" ry="50" fill="#4A7479" fill-opacity="0.13" transform="rotate(-4 80 65)"/>
+                        <!-- Layer 2: Lung silhouette -->
+                        <path d="M80,18 C100,18 122,38 120,75 C118,105 102,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        <path d="M80,18 C60,18 38,38 40,75 C42,105 58,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        <!-- Layer 3: Finding -->
+                        <circle cx="58" cy="72" r="11" fill="#4A7479" opacity="0.75"/>
+                        <circle cx="102" cy="72" r="11" fill="#4A7479" opacity="0.75"/>
+                        <path d="M80,18 V50" stroke="#5C4033" stroke-width="1.8" fill="none"/>
+                        <!-- Layer 4: Label -->
+                        <text x="80" y="128" font-size="10" fill="#666" text-anchor="middle" font-weight="600" letter-spacing="0.5">HILAR ADENOPATHY</text>
+                    </svg>
+                </div>
+            </div>
+
+            <!-- T -->
+            <div class="row rust">
+                <div class="row-left">
+                    <div class="badge">T</div>
+                    <div class="text-content">
+                        <div class="condition"><strong>Tuberculosis:</strong> upper lobe consolidation with cavitation and fibrosis<sup style="font-size:0.65em;color:#999">[2]</sup></div>
+                        <div class="key-discriminator"><span>Key:</span> centrilobular tree-in-bud nodules indicating active endobronchial</div>
+                    </div>
+                </div>
+                <div class="row-right">
+                    <svg width="160" height="130" viewBox="0 0 160 130">
+                        <polygon points="20,40 140,30 130,100 30,110" fill="#C9846B" fill-opacity="0.13"/>
+                        <path d="M80,18 C100,18 122,38 120,75 C118,105 102,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        <path d="M80,18 C60,18 38,38 40,75 C42,105 58,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        
+                        <circle cx="80" cy="32" r="14" stroke="#8B4040" stroke-width="2" fill="none"/>
+                        <circle cx="80" cy="32" r="7" fill="#8B4040" opacity="0.2"/>
+                        
+                        <text x="80" y="128" font-size="10" fill="#666" text-anchor="middle" font-weight="600" letter-spacing="0.5">APICAL CAVITATION</text>
+                    </svg>
+                </div>
+            </div>
+
+            <!-- R -->
+            <div class="row sage">
+                <div class="row-left">
+                    <div class="badge">R</div>
+                    <div class="text-content">
+                        <div class="condition"><strong>Radiation:</strong> paramediastinal fibrosis with sharp geometric straight margins<sup style="font-size:0.65em;color:#999">[3]</sup></div>
+                        <div class="key-discriminator"><span>Key:</span> sharp non-anatomical borders conforming to radiation portals</div>
+                    </div>
+                </div>
+                <div class="row-right">
+                    <svg width="160" height="130" viewBox="0 0 160 130">
+                        <ellipse cx="80" cy="65" rx="65" ry="45" fill="#6B8C5A" fill-opacity="0.13" transform="rotate(8 80 65)"/>
+                        <path d="M80,18 C100,18 122,38 120,75 C118,105 102,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        <path d="M80,18 C60,18 38,38 40,75 C42,105 58,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        
+                        <polygon points="36,45 124,55 124,75 36,65" fill="#4A7479" opacity="0.25"/>
+                        
+                        <text x="80" y="128" font-size="10" fill="#666" text-anchor="middle" font-weight="600" letter-spacing="0.5">GEOMETRIC MARGIN</text>
+                    </svg>
+                </div>
+            </div>
+
+            <!-- E -->
+            <div class="row brown">
+                <div class="row-left">
+                    <div class="badge">E</div>
+                    <div class="text-content">
+                        <div class="condition"><strong>Extrinsic allergic alveolitis:</strong> centrilobular nodules with ground-glass and mosaic attenuation<sup style="font-size:0.65em;color:#999">[4]</sup></div>
+                        <div class="key-discriminator"><span>Key:</span> headcheese pattern with expiratory lobular air trapping</div>
+                    </div>
+                </div>
+                <div class="row-right">
+                    <svg width="160" height="130" viewBox="0 0 160 130">
+                        <path d="M25,50 Q80,10 135,50 T80,110 Z" fill="#7D6147" fill-opacity="0.13"/>
+                        <path d="M80,18 C100,18 122,38 120,75 C118,105 102,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        <path d="M80,18 C60,18 38,38 40,75 C42,105 58,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        
+                        <g transform="translate(65, 45)">
+                            <rect x="0" y="0" width="10" height="10" fill="#C9846B" opacity="0.4"/>
+                            <rect x="10" y="0" width="10" height="10" fill="#FAF6F0"/>
+                            <rect x="20" y="0" width="10" height="10" fill="#C9846B" opacity="0.4"/>
+                            <rect x="0" y="10" width="10" height="10" fill="#FAF6F0"/>
+                            <rect x="10" y="10" width="10" height="10" fill="#C9846B" opacity="0.4"/>
+                            <rect x="20" y="10" width="10" height="10" fill="#FAF6F0"/>
+                            <rect x="0" y="20" width="10" height="10" fill="#C9846B" opacity="0.4"/>
+                            <rect x="10" y="20" width="10" height="10" fill="#FAF6F0"/>
+                            <rect x="20" y="20" width="10" height="10" fill="#C9846B" opacity="0.4"/>
+                            <rect x="0" y="30" width="10" height="10" fill="#FAF6F0"/>
+                            <rect x="10" y="30" width="10" height="10" fill="#C9846B" opacity="0.4"/>
+                            <rect x="20" y="30" width="10" height="10" fill="#FAF6F0"/>
+                        </g>
+                        
+                        <text x="80" y="128" font-size="10" fill="#666" text-anchor="middle" font-weight="600" letter-spacing="0.5">MOSAIC ATTENUATION</text>
+                    </svg>
+                </div>
+            </div>
+
+            <!-- P -->
+            <div class="row teal">
+                <div class="row-left">
+                    <div class="badge">P</div>
+                    <div class="text-content">
+                        <div class="condition"><strong>Pneumoconiosis:</strong> conglomerate upper lobe masses with background nodularity<sup style="font-size:0.65em;color:#999">[5]</sup></div>
+                        <div class="key-discriminator"><span>Key:</span> progressive massive fibrosis migrating towards the hila</div>
+                    </div>
+                </div>
+                <div class="row-right">
+                    <svg width="160" height="130" viewBox="0 0 160 130">
+                        <ellipse cx="80" cy="65" rx="55" ry="50" fill="#4A7479" fill-opacity="0.13" transform="skewX(-5)"/>
+                        <path d="M80,18 C100,18 122,38 120,75 C118,105 102,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        <path d="M80,18 C60,18 38,38 40,75 C42,105 58,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        
+                        <rect x="50" y="28" width="20" height="30" rx="5" fill="#5C4033" opacity="0.7"/>
+                        <rect x="90" y="25" width="22" height="32" rx="5" fill="#5C4033" opacity="0.7"/>
+                        
+                        <text x="80" y="128" font-size="10" fill="#666" text-anchor="middle" font-weight="600" letter-spacing="0.5">CONGLOMERATE MASSES</text>
+                    </svg>
+                </div>
+            </div>
+
+            <!-- A -->
+            <div class="row rust">
+                <div class="row-left">
+                    <div class="badge">A</div>
+                    <div class="text-content">
+                        <div class="condition"><strong>Ankylosing spondylitis:</strong> apical fibrobullous disease with upward hilar retraction<sup style="font-size:0.65em;color:#999">[6]</sup></div>
+                        <div class="key-discriminator"><span>Key:</span> coexistent bamboo spine and bilateral symmetrical sacroiliitis</div>
+                    </div>
+                </div>
+                <div class="row-right">
+                    <svg width="160" height="130" viewBox="0 0 160 130">
+                        <path d="M 30,50 C 30,10 130,10 130,50 C 130,110 30,110 30,50 Z" fill="#C9846B" fill-opacity="0.13"/>
+                        <path d="M80,18 C100,18 122,38 120,75 C118,105 102,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        <path d="M80,18 C60,18 38,38 40,75 C42,105 58,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        
+                        <circle cx="65" cy="30" r="9" stroke="#8B4040" stroke-width="1.5" fill="none"/>
+                        <circle cx="80" cy="22" r="11" stroke="#8B4040" stroke-width="1.5" fill="none"/>
+                        <circle cx="95" cy="30" r="9" stroke="#8B4040" stroke-width="1.5" fill="none"/>
+                        
+                        <text x="80" y="128" font-size="10" fill="#666" text-anchor="middle" font-weight="600" letter-spacing="0.5">APICAL FIBROBULLOUS</text>
+                    </svg>
+                </div>
+            </div>
+
+            <!-- B -->
+            <div class="row sage">
+                <div class="row-left">
+                    <div class="badge">B</div>
+                    <div class="text-content">
+                        <div class="condition"><strong>Berylliosis:</strong> reticulonodular opacities radiologically identical to pulmonary sarcoidosis</div>
+                        <div class="key-discriminator"><span>Key:</span> occupational aerospace or high-tech metal exposure history</div>
+                    </div>
+                </div>
+                <div class="row-right">
+                    <svg width="160" height="130" viewBox="0 0 160 130">
+                        <ellipse cx="80" cy="65" rx="65" ry="45" fill="#6B8C5A" fill-opacity="0.13" transform="skewY(4)"/>
+                        <path d="M80,18 C100,18 122,38 120,75 C118,105 102,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        <path d="M80,18 C60,18 38,38 40,75 C42,105 58,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        
+                        <g fill="#4A7479" opacity="0.5">
+                            <circle cx="55" cy="45" r="4"/><circle cx="70" cy="35" r="4"/>
+                            <circle cx="90" cy="40" r="4"/><circle cx="105" cy="50" r="4"/>
+                            <circle cx="60" cy="65" r="4"/><circle cx="110" cy="70" r="4"/>
+                            <circle cx="75" cy="85" r="4"/><circle cx="95" cy="90" r="4"/>
+                            <circle cx="50" cy="80" r="4"/><circle cx="100" cy="105" r="4"/>
+                        </g>
+                        
+                        <text x="80" y="128" font-size="10" fill="#666" text-anchor="middle" font-weight="600" letter-spacing="0.5">DIFFUSE NODULES</text>
+                    </svg>
+                </div>
+            </div>
+
+            <!-- C -->
+            <div class="row brown">
+                <div class="row-left">
+                    <div class="badge">C</div>
+                    <div class="text-content">
+                        <div class="condition"><strong>Cystic fibrosis:</strong> upper lobe predominant cystic and cylindrical bronchiectasis<sup style="font-size:0.65em;color:#999">[7]</sup></div>
+                        <div class="key-discriminator"><span>Key:</span> extensive mucoid impaction and hyperinflation in youth</div>
+                    </div>
+                </div>
+                <div class="row-right">
+                    <svg width="160" height="130" viewBox="0 0 160 130">
+                        <polygon points="30,30 130,20 140,90 20,100" fill="#7D6147" fill-opacity="0.13"/>
+                        <path d="M80,18 C100,18 122,38 120,75 C118,105 102,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        <path d="M80,18 C60,18 38,38 40,75 C42,105 58,125 80,128" stroke="#5C4033" stroke-width="1.8" fill="#FAF6F0" fill-opacity="0.92"/>
+                        
+                        <g stroke="#6B8C5A" stroke-width="1.5" fill="none">
+                            <circle cx="65" cy="40" r="9"/><circle cx="65" cy="40" r="5"/>
+                            <circle cx="95" cy="35" r="9"/><circle cx="95" cy="35" r="5"/>
+                            <circle cx="75" cy="55" r="9"/><circle cx="75" cy="55" r="5"/>
+                            <circle cx="105" cy="50" r="9"/><circle cx="105" cy="50" r="5"/>
+                        </g>
+                        
+                        <text x="80" y="128" font-size="10" fill="#666" text-anchor="middle" font-weight="600" letter-spacing="0.5">CYSTIC BRONCHIECTASIS</text>
+                    </svg>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="pearl">
+            <span class="pearl-label">Clinical Pearl</span>
+            Ankylosing spondylitis is the 'odd one out' among connective tissue diseases; it causes upper lobe fibrosis, whereas rheumatoid arthritis and scleroderma characteristically cause lower lobe fibrosis<sup style="font-size:0.65em;color:#999">[8]</sup>.
+        </div>
+
+        <div class="bottom-section">
+            <div class="frcr">FRCRbank</div>
+            <div class="references">
+                [8] Dahnert W. Radiology Review Manual, 8th ed. Wolters Kluwer 2017<br>
+                [1] Weir J, Abrahams P. Imaging Atlas of Human Anatomy, 5th ed. Elsevier 2022<br>
+                [9] Grainger RG et al. Grainger & Allison's Diagnostic Radiology, 6th ed. Elsevier 2015<br>
+                [10] Hansell DM et al. Imaging of Diseases of the Chest, 5th ed. Elsevier 2010<br>
+                [2] Corne J, Pointon K. Chest X-Ray Made Easy, 4th ed. Elsevier 2016<br>
+                [11] Chapman S, Nakielny R. Aids to Radiological Differential Diagnosis, 6th ed. Elsevier 2014<br>
+                [12] Brant WE, Helms CA. Fundamentals of Diagnostic Radiology, 4th ed. Lippincott 2012<br>
+                [3] Webb WR et al. High-Resolution CT of the Lung, 5th ed. Wolters Kluwer 2014<br>
+                [13] Sutton D. Textbook of Radiology and Imaging, 7th ed. Elsevier 2003<br>
+                [4] Reeder MM. Reeder and Felson's Gamuts in Radiology, 4th ed. Springer 2003
+            </div>
+        </div>
+
+    </div>
+
+</body>
+</html>

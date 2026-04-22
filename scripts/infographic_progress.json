@@ -1,0 +1,581 @@
+{
+  "completed": [
+    {
+      "chapterNumber": 1,
+      "pattern": "Upper lobe fibrosis",
+      "mnemonic": "STREP ABC",
+      "category": "Chest",
+      "time": "2026-04-16T07:35:48"
+    },
+    {
+      "chapterNumber": 2,
+      "pattern": "Diffuse cystic ILD",
+      "mnemonic": "LENT",
+      "category": "Chest",
+      "time": "2026-04-16T07:42:38"
+    },
+    {
+      "chapterNumber": 3,
+      "pattern": "Reticulonodular shadowing",
+      "mnemonic": "SDLPVHF",
+      "category": "Chest",
+      "time": "2026-04-17T06:56:45"
+    },
+    {
+      "chapterNumber": 4,
+      "pattern": "Multiple pulmonary nodules",
+      "mnemonic": "CAVITIES",
+      "category": "Chest",
+      "time": "2026-04-17T07:04:51"
+    },
+    {
+      "chapterNumber": 5,
+      "pattern": "Miliary nodules",
+      "mnemonic": "Test Match Special",
+      "category": "Chest",
+      "time": "2026-04-17T07:11:41"
+    },
+    {
+      "chapterNumber": 6,
+      "pattern": "Calcified lung nodules",
+      "mnemonic": "CHASM",
+      "category": "Chest",
+      "time": "2026-04-17T07:21:36"
+    },
+    {
+      "chapterNumber": 7,
+      "pattern": "Large cavitating lesion",
+      "mnemonic": "CAT",
+      "category": "Chest",
+      "time": "2026-04-17T11:15:00"
+    },
+    {
+      "chapterNumber": 8,
+      "pattern": "Anterior mediastinal mass",
+      "mnemonic": "4 Ts",
+      "category": "Chest",
+      "time": "2026-04-17T11:28:28"
+    },
+    {
+      "chapterNumber": 9,
+      "pattern": "Pleural lesions",
+      "mnemonic": "METAL",
+      "category": "Chest",
+      "time": "2026-04-17T11:37:45"
+    },
+    {
+      "chapterNumber": 10,
+      "pattern": "Hyperlucent hemithorax",
+      "mnemonic": "PSALM",
+      "category": "Chest",
+      "time": "2026-04-17T11:41:40"
+    },
+    {
+      "chapterNumber": 11,
+      "pattern": "Opacified hemithorax",
+      "mnemonic": "CLAMP",
+      "category": "Chest",
+      "time": "2026-04-17T11:45:13"
+    },
+    {
+      "chapterNumber": 12,
+      "pattern": "Peripheral consolidation",
+      "mnemonic": "CEPI",
+      "category": "Chest",
+      "time": "2026-04-17T11:48:52"
+    },
+    {
+      "chapterNumber": 13,
+      "pattern": "Bilateral consolidation",
+      "mnemonic": "HAPPY",
+      "category": "Chest",
+      "time": "2026-04-17T11:52:17"
+    },
+    {
+      "chapterNumber": 14,
+      "pattern": "Bilateral hilar enlargement",
+      "mnemonic": "SLIPS",
+      "category": "Chest",
+      "time": "2026-04-17T11:55:59"
+    },
+    {
+      "chapterNumber": 15,
+      "pattern": "Inferior rib notching",
+      "mnemonic": "CUBS",
+      "category": "Chest",
+      "time": "2026-04-17T11:59:38"
+    },
+    {
+      "chapterNumber": 16,
+      "pattern": "Diffuse osteosclerosis",
+      "mnemonic": "ROMPS",
+      "category": "MSK",
+      "time": "2026-04-17T12:03:31"
+    },
+    {
+      "chapterNumber": 17,
+      "pattern": "Multiple lucent bone lesions",
+      "mnemonic": "FOG MACHINES",
+      "category": "MSK",
+      "time": "2026-04-17T12:08:06"
+    },
+    {
+      "chapterNumber": 18,
+      "pattern": "Expansile lytic lesion",
+      "mnemonic": "FEGNOMASHIC",
+      "category": "MSK",
+      "time": "2026-04-17T12:12:33"
+    },
+    {
+      "chapterNumber": 19,
+      "pattern": "Aggressive lytic lesion in child",
+      "mnemonic": "LOSE ME",
+      "category": "MSK",
+      "time": "2026-04-18T20:51:23"
+    },
+    {
+      "chapterNumber": 20,
+      "pattern": "Epiphyseal lucent lesion",
+      "mnemonic": "GOCCI",
+      "category": "MSK",
+      "time": "2026-04-18T20:54:50"
+    },
+    {
+      "chapterNumber": 21,
+      "pattern": "Diffuse marrow infiltration MRI",
+      "mnemonic": "Five Ms",
+      "category": "MSK",
+      "time": "2026-04-18T20:58:07"
+    },
+    {
+      "chapterNumber": 22,
+      "pattern": "Posterior vertebral scalloping",
+      "mnemonic": "AMEND",
+      "category": "MSK",
+      "time": "2026-04-18T21:01:35"
+    },
+    {
+      "chapterNumber": 23,
+      "pattern": "Lateral clavicle resorption",
+      "mnemonic": "SHIRT",
+      "category": "MSK",
+      "time": "2026-04-18T21:06:01"
+    },
+    {
+      "chapterNumber": 24,
+      "pattern": "Short metacarpals",
+      "mnemonic": "TIPS",
+      "category": "MSK",
+      "time": "2026-04-18T21:09:29"
+    },
+    {
+      "chapterNumber": 25,
+      "pattern": "Acro-osteolysis",
+      "mnemonic": "PINCH FO",
+      "category": "MSK",
+      "time": "2026-04-18T21:13:23"
+    },
+    {
+      "chapterNumber": 26,
+      "pattern": "Bowed tibia",
+      "mnemonic": "PRION",
+      "category": "MSK",
+      "time": "2026-04-21T07:59:07"
+    },
+    {
+      "chapterNumber": 27,
+      "pattern": "Diffuse periosteal reaction adults",
+      "mnemonic": "HALT V",
+      "category": "MSK",
+      "time": "2026-04-21T08:03:30"
+    },
+    {
+      "chapterNumber": 28,
+      "pattern": "Osteonecrosis of the hips",
+      "mnemonic": "SAD GITS",
+      "category": "MSK",
+      "time": "2026-04-21T08:07:25"
+    },
+    {
+      "chapterNumber": 31,
+      "pattern": "Terminal ileal mass/stricture",
+      "mnemonic": "CLCTA",
+      "category": "GI",
+      "time": "2026-04-21T08:14:21"
+    },
+    {
+      "chapterNumber": 33,
+      "pattern": "Solid mesenteric/peritoneal mass",
+      "mnemonic": "SCALD",
+      "category": "GI",
+      "time": "2026-04-21T08:19:05"
+    },
+    {
+      "chapterNumber": 32,
+      "pattern": "Colitis",
+      "mnemonic": "CUBIC",
+      "category": "GI",
+      "time": "2026-04-21T08:24:55"
+    },
+    {
+      "chapterNumber": 29,
+      "pattern": "Enhancing liver lesion",
+      "mnemonic": "HAFM",
+      "category": "GI",
+      "time": "2026-04-21T08:29:52"
+    },
+    {
+      "chapterNumber": 30,
+      "pattern": "Pneumobilia",
+      "mnemonic": "PAGES",
+      "category": "GI",
+      "time": "2026-04-21T08:33:15"
+    },
+    {
+      "chapterNumber": 34,
+      "pattern": "Renal papillary necrosis",
+      "mnemonic": "POSTCARDS",
+      "category": "GU",
+      "time": "2026-04-21T08:37:45"
+    },
+    {
+      "chapterNumber": 35,
+      "pattern": "Nephrocalcinosis",
+      "mnemonic": "MARSH",
+      "category": "GU",
+      "time": "2026-04-21T08:47:47"
+    },
+    {
+      "chapterNumber": 36,
+      "pattern": "Ring-enhancing brain lesions",
+      "mnemonic": "MAGIC DR",
+      "category": "Neuro",
+      "time": "2026-04-21T08:51:26"
+    },
+    {
+      "chapterNumber": 37,
+      "pattern": "CPA mass",
+      "mnemonic": "SAME",
+      "category": "Neuro",
+      "time": "2026-04-21T08:55:04"
+    },
+    {
+      "chapterNumber": 38,
+      "pattern": "Pituitary region mass",
+      "mnemonic": "CRAMP",
+      "category": "Neuro",
+      "time": "2026-04-22T16:56:26"
+    },
+    {
+      "chapterNumber": 39,
+      "pattern": "Basal ganglia calcification",
+      "mnemonic": "FITCH",
+      "category": "Neuro",
+      "time": "2026-04-22T17:00:56"
+    },
+    {
+      "chapterNumber": 40,
+      "pattern": "Intra-axial haemorrhage",
+      "mnemonic": "MATCH",
+      "category": "Neuro",
+      "time": "2026-04-22T17:04:42"
+    },
+    {
+      "chapterNumber": 41,
+      "pattern": "Restricted diffusion in brain",
+      "mnemonic": "ALICE",
+      "category": "Neuro",
+      "time": "2026-04-22T17:08:33"
+    },
+    {
+      "chapterNumber": 42,
+      "pattern": "Intramedullary spinal mass",
+      "mnemonic": "I HEAL",
+      "category": "Neuro",
+      "time": "2026-04-22T17:12:43"
+    },
+    {
+      "chapterNumber": 43,
+      "pattern": "Extramedullary intradural spinal mass",
+      "mnemonic": "MENDS",
+      "category": "Neuro",
+      "time": "2026-04-22T17:16:59"
+    },
+    {
+      "chapterNumber": 44,
+      "pattern": "Extradural spinal mass",
+      "mnemonic": "MEDAL",
+      "category": "Neuro",
+      "time": "2026-04-22T17:21:04"
+    },
+    {
+      "chapterNumber": 45,
+      "pattern": "Diffuse periosteal reaction child",
+      "mnemonic": "SLOP",
+      "category": "Paeds",
+      "time": "2026-04-22T17:24:56"
+    },
+    {
+      "chapterNumber": 46,
+      "pattern": "Vertebra plana",
+      "mnemonic": "LEMON",
+      "category": "Paeds",
+      "time": "2026-04-22T17:29:01"
+    },
+    {
+      "chapterNumber": 47,
+      "pattern": "Multiple wormian bones",
+      "mnemonic": "PORKCHOPS",
+      "category": "Paeds",
+      "time": "2026-04-22T17:32:41"
+    }
+  ],
+  "failed": [
+    {
+      "chapterNumber": 1,
+      "pattern": "Upper lobe fibrosis",
+      "error": "Step 2 failed: NotebookLM did not return valid HTML",
+      "time": "2026-04-15T21:25:38"
+    },
+    {
+      "chapterNumber": 1,
+      "pattern": "Upper lobe fibrosis",
+      "error": "Step 2 failed: NotebookLM did not return valid HTML",
+      "time": "2026-04-15T21:27:18"
+    },
+    {
+      "chapterNumber": 1,
+      "pattern": "Upper lobe fibrosis",
+      "error": "Step 2 failed: NotebookLM did not return valid HTML",
+      "time": "2026-04-15T21:30:05"
+    },
+    {
+      "chapterNumber": 1,
+      "pattern": "Upper lobe fibrosis",
+      "error": "Step 2 failed: NotebookLM did not return valid HTML",
+      "time": "2026-04-16T06:36:44"
+    },
+    {
+      "chapterNumber": 1,
+      "pattern": "Upper lobe fibrosis",
+      "error": "Step 2 failed: NotebookLM did not return valid HTML",
+      "time": "2026-04-16T06:38:09"
+    },
+    {
+      "chapterNumber": 2,
+      "pattern": "Diffuse cystic ILD",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+      "time": "2026-04-16T07:23:29"
+    },
+    {
+      "chapterNumber": 2,
+      "pattern": "Diffuse cystic ILD",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+      "time": "2026-04-16T07:36:54"
+    },
+    {
+      "chapterNumber": 2,
+      "pattern": "Diffuse cystic ILD",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+      "time": "2026-04-16T07:37:32"
+    },
+    {
+      "chapterNumber": 2,
+      "pattern": "Diffuse cystic ILD",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+      "time": "2026-04-16T07:38:24"
+    },
+    {
+      "chapterNumber": 7,
+      "pattern": "Large cavitating lesion",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+      "time": "2026-04-17T07:31:37"
+    },
+    {
+      "chapterNumber": 7,
+      "pattern": "Large cavitating lesion",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Authentication expired or invalid. Redirected to: https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fnotebook",
+      "time": "2026-04-17T11:05:57"
+    },
+    {
+      "chapterNumber": 19,
+      "pattern": "Aggressive lytic lesion in child",
+      "error": "generate infographic failed: 12:13:40 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.429s",
+      "time": "2026-04-17T12:13:40"
+    },
+    {
+      "chapterNumber": 20,
+      "pattern": "Epiphyseal lucent lesion",
+      "error": "generate infographic failed: 12:14:53 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.395s",
+      "time": "2026-04-17T12:14:53"
+    },
+    {
+      "chapterNumber": 21,
+      "pattern": "Diffuse marrow infiltration MRI",
+      "error": "generate infographic failed: 12:16:16 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.376s",
+      "time": "2026-04-17T12:16:16"
+    },
+    {
+      "chapterNumber": 22,
+      "pattern": "Posterior vertebral scalloping",
+      "error": "generate infographic failed: 12:17:34 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.391s",
+      "time": "2026-04-17T12:17:34"
+    },
+    {
+      "chapterNumber": 23,
+      "pattern": "Lateral clavicle resorption",
+      "error": "generate infographic failed: 12:18:47 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.381s",
+      "time": "2026-04-17T12:18:47"
+    },
+    {
+      "chapterNumber": 24,
+      "pattern": "Short metacarpals",
+      "error": "generate infographic failed: 12:19:53 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.349s",
+      "time": "2026-04-17T12:19:53"
+    },
+    {
+      "chapterNumber": 25,
+      "pattern": "Acro-osteolysis",
+      "error": "generate infographic failed: 12:21:02 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.388s",
+      "time": "2026-04-17T12:21:02"
+    },
+    {
+      "chapterNumber": 26,
+      "pattern": "Bowed tibia",
+      "error": "generate infographic failed: 12:22:11 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.392s",
+      "time": "2026-04-17T12:22:11"
+    },
+    {
+      "chapterNumber": 27,
+      "pattern": "Diffuse periosteal reaction adults",
+      "error": "generate infographic failed: 12:23:19 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.395s",
+      "time": "2026-04-17T12:23:19"
+    },
+    {
+      "chapterNumber": 28,
+      "pattern": "Osteonecrosis of the hips",
+      "error": "generate infographic failed: 12:24:34 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.381s",
+      "time": "2026-04-17T12:24:34"
+    },
+    {
+      "chapterNumber": 19,
+      "pattern": "Aggressive lytic lesion in child",
+      "error": "generate infographic failed: 12:26:13 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.370s",
+      "time": "2026-04-17T12:26:13"
+    },
+    {
+      "chapterNumber": 26,
+      "pattern": "Bowed tibia",
+      "error": "generate infographic failed: 21:14:29 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.363s",
+      "time": "2026-04-18T21:14:29"
+    },
+    {
+      "chapterNumber": 27,
+      "pattern": "Diffuse periosteal reaction adults",
+      "error": "generate infographic failed: 21:15:40 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.634s",
+      "time": "2026-04-18T21:15:40"
+    },
+    {
+      "chapterNumber": 28,
+      "pattern": "Osteonecrosis of the hips",
+      "error": "generate infographic failed: 21:16:46 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.331s",
+      "time": "2026-04-18T21:16:46"
+    },
+    {
+      "chapterNumber": 29,
+      "pattern": "Enhancing liver lesion",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+      "time": "2026-04-21T08:09:34"
+    },
+    {
+      "chapterNumber": 30,
+      "pattern": "Pneumobilia",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+      "time": "2026-04-21T08:10:17"
+    },
+    {
+      "chapterNumber": 32,
+      "pattern": "Colitis",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+      "time": "2026-04-21T08:15:04"
+    },
+    {
+      "chapterNumber": 29,
+      "pattern": "Enhancing liver lesion",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+      "time": "2026-04-21T08:20:00"
+    },
+    {
+      "chapterNumber": 30,
+      "pattern": "Pneumobilia",
+      "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+      "time": "2026-04-21T08:20:43"
+    },
+    {
+      "chapterNumber": 35,
+      "pattern": "Nephrocalcinosis",
+      "error": "generate infographic failed: ",
+      "time": "2026-04-21T08:44:06"
+    },
+    {
+      "chapterNumber": 38,
+      "pattern": "Pituitary region mass",
+      "error": "generate infographic failed: 08:55:54 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.360s",
+      "time": "2026-04-21T08:55:54"
+    },
+    {
+      "chapterNumber": 39,
+      "pattern": "Basal ganglia calcification",
+      "error": "generate infographic failed: 08:57:13 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.364s",
+      "time": "2026-04-21T08:57:13"
+    },
+    {
+      "chapterNumber": 40,
+      "pattern": "Intra-axial haemorrhage",
+      "error": "generate infographic failed: 08:58:35 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.409s",
+      "time": "2026-04-21T08:58:35"
+    },
+    {
+      "chapterNumber": 41,
+      "pattern": "Restricted diffusion in brain",
+      "error": "generate infographic failed: 08:59:24 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.406s",
+      "time": "2026-04-21T08:59:25"
+    },
+    {
+      "chapterNumber": 42,
+      "pattern": "Intramedullary spinal mass",
+      "error": "generate infographic failed: 09:00:14 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.372s",
+      "time": "2026-04-21T09:00:14"
+    },
+    {
+      "chapterNumber": 43,
+      "pattern": "Extramedullary intradural spinal mass",
+      "error": "generate infographic failed: 09:01:03 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.389s",
+      "time": "2026-04-21T09:01:04"
+    },
+    {
+      "chapterNumber": 44,
+      "pattern": "Extradural spinal mass",
+      "error": "generate infographic failed: 09:02:13 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.427s",
+      "time": "2026-04-21T09:02:13"
+    },
+    {
+      "chapterNumber": 48,
+      "pattern": "Posterior fossa mass in child",
+      "error": "generate infographic failed: 17:33:40 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.386s",
+      "time": "2026-04-22T17:33:40"
+    },
+    {
+      "chapterNumber": 49,
+      "pattern": "Large abdominal mass in child",
+      "error": "generate infographic failed: 17:34:49 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.442s",
+      "time": "2026-04-22T17:34:49"
+    },
+    {
+      "chapterNumber": 50,
+      "pattern": "Neonatal low bowel obstruction",
+      "error": "generate infographic failed: 17:35:48 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.435s",
+      "time": "2026-04-22T17:35:48"
+    }
+  ]
+}

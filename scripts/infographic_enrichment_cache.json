@@ -1,0 +1,3071 @@
+{
+  "ch1": {
+    "mainTitle": "Causes of Upper Lobe Pulmonary Fibrosis",
+    "differentials": [
+      {
+        "letter": "S",
+        "condition": "Sarcoidosis",
+        "dominantImaging": "Bilateral hilar lymphadenopathy with upper lobe fibrosis",
+        "keyDiscriminator": "Perilymphatic nodules with symmetrical hilar and paratracheal adenopathy"
+      },
+      {
+        "letter": "T",
+        "condition": "Tuberculosis",
+        "dominantImaging": "Apical cavitation, consolidation, and tree-in-bud nodules",
+        "keyDiscriminator": "Asymmetric apical cavities lacking significant mediastinal lymphadenopathy"
+      },
+      {
+        "letter": "R",
+        "condition": "Radiation",
+        "dominantImaging": "Paramediastinal fibrosis with sharp non-anatomical geometric borders",
+        "keyDiscriminator": "Strict geometric margins conforming to previous radiation therapy portals"
+      },
+      {
+        "letter": "E",
+        "condition": "Extrinsic allergic alveolitis",
+        "dominantImaging": "Centrilobular nodules, ground-glass opacities, and mosaic attenuation",
+        "keyDiscriminator": "Headcheese pattern with lobular air trapping sparing lung bases"
+      },
+      {
+        "letter": "P",
+        "condition": "Pneumoconiosis",
+        "dominantImaging": "Conglomerate upper lobe masses and eggshell nodal calcification",
+        "keyDiscriminator": "Progressive massive fibrosis migrating from lung periphery toward hila"
+      },
+      {
+        "letter": "A",
+        "condition": "Ankylosing spondylitis",
+        "dominantImaging": "Apical fibrobullous disease and upper lobe fibrosis",
+        "keyDiscriminator": "Associated with bamboo spine, syndesmophytes, and secondary mycetoma formation"
+      },
+      {
+        "letter": "B",
+        "condition": "Berylliosis",
+        "dominantImaging": "Upper lobe reticulonodular opacities mimicking pulmonary sarcoidosis",
+        "keyDiscriminator": "Radiologically indistinguishable from sarcoidosis but features occupational aerospace exposure"
+      },
+      {
+        "letter": "C",
+        "condition": "Cystic fibrosis",
+        "dominantImaging": "Upper lobe predominant cystic and tubular bronchiectasis",
+        "keyDiscriminator": "Extensive mucoid impaction and hyperinflation typically seen in youth"
+      }
+    ],
+    "clinicalPearl": "Always check the lower cervical and thoracic spine for syndesmophytes to catch Ankylosing Spondylitis as a subtle cause of upper lobe fibrosis."
+  },
+  "ch01": {
+    "patternSummary": "Upper lobe pulmonary fibrosis has a significantly restricted differential diagnosis compared to lower lobe fibrosis, typically resulting from inhaled dusts, specific infections, or targeted radiation [1].",
+    "differentials": [
+      {
+        "letter": "S",
+        "condition": "Sarcoidosis",
+        "dominantImagingFeature": "bilateral hilar adenopathy with upper zone fibrosis [2]",
+        "keyDiscriminator": "perilymphatic nodules along fissures and bronchovascular bundles [3]",
+        "supportingFeatures": [
+          "Symmetrical hilar and right paratracheal adenopathy (1-2-3 sign) [4]",
+          "Egg-shell nodal calcification may be present [5]"
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Tuberculosis",
+        "dominantImagingFeature": "upper lobe consolidation with cavitation and fibrosis [6]",
+        "keyDiscriminator": "centrilobular tree-in-bud nodules indicating active endobronchial spread [6]",
+        "supportingFeatures": [
+          "Prefers posterior segments of the upper lobes [5]",
+          "Associated volume loss and architectural distortion [5]"
+        ]
+      },
+      {
+        "letter": "R",
+        "condition": "Radiation",
+        "dominantImagingFeature": "paramediastinal fibrosis with sharp geometric straight margins [7]",
+        "keyDiscriminator": "sharp non-anatomical borders conforming to radiation portals [7]",
+        "supportingFeatures": [
+          "Strictly confined to previous radiotherapy fields [7]",
+          "Volume loss in the irradiated lung area [7]"
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Extrinsic allergic alveolitis",
+        "dominantImagingFeature": "centrilobular nodules with ground-glass and mosaic attenuation [8]",
+        "keyDiscriminator": "headcheese pattern with expiratory lobular air trapping [9]",
+        "supportingFeatures": [
+          "Relative sparing of the lung bases [10]",
+          "History of exposure to organic antigens [1]"
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Pneumoconiosis",
+        "dominantImagingFeature": "conglomerate upper lobe masses with background nodularity [11]",
+        "keyDiscriminator": "progressive massive fibrosis migrating towards the hila [12]",
+        "supportingFeatures": [
+          "Egg-shell calcification of hilar lymph nodes [13]",
+          "Occupational exposure to silica or coal dust [13]"
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Ankylosing spondylitis",
+        "dominantImagingFeature": "apical fibrobullous disease with upward hilar retraction [14]",
+        "keyDiscriminator": "coexistent bamboo spine and bilateral symmetrical sacroiliitis [14]",
+        "supportingFeatures": [
+          "Often complicated by secondary aspergilloma (mycetoma) within cavities [15]",
+          "Flowing syndesmophytes on spinal imaging [16]"
+        ]
+      },
+      {
+        "letter": "B",
+        "condition": "Berylliosis",
+        "dominantImagingFeature": "reticulonodular opacities radiologically identical to pulmonary sarcoidosis",
+        "keyDiscriminator": "occupational aerospace or high-tech metal exposure history",
+        "supportingFeatures": [
+          "Mimics sarcoidosis radiologically and histologically",
+          "Hilar lymphadenopathy may be present"
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Cystic fibrosis",
+        "dominantImagingFeature": "upper lobe predominant cystic and cylindrical bronchiectasis [17]",
+        "keyDiscriminator": "extensive mucoid impaction and hyperinflation in youth [17]",
+        "supportingFeatures": [
+          "Hyperinflation and marked air trapping [17]",
+          "Finger-in-glove opacities resulting from mucoid impaction [18]"
+        ]
+      }
+    ],
+    "clinicalPearl": "Ankylosing spondylitis causes upper lobe fibrosis, making it unique among connective tissue diseases like rheumatoid arthritis and scleroderma which characteristically cause lower lobe fibrosis [14, 19]."
+  },
+  "ch02": {
+    "patternSummary": "Diffuse cystic interstitial lung disease typically presents with preserved or increased lung volumes, helping to differentiate it from fibrotic lung diseases which cause volume loss.",
+    "differentials": [
+      {
+        "letter": "L",
+        "condition": "Lymphangioleiomyomatosis (LAM)",
+        "dominantImagingFeature": "Uniform thin-walled cysts lacking zonal predominance",
+        "keyDiscriminator": "Involves costophrenic angles, uniform cyst size, lacks nodules",
+        "supportingFeatures": [
+          "Occurs almost exclusively in females of childbearing age",
+          "Commonly associated with chylous pleural effusions and pneumothoraces"
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Eosinophilic granuloma (PLCH)",
+        "dominantImagingFeature": "Bizarre irregularly shaped cysts with cavitating nodules",
+        "keyDiscriminator": "Upper lobe predominance, classically spares the costophrenic angles",
+        "supportingFeatures": [
+          "Strongly associated with a history of cigarette smoking",
+          "Early phase centrilobular nodules progress to bizarre cysts"
+        ]
+      },
+      {
+        "letter": "N",
+        "condition": "Neurofibromatosis type 1",
+        "dominantImagingFeature": "Apical cysts and bullae with basal fibrosis",
+        "keyDiscriminator": "Coexistent ribbon ribs and cutaneous or mediastinal neurofibromas",
+        "supportingFeatures": [
+          "Dysplastic ribbon-like ribs or rib erosions",
+          "Posterior mediastinal masses (paraspinal neurofibromas)"
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Tuberous sclerosis",
+        "dominantImagingFeature": "Diffuse uniform thin-walled cysts identical to LAM",
+        "keyDiscriminator": "Identical to LAM but with renal or CNS lesions",
+        "supportingFeatures": [
+          "Coexistent renal angiomyolipomas",
+          "Multisystem involvement including CNS tubers and cardiac rhabdomyomas"
+        ]
+      }
+    ],
+    "clinicalPearl": "LAM and Tuberous Sclerosis feature uniform cysts that involve the costophrenic angles, whereas P-LCH features bizarrely shaped cysts with nodules that characteristically spare the costophrenic angles."
+  },
+  "ch03": {
+    "patternSummary": "A reticulonodular pattern represents a combination of intersecting linear interstitial opacities and micronodules, requiring careful assessment of nodule distribution and lung volumes to narrow the differential.",
+    "differentials": [
+      {
+        "letter": "S",
+        "condition": "Sarcoidosis",
+        "dominantImagingFeature": "perilymphatic nodules with symmetric bilateral hilar adenopathy",
+        "keyDiscriminator": "nodules along fissures and bronchovascular bundles, Garland's triad",
+        "supportingFeatures": [
+          "Mid to upper zone predominance",
+          "Can lead to upper lobe fibrosis in end-stage disease"
+        ]
+      },
+      {
+        "letter": "D",
+        "condition": "Dust (Silicosis)",
+        "dominantImagingFeature": "centrilobular and subpleural nodules with upper zone predominance",
+        "keyDiscriminator": "eggshell nodal calcification and progressive massive fibrosis masses",
+        "supportingFeatures": [
+          "History of occupational exposure (e.g., mining, sandblasting)",
+          "Nodules typically migrate from periphery towards the hila"
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Lymphangitis",
+        "dominantImagingFeature": "irregular beaded or nodular interlobular septal thickening",
+        "keyDiscriminator": "asymmetric presentation with preserved underlying secondary lobule architecture",
+        "supportingFeatures": [
+          "Frequently associated with unilateral pleural effusions",
+          "Secondary to malignancies like breast, lung, or stomach carcinoma"
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Post-primary TB",
+        "dominantImagingFeature": "diffuse uniform millet-seed-sized pulmonary nodules",
+        "keyDiscriminator": "random uniform 1-3mm distribution indicating hematogenous dissemination",
+        "supportingFeatures": [
+          "Can occur alongside apical cavitating consolidation",
+          "Nodules are well-defined but do not calcify acutely"
+        ]
+      },
+      {
+        "letter": "V",
+        "condition": "Vasculitis",
+        "dominantImagingFeature": "multiple variable pulmonary nodules which frequently cavitate",
+        "keyDiscriminator": "waxing and waning cavitary nodules with alveolar hemorrhage",
+        "supportingFeatures": [
+          "Classic for Wegener granulomatosis (granulomatosis with polyangiitis)",
+          "Often presents clinically with hemoptysis and renal impairment"
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Histiocytosis",
+        "dominantImagingFeature": "centrilobular nodules progressing into bizarre thin-walled cysts",
+        "keyDiscriminator": "upper lobe predominance strictly sparing the costophrenic angles",
+        "supportingFeatures": [
+          "Very strongly associated with a history of cigarette smoking",
+          "Preserved or increased overall lung volumes"
+        ]
+      },
+      {
+        "letter": "F",
+        "condition": "Fibrosing alveolitis",
+        "dominantImagingFeature": "subpleural reticulation and basal honeycombing with volume loss",
+        "keyDiscriminator": "lower zone peripheral predominance with traction bronchiectasis",
+        "supportingFeatures": [
+          "The hallmark imaging pattern of usual interstitial pneumonia (UIP)",
+          "Lack of significant ground-glass opacification or nodules"
+        ]
+      }
+    ],
+    "clinicalPearl": "Always classify the sub-pattern of the nodules to narrow this list: perilymphatic distribution favors sarcoidosis or lymphangitis, centrilobular favors histiocytosis, and a random distribution indicates miliary TB or metastases."
+  },
+  "ch04": {
+    "patternSummary": "Multiple pulmonary nodules have a broad differential that is best narrowed by assessing nodule size variation, distribution, and the presence of cavitation or calcification.",
+    "differentials": [
+      {
+        "letter": "C",
+        "condition": "Cancer (Metastases)",
+        "dominantImagingFeature": "Randomly distributed nodules of varying sizes",
+        "keyDiscriminator": "Disparate sizes with basal predilection and no calcification",
+        "supportingFeatures": [
+          "Look for surgical clips, missing breast shadow, or destructive bone lesions",
+          "Squamous cell and sarcoma metastases frequently cavitate"
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Autoimmune (GPA/Rheumatoid)",
+        "dominantImagingFeature": "Multiple thick-walled cavitating pulmonary nodules",
+        "keyDiscriminator": "Waxing and waning cavitations often with alveolar hemorrhage",
+        "supportingFeatures": [
+          "Granulomatosis with polyangiitis (GPA) classically lacks calcification",
+          "Rheumatoid nodules have a peripheral and lower zone predilection"
+        ]
+      },
+      {
+        "letter": "V",
+        "condition": "Vascular (Septic emboli)",
+        "dominantImagingFeature": "Peripheral cavitating nodules with feeding vessel sign",
+        "keyDiscriminator": "Wedge-shaped or cavitary lesions with prominent feeding vessels",
+        "supportingFeatures": [
+          "Frequently multiloculated and rapidly changing in appearance",
+          "Strong clinical association with intravenous drug abuse or endocarditis"
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Infection (TB/Fungal)",
+        "dominantImagingFeature": "Upper lobe cavitating nodules with tree-in-bud opacities",
+        "keyDiscriminator": "Centrilobular tree-in-bud satellites indicating active endobronchial spread",
+        "supportingFeatures": [
+          "Fungal nodules (e.g., aspergillosis) may show a surrounding ground-glass halo",
+          "Tuberculous nodules are often accompanied by volume loss and fibrosis"
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Trauma",
+        "dominantImagingFeature": "Peripheral lucencies evolving within focal pulmonary contusions",
+        "keyDiscriminator": "Post-traumatic pneumatoceles forming within areas of lung contusion",
+        "supportingFeatures": [
+          "Associated with rib fractures, pneumothorax, or subcutaneous emphysema",
+          "Follows a clear history of blunt thoracic trauma"
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Inhalational (Pneumoconiosis)",
+        "dominantImagingFeature": "Upper lobe nodules with progressive massive fibrosis",
+        "keyDiscriminator": "Eggshell nodal calcification with nodules migrating towards hila",
+        "supportingFeatures": [
+          "Nodules coalesce into large conglomerate upper lobe masses",
+          "Clear history of occupational exposure to silica or coal dust"
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Eosinophilic pneumonia",
+        "dominantImagingFeature": "Peripheral ground-glass opacities and nodular consolidation",
+        "keyDiscriminator": "Photographic negative of pulmonary edema with extreme peripheral predilection",
+        "supportingFeatures": [
+          "Classically affects young adult females with an asthma history",
+          "Prompt response to corticosteroid therapy"
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Sarcoidosis",
+        "dominantImagingFeature": "Perilymphatic micronodules with bilateral hilar adenopathy",
+        "keyDiscriminator": "Nodules distributed strictly along fissures and central bronchovascular bundles",
+        "supportingFeatures": [
+          "Garland's triad: bilateral hilar and right paratracheal adenopathy",
+          "Mid and upper zone predominance with later fibrotic distortion"
+        ]
+      }
+    ],
+    "clinicalPearl": "Metastatic disease is the most common cause of multiple pulmonary nodules; always scrutinize the film for destructive bone lesions, surgical clips, or an absent breast shadow."
+  },
+  "ch05": {
+    "patternSummary": "Miliary shadowing consists of countless discrete 1-2mm pulmonary opacities that require careful assessment of distribution and size uniformity to narrow the differential.",
+    "differentials": [
+      {
+        "letter": "T",
+        "condition": "Tuberculosis (Miliary)",
+        "dominantImagingFeature": "diffuse uniform randomly distributed 1-2mm pulmonary nodules",
+        "keyDiscriminator": "uniform size and random distribution, lack of acute calcification",
+        "supportingFeatures": [
+          "Represents haematogenous dissemination",
+          "May have associated apical cavitation or consolidation"
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Metastases",
+        "dominantImagingFeature": "randomly distributed pulmonary nodules of varying sizes",
+        "keyDiscriminator": "disparate nodule sizes with a lower lobe predilection",
+        "supportingFeatures": [
+          "Classically from thyroid, renal, breast, or melanoma primaries",
+          "Look for surgical clips, missing breast shadows, or bone lesions"
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Sarcoidosis",
+        "dominantImagingFeature": "perilymphatic micronodules with symmetric bilateral hilar adenopathy",
+        "keyDiscriminator": "nodules distributed strictly along fissures and bronchovascular bundles",
+        "supportingFeatures": [
+          "Garland's triad: bilateral hilar and right paratracheal adenopathy",
+          "Mid and upper zone predominance"
+        ]
+      }
+    ],
+    "clinicalPearl": "When evaluating a miliary pattern, remember that miliary metastases are classically thyroid or melanoma in origin, while miliary TB nodules uniquely do not calcify acutely."
+  },
+  "ch06": {
+    "patternSummary": "The presence of multiple calcified pulmonary nodules significantly narrows the differential diagnosis, heavily relying on nodule distribution, size variation, and associated cardiovascular or osseous findings.",
+    "differentials": [
+      {
+        "letter": "C",
+        "condition": "Calcified metastases",
+        "dominantImagingFeature": "Randomly distributed calcified nodules of varying sizes",
+        "keyDiscriminator": "Disparate sizes with a lower lobe predilection",
+        "supportingFeatures": [
+          "Classically from osteosarcoma, chondrosarcoma, papillary thyroid, or mucinous carcinomas",
+          "Look for missing limbs, surgical clips, or destructive bone lesions"
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Hamartoma",
+        "dominantImagingFeature": "Well-defined solitary nodule with popcorn calcification",
+        "keyDiscriminator": "Focal deposits of macroscopic fat and popcorn calcifications",
+        "supportingFeatures": [
+          "Most common benign tumor of the lung",
+          "Typically circumscribed and less than 4 cm in diameter"
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Amyloid",
+        "dominantImagingFeature": "Multiple irregular nodules with amorphous calcification",
+        "keyDiscriminator": "Varying sized nodules calcifying in up to 50%",
+        "supportingFeatures": [
+          "May be associated with diffuse septal thickening",
+          "Can also present with tracheobronchial wall calcification"
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Sarcoidosis",
+        "dominantImagingFeature": "Perilymphatic calcified micronodules with bilateral hilar adenopathy",
+        "keyDiscriminator": "Egg-shell nodal calcification with upper zone nodularity",
+        "supportingFeatures": [
+          "Nodules distributed along fissures and bronchovascular bundles",
+          "Often evolves into upper lobe fibrosis and architectural distortion"
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Mitral stenosis",
+        "dominantImagingFeature": "Small diffuse calcified nodules in mid-to-lower zones",
+        "keyDiscriminator": "Associated with cardiomegaly and left atrial enlargement",
+        "supportingFeatures": [
+          "Represents pulmonary ossification secondary to chronic venous hypertension",
+          "Look for a double right heart border and splayed carina"
+        ]
+      }
+    ],
+    "clinicalPearl": "A classic 'Aunt Minnie' case for calcified metastases is multiple calcified lung nodules of varying sizes associated with a sclerotic or absent proximal humerus, diagnostic of osteosarcoma."
+  },
+  "ch07": {
+    "patternSummary": "Evaluating a large cavitating lung lesion depends heavily on wall thickness, inner margin irregularity, and the presence of air-fluid levels or satellite nodules.",
+    "differentials": [
+      {
+        "letter": "C",
+        "condition": "Cavitating neoplasm",
+        "dominantImagingFeature": "Solitary mass with thick, irregular inner walls",
+        "keyDiscriminator": "Irregular thick wall, classic for squamous cell carcinoma",
+        "supportingFeatures": [
+          "Squamous cell carcinomas and sarcomas frequently cavitate.",
+          "Primary tumors are typically solitary and may invade ribs."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Abscess",
+        "dominantImagingFeature": "Thick-walled cavity containing an air-fluid level",
+        "keyDiscriminator": "Continuous regular smooth 2-7mm ring",
+        "supportingFeatures": [
+          "Strongly associated with lower lobe aspiration.",
+          "Staphylococcus and Klebsiella are common pyogenic pathogens."
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "TB / Wegener's",
+        "dominantImagingFeature": "Apical cavitating consolidation or multiple random nodules",
+        "keyDiscriminator": "Tree-in-bud satellites (TB) or multiple waxing cavities (GPA)",
+        "supportingFeatures": [
+          "TB favors upper lobe posterior segments.",
+          "Wegener's (GPA) lacks calcification and may hemorrhage."
+        ]
+      }
+    ],
+    "clinicalPearl": "Squamous cell carcinomas commonly cavitate with thick, irregular walls, whereas a smooth, regular 2-7mm ring with an air-fluid level is highly characteristic of a pyogenic abscess."
+  },
+  "ch08": {
+    "patternSummary": "Anterior mediastinal masses typically efface the heart borders and ascending aorta, forming an obtuse angle with the chest wall [1, 2].",
+    "differentials": [
+      {
+        "letter": "T",
+        "condition": "Thymoma",
+        "dominantImagingFeature": "Solid anterior mass invading mediastinal fat or pleura",
+        "keyDiscriminator": "Pleural drop metastases and local mediastinal fat invasion",
+        "supportingFeatures": [
+          "Typically affects older adults [1]",
+          "Associated with myasthenia gravis [3]"
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Teratoma (Germ cell tumor)",
+        "dominantImagingFeature": "Well-defined mass containing macroscopic fat and calcification",
+        "keyDiscriminator": "Presence of fat, enhancing septations, and calcified teeth/bone",
+        "supportingFeatures": [
+          "Predominantly presents in younger patients during their second to fourth decades [1, 4]",
+          "Mostly benign, but may contain solid or cystic components [4]"
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Terrible lymphoma",
+        "dominantImagingFeature": "Bulky lobulated mass with multi-compartment lymphadenopathy",
+        "keyDiscriminator": "Concomitant middle/posterior mediastinal or distant lymph node enlargement",
+        "supportingFeatures": [
+          "Hodgkin disease almost always involves the superior mediastinal nodes [5]",
+          "Associated splenomegaly is a common finding [6]"
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Thyroid (Retrosternal goiter)",
+        "dominantImagingFeature": "Superior mediastinal mass contiguous with the cervical gland",
+        "keyDiscriminator": "Cervicothoracic contiguity causing focal deviation of the trachea",
+        "supportingFeatures": [
+          "Avidly enhances with intravenous contrast [7]",
+          "Cervicothoracic sign: the well-defined margin fades out above the clavicles [8]"
+        ]
+      }
+    ],
+    "clinicalPearl": "Patient age and compartmental spread are key discriminators: germ cell tumors favor younger patients, thymomas favor older adults, and lymphoma almost always involves lymph nodes outside the anterior compartment [1]."
+  },
+  "ch09": {
+    "patternSummary": "Pleural lesions typically form an obtuse angle with the chest wall, and differentiating benign from malignant causes relies heavily on assessing pleural thickness, nodularity, and mediastinal involvement [1, 2].",
+    "differentials": [
+      {
+        "letter": "M",
+        "condition": "Mesothelioma",
+        "dominantImagingFeature": "Circumferential nodular pleural thickening with volume loss [1, 3].",
+        "keyDiscriminator": "Involves mediastinal pleura, often greater than 1cm thick [2, 3].",
+        "supportingFeatures": [
+          "Associated with calcified pleural plaques from asbestos exposure [1].",
+          "Causes ipsilateral volume loss and restricted mediastinal shift [1]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Empyema",
+        "dominantImagingFeature": "Lentiform pleural fluid collection with enhancing walls [2].",
+        "keyDiscriminator": "Split pleura sign with visceral and parietal enhancement [2].",
+        "supportingFeatures": [
+          "Forms an obtuse angle, convex towards the lung [1].",
+          "Often associated with adjacent consolidation or pneumonia [2]."
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Tuberculosis (TB)",
+        "dominantImagingFeature": "Unilateral pleural effusion with nodular pleural thickening [4].",
+        "keyDiscriminator": "Evolves into severe fibrothorax with dense sheet-like calcification [4].",
+        "supportingFeatures": [
+          "Associated with apical cavitation or tree-in-bud nodules [5].",
+          "A common cause of massive fibrothorax late in disease [4]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Asbestos-related pleural disease",
+        "dominantImagingFeature": "Bilateral calcified parietal and diaphragmatic pleural plaques [6, 7].",
+        "keyDiscriminator": "Discontinuous plateau-like plaques that typically spare the apices [8].",
+        "supportingFeatures": [
+          "Strongly associated with rounded atelectasis (comet tail sign) [9].",
+          "Latent period of 20 to 30 years after exposure [10]."
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Lung cancer (Metastases)",
+        "dominantImagingFeature": "Large unilateral pleural effusion with nodular pleural deposits [1, 2].",
+        "keyDiscriminator": "Presence of a primary lung mass or rib destruction [2, 11].",
+        "supportingFeatures": [
+          "Most common cause of malignant pleural effusion [12].",
+          "Adenocarcinoma is the most frequent histological subtype [13]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Malignant pleural thickening, such as mesothelioma, characteristically involves the mediastinal pleura and is circumferentially >1cm thick, whereas benign asbestos plaques classically spare the mediastinal pleura and lung apices [2, 3]."
+  },
+  "ch10": {
+    "patternSummary": "A hyperlucent hemithorax is caused by a reduction in soft tissue, decreased pulmonary blood flow, or increased regional air, requiring systematic anatomical evaluation [1, 2].",
+    "differentials": [
+      {
+        "letter": "P",
+        "condition": "Pneumothorax",
+        "dominantImagingFeature": "Visible visceral pleural edge lacking peripheral markings",
+        "keyDiscriminator": "Absence of lung markings distal to pleural line",
+        "supportingFeatures": [
+          "Deep sulcus sign on supine radiographs [3]",
+          "Look for contralateral mediastinal shift indicating tension [4]"
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Swyer-James syndrome",
+        "dominantImagingFeature": "Unilateral small hyperlucent lung with reduced vasculature",
+        "keyDiscriminator": "Reduced lung volume with expiratory air trapping",
+        "supportingFeatures": [
+          "Acquired post-infective bronchiolitis in childhood [1]",
+          "Small ipsilateral hilum and pulmonary artery [5]"
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Airway (obstruction)",
+        "dominantImagingFeature": "Hyperlucent expanded lung with contralateral mediastinal shift",
+        "keyDiscriminator": "Contralateral mediastinal shift exacerbated on expiratory views",
+        "supportingFeatures": [
+          "Often due to inhaled foreign body (e.g., peanut) in children [5]",
+          "Congenital lobar emphysema presents similarly in neonates [6]"
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Lung (bulla/emphysema)",
+        "dominantImagingFeature": "Focal avascular radiolucency with thin curvilinear walls",
+        "keyDiscriminator": "Hairline curvilinear wall distinct from visceral pleural line",
+        "supportingFeatures": [
+          "May compress adjacent normal lung parenchyma [7]",
+          "Apical predilection in centrilobular emphysema [8]"
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Mastectomy / Muscle absence",
+        "dominantImagingFeature": "Unilateral hyperlucency with normal underlying pulmonary vasculature",
+        "keyDiscriminator": "Absent breast shadow or axillary fold",
+        "supportingFeatures": [
+          "Look for surgical clips in the ipsilateral axilla [6]",
+          "Poland syndrome is a congenital alternative lacking pectoralis muscle [9, 10]"
+        ]
+      }
+    ],
+    "clinicalPearl": "Always evaluate the pulmonary vasculature first; normal vessels in a hyperlucent lung suggest an extrapulmonary cause like mastectomy, whereas reduced vessels point to a pulmonary or airway etiology [1]."
+  },
+  "ch11": {
+    "patternSummary": "A completely opacified hemithorax requires immediate assessment of tracheal and mediastinal position to determine if the underlying process is volume-losing or volume-expanding [1, 2].",
+    "differentials": [
+      {
+        "letter": "C",
+        "condition": "Collapse (Total)",
+        "dominantImagingFeature": "Complete opacification with ipsilateral mediastinal shift [1]",
+        "keyDiscriminator": "Tracheal deviation and shift towards the opacification [1]",
+        "supportingFeatures": [
+          "Check endotracheal tube position for mainstem intubation [1]",
+          "Look for a central obstructing tumor or metastasis [1]"
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Large pleural effusion",
+        "dominantImagingFeature": "Complete opacification with contralateral mediastinal shift [1]",
+        "keyDiscriminator": "Tracheal deviation and shift away from the opacification [1]",
+        "supportingFeatures": [
+          "Commonly malignant if large; look for contralateral nodules [1]",
+          "Associated with lung/breast carcinoma or lymphoma [2]"
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Agenesis",
+        "dominantImagingFeature": "Unilateral opacification with absent pulmonary structures [3]",
+        "keyDiscriminator": "Complete absence of pulmonary artery and main bronchus",
+        "supportingFeatures": [
+          "Tracheal deviation to the ipsilateral side [3]",
+          "No change compared with previous chest radiographs [3]"
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Mesothelioma",
+        "dominantImagingFeature": "Circumferential nodular pleural thickening with volume loss [4]",
+        "keyDiscriminator": "Limited mediastinal shift due to malignant lung encasement [2, 3]",
+        "supportingFeatures": [
+          "Presence of calcified pleural plaques indicating asbestos exposure [3, 4]",
+          "May involve the mediastinal pleura and interlobar fissures [4]"
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Pneumonectomy",
+        "dominantImagingFeature": "Completely opacified hemithorax with ipsilateral volume loss [3]",
+        "keyDiscriminator": "Resected fifth or sixth rib and surgical clips [3]",
+        "supportingFeatures": [
+          "Tracheal deviation and mediastinal shift to the ipsilateral side [3]",
+          "History or clear signs of previous thoracotomy [3]"
+        ]
+      }
+    ],
+    "clinicalPearl": "The position of the trachea is the single most critical discriminator; it shifts towards a collapse or pneumonectomy, but away from a large pleural effusion [2]."
+  },
+  "ch12": {
+    "patternSummary": "Peripheral consolidation represents air-space filling that classically spares the central perihilar regions, requiring assessment of symptom chronicity, eosinophil counts, and pulmonary vasculature to narrow the diagnosis.",
+    "differentials": [
+      {
+        "letter": "C",
+        "condition": "Cryptogenic organizing pneumonia (COP)",
+        "dominantImagingFeature": "Patchy peripheral consolidation with ground-glass halos",
+        "keyDiscriminator": "Reversed halo (atoll) sign with lower zone predilection",
+        "supportingFeatures": [
+          "Typically affects patients aged 40\u201370 years",
+          "Fails to respond to antibiotics but rapidly improves with steroids"
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Eosinophilic pneumonia",
+        "dominantImagingFeature": "Upper lobe predominant peripheral consolidation",
+        "keyDiscriminator": "Photographic negative of pulmonary edema",
+        "supportingFeatures": [
+          "Classically affects young adult females with an asthma history",
+          "Associated with peripheral blood eosinophilia"
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Pulmonary infarct",
+        "dominantImagingFeature": "Wedge-shaped peripheral consolidation along the pleura",
+        "keyDiscriminator": "Hampton hump with ipsilateral pulmonary artery filling defect",
+        "supportingFeatures": [
+          "Typically multi-focal with a lower lobe predominance",
+          "Frequently associated with ipsilateral pleural effusions"
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Inflammatory (Alveolar sarcoidosis)",
+        "dominantImagingFeature": "Peripheral consolidation with underlying subpleural nodules",
+        "keyDiscriminator": "Coexistent bilateral hilar and right paratracheal lymphadenopathy",
+        "supportingFeatures": [
+          "Mid and upper zone disease distribution",
+          "Nodularity along the fissures and bronchovascular bundles"
+        ]
+      }
+    ],
+    "clinicalPearl": "While COP and chronic eosinophilic pneumonia can look identical, eosinophilic pneumonia classically favors the upper lobes, whereas COP typically involves the lower lobes."
+  },
+  "ch13": {
+    "patternSummary": "Diffuse bilateral consolidation represents air-space filling that demands rapid differentiation between cardiogenic edema, hemorrhage, opportunistic infections, and specific interstitial processes.",
+    "differentials": [
+      {
+        "letter": "H",
+        "condition": "Heart failure",
+        "dominantImagingFeature": "Central bat-wing consolidation with cardiomegaly",
+        "keyDiscriminator": "Associated cardiomegaly, Kerley B lines, and pleural effusions",
+        "supportingFeatures": [
+          "Cephalization of pulmonary vessels",
+          "Rapidly shifting opacities reflecting fluid changes"
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Alveolar proteinosis",
+        "dominantImagingFeature": "Crazy-paving pattern with ground-glass opacities",
+        "keyDiscriminator": "Geographic distribution sparing apices and costophrenic sulci",
+        "supportingFeatures": [
+          "Subpleural sparing is seen in up to 50% of cases",
+          "Often requires bronchoalveolar lavage for definitive diagnosis"
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Pneumocystis jirovecii pneumonia (PJP)",
+        "dominantImagingFeature": "Perihilar ground-glass opacities and consolidation",
+        "keyDiscriminator": "Development of upper lobe pneumatoceles leading to pneumothorax",
+        "supportingFeatures": [
+          "Strongly associated with immunocompromised states",
+          "Pleural effusions and lymphadenopathy are notably rare"
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Phlebitis (Vasculitis/GPA)",
+        "dominantImagingFeature": "Multifocal consolidation with cavitating nodules",
+        "keyDiscriminator": "Waxing and waning cavitations lacking calcification",
+        "supportingFeatures": [
+          "May present with concurrent alveolar hemorrhage",
+          "Clinical triad includes sinus, lung, and renal disease"
+        ]
+      },
+      {
+        "letter": "Y",
+        "condition": "Y-haemorrhage (Pulmonary haemorrhage)",
+        "dominantImagingFeature": "Diffuse ground-glass opacities and confluent consolidation",
+        "keyDiscriminator": "Rapidly clearing or changing opacities over hours",
+        "supportingFeatures": [
+          "Clinical presentation of hemoptysis and drop in hemoglobin",
+          "Underlying causes include Goodpasture syndrome and SLE"
+        ]
+      }
+    ],
+    "clinicalPearl": "In an immunocompromised patient, diffuse bilateral consolidation without effusions is PJP until proven otherwise, whereas the presence of cardiomegaly and effusions virtually guarantees heart failure."
+  },
+  "ch14": {
+    "patternSummary": "Bilateral hilar enlargement requires distinguishing between vascular and nodal causes; lobulated contours suggest lymphadenopathy, whereas smooth margins with peripheral pruning suggest pulmonary artery enlargement.",
+    "differentials": [
+      {
+        "letter": "S",
+        "condition": "Sarcoidosis",
+        "dominantImagingFeature": "symmetrical lobulated bilateral hilar and paratracheal adenopathy",
+        "keyDiscriminator": "Garland's triad (1-2-3 sign) with perilymphatic nodules",
+        "supportingFeatures": [
+          "Most common cause of bilateral symmetric hilar enlargement",
+          "Often associated with mid and upper zone reticulonodular opacities"
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Silicosis",
+        "dominantImagingFeature": "bilateral hilar adenopathy with eggshell nodal calcification",
+        "keyDiscriminator": "eggshell calcification with upper zone progressive massive fibrosis",
+        "supportingFeatures": [
+          "Requires long-term occupational exposure to free silica",
+          "Nodules tend to migrate from the periphery towards the hila"
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Lymphoma",
+        "dominantImagingFeature": "asymmetrical bulky bilateral hilar and mediastinal adenopathy",
+        "keyDiscriminator": "asymmetrical involvement typically abutting the cardiac borders",
+        "supportingFeatures": [
+          "Anterior and superior mediastinal nodes are frequently involved",
+          "Hodgkin disease almost always involves superior mediastinal nodes"
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Leukaemia",
+        "dominantImagingFeature": "bulky symmetric hilar and mediastinal lymph node enlargement",
+        "keyDiscriminator": "symmetric bulky nodes with massive splenomegaly",
+        "supportingFeatures": [
+          "Typically seen in chronic lymphocytic leukaemia (CLL)",
+          "May present with striking supraclavicular and axillary adenopathy"
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Infection (TB/Viral)",
+        "dominantImagingFeature": "bilateral hilar adenopathy with patchy airspace consolidation",
+        "keyDiscriminator": "unilateral in 95% of TB; viral in children",
+        "supportingFeatures": [
+          "Primary TB is rarely bilateral and symmetrical",
+          "Viral etiologies are the most common cause in children"
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Pneumoconiosis",
+        "dominantImagingFeature": "hilar adenopathy with discrete upper zone background nodules",
+        "keyDiscriminator": "eggshell calcification with coal or dust exposure history",
+        "supportingFeatures": [
+          "Coal worker's pneumoconiosis rarely has eggshell calcification (only 1%)",
+          "Background of small diffuse nodules in mid-to-upper zones"
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Secondary (Mets)",
+        "dominantImagingFeature": "bulky asymmetric hilar nodes with primary lung mass",
+        "keyDiscriminator": "disparate asymmetrical growth tracking from a primary tumor",
+        "supportingFeatures": [
+          "Common with bronchogenic, breast, and renal cell carcinomas",
+          "Often associated with unilateral pleural effusions or lung nodules"
+        ]
+      }
+    ],
+    "clinicalPearl": "Sarcoidosis classically presents with symmetrical, lobulated bilateral hilar and right paratracheal lymphadenopathy (Garland's triad), whereas lymphoma typically causes asymmetrical, bulky anterior mediastinal node enlargement."
+  },
+  "ch15": {
+    "patternSummary": "Inferior rib notching results from the enlargement of intercostal arteries, veins, or nerves within the costal groove, requiring careful assessment of laterality and surgical history.",
+    "differentials": [
+      {
+        "letter": "C",
+        "condition": "Coarctation / Collaterals",
+        "dominantImagingFeature": "bilateral notching of 3rd to 8th ribs",
+        "keyDiscriminator": "figure-3 sign of the aortic arch",
+        "supportingFeatures": [
+          "Classically spares the 1st and 2nd ribs",
+          "Associated with bicuspid aortic valves and Turner syndrome"
+        ]
+      },
+      {
+        "letter": "U",
+        "condition": "Upper limb shunt (Blalock-Taussig)",
+        "dominantImagingFeature": "unilateral notching of upper 3 to 4 ribs",
+        "keyDiscriminator": "ipsilateral thoracotomy or sternotomy wires",
+        "supportingFeatures": [
+          "Palliative surgical shunt for Tetralogy of Fallot",
+          "Notching occurs exclusively on the side of the procedure"
+        ]
+      },
+      {
+        "letter": "B",
+        "condition": "Bone (Neurofibromatosis type 1)",
+        "dominantImagingFeature": "thin attenuated irregular ribbon-like ribs",
+        "keyDiscriminator": "coexistent posterior mediastinal masses and kyphoscoliosis",
+        "supportingFeatures": [
+          "Notching reflects both primary bone dysplasia and pressure from neurofibromas",
+          "May also present with cutaneous nodules and interstitial lung disease"
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Subclavian artery stenosis (e.g., Takayasu)",
+        "dominantImagingFeature": "unilateral inferior rib notching without surgical hardware",
+        "keyDiscriminator": "asymmetric involvement classically affecting the left side",
+        "supportingFeatures": [
+          "Secondary to collateral flow bypassing the subclavian occlusion",
+          "May also occur with an aberrant subclavian artery origin"
+        ]
+      }
+    ],
+    "clinicalPearl": "In aortic coarctation, bilateral rib notching classically spares the 1st and 2nd ribs because their arterial supply (the supreme intercostal artery) arises from the costocervical trunk proximal to the stenosis."
+  },
+  "ch16": {
+    "patternSummary": "Diffuse osteosclerosis represents a generalized increase in bone density that requires careful evaluation of vertebral body patterns, bone morphology, and extra-skeletal findings to narrow the differential.",
+    "differentials": [
+      {
+        "letter": "R",
+        "condition": "Renal osteodystrophy",
+        "dominantImagingFeature": "Rugger-jersey spine with ill-defined endplate sclerosis",
+        "keyDiscriminator": "Subperiosteal bone resorption and smudgy sclerotic endplate margins",
+        "supportingFeatures": [
+          "Vascular and soft tissue calcifications",
+          "Presence of hemodialysis lines or a renal transplant"
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Osteopetrosis",
+        "dominantImagingFeature": "Diffuse dense bones with sharp sandwich vertebrae",
+        "keyDiscriminator": "Sharp sclerotic endplate margins and bone-in-bone appearance",
+        "supportingFeatures": [
+          "Erlenmeyer flask deformity of the long bones",
+          "Pediatric onset with brittle bones and frequent fractures"
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Myelofibrosis",
+        "dominantImagingFeature": "Uniform diffuse osteosclerosis with massive splenomegaly",
+        "keyDiscriminator": "Massive splenomegaly with uniformly very low T1/T2 marrow signal",
+        "supportingFeatures": [
+          "Typically presents in patients older than 50 years",
+          "Extramedullary hematopoiesis leading to hepatosplenomegaly"
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Paget disease",
+        "dominantImagingFeature": "Bony enlargement with picture frame vertebral bodies",
+        "keyDiscriminator": "Bone enlargement, coarsened trabeculae, and cortical thickening",
+        "supportingFeatures": [
+          "Thickening of the iliopectineal and ilioischial lines in the pelvis",
+          "Cotton wool appearance of the skull in later stages"
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Sickle cell disease",
+        "dominantImagingFeature": "Diffuse osteosclerosis with H-shaped biconcave vertebrae",
+        "keyDiscriminator": "H-shaped central endplate depressions with a calcified spleen",
+        "supportingFeatures": [
+          "Avascular necrosis of the femoral or humeral heads",
+          "Increased incidence of radiopaque gallstones"
+        ]
+      }
+    ],
+    "clinicalPearl": "The 'rugger jersey' spine of renal osteodystrophy features smudgy, ill-defined margins, whereas the 'sandwich' vertebrae seen in osteopetrosis have sharp, distinct interfaces between the sclerotic endplates and lucent central bone."
+  },
+  "ch17": {
+    "patternSummary": "FOG MACHINES (or FEGNOMASHIC) outlines the classic differential for benign and malignant lytic bone lesions, best narrowed by patient age, lesion margin, and specific anatomical location [1-4].",
+    "differentials": [
+      {
+        "letter": "F",
+        "condition": "Fibrous dysplasia",
+        "dominantImagingFeature": "ground-glass matrix with a thick sclerotic rim [5, 6]",
+        "keyDiscriminator": "ground-glass appearance with thick rind of reactive bone [5, 6]",
+        "supportingFeatures": [
+          "Shepherd's crook deformity of the proximal femur [5, 7]",
+          "No periosteal reaction unless complicated by fracture [8, 9]"
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Osteomyelitis",
+        "dominantImagingFeature": "lytic lesion with bone sequestrum and involucrum [10-12]",
+        "keyDiscriminator": "dense sequestrum surrounded by radiolucent area and involucrum [10, 11]",
+        "supportingFeatures": [
+          "Often accompanied by periosteal reaction and soft tissue gas [12, 13]",
+          "May form a cloaca or draining sinus tract [10, 11]"
+        ]
+      },
+      {
+        "letter": "G",
+        "condition": "Giant cell tumor (GCT)",
+        "dominantImagingFeature": "eccentric expansile lytic lesion abutting articular surface [14, 15]",
+        "keyDiscriminator": "closed epiphyses, eccentric location, lacks a sclerotic margin [14, 16, 17]",
+        "supportingFeatures": [
+          "Most commonly occurs around the knee and distal radius [18, 19]",
+          "Demonstrates a narrow zone of transition but no sclerotic rim [17]"
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Myeloma / Metastasis",
+        "dominantImagingFeature": "multiple punched-out lytic lesions without sclerotic margins [20-22]",
+        "keyDiscriminator": "occurs in older adults, often destroys vertebral pedicles [23, 24]",
+        "supportingFeatures": [
+          "Endosteal scalloping is a common finding [21, 22]",
+          "Often presents with diffuse osteopenia or vertebral compression fractures [25, 26]"
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Aneurysmal bone cyst (ABC)",
+        "dominantImagingFeature": "expansile blow-out lesion with internal fluid-fluid levels [27, 28]",
+        "keyDiscriminator": "multiple fluid-fluid levels on MRI resulting from hemorrhage [27, 29, 30]",
+        "supportingFeatures": [
+          "Commonly occurs in metaphyses or posterior spinal elements [31, 32]",
+          "Typically affects patients younger than 30 years old [29, 33]"
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Chondroblastoma",
+        "dominantImagingFeature": "well-defined epiphyseal lucency with thin sclerotic rim [34, 35]",
+        "keyDiscriminator": "epiphyseal location in patients with open growth plates [16, 35, 36]",
+        "supportingFeatures": [
+          "Internal calcifications are seen in approximately 50% of cases [34, 35]",
+          "Associated with significant surrounding marrow and soft tissue edema [35, 37]"
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Hyperparathyroidism (Brown tumor)",
+        "dominantImagingFeature": "well-defined lytic lesion with subperiosteal bone resorption [5, 38]",
+        "keyDiscriminator": "subperiosteal resorption along radial aspect of middle phalanges [38, 39]",
+        "supportingFeatures": [
+          "Associated with diffuse osteosclerosis, such as a rugger jersey spine [5, 38]",
+          "Dystrophic soft tissue calcifications may be present [5, 38]"
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Infection (Brodie abscess)",
+        "dominantImagingFeature": "metaphyseal lucency surrounded by thick reactive sclerosis [40, 41]",
+        "keyDiscriminator": "penumbra sign on T1 MRI with peripheral enhancement [42, 43]",
+        "supportingFeatures": [
+          "Lucent tortuous channel extending toward the growth plate [40, 41]",
+          "Double line sign on T2-weighted MRI sequences [40, 44]"
+        ]
+      },
+      {
+        "letter": "N",
+        "condition": "Non-ossifying fibroma (NOF)",
+        "dominantImagingFeature": "eccentric lobulated metaphyseal lucency with sclerotic margin [45]",
+        "keyDiscriminator": "asymptomatic, resolves with age, completely lacks periosteal reaction [45, 46]",
+        "supportingFeatures": [
+          "Migrates toward the center of the diaphysis as bone grows [45]",
+          "The scalloped sclerotic margin is typically V- or U-shaped [45]"
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Enchondroma",
+        "dominantImagingFeature": "central medullary lesion with rings and arcs calcification [47, 48]",
+        "keyDiscriminator": "chondroid matrix calcification without periosteal reaction or pain [47, 49]",
+        "supportingFeatures": [
+          "Most common in the small tubular bones of the hands and feet [50, 51]",
+          "Multiple lesions are seen in Ollier disease and Maffucci syndrome [52, 53]"
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Simple bone cyst",
+        "dominantImagingFeature": "centrally located metaphyseal lucent bone cyst [54, 55]",
+        "keyDiscriminator": "fallen fragment sign reliably indicating a pathologic fracture [54, 56]",
+        "supportingFeatures": [
+          "Most commonly occurs in the proximal humerus and proximal femur [54, 57]",
+          "Strictly spares the epiphysis and stays centrally placed [55, 58]"
+        ]
+      }
+    ],
+    "clinicalPearl": "Patient age is the most crucial differentiator; lesions like chondroblastoma, aneurysmal bone cysts, and simple bone cysts occur almost exclusively in patients under 30 with open physes, while giant cell tumors almost exclusively occur after physeal closure [4, 14, 16, 34]."
+  },
+  "ch18": {
+    "patternSummary": "The FEGNOMASHIC mnemonic outlines the classic differential for expansile lytic bone lesions, which is most effectively narrowed by assessing the patient's age, epiphyseal closure, and specific lesion margins [1-3].",
+    "differentials": [
+      {
+        "letter": "F",
+        "condition": "Fibrous dysplasia",
+        "dominantImagingFeature": "ground-glass matrix with thick sclerotic rind",
+        "keyDiscriminator": "ground-glass appearance with a thick reactive rind",
+        "supportingFeatures": [
+          "Shepherd's crook deformity of the proximal femur [4, 5].",
+          "Lacks a periosteal reaction unless complicated by fracture [5, 6]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Eosinophilic granuloma (LCH)",
+        "dominantImagingFeature": "lytic lesion with beveled edges or button sequestrum",
+        "keyDiscriminator": "beveled edges in skull or isolated vertebra plana",
+        "supportingFeatures": [
+          "Occurs predominantly in patients under 30 years old [7].",
+          "May present as a solitary vertebra plana maintaining disc spaces [8]."
+        ]
+      },
+      {
+        "letter": "G",
+        "condition": "Giant cell tumor (GCT)",
+        "dominantImagingFeature": "eccentric subarticular expansile lesion without sclerotic margin",
+        "keyDiscriminator": "abuts articular surface in patients with closed physes",
+        "supportingFeatures": [
+          "Typically occurs around the knee or distal radius [9, 10].",
+          "Narrow zone of transition strictly lacking a sclerotic border [10, 11]."
+        ]
+      },
+      {
+        "letter": "N",
+        "condition": "Nonossifying fibroma (NOF)",
+        "dominantImagingFeature": "eccentric lobulated metaphyseal lucency with scalloped sclerotic border",
+        "keyDiscriminator": "entirely asymptomatic without periostitis in patients under 30",
+        "supportingFeatures": [
+          "Migrates toward the center of the diaphysis and resolves with age [12].",
+          "Most commonly seen about the knee [13]."
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Osteoblastoma",
+        "dominantImagingFeature": "expansile lesion larger than 2cm in posterior spine",
+        "keyDiscriminator": "expansile posterior element spine mass mimicking ABC",
+        "supportingFeatures": [
+          "May demonstrate speckled internal matrix calcifications [14].",
+          "Often surrounded by peritumoral edema extending beyond the lesion [15]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Myeloma / Metastasis",
+        "dominantImagingFeature": "multiple punched-out lytic lesions with destructive permeative appearance",
+        "keyDiscriminator": "occurs exclusively in patients over 40 years old",
+        "supportingFeatures": [
+          "Renal and thyroid metastases characteristically produce highly expansile lesions [16].",
+          "Plasmacytoma may demonstrate a unique mini-brain appearance on MRI [17]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Aneurysmal bone cyst (ABC)",
+        "dominantImagingFeature": "expansile blow-out lesion with internal fluid-fluid levels",
+        "keyDiscriminator": "multiple fluid-fluid levels representing blood breakdown products",
+        "supportingFeatures": [
+          "Typically affects patients younger than 30 years old [18].",
+          "Doughnut sign on bone scintigraphy showing peripheral uptake with photopenic center [19, 20]."
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Simple bone cyst",
+        "dominantImagingFeature": "central metaphyseal lucency with fallen fragment sign",
+        "keyDiscriminator": "fallen fragment sign indicating a pathologic fracture",
+        "supportingFeatures": [
+          "Most commonly occurs in the proximal humerus and femur [21].",
+          "Centrally located within the medullary cavity [22]."
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Hyperparathyroidism (Brown tumor)",
+        "dominantImagingFeature": "well-defined lytic lesion with subperiosteal bone resorption",
+        "keyDiscriminator": "subperiosteal resorption classically along radial middle phalanges",
+        "supportingFeatures": [
+          "Associated with generalized osteopenia or osteosclerosis (rugger jersey spine) [4, 23].",
+          "Dystrophic soft-tissue calcifications may be present [18]."
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Infection (Brodie abscess)",
+        "dominantImagingFeature": "lytic metaphyseal lesion with lucent tortuous channel",
+        "keyDiscriminator": "lucent tortuous channel extending toward the growth plate",
+        "supportingFeatures": [
+          "May demonstrate a dense bony sequestrum [24].",
+          "Penumbra sign on T1-weighted MRI sequences [25, 26]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Chondromyxoid fibroma",
+        "dominantImagingFeature": "eccentric expansile metaphyseal lucency with scalloped sclerotic border",
+        "keyDiscriminator": "resembles nonossifying fibroma but commonly presents with pain",
+        "supportingFeatures": [
+          "Oriented along the long axis of the host bone [27].",
+          "May contain coarse, thick internal trabeculae [28]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Patient age is the ultimate discriminator for lytic lesions; giant cell tumors occur essentially only after physeal closure, while entities like aneurysmal bone cysts, nonossifying fibromas, and chondroblastomas present almost exclusively in patients under 30 [2, 3, 13]."
+  },
+  "ch19": {
+    "patternSummary": "Aggressive lytic bone lesions in children are characterized by a wide zone of transition and cortical destruction, necessitating prompt differentiation between infection, sarcomas, and metastases [1, 2].",
+    "differentials": [
+      {
+        "letter": "L",
+        "condition": "Leukaemia / Lymphoma",
+        "dominantImagingFeature": "Transverse lucent metaphyseal bands and diffuse osteopenia [3]",
+        "keyDiscriminator": "Bilateral symmetric metaphyseal lucency in young children [4]",
+        "supportingFeatures": [
+          "Periosteal new bone formation secondary to subperiosteal infiltration [5]",
+          "Peak incidence occurs between 2 and 5 years of age [5]"
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Osteomyelitis",
+        "dominantImagingFeature": "Ill-defined lytic lesion with sequestrum and periostitis [6, 7]",
+        "keyDiscriminator": "Infection can cross the open physis in infants [8, 9]",
+        "supportingFeatures": [
+          "Thick irregular reactive sclerosis in subacute or chronic phases [7]",
+          "Often affects the metaphysis due to slow-flowing venous sinusoids [8]"
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Sarcoma (Ewing)",
+        "dominantImagingFeature": "Permeative diaphyseal lucency with onion-skin periostitis [10]",
+        "keyDiscriminator": "Permeative diaphyseal lesion with disproportionate soft-tissue mass [11, 12]",
+        "supportingFeatures": [
+          "Peak incidence between 10 and 15 years of age [13]",
+          "Can present with fever and leukocytosis mimicking infection [14]"
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Eosinophilic granuloma (LCH)",
+        "dominantImagingFeature": "Punched-out lytic skull lesions with beveled edges [15, 16]",
+        "keyDiscriminator": "Beveled edges, button sequestrum, or vertebra plana [15, 16]",
+        "supportingFeatures": [
+          "Predominantly affects children and young adults under 30 [17]",
+          "Unlike many tumors, it can cross an open growth plate [18]"
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Metastasis (Neuroblastoma)",
+        "dominantImagingFeature": "Permeative lytic lesions with primary adrenal mass [19, 20]",
+        "keyDiscriminator": "Age under five with a calcified suprarenal mass [19]",
+        "supportingFeatures": [
+          "Most common pediatric malignancy to metastasize to bone [20, 21]",
+          "Frequently involves the skull base and orbits [22]"
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Osteosarcoma",
+        "dominantImagingFeature": "Metaphyseal lytic-sclerotic mass with sunburst periostitis [1, 23]",
+        "keyDiscriminator": "Cloud-like osteoid matrix mineralization in the soft tissues [24]",
+        "supportingFeatures": [
+          "Most commonly affects the distal femur or proximal tibia [24]",
+          "Associated with Codman triangle periosteal reaction [24]"
+        ]
+      }
+    ],
+    "clinicalPearl": "The anatomical location within the long bone is highly specific; Ewing sarcoma favors the diaphysis with an onion-skin periostitis, whereas osteosarcoma typically involves the metaphysis and produces a cloud-like osteoid matrix [14, 24]."
+  },
+  "ch20": {
+    "patternSummary": "Epiphyseal lucent lesions represent a focused differential diagnosis strongly dictated by whether the patient's skeletal growth plates are open or closed [1-3].",
+    "differentials": [
+      {
+        "letter": "G",
+        "condition": "Giant cell tumor (GCT)",
+        "dominantImagingFeature": "eccentric subarticular lytic lesion without sclerotic margin [4, 5]",
+        "keyDiscriminator": "abuts articular surface in patients with closed physes [3, 4]",
+        "supportingFeatures": [
+          "Occurs in patients 20 to 40 years old [2, 6].",
+          "Narrow zone of transition without internal matrix mineralization [7]."
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Osteoblastoma",
+        "dominantImagingFeature": "expansile lytic lesion larger than two centimeters [8, 9]",
+        "keyDiscriminator": "predilection for the posterior elements of the spine [10, 11]",
+        "supportingFeatures": [
+          "Peritumoral edema extending beyond the lesion margin [9].",
+          "May simulate an aneurysmal bone cyst [11]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Chondroblastoma",
+        "dominantImagingFeature": "well-defined epiphyseal lucency with a sclerotic rim [12, 13]",
+        "keyDiscriminator": "epiphyseal location in patients with open growth plates [14, 15]",
+        "supportingFeatures": [
+          "Extensive surrounding bone marrow and soft tissue edema [16, 17].",
+          "Internal calcifications are seen in 50 percent of cases [12, 14]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Clear cell chondrosarcoma",
+        "dominantImagingFeature": "expansile epiphyseal lytic lesion with possible calcification [18, 19]",
+        "keyDiscriminator": "resembles chondroblastoma but occurs after epiphyseal fusion [19]",
+        "supportingFeatures": [
+          "Predominantly affects the proximal femur or proximal humerus [18, 19].",
+          "A slow-growing low-grade malignancy [19]."
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Infection (Brodie abscess)",
+        "dominantImagingFeature": "lytic lesion surrounded by thick reactive sclerosis [20, 21]",
+        "keyDiscriminator": "lucent tortuous channel or MRI penumbra sign [6, 20, 22]",
+        "supportingFeatures": [
+          "Metaphyseal origin but can cross the open physis [23].",
+          "Double line effect on T2 weighted MRI [24, 25]."
+        ]
+      },
+      {
+        "letter": "G",
+        "condition": "Intraosseous ganglion",
+        "dominantImagingFeature": "well-defined subchondral lucency with a sclerotic margin [26, 27]",
+        "keyDiscriminator": "subarticular location strictly without associated degenerative joint disease [27]",
+        "supportingFeatures": [
+          "Multilocular cysts containing gelatinous mucoid substance [26, 27].",
+          "No evidence of communication with the joint space [26, 27]."
+        ]
+      }
+    ],
+    "clinicalPearl": "The status of the physis is the ultimate discriminator: chondroblastomas occur before skeletal maturity, whereas giant cell tumors and clear cell chondrosarcomas occur after physeal closure [1, 3, 19]."
+  },
+  "ch21": {
+    "patternSummary": "Diffuse marrow infiltration on MRI replaces normal fatty marrow, characteristically demonstrating T1-weighted signal equal to or lower than adjacent intervertebral discs or muscle [1-4].",
+    "differentials": [
+      {
+        "letter": "M",
+        "condition": "Myeloma",
+        "dominantImagingFeature": "Diffuse low T1 signal with variegated pattern [1, 5]",
+        "keyDiscriminator": "Relative sparing of the vertebral pedicles [6]",
+        "supportingFeatures": [
+          "Often presents with 'salt and pepper' or micronodular appearance [5].",
+          "May exhibit a 'mini-brain' appearance in solitary lesions [7, 8]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Metastases",
+        "dominantImagingFeature": "Multifocal or diffuse low T1 marrow signal [9, 10]",
+        "keyDiscriminator": "Frequent destruction and involvement of vertebral pedicles [10, 11]",
+        "supportingFeatures": [
+          "Often associated with an epidural soft tissue mass [12, 13].",
+          "Sclerotic metastases appear low signal on T1 and T2 [9, 10]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Mastocytosis",
+        "dominantImagingFeature": "Diffuse low T1 and T2 marrow signal [14, 15]",
+        "keyDiscriminator": "Associated thickened small bowel folds and nodules [16]",
+        "supportingFeatures": [
+          "Presents with diffuse osteosclerosis on plain radiographs [15].",
+          "Associated with hepatosplenomegaly and urticaria pigmentosa [15, 17]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Myelofibrosis",
+        "dominantImagingFeature": "Uniformly very low T1 and T2 marrow signal [14, 18, 19]",
+        "keyDiscriminator": "Massive splenomegaly from active extramedullary hematopoiesis [18, 20, 21]",
+        "supportingFeatures": [
+          "Results in diffuse osteosclerosis and 'jail-bar' ribs [22].",
+          "Typically occurs in patients over 50 years of age [20, 23]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Marrow hyperplasia",
+        "dominantImagingFeature": "Symmetric T1 marrow signal brighter than adjacent muscle [3, 24]",
+        "keyDiscriminator": "T1 signal remains higher than muscle or adjacent disc [3, 25]",
+        "supportingFeatures": [
+          "Seen in severe anemia, heavy smoking, or obesity [26, 27].",
+          "Characteristically spares the epiphyses, retaining high-signal fatty marrow [25]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Normal red marrow is always slightly higher in signal intensity than normal muscle or intervertebral discs on T1-weighted images; marrow that is isointense or hypointense to adjacent muscle on T1 is considered abnormal [3, 4]."
+  },
+  "ch22": {
+    "patternSummary": "Posterior vertebral body scalloping generally results from increased intraspinal pressure, dural ectasia, or congenital bone softening dysplasias [1].",
+    "differentials": [
+      {
+        "letter": "A",
+        "condition": "Acromegaly / Achondroplasia",
+        "dominantImagingFeature": "Enlarged vertebrae or shortened pedicles causing spinal stenosis [2, 3]",
+        "keyDiscriminator": "Heel pad >25mm or progressive caudal interpedicular narrowing [3, 4]",
+        "supportingFeatures": [
+          "Enlarged paranasal sinuses and prognathism in acromegaly [3].",
+          "Champagne glass pelvic inlet with horizontal sacrum in achondroplasia [5]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Marfan syndrome",
+        "dominantImagingFeature": "Lumbosacral dural ectasia with tall elongated vertebral bodies [6, 7]",
+        "keyDiscriminator": "Arachnodactyly with lumbosacral dural ectasia and severe scoliosis [7, 8]",
+        "supportingFeatures": [
+          "Frequently associated with aortic root dilatation and dissection [6].",
+          "Steinberg sign demonstrating a protruding thumb from a clenched fist [7]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Ehlers-Danlos syndrome",
+        "dominantImagingFeature": "Dural ectasia causing exaggerated posterior vertebral concavity [1, 9]",
+        "keyDiscriminator": "Mesenchymal tissue laxity without classic Marfan skeletal dysmorphism [1]",
+        "supportingFeatures": [
+          "Patients are prone to arterial aneurysms and vascular ruptures [9].",
+          "Presents with extreme joint hypermobility and skin fragility."
+        ]
+      },
+      {
+        "letter": "N",
+        "condition": "Neurofibromatosis type 1 (NF1)",
+        "dominantImagingFeature": "Posterior scalloping with widened intervertebral neural foramina [10]",
+        "keyDiscriminator": "Dumbbell neurofibromas expanding the intervertebral neural foramina [11]",
+        "supportingFeatures": [
+          "Sharply angled short segment scoliosis with severe kyphosis [12].",
+          "Ribbon-like deformed ribs and sphenoid wing dysplasia [13, 14]."
+        ]
+      },
+      {
+        "letter": "D",
+        "condition": "Dwarfism (e.g., Morquio's syndrome)",
+        "dominantImagingFeature": "Posterior scalloping with severe platyspondyly and anterior beaking [15, 16]",
+        "keyDiscriminator": "Central anterior vertebral beaking with universal vertebra plana [17, 18]",
+        "supportingFeatures": [
+          "Hypoplastic dens leading to atlanto-axial instability [18].",
+          "Proximal tapering of metacarpals producing a bullet shape [19]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Always evaluate the interpedicular distance on an AP lumbar radiograph; progressive narrowing caudally strongly points to achondroplasia, while focal widening suggests an intraspinal mass or dural ectasia [4, 20]."
+  },
+  "ch23": {
+    "patternSummary": "Resorption of the lateral clavicle can be unilateral or bilateral, with bilateral involvement strongly suggesting systemic connective tissue or metabolic diseases [1].",
+    "differentials": [
+      {
+        "letter": "S",
+        "condition": "Scleroderma",
+        "dominantImagingFeature": "bilateral tapered distal clavicles with acro-osteolysis [2]",
+        "keyDiscriminator": "associated subcutaneous and periarticular soft tissue calcification [2]",
+        "supportingFeatures": [
+          "Lower lobe pulmonary fibrosis [3]",
+          "Dilated esophagus on chest radiograph [3]"
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Hyperparathyroidism",
+        "dominantImagingFeature": "bilateral resorption with diffuse subperiosteal bone resorption [4]",
+        "keyDiscriminator": "subperiosteal resorption on radial margins of middle phalanges [4]",
+        "supportingFeatures": [
+          "Brown tumors presenting as expansile lytic lesions [4]",
+          "Osteosclerosis or 'rugger jersey' spine [4]"
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Infection / Iatrogenic",
+        "dominantImagingFeature": "unilateral focal distal clavicle bone loss [3]",
+        "keyDiscriminator": "strictly unilateral process without systemic joint changes [3]",
+        "supportingFeatures": [
+          "May show aggressive irregular margins if osteomyelitis [5]",
+          "Post-surgical resection history if iatrogenic"
+        ]
+      },
+      {
+        "letter": "R",
+        "condition": "Rheumatoid arthritis",
+        "dominantImagingFeature": "clavicular resorption with glenohumeral joint space narrowing [3]",
+        "keyDiscriminator": "glenohumeral erosions and loss of subacromial space [3]",
+        "supportingFeatures": [
+          "May have signs of avascular necrosis from steroids [3]",
+          "Lower lobe fibrosis may be present [3]"
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Trauma (Post-traumatic osteolysis)",
+        "dominantImagingFeature": "unilateral focal osteolysis at the acromioclavicular joint [3]",
+        "keyDiscriminator": "strictly unilateral findings with prior old fracture [3]",
+        "supportingFeatures": [
+          "History of previous trauma or fracture [3]",
+          "Lacks signs of systemic inflammatory or metabolic disease [1]"
+        ]
+      }
+    ],
+    "clinicalPearl": "Assess if the resorption is unilateral or bilateral; infection and post-traumatic osteolysis are likely unilateral, while connective tissue diseases and hyperparathyroidism are bilateral [1]."
+  },
+  "ch24": {
+    "patternSummary": "Short metacarpals frequently involve the fourth digit and require assessment for bilaterality, carpal deformities, and systemic calcifications to narrow the differential [1], [2].",
+    "differentials": [
+      {
+        "letter": "T",
+        "condition": "Turner syndrome",
+        "dominantImagingFeature": "Shortening of the fourth metacarpal [3], [4].",
+        "keyDiscriminator": "Associated Madelung deformity of the wrist [3], [5].",
+        "supportingFeatures": [
+          "Exclusively affects females (45XO chromosome pattern) [3], [4].",
+          "Associated with cubitus valgus and short stature [3], [4]."
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Idiopathic / Injury",
+        "dominantImagingFeature": "Isolated short metacarpal without systemic changes [6], [1].",
+        "keyDiscriminator": "Absence of other bone or soft tissue abnormalities [6], [1].",
+        "supportingFeatures": [
+          "Most common cause of a short fourth metacarpal [1].",
+          "May show evidence of prior childhood trauma or fracture [7]."
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Pseudohypoparathyroidism (PHP)",
+        "dominantImagingFeature": "Shortened fourth and fifth metacarpals bilaterally [3], [7].",
+        "keyDiscriminator": "Associated intracranial or subcutaneous soft tissue calcifications [3], [8].",
+        "supportingFeatures": [
+          "Pseudopseudohypoparathyroidism shares identical imaging features but with normal calcium [9], [3].",
+          "Frequently involves the third to fifth metatarsals simultaneously [7], [2]."
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Sickle cell disease",
+        "dominantImagingFeature": "Short metacarpal with sclerotic bone infarcts [6], [10].",
+        "keyDiscriminator": "Concurrent H-shaped vertebrae or splenic calcification [11], [12].",
+        "supportingFeatures": [
+          "Consequence of childhood sickle cell dactylitis causing premature physeal fusion [13], [14].",
+          "May show patchy sclerosis and residual cortical deformity [10]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Always look for a Madelung deformity at the wrist, which strongly suggests Turner syndrome in a female patient presenting with a short fourth metacarpal [3], [2]."
+  },
+  "ch25": {
+    "patternSummary": "Acro-osteolysis refers to the resorption or destruction of the distal phalangeal tufts, requiring evaluation of specific patterns like tuft, band-like, or periarticular resorption [1, 2].",
+    "differentials": [
+      {
+        "letter": "P",
+        "condition": "Psoriasis / PVC exposure",
+        "dominantImagingFeature": "pencil-in-cup deformity with marginal erosions and periostitis [3, 4]",
+        "keyDiscriminator": "preserved bone mineralization with associated nail changes [3, 5]",
+        "supportingFeatures": [
+          "Sausage digit soft-tissue swelling [3, 6]",
+          "Bony ankylosis of distal interphalangeal joints [4]"
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Injury (Frostbite/Burn)",
+        "dominantImagingFeature": "distal tuft resorption and overlying soft-tissue loss [7, 8]",
+        "keyDiscriminator": "bilateral frostbite findings classically spare the thumbs [7, 8]",
+        "supportingFeatures": [
+          "History of thermal or electrical burns [9]",
+          "Premature growth plate fusion in children [7]"
+        ]
+      },
+      {
+        "letter": "N",
+        "condition": "Neuropathy (Diabetes/Leprosy)",
+        "dominantImagingFeature": "licked candy cane tapering of the distal phalanges [10, 11]",
+        "keyDiscriminator": "concentric bone atrophy often with vascular calcifications [11, 12]",
+        "supportingFeatures": [
+          "Painless presentation leading to neuroarthropathic joints [12]",
+          "Clawlike hand deformity in leprosy [13]"
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Collagen vascular (Scleroderma)",
+        "dominantImagingFeature": "tuft resorption with severe soft-tissue atrophy [14, 15]",
+        "keyDiscriminator": "associated subcutaneous and periarticular calcinosis circumscripta [15]",
+        "supportingFeatures": [
+          "Flexion contractures of the fingers [4]",
+          "Associated lower lobe pulmonary fibrosis [14]"
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Hyperparathyroidism",
+        "dominantImagingFeature": "tuft resorption with radial middle phalangeal resorption [16, 17]",
+        "keyDiscriminator": "subperiosteal resorption on radial middle phalanges [16, 17]",
+        "supportingFeatures": [
+          "Presence of brown tumors and osteosclerosis [16, 17]",
+          "Can also present as band-like midshaft resorption [18]"
+        ]
+      },
+      {
+        "letter": "F",
+        "condition": "Familial (Hajdu-Cheney)",
+        "dominantImagingFeature": "band-like terminal tuft lucencies with generalized osteolysis [19]",
+        "keyDiscriminator": "associated with wormian bones and dysmorphic facies [19]",
+        "supportingFeatures": [
+          "Rare autosomal dominant familial inheritance [19]",
+          "Associated with basilar invagination [19]"
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Osteolysis (Band-like / PVC)",
+        "dominantImagingFeature": "transverse radiolucent band across the distal phalanx [19, 20]",
+        "keyDiscriminator": "midshaft resorption sparing the distal tuft tip [18]",
+        "supportingFeatures": [
+          "Associated with occupational polyvinyl chloride (PVC) exposure [9, 21]",
+          "May also be seen in primary hyperparathyroidism [18, 20]"
+        ]
+      }
+    ],
+    "clinicalPearl": "Hyperparathyroidism is unique as the only common condition that causes band-like resorption of the midportion of the phalanx [18]."
+  },
+  "ch26": {
+    "patternSummary": "A bowed tibia requires careful assessment of the direction of bowing, bone density, and metaphyseal integrity to distinguish between congenital dysplasias, metabolic conditions, and benign physiologic variants [1, 2].",
+    "differentials": [
+      {
+        "letter": "P",
+        "condition": "Paget disease",
+        "dominantImagingFeature": "anterior bowing with cortical thickening and coarsened trabeculae [1, 3, 4]",
+        "keyDiscriminator": "anterior bowing with coarsened trabeculae in older adults [1, 4]",
+        "supportingFeatures": [
+          "Associated with transverse 'banana' insufficiency fractures [3, 4].",
+          "Classic 'blade of grass' lytic leading edge may be present [5, 6]."
+        ]
+      },
+      {
+        "letter": "R",
+        "condition": "Rickets",
+        "dominantImagingFeature": "metaphyseal fraying, splaying, and cupping with widened physes [1, 4, 7]",
+        "keyDiscriminator": "widened physes with cupped and frayed metaphyses [4, 7, 8]",
+        "supportingFeatures": [
+          "Generalized osteopenia and bowing of softened diaphyses [4, 9].",
+          "May show 'rachitic rosary' at the costochondral junctions [8, 10]."
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Idiopathic / Injury",
+        "dominantImagingFeature": "symmetric gentle bowing without focal destructive bone lesions [11]",
+        "keyDiscriminator": "normal bone mineralization resolving spontaneously with growth [1, 2]",
+        "supportingFeatures": [
+          "Typically bilateral and resolves spontaneously with growth [1].",
+          "Lacks periostitis, focal fractures, or underlying metabolic disease [1]."
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Osteogenesis imperfecta",
+        "dominantImagingFeature": "diffuse osteopenia with multiple fractures and slender bones [1, 4, 12]",
+        "keyDiscriminator": "severe osteopenia with multiple fractures of differing ages [12-14]",
+        "supportingFeatures": [
+          "Healing fractures frequently show exuberant callus formation [12, 13].",
+          "Often accompanied by multiple wormian bones and platyspondyly [12, 13]."
+        ]
+      },
+      {
+        "letter": "N",
+        "condition": "Neurofibromatosis (NF-1)",
+        "dominantImagingFeature": "anterolateral bowing at the middle and distal thirds [1, 11, 15]",
+        "keyDiscriminator": "anterolateral bowing frequently complicated by focal pseudoarthrosis [1, 11, 16]",
+        "supportingFeatures": [
+          "Often associated with hypoplasia of the adjacent fibula [11, 15].",
+          "Pseudoarthroses typically display 'pencil-pointing' of the bone ends [15, 16]."
+        ]
+      }
+    ],
+    "clinicalPearl": "The direction of bowing is highly specific: neurofibromatosis characteristically causes anterolateral bowing, whereas Paget disease classically causes anterior bowing [1, 2]."
+  },
+  "ch27": {
+    "patternSummary": "Diffuse periosteal reaction in adults requires careful evaluation of symmetry, specific bone involvement, and the presence of underlying systemic or malignant diseases to narrow the differential [1, 2].",
+    "differentials": [
+      {
+        "letter": "H",
+        "condition": "Hypertrophic pulmonary osteoarthropathy",
+        "dominantImagingFeature": "smooth symmetric diaphyseal and metaphyseal periosteal reaction [1, 3]",
+        "keyDiscriminator": "strictly spares the epiphyses, unlike primary pachydermoperiostosis [1, 3]",
+        "supportingFeatures": [
+          "Associated with clubbing of the digits [1]",
+          "Frequently secondary to bronchogenic carcinoma [4]"
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Thyroid acropachy",
+        "dominantImagingFeature": "spiculated feathery periostitis in hands and feet [3, 5]",
+        "keyDiscriminator": "asymmetrical distribution favoring radial aspect of digits [5]",
+        "supportingFeatures": [
+          "Occurs following treatment for hyperthyroidism [5]",
+          "Associated with prominent soft tissue swelling and clubbing [3]"
+        ]
+      },
+      {
+        "letter": "V",
+        "condition": "Venous stasis",
+        "dominantImagingFeature": "thick undulating periosteal reaction of lower limbs [6, 7]",
+        "keyDiscriminator": "strictly involves lower limbs with overlying skin changes [6]",
+        "supportingFeatures": [
+          "Lacks aggressive features or underlying bone destruction [6]",
+          "Often associated with soft tissue defects, phleboliths, or ulcer bandages [6, 7]"
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Leukaemia / Lymphoma",
+        "dominantImagingFeature": "aggressive periosteal reaction with permeative bone destruction [8, 9]",
+        "keyDiscriminator": "associated with diffuse marrow replacement and lytic lesions [8]",
+        "supportingFeatures": [
+          "Transverse lucent metaphyseal bands may be present [10]",
+          "Often associated with diffuse osteopenia [11]"
+        ]
+      },
+      {
+        "letter": "R",
+        "condition": "Renal osteodystrophy",
+        "dominantImagingFeature": "diffuse osteosclerosis with subperiosteal bone resorption [12, 13]",
+        "keyDiscriminator": "subperiosteal resorption along radial aspects of middle phalanges [12, 13]",
+        "supportingFeatures": [
+          "Presence of a 'rugger-jersey' spine [14]",
+          "Associated with vascular and periarticular soft-tissue calcifications [12]"
+        ]
+      }
+    ],
+    "clinicalPearl": "Always request a chest radiograph when encountering a new, smooth, symmetric periosteal reaction in an adult, as this is the classic manifestation of hypertrophic pulmonary osteoarthropathy, most commonly secondary to lung carcinoma [4, 15]."
+  },
+  "ch28": {
+    "patternSummary": "Osteonecrosis (avascular necrosis) of the hip reflects ischemic bone death, classically demonstrating a subchondral crescent sign on radiographs and a pathognomonic double-line sign on MRI [1-4].",
+    "differentials": [
+      {
+        "letter": "S",
+        "condition": "Steroids / Sickle cell",
+        "dominantImagingFeature": "serpiginous double-line sign on T2-weighted MRI [3, 5]",
+        "keyDiscriminator": "renal transplant clips or H-shaped vertebrae present [6, 7]",
+        "supportingFeatures": [
+          "Subchondral crescent sign indicating imminent articular collapse [1, 3].",
+          "Bilateral femoral head involvement is highly common [1, 8]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Alcohol",
+        "dominantImagingFeature": "subchondral lucency with patchy femoral head sclerosis [4, 9]",
+        "keyDiscriminator": "concurrent pancreatic calcifications from chronic pancreatitis [10, 11]",
+        "supportingFeatures": [
+          "Progresses to articular surface collapse and fragmentation [4].",
+          "Often bilateral and symmetric in presentation [1]."
+        ]
+      },
+      {
+        "letter": "D",
+        "condition": "Dysbarism (or Diabetes)",
+        "dominantImagingFeature": "multiple serpiginous medullary bone infarcts [12]",
+        "keyDiscriminator": "vascular calcifications or history of Caisson disease [13, 14]",
+        "supportingFeatures": [
+          "Diaphyseal and metaphyseal infarcts are characteristic [12, 15].",
+          "Central fat signal surrounded by a sclerotic rim [16]."
+        ]
+      },
+      {
+        "letter": "G",
+        "condition": "Gaucher disease",
+        "dominantImagingFeature": "marrow expansion with Erlenmeyer flask deformity [17, 18]",
+        "keyDiscriminator": "massive splenomegaly with widespread osteopenia [10, 17]",
+        "supportingFeatures": [
+          "Decreased marrow signal on T1 and T2 sequences [19].",
+          "Associated with multiple bone infarcts and pathological fractures [20, 21]."
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Infection / Idiopathic (Legg-Calve-Perthes)",
+        "dominantImagingFeature": "unilateral epiphyseal fragmentation and subchondral fracture [22, 23]",
+        "keyDiscriminator": "idiopathic presentation in male child aged 4-8 [11, 22]",
+        "supportingFeatures": [
+          "Small, sclerotic femoral head with widened joint space [24, 25].",
+          "Joint effusion is often present early [24, 26]."
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Trauma",
+        "dominantImagingFeature": "unilateral subchondral collapse and sclerosis [4, 27]",
+        "keyDiscriminator": "evidence of prior femoral neck fracture [28, 29]",
+        "supportingFeatures": [
+          "Results from direct disruption of the femoral head blood supply [29, 30].",
+          "Surgical hardware may be present on imaging."
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Storage disease / SLE",
+        "dominantImagingFeature": "mixed lytic-sclerotic process with diffuse marrow changes [31, 32]",
+        "keyDiscriminator": "systemic connective tissue or metabolic storage disease signs [4, 14]",
+        "supportingFeatures": [
+          "Diffuse replacement of normal fatty marrow [33].",
+          "MRI is the most efficacious way to evaluate extent [34]."
+        ]
+      }
+    ],
+    "clinicalPearl": "When evaluating avascular necrosis of the femoral heads, always check the abdomen on the radiograph: a calcified spleen points to sickle cell disease, massive splenomegaly suggests Gaucher disease, and pancreatic calcifications indicate alcohol abuse [10, 35, 36]."
+  },
+  "ch31": {
+    "patternSummary": "Terminal ileal mass or stricture requires differentiating between inflammatory conditions and neoplasms based on length of involvement, symmetry, and extramural findings like lymphadenopathy or desmoplasia [1, 2].",
+    "differentials": [
+      {
+        "letter": "C",
+        "condition": "Crohn's disease",
+        "dominantImagingFeature": "string sign with transmural bowel wall thickening [1, 3]",
+        "keyDiscriminator": "discontinuous skip lesions and creeping mesenteric fat [4-6]",
+        "supportingFeatures": [
+          "Aphthous ulcers progressing to 'rose-thorn' and 'cobblestone' ulceration [7, 8].",
+          "Asymmetrical mucosal involvement, commonly at the mesenteric border [7]."
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Lymphoma",
+        "dominantImagingFeature": "thick-walled infiltrating mass with aneurysmal dilatation [9, 10]",
+        "keyDiscriminator": "bulky lymphadenopathy without significant bowel obstruction [11, 12]",
+        "supportingFeatures": [
+          "Often involves a single long loop of bowel (5-20 cm) [12].",
+          "Extensive retroperitoneal lymphadenopathy and splenomegaly strongly support this diagnosis [12]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Carcinoid",
+        "dominantImagingFeature": "hypervascular mass with spiculated mesenteric desmoplastic reaction [10, 13]",
+        "keyDiscriminator": "spiculated mesenteric mass with calcification [10, 14]",
+        "supportingFeatures": [
+          "Distal or terminal ileum is the most common primary site [13, 15].",
+          "Frequently associated with hypervascular liver metastases [14, 15]."
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Tuberculosis (TB)",
+        "dominantImagingFeature": "conical shrunken cecum with narrowed terminal ileum [3, 16]",
+        "keyDiscriminator": "necrotic pericaecal lymph nodes with low attenuation centers [17, 18]",
+        "supportingFeatures": [
+          "Stierlin sign: rapid emptying of the narrowed terminal ileum [3, 19].",
+          "Fleischner sign: wide gaping patulous ileocaecal valve [3, 19]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Adenocarcinoma",
+        "dominantImagingFeature": "short, well-demarcated circumferential narrowing or apple-core lesion [20, 21]",
+        "keyDiscriminator": "focal, irregular stricture less than five centimeters long [12]",
+        "supportingFeatures": [
+          "Typically produces a narrow, rigid stricture with prestenotic dilatation [21].",
+          "Rare in the ileum; more commonly found in the duodenum or jejunum [22]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Tuberculosis typically has more pronounced cecal involvement with necrotic lymph nodes, whereas Crohn's disease favors the terminal ileum and classically presents with skip lesions and creeping fat [1, 2, 18]."
+  },
+  "ch33": {
+    "patternSummary": "Evaluating a solid mesenteric or peritoneal mass requires careful assessment of calcification, vessel encasement versus displacement, and associated desmoplastic reactions to narrow the differential [1, 2].",
+    "differentials": [
+      {
+        "letter": "S",
+        "condition": "Sclerosing mesenteritis",
+        "dominantImagingFeature": "misty mesentery with preserved fat around vessels",
+        "keyDiscriminator": "fat ring or fat halo sign around vessels",
+        "supportingFeatures": [
+          "Pseudocapsule sign with a thin fibrotic rim [3].",
+          "Encasement of mesenteric vessels without occlusion [4]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Carcinoid",
+        "dominantImagingFeature": "spiculated mesenteric mass with focal calcifications",
+        "keyDiscriminator": "stellate desmoplastic reaction causing tethering of bowel loops",
+        "supportingFeatures": [
+          "Associated intensely hypervascular liver metastases [5, 6].",
+          "Primary enhancing mass often located in the distal ileum [6]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Adenocarcinoma (Metastases)",
+        "dominantImagingFeature": "omental caking with nodular peritoneal thickening",
+        "keyDiscriminator": "malignant ascites with discrete nodular peritoneal implants",
+        "supportingFeatures": [
+          "Often results from ovarian, gastrointestinal, or breast primaries [7, 8].",
+          "Frequently causes scalloping of the visceral organ surfaces [9]."
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Lymphoma",
+        "dominantImagingFeature": "bulky confluent nodal masses encasing mesenteric vessels",
+        "keyDiscriminator": "sandwich sign without obstruction of adjacent vessels",
+        "supportingFeatures": [
+          "Often associated with splenomegaly and extensive retroperitoneal lymphadenopathy [6, 10].",
+          "Demonstrates homogeneous contrast enhancement [11]."
+        ]
+      },
+      {
+        "letter": "D",
+        "condition": "Desmoid tumor",
+        "dominantImagingFeature": "discrete solid soft-tissue mass displacing bowel loops",
+        "keyDiscriminator": "displaces rather than encases adjacent mesenteric vessels",
+        "supportingFeatures": [
+          "Frequently associated with prior surgical scars or Gardner syndrome [12, 13].",
+          "Demonstrates low signal intensity on T1 and T2 MRI [13, 14]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Lymphoma characteristically encases mesenteric vessels without obstructing them (the 'sandwich sign'), whereas carcinoid tumors produce an intense desmoplastic reaction that tethers and kinks adjacent bowel loops [6, 11, 15]."
+  },
+  "ch32": {
+    "patternSummary": "Colitis presents with bowel wall thickening and mucosal changes, requiring assessment of distribution, symmetry, and clinical history to differentiate infectious, inflammatory, and ischemic causes [1-3].",
+    "differentials": [
+      {
+        "letter": "C",
+        "condition": "Crohn's disease / C. diff",
+        "dominantImagingFeature": "cobblestone mucosa or accordion sign with wall thickening",
+        "keyDiscriminator": "transmural skip lesions or massive diffuse wall thickening",
+        "supportingFeatures": [
+          "Crohn's classically involves the terminal ileum with fistulae and skip lesions [4].",
+          "C. difficile presents with the accordion sign and severe wall thickening [5, 6]."
+        ]
+      },
+      {
+        "letter": "U",
+        "condition": "Ulcerative colitis",
+        "dominantImagingFeature": "continuous mucosal involvement with lead pipe colon morphology",
+        "keyDiscriminator": "continuous proximal extension from rectum without skip lesions",
+        "supportingFeatures": [
+          "Chronic cases develop a shortened, ahaustral, featureless lead pipe colon [7].",
+          "Associated with toxic megacolon and backwash ileitis [8, 9]."
+        ]
+      },
+      {
+        "letter": "B",
+        "condition": "Beh\u00e7et disease",
+        "dominantImagingFeature": "aphthoid or deep ulcers mimicking Crohn's disease",
+        "keyDiscriminator": "ileocecal ulcers resembling Crohn's with classic clinical triad",
+        "supportingFeatures": [
+          "Radiologically mimics Crohn's disease with aphthoid ulceration [10].",
+          "Can occasionally simulate idiopathic ulcerative proctocolitis [10]."
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Ischaemic colitis",
+        "dominantImagingFeature": "segmental thumbprinting classically located at the splenic flexure",
+        "keyDiscriminator": "distribution strictly localized to vascular watershed territories",
+        "supportingFeatures": [
+          "Thumbprinting represents mucosal edema or submucosal hemorrhage [11].",
+          "May progress to pneumatosis intestinalis or portal venous gas in severe necrosis [3, 12]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Cytomegalovirus (CMV)",
+        "dominantImagingFeature": "extensive bowel wall thickening with large deep ulcers",
+        "keyDiscriminator": "severe deep ulcerating colitis in an immunocompromised patient",
+        "supportingFeatures": [
+          "Most common gastrointestinal infection in immunocompromised patients [13].",
+          "Superficial progressing to deep ulceration that can closely mimic Crohn's disease [13]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Ischemic colitis classically targets the splenic flexure watershed area, whereas ulcerative colitis almost always begins in the rectum and involves contiguous segments without skip lesions [9, 14]."
+  },
+  "ch29": {
+    "patternSummary": "Enhancing liver lesion \u2014 key imaging pattern for FRCR 2B (Gastrointestinal)",
+    "differentials": [
+      {
+        "letter": "H",
+        "condition": "Haemangioma",
+        "dominantImagingFeature": "Discontinuous nodular peripheral enhancement",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "A",
+        "condition": "Adenoma / Abscess",
+        "dominantImagingFeature": "OCP use + Fat/Haemorrhage",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "F",
+        "condition": "FNH",
+        "dominantImagingFeature": "Central scar + Arterial enhancement",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "M",
+        "condition": "Metastasis / Malignancy (HCC)",
+        "dominantImagingFeature": "Wash-in/Wash-out + Pseudo-capsule",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      }
+    ],
+    "clinicalPearl": "Key exam pattern: HAFM for Enhancing liver lesion"
+  },
+  "ch30": {
+    "patternSummary": "Pneumobilia \u2014 key imaging pattern for FRCR 2B (Gastrointestinal)",
+    "differentials": [
+      {
+        "letter": "P",
+        "condition": "Perforated ulcer",
+        "dominantImagingFeature": "Free air + Rigid abdomen",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "A",
+        "condition": "Anastomosis",
+        "dominantImagingFeature": "Permanent air + surgical clips",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "G",
+        "condition": "Gallstone ileus",
+        "dominantImagingFeature": "Rigler Triad: SBO + Air + Stone",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "E",
+        "condition": "ERCP / Emphysematous cholecystitis",
+        "dominantImagingFeature": "Air in GB wall + Diabetes",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "S",
+        "condition": "Sphincterotomy",
+        "dominantImagingFeature": "Air in central ducts post-procedure",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      }
+    ],
+    "clinicalPearl": "Key exam pattern: PAGES for Pneumobilia"
+  },
+  "ch34": {
+    "patternSummary": "Renal papillary necrosis results from ischemic necrobiosis of the medullary pyramids, classically demonstrating a 'ball on tee', 'lobster claw', or 'signet ring' sign on excretory urography [1-3].",
+    "differentials": [
+      {
+        "letter": "P",
+        "condition": "Pyelonephritis",
+        "dominantImagingFeature": "focal wedge-shaped low attenuation or striated nephrogram [4, 5]",
+        "keyDiscriminator": "unilateral asymmetric perinephric stranding in an infected patient [4]",
+        "supportingFeatures": [
+          "Usually unilateral, contrasting with systemic bilateral causes [6, 7].",
+          "Patients typically present with fever, dysuria, and leukocytosis [8]."
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Obstruction",
+        "dominantImagingFeature": "calyceal blunting with proximal collecting system dilatation [9]",
+        "keyDiscriminator": "identifiable obstructing calculus or mass causing hydronephrosis [10]",
+        "supportingFeatures": [
+          "Usually unilateral depending on the level of obstruction [11].",
+          "Increased intraluminal pressure compromises medullary perfusion [11]."
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Sickle cell",
+        "dominantImagingFeature": "calyceal excavations with H-shaped or fish-mouth vertebrae [12]",
+        "keyDiscriminator": "concurrent H-shaped vertebrae or small calcified spleen [1, 13]",
+        "supportingFeatures": [
+          "Hypertonic hypoxic medullary environment exacerbates red blood cell sickling [1, 11].",
+          "May have associated avascular necrosis of the femoral heads [14, 15]."
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Tuberculosis (TB)",
+        "dominantImagingFeature": "moth-eaten calyces progressing to a calcified putty kidney [16]",
+        "keyDiscriminator": "amorphous parenchymal calcifications with beaded ureteral strictures [17]",
+        "supportingFeatures": [
+          "Classically presents with sterile pyuria [18, 19].",
+          "Infection causes vasculitis and subsequent vascular insufficiency leading to necrosis [6]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Cirrhosis / Alcoholism",
+        "dominantImagingFeature": "papillary sloughing with nodular cirrhotic liver contour [20]",
+        "keyDiscriminator": "stigmata of portal hypertension and chronic liver disease [20]",
+        "supportingFeatures": [
+          "Ethanol abuse contributes to dehydration and ischemic medullary damage [2, 21].",
+          "Look for associated ascites, splenomegaly, or varices [20]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Analgesics",
+        "dominantImagingFeature": "ring-shaped papillary calcifications in bilaterally small kidneys [22]",
+        "keyDiscriminator": "bilateral ring calcifications with irregular scarred renal margins [23]",
+        "supportingFeatures": [
+          "Most common in middle-aged women with excessive NSAID intake [6].",
+          "Exam films may simultaneously show an ankylosed 'bamboo spine' indicating NSAID use for pain [24]."
+        ]
+      },
+      {
+        "letter": "R",
+        "condition": "Renal vein thrombosis",
+        "dominantImagingFeature": "unilaterally enlarged kidney with delayed dense nephrogram [25, 26]",
+        "keyDiscriminator": "enlarged kidney with delayed excretion or venous filling defect [25]",
+        "supportingFeatures": [
+          "Usually unilateral and secondary to a hypercoagulable state or nephrotic syndrome [26].",
+          "Venous obstruction leads to profound renal edema and resultant ischemia [26]."
+        ]
+      },
+      {
+        "letter": "D",
+        "condition": "Diabetes",
+        "dominantImagingFeature": "lobster-claw or ball-on-tee calyceal contrast excavations [3, 27]",
+        "keyDiscriminator": "frequently bilateral with concurrent vascular wall calcifications [3]",
+        "supportingFeatures": [
+          "The single most common cause of renal papillary necrosis (50% of cases) [21].",
+          "Results from profound small vessel ischemic disease [3]."
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Systemic (Vasculitis)",
+        "dominantImagingFeature": "multiple wedge-shaped infarcts with papillary tissue loss [28]",
+        "keyDiscriminator": "concurrent multiple microaneurysms or distal arterial stenoses [29]",
+        "supportingFeatures": [
+          "Includes polyarteritis nodosa, systemic lupus erythematosus, or drug abuse [30].",
+          "Systemic multi-organ involvement with patchy, asymmetric distribution [28]."
+        ]
+      }
+    ],
+    "clinicalPearl": "When an IVU demonstrates renal papillary necrosis, always scrutinize the bones: H-shaped vertebrae indicate sickle cell disease, whereas a bamboo spine suggests analgesic nephropathy. [1, 24]"
+  },
+  "ch35": {
+    "patternSummary": "Nephrocalcinosis \u2014 key imaging pattern for FRCR 2B (Genitourinary)",
+    "differentials": [
+      {
+        "letter": "M",
+        "condition": "Medullary sponge kidney",
+        "dominantImagingFeature": "Bouquet of flowers + Ectatic ducts",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "A",
+        "condition": "Acidosis (RTA)",
+        "dominantImagingFeature": "Dense medullary calc + Alkaline urine",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "R",
+        "condition": "Rare (Oxalosis)",
+        "dominantImagingFeature": "CORTICAL + Medullary calc",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "S",
+        "condition": "Sarcoidosis",
+        "dominantImagingFeature": "Hypercalciuria + Medullary calc",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "H",
+        "condition": "Hyperparathyroidism",
+        "dominantImagingFeature": "Subperiosteal resorption + Salt/Pepper skull",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      }
+    ],
+    "clinicalPearl": "Key exam pattern: MARSH for Nephrocalcinosis"
+  },
+  "ch36": {
+    "patternSummary": "Ring-enhancing brain lesions \u2014 key imaging pattern for FRCR 2B (Neuroradiology)",
+    "differentials": [
+      {
+        "letter": "M",
+        "condition": "Metastasis",
+        "dominantImagingFeature": "Thin ring + Grey-white junction",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "A",
+        "condition": "Abscess",
+        "dominantImagingFeature": "Thin ring + DWI restricted center",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "G",
+        "condition": "Glioblastoma",
+        "dominantImagingFeature": "Thick shaggy wall + midline cross",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "I",
+        "condition": "Infarct",
+        "dominantImagingFeature": "Gyral enhancement + vascular territory",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "C",
+        "condition": "Contusion",
+        "dominantImagingFeature": "Surface blood + Trauma",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "D",
+        "condition": "Demyelinating",
+        "dominantImagingFeature": "Open ring sign (facing grey)",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      },
+      {
+        "letter": "R",
+        "condition": "Radiation necrosis",
+        "dominantImagingFeature": "Swiss-cheese pattern + field respect",
+        "keyDiscriminator": "",
+        "supportingFeatures": []
+      }
+    ],
+    "clinicalPearl": "Key exam pattern: MAGIC DR for Ring-enhancing brain lesions"
+  },
+  "ch37": {
+    "patternSummary": "Cerebellopontine angle masses are primarily extra-axial tumors and cysts, best differentiated by their enhancement patterns, extension into the internal auditory canal, and diffusion-weighted imaging characteristics [1, 2].",
+    "differentials": [
+      {
+        "letter": "S",
+        "condition": "Schwannoma (Vestibular)",
+        "dominantImagingFeature": "enhancing mass expanding the internal auditory canal [3, 4]",
+        "keyDiscriminator": "acute angle with petrous bone and IAC widening [2, 5]",
+        "supportingFeatures": [
+          "Bilateral masses are pathognomonic for Neurofibromatosis type 2 [3, 6].",
+          "Large tumors frequently exhibit central cystic areas and hemorrhage [3, 4]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Arachnoid cyst / Aneurysm",
+        "dominantImagingFeature": "follows CSF signal on all sequences without enhancement [5, 7]",
+        "keyDiscriminator": "suppresses on FLAIR and lacks restricted diffusion [8, 9]",
+        "supportingFeatures": [
+          "Exerts mass effect by displacing rather than engulfing adjacent cranial nerves and vessels [10, 11].",
+          "Aneurysms, a rare differential, will show prominent flow voids or pulsation artifacts [12, 13]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Meningioma",
+        "dominantImagingFeature": "broad-based avidly enhancing mass with dural tail [5, 14]",
+        "keyDiscriminator": "obtuse angle with petrous bone and adjacent hyperostosis [2, 5]",
+        "supportingFeatures": [
+          "Frequently calcifies and may cause hyperostosis of the adjacent skull base [15, 16].",
+          "Typically does not expand the internal auditory canal [14, 17]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Epidermoid / Ependymoma",
+        "dominantImagingFeature": "lobulated cystic mass with restricted diffusion on DWI [8, 9]",
+        "keyDiscriminator": "hyperintense on DWI and FLAIR compared to CSF [8, 9]",
+        "supportingFeatures": [
+          "Tends to engulf rather than displace adjacent cranial nerves and vessels [10, 11].",
+          "Has a 'dirty CSF' appearance, being slightly hyperintense to CSF on T1-weighted images [9, 11]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Restricted diffusion on DWI reliably distinguishes an epidermoid cyst from an arachnoid cyst, while widening of the internal auditory canal helps differentiate a vestibular schwannoma from a meningioma [2, 9, 18]."
+  },
+  "ch38": {
+    "patternSummary": "Pituitary region masses are best differentiated by pinpointing their anatomical epicenter (sellar vs. suprasellar), evaluating for calcifications or cysts, and assessing contrast enhancement patterns [1].",
+    "differentials": [
+      {
+        "letter": "C",
+        "condition": "Craniopharyngioma",
+        "dominantImagingFeature": "multilobulated cystic and solid mass with calcifications",
+        "keyDiscriminator": "suprasellar epicenter with prominent calcifications and cysts",
+        "supportingFeatures": [
+          "Peak incidence in childhood and the fifth decade [2, 3].",
+          "Solid components demonstrate vivid contrast enhancement [2, 4]."
+        ]
+      },
+      {
+        "letter": "R",
+        "condition": "Rathke cleft cyst",
+        "dominantImagingFeature": "well-defined non-enhancing cystic sellar lesion",
+        "keyDiscriminator": "entirely lacks contrast enhancement and solid calcification",
+        "supportingFeatures": [
+          "Typically located centrally between the anterior and posterior pituitary lobes [5, 6].",
+          "Variable T1 signal depending on proteinaceous fluid content [7, 8]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Adenoma / Aneurysm",
+        "dominantImagingFeature": "snowman-shaped sellar mass or vascular flow void",
+        "keyDiscriminator": "expands sella or demonstrates internal vascular flow voids",
+        "supportingFeatures": [
+          "Macroadenomas (>10mm) homogeneously enhance and expand the pituitary fossa [2, 8].",
+          "Aneurysms may show a partially thrombosed laminated appearance [9, 10]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Meningioma / Metastasis",
+        "dominantImagingFeature": "broad-based enhancing mass with a dural tail",
+        "keyDiscriminator": "distinct from pituitary gland with adjacent hyperostosis",
+        "supportingFeatures": [
+          "Meningiomas frequently calcify and cause adjacent skull base hyperostosis [11, 12].",
+          "Metastases enhance rapidly and often involve the infundibulum [13]."
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Pituicytoma",
+        "dominantImagingFeature": "solid intensely enhancing mass along the neurohypophysis",
+        "keyDiscriminator": "solid tumor centered strictly on the posterior pituitary",
+        "supportingFeatures": [
+          "Rare benign low-grade glioma presenting in adults [14].",
+          "Presents with visual field deficits or hypopituitarism [14]."
+        ]
+      }
+    ],
+    "clinicalPearl": "An expansile mass centered within the sella is most likely a pituitary macroadenoma, whereas a mass with a suprasellar epicenter containing cysts and calcifications is classic for a craniopharyngioma [15]."
+  },
+  "ch39": {
+    "patternSummary": "Symmetrical bilateral basal ganglia abnormalities require distinguishing between benign age-related calcifications, inherited metabolic disorders, and acquired toxic or hypoxic injuries [1-3].",
+    "differentials": [
+      {
+        "letter": "F",
+        "condition": "Fahr disease",
+        "dominantImagingFeature": "extensive symmetric basal ganglia and dentate nucleus calcification [3, 4]",
+        "keyDiscriminator": "concurrent extensive calcification of the dentate nuclei [3, 4]",
+        "supportingFeatures": [
+          "Familial neurodegenerative disease presenting with movement disorders [3, 4].",
+          "Strictly normal calcium and parathyroid hormone levels [4]."
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Idiopathic / Normal aging",
+        "dominantImagingFeature": "faint bilateral punctate globus pallidus calcifications [1]",
+        "keyDiscriminator": "strictly limited to the globus pallidus without mass effect [1, 5]",
+        "supportingFeatures": [
+          "The most common cause of basal ganglia calcification [6].",
+          "Incidental asymptomatic finding that increases with age [1]."
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Thyroid (Hypoparathyroidism)",
+        "dominantImagingFeature": "extensive symmetric basal ganglia and subcortical calcification [7, 8]",
+        "keyDiscriminator": "concurrent calvarial thickening or short fourth metacarpals [7, 9, 10]",
+        "supportingFeatures": [
+          "Associated with hypocalcemia and low or resistant parathyroid hormone [11, 12].",
+          "Often accompanied by soft tissue or ligamentous calcifications [9, 10]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Carbon monoxide poisoning",
+        "dominantImagingFeature": "symmetric low-attenuation necrosis in the globus pallidus [13, 14]",
+        "keyDiscriminator": "striking predilection for the globus pallidus bilaterally [13, 14]",
+        "supportingFeatures": [
+          "Acute phase may show restricted diffusion on MRI [14].",
+          "May chronically develop delayed leukoencephalopathy in deep white matter [15]."
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Hypoxic-ischemic encephalopathy",
+        "dominantImagingFeature": "bilateral low density in putamina and thalami [16, 17]",
+        "keyDiscriminator": "concurrent loss of cerebral gray-white matter differentiation [17, 18]",
+        "supportingFeatures": [
+          "May show the reversal sign with a relatively dense cerebellum [17, 19].",
+          "Restricted diffusion in deep gray matter and watershed zones [2, 20]."
+        ]
+      }
+    ],
+    "clinicalPearl": "When encountering extensive, symmetrical basal ganglia calcification, always check serum calcium to differentiate hypoparathyroidism from Fahr disease, and look at a hand radiograph for short fourth metacarpals indicating pseudohypoparathyroidism [4, 10]."
+  },
+  "ch40": {
+    "patternSummary": "Evaluating an intra-axial haemorrhage requires careful assessment of lesion location, multiplicity, and surrounding oedema to narrow the differential diagnosis [1].",
+    "differentials": [
+      {
+        "letter": "M",
+        "condition": "Metastasis",
+        "dominantImagingFeature": "haemorrhage at the grey-white matter junction",
+        "keyDiscriminator": "disproportionately large amount of surrounding vasogenic oedema",
+        "supportingFeatures": [
+          "Commonly from melanoma, renal, choriocarcinoma, or thyroid primaries [2].",
+          "Often presents as multiple lesions [1, 2]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Amyloid angiopathy / AVM",
+        "dominantImagingFeature": "spontaneous lobar subcortical haemorrhage with microbleeds",
+        "keyDiscriminator": "gradient echo microbleeds strictly sparing deep grey matter",
+        "supportingFeatures": [
+          "Typically presents in older age groups with concurrent cerebral atrophy [3, 4].",
+          "AVMs present with a tangle of flow voids on MRI [5]."
+        ]
+      },
+      {
+        "letter": "T",
+        "condition": "Trauma (Contusions)",
+        "dominantImagingFeature": "superficial parenchymal haemorrhage adjacent to bone",
+        "keyDiscriminator": "predilection for inferior frontal and anterior temporal poles",
+        "supportingFeatures": [
+          "Classically located where the brain abuts the bony calvarium [6].",
+          "Often associated with skull fractures and extra-axial haemorrhages [3]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Coagulopathy",
+        "dominantImagingFeature": "large parenchymal hematoma with fluid-blood levels",
+        "keyDiscriminator": "associated with bleeding diathesis or anticoagulant use",
+        "supportingFeatures": [
+          "Results from anticoagulants or bleeding diatheses like hemophilia [7, 8]."
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Hypertension",
+        "dominantImagingFeature": "acute hematoma centered in the basal ganglia",
+        "keyDiscriminator": "strict predilection for deep grey matter and brainstem",
+        "supportingFeatures": [
+          "Most common locations are the putamen, thalamus, pons, and cerebellum [9]."
+        ]
+      }
+    ],
+    "clinicalPearl": "The anatomical location is a crucial differentiator: hypertensive bleeds strictly favor the deep grey matter, whereas amyloid angiopathy and metastases characteristically cause lobar or subcortical haemorrhages [3, 4, 10]."
+  },
+  "ch41": {
+    "patternSummary": "Restricted diffusion on MRI indicates constrained water mobility, critical for differentiating acute ischemia, highly cellular tumors, and purulent infections [1-3].",
+    "differentials": [
+      {
+        "letter": "A",
+        "condition": "Abscess",
+        "dominantImagingFeature": "central restricted diffusion with peripheral rim enhancement",
+        "keyDiscriminator": "restricted diffusion centrally with a T2-hypointense capsule",
+        "supportingFeatures": [
+          "Significant surrounding vasogenic edema [4].",
+          "Ring enhancement is typically thinner on the medial margin [5]."
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Lymphoma / Leukaemia",
+        "dominantImagingFeature": "solid enhancing mass with restricted diffusion",
+        "keyDiscriminator": "iso- to hypointense on T2WI due to hypercellularity",
+        "supportingFeatures": [
+          "Characteristically involves the deep gray matter and corpus callosum [6].",
+          "Relatively little mass effect or edema for its size [7]."
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Infarct (Acute)",
+        "dominantImagingFeature": "cortical restricted diffusion conforming to vascular territory",
+        "keyDiscriminator": "wedge-shaped cortical involvement respecting arterial boundaries",
+        "supportingFeatures": [
+          "Associated with loss of grey-white matter differentiation [8].",
+          "ADC pseudonormalizes after 5-10 days [9]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Creutzfeldt-Jakob Disease (CJD)",
+        "dominantImagingFeature": "restricted diffusion in basal ganglia and cortical ribbon",
+        "keyDiscriminator": "pulvinar or hockey-stick sign in the thalamus",
+        "supportingFeatures": [
+          "Strictly lacks contrast enhancement and white matter involvement [10].",
+          "Rapidly progressive dementia with generalized myoclonus [11]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Encephalitis (HSV)",
+        "dominantImagingFeature": "bilateral asymmetric medial temporal lobe restricted diffusion",
+        "keyDiscriminator": "limbic system involvement that strictly spares the putamen",
+        "supportingFeatures": [
+          "Often complicated by petechial or lobar hemorrhage [12].",
+          "Can present early with normal CT findings [13, 14]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Diffusion-weighted imaging is the most reliable sequence to differentiate a ring-enhancing cerebral abscess from a necrotic glioblastoma, as only the abscess demonstrates restricted water mobility centrally [3, 15]."
+  },
+  "ch42": {
+    "patternSummary": "Intramedullary spinal masses lie within the substance of the spinal cord, classically causing cord expansion, and are best differentiated by patient age, lesion eccentricity, and specific MRI signal characteristics like hemosiderin or fat [1, 2].",
+    "differentials": [
+      {
+        "letter": "I",
+        "condition": "Infarction",
+        "dominantImagingFeature": "owl's eye T2 hyperintensity within central gray matter [3, 4]",
+        "keyDiscriminator": "acute presentation with restricted diffusion on MRI [4]",
+        "supportingFeatures": [
+          "Mild cord expansion in the acute phase, but less than tumors [5, 6].",
+          "Involves the anterior spinal artery territory centrally [5, 7]."
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Infection / Inflammation (Transverse Myelitis)",
+        "dominantImagingFeature": "long segment diffuse T2 hyperintensity with variable enhancement [8]",
+        "keyDiscriminator": "involves entire cord cross-section without a discrete focal mass [8]",
+        "supportingFeatures": [
+          "Presents with acute onset sensorimotor neurologic deficits and pain [8].",
+          "Can present as a discrete intramedullary abscess in severe infections [9]."
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Haemangioblastoma",
+        "dominantImagingFeature": "cystic intramedullary mass with intensely enhancing mural nodule [10, 11]",
+        "keyDiscriminator": "associated serpentine vascular flow voids and extensive syrinx [10, 12]",
+        "supportingFeatures": [
+          "Most often dorsal or subpial in location [13].",
+          "Strongly associated with von Hippel-Lindau syndrome and multiple lesions [14, 15]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Ependymoma",
+        "dominantImagingFeature": "central well-defined enhancing mass with symmetric cord expansion [6, 16]",
+        "keyDiscriminator": "hypointense hemosiderin cap sign at the tumor poles [16, 17]",
+        "supportingFeatures": [
+          "Frequently causes bony remodeling and widening of the spinal canal [6, 18].",
+          "Intratumoral cysts and hemorrhage are very common [16, 19]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Astrocytoma",
+        "dominantImagingFeature": "eccentric ill-defined infiltrative mass causing fusiform cord expansion [10, 20]",
+        "keyDiscriminator": "eccentric location with poorly defined margins and patchy enhancement [2, 10]",
+        "supportingFeatures": [
+          "Most common intramedullary spinal tumor in children [1, 20].",
+          "Unlike ependymomas, does not typically cause adjacent bony remodeling [18]."
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Lipoma",
+        "dominantImagingFeature": "well-defined homogeneous mass with high T1 signal intensity [21]",
+        "keyDiscriminator": "pure fat signal intensity completely suppressing on STIR [21]",
+        "supportingFeatures": [
+          "Commonly located at the conus medullaris or filum terminale [21].",
+          "Often associated with spinal dysraphism or tethered cord syndrome [22, 23]."
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Lymphoma / Metastasis",
+        "dominantImagingFeature": "solid homogeneously enhancing mass with extensive cord edema [24]",
+        "keyDiscriminator": "iso- to hypointense on T2 due to hypercellularity [25, 26]",
+        "supportingFeatures": [
+          "Disproportionately large area of cord edema relative to the lesion size [24, 27].",
+          "May present with concurrent leptomeningeal 'sugar coating' [25, 28]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Patient age is a crucial differentiator: astrocytomas are the most common intramedullary tumor in children, whereas ependymomas are the most common in adults [1, 2]."
+  },
+  "ch43": {
+    "patternSummary": "Intradural extramedullary masses lie within the cerebrospinal fluid space but outside the spinal cord, characteristically being surrounded by CSF and displacing the cord without expanding it [1, 2].",
+    "differentials": [
+      {
+        "letter": "M",
+        "condition": "Meningioma / Metastasis",
+        "dominantImagingFeature": "broad-based enhancing mass or nodular leptomeningeal coating [3, 4]",
+        "keyDiscriminator": "presence of dural tail or widespread CSF drop metastases [3, 4]",
+        "supportingFeatures": [
+          "Meningiomas heavily favor the thoracic spine in middle-aged females [3, 5].",
+          "Metastases often present as multiple enhancing nodules ('sugar coating') [4]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Ependymoma (Myxopapillary)",
+        "dominantImagingFeature": "enhancing mass at the conus or filum terminale [6]",
+        "keyDiscriminator": "arises specifically from the conus medullaris or filum terminale [6]",
+        "supportingFeatures": [
+          "The most common neoplasm of the conus medullaris [6].",
+          "Demonstrates almost constant contrast enhancement [6]."
+        ]
+      },
+      {
+        "letter": "N",
+        "condition": "Nerve sheath tumor (Schwannoma/Neurofibroma)",
+        "dominantImagingFeature": "dumbbell-shaped mass expanding the intervertebral neural foramen [3, 4]",
+        "keyDiscriminator": "extends through and distinctly widens the intervertebral exit foramen [7]",
+        "supportingFeatures": [
+          "May exhibit a T2 'target' sign with a low signal center [3].",
+          "Multiple lesions strongly suggest underlying neurofibromatosis [7]."
+        ]
+      },
+      {
+        "letter": "D",
+        "condition": "Dermoid cyst",
+        "dominantImagingFeature": "fat-containing cystic mass with heterogeneous T1 signal [8, 9]",
+        "keyDiscriminator": "macroscopic fat signal with an associated dorsal dermal sinus [9, 10]",
+        "supportingFeatures": [
+          "Frequently associated with spinal dysraphism and a dorsal dermal sinus tract [10].",
+          "Rupture causes dissemination of hyperintense lipid droplets throughout the CSF [9]."
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Sarcoidosis",
+        "dominantImagingFeature": "intrathecal nodular enhancing masses coating the spinal cord [11]",
+        "keyDiscriminator": "nodular pial enhancement with concurrent systemic or pulmonary disease [12]",
+        "supportingFeatures": [
+          "Presents as contrast-enhancing nodules coating the spinal cord and pia-arachnoid [11, 13].",
+          "Diagnosis is often inferred from known systemic noncaseating granulomatous disease [12]."
+        ]
+      }
+    ],
+    "clinicalPearl": "A mass that assumes a dumbbell shape and widens the neural foramen is characteristic of a nerve sheath tumor, whereas a broad-based mass with a dural tail in the thoracic spine strongly favors a meningioma [3, 7]."
+  },
+  "ch44": {
+    "patternSummary": "Extradural spinal masses arise outside the thecal sac, often from adjacent vertebrae, intervertebral discs, or epidural fat, and characteristically displace the thecal sac inward [1, 2].",
+    "differentials": [
+      {
+        "letter": "M",
+        "condition": "Metastasis / Myeloma",
+        "dominantImagingFeature": "marrow infiltration contiguous with extradural soft tissue mass [3]",
+        "keyDiscriminator": "destruction of the vertebral pedicle or posterior elements [4, 5]",
+        "supportingFeatures": [
+          "Metastases typically involve the posterior elements and pedicles, unlike myeloma which may initially spare them [5, 6].",
+          "Commonly presents as multiple lesions with pathologic compression fractures [5, 7]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Epidural abscess",
+        "dominantImagingFeature": "long segment extradural collection with peripheral rim enhancement [1, 8]",
+        "keyDiscriminator": "concurrent discitis or vertebral osteomyelitis [9, 10]",
+        "supportingFeatures": [
+          "Considered a neurosurgical emergency due to the severe risk of spinal cord compression [11].",
+          "Demonstrates restricted diffusion and often tracks dorsolaterally spanning multiple vertebral levels [12, 13]."
+        ]
+      },
+      {
+        "letter": "D",
+        "condition": "Disc herniation",
+        "dominantImagingFeature": "focal extradural mass contiguous with the intervertebral disc [3]",
+        "keyDiscriminator": "follows the signal intensity of the parent disc [14]",
+        "supportingFeatures": [
+          "Often accompanied by signs of disc desiccation and height loss [14, 15].",
+          "Sequestered or free fragments may migrate superiorly or inferiorly from the parent disc [16, 17]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Angioma (Vertebral Hemangioma)",
+        "dominantImagingFeature": "corduroy vertebral body with epidural soft tissue extension [18, 19]",
+        "keyDiscriminator": "high T1 and T2 signal with thickened trabeculae [18, 19]",
+        "supportingFeatures": [
+          "Displays a characteristic 'polka-dot' appearance on axial CT imaging [18].",
+          "The larger the degree of fat overgrowth, the less likely the lesion will be symptomatic [20]."
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Lymphoma / Lipomatosis",
+        "dominantImagingFeature": "homogeneous soft tissue mass or excessive epidural fat [3, 21, 22]",
+        "keyDiscriminator": "intense homogeneous enhancement or pure unenhancing fat signal [21, 22]",
+        "supportingFeatures": [
+          "Lymphoma is typically hyperdense on CT, isointense on T1, and enhances intensely and homogeneously [21].",
+          "Lipomatosis follows pure fat signal on all sequences, does not enhance, and is usually secondary to exogenous steroid use [22]."
+        ]
+      }
+    ],
+    "clinicalPearl": "A spinal epidural abscess is a neurosurgical emergency requiring urgent action to prevent irreversible paraplegia, which distinguishes it critically from benign causes of extradural masses like disc disease or lipomatosis [9, 11]."
+  },
+  "ch45": {
+    "patternSummary": "Evaluating a diffuse periosteal reaction in a child requires assessing symmetry, patient age, and the presence of metaphyseal involvement to differentiate physiological processes from aggressive pathologies [1, 2].",
+    "differentials": [
+      {
+        "letter": "S",
+        "condition": "Scurvy / Syphilis",
+        "dominantImagingFeature": "dense provisional calcification or bilateral luetic diaphysitis",
+        "keyDiscriminator": "epiphyseal sclerotic ring or bilateral medial tibial erosions",
+        "supportingFeatures": [
+          "Scurvy classically presents with subperiosteal hemorrhage and a dense zone of provisional calcification (Frankel line) [3].",
+          "Syphilis can cause bilateral erosions of the proximal medial tibial metaphyses, known as the Wimberger sign [1, 4]."
+        ]
+      },
+      {
+        "letter": "L",
+        "condition": "Leukaemia / Lymphoma",
+        "dominantImagingFeature": "transverse lucent metaphyseal bands with diffuse osteopenia",
+        "keyDiscriminator": "bilateral symmetric metaphyseal lucencies in a young child",
+        "supportingFeatures": [
+          "Periosteal new bone formation occurs secondary to subperiosteal leukemic cellular infiltration [5].",
+          "Peak incidence of leukemia is between 2 and 5 years of age [5, 6]."
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Osteomyelitis",
+        "dominantImagingFeature": "ill-defined lytic lesion with sequestrum and periostitis",
+        "keyDiscriminator": "thick irregular reactive sclerosis or crossing open physis",
+        "supportingFeatures": [
+          "Often initially affects the metaphysis due to slow-flowing venous sinusoids [6, 7].",
+          "May demonstrate the penumbra sign on T1-weighted MRI sequences [8]."
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Prostaglandin E1 / Physiological",
+        "dominantImagingFeature": "symmetric smooth diaphyseal periostitis strictly sparing the metaphyses",
+        "keyDiscriminator": "spares metaphyses in infants or known cardiac history",
+        "supportingFeatures": [
+          "Physiological periostitis occurs between 1 and 6 months of age and resolves spontaneously [2].",
+          "Prostaglandin therapy causes a similar appearance but occurs in patients treated for ductus-dependent congenital heart disease [9, 10]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Physiologic periosteal reaction strictly spares the metaphyses and only occurs between 1 and 6 months of age, whereas pathologic processes like leukemia and infection commonly involve the metaphyses [2, 11]."
+  },
+  "ch46": {
+    "patternSummary": "Vertebra plana refers to the uniform severe flattening of a vertebral body, and in children, it requires urgent differentiation between benign histiocytosis and aggressive neoplasms or infection [1, 2].",
+    "differentials": [
+      {
+        "letter": "L",
+        "condition": "Langerhans' cell histiocytosis (EG)",
+        "dominantImagingFeature": "uniform coin-on-edge flattening of single vertebral body",
+        "keyDiscriminator": "preserves adjacent intervertebral discs and spares posterior elements",
+        "supportingFeatures": [
+          "The most common cause of vertebra plana in children [2, 3].",
+          "May have associated lytic skull lesions with beveled edges or a button sequestrum [4, 5]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Ewing's sarcoma",
+        "dominantImagingFeature": "permeative vertebral destruction with paraspinal soft tissue mass",
+        "keyDiscriminator": "aggressive permeative destruction extending into the posterior elements",
+        "supportingFeatures": [
+          "Most common nonlymphoproliferative primary malignant spinal tumor in children [6].",
+          "Can present with fever and leukocytosis mimicking osteomyelitis [7, 8]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Enchondroma",
+        "dominantImagingFeature": "well-defined lucency with rings and arcs calcification",
+        "keyDiscriminator": "chondroid matrix mineralization without periosteal reaction or pain",
+        "supportingFeatures": [
+          "Exceedingly rare in the spine; most common in small tubular bones of hands and feet [9].",
+          "Lacks pain or aggressive features unless complicated by a pathologic fracture [10]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Metastasis (Neuroblastoma)",
+        "dominantImagingFeature": "multilevel permeative vertebral body collapse and sclerosis",
+        "keyDiscriminator": "multilevel spine involvement in child under five years",
+        "supportingFeatures": [
+          "Often arises from a primary adrenal mass and frequently metastasizes to bone [3, 11].",
+          "Frequent metastasis to the skull base causing 'raccoon eyes' clinically [12, 13]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Myeloma",
+        "dominantImagingFeature": "multiple wedge compression fractures with diffuse osteopenia",
+        "keyDiscriminator": "multiple lytic lesions characteristically sparing the vertebral pedicles",
+        "supportingFeatures": [
+          "Occurs almost exclusively in older adults (>40 years), not children [14, 15].",
+          "Solitary plasmacytomas may present with a pathognomonic 'mini-brain' appearance on MRI [16, 17]."
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Osteomyelitis",
+        "dominantImagingFeature": "vertebral endplate destruction with disc space narrowing",
+        "keyDiscriminator": "infection centered on intervertebral disc involving adjacent vertebrae",
+        "supportingFeatures": [
+          "Bacterial infection rapidly destroys the disc, whereas TB may relatively spare the disc space [18, 19].",
+          "Frequently associated with epidural, subligamentous, or paraspinal abscesses [20, 21]."
+        ]
+      },
+      {
+        "letter": "N",
+        "condition": "Neuroblastoma",
+        "dominantImagingFeature": "calcified paravertebral mass invading the spinal canal",
+        "keyDiscriminator": "mass extending through neural foramina encasing adjacent vessels",
+        "supportingFeatures": [
+          "The most common abdominal malignancy in infancy [22].",
+          "Unlike Wilms tumor, it frequently encases rather than displaces adjacent major vessels [23, 24]."
+        ]
+      }
+    ],
+    "clinicalPearl": "Langerhans cell histiocytosis (eosinophilic granuloma) is by far the most common cause of vertebra plana in children, classically presenting with uniform vertebral collapse and completely intact adjacent intervertebral disc spaces [1-3]."
+  },
+  "ch47": {
+    "patternSummary": "Multiple wormian bones, defined as more than ten intrasutural ossicles in the cranial vault, signify an underlying skeletal dysplasia or metabolic disorder [1-3].",
+    "differentials": [
+      {
+        "letter": "P",
+        "condition": "Pyknodysostosis",
+        "dominantImagingFeature": "generalized osteosclerosis with pointed terminal phalangeal tufts [4, 5]",
+        "keyDiscriminator": "increased bone density with an obtuse mandibular angle [5]",
+        "supportingFeatures": [
+          "Often presents with short stature and multiple fractures [5].",
+          "Preserved medullary canal distinguishes it from osteopetrosis [5]."
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "Osteogenesis imperfecta",
+        "dominantImagingFeature": "diffuse osteopenia with multiple fractures and bowing [6, 7]",
+        "keyDiscriminator": "severe osteopenia with fractures of differing ages [6, 7]",
+        "supportingFeatures": [
+          "Fractures frequently show exuberant callus formation [6, 7].",
+          "Associated with blue sclerae and hearing impairment [8, 9]."
+        ]
+      },
+      {
+        "letter": "R",
+        "condition": "Rickets (Healing)",
+        "dominantImagingFeature": "metaphyseal cupping, splaying, and fraying with bowing [10, 11]",
+        "keyDiscriminator": "widened physes with generalized osteopenia and bone softening [12, 13]",
+        "supportingFeatures": [
+          "May show a 'rachitic rosary' at the costochondral junctions [10].",
+          "Wormian bones are characteristically seen during the healing phase [3, 14]."
+        ]
+      },
+      {
+        "letter": "K",
+        "condition": "Kinky hair syndrome (Menkes)",
+        "dominantImagingFeature": "metaphyseal irregularity mimicking non-accidental trauma [15]",
+        "keyDiscriminator": "metaphyseal fractures in a patient with kinky hair [15]",
+        "supportingFeatures": [
+          "Neurodegenerative disorder due to a defect in copper metabolism [16].",
+          "Typically lethal within the first year of life [16]."
+        ]
+      },
+      {
+        "letter": "C",
+        "condition": "Cleidocranial dysplasia",
+        "dominantImagingFeature": "bilateral absent or hypoplastic clavicles [2, 17]",
+        "keyDiscriminator": "defective clavicles with normal overall bone density [2]",
+        "supportingFeatures": [
+          "Wide pubic symphysis and coxa vara [2].",
+          "Delayed eruption of multiple supernumerary teeth [18]."
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Hypothyroidism (Congenital)",
+        "dominantImagingFeature": "delayed skeletal maturation with fragmented stippled epiphyses [19, 20]",
+        "keyDiscriminator": "delayed skeletal maturation and bullet-shaped lumbar vertebrae [21]",
+        "supportingFeatures": [
+          "Wide cranial sutures and fontanels with delayed closure [20, 21].",
+          "May show dense metaphyseal bands [21]."
+        ]
+      },
+      {
+        "letter": "O",
+        "condition": "One (Trisomy 21 / Down syndrome)",
+        "dominantImagingFeature": "flared iliac wings and hypoplastic facial bones [22]",
+        "keyDiscriminator": "decreased iliac angle with atlanto-axial subluxation [22, 23]",
+        "supportingFeatures": [
+          "Hypoplasia of facial bones and paranasal sinuses [22-24].",
+          "Two ossification centers in the manubrium (90%) [25]."
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Pachydermoperiostosis",
+        "dominantImagingFeature": "lamellar periosteal proliferation of long bone diaphyses [26]",
+        "keyDiscriminator": "diaphyseal periostitis with clubbing in an older child [26, 27]",
+        "supportingFeatures": [
+          "Primary hypertrophic osteoarthropathy presenting with skin thickening [27].",
+          "Characteristically spares the epiphyses [27]."
+        ]
+      },
+      {
+        "letter": "S",
+        "condition": "Scurvy",
+        "dominantImagingFeature": "dense provisional calcification zone and subperiosteal hematomas [28, 29]",
+        "keyDiscriminator": "sclerotic Wimberger ring around a low-density epiphysis [29]",
+        "supportingFeatures": [
+          "Pelkan spurs projecting at right angles to the metaphysis [28].",
+          "Results from vitamin C deficiency causing ground-glass osteopenia [11, 29]."
+        ]
+      }
+    ],
+    "clinicalPearl": "To quickly narrow the differential for multiple wormian bones, evaluate bone density and the clavicles: osteogenesis imperfecta presents with osteopenia, pyknodysostosis with osteosclerosis, and cleidocranial dysplasia with absent clavicles and normal bone density [2]."
+  },
+  "ch48": {
+    "patternSummary": "Posterior fossa masses in children are primarily primary malignancies rather than metastases, and are best differentiated by their location (midline vs. lateral), density, and enhancement patterns [1].",
+    "differentials": [
+      {
+        "letter": "G",
+        "condition": "Glioma (Brainstem)",
+        "dominantImagingFeature": "diffuse enlargement of the pons",
+        "keyDiscriminator": "centred in the pons without significant enhancement",
+        "supportingFeatures": [
+          "Often anterior to the fourth ventricle, flattening its floor [2, 3].",
+          "Presents with focal neurology rather than hydrocephalus [3, 4]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Astrocytoma (Juvenile Pilocytic)",
+        "dominantImagingFeature": "cystic cerebellar mass with enhancing mural nodule",
+        "keyDiscriminator": "cyst with intensely enhancing peripheral solid nodule",
+        "supportingFeatures": [
+          "Most common infratentorial tumor in children [5].",
+          "May be associated with neurofibromatosis type 1 [6, 7]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Medulloblastoma",
+        "dominantImagingFeature": "hyperdense midline mass arising from the vermis",
+        "keyDiscriminator": "hyperdense on non-contrast CT with restricted diffusion",
+        "supportingFeatures": [
+          "Arises from the roof of the fourth ventricle [8, 9].",
+          "Prone to CSF seeding or 'drop metastases' [10, 11]."
+        ]
+      },
+      {
+        "letter": "E",
+        "condition": "Ependymoma",
+        "dominantImagingFeature": "heterogeneous mass expanding the fourth ventricle",
+        "keyDiscriminator": "extends through CSF foramina with frequent calcification",
+        "supportingFeatures": [
+          "Plastic growth through the foramina of Luschka and Magendie [12, 13].",
+          "Contains calcification in approximately 50% of cases [12, 13]."
+        ]
+      }
+    ],
+    "clinicalPearl": "A midline homogeneous and hyperdense mass indicates a medulloblastoma, a heterogeneous lesion expanding the fourth ventricle through its foramina indicates an ependymoma, and a cystic lesion with a small enhancing nodule indicates a juvenile pilocytic astrocytoma [1, 11]."
+  },
+  "ch49": {
+    "patternSummary": "Large abdominal masses in children demand rapid differentiation between congenital cystic diseases and malignant neoplasms, primarily by assessing the organ of origin and relationship to adjacent major vessels [1, 2].",
+    "differentials": [
+      {
+        "letter": "W",
+        "condition": "Wilms tumor",
+        "dominantImagingFeature": "well-defined solid renal mass with claw sign [3]",
+        "keyDiscriminator": "displaces rather than encases adjacent major vessels [4, 5]",
+        "supportingFeatures": [
+          "Peak incidence is around three years of age [3].",
+          "May invade the renal vein and inferior vena cava [3, 6]."
+        ]
+      },
+      {
+        "letter": "H",
+        "condition": "Hepatoblastoma / Hydronephrosis",
+        "dominantImagingFeature": "heterogeneous hepatic mass or communicating renal cysts [2, 7]",
+        "keyDiscriminator": "hepatic origin or cysts communicating at the renal pelvis [2, 7]",
+        "supportingFeatures": [
+          "Hepatoblastoma is the most common primary hepatic malignancy in infancy [7].",
+          "Hydronephrosis is the most common pediatric abdominal mass overall [8]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Adrenal (Neuroblastoma)",
+        "dominantImagingFeature": "calcified suprarenal mass extending across the midline [9, 10]",
+        "keyDiscriminator": "encases rather than displaces adjacent major abdominal vessels [4, 5]",
+        "supportingFeatures": [
+          "Almost all neuroblastomas contain calcification, unlike Wilms tumors [5].",
+          "Frequently metastasizes to bone and the skull base [5, 11]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Mesoblastic nephroma / MCDK",
+        "dominantImagingFeature": "solid neonatal renal mass or non-communicating cysts [12, 13]",
+        "keyDiscriminator": "presentation in the neonatal period under 3 months [12, 14]",
+        "supportingFeatures": [
+          "Mesoblastic nephroma is the most common solid renal mass in neonates [12].",
+          "Multicystic dysplastic kidney (MCDK) presents with multiple cysts that do not communicate [13]."
+        ]
+      }
+    ],
+    "clinicalPearl": "When differentiating the two most common childhood abdominal malignancies, remember that neuroblastoma typically encases vessels and commonly calcifies, whereas Wilms tumor typically displaces vessels and rarely calcifies [4, 5]."
+  },
+  "ch50": {
+    "patternSummary": "Neonatal low bowel obstruction presents with multiple dilated loops and delayed meconium passage, requiring a contrast enema to differentiate mechanical from functional causes [1-3].",
+    "differentials": [
+      {
+        "letter": "H",
+        "condition": "Hirschsprung disease",
+        "dominantImagingFeature": "cone-shaped transition zone with small caliber rectum",
+        "keyDiscriminator": "abnormal rectosigmoid ratio of less than one",
+        "supportingFeatures": [
+          "Aganglionic segment may have a saw-tooth appearance [4, 5].",
+          "Presents with delayed meconium passage in term neonates [6]."
+        ]
+      },
+      {
+        "letter": "I",
+        "condition": "Ileal atresia",
+        "dominantImagingFeature": "multiple dilated loops and secondary microcolon",
+        "keyDiscriminator": "contrast enema cannot reflux into dilated small bowel",
+        "supportingFeatures": [
+          "Usually results from an in utero vascular insult [7, 8].",
+          "Often associated with polyhydramnios on antenatal ultrasound [8]."
+        ]
+      },
+      {
+        "letter": "M",
+        "condition": "Meconium ileus",
+        "dominantImagingFeature": "microcolon with multiple terminal ileum filling defects",
+        "keyDiscriminator": "contrast refluxes into dilated proximal small bowel",
+        "supportingFeatures": [
+          "Soap-bubble appearance on plain radiograph [3, 9].",
+          "Almost universally associated with cystic fibrosis [3]."
+        ]
+      },
+      {
+        "letter": "A",
+        "condition": "Anorectal malformation",
+        "dominantImagingFeature": "low bowel obstruction with absent anal gas",
+        "keyDiscriminator": "concurrent sacral agenesis or vertebral anomalies",
+        "supportingFeatures": [
+          "Associated with VACTERL sequence and Currarino triad [10, 11].",
+          "May have fistulous communication to the urinary tract [10]."
+        ]
+      },
+      {
+        "letter": "P",
+        "condition": "Meconium plug syndrome",
+        "dominantImagingFeature": "small caliber left colon up to splenic flexure",
+        "keyDiscriminator": "normal rectal caliber distinguishing it from Hirschsprung disease",
+        "supportingFeatures": [
+          "Associated with maternal diabetes and prematurity [12, 13].",
+          "Contrast enema is frequently therapeutic, prompting meconium passage [13]."
+        ]
+      }
+    ],
+    "clinicalPearl": "A contrast enema is essential for diagnosis: meconium ileus shows a microcolon with reflux into dilated small bowel, while Hirschsprung disease shows a reversed rectosigmoid ratio with a transition zone [3, 12]."
+  }
+}

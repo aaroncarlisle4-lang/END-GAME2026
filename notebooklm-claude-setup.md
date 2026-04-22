@@ -176,6 +176,10 @@ Triggers: "improve discriminators", "clean up discriminators", "high yield clean
 Location: `~/.claude/skills/claude-notebooklm-viva/SKILL.md`
 Triggers: "generate viva answers", "viva ideal answer", "FRCR phrase framework"
 
+### Skill: `claude-notebooklm-infographic` (mnemonic infographic generation)
+Location: `~/.claude/skills/claude-notebooklm-infographic/SKILL.md`
+Triggers: "generate infographics", "mnemonic infographic", "infographic pipeline"
+
 ### Skill: `notebooklm` (base CLI skill — installed by `notebooklm skill install`)
 Location: `~/.claude/skills/notebooklm/SKILL.md`
 Triggers: `/notebooklm`, "create a podcast about X"

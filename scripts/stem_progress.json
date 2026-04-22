@@ -1,0 +1,1561 @@
+{
+  "backup_table": "mcq_question_bank_stems_backup_20260412",
+  "categories": {
+    "Paediatrics": {
+      "total": 258,
+      "completed": [
+        {
+          "id": "e6b383aa-a5f8-4c6b-b732-37957adefb76",
+          "old_stem_hash": "8fd446a450ba940a",
+          "new_stem_length": 62,
+          "timestamp": "2026-04-12T21:40:09.589083"
+        },
+        {
+          "id": "bc273d2a-92a1-418b-afa2-8ca4985fe9ce",
+          "old_stem_hash": "96eefab5a7faf2e7",
+          "new_stem_length": 79,
+          "timestamp": "2026-04-12T21:40:48.876529"
+        },
+        {
+          "id": "6d65759d-6424-46fd-9706-62fbe93991af",
+          "old_stem_hash": "c79030ced527a196",
+          "new_stem_length": 78,
+          "timestamp": "2026-04-12T21:41:29.914011"
+        },
+        {
+          "id": "6ce61c9e-50b2-4b14-8e06-d29fcdfd6db9",
+          "old_stem_hash": "c32b1bb4366d8923",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T06:15:38.031439"
+        },
+        {
+          "id": "3623f82b-d2ea-4d2e-b7e9-1d8a4f5e9d4c",
+          "old_stem_hash": "0dbb7215a61b933a",
+          "new_stem_length": 67,
+          "timestamp": "2026-04-13T06:16:14.574122"
+        },
+        {
+          "id": "0025a942-5eff-4de0-8e4c-8564c051cd4e",
+          "old_stem_hash": "d069a630b8761907",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T06:16:52.688143"
+        },
+        {
+          "id": "769d2a70-c2c4-4a3f-8861-a2a29bbc5ba0",
+          "old_stem_hash": "7a16c6cd561b16b5",
+          "new_stem_length": 70,
+          "timestamp": "2026-04-13T06:17:46.811603"
+        },
+        {
+          "id": "a0dda89b-650c-45f8-8776-75a86f5cc426",
+          "old_stem_hash": "9a42ba3b4346793d",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T06:18:25.739866"
+        },
+        {
+          "id": "f9610e66-505f-4164-8cf8-0eb720dcb636",
+          "old_stem_hash": "5e1b42a7be24c0c8",
+          "new_stem_length": 91,
+          "timestamp": "2026-04-13T06:19:03.487690"
+        },
+        {
+          "id": "cce75100-0a82-4f71-97c5-eb251e11f97f",
+          "old_stem_hash": "e39b5d59812be761",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T06:19:54.284899"
+        },
+        {
+          "id": "def0aa52-166a-4a80-a26d-f40d46d2e383",
+          "old_stem_hash": "329757104e6546fe",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T06:20:41.925960"
+        },
+        {
+          "id": "b3f24356-6142-4d76-8321-3f392c2066de",
+          "old_stem_hash": "ba13967147a86165",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T06:21:56.213812"
+        },
+        {
+          "id": "99cec881-7645-4223-8d2a-0714e5210162",
+          "old_stem_hash": "a9bda60fb1566a72",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T06:22:38.067467"
+        },
+        {
+          "id": "3d650c99-d9ac-45be-8cc6-f8da1fd4de63",
+          "old_stem_hash": "cb4079678cdc45ae",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T06:23:28.862082"
+        },
+        {
+          "id": "3d1be45e-a8b2-4a79-928a-31dee057ad26",
+          "old_stem_hash": "3a04e83288229b1b",
+          "new_stem_length": 66,
+          "timestamp": "2026-04-13T06:24:14.402515"
+        },
+        {
+          "id": "6e43e262-b894-40f3-a70e-9e9b197e6f54",
+          "old_stem_hash": "90a08e43a6d1fa74",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T06:24:56.299911"
+        },
+        {
+          "id": "c9f8123b-729f-4d3f-82c4-170f816f12d8",
+          "old_stem_hash": "e5fb6f3218b872aa",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T06:25:42.212503"
+        },
+        {
+          "id": "71a46bd3-a1dd-4a68-b5c4-1b515e4ef3d8",
+          "old_stem_hash": "db382ee5c760cafd",
+          "new_stem_length": 77,
+          "timestamp": "2026-04-13T06:26:29.026031"
+        },
+        {
+          "id": "cea41732-713a-40b2-8bd9-86a54d864c31",
+          "old_stem_hash": "c133efa5706641bf",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T06:27:21.555500"
+        },
+        {
+          "id": "dad03817-3b2d-411c-ba02-ac04d581552c",
+          "old_stem_hash": "d5c0745a737814e2",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T06:28:01.041566"
+        },
+        {
+          "id": "4e61e279-2ba1-452b-a195-8e1d3bce05e0",
+          "old_stem_hash": "eee27023eb5355ea",
+          "new_stem_length": 91,
+          "timestamp": "2026-04-13T06:28:56.953579"
+        },
+        {
+          "id": "346d183b-6ffb-4d76-86e3-ef9ff9bada4f",
+          "old_stem_hash": "bf15d3d961215c89",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T06:29:39.609905"
+        },
+        {
+          "id": "468ed03c-ffc8-48b2-b6b6-58f3f4235ffb",
+          "old_stem_hash": "e1fbdf6070b85b74",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T06:30:25.805558"
+        },
+        {
+          "id": "730eee77-ee45-44e4-bdf2-5b26d4054bb9",
+          "old_stem_hash": "28092aa1c10b0a29",
+          "new_stem_length": 73,
+          "timestamp": "2026-04-13T06:33:59.667912"
+        },
+        {
+          "id": "6bdeb557-4805-4a9c-89fb-f583efd1cd5f",
+          "old_stem_hash": "a90717e7b730bad9",
+          "new_stem_length": 65,
+          "timestamp": "2026-04-13T06:34:45.908155"
+        },
+        {
+          "id": "48ffbe86-b9f1-4497-accb-b75fc6c70366",
+          "old_stem_hash": "0e10159ce1f17eba",
+          "new_stem_length": 93,
+          "timestamp": "2026-04-13T06:35:26.302195"
+        },
+        {
+          "id": "dc9391f7-8d00-4194-b45c-2f74b4700351",
+          "old_stem_hash": "b1927b0a58ea192f",
+          "new_stem_length": 93,
+          "timestamp": "2026-04-13T06:36:12.985751"
+        },
+        {
+          "id": "536468c4-8cc8-4b01-b671-2e4522d800c8",
+          "old_stem_hash": "36c37a490203223b",
+          "new_stem_length": 70,
+          "timestamp": "2026-04-13T06:36:52.071578"
+        },
+        {
+          "id": "c6d3632b-14bc-4ac2-a6ce-70e3cb936304",
+          "old_stem_hash": "e762945c679f7378",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T06:37:50.541848"
+        },
+        {
+          "id": "37751a63-134f-4210-8881-c3cf7d32237a",
+          "old_stem_hash": "f784b84292138cc7",
+          "new_stem_length": 92,
+          "timestamp": "2026-04-13T06:38:38.125577"
+        },
+        {
+          "id": "06bbf88c-c19d-4693-bfd1-72ba460fe28b",
+          "old_stem_hash": "a5f093056c095f56",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T06:39:27.241533"
+        },
+        {
+          "id": "c0f64612-c8ed-436a-8253-2bd53c905b65",
+          "old_stem_hash": "e4d6ae74b7ec36f4",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T06:40:04.955412"
+        },
+        {
+          "id": "58540a50-713a-4e73-9a89-920f3e831bfa",
+          "old_stem_hash": "4d787e42df7a9e78",
+          "new_stem_length": 98,
+          "timestamp": "2026-04-13T06:40:46.402007"
+        },
+        {
+          "id": "53bccb03-47a8-4dd7-a7fb-d18ec8198b24",
+          "old_stem_hash": "daec9350080f8dc3",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T06:41:32.257855"
+        },
+        {
+          "id": "a75fc1df-d720-4e51-b95b-41768b2bfadc",
+          "old_stem_hash": "a407b47b70fe404b",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T06:42:12.899002"
+        },
+        {
+          "id": "df4368ac-dec9-4f3f-bd7a-c140b3d30d25",
+          "old_stem_hash": "f1defbc28cbb851c",
+          "new_stem_length": 77,
+          "timestamp": "2026-04-13T06:42:59.185897"
+        },
+        {
+          "id": "d53f5880-f27a-4581-94ad-346d6318eff0",
+          "old_stem_hash": "813b97732fcd4f3f",
+          "new_stem_length": 91,
+          "timestamp": "2026-04-13T06:43:40.943614"
+        },
+        {
+          "id": "74ffa355-cc9f-41a4-9afe-1d3adde9a59e",
+          "old_stem_hash": "6d67deac139948ec",
+          "new_stem_length": 91,
+          "timestamp": "2026-04-13T06:44:26.367984"
+        },
+        {
+          "id": "45669170-3741-4536-8630-e88c0b75c3f4",
+          "old_stem_hash": "8971d63ebfcf3897",
+          "new_stem_length": 72,
+          "timestamp": "2026-04-13T06:45:15.246106"
+        },
+        {
+          "id": "a679cd0f-c220-41be-9823-a1cd53107103",
+          "old_stem_hash": "2f41834dcbdeb06d",
+          "new_stem_length": 90,
+          "timestamp": "2026-04-13T06:46:01.972196"
+        },
+        {
+          "id": "fb978b7a-88bb-487f-847d-8d6d7582ff1b",
+          "old_stem_hash": "b2f7337d02872024",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T06:46:41.983483"
+        },
+        {
+          "id": "c0325833-a57b-445e-9c72-1990cc219633",
+          "old_stem_hash": "193151930f4f691d",
+          "new_stem_length": 78,
+          "timestamp": "2026-04-13T06:47:33.114129"
+        },
+        {
+          "id": "4ae261b5-2d2f-41a9-8f5f-afff915dd25a",
+          "old_stem_hash": "7bcbe86c960d4401",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T06:48:22.592841"
+        },
+        {
+          "id": "6440708c-b0fb-4ab8-94aa-c3e5e7ad7d32",
+          "old_stem_hash": "da6fd12458808b9e",
+          "new_stem_length": 90,
+          "timestamp": "2026-04-13T06:49:02.201406"
+        },
+        {
+          "id": "b278b389-87ee-4e6e-ae84-0794e3d6c354",
+          "old_stem_hash": "06774d4e1a9cca89",
+          "new_stem_length": 74,
+          "timestamp": "2026-04-13T06:49:42.889932"
+        },
+        {
+          "id": "216d050d-3756-44a2-b681-a6d3d5fb020a",
+          "old_stem_hash": "235035e2f0d337af",
+          "new_stem_length": 88,
+          "timestamp": "2026-04-13T06:50:58.578888"
+        },
+        {
+          "id": "70b3b868-ecef-4669-a716-9e596eb44236",
+          "old_stem_hash": "37766129761a4cb7",
+          "new_stem_length": 74,
+          "timestamp": "2026-04-13T06:52:55.156033"
+        },
+        {
+          "id": "6290f93a-ec85-4a15-a567-ec654c807717",
+          "old_stem_hash": "e398033c738ac6c5",
+          "new_stem_length": 79,
+          "timestamp": "2026-04-13T06:54:19.689406"
+        },
+        {
+          "id": "0b23e6e9-41a4-4308-9c5b-2d5a6d1b3c50",
+          "old_stem_hash": "7577ef2fc29e0f11",
+          "new_stem_length": 93,
+          "timestamp": "2026-04-13T06:55:03.962304"
+        },
+        {
+          "id": "d9cd25f3-6f90-40aa-9aa6-75b4e2c3cecf",
+          "old_stem_hash": "a2e4e80ea9c3e3aa",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T06:55:48.763032"
+        },
+        {
+          "id": "12ba8674-9292-4918-b1c6-f47ee7b93b01",
+          "old_stem_hash": "0a1e287530aaaf06",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T06:56:26.397180"
+        },
+        {
+          "id": "b1f56178-1dea-4f5e-8cb5-d5e7c8fae225",
+          "old_stem_hash": "adde3c33b2325267",
+          "new_stem_length": 68,
+          "timestamp": "2026-04-13T06:57:20.982224"
+        },
+        {
+          "id": "2c162558-35fb-4af0-ae99-bbf7a067ff1b",
+          "old_stem_hash": "cbc191ec65f9e94e",
+          "new_stem_length": 69,
+          "timestamp": "2026-04-13T06:58:17.489662"
+        },
+        {
+          "id": "321c96ac-61b8-4a71-a4b7-f1d3fddabf03",
+          "old_stem_hash": "ae5a3fbd1bb2a0bd",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T06:58:58.594733"
+        },
+        {
+          "id": "883d3fbc-359a-4890-a2e6-a76e35a21156",
+          "old_stem_hash": "32a1671030ce69b2",
+          "new_stem_length": 78,
+          "timestamp": "2026-04-13T06:59:42.758755"
+        },
+        {
+          "id": "f2ef3927-7989-4852-a301-9599c5821073",
+          "old_stem_hash": "ad13169b7f8fa04d",
+          "new_stem_length": 88,
+          "timestamp": "2026-04-13T07:00:34.537124"
+        },
+        {
+          "id": "996b7f99-24b4-40e0-8eda-1eeaa4a370a0",
+          "old_stem_hash": "4e5725c62a0bb5cc",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T07:01:24.387856"
+        },
+        {
+          "id": "8342d35b-a998-4c31-ae74-3000cccfb2d9",
+          "old_stem_hash": "6fb1e52904c404e7",
+          "new_stem_length": 70,
+          "timestamp": "2026-04-13T07:02:00.315108"
+        },
+        {
+          "id": "ada884c2-da97-437c-8be3-136cc97f9e6d",
+          "old_stem_hash": "0ba17b939bebbe32",
+          "new_stem_length": 97,
+          "timestamp": "2026-04-13T07:02:43.921551"
+        },
+        {
+          "id": "49a5f272-ed5f-447d-aad3-b9c7178588da",
+          "old_stem_hash": "e305919f320f8b2f",
+          "new_stem_length": 72,
+          "timestamp": "2026-04-13T07:03:20.474539"
+        },
+        {
+          "id": "07f0abb0-a99a-4804-8af1-2f51b660e321",
+          "old_stem_hash": "584c4464ee7b6724",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T07:04:06.513258"
+        },
+        {
+          "id": "dee1f8e5-e667-491e-9a30-f60a3cc0bead",
+          "old_stem_hash": "a8e7a2cd88124fcb",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T07:04:53.807773"
+        },
+        {
+          "id": "b85cf2c4-ec6e-4230-a928-9c45bf64e99c",
+          "old_stem_hash": "565f73804de5c2bf",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T07:05:33.919361"
+        },
+        {
+          "id": "d2abc39d-e052-4c9e-b1df-cf1166fb8827",
+          "old_stem_hash": "debddcb3a66691cb",
+          "new_stem_length": 90,
+          "timestamp": "2026-04-13T07:06:21.198976"
+        },
+        {
+          "id": "121e8525-3932-421b-a2b1-28cafb7b72a7",
+          "old_stem_hash": "7e565f0aa2d40c90",
+          "new_stem_length": 90,
+          "timestamp": "2026-04-13T07:07:03.191048"
+        },
+        {
+          "id": "9aaf4d1d-a81e-45bf-bba3-cb89ec483811",
+          "old_stem_hash": "d1809e079cc60c32",
+          "new_stem_length": 90,
+          "timestamp": "2026-04-13T07:07:47.854896"
+        },
+        {
+          "id": "e28e0e4d-1232-4e49-8b48-616504e4e8d4",
+          "old_stem_hash": "3990a7259c421c29",
+          "new_stem_length": 71,
+          "timestamp": "2026-04-13T07:09:12.508883"
+        },
+        {
+          "id": "f293b153-76bd-4230-9375-59904ae7094c",
+          "old_stem_hash": "5abb56c5ae066227",
+          "new_stem_length": 91,
+          "timestamp": "2026-04-13T07:09:52.472956"
+        },
+        {
+          "id": "6cd097f3-3a24-455c-b76b-cc9cd172cc95",
+          "old_stem_hash": "cc87ecaed95171a4",
+          "new_stem_length": 94,
+          "timestamp": "2026-04-13T07:10:36.914228"
+        },
+        {
+          "id": "c0ebce9d-d5ff-49e2-a4fa-de189f17ee40",
+          "old_stem_hash": "08ae7642a27e2234",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T07:11:19.682959"
+        },
+        {
+          "id": "a4fea6ea-2146-4242-8a60-72a9242f9396",
+          "old_stem_hash": "e01fb5043966fe24",
+          "new_stem_length": 92,
+          "timestamp": "2026-04-13T07:13:24.724712"
+        },
+        {
+          "id": "a4dd6a74-ca5d-41d5-b728-febb1f34eeb2",
+          "old_stem_hash": "07eddf6500717298",
+          "new_stem_length": 79,
+          "timestamp": "2026-04-13T07:14:02.238508"
+        },
+        {
+          "id": "f816916f-d3b3-4e78-926e-0b4ece899cdd",
+          "old_stem_hash": "9364e66dfc51123d",
+          "new_stem_length": 77,
+          "timestamp": "2026-04-13T07:14:49.411063"
+        },
+        {
+          "id": "aa4e056c-d8e1-49f6-888f-05fd4f7d7291",
+          "old_stem_hash": "e9548512d9db7da2",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T07:15:29.749964"
+        },
+        {
+          "id": "3dccbc0a-5f2a-4293-a7c3-55ab89322ad2",
+          "old_stem_hash": "ef587121af384aa1",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T07:16:03.341005"
+        },
+        {
+          "id": "7f6de70c-594b-4a6c-ba09-d59dd0841055",
+          "old_stem_hash": "24564e3bc3ce7841",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T07:16:49.233459"
+        },
+        {
+          "id": "bc349750-574c-4428-a5dd-aa4c0289f5c7",
+          "old_stem_hash": "6aeff46e5f754fe7",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T07:17:25.911172"
+        },
+        {
+          "id": "1dce5b79-65a0-4880-860f-890c5e60b258",
+          "old_stem_hash": "d375f82059780f21",
+          "new_stem_length": 71,
+          "timestamp": "2026-04-13T07:20:08.707817"
+        },
+        {
+          "id": "45433cbc-c6c0-4f84-bb03-ee783c9f19ae",
+          "old_stem_hash": "f27e878694e56780",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T07:20:50.727240"
+        },
+        {
+          "id": "19c7f665-7646-481f-a74e-0f1f793b6182",
+          "old_stem_hash": "f9efc086c999020f",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T07:21:41.276370"
+        },
+        {
+          "id": "09f6413e-d954-4fdb-a11f-09539571b78c",
+          "old_stem_hash": "a22d468f66880d81",
+          "new_stem_length": 79,
+          "timestamp": "2026-04-13T07:22:28.266031"
+        },
+        {
+          "id": "48550573-6bd8-42a6-8128-6d03cd213498",
+          "old_stem_hash": "d1fcf0572c8f75cf",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T07:23:40.211838"
+        },
+        {
+          "id": "b3312741-f9c4-404c-ba8f-b4c0d381e04a",
+          "old_stem_hash": "2842f17d09ce9f81",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T07:24:24.144129"
+        },
+        {
+          "id": "4e2579d0-c3a4-4374-909b-c254a8ee1e58",
+          "old_stem_hash": "f561d7100cd1950f",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T07:25:01.028253"
+        },
+        {
+          "id": "41b35cc4-5fa6-4b78-8647-0007b8cabd2a",
+          "old_stem_hash": "24b2de6a6fec68df",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T07:25:43.123868"
+        },
+        {
+          "id": "c9f99fe8-cdd5-4011-881f-625b69ba85ec",
+          "old_stem_hash": "7e58e153f1022963",
+          "new_stem_length": 79,
+          "timestamp": "2026-04-13T07:26:24.886728"
+        },
+        {
+          "id": "dc779517-cfbb-4058-bd46-5b461ddf6ee5",
+          "old_stem_hash": "5375dab1bea91b5d",
+          "new_stem_length": 74,
+          "timestamp": "2026-04-13T07:27:01.849325"
+        },
+        {
+          "id": "426bfc55-19d1-40dd-92a9-ffd55d74fdd4",
+          "old_stem_hash": "6f116acf2017bc46",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T07:27:59.627932"
+        },
+        {
+          "id": "8a3be52c-7f4a-462b-abf6-d815966caad2",
+          "old_stem_hash": "f9d51664a1056911",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T07:28:41.621123"
+        },
+        {
+          "id": "0ee86184-e939-444f-ae69-1b64298fe8f5",
+          "old_stem_hash": "51e4ec7e42d5d459",
+          "new_stem_length": 92,
+          "timestamp": "2026-04-13T07:29:22.292609"
+        },
+        {
+          "id": "872d0e6b-b798-42e6-8ac7-3543e427e05e",
+          "old_stem_hash": "cca79c60ae1e40f8",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T07:30:16.313104"
+        },
+        {
+          "id": "f241d504-55e7-4f5a-8083-6eced38681a2",
+          "old_stem_hash": "73bd4f8f9f314ee6",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T07:32:51.209557"
+        },
+        {
+          "id": "43d92543-19e3-40ff-b643-3e48e4f30d5d",
+          "old_stem_hash": "64cd070804e8c3db",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T07:33:34.116378"
+        },
+        {
+          "id": "99a72140-fe33-49c1-8d9b-441e9d6e275e",
+          "old_stem_hash": "003afb5caf10936a",
+          "new_stem_length": 90,
+          "timestamp": "2026-04-13T07:34:12.676657"
+        },
+        {
+          "id": "eae30dbb-bad6-4e36-9645-fba4364ea6e7",
+          "old_stem_hash": "1daa7d4c2eb51bc5",
+          "new_stem_length": 93,
+          "timestamp": "2026-04-13T07:35:08.792766"
+        },
+        {
+          "id": "d6297ff4-8ecf-440f-983b-ab5e6326559b",
+          "old_stem_hash": "76df49d81052cf8e",
+          "new_stem_length": 77,
+          "timestamp": "2026-04-13T07:36:26.989799"
+        },
+        {
+          "id": "59790ca4-7168-471b-9482-73cb58f814d1",
+          "old_stem_hash": "d0139c2410e8e11c",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T07:37:05.329477"
+        },
+        {
+          "id": "05beb439-4a65-4ce1-96f3-26f62dbd611b",
+          "old_stem_hash": "b88a3a9f239d11db",
+          "new_stem_length": 76,
+          "timestamp": "2026-04-13T07:37:47.879412"
+        },
+        {
+          "id": "0b6e54af-43b3-4486-997f-0190a1c6be68",
+          "old_stem_hash": "9e10fdecf14d6378",
+          "new_stem_length": 77,
+          "timestamp": "2026-04-13T07:38:28.290532"
+        },
+        {
+          "id": "af850095-a3cb-4de6-9d9a-70865674f299",
+          "old_stem_hash": "c5f7d2f44d929f4c",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T07:39:07.011066"
+        },
+        {
+          "id": "ae4db725-f4c2-423d-8c90-6997172e30ec",
+          "old_stem_hash": "4a4257f33b40fb74",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T07:39:45.412153"
+        },
+        {
+          "id": "0ff5b087-2a5c-4b58-8227-d9554f68089f",
+          "old_stem_hash": "0387b90ff263749d",
+          "new_stem_length": 76,
+          "timestamp": "2026-04-13T07:40:23.188312"
+        },
+        {
+          "id": "85871968-64a1-44cb-8ad6-39b6ad6c64e6",
+          "old_stem_hash": "9ef316a9342c0125",
+          "new_stem_length": 95,
+          "timestamp": "2026-04-13T07:41:02.544466"
+        },
+        {
+          "id": "01f7727c-a049-4b17-8afe-4af832e9862d",
+          "old_stem_hash": "3f165b6d17fbc5dc",
+          "new_stem_length": 97,
+          "timestamp": "2026-04-13T07:41:43.324121"
+        },
+        {
+          "id": "e7f04359-da1b-40f8-9c4e-cc2eb4257fe2",
+          "old_stem_hash": "4fd5a78f38e8920f",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T07:42:19.577254"
+        },
+        {
+          "id": "411ecdef-07e0-4e0d-bd1b-881a21ac1a12",
+          "old_stem_hash": "d0784b2f20593467",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T07:43:20.350982"
+        },
+        {
+          "id": "289e858a-189d-4977-9c25-9b2f04272d16",
+          "old_stem_hash": "c3be0358813f963e",
+          "new_stem_length": 93,
+          "timestamp": "2026-04-13T07:44:03.047069"
+        },
+        {
+          "id": "1e21b2f7-90af-428d-bece-f5bae437b85c",
+          "old_stem_hash": "d53aaf081a31fe6c",
+          "new_stem_length": 92,
+          "timestamp": "2026-04-13T07:44:48.948564"
+        },
+        {
+          "id": "59e25784-c164-4270-9a75-fad26cd85b4d",
+          "old_stem_hash": "46e7234d946e4707",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T07:45:28.197928"
+        },
+        {
+          "id": "89a41f9f-bf73-4c34-aef6-52d4ddf9d145",
+          "old_stem_hash": "03e125e8e2f9ec7a",
+          "new_stem_length": 92,
+          "timestamp": "2026-04-13T07:46:11.114018"
+        },
+        {
+          "id": "bcb48015-1928-48e8-ad43-1b41e67b89b7",
+          "old_stem_hash": "a19087c561a161d9",
+          "new_stem_length": 67,
+          "timestamp": "2026-04-13T07:46:44.591211"
+        },
+        {
+          "id": "5871a862-a219-4f2a-84c8-632ffc02d6b6",
+          "old_stem_hash": "5ee27fead8b96a80",
+          "new_stem_length": 72,
+          "timestamp": "2026-04-13T07:47:27.850913"
+        },
+        {
+          "id": "42618af1-2145-43d3-8034-6b74486fd82a",
+          "old_stem_hash": "6a993bbcab69c948",
+          "new_stem_length": 77,
+          "timestamp": "2026-04-13T07:48:05.714554"
+        },
+        {
+          "id": "cb7c197a-c07e-44a8-9151-b5d7aa713aac",
+          "old_stem_hash": "da064c052d28ac88",
+          "new_stem_length": 91,
+          "timestamp": "2026-04-13T07:48:46.525409"
+        },
+        {
+          "id": "1154ec9f-9565-4cb4-ab9b-68e18708383c",
+          "old_stem_hash": "f9f7f87a45652578",
+          "new_stem_length": 96,
+          "timestamp": "2026-04-13T07:49:23.433308"
+        },
+        {
+          "id": "d192502d-c886-441a-9bb9-56c37a9ebf16",
+          "old_stem_hash": "fda264a48d5e0fc2",
+          "new_stem_length": 91,
+          "timestamp": "2026-04-13T07:50:11.237482"
+        },
+        {
+          "id": "435b0e2b-f4a7-4d35-bfb2-884bd36ae974",
+          "old_stem_hash": "a59f0324db9cd5cd",
+          "new_stem_length": 73,
+          "timestamp": "2026-04-13T07:53:14.553710"
+        },
+        {
+          "id": "a37368f3-851c-4d6f-b569-6fc9cf5539f1",
+          "old_stem_hash": "cf383bd894113405",
+          "new_stem_length": 92,
+          "timestamp": "2026-04-13T07:54:02.345160"
+        },
+        {
+          "id": "85aab9e4-310d-4096-a2d2-6f0bca66d616",
+          "old_stem_hash": "aa503b4750f21f99",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T07:54:52.994287"
+        },
+        {
+          "id": "560a6d80-7582-4316-8f85-fc00ef0c8f1f",
+          "old_stem_hash": "e9b6ef6fd3f4b472",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T07:55:29.701352"
+        },
+        {
+          "id": "9afe25e5-293e-474c-93dd-1c3c446f067f",
+          "old_stem_hash": "07f941ffc3c0a050",
+          "new_stem_length": 88,
+          "timestamp": "2026-04-13T07:56:44.239474"
+        },
+        {
+          "id": "113090ad-d16c-4ed0-a182-4921b378a7f4",
+          "old_stem_hash": "c80447ab96bd84a6",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T07:57:26.169601"
+        },
+        {
+          "id": "f71089c6-4418-401f-8721-2c397065e28d",
+          "old_stem_hash": "1eaa8fcda8f9f530",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T07:58:08.602408"
+        },
+        {
+          "id": "f00e2090-93ff-4905-97f2-89f75f4ebd84",
+          "old_stem_hash": "f69c9dc70309e548",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T07:58:57.238997"
+        },
+        {
+          "id": "980065e7-0eff-4033-8aed-1879529687f1",
+          "old_stem_hash": "f8f4679d7cf002dd",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T16:28:36.833110"
+        },
+        {
+          "id": "0ab1120e-bebd-4f84-b4f9-2e86b46881e2",
+          "old_stem_hash": "6c17deb48616f12b",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T16:29:28.435846"
+        },
+        {
+          "id": "ba3d21c8-7f01-4bfa-a53e-dd9a72292b9c",
+          "old_stem_hash": "8c6a790e816c7d2f",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T16:30:08.503832"
+        },
+        {
+          "id": "eea27389-1a43-416c-94ba-53f9bd834ecf",
+          "old_stem_hash": "7dc21905cbbd0105",
+          "new_stem_length": 78,
+          "timestamp": "2026-04-13T16:31:10.480558"
+        },
+        {
+          "id": "11a7ba16-033c-4a6c-baa0-8de870d72762",
+          "old_stem_hash": "053d3352be543711",
+          "new_stem_length": 69,
+          "timestamp": "2026-04-13T16:31:55.478482"
+        },
+        {
+          "id": "ba9fc111-b1ce-400d-b195-80f29008c1d5",
+          "old_stem_hash": "93fffd1946ea3ac6",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T16:32:40.091557"
+        },
+        {
+          "id": "b1388017-8471-438a-9380-99b7af4e2c86",
+          "old_stem_hash": "0d63a7f85afa01d4",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T16:34:22.483724"
+        },
+        {
+          "id": "ddd2ad1a-349b-4665-bca9-9d79367cc4b1",
+          "old_stem_hash": "e33da725f7dc3e91",
+          "new_stem_length": 73,
+          "timestamp": "2026-04-13T16:35:05.421688"
+        },
+        {
+          "id": "1ee32126-2ee1-48c4-b515-e790ad07a964",
+          "old_stem_hash": "4cf1b7a479dadaad",
+          "new_stem_length": 96,
+          "timestamp": "2026-04-13T16:35:48.853311"
+        },
+        {
+          "id": "f7e2d829-e749-495c-aa11-fb7b1ac2f2fd",
+          "old_stem_hash": "cc1514390991a7b4",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T16:36:38.018878"
+        },
+        {
+          "id": "3470a629-6288-4646-8069-284de6c1b315",
+          "old_stem_hash": "965d553b8e02ff31",
+          "new_stem_length": 79,
+          "timestamp": "2026-04-13T16:37:20.810024"
+        },
+        {
+          "id": "8bbae233-ca24-4041-9b22-ed60048a372b",
+          "old_stem_hash": "668a026e9b43c77c",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T16:38:36.143991"
+        },
+        {
+          "id": "786225a0-a3c3-4164-aecb-495be922d18a",
+          "old_stem_hash": "78df9d996fd967d1",
+          "new_stem_length": 77,
+          "timestamp": "2026-04-13T16:39:16.948713"
+        },
+        {
+          "id": "30ef5975-f99a-40bd-9b43-f87cab61dccc",
+          "old_stem_hash": "209f7edd2dc0302f",
+          "new_stem_length": 95,
+          "timestamp": "2026-04-13T16:39:53.282651"
+        },
+        {
+          "id": "ad144614-8278-4d1b-bc83-6adbb95e5911",
+          "old_stem_hash": "8d7ec6da79e72992",
+          "new_stem_length": 88,
+          "timestamp": "2026-04-13T16:40:38.870430"
+        },
+        {
+          "id": "730e3d3a-d789-4961-a256-d27decd34b43",
+          "old_stem_hash": "03f8b5c4e6cfc6ad",
+          "new_stem_length": 95,
+          "timestamp": "2026-04-13T16:42:39.844807"
+        },
+        {
+          "id": "afb79caa-538d-4047-879c-609a458a3a04",
+          "old_stem_hash": "1b30065edb3ef628",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T16:43:16.899599"
+        },
+        {
+          "id": "054fd616-d118-4ac3-a645-ba7e801223c2",
+          "old_stem_hash": "a0a834b282d4de53",
+          "new_stem_length": 78,
+          "timestamp": "2026-04-13T16:44:07.894632"
+        },
+        {
+          "id": "18e13a9e-a875-4fd2-b59b-b35d2a6435ea",
+          "old_stem_hash": "12983e01082ce305",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T16:44:51.340638"
+        },
+        {
+          "id": "6141f9d2-6598-46ac-ae18-6b0d21d970b9",
+          "old_stem_hash": "adc03336aaf034e0",
+          "new_stem_length": 71,
+          "timestamp": "2026-04-13T16:45:33.195363"
+        },
+        {
+          "id": "a7613fcd-6ca6-4585-b569-9ee7eaf8c7cb",
+          "old_stem_hash": "52f06c494ac206ef",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T16:46:32.369103"
+        },
+        {
+          "id": "e962fa64-eab7-4aaf-ba15-67115a88a408",
+          "old_stem_hash": "99ef1f3c868126d8",
+          "new_stem_length": 78,
+          "timestamp": "2026-04-13T16:48:12.441473"
+        },
+        {
+          "id": "e44a8465-edce-49aa-9c1b-04cecbff4600",
+          "old_stem_hash": "bf49a88f0e676f14",
+          "new_stem_length": 78,
+          "timestamp": "2026-04-13T16:48:55.373169"
+        },
+        {
+          "id": "7be53434-da0a-4cb2-859d-3cbc01800715",
+          "old_stem_hash": "3a235859af9840f7",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T16:49:35.391107"
+        },
+        {
+          "id": "63a736fa-7035-405d-9e5f-805d918facc3",
+          "old_stem_hash": "59cf636d9ad7f100",
+          "new_stem_length": 94,
+          "timestamp": "2026-04-13T16:51:34.266244"
+        },
+        {
+          "id": "05adae5e-9849-4c32-8e2a-547603740a5d",
+          "old_stem_hash": "d5c3f524ea908967",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T16:52:08.202745"
+        },
+        {
+          "id": "d43313d0-c4f6-498d-8c73-e630a0b4cff7",
+          "old_stem_hash": "ed73638ae223274f",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T16:53:05.371616"
+        },
+        {
+          "id": "36a98079-cc36-4f26-bf59-fb7bae308d26",
+          "old_stem_hash": "0970aa275935ca7b",
+          "new_stem_length": 88,
+          "timestamp": "2026-04-13T16:53:50.346734"
+        },
+        {
+          "id": "a1f3998e-de2e-429f-aac4-d0e614aec9ba",
+          "old_stem_hash": "99ee03f42fd96096",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T16:54:32.673534"
+        },
+        {
+          "id": "820dc9bd-229a-4feb-918d-ad59ec9b05b8",
+          "old_stem_hash": "5cfd6ee5ce0111d1",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T16:55:21.849247"
+        },
+        {
+          "id": "31433fde-7ae1-4492-bebc-9dbb20be05c1",
+          "old_stem_hash": "6f6763030f4dbda5",
+          "new_stem_length": 73,
+          "timestamp": "2026-04-13T16:56:44.159554"
+        },
+        {
+          "id": "9e2dd09a-b169-43ea-bbc1-4486a324e482",
+          "old_stem_hash": "0dc1247b575f0858",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T16:58:45.188038"
+        },
+        {
+          "id": "2be8db0b-4d09-47a7-a139-60b311a5dec5",
+          "old_stem_hash": "11ce86bed0b7ecce",
+          "new_stem_length": 93,
+          "timestamp": "2026-04-13T16:59:40.185940"
+        },
+        {
+          "id": "fc0474ac-e13e-4775-b3b3-abb48f3c1ec6",
+          "old_stem_hash": "2b592117617beedd",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T17:00:22.480134"
+        },
+        {
+          "id": "71643f89-2fe4-4617-8ef4-07e956b0e6c6",
+          "old_stem_hash": "fe929d2b5313358d",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T17:00:58.849765"
+        },
+        {
+          "id": "821e918f-bf34-49ec-84be-2b73bb37864e",
+          "old_stem_hash": "c42860bf161e2018",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T17:01:50.515386"
+        },
+        {
+          "id": "513e5fdb-5e7b-44d1-b11b-69178a90acf9",
+          "old_stem_hash": "1b5a8ff690ec469c",
+          "new_stem_length": 88,
+          "timestamp": "2026-04-13T17:03:09.542022"
+        },
+        {
+          "id": "b53770bc-aac6-4e30-826e-d9f63f90d2b7",
+          "old_stem_hash": "cdc6119144a846d8",
+          "new_stem_length": 91,
+          "timestamp": "2026-04-13T17:03:58.644397"
+        },
+        {
+          "id": "930bab67-63ff-44cf-be36-cdcec62232d6",
+          "old_stem_hash": "914d3e9de8ebab97",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T17:04:34.701331"
+        },
+        {
+          "id": "4b12762c-e0ff-47ec-b40b-1e6a4e327201",
+          "old_stem_hash": "7522338058f16a25",
+          "new_stem_length": 75,
+          "timestamp": "2026-04-13T17:05:13.395695"
+        },
+        {
+          "id": "5848e572-4832-4f97-bc46-0cd38df3ef65",
+          "old_stem_hash": "dc87dd045e2bcc1c",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T17:05:54.250571"
+        },
+        {
+          "id": "0d87c627-a6fe-4b51-8948-520668446f9b",
+          "old_stem_hash": "0ab7eac9552d3011",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T17:06:37.722311"
+        },
+        {
+          "id": "43a7f168-67fa-433d-abec-dfb98ff2182d",
+          "old_stem_hash": "580189d1762455fe",
+          "new_stem_length": 71,
+          "timestamp": "2026-04-13T17:07:21.253076"
+        },
+        {
+          "id": "155ee022-98fb-447e-bc01-bc7d4801d782",
+          "old_stem_hash": "d7e4cb16876aacab",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T17:08:16.968502"
+        },
+        {
+          "id": "53ad3bb6-8a52-45f2-aaad-e605f73eec9e",
+          "old_stem_hash": "9b0431c40ee86b54",
+          "new_stem_length": 76,
+          "timestamp": "2026-04-13T17:09:09.577543"
+        },
+        {
+          "id": "8a0a6e88-80b9-4759-8cf7-663cd53cfd28",
+          "old_stem_hash": "57937e273db9552d",
+          "new_stem_length": 78,
+          "timestamp": "2026-04-13T17:09:50.193371"
+        },
+        {
+          "id": "483ee810-bea2-4bda-b8ed-121766a039c6",
+          "old_stem_hash": "ea2547e77f285487",
+          "new_stem_length": 70,
+          "timestamp": "2026-04-13T17:10:34.453435"
+        },
+        {
+          "id": "45db215d-bf69-41c7-8db1-ff8e43294a35",
+          "old_stem_hash": "2d109abf5ad85a1a",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T17:11:10.729315"
+        },
+        {
+          "id": "a449dd3e-5614-47a1-80dd-90a219440a4c",
+          "old_stem_hash": "9545bd7ae4740f98",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T17:12:45.829592"
+        },
+        {
+          "id": "b043960d-7366-45eb-837d-5442e5e38023",
+          "old_stem_hash": "eaa1d1c123525319",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T17:13:27.180515"
+        },
+        {
+          "id": "e281f05b-336b-4304-aa31-0f9c595d882a",
+          "old_stem_hash": "11078114d392f7ee",
+          "new_stem_length": 91,
+          "timestamp": "2026-04-13T17:14:20.572433"
+        },
+        {
+          "id": "a7028a7f-db4f-42cd-b3d0-12121af15568",
+          "old_stem_hash": "338cd30f7fb5e806",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T17:14:56.877550"
+        },
+        {
+          "id": "91dc2fcb-619d-4d13-8f84-74b23af0eb2e",
+          "old_stem_hash": "f12324ecfe56aa79",
+          "new_stem_length": 77,
+          "timestamp": "2026-04-13T17:15:54.285027"
+        },
+        {
+          "id": "ddb79826-3595-4e1f-ab62-c08f2f3a26df",
+          "old_stem_hash": "c5edbca09a725477",
+          "new_stem_length": 95,
+          "timestamp": "2026-04-13T17:17:19.406804"
+        },
+        {
+          "id": "86efd8a2-bfad-4323-b658-90da92bbe935",
+          "old_stem_hash": "2a5c91288d2e2e03",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T17:18:03.927676"
+        },
+        {
+          "id": "78171f99-a64b-426f-81e7-8ac1c28a215a",
+          "old_stem_hash": "1abfd462c93c14ac",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T17:18:44.158767"
+        },
+        {
+          "id": "d381dcf6-644e-4d98-ba33-1b97287c3795",
+          "old_stem_hash": "6248b99802dc073a",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T17:19:31.142834"
+        },
+        {
+          "id": "7b37bc84-b697-4d77-8a8f-e3f840a13a7c",
+          "old_stem_hash": "f5eaa13c5baeadee",
+          "new_stem_length": 94,
+          "timestamp": "2026-04-13T17:20:57.887858"
+        },
+        {
+          "id": "80f571fe-5b01-4a95-9792-2a63751f1c54",
+          "old_stem_hash": "fa50072d41ede653",
+          "new_stem_length": 79,
+          "timestamp": "2026-04-13T17:21:42.078852"
+        },
+        {
+          "id": "cb02c107-7eef-4d88-8a00-89b07e49d4e3",
+          "old_stem_hash": "3c19c3027cf348a2",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T17:22:22.078158"
+        },
+        {
+          "id": "725e1d73-0fa8-4913-9124-060954b992b0",
+          "old_stem_hash": "c1e9e62067dce849",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T17:23:00.386701"
+        },
+        {
+          "id": "f96e6f94-77bf-466f-b924-5820d8820368",
+          "old_stem_hash": "4981544032aa9644",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T17:23:53.583559"
+        },
+        {
+          "id": "4e618a5d-d40b-4ed5-b693-3f49bf0aafa9",
+          "old_stem_hash": "85ca32adf0d5fb8d",
+          "new_stem_length": 78,
+          "timestamp": "2026-04-13T17:24:34.926073"
+        },
+        {
+          "id": "fe76b7fb-b164-4ced-8dac-86ab9f7fba7d",
+          "old_stem_hash": "4606ba3525aa8567",
+          "new_stem_length": 73,
+          "timestamp": "2026-04-13T17:25:14.541417"
+        },
+        {
+          "id": "b565d251-da02-4da7-9ac9-2c80b38459c3",
+          "old_stem_hash": "25e152bf072c0e9a",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T17:25:58.130611"
+        },
+        {
+          "id": "094f1771-7d37-4e98-9e88-77526401048b",
+          "old_stem_hash": "a5ed483327eb9fa5",
+          "new_stem_length": 88,
+          "timestamp": "2026-04-13T17:26:46.715088"
+        },
+        {
+          "id": "57675c2b-be98-4ddf-b927-6c1f447e4c28",
+          "old_stem_hash": "b8df75c69f50e446",
+          "new_stem_length": 72,
+          "timestamp": "2026-04-13T17:27:30.192926"
+        },
+        {
+          "id": "341800a2-ea0c-4f2a-923e-a9cc02dee244",
+          "old_stem_hash": "674978792684b042",
+          "new_stem_length": 98,
+          "timestamp": "2026-04-13T17:28:17.578365"
+        },
+        {
+          "id": "8f8f5830-abf4-4724-8ccf-83e811546d24",
+          "old_stem_hash": "4a503b254b3ac350",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T17:28:55.848377"
+        },
+        {
+          "id": "cb4f9610-16d6-460f-a252-1bf960da9f48",
+          "old_stem_hash": "655c4aec07abad2a",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T17:29:48.045715"
+        },
+        {
+          "id": "fc21ce33-26e8-421e-9964-ba83be13dd2f",
+          "old_stem_hash": "b05e06acd70d4bc2",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T17:30:42.087244"
+        },
+        {
+          "id": "281b8aed-0f8c-40c6-befb-892b1b26d155",
+          "old_stem_hash": "42a49a7e17257291",
+          "new_stem_length": 76,
+          "timestamp": "2026-04-13T17:31:30.454818"
+        },
+        {
+          "id": "1b734af9-42d6-4d50-89ba-6e73ac43081f",
+          "old_stem_hash": "df5e508069466513",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T17:32:38.299876"
+        },
+        {
+          "id": "6858915b-670a-443e-a69b-15adefe3ce9f",
+          "old_stem_hash": "130cdde88faf6c80",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T17:33:20.122370"
+        },
+        {
+          "id": "8854c9d9-1bd1-4cbd-a825-aa7d00e10062",
+          "old_stem_hash": "4cdedcd36ea5f77d",
+          "new_stem_length": 74,
+          "timestamp": "2026-04-13T17:34:01.748365"
+        },
+        {
+          "id": "f5101738-88f1-48fd-a18f-4f00774c2205",
+          "old_stem_hash": "5408dab2a75bbc91",
+          "new_stem_length": 74,
+          "timestamp": "2026-04-13T17:34:43.070951"
+        },
+        {
+          "id": "3330fa8c-6a75-4d73-82ff-18ff5b48002e",
+          "old_stem_hash": "cad8805eda541dde",
+          "new_stem_length": 74,
+          "timestamp": "2026-04-13T17:35:29.737123"
+        },
+        {
+          "id": "ada8dd83-633d-4700-b0a8-427963ff4355",
+          "old_stem_hash": "742d32f47de3e723",
+          "new_stem_length": 72,
+          "timestamp": "2026-04-13T17:36:05.424223"
+        },
+        {
+          "id": "673339b7-ee8e-4170-89dd-f3b011566d29",
+          "old_stem_hash": "317666739ab57eef",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T17:36:55.146162"
+        },
+        {
+          "id": "01a7cbb9-b60f-4ebf-8971-a003095f7000",
+          "old_stem_hash": "9b24c763268e2585",
+          "new_stem_length": 75,
+          "timestamp": "2026-04-13T17:37:39.254189"
+        },
+        {
+          "id": "96874c43-4100-46e2-816a-505ca2d41d3a",
+          "old_stem_hash": "ea08f1d876fcdf8a",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T17:38:31.480361"
+        },
+        {
+          "id": "7ba65792-10c5-4925-b5a4-6fe365b8f555",
+          "old_stem_hash": "e656a730152edfb3",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T17:39:22.682754"
+        },
+        {
+          "id": "a80ea93e-e62e-4616-bc90-f0846049ae09",
+          "old_stem_hash": "e5c771d9a89d04ce",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T17:41:18.799948"
+        },
+        {
+          "id": "7dfd41ba-95f7-481c-967c-10e3e960c515",
+          "old_stem_hash": "01212c14cd7fc9a8",
+          "new_stem_length": 92,
+          "timestamp": "2026-04-13T17:42:13.514833"
+        },
+        {
+          "id": "ef9b0443-2810-4329-a53a-6f56d9fc30e1",
+          "old_stem_hash": "97cf83e46b8318b9",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T17:43:06.010353"
+        },
+        {
+          "id": "efbfbb9a-1dcd-4bd9-bce2-c32c01e6c661",
+          "old_stem_hash": "0fc1b98c76e3bc74",
+          "new_stem_length": 71,
+          "timestamp": "2026-04-13T17:43:51.833718"
+        },
+        {
+          "id": "60a784c3-d74d-4635-9b8d-2ca7e927377e",
+          "old_stem_hash": "409d83cbf7199523",
+          "new_stem_length": 92,
+          "timestamp": "2026-04-13T17:44:33.717881"
+        },
+        {
+          "id": "bc592c4b-20ca-4314-9411-c1c5164fe0d6",
+          "old_stem_hash": "f1f879904f825809",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T17:45:17.156669"
+        },
+        {
+          "id": "7eec28fe-094c-41c0-9914-19d581c599c9",
+          "old_stem_hash": "def222f0212c3fd7",
+          "new_stem_length": 94,
+          "timestamp": "2026-04-13T17:46:05.974419"
+        },
+        {
+          "id": "651f51d9-b909-4404-9fb7-2d8103baba0a",
+          "old_stem_hash": "8ca2175dae62740b",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T17:47:10.819558"
+        },
+        {
+          "id": "31433d30-1d0a-449b-91df-8d2f273792fe",
+          "old_stem_hash": "f5b1ddf8891ad5d3",
+          "new_stem_length": 77,
+          "timestamp": "2026-04-13T17:47:52.115907"
+        },
+        {
+          "id": "f483ef27-1e91-4c15-9191-5b1c7ccbfca3",
+          "old_stem_hash": "894b4d0dc3e656c4",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T17:49:19.426912"
+        },
+        {
+          "id": "0de4a0f2-dfd7-4a05-a912-9fca71a17f65",
+          "old_stem_hash": "c6b332199c42a573",
+          "new_stem_length": 76,
+          "timestamp": "2026-04-13T17:50:04.560138"
+        },
+        {
+          "id": "75f5e4d8-38ce-4d10-a063-7e6ccfec927b",
+          "old_stem_hash": "b6b44af54551e24a",
+          "new_stem_length": 90,
+          "timestamp": "2026-04-13T17:51:19.904139"
+        },
+        {
+          "id": "a559d6d4-6a57-407f-85eb-64bc1801a7da",
+          "old_stem_hash": "8f63a4f7b6122b87",
+          "new_stem_length": 88,
+          "timestamp": "2026-04-13T17:52:04.644514"
+        },
+        {
+          "id": "7beca38b-dba2-4722-a562-d9322d769f6f",
+          "old_stem_hash": "f4021e28c8e0dc24",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T17:53:28.517691"
+        },
+        {
+          "id": "d70d2188-9550-46e3-9c98-7d6549edfdcc",
+          "old_stem_hash": "ca4fa72ce8ca9771",
+          "new_stem_length": 75,
+          "timestamp": "2026-04-13T17:54:21.926562"
+        },
+        {
+          "id": "be49a41e-0772-4b5d-be48-f8a8cc3533dd",
+          "old_stem_hash": "71637edf110046c9",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T17:55:35.971757"
+        },
+        {
+          "id": "aa91a42c-61c2-47b3-be99-d206a19e602f",
+          "old_stem_hash": "edadf37f99d7aa4e",
+          "new_stem_length": 73,
+          "timestamp": "2026-04-13T17:56:14.596317"
+        },
+        {
+          "id": "e378830f-576f-495f-94f2-4294aa3c11ca",
+          "old_stem_hash": "68b1bcd5dc412c2f",
+          "new_stem_length": 81,
+          "timestamp": "2026-04-13T17:57:37.494956"
+        },
+        {
+          "id": "7d01c9b9-68ae-4db5-ac50-eae12a8976c4",
+          "old_stem_hash": "1b3a56535c598dcd",
+          "new_stem_length": 79,
+          "timestamp": "2026-04-13T17:59:03.518037"
+        },
+        {
+          "id": "94a7c015-4049-47ee-b338-d93b1dd87219",
+          "old_stem_hash": "ccdaa8cc31247287",
+          "new_stem_length": 92,
+          "timestamp": "2026-04-13T17:59:51.299455"
+        },
+        {
+          "id": "7f1c8926-52ce-42a7-94aa-02b1f25559ae",
+          "old_stem_hash": "9c4bc4f75fcfa1c5",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T18:00:45.301346"
+        },
+        {
+          "id": "c43504ca-8be9-4202-bda8-850ecc43ca37",
+          "old_stem_hash": "758d25d7f6812447",
+          "new_stem_length": 93,
+          "timestamp": "2026-04-13T18:01:26.736454"
+        },
+        {
+          "id": "0b889b8c-208c-45f9-947b-cdab5dc24b60",
+          "old_stem_hash": "222ffb459adb0cc1",
+          "new_stem_length": 73,
+          "timestamp": "2026-04-13T18:02:32.145808"
+        },
+        {
+          "id": "09eefb33-be4b-4e26-83e0-8d939543354a",
+          "old_stem_hash": "b48a0d580ff364c7",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T18:04:34.482346"
+        },
+        {
+          "id": "db5686b8-641a-4ef7-95d9-44574de18c2d",
+          "old_stem_hash": "1cab8caf0952cf9f",
+          "new_stem_length": 79,
+          "timestamp": "2026-04-13T18:05:13.400611"
+        },
+        {
+          "id": "32cc93f4-49c9-4d82-8444-e38baa7b6c47",
+          "old_stem_hash": "c1da5887e7fad385",
+          "new_stem_length": 90,
+          "timestamp": "2026-04-13T18:05:55.798331"
+        },
+        {
+          "id": "16e3ec1b-792c-40df-bc3c-dba032132c03",
+          "old_stem_hash": "b1e83b9513dedea8",
+          "new_stem_length": 80,
+          "timestamp": "2026-04-13T18:06:32.660761"
+        },
+        {
+          "id": "d94ed92a-c132-4117-874f-e0ea821bcdd5",
+          "old_stem_hash": "99193dcf2c7b829d",
+          "new_stem_length": 69,
+          "timestamp": "2026-04-13T18:07:23.274712"
+        },
+        {
+          "id": "3e258c0d-bc13-4eeb-8cb7-92d5e565e5a0",
+          "old_stem_hash": "83396fc8658aec70",
+          "new_stem_length": 88,
+          "timestamp": "2026-04-13T18:08:08.689337"
+        },
+        {
+          "id": "fb5d4f05-cc5b-4fdc-8f58-58b5707e778a",
+          "old_stem_hash": "5440ab93d272626a",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T18:08:54.814087"
+        },
+        {
+          "id": "3f6f70da-8911-44f1-bc87-a52e671fc769",
+          "old_stem_hash": "0abe08705cc1266b",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T18:47:33.937966"
+        },
+        {
+          "id": "8484ab98-ea18-47ec-8be5-3f341048a2e1",
+          "old_stem_hash": "414eb0eb892fc4cc",
+          "new_stem_length": 94,
+          "timestamp": "2026-04-13T18:48:17.594268"
+        },
+        {
+          "id": "9cbe147c-2429-4e65-a737-59abcfc5b56a",
+          "old_stem_hash": "c52bd071546c9c82",
+          "new_stem_length": 75,
+          "timestamp": "2026-04-13T18:48:57.860070"
+        },
+        {
+          "id": "09ebe15c-b53d-4c3f-9ced-defb976ada89",
+          "old_stem_hash": "accc80bc5fcce3e0",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T18:49:35.114694"
+        },
+        {
+          "id": "5a291a40-07ea-4d59-99d0-4575a66dcb9d",
+          "old_stem_hash": "5d95b982eb546dd0",
+          "new_stem_length": 83,
+          "timestamp": "2026-04-13T18:50:16.519828"
+        },
+        {
+          "id": "4a4636ae-209b-4eb9-bbc4-39032f7a078a",
+          "old_stem_hash": "fc7c6d434a048a03",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T18:50:58.652180"
+        },
+        {
+          "id": "1bb83f34-bbb7-44a6-ac67-99dc06040263",
+          "old_stem_hash": "90777c8ea8b46f0c",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T18:51:42.396350"
+        },
+        {
+          "id": "b86d0134-b664-42ef-8b0f-b8afd35b8a8f",
+          "old_stem_hash": "31d70c4c2b6bd796",
+          "new_stem_length": 78,
+          "timestamp": "2026-04-13T18:52:39.798710"
+        },
+        {
+          "id": "993f6f30-4ff2-4244-a242-1518dc0b72e4",
+          "old_stem_hash": "cd35878d215e073c",
+          "new_stem_length": 87,
+          "timestamp": "2026-04-13T18:53:22.492443"
+        },
+        {
+          "id": "11d55f17-52b7-42ed-ac4f-3251bf279aa9",
+          "old_stem_hash": "446234776c72377d",
+          "new_stem_length": 90,
+          "timestamp": "2026-04-13T18:53:58.713482"
+        },
+        {
+          "id": "e535878d-70fa-411a-ae71-e5b5e72b6599",
+          "old_stem_hash": "468627328970fc3c",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T18:54:40.004599"
+        },
+        {
+          "id": "1d9abb4e-f3d3-4592-96a8-d216b82e45d3",
+          "old_stem_hash": "501fd5d9c1c50531",
+          "new_stem_length": 79,
+          "timestamp": "2026-04-13T18:55:26.004223"
+        },
+        {
+          "id": "26aa2656-bee1-4eea-8800-5cbf6a7bf1f3",
+          "old_stem_hash": "f2a9c0b8612017bf",
+          "new_stem_length": 85,
+          "timestamp": "2026-04-13T18:56:08.816908"
+        },
+        {
+          "id": "d013c85e-1025-4998-850d-032f184fccbc",
+          "old_stem_hash": "0050c70be45ccee6",
+          "new_stem_length": 84,
+          "timestamp": "2026-04-13T18:56:46.593784"
+        },
+        {
+          "id": "2264606d-9ea4-4381-9488-ed36fa2879f0",
+          "old_stem_hash": "e458f49097a8b15f",
+          "new_stem_length": 75,
+          "timestamp": "2026-04-13T18:57:31.435925"
+        },
+        {
+          "id": "746bcdab-e26b-49cc-abf1-e5550b287d75",
+          "old_stem_hash": "0fd1b73fef6c6388",
+          "new_stem_length": 94,
+          "timestamp": "2026-04-13T18:58:10.105517"
+        },
+        {
+          "id": "f9d5c77f-abda-4ab0-add9-aaee73f1b14f",
+          "old_stem_hash": "59462718963d7404",
+          "new_stem_length": 89,
+          "timestamp": "2026-04-13T18:58:54.880297"
+        },
+        {
+          "id": "87dc8992-bc70-4cd8-bfde-698e5dcd9111",
+          "old_stem_hash": "1857b7f457ab6333",
+          "new_stem_length": 86,
+          "timestamp": "2026-04-13T18:59:40.346167"
+        },
+        {
+          "id": "9516f691-81c6-4322-9cff-a4c65a4f76e3",
+          "old_stem_hash": "b9a5f657f0faa120",
+          "new_stem_length": 82,
+          "timestamp": "2026-04-13T19:01:17.848128"
+        },
+        {
+          "id": "b9296930-a00e-4199-98d9-5eb41378b01e",
+          "old_stem_hash": "549fbf6a442f3b7a",
+          "new_stem_length": 73,
+          "timestamp": "2026-04-13T19:01:54.398527"
+        }
+      ],
+      "failed": [
+        {
+          "id": "1e27bbc1-f978-4742-a239-376207bf52a9",
+          "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request failed with HTTP 502: Server error '502 Bad Gateway' for url 'https://notebooklm.google.com/_/LabsTailwindUi/data/google.internal.labs.tailwind.orchestration.v1.LabsTailwindOrchestrationService/GenerateFreeFormStreamed?bl=boq_labs-tailwind-frontend_20260301.03_p0&hl=en&_reqid=200000&rt=c&f.sid=131754016636139329'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502\"\n}",
+          "timestamp": "2026-04-13T18:51:47.516721"
+        },
+        {
+          "id": "670bd632-3f60-4d7c-8cc8-f387b35b3485",
+          "error": "NotebookLM error: {\n  \"error\": true,\n  \"code\": \"ERROR\",\n  \"message\": \"Chat request timed out: \"\n}",
+          "timestamp": "2026-04-13T19:00:34.170115"
+        }
+      ],
+      "started_at": "2026-04-12T21:39:34.325160",
+      "completed_at": null
+    }
+  },
+  "last_run": "2026-04-13T19:01:58.400602"
+}
