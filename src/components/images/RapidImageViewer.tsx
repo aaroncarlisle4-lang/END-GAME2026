@@ -67,7 +67,9 @@ interface RapidImageViewerProps {
   /** User-editable findings text */
   findings?: string;
   /** Callback to save findings text */
-  onSaveFindings?: (text: string) => void;
+  onSaveFindings?: (text: string, bucketName: string) => void;
+  /** Notifies parent when active bucket changes, for per-bucket findings */
+  onActiveBucketChange?: (bucketName: string) => void;
 }
 
 interface CaseCluster {
@@ -101,6 +103,7 @@ export function RapidImageViewer({
   vivaAnswer,
   findings,
   onSaveFindings,
+  onActiveBucketChange,
 }: RapidImageViewerProps) {
   const deleteImage = useMutation(api.studyImages.deleteImage);
   const deleteStack = useMutation(api.studyImages.deleteStack);
@@ -130,6 +133,7 @@ export function RapidImageViewer({
   const [importUrls, setImportUrls] = useState("");
   const [importLabel, setImportLabel] = useState("");
   const [importAttribution, setImportAttribution] = useState("");
+  const [importFindings, setImportFindings] = useState("");
 
   // 1. Group images into CaseClusters (stacks/standalone)
   const allClusters = useMemo<CaseCluster[]>(() => {
@@ -267,6 +271,7 @@ export function RapidImageViewer({
             setActiveBucketId(b);
             setCaseIndex(c);
             setSliceIndex(initialIndex - cumulative);
+            onActiveBucketChange?.(buckets[b]?.name ?? "");
             found = true;
             break;
           }
@@ -279,13 +284,14 @@ export function RapidImageViewer({
         setActiveBucketId(0);
         setCaseIndex(0);
         setSliceIndex(0);
+        onActiveBucketChange?.(buckets[0]?.name ?? "");
       }
-      
+
       setExpanded(false);
       setAutoPlay(false);
       sessionInitializedRef.current = sessionKey;
     }
-  }, [open, initialIndex, buckets, title]);
+  }, [open, initialIndex, buckets, title]); // eslint-disable-line react-hooks/exhaustive-deps
 
   // Reset internal state when navigating to a different case (horizontal navigation)
   useEffect(() => {
@@ -297,6 +303,7 @@ export function RapidImageViewer({
       setAnnotateMode(false);
       resetZoom();
       sessionInitializedRef.current = null;
+      onActiveBucketChange?.(buckets[0]?.name ?? "");
     }
   }, [sourceId]); // eslint-disable-line react-hooks/exhaustive-deps
 
@@ -759,6 +766,7 @@ export function RapidImageViewer({
                           setCaseIndex(0);
                           setSliceIndex(0);
                           setExpanded(false);
+                          onActiveBucketChange?.(bucket.name);
                         }}
                         className={`group relative px-5 py-4 flex items-center gap-4 transition-all ${
                           activeBucketIndex === idx
@@ -812,11 +820,10 @@ export function RapidImageViewer({
                 )}
 
                 {/* Left sidebar — thumbnail navigation */}
-                {cases.length > 0 && (
-                  <div
-                    ref={sidebarRef}
-                    className="w-44 shrink-0 bg-slate-800/20 border-r border-slate-700/20 overflow-y-auto py-2 px-2 flex flex-col gap-2"
-                  >
+                <div
+                  ref={sidebarRef}
+                  className="w-44 shrink-0 bg-slate-800/20 border-r border-slate-700/20 overflow-y-auto py-2 px-2 flex flex-col gap-2"
+                >
                     {/* Bucket Caption */}
                     <div className="px-3 py-3 mb-2 bg-slate-900/40 rounded-xl border border-white/5 shadow-inner">
                       <p className="text-[8px] font-black text-teal-500 uppercase tracking-widest leading-tight mb-1">
@@ -847,6 +854,13 @@ export function RapidImageViewer({
                         <p className="text-[8px] font-black text-teal-400 uppercase tracking-widest px-1">
                           Import to: {activeBucket.name}
                         </p>
+                        <input
+                          type="text"
+                          value={importFindings}
+                          onChange={(e) => setImportFindings(e.target.value)}
+                          placeholder="Findings (optional)"
+                          className="w-full text-[10px] px-2 py-1.5 rounded-lg bg-slate-800 border border-amber-500/30 text-amber-200 placeholder-amber-500/40 focus:border-amber-400"
+                        />
                         <textarea
                           value={importUrls}
                           onChange={(e) => {
@@ -890,9 +904,13 @@ export function RapidImageViewer({
                             const label = importLabel.trim() || "Image Stack";
                             const group = `[${bucket}] ${label} [${Date.now()}]`;
                             await imgUpload.addByUrlBatch(urls, group, label, importAttribution || undefined);
+                            if (importFindings.trim()) {
+                              onSaveFindings?.(importFindings.trim(), activeBucket.name);
+                            }
                             setImportUrls("");
                             setImportLabel("");
                             setImportAttribution("");
+                            setImportFindings("");
                             setShowImport(false);
                           }}
                           disabled={!importUrls.includes("https://") || imgUpload.isUploading}
@@ -958,8 +976,21 @@ export function RapidImageViewer({
                         </button>
                       );
                     })}
+
+                    {cases.length === 0 && !showImport && (
+                      <div className="flex flex-col items-center justify-center py-8 px-3 text-center gap-2">
+                        <ImageOff className="w-6 h-6 text-slate-600" />
+                        <p className="text-[9px] font-black text-slate-600 uppercase tracking-widest leading-tight">
+                          No images yet
+                        </p>
+                        {canImport && (
+                          <p className="text-[8px] text-slate-500">
+                            Use Import above to add images to this folder
+                          </p>
+                        )}
+                      </div>
+                    )}
                   </div>
-                )}
 
                 {/* Image area — fills remaining space */}
                 <div
@@ -997,9 +1028,8 @@ export function RapidImageViewer({
                     }
                   }}
                 >
-                  {/* Findings + Viva Summary — left column, primary folder only */}
-                  {activeBucketIndex === 0 && (
-                    <div className="absolute top-4 left-3 z-30 w-[28%] max-w-[440px] flex flex-col gap-2">
+                  {/* Findings + Viva Summary — left column */}
+                  <div className="absolute top-4 left-3 z-30 w-[28%] max-w-[440px] flex flex-col gap-2">
                       <div className="px-3 py-2 2xl:px-4 2xl:py-3 bg-slate-900/90 backdrop-blur-md border border-amber-500/30 rounded-2xl shadow-2xl">
                         <div className="flex items-center justify-between mb-2">
                           <p className="text-[9px] font-black text-amber-400 uppercase tracking-[0.25em]">Findings</p>
@@ -1027,7 +1057,7 @@ export function RapidImageViewer({
                               </button>
                               <button
                                 onClick={() => {
-                                  onSaveFindings?.(findingsDraft);
+                                  onSaveFindings?.(findingsDraft, activeBucket.name);
                                   setIsEditingFindings(false);
                                 }}
                                 className="text-[9px] text-amber-400 hover:text-amber-300 uppercase tracking-wider font-bold transition-colors"
@@ -1078,8 +1108,8 @@ export function RapidImageViewer({
                         )}
                       </div>
 
-                      {/* Viva Summary — stacked below findings, same column */}
-                      {vivaSummary && (
+                      {/* Viva Summary — stacked below findings, primary folder only */}
+                      {activeBucketIndex === 0 && vivaSummary && (
                         <div className="px-3 py-2 2xl:px-4 2xl:py-3 bg-slate-900/90 backdrop-blur-md border border-teal-500/30 rounded-2xl shadow-2xl pointer-events-none">
                           <p className="text-[9px] font-black text-teal-400 uppercase tracking-[0.25em] mb-1">Viva Summary</p>
                           <ul className="space-y-0.5 2xl:space-y-1">
@@ -1093,10 +1123,9 @@ export function RapidImageViewer({
                         </div>
                       )}
                     </div>
-                  )}
-                  {/* Right sidebar overlays — primary folder only */}
-                  {activeBucketIndex === 0 && (
-                    <>
+                  {/* Right sidebar overlays */}
+                  <>
+
                       {/* Viva Ideal Answer overlay (replaces discriminator boxes when toggled) */}
                       {showVivaAnswer && vivaAnswer && (
                         <div className="absolute top-4 right-3 z-30 pointer-events-auto w-[30%] max-w-[480px]">
@@ -1134,8 +1163,7 @@ export function RapidImageViewer({
                           )}
                         </div>
                       )}
-                    </>
-                  )}
+                  </>
                   {isLoading ? (
                     <div className="flex flex-col items-center gap-3">
                       <Loader2 className="w-10 h-10 text-teal-400 animate-spin" />
