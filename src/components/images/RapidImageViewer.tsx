@@ -409,7 +409,7 @@ export function RapidImageViewer({
     }
   }, [zoom, resetZoom]);
 
-  const activeBucket = orderedBuckets[activeBucketIndex] || orderedBuckets[0];
+  const activeBucket = orderedBuckets[activeBucketIndex] ?? orderedBuckets[0] ?? { name: "", clusters: [] as CaseCluster[] };
   const cases = activeBucket?.clusters || [];
 
   // Local ordered case list — optimistic reorder; persisted to Convex on drag end
