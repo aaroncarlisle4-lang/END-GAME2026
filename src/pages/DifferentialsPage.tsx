@@ -1431,6 +1431,21 @@ export function DifferentialsPage() {
     });
   }, [allPatterns, allMnemonics, allChapman, allHighYield, allYJL, activeTab]);
 
+  const groupedFavourites = useMemo(() => {
+    const yjlFavs = allFavourites.filter((f) => f.sourceType === "yjlCase");
+    const map = new Map<string, typeof yjlFavs>();
+    for (const fav of yjlFavs) {
+      const arr = map.get(fav.categoryName) ?? [];
+      arr.push(fav);
+      map.set(fav.categoryName, arr);
+    }
+    return Array.from(map.entries()).sort(([a], [b]) => {
+      const ai = YJL_CATEGORIES.indexOf(a);
+      const bi = YJL_CATEGORIES.indexOf(b);
+      return (ai === -1 ? 999 : ai) - (bi === -1 ? 999 : bi);
+    });
+  }, [allFavourites]);
+
   if (allPatterns === undefined || allMnemonics === undefined || allChapman === undefined || allHighYield === undefined || allYJL === undefined) {
     return (
       <div className="space-y-4">
@@ -1568,6 +1583,60 @@ export function DifferentialsPage() {
       <div className="relative">
         {activeTab === "highyield" && (
           <div className="space-y-12">
+            {groupedFavourites.length > 0 && (
+              <div className="animate-in fade-in duration-500">
+                <div className="flex items-end gap-3 mb-6 border-b border-rose-100 pb-2">
+                  <Heart className="w-5 h-5 text-rose-500 fill-rose-500" />
+                  <h2 className="text-xl font-black text-slate-900 uppercase tracking-tight">Favourited Cases</h2>
+                  <span className="text-[10px] font-black bg-rose-100 text-rose-500 px-2 py-1 rounded-md mb-1.5">
+                    {allFavourites.filter(f => f.sourceType === "yjlCase").length} CASES
+                  </span>
+                </div>
+                <div className="space-y-8">
+                  {groupedFavourites.map(([categoryName, favs]) => (
+                    <div key={categoryName}>
+                      <p className="text-[11px] font-black text-slate-400 uppercase tracking-widest mb-3">{categoryName}</p>
+                      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 2xl:grid-cols-4 gap-4">
+                        {favs.map((fav) => {
+                          const c = allYJL?.find((x) => x._id === fav.sourceId);
+                          if (!c) return null;
+                          const lookup = c.discriminatorId
+                            ? allDiscriminatorLookups?.find((d) => d._id === c.discriminatorId)
+                            : patternMap.get(c.title.toLowerCase().trim());
+                          const discriminator = openDiscriminatorId === c._id && activeFullDiscriminator ? activeFullDiscriminator : undefined;
+                          return (
+                            <ImageDropZone
+                              key={c._id}
+                              sourceType="yjlCase"
+                              sourceId={c._id}
+                              imageCount={c.imageCount ?? 0}
+                              onViewImages={() => handleViewImages("yjlCase", c._id, c.title)}
+                              differentialOptions={[c.title, ...c.top3Differentials]}
+                            >
+                              <YJLCard
+                                c={c}
+                                discriminator={discriminator}
+                                hasDiscriminator={!!lookup}
+                                discriminatorOpen={openDiscriminatorId === c._id}
+                                setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? c._id : null, open ? lookup?._id : undefined)}
+                                onViewImages={() => handleViewImages("yjlCase", c._id, c.title)}
+                                onAddNote={lookup ? () => setNoteTarget(lookup._id) : undefined}
+                                pendingNoteCount={lookup ? (pendingCounts[lookup._id] ?? 0) : 0}
+                                onEditDifferentials={() => setEditDiffTarget(c)}
+                                columnOrder={openDiscriminatorId === c._id ? openCasePrefs?.columnOrder : undefined}
+                                onColumnReorder={openDiscriminatorId === c._id ? handleColumnReorder : undefined}
+                                isFavourited={true}
+                                onToggleFavourite={() => toggleFavourite({ sourceType: "yjlCase", sourceId: c._id, categoryName: c.playlistCategory, title: c.title })}
+                              />
+                            </ImageDropZone>
+                          );
+                        })}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
             {groupedHighYield.map(([groupName, clusters]) => (
               <div key={groupName} className="animate-in fade-in duration-500">
                 <div className="flex items-end gap-3 mb-6 border-b border-slate-100 pb-2">
