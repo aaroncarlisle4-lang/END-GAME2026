@@ -19,7 +19,23 @@ import {
   Upload,
   Camera,
   BookOpen,
+  GripVertical,
 } from "lucide-react";
+import {
+  DndContext,
+  closestCenter,
+  PointerSensor,
+  useSensor,
+  useSensors,
+  type DragEndEvent,
+} from "@dnd-kit/core";
+import {
+  SortableContext,
+  verticalListSortingStrategy,
+  useSortable,
+  arrayMove,
+} from "@dnd-kit/sortable";
+import { CSS } from "@dnd-kit/utilities";
 import { ImageAnnotationLayer } from "./ImageAnnotationLayer";
 import { VivaAnswerOverlay } from "../viva/VivaAnswerOverlay";
 import type { VivaAnswerData } from "../viva/VivaAnswerOverlay";
@@ -83,6 +99,76 @@ interface Bucket {
   clusters: CaseCluster[];
 }
 
+function SortableThumbnail({
+  id,
+  img,
+  isActive,
+  caseAtI,
+  expanded,
+  sliceIndex,
+  onClick,
+}: {
+  id: string;
+  img: StudyImage;
+  isActive: boolean;
+  caseAtI: CaseCluster | null;
+  expanded: boolean;
+  sliceIndex: number;
+  onClick: () => void;
+}) {
+  const { attributes, listeners, setNodeRef, transform, transition, isDragging } =
+    useSortable({ id });
+
+  const style = {
+    transform: CSS.Transform.toString(transform),
+    transition,
+    opacity: isDragging ? 0.4 : 1,
+  };
+
+  return (
+    <div ref={setNodeRef} style={style} className="relative w-full group">
+      {!expanded && (
+        <div
+          {...attributes}
+          {...listeners}
+          className="absolute top-1 left-1 z-10 cursor-grab text-slate-400 hover:text-white opacity-0 group-hover:opacity-100 transition-opacity"
+          title="Drag to reorder"
+        >
+          <GripVertical className="w-3 h-3" />
+        </div>
+      )}
+      <button
+        data-active={isActive}
+        onClick={onClick}
+        className={`relative shrink-0 w-full aspect-square rounded-lg overflow-hidden border-2 transition-all ${
+          isActive
+            ? "border-teal-400 ring-2 ring-teal-400/30"
+            : "border-transparent opacity-50 hover:opacity-90"
+        }`}
+      >
+        {img.url ? (
+          <img src={img.url} alt="" className="w-full h-full object-cover" />
+        ) : (
+          <div className="w-full h-full bg-slate-700 flex items-center justify-center">
+            <ImageOff className="w-4 h-4 text-slate-500" />
+          </div>
+        )}
+        {!expanded && caseAtI && caseAtI.images.length > 1 && (
+          <div className="absolute bottom-0.5 right-0.5 bg-black/70 rounded px-1 flex items-center gap-0.5">
+            <Layers className="w-2.5 h-2.5 text-white" />
+            <span className="text-[8px] text-white font-bold">{caseAtI.images.length}</span>
+          </div>
+        )}
+        {expanded && (
+          <div className="absolute top-0.5 left-0.5 bg-black/60 rounded px-1">
+            <span className="text-[8px] text-white font-mono">{sliceIndex + 1}</span>
+          </div>
+        )}
+      </button>
+    </div>
+  );
+}
+
 export function RapidImageViewer({
   open,
   onClose,
@@ -108,6 +194,8 @@ export function RapidImageViewer({
   const deleteImage = useMutation(api.studyImages.deleteImage);
   const deleteStack = useMutation(api.studyImages.deleteStack);
   const deleteManifest = useMutation(api.studyImages.deleteManifest);
+  const reorderClustersMut = useMutation(api.studyImages.reorderClusters);
+  const sensors = useSensors(useSensor(PointerSensor, { activationConstraint: { distance: 5 } }));
   const [confirmDelete, setConfirmDelete] = useState(false);
   const [dragOverCenter, setDragOverCenter] = useState(false);
 
@@ -248,6 +336,19 @@ export function RapidImageViewer({
 
   const activeBucket = buckets[activeBucketIndex] || buckets[0];
   const cases = activeBucket?.clusters || [];
+
+  // Local ordered case list — optimistic reorder; persisted to Convex on drag end
+  const [localCaseOrder, setLocalCaseOrder] = useState<string[]>([]);
+
+  useEffect(() => {
+    setLocalCaseOrder(cases.map((c) => c.caseGroup ?? c.label));
+  }, [activeBucketIndex, cases.length]); // eslint-disable-line react-hooks/exhaustive-deps
+
+  const orderedCases = useMemo(() => {
+    if (localCaseOrder.length !== cases.length) return cases;
+    const map = new Map(cases.map((c) => [c.caseGroup ?? c.label, c]));
+    return localCaseOrder.map((key) => map.get(key)).filter(Boolean) as CaseCluster[];
+  }, [cases, localCaseOrder]);
 
   // Use a ref to track if we've already initialized this "open" session
   // This prevents background data updates from resetting the user's expanded state or position.
@@ -500,6 +601,30 @@ export function RapidImageViewer({
     }
   }, [caseIndex, sliceIndex, expanded]);
 
+  const handleThumbnailDragEnd = useCallback(
+    async (event: DragEndEvent) => {
+      const { active, over } = event;
+      if (!over || active.id === over.id) return;
+
+      const oldIndex = localCaseOrder.indexOf(String(active.id));
+      const newIndex = localCaseOrder.indexOf(String(over.id));
+      if (oldIndex === -1 || newIndex === -1) return;
+
+      const newOrder = arrayMove(localCaseOrder, oldIndex, newIndex);
+      setLocalCaseOrder(newOrder);
+      setCaseIndex(newIndex);
+
+      if (canImport && sourceType && sourceId) {
+        await reorderClustersMut({
+          sourceType,
+          sourceId,
+          orderedCaseGroups: newOrder,
+        });
+      }
+    },
+    [localCaseOrder, canImport, sourceType, sourceId, reorderClustersMut]
+  );
+
   const handleDelete = async () => {
     if (!currentCase) return;
 
@@ -549,7 +674,7 @@ export function RapidImageViewer({
 
   const thumbnailItems = expanded
     ? (currentCase?.images ?? [])
-    : cases.map((c) => c.images[0]);
+    : orderedCases.map((c) => c.images[0]);
 
   return (
     <Transition show={open} as={Fragment}>
@@ -921,61 +1046,57 @@ export function RapidImageViewer({
                       </div>
                     )}
 
-                    {thumbnailItems.map((img, i) => {
-                      if (!img) return null;
-                      const isActive = expanded
-                        ? i === sliceIndex
-                        : i === caseIndex;
-                      const caseAtI = expanded ? null : cases[i];
-                      return (
-                        <button
-                          key={img._id}
-                          data-active={isActive}
-                          draggable
-                          onDragStart={(e) => {
-                            e.dataTransfer.setData("text/plain", String(i));
-                            e.dataTransfer.effectAllowed = "move";
-                          }}
-                          onClick={() =>
-                            expanded ? setSliceIndex(i) : setCaseIndex(i)
-                          }
-                          className={`relative shrink-0 w-full aspect-square rounded-lg overflow-hidden border-2 transition-all cursor-grab active:cursor-grabbing ${
-                            isActive
-                              ? "border-teal-400 ring-2 ring-teal-400/30"
-                              : "border-transparent opacity-50 hover:opacity-90"
-                          }`}
+                    {expanded ? (
+                      // Expanded (slice) view — simple buttons, no reordering
+                      thumbnailItems.map((img, i) => {
+                        if (!img) return null;
+                        return (
+                          <SortableThumbnail
+                            key={img._id}
+                            id={img._id}
+                            img={img}
+                            isActive={i === sliceIndex}
+                            caseAtI={null}
+                            expanded={true}
+                            sliceIndex={i}
+                            onClick={() => setSliceIndex(i)}
+                          />
+                        );
+                      })
+                    ) : (
+                      // Case view — sortable thumbnails
+                      <DndContext
+                        sensors={sensors}
+                        collisionDetection={closestCenter}
+                        onDragEnd={handleThumbnailDragEnd}
+                      >
+                        <SortableContext
+                          items={localCaseOrder}
+                          strategy={verticalListSortingStrategy}
                         >
-                          {img.url ? (
-                            <img
-                              src={img.url}
-                              alt=""
-                              className="w-full h-full object-cover"
-                            />
-                          ) : (
-                            <div className="w-full h-full bg-slate-700 flex items-center justify-center">
-                              <ImageOff className="w-4 h-4 text-slate-500" />
-                            </div>
-                          )}
-                          {/* Stack badge */}
-                          {!expanded && caseAtI && caseAtI.images.length > 1 && (
-                            <div className="absolute bottom-0.5 right-0.5 bg-black/70 rounded px-1 flex items-center gap-0.5">
-                              <Layers className="w-2.5 h-2.5 text-white" />
-                              <span className="text-[8px] text-white font-bold">
-                                {caseAtI.images.length}
-                              </span>
-                            </div>
-                          )}
-                          {/* Slice number */}
-                          {expanded && (
-                            <div className="absolute top-0.5 left-0.5 bg-black/60 rounded px-1">
-                              <span className="text-[8px] text-white font-mono">
-                                {i + 1}
-                              </span>
-                            </div>
-                          )}
-                        </button>
-                      );
-                    })}
+                          {orderedCases.map((cluster, i) => {
+                            const firstImg = cluster.images[0];
+                            if (!firstImg) return null;
+                            const id = cluster.caseGroup ?? cluster.label;
+                            return (
+                              <SortableThumbnail
+                                key={id}
+                                id={id}
+                                img={firstImg}
+                                isActive={i === caseIndex}
+                                caseAtI={cluster}
+                                expanded={false}
+                                sliceIndex={0}
+                                onClick={() => {
+                                  setCaseIndex(i);
+                                  setSliceIndex(0);
+                                }}
+                              />
+                            );
+                          })}
+                        </SortableContext>
+                      </DndContext>
+                    )}
 
                     {cases.length === 0 && !showImport && (
                       <div className="flex flex-col items-center justify-center py-8 px-3 text-center gap-2">
