@@ -168,8 +168,12 @@ export const listBySource = query({
       )
       .collect();
 
+    const sortedManifests = [...manifests].sort(
+      (a, b) => (a.sortOrder ?? a._creationTime) - (b.sortOrder ?? b._creationTime)
+    );
+
     // Track which caseGroups are covered by manifests (for deduplication)
-    const manifestCaseGroups = new Set(manifests.map((m) => m.caseGroup));
+    const manifestCaseGroups = new Set(sortedManifests.map((m) => m.caseGroup));
 
     // Fetch individual image rows
     const images = await ctx.db
@@ -199,7 +203,7 @@ export const listBySource = query({
 
     // Expand manifest slices into the same shape
     const manifestResults = await Promise.all(
-      manifests.flatMap((manifest) =>
+      sortedManifests.flatMap((manifest) =>
         manifest.slices.map(async (slice) => {
           // For convex-stored slices within manifests, resolve the URL
           let url = slice.url;
@@ -536,5 +540,25 @@ export const fetchRadiopaediaStudy = action({
     }
 
     return { studyId: args.studyId, label, urls };
+  },
+});
+
+export const reorderClusters = mutation({
+  args: {
+    sourceType: v.string(),
+    sourceId: v.string(),
+    orderedCaseGroups: v.array(v.string()),
+  },
+  handler: async (ctx, args) => {
+    const allImages = await ctx.db.query("studyImages").withIndex("by_source", (q) => q.eq("sourceType", args.sourceType).eq("sourceId", args.sourceId)).collect();
+    const allManifests = await ctx.db.query("studyManifests").withIndex("by_source", (q) => q.eq("sourceType", args.sourceType).eq("sourceId", args.sourceId)).collect();
+    for (let i = 0; i < args.orderedCaseGroups.length; i++) {
+      const caseGroup = args.orderedCaseGroups[i];
+      const base = i * 1000;
+      const imgs = allImages.filter((img) => img.caseGroup === caseGroup);
+      for (let j = 0; j < imgs.length; j++) { await ctx.db.patch(imgs[j]._id, { sortOrder: base + j }); }
+      const manifests = allManifests.filter((m) => m.caseGroup === caseGroup);
+      for (let j = 0; j < manifests.length; j++) { await ctx.db.patch(manifests[j]._id, { sortOrder: base + j }); }
+    }
   },
 });
