@@ -166,7 +166,10 @@ export function RapidImageViewer({
 
     for (const cluster of allClusters) {
       // Look for "Differential - Label" pattern in caseGroup
-      const match = cluster.caseGroup?.match(/^(.+?)\s*-\s*.*\[\d+\]$/) || cluster.caseGroup?.match(/^(.+?)\s*-\s*.*$/);
+      const match =
+        cluster.caseGroup?.match(/^\[(.+?)\]/) ||
+        cluster.caseGroup?.match(/^(.+?)\s*-\s*.*\[\d+\]$/) ||
+        cluster.caseGroup?.match(/^(.+?)\s*-\s*.*$/);
       if (match) {
         const bucketName = match[1].trim();
         const arr = bucketMap.get(bucketName) || [];
@@ -885,7 +888,7 @@ export function RapidImageViewer({
                             if (urls.length === 0) return;
                             const bucket = activeBucket.name;
                             const label = importLabel.trim() || "Image Stack";
-                            const group = `${bucket} - ${label} [${Date.now()}]`;
+                            const group = `[${bucket}] ${label} [${Date.now()}]`;
                             await imgUpload.addByUrlBatch(urls, group, label, importAttribution || undefined);
                             setImportUrls("");
                             setImportLabel("");
