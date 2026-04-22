@@ -517,6 +517,8 @@ function YJLCard({
   onNavigateDiscriminator,
   discriminatorPosition,
   onEditDifferentials,
+  columnOrder,
+  onColumnReorder,
 }: {
   c: YJLCase;
   discriminator?: Doc<"discriminators"> | null;
@@ -529,6 +531,8 @@ function YJLCard({
   onNavigateDiscriminator?: (direction: "prev" | "next") => void;
   discriminatorPosition?: { current: number; total: number };
   onEditDifferentials?: () => void;
+  columnOrder?: number[];
+  onColumnReorder?: (newOrder: number[]) => void;
 }) {
   const [expanded, setExpanded] = useState(false);
   const meta = getCategoryMeta(c.playlistCategory) ?? getCategoryMeta("Chest");
@@ -643,6 +647,8 @@ function YJLCard({
               rowOrder={YJL2B_ROW_ORDER}
               onNavigateCase={onNavigateDiscriminator}
               casePosition={discriminatorPosition}
+              columnOrder={columnOrder}
+              onColumnReorder={onColumnReorder}
             />
           ) : (
             <button
@@ -1120,6 +1126,17 @@ export function DifferentialsPage() {
     if (!viewerTarget) return;
     saveFolderOrder({ sourceType: viewerTarget.sourceType, sourceId: viewerTarget.sourceId, folderOrder: newOrder });
   }, [viewerTarget, saveFolderOrder]);
+
+  const saveColumnOrder = useMutation(api.viewerPreferences.setColumnOrder);
+  const openCasePrefs = useQuery(
+    api.viewerPreferences.get,
+    openDiscriminatorId ? { sourceType: "yjlCase", sourceId: openDiscriminatorId } : "skip"
+  );
+
+  const handleColumnReorder = useCallback((newOrder: number[]) => {
+    if (!openDiscriminatorId) return;
+    saveColumnOrder({ sourceType: "yjlCase", sourceId: openDiscriminatorId, columnOrder: newOrder });
+  }, [openDiscriminatorId, saveColumnOrder]);
 
   const handleViewImages = (
     sourceType: "differentialPattern" | "mnemonic" | "chapman" | "yjlCase",
@@ -1751,6 +1768,8 @@ export function DifferentialsPage() {
                             total: discriminatorSiblings.siblings.length,
                           } : undefined}
                           onEditDifferentials={() => setEditDiffTarget(c)}
+                          columnOrder={openDiscriminatorId === c._id ? openCasePrefs?.columnOrder : undefined}
+                          onColumnReorder={openDiscriminatorId === c._id ? handleColumnReorder : undefined}
                         />
                       </ImageDropZone>
                     );

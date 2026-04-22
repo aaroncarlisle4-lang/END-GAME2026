@@ -1,4 +1,4 @@
-import { useState, useMemo, Fragment, useRef, useEffect } from "react";
+import { useState, useMemo, Fragment, useRef, useEffect, useCallback } from "react";
 import { Dialog, DialogPanel, DialogTitle, Transition, TransitionChild } from "@headlessui/react";
 import { useMutation } from "convex/react";
 import { api } from "../../../convex/_generated/api";
@@ -7,8 +7,23 @@ import {
   GitBranch, X, CheckCircle2, AlertTriangle, Fingerprint, MapPin,
   Activity, UserSquare2, Info, Sparkles, Edit2, Save, Type,
   Highlighter, Underline as UnderlineIcon, Check, RotateCcw, MonitorDot,
-  ChevronLeft, ChevronRight, ChevronsUpDown
+  ChevronLeft, ChevronRight, ChevronsUpDown, GripVertical
 } from "lucide-react";
+import {
+  DndContext,
+  closestCenter,
+  PointerSensor,
+  useSensor,
+  useSensors,
+  type DragEndEvent,
+} from "@dnd-kit/core";
+import {
+  SortableContext,
+  horizontalListSortingStrategy,
+  useSortable,
+  arrayMove,
+} from "@dnd-kit/sortable";
+import { CSS } from "@dnd-kit/utilities";
 
 interface Props {
   discriminator: Doc<"discriminators">;
@@ -21,6 +36,10 @@ interface Props {
   onNavigateCase?: (direction: "prev" | "next") => void;
   /** Current position in the case list */
   casePosition?: { current: number; total: number };
+  /** Persisted column order (array of originalIndex values) */
+  columnOrder?: number[];
+  /** Callback when user reorders columns */
+  onColumnReorder?: (newOrder: number[]) => void;
 }
 
 // ── Helpers ──
@@ -81,6 +100,50 @@ const PATTERN_ROWS: { key: string; label: string; icon: any; color: string; bg: 
   { key: "commonPitfalls", label: "COMMON PITFALLS", icon: AlertTriangle, color: "text-orange-700", bg: "bg-orange-50", emptyText: "No pitfalls recorded" },
   { key: "nextBestStep", label: "NEXT BEST STEP", icon: Info, color: "text-indigo-700", bg: "bg-indigo-50", emptyText: "No next step recorded" },
 ];
+
+function SortableColumnHeader({
+  id,
+  d,
+  children,
+}: {
+  id: string;
+  d: { isCorrectDiagnosis?: boolean };
+  children: React.ReactNode;
+}) {
+  const { attributes, listeners, setNodeRef, transform, transition, isDragging } =
+    useSortable({ id });
+
+  const style = {
+    transform: CSS.Transform.toString(transform),
+    transition,
+    opacity: isDragging ? 0.4 : 1,
+  };
+
+  return (
+    <th
+      ref={setNodeRef}
+      style={style}
+      className={`p-6 border-b-2 border-r last:border-r-0 border-slate-200 text-center relative ${
+        d.isCorrectDiagnosis
+          ? "bg-slate-900 text-white z-10"
+          : "bg-white text-slate-900"
+      }`}
+    >
+      {d.isCorrectDiagnosis && (
+        <div className="absolute -top-px left-0 right-0 h-1 bg-teal-500 shadow-[0_0_10px_rgba(20,184,166,0.8)]" />
+      )}
+      <div
+        {...attributes}
+        {...listeners}
+        className="absolute top-2 right-2 cursor-grab text-slate-400 hover:text-slate-600"
+        title="Drag to reorder column"
+      >
+        <GripVertical className="w-3 h-3" />
+      </div>
+      {children}
+    </th>
+  );
+}
 
 /**
  * Intelligent medical text parser for rich formatting
@@ -274,7 +337,7 @@ export const YJL2B_ROW_ORDER = [
   "complicationsSeriousAlternatives",
 ];
 
-export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen, onViewImages, rowOrder, onNavigateCase, casePosition }: Props) {
+export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen, onViewImages, rowOrder, onNavigateCase, casePosition, columnOrder, onColumnReorder }: Props) {
   const [internalOpen, setInternalOpen] = useState(false);
   
   const open = externalOpen !== undefined ? (externalOpen as boolean) : internalOpen;
@@ -377,10 +440,44 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
   }, [allDiffs, discriminator]);
 
   const diffs = sortedDiffs;
-  const totalPages = Math.ceil(diffs.length / itemsPerPage);
-  const currentDiffs = diffs.slice(currentPage * itemsPerPage, (currentPage + 1) * itemsPerPage);
+
+  // Apply user's custom column order if provided
+  const orderedDiffs = useMemo(() => {
+    if (!columnOrder || columnOrder.length !== diffs.length) return diffs;
+    const map = new Map(diffs.map((d) => [d.originalIndex, d]));
+    return columnOrder.map((idx) => map.get(idx)).filter(Boolean) as typeof diffs;
+  }, [diffs, columnOrder]);
+
+  const effectiveDiffs = columnOrder ? orderedDiffs : diffs;
+  const totalPages = Math.ceil(effectiveDiffs.length / itemsPerPage);
+  const currentDiffs = effectiveDiffs.slice(currentPage * itemsPerPage, (currentPage + 1) * itemsPerPage);
   
   const rows = rowOrder || DEFAULT_ROW_ORDER;
+
+  // ── Column drag-and-drop ──
+  const columnSensors = useSensors(
+    useSensor(PointerSensor, { activationConstraint: { distance: 5 } })
+  );
+
+  const handleColumnDragEnd = useCallback(
+    (event: DragEndEvent) => {
+      const { active, over } = event;
+      if (!over || active.id === over.id) return;
+
+      const allIds = effectiveDiffs.map((d) => String(d.originalIndex));
+      const oldIdx = allIds.indexOf(String(active.id));
+      const newIdx = allIds.indexOf(String(over.id));
+      if (oldIdx === -1 || newIdx === -1) return;
+
+      const newOrder = arrayMove(
+        effectiveDiffs.map((d) => d.originalIndex),
+        oldIdx,
+        newIdx
+      );
+      onColumnReorder?.(newOrder);
+    },
+    [effectiveDiffs, onColumnReorder]
+  );
 
   // ── Editing Handlers ──
   const handleSave = async () => {
@@ -630,32 +727,37 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
                                 )}
                               </div>
                             </th>
-                            {currentDiffs.map((d, i) => (
-                              <th
-                                key={i}
-                                className={`p-6 border-b-2 border-r last:border-r-0 border-slate-200 text-center relative ${
-                                  d.isCorrectDiagnosis 
-                                    ? "bg-slate-900 text-white z-10" 
-                                    : "bg-white text-slate-900"
-                                }`}
+                            <DndContext
+                              sensors={columnSensors}
+                              collisionDetection={closestCenter}
+                              onDragEnd={handleColumnDragEnd}
+                            >
+                              <SortableContext
+                                items={currentDiffs.map((d) => String(d.originalIndex))}
+                                strategy={horizontalListSortingStrategy}
                               >
-                                {d.isCorrectDiagnosis && (
-                                  <div className="absolute -top-px left-0 right-0 h-1 bg-teal-500 shadow-[0_0_10px_rgba(20,184,166,0.8)]" />
-                                )}
-                                <div className="flex flex-col items-center gap-1.5">
-                                  <span className={`text-[9px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full border shadow-sm ${
-                                    d.isCorrectDiagnosis ? 'bg-teal-500 text-white border-teal-400' : 
-                                    (d as any).isSeriousAlternative ? 'bg-rose-500 text-white border-rose-400' :
-                                    'bg-slate-100 text-slate-400 border-slate-200'
-                                  }`}>
-                                    {d.isCorrectDiagnosis ? 'Primary Match' : (d as any).isSeriousAlternative ? 'Serious Alt' : 'Differential'}
-                                  </span>
-                                  <span className="text-base font-black uppercase tracking-tight leading-tight">
-                                    {d.diagnosis}
-                                  </span>
-                                </div>
-                              </th>
-                            ))}
+                                {currentDiffs.map((d) => (
+                                  <SortableColumnHeader
+                                    key={String(d.originalIndex)}
+                                    id={String(d.originalIndex)}
+                                    d={d}
+                                  >
+                                    <div className="flex flex-col items-center gap-1.5">
+                                      <span className={`text-[9px] font-black uppercase tracking-widest px-2.5 py-1 rounded-full border shadow-sm ${
+                                        d.isCorrectDiagnosis ? "bg-teal-500 text-white border-teal-400" :
+                                        (d as any).isSeriousAlternative ? "bg-rose-500 text-white border-rose-400" :
+                                        "bg-slate-100 text-slate-400 border-slate-200"
+                                      }`}>
+                                        {d.isCorrectDiagnosis ? "Primary Match" : (d as any).isSeriousAlternative ? "Serious Alt" : "Differential"}
+                                      </span>
+                                      <span className="text-base font-black uppercase tracking-tight leading-tight">
+                                        {d.diagnosis}
+                                      </span>
+                                    </div>
+                                  </SortableColumnHeader>
+                                ))}
+                              </SortableContext>
+                            </DndContext>
                           </tr>
                         </thead>
                         <tbody className="divide-y divide-slate-100">
