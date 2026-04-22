@@ -343,6 +343,7 @@ export default defineSchema({
       sortOrder: v.number(),
     })),
     createdAt: v.number(),
+    sortOrder: v.optional(v.number()),
   })
     .index("by_source", ["sourceType", "sourceId"]),
 
@@ -497,10 +498,28 @@ export default defineSchema({
     .index("by_name", ["name"]),
 
   viewerFindings: defineTable({
-    sourceType: v.string(),  // "differentialPattern" | "mnemonic" | "chapman" | "rapidCase" | "yjlCase"
+    sourceType: v.string(),
     sourceId: v.string(),
-    findings: v.string(),    // free-text findings entered by user
+    bucketName: v.optional(v.string()), // "" = title folder, undefined = legacy
+    findings: v.string(),
     updatedAt: v.number(),
   })
     .index("by_source", ["sourceType", "sourceId"]),
+
+  viewerPreferences: defineTable({
+    sourceType: v.string(),
+    sourceId: v.string(),
+    folderOrder: v.optional(v.array(v.string())),
+    columnOrder: v.optional(v.array(v.number())),
+  })
+    .index("by_source", ["sourceType", "sourceId"]),
+
+  userFavourites: defineTable({
+    sourceType: v.string(),
+    sourceId: v.string(),
+    categoryName: v.string(),
+    title: v.string(),
+  })
+    .index("by_source", ["sourceType", "sourceId"])
+    .index("by_category", ["sourceType", "categoryName"]),
 });
