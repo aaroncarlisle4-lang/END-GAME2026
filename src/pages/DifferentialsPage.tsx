@@ -1030,7 +1030,7 @@ export function DifferentialsPage() {
   const [editDiffTarget, setEditDiffTarget] = useState<YJLCase | null>(null);
 
   // Add Note state
-  const [noteTarget, setNoteTarget] = useState<Doc<"discriminators"> | null>(null);
+  const [noteTarget, setNoteTarget] = useState<Id<"discriminators"> | null>(null);
   const pendingCounts = useQuery(api.pendingNotes.getPendingCounts) ?? {};
 
   const {
@@ -1550,7 +1550,7 @@ export function DifferentialsPage() {
                                   discriminatorOpen={isExpanded}
                                   setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? dp._id : null, open ? lookup?._id : undefined)}
                                   onViewImages={() => handleViewImages("differentialPattern", dp._id, dp.pattern)}
-                                  onAddNote={lookup ? () => setNoteTarget(activeFullDiscriminator ?? null) : undefined}
+                                  onAddNote={lookup ? () => setNoteTarget(lookup._id) : undefined}
                                   pendingNoteCount={lookup ? (pendingCounts[lookup._id] ?? 0) : 0}
                                 />
                               </ImageDropZone>
@@ -1581,7 +1581,7 @@ export function DifferentialsPage() {
                                   discriminatorOpen={isExpanded}
                                   setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? m._id : null, open ? lookup?._id : undefined)}
                                   onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
-                                  onAddNote={lookup ? () => setNoteTarget(activeFullDiscriminator ?? null) : undefined}
+                                  onAddNote={lookup ? () => setNoteTarget(lookup._id) : undefined}
                                   pendingNoteCount={lookup ? (pendingCounts[lookup._id] ?? 0) : 0}
                                 />
                               </ImageDropZone>
@@ -1635,7 +1635,7 @@ export function DifferentialsPage() {
                             discriminatorOpen={isExpanded}
                             setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? dp._id : null, open ? lookup?._id : undefined)}
                             onViewImages={() => handleViewImages("differentialPattern", dp._id, dp.pattern)}
-                            onAddNote={lookup ? () => setNoteTarget(activeFullDiscriminator ?? null) : undefined}
+                            onAddNote={lookup ? () => setNoteTarget(lookup._id) : undefined}
                             pendingNoteCount={lookup ? (pendingCounts[lookup._id] ?? 0) : 0}
                           />
                         </ImageDropZone>
@@ -1677,7 +1677,7 @@ export function DifferentialsPage() {
                       discriminatorOpen={isExpanded}
                       setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? m._id : null, open ? lookup?._id : undefined)}
                       onViewImages={() => handleViewImages("mnemonic", m._id, m.pattern)}
-                      onAddNote={lookup ? () => setNoteTarget(activeFullDiscriminator ?? null) : undefined}
+                      onAddNote={lookup ? () => setNoteTarget(lookup._id) : undefined}
                       pendingNoteCount={lookup ? (pendingCounts[lookup._id] ?? 0) : 0}
                     />
                   </ImageDropZone>
@@ -1732,7 +1732,7 @@ export function DifferentialsPage() {
                           discriminatorOpen={openDiscriminatorId === c._id}
                           setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? c._id : null, open ? lookup?._id : undefined)}
                           onViewImages={() => handleViewImages("yjlCase", c._id, c.title)}
-                          onAddNote={lookup ? () => setNoteTarget(activeFullDiscriminator ?? null) : undefined}
+                          onAddNote={lookup ? () => setNoteTarget(lookup._id) : undefined}
                           pendingNoteCount={lookup ? (pendingCounts[lookup._id] ?? 0) : 0}
                           onNavigateDiscriminator={openDiscriminatorId === c._id ? handleNavigateDiscriminator : undefined}
                           discriminatorPosition={openDiscriminatorId === c._id && discriminatorSiblings ? {
@@ -1785,7 +1785,7 @@ export function DifferentialsPage() {
                       discriminatorOpen={isExpanded}
                       setDiscriminatorOpen={(open) => setOpenDiscriminatorId(open ? c._id : null, open ? lookup?._id : undefined)}
                       onViewImages={() => handleViewImages("chapman", c._id, c.pattern)}
-                      onAddNote={lookup ? () => setNoteTarget(activeFullDiscriminator ?? null) : undefined}
+                      onAddNote={lookup ? () => setNoteTarget(lookup._id) : undefined}
                       pendingNoteCount={lookup ? (pendingCounts[lookup._id] ?? 0) : 0}
                     />
                   </ImageDropZone>
@@ -1821,7 +1821,7 @@ export function DifferentialsPage() {
         <AddNoteModal
           open={!!noteTarget}
           onClose={() => setNoteTarget(null)}
-          discriminator={noteTarget}
+          discriminatorId={noteTarget}
         />
       )}
 
