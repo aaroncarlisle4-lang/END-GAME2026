@@ -550,8 +550,9 @@ export const reorderClusters = mutation({
     orderedCaseGroups: v.array(v.string()),
   },
   handler: async (ctx, args) => {
-    const allImages = await ctx.db.query("studyImages").withIndex("by_source", (q) => q.eq("sourceType", args.sourceType).eq("sourceId", args.sourceId)).collect();
-    const allManifests = await ctx.db.query("studyManifests").withIndex("by_source", (q) => q.eq("sourceType", args.sourceType).eq("sourceId", args.sourceId)).collect();
+    const st = args.sourceType as "mnemonic" | "differentialPattern" | "chapman" | "rapidCase" | "yjlCase";
+    const allImages = await ctx.db.query("studyImages").withIndex("by_source", (q) => q.eq("sourceType", st).eq("sourceId", args.sourceId)).collect();
+    const allManifests = await ctx.db.query("studyManifests").withIndex("by_source", (q) => q.eq("sourceType", st).eq("sourceId", args.sourceId)).collect();
     for (let i = 0; i < args.orderedCaseGroups.length; i++) {
       const caseGroup = args.orderedCaseGroups[i];
       const base = i * 1000;
