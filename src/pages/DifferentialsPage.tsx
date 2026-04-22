@@ -1110,6 +1110,17 @@ export function DifferentialsPage() {
     saveFindings({ sourceType: viewerTarget.sourceType, sourceId: viewerTarget.sourceId, bucketName, findings: text });
   }, [viewerTarget, saveFindings]);
 
+  const viewerPrefs = useQuery(
+    api.viewerPreferences.get,
+    viewerTarget ? { sourceType: viewerTarget.sourceType, sourceId: viewerTarget.sourceId } : "skip"
+  );
+  const saveFolderOrder = useMutation(api.viewerPreferences.setFolderOrder);
+
+  const handleFolderReorder = useCallback((newOrder: string[]) => {
+    if (!viewerTarget) return;
+    saveFolderOrder({ sourceType: viewerTarget.sourceType, sourceId: viewerTarget.sourceId, folderOrder: newOrder });
+  }, [viewerTarget, saveFolderOrder]);
+
   const handleViewImages = (
     sourceType: "differentialPattern" | "mnemonic" | "chapman" | "yjlCase",
     sourceId: string,
@@ -1907,6 +1918,8 @@ export function DifferentialsPage() {
         findings={viewerFindingsMap.get(viewerActiveBucketName) ?? ""}
         onSaveFindings={(text) => handleSaveFindings(text, viewerActiveBucketName)}
         onActiveBucketChange={(name) => setViewerActiveBucketName(name)}
+        savedFolderOrder={viewerPrefs?.folderOrder}
+        onFolderReorder={handleFolderReorder}
       />
     </div>
   );

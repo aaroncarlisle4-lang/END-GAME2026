@@ -86,6 +86,10 @@ interface RapidImageViewerProps {
   onSaveFindings?: (text: string, bucketName: string) => void;
   /** Notifies parent when active bucket changes, for per-bucket findings */
   onActiveBucketChange?: (bucketName: string) => void;
+  /** Saved folder order (bucket names) from Convex */
+  savedFolderOrder?: string[];
+  /** Persist new folder order */
+  onFolderReorder?: (newOrder: string[]) => void;
 }
 
 interface CaseCluster {
@@ -97,6 +101,57 @@ interface CaseCluster {
 interface Bucket {
   name: string;
   clusters: CaseCluster[];
+}
+
+function SortableFolderItem({
+  bucket,
+  isActive,
+  onClick,
+}: {
+  bucket: Bucket;
+  isActive: boolean;
+  onClick: () => void;
+}) {
+  const { attributes, listeners, setNodeRef, transform, transition, isDragging } =
+    useSortable({ id: bucket.name });
+
+  const style = {
+    transform: CSS.Transform.toString(transform),
+    transition,
+    opacity: isDragging ? 0.5 : 1,
+  };
+
+  return (
+    <div ref={setNodeRef} style={style} className="relative group">
+      <span
+        {...attributes}
+        {...listeners}
+        className="absolute left-1 top-1/2 -translate-y-1/2 z-10 cursor-grab text-slate-600 hover:text-slate-400 opacity-0 group-hover:opacity-100 transition-opacity"
+      >
+        <GripVertical className="w-3 h-3" />
+      </span>
+      <button
+        onClick={onClick}
+        className={`group relative w-full px-5 py-4 flex items-center gap-4 transition-all ${
+          isActive
+            ? "bg-teal-500/10 border-r-4 border-teal-500"
+            : "hover:bg-slate-800/50"
+        }`}
+      >
+        <div className={`w-2.5 h-2.5 rounded-full shrink-0 transition-transform duration-300 ${
+          isActive
+            ? "bg-teal-500 shadow-[0_0_12px_rgba(20,184,166,0.9)] scale-110"
+            : "bg-slate-700 group-hover:bg-slate-500"
+        }`} />
+        <span className={`text-[12px] font-black uppercase tracking-normal text-left leading-tight transition-colors ${
+          isActive ? "text-white" : "text-slate-500 group-hover:text-slate-300"
+        }`}>
+          {bucket.name}
+        </span>
+        <span className="text-[9px] text-slate-600 font-mono">{bucket.clusters.length || 0}</span>
+      </button>
+    </div>
+  );
 }
 
 function SortableThumbnail({
@@ -190,6 +245,8 @@ export function RapidImageViewer({
   findings,
   onSaveFindings,
   onActiveBucketChange,
+  savedFolderOrder,
+  onFolderReorder,
 }: RapidImageViewerProps) {
   const deleteImage = useMutation(api.studyImages.deleteImage);
   const deleteStack = useMutation(api.studyImages.deleteStack);
@@ -300,6 +357,19 @@ export function RapidImageViewer({
     return result;
   }, [allClusters, differentialFolders]);
 
+  const orderedBuckets = useMemo<Bucket[]>(() => {
+    if (!savedFolderOrder || savedFolderOrder.length === 0) return buckets;
+    const map = new Map(buckets.map((b) => [b.name, b]));
+    const reordered = savedFolderOrder
+      .map((name) => map.get(name))
+      .filter(Boolean) as Bucket[];
+    const seen = new Set(savedFolderOrder);
+    for (const b of buckets) {
+      if (!seen.has(b.name)) reordered.push(b);
+    }
+    return reordered;
+  }, [buckets, savedFolderOrder]);
+
   const [activeBucketIndex, setActiveBucketId] = useState(0);
   const [caseIndex, setCaseIndex] = useState(0);
   const [sliceIndex, setSliceIndex] = useState(0);
@@ -334,7 +404,7 @@ export function RapidImageViewer({
     }
   }, [zoom, resetZoom]);
 
-  const activeBucket = buckets[activeBucketIndex] || buckets[0];
+  const activeBucket = orderedBuckets[activeBucketIndex] || orderedBuckets[0];
   const cases = activeBucket?.clusters || [];
 
   // Local ordered case list — optimistic reorder; persisted to Convex on drag end
@@ -362,17 +432,17 @@ export function RapidImageViewer({
 
     // Only run initialization logic if the viewer just opened or the target case/index changed significantly
     const sessionKey = `${title}-${initialIndex}`;
-    if (sessionInitializedRef.current !== sessionKey && buckets.length > 0) {
+    if (sessionInitializedRef.current !== sessionKey && orderedBuckets.length > 0) {
       let cumulative = 0;
       let found = false;
-      for (let b = 0; b < buckets.length; b++) {
-        for (let c = 0; c < buckets[b].clusters.length; c++) {
-          const cluster = buckets[b].clusters[c];
+      for (let b = 0; b < orderedBuckets.length; b++) {
+        for (let c = 0; c < orderedBuckets[b].clusters.length; c++) {
+          const cluster = orderedBuckets[b].clusters[c];
           if (cumulative + cluster.images.length > initialIndex) {
             setActiveBucketId(b);
             setCaseIndex(c);
             setSliceIndex(initialIndex - cumulative);
-            onActiveBucketChange?.(buckets[b]?.name ?? "");
+            onActiveBucketChange?.(orderedBuckets[b]?.name ?? "");
             found = true;
             break;
           }
@@ -380,12 +450,12 @@ export function RapidImageViewer({
         }
         if (found) break;
       }
-      
+
       if (!found) {
         setActiveBucketId(0);
         setCaseIndex(0);
         setSliceIndex(0);
-        onActiveBucketChange?.(buckets[0]?.name ?? "");
+        onActiveBucketChange?.(orderedBuckets[0]?.name ?? "");
       }
 
       setExpanded(false);
@@ -404,7 +474,7 @@ export function RapidImageViewer({
       setAnnotateMode(false);
       resetZoom();
       sessionInitializedRef.current = null;
-      onActiveBucketChange?.(buckets[0]?.name ?? "");
+      onActiveBucketChange?.(orderedBuckets[0]?.name ?? "");
     }
   }, [sourceId]); // eslint-disable-line react-hooks/exhaustive-deps
 
@@ -429,7 +499,7 @@ export function RapidImageViewer({
   const goNextCase = useCallback(() => {
     if (caseIndex < cases.length - 1) {
       setCaseIndex(caseIndex + 1);
-    } else if (activeBucketIndex < buckets.length - 1) {
+    } else if (activeBucketIndex < orderedBuckets.length - 1) {
       setActiveBucketId(activeBucketIndex + 1);
       setCaseIndex(0);
     } else {
@@ -439,7 +509,7 @@ export function RapidImageViewer({
     setSliceIndex(0);
     setExpanded(false);
     setAnnotateMode(false);
-  }, [caseIndex, cases.length, activeBucketIndex, buckets.length]);
+  }, [caseIndex, cases.length, activeBucketIndex, orderedBuckets.length]);
 
   const goPrevCase = useCallback(() => {
     if (caseIndex > 0) {
@@ -447,16 +517,16 @@ export function RapidImageViewer({
     } else if (activeBucketIndex > 0) {
       const prevBucketIdx = activeBucketIndex - 1;
       setActiveBucketId(prevBucketIdx);
-      setCaseIndex(buckets[prevBucketIdx].clusters.length - 1);
+      setCaseIndex(orderedBuckets[prevBucketIdx].clusters.length - 1);
     } else {
-      const lastBucketIdx = buckets.length - 1;
+      const lastBucketIdx = orderedBuckets.length - 1;
       setActiveBucketId(lastBucketIdx);
-      setCaseIndex(buckets[lastBucketIdx].clusters.length - 1);
+      setCaseIndex(orderedBuckets[lastBucketIdx].clusters.length - 1);
     }
     setSliceIndex(0);
     setExpanded(false);
     setAnnotateMode(false);
-  }, [caseIndex, activeBucketIndex, buckets]);
+  }, [caseIndex, activeBucketIndex, orderedBuckets]);
 
   // Keyboard navigation
   useEffect(() => {
@@ -566,7 +636,7 @@ export function RapidImageViewer({
         // LOCK TO STACK: When expanded, scrolling ONLY moves through slices of this stack.
         // It will not jump to the next case automatically.
         setSliceIndex((i) => Math.max(0, Math.min(currentCase.images.length - 1, i + delta)));
-      } else if (!expanded && (cases.length > 1 || buckets.length > 1)) {
+      } else if (!expanded && (cases.length > 1 || orderedBuckets.length > 1)) {
         // GALLERY MODE: Scroll between cases/buckets
         if (delta > 0) goNextCase();
         else goPrevCase();
@@ -575,14 +645,14 @@ export function RapidImageViewer({
 
     el.addEventListener("wheel", handleWheel, { passive: false });
     return () => el.removeEventListener("wheel", handleWheel);
-  }, [open, expanded, currentCase, cases.length, buckets.length, goNextCase, goPrevCase]);
+  }, [open, expanded, currentCase, cases.length, orderedBuckets.length, goNextCase, goPrevCase]);
 
   // Preload adjacent images
   useEffect(() => {
-    if (!open || buckets.length === 0) return;
+    if (!open || orderedBuckets.length === 0) return;
     // Current, Next, Prev cluster logic
-    const nextCase = cases[caseIndex + 1] || buckets[(activeBucketIndex + 1) % buckets.length]?.clusters[0];
-    const prevCase = cases[caseIndex - 1] || buckets[(activeBucketIndex - 1 + buckets.length) % buckets.length]?.clusters.slice(-1)[0];
+    const nextCase = cases[caseIndex + 1] || orderedBuckets[(activeBucketIndex + 1) % orderedBuckets.length]?.clusters[0];
+    const prevCase = cases[caseIndex - 1] || orderedBuckets[(activeBucketIndex - 1 + orderedBuckets.length) % orderedBuckets.length]?.clusters.slice(-1)[0];
     
     [nextCase?.images[0]?.url, prevCase?.images[0]?.url].forEach((url) => {
       if (url) {
@@ -708,7 +778,7 @@ export function RapidImageViewer({
                   <h2 className="text-sm font-bold text-white truncate max-w-xs">
                     {title}
                   </h2>
-                  {buckets.length > 0 && (
+                  {orderedBuckets.length > 0 && (
                     <span className="text-[10px] bg-teal-500/20 text-teal-400 px-2 py-0.5 rounded font-black uppercase tracking-widest border border-teal-500/20">
                       {activeBucket.name}
                     </span>
@@ -877,41 +947,47 @@ export function RapidImageViewer({
               {/* Main content: sidebar + image */}
               <div className="flex-1 flex min-h-0">
                 {/* Bucket Navigation Layer (Vertical Strip - Now wider for full text) */}
-                {buckets.length > 1 && (
+                {orderedBuckets.length > 1 && (
                   <div className="w-64 shrink-0 bg-slate-900 border-r border-slate-800 flex flex-col py-4 gap-1 overflow-y-auto scrollbar-none">
                     <div className="px-5 mb-4">
                       <p className="text-[10px] font-black text-slate-500 uppercase tracking-[0.2em] mb-1">Differential Folders</p>
                       <div className="h-1 w-8 bg-teal-500/30 rounded-full" />
                     </div>
-                    {buckets.map((bucket, idx) => (
-                      <button
-                        key={bucket.name}
-                        onClick={() => {
-                          setActiveBucketId(idx);
-                          setCaseIndex(0);
-                          setSliceIndex(0);
-                          setExpanded(false);
-                          onActiveBucketChange?.(bucket.name);
-                        }}
-                        className={`group relative px-5 py-4 flex items-center gap-4 transition-all ${
-                          activeBucketIndex === idx
-                            ? "bg-teal-500/10 border-r-4 border-teal-500"
-                            : "hover:bg-slate-800/50"
-                        }`}
+                    <DndContext
+                      sensors={sensors}
+                      collisionDetection={closestCenter}
+                      onDragEnd={(event) => {
+                        const { active, over } = event;
+                        if (!over || active.id === over.id) return;
+                        const folderIds = orderedBuckets.map((b) => b.name);
+                        const oldIdx = folderIds.indexOf(String(active.id));
+                        const newIdx = folderIds.indexOf(String(over.id));
+                        if (oldIdx === -1 || newIdx === -1) return;
+                        const newOrder = arrayMove(folderIds, oldIdx, newIdx);
+                        if (activeBucketIndex === oldIdx) setActiveBucketId(newIdx);
+                        onFolderReorder?.(newOrder);
+                      }}
+                    >
+                      <SortableContext
+                        items={orderedBuckets.map((b) => b.name)}
+                        strategy={verticalListSortingStrategy}
                       >
-                        <div className={`w-2.5 h-2.5 rounded-full shrink-0 transition-transform duration-300 ${
-                          activeBucketIndex === idx
-                            ? 'bg-teal-500 shadow-[0_0_12px_rgba(20,184,166,0.9)] scale-110'
-                            : 'bg-slate-700 group-hover:bg-slate-500'
-                        }`} />
-                        <span className={`text-[12px] font-black uppercase tracking-normal text-left leading-tight transition-colors ${
-                          activeBucketIndex === idx ? 'text-white' : 'text-slate-500 group-hover:text-slate-300'
-                        }`}>
-                          {bucket.name}
-                        </span>
-                        <span className="text-[9px] text-slate-600 font-mono">{bucket.clusters.length || 0}</span>
-                      </button>
-                    ))}
+                        {orderedBuckets.map((bucket, idx) => (
+                          <SortableFolderItem
+                            key={bucket.name}
+                            bucket={bucket}
+                            isActive={activeBucketIndex === idx}
+                            onClick={() => {
+                              setActiveBucketId(idx);
+                              setCaseIndex(0);
+                              setSliceIndex(0);
+                              setExpanded(false);
+                              onActiveBucketChange?.(bucket.name);
+                            }}
+                          />
+                        ))}
+                      </SortableContext>
+                    </DndContext>
 
                     {/* Case-to-case (horizontal) navigation */}
                     {onNavigateCase && casePosition && (
@@ -1292,7 +1368,7 @@ export function RapidImageViewer({
                         Loading images...
                       </p>
                     </div>
-                  ) : buckets.length === 0 ? (
+                  ) : orderedBuckets.length === 0 ? (
                     <div className="flex flex-col items-center gap-3">
                       <ImageOff className="w-10 h-10 text-slate-600" />
                       <p className="text-sm text-slate-400 font-medium">
@@ -1302,7 +1378,7 @@ export function RapidImageViewer({
                   ) : (
                     <>
                       {/* Left arrow */}
-                      {(expanded ? (currentCase?.images.length ?? 0) > 1 : (cases.length > 1 || buckets.length > 1)) && (
+                      {(expanded ? (currentCase?.images.length ?? 0) > 1 : (cases.length > 1 || orderedBuckets.length > 1)) && (
                         <button
                           onClick={
                             expanded
@@ -1394,7 +1470,7 @@ export function RapidImageViewer({
                       </div>
 
                       {/* Right arrow */}
-                      {(expanded ? (currentCase?.images.length ?? 0) > 1 : (cases.length > 1 || buckets.length > 1)) && (
+                      {(expanded ? (currentCase?.images.length ?? 0) > 1 : (cases.length > 1 || orderedBuckets.length > 1)) && (
                         <button
                           onClick={
                             expanded
