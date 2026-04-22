@@ -1006,6 +1006,7 @@ export function DifferentialsPage() {
 
   // Image library state
   const [viewerOpen, setViewerOpen] = useState(false);
+  const [viewerActiveBucketName, setViewerActiveBucketName] = useState<string>("");
   const [viewerTarget, setViewerTarget] = useState<{
     sourceType: "differentialPattern" | "mnemonic" | "chapman" | "yjlCase";
     sourceId: string;
@@ -1093,21 +1094,20 @@ export function DifferentialsPage() {
   );
 
   // Fetch and save viewer findings
-  const viewerFindingsData = useQuery(
-    api.viewerFindings.getBySource,
-    viewerTarget
-      ? { sourceType: viewerTarget.sourceType, sourceId: viewerTarget.sourceId }
-      : "skip"
+  const viewerFindingsAll = useQuery(
+    api.viewerFindings.getAllBySource,
+    viewerTarget ? { sourceType: viewerTarget.sourceType, sourceId: viewerTarget.sourceId } : "skip"
   );
+  const viewerFindingsMap = useMemo(() => {
+    const m = new Map<string, string>();
+    for (const row of viewerFindingsAll ?? []) { m.set(row.bucketName, row.findings); }
+    return m;
+  }, [viewerFindingsAll]);
   const saveFindings = useMutation(api.viewerFindings.save);
 
-  const handleSaveFindings = useCallback((text: string) => {
+  const handleSaveFindings = useCallback((text: string, bucketName: string) => {
     if (!viewerTarget) return;
-    saveFindings({
-      sourceType: viewerTarget.sourceType,
-      sourceId: viewerTarget.sourceId,
-      findings: text,
-    });
+    saveFindings({ sourceType: viewerTarget.sourceType, sourceId: viewerTarget.sourceId, bucketName, findings: text });
   }, [viewerTarget, saveFindings]);
 
   const handleViewImages = (
@@ -1904,8 +1904,9 @@ export function DifferentialsPage() {
           total: viewerSiblings.siblings.length,
           categoryName: viewerSiblings.category,
         } : undefined}
-        findings={viewerFindingsData?.findings}
-        onSaveFindings={handleSaveFindings}
+        findings={viewerFindingsMap.get(viewerActiveBucketName) ?? ""}
+        onSaveFindings={(text) => handleSaveFindings(text, viewerActiveBucketName)}
+        onActiveBucketChange={(name) => setViewerActiveBucketName(name)}
       />
     </div>
   );
