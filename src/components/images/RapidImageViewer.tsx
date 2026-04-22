@@ -1215,10 +1215,10 @@ export function RapidImageViewer({
                             </div>
 
                             {/* Floating Footer Attribution & Hints */}
-                            <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 pointer-events-none w-full px-10 z-20">
+                            <div className="absolute bottom-6 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 pointer-events-none w-full max-w-3xl px-6 z-20">
                               {currentAttribution && (
                                 <div className="px-4 py-1.5 bg-black/60 backdrop-blur-sm border border-white/5 rounded-lg mb-2">
-                                  <p className="text-[11px] text-teal-400/90 italic font-medium">
+                                  <p className="text-sm text-teal-400 italic font-medium leading-snug">
                                     {currentAttribution}
                                   </p>
                                 </div>
