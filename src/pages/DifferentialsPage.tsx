@@ -3,7 +3,7 @@ import { useQuery, useMutation } from "convex/react";
 import { api } from "../../convex/_generated/api";
 import { Doc, Id } from "../../convex/_generated/dataModel";
 import { getCategoryMeta } from "../lib/categoryConfig";
-import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target, BookmarkPlus, PlayCircle, ExternalLink, Plus, X, Edit2 } from "lucide-react";
+import { Search, Filter, ChevronDown, ChevronUp, BookOpen, ListTree, Lightbulb, Sparkles, LayoutGrid, Info, Target, BookmarkPlus, PlayCircle, ExternalLink, Plus, X, Edit2, Heart } from "lucide-react";
 import { HighlightableText } from "../components/ui/HighlightableText";
 import { useKnowledge } from "../lib/knowledgeContext";
 import { KnowledgeTrigger } from "../components/ui/KnowledgeTrigger";
@@ -519,6 +519,8 @@ function YJLCard({
   onEditDifferentials,
   columnOrder,
   onColumnReorder,
+  isFavourited,
+  onToggleFavourite,
 }: {
   c: YJLCase;
   discriminator?: Doc<"discriminators"> | null;
@@ -533,6 +535,8 @@ function YJLCard({
   onEditDifferentials?: () => void;
   columnOrder?: number[];
   onColumnReorder?: (newOrder: number[]) => void;
+  isFavourited?: boolean;
+  onToggleFavourite?: () => void;
 }) {
   const [expanded, setExpanded] = useState(false);
   const meta = getCategoryMeta(c.playlistCategory) ?? getCategoryMeta("Chest");
@@ -622,20 +626,36 @@ function YJLCard({
 
       {(hasDiscriminator || discriminator) && (
         <div className="px-5 py-3 border-t border-gray-50 bg-slate-50/50">
-          {onAddNote && (
-            <div className="flex justify-end mb-2">
-              <button
-                onClick={(e) => { e.stopPropagation(); onAddNote(); }}
-                className="relative flex items-center gap-1 px-2.5 py-1.5 text-[10px] font-bold text-amber-600 bg-amber-50 border border-amber-200 rounded-lg hover:bg-amber-100 transition-colors"
-              >
-                <BookmarkPlus className="w-3 h-3" />
-                Add Note
-                {!!pendingNoteCount && (
-                  <span className="ml-1 bg-amber-500 text-white text-[9px] font-black w-4 h-4 flex items-center justify-center rounded-full leading-none">
-                    {pendingNoteCount}
-                  </span>
-                )}
-              </button>
+          {(onAddNote || onToggleFavourite) && (
+            <div className="flex justify-end gap-2 mb-2">
+              {onToggleFavourite && (
+                <button
+                  onClick={(e) => { e.stopPropagation(); onToggleFavourite(); }}
+                  className={`flex items-center gap-1 px-2 py-1 rounded-lg text-[9px] font-black uppercase tracking-widest transition-all ${
+                    isFavourited
+                      ? "bg-rose-500/10 text-rose-500 border border-rose-500/20"
+                      : "text-slate-400 hover:text-rose-400 border border-transparent"
+                  }`}
+                  title={isFavourited ? "Remove from favourites" : "Add to favourites"}
+                >
+                  <Heart className={`w-3 h-3 ${isFavourited ? "fill-rose-500" : ""}`} />
+                  {isFavourited ? "Saved" : "Favourite"}
+                </button>
+              )}
+              {onAddNote && (
+                <button
+                  onClick={(e) => { e.stopPropagation(); onAddNote(); }}
+                  className="relative flex items-center gap-1 px-2.5 py-1.5 text-[10px] font-bold text-amber-600 bg-amber-50 border border-amber-200 rounded-lg hover:bg-amber-100 transition-colors"
+                >
+                  <BookmarkPlus className="w-3 h-3" />
+                  Add Note
+                  {!!pendingNoteCount && (
+                    <span className="ml-1 bg-amber-500 text-white text-[9px] font-black w-4 h-4 flex items-center justify-center rounded-full leading-none">
+                      {pendingNoteCount}
+                    </span>
+                  )}
+                </button>
+              )}
             </div>
           )}
           {discriminator ? (
@@ -1137,6 +1157,13 @@ export function DifferentialsPage() {
     if (!openDiscriminatorId) return;
     saveColumnOrder({ sourceType: "yjlCase", sourceId: openDiscriminatorId, columnOrder: newOrder });
   }, [openDiscriminatorId, saveColumnOrder]);
+
+  const allFavourites = useQuery(api.userFavourites.listAll) ?? [];
+  const favouriteSet = useMemo(
+    () => new Set(allFavourites.map((f) => f.sourceId)),
+    [allFavourites]
+  );
+  const toggleFavourite = useMutation(api.userFavourites.toggle);
 
   const handleViewImages = (
     sourceType: "differentialPattern" | "mnemonic" | "chapman" | "yjlCase",
@@ -1770,6 +1797,13 @@ export function DifferentialsPage() {
                           onEditDifferentials={() => setEditDiffTarget(c)}
                           columnOrder={openDiscriminatorId === c._id ? openCasePrefs?.columnOrder : undefined}
                           onColumnReorder={openDiscriminatorId === c._id ? handleColumnReorder : undefined}
+                          isFavourited={favouriteSet.has(c._id)}
+                          onToggleFavourite={() => toggleFavourite({
+                            sourceType: "yjlCase",
+                            sourceId: c._id,
+                            categoryName: c.playlistCategory,
+                            title: c.title,
+                          })}
                         />
                       </ImageDropZone>
                     );
