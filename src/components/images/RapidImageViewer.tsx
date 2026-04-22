@@ -20,6 +20,7 @@ import {
   Camera,
   BookOpen,
   GripVertical,
+  Heart,
 } from "lucide-react";
 import {
   DndContext,
@@ -90,6 +91,8 @@ interface RapidImageViewerProps {
   savedFolderOrder?: string[];
   /** Persist new folder order */
   onFolderReorder?: (newOrder: string[]) => void;
+  isFavourited?: boolean;
+  onToggleFavourite?: () => void;
 }
 
 interface CaseCluster {
@@ -247,6 +250,8 @@ export function RapidImageViewer({
   onActiveBucketChange,
   savedFolderOrder,
   onFolderReorder,
+  isFavourited,
+  onToggleFavourite,
 }: RapidImageViewerProps) {
   const deleteImage = useMutation(api.studyImages.deleteImage);
   const deleteStack = useMutation(api.studyImages.deleteStack);
@@ -935,6 +940,19 @@ export function RapidImageViewer({
                       <Trash2 className="w-4 h-4" />
                     )}
                   </button>
+                  {onToggleFavourite && (
+                    <button
+                      onClick={onToggleFavourite}
+                      className={`p-1.5 rounded-lg transition-colors ${
+                        isFavourited
+                          ? "text-rose-500"
+                          : "text-slate-400 hover:text-rose-400"
+                      }`}
+                      title={isFavourited ? "Remove from favourites" : "Add to favourites"}
+                    >
+                      <Heart className={`w-4 h-4 ${isFavourited ? "fill-rose-500" : ""}`} />
+                    </button>
+                  )}
                   <button
                     onClick={onClose}
                     className="p-1.5 rounded-lg text-slate-400 hover:text-white transition-colors"

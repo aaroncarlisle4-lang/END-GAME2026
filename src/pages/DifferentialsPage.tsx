@@ -669,6 +669,8 @@ function YJLCard({
               casePosition={discriminatorPosition}
               columnOrder={columnOrder}
               onColumnReorder={onColumnReorder}
+              isFavourited={isFavourited}
+              onToggleFavourite={onToggleFavourite}
             />
           ) : (
             <button
@@ -1973,6 +1975,12 @@ export function DifferentialsPage() {
         onActiveBucketChange={(name) => setViewerActiveBucketName(name)}
         savedFolderOrder={viewerPrefs?.folderOrder}
         onFolderReorder={handleFolderReorder}
+        isFavourited={viewerTarget?.sourceType === "yjlCase" ? favouriteSet.has(viewerTarget.sourceId) : false}
+        onToggleFavourite={viewerTarget?.sourceType === "yjlCase" ? () => {
+          const c = allYJL?.find(x => x._id === viewerTarget?.sourceId);
+          if (!c || !viewerTarget) return;
+          toggleFavourite({ sourceType: "yjlCase", sourceId: c._id, categoryName: c.playlistCategory, title: c.title });
+        } : undefined}
       />
     </div>
   );

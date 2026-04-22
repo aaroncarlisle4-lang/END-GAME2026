@@ -7,7 +7,7 @@ import {
   GitBranch, X, CheckCircle2, AlertTriangle, Fingerprint, MapPin,
   Activity, UserSquare2, Info, Sparkles, Edit2, Save, Type,
   Highlighter, Underline as UnderlineIcon, Check, RotateCcw, MonitorDot,
-  ChevronLeft, ChevronRight, ChevronsUpDown, GripVertical
+  ChevronLeft, ChevronRight, ChevronsUpDown, GripVertical, Heart
 } from "lucide-react";
 import {
   DndContext,
@@ -40,6 +40,8 @@ interface Props {
   columnOrder?: number[];
   /** Callback when user reorders columns */
   onColumnReorder?: (newOrder: number[]) => void;
+  isFavourited?: boolean;
+  onToggleFavourite?: () => void;
 }
 
 // ── Helpers ──
@@ -337,7 +339,7 @@ export const YJL2B_ROW_ORDER = [
   "complicationsSeriousAlternatives",
 ];
 
-export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen, onViewImages, rowOrder, onNavigateCase, casePosition, columnOrder, onColumnReorder }: Props) {
+export function InlineDiscriminators({ discriminator, externalOpen, setExternalOpen, onViewImages, rowOrder, onNavigateCase, casePosition, columnOrder, onColumnReorder, isFavourited, onToggleFavourite }: Props) {
   const [internalOpen, setInternalOpen] = useState(false);
   
   const open = externalOpen !== undefined ? (externalOpen as boolean) : internalOpen;
@@ -678,6 +680,19 @@ export function InlineDiscriminators({ discriminator, externalOpen, setExternalO
                           {discriminator.mnemonicRef.expandedLetters}
                         </span>
                       </div>
+                    )}
+                    {onToggleFavourite && (
+                      <button
+                        onClick={onToggleFavourite}
+                        className={`p-2 rounded-xl transition-all border ${
+                          isFavourited
+                            ? "bg-rose-500/20 border-rose-500/30 text-rose-400"
+                            : "bg-white/5 border-white/5 text-slate-400 hover:text-rose-400"
+                        }`}
+                        title={isFavourited ? "Remove from favourites" : "Add to favourites"}
+                      >
+                        <Heart className={`w-5 h-5 ${isFavourited ? "fill-rose-400" : ""}`} />
+                      </button>
                     )}
                     <button
                       onClick={() => setOpen(false)}
