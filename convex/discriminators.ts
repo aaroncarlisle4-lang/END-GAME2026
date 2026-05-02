@@ -1,5 +1,6 @@
 import { query, mutation, internalQuery } from "./_generated/server";
 import { v } from "convex/values";
+import { paginationOptsValidator } from "convex/server";
 
 export const list = query({
   args: {},
@@ -8,18 +9,22 @@ export const list = query({
   },
 });
 
-// Lightweight lookup: returns only fields needed for map-building (bandwidth-optimised)
+// Lightweight lookup: returns only fields needed for map-building (bandwidth-optimised).
+// Paginated to avoid hitting the 16MB per-execution read limit.
 export const listLookup = query({
-  args: {},
-  handler: async (ctx) => {
-    const all = await ctx.db.query("discriminators").collect();
-    return all.map((d) => ({
-      _id: d._id,
-      pattern: d.pattern,
-      obrienRef: d.obrienRef ? { obrienCaseNumber: d.obrienRef.obrienCaseNumber } : undefined,
-      mnemonicRef: d.mnemonicRef ? { mnemonic: d.mnemonicRef.mnemonic } : undefined,
-      differentialDiagnoses: d.differentials.map((diff) => diff.diagnosis),
-    }));
+  args: { paginationOpts: paginationOptsValidator },
+  handler: async (ctx, args) => {
+    const page = await ctx.db.query("discriminators").paginate(args.paginationOpts);
+    return {
+      ...page,
+      page: page.page.map((d) => ({
+        _id: d._id,
+        pattern: d.pattern,
+        obrienRef: d.obrienRef ? { obrienCaseNumber: d.obrienRef.obrienCaseNumber } : undefined,
+        mnemonicRef: d.mnemonicRef ? { mnemonic: d.mnemonicRef.mnemonic } : undefined,
+        differentialDiagnoses: d.differentials.map((diff) => diff.diagnosis),
+      })),
+    };
   },
 });
 
@@ -293,6 +298,60 @@ export const setVivaAnswer = mutation({
     const doc = await ctx.db.get(args.id);
     if (!doc) throw new Error("Discriminator not found");
     await ctx.db.patch(args.id, { vivaAnswer: args.vivaAnswer });
+  },
+});
+
+// Fetch a single discriminator by O'Brien case number — minimal bandwidth,
+// returns only the fields needed for a Pass 2 viva prompt.
+export const getByObrienCaseNumber = query({
+  args: { obrienCaseNumber: v.number() },
+  handler: async (ctx, { obrienCaseNumber }) => {
+    const all = await ctx.db.query("discriminators").collect();
+    const disc = all.find(d => d.obrienRef?.obrienCaseNumber === obrienCaseNumber);
+    if (!disc) return null;
+    const correct = disc.differentials.find(d => d.isCorrectDiagnosis);
+    const otherDiffs = disc.differentials
+      .filter(d => !d.isCorrectDiagnosis)
+      .map(d => d.diagnosis);
+    return {
+      _id: disc._id,
+      pattern: disc.pattern,
+      obrienCaseNumber,
+      hasVivaAnswer: !!disc.vivaAnswer,
+      correctDiagnosis: correct?.diagnosis ?? disc.pattern,
+      dominantImagingFinding: correct?.dominantImagingFinding ?? "",
+      discriminatingKeyFeature: correct?.discriminatingKeyFeature ?? "",
+      otherDifferentials: otherDiffs,
+    };
+  },
+});
+
+// Lightweight list of discriminators that have an obrienRef set, with viva-answer
+// status and the minimum fields needed to build a Pass 2 viva prompt.
+export const listObrienVivaStatus = query({
+  args: { cursor: v.optional(v.string()), limit: v.optional(v.number()) },
+  handler: async (ctx, { cursor, limit = 100 }) => {
+    const q = ctx.db.query("discriminators");
+    const page = await q.paginate({ cursor: cursor ?? null, numItems: limit });
+    const results = page.page
+      .filter((d) => d.obrienRef?.obrienCaseNumber !== undefined)
+      .map((d) => {
+        const correct = d.differentials.find((diff) => diff.isCorrectDiagnosis);
+        const otherDiffs = d.differentials
+          .filter((diff) => !diff.isCorrectDiagnosis)
+          .map((diff) => diff.diagnosis);
+        return {
+          _id: d._id,
+          pattern: d.pattern,
+          obrienCaseNumber: d.obrienRef!.obrienCaseNumber,
+          hasVivaAnswer: !!d.vivaAnswer,
+          correctDiagnosis: correct?.diagnosis ?? d.pattern,
+          dominantImagingFinding: correct?.dominantImagingFinding ?? "",
+          discriminatingKeyFeature: correct?.discriminatingKeyFeature ?? "",
+          otherDifferentials: otherDiffs,
+        };
+      });
+    return { results, nextCursor: page.continueCursor, isDone: page.isDone };
   },
 });
 

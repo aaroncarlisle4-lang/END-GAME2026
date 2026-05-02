@@ -1,5 +1,5 @@
 import { useState, useMemo, useCallback, useRef, useEffect } from "react";
-import { useQuery, useMutation } from "convex/react";
+import { useQuery, useMutation, usePaginatedQuery } from "convex/react";
 import { api } from "../../convex/_generated/api";
 import { Doc, Id } from "../../convex/_generated/dataModel";
 import { getCategoryMeta } from "../lib/categoryConfig";
@@ -1025,7 +1025,14 @@ export function DifferentialsPage() {
     mnemonicRef?: { mnemonic: string };
     differentialDiagnoses: string[];
   };
-  const allDiscriminatorLookups = useQuery(api.discriminators.listLookup) as DiscriminatorLookup[] | undefined;
+  const { results: allDiscriminatorLookups, status: _lookupStatus, loadMore: _loadMoreLookups } = usePaginatedQuery(
+    api.discriminators.listLookup,
+    {},
+    { initialNumItems: 300 }
+  ) as { results: DiscriminatorLookup[]; status: string; loadMore: (n: number) => void };
+  useEffect(() => {
+    if (_lookupStatus === "CanLoadMore") _loadMoreLookups(300);
+  }, [_lookupStatus, _loadMoreLookups]);
 
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
@@ -1256,12 +1263,30 @@ export function DifferentialsPage() {
     editDiffTarget?.discriminatorId ? { id: editDiffTarget.discriminatorId as Id<"discriminators"> } : "skip"
   );
 
-  // Fetch viewer detail only when image viewer is open for a yjlCase
+  // Fetch viewer detail when image viewer is open for any source that has a discriminator
   const viewerDiscriminatorId = useMemo(() => {
-    if (!viewerTarget || viewerTarget.sourceType !== "yjlCase") return undefined;
-    const yjlCase = allYJL?.find(c => c._id === viewerTarget.sourceId);
-    return yjlCase?.discriminatorId as Id<"discriminators"> | undefined;
-  }, [viewerTarget, allYJL]);
+    if (!viewerTarget) return undefined;
+    if (viewerTarget.sourceType === "yjlCase") {
+      const yjlCase = allYJL?.find(c => c._id === viewerTarget.sourceId);
+      return yjlCase?.discriminatorId as Id<"discriminators"> | undefined;
+    }
+    if (viewerTarget.sourceType === "differentialPattern") {
+      const dp = allPatterns?.find(p => p._id === viewerTarget.sourceId);
+      if (!dp) return undefined;
+      return (obrienMap.get(dp.obrienCaseNumber) || patternMap.get(dp.pattern.toLowerCase().trim()))?._id;
+    }
+    if (viewerTarget.sourceType === "mnemonic") {
+      const m = allMnemonics?.find(mn => mn._id === viewerTarget.sourceId);
+      if (!m) return undefined;
+      return (mnemonicMap.get(m.mnemonic) || patternMap.get(m.pattern.toLowerCase().trim()))?._id;
+    }
+    if (viewerTarget.sourceType === "chapman") {
+      const c = allChapman?.find(ch => ch._id === viewerTarget.sourceId);
+      if (!c) return undefined;
+      return patternMap.get(c.pattern.toLowerCase().trim())?._id;
+    }
+    return undefined;
+  }, [viewerTarget, allYJL, allPatterns, allMnemonics, allChapman, obrienMap, patternMap, mnemonicMap]);
 
   const viewerDetail = useQuery(
     api.discriminators.getViewerDetail,

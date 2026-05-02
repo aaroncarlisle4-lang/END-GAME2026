@@ -1,5 +1,5 @@
-import { useState, useMemo } from "react";
-import { useQuery } from "convex/react";
+import { useState, useMemo, useEffect } from "react";
+import { useQuery, usePaginatedQuery } from "convex/react";
 import { api } from "../../../convex/_generated/api";
 import { Doc, Id } from "../../../convex/_generated/dataModel";
 import { ChevronDown, ChevronUp, Search, Zap } from "lucide-react";
@@ -149,7 +149,14 @@ type DiscriminatorLookup = {
 export function RapidCardsView({ categoryId, abbrev }: { categoryId: Id<"categories">; abbrev: string }) {
   const [searchQuery, setSearchQuery] = useState("");
   const cases = useQuery(api.rapidCases.getByCategory, { categoryId });
-  const allDiscriminatorLookups = useQuery(api.discriminators.listLookup) as DiscriminatorLookup[] | undefined;
+  const { results: allDiscriminatorLookups, status: _lookupStatus, loadMore: _loadMoreLookups } = usePaginatedQuery(
+    api.discriminators.listLookup,
+    {},
+    { initialNumItems: 300 }
+  ) as { results: DiscriminatorLookup[]; status: string; loadMore: (n: number) => void };
+  useEffect(() => {
+    if (_lookupStatus === "CanLoadMore") _loadMoreLookups(300);
+  }, [_lookupStatus, _loadMoreLookups]);
   const meta = getCategoryMeta(abbrev);
 
   const [viewerOpen, setViewerOpen] = useState(false);
