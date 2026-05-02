@@ -18,6 +18,8 @@ Requires:
 
 import subprocess, json, re, sys, time, os, argparse, hashlib
 from datetime import datetime
+from concurrent.futures import ThreadPoolExecutor, as_completed
+import threading
 os.environ["PYTHONUNBUFFERED"] = "1"
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -151,23 +153,73 @@ def get_correct_option_text(question):
     key = f"option_{letter.lower()}"
     return question.get(key, "")
 
+SHARED_INSTRUCTIONS = """Rewrite each stem to match Papers 1-4 difficulty (your sources). Rules:
+- Age/sex/complaint → explicit modality → descriptive findings (exact locations, sequences, phases) → "What is the most likely diagnosis?" 50-100 words.
+- Embed 1-2 discriminators that rule out wrong answers (e.g. "no restricted diffusion" excludes epidermoid).
+- Describe appearance, never name the diagnosis or use buzzwords ("vertically aligned paravertebral ossifications" not "bamboo spine").
+- Red herring history: history implies common condition, imaging pivots to correct answer.
+- Demographics plausible for 2-3 options. Never name the diagnosis in the stem."""
+
+
 def build_prompt(question, profile):
     correct_text = get_correct_option_text(question)
+    letter = question['correct_option'].strip().upper()
 
-    # Keep prompt under ~2000 chars total to avoid NotebookLM empty responses
-    prompt = f"""Rewrite this FRCR 2A question stem to match Paper 1-4 difficulty in your sources. Make it harder — remove giveaway clues, use overlapping features across options, describe imaging findings descriptively (not by diagnosis name). Target 50-100 words. Correct answer must remain {question['correct_option']} ({correct_text}).
+    prompt = f"""{SHARED_INSTRUCTIONS}
 
-Stem: {question['question_text']}
+CONSTRAINT: Correct answer is option {letter} ({correct_text}). Do not make any other option the obvious choice.
 
+Original stem: {question['question_text']}
+
+Options (fixed):
 A) {question['option_a']}
 B) {question['option_b']}
 C) {question['option_c']}
 D) {question['option_d']}
 E) {question['option_e']}
 
-Return ONLY the rewritten stem text, nothing else."""
+Return ONLY the rewritten stem (50-100 words, ending with "?"). No labels, no preamble."""
 
     return prompt
+
+
+def build_batch_prompt(batch, profile):
+    """Build a single prompt for multiple questions. Returns prompt string."""
+    parts = [SHARED_INSTRUCTIONS, ""]
+    parts.append(f"Rewrite each of the {len(batch)} question stems below. Apply the techniques above to each one.")
+    parts.append("CRITICAL FORMAT: After each question, output exactly one line starting with the label shown, e.g.:")
+    parts.append("  STEM 1: <rewritten stem ending with ?>")
+    parts.append("  STEM 2: <rewritten stem ending with ?>")
+    parts.append("Output ONLY the STEM N: lines. No explanations, no preamble, no other text.\n")
+
+    for i, q in enumerate(batch, 1):
+        correct_text = get_correct_option_text(q)
+        letter = q['correct_option'].strip().upper()
+        parts.append(f"QUESTION {i} — correct answer is {letter} ({correct_text}):")
+        parts.append(f"Stem: {q['question_text']}")
+        parts.append(f"A) {q['option_a']}  B) {q['option_b']}  C) {q['option_c']}  D) {q['option_d']}  E) {q['option_e']}")
+        parts.append(f"→ STEM {i}: ")
+        parts.append("")
+
+    return "\n".join(parts)
+
+
+def parse_batch_response(answer, batch):
+    """Parse a batched NotebookLM response into individual stems. Returns list of (stem|None)."""
+    results = [None] * len(batch)
+    # Match STEM N: ... up to the next STEM or end
+    pattern = re.compile(r'STEM\s+(\d+)\s*:\s*(.*?)(?=STEM\s+\d+\s*:|$)', re.DOTALL | re.IGNORECASE)
+    for m in pattern.finditer(answer):
+        idx = int(m.group(1)) - 1
+        if 0 <= idx < len(batch):
+            stem = m.group(2).strip()
+            # Clean up
+            last_q = stem.rfind("?")
+            if last_q > 0:
+                stem = stem[:last_q + 1]
+            stem = stem.strip().strip('"').strip("'").strip()
+            results[idx] = stem if stem else None
+    return results
 
 # ---------------------------------------------------------------------------
 # Validation
@@ -235,6 +287,8 @@ def main():
     parser.add_argument("--limit", type=int, default=0, help="Max questions to process (0=all)")
     parser.add_argument("--dry-run", action="store_true", help="Query NotebookLM but don't write to DB")
     parser.add_argument("--validate-only", action="store_true", help="Re-validate already completed stems")
+    parser.add_argument("--batch-size", type=int, default=3, help="Questions per NotebookLM call (default 3)")
+    parser.add_argument("--workers", type=int, default=2, help="Parallel NotebookLM workers (default 2)")
     args = parser.parse_args()
 
     if args.category not in CATEGORIES:
@@ -310,89 +364,114 @@ def main():
             "completed_at": None,
         }
 
-    # Process
+    # Split pending into batches
+    batch_size = max(1, args.batch_size)
+    batches = [pending[i:i + batch_size] for i in range(0, len(pending), batch_size)]
+    print(f"Processing {len(pending)} questions in {len(batches)} batches of {batch_size} "
+          f"with {args.workers} parallel workers\n")
+
+    progress_lock = threading.Lock()
     success = 0
     failed = 0
-    for i, q in enumerate(pending, 1):
-        qid_short = q["id"][:8]
-        print(f"[{i}/{len(pending)}] {qid_short}... ", end="", flush=True)
+    processed_batches = 0
 
-        # Auth check every 10 questions
-        if i > 1 and i % 10 == 0:
-            if not check_auth():
-                print("AUTH EXPIRED")
-                if not wait_for_auth():
-                    print(f"\nStopping. Completed {success} this session.")
-                    save_progress(progress)
-                    return
-
+    def process_batch(batch_idx, batch):
+        """Process one batch of questions. Returns list of (question, new_stem|None, error|None)."""
+        prompt = build_batch_prompt(batch, profile)
         try:
-            # Build and send prompt
-            prompt = build_prompt(q, profile)
             answer = query_notebooklm(prompt)
+            stems = parse_batch_response(answer, batch)
+            parsed = sum(1 for s in stems if s is not None)
+            print(f"  [batch {batch_idx+1}] NLM returned {parsed}/{len(batch)} stems in batch format"
+                  + (f" — {len(batch)-parsed} falling back to individual" if parsed < len(batch) else ""), flush=True)
+        except Exception as e:
+            print(f"  [batch {batch_idx+1}] NLM batch call FAILED ({e}) — all {len(batch)} going individual", flush=True)
+            stems = [None] * len(batch)
 
-            # Extract and validate
-            new_stem = extract_stem(answer)
-            is_valid, msg = validate_stem(new_stem, q)
+        results = []
+        for q, stem in zip(batch, stems):
+            if stem is None:
+                # Fallback: retry this question individually
+                try:
+                    single_prompt = build_prompt(q, profile)
+                    single_answer = query_notebooklm(single_prompt)
+                    stem = extract_stem(single_answer)
+                except Exception as e:
+                    results.append((q, None, str(e)))
+                    continue
 
+            stem = extract_stem(stem) if stem else stem
+            is_valid, msg = validate_stem(stem, q) if stem else (False, "Empty")
             if not is_valid:
-                # Retry once with emphatic suffix
-                print(f"RETRY ({msg})... ", end="", flush=True)
-                time.sleep(3)
-                retry_prompt = prompt + "\n\nCRITICAL: Output ONLY the question stem text. Nothing else. No labels, no explanations."
-                answer = query_notebooklm(retry_prompt)
-                new_stem = extract_stem(answer)
-                is_valid, msg = validate_stem(new_stem, q)
+                results.append((q, None, msg))
+            else:
+                results.append((q, stem, None))
+        return results
 
-            if not is_valid:
-                print(f"FAILED: {msg}")
-                progress["categories"][args.category]["failed"].append({
-                    "id": q["id"],
-                    "error": msg,
-                    "timestamp": datetime.utcnow().isoformat(),
-                })
-                failed += 1
-                save_progress(progress)
-                time.sleep(4)
+    # Auth check every 30 questions
+    auth_check_counter = 0
+    auth_lock = threading.Lock()
+
+    def maybe_check_auth(n):
+        nonlocal auth_check_counter
+        with auth_lock:
+            auth_check_counter += n
+            if auth_check_counter >= 30:
+                auth_check_counter = 0
+                return check_auth()
+        return True
+
+    with ThreadPoolExecutor(max_workers=args.workers) as executor:
+        futures = {executor.submit(process_batch, i, b): (i, b) for i, b in enumerate(batches)}
+        for future in as_completed(futures):
+            batch_idx, batch = futures[future]
+            processed_batches += 1
+            try:
+                results = future.result()
+            except Exception as e:
+                print(f"[batch {batch_idx+1}] FATAL: {e}")
+                for q in batch:
+                    failed += 1
                 continue
 
-            # Show comparison
-            old_words = len(q["question_text"].split())
-            new_words = len(new_stem.split())
+            with progress_lock:
+                for q, new_stem, error in results:
+                    qid_short = q["id"][:8]
+                    if error or new_stem is None:
+                        print(f"  FAILED {qid_short}: {error}")
+                        progress["categories"][args.category]["failed"].append({
+                            "id": q["id"], "error": error or "None",
+                            "timestamp": datetime.utcnow().isoformat(),
+                        })
+                        failed += 1
+                    else:
+                        old_words = len(q["question_text"].split())
+                        new_words = len(new_stem.split())
+                        if args.dry_run:
+                            print(f"  DRY {qid_short} ({old_words}→{new_words}w): {new_stem[:100]}...")
+                            success += 1
+                            continue  # don't record progress in dry-run
+                        else:
+                            try:
+                                update_stem_in_db(q["id"], new_stem)
+                                print(f"  OK {qid_short} ({old_words}→{new_words}w)")
+                            except Exception as e:
+                                print(f"  DB ERR {qid_short}: {e}")
+                                failed += 1
+                                continue
+                        old_hash = hashlib.sha256(q["question_text"].encode()).hexdigest()[:16]
+                        progress["categories"][args.category]["completed"].append({
+                            "id": q["id"], "old_stem_hash": old_hash,
+                            "new_stem_length": new_words,
+                            "timestamp": datetime.utcnow().isoformat(),
+                        })
+                        success += 1
 
-            if args.dry_run:
-                print(f"OK ({old_words}→{new_words} words)")
-                print(f"    OLD: {q['question_text'][:150]}...")
-                print(f"    NEW: {new_stem[:150]}...")
-                print(f"    ANS: {q['correct_option']} ({get_correct_option_text(q)[:60]})")
-                print()
-            else:
-                # Write to Supabase
-                update_stem_in_db(q["id"], new_stem)
-                print(f"OK ({old_words}→{new_words} words)")
-
-            # Record completion
-            old_hash = hashlib.sha256(q["question_text"].encode()).hexdigest()[:16]
-            progress["categories"][args.category]["completed"].append({
-                "id": q["id"],
-                "old_stem_hash": old_hash,
-                "new_stem_length": new_words,
-                "timestamp": datetime.utcnow().isoformat(),
-            })
-            success += 1
-            save_progress(progress)
-
-        except Exception as e:
-            print(f"ERROR: {e}")
-            progress["categories"][args.category]["failed"].append({
-                "id": q["id"],
-                "error": str(e),
-                "timestamp": datetime.utcnow().isoformat(),
-            })
-            failed += 1
-            save_progress(progress)
-
-        time.sleep(4)
+                total_done = len(progress["categories"][args.category]["completed"])
+                total_q = progress["categories"][args.category]["total"]
+                print(f"[batch {processed_batches}/{len(batches)}] {total_done}/{total_q} done, "
+                      f"{success} ok, {failed} failed this session")
+                save_progress(progress)
 
     # Check if category is complete
     total_completed = len(progress["categories"][args.category]["completed"])

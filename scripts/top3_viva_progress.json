@@ -1,0 +1,923 @@
+{
+  "completed": [
+    {
+      "_id": "j970kcm38t6e44m6h7bgs1hmmh82vcbg",
+      "obrienCaseNumber": 1,
+      "pattern": "Solitary pulmonary nodule",
+      "time": "2026-05-01T16:08:58.573332+00:00"
+    },
+    {
+      "_id": "j97c21wbz8awzd9ywa45a1ec5982texj",
+      "obrienCaseNumber": 2,
+      "pattern": "Multiple pulmonary nodules",
+      "time": "2026-05-01T16:09:54.206176+00:00"
+    },
+    {
+      "_id": "j971bjdym1jwg415bq5sj1fgth82v1bv",
+      "obrienCaseNumber": 3,
+      "pattern": "Cavitary pulmonary mass",
+      "time": "2026-05-01T16:11:02.274543+00:00"
+    },
+    {
+      "_id": "j9791wjneaj1fgc9cdh86dz3k982xa1b",
+      "obrienCaseNumber": 4.19,
+      "pattern": "L UNG CAVITIES",
+      "time": "2026-05-01T16:13:10.478776+00:00"
+    },
+    {
+      "_id": "j974mfawr2wvy41b6p518c2rz582w230",
+      "obrienCaseNumber": 4.23,
+      "pattern": "B ILATERAL HILAR ENLARGEMENT",
+      "time": "2026-05-01T16:14:09.486521+00:00"
+    },
+    {
+      "_id": "j976txk9y9g0jgewyym9h0eh6d82vqbc",
+      "obrienCaseNumber": 5,
+      "pattern": "Centrilobular pulmonary nodules",
+      "time": "2026-05-01T16:15:44.386344+00:00"
+    },
+    {
+      "_id": "j972hhwkhhz03njyh8hrjwf7f182t96z",
+      "obrienCaseNumber": 8,
+      "pattern": "Upper lobe interstitial lung disease",
+      "time": "2026-05-01T16:17:46.588141+00:00"
+    },
+    {
+      "_id": "j97bbykrf6yystarswywj45fw582tq54",
+      "obrienCaseNumber": 9,
+      "pattern": "Hyperlucent lung",
+      "time": "2026-05-01T16:18:50.901191+00:00"
+    },
+    {
+      "_id": "j974bcn0fa5shfw5ayn0g1mc5582v6bn",
+      "obrienCaseNumber": 10,
+      "pattern": "Anterior mediastinal mass",
+      "time": "2026-05-01T16:19:50.741540+00:00"
+    },
+    {
+      "_id": "j974rbf30pjw2jjpq5x5dfxv5982vwc5",
+      "obrienCaseNumber": 11,
+      "pattern": "Middle mediastinal mass",
+      "time": "2026-05-01T16:20:44.644520+00:00"
+    },
+    {
+      "_id": "j97cja34ekrhx9x21nd71sbx2h82vjvr",
+      "obrienCaseNumber": 12,
+      "pattern": "Posterior mediastinal mass",
+      "time": "2026-05-01T16:21:43.663832+00:00"
+    },
+    {
+      "_id": "j975kzy3ayfne17rh7ay9y7dxn82vndc",
+      "obrienCaseNumber": 15,
+      "pattern": "Ground-glass opaci\ufb01 cation",
+      "time": "2026-05-01T16:23:49.536969+00:00"
+    },
+    {
+      "_id": "j972vd2syvxt8btp0rwa544fjx82thzr",
+      "obrienCaseNumber": 16,
+      "pattern": "Mediastinal/hilar lymphadenopathy",
+      "time": "2026-05-01T16:24:38.411745+00:00"
+    },
+    {
+      "_id": "j9721s3axv4tc7v5dbyssbvb2h82vq84",
+      "obrienCaseNumber": 17,
+      "pattern": "Calci\ufb01 ed pleural disease",
+      "time": "2026-05-01T16:25:29.367918+00:00"
+    },
+    {
+      "_id": "j9752f5zmb11t4n88tn9yjqzjh82tm1c",
+      "obrienCaseNumber": 18,
+      "pattern": "Bronchiectasis",
+      "time": "2026-05-01T16:26:31.325342+00:00"
+    },
+    {
+      "_id": "j97fmgjkhn6ac84vj8na7c27j982t3mz",
+      "obrienCaseNumber": 19,
+      "pattern": "Perilymphatic pulmonary nodules",
+      "time": "2026-05-01T16:27:29.260008+00:00"
+    },
+    {
+      "_id": "j972r8xp5wh69e960y35nvjzss82vy31",
+      "obrienCaseNumber": 21,
+      "pattern": "Parenchymal disease in a patient with HIV",
+      "time": "2026-05-01T16:28:50.368919+00:00"
+    },
+    {
+      "_id": "j971vxdkgckbm29xg69cea44qx82t475",
+      "obrienCaseNumber": 22,
+      "pattern": "Abnormal left ventricular contour",
+      "time": "2026-05-01T16:30:00.560326+00:00"
+    },
+    {
+      "_id": "j97dk6hw0evb7ptkwb47pdm8yx82v03k",
+      "obrienCaseNumber": 23,
+      "pattern": "Cardiac mass",
+      "time": "2026-05-01T16:30:53.925008+00:00"
+    },
+    {
+      "_id": "j973bfzeneyfhxh6rqjag5wdan82t16q",
+      "obrienCaseNumber": 24,
+      "pattern": "Delayed myocardial enhancement",
+      "time": "2026-05-01T16:31:43.773089+00:00"
+    },
+    {
+      "_id": "j97deaejhv9zx3cxpfyd3d1m5x82tkz0",
+      "obrienCaseNumber": 25,
+      "pattern": "Cardiac wall fat",
+      "time": "2026-05-01T16:33:04.367922+00:00"
+    },
+    {
+      "_id": "j9727jp3ct1bhb6mt7nkbzwhbh82t2pf",
+      "obrienCaseNumber": 26,
+      "pattern": "Hyperdense liver",
+      "time": "2026-05-01T16:34:05.002714+00:00"
+    },
+    {
+      "_id": "j97cywhkszkfar0zd9ak7gnes182t97z",
+      "obrienCaseNumber": 28,
+      "pattern": "Esophageal diverticulum",
+      "time": "2026-05-01T16:35:46.842721+00:00"
+    },
+    {
+      "_id": "j978y1hecw5ea5p4agbpc75s5h82t8qg",
+      "obrienCaseNumber": 29,
+      "pattern": "Solitary hypodense, hypovascular liver mass",
+      "time": "2026-05-01T16:36:44.621779+00:00"
+    },
+    {
+      "_id": "j977mp4srcjvx8ev60tc3n1tdd82v27e",
+      "obrienCaseNumber": 30,
+      "pattern": "Multiple hypoattenuating hepatic lesions",
+      "time": "2026-05-01T16:38:10.540594+00:00"
+    },
+    {
+      "_id": "j97e1k8qffe7cnq0nm96j8zw2982tzcj",
+      "obrienCaseNumber": 33,
+      "pattern": "Esophageal dilatation",
+      "time": "2026-05-01T16:40:17.272038+00:00"
+    },
+    {
+      "_id": "j979pthan1vegpgaeheggey3vd82va3p",
+      "obrienCaseNumber": 34,
+      "pattern": "Esophageal pseudodiverticula",
+      "time": "2026-05-01T16:41:09.355973+00:00"
+    },
+    {
+      "_id": "j971qymq293rafd2t9xb655rmh82td98",
+      "obrienCaseNumber": 36,
+      "pattern": "Solid pancreatic mass",
+      "time": "2026-05-01T16:42:37.217791+00:00"
+    },
+    {
+      "_id": "j974yv10jc3hs56exnpf0m269982tyea",
+      "obrienCaseNumber": 38,
+      "pattern": "Gastric ulcer",
+      "time": "2026-05-01T16:45:30.873014+00:00"
+    },
+    {
+      "_id": "j975vw3wty2hnm92pkhr8vqe9s82tn1x",
+      "obrienCaseNumber": 39,
+      "pattern": "Gastric fold thickening",
+      "time": "2026-05-01T16:46:19.663311+00:00"
+    },
+    {
+      "_id": "j97d573w90twz84vgs8ww1yxb982vcf7",
+      "obrienCaseNumber": 40,
+      "pattern": "Cecal mass",
+      "time": "2026-05-01T16:47:12.375349+00:00"
+    },
+    {
+      "_id": "j97cgd9wvjxkx1mx8ts9stt2t982t8a8",
+      "obrienCaseNumber": 43,
+      "pattern": "Colonic wall thickening",
+      "time": "2026-05-01T16:49:25.456974+00:00"
+    },
+    {
+      "_id": "j974e2m9t3jyvtny0937h1697s82vk2c",
+      "obrienCaseNumber": 46,
+      "pattern": "Small bowel dilatation",
+      "time": "2026-05-01T16:51:18.257963+00:00"
+    },
+    {
+      "_id": "j97728fene1m68denbq76649td82v77q",
+      "obrienCaseNumber": 48,
+      "pattern": "Hypervascular liver mass",
+      "time": "2026-05-01T16:53:02.451360+00:00"
+    },
+    {
+      "_id": "j9752g5nky3pw47bcvdx7epsj182ttee",
+      "obrienCaseNumber": 49,
+      "pattern": "Multiple splenic nodules",
+      "time": "2026-05-01T16:53:58.666221+00:00"
+    },
+    {
+      "_id": "j9772xje373zp2hqnsrrtqt2cn82tr0s",
+      "obrienCaseNumber": 51,
+      "pattern": "Solid renal mass",
+      "time": "2026-05-01T16:55:22.947512+00:00"
+    },
+    {
+      "_id": "j977dh6nb8mfwn7x7ffxjr7zq582tj2r",
+      "obrienCaseNumber": 52,
+      "pattern": "Multiple bilateral renal lesions/masses",
+      "time": "2026-05-01T16:56:10.242796+00:00"
+    },
+    {
+      "_id": "j9742f3zh11h58s85n31t7zymd82tmes",
+      "obrienCaseNumber": 53,
+      "pattern": "Cystic renal mass",
+      "time": "2026-05-01T16:57:00.317668+00:00"
+    },
+    {
+      "_id": "j97dekbqv7gczvbgsr5n9h9kph82vdp6",
+      "obrienCaseNumber": 54,
+      "pattern": "Retroperitoneal mass",
+      "time": "2026-05-01T16:58:16.887090+00:00"
+    },
+    {
+      "_id": "j972x80swscjex73txxzyx036s82vzz8",
+      "obrienCaseNumber": 55,
+      "pattern": "Cortical nephrocalcinosis",
+      "time": "2026-05-01T16:59:05.098987+00:00"
+    },
+    {
+      "_id": "j974x64nz1y0qhhyf5j3rf8t6d82vzgp",
+      "obrienCaseNumber": 56,
+      "pattern": "Medullary nephrocalcinosis",
+      "time": "2026-05-01T17:00:00.113931+00:00"
+    },
+    {
+      "_id": "j97cr8gec3wr9fqvfs962yc7sh82vv49",
+      "obrienCaseNumber": 58,
+      "pattern": "Papillary necrosis",
+      "time": "2026-05-01T17:01:38.865476+00:00"
+    },
+    {
+      "_id": "j97f9rv374whkbdqeeqf5c6kgd82v7tp",
+      "obrienCaseNumber": 59,
+      "pattern": "Staghorn calculus",
+      "time": "2026-05-01T17:02:31.466149+00:00"
+    },
+    {
+      "_id": "j97a29a0r0vz5r9fxye8zy982s82vbft",
+      "obrienCaseNumber": 60,
+      "pattern": "Renal cortical defect",
+      "time": "2026-05-01T17:03:21.890197+00:00"
+    },
+    {
+      "_id": "j97fw40tz6kfra30bp4dyyc4jh82vzdf",
+      "obrienCaseNumber": 61,
+      "pattern": "Renal pelvic mass",
+      "time": "2026-05-01T17:04:34.968239+00:00"
+    },
+    {
+      "_id": "j97fm0gckg22rt35fbfy3b32t182t5p5",
+      "obrienCaseNumber": 62,
+      "pattern": "Medial deviation of the ureters",
+      "time": "2026-05-01T17:05:32.187469+00:00"
+    },
+    {
+      "_id": "j97272hfp6c46zwbpc6575q9rx82t9xk",
+      "obrienCaseNumber": 63,
+      "pattern": "Ureteral \ufb01 lling defects",
+      "time": "2026-05-01T17:06:30.181131+00:00"
+    },
+    {
+      "_id": "j97cxvtr4x3n8zk6qr50wtwzs582vgen",
+      "obrienCaseNumber": 64,
+      "pattern": "Renal migration anomaly",
+      "time": "2026-05-01T17:07:25.359408+00:00"
+    },
+    {
+      "_id": "j97dbat3pwnvw7a78atrpqm35182vbzq",
+      "obrienCaseNumber": 65,
+      "pattern": "Bladder \ufb01 lling defect",
+      "time": "2026-05-01T17:08:45.178784+00:00"
+    },
+    {
+      "_id": "j9759nqc8bjmzhn29f7xkr0mp982vtnq",
+      "obrienCaseNumber": 66,
+      "pattern": "Bilateral renal cysts",
+      "time": "2026-05-01T17:09:31.043633+00:00"
+    },
+    {
+      "_id": "j97610kd4k9z1zkev1a2r9zfvx82tk6n",
+      "obrienCaseNumber": 67,
+      "pattern": "Perinephric \ufb02 uid collection",
+      "time": "2026-05-01T17:10:45.571960+00:00"
+    },
+    {
+      "_id": "j9751rczve1hnddbjmsmmkkw7n82t7mc",
+      "obrienCaseNumber": 68,
+      "pattern": "Pear-shaped bladder",
+      "time": "2026-05-01T17:11:38.797795+00:00"
+    },
+    {
+      "_id": "j97d9xe9m170eaqrv6kc5kvac182vr7t",
+      "obrienCaseNumber": 70,
+      "pattern": "Bladder rupture",
+      "time": "2026-05-01T17:13:16.699750+00:00"
+    },
+    {
+      "_id": "j9739fvacyf6k6cwm4hpqnsh1n82v8dn",
+      "obrienCaseNumber": 71,
+      "pattern": "Bladder wall calci\ufb01 cations",
+      "time": "2026-05-01T17:14:29.572761+00:00"
+    },
+    {
+      "_id": "j975jp04c9ryrwegfa4n0yq9v582v8ak",
+      "obrienCaseNumber": 72,
+      "pattern": "Adrenal mass",
+      "time": "2026-05-01T17:15:19.023977+00:00"
+    },
+    {
+      "_id": "j978gs57jz24xes1g8qk4gwc1182tbw5",
+      "obrienCaseNumber": 73,
+      "pattern": "Fatty retroperitoneal mass",
+      "time": "2026-05-01T17:16:47.397219+00:00"
+    },
+    {
+      "_id": "j97fz0fjr3dhncsz7jkj2fatph82xhhy",
+      "obrienCaseNumber": 4.11,
+      "pattern": "AIR-SPACE OPACIFICATION",
+      "time": "2026-05-01T17:29:36.273497+00:00"
+    },
+    {
+      "_id": "j972r2vhejh5pcbvtcv53kq6j582vgdx",
+      "obrienCaseNumber": 6,
+      "pattern": "Cystic lung disease",
+      "time": "2026-05-01T17:31:23.973255+00:00"
+    },
+    {
+      "_id": "j97434z72fn3sgzcefkwpt62cs82vdf8",
+      "obrienCaseNumber": 7,
+      "pattern": "Lower lobe interstitial lung disease (ILD)",
+      "time": "2026-05-01T17:32:16.751148+00:00"
+    },
+    {
+      "_id": "j9747v139affcds2tw79vkyk8x82tm9n",
+      "obrienCaseNumber": 13,
+      "pattern": "Chronic air-space disease",
+      "time": "2026-05-01T17:33:20.890676+00:00"
+    },
+    {
+      "_id": "j97d0qna5d0bzr5yy30jf2k6ns82twz4",
+      "obrienCaseNumber": 14,
+      "pattern": "Peripheral air-space disease",
+      "time": "2026-05-01T17:34:20.626445+00:00"
+    },
+    {
+      "_id": "j9770dnsp55fbq02x8g5h4gqp182thdk",
+      "obrienCaseNumber": 20,
+      "pattern": "Pleural-based mass",
+      "time": "2026-05-01T17:35:15.294861+00:00"
+    },
+    {
+      "_id": "j973f34ke2fmfa3b1ph84sze4582vgvh",
+      "obrienCaseNumber": 27,
+      "pattern": "Nodular liver contour",
+      "time": "2026-05-01T17:36:29.121846+00:00"
+    },
+    {
+      "_id": "j97esnaz29p2hxjjex8bp5rk4s82tfaq",
+      "obrienCaseNumber": 31,
+      "pattern": "Right upper quadrant cystic mass in a child",
+      "time": "2026-05-01T17:38:01.617870+00:00"
+    },
+    {
+      "_id": "j970wmf9khbhgzynjhgy8eceds82t4jn",
+      "obrienCaseNumber": 32,
+      "pattern": "Esophageal submucosal masses/thickened folds",
+      "time": "2026-05-01T17:38:54.655210+00:00"
+    },
+    {
+      "_id": "j973pccwf6wdy7xamk5htgnyrd82v3e6",
+      "obrienCaseNumber": 37,
+      "pattern": "Linitis plastica",
+      "time": "2026-05-01T17:40:46.550964+00:00"
+    },
+    {
+      "_id": "j976vspjhcwa0x7de8tr8jbf4h82tk91",
+      "obrienCaseNumber": 41,
+      "pattern": "Mesenteric mass",
+      "time": "2026-05-01T17:41:57.913097+00:00"
+    },
+    {
+      "_id": "j971dmzktvbabytrv8zjr1vs1h82vbq5",
+      "obrienCaseNumber": 42,
+      "pattern": "Terminal ileal wall thickening",
+      "time": "2026-05-01T17:42:46.097429+00:00"
+    },
+    {
+      "_id": "j972vw1pzzzsseqfe275bztsad82vw8h",
+      "obrienCaseNumber": 44,
+      "pattern": "Small bowel wall thickening",
+      "time": "2026-05-01T17:43:36.838410+00:00"
+    },
+    {
+      "_id": "j9780mtdf21xdhyfc9s20j6gv182vj7b",
+      "obrienCaseNumber": 45,
+      "pattern": "Esophageal stricture",
+      "time": "2026-05-01T17:44:32.454212+00:00"
+    },
+    {
+      "_id": "j975am6pywgrsb8yy43r2cfe6182t3yt",
+      "obrienCaseNumber": 47,
+      "pattern": "Cystic pancreatic mass",
+      "time": "2026-05-01T17:45:27.422343+00:00"
+    },
+    {
+      "_id": "j97e476ttfg3ydrdy0v2rpts1s82tzyd",
+      "obrienCaseNumber": 74,
+      "pattern": "Dilated ureter",
+      "time": "2026-05-01T17:48:10.346039+00:00"
+    },
+    {
+      "_id": "j97b48nnb3gwrcrdpgq7cwcd5182va85",
+      "obrienCaseNumber": 75,
+      "pattern": "Urethral stricture",
+      "time": "2026-05-01T17:49:21.172792+00:00"
+    },
+    {
+      "_id": "j971ctz3v1n5t2nbcythh06rt1820s52",
+      "obrienCaseNumber": 78,
+      "pattern": "Bilateral symmetric smooth periosteal reaction in a neonate",
+      "time": "2026-05-01T17:52:02.808768+00:00"
+    },
+    {
+      "_id": "j9755jy9cctgggg1ff0c70wx9182v31z",
+      "obrienCaseNumber": 79,
+      "pattern": "\u201cRugger jersey\u201d appearance of the spine",
+      "time": "2026-05-01T17:53:36.264303+00:00"
+    },
+    {
+      "_id": "j97fg4ccnm3fdjsmf5tys759kd82tn6f",
+      "obrienCaseNumber": 80,
+      "pattern": "Sacroiliitis",
+      "time": "2026-05-01T17:55:12.823334+00:00"
+    },
+    {
+      "_id": "j97142nhg1bdr8xa0g0ws8pk11821tk7",
+      "obrienCaseNumber": 81,
+      "pattern": "Bilateral symmetric erosive arthropathy of MCP joints with periarticular osteopenia",
+      "time": "2026-05-01T17:55:58.836962+00:00"
+    },
+    {
+      "_id": "j97ce8rdjbehfw9npyhgq90kxx82t2sr",
+      "obrienCaseNumber": 81,
+      "pattern": "Proximal arthropathy a\u0325 ecting primarily the metacarpophalangeal (MCP) joints",
+      "time": "2026-05-01T17:57:04.615742+00:00"
+    },
+    {
+      "_id": "j9726jgmen2ethab4z3hrcnfw582vr1c",
+      "obrienCaseNumber": 82,
+      "pattern": "Distal arthropathy a\u0325 ecting primarily the interphalangeal joints",
+      "time": "2026-05-01T17:58:23.196155+00:00"
+    },
+    {
+      "_id": "j973cnbf8qfmftk6q9342wsdyd82dqvd",
+      "obrienCaseNumber": 83,
+      "pattern": "Bilateral asymmetric erosions with overhanging edges (Martel hook sign), tophi, and preserved bone density at the first MTP joints",
+      "time": "2026-05-01T18:00:09.518844+00:00"
+    },
+    {
+      "_id": "j973cyspvbqajhvks550ke363182vg8j",
+      "obrienCaseNumber": 83,
+      "pattern": "Erosive arthropathy involving the foot",
+      "time": "2026-05-01T18:01:00.226746+00:00"
+    },
+    {
+      "_id": "j970vt5q4njfsntvk5dgbphyr182v4c4",
+      "obrienCaseNumber": 84,
+      "pattern": "Chondrocalcinosis",
+      "time": "2026-05-01T18:02:30.068355+00:00"
+    },
+    {
+      "_id": "j972s78061dtprxt0hzpmyeyjn820ha3",
+      "obrienCaseNumber": 85,
+      "pattern": "Solitary vertebra plana in a child with preserved disc spaces",
+      "time": "2026-05-01T18:03:30.809368+00:00"
+    },
+    {
+      "_id": "j973bks9xptseq8vn02rknnskh82v704",
+      "obrienCaseNumber": 85,
+      "pattern": "Vertebra plana in a child",
+      "time": "2026-05-01T18:04:29.694471+00:00"
+    },
+    {
+      "_id": "j972jqv3bz2dmw7wxxd1ph2fks82thk1",
+      "obrienCaseNumber": 86,
+      "pattern": "Wormian bones",
+      "time": "2026-05-01T18:05:25.678936+00:00"
+    },
+    {
+      "_id": "j97awg9bh11errsnnzybry6e6d82v98m",
+      "obrienCaseNumber": 87,
+      "pattern": "Madelung deformity",
+      "time": "2026-05-01T18:06:16.659636+00:00"
+    },
+    {
+      "_id": "j97anzcw3sg1ghznxzdmdmxct182vm83",
+      "obrienCaseNumber": 88,
+      "pattern": "Lucent metaphyseal bands",
+      "time": "2026-05-01T18:07:15.525357+00:00"
+    },
+    {
+      "_id": "j971aqekbs0dhz7zttzmxk5z4x82d8cc",
+      "obrienCaseNumber": 89,
+      "pattern": "Well-defined intramedullary lytic lesion in the phalanx with chondroid (popcorn/ring-and-arc) matrix calcification and endosteal scalloping <2/3 cortical thickness",
+      "time": "2026-05-01T18:08:12.511649+00:00"
+    },
+    {
+      "_id": "j97aw05an5vbttxqpfpvhpcekd82t3fd",
+      "obrienCaseNumber": 89,
+      "pattern": "Medullary/chondroid lesion",
+      "time": "2026-05-01T18:09:03.356089+00:00"
+    },
+    {
+      "_id": "j97766as0pbzfs8xqc0s11mt4182cq2b",
+      "obrienCaseNumber": 90,
+      "pattern": "Bilateral acro-osteolysis of terminal tufts with subcutaneous calcinosis and soft tissue atrophy in a patient with Raynaud's phenomenon",
+      "time": "2026-05-01T18:09:55.563441+00:00"
+    },
+    {
+      "_id": "j97e4hjczd7fvyg1fza5tfc58n82vjdt",
+      "obrienCaseNumber": 90,
+      "pattern": "Acro-osteolysis",
+      "time": "2026-05-01T18:10:48.901065+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 4,
+      "pattern": "Miliary pulmonary nodules",
+      "time": "2026-05-01T18:53:30.158622+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 35,
+      "pattern": "Esophageal ulcers",
+      "time": "2026-05-01T18:54:48.786248+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 50,
+      "pattern": "Intrahepatic biliary ductal strictures",
+      "time": "2026-05-01T20:11:39.578737+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 57,
+      "pattern": "Striated nephrogram",
+      "time": "2026-05-01T20:12:30.390234+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 69,
+      "pattern": "Prostate enlargement",
+      "time": "2026-05-01T20:13:19.785168+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 77,
+      "pattern": "Sequestrum",
+      "time": "2026-05-01T20:14:41.041401+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 92,
+      "pattern": "Loose bodies with erosions",
+      "time": "2026-05-01T20:16:05.082179+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 94,
+      "pattern": "Posterior element lytic lesion",
+      "time": "2026-05-01T20:17:44.475078+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 98,
+      "pattern": "Multiple sclerotic foci in the pelvis",
+      "time": "2026-05-01T20:20:12.731510+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 99,
+      "pattern": "Vertebral body wedge fracture",
+      "time": "2026-05-01T20:21:12.177797+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 100,
+      "pattern": "Epiphyseal equivalent lucent lesion",
+      "time": "2026-05-01T20:22:09.271739+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 102,
+      "pattern": "Orbital rim fracture",
+      "time": "2026-05-01T20:23:32.614116+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 103,
+      "pattern": "Cavernous sinus mass/enhancement",
+      "time": "2026-05-01T20:24:37.347537+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 104,
+      "pattern": "Aggressive sinus disease with bony destruction",
+      "time": "2026-05-01T20:25:34.844757+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 108,
+      "pattern": "Pharyngeal mucosal mass",
+      "time": "2026-05-01T20:28:15.218667+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 110,
+      "pattern": "Carotid space mass",
+      "time": "2026-05-01T20:29:51.109252+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 111,
+      "pattern": "Retropharyngeal mass",
+      "time": "2026-05-01T20:31:13.130306+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 112,
+      "pattern": "Clival mass",
+      "time": "2026-05-01T20:32:12.113575+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 113,
+      "pattern": "Vascular injury to the neck",
+      "time": "2026-05-01T20:33:05.327572+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 117,
+      "pattern": "Middle ear mass",
+      "time": "2026-05-01T20:35:35.711328+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 118,
+      "pattern": "Temporal bone trauma with mastoid \ufb02 uid",
+      "time": "2026-05-01T20:36:34.252229+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 120,
+      "pattern": "Floor of the mouth mass",
+      "time": "2026-05-01T20:37:53.138303+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 123,
+      "pattern": "Jugular foramen mass",
+      "time": "2026-05-01T20:39:57.001886+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 125,
+      "pattern": "Leptomeningeal enhancement",
+      "time": "2026-05-01T20:41:32.059816+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 126,
+      "pattern": "Con\ufb02 uent white matter lesions in an adult",
+      "time": "2026-05-01T20:42:18.074743+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 127,
+      "pattern": "Con\ufb02 uent white matter lesions in a child",
+      "time": "2026-05-01T20:43:09.573956+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 128,
+      "pattern": "Ring-enhancing lesion",
+      "time": "2026-05-01T20:44:08.529012+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 129,
+      "pattern": "Pineal region mass",
+      "time": "2026-05-01T20:45:07.426717+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 130,
+      "pattern": "Sellar/suprasellar mass in a child",
+      "time": "2026-05-01T20:46:15.510799+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 131,
+      "pattern": "Posterior fossa mass in a child",
+      "time": "2026-05-01T20:47:10.137635+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 132,
+      "pattern": "Posterior fossa mass in an adult",
+      "time": "2026-05-01T20:48:10.062769+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 133,
+      "pattern": "Posterior fossa cyst",
+      "time": "2026-05-01T20:49:01.877788+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 135,
+      "pattern": "Cerebellar tonsillar herniation",
+      "time": "2026-05-01T20:50:32.082675+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 136,
+      "pattern": "Cerebrospinal \ufb02 uid (CSF)\u2013lined cortical cleft",
+      "time": "2026-05-01T20:51:15.507126+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 76,
+      "pattern": "Multiple lytic foci",
+      "time": "2026-05-02T07:26:05.307674+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 91,
+      "pattern": "Dense joint e\u0325 usion",
+      "time": "2026-05-02T07:27:48.435420+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 93,
+      "pattern": "Expansile rib lesion in a child",
+      "time": "2026-05-02T07:29:03.466028+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 96,
+      "pattern": "Periarticular soft tissue calci\ufb01 cations",
+      "time": "2026-05-02T07:30:43.843187+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 97,
+      "pattern": "Benign expansile lytic lesion",
+      "time": "2026-05-02T07:31:48.322385+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 101,
+      "pattern": "Enhancing orbital mass",
+      "time": "2026-05-02T07:32:47.425642+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 105,
+      "pattern": "Unilateral parotid mass",
+      "time": "2026-05-02T07:33:41.506968+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 106,
+      "pattern": "Bilateral parotid masses",
+      "time": "2026-05-02T07:34:43.746267+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 107,
+      "pattern": "Orbital muscle enlargement",
+      "time": "2026-05-02T07:35:59.547886+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 109,
+      "pattern": "Masticator space mass",
+      "time": "2026-05-02T07:37:32.006646+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 114,
+      "pattern": "Globe lesion in a child",
+      "time": "2026-05-02T07:38:34.833420+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 115,
+      "pattern": "Optic nerve enlargement and enhancement",
+      "time": "2026-05-02T07:39:39.976256+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 124,
+      "pattern": "Petrous apex lesion",
+      "time": "2026-05-02T07:43:19.022874+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 134,
+      "pattern": "Cerebellopontine angle (CPA) mass",
+      "time": "2026-05-02T07:44:25.083199+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 137,
+      "pattern": "Enhancing intramedullary spinal mass",
+      "time": "2026-05-02T07:45:34.875771+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 138,
+      "pattern": "Intradural extramedullary spinal mass",
+      "time": "2026-05-02T07:46:44.534568+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 140,
+      "pattern": "Increased T2 signal intensity in basal ganglia/thalami in a child",
+      "time": "2026-05-02T07:48:29.074249+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 141,
+      "pattern": "Intraparenchymal hemorrhage",
+      "time": "2026-05-02T07:49:51.592237+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 142,
+      "pattern": "Corpus callosal lesion",
+      "time": "2026-05-02T07:51:10.915068+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 144,
+      "pattern": "Massive supratentorial cerebrospinal \ufb02 uid (CSF) collection in a newborn",
+      "time": "2026-05-02T07:52:58.614656+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 145,
+      "pattern": "Intraventricular mass",
+      "time": "2026-05-02T07:54:25.374489+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 148,
+      "pattern": "Cortically based enhancing neoplasm",
+      "time": "2026-05-02T07:56:51.333600+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 150,
+      "pattern": "Prominent periventricular/basal ganglia cystic lesions",
+      "time": "2026-05-02T07:58:35.306863+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 151,
+      "pattern": "Neonatal lung disease with low lung volumes",
+      "time": "2026-05-02T07:59:34.075674+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 152,
+      "pattern": "Neonatal lung disease with increased lung volumes",
+      "time": "2026-05-02T08:00:38.743653+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 153,
+      "pattern": "Cyanotic infant with decreased pulmonary \ufb02 ow",
+      "time": "2026-05-02T08:01:41.314402+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 154,
+      "pattern": "Cyanotic infant with increased pulmonary vascularity",
+      "time": "2026-05-02T08:02:50.263559+00:00"
+    },
+    {
+      "_id": null,
+      "obrienCaseNumber": 155,
+      "pattern": "Shunt vascularity",
+      "time": "2026-05-02T08:03:48.297023+00:00"
+    }
+  ],
+  "failed": []
+}

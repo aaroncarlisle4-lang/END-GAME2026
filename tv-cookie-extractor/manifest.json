@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "TradingView Cookie Extractor",
+  "version": "1.0.0",
+  "description": "Exports tradingview.com cookies as JSON (Puppeteer/Playwright-compatible).",
+  "permissions": ["cookies", "downloads"],
+  "host_permissions": [
+    "https://*.tradingview.com/*",
+    "https://tradingview.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Export TradingView cookies"
+  }
+}

@@ -2921,99 +2921,99 @@
     "clinicalPearl": "To quickly narrow the differential for multiple wormian bones, evaluate bone density and the clavicles: osteogenesis imperfecta presents with osteopenia, pyknodysostosis with osteosclerosis, and cleidocranial dysplasia with absent clavicles and normal bone density [2]."
   },
   "ch48": {
-    "patternSummary": "Posterior fossa masses in children are primarily primary malignancies rather than metastases, and are best differentiated by their location (midline vs. lateral), density, and enhancement patterns [1].",
+    "patternSummary": "Posterior fossa masses in children are primarily primary malignancies rather than metastases, and are best differentiated by their location, density, and enhancement patterns [1].",
     "differentials": [
       {
         "letter": "G",
         "condition": "Glioma (Brainstem)",
-        "dominantImagingFeature": "diffuse enlargement of the pons",
-        "keyDiscriminator": "centred in the pons without significant enhancement",
+        "dominantImagingFeature": "diffuse enlargement of the pons [2]",
+        "keyDiscriminator": "centered in the pons without significant enhancement [3, 4]",
         "supportingFeatures": [
-          "Often anterior to the fourth ventricle, flattening its floor [2, 3].",
-          "Presents with focal neurology rather than hydrocephalus [3, 4]."
+          "Presents with cranial nerve palsies rather than hydrocephalus [5].",
+          "Insidious onset with infiltration of long tracts [6]."
         ]
       },
       {
         "letter": "A",
         "condition": "Astrocytoma (Juvenile Pilocytic)",
-        "dominantImagingFeature": "cystic cerebellar mass with enhancing mural nodule",
-        "keyDiscriminator": "cyst with intensely enhancing peripheral solid nodule",
+        "dominantImagingFeature": "cystic cerebellar mass with enhancing mural nodule [7, 8]",
+        "keyDiscriminator": "cyst with intensely enhancing peripheral solid nodule [7]",
         "supportingFeatures": [
-          "Most common infratentorial tumor in children [5].",
-          "May be associated with neurofibromatosis type 1 [6, 7]."
+          "Most common infratentorial tumor in children [9].",
+          "May be associated with neurofibromatosis type 1 [9, 10]."
         ]
       },
       {
         "letter": "M",
         "condition": "Medulloblastoma",
-        "dominantImagingFeature": "hyperdense midline mass arising from the vermis",
-        "keyDiscriminator": "hyperdense on non-contrast CT with restricted diffusion",
+        "dominantImagingFeature": "hyperdense midline mass arising from the vermis [11, 12]",
+        "keyDiscriminator": "hyperdense on unenhanced CT with restricted diffusion [1, 11]",
         "supportingFeatures": [
-          "Arises from the roof of the fourth ventricle [8, 9].",
-          "Prone to CSF seeding or 'drop metastases' [10, 11]."
+          "Arises from the roof of the fourth ventricle [12, 13].",
+          "Prone to CSF seeding or drop metastases [14, 15]."
         ]
       },
       {
         "letter": "E",
         "condition": "Ependymoma",
-        "dominantImagingFeature": "heterogeneous mass expanding the fourth ventricle",
-        "keyDiscriminator": "extends through CSF foramina with frequent calcification",
+        "dominantImagingFeature": "heterogeneous mass expanding the fourth ventricle [8]",
+        "keyDiscriminator": "extends through CSF foramina with frequent calcification [8, 16]",
         "supportingFeatures": [
-          "Plastic growth through the foramina of Luschka and Magendie [12, 13].",
-          "Contains calcification in approximately 50% of cases [12, 13]."
+          "Plastic growth through the foramina of Luschka and Magendie [17, 18].",
+          "Contains calcification in approximately fifty percent of cases [17, 19]."
         ]
       }
     ],
-    "clinicalPearl": "A midline homogeneous and hyperdense mass indicates a medulloblastoma, a heterogeneous lesion expanding the fourth ventricle through its foramina indicates an ependymoma, and a cystic lesion with a small enhancing nodule indicates a juvenile pilocytic astrocytoma [1, 11]."
+    "clinicalPearl": "A midline homogeneous and hyperdense mass indicates a medulloblastoma, a heterogeneous lesion expanding the fourth ventricle through its foramina indicates an ependymoma, and a cystic lesion with a small enhancing nodule indicates a juvenile pilocytic astrocytoma [15]."
   },
   "ch49": {
-    "patternSummary": "Large abdominal masses in children demand rapid differentiation between congenital cystic diseases and malignant neoplasms, primarily by assessing the organ of origin and relationship to adjacent major vessels [1, 2].",
+    "patternSummary": "Large abdominal masses in children demand rapid differentiation between congenital cystic diseases and malignant neoplasms, primarily by assessing the organ of origin and relationship to adjacent major vessels [1-3].",
     "differentials": [
       {
         "letter": "W",
         "condition": "Wilms tumor",
-        "dominantImagingFeature": "well-defined solid renal mass with claw sign [3]",
-        "keyDiscriminator": "displaces rather than encases adjacent major vessels [4, 5]",
+        "dominantImagingFeature": "well-defined solid renal mass with claw sign",
+        "keyDiscriminator": "displaces rather than encases adjacent major vessels",
         "supportingFeatures": [
-          "Peak incidence is around three years of age [3].",
-          "May invade the renal vein and inferior vena cava [3, 6]."
+          "Peak incidence is around three years of age [4, 5].",
+          "May invade the renal vein and inferior vena cava [1, 6]."
         ]
       },
       {
         "letter": "H",
         "condition": "Hepatoblastoma / Hydronephrosis",
-        "dominantImagingFeature": "heterogeneous hepatic mass or communicating renal cysts [2, 7]",
-        "keyDiscriminator": "hepatic origin or cysts communicating at the renal pelvis [2, 7]",
+        "dominantImagingFeature": "heterogeneous hepatic mass or communicating renal cysts",
+        "keyDiscriminator": "hepatic origin or cysts communicating at renal pelvis",
         "supportingFeatures": [
-          "Hepatoblastoma is the most common primary hepatic malignancy in infancy [7].",
-          "Hydronephrosis is the most common pediatric abdominal mass overall [8]."
+          "Hepatoblastoma is the most common primary hepatic malignancy in infancy [7, 8].",
+          "Hydronephrosis is the most common pediatric abdominal mass overall [3, 9]."
         ]
       },
       {
         "letter": "A",
         "condition": "Adrenal (Neuroblastoma)",
-        "dominantImagingFeature": "calcified suprarenal mass extending across the midline [9, 10]",
-        "keyDiscriminator": "encases rather than displaces adjacent major abdominal vessels [4, 5]",
+        "dominantImagingFeature": "calcified suprarenal mass extending across the midline",
+        "keyDiscriminator": "encases rather than displaces adjacent major abdominal vessels",
         "supportingFeatures": [
-          "Almost all neuroblastomas contain calcification, unlike Wilms tumors [5].",
-          "Frequently metastasizes to bone and the skull base [5, 11]."
+          "Almost all neuroblastomas contain calcification, unlike Wilms tumors [2].",
+          "Frequently metastasizes to bone and the skull base [1, 10]."
         ]
       },
       {
         "letter": "M",
         "condition": "Mesoblastic nephroma / MCDK",
-        "dominantImagingFeature": "solid neonatal renal mass or non-communicating cysts [12, 13]",
-        "keyDiscriminator": "presentation in the neonatal period under 3 months [12, 14]",
+        "dominantImagingFeature": "solid neonatal renal mass or non-communicating cysts",
+        "keyDiscriminator": "presentation in the neonatal period under three months",
         "supportingFeatures": [
-          "Mesoblastic nephroma is the most common solid renal mass in neonates [12].",
+          "Mesoblastic nephroma is the most common solid renal mass in neonates [11, 12].",
           "Multicystic dysplastic kidney (MCDK) presents with multiple cysts that do not communicate [13]."
         ]
       }
     ],
-    "clinicalPearl": "When differentiating the two most common childhood abdominal malignancies, remember that neuroblastoma typically encases vessels and commonly calcifies, whereas Wilms tumor typically displaces vessels and rarely calcifies [4, 5]."
+    "clinicalPearl": "When differentiating the two most common childhood abdominal malignancies, remember that neuroblastoma typically encases vessels and commonly calcifies, whereas Wilms tumor typically displaces vessels and rarely calcifies [1, 2, 14]."
   },
   "ch50": {
-    "patternSummary": "Neonatal low bowel obstruction presents with multiple dilated loops and delayed meconium passage, requiring a contrast enema to differentiate mechanical from functional causes [1-3].",
+    "patternSummary": "Neonatal low bowel obstruction presents with delayed meconium passage and multiple dilated loops, requiring a contrast enema to differentiate mechanical from functional causes [1-3].",
     "differentials": [
       {
         "letter": "H",
@@ -3031,8 +3031,8 @@
         "dominantImagingFeature": "multiple dilated loops and secondary microcolon",
         "keyDiscriminator": "contrast enema cannot reflux into dilated small bowel",
         "supportingFeatures": [
-          "Usually results from an in utero vascular insult [7, 8].",
-          "Often associated with polyhydramnios on antenatal ultrasound [8]."
+          "Usually results from an in utero vascular insult [7].",
+          "Associated with polyhydramnios on antenatal ultrasound [7]."
         ]
       },
       {
@@ -3041,8 +3041,8 @@
         "dominantImagingFeature": "microcolon with multiple terminal ileum filling defects",
         "keyDiscriminator": "contrast refluxes into dilated proximal small bowel",
         "supportingFeatures": [
-          "Soap-bubble appearance on plain radiograph [3, 9].",
-          "Almost universally associated with cystic fibrosis [3]."
+          "Soap-bubble appearance on plain radiograph [8, 9].",
+          "Almost universally associated with cystic fibrosis [3, 8]."
         ]
       },
       {
@@ -3051,7 +3051,7 @@
         "dominantImagingFeature": "low bowel obstruction with absent anal gas",
         "keyDiscriminator": "concurrent sacral agenesis or vertebral anomalies",
         "supportingFeatures": [
-          "Associated with VACTERL sequence and Currarino triad [10, 11].",
+          "Associated with VACTERL sequence and Currarino triad [9-11].",
           "May have fistulous communication to the urinary tract [10]."
         ]
       },
@@ -3061,11 +3061,11 @@
         "dominantImagingFeature": "small caliber left colon up to splenic flexure",
         "keyDiscriminator": "normal rectal caliber distinguishing it from Hirschsprung disease",
         "supportingFeatures": [
-          "Associated with maternal diabetes and prematurity [12, 13].",
-          "Contrast enema is frequently therapeutic, prompting meconium passage [13]."
+          "Associated with maternal diabetes and prematurity [2, 12].",
+          "Contrast enema is frequently therapeutic, prompting meconium passage [12]."
         ]
       }
     ],
-    "clinicalPearl": "A contrast enema is essential for diagnosis: meconium ileus shows a microcolon with reflux into dilated small bowel, while Hirschsprung disease shows a reversed rectosigmoid ratio with a transition zone [3, 12]."
+    "clinicalPearl": "A contrast enema is essential for diagnosis: meconium ileus shows a microcolon with reflux into dilated small bowel, while Hirschsprung disease shows a reversed rectosigmoid ratio with a transition zone [2, 3]."
   }
 }
